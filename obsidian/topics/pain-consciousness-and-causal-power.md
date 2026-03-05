@@ -4,7 +4,7 @@ description: "Pain is the hard problem made personal and epiphenomenalism made u
 created: 2026-02-09
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-04T20:17:00+00:00
+ai_modified: 2026-03-05T18:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-04
 last_curated:
-last_deep_review: 2026-03-04T20:17:00+00:00
+last_deep_review: 2026-03-05T18:56:00+00:00
 coalesced_from:
   - "/topics/suffering-versus-pain/"
   - "/topics/pain-asymbolia-as-central-test-case/"

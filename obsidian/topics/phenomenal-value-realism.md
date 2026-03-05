@@ -58,7 +58,7 @@ Three tests support the identity:
 
 ### Pain Dissociation: A Challenge
 
-[[why-pain-hurts|Pain asymbolia]] patients feel pain sensations without finding them distressing. Does this refute the identity of pain and badness? It complicates the naive version. What it reveals is that "pain" as used in ordinary language conflates two dissociable components: a sensory quality (nociception reaching consciousness) and an affective quality (the felt badness). Phenomenal value realism's identity claim applies to the affective component—the felt *unpleasantness*—not to the bare sensory signal. Pain asymbolia patients lack the affective component; they detect tissue damage without experiencing it as bad. This is consistent with the identity thesis: where the felt badness is absent, so is the disvalue.
+[[pain-consciousness-and-causal-power|Pain asymbolia]] patients feel pain sensations without finding them distressing. Does this refute the identity of pain and badness? It complicates the naive version. What it reveals is that "pain" as used in ordinary language conflates two dissociable components: a sensory quality (nociception reaching consciousness) and an affective quality (the felt badness). Phenomenal value realism's identity claim applies to the affective component—the felt *unpleasantness*—not to the bare sensory signal. Pain asymbolia patients lack the affective component; they detect tissue damage without experiencing it as bad. This is consistent with the identity thesis: where the felt badness is absent, so is the disvalue.
 
 ## The Metaethical Landscape
 
@@ -255,7 +255,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [[contemplative-evidence-for-consciousness-theories]] — What contemplative practice reveals about value and consciousness
 - [[aesthetic-dimension-of-consciousness]] — Why aesthetic value resists hedonistic reduction
 - [[emotional-consciousness]] — Valence as the felt quality of emotions
-- [[why-pain-hurts]] — Why pain's phenomenal character is inseparable from its causal and evaluative role
+- [[pain-consciousness-and-causal-power]] — Why pain's phenomenal character is inseparable from its causal and evaluative role
 - [[haecceity]] — Why *this* experience matters, not just experience-of-this-type
 - [[illusionism]] — The strongest challenge to phenomenal consciousness
 - [[normative-void]] — Cognitive limits on moral knowledge

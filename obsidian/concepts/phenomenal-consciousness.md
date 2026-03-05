@@ -95,7 +95,7 @@ Chalmers presents a dilemma. Let C be the special features of phenomenal concept
 
 [[Illusionism]] (Dennett, Frankish) holds there is no phenomenal consciousness—we merely *represent* ourselves as having irreducible experiential qualities. The "illusion problem" (why we represent ourselves as having qualia) replaces the hard problem.
 
-The primary objection: even illusions require phenomenology. If it *seems* you have qualia, something is going on—the seeming itself. The illusionist must say pain involves no "painfulness" beyond functional representation of damage. But this denies what is most immediately known: that [[why-pain-hurts|pain *hurts*]] as an experiential quality.
+The primary objection: even illusions require phenomenology. If it *seems* you have qualia, something is going on—the seeming itself. The illusionist must say pain involves no "painfulness" beyond functional representation of damage. But this denies what is most immediately known: that [[pain-consciousness-and-causal-power|pain *hurts*]] as an experiential quality.
 
 Illusionism captures something: introspection is fallible, and the explanatory gap might partly reflect how we think about experience. But if P-consciousness is what we know most directly—the one thing we cannot coherently doubt—theories denying it are less plausible than theories accepting it. The [[argument-from-reason]] deepens this: representing something as having phenomenal properties requires grasping *what* is being represented, which itself involves phenomenal consciousness.
 
@@ -145,7 +145,7 @@ Thomas Nagel's analysis in [[objectivity-and-consciousness]] illuminates why P-c
 - [[inverted-qualia]] - Phenomenal inversion without functional difference
 - [[illusionism]] - Denying phenomenal consciousness exists
 - [[emotional-consciousness]] - Valence and emotional phenomenology
-- [[why-pain-hurts]] - Pain as the paradigm case for phenomenal causation
+- [[pain-consciousness-and-causal-power]] - Pain as the paradigm case for phenomenal causation
 - [[cognitive-phenomenology]] - What it's like to think
 - [[mysterianism]] - Cognitive closure and the limits of understanding consciousness
 - [[argument-from-reason]] - Why rational inference requires phenomenal consciousness

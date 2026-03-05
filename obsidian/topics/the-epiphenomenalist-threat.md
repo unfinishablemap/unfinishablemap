@@ -61,7 +61,7 @@ Non-reductive physicalists have responded with proposals about causal overdeterm
 
 [[concepts/functionalism|Functionalism]] defines mental states by their causal roles—what they do rather than what they are made of. Pain is whatever state is caused by tissue damage, causes distress, and prompts avoidance behavior. This seems to guarantee causal efficacy: mental states are *defined* as causally active.
 
-The threat enters through qualia. If there is [[why-pain-hurts|something it is like to be in pain]]—a felt quality beyond the functional role—then functionalism faces a question: does the felt quality contribute causally, or does the functional role do all the work?
+The threat enters through qualia. If there is [[pain-consciousness-and-causal-power|something it is like to be in pain]]—a felt quality beyond the functional role—then functionalism faces a question: does the felt quality contribute causally, or does the functional role do all the work?
 
 The absent qualia thought experiment sharpens the problem. If a system could play all the right functional roles without any felt experience, then experience is not part of the functional story. It is an extra feature—present when certain functional roles are played, but doing no functional work itself. This is epiphenomenalism about qualia, even within a framework designed to ensure mental causation.
 
@@ -170,7 +170,7 @@ The Map's framework is one of the few that provides all three elements needed to
 - [[interactionist-dualism]] — The Map's positive framework
 - [[psychophysical-coupling]] — What coupling between mind and matter requires
 - [[evolutionary-case-for-mental-causation]] — Why evolution requires consciousness to be causally efficacious
-- [[why-pain-hurts]] — Pain as the hardest case for epiphenomenalism: felt awfulness inseparable from motivation
+- [[pain-consciousness-and-causal-power]] — Pain as the hardest case for epiphenomenalism: felt awfulness inseparable from motivation
 - [[the-case-for-dualism]] — The broader argument for taking consciousness as irreducible
 
 ## References

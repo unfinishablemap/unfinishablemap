@@ -8,8 +8,7 @@ ai_modified: 2026-02-26T23:57:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-pain]]"
-  - "[[why-pain-hurts]]"
-  - "[[suffering-versus-pain]]"
+  - "[[pain-consciousness-and-causal-power]]"
 concepts:
   - "[[qualia]]"
   - "[[concepts/epiphenomenalism]]"
@@ -93,9 +92,8 @@ Together, these dissociations show that pain's dimensions can be independently m
 
 ## Further Reading
 
-- [[why-pain-hurts]] — Pain as the paradigm case for mental causation
+- [[pain-consciousness-and-causal-power]] — Pain, suffering, and the paradigm case for mental causation
 - [[phenomenology-of-pain]] — Pain's phenomenal character and resistance to reduction
-- [[suffering-versus-pain]] — The philosophical significance of the pain-suffering distinction
 - [[philosophical-zombies]] — The thought experiment that asymbolia partially instantiates
 - [[hard-problem-of-consciousness]] — The explanatory gap that asymbolia exposes in miniature
 - [[qualia]] — The qualitative character of experience

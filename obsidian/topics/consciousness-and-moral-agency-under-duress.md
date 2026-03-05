@@ -26,7 +26,7 @@ related_articles:
   - "[[time-collapse-and-agency]]"
   - "[[volitional-opacity]]"
   - "[[evolutionary-case-for-mental-causation]]"
-  - "[[suffering-versus-pain]]"
+  - "[[pain-consciousness-and-causal-power]]"
   - "[[spontaneous-intentional-action]]"
 ai_contribution: 100
 author:
@@ -121,7 +121,7 @@ This framework avoids two extremes. Against hard determinism, it maintains that 
 - [[luck-objection]]
 - [[reasons-responsiveness]]
 - [[concepts/consciousness-selecting-neural-patterns]]
-- [[suffering-versus-pain]]
+- [[pain-consciousness-and-causal-power]]
 - [[spontaneous-intentional-action]]
 - [[moral-implications-of-genuine-agency]] — The broader moral implications when agency is real: obligation, character, moral luck
 

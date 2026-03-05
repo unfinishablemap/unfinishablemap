@@ -153,7 +153,7 @@ John Eccles (1994), with quantum mechanics developed alongside Friedrich Beck, p
 
 ### Tier 3: Three Underdeveloped Candidates
 
-**Valence as motivational force.** [[why-pain-hurts|Pain asymbolia]] provides compelling evidence that phenomenal valence does causal work: patients detect tissue damage normally but lack felt badness and consequently lack avoidance motivation. The dissociation suggests felt valence, not merely damage representation, drives motivational behaviour. But no quantum-level pathway has been proposed.
+**Valence as motivational force.** [[pain-consciousness-and-causal-power|Pain asymbolia]] provides compelling evidence that phenomenal valence does causal work: patients detect tissue damage normally but lack felt badness and consequently lack avoidance motivation. The dissociation suggests felt valence, not merely damage representation, drives motivational behaviour. But no quantum-level pathway has been proposed.
 
 **Qualia as basis selection.** Perhaps specific phenomenal qualities correspond to specific measurement bases in quantum collapse—consciousness selects *what question to ask* rather than *which answer to get*. No developed theory, no mechanism, no evidence. Conceptually interesting: it illustrates that coupling might operate at the question level rather than the outcome level.
 
@@ -237,7 +237,7 @@ The framework would face serious difficulty if:
 - [[quantum-consciousness]] — Quantum frameworks providing selection pathways
 - [[decoherence]] — The physics objection and biological quantum effects
 - [[mysterianism]] — Whether consciousness may be cognitively closed to human understanding
-- [[why-pain-hurts]] — Pain's inseparable phenomenal-causal character as evidence for coupling
+- [[pain-consciousness-and-causal-power]] — Pain's inseparable phenomenal-causal character as evidence for coupling
 - [[tenets]] — The Map's foundational commitments
 
 ## References

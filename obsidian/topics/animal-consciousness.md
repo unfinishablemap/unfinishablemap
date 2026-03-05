@@ -133,7 +133,7 @@ If consciousness is irreducible to physical processes, finding neural correlates
 
 Do animals experience the *badness* of pain, or merely detect tissue damage? Panksepp identified seven primary emotional systems arising from ancient subcortical structures. Key evidence: decorticate rats—cortex removed—still play, show distress, and display pleasure responses. If emotional consciousness required cortex, decortication should eliminate it. This suggests emotional consciousness is "an evolutionary birthright" extending to any creature with subcortical limbic structures.
 
-LeDoux disagrees, arguing conscious feelings require cortical higher-order representations. But evidence from [[why-pain-hurts|pain asymbolia]]—where patients feel pain but find it doesn't bother them—shows nociception and suffering are distinct. The question isn't whether animals have pain responses (they do), but whether they experience the *felt badness* that makes pain suffering.
+LeDoux disagrees, arguing conscious feelings require cortical higher-order representations. But evidence from [[pain-consciousness-and-causal-power|pain asymbolia]]—where patients feel pain but find it doesn't bother them—shows nociception and suffering are distinct. The question isn't whether animals have pain responses (they do), but whether they experience the *felt badness* that makes pain suffering.
 
 ## Moral Status
 
@@ -208,7 +208,7 @@ Whether animal nervous systems provide the right conditions for quantum consciou
 - [[topics/consciousness-and-social-cognition]] — Theory of mind levels and shared intentionality
 
 ### Related Topics
-- [[why-pain-hurts]] — Why pain's phenomenal character is inseparable from its causal role across species
+- [[pain-consciousness-and-causal-power]] — Why pain's phenomenal character is inseparable from its causal role across species
 - [[hard-problem-of-consciousness]] — Why the explanatory gap applies universally
 - [[ai-consciousness]] — Parallel questions about non-biological minds
 - [[higher-order-theories]] — Why HOT theories fail

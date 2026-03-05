@@ -9,7 +9,7 @@ draft: false
 last_deep_review: 2026-03-04T05:41:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[why-pain-hurts]]"
+  - "[[pain-consciousness-and-causal-power]]"
 concepts:
   - "[[valence]]"
   - "[[qualia]]"
@@ -24,10 +24,9 @@ related_articles:
   - "[[emergence-void]]"
   - "[[causal-interface]]"
   - "[[three-kinds-of-void]]"
-  - "[[why-pain-hurts]]"
+  - "[[pain-consciousness-and-causal-power]]"
   - "[[emotional-consciousness]]"
   - "[[emotion-as-evidence-for-dualism]]"
-  - "[[pain-asymbolia-as-central-test-case]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -51,7 +50,7 @@ Neuroscience has mapped the circuits of pleasure and pain with remarkable precis
 
 None of this explains why these circuits *feel* a certain way. A complete wiring diagram of nociception — from peripheral transduction through spinal signalling to cortical processing — specifies everything pain does without saying anything about why it hurts. The [[philosophical-zombies|zombie argument]] applies with particular force here: a being functionally identical to us in its pain-processing could conceivably lack the felt badness entirely.
 
-[[pain-asymbolia-as-central-test-case|Pain asymbolia]] demonstrates that this is not merely a thought experiment. Patients with specific brain damage can represent tissue damage — they know their hand is burned — without feeling any badness. They have the information without the valence. If the physical description were sufficient, these patients should still be motivated to avoid damage with normal urgency. They are not — asymbolics fail to guard injured limbs, seek treatment, or develop avoidance patterns. The functional architecture and the felt quality are dissociable.
+[[pain-consciousness-and-causal-power|Pain asymbolia]] demonstrates that this is not merely a thought experiment. Patients with specific brain damage can represent tissue damage — they know their hand is burned — without feeling any badness. They have the information without the valence. If the physical description were sufficient, these patients should still be motivated to avoid damage with normal urgency. They are not — asymbolics fail to guard injured limbs, seek treatment, or develop avoidance patterns. The functional architecture and the felt quality are dissociable.
 
 ### Introspection Bottoms Out
 
@@ -109,7 +108,7 @@ The valence void connects to the Map's [[tenets|foundational commitments]] at mu
 
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[valence]] — The concept of hedonic valence and competing philosophical accounts
-- [[why-pain-hurts]] — Pain's phenomenal character and causal power — the valence void's paradigm case
+- [[pain-consciousness-and-causal-power]] — Pain's phenomenal character and causal power — the valence void's paradigm case
 - [[emotional-consciousness]] — The broader landscape of emotional consciousness and the valence debate
 - [[emotion-as-evidence-for-dualism]] — How valence irreducibility provides distinctive evidence for dualism
 - [[affective-void]] — Emotions beyond human reach — the range problem, not the structure problem

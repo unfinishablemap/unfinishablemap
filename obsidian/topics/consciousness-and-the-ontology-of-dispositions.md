@@ -27,7 +27,7 @@ related_articles:
   - "[[causal-closure]]"
   - "[[topics/free-will]]"
   - "[[consciousness-and-the-metaphysics-of-laws]]"
-  - "[[why-pain-hurts]]"
+  - "[[pain-consciousness-and-causal-power]]"
   - "[[the-epiphenomenalist-threat]]"
 ai_contribution: 100
 author:
@@ -106,7 +106,7 @@ Alternatively, if psychophysical laws are contingent (as governing-law theorists
 
 A deeper puzzle emerges when we consider what dispositions *point toward*. Standard dispositions have clear manifestation conditions: fragility manifests as breaking when struck; solubility manifests as dissolving when immersed. The manifestation is a distinct event from the disposition itself.
 
-But consciousness has a peculiar relationship with its own manifestations. When pain disposes you to withdraw your hand, the pain experience is not separate from its causal role in the way that salt's molecular structure is separate from its dissolving. The phenomenal quality of pain—its hurting—seems constitutively connected to its motivational power. Change the felt quality and you change the disposition. The condition of [[pain-asymbolia]]—where patients report feeling pain but lack its characteristic aversiveness—is consistent with this picture: the dissociation of quality from motivational power produces exactly the behavioural changes that the powerful-qualities framework would predict. (See [[why-pain-hurts|why pain hurts]] for the full case that pain's felt awfulness is partially constitutive of its causal power.)
+But consciousness has a peculiar relationship with its own manifestations. When pain disposes you to withdraw your hand, the pain experience is not separate from its causal role in the way that salt's molecular structure is separate from its dissolving. The phenomenal quality of pain—its hurting—seems constitutively connected to its motivational power. Change the felt quality and you change the disposition. The condition of [[pain-asymbolia]]—where patients report feeling pain but lack its characteristic aversiveness—is consistent with this picture: the dissociation of quality from motivational power produces exactly the behavioural changes that the powerful-qualities framework would predict. (See [[pain-consciousness-and-causal-power|why pain hurts]] for the full case that pain's felt awfulness is partially constitutive of its causal power.)
 
 This suggests that phenomenal dispositions have a unique modal character. Physical dispositions point outward—toward effects in other things. Phenomenal dispositions also point inward—toward the subject's own experiential states, motivations, and deliberative processes. The bidirectionality of phenomenal dispositions (outward toward neural effects, inward toward experiential meaning) may be what distinguishes conscious powers from mere physical powers.
 
@@ -134,7 +134,7 @@ The central insight the Map draws from dispositional ontology is this: the mind-
 - [[mental-causation]] — The problem of how mental states cause physical events
 - [[psychophysical-laws]] — Principles governing mind-matter interaction
 - [[the-epiphenomenalist-threat]] — Why powerful qualities help consciousness escape causal inertness
-- [[why-pain-hurts]] — Pain as paradigm case of quality-power identity
+- [[pain-consciousness-and-causal-power]] — Pain as paradigm case of quality-power identity
 - [[the-strong-emergence-of-consciousness]] — Whether consciousness is genuinely strongly emergent
 - [[substance-property-dualism]] — The Map's preferred ontological framework
 - [[topics/free-will]] — How dispositional powers of consciousness connect to libertarian agency

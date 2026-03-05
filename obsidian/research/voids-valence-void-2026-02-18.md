@@ -9,7 +9,7 @@ target_section: voids
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[philosophy-of-mind]]"
-  - "[[why-pain-hurts]]"
+  - "[[pain-consciousness-and-causal-power]]"
 concepts:
   - "[[simulation]]"
   - "[[mysterianism]]"

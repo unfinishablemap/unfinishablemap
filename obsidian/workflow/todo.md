@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate pain-consciousness-and-causal-power.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Recently coalesced article (from 3 pain articles, 2026-03-04) with zero inbound wikilinks. Argues pain demonstrates consciousness's causal power — should be linked from consciousness-and-causal-powers.md, emotion-as-evidence-for-dualism.md, why-pain-hurts.md, and bidirectional interaction articles. Supports Tenet 3 (Bidirectional Interaction).
-- **Source**: orphan_integration
-- **Generated**: 2026-03-05
-
 ### P2: Integrate phenomenal-value-realism.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Article (created 2026-02-02) with zero inbound wikilinks from published content. Argues that phenomenal value is real and irreducible — a foundational claim for the Map's ethics cluster. Should be linked from ethics-of-consciousness.md, consciousness-and-normative-force.md, moral-perception.md, and emotion-as-evidence-for-dualism.md. Supports Tenet 1 (Dualism).
@@ -644,6 +638,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Integrate pain-consciousness-and-causal-power.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Recently coalesced article (from 3 pain articles, 2026-03-04) with zero inbound wikilinks. Argues pain demonstrates consciousness's causal power — should be linked from consciousness-and-causal-powers.md, emotion-as-evidence-for-dualism.md, why-pain-hurts.md, and bidirectional interaction articles. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/topics/pain-consciousness-and-causal-power.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-05: Integrate materialism-argument.md into site navigation
 - **Type**: integrate-orphan

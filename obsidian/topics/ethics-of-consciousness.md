@@ -134,7 +134,7 @@ The Map's commitment to [[personal-identity|indexical identity]]—that *you* ar
 
 ## Suffering: The Moral Core
 
-Consciousness makes suffering possible; suffering is intrinsically bad; preventing suffering is therefore morally significant. [[suffering-versus-pain|Suffering is distinct from mere pain]]—it requires a subject who experiences negative [[valence]], not just nociception. Pain asymbolia—patients who feel pain but aren't bothered—demonstrates this dissociation, and [[why-pain-hurts]] traces why the felt badness of pain does genuine causal work.
+Consciousness makes suffering possible; suffering is intrinsically bad; preventing suffering is therefore morally significant. [[pain-consciousness-and-causal-power|Suffering is distinct from mere pain]]—it requires a subject who experiences negative [[valence]], not just nociception. Pain asymbolia—patients who feel pain but aren't bothered—demonstrates this dissociation, and [[pain-consciousness-and-causal-power]] traces why the felt badness of pain does genuine causal work.
 
 | Position | What Grounds Moral Status | Implication |
 |----------|---------------------------|-------------|
@@ -207,8 +207,7 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 - [[emotional-consciousness]] — The felt quality of emotion and its ethical implications
 - [[illusionism]] — The challenge from eliminativism about phenomenal consciousness
 - [[phenomenal-normativity]] — Why pain's badness is built into its phenomenal character
-- [[suffering-versus-pain]] — The distinction between nociception and genuine suffering
-- [[why-pain-hurts]] — The causal work of felt badness in pain experience
+- [[pain-consciousness-and-causal-power]] — The pain-suffering distinction and the causal work of felt badness
 - [[consciousness-and-moral-agency-under-duress]] — Moral responsibility when agency is constrained
 - [[normative-void]] — Cognitive limits on moral knowledge—ethical truths beyond human reach
 - [[moral-implications-of-genuine-agency]] — Beyond desert: obligation, character formation, and what genuine agency demands

@@ -102,7 +102,7 @@ The causal power here is persistence: consciousness makes certain neural configu
 
 ### Phenomenal Biasing
 
-The character of conscious experience—what it feels like—might itself contribute to causal influence. Pain's unpleasantness doesn't merely represent tissue damage; it causally motivates avoidance—and when the felt badness is removed (as in [[pain-asymbolia-as-central-test-case|pain asymbolia]]), motivation collapses (see [[why-pain-hurts]] for the full argument). Pleasure's attractiveness doesn't merely represent biological value; it causally drives approach behaviour.
+The character of conscious experience—what it feels like—might itself contribute to causal influence. Pain's unpleasantness doesn't merely represent tissue damage; it causally motivates avoidance—and when the felt badness is removed (as in [[pain-consciousness-and-causal-power|pain asymbolia]]), motivation collapses. Pleasure's attractiveness doesn't merely represent biological value; it causally drives approach behaviour.
 
 This requires [[selection-laws]]—psychophysical laws specifying how phenomenal character maps to action tendencies. The Map speculates that such laws exist, linking the qualitative nature of [[qualia]] to their causal role. See [[topics/phenomenal-value-realism]] for the ethical implications of treating phenomenal character as causally real.
 
@@ -197,7 +197,7 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [[psychophysical-laws-bridging-mind-and-matter]] — Formal frameworks for mind-matter interaction
 - [[selection-laws]] — Laws specifying how mental states select physical outcomes
 - [[agent-causation]] — The person as ultimate cause of action
-- [[why-pain-hurts]] — Pain as the paradigm case for phenomenal biasing
+- [[pain-consciousness-and-causal-power]] — Pain as the paradigm case for phenomenal biasing
 - [[topics/free-will]] — How causal powers relate to freedom and responsibility
 - [[conservation-laws-and-mind]] — Why mental causation need not violate physical conservation
 - [[the-interface-location-problem]] — Where and why consciousness interfaces with the physical

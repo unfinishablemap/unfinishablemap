@@ -129,8 +129,7 @@ The Unfinishable Map's [[tenets]] converge on DoC cases as among the most reveal
 - [[quantum-measurement-consciousness-interface]] — Where consciousness meets quantum indeterminacy
 - [[near-death-experiences]] — Heightened consciousness during minimal brain function
 - [[hard-problem-of-consciousness]] — The explanatory gap that DoC cases illuminate
-- [[pain-asymbolia-as-central-test-case]] — A parallel clinical dissociation testing the same theories
-- [[why-pain-hurts]] — Pain's inseparable phenomenal-causal character as a test case for consciousness theories
+- [[pain-consciousness-and-causal-power]] — Pain asymbolia and pain's inseparable phenomenal-causal character as a test case
 - [[split-brain-consciousness]] — Another classic dissociation case that challenges simple unity
 
 ## References
