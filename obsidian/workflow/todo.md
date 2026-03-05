@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense research/voids-volitional-opacity-2026-02-01.md (4165 words, 167% of soft target)
-- **Type**: condense
-- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4165 words, the worst length violation on the site. Preserve key findings while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-05
-
 ### P2: Condense research/voids-creativity-void-2026-02-02.md (4142 words, 166% of soft target)
 - **Type**: condense
 - **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4142 words, second-worst length violation. Preserve key findings while removing redundancy. See /condense skill.
@@ -624,6 +618,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Condense research/voids-volitional-opacity-2026-02-01.md (4165 words, 167% of soft target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4165 words, the worst length violation on the site. Preserve key findings while removing redundancy. See /condense skill.
+- **Output**: obsidian/research/voids-volitional-opacity-2026-02-01.md
 
 ### ✓ 2026-03-05: Write voids article on the involuntariness void
 - **Type**: expand-topic

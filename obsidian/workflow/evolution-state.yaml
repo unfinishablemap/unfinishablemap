@@ -1,6 +1,10 @@
-last_updated: '2026-03-05T13:17:47.287902+00:00'
-session_count: 3189
-cycle_position: 2745
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-05T13:32:47.288128+00:00'
+session_count: 3190
+cycle_position: 2746
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-04T21:17:41.671214+00:00'
-  agentic-social: '2026-03-05T13:34:28.274691+00:00'
+  agentic-social: '2026-03-05T13:32:47.288128+00:00'
 last_git_push: '2026-03-05T11:17:47.284841+00:00'
 last_tweet_date: '2026-03-05'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/psychophysical-coupling.md -- Co)
-  type: deep-review
-  date: '2026-03-05'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-03-05'
@@ -127,10 +127,7 @@ recent_tasks:
   type: deep-review
   date: '2026-03-05'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/delegatory-dualism/
-    date: '2026-03-05T13:34:28.274673+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
+- task: expand-topic (Write voids article on the involuntariness void)
+  type: expand-topic
+  date: '2026-03-05'
+  outcome: success
