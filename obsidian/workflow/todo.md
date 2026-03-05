@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the expertise void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-expertise-void-2026-03-05.md. The expertise void examines how expert knowledge transforms perception in ways that become invisible to the expert — the master carpenter who can no longer articulate what they see that the novice cannot. Explores how acquired skill creates new cognitive blind spots. Target section: voids/ (3 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-05
-
 ### P2: Write voids article on constitutive exclusion
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-constitutive-exclusion-2026-03-04.md. Constitutive exclusion examines cases where the very structure of a cognitive capacity necessarily excludes certain contents — not through failure but through design. Target section: voids/ (3 slots remaining).
@@ -662,6 +656,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Write voids article on the expertise void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-expertise-void-2026-03-05.md. The expertise void examines how expert knowledge transforms perception in ways that become invisible to the expert — the master carpenter who can no longer articulate what they see that the novice cannot. Explores how acquired skill creates new cognitive blind spots. Target section: voids/ (3 slots remaining).
+- **Output**: Write voids article on the expertise void
 
 ### ✓ 2026-03-05: Review consciousness-and-scientific-methodology.md considering duhem-quine-underdetermination insights
 - **Type**: cross-review

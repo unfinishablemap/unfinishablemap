@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 20:32 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Expertise Void
+- **Output**: [[topics/expertise-void]]
+- **Word count**: 1638
+- **Based on research**: yes, [[research/voids-expertise-void-2026-03-05]]
+- **Note**: Placed in topics/ because voids/ at cap (100/100)
+
 ## 2026-03-05 20:10 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-scientific-methodology]]
