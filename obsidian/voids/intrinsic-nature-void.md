@@ -54,7 +54,7 @@ Kant argued that the concept of noumenon is necessary as a "limiting concept." W
 
 There is a performative tension in Kant's position: the claim "things-in-themselves are unknowable" is itself a claim about things-in-themselves. Kant was aware of this and navigated it carefully—we can know *that* noumena exist (as the necessary ground of phenomena) without knowing *what* they are. The concept is purely limiting, not descriptive.
 
-This Kantian structure maps directly onto the intrinsic nature void. Physical science gives us phenomena—complete relational description. But the intrinsic nature that grounds these relations lies in the noumenal realm, structurally inaccessible to scientific method.
+This Kantian structure maps directly onto the intrinsic nature void. Physical science gives us phenomena—complete relational description. But the intrinsic nature that grounds these relations lies in the noumenal realm, structurally inaccessible to scientific method. The [[constitutive-exclusion]] develops this point: our concepts are themselves part of the constitutive contribution consciousness brings to experience, so they cannot step outside themselves to grasp what reality is apart from them.
 
 ## Consciousness as Exception
 
@@ -135,6 +135,7 @@ The hard problem is expected if physics cannot reach intrinsic nature and consci
 - [[acquaintance-void]] — The narrowness of our phenomenal window into intrinsic nature
 - [[valence-void]] — Valence as the most fundamental intrinsic nature we encounter
 - [[self-reference-paradox]] — Why consciousness cannot fully examine itself
+- [[constitutive-exclusion]] — Why consciousness cannot access reality independent of its own contribution
 
 ## References
 

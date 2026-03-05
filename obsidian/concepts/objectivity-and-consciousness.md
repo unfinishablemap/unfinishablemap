@@ -47,7 +47,7 @@ Nagel's *The View From Nowhere* (1986) captured the scientific aspiration: knowl
 
 But consciousness has essential subjective character. "What it is like to be a bat" cannot be understood by learning bat neurology or echolocation physics. We might know *that* bats experience, and predict their behavior, but the phenomenal character—what their sonar *feels like*—remains inaccessible from the outside. No amount of third-person data closes this gap.
 
-Nagel's insight: there is no genuine view from nowhere, only the aspiration toward it. For physical systems (rocks, planets, molecules), this aspiration succeeds—we can describe them without reference to any observer's experience. For consciousness itself, the aspiration becomes blindness. Eliminating the observer eliminates the subject matter.
+Nagel's insight: there is no genuine view from nowhere, only the aspiration toward it. For physical systems (rocks, planets, molecules), this aspiration succeeds—we can describe them without reference to any observer's experience. For consciousness itself, the aspiration becomes blindness. Eliminating the observer eliminates the subject matter. The [[constitutive-exclusion]] sharpens this: consciousness does not merely observe reality but partly constitutes it, so "objectivity" about consciousness is structurally impossible, not merely difficult.
 
 ## Objectivity Versus Intersubjectivity
 
@@ -170,6 +170,7 @@ The limits of objectivity are not defects to overcome but features of reality it
 - [[knowledge-argument]] — Mary's Room and why complete physical knowledge leaves out phenomenal facts
 - [[mysterianism|cognitive closure]] — McGinn's thesis on the permanent limits of human understanding
 - [[consciousness-only-territories]] — Knowledge domains accessible only through phenomenal experience
+- [[constitutive-exclusion]] — Why consciousness cannot access reality independent of its own constitutive contribution
 
 ## References
 

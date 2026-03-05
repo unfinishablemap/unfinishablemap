@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 22:25 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [[topics/constitutive-exclusion]]
+- **Word count**: 1750 → 1794 (+44)
+- **Critical issues addressed**: 0 (all resolved in prior review)
+- **Medium issues addressed**: 1 (dangling Smithies reference)
+- **Enhancements made**: 12 (8 inbound cross-references from existing articles, 4 outbound links added)
+- **Output**: [[reviews/deep-review-2026-03-05b-constitutive-exclusion]]
+
 ## 2026-03-05 22:17 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/constitutive-exclusion]]

@@ -108,7 +108,7 @@ This gap is not merely a current limitation. It seems structural—a consequence
 
 As Russell and Eddington observed, physics tells us what things *do*—how they relate to other things—but not what they *are* intrinsically. The [[intrinsic-nature-void]] lies at the heart of scientific knowledge: every physical description is relational. Consciousness may be our only window into intrinsic nature, which is why structural descriptions—however complete—cannot reach it.
 
-The [[objectivity-and-consciousness|objectivity paradox]] sharpens this point: science achieves objectivity by eliminating perspective, but consciousness *is* perspective—applying objective methods to it eliminates the subject matter.
+The [[objectivity-and-consciousness|objectivity paradox]] sharpens this point: science achieves objectivity by eliminating perspective, but consciousness *is* perspective—applying objective methods to it eliminates the subject matter. The [[constitutive-exclusion]] goes further: consciousness does not merely resist objective study but partly constitutes what any study encounters, making the gap structural rather than methodological.
 
 The [[emergence-void]] suggests this gap may be the deepest instance of a more general cognitive limit. We struggle to grasp how arrangement produces novelty at *every* level transition—physics to chemistry, chemistry to biology, neurons to experience. The hard problem is where the resistance becomes impossible to ignore, but the same "and then a miracle occurs" structure appears wherever description changes levels. If emergence itself is a void in human comprehension, the hard problem's persistence is expected rather than puzzling.
 
@@ -282,6 +282,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [[intrinsic-nature-void]] — Why physics describes only structure, leaving intrinsic nature unknowable
 - [[emergence-void]] — Why the hard problem may be the deepest instance of a general cognitive limit at level transitions
 - [[objectivity-and-consciousness]] — Why consciousness resists objective description: the view from nowhere cannot capture what IS perspective
+- [[constitutive-exclusion]] — Why consciousness's constitutive role makes the explanatory gap structural
 - [[quantum-consciousness]] — How quantum mechanics might relate to consciousness
 - [[witness-consciousness]] — The subject-object structure revealed by contemplative practice
 - [[phenomenological-psychiatry-and-altered-experience]] — How psychiatric conditions reveal structural features of consciousness that resist neural reduction

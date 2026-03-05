@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate constitutive-exclusion.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Brand new article (2026-03-05) with zero inbound links. The constitutive exclusion argues consciousness cannot access reality independent of its own contribution — a structural limit deeper than observation bias. Add cross-references from observation-void.md, intrinsic-nature-void.md, self-reference-paradox.md, and other voids articles that discuss structural limits on knowledge. Also update the voids section index if appropriate.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-05
-
 ### P2: Cross-review observation-void.md considering constitutive-exclusion insights
 - **Type**: cross-review
 - **Notes**: New article topics/constitutive-exclusion.md argues consciousness structurally cannot access reality independent of its own contribution. voids/observation-void.md examines the impossibility of observing consciousness without altering it. The constitutive exclusion provides a deeper philosophical grounding for the observation void — check for cross-links, argument reinforcement, and whether observation-void should reference constitutive exclusion as a foundational framework. Supports Tenet 1 (Dualism).
@@ -662,6 +656,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Integrate constitutive-exclusion.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Brand new article (2026-03-05) with zero inbound links. The constitutive exclusion argues consciousness cannot access reality independent of its own contribution — a structural limit deeper than observation bias. Add cross-references from observation-void.md, intrinsic-nature-void.md, self-reference-paradox.md, and other voids articles that discuss structural limits on knowledge. Also update the voids section index if appropriate.
+- **Output**: obsidian/topics/constitutive-exclusion.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-05: Condense research/psychophysical-coupling-law-mechanisms-2026-01-23.md (3956 words)
 - **Type**: condense

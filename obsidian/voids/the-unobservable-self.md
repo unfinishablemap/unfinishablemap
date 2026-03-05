@@ -59,7 +59,7 @@ Contemplatives across traditions report that close introspective attention revea
 
 The [[hard-problem-of-consciousness|hard problem]] asks: why is there something it is like to be a conscious system? Why doesn't information processing happen "in the dark," without subjective experience accompanying it?
 
-The unobservable self offers a structural answer to why this question resists solution. The hard problem asks us to examine consciousness itself—to inspect the intrinsic nature of experience. But consciousness is precisely what cannot be inspected. Every attempt at inspection is consciousness in action, which adds to rather than reveals the nature of what we seek.
+The unobservable self offers a structural answer to why this question resists solution. The hard problem asks us to examine consciousness itself—to inspect the intrinsic nature of experience. But consciousness is precisely what cannot be inspected. Every attempt at inspection is consciousness in action, which adds to rather than reveals the nature of what we seek. The [[constitutive-exclusion]] identifies the same structure at a broader scale: consciousness cannot access any reality independent of its own constitutive contribution, and the unobservable self is this exclusion applied reflexively.
 
 Materialist explanations describe neural processes in third-person terms: correlations, activity patterns, information flow. They cannot describe *what it is like* because the "what it is like" is the describer, never the described. The [[explanatory-gap|explanatory gap]] persists because the explainer is always on the wrong side of it.
 
@@ -159,6 +159,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly. I
 - [[hard-problem-of-consciousness|The Hard Problem of Consciousness]] — Why consciousness resists explanation
 - [[ownership-void|The Ownership Void]] — Why the ownership relation hides from the subject who bears it
 - [[haecceity|Haecceity]] — The irreducible particularity of this observer
+- [[constitutive-exclusion|The Constitutive Exclusion]] — The broader structural limit of which the unobservable self is a special case
 
 ## References
 
