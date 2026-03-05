@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate phenomenal-intentionality.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page created 2026-03-05 with no inbound links. Phenomenal intentionality (the thesis that intentionality is grounded in phenomenal consciousness) is central to the argument from reason and self-stultification arguments. Add cross-references from argument-from-reason.md, self-stultification-as-master-argument.md, cognitive-phenomenology.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-05
+
+### P2: Integrate psychophysical-coupling.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page created 2026-03-05 with no inbound links. Psychophysical coupling describes the specific relationship between mental and physical states under interactionist dualism. Add cross-references from psychophysical-laws.md, interactionist-dualism.md, consciousness-and-causal-powers.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-05
+
+### P2: Integrate transition-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Void article created 2026-03-05 with no inbound links. The transition void examines boundaries between conscious states (waking/sleeping, attending/inattending). Add cross-references from observation-void.md, dreamless-sleep-void.md, loss-of-consciousness.md, and the voids section index.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-05
+
+### P2: Review argument-from-reason.md considering phenomenal-intentionality insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/phenomenal-intentionality.md (2026-03-05) provides dedicated treatment of the thesis that intentionality is grounded in phenomenal consciousness. topics/argument-from-reason.md relies on this thesis as a premise — if beliefs have their content in virtue of phenomenal consciousness, then eliminating phenomenal consciousness undermines rationality. Check for cross-links, argument reinforcement, and consistent terminology.
+- **Source**: chain (from phenomenal-intentionality.md)
+- **Generated**: 2026-03-05
+
+### P2: Review self-stultification-as-master-argument.md considering phenomenal-intentionality insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/phenomenal-intentionality.md (2026-03-05) grounds intentionality in phenomenal consciousness. topics/self-stultification-as-master-argument.md argues that denying consciousness's causal role undermines the grounds for any belief. The phenomenal intentionality thesis strengthens this argument by showing that even the content of beliefs depends on phenomenal consciousness. Check for cross-links and argument reinforcement.
+- **Source**: chain (from phenomenal-intentionality.md)
+- **Generated**: 2026-03-05
+
+### P2: Review creativity-void.md considering spontaneous-thought-void insights
+- **Type**: cross-review
+- **Notes**: New void article voids/spontaneous-thought-void.md (2026-03-05) examines why thoughts arise unbidden — the gap between no-thought and thought that resists causal explanation from the first-person perspective. voids/creativity-void.md explores the related territory of creative generation. Check for cross-links, shared conceptual structure, and opportunities to strengthen the void cluster's coherence.
+- **Source**: chain (from spontaneous-thought-void.md)
+- **Generated**: 2026-03-05
+
 ### P3: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
@@ -478,12 +514,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Expert perceivers (radiologists, sommeliers, musicians) develop qualitatively different conscious experiences through training. Perceptual learning demonstrates consciousness shaping its own future content—a form of bidirectional interaction accessible to empirical study. Builds on phenomenology-of-perceptual-constancy.md, perception-and-conscious-experience.md, philosophy-of-perception-under-dualism.md. See [[reviews/optimistic-2026-03-01]].
-- **Generated**: 2026-03-01
-
-### P3: Write concept page for phenomenal intentionality
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Referenced across AI consciousness and philosophy of mind articles. The thesis that intentionality is grounded in phenomenal consciousness deserves its own treatment, connecting to argument-from-reason.md and self-stultification-as-master-argument.md. See [[reviews/optimistic-2026-03-01]].
 - **Generated**: 2026-03-01
 
 ### P3: Write article on death phenomenology beyond NDEs
