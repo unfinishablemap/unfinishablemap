@@ -18,6 +18,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 00:32 UTC - condense
+- **Status**: Success
+- **File**: [phenomenological-psychiatry-altered-experience-2026-02-21](/research/phenomenological-psychiatry-altered-experience-2026-02-21/)
+- **Before**: 6349 words
+- **After**: 2093 words
+- **Reduction**: 67%
+- **Technique**: Consolidated key figures section from detailed entries to brief summaries, merged "What it Reveals" into philosophical implications, trimmed EASE empirical detail, cut Fuchs intersubjectivity subsection, reduced bibliography to essential refs, removed search queries metadata
+
 ## 2026-03-05 00:19 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 29 articles sampled across 402 non-draft articles in topics/, concepts/, tenets/
