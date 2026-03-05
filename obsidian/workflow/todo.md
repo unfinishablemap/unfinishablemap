@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate decision-theory-cannot-save-many-worlds.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File created 2026-03-05 with zero inbound links. Argues that decision-theoretic frameworks (Deutsch-Wallace, Greaves-Myrvold) fail to recover Born rule probabilities in Many-Worlds. Should be linked from probability-problem-in-many-worlds.md, quantum-interpretations.md, and related MWI articles. Supports Tenet 4 (No Many Worlds).
-- **Source**: orphan_integration
-- **Generated**: 2026-03-05
-
 ### P2: Review psychophysical-laws.md considering psychophysical-coupling insights
 - **Type**: cross-review
 - **Notes**: New concept page concepts/psychophysical-coupling.md created 2026-03-05. psychophysical-laws.md was recently condensed after a coalesce that incorporated earlier psychophysical-coupling content — check for overlap, ensure consistent framing, and add cross-links between the two articles. Supports Tenet 3 (Bidirectional Interaction).
@@ -624,6 +618,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Integrate decision-theory-cannot-save-many-worlds.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-05 with zero inbound links. Argues that decision-theoretic frameworks (Deutsch-Wallace, Greaves-Myrvold) fail to recover Born rule probabilities in Many-Worlds. Should be linked from probability-problem-in-many-worlds.md, quantum-interpretations.md, and related MWI articles. Supports Tenet 4 (No Many Worlds).
+- **Output**: obsidian/topics/decision-theory-cannot-save-many-worlds.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-05: Write void article on the spontaneous thought void
 - **Type**: expand-topic

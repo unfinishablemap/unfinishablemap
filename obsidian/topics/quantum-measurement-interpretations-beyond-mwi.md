@@ -4,7 +4,7 @@ description: "Many-Worlds isn't the only quantum interpretation. Several alterna
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-03-04T16:07:00+00:00
+ai_modified: 2026-03-05T05:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -113,6 +113,7 @@ Finally, rejecting Bohmian determinism preserves the phenomenological legitimacy
 
 - [[concepts/many-worlds]] — Why the Map rejects MWI
 - [[probability-problem-in-many-worlds]] — Why MWI cannot recover probability without circularity
+- [[decision-theory-cannot-save-many-worlds]] — Why the Deutsch-Wallace decision-theoretic program fails on its own terms
 - [[measurement-problem]] — The core puzzle these interpretations address
 - [[collapse-and-time]] — How retrocausality resolves temporal paradoxes
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-quantum interaction (Stapp, Penrose-Hameroff, IIT-collapse)

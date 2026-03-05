@@ -4,7 +4,7 @@ description: "The Deutsch-Wallace program claims rational agents must use Born-r
 created: 2026-03-05
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-03-05T04:14:00+00:00
+ai_modified: 2026-03-05T05:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-05
 last_curated:
-last_deep_review: 2026-03-05T04:14:00+00:00
+last_deep_review: 2026-03-05T05:03:00+00:00
 ---
 
 The Deutsch-Wallace decision-theoretic program is the most technically sophisticated attempt to recover probability within the Many-Worlds Interpretation. It claims that rational agents in a branching universe must weight outcomes by the Born rule when making decisions, thereby grounding quantum probability in rationality rather than metaphysics. The Unfinishable Map's [[probability-problem-in-many-worlds|survey of MWI's probability crisis]] identifies this program as one of three major recovery strategies. This article examines why decision theory fails on its own terms, drawing on three independent lines of criticism: the axioms are not rationally required, betting behaviour cannot explain empirical frequencies, and the entire framework rests on a vicious circularity.

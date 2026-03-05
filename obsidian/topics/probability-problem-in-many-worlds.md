@@ -4,7 +4,7 @@ description: "MWI faces a deep crisis: if all outcomes occur, probability loses 
 created: 2026-03-04
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-05T02:02:00+00:00
+ai_modified: 2026-03-05T05:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +19,7 @@ related_articles:
   - "[[indexical-identity-quantum-measurement]]"
   - "[[quantum-measurement-interpretations-beyond-mwi]]"
   - "[[philosophical-stakes-of-spontaneous-collapse]]"
+  - "[[decision-theory-cannot-save-many-worlds]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -51,7 +52,7 @@ Wallace refined this into a formal proof with axioms including measurement neutr
 
 ### Why Decision Theory Fails
 
-The program faces three categories of objection, each raised by multiple independent critics in the landmark 2010 Oxford volume *Many Worlds?*
+The program faces three categories of objection, each raised by multiple independent critics in the landmark 2010 Oxford volume *Many Worlds?* See [[decision-theory-cannot-save-many-worlds]] for an extended analysis of why each objection is fatal.
 
 **The axioms are not constitutive of rationality.** Kent (2010) argues that Wallace's axioms are substantive philosophical claims, not requirements of rational agency. An agent who weights branches equally—caring about each future self the same regardless of amplitude—violates Wallace's axioms but is not obviously irrational. As Kent puts it, the axioms "are not constitutive of rationality." Alternative weightings satisfy equally plausible rationality constraints, as Lewis (2007) demonstrated formally.
 
