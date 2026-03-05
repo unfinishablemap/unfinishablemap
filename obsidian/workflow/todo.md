@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review psychophysical-laws.md considering psychophysical-coupling insights
-- **Type**: cross-review
-- **Notes**: New concept page concepts/psychophysical-coupling.md created 2026-03-05. psychophysical-laws.md was recently condensed after a coalesce that incorporated earlier psychophysical-coupling content — check for overlap, ensure consistent framing, and add cross-links between the two articles. Supports Tenet 3 (Bidirectional Interaction).
-- **Source**: chain (from psychophysical-coupling.md)
-- **Generated**: 2026-03-05
-
 ### P2: Review probability-problem-in-many-worlds.md considering decision-theory article
 - **Type**: cross-review
 - **Notes**: New article topics/decision-theory-cannot-save-many-worlds.md created 2026-03-05 as a companion piece. probability-problem-in-many-worlds.md surveys the probability problem broadly and should cross-reference the new article's detailed treatment of decision-theoretic approaches. Ensure the two articles complement rather than duplicate each other. Supports Tenet 4 (No Many Worlds).
@@ -618,6 +612,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Review psychophysical-laws.md considering psychophysical-coupling insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/psychophysical-coupling.md created 2026-03-05. psychophysical-laws.md was recently condensed after a coalesce that incorporated earlier psychophysical-coupling content — check for overlap, ensure consistent framing, and add cross-links between the two articles. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/concepts/psychophysical-laws.md -- Context: Review psychophysical-laws.md considering psychophysical-coupling insights
 
 ### ✓ 2026-03-05: Integrate decision-theory-cannot-save-many-worlds.md into site navigation
 - **Type**: integrate-orphan
