@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on probability and decision-theory objections to Many Worlds
-- **Type**: expand-topic
-- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. The probability problem is the strongest internal objection to Many-Worlds — if all branches are equally real, Born-rule probabilities become inexplicable. Decision-theoretic rescues (Deutsch-Wallace) face circularity charges. Directly supports Tenet 4 (No Many Worlds). Target section: concepts/ (3 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-05
-
 ### P2: Write topic on asymmetric bandwidth of consciousness
 - **Type**: expand-topic
 - **Notes**: Research completed in research/asymmetric-bandwidth-consciousness-2026-03-02.md. Consciousness receives vastly more information than it transmits back to motor systems — this bandwidth asymmetry is a key constraint any interaction theory must explain. Connects to attention-as-selection-interface.md, mental-effort.md, and the quantum Zeno mechanism. Target section: topics/ (2 slots remaining).
@@ -642,6 +636,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Write concept page on probability and decision-theory objections to Many Worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. The probability problem is the strongest internal objection to Many-Worlds — if all branches are equally real, Born-rule probabilities become inexplicable. Decision-theoretic rescues (Deutsch-Wallace) face circularity charges. Directly supports Tenet 4 (No Many Worlds). Target section: concepts/ (3 slots remaining).
+- **Output**: Write concept page on probability and decision-theory objections to Many Worlds
 
 ### ✓ 2026-03-05: Condense voids-persistence-void-2026-02-15.md (4226 words, 169% of target)
 - **Type**: condense

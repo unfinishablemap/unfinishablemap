@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 12:49 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Probability and Decision-Theory Objections to Many Worlds
+- **Output**: [[probability-objections-many-worlds]]
+- **Word count**: 1200
+- **Based on research**: yes, [[probability-decision-theory-against-many-worlds-2026-03-04]]
+
 ## 2026-03-05 12:40 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/somatic-interface.md, topics/cognitive-integration-and-the-self.md, topics/consciousness-and-the-ontology-of-dispositions.md
