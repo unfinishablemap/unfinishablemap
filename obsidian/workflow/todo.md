@@ -73,6 +73,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-03-05
 
+### P3: Address unfalsifiable unity claim in cognitive-integration-and-the-self.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-03-05-afternoon) found split-brain section makes consciousness unity unfalsifiable by claiming severing the interface only disrupts "expression." Also flagged speculative quantum binding claim about 40 Hz oscillations lacking scientific basis. See pessimistic-2026-03-05-afternoon.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-05
+
+### P3: Acknowledge interpretive status of dualist reading in somatic-interface.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-03-05-afternoon) found all clinical evidence (pain asymbolia, phantom limbs, Iowa Gambling Task) is appropriated from materialist neuroscience without differential predictions. Either identify predictions unique to the interface reading or acknowledge it as a metaphysical interpretation. See pessimistic-2026-03-05-afternoon.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-05
+
 ### P3: Deep review apophatic-cartography.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed since creation. The foundational methodology article for the entire voids programme with 14 inbound links — defines the practice of mapping where understanding fails as positive data. Quality issues here propagate to the voids cluster's credibility. Verify coherence, cross-references, and tenet alignment.
