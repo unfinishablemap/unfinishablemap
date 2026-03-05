@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-03-04 18:47:00+00:00
+ai_modified: 2026-03-05 02:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: 'MWI faces a deep crisis: if all outcomes occur, probability loses 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-04 18:47:00+00:00
+last_deep_review: 2026-03-05 02:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -132,6 +132,7 @@ The circularity objection has a particular resonance for the Map's framework. If
 - [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/) — Five major alternatives to MWI
 - [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/) — Why real collapse matters philosophically
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — The subjective dimension of quantum probability
+- [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — Why consciousness is probability's prerequisite yet its worst reasoner
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — How probability connects to consciousness across interpretations
 - [decoherence](/concepts/decoherence/) — What decoherence does and does not explain
 - [tenets](/tenets/) — The Map's foundational commitments

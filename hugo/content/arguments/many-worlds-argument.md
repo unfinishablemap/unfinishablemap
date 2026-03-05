@@ -95,7 +95,7 @@ Both views face the same objection: they cannot accommodate the apparent fact th
 
 Quantum mechanics predicts that if you measure electron spin repeatedly, you'll get spin-up about half the time. This prediction is spectacularly confirmed. But in many-worlds, half the branches have spin-up and half have spin-down—all exist equally. Why should the observer experience the 50-50 statistics rather than, say, all spin-up (from the perspective of the spin-up branch)?
 
-Everett and subsequent proponents (DeWitt, Deutsch, Wallace) have proposed various "derivations" of the Born rule using decision theory, symmetry arguments, or self-locating uncertainty. These derivations are ingenious but controversial. Critics (Albert, Kent, Price) argue they smuggle in assumptions equivalent to what they're trying to prove.
+Everett and subsequent proponents (DeWitt, Deutsch, Wallace) have proposed various "derivations" of the Born rule using decision theory, symmetry arguments, or self-locating uncertainty. These derivations are ingenious but controversial. Critics (Albert, Kent, Price) argue they smuggle in assumptions equivalent to what they're trying to prove. See [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) for the detailed case against all three strategies and the circularity (Born rule → decoherence → branches → probability → Born rule) that undermines the programme.
 
 ### The Decision-Theoretic Response
 

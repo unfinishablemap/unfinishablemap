@@ -139,7 +139,7 @@ See [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) fo
 
 ## How Interpretations Handle Probability
 
-Each interpretation must account for the Born rule—the squared amplitude giving measurement probabilities. The [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) article examines this in depth.
+Each interpretation must account for the Born rule—the squared amplitude giving measurement probabilities. The [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) article examines this in depth, and [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) details why MWI's attempts to recover the Born rule through decision theory, self-locating uncertainty, and envariance all face serious objections.
 
 The key insight: all standard views share a blind spot—they don't address what probability means *for this consciousness*. What does 50% mean for *you* about to measure spin? The first-person perspective is precisely what probability seems to be about, yet appears in none of these accounts.
 
@@ -240,6 +240,7 @@ The choice of quantum interpretation bears directly on all five [tenets](/tenets
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — How each interpretation handles Born rule probabilities and the first-person gap
 - [measurement-problem](/concepts/measurement-problem/) — The problem all interpretations address
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI
+- [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Why MWI cannot recover the Born rule without circularity
 - [qbism](/concepts/qbism/) — Agent-centered interpretation that presupposes experience without explaining it
 - [relational-quantum-mechanics](/concepts/relational-quantum-mechanics/) — Rovelli's interpretation and why the Map rejects it
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — How multiple conscious observers coordinate

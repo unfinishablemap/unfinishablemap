@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-15 11:36:00+00:00
+ai_modified: 2026-03-05 01:49:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ related_articles:
 - '[[tenets]]'
 - '[[three-kinds-of-void]]'
 - '[[origin-of-consciousness]]'
-- '[[temporal-consciousness-void]]'
+- '[[temporal-void]]'
 - '[[topology-of-cognitive-failure]]'
 - '[[whether-real]]'
 - '[[causal-interface]]'

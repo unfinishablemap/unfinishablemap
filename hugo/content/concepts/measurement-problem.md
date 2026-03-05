@@ -114,7 +114,7 @@ All outcomes occur. The universe branches at every quantum event; all branches a
 
 **Relation to site tenets:** **Directly rejected** by [No Many Worlds](/tenets/#no-many-worlds). See [many-worlds](/concepts/many-worlds/) for detailed arguments. Key objections: (1) indexical—why am I *this* branch?; (2) probability—what does "70% probable" mean if all outcomes occur?; (3) eliminates [mental-causation](/concepts/mental-causation/) entirely—consciousness makes no causal difference if all outcomes occur regardless.
 
-MWI has sophisticated responses. Wallace derives Born probabilities from decision-theoretic coherence, showing what rational betting requires—not what probabilities mean when all outcomes occur.
+MWI has sophisticated responses. Wallace derives Born probabilities from decision-theoretic coherence, showing what rational betting requires—not what probabilities mean when all outcomes occur. See [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) for why these derivations remain contested.
 
 On indexicals: MWI defenders argue all successors are equally me—no fact determines "which branch I occupy." But collapse theories posit a single actual outcome, making "this one" unambiguous even if unexplained. MWI posits equally real successors, each asking the same question—multiplying the puzzle rather than dissolving it.
 

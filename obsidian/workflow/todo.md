@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-05T01:49:00+00:00
+ai_modified: 2026-03-05T02:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on argument from reason and self-defeat of physicalism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/argument-from-reason-self-defeat-physicalism-2026-01-23.md. The argument from reason contends that if mental states are reducible to physical processes, then beliefs cannot be rationally justified — a self-defeating consequence for physicalism. Directly supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). Target section: topics/ (3 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-05
+
+### P2: Write article on probability and decision-theory objections to many worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. The Born rule probability problem and decision-theoretic objections (e.g., why should agents care about branch weights?) remain unresolved challenges for MWI. Directly supports Tenet 4 (No Many Worlds). Target section: topics/ (3 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-05
+
+### P2: Write article on Duhem-Quine underdetermination in consciousness science
+- **Type**: expand-topic
+- **Notes**: Research completed in research/duhem-quine-underdetermination-consciousness-2026-03-04.md. Theory choice in consciousness science is radically underdetermined by empirical evidence — the same neural data is consistent with physicalism, property dualism, and idealism. Argues that appeals to parsimony cannot settle the question. Directly supports Tenet 5 (Occam's Razor Has Limits). Target section: concepts/ (5 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-05
+
+### P2: Write concept page for psychophysical coupling
+- **Type**: expand-topic
+- **Notes**: Referenced by 48 wikilinks across published content but no corresponding file exists. Research completed in research/psychophysical-coupling-problem-2026-01-15.md and research/psychophysical-coupling-law-mechanisms-2026-01-23.md. The psychophysical coupling problem — how mental and physical properties relate lawfully — is central to the Map's interactionist framework. Supports Tenet 3 (Bidirectional Interaction). Target section: concepts/ (5 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-05
+
+### P2: Write concept page for phenomenal intentionality
+- **Type**: expand-topic
+- **Notes**: Referenced by 45 wikilinks across published content but no corresponding file exists. Phenomenal intentionality — the thesis that intentionality is grounded in phenomenal consciousness — strengthens the case that consciousness is not epiphenomenal. Distinct from the existing intentionality.md concept page (which covers intentionality broadly). Target section: concepts/ (5 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-05
+
+### P2: Write concept page for apophatic approaches
+- **Type**: expand-topic
+- **Notes**: Referenced by 73 wikilinks across published content but no corresponding file exists (only voids/apophatic-cartography.md covers the related mapping metaphor). Apophatic approaches — defining consciousness by what it is not — are a distinctive methodology the Map employs but has no dedicated treatment of. Target section: concepts/ (5 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-05
 
 ### P3: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic

@@ -94,7 +94,7 @@ Rovelli explicitly rejects reading his interpretation as consciousness-dependent
 
 Many-Worlds holds that every quantum measurement causes the universe to split into branches for each possible outcome. All branches are equally real. There is no collapse—the wave function evolves unitarily forever.
 
-**The indexical gap**: If all outcomes occur, probability seems meaningless. The response from many-worlds theorists involves self-locating uncertainty: *before* the split, you don't know which branch you'll find yourself on *after*. Born probabilities describe the measure of branches where you observe spin-up versus spin-down.
+**The indexical gap**: If all outcomes occur, probability seems meaningless—a crisis examined in detail in [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/). The response from many-worlds theorists involves self-locating uncertainty: *before* the split, you don't know which branch you'll find yourself on *after*. Born probabilities describe the measure of branches where you observe spin-up versus spin-down.
 
 But as Albert argues, self-location claims are "irreducibly indexical." The fact that *I* find myself in this branch cannot be reduced to third-person facts about which observer-copies have which properties. Taking the first-person perspective, "it is inherently clear who 'I' refers to—there is no need to find any objective difference between 'me' and 'the other copy' because 'I' am primitively identified by the perspective center."
 
