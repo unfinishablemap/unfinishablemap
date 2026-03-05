@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 15:04 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/volitional-opacity]]
+- **Word count**: 2188 → 2209 (+21)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cross-link to involuntariness-void)
+- **Enhancements made**: 3 (cross-link, prose tightening, Further Reading)
+- **Output**: [[reviews/deep-review-2026-03-05-volitional-opacity]]
+
 ## 2026-03-05 14:55 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenal-concepts-strategy]]

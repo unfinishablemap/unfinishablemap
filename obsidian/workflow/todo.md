@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review volitional-opacity.md considering involuntariness void insights
-- **Type**: cross-review
-- **Notes**: New article voids/involuntariness-void.md is the direct complement of volitional opacity — one asks why we cannot observe willing, the other why we cannot exercise willing over experience itself. The involuntariness void explicitly references volitional opacity as "structural opacity." Add cross-links and check for reinforcing arguments or tensions.
-- **Source**: chain (from involuntariness-void.md)
-- **Generated**: 2026-03-05
-
 ### P2: Review many-worlds.md considering probability-objections article
 - **Type**: cross-review
 - **Notes**: New concept page concepts/probability-objections-many-worlds.md consolidates the probability crisis for MWI (Born rule incoherence, decision-theory failures, Baker-Price circularity, branch-counting). The parent many-worlds concept page discusses probability as one objection but doesn't link to this dedicated entry. Add cross-reference. Supports Tenet 4 (No Many Worlds).
@@ -663,6 +657,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Review volitional-opacity.md considering involuntariness void insights
+- **Type**: cross-review
+- **Notes**: New article voids/involuntariness-void.md is the direct complement of volitional opacity — one asks why we cannot observe willing, the other why we cannot exercise willing over experience itself. The involuntariness void explicitly references volitional opacity as "structural opacity." Add cross-links and check for reinforcing arguments or tensions.
+- **Output**: obsidian/voids/volitional-opacity.md -- Context: Review volitional-opacity.md considering involuntariness void insights
 
 ### ✓ 2026-03-05: Condense research/contemplative-neuroscience-meditation-2026-01-23.md (4091 words, 164% of soft target)
 - **Type**: condense
