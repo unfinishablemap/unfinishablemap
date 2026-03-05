@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-04
-**Article**: [Dreams as a Natural Laboratory for Consciousness](/topics/dreams-as-consciousness-laboratory/)
+**Article**: [Dreams as a Natural Laboratory for Consciousness](/topics/dream-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

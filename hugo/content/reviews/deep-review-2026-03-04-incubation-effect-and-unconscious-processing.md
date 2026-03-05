@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-04
 **Article**: [The Incubation Effect and Unconscious Processing](/topics/incubation-effect-and-unconscious-processing/)
 **Previous review**: [2026-02-13](/reviews/deep-review-2026-02-13-incubation-effect-and-unconscious-processing/)
-**Cross-review context**: [Dreams as a Natural Laboratory for Consciousness](/topics/dreams-as-consciousness-laboratory/)
+**Cross-review context**: [Dreams as a Natural Laboratory for Consciousness](/topics/dream-consciousness/)
 
 ## Pessimistic Analysis Summary
 
@@ -69,7 +69,7 @@ No attribution errors, source/Map conflation, or self-contradictions found.
 - Added 2 new references (Haar Horowitz 2023, Lacaux 2021)
 
 ### Cross-links Added
-- [dreams-as-consciousness-laboratory](/topics/dreams-as-consciousness-laboratory/) — in dream section text, Further Reading, and frontmatter
+- [dreams-as-consciousness-laboratory](/topics/dream-consciousness/) — in dream section text, Further Reading, and frontmatter
 
 ## Word Count
 

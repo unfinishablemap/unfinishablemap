@@ -61,7 +61,7 @@ Contemplatives across traditions report that close introspective attention revea
 
 The [hard problem](/topics/hard-problem-of-consciousness/) asks: why is there something it is like to be a conscious system? Why doesn't information processing happen "in the dark," without subjective experience accompanying it?
 
-The unobservable self offers a structural answer to why this question resists solution. The hard problem asks us to examine consciousness itself—to inspect the intrinsic nature of experience. But consciousness is precisely what cannot be inspected. Every attempt at inspection is consciousness in action, which adds to rather than reveals the nature of what we seek.
+The unobservable self offers a structural answer to why this question resists solution. The hard problem asks us to examine consciousness itself—to inspect the intrinsic nature of experience. But consciousness is precisely what cannot be inspected. Every attempt at inspection is consciousness in action, which adds to rather than reveals the nature of what we seek. The [constitutive-exclusion](/topics/constitutive-exclusion/) identifies the same structure at a broader scale: consciousness cannot access any reality independent of its own constitutive contribution, and the unobservable self is this exclusion applied reflexively.
 
 Materialist explanations describe neural processes in third-person terms: correlations, activity patterns, information flow. They cannot describe *what it is like* because the "what it is like" is the describer, never the described. The [explanatory gap](/concepts/explanatory-gap/) persists because the explainer is always on the wrong side of it.
 
@@ -161,6 +161,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. I
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists explanation
 - [The Ownership Void](/voids/ownership-void/) — Why the ownership relation hides from the subject who bears it
 - [Haecceity](/concepts/haecceity/) — The irreducible particularity of this observer
+- [The Constitutive Exclusion](/topics/constitutive-exclusion/) — The broader structural limit of which the unobservable self is a special case
 
 ## References
 

@@ -26,7 +26,6 @@ related_articles:
 - '[[tenets]]'
 - '[[consciousness-and-creative-distinctiveness]]'
 - '[[dream-consciousness]]'
-- '[[dreams-as-consciousness-laboratory]]'
 title: The Incubation Effect and Unconscious Processing
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -97,7 +96,7 @@ The [dream incubation evidence](/topics/dream-consciousness/) strengthens the ca
 
 Cai et al. (2009) found that REM sleep specifically enhanced creative associative problem-solving while NREM sleep did not. Since REM is characterised by vivid conscious experience and NREM by its absence, the creative benefit tracks the presence of consciousness during sleep — not merely time spent away from the problem.
 
-Sleep-onset evidence extends this pattern beyond REM. The Dormio device — a targeted dream incubation system that delivers audio prompts during the hypnagogic transition into N1 sleep, the narrow window where consciousness loosens but has not yet fully disengaged — has demonstrated measurable creative benefits. Haar Horowitz et al. (2023) found that participants who received targeted incubation showed 43% greater creativity on subsequent tasks. Lacaux et al. (2021) found that spending as little as fifteen seconds in N1 sleep tripled the probability of mathematical insight. These findings isolate the mode-shift itself as the active ingredient: not rest, not time away from the problem, but the specific cognitive mode of loosened consciousness. The [natural laboratory framework](/topics/dreams-as-consciousness-laboratory/) identifies N1 hypnagogia as a distinct consciousness configuration — maximally creative and loosely directed — supporting the view that incubation benefits track *how* consciousness operates, not whether it is present.
+Sleep-onset evidence extends this pattern beyond REM. The Dormio device — a targeted dream incubation system that delivers audio prompts during the hypnagogic transition into N1 sleep, the narrow window where consciousness loosens but has not yet fully disengaged — has demonstrated measurable creative benefits. Haar Horowitz et al. (2023) found that participants who received targeted incubation showed 43% greater creativity on subsequent tasks. Lacaux et al. (2021) found that spending as little as fifteen seconds in N1 sleep tripled the probability of mathematical insight. These findings isolate the mode-shift itself as the active ingredient: not rest, not time away from the problem, but the specific cognitive mode of loosened consciousness. The [natural laboratory framework](/topics/dream-consciousness/) identifies N1 hypnagogia as a distinct consciousness configuration — maximally creative and loosely directed — supporting the view that incubation benefits track *how* consciousness operates, not whether it is present.
 
 This finding bears directly on the [hard problem](/topics/hard-problem-of-consciousness/). If phenomenal properties were merely epiphenomenal accompaniments of neural computation, the *mode* of experience should be irrelevant to outcomes. Neural associative processing could run during NREM just as during REM. That creative success tracks phenomenal engagement — dreaming, not just sleeping — suggests that the experiential dimension is doing causal work.
 
@@ -136,8 +135,7 @@ The Map's interpretation of incubation would face difficulty if:
 
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence that consciousness enables functions unconscious processing cannot achieve
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — The creative loop integrating generation and selection
-- [dream-consciousness](/topics/dream-consciousness/) — Dream incubation and the sleep-wake creative cycle
-- [dreams-as-consciousness-laboratory](/topics/dreams-as-consciousness-laboratory/) — Multiple consciousness configurations as a natural experiment
+- [dream-consciousness](/topics/dream-consciousness/) — Dream incubation, the natural laboratory framework, and the sleep-wake creative cycle
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness
 - [mental-effort](/concepts/mental-effort/) — Why conscious engagement feels like work
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates the consciousness-brain interface

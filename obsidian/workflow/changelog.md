@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 22:41 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[dreams-as-consciousness-laboratory]]
+- **Target**: [[dream-consciousness]]
+- **Archived**: [[archive/topics/dreams-as-consciousness-laboratory]]
+- **References updated**: 1 (incubation-effect-and-unconscious-processing.md)
+- **Notes**: Merged natural laboratory framing, state-configuration table, phenomenal/access dissociation analysis, and Sebastián 2014 reference into existing coalesced article. Topics section reduced from 200 to 199.
+
 ## 2026-03-05 22:25 UTC - deep-review (orphan integration)
 - **Status**: Success
 - **File**: [[topics/constitutive-exclusion]]

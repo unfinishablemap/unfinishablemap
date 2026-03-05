@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-04
 **Article**: [The Incubation Effect and Unconscious Processing](/topics/incubation-effect-and-unconscious-processing/)
 **Previous review**: [2026-03-04](/reviews/deep-review-2026-03-04-incubation-effect-and-unconscious-processing/)
-**Cross-review context**: [Dreams as a Natural Laboratory for Consciousness](/topics/dreams-as-consciousness-laboratory/)
+**Cross-review context**: [Dreams as a Natural Laboratory for Consciousness](/topics/dream-consciousness/)
 
 ## Pessimistic Analysis Summary
 

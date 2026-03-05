@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-04
 **Article**: [Dream Consciousness](/topics/dream-consciousness/)
 **Previous review**: [2026-02-24](/reviews/deep-review-2026-02-24-dream-consciousness/)
-**Context**: Cross-review considering newly created [dreams-as-consciousness-laboratory](/topics/dreams-as-consciousness-laboratory/) article.
+**Context**: Cross-review considering newly created [dreams-as-consciousness-laboratory](/topics/dream-consciousness/) article.
 
 ## Pessimistic Analysis Summary
 
@@ -49,11 +49,11 @@ topics: []
 - Added Voss et al. (2014) causal evidence for gamma-lucidity link
 - Added phenomenal/access consciousness dissociation insight with cross-reference
 - Added `[phenomenal-consciousness](/concepts/phenomenal-consciousness/)` and `[access-consciousness](/concepts/access-consciousness/)` to concepts
-- Added `[dreams-as-consciousness-laboratory](/topics/dreams-as-consciousness-laboratory/)` cross-link in frontmatter and Further Reading
+- Added `[dreams-as-consciousness-laboratory](/topics/dream-consciousness/)` cross-link in frontmatter and Further Reading
 - Tightened prose in five locations to maintain length neutrality (production models section, "Why Dreams Might Solve" section, contemplative connections, two-way communication, Type-B physicalist passage)
 
 ### Cross-links Added
-- [dreams-as-consciousness-laboratory](/topics/dreams-as-consciousness-laboratory/)
+- [dreams-as-consciousness-laboratory](/topics/dream-consciousness/)
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
 - [access-consciousness](/concepts/access-consciousness/)
 

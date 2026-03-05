@@ -55,7 +55,7 @@ Phenomenology begins with the *epoché*—a methodological suspension of assumpt
 
 The epoché reveals that consciousness is never empty. It is always consciousness *of* something—directed toward objects, meanings, or states of affairs. This directedness is [intentionality](/concepts/intentionality/), which Husserl's teacher Franz Brentano identified as "the mark of the mental."
 
-The *phenomenological reduction* extends the epoché, revealing how subjectivity constitutes the world as meaningful. When I perceive a table, I don't receive raw sensory data; I experience a unified, meaningful object. The reduction discloses how consciousness actively synthesizes this unity from the flow of experience.
+The *phenomenological reduction* extends the epoché, revealing how subjectivity constitutes the world as meaningful. When I perceive a table, I don't receive raw sensory data; I experience a unified, meaningful object. The reduction discloses how consciousness actively synthesizes this unity from the flow of experience—a [constitutive contribution](/topics/constitutive-exclusion/) that cannot be subtracted to reveal a "pre-conscious" reality.
 
 ## The Major Figures
 
@@ -191,6 +191,7 @@ Phenomenology doesn't definitively prove dualism. But it provides methodological
 - [introspection](/concepts/introspection/) — The reliability debate and trained first-person methods
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — Merleau-Ponty's lived body and Heidegger's Stimmung applied to spatial experience
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — The void territory where conceptual thought meets its limits
+- [constitutive-exclusion](/topics/constitutive-exclusion/) — Why consciousness cannot access reality independent of its own constitutive contribution
 
 ## References
 

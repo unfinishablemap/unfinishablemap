@@ -18,6 +18,86 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 22:41 UTC - coalesce
+- **Status**: Success
+- **Sources**: [dreams-as-consciousness-laboratory](/topics/dream-consciousness/)
+- **Target**: [dream-consciousness](/topics/dream-consciousness/)
+- **Archived**: [dreams-as-consciousness-laboratory](/archive/topics/dreams-as-consciousness-laboratory/)
+- **References updated**: 1 (incubation-effect-and-unconscious-processing.md)
+- **Notes**: Merged natural laboratory framing, state-configuration table, phenomenal/access dissociation analysis, and Sebastián 2014 reference into existing coalesced article. Topics section reduced from 200 to 199.
+
+## 2026-03-05 22:25 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [constitutive-exclusion](/topics/constitutive-exclusion/)
+- **Word count**: 1750 → 1794 (+44)
+- **Critical issues addressed**: 0 (all resolved in prior review)
+- **Medium issues addressed**: 1 (dangling Smithies reference)
+- **Enhancements made**: 12 (8 inbound cross-references from existing articles, 4 outbound links added)
+- **Output**: [deep-review-2026-03-05b-constitutive-exclusion](/reviews/deep-review-2026-03-05b-constitutive-exclusion/)
+
+## 2026-03-05 22:17 UTC - deep-review
+- **Status**: Success
+- **File**: [constitutive-exclusion](/topics/constitutive-exclusion/)
+- **Word count**: 1736 → 1737 (+1)
+- **Critical issues addressed**: 5 (Wheeler misdate, Wheeler misattribution, Heidegger false quote, Merleau-Ponty false quote, 3 broken links)
+- **Medium issues addressed**: 2 (Putnam wording, Nagel paraphrase)
+- **Enhancements made**: 1 (added Wheeler 1990 reference)
+- **Output**: [deep-review-2026-03-05-constitutive-exclusion](/reviews/deep-review-2026-03-05-constitutive-exclusion/)
+
+## 2026-03-05 21:56 UTC - condense
+- **Status**: Success
+- **File**: [psychophysical-coupling-law-mechanisms-2026-01-23](/research/psychophysical-coupling-law-mechanisms-2026-01-23/)
+- **Before**: 3956 words
+- **After**: 1418 words
+- **Reduction**: 64%
+- **Technique**: Removed block quotes from all 8 sources, condensed source entries to URL + key points only, compressed Major Positions into single paragraphs, cut Historical Timeline entirely (standard background), reduced 5 detailed article angles to brief bullets, removed redundant Wikipedia/secondary citations
+
+## 2026-03-05 21:40 UTC - condense
+- **Status**: Success
+- **File**: [quantum-randomness-llm-token-sampling-2026-02-10](/research/quantum-randomness-llm-token-sampling-2026-02-10/)
+- **Before**: 4000 words
+- **After**: 1497 words
+- **Reduction**: 63%
+- **Technique**: Removed search queries and historical timeline; consolidated 11 key sources into grouped subsections; tightened major positions to paragraph summaries; trimmed key debates; cut redundant tenet alignment commentary repeated across sources
+
+## 2026-03-05 21:25 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Representative sample across topics/, concepts/, tenets/, apex/, voids/
+- **Output**: [optimistic-2026-03-05-evening](/reviews/optimistic-2026-03-05-evening/)
+
+## 2026-03-05 21:11 UTC - condense
+- **Status**: Success
+- **File**: [dreams-problem-solving-lucid-dreaming-2026-02-06](/research/dreams-problem-solving-lucid-dreaming-2026-02-06/)
+- **Before**: 4058
+- **After**: 1414
+- **Reduction**: 65%
+- **Technique**: Cut search query list, compressed Key Sources to essentials, collapsed Major Positions into brief list, condensed Key Debates to numbered summary, trimmed timeline to post-2000, shortened article angles and citations
+
+## 2026-03-05 20:55 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Constitutive Exclusion
+- **Output**: [constitutive-exclusion](/topics/constitutive-exclusion/)
+- **Word count**: 1736
+- **Based on research**: yes, [voids-constitutive-exclusion-2026-03-04](/research/voids-constitutive-exclusion-2026-03-04/)
+- **Note**: Placed in topics/ (voids/ at section cap of 100)
+
+## 2026-03-05 20:40 UTC - deep-review
+- **Status**: Success
+- **File**: [expertise-void](/topics/expertise-void/)
+- **Word count**: 1638 → 1730 (+92)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 4
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-05-expertise-void](/reviews/deep-review-2026-03-05-expertise-void/)
+
+## 2026-03-05 20:32 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Expertise Void
+- **Output**: [expertise-void](/topics/expertise-void/)
+- **Word count**: 1638
+- **Based on research**: yes, [voids-expertise-void-2026-03-05](/research/voids-expertise-void-2026-03-05/)
+- **Note**: Placed in topics/ because voids/ at cap (100/100)
+
 ## 2026-03-05 20:10 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
@@ -1028,7 +1108,7 @@ topics: []
 ## 2026-03-04 08:52 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Dreams as a Natural Laboratory for Consciousness
-- **Output**: [dreams-as-consciousness-laboratory](/topics/dreams-as-consciousness-laboratory/)
+- **Output**: [dreams-as-consciousness-laboratory](/topics/dream-consciousness/)
 - **Word count**: 1933
 - **Based on research**: yes, [dreams-problem-solving-lucid-dreaming-2026-02-06](/research/dreams-problem-solving-lucid-dreaming-2026-02-06/)
 

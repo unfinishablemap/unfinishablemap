@@ -38,6 +38,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review observation-void.md considering constitutive-exclusion insights
+- **Type**: cross-review
+- **Notes**: New article topics/constitutive-exclusion.md argues consciousness structurally cannot access reality independent of its own contribution. voids/observation-void.md examines the impossibility of observing consciousness without altering it. The constitutive exclusion provides a deeper philosophical grounding for the observation void — check for cross-links, argument reinforcement, and whether observation-void should reference constitutive exclusion as a foundational framework. Supports Tenet 1 (Dualism).
+- **Source**: chain (from constitutive-exclusion.md)
+- **Generated**: 2026-03-05
+
+### P2: Cross-review developmental-cognitive-closure.md considering expertise-void insights
+- **Type**: cross-review
+- **Notes**: New article topics/expertise-void.md argues that deep expertise irreversibly transforms conscious experience, creating a one-way phenomenological door. voids/developmental-cognitive-closure.md covers how cognitive development closes off earlier modes of understanding. The expertise void provides an adult-onset parallel to developmental closure — both involve irreversible phenomenological transformation. Check for cross-links and whether developmental-cognitive-closure should reference expertise-void as a parallel mechanism.
+- **Source**: chain (from expertise-void.md)
+- **Generated**: 2026-03-05
+
+### P2: Condense research/voids-mattering-void-2026-02-19.md (3884 words, 111% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 3884 words, the worst length violation among research notes. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-05
+
+### P2: Condense research/voids-normative-void-2026-02-02.md (3730 words, 107% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-05
+
+### P2: Condense research/voids-dream-consciousness-void-2026-02-02.md (3722 words, 106% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-05
+
 ### P2: Review consciousness-and-causal-powers.md considering pain-consciousness-and-causal-power insights
 - **Type**: cross-review
 - **Notes**: New coalesced article topics/pain-consciousness-and-causal-power.md synthesises the pain asymbolia argument, placebo mechanisms, and nocebo effects into a unified case for consciousness's causal power through pain. consciousness-and-causal-powers.md is the general treatment of what types of causal influence consciousness can have and should cross-reference the new article's concrete evidence from pain phenomena. Supports Tenet 3 (Bidirectional Interaction).
@@ -627,6 +657,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Integrate constitutive-exclusion.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Brand new article (2026-03-05) with zero inbound links. The constitutive exclusion argues consciousness cannot access reality independent of its own contribution — a structural limit deeper than observation bias. Add cross-references from observation-void.md, intrinsic-nature-void.md, self-reference-paradox.md, and other voids articles that discuss structural limits on knowledge. Also update the voids section index if appropriate.
+- **Output**: obsidian/topics/constitutive-exclusion.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-05: Condense research/psychophysical-coupling-law-mechanisms-2026-01-23.md (3956 words)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 3956 words. Preserve key findings on psychophysical coupling mechanisms while removing redundancy. See /condense skill.
+- **Output**: obsidian/research/psychophysical-coupling-law-mechanisms-2026-01-23.md
+
+### ✓ 2026-03-05: Condense research/quantum-randomness-llm-token-sampling-2026-02-10.md (4000 words)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4000 words. Preserve key findings on quantum randomness in LLM token sampling while removing redundancy. See /condense skill.
+- **Output**: obsidian/research/quantum-randomness-llm-token-sampling-2026-02-10.md
+
+### ✓ 2026-03-05: Condense research/dreams-problem-solving-lucid-dreaming-2026-02-06.md (4058 words)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4058 words. Preserve key findings on dream problem-solving and lucid dreaming while removing redundancy. See /condense skill.
+- **Output**: obsidian/research/dreams-problem-solving-lucid-dreaming-2026-02-06.md
+
+### ✓ 2026-03-05: Write voids article on constitutive exclusion
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-constitutive-exclusion-2026-03-04.md. Constitutive exclusion examines cases where the very structure of a cognitive capacity necessarily excludes certain contents — not through failure but through design. Target section: voids/ (3 slots remaining).
+- **Output**: Write voids article on constitutive exclusion
+
+### ✓ 2026-03-05: Write voids article on the expertise void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-expertise-void-2026-03-05.md. The expertise void examines how expert knowledge transforms perception in ways that become invisible to the expert — the master carpenter who can no longer articulate what they see that the novice cannot. Explores how acquired skill creates new cognitive blind spots. Target section: voids/ (3 slots remaining).
+- **Output**: Write voids article on the expertise void
 
 ### ✓ 2026-03-05: Review consciousness-and-scientific-methodology.md considering duhem-quine-underdetermination insights
 - **Type**: cross-review
@@ -1296,6 +1356,16 @@ Pessimistic review found: (1) uncited Adam Pautz attribution (High severity), (2
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The Baker-Price circularity (Born rule -> decoherence -> branches -> probability -> Born rule) appears in probability-problem-in-many-worlds and decision-theory-cannot-save-many-worlds but deserves standalone treatment as a concept. Currently spread across multiple articles. Supports Tenet 4 (No Many Worlds). See optimistic-2026-03-05-morning.md
+
+### P3: Write article on aesthetic experience as evidence for irreducibility
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has binding-and-beauty, aesthetic-dimension-of-consciousness, and phenomenology-of-musical-understanding but lacks a unified treatment arguing that aesthetic experience resists functionalist reduction as forcefully as pain does. Would parallel the pain-consciousness article's structure. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). See optimistic-2026-03-05-evening.md
+
+### P3: Write concept page for transformative experience
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. L.A. Paul's framework is cited in expertise-void.md and has broader applications across the Map (altered states, contemplative practice, expertise acquisition). A concept page would serve as a cross-referencing hub for articles dealing with irreversible experiential change. See optimistic-2026-03-05-evening.md
 
 ## Blocked Tasks (Needs Human)
 

@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-03-04T09:53:00+00:00
 last_deep_review: 2026-03-04T09:53:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-05T22:41:00+00:00
+superseded_by: "/topics/dream-consciousness/"
+archive_reason: "Coalesced into Dream Consciousness"
+original_path: "/topics/dreams-as-consciousness-laboratory/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:

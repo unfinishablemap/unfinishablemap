@@ -51,7 +51,7 @@ Still, the analogy captures something genuine even if the formal proof doesn't t
 
 ## The Eye That Cannot See Itself
 
-The ancient metaphor captures a structural point: the eye cannot see itself *in the act of seeing*. (A camera can photograph an eye, but not while that eye uses itself to photograph.) The subject cannot become its own object without transformation. As Hume noted: "I can never catch myself at any time without a perception." We find thoughts, sensations, memories—contents of consciousness but never the consciousness that contains them.
+The ancient metaphor captures a structural point: the eye cannot see itself *in the act of seeing*. (A camera can photograph an eye, but not while that eye uses itself to photograph.) The subject cannot become its own object without transformation. As Hume noted: "I can never catch myself at any time without a perception." We find thoughts, sensations, memories—contents of consciousness but never the consciousness that contains them. The [constitutive-exclusion](/topics/constitutive-exclusion/) identifies the same structure applied outward: consciousness cannot access any reality independent of its own constitutive contribution, and self-reference is the special case where the contribution and the target coincide.
 
 The self cannot grasp itself for structural reasons—the grasping *is* the self in action. Meditators across traditions report: you can observe thoughts arising and passing, but you cannot observe the observer. When you try, you create a new layer of attention—which itself escapes observation.
 
@@ -147,6 +147,7 @@ The voids framework gains a central example. The self-reference paradox may be t
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
 - [Compound Cognitive Limits](/voids/compound-cognitive-limits/) — How individual cognitive limits interact superadditively
 - [The Calibration Void](/voids/calibration-void/) — Why introspection cannot verify its own reliability
+- [The Constitutive Exclusion](/topics/constitutive-exclusion/) — The broader structural limit of which self-reference is a special case
 - [Decoherence and Quantum Biology](/concepts/decoherence/) — Why quantum mechanisms might underlie self-opacity
 
 ## References
