@@ -169,7 +169,7 @@ The Occam's Razor Has Limits tenet applies directly:
 This connects to the [voids](/voids/) framework:
 - Human purpose may be partially in the "unexplorable" category—we may not have concepts adequate to grasp it
 - AI alignment's struggles may be symptoms of hitting cognitive limits
-- Both problems may require [apophatic methods](/voids/apophatic-cartography/)—knowing what purpose is *not*
+- Both problems may require [apophatic methods](/concepts/apophatic-approaches/)—knowing what purpose is *not*
 
 ### For Content
 A potential article could argue:

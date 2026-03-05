@@ -54,7 +54,7 @@ Inbound links added from 8 existing articles:
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Further Reading section
 - [creativity-void](/voids/creativity-void/) — Further Reading section
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Body text (new "Aesthetic absorption" paragraph in Multiple Edges section)
-- [apophatic-approaches](/voids/apophatic-cartography/) — Body text (Symbolic mediation subsection)
+- [apophatic-approaches](/concepts/apophatic-approaches/) — Body text (Symbolic mediation subsection)
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Body text (ineffability pattern)
 - [language-thought-boundary](/voids/language-thought-boundary/) — Body text (dissolution on articulation)
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — Body text (aesthetic absorption direct method)

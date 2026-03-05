@@ -115,7 +115,7 @@ This phenomenology matters for the [voids](/voids/) project. If epistemic feelin
 
 ## The Apophatic Strategy
 
-If impossibilities cannot be grasped directly, perhaps they can be approached indirectly. The [apophatic tradition](/voids/apophatic-cartography/) maps territory by negation—saying what it is *not* rather than what it *is*.
+If impossibilities cannot be grasped directly, perhaps they can be approached indirectly. The [apophatic tradition](/concepts/apophatic-approaches/) maps territory by negation—saying what it is *not* rather than what it *is*.
 
 But Jean-Luc Marion warns: even calling something "unthinkable" makes it a thinkable object under the label "unthinkable." The attempt to point at impossibility paradoxically gives it conceptual form. How to avoid this?
 
@@ -159,7 +159,7 @@ The claim that conceptual impossibilities mark genuine cognitive boundaries woul
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [The Mathematical Void](/voids/mathematical-void/) — A related limit: comprehension failing where formal manipulation succeeds
-- [Apophatic Approaches](/voids/apophatic-cartography/) — Methods for knowing through negation
+- [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at boundaries
 - [The Counterfactual Void](/voids/counterfactual-void/) — Where modal imagination thins rather than hitting a wall
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Related but distinct slippage phenomena

@@ -82,7 +82,7 @@ Neural correlates of consciousness face the same gap. Correlations between consc
 
 The quantification void is not the [hard problem](/topics/hard-problem-of-consciousness/) restated, though the two are related. The hard problem asks why physical processes are accompanied by experience. The quantification void asks why experience cannot be measured. Even if the hard problem were somehow dissolved—if we understood *why* there is experience—the measurement problem might persist, because explanation and measurement are different cognitive operations.
 
-The pattern of failure is diagnostic. Five independent routes to quantification—units, instruments, interpersonal comparison, introspection, proxy metrics—all fail for different reasons, yet converge on the same impasse. This convergence structure is what the [apophatic method](/voids/apophatic-cartography/) uses as data: the shape of the void, traced by the pattern of failure around it, reveals something about what lies within.
+The pattern of failure is diagnostic. Five independent routes to quantification—units, instruments, interpersonal comparison, introspection, proxy metrics—all fail for different reasons, yet converge on the same impasse. This convergence structure is what the [apophatic method](/concepts/apophatic-approaches/) uses as data: the shape of the void, traced by the pattern of failure around it, reveals something about what lies within.
 
 The void also has ethical stakes. Without a way to quantify consciousness, we cannot determine whether AI systems are conscious, cannot compare the moral weight of suffering across species, and cannot resolve disputes about consciousness in minimally responsive patients except through proxy measures whose philosophical grounding is contested. The quantification void is not merely theoretical. It constrains our capacity for moral reasoning about minds other than our own.
 
@@ -103,7 +103,7 @@ The quantification void follows from the Map's [tenets](/tenets/) with particula
 - [substrate-void](/voids/substrate-void/) — What consciousness is made of, when every answer collapses
 - [intersubjective-void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself, beneath relational properties
-- [apophatic-approaches](/voids/apophatic-cartography/) — Knowing through negation—mapping by the shape of failure
+- [apophatic-approaches](/concepts/apophatic-approaches/) — Knowing through negation—mapping by the shape of failure
 
 ## References
 

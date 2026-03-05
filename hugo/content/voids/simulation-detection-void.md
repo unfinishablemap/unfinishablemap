@@ -80,7 +80,7 @@ The simulation hypothesis exhibits characteristic void phenomenology.
 
 ## Apophatic Approaches
 
-If direct detection is foreclosed, indirect methods remain. [Apophatic epistemology](/voids/apophatic-cartography/)—knowing through negation—offers a framework.
+If direct detection is foreclosed, indirect methods remain. [Apophatic epistemology](/concepts/apophatic-approaches/)—knowing through negation—offers a framework.
 
 Rather than detecting simulation directly, map what base reality cannot be. Study the [topology of detection failure](/voids/topology-of-cognitive-failure/): which methods fail, how they fail, and whether failure patterns reveal architectural constraints. If grid-based simulations show rotational symmetry breaking but our physics does not, we learn something about what kind of simulation (if any) we might inhabit—even without resolving the fundamental question.
 
@@ -117,7 +117,7 @@ For The Unfinishable Map as a project, the simulation detection void is clarifyi
 - [defended-territory](/voids/defended-territory/) — Could some thoughts be actively blocked?
 - [self-reference-paradox](/voids/self-reference-paradox/) — The structural obstacle of consciousness examining itself
 - [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) — Using the shape of failure as data
-- [apophatic-approaches](/voids/apophatic-cartography/) — Knowing through negation
+- [apophatic-approaches](/concepts/apophatic-approaches/) — Knowing through negation
 
 ## References
 

@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken link to archived article**: `[psychophysical-coupling](/concepts/psychophysical-laws/)` links to an archived concept superseded by `[psychophysical-laws](/concepts/psychophysical-laws/)`. Fixed in both frontmatter concepts list and Further Reading section.
+- **Broken link to archived article**: `[psychophysical-coupling](/concepts/psychophysical-coupling/)` links to an archived concept superseded by `[psychophysical-laws](/concepts/psychophysical-laws/)`. Fixed in both frontmatter concepts list and Further Reading section.
 
 ### Medium Issues Found
 - **Stapp Zeno language too endorsing**: "Illustrates this cleanly" violated the writing style guide's requirement for restraint with Quantum Zeno effect. Changed to "offers one illustration" with "On that proposal" framing. (Fixed)
@@ -62,13 +62,13 @@ No misattributions, dropped qualifiers, source/Map conflation, or self-contradic
 - **Opening paragraph**: Front-loads the core question effectively — survives truncation
 
 ### Enhancements Made
-- Fixed broken `[psychophysical-coupling](/concepts/psychophysical-laws/)` → `[psychophysical-laws](/concepts/psychophysical-laws/)` link (frontmatter + Further Reading)
+- Fixed broken `[psychophysical-coupling](/concepts/psychophysical-coupling/)` → `[psychophysical-laws](/concepts/psychophysical-laws/)` link (frontmatter + Further Reading)
 - Softened Stapp Zeno language per writing style guide restraint requirement
 - Trimmed description from 204 to 155 characters
 - Added `last_deep_review` timestamp
 
 ### Cross-links Added
-- [psychophysical-laws](/concepts/psychophysical-laws/) (replaced broken [psychophysical-coupling](/concepts/psychophysical-laws/))
+- [psychophysical-laws](/concepts/psychophysical-laws/) (replaced broken [psychophysical-coupling](/concepts/psychophysical-coupling/))
 
 ## Remaining Items
 

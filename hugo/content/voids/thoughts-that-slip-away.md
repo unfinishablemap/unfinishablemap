@@ -80,7 +80,7 @@ Several patterns suggest investigation:
 
 ## Approaches to Fleeting Thoughts
 
-The [apophatic tradition](/voids/apophatic-cartography/) offers methods for approaching what cannot be grasped directly:
+The [apophatic tradition](/concepts/apophatic-approaches/) offers methods for approaching what cannot be grasped directly:
 
 - **Document immediately.** When a thought begins slipping, don't analyse—record fragments, however incomplete.
 - **Attend to the process.** Observe *how* slippage happens rather than grasping at content. Is there a phenomenological signature?
@@ -136,7 +136,7 @@ The evidence for content-specific slippage remains suggestive rather than conclu
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [The Habituation Void](/voids/habituation-void/) — Where familiarity rather than forgetting erases experience
 - [Introspective Opacity](/voids/introspective-opacity/) — Why we cannot observe our own cognitive processes
-- [Apophatic Approaches](/voids/apophatic-cartography/) — Methods for knowing through negation
+- [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits
 - [Illusionism](/concepts/illusionism/) — The radical challenge that slippage is misrepresentation

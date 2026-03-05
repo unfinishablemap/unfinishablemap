@@ -181,7 +181,7 @@ The voids framework itself embodies this insight. We map not by entering void te
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate cognitive architecture
 - [Convergent Cognitive Limits](/voids/convergent-cognitive-limits/) — Cross-cultural evidence for shared boundaries
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
-- [Apophatic Approaches](/voids/apophatic-cartography/) — Methods for knowing through negation
+- [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising the method with evidential standards and safeguards
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Phenomenology of cognitive slippage
 - [Compound Cognitive Limits](/voids/compound-cognitive-limits/) — How failure signatures interact superadditively

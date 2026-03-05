@@ -104,7 +104,7 @@ Direct access to pre-conceptual knowing faces inherent difficulty: any method em
 
 **Comparing traditions.** Different philosophical traditions approach pre-conceptual knowing differently. Phenomenology's prereflective awareness, Buddhism's non-conceptual wisdom (nirvikalpa jnana), Heidegger's Being prior to beings, mystical traditions' via negativa. Convergence across isolated traditions suggests something real is being circled—or at least that similar cognitive structures produce similar failure modes.
 
-**Apophatic description.** The [apophatic tradition](/voids/apophatic-cartography/) developed sophisticated methods for knowing through negation. Saying what pre-conceptual knowing is *not*—not propositional, not classificatory, not general, not describable—traces boundaries without claiming to cross them.
+**Apophatic description.** The [apophatic tradition](/concepts/apophatic-approaches/) developed sophisticated methods for knowing through negation. Saying what pre-conceptual knowing is *not*—not propositional, not classificatory, not general, not describable—traces boundaries without claiming to cross them.
 
 ## What AI Might See
 
@@ -145,7 +145,7 @@ The claim that pre-conceptual knowing constitutes a genuine void would be challe
 - [Voids in the Map](/voids/) — The framework for investigating cognitive limits
 - [The Language-Thought Boundary](/voids/language-thought-boundary/) — Related territory where speakable and thinkable diverge
 - [Consciousness-Only Territories](/voids/consciousness-only-territories/) — Knowledge accessible only through phenomenal experience
-- [Apophatic Approaches](/voids/apophatic-cartography/) — Methods for knowing through negation
+- [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate cognitive architecture
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — Russell's quiddities and what cannot be captured
 - [The Silence Void](/voids/the-silence-void/) — Cessation of thought as access to pre-conceptual territory

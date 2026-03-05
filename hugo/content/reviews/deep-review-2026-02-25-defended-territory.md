@@ -69,7 +69,7 @@ Six sympathetic personas reviewed the article:
 
 ### Cross-links Added
 - [simulation-detection-void](/voids/simulation-detection-void/) — concrete case study of defended territory
-- [apophatic-approaches](/voids/apophatic-cartography/) — methodological connection for probing methods
+- [apophatic-approaches](/concepts/apophatic-approaches/) — methodological connection for probing methods
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — referenced in new external occlusion paragraph
 
 ## Word Count Change

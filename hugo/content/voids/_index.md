@@ -133,7 +133,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 ### Methods and Probes
 
-- [Apophatic Approaches](/voids/apophatic-cartography/) — Knowing through negation
+- [Apophatic Approaches](/concepts/apophatic-approaches/) — Knowing through negation
 - [Apophatic Cartography](/voids/apophatic-cartography/) — Formalising the method with evidential standards
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [The Question as Evidence](/voids/questioning-as-evidence/) — What our questions reveal

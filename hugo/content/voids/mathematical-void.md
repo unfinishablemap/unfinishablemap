@@ -151,7 +151,7 @@ Current evidence suggests none of these obtains. The mathematical void persists 
 - [The Incompleteness Void](/voids/incompleteness-void/) — Gödel's theorems and self-referential limits
 - [Computational Cognitive Limits](/voids/computational-cognitive-limits/) — Turing, Gödel, and formal boundaries
 - [Conceptual Impossibility](/voids/conceptual-impossibility/) — Thoughts that cannot form at all
-- [Apophatic Approaches](/voids/apophatic-cartography/) — Methods for knowing through negation
+- [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — Physical reality's hidden character
 
 ## References

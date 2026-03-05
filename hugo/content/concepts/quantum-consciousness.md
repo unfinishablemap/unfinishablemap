@@ -202,7 +202,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 - [consciousness-in-non-collapsed-quantum-states](/concepts/consciousness-in-non-collapsed-quantum-states/) — The pre-collapse phase: what consciousness does during superposition
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Born probabilities as interface structure, not pure subjective belief
 - [decoherence](/concepts/decoherence/) — Analysis of the decoherence challenge
-- [psychophysical-coupling](/concepts/psychophysical-laws/) — What a coupling law must specify
+- [psychophysical-coupling](/concepts/psychophysical-coupling/) — What a coupling law must specify
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control: how consciousness might couple
 - [selection-laws](/concepts/selection-laws/) — The downward direction of psychophysical laws
 - [interface-locality](/concepts/brain-interface-boundary/) — Why consciousness selects only within its own brain

@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilinks**: `[psychophysical-coupling](/concepts/psychophysical-laws/)` referenced 3 times (frontmatter, Open Questions, Further Reading) but no article with that filename exists. Only research notes exist. **Resolution**: Replaced all instances with `[the-psychophysical-control-law](/topics/the-psychophysical-control-law/)`, which is the actual article covering this subject.
+- **Broken wikilinks**: `[psychophysical-coupling](/concepts/psychophysical-coupling/)` referenced 3 times (frontmatter, Open Questions, Further Reading) but no article with that filename exists. Only research notes exist. **Resolution**: Replaced all instances with `[the-psychophysical-control-law](/topics/the-psychophysical-control-law/)`, which is the actual article covering this subject.
 
 ### Medium Issues Found
 - **Uncited central empirical claim**: The ~10 bits/second bandwidth figure appeared 4 times without inline citation. Meister (2024) was in references but never connected to this claim. **Resolution**: Added inline citations for Meister (2024) and Cisek (2007) in the opening summary where these claims first appear.
@@ -47,7 +47,7 @@ topics: []
 - Attribution accuracy — all cited claims verified correct
 
 ### Enhancements Made
-- Fixed 3 broken `[psychophysical-coupling](/concepts/psychophysical-laws/)` wikilinks → `[the-psychophysical-control-law](/topics/the-psychophysical-control-law/)`
+- Fixed 3 broken `[psychophysical-coupling](/concepts/psychophysical-coupling/)` wikilinks → `[the-psychophysical-control-law](/topics/the-psychophysical-control-law/)`
 - Added inline citations: Cisek (2007), Meister (2024), Wiener (1948), Stapp (2007)
 - Restructured Stabilisation section to lead with control-theoretic operation, not speculative mechanism
 

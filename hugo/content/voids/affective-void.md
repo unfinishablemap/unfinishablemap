@@ -137,7 +137,7 @@ The affective void suggests profound humility about emotion. Our feelings are no
 - [appetitive-void](/voids/appetitive-void/) — How desire structures our mapping of emotional limits
 - [valence-void](/voids/valence-void/) — Why all affect has a good/bad character — the structure problem, not the range problem
 - [normative-void](/voids/normative-void/) — Moral truths beyond human cognitive reach—the ethics counterpart
-- [apophatic-approaches](/voids/apophatic-cartography/) — Methods for knowing through negation
+- [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 
 ## References
 

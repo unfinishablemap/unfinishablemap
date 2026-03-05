@@ -28,7 +28,7 @@ Both source articles had reached stability through multiple review cycles (neura
 ### Critical Issues Found
 
 - **Self-citation in References**: The article cited its own two archived source articles as references (lines 220-221). These were the articles coalesced *into* this one — self-citation is incorrect. **Resolution**: Removed both self-citations.
-- **Broken wikilink**: `[psychophysical-coupling](/concepts/psychophysical-laws/)` in Further Reading — no such page exists. The correct target is `[psychophysical-laws](/concepts/psychophysical-laws/)`. **Resolution**: Fixed link.
+- **Broken wikilink**: `[psychophysical-coupling](/concepts/psychophysical-coupling/)` in Further Reading — no such page exists. The correct target is `[psychophysical-laws](/concepts/psychophysical-laws/)`. **Resolution**: Fixed link.
 
 ### Medium Issues Found
 

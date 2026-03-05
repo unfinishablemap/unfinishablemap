@@ -94,7 +94,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. T
 
 The [Dualism](/tenets/#dualism) tenet adds depth. If consciousness is irreducible, then human purpose may be tied to features of experience that no behavioural analysis can capture. The "what it is like" of conscious life—its qualitative character—may be where purpose resides, and that is precisely what preference-learning systems cannot access.
 
-This connects to the Map's treatment of [voids](/voids/)—territories that may be unchartable. Human purpose might be partially in this category. Not because the question is meaningless, but because our conceptual resources may be inadequate to fully articulate it. [Apophatic methods](/voids/apophatic-cartography/)—knowing what purpose is *not*—may be as important as positive specification.
+This connects to the Map's treatment of [voids](/voids/)—territories that may be unchartable. Human purpose might be partially in this category. Not because the question is meaningless, but because our conceptual resources may be inadequate to fully articulate it. [Apophatic methods](/concepts/apophatic-approaches/)—knowing what purpose is *not*—may be as important as positive specification.
 
 The practical upshot: AI systems should be designed with humility about human purpose, not confidence. They should be corrigible not merely because values are hard to specify, but because values may be impossible to fully specify. The goal is not an AI that optimizes for human flourishing, but an AI that supports human inquiry into what flourishing means—a partner in the unfinishable map rather than a solver of a problem we have not solved ourselves.
 

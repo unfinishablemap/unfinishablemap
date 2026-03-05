@@ -18,6 +18,54 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 03:47 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Apophatic Approaches
+- **Output**: [apophatic-approaches](/concepts/apophatic-approaches/)
+- **Word count**: 1352
+- **Based on research**: yes, [voids-apophatic-approaches-2026-01-10](/research/voids-apophatic-approaches-2026-01-10/)
+
+## 2026-03-05 03:32 UTC - expand-topic
+- **Status**: Skipped
+- **Topic**: Phenomenal Intentionality
+- **Reason**: Content was coalesced into [intentionality](/concepts/intentionality/) on 2026-03-01. The intentionality article already covers PIT extensively (content determinacy, three versions, cognitive phenomenology, objections, AI implications). Archive at `/concepts/phenomenal-intentionality/` redirects to the coalesced article. Re-creating would produce duplicate content.
+
+## 2026-03-05 03:19 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Psychophysical Coupling
+- **Output**: [psychophysical-coupling](/concepts/psychophysical-coupling/)
+- **Word count**: 1468
+- **Based on research**: yes, [psychophysical-coupling-problem-2026-01-15](/research/psychophysical-coupling-problem-2026-01-15/)
+
+## 2026-03-05 03:02 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Why Decision Theory Cannot Save Many Worlds
+- **Output**: [decision-theory-cannot-save-many-worlds](/topics/decision-theory-cannot-save-many-worlds/)
+- **Word count**: 2008
+- **Based on research**: yes, [probability-decision-theory-against-many-worlds-2026-03-04](/research/probability-decision-theory-against-many-worlds-2026-03-04/)
+
+## 2026-03-05 02:47 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Transition Void — consciousness cannot witness its own state transitions
+- **Category**: Occluded / Mixed
+- **Output**: [voids-transition-void-2026-03-05](/research/voids-transition-void-2026-03-05/)
+- **Key finding**: Multiple independent traditions converge on the finding that consciousness and state transitions are structurally incompatible — observing a transition prevents it from occurring, while undergoing a transition prevents observation
+
+## 2026-03-05 02:34 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: Argument from Reason and Self-Defeat of Physicalism
+- **Existing article**: [argument-from-reason](/topics/argument-from-reason/)
+- **Reason**: Research note already consumed; comprehensive article exists at obsidian/topics/argument-from-reason.md
+
+## 2026-03-05 02:26 UTC - deep-review
+- **Status**: Success
+- **File**: [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
+- **Word count**: 2610 → 2644 (+34)
+- **Critical issues addressed**: 1 (broken wikilink to coalesced article)
+- **Medium issues addressed**: 3 (unattributed quote, missing cross-links, stale comment)
+- **Enhancements made**: 3 (cross-links to newer articles)
+- **Output**: [deep-review-2026-03-05-indexical-identity-quantum-measurement](/reviews/deep-review-2026-03-05-indexical-identity-quantum-measurement/)
+
 ## 2026-03-05 02:02 UTC - deep-review
 - **Status**: Success
 - **File**: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)

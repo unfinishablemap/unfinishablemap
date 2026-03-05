@@ -25,7 +25,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Stale link `[psychophysical-coupling](/concepts/psychophysical-laws/)`**: The link on line 133 ("The [psychophysical-coupling](/concepts/psychophysical-laws/) article surveys five candidate mechanisms") and in Further Reading pointed to an archived article. The content was coalesced into `psychophysical-laws.md`. [RESOLVED: Updated both references to `[psychophysical-laws](/concepts/psychophysical-laws/)`]
+- **Stale link `[psychophysical-coupling](/concepts/psychophysical-coupling/)`**: The link on line 133 ("The [psychophysical-coupling](/concepts/psychophysical-coupling/) article surveys five candidate mechanisms") and in Further Reading pointed to an archived article. The content was coalesced into `psychophysical-laws.md`. [RESOLVED: Updated both references to `[psychophysical-laws](/concepts/psychophysical-laws/)`]
 
 ### Medium Issues Found
 - **Missing bandwidth problem connection**: The Specification Challenge section discussed "which maps to which" but didn't mention the distinct "can the channel carry enough information" challenge from the new bandwidth-problem-mental-causation article. [RESOLVED: Added two sentences noting the bandwidth problem and hierarchical selection response]
@@ -65,7 +65,7 @@ All six adversarial personas engaged:
 
 ### Enhancements Made
 - Added bandwidth problem mention in Specification Challenge section with cross-links
-- Fixed stale `[psychophysical-coupling](/concepts/psychophysical-laws/)` → `[psychophysical-laws](/concepts/psychophysical-laws/)` link
+- Fixed stale `[psychophysical-coupling](/concepts/psychophysical-coupling/)` → `[psychophysical-laws](/concepts/psychophysical-laws/)` link
 - Added `[bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/)` and `[neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/)` to concepts frontmatter and Further Reading
 - Tightened overdetermination section (removed redundant phrasing)
 - Tightened supervenience section (consolidated paragraphs)
@@ -94,7 +94,7 @@ This is the fifth deep review. The article remains stable:
 
 - **The bandwidth problem** is now referenced as a separate challenge from causal exclusion, noting the hierarchical selection response. The three-dimensional nature (capacity, grain, format) is linked via the bandwidth-problem-mental-causation concept page.
 
-- **Stale link fixed**: The `[psychophysical-coupling](/concepts/psychophysical-laws/)` archive link has been updated to `[psychophysical-laws](/concepts/psychophysical-laws/)` throughout.
+- **Stale link fixed**: The `[psychophysical-coupling](/concepts/psychophysical-coupling/)` archive link has been updated to `[psychophysical-laws](/concepts/psychophysical-laws/)` throughout.
 
 - **Further Reading adjusted**: Removed subsection link (substance causation) and niche entry (epistemology-of-mechanism) to accommodate bandwidth entries. Both removed items are linked from body text or other frontmatter entries.
 

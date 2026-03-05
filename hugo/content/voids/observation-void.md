@@ -116,7 +116,7 @@ The observation void also connects to [the-unobservable-self](/voids/the-unobser
 - [causal-interface](/voids/causal-interface/) — The hidden mechanism of mind-body interaction
 - [self-reference-paradox](/voids/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Knowledge accessible only through phenomenal experience
-- [apophatic-approaches](/voids/apophatic-cartography/) — Knowing through negation—an indirect route past the void
+- [apophatic-approaches](/concepts/apophatic-approaches/) — Knowing through negation—an indirect route past the void
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 
 ## References

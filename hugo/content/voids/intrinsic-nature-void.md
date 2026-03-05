@@ -133,7 +133,7 @@ The hard problem is expected if physics cannot reach intrinsic nature and consci
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — Framework-generated questions that resist answer
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate cognitive architecture
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What consciousness can access that structural analysis cannot
-- [apophatic-approaches](/voids/apophatic-cartography/) — Methods for knowing through negation
+- [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [acquaintance-void](/voids/acquaintance-void/) — The narrowness of our phenomenal window into intrinsic nature
 - [valence-void](/voids/valence-void/) — Valence as the most fundamental intrinsic nature we encounter
 - [self-reference-paradox](/voids/self-reference-paradox/) — Why consciousness cannot fully examine itself
