@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[temporal-consciousness]]'
-- '[[duration]]'
+- '[[temporal-consciousness]]'
 - '[[philosophy-of-time]]'
 - '[[phenomenology]]'
 - '[[neurophenomenology]]'

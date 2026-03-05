@@ -17,7 +17,7 @@ concepts:
 - '[[phenomenology]]'
 - '[[philosophy-of-time]]'
 - '[[neurophenomenology]]'
-- '[[autonoetic-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[prospective-memory]]'
 - '[[personal-identity]]'
 - '[[sleep-and-consciousness]]'
@@ -177,7 +177,7 @@ Temporal consciousness connects to all five tenets:
 
 - [collapse-and-time](/concepts/collapse-and-time/) — How consciousness may participate in time's arrow via quantum collapse
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — The Map's full treatment of time, collapse, and conscious agency
-- [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self
+- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why we can re-experience the past but only imagine the future
 - [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series and the Map's growing block position
 - [continuity-void](/voids/continuity-void/) — Why consciousness cannot determine its own temporal grain

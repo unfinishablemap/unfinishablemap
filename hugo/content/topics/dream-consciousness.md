@@ -22,7 +22,7 @@ concepts:
 - '[[predictive-processing]]'
 - '[[default-mode-network]]'
 - '[[altered-states-of-consciousness]]'
-- '[[autonoetic-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[phenomenology-of-choice]]'
 - '[[witness-consciousness]]'
 - '[[meditation-and-consciousness-modes]]'

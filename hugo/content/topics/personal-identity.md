@@ -9,7 +9,7 @@ concepts:
 - '[[death-and-consciousness]]'
 - '[[split-brain-consciousness]]'
 - '[[self-and-consciousness]]'
-- '[[autonoetic-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[concepts/many-worlds]]'
 - '[[parfit-reductionism]]'
 - '[[haecceity]]'
@@ -212,7 +212,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects many-worlds (the indexical problem is central)
 - [haecceity](/concepts/haecceity/) — Primitive thisness, Whitehead's process philosophy, and why qualitative identity isn't enough
 - [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self and phenomenology of selfhood
-- [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self
+- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Empirical evidence on consciousness unity and division
 - [death-and-consciousness](/topics/death-and-consciousness/) — What survival after death would require
 - [dreamless-sleep-void](/voids/dreamless-sleep-void/) — The nightly gap in consciousness and what it means for identity

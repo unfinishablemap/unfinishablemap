@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[episodic-memory]]'
-- '[[autonoetic-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[phenomenology]]'
 - '[[qualia]]'
 - '[[introspection]]'
@@ -141,7 +141,7 @@ None of these conditions has been met. Current evidence supports the reconstruct
 - [other-minds-void](/voids/other-minds-void/) — The structural inaccessibility of other present minds
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Related phenomenology of cognitive limitation
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that stores experienced events
-- [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The self-knowing awareness that enables "mental time travel"
+- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The self-knowing awareness that enables "mental time travel"
 
 ## References
 

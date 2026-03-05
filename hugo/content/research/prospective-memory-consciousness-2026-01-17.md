@@ -6,9 +6,9 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[temporal-consciousness]]'
-- '[[autonoetic-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[working-memory]]'
-- '[[specious-present]]'
+- '[[temporal-consciousness]]'
 created: 2026-01-17
 date: &id001 2026-01-17
 draft: false

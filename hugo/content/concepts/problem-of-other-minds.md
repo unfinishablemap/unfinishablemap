@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-01 14:51:00+00:00
+ai_modified: 2026-03-04 22:18:50+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[theory-of-mind]]'
-- '[[metarepresentation]]'
+- '[[metacognition]]'
 - '[[qualia]]'
 - '[[concepts/functionalism]]'
 - '[[mysterianism]]'

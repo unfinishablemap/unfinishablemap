@@ -9,7 +9,7 @@ concepts:
 - '[[intersubjectivity]]'
 - '[[topics/consciousness-and-social-cognition]]'
 - '[[theory-of-mind]]'
-- '[[autonoetic-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[haecceity]]'
 - '[[illusionism]]'
 - '[[witness-consciousness]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-02 12:52:00+00:00
+ai_modified: 2026-03-04 23:02:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,7 +15,7 @@ concepts:
 - '[[measurement-problem]]'
 - '[[quantum-consciousness]]'
 - '[[vertiginous-question]]'
-- '[[indexical-facts]]'
+- '[[indexical-knowledge-and-identity]]'
 created: 2026-01-16
 date: &id001 2026-01-26
 description: The quality of being this particular conscious subject. Pattern-based
@@ -23,7 +23,7 @@ description: The quality of being this particular conscious subject. Pattern-bas
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-01 05:48:00+00:00
+last_deep_review: 2026-03-04 23:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,7 +95,7 @@ Epistemologists discuss "self-locating beliefs"—beliefs about where you are in
 
 Consider: "There is a person in a red room" vs "I am in a red room." The first describes the world impersonally. The second locates me within it. Even knowing all impersonal facts about the world, I might not know which person I am—which requires self-location.
 
-David Lewis's "Two Gods" scenario (discussed in [indexical-facts](/concepts/indexical-knowledge-and-identity/)) demonstrates that self-locating knowledge is distinct from qualitative knowledge—omniscience about impersonal facts leaves "which one am I?" undetermined.
+David Lewis's "Two Gods" scenario (discussed in [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)) demonstrates that self-locating knowledge is distinct from qualitative knowledge—omniscience about impersonal facts leaves "which one am I?" undetermined.
 
 For consciousness:
 
@@ -127,7 +127,7 @@ The [pairing-problem](/concepts/pairing-problem/) asks what connects a particula
 
 The haecceity response (Bailey, Rasmussen, Van Horn 2011) appeals directly to thisness: M1 is paired with B1 because of the haecceitistic fact that *this* mind is causally related to *this* body. The pairing is primitive—not grounded in qualitative or spatial relations.
 
-This may seem to explain little. But the criticism applies to any theory of individuation. What makes *this* electron distinct from *that* one? Physics offers no qualitative answer—electrons are indistinguishable. Yet numerical distinctness seems real. If physics relies on haecceity for particles, dualism can rely on it for minds.
+This may seem to explain little. But individuation bottoms out somewhere in every framework. Quantum field theory treats electrons as genuinely indistinguishable excitations of a single field—yet particular detection events still occur at particular locations. The transition from field description to particular event mirrors the haecceitistic move: something non-qualitative grounds *this* outcome rather than another.
 
 ## MWI and the Probability Problem
 
@@ -175,7 +175,7 @@ Buddhist philosophy, particularly Madhyamaka, argues that the self is *sunyata* 
 
 **Response**: The Buddhist analysis may be compatible with a refined haecceitism. The self can be empty of *qualitative* essence while still being *this* particular process. Consider: Buddhist philosophy doesn't deny that *this* person experiences *this* moment—it denies that there's a permanent, unchanging self underlying the experience. But haecceity doesn't require permanence; it requires particularity. *This* stream of experience, however impermanent and constructed, is still distinguishable from *that* stream. The indexical fact remains even if the referent is a process rather than a substance.
 
-This interpretation suggests haecceity may be more about the particularity of experiential processes than about substantial souls—a view potentially compatible with both [Buddhist insights](/concepts/buddhism-and-dualism/) and the Map's framework. The [Eastern Philosophy–Haecceity Tension](/topics/eastern-philosophy-consciousness/) article develops this compatibility in detail, arguing that "process haecceitism" can apply to impermanent streams of experience without requiring permanent souls.
+This interpretation suggests haecceity may be more about the particularity of experiential processes than about substantial souls—a view potentially compatible with both [Buddhist insights](/concepts/buddhism-and-dualism/) and the Map's framework. The [Eastern Philosophy and Consciousness](/topics/eastern-philosophy-consciousness/) article develops this compatibility in detail, arguing that "process haecceitism" can apply to impermanent streams of experience without requiring permanent souls.
 
 ## Process Philosophy and Haecceity
 
@@ -228,7 +228,7 @@ The haecceity concept makes explicit what the Map presupposes. Personal identity
 ## Further Reading
 
 - [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: how haecceity persists through split-brain, anesthesia, altered states, and death
-- [indexical-facts](/concepts/indexical-knowledge-and-identity/) — The irreducible first-person facts that haecceity grounds
+- [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — The irreducible first-person facts that haecceity grounds
 - [vertiginous-question](/topics/vertiginous-question/) — Why am I *this* conscious being rather than another?
 - [personal-identity](/topics/personal-identity/) — How haecceity grounds personal identity
 - [many-worlds](/concepts/many-worlds/) — Why indexical identity problems doom many-worlds

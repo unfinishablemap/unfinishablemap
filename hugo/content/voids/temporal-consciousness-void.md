@@ -10,8 +10,8 @@ concepts:
 - '[[introspection]]'
 - '[[mysterianism]]'
 - '[[philosophy-of-time]]'
-- '[[specious-present]]'
-- '[[duration]]'
+- '[[temporal-consciousness]]'
+- '[[temporal-consciousness]]'
 - '[[self-and-consciousness]]'
 - '[[default-mode-network]]'
 created: 2026-02-04
@@ -139,8 +139,8 @@ This void connects to the Map's [tenets](/tenets/):
 - [the-unobservable-self](/voids/the-unobservable-self/) — The subject that cannot be its own object
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How time structures conscious experience
-- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of the present moment
-- [duration](/concepts/temporal-consciousness/) — Bergson's concept of lived time as qualitative multiplicity
+- [temporal-consciousness](/concepts/temporal-consciousness/) — The experienced duration of the present moment
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's concept of lived time as qualitative multiplicity
 - [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series, presentism, and eternalism
 
 ## References

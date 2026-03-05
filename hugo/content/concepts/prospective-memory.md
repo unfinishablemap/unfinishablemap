@@ -5,11 +5,11 @@ ai_modified: 2026-02-03 06:28:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[autonoetic-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[temporal-consciousness]]'
 - '[[temporal-asymmetry-remembering-anticipating]]'
 - '[[working-memory]]'
-- '[[specious-present]]'
+- '[[temporal-consciousness]]'
 - '[[agent-causation]]'
 - '[[episodic-memory]]'
 - '[[illusionism]]'
@@ -170,11 +170,11 @@ Prospective memory and future-oriented consciousness support all five foundation
 ## Further Reading
 
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — The void at the boundary between memory and anticipation
-- [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel in both directions
+- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel in both directions
 - [episodic-memory](/concepts/episodic-memory/) — Pastward mental time travel and the pastness quale
 - [working-memory](/concepts/working-memory/) — The cognitive workspace for future simulation
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and temporal structure
-- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of "now"
+- [temporal-consciousness](/concepts/temporal-consciousness/) — The experienced duration of "now"
 - [free-will](/topics/free-will/) — How consciousness shapes action
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of intention formation
 - [motor-selection](/concepts/motor-selection/) — Willed movement and the attention-selection interface

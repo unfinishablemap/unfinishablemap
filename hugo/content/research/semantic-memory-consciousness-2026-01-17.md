@@ -5,7 +5,7 @@ ai_modified: 2026-01-17 18:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[autonoetic-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[cognitive-phenomenology]]'
 - '[[temporal-consciousness]]'
 created: 2026-01-17
@@ -144,7 +144,7 @@ If noetic consciousness involves irreducible phenomenology (TOT feels like somet
 ### Relation to Autonoetic Coverage
 
 The Map now covers:
-- **Autonoetic** (episodic): [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
+- **Autonoetic** (episodic): [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
 - **Prospective**: [prospective-memory](/concepts/prospective-memory/)
 - **Working memory**: [working-memory](/concepts/working-memory/)
 

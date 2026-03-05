@@ -25,7 +25,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[entanglement-binding-hypothesis]]'
 - '[[minimal-consciousness]]'
-- '[[autonoetic-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[meditation-and-consciousness-modes]]'
 - '[[neural-binding-mechanisms]]'
 - '[[consciousness]]'
@@ -159,7 +159,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [foundati
 - [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) — Classical and quantum approaches to binding compared
 - [consciousness](/concepts/consciousness/) — The Map's foundational concept page
 - [personal-identity](/topics/personal-identity/) — How subjects persist across time
-- [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self
+- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Unity at the boundaries of experience
 
 ## References

@@ -14,7 +14,7 @@ concepts:
 - '[[episodic-memory]]'
 - '[[semantic-memory]]'
 - '[[implicit-memory]]'
-- '[[autonoetic-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[binding-problem]]'
 - '[[illusionism]]'
 - '[[introspection]]'

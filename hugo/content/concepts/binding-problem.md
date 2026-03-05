@@ -17,7 +17,7 @@ concepts:
 - '[[mental-effort]]'
 - '[[split-brain-consciousness]]'
 - '[[mind-brain-separation]]'
-- '[[autonoetic-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[temporal-consciousness]]'
 - '[[sleep-and-consciousness]]'
 - '[[filter-theory]]'

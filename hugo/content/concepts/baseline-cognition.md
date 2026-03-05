@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-04 11:07:00+00:00
+ai_modified: 2026-03-04 22:18:50+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -13,7 +13,7 @@ concepts:
 - '[[consciousness-as-amplifier]]'
 - '[[working-memory]]'
 - '[[metacognition]]'
-- '[[metarepresentation]]'
+- '[[metacognition]]'
 - '[[cumulative-culture]]'
 - '[[global-workspace-theory]]'
 - '[[minimal-consciousness]]'

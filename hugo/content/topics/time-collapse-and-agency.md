@@ -8,8 +8,8 @@ concepts:
 - '[[collapse-and-time]]'
 - '[[retrocausality]]'
 - '[[temporal-consciousness]]'
-- '[[specious-present]]'
-- '[[duration]]'
+- '[[temporal-consciousness]]'
+- '[[temporal-consciousness]]'
 - '[[quantum-consciousness]]'
 - '[[agent-causation]]'
 - '[[measurement-problem]]'
@@ -234,10 +234,10 @@ This synthesis strengthens and deepens each of the five tenets:
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
 - [retrocausality](/concepts/retrocausality/) — Time-symmetric physics and backward causation
 - [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) — Why physics-based retrocausality doesn't rest on contested parapsychology
-- [duration](/concepts/temporal-consciousness/) — Bergson's qualitative time and the phenomenology of flow
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's qualitative time and the phenomenology of flow
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Broader treatment of time in consciousness
 - [temporal-phenomenology-quantum-selection](/concepts/temporal-phenomenology-quantum-selection/) — Retention, primal impression, and protention as the experiential signature of quantum selection
-- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of "now" and the extensionalism debate
+- [temporal-consciousness](/concepts/temporal-consciousness/) — The experienced duration of "now" and the extensionalism debate
 - [free-will](/topics/free-will/) — the Map's account of libertarian agency
 - [agent-causation](/concepts/agent-causation/) — The agent as ultimate source of action
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse remains unexplained

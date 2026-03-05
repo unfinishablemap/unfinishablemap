@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 - **Misattribution to Strawson**: Article attributed "cognitive phenomenology proper" to Galen Strawson; his actual term is "understanding-experience." Fixed by correcting the attribution.
-- **Broken wikilinks**: `[duration](/concepts/temporal-consciousness/)` and `[metarepresentation](/concepts/metacognition/)` had no target files. Fixed: removed `[duration](/concepts/temporal-consciousness/)` from Further Reading and frontmatter concepts; replaced `[metarepresentation](/concepts/metacognition/)` with plain text in body and removed from frontmatter concepts.
+- **Broken wikilinks**: `[temporal-consciousness](/concepts/temporal-consciousness/)` and `[metarepresentation](/concepts/metacognition/)` had no target files. Fixed: removed `[temporal-consciousness](/concepts/temporal-consciousness/)` from Further Reading and frontmatter concepts; replaced `[metarepresentation](/concepts/metacognition/)` with plain text in body and removed from frontmatter concepts.
 
 ### Medium Issues Found
 - **Unsupported jhāna claim**: "Advanced practitioners report that in subtler jhānas, logical relationships become unusually vivid" had no scholarly support. Traditional sources actually say discursive thought is *eliminated* in higher jhānas. Fixed: rewrote to accurately present prajñā parallel while qualifying that its traditional context is insight into impermanence, not mathematics.

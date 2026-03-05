@@ -65,7 +65,7 @@ topics: []
 - [haecceity](/concepts/haecceity/) - indexical identity and unrepeatability
 - [decoherence](/concepts/decoherence/) - quantum objection
 - [emotional-consciousness](/topics/emotional-consciousness/) - valence and felt quality
-- [duration](/concepts/temporal-consciousness/) - Bergson's lived time
+- [temporal-consciousness](/concepts/temporal-consciousness/) - Bergson's lived time
 - [illusionism](/concepts/illusionism/) - strengthened existing link with substantive engagement
 
 ## Word Count Change

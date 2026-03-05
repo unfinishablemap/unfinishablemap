@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[temporal-consciousness]]'
-- '[[autonoetic-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[episodic-memory]]'
 - '[[prospective-memory]]'
 - '[[phenomenology]]'
@@ -125,7 +125,7 @@ Several findings would require revision: genuine pre-experience (the pastness qu
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [temporal-consciousness-void](/voids/temporal-consciousness-void/) — Consciousness confined to the present; complements this article's focus on past/future asymmetry
-- [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The self-knowing awareness that enables mental time travel
+- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The self-knowing awareness that enables mental time travel
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that preserves experienced events
 - [prospective-memory](/concepts/prospective-memory/) — Future-directed memory and its phenomenology
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How time structures conscious experience

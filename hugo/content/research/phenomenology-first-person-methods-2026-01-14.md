@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[intentionality]]'
 - '[[qualia]]'
-- '[[duration]]'
+- '[[temporal-consciousness]]'
 - '[[temporal-consciousness]]'
 created: 2026-01-14
 date: &id001 2026-01-14

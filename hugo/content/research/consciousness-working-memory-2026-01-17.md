@@ -9,7 +9,7 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[mental-effort]]'
 - '[[temporal-consciousness]]'
-- '[[specious-present]]'
+- '[[temporal-consciousness]]'
 - '[[global-workspace-theory]]'
 created: 2026-01-17
 date: &id001 2026-01-17

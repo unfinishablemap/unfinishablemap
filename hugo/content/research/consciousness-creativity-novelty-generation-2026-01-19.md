@@ -16,7 +16,7 @@ last_curated: null
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[duration]]'
+- '[[temporal-consciousness]]'
 title: Research Notes - Consciousness and Creativity
 topics:
 - '[[topics/free-will]]'

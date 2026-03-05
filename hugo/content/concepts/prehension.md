@@ -11,8 +11,8 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[combination-problem]]'
 - '[[phenomenal-binding-and-holism]]'
-- '[[duration]]'
-- '[[autonoetic-consciousness]]'
+- '[[temporal-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 created: 2026-02-09
 date: &id001 2026-02-09
 description: Whitehead's concept of how each moment of reality grasps its predecessors.
@@ -113,8 +113,8 @@ Prehension intersects with the Map's framework in several ways, though the Map d
 - [panpsychism](/concepts/panpsychism/) — The view that experience is ubiquitous; prehension is its core mechanism
 - [intentionality](/concepts/intentionality/) — Prehension as proto-intentionality in the process tradition
 - [combination-problem](/concepts/combination-problem/) — The challenge prehension is meant to address
-- [duration](/concepts/temporal-consciousness/) — Bergson's durée and its parallels with prehensive inheritance
-- [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Memory as re-prehension of past occasions
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's durée and its parallels with prehensive inheritance
+- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Memory as re-prehension of past occasions
 - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — How prehension achieves experiential unity
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The neuroscience of time experience that prehension illuminates
 - [causal-closure](/concepts/causal-closure/) — The doctrine prehension challenges by positing non-mechanistic causation

@@ -13,7 +13,7 @@ concepts:
 - '[[buddhism-and-dualism]]'
 - '[[intentionality]]'
 - '[[qualia]]'
-- '[[duration]]'
+- '[[temporal-consciousness]]'
 - '[[temporal-consciousness]]'
 - '[[mysterianism]]'
 - '[[self-and-consciousness]]'
@@ -23,7 +23,7 @@ concepts:
 - '[[eastern-philosophy-consciousness]]'
 - '[[illusionism]]'
 - '[[existentialism]]'
-- '[[specious-present]]'
+- '[[temporal-consciousness]]'
 - '[[pre-conceptual-knowing]]'
 - '[[attention-as-interface]]'
 - '[[intuitive-dualism]]'
@@ -80,7 +80,7 @@ Husserl's analysis of temporal experience reveals consciousness's synthetic acti
 
 Physical time is a sequence of instants. Experienced time is structured by meaning, anticipation, and memory interpenetrating in the living present. The "specious present" extends beyond the mathematical instant.
 
-This analysis connects to the Map's [temporal-consciousness](/concepts/temporal-consciousness/) and [duration](/concepts/temporal-consciousness/) articles. Bergson's *durée* and Husserl's time-consciousness converge: experienced time cannot be reconstructed from sequences of instantaneous states. Time as lived differs from time as measured.
+This analysis connects to the Map's [temporal-consciousness](/concepts/temporal-consciousness/) and [temporal-consciousness](/concepts/temporal-consciousness/) articles. Bergson's *durée* and Husserl's time-consciousness converge: experienced time cannot be reconstructed from sequences of instantaneous states. Time as lived differs from time as measured.
 
 ## Merleau-Ponty and the Body
 

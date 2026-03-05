@@ -10,7 +10,7 @@ concepts:
 - '[[phenomenology]]'
 - '[[neurophenomenology]]'
 - '[[collapse-and-time]]'
-- '[[duration]]'
+- '[[temporal-consciousness]]'
 - '[[binding-problem]]'
 - '[[introspection]]'
 - '[[qualia]]'

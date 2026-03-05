@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[phenomenology]]'
 - '[[philosophy-of-time]]'
-- '[[duration]]'
+- '[[temporal-consciousness]]'
 - '[[temporal-consciousness]]'
 - '[[introspection]]'
 created: 2026-02-24
@@ -95,7 +95,7 @@ The Map speculates that the duration void may be partly occluded rather than mer
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why past and future access differs
 - [absorption-void](/voids/absorption-void/) — Peak engagement as peak self-opacity
 - [the-unobservable-self](/voids/the-unobservable-self/) — The subject that cannot be its own object
-- [duration](/concepts/temporal-consciousness/) — Bergson's concept of lived time as qualitative multiplicity
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's concept of lived time as qualitative multiplicity
 - [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series, presentism, and eternalism
 
 ## References

@@ -271,9 +271,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Emotions present paradoxical opacity—we feel them intensely yet often cannot identify what we feel until after the fact. Alexithymia as partial void exploration. Builds on absorption-void.md, emotional-consciousness.md, introspective-opacity.md. See optimistic-2026-02-24-morning.md
 - **Generated**: 2026-02-24
 
-### P3: Write concept page for metarepresentation
+### P3: Write concept page for metarepresentation #veto
 - **Type**: expand-topic
 - **Status**: pending
+- **Veto reason**: Resolved — metarepresentation was coalesced into [metacognition](/concepts/metacognition/) and all 56 wikilinks updated on 2026-03-04.
 - **Notes**: Suggested by optimistic review. 22+ broken wikilinks across the site reference `[metarepresentation](/concepts/metacognition/)` but no concept page exists. Central to the Jourdain hypothesis and baseline cognition clusters — the Map's strongest empirical argument for bidirectional interaction. Builds on jourdain-hypothesis.md, baseline-cognition.md, consciousness-as-amplifier.md. See optimistic-2026-02-24-afternoon.md
 - **Generated**: 2026-02-24
 
@@ -579,6 +580,47 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-04: Address gaps in epistemology-of-other-minds-under-dualism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) discourse argument switches from evidential to semantic claim without acknowledgment, (2) unaddressed tension between "minimal" quantum interaction and robust epistemic access. Also circular metarepresentation claim and superficial MWI critique. See pessimistic-2026-03-04-night.md
+- **Output**: obsidian/concepts/epistemology-of-other-minds-under-dualism.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) discourse argument switches from evidential to semantic claim without acknowledgment, (2) unaddressed tension between "minimal" quantum interaction and robust epistemic access. Also circular metarepresentation claim and superficial MWI critique. See pessimistic-2026-03-04-night.md
+
+### ✓ 2026-03-04: Deep review phenomenology-of-choice.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 31 days ago. Third-most cross-referenced stale concept page with 134 inbound links. Covers the phenomenological character of choosing — the felt quality of deliberation, decision, and commitment. Directly relevant to Tenet 3 (Bidirectional Interaction) and the Map's treatment of free will and agency. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/phenomenology-of-choice.md
+
+### ✓ 2026-03-04: Deep review haecceity.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 30 days ago, at the staleness threshold. Second-most cross-referenced concept page with 268 inbound links. Haecceity (primitive thisness) is foundational to Tenet 4 (No Many Worlds) and the Map's treatment of indexical identity — the argument that personal identity cannot be captured by qualitative descriptions alone. Verify coherence, cross-references, and tenet alignment. Supports Tenet 4.
+- **Output**: obsidian/concepts/haecceity.md
+
+### ✓ 2026-03-04: Deep review illusionism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 31 days ago. The most heavily cross-referenced concept page on the entire site with 403 inbound links — stale quality here propagates extremely broadly. Illusionism is a key physicalist position the Map engages with; accuracy of the Map's characterisation and rebuttals is critical. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/illusionism.md
+
+### ✓ 2026-03-04: Update 56 stale wikilinks from archived `metarepresentation` to `metacognition`
+- **Type**: cross-review
+- **Notes**: 56 content articles still link to `[metarepresentation](/concepts/metacognition/)`, which was coalesced into the broader `[metacognition](/concepts/metacognition/)` article (titled "Metacognition, Metarepresentation, and Consciousness"). Bulk-update wikilinks across all content files. Use display text `[metarepresentation](/concepts/metacognition/)` where the context specifically discusses metarepresentation rather than metacognition broadly.
+- **Output**: None -- Context: Update 56 stale wikilinks from archived `metarepresentation` to `metacognition`
+
+### ✓ 2026-03-04: Update 56 stale wikilinks from archived `metarepresentation` to `metacognition`
+- **Type**: cross-review
+
+### ✓ 2026-03-04: Update 67 stale wikilinks from archived `autonoetic-consciousness` to `anoetic-noetic-autonoetic-consciousness`
+- **Type**: cross-review
+- **Notes**: 67 content articles still link to `[autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)`, which was coalesced into `[anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)`. Bulk-update wikilinks across all content files. Preserve display text where appropriate.
+- **Output**: None -- Context: Update 67 stale wikilinks from archived `autonoetic-consciousness` to `anoetic-noetic-autonoetic-consciousness`
+
+### ✓ 2026-03-04: Update 147 stale wikilinks from archived `duration` and `specious-present` to `temporal-consciousness`
+- **Type**: cross-review
+- **Notes**: 87 content articles still link to `[duration](/concepts/temporal-consciousness/)` and 60 to `[specious-present](/concepts/temporal-consciousness/)`, both archived and superseded by `[temporal-consciousness](/concepts/temporal-consciousness/)`. Readers following these links see archive notices instead of the replacement content. Bulk-update wikilinks across all files in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/. Preserve display text where appropriate (e.g. `[duration](/concepts/temporal-consciousness/)`).
+- **Output**: None -- Context: Update 147 stale wikilinks from archived `duration` and `specious-present` to `temporal-consciousness`
 
 ### ✓ 2026-03-04: Deep review fragmented-consciousness.md
 - **Type**: deep-review
@@ -929,7 +971,7 @@ Pessimistic review found: (1) uncited Adam Pautz attribution (High severity), (2
 
 ### ✓ 2026-03-02: Update references to coalesced autonoetic-consciousness article
 - **Type**: cross-review
-- **Notes**: Coalesce merged autonoetic-consciousness.md into anoetic-noetic-autonoetic-consciousness.md. The following 27 active content files reference the archived `[autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)` and need links updated to `[autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)`: neural-correlates-of-consciousness, past-self-void, binding-problem, consciousness-and-memory, temporal-consciousness, unity-of-consciousness, temporal-asymmetry-remembering-anticipating, memory-void, working-memory, semantic-memory, self-and-consciousness, prospective-memory, prehension, implicit-memory, global-workspace-theory, cognitive-phenomenology, the-self-minimal-narrative-and-substantial, temporal-structure-of-consciousness, social-construction-of-self-vs-phenomenal-self, phenomenology-of-understanding, phenomenology-of-anticipation, personal-identity, dream-consciousness, diachronic-agency-and-personal-narrative, death-and-consciousness, hard-problem-of-consciousness, loss-of-consciousness.
+- **Notes**: Coalesce merged autonoetic-consciousness.md into anoetic-noetic-autonoetic-consciousness.md. The following 27 active content files reference the archived `[anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)` and need links updated to `[autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)`: neural-correlates-of-consciousness, past-self-void, binding-problem, consciousness-and-memory, temporal-consciousness, unity-of-consciousness, temporal-asymmetry-remembering-anticipating, memory-void, working-memory, semantic-memory, self-and-consciousness, prospective-memory, prehension, implicit-memory, global-workspace-theory, cognitive-phenomenology, the-self-minimal-narrative-and-substantial, temporal-structure-of-consciousness, social-construction-of-self-vs-phenomenal-self, phenomenology-of-understanding, phenomenology-of-anticipation, personal-identity, dream-consciousness, diachronic-agency-and-personal-narrative, death-and-consciousness, hard-problem-of-consciousness, loss-of-consciousness.
 - **Output**: None -- Context: Update references to coalesced autonoetic-consciousness article
 
 ### ✓ 2026-03-02: Integrate value-blind-vs-value-sensitive-selection.md into site navigation
@@ -1288,7 +1330,7 @@ Pessimistic review (2026-02-22-night) found 2 high-severity issues: (1) C. elega
 
 ### ✓ 2026-02-22: Update references to coalesced temporal articles (specious-present, duration)
 - **Type**: cross-review
-- **Notes**: Coalesce (2026-02-15) merged `specious-present.md` and `duration.md` into the expanded `temporal-consciousness.md`. ~15 active content files reference `[specious-present](/concepts/temporal-consciousness/)` and ~30 reference `[duration](/concepts/temporal-consciousness/)` across concepts/, topics/, apex/, and voids/. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to temporal-consciousness where appropriate.
+- **Notes**: Coalesce (2026-02-15) merged `specious-present.md` and `duration.md` into the expanded `temporal-consciousness.md`. ~15 active content files reference `[temporal-consciousness](/concepts/temporal-consciousness/)` and ~30 reference `[temporal-consciousness](/concepts/temporal-consciousness/)` across concepts/, topics/, apex/, and voids/. Archive pages serve these URLs, but wikilinks in active content should eventually be updated to point to temporal-consciousness where appropriate.
 - **Output**: None -- Context: Update references to coalesced temporal articles (specious-present, duration)
 
 ### ✓ 2026-02-22: Update references to coalesced emergence articles (consciousness-and-strong-emergence, consciousness-and-the-emergence-debate)

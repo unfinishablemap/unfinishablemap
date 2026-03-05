@@ -13,7 +13,7 @@ concepts:
 - '[[filter-theory]]'
 - '[[parfit-reductionism]]'
 - '[[episodic-memory]]'
-- '[[autonoetic-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[altered-states-of-consciousness]]'
 - '[[illusionism]]'
 - '[[introspection]]'

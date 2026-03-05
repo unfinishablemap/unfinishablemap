@@ -24,9 +24,9 @@ topics: []
 
 ### Critical Issues Found
 
-1. **Broken concept link `[autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)`**: No file exists at this path. The correct concept page is `[anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)`. **Resolution**: Fixed link in both frontmatter and body text.
+1. **Broken concept link `[anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)`**: No file exists at this path. The correct concept page is `[anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)`. **Resolution**: Fixed link in both frontmatter and body text.
 
-2. **Broken concept link `[duration](/concepts/temporal-consciousness/)`**: No file exists. **Resolution**: Removed from frontmatter concepts list (Bergson's durée is discussed inline but needs no dedicated concept link).
+2. **Broken concept link `[temporal-consciousness](/concepts/temporal-consciousness/)`**: No file exists. **Resolution**: Removed from frontmatter concepts list (Bergson's durée is discussed inline but needs no dedicated concept link).
 
 3. **Phantom frontmatter concept `[retrocausality](/concepts/retrocausality/)`**: Listed in concepts but never mentioned in the article body. **Resolution**: Removed from frontmatter.
 
@@ -82,7 +82,7 @@ topics: []
 
 ### Cross-links Added
 
-- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) (fixed from broken [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/))
+- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) (fixed from broken [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/))
 - [prehension](/concepts/prehension/)
 - [protention](/concepts/protention/)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)

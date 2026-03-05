@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-18 16:17:00+00:00
+ai_modified: 2026-03-04 22:18:50+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[theory-of-mind]]'
 - '[[intersubjectivity]]'
 - '[[problem-of-other-minds]]'
-- '[[metarepresentation]]'
+- '[[metacognition]]'
 - '[[baseline-cognition]]'
 - '[[jourdain-hypothesis]]'
 - '[[phenomenal-intentionality]]'

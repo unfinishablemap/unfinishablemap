@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-30
-date: '2026-02-21'
+date: '2026-03-04'
 draft: false
 related_articles: []
 title: Optimistic Review - 2026-01-30 (Afternoon)
@@ -116,7 +116,7 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 - **Tenet alignment**: Supports Bidirectional Interaction by identifying phenomenal signatures of genuine agency.
 
 #### Bergson and the Duration of Consciousness
-- **Builds on**: [duration](/concepts/temporal-consciousness/), [temporal-consciousness](/concepts/temporal-consciousness/), [free-will](/topics/free-will/)
+- **Builds on**: [temporal-consciousness](/concepts/temporal-consciousness/), [temporal-consciousness](/concepts/temporal-consciousness/), [free-will](/topics/free-will/)
 - **Would address**: Bergson is cited but deserves more systematic treatment. His durée concept—lived time as opposed to spatialized clock time—provides crucial resources for understanding why consciousness resists quantification.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism through the argument that consciousness has temporal structure physics cannot capture.

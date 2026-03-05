@@ -15,7 +15,7 @@ concepts:
 - '[[emergence]]'
 - '[[concepts/functionalism]]'
 - '[[temporal-consciousness]]'
-- '[[specious-present]]'
+- '[[temporal-consciousness]]'
 created: 2026-01-09
 date: &id001 2026-01-31
 description: Consciousness as integrated information (phi). IIT takes phenomenology

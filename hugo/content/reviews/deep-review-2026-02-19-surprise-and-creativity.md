@@ -32,7 +32,7 @@ topics: []
 
 - **No engagement with functionalism**: The article assumed surprise requires phenomenal consciousness without engaging the functionalist counterargument. **Resolution**: Added a paragraph directly engaging functionalism in the "Why Self-Surprise Requires Consciousness" section, framing the Map's rejection clearly.
 
-- **Broken concept links**: `[duration](/concepts/temporal-consciousness/)` and `[metarepresentation](/concepts/metacognition/)` linked to non-existent pages. **Resolution**: Replaced `[Bergsonian duration](/concepts/temporal-consciousness/)` with plain text reference to Bergson's *duration*; replaced `[metarepresentation](/concepts/metacognition/)` with plain text and added link to `[phenomenal-consciousness](/concepts/phenomenal-consciousness/)` instead.
+- **Broken concept links**: `[temporal-consciousness](/concepts/temporal-consciousness/)` and `[metarepresentation](/concepts/metacognition/)` linked to non-existent pages. **Resolution**: Replaced `[Bergsonian duration](/concepts/temporal-consciousness/)` with plain text reference to Bergson's *duration*; replaced `[metarepresentation](/concepts/metacognition/)` with plain text and added link to `[phenomenal-consciousness](/concepts/phenomenal-consciousness/)` instead.
 
 - **Gauss quote attribution**: The quote was presented as a general report about how Gauss worked, but it refers to a specific theorem (as recounted by Hadamard). **Resolution**: Added "as Hadamard recounts" and "a particular theorem's resolution" to clarify the attribution chain.
 

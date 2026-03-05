@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-29
-date: '2026-02-21'
+date: '2026-03-04'
 draft: false
 related_articles: []
 title: Optimistic Review - 2026-01-29 (Late)
@@ -142,7 +142,7 @@ The [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) 
 - **Tenet alignment**: Bidirectional Interaction—central challenge for the tenet
 
 #### Phenomenology of Time and Quantum Collapse
-- **Builds on**: [temporal-consciousness](/concepts/temporal-consciousness/), [collapse-and-time](/concepts/collapse-and-time/), [specious-present](/concepts/temporal-consciousness/)
+- **Builds on**: [temporal-consciousness](/concepts/temporal-consciousness/), [collapse-and-time](/concepts/collapse-and-time/), [temporal-consciousness](/concepts/temporal-consciousness/)
 - **Would address**: The connection between temporal experience and the arrow of time established at quantum measurement
 - **Estimated scope**: Long article
 - **Tenet alignment**: No Many Worlds—if collapse is real and consciousness participates, temporal experience may be more fundamental than physics suggests

@@ -8,7 +8,7 @@ concepts:
 - '[[self-and-consciousness]]'
 - '[[haecceity]]'
 - '[[parfit-reductionism]]'
-- '[[autonoetic-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[witness-consciousness]]'
 - '[[phenomenology]]'
 - '[[buddhism-and-dualism]]'
@@ -161,7 +161,7 @@ The three-layered self connects directly to the Map's foundational commitments.
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The Map's critique of identity-as-pattern
 - [the-unobservable-self](/voids/the-unobservable-self/) — Why the observing self cannot observe itself observing
 - [witness-consciousness](/concepts/witness-consciousness/) — Observing without identifying
-- [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporally extended self
+- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporally extended self
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist no-self and the Map's irreducibility thesis
 - [death-and-consciousness](/topics/death-and-consciousness/) — What survival requires for the substantial self
 - [free-will](/topics/free-will/) — Why genuine agency requires a substantial self

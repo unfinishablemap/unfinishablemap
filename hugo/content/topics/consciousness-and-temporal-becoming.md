@@ -17,13 +17,13 @@ concepts:
 - '[[process-philosophy]]'
 - '[[prehension]]'
 - '[[protention]]'
-- '[[duration]]'
+- '[[temporal-consciousness]]'
 - '[[consciousness-and-creativity]]'
 - '[[attention-as-interface]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[agent-causation]]'
 - '[[mental-causation]]'
-- '[[specious-present]]'
+- '[[temporal-consciousness]]'
 created: 2026-02-15
 date: &id001 2026-02-27
 description: Why consciousness constitutes time's felt direction—the phenomenological
@@ -198,7 +198,7 @@ A materialist can claim temporal flow is an outright illusion—a cognitive arti
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/) — Whether the deepest level of mind transcends time
 - [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) — The growing block as temporal metaphysics
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces irreversibility
-- [duration](/concepts/temporal-consciousness/) — Bergson's qualitative lived time
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's qualitative lived time
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — The phenomenological structure of future-directed experience
 - [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) — How remembering constitutes the temporally extended self
 - [temporal-ontology-and-consciousness](/topics/temporal-ontology-and-consciousness/) — How temporal ontology and consciousness theories form natural pairings
@@ -208,7 +208,7 @@ A materialist can claim temporal flow is an outright illusion—a cognitive arti
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — Why incubation depends on prior conscious engagement
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis in conceptual overview
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's process metaphysics and its convergence with Bergson
-- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of the present moment
+- [temporal-consciousness](/concepts/temporal-consciousness/) — The experienced duration of the present moment
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention's role mediating consciousness and matter
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-17 16:12:00+00:00
+ai_modified: 2026-03-04 22:18:50+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,8 +11,8 @@ concepts:
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[mental-imagery]]'
 - '[[agent-causation]]'
-- '[[duration]]'
-- '[[metarepresentation]]'
+- '[[temporal-consciousness]]'
+- '[[metacognition]]'
 - '[[philosophical-zombies]]'
 - '[[bidirectional-interaction]]'
 - '[[temporal-consciousness]]'
@@ -153,7 +153,7 @@ The claim that aesthetic creation requires phenomenal consciousness would weaken
 - [aesthetic-void](/voids/aesthetic-void/) — Cognitive limits revealed by profound aesthetic encounter
 - [creativity-void](/voids/creativity-void/) — The inaccessibility of creative origins
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The concept page on consciousness and creativity
-- [duration](/concepts/temporal-consciousness/) — Bergson's lived time as creative becoming
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's lived time as creative becoming
 - [mental-imagery](/concepts/mental-imagery/) — Phenomenal imagination and its role in creative exploration
 
 ## References

@@ -50,17 +50,17 @@ All six adversarial personas were applied:
 - Relation to Site Perspective methodically covers all five tenets
 
 ### Enhancements Made
-- Added cross-link to [specious-present](/concepts/temporal-consciousness/) (concept James helped develop)
+- Added cross-link to [temporal-consciousness](/concepts/temporal-consciousness/) (concept James helped develop)
 - Added cross-link to [attention](/concepts/attention-as-interface/) concept page
 
 ### Cross-links Added to Target
-- [specious-present](/concepts/temporal-consciousness/)
+- [temporal-consciousness](/concepts/temporal-consciousness/)
 - [attention](/concepts/attention-as-interface/)
 
 ### Inbound Links Added (Orphan Integration)
 Six articles now link to william-james-consciousness.md:
 - [filter-theory](/concepts/filter-theory/) — Opening paragraph
-- [specious-present](/concepts/temporal-consciousness/) — Concept development attribution
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Concept development attribution
 - [mental-effort](/concepts/mental-effort/) — Phenomenology of effort section
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Opening paragraph
 - [attention](/concepts/attention-as-interface/) — Phenomenology of effort section

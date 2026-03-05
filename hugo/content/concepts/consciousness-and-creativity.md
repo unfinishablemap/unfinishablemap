@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[agent-causation]]'
-- '[[duration]]'
+- '[[temporal-consciousness]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[attention-as-interface]]'
 - '[[mental-causation]]'
@@ -141,7 +141,7 @@ The creative process may also illuminate [cognitive closure](/concepts/mysterian
 
 ## Further Reading
 
-- [duration](/concepts/temporal-consciousness/) — Bergson's lived time as inherently creative becoming, including the connection to quantum collapse
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's lived time as inherently creative becoming, including the connection to quantum collapse
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for mental causation, including the creative generation synthesis
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The quantum mechanism for selection
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates mind-matter interaction

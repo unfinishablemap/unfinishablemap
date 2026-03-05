@@ -12,7 +12,7 @@ concepts:
 - '[[qualia]]'
 - '[[introspection]]'
 - '[[semantic-memory]]'
-- '[[autonoetic-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[illusionism]]'
 - '[[witness-consciousness]]'
 - '[[decoherence]]'
@@ -24,7 +24,7 @@ concepts:
 - '[[language-thought-boundary]]'
 - '[[working-memory]]'
 - '[[temporal-structure-of-understanding]]'
-- '[[specious-present]]'
+- '[[temporal-consciousness]]'
 - '[[consciousness-and-semantic-understanding]]'
 created: 2026-01-16
 date: &id001 2026-02-02

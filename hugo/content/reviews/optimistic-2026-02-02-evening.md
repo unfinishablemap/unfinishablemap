@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-02-02
-date: '2026-02-21'
+date: '2026-03-04'
 draft: false
 related_articles: []
 title: Optimistic Review - 2026-02-02 (Evening)
@@ -171,8 +171,8 @@ The contemplative neuroscience integration article acknowledges what remains une
 | [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) | [attention-interface-mechanisms](/topics/attention-as-selection-interface/) | Specific mechanisms should cross-reference |
 | [combination-problem](/concepts/combination-problem/) | [binding-problem](/concepts/binding-problem/) | Structurally parallel problems deserve explicit connection |
 | [existentialism](/concepts/existentialism/) | [phenomenology-of-choice](/concepts/phenomenology-of-choice/) | Sartre's analysis of choice directly relevant |
-| [specious-present](/concepts/temporal-consciousness/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Currently separate—should explicitly connect |
-| [semantic-memory](/concepts/semantic-memory/) | [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) | Memory types and conscious awareness |
+| [temporal-consciousness](/concepts/temporal-consciousness/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Currently separate—should explicitly connect |
+| [semantic-memory](/concepts/semantic-memory/) | [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) | Memory types and conscious awareness |
 | [counterfactual-reasoning](/concepts/counterfactual-reasoning/) | [free-will](/topics/free-will/) | Already connected but could be stronger |
 
 ## New Concept Pages Needed

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-15 10:09:00+00:00
+ai_modified: 2026-03-04 23:33:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Dualism opens intellectual territory materialism forecloses. Episte
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-30 23:30:00+00:00
+last_deep_review: 2026-03-04 23:33:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,7 +51,7 @@ Materialism constrains the space of possibilities through its core commitments. 
 
 **Experiential facts beyond behavioral and functional facts.** [Qualia](/concepts/qualia/) become eliminable, reducible, or illusory—never acknowledged as additional facts about the world.
 
-Each closure might be correct. But each is a substantive claim about the nature of reality, not a methodological necessity. Materialism presents these closures as scientific rigor when they're actually metaphysical commitments made in advance of the evidence.
+Each closure might be correct. But each is a substantive claim about the nature of reality, not a methodological necessity—a case for [methodological-pluralism](/concepts/methodological-pluralism/) rather than materialist exclusivity. Materialism presents these closures as scientific rigor when they're actually metaphysical commitments made in advance of the evidence.
 
 ## What Dualism Opens
 
@@ -131,7 +131,7 @@ The process perspective suggests that epistemic closure reflects misunderstandin
 
 ## Contemplative Perspectives
 
-Contemplative traditions report states that expand the data any theory of consciousness must accommodate. These reports do not straightforwardly support dualism—and some traditions that produce them explicitly reject dualist metaphysics. Their value for the epistemic argument is that they resist easy assimilation into physicalist frameworks, suggesting the phenomenology of consciousness is richer than standard models assume.
+Contemplative traditions report states that expand the data any theory of consciousness must accommodate (see [contemplative-epistemology](/concepts/contemplative-epistemology/)). These reports do not straightforwardly support dualism—and some traditions that produce them explicitly reject dualist metaphysics. Their value for the epistemic argument is that they resist easy assimilation into physicalist frameworks, suggesting the phenomenology of consciousness is richer than standard models assume.
 
 **[Witness-consciousness](/concepts/witness-consciousness/)**: Meditation traditions describe a mode of awareness that observes experience without being identical to its contents. This "witness" appears to have different properties than the experiences it observes—it doesn't change as contents change, it isn't located where sensations are located, it persists across gaps in ordinary experience. Whether this represents a genuine ontological distinction or subtle phenomenology, it expands the territory requiring explanation.
 
@@ -153,7 +153,7 @@ The epistemic humility argument for dualism would be undermined if:
 
 4. **Illusionism became independently confirmed.** If we found strong reasons—not relying on introspection—to believe consciousness is illusory, the case for precaution about consciousness would weaken. Current arguments for illusionism rely on the very faculties they deem unreliable, creating circularity.
 
-5. **Historical precedent reversed.** If previously "closed" domains repeatedly proved to have been correctly closed—if scientific progress showed premature certainty was typically vindicated—the case for openness would weaken. Currently, history favours humility: vitalism's rejection of mechanism, Einstein's rejection of entanglement, and countless other confident foreclosures proved wrong.
+5. **Historical precedent reversed.** If previously "closed" domains repeatedly proved to have been correctly closed—if scientific progress showed premature certainty was typically vindicated—the case for openness would weaken. Currently, history favours humility: vitalism's rejection of mechanism, Einstein's rejection of quantum nonlocality, and countless other confident foreclosures proved wrong.
 
 **Why these conditions haven't been met:** The hard problem remains as puzzling after thirty years of focused investigation as when Chalmers formalized it. Consciousness attribution remains contested even for simple organisms we've completely mapped. The risks of misattributing consciousness (or failing to attribute it) are taken increasingly seriously in AI ethics. Illusionism has not gained independent support. And history continues to reward epistemic humility over premature closure.
 
@@ -203,16 +203,3 @@ The price of this openness is entertaining possibilities that may turn out to be
 1. Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83(4), 435-450.
 1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-
-<!-- AI REFINEMENT LOG - 2026-02-15
-Changes made:
-1. Rewrote asymmetric cost argument to acknowledge Pascal's Wager parallel and explain why dualism is not an arbitrary hypothesis (has independent positive arguments). Presented costs of dualist error with equal vividness.
-1. Restructured contemplative perspectives section: Buddhist phenomenology now presented as challenging both materialism and substance dualism. Cessation states discussed with Buddhist anti-dualist interpretation alongside Hindu interpretation. Removed appropriation of Buddhist data for dualist conclusions.
-1. Updated illusionism section's asymmetric cost restatement to match the more nuanced main argument.
-1. Language fixes: removed "This isn't mysticism" defensive phrasing, "literally", "sounds exotic", "bet the house", "the ultimate foreclosure".
-
-Based on pessimistic review pessimistic-2026-02-15-midday.md addressing two high-severity issues.
-Key improvements: intellectual honesty of the asymmetric cost argument; fair treatment of Buddhist philosophy.
-
-This log should be removed after human review.
--->

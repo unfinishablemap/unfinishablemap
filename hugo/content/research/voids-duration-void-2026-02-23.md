@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[phenomenology]]'
 - '[[philosophy-of-time]]'
-- '[[duration]]'
+- '[[temporal-consciousness]]'
 - '[[temporal-consciousness]]'
 - '[[introspection]]'
 created: 2026-02-23

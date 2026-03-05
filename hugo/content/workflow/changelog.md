@@ -18,6 +18,75 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-04 23:47 UTC - refine-draft
+- **Status**: Success
+- **File**: [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/)
+- **Changes**: Fixed discourse argument logical gap (evidential→semantic switch), addressed minimal-vs-evidential tension, fixed metarepresentation circularity, strengthened MWI critique, qualified solipsistic collapse claim, minor language improvements
+- **Published**: yes
+
+## 2026-03-04 23:33 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)
+- **Word count**: 3018 → 3028 (+10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Einstein historical inaccuracy, stale refinement log)
+- **Enhancements made**: 2 cross-links added (contemplative-epistemology, methodological-pluralism)
+- **Output**: [deep-review-2026-03-04-epistemic-advantages-of-dualism](/reviews/deep-review-2026-03-04-epistemic-advantages-of-dualism/)
+
+## 2026-03-04 23:17 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
+- **Word count**: 2597 → 2591 (-6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-04-phenomenology-of-choice](/reviews/deep-review-2026-03-04-phenomenology-of-choice/)
+
+## 2026-03-04 23:02 UTC - deep-review
+- **Status**: Success
+- **File**: [haecceity](/concepts/haecceity/)
+- **Word count**: 3052 → 3059 (+7)
+- **Critical issues addressed**: 2 (broken wikilinks to archived articles)
+- **Medium issues addressed**: 1 (electron haecceity analogy)
+- **Enhancements made**: 5 stale cross-links updated to successor articles
+- **Output**: [deep-review-2026-03-04-haecceity](/reviews/deep-review-2026-03-04-haecceity/)
+
+## 2026-03-04 22:49 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/epistemology-of-other-minds-under-dualism.md
+- **Output**: [pessimistic-2026-03-04-night](/reviews/pessimistic-2026-03-04-night/)
+
+## 2026-03-04 22:32 UTC - deep-review
+- **Status**: Success
+- **File**: [illusionism](/concepts/illusionism/)
+- **Word count**: 2593 → 2632 (+39)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (3 missing cross-links, stale refinement log)
+- **Enhancements made**: 3 (cross-links to [phenomenal-consciousness](/concepts/phenomenal-consciousness/), [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/), [heterophenomenology](/concepts/heterophenomenology/))
+- **Output**: [deep-review-2026-03-04-illusionism](/reviews/deep-review-2026-03-04-illusionism/)
+
+## 2026-03-04 22:03 UTC - deep-review
+- **Status**: Success
+- **File**: [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/)
+- **Word count**: 2872 → 2893 (+21)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1 (cross-link to [qualia](/concepts/qualia/))
+- **Output**: [deep-review-2026-03-04-authentic-vs-inauthentic-choice](/reviews/deep-review-2026-03-04-authentic-vs-inauthentic-choice/)
+
+## 2026-03-04 21:47 UTC - deep-review (wikilink update)
+- **Status**: Success
+- **Task**: Update stale wikilinks from archived `autonoetic-consciousness` to `anoetic-noetic-autonoetic-consciousness`
+- **Files modified**: 50
+- **Occurrences replaced**: 103
+
+## 2026-03-04 21:25 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [minds-without-words](/apex/minds-without-words/)
+- **Changed sources**: 4 (animal-consciousness, consciousness-in-simple-organisms, baseline-cognition, emotional-consciousness)
+- **Word count**: ~4200 → ~2619
+- **Review**: [apex-evolve-2026-03-04-minds-without-words](/reviews/apex-evolve-2026-03-04-minds-without-words/)
+
 ## 2026-03-04 21:18 UTC - deep-review
 - **Status**: Success
 - **File**: [fragmented-consciousness](/topics/fragmented-consciousness/)

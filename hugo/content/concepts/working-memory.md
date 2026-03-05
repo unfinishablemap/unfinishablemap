@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-02-28 05:46:00+00:00
+ai_modified: 2026-03-04 22:18:50+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -13,14 +13,14 @@ concepts:
 - '[[mental-effort]]'
 - '[[mental-imagery]]'
 - '[[temporal-consciousness]]'
-- '[[specious-present]]'
+- '[[temporal-consciousness]]'
 - '[[global-workspace-theory]]'
 - '[[binding-problem]]'
 - '[[semantic-memory]]'
-- '[[autonoetic-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[consciousness-as-amplifier]]'
 - '[[phenomenology-of-choice]]'
-- '[[metarepresentation]]'
+- '[[metacognition]]'
 - '[[illusionism]]'
 - '[[philosophical-zombies]]'
 - '[[metacognition]]'
@@ -194,7 +194,7 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How recursive linguistic structure depends on expanded WM capacity
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the causal bridge between consciousness and neural systems
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effortful cognition
-- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of "now" and WM's role
+- [temporal-consciousness](/concepts/temporal-consciousness/) — The experienced duration of "now" and WM's role
 - [binding-problem](/concepts/binding-problem/) — The unity problem in both perception and memory
 - [semantic-memory](/concepts/semantic-memory/) — Noetic consciousness and semantic retrieval
 - [metacognition](/concepts/metacognition/) — Self-monitoring as consciousness-enabled capacity

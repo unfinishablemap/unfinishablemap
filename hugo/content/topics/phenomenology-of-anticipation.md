@@ -7,9 +7,9 @@ author: null
 concepts:
 - '[[temporal-consciousness]]'
 - '[[phenomenology]]'
-- '[[specious-present]]'
-- '[[duration]]'
-- '[[autonoetic-consciousness]]'
+- '[[temporal-consciousness]]'
+- '[[temporal-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[prospective-memory]]'
 - '[[qualia]]'
 - '[[process-philosophy]]'
@@ -139,8 +139,8 @@ Protention supports and illuminates several of the Map's foundational commitment
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — How consciousness and time depend on each other
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why protention and retention differ in phenomenal weight
 - [prospective-memory](/concepts/prospective-memory/) — Deliberate future simulation and episodic future thinking
-- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of "now"
-- [duration](/concepts/temporal-consciousness/) — Bergson's durée and the interpenetration of temporal phases
+- [temporal-consciousness](/concepts/temporal-consciousness/) — The experienced duration of "now"
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's durée and the interpenetration of temporal phases
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — How anticipatory consciousness enables deliberation
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's subjective aim and processual experience
 - [phenomenology](/concepts/phenomenology/) — Husserl's method for investigating temporal structure

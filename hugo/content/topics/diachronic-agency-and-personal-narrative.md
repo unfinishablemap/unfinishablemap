@@ -6,11 +6,11 @@ ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[agent-causation]]'
-- '[[autonoetic-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[self-and-consciousness]]'
 - '[[haecceity]]'
 - '[[phenomenology-of-choice]]'
-- '[[duration]]'
+- '[[temporal-consciousness]]'
 - '[[temporal-consciousness]]'
 - '[[moral-responsibility]]'
 - '[[parfit-reductionism]]'
@@ -127,12 +127,12 @@ Diachronic agency connects the Map's commitments in a distinctive way, linking t
 - [personal-identity](/topics/personal-identity/) — What makes you persist across time
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The momentary phenomenology diachronic agency extends
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Temporal metaphysics underlying the framework
-- [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel as the mechanism of temporal self-projection
+- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel as the mechanism of temporal self-projection
 - [agent-causation](/concepts/agent-causation/) — Why genuine agency requires agent-causation
 - [free-will](/topics/free-will/) — The broader context of libertarian agency
 - [moral-responsibility](/concepts/moral-responsibility/) — How agency grounds responsibility
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The reductionist challenge to narrative identity
-- [duration](/concepts/temporal-consciousness/) — Bergson's qualitative time and lived temporal structure
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's qualitative time and lived temporal structure
 - [identity-across-transformations](/apex/identity-across-transformations/) — How the substantial self persists through radical change
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How genuine agency transforms moral obligation, character, and moral luck
 

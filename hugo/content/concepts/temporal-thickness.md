@@ -5,9 +5,9 @@ ai_modified: 2026-02-17 04:12:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[specious-present]]'
 - '[[temporal-consciousness]]'
-- '[[duration]]'
+- '[[temporal-consciousness]]'
+- '[[temporal-consciousness]]'
 - '[[phenomenology]]'
 - '[[phenomenology-of-recursive-thought]]'
 - '[[introspection]]'
@@ -42,7 +42,7 @@ topics:
 - '[[authentic-vs-inauthentic-choice]]'
 ---
 
-Temporal thickness is The Unfinishable Map's term for the qualitative depth of experienced moments — the difference between a present that feels thin and reactive and one that feels dense with meaning, layered with retention and anticipation. The concept synthesises insights from Husserl's retention/protention analysis and Bergson's [durée](/concepts/temporal-consciousness/) into a single measure: how much phenomenal density a given moment carries. The Map uses temporal thickness across its treatment of consciousness, choice, and temporal phenomenology because it captures something the [specious-present](/concepts/temporal-consciousness/) alone does not: moments have not just duration but *density*, and this density varies with attention, engagement, and the kind of consciousness at work.
+Temporal thickness is The Unfinishable Map's term for the qualitative depth of experienced moments — the difference between a present that feels thin and reactive and one that feels dense with meaning, layered with retention and anticipation. The concept synthesises insights from Husserl's retention/protention analysis and Bergson's [durée](/concepts/temporal-consciousness/) into a single measure: how much phenomenal density a given moment carries. The Map uses temporal thickness across its treatment of consciousness, choice, and temporal phenomenology because it captures something the [temporal-consciousness](/concepts/temporal-consciousness/) alone does not: moments have not just duration but *density*, and this density varies with attention, engagement, and the kind of consciousness at work.
 
 When you make a difficult decision that draws on years of accumulated experience, the present moment feels thick — saturated with significance, resonant with your past, reaching toward possible futures. When you tap your phone screen out of habit, the present feels thin — compressed, automatic, barely there. Both moments occupy roughly the same clock time. Their temporal thickness differs enormously.
 
@@ -58,7 +58,7 @@ This divergence is not merely a matter of "paying more attention." It reflects d
 - **Protentional reach**: How far anticipated futures extend into and shape the now
 - **Interpenetration**: The degree to which past, present, and future permeate each other rather than standing as discrete phases
 
-Bergson's [duration](/concepts/temporal-consciousness/) captures this interpenetration — mental states that don't sit beside each other like objects in space but flow into and through one another. Temporal thickness measures how fully this interpenetration is realised in any given moment.
+Bergson's [temporal-consciousness](/concepts/temporal-consciousness/) captures this interpenetration — mental states that don't sit beside each other like objects in space but flow into and through one another. Temporal thickness measures how fully this interpenetration is realised in any given moment.
 
 ## Husserl's Layers
 
@@ -122,8 +122,8 @@ Temporal thickness connects to the Map's [tenets](/tenets/) at several points.
 
 ## Further Reading
 
-- [specious-present](/concepts/temporal-consciousness/) — The duration of the experienced present
-- [duration](/concepts/temporal-consciousness/) — Bergson's concept of qualitative lived time
+- [temporal-consciousness](/concepts/temporal-consciousness/) — The duration of the experienced present
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's concept of qualitative lived time
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Broader treatment of time in consciousness
 - [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/) — How self-referential thinking creates temporal depth
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — How temporal thickness distinguishes genuine from automatic choice

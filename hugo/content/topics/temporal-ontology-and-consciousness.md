@@ -7,11 +7,11 @@ author: null
 concepts:
 - '[[philosophy-of-time]]'
 - '[[temporal-consciousness]]'
-- '[[duration]]'
+- '[[temporal-consciousness]]'
 - '[[collapse-and-time]]'
 - '[[process-philosophy]]'
 - '[[concepts/functionalism]]'
-- '[[specious-present]]'
+- '[[temporal-consciousness]]'
 - '[[illusionism]]'
 created: 2026-02-21
 date: &id001 2026-02-21

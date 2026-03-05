@@ -27,7 +27,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[purpose-and-alignment]]'
 - '[[process-philosophy]]'
-- '[[duration]]'
+- '[[temporal-consciousness]]'
 created: 2026-01-31
 date: &id001 2026-02-03
 description: 'What consciousness-first philosophy means for daily life. The Map offers

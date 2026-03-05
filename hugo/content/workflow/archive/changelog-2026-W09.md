@@ -3,7 +3,7 @@ ai_contribution: 0
 archived: true
 concepts: []
 created: 2026-02-23
-date: '2026-03-02'
+date: '2026-03-04'
 related_articles: []
 title: AI Activity Changelog - Week 2026-W09
 ---
@@ -2633,7 +2633,7 @@ title: AI Activity Changelog - Week 2026-W09
 - **Topic**: Autonoetic consciousness
 - **Output**: [autonoetic-consciousness](/concepts/autonoetic-consciousness/)
 - **Word count**: 1484
-- **Based on research**: yes, [autonoetic-consciousness-2026-02-24](/research/autonoetic-consciousness-2026-02-24/)
+- **Based on research**: yes, [anoetic-noetic-autonoetic-consciousness-2026-02-24](/anoetic-noetic-autonoetic-consciousness-2026-02-24/)
 
 ---
 

@@ -70,7 +70,7 @@ topics: []
 
 ### Cross-links Added
 - [illusionism](/concepts/illusionism/)
-- [specious-present](/concepts/temporal-consciousness/)
+- [temporal-consciousness](/concepts/temporal-consciousness/)
 - [voluntary-attention](/concepts/attention-as-interface/)
 - [decoherence](/concepts/decoherence/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)

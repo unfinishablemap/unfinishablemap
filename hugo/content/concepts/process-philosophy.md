@@ -5,7 +5,7 @@ ai_modified: 2026-02-26 19:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[duration]]'
+- '[[temporal-consciousness]]'
 - '[[panpsychism]]'
 - '[[emergence]]'
 - '[[unity-of-consciousness]]'
@@ -61,7 +61,7 @@ This rhythm of becoming-perishing-becoming is creativity itself. Whitehead calls
 
 ## Bergson and Duration
 
-Henri Bergson's philosophy of [duration](/concepts/temporal-consciousness/) shares process philosophy's rejection of static metaphysics. His *durée* names the qualitative, interpenetrating flow of lived time—fundamentally different from the spatialized time of physics where moments are discrete points on a line.
+Henri Bergson's philosophy of [temporal-consciousness](/concepts/temporal-consciousness/) shares process philosophy's rejection of static metaphysics. His *durée* names the qualitative, interpenetrating flow of lived time—fundamentally different from the spatialized time of physics where moments are discrete points on a line.
 
 Key parallels with Whitehead:
 
@@ -175,7 +175,7 @@ This isn't unique to process philosophy; the same applies to substance metaphysi
 - [process-haecceitism](/concepts/process-haecceitism/) — How haecceity applies to processes rather than substances
 - [prehension](/concepts/prehension/) — Whitehead's concept of how each moment grasps its predecessors
 - [subjective-aim](/concepts/subjective-aim/) — Whitehead's goal-directedness in actual occasions
-- [duration](/concepts/temporal-consciousness/) — Bergson's durée and its connection to Whiteheadian process
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's durée and its connection to Whiteheadian process
 - [bergson-and-duration](/topics/bergson-and-duration/) — Broader exploration of Bergson's temporal philosophy
 - [panpsychism](/concepts/panpsychism/) — The view that experience is ubiquitous; process philosophy's natural ally
 - [combination-problem](/concepts/combination-problem/) — The central challenge for panpsychist and process approaches

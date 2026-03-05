@@ -64,8 +64,8 @@ topics: []
 
 ### Cross-links Added
 
-- [specious-present](/concepts/temporal-consciousness/) (frontmatter and inline)
-- [duration](/concepts/temporal-consciousness/) (frontmatter and Further Reading)
+- [temporal-consciousness](/concepts/temporal-consciousness/) (frontmatter and inline)
+- [temporal-consciousness](/concepts/temporal-consciousness/) (frontmatter and Further Reading)
 - [agent-causation](/concepts/agent-causation/) (frontmatter and Further Reading)
 - [temporal-consciousness](/concepts/temporal-consciousness/) (frontmatter and Further Reading)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) (Further Reading, inline)

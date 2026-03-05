@@ -9,8 +9,8 @@ concepts:
 - '[[phenomenology]]'
 - '[[qualia]]'
 - '[[temporal-consciousness]]'
-- '[[duration]]'
-- '[[specious-present]]'
+- '[[temporal-consciousness]]'
+- '[[temporal-consciousness]]'
 - '[[mysterianism]]'
 - '[[introspection]]'
 - '[[illusionism]]'
@@ -163,8 +163,8 @@ Meditation exhibits the structure of [self-forming actions](/topics/free-will/):
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer phenomenon in contemplative traditions
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention serves as consciousness's interface with matter
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How contemplative observation reveals time's structure
-- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of "now" and the extensionalism debate
-- [duration](/concepts/temporal-consciousness/) — Bergson's analysis of lived time, convergent with contemplative reports
+- [temporal-consciousness](/concepts/temporal-consciousness/) — The experienced duration of "now" and the extensionalism debate
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's analysis of lived time, convergent with contemplative reports
 - [qualia](/concepts/qualia/) — The qualitative features that contemplative training discloses
 - [illusionism](/concepts/illusionism/) — The challenge that phenomenal consciousness is an illusion
 - [decoherence](/concepts/decoherence/) — The quantum objection and biological responses

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-02-25 06:57:00+00:00
+ai_modified: 2026-03-04 22:18:50+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -15,10 +15,10 @@ concepts:
 - '[[conscious-vs-unconscious-processing]]'
 - '[[working-memory]]'
 - '[[global-workspace-theory]]'
-- '[[metarepresentation]]'
+- '[[metacognition]]'
 - '[[cumulative-culture]]'
 - '[[counterfactual-reasoning]]'
-- '[[duration]]'
+- '[[temporal-consciousness]]'
 - '[[mental-causation]]'
 - '[[agent-causation]]'
 - '[[quantum-consciousness]]'
@@ -158,7 +158,7 @@ Current evidence does not support any of these conditions.
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Imagining non-actual states
 - [working-memory](/concepts/working-memory/) — The workspace where combination occurs
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Broadcasting account of conscious access
-- [duration](/concepts/temporal-consciousness/) — Bergson's lived time as creative becoming
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's lived time as creative becoming
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for mental causation including creative generation
 - [creativity-void](/voids/creativity-void/) — Why the creative source remains phenomenologically hidden
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Beauty as irreducible phenomenal property

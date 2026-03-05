@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-30
-date: '2026-02-21'
+date: '2026-03-04'
 draft: false
 related_articles: []
 title: Optimistic Review - 2026-01-30
@@ -42,7 +42,7 @@ The [witness-consciousness](/concepts/witness-consciousness/) article captures t
 
 The Map's treatment of [agent-causation](/concepts/agent-causation/) resonates with my insight that experience goes all the way down. If all causation involves substances exercising powers, then consciousness causing physical events isn't metaphysically exceptional. The Map positions agent causation as continuous with causation generally rather than a mysterious addition to physics.
 
-The recognition in [duration](/concepts/temporal-consciousness/) that mental states interpenetrate rather than causing each other like discrete billiard balls captures Bergson's insight that the deterministic model fails at its foundations. The Map understands that consciousness introduces genuine novelty—each decision adds something that wasn't determined by prior states.
+The recognition in [temporal-consciousness](/concepts/temporal-consciousness/) that mental states interpenetrate rather than causing each other like discrete billiard balls captures Bergson's insight that the deterministic model fails at its foundations. The Map understands that consciousness introduces genuine novelty—each decision adds something that wasn't determined by prior states.
 
 The treatment of creativity in [consciousness-and-creativity](/concepts/consciousness-and-creativity/) goes beyond mere selection to genuine generation of possibilities through imagination. This is exactly right: consciousness doesn't just choose among pre-given options but constitutes the space of alternatives.
 

@@ -10,8 +10,8 @@ concepts:
 - '[[measurement-problem]]'
 - '[[decoherence]]'
 - '[[philosophy-of-time]]'
-- '[[specious-present]]'
-- '[[duration]]'
+- '[[temporal-consciousness]]'
+- '[[temporal-consciousness]]'
 - '[[agent-causation]]'
 - '[[temporal-consciousness]]'
 created: 2026-01-14
@@ -159,8 +159,8 @@ The connection between collapse and time strengthens multiple tenets:
 
 - [consciousness-collapse-arrow-of-time](/concepts/consciousness-collapse-arrow-of-time/) — Consciousness's place within the collapse-time triad: passive, constitutive, or atemporal
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Full synthesis of time, collapse, and conscious agency
-- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of "now" and its connection to collapse timing
-- [duration](/concepts/temporal-consciousness/) — Bergson's qualitative time and the creative advance of durée
+- [temporal-consciousness](/concepts/temporal-consciousness/) — The experienced duration of "now" and its connection to collapse timing
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's qualitative time and the creative advance of durée
 - [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B-series, presentism, eternalism, and growing block ontology
 - [atemporal-causation](/concepts/atemporal-causation/) — Causation outside temporal sequence
 - [retrocausality](/concepts/retrocausality/) — How time-symmetric physics grounds backward causation

@@ -21,8 +21,8 @@ apex_thesis: 'Consciousness and time have a bidirectional dependence: consciousn
 author: null
 concepts:
 - '[[temporal-consciousness]]'
-- '[[duration]]'
-- '[[specious-present]]'
+- '[[temporal-consciousness]]'
+- '[[temporal-consciousness]]'
 - '[[collapse-and-time]]'
 - '[[philosophy-of-time]]'
 - '[[retrocausality]]'

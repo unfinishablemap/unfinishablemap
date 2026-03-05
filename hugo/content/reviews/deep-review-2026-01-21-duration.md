@@ -87,7 +87,7 @@ topics: []
 - [haecceity](/concepts/haecceity/) - Thisness grounding temporal identity
 - [decoherence](/concepts/decoherence/) - Quantum challenge to consciousness-collapse theories
 - [mental-effort](/concepts/mental-effort/) - Quantum Zeno mechanism
-- [specious-present](/concepts/temporal-consciousness/) - Experienced duration of present moment
+- [temporal-consciousness](/concepts/temporal-consciousness/) - Experienced duration of present moment
 - [philosophy-of-time](/concepts/philosophy-of-time/) - A-theory, B-theory, growing block
 - [agent-causation](/concepts/agent-causation/) - The self as originator of action in durée
 

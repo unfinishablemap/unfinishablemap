@@ -8,14 +8,14 @@ concepts:
 - '[[collapse-and-time]]'
 - '[[retrocausality]]'
 - '[[temporal-consciousness]]'
-- '[[duration]]'
+- '[[temporal-consciousness]]'
 - '[[quantum-consciousness]]'
 - '[[illusionism]]'
 - '[[introspection]]'
 - '[[decoherence]]'
 - '[[witness-consciousness]]'
 - '[[haecceity]]'
-- '[[specious-present]]'
+- '[[temporal-consciousness]]'
 - '[[neurophenomenology]]'
 created: 2026-01-16
 date: &id001 2026-01-20
@@ -237,8 +237,8 @@ Philosophy of time connects to all five tenets, with the connection running deep
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
 - [retrocausality](/concepts/retrocausality/) — Time-symmetric physics and backward causation
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and phenomenology of time
-- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of "now"
-- [duration](/concepts/temporal-consciousness/) — Bergson's qualitative lived time
+- [temporal-consciousness](/concepts/temporal-consciousness/) — The experienced duration of "now"
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's qualitative lived time
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse remains unexplained
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and the Map's response
 - [introspection](/concepts/introspection/) — First-person methods and their epistemic status

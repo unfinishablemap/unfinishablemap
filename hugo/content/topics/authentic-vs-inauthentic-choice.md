@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-02-27 17:46:00+00:00
+ai_modified: 2026-03-04 22:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Authentic choice feels like genuine self-expression; inauthentic ch
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-30 21:35:00+00:00
+last_deep_review: 2026-03-04 22:03:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -48,7 +48,7 @@ Authentic choice has a distinctive experiential signature. Several features char
 
 **Ownership of outcome.** After authentic choice, there is strong authorship: "I chose this." The decision is yours to own, including its consequences. This contrasts with the distancing that accompanies inauthentic choice: "I had to," "Everyone does this," "What else could I do?"
 
-**Temporal thickness.** Authentic decisions unfold in what Bergson calls [duration](/concepts/temporal-consciousness/)—lived time where past and present interpenetrate. The choice emerges from your whole history, not as mechanical causation but as creative expression of accumulated experience.
+**Temporal thickness.** Authentic decisions unfold in what Bergson calls [temporal-consciousness](/concepts/temporal-consciousness/)—lived time where past and present interpenetrate. The choice emerges from your whole history, not as mechanical causation but as creative expression of accumulated experience.
 
 ## The Phenomenology of Inauthentic Choice
 
@@ -131,7 +131,7 @@ The Map's framework gives the authenticity distinction metaphysical weight beyon
 
 On the Map's account, consciousness genuinely selects among quantum-indeterminate neural options. This selection manifests phenomenologically as effort, felt openness, and authorship—the very features that characterise authentic choice.
 
-Inauthentic choice, by contrast, may not engage the selection function. When you follow scripts automatically, the neural processing may run deterministically or near-deterministically, with consciousness merely accompanying rather than selecting. The absence of effort phenomenology suggests reduced conscious engagement.
+Inauthentic choice, by contrast, may not engage the selection function. When you follow scripts automatically, neural processing plausibly runs in a more deterministic mode, with consciousness merely accompanying rather than selecting. This remains speculative—we lack direct evidence for differing levels of conscious causal engagement—but the absence of effort phenomenology is at least consistent with reduced conscious involvement in the outcome.
 
 This gives authenticity metaphysical significance: authentic choice is where consciousness *actually does* something rather than passively observing. Inauthenticity may represent the atrophy of genuine agency—going through the motions while consciousness idles.
 
@@ -193,7 +193,7 @@ A compatibilist might object that authenticity can be grounded in reflective end
 
 The authentic-inauthentic distinction aligns with the Map's framework at several points:
 
-**[Dualism](/tenets/#dualism)**: The phenomenological distinctiveness of authentic choice—its felt character of genuine self-expression versus scripted compliance—suggests something irreducible to neural processing. The quale of "this choice is mine" versus "this choice follows from external demands" resists purely physical description.
+**[Dualism](/tenets/#dualism)**: The phenomenological distinctiveness of authentic choice—its felt character of genuine self-expression versus scripted compliance—suggests something irreducible to neural processing. The [quale](/concepts/qualia/) of "this choice is mine" versus "this choice follows from external demands" resists purely physical description.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Authentic choice, with its characteristic effort and engagement, may be where consciousness actually exercises causal power. The phenomenology of effort—the felt cost of deliberation, the strain of holding alternatives open—marks genuine selection. Inauthentic choice, lacking this phenomenology, may bypass conscious contribution.
 

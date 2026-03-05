@@ -9,7 +9,7 @@ concepts:
 - '[[retrocausality]]'
 - '[[interactionist-dualism]]'
 - '[[mental-effort]]'
-- '[[duration]]'
+- '[[temporal-consciousness]]'
 - '[[libet-experiments]]'
 - '[[agent-causation]]'
 - '[[mental-causation]]'

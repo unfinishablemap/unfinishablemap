@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-04 08:16:00+00:00
+ai_modified: 2026-03-04 22:18:50+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,11 +16,11 @@ concepts:
 - '[[episodic-memory]]'
 - '[[semantic-memory]]'
 - '[[implicit-memory]]'
-- '[[autonoetic-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[dreams-and-consciousness]]'
 - '[[metacognition]]'
 - '[[consciousness-as-amplifier]]'
-- '[[metarepresentation]]'
+- '[[metacognition]]'
 - '[[temporal-consciousness]]'
 created: 2026-01-14
 date: &id001 2026-01-19
@@ -255,7 +255,7 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [episodic-memory](/concepts/episodic-memory/) — Autonoetic consciousness requiring full workspace ignition
 - [semantic-memory](/concepts/semantic-memory/) — Noetic consciousness with intermediate workspace access
 - [implicit-memory](/concepts/implicit-memory/) — Anoetic consciousness bypassing the workspace
-- [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The self-knowing consciousness GWT must explain
+- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The self-knowing consciousness GWT must explain
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A rival theory tested alongside GNW
 - [integrated-information-theory-critique](/topics/integrated-information-theory-critique/) — The Map's critique of IIT, sharing some concerns about passive consciousness
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — The broader research program GWT contributes to

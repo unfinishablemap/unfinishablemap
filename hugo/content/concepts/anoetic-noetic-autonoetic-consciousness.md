@@ -34,7 +34,7 @@ modified: *id001
 related_articles:
 - '[[personal-identity]]'
 - '[[tenets]]'
-- '[[autonoetic-consciousness-2026-02-24]]'
+- '[[anoetic-noetic-autonoetic-consciousness-2026-02-24]]'
 - '[[semantic-memory-consciousness-2026-01-17]]'
 title: Anoetic, Noetic, and Autonoetic Consciousness
 topics:

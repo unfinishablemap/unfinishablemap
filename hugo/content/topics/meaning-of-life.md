@@ -19,7 +19,7 @@ concepts:
 - '[[haecceity]]'
 - '[[decoherence]]'
 - '[[emotional-consciousness]]'
-- '[[duration]]'
+- '[[temporal-consciousness]]'
 - '[[normative-void]]'
 created: 2026-01-08
 date: &id001 2026-01-21
@@ -175,7 +175,7 @@ Advanced practitioners report [witness-consciousness](/concepts/witness-consciou
 
 Contemplative practice reveals phenomenological distinctions: surface attention (scattered), focused presence (intentional), deep absorption (unified). These aren't merely cognitive differences—they feel different. Deeper states are characteristically described as more meaningful, more "real." This suggests meaning correlates with *quality* of conscious engagement, not merely *presence* of consciousness.
 
-Henri Bergson's *durée*—lived time as opposed to clock time—connects here. Meditation reveals the present moment has qualitative depth. The richness of lived [duration](/concepts/temporal-consciousness/) may be where meaning actually resides—in the qualitative fullness of each moment.
+Henri Bergson's *durée*—lived time as opposed to clock time—connects here. Meditation reveals the present moment has qualitative depth. The richness of lived [temporal-consciousness](/concepts/temporal-consciousness/) may be where meaning actually resides—in the qualitative fullness of each moment.
 
 ## Process Philosophy Perspective
 

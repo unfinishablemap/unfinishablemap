@@ -54,12 +54,12 @@ topics: []
 - Explicitly stated the Map's preference for atemporal selection
 - Qualified avian magnetoreception claim appropriately
 - Added falsifiability cross-reference to companion article
-- Added [specious-present](/concepts/temporal-consciousness/) to Further Reading
+- Added [temporal-consciousness](/concepts/temporal-consciousness/) to Further Reading
 
 ### Cross-links Added
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) (added to passive experience section)
 - [collapse-and-time](/concepts/collapse-and-time/#falsifiability-and-predictions) (new cross-reference)
-- [specious-present](/concepts/temporal-consciousness/) (added to Further Reading)
+- [temporal-consciousness](/concepts/temporal-consciousness/) (added to Further Reading)
 
 ## Remaining Items
 

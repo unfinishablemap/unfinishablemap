@@ -13,8 +13,8 @@ coalesced_from:
 concepts:
 - '[[temporal-consciousness]]'
 - '[[philosophy-of-time]]'
-- '[[duration]]'
-- '[[specious-present]]'
+- '[[temporal-consciousness]]'
+- '[[temporal-consciousness]]'
 - '[[collapse-and-time]]'
 - '[[qualia]]'
 - '[[phenomenology]]'
@@ -24,7 +24,7 @@ concepts:
 - '[[phenomenology-of-choice]]'
 - '[[agent-causation]]'
 - '[[mental-effort]]'
-- '[[autonoetic-consciousness]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[witness-consciousness]]'
 - '[[retrocausality]]'
 - '[[integrated-information-theory]]'
@@ -100,7 +100,7 @@ Extensionalists model this as overlapping duration-blocks: "if the present thoug
 
 ### Macro-Integration: The Temporal Self
 
-At the broadest scale, [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) integrates experience across a lifetime. When you remember your childhood, you don't merely access stored information—you *inhabit* the memory from a first-person perspective, experiencing yourself as the same subject who lived through that event. This temporal self-continuity requires more than data persistence. It requires a subject who persists across time and recognises earlier experiences as *theirs*.
+At the broadest scale, [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) integrates experience across a lifetime. When you remember your childhood, you don't merely access stored information—you *inhabit* the memory from a first-person perspective, experiencing yourself as the same subject who lived through that event. This temporal self-continuity requires more than data persistence. It requires a subject who persists across time and recognises earlier experiences as *theirs*.
 
 This is where temporal integration connects to [personal-identity](/topics/personal-identity/). The narrative self—the sense that your experiences form a coherent life story—depends on macro-integration. Without it, you would have experience but not autobiography.
 
@@ -230,8 +230,8 @@ The temporal structure of consciousness connects to all five [tenets](/tenets/):
 - [temporal-phenomenology-quantum-selection](/concepts/temporal-phenomenology-quantum-selection/) — What quantum selection feels like from within: retention-protention as experiential signature of collapse
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, presentism, eternalism, growing block
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — The Map's full framework on time, collapse, and agency
-- [duration](/concepts/temporal-consciousness/) — Bergson's durée and qualitative lived time
-- [specious-present](/concepts/temporal-consciousness/) — The experienced duration of the present moment
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's durée and qualitative lived time
+- [temporal-consciousness](/concepts/temporal-consciousness/) — The experienced duration of the present moment
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow
 - [free-will](/topics/free-will/) — Temporal agency and the determination question
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader challenge of explaining experience
@@ -243,7 +243,7 @@ The temporal structure of consciousness connects to all five [tenets](/tenets/):
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Information availability theory and temporal gaps
 - [witness-consciousness](/concepts/witness-consciousness/) — Non-agentive modes of conscious presence
 - [binding-problem](/concepts/binding-problem/) — The spatial/feature binding problem and its relation to temporal binding
-- [autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self
+- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The broader problem of experiential unity
 - [personal-identity](/topics/personal-identity/) — How temporal integration constitutes the persisting self
 
