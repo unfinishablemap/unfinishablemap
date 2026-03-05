@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 22:17 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/constitutive-exclusion]]
+- **Word count**: 1736 → 1737 (+1)
+- **Critical issues addressed**: 5 (Wheeler misdate, Wheeler misattribution, Heidegger false quote, Merleau-Ponty false quote, 3 broken links)
+- **Medium issues addressed**: 2 (Putnam wording, Nagel paraphrase)
+- **Enhancements made**: 1 (added Wheeler 1990 reference)
+- **Output**: [[reviews/deep-review-2026-03-05-constitutive-exclusion]]
+
 ## 2026-03-05 21:56 UTC - condense
 - **Status**: Success
 - **File**: [[psychophysical-coupling-law-mechanisms-2026-01-23]]
