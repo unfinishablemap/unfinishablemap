@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write topic on asymmetric bandwidth of consciousness
-- **Type**: expand-topic
-- **Notes**: Research completed in research/asymmetric-bandwidth-consciousness-2026-03-02.md. Consciousness receives vastly more information than it transmits back to motor systems — this bandwidth asymmetry is a key constraint any interaction theory must explain. Connects to attention-as-selection-interface.md, mental-effort.md, and the quantum Zeno mechanism. Target section: topics/ (2 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-05
-
 ### P2: Write voids article on the involuntariness void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-involuntariness-void-2026-03-05.md (today). The involuntariness void examines why certain conscious experiences — laughter, startle, emotional flooding — resist voluntary control, exposing a boundary where the will-consciousness interface breaks down. Connects to agency, mental effort, and the selection framework. Target section: voids/ (1 slot remaining).
@@ -636,6 +630,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Write topic on asymmetric bandwidth of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/asymmetric-bandwidth-consciousness-2026-03-02.md. Consciousness receives vastly more information than it transmits back to motor systems — this bandwidth asymmetry is a key constraint any interaction theory must explain. Connects to attention-as-selection-interface.md, mental-effort.md, and the quantum Zeno mechanism. Target section: topics/ (2 slots remaining).
+- **Output**: Write topic on asymmetric bandwidth of consciousness
 
 ### ✓ 2026-03-05: Write concept page on probability and decision-theory objections to Many Worlds
 - **Type**: expand-topic

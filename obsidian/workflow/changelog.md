@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 13:02 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Asymmetric bandwidth of consciousness
+- **Reason**: Research in asymmetric-bandwidth-consciousness-2026-03-02.md was already consumed by the original asymmetric-bandwidth-of-consciousness article, which was subsequently coalesced into [[bandwidth-of-consciousness]]. The coalesced_from field confirms this. All three research angles (bandwidth asymmetry, epiphenomenalism test, inner/outer brain) are thoroughly covered in the existing article. No new article needed.
+
 ## 2026-03-05 12:49 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Probability and Decision-Theory Objections to Many Worlds
