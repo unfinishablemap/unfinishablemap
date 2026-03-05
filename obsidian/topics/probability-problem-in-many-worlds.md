@@ -4,7 +4,7 @@ description: "MWI faces a deep crisis: if all outcomes occur, probability loses 
 created: 2026-03-04
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-05T05:03:00+00:00
+ai_modified: 2026-03-05T05:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-04
 last_curated:
-last_deep_review: 2026-03-05T02:02:00+00:00
+last_deep_review: 2026-03-05T05:48:00+00:00
 ---
 
 The Many-Worlds Interpretation faces a probability crisis that may be fatal. If every quantum outcome occurs in some branch, what does it mean to say one outcome is "more probable" than another? The Unfinishable Map's [[concepts/many-worlds|existing critique of MWI]] identifies the probability problem as one of five major objections. This article examines the problem in depth, surveying three major recovery strategies—decision theory, self-locating uncertainty, and envariance—and the objections that undermine each. After seven decades, the probability problem remains unresolved. This failure provides strong independent support for the Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet.
@@ -52,13 +52,13 @@ Wallace refined this into a formal proof with axioms including measurement neutr
 
 ### Why Decision Theory Fails
 
-The program faces three categories of objection, each raised by multiple independent critics in the landmark 2010 Oxford volume *Many Worlds?* See [[decision-theory-cannot-save-many-worlds]] for an extended analysis of why each objection is fatal.
+The program faces three categories of objection, raised by multiple independent critics in the landmark 2010 Oxford volume *Many Worlds?* See [[decision-theory-cannot-save-many-worlds]] for an extended analysis of why the first two objections and the circularity problem are each fatal.
 
 **The axioms are not constitutive of rationality.** Kent (2010) argues that Wallace's axioms are substantive philosophical claims, not requirements of rational agency. An agent who weights branches equally—caring about each future self the same regardless of amplitude—violates Wallace's axioms but is not obviously irrational. As Kent puts it, the axioms "are not constitutive of rationality." Alternative weightings satisfy equally plausible rationality constraints, as Lewis (2007) demonstrated formally.
 
 **Betting behaviour does not explain frequencies.** Albert (2010) presses the deepest objection: even if decision theory shows how agents *should bet*, it does not explain why we *observe* Born-rule frequencies. Suppose the decision-theoretic derivation succeeds completely. It tells the pre-measurement agent how to bet. It does not explain why, looking back at a long sequence of measurements, the relative frequencies match Born-rule predictions. The question "Why do experiments come out this way?" and the question "How should I bet?" are different questions. Decision theory answers the second without touching the first.
 
-Albert illustrates with a tongue-in-cheek argument: perhaps an agent should care more about high-amplitude branches because "there is more of them" on those branches—they are, in some sense, "fatter." This exposes the circularity: why amplitude should determine rational caring is precisely what needed justification.
+Albert illustrates with a tongue-in-cheek argument: perhaps an agent should care more about high-amplitude branches because "there is more of them" on those branches—they are, in some sense, "fatter." This exposes the circularity: why amplitude should determine rational caring is precisely what needed justification. Even if the program succeeded on its own terms, it would establish a constraint on rational agency, not a law of physics—leaving the question of why nature produces Born-rule statistics entirely untouched.
 
 **The strategy axiomatises precision within fuzzy ontology.** Kent further objects that Wallace's approach requires precise decision-theoretic axioms operating within a quasiclassical ontology that is inherently approximate. Decoherence gives approximate branches, not exact ones. Building precise probability assignments on approximate branch structure is, Kent argues, incoherent.
 

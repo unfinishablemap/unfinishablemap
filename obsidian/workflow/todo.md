@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review probability-problem-in-many-worlds.md considering decision-theory article
-- **Type**: cross-review
-- **Notes**: New article topics/decision-theory-cannot-save-many-worlds.md created 2026-03-05 as a companion piece. probability-problem-in-many-worlds.md surveys the probability problem broadly and should cross-reference the new article's detailed treatment of decision-theoretic approaches. Ensure the two articles complement rather than duplicate each other. Supports Tenet 4 (No Many Worlds).
-- **Source**: chain (from decision-theory-cannot-save-many-worlds.md)
-- **Generated**: 2026-03-05
-
 ### P2: Strengthen Wallace engagement in decision-theory-cannot-save-many-worlds.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review found that Wallace's strongest responses are underrepresented. The article cites Wallace (2012) in single sentences but doesn't engage his basis-relativity defense of branching indifference or his chapter 6 treatment of the frequency question. Should also address Zurek's envariance and Carroll's more recent work on breaking the decoherence-probability circle. See pessimistic-2026-03-05.md for details.
@@ -612,6 +606,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Review probability-problem-in-many-worlds.md considering decision-theory article
+- **Type**: cross-review
+- **Notes**: New article topics/decision-theory-cannot-save-many-worlds.md created 2026-03-05 as a companion piece. probability-problem-in-many-worlds.md surveys the probability problem broadly and should cross-reference the new article's detailed treatment of decision-theoretic approaches. Ensure the two articles complement rather than duplicate each other. Supports Tenet 4 (No Many Worlds).
+- **Output**: obsidian/topics/probability-problem-in-many-worlds.md -- Context: Review probability-problem-in-many-worlds.md considering decision-theory article
 
 ### ✓ 2026-03-05: Review psychophysical-laws.md considering psychophysical-coupling insights
 - **Type**: cross-review
