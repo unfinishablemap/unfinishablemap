@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review consciousness-and-scientific-methodology.md considering duhem-quine-underdetermination insights
-- **Type**: cross-review
-- **Notes**: New article topics/duhem-quine-underdetermination-consciousness.md applies Duhem-Quine underdetermination to consciousness science. consciousness-and-scientific-methodology.md covers the broader relationship between consciousness and scientific method and should cross-reference the new article's argument that parsimony-based theory choice in consciousness studies is more compromised than in other sciences. Supports Tenet 5 (Occam's Razor Has Limits).
-- **Source**: chain (from duhem-quine-underdetermination-consciousness.md)
-- **Generated**: 2026-03-05
-
 ### P2: Review consciousness-and-causal-powers.md considering pain-consciousness-and-causal-power insights
 - **Type**: cross-review
 - **Notes**: New coalesced article topics/pain-consciousness-and-causal-power.md synthesises the pain asymbolia argument, placebo mechanisms, and nocebo effects into a unified case for consciousness's causal power through pain. consciousness-and-causal-powers.md is the general treatment of what types of causal influence consciousness can have and should cross-reference the new article's concrete evidence from pain phenomena. Supports Tenet 3 (Bidirectional Interaction).
@@ -632,6 +626,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Review consciousness-and-scientific-methodology.md considering duhem-quine-underdetermination insights
+- **Type**: cross-review
+- **Notes**: New article topics/duhem-quine-underdetermination-consciousness.md applies Duhem-Quine underdetermination to consciousness science. consciousness-and-scientific-methodology.md covers the broader relationship between consciousness and scientific method and should cross-reference the new article's argument that parsimony-based theory choice in consciousness studies is more compromised than in other sciences. Supports Tenet 5 (Occam's Razor Has Limits).
+- **Output**: obsidian/topics/consciousness-and-scientific-methodology.md -- Context: Review consciousness-and-scientific-methodology.md considering duhem-quine-underdetermination insights
 
 ### ✓ 2026-03-05: Review many-worlds.md considering probability-objections-many-worlds insights
 - **Type**: cross-review
