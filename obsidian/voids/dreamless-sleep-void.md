@@ -46,7 +46,7 @@ Yet several problems complicate this picture.
 
 **The inference problem.** We infer absence of consciousness from absence of memory. But memory requires memory-encoding mechanisms to be active. We remember nothing from deep sleep—but this could mean nothing happened or that something happened but was not recorded.
 
-**The transition problem.** We cannot catch the moment of losing consciousness. Approaching sleep, awareness becomes diffuse and fragmenting, but we never experience the transition itself. If we did, we would still be conscious.
+**The transition problem.** We cannot catch the moment of losing consciousness. Approaching sleep, awareness becomes diffuse and fragmenting, but we never experience the transition itself. If we did, we would still be conscious. The [[transition-void]] develops this problem in full: the cognitive stance required to observe sleep onset is the waking attention whose release constitutes the transition.
 
 **The continuity problem.** Locke raised a puzzle that persists: "If the same Socrates waking and sleeping do not partake of the same consciousness, Socrates waking and sleeping is not the same Person."
 

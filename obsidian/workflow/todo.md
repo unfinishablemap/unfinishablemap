@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate transition-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Void article created 2026-03-05 with no inbound links. The transition void examines boundaries between conscious states (waking/sleeping, attending/inattending). Add cross-references from observation-void.md, dreamless-sleep-void.md, loss-of-consciousness.md, and the voids section index.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-05
-
 ### P2: Review argument-from-reason.md considering phenomenal-intentionality insights
 - **Type**: cross-review
 - **Notes**: New concept page concepts/phenomenal-intentionality.md (2026-03-05) provides dedicated treatment of the thesis that intentionality is grounded in phenomenal consciousness. topics/argument-from-reason.md relies on this thesis as a premise — if beliefs have their content in virtue of phenomenal consciousness, then eliminating phenomenal consciousness undermines rationality. Check for cross-links, argument reinforcement, and consistent terminology.
@@ -612,6 +606,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Integrate transition-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Void article created 2026-03-05 with no inbound links. The transition void examines boundaries between conscious states (waking/sleeping, attending/inattending). Add cross-references from observation-void.md, dreamless-sleep-void.md, loss-of-consciousness.md, and the voids section index.
+- **Output**: obsidian/voids/transition-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-05: Integrate psychophysical-coupling.md into site navigation
 - **Type**: integrate-orphan

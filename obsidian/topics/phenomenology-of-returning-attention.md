@@ -41,7 +41,7 @@ Careful introspective observation, particularly as trained in focused-attention 
 
 ### Phase One: Wandering
 
-Attention drifts from its intended object. In meditation, you set out to watch the breath, and at some point you are instead rehearsing a conversation or planning dinner. The crucial feature of this phase is *absence of awareness of the drift itself*. You do not experience the transition from focused to wandering — it simply happens without being noticed, a case of [[attention-consciousness-dissociation]] in miniature.
+Attention drifts from its intended object. In meditation, you set out to watch the breath, and at some point you are instead rehearsing a conversation or planning dinner. The crucial feature of this phase is *absence of awareness of the drift itself*. You do not experience the transition from focused to wandering — it simply happens without being noticed, a case of [[attention-consciousness-dissociation]] in miniature and a micro-instance of the [[transition-void]]: the cognitive stance required to observe the departure is the focused attention whose loss constitutes the departure.
 
 This is phenomenologically significant. During wandering, there is still experience — you are thinking, imagining, worrying — but [[witness-consciousness|meta-awareness]] is absent. You are absorbed in the content without monitoring whether the content is what you intended to attend to. The [[default-mode-network]] is active, generating self-referential narratives, but the oversight function has disengaged.
 

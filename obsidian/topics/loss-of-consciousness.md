@@ -142,7 +142,7 @@ The propofol/ketamine divergence poses a specific challenge. Both drugs disrupt 
 
 ## Contemplative Evidence
 
-Experienced meditators report maintaining [[witness-consciousness|witness awareness]] through sleep onset ("yoga nidra")—the witnessing awareness persists while contents fade. This parallels the filter theory: the interface narrows during sleep, reducing transmitted content, but underlying consciousness remains.
+Experienced meditators report maintaining [[witness-consciousness|witness awareness]] through sleep onset ("yoga nidra")—the witnessing awareness persists while contents fade. The [[transition-void]] examines this contemplative evidence in detail, arguing that the awareness maintained may itself constitute a modified state rather than genuine observation of the natural transition. This parallels the filter theory: the interface narrows during sleep, reducing transmitted content, but underlying consciousness remains.
 
 Advanced practitioners report cessation states (*nirodha-samapatti*) phenomenologically distinct from anesthesia—profound peace rather than nothing, with controlled entry and exit. Voluntary cessation differs qualitatively from pharmacological cessation: meditation progressively closes the interface by choice; anesthesia chemically disrupts it.
 
