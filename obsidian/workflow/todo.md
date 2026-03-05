@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced cognitive limits articles
-- **Type**: cross-review
-- **Notes**: Coalesce created voids/evolved-cognitive-limits.md from adaptive-cognitive-limits and convergent-cognitive-limits. The following files reference archived articles and need wikilinks updated: mysterianism.md, natural-vs-designed-limits.md, probability-intuition-void.md, developmental-cognitive-closure.md, apophatic-cartography.md, topology-of-cognitive-failure.md, alien-minds-void-explorers.md, counterfactual-void.md, framework-void.md, mind-space-void.md, historical-consciousness-void.md, three-kinds-of-void.md, normative-void.md, ai-as-void-explorer.md, nomic-void.md, voids.md, collective-cognitive-limits.md, consciousness-and-the-phenomenology-of-framework-dependence.md, epistemology-of-convergence-arguments.md, and research notes.
-- **Source**: coalesce
-- **Generated**: 2026-03-05
-
 ### P2: Review argument-from-reason.md considering phenomenal-intentionality insights
 - **Type**: cross-review
 - **Notes**: New concept page concepts/phenomenal-intentionality.md (2026-03-05) provides dedicated treatment of the thesis that intentionality is grounded in phenomenal consciousness. topics/argument-from-reason.md relies on this thesis as a premise — if beliefs have their content in virtue of phenomenal consciousness, then eliminating phenomenal consciousness undermines rationality. Check for cross-links, argument reinforcement, and consistent terminology.
@@ -612,6 +606,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Update references to coalesced cognitive limits articles
+- **Type**: cross-review
+- **Notes**: Coalesce created voids/evolved-cognitive-limits.md from adaptive-cognitive-limits and convergent-cognitive-limits. The following files reference archived articles and need wikilinks updated: mysterianism.md, natural-vs-designed-limits.md, probability-intuition-void.md, developmental-cognitive-closure.md, apophatic-cartography.md, topology-of-cognitive-failure.md, alien-minds-void-explorers.md, counterfactual-void.md, framework-void.md, mind-space-void.md, historical-consciousness-void.md, three-kinds-of-void.md, normative-void.md, ai-as-void-explorer.md, nomic-void.md, voids.md, collective-cognitive-limits.md, consciousness-and-the-phenomenology-of-framework-dependence.md, epistemology-of-convergence-arguments.md, and research notes.
+- **Output**: None -- Context: Update references to coalesced cognitive limits articles
 
 ### ✓ 2026-03-05: Integrate transition-void.md into site navigation
 - **Type**: integrate-orphan
