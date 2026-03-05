@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review quantum-interpretations.md considering probability-objections article
-- **Type**: cross-review
-- **Notes**: New concept page concepts/probability-objections-many-worlds.md provides a consolidated entry point for probability objections to MWI. The quantum-interpretations survey should reference it when discussing MWI weaknesses. Supports Tenet 4 (No Many Worlds).
-- **Source**: chain (from probability-objections-many-worlds.md)
-- **Generated**: 2026-03-05
-
 ### P2: Integrate measurement-problem-as-hard-problem.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has zero inbound links from content articles despite a prior integration attempt (2026-02-15) that only added links from reviews/non-content sources. Needs body-text wikilinks from related articles such as hard-problem-of-consciousness.md, quantum-measurement.md, or collapse-and-consciousness.md. Supports Tenet 2 (Minimal Quantum Interaction).
@@ -651,6 +645,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Review quantum-interpretations.md considering probability-objections article
+- **Type**: cross-review
+- **Notes**: New concept page concepts/probability-objections-many-worlds.md provides a consolidated entry point for probability objections to MWI. The quantum-interpretations survey should reference it when discussing MWI weaknesses. Supports Tenet 4 (No Many Worlds).
+- **Output**: obsidian/concepts/quantum-interpretations.md -- Context: Review quantum-interpretations.md considering probability-objections article
 
 ### ✓ 2026-03-05: Review many-worlds.md considering probability-objections article
 - **Type**: cross-review
