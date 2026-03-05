@@ -71,7 +71,7 @@ The standard MWI strategy uses decision theory: rational agents should weight ou
 
 **The caring problem**: Why should the pre-measurement you care about post-measurement continuations proportionally to their Born weights? All of them exist. The branch-weighted version of you is as much "you" as any other weighting.
 
-MWI defenders offer decision-theoretic derivations (Deutsch-Wallace) purporting to show that rational agents *must* weight outcomes by Born probabilities. But these derivations are contested—critics argue the axioms are question-begging. Deriving probability from non-probabilistic branching may be fundamentally misguided.
+MWI defenders offer decision-theoretic derivations (Deutsch-Wallace) purporting to show that rational agents *must* weight outcomes by Born probabilities. But these derivations are contested—critics argue the axioms are question-begging. Deriving probability from non-probabilistic branching may be fundamentally misguided. See [[probability-problem-in-many-worlds]] for the full case against all three recovery strategies and the circularity that undermines them.
 
 ### 4. The Preferred Basis Problem
 
@@ -170,6 +170,7 @@ Alternative interpretations—particularly [[collapse-and-time|time-symmetric]] 
 - [[many-worlds-argument|Against Many-Worlds]] — The formal argument structure with premises and conclusions
 - [[tenets]] — The foundational commitment against MWI
 - [[illusionism]] — The strongest physicalist challenge and why it doesn't help MWI
+- [[probability-problem-in-many-worlds]] — In-depth treatment of why probability fails in MWI
 - [[decoherence]] — What decoherence does and doesn't explain
 - [[personal-identity]] — Why identity questions matter for MWI critique
 - [[introspection]] — The reliability of first-person evidence about anticipation

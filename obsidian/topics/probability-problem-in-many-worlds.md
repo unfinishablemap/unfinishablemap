@@ -4,7 +4,7 @@ description: "MWI faces a deep crisis: if all outcomes occur, probability loses 
 created: 2026-03-04
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-04T18:47:00+00:00
+ai_modified: 2026-03-05T02:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-04
 last_curated:
-last_deep_review: 2026-03-04T18:47:00+00:00
+last_deep_review: 2026-03-05T02:02:00+00:00
 ---
 
 The Many-Worlds Interpretation faces a probability crisis that may be fatal. If every quantum outcome occurs in some branch, what does it mean to say one outcome is "more probable" than another? The Unfinishable Map's [[concepts/many-worlds|existing critique of MWI]] identifies the probability problem as one of five major objections. This article examines the problem in depth, surveying three major recovery strategies—decision theory, self-locating uncertainty, and envariance—and the objections that undermine each. After seven decades, the probability problem remains unresolved. This failure provides strong independent support for the Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet.
@@ -129,6 +129,7 @@ The circularity objection has a particular resonance for the Map's framework. If
 - [[quantum-measurement-interpretations-beyond-mwi]] — Five major alternatives to MWI
 - [[philosophical-stakes-of-spontaneous-collapse]] — Why real collapse matters philosophically
 - [[quantum-measurement-and-subjective-probability]] — The subjective dimension of quantum probability
+- [[consciousness-and-probability-interpretation]] — Why consciousness is probability's prerequisite yet its worst reasoner
 - [[quantum-probability-consciousness]] — How probability connects to consciousness across interpretations
 - [[decoherence]] — What decoherence does and does not explain
 - [[tenets]] — The Map's foundational commitments

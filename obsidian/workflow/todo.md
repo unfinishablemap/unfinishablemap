@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate probability-problem-in-many-worlds.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article (created 2026-03-04) on the Born rule probability problem as a challenge to Many-Worlds interpretation. Directly supports Tenet 4 (No Many Worlds). Add cross-references from many-worlds.md, quantum-interpretations.md, indexical-identity-quantum-measurement.md, and philosophical-stakes-of-spontaneous-collapse.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-05
-
 ### P3: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
@@ -600,6 +594,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Integrate probability-problem-in-many-worlds.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-03-04) on the Born rule probability problem as a challenge to Many-Worlds interpretation. Directly supports Tenet 4 (No Many Worlds). Add cross-references from many-worlds.md, quantum-interpretations.md, indexical-identity-quantum-measurement.md, and philosophical-stakes-of-spontaneous-collapse.md.
+- **Output**: obsidian/topics/probability-problem-in-many-worlds.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-05: Update references to coalesced temporal void articles
 - **Type**: cross-review

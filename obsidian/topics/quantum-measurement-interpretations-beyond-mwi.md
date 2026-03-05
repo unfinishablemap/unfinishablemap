@@ -112,6 +112,7 @@ Finally, rejecting Bohmian determinism preserves the phenomenological legitimacy
 ## Further Reading
 
 - [[concepts/many-worlds]] — Why the Map rejects MWI
+- [[probability-problem-in-many-worlds]] — Why MWI cannot recover probability without circularity
 - [[measurement-problem]] — The core puzzle these interpretations address
 - [[collapse-and-time]] — How retrocausality resolves temporal paradoxes
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-quantum interaction (Stapp, Penrose-Hameroff, IIT-collapse)

@@ -105,7 +105,7 @@ The model also faces honest difficulties. IIT's measure of integrated informatio
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Modulating collapse parameters (rate, location, basis) is a concrete mechanism for consciousness causally influencing the physical world without violating conservation laws. Consciousness selects among outcomes that physics leaves open, biasing probabilities within the Born rule.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Objective collapse theories are the most direct rejection of many-worlds. Wave functions actually collapse; branches are pruned; definite outcomes are real. The indexical question "why am I this observer?" has a straightforward answer: because collapse produced one outcome, not many.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Objective collapse theories are the most direct rejection of many-worlds. Wave functions actually collapse; branches are pruned; definite outcomes are real. The indexical question "why am I this observer?" has a straightforward answer: because collapse produced one outcome, not many. MWI's alternative—deriving probability from a theory where everything happens—faces [[probability-problem-in-many-worlds|deep circularity problems]].
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Spontaneous collapse theories modify quantum mechanics—adding complexity to the simplest formalism. But they gain falsifiability, solve the measurement problem, and open space for consciousness-matter interaction. The measurement problem itself demonstrates that the simplest theory (unitary quantum mechanics) is incomplete.
 
