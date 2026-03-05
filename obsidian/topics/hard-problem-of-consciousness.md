@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-03-05T16:17:00+00:00
+ai_modified: 2026-03-05T18:49:00+00:00
 draft: false
 topics: []
 concepts:
@@ -275,6 +275,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [[dualism]] — Foundational overview: what dualism claims, main varieties, and converging arguments
 - [[explanatory-gap]] — Levine's formulation and physicalist responses
 - [[concepts/materialism]] — Why physicalist explanations fail
+- [[arguments/materialism-argument|Against Materialism]] — Focused argument from hard problem, zombies, and quantum indeterminacy
 - [[substrate-independence-critique]] — Why the hard problem entails substrate skepticism
 - [[combination-problem]] — Panpsychism's parallel challenge
 - [[mysterianism]] — McGinn's cognitive closure thesis

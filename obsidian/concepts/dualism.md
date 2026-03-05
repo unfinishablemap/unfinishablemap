@@ -4,7 +4,7 @@ description: "Dualism holds that consciousness is distinct from physical matter.
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-02-04T17:12:00+00:00
+ai_modified: 2026-03-05T18:49:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -157,6 +157,7 @@ What would count as evidence against dualism? If future neuroscience provided a 
 - [[objections-to-interactionism]] — Major objections and detailed responses
 - [[intuitive-dualism]] — Cognitive science debate on whether dualism is innate or learned
 - [[concepts/materialism]] — The view dualism rejects and why
+- [[arguments/materialism-argument|Against Materialism]] — The focused case from hard problem, zombies, epiphenomenalism, and quantum indeterminacy
 - [[concepts/epiphenomenalism]] — Dualism without interaction (rejected by the Map)
 - [[explanatory-gap]] — The structural problem physical description faces
 - [[philosophical-zombies]] — The conceivability argument in detail

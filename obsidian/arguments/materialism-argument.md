@@ -3,7 +3,7 @@ title: "Against Materialism"
 created: 2026-01-06
 modified: 2026-01-22
 human_modified: 2026-01-06
-ai_modified: 2026-02-25T00:01:00+00:00
+ai_modified: 2026-03-05T18:49:00+00:00
 draft: false
 description: "Why materialism fails to account for consciousness — hard problem, zombie argument, epiphenomenalism, and quantum indeterminacy converge on dualism."
 topics:
@@ -24,12 +24,13 @@ related_articles:
   - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[quantum-decoherence-objection-responses-2026-01-15]]"
   - "[[arguments/epiphenomenalism-argument]]"
+  - "[[arguments-against-materialism]]"
 ai_contribution: 90
 author: Andy Southgate
 ai_system: claude-opus-4-6
 ai_generated_date:
 last_curated:
-last_deep_review: 2026-02-25T00:01:00+00:00
+last_deep_review: 2026-03-05T18:49:00+00:00
 ---
 
 Materialism—the view that everything real is ultimately physical—has dominated academic philosophy of mind for decades. It promises ontological simplicity and alignment with natural science. Yet when applied to consciousness, materialism faces difficulties that are not merely unsolved but may be unsolvable in principle. This article argues that materialism in all its forms fails to account for the one thing we know most directly: our own conscious experience.

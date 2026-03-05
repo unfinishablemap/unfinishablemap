@@ -4,7 +4,7 @@ description: "Multiple independent philosophical arguments converge on the same 
 created: 2026-02-27
 modified: 2026-02-27
 human_modified:
-ai_modified: 2026-02-27T19:46:00+00:00
+ai_modified: 2026-03-05T18:49:00+00:00
 last_deep_review: 2026-02-27T19:46:00+00:00
 draft: false
 topics:
@@ -28,6 +28,7 @@ related_articles:
   - "[[epistemic-advantages-of-dualism]]"
   - "[[epistemological-limits-occams-razor]]"
   - "[[concepts/epiphenomenalism]]"
+  - "[[arguments/materialism-argument]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -49,7 +50,7 @@ The arguments exploit genuinely different features of consciousness. The explana
 
 A materialist might object that these arguments share a hidden flaw—perhaps a common reliance on unreliable intuitions about consciousness. But this objection would need to identify a single error that explains away arguments from information incompleteness, logical possibility, normativity of inference, unity of subjects, and qualitative character simultaneously. The diversity of premises is precisely what makes the convergence significant.
 
-For detailed treatment of each argument, see [[the-case-for-dualism]].
+For detailed treatment of each argument, see [[the-case-for-dualism]]. For the focused systematic case from the hard problem through quantum indeterminacy, see [[arguments/materialism-argument|Against Materialism]].
 
 ## Why Materialism Cannot Close the Gap
 

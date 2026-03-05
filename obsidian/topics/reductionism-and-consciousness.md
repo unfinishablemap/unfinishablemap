@@ -4,7 +4,7 @@ description: "Reductionism succeeds across science—temperature, life, heredity
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-05T01:17:00+00:00
+ai_modified: 2026-03-05T18:49:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -128,6 +128,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] confronts the parsi
 - [[conceivability-possibility-inference]] — Whether conceivability entails metaphysical possibility
 - [[emergence]] — Strong emergence as the framework for irreducible properties
 - [[concepts/materialism]] — The view reductionism about consciousness underwrites
+- [[arguments/materialism-argument|Against Materialism]] — The systematic argument from hard problem through quantum indeterminacy
 - [[causal-closure]] — The principle reductionists assume and the Map denies at quantum level
 - [[pain-asymbolia-as-central-test-case]] — Empirical evidence that function and phenomenal character come apart
 - [[why-pain-hurts]] — Why pain is the strongest case against reduction: phenomenal character inseparable from causal power

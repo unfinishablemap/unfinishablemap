@@ -4,7 +4,7 @@ description: "Why physicalism fails to explain consciousness. The explanatory ga
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-22T18:06:00+00:00
+ai_modified: 2026-03-05T18:49:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ related_articles:
   - "[[tenets]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[concepts/functionalism]]"
+  - "[[arguments/materialism-argument]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -94,7 +95,7 @@ The Map's response targets premise 1. The [[tenets#^minimal-quantum-interaction|
 
 Several lines of argument suggest materialism cannot accommodate consciousness. These are not merely objections to materialism; they constitute [[the-case-for-dualism|positive arguments for dualism]] that converge on the same conclusion from independent directions. [[Dualism]]—the view that consciousness is ontologically distinct from matter—gains support precisely where materialism fails. The 2020 PhilPapers survey found approximately 32% of philosophers accept or lean toward non-physicalism—the main alternative to materialism.
 
-For a comprehensive treatment of these arguments, including Kripke's modal argument, Nagel's subjectivity argument, and the convergence argument showing how independent lines of reasoning reinforce each other, see [[the-case-for-dualism]].
+For a comprehensive treatment of these arguments, including Kripke's modal argument, Nagel's subjectivity argument, and the convergence argument showing how independent lines of reasoning reinforce each other, see [[the-case-for-dualism]]. For the focused case from the hard problem, zombies, epiphenomenalism, and quantum indeterminacy, see [[arguments/materialism-argument|Against Materialism]].
 
 ### The Explanatory Gap
 
