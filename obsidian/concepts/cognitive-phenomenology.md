@@ -4,7 +4,7 @@ description: "Is there something it's like to think, beyond sensory accompanimen
 created: 2026-01-16
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-24T11:14:00+00:00
+ai_modified: 2026-03-05T06:39:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -161,7 +161,7 @@ Cognitive phenomenology might be proprietary but not individuative—perhaps all
 
 ## Phenomenal Intentionality
 
-Cognitive phenomenology connects to the [[phenomenal-intentionality|phenomenal intentionality thesis (PIT)]]: genuine [[intentionality]]—the "aboutness" of mental states—derives from phenomenal consciousness.
+Cognitive phenomenology connects to the [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality thesis (PIT)]]: genuine [[intentionality]]—the "aboutness" of mental states—derives from phenomenal consciousness.
 
 The content determinacy problem asks: what makes a thought about X rather than Y? Physical description underdetermines content. PIT answers: phenomenal character determines it. If a thought has the phenomenal character of being about democracy, it's about democracy.
 
@@ -264,7 +264,6 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 - [[consciousness-and-mathematical-understanding]] — Mathematical insight as paradigm case
 - [[epistemic-emotions]] — Curiosity, doubt, certainty, and other epistemic feelings
 - [[semantic-memory]] — TOT/FOK phenomenology and noetic consciousness
-- [[phenomenal-intentionality]] — How consciousness grounds intentional content
 - [[intentionality]] — The "aboutness" of mental states
 - [[ai-consciousness]] — Why the Map holds AI systems lack genuine understanding
 - [[illusionism]] — The eliminativist challenge and its regress problem

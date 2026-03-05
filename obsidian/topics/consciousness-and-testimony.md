@@ -4,7 +4,7 @@ description: "Testimony requires consciousness to function yet cannot fully conv
 created: 2026-02-15
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-02-24T18:59:00+00:00
+ai_modified: 2026-03-05T06:39:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,7 +15,7 @@ topics:
 concepts:
   - "[[introspection]]"
   - "[[qualia]]"
-  - "[[phenomenal-intentionality]]"
+  - "[[intentionality]]"
   - "[[epistemic-emotions]]"
   - "[[problem-of-other-minds]]"
   - "[[phenomenological-evidence]]"

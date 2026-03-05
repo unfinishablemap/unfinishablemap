@@ -4,7 +4,7 @@ description: "Understanding has irreducible phenomenal character—the click of 
 created: 2026-01-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-24T12:14:00+00:00
+ai_modified: 2026-03-05T06:39:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,6 @@ concepts:
   - "[[consciousness-as-amplifier]]"
   - "[[temporal-structure-of-understanding]]"
   - "[[temporal-consciousness]]"
-  - "[[phenomenal-intentionality]]"
   - "[[binding-problem]]"
   - "[[unity-of-consciousness]]"
   - "[[semantic-memory]]"
@@ -140,7 +139,7 @@ The phenomenology of understanding supports the "liberalist" position in [[cogni
 
 **The recursive language case.** Understanding "The man ran" differs phenomenally from understanding "The man who saw the woman who chased the dog ran." The difference is structural — holding embedded clauses in relation — not sensory.
 
-These cases connect to the [[phenomenal-intentionality|phenomenal intentionality thesis]]: genuine "aboutness" of mental states derives from phenomenal consciousness. When you understand a sentence, the felt character of understanding constitutes its content. Inferential understanding strengthens this: the mental state is about the *connection* P→Q, not just P and Q separately. The phenomenal character of seeing-why constitutes the relational content. Strip away the phenomenal experience of following, and what remains is association — not implication.
+These cases connect to the [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality thesis]]: genuine "aboutness" of mental states derives from phenomenal consciousness. When you understand a sentence, the felt character of understanding constitutes its content. Inferential understanding strengthens this: the mental state is about the *connection* P→Q, not just P and Q separately. The phenomenal character of seeing-why constitutes the relational content. Strip away the phenomenal experience of following, and what remains is association — not implication.
 
 Evidence from [[semantic-memory]] reinforces the case. The tip-of-the-tongue state reveals meaning's experiential character: you have phenomenal access to meaning (can identify the word's first letter, syllable count, related concepts) without access to form. If meaning were non-phenomenal, this dissociation would be inexplicable. The feeling of knowing — sensing you know something before retrieving it — likewise tracks actual knowledge accurately, suggesting phenomenal presence even when retrieval fails.
 
@@ -197,7 +196,7 @@ Several findings would weaken PCT:
 ## Further Reading
 
 - [[cognitive-phenomenology]] — The broader debate about whether thinking has phenomenal character
-- [[phenomenal-intentionality]] — Why genuine aboutness requires phenomenal consciousness
+- [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]] — Why genuine aboutness requires phenomenal consciousness
 - [[temporal-structure-of-understanding]] — The temporal unfolding of comprehension
 - [[consciousness-and-mathematical-cognition]] — Mathematical insight as paradigm case
 - [[epistemic-emotions]] — Feelings directed at knowledge itself

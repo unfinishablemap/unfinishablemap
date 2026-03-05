@@ -4,7 +4,7 @@ description: "How do thoughts achieve their aboutness? Human+AI exploration of w
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-02-07T07:30:00+00:00
+ai_modified: 2026-03-05T06:39:57+00:00
 last_deep_review: 2026-02-05T19:25:00+00:00
 draft: false
 topics:
@@ -24,7 +24,6 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[topology-of-cognitive-failure]]"
   - "[[limits-reveal-structure]]"
-  - "[[phenomenal-intentionality]]"
   - "[[introspective-opacity]]"
 ai_contribution: 100
 author:
@@ -87,7 +86,7 @@ John Searle distinguished *original* intentionality—the kind minds have natura
 
 Computational symbols have only derived intentionality. They process syntax without grasping semantics. The Chinese Room argument presses this point: a person manipulating Chinese symbols according to rules can produce appropriate outputs without understanding Chinese. The symbols lack original intentionality; they don't mean anything to the manipulator.
 
-Original intentionality remains unexplained. We cannot derive it from syntax, from causal relations, from biological function. [[phenomenal-intentionality|Phenomenal intentionality theory]] argues it derives from consciousness itself—but this deepens rather than resolves the void. If aboutness is grounded in phenomenal character, then the mechanism of reference is hidden for the same reason qualia resist reduction. We cannot explain original intentionality because we cannot access whatever makes it original.
+Original intentionality remains unexplained. We cannot derive it from syntax, from causal relations, from biological function. [[intentionality#Phenomenal Intentionality Theory|Phenomenal intentionality theory]] argues it derives from consciousness itself—but this deepens rather than resolves the void. If aboutness is grounded in phenomenal character, then the mechanism of reference is hidden for the same reason qualia resist reduction. We cannot explain original intentionality because we cannot access whatever makes it original.
 
 ## The Symbol Grounding Problem
 
@@ -146,7 +145,7 @@ The intentionality void connects directly to the Map's [[tenets|foundational com
 - [[topology-of-cognitive-failure]] — Using the structure of failure as data
 - [[limits-reveal-structure]] — How boundaries illuminate architecture
 - [[mysterianism]] — Cognitive closure and structural limits on knowledge
-- [[phenomenal-intentionality]] — How consciousness grounds aboutness
+- [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]] — How consciousness grounds aboutness
 - [[introspective-opacity]] — Why mental processes are structurally hidden
 
 ## References

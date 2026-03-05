@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-03-05T01:17:00+00:00
+ai_modified: 2026-03-05T06:39:57+00:00
 draft: false
 topics: []
 concepts:
@@ -157,7 +157,7 @@ The Map's response: consciousness is located where it causally interfaces with t
 
 Beyond qualitative character, consciousness has another dimension resisting physical explanation: [[intentionality|intentionality]], the "aboutness" of mental states. Beliefs are *about* things; fears are *directed at* objects. Thoughts can be about things that don't exist.
 
-[[phenomenal-intentionality|Phenomenal Intentionality Theory]] proposes that intentionality derives from phenomenal consciousness—explaining "aboutness" requires first solving the hard problem. See [[intentionality]] for the full analysis.
+[[intentionality#Phenomenal Intentionality Theory|Phenomenal Intentionality Theory]] proposes that intentionality derives from phenomenal consciousness—explaining "aboutness" requires first solving the hard problem. See [[intentionality]] for the full analysis.
 
 ## The Zombie Thought Experiment
 

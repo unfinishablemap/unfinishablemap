@@ -4,7 +4,7 @@ description: "Genuine understanding of another person requires more than knowled
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-19T13:36:00+00:00
+ai_modified: 2026-03-05T06:39:57+00:00
 draft: false
 topics:
   - "[[topics/consciousness-and-social-cognition]]"
@@ -18,7 +18,7 @@ concepts:
   - "[[qualia]]"
   - "[[phenomenology]]"
   - "[[cognitive-phenomenology]]"
-  - "[[phenomenal-intentionality]]"
+  - "[[intentionality]]"
   - "[[inverted-qualia]]"
   - "[[philosophical-zombies]]"
   - "[[explanatory-gap]]"
@@ -64,7 +64,7 @@ The Map's response draws on the structure of the [[other-minds-void]]. Understan
 
 Consider the [[inverted-qualia]] scenario. Suppose your experience of red is phenomenally like my experience of green, but we use the same words and make the same discriminations. No behavioural or third-person evidence reveals the difference. Whether inverted qualia scenarios describe genuine metaphysical possibilities is contested — functionalists deny that experiences could diverge while all functional properties remain identical. But if the Map's dualism is correct, such divergence is at least coherent: there is something it is like for each of us, and the "what it's like" may diverge in ways behaviour cannot reveal. The [[consciousness-and-the-problem-of-other-properties|problem of other properties]] argues this opacity extends beyond colour to every phenomenal quality — pain, emotion, temporal experience. Understanding another person must navigate this structural opacity. You must acknowledge that their phenomenal world may diverge from yours in ways you cannot detect, and this acknowledgment requires having a phenomenal world of your own to recognise as potentially different.
 
-A system without phenomenal consciousness could track the *concept* of phenomenal divergence — it could produce sentences about inverted qualia. But it could not grasp what is at stake, because what is at stake is the felt quality of experience, and grasping felt quality requires having it. A [[philosophical-zombies|zombie therapist]] — behaviourally identical to the experienced one, propositionally identical, but phenomenally empty — would produce all the right words about a patient's grief without any resonance, texture, or limits awareness. The [[phenomenal-intentionality|phenomenal intentionality thesis]] provides the technical backing: genuine "aboutness" — mental states being truly *about* something — derives from phenomenal consciousness. A system that processes representations of grief without any phenomenal grounding does not understand grief; it manipulates symbols that happen to track grief in others.
+A system without phenomenal consciousness could track the *concept* of phenomenal divergence — it could produce sentences about inverted qualia. But it could not grasp what is at stake, because what is at stake is the felt quality of experience, and grasping felt quality requires having it. A [[philosophical-zombies|zombie therapist]] — behaviourally identical to the experienced one, propositionally identical, but phenomenally empty — would produce all the right words about a patient's grief without any resonance, texture, or limits awareness. The [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality thesis]] provides the technical backing: genuine "aboutness" — mental states being truly *about* something — derives from phenomenal consciousness. A system that processes representations of grief without any phenomenal grounding does not understand grief; it manipulates symbols that happen to track grief in others.
 
 ## The Phenomenology of Understanding a Person
 

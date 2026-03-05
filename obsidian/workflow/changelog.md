@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 06:36 UTC - deep-review
+- **Status**: Success (link migration for archived article)
+- **File**: [[phenomenal-intentionality]] (archived, coalesced into [[intentionality]])
+- **Word count**: N/A (no content changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 21 stale links migrated across 21 files
+- **Enhancements made**: Frontmatter concepts updated, body wikilinks redirected to live page, Further Reading deduplicated
+- **Output**: [[reviews/deep-review-2026-03-05-phenomenal-intentionality]]
+
 ## 2026-03-05 06:29 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: ~398 non-draft articles across topics, concepts, tenets (deep read of 8 recent articles)

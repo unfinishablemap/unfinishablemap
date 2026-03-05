@@ -4,7 +4,7 @@ description: "Trust has a distinctive felt character that information processing
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-03-04T08:23:00+00:00
+ai_modified: 2026-03-05T06:39:57+00:00
 last_deep_review: 2026-03-04T08:23:00+00:00
 draft: false
 topics:
@@ -20,7 +20,7 @@ concepts:
   - "[[cognitive-phenomenology]]"
   - "[[epistemic-emotions]]"
   - "[[phenomenology-of-choice]]"
-  - "[[phenomenal-intentionality]]"
+  - "[[intentionality]]"
 related_articles:
   - "[[tenets]]"
   - "[[other-minds-void]]"

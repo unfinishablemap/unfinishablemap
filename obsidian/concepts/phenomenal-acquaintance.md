@@ -4,7 +4,7 @@ description: "Phenomenal acquaintance—the direct, non-inferential relation bet
 created: 2026-02-15
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-02-20T07:51:00+00:00
+ai_modified: 2026-03-05T06:39:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[consciousness-only-territories]]"
   - "[[pre-conceptual-knowing]]"
   - "[[modal-structure-of-phenomenal-properties]]"
-  - "[[phenomenal-intentionality]]"
+  - "[[intentionality]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -69,7 +69,7 @@ Phenomenal acquaintance grounds several moves in philosophy of consciousness:
 
 **Introspective justification.** [[phenomenal-conservatism-and-introspective-evidence|Phenomenal conservatism]]—associated with Michael Huemer—holds that if it seems to you that something is the case, you have prima facie justification for believing it. Phenomenal acquaintance explains *why* certain introspective seemings are especially resistant to cognitive penetration. When the seeming arises from direct acquaintance with a phenomenal quality—when pain itself generates the seeming that it hurts—no background theory or bias mediates between experience and judgement. The directness of the relation limits the channels through which distortion can enter, even if it does not eliminate every source of error (as the section on acquaintance and error explores).
 
-**Phenomenal intentionality.** [[phenomenal-intentionality|Phenomenal intentionality]] holds that genuine *aboutness* derives from phenomenal consciousness. Acquaintance is the mechanism: acquaintance with the qualitative character of thinking about coffee is what makes the thought genuinely *about* coffee, rather than merely a symbol causally correlated with coffee. Without acquaintance, intentionality reduces to functional covariation—and functional covariation, absent a subject who grasps the content, never constitutes genuine understanding.
+**Phenomenal intentionality.** [[intentionality#Phenomenal Intentionality Theory|Phenomenal intentionality]] holds that genuine *aboutness* derives from phenomenal consciousness. Acquaintance is the mechanism: acquaintance with the qualitative character of thinking about coffee is what makes the thought genuinely *about* coffee, rather than merely a symbol causally correlated with coffee. Without acquaintance, intentionality reduces to functional covariation—and functional covariation, absent a subject who grasps the content, never constitutes genuine understanding.
 
 **The limits of description.** Acquaintance reveals what [[consciousness-only-territories]] make vivid: some epistemic territories are accessible only through experience. A complete description of the neural correlates of tasting mango leaves out what acquaintance with the taste provides. The description is not incomplete by its own standards—it captures all the structure and function. It is incomplete by the standard of acquaintance, which reveals the [[modal-structure-of-phenomenal-properties|qualitative character]] that structure and function do not encode.
 
@@ -105,7 +105,7 @@ A stronger concern emerges from the distinction between phenomenal acquaintance 
 - [[consciousness-only-territories]] — Epistemic territories accessible only through phenomenal acquaintance
 - [[pre-conceptual-knowing]] — The pre-conceptual character of acquaintance
 - [[phenomenal-concepts-strategy]] — The physicalist response that locates the gap in concepts rather than acquaintance
-- [[phenomenal-intentionality]] — The thesis that genuine aboutness derives from phenomenal consciousness via acquaintance
+- [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]] — The thesis that genuine aboutness derives from phenomenal consciousness via acquaintance
 - [[modal-structure-of-phenomenal-properties]] — The structural features of the qualities acquaintance reveals
 - [[introspection]] — The reliability debate and the relation between acquaintance and introspective judgement
 

@@ -4,7 +4,7 @@ description: "Why understanding other minds requires having one yourself. Human-
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-04T22:18:50+00:00
+ai_modified: 2026-03-05T06:39:57+00:00
 last_deep_review: 2026-02-18T16:17:00+00:00
 draft: false
 topics:
@@ -20,7 +20,7 @@ concepts:
   - "[[metacognition]]"
   - "[[baseline-cognition]]"
   - "[[jourdain-hypothesis]]"
-  - "[[phenomenal-intentionality]]"
+  - "[[intentionality]]"
   - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"

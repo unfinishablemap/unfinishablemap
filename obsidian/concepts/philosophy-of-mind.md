@@ -4,7 +4,7 @@ description: "Philosophy of mind as a field—its central questions, major posit
 created: 2026-02-06
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-02-27T15:46:00+00:00
+ai_modified: 2026-03-05T06:39:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -71,7 +71,7 @@ Some physicalists retreat to the [[phenomenal-concepts-strategy]] — the gap is
 
 The field's dominant objection to dualism has long been the *interaction problem*: if mind is non-physical, how does it causally engage with the body? This objection assumed [[causal-closure|causal closure]] — that every physical event has a sufficient physical cause. But causal closure is an assumption, not an empirical finding, and quantum mechanics undermines it. At quantum indeterminacies, physical law leaves outcomes undetermined. [[interactionist-dualism|Interactionist dualism]] proposes that consciousness operates precisely at these gaps, selecting among physically possible outcomes without injecting energy or violating conservation laws. This proposal faces its own challenges — particularly whether quantum coherence can survive in warm biological tissue (the [[decoherence|decoherence objection]]) and whether biasing quantum outcomes is consistent with the Born rule — but it offers a specific, constrained answer where earlier dualisms left the interface mysterious.
 
-The [[the-case-for-dualism|positive case for dualism]] draws on multiple independent lines of evidence: the conceivability of zombies, the knowledge argument, the irreducibility of [[qualia]], the [[unity-of-consciousness|unity of experience]], and the [[phenomenal-intentionality|phenomenal grounding of intentionality]]. These arguments converge from different starting points on the same conclusion.
+The [[the-case-for-dualism|positive case for dualism]] draws on multiple independent lines of evidence: the conceivability of zombies, the knowledge argument, the irreducibility of [[qualia]], the [[unity-of-consciousness|unity of experience]], and the [[intentionality#Phenomenal Intentionality Theory|phenomenal grounding of intentionality]]. These arguments converge from different starting points on the same conclusion.
 
 ### Alternative Frameworks
 
@@ -127,7 +127,6 @@ Together, these tenets do not merely select a position from the existing menu. T
 - [[explanatory-gap]]
 - [[qualia]]
 - [[intentionality]]
-- [[phenomenal-intentionality]]
 - [[topics/free-will]]
 - [[concepts/epiphenomenalism]]
 - [[causal-closure]]

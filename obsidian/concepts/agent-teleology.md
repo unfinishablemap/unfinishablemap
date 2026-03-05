@@ -4,7 +4,7 @@ description: "Agent teleology is the view that conscious beings introduce genuin
 created: 2026-02-16
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-02-20T22:21:00+00:00
+ai_modified: 2026-03-05T06:39:57+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[subjective-aim]]"
   - "[[topics/phenomenal-value-realism]]"
   - "[[phenomenology-of-choice]]"
-  - "[[phenomenal-intentionality]]"
+  - "[[intentionality]]"
   - "[[reasons-responsiveness]]"
   - "[[phenomenal-normativity]]"
   - "[[mysterianism]]"
@@ -56,7 +56,7 @@ Three types of teleology should be distinguished:
 
 Under physicalism, even agent teleology reduces to mechanism. The gazelle's fear is identical to neural firing patterns fully explained by prior physical states. Sophisticated functionalists respond that purposes are "real patterns"—genuine features of the causal landscape that earn ontological status through explanatory utility. Daniel Dennett's "intentional stance" treats purpose-talk as predictively useful without requiring irreducible purposes. Teleofunctionalists like Millikan go further, arguing that selection history fully naturalises purpose: a heart pumps blood *because* pumping blood is the function that explains its selection.
 
-The Map finds both approaches insufficient. Real patterns identified *from the outside*—by a theorist modelling behaviour—are not the same as purposes experienced *from the inside*. When the gazelle fears the lion, something is happening that no amount of functional description captures: there is something it is like to want to survive. Purpose-talk is not merely predictively convenient; it tracks a genuine feature of reality—[[phenomenal-intentionality|phenomenal intentionality]]—that physicalist ontology cannot accommodate. Dennett's response is to deny that phenomenal consciousness is itself irreducible, absorbing the "from the inside" objection via heterophenomenology. The Map holds that this move fails for the same reasons physicalism fails generally: the [[hard-problem-of-consciousness|hard problem]] shows that no third-personal method captures what it is like to experience anything, including purpose.
+The Map finds both approaches insufficient. Real patterns identified *from the outside*—by a theorist modelling behaviour—are not the same as purposes experienced *from the inside*. When the gazelle fears the lion, something is happening that no amount of functional description captures: there is something it is like to want to survive. Purpose-talk is not merely predictively convenient; it tracks a genuine feature of reality—[[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]]—that physicalist ontology cannot accommodate. Dennett's response is to deny that phenomenal consciousness is itself irreducible, absorbing the "from the inside" objection via heterophenomenology. The Map holds that this move fails for the same reasons physicalism fails generally: the [[hard-problem-of-consciousness|hard problem]] shows that no third-personal method captures what it is like to experience anything, including purpose.
 
 What distinguishes genuine agent teleology from functional simulations of purpose is [[reasons-responsiveness]]: the agent selects an outcome *because* of its conscious grasp of reasons, not merely because a mechanism happens to track reasons reliably.
 

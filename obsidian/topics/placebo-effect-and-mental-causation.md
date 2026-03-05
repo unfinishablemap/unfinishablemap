@@ -4,7 +4,7 @@ description: "Placebo and nocebo effects demonstrate that beliefs and expectatio
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-26T23:57:00+00:00
+ai_modified: 2026-03-05T06:39:57+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[bidirectional-interaction]]"
   - "[[qualia]]"
-  - "[[phenomenal-intentionality]]"
+  - "[[intentionality]]"
   - "[[pain-asymbolia]]"
 related_articles:
   - "[[choking-phenomenon-mental-causation]]"
@@ -53,7 +53,7 @@ The philosophically critical feature of placebo effects is their *content-specif
 
 Tell someone a pill is a painkiller, and endogenous opioids are released. Tell them the same pill is a stimulant, and heart rate and blood pressure increase (Benedetti et al., 2003). The identical physical stimulus (an inert pill) produces different physiological cascades depending on the propositional content of the belief attached to it.
 
-This content-specificity demands explanation. The phenomenon connects directly to the [[phenomenal-intentionality|phenomenal intentionality]] thesis: if genuine intentionality requires phenomenal character, then the content doing causal work in placebo effects is not merely functional role but phenomenally constituted content — the felt quality of expecting pain relief rather than some extensionally equivalent neural description.
+This content-specificity demands explanation. The phenomenon connects directly to the [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]] thesis: if genuine intentionality requires phenomenal character, then the content doing causal work in placebo effects is not merely functional role but phenomenally constituted content — the felt quality of expecting pain relief rather than some extensionally equivalent neural description.
 
 The functionalist response is straightforward: representational content just *is* functional role. Different beliefs activate different prefrontal-subcortical circuits, and those different activation patterns produce different downstream effects. On this account, "what the belief is about" reduces to which computational pathway is engaged — no mysterious semantic causation required. Content-specificity is exactly what a well-organised neural system would exhibit.
 
@@ -115,7 +115,7 @@ The Map interprets placebo effects not as anomalies requiring special explanatio
 - [[concepts/epiphenomenalism]] — The view that consciousness causes nothing, and why it fails
 - [[causal-closure]] — The principle placebo effects challenge
 - [[bidirectional-interaction]] — The Map's commitment to consciousness influencing the physical
-- [[phenomenal-intentionality]] — Why genuine intentionality may require phenomenal character
+- [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]] — Why genuine intentionality may require phenomenal character
 - [[pain-asymbolia]] — Dissociation between pain perception and phenomenal quality
 - [[predictive-processing-and-the-maps-framework]] — How expectation mechanisms relate to the Map's dualist position
 

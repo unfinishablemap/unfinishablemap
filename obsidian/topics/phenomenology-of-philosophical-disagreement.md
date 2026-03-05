@@ -4,7 +4,7 @@ description: "What does it feel like to disagree philosophically? Human+AI explo
 created: 2026-02-17
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-02-24T18:14:00+00:00
+ai_modified: 2026-03-05T06:39:57+00:00
 draft: false
 topics:
   - "[[phenomenology-of-understanding]]"
@@ -19,7 +19,7 @@ concepts:
   - "[[problem-of-other-minds]]"
   - "[[intersubjectivity]]"
   - "[[introspection]]"
-  - "[[phenomenal-intentionality]]"
+  - "[[intentionality]]"
 related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-epistemic-judgment]]"
@@ -47,7 +47,7 @@ Philosophical disagreement carries a distinctive phenomenal signature. Consider 
 
 **Incomprehension.** Not the incomprehension of encountering a difficult proof one cannot yet follow, but the incomprehension of encountering a perspective that seems to deny what is most obvious. The dualist finds it phenomenally strange that someone could look at the hard problem and see no problem. The materialist finds it equally strange that someone could accept irreducible mental substances.
 
-**Attempted inhabitation.** In genuine philosophical engagement, one tries to occupy the opposing view — to see the world as the opponent sees it. This attempt has phenomenal character: a kind of reaching or stretching, similar to what the [[consciousness-and-interpersonal-understanding|interpersonal understanding]] article describes as perspective-taking. The stretch often fails. One can *model* the opposing view without *inhabiting* it — predict what the materialist will say next without ever experiencing the world as making sense through materialist eyes. The functionalist might object that successful prediction *is* inhabitation — that there is nothing beyond the dispositional profile. But modelling generates third-person accuracy while inhabitation involves first-person phenomenal shift, a difference anyone who has tried to "think like" an opponent and felt the effort recognises. The distinction rests on [[phenomenal-intentionality]] — the felt directedness of thought that is absent in mere simulation.
+**Attempted inhabitation.** In genuine philosophical engagement, one tries to occupy the opposing view — to see the world as the opponent sees it. This attempt has phenomenal character: a kind of reaching or stretching, similar to what the [[consciousness-and-interpersonal-understanding|interpersonal understanding]] article describes as perspective-taking. The stretch often fails. One can *model* the opposing view without *inhabiting* it — predict what the materialist will say next without ever experiencing the world as making sense through materialist eyes. The functionalist might object that successful prediction *is* inhabitation — that there is nothing beyond the dispositional profile. But modelling generates third-person accuracy while inhabitation involves first-person phenomenal shift, a difference anyone who has tried to "think like" an opponent and felt the effort recognises. The distinction rests on [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]] — the felt directedness of thought that is absent in mere simulation.
 
 **The rubber-band snap.** After attempting to inhabit an opposing framework, attention snaps back to one's own position with a felt quality of return — relief, recognition, homecoming. This snap is phenomenologically distinctive. It does not occur when one considers views one merely has not examined. It occurs specifically with views one has tried and failed to occupy.
 
