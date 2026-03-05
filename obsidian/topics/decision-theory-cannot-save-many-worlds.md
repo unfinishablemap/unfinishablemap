@@ -4,11 +4,10 @@ description: "The Deutsch-Wallace program claims rational agents must use Born-r
 created: 2026-03-05
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-03-05T03:02:00+00:00
+ai_modified: 2026-03-05T04:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will]]"
 concepts:
   - "[[concepts/many-worlds]]"
   - "[[measurement-problem]]"
@@ -26,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-05
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-05T04:14:00+00:00
 ---
 
 The Deutsch-Wallace decision-theoretic program is the most technically sophisticated attempt to recover probability within the Many-Worlds Interpretation. It claims that rational agents in a branching universe must weight outcomes by the Born rule when making decisions, thereby grounding quantum probability in rationality rather than metaphysics. The Unfinishable Map's [[probability-problem-in-many-worlds|survey of MWI's probability crisis]] identifies this program as one of three major recovery strategies. This article examines why decision theory fails on its own terms, drawing on three independent lines of criticism: the axioms are not rationally required, betting behaviour cannot explain empirical frequencies, and the entire framework rests on a vicious circularity.
@@ -83,13 +82,15 @@ Price (2010) frames this as a devastating dilemma. Without justifying the Born r
 
 This circularity is particularly damaging for the decision-theoretic program because Wallace's axioms operate on *branches*. Measurement neutrality, branching indifference, and diachronic consistency all presuppose that there are well-defined branch structures over which agents have preferences. If branches themselves depend on the Born rule, then the axioms assume what the derivation claims to prove.
 
-Wallace responds that decoherence is a structural feature of unitary quantum evolution — a mathematical fact about the Schrödinger equation, not a probabilistic claim. Off-diagonal terms become small in an absolute mathematical sense, not merely in a Born-rule sense. Critics counter that "small" is relative to a norm, and the physically relevant norm is the one that generates the Born rule. The dispute turns on whether structural claims about Hilbert space can be cleanly separated from probabilistic claims about measurement outcomes — a separation that remains contested.
+Wallace (2012) responds at length that decoherence is a structural feature of unitary quantum evolution — a mathematical fact about the Schrödinger equation, not a probabilistic claim. On this view, off-diagonal terms in the density matrix become small in an absolute mathematical sense: they approach zero as the number of environmental degrees of freedom grows, regardless of how one interprets the resulting structure. The branch decomposition, Wallace argues, is read off from the dynamics just as the molecular decomposition of a gas is read off from statistical mechanics — no probabilistic postulate is needed to identify the branches, only to assign weights to them.
+
+Critics find this unconvincing. "Small" is relative to a norm on Hilbert space, and the physically relevant norm — the one that determines which interference terms are "negligible" in practice — is the Born-rule norm (the trace norm on density matrices). Baker (2007) presses the point: Wallace's structural decoherence still requires distinguishing "effectively zero" from "significantly nonzero," and that distinction presupposes a measure. Without the Born rule or something equivalent, there is no principled basis for declaring interference terms negligible. The dispute turns on whether structural claims about Hilbert space can be cleanly separated from probabilistic claims about measurement outcomes — a separation that, after nearly two decades of debate, remains contested.
 
 ## What Would Success Even Look Like?
 
 The decision-theoretic program faces a deeper question about what it would mean to succeed. Suppose, counterfactually, that all objections were answered: the axioms were shown to be genuinely constitutive of rationality, the betting-frequency gap was bridged, and the circularity was resolved.
 
-Even then, the result would be: *in a branching universe, rational agents must use the Born rule when making decisions*. This is a claim about rational agency, not about physics. It would not explain *why* the universe has a branching structure that makes the Born rule the rational weighting. It would not explain why amplitudes take the values they do. It would not explain why there is something it is like to be an observer on a particular branch rather than another.
+Even then, the result would be: *in a branching universe, rational agents must use the Born rule when making decisions*. This is a claim about rational agency, not about physics. It would not explain *why* the universe has a branching structure that makes the Born rule the rational weighting. It would not explain why amplitudes take the values they do. And it would leave untouched the question of why [[consciousness-and-probability-interpretation|consciousness and probability]] are entangled in the first place — why there is something it is like to be an observer on a particular branch rather than another.
 
 Collapse interpretations face none of these burdens. On collapse views, the Born rule is a law — a fundamental postulate about how nature works, honestly stated as such. Probability is what it ordinarily is: a measure of genuine uncertainty about which outcome will occur. The philosophical machinery required to make probability meaningful on MWI — decision theory, self-locating uncertainty, envariance — is simply unnecessary when outcomes are genuinely indeterminate.
 
