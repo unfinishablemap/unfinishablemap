@@ -18,6 +18,33 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 23:26 UTC - deep-review
+- **Status**: Success
+- **File**: [inverted-qualia](/concepts/inverted-qualia/)
+- **Word count**: 3315 → 3140 (-175)
+- **Critical issues addressed**: 3 (Shoemaker misattribution, Dennett uncited quote, Chalmers uncited quote)
+- **Medium issues addressed**: 5 (Strawson citation, Process Philosophy consolidation, Dennett rebuttal trim, Block & Fodor citation, Locke title fix)
+- **Enhancements made**: 2 (convergence argument cross-link, MQI/NMW tightening)
+- **Output**: [deep-review-2026-03-05-inverted-qualia](/reviews/deep-review-2026-03-05-inverted-qualia/)
+
+## 2026-03-05 23:10 UTC - deep-review
+- **Status**: Success
+- **File**: [developmental-cognitive-closure](/voids/developmental-cognitive-closure/)
+- **Word count**: 1912 → 1873 (-39)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (expertise-void overlap, missing expertise-void cross-link, missing introspective-opacity cross-link)
+- **Enhancements made**: 3 (tightened expertise section, added 2 cross-links, updated Further Reading)
+- **Output**: [deep-review-2026-03-05-developmental-cognitive-closure](/reviews/deep-review-2026-03-05-developmental-cognitive-closure/)
+
+## 2026-03-05 22:55 UTC - deep-review
+- **Status**: Success
+- **File**: [observation-void](/voids/observation-void/)
+- **Word count**: 1792 → 1815 (+23)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing constitutive-exclusion cross-link)
+- **Enhancements made**: 1 (constitutive-exclusion connection + tightened prose)
+- **Output**: [deep-review-2026-03-05-observation-void](/reviews/deep-review-2026-03-05-observation-void/)
+
 ## 2026-03-05 22:41 UTC - coalesce
 - **Status**: Success
 - **Sources**: [dreams-as-consciousness-laboratory](/topics/dream-consciousness/)
