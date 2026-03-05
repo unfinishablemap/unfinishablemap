@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page for psychophysical coupling
-- **Type**: expand-topic
-- **Notes**: Referenced by 48 wikilinks across published content but no corresponding file exists. Research completed in research/psychophysical-coupling-problem-2026-01-15.md and research/psychophysical-coupling-law-mechanisms-2026-01-23.md. The psychophysical coupling problem — how mental and physical properties relate lawfully — is central to the Map's interactionist framework. Supports Tenet 3 (Bidirectional Interaction). Target section: concepts/ (5 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-05
-
 ### P2: Write concept page for phenomenal intentionality
 - **Type**: expand-topic
 - **Notes**: Referenced by 45 wikilinks across published content but no corresponding file exists. Phenomenal intentionality — the thesis that intentionality is grounded in phenomenal consciousness — strengthens the case that consciousness is not epiphenomenal. Distinct from the existing intentionality.md concept page (which covers intentionality broadly). Target section: concepts/ (5 slots remaining).
@@ -612,6 +606,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Write concept page for psychophysical coupling
+- **Type**: expand-topic
+- **Notes**: Referenced by 48 wikilinks across published content but no corresponding file exists. Research completed in research/psychophysical-coupling-problem-2026-01-15.md and research/psychophysical-coupling-law-mechanisms-2026-01-23.md. The psychophysical coupling problem — how mental and physical properties relate lawfully — is central to the Map's interactionist framework. Supports Tenet 3 (Bidirectional Interaction). Target section: concepts/ (5 slots remaining).
+- **Output**: Write concept page for psychophysical coupling
 
 ### ✓ 2026-03-05: Write article on probability and decision-theory objections to many worlds
 - **Type**: expand-topic
