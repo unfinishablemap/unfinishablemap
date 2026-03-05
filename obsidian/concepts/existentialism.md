@@ -4,7 +4,7 @@ description: "Existentialist philosophy's contributions to consciousness studies
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-03-01T21:52:00+00:00
+ai_modified: 2026-03-05T07:07:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-30
 last_curated: null
-last_deep_review: 2026-01-30T16:45:00+00:00
+last_deep_review: 2026-03-05T07:07:00+00:00
 ---
 
 Existentialism offers The Unfinishable Map resources that extend beyond its traditional concerns with meaning, freedom, and authenticity. Two contributions stand out for consciousness studies: Sartre's analysis of the pour-soi (being-for-itself) anticipates the regress argument against [[illusionism]], and Heidegger's analysis of Dasein reveals why consciousness resists reduction to properties or functions. These insights strengthen the [[tenets#^dualism|Dualism tenet]] by demonstrating that consciousness has structural features incompatible with materialist reduction.
@@ -49,13 +49,13 @@ This structure generates what Sartre calls the "nothingness" at the heart of con
 
 [[Illusionism]] claims that phenomenal consciousness is an introspective illusion—that there is nothing it is like to be conscious, only functional states that misrepresent themselves as having qualitative character. Sartre's pour-soi structure reveals why this position is self-undermining.
 
-The illusionist must answer: to whom does the illusion appear? For a misrepresentation to occur, something must be misrepresented *to* something. The illusionist typically replies that the "seeming" is just another functional state—a representation of a representation, all the way down, with no genuine experiencer required. Frankish argues that illusions need not be phenomenal illusions—they can be cognitive or theoretical errors about one's own states.
+The illusionist must answer: to whom does the illusion appear? For a misrepresentation to occur, something must be misrepresented *to* something. Frankish (2016) responds that "seeming" can be deflated into purely functional terms—a cognitive or theoretical error about one's own states, not a phenomenal illusion requiring a phenomenal experiencer. The deflationary move aims to stop the regress by denying that functional "seeming" presupposes phenomenal consciousness at all.
 
-Sartre's analysis reveals why this move fails. The pour-soi is not a representation added to consciousness but consciousness's own mode of being. When I am aware of my awareness, this is not one thing observing another. It is the pour-soi's constitutive self-presence—the "being-aware" that accompanies every experience. To claim this is an illusion requires something to *experience* the illusion. But this experiencer would itself be a pour-soi. The regress terminates not in functional states but in the irreducibly first-person character of awareness.
+Sartre's analysis reveals why this deflation fails. The pour-soi is not a representation added to consciousness but consciousness's own mode of being. When I am aware of my awareness, this is not one thing observing another. It is the pour-soi's constitutive self-presence—the "being-aware" that accompanies every experience. Deflating "seeming" into functional terms does not eliminate the problem; it relocates it. Something must still *undergo* the functional state, and this undergoing is exactly the first-person character that deflation was meant to dissolve. The regress terminates not in functional states but in the irreducibly first-person character of awareness.
 
 Raymond Tallis has made this point against contemporary illusionists: "Misrepresentation presupposes presentation." For consciousness to misrepresent itself as phenomenal, there must be something to which this misrepresentation appears. That "something to which" is exactly the phenomenal consciousness illusionism denies.
 
-Sartre anticipated this a century earlier. The pour-soi cannot be objectified—turned into an en-soi—without ceasing to be consciousness. The attempt to explain away phenomenal consciousness treats the pour-soi as if it were an en-soi: a thing with properties that might be illusory. But consciousness is not a thing with properties. It is the perspective from which properties appear.
+Sartre anticipated this in 1943. The pour-soi cannot be objectified—turned into an en-soi—without ceasing to be consciousness. The attempt to explain away phenomenal consciousness treats the pour-soi as if it were an en-soi: a thing with properties that might be illusory. But consciousness is not a thing with properties. It is the perspective from which properties appear.
 
 ## Heidegger's Dasein: Being-in-the-World
 
@@ -101,11 +101,11 @@ The Map rejects MWI partly for this reason. Existentialist phenomenology reveals
 
 Existentialists insist that freedom is not an empirical fact to be discovered but a structural feature of consciousness. Sartre: "Man is condemned to be free." The pour-soi's constitutive self-distance means I can always take a stance toward my current situation, including toward my own past choices and present desires.
 
-This freedom is not uncaused randomness. It is the capacity to suspend automatic response, to consider alternatives, to act on reasons rather than impulses. The phenomenology of choice reveals this: the hesitation before decision, the sense of possibilities weighing against each other, the moment of commitment.
+This freedom is not uncaused randomness but the capacity to suspend automatic response, consider alternatives, and act on reasons rather than impulses. The phenomenology of choice reveals this: hesitation before decision, possibilities weighing against each other, the moment of commitment.
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] provides a mechanism for this freedom. Consciousness biases which neural patterns become actual by selecting among quantum-indeterminate possibilities. The brain generates options; the mind selects. This fits existentialist phenomenology: the situation presents possibilities, consciousness actualises one.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] proposes a mechanism for this freedom: consciousness biases which quantum-indeterminate neural outcomes become actual. The brain generates options; the mind selects. Whether the mechanism is quantum or otherwise, the phenomenology fits: the situation presents possibilities, consciousness actualises one.
 
-The experience of [[mental-effort]]—the felt strain of sustaining attention against distraction, of resisting the easier path—provides evidence for this selection function. If choices were predetermined by prior physical states, the phenomenology of effort would be systematically illusory. Contemplative traditions report that effortful attention has genuine effects on both experience and behavior, suggesting that the selection is real.
+The experience of [[mental-effort]]—the felt strain of sustaining attention against distraction—provides evidence for this selection function. If choices were predetermined by prior physical states, the phenomenology of effort would be systematically illusory. Contemplative traditions report that effortful attention has genuine effects on both experience and behavior, suggesting the selection is real.
 
 ## Bad Faith and the Flight from Freedom
 
@@ -129,7 +129,7 @@ Heidegger's analysis of Dasein makes the same point differently. Being-in-the-wo
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] proposes that consciousness biases quantum outcomes without injecting energy. The existentialist phenomenology of choice fits this mechanism: consciousness does not create possibilities ex nihilo but selects among those the situation presents.
 
-The specious present—the experienced "now" that extends beyond the mathematical instant—operates at timescales relevant to quantum neural processes. Husserl's analysis of retention and protention, which existentialists inherit, reveals temporal thickness in experience. This thickness may reflect the interval over which consciousness exercises its selection function.
+Husserl's analysis of retention and protention, which existentialists inherit, reveals temporal thickness in experience—the specious present extends beyond the mathematical instant. This temporal structure is suggestive: the interval of experienced "now" may reflect the window within which consciousness exercises its selection function, though this remains speculative.
 
 ### No Many Worlds
 
