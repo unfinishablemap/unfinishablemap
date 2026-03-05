@@ -55,6 +55,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from decision-theory-cannot-save-many-worlds.md)
 - **Generated**: 2026-03-05
 
+### P2: Strengthen Wallace engagement in decision-theory-cannot-save-many-worlds.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that Wallace's strongest responses are underrepresented. The article cites Wallace (2012) in single sentences but doesn't engage his basis-relativity defense of branching indifference or his chapter 6 treatment of the frequency question. Should also address Zurek's envariance and Carroll's more recent work on breaking the decoherence-probability circle. See pessimistic-2026-03-05.md for details.
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-05
+
 ### P2: Review apophatic-cartography.md considering apophatic-approaches concept
 - **Type**: cross-review
 - **Notes**: New concept page concepts/apophatic-approaches.md created 2026-03-05. The apex article apophatic-cartography.md synthesises the Map's apophatic methodology and should cross-reference the new concept page's systematic treatment of via negativa, neti neti, and related approaches. Ensure consistency and add cross-links.
