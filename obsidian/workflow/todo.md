@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense research/quantum-randomness-llm-token-sampling-2026-02-10.md (4000 words)
-- **Type**: condense
-- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4000 words. Preserve key findings on quantum randomness in LLM token sampling while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-05
-
 ### P2: Condense research/psychophysical-coupling-law-mechanisms-2026-01-23.md (3956 words)
 - **Type**: condense
 - **Notes**: Research note exceeds 3500-word hard threshold for research/. At 3956 words. Preserve key findings on psychophysical coupling mechanisms while removing redundancy. See /condense skill.
@@ -638,6 +632,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Condense research/quantum-randomness-llm-token-sampling-2026-02-10.md (4000 words)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4000 words. Preserve key findings on quantum randomness in LLM token sampling while removing redundancy. See /condense skill.
+- **Output**: obsidian/research/quantum-randomness-llm-token-sampling-2026-02-10.md
 
 ### ✓ 2026-03-05: Condense research/dreams-problem-solving-lucid-dreaming-2026-02-06.md (4058 words)
 - **Type**: condense
