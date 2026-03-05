@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review many-worlds.md considering probability-objections-many-worlds insights
-- **Type**: cross-review
-- **Notes**: New article concepts/probability-objections-many-worlds.md details why the Born rule probability problem is unresolved in MWI. many-worlds.md is the central Many Worlds concept page and should cross-reference the new article's treatment of branch-counting, self-locating uncertainty, and decision-theoretic failures. Supports Tenet 4 (No Many Worlds).
-- **Source**: chain (from probability-objections-many-worlds.md)
-- **Generated**: 2026-03-05
-
 ### P2: Review consciousness-and-scientific-methodology.md considering duhem-quine-underdetermination insights
 - **Type**: cross-review
 - **Notes**: New article topics/duhem-quine-underdetermination-consciousness.md applies Duhem-Quine underdetermination to consciousness science. consciousness-and-scientific-methodology.md covers the broader relationship between consciousness and scientific method and should cross-reference the new article's argument that parsimony-based theory choice in consciousness studies is more compromised than in other sciences. Supports Tenet 5 (Occam's Razor Has Limits).
@@ -632,6 +626,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Review many-worlds.md considering probability-objections-many-worlds insights
+- **Type**: cross-review
+- **Notes**: New article concepts/probability-objections-many-worlds.md details why the Born rule probability problem is unresolved in MWI. many-worlds.md is the central Many Worlds concept page and should cross-reference the new article's treatment of branch-counting, self-locating uncertainty, and decision-theoretic failures. Supports Tenet 4 (No Many Worlds).
+- **Output**: obsidian/concepts/many-worlds.md -- Context: Review many-worlds.md considering probability-objections-many-worlds insights
 
 ### ✓ 2026-03-05: Integrate phenomenal-value-realism.md into site navigation
 - **Type**: integrate-orphan
