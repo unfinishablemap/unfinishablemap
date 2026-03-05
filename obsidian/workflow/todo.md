@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense voids-appetitive-void-2026-02-10.md (4348 words, 174% of target)
-- **Type**: condense
-- **Notes**: Research note exceeds 3500-word hard warning threshold for research/. Covers the appetitive void — the gap between desire and satisfaction, wanting and having. Preserve core findings while removing redundancy and tightening prose. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-05
-
 ### P2: Condense voids-individuation-void-2026-02-16.md (4264 words, 171% of target)
 - **Type**: condense
 - **Notes**: Research note exceeds 3500-word hard warning threshold for research/. Covers the individuation void — how individual conscious perspectives emerge and maintain boundaries. Preserve core findings while removing redundancy. See /condense skill.
@@ -612,6 +606,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Condense voids-appetitive-void-2026-02-10.md (4348 words, 174% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard warning threshold for research/. Covers the appetitive void — the gap between desire and satisfaction, wanting and having. Preserve core findings while removing redundancy and tightening prose. See /condense skill.
+- **Output**: obsidian/research/voids-appetitive-void-2026-02-10.md
 
 ### ✓ 2026-03-05: Integrate phenomenology-of-inferential-understanding.md into site navigation
 - **Type**: integrate-orphan
