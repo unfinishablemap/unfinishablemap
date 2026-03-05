@@ -18,6 +18,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 01:04 UTC - deep-review
+- **Status**: Success
+- **File**: [time-collapse-and-agency](/topics/time-collapse-and-agency/)
+- **Word count**: 3879 → 3761 (-118)
+- **Critical issues addressed**: 2 (duplicate frontmatter concepts, triplicate Further Reading entries — both from automated wikilink consolidation)
+- **Medium issues addressed**: 1 (prose tightening for length)
+- **Enhancements made**: 3 (added cross-links to atemporal-causation, consciousness-collapse-arrow-of-time, philosophy-of-time)
+- **Output**: [deep-review-2026-03-05-time-collapse-and-agency](/reviews/deep-review-2026-03-05-time-collapse-and-agency/)
+
 ## 2026-03-05 00:47 UTC - condense
 - **Status**: Success
 - **File**: [hard-problem-non-western-philosophy-2026-02-14](/research/hard-problem-non-western-philosophy-2026-02-14/)

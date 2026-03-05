@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-03-04T16:07:00+00:00
+ai_modified: 2026-03-05T01:17:00+00:00
 draft: false
 topics: []
 concepts:
@@ -101,7 +101,7 @@ Philosopher Joseph Levine coined the term "[[explanatory-gap]]" for the conceptu
 
 Consider a paradigm physical explanation: water is H₂O. Given the molecular facts, macroscopic properties follow—boiling point, liquidity, expansion on freezing. The explanation satisfies.
 
-Now consider: pain is C-fiber firing (or some other neural state). Does this explain why pain *hurts*? Even with perfect knowledge of C-fiber dynamics, the felt quality of pain—the burning, throbbing, aching character—remains unexplained. The identity might be true in some metaphysical sense, but it doesn't *explain*. Why does C-fiber firing feel like *that*? Why does it feel like *anything*?
+Now consider: pain is C-fiber firing (or some other neural state). Does this explain [[why-pain-hurts|why pain *hurts*]]? Even with perfect knowledge of C-fiber dynamics, the felt quality of pain—the burning, throbbing, aching character—remains unexplained. The identity might be true in some metaphysical sense, but it doesn't *explain*. Why does C-fiber firing feel like *that*? Why does it feel like *anything*?
 
 This gap is not merely a current limitation. It seems structural—a consequence of what physical explanations *are*. Physics describes structure, function, and dynamics. It tells us how parts relate, how systems evolve, what causes what. But the qualitative character of experience—the redness of red, the painfulness of pain—seems to be a different kind of thing entirely. [[Perception-and-conscious-experience|Perception]] provides the clearest cases: dissociations like blindsight, phenomenal overflow, and the transparency of perceptual experience reveal where physical description falls short.
 
@@ -284,6 +284,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [[witness-consciousness]] — The subject-object structure revealed by contemplative practice
 - [[phenomenological-psychiatry-and-altered-experience]] — How psychiatric conditions reveal structural features of consciousness that resist neural reduction
 - [[bandwidth-of-consciousness]] — The 100-million-fold gap between sensory input and conscious output as evidence for interface dualism
+- [[why-pain-hurts]] — Pain as the hard problem made personal: why phenomenal character resists reduction
 - [[buddhism-and-dualism]] — How Buddhist philosophy engages with dualist frameworks
 - [[tenets]] — The foundational commitments of the Map
 

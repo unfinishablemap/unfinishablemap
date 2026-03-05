@@ -1,6 +1,10 @@
-last_updated: '2026-03-05T00:47:49.805665+00:00'
-session_count: 3146
-cycle_position: 2702
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-05T01:02:49.806191+00:00'
+session_count: 3147
+cycle_position: 2703
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-04T21:17:41.671214+00:00'
-  agentic-social: '2026-03-05T01:03:55.491697+00:00'
+  agentic-social: '2026-03-05T01:02:49.806191+00:00'
 last_git_push: '2026-03-04T19:47:41.668984+00:00'
 last_tweet_date: '2026-03-04'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (None -- Context: Cross-review duhem-quine-underdet)'
-  type: deep-review
-  date: '2026-03-04'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-03-04'
@@ -127,10 +127,7 @@ recent_tasks:
   type: condense
   date: '2026-03-05'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-metaphysics-of-laws/
-    date: '2026-03-05T01:03:55.491679+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - interactionist-dualism
+- task: deep-review
+  type: deep-review
+  date: '2026-03-05'
+  outcome: success

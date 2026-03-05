@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-04T22:18:50+00:00
+ai_modified: 2026-03-05T01:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -133,7 +133,7 @@ If consciousness is irreducible to physical processes, finding neural correlates
 
 Do animals experience the *badness* of pain, or merely detect tissue damage? Panksepp identified seven primary emotional systems arising from ancient subcortical structures. Key evidence: decorticate rats—cortex removed—still play, show distress, and display pleasure responses. If emotional consciousness required cortex, decortication should eliminate it. This suggests emotional consciousness is "an evolutionary birthright" extending to any creature with subcortical limbic structures.
 
-LeDoux disagrees, arguing conscious feelings require cortical higher-order representations. But evidence from [[emotional-consciousness#valence|pain asymbolia]]—where patients feel pain but find it doesn't bother them—shows nociception and suffering are distinct. The question isn't whether animals have pain responses (they do), but whether they experience the *felt badness* that makes pain suffering.
+LeDoux disagrees, arguing conscious feelings require cortical higher-order representations. But evidence from [[why-pain-hurts|pain asymbolia]]—where patients feel pain but find it doesn't bother them—shows nociception and suffering are distinct. The question isn't whether animals have pain responses (they do), but whether they experience the *felt badness* that makes pain suffering.
 
 ## Moral Status
 
@@ -208,6 +208,7 @@ Whether animal nervous systems provide the right conditions for quantum consciou
 - [[topics/consciousness-and-social-cognition]] — Theory of mind levels and shared intentionality
 
 ### Related Topics
+- [[why-pain-hurts]] — Why pain's phenomenal character is inseparable from its causal role across species
 - [[hard-problem-of-consciousness]] — Why the explanatory gap applies universally
 - [[ai-consciousness]] — Parallel questions about non-biological minds
 - [[higher-order-theories]] — Why HOT theories fail

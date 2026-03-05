@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate consciousness-and-pain.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article on the relationship between consciousness and pain — covering pain asymbolia, phantom pain, and what pain's phenomenal character reveals about consciousness. Add cross-references from pain-consciousness-and-causal-power.md, phenomenal-value-realism.md, emotion-as-evidence-for-dualism.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-05
-
 ### P2: Integrate surprise-and-creativity.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article on the relationship between surprise and creative cognition — relevant to the Map's treatment of consciousness and creativity, the incubation effect, and phenomenology of insight. Add cross-references from consciousness-and-creativity.md, consciousness-and-creative-distinctiveness.md, and phenomenology-of-understanding.md.
@@ -612,6 +606,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Integrate consciousness-and-pain.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the relationship between consciousness and pain — covering pain asymbolia, phantom pain, and what pain's phenomenal character reveals about consciousness. Add cross-references from pain-consciousness-and-causal-power.md, phenomenal-value-realism.md, emotion-as-evidence-for-dualism.md, and related articles.
+- **Output**: consciousness-and-pain.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-05: Condense hard-problem-non-western-philosophy-2026-02-14.md (6149 words, 246% of target)
 - **Type**: condense
