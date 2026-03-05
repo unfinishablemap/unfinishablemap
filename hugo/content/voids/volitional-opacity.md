@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-07 06:14:00+00:00
+ai_modified: 2026-03-05 15:04:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,13 +10,13 @@ concepts:
 - '[[introspection]]'
 - '[[agent-causation]]'
 created: 2026-02-02
-date: &id001 2026-02-07
+date: &id001 2026-03-05
 description: Human+AI exploration of why we cannot observe our own willing—the mechanism
   by which decisions become actions remains hidden from introspection.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-07 06:14:00+00:00
+last_deep_review: 2026-03-05 15:04:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -29,6 +29,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[limits-reveal-structure]]'
 - '[[creativity-void]]'
+- '[[involuntariness-void]]'
 - '[[phenomenology-of-consciousness-doing-work]]'
 title: Volitional Opacity
 topics:
@@ -73,9 +74,9 @@ With this caveat:
 
 **The gap at initiation**: When we try to catch the moment of deciding, we find it elusive. Decisions seem to *appear*—we experience having decided, not deciding. The initiation is always already past. Meditators across traditions report the same finding: sustained attention on the moment of decision reveals less and less. The intention seems to arise rather than be caused. Whether this elusiveness reflects genuine absence of conscious initiation, or merely introspection's inability to track rapid processes, cannot be determined from introspection itself.
 
-**The effort phenomenon**: Trying involves "mobilizing force in the face of resistance," as Uriah Kriegel puts it. We experience exertion, strain, and directed effort. This phenomenology is vivid—but whether it reflects actual causation or merely accompanies neural events remains hidden. The effort is felt; its efficacy is opaque. Even the phenomenology of effort may be retrospectively constructed: we may *feel* like we tried hard only after observing ourselves persist.
+**The effort phenomenon**: Trying involves "mobilizing force in the face of resistance," as Uriah Kriegel puts it. We experience exertion, strain, and directed effort—but whether this reflects actual causation or merely accompanies neural events remains hidden. The effort is felt; its efficacy is opaque. The phenomenology of effort may itself be retrospectively constructed.
 
-**The transparency illusion**: Despite structural opacity, we *feel* transparent to ourselves as agents. We feel we know why we act, how we decide, what moves us. This felt transparency may be the mind's "best trick" (Wegner). The seamlessness of confabulation—fabricated explanations feel no different from veridical ones—creates confidence where none is warranted.
+**The transparency illusion**: Despite structural opacity, we *feel* transparent to ourselves as agents—we feel we know why we act, how we decide, what moves us. This may be the mind's "best trick" (Wegner). Fabricated explanations feel no different from veridical ones, creating confidence where none is warranted.
 
 **The akratic revelation**: In weakness of will, we watch ourselves act against our own judgment—aware of both the judgment and the contrary action. Aristotle recognized akrasia—acting against one's own better judgment—as a common human experience. Akrasia reveals that "we" and "our will" are not identical—something acts that is not the judging self. The unity of the willing self dissolves under examination.
 
@@ -121,13 +122,15 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet preserves volitional opacity
 
 The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is demonstrated by volitional opacity. The simplest assumption—that we directly observe ourselves causing our actions—is almost certainly wrong. Wegner shows the sense of agency is constructed; Libet shows decisions are initiated unconsciously; James shows we cannot catch willing in the act.
 
-Our confidence in self-knowledge of agency exemplifies how parsimony can mislead. The experience of transparency to ourselves as agents is compelling, universal, and unfounded. Some truths about agency may be irreducibly complex or cognitively inaccessible.
+The experience of transparency to ourselves as agents is compelling, universal, and unfounded. Some truths about agency may be irreducibly complex or cognitively inaccessible.
 
 ## The Causal Interface Void Extended Inward
 
 The [causal interface void](/voids/causal-interface/) concerns how consciousness affects the external world. Volitional opacity shows that the same void extends inward—we also cannot observe how consciousness affects our own actions. The interface is opaque from every direction: first-person introspection finds no mechanism, third-person neuroscience finds correlates but not causation, philosophy finds no satisfying account.
 
-The persistence across methods suggests the limit is structural rather than contingent. We may be running up against the boundaries of what our cognitive equipment can represent.
+The [involuntariness void](/voids/involuntariness-void/) reveals a complementary limit: we cannot observe the mechanisms of willing, and we also cannot control what we experience. Volitional opacity concerns our inability to see *how* decisions cause actions; involuntariness concerns our inability to govern *what* consciousness presents to us. Both point to the same architectural feature—the mechanisms generating experience are hidden from the experience they generate.
+
+The persistence across methods suggests the limit is structural rather than contingent.
 
 ## What Would Challenge This View
 
@@ -141,7 +144,7 @@ The volitional opacity thesis would face difficulty if:
 
 4. **Mechanism was articulated.** If philosophers or physicists explained *how* consciousness biases physical outcomes without leaving the crucial step unexplained.
 
-None of these conditions has been met. Four centuries of philosophy, decades of neuroscience, and millennia of contemplative practice have not resolved how we will. The persistence is evidence that the limit is structural.
+None of these conditions has been met. The persistence across four centuries of philosophy, decades of neuroscience, and millennia of contemplative practice is evidence that the limit is structural.
 
 ## Further Reading
 
@@ -154,6 +157,7 @@ None of these conditions has been met. Four centuries of philosophy, decades of 
 - [Agent Causation](/concepts/agent-causation/) — The philosophical concept of the self as cause
 - [The Phenomenology of Choice](/concepts/phenomenology-of-choice/) — What choosing feels like
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
+- [The Involuntariness Void](/voids/involuntariness-void/) — Why consciousness cannot control its own states
 - [The Creativity Void](/voids/creativity-void/) — Parallel opacity: creative process hidden, product accessible
 
 ## References

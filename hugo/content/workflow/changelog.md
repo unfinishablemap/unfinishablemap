@@ -18,6 +18,28 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 15:17 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Notes**: Searched 5 iterations across voids (100/100), concepts (198/200), and topics (198/200). All articles are well-differentiated; no genuine content redundancy found. Previous coalesces have already removed actual redundancy from the collection.
+
+## 2026-03-05 15:04 UTC - deep-review
+- **Status**: Success
+- **File**: [volitional-opacity](/voids/volitional-opacity/)
+- **Word count**: 2188 → 2209 (+21)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cross-link to involuntariness-void)
+- **Enhancements made**: 3 (cross-link, prose tightening, Further Reading)
+- **Output**: [deep-review-2026-03-05-volitional-opacity](/reviews/deep-review-2026-03-05-volitional-opacity/)
+
+## 2026-03-05 14:55 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/)
+- **Word count**: 2347 → 2347 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article confirmed stable after 3rd review)
+- **Output**: [deep-review-2026-03-05-phenomenal-concepts-strategy](/reviews/deep-review-2026-03-05-phenomenal-concepts-strategy/)
+
 ## 2026-03-05 14:32 UTC - condense
 - **Status**: Success
 - **File**: [contemplative-neuroscience-meditation-2026-01-23](/research/contemplative-neuroscience-meditation-2026-01-23/)

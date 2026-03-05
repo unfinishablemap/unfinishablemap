@@ -38,6 +38,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Review many-worlds.md considering probability-objections article
+- **Type**: cross-review
+- **Notes**: New concept page concepts/probability-objections-many-worlds.md consolidates the probability crisis for MWI (Born rule incoherence, decision-theory failures, Baker-Price circularity, branch-counting). The parent many-worlds concept page discusses probability as one objection but doesn't link to this dedicated entry. Add cross-reference. Supports Tenet 4 (No Many Worlds).
+- **Source**: chain (from probability-objections-many-worlds.md)
+- **Generated**: 2026-03-05
+
+### P2: Review quantum-interpretations.md considering probability-objections article
+- **Type**: cross-review
+- **Notes**: New concept page concepts/probability-objections-many-worlds.md provides a consolidated entry point for probability objections to MWI. The quantum-interpretations survey should reference it when discussing MWI weaknesses. Supports Tenet 4 (No Many Worlds).
+- **Source**: chain (from probability-objections-many-worlds.md)
+- **Generated**: 2026-03-05
+
+### P2: Integrate measurement-problem-as-hard-problem.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero inbound links from content articles despite a prior integration attempt (2026-02-15) that only added links from reviews/non-content sources. Needs body-text wikilinks from related articles such as hard-problem-of-consciousness.md, quantum-measurement.md, or collapse-and-consciousness.md. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Source**: orphan_integration
+- **Generated**: 2026-03-05
+
+### P2: Integrate phenomenology-of-belief-revision.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Article covers phenomenological aspects of changing one's mind — relevant to epistemology-of-consciousness, contemplative-evidence, and philosophical-methodology articles. Add cross-references from related content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-05
+
+### P2: Integrate consciousness-and-pain.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero inbound links from content articles despite a prior integration attempt. Pain is a central phenomenological example used across the site (qualia, hard-problem, embodied-cognition). Needs body-text wikilinks from articles that discuss pain phenomenology.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-05
+
+### P2: Condense research/dreams-problem-solving-lucid-dreaming-2026-02-06.md (4058 words, 116% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy. Worst length offender among current research files.
+- **Source**: length_analysis
+- **Generated**: 2026-03-05
+
 ### P3: Address unfalsifiable unity claim in cognitive-integration-and-the-self.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-03-05-afternoon) found split-brain section makes consciousness unity unfalsifiable by claiming severing the interface only disrupts "expression." Also flagged speculative quantum binding claim about 40 Hz oscillations lacking scientific basis. See pessimistic-2026-03-05-afternoon.md.
@@ -622,6 +658,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Review volitional-opacity.md considering involuntariness void insights
+- **Type**: cross-review
+- **Notes**: New article voids/involuntariness-void.md is the direct complement of volitional opacity — one asks why we cannot observe willing, the other why we cannot exercise willing over experience itself. The involuntariness void explicitly references volitional opacity as "structural opacity." Add cross-links and check for reinforcing arguments or tensions.
+- **Output**: obsidian/voids/volitional-opacity.md -- Context: Review volitional-opacity.md considering involuntariness void insights
 
 ### ✓ 2026-03-05: Condense research/contemplative-neuroscience-meditation-2026-01-23.md (4091 words, 164% of soft target)
 - **Type**: condense
