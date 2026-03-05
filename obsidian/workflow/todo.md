@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense interaction-problem-non-western-philosophy-2026-02-17.md (7437 words, 298% of target)
-- **Type**: condense
-- **Notes**: Research note exceeds critical word count threshold. At 7437 words, it is the longest research file on the site. Preserve core philosophical arguments about how non-Western traditions approach the interaction problem while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-05
-
 ### P1: Condense phenomenological-psychiatry-altered-experience-2026-02-21.md (6349 words, 254% of target)
 - **Type**: condense
 - **Notes**: Research note exceeds critical word count threshold. Covers Sass/Parnas on ipseity disturbance, Fuchs on embodied temporality, depersonalisation phenomenology. Preserve key findings while tightening. See /condense skill.
@@ -615,6 +609,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Condense interaction-problem-non-western-philosophy-2026-02-17.md (7437 words, 298% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds critical word count threshold. At 7437 words, it is the longest research file on the site. Preserve core philosophical arguments about how non-Western traditions approach the interaction problem while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/research/interaction-problem-non-western-philosophy-2026-02-17.md
 
 ### ✓ 2026-03-04: Address gaps in epistemology-of-other-minds-under-dualism.md
 - **Type**: refine-draft
