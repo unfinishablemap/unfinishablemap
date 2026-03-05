@@ -1323,6 +1323,16 @@ Pessimistic review found: (1) uncited Adam Pautz attribution (High severity), (2
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The Baker-Price circularity (Born rule -> decoherence -> branches -> probability -> Born rule) appears in probability-problem-in-many-worlds and decision-theory-cannot-save-many-worlds but deserves standalone treatment as a concept. Currently spread across multiple articles. Supports Tenet 4 (No Many Worlds). See optimistic-2026-03-05-morning.md
 
+### P3: Write article on aesthetic experience as evidence for irreducibility
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has binding-and-beauty, aesthetic-dimension-of-consciousness, and phenomenology-of-musical-understanding but lacks a unified treatment arguing that aesthetic experience resists functionalist reduction as forcefully as pain does. Would parallel the pain-consciousness article's structure. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). See optimistic-2026-03-05-evening.md
+
+### P3: Write concept page for transformative experience
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. L.A. Paul's framework is cited in expertise-void.md and has broader applications across the Map (altered states, contemplative practice, expertise acquisition). A concept page would serve as a cross-referencing hub for articles dealing with irreversible experiential change. See optimistic-2026-03-05-evening.md
+
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention.
