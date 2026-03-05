@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 22:55 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/observation-void]]
+- **Word count**: 1792 → 1815 (+23)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing constitutive-exclusion cross-link)
+- **Enhancements made**: 1 (constitutive-exclusion connection + tightened prose)
+- **Output**: [[reviews/deep-review-2026-03-05-observation-void]]
+
 ## 2026-03-05 22:41 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[dreams-as-consciousness-laboratory]]

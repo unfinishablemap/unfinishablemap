@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review observation-void.md considering constitutive-exclusion insights
-- **Type**: cross-review
-- **Notes**: New article topics/constitutive-exclusion.md argues consciousness structurally cannot access reality independent of its own contribution. voids/observation-void.md examines the impossibility of observing consciousness without altering it. The constitutive exclusion provides a deeper philosophical grounding for the observation void — check for cross-links, argument reinforcement, and whether observation-void should reference constitutive exclusion as a foundational framework. Supports Tenet 1 (Dualism).
-- **Source**: chain (from constitutive-exclusion.md)
-- **Generated**: 2026-03-05
-
 ### P2: Cross-review developmental-cognitive-closure.md considering expertise-void insights
 - **Type**: cross-review
 - **Notes**: New article topics/expertise-void.md argues that deep expertise irreversibly transforms conscious experience, creating a one-way phenomenological door. voids/developmental-cognitive-closure.md covers how cognitive development closes off earlier modes of understanding. The expertise void provides an adult-onset parallel to developmental closure — both involve irreversible phenomenological transformation. Check for cross-links and whether developmental-cognitive-closure should reference expertise-void as a parallel mechanism.
@@ -656,6 +650,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Cross-review observation-void.md considering constitutive-exclusion insights
+- **Type**: cross-review
+- **Notes**: New article topics/constitutive-exclusion.md argues consciousness structurally cannot access reality independent of its own contribution. voids/observation-void.md examines the impossibility of observing consciousness without altering it. The constitutive exclusion provides a deeper philosophical grounding for the observation void — check for cross-links, argument reinforcement, and whether observation-void should reference constitutive exclusion as a foundational framework. Supports Tenet 1 (Dualism).
+- **Output**: obsidian/voids/observation-void.md -- Context: Cross-review observation-void.md considering constitutive-exclusion insights
 
 ### ✓ 2026-03-05: Integrate constitutive-exclusion.md into site navigation
 - **Type**: integrate-orphan
