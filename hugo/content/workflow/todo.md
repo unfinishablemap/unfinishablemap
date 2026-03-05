@@ -38,40 +38,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review many-worlds.md considering probability-objections article
+### P2: Review many-worlds.md considering probability-objections-many-worlds insights
 - **Type**: cross-review
-- **Notes**: New concept page concepts/probability-objections-many-worlds.md consolidates the probability crisis for MWI (Born rule incoherence, decision-theory failures, Baker-Price circularity, branch-counting). The parent many-worlds concept page discusses probability as one objection but doesn't link to this dedicated entry. Add cross-reference. Supports Tenet 4 (No Many Worlds).
+- **Notes**: New article concepts/probability-objections-many-worlds.md details why the Born rule probability problem is unresolved in MWI. many-worlds.md is the central Many Worlds concept page and should cross-reference the new article's treatment of branch-counting, self-locating uncertainty, and decision-theoretic failures. Supports Tenet 4 (No Many Worlds).
 - **Source**: chain (from probability-objections-many-worlds.md)
 - **Generated**: 2026-03-05
 
-### P2: Review quantum-interpretations.md considering probability-objections article
+### P2: Review consciousness-and-scientific-methodology.md considering duhem-quine-underdetermination insights
 - **Type**: cross-review
-- **Notes**: New concept page concepts/probability-objections-many-worlds.md provides a consolidated entry point for probability objections to MWI. The quantum-interpretations survey should reference it when discussing MWI weaknesses. Supports Tenet 4 (No Many Worlds).
-- **Source**: chain (from probability-objections-many-worlds.md)
+- **Notes**: New article topics/duhem-quine-underdetermination-consciousness.md applies Duhem-Quine underdetermination to consciousness science. consciousness-and-scientific-methodology.md covers the broader relationship between consciousness and scientific method and should cross-reference the new article's argument that parsimony-based theory choice in consciousness studies is more compromised than in other sciences. Supports Tenet 5 (Occam's Razor Has Limits).
+- **Source**: chain (from duhem-quine-underdetermination-consciousness.md)
 - **Generated**: 2026-03-05
 
-### P2: Integrate measurement-problem-as-hard-problem.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has zero inbound links from content articles despite a prior integration attempt (2026-02-15) that only added links from reviews/non-content sources. Needs body-text wikilinks from related articles such as hard-problem-of-consciousness.md, quantum-measurement.md, or collapse-and-consciousness.md. Supports Tenet 2 (Minimal Quantum Interaction).
-- **Source**: orphan_integration
-- **Generated**: 2026-03-05
-
-### P2: Integrate phenomenology-of-belief-revision.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Article covers phenomenological aspects of changing one's mind — relevant to epistemology-of-consciousness, contemplative-evidence, and philosophical-methodology articles. Add cross-references from related content.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-05
-
-### P2: Integrate consciousness-and-pain.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has zero inbound links from content articles despite a prior integration attempt. Pain is a central phenomenological example used across the site (qualia, hard-problem, embodied-cognition). Needs body-text wikilinks from articles that discuss pain phenomenology.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-05
-
-### P2: Condense research/dreams-problem-solving-lucid-dreaming-2026-02-06.md (4058 words, 116% of target)
-- **Type**: condense
-- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy. Worst length offender among current research files.
-- **Source**: length_analysis
+### P2: Review consciousness-and-causal-powers.md considering pain-consciousness-and-causal-power insights
+- **Type**: cross-review
+- **Notes**: New coalesced article topics/pain-consciousness-and-causal-power.md synthesises the pain asymbolia argument, placebo mechanisms, and nocebo effects into a unified case for consciousness's causal power through pain. consciousness-and-causal-powers.md is the general treatment of what types of causal influence consciousness can have and should cross-reference the new article's concrete evidence from pain phenomena. Supports Tenet 3 (Bidirectional Interaction).
+- **Source**: chain (from pain-consciousness-and-causal-power.md)
 - **Generated**: 2026-03-05
 
 ### P3: Address unfalsifiable unity claim in cognitive-integration-and-the-self.md
@@ -547,12 +529,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Aesthetic irreducibility, normative-qualitative entanglement, philosophy of art under dualism. Builds on aesthetic-dimension-of-consciousness.md, binding-and-beauty.md, aesthetic-void.md. See [optimistic-2026-03-03](/reviews/optimistic-2026-03-03/).
 - **Generated**: 2026-03-03
 
-### P3: Write article on philosophy of science methodology under dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Realism vs. instrumentalism, subjective observation in science, reproducibility and consciousness, aesthetic principles in theory choice. Builds on consciousness-and-scientific-methodology.md, philosophy-of-science-under-dualism.md. See [optimistic-2026-03-03](/reviews/optimistic-2026-03-03/).
-- **Generated**: 2026-03-03
-
 ### P3: Write concept page for cognitive closure
 - **Type**: expand-topic
 - **Status**: pending
@@ -577,11 +553,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The qualitative, experiential dimension of attending — distinct from computational attention (resource allocation) and attention schema (brain's model of attention). Currently conflated across many articles. Would sharpen the argument against AST, clarify the quantum Zeno mechanism, and address the bandwidth asymmetry. Builds on attention-as-selection-interface.md, attention-schema-theory.md, mental-effort.md, asymmetric-bandwidth-of-consciousness.md. See [optimistic-2026-03-04](/reviews/optimistic-2026-03-04/).
 - **Generated**: 2026-03-04
 
-### P2: Integrate materialism-argument.md into site navigation
+### ✓ 2026-03-05: Integrate materialism-argument.md into site navigation
 - **Type**: integrate-orphan
-- **Notes**: File has no inbound body-text wikilinks from any content article — only referenced in frontmatter of two files. Arguments article (created 2026-01-06) presenting the materialist case against dualism. As a counterposition the Map engages with frequently, it should be easily discoverable. Add cross-references from arguments-for-dualism.md, physicalism.md, hard-problem-of-consciousness.md, and related articles engaging materialist arguments.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-04
+- **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
+- **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
 
 ### P3: Deep review global-workspace-theory.md
 - **Type**: deep-review
@@ -658,6 +633,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Integrate phenomenal-value-realism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Article (created 2026-02-02) with zero inbound wikilinks from published content. Argues that phenomenal value is real and irreducible — a foundational claim for the Map's ethics cluster. Should be linked from ethics-of-consciousness.md, consciousness-and-normative-force.md, moral-perception.md, and emotion-as-evidence-for-dualism.md. Supports Tenet 1 (Dualism).
+- **Output**: obsidian/topics/phenomenal-value-realism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-05: Integrate pain-consciousness-and-causal-power.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Recently coalesced article (from 3 pain articles, 2026-03-04) with zero inbound wikilinks. Argues pain demonstrates consciousness's causal power — should be linked from consciousness-and-causal-powers.md, emotion-as-evidence-for-dualism.md, why-pain-hurts.md, and bidirectional interaction articles. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/topics/pain-consciousness-and-causal-power.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-05: Integrate materialism-argument.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound body-text wikilinks from any content article — only referenced in frontmatter of two files. Arguments article (created 2026-01-06) presenting the materialist case against dualism. As a counterposition the Map engages with frequently, it should be easily discoverable. Add cross-references from arguments-for-dualism.md, physicalism.md, hard-problem-of-consciousness.md, and related articles engaging materialist arguments.
+- **Output**: obsidian/arguments/materialism-argument.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-05: Integrate consciousness-and-pain.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero inbound links from content articles despite a prior integration attempt. Pain is a central phenomenological example used across the site (qualia, hard-problem, embodied-cognition). Needs body-text wikilinks from articles that discuss pain phenomenology.
+- **Output**: consciousness-and-pain.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-05: Integrate phenomenology-of-belief-revision.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Article covers phenomenological aspects of changing one's mind — relevant to epistemology-of-consciousness, contemplative-evidence, and philosophical-methodology articles. Add cross-references from related content.
+- **Output**: phenomenology-of-belief-revision.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-05: Integrate measurement-problem-as-hard-problem.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero inbound links from content articles despite a prior integration attempt (2026-02-15) that only added links from reviews/non-content sources. Needs body-text wikilinks from related articles such as hard-problem-of-consciousness.md, quantum-measurement.md, or collapse-and-consciousness.md. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: measurement-problem-as-hard-problem.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-05: Review quantum-interpretations.md considering probability-objections article
+- **Type**: cross-review
+- **Notes**: New concept page concepts/probability-objections-many-worlds.md provides a consolidated entry point for probability objections to MWI. The quantum-interpretations survey should reference it when discussing MWI weaknesses. Supports Tenet 4 (No Many Worlds).
+- **Output**: obsidian/concepts/quantum-interpretations.md -- Context: Review quantum-interpretations.md considering probability-objections article
+
+### ✓ 2026-03-05: Review many-worlds.md considering probability-objections article
+- **Type**: cross-review
+- **Notes**: New concept page concepts/probability-objections-many-worlds.md consolidates the probability crisis for MWI (Born rule incoherence, decision-theory failures, Baker-Price circularity, branch-counting). The parent many-worlds concept page discusses probability as one objection but doesn't link to this dedicated entry. Add cross-reference. Supports Tenet 4 (No Many Worlds).
+- **Output**: obsidian/concepts/many-worlds.md -- Context: Review many-worlds.md considering probability-objections article
 
 ### ✓ 2026-03-05: Review volitional-opacity.md considering involuntariness void insights
 - **Type**: cross-review

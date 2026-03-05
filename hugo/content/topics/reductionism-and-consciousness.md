@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-03-05 01:17:00+00:00
+ai_modified: 2026-03-05 18:49:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -131,9 +131,9 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) confronts the parsi
 - [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) — Whether conceivability entails metaphysical possibility
 - [emergence](/concepts/emergence/) — Strong emergence as the framework for irreducible properties
 - [materialism](/concepts/materialism/) — The view reductionism about consciousness underwrites
+- [Against Materialism](/arguments/materialism-argument/) — The systematic argument from hard problem through quantum indeterminacy
 - [causal-closure](/concepts/causal-closure/) — The principle reductionists assume and the Map denies at quantum level
-- [pain-asymbolia-as-central-test-case](/topics/pain-consciousness-and-causal-power/) — Empirical evidence that function and phenomenal character come apart
-- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Why pain is the strongest case against reduction: phenomenal character inseparable from causal power
+- [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain asymbolia as empirical evidence against reduction, with phenomenal character inseparable from causal power
 
 ## References
 

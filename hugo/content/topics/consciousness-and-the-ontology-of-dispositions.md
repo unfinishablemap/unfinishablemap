@@ -30,7 +30,7 @@ related_articles:
 - '[[causal-closure]]'
 - '[[topics/free-will]]'
 - '[[consciousness-and-the-metaphysics-of-laws]]'
-- '[[why-pain-hurts]]'
+- '[[pain-consciousness-and-causal-power]]'
 - '[[the-epiphenomenalist-threat]]'
 title: Consciousness and the Ontology of Dispositions
 topics:
@@ -136,7 +136,7 @@ The central insight the Map draws from dispositional ontology is this: the mind-
 - [mental-causation](/concepts/mental-causation/) — The problem of how mental states cause physical events
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Principles governing mind-matter interaction
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why powerful qualities help consciousness escape causal inertness
-- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Pain as paradigm case of quality-power identity
+- [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain as paradigm case of quality-power identity
 - [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) — Whether consciousness is genuinely strongly emergent
 - [substance-property-dualism](/concepts/substance-property-dualism/) — The Map's preferred ontological framework
 - [free-will](/topics/free-will/) — How dispositional powers of consciousness connect to libertarian agency

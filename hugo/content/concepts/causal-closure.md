@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-02 15:52:00+00:00
+ai_modified: 2026-03-05 18:49:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -37,6 +37,7 @@ related_articles:
 - '[[interactionist-dualism]]'
 - '[[conservation-laws-and-mind]]'
 - '[[metaphysics-of-information-under-dualism]]'
+- '[[arguments/materialism-argument]]'
 title: Causal Closure of the Physical
 topics:
 - '[[hard-problem-of-consciousness]]'

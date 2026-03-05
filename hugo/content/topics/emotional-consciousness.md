@@ -194,7 +194,7 @@ Emotional consciousness is not a puzzle awaiting functional solution. It is evid
 - [intentionality](/concepts/intentionality/) — How mental states can be about things
 - [higher-order-theories](/concepts/higher-order-theories/) — Theories that consciousness requires higher-order representation
 - [functionalism](/concepts/functionalism/) — The view that mental states are defined by functional roles
-- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — The inseparability of pain's phenomenal character and causal power
+- [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — The inseparability of pain's phenomenal character and causal power
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge: curiosity, doubt, insight
 - [valence-void](/voids/valence-void/) — Why the evaluative dimension of experience resists all explanation
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness has no causal efficacy

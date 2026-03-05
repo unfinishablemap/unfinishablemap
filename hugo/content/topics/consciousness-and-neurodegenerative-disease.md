@@ -28,7 +28,7 @@ related_articles:
 - '[[tenets]]'
 - '[[disorders-of-consciousness-as-test-cases]]'
 - '[[emotional-consciousness]]'
-- '[[why-pain-hurts]]'
+- '[[pain-consciousness-and-causal-power]]'
 - '[[phenomenology-of-understanding]]'
 - '[[contemplative-pathology-and-interface-malfunction]]'
 - '[[identity-across-transformations]]'
@@ -139,7 +139,7 @@ The Unfinishable Map's [tenets](/tenets/) converge on neurodegenerative disease 
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Why correlations don't settle the production debate
 - [emotional-consciousness](/topics/emotional-consciousness/) — Why emotional responsiveness persists through cognitive devastation
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — The phenomenal character of comprehension that dementia strips away
-- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Pain phenomenology and its persistence in severe dementia
+- [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain phenomenology and its persistence in severe dementia
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — Interface degradation through practice versus disease
 - [identity-across-transformations](/apex/identity-across-transformations/) — How indexical identity persists through radical change
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares the selection interface that Parkinson's disease disrupts

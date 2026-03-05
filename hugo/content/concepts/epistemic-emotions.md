@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-05 16:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -45,7 +45,7 @@ Neuroscience locates curiosity in dopaminergic reward circuits, but this functio
 
 ### Doubt: The Fracturing of Certainty
 
-Doubt is certainty's shadow—the sense that a belief might be wrong. It ranges from mild hesitation to paralysing uncertainty. Phenomenologically, doubt involves:
+Doubt is certainty's shadow—the sense that a belief might be wrong. It ranges from mild hesitation to paralysing uncertainty. The [phenomenology of epistemic judgment](/topics/phenomenology-of-epistemic-judgment/) examines how doubt participates in a larger process of belief revision—resistance, rupture, and reorganisation—where epistemic emotions play a structuring role at each phase. Phenomenologically, doubt involves:
 
 - **Destabilisation.** The solid ground of belief becomes uncertain. What felt settled now feels questionable.
 - **Bifurcation.** The mind holds both the belief and its negation in tension, unable to fully commit to either.
@@ -169,6 +169,7 @@ None of these conditions currently obtains.
 
 ## Further Reading
 
+- [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/) — How weighing evidence and changing beliefs feel from the inside
 - [emotional-consciousness](/topics/emotional-consciousness/) — The phenomenology of emotion more broadly
 - [metacognition](/concepts/metacognition/) — The cognitive capacity enabling epistemic self-monitoring
 - [introspection](/concepts/introspection/) — First-person access to epistemic states

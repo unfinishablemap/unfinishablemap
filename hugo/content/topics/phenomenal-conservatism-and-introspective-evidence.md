@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-13 19:34:00+00:00
+ai_modified: 2026-03-05 16:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -131,6 +131,7 @@ What PC rules out is treating the qualitative presentations of consciousness as 
 
 ## Further Reading
 
+- [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/) — How weighing evidence and changing beliefs feel from the inside
 - [introspection](/concepts/introspection/) — The reliability debate and the process/content distinction
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Russell's framework for direct knowledge of phenomenal character
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — When and how first-person reports constitute evidence

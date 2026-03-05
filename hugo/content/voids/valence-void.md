@@ -27,14 +27,13 @@ related_articles:
 - '[[emergence-void]]'
 - '[[causal-interface]]'
 - '[[three-kinds-of-void]]'
-- '[[why-pain-hurts]]'
+- '[[pain-consciousness-and-causal-power]]'
 - '[[emotional-consciousness]]'
 - '[[emotion-as-evidence-for-dualism]]'
-- '[[pain-asymbolia-as-central-test-case]]'
 title: The Valence Void
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[why-pain-hurts]]'
+- '[[pain-consciousness-and-causal-power]]'
 ---
 
 The [hard problem](/topics/hard-problem-of-consciousness/) asks why there is something it is like to be a physical system. The valence void asks a sharper question: why does that "something" come pre-sorted into good and bad? Every conscious experience carries hedonic tone — pleasant, unpleasant, or nominally neutral — and this built-in evaluative dimension resists explanation from every direction. Neuroscience explains [valence's](/concepts/valence/) *function* (approach/avoid signalling) without explaining why activation of particular neural circuits *hurts*. Introspection reveals valence as primitive and irreducible — pain's badness cannot be decomposed into simpler experiential components. And any attempt to explain valence from within consciousness uses concepts that are themselves valenced, creating a circularity that may be structurally irresolvable.
@@ -111,7 +110,7 @@ The valence void connects to the Map's [foundational commitments](/tenets/) at m
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [valence](/concepts/valence/) — The concept of hedonic valence and competing philosophical accounts
-- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Pain's phenomenal character and causal power — the valence void's paradigm case
+- [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain's phenomenal character and causal power — the valence void's paradigm case
 - [emotional-consciousness](/topics/emotional-consciousness/) — The broader landscape of emotional consciousness and the valence debate
 - [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) — How valence irreducibility provides distinctive evidence for dualism
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach — the range problem, not the structure problem

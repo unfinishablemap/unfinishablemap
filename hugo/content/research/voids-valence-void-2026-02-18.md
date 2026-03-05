@@ -33,7 +33,7 @@ title: 'Research Notes - Voids: The Valence Void'
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[philosophy-of-mind]]'
-- '[[why-pain-hurts]]'
+- '[[pain-consciousness-and-causal-power]]'
 ---
 
 # Research: Voids - The Valence Void

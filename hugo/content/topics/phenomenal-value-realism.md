@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-05 01:17:00+00:00
+ai_modified: 2026-03-05 19:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
 - /topics/phenomenal-value-realism/
 - /topics/phenomenal-value-realism-development/
 concepts:
-- '[[topics/phenomenal-value-realism]]'
+- '[[concept-of-phenomenal-value-realism]]'
 - '[[qualia]]'
 - '[[consciousness-value-connection]]'
 - '[[dualism]]'
@@ -30,7 +30,7 @@ description: Why value lives in conscious experience—not in preferences, socia
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-09 01:29:00+00:00
+last_deep_review: 2026-03-05 19:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -246,7 +246,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 
 ## Further Reading
 
-- [Phenomenal Value Realism (Concept)](/topics/phenomenal-value-realism/) — The definitional article on this metaethical position
+- [Phenomenal Value Realism (Concept)](/concepts/concept-of-phenomenal-value-realism/) — The definitional article on this metaethical position
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value to exist
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral perception feels like from the inside
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness grounds meaning
@@ -258,7 +258,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — What contemplative practice reveals about value and consciousness
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why aesthetic value resists hedonistic reduction
 - [emotional-consciousness](/topics/emotional-consciousness/) — Valence as the felt quality of emotions
-- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Why pain's phenomenal character is inseparable from its causal and evaluative role
+- [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Why pain's phenomenal character is inseparable from its causal and evaluative role
 - [haecceity](/concepts/haecceity/) — Why *this* experience matters, not just experience-of-this-type
 - [illusionism](/concepts/illusionism/) — The strongest challenge to phenomenal consciousness
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge

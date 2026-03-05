@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-24 06:23:00+00:00
+ai_modified: 2026-03-05 19:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -139,6 +139,8 @@ The argument doesn't specify *what* that something is:
 - **Panpsychism** would say phenomenal properties are fundamental and widespread
 
 What all these views share is the denial that consciousness can be fully explained by physics. The zombie argument provides a reason to accept this denial.
+
+The ethical stakes are sharpened by [phenomenal-value-realism](/topics/phenomenal-value-realism/): if value resides in phenomenal consciousness, the zombie world is not merely experientially empty but morally empty—containing no value at all despite perfect physical structure.
 
 ## Objections and Complications
 

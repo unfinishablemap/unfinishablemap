@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-17 23:47:00+00:00
+ai_modified: 2026-03-05 19:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ related_articles:
 - '[[time-collapse-and-agency]]'
 - '[[volitional-opacity]]'
 - '[[evolutionary-case-for-mental-causation]]'
-- '[[suffering-versus-pain]]'
+- '[[pain-consciousness-and-causal-power]]'
 - '[[spontaneous-intentional-action]]'
 title: Consciousness and Moral Agency Under Duress
 topics:
@@ -123,7 +123,8 @@ This framework avoids two extremes. Against hard determinism, it maintains that 
 - [luck-objection](/concepts/luck-objection/)
 - [reasons-responsiveness](/concepts/reasons-responsiveness/)
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
-- [suffering-versus-pain](/topics/pain-consciousness-and-causal-power/)
+- [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Why duress matters morally: the felt badness of suffering constitutes genuine disvalue
 - [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — The broader moral implications when agency is real: obligation, character, moral luck
 

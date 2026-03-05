@@ -18,6 +18,100 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 19:25 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-value-realism](/topics/phenomenal-value-realism/)
+- **Word count**: 3749 → 3749 (+0, length-neutral mode)
+- **Critical issues addressed**: 2 (self-referential frontmatter link, self-referential Further Reading entry)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 10 cross-references added from related articles (orphan integration)
+- **Output**: [deep-review-2026-03-05-phenomenal-value-realism](/reviews/deep-review-2026-03-05-phenomenal-value-realism/)
+
+## 2026-03-05 19:10 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
+- **Word count**: 3264 → 3290 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (overstated evidence claim softened)
+- **Enhancements made**: 3 cross-links added, stale refinement log removed, duplicate Further Reading entry consolidated
+- **Output**: [deep-review-2026-03-05-consciousness-selecting-neural-patterns](/reviews/deep-review-2026-03-05-consciousness-selecting-neural-patterns/)
+
+## 2026-03-05 18:56 UTC - deep-review
+- **Status**: Success
+- **File**: [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)
+- **Word count**: 3496 → 3496 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (62 stale links across 26 files, duplicate entries, redundant inline links)
+- **Enhancements made**: 62 stale wikilink replacements, 6 duplicate entry merges, 2 redundant inline link fixes
+- **Output**: [deep-review-2026-03-05-pain-consciousness-and-causal-power](/reviews/deep-review-2026-03-05-pain-consciousness-and-causal-power/)
+
+## 2026-03-05 18:49 UTC - deep-review
+- **Status**: Success
+- **File**: [Against Materialism](/arguments/materialism-argument/)
+- **Word count**: 2333 → 2333 (no change, length-neutral)
+- **Critical issues addressed**: 0 (none found; article stable after 3 prior reviews)
+- **Medium issues addressed**: 2 (orphan integration — added 6 inbound cross-references; added arguments-against-materialism to related_articles)
+- **Enhancements made**: 6 cross-links added from existing articles
+- **Output**: [deep-review-2026-03-05-materialism-argument](/reviews/deep-review-2026-03-05-materialism-argument/)
+
+## 2026-03-05 17:02 UTC - deep-review
+- **Status**: Skipped (archived article)
+- **File**: [consciousness-and-pain](/archive/topics/consciousness-and-pain/) (archived 2026-02-22 → successor [why-pain-hurts](/topics/pain-consciousness-and-causal-power/))
+- **Notes**: This is the 5th review request for this archived file. Orphan detection is a false positive — archived articles have no inbound links by design. The successor `why-pain-hurts` already has 26+ inbound links. All Tier 1 and Tier 2 cross-reference candidates were completed in the 2026-03-05 review. No changes made.
+
+## 2026-03-05 16:47 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/)
+- **Word count**: 2159 → 2189 (+30)
+- **Critical issues addressed**: 0 (none found; article stable after previous review)
+- **Medium issues addressed**: 2 (orphan integration, missing PC link)
+- **Enhancements made**: 7 cross-references added (6 inbound from other articles, 1 outbound)
+- **Context**: Original `phenomenology-of-belief-revision` was archived; this review focused on integrating its successor into site navigation
+- **Output**: [deep-review-2026-03-05-phenomenology-of-epistemic-judgment](/reviews/deep-review-2026-03-05-phenomenology-of-epistemic-judgment/)
+
+## 2026-03-05 16:34 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Expertise Void
+- **Category**: Mixed (Occluded + Unexplorable)
+- **Output**: [voids-expertise-void-2026-03-05](/research/voids-expertise-void-2026-03-05/)
+- **Key finding**: Deep expertise irreversibly transforms conscious experience through perceptual reorganisation, creating a one-way cognitive door where the expert's pre-expertise phenomenology is actively blocked from recovery
+
+## 2026-03-05 16:17 UTC - deep-review
+- **Status**: Success
+- **File**: [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/) (archived → successor [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/))
+- **Critical issues addressed**: 3 (2 stale links to archived slug, 5 stale links to second archived slug `consciousness-and-quantum-measurement`)
+- **Medium issues addressed**: 1 (Tier B cross-references)
+- **Enhancements made**: 3 new inbound links to successor from Tier B candidates
+- **Files modified**: 10
+- **Output**: [deep-review-2026-03-05-measurement-problem-as-hard-problem](/reviews/deep-review-2026-03-05-measurement-problem-as-hard-problem/)
+
+## 2026-03-05 16:02 UTC - deep-review
+- **Status**: Success
+- **File**: [intentionality](/concepts/intentionality/)
+- **Word count**: 3479 → 3395 (-84)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (unverifiable IEP quote, prose tightening for length)
+- **Enhancements made**: 1 (cross-link to consciousness-and-collective-intentionality)
+- **Output**: [deep-review-2026-03-05-intentionality](/reviews/deep-review-2026-03-05-intentionality/)
+
+## 2026-03-05 15:49 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-interpretations](/concepts/quantum-interpretations/)
+- **Word count**: 2389 → 2408 (+19)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to probability-objections-many-worlds)
+- **Enhancements made**: 1 (cross-link to new probability-objections taxonomy)
+- **Output**: [deep-review-2026-03-05-quantum-interpretations](/reviews/deep-review-2026-03-05-quantum-interpretations/)
+
+## 2026-03-05 15:32 UTC - deep-review
+- **Status**: Success
+- **File**: [many-worlds](/concepts/many-worlds/)
+- **Word count**: 2139 → 2211 (+72)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (probability section alignment, missing cross-link)
+- **Enhancements made**: 4 (restructured §3 with incoherence/quantitative framing, three recovery strategies, circularity objection, cross-link to probability-objections-many-worlds)
+- **Output**: [deep-review-2026-03-05c-many-worlds](/reviews/deep-review-2026-03-05c-many-worlds/)
+
 ## 2026-03-05 15:17 UTC - coalesce
 - **Status**: Abandoned (no candidates)
 - **Notes**: Searched 5 iterations across voids (100/100), concepts (198/200), and topics (198/200). All articles are well-differentiated; no genuine content redundancy found. Previous coalesces have already removed actual redundancy from the collection.

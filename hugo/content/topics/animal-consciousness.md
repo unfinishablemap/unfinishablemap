@@ -210,7 +210,7 @@ Whether animal nervous systems provide the right conditions for quantum consciou
 - [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — Theory of mind levels and shared intentionality
 
 ### Related Topics
-- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Why pain's phenomenal character is inseparable from its causal role across species
+- [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Why pain's phenomenal character is inseparable from its causal role across species
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why the explanatory gap applies universally
 - [ai-consciousness](/topics/ai-consciousness/) — Parallel questions about non-biological minds
 - [higher-order-theories](/concepts/higher-order-theories/) — Why HOT theories fail

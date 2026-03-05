@@ -27,7 +27,7 @@ related_articles:
 - '[[choking-phenomenon-mental-causation]]'
 - '[[evolutionary-case-for-mental-causation]]'
 - '[[tenets]]'
-- '[[why-pain-hurts]]'
+- '[[pain-consciousness-and-causal-power]]'
 - '[[predictive-processing-and-the-maps-framework]]'
 - '[[phenomenology-of-anticipation]]'
 title: The Placebo Effect and Mental Causation

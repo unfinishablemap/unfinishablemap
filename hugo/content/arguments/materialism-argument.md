@@ -1,7 +1,7 @@
 ---
 ai_contribution: 90
 ai_generated_date: null
-ai_modified: 2026-02-25 00:01:00+00:00
+ai_modified: 2026-03-05 18:49:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -22,13 +22,14 @@ description: Why materialism fails to account for consciousness — hard problem
 draft: false
 human_modified: 2026-01-06
 last_curated: null
-last_deep_review: 2026-02-25 00:01:00+00:00
+last_deep_review: 2026-03-05 18:49:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[quantum-decoherence-objection-responses-2026-01-15]]'
 - '[[arguments/epiphenomenalism-argument]]'
+- '[[arguments-against-materialism]]'
 title: Against Materialism
 topics:
 - '[[hard-problem-of-consciousness]]'

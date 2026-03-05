@@ -156,7 +156,7 @@ The Map should eventually take a position on this fork. The graduated middle pat
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Laws and candidate mechanisms for mind-brain interaction
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view this fork partially threatens to resurrect
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface through which consciousness acts
-- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Pain asymbolia as evidence that valence does causal work in selection
+- [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain asymbolia as evidence that valence does causal work in selection
 
 ## References
 

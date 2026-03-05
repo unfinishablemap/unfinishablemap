@@ -173,7 +173,7 @@ The Map's framework is one of the few that provides all three elements needed to
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's positive framework
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — What coupling between mind and matter requires
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why evolution requires consciousness to be causally efficacious
-- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Pain as the hardest case for epiphenomenalism: felt awfulness inseparable from motivation
+- [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain as the hardest case for epiphenomenalism: felt awfulness inseparable from motivation
 - [the-case-for-dualism](/concepts/the-case-for-dualism/) — The broader argument for taking consciousness as irreducible
 
 ## References

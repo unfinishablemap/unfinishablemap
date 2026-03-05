@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-02-04 17:12:00+00:00
+ai_modified: 2026-03-05 19:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -144,6 +144,8 @@ Dualism is the Map's first foundational commitment—the [Dualism tenet](/tenets
 
 This commitment is not arbitrary but grounded in the convergence of arguments: the explanatory gap, conceivability arguments, the knowledge argument, and the intrinsic character of qualia all point the same direction. [materialism](/concepts/materialism/) in all its forms—reductive physicalism, functionalism, eliminativism—fails to bridge the gap between physical description and subjective experience.
 
+Dualism's most consequential implication may be ethical: if consciousness is irreducible, then [phenomenal value](/topics/phenomenal-value-realism/)—the felt badness of suffering, the felt goodness of joy—is irreducible too. Value resides in consciousness because consciousness is not decomposable into value-neutral physical facts.
+
 Combined with the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet, the Map holds [interactionist-dualism](/concepts/interactionist-dualism/)—consciousness is distinct *and* causally efficacious. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies the interface: quantum indeterminacies where physics leaves outcomes undetermined. This combination preserves what matters for human agency and moral responsibility—our choices genuinely influence outcomes, not just in appearance but in reality.
 
 This framework is not a retreat to mystery. The interaction has a candidate mechanism ([Stapp's quantum Zeno effect](/concepts/stapp-quantum-mind/)). The empirical findings (neural correlates, the efficacy of attention, voluntary action) are predicted and explained. The position is coherent, parsimonious where parsimony matters (not positing unobserved forces), and takes seriously the one thing we know most directly: our own conscious experience.
@@ -160,6 +162,7 @@ What would count as evidence against dualism? If future neuroscience provided a 
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Major objections and detailed responses
 - [intuitive-dualism](/concepts/intuitive-dualism/) — Cognitive science debate on whether dualism is innate or learned
 - [materialism](/concepts/materialism/) — The view dualism rejects and why
+- [Against Materialism](/arguments/materialism-argument/) — The focused case from hard problem, zombies, epiphenomenalism, and quantum indeterminacy
 - [epiphenomenalism](/concepts/epiphenomenalism/) — Dualism without interaction (rejected by the Map)
 - [explanatory-gap](/concepts/explanatory-gap/) — The structural problem physical description faces
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument in detail

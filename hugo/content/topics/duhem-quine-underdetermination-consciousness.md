@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-03-05 09:28:00+00:00
+ai_modified: 2026-03-05 16:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -78,7 +78,7 @@ Applied to consciousness science—where over 325 distinct theories have been ca
 
 ## Kuhn's Values and Theory Choice
 
-When evidence underdetermines theory choice, what guides scientists? Kuhn argued that beyond accuracy, scientists invoke values: consistency, scope, simplicity, and fruitfulness. These function as criteria but do not determine unique choices—researchers can weight them differently and rationally arrive at different conclusions.
+When evidence underdetermines theory choice, what guides scientists? The [phenomenology of epistemic judgment](/topics/phenomenology-of-epistemic-judgment/) suggests that evidence carries felt weight—a gravitational pull toward conclusions that involves more than neutral information processing. Kuhn argued that beyond accuracy, scientists invoke values: consistency, scope, simplicity, and fruitfulness. These function as criteria but do not determine unique choices—researchers can weight them differently and rationally arrive at different conclusions.
 
 This has direct implications for consciousness science. Physicalist theories are often preferred on grounds of simplicity—they do not posit entities beyond the physical. But as the Map's analysis of [Occam's Razor](/arguments/epistemological-limits-of-occams-razor/) shows, simplicity is unreliable when knowledge is incomplete. The apparent parsimony of physicalism may reflect conceptual poverty rather than ontological insight.
 

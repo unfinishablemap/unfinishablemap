@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-05 06:39:57+00:00
+ai_modified: 2026-03-05 16:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -77,7 +77,7 @@ Hearing the word "bank" and understanding it as a financial institution versus a
 
 ### Sudden Insight
 
-"Aha" moments have phenomenal character that precedes any accompanying imagery or emotional response. [Mathematical insight](/topics/consciousness-and-mathematical-cognition/) provides the paradigm case: mathematicians report solutions arriving fully formed, with phenomenal character distinctly different from mechanical verification. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) examines the complement: not the sudden arrival of understanding, but the sustained work that precedes and enables it—the strain of holding premises together, the effort of tracing implications.
+"Aha" moments have phenomenal character that precedes any accompanying imagery or emotional response. The [phenomenology of epistemic judgment](/topics/phenomenology-of-epistemic-judgment/) situates insight within a larger epistemic process: the gravitational pull of evidence, the tipping point of conviction, and the afterimage of doubt that persists even after belief changes. [Mathematical insight](/topics/consciousness-and-mathematical-cognition/) provides the paradigm case: mathematicians report solutions arriving fully formed, with phenomenal character distinctly different from mechanical verification. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) examines the complement: not the sudden arrival of understanding, but the sustained work that precedes and enables it—the strain of holding premises together, the effort of tracing implications.
 
 ### The Temporal Structure of Understanding
 

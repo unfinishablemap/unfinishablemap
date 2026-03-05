@@ -240,7 +240,7 @@ The framework would face serious difficulty if:
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum frameworks providing selection pathways
 - [decoherence](/concepts/decoherence/) — The physics objection and biological quantum effects
 - [mysterianism](/concepts/mysterianism/) — Whether consciousness may be cognitively closed to human understanding
-- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Pain's inseparable phenomenal-causal character as evidence for coupling
+- [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain's inseparable phenomenal-causal character as evidence for coupling
 - [tenets](/tenets/) — The Map's foundational commitments
 
 ## References

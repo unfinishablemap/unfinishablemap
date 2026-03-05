@@ -27,8 +27,7 @@ related_articles:
 title: Pain Asymbolia
 topics:
 - '[[phenomenology-of-pain]]'
-- '[[why-pain-hurts]]'
-- '[[suffering-versus-pain]]'
+- '[[pain-consciousness-and-causal-power]]'
 ---
 
 Pain asymbolia is a neurological condition in which patients detect nociceptive stimuli—they can report that something is "painful"—but lack the felt awfulness that normally accompanies pain. They do not withdraw, guard injured limbs, or show distress. The Unfinishable Map holds that pain asymbolia is among the most philosophically significant clinical conditions in the study of consciousness, because it dissociates the sensory-discriminative dimension of pain from its affective-motivational dimension, exposing a phenomenal layer that physicalist accounts struggle to accommodate.
@@ -96,9 +95,8 @@ Together, these dissociations show that pain's dimensions can be independently m
 
 ## Further Reading
 
-- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Pain as the paradigm case for mental causation
+- [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain, suffering, and the paradigm case for mental causation
 - [phenomenology-of-pain](/topics/why-pain-hurts/) — Pain's phenomenal character and resistance to reduction
-- [suffering-versus-pain](/topics/pain-consciousness-and-causal-power/) — The philosophical significance of the pain-suffering distinction
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment that asymbolia partially instantiates
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that asymbolia exposes in miniature
 - [qualia](/concepts/qualia/) — The qualitative character of experience

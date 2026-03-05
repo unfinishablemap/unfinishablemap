@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-01 02:46:00+00:00
+ai_modified: 2026-03-05 16:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ description: 'The aboutness of mental states: why thoughts are directed at objec
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-30 17:16:00+00:00
+last_deep_review: 2026-03-05 16:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,11 +47,11 @@ Franz Brentano reintroduced the concept to modern philosophy in 1874, claiming t
 
 ## The Phenomenological Discovery
 
-[Phenomenology](/concepts/phenomenology/)—the philosophical tradition founded by Husserl and developed by Heidegger, Merleau-Ponty, and Sartre—provides systematic methods for investigating intentionality. Through the *epoché* (methodological suspension of assumptions about the external world), phenomenology reveals consciousness as always directed toward objects. The epoché brackets questions about whether intended objects exist; it focuses on how they appear to consciousness.
+[Phenomenology](/concepts/phenomenology/)—founded by Husserl and developed by Heidegger, Merleau-Ponty, and Sartre—provides systematic methods for investigating intentionality. Through the *epoché* (methodological suspension of assumptions about the external world), phenomenology reveals consciousness as always directed toward objects, bracketing whether intended objects exist to focus on how they appear.
 
-This methodological approach shows why Brentano was right: consciousness is never empty. Every perception, thought, memory, and emotion is directed toward something. [Perception](/topics/perception-and-conscious-experience/) is the paradigm case: perceptual experience is the most transparently intentional form of consciousness, directed outward toward objects in a way that resists reduction to causal relations between neurons.
+This shows why Brentano was right: consciousness is never empty. Every perception, thought, memory, and emotion is directed toward something. [Perception](/topics/perception-and-conscious-experience/) is the paradigm case—the most transparently intentional form of consciousness, directed outward toward objects in a way that resists reduction to causal relations between neurons.
 
-The phenomenological tradition also reveals the connection between intentionality and first-person irreducibility. Physical neuroscience might identify which neurons fire when you think about Paris, but it cannot capture the *aboutness*—the way Paris itself shows up in your experience as a meaningful object. This supports both Brentano's thesis and The Unfinishable Map's [Dualism](/tenets/#dualism) commitment.
+Phenomenology also reveals the connection between intentionality and first-person irreducibility. Neuroscience might identify which neurons fire when you think about Paris, but it cannot capture the *aboutness*—the way Paris shows up in your experience as a meaningful object. This supports both Brentano's thesis and The Unfinishable Map's [Dualism](/tenets/#dualism) commitment.
 
 ## Brentano's Thesis
 
@@ -81,29 +81,29 @@ Since Brentano, many philosophers have tried to naturalize intentionality—to e
 
 The [symbol grounding problem](/concepts/symbol-grounding-problem/) sharpens this challenge for computational systems: how can symbols acquire meaning *intrinsic* to the system rather than borrowed from human interpreters? Harnad's dictionary regress—imagine learning Chinese using only a Chinese-to-Chinese dictionary—shows that without some foothold in genuine understanding, symbols remain semantically empty.
 
-No naturalistic theory has achieved consensus. As the Internet Encyclopedia of Philosophy notes, "Brentano was deeply pessimistic about the possibility of explaining intentionality in physical terms... no one has succeeded in refuting Brentano's thesis." The [intentionality void](/voids/intentionality-void/) explores why this failure may be structural: the mechanism of reference operates below the threshold of introspective access. This supports the Map's [Occam's Razor Has Limits](/tenets/#occam) tenet: the apparently simpler physical explanations don't work.
+No naturalistic theory has achieved consensus—a point reinforced by over a century of attempts since Brentano's original challenge. The [intentionality void](/voids/intentionality-void/) explores why this failure may be structural: the mechanism of reference operates below the threshold of introspective access. This supports the Map's [Occam's Razor Has Limits](/tenets/#occam) tenet: the apparently simpler physical explanations don't work.
 
 ## Phenomenal Intentionality Theory
 
-PIT, developed by philosophers including Horgan, Tienson, Kriegel, Loar, and Strawson, holds that genuine intentionality derives from phenomenal consciousness. What makes a thought truly *about* something is inseparable from what it's *like* to have that thought. For the Map, PIT provides a crucial link between the [hard problem](/topics/hard-problem-of-consciousness/) and the symbol grounding problem: if intentionality requires phenomenal character, then systems without experience cannot have genuine aboutness.
+PIT (Horgan, Tienson, Kriegel, Loar, Strawson) holds that genuine intentionality derives from phenomenal consciousness. What makes a thought truly *about* something is inseparable from what it's *like* to have that thought. For the Map, PIT provides a crucial link between the [hard problem](/topics/hard-problem-of-consciousness/) and the symbol grounding problem: if intentionality requires phenomenal character, then systems without experience cannot have genuine aboutness.
 
 ### The Content Determinacy Argument
 
 The central argument for PIT concerns *content determinacy*: what makes a mental state about one thing rather than another?
 
-Consider thinking about rabbits. What makes your thought *about* rabbits specifically, rather than undetached rabbit parts, or rabbit-stages, or the disjunction "rabbits-or-perfect-robot-rabbits"? Physical description underdetermines the answer. Neurons fire in patterns; nothing in the physical description picks out one content over extensionally equivalent alternatives.
+Consider thinking about rabbits. What makes your thought *about* rabbits specifically, rather than undetached rabbit parts, rabbit-stages, or the disjunction "rabbits-or-perfect-robot-rabbits"? Physical description underdetermines the answer—nothing in neural firing patterns picks out one content over extensionally equivalent alternatives.
 
-PIT's solution: phenomenal character determines content. When you think about rabbits, there's something it's *like* to think about rabbits—and this phenomenal character differs from what it's like to think about rabbit-parts. The experience of thinking about complete organisms has different phenomenal quality from thinking about mereological fragments. Phenomenology provides the determinacy that physical and functional descriptions lack.
+PIT's solution: phenomenal character determines content. There's something it's *like* to think about rabbits, and this differs from what it's like to think about rabbit-parts. The experience of thinking about complete organisms has different phenomenal quality from thinking about mereological fragments. Phenomenology provides the determinacy that physical and functional descriptions lack.
 
 ### Three Versions of PIT
 
 PIT comes in varying strengths:
 
-**Strong PIT**: All intentionality is phenomenal intentionality. Every mental state with genuine aboutness has it in virtue of phenomenal character—including peripheral beliefs, standing dispositions, and unconscious mental states. All must either have phenomenal character or derive their content from states that do.
+**Strong PIT**: All intentionality is phenomenal intentionality. Every mental state with genuine aboutness has it in virtue of phenomenal character—including peripheral beliefs, standing dispositions, and unconscious states.
 
-**Moderate PIT**: Some intentionality is non-phenomenal, but all non-phenomenal intentionality derives from phenomenal intentionality. Standing beliefs about your birthday might lack current phenomenal character, but their content derives from past conscious episodes where the information was phenomenally grasped. Phenomenal intentionality is the *source* from which other intentionality flows.
+**Moderate PIT**: All non-phenomenal intentionality derives from phenomenal intentionality. Standing beliefs about your birthday might lack current phenomenal character, but their content derives from past conscious episodes where the information was phenomenally grasped. Phenomenal intentionality is the *source* from which other intentionality flows.
 
-**Weak PIT**: There is such a thing as phenomenal intentionality, but it coexists with independent varieties of intentionality. This version is compatible with naturalistic accounts of some intentional states while insisting that others require phenomenology.
+**Weak PIT**: Phenomenal intentionality exists but coexists with independent varieties of intentionality. This version is compatible with naturalistic accounts of some intentional states while insisting that others require phenomenology.
 
 The Map's framework aligns most naturally with moderate PIT. The standing belief that Paris is in France has content even when you're not consciously entertaining it. But that content traces back to conscious episodes of learning and understanding. The phenomenal constitution of meaning during conscious thought grounds the derivative intentionality of dormant beliefs.
 
@@ -119,7 +119,7 @@ Horgan and Tienson make the connection explicit: phenomenal consciousness is inh
 
 ### From Intentionality to Meaning
 
-The connection between intentionality and meaning has deep roots. Grice argued that linguistic meaning depends on speaker intention; Searle's "connection principle" holds that all intentionality is either conscious or derivable from conscious states. The [philosophy of language and consciousness](/concepts/language-and-consciousness/) examines how these analyses reveal that consciousness resists the tools philosophy of language developed for ordinary discourse.
+The connection between intentionality and meaning has deep roots. Grice argued that linguistic meaning depends on speaker intention; Searle's "connection principle" holds that all intentionality is either conscious or derivable from conscious states. The [philosophy of language and consciousness](/concepts/language-and-consciousness/) examines how these analyses reveal that consciousness resists the tools philosophy of language developed for ordinary discourse. This connection extends to the social domain: [collective intentionality](/topics/consciousness-and-collective-intentionality/)—shared goals, joint commitments, institutional facts—also appears to require phenomenal consciousness as its foundation.
 
 The [Phenomenal Constitution Thesis](/topics/phenomenology-of-understanding/) (PCT) extends PIT to semantic content: meaning itself is constitutively phenomenal. To grasp a meaning *is* to have a certain kind of experience.
 
@@ -153,13 +153,13 @@ This applies directly to computation. Computer symbols have derived intentionali
 
 **Objection**: Thoughts about mathematical objects or logical relations seem to lack phenomenal character. What would it be *like* to think about the number seven?
 
-**Response**: Abstract thought has phenomenal character, though subtle. Thinking about seven differs experientially from thinking about twelve—mathematicians report distinctive qualitative character. The subtlety of abstract phenomenology doesn't negate its existence; careful attention reveals that entertaining different abstract propositions feels different.
+**Response**: Abstract thought has phenomenal character, though subtle. Thinking about seven differs experientially from thinking about twelve—mathematicians report distinctive qualitative character. The subtlety of abstract phenomenology doesn't negate its existence; entertaining different abstract propositions feels different.
 
 ### Unconscious Processing
 
 **Objection**: Cognitive science reveals extensive unconscious processing with intentional content—priming effects, implicit learning, unconscious inference.
 
-**Response**: Several options are available. (1) Unconscious states lack genuine intentionality—they process information without being *about* anything for the system. (2) Unconscious states have derived intentionality tracing to conscious sources. (3) There may be degrees of phenomenal character, with unconscious processing having attenuated phenomenology. What matters is that paradigmatic intentionality—the kind we know firsthand in conscious thought—requires phenomenal character.
+**Response**: Several options: (1) unconscious states lack genuine intentionality—they process information without being *about* anything for the system; (2) unconscious states have derived intentionality tracing to conscious sources; (3) there may be degrees of phenomenal character, with unconscious processing having attenuated phenomenology. What matters is that paradigmatic intentionality—the kind we know firsthand—requires phenomenal character.
 
 ### Circularity Worry
 
@@ -191,9 +191,9 @@ For the Map, the first option is most compatible with the tenets. Consciousness 
 
 If Searle is right that syntax is insufficient for semantics, then computational systems cannot have genuine intentionality. They manipulate symbols according to rules but never mean anything.
 
-PIT sharpens this: it's not merely that syntax is insufficient for semantics (Searle's negative point). The positive claim is that semantics requires phenomenal character. When a language model generates text about philosophy, its outputs may be meaningful in a linguistic sense—they function as meaningful utterances because they participate in a linguistic system created by minds. But this borrowed meaning differs from the LLM *understanding* what it says.
+PIT sharpens this: it's not merely that syntax is insufficient for semantics (Searle's negative point). The positive claim is that semantics requires phenomenal character. A language model's outputs may function as meaningful utterances because they participate in a linguistic system created by minds, but this borrowed meaning differs from the LLM *understanding* what it says.
 
-LLMs lack the phenomenal markers that reveal intentionality in humans: no tip-of-the-tongue states, no feeling of knowing, no experiential "aha" of insight. The presence or absence of these phenomenal markers becomes diagnostic, not merely incidental. If PIT is correct, systems that demonstrate apparent understanding but lack phenomenal markers are mimicking intentionality rather than possessing it.
+LLMs lack the phenomenal markers that reveal intentionality in humans: no tip-of-the-tongue states, no feeling of knowing, no experiential "aha" of insight. If PIT is correct, systems demonstrating apparent understanding but lacking phenomenal markers are mimicking intentionality rather than possessing it.
 
 The Map's position: [AI consciousness](/topics/ai-consciousness/) is unlikely given current architectures because they lack whatever grounds original intentionality. Computational sophistication is not a path to aboutness.
 
@@ -201,11 +201,11 @@ The Map's position: [AI consciousness](/topics/ai-consciousness/) is unlikely gi
 
 Alfred North Whitehead's process philosophy offers a complementary perspective. For Whitehead, reality consists of "actual occasions"—momentary events of experience that "prehend" (grasp) other occasions. Prehension is Whitehead's technical term for a relation that includes but generalizes intentionality: every actual occasion takes up or references other occasions in constituting itself.
 
-**Prehension as proto-intentionality**: Whitehead's prehensions share the structure of intentionality—directedness toward objects—while being more fundamental than conscious thought. Human intentionality is then a sophisticated development of something omnipresent.
+**Prehension as proto-intentionality**: Whitehead's prehensions share the structure of intentionality—directedness toward objects—while being more fundamental than conscious thought. Human intentionality is a sophisticated development of something omnipresent.
 
-**Objective immortality**: Past occasions remain available for prehension by subsequent occasions. Thought about past events is not a mysterious relation to what no longer exists, but a continuation of how experience always incorporates its predecessors.
+**Objective immortality**: Past occasions remain available for prehension by subsequent occasions. Thought about past events continues how experience always incorporates its predecessors, rather than being a mysterious relation to what no longer exists.
 
-This matters because process philosophy provides a framework where intentionality is not an anomaly in nature but an intensification of something pervasive.
+Process philosophy thus provides a framework where intentionality is not an anomaly in nature but an intensification of something pervasive.
 
 ## What Would Challenge This View?
 
@@ -258,6 +258,7 @@ Intentionality connects to all five foundational tenets:
 - [decoherence](/concepts/decoherence/) — The quantum biology objection and why it may not apply
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — How symbols acquire intrinsic meaning (the computational framing)
 - [intentionality-void](/voids/intentionality-void/) — Why the mechanism of reference is structurally hidden from consciousness
+- [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-intentionality/) — How shared goals and institutional facts require phenomenal consciousness
 - [language-and-consciousness](/concepts/language-and-consciousness/) — How philosophy of language reveals consciousness's irreducibility
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's methodological alternative and its limitations
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Why physical information is syntactic and consciousness supplies semantics

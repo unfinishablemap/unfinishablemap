@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-03-05 06:39:57+00:00
+ai_modified: 2026-03-05 19:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -277,6 +277,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [dualism](/concepts/dualism/) — Foundational overview: what dualism claims, main varieties, and converging arguments
 - [explanatory-gap](/concepts/explanatory-gap/) — Levine's formulation and physicalist responses
 - [materialism](/concepts/materialism/) — Why physicalist explanations fail
+- [Against Materialism](/arguments/materialism-argument/) — Focused argument from hard problem, zombies, and quantum indeterminacy
 - [substrate-independence-critique](/concepts/substrate-independence/) — Why the hard problem entails substrate skepticism
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [mysterianism](/concepts/mysterianism/) — McGinn's cognitive closure thesis
@@ -287,7 +288,8 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [witness-consciousness](/concepts/witness-consciousness/) — The subject-object structure revealed by contemplative practice
 - [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) — How psychiatric conditions reveal structural features of consciousness that resist neural reduction
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The 100-million-fold gap between sensory input and conscious output as evidence for interface dualism
-- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Pain as the hard problem made personal: why phenomenal character resists reduction
+- [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain as the hard problem made personal: why phenomenal character resists reduction
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The hard problem extends to value: if phenomenal properties are irreducible, so is the goodness and badness they constitute
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — How Buddhist philosophy engages with dualist frameworks
 - [tenets](/tenets/) — The foundational commitments of the Map
 

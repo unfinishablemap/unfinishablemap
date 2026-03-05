@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-04 22:32:00+00:00
+ai_modified: 2026-03-05 19:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -184,6 +184,7 @@ The persistence of the illusion problem suggests illusionism doesn't escape the 
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — A less radical physicalist approach
 - [qualia](/concepts/qualia/) — The properties illusionism denies
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The category illusionism claims is empty
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — If illusionism is correct, value itself becomes illusory—the highest-stakes consequence
 - [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) — Chalmers's challenge: explaining why we think consciousness is puzzling
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's methodological foundation for treating consciousness reports as data
 - [materialism](/concepts/materialism/) — The view illusionism radically defends

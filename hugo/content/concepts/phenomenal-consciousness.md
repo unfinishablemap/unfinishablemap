@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-05 01:17:00+00:00
+ai_modified: 2026-03-05 19:25:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -109,7 +109,7 @@ This connects to [conceptual-acquisition-limits](/voids/conceptual-acquisition-l
 
 ## Relation to Site Perspective
 
-P-consciousness is central to The Unfinishable Map's [Dualism tenet](/tenets/#dualism). The irreducibility of phenomenal properties—the fact that no functional or structural description captures what it is like to see red or feel pain—is the primary reason for rejecting [materialism](/concepts/materialism/).
+P-consciousness is central to The Unfinishable Map's [Dualism tenet](/tenets/#dualism). The irreducibility of phenomenal properties—the fact that no functional or structural description captures what it is like to see red or feel pain—is the primary reason for rejecting [materialism](/concepts/materialism/). This irreducibility extends into ethics: [phenomenal-value-realism](/topics/phenomenal-value-realism/) holds that some phenomenal properties—the painfulness of pain, the pleasure of joy—*just are* normative properties. Taking P-consciousness seriously transforms not only metaphysics but metaethics.
 
 ### Supporting Dualism
 
@@ -147,7 +147,7 @@ Thomas Nagel's analysis in [objectivity-and-consciousness](/concepts/objectivity
 - [inverted-qualia](/concepts/inverted-qualia/) - Phenomenal inversion without functional difference
 - [illusionism](/concepts/illusionism/) - Denying phenomenal consciousness exists
 - [emotional-consciousness](/topics/emotional-consciousness/) - Valence and emotional phenomenology
-- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) - Pain as the paradigm case for phenomenal causation
+- [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) - Pain as the paradigm case for phenomenal causation
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) - What it's like to think
 - [mysterianism](/concepts/mysterianism/) - Cognitive closure and the limits of understanding consciousness
 - [argument-from-reason](/topics/argument-from-reason/) - Why rational inference requires phenomenal consciousness
