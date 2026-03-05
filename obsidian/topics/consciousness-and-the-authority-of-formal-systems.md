@@ -4,7 +4,7 @@ description: "Logic compels and mathematics describes with extraordinary precisi
 created: 2026-02-15
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-02-24T08:28:00+00:00
+ai_modified: 2026-03-05T11:19:00+00:00
 last_deep_review: 2026-02-24T08:28:00+00:00
 draft: false
 topics:
@@ -39,7 +39,7 @@ related_articles:
   - "[[mathematical-void]]"
   - "[[phenomenology-of-intellectual-effort]]"
   - "[[objectivity-and-consciousness]]"
-  - "[[phenomenology-of-inferential-understanding]]"
+  - "[[phenomenology-of-understanding]]"
   - "[[arguments/materialism-argument]]"
   - "[[intrinsic-nature-void]]"
   - "[[incompleteness-void]]"
@@ -145,7 +145,7 @@ Mathematical Platonists hold that mathematical objects have intrinsic properties
 - [[reasons-responsiveness]] — Tracking normative relationships
 - [[agent-causation]] — How rational agents influence beliefs through recognising reasons
 - [[objectivity-and-consciousness]] — Why consciousness resists objective methods
-- [[phenomenology-of-inferential-understanding]] — The felt experience of following an argument
+- [[phenomenology-of-understanding]] — The felt experience of comprehension, inference, and meaning integration
 - [[intrinsic-nature-void]] — The unbridgeable gap between structural description and intrinsic nature
 - [[incompleteness-void]] — Gödelian limits as a parallel to formal systems' limits at consciousness
 - [[meta-problem-of-consciousness]] — Why we judge that consciousness resists formal explanation

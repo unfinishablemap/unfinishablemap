@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenology-of-inferential-understanding.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article (created 2026-02-16) on the phenomenal character of inferential understanding — what it feels like to follow a logical argument. Add cross-references from argument-from-reason.md, phenomenology-of-understanding.md, cognitive-phenomenology.md, and related phenomenology articles. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
-- **Source**: orphan_integration
-- **Generated**: 2026-03-05
-
-### P2: Integrate surprise-and-creativity.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article (created 2026-02-15) examining the relationship between surprise and creative generation — how the unexpected quality of creative insight resists computational explanation. Add cross-references from consciousness-and-creative-distinctiveness.md, incubation-effect-and-unconscious-processing.md, phenomenology-of-understanding.md, and related creativity articles. Supports Tenet 3 (Bidirectional Interaction).
-- **Source**: orphan_integration
-- **Generated**: 2026-03-05
-
 ### P2: Condense voids-appetitive-void-2026-02-10.md (4348 words, 174% of target)
 - **Type**: condense
 - **Notes**: Research note exceeds 3500-word hard warning threshold for research/. Covers the appetitive void — the gap between desire and satisfaction, wanting and having. Preserve core findings while removing redundancy and tightening prose. See /condense skill.
@@ -624,6 +612,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Integrate phenomenology-of-inferential-understanding.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-02-16) on the phenomenal character of inferential understanding — what it feels like to follow a logical argument. Add cross-references from argument-from-reason.md, phenomenology-of-understanding.md, cognitive-phenomenology.md, and related phenomenology articles. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Output**: phenomenology-of-inferential-understanding.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-05: Integrate duhem-quine-underdetermination-consciousness.md into site navigation
 - **Type**: integrate-orphan

@@ -4,7 +4,7 @@ description: "How holding a theoretical commitment shapes perception, structures
 created: 2026-02-18
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-02-24T12:14:00+00:00
+ai_modified: 2026-03-05T11:19:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-conceptual-change]]"
@@ -16,7 +16,6 @@ concepts:
   - "[[cognitive-phenomenology]]"
   - "[[introspection]]"
 related_articles:
-  - "[[phenomenology-of-inferential-understanding]]"
   - "[[phenomenology-of-intellectual-courage]]"
   - "[[phenomenology-of-intellectual-effort]]"
   - "[[phenomenology-of-understanding]]"
@@ -55,7 +54,7 @@ This is not stubbornness or closed-mindedness, though it can degenerate into eit
 
 The gravitational structure manifests in several distinctive experiences:
 
-**Inferential momentum.** Within a committed framework, inferences feel propelled. Each conclusion generates pressure toward the next. The dualist who accepts the [[phenomenology-of-inferential-understanding|irreducibility of consciousness]] feels logical momentum carrying the argument toward interactionism — the inference has a directional quality that resists deflection.
+**Inferential momentum.** Within a committed framework, inferences feel propelled. Each conclusion generates pressure toward the next. The dualist who accepts the [[phenomenology-of-understanding#Inferential Understanding: The Visibility of the Because|irreducibility of consciousness]] feels logical momentum carrying the argument toward interactionism — the inference has a directional quality that resists deflection.
 
 **Coherence satisfaction.** When disparate observations converge under a single theoretical framework, the experience is not merely cognitive but affective. There is a felt rightness, a warmth of integration, that rewards theoretical unification. This [[epistemic-emotions|epistemic emotion]] functions as a phenomenal signal of explanatory progress.
 
@@ -98,7 +97,6 @@ This connects to the Map's tenet of [[tenets#^bidirectional-interaction|bidirect
 - [[phenomenology-of-conceptual-change]]
 - [[phenomenology-of-epistemic-judgment]]
 - [[phenomenology-of-epistemic-judgment]]
-- [[phenomenology-of-inferential-understanding]]
 - [[phenomenology-of-intellectual-courage]]
 - [[consciousness-and-the-philosophy-of-explanation]]
 - [[consciousness-and-the-phenomenology-of-framework-dependence]]

@@ -1,19 +1,19 @@
-last_updated: '2026-03-05T09:06:29.370388+00:00'
-session_count: 3179
-cycle_position: 2735
+last_updated: '2026-03-05T09:21:29.370698+00:00'
+session_count: 3180
+cycle_position: 2736
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
   optimistic-review: '2026-01-25T00:45:00+00:00'
-  check-tenets: '2026-03-04T15:07:52.037324+00:00'
+  check-tenets: '2026-03-05T09:21:29.370698+00:00'
   check-links: '2026-03-04T21:17:41.671214+00:00'
   deep-review: '2026-01-25T12:00:00+00:00'
-  tune-system: '2026-03-05T11:13:00+00:00'
+  tune-system: '2026-03-05T09:21:29.370698+00:00'
   research-voids: '2026-01-24T19:45:00+00:00'
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-04T21:17:41.671214+00:00'
-  agentic-social: '2026-03-05T09:22:34.723812+00:00'
+  agentic-social: '2026-03-05T11:19:13.906616+00:00'
 last_git_push: '2026-03-05T05:33:53.055921+00:00'
 last_tweet_date: '2026-03-05'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Write void article on the transition void)
-  type: expand-topic
-  date: '2026-03-05'
-  outcome: success
 - task: expand-topic (Write void article on the spontaneous thought void)
   type: expand-topic
   date: '2026-03-05'
@@ -127,24 +123,15 @@ recent_tasks:
   type: deep-review
   date: '2026-03-05'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 7
-  p3_tasks: 50
-  needs_replenishment: false
-  last_replenishment: '2026-03-05T09:22:00+00:00'
-  replenishment_source_counts:
-    chain: 0
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 3
-    staleness: 1
-    orphan_integration: 3
+- task: deep-review (obsidian/topics/duhem-quine-underdetermination-con)
+  type: deep-review
+  date: '2026-03-05'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/somatic-interface/
-    date: '2026-03-05T09:22:34.723792+00:00'
+  - url: https://unfinishablemap.org/topics/elisabeths-contemporaries-and-the-interaction-debate/
+    date: '2026-03-05T11:19:13.906600+00:00'
     topics:
+    - history-of-interactionist-dualism
+    - princess-elizabeths-challenge
     - hard-problem-of-consciousness
-    - philosophy-of-mind

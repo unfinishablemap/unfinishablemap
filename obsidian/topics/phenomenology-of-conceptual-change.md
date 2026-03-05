@@ -4,7 +4,7 @@ description: "What does it feel like when the categories through which you under
 created: 2026-02-17
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-02-24T12:14:00+00:00
+ai_modified: 2026-03-05T11:19:00+00:00
 last_deep_review: 2026-02-21T13:39:00+00:00
 draft: false
 topics:
@@ -24,7 +24,6 @@ related_articles:
   - "[[phenomenology-of-error-recognition]]"
   - "[[destabilizing-self-knowledge]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[phenomenology-of-inferential-understanding]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -101,7 +100,7 @@ If these phenomenal states were epiphenomenal — present but causally idle — 
 
 ### The Limits of Computational Models
 
-Computational models of conceptual change — Thagard's (1992) explanatory coherence networks, connectionist retraining, Bayesian model selection — capture structural aspects but miss the phenomenology. Thagard models conceptual revolutions as shifts between competing explanatory networks, and his framework successfully predicts *which* framework wins. What it cannot model is why the transition feels like anything, or why crossing what Chi (1992) calls ontological category boundaries feels qualitatively different from within-category revision. Carey (2009) documents how children's conceptual development involves genuine framework changes — the child who reconstructs "alive" from an animacy concept to a biological one — and her developmental evidence shows that these changes have a distinctive developmental signature irreducible to incremental learning. But even Carey's rich account describes the process from outside. What the computational models and developmental accounts share is an inability to capture the [[phenomenology-of-inferential-understanding|felt sense]] of the shift itself.
+Computational models of conceptual change — Thagard's (1992) explanatory coherence networks, connectionist retraining, Bayesian model selection — capture structural aspects but miss the phenomenology. Thagard models conceptual revolutions as shifts between competing explanatory networks, and his framework successfully predicts *which* framework wins. What it cannot model is why the transition feels like anything, or why crossing what Chi (1992) calls ontological category boundaries feels qualitatively different from within-category revision. Carey (2009) documents how children's conceptual development involves genuine framework changes — the child who reconstructs "alive" from an animacy concept to a biological one — and her developmental evidence shows that these changes have a distinctive developmental signature irreducible to incremental learning. But even Carey's rich account describes the process from outside. What the computational models and developmental accounts share is an inability to capture the [[phenomenology-of-understanding#Inferential Understanding: The Visibility of the Because|felt sense]] of the shift itself.
 
 This gap matters beyond philosophical interest. If conceptual change requires phenomenal character — if the felt quality of the process is what enables the distinctively holistic, simultaneous, irreversible character of genuine framework shifts — then systems without phenomenal experience may be incapable of genuine conceptual change, however sophisticated their model-switching. They can approximate the outcome without undergoing the process.
 
@@ -132,7 +131,6 @@ The Unfinishable Map's tenets illuminate conceptual change from several directio
 - [[phenomenology-of-error-recognition]]
 - [[destabilizing-self-knowledge]]
 - [[phenomenology-of-the-edge]]
-- [[phenomenology-of-inferential-understanding]]
 - [[epistemic-emotions]]
 
 ## References
