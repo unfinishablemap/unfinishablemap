@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense phenomenological-psychiatry-altered-experience-2026-02-21.md (6349 words, 254% of target)
-- **Type**: condense
-- **Notes**: Research note exceeds critical word count threshold. Covers Sass/Parnas on ipseity disturbance, Fuchs on embodied temporality, depersonalisation phenomenology. Preserve key findings while tightening. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-05
-
 ### P1: Condense hard-problem-non-western-philosophy-2026-02-14.md (6149 words, 246% of target)
 - **Type**: condense
 - **Notes**: Research note exceeds critical word count threshold. Covers non-Western philosophical traditions on the hard problem. Preserve core cross-cultural arguments while removing redundancy. See /condense skill.
@@ -624,6 +618,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Condense phenomenological-psychiatry-altered-experience-2026-02-21.md (6349 words, 254% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds critical word count threshold. Covers Sass/Parnas on ipseity disturbance, Fuchs on embodied temporality, depersonalisation phenomenology. Preserve key findings while tightening. See /condense skill.
+- **Output**: obsidian/research/phenomenological-psychiatry-altered-experience-2026-02-21.md
 
 ### ✓ 2026-03-05: Condense interaction-problem-non-western-philosophy-2026-02-17.md (7437 words, 298% of target)
 - **Type**: condense

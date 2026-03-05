@@ -608,6 +608,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review 2026-03-04 evening. Moral deliberation involves phenomenal character (the felt weight of obligation, the pull of competing values) that resists functional reduction. The aesthetic article's treatment of normative-qualitative entanglement has a natural moral counterpart. Builds on aesthetic-dimension-of-consciousness.md, phenomenal-value-realism, phenomenology-of-moral-experience. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). See [optimistic-2026-03-04-evening](/reviews/optimistic-2026-03-04-evening/).
 
+### P3: Write article on consciousness, aesthetics, and value (apex synthesis)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Unify the decomposition test (binding-and-beauty), phenomenal value pluralism (phenomenal-value-realism), and filter model (dream-consciousness) into a major apex synthesis on aesthetic experience as both irreducible and causally efficacious. Target section: apex/. Supports Tenets 1 and 3. See [optimistic-2026-03-05](/reviews/optimistic-2026-03-05/).
+
+### P3: Write article on brain-computer interfaces and the interface boundary
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. As BCIs develop, does conscious control extend to external systems connected through neural feedback? Tests the developmental integration constraint from brain-specialness-boundary.md empirically. Builds on brain-specialness-boundary.md, attention-as-selection-interface.md, the-interface-specification-problem.md. Target section: topics/. Supports Tenet 2. See [optimistic-2026-03-05](/reviews/optimistic-2026-03-05/).
+
+### P3: Write article on pragmatism's path to dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Van Fraassen's pragmatic view inadvertently supports the reflexive gap; pragmatism pushed to its conclusion arrives at dualism-friendly territory. Builds on consciousness-and-the-limits-of-explanation.md, argument-from-reason.md. Target section: topics/. Supports Tenet 5. See [optimistic-2026-03-05](/reviews/optimistic-2026-03-05/).
+
 ## Completed Tasks
 
 
