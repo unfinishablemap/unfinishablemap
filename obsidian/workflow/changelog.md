@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 08:51 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Involuntariness Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [[research/voids-involuntariness-void-2026-03-05]]
+- **Key finding**: Consciousness is largely involuntary despite being causally efficacious under dualism; even extreme meditation achieves only indirect cessation, revealing a sovereignty paradox where outward causation exceeds inward control
+
 ## 2026-03-05 08:38 UTC - deep-review
 - **Status**: Success
 - **File**: [[self-stultification-as-master-argument]]
