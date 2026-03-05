@@ -26,6 +26,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-24
 last_curated:
+archived: true
+archived_date: 2026-03-05T07:36:00+00:00
+superseded_by: "/voids/evolved-cognitive-limits/"
+archive_reason: "Coalesced into Evolved Cognitive Limits"
+original_path: "/voids/adaptive-cognitive-limits/"
 ---
 
 Some cognitive limits are not defects but features. The Unfinishable Map's [[voids]] framework distinguishes between the Unexplored (what we haven't yet investigated), the Unexplorable (what our cognitive architecture cannot reach), and the Occluded (what is actively hidden). Adaptive cognitive limits introduce a fourth possibility: blind spots maintained by natural selection because ignorance itself conferred fitness advantages. These are not architectural failures or deliberate concealments — they are the evolved shape of a mind optimised for survival rather than truth.

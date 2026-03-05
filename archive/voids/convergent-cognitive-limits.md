@@ -27,6 +27,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-28
 last_curated: null
 last_deep_review: 2026-02-24T10:29:00+00:00
+archived: true
+archived_date: 2026-03-05T07:36:00+00:00
+superseded_by: "/voids/evolved-cognitive-limits/"
+archive_reason: "Coalesced into Evolved Cognitive Limits"
+original_path: "/voids/convergent-cognitive-limits/"
 ---
 
 Cross-cultural research reveals a striking pattern: humans across vastly different cultures converge on similar cognitive limits. The bias blind spot appears universally—from North America to China, Japan, the Middle East, and Europe. Mystical experiences show consistent three-factor structure across American Christians, Iranian Muslims, Indian Hindus, and Tibetan Buddhists. This convergence provides a methodological tool for the [[voids]] framework: convergent limits—those appearing independently across isolated cultures—are stronger candidates for the Unexplorable than limits that vary with culture.

@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 07:36 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/adaptive-cognitive-limits]], [[voids/convergent-cognitive-limits]]
+- **Target**: [[voids/evolved-cognitive-limits]]
+- **Archived**: [[archive/voids/adaptive-cognitive-limits]], [[archive/voids/convergent-cognitive-limits]]
+- **References to review**: ~25 files reference convergent-cognitive-limits, ~3 files reference adaptive-cognitive-limits
+
 ## 2026-03-05 07:21 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/transition-void]]
