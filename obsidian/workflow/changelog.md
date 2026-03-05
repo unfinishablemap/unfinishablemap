@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 23:26 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/inverted-qualia]]
+- **Word count**: 3315 → 3140 (-175)
+- **Critical issues addressed**: 3 (Shoemaker misattribution, Dennett uncited quote, Chalmers uncited quote)
+- **Medium issues addressed**: 5 (Strawson citation, Process Philosophy consolidation, Dennett rebuttal trim, Block & Fodor citation, Locke title fix)
+- **Enhancements made**: 2 (convergence argument cross-link, MQI/NMW tightening)
+- **Output**: [[reviews/deep-review-2026-03-05-inverted-qualia]]
+
 ## 2026-03-05 23:10 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/developmental-cognitive-closure]]
