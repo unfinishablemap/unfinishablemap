@@ -616,6 +616,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Van Fraassen's pragmatic view inadvertently supports the reflexive gap; pragmatism pushed to its conclusion arrives at dualism-friendly territory. Builds on consciousness-and-the-limits-of-explanation.md, argument-from-reason.md. Target section: topics/. Supports Tenet 5. See [[reviews/optimistic-2026-03-05]].
 
+### P3: Write concept page for Fitness-Beats-Truth theorem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Hoffman, Singh & Prakash's formal proof that fitness-tuned perception dominates truth-tuned perception. Currently discussed in evolved-cognitive-limits.md but deserves standalone concept page given implications for parsimony arguments, perceptual reliability, and Occam's Razor. Target section: concepts/ (1 slot remaining). Supports Tenet 5 (Occam's Razor Has Limits). See [[reviews/optimistic-2026-03-05-afternoon]].
+
+### P3: Apex synthesis of the voids taxonomy
+- **Type**: other
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The voids programme has 60+ articles but no apex synthesis. The evolved-cognitive-limits "naturally occluded" category suggests the taxonomy itself is evolving. An apex article could organise voids by type (architectural, adaptive, occluded), domain (perceptual, cognitive, phenomenological), and what they reveal about consciousness structure. Builds on voids.md, three-kinds-of-void.md, apophatic-cartography.md, and all void articles. See [[reviews/optimistic-2026-03-05-afternoon]].
+
+### P3: Write article on phenomenology of cognitive limit types
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Multiple articles gesture toward distinct phenomenologies for different limit types — frustration vs satisfaction vs illusory comprehension — but no article systematically maps these signatures. Builds on phenomenology-of-the-edge.md, topology-of-cognitive-failure.md, evolved-cognitive-limits.md. Target section: topics/ (1 slot remaining). Supports Tenet 1 (Dualism). See [[reviews/optimistic-2026-03-05-afternoon]].
+
 ## Completed Tasks
 
 
