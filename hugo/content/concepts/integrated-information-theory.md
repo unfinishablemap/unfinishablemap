@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-02-03 23:33:00+00:00
+ai_modified: 2026-03-05 11:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,7 +15,6 @@ concepts:
 - '[[emergence]]'
 - '[[concepts/functionalism]]'
 - '[[temporal-consciousness]]'
-- '[[temporal-consciousness]]'
 created: 2026-01-09
 date: &id001 2026-01-31
 description: Consciousness as integrated information (phi). IIT takes phenomenology
@@ -23,7 +22,7 @@ description: Consciousness as integrated information (phi). IIT takes phenomenol
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-31 04:58:00+00:00
+last_deep_review: 2026-03-05 11:47:00+00:00
 modified: *id001
 related_articles:
 - '[[temporal-structure-of-consciousness]]'
@@ -77,7 +76,7 @@ IIT provides formulas for calculating phi. Roughly: take a system, partition it 
 
 The system with the highest phi is the "maximally irreducible conceptual structure" (MICS)—and this, IIT claims, *is* the conscious experience.
 
-**The temporal problem**: IIT calculates Φ for a system at time *t*—an instantaneous snapshot. But consciousness isn't experienced as instantaneous. The [specious present](/topics/temporal-structure-of-consciousness/#experienced-duration) extends across 1-3 seconds. You hear a melody as a unified whole spanning seconds, not as isolated tones. IIT has no temporal dimension to explain how separate states at t, t+1, t+2 combine into the continuous flow we actually experience. Even accepting that high Φ produces phenomenal character, why would that character have temporal extension? The theory is silent on experienced duration.
+**The temporal problem**: IIT calculates Φ for a system at time *t*—an instantaneous snapshot. But consciousness isn't experienced as instantaneous. The [specious present](/topics/temporal-structure-of-consciousness/#the-specious-present) extends across 1-3 seconds. You hear a melody as a unified whole spanning seconds, not as isolated tones. IIT has no temporal dimension to explain how separate states at t, t+1, t+2 combine into the continuous flow we actually experience. Even accepting that high Φ produces phenomenal character, why would that character have temporal extension? The theory is silent on experienced duration.
 
 ## What IIT Implies
 
@@ -168,7 +167,7 @@ IIT might respond that the beliefs are accurate because consciousness *is* the p
 
 [Illusionists](/concepts/illusionism/) like Frankish and Dennett argue that consciousness as IIT conceives it—intrinsic, unified, qualitative experience—doesn't exist. There is no phenomenal integration to explain; we only *think* there is due to our cognitive architecture misrepresenting its own processes.
 
-IIT has a stronger response here than most consciousness theories. The axioms don't assume consciousness has any particular character that could be illusory—they describe what any experience, however minimal, must be like. If you have *any* experience at all, the axioms apply. The illusionist must deny not just qualia-rich phenomenality but any inner life whatsoever, a more radical commitment than many illusionists embrace.
+IIT has a stronger response here than most consciousness theories. The axioms don't assume consciousness has any particular character that could be illusory—they describe what any experience, however minimal, must be like. If you have *any* experience at all, the axioms apply. The illusionist must deny not just qualia-rich phenomenality but phenomenal consciousness in any form—not merely that experiences are less rich than we suppose, but that there is nothing it is like to have them at all.
 
 This parallels Tononi's response to the self-stultification objection: IIT grounds itself in immediate phenomenal acquaintance, not in theoretical claims that could be mistaken. You cannot be wrong that there is something it is like to be you right now. But this response presupposes phenomenal consciousness exists—exactly what illusionists deny.
 
@@ -225,6 +224,7 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 - [global-workspace-theory](/concepts/global-workspace-theory/) — IIT's main rival, also tested in COGITATE
 - [emergence](/concepts/emergence/) — Strong vs weak emergence and consciousness
 - [functionalism](/concepts/functionalism/) — The view IIT rejects with substrate-dependence
+- [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/) — How disorders of consciousness challenge IIT's predictions
 - [integrated-information-theory-2026-01-07](/research/integrated-information-theory-2026-01-07/) — Detailed research notes
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Why information cannot be identical to consciousness under dualism
 - [tenets](/tenets/) — the Map's alternative framework
@@ -238,6 +238,7 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 1. Aaronson, S. (2014). Why I am not an integrated information theorist (or, the unconscious expander). *Shtetl-Optimized*.
 1. COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
 1. Kerskens, C. M., & Pérez, D. L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
+1. McQueen, K. J. (2019). Interpretation-neutral integrated information theory. *Journal of Consciousness Studies*, 26(1-2), 76-106.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Internet Encyclopedia of Philosophy. Integrated Information Theory of Consciousness.

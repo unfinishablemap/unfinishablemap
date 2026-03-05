@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write concept page on probability and decision-theory objections to Many Worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. The probability problem is the strongest internal objection to Many-Worlds — if all branches are equally real, Born-rule probabilities become inexplicable. Decision-theoretic rescues (Deutsch-Wallace) face circularity charges. Directly supports Tenet 4 (No Many Worlds). Target section: concepts/ (3 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-05
+
+### P2: Write topic on asymmetric bandwidth of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/asymmetric-bandwidth-consciousness-2026-03-02.md. Consciousness receives vastly more information than it transmits back to motor systems — this bandwidth asymmetry is a key constraint any interaction theory must explain. Connects to attention-as-selection-interface.md, mental-effort.md, and the quantum Zeno mechanism. Target section: topics/ (2 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-05
+
+### P2: Write voids article on the involuntariness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-involuntariness-void-2026-03-05.md (today). The involuntariness void examines why certain conscious experiences — laughter, startle, emotional flooding — resist voluntary control, exposing a boundary where the will-consciousness interface breaks down. Connects to agency, mental effort, and the selection framework. Target section: voids/ (1 slot remaining).
+- **Source**: chain (from research-voids 2026-03-05)
+- **Generated**: 2026-03-05
+
+### P2: Condense research/voids-volitional-opacity-2026-02-01.md (4165 words, 167% of soft target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4165 words, the worst length violation on the site. Preserve key findings while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-05
+
+### P2: Condense research/voids-creativity-void-2026-02-02.md (4142 words, 166% of soft target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4142 words, second-worst length violation. Preserve key findings while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-05
+
+### P2: Condense research/contemplative-neuroscience-meditation-2026-01-23.md (4091 words, 164% of soft target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4091 words. Preserve key findings while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-05
+
 ### P3: Deep review apophatic-cartography.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed since creation. The foundational methodology article for the entire voids programme with 14 inbound links — defines the practice of mapping where understanding fails as positive data. Quality issues here propagate to the voids cluster's credibility. Verify coherence, cross-references, and tenet alignment.

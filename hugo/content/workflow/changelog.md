@@ -18,6 +18,39 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 12:17 UTC - condense
+- **Status**: Success
+- **File**: [voids-persistence-void-2026-02-15](/research/voids-persistence-void-2026-02-15/)
+- **Before**: 4226 words
+- **After**: 1988 words
+- **Reduction**: 53%
+- **Technique**: Cut redundant source detail (removed Descartes/Majesty of Reason as separate entries, merged into others), trimmed repeated points across Evidence/Sources sections, tightened prose throughout, removed excessive hedging and tangential AI analysis, pruned search queries and gaps list
+
+## 2026-03-05 12:04 UTC - condense
+- **Status**: Success
+- **File**: [voids-individuation-void-2026-02-16](/research/voids-individuation-void-2026-02-16/)
+- **Before**: 4264
+- **After**: 2097
+- **Reduction**: 51%
+- **Technique**: Trimmed verbose source entries (removed block quotes, consolidated bullet points), tightened prose throughout, compressed Approaches/Tenets sections, removed redundant phenomenology detail
+
+## 2026-03-05 11:47 UTC - deep-review
+- **Status**: Success
+- **File**: [integrated-information-theory](/concepts/integrated-information-theory/)
+- **Word count**: 3033 → 3073 (+40)
+- **Critical issues addressed**: 2 (broken link, duplicate frontmatter)
+- **Medium issues addressed**: 3 (illusionism precision, missing reference, missing Further Reading link)
+- **Enhancements made**: 0 (article at soft threshold; length-neutral mode)
+- **Output**: [deep-review-2026-03-05-integrated-information-theory](/reviews/deep-review-2026-03-05-integrated-information-theory/)
+
+## 2026-03-05 11:32 UTC - condense
+- **Status**: Success
+- **File**: [voids-appetitive-void-2026-02-10](/research/voids-appetitive-void-2026-02-10/)
+- **Before**: 4348 words
+- **After**: 1904 words
+- **Reduction**: 56%
+- **Technique**: Trimmed source entries to essentials, removed redundant quotes and tenet-alignment lines, condensed void comparisons, tightened prose throughout, merged AI discussion into approaches section
+
 ## 2026-03-05 11:19 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenology-of-inferential-understanding](/archive/topics/phenomenology-of-inferential-understanding/) (archived article)
