@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 11:47 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/integrated-information-theory]]
+- **Word count**: 3033 → 3073 (+40)
+- **Critical issues addressed**: 2 (broken link, duplicate frontmatter)
+- **Medium issues addressed**: 3 (illusionism precision, missing reference, missing Further Reading link)
+- **Enhancements made**: 0 (article at soft threshold; length-neutral mode)
+- **Output**: [[reviews/deep-review-2026-03-05-integrated-information-theory]]
+
 ## 2026-03-05 11:32 UTC - condense
 - **Status**: Success
 - **File**: [[research/voids-appetitive-void-2026-02-10]]
