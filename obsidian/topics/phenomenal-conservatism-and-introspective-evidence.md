@@ -4,7 +4,7 @@ description: "Huemer's principle—trust appearances unless defeated—provides 
 created: 2026-02-09
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-02-13T19:34:00+00:00
+ai_modified: 2026-03-05T16:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -128,6 +128,7 @@ What PC rules out is treating the qualitative presentations of consciousness as 
 
 ## Further Reading
 
+- [[phenomenology-of-epistemic-judgment]] — How weighing evidence and changing beliefs feel from the inside
 - [[introspection]] — The reliability debate and the process/content distinction
 - [[acquaintance-knowledge]] — Russell's framework for direct knowledge of phenomenal character
 - [[phenomenological-evidence]] — When and how first-person reports constitute evidence

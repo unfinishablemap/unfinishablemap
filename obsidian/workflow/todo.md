@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenology-of-belief-revision.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Article covers phenomenological aspects of changing one's mind — relevant to epistemology-of-consciousness, contemplative-evidence, and philosophical-methodology articles. Add cross-references from related content.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-05
-
 ### P2: Integrate consciousness-and-pain.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has zero inbound links from content articles despite a prior integration attempt. Pain is a central phenomenological example used across the site (qualia, hard-problem, embodied-cognition). Needs body-text wikilinks from articles that discuss pain phenomenology.
@@ -639,6 +633,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Integrate phenomenology-of-belief-revision.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Article covers phenomenological aspects of changing one's mind — relevant to epistemology-of-consciousness, contemplative-evidence, and philosophical-methodology articles. Add cross-references from related content.
+- **Output**: phenomenology-of-belief-revision.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-05: Integrate measurement-problem-as-hard-problem.md into site navigation
 - **Type**: integrate-orphan

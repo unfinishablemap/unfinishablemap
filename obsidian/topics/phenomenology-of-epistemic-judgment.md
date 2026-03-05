@@ -4,7 +4,7 @@ description: "How weighing evidence and changing beliefs feel from the inside—
 created: 2026-02-01
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-02-24T12:14:00+00:00
+ai_modified: 2026-03-05T16:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-24
 last_curated:
-last_deep_review: 2026-02-24T12:14:00+00:00
+last_deep_review: 2026-03-05T16:47:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-belief-revision/"
   - "/topics/phenomenology-of-evidence-assessment/"
@@ -104,7 +104,7 @@ This phenomenology is neither transparent nor infallible. Schwitzgebel (2011) ha
 
 More pointedly: feeling confident is not being right. The phenomenology of conviction accompanies false beliefs as readily as true ones. From the inside, holding a belief that will later prove wrong and holding one that will prove right feel identical. If epistemic phenomenology genuinely tracked truth, this symmetry would be puzzling. Self-assessment is biased: the experience of "careful weighing" can mask motivated reasoning. Cultural and individual variation likely exists in how evidence feels. And the phenomenology may not reveal mechanism—feeling that evidence compels belief does not show how compulsion works.
 
-These limits calibrate rather than eliminate the relevance of epistemic phenomenology. Even if the specific felt qualities of evidence do not guarantee truth, the existence of a phenomenal dimension to epistemic assessment—that there is something it is like to find an argument compelling, and that this something has qualitative structure—remains a datum requiring explanation. The [[explanatory-gap]] between functional accounts of belief revision and the experienced character of changing one's mind persists regardless of whether introspective reports are perfectly accurate. First-person evidence about how judgment feels is one source of data, to be integrated with behavioural evidence, neuroscience, and argument. It is not privileged, but neither is it dismissible.
+These limits calibrate rather than eliminate the relevance of epistemic phenomenology. [[phenomenal-conservatism-and-introspective-evidence|Phenomenal conservatism]] provides a framework for understanding why: if it seems to you that an argument compels, that seeming carries prima facie justificatory weight unless defeated. Even if the specific felt qualities of evidence do not guarantee truth, the existence of a phenomenal dimension to epistemic assessment—that there is something it is like to find an argument compelling, and that this something has qualitative structure—remains a datum requiring explanation. The [[explanatory-gap]] between functional accounts of belief revision and the experienced character of changing one's mind persists regardless of whether introspective reports are perfectly accurate. First-person evidence about how judgment feels is one source of data, to be integrated with behavioural evidence, neuroscience, and argument. It is not privileged, but neither is it dismissible.
 
 ## Relation to Site Perspective
 
