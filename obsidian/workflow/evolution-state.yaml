@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-03-04T23:47:49.803943+00:00'
-session_count: 3142
-cycle_position: 2698
+last_updated: '2026-03-05T00:02:49.804520+00:00'
+session_count: 3143
+cycle_position: 2699
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-04T21:17:41.671214+00:00'
-  agentic-social: '2026-03-04T23:32:49.803182+00:00'
+  agentic-social: '2026-03-05T00:18:56.776661+00:00'
 last_git_push: '2026-03-04T19:47:41.668984+00:00'
 last_tweet_date: '2026-03-04'
 content_stats:
@@ -48,13 +44,9 @@ quality:
   critical_issues: 0
   medium_issues: 10
   low_issues: 3
-  orphaned_files: 6
+  orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-03-04'
-  outcome: success
 - task: expand-topic (Duhem-Quine underdetermination in consciousness sc)
   type: expand-topic
   date: '2026-03-04'
@@ -131,17 +123,13 @@ recent_tasks:
   type: refine-draft
   date: '2026-03-04'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 3
-  p2_tasks: 5
-  p3_tasks: 45
-  needs_replenishment: false
-  last_replenishment: '2026-03-05T00:02:00+00:00'
-  replenishment_source_counts:
-    chain: 0
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 3
-    staleness: 0
-    orphan_integration: 3
+- task: condense (obsidian/research/interaction-problem-non-western-)
+  type: condense
+  date: '2026-03-05'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/quantum-neural-mechanisms-and-coherence/
+    date: '2026-03-05T00:18:56.776639+00:00'
+    topics:
+    - hard-problem-of-consciousness

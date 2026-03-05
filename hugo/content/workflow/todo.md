@@ -38,6 +38,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Condense phenomenological-psychiatry-altered-experience-2026-02-21.md (6349 words, 254% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds critical word count threshold. Covers Sass/Parnas on ipseity disturbance, Fuchs on embodied temporality, depersonalisation phenomenology. Preserve key findings while tightening. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-05
+
+### P1: Condense hard-problem-non-western-philosophy-2026-02-14.md (6149 words, 246% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds critical word count threshold. Covers non-Western philosophical traditions on the hard problem. Preserve core cross-cultural arguments while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-05
+
+### P2: Integrate consciousness-and-pain.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the relationship between consciousness and pain — covering pain asymbolia, phantom pain, and what pain's phenomenal character reveals about consciousness. Add cross-references from pain-consciousness-and-causal-power.md, phenomenal-value-realism.md, emotion-as-evidence-for-dualism.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-05
+
+### P2: Integrate surprise-and-creativity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the relationship between surprise and creative cognition — relevant to the Map's treatment of consciousness and creativity, the incubation effect, and phenomenology of insight. Add cross-references from consciousness-and-creativity.md, consciousness-and-creative-distinctiveness.md, and phenomenology-of-understanding.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-05
+
+### P2: Integrate probability-problem-in-many-worlds.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-03-04) on the Born rule probability problem as a challenge to Many-Worlds interpretation. Directly supports Tenet 4 (No Many Worlds). Add cross-references from many-worlds.md, quantum-interpretations.md, indexical-identity-quantum-measurement.md, and philosophical-stakes-of-spontaneous-collapse.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-05
+
 ### P3: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
@@ -580,6 +610,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Condense interaction-problem-non-western-philosophy-2026-02-17.md (7437 words, 298% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds critical word count threshold. At 7437 words, it is the longest research file on the site. Preserve core philosophical arguments about how non-Western traditions approach the interaction problem while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/research/interaction-problem-non-western-philosophy-2026-02-17.md
 
 ### ✓ 2026-03-04: Address gaps in epistemology-of-other-minds-under-dualism.md
 - **Type**: refine-draft
