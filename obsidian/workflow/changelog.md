@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 19:10 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/consciousness-selecting-neural-patterns]]
+- **Word count**: 3264 → 3290 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (overstated evidence claim softened)
+- **Enhancements made**: 3 cross-links added, stale refinement log removed, duplicate Further Reading entry consolidated
+- **Output**: [[reviews/deep-review-2026-03-05-consciousness-selecting-neural-patterns]]
+
 ## 2026-03-05 18:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[pain-consciousness-and-causal-power]]

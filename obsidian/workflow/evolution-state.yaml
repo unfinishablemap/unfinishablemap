@@ -1,6 +1,10 @@
-last_updated: '2026-03-05T17:17:47.295619+00:00'
-session_count: 3205
-cycle_position: 2761
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-05T18:55:07.144239+00:00'
+session_count: 3206
+cycle_position: 2762
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-04T21:17:41.671214+00:00'
-  agentic-social: '2026-03-05T18:56:31.532792+00:00'
+  agentic-social: '2026-03-05T18:55:07.144239+00:00'
 last_git_push: '2026-03-05T15:17:47.291269+00:00'
 last_tweet_date: '2026-03-05'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-03-05'
-  outcome: success
 - task: expand-topic (Write concept page on probability and decision-the)
   type: expand-topic
   date: '2026-03-05'
@@ -127,13 +127,7 @@ recent_tasks:
   type: deep-review
   date: '2026-03-05'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/apex/process-and-consciousness/
-    date: '2026-03-05T18:56:31.532766+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - process-philosophy
-    - temporal-consciousness
-    - panpsychism
+- task: deep-review (obsidian/topics/pain-consciousness-and-causal-powe)
+  type: deep-review
+  date: '2026-03-05'
+  outcome: success
