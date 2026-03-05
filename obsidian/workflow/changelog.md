@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 16:02 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/intentionality]]
+- **Word count**: 3479 → 3395 (-84)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (unverifiable IEP quote, prose tightening for length)
+- **Enhancements made**: 1 (cross-link to consciousness-and-collective-intentionality)
+- **Output**: [[reviews/deep-review-2026-03-05-intentionality]]
+
 ## 2026-03-05 15:49 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-interpretations]]
