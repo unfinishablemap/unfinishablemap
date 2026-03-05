@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write void article on the transition void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-transition-void-2026-03-05.md. The transition void examines what happens at the boundaries between conscious states — the gap between waking and sleeping, attention and inattention, one thought and the next. These transitions resist description from either side. Target section: voids/ (2 slots remaining). Supports Tenet 1 (Dualism).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-05
-
 ### P2: Write void article on the spontaneous thought void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-spontaneous-thought-void-2026-03-04.md. The spontaneous thought void examines why thoughts arise unbidden — the gap between no-thought and thought that resists causal explanation from the first-person perspective. Target section: voids/ (2 slots remaining). Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
@@ -630,6 +624,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Write void article on the transition void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-transition-void-2026-03-05.md. The transition void examines what happens at the boundaries between conscious states — the gap between waking and sleeping, attention and inattention, one thought and the next. These transitions resist description from either side. Target section: voids/ (2 slots remaining). Supports Tenet 1 (Dualism).
+- **Output**: Write void article on the transition void
 
 ### ✓ 2026-03-05: Write concept page for apophatic approaches
 - **Type**: expand-topic

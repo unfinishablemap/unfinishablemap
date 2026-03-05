@@ -96,6 +96,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[acquaintance-void|The Acquaintance Void]] — Modes of direct phenomenal contact structurally inaccessible to minds like ours
 - [[minimal-consciousness-void|The Minimal Consciousness Void]] — Why consciousness cannot investigate its own lower bound
 - [[amplification-void|The Amplification Void]] — Why the chain from quantum influence to neural effect cannot be traced
+- [[transition-void|The Transition Void]] — Why consciousness cannot witness its own state transitions
 
 ### Phenomenology of Limits
 
