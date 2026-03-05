@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate consciousness-and-pain.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has zero inbound links from content articles despite a prior integration attempt. Pain is a central phenomenological example used across the site (qualia, hard-problem, embodied-cognition). Needs body-text wikilinks from articles that discuss pain phenomenology.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-05
-
-### P2: Condense research/dreams-problem-solving-lucid-dreaming-2026-02-06.md (4058 words, 116% of target)
-- **Type**: condense
-- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy. Worst length offender among current research files.
-- **Source**: length_analysis
-- **Generated**: 2026-03-05
-
 ### P3: Address unfalsifiable unity claim in cognitive-integration-and-the-self.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-03-05-afternoon) found split-brain section makes consciousness unity unfalsifiable by claiming severing the interface only disrupts "expression." Also flagged speculative quantum binding claim about 40 Hz oscillations lacking scientific basis. See pessimistic-2026-03-05-afternoon.md.
@@ -633,6 +621,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Integrate consciousness-and-pain.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero inbound links from content articles despite a prior integration attempt. Pain is a central phenomenological example used across the site (qualia, hard-problem, embodied-cognition). Needs body-text wikilinks from articles that discuss pain phenomenology.
+- **Output**: consciousness-and-pain.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-05: Integrate phenomenology-of-belief-revision.md into site navigation
 - **Type**: integrate-orphan

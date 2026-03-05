@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 17:02 UTC - deep-review
+- **Status**: Skipped (archived article)
+- **File**: [[archive/topics/consciousness-and-pain]] (archived 2026-02-22 → successor [[why-pain-hurts]])
+- **Notes**: This is the 5th review request for this archived file. Orphan detection is a false positive — archived articles have no inbound links by design. The successor `why-pain-hurts` already has 26+ inbound links. All Tier 1 and Tier 2 cross-reference candidates were completed in the 2026-03-05 review. No changes made.
+
 ## 2026-03-05 16:47 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-epistemic-judgment]]
