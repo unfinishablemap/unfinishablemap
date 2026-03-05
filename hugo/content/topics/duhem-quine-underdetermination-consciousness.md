@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-03-04 20:02:00+00:00
+ai_modified: 2026-03-05 09:28:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: No experiment can isolate a consciousness theory for testing. Human
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-04 20:02:00+00:00
+last_deep_review: 2026-03-05 09:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,7 +44,7 @@ Two forms of underdetermination matter here. **Holist underdetermination** conce
 
 ## Why Consciousness Science Is Uniquely Vulnerable
 
-Standard underdetermination in physics or biology involves theories that share a common evidential base: third-person observations of physical systems. Consciousness science introduces a complication with no parallel elsewhere. The data include first-person reports about subjective experience—what it is like to see red, to feel pain, to attend to a stimulus. As Chalmers argues, first-person data are irreducible to third-person data and vice versa; both are needed for a science of consciousness, but the relationship between them is precisely what the competing theories dispute.
+Underdetermination afflicts all sciences—string theory versus loop quantum gravity, dark matter versus modified gravity—but these disputes share a common evidential base: third-person observations of physical systems. Consciousness science introduces a complication with no parallel elsewhere. The data include first-person reports about subjective experience—what it is like to see red, to feel pain, to attend to a stimulus. As Chalmers argues, first-person data are irreducible to third-person data and vice versa; both are needed for a science of consciousness, but the relationship between them is precisely what the competing theories dispute.
 
 This creates a layered underdetermination:
 
@@ -66,7 +66,7 @@ No decisive verdict emerged. As the investigators acknowledged, "the theories ar
 
 Negro (2024) proposed that Lakatos's methodology of scientific research programmes offers a better framework than "experimental eliminativism" for consciousness science. On this view, each consciousness theory has a **hard core** of commitments protected by a **belt** of auxiliary hypotheses. When predictions fail, researchers revise auxiliaries rather than abandoning the core—and this is rational, provided the programme remains **progressive** (generating novel, testable predictions) rather than **degenerating** (merely accommodating evidence after the fact).
 
-After COGITATE, both IIT and GWT remained progressive by Lakatosian standards. Both responded to mixed results by revising auxiliary hypotheses and generating new predictions. Lakatos's key insight applies: "a degenerating research programme can ultimately be discarded only by another research programme, not by an experiment." No single experiment—however well-designed—can eliminate a theory that can rationally revise its auxiliaries.
+After COGITATE, both IIT and GWT remained progressive by Lakatosian standards. Both responded to mixed results by revising auxiliary hypotheses and generating new predictions. Lakatos's key insight applies: a degenerating research programme can ultimately be discarded only by another research programme, not by an experiment. No single experiment—however well-designed—can eliminate a theory that can rationally revise its auxiliaries.
 
 This has a direct consequence for the debate between physicalism and dualism. Physicalist theories cannot claim victory merely because they have more empirical results; what matters is whether they are progressive relative to alternatives. And dualist programmes cannot be dismissed by a single argument or experiment—they must be outperformed as research programmes over time.
 

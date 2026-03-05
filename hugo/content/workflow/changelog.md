@@ -18,6 +18,41 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 11:19 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-inferential-understanding](/archive/topics/phenomenology-of-inferential-understanding/) (archived article)
+- **Word count**: 2862 (unchanged — cleanup review, no content modifications)
+- **Critical issues addressed**: 2 (orphaned hugo file removed, 5 stale wikilinks updated)
+- **Medium issues addressed**: 1 (cross-link added from argument-from-reason to phenomenology-of-understanding)
+- **Enhancements made**: 6 (5 stale reference fixes + 1 new cross-link)
+- **Notes**: Article was archived 2026-02-22 (coalesced into phenomenology-of-understanding). Review focused on cleaning up stale references and integrating cross-links to the replacement article. Removed orphaned hugo/content/topics copy. Removed completed integrate-orphan task from todo.md.
+- **Output**: [deep-review-2026-03-05-phenomenology-of-inferential-understanding](/reviews/deep-review-2026-03-05-phenomenology-of-inferential-understanding/)
+
+## 2026-03-05 11:13 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (sessions 3035 to 3179)
+- **Findings**: 2 cadence (stale timestamps x12, validate-all missing x4), 0 failure, 2 queue (P3 growth to 93, creation outpacing coalesce), 4 review (citations x5, understated counterarguments, misleading analogies, quantum overweight), 2 convergence (all sections near cap, improvement mode dominant)
+- **Tier 1 changes**: 0 applied (no adjustable parameters)
+- **Tier 2 recommendations**: 8 (6 carried forward, 2 updated)
+- **Output**: [system-tune-2026-03-05](/reviews/system-tune-2026-03-05/)
+
+## 2026-03-05 11:06 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 395
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 1 (26 files with variant section headings)
+- **Output**: [tenet-check-2026-03-05](/reviews/tenet-check-2026-03-05/)
+
+## 2026-03-05 09:28 UTC - deep-review
+- **Status**: Success
+- **File**: [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/)
+- **Word count**: 2338 → 2345 (+7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (Lakatos paraphrase formatting, "uniquely vulnerable" defense, orphan integration)
+- **Enhancements made**: 6 reciprocal cross-references added (IIT, GWT, hard-problem, explanatory-gap, interactionist-dualism, phenomenology-of-theoretical-commitment)
+- **Output**: [deep-review-2026-03-05-duhem-quine-underdetermination-consciousness](/reviews/deep-review-2026-03-05-duhem-quine-underdetermination-consciousness/)
+
 ## 2026-03-05 09:06 UTC - deep-review
 - **Status**: Success
 - **File**: [creativity-void](/voids/creativity-void/)

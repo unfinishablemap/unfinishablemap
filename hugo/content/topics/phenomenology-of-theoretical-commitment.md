@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-02-24 12:14:00+00:00
+ai_modified: 2026-03-05 11:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,6 @@ last_curated: null
 last_deep_review: 2026-02-21 22:31:00+00:00
 modified: *id001
 related_articles:
-- '[[phenomenology-of-inferential-understanding]]'
 - '[[phenomenology-of-intellectual-courage]]'
 - '[[phenomenology-of-intellectual-effort]]'
 - '[[phenomenology-of-understanding]]'
@@ -27,6 +26,7 @@ related_articles:
 - '[[argument-from-reason]]'
 - '[[consciousness-and-the-phenomenology-of-framework-dependence]]'
 - '[[phenomenology-of-philosophical-disagreement]]'
+- '[[duhem-quine-underdetermination-consciousness]]'
 title: The Phenomenology of Theoretical Commitment
 topics:
 - '[[phenomenology-of-conceptual-change]]'
@@ -57,7 +57,7 @@ This is not stubbornness or closed-mindedness, though it can degenerate into eit
 
 The gravitational structure manifests in several distinctive experiences:
 
-**Inferential momentum.** Within a committed framework, inferences feel propelled. Each conclusion generates pressure toward the next. The dualist who accepts the [irreducibility of consciousness](/topics/phenomenology-of-understanding/) feels logical momentum carrying the argument toward interactionism — the inference has a directional quality that resists deflection.
+**Inferential momentum.** Within a committed framework, inferences feel propelled. Each conclusion generates pressure toward the next. The dualist who accepts the [irreducibility of consciousness](/topics/phenomenology-of-understanding/#inferential-understanding-the-visibility-of-the-because) feels logical momentum carrying the argument toward interactionism — the inference has a directional quality that resists deflection.
 
 **Coherence satisfaction.** When disparate observations converge under a single theoretical framework, the experience is not merely cognitive but affective. There is a felt rightness, a warmth of integration, that rewards theoretical unification. This [epistemic emotion](/concepts/epistemic-emotions/) functions as a phenomenal signal of explanatory progress.
 
@@ -83,7 +83,7 @@ There is a fundamental asymmetry in the phenomenology of theoretical commitment:
 
 This first-person asymmetry has profound implications for the philosophy of mind. A materialist committed to physicalism does not experience their position as a theoretical choice made under uncertainty. They experience the explanatory gap as a puzzle to be solved, not a sign that their framework is inadequate. A dualist committed to irreducibility does not experience their position as faith-based resistance to science. They experience the gap as pointing toward a genuine feature of reality.
 
-The asymmetry suggests that theoretical commitment involves a kind of phenomenal authority — the sense that one's framework provides genuine access to how things are. This authority is not justified by the commitment itself (that would be circular) but is a constitutive part of what commitment phenomenally involves. Recognising this authority as phenomenal rather than epistemic — as a feature of experience rather than a guarantee of truth — is essential for honest inquiry. Ratcliffe's work on *feelings of being* illuminates this: certain experiential orientations are not attitudes toward propositions but pre-reflective ways of finding oneself in the world. Theoretical commitment operates at this level — it shapes the space of what feels intelligible before deliberate evaluation begins.
+The asymmetry suggests that theoretical commitment involves a kind of phenomenal authority — the sense that one's framework provides genuine access to how things are. This is the phenomenological face of [Duhem-Quine underdetermination](/topics/duhem-quine-underdetermination-consciousness/): when evidence cannot force theory choice, each committed theorist experiences their framework as transparent rather than as a lens. This authority is not justified by the commitment itself (that would be circular) but is a constitutive part of what commitment phenomenally involves. Recognising this authority as phenomenal rather than epistemic — as a feature of experience rather than a guarantee of truth — is essential for honest inquiry. Ratcliffe's work on *feelings of being* illuminates this: certain experiential orientations are not attitudes toward propositions but pre-reflective ways of finding oneself in the world. Theoretical commitment operates at this level — it shapes the space of what feels intelligible before deliberate evaluation begins.
 
 ## Relation to Site Perspective
 
@@ -100,7 +100,6 @@ This connects to the Map's tenet of [bidirectional interaction](/tenets/#bidirec
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
 - [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/)
 - [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/)
-- [phenomenology-of-inferential-understanding](/topics/phenomenology-of-understanding/)
 - [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/)
 - [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/)
 - [consciousness-and-the-phenomenology-of-framework-dependence](/topics/consciousness-and-the-phenomenology-of-framework-dependence/)

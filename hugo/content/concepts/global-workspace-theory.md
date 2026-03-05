@@ -34,6 +34,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[global-workspace-theory-2026-01-14]]'
+- '[[duhem-quine-underdetermination-consciousness]]'
 title: Global Workspace Theory
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -84,7 +85,7 @@ The April 2025 COGITATE study represents a landmark event in consciousness resea
 - Prefrontal cortex activated for category recognition but not for specific identity or orientation
 - The general pattern showed limited representation in prefrontal cortex compared to what full global broadcast predicts
 
-**Neither theory emerged unscathed.** As the researchers concluded: "It was clear that no single experiment would decisively refute either theory"—the theories proved "too different in assumptions and explanatory goals" for direct adjudication.
+**Neither theory emerged unscathed.** As the researchers concluded: "It was clear that no single experiment would decisively refute either theory"—the theories proved "too different in assumptions and explanatory goals" for direct adjudication. This is a concrete instance of [Duhem-Quine underdetermination](/topics/duhem-quine-underdetermination-consciousness/)—the deeper problem that no experiment in consciousness science tests a hypothesis in isolation.
 
 This outcome supports the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet. Neither leading physicalist theory of consciousness fully captures the phenomena. The COGITATE results don't refute physicalism, but they demonstrate that our best scientific theories remain incomplete. The hard problem persists not because we lack clever theories but because the empirical constraints remain weak enough to sustain multiple incompatible accounts.
 

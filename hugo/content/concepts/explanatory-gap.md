@@ -29,6 +29,7 @@ related_articles:
 - '[[explanatory-void]]'
 - '[[metaphysics-of-information-under-dualism]]'
 - '[[consciousness-and-the-problem-of-measurement-standards]]'
+- '[[duhem-quine-underdetermination-consciousness]]'
 title: The Explanatory Gap
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -127,7 +128,7 @@ Levine's original formulation was carefully modest: the gap is epistemic, concer
 
 But Chalmers' development of the gap into the [hard problem](/topics/hard-problem-of-consciousness/) pushes toward ontological conclusions. The gap isn't like our historical failure to understand lightning (which was resolved by learning physical facts). With consciousness, we cannot even imagine what kind of physical fact would make the experience of red intelligible. The gap resists all incremental progress. The [explanatory-void](/voids/explanatory-void/) deepens this point: the phenomenal feeling of explanatory satisfaction—what makes the water/H₂O reduction seem *transparent*—is itself a conscious state. The very criterion by which we would judge the gap closed belongs to what the gap leaves unexplained.
 
-This suggests the gap is not merely in us but in the nature of things. If consciousness were identical to physical processes, we would expect the identity to be explanatorily satisfying once we had the facts—as with water and H₂O. The persistent dissatisfaction suggests the identity doesn't hold. [Cognitive science's own methodology](/topics/cognitive-science-of-dualism/) reveals the same structure: the field depends on first-person report to ground its third-person measurements, creating a methodological circle it cannot close from within.
+This suggests the gap is not merely in us but in the nature of things. If consciousness were identical to physical processes, we would expect the identity to be explanatorily satisfying once we had the facts—as with water and H₂O. The persistent dissatisfaction suggests the identity doesn't hold. The gap functions as a fundamental auxiliary assumption in the [Duhem-Quine sense](/topics/duhem-quine-underdetermination-consciousness/): physicalists presuppose it can be closed; dualists deny it—and no experiment can adjudicate because the disagreement concerns what would count as closure. [Cognitive science's own methodology](/topics/cognitive-science-of-dualism/) reveals the same structure: the field depends on first-person report to ground its third-person measurements, creating a methodological circle it cannot close from within.
 
 ### The Mysterian Alternative
 

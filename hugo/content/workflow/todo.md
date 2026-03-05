@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-05 02:17:00+00:00
+ai_modified: 2026-03-05 09:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Condense voids-appetitive-void-2026-02-10.md (4348 words, 174% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard warning threshold for research/. Covers the appetitive void — the gap between desire and satisfaction, wanting and having. Preserve core findings while removing redundancy and tightening prose. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-05
+
+### P2: Condense voids-individuation-void-2026-02-16.md (4264 words, 171% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard warning threshold for research/. Covers the individuation void — how individual conscious perspectives emerge and maintain boundaries. Preserve core findings while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-05
+
+### P2: Condense voids-persistence-void-2026-02-15.md (4226 words, 169% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard warning threshold for research/. Covers the persistence void — why consciousness persists as a unified stream rather than fragmenting. Preserve core findings while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-05
+
+### P3: Deep review apophatic-cartography.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed since creation. The foundational methodology article for the entire voids programme with 14 inbound links — defines the practice of mapping where understanding fails as positive data. Quality issues here propagate to the voids cluster's credibility. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-05
 
 ### P3: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic
@@ -589,6 +613,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Integrate phenomenology-of-inferential-understanding.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-02-16) on the phenomenal character of inferential understanding — what it feels like to follow a logical argument. Add cross-references from argument-from-reason.md, phenomenology-of-understanding.md, cognitive-phenomenology.md, and related phenomenology articles. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Output**: phenomenology-of-inferential-understanding.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-05: Integrate duhem-quine-underdetermination-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-03-04) applying the Duhem-Quine thesis to consciousness science — showing that underdetermination undermines parsimony-based arguments for physicalism over dualism. Should be linked from philosophy-of-science-under-dualism.md, epistemological-limits-occams-razor.md, consciousness-and-scientific-methodology.md, and related methodology articles. Supports Tenet 5 (Occam's Razor Has Limits).
+- **Output**: obsidian/topics/duhem-quine-underdetermination-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-05: Review creativity-void.md considering spontaneous-thought-void insights
 - **Type**: cross-review

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-03-05 06:39:57+00:00
+ai_modified: 2026-03-05 11:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,6 @@ related_articles:
 - '[[consciousness-and-testimony]]'
 - '[[consciousness-and-normative-force]]'
 - '[[consciousness-and-the-authority-of-logic]]'
-- '[[phenomenology-of-inferential-understanding]]'
 - '[[intersubjective-void]]'
 - '[[phenomenology-of-theoretical-commitment]]'
 - '[[consciousness-and-the-problem-of-philosophical-progress]]'
