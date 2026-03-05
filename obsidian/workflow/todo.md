@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page for apophatic approaches
-- **Type**: expand-topic
-- **Notes**: Referenced by 73 wikilinks across published content but no corresponding file exists (only voids/apophatic-cartography.md covers the related mapping metaphor). Apophatic approaches — defining consciousness by what it is not — are a distinctive methodology the Map employs but has no dedicated treatment of. Target section: concepts/ (5 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-05
-
 ### P3: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
@@ -600,6 +594,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Write concept page for apophatic approaches
+- **Type**: expand-topic
+- **Notes**: Referenced by 73 wikilinks across published content but no corresponding file exists (only voids/apophatic-cartography.md covers the related mapping metaphor). Apophatic approaches — defining consciousness by what it is not — are a distinctive methodology the Map employs but has no dedicated treatment of. Target section: concepts/ (5 slots remaining).
+- **Output**: Write concept page for apophatic approaches
 
 ### ✓ 2026-03-05: Write concept page for phenomenal intentionality
 - **Type**: expand-topic
