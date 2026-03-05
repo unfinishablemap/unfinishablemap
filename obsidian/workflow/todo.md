@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on constitutive exclusion
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-constitutive-exclusion-2026-03-04.md. Constitutive exclusion examines cases where the very structure of a cognitive capacity necessarily excludes certain contents — not through failure but through design. Target section: voids/ (3 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-05
-
-### P2: Write voids article on the readiness void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-readiness-void-2026-03-04.md. The readiness void examines the gap between being prepared for an experience and having it — consciousness cannot preview its own future states. Target section: voids/ (3 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-05
-
 ### P2: Condense research/dreams-problem-solving-lucid-dreaming-2026-02-06.md (4058 words)
 - **Type**: condense
 - **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4058 words. Preserve key findings on dream problem-solving and lucid dreaming while removing redundancy. See /condense skill.
@@ -656,6 +644,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Write voids article on constitutive exclusion
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-constitutive-exclusion-2026-03-04.md. Constitutive exclusion examines cases where the very structure of a cognitive capacity necessarily excludes certain contents — not through failure but through design. Target section: voids/ (3 slots remaining).
+- **Output**: Write voids article on constitutive exclusion
 
 ### ✓ 2026-03-05: Write voids article on the expertise void
 - **Type**: expand-topic

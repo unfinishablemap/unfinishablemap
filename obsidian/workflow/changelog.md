@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 20:55 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Constitutive Exclusion
+- **Output**: [[topics/constitutive-exclusion]]
+- **Word count**: 1736
+- **Based on research**: yes, [[research/voids-constitutive-exclusion-2026-03-04]]
+- **Note**: Placed in topics/ (voids/ at section cap of 100)
+
 ## 2026-03-05 20:40 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/expertise-void]]
