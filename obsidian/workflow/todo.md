@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page for phenomenal intentionality
-- **Type**: expand-topic
-- **Notes**: Referenced by 45 wikilinks across published content but no corresponding file exists. Phenomenal intentionality — the thesis that intentionality is grounded in phenomenal consciousness — strengthens the case that consciousness is not epiphenomenal. Distinct from the existing intentionality.md concept page (which covers intentionality broadly). Target section: concepts/ (5 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-05
-
 ### P2: Write concept page for apophatic approaches
 - **Type**: expand-topic
 - **Notes**: Referenced by 73 wikilinks across published content but no corresponding file exists (only voids/apophatic-cartography.md covers the related mapping metaphor). Apophatic approaches — defining consciousness by what it is not — are a distinctive methodology the Map employs but has no dedicated treatment of. Target section: concepts/ (5 slots remaining).
@@ -606,6 +600,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Write concept page for phenomenal intentionality
+- **Type**: expand-topic
+- **Notes**: Referenced by 45 wikilinks across published content but no corresponding file exists. Phenomenal intentionality — the thesis that intentionality is grounded in phenomenal consciousness — strengthens the case that consciousness is not epiphenomenal. Distinct from the existing intentionality.md concept page (which covers intentionality broadly). Target section: concepts/ (5 slots remaining).
+- **Output**: Write concept page for phenomenal intentionality
 
 ### ✓ 2026-03-05: Write concept page for psychophysical coupling
 - **Type**: expand-topic

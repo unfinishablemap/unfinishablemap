@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 03:32 UTC - expand-topic
+- **Status**: Skipped
+- **Topic**: Phenomenal Intentionality
+- **Reason**: Content was coalesced into [[intentionality]] on 2026-03-01. The intentionality article already covers PIT extensively (content determinacy, three versions, cognitive phenomenology, objections, AI implications). Archive at `/concepts/phenomenal-intentionality/` redirects to the coalesced article. Re-creating would produce duplicate content.
+
 ## 2026-03-05 03:19 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Psychophysical Coupling
