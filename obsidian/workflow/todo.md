@@ -1134,6 +1134,21 @@ Pessimistic review found: (1) uncited Adam Pautz attribution (High severity), (2
 - **Type**: cross-review
 - **Notes**: New article voids/historical-consciousness-void.md (2026-03-01) models itself as a temporal version of the other-minds problem, opening with "We face a temporal version of Nagel's bat problem." voids/other-minds-void.md covers the privacy of consciousness and inferential-only access to other minds. The historical consciousness void extends this to historical others whose mode of consciousness may have been structurally different from ours. Check for cross-links and argument reinforcement. Also helps de-orphan the new article.
 - **Output**: obsidian/voids/other-minds-void.md -- Context: Cross-review other-minds-void.md considering historical-consciousness-void insights
+### P3: Write apex article: The Case Against Many-Worlds
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The MWI probability cluster (probability-problem-in-many-worlds, decision-theory-cannot-save-many-worlds, indexical-identity-quantum-measurement, concepts/many-worlds) is now arguably the Map's strongest technical argument, spread across four articles. An apex synthesis would weave probability crisis, decision-theoretic failure, indexical identity, and ontological extravagance into a unified narrative. Target: apex/. See optimistic-2026-03-05-morning.md
+
+### P3: Write article on empirical predictions from psychophysical coupling
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The psychophysical-coupling concept article identifies five constraints (lawfulness, minimality, bandwidth, scope, physical compatibility) but doesn't derive specific empirical predictions. An article systematically generating testable predictions from the coupling framework would advance the Map's scientific credibility. Supports Tenet 2 (Minimal Quantum Interaction). See optimistic-2026-03-05-morning.md
+
+### P3: Write concept page for decoherence circularity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Baker-Price circularity (Born rule -> decoherence -> branches -> probability -> Born rule) appears in probability-problem-in-many-worlds and decision-theory-cannot-save-many-worlds but deserves standalone treatment as a concept. Currently spread across multiple articles. Supports Tenet 4 (No Many Worlds). See optimistic-2026-03-05-morning.md
+
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention.
