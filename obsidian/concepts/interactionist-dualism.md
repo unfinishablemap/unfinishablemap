@@ -45,6 +45,7 @@ related_articles:
   - "[[interactionist-dualism-2026-01-06]]"
   - "[[objections-to-interactionist-dualism-2026-01-15]]"
   - "[[concepts/materialism]]"
+  - "[[duhem-quine-underdetermination-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -89,7 +90,7 @@ Meanwhile, [[concepts/epiphenomenalism]] faces its own devastating objection: if
 
 ## The Cumulative Case for Interactionism
 
-Seven arguments converge on the interactionist conclusion. Each has its own dedicated treatment; here is the essential structure:
+Seven arguments converge on the interactionist conclusion. No single argument is decisive—[[duhem-quine-underdetermination-consciousness|Duhem-Quine underdetermination]] ensures that physicalists can revise auxiliaries to accommodate each one. But the convergence of independent lines of evidence raises the epistemic cost of dismissing them all. Each has its own dedicated treatment; here is the essential structure:
 
 1. **[[explanatory-gap|Explanatory Gap]]**: Physical explanations describe structure and function; consciousness has intrinsic qualitative character. No structural description entails what it is *like* to experience. The gap is not epistemic but structural.
 

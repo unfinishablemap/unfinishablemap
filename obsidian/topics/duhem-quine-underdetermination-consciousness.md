@@ -4,7 +4,7 @@ description: "No experiment can isolate a consciousness theory for testing. Huma
 created: 2026-03-04
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-04T20:02:00+00:00
+ai_modified: 2026-03-05T09:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-04
 last_curated:
-last_deep_review: 2026-03-04T20:02:00+00:00
+last_deep_review: 2026-03-05T09:28:00+00:00
 ---
 
 The Duhem-Quine thesis holds that no scientific hypothesis is tested in isolation—every empirical test presupposes auxiliary assumptions, and when a prediction fails, logic alone cannot determine which assumption to revise. In consciousness science, this problem reaches an extreme form. Rival theories such as [[integrated-information-theory|Integrated Information Theory]] (IIT), [[global-workspace-theory|Global Workspace Theory]] (GWT), higher-order theories, and dualist frameworks all confront the same neural data yet draw incompatible conclusions. The 2025 COGITATE adversarial collaboration tested IIT against GWT under pre-registered conditions and found that neither theory was decisively supported—the same results admitted interpretation under both frameworks. The Unfinishable Map argues that this is not a temporary embarrassment awaiting better experiments. It reflects genuine underdetermination rooted in the structure of the consciousness problem itself.
@@ -41,7 +41,7 @@ Two forms of underdetermination matter here. **Holist underdetermination** conce
 
 ## Why Consciousness Science Is Uniquely Vulnerable
 
-Standard underdetermination in physics or biology involves theories that share a common evidential base: third-person observations of physical systems. Consciousness science introduces a complication with no parallel elsewhere. The data include first-person reports about subjective experience—what it is like to see red, to feel pain, to attend to a stimulus. As Chalmers argues, first-person data are irreducible to third-person data and vice versa; both are needed for a science of consciousness, but the relationship between them is precisely what the competing theories dispute.
+Underdetermination afflicts all sciences—string theory versus loop quantum gravity, dark matter versus modified gravity—but these disputes share a common evidential base: third-person observations of physical systems. Consciousness science introduces a complication with no parallel elsewhere. The data include first-person reports about subjective experience—what it is like to see red, to feel pain, to attend to a stimulus. As Chalmers argues, first-person data are irreducible to third-person data and vice versa; both are needed for a science of consciousness, but the relationship between them is precisely what the competing theories dispute.
 
 This creates a layered underdetermination:
 
@@ -63,7 +63,7 @@ No decisive verdict emerged. As the investigators acknowledged, "the theories ar
 
 Negro (2024) proposed that Lakatos's methodology of scientific research programmes offers a better framework than "experimental eliminativism" for consciousness science. On this view, each consciousness theory has a **hard core** of commitments protected by a **belt** of auxiliary hypotheses. When predictions fail, researchers revise auxiliaries rather than abandoning the core—and this is rational, provided the programme remains **progressive** (generating novel, testable predictions) rather than **degenerating** (merely accommodating evidence after the fact).
 
-After COGITATE, both IIT and GWT remained progressive by Lakatosian standards. Both responded to mixed results by revising auxiliary hypotheses and generating new predictions. Lakatos's key insight applies: "a degenerating research programme can ultimately be discarded only by another research programme, not by an experiment." No single experiment—however well-designed—can eliminate a theory that can rationally revise its auxiliaries.
+After COGITATE, both IIT and GWT remained progressive by Lakatosian standards. Both responded to mixed results by revising auxiliary hypotheses and generating new predictions. Lakatos's key insight applies: a degenerating research programme can ultimately be discarded only by another research programme, not by an experiment. No single experiment—however well-designed—can eliminate a theory that can rationally revise its auxiliaries.
 
 This has a direct consequence for the debate between physicalism and dualism. Physicalist theories cannot claim victory merely because they have more empirical results; what matters is whether they are progressive relative to alternatives. And dualist programmes cannot be dismissed by a single argument or experiment—they must be outperformed as research programmes over time.
 

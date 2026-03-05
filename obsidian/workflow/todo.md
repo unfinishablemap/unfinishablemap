@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate duhem-quine-underdetermination-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article (created 2026-03-04) applying the Duhem-Quine thesis to consciousness science — showing that underdetermination undermines parsimony-based arguments for physicalism over dualism. Should be linked from philosophy-of-science-under-dualism.md, epistemological-limits-occams-razor.md, consciousness-and-scientific-methodology.md, and related methodology articles. Supports Tenet 5 (Occam's Razor Has Limits).
-- **Source**: orphan_integration
-- **Generated**: 2026-03-05
-
 ### P2: Integrate phenomenology-of-inferential-understanding.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article (created 2026-02-16) on the phenomenal character of inferential understanding — what it feels like to follow a logical argument. Add cross-references from argument-from-reason.md, phenomenology-of-understanding.md, cognitive-phenomenology.md, and related phenomenology articles. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
@@ -630,6 +624,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Integrate duhem-quine-underdetermination-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-03-04) applying the Duhem-Quine thesis to consciousness science — showing that underdetermination undermines parsimony-based arguments for physicalism over dualism. Should be linked from philosophy-of-science-under-dualism.md, epistemological-limits-occams-razor.md, consciousness-and-scientific-methodology.md, and related methodology articles. Supports Tenet 5 (Occam's Razor Has Limits).
+- **Output**: obsidian/topics/duhem-quine-underdetermination-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-05: Review creativity-void.md considering spontaneous-thought-void insights
 - **Type**: cross-review

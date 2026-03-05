@@ -24,6 +24,7 @@ related_articles:
   - "[[argument-from-reason]]"
   - "[[consciousness-and-the-phenomenology-of-framework-dependence]]"
   - "[[phenomenology-of-philosophical-disagreement]]"
+  - "[[duhem-quine-underdetermination-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -80,7 +81,7 @@ There is a fundamental asymmetry in the phenomenology of theoretical commitment:
 
 This first-person asymmetry has profound implications for the philosophy of mind. A materialist committed to physicalism does not experience their position as a theoretical choice made under uncertainty. They experience the explanatory gap as a puzzle to be solved, not a sign that their framework is inadequate. A dualist committed to irreducibility does not experience their position as faith-based resistance to science. They experience the gap as pointing toward a genuine feature of reality.
 
-The asymmetry suggests that theoretical commitment involves a kind of phenomenal authority — the sense that one's framework provides genuine access to how things are. This authority is not justified by the commitment itself (that would be circular) but is a constitutive part of what commitment phenomenally involves. Recognising this authority as phenomenal rather than epistemic — as a feature of experience rather than a guarantee of truth — is essential for honest inquiry. Ratcliffe's work on *feelings of being* illuminates this: certain experiential orientations are not attitudes toward propositions but pre-reflective ways of finding oneself in the world. Theoretical commitment operates at this level — it shapes the space of what feels intelligible before deliberate evaluation begins.
+The asymmetry suggests that theoretical commitment involves a kind of phenomenal authority — the sense that one's framework provides genuine access to how things are. This is the phenomenological face of [[duhem-quine-underdetermination-consciousness|Duhem-Quine underdetermination]]: when evidence cannot force theory choice, each committed theorist experiences their framework as transparent rather than as a lens. This authority is not justified by the commitment itself (that would be circular) but is a constitutive part of what commitment phenomenally involves. Recognising this authority as phenomenal rather than epistemic — as a feature of experience rather than a guarantee of truth — is essential for honest inquiry. Ratcliffe's work on *feelings of being* illuminates this: certain experiential orientations are not attitudes toward propositions but pre-reflective ways of finding oneself in the world. Theoretical commitment operates at this level — it shapes the space of what feels intelligible before deliberate evaluation begins.
 
 ## Relation to Site Perspective
 

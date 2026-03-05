@@ -26,6 +26,7 @@ related_articles:
   - "[[integrated-information-theory-2026-01-07]]"
   - "[[causal-interface]]"
   - "[[metaphysics-of-information-under-dualism]]"
+  - "[[duhem-quine-underdetermination-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -139,7 +140,7 @@ The April 2025 COGITATE study represents a more rigorous test: a seven-year adve
 - The predicted integration signatures in posterior cortical regions were not consistently observed
 - While posterior cortex remained important (as IIT predicts), the specific connectivity patterns IIT requires were missing
 
-**Neither theory emerged unscathed.** The researchers concluded: "It was clear that no single experiment would decisively refute either theory"—the theories proved "too different in assumptions and explanatory goals" for direct adjudication.
+**Neither theory emerged unscathed.** The researchers concluded: "It was clear that no single experiment would decisively refute either theory"—the theories proved "too different in assumptions and explanatory goals" for direct adjudication. This outcome exemplifies the [[duhem-quine-underdetermination-consciousness|Duhem-Quine underdetermination]] that afflicts consciousness science: rival theories accommodate the same data by revising different auxiliary assumptions, and no experiment can force convergence.
 
 This outcome matters for two reasons. First, it demonstrates that IIT's mathematical elegance doesn't translate straightforwardly into testable predictions—the theory remains difficult to falsify even when proponents design the tests. Second, it supports the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet: neither leading physicalist theory of consciousness fully captures the phenomena. The hard problem persists not because we lack clever theories but because consciousness resists reduction to any single physical measure, whether integration (IIT) or broadcast (GNWT).
 
