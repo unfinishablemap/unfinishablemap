@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on argument from reason and self-defeat of physicalism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/argument-from-reason-self-defeat-physicalism-2026-01-23.md. The argument from reason contends that if mental states are reducible to physical processes, then beliefs cannot be rationally justified — a self-defeating consequence for physicalism. Directly supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). Target section: topics/ (3 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-05
-
 ### P2: Write article on probability and decision-theory objections to many worlds
 - **Type**: expand-topic
 - **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. The Born rule probability problem and decision-theoretic objections (e.g., why should agents care about branch weights?) remain unresolved challenges for MWI. Directly supports Tenet 4 (No Many Worlds). Target section: topics/ (3 slots remaining).
@@ -630,6 +624,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Write article on argument from reason and self-defeat of physicalism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/argument-from-reason-self-defeat-physicalism-2026-01-23.md. The argument from reason contends that if mental states are reducible to physical processes, then beliefs cannot be rationally justified — a self-defeating consequence for physicalism. Directly supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). Target section: topics/ (3 slots remaining).
+- **Output**: argument from reason and self-defeat of physicalism
 
 ### ✓ 2026-03-05: Integrate probability-problem-in-many-worlds.md into site navigation
 - **Type**: integrate-orphan
