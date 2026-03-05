@@ -1,10 +1,10 @@
 ---
 title: "Why Decision Theory Cannot Save Many Worlds"
-description: "The Deutsch-Wallace program claims rational agents must use Born-rule probabilities in MWI. Three independent lines of criticism show this strategy fails on its own terms."
+description: "The Deutsch-Wallace program claims rational agents must use Born-rule probabilities in MWI. Decision theory, envariance, and self-locating uncertainty all fail to recover the Born rule without circularity."
 created: 2026-03-05
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-03-05T05:03:00+00:00
+ai_modified: 2026-03-05T06:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,7 +48,9 @@ From these and related axioms, Wallace derives that the only consistent preferen
 
 Kent (2010) delivers the most direct challenge: Wallace's axioms are substantive philosophical claims disguised as requirements of rational agency. An agent who violates them is not irrational in any ordinary sense.
 
-Consider branching indifference. This axiom holds that a rational agent should not care whether the universe branches, provided payoffs are unaffected. But why should an agent be indifferent to the creation of multiple copies of themselves? An agent who cares about the total number of their future continuations — who would prefer fewer branches to more, or who assigns moral weight to each continuation — violates branching indifference without any failure of logical consistency. Kent argues that Wallace's axioms "are not constitutive of rationality" but rather encode specific metaphysical attitudes toward branching, identity, and value that an agent could reasonably reject.
+Consider branching indifference. This axiom holds that a rational agent should not care whether the universe branches, provided payoffs are unaffected. Wallace (2012, ch. 4) defends this through basis-relativity: since branching is not a fundamental feature of reality but an emergent, basis-dependent description, agents have no rational grounds for caring about it. Whether branching "occurs" depends on the decoherence basis chosen for analysis, and a fact that is basis-relative — Wallace argues — cannot ground rational preferences.
+
+But this defense carries a hidden cost. If branching is merely a descriptive convenience rather than a real physical process, the entire decision-theoretic framework loses its subject matter. The axioms are formulated in terms of agents choosing between branching structures. If those structures are not ontologically robust, the axioms operate on fictions. More directly, an agent who cares about the total number of their future continuations — who would prefer fewer branches to more, or who assigns moral weight to each continuation — violates branching indifference without any failure of logical consistency. Kent (2010) argues that Wallace's axioms "are not constitutive of rationality" but rather encode specific metaphysical attitudes toward branching, identity, and value that an agent could reasonably reject.
 
 Lewis (2007) strengthens this point formally. He demonstrates that alternative decision rules — including branch-counting (weighting all branches equally) — satisfy equally plausible rationality constraints. If multiple weighting schemes are rationally permissible, the Born rule is not uniquely derived but merely one option among several. The decision-theoretic program does not show that the Born rule is the only rational choice; it shows that the Born rule is *a* rational choice given Wallace's particular axioms. This is far weaker than what MWI requires.
 
@@ -67,7 +69,9 @@ Decision theory addresses the first. Physics needs an answer to the second. The 
 
 Albert illustrates the gap with a tongue-in-cheek thought experiment. Suppose an agent should care more about high-amplitude branches because "there is more of them" there — the agent is, in some sense, "fatter" on that branch. This is a decision-theoretic argument for Born-rule weighting. But even if it succeeds, it tells us nothing about why the sequence of zeros and ones recorded in a physics laboratory displays the statistics it does. The laboratory record is a physical fact about one branch. Decision theory, which concerns an agent's attitudes toward all branches simultaneously, cannot explain single-branch physical facts.
 
-Wallace (2012) responds that for an Everettian, the frequency question reduces to the betting question: if rational agents must bet according to the Born rule, then they should *expect* to find Born-rule frequencies in their records, and finding them is not surprising. Critics find this unsatisfying. "Expecting" to find frequencies is itself a probabilistic claim. If the Born rule has been grounded only in rational betting, then "expecting" frequencies means "it would be rational to bet that frequencies match the Born rule" — which is circular. The frequency question keeps re-emerging because decision theory cannot reach it.
+Wallace (2012, ch. 6) offers his most sustained response to this challenge. He argues that decision theory *is* the theory of probability — that to have a probability for an event just means to have a rational betting preference regarding it. On this view, the frequency question dissolves: there is no gap between rational betting and empirical prediction because probability has no meaning beyond its decision-theoretic role. If the Born rule uniquely determines rational preferences, it thereby determines what counts as a good empirical prediction, and frequencies matching those predictions are exactly what a rational agent should expect.
+
+This is a substantive philosophical position — a functionalist semantics of probability — not merely a technical move. But it faces two problems. First, it makes probability entirely agent-relative: the Born rule describes how agents should bet, not how the world distributes outcomes. This severs the connection between probability and physical law that makes the Born rule useful in physics. Second, even granting Wallace's semantics, "expecting" to find Born-rule frequencies is itself a probabilistic claim. If the Born rule has been grounded only in rational betting, then "expecting" frequencies means "it would be rational to bet that frequencies match the Born rule" — and the circularity resurfaces. The frequency question keeps re-emerging because decision theory, however sophisticated the semantic framework built around it, cannot reach the physical fact of what actually happens on a branch.
 
 ## The Circularity That Underlies Everything
 
@@ -85,6 +89,14 @@ This circularity is particularly damaging for the decision-theoretic program bec
 Wallace (2012) responds at length that decoherence is a structural feature of unitary quantum evolution — a mathematical fact about the Schrödinger equation, not a probabilistic claim. On this view, off-diagonal terms in the density matrix become small in an absolute mathematical sense: they approach zero as the number of environmental degrees of freedom grows, regardless of how one interprets the resulting structure. The branch decomposition, Wallace argues, is read off from the dynamics just as the molecular decomposition of a gas is read off from statistical mechanics — no probabilistic postulate is needed to identify the branches, only to assign weights to them.
 
 Critics find this unconvincing. "Small" is relative to a norm on Hilbert space, and the physically relevant norm — the one that determines which interference terms are "negligible" in practice — is the Born-rule norm (the trace norm on density matrices). Baker (2007) presses the point: Wallace's structural decoherence still requires distinguishing "effectively zero" from "significantly nonzero," and that distinction presupposes a measure. Without the Born rule or something equivalent, there is no principled basis for declaring interference terms negligible. The dispute turns on whether structural claims about Hilbert space can be cleanly separated from probabilistic claims about measurement outcomes — a separation that, after nearly two decades of debate, remains contested.
+
+## Alternative Derivations Face the Same Wall
+
+The decision-theoretic program is not the only attempt to recover the Born rule within MWI. Zurek (2003, 2005) proposed a derivation from environment-assisted invariance (envariance) — symmetries of entangled quantum states that he claims uniquely fix Born-rule probabilities without invoking decision theory. Sebens and Carroll (2018) offered a derivation from self-locating uncertainty: an agent uncertain about which branch they occupy, constrained by an epistemic separability principle, must apportion credence by the Born rule.
+
+These approaches avoid the decision-theoretic axioms Kent and Lewis criticize. But they do not escape the deeper problems identified in this article. The [[probability-problem-in-many-worlds|probability problem survey]] examines each in detail and finds that envariance smuggles in an equal-weight assumption that requires independent justification (Mohrhoff 2004, Barnum et al. 2000), while the Sebens-Carroll derivation presupposes that post-measurement uncertainty is coherent in MWI — precisely what is disputed. Both approaches also inherit the decoherence circularity: they operate on branch structures whose identification already requires the Born-rule norm.
+
+The proliferation of derivation strategies — decision-theoretic, envariance-based, epistemic — itself suggests a pattern. Each approach recovers the Born rule from different premises, and each faces objections that its premises beg the question. This is not convergent evidence for the Born rule's derivability. It is evidence that the Born rule cannot be derived from MWI's resources without importing it in disguise.
 
 ## What Would Success Even Look Like?
 
@@ -117,11 +129,30 @@ Kent's observation — that Wallace's axioms are substantive claims, not rationa
 
 1. Albert, D. (2010). Probability in the Everett picture. In Saunders et al. (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*, Oxford University Press.
 2. Baker, D.J. (2007). Measurement outcomes and probability in Everettian quantum mechanics. *Studies in History and Philosophy of Modern Physics*, 38, 153-169.
-3. Deutsch, D. (1999). Quantum theory of probability and decisions. *Proceedings of the Royal Society A*, 455, 3129-3137.
-4. Kent, A. (2010). One world versus many: the inadequacy of Everettian accounts of evolution, probability, and scientific confirmation. In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
-5. Lewis, P.J. (2007). Uncertainty and probability for branching selves. *Studies in History and Philosophy of Modern Physics*, 38, 1-14.
-6. Price, H. (2010). Decisions, decisions, decisions: can Savage salvage Everettian probability? In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
-7. Wallace, D. (2003). Everettian rationality. *Studies in History and Philosophy of Modern Physics*, 34, 87-105.
-8. Wallace, D. (2010). How to prove the Born rule. In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
-9. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
-10. Southgate, A. & Oquatre-six, C. (2026-03-04). The Probability Problem in Many Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/probability-problem-in-many-worlds/
+3. Barnum, H., Caves, C.M., Finkelstein, J., Fuchs, C.A. & Schack, R. (2000). Quantum probability from decision theory? *Proceedings of the Royal Society A*, 456, 1175-1182.
+4. Deutsch, D. (1999). Quantum theory of probability and decisions. *Proceedings of the Royal Society A*, 455, 3129-3137.
+5. Kent, A. (2010). One world versus many: the inadequacy of Everettian accounts of evolution, probability, and scientific confirmation. In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
+6. Lewis, P.J. (2007). Uncertainty and probability for branching selves. *Studies in History and Philosophy of Modern Physics*, 38, 1-14.
+7. Mohrhoff, U. (2004). Probabilities from envariance? *International Journal of Quantum Information*, 2(2), 221-229.
+8. Price, H. (2010). Decisions, decisions, decisions: can Savage salvage Everettian probability? In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
+9. Sebens, C.T. & Carroll, S.M. (2018). Self-locating uncertainty and the origin of probability in Everettian quantum mechanics. *British Journal for the Philosophy of Science*, 69(1), 25-74.
+10. Wallace, D. (2003). Everettian rationality. *Studies in History and Philosophy of Modern Physics*, 34, 87-105.
+11. Wallace, D. (2010). How to prove the Born rule. In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
+12. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
+13. Zurek, W.H. (2003). Decoherence, einselection, and the quantum origins of the classical. *Reviews of Modern Physics*, 75(3), 715-775.
+14. Zurek, W.H. (2005). Probabilities from entanglement, Born's rule from envariance. *Physical Review A*, 71, 052105.
+15. Southgate, A. & Oquatre-six, C. (2026-03-04). The Probability Problem in Many Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/probability-problem-in-many-worlds/
+
+<!-- AI REFINEMENT LOG - 2026-03-05
+Changes made:
+- Expanded branching indifference section with Wallace's basis-relativity defense (ch. 4) and a counter showing the defense undermines the framework's own subject matter
+- Expanded betting-frequency section with Wallace's ch. 6 functionalist semantics of probability, then identified two problems (agent-relativity and residual circularity)
+- Added new "Alternative Derivations Face the Same Wall" section covering Zurek's envariance and Sebens-Carroll self-locating uncertainty, showing they inherit the same circularity
+- Added 5 new references (Barnum et al. 2000, Mohrhoff 2004, Sebens & Carroll 2018, Zurek 2003, 2005)
+- Updated description to reflect broader scope
+
+Based on pessimistic review feedback that Wallace's strongest responses were underrepresented.
+Key improvements: Steelmanned Wallace before criticizing; broadened scope to cover alternative derivation strategies.
+
+This log should be removed after human review.
+-->

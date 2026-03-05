@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 06:03 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/decision-theory-cannot-save-many-worlds]]
+- **Changes**: Steelmanned Wallace's basis-relativity defense and ch. 6 frequency response; added section on alternative derivations (Zurek envariance, Sebens-Carroll); added 5 references
+- **Published**: yes
+
 ## 2026-03-05 05:48 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/probability-problem-in-many-worlds]]

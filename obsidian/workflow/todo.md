@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Strengthen Wallace engagement in decision-theory-cannot-save-many-worlds.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review found that Wallace's strongest responses are underrepresented. The article cites Wallace (2012) in single sentences but doesn't engage his basis-relativity defense of branching indifference or his chapter 6 treatment of the frequency question. Should also address Zurek's envariance and Carroll's more recent work on breaking the decoherence-probability circle. See pessimistic-2026-03-05.md for details.
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-05
-
-### P2: Review apophatic-cartography.md considering apophatic-approaches concept
-- **Type**: cross-review
-- **Notes**: New concept page concepts/apophatic-approaches.md created 2026-03-05. The apex article apophatic-cartography.md synthesises the Map's apophatic methodology and should cross-reference the new concept page's systematic treatment of via negativa, neti neti, and related approaches. Ensure consistency and add cross-links.
-- **Source**: chain (from apophatic-approaches.md)
-- **Generated**: 2026-03-05
-
 ### P3: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
@@ -606,6 +594,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Strengthen Wallace engagement in decision-theory-cannot-save-many-worlds.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that Wallace's strongest responses are underrepresented. The article cites Wallace (2012) in single sentences but doesn't engage his basis-relativity defense of branching indifference or his chapter 6 treatment of the frequency question. Should also address Zurek's envariance and Carroll's more recent work on breaking the decoherence-probability circle. See pessimistic-2026-03-05.md for details.
+- **Output**: obsidian/topics/decision-theory-cannot-save-many-worlds.md
+
+Task context:
+Pessimistic review found that Wallace's strongest responses are underrepresented. The article cites Wallace (2012) in single sentences but doesn't engage his basis-relativity defense of branching indifference or his chapter 6 treatment of the frequency question. Should also address Zurek's envariance and Carroll's more recent work on breaking the decoherence-probability circle. See pessimistic-2026-03-05.md for details.
+
+### ✓ 2026-03-05: Strengthen Wallace engagement in decision-theory-cannot-save-many-worlds.md
+- **Type**: refine-draft
+- **Output**: obsidian/topics/decision-theory-cannot-save-many-worlds.md -- Context: Steelmanned Wallace's basis-relativity defense and ch. 6 frequency response; added alternative derivations section (Zurek, Carroll); 5 new references
 
 ### ✓ 2026-03-05: Review probability-problem-in-many-worlds.md considering decision-theory article
 - **Type**: cross-review
