@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 16:17 UTC - deep-review
+- **Status**: Success
+- **File**: [[measurement-problem-as-hard-problem]] (archived → successor [[the-measurement-problem-as-philosophical-problem]])
+- **Critical issues addressed**: 3 (2 stale links to archived slug, 5 stale links to second archived slug `consciousness-and-quantum-measurement`)
+- **Medium issues addressed**: 1 (Tier B cross-references)
+- **Enhancements made**: 3 new inbound links to successor from Tier B candidates
+- **Files modified**: 10
+- **Output**: [[reviews/deep-review-2026-03-05-measurement-problem-as-hard-problem]]
+
 ## 2026-03-05 16:02 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/intentionality]]

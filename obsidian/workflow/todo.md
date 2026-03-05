@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate measurement-problem-as-hard-problem.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has zero inbound links from content articles despite a prior integration attempt (2026-02-15) that only added links from reviews/non-content sources. Needs body-text wikilinks from related articles such as hard-problem-of-consciousness.md, quantum-measurement.md, or collapse-and-consciousness.md. Supports Tenet 2 (Minimal Quantum Interaction).
-- **Source**: orphan_integration
-- **Generated**: 2026-03-05
-
 ### P2: Integrate phenomenology-of-belief-revision.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Article covers phenomenological aspects of changing one's mind — relevant to epistemology-of-consciousness, contemplative-evidence, and philosophical-methodology articles. Add cross-references from related content.
@@ -645,6 +639,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Integrate measurement-problem-as-hard-problem.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero inbound links from content articles despite a prior integration attempt (2026-02-15) that only added links from reviews/non-content sources. Needs body-text wikilinks from related articles such as hard-problem-of-consciousness.md, quantum-measurement.md, or collapse-and-consciousness.md. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: measurement-problem-as-hard-problem.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-05: Review quantum-interpretations.md considering probability-objections article
 - **Type**: cross-review

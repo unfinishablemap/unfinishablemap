@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-03-05T06:39:57+00:00
+ai_modified: 2026-03-05T16:17:00+00:00
 draft: false
 topics: []
 concepts:
@@ -146,7 +146,7 @@ The [[binding-problem|binding problem]] presents another dimension of the hard p
 
 Classical approaches—neural synchrony, global workspace broadcasting—propose mechanisms where separate processes interact. But interaction doesn't explain unity—why does combination *feel* unified?
 
-This may be where [[quantum-consciousness|quantum approaches]] become relevant, since quantum entanglement produces genuine physical holism. The [[measurement-problem-as-hard-problem|structural parallel between the hard problem and the measurement problem]]—both concerning where first-person facts enter third-person descriptions—suggests these may be two faces of the same underlying issue. See [[binding-problem]] for detailed treatment and [[decoherence]] for the quantum biology evidence.
+This may be where [[quantum-consciousness|quantum approaches]] become relevant, since quantum entanglement produces genuine physical holism. The [[the-measurement-problem-as-philosophical-problem|structural parallel between the hard problem and the measurement problem]]—both concerning where first-person facts enter third-person descriptions—suggests these may be two faces of the same underlying issue. See [[binding-problem]] for detailed treatment and [[decoherence]] for the quantum biology evidence.
 
 ## The Pairing Problem: Why This Mind with This Body?
 

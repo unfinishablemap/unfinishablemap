@@ -4,7 +4,7 @@ description: "GRW, CSL, and Penrose OR: physical collapse mechanisms that solve 
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-02-04T03:35:00+00:00
+ai_modified: 2026-03-05T16:17:00+00:00
 draft: false
 last_deep_review: 2026-02-03T23:33:00+00:00
 topics: []
@@ -185,6 +185,7 @@ The **consciousness-modulated CSL** model (McQueen's CSL-IIT or similar) best in
 ## Further Reading
 
 - [[measurement-problem]] - the crisis spontaneous collapse theories address
+- [[the-measurement-problem-as-philosophical-problem]] — the philosophical dimensions of measurement: why the problem resists physical solution
 - [[prebiotic-collapse]] - dedicated treatment of what collapsed before consciousness
 - [[quantum-consciousness]] - how consciousness modulates baseline collapse
 - [[quantum-neural-mechanisms]] - neural loci for quantum effects (radical pairs, microtubules, ion tunneling)

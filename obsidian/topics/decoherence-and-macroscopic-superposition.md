@@ -4,7 +4,7 @@ description: "The quantum-classical boundary keeps receding. Hot cat states, nan
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-03-03T07:41:00+00:00
+ai_modified: 2026-03-05T16:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -135,6 +135,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] ga
 
 - [[decoherence]] — Comprehensive treatment of decoherence, including the Tegmark-Hameroff debate on neural coherence timescales
 - [[measurement-problem]] — Why decoherence doesn't solve the fundamental issue
+- [[the-measurement-problem-as-philosophical-problem]] — The measurement problem's philosophical dimensions: epistemological, ontological, and agential
 - [[quantum-biology]] — Established quantum effects in biological systems
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-physics interaction
 - [[neural-implementation-specifics]] — How decoherence affects specific neural quantum mechanisms
