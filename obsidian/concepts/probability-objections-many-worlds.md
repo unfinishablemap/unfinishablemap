@@ -4,7 +4,7 @@ description: "The probability crisis in MWI: if all outcomes occur, probability 
 created: 2026-03-05
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-03-05T12:49:00+00:00
+ai_modified: 2026-03-05T13:17:00+00:00
 draft: false
 topics:
   - "[[probability-problem-in-many-worlds]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-05
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-05T13:17:00+00:00
 ---
 
 The Many-Worlds Interpretation faces a cluster of objections centred on probability. The Unfinishable Map classifies these as among the strongest internal criticisms of MWI because they challenge its empirical adequacy rather than merely its ontology. If all quantum outcomes occur in some branch, standard probability appears meaningless, and no proposed recovery strategy has succeeded without circularity. This concept entry defines the main objection types; for detailed arguments see [[probability-problem-in-many-worlds|the full probability problem survey]] and [[decision-theory-cannot-save-many-worlds|the decision-theory critique]].
@@ -50,13 +50,13 @@ The most technically sophisticated response argues that rational agents in a bra
 
 Between measurement and observation, an agent genuinely does not know which branch they occupy. Sebens and Carroll (2018) argue that an epistemic separability principle uniquely constrains self-locating credences to the Born rule.
 
-**Objections**: Lewis (2007) argues all subjective uncertainty strategies fail --- the uncertainty is either spurious or wrongly placed to yield probabilistic predictions. Friederich and Dawid (2022) show that Sebens and Carroll's central principle can only be motivated by the Born rule's empirical success, making the derivation circular.
+**Objections**: Lewis (2007) argues all subjective uncertainty strategies fail --- the uncertainty is either spurious or wrongly placed to yield probabilistic predictions. Dawid and Friederich (2022) show that Sebens and Carroll's central principle can only be motivated by the Born rule's empirical success, making the derivation circular.
 
 ### Envariance (Zurek)
 
 Zurek (2003, 2005) claims to derive the Born rule from environment-assisted invariance --- symmetries of entangled quantum states --- without invoking decision theory.
 
-**Objections**: Critics including Mohrhoff (2004) and Barnum et al. (2000) argue the derivation assumes that probabilities are associated with quantum states, then merely shows they must take the Born-rule form. The crucial step --- *why* quantum states relate to probabilities at all --- is assumed rather than derived.
+**Objections**: Mohrhoff (2004) argues the derivation assumes that probabilities are associated with quantum states, then merely shows they must take the Born-rule form. The crucial step --- *why* quantum states relate to probabilities at all --- is assumed rather than derived. Barnum et al. (2000) raise a structurally similar objection against Deutsch's decision-theoretic derivation: hidden probabilistic assumptions do the real work.
 
 ## The Circularity Objection
 
@@ -67,17 +67,17 @@ A structural problem cuts across all three strategies. Baker (2007) and Price (2
 3. Decoherence is described using the Born-rule norm (off-diagonal terms becoming "small")
 4. Therefore, the branch structure presupposes the probability rule it is meant to ground
 
-The circle --- Born rule, decoherence, branches, probability, Born rule --- means MWI's entire empirical contact with reality may depend on what it claims to derive. Wallace (2012) responds that decoherence is structural rather than probabilistic, but critics argue that identifying interference terms as "negligible" inherently requires the Born-rule norm.
+The circle --- Born rule, decoherence, branches, probability, Born rule --- means MWI's entire empirical contact with reality may depend on what it claims to derive. Wallace (2012) responds that decoherence is structural rather than probabilistic — the emergence of branching structure can be described without assigning probabilities to branches. But critics argue that identifying interference terms as "negligible" inherently requires the Born-rule norm: calling off-diagonal elements "small" is already a probabilistic judgement.
 
 ## The Branch-Counting Problem
 
-If all branches are equally real, branch-counting (equal weight to each) is the naive probability measure. Graham (1973) showed that "worlds displaying proper quantum statistics are in a numerical minority" under branch-counting. Saunders (2021) proposed a state-dependent counting rule that recovers Born-rule statistics, but this concedes the central point: recovering the correct statistics requires encoding amplitude information into the counting rule, raising the question of whether it remains branch-counting at all.
+If all branches are equally real, the most straightforward probability measure is branch-counting — assigning equal weight to each branch on the grounds that no branch is ontologically privileged over any other. Graham (1973) showed that "worlds displaying proper quantum statistics are in a numerical minority" under branch-counting. Saunders (2021) proposed a state-dependent counting rule that recovers Born-rule statistics, but critics note that recovering the correct statistics this way requires encoding amplitude information into the counting rule, raising the question of whether the result still deserves the name "branch-counting."
 
 ## Relation to Site Perspective
 
 These objections provide strong independent support for the Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet. The probability crisis is not a minor technical gap but a challenge to MWI's empirical adequacy --- its ability to explain why experiments yield the statistics they do.
 
-The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet requires genuinely indeterminate quantum outcomes for consciousness to bias. On collapse interpretations, the Born rule is a fundamental postulate giving the probability of each possible result. One result actually occurs; others do not. Probability means what it ordinarily means, and the elaborate recovery machinery MWI requires is unnecessary.
+The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet requires genuinely indeterminate quantum outcomes for consciousness to bias. On collapse interpretations, the Born rule is a fundamental postulate giving the probability of each possible result. One result actually occurs; others do not. Probability means what it ordinarily means, and the elaborate recovery machinery MWI requires is unnecessary. See [[quantum-probability-consciousness]] for how probability connects to consciousness across interpretations.
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly: MWI trades one postulate (collapse with the Born rule) for an unresolved foundational programme. The apparent simplicity of eliminating collapse disguises the hidden complexity of recovering probability without it.
 
@@ -97,7 +97,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly: M
 2. Baker, D.J. (2007). Measurement outcomes and probability in Everettian quantum mechanics. *Studies in History and Philosophy of Modern Physics*, 38, 153-169.
 3. Barnum, H., Caves, C.M., Finkelstein, J., Fuchs, C.A. & Schack, R. (2000). Quantum probability from decision theory? *Proceedings of the Royal Society A*, 456, 1175-1182.
 4. Deutsch, D. (1999). Quantum theory of probability and decisions. *Proceedings of the Royal Society A*, 455, 3129-3137.
-5. Friederich, S. & Dawid, R. (2022). Epistemic separability and Everettian branches. *British Journal for the Philosophy of Science*, 73(3), 711-736.
+5. Dawid, R. & Friederich, S. (2022). Epistemic separability and Everettian branches: a critique of Sebens and Carroll. *British Journal for the Philosophy of Science*, 73(3), 711-721.
 6. Graham, N. (1973). The measurement of relative frequency. In *The Many-Worlds Interpretation of Quantum Mechanics*, Princeton University Press.
 7. Kent, A. (2010). One world versus many. In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
 8. Lewis, P.J. (2007). Uncertainty and probability for branching selves. *Studies in History and Philosophy of Modern Physics*, 38, 1-14.
@@ -105,8 +105,9 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly: M
 10. Price, H. (2010). Decisions, decisions, decisions: can Savage salvage Everettian probability? In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
 11. Saunders, S. (2021). Branch-counting in the Everett interpretation. *Proceedings of the Royal Society A*, 477, 20210600.
 12. Sebens, C.T. & Carroll, S.M. (2018). Self-locating uncertainty and the origin of probability in Everettian quantum mechanics. *British Journal for the Philosophy of Science*, 69(1), 25-74.
-13. Wallace, D. (2003). Everettian rationality. *Studies in History and Philosophy of Modern Physics*, 34, 87-105.
+13. Wallace, D. (2003). Everettian rationality. *Studies in History and Philosophy of Modern Physics*, 34, 415-439.
 14. Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
-15. Zurek, W.H. (2005). Probabilities from entanglement, Born's rule from envariance. *Physical Review A*, 71, 052105.
-16. Southgate, A. & Oquatre-six, C. (2026-03-04). The Probability Problem in Many Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/probability-problem-in-many-worlds/
-17. Southgate, A. & Oquatre-six, C. (2026-03-05). Why Decision Theory Cannot Save Many Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/decision-theory-cannot-save-many-worlds/
+15. Zurek, W.H. (2003). Environment-assisted invariance, entanglement, and probabilities in quantum physics. *Physical Review Letters*, 90, 120404.
+16. Zurek, W.H. (2005). Probabilities from entanglement, Born's rule from envariance. *Physical Review A*, 71, 052105.
+17. Southgate, A. & Oquatre-six, C. (2026-03-04). The Probability Problem in Many Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/probability-problem-in-many-worlds/
+18. Southgate, A. & Oquatre-six, C. (2026-03-05). Why Decision Theory Cannot Save Many Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/decision-theory-cannot-save-many-worlds/
