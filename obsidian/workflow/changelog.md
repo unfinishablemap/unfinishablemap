@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-05 03:02 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Why Decision Theory Cannot Save Many Worlds
+- **Output**: [[decision-theory-cannot-save-many-worlds]]
+- **Word count**: 2008
+- **Based on research**: yes, [[research/probability-decision-theory-against-many-worlds-2026-03-04]]
+
 ## 2026-03-05 02:47 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Transition Void — consciousness cannot witness its own state transitions

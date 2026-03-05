@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on probability and decision-theory objections to many worlds
-- **Type**: expand-topic
-- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. The Born rule probability problem and decision-theoretic objections (e.g., why should agents care about branch weights?) remain unresolved challenges for MWI. Directly supports Tenet 4 (No Many Worlds). Target section: topics/ (3 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-05
-
-### P2: Write article on Duhem-Quine underdetermination in consciousness science
-- **Type**: expand-topic
-- **Notes**: Research completed in research/duhem-quine-underdetermination-consciousness-2026-03-04.md. Theory choice in consciousness science is radically underdetermined by empirical evidence — the same neural data is consistent with physicalism, property dualism, and idealism. Argues that appeals to parsimony cannot settle the question. Directly supports Tenet 5 (Occam's Razor Has Limits). Target section: concepts/ (5 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-05
-
 ### P2: Write concept page for psychophysical coupling
 - **Type**: expand-topic
 - **Notes**: Referenced by 48 wikilinks across published content but no corresponding file exists. Research completed in research/psychophysical-coupling-problem-2026-01-15.md and research/psychophysical-coupling-law-mechanisms-2026-01-23.md. The psychophysical coupling problem — how mental and physical properties relate lawfully — is central to the Map's interactionist framework. Supports Tenet 3 (Bidirectional Interaction). Target section: concepts/ (5 slots remaining).
@@ -624,6 +612,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-05: Write article on probability and decision-theory objections to many worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. The Born rule probability problem and decision-theoretic objections (e.g., why should agents care about branch weights?) remain unresolved challenges for MWI. Directly supports Tenet 4 (No Many Worlds). Target section: topics/ (3 slots remaining).
+- **Output**: probability and decision-theory objections to many worlds
 
 ### ✓ 2026-03-05: Write article on argument from reason and self-defeat of physicalism
 - **Type**: expand-topic
