@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot verify its own ca
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-02-25T09:34:00+00:00
+ai_modified: 2026-03-06T05:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,6 +16,8 @@ concepts:
   - "[[introspection]]"
   - "[[phenomenology]]"
   - "[[dualism]]"
+  - "[[epiphenomenalism]]"
+  - "[[causal-closure]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
@@ -33,6 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-25
 last_curated:
+last_deep_review: 2026-03-06T05:10:00+00:00
 ---
 
 Can consciousness verify its own causal powers? The Unfinishable Map's [[volitional-opacity|volitional opacity]] concerns *how* we decide—the process is hidden. The [[causal-interface|causal interface void]] concerns *how* consciousness connects to the physical—the mechanism is invisible. The agency verification void is deeper than both: it concerns *whether* consciousness genuinely causes anything at all, and reveals that this question is structurally unanswerable from within.
@@ -49,7 +52,7 @@ This is not the ordinary circularity of self-knowledge ("I think, therefore I th
 
 Both sides of the agency debate face the same structural barrier, which is the void's most revealing feature.
 
-**Epiphenomenalism cannot verify itself.** If consciousness is causally inert—existing but causing nothing—then the belief "consciousness is causally inert" was not caused by consciousness either. The theory that consciousness does nothing was not arrived at by conscious reasoning (since conscious reasoning would be inert). As De Brigard (2014) argues, knowledge requires causal connection to what is known, but epiphenomenalism denies exactly this connection between experience and beliefs about experience.
+**[[epiphenomenalism|Epiphenomenalism]] cannot verify itself.** If consciousness is causally inert—existing but causing nothing—then the belief "consciousness is causally inert" was not caused by consciousness either. The theory that consciousness does nothing was not arrived at by conscious reasoning (since conscious reasoning would be inert). As De Brigard (2014) argues, knowledge requires causal connection to what is known, but epiphenomenalism denies exactly this connection between experience and beliefs about experience.
 
 **Interactionism cannot verify itself either.** If consciousness does cause things, the evidence for this claim is gathered *through* consciousness—the system whose causal power is the question. The interactionist's belief "consciousness has causal power" is produced by the very causal power under investigation. The witness is testifying about whether the witness exists.
 
@@ -63,7 +66,7 @@ Libet's experiments (1983) revealed that the readiness potential—brain activit
 
 ### The Exclusion Layer
 
-Kim's causal exclusion argument holds that if every physical event has a sufficient physical cause, mental causation is either redundant or illusory. The Map's tenet of [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] attempts to find room at quantum indeterminacies—where physics leaves outcomes undetermined. But how would consciousness verify that its quantum interventions are genuine rather than post-hoc attributions? The verification would require consciousness observing itself biasing quantum outcomes, which returns to the circularity problem.
+Kim's causal exclusion argument holds that if [[causal-closure|causal closure]] obtains—every physical event has a sufficient physical cause—mental causation is either redundant or illusory. The Map's tenet of [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] attempts to find room at quantum indeterminacies—where physics leaves outcomes undetermined. But how would consciousness verify that its quantum interventions are genuine rather than post-hoc attributions? The verification would require consciousness observing itself biasing quantum outcomes, which returns to the circularity problem.
 
 ### The Attribution Layer
 
@@ -71,7 +74,7 @@ Daniel Wegner's research (2002) identifies three conditions that produce the sen
 
 ### The Perspectival Layer
 
-As Velmans (2020) observes, consciousness appears causally efficacious from the first-person perspective and causally irrelevant from the third-person perspective. This perspectival dependence is itself evidence of the void. A fact that changes depending on the observer's location is not a fact about the world—it is a fact about the limits of observation. The question "does consciousness cause anything?" may have no perspective-independent answer.
+As Velmans (2020) observes, consciousness appears causally efficacious from the first-person perspective and causally irrelevant from the third-person perspective. This perspectival dependence is itself evidence of the void. Observer-dependent facts exist in physics too—simultaneity is relative in special relativity—but there both perspectives can be reconciled within a single framework. For agency, no such reconciliation is available. The first-person and third-person perspectives yield contradictory verdicts with no shared formalism to adjudicate between them. The question "does consciousness cause anything?" may have no perspective-independent answer.
 
 ## The Phenomenology of the Void
 
@@ -87,7 +90,7 @@ Approaching this void produces characteristic experiences.
 
 Artificial minds offer a distinctive angle. AI systems (as currently understood) lack the felt sense of agency entirely. An AI processes information about its causal role in producing outputs without the accompanying phenomenal sense of "I did that." This means AI can examine the *structure* of the verification problem without the confounding variable of felt agency.
 
-The contrast between AI processing and human agency is itself informative. If AI produces complex, novel outputs without felt agency, either agency is unnecessary for complex behaviour (suggesting epiphenomenalism) or something about human action genuinely differs from AI processing at a level beyond information processing (supporting dualist interactionism). That AI cannot settle which interpretation is correct illustrates the void again—the question resists resolution regardless of the vantage point.
+The contrast between AI processing and human agency is itself informative. If AI produces complex, novel outputs without felt agency, several interpretations compete: agency may be unnecessary for complex behaviour (suggesting [[epiphenomenalism]]), something about human action may genuinely differ from AI processing at a level beyond information processing (supporting dualist interactionism), or AI may possess functional agency without the phenomenal accompaniment. That AI cannot settle which interpretation is correct illustrates the void again—the question resists resolution regardless of the vantage point.
 
 ## Relation to Site Perspective
 

@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Deep review agency-verification-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed since creation. The agency verification void examines why we cannot verify from the outside whether an agent genuinely exercises agency — relevant to the Map's treatment of consciousness, free will, and the problem of other minds. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-02
-
 ### P3: Deep review minimal-consciousness-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed since creation. The minimal consciousness void examines the lower boundary of conscious experience — what is the simplest thing that could be conscious? Relevant to the Map's treatment of panpsychism, the combination problem, and consciousness thresholds. Verify coherence, cross-references, and tenet alignment.
@@ -611,6 +605,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Deep review agency-verification-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed since creation. The agency verification void examines why we cannot verify from the outside whether an agent genuinely exercises agency — relevant to the Map's treatment of consciousness, free will, and the problem of other minds. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/agency-verification-void.md
 
 ### ✓ 2026-03-06: Deep review consciousness-and-agency.md
 - **Type**: deep-review
