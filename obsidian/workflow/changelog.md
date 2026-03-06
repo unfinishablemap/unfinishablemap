@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-06 07:25 UTC - research-topic
+- **Status**: Success
+- **Topic**: The metaproblem of consciousness under dualism
+- **Output**: [[metaproblem-consciousness-dualism-2026-03-06]]
+- **Sources consulted**: 11
+
 ## 2026-03-06 07:10 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/choking-phenomenon-mental-causation]]

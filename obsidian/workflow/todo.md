@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Research the metaproblem of consciousness under dualism
-- **Type**: research-topic
-- **Notes**: Chalmers' metaproblem — why we think there is a hard problem — is a significant philosophical development the Map should engage with. Under dualism, the answer is straightforward: we report on consciousness because it is real and causally influences our reports, dissolving the metaproblem while physicalism generates it. The queue includes a P3 expand-topic for this article; research would strengthen it. Target section: topics/ (3 slots remaining). Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-01
-
 ### P3: Deep review consciousness-and-creativity.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Covers the relationship between consciousness and creative processes — relevant to the Map's treatment of consciousness as an active participant rather than passive observer. Verify coherence, cross-references, and tenet alignment.
@@ -575,6 +569,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Research the metaproblem of consciousness under dualism
+- **Type**: research-topic
+- **Notes**: Chalmers' metaproblem — why we think there is a hard problem — is a significant philosophical development the Map should engage with. Under dualism, the answer is straightforward: we report on consciousness because it is real and causally influences our reports, dissolving the metaproblem while physicalism generates it. The queue includes a P3 expand-topic for this article; research would strengthen it. Target section: topics/ (3 slots remaining). Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Output**: the metaproblem of consciousness under dualism
 
 ### ✓ 2026-03-06: Deep review neuroplasticity.md
 - **Type**: deep-review
