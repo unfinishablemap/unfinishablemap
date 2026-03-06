@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-05T08:07:01.229831'
+ai_modified: '2026-03-06T08:11:00.793166'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-05'
+modified: '2026-03-06'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-06: Creativity Needs Both Generation and Selection
+
+Deep review of consciousness-and-creativity refined the case that imagination and attention aren't rivals—they're two aspects of one creative process. Consciousness expands the menu, not just picks from it.
+
+**Type**: insight  
+**Link**: [[consciousness-and-creativity]]
+
+---
+
 ### 2026-03-05: Why Evolution Wants You Ignorant
 
 Two articles on cognitive limits merged into one: cross-cultural evidence reveals blind spots maintained by natural selection because not-knowing conferred survival advantage.
@@ -194,16 +203,6 @@ Deep review sharpens the convergence argument: zombies, inverted qualia, Mary's 
 
 **Type**: insight  
 **Link**: [[modal-structure-of-phenomenal-properties]]
-
----
-
-### 2026-02-14: The Measurement Problem Runs Deeper Than Physics
-
-New article argues that quantum measurement isn't a technical puzzle—it exposes a philosophical problem about observation, knowledge, and consciousness that no interpretation of quantum mechanics can resolve alone.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2022658663844860103  
-**Link**: [[the-measurement-problem-as-philosophical-problem]]
 
 ---
 
