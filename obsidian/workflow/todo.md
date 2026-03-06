@@ -543,6 +543,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Whitehead's process philosophy appears implicitly across multiple articles but lacks a dedicated concept page. Would clarify the Map's relationship to this tradition and strengthen articles referencing subjective aim, actual occasions, and process-based irreducibility. Target section: concepts/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-03-06]].
 
+### P3: Write topic on consciousness and mathematics
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Mathematical understanding as a case where consciousness grasps abstract truths that resist computational explanation. Builds on consciousness-and-counterfactual-reasoning, categorical-surprise, galilean-exclusion. Target section: topics/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-03-06]].
+
+### P3: Write topic on the interface across development
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How the consciousness-brain interface develops from infancy through adulthood and whether interface maturation parallels cognitive development stages. Builds on consciousness-and-skilled-performance, attention-disorders-and-quantum-interface, comparative-consciousness-and-interface-differences. Target section: topics/. Supports Tenets 2 and 3. See [[reviews/optimistic-2026-03-06]].
+
+### P3: Write topic on consciousness and memory consolidation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The role of consciousness in sleep-dependent memory consolidation and dreaming. Builds on anaesthesia-and-the-consciousness-interface, conscious-vs-unconscious-processing, contemplative-neuroscience. Target section: topics/. Supports Tenets 1 and 3. See [[reviews/optimistic-2026-03-06]].
+
 ## Completed Tasks
 
 
