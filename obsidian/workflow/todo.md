@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Deep review mental-effort.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 31 days ago. The most heavily cross-referenced AI-generated article on the site (88 inbound links). Covers Stapp's quantum Zeno mechanism for mental effort — a linchpin argument connecting consciousness to quantum mechanics. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction). Quality issues here propagate widely.
-- **Source**: staleness
-- **Generated**: 2026-03-01
-
 ### P3: Deep review neuroplasticity.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 31 days ago. Covers Schwartz's OCD research as evidence that consciousness shapes neural structure — a key empirical argument for bidirectional interaction. 27 inbound links. Supports Tenet 3 (Bidirectional Interaction).
@@ -587,6 +581,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Deep review mental-effort.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 31 days ago. The most heavily cross-referenced AI-generated article on the site (88 inbound links). Covers Stapp's quantum Zeno mechanism for mental effort — a linchpin argument connecting consciousness to quantum mechanics. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction). Quality issues here propagate widely.
+- **Output**: obsidian/concepts/mental-effort.md
 
 ### ✓ 2026-03-06: Deep review objections-to-interactionism.md
 - **Type**: deep-review

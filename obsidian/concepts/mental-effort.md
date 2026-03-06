@@ -4,7 +4,7 @@ description: "The phenomenology of effortful attention as evidence for conscious
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-04T12:54:00+00:00
+ai_modified: 2026-03-06T06:40:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-04T12:54:00+00:00
+last_deep_review: 2026-03-06T06:40:00+00:00
 ---
 
 Controlling your attention takes effort. This simple phenomenological fact—that directing the mind feels effortful, that overriding impulses requires work—may be a clue to how consciousness influences matter. Henry Stapp proposes that mental effort operates through the quantum Zeno effect: rapid, repeated acts of attention "hold" desired neural patterns in place, preventing them from dissipating. The phenomenology matches the mechanism—sustained attention should feel like work if it genuinely requires continuous engagement.
