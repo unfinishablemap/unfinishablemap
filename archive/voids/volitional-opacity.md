@@ -34,6 +34,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-02
 last_curated:
+archived: true
+archived_date: 2026-03-06T10:37:00+00:00
+superseded_by: "/voids/introspective-opacity/"
+archive_reason: "Coalesced into Introspective Opacity"
+original_path: "/voids/volitional-opacity/"
 ---
 
 We experience choosing, deciding, and acting—but the process by which these experiences arise, and whether they genuinely cause our actions, remains hidden from introspection. This is volitional opacity: the structural inaccessibility of the mechanisms by which we will. We know *that* we decide; we cannot observe *how* we decide. The void concerns not external reality but our own agency—the most intimate territory, and among the most impenetrable.
