@@ -149,7 +149,7 @@ Consciousness varies along multiple dimensions:
 
 **Level**: The degree of consciousness from deep anaesthesia through drowsiness to full alertness. Level affects which contents can enter consciousness and how richly they are experienced.
 
-**Mode**: Different kinds of consciousness with distinct phenomenology. [[Autonoetic-consciousness|Autonoetic consciousness]] (episodic memory) involves mental time travel; [[witness-consciousness]] (contemplative practice) involves awareness without content; [[dreams-and-consciousness|dream consciousness]] differs from waking perception.
+**Mode**: Different kinds of consciousness with distinct phenomenology. [[Autonoetic-consciousness|Autonoetic consciousness]] (episodic memory) involves mental time travel; [[witness-consciousness]] (contemplative practice) involves awareness without content; [[dream-consciousness|dream consciousness]] differs from waking perception.
 
 **[[Temporal-consciousness|Temporal Structure]]**: Consciousness has intrinsic temporal organisation—the [[temporal-consciousness|specious present]], memory, anticipation. We don't experience point-instants but extended moments with retention and protention.
 
@@ -202,7 +202,7 @@ The Map's extensive coverage of consciousness includes:
 - Neuroscientific interface ([[neural-correlates-of-consciousness]], [[binding-problem]], [[global-workspace-theory]])
 - Functional contrasts ([[access-consciousness]], [[conscious-vs-unconscious-processing]], [[baseline-cognition]])
 - Quantum mechanisms ([[quantum-consciousness]], [[stapp-quantum-mind]], [[attention-motor-quantum-interface]])
-- Varieties of experience ([[altered-states-of-consciousness]], [[dreams-and-consciousness]], [[witness-consciousness]], [[minimal-consciousness]])
+- Varieties of experience ([[altered-states-of-consciousness]], [[dream-consciousness]], [[witness-consciousness]], [[minimal-consciousness]])
 
 ## Further Reading
 

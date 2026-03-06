@@ -143,7 +143,7 @@ The causal interpretation of dream problem-solving would face difficulty if:
 
 ## Further Reading
 
-- [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Broader treatment of dream phenomenology and the filter model
+- [dreams-and-consciousness](/topics/dream-consciousness/) — Broader treatment of dream phenomenology and the filter model
 - [lucid-dreaming-and-consciousness](/topics/dream-consciousness/) — Lucid dreaming as distinct consciousness state
 - [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) — The creative loop and consciousness's role in novel combination
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Consciousness gradations during sleep stages

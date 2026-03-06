@@ -126,7 +126,7 @@ The Unfinishable Map's [tenets](/tenets/) illuminate the dream-filter relationsh
 ## Further Reading
 
 - [filter-theory](/concepts/filter-theory/) — The filter/transmission model of consciousness
-- [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Dreams as evidence for consciousness's nature
+- [dreams-and-consciousness](/topics/dream-consciousness/) — Dreams as evidence for consciousness's nature
 - [lucid-dreaming-and-consciousness](/topics/dream-consciousness/) — Lucid dreaming as distinct consciousness state
 - [dreams-problem-solving-and-consciousness](/topics/dream-consciousness/) — Problem-solving in dreams
 - [dream-consciousness-void](/voids/dream-consciousness-void/) — The epistemic boundary between waking and dreaming

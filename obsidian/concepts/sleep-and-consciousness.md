@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[loss-of-consciousness]]"
 concepts:
-  - "[[dreams-and-consciousness]]"
+  - "[[dream-consciousness]]"
   - "[[episodic-memory]]"
   - "[[binding-problem]]"
   - "[[attention-as-interface]]"
@@ -36,7 +36,7 @@ last_curated: null
 last_deep_review: 2026-03-06T01:10:00+00:00
 ---
 
-Sleep reveals that consciousness operates in gradations, not as a binary switch. During NREM slow-wave sleep, consciousness diminishes but rarely vanishes entirely—dreaming can occur in any sleep stage, correlating with reduced slow waves in the posterior cortical "hot zone." During REM, vivid experience returns while metacognition remains suppressed. [[dreams-and-consciousness#Lucid Dreaming: A Distinct State|Lucid dreaming]] restores metacognitive awareness by reactivating prefrontal regions normally quiescent during sleep. Most remarkably, memory consolidation during sleep operates *outside* the consciousness channel entirely—the brain's offline processing bypasses the ~10 bits/second bandwidth limitation of conscious experience, replaying multiple memory traces in parallel. This reveals the consciousness-brain interface as having multiple modes: waking selective attention, sleeping offline processing, and dreaming partial engagement.
+Sleep reveals that consciousness operates in gradations, not as a binary switch. During NREM slow-wave sleep, consciousness diminishes but rarely vanishes entirely—dreaming can occur in any sleep stage, correlating with reduced slow waves in the posterior cortical "hot zone." During REM, vivid experience returns while metacognition remains suppressed. [[dream-consciousness#Lucid Dreaming: A Distinct State|Lucid dreaming]] restores metacognitive awareness by reactivating prefrontal regions normally quiescent during sleep. Most remarkably, memory consolidation during sleep operates *outside* the consciousness channel entirely—the brain's offline processing bypasses the ~10 bits/second bandwidth limitation of conscious experience, replaying multiple memory traces in parallel. This reveals the consciousness-brain interface as having multiple modes: waking selective attention, sleeping offline processing, and dreaming partial engagement.
 
 ## The Evolutionary Puzzle
 
@@ -52,7 +52,7 @@ The traditional dichotomy—awake means conscious, asleep means unconscious—is
 
 ### The Posterior Hot Zone
 
-High-density EEG studies reveal that [[dreams-and-consciousness|dreaming]] during NREM correlates with reduced slow-wave activity in posterior cortical regions—the same "hot zone" identified by COGITATE (2025) as essential for waking conscious content. Two people in identical NREM Stage 3 may differ radically in consciousness depending on posterior hot zone activity.
+High-density EEG studies reveal that [[dream-consciousness|dreaming]] during NREM correlates with reduced slow-wave activity in posterior cortical regions—the same "hot zone" identified by COGITATE (2025) as essential for waking conscious content. Two people in identical NREM Stage 3 may differ radically in consciousness depending on posterior hot zone activity.
 
 ### The Consciousness Spectrum in Sleep
 
@@ -153,7 +153,7 @@ The Map's interpretation would face difficulty if:
 
 ## Further Reading
 
-- [[dreams-and-consciousness]] — The phenomenology and philosophy of dream experience
+- [[dream-consciousness]] — The phenomenology and philosophy of dream experience
 - [[loss-of-consciousness]] — How unconsciousness illuminates mind-brain relationships
 - [[episodic-memory]] — Memory systems affected by sleep consolidation
 - [[binding-problem]] — How distributed processing becomes unified experience

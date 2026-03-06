@@ -12,7 +12,7 @@ concepts:
 - '[[jourdain-hypothesis]]'
 - '[[higher-order-theories]]'
 - '[[introspection]]'
-- '[[dreams-and-consciousness]]'
+- '[[dream-consciousness]]'
 - '[[meditation-and-consciousness-modes]]'
 - '[[self-and-consciousness]]'
 - '[[illusionism]]'

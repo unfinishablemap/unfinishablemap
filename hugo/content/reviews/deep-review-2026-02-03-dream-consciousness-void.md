@@ -52,7 +52,7 @@ None to the target article—the article is at 107% of soft threshold (2142 word
 This review focused on adding inbound links FROM other articles TO the dream-consciousness-void:
 
 **Inbound links added FROM:**
-- [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Added to Further Reading section
+- [dreams-and-consciousness](/topics/dream-consciousness/) — Added to Further Reading section
 - [lucid-dreaming-and-consciousness](/topics/dream-consciousness/) — Added to Further Reading section
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — Added as concrete example in opening and to related_articles
 - [dreamless-sleep-void](/voids/dreamless-sleep-void/) — Added to Further Reading section

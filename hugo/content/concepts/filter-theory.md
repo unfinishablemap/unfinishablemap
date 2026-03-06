@@ -17,7 +17,7 @@ concepts:
 - '[[mind-brain-separation]]'
 - '[[loss-of-consciousness]]'
 - '[[near-death-experiences]]'
-- '[[dreams-and-consciousness]]'
+- '[[dream-consciousness]]'
 - '[[brain-specialness]]'
 - '[[measurement-problem]]'
 created: 2026-01-15
@@ -123,7 +123,7 @@ These patients demonstrate the distinction between consciousness and its express
 
 ### Dreams
 
-[Dreams](/concepts/dreams-and-consciousness/) show consciousness operating independently of sensory input. During REM sleep, the brain generates fully immersive experiential worlds without external stimulation.
+[Dreams](/topics/dream-consciousness/) show consciousness operating independently of sensory input. During REM sleep, the brain generates fully immersive experiential worlds without external stimulation.
 
 On production models, this requires the brain to "produce" experience from nothing. On filter models, dreams are consciousness using the brain's representational capacities when sensory constraints are removed. The brain provides tools for constructing experience; consciousness uses them.
 
@@ -239,7 +239,7 @@ The Buddhist framework offers something filter theory lacks: a detailed phenomen
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — Anesthesia and covert consciousness
 - [near-death-experiences](/concepts/near-death-experiences/) — Enhanced experience during brain compromise
-- [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Consciousness without sensory input
+- [dream-consciousness](/topics/dream-consciousness/) — Consciousness without sensory input
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Why correlates don't prove production
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The broader framework
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The proposed mechanism for mind-brain interface

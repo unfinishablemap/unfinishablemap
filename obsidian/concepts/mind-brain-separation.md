@@ -14,7 +14,7 @@ concepts:
   - "[[binding-problem]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[interactionist-dualism]]"
-  - "[[dreams-and-consciousness]]"
+  - "[[dream-consciousness]]"
   - "[[illusionism]]"
   - "[[filter-theory]]"
   - "[[phenomenology-of-choice]]"
@@ -71,9 +71,9 @@ This blindsight reveals that visual processing and visual consciousness dissocia
 
 William James, Henri Bergson, and Aldous Huxley each proposed that the brain's relationship to consciousness is transmissive rather than productive—the brain filters and constrains consciousness rather than generating it. See [[filter-theory]] for detailed treatment of this model.
 
-The framework accounts for why brain damage produces specific deficits (damaged filter components), why consciousness persists despite massive neural loss, why qualia resist physical explanation (they are not outputs of the filter), and why [[dreams-and-consciousness|dreams]] can construct perceptual worlds without external input. A productivist can accommodate most of these observations too—the filter theory's advantage lies in its coherence with the positive arguments for irreducibility (the knowledge argument, zombie conceivability) that motivate looking beyond production models.
+The framework accounts for why brain damage produces specific deficits (damaged filter components), why consciousness persists despite massive neural loss, why qualia resist physical explanation (they are not outputs of the filter), and why [[dream-consciousness|dreams]] can construct perceptual worlds without external input. A productivist can accommodate most of these observations too—the filter theory's advantage lies in its coherence with the positive arguments for irreducibility (the knowledge argument, zombie conceivability) that motivate looking beyond production models.
 
-Dreams offer suggestive evidence: consciousness uses the brain's rendering capacities during REM sleep, constrained by some neural properties but not by physical law. Lucid dreaming demonstrates bidirectional interaction—the dreamer decides to fly and flying occurs—consistent with consciousness operating the brain's rendering engine rather than being its output. See [[dreams-and-consciousness]] for detailed analysis.
+Dreams offer suggestive evidence: consciousness uses the brain's rendering capacities during REM sleep, constrained by some neural properties but not by physical law. Lucid dreaming demonstrates bidirectional interaction—the dreamer decides to fly and flying occurs—consistent with consciousness operating the brain's rendering engine rather than being its output. See [[dream-consciousness]] for detailed analysis.
 
 ## The Illusionist Challenge
 
@@ -121,7 +121,7 @@ The mind-brain separation framework would face serious difficulty if:
 - [[phenomenology-of-choice]] — The experiential dimension of selection at the mind-brain interface
 - [[motor-selection]] — How consciousness may select among motor patterns
 - [[illusionism]] — The strongest physicalist challenge and the regress response
-- [[dreams-and-consciousness]] — Dreams as evidence for the filter model
+- [[dream-consciousness]] — Dreams as evidence for the filter model
 - [[binding-problem]] — Why neural mechanisms fail to explain phenomenal unity
 - [[loss-of-consciousness]] — Anesthesia, covert consciousness, and the interface interpretation
 - [[near-death-experiences]] — Enhanced experience during brain compromise

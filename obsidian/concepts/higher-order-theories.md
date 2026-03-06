@@ -153,7 +153,7 @@ But this response makes HOT harder to falsify. If any preserved function can be 
 
 ### Dreaming Without Metacognition
 
-[[dreams-and-consciousness|Dreams]] provide another test case. During non-lucid dreams, we have vivid conscious experience without recognizing that we're dreaming—a metacognitive failure. If consciousness required higher-order thought of the form "I am in mental state M," wouldn't the absence of "I am dreaming" mean we shouldn't be conscious at all during dreams?
+[[dream-consciousness|Dreams]] provide another test case. During non-lucid dreams, we have vivid conscious experience without recognizing that we're dreaming—a metacognitive failure. If consciousness required higher-order thought of the form "I am in mental state M," wouldn't the absence of "I am dreaming" mean we shouldn't be conscious at all during dreams?
 
 HOT theorists might argue unconscious higher-order thoughts persist during dreams, targeting dream experiences without reaching the threshold for explicit metacognitive recognition. But this move again reduces falsifiability—any conscious state gets attributed to an unconscious HOT, testable only by the consciousness it supposedly explains.
 

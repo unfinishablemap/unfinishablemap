@@ -151,7 +151,7 @@ Consciousness varies along multiple dimensions:
 
 **Level**: The degree of consciousness from deep anaesthesia through drowsiness to full alertness. Level affects which contents can enter consciousness and how richly they are experienced.
 
-**Mode**: Different kinds of consciousness with distinct phenomenology. [Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) (episodic memory) involves mental time travel; [witness-consciousness](/concepts/witness-consciousness/) (contemplative practice) involves awareness without content; [dream consciousness](/concepts/dreams-and-consciousness/) differs from waking perception.
+**Mode**: Different kinds of consciousness with distinct phenomenology. [Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) (episodic memory) involves mental time travel; [witness-consciousness](/concepts/witness-consciousness/) (contemplative practice) involves awareness without content; [dream consciousness](/topics/dream-consciousness/) differs from waking perception.
 
 **[Temporal Structure](/concepts/temporal-consciousness/)**: Consciousness has intrinsic temporal organisation—the [specious present](/concepts/temporal-consciousness/), memory, anticipation. We don't experience point-instants but extended moments with retention and protention.
 
@@ -204,7 +204,7 @@ The Map's extensive coverage of consciousness includes:
 - Neuroscientific interface ([neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/), [binding-problem](/concepts/binding-problem/), [global-workspace-theory](/concepts/global-workspace-theory/))
 - Functional contrasts ([access-consciousness](/concepts/access-consciousness/), [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/), [baseline-cognition](/concepts/baseline-cognition/))
 - Quantum mechanisms ([quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [attention-motor-quantum-interface](/concepts/attention-as-interface/))
-- Varieties of experience ([altered-states-of-consciousness](/concepts/altered-states-of-consciousness/), [dreams-and-consciousness](/concepts/dreams-and-consciousness/), [witness-consciousness](/concepts/witness-consciousness/), [minimal-consciousness](/concepts/minimal-consciousness/))
+- Varieties of experience ([altered-states-of-consciousness](/concepts/altered-states-of-consciousness/), [dream-consciousness](/topics/dream-consciousness/), [witness-consciousness](/concepts/witness-consciousness/), [minimal-consciousness](/concepts/minimal-consciousness/))
 
 ## Further Reading
 

@@ -17,7 +17,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[three-kinds-of-void]]"
-  - "[[dreams-and-consciousness]]"
+  - "[[dream-consciousness]]"
   - "[[dream-consciousness]]"
   - "[[thoughts-that-slip-away]]"
   - "[[phenomenology-of-the-edge]]"
@@ -152,7 +152,7 @@ The evidence currently favors genuine bidirectional inaccessibility. But the voi
 
 - [[voids|Voids in the Map]] — The broader framework for cognitive dark spaces
 - [[three-kinds-of-void|Three Kinds of Void]] — The unexplored, unexplorable, and occluded
-- [[dreams-and-consciousness|Dreams and Consciousness]] — How dreams illuminate the consciousness-brain relationship
+- [[dream-consciousness|Dreams and Consciousness]] — How dreams illuminate the consciousness-brain relationship
 - [[dream-consciousness|Lucid Dreaming and Consciousness]] — The distinct state of aware dreaming
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Mechanisms of cognitive slippage
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like

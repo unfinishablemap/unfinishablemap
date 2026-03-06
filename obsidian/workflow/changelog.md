@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-06 04:42 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/dreams-and-consciousness]]
+- **Target**: [[dream-consciousness]]
+- **Archived**: archive/concepts/dreams-and-consciousness.md
+- **References updated**: 13 files (active content); 9 files skipped (reviews/changelog history)
+- **Notes**: Concept page was essentially a shorter version of the already-comprehensive topic (which itself was coalesced from 4 prior articles). Unique content integrated: Norman Malcolm refutation, Dennett cassette theory, zombie dreamer argument.
+
 ## 2026-03-06 04:25 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/dream-consciousness]]

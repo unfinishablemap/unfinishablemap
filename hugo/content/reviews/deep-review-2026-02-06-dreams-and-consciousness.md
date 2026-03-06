@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-06
-**Article**: [Dreams and Consciousness](/concepts/dreams-and-consciousness/)
+**Article**: [Dreams and Consciousness](/topics/dream-consciousness/)
 **Previous review**: [2026-02-03](/reviews/deep-review-2026-02-03-dreams-and-consciousness/)
 **Context**: Cross-review considering dreams-problem-solving-and-consciousness insights
 

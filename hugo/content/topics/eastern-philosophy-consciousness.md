@@ -13,7 +13,7 @@ concepts:
 - '[[nihilism]]'
 - '[[existentialism]]'
 - '[[neurophenomenology]]'
-- '[[dreams-and-consciousness]]'
+- '[[dream-consciousness]]'
 - '[[witness-consciousness]]'
 - '[[self-and-consciousness]]'
 - '[[meditation-and-consciousness-modes]]'
@@ -108,7 +108,7 @@ Despite different starting points, all three traditions converge on claims that 
 
 **Temporal microstructure**: Buddhist *khaṇika* (momentariness)—experience arising and passing in rapid succession—aligns with Husserl's phenomenological analysis, demonstrating empirical contemplative methods for investigating consciousness.
 
-**Dream yoga**: Tibetan *mi-lam* trains practitioners to maintain awareness during sleep. Demirel et al. (2025) validate this tradition, identifying lucid dreaming as a distinct consciousness state. Dream yoga demonstrates [Bidirectional Interaction](/tenets/#bidirectional-interaction)—dreamers volitionally control dream contents—and supports filter theory: dreams are what consciousness does when sensory constraints are removed. See [dreams-and-consciousness](/concepts/dreams-and-consciousness/).
+**Dream yoga**: Tibetan *mi-lam* trains practitioners to maintain awareness during sleep. Demirel et al. (2025) validate this tradition, identifying lucid dreaming as a distinct consciousness state. Dream yoga demonstrates [Bidirectional Interaction](/tenets/#bidirectional-interaction)—dreamers volitionally control dream contents—and supports filter theory: dreams are what consciousness does when sensory constraints are removed. See [dream-consciousness](/topics/dream-consciousness/).
 
 ## The Illusionist Challenge
 
@@ -178,7 +178,7 @@ Eastern philosophy illuminates all five of the Map's [tenets](/tenets/), while r
 - [witness-consciousness](/concepts/witness-consciousness/) — The *sakshi* tradition in Advaita Vedānta and Buddhist meditation
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Active selection and passive witnessing modes
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Minimal phenomenal experience and the zero-person perspective
-- [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Dreams, lucid dreaming, and Tibetan dream yoga
+- [dream-consciousness](/topics/dream-consciousness/) — Dreams, lucid dreaming, and Tibetan dream yoga
 - [neurophenomenology](/concepts/neurophenomenology/) — The scientific research program bridging contemplative traditions and neuroscience
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — How meditation research bridges first-person phenomenology and third-person neuroscience
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — First-person data as empirical test

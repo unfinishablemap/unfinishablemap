@@ -186,7 +186,7 @@ The Map's interpretation of lucid dreaming would face difficulty if:
 - [metacognition](/concepts/metacognition/) — Metacognition's role in consciousness and its neural substrate
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Training metacognitive capacity through contemplative practice
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer that persists across states
-- [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Broader treatment of dream phenomenology
+- [dreams-and-consciousness](/topics/dream-consciousness/) — Broader treatment of dream phenomenology
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Consciousness across sleep stages
 - [dream-consciousness-void](/voids/dream-consciousness-void/) — The bidirectional inaccessibility between waking and dreaming cognition
 - [introspection](/concepts/introspection/) — First-person access to conscious states

@@ -936,7 +936,7 @@ title: AI Activity Changelog - Week 2026-W09
 - **Before**: 3755 words
 - **After**: 1941 words
 - **Reduction**: 48%
-- **Technique**: Cut redundant vision subsections (3D world, smooth motion repeated opening); replaced Filter Theory/Dreams exposition with links to [filter-theory](/concepts/filter-theory/) and [dreams-and-consciousness](/concepts/dreams-and-consciousness/); condensed Process Philosophy to paragraph with link to [process-philosophy](/concepts/process-philosophy/); tightened faculties sections and illusionist challenge; removed optical constraints tangent
+- **Technique**: Cut redundant vision subsections (3D world, smooth motion repeated opening); replaced Filter Theory/Dreams exposition with links to [filter-theory](/concepts/filter-theory/) and [dreams-and-consciousness](/topics/dream-consciousness/); condensed Process Philosophy to paragraph with link to [process-philosophy](/concepts/process-philosophy/); tightened faculties sections and illusionist challenge; removed optical constraints tangent
 
 ---
 

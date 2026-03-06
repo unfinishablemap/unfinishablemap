@@ -21,7 +21,7 @@ concepts:
 - '[[prospective-memory]]'
 - '[[personal-identity]]'
 - '[[sleep-and-consciousness]]'
-- '[[dreams-and-consciousness]]'
+- '[[dream-consciousness]]'
 - '[[illusionism]]'
 - '[[phenomenology-of-choice]]'
 - '[[explanatory-gap]]'

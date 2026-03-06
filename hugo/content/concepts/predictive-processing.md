@@ -8,7 +8,7 @@ concepts:
 - '[[global-workspace-theory]]'
 - '[[concepts/functionalism]]'
 - '[[higher-order-theories]]'
-- '[[dreams-and-consciousness]]'
+- '[[dream-consciousness]]'
 - '[[filter-theory]]'
 - '[[metacognition]]'
 - '[[illusionism]]'
@@ -144,7 +144,7 @@ The ~10 bits/second bandwidth constraint persists even during dreams—dream exp
 
 ### Lucid Dreaming and Meta-Prediction
 
-Lucid [dreaming](/concepts/dreams-and-consciousness/)—becoming aware that one is dreaming while still in the dream—represents a distinctive case. The dreamer generates a meta-level prediction: "this experience is a dream." This prediction, once stabilized, enables controlled navigation of dream content.
+Lucid [dreaming](/topics/dream-consciousness/)—becoming aware that one is dreaming while still in the dream—represents a distinctive case. The dreamer generates a meta-level prediction: "this experience is a dream." This prediction, once stabilized, enables controlled navigation of dream content.
 
 The 2025 Demirel findings establish lucid dreaming as a genuinely distinct consciousness state with unique neural signatures (gamma power increases in right temporo-occipital regions, increased interhemispheric connectivity), not merely a blend of waking and REM. Structurally, frequent lucid dreamers have larger anterior prefrontal cortex—the region associated with metacognition and self-reflection. This suggests PP's precision-weighting machinery can be trained to operate reflexively even during sleep.
 
@@ -210,7 +210,7 @@ PP relates to The Unfinishable Map's [tenets](/tenets/) substantively:
 - [attention](/concepts/attention-as-interface/) — Central to precision weighting
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates consciousness-matter interaction
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — What PP doesn't directly address
-- [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Dreams as unconstrained prediction
+- [dream-consciousness](/topics/dream-consciousness/) — Dreams as unconstrained prediction
 - [filter-theory](/concepts/filter-theory/) — Alternative interpretation of dream evidence
 - [illusionism](/concepts/illusionism/) — The radical physicalist interpretation of PP
 - [introspection](/concepts/introspection/) — First-person access to predictive processes

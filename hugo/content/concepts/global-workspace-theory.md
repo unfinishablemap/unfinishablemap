@@ -17,7 +17,7 @@ concepts:
 - '[[semantic-memory]]'
 - '[[implicit-memory]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
-- '[[dreams-and-consciousness]]'
+- '[[dream-consciousness]]'
 - '[[metacognition]]'
 - '[[consciousness-as-amplifier]]'
 - '[[metacognition]]'
@@ -91,7 +91,7 @@ This outcome supports the [Occam's Razor Has Limits](/tenets/#occams-limits) ten
 
 ### Implications for Consciousness Localization
 
-COGITATE confirmed that conscious content tracks with posterior cortex (visual, temporal areas) rather than the prefrontal-parietal broadcast network. This has implications beyond laboratory experiments. [Dreaming](/concepts/dreams-and-consciousness/) persists when the posterior hot zone remains active, even during NREM sleep when prefrontal areas are largely offline. If GWT's workspace mechanism were necessary for consciousness, prefrontal deactivation should eliminate experience—yet dreams demonstrate consciousness without full workspace engagement.
+COGITATE confirmed that conscious content tracks with posterior cortex (visual, temporal areas) rather than the prefrontal-parietal broadcast network. This has implications beyond laboratory experiments. [Dreaming](/topics/dream-consciousness/) persists when the posterior hot zone remains active, even during NREM sleep when prefrontal areas are largely offline. If GWT's workspace mechanism were necessary for consciousness, prefrontal deactivation should eliminate experience—yet dreams demonstrate consciousness without full workspace engagement.
 
 The dissociation suggests a refinement: the global workspace may be sufficient for *reportable* consciousness without being necessary for consciousness itself. The filter theory reading remains intact—consciousness may access whatever the posterior cortex provides, with the workspace enabling but not constituting that access.
 
@@ -262,7 +262,7 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — The broader research program GWT contributes to
 - [functionalism](/concepts/functionalism/) — The philosophical framework underlying GWT
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — Explaining away phenomenal intuitions
-- [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Dreaming without full workspace engagement
+- [dream-consciousness](/topics/dream-consciousness/) — Dreaming without full workspace engagement
 - [metacognition](/concepts/metacognition/) — Self-reflective processes and workspace engagement
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The amplification hypothesis connecting workspace access to cognitive enhancement
 - [metarepresentation](/concepts/metacognition/) — How workspace broadcast may enable representing representations as representations

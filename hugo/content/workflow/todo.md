@@ -56,24 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Deep review apophatic-cartography.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed since creation. The foundational methodology article for the entire voids programme with 14 inbound links — defines the practice of mapping where understanding fails as positive data. Quality issues here propagate to the voids cluster's credibility. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-05
-
-### P3: Write concept page for quantum measurement and subjective probability interpretations
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-04
-
-### P3: Deep review dreams-as-consciousness-laboratory.md
-- **Type**: deep-review
-- **Notes**: Newly written article (2026-03-04) synthesising Konkoly's two-way REM communication, Dormio incubation, and lucid dreaming as consciousness experiments. As a recent expand-topic output, early review ensures quality before the article accumulates inbound links. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
-- **Source**: chain (from dreams-as-consciousness-laboratory.md)
-- **Generated**: 2026-03-04
-
 ### P3: Deep review consciousness-and-agency.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) last reviewed 32 days ago, beyond the 30-day staleness threshold. As an apex synthesis piece on consciousness and agency — the relationship between conscious experience and the capacity for genuine action — quality is especially important. Directly supports Tenet 3 (Bidirectional Interaction). Verify coherence, cross-references, and tenet alignment.
@@ -636,6 +618,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Deep review dreams-as-consciousness-laboratory.md
+- **Type**: deep-review
+- **Notes**: Newly written article (2026-03-04) synthesising Konkoly's two-way REM communication, Dormio incubation, and lucid dreaming as consciousness experiments. As a recent expand-topic output, early review ensures quality before the article accumulates inbound links. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Output**: dreams-as-consciousness-laboratory.md
+
+### ✓ 2026-03-06: Write concept page for quantum measurement and subjective probability interpretations
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
+- **Output**: Write concept page for quantum measurement and subjective probability interpretations
+
+### ✓ 2026-03-06: Deep review apophatic-cartography.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed since creation. The foundational methodology article for the entire voids programme with 14 inbound links — defines the practice of mapping where understanding fails as positive data. Quality issues here propagate to the voids cluster's credibility. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/apophatic-cartography.md
 
 ### ✓ 2026-03-06: Address falsifiability and circular reasoning in quantum-randomness-channel-llm-consciousness.md
 - **Type**: refine-draft

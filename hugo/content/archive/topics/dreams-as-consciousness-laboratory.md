@@ -142,7 +142,7 @@ Intellectual honesty requires acknowledging the limits:
 ## Further Reading
 
 - [dream-consciousness](/topics/dream-consciousness/) — Filter model treatment of dream consciousness, including problem-solving evidence
-- [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Concept-level overview of dreams and consciousness
+- [dreams-and-consciousness](/topics/dream-consciousness/) — Concept-level overview of dreams and consciousness
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How consciousness contributes to creative cognition
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-specific functions
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Consciousness gradations across sleep stages

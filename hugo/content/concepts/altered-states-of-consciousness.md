@@ -12,7 +12,7 @@ concepts:
 - '[[neural-correlates-of-consciousness]]'
 - '[[quantum-consciousness]]'
 - '[[meditation-and-consciousness-modes]]'
-- '[[dreams-and-consciousness]]'
+- '[[dream-consciousness]]'
 - '[[sleep-and-consciousness]]'
 - '[[witness-consciousness]]'
 - '[[global-workspace-theory]]'
@@ -143,7 +143,7 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 - [minimal-consciousness](/concepts/minimal-consciousness/) — The lower boundary of conscious experience
 - [filter-theory](/concepts/filter-theory/) — The theoretical framework for interpreting ASCs
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Voluntary access to altered states
-- [dreams-and-consciousness](/concepts/dreams-and-consciousness/) — Consciousness operating without sensory input
+- [dream-consciousness](/topics/dream-consciousness/) — Consciousness operating without sensory input
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — Anesthesia and the filter interpretation
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer that persists across state changes
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Potential mechanisms for mind-brain interface

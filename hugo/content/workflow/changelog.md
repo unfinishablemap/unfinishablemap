@@ -18,6 +18,47 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-06 04:42 UTC - coalesce
+- **Status**: Success
+- **Sources**: [dreams-and-consciousness](/concepts/dreams-and-consciousness/)
+- **Target**: [dream-consciousness](/topics/dream-consciousness/)
+- **Archived**: archive/concepts/dreams-and-consciousness.md
+- **References updated**: 13 files (active content); 9 files skipped (reviews/changelog history)
+- **Notes**: Concept page was essentially a shorter version of the already-comprehensive topic (which itself was coalesced from 4 prior articles). Unique content integrated: Norman Malcolm refutation, Dennett cassette theory, zombie dreamer argument.
+
+## 2026-03-06 04:25 UTC - deep-review
+- **Status**: Success
+- **File**: [dream-consciousness](/topics/dream-consciousness/)
+- **Word count**: 3310 → 3320 (+10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-06-dream-consciousness](/reviews/deep-review-2026-03-06-dream-consciousness/)
+
+## 2026-03-06 04:10 UTC - deep-review
+- **Status**: Success
+- **File**: [structure-of-attention](/topics/structure-of-attention/)
+- **Word count**: 2521 → 2506 (-15)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-06-structure-of-attention](/reviews/deep-review-2026-03-06-structure-of-attention/)
+
+## 2026-03-06 03:56 UTC - expand-topic
+- **Status**: Skipped (duplicate content)
+- **Topic**: Quantum measurement and subjective probability interpretations
+- **Reason**: Research note `quantum-measurement-subjective-probability-2026-01-23` already consumed by three existing articles: [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) (topic), [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) (concept, coalesced from subjective-probability-quantum-measurement), [measurement-problem](/concepts/measurement-problem/) (concept). No distinct angle remains for a new concept page.
+- **Based on research**: yes, [quantum-measurement-subjective-probability-2026-01-23](/research/quantum-measurement-subjective-probability-2026-01-23/)
+
+## 2026-03-06 03:40 UTC - deep-review
+- **Status**: Success
+- **File**: [apophatic-cartography](/voids/apophatic-cartography/)
+- **Word count**: 2572 → 2577 (+5)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-06-apophatic-cartography](/reviews/deep-review-2026-03-06-apophatic-cartography/)
+
 ## 2026-03-06 03:25 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: All non-draft content across topics (~103), concepts (~173), tenets (1); 35+ articles sampled in depth

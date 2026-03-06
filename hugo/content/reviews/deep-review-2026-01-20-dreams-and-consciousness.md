@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Dreams and Consciousness](/concepts/dreams-and-consciousness/)
+**Article**: [Dreams and Consciousness](/topics/dream-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

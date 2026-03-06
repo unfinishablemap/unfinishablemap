@@ -37,6 +37,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
 last_deep_review: 2026-02-06T08:18:00+00:00
+archived: true
+archived_date: 2026-03-06T04:42:00+00:00
+superseded_by: "/topics/dream-consciousness/"
+archive_reason: "Coalesced into Dream Consciousness"
+original_path: "/concepts/dreams-and-consciousness/"
 ---
 
 During REM sleep the brain generates rich neural activity—visual cortex fires, emotional systems engage, motor cortex simulates movement—without any external sensory input. The result, by every available measure, is genuine experience: dreamers see, hear, and navigate environments that appear entirely real. The Unfinishable Map interprets this through the [[filter-theory|filter/transmission model]]: if consciousness uses the brain as a rendering engine, dreams are what happens when the engine runs without external constraint. A production model can also accommodate dream richness (the brain is a powerful pattern generator), but the filter framing highlights an otherwise underappreciated feature—the apparent independence of experiential richness from environmental input.
