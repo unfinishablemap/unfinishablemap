@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Deep review objections-to-interactionism.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 32 days ago. Directly argues the Map's core Tenet 3 (Bidirectional Interaction) — catalogues and responds to objections including causal closure, conservation laws, and pairing problem. 12 inbound links to tenet-critical content. Verify that rebuttals are sound and cross-references current.
-- **Source**: staleness
-- **Generated**: 2026-03-02
-
 ### P3: Deep review mental-effort.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 31 days ago. The most heavily cross-referenced AI-generated article on the site (88 inbound links). Covers Stapp's quantum Zeno mechanism for mental effort — a linchpin argument connecting consciousness to quantum mechanics. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction). Quality issues here propagate widely.
@@ -593,6 +587,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Deep review objections-to-interactionism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 32 days ago. Directly argues the Map's core Tenet 3 (Bidirectional Interaction) — catalogues and responds to objections including causal closure, conservation laws, and pairing problem. 12 inbound links to tenet-critical content. Verify that rebuttals are sound and cross-references current.
+- **Output**: obsidian/concepts/objections-to-interactionism.md
 
 ### ✓ 2026-03-06: Deep review intentionality.md
 - **Type**: deep-review

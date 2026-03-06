@@ -4,7 +4,7 @@ description: "Six major challenges to dualism: pairing, conservation, parsimony,
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-03-04T11:24:00+00:00
+ai_modified: 2026-03-06T06:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-03-04T11:24:00+00:00
+last_deep_review: 2026-03-06T06:25:00+00:00
 ---
 
 [[interactionist-dualism|Interactionist dualism]] faces six major philosophical objections: the [[pairing-problem|pairing problem]], conservation laws, parsimony, the decoherence objection, the evolutionary argument, and Kim's exclusion argument. This page provides comprehensive treatment of each objection and the responses available to the interactionist—particularly within the [[quantum-consciousness|quantum framework]] The Unfinishable Map adopts. The key finding: five objections have principled responses, and the sixth (evolution) actually *supports* interactionism against its main rival, [[concepts/epiphenomenalism]].
@@ -54,9 +54,7 @@ For physical causation, spatial relations provide the answer. The billiard ball 
 
 Many contemporary dualists (Hasker, Zimmerman) accept that minds are spatially located—specifically, in the brain region where they causally interact. M1 is paired with B1 because M1 occupies B1's brain. This dissolves the pairing problem while maintaining that minds are ontologically distinct from bodies.
 
-Kim objects: what prevents two intrinsically indiscernible souls from occupying the same region? Dualists would need an analogue to the impenetrability of matter for souls.
-
-This objection has force only if souls could be intrinsically indiscernible. Interactionists can hold that souls are individuated by their causal histories—ongoing interaction with a particular body creates individuation. Two minds interfacing with the same brain would produce incoherent experience. We don't observe this, suggesting it doesn't occur.
+Kim objects: what prevents two intrinsically indiscernible souls from occupying the same region? This has force only if souls could be intrinsically indiscernible. Interactionists can hold that souls are individuated by their causal histories—ongoing interaction with a particular body creates individuation. Two minds interfacing with the same brain would produce incoherent experience, which we don't observe.
 
 ### The Haecceities Response
 
@@ -107,13 +105,13 @@ Conservation is local and approximate, not a universal metaphysical truth. Physi
 
 ### Response 3: Selection Not Injection
 
-The Map's primary response: at quantum indeterminacies, consciousness *selects* among possible outcomes without *injecting* energy. All possible outcomes are already present in the wavefunction with their associated energies. When consciousness biases which outcome actualizes, it determines which pre-existing possibility becomes real—no new energy enters the system.
+The Map's primary response: at quantum indeterminacies, consciousness *selects* among possible outcomes without *injecting* energy. All outcomes are already present in the wavefunction with their associated energies. Consciousness determines which pre-existing possibility becomes real—no new energy enters the system.
 
 Consider a superposition of two neural firing patterns, each with identical energy. Physics determines that *one* will become actual, with probabilities for each. But physics doesn't determine *which* one actualizes. Consciousness selects without energy injection—the conservation equations are satisfied for every possible outcome.
 
 Critics would need to show that *outcome selection* requires energy injection. But given the indeterministic character of quantum mechanics, this isn't obvious. Selection among equi-energetic possibilities is precisely what the formalism leaves open.
 
-Quantum entanglement provides precedent: Bell's theorem shows that correlations between distant particles cannot be explained by energy transfer, yet the correlations are real and causally significant. If physics permits causal connections without energy exchange, the conceptual space exists for mind-matter interaction without energy injection.
+Quantum entanglement provides precedent: Bell's theorem shows that correlations between distant particles cannot be explained by local energy transfer. If physics permits such connections without energy exchange, conceptual space exists for mind-matter interaction without energy injection.
 
 ## Parsimony
 
@@ -140,7 +138,7 @@ Dualism adds one ontological *type* (mind), not millions of *tokens*. Adding one
 
 If consciousness is real and irreducible (which experience suggests), then ignoring it isn't parsimony—it's ignoring evidence. Parsimony means not multiplying entities *beyond necessity*. If consciousness cannot be reduced to physics, its acknowledgment is necessary.
 
-Physical theories are inferred from observations; observations are conscious experiences. Eliminating consciousness to achieve parsimony is like eliminating the foundation to simplify the building.
+Physical theories are inferred from observations, which are conscious experiences. Eliminating consciousness to achieve parsimony eliminates the foundation to simplify the building.
 
 ### Response 4: Occam's Razor Has Limits
 
@@ -211,7 +209,7 @@ The Map can use this argument *offensively* against epiphenomenalism: if conscio
 
 ### The Epiphenomenalist Response
 
-Frank Jackson suggests consciousness might be a "spandrel"—a by-product of neural processes that were themselves selected for. Consciousness would be correlated with beneficial behaviors without causing them.
+Epiphenomenalists respond that consciousness might be a "spandrel"—a by-product of neural processes that were themselves selected for. Frank Jackson (1982), during his epiphenomenalist period, argued that qualia are causally inert accompaniments of physical processes. Consciousness would be correlated with beneficial behaviors without causing them.
 
 **Counter-response**: This explains why consciousness *exists* (as spandrel) but not why the pain/pleasure correlations are so precise. Why should a causally inert spandrel track fitness so accurately? A by-product might exist without being finely tuned. The precision of valence-fitness correlation suggests causal involvement, not mere epiphenomenal tagging.
 
@@ -248,7 +246,7 @@ This transforms the exclusion argument from a dilemma into a false premise: clos
 
 ### Response 4: Delegatory Preemption
 
-[[delegatory-dualism|Delegatory dualism]] (Bradford Saad, 2025) offers a distinct response that doesn't depend on quantum mechanics. When a physical brain state has the same causal profile as an experience—both would cause wincing, attention-shifting, verbal reports—the experience *[[preemption|preempts]]* the physical state's causal role. The physical state delegates its responsibilities to the experience through [[causal-delegation]], the mechanism at the heart of Saad's theory.
+[[delegatory-dualism|Delegatory dualism]] (Bradford Saad, 2025) offers a distinct response that doesn't depend on quantum mechanics. When a physical brain state's *default causal profile*—what it would cause absent any experience—matches an experience's causal profile, the experience *[[preemption|preempts]]* the physical state's causal role. The physical state delegates its responsibilities to the experience through [[causal-delegation]], the mechanism at the heart of Saad's theory.
 
 This avoids overdetermination because only one cause operates: the experience does the causal work while the physical state is sidelined.
 
@@ -328,6 +326,7 @@ These objections have been taken seriously throughout the history of philosophy.
 1. Collins, R. (2011). "The Energy of the Soul." In M. Baker & S. Goetz (eds.), *The Soul Hypothesis*.
 1. Cucu, A. C., & Pitts, J. B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *arXiv:1909.13643*.
 1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65: 061901.
+1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32: 127-136.
 1. James, W. (1890). *The Principles of Psychology*.
 1. Kalra, A. P., et al. (2025). "Microtubule-stabilizing drugs delay anesthetic-induced unconsciousness in mice." *Proceedings of the National Academy of Sciences*, 122(3).
 1. Kerskens, C. M., & Pérez, D. L. (2022-2023). "Experimental indications of non-classical brain functions." *Journal of Physics Communications*.
@@ -336,4 +335,5 @@ These objections have been taken seriously throughout the history of philosophy.
 1. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (eds.), *Physicalism and Its Discontents*. Cambridge University Press.
 1. Pitts, J. B. (2022). "Conservation Laws and the Philosophy of Mind: Opening the Black Box, Finding a Mirror." *Philosophia*, 50, 1065-1083.
 1. Tegmark, M. (2000). "The importance of quantum decoherence in brain processes." *Physical Review E*, 61: 4194-4206.
+1. Woodward, J. (2003). *Making Things Happen: A Theory of Causal Explanation*. Oxford University Press.
 1. Yablo, S. (1992). "Mental Causation." *Philosophical Review*, 101: 245-280.
