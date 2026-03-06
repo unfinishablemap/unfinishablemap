@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P2: Condense research/voids-the-death-void-2026-02-02.md (3658 words, 105% of hard threshold)
-- **Type**: condense
-- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-06
-
 ### P2: Condense research/neural-correlates-conscious-unconscious-processing-2026-01-23.md (3657 words, 104% of hard threshold)
 - **Type**: condense
 - **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
@@ -656,6 +650,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Condense research/voids-the-death-void-2026-02-02.md (3658 words, 105% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Output**: obsidian/research/voids-the-death-void-2026-02-02.md
 
 ### ✓ 2026-03-06: Condense research/voids-recognition-void-2026-02-19.md (3671 words, 105% of hard threshold)
 - **Type**: condense
