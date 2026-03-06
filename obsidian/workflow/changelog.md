@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-06 03:56 UTC - expand-topic
+- **Status**: Skipped (duplicate content)
+- **Topic**: Quantum measurement and subjective probability interpretations
+- **Reason**: Research note `quantum-measurement-subjective-probability-2026-01-23` already consumed by three existing articles: [[quantum-measurement-and-subjective-probability]] (topic), [[quantum-probability-consciousness]] (concept, coalesced from subjective-probability-quantum-measurement), [[measurement-problem]] (concept). No distinct angle remains for a new concept page.
+- **Based on research**: yes, [[quantum-measurement-subjective-probability-2026-01-23]]
+
 ## 2026-03-06 03:40 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/apophatic-cartography]]

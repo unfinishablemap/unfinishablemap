@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Write concept page for quantum measurement and subjective probability interpretations
-- **Type**: expand-topic
-- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-04
-
 ### P3: Deep review dreams-as-consciousness-laboratory.md
 - **Type**: deep-review
 - **Notes**: Newly written article (2026-03-04) synthesising Konkoly's two-way REM communication, Dormio incubation, and lucid dreaming as consciousness experiments. As a recent expand-topic output, early review ensures quality before the article accumulates inbound links. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
@@ -629,6 +623,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Write concept page for quantum measurement and subjective probability interpretations
+- **Type**: expand-topic
+- **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
+- **Output**: Write concept page for quantum measurement and subjective probability interpretations
 
 ### ✓ 2026-03-06: Deep review apophatic-cartography.md
 - **Type**: deep-review
