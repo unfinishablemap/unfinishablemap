@@ -55,6 +55,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
+### P3: Address diagnostic-vs-constructive equivocation in simulation.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the article oscillates between framing the simulation hypothesis as "merely a diagnostic tool" and deploying it constructively to support the Map's tenets. The game analogy also self-defeats by conceding the key disanalogy. Uncited references (Chalmers 2022, Tegmark 2014) should be engaged with or removed. See pessimistic-2026-03-06-night.md
+
 ### P3: Deep review nomic-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-06, never reviewed. Oldest unreviewed void — 18 days without quality assurance. The nomic void examines whether consciousness could be governed by natural laws at all. Verify coherence, cross-references, and tenet alignment.

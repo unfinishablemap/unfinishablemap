@@ -1,6 +1,6 @@
-last_updated: '2026-03-06T21:37:27.677916+00:00'
-session_count: 3280
-cycle_position: 2836
+last_updated: '2026-03-06T22:37:27.678189+00:00'
+session_count: 3281
+cycle_position: 2837
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-06T00:25:07.153719+00:00'
-  agentic-social: '2026-03-06T22:38:45.206461+00:00'
+  agentic-social: '2026-03-06T23:38:39.198274+00:00'
 last_git_push: '2026-03-06T19:37:27.677155+00:00'
 last_tweet_date: '2026-03-06'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-03-06'
-  outcome: success
 - task: deep-review (obsidian/concepts/problem-of-other-minds.md)
   type: deep-review
   date: '2026-03-06'
@@ -127,13 +123,17 @@ recent_tasks:
   type: deep-review
   date: '2026-03-06'
   outcome: success
+- task: deep-review (obsidian/voids/phenomenology-of-self-reference.md)
+  type: deep-review
+  date: '2026-03-06'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/process-and-consciousness/
-    date: '2026-03-06T22:38:45.206441+00:00'
+  - url: https://unfinishablemap.org/concepts/spontaneous-collapse-theories/
+    date: '2026-03-06T23:38:39.198256+00:00'
     topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - process-philosophy
-    - temporal-consciousness
-    - panpsychism
+    - quantum-mechanics
+    - consciousness
+    - measurement-problem
+    - spontaneous-collapse
+    - dualism
