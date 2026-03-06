@@ -1,14 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-03-04 05:41:00+00:00
+ai_modified: 2026-03-06 19:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[valence]]'
 - '[[qualia]]'
 - '[[phenomenal-consciousness]]'
-- '[[topics/phenomenal-value-realism]]'
 created: 2026-02-18
 date: &id001 2026-02-18
 description: Why does experience come sorted into good and bad? Human+AI exploration
@@ -16,7 +15,7 @@ description: Why does experience come sorted into good and bad? Human+AI explora
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-04 05:41:00+00:00
+last_deep_review: 2026-03-06 19:38:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -34,6 +33,7 @@ title: The Valence Void
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[pain-consciousness-and-causal-power]]'
+- '[[phenomenal-value-realism]]'
 ---
 
 The [hard problem](/topics/hard-problem-of-consciousness/) asks why there is something it is like to be a physical system. The valence void asks a sharper question: why does that "something" come pre-sorted into good and bad? Every conscious experience carries hedonic tone — pleasant, unpleasant, or nominally neutral — and this built-in evaluative dimension resists explanation from every direction. Neuroscience explains [valence's](/concepts/valence/) *function* (approach/avoid signalling) without explaining why activation of particular neural circuits *hurts*. Introspection reveals valence as primitive and irreducible — pain's badness cannot be decomposed into simpler experiential components. And any attempt to explain valence from within consciousness uses concepts that are themselves valenced, creating a circularity that may be structurally irresolvable.
@@ -60,7 +60,7 @@ Ask why pain hurts and introspection returns: it just does. Pain's badness is ph
 
 Buddhist analysis of *vedanā* — the hedonic feeling-tone that accompanies all conscious contact with sense objects — reaches the same conclusion from a different tradition. Vedanā arises automatically and pre-reflectively at every moment of contact between sense organ, object, and consciousness. Contemplative practitioners who spend decades refining introspective awareness report increasing ability to observe hedonic tone without reactivity, but the tone itself never becomes transparent. As the contemplative literature notes, much of vedanā is known more through reactive states than through direct introspective access — a partial opacity even to disciplined first-person investigation.
 
-Walter Veit (2024) proposes that hedonic valence may be "one of the most primary instances of experience" — not a feature added to consciousness but constitutive of it. If this is correct, the introspective failure is structural rather than a matter of insufficient attention. Valence may resist decomposition because it is not composed of anything more basic.
+Walter Veit (2024) proposes that hedonic valence may be "one of the most primary instances of experience" — not a feature added to consciousness but constitutive of it. This claim aligns with [phenomenal value realism](/topics/phenomenal-value-realism/), the view that valence is an irreducible feature of reality rather than a projection. If this is correct, the introspective failure is structural rather than a matter of insufficient attention. Valence may resist decomposition because it is not composed of anything more basic.
 
 ### The Circularity Problem
 

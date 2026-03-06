@@ -56,30 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Deep review buddhism-and-dualism.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. Buddhism-and-dualism examines how Buddhist philosophy engages with dualist frameworks — directly relevant to Tenet 1 (Dualism) and the Map's cross-cultural philosophical methodology. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-27
-
-### P3: Deep review libet-experiments.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. The Libet experiments are foundational evidence in the free will debate and directly relevant to Tenet 3 (Bidirectional Interaction) — the Map's interpretation of readiness potentials as context-setting rather than decision-making needs periodic quality assurance. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-27
-
-### P3: Deep review retrocausality.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. Retrocausality is directly relevant to Tenet 2 (Minimal Quantum Interaction) and the Map's treatment of time and causation in quantum mechanics. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-27
-
-### P3: Deep review valence-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-24
-
 ### P3: Deep review framework-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-20, never reviewed. The framework void examines whether consciousness can be captured in any theoretical framework. Verify coherence, cross-references, and tenet alignment.
@@ -531,6 +507,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Deep review valence-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never reviewed. The valence void examines why positive and negative feel the way they do — among the oldest unreviewed void articles not already in the review queue. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/valence-void.md
+
+### ✓ 2026-03-06: Deep review retrocausality.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. Retrocausality is directly relevant to Tenet 2 (Minimal Quantum Interaction) and the Map's treatment of time and causation in quantum mechanics. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/retrocausality.md
+
+### ✓ 2026-03-06: Deep review libet-experiments.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. The Libet experiments are foundational evidence in the free will debate and directly relevant to Tenet 3 (Bidirectional Interaction) — the Map's interpretation of readiness potentials as context-setting rather than decision-making needs periodic quality assurance. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/libet-experiments.md
+
+### ✓ 2026-03-06: Deep review buddhism-and-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. Buddhism-and-dualism examines how Buddhist philosophy engages with dualist frameworks — directly relevant to Tenet 1 (Dualism) and the Map's cross-cultural philosophical methodology. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/buddhism-and-dualism.md
 
 ### ✓ 2026-03-06: Deep review witness-consciousness.md
 - **Type**: deep-review
