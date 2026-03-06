@@ -4,17 +4,18 @@ description: "Buddhism rejects permanent self while affirming irreducible consci
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-01-27T14:09:48+00:00
+ai_modified: 2026-03-06T16:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[meaning-of-life]]"
-concepts:
   - "[[eastern-philosophy-consciousness]]"
+concepts:
   - "[[self-and-consciousness]]"
   - "[[phenomenology]]"
   - "[[witness-consciousness]]"
   - "[[panpsychism]]"
+  - "[[process-philosophy]]"
   - "[[qualia]]"
   - "[[agent-causation]]"
   - "[[filter-theory]]"
@@ -23,17 +24,17 @@ related_articles:
   - "[[buddhist-perspectives-meaning-2026-01-06]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-01-27T14:09:48+00:00
+last_deep_review: 2026-03-06T16:38:00+00:00
 ---
 
 Buddhism rejects a permanent self while taking consciousness seriously. The Unfinishable Map commits to irreducible consciousness interacting with matter. Are these positions compatible? The answer depends on distinguishing what each actually claims—and what each actually denies.
 
 Buddhism's *anattā* (no-self) doctrine targets a specific conception: the Hindu *ātman*, an eternal soul-substance that persists unchanged through rebirth. Buddhism denies this. But denying a permanent soul-substance is not the same as denying that consciousness exists, that experience is real, or that phenomenal properties resist reduction to physical processes. The Map's [[tenets#^dualism|Dualism]] tenet requires consciousness to be irreducible—it does not explicitly require consciousness to be permanent.
 
-Not all interpreters will accept this compatibility. Some Buddhist philosophers extend the no-self analysis to consciousness itself—arguing that *vijñāna* is as empty of inherent existence as the self it supposedly constitutes. The [[#emptiness-challenge|emptiness challenge]] (addressed below) takes this objection seriously. The compatibility thesis offered here represents one coherent reading, not the only Buddhist position. For a detailed treatment of how Buddhist no-self relates to the Map's commitment to [[haecceity|indexical identity]], see [[eastern-philosophy-haecceity-tension|The Eastern Philosophy–Haecceity Tension]].
+Not all interpreters will accept this compatibility. Some Buddhist philosophers extend the no-self analysis to consciousness itself—arguing that *vijñāna* is as empty of inherent existence as the self it supposedly constitutes. The [[#emptiness-challenge|emptiness challenge]] (addressed below) takes this objection seriously. The compatibility thesis offered here represents one coherent reading, not the only Buddhist position. For a detailed treatment of how Buddhist no-self relates to the Map's commitment to [[haecceity|indexical identity]], see [[eastern-philosophy-consciousness|Eastern Philosophy and Consciousness]].
 
 ## What Buddhism Actually Denies
 
@@ -133,7 +134,7 @@ What does each framework offer the other?
 - The insight that permanence isn't required for irreducibility
 - A worked example of taking consciousness seriously without physicalism
 - Practical methods (meditation) for investigating consciousness directly
-- A process metaphysics compatible with property dualism: Buddhist *kṣaṇavāda* (momentariness doctrine) holds that experience arises in discrete moments, each with its own phenomenal character. Whitehead's "actual occasions" share this structure—reality as a series of experiential events rather than enduring substances. Both frameworks reject the notion of static carriers while affirming the reality of experience.
+- A process metaphysics compatible with property dualism: Buddhist *kṣaṇavāda* (momentariness doctrine) holds that experience arises in discrete moments, each with its own phenomenal character. Whitehead's "actual occasions" (see [[process-philosophy]]) share this structure—reality as a series of experiential events rather than enduring substances. Both frameworks reject the notion of static carriers while affirming the reality of experience.
 
 **the Map offers Buddhism:**
 - A mechanism (quantum selection) for how mental causation might work
