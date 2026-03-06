@@ -4,8 +4,8 @@ description: "The brain's ability to reorganize through experience—and why Sch
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-03-04T19:03:00+00:00
-last_deep_review: 2026-03-04T19:03:00+00:00
+ai_modified: 2026-03-06T06:57:00+00:00
+last_deep_review: 2026-03-06T06:57:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -156,7 +156,7 @@ Neuroplasticity provides empirical support for several of The Unfinishable Map's
 - [[stapp-quantum-mind]] — Stapp's quantum Zeno mechanism and the Schwartz collaboration
 - [[interactionist-dualism]] — The philosophical framework for consciousness-matter causation
 - [[attention-as-interface]] — How attention mediates between consciousness and neural systems
-- [[contemplative-evidence-for-consciousness-theories]] — Meditation research as evidence for consciousness theories
+- [[contemplative-evidence-for-consciousness]] — Meditation research as evidence for consciousness theories
 - [[concepts/epiphenomenalism]] — The view that consciousness doesn't cause anything
 
 ## References
