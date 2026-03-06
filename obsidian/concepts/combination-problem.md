@@ -4,7 +4,7 @@ description: "If electrons have micro-experiences, how do billions combine into 
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-02T12:52:00+00:00
+ai_modified: 2026-03-06T08:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-03-02T06:52:00+00:00
+last_deep_review: 2026-03-06T08:26:00+00:00
 ---
 
 The combination problem is the central challenge facing [[panpsychism]]—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James called this "the most peculiar puzzle" of the mind-dust theory, and it remains unsolved. The Unfinishable Map's [[interactionist-dualism|interactionist framework]] avoids the problem entirely by denying that matter has micro-experiences in the first place.
@@ -88,7 +88,7 @@ Critics object that phenomenal bonding names the problem rather than solving it.
 
 ### Co-Consciousness
 
-Barry Dainton and Gregory Miller propose co-consciousness as the bonding relation—the relation that holds when experiences are "experienced together." Unlike phenomenal bonding, co-consciousness is introspectively accessible; we know what it's like for experiences to be co-conscious.
+Barry Dainton proposes co-consciousness as the bonding relation—the relation that holds when experiences are "experienced together." Unlike phenomenal bonding, co-consciousness is introspectively accessible; we know what it's like for experiences to be co-conscious.
 
 But critics question whether this solves the problem or merely describes it. We know our experiences are co-conscious, but how do electron-experiences become co-conscious with each other? The mechanism remains mysterious.
 
@@ -145,7 +145,7 @@ The difference—if there is one—is in the *type* of problem each faces. The c
 
 Can we test which problem is more tractable? Several lines of evidence bear on the question:
 
-**Quantum coherence measurements**: If consciousness operates at quantum indeterminacies, we should find quantum effects correlated with consciousness in ways that survive decoherence objections. Recent work (Kerskens & Pérez 2022-2023) reports MRI signals suggesting entanglement that tracks waking consciousness. If confirmed, this supports the interactionist mechanism without providing any evidence for how micro-experiences combine.
+**Quantum coherence measurements**: If consciousness operates at quantum indeterminacies, we should find quantum effects correlated with consciousness in ways that survive decoherence objections. Recent work (Kerskens & Pérez 2022) reports MRI signals suggesting entanglement that tracks waking consciousness. If confirmed, this supports the interactionist mechanism without providing any evidence for how micro-experiences combine.
 
 **Simple organism studies**: Research on [[minimal-consciousness|C. elegans and Hydra]] tests panpsychist predictions. If [[unity-of-consciousness|phenomenal unity]] requires the combination of micro-experiences, we should see gradients of unity tracking complexity. But the evidence is ambiguous—302-neuron nematodes show integrated information (positive Phi) yet fail behavioral markers of unified consciousness. The combination mechanism, if real, doesn't manifest in observable correlates.
 

@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Deep review combination-problem.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The combination problem challenges panpsychism by asking how micro-experiences combine into unified macro-experience — a key objection the Map cites when arguing that panpsychism fails to solve the hard problem. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-01
-
 ### P3: Deep review problem-of-other-minds.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The problem of other minds is a foundational epistemological challenge directly relevant to the Map's treatment of consciousness as irreducibly first-personal. With connections to Tenet 1 (Dualism) and the Map's phenomenological methodology, quality assurance is important. Verify coherence, cross-references, and tenet alignment.
@@ -563,6 +557,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Deep review combination-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The combination problem challenges panpsychism by asking how micro-experiences combine into unified macro-experience — a key objection the Map cites when arguing that panpsychism fails to solve the hard problem. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/combination-problem.md
 
 ### ✓ 2026-03-06: Address structural issues in ai-consciousness.md
 - **Type**: refine-draft
