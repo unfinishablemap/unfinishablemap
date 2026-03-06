@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense research/voids-normative-void-2026-02-02.md (3730 words, 107% of hard threshold)
-- **Type**: condense
-- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-05
-
 ### P2: Condense research/voids-dream-consciousness-void-2026-02-02.md (3722 words, 106% of hard threshold)
 - **Type**: condense
 - **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
@@ -638,6 +632,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Condense research/voids-normative-void-2026-02-02.md (3730 words, 107% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Output**: obsidian/research/voids-normative-void-2026-02-02.md
 
 ### ✓ 2026-03-05: Condense research/voids-mattering-void-2026-02-19.md (3884 words, 111% of hard threshold)
 - **Type**: condense
