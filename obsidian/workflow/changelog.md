@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-06 00:31 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/living-with-the-map]]
+- **Changed sources**: 2 (ethics-of-consciousness, free-will)
+- **Word count**: 3538 → 3031
+- **Review**: [[reviews/apex-evolve-2026-03-06-living-with-the-map]]
+
 ## 2026-03-06 00:25 UTC - condense
 - **Status**: Success
 - **File**: [[voids-dream-consciousness-void-2026-02-02]]
