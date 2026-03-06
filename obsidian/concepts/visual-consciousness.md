@@ -4,8 +4,8 @@ description: "The phenomenal experience of seeing—what it's like to perceive c
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-26T10:03:00+00:00
-last_deep_review: 2026-02-01T15:33:00+00:00
+ai_modified: 2026-03-06T20:39:00+00:00
+last_deep_review: 2026-03-06T20:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ last_curated:
 
 Visual consciousness is the phenomenal experience of seeing—what it's like to perceive colour, shape, motion, and spatial arrangement. It exemplifies the broader framework of [[perception-and-conscious-experience|perception and conscious experience]], where dissociations, phenomenal richness, and perspectival character reveal consciousness's irreducibility. When you look at a red apple, there is something it is like to experience its redness, its roundness, its position in space. This experiential quality constitutes visual consciousness, distinct from the mere processing of visual information that occurs in early visual cortex.
 
-The distinction matters because sophisticated visual processing can occur without visual consciousness, as [[blindsight]] demonstrates. Patients with damage to primary visual cortex (V1) can discriminate visual stimuli—identifying location, motion direction, even emotional expressions—while reporting no conscious experience of seeing. Visual information reaches decision systems and guides action, yet produces no [[qualia]]. This dissociation reveals that visual consciousness is not reducible to visual processing.
+The distinction matters because sophisticated visual processing can occur without visual consciousness, as [[blindsight]] demonstrates. Patients with damage to primary visual cortex (V1) can discriminate visual stimuli—identifying location, motion direction, even emotional expressions—while reporting no conscious experience of seeing. Visual information reaches decision systems and guides action, yet produces no [[qualia]]. This dissociation shows that visual consciousness is separable from visual processing—the two can come apart, which any purely reductive account must explain.
 
 ## The Structure of Visual Experience
 
@@ -43,7 +43,7 @@ Visual consciousness has distinctive phenomenal structure that shapes how we exp
 
 Visual experience presents objects as arranged in three-dimensional space before you. Unlike auditory or olfactory experience, vision delivers a spatial field with objects at determinate locations and distances. This spatial phenomenology is immediate—you don't infer that the tree is farther than the fence; you see it that way.
 
-The visual field has egocentric structure: objects appear before you, to your left, above you. This perspectival character—being centred on *this* viewpoint—connects visual consciousness to questions of [[indexical-facts|indexical identity]]. Why does the visual world appear from *here* rather than *there*?
+The visual field has egocentric structure: objects appear before you, to your left, above you. This perspectival character—being centred on *this* viewpoint—connects visual consciousness to questions of [[indexical-knowledge-and-identity|indexical identity]]. Why does the visual world appear from *here* rather than *there*?
 
 ### Colour Qualia
 
@@ -117,6 +117,10 @@ If visual consciousness involves selection among processing possibilities—dete
 ### No Many Worlds
 
 Visual consciousness presents a determinate world—*this* scene, from *this* perspective, with *these* colours. The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects interpretations where all possible visual experiences occur in parallel branches. The phenomenology of visual consciousness—its singular, perspectival, determinate character—fits interpretations where genuine selection produces one actual experience rather than a branching tree of all possibilities.
+
+### Occam's Razor Has Limits
+
+The sheer complexity of visual consciousness—spatial layout, colour qualia, temporal dynamics, attentional selection, phenomenal unity—resists the simplifying move of identifying experience with neural processing. A simpler ontology that eliminates visual qualia must explain away the very data that make vision philosophically interesting. The [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]] tenet reminds us that parsimony is a guide, not a proof: when the phenomenon to be explained is the richness of visual experience itself, ontological economy that discards that richness has not simplified the problem but changed the subject.
 
 ## Further Reading
 
