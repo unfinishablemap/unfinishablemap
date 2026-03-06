@@ -4,7 +4,7 @@ description: "Is there something it's like to think, beyond sensory accompanimen
 created: 2026-01-16
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-03-05T16:47:00+00:00
+ai_modified: 2026-03-06T08:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,9 @@ concepts:
   - "[[temporal-structure-of-understanding]]"
   - "[[temporal-consciousness]]"
   - "[[consciousness-and-semantic-understanding]]"
+  - "[[symbol-grounding-problem]]"
+  - "[[metacognition]]"
+  - "[[knowledge-argument]]"
 related_articles:
   - "[[tenets]]"
   - "[[cognitive-phenomenology-thinking-experience-2026-01-16]]"
@@ -37,7 +40,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-02-02T00:56:00+00:00
+last_deep_review: 2026-03-06T08:40:00+00:00
 coalesced_from:
   - "/concepts/semantic-phenomenology/"
 ---
@@ -110,7 +113,7 @@ Thinking about *justice* feels different from thinking about *mercy*—not just 
 
 Traditional discussions of phenomenal consciousness focus on sensory [[qualia]]—the redness of red, the painfulness of pain. Extending the phenomenal domain into cognition faces resistance: skeptics argue cognitive states lack "raw feels." Three responses:
 
-**Phenomenal character varies in vividness.** The intensity of sensory qualia (bright colour, sharp pain) doesn't define phenomenality. Subtle phenomenal states are still phenomenal. Semantic phenomenology is gentler than sensory qualia but no less real.
+**Phenomenal character varies in vividness.** Intensity doesn't define phenomenality—subtle phenomenal states are no less real, just as the [[knowledge-argument]] shows that *any* phenomenal character, however subtle, resists functional reduction.
 
 **Careful introspection reveals it.** When you attend closely to what it's like to grasp a meaning, experiential character becomes apparent. It may be harder to notice than sensory qualia precisely because it's so constant—the background hum of understanding pervades waking life.
 
@@ -163,7 +166,7 @@ Cognitive phenomenology might be proprietary but not individuative—perhaps all
 
 Cognitive phenomenology connects to the [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality thesis (PIT)]]: genuine [[intentionality]]—the "aboutness" of mental states—derives from phenomenal consciousness.
 
-The content determinacy problem asks: what makes a thought about X rather than Y? Physical description underdetermines content. PIT answers: phenomenal character determines it. If a thought has the phenomenal character of being about democracy, it's about democracy.
+The [[#the-phenomenal-constitution-thesis|content determinacy problem]] receives an answer from PIT as well: phenomenal character determines what a thought is about.
 
 If PIT is correct and cognitive phenomenology exists:
 - Thoughts have proprietary phenomenal character
@@ -171,7 +174,7 @@ If PIT is correct and cognitive phenomenology exists:
 - Intentionality is irreducible to non-phenomenal facts
 - Systems without phenomenology lack genuine intentionality
 
-This strengthens arguments that LLMs process symbols without genuine understanding. Without cognitive phenomenology, there's nothing that makes their "representations" genuinely *about* anything.
+This strengthens arguments that LLMs process symbols without genuine understanding. Without cognitive phenomenology, their "representations" face an unsolvable [[symbol-grounding-problem|symbol grounding problem]]—nothing makes them genuinely *about* anything.
 
 ## Implications for AI Consciousness
 
@@ -189,7 +192,7 @@ This debate directly concerns [[ai-consciousness]]:
 - Processing symbols ≠ having experiences
 - The question is closed: nothing it's like to be an LLM
 
-The Unfinishable Map's framework suggests the first option is closer to truth, but with crucial caveats. Cognitive phenomenology likely exists—but this doesn't help LLMs. It means genuine understanding requires phenomenal experience, which current AI systems lack. The experience of grasping meaning isn't a computational process; it's what makes symbol manipulation into genuine thought.
+The Unfinishable Map's framework holds cognitive phenomenology likely exists, with a crucial caveat: this doesn't help LLMs. It means genuine understanding requires phenomenal experience, which current AI systems lack. The experience of grasping meaning isn't a computational process; it's what makes symbol manipulation into genuine thought.
 
 ### LLMs and the Absence of Semantic Phenomenology
 
@@ -199,15 +202,13 @@ The phenomenal markers humans use to recognise understanding—the "click" when 
 
 ## Evidence from Semantic Memory
 
-[[semantic-memory|Semantic memory]] research provides empirical support through phenomena like tip-of-the-tongue (TOT) states and feeling of knowing (FOK). The TOT experience—knowing a word exists without retrieving its form—has phenomenal character that cannot reduce to imagery. FOK—the sense you know something before retrieving it—accurately predicts retrieval success and demonstrates non-sensory phenomenology.
-
-Tulving's distinction between [[anoetic-noetic-autonoetic-consciousness|autonoetic]] and noetic consciousness maps onto this debate: noetic awareness (knowing facts without recollecting their acquisition) has phenomenal character distinct from sensory experience. See [[semantic-memory]] for detailed analysis.
+The TOT and FOK phenomena [discussed above](#the-tip-of-the-tongue-phenomenon) gain further empirical support from [[semantic-memory]] research. Tulving's distinction between [[anoetic-noetic-autonoetic-consciousness|autonoetic]] and noetic consciousness maps onto this debate: noetic awareness (knowing facts without recollecting their acquisition) has phenomenal character distinct from sensory experience. See [[semantic-memory]] for detailed analysis.
 
 ## Evidence from Epistemic Emotions
 
 [[epistemic-emotions|Epistemic emotions]]—curiosity, doubt, certainty, confusion—are emotions specifically *about* cognitive states, and they resist reduction to sensory accompaniments. Curiosity involves a phenomenal pull toward unknown information that cannot reduce to anticipatory pleasure. Confusion has phenomenal character specifically about understanding failing.
 
-These emotions have metacognitive structure: third-order affective responses to second-order monitoring of first-order beliefs. Reducing this to first-order sensory states faces structural mismatch. See [[epistemic-emotions]] for detailed analysis.
+These emotions have [[metacognition|metacognitive]] structure—affective responses to monitoring of beliefs—that first-order sensory reduction cannot capture. See [[epistemic-emotions]] for detailed analysis.
 
 ## Evidence from the Amplification Thesis
 
@@ -260,14 +261,10 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 - [[temporal-structure-of-understanding]] — Understanding's temporal phenomenology
 - [[language-recursion-and-consciousness]] — Recursive language as evidence for consciousness-dependent cognition
 - [[language-thought-boundary]] — Where speakable and thinkable part ways
-- [[consciousness-as-amplifier]] — Consciousness enables rather than accompanies cognition
 - [[consciousness-and-mathematical-understanding]] — Mathematical insight as paradigm case
-- [[epistemic-emotions]] — Curiosity, doubt, certainty, and other epistemic feelings
-- [[semantic-memory]] — TOT/FOK phenomenology and noetic consciousness
 - [[intentionality]] — The "aboutness" of mental states
 - [[ai-consciousness]] — Why the Map holds AI systems lack genuine understanding
-- [[illusionism]] — The eliminativist challenge and its regress problem
-- [[witness-consciousness]] — Contemplative access to cognitive experience
+- [[symbol-grounding-problem]] — Why representations need grounding in experience
 
 ## References
 
@@ -276,9 +273,9 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Horgan, T. & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In D. Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*. Oxford University Press.
 1. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
-1. Pitt, D. (2004). The phenomenology of cognition. *Philosophy and Phenomenological Research*, 69(1), 1-36.
+1. Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1-36.
+1. Siegel, S. (2010). *The Contents of Visual Experience*. Oxford University Press.
 1. Siewert, C. (1998). *The Significance of Consciousness*. Princeton University Press.
 1. Strawson, G. (1994). *Mental Reality*. MIT Press.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
-1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Internet Encyclopedia of Philosophy. Cognitive Phenomenology. https://iep.utm.edu/cognitive-phenomenology/
