@@ -4,8 +4,8 @@ description: "How does consciousness author action in a physical world? Through 
 created: 2026-01-24
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-01T05:30:00+00:00
-last_deep_review: 2026-01-30T14:14:00+00:00
+ai_modified: 2026-03-06T04:55:00+00:00
+last_deep_review: 2026-03-06T04:55:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -58,7 +58,7 @@ These positions are not merely practical accommodations. Their proponents argue 
 
 The Map's answer: reasons-responsiveness without sourcehood is insufficient because it cannot ground the distinction between an agent who acts for reasons and a mechanism that *processes* reasons. Fischer's account explains why an agent's action is appropriate given their reasons; it does not explain why those reasons, rather than others, are *the agent's*. If the reasons-responsive mechanism is itself the product of deterministic causes the agent never chose, the agent is a conduit for causes rather than their origin. The phenomenology of deliberation—genuinely weighing alternatives, feeling the pull of competing considerations—tracks something that pure reasons-responsiveness leaves unexplained. And the [[argument-from-reason|argument from reason]] sharpens the point: if beliefs are fully determined by physical causes, their alignment with rational norms is coincidental. Reasons-responsiveness is a happy accident rather than genuine rational agency.
 
-The Map's framework is libertarian, but with a specific mechanism: consciousness selects among quantum possibilities. Quantum mechanics introduces genuine indeterminacy—physics specifies probabilities but not which outcome occurs. This is the [[quantum-measurement-and-definite-outcomes|definite outcomes problem]]—a gap in the causal order that determinism cannot close. But critics rightly object: quantum randomness doesn't give us free will. A random choice is no more *mine* than a determined one. This is the [[agent-causation#The Luck Objection|luck objection]]—the central challenge any libertarian position must answer.
+The Map's framework is libertarian, but with a specific mechanism: consciousness selects among quantum possibilities. Quantum mechanics introduces genuine indeterminacy—physics specifies probabilities but not which outcome occurs. This is the [[quantum-measurement-consciousness-interface|definite outcomes problem]]—a gap in the causal order that determinism cannot close. But critics rightly object: quantum randomness doesn't give us free will. A random choice is no more *mine* than a determined one. This is the [[agent-causation#The Luck Objection|luck objection]]—the central challenge any libertarian position must answer.
 
 The Map's answer unfolds across several interlocking ideas: a model of how consciousness operates, an account of what kind of cause the agent is, and an explanation of why this selection isn't arbitrary. Each piece supports the others.
 
@@ -118,7 +118,7 @@ Agent causation requires that mental states actually cause physical effects. But
 
 The Map offers two independent responses. The first denies causal closure at quantum indeterminacies. Physics provides necessary but not sufficient causes at these points. Consciousness selects among outcomes physics leaves undetermined, causing physical events without competing with physical causes. No overdetermination occurs because physics doesn't determine everything.
 
-The second draws on Bradford Saad's [[delegatory-dualism|delegatory dualism]] (2025): experiences *[[preemption|preempt]]* rather than overdetermine physical causes. Physical brain states have a default causal profile—the effects they *would* produce absent any experience. When an experience arises, it takes over this causal work. As Saad's analogy suggests: a major and a sergeant both order troops to advance, but the major's order preempts the sergeant's—one cause operates while the other is sidelined. Mental causation is genuine without requiring overdetermination. Saad's distinction between *universal* closure and *[[observational-closure|observational closure]]* parallels the Map's quantum framework: mental causation can be genuine without producing empirically detectable anomalies.
+The second draws on Bradford Saad's [[delegatory-dualism|delegatory dualism]] (2025): experiences *[[preemption|preempt]]* rather than overdetermine physical causes. Physical brain states have a default causal profile—the effects they *would* produce absent any experience. When an experience arises, it takes over this causal work. As Saad's analogy suggests: a major and a sergeant both order troops to advance, but the major's order preempts the sergeant's—one cause operates while the other is sidelined. Mental causation is genuine without requiring overdetermination. Saad's distinction between *universal* closure and *[[causal-closure|observational closure]]* parallels the Map's quantum framework: mental causation can be genuine without producing empirically detectable anomalies.
 
 The [[argument-from-reason|argument from reason]] provides an entirely independent route to mental causation—one that doesn't depend on phenomenological evidence at all. Rational inference requires tracking normative relationships—what follows from what, what counts as good evidence. Neurons fire because of electrochemical gradients, not because firing would be *justified*. If all beliefs are fully explained by nonrational physical causes, no belief is rationally justified—including physicalism. This self-defeat structure shows that rationality requires mental causation. The argument serves as the framework's failsafe: even if someone doubted the phenomenology of effort or contested the neural signatures of willed action, rationality itself would still demand that consciousness causes something.
 
@@ -205,18 +205,3 @@ This apex article synthesizes:
 - [[phenomenology-of-choice|Phenomenology of Choice]] — The experiential structure that distinguishes choosing from observing
 - [[counterfactual-reasoning|Counterfactual Reasoning]] — The consciousness-dependent capacity to evaluate alternatives
 
-<!-- AI REFINEMENT LOG - 2026-02-21
-Changes made:
-- Expanded compatibilism treatment from one dismissive sentence to substantive engagement with Fischer/Ravizza (reasons-responsiveness), Wolf (Reason View), and Dennett ("freedom worth wanting"), with explicit Map response explaining why sourcehood requires more than reasons-responsiveness
-- Fixed circularity in Synthesis section: acknowledged the circular structure risk, identified three independent anchor points (hard problem, argument from reason, phenomenology/neural correlates) that ground the framework outside the mutual support loop
-- Added "What Would Challenge This View?" section addressing the combined framework with five specific falsification conditions, matching the standard practice in all source articles
-- Qualified Sartre attribution: noted Sartre's existentialist freedom differs from the Map's agent-causal libertarianism, clarified Sartre is a phenomenological ontologist not a substance dualist
-- Added explicit speculation markers to temporal constitution claims, separating speculative extension from core argument
-- Acknowledged quantum scale problem in Selector Model section with discussion of amplification mechanism and honest assessment that this remains empirically open
-- Added uncertainty acknowledgment before closing paragraph
-- Language improvements: "distinctive answer" → "agent-causal answer"; "What emerges..." → clearer phrasing
-
-Based on pessimistic review (2026-02-21 afternoon) identifying 3 high-severity and 3 medium-severity issues.
-
-This log should be removed after human review.
--->
