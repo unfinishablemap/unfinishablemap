@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-06 06:12 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/intentionality]]
+- **Word count**: 3395 → 3430 (+35)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing cross-links to direction-of-fit and phenomenal-acquaintance)
+- **Enhancements made**: 2 cross-links added, minor prose tightening
+- **Output**: [[reviews/deep-review-2026-03-06-intentionality]]
+
 ## 2026-03-06 05:55 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Epistemic Horizon Void

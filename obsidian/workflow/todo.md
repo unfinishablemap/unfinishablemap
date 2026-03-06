@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Deep review intentionality.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 31 days ago. The most-linked concept in the entire vault with 90 inbound links — stale quality here propagates broadly. Touches hard problem, qualia, phenomenology. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-02
-
 ### P3: Deep review objections-to-interactionism.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 32 days ago. Directly argues the Map's core Tenet 3 (Bidirectional Interaction) — catalogues and responds to objections including causal closure, conservation laws, and pairing problem. 12 inbound links to tenet-critical content. Verify that rebuttals are sound and cross-references current.
@@ -599,6 +593,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Deep review intentionality.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 31 days ago. The most-linked concept in the entire vault with 90 inbound links — stale quality here propagates broadly. Touches hard problem, qualia, phenomenology. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/intentionality.md
 
 ### ✓ 2026-03-06: Deep review minimal-consciousness-void.md
 - **Type**: deep-review
