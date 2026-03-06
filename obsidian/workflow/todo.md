@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Deep review consciousness-and-creativity.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Covers the relationship between consciousness and creative processes — relevant to the Map's treatment of consciousness as an active participant rather than passive observer. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-01
-
 ### P3: Deep review combination-problem.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The combination problem challenges panpsychism by asking how micro-experiences combine into unified macro-experience — a key objection the Map cites when arguing that panpsychism fails to solve the hard problem. Verify coherence, cross-references, and tenet alignment.
@@ -569,6 +563,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Deep review consciousness-and-creativity.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Covers the relationship between consciousness and creative processes — relevant to the Map's treatment of consciousness as an active participant rather than passive observer. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/consciousness-and-creativity.md
 
 ### ✓ 2026-03-06: Research the metaproblem of consciousness under dualism
 - **Type**: research-topic
