@@ -4,17 +4,17 @@ description: "Why does experience come sorted into good and bad? Human+AI explor
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-03-04T05:41:00+00:00
+ai_modified: 2026-03-06T19:38:00+00:00
 draft: false
-last_deep_review: 2026-03-04T05:41:00+00:00
+last_deep_review: 2026-03-06T19:38:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[pain-consciousness-and-causal-power]]"
+  - "[[phenomenal-value-realism]]"
 concepts:
   - "[[valence]]"
   - "[[qualia]]"
   - "[[phenomenal-consciousness]]"
-  - "[[topics/phenomenal-value-realism]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
@@ -58,7 +58,7 @@ Ask why pain hurts and introspection returns: it just does. Pain's badness is ph
 
 Buddhist analysis of *vedanā* — the hedonic feeling-tone that accompanies all conscious contact with sense objects — reaches the same conclusion from a different tradition. Vedanā arises automatically and pre-reflectively at every moment of contact between sense organ, object, and consciousness. Contemplative practitioners who spend decades refining introspective awareness report increasing ability to observe hedonic tone without reactivity, but the tone itself never becomes transparent. As the contemplative literature notes, much of vedanā is known more through reactive states than through direct introspective access — a partial opacity even to disciplined first-person investigation.
 
-Walter Veit (2024) proposes that hedonic valence may be "one of the most primary instances of experience" — not a feature added to consciousness but constitutive of it. If this is correct, the introspective failure is structural rather than a matter of insufficient attention. Valence may resist decomposition because it is not composed of anything more basic.
+Walter Veit (2024) proposes that hedonic valence may be "one of the most primary instances of experience" — not a feature added to consciousness but constitutive of it. This claim aligns with [[phenomenal-value-realism|phenomenal value realism]], the view that valence is an irreducible feature of reality rather than a projection. If this is correct, the introspective failure is structural rather than a matter of insufficient attention. Valence may resist decomposition because it is not composed of anything more basic.
 
 ### The Circularity Problem
 
