@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-03-05T15:49:00+00:00
+last_deep_review: 2026-03-06T09:12:00+00:00
 ---
 
 Quantum mechanics is our best physical theory, yet physicists fundamentally disagree about what it means. A 2025 Nature survey found that no single interpretation commands majority support. This matters for consciousness studies: different interpretations have radically different implications for whether consciousness plays any role in physics.

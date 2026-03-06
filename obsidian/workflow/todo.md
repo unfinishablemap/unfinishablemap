@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Deep review quantum-interpretations.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Survey of quantum interpretations and their consciousness implications, with 8 tenet references — central to the Map's treatment of why time-symmetric collapse is preferred over Many-Worlds or Bohmian mechanics. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-28
-
 ### P3: Deep review qbism.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. QBism interprets quantum states as subjective beliefs rather than objective reality — centres the agent yet leaves consciousness unexplained. With 8 tenet references, it intersects with the Map's position on quantum measurement and consciousness. Verify coherence, cross-references, and tenet alignment.
@@ -551,6 +545,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Deep review quantum-interpretations.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Survey of quantum interpretations and their consciousness implications, with 8 tenet references — central to the Map's treatment of why time-symmetric collapse is preferred over Many-Worlds or Bohmian mechanics. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/quantum-interpretations.md
 
 ### ✓ 2026-03-06: Deep review problem-of-other-minds.md
 - **Type**: deep-review
