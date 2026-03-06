@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Deep review dreams-as-consciousness-laboratory.md
-- **Type**: deep-review
-- **Notes**: Newly written article (2026-03-04) synthesising Konkoly's two-way REM communication, Dormio incubation, and lucid dreaming as consciousness experiments. As a recent expand-topic output, early review ensures quality before the article accumulates inbound links. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
-- **Source**: chain (from dreams-as-consciousness-laboratory.md)
-- **Generated**: 2026-03-04
-
 ### P3: Deep review consciousness-and-agency.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) last reviewed 32 days ago, beyond the 30-day staleness threshold. As an apex synthesis piece on consciousness and agency — the relationship between conscious experience and the capacity for genuine action — quality is especially important. Directly supports Tenet 3 (Bidirectional Interaction). Verify coherence, cross-references, and tenet alignment.
@@ -623,6 +617,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Deep review dreams-as-consciousness-laboratory.md
+- **Type**: deep-review
+- **Notes**: Newly written article (2026-03-04) synthesising Konkoly's two-way REM communication, Dormio incubation, and lucid dreaming as consciousness experiments. As a recent expand-topic output, early review ensures quality before the article accumulates inbound links. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Output**: dreams-as-consciousness-laboratory.md
 
 ### ✓ 2026-03-06: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic

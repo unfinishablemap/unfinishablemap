@@ -4,7 +4,7 @@ description: "Dreams provide the most accessible everyday evidence for the filte
 created: 2026-01-21
 modified: 2026-02-23
 human_modified: null
-ai_modified: 2026-03-05T22:41:00+00:00
+ai_modified: 2026-03-06T04:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated: null
-last_deep_review: 2026-03-04T15:09:00+00:00
+last_deep_review: 2026-03-06T04:25:00+00:00
 coalesced_from:
   - "/topics/lucid-dreaming-and-consciousness/"
   - "/topics/dreams-problem-solving-and-consciousness/"
@@ -75,7 +75,7 @@ The divergence is sharpest here: production models can account for dream vividne
 
 ## Dreams as Natural Experiment
 
-Dreams are the closest thing consciousness research has to a controlled experiment run by nature. Most consciousness research faces a fundamental limitation: during waking, consciousness, neural activity, and environmental input are entangled. Dreams change three variables simultaneously in ways waking experiments cannot replicate: thalamic gating suppresses sensory input at neural level, the dorsolateral prefrontal cortex selectively deactivates (Sebastián, 2014), and neurochemistry shifts from aminergic to cholinergic dominance. If consciousness were identical to a particular brain state, these radical changes should either extinguish it or produce a degraded remnant. Instead, dreams demonstrate consciousness that is qualitatively different from waking but not obviously lesser.
+Dreams are the closest thing consciousness research has to a controlled experiment run by nature. Most consciousness research faces a fundamental limitation: during waking, consciousness, neural activity, and environmental input are entangled. Dreams change three variables simultaneously in ways waking experiments cannot replicate: thalamic gating suppresses sensory input at neural level, the dorsolateral prefrontal cortex selectively deactivates (Sebastián, 2014), and neurochemistry shifts from aminergic to cholinergic dominance. If consciousness were identical to a fixed neural pattern—rather than something that persists across different physical configurations—these radical changes should either extinguish it or produce a degraded remnant. Instead, dreams demonstrate consciousness that is qualitatively different from waking but not obviously lesser.
 
 The dream evidence reveals an interface between consciousness and brain that admits multiple stable configurations:
 
