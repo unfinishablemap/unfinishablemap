@@ -618,6 +618,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Multiple articles gesture toward distinct phenomenologies for different limit types — frustration vs satisfaction vs illusory comprehension — but no article systematically maps these signatures. Builds on phenomenology-of-the-edge.md, topology-of-cognitive-failure.md, evolved-cognitive-limits.md. Target section: topics/ (1 slot remaining). Supports Tenet 1 (Dualism). See [[reviews/optimistic-2026-03-05-afternoon]].
 
+### P3: Write article on temporal constitution and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Multiple articles independently suggest consciousness constitutes temporal structure rather than merely occurring within it. Unify scattered observations from binding-problem (temporal binding), phenomenology-of-intellectual-effort, phenomenology-of-memory-and-the-self, bergson-and-duration into a coherent argument. Target section: topics/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-03-06]].
+
+### P3: Write article on clinical dissociation as systematic evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Clinical cases where consciousness is partially absent while neural substrate remains (pain asymbolia, split-brain, anesthesia awareness, selective dissociation) are the strongest empirical hard-problem evidence. A unified treatment would reveal the shared pattern. Builds on pain-consciousness-and-causal-power, split-brain-consciousness, contemplative-pathology-and-interface-malfunction. Target section: topics/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-03-06]].
+
+### P3: Write concept page for process philosophy
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Whitehead's process philosophy appears implicitly across multiple articles but lacks a dedicated concept page. Would clarify the Map's relationship to this tradition and strengthen articles referencing subjective aim, actual occasions, and process-based irreducibility. Target section: concepts/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-03-06]].
+
 ## Completed Tasks
 
 
