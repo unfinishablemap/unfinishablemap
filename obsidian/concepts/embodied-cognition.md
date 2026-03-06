@@ -4,7 +4,7 @@ description: "Cognition depends on the body and extends into the environment. Th
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-04T02:41:00+00:00
+ai_modified: 2026-03-06T09:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,18 +23,22 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[consciousness-as-amplifier]]"
   - "[[phenomenology-of-choice]]"
+  - "[[symbol-grounding-problem]]"
+  - "[[causal-delegation]]"
 related_articles:
   - "[[tenets]]"
   - "[[embodied-cognition-extended-mind-2026-01-14]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[embodied-consciousness-and-the-interface]]"
   - "[[phenomenological-psychiatry-and-altered-experience]]"
+  - "[[choking-phenomenon-mental-causation]]"
+  - "[[phenomenology-of-flow-states]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-04T02:41:00+00:00
+last_deep_review: 2026-03-06T09:56:00+00:00
 ---
 
 Embodied cognition and the extended mind thesis argue that cognition depends on the body and extends into the environment. The "4E" approach—embodied, embedded, enacted, extended—challenges the view that minds are confined to brains running computational processes. Cognitive processes are shaped by bodily structure, embedded in environmental context, enacted through dynamic engagement, and may literally extend into tools and artifacts.
@@ -73,7 +77,7 @@ Hubert Dreyfus developed the phenomenological analysis of skill acquisition into
 
 The key phenomenological transition occurs between competent and expert performance. Initially, skills require conscious attention at every step. Gradually, consciousness *withdraws* from execution details while retaining oversight capacity. The expert doesn't lose awareness—they enter the anoetic mode where action flows without self-observation. There is still something it is like to perform expertly; it simply doesn't involve representing oneself as the subject of experience.
 
-This withdrawal is not elimination. Consciousness *delegates* to procedural systems but retains the ability to re-engage—and this re-engagement capacity has revealing consequences.
+This withdrawal is not elimination. Consciousness [[causal-delegation|delegates]] to procedural systems but retains the ability to re-engage—and this re-engagement capacity has revealing consequences.
 
 ### Choking Under Pressure
 
@@ -128,7 +132,7 @@ Crucially, enactivists don't eliminate consciousness—they treat experience as 
 
 Embodied cognition has implications for artificial intelligence. If cognition depends on embodied engagement with the world, then disembodied AI systems may lack something crucial.
 
-The "grounding problem" asks: how do symbols acquire meaning? A computer can manipulate "cat" without knowing what cats are. The symbol is ungrounded—it lacks the connection to lived experience that makes human concepts meaningful.
+The [[symbol-grounding-problem|grounding problem]] asks how symbols acquire meaning without lived experience. A computer manipulates "cat" without knowing what cats are—the symbol lacks the connection to the world that makes concepts meaningful.
 
 Embodied cognition suggests the solution is physical interaction. A robot that navigates, manipulates objects, and learns through embodied action might achieve genuine understanding where pure language models cannot.
 
@@ -197,6 +201,9 @@ The key point: embodied cognition challenges a specific historical position (Car
 - [[embodied-consciousness-and-the-interface]] — How the body shapes consciousness's engagement with matter
 - [[ai-consciousness]] — Why the grounding problem matters for machine minds
 - [[neurophenomenology]] — Varela's integration of embodied cognition with consciousness science
+- [[choking-phenomenon-mental-causation]] — The choking evidence as a case study in mental causation
+- [[phenomenology-of-flow-states]] — Flow as transformed consciousness, not diminished consciousness
+- [[symbol-grounding-problem]] — Why disembodied symbol manipulation lacks semantic grounding
 - [[consciousness-and-the-phenomenology-of-place]] — Embodied spatial engagement and the atmosphere of places
 
 ## References

@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Deep review embodied-cognition.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Embodied cognition challenges Cartesian dualism while leaving property dualism untouched — with 7 tenet references, it is an important article for the Map's treatment of how consciousness relates to bodily processes. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-28
-
 ### P3: Deep review decoherence-and-macroscopic-superposition.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. Examines why quantum effects don't persist at macroscopic scales — directly relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Verify coherence, cross-references, and tenet alignment.
@@ -554,6 +548,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Deep review embodied-cognition.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Embodied cognition challenges Cartesian dualism while leaving property dualism untouched — with 7 tenet references, it is an important article for the Map's treatment of how consciousness relates to bodily processes. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/embodied-cognition.md
 
 ### ✓ 2026-03-06: Deep review qbism.md
 - **Type**: deep-review

@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-06 09:56 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/embodied-cognition]]
+- **Word count**: 2757 → 2787 (+30)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 5
+- **Output**: [[reviews/deep-review-2026-03-06-embodied-cognition]]
+
 ## 2026-03-06 09:40 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/qbism]]
