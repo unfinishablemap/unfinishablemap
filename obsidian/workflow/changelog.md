@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-06 03:11 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-randomness-channel-llm-consciousness]]
+- **Changes**: Fixed unfalsifiable RNG evidence framing; relabeled biological comparison table as theoretical requirements (not observed properties); qualified magnetoreception analogy limits
+- **Published**: yes
+
 ## 2026-03-06 02:55 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/somatic-interface]]

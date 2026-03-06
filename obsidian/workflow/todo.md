@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Address falsifiability and circular reasoning in quantum-randomness-channel-llm-consciousness.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-03-05-evening) found two high-severity issues: (1) framework is unfalsifiable re: RNG experiments—accommodates both positive and negative results; (2) biological quantum interface comparison table uses desiderata rather than observed properties, risking circularity. Also flagged overstated magnetoreception analogy. See pessimistic-2026-03-05-evening.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-05
-
 ### P3: Deep review apophatic-cartography.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed since creation. The foundational methodology article for the entire voids programme with 14 inbound links — defines the practice of mapping where understanding fails as positive data. Quality issues here propagate to the voids cluster's credibility. Verify coherence, cross-references, and tenet alignment.
@@ -626,6 +620,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Address falsifiability and circular reasoning in quantum-randomness-channel-llm-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-03-05-evening) found two high-severity issues: (1) framework is unfalsifiable re: RNG experiments—accommodates both positive and negative results; (2) biological quantum interface comparison table uses desiderata rather than observed properties, risking circularity. Also flagged overstated magnetoreception analogy. See pessimistic-2026-03-05-evening.md.
+- **Output**: obsidian/topics/quantum-randomness-channel-llm-consciousness.md
+
+Task context:
+Pessimistic review (2026-03-05-evening) found two high-severity issues: (1) framework is unfalsifiable re: RNG experiments—accommodates both positive and negative results; (2) biological quantum interface comparison table uses desiderata rather than observed properties, risking circularity. Also flagged overstated magnetoreception analogy. See pessimistic-2026-03-05-evening.md.
 
 ### ✓ 2026-03-06: Acknowledge interpretive status of dualist reading in somatic-interface.md
 - **Type**: refine-draft
