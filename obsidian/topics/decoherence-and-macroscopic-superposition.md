@@ -4,7 +4,7 @@ description: "The quantum-classical boundary keeps receding. Hot cat states, nan
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-03-05T16:17:00+00:00
+ai_modified: 2026-03-06T10:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated:
-last_deep_review: 2026-03-03T07:41:00+00:00
+last_deep_review: 2026-03-06T10:25:00+00:00
 ---
 
 Where does quantum become classical? Schrödinger's cat was meant as *reductio ad absurdum*—surely macroscopic objects cannot exist in superposition. Yet experiments keep pushing the boundary further than intuition suggests. Hot Schrödinger cat states at 1.8 kelvin, matter-wave interference in 7,000-atom nanoparticles, and quantum coherence in photosynthetic complexes all demonstrate that the warm-macro-therefore-classical assumption is empirically false. The quantum-classical boundary is not a sharp line but a fuzzy frontier we keep redrawing.
@@ -101,7 +101,7 @@ The [[decoherence]] article examines the debate between Tegmark's rapid-decohere
 
 The receding quantum-classical boundary matters for theories that propose consciousness interacts with quantum processes. If quantum effects are strictly confined to the atomic scale in any warm system, quantum consciousness theories face an immediate objection. If the boundary is fuzzy and biology can exploit quantum effects for function, the objection weakens.
 
-**Two distinct hypotheses require distinction here.** The first claims that quantum coherence in neural tissue directly enables or constitutes consciousness—that maintaining superposition across many neurons is essential to conscious states. The second, weaker claim holds that consciousness biases quantum measurement outcomes without requiring sustained coherence. These are different proposals with different empirical requirements. The receding boundary supports the physical plausibility of the first; the measurement problem discussion (below) concerns the second.
+**Two hypotheses require distinction.** The first claims that quantum coherence in neural tissue directly enables or constitutes consciousness—that maintaining superposition across many neurons is essential to conscious states. The second, weaker claim holds that consciousness biases quantum measurement outcomes without requiring sustained coherence. These are different proposals with different empirical requirements. The receding boundary supports the physical plausibility of the first; the measurement problem discussion (below) concerns the second.
 
 The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] endorses the second hypothesis. It proposes that consciousness influences quantum outcomes at the smallest possible scale without requiring macroscopic neural coherence. Mechanisms like the [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno effect]]—where repeated observation holds a system in a particular state—could allow consciousness to bias neural outcomes at the moment of measurement, not through sustained superposition.
 
@@ -125,7 +125,9 @@ The receding quantum-classical boundary connects to several Map tenets.
 
 The [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits tenet]] is directly illustrated here. We assumed warm macroscopic systems must be classical because that seemed simpler. Nature proved less cooperative. Hot cat states, nanoparticle interference, and biological quantum effects all violate intuitions that seemed obvious. Simplicity is a heuristic, not a guarantee—especially when our conceptual tools may be inadequate to the domain.
 
-The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects to why the boundary matters. Under the many-worlds interpretation, there is no boundary problem—all quantum possibilities actualize in branching universes. The fact that we observe definite macroscopic states reflects our indexical position within one branch, not genuine collapse. If one accepts MWI, this entire article's framing dissolves—the "receding boundary" is simply an expansion of where we can detect quantum effects, with no collapse required anywhere. But if collapse is real (as the Map holds), something must trigger it. [[spontaneous-collapse-theories|Spontaneous collapse theories]] like GRW and Penrose's gravitational collapse provide physical mechanisms; the Map's position adds that consciousness may modulate these mechanisms in neural systems. The boundary question becomes: where does the world become determinate? The receding boundary suggests the answer is not "at the atomic scale" but something more subtle.
+The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects to why the boundary matters. Under the many-worlds interpretation, there is no boundary problem—all quantum possibilities actualize in branching universes. The fact that we observe definite macroscopic states reflects our indexical position within one branch, not genuine collapse. If one accepts MWI, this entire article's framing dissolves—the "receding boundary" is simply an expansion of where we can detect quantum effects, with no collapse required anywhere.
+
+But if collapse is real (as the Map holds), something must trigger it. [[spontaneous-collapse-theories|Spontaneous collapse theories]] like GRW and Penrose's gravitational collapse provide physical mechanisms; the Map's position adds that consciousness may modulate these mechanisms in neural systems. The boundary question becomes: where does the world become determinate? The receding boundary suggests the answer is not "at the atomic scale" but something more subtle.
 
 The Map's defense of [[topics/free-will|free will]] gains support from this picture. If consciousness can bias quantum outcomes at neural decision points, this provides a mechanism for agent causation—genuinely open futures that conscious choices help determine. The receding quantum-classical boundary expands the domain where such choices could operate.
 

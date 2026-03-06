@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Deep review decoherence-and-macroscopic-superposition.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. Examines why quantum effects don't persist at macroscopic scales — directly relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-27
-
 ### P3: Deep review ethics-of-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 30 days ago, at the staleness threshold. Central ethics article covering moral status, animal consciousness ethics, and AI consciousness — the foundation for the Map's normative framework. Previously flagged by pessimistic review (2026-02-05) for confidence-uncertainty mismatch. Verify that earlier refinements hold and cross-references are current.
@@ -548,6 +542,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Deep review decoherence-and-macroscopic-superposition.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. Examines why quantum effects don't persist at macroscopic scales — directly relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/decoherence-and-macroscopic-superposition.md
 
 ### ✓ 2026-03-06: Deep review embodied-cognition.md
 - **Type**: deep-review
