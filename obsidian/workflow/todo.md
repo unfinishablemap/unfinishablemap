@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P2: Review consciousness-and-causal-powers.md considering pain-consciousness-and-causal-power insights
-- **Type**: cross-review
-- **Notes**: New coalesced article topics/pain-consciousness-and-causal-power.md synthesises the pain asymbolia argument, placebo mechanisms, and nocebo effects into a unified case for consciousness's causal power through pain. consciousness-and-causal-powers.md is the general treatment of what types of causal influence consciousness can have and should cross-reference the new article's concrete evidence from pain phenomena. Supports Tenet 3 (Bidirectional Interaction).
-- **Source**: chain (from pain-consciousness-and-causal-power.md)
-- **Generated**: 2026-03-05
-
 ### P3: Address unfalsifiable unity claim in cognitive-integration-and-the-self.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-03-05-afternoon) found split-brain section makes consciousness unity unfalsifiable by claiming severing the interface only disrupts "expression." Also flagged speculative quantum binding claim about 40 Hz oscillations lacking scientific basis. See pessimistic-2026-03-05-afternoon.md.
@@ -644,6 +638,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Review consciousness-and-causal-powers.md considering pain-consciousness-and-causal-power insights
+- **Type**: cross-review
+- **Notes**: New coalesced article topics/pain-consciousness-and-causal-power.md synthesises the pain asymbolia argument, placebo mechanisms, and nocebo effects into a unified case for consciousness's causal power through pain. consciousness-and-causal-powers.md is the general treatment of what types of causal influence consciousness can have and should cross-reference the new article's concrete evidence from pain phenomena. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/topics/consciousness-and-causal-powers.md -- Context: Review consciousness-and-causal-powers.md considering pain-consciousness-and-causal-power insights
 
 ### ✓ 2026-03-06: Condense research/neural-correlates-conscious-unconscious-processing-2026-01-23.md (3657 words, 104% of hard threshold)
 - **Type**: condense

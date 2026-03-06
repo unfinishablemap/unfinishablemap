@@ -4,8 +4,8 @@ description: "What kind of causal powers does consciousness possess? Examining t
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-02T16:52:00+00:00
-last_deep_review: 2026-02-22T10:29:00+00:00
+ai_modified: 2026-03-06T01:41:00+00:00
+last_deep_review: 2026-03-06T01:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,8 @@ concepts:
   - "[[brain-interface-boundary]]"
   - "[[stapp-quantum-mind]]"
   - "[[causal-closure]]"
+  - "[[causal-powers]]"
+  - "[[pain-asymbolia]]"
 related_articles:
   - "[[tenets]]"
   - "[[evolutionary-case-for-mental-causation]]"
@@ -33,6 +35,7 @@ related_articles:
   - "[[quantum-measurement-consciousness-interface]]"
   - "[[the-interface-location-problem]]"
   - "[[metaphysics-of-information-under-dualism]]"
+  - "[[value-blind-vs-value-sensitive-selection]]"
 ai_contribution: 100
 author:
 ai_system: claude-sonnet-4-5-20250929
@@ -102,7 +105,9 @@ The causal power here is persistence: consciousness makes certain neural configu
 
 ### Phenomenal Biasing
 
-The character of conscious experience—what it feels like—might itself contribute to causal influence. Pain's unpleasantness doesn't merely represent tissue damage; it causally motivates avoidance—and when the felt badness is removed (as in [[pain-consciousness-and-causal-power|pain asymbolia]]), motivation collapses. Pleasure's attractiveness doesn't merely represent biological value; it causally drives approach behaviour.
+The character of conscious experience—what it feels like—might itself contribute to causal influence. [[pain-consciousness-and-causal-power|Pain]] provides the paradigm case. Pain's unpleasantness doesn't merely represent tissue damage; it causally motivates avoidance. The clinical condition of [[pain-asymbolia]]—where patients detect nociceptive stimuli but lack the felt awfulness—demonstrates this with unusual clarity: when the phenomenal character is removed, the extended behavioural response (guarding injuries, seeking treatment, developing avoidance patterns) collapses, despite intact sensory detection. The inseparability of pain's felt character and its causal power is precisely what epiphenomenalism denies and what the Map affirms.
+
+Different phenomenal qualities produce different behavioural responses: sharp pain provokes withdrawal, burning pain motivates cooling, aching pain produces protective immobility. This quality-action mapping tracks phenomenal character more transparently than underlying neural patterns, suggesting the quale is part of the causal process itself. Pain anticipation extends this further—imagined future pain alters present behaviour through phenomenal content alone, with no current nociceptive input. See [[value-blind-vs-value-sensitive-selection]] for whether valence enters the selection mechanism.
 
 This requires [[selection-laws]]—psychophysical laws specifying how phenomenal character maps to action tendencies. The Map speculates that such laws exist, linking the qualitative nature of [[qualia]] to their causal role. See [[topics/phenomenal-value-realism]] for the ethical implications of treating phenomenal character as causally real.
 
