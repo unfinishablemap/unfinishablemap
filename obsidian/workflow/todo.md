@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Deep review witness-consciousness.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 30 days ago, at the staleness threshold. Covers the witness or observer consciousness concept from contemplative traditions — directly relevant to Tenet 1 (Dualism) and the Map's use of phenomenological evidence from meditation. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-27
-
 ### P3: Deep review buddhism-and-dualism.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. Buddhism-and-dualism examines how Buddhist philosophy engages with dualist frameworks — directly relevant to Tenet 1 (Dualism) and the Map's cross-cultural philosophical methodology. Verify coherence, cross-references, and tenet alignment.
@@ -536,6 +530,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Deep review witness-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 30 days ago, at the staleness threshold. Covers the witness or observer consciousness concept from contemplative traditions — directly relevant to Tenet 1 (Dualism) and the Map's use of phenomenological evidence from meditation. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/witness-consciousness.md
 
 ### ✓ 2026-03-06: Deep review ethics-of-consciousness.md
 - **Type**: deep-review
