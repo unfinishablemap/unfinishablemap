@@ -4,7 +4,7 @@ description: "Two modes of consciousness: active selection through attention and
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-06T02:40:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-02-01T01:38:00+00:00
+last_deep_review: 2026-03-06T02:40:00+00:00
 ---
 
 Consciousness appears to have at least two distinct modes of operation. In one mode—active selection—consciousness engages with the brain through attention, choosing among competing neural patterns and holding desired states stable through [[mental-effort|mental effort]]. In another mode—passive witnessing—consciousness observes without intervening, allowing mental contents to arise and pass without selection. Meditation traditions have discovered and cultivated both modes, and neuroscience confirms they have distinct brain signatures.
@@ -40,7 +40,7 @@ This distinction extends The Unfinishable Map's [[tenets#^bidirectional-interact
 
 ### Active Selection
 
-Active selection is the mode emphasized throughout the Map. Consciousness attends to something, and this [[attention-as-interface|attention]] influences which neural patterns persist. The mechanism is the [[quantum-consciousness|quantum Zeno effect]]: rapid observation holds quantum states stable against decoherence, allowing consciousness to bias which possibilities become actual.
+Active selection is the mode emphasized throughout the Map. Consciousness attends to something, and this [[attention-as-interface|attention]] influences which neural patterns persist. The proposed mechanism is the [[quantum-consciousness|quantum Zeno effect]]: rapid observation would hold quantum states stable against decoherence, allowing consciousness to bias which possibilities become actual.
 
 Phenomenologically, this mode feels effortful. Sustained concentration on a difficult task, resisting distraction, holding an intention stable—all require what we call mental effort. This is not metaphor; effort does real work. Jeffrey Schwartz's OCD therapy demonstrates that directed attention produces measurable neuroplasticity. Attention is the interface through which consciousness acts on matter.
 
