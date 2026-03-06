@@ -4,7 +4,7 @@ description: "When skilled performers attend to automatized actions, performance
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-06T07:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated:
-last_deep_review: 2026-02-02T05:59:00+00:00
+last_deep_review: 2026-03-06T07:10:00+00:00
 ---
 
 When expert golfers think about their swing, they miss putts they would normally make. When concert pianists monitor their finger placement, they stumble over passages they've played flawlessly a thousand times. When skilled speakers attend to their pronunciation, they stammer. This is the choking phenomenon—the counterintuitive degradation of skilled performance when conscious attention focuses on automatized actions.
@@ -36,7 +36,7 @@ Choking provides unusually strong evidence for [[mental-causation|mental causati
 
 ## The Structure of Choking
 
-Baumeister and Beilock's explicit monitoring theory explains the mechanism: high-pressure situations generate anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer "reinvests" explicit control in procedures that work better without it.
+Beilock and Carr's explicit monitoring theory (building on Baumeister's earlier work on self-consciousness under pressure) explains the mechanism: high-pressure situations generate anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer "reinvests" explicit control in procedures that work better without it.
 
 Research confirms several patterns (though, like much psychology from this era, some findings await replication):
 
@@ -45,7 +45,7 @@ Research confirms several patterns (though, like much psychology from this era, 
 - **Attentional distraction helps**: Dual-task conditions that occupy conscious attention can *improve* skilled performance. Removing the monitoring removes the interference.
 - **Outcome focus reduces choking**: Instructions to focus on outcomes rather than mechanics protect performance.
 
-The core phenomenon—performance degradation under self-focused attention—has replicated consistently across sports psychology, music performance, and motor learning research. The theoretical details remain debated; the basic effect does not.
+The core phenomenon—performance degradation under self-focused attention—has been demonstrated across sports psychology, music performance, and motor learning research, with Beilock's lab producing some of the most robust replications. The theoretical details remain debated; the basic effect is well established.
 
 This pattern reveals a causal chain: (1) conscious attention shifts to procedural execution, (2) procedural execution is disrupted, (3) performance degrades. If step 1 couldn't cause step 2, the entire phenomenon would be inexplicable.
 
@@ -77,11 +77,11 @@ Choking occurs when this re-engagement is *inappropriate*—when consciousness i
 
 This analysis faces several problems.
 
-**The causal tracking problem**: The illusionist explains choking as one brain process (prefrontal monitoring) interfering with another (cerebellar automaticity). Grant that description. The question remains: why does this interference track phenomenological distinctions so precisely? The performance degradation occurs specifically when there is the characteristic *feel* of effortful self-monitoring—not merely when prefrontal systems are active. Athletes report that they can engage cognitive control without choking when it doesn't have the phenomenal character of self-focused attention. If the phenomenology were epiphenomenal, this correlation would be coincidental. But it's systematic.
+**The causal tracking problem**: The illusionist explains choking as one brain process (prefrontal monitoring) interfering with another (cerebellar automaticity). Grant that description. The question remains: why does this interference track phenomenological distinctions so precisely? The performance degradation occurs specifically when there is the characteristic *feel* of effortful self-monitoring—not merely when prefrontal systems are active. Research on dual-task paradigms suggests that cognitive load per se does not produce choking; indeed, certain forms of distraction *improve* expert performance. What disrupts is specifically self-focused monitoring—the phenomenologically distinctive state of attending to one's own actions. If the phenomenology were epiphenomenal, this correlation would be coincidental. But it's systematic.
 
 **The mode asymmetry**: Tulving's hierarchy describes phenomenological distinctions—the difference between acting without self-awareness (anoetic), knowing without re-experiencing (noetic), and re-living past events (autonoetic). The illusionist treats these as functional states the brain represents itself as having. But choking reveals that these modes have distinct causal profiles: anoetic consciousness permits smooth execution while autonoetic monitoring disrupts it. The functional difference tracks a phenomenological difference. If the phenomenology were merely how the brain misrepresents itself, why would different misrepresentations have reliably different causal consequences for motor execution?
 
-**The heterophenomenological response**: Dennett might invoke heterophenomenology—studying subjects' reports about their experiences without committing to phenomenal properties. The choking subject reports "effortful attention" and performs worse; the absorbed expert reports "flow" and performs well. The heterophenomenologist catalogues these reports without granting that the reported experiences are real. But this sidesteps rather than answers the question. The reports themselves track a performance difference. Something distinguishes the two states, and that something affects motor systems. Whether we call it "phenomenal" or not, it's causally relevant—which is what epiphenomenalism denies.
+**The heterophenomenological response**: Dennett might invoke heterophenomenology—studying subjects' reports about their experiences without committing to phenomenal properties. The choking subject reports "effortful attention" and performs worse; the absorbed expert reports "flow" and performs well. The heterophenomenologist catalogues these reports without granting that the reported experiences are real. But this sidesteps rather than answers the question. The reports themselves track a performance difference. Something distinguishes the two states, and that something affects motor systems. The heterophenomenologist can avoid calling this "phenomenal," but cannot avoid the conclusion that the states subjects report as experientially different are causally different. This is precisely what a purely functionalist account struggles to explain: why the functional distinction maps onto the phenomenological one so reliably, rather than cutting across it.
 
 ## Contemplative Convergence
 
@@ -93,7 +93,7 @@ The Theravāda analysis of *kāyagatāsati* (mindfulness of body) explicitly tra
 
 Zen's *shikantaza* ("just sitting") represents the expert mode: no technique being applied, no steps being followed, yet alert presence throughout. The Zen master's *mushin* (no-mind) is typically understood within that tradition as transcending the subject-object distinction rather than as "consciousness without self-interference" in a dualist sense. Nevertheless, the phenomenological description—acting without grasping—maps onto the absorbed expert's state.
 
-That contemplative training can protect against choking—and that the phenomenological states achieved through meditation parallel the psychological states distinguishing experts from chokers—supports the reality of these conscious modes and their causal relevance, even if the metaphysical interpretation varies across traditions.
+Research on mindfulness interventions in sport psychology suggests that contemplative training may protect against choking by cultivating non-judgmental awareness that reduces self-focused interference. That the phenomenological states achieved through meditation parallel the psychological states distinguishing experts from chokers supports the reality of these conscious modes and their causal relevance, even if the metaphysical interpretation varies across traditions.
 
 ## Agent Causation and Choking
 
