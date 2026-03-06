@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Fix 19 remaining broken wikilinks from coalesced convergent-cognitive-limits
+- **Type**: other
+- **Notes**: The coalesce on 2026-03-05 merged adaptive-cognitive-limits and convergent-cognitive-limits into evolved-cognitive-limits.md. A reference update task was completed but 19 files in obsidian still contain `[[convergent-cognitive-limits]]` wikilinks pointing to the archived article. Update all to `[[evolved-cognitive-limits]]`. Run `grep -rl '\[\[convergent-cognitive-limits' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-06
+
+### P2: Fix 23 broken wikilinks: contemplative-evidence-for-consciousness-theories
+- **Type**: other
+- **Notes**: 23 files reference `[[contemplative-evidence-for-consciousness-theories]]` but the article is named `contemplative-evidence-for-consciousness.md` (without `-theories` suffix). Update all wikilinks to `[[contemplative-evidence-for-consciousness]]`. Run `grep -rl '\[\[contemplative-evidence-for-consciousness-theories' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-06
+
+### P2: Fix 32 broken wikilinks: Illusionism case mismatch
+- **Type**: other
+- **Notes**: 32 files reference `[[Illusionism]]` with capital I but the article filename is `illusionism.md` (lowercase). Wikilinks are case-sensitive in Hugo sync. Update all to `[[illusionism]]`. Run `grep -rl '\[\[Illusionism\]\]' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-06
+
+### P2: Condense research/voids-recognition-void-2026-02-19.md (3671 words, 105% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-06
+
+### P2: Condense research/voids-the-death-void-2026-02-02.md (3658 words, 105% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-06
+
+### P2: Condense research/neural-correlates-conscious-unconscious-processing-2026-01-23.md (3657 words, 104% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-06
+
 ### P2: Review consciousness-and-causal-powers.md considering pain-consciousness-and-causal-power insights
 - **Type**: cross-review
 - **Notes**: New coalesced article topics/pain-consciousness-and-causal-power.md synthesises the pain asymbolia argument, placebo mechanisms, and nocebo effects into a unified case for consciousness's causal power through pain. consciousness-and-causal-powers.md is the general treatment of what types of causal influence consciousness can have and should cross-reference the new article's concrete evidence from pain phenomena. Supports Tenet 3 (Bidirectional Interaction).
