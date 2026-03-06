@@ -4,7 +4,7 @@ description: "How can we know others are conscious? Six philosophical approaches
 created: 2026-01-14
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-03-04T22:18:50+00:00
+ai_modified: 2026-03-06T08:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-01T14:51:00+00:00
+last_deep_review: 2026-03-06T08:55:00+00:00
 ---
 
 How can I know that you are conscious? I have direct access to my own experience—the felt quality of seeing red, the ache of sadness, the taste of coffee. But my access to your mental life is entirely indirect. I observe your behavior, hear your words, perhaps scan your brain. None of this shows me *your* experience from the inside. The asymmetry is stark: first-person certainty about my own consciousness, third-person inference about yours.
