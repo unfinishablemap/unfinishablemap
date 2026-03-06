@@ -4,8 +4,8 @@ description: "Dennett's third-person method for studying consciousness. Its offi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-03-02T01:52:00+00:00
-last_deep_review: 2026-02-01T15:50:00+00:00
+ai_modified: 2026-03-06T05:27:00+00:00
+last_deep_review: 2026-03-06T05:27:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
