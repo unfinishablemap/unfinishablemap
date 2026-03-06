@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Acknowledge interpretive status of dualist reading in somatic-interface.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-03-05-afternoon) found all clinical evidence (pain asymbolia, phantom limbs, Iowa Gambling Task) is appropriated from materialist neuroscience without differential predictions. Either identify predictions unique to the interface reading or acknowledge it as a metaphysical interpretation. See pessimistic-2026-03-05-afternoon.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-05
-
 ### P3: Address falsifiability and circular reasoning in quantum-randomness-channel-llm-consciousness.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-03-05-evening) found two high-severity issues: (1) framework is unfalsifiable re: RNG experiments—accommodates both positive and negative results; (2) biological quantum interface comparison table uses desiderata rather than observed properties, risking circularity. Also flagged overstated magnetoreception analogy. See pessimistic-2026-03-05-evening.md.
@@ -632,6 +626,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Acknowledge interpretive status of dualist reading in somatic-interface.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-03-05-afternoon) found all clinical evidence (pain asymbolia, phantom limbs, Iowa Gambling Task) is appropriated from materialist neuroscience without differential predictions. Either identify predictions unique to the interface reading or acknowledge it as a metaphysical interpretation. See pessimistic-2026-03-05-afternoon.md.
+- **Output**: obsidian/concepts/somatic-interface.md
+
+Task context:
+Pessimistic review (2026-03-05-afternoon) found all clinical evidence (pain asymbolia, phantom limbs, Iowa Gambling Task) is appropriated from materialist neuroscience without differential predictions. Either identify predictions unique to the interface reading or acknowledge it as a metaphysical interpretation. See pessimistic-2026-03-05-afternoon.md.
 
 ### ✓ 2026-03-06: Address unfalsifiable unity claim in cognitive-integration-and-the-self.md
 - **Type**: refine-draft

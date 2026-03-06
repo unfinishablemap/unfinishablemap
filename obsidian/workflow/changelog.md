@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-06 02:55 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/somatic-interface]]
+- **Changes**: Resolved unfalsifiable claims by acknowledging clinical evidence is interpretation-neutral; added materialist explanations alongside interface reading throughout; explicitly positioned interface reading as metaphysical framework rather than competing clinical hypothesis
+- **Published**: yes
+
 ## 2026-03-06 02:40 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/meditation-and-consciousness-modes]]
