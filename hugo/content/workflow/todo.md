@@ -38,24 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense research/voids-mattering-void-2026-02-19.md (3884 words, 111% of hard threshold)
-- **Type**: condense
-- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 3884 words, the worst length violation among research notes. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-05
-
-### P2: Condense research/voids-normative-void-2026-02-02.md (3730 words, 107% of hard threshold)
-- **Type**: condense
-- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-05
-
-### P2: Condense research/voids-dream-consciousness-void-2026-02-02.md (3722 words, 106% of hard threshold)
-- **Type**: condense
-- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-05
-
 ### P2: Review consciousness-and-causal-powers.md considering pain-consciousness-and-causal-power insights
 - **Type**: cross-review
 - **Notes**: New coalesced article topics/pain-consciousness-and-causal-power.md synthesises the pain asymbolia argument, placebo mechanisms, and nocebo effects into a unified case for consciousness's causal power through pain. consciousness-and-causal-powers.md is the general treatment of what types of causal influence consciousness can have and should cross-reference the new article's concrete evidence from pain phenomena. Supports Tenet 3 (Bidirectional Interaction).
@@ -645,6 +627,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Condense research/voids-dream-consciousness-void-2026-02-02.md (3722 words, 106% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Output**: obsidian/research/voids-dream-consciousness-void-2026-02-02.md
+
+### ✓ 2026-03-06: Condense research/voids-normative-void-2026-02-02.md (3730 words, 107% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Output**: obsidian/research/voids-normative-void-2026-02-02.md
+
+### ✓ 2026-03-05: Condense research/voids-mattering-void-2026-02-19.md (3884 words, 111% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 3884 words, the worst length violation among research notes. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Output**: obsidian/research/voids-mattering-void-2026-02-19.md
 
 ### ✓ 2026-03-05: Cross-review developmental-cognitive-closure.md considering expertise-void insights
 - **Type**: cross-review
