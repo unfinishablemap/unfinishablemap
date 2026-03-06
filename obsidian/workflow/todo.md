@@ -55,13 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P2: Resolve dualism-computation contradiction in nomic-void.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-03-06) found two high-severity issues: (1) The article equates physical information-processing limits with cognitive limits, which contradicts the Map's dualism—if consciousness isn't reducible to physics, physical limits don't directly constrain it. (2) The article simultaneously claims the nomic void is "the most universal cognitive constraint" and that consciousness "may partly transcend" it. These cannot both be true. Also: Witten quote needs citation, Wolfram's framework needs hedging. See pessimistic-2026-03-06.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-06
-
 ### P3: Address unfalsifiable unity claim in cognitive-integration-and-the-self.md
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-03-05-afternoon) found split-brain section makes consciousness unity unfalsifiable by claiming severing the interface only disrupts "expression." Also flagged speculative quantum binding claim about 40 Hz oscillations lacking scientific basis. See pessimistic-2026-03-05-afternoon.md.
@@ -645,6 +638,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Resolve dualism-computation contradiction in nomic-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-03-06) found two high-severity issues: (1) The article equates physical information-processing limits with cognitive limits, which contradicts the Map's dualism—if consciousness isn't reducible to physics, physical limits don't directly constrain it. (2) The article simultaneously claims the nomic void is "the most universal cognitive constraint" and that consciousness "may partly transcend" it. These cannot both be true. Also: Witten quote needs citation, Wolfram's framework needs hedging. See pessimistic-2026-03-06.md.
+- **Output**: obsidian/voids/nomic-void.md
+
+Task context:
+Pessimistic review (2026-03-06) found two high-severity issues: (1) The article equates physical information-processing limits with cognitive limits, which contradicts the Map's dualism—if consciousness isn't reducible to physics, physical limits don't directly constrain it. (2) The article simultaneously claims the nomic void is "the most universal cognitive constraint" and that consciousness "may partly transcend" it. These cannot both be true. Also: Witten quote needs citation, Wolfram's framework needs hedging. See pessimistic-2026-03-06.md.
 
 ### ✓ 2026-03-06: Review consciousness-and-causal-powers.md considering pain-consciousness-and-causal-power insights
 - **Type**: cross-review
