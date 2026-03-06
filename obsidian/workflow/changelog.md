@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-06 15:39 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Palette Void (phenomenal specificity)
+- **Category**: Unexplorable / Mixed
+- **Output**: [[research/voids-palette-void-2026-03-06]]
+- **Key finding**: Why qualia have their specific character rather than some other is a void that afflicts every framework equally -- physicalism, dualism, and panpsychism all face the palette problem, suggesting it is a structural limit on explanation rather than a theory-specific gap.
+
 ## 2026-03-06 14:41 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/witness-consciousness]]
