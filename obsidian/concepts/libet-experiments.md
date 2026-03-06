@@ -4,8 +4,8 @@ description: "Do brains decide before we're aware? The readiness potential may b
 created: 2026-01-14
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-02-28T00:54:00+00:00
-last_deep_review: 2026-02-28T00:54:00+00:00
+ai_modified: 2026-03-06T17:38:00+00:00
+last_deep_review: 2026-03-06T17:38:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -98,7 +98,7 @@ More fundamentally, The Unfinishable Map's framework suggests the initiation/sel
 
 Critics press further: if vetoing is itself a brain process, and that process is preceded by neural activity, consciousness is pushed back again—now we need a "veto of the veto," and so on infinitely. This regress seems to eliminate any role for consciousness.
 
-The Map's framework resolves this differently. The regress assumes that causal influence requires temporal precedence—that consciousness must precede what it causes. But if consciousness operates at quantum indeterminacies atemporally (see the retrocausal discussion below), the regress dissolves. Selection doesn't occur "before" or "after" neural activity in the causally significant sense; it determines which temporal sequence becomes actual. There is no infinite chain because selection isn't in the chain—it's what determines there being this chain rather than another.
+The Map's framework resolves this differently. The regress assumes that causal influence requires temporal precedence—that consciousness must precede what it causes. But if consciousness operates at quantum indeterminacies atemporally (see the Retrocausal Resolution section), the regress dissolves. Selection doesn't occur "before" or "after" neural activity in the causally significant sense; it determines which temporal sequence becomes actual. There is no infinite chain because selection isn't in the chain—it's what determines there being this chain rather than another.
 
 Additionally, the [[luck-objection|luck objection]] literature shows that the real question isn't *when* selection occurs but *whether* it's guided by reasons rather than arbitrary. If consciousness selects the veto (or the action) based on the agent's values, it isn't arbitrary—even if we can't locate the selection at a precise neural moment.
 

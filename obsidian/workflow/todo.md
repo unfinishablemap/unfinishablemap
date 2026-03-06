@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Deep review libet-experiments.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. The Libet experiments are foundational evidence in the free will debate and directly relevant to Tenet 3 (Bidirectional Interaction) — the Map's interpretation of readiness potentials as context-setting rather than decision-making needs periodic quality assurance. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-27
-
 ### P3: Deep review retrocausality.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. Retrocausality is directly relevant to Tenet 2 (Minimal Quantum Interaction) and the Map's treatment of time and causation in quantum mechanics. Verify coherence, cross-references, and tenet alignment.
@@ -524,6 +518,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Deep review libet-experiments.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. The Libet experiments are foundational evidence in the free will debate and directly relevant to Tenet 3 (Bidirectional Interaction) — the Map's interpretation of readiness potentials as context-setting rather than decision-making needs periodic quality assurance. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/libet-experiments.md
 
 ### ✓ 2026-03-06: Deep review buddhism-and-dualism.md
 - **Type**: deep-review
