@@ -55,13 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P2: Address structural issues in ai-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (pessimistic-2026-03-06-morning.md) found 2 high-severity issues: (1) systematic self-undermining where every argument is qualified into near-irrelevance---needs to distinguish compelling arguments from merely suggestive ones; (2) circular grounding where dualism motivates the arguments and the arguments motivate dualism. Also: outdated Engel et al. 2007 quantum biology citation, Hoel 2025 still listed as working paper, and alignment section overreach on AI capability claims.
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-06
-
 ### P3: Deep review combination-problem.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The combination problem challenges panpsychism by asking how micro-experiences combine into unified macro-experience — a key objection the Map cites when arguing that panpsychism fails to solve the hard problem. Verify coherence, cross-references, and tenet alignment.
@@ -570,6 +563,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Address structural issues in ai-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-03-06-morning.md) found 2 high-severity issues: (1) systematic self-undermining where every argument is qualified into near-irrelevance---needs to distinguish compelling arguments from merely suggestive ones; (2) circular grounding where dualism motivates the arguments and the arguments motivate dualism. Also: outdated Engel et al. 2007 quantum biology citation, Hoel 2025 still listed as working paper, and alignment section overreach on AI capability claims.
+- **Output**: obsidian/topics/ai-consciousness.md
+
+Task context:
+Pessimistic review (pessimistic-2026-03-06-morning.md) found 2 high-severity issues: (1) systematic self-undermining where every argument is qualified into near-irrelevance---needs to distinguish compelling arguments from merely suggestive ones; (2) circular grounding where dualism motivates the arguments and the arguments motivate dualism. Also: outdated Engel et al. 2007 quantum biology citation, Hoel 2025 still listed as working paper, and alignment section overreach on AI capability claims.
 
 ### ✓ 2026-03-06: Deep review consciousness-and-creativity.md
 - **Type**: deep-review
