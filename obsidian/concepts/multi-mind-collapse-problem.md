@@ -4,7 +4,7 @@ description: "When multiple minds observe entangled systems, whose consciousness
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-05T16:17:00+00:00
+ai_modified: 2026-03-06T10:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-02-01T15:14:00+00:00
+last_deep_review: 2026-03-06T10:10:00+00:00
 ---
 
 If consciousness participates in quantum collapse, what happens when multiple minds observe the same system? The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness biases quantum outcomes in the brain. But there are other minds. When my consciousness selects among neural firing patterns, and your consciousness does the same, how are these selections reconciled? This "multi-mind collapse problem" poses a serious challenge to any quantum-consciousness framework—one that the Map's existing treatment of [[prebiotic-collapse]] and [[brain-interface-boundary|interface locality]] helps resolve.
@@ -95,7 +95,7 @@ Each consciousness is an island, causally isolated from other consciousnesses at
 
 ## The Decoherence Challenge
 
-Does quantum selection in the brain occur at all? Tegmark's 2000 calculation suggested neural coherence decays in ~10⁻¹³ seconds—seemingly too fast for any selection process. But Hameroff's group showed corrected parameters yield coherence times of 10⁻⁵ to 10⁻⁴ seconds. The quantum Zeno mechanism doesn't require sustained coherence between observations—rapid attentional "measurements" maintain states through repetition. And quantum biology precedents (avian magnetoreception, confirmed by Princeton's 2026 cryptochrome study) show evolution can exploit quantum effects in warm tissue.
+Does quantum selection in the brain occur at all? Tegmark's 2000 calculation suggested neural coherence decays in ~10⁻¹³ seconds—seemingly too fast for any selection process. But Hameroff's group showed corrected parameters yield coherence times of 10⁻⁵ to 10⁻⁴ seconds. The quantum Zeno mechanism doesn't require sustained coherence between observations—rapid attentional "measurements" maintain states through repetition. And quantum biology precedents (avian magnetoreception, computationally supported by Luo et al.'s 2025 Princeton cryptochrome study) show evolution can exploit quantum effects in warm tissue.
 
 The [[decoherence]] challenge constrains but doesn't eliminate [[brain-interface-boundary|interface locality]]. Each consciousness's local modulation operates via brief, rapid observations within one brain—not sustained global coherence across multiple brains.
 
@@ -176,11 +176,9 @@ This resolution preserves the Map's commitment to consciousness as causally effi
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. Rovelli, C. (1996). Relational quantum mechanics. *International Journal of Theoretical Physics*, 35(8), 1637-1678.
-1. Adlam, E., & Rovelli, C. (2023). Information is physical: Cross-perspective links in relational quantum mechanics. *Philosophy of Physics*, 1(1).
+1. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-1. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
-1. Wigner, E. (1961). Remarks on the mind-body question. In I. J. Good (Ed.), *The Scientist Speculates*.
 1. Stanford Encyclopedia of Philosophy. "Relational Quantum Mechanics." https://plato.stanford.edu/entries/qm-relational/
