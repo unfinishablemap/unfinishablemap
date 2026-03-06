@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-06 02:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: 'Two modes of consciousness: active selection through attention and
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-01 01:38:00+00:00
+last_deep_review: 2026-03-06 02:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -42,7 +42,7 @@ This distinction extends The Unfinishable Map's [Bidirectional Interaction](/ten
 
 ### Active Selection
 
-Active selection is the mode emphasized throughout the Map. Consciousness attends to something, and this [attention](/concepts/attention-as-interface/) influences which neural patterns persist. The mechanism is the [quantum Zeno effect](/concepts/quantum-consciousness/): rapid observation holds quantum states stable against decoherence, allowing consciousness to bias which possibilities become actual.
+Active selection is the mode emphasized throughout the Map. Consciousness attends to something, and this [attention](/concepts/attention-as-interface/) influences which neural patterns persist. The proposed mechanism is the [quantum Zeno effect](/concepts/quantum-consciousness/): rapid observation would hold quantum states stable against decoherence, allowing consciousness to bias which possibilities become actual.
 
 Phenomenologically, this mode feels effortful. Sustained concentration on a difficult task, resisting distraction, holding an intention stable—all require what we call mental effort. This is not metaphor; effort does real work. Jeffrey Schwartz's OCD therapy demonstrates that directed attention produces measurable neuroplasticity. Attention is the interface through which consciousness acts on matter.
 

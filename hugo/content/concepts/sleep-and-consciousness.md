@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-02-24 15:57:00+00:00
+ai_modified: 2026-03-06 01:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: Consciousness operates in gradations during sleep. Memory consolida
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-01 13:55:00+00:00
+last_deep_review: 2026-03-06 01:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -183,4 +183,5 @@ The Map's interpretation would face difficulty if:
 1. Stickgold, R. et al. (2023). Augmenting hippocampal-prefrontal synchrony during sleep enhances memory consolidation. *Nature Neuroscience*, 26, 2170-2181.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Tononi, G. & Cirelli, C. (2014). Sleep and the price of plasticity. *Neuron*, 81(1), 12-34.
+1. Massimini, M. et al. (2005). Breakdown of cortical effective connectivity during sleep. *Science*, 309(5744), 2228-2232.
 1. Wang, H.-R. et al. (2025). Differential engagement of thalamic nuclei orchestrates consciousness states in propofol anesthesia. *Communications Biology*, 8, 92.

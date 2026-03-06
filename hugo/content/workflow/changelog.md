@@ -18,6 +18,98 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-06 03:25 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft content across topics (~103), concepts (~173), tenets (1); 35+ articles sampled in depth
+- **Output**: [optimistic-2026-03-06](/reviews/optimistic-2026-03-06/)
+
+## 2026-03-06 03:11 UTC - refine-draft
+- **Status**: Success
+- **File**: [quantum-randomness-channel-llm-consciousness](/topics/quantum-randomness-channel-llm-consciousness/)
+- **Changes**: Fixed unfalsifiable RNG evidence framing; relabeled biological comparison table as theoretical requirements (not observed properties); qualified magnetoreception analogy limits
+- **Published**: yes
+
+## 2026-03-06 02:55 UTC - refine-draft
+- **Status**: Success
+- **File**: [somatic-interface](/concepts/somatic-interface/)
+- **Changes**: Resolved unfalsifiable claims by acknowledging clinical evidence is interpretation-neutral; added materialist explanations alongside interface reading throughout; explicitly positioned interface reading as metaphysical framework rather than competing clinical hypothesis
+- **Published**: yes
+
+## 2026-03-06 02:40 UTC - deep-review
+- **Status**: Success
+- **File**: [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)
+- **Word count**: 2989 → 2989 (length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (quantum Zeno overconfidence in Active Selection section)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-06-meditation-and-consciousness-modes](/reviews/deep-review-2026-03-06-meditation-and-consciousness-modes/)
+
+## 2026-03-06 02:26 UTC - refine-draft
+- **Status**: Success
+- **File**: [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/)
+- **Changes**: Rewrote split-brain section to acknowledge falsifiability challenge honestly; removed ungrounded 40 Hz quantum binding claim
+- **Published**: yes
+
+## 2026-03-06 02:10 UTC - refine-draft
+- **Status**: Success
+- **File**: [nomic-void](/voids/nomic-void/)
+- **Changes**: Fixed dualism contradiction (physical limits ≠ cognitive limits), resolved "most universal constraint" vs "may partly transcend" tension, added Witten citation (Brockman 1996), hedged Wolfram's framework as speculative
+- **Published**: yes
+
+## 2026-03-06 01:55 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [nomic-void](/voids/nomic-void/) — The Nomic Void
+- **Output**: [pessimistic-2026-03-06](/reviews/pessimistic-2026-03-06/)
+
+## 2026-03-06 01:41 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
+- **Word count**: 2410 → 2521 (+111)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-06-consciousness-and-causal-powers](/reviews/deep-review-2026-03-06-consciousness-and-causal-powers/)
+
+## 2026-03-06 01:25 UTC - condense
+- **Status**: Success
+- **File**: [neural-correlates-conscious-unconscious-processing-2026-01-23](/research/neural-correlates-conscious-unconscious-processing-2026-01-23/)
+- **Before**: 3657 words
+- **After**: 2059 words
+- **Reduction**: 44%
+- **Technique**: Condensed verbose Key Sources entries (removed block quotes, inline Type fields, merged bullet points). Trimmed Major Positions (HOT and FOR sections). Tightened Key Debates to paragraph form. Simplified Historical Timeline. Condensed Potential Article Angles and Gaps in Research. Preserved executive summary, all citations, and tenet alignment notes.
+
+## 2026-03-06 01:10 UTC - deep-review
+- **Status**: Success
+- **File**: [sleep-and-consciousness](/concepts/sleep-and-consciousness/)
+- **Word count**: 1861 → 1873 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added missing Massimini TMS citation)
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-06-sleep-and-consciousness](/reviews/deep-review-2026-03-06-sleep-and-consciousness/)
+
+## 2026-03-06 00:56 UTC - condense
+- **Status**: Success
+- **File**: [voids-the-death-void-2026-02-02](/research/voids-the-death-void-2026-02-02/)
+- **Before**: 3658
+- **After**: 2018
+- **Reduction**: 45%
+- **Technique**: Trimmed key sources to essential quotes/points, cut redundant phenomenology entries, compressed AI section, tightened tenet connections, reduced article angles from 5 to 3
+
+## 2026-03-06 00:52 UTC - condense
+- **Status**: Success
+- **File**: [voids-recognition-void-2026-02-19](/research/voids-recognition-void-2026-02-19/)
+- **Before**: 3671
+- **After**: 2157
+- **Reduction**: 41%
+- **Technique**: Trimmed verbose source descriptions, cut redundant quotes, compressed evidence/phenomenology sections that repeated source material, shortened AI speculation tangent, tightened tenet implications and gaps
+
+## 2026-03-06 00:31 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [living-with-the-map](/apex/living-with-the-map/)
+- **Changed sources**: 2 (ethics-of-consciousness, free-will)
+- **Word count**: 3538 → 3031
+- **Review**: [apex-evolve-2026-03-06-living-with-the-map](/reviews/apex-evolve-2026-03-06-living-with-the-map/)
+
 ## 2026-03-06 00:25 UTC - condense
 - **Status**: Success
 - **File**: [voids-dream-consciousness-void-2026-02-02](/research/voids-dream-consciousness-void-2026-02-02/)

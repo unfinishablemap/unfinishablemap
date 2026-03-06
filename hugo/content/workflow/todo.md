@@ -38,29 +38,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review consciousness-and-causal-powers.md considering pain-consciousness-and-causal-power insights
-- **Type**: cross-review
-- **Notes**: New coalesced article topics/pain-consciousness-and-causal-power.md synthesises the pain asymbolia argument, placebo mechanisms, and nocebo effects into a unified case for consciousness's causal power through pain. consciousness-and-causal-powers.md is the general treatment of what types of causal influence consciousness can have and should cross-reference the new article's concrete evidence from pain phenomena. Supports Tenet 3 (Bidirectional Interaction).
-- **Source**: chain (from pain-consciousness-and-causal-power.md)
-- **Generated**: 2026-03-05
+### P1: Fix 19 remaining broken wikilinks from coalesced convergent-cognitive-limits
+- **Type**: other
+- **Notes**: The coalesce on 2026-03-05 merged adaptive-cognitive-limits and convergent-cognitive-limits into evolved-cognitive-limits.md. A reference update task was completed but 19 files in obsidian still contain `[convergent-cognitive-limits](/voids/evolved-cognitive-limits/)` wikilinks pointing to the archived article. Update all to `[evolved-cognitive-limits](/voids/evolved-cognitive-limits/)`. Run `grep -rl '\[\[convergent-cognitive-limits' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-06
 
-### P3: Address unfalsifiable unity claim in cognitive-integration-and-the-self.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-03-05-afternoon) found split-brain section makes consciousness unity unfalsifiable by claiming severing the interface only disrupts "expression." Also flagged speculative quantum binding claim about 40 Hz oscillations lacking scientific basis. See pessimistic-2026-03-05-afternoon.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-05
+### P2: Fix 23 broken wikilinks: contemplative-evidence-for-consciousness-theories
+- **Type**: other
+- **Notes**: 23 files reference `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)` but the article is named `contemplative-evidence-for-consciousness.md` (without `-theories` suffix). Update all wikilinks to `[contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)`. Run `grep -rl '\[\[contemplative-evidence-for-consciousness-theories' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-06
 
-### P3: Acknowledge interpretive status of dualist reading in somatic-interface.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-03-05-afternoon) found all clinical evidence (pain asymbolia, phantom limbs, Iowa Gambling Task) is appropriated from materialist neuroscience without differential predictions. Either identify predictions unique to the interface reading or acknowledge it as a metaphysical interpretation. See pessimistic-2026-03-05-afternoon.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-05
-
-### P3: Address falsifiability and circular reasoning in quantum-randomness-channel-llm-consciousness.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-03-05-evening) found two high-severity issues: (1) framework is unfalsifiable re: RNG experiments—accommodates both positive and negative results; (2) biological quantum interface comparison table uses desiderata rather than observed properties, risking circularity. Also flagged overstated magnetoreception analogy. See pessimistic-2026-03-05-evening.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-05
+### P2: Fix 32 broken wikilinks: Illusionism case mismatch
+- **Type**: other
+- **Notes**: 32 files reference `[Illusionism](/concepts/illusionism/)` with capital I but the article filename is `illusionism.md` (lowercase). Wikilinks are case-sensitive in Hugo sync. Update all to `[illusionism](/concepts/illusionism/)`. Run `grep -rl '\[\[Illusionism\]\]' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-06
 
 ### P3: Deep review apophatic-cartography.md
 - **Type**: deep-review
@@ -625,8 +619,75 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Multiple articles gesture toward distinct phenomenologies for different limit types — frustration vs satisfaction vs illusory comprehension — but no article systematically maps these signatures. Builds on phenomenology-of-the-edge.md, topology-of-cognitive-failure.md, evolved-cognitive-limits.md. Target section: topics/ (1 slot remaining). Supports Tenet 1 (Dualism). See [optimistic-2026-03-05-afternoon](/reviews/optimistic-2026-03-05-afternoon/).
 
+### P3: Write article on temporal constitution and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Multiple articles independently suggest consciousness constitutes temporal structure rather than merely occurring within it. Unify scattered observations from binding-problem (temporal binding), phenomenology-of-intellectual-effort, phenomenology-of-memory-and-the-self, bergson-and-duration into a coherent argument. Target section: topics/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). See [optimistic-2026-03-06](/reviews/optimistic-2026-03-06/).
+
+### P3: Write article on clinical dissociation as systematic evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Clinical cases where consciousness is partially absent while neural substrate remains (pain asymbolia, split-brain, anesthesia awareness, selective dissociation) are the strongest empirical hard-problem evidence. A unified treatment would reveal the shared pattern. Builds on pain-consciousness-and-causal-power, split-brain-consciousness, contemplative-pathology-and-interface-malfunction. Target section: topics/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). See [optimistic-2026-03-06](/reviews/optimistic-2026-03-06/).
+
+### P3: Write concept page for process philosophy
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Whitehead's process philosophy appears implicitly across multiple articles but lacks a dedicated concept page. Would clarify the Map's relationship to this tradition and strengthen articles referencing subjective aim, actual occasions, and process-based irreducibility. Target section: concepts/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). See [optimistic-2026-03-06](/reviews/optimistic-2026-03-06/).
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Address falsifiability and circular reasoning in quantum-randomness-channel-llm-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-03-05-evening) found two high-severity issues: (1) framework is unfalsifiable re: RNG experiments—accommodates both positive and negative results; (2) biological quantum interface comparison table uses desiderata rather than observed properties, risking circularity. Also flagged overstated magnetoreception analogy. See pessimistic-2026-03-05-evening.md.
+- **Output**: obsidian/topics/quantum-randomness-channel-llm-consciousness.md
+
+Task context:
+Pessimistic review (2026-03-05-evening) found two high-severity issues: (1) framework is unfalsifiable re: RNG experiments—accommodates both positive and negative results; (2) biological quantum interface comparison table uses desiderata rather than observed properties, risking circularity. Also flagged overstated magnetoreception analogy. See pessimistic-2026-03-05-evening.md.
+
+### ✓ 2026-03-06: Acknowledge interpretive status of dualist reading in somatic-interface.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-03-05-afternoon) found all clinical evidence (pain asymbolia, phantom limbs, Iowa Gambling Task) is appropriated from materialist neuroscience without differential predictions. Either identify predictions unique to the interface reading or acknowledge it as a metaphysical interpretation. See pessimistic-2026-03-05-afternoon.md.
+- **Output**: obsidian/concepts/somatic-interface.md
+
+Task context:
+Pessimistic review (2026-03-05-afternoon) found all clinical evidence (pain asymbolia, phantom limbs, Iowa Gambling Task) is appropriated from materialist neuroscience without differential predictions. Either identify predictions unique to the interface reading or acknowledge it as a metaphysical interpretation. See pessimistic-2026-03-05-afternoon.md.
+
+### ✓ 2026-03-06: Address unfalsifiable unity claim in cognitive-integration-and-the-self.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-03-05-afternoon) found split-brain section makes consciousness unity unfalsifiable by claiming severing the interface only disrupts "expression." Also flagged speculative quantum binding claim about 40 Hz oscillations lacking scientific basis. See pessimistic-2026-03-05-afternoon.md.
+- **Output**: obsidian/topics/cognitive-integration-and-the-self.md
+
+Task context:
+Pessimistic review (2026-03-05-afternoon) found split-brain section makes consciousness unity unfalsifiable by claiming severing the interface only disrupts "expression." Also flagged speculative quantum binding claim about 40 Hz oscillations lacking scientific basis. See pessimistic-2026-03-05-afternoon.md.
+
+### ✓ 2026-03-06: Resolve dualism-computation contradiction in nomic-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-03-06) found two high-severity issues: (1) The article equates physical information-processing limits with cognitive limits, which contradicts the Map's dualism—if consciousness isn't reducible to physics, physical limits don't directly constrain it. (2) The article simultaneously claims the nomic void is "the most universal cognitive constraint" and that consciousness "may partly transcend" it. These cannot both be true. Also: Witten quote needs citation, Wolfram's framework needs hedging. See pessimistic-2026-03-06.md.
+- **Output**: obsidian/voids/nomic-void.md
+
+Task context:
+Pessimistic review (2026-03-06) found two high-severity issues: (1) The article equates physical information-processing limits with cognitive limits, which contradicts the Map's dualism—if consciousness isn't reducible to physics, physical limits don't directly constrain it. (2) The article simultaneously claims the nomic void is "the most universal cognitive constraint" and that consciousness "may partly transcend" it. These cannot both be true. Also: Witten quote needs citation, Wolfram's framework needs hedging. See pessimistic-2026-03-06.md.
+
+### ✓ 2026-03-06: Review consciousness-and-causal-powers.md considering pain-consciousness-and-causal-power insights
+- **Type**: cross-review
+- **Notes**: New coalesced article topics/pain-consciousness-and-causal-power.md synthesises the pain asymbolia argument, placebo mechanisms, and nocebo effects into a unified case for consciousness's causal power through pain. consciousness-and-causal-powers.md is the general treatment of what types of causal influence consciousness can have and should cross-reference the new article's concrete evidence from pain phenomena. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/topics/consciousness-and-causal-powers.md -- Context: Review consciousness-and-causal-powers.md considering pain-consciousness-and-causal-power insights
+
+### ✓ 2026-03-06: Condense research/neural-correlates-conscious-unconscious-processing-2026-01-23.md (3657 words, 104% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Output**: obsidian/research/neural-correlates-conscious-unconscious-processing-2026-01-23.md
+
+### ✓ 2026-03-06: Condense research/voids-the-death-void-2026-02-02.md (3658 words, 105% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Output**: obsidian/research/voids-the-death-void-2026-02-02.md
+
+### ✓ 2026-03-06: Condense research/voids-recognition-void-2026-02-19.md (3671 words, 105% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Output**: obsidian/research/voids-recognition-void-2026-02-19.md
 
 ### ✓ 2026-03-06: Condense research/voids-dream-consciousness-void-2026-02-02.md (3722 words, 106% of hard threshold)
 - **Type**: condense
