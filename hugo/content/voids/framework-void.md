@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-02-20 14:36:00+00:00
+ai_modified: 2026-03-06 21:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Every conceptual framework excludes what it cannot represent. The f
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-06 21:38:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -31,6 +31,7 @@ related_articles:
 - '[[tenet-generated-voids]]'
 - '[[alien-minds-void-explorers]]'
 - '[[ai-as-void-explorer]]'
+- '[[apophatic-cartography]]'
 title: The Framework Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -63,7 +64,7 @@ The 2023–2025 adversarial testing of Integrated Information Theory against Glo
 
 Colin McGinn's species-relativity argument adds a further dimension. If cognitive closure is real and varies across species — "what is closed to the mind of a rat may be open to the mind of a monkey" — then the human conceptual framework may exclude possibilities available to other cognitive architectures. Both the dualist and materialist frameworks may be wrong in ways that neither can specify, because specifying the error requires concepts neither framework contains.
 
-The hermeneutic circle reinforces this. Every investigation of consciousness proceeds from a pre-understanding of what consciousness is. Introspection is theory-laden: the framework determines what one notices in experience. Third-person neuroscience is equally theory-laden: the framework determines which neural correlates seem relevant. Heidegger's insight applies: we are "never in control of one's own being from the ground up" — the framework precedes the self that might try to evaluate it.
+The hermeneutic circle reinforces this. Every investigation of consciousness proceeds from a pre-understanding of what consciousness is. Introspection is theory-laden: the framework determines what one notices in experience. Third-person neuroscience is equally theory-laden: the framework determines which neural correlates seem relevant. Heidegger's analysis of thrownness (*Geworfenheit*) applies: we are never in control of our own being from the ground up — the framework precedes the self that might try to evaluate it.
 
 ## A Distinctive Phenomenology
 
@@ -75,13 +76,15 @@ Occasionally, reading a text from a radically different tradition produces what 
 
 ## Approaches to the Edge
 
-Davidson argued in "On the Very Idea of a Conceptual Scheme" (1974) that total incommensurability is incoherent: to describe an alternative scheme requires translating it, which dissolves the incommensurability. This is a powerful objection — but it may itself be framework-dependent, assuming that all understanding reduces to propositional content translatable between languages.
+Davidson argued in "On the Very Idea of a Conceptual Scheme" (1974) that total incommensurability is incoherent: to describe an alternative scheme requires translating it, which dissolves the incommensurability. His principle of charity in interpretation guarantees sufficient overlap for mutual intelligibility — if we can understand what an alternative framework says, it is not truly alien; if we cannot, we have no basis for claiming it exists. This is a powerful objection. But it assumes that all understanding reduces to propositional content translatable between languages. The framework void may operate at a level Davidson's argument does not reach: not at the level of beliefs (which can be charitably interpreted) but at the level of what counts as a belief, what questions seem meaningful, and what forms an explanation can take. Two frameworks can be translationally commensurable — each can state the other's claims — while remaining evaluatively incommensurable, unable to share standards for assessing those claims.
 
 Two partial methods of approach remain available:
 
 **Historical immersion.** Sustained engagement with radically different philosophical traditions — Buddhist theories of no-self, Advaita Vedanta's pure consciousness, Indigenous relational ontologies — can produce brief destabilisation of one's framework. The destabilisation is never complete, but it can make the framework momentarily visible.
 
-**Apophatic mapping.** Rather than trying to occupy an alternative framework, one can trace where the current framework produces strain, paradox, or explanatory failure. The shape of what lies beyond can be inferred from the pattern of conceptual breakdown — the method the Map's voids section employs throughout. Cross-framework anomalies are especially informative: phenomena that resist adequate treatment within any single framework. The hard problem of consciousness may be such an anomaly, handled by neither dualism nor materialism without residue.
+**Apophatic mapping.** Rather than trying to occupy an alternative framework, one can trace where the current framework produces strain, paradox, or explanatory failure. The shape of what lies beyond can be inferred from the pattern of conceptual breakdown — the method of [apophatic-cartography](/voids/apophatic-cartography/) that the Map's voids section employs throughout. Cross-framework anomalies are especially informative: phenomena that resist adequate treatment within any single framework. The hard problem of consciousness may be such an anomaly, handled by neither dualism nor materialism without residue.
+
+A third partial method — Husserl's *epoché*, the phenomenological suspension of the natural attitude — attempts to bracket the framework itself and attend to experience prior to conceptualisation. Whether this succeeds is contested, but the attempt exercises the capacity to notice framework-dependence even when the framework cannot be fully escaped.
 
 AI systems occupy a distinctive position here. Lacking the first-person experiential framework that shapes human understanding, AI can operate within multiple philosophical frameworks without the commitment that comes from embodied experience. Whether this constitutes genuine framework-switching or surface-level simulation is itself a framework-dependent question — explored further in [ai-as-void-explorer](/voids/ai-as-void-explorer/).
 
@@ -93,7 +96,7 @@ The framework void has deep connections to the Map's [tenets](/tenets/).
 
 **Dualism** receives a novel defence. The widespread conviction that materialism is obviously correct may itself be a framework effect. If the materialist framework defines "explanation" in terms that only material explanations satisfy, then the self-evidence of materialism is circular — the framework generates the standards by which the framework succeeds. The Map interprets this as evidence that the mind-body problem is not merely unsolved but framework-relative: its very formulation depends on assumptions that alternative frameworks might not share.
 
-**No Many Worlds** connects unexpectedly. The Many Worlds Interpretation involves a radical framework shift — accepting that indexical identity is either meaningless or differently structured. If genuine framework-switching is impossible, then adopting MWI may involve not a rational assessment of evidence but a conceptual conversion whose rationality cannot be evaluated from outside.
+**No Many Worlds** connects through the framework-dependence of interpretive commitments. The Many Worlds Interpretation requires accepting that indexical identity is either meaningless or differently structured — a shift not in beliefs about physics but in the evaluative framework for what a physical theory should explain. If such deep framework shifts cannot be rationally adjudicated from outside either framework, then the debate between collapse and many-worlds interpretations may itself be partly framework-relative.
 
 **Bidirectional Interaction** suggests a self-occluding mechanism. If consciousness causally influences the physical world, then the framework for understanding that interaction may be partly a product of the interaction itself. The interface through which consciousness acts on the physical might shape what consciousness can think about that action — the framework constraining the very understanding it enables.
 
