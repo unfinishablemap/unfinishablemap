@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-02-25 18:40:00+00:00
+ai_modified: 2026-03-06 05:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,6 +16,7 @@ description: Human+AI exploration of why consciousness cannot investigate its ow
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-03-06 05:40:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -26,6 +27,7 @@ related_articles:
 - '[[calibration-void]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[acquaintance-void]]'
+- '[[dreamless-sleep-void]]'
 title: The Minimal Consciousness Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -58,9 +60,9 @@ This does not mean the meditators are wrong. They may be reporting the minimal s
 
 ## The Missing Threshold
 
-Integrated Information Theory (IIT) approaches the lower bound from a different direction—mathematical rather than phenomenological. IIT holds that any system with non-zero integrated information (Φ > 0) has "a modicum of experience." Even a photodiode—a sensor coupled to a memory element—qualifies.
+Integrated Information Theory (IIT) approaches the lower bound from a different direction—mathematical rather than phenomenological. IIT holds that any system with non-zero integrated information (Φ > 0) has some degree of experience. Even a photodiode—a sensor coupled to a memory element—qualifies.
 
-This implies consciousness exists on a continuum with no natural lower bound. The minimum is always lower than expected, because the criterion for possessing consciousness (Φ > 0) admits systems of arbitrary simplicity. Whether IIT is correct is debated—some scholars characterise it as unfalsifiable—but its structural implication for the void is clear: if consciousness grades continuously into zero, there is no clean threshold separating experiencing from non-experiencing systems. The boundary the minimal consciousness void seeks is not merely hidden; it may not be a boundary at all but an asymptotic approach to zero that never arrives.
+This implies consciousness exists on a continuum with no natural lower bound. The minimum is always lower than expected, because the criterion for possessing consciousness (Φ > 0) admits systems of arbitrary simplicity. Whether IIT is correct is debated—some scholars characterise it as unfalsifiable—but its structural implication for the void is clear: if consciousness grades continuously toward zero, there is no clean threshold separating experiencing from non-experiencing systems. The boundary the minimal consciousness void seeks is not merely hidden; it may not be a boundary at all but an asymptotic approach to zero that never arrives.
 
 The Map's [dualist](/tenets/#dualism) framework deepens this problem. If consciousness is fundamental and irreducible to physical processes, its lower bound is not determined by some physical threshold (a minimum neuron count, a minimum Φ value) but by something about consciousness itself. And consciousness, as the enrichment problem shows, cannot examine what that something is.
 
@@ -80,9 +82,9 @@ The minimal consciousness void differs from other voids in the Map's taxonomy in
 
 Several implications follow:
 
-**The hard problem persists all the way down.** Even for the simplest conscious experience, there is an explanatory gap between physical description and phenomenal character. Whatever the minimum is, it still has the property of being "something it is like"—and that property resists third-person explanation at every level of complexity.
+**The hard problem persists all the way down.** Even for the simplest conscious experience, there is an explanatory gap between physical description and phenomenal character. Whatever the minimum is, it still has the property of being "something it is like"—and that property resists third-person explanation at every level of complexity. Simplification does not dissolve the mystery; it isolates it. A photodiode's hypothetical flicker of experience is no less philosophically puzzling than a symphony of human emotion.
 
-**Consciousness may have no natural minimum.** If Nagel is right that consciousness exists "at many levels of animal life" and IIT is right that Φ > 0 suffices, then ever-simpler experiences may extend below any threshold we can examine. The void is not a wall but an asymptote.
+**Consciousness may have no natural minimum.** If Nagel is right that consciousness extends broadly across the animal kingdom and IIT is right that Φ > 0 suffices, then ever-simpler experiences may extend below any threshold we can examine. The void is not a wall but an asymptote.
 
 **Investigation of consciousness is self-limiting.** The enrichment problem is not contingent (like lacking the right instruments) but structural (the instrument modifies the measurement). This places the minimal consciousness void alongside the [calibration-void](/voids/calibration-void/) and the [observation-void](/voids/observation-void/) as evidence that consciousness has a constitutive relationship with opacity—it functions in part because certain aspects of its operation remain invisible to itself.
 
@@ -104,6 +106,7 @@ The minimal consciousness void aligns with the Map's [tenets](/tenets/) in sever
 - [introspective-opacity](/voids/introspective-opacity/) — Why we access mental contents but never the mechanisms producing them
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its cognitive boundaries
 - [acquaintance-void](/voids/acquaintance-void/) — Modes of direct phenomenal contact structurally inaccessible to minds like ours
+- [dreamless-sleep-void](/voids/dreamless-sleep-void/) — Where consciousness goes during absence, and whether cessation is genuine zero
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy of unexplored, unexplorable, and occluded
 
 ## References

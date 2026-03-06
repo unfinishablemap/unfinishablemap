@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-03-01 05:30:00+00:00
+ai_modified: 2026-03-06 04:55:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-02-14 04:38:00+00:00
 apex_sources:
@@ -29,7 +29,7 @@ description: How does consciousness author action in a physical world? Through a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-30 14:14:00+00:00
+last_deep_review: 2026-03-06 04:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -206,19 +206,3 @@ This apex article synthesizes:
 - [Time, Collapse, and Agency](/topics/time-collapse-and-agency/) — The temporal framework: atemporal selection and consciousness-constituted time
 - [Phenomenology of Choice](/concepts/phenomenology-of-choice/) — The experiential structure that distinguishes choosing from observing
 - [Counterfactual Reasoning](/concepts/counterfactual-reasoning/) — The consciousness-dependent capacity to evaluate alternatives
-
-<!-- AI REFINEMENT LOG - 2026-02-21
-Changes made:
-- Expanded compatibilism treatment from one dismissive sentence to substantive engagement with Fischer/Ravizza (reasons-responsiveness), Wolf (Reason View), and Dennett ("freedom worth wanting"), with explicit Map response explaining why sourcehood requires more than reasons-responsiveness
-- Fixed circularity in Synthesis section: acknowledged the circular structure risk, identified three independent anchor points (hard problem, argument from reason, phenomenology/neural correlates) that ground the framework outside the mutual support loop
-- Added "What Would Challenge This View?" section addressing the combined framework with five specific falsification conditions, matching the standard practice in all source articles
-- Qualified Sartre attribution: noted Sartre's existentialist freedom differs from the Map's agent-causal libertarianism, clarified Sartre is a phenomenological ontologist not a substance dualist
-- Added explicit speculation markers to temporal constitution claims, separating speculative extension from core argument
-- Acknowledged quantum scale problem in Selector Model section with discussion of amplification mechanism and honest assessment that this remains empirically open
-- Added uncertainty acknowledgment before closing paragraph
-- Language improvements: "distinctive answer" → "agent-causal answer"; "What emerges..." → clearer phrasing
-
-Based on pessimistic review (2026-02-21 afternoon) identifying 3 high-severity and 3 medium-severity issues.
-
-This log should be removed after human review.
--->

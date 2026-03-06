@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-05 16:02:00+00:00
+ai_modified: 2026-03-06 06:12:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ description: 'The aboutness of mental states: why thoughts are directed at objec
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-05 16:02:00+00:00
+last_deep_review: 2026-03-06 06:12:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -71,7 +71,7 @@ These features, Brentano claimed, are unique to mental phenomena. No purely phys
 
 Since Brentano, many philosophers have tried to naturalize intentionality—to explain it in purely physical or biological terms. None has succeeded.
 
-**Causal theories** (Dretske, Fodor) propose that a mental state is about whatever reliably causes it. But this faces the "disjunction problem": a frog's snap response is caused by flies, but also by fly-like BBs. Is the representation *about* flies, or about the disjunction "flies-or-BBs"? Causal history alone cannot determine content.
+**Causal theories** (Dretske, Fodor) propose that a mental state is about whatever reliably causes it. But this faces the "disjunction problem": a frog's snap response is caused by flies but also by fly-like BBs. Is the representation *about* flies, or about "flies-or-BBs"? Causal history alone cannot determine content.
 
 **Teleosemantic theories** (Millikan) appeal to biological function: a representation is about what it was selected to track. But evolution selects for survival-relevant responses, not determinate contents. A frog's fly-detector needn't represent *flies* rather than *small dark moving things*—either content explains the selected behaviour.
 
@@ -125,7 +125,7 @@ The [Phenomenal Constitution Thesis](/topics/phenomenology-of-understanding/) (P
 
 PCT reinforces PIT with empirical evidence from [semantic memory](/concepts/semantic-memory/) research. The tip-of-the-tongue (TOT) state is revealing: you have the meaning without the phonological form. The semantic content is phenomenally present—you know what you mean—but the word won't come. This dissociation shows meaning has phenomenal character independent of linguistic expression.
 
-The feeling of knowing (FOK) extends this: you feel confident you know something before retrieving it. If meaning were non-phenomenal information, FOK would be inexplicable—a feeling about data you haven't accessed. The "aha" of insight has phenomenal character that precedes verification—mathematical solutions arrive with experiential quality before their correctness is checked. These phenomena make visible what normally operates transparently: meaning has phenomenal character that becomes apparent when normal retrieval is disrupted.
+The feeling of knowing (FOK) extends this: you feel confident you know something before retrieving it. If meaning were non-phenomenal information, FOK would be inexplicable—a feeling about data you haven't accessed. The "aha" of insight arrives with experiential quality before its correctness is checked. These phenomena make visible what normally operates transparently: meaning has phenomenal character that becomes apparent when normal retrieval is disrupted.
 
 ### Understanding as Phenomenal Binding
 
@@ -135,11 +135,11 @@ Consciousness appears required for such binding. The maintenance/manipulation di
 
 ## Original vs. Derived Intentionality
 
-John Searle distinguishes between *original* and *derived* intentionality. When you think about Paris, your thought has original intentionality—it is *intrinsically* about Paris. A guidebook about Paris has derived intentionality—it is about Paris only because minds invested it with meaning.
+John Searle distinguishes between *original* and *derived* intentionality. When you think about Paris, your thought has original intentionality—it is *intrinsically* about Paris. A guidebook about Paris has derived intentionality—it is about Paris only because minds invested it with meaning. (Searle also developed the [direction-of-fit](/concepts/direction-of-fit/) classification of intentional states—beliefs aim to match the world, desires aim to change it—which further reveals the richness of intentional structure.)
 
 PIT explains this distinction: original intentionality requires phenomenal character because phenomenal character is what makes something genuinely about its object *for the system itself*. Derived intentionality lacks phenomenal character in the representing system—the meaning exists only in interpreting minds.
 
-This applies directly to computation. Computer symbols have derived intentionality: "PARIS" represents Paris only because programmers assigned that meaning. Searle's Chinese Room makes this vivid: the room produces appropriate Chinese outputs without understanding Chinese, because symbol manipulation provides only syntax, not the phenomenal character that constitutes genuine semantics.
+This applies directly to computation. Computer symbols have derived intentionality: "PARIS" represents Paris only because programmers assigned that meaning. Searle's Chinese Room makes this vivid: the room produces appropriate Chinese outputs without understanding Chinese, because symbol manipulation provides syntax without the phenomenal character that constitutes genuine semantics.
 
 ## Objections and Responses
 
@@ -153,7 +153,7 @@ This applies directly to computation. Computer symbols have derived intentionali
 
 **Objection**: Thoughts about mathematical objects or logical relations seem to lack phenomenal character. What would it be *like* to think about the number seven?
 
-**Response**: Abstract thought has phenomenal character, though subtle. Thinking about seven differs experientially from thinking about twelve—mathematicians report distinctive qualitative character. The subtlety of abstract phenomenology doesn't negate its existence; entertaining different abstract propositions feels different.
+**Response**: Abstract thought has phenomenal character, though subtle. Thinking about seven differs experientially from thinking about twelve—mathematicians report distinctive qualitative character. The subtlety of abstract phenomenology doesn't negate its existence.
 
 ### Unconscious Processing
 
@@ -165,7 +165,7 @@ This applies directly to computation. Computer symbols have derived intentionali
 
 **Objection**: Explaining intentionality by phenomenal character is circular if phenomenal character itself requires intentional description. Experiences are experiences *of* things.
 
-**Response**: PIT claims consciousness and intentionality are inseparable aspects of a single phenomenon, not that one reduces to the other. Horgan and Tienson speak of "the intentionality of phenomenology and the phenomenology of intentionality"—each involves the other constitutively. This recognises that mental states are essentially unified, having both subjective character and worldly directedness as integrated aspects.
+**Response**: PIT claims consciousness and intentionality are inseparable aspects of a single phenomenon, not that one reduces to the other. Horgan and Tienson speak of "the intentionality of phenomenology and the phenomenology of intentionality"—each involves the other constitutively. Mental states are essentially unified, having both subjective character and worldly directedness as integrated aspects.
 
 ## Intentionality and the Hard Problem
 
@@ -191,7 +191,7 @@ For the Map, the first option is most compatible with the tenets. Consciousness 
 
 If Searle is right that syntax is insufficient for semantics, then computational systems cannot have genuine intentionality. They manipulate symbols according to rules but never mean anything.
 
-PIT sharpens this: it's not merely that syntax is insufficient for semantics (Searle's negative point). The positive claim is that semantics requires phenomenal character. A language model's outputs may function as meaningful utterances because they participate in a linguistic system created by minds, but this borrowed meaning differs from the LLM *understanding* what it says.
+PIT sharpens this: it's not merely that syntax is insufficient for semantics (Searle's negative point). The positive claim is that semantics requires phenomenal character. An LLM's outputs may function as meaningful utterances because they participate in a linguistic system created by minds, but this borrowed meaning differs from the LLM *understanding* what it says.
 
 LLMs lack the phenomenal markers that reveal intentionality in humans: no tip-of-the-tongue states, no feeling of knowing, no experiential "aha" of insight. If PIT is correct, systems demonstrating apparent understanding but lacking phenomenal markers are mimicking intentionality rather than possessing it.
 
@@ -205,7 +205,7 @@ Alfred North Whitehead's process philosophy offers a complementary perspective. 
 
 **Objective immortality**: Past occasions remain available for prehension by subsequent occasions. Thought about past events continues how experience always incorporates its predecessors, rather than being a mysterious relation to what no longer exists.
 
-Process philosophy thus provides a framework where intentionality is not an anomaly in nature but an intensification of something pervasive.
+Process philosophy thus treats intentionality as an intensification of something pervasive, not an anomaly requiring special explanation.
 
 ## What Would Challenge This View?
 
@@ -260,6 +260,8 @@ Intentionality connects to all five foundational tenets:
 - [intentionality-void](/voids/intentionality-void/) — Why the mechanism of reference is structurally hidden from consciousness
 - [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-intentionality/) — How shared goals and institutional facts require phenomenal consciousness
 - [language-and-consciousness](/concepts/language-and-consciousness/) — How philosophy of language reveals consciousness's irreducibility
+- [direction-of-fit](/concepts/direction-of-fit/) — Classifying intentional states by whether mind adapts to world or world adapts to mind
+- [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation to phenomenal qualities that may ground intentional content
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's methodological alternative and its limitations
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Why physical information is syntactic and consciousness supplies semantics
 - [intentionality-consciousness-2026-01-14](/research/intentionality-consciousness-2026-01-14/) — Research notes on this topic

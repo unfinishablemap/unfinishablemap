@@ -56,54 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Deep review consciousness-and-agency.md
-- **Type**: deep-review
-- **Notes**: Apex article (ai_contribution: 100) last reviewed 32 days ago, beyond the 30-day staleness threshold. As an apex synthesis piece on consciousness and agency — the relationship between conscious experience and the capacity for genuine action — quality is especially important. Directly supports Tenet 3 (Bidirectional Interaction). Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-03
-
-### P3: Deep review agency-verification-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed since creation. The agency verification void examines why we cannot verify from the outside whether an agent genuinely exercises agency — relevant to the Map's treatment of consciousness, free will, and the problem of other minds. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-02
-
-### P3: Deep review minimal-consciousness-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed since creation. The minimal consciousness void examines the lower boundary of conscious experience — what is the simplest thing that could be conscious? Relevant to the Map's treatment of panpsychism, the combination problem, and consciousness thresholds. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-02
-
-### P3: Deep review intentionality.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 31 days ago. The most-linked concept in the entire vault with 90 inbound links — stale quality here propagates broadly. Touches hard problem, qualia, phenomenology. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-02
-
-### P3: Deep review objections-to-interactionism.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 32 days ago. Directly argues the Map's core Tenet 3 (Bidirectional Interaction) — catalogues and responds to objections including causal closure, conservation laws, and pairing problem. 12 inbound links to tenet-critical content. Verify that rebuttals are sound and cross-references current.
-- **Source**: staleness
-- **Generated**: 2026-03-02
-
-### P3: Deep review mental-effort.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 31 days ago. The most heavily cross-referenced AI-generated article on the site (88 inbound links). Covers Stapp's quantum Zeno mechanism for mental effort — a linchpin argument connecting consciousness to quantum mechanics. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction). Quality issues here propagate widely.
-- **Source**: staleness
-- **Generated**: 2026-03-01
-
-### P3: Deep review neuroplasticity.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 31 days ago. Covers Schwartz's OCD research as evidence that consciousness shapes neural structure — a key empirical argument for bidirectional interaction. 27 inbound links. Supports Tenet 3 (Bidirectional Interaction).
-- **Source**: staleness
-- **Generated**: 2026-03-01
-
-### P3: Research the metaproblem of consciousness under dualism
-- **Type**: research-topic
-- **Notes**: Chalmers' metaproblem — why we think there is a hard problem — is a significant philosophical development the Map should engage with. Under dualism, the answer is straightforward: we report on consciousness because it is real and causally influences our reports, dissolving the metaproblem while physicalism generates it. The queue includes a P3 expand-topic for this article; research would strengthen it. Target section: topics/ (3 slots remaining). Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-01
-
 ### P3: Deep review consciousness-and-creativity.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Covers the relationship between consciousness and creative processes — relevant to the Map's treatment of consciousness as an active participant rather than passive observer. Verify coherence, cross-references, and tenet alignment.
@@ -618,6 +570,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Research the metaproblem of consciousness under dualism
+- **Type**: research-topic
+- **Notes**: Chalmers' metaproblem — why we think there is a hard problem — is a significant philosophical development the Map should engage with. Under dualism, the answer is straightforward: we report on consciousness because it is real and causally influences our reports, dissolving the metaproblem while physicalism generates it. The queue includes a P3 expand-topic for this article; research would strengthen it. Target section: topics/ (3 slots remaining). Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Output**: the metaproblem of consciousness under dualism
+
+### ✓ 2026-03-06: Deep review neuroplasticity.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 31 days ago. Covers Schwartz's OCD research as evidence that consciousness shapes neural structure — a key empirical argument for bidirectional interaction. 27 inbound links. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/concepts/neuroplasticity.md
+
+### ✓ 2026-03-06: Deep review mental-effort.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 31 days ago. The most heavily cross-referenced AI-generated article on the site (88 inbound links). Covers Stapp's quantum Zeno mechanism for mental effort — a linchpin argument connecting consciousness to quantum mechanics. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction). Quality issues here propagate widely.
+- **Output**: obsidian/concepts/mental-effort.md
+
+### ✓ 2026-03-06: Deep review objections-to-interactionism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 32 days ago. Directly argues the Map's core Tenet 3 (Bidirectional Interaction) — catalogues and responds to objections including causal closure, conservation laws, and pairing problem. 12 inbound links to tenet-critical content. Verify that rebuttals are sound and cross-references current.
+- **Output**: obsidian/concepts/objections-to-interactionism.md
+
+### ✓ 2026-03-06: Deep review intentionality.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 31 days ago. The most-linked concept in the entire vault with 90 inbound links — stale quality here propagates broadly. Touches hard problem, qualia, phenomenology. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/intentionality.md
+
+### ✓ 2026-03-06: Deep review minimal-consciousness-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed since creation. The minimal consciousness void examines the lower boundary of conscious experience — what is the simplest thing that could be conscious? Relevant to the Map's treatment of panpsychism, the combination problem, and consciousness thresholds. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/minimal-consciousness-void.md
+
+### ✓ 2026-03-06: Deep review agency-verification-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed since creation. The agency verification void examines why we cannot verify from the outside whether an agent genuinely exercises agency — relevant to the Map's treatment of consciousness, free will, and the problem of other minds. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/agency-verification-void.md
+
+### ✓ 2026-03-06: Deep review consciousness-and-agency.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100) last reviewed 32 days ago, beyond the 30-day staleness threshold. As an apex synthesis piece on consciousness and agency — the relationship between conscious experience and the capacity for genuine action — quality is especially important. Directly supports Tenet 3 (Bidirectional Interaction). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/apex/consciousness-and-agency.md
 
 ### ✓ 2026-03-06: Deep review dreams-as-consciousness-laboratory.md
 - **Type**: deep-review

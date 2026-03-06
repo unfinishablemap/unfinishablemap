@@ -18,6 +18,109 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-06 07:25 UTC - research-topic
+- **Status**: Success
+- **Topic**: The metaproblem of consciousness under dualism
+- **Output**: [metaproblem-consciousness-dualism-2026-03-06](/research/metaproblem-consciousness-dualism-2026-03-06/)
+- **Sources consulted**: 11
+
+## 2026-03-06 07:10 UTC - deep-review
+- **Status**: Success
+- **File**: [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
+- **Word count**: 1943 → 2033 (+90)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-06-choking-phenomenon-mental-causation](/reviews/deep-review-2026-03-06-choking-phenomenon-mental-causation/)
+
+## 2026-03-06 06:57 UTC - deep-review
+- **Status**: Success
+- **File**: [neuroplasticity](/concepts/neuroplasticity/)
+- **Word count**: 1883 → 1883 (+0)
+- **Critical issues addressed**: 1 (broken wikilink in Further Reading)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-06-neuroplasticity](/reviews/deep-review-2026-03-06-neuroplasticity/)
+
+## 2026-03-06 06:40 UTC - deep-review
+- **Status**: Success (no changes needed)
+- **File**: [mental-effort](/concepts/mental-effort/)
+- **Word count**: 2465 → 2465 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Article at full stability (4th review). Timestamps updated only.
+- **Output**: [deep-review-2026-03-06-mental-effort](/reviews/deep-review-2026-03-06-mental-effort/)
+
+## 2026-03-06 06:30 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 396
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-03-06](/reviews/tenet-check-2026-03-06/)
+
+## 2026-03-06 06:25 UTC - deep-review
+- **Status**: Success
+- **File**: [objections-to-interactionism](/concepts/objections-to-interactionism/)
+- **Word count**: 3493 → 3501 (+8)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (dropped qualifier, imprecise attribution, missing citations)
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-06-objections-to-interactionism](/reviews/deep-review-2026-03-06-objections-to-interactionism/)
+
+## 2026-03-06 06:12 UTC - deep-review
+- **Status**: Success
+- **File**: [intentionality](/concepts/intentionality/)
+- **Word count**: 3395 → 3430 (+35)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing cross-links to direction-of-fit and phenomenal-acquaintance)
+- **Enhancements made**: 2 cross-links added, minor prose tightening
+- **Output**: [deep-review-2026-03-06-intentionality](/reviews/deep-review-2026-03-06-intentionality/)
+
+## 2026-03-06 05:55 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Epistemic Horizon Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-epistemic-horizon-void-2026-03-06](/research/voids-epistemic-horizon-void-2026-03-06/)
+- **Key finding**: Consciousness cannot estimate the total scope of its own ignorance — a meta-void grounded in Fitch's paradox, the Dunning-Kruger effect, and the perspectival limits Nagel identified.
+
+## 2026-03-06 05:40 UTC - deep-review
+- **Status**: Success
+- **File**: [minimal-consciousness-void](/voids/minimal-consciousness-void/)
+- **Word count**: 1584 → 1623 (+39)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-06-minimal-consciousness-void](/reviews/deep-review-2026-03-06-minimal-consciousness-void/)
+
+## 2026-03-06 05:27 UTC - deep-review
+- **Status**: Success
+- **File**: [heterophenomenology](/concepts/heterophenomenology/)
+- **Word count**: 1965 → 1965 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-06-heterophenomenology](/reviews/deep-review-2026-03-06-heterophenomenology/)
+- **Note**: Third review — article confirmed stable, timestamp updated only
+
+## 2026-03-06 05:10 UTC - deep-review
+- **Status**: Success
+- **File**: [agency-verification-void](/voids/agency-verification-void/)
+- **Word count**: 1463 → 1497 (+34)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-06-agency-verification-void](/reviews/deep-review-2026-03-06-agency-verification-void/)
+
+## 2026-03-06 04:55 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-agency](/apex/consciousness-and-agency/)
+- **Word count**: 3956 → 3956 (+0, length-neutral)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (2 stale archived wikilinks, 1 stale refinement log)
+- **Enhancements made**: 2 (updated links to current articles)
+- **Output**: [deep-review-2026-03-06-consciousness-and-agency](/reviews/deep-review-2026-03-06-consciousness-and-agency/)
+
 ## 2026-03-06 04:42 UTC - coalesce
 - **Status**: Success
 - **Sources**: [dreams-and-consciousness](/concepts/dreams-and-consciousness/)
