@@ -4,7 +4,7 @@ description: "QBism interprets quantum states as subjective beliefs, not objecti
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-03-01T20:52:00+00:00
+ai_modified: 2026-03-06T09:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,12 +21,12 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-28
 last_curated: null
-last_deep_review: 2026-03-01T20:52:00+00:00
+last_deep_review: 2026-03-06T09:40:00+00:00
 ---
 
 QBism (Quantum Bayesianism) is an interpretation of quantum mechanics that treats quantum states as representing an agent's subjective beliefs rather than objective features of reality. Developed primarily by Christopher Fuchs, Carlton Caves, and Rüdiger Schack, QBism dissolves the [[measurement-problem]] by denying there was ever an objective wave function to collapse. "Collapse" is simply belief-updating—the agent learns something and revises their expectations.
 
-Fuchs explicitly positioned QBism as completing Wheeler's [[the-participatory-universe|participatory universe]] program, coining the term "participatory realism" in 2017 to mark the connection.
+Fuchs explicitly positioned QBism as furthering Wheeler's [[the-participatory-universe|participatory universe]] program, coining the term "participatory realism" in 2017 to mark the connection.
 
 For The Unfinishable Map, QBism presents a paradox: it makes agents epistemically central to quantum mechanics yet provides no account of what agents *are*. QBism presupposes that agents have determinate experiences to form beliefs about, treating the source of such experience as given rather than explained. The Map holds that this is precisely what requires explanation.
 
@@ -52,7 +52,7 @@ This dissolution is elegant but comes at a cost. QBism explains why we *describe
 
 QBism's deepest tension concerns its central concept: the agent.
 
-**What is an agent?** QBism requires agents to hold beliefs, make predictions, and experience measurement outcomes. These beliefs must cohere into a unified perspective—what philosophers call [[unity-of-consciousness|phenomenal unity]]—yet QBism provides no account of what makes something an agent rather than a mere physical system. Fuchs explicitly declines to define agency in physical terms, treating it as primitive—arguing that agents are "the most basic category" irreducible to anything more fundamental (Fuchs 2017).
+**What is an agent?** QBism requires agents to hold beliefs, make predictions, and experience measurement outcomes. These beliefs must cohere into a unified perspective—what philosophers call [[unity-of-consciousness|phenomenal unity]]—yet QBism provides no account of what makes something an agent rather than a mere physical system. Fuchs explicitly declines to define agency in physical terms, treating it as primitive—holding that agents are a basic category not reducible to anything more fundamental (Fuchs 2017).
 
 **The experience presupposition.** For an agent to update beliefs upon measurement, they must have determinate experiences—they must *find* something, not merely exist in correlation with outcomes. QBism takes for granted exactly what the [[hard-problem-of-consciousness]] asks us to explain: why there is something it is like to be an agent at all.
 
@@ -62,7 +62,7 @@ QBism's deepest tension concerns its central concept: the agent.
 
 ### Versus Copenhagen
 
-Copenhagen also treats measurement pragmatically but retains some commitment to objective quantum states and leaves the measurement boundary undefined. QBism is more radical: there is no objective state, and "measurement" is just whatever an agent calls measurement.
+Copenhagen also treats measurement pragmatically but retains a dual ontology: quantum states are objective mathematical objects, yet their connection to reality requires an undefined "measurement" event performed by a classical apparatus. QBism dissolves this duality—there is no objective state, and "measurement" is just whatever an agent calls measurement. Where Copenhagen awkwardly straddles the subjective-objective divide, QBism commits fully to the subjective side.
 
 ### Versus Relational Quantum Mechanics
 
@@ -82,9 +82,9 @@ Consciousness-collapse interpretations posit that conscious observation causes w
 
 A challenge for QBism: if quantum states are purely subjective, why do different agents converge on the same statistical predictions? When Alice and Bob both measure many identically-prepared electrons, they find the same frequencies. How can purely subjective beliefs explain this intersubjective agreement?
 
-QBism responds that agents share a world and are subject to similar experiences. Agreement emerges from shared reality constraining beliefs, not from beliefs tracking an objective wave function. The world teaches agents what to expect, even if their expectations aren't descriptions of the world itself.
+QBism responds that agents share a world and are subject to similar experiences. Agreement emerges from shared reality constraining beliefs, not from beliefs tracking an objective wave function. The world teaches agents what to expect, even if their expectations aren't descriptions of the world itself. More technically, QBism appeals to Dutch-book coherence: rational agents whose beliefs satisfy certain consistency constraints (formalized by de Finetti) will converge on Born-rule statistics as they accumulate experience, regardless of their starting priors (Caves, Fuchs, & Schack 2002).
 
-Critics find this insufficient. If the world constrains beliefs so reliably that all agents converge on Born statistics, something objective seems to be doing the constraining. QBism's response—that this "something" is the world itself, not the wave function—may seem like distinction without difference.
+Critics find this insufficient. Dutch-book arguments show that *rational* agents must be *consistent*, but they don't explain why the world cooperates—why experience reliably confirms Born statistics rather than some other pattern. If the world constrains beliefs so reliably that all agents converge, something objective seems to be doing the constraining. QBism's response—that this "something" is the world itself, not the wave function—may seem like distinction without difference.
 
 ## The First-Person Gap
 
