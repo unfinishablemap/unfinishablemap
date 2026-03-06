@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-06 01:25 UTC - condense
+- **Status**: Success
+- **File**: [[research/neural-correlates-conscious-unconscious-processing-2026-01-23]]
+- **Before**: 3657 words
+- **After**: 2059 words
+- **Reduction**: 44%
+- **Technique**: Condensed verbose Key Sources entries (removed block quotes, inline Type fields, merged bullet points). Trimmed Major Positions (HOT and FOR sections). Tightened Key Debates to paragraph form. Simplified Historical Timeline. Condensed Potential Article Angles and Gaps in Research. Preserved executive summary, all citations, and tenet alignment notes.
+
 ## 2026-03-06 01:10 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/sleep-and-consciousness]]
