@@ -275,7 +275,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - topics/cross-cultural-phenomenology-of-agency
 - concepts/mental-effort
 - concepts/phenomenology-of-choice
-- voids/volitional-opacity
+- voids/introspective-opacity
 - concepts/attention-as-interface
 
 **Status**: Created 2026-02-23

@@ -24,7 +24,7 @@ concepts:
 related_articles:
   - "[[consciousness-and-causal-powers]]"
   - "[[time-collapse-and-agency]]"
-  - "[[volitional-opacity]]"
+  - "[[introspective-opacity|volitional opacity]]"
   - "[[evolutionary-case-for-mental-causation]]"
   - "[[pain-consciousness-and-causal-power]]"
   - "[[spontaneous-intentional-action]]"
@@ -74,7 +74,7 @@ One revealing feature of duress is what it teaches about consciousness's *veto* 
 
 From the Map's perspective, these acts of resistance are among the strongest evidence for [[bidirectional-interaction]]. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]], the decision to resist torture would be determined entirely by prior physical states—neural architecture, hormone levels, learned patterns. The subjective experience of choosing to resist would be causally inert. The variation in responses to similar duress conditions is striking: individuals with comparable training, personality profiles, and neural architecture sometimes respond differently under pressure. Resilience research has identified contributing factors—trait conscientiousness, prefrontal-amygdala connectivity, prior conditioning—but these predictors leave substantial residual variance (Morgan et al., 2004). The Map reads this residual as evidence that [[concepts/consciousness-selecting-neural-patterns|consciousness is performing genuine selection]] among the options that physical conditions leave open.
 
-The veto under duress also illuminates [[volitional-opacity]]. Accounts from prisoners of war and survivors of extreme coercion suggest a recurring pattern: agents describe knowing they chose to resist but being unable to explain the mechanism connecting their commitment to their endurance (Stockdale, 1984). The connection remains introspectively opaque. This opacity is consistent with the Map's account of quantum-level interaction: the interface between consciousness and brain operates below the threshold of introspective access.
+The veto under duress also illuminates [[introspective-opacity|volitional opacity]]. Accounts from prisoners of war and survivors of extreme coercion suggest a recurring pattern: agents describe knowing they chose to resist but being unable to explain the mechanism connecting their commitment to their endurance (Stockdale, 1984). The connection remains introspectively opaque. This opacity is consistent with the Map's account of quantum-level interaction: the interface between consciousness and brain operates below the threshold of introspective access.
 
 ## Graduated Responsibility
 
@@ -117,7 +117,7 @@ This framework avoids two extremes. Against hard determinism, it maintains that 
 - [[phenomenology-of-agency-vs-passivity]]
 - [[consciousness-and-causal-powers]]
 - [[agent-causation]]
-- [[volitional-opacity]]
+- [[introspective-opacity|volitional opacity]]
 - [[luck-objection]]
 - [[reasons-responsiveness]]
 - [[concepts/consciousness-selecting-neural-patterns]]

@@ -65,7 +65,7 @@ topics: []
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — in the agency-without-self section
 - [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) — in the first invariant
 - [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) — in the cultural shaping section
-- [volitional-opacity](/voids/volitional-opacity/) — strengthened existing link with "genuine void" framing
+- [volitional-opacity](/voids/introspective-opacity/) — strengthened existing link with "genuine void" framing
 - 4 new entries in Further Reading and related_articles frontmatter
 
 ## Remaining Items

@@ -23,7 +23,7 @@ concepts:
 - '[[causal-interface]]'
 - '[[counterfactual-reasoning]]'
 - '[[existentialism]]'
-- '[[volitional-opacity]]'
+- '[[introspective-opacity|volitional opacity]]'
 created: 2026-01-08
 date: &id001 2026-02-28
 description: Can we genuinely author our choices? The Map defends agent-causal libertarian
@@ -64,7 +64,7 @@ Bergson's [durée](/concepts/temporal-consciousness/) offers additional resource
 
 [Libet's experiments](/concepts/libet-experiments/) found that neural "readiness potentials" precede conscious awareness of deciding to move. The implication seems devastating: if neural activity "decides" before awareness, isn't consciousness merely an epiphenomenal spectator?
 
-But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation—participants act when random fluctuations cross a threshold. Sjöberg (2024) provides stronger evidence: patients with surgical resection of the supplementary motor area—the region generating the readiness potential—retain their sense of voluntary action. If the RP reflected genuine volition, removing its source should impair it. It doesn't. Libet himself argued consciousness retains "veto power" to cancel prepared actions. The brain prepares options; consciousness selects or vetoes. See [libet-experiments](/concepts/libet-experiments/) for detailed analysis including the retrocausal resolution, and [volitional-opacity](/voids/volitional-opacity/) for why the mechanism of willing is structurally hidden from introspection.
+But the data admits other interpretations. Schurger et al. (2012) proposed the readiness potential reflects neural noise rather than decision preparation—participants act when random fluctuations cross a threshold. Sjöberg (2024) provides stronger evidence: patients with surgical resection of the supplementary motor area—the region generating the readiness potential—retain their sense of voluntary action. If the RP reflected genuine volition, removing its source should impair it. It doesn't. Libet himself argued consciousness retains "veto power" to cancel prepared actions. The brain prepares options; consciousness selects or vetoes. See [libet-experiments](/concepts/libet-experiments/) for detailed analysis including the retrocausal resolution, and [volitional opacity](/voids/introspective-opacity/) for why the mechanism of willing is structurally hidden from introspection.
 
 ## The Agent-Causal Response to Luck
 
@@ -246,7 +246,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [personal-identity](/topics/personal-identity/) — Why *you* are the author of your choices
 - [existentialism](/concepts/existentialism/) — How Sartre's pour-soi illuminates agent causation
 - [causal-interface](/voids/causal-interface/) — Why the mechanism of consciousness-physics interaction is systematically invisible
-- [volitional-opacity](/voids/volitional-opacity/) — Why we cannot observe our own willing
+- [volitional opacity](/voids/introspective-opacity/) — Why we cannot observe our own willing
 - [tenets](/tenets/) — The foundational commitments grounding this view
 
 ## References

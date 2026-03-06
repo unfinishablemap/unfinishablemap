@@ -1400,7 +1400,7 @@ Pessimistic review 2026-02-02 (midday) identified high-severity issue: the artic
 ### ✓ 2026-02-02: Write voids article on volitional opacity
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-volitional-opacity-2026-02-01.md. The gap between willing and its neural/cognitive implementation. We experience intention but cannot observe how decisions are generated.
-- **Output**: [volitional-opacity](/voids/volitional-opacity/)
+- **Output**: [volitional-opacity](/voids/introspective-opacity/)
 
 ### ✓ 2026-02-02: Write voids article on introspective opacity
 - **Type**: expand-topic

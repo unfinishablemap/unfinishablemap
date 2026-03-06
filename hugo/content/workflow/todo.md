@@ -44,6 +44,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
+### ✓ 2026-03-06: Update references to coalesced volitional-opacity
+- **Type**: cross-review
+- **Notes**: Updated all 12 content files to point `[volitional-opacity](/voids/introspective-opacity/)` → `[introspective-opacity](/voids/introspective-opacity/)`. Deep-reviewed introspective-opacity.md and condensed from 3477 → 2998 words.
+- **Source**: coalesce
+- **Generated**: 2026-03-06
+
 ### P2: Fix 23 broken wikilinks: contemplative-evidence-for-consciousness-theories
 - **Type**: other
 - **Notes**: 23 files reference `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)` but the article is named `contemplative-evidence-for-consciousness.md` (without `-theories` suffix). Update all wikilinks to `[contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)`. Run `grep -rl '\[\[contemplative-evidence-for-consciousness-theories' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
@@ -55,48 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: 32 files reference `[Illusionism](/concepts/illusionism/)` with capital I but the article filename is `illusionism.md` (lowercase). Wikilinks are case-sensitive in Hugo sync. Update all to `[illusionism](/concepts/illusionism/)`. Run `grep -rl '\[\[Illusionism\]\]' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
-
-### P3: Deep review consciousness-and-creativity.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Covers the relationship between consciousness and creative processes — relevant to the Map's treatment of consciousness as an active participant rather than passive observer. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-01
-
-### P3: Deep review combination-problem.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The combination problem challenges panpsychism by asking how micro-experiences combine into unified macro-experience — a key objection the Map cites when arguing that panpsychism fails to solve the hard problem. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-01
-
-### P3: Deep review problem-of-other-minds.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The problem of other minds is a foundational epistemological challenge directly relevant to the Map's treatment of consciousness as irreducibly first-personal. With connections to Tenet 1 (Dualism) and the Map's phenomenological methodology, quality assurance is important. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-28
-
-### P3: Deep review quantum-interpretations.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Survey of quantum interpretations and their consciousness implications, with 8 tenet references — central to the Map's treatment of why time-symmetric collapse is preferred over Many-Worlds or Bohmian mechanics. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-28
-
-### P3: Deep review qbism.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. QBism interprets quantum states as subjective beliefs rather than objective reality — centres the agent yet leaves consciousness unexplained. With 8 tenet references, it intersects with the Map's position on quantum measurement and consciousness. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-28
-
-### P3: Deep review embodied-cognition.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Embodied cognition challenges Cartesian dualism while leaving property dualism untouched — with 7 tenet references, it is an important article for the Map's treatment of how consciousness relates to bodily processes. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-28
-
-### P3: Deep review decoherence-and-macroscopic-superposition.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. Examines why quantum effects don't persist at macroscopic scales — directly relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-27
 
 ### P3: Deep review ethics-of-consciousness.md
 - **Type**: deep-review
@@ -568,8 +532,66 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Whitehead's process philosophy appears implicitly across multiple articles but lacks a dedicated concept page. Would clarify the Map's relationship to this tradition and strengthen articles referencing subjective aim, actual occasions, and process-based irreducibility. Target section: concepts/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). See [optimistic-2026-03-06](/reviews/optimistic-2026-03-06/).
 
+### P3: Write topic on consciousness and mathematics
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Mathematical understanding as a case where consciousness grasps abstract truths that resist computational explanation. Builds on consciousness-and-counterfactual-reasoning, categorical-surprise, galilean-exclusion. Target section: topics/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). See [optimistic-2026-03-06](/reviews/optimistic-2026-03-06/).
+
+### P3: Write topic on the interface across development
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How the consciousness-brain interface develops from infancy through adulthood and whether interface maturation parallels cognitive development stages. Builds on consciousness-and-skilled-performance, attention-disorders-and-quantum-interface, comparative-consciousness-and-interface-differences. Target section: topics/. Supports Tenets 2 and 3. See [optimistic-2026-03-06](/reviews/optimistic-2026-03-06/).
+
+### P3: Write topic on consciousness and memory consolidation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The role of consciousness in sleep-dependent memory consolidation and dreaming. Builds on anaesthesia-and-the-consciousness-interface, conscious-vs-unconscious-processing, contemplative-neuroscience. Target section: topics/. Supports Tenets 1 and 3. See [optimistic-2026-03-06](/reviews/optimistic-2026-03-06/).
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Deep review decoherence-and-macroscopic-superposition.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-27 — 31 days ago, beyond the 30-day staleness threshold. Examines why quantum effects don't persist at macroscopic scales — directly relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/decoherence-and-macroscopic-superposition.md
+
+### ✓ 2026-03-06: Deep review embodied-cognition.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Embodied cognition challenges Cartesian dualism while leaving property dualism untouched — with 7 tenet references, it is an important article for the Map's treatment of how consciousness relates to bodily processes. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/embodied-cognition.md
+
+### ✓ 2026-03-06: Deep review qbism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. QBism interprets quantum states as subjective beliefs rather than objective reality — centres the agent yet leaves consciousness unexplained. With 8 tenet references, it intersects with the Map's position on quantum measurement and consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/qbism.md
+
+### ✓ 2026-03-06: Deep review quantum-interpretations.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Survey of quantum interpretations and their consciousness implications, with 8 tenet references — central to the Map's treatment of why time-symmetric collapse is preferred over Many-Worlds or Bohmian mechanics. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/quantum-interpretations.md
+
+### ✓ 2026-03-06: Deep review problem-of-other-minds.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The problem of other minds is a foundational epistemological challenge directly relevant to the Map's treatment of consciousness as irreducibly first-personal. With connections to Tenet 1 (Dualism) and the Map's phenomenological methodology, quality assurance is important. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/problem-of-other-minds.md
+
+### ✓ 2026-03-06: Deep review combination-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. The combination problem challenges panpsychism by asking how micro-experiences combine into unified macro-experience — a key objection the Map cites when arguing that panpsychism fails to solve the hard problem. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/combination-problem.md
+
+### ✓ 2026-03-06: Address structural issues in ai-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-03-06-morning.md) found 2 high-severity issues: (1) systematic self-undermining where every argument is qualified into near-irrelevance---needs to distinguish compelling arguments from merely suggestive ones; (2) circular grounding where dualism motivates the arguments and the arguments motivate dualism. Also: outdated Engel et al. 2007 quantum biology citation, Hoel 2025 still listed as working paper, and alignment section overreach on AI capability claims.
+- **Output**: obsidian/topics/ai-consciousness.md
+
+Task context:
+Pessimistic review (pessimistic-2026-03-06-morning.md) found 2 high-severity issues: (1) systematic self-undermining where every argument is qualified into near-irrelevance---needs to distinguish compelling arguments from merely suggestive ones; (2) circular grounding where dualism motivates the arguments and the arguments motivate dualism. Also: outdated Engel et al. 2007 quantum biology citation, Hoel 2025 still listed as working paper, and alignment section overreach on AI capability claims.
+
+### ✓ 2026-03-06: Deep review consciousness-and-creativity.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-28 — 31 days ago, beyond the 30-day staleness threshold. Covers the relationship between consciousness and creative processes — relevant to the Map's treatment of consciousness as an active participant rather than passive observer. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/consciousness-and-creativity.md
 
 ### ✓ 2026-03-06: Research the metaproblem of consciousness under dualism
 - **Type**: research-topic

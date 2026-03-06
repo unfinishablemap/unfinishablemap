@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-05
-**Article**: [Volitional Opacity](/voids/volitional-opacity/)
+**Article**: [Volitional Opacity](/voids/introspective-opacity/)
 **Previous review**: [2026-02-07](/reviews/deep-review-2026-02-07b-volitional-opacity/)
 
 ## Pessimistic Analysis Summary

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-28 17:22:07+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-03-06 07:42:00+00:00
+ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[agent-causation]]'
@@ -10,6 +10,7 @@ concepts:
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[attention-as-interface]]'
 - '[[mental-causation]]'
+- '[[mental-effort]]'
 - '[[mysterianism]]'
 - '[[neurophenomenology]]'
 created: 2026-01-19
@@ -20,7 +21,7 @@ description: Consciousness contributes to creativity through both generating pos
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-28 17:22:07+00:00
+last_deep_review: 2026-03-06 07:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -43,7 +44,7 @@ One prominent account treats consciousness as selector rather than generator. Th
 
 **Neural signatures**: Default Mode Network (DMN) activity correlates with spontaneous idea generation, while Executive Control Network (ECN) activity correlates with evaluation. The "aha!" moment—the gamma spike that accompanies insight—may mark the selection point where consciousness catches what was prepared unconsciously.
 
-**Bandwidth constraints**: Conscious thought operates at approximately 10 bits per second, five million times slower than unconscious processing. This "trickle" seems too narrow for generation. Consciousness appears designed for selective attention, not mass production of ideas.
+**Bandwidth constraints**: Conscious thought operates at approximately 10 bits per second (Nørretranders 1998), five million times slower than unconscious processing. This "trickle" seems too narrow for generation. Consciousness appears designed for selective attention, not mass production of ideas.
 
 The [quantum selection framework](/concepts/consciousness-selecting-neural-patterns/) on The Unfinishable Map develops the selection mechanism rigorously. Through the quantum Zeno effect, mental attention holds neural patterns in place by repeated observation. Consciousness selects which possibilities actualize by attending to them.
 
@@ -61,7 +62,7 @@ Bergson's framework implies that the "options" consciousness selects from don't 
 
 The apparent opposition between generation and selection dissolves on closer examination. Imagination and attention are two aspects of consciousness's creative contribution:
 
-**Imagination generates possibility space**: Phenomenologically, imagination expands intuition from actual to possible. Husserl called imagination the "domain of possibility and realm of freedom." When you imagine alternatives, you're not accessing a pre-existing database but actively exploring what could be. This exploration is generative—it constitutes the possibilities it considers.
+**Imagination generates possibility space**: Phenomenologically, imagination expands intuition from actual to possible. Husserl called imagination the "domain of possibility and realm of freedom" (*Ideas I*, §70). When you imagine alternatives, you're not accessing a pre-existing database but actively exploring what could be. This exploration is generative—it constitutes the possibilities it considers.
 
 **Attention actualizes specific possibilities**: Through the [attention mechanism](/concepts/attention-as-interface/), consciousness selects which imagined possibilities become actual thoughts, intentions, and eventually actions. The quantum Zeno mechanism provides the physical implementation: repeated observation holds neural patterns in place.
 
@@ -85,7 +86,7 @@ Contemporary neuroscience illuminates how generation and selection interweave ne
 
 **ECN for convergent evaluation**: The Executive Control Network supports focused attention, working memory, and critical evaluation. ECN activity increases when assessing candidate ideas.
 
-**Dynamic switching predicts creativity**: The capacity to fluidly switch between DMN and ECN states—not either alone—predicts creative ability. Creative people show greater coupling between these networks during creative tasks. This finding is crucial: creativity isn't about maximising either spontaneous generation or controlled evaluation but about the dynamic interplay between them. The [agent-causal framework](/concepts/agent-causation/#creative-generation-beyond-pure-selection) interprets this as consciousness orchestrating transitions between modes—selecting when to explore and when to evaluate.
+**Dynamic switching predicts creativity**: The capacity to fluidly switch between DMN and ECN states—not either alone—predicts creative ability. Creative people show greater coupling between these networks during creative tasks. This finding is crucial: creativity isn't about maximising either spontaneous generation or controlled evaluation but about the dynamic interplay between them. This switching demands [mental effort](/concepts/mental-effort/)—the conscious work of transitioning between exploratory and evaluative modes. The [agent-causal framework](/concepts/agent-causation/#creative-generation-beyond-pure-selection) interprets this as consciousness orchestrating transitions between modes—selecting when to explore and when to evaluate.
 
 **The insight moment**: Before conscious insight, the brain shows specific preparation: alpha bursts over right visual cortex reduce distraction, gamma activity marks the emerging solution. Remarkably, the brain "knows" 8 seconds before you consciously do whether a solution will come through insight or analysis. This doesn't reduce insight to unconscious processes—rather, it suggests preparation and selection operate on different timescales. Consciousness may not produce the solution but determines *which* prepared solution becomes actual thought.
 
@@ -146,6 +147,7 @@ The creative process may also illuminate [cognitive closure](/concepts/mysterian
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The quantum mechanism for selection
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates mind-matter interaction
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experiential structure of deliberation, including how options develop through consideration
+- [mental-effort](/concepts/mental-effort/) — The conscious work of switching between exploratory and evaluative cognitive modes
 - [mental-imagery](/concepts/mental-imagery/) — Voluntary imagery as paradigm case of consciousness generating and manipulating possibilities
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding consciousness
 - [neurophenomenology](/concepts/neurophenomenology/) — Contemplative access to the temporal microstructure of creative experience
@@ -161,5 +163,6 @@ The creative process may also illuminate [cognitive closure](/concepts/mysterian
 1. Hausman, C. R. (1984). *A Discourse on Novelty and Creation*. SUNY Press.
 1. Kounios, J. & Beeman, M. (2009). The Aha! Moment: The Cognitive Neuroscience of Insight. *Current Directions in Psychological Science*, 18(4), 210-216.
 1. Kronfeldner, M. (2009). Creativity Naturalized. *The Philosophical Quarterly*, 59(237), 577-592.
+1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
 1. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
 1. Yeh, Y. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409-3423.

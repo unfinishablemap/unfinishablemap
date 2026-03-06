@@ -21,7 +21,7 @@ author: null
 concepts:
 - '[[mental-effort]]'
 - '[[phenomenology-of-choice]]'
-- '[[volitional-opacity]]'
+- '[[introspective-opacity|volitional opacity]]'
 - '[[attention-as-interface]]'
 created: 2026-02-23
 date: &id001 2026-02-23
@@ -86,7 +86,7 @@ The holding dimension connects to the Map's account of [causal powers](/topics/c
 
 ### Opacity: The Invisible Mechanism
 
-The fourth feature is conspicuous by its absence. We experience effort, selection, and holding — but we never experience *how* any of these produce their effects. The [mechanism connecting will to action](/voids/volitional-opacity/) is phenomenologically invisible. You decide to raise your arm, and your arm rises. Between the intention and the execution there is a gap — not a temporal gap (the sequence is smooth) but an experiential one. You cannot introspect the causal interface.
+The fourth feature is conspicuous by its absence. We experience effort, selection, and holding — but we never experience *how* any of these produce their effects. The [mechanism connecting will to action](/voids/introspective-opacity/) is phenomenologically invisible. You decide to raise your arm, and your arm rises. Between the intention and the execution there is a gap — not a temporal gap (the sequence is smooth) but an experiential one. You cannot introspect the causal interface.
 
 This opacity is not a failure of attention or a cultural artefact. It appears universally across traditions. The Western phenomenologist cannot observe how willing produces movement. The Daoist cannot explain how *wu wei* works. The Buddhist meditator, refining introspective access to ever finer granularity, still cannot point to the mechanism by which intentions produce physical effects. As the [cross-cultural phenomenology of agency](/topics/cross-cultural-phenomenology-of-agency/) documents, the gap between willing and doing is invisible everywhere.
 
@@ -163,7 +163,7 @@ This apex article synthesises:
 - [Cross-Cultural Phenomenology of Agency](/topics/cross-cultural-phenomenology-of-agency/) — How cultural frameworks shape agency experience while leaving a universal phenomenological core intact
 - [Mental Effort and the Quantum Zeno Effect](/concepts/mental-effort/) — The phenomenology of effortful attention as evidence for consciousness-matter interaction
 - [Phenomenology of Choice](/concepts/phenomenology-of-choice/) — The experiential structure of deliberation, decision, and authorship
-- [Volitional Opacity](/voids/volitional-opacity/) — Why the mechanism connecting will to action is permanently invisible to introspection
+- [Volitional Opacity](/voids/introspective-opacity/) — Why the mechanism connecting will to action is permanently invisible to introspection
 - [Attention as Interface](/concepts/attention-as-interface/) — How attention functions as the causal bridge between consciousness and neural systems
 
 ## References

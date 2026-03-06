@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P2: Update references to coalesced volitional-opacity
-- **Type**: cross-review
-- **Notes**: Coalesce merged volitional-opacity into introspective-opacity. The following active content files reference `[[volitional-opacity]]` and may need review: phenomenology-of-agency-vs-passivity.md, cross-cultural-phenomenology-of-agency.md, consciousness-and-moral-agency-under-duress.md, free-will.md, phenomenology-of-deliberation-under-uncertainty.md, phenomenology-of-consciousness-doing-work.md (apex), introspection.md, spontaneous-intentional-action.md, agency-verification-void.md, involuntariness-void.md, narrative-void.md, spontaneous-thought-void.md. The archived URL still works but links should ideally point to the unified article.
-- **Source**: coalesce
-- **Generated**: 2026-03-06
-
 ### P2: Fix 23 broken wikilinks: contemplative-evidence-for-consciousness-theories
 - **Type**: other
 - **Notes**: 23 files reference `[[contemplative-evidence-for-consciousness-theories]]` but the article is named `contemplative-evidence-for-consciousness.md` (without `-theories` suffix). Update all wikilinks to `[[contemplative-evidence-for-consciousness]]`. Run `grep -rl '\[\[contemplative-evidence-for-consciousness-theories' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
@@ -548,6 +542,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Update references to coalesced volitional-opacity
+- **Type**: cross-review
+- **Notes**: Coalesce merged volitional-opacity into introspective-opacity. The following active content files reference `[[volitional-opacity]]` and may need review: phenomenology-of-agency-vs-passivity.md, cross-cultural-phenomenology-of-agency.md, consciousness-and-moral-agency-under-duress.md, free-will.md, phenomenology-of-deliberation-under-uncertainty.md, phenomenology-of-consciousness-doing-work.md (apex), introspection.md, spontaneous-intentional-action.md, agency-verification-void.md, involuntariness-void.md, narrative-void.md, spontaneous-thought-void.md. The archived URL still works but links should ideally point to the unified article.
+- **Output**: None -- Context: Update references to coalesced volitional-opacity
 
 ### ✓ 2026-03-06: Deep review decoherence-and-macroscopic-superposition.md
 - **Type**: deep-review

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-05 16:17:00+00:00
+ai_modified: 2026-03-06 10:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: When multiple minds observe entangled systems, whose consciousness 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-01 15:14:00+00:00
+last_deep_review: 2026-03-06 10:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -97,7 +97,7 @@ Each consciousness is an island, causally isolated from other consciousnesses at
 
 ## The Decoherence Challenge
 
-Does quantum selection in the brain occur at all? Tegmark's 2000 calculation suggested neural coherence decays in ~10⁻¹³ seconds—seemingly too fast for any selection process. But Hameroff's group showed corrected parameters yield coherence times of 10⁻⁵ to 10⁻⁴ seconds. The quantum Zeno mechanism doesn't require sustained coherence between observations—rapid attentional "measurements" maintain states through repetition. And quantum biology precedents (avian magnetoreception, confirmed by Princeton's 2026 cryptochrome study) show evolution can exploit quantum effects in warm tissue.
+Does quantum selection in the brain occur at all? Tegmark's 2000 calculation suggested neural coherence decays in ~10⁻¹³ seconds—seemingly too fast for any selection process. But Hameroff's group showed corrected parameters yield coherence times of 10⁻⁵ to 10⁻⁴ seconds. The quantum Zeno mechanism doesn't require sustained coherence between observations—rapid attentional "measurements" maintain states through repetition. And quantum biology precedents (avian magnetoreception, computationally supported by Luo et al.'s 2025 Princeton cryptochrome study) show evolution can exploit quantum effects in warm tissue.
 
 The [decoherence](/concepts/decoherence/) challenge constrains but doesn't eliminate [interface locality](/concepts/brain-interface-boundary/). Each consciousness's local modulation operates via brief, rapid observations within one brain—not sustained global coherence across multiple brains.
 
@@ -178,11 +178,9 @@ This resolution preserves the Map's commitment to consciousness as causally effi
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. Rovelli, C. (1996). Relational quantum mechanics. *International Journal of Theoretical Physics*, 35(8), 1637-1678.
-1. Adlam, E., & Rovelli, C. (2023). Information is physical: Cross-perspective links in relational quantum mechanics. *Philosophy of Physics*, 1(1).
+1. Luo, J., Hungerland, J., Solov'yov, I., Subotnik, J., & Hammes-Schiffer, S. (2025). Protein and solvent reorganization drives radical pair stability in avian cryptochrome 4a. *Journal of the American Chemical Society*, 147, 43934-43945.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-1. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
-1. Wigner, E. (1961). Remarks on the mind-body question. In I. J. Good (Ed.), *The Scientist Speculates*.
 1. Stanford Encyclopedia of Philosophy. "Relational Quantum Mechanics." https://plato.stanford.edu/entries/qm-relational/

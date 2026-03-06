@@ -28,7 +28,7 @@ None. The article has been through eleven previous reviews and all critical issu
 
 ### Medium Issues Found
 
-1. **Missing volitional-opacity cross-link**: The article discusses Libet experiments and the mystery of how willing works, but didn't link to the newly created [volitional-opacity](/voids/volitional-opacity/) void article, which directly addresses why we cannot observe our own willing.
+1. **Missing volitional-opacity cross-link**: The article discusses Libet experiments and the mystery of how willing works, but didn't link to the newly created [volitional-opacity](/voids/introspective-opacity/) void article, which directly addresses why we cannot observe our own willing.
    - **Resolution**: Added cross-link in the Libet section and Further Reading.
 
 ### Attribution Accuracy Check
@@ -72,16 +72,16 @@ No misattributions, dropped qualifiers, or source/Map conflation detected.
 
 ### Enhancements Made
 
-1. **Volitional-opacity integration**: Added cross-link to [volitional-opacity](/voids/volitional-opacity/) in the Libet section, connecting the neuroscientific challenge to the void framework explaining why the mechanism of willing is structurally hidden from introspection.
+1. **Volitional-opacity integration**: Added cross-link to [volitional-opacity](/voids/introspective-opacity/) in the Libet section, connecting the neuroscientific challenge to the void framework explaining why the mechanism of willing is structurally hidden from introspection.
 
-2. **Frontmatter update**: Added [volitional-opacity](/voids/volitional-opacity/) to concepts list for navigation and relationship tracking.
+2. **Frontmatter update**: Added [volitional-opacity](/voids/introspective-opacity/) to concepts list for navigation and relationship tracking.
 
-3. **Further Reading addition**: Added [volitional-opacity](/voids/volitional-opacity/) with description "Why we cannot observe our own willing."
+3. **Further Reading addition**: Added [volitional-opacity](/voids/introspective-opacity/) with description "Why we cannot observe our own willing."
 
 4. **Removed AI Refinement Log**: The comment from 2026-02-01 instructed removal after human review. Removed to clean up the document.
 
 ### Cross-links Added
-- [volitional-opacity](/voids/volitional-opacity/) — Why we cannot observe our own willing
+- [volitional-opacity](/voids/introspective-opacity/) — Why we cannot observe our own willing
 
 ## Word Count
 

@@ -26,7 +26,7 @@ related_articles:
   - "[[diachronic-agency-and-personal-narrative]]"
   - "[[consciousness-and-moral-agency-under-duress]]"
   - "[[phenomenology-of-skill-and-the-lived-body]]"
-  - "[[volitional-opacity]]"
+  - "[[introspective-opacity|volitional opacity]]"
   - "[[buddhist-perspectives-on-meaning]]"
   - "[[phenomenology-of-flow-states]]"
   - "[[contemplative-methods-as-philosophical-methodology]]"
@@ -56,7 +56,7 @@ Despite cultural shaping, certain features of agency experience appear to persis
 
 **First, the something-it-is-like of acting.** Whether framed as effortful willing, [[phenomenology-of-flow-states|effortless flow]], or witnessing, every tradition acknowledges that action has a felt quality distinguishable from mere happening. A hand rising because I raise it differs experientially from a hand rising because someone lifts it, regardless of cultural framework. This first-person contrast between doing and undergoing appears universal — even traditions that deny a permanent agent preserve the phenomenological distinction.
 
-**Second, the opacity of the causal mechanism.** No culture reports direct introspective access to *how* willing produces action. The [[volitional-opacity|volitional opacity]] that the Map identifies as a genuine void — a boundary of the knowable — appears in other traditions too: the Daoist cannot explain how *wu wei* works, the Buddhist cannot point to the mechanism by which intentions produce effects across the causal chain. The gap between willing and doing is cross-culturally invisible.
+**Second, the opacity of the causal mechanism.** No culture reports direct introspective access to *how* willing produces action. The [[introspective-opacity|volitional opacity]] that the Map identifies as a genuine void — a boundary of the knowable — appears in other traditions too: the Daoist cannot explain how *wu wei* works, the Buddhist cannot point to the mechanism by which intentions produce effects across the causal chain. The gap between willing and doing is cross-culturally invisible.
 
 **Third, the link between agency and temporal experience.** Cultures frame time differently — linear narrative in the West, cyclical return in Hindu traditions, momentary arising in Buddhism — but the connection between felt agency and temporal openness persists. To experience oneself as an agent is to experience the future as genuinely open, as containing possibilities that one's action will select among. Even Buddhist momentariness preserves this: each moment of consciousness arises from conditions that leave the future underdetermined, and the practitioner experiences their action as shaping what comes next — even while the tradition's own analysis frames this as conditioned arising rather than selection.
 
@@ -97,7 +97,7 @@ The Map's commitment to Occam's Razor having limits is also relevant. The "simpl
 - [[authentic-vs-inauthentic-choice]]
 - [[diachronic-agency-and-personal-narrative]]
 - [[buddhist-perspectives-on-meaning]]
-- [[volitional-opacity]]
+- [[introspective-opacity|volitional opacity]]
 - [[social-construction-of-self-vs-phenomenal-self]]
 - [[buddhism-and-dualism]]
 - [[process-philosophy]]

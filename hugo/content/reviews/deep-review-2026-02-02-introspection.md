@@ -70,7 +70,7 @@ All attributions verified:
 
 ### Cross-links Added
 - [introspective-opacity](/voids/introspective-opacity/) — in frontmatter concepts, body text (Process vs. Content section), and Further Reading
-- [volitional-opacity](/voids/volitional-opacity/) — in frontmatter concepts and Further Reading
+- [volitional-opacity](/voids/introspective-opacity/) — in frontmatter concepts and Further Reading
 
 ## Word Count
 

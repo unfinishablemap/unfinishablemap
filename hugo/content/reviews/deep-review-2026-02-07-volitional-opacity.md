@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-07
-**Article**: [Volitional Opacity](/voids/volitional-opacity/)
+**Article**: [Volitional Opacity](/voids/introspective-opacity/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -33,7 +33,7 @@ topics: []
 - **Thin treatment of Illusion Interpretation**: Added sentence explaining why the Map finds illusionism insufficient (evolution of the illusion demands its own mechanism).
 - **Aristotle akrasia quote**: Removed quotation marks from what was likely a modern scholarly paraphrase, rephrased as article's own language.
 - **Strawson clarification**: Added parenthetical noting Strawson himself argues the libertarian phenomenology does not ground genuine freedom, preventing misreading of his position.
-- **Missing bidirectional cross-link**: Added `[volitional-opacity](/voids/volitional-opacity/)` to introspective-opacity.md's related_articles.
+- **Missing bidirectional cross-link**: Added `[volitional-opacity](/voids/introspective-opacity/)` to introspective-opacity.md's related_articles.
 
 ### Counterarguments Considered
 - **Engineering limitation argument** (Dennett): opacity may be ordinary design limitation, not ontological gap. Not directly addressed in this review—the Merleau-Ponty reframing partially engages this, but a full response would require expanding beyond word-count threshold.
@@ -61,7 +61,7 @@ topics: []
 ### Cross-links Added
 - [limits-reveal-structure](/voids/limits-reveal-structure/) (related_articles + Further Reading)
 - [creativity-void](/voids/creativity-void/) (related_articles + Further Reading)
-- [volitional-opacity](/voids/volitional-opacity/) added to introspective-opacity.md (bidirectional link)
+- [volitional-opacity](/voids/introspective-opacity/) added to introspective-opacity.md (bidirectional link)
 
 ## Remaining Items
 

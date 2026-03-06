@@ -23,7 +23,7 @@ concepts:
 related_articles:
   - "[[authentic-vs-inauthentic-choice]]"
   - "[[probability-intuition-void]]"
-  - "[[volitional-opacity]]"
+  - "[[introspective-opacity|volitional opacity]]"
   - "[[phenomenology-of-anticipation]]"
   - "[[phenomenology-of-intellectual-effort]]"
   - "[[tenets]]"
@@ -148,7 +148,7 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 - [[probability-intuition-void]] — Our architectural limits in reasoning about chance
 - [[epistemic-emotions]] — The affective dimension of uncertainty
 - [[counterfactual-reasoning]] — Imagining alternative outcomes
-- [[volitional-opacity]] — Why we cannot observe our own deciding
+- [[introspective-opacity|volitional opacity]] — Why we cannot observe our own deciding
 - [[subjective-aim]] — The process-philosophical structure of commitment
 - [[temporal-thickness]] — Why some moments are denser with experience than others
 - [[spontaneous-intentional-action]] — When commitment arrives without extended deliberation

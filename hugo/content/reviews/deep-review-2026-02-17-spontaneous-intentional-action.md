@@ -25,7 +25,7 @@ topics: []
 ### Critical Issues Found
 - **Broken links to archived articles**: `[voluntary-attention](/concepts/attention-as-interface/)` and `[temporal-consciousness](/concepts/temporal-consciousness/)` both archived (replaced by `[attention-as-interface](/concepts/attention-as-interface/)` and `[temporal-consciousness](/concepts/temporal-consciousness/)`). Updated all frontmatter and body links.
 - **Missing `last_deep_review` field**: Added to frontmatter.
-- **`[volitional-opacity](/voids/volitional-opacity/)` categorisation**: Listed under `concepts:` in frontmatter but exists as a void. Kept in `concepts:` list since the frontmatter schema doesn't have a `voids:` field and wikilinks resolve regardless of path. Noted for potential schema improvement.
+- **`[volitional-opacity](/voids/introspective-opacity/)` categorisation**: Listed under `concepts:` in frontmatter but exists as a void. Kept in `concepts:` list since the frontmatter schema doesn't have a `voids:` field and wikilinks resolve regardless of path. Noted for potential schema improvement.
 
 ### Medium Issues Found
 - **Unused references (Frankfurt, Pacherie)**: Removed. They were in References but never cited in body text.

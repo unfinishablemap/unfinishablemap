@@ -18,7 +18,6 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[creativity-void]]"
-  - "[[volitional-opacity]]"
   - "[[the-unobservable-self]]"
   - "[[thoughts-that-slip-away]]"
   - "[[introspective-opacity]]"
@@ -113,8 +112,7 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects through the indexic
 ## Further Reading
 
 - [[creativity-void]] — The related void concerning creative insight's hidden origins
-- [[volitional-opacity]] — The hidden mechanisms of willing and deciding
-- [[introspective-opacity]] — Why we cannot observe cognitive processes in general
+- [[introspective-opacity]] — Why we cannot observe cognitive processes, including willing
 - [[the-unobservable-self]] — The observer that cannot observe itself
 - [[thoughts-that-slip-away]] — How thoughts escape before they can be captured
 - [[absorption-void]] — Where focused attention swallows the attending self

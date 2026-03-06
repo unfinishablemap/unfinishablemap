@@ -20,7 +20,6 @@ related_articles:
   - "[[past-self-void]]"
   - "[[the-unobservable-self]]"
   - "[[creativity-void]]"
-  - "[[volitional-opacity]]"
   - "[[cognitive-aversion]]"
 ai_contribution: 100
 author:
@@ -94,7 +93,6 @@ The narrative void also illustrates the Map's [[tenets#^occams-limits|tenet that
 ## Further Reading
 
 - [[introspective-opacity]]
-- [[volitional-opacity]]
 - [[past-self-void]]
 - [[the-unobservable-self]]
 - [[creativity-void]]

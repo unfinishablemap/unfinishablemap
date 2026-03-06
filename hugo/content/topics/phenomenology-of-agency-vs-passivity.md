@@ -13,7 +13,7 @@ concepts:
 - '[[phenomenology]]'
 - '[[introspection]]'
 - '[[meditation-and-consciousness-modes]]'
-- '[[volitional-opacity]]'
+- '[[introspective-opacity|volitional opacity]]'
 - '[[implicit-memory]]'
 - '[[embodied-cognition]]'
 - '[[attention-as-interface]]'
@@ -156,7 +156,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [mental-effort](/concepts/mental-effort/) — Why effort phenomenology supports conscious causal contribution
 - [motor-selection](/concepts/motor-selection/) — The agency-passivity contrast in movement
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Phenomenological layers of ownership in choice
-- [volitional-opacity](/voids/volitional-opacity/) — Why the mechanism connecting will to action is invisible
+- [volitional opacity](/voids/introspective-opacity/) — Why the mechanism connecting will to action is invisible
 - [The Ownership Void](/voids/ownership-void/) — Why the ownership relation hides from introspection
 - [free-will](/topics/free-will/) — The broader philosophical context
 - [consciousness-and-agency](/apex/consciousness-and-agency/) — Apex synthesis of agency across the Map

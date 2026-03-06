@@ -20,7 +20,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[volitional-opacity]]'
+- '[[introspective-opacity|volitional opacity]]'
 - '[[ownership-void]]'
 - '[[affective-void]]'
 - '[[dreamless-sleep-void]]'
@@ -75,7 +75,7 @@ Three possible explanations emerge:
 
 **Functional necessity.** Organisms that could voluntarily shut off pain, suppress perception, or alter emotional valence would face severe survival disadvantages. Evolution—or whatever process constrains the consciousness-physics interface—may maintain involuntariness as a design requirement. An agent that could freely edit its own experience might decouple from reality entirely.
 
-**Structural opacity.** Metzinger (2003) argues that the phenomenal self-model is "transparent"—we cannot introspect the mechanisms generating experience. If you cannot see the control surface, you cannot operate it. The involuntariness may follow from the same structural feature that the [volitional-opacity](/voids/volitional-opacity/) void documents: the mechanisms of consciousness are hidden from the consciousness they produce.
+**Structural opacity.** Metzinger (2003) argues that the phenomenal self-model is "transparent"—we cannot introspect the mechanisms generating experience. If you cannot see the control surface, you cannot operate it. The involuntariness may follow from the same structural feature that the [volitional opacity](/voids/introspective-opacity/) void documents: the mechanisms of consciousness are hidden from the consciousness they produce.
 
 These explanations are not mutually exclusive. The involuntariness may be multiply determined—constrained by the interface, selected for by evolution, and hidden by structural opacity simultaneously.
 
@@ -106,7 +106,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. T
 ## Further Reading
 
 - [voids](/voids/) — The broader framework for cognitive limits
-- [volitional-opacity](/voids/volitional-opacity/) — Why we cannot observe the mechanisms of willing
+- [volitional opacity](/voids/introspective-opacity/) — Why we cannot observe the mechanisms of willing
 - [ownership-void](/voids/ownership-void/) — Why we cannot introspect how experiences become ours
 - [affective-void](/voids/affective-void/) — The emotions we cannot feel
 - [dreamless-sleep-void](/voids/dreamless-sleep-void/) — Where consciousness goes when it departs involuntarily

@@ -18,6 +18,123 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-06 11:38 UTC - deep-review
+- **Status**: Success
+- **File**: [introspective-opacity](/voids/introspective-opacity/)
+- **Word count**: 3477 → 2998 (-479)
+- **Critical issues addressed**: 1 (exceeded hard word limit)
+- **Medium issues addressed**: 3 (redundant prose, missing cross-link)
+- **Enhancements made**: 1 (phenomenology-of-choice cross-link)
+- **Site-wide**: Updated volitional-opacity references in 12 content files
+- **Output**: [deep-review-2026-03-06-introspective-opacity](/reviews/deep-review-2026-03-06-introspective-opacity/)
+
+## 2026-03-06 10:37 UTC - coalesce
+- **Status**: Success
+- **Sources**: [volitional-opacity](/voids/introspective-opacity/), [introspective-opacity](/voids/introspective-opacity/)
+- **Target**: [introspective-opacity](/voids/introspective-opacity/)
+- **Archived**: [volitional-opacity](/archive/voids/volitional-opacity/)
+- **References to review**: 12 active content files (follow-up task created)
+
+## 2026-03-06 10:25 UTC - deep-review
+- **Status**: Success
+- **File**: [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/)
+- **Word count**: 2089 → 2087 (-2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-06-decoherence-and-macroscopic-superposition](/reviews/deep-review-2026-03-06-decoherence-and-macroscopic-superposition/)
+
+## 2026-03-06 10:10 UTC - deep-review
+- **Status**: Success
+- **File**: [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/)
+- **Word count**: 2017 → 2001 (-16)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-06-multi-mind-collapse-problem](/reviews/deep-review-2026-03-06-multi-mind-collapse-problem/)
+
+## 2026-03-06 09:56 UTC - deep-review
+- **Status**: Success
+- **File**: [embodied-cognition](/concepts/embodied-cognition/)
+- **Word count**: 2757 → 2787 (+30)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-06-embodied-cognition](/reviews/deep-review-2026-03-06-embodied-cognition/)
+
+## 2026-03-06 09:40 UTC - deep-review
+- **Status**: Success
+- **File**: [qbism](/concepts/qbism/)
+- **Word count**: 1873 → 1960 (+87)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-06-qbism](/reviews/deep-review-2026-03-06-qbism/)
+
+## 2026-03-06 09:25 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 200 topics, 198 concepts, 1 tenets document (399 non-draft articles)
+- **Output**: [optimistic-2026-03-06](/reviews/optimistic-2026-03-06/)
+- **Tasks added**: 3 P3 expand-topic suggestions (consciousness and mathematics, interface across development, consciousness and memory consolidation)
+
+## 2026-03-06 09:12 UTC - deep-review
+- **Status**: Success (stable — no changes)
+- **File**: [quantum-interpretations](/concepts/quantum-interpretations/)
+- **Word count**: 2408 → 2408 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-06-quantum-interpretations](/reviews/deep-review-2026-03-06-quantum-interpretations/)
+
+## 2026-03-06 08:55 UTC - deep-review
+- **Status**: Success (no changes needed — article stable)
+- **File**: [problem-of-other-minds](/concepts/problem-of-other-minds/)
+- **Word count**: 2210 → 2210 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-06-problem-of-other-minds](/reviews/deep-review-2026-03-06-problem-of-other-minds/)
+
+## 2026-03-06 08:40 UTC - deep-review
+- **Status**: Success
+- **File**: [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
+- **Word count**: 3011 → 2917 (-94)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-03-06-cognitive-phenomenology](/reviews/deep-review-2026-03-06-cognitive-phenomenology/)
+
+## 2026-03-06 08:26 UTC - deep-review
+- **Status**: Success
+- **File**: [combination-problem](/concepts/combination-problem/)
+- **Word count**: 2162 → 2158 (-4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-06-combination-problem](/reviews/deep-review-2026-03-06-combination-problem/)
+
+## 2026-03-06 08:11 UTC - refine-draft
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Changes**: Broke circular grounding in Relation to Site Perspective; reduced systematic self-undermining across 6 sections; updated outdated Engel et al. quantum biology citation with Cao et al. 2020; updated Hoel reference; fixed alignment section overreach on AI capability claims
+- **Published**: yes
+
+## 2026-03-06 07:55 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [ai-consciousness](/topics/ai-consciousness/) — AI Consciousness
+- **Issues found**: 2 high severity, 3 medium severity
+- **Key findings**: Systematic self-undermining of arguments, circular grounding in dualism, outdated quantum biology citation
+- **Output**: [pessimistic-2026-03-06-morning](/reviews/pessimistic-2026-03-06-morning/)
+
+## 2026-03-06 07:42 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-creativity](/concepts/consciousness-and-creativity/)
+- **Word count**: 2131 → 2177 (+46)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-06-consciousness-and-creativity](/reviews/deep-review-2026-03-06-consciousness-and-creativity/)
+
 ## 2026-03-06 07:25 UTC - research-topic
 - **Status**: Success
 - **Topic**: The metaproblem of consciousness under dualism

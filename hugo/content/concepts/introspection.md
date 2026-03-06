@@ -22,7 +22,6 @@ concepts:
 - '[[pre-conceptual-knowing]]'
 - '[[causal-interface]]'
 - '[[introspective-opacity]]'
-- '[[volitional-opacity]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 description: Our primary access to consciousness is contested. But critiques target
@@ -176,8 +175,7 @@ This matters for consciousness science. If we restricted inquiry to third-person
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer phenomenon in contemplative traditions
 - [Testing the Map from Inside](/apex/testing-the-map-from-inside/) — Apex synthesis: phenomenological experiments you can run using your own experience
 - [phenomenology-of-error-recognition](/voids/phenomenology-of-error-recognition/) — Why introspective error cannot be detected from within
-- [introspective-opacity](/voids/introspective-opacity/) — The void where process access fails structurally
-- [volitional-opacity](/voids/volitional-opacity/) — Why we cannot observe our own willing
+- [introspective-opacity](/voids/introspective-opacity/) — The void where process access fails structurally, including why we cannot observe our own willing
 - [The Dream Consciousness Void](/voids/dream-consciousness-void/) — State-dependent limits on introspecting dreaming from waking
 
 ## References

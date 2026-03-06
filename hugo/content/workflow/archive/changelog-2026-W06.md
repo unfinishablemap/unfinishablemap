@@ -4131,7 +4131,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 11:50 UTC - refine-draft
 - **Status**: Success
-- **File**: [volitional-opacity](/voids/volitional-opacity/)
+- **File**: [volitional-opacity](/voids/introspective-opacity/)
 - **Issue addressed**: High-severity from pessimistic review - inconsistency with introspective-opacity.md (volitional-opacity treated introspective reports as revelatory while introspective-opacity argues they systematically misreport)
 - **Changes**: Added explicit caveat to phenomenology section acknowledging reports may be constructed rather than revelatory; revised sense of authorship, gap at initiation, and effort phenomenon paragraphs to maintain epistemological humility consistent with introspective-opacity thesis
 - **Published**: yes
@@ -4268,7 +4268,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 10:38 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Volitional Opacity
-- **Output**: [volitional-opacity](/voids/volitional-opacity/)
+- **Output**: [volitional-opacity](/voids/introspective-opacity/)
 - **Word count**: 1907
 - **Based on research**: yes, [voids-volitional-opacity-2026-02-01](/research/voids-volitional-opacity-2026-02-01/)
 

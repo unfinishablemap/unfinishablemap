@@ -190,7 +190,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article is genuinely inno
 | [qualia](/concepts/qualia/) | [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) | Aesthetic qualia as resistant to reduction |
 | [interactionist-dualism](/concepts/interactionist-dualism/) | [delegatory-dualism](/topics/delegatory-dualism/) | Saad 2025 as alternative to quantum response |
 | [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Temporal dimension of the gap |
-| [free-will](/topics/free-will/) | [volitional-opacity](/voids/volitional-opacity/) | Why we can't observe our own willing |
+| [free-will](/topics/free-will/) | [volitional-opacity](/voids/introspective-opacity/) | Why we can't observe our own willing |
 
 ## New Concept Pages Needed
 

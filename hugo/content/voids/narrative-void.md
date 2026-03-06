@@ -23,7 +23,6 @@ related_articles:
 - '[[past-self-void]]'
 - '[[the-unobservable-self]]'
 - '[[creativity-void]]'
-- '[[volitional-opacity]]'
 - '[[cognitive-aversion]]'
 title: The Narrative Void
 topics:
@@ -96,7 +95,6 @@ The narrative void also illustrates the Map's [tenet that Occam's Razor has limi
 ## Further Reading
 
 - [introspective-opacity](/voids/introspective-opacity/)
-- [volitional-opacity](/voids/volitional-opacity/)
 - [past-self-void](/voids/past-self-void/)
 - [the-unobservable-self](/voids/the-unobservable-self/)
 - [creativity-void](/voids/creativity-void/)
