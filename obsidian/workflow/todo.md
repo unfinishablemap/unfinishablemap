@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Deep review framework-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-20, never reviewed. The framework void examines whether consciousness can be captured in any theoretical framework. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-24
-
 ### P3: Deep review phenomenology-of-self-reference.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-09, never reviewed. Oldest unreviewed voids article not already in the deep-review queue — 15 days without quality assurance. Verify coherence, cross-references, and tenet alignment.
@@ -506,6 +500,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Deep review framework-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-20, never reviewed. The framework void examines whether consciousness can be captured in any theoretical framework. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/framework-void.md
 
 ### ✓ 2026-03-06: Deep review valence-void.md
 - **Type**: deep-review
