@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-05 16:17:00+00:00
+ai_modified: 2026-03-06 13:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: 'From Descartes through Princess Elizabeth to quantum mechanics: ho
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-02 11:07:00+00:00
+last_deep_review: 2026-03-06 13:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -100,7 +100,7 @@ Roger Penrose and Stuart Hameroff proposed an alternative quantum approach: Orch
 
 Recent philosophical work has challenged whether the conservation argument ever had the force attributed to it. J. Brian Pitts and Alin Cucu demonstrate that conservation laws are *local* and *conditional*:
 
-**Locality**: Conservation holds "not primarily for the whole universe, but in every place separately." Energy flowing from one region enters adjacent regions. This is compatible with conservation failing at specific neural locations where minds act while holding everywhere else.
+**Locality**: Conservation holds "not primarily for the whole universe, but in every place separately." Energy flowing from one region enters adjacent regions. This is compatible with conservation not applying at specific neural locations where minds act while holding everywhere else.
 
 **Conditionality**: Noether's theorem derives conservation from symmetries—energy conservation from time-translation symmetry. External influences break these symmetries. If consciousness constitutes an external influence on physical systems, expecting conservation to hold in the brain simply assumes interactionism is false. The argument begs the question.
 
@@ -116,9 +116,9 @@ Dualism's rehabilitation began with philosophical work in the 1980s–1990s:
 
 **Richard Swinburne** (2013) defended traditional substance dualism with new arguments for personal identity: what makes me *me* is not any qualitative property but the "thisness" of my soul.
 
-**William Hasker** (1999) developed emergent substance dualism: the soul emerges from brain function but is itself a non-physical substance with its own causal powers. This differs from Cartesian dualism in making souls spatially located and dependent on physical processes for their generation—while still being genuinely non-physical.
+**William Hasker** (1999) developed emergent substance dualism: the soul emerges from brain function but is itself a non-physical substance with its own causal powers. This differs from Cartesian dualism in making souls spatially located and dependent on physical processes for their generation—while still being genuinely non-physical. Hasker's view revives the British emergentist tradition of Broad and Alexander, but goes further: where they proposed emergent *properties*, Hasker proposes an emergent *substance*.
 
-The 2020 PhilPapers survey found 22% of professional philosophers accept or lean toward dualism (including both property and substance dualism)—second only to physicalism at 51%. The view is no longer marginal.
+The 2020 PhilPapers survey found roughly 22% of professional philosophers accept or lean toward non-physicalist views of mind (encompassing property dualism, substance dualism, and related positions)—second only to physicalism at 51%. Dualism is no longer marginal.
 
 ## The Shape of Progress
 
@@ -141,6 +141,8 @@ The **Dualism tenet** affirms what Descartes established: consciousness is not r
 The **Bidirectional Interaction tenet** affirms what Elizabeth questioned: consciousness causally influences the physical world. The [self-stultification argument](/concepts/epiphenomenalism/) shows that denying this leads to incoherence—we could not reliably discuss consciousness if consciousness caused nothing.
 
 The **Minimal Quantum Interaction tenet** specifies how interaction might occur in light of what quantum mechanics revealed: by biasing otherwise indeterminate outcomes, not by injecting energy. This answers Leibniz's objection while preserving everything physics has established about conservation.
+
+The **No Many Worlds tenet** reflects a lesson from this history: the quantum opening depends on collapse being real. If all outcomes actualize in branching worlds, there are no undetermined outcomes for consciousness to select among. The Map's rejection of Many-Worlds is not arbitrary—it is structurally necessary for the interactionist programme that this history traces.
 
 The history shows that interactionism's fortunes track developments in physics more than developments in philosophy. When physics appeared to support determinism and causal closure, interactionism seemed untenable. As physics revealed fundamental indeterminism and the measurement problem, possibilities reopened. The position is neither proven nor refuted—but it is no longer ruled out by the considerations that once seemed decisive.
 

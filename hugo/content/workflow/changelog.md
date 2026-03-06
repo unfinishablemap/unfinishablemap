@@ -18,6 +18,40 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-06 15:39 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Palette Void (phenomenal specificity)
+- **Category**: Unexplorable / Mixed
+- **Output**: [voids-palette-void-2026-03-06](/research/voids-palette-void-2026-03-06/)
+- **Key finding**: Why qualia have their specific character rather than some other is a void that afflicts every framework equally -- physicalism, dualism, and panpsychism all face the palette problem, suggesting it is a structural limit on explanation rather than a theory-specific gap.
+
+## 2026-03-06 14:41 UTC - deep-review
+- **Status**: Success
+- **File**: [witness-consciousness](/concepts/witness-consciousness/)
+- **Word count**: 2437 → 2437 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (reference misattribution: Hasenkamp → Garrison)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-06-witness-consciousness](/reviews/deep-review-2026-03-06-witness-consciousness/)
+
+## 2026-03-06 13:38 UTC - deep-review
+- **Status**: Success
+- **File**: [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/)
+- **Word count**: 2176 → 2338 (+162)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (Pitts/Cucu word choice, PhilPapers precision, missing Tenet 4)
+- **Enhancements made**: 1 (Hasker-emergentist connection)
+- **Output**: [deep-review-2026-03-06-history-of-interactionist-dualism](/reviews/deep-review-2026-03-06-history-of-interactionist-dualism/)
+
+## 2026-03-06 12:38 UTC - deep-review
+- **Status**: Success (stability confirmed)
+- **File**: [ethics-of-consciousness](/topics/ethics-of-consciousness/)
+- **Word count**: 2841 → 2841 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (deferred as non-actionable)
+- **Enhancements made**: 0 (timestamps only)
+- **Output**: [deep-review-2026-03-06-ethics-of-consciousness](/reviews/deep-review-2026-03-06-ethics-of-consciousness/)
+
 ## 2026-03-06 11:38 UTC - deep-review
 - **Status**: Success
 - **File**: [introspective-opacity](/voids/introspective-opacity/)
