@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Deep review apophatic-cartography.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed since creation. The foundational methodology article for the entire voids programme with 14 inbound links — defines the practice of mapping where understanding fails as positive data. Quality issues here propagate to the voids cluster's credibility. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-05
-
 ### P3: Write concept page for quantum measurement and subjective probability interpretations
 - **Type**: expand-topic
 - **Notes**: Research completed in research/quantum-measurement-subjective-probability-2026-01-23.md. QBism and related interpretations frame measurement outcomes as updates to subjective belief — connecting quantum mechanics to consciousness through probability rather than collapse. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds). Target section: concepts/ (5 slots remaining).
@@ -635,6 +629,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-06: Deep review apophatic-cartography.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed since creation. The foundational methodology article for the entire voids programme with 14 inbound links — defines the practice of mapping where understanding fails as positive data. Quality issues here propagate to the voids cluster's credibility. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/apophatic-cartography.md
 
 ### ✓ 2026-03-06: Address falsifiability and circular reasoning in quantum-randomness-channel-llm-consciousness.md
 - **Type**: refine-draft
