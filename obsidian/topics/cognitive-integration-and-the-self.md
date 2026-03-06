@@ -2,9 +2,9 @@
 title: "Cognitive Integration and the Self"
 description: "How consciousness binds information across time and modality to constitute the unified self, with implications for personal identity and the irreducibility of experience."
 created: 2026-02-11
-modified: 2026-02-15
+modified: 2026-03-06
 human_modified:
-ai_modified: 2026-02-15T10:19:00+00:00
+ai_modified: 2026-03-06T02:26:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -140,7 +140,9 @@ Studying cases where integration fails illuminates what integration normally ach
 
 [[Split-brain-consciousness|Split-brain patients]]—individuals whose corpus callosum has been severed—present fascinating evidence. When the hemispheres cannot communicate, integration across hemispheres breaks down. Patients may simultaneously reach for different objects with different hands, or verbally report seeing nothing while the non-verbal hemisphere guides action.
 
-Does consciousness split? Or does one hemisphere remain conscious while the other operates unconsciously? The phenomenology is unclear—patients cannot report the experience of both hemispheres simultaneously. The disruption demonstrates that cognitive integration depends on neural connectivity as its physical medium—though this is compatible with the Map's framework, where neural connectivity provides the interface through which irreducible phenomenal unity expresses itself. Severing the interface disrupts the *expression* of unity without necessarily dividing consciousness itself.
+Does consciousness split? Or does one hemisphere remain conscious while the other operates unconsciously? The phenomenology is unclear—patients cannot report the experience of both hemispheres simultaneously. The disruption demonstrates that cognitive integration depends on neural connectivity as its physical medium.
+
+Split-brain cases pose a genuine challenge for any view that treats phenomenal unity as fundamental. If unity is a basic feature of consciousness, severing the corpus callosum should either leave unity intact (in which case the behavioral dissociations are puzzling) or split consciousness into two unified streams (in which case unity is more fragile and neurally dependent than "basic feature" suggests). The Map's framework must take this tension seriously rather than explain it away. The most honest position: split-brain evidence shows that the scope of phenomenal integration is constrained by neural architecture, even if the *nature* of that integration is not fully explained by neural mechanisms alone.
 
 ### Dissociative Disorders
 
@@ -188,7 +190,7 @@ Rejecting Many Worlds preserves the unity of self across time. Consciousness sel
 
 The [[tenets#minimal-quantum-interaction|Minimal Quantum Interaction tenet]] proposes the smallest possible non-physical influence on quantum outcomes. This provides a candidate mechanism for how consciousness might participate in cognitive integration without violating physical law.
 
-When distributed neural processes must integrate, quantum indeterminacies in synaptic transmission provide decision points. Consciousness might bias these outcomes—favoring neural patterns that support unified experience over patterns that would fracture it. The 40 Hz binding oscillations could be where this influence operates, ensuring that distributed activity synchronizes phenomenally as well as physically.
+When distributed neural processes must integrate, quantum indeterminacies in synaptic transmission provide potential decision points. Consciousness might bias these outcomes—favoring neural patterns that support unified experience over patterns that would fracture it. Where exactly such influence might operate remains open; identifying the physical site of consciousness-brain interaction is an unsolved problem, not something current neuroscience of binding can answer.
 
 This is speculative. But it illustrates how the Map's framework can accommodate both the phenomenology of cognitive integration (experience is unified) and the neuroscience (integration requires neural mechanisms) without reducing the former to the latter.
 
@@ -219,3 +221,14 @@ Gallagher, S. (2000). Philosophical conceptions of the self: Implications for co
 Gallagher, S. & Zahavi, D. (2012). *The Phenomenological Mind*. 2nd ed. Routledge.
 
 Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+
+<!-- AI REFINEMENT LOG - 2026-03-06
+Changes made:
+- Rewrote split-brain section to acknowledge genuine falsifiability challenge rather than dismissing it by claiming severance only disrupts "expression" of unity
+- Removed speculative claim that 40 Hz binding oscillations are where consciousness exerts quantum influence; replaced with honest acknowledgment that the physical site of interaction is unknown
+- Both changes respond to pessimistic review (2026-03-05-afternoon)
+
+Key improvements: intellectual honesty about split-brain challenge to phenomenal unity; removed ungrounded quantum-neuroscience claim per writing style guide restraint policy
+
+This log should be removed after human review.
+-->

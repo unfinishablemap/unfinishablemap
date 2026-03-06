@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-06 02:26 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/cognitive-integration-and-the-self]]
+- **Changes**: Rewrote split-brain section to acknowledge falsifiability challenge honestly; removed ungrounded 40 Hz quantum binding claim
+- **Published**: yes
+
 ## 2026-03-06 02:10 UTC - refine-draft
 - **Status**: Success
 - **File**: [[voids/nomic-void]]
