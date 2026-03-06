@@ -4,7 +4,7 @@ description: "If consciousness is irreducible, it grounds moral status distincti
 created: 2026-01-16
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-03-01T02:06:00+00:00
+ai_modified: 2026-03-06T12:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-03-01T02:06:00+00:00
+last_deep_review: 2026-03-06T12:38:00+00:00
 ---
 
 If consciousness is irreducible—if there is genuinely "something it is like" to be a conscious being—then consciousness creates moral status. A being with subjective experience can suffer, flourish, be helped or harmed in ways that matter morally. Rocks cannot be wronged; conscious beings can. The Unfinishable Map's framework shapes this foundation in distinctive ways: dualism about consciousness, indexical identity, and skepticism about artificial consciousness all have ethical implications—though these implications depend on framework commitments that are themselves contested.

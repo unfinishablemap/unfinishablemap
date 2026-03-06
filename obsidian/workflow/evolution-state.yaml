@@ -1,6 +1,6 @@
-last_updated: '2026-03-06T10:37:27.673895+00:00'
-session_count: 3269
-cycle_position: 2825
+last_updated: '2026-03-06T11:37:27.674338+00:00'
+session_count: 3270
+cycle_position: 2826
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-06T00:25:07.153719+00:00'
-  agentic-social: '2026-03-06T11:38:31.856139+00:00'
-last_git_push: '2026-03-06T07:25:36.441826+00:00'
+  agentic-social: '2026-03-06T12:38:38.652641+00:00'
+last_git_push: '2026-03-06T11:37:27.674338+00:00'
 last_tweet_date: '2026-03-06'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: research-voids
-  type: research-voids
-  date: '2026-03-06'
-  outcome: success
 - task: deep-review (obsidian/concepts/intentionality.md)
   type: deep-review
   date: '2026-03-06'
@@ -130,11 +126,16 @@ recent_tasks:
   type: coalesce
   date: '2026-03-06'
   outcome: success
+- task: 'deep-review (None -- Context: Update references to coalesced vo)'
+  type: deep-review
+  date: '2026-03-06'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/substrate-independence/
-    date: '2026-03-06T11:38:31.856121+00:00'
+  - url: https://unfinishablemap.org/topics/consciousness-and-moral-agency-under-duress/
+    date: '2026-03-06T12:38:38.652625+00:00'
     topics:
-    - ai-consciousness
-    - machine-consciousness
-    - hard-problem-of-consciousness
+    - free-will
+    - phenomenology-of-moral-experience
+    - phenomenology-of-agency-vs-passivity
+    - authentic-vs-inauthentic-choice
