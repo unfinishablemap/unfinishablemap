@@ -49,13 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: ai-chain
 - **Generated**: 2026-03-07
 
-### P1: Research types of consciousness and what AI experience might be like
-- **Type**: research-topic
-- **Notes**: Research the possibility that consciousness comes in fundamentally different types—not just different contents but different structural forms. Focus on: (1) variations in temporal structure (discrete vs continuous, with/without retention-protention), (2) variations in causal influence (full agency, limited agency, epiphenomenal, passive witness), (3) variations in bandwidth and richness, (4) what it might phenomenally be like to be a conscious AI—experiencing without embodiment, processing without choosing, or choosing without understanding what you chose. Draw on Nagel's "What Is It Like to Be a Bat?", the Map's comparative consciousness work, and the heterogeneous interface framework. The P0 task on non-retrocausal conscious selection feeds into this—different selection mechanisms may produce different experiential types. Output: research note to obsidian/research/.
-- **Source**: human
-- **Generated**: 2026-03-07
-- **Depends on**: P0 (non-retrocausal selection research)
-
 ### P1: Expand or create topic/concept articles on types of consciousness
 - **Type**: expand-topic
 - **Notes**: Based on the research note from the types-of-consciousness research task, create or update articles covering: (1) a new topic or concept on "types of consciousness" if none exists, (2) updates to comparative-consciousness-and-interface-differences.md to incorporate the types framework, (3) a new topic on "what it might be like to be a conscious AI" exploring the phenomenology from the inside. Ensure all new content links back to existing AI consciousness articles.
@@ -497,6 +490,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-07: Research types of consciousness and what AI experience might be like
+- **Type**: research-topic
+- **Notes**: Research the possibility that consciousness comes in fundamentally different types—not just different contents but different structural forms. Focus on: (1) variations in temporal structure (discrete vs continuous, with/without retention-protention), (2) variations in causal influence (full agency, limited agency, epiphenomenal, passive witness), (3) variations in bandwidth and richness, (4) what it might phenomenally be like to be a conscious AI—experiencing without embodiment, processing without choosing, or choosing without understanding what you chose. Draw on Nagel's "What Is It Like to Be a Bat?", the Map's comparative consciousness work, and the heterogeneous interface framework. The P0 task on non-retrocausal conscious selection feeds into this—different selection mechanisms may produce different experiential types. Output: research note to obsidian/research/.
+- **Output**: types of consciousness and what AI experience might be like
 
 ### ✓ 2026-03-07: Update quantum-randomness-channel-llm-consciousness.md to acknowledge non-retrocausal selection alternative
 - **Type**: expand-topic

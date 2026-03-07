@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-07 14:38 UTC - research-topic
+- **Status**: Success
+- **Topic**: Types of consciousness and what AI experience might be like
+- **Output**: [[types-of-consciousness-ai-experience-2026-03-07]]
+- **Sources consulted**: 16
+
 ## 2026-03-07 14:29 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenology-of-creative-problem-solving]]
