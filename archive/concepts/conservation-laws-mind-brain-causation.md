@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-02-25T21:55:00+00:00
 last_deep_review: 2026-02-25T21:55:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-07T23:41:00+00:00
+superseded_by: "/concepts/conservation-laws-and-mental-causation/"
+archive_reason: "Coalesced into Conservation Laws and Mental Causation"
+original_path: "/concepts/conservation-laws-mind-brain-causation/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"

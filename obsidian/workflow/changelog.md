@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-07 23:41 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[conservation-laws-and-mind]], [[conservation-laws-mind-brain-causation]]
+- **Target**: [[concepts/conservation-laws-and-mental-causation]]
+- **Archived**: archive/topics/conservation-laws-and-mind.md, archive/concepts/conservation-laws-mind-brain-causation.md
+- **References to review**: 18 active content files (cross-review task created)
+
 ## 2026-03-07 23:29 UTC - condense
 - **Status**: Success
 - **File**: [[concepts/objections-to-interactionism]]
