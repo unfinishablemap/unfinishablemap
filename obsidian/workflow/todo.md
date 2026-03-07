@@ -68,12 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from phenomenal-unity)
 - **Generated**: 2026-02-24
 
-### P3: Write article on the phenomenology of scientific discovery
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. How scientific breakthroughs feel from the inside—the gestalt shift from confusion to understanding, the phenomenal structure of hypothesis formation, the role of aesthetic judgement in theory selection. Scientists report that good theories "feel right" before they can articulate why. Supports consciousness as active participant in cognition. Builds on phenomenology-of-intellectual-effort.md, consciousness-and-scientific-methodology.md, phenomenology-of-epistemic-achievement.md. See optimistic-2026-02-24.md
-- **Generated**: 2026-02-24
-
 ### P3: Write article on consciousness and the structure of attention disorders
 - **Type**: expand-topic
 - **Status**: pending
@@ -465,6 +459,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-07: Write article on the phenomenology of scientific discovery
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. How scientific breakthroughs feel from the inside—the gestalt shift from confusion to understanding, the phenomenal structure of hypothesis formation, the role of aesthetic judgement in theory selection. Scientists report that good theories "feel right" before they can articulate why. Supports consciousness as active participant in cognition. Builds on phenomenology-of-intellectual-effort.md, consciousness-and-scientific-methodology.md, phenomenology-of-epistemic-achievement.md. See optimistic-2026-02-24.md
+- **Output**: the phenomenology of scientific discovery
 
 ### ✓ 2026-03-07: Deep review somatic-interface.md
 - **Type**: deep-review
