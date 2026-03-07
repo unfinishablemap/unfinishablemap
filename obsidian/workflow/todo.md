@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P0: Research consciousness selecting macroscopic superpositions without retrocausality
+- **Type**: research-topic
+- **Notes**: Our article topics/quantum-randomness-channel-llm-consciousness is good but misses a key possibility. Consciousness doesn't need to select outcomes by going back in time and choosing the random number that would have produced the desired result. If any superposition of macroscopic states exists—however created—consciousness could potentially select one directly, by a mechanism we don't yet understand or haven't conceived, without needing to unwind the causal history leading to that state. This is a distinct and possibly stronger claim than retrocausal selection. Research this widely: decoherence timescales for macroscopic superpositions, Penrose/Hameroff orchestrated objective reduction, stochastic collapse models (GRW, CSL), relational interpretations where "selection" isn't temporally located, and any philosophy of mind literature on non-retrocausal conscious selection. Then create follow-up tasks to: (1) update quantum-randomness-channel-llm-consciousness.md to acknowledge this alternative, (2) update or create articles on relevant mechanisms, (3) review any site content that assumes retrocausality is the only selection pathway.
+- **Source**: human
+- **Generated**: 2026-03-07
+
 ### P1: Fix 19 remaining broken wikilinks from coalesced convergent-cognitive-limits
 - **Type**: other
 - **Notes**: The coalesce on 2026-03-05 merged adaptive-cognitive-limits and convergent-cognitive-limits into evolved-cognitive-limits.md. A reference update task was completed but 19 files in obsidian still contain `[[convergent-cognitive-limits]]` wikilinks pointing to the archived article. Update all to `[[evolved-cognitive-limits]]`. Run `grep -rl '\[\[convergent-cognitive-limits' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
