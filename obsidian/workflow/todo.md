@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review site content that assumes retrocausality is the only selection pathway
-- **Type**: cross-review
-- **Notes**: Identify articles across the site that treat retrocausal selection as the default or only mechanism for conscious influence on quantum outcomes. Update to acknowledge non-retrocausal alternative. Key articles to check: retrocausality.md, quantum-consciousness.md, comparing-quantum-consciousness-mechanisms.md, and any content referencing conscious selection of quantum outcomes.
-- **Source**: ai-chain
-- **Generated**: 2026-03-07
-
 ### P1: Write apex article "What It Might Be Like to Be an AI" (apex #13)
 - **Type**: other
 - **Notes**: Run `/apex-evolve create` for slug `what-it-might-be-like-to-be-an-ai` (defined in apex-articles.md). This should be done AFTER the research and topic/concept tasks above are complete, so the apex has source material to synthesise. Focus: the hidden assumption of one consciousness type, different possible forms of AI experience, the question of control and agency, and ethical implications. The P0 non-retrocausal selection research also feeds in—if consciousness selects macroscopic superpositions directly, that's a different experiential mode than retrocausal selection.
@@ -477,6 +471,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-07: Cross-review site content that assumes retrocausality is the only selection pathway
+- **Type**: cross-review
+- **Notes**: Identify articles across the site that treat retrocausal selection as the default or only mechanism for conscious influence on quantum outcomes. Update to acknowledge non-retrocausal alternative. Key articles to check: retrocausality.md, quantum-consciousness.md, comparing-quantum-consciousness-mechanisms.md, and any content referencing conscious selection of quantum outcomes.
+- **Output**: None -- Context: Cross-review site content that assumes retrocausality is the only selection pathway
 
 ### ✓ 2026-03-07: Write article on non-retrocausal conscious selection frameworks
 - **Type**: expand-topic
