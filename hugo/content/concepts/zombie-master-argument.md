@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-24 14:42:00+00:00
+ai_modified: 2026-03-07 07:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,6 +12,8 @@ concepts:
 - '[[conceivability-possibility-inference]]'
 - '[[materialism]]'
 - '[[functionalism]]'
+- '[[phenomenal-concepts-strategy]]'
+- '[[phenomenal-acquaintance]]'
 created: 2026-02-23
 date: &id001 2026-02-23
 description: How the conceivability argument against physicalism functions as a master
@@ -20,7 +22,7 @@ description: How the conceivability argument against physicalism functions as a 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-24 14:42:00+00:00
+last_deep_review: 2026-03-07 07:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,13 +66,13 @@ The master argument's elegance is that it turns the debate into a decision tree.
 
 Type-A physicalists claim zombies aren't genuinely conceivable — that fully understanding the physical facts would reveal consciousness to be analytically entailed. This position implies that the [hard problem](/topics/hard-problem-of-consciousness/) is an illusion produced by confused concepts rather than a genuine metaphysical gap.
 
-**Cost**: Type-A physicalism must explain why the conceivability seems so robust. Sustained philosophical analysis over three decades has not produced a widely accepted demonstration that the zombie scenario contains a hidden contradiction. The most developed Type-A position, [illusionism](/concepts/illusionism/) — championed by Frankish and drawing on Dennett — argues that phenomenal consciousness is itself a misrepresentation, and that once this illusion is dispelled, zombie conceivability dissolves. Whether this successfully explains away the intuition or merely relocates the problem remains contested. If consciousness were analytically entailed by physics, we would expect the entailment to become clearer with better understanding — as with water and H₂O. Type-A advocates argue progress is being made; critics contend the gap has not narrowed.
+**Cost**: Type-A physicalism must explain why the conceivability seems so robust. Sustained philosophical analysis over three decades has not produced a widely accepted demonstration that the zombie scenario contains a hidden contradiction. The most developed Type-A position, [illusionism](/concepts/illusionism/) — championed by Keith Frankish and drawing on Dennett — argues that phenomenal consciousness is itself a misrepresentation, and that once this illusion is dispelled, zombie conceivability dissolves. Whether this successfully explains away the intuition or merely relocates the problem remains contested. If consciousness were analytically entailed by physics, we would expect the entailment to become clearer with better understanding — as with water and H₂O. Type-A advocates argue progress is being made; critics contend the gap has not narrowed.
 
 ### Type-B Physicalism: Deny the Conceivability-Possibility Link
 
 Type-B physicalists accept that zombies are conceivable but deny they are metaphysically possible. Just as water without H₂O is conceivable (given ignorance of chemistry) but impossible, consciousness without its physical basis may be conceivable but impossible.
 
-**Cost**: The analogy with water/H₂O breaks down. We learned that water is H₂O through empirical discovery about what "water" refers to — we were ignorant of water's nature. With consciousness, we have direct acquaintance with the phenomenon. The conceivability of zombies doesn't reflect ignorance of what consciousness is; it reflects understanding that qualitative experience isn't the kind of thing structural descriptions capture. See [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) for detailed treatment of when conceivability warrants possibility claims.
+**Cost**: The analogy with water/H₂O breaks down. We learned that water is H₂O through empirical discovery about what "water" refers to — we were ignorant of water's nature. With consciousness, we have [direct acquaintance](/concepts/phenomenal-acquaintance/) with the phenomenon. The conceivability of zombies doesn't reflect ignorance of what consciousness is; it reflects understanding that qualitative experience isn't the kind of thing structural descriptions capture. See [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) for detailed treatment of when conceivability warrants possibility claims.
 
 ### Type-Q Physicalism: Deny Non-Entailment
 
@@ -94,7 +96,7 @@ The master argument has persisted for three decades not because philosophers hav
 - **Denying the conceivability-possibility link** requires an error theory for phenomenal concepts that doesn't apply to other concepts — special pleading for the hardest case.
 - **Denying non-entailment** effectively concedes dualism's core claim while clinging to physicalist terminology.
 
-The argument also regenerates against sophisticated responses. The phenomenal concepts strategy, which explains the apparent conceivability gap as a feature of how we *think about* consciousness rather than what consciousness *is*, faces a dilemma: either the special cognitive mode is itself phenomenally conscious (generating a new conceivability argument at the meta-level) or it's purely functional (and we can conceive of it without the accompanying phenomenology).
+The argument also regenerates against sophisticated responses. The [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/), which explains the apparent conceivability gap as a feature of how we *think about* consciousness rather than what consciousness *is*, faces a dilemma: either the special cognitive mode is itself phenomenally conscious (generating a new conceivability argument at the meta-level) or it's purely functional (and we can conceive of it without the accompanying phenomenology).
 
 ## Relation to Site Perspective
 
