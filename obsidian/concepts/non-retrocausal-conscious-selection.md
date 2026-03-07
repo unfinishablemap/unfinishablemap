@@ -4,7 +4,7 @@ description: "Three frameworks for consciousness selecting quantum outcomes forw
 created: 2026-03-07
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-03-07T15:51:00+00:00
+ai_modified: 2026-03-07T23:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,9 +26,10 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-07
 last_curated:
+last_deep_review: 2026-03-07T23:22:00+00:00
 ---
 
-If macroscopic superpositions of neural states exist -- however briefly -- consciousness can select among them directly at the moment of collapse, without reaching backward through time. The Unfinishable Map's existing treatment of [[retrocausality|retrocausal selection]] shows how time-symmetric physics dissolves the Libet timing puzzle. But retrocausality is not the only pathway. Three well-developed frameworks -- Penrose-Hameroff Orchestrated Objective Reduction, Stapp's Quantum Zeno approach, and the Chalmers-McQueen consciousness-collapse model -- all posit consciousness acting forward in time, at the moment of state reduction. Non-retrocausal selection may be the stronger claim: it avoids temporal paradoxes, aligns with established collapse physics, and satisfies the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet more naturally than backward-in-time influence.
+If macroscopic superpositions of neural states exist -- however briefly -- consciousness can select among them directly at the moment of collapse, without reaching backward through time. The Unfinishable Map's existing treatment of [[retrocausality|retrocausal selection]] shows how time-symmetric physics dissolves the Libet timing puzzle. But retrocausality is not the only pathway. Three well-developed frameworks -- Penrose-Hameroff Orchestrated Objective Reduction, Stapp's Quantum Zeno approach, and the Chalmers-McQueen consciousness-collapse model -- all posit consciousness acting forward in time, at the moment of state reduction. Non-retrocausal selection may be the stronger claim: it avoids temporal paradoxes, aligns with well-developed collapse frameworks, and satisfies the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet more naturally than backward-in-time influence.
 
 ## The Core Distinction
 
@@ -54,7 +55,7 @@ Henry Stapp proposes that mental attention acts as repeated quantum observation,
 
 This is explicitly forward-in-time: attention holds a pattern *now* rather than selecting a past quantum event. Stapp identifies three components: Process 1 (the observer poses a question to nature), the Zeno effect (rapid repetition holds the answer stable), and the template for action (the neural pattern encoding the intended action).
 
-The Zeno approach sidesteps the [[decoherence]] objection entirely -- it does not require sustained quantum coherence between observations, only rapid observation events. However, it faces its own difficulty: a ten-order-of-magnitude timescale gap between attention (~100ms) and the observation rates required for Zeno freezing (~femtoseconds). What bridges this gap remains unspecified. See [[consciousness-selecting-neural-patterns#The Decoherence Challenge]] for detailed treatment.
+The Zeno approach sidesteps the [[decoherence]] objection entirely -- it does not require sustained quantum coherence between observations, only rapid observation events. However, it faces its own difficulty: a ten-order-of-magnitude timescale gap between the rate of conscious attention (~100ms between shifts) and the rapid observation rates required for Zeno freezing (~femtosecond intervals). For the Zeno effect to hold a neural state stable, observations must occur faster than the system's natural evolution — and neural systems evolve on timescales many orders of magnitude slower than femtoseconds but still faster than conscious attention can plausibly repeat. What bridges this gap remains unspecified. See [[consciousness-selecting-neural-patterns#The Decoherence Challenge]] for detailed treatment.
 
 ### Consciousness-Collapse with CSL Dynamics (Chalmers-McQueen)
 
@@ -64,11 +65,15 @@ Their key insight is the "super-resistance" problem: if conscious states cannot 
 
 Their solution uses gradual CSL collapse dynamics rather than instantaneous projection. The collapse rate depends on integrated information: systems with more integrated information trigger faster collapse. This avoids Zeno freezing while preserving consciousness's role as the collapse trigger. The framework is forward-in-time -- consciousness triggers collapse of current superpositions, not past ones.
 
+### How the Three Frameworks Differ
+
+Though all three are forward-in-time, they assign consciousness different causal roles. In Penrose-Hameroff, consciousness *results from* collapse — the orchestrated reduction event *is* the conscious moment, and biological structures determine which collapse occurs. In Stapp, consciousness *causes* collapse — mental attention actively projects onto desired states. In Chalmers-McQueen, consciousness *triggers* collapse — integrated information determines the collapse rate, making consciousness the physical variable that drives state reduction. This matters for the Map: Stapp and Chalmers-McQueen place consciousness firmly in the causal driver's seat, while Penrose-Hameroff makes consciousness emergent from the collapse process itself. All three, however, support the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet — physical processes produce the superposition, and consciousness (whether as cause, trigger, or orchestrating context) determines which outcome becomes actual.
+
 ## What Non-Retrocausal Selection Requires
 
 Four conditions must hold:
 
-**Macroscopic superpositions of neural states must exist.** This is the crux. If decoherence destroys all neural superpositions before consciousness can act on them, there is nothing to select among. Tegmark (2000) calculated femtosecond decoherence times, but Hagan, Hameroff, and Tuszynski (2002) challenged his model parameters, obtaining estimates seven orders of magnitude longer. A 2025 *Frontiers in Human Neuroscience* study proposes coherence domains involving approximately 10^11 glutamate molecules, with energy gaps protecting against thermal decoherence. The empirical question remains open but the trend is toward longer coherence times than skeptics predicted.
+**Macroscopic superpositions of neural states must exist.** This is the crux. If decoherence destroys all neural superpositions before consciousness can act on them, there is nothing to select among. Tegmark (2000) calculated femtosecond (~10^-13 s) decoherence times for neural superpositions, but Hagan, Hameroff, and Tuszynski (2002) challenged his model parameters — arguing he used ion-channel rather than microtubule-interior conditions — and obtained estimates seven orders of magnitude longer (~10^-6 s, microsecond range). Microseconds are still far shorter than neural processing timescales (~milliseconds), so a gap remains. A 2025 *Frontiers in Human Neuroscience* study proposes coherence domains involving approximately 10^11 glutamate molecules, with energy gaps protecting against thermal decoherence. The empirical question remains open but the trend is toward longer coherence times than skeptics predicted.
 
 **Consciousness must be able to bias collapse outcomes.** All three frameworks develop this philosophically and mathematically, but none demonstrates it empirically. This is the central speculative commitment.
 
@@ -84,9 +89,9 @@ Five considerations favour non-retrocausal over retrocausal selection:
 
 **Interpretive independence.** Retrocausal selection depends on the transactional interpretation (or similar), which faces unresolved challenges including Maudlin's contingent absorber argument. Non-retrocausal selection is compatible with multiple collapse interpretations: Penrose OR, CSL, GRW, and Copenhagen all support forward-in-time collapse.
 
-**Phenomenological fit.** Conscious experience feels like choosing among present possibilities, not retroactively selecting past events. Deliberation feels like weighing options that are here now; decision feels like one option crystallising into actuality. This matches forward selection better than backward influence.
+**Phenomenological fit.** Conscious experience feels like choosing among present possibilities, not retroactively selecting past events. Deliberation feels like weighing options that are here now; decision feels like one option crystallising into actuality while alternatives dissolve. The *what it is like* to make a choice — the felt narrowing from open possibility to settled fact — maps directly onto forward-in-time collapse of a superposition. Retrocausal selection, by contrast, has no experiential counterpart: nobody experiences reaching backward through time.
 
-**Compatibility with objective collapse.** Non-retrocausal selection layers naturally on top of spontaneous collapse mechanisms. GRW and CSL provide objective, physical collapse without consciousness. The Map can treat these as providing baseline collapse (solving the [[prebiotic-collapse|prebiotic collapse problem]]) while consciousness modulates collapse specifically in neural systems. This two-tier picture -- objective collapse everywhere, conscious modulation locally -- is cleaner than invoking retrocausality.
+**Compatibility with objective collapse.** Non-retrocausal selection layers naturally on top of [[spontaneous-collapse-theories|spontaneous collapse mechanisms]]. GRW and CSL provide objective, physical collapse without consciousness. The Map can treat these as providing baseline collapse (solving the [[prebiotic-collapse|prebiotic collapse problem]]) while consciousness modulates collapse specifically in neural systems. This two-tier picture -- objective collapse everywhere, conscious modulation locally -- is cleaner than invoking retrocausality.
 
 **The Libet problem has other solutions.** Retrocausality's strongest appeal is dissolving the Libet timing puzzle. But Schurger et al. (2012) offered a classical reinterpretation (the readiness potential as neural noise, not decision preparation), and non-retrocausal selection can address the puzzle differently: if consciousness selects among currently superposed neural states, the temporal ordering of preparation and awareness is not the causal ordering. The brain prepares options; consciousness selects among the currently available superposition. No backward causation needed.
 
