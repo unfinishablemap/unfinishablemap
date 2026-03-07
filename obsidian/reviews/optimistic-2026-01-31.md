@@ -39,7 +39,7 @@ The Map centers first-person experience throughout while avoiding mere subjectiv
 
 The [[first-person-third-person-methodology]] article articulates why the methodological divide reflects genuine ontological distinction. The three-approach framework (heterophenomenology, neurophenomenology, second-person) is clearly presented, with proper critique of Dennett's pretense of neutrality. The point that heterophenomenology's "methodological neutrality" functions as ontological commitment is well made.
 
-The [[contemplative-evidence-for-consciousness-theories]] article treats first-person phenomenology as genuine data—not merely epiphenomenal reports but evidence that can discriminate between theories. The jhana neuroscience findings and cessation state evidence provide empirical traction for first-person claims.
+The [[contemplative-evidence-for-consciousness]] article treats first-person phenomenology as genuine data—not merely epiphenomenal reports but evidence that can discriminate between theories. The jhana neuroscience findings and cessation state evidence provide empirical traction for first-person claims.
 
 ### The Process Philosopher (Whitehead)
 
@@ -139,7 +139,7 @@ The [[ai-as-void-explorer]] article innovatively proposes using AI's different c
 - **Tenet alignment**: Supports Bidirectional Interaction through measurable performance effects
 
 #### Jhana States and Consciousness Modes
-- **Builds on**: [[neurophenomenology]], [[contemplative-evidence-for-consciousness-theories]]
+- **Builds on**: [[neurophenomenology]], [[contemplative-evidence-for-consciousness]]
 - **Would address**: 7-Tesla fMRI findings on experienced meditators deserve detailed treatment
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Provides evidence for consciousness states beyond normal waking
@@ -163,7 +163,7 @@ The [[ai-as-void-explorer]] article innovatively proposes using AI's different c
 
 | From | To | Reason |
 |------|-----|--------|
-| [[topics/free-will]] | [[contemplative-evidence-for-consciousness-theories]] | Meditation reveals capacity to refrain from selection |
+| [[topics/free-will]] | [[contemplative-evidence-for-consciousness]] | Meditation reveals capacity to refrain from selection |
 | [[machine-consciousness]] | [[baseline-cognition]] | Consciousness as amplifier of baseline capacities |
 | [[consciousness-and-mathematical-understanding]] | [[language-recursion-and-consciousness]] | Both involve non-decomposable understanding |
 | [[personal-identity]] | [[vertiginous-question]] | Both concerned with irreducible indexicality |

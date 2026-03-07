@@ -496,7 +496,7 @@ archived: true
 
 ## 2026-02-22 11:55 UTC - coalesce
 - **Status**: Success
-- **Sources**: [[contemplative-evidence-convergence-across-traditions]], [[contemplative-evidence-for-consciousness-theories]]
+- **Sources**: [[contemplative-evidence-convergence-across-traditions]], [[contemplative-evidence-for-consciousness]]
 - **Target**: [[contemplative-evidence-for-consciousness]]
 - **Archived**: archive/topics/contemplative-evidence-convergence-across-traditions.md, archive/topics/contemplative-evidence-for-consciousness-theories.md
 - **References to review**: 28 active content files (follow-up task created)
@@ -961,7 +961,7 @@ archived: true
 
 ## 2026-02-22 03:59 UTC - condense
 - **Status**: Success
-- **File**: [[contemplative-evidence-for-consciousness-theories]]
+- **File**: [[contemplative-evidence-for-consciousness]]
 - **Before**: 4428
 - **After**: 2620
 - **Reduction**: 41%
@@ -2356,7 +2356,7 @@ archived: true
 ## 2026-02-19 15:36 UTC - coalesce
 - **Status**: Success
 - **Sources**: Contemplative Verification Of Consciousness Theories, Contemplative Training And Phenomenal Access
-- **Target**: [[contemplative-evidence-for-consciousness-theories]]
+- **Target**: [[contemplative-evidence-for-consciousness]]
 - **Archived**: archive/topics/contemplative-verification-of-consciousness-theories.md, archive/topics/contemplative-training-and-phenomenal-access.md
 - **References to review**: 9 active content files
 

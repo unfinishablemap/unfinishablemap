@@ -26,7 +26,7 @@ last_curated: null
 1. **Wrong journal attribution**: Body text (line 148) and reference cited a quote from Georgiev (2024) as appearing in *Neuroscience of Consciousness* — the paper was actually published in *Life* (MDPI). PMC10817314 confirmed as Georgiev, D.D. (2024). "Evolution of Consciousness." *Life*, 14(1), 48.
    - **Resolution**: Corrected journal name in body text and reference entry. Added author name to reference.
 
-2. **Broken wikilink**: `[[contemplative-evidence-for-consciousness-theories]]` appeared in two locations (body text and Further Reading). The article was coalesced into `[[contemplative-evidence-for-consciousness]]` on 2026-02-22.
+2. **Broken wikilink**: `[[contemplative-evidence-for-consciousness]]` appeared in two locations (body text and Further Reading). The article was coalesced into `[[contemplative-evidence-for-consciousness]]` on 2026-02-22.
    - **Resolution**: Updated both wikilinks to point to the correct article.
 
 ### Medium Issues Found

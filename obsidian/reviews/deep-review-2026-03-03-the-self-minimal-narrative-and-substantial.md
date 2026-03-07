@@ -69,7 +69,7 @@ None. All attributions verified as accurate (Gallagher/Zahavi, Schechtman/Ricoeu
 
 ### Cross-links Added
 
-- [[contemplative-evidence-for-consciousness-theories]] — in the new paragraph on substantial self persistence
+- [[contemplative-evidence-for-consciousness]] — in the new paragraph on substantial self persistence
 
 ## Attribution Accuracy
 

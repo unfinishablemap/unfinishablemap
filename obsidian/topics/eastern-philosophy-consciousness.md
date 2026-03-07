@@ -178,7 +178,7 @@ Eastern philosophy illuminates all five of the Map's [[tenets]], while raising p
 - [[dream-consciousness]] — Dreams, lucid dreaming, and Tibetan dream yoga
 - [[neurophenomenology]] — The scientific research program bridging contemplative traditions and neuroscience
 - [[contemplative-neuroscience]] — How meditation research bridges first-person phenomenology and third-person neuroscience
-- [[contemplative-evidence-for-consciousness-theories]] — First-person data as empirical test
+- [[contemplative-evidence-for-consciousness]] — First-person data as empirical test
 - [[contemplative-path]] — Apex article synthesizing contemplative traditions
 - [[process-philosophy]] — Whitehead's framework and Buddhist parallels
 - [[self-and-consciousness]] — Minimal self vs. narrative self

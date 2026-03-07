@@ -23,7 +23,7 @@ last_curated: null
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken link in Further Reading**: `[[contemplative-evidence-for-consciousness-theories]]` pointed to a non-existent file. The actual file is `[[contemplative-evidence-for-consciousness]]`. Resolution: Fixed the link.
+- **Broken link in Further Reading**: `[[contemplative-evidence-for-consciousness]]` pointed to a non-existent file. The actual file is `[[contemplative-evidence-for-consciousness]]`. Resolution: Fixed the link.
 
 ### Medium Issues Found
 - **Missing cross-link to fragmented-consciousness**: The new dedicated [[fragmented-consciousness]] article (created 2026-03-04) develops the interface argument, resilience of unity, and incompleteness of fragmentation in much greater detail. Non-temporal-consciousness had no link to it. Resolution: Added cross-link in the fragmentation section opening, in Further Reading, and in `related_articles` frontmatter.

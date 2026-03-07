@@ -25,7 +25,7 @@ concepts:
   - "[[altered-states-of-consciousness]]"
 related_articles:
   - "[[tenets]]"
-  - "[[contemplative-evidence-for-consciousness-theories]]"
+  - "[[contemplative-evidence-for-consciousness]]"
   - "[[phenomenology-of-epistemic-judgment]]"
   - "[[epistemological-limits-occams-razor]]"
 ai_contribution: 100
@@ -174,7 +174,7 @@ Phenomenological evidence provides the data that any adequate theory of consciou
 - [[introspection]] — The reliability debate and trained first-person methods
 - [[heterophenomenology]] — The third-person alternative approach
 - [[intersubjectivity]] — How first-person evidence achieves intersubjective validation
-- [[contemplative-evidence-for-consciousness-theories]] — How meditation findings bear on consciousness debates
+- [[contemplative-evidence-for-consciousness]] — How meditation findings bear on consciousness debates
 - [[phenomenology-of-epistemic-judgment]] — The experience of evaluating evidence phenomenologically
 - [[first-person-third-person-methodology]] — The broader methodological divide in consciousness science
 - [[explanatory-gap]] — Why third-person evidence alone cannot explain consciousness

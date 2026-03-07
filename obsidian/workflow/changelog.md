@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-07 22:51 UTC - refine-draft
+- **Status**: Success
+- **File**: Fix broken wikilinks: contemplative-evidence-for-consciousness-theories → contemplative-evidence-for-consciousness
+- **Changes**: Updated 51 files containing incorrect `[[contemplative-evidence-for-consciousness-theories]]` wikilinks to `[[contemplative-evidence-for-consciousness]]`
+- **Published**: yes
+
 ## 2026-03-07 22:43 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenology-of-scientific-discovery]]

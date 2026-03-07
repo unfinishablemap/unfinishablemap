@@ -1046,7 +1046,7 @@ archived: true
 
 ## 2026-02-05 18:55 UTC - deep-review
 - **Status**: Success
-- **File**: [[contemplative-evidence-for-consciousness-theories]]
+- **File**: [[contemplative-evidence-for-consciousness]]
 - **Word count**: 2471 → 2609 (+138)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3 (witness-dissolution acknowledgment, cessation phrasing fix, filter theory hedging)

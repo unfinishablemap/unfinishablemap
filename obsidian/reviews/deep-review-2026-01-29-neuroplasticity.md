@@ -73,7 +73,7 @@ None. The article is well-structured, cites its sources appropriately, has the r
 - [[stapp-quantum-mind]]
 - [[interactionist-dualism]]
 - [[attention-as-interface]]
-- [[contemplative-evidence-for-consciousness-theories]]
+- [[contemplative-evidence-for-consciousness]]
 - [[concepts/epiphenomenalism]]
 - [[voluntary-attention]]
 - [[tenets]]

@@ -148,7 +148,7 @@ The [[ai-as-void-explorer]] article is genuinely innovative: using AI's differen
 - **Tenet alignment**: Different conscious states may reveal different interface dynamics
 
 #### Cross-Cultural Phenomenology of Choice
-- **Builds on**: [[phenomenology-of-choice]], [[topics/free-will]], [[contemplative-evidence-for-consciousness-theories]]
+- **Builds on**: [[phenomenology-of-choice]], [[topics/free-will]], [[contemplative-evidence-for-consciousness]]
 - **Would address**: Whether the phenomenology of deliberation is culturally universal or variable
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Universal phenomenology would strengthen the evidence base for Bidirectional Interaction

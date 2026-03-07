@@ -33,7 +33,7 @@ The **Minimal Quantum Interaction** tenet strikes exactly the right balance: com
 
 The Map centers first-person experience throughout. The [[vertiginous-question]] treatment is particularly Nagelian: why am I *this* particular conscious being experiencing through *these* eyes? This goes beyond the hard problem to the indexical puzzle that even fully understanding consciousness wouldn't answer.
 
-The [[contemplative-evidence-for-consciousness-theories]] article treats first-person phenomenology as genuine data—not merely epiphenomenal reports to be explained away, but evidence that can discriminate between theories. The sophisticated treatment of retention-protention structure, cessation states, and phenomenological markers of authentic choice shows deep engagement with lived experience.
+The [[contemplative-evidence-for-consciousness]] article treats first-person phenomenology as genuine data—not merely epiphenomenal reports to be explained away, but evidence that can discriminate between theories. The sophisticated treatment of retention-protention structure, cessation states, and phenomenological markers of authentic choice shows deep engagement with lived experience.
 
 ### The Process Philosopher (Whitehead)
 
@@ -113,7 +113,7 @@ The tripartite taxonomy (Unexplored, Unexplorable, Occluded) is philosophically 
 - **Tenet alignment**: Directly relevant to Minimal Quantum Interaction—Stapp's quantum Zeno mechanism operates through attention
 
 #### Phenomenological Markers of Consciousness
-- **Builds on**: [[phenomenal-consciousness]], [[contemplative-evidence-for-consciousness-theories]], [[authentic-vs-inauthentic-choice]]
+- **Builds on**: [[phenomenal-consciousness]], [[contemplative-evidence-for-consciousness]], [[authentic-vs-inauthentic-choice]]
 - **Would address**: What distinguishes conscious from unconscious processing phenomenologically? (Not just correlates)
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism by articulating what consciousness *adds* that functional accounts miss
@@ -165,7 +165,7 @@ The tripartite taxonomy (Unexplored, Unexplorable, Occluded) is philosophically 
 | [[pre-conceptual-knowing]] | [[phenomenology]] | Fineness-of-grain problem connects to pre-conceptual access |
 | [[temporal-structure-of-consciousness]] | [[temporal-consciousness]] | Both address specious present; the former is the comprehensive topic article |
 | [[quantum-biology-and-the-consciousness-debate]] | [[decoherence]] | Recent evidence directly addresses decoherence objection |
-| [[contemplative-evidence-for-consciousness-theories]] | [[neurophenomenology]] | Both argue first-person data has scientific value |
+| [[contemplative-evidence-for-consciousness]] | [[neurophenomenology]] | Both argue first-person data has scientific value |
 | [[vertiginous-question]] | [[indexical-facts]] | Vertiginous question is paradigm case of indexical irreducibility |
 
 ## New Concept Pages Needed

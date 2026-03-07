@@ -113,7 +113,7 @@ Bergson's philosophy, eclipsed for decades by analytic philosophy and phenomenol
 
 **Process ontology.** The growing interest in process metaphysics—partly through Whitehead, partly through developments in physics—has rehabilitated Bergson's core claim that becoming is more fundamental than being.
 
-**Contemplative corroboration.** [[contemplative-evidence-for-consciousness-theories|Contemplative traditions]] report systematic variation in temporal phenomenology. In Theravada vipassana, practitioners describe accelerated arising-passing of mental events during insight stages; in deep concentration (*jhāna*), temporal flow appears to slow or suspend entirely. These [[contemplative-epistemology|reproducible phenomenological observations]] align with Bergson's claim that duration has internal structure accessible to trained attention, and they resist purely neural explanation since the same brain can produce radically different temporal experiences depending on attentional stance.
+**Contemplative corroboration.** [[contemplative-evidence-for-consciousness|Contemplative traditions]] report systematic variation in temporal phenomenology. In Theravada vipassana, practitioners describe accelerated arising-passing of mental events during insight stages; in deep concentration (*jhāna*), temporal flow appears to slow or suspend entirely. These [[contemplative-epistemology|reproducible phenomenological observations]] align with Bergson's claim that duration has internal structure accessible to trained attention, and they resist purely neural explanation since the same brain can produce radically different temporal experiences depending on attentional stance.
 
 ## Relation to Site Perspective
 

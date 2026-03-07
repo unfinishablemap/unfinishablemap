@@ -29,7 +29,7 @@ related_articles:
   - "[[eastern-philosophy-consciousness]]"
   - "[[identity-across-transformations]]"
   - "[[death-and-consciousness]]"
-  - "[[contemplative-evidence-for-consciousness-theories]]"
+  - "[[contemplative-evidence-for-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -122,7 +122,7 @@ Phenomenological psychiatry provides clinical confirmation of this layered struc
 
 A deeper Buddhist objection presses further. Mādhyamaka philosophy applies *śūnyatā* (emptiness) to all phenomena, including witness-awareness itself. On this view, even the witness is dependently arising, not a findable entity under ultimate analysis. The Map acknowledges this challenge but distinguishes between conceptual findability and ontological reality. The substantial self need not be findable by introspection—as the next section argues, its unobservability is a structural feature, not evidence of absence.
 
-A related challenge comes from [[phenomenological-psychiatry-and-altered-experience|phenomenological psychiatry]]. If the minimal self is the substantial self's "phenomenological disclosure," and the minimal self can erode—as in schizophrenia's ipseity disturbance—does the substantial self erode too? The Map's answer: disruption of the minimal self alters how the substantial self *appears to itself*, not whether it exists. Consciousness persists through ipseity disturbance; it becomes strange and attenuated rather than vanishing. The substantial self's window onto itself can be smudged, cracked, or distorted without the glass disappearing. This is precisely what [[contemplative-evidence-for-consciousness-theories|contemplative traditions]] and clinical evidence jointly suggest: the subject endures through radical alteration of how it experiences its own subjectivity.
+A related challenge comes from [[phenomenological-psychiatry-and-altered-experience|phenomenological psychiatry]]. If the minimal self is the substantial self's "phenomenological disclosure," and the minimal self can erode—as in schizophrenia's ipseity disturbance—does the substantial self erode too? The Map's answer: disruption of the minimal self alters how the substantial self *appears to itself*, not whether it exists. Consciousness persists through ipseity disturbance; it becomes strange and attenuated rather than vanishing. The substantial self's window onto itself can be smudged, cracked, or distorted without the glass disappearing. This is precisely what [[contemplative-evidence-for-consciousness|contemplative traditions]] and clinical evidence jointly suggest: the subject endures through radical alteration of how it experiences its own subjectivity.
 
 ## The Unobservable Self Complication
 

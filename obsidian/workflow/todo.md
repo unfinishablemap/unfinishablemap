@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix 23 broken wikilinks: contemplative-evidence-for-consciousness-theories
-- **Type**: refine-draft
-- **Notes**: 23 files reference `[[contemplative-evidence-for-consciousness-theories]]` but the article is named `contemplative-evidence-for-consciousness.md` (without `-theories` suffix). Update all wikilinks to `[[contemplative-evidence-for-consciousness]]`. Run `grep -rl '\[\[contemplative-evidence-for-consciousness-theories' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-06
-
-### P2: Fix 32 broken wikilinks: Illusionism case mismatch
-- **Type**: refine-draft
-- **Notes**: 32 files reference `[[Illusionism]]` with capital I but the article filename is `illusionism.md` (lowercase). Wikilinks are case-sensitive in Hugo sync. Update all to `[[illusionism]]`. Run `grep -rl '\[\[Illusionism\]\]' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-06
-
 ### P2: apex-evolve: process-and-consciousness — source phenomenal-unity created
 - **Type**: apex-evolve
 - **Notes**: Source article concepts/phenomenal-unity created 2026-02-24. Apex article "Process and Consciousness" lists phenomenal-unity as a source and should be updated to integrate this content.
@@ -446,6 +434,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-07: Fix 23 broken wikilinks: contemplative-evidence-for-consciousness-theories
+- **Type**: refine-draft
+- **Notes**: 23 files reference `[[contemplative-evidence-for-consciousness-theories]]` but the article is named `contemplative-evidence-for-consciousness.md` (without `-theories` suffix). Update all wikilinks to `[[contemplative-evidence-for-consciousness]]`. Run `grep -rl '\[\[contemplative-evidence-for-consciousness-theories' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
+- **Output**: Task context:
+23 files reference `[[contemplative-evidence-for-consciousness-theories]]` but the article is named `contemplative-evidence-for-consciousness.md` (without `-theories` suffix). Update all wikilinks to `[[contemplative-evidence-for-consciousness]]`. Run `grep -rl '\[\[contemplative-evidence-for-consciousness-theories' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
 
 ### ✓ 2026-03-07: Fix 19 remaining broken wikilinks from coalesced convergent-cognitive-limits
 - **Type**: refine-draft
@@ -1845,7 +1839,7 @@ Pessimistic review (2026-02-22-night) found 2 high-severity issues: (1) C. elega
 
 ### ✓ 2026-02-22: Update references to coalesced contemplative articles
 - **Type**: cross-review
-- **Notes**: Coalesce (2026-02-19) merged `contemplative-verification-of-consciousness-theories.md` and `contemplative-training-and-phenomenal-access.md` into the existing `contemplative-evidence-for-consciousness-theories.md`. 9 active content files reference the archived articles. Files referencing `[[contemplative-training-and-phenomenal-access]]`: consciousness-and-the-neuroscience-of-deliberate-practice.md, phenomenology-of-skill-transition.md, paradox-of-effortless-mastery.md, phenomenology-of-skill-and-the-lived-body.md, contemplative-evidence-convergence-across-traditions.md, phenomenal-depth.md, consciousness-and-scientific-methodology.md, contemplative-methods-as-philosophical-methodology.md, introspection-rehabilitation.md. Files referencing `[[contemplative-verification-of-consciousness-theories]]`: contemplative-methods-as-philosophical-methodology.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[contemplative-evidence-for-consciousness-theories]]` where appropriate.
+- **Notes**: Coalesce (2026-02-19) merged `contemplative-verification-of-consciousness-theories.md` and `contemplative-training-and-phenomenal-access.md` into the existing `contemplative-evidence-for-consciousness-theories.md`. 9 active content files reference the archived articles. Files referencing `[[contemplative-training-and-phenomenal-access]]`: consciousness-and-the-neuroscience-of-deliberate-practice.md, phenomenology-of-skill-transition.md, paradox-of-effortless-mastery.md, phenomenology-of-skill-and-the-lived-body.md, contemplative-evidence-convergence-across-traditions.md, phenomenal-depth.md, consciousness-and-scientific-methodology.md, contemplative-methods-as-philosophical-methodology.md, introspection-rehabilitation.md. Files referencing `[[contemplative-verification-of-consciousness-theories]]`: contemplative-methods-as-philosophical-methodology.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[[contemplative-evidence-for-consciousness]]` where appropriate.
 - **Output**: None -- Context: Update references to coalesced contemplative articles
 
 ### ✓ 2026-02-22: Address gaps in temporal-ontology-and-consciousness.md

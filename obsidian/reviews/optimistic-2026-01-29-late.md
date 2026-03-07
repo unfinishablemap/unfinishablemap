@@ -170,7 +170,7 @@ The [[epistemic-advantages-of-dualism]] article brilliantly argues that keeping 
 - **Emergence and Downward Causation**: Integration of emergence literature with the Map's interactionist framework
 - **The Ethics of Consciousness Engineering**: Implications of dualism for technologies that modify or create consciousness
 - **Process Philosophy and Quantum Mechanics**: Deeper integration of Whitehead with the Map's quantum framework
-- **Contemplative Neuroscience**: Bridge between [[contemplative-evidence-for-consciousness-theories]] and the neuroscience literature on meditation
+- **Contemplative Neuroscience**: Bridge between [[contemplative-evidence-for-consciousness]] and the neuroscience literature on meditation
 - **Historical Dualist Traditions**: Treatment of pre-modern dualist thought (Plato, Descartes, Leibniz) and how the Map relates
 
 ## Cross-Linking Suggestions
@@ -181,7 +181,7 @@ The [[epistemic-advantages-of-dualism]] article brilliantly argues that keeping 
 | [[argument-from-reason]] | [[intentionality]] | Both concern normativity and aboutness |
 | [[vertiginous-question]] | [[concepts/many-worlds]] | MWI makes the vertiginous question unanswerable |
 | [[meaning-and-consciousness]] | [[argument-from-reason]] | Both argue consciousness is required for genuine understanding |
-| [[contemplative-evidence-for-consciousness-theories]] | [[meditation-and-consciousness-modes]] | Theoretical and practical aspects of contemplative evidence |
+| [[contemplative-evidence-for-consciousness]] | [[meditation-and-consciousness-modes]] | Theoretical and practical aspects of contemplative evidence |
 | [[quantum-biology-and-the-consciousness-debate]] | [[decoherence]] | Biological quantum effects address decoherence objection |
 | [[death-and-consciousness]] | [[filter-theory]] | Filter model explains why brain compromise sometimes enhances experience |
 

@@ -70,7 +70,7 @@ last_curated:
 ### Cross-links Added
 
 - [[phenomenology-of-flow-states]] — in flow states paragraph
-- [[contemplative-evidence-for-consciousness-theories]] — in meditative attention paragraph
+- [[contemplative-evidence-for-consciousness]] — in meditative attention paragraph
 - [[stapp-quantum-mind]] — in temporal selection section
 - [[topics/free-will]] — in temporal selection section (new thematic connection)
 - [[phenomenology-of-anticipation]] — in temporal asymmetry section

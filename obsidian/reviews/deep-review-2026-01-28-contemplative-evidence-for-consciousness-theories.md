@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-28
-**Article**: [[contemplative-evidence-for-consciousness-theories|Contemplative Evidence for Consciousness Theories]]
+**Article**: [[contemplative-evidence-for-consciousness|Contemplative Evidence for Consciousness Theories]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

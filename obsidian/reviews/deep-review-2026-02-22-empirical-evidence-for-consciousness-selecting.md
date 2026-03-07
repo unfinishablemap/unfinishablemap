@@ -79,7 +79,7 @@ No misattributions, dropped qualifiers, or source/Map conflation found. The arti
 - **Contemplative evidence cross-link**: Added parenthetical link at end of neurological section connecting third-person and first-person evidence
 
 ### Cross-links Added
-- [[contemplative-evidence-for-consciousness-theories]] (added inline in neurological section)
+- [[contemplative-evidence-for-consciousness]] (added inline in neurological section)
 - [[concepts/attention-as-interface]] (fixed broken frontmatter link)
 
 ## Remaining Items

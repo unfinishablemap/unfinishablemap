@@ -21,7 +21,7 @@ concepts:
   - "[[bidirectional-interaction]]"
   - "[[contemplative-neuroscience]]"
   - "[[phenomenal-consciousness]]"
-  - "[[contemplative-evidence-for-consciousness-theories]]"
+  - "[[contemplative-evidence-for-consciousness]]"
   - "[[consciousness-and-intelligence]]"
   - "[[llm-consciousness]]"
 related_articles:

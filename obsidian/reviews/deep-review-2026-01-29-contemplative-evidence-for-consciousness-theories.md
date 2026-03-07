@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-29
-**Article**: [[contemplative-evidence-for-consciousness-theories|Contemplative Evidence for Consciousness Theories]]
+**Article**: [[contemplative-evidence-for-consciousness|Contemplative Evidence for Consciousness Theories]]
 **Previous review**: [[deep-review-2026-01-28-contemplative-evidence-for-consciousness-theories|2026-01-28]]
 **Review context**: Cross-review considering new neuroplasticity concept article
 

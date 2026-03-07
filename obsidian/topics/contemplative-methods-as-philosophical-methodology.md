@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[first-person-third-person-methodology]]"
   - "[[consciousness-and-scientific-methodology]]"
-  - "[[contemplative-evidence-for-consciousness-theories]]"
+  - "[[contemplative-evidence-for-consciousness]]"
 concepts:
   - "[[contemplative-epistemology]]"
   - "[[neurophenomenology]]"
@@ -93,7 +93,7 @@ Contemplative methods are powerful but bounded. Understanding their limits is es
 
 Contemplative practice can establish claims about the **structure of experience**: its temporal grain, the relationship between awareness and content, the constructed character of the narrative self, the existence of non-ordinary conscious states, and the trainability of attention. These are structural phenomenological claims—claims about what experience is like when carefully investigated.
 
-Contemplative practice can also provide **evidence bearing on causal claims**: the [[contemplative-evidence-for-consciousness-theories|content-specificity of meditation effects]] demonstrates that phenomenological character tracks neural outcomes, supporting the causal efficacy of consciousness. Thompson (2007) develops this point systematically, showing how the enactive approach to mind integrates first-person contemplative data with biological and phenomenological analysis.
+Contemplative practice can also provide **evidence bearing on causal claims**: the [[contemplative-evidence-for-consciousness|content-specificity of meditation effects]] demonstrates that phenomenological character tracks neural outcomes, supporting the causal efficacy of consciousness. Thompson (2007) develops this point systematically, showing how the enactive approach to mind integrates first-person contemplative data with biological and phenomenological analysis.
 
 ### What Contemplative Methods Cannot Establish
 
@@ -129,7 +129,7 @@ Third, [[neurophenomenology|neurophenomenological]] cross-validation partially a
 
 - [[contemplative-epistemology]] — The epistemological framework justifying contemplative knowledge claims
 - [[contemplative-training-and-phenomenal-access]] — How practice progressively expands access to phenomenal structure
-- [[contemplative-evidence-for-consciousness-theories]] — Contemplative findings as evidence for and against specific theories
+- [[contemplative-evidence-for-consciousness]] — Contemplative findings as evidence for and against specific theories
 - [[contemplative-verification-of-consciousness-theories]] — Can meditation verify philosophical claims? Where it succeeds and fails
 - [[first-person-third-person-methodology]] — The methodological divide between first-person and third-person approaches
 - [[consciousness-and-scientific-methodology]] — How consciousness challenges the scientific method itself
