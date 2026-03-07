@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense objections-to-interactionism.md (3501 words, 100% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3501 words, barely over but should be tightened. Preserve core objections and responses while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-07
-
 ### P2: apex-evolve: process-and-consciousness — source phenomenal-unity created
 - **Type**: apex-evolve
 - **Notes**: Source article concepts/phenomenal-unity created 2026-02-24. Apex article "Process and Consciousness" lists phenomenal-unity as a source and should be updated to integrate this content.
@@ -467,6 +461,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-07: Condense objections-to-interactionism.md (3501 words, 100% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3501 words, barely over but should be tightened. Preserve core objections and responses while removing redundancy. See /condense skill.
+- **Output**: obsidian/concepts/objections-to-interactionism.md
 
 ### ✓ 2026-03-07: Cross-review open-question-ai-consciousness.md considering what-it-might-be-like-to-be-an-ai apex
 - **Type**: cross-review
