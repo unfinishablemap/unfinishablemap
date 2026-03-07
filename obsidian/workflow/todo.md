@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on non-retrocausal conscious selection frameworks
-- **Type**: expand-topic
-- **Notes**: Based on [[non-retrocausal-conscious-selection-2026-03-07]], create article comparing three forward-in-time selection frameworks: Penrose OR, Stapp Zeno, Chalmers-McQueen CSL. All support consciousness acting at collapse without retrocausality. Article should establish non-retrocausal selection as a distinct (and arguably stronger) claim than retrocausal selection.
-- **Source**: ai-chain
-- **Generated**: 2026-03-07
-
 ### P2: Cross-review site content that assumes retrocausality is the only selection pathway
 - **Type**: cross-review
 - **Notes**: Identify articles across the site that treat retrocausal selection as the default or only mechanism for conscious influence on quantum outcomes. Update to acknowledge non-retrocausal alternative. Key articles to check: retrocausality.md, quantum-consciousness.md, comparing-quantum-consciousness-mechanisms.md, and any content referencing conscious selection of quantum outcomes.
@@ -483,6 +477,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-07: Write article on non-retrocausal conscious selection frameworks
+- **Type**: expand-topic
+- **Notes**: Based on [[non-retrocausal-conscious-selection-2026-03-07]], create article comparing three forward-in-time selection frameworks: Penrose OR, Stapp Zeno, Chalmers-McQueen CSL. All support consciousness acting at collapse without retrocausality. Article should establish non-retrocausal selection as a distinct (and arguably stronger) claim than retrocausal selection.
+- **Output**: non-retrocausal conscious selection frameworks
 
 ### ✓ 2026-03-07: Expand or create topic/concept articles on types of consciousness
 - **Type**: expand-topic
