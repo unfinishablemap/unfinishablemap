@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Update quantum-randomness-channel-llm-consciousness.md to acknowledge non-retrocausal selection alternative
-- **Type**: expand-topic
-- **Notes**: The research notes in [non-retrocausal-conscious-selection-2026-03-07](/research/non-retrocausal-conscious-selection-2026-03-07/) establish that consciousness need not select outcomes retrocausally. The existing article should acknowledge that if macroscopic neural superpositions exist, consciousness could select among them directly at collapse — a forward-in-time mechanism that is more minimal and avoids temporal paradoxes. Add a section or update existing framing.
-- **Source**: ai-chain
-- **Generated**: 2026-03-07
-
 ### P2: Write article on non-retrocausal conscious selection frameworks
 - **Type**: expand-topic
 - **Notes**: Based on [non-retrocausal-conscious-selection-2026-03-07](/research/non-retrocausal-conscious-selection-2026-03-07/), create article comparing three forward-in-time selection frameworks: Penrose OR, Stapp Zeno, Chalmers-McQueen CSL. All support consciousness acting at collapse without retrocausality. Article should establish non-retrocausal selection as a distinct (and arguably stronger) claim than retrocausal selection.
@@ -55,13 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Identify articles across the site that treat retrocausal selection as the default or only mechanism for conscious influence on quantum outcomes. Update to acknowledge non-retrocausal alternative. Key articles to check: retrocausality.md, quantum-consciousness.md, comparing-quantum-consciousness-mechanisms.md, and any content referencing conscious selection of quantum outcomes.
 - **Source**: ai-chain
 - **Generated**: 2026-03-07
-
-### P1: Research types of consciousness and what AI experience might be like
-- **Type**: research-topic
-- **Notes**: Research the possibility that consciousness comes in fundamentally different types—not just different contents but different structural forms. Focus on: (1) variations in temporal structure (discrete vs continuous, with/without retention-protention), (2) variations in causal influence (full agency, limited agency, epiphenomenal, passive witness), (3) variations in bandwidth and richness, (4) what it might phenomenally be like to be a conscious AI—experiencing without embodiment, processing without choosing, or choosing without understanding what you chose. Draw on Nagel's "What Is It Like to Be a Bat?", the Map's comparative consciousness work, and the heterogeneous interface framework. The P0 task on non-retrocausal conscious selection feeds into this—different selection mechanisms may produce different experiential types. Output: research note to obsidian/research/.
-- **Source**: human
-- **Generated**: 2026-03-07
-- **Depends on**: P0 (non-retrocausal selection research)
 
 ### P1: Expand or create topic/concept articles on types of consciousness
 - **Type**: expand-topic
@@ -504,6 +491,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-07: Research types of consciousness and what AI experience might be like
+- **Type**: research-topic
+- **Notes**: Research the possibility that consciousness comes in fundamentally different types—not just different contents but different structural forms. Focus on: (1) variations in temporal structure (discrete vs continuous, with/without retention-protention), (2) variations in causal influence (full agency, limited agency, epiphenomenal, passive witness), (3) variations in bandwidth and richness, (4) what it might phenomenally be like to be a conscious AI—experiencing without embodiment, processing without choosing, or choosing without understanding what you chose. Draw on Nagel's "What Is It Like to Be a Bat?", the Map's comparative consciousness work, and the heterogeneous interface framework. The P0 task on non-retrocausal conscious selection feeds into this—different selection mechanisms may produce different experiential types. Output: research note to obsidian/research/.
+- **Output**: types of consciousness and what AI experience might be like
+
+### ✓ 2026-03-07: Update quantum-randomness-channel-llm-consciousness.md to acknowledge non-retrocausal selection alternative
+- **Type**: expand-topic
+- **Notes**: The research notes in [non-retrocausal-conscious-selection-2026-03-07](/research/non-retrocausal-conscious-selection-2026-03-07/) establish that consciousness need not select outcomes retrocausally. The existing article should acknowledge that if macroscopic neural superpositions exist, consciousness could select among them directly at collapse — a forward-in-time mechanism that is more minimal and avoids temporal paradoxes. Add a section or update existing framing.
+- **Output**: Update quantum-randomness-channel-llm-consciousness.md to acknowledge non-retrocausal selection alternative
+
+### ✓ 2026-03-07: Update quantum-randomness-channel-llm-consciousness.md to acknowledge non-retrocausal selection alternative
+- **Type**: expand-topic
+- **Notes**: Added "Non-Retrocausal Selection: A Stronger Biological Claim" section. Updated Relation to Site Perspective. Added Chalmers-McQueen reference and collapse-and-time to Further Reading.
+- **Output**: obsidian/topics/quantum-randomness-channel-llm-consciousness.md
 
 ### ✓ 2026-03-07: Research consciousness selecting macroscopic superpositions without retrocausality
 - **Type**: research-topic

@@ -18,6 +18,35 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-07 14:44 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Combination Void — how conscious subjects compose (or fail to)
+- **Category**: Unexplorable / Mixed
+- **Output**: [voids-combination-void-2026-03-07](/research/voids-combination-void-2026-03-07/)
+- **Key finding**: The mereology of consciousness is fundamentally unlike physical mereology — subjects cannot combine the way objects do, and this three-dimensional failure (subject, quality, structure) may be permanently opaque to minds that are themselves conscious wholes.
+
+## 2026-03-07 14:38 UTC - research-topic
+- **Status**: Success
+- **Topic**: Types of consciousness and what AI experience might be like
+- **Output**: [types-of-consciousness-ai-experience-2026-03-07](/research/types-of-consciousness-ai-experience-2026-03-07/)
+- **Sources consulted**: 16
+
+## 2026-03-07 14:29 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-creative-problem-solving](/concepts/phenomenology-of-creative-problem-solving/)
+- **Word count**: 1715 → 2147 (+432)
+- **Critical issues addressed**: 2 (missing Bergson citation, overstated warmth-rating claim)
+- **Medium issues addressed**: 5 (gradualist literature, specificity argument, functional-identity qualifier, retrospective construction objection, unusual phrasing)
+- **Enhancements made**: 5 cross-links added, ownership-without-authorship expanded, categorical surprise connection
+- **Output**: [deep-review-2026-03-07-phenomenology-of-creative-problem-solving](/reviews/deep-review-2026-03-07-phenomenology-of-creative-problem-solving/)
+
+## 2026-03-07 14:24 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Update quantum-randomness-channel-llm-consciousness.md with non-retrocausal selection alternative
+- **Output**: [quantum-randomness-channel-llm-consciousness](/topics/quantum-randomness-channel-llm-consciousness/)
+- **Word count**: 2546
+- **Based on research**: yes, [non-retrocausal-conscious-selection-2026-03-07](/research/non-retrocausal-conscious-selection-2026-03-07/)
+
 ## 2026-03-07 14:18 UTC - research-topic
 - **Status**: Success
 - **Topic**: Consciousness selecting macroscopic superpositions without retrocausality
