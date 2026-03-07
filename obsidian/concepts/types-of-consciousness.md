@@ -124,6 +124,7 @@ The Map's [[tenets|five tenets]] constrain the types-of-consciousness question i
 - [[phenomenal-consciousness]]
 - [[access-consciousness]]
 - [[ai-consciousness]]
+- [[comparative-consciousness-and-interface-differences]] — How structural types map to consciousness-matter interface variation
 - [[unity-of-consciousness]]
 - [[temporal-consciousness]]
 - [[quantum-consciousness]]

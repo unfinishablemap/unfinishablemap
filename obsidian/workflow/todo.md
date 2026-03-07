@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review comparative-consciousness-and-interface-differences.md considering types-of-consciousness insights
-- **Type**: cross-review
-- **Notes**: New article concepts/types-of-consciousness.md distinguishes phenomenal, access, and monitoring consciousness as structurally different forms. comparative-consciousness-and-interface-differences.md covers cross-species interface variation and should cross-reference the types framework — particularly how different species may instantiate different consciousness types, not just different degrees.
-- **Source**: chain (from types-of-consciousness.md)
-- **Generated**: 2026-03-07
-
 ### P2: Cross-review consciousness-and-scientific-methodology.md considering phenomenology-of-scientific-discovery insights
 - **Type**: cross-review
 - **Notes**: New article concepts/phenomenology-of-scientific-discovery.md details the experiential structure of discovery — anomaly recognition, theory revision, aesthetic judgment in theory selection. consciousness-and-scientific-methodology.md covers the broader methodological relationship and should cross-reference the phenomenological evidence, particularly the felt encounter with nature's resistance as evidence for consciousness doing causal work in science.
@@ -470,6 +464,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-07: Cross-review comparative-consciousness-and-interface-differences.md considering types-of-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/types-of-consciousness.md distinguishes phenomenal, access, and monitoring consciousness as structurally different forms. comparative-consciousness-and-interface-differences.md covers cross-species interface variation and should cross-reference the types framework — particularly how different species may instantiate different consciousness types, not just different degrees.
+- **Output**: obsidian/topics/comparative-consciousness-and-interface-differences.md -- Context: Cross-review comparative-consciousness-and-interface-differences.md considering types-of-consciousness insights
 
 ### ✓ 2026-03-07: Fix 23 broken wikilinks: contemplative-evidence-for-consciousness-theories
 - **Type**: refine-draft

@@ -2,9 +2,9 @@
 title: "Comparative Consciousness and Interface Differences"
 description: "Does the consciousness-matter interface vary across species, states, and types of experience? Exploring interface heterogeneity in a dualist framework."
 created: 2026-02-01
-modified: 2026-02-02
+modified: 2026-03-07
 human_modified: null
-ai_modified: 2026-02-02T06:37:00+00:00
+ai_modified: 2026-03-07T23:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,6 +15,8 @@ concepts:
   - "[[evolution-of-consciousness]]"
   - "[[minimal-consciousness]]"
   - "[[phenomenal-consciousness]]"
+  - "[[access-consciousness]]"
+  - "[[types-of-consciousness]]"
   - "[[attention-as-interface]]"
   - "[[interface-locality]]"
   - "[[neural-correlates-of-consciousness]]"
@@ -27,10 +29,10 @@ related_articles:
   - "[[consciousness-simple-organisms-2026-01-19]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-01
 last_curated: null
-last_deep_review: 2026-02-02T06:37:00+00:00
+last_deep_review: 2026-03-07T23:03:00+00:00
 ---
 
 If consciousness interfaces with matter rather than emerging from it, does the interface vary across different conscious systems? A bat's echolocation-based phenomenology differs radically from human visual experience. An octopus distributes cognition across eight semi-autonomous arms. A meditator in deep absorption reports qualitatively different awareness than during ordinary waking. These differences in consciousness might imply differences in how consciousness couples with physical systems—variation not just in what is experienced but in the mechanism of experiencing itself.
@@ -111,6 +113,12 @@ Anaesthetic unconsciousness provides the clearest case of interface disruption. 
 Different anaesthetics may disrupt consciousness through different mechanisms: some affecting microtubule dynamics, others affecting global information integration, others affecting specific neural correlates. If the interface has multiple components, anaesthesia reveals which components are necessary for consciousness.
 
 ## Type-Specific Interface Differences
+
+### The P/A Distinction and Interface Theory
+
+Block's distinction between [[phenomenal-consciousness|phenomenal consciousness]] (P-consciousness) and [[access-consciousness|access consciousness]] (A-consciousness) has direct implications for interface theory. Access consciousness—information globally available for reasoning and report—is achievable by purely physical systems and need not involve the consciousness-matter interface at all. Phenomenal consciousness is where the interface operates. As [[types-of-consciousness]] develops in detail, the [[types-of-consciousness|structural dimensions of consciousness]]—temporal structure, causal influence, bandwidth, unity—may each correspond to different interface properties rather than being mere content differences.
+
+This reframes the comparative question. Instead of asking only "does this organism have consciousness?" we should ask "which structural type of consciousness does its interface support?"
 
 ### Emotional vs. Cognitive Consciousness
 
@@ -199,6 +207,7 @@ Several findings would constrain the interface heterogeneity question:
 - [[interface-locality]] — Why consciousness selects only within its own brain
 
 ### Types of Consciousness
+- [[types-of-consciousness]] — Structural taxonomy: phenomenal, access, monitoring, and dissociable features
 - [[emotional-consciousness]] — Valence and the Panksepp-LeDoux debate
 - [[altered-states-of-consciousness]] — Meditation, psychedelics, sleep
 - [[minimal-consciousness]] — The lower bound of phenomenal experience
