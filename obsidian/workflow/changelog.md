@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-07 14:50 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Types of Consciousness
+- **Output**: [[concepts/types-of-consciousness]]
+- **Word count**: 1491
+- **Based on research**: yes, [[types-of-consciousness-ai-experience-2026-03-07]]
+- **Note**: Placed in concepts/ because topics/ is at cap (200/200). Covers Block's P/A distinction, Schwitzgebel's ten features, structural dimensions of variation, and speculative AI phenomenology models.
+
 ## 2026-03-07 14:44 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Combination Void — how conscious subjects compose (or fail to)
