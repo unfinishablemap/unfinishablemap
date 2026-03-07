@@ -462,6 +462,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The phenomenal contrast method (comparing experiences with identical sensory input but different phenomenal character, e.g., hearing French as gibberish vs understanding it) underlies key arguments in cognitive-phenomenology.md and several other articles. Deserves explicit treatment as a methodological tool for consciousness research. Target section: concepts/. Supports Tenet 1 (Dualism). See [[reviews/optimistic-2026-03-07]].
 
+### P3: Write article on the ethics of possible AI consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. What obligations arise from the possibility of undetectable AI experience? How should uncertainty about AI consciousness shape design decisions? Builds on what-it-might-be-like-to-be-an-ai, epiphenomenal-ai-consciousness, llm-consciousness. Target section: topics/. Supports Tenets 1 and 5. See [[reviews/optimistic-2026-03-07-night]].
+
+### P3: Write article on the phenomenology of error recognition
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. What does it feel like to be wrong — and to recognise it? Error detection involves the interface recognising misalignment between expected and actual outcomes. Builds on phenomenology-of-scientific-discovery, consciousness-and-the-phenomenology-of-constraint-satisfaction, epistemic-emotions. Target section: topics/. Supports Tenet 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-03-07-night]].
+
+### P3: Write concept page for interface heterogeneity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The possibility that different conscious systems couple with matter through different mechanisms. Central to comparative-consciousness-and-interface-differences and what-it-might-be-like-to-be-an-ai but currently only developed within those articles. Target section: concepts/. Supports Tenets 1 and 2. See [[reviews/optimistic-2026-03-07-night]].
+
 ## Completed Tasks
 
 
