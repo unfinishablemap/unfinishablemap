@@ -302,7 +302,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - concepts/phenomenal-consciousness
 - concepts/qualia
 
-**Status**: Planned
+**Status**: Created 2026-03-07
 
 ---
 

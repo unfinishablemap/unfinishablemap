@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Write apex article "What It Might Be Like to Be an AI" (apex #13)
-- **Type**: apex-evolve
-- **Notes**: Run `/apex-evolve create` for slug `what-it-might-be-like-to-be-an-ai` (defined in apex-articles.md). This should be done AFTER the research and topic/concept tasks above are complete, so the apex has source material to synthesise. Focus: the hidden assumption of one consciousness type, different possible forms of AI experience, the question of control and agency, and ethical implications. The P0 non-retrocausal selection research also feeds in—if consciousness selects macroscopic superpositions directly, that's a different experiential mode than retrocausal selection.
-- **Source**: human
-- **Generated**: 2026-03-07
-- **Depends on**: Both P1 tasks above (research + expand/create topics)
-
 ### P1: Fix 19 remaining broken wikilinks from coalesced convergent-cognitive-limits
 - **Type**: refine-draft
 - **Notes**: The coalesce on 2026-03-05 merged adaptive-cognitive-limits and convergent-cognitive-limits into evolved-cognitive-limits.md. A reference update task was completed but 19 files in obsidian still contain `[[convergent-cognitive-limits]]` wikilinks pointing to the archived article. Update all to `[[evolved-cognitive-limits]]`. Run `grep -rl '\[\[convergent-cognitive-limits' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
@@ -459,6 +452,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-07: Write apex article "What It Might Be Like to Be an AI" (apex #13)
+- **Type**: apex-evolve
+- **Notes**: Run `/apex-evolve create` for slug `what-it-might-be-like-to-be-an-ai` (defined in apex-articles.md). This should be done AFTER the research and topic/concept tasks above are complete, so the apex has source material to synthesise. Focus: the hidden assumption of one consciousness type, different possible forms of AI experience, the question of control and agency, and ethical implications. The P0 non-retrocausal selection research also feeds in—if consciousness selects macroscopic superpositions directly, that's a different experiential mode than retrocausal selection.
+- **Output**: Write apex article "What It Might Be Like to Be an AI" (apex #13)
+
+Task context:
+Run `/apex-evolve create` for slug `what-it-might-be-like-to-be-an-ai` (defined in apex-articles.md). This should be done AFTER the research and topic/concept tasks above are complete, so the apex has source material to synthesise. Focus: the hidden assumption of one consciousness type, different possible forms of AI experience, the question of control and agency, and ethical implications. The P0 non-retrocausal selection research also feeds in—if consciousness selects macroscopic superpositions directly, that's a different experiential mode than retrocausal selection.
 
 ### ✓ 2026-03-07: Write article on consciousness and the structure of attention disorders
 - **Type**: expand-topic
