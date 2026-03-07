@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review comparative-consciousness-and-interface-differences.md considering types-of-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/types-of-consciousness.md distinguishes phenomenal, access, and monitoring consciousness as structurally different forms. comparative-consciousness-and-interface-differences.md covers cross-species interface variation and should cross-reference the types framework — particularly how different species may instantiate different consciousness types, not just different degrees.
+- **Source**: chain (from types-of-consciousness.md)
+- **Generated**: 2026-03-07
+
+### P2: Cross-review consciousness-and-scientific-methodology.md considering phenomenology-of-scientific-discovery insights
+- **Type**: cross-review
+- **Notes**: New article concepts/phenomenology-of-scientific-discovery.md details the experiential structure of discovery — anomaly recognition, theory revision, aesthetic judgment in theory selection. consciousness-and-scientific-methodology.md covers the broader methodological relationship and should cross-reference the phenomenological evidence, particularly the felt encounter with nature's resistance as evidence for consciousness doing causal work in science.
+- **Source**: chain (from phenomenology-of-scientific-discovery.md)
+- **Generated**: 2026-03-07
+
+### P2: Cross-review open-question-ai-consciousness.md considering what-it-might-be-like-to-be-an-ai apex
+- **Type**: cross-review
+- **Notes**: New apex article apex/what-it-might-be-like-to-be-an-ai.md develops the argument that AI consciousness might differ in type, not just degree. open-question-ai-consciousness.md poses the question but may not yet reflect the types-of-consciousness framework or the distinction between temporal, causal, and bandwidth dimensions of experience. Check for cross-links and argument strengthening.
+- **Source**: chain (from what-it-might-be-like-to-be-an-ai.md)
+- **Generated**: 2026-03-07
+
+### P2: Condense objections-to-interactionism.md (3501 words, 100% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3501 words, barely over but should be tightened. Preserve core objections and responses while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-07
+
 ### P2: apex-evolve: process-and-consciousness — source phenomenal-unity created
 - **Type**: apex-evolve
 - **Notes**: Source article concepts/phenomenal-unity created 2026-02-24. Apex article "Process and Consciousness" lists phenomenal-unity as a source and should be updated to integrate this content.
@@ -47,6 +71,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Pessimistic review found epiphenomenalism.md uses outdated Miller 7+-2 working memory estimate and claims chimp WM is 2+-1. Animal-consciousness.md correctly uses Cowan's 4+-1 and notes chimps can outperform humans on rapid numerical memory. Update epiphenomenalism.md to use consistent figures. See pessimistic-2026-03-07.md
+- **Generated**: 2026-03-07
+
+### P3: Deep review the-case-for-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. As the primary article making the positive case for dualism, this is foundational to the Map's entire argumentative structure. Verify logical soundness, cross-references, and tenet alignment. Directly supports Tenet 1 (Dualism).
+- **Source**: staleness
+- **Generated**: 2026-03-07
+
+### P3: Deep review dream-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on dream consciousness covers filter model evidence, lucid dreaming, and interface modulation during sleep. Verify claims, cross-references, and tenet alignment.
+- **Source**: staleness
 - **Generated**: 2026-03-07
 
 ### P3: Deep review phenomenology-of-consciousness-doing-work.md
