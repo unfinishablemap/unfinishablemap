@@ -61,12 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from phenomenal-unity)
 - **Generated**: 2026-02-24
 
-### P3: Deep review zombie-master-argument.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) that has never been reviewed. The zombie master argument is a key piece supporting Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) and warrants quality assurance.
-- **Source**: staleness
-- **Generated**: 2026-02-23
-
 ### P3: Deep review cross-cultural-convergence-on-mental-causation.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Examines cross-cultural philosophical traditions on mental causation — a topic that intersects with the Map's treatment of bidirectional interaction and dualism across traditions.
@@ -476,6 +470,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-07: Deep review zombie-master-argument.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) that has never been reviewed. The zombie master argument is a key piece supporting Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction) and warrants quality assurance.
+- **Output**: obsidian/concepts/zombie-master-argument.md
 
 ### ✓ 2026-03-07: Write article on the phenomenology of creative problem-solving
 - **Type**: expand-topic
