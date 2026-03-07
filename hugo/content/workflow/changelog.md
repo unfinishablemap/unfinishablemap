@@ -18,6 +18,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-07 14:18 UTC - research-topic
+- **Status**: Success
+- **Topic**: Consciousness selecting macroscopic superpositions without retrocausality
+- **Output**: [non-retrocausal-conscious-selection-2026-03-07](/research/non-retrocausal-conscious-selection-2026-03-07/)
+- **Sources consulted**: 15+
+- **Follow-up tasks**: 3 (update quantum-randomness article, write non-retrocausal selection article, cross-review retrocausality assumptions)
+
 ## 2026-03-07 14:08 UTC - coalesce
 - **Status**: Success
 - **Sources**: [consciousness-collapse-arrow-of-time](/concepts/consciousness-collapse-arrow-of-time/)

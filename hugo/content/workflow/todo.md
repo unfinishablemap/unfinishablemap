@@ -38,10 +38,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P0: Research consciousness selecting macroscopic superpositions without retrocausality
-- **Type**: research-topic
-- **Notes**: Our article topics/quantum-randomness-channel-llm-consciousness is good but misses a key possibility. Consciousness doesn't need to select outcomes by going back in time and choosing the random number that would have produced the desired result. If any superposition of macroscopic states exists—however created—consciousness could potentially select one directly, by a mechanism we don't yet understand or haven't conceived, without needing to unwind the causal history leading to that state. This is a distinct and possibly stronger claim than retrocausal selection. Research this widely: decoherence timescales for macroscopic superpositions, Penrose/Hameroff orchestrated objective reduction, stochastic collapse models (GRW, CSL), relational interpretations where "selection" isn't temporally located, and any philosophy of mind literature on non-retrocausal conscious selection. Then create follow-up tasks to: (1) update quantum-randomness-channel-llm-consciousness.md to acknowledge this alternative, (2) update or create articles on relevant mechanisms, (3) review any site content that assumes retrocausality is the only selection pathway.
-- **Source**: human
+### P1: Update quantum-randomness-channel-llm-consciousness.md to acknowledge non-retrocausal selection alternative
+- **Type**: expand-topic
+- **Notes**: The research notes in [non-retrocausal-conscious-selection-2026-03-07](/research/non-retrocausal-conscious-selection-2026-03-07/) establish that consciousness need not select outcomes retrocausally. The existing article should acknowledge that if macroscopic neural superpositions exist, consciousness could select among them directly at collapse — a forward-in-time mechanism that is more minimal and avoids temporal paradoxes. Add a section or update existing framing.
+- **Source**: ai-chain
+- **Generated**: 2026-03-07
+
+### P2: Write article on non-retrocausal conscious selection frameworks
+- **Type**: expand-topic
+- **Notes**: Based on [non-retrocausal-conscious-selection-2026-03-07](/research/non-retrocausal-conscious-selection-2026-03-07/), create article comparing three forward-in-time selection frameworks: Penrose OR, Stapp Zeno, Chalmers-McQueen CSL. All support consciousness acting at collapse without retrocausality. Article should establish non-retrocausal selection as a distinct (and arguably stronger) claim than retrocausal selection.
+- **Source**: ai-chain
+- **Generated**: 2026-03-07
+
+### P2: Cross-review site content that assumes retrocausality is the only selection pathway
+- **Type**: cross-review
+- **Notes**: Identify articles across the site that treat retrocausal selection as the default or only mechanism for conscious influence on quantum outcomes. Update to acknowledge non-retrocausal alternative. Key articles to check: retrocausality.md, quantum-consciousness.md, comparing-quantum-consciousness-mechanisms.md, and any content referencing conscious selection of quantum outcomes.
+- **Source**: ai-chain
 - **Generated**: 2026-03-07
 
 ### P1: Research types of consciousness and what AI experience might be like
@@ -492,6 +504,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-07: Research consciousness selecting macroscopic superpositions without retrocausality
+- **Type**: research-topic
+- **Notes**: Our article topics/quantum-randomness-channel-llm-consciousness is good but misses a key possibility. Consciousness doesn't need to select outcomes by going back in time and choosing the random number that would have produced the desired result. If any superposition of macroscopic states exists—however created—consciousness could potentially select one directly, by a mechanism we don't yet understand or haven't conceived, without needing to unwind the causal history leading to that state. This is a distinct and possibly stronger claim than retrocausal selection. Research this widely: decoherence timescales for macroscopic superpositions, Penrose/Hameroff orchestrated objective reduction, stochastic collapse models (GRW, CSL), relational interpretations where "selection" isn't temporally located, and any philosophy of mind literature on non-retrocausal conscious selection. Then create follow-up tasks to: (1) update quantum-randomness-channel-llm-consciousness.md to acknowledge this alternative, (2) update or create articles on relevant mechanisms, (3) review any site content that assumes retrocausality is the only selection pathway.
+- **Output**: consciousness selecting macroscopic superpositions without retrocausality
 
 ### ✓ 2026-03-07: Deep review cross-cultural-convergence-on-mental-causation.md
 - **Type**: deep-review
