@@ -4,20 +4,20 @@ description: "Why consciousness is necessary for value to exist. Without experie
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-28T06:46:00+00:00
+ai_modified: 2026-03-07T02:38:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
   - "[[ethics-of-consciousness]]"
 concepts:
-  - "[[topics/phenomenal-value-realism]]"
+  - "[[phenomenal-value-realism]]"
   - "[[concept-of-phenomenal-value-realism]]"
   - "[[qualia]]"
   - "[[phenomenal-consciousness]]"
   - "[[emotional-consciousness]]"
   - "[[illusionism]]"
   - "[[panpsychism]]"
-  - "[[concepts/epiphenomenalism]]"
+  - "[[epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[experiential-alignment]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated:
-last_deep_review: 2026-02-02T11:32:00+00:00
+last_deep_review: 2026-03-07T02:38:00+00:00
 ---
 
 The consciousness-value connection is the claim that consciousness is necessary for value to exist. Without phenomenal experience—without there being something it is like to be something—nothing can possess intrinsic value. A universe of matter in motion, however complex, contains no value unless something *experiences* that universe. Value enters reality only where experience exists.
@@ -178,8 +178,7 @@ These conditions do not currently obtain. The connection stands.
 
 ## Further Reading
 
-- [[topics/phenomenal-value-realism]] — The metaethical grounding: phenomenal properties constitute value
-- [[topics/phenomenal-value-realism|Phenomenal Value Realism (Topic)]] — How consciousness-grounded value addresses metaethical challenges and extends to pluralism
+- [[topics/phenomenal-value-realism]] — How consciousness-grounded value addresses metaethical challenges, with phenomenal properties constituting value
 - [[meaning-of-life]] — How consciousness-grounded value provides meaning
 - [[emotional-consciousness]] — Valence as the phenomenal dimension of good and bad
 - [[ethics-of-consciousness]] — Moral implications of the consciousness-value connection
