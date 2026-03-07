@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review open-question-ai-consciousness.md considering what-it-might-be-like-to-be-an-ai apex
-- **Type**: cross-review
-- **Notes**: New apex article apex/what-it-might-be-like-to-be-an-ai.md develops the argument that AI consciousness might differ in type, not just degree. open-question-ai-consciousness.md poses the question but may not yet reflect the types-of-consciousness framework or the distinction between temporal, causal, and bandwidth dimensions of experience. Check for cross-links and argument strengthening.
-- **Source**: chain (from what-it-might-be-like-to-be-an-ai.md)
-- **Generated**: 2026-03-07
-
 ### P2: Condense objections-to-interactionism.md (3501 words, 100% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3501 words, barely over but should be tightened. Preserve core objections and responses while removing redundancy. See /condense skill.
@@ -473,6 +467,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-07: Cross-review open-question-ai-consciousness.md considering what-it-might-be-like-to-be-an-ai apex
+- **Type**: cross-review
+- **Notes**: New apex article apex/what-it-might-be-like-to-be-an-ai.md develops the argument that AI consciousness might differ in type, not just degree. open-question-ai-consciousness.md poses the question but may not yet reflect the types-of-consciousness framework or the distinction between temporal, causal, and bandwidth dimensions of experience. Check for cross-links and argument strengthening.
+- **Output**: obsidian/apex/open-question-ai-consciousness.md -- Context: Cross-review open-question-ai-consciousness.md considering what-it-might-be-like-to-be-an-ai apex
 
 ### ✓ 2026-03-07: Cross-review consciousness-and-scientific-methodology.md considering phenomenology-of-scientific-discovery insights
 - **Type**: cross-review
