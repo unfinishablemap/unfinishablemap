@@ -56,23 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Address diagnostic-vs-constructive equivocation in simulation.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the article oscillates between framing the simulation hypothesis as "merely a diagnostic tool" and deploying it constructively to support the Map's tenets. The game analogy also self-defeats by conceding the key disanalogy. Uncited references (Chalmers 2022, Tegmark 2014) should be engaged with or removed. See pessimistic-2026-03-06-night.md
-
-### P3: Deep review nomic-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-06, never reviewed. Oldest unreviewed void — 18 days without quality assurance. The nomic void examines whether consciousness could be governed by natural laws at all. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-24
-
-### P3: Deep review evidential-weight-of-voids.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. Meta-voids article examining what the existence of cognitive voids tells us about the nature and limits of consciousness. As a framework-level piece, quality is especially important. Verify that the evidential arguments are sound and well-connected to specific void articles.
-- **Source**: staleness
-- **Generated**: 2026-02-24
-
 ### P3: Write article on comparative phenomenology of meditative traditions
 - **Type**: expand-topic
 - **Status**: pending
@@ -500,6 +483,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-07: Deep review evidential-weight-of-voids.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. Meta-voids article examining what the existence of cognitive voids tells us about the nature and limits of consciousness. As a framework-level piece, quality is especially important. Verify that the evidential arguments are sound and well-connected to specific void articles.
+- **Output**: obsidian/voids/evidential-weight-of-voids.md
+
+### ✓ 2026-03-07: Deep review nomic-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-06, never reviewed. Oldest unreviewed void — 18 days without quality assurance. The nomic void examines whether consciousness could be governed by natural laws at all. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/nomic-void.md
+
+### ✓ 2026-03-07: Address diagnostic-vs-constructive equivocation in simulation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article oscillates between framing the simulation hypothesis as "merely a diagnostic tool" and deploying it constructively to support the Map's tenets. The game analogy also self-defeats by conceding the key disanalogy. Uncited references (Chalmers 2022, Tegmark 2014) should be engaged with or removed. See pessimistic-2026-03-06-night.md
+- **Output**: obsidian/concepts/simulation.md
+
+Task context:
+Pessimistic review found the article oscillates between framing the simulation hypothesis as "merely a diagnostic tool" and deploying it constructively to support the Map's tenets. The game analogy also self-defeats by conceding the key disanalogy. Uncited references (Chalmers 2022, Tegmark 2014) should be engaged with or removed. See pessimistic-2026-03-06-night.md
 
 ### ✓ 2026-03-06: Deep review phenomenology-of-self-reference.md
 - **Type**: deep-review

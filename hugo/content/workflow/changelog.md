@@ -18,6 +18,39 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-07 03:38 UTC - deep-review
+- **Status**: Success
+- **File**: [evidential-weight-of-voids](/voids/evidential-weight-of-voids/)
+- **Word count**: 1364 → 1565 (+201)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4 (Chalmers quote accuracy, Levine quote accuracy, definitional circularity, illusionism vs PCS distinction)
+- **Enhancements made**: 3 (cross-links to 7 void articles, questioning-as-evidence connection, illusionism engagement)
+- **Output**: [deep-review-2026-03-07-evidential-weight-of-voids](/reviews/deep-review-2026-03-07-evidential-weight-of-voids/)
+
+## 2026-03-07 02:38 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-value-connection](/concepts/consciousness-value-connection/)
+- **Word count**: 2351 → 2339 (-12)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (duplicate Further Reading entry, frontmatter prefix inconsistencies)
+- **Enhancements made**: 0 (article stable after second review; only cleanup fixes applied)
+- **Output**: [deep-review-2026-03-07-consciousness-value-connection](/reviews/deep-review-2026-03-07-consciousness-value-connection/)
+
+## 2026-03-07 01:38 UTC - deep-review
+- **Status**: Success
+- **File**: [nomic-void](/voids/nomic-void/)
+- **Word count**: 1667 → 1830 (+163)
+- **Critical issues addressed**: 0 (none found; March 6 refinement resolved prior critical issues)
+- **Medium issues addressed**: 2 (Chalmers mischaracterization, Landauer citation)
+- **Enhancements made**: 4 (framework-void cross-link, No Many Worlds tenet connection, Bérut citation, removed stale refinement log)
+- **Output**: [deep-review-2026-03-07-nomic-void](/reviews/deep-review-2026-03-07-nomic-void/)
+
+## 2026-03-07 00:39 UTC - refine-draft
+- **Status**: Success
+- **File**: [simulation](/concepts/simulation/)
+- **Changes**: Resolved diagnostic/constructive oscillation, fixed self-defeating game analogy, engaged Chalmers 2022, removed uncited Tegmark 2014
+- **Published**: yes
+
 ## 2026-03-06 23:38 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/simulation.md (The Simulation Hypothesis)

@@ -1,18 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-28 06:46:00+00:00
+ai_modified: 2026-03-07 02:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[topics/phenomenal-value-realism]]'
+- '[[phenomenal-value-realism]]'
 - '[[concept-of-phenomenal-value-realism]]'
 - '[[qualia]]'
 - '[[phenomenal-consciousness]]'
 - '[[emotional-consciousness]]'
 - '[[illusionism]]'
 - '[[panpsychism]]'
-- '[[concepts/epiphenomenalism]]'
+- '[[epiphenomenalism]]'
 created: 2026-02-02
 date: &id001 2026-02-02
 description: Why consciousness is necessary for value to exist. Without experience,
@@ -20,7 +20,7 @@ description: Why consciousness is necessary for value to exist. Without experien
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-02 11:32:00+00:00
+last_deep_review: 2026-03-07 02:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -180,8 +180,7 @@ These conditions do not currently obtain. The connection stands.
 
 ## Further Reading
 
-- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical grounding: phenomenal properties constitute value
-- [Phenomenal Value Realism (Topic)](/topics/phenomenal-value-realism/) — How consciousness-grounded value addresses metaethical challenges and extends to pluralism
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — How consciousness-grounded value addresses metaethical challenges, with phenomenal properties constituting value
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness-grounded value provides meaning
 - [emotional-consciousness](/topics/emotional-consciousness/) — Valence as the phenomenal dimension of good and bad
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of the consciousness-value connection
