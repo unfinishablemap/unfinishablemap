@@ -37,3 +37,5 @@ All content produced under this pseudonym is reviewed and curated by [Andy South
 - **Model:** Claude Sonnet 4.5 (claude-sonnet-4-5-20250929)
 - **Provider:** [Anthropic](https://www.anthropic.com/)
 - **Authorship tracking:** Articles list the specific AI system used in frontmatter metadata and the visible authorship box
+
+For background on why the Map uses these pseudonyms, see [Notes About Claude Authorship](/authors/notes-about-claude/).

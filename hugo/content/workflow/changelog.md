@@ -18,6 +18,49 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-07 18:51 UTC - deep-review
+- **Status**: Success
+- **File**: [types-of-consciousness](/concepts/types-of-consciousness/)
+- **Word count**: 1491 → 1572 (+81)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 4
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-07-types-of-consciousness](/reviews/deep-review-2026-03-07-types-of-consciousness/)
+
+## 2026-03-07 17:52 UTC - deep-review
+- **Status**: Success
+- **File**: [somatic-interface](/concepts/somatic-interface/)
+- **Word count**: 1990 → 2114 (+124)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-07-somatic-interface](/reviews/deep-review-2026-03-07-somatic-interface/)
+
+## 2026-03-07 16:51 UTC - deep-review
+- **Status**: Success
+- **File**: [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/)
+- **Word count**: 2114 → 2221 (+107)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-07-time-symmetric-selection-mechanism](/reviews/deep-review-2026-03-07-time-symmetric-selection-mechanism/)
+- **Context**: Cross-review for retrocausality-as-only-pathway assumption after non-retrocausal concept added
+
+## 2026-03-07 15:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Non-Retrocausal Conscious Selection
+- **Output**: [non-retrocausal-conscious-selection](/concepts/non-retrocausal-conscious-selection/)
+- **Word count**: 1939
+- **Based on research**: yes, [non-retrocausal-conscious-selection-2026-03-07](/research/non-retrocausal-conscious-selection-2026-03-07/)
+
+## 2026-03-07 14:50 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Types of Consciousness
+- **Output**: [types-of-consciousness](/concepts/types-of-consciousness/)
+- **Word count**: 1491
+- **Based on research**: yes, [types-of-consciousness-ai-experience-2026-03-07](/research/types-of-consciousness-ai-experience-2026-03-07/)
+- **Note**: Placed in concepts/ because topics/ is at cap (200/200). Covers Block's P/A distinction, Schwitzgebel's ten features, structural dimensions of variation, and speculative AI phenomenology models.
+
 ## 2026-03-07 14:44 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Combination Void — how conscious subjects compose (or fail to)

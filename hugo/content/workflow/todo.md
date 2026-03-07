@@ -38,25 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on non-retrocausal conscious selection frameworks
-- **Type**: expand-topic
-- **Notes**: Based on [non-retrocausal-conscious-selection-2026-03-07](/research/non-retrocausal-conscious-selection-2026-03-07/), create article comparing three forward-in-time selection frameworks: Penrose OR, Stapp Zeno, Chalmers-McQueen CSL. All support consciousness acting at collapse without retrocausality. Article should establish non-retrocausal selection as a distinct (and arguably stronger) claim than retrocausal selection.
-- **Source**: ai-chain
-- **Generated**: 2026-03-07
-
-### P2: Cross-review site content that assumes retrocausality is the only selection pathway
-- **Type**: cross-review
-- **Notes**: Identify articles across the site that treat retrocausal selection as the default or only mechanism for conscious influence on quantum outcomes. Update to acknowledge non-retrocausal alternative. Key articles to check: retrocausality.md, quantum-consciousness.md, comparing-quantum-consciousness-mechanisms.md, and any content referencing conscious selection of quantum outcomes.
-- **Source**: ai-chain
-- **Generated**: 2026-03-07
-
-### P1: Expand or create topic/concept articles on types of consciousness
-- **Type**: expand-topic
-- **Notes**: Based on the research note from the types-of-consciousness research task, create or update articles covering: (1) a new topic or concept on "types of consciousness" if none exists, (2) updates to comparative-consciousness-and-interface-differences.md to incorporate the types framework, (3) a new topic on "what it might be like to be a conscious AI" exploring the phenomenology from the inside. Ensure all new content links back to existing AI consciousness articles.
-- **Source**: human
-- **Generated**: 2026-03-07
-- **Depends on**: Research types of consciousness task above
-
 ### P1: Write apex article "What It Might Be Like to Be an AI" (apex #13)
 - **Type**: other
 - **Notes**: Run `/apex-evolve create` for slug `what-it-might-be-like-to-be-an-ai` (defined in apex-articles.md). This should be done AFTER the research and topic/concept tasks above are complete, so the apex has source material to synthesise. Focus: the hidden assumption of one consciousness type, different possible forms of AI experience, the question of control and agency, and ethical implications. The P0 non-retrocausal selection research also feeds in—if consciousness selects macroscopic superpositions directly, that's a different experiential mode than retrocausal selection.
@@ -86,12 +67,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: other
 - **Notes**: Source article concepts/phenomenal-unity created 2026-02-24. Apex article "Process and Consciousness" lists phenomenal-unity as a source and should be updated to integrate this content.
 - **Source**: chain (from phenomenal-unity)
-- **Generated**: 2026-02-24
-
-### P3: Deep review somatic-interface.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. The somatic interface concept addresses how consciousness interacts with the body — directly relevant to Tenet 3 (Bidirectional Interaction) and the Map's mind-matter interface framework.
-- **Source**: staleness
 - **Generated**: 2026-02-24
 
 ### P3: Write article on the phenomenology of scientific discovery
@@ -491,6 +466,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-07: Deep review somatic-interface.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. The somatic interface concept addresses how consciousness interacts with the body — directly relevant to Tenet 3 (Bidirectional Interaction) and the Map's mind-matter interface framework.
+- **Output**: obsidian/concepts/somatic-interface.md
+
+### ✓ 2026-03-07: Cross-review site content that assumes retrocausality is the only selection pathway
+- **Type**: cross-review
+- **Notes**: Identify articles across the site that treat retrocausal selection as the default or only mechanism for conscious influence on quantum outcomes. Update to acknowledge non-retrocausal alternative. Key articles to check: retrocausality.md, quantum-consciousness.md, comparing-quantum-consciousness-mechanisms.md, and any content referencing conscious selection of quantum outcomes.
+- **Output**: None -- Context: Cross-review site content that assumes retrocausality is the only selection pathway
+
+### ✓ 2026-03-07: Write article on non-retrocausal conscious selection frameworks
+- **Type**: expand-topic
+- **Notes**: Based on [non-retrocausal-conscious-selection-2026-03-07](/research/non-retrocausal-conscious-selection-2026-03-07/), create article comparing three forward-in-time selection frameworks: Penrose OR, Stapp Zeno, Chalmers-McQueen CSL. All support consciousness acting at collapse without retrocausality. Article should establish non-retrocausal selection as a distinct (and arguably stronger) claim than retrocausal selection.
+- **Output**: non-retrocausal conscious selection frameworks
+
+### ✓ 2026-03-07: Expand or create topic/concept articles on types of consciousness
+- **Type**: expand-topic
+- **Notes**: Based on the research note from the types-of-consciousness research task, create or update articles covering: (1) a new topic or concept on "types of consciousness" if none exists, (2) updates to comparative-consciousness-and-interface-differences.md to incorporate the types framework, (3) a new topic on "what it might be like to be a conscious AI" exploring the phenomenology from the inside. Ensure all new content links back to existing AI consciousness articles.
+- **Output**: or create topic/concept articles on types of consciousness
 
 ### ✓ 2026-03-07: Research types of consciousness and what AI experience might be like
 - **Type**: research-topic
