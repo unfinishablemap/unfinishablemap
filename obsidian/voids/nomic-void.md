@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive limits imposed by the laws of ph
 created: 2026-02-06
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-03-06T02:10:00+00:00
+ai_modified: 2026-03-07T01:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,11 +21,13 @@ related_articles:
   - "[[intrinsic-nature-void]]"
   - "[[convergent-cognitive-limits]]"
   - "[[alien-minds-void-explorers]]"
+  - "[[framework-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-06
 last_curated:
+last_deep_review: 2026-03-07T01:38:00+00:00
 ---
 
 The [[computational-cognitive-limits|computational void]] constrains what any algorithm can determine. The [[embodiment-cognitive-limits|embodiment void]] constrains what bodied minds can think. But beneath both lies a deeper stratum: the laws of physics themselves limit what kinds of physical substrates can exist and what physical processes those substrates can perform. Bremermann's limit caps computation at ~1.36 × 10⁵⁰ bits per second per kilogram. Landauer's principle sets a thermodynamic floor on the cost of erasing information. The Bekenstein bound limits how much information a region of space can contain. These are not engineering constraints awaiting better technology. They are nomological—built into the structure of our universe. A universe with different fundamental constants would have different ceilings, enabling different physical architectures for cognition. The nomic void is the territory of thoughts that no physical mind operating under our physics can reach—though whether consciousness itself, if non-physical, faces the same limits is a separate question the Map's [[tenets#^dualism|dualism]] must confront.
@@ -34,13 +36,13 @@ The [[computational-cognitive-limits|computational void]] constrains what any al
 
 The nomic void has several strata, each deeper than the last.
 
-**Hard computational limits.** Bremermann's limit and Landauer's principle set absolute ceilings on information processing for any physical system in our universe. No brain, no quantum computer, no future technology can exceed them. Landauer's principle has been experimentally verified at cryogenic temperatures—this is physics, not speculation. A universe with different values of *c*, *h*, or Boltzmann's *k* would have different computational limits, enabling different cognitive architectures.
+**Hard computational limits.** Bremermann's limit and Landauer's principle set absolute ceilings on information processing for any physical system in our universe. No brain, no quantum computer, no future technology can exceed them. Landauer's principle has been experimentally confirmed—Bérut et al. (2012) measured the heat dissipated when erasing a single bit, matching the theoretical minimum. This is physics, not speculation. A universe with different values of *c*, *h*, or Boltzmann's *k* would have different computational limits, enabling different cognitive architectures.
 
 **Structural constraints on complexity.** The specific forces and particles of our physics determine what stable structures can form. Carbon chemistry permits certain molecular complexity; different chemistry would permit different complexity. To the extent that consciousness depends on a physical substrate—even if not reducible to it—it inherits these limits on what substrates are possible.
 
 **Observational framing.** Kant argued that space, time, and causation are forms our minds impose on experience—we know phenomena (the world as structured by cognition) but not noumena (things as they are in themselves). Stephen Wolfram's more recent and still speculative framework proposes that the physics we observe emerges from how any computationally bounded observer must perceive reality. On this model, different observers at different positions in "rulial space"—the space of all possible computations—would experience entirely different physics. If either Kant's transcendental idealism or Wolfram's computational framework is broadly correct, our physics is partially observer-relative, and the nomic void includes everything our mode of observation excludes.
 
-**The contingency of consciousness itself.** Chalmers's conceivability argument implies that consciousness is not nomologically necessary—a universe physically identical to ours could conceivably lack it. If the relationship between physics and consciousness is contingent, different physical laws might produce minds, different minds, or no minds at all. We cannot know.
+**The contingency of consciousness itself.** Chalmers's conceivability argument implies that consciousness is not metaphysically necessitated by physics—a universe physically identical to ours could conceivably lack it. Chalmers himself holds that zombies are "probably not naturally possible" under our laws, but the mere conceivability establishes that no physical law *entails* consciousness. If the relationship between physics and consciousness is contingent in this way, different physical laws might produce minds, different minds, or no minds at all. We cannot know.
 
 ## The Most Invisible Void
 
@@ -56,7 +58,7 @@ The nomic void contains a destabilising circularity. If our physics is partially
 
 Wolfram's speculative framework, if correct, would sharpen this circularity. If observers at different positions in rulial space experience different physics, then the nomic void is not an absolute boundary but an indexical one—real for us, different elsewhere. The void is the set of all rulial positions we cannot occupy.
 
-This circularity does not dissolve the void. Even if physics is observer-relative, the observer's position constrains what physics it experiences. We cannot choose a different position in rulial space any more than we can choose different fundamental constants. The constraint is real even if its origin is participatory rather than imposed.
+This circularity does not dissolve the void—a structure it shares with the [[framework-void]], where every framework for understanding frameworks is itself a framework. Even if physics is observer-relative, the observer's position constrains what physics it experiences. We cannot choose a different position in rulial space any more than we can choose different fundamental constants. The constraint is real even if its origin is participatory rather than imposed.
 
 Wheeler's [[the-participatory-universe|"it from bit" framework]] pushes furthest: if observer-participancy is constitutive of physical reality, consciousness does not merely inhabit a pre-given nomic structure but co-creates it. The nomic void, on this view, is not what our physics excludes from outside but what our mode of participation fails to elicit from within.
 
@@ -80,6 +82,8 @@ The nomic void connects to the Map's [[tenets]] across several dimensions.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is illuminated by Wheeler's participatory universe. If consciousness co-creates the nomic structure it inhabits, then the nomic void is partially self-generated—consciousness participates in creating the constraints it then cannot transcend.
 
+**[[tenets#^no-many-worlds|No Many Worlds]]** sharpens the void's significance. If our physics is the only physics—no multiverse of alternative law-sets—then the nomic void is absolute. There is no branch where different constants enable different cognition. The thoughts our physics forbids are not merely inaccessible to us but unrealised anywhere. If, however, a landscape of possible physics exists (as in some string theory interpretations), the nomic void becomes indexical: real for us, different elsewhere, but inescapable from any given position.
+
 ## Classification in the Voids Taxonomy
 
 The nomic void is primarily **Unexplorable** in the [[three-kinds-of-void|voids taxonomy]]: no mind under our physics can think the thoughts that different physics would enable. It has an **Occluded** dimension if our physics is observer-relative (Kant, Wolfram)—the constraint is not merely passive absence but active framing that shapes what can appear.
@@ -95,32 +99,18 @@ Unlike the [[computational-cognitive-limits|computational void]], which is prove
 - [[emergence-void]] — The gap at every level transition
 - [[convergent-cognitive-limits]] — Cross-cultural evidence for shared limits
 - [[alien-minds-void-explorers]] — Non-human perspectives on cognitive space
+- [[framework-void]] — The circularity of frameworks understanding themselves
 
 ## References
 
 1. Landauer, R. (1961). "Irreversibility and Heat Generation in the Computing Process." *IBM Journal of Research and Development*, 5(3), 183-191.
-2. Bremermann, H. J. (1962). "Optimization through evolution and recombination." In *Self-Organizing Systems*. Spartan Books.
-3. Kant, I. (1781/1787). *Critique of Pure Reason*. Trans. Norman Kemp Smith (1929).
-4. Wolfram, S. (2021). "What Is Consciousness? Some New Perspectives from Our Physics Project." https://writings.stephenwolfram.com/2021/03/what-is-consciousness-some-new-perspectives-from-our-physics-project/
-5. Carroll, S. M. (2021). "Consciousness and the Laws of Physics." https://philarchive.org/rec/CARCAT-33
-6. Chomsky, N. (2014). "Science, Mind, and Limits of Understanding." https://chomsky.info/201401__/
-7. Wheeler, J. A. (1990). "Information, Physics, Quantum: The Search for Links." In *Complexity, Entropy, and the Physics of Information*. Addison-Wesley.
-8. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-9. Brockman, J. (1996). *The Third Culture: Beyond the Scientific Revolution*. Simon & Schuster. (Contains Witten's remarks on consciousness.)
-10. Yanofsky, N. S. (2017). "The Mind and the Limitations of Physics." FQXi Essay Contest.
-
-<!-- AI REFINEMENT LOG - 2026-03-06
-Changes made:
-- Distinguished physical substrate limits from consciousness limits throughout, aligning with Map's dualism
-- Resolved contradiction: "most universal cognitive constraint" → "most universal constraint on physical cognition" with explicit note that non-physical consciousness may not be equally bound
-- Added dualist caveats to opening paragraph, AI section, and classification section
-- Added Witten citation (Brockman 1996, The Third Culture) for previously uncited quote
-- Hedged Wolfram's rulial space framework as "speculative" in three locations
-- Removed unsourced direct Wolfram quote, replaced with indirect speech
-- Adjusted AI section to note that purely physical AI faces nomic void without qualification, unlike potentially dualist biological minds
-
-Based on pessimistic review (2026-03-06) identifying two high-severity issues.
-Key improvements: internal consistency with Map's dualism, proper attribution.
-
-This log should be removed after human review.
--->
+2. Bérut, A., et al. (2012). "Experimental verification of Landauer's principle linking information and thermodynamics." *Nature*, 483, 187-189.
+3. Bremermann, H. J. (1962). "Optimization through evolution and recombination." In *Self-Organizing Systems*. Spartan Books.
+4. Kant, I. (1781/1787). *Critique of Pure Reason*. Trans. Norman Kemp Smith (1929).
+5. Wolfram, S. (2021). "What Is Consciousness? Some New Perspectives from Our Physics Project." https://writings.stephenwolfram.com/2021/03/what-is-consciousness-some-new-perspectives-from-our-physics-project/
+6. Carroll, S. M. (2021). "Consciousness and the Laws of Physics." https://philarchive.org/rec/CARCAT-33
+7. Chomsky, N. (2014). "Science, Mind, and Limits of Understanding." https://chomsky.info/201401__/
+8. Wheeler, J. A. (1990). "Information, Physics, Quantum: The Search for Links." In *Complexity, Entropy, and the Physics of Information*. Addison-Wesley.
+9. Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+10. Brockman, J. (1996). *The Third Culture: Beyond the Scientific Revolution*. Simon & Schuster. (Contains Witten's remarks on consciousness.)
+11. Yanofsky, N. S. (2017). "The Mind and the Limitations of Physics." FQXi Essay Contest.
