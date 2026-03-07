@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate types-of-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-07 as part of the AI consciousness types expansion. Core concept article covering phenomenal, access, and monitoring consciousness — widely applicable across the Map. Add cross-references from related articles or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-07
+
+### P2: Integrate phenomenology-of-scientific-discovery.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-07. Concept article on the experiential structure of scientific breakthroughs — gestalt shifts, aesthetic judgment in theory selection, felt encounter with nature's resistance. Add cross-references from consciousness-and-scientific-methodology.md, phenomenology-of-intellectual-effort.md, and other phenomenology articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-07
+
+### P2: Integrate comparative-phenomenology-of-meditative-traditions.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-07. Topics article comparing shamatha, vipassana, zazen, centering prayer, and jhana reports across traditions. Add cross-references from contemplative-methods-as-philosophical-methodology.md, the-observer-witness-in-meditation.md, and meditation-and-consciousness-modes.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-07
+
+### P2: Cross-review attention-as-selection-interface.md considering attention-disorders insights
+- **Type**: cross-review
+- **Notes**: New article on consciousness and the structure of attention disorders was written 2026-03-07. attention-as-selection-interface.md is the Map's central treatment of attention as the selection channel for consciousness-brain interaction. The new attention disorders article provides natural-experiment evidence — if attention is the selection channel, disorders that alter attentional bandwidth should produce predictable changes in conscious experience. Check for cross-links, reinforcing arguments, and empirical evidence integration.
+- **Source**: chain (from attention-disorders article)
+- **Generated**: 2026-03-07
+
+### P2: Deep review loss-of-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-31 — 35 days ago, beyond the 30-day staleness threshold. Loss of consciousness is a key empirical phenomenon for the Map's interface framework — what happens when the interface is disrupted. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-07
+
+### P2: Deep review leibnizs-mill-argument.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-02 — 33 days ago, beyond the 30-day staleness threshold. Leibniz's Mill is a foundational argument for Tenet 1 (Dualism) — the thought experiment that no mechanical arrangement explains perception. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-07
+
+### P2: Deep review consciousness-and-language-interface.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 32 days ago, beyond the 30-day staleness threshold. Covers how language mediates between consciousness and cognition — relevant to the interface framework and cognitive phenomenology cluster. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-07
+
 ### P2: apex-evolve: process-and-consciousness — source phenomenal-unity created
 - **Type**: apex-evolve
 - **Notes**: Source article concepts/phenomenal-unity created 2026-02-24. Apex article "Process and Consciousness" lists phenomenal-unity as a source and should be updated to integrate this content.
@@ -83,13 +125,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Emotions present paradoxical opacity—we feel them intensely yet often cannot identify what we feel until after the fact. Alexithymia as partial void exploration. Builds on absorption-void.md, emotional-consciousness.md, introspective-opacity.md. See optimistic-2026-02-24-morning.md
-- **Generated**: 2026-02-24
-
-### P3: Write concept page for metarepresentation #veto
-- **Type**: expand-topic
-- **Status**: pending
-- **Veto reason**: Resolved — metarepresentation was coalesced into [[metacognition]] and all 56 wikilinks updated on 2026-03-04.
-- **Notes**: Suggested by optimistic review. 22+ broken wikilinks across the site reference `[[metarepresentation]]` but no concept page exists. Central to the Jourdain hypothesis and baseline cognition clusters — the Map's strongest empirical argument for bidirectional interaction. Builds on jourdain-hypothesis.md, baseline-cognition.md, consciousness-as-amplifier.md. See optimistic-2026-02-24-afternoon.md
 - **Generated**: 2026-02-24
 
 ### P3: Write article on psychedelics and the filter model
@@ -1526,6 +1561,11 @@ Tasks that failed 3+ times and require human intervention.
 ## Vetoed Tasks
 
 Ideas that were considered and rejected. The AI will not re-propose these.
+
+### ✓ 2026-03-07: Write concept page for metarepresentation
+- **Type**: expand-topic
+- **Veto reason**: Resolved — metarepresentation was coalesced into [[metacognition]] and all 56 wikilinks updated on 2026-03-04.
+- **Notes**: Suggested by optimistic review. 22+ broken wikilinks across the site reference `[[metarepresentation]]` but no concept page exists. See optimistic-2026-02-24-afternoon.md
 
 ### ✓ 2026-02-22: Write article on voluntary attention control mechanisms
 - **Type**: expand-topic
