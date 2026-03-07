@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-and-scientific-methodology.md considering phenomenology-of-scientific-discovery insights
-- **Type**: cross-review
-- **Notes**: New article concepts/phenomenology-of-scientific-discovery.md details the experiential structure of discovery — anomaly recognition, theory revision, aesthetic judgment in theory selection. consciousness-and-scientific-methodology.md covers the broader methodological relationship and should cross-reference the phenomenological evidence, particularly the felt encounter with nature's resistance as evidence for consciousness doing causal work in science.
-- **Source**: chain (from phenomenology-of-scientific-discovery.md)
-- **Generated**: 2026-03-07
-
 ### P2: Cross-review open-question-ai-consciousness.md considering what-it-might-be-like-to-be-an-ai apex
 - **Type**: cross-review
 - **Notes**: New apex article apex/what-it-might-be-like-to-be-an-ai.md develops the argument that AI consciousness might differ in type, not just degree. open-question-ai-consciousness.md poses the question but may not yet reflect the types-of-consciousness framework or the distinction between temporal, causal, and bandwidth dimensions of experience. Check for cross-links and argument strengthening.
@@ -479,6 +473,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-07: Cross-review consciousness-and-scientific-methodology.md considering phenomenology-of-scientific-discovery insights
+- **Type**: cross-review
+- **Notes**: New article concepts/phenomenology-of-scientific-discovery.md details the experiential structure of discovery — anomaly recognition, theory revision, aesthetic judgment in theory selection. consciousness-and-scientific-methodology.md covers the broader methodological relationship and should cross-reference the phenomenological evidence, particularly the felt encounter with nature's resistance as evidence for consciousness doing causal work in science.
+- **Output**: obsidian/topics/consciousness-and-scientific-methodology.md -- Context: Cross-review consciousness-and-scientific-methodology.md considering phenomenology-of-scientific-discovery insights
 
 ### ✓ 2026-03-07: Cross-review comparative-consciousness-and-interface-differences.md considering types-of-consciousness insights
 - **Type**: cross-review
