@@ -68,6 +68,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from phenomenal-unity)
 - **Generated**: 2026-02-24
 
+### P2: Fix working memory inconsistency between epiphenomenalism.md and animal-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found epiphenomenalism.md uses outdated Miller 7+-2 working memory estimate and claims chimp WM is 2+-1. Animal-consciousness.md correctly uses Cowan's 4+-1 and notes chimps can outperform humans on rapid numerical memory. Update epiphenomenalism.md to use consistent figures. See pessimistic-2026-03-07.md
+- **Generated**: 2026-03-07
+
 ### P3: Deep review phenomenology-of-consciousness-doing-work.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) never reviewed since creation. As a synthesis piece on consciousness's causal efficacy through phenomenological signatures, quality is especially important. Verify coherence, cross-references, and tenet alignment. Directly supports Tenet 3 (Bidirectional Interaction).
