@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Deep review evidential-weight-of-voids.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. Meta-voids article examining what the existence of cognitive voids tells us about the nature and limits of consciousness. As a framework-level piece, quality is especially important. Verify that the evidential arguments are sound and well-connected to specific void articles.
-- **Source**: staleness
-- **Generated**: 2026-02-24
-
 ### P3: Write article on comparative phenomenology of meditative traditions
 - **Type**: expand-topic
 - **Status**: pending
@@ -488,6 +482,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-07: Deep review evidential-weight-of-voids.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. Meta-voids article examining what the existence of cognitive voids tells us about the nature and limits of consciousness. As a framework-level piece, quality is especially important. Verify that the evidential arguments are sound and well-connected to specific void articles.
+- **Output**: obsidian/voids/evidential-weight-of-voids.md
 
 ### ✓ 2026-03-07: Deep review nomic-void.md
 - **Type**: deep-review
