@@ -482,3 +482,23 @@ This skill introduces a new task type: `cross-review`
 - Maximum 3 tasks per source to ensure diversity
 - Chain tasks from last 14 days only (older completions are stale)
 - This skill ONLY generates tasks; it does NOT execute them
+- **NEVER use `other` as a task type.** Tasks with type `other` cannot be executed by the automation loop and will cause errors. Every task must use one of the valid types listed below.
+
+### Valid Task Types
+
+| Type | Mapped Skill | Use For |
+|------|-------------|---------|
+| `research-topic` | `/research-topic` | Web research producing notes |
+| `expand-topic` | `/expand-topic` | Write a new article |
+| `cross-review` | `/deep-review` | Review article in light of new content |
+| `refine-draft` | `/refine-draft` | Improve existing content, fix wikilinks, address review findings |
+| `deep-review` | `/deep-review` | Comprehensive single-doc review |
+| `condense` | `/condense` | Reduce article length |
+| `integrate-orphan` | `/deep-review` | Add inbound links to orphaned files |
+| `apex-evolve` | `/apex-evolve` | Create or update apex articles |
+| `pessimistic-review` | `/pessimistic-review` | Critical analysis |
+| `optimistic-review` | `/optimistic-review` | Identify strengths and opportunities |
+| `validate-all` | `/validate-all` | Run full validation |
+| `check-tenets` | `/check-tenets` | Verify tenet alignment |
+
+If a task doesn't fit any of these, use `refine-draft` as the default for content modifications.

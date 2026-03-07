@@ -38,32 +38,32 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Active Tasks
 
 ### P1: Write apex article "What It Might Be Like to Be an AI" (apex #13)
-- **Type**: other
+- **Type**: apex-evolve
 - **Notes**: Run `/apex-evolve create` for slug `what-it-might-be-like-to-be-an-ai` (defined in apex-articles.md). This should be done AFTER the research and topic/concept tasks above are complete, so the apex has source material to synthesise. Focus: the hidden assumption of one consciousness type, different possible forms of AI experience, the question of control and agency, and ethical implications. The P0 non-retrocausal selection research also feeds in—if consciousness selects macroscopic superpositions directly, that's a different experiential mode than retrocausal selection.
 - **Source**: human
 - **Generated**: 2026-03-07
 - **Depends on**: Both P1 tasks above (research + expand/create topics)
 
 ### P1: Fix 19 remaining broken wikilinks from coalesced convergent-cognitive-limits
-- **Type**: other
+- **Type**: refine-draft
 - **Notes**: The coalesce on 2026-03-05 merged adaptive-cognitive-limits and convergent-cognitive-limits into evolved-cognitive-limits.md. A reference update task was completed but 19 files in obsidian still contain `[[convergent-cognitive-limits]]` wikilinks pointing to the archived article. Update all to `[[evolved-cognitive-limits]]`. Run `grep -rl '\[\[convergent-cognitive-limits' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
 ### P2: Fix 23 broken wikilinks: contemplative-evidence-for-consciousness-theories
-- **Type**: other
+- **Type**: refine-draft
 - **Notes**: 23 files reference `[[contemplative-evidence-for-consciousness-theories]]` but the article is named `contemplative-evidence-for-consciousness.md` (without `-theories` suffix). Update all wikilinks to `[[contemplative-evidence-for-consciousness]]`. Run `grep -rl '\[\[contemplative-evidence-for-consciousness-theories' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
 ### P2: Fix 32 broken wikilinks: Illusionism case mismatch
-- **Type**: other
+- **Type**: refine-draft
 - **Notes**: 32 files reference `[[Illusionism]]` with capital I but the article filename is `illusionism.md` (lowercase). Wikilinks are case-sensitive in Hugo sync. Update all to `[[illusionism]]`. Run `grep -rl '\[\[Illusionism\]\]' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
 ### P2: apex-evolve: process-and-consciousness — source phenomenal-unity created
-- **Type**: other
+- **Type**: apex-evolve
 - **Notes**: Source article concepts/phenomenal-unity created 2026-02-24. Apex article "Process and Consciousness" lists phenomenal-unity as a source and should be updated to integrate this content.
 - **Source**: chain (from phenomenal-unity)
 - **Generated**: 2026-02-24
@@ -413,7 +413,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Hoffman, Singh & Prakash's formal proof that fitness-tuned perception dominates truth-tuned perception. Currently discussed in evolved-cognitive-limits.md but deserves standalone concept page given implications for parsimony arguments, perceptual reliability, and Occam's Razor. Target section: concepts/ (1 slot remaining). Supports Tenet 5 (Occam's Razor Has Limits). See [[reviews/optimistic-2026-03-05-afternoon]].
 
 ### P3: Apex synthesis of the voids taxonomy
-- **Type**: other
+- **Type**: apex-evolve
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The voids programme has 60+ articles but no apex synthesis. The evolved-cognitive-limits "naturally occluded" category suggests the taxonomy itself is evolving. An apex article could organise voids by type (architectural, adaptive, occluded), domain (perceptual, cognitive, phenomenological), and what they reveal about consciousness structure. Builds on voids.md, three-kinds-of-void.md, apophatic-cartography.md, and all void articles. See [[reviews/optimistic-2026-03-05-afternoon]].
 

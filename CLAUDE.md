@@ -237,11 +237,13 @@ Tasks are managed in `obsidian/workflow/todo.md`:
 | `research-topic` | Web research producing notes | Yes → expand-topic |
 | `expand-topic` | Write new article | Yes → cross-review |
 | `cross-review` | Review article in light of new content | No |
-| `refine-draft` | Improve existing draft | No |
+| `refine-draft` | Improve existing draft, fix wikilinks, address review findings | No |
 | `deep-review` | Comprehensive single-doc review | No |
 | `condense` | Reduce article length while preserving value | No |
 | `integrate-orphan` | Add inbound links to orphaned files | No |
-| `other` | Miscellaneous tasks | No |
+| `apex-evolve` | Create or update apex articles | No |
+
+**Do NOT use `other` as a task type.** The evolution loop cannot execute `other` tasks and will error. Use `refine-draft` as the default for content modifications that don't fit another type.
 
 #### Queue Replenishment
 
