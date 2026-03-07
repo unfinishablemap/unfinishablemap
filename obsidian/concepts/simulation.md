@@ -4,7 +4,7 @@ description: "If reality were computed, familiar objections to mind-matter inter
 created: 2026-01-07
 modified: 2026-01-07
 human_modified: null
-ai_modified: 2026-03-05T07:52:00+00:00
+ai_modified: 2026-03-07T00:39:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -36,7 +36,7 @@ last_deep_review: 2026-03-05T07:52:00+00:00
 
 The simulation hypothesis proposes that our reality is a computed simulation running on some substrate. This speculative idea, popularised by Nick Bostrom's probability argument and science fiction, cannot be empirically tested—but it has philosophical relevance for mind-matter interaction. If we take the hypothesis seriously as a thought experiment, certain objections to consciousness influencing physics turn out to rest on contingent assumptions rather than necessary truths.
 
-This page examines the simulation hypothesis and its implications for The Unfinishable Map's [[tenets]]—particularly bidirectional interaction and the [[locality]] problem. The hypothesis is valuable as a diagnostic tool for revealing hidden assumptions in our metaphysics, not as an empirical theory or a positive account of reality.
+This page examines the simulation hypothesis and its implications for The Unfinishable Map's [[tenets]]—particularly bidirectional interaction and the [[locality]] problem. As Chalmers argues in *Reality+* (2022), virtual worlds raise genuine philosophical questions about the nature of reality and mind; the Map draws on the hypothesis as a diagnostic tool for revealing hidden assumptions in our metaphysics, not as an empirical theory or a positive account of reality.
 
 ## The Hypothesis
 
@@ -52,11 +52,11 @@ Even as a thought experiment, the simulation hypothesis exposes which metaphysic
 
 In any simulation, spatial relationships are represented data, not fundamental constraints. The "distance" between two neurons is a number in memory—not a gap that information must cross. The [[locality]] objection—how does consciousness coordinate across spatial distances?—would rest on an assumption (that space is fundamental) rather than a necessary truth. This doesn't answer the locality objection in our reality, but reveals that it presupposes a specific metaphysical picture.
 
-### Mind-Matter Interface Has Precedent
+### Mind-Matter Interface: A Limited Analogy
 
-We routinely couple mental states to simulated physics: a player's intention moves a character, a programmer's decision changes physical laws. The analogy is imperfect in a way that matters: players exist *outside* the game, while we're supposedly *inside* the simulation. The player's consciousness is not constituted by the game world—their causal access comes from an external position unavailable to simulated beings.
+We routinely couple mental states to simulated physics: a player's intention moves a character, a programmer's decision changes physical laws. This establishes that consciousness-physics coupling is not conceptually incoherent—something those who assert "consciousness cannot in principle interact with physics" must address.
 
-What the analogy does establish is that consciousness-physics coupling is not conceptually incoherent. The claim that "consciousness cannot in principle interact with physics" must contend with cases where it already does, even if the mechanism (external access) differs from what would be required for beings within a simulation. This is a point about conceivability, not feasibility—and conceivability is what the diagnostic purpose of this thought experiment requires.
+The analogy breaks down in a way that limits its force: players exist *outside* the game, while we're supposedly *inside* the simulation. The player's consciousness is not constituted by the game world—their causal access comes from an external position unavailable to simulated beings. The analogy therefore cannot show that *internal* consciousness-physics coupling is possible; it shows only that the *concept* of such coupling is coherent. Whether beings embedded in a system could exert causal influence on it from within remains an open question—exactly the question the Map's [[tenets]] address through other arguments.
 
 ### Physical Laws Are Implementation Choices
 
@@ -80,15 +80,15 @@ Quantum mechanics might be the point where the simulation handles indeterminacy.
 - Physically undetectable (indistinguishable from "real" randomness)
 - Consistent with the simulated physical laws
 
-The "minimal quantum interaction" tenet describes exactly what a well-designed mind-matter interface would look like in a simulation.
+The "minimal quantum interaction" tenet is consistent with—though not established by—what a well-designed mind-matter interface would look like in a simulation.
 
 **Timescale caveat**: The standard [[decoherence]] objection—that quantum coherence decays rapidly in warm biological systems—applies within the simulation regardless. The Map takes decoherence seriously as an open challenge with specific responses (the measurement problem gap, biological quantum effects, the Zeno mechanism—see the [[decoherence|decoherence article]]). In the simulation context, the hypothesis adds only that such an interface might have been *designed*—not that physics magically cooperates.
 
 ### Bidirectional Interaction
 
-As noted above, simulations routinely support bidirectional interaction between conscious operators and simulated physics. We are proof of concept: we are conscious, we run simulations, and we influence them.
+Simulations routinely support bidirectional interaction between conscious operators and simulated physics—though, as noted above, this works because operators exist *outside* the system. The external-access case shows consciousness-physics coupling is coherent; the diagnostic question is whether the objection to *internal* coupling rests on necessary truths or contingent features of our physics.
 
-If our reality is a simulation, the question becomes not "is bidirectional interaction possible?" but "was it included in the design?"
+If our reality is a simulation, the question shifts from "is bidirectional interaction possible in principle?" to "does this system's architecture support it?"—a question about design rather than metaphysical impossibility.
 
 ### No Many Worlds
 
@@ -140,11 +140,9 @@ We have no experience of non-simulated reality to compare against. A sufficientl
 
 The simulation hypothesis is speculative metaphysics, not empirical science. It cannot be falsified with current methods. If all you want is empirical purchase on the mind-body problem, this hypothesis provides none.
 
-But triviality requires sameness, not just compatibility. The simulation hypothesis does two distinct kinds of philosophical work:
+But triviality requires sameness, not just compatibility. The simulation hypothesis does specific diagnostic work that generic "everything might be different" claims do not:
 
-**Constructive modelling.** The hypothesis provides a framework in which mind-matter interaction is not merely asserted as possible but structurally modelled. In the simulation framework, consciousness interfaces with a computational layer—offering an architecture where interaction works, not just an argument that it could. This is substantively different from bare conceivability arguments.
-
-**Assumption identification.** The hypothesis makes specific metaphysical commitments visible as contingent design choices rather than necessary truths. Causal closure becomes an implementation decision. [[locality|Spatial relationships]] become represented data rather than fundamental constraints. Single quantum outcomes become a feature of computational economy (with caveats about quantum computation noted in the No Many Worlds section). Each of these targets a specific objection to interactionist dualism with a specific structural alternative—they are not variations on a single "everything is contingent" claim.
+**Targeted assumption identification.** The hypothesis makes specific metaphysical commitments visible as contingent design choices rather than necessary truths. Causal closure becomes an implementation decision. [[locality|Spatial relationships]] become represented data rather than fundamental constraints. Single quantum outcomes become a feature of computational economy (with caveats about quantum computation noted in the No Many Worlds section). Each of these targets a specific objection to interactionist dualism by showing the objection depends on a particular metaphysical picture—not by providing an alternative model of how interaction works, but by revealing that the objection's force is conditional rather than absolute.
 
 What it cannot do: it doesn't explain consciousness (relocating the mystery is not solving it), doesn't solve [[decoherence]] (the challenge persists within simulated physics), and provides no empirical tests.
 
@@ -203,4 +201,18 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 
 1. Bostrom, N. (2003). "Are You Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
 1. Chalmers, D. (2022). *Reality+: Virtual Worlds and the Problems of Philosophy*. W.W. Norton.
-1. Tegmark, M. (2014). *Our Mathematical Universe*. Knopf.
+
+<!-- AI REFINEMENT LOG - 2026-03-07
+Changes made:
+- Resolved diagnostic/constructive oscillation: removed "constructive modelling" claim from Triviality response, replaced with "targeted assumption identification" consistent with diagnostic framing throughout
+- Fixed game analogy self-defeat: renamed section, restructured to lead with limited point (conceptual coherence), acknowledge disanalogy without trying to rescue it, clarify the analogy cannot establish internal coupling
+- Updated Bidirectional Interaction section to reflect the limited scope of the game analogy
+- Softened "minimal quantum interaction" tenet claim from "describes exactly" to "is consistent with"
+- Engaged with Chalmers (2022) in opening paragraphs rather than leaving as uncited reference
+- Removed uncited Tegmark (2014) reference
+
+Based on pessimistic review findings (diagnostic/constructive oscillation, game analogy self-defeat, uncited references).
+Key improvements: internal consistency of diagnostic framing, intellectual honesty about analogy limits.
+
+This log should be removed after human review.
+-->

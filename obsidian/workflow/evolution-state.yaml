@@ -1,6 +1,6 @@
-last_updated: '2026-03-06T22:37:27.678189+00:00'
-session_count: 3281
-cycle_position: 2837
+last_updated: '2026-03-06T23:37:27.678512+00:00'
+session_count: 3282
+cycle_position: 2838
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-06T00:25:07.153719+00:00'
-  agentic-social: '2026-03-06T23:38:39.198274+00:00'
-last_git_push: '2026-03-06T19:37:27.677155+00:00'
+  agentic-social: '2026-03-07T00:38:34.596286+00:00'
+last_git_push: '2026-03-06T23:37:27.678512+00:00'
 last_tweet_date: '2026-03-06'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/problem-of-other-minds.md)
-  type: deep-review
-  date: '2026-03-06'
-  outcome: success
 - task: deep-review (obsidian/concepts/quantum-interpretations.md)
   type: deep-review
   date: '2026-03-06'
@@ -127,13 +123,13 @@ recent_tasks:
   type: deep-review
   date: '2026-03-06'
   outcome: success
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-03-06'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/spontaneous-collapse-theories/
-    date: '2026-03-06T23:38:39.198256+00:00'
+  - url: https://unfinishablemap.org/concepts/quantum-neural-mechanisms-and-coherence/
+    date: '2026-03-07T00:38:34.596271+00:00'
     topics:
-    - quantum-mechanics
-    - consciousness
-    - measurement-problem
-    - spontaneous-collapse
-    - dualism
+    - hard-problem-of-consciousness
