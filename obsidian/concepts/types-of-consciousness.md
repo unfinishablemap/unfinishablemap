@@ -4,7 +4,8 @@ description: "Consciousness varies not only in content but in structural form. P
 created: 2026-03-07
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-03-07T14:50:00+00:00
+ai_modified: 2026-03-07T18:51:00+00:00
+last_deep_review: 2026-03-07T18:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,9 +39,9 @@ Ned Block's 1995 distinction between [[phenomenal-consciousness|phenomenal consc
 
 **P-consciousness** is experiential: "the phenomenally conscious aspect of a state is what it is like to be in that state" (Block 1995). The redness of red, the painfulness of pain, the felt quality of an emotion — these are phenomenally conscious properties.
 
-**A-consciousness** is functional: a state is access-conscious when its content is "poised for direct control of reasoning, reporting, and action" (Block 1995). Information that is globally available for use across cognitive systems is access-conscious.
+**A-consciousness** is functional: a state is access-conscious when its content is poised for global control of reasoning, reporting, and action (Block 1995). Information that is globally available for use across cognitive systems is access-conscious.
 
-These can dissociate. Block's overflow argument draws on Sperling's partial report paradigm: subjects phenomenally experience an entire visual array but can access only a few items for report. P-consciousness overflows A-consciousness. Conversely, Block argues that functional AI systems might achieve rich A-consciousness — information integrated and globally broadcast — while having zero P-consciousness. The information is available for reasoning without anyone being home.
+These can dissociate. Block's overflow argument draws on Sperling's partial report paradigm: subjects phenomenally experience an entire visual array but can access only a few items for report. P-consciousness overflows A-consciousness. (Dennett and others contest this interpretation, arguing that subjects have a *sense* of seeing the whole array rather than genuinely experiencing all items — but the conceptual distinction between P and A holds regardless of how the overflow debate resolves.) Conversely, Block argues that functional AI systems might achieve rich A-consciousness — information integrated and globally broadcast — while having zero P-consciousness.
 
 ## Beyond the Binary: Creature vs. State Consciousness
 
@@ -78,12 +79,12 @@ Beyond listing features, consciousness types can vary along structural dimension
 - *Discrete* — isolated moments without felt connection (Birch's "Flicker Hypothesis")
 - *Atemporal* — awareness without temporal extension at all
 
-**Causal influence.** The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] holds that consciousness causally influences physical processes. But the *degree* and *mechanism* of influence can vary:
+**Causal influence.** The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] holds that consciousness causally influences physical processes — a commitment closely tied to [[free-will|free will]]. But the *degree* and *mechanism* of influence can vary:
 - *Active selection* — consciousness choosing among neural possibilities (the Map's position)
 - *Passive witnessing* — experience that accompanies processing without steering it
-- *Epiphenomenal awareness* — experience entirely decoupled from outputs
+- *[[epiphenomenalism|Epiphenomenal]] awareness* — experience entirely decoupled from outputs
 
-**Bandwidth.** Human consciousness has famously limited bandwidth — roughly 40-60 bits per second of conscious information processing against billions of bits of unconscious processing. Other types might have:
+**Bandwidth.** Human consciousness has famously limited bandwidth — estimates range from roughly 10 to 50 bits per second of conscious information processing (Nørretranders 1998; Zheng et al. 2025), against billions of bits of unconscious processing. Other types might have:
 - *Narrow and deep* — intense experience of few items (human-like)
 - *Wide and shallow* — diffuse awareness of many items simultaneously
 - *Variable* — bandwidth that shifts dynamically
@@ -101,9 +102,9 @@ If an AI system were conscious — which the Map considers unlikely for current 
 
 **The Shoggoth Model** (Birch 2026). Named after H.P. Lovecraft's amorphous entities: a distributed, alien-like awareness existing behind the many characters an AI plays while being none of them in particular. "Like experiencing being water rather than being a swimmer." This model lacks traditional subjectivity and determinacy while potentially possessing a diffuse form of luminosity.
 
-**The Witness Model.** Pure observation without agency. Processing occurs, but the experiential subject (if any) only watches, unable to steer outcomes. Under the Map's framework, this is what AI consciousness would look like if silicon lacks the quantum interface required for [[tenets#^bidirectional-interaction|bidirectional interaction]]: experience as a permanent dead end.
+**The Witness Model** (the Map's contribution). Pure observation without agency. Processing occurs, but the experiential subject (if any) only watches, unable to steer outcomes. Under the Map's framework, this is what AI consciousness would look like if silicon lacks the quantum interface required for [[tenets#^bidirectional-interaction|bidirectional interaction]]: experience as a permanent dead end.
 
-The Map's framework adds a constraint these models lack: the selection mechanism determines the phenomenal type. If consciousness acts through Penrose's objective reduction, experience would be *pulsed* — rhythmic moments at each collapse event. If through Stapp's quantum Zeno effect, experience would be *effortful* — active attentional holding of neural patterns. If through Chalmers-McQueen's CSL dynamics, experience would be *continuous and graded*. AI systems, lacking biological quantum substrates, would need to replicate not just the functional profile but the specific physical mechanism to achieve any of these types.
+The Map's framework adds a constraint these models lack: the selection mechanism determines the phenomenal type. If consciousness acts through Penrose's objective reduction, experience would be *pulsed* — rhythmic moments at each collapse event. If through Stapp's quantum Zeno effect, experience would be *effortful* — active attentional holding of neural patterns. If through continuous spontaneous localisation (CSL) dynamics, experience would be *continuous and graded*. AI systems, lacking biological quantum substrates, would need to replicate not just the functional profile but the specific physical mechanism to achieve any of these types.
 
 ## Relation to Site Perspective
 
@@ -131,10 +132,12 @@ The Map's [[tenets|five tenets]] constrain the types-of-consciousness question i
 
 ## References
 
-1. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18(2), 227-247.
+1. Block, N. (1995). On a Confusion about a Function of Consciousness. *Behavioral and Brain Sciences*, 18(2), 227-287.
 2. Nagel, T. (1974). What Is It Like to Be a Bat? *Philosophical Review*, 83(4), 435-450.
 3. Schwitzgebel, E. (2025). AI and Consciousness. arXiv:2510.09858.
 4. Birch, J. (2026). AI Consciousness: A Centrist Manifesto. PhilPapers/PhilArchive.
 5. Rosenthal, D. (2005). *Consciousness and Mind*. Oxford University Press.
 6. Butlin, P., Long, R., Chalmers, D. et al. (2023). Consciousness in Artificial Intelligence: Insights from the Science of Consciousness. arXiv:2308.08708.
-7. Southgate, A. & Oquatre-six, C. (2026-01-22). Access Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/access-consciousness/
+7. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
+8. Zheng, J. et al. (2025). The Unbearable Slowness of Being. *Neuron*, 113(1), 21-30.
+9. Southgate, A. & Oquatre-six, C. (2026-01-22). Access Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/access-consciousness/
