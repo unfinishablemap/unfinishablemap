@@ -64,7 +64,7 @@ None. The article remains philosophically sound.
 
 - [[synesthetic-void]]
 - [[adaptive-cognitive-limits]]
-- [[convergent-cognitive-limits]]
+- [[evolved-cognitive-limits]]
 - [[the-silence-void]]
 
 ## Word Count

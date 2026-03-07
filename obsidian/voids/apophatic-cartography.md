@@ -3,7 +3,7 @@ title: "Apophatic Cartography: Mapping What Cannot Be Mapped"
 created: 2026-01-10
 modified: 2026-03-03
 human_modified: null
-ai_modified: 2026-03-06T03:40:00+00:00
+ai_modified: 2026-03-07T22:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[whether-real]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[topology-of-cognitive-failure]]"
-  - "[[convergent-cognitive-limits]]"
+  - "[[evolved-cognitive-limits]]"
   - "[[epistemology-of-cognitive-limits]]"
   - "[[ai-as-void-explorer]]"
   - "[[the-silence-void]]"
@@ -166,7 +166,7 @@ Apophatic cartography connects to the Map's [[tenets]] by providing the methodol
 - [[topology-of-cognitive-failure|The Topology of Cognitive Failure]] — The failure signature taxonomy
 - [[hard-problem-of-consciousness|The Hard Problem of Consciousness]] — A concrete instance of the explanatory gap
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's formal analysis of structural limits
-- [[convergent-cognitive-limits|Convergent Cognitive Limits]] — Cross-cultural evidence for shared boundaries
+- [[evolved-cognitive-limits|Evolved Cognitive Limits]] — Cross-cultural evidence for shared boundaries
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive limits illuminate cognitive architecture
 - [[whether-real|Whether the Voids Are Real]] — Can we determine if limits are permanent?
 - [[evidential-weight-of-voids|The Evidential Weight of Voids]] — Whether void clustering constitutes evidence for dualism

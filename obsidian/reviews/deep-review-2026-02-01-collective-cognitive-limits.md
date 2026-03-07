@@ -18,7 +18,7 @@ last_curated: null
 **Date**: 2026-02-01
 **Article**: [[collective-cognitive-limits|Collective Cognitive Limits]]
 **Previous review**: [[deep-review-2026-01-30-collective-cognitive-limits|2026-01-30]]
-**Context**: Cross-review with [[convergent-cognitive-limits|Convergent Cognitive Limits]]
+**Context**: Cross-review with [[evolved-cognitive-limits|Evolved Cognitive Limits]]
 
 ## Pessimistic Analysis Summary
 
@@ -27,7 +27,7 @@ None. The article was recently reviewed (2026-01-30) and addressed the issues id
 
 ### Medium Issues Found
 1. **Missing convergence methodology connection**: The article discussed collective limits but didn't connect to the convergent-cognitive-limits methodology for distinguishing species-level constraints from cultural artifacts.
-   - **Resolution**: Added "Convergence across cultures" subsection in "Approaching the Collective Edge" with explicit cross-link to [[convergent-cognitive-limits]]
+   - **Resolution**: Added "Convergence across cultures" subsection in "Approaching the Collective Edge" with explicit cross-link to [[evolved-cognitive-limits]]
 
 2. **WEIRD caveat unacknowledged**: The convergent-cognitive-limits article notes that most cognitive science research comes from WEIRD populations. This caveat applies equally to collective limits research.
    - **Resolution**: Added brief acknowledgment within the new convergence subsection
@@ -52,10 +52,10 @@ None. The article was recently reviewed (2026-01-30) and addressed the issues id
 ### Enhancements Made
 - Added explicit connection to convergent limits methodology: convergent collective limits (same blind spots in isolated cultures) would be strong evidence for species-level constraints
 - Added WEIRD caveat acknowledgment for empirical humility
-- Added [[convergent-cognitive-limits]] to related_articles frontmatter
+- Added [[evolved-cognitive-limits]] to related_articles frontmatter
 
 ### Cross-links Added
-- [[convergent-cognitive-limits]] (new in-text link and frontmatter)
+- [[evolved-cognitive-limits]] (new in-text link and frontmatter)
 
 ## Word Count
 

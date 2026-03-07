@@ -16,7 +16,7 @@ last_curated: null
 ---
 
 **Date**: 2026-01-30
-**Article**: [[convergent-cognitive-limits|Convergent Cognitive Limits]]
+**Article**: [[evolved-cognitive-limits|Evolved Cognitive Limits]]
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -4,7 +4,7 @@ description: "McGinn's cognitive closure thesis: human minds may be constitution
 created: 2026-01-15
 modified: 2026-02-18
 human_modified: null
-ai_modified: 2026-02-18T07:47:00+00:00
+ai_modified: 2026-03-07T22:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ concepts:
   - "[[consciousness-and-mathematical-understanding]]"
   - "[[conceptual-acquisition-limits]]"
   - "[[computational-cognitive-limits]]"
-  - "[[convergent-cognitive-limits]]"
+  - "[[evolved-cognitive-limits]]"
   - "[[cognitive-science-of-dualism]]"
   - "[[causal-closure]]"
   - "[[developmental-cognitive-closure]]"
@@ -98,7 +98,7 @@ If complete description doesn't reveal consciousness in a 302-neuron organism, w
 
 Noam Chomsky distinguished "problems" (difficulties within our cognitive capacities) from "mysteries" (beyond cognitive reach, like calculus for dogs). We're biological organisms with specific cognitive architectures—some questions may fall outside what that architecture can handle.
 
-Consciousness might be such a mystery. The [[explanatory-gap]] persists despite centuries of effort—perhaps not because we haven't tried hard enough, but because trying harder won't help. The hard problem asks how consciousness relates to physics; the [[origin-of-consciousness|origin question]] asks why consciousness exists at all—a prior mystery that mysterianism's cognitive closure may explain. Research on [[convergent-cognitive-limits]] shows that certain limits appear universally across isolated cultures, suggesting species-level constraints rather than cultural artifacts. These individual limits also extend to collectives: [[collective-cognitive-limits|paradigm blindness]] shows that scientific communities can share blind spots that no individual could transcend from within, yet even centuries of collective inquiry have not closed the explanatory gap.
+Consciousness might be such a mystery. The [[explanatory-gap]] persists despite centuries of effort—perhaps not because we haven't tried hard enough, but because trying harder won't help. The hard problem asks how consciousness relates to physics; the [[origin-of-consciousness|origin question]] asks why consciousness exists at all—a prior mystery that mysterianism's cognitive closure may explain. Research on [[evolved-cognitive-limits]] shows that certain limits appear universally across isolated cultures, suggesting species-level constraints rather than cultural artifacts. These individual limits also extend to collectives: [[collective-cognitive-limits|paradigm blindness]] shows that scientific communities can share blind spots that no individual could transcend from within, yet even centuries of collective inquiry have not closed the explanatory gap.
 
 ## Concept Nativism and Cognitive Closure
 
@@ -221,7 +221,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 ## Further Reading
 
 - [[origin-of-consciousness]] — The prior question: why consciousness exists at all
-- [[convergent-cognitive-limits]] — Cross-cultural evidence that certain cognitive limits are species-wide
+- [[evolved-cognitive-limits]] — Cross-cultural evidence that certain cognitive limits are species-wide
 - [[collective-cognitive-limits]] — How cognitive closure extends to groups through paradigm blindness
 - [[computational-cognitive-limits]] — Proven mathematical limits on what any algorithmic mind can know
 - [[conceptual-acquisition-limits]] — Fodor's nativist argument that concepts must be innate or inaccessible

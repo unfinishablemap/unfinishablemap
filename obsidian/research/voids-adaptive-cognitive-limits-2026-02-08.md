@@ -18,7 +18,7 @@ related_articles:
   - "[[natural-vs-designed-limits]]"
   - "[[cognitive-aversion]]"
   - "[[defended-territory]]"
-  - "[[convergent-cognitive-limits]]"
+  - "[[evolved-cognitive-limits]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[developmental-cognitive-closure]]"
   - "[[topology-of-cognitive-failure]]"
@@ -178,7 +178,7 @@ The existing [[phenomenology-of-the-edge]] article catalogues the general experi
 Direct approaches are limited by the nature of the problem: if a cognitive limit was selected for, then the cognitive system that would need to detect it is the very system shaped to maintain it.
 
 However, some methods exist:
-- **Cross-cultural comparison**: If a cognitive limit appears universally across all human cultures, this is evidence for deep evolutionary origin (see [[convergent-cognitive-limits]])
+- **Cross-cultural comparison**: If a cognitive limit appears universally across all human cultures, this is evidence for deep evolutionary origin (see [[evolved-cognitive-limits]])
 - **Developmental studies**: Tracing when specific cognitive limitations appear during development can distinguish learned limits from architecturally embedded ones
 - **Comparative cognition**: Studying which limits are shared with other species can reveal the evolutionary depth of specific voids
 

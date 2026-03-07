@@ -4,7 +4,7 @@ description: "When multiple independent lines of reasoning—across methods, tra
 created: 2026-02-19
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-03-05T16:47:00+00:00
+ai_modified: 2026-03-07T22:39:00+00:00
 draft: false
 topics:
   - "[[the-convergence-argument-for-dualism]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[the-case-for-dualism]]"
   - "[[the-hard-problem-in-non-western-philosophy]]"
   - "[[cross-cultural-phenomenology-of-agency]]"
-  - "[[convergent-cognitive-limits]]"
+  - "[[evolved-cognitive-limits]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -167,7 +167,7 @@ The Map treats convergence as genuine evidence while acknowledging its limits. C
 - [[the-convergence-argument-for-dualism]] — The specific convergence case for dualism
 - [[the-hard-problem-in-non-western-philosophy]] — Survey of how non-Western traditions frame the hard problem
 - [[cross-cultural-phenomenology-of-agency]] — Cross-cultural invariants in the experience of agency
-- [[convergent-cognitive-limits]] — How cognitive limits converge across cultures
+- [[evolved-cognitive-limits]] — How cognitive limits converge across cultures
 - [[intuitive-dualism]] — Empirical evidence on whether dualism is innate or learned
 - [[epistemic-advantages-of-dualism]] — Meta-level argument from epistemic humility
 - [[epistemological-limits-occams-razor]] — Why parsimony fails in this debate

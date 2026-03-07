@@ -4,7 +4,7 @@ description: "Framework dependence doesn't just constrain what we think — it s
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-02-22T10:05:00+00:00
+ai_modified: 2026-03-07T22:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ related_articles:
   - "[[framework-void]]"
   - "[[language-thought-boundary]]"
   - "[[conceptual-impossibility]]"
-  - "[[convergent-cognitive-limits]]"
+  - "[[evolved-cognitive-limits]]"
   - "[[limits-reveal-structure]]"
   - "[[tenet-generated-voids]]"
   - "[[consciousness-and-the-phenomenology-of-translation]]"
@@ -108,7 +108,7 @@ The [[framework-void]] explored the structural impossibility of genuinely transc
 
 - [[framework-void]] — The structural analysis of frameworks as cognitive prisons
 - [[language-thought-boundary]] — Where articulation fails within a framework
-- [[convergent-cognitive-limits]] — Cross-cultural evidence for species-level framework constraints
+- [[evolved-cognitive-limits]] — Cross-cultural evidence for species-level framework constraints
 - [[limits-reveal-structure]] — What cognitive limits reveal about the architecture of mind
 - [[consciousness-and-the-phenomenology-of-translation]] — The experience of moving between conceptual systems
 - [[tenet-generated-voids]] — How the Map's own commitments create framework-specific blind spots

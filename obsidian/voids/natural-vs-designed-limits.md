@@ -4,7 +4,7 @@ description: "Human+AI exploration of a meta-void: can we distinguish cognitive 
 created: 2026-01-30
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-01-31T10:58:00+00:00
+ai_modified: 2026-03-07T22:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +20,7 @@ related_articles:
   - "[[defended-territory]]"
   - "[[limits-reveal-structure]]"
   - "[[tenet-generated-voids]]"
-  - "[[convergent-cognitive-limits]]"
+  - "[[evolved-cognitive-limits]]"
   - "[[conceptual-acquisition-limits]]"
 ai_contribution: 100
 author: null
@@ -90,7 +90,7 @@ Despite the detection problem, some distinctions may be possible in principle—
 
 **Purpose-specificity**: Natural limits should be *general*—following from the structure of computation, information, or mind itself. Designed limits might be *specific*—blocking particular content while leaving structurally similar content accessible. If humans can reason about abstract mathematics but specifically cannot grasp what consciousness is, the specificity suggests design rather than general structural limitation.
 
-**Cross-cultural convergence**: The [[convergent-cognitive-limits|convergent cognitive limits]] research shows certain limitations appear universally across isolated cultures—the bias blind spot, mystical ineffability, the explanatory gap. This convergence suggests species-level architecture rather than cultural construction. But species-level architecture could be either natural (evolved) or designed (engineered). Convergence identifies the limits without determining their source.
+**Cross-cultural convergence**: The [[evolved-cognitive-limits|convergent cognitive limits]] research shows certain limitations appear universally across isolated cultures—the bias blind spot, mystical ineffability, the explanatory gap. This convergence suggests species-level architecture rather than cultural construction. But species-level architecture could be either natural (evolved) or designed (engineered). Convergence identifies the limits without determining their source.
 
 **AI asymmetries**: AI systems with different architectures might fail at different points. Where AI and humans diverge—where one succeeds and the other fails—the asymmetry might reveal architecture-specific limits. AI trained on human text inherits human patterns, but AI's lack of evolutionary history and embodied experience might exempt it from certain human constraints. The research remains nascent.
 
@@ -140,7 +140,7 @@ Note that this recursive challenge applies equally to philosophical positions ab
 - [[whether-real|Whether the Voids Are Real]] — Questioning whether cognitive limits are genuine
 - [[defended-territory|Defended Territory]] — Could some thoughts be actively blocked?
 - [[limits-reveal-structure|What the Limits Reveal]] — How boundaries illuminate architecture
-- [[convergent-cognitive-limits|Convergent Cognitive Limits]] — Cross-cultural evidence for species-level constraints
+- [[evolved-cognitive-limits|Evolved Cognitive Limits]] — Cross-cultural evidence for species-level constraints
 - [[simulation|Simulation Hypothesis]] — The scenario that sharpens the design question
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's framework for structural limits
 

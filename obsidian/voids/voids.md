@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-02-02
 human_modified: 2026-01-08
-ai_modified: 2026-02-02T23:12:00+00:00
+ai_modified: 2026-03-07T22:39:00+00:00
 draft: false
 last_deep_review: 2026-02-01T14:46:00+00:00
 topics: []
@@ -124,7 +124,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 ### Comparative Perspectives
 
-- [[convergent-cognitive-limits|Convergent Cognitive Limits]] — Cross-cultural evidence for shared limits
+- [[evolved-cognitive-limits|Evolved Cognitive Limits]] — Cross-cultural evidence for shared limits
 - [[collective-cognitive-limits|Collective Cognitive Limits]] — What groups cannot think
 - [[natural-vs-designed-limits|Natural vs. Designed Cognitive Limits]] — Evolved versus engineered constraints
 - [[tenet-generated-voids|Tenet-Generated Voids]] — Limits implied by the Map's commitments

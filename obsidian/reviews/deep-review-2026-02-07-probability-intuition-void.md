@@ -36,7 +36,7 @@ last_curated: null
 
 - **T&K 1971 quote truncated without ellipsis**: Added ellipsis to indicate truncation.
 - **"200,000 years" outdated**: Updated to "300,000 years" per current evidence (Jebel Irhoud fossils, ~315,000 years).
-- **Missing cross-links**: Added links to [[cognitive-closure]], [[qualia]], [[hard-problem-of-consciousness]], [[convergent-cognitive-limits]], and [[developmental-cognitive-closure]].
+- **Missing cross-links**: Added links to [[cognitive-closure]], [[qualia]], [[hard-problem-of-consciousness]], [[evolved-cognitive-limits]], and [[developmental-cognitive-closure]].
 - **"Bird flocks" claim unattributed**: Removed unattributed claim; replaced with formal error management theory framework.
 
 ### Counterarguments Considered
@@ -69,7 +69,7 @@ last_curated: null
 - [[cognitive-closure]]
 - [[qualia]]
 - [[hard-problem-of-consciousness]]
-- [[convergent-cognitive-limits]]
+- [[evolved-cognitive-limits]]
 - [[developmental-cognitive-closure]]
 
 ## Remaining Items

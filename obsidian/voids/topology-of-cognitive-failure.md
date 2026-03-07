@@ -4,7 +4,7 @@ description: "Human+AI exploration of how cognitive failures reveal void boundar
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-02-25T00:58:00+00:00
+ai_modified: 2026-03-07T22:39:00+00:00
 draft: false
 last_deep_review: 2026-02-25T00:58:00+00:00
 topics:
@@ -22,7 +22,7 @@ related_articles:
   - "[[thoughts-that-slip-away]]"
   - "[[self-reference-paradox]]"
   - "[[apophatic-approaches]]"
-  - "[[convergent-cognitive-limits]]"
+  - "[[evolved-cognitive-limits]]"
   - "[[compound-cognitive-limits]]"
 ai_contribution: 100
 author: null
@@ -156,7 +156,7 @@ The topology-of-failure thesis would be undermined if:
 
 3. **Failures prove corrigible.** If apparent limits can be transcended through training, enhancement, or reconceptualization, they were not genuine limits but current ignorance. Some failures must prove permanent to mark genuine void boundaries.
 
-Current evidence supports structured, persistent failure patterns. The hard problem remains as puzzling as ever despite millennia of inquiry. [[convergent-cognitive-limits|Cross-cultural convergence]] on ineffability, aporia, and introspective limits suggests we track something real.
+Current evidence supports structured, persistent failure patterns. The hard problem remains as puzzling as ever despite millennia of inquiry. [[evolved-cognitive-limits|Cross-cultural convergence]] on ineffability, aporia, and introspective limits suggests we track something real.
 
 ## Relation to Site Perspective
 
@@ -176,7 +176,7 @@ The voids framework itself embodies this insight. We map not by entering void te
 
 - [[voids|Voids in the Map]] — The framework for investigating cognitive dark spaces
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate cognitive architecture
-- [[convergent-cognitive-limits|Convergent Cognitive Limits]] — Cross-cultural evidence for shared boundaries
+- [[evolved-cognitive-limits|Evolved Cognitive Limits]] — Cross-cultural evidence for shared boundaries
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching cognitive limits feels like
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
 - [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — Formalising the method with evidential standards and safeguards

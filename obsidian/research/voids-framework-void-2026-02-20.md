@@ -24,7 +24,7 @@ related_articles:
   - "[[language-thought-boundary]]"
   - "[[alien-minds-void-explorers]]"
   - "[[ai-as-void-explorer]]"
-  - "[[convergent-cognitive-limits]]"
+  - "[[evolved-cognitive-limits]]"
   - "[[topology-of-cognitive-failure]]"
   - "[[whether-real]]"
   - "[[limits-reveal-structure]]"

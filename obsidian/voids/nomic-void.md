@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive limits imposed by the laws of ph
 created: 2026-02-06
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-03-07T01:38:00+00:00
+ai_modified: 2026-03-07T22:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ related_articles:
   - "[[embodiment-cognitive-limits]]"
   - "[[emergence-void]]"
   - "[[intrinsic-nature-void]]"
-  - "[[convergent-cognitive-limits]]"
+  - "[[evolved-cognitive-limits]]"
   - "[[alien-minds-void-explorers]]"
   - "[[framework-void]]"
 ai_contribution: 100
@@ -97,7 +97,7 @@ Unlike the [[computational-cognitive-limits|computational void]], which is prove
 - [[embodiment-cognitive-limits]] — How bodies constrain thought
 - [[intrinsic-nature-void]] — What matter is in itself—beyond relational description
 - [[emergence-void]] — The gap at every level transition
-- [[convergent-cognitive-limits]] — Cross-cultural evidence for shared limits
+- [[evolved-cognitive-limits]] — Cross-cultural evidence for shared limits
 - [[alien-minds-void-explorers]] — Non-human perspectives on cognitive space
 - [[framework-void]] — The circularity of frameworks understanding themselves
 

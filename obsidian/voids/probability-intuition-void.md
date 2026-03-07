@@ -4,7 +4,7 @@ description: "Human+AI exploration of why genuine randomness and probabilistic r
 created: 2026-02-03
 modified: 2026-02-07
 human_modified: null
-ai_modified: 2026-02-07T02:26:00+00:00
+ai_modified: 2026-03-07T22:39:00+00:00
 last_deep_review: 2026-02-07T02:26:00+00:00
 draft: false
 topics:
@@ -20,7 +20,7 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[scale-void]]"
   - "[[embodiment-cognitive-limits]]"
-  - "[[convergent-cognitive-limits]]"
+  - "[[evolved-cognitive-limits]]"
   - "[[developmental-cognitive-closure]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[hard-problem-of-consciousness]]"
@@ -111,7 +111,7 @@ The probability intuition void connects to the Map's [[tenets]] in several ways.
 - [[three-kinds-of-void]] — The core taxonomy: unexplored, unexplorable, occluded
 - [[scale-void]] — The related void concerning magnitude comprehension
 - [[mysterianism|cognitive closure]] — McGinn's framework for permanent cognitive limits
-- [[convergent-cognitive-limits]] — Cross-cultural evidence that probability errors are species-level, not cultural
+- [[evolved-cognitive-limits]] — Cross-cultural evidence that probability errors are species-level, not cultural
 - [[developmental-cognitive-closure]] — How cognitive limits are acquired through development
 - [[embodiment-cognitive-limits]] — How bodies constrain thought
 - [[phenomenology-of-the-edge]] — What approaching limits feels like

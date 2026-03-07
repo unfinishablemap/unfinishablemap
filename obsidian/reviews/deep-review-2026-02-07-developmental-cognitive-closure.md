@@ -56,7 +56,7 @@ last_curated: null
 ### Cross-links Added
 None new (existing cross-links are comprehensive). The following related articles could benefit from linking *to* this article:
 - [[three-kinds-of-void]] — developmental closure as example of acquired occlusion
-- [[convergent-cognitive-limits]] — developmental closure compounds across cultures similarly
+- [[evolved-cognitive-limits]] — developmental closure compounds across cultures similarly
 - [[embodiment-cognitive-limits]] — embodiment changes during development
 - [[phenomenology-of-the-edge]] — "absence rather than presence" contrasts with edge-clarity
 - [[mysterianism]] — developmental closure as empirical evidence for cognitive closure thesis

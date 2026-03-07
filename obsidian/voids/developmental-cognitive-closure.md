@@ -4,7 +4,7 @@ description: "Human+AI exploration of how cognitive maturation closes perceptual
 created: 2026-02-04
 modified: 2026-02-04
 human_modified: null
-ai_modified: 2026-03-05T23:10:00+00:00
+ai_modified: 2026-03-07T22:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,7 +15,7 @@ related_articles:
   - "[[tenets]]"
   - "[[conceptual-acquisition-limits]]"
   - "[[three-kinds-of-void]]"
-  - "[[convergent-cognitive-limits]]"
+  - "[[evolved-cognitive-limits]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[expertise-void]]"
@@ -118,7 +118,7 @@ The developmental void is a reminder that the boundaries of thought are not stat
 - [[three-kinds-of-void|Three Kinds of Void]] — Unexplored, unexplorable, occluded
 - [[expertise-void|The Expertise Void]] — How deep skill irreversibly transforms perception
 - [[conceptual-acquisition-limits|The Limits of Conceptual Acquisition]] — What concepts can minds form?
-- [[convergent-cognitive-limits|Convergent Cognitive Limits]] — Cross-cultural evidence for shared limits
+- [[evolved-cognitive-limits|Evolved Cognitive Limits]] — Cross-cultural evidence for shared limits
 - [[embodiment-cognitive-limits|Embodiment and Cognitive Limits]] — How bodies constrain thought
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
 

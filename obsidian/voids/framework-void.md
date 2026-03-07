@@ -4,7 +4,7 @@ description: "Every conceptual framework excludes what it cannot represent. The 
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-03-06T21:38:00+00:00
+ai_modified: 2026-03-07T22:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[conceptual-impossibility]]"
   - "[[language-thought-boundary]]"
-  - "[[convergent-cognitive-limits]]"
+  - "[[evolved-cognitive-limits]]"
   - "[[topology-of-cognitive-failure]]"
   - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
@@ -106,7 +106,7 @@ The framework void ultimately suggests that the Map is unfinishable not merely b
 - [[language-thought-boundary]] — Where articulation fails within a framework
 - [[tenet-generated-voids]] — How the Map's own commitments generate framework-specific blind spots
 - [[limits-reveal-structure]] — The principle that what we cannot think reveals what kind of minds we are
-- [[convergent-cognitive-limits]] — Cross-cultural evidence for species-level framework constraints
+- [[evolved-cognitive-limits]] — Cross-cultural evidence for species-level framework constraints
 - [[ai-as-void-explorer]] — Whether artificial minds can transcend human framework limits
 
 ## References

@@ -17,7 +17,7 @@ related_articles:
   - "[[tenets]]"
   - "[[scale-void]]"
   - "[[embodiment-cognitive-limits]]"
-  - "[[convergent-cognitive-limits]]"
+  - "[[evolved-cognitive-limits]]"
   - "[[natural-vs-designed-limits]]"
   - "[[phenomenology-of-the-edge]]"
 ai_contribution: 100

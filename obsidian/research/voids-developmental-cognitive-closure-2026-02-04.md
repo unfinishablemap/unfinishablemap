@@ -15,7 +15,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[conceptual-acquisition-limits]]"
-  - "[[convergent-cognitive-limits]]"
+  - "[[evolved-cognitive-limits]]"
   - "[[embodiment-cognitive-limits]]"
 ai_contribution: 100
 author: null

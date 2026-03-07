@@ -20,7 +20,7 @@ related_articles:
   - "[[embodiment-cognitive-limits]]"
   - "[[emergence-void]]"
   - "[[intrinsic-nature-void]]"
-  - "[[convergent-cognitive-limits]]"
+  - "[[evolved-cognitive-limits]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
