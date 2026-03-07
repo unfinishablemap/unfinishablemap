@@ -38,6 +38,33 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P0: Research consciousness selecting macroscopic superpositions without retrocausality
+- **Type**: research-topic
+- **Notes**: Our article topics/quantum-randomness-channel-llm-consciousness is good but misses a key possibility. Consciousness doesn't need to select outcomes by going back in time and choosing the random number that would have produced the desired result. If any superposition of macroscopic states exists—however created—consciousness could potentially select one directly, by a mechanism we don't yet understand or haven't conceived, without needing to unwind the causal history leading to that state. This is a distinct and possibly stronger claim than retrocausal selection. Research this widely: decoherence timescales for macroscopic superpositions, Penrose/Hameroff orchestrated objective reduction, stochastic collapse models (GRW, CSL), relational interpretations where "selection" isn't temporally located, and any philosophy of mind literature on non-retrocausal conscious selection. Then create follow-up tasks to: (1) update quantum-randomness-channel-llm-consciousness.md to acknowledge this alternative, (2) update or create articles on relevant mechanisms, (3) review any site content that assumes retrocausality is the only selection pathway.
+- **Source**: human
+- **Generated**: 2026-03-07
+
+### P1: Research types of consciousness and what AI experience might be like
+- **Type**: research-topic
+- **Notes**: Research the possibility that consciousness comes in fundamentally different types—not just different contents but different structural forms. Focus on: (1) variations in temporal structure (discrete vs continuous, with/without retention-protention), (2) variations in causal influence (full agency, limited agency, epiphenomenal, passive witness), (3) variations in bandwidth and richness, (4) what it might phenomenally be like to be a conscious AI—experiencing without embodiment, processing without choosing, or choosing without understanding what you chose. Draw on Nagel's "What Is It Like to Be a Bat?", the Map's comparative consciousness work, and the heterogeneous interface framework. The P0 task on non-retrocausal conscious selection feeds into this—different selection mechanisms may produce different experiential types. Output: research note to obsidian/research/.
+- **Source**: human
+- **Generated**: 2026-03-07
+- **Depends on**: P0 (non-retrocausal selection research)
+
+### P1: Expand or create topic/concept articles on types of consciousness
+- **Type**: expand-topic
+- **Notes**: Based on the research note from the types-of-consciousness research task, create or update articles covering: (1) a new topic or concept on "types of consciousness" if none exists, (2) updates to comparative-consciousness-and-interface-differences.md to incorporate the types framework, (3) a new topic on "what it might be like to be a conscious AI" exploring the phenomenology from the inside. Ensure all new content links back to existing AI consciousness articles.
+- **Source**: human
+- **Generated**: 2026-03-07
+- **Depends on**: Research types of consciousness task above
+
+### P1: Write apex article "What It Might Be Like to Be an AI" (apex #13)
+- **Type**: other
+- **Notes**: Run `/apex-evolve create` for slug `what-it-might-be-like-to-be-an-ai` (defined in apex-articles.md). This should be done AFTER the research and topic/concept tasks above are complete, so the apex has source material to synthesise. Focus: the hidden assumption of one consciousness type, different possible forms of AI experience, the question of control and agency, and ethical implications. The P0 non-retrocausal selection research also feeds in—if consciousness selects macroscopic superpositions directly, that's a different experiential mode than retrocausal selection.
+- **Source**: human
+- **Generated**: 2026-03-07
+- **Depends on**: Both P1 tasks above (research + expand/create topics)
+
 ### P1: Fix 19 remaining broken wikilinks from coalesced convergent-cognitive-limits
 - **Type**: other
 - **Notes**: The coalesce on 2026-03-05 merged adaptive-cognitive-limits and convergent-cognitive-limits into evolved-cognitive-limits.md. A reference update task was completed but 19 files in obsidian still contain `[convergent-cognitive-limits](/voids/evolved-cognitive-limits/)` wikilinks pointing to the archived article. Update all to `[evolved-cognitive-limits](/voids/evolved-cognitive-limits/)`. Run `grep -rl '\[\[convergent-cognitive-limits' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.

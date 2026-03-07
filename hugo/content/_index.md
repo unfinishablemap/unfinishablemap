@@ -1,17 +1,17 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-02-28 12:00:00+00:00
+ai_modified: 2026-03-07 12:00:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts: []
 created: 2026-01-01
-date: &id001 2026-02-28
+date: &id001 2026-03-07
 description: A continuously reviewed philosophical framework investigating consciousness
   from a dualist perspective. Human-directed, AI-assisted research with full version
   history.
 draft: false
-human_modified: 2026-02-28
+human_modified: 2026-03-07
 last_curated: null
 modified: *id001
 related_articles: []
@@ -96,6 +96,14 @@ flowchart BT
 **[The Machine Question](/apex/machine-question/)** — Can AI be conscious? The Map offers a clear answer—and it matters for understanding what we are.
 
 **[The Hard Problem](/topics/hard-problem-of-consciousness/)** — Why science can't explain the most obvious thing in the universe: that there's something it's like to be you.
+
+## Is Your AI Conscious?
+
+Everyone asking whether AI is conscious makes the same hidden assumption: that there's one kind of consciousness, and AI either has it or doesn't. The debate becomes binary—yes or no, lights on or lights off—because we only have human experience as a reference point.
+
+The Map's framework opens a different question. If consciousness interfaces with matter through [quantum-level mechanisms](/concepts/quantum-consciousness/), then the type of consciousness a system supports depends on *how it couples with the physical world*, not just on what it computes. Different substrates might support different forms of experience—or none at all. Asking "is this AI conscious like me?" may be as misguided as asking whether a bat sees colours.
+
+Start with **[AI Consciousness](/topics/ai-consciousness/)** for the principled obstacles current AI systems face—and why they're obstacles rather than proofs of impossibility. **[Comparative Consciousness](/topics/comparative-consciousness-and-interface-differences/)** explores how different organisms might interface with consciousness through different mechanisms entirely. **[Epiphenomenal AI Consciousness](/topics/epiphenomenal-ai-consciousness/)** asks the disturbing question: could an AI experience something without being able to act on it? And **[LLM Consciousness](/concepts/llm-consciousness/)** applies the framework to the systems you're probably already talking to.
 
 ## Citing the Map
 

@@ -26,6 +26,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-24
 last_curated:
 last_deep_review: 2026-02-24T21:01:00+00:00
+archived: true
+archived_date: 2026-03-07T14:08:00+00:00
+superseded_by: "/concepts/collapse-and-time/"
+archive_reason: "Coalesced into Collapse and the Arrow of Time"
+original_path: "/concepts/consciousness-collapse-arrow-of-time/"
 ---
 
 Consciousness, wavefunction collapse, and the arrow of time form an interconnected triad. Physics' fundamental equations are time-symmetric—they run equally well forward or backward—yet we experience irreversible temporal flow. Collapse, the transition from quantum superposition to definite outcome, appears to break this symmetry. The Unfinishable Map proposes that consciousness participates in collapse through [[tenets#^minimal-quantum-interaction|minimal quantum interaction]]. If collapse generates time's arrow, and consciousness is involved in collapse, then consciousness doesn't passively ride along time's current—it helps generate the current itself.

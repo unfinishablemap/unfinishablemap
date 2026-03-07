@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-07 14:08 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/consciousness-collapse-arrow-of-time]]
+- **Target**: [[concepts/collapse-and-time]]
+- **Archived**: [[archive/concepts/consciousness-collapse-arrow-of-time]]
+- **References updated**: 1 (time-collapse-and-agency)
+- **Notes**: Merged companion article into the more heavily referenced collapse-and-time. Added "How Consciousness Relates to Time's Arrow" section, "The Triad's Interdependence" section, "Empirical Anchors" section, and enhanced tenet coverage. Concepts section freed 1 slot (198→197/200).
+
 ## 2026-03-07 09:38 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/cross-cultural-convergence-on-mental-causation]]

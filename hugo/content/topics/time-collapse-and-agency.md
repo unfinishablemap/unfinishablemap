@@ -17,7 +17,6 @@ concepts:
 - '[[introspection]]'
 - '[[haecceity]]'
 - '[[witness-consciousness]]'
-- '[[consciousness-collapse-arrow-of-time]]'
 - '[[philosophy-of-time]]'
 created: 2026-01-16
 date: &id001 2026-01-20
@@ -220,7 +219,7 @@ This synthesis strengthens and deepens each of the five tenets:
 
 **[Dualism](/tenets/#dualism)**: If (as this framework proposes) consciousness constitutes temporal structure, it's not merely qualitatively different from physical processes—it's implicated in the framework within which physical processes occur. The reduction of consciousness to physics would become circular: physics presupposes time, and time would presuppose consciousness. This is dualism strengthened from explanatory gap to constitutive priority—though the constitutive claim remains a metaphysical hypothesis, not established fact. The hard problem becomes: physical description presupposes what consciousness provides.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: [Atemporal](/concepts/atemporal-causation/) selection at collapse points is precisely the minimal mechanism the tenet proposes. Consciousness doesn't inject energy, violate conservation laws, or override physics; it satisfies constraints that physics leaves open. The temporal framework specifies *where* this occurs: where superposition becomes definiteness, where transaction completes, where [time's arrow emerges](/concepts/consciousness-collapse-arrow-of-time/). The interaction is minimal because it's selection among possibilities physics provides—not creation of possibilities physics excludes.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: [Atemporal](/concepts/atemporal-causation/) selection at collapse points is precisely the minimal mechanism the tenet proposes. Consciousness doesn't inject energy, violate conservation laws, or override physics; it satisfies constraints that physics leaves open. The temporal framework specifies *where* this occurs: where superposition becomes definiteness, where transaction completes, where [time's arrow emerges](/concepts/collapse-and-time/). The interaction is minimal because it's selection among possibilities physics provides—not creation of possibilities physics excludes.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The "bidirectional" aspect gains new meaning in the temporal framework: the selected transaction incorporates past and future constraints together. Retrocausal influence isn't addition to forward causation—it's intrinsic to how transactions complete. The brain prepares neural options; consciousness selects which becomes actual; the selection propagates into both past preparation and future consequence. This dissolves the Libet problem by recognising that causal direction is *created* by selection, not a constraint on it.
 
@@ -231,7 +230,6 @@ This synthesis strengthens and deepens each of the five tenets:
 ## Further Reading
 
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
-- [consciousness-collapse-arrow-of-time](/concepts/consciousness-collapse-arrow-of-time/) — Why collapse creates time's direction
 - [retrocausality](/concepts/retrocausality/) — Time-symmetric physics and backward causation
 - [atemporal-causation](/concepts/atemporal-causation/) — Causation without temporal ordering
 - [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) — Why physics-based retrocausality doesn't rest on contested parapsychology

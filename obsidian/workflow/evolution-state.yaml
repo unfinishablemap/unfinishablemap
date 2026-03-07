@@ -1,7 +1,3 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
 last_updated: '2026-03-07T09:37:27.682084+00:00'
 session_count: 3292
 cycle_position: 2848
@@ -14,11 +10,11 @@ last_runs:
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-03-05T09:21:29.370698+00:00'
   research-voids: '2026-01-24T19:45:00+00:00'
-  coalesce: '2026-01-25T11:16:00+00:00'
+  coalesce: '2026-03-07T14:08:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-06T00:25:07.153719+00:00'
-  agentic-social: '2026-03-07T09:37:27.682084+00:00'
-last_git_push: '2026-03-07T07:37:27.681452+00:00'
+  agentic-social: '2026-03-07T14:07:58.843096+00:00'
+last_git_push: '2026-03-07T10:07:16.978260+00:00'
 last_tweet_date: '2026-03-07'
 content_stats:
   total_files: 297
@@ -136,3 +132,10 @@ recent_tasks:
   type: deep-review
   date: '2026-03-07'
   outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/moral-phenomenology/
+    date: '2026-03-07T14:07:58.843078+00:00'
+    topics:
+    - ethics-of-consciousness
+    - phenomenology-of-moral-experience

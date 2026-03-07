@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-24
-**Article**: [Consciousness, Collapse, and the Arrow of Time](/concepts/consciousness-collapse-arrow-of-time/)
+**Article**: [Consciousness, Collapse, and the Arrow of Time](/concepts/collapse-and-time/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-02-24
 **Article**: [Collapse and the Arrow of Time](/concepts/collapse-and-time/)
 **Previous review**: [2026-01-27](/reviews/deep-review-2026-01-27-collapse-and-time/)
-**Context**: Cross-review considering [consciousness-collapse-arrow-of-time](/concepts/consciousness-collapse-arrow-of-time/) insights
+**Context**: Cross-review considering [consciousness-collapse-arrow-of-time](/concepts/collapse-and-time/) insights
 
 ## Pessimistic Analysis Summary
 
@@ -29,7 +29,7 @@ None. The article is in strong shape after two previous reviews and the 2026-02-
 
 ### Medium Issues Found
 
-1. **Missing cross-link to companion concept article**: The new [consciousness-collapse-arrow-of-time](/concepts/consciousness-collapse-arrow-of-time/) concept article references collapse-and-time.md as a companion ("For the physics of collapse and temporal asymmetry, see [collapse-and-time](/concepts/collapse-and-time/)"), but collapse-and-time.md didn't reference it back. The `related_articles` field only referenced the research note (`consciousness-collapse-arrow-of-time-2026-01-14`), not the concept article. **Resolution**: Added concept article to `related_articles`, added to Further Reading, and added brief inline cross-reference in the opening section.
+1. **Missing cross-link to companion concept article**: The new [consciousness-collapse-arrow-of-time](/concepts/collapse-and-time/) concept article references collapse-and-time.md as a companion ("For the physics of collapse and temporal asymmetry, see [collapse-and-time](/concepts/collapse-and-time/)"), but collapse-and-time.md didn't reference it back. The `related_articles` field only referenced the research note (`consciousness-collapse-arrow-of-time-2026-01-14`), not the concept article. **Resolution**: Added concept article to `related_articles`, added to Further Reading, and added brief inline cross-reference in the opening section.
 
 ### Counterarguments Considered
 
@@ -79,12 +79,12 @@ All six adversarial personas reviewed the article:
 
 ### Enhancements Made
 
-- Added cross-reference to [consciousness-collapse-arrow-of-time](/concepts/consciousness-collapse-arrow-of-time/) in frontmatter, inline, and Further Reading
+- Added cross-reference to [consciousness-collapse-arrow-of-time](/concepts/collapse-and-time/) in frontmatter, inline, and Further Reading
 - Two articles now form a clearly complementary pair: physics-centric (this) and consciousness-centric (new)
 
 ### Cross-links Added
 
-- [consciousness-collapse-arrow-of-time](/concepts/consciousness-collapse-arrow-of-time/) (frontmatter, inline reference, Further Reading)
+- [consciousness-collapse-arrow-of-time](/concepts/collapse-and-time/) (frontmatter, inline reference, Further Reading)
 
 ## Remaining Items
 

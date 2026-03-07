@@ -25,10 +25,10 @@ topics: []
 ### Critical Issues Found
 
 1. **Duplicate frontmatter concepts**: `[temporal-consciousness](/concepts/temporal-consciousness/)` appeared 3 times in `concepts` list — artifact of automated wikilink consolidation that merged `specious-present` and `duration` into `temporal-consciousness`.
-   - *Resolution*: Deduplicated to single entry; added `[atemporal-causation](/concepts/atemporal-causation/)`, `[consciousness-collapse-arrow-of-time](/concepts/consciousness-collapse-arrow-of-time/)`, and `[philosophy-of-time](/concepts/philosophy-of-time/)` as properly distinct related concepts.
+   - *Resolution*: Deduplicated to single entry; added `[atemporal-causation](/concepts/atemporal-causation/)`, `[consciousness-collapse-arrow-of-time](/concepts/collapse-and-time/)`, and `[philosophy-of-time](/concepts/philosophy-of-time/)` as properly distinct related concepts.
 
 2. **Triplicate Further Reading entries**: `[temporal-consciousness](/concepts/temporal-consciousness/)` listed 3 times with different descriptions (formerly separate articles for durée, specious present, and temporal consciousness generally).
-   - *Resolution*: Consolidated to single entry with combined description; added cross-links to `[consciousness-collapse-arrow-of-time](/concepts/consciousness-collapse-arrow-of-time/)`, `[atemporal-causation](/concepts/atemporal-causation/)`, and `[philosophy-of-time](/concepts/philosophy-of-time/)`.
+   - *Resolution*: Consolidated to single entry with combined description; added cross-links to `[consciousness-collapse-arrow-of-time](/concepts/collapse-and-time/)`, `[atemporal-causation](/concepts/atemporal-causation/)`, and `[philosophy-of-time](/concepts/philosophy-of-time/)`.
 
 ### Medium Issues Found
 
@@ -54,14 +54,14 @@ No new counterarguments requiring response. All major objections (illusionism, d
 
 1. Deduplicated frontmatter concepts (data quality fix)
 2. Consolidated Further Reading from 18 to 19 entries (removed 2 duplicates, added 3 new cross-links)
-3. Added cross-links to newer related articles: `[atemporal-causation](/concepts/atemporal-causation/)`, `[consciousness-collapse-arrow-of-time](/concepts/consciousness-collapse-arrow-of-time/)`, `[philosophy-of-time](/concepts/philosophy-of-time/)`
+3. Added cross-links to newer related articles: `[atemporal-causation](/concepts/atemporal-causation/)`, `[consciousness-collapse-arrow-of-time](/concepts/collapse-and-time/)`, `[philosophy-of-time](/concepts/philosophy-of-time/)`
 4. Added inline cross-links in Process Philosophy and Relation to Site Perspective sections
 5. Tightened prose in Process Philosophy and tenet sections (-118 words)
 
 ### Cross-links Added
 
 - [atemporal-causation](/concepts/atemporal-causation/)
-- [consciousness-collapse-arrow-of-time](/concepts/consciousness-collapse-arrow-of-time/)
+- [consciousness-collapse-arrow-of-time](/concepts/collapse-and-time/)
 - [philosophy-of-time](/concepts/philosophy-of-time/)
 
 ## Remaining Items
