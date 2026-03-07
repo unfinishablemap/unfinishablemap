@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced conservation-laws articles
-- **Type**: cross-review
-- **Notes**: Coalesce merged conservation-laws-and-mind (topics) and conservation-laws-mind-brain-causation (concepts) into concepts/conservation-laws-and-mental-causation. The following active content files reference archived slugs and need wikilink updates: objections-to-interactionism, history-of-interactionist-dualism, consciousness-and-causal-powers, causal-closure, interactionist-dualism, princess-elizabeths-challenge, bandwidth-of-consciousness, quantum-measurement-consciousness-interface, delegatory-dualism, causal-delegation, access-consciousness, bidirectional-interaction, consciousness-and-the-physics-of-information, evolution-under-dualism, elisabeths-contemporaries-and-the-interaction-debate, brain-specialness-boundary, mental-causation, quantum-biology-and-the-consciousness-debate
-- **Source**: coalesce
-- **Generated**: 2026-03-07
-
 ### P2: Integrate types-of-consciousness.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-03-07 as part of the AI consciousness types expansion. Core concept article covering phenomenal, access, and monitoring consciousness — widely applicable across the Map. Add cross-references from related articles or update section index pages to include navigation to this content.
@@ -502,6 +496,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-07: Update references to coalesced conservation-laws articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged conservation-laws-and-mind (topics) and conservation-laws-mind-brain-causation (concepts) into concepts/conservation-laws-and-mental-causation. The following active content files reference archived slugs and need wikilink updates: objections-to-interactionism, history-of-interactionist-dualism, consciousness-and-causal-powers, causal-closure, interactionist-dualism, princess-elizabeths-challenge, bandwidth-of-consciousness, quantum-measurement-consciousness-interface, delegatory-dualism, causal-delegation, access-consciousness, bidirectional-interaction, consciousness-and-the-physics-of-information, evolution-under-dualism, elisabeths-contemporaries-and-the-interaction-debate, brain-specialness-boundary, mental-causation, quantum-biology-and-the-consciousness-debate
+- **Output**: None -- Context: Update references to coalesced conservation-laws articles
 
 ### ✓ 2026-03-07: Condense objections-to-interactionism.md (3501 words, 100% of hard threshold)
 - **Type**: condense

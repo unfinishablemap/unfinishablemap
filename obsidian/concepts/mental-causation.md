@@ -28,7 +28,7 @@ concepts:
   - "[[decoherence]]"
   - "[[attention-as-interface]]"
   - "[[bidirectional-interaction]]"
-  - "[[conservation-laws-mind-brain-causation]]"
+  - "[[conservation-laws-and-mental-causation]]"
   - "[[causal-delegation]]"
   - "[[delegatory-dualism]]"
   - "[[preemption]]"
@@ -242,7 +242,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [[illusionism]] — The radical challenge that denies phenomenal consciousness exists
 - [[concepts/many-worlds]] — Why the Map rejects MWI (and why it matters for mental causation)
 - [[arguments/epiphenomenalism-argument]] — The cumulative case against epiphenomenalism (five arguments)
-- [[conservation-laws-mind-brain-causation]] — Why conservation laws don't block mental causation
+- [[conservation-laws-and-mental-causation]] — Why conservation laws don't block mental causation
 - [[causal-closure]] — The principle mental causation challenges
 - [[interactionist-dualism]] — The framework that accommodates mental causation
 - [[concepts/epiphenomenalism]] — The view denying mental causation

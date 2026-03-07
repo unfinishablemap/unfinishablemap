@@ -28,7 +28,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[the-case-for-dualism]]"
-  - "[[conservation-laws-and-mind]]"
+  - "[[conservation-laws-and-mental-causation]]"
   - "[[objections-to-interactionist-dualism-2026-01-15]]"
 ai_contribution: 100
 author: null
@@ -66,7 +66,7 @@ The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] fr
 
 Since Leibniz, critics argue that mind-body interaction violates conservation of energy and momentum. If mind causally affects body, energy must enter the physical system from outside. Papineau (2001) develops this into an argument for causal closure; Carroll (2016) demands to know what particles a soul is made of.
 
-For comprehensive treatment, see [[conservation-laws-and-mind]]. The key responses:
+For comprehensive treatment, see [[conservation-laws-and-mental-causation]]. The key responses:
 
 ### Response 1: Conservation Is Local and Conditional
 
@@ -173,7 +173,7 @@ These are empirical and interpretive questions, not settled by philosophical arg
 | Objection | Target | Site's Response | Strength |
 |-----------|--------|-----------------|----------|
 | Pairing problem | Substance dualism | Minds are spatially located (in brains); [[interface-locality]] provides natural pairing; [[haecceity]] offers alternative grounding | Strong |
-| Conservation laws | Interactionism | Conservation is local/conditional (Pitts/Cucu); selection not injection at quantum indeterminacies; see [[conservation-laws-and-mind]] | Strong |
+| Conservation laws | Interactionism | Conservation is local/conditional (Pitts/Cucu); selection not injection at quantum indeterminacies; see [[conservation-laws-and-mental-causation]] | Strong |
 | Parsimony | Dualism | Consciousness is evidence; materialism doesn't explain it; simplicity isn't truth | Strong |
 | Decoherence | Quantum interactionism | Quantum biology evidence, decoherence doesn't solve measurement problem | Moderate |
 | Evolutionary argument | Epiphenomenalism | *Supports* interactionism—consciousness must cause to be selected | N/A (supports site) |
@@ -195,7 +195,7 @@ The exclusion argument receives two complementary responses: quantum insufficien
 
 ## Further Reading
 
-- [[conservation-laws-and-mind]] — Comprehensive response to the conservation objection
+- [[conservation-laws-and-mental-causation]] — Comprehensive response to the conservation objection
 - [[delegatory-dualism]] — Saad's solution to exclusion via preemption
 - [[interactionist-dualism]] — The position these objections target
 - [[pairing-problem]] — Detailed treatment of Kim's pairing challenge

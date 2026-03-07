@@ -22,7 +22,7 @@ concepts:
   - "[[entanglement-binding-hypothesis]]"
 related_articles:
   - "[[tenets]]"
-  - "[[conservation-laws-and-mind]]"
+  - "[[conservation-laws-and-mental-causation]]"
   - "[[bradford-saad-delegatory-dualism-2026-01-28]]"
 ai_contribution: 100
 author:
@@ -246,7 +246,7 @@ Saad's work strengthens the philosophical foundations for the Map's interactioni
 - [[illusionism]] — The radical challenge that denies phenomenal consciousness exists
 - [[concepts/many-worlds]] — Why the Map rejects MWI (relevant to Map's quantum integration, not Saad's theory)
 - [[psychophysical-laws]] — Chalmers' framework for mind-body laws
-- [[conservation-laws-and-mind]] — Why conservation doesn't block mental causation
+- [[conservation-laws-and-mental-causation]] — Why conservation doesn't block mental causation
 - [[entanglement-binding-hypothesis]] — Quantum entanglement as the physical substrate for unified experience
 - [[bradford-saad-delegatory-dualism-2026-01-28]] — Research notes on Saad's work
 

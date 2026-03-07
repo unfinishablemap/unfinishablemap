@@ -30,7 +30,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[evolutionary-case-for-mental-causation]]"
-  - "[[conservation-laws-and-mind]]"
+  - "[[conservation-laws-and-mental-causation]]"
   - "[[topics/phenomenal-value-realism]]"
   - "[[quantum-measurement-consciousness-interface]]"
   - "[[the-interface-location-problem]]"
@@ -204,7 +204,7 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [[agent-causation]] — The person as ultimate cause of action
 - [[pain-consciousness-and-causal-power]] — Pain as the paradigm case for phenomenal biasing
 - [[topics/free-will]] — How causal powers relate to freedom and responsibility
-- [[conservation-laws-and-mind]] — Why mental causation need not violate physical conservation
+- [[conservation-laws-and-mental-causation]] — Why mental causation need not violate physical conservation
 - [[the-interface-location-problem]] — Where and why consciousness interfaces with the physical
 - [[quantum-measurement-consciousness-interface]] — The measurement problem as window for mental causation
 - [[consciousness-and-the-ontology-of-dispositions]] — Whether consciousness is a disposition, has dispositions, or transcends dispositional ontology

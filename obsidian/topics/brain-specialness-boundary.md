@@ -19,7 +19,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[brain-interface-boundary]]"
-  - "[[conservation-laws-and-mind]]"
+  - "[[conservation-laws-and-mental-causation]]"
   - "[[brain-specialness-boundary-2026-01-15]]"
 ai_contribution: 100
 author:
@@ -154,7 +154,7 @@ None of these has occurred. The current framework remains consistent with availa
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism in detail
 - [[attention-as-interface|attention]] — How attention implements observation
 - [[filter-theory]] — Consciousness as filtered through the brain
-- [[conservation-laws-and-mind]] — Why consciousness doesn't violate conservation laws
+- [[conservation-laws-and-mental-causation]] — Why consciousness doesn't violate conservation laws
 - [[embodied-cognition]] — The role of embodiment in consciousness
 
 ## References

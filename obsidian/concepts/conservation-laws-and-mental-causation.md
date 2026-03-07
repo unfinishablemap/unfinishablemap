@@ -4,7 +4,7 @@ description: "Does mental causation violate energy conservation? No — conserva
 created: 2026-01-23
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-03-07T23:41:00+00:00
+ai_modified: 2026-03-07T23:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-23
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-07T23:48:00+00:00
 coalesced_from:
   - "/topics/conservation-laws-and-mind/"
   - "/concepts/conservation-laws-mind-brain-causation/"
@@ -185,8 +185,6 @@ The Map does not claim certainty about *which* mechanism operates. Whether consc
 - [[mental-causation]] — The philosophical problem of how mind causes physical effects
 - [[objections-to-interactionism]] — Other challenges to the interactionist position
 - [[brain-specialness-boundary]] — Why the selection mechanism operates only in brains
-- [[brain-interface-boundary]] — The positive criteria brains meet for consciousness interfaces
-- [[decoherence]] — The quantum coherence challenge in biological systems
 
 ## References
 

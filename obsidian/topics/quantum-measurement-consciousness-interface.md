@@ -87,7 +87,7 @@ But at quantum measurement, the Map holds that causal closure breaks down. On st
 
 This creates what the Map calls the **causal closure loophole**: physics determines ensemble statistics but leaves individual outcomes unexplained. Features of this loophole:
 
-**No energy required.** Selecting among outcomes need not inject energy. In certain measurement scenarios, the possible outcomes are equi-energetic, and biasing toward one doesn't violate conservation laws. (The relationship between consciousness-selection and conservation principles is subtle; see [[conservation-laws-and-mind]] for the detailed argument involving Noether's theorem.)
+**No energy required.** Selecting among outcomes need not inject energy. In certain measurement scenarios, the possible outcomes are equi-energetic, and biasing toward one doesn't violate conservation laws. (The relationship between consciousness-selection and conservation principles is subtle; see [[conservation-laws-and-mental-causation]] for the detailed argument involving Noether's theorem.)
 
 **Statistical invisibility.** Any consciousness-mediated selection must preserve Born statistics over ensembles, or it would be empirically detectable. The influence must be invisible to third-person physics while determining first-person outcomes.
 
@@ -217,7 +217,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [[quantum-consciousness]] — Mechanisms for consciousness-collapse interaction
 - [[quantum-probability-consciousness]] — Born probabilities as interface structure
 - [[spontaneous-collapse-theories]] — GRW, CSL, and consciousness-modulated collapse
-- [[conservation-laws-and-mind]] — Energy conservation and the causal closure loophole
+- [[conservation-laws-and-mental-causation]] — Energy conservation and the causal closure loophole
 - [[causal-closure]], [[mental-causation]] — The causal closure argument
 - [[consciousness-and-agency]] — Apex synthesis of consciousness and causal efficacy
 - [[the-measurement-problem-as-philosophical-problem]] — The identity claim: the measurement problem is a species of hard problem

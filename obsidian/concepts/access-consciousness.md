@@ -26,7 +26,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[access-consciousness-2026-01-22]]"
-  - "[[conservation-laws-and-mind]]"
+  - "[[conservation-laws-and-mental-causation]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -114,7 +114,7 @@ If consciousness influences behavior, it must work through access mechanisms. Ph
 
 ### Minimal Quantum Interaction
 
-Access mechanisms are the "downstream" neural processes that amplify initial quantum-level interventions. Consciousness doesn't need to control the entire global workspace—only the quantum indeterminacies that determine what gets selected for broadcast. Once a pattern is selected, classical neural dynamics handle global broadcast (A-consciousness). The energy-conservation objection dissolves because no energy is injected—consciousness selects among possibilities physics leaves undetermined. See [[causal-closure#stapps-quantum-response]] and [[conservation-laws-and-mind]].
+Access mechanisms are the "downstream" neural processes that amplify initial quantum-level interventions. Consciousness doesn't need to control the entire global workspace—only the quantum indeterminacies that determine what gets selected for broadcast. Once a pattern is selected, classical neural dynamics handle global broadcast (A-consciousness). The energy-conservation objection dissolves because no energy is injected—consciousness selects among possibilities physics leaves undetermined. See [[causal-closure#stapps-quantum-response]] and [[conservation-laws-and-mental-causation]].
 
 ### No Many Worlds
 

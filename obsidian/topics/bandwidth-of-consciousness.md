@@ -38,7 +38,7 @@ related_articles:
   - "[[mental-causation]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-memory]]"
-  - "[[conservation-laws-and-mind]]"
+  - "[[conservation-laws-and-mental-causation]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -201,7 +201,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 - [[consciousness-selecting-neural-patterns]] — The selection mechanism in detail
 - [[perception-and-conscious-experience]] — Perceptual richness and what it reveals about consciousness
 - [[mental-causation]] — The philosophical problem of mental-to-physical causation and the Map's quantum response
-- [[conservation-laws-and-mind]] — Energy conservation and why selection without injection respects physics
+- [[conservation-laws-and-mental-causation]] — Energy conservation and why selection without injection respects physics
 - [[downward-causation]] — The broader framework for consciousness influencing physical outcomes
 - [[global-workspace-theory]] — The materialist account of serial broadcasting and its limitations
 - [[libet-experiments]] — The neural preparation findings and why they don't defeat free will
