@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-07 20:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Structure of Attention Disorders
+- **Output**: [[voids/attention-disorders-and-consciousness]]
+- **Word count**: 1834
+- **Based on research**: yes (attention-consciousness-mechanisms-2026-01-15, attention-consciousness-relationship-2026-01-15, voluntary-attention-control-mechanisms-2026-01-17)
+- **Note**: Placed in voids/ (topics and concepts at cap). Framed as epistemological void: when attention is disordered, we cannot distinguish interface malfunction from altered consciousness.
+
 ## 2026-03-07 19:51 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Phenomenology of Scientific Discovery

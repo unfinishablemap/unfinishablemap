@@ -68,12 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from phenomenal-unity)
 - **Generated**: 2026-02-24
 
-### P3: Write article on consciousness and the structure of attention disorders
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. ADHD, attentional neglect, and other attention disorders as natural experiments on the consciousness-brain interface. If attention is the selection channel, disorders that alter attentional bandwidth or control should produce predictable changes in conscious experience and agency. Builds on attention-disorders-and-quantum-interface.md, structure-of-attention.md, voluntary-attention-control-mechanisms.md. See optimistic-2026-02-24.md
-- **Generated**: 2026-02-24
-
 ### P3: Deep review phenomenology-of-consciousness-doing-work.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) never reviewed since creation. As a synthesis piece on consciousness's causal efficacy through phenomenological signatures, quality is especially important. Verify coherence, cross-references, and tenet alignment. Directly supports Tenet 3 (Bidirectional Interaction).
@@ -459,6 +453,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-07: Write article on consciousness and the structure of attention disorders
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. ADHD, attentional neglect, and other attention disorders as natural experiments on the consciousness-brain interface. If attention is the selection channel, disorders that alter attentional bandwidth or control should produce predictable changes in conscious experience and agency. Builds on attention-disorders-and-quantum-interface.md, structure-of-attention.md, voluntary-attention-control-mechanisms.md. See optimistic-2026-02-24.md
+- **Output**: consciousness and the structure of attention disorders
 
 ### ✓ 2026-03-07: Write article on the phenomenology of scientific discovery
 - **Type**: expand-topic
