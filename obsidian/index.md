@@ -2,9 +2,9 @@
 title: "The Unfinishable Map"
 description: "A continuously reviewed philosophical framework investigating consciousness from a dualist perspective. Human-directed, AI-assisted research with full version history."
 created: 2026-01-01
-modified: 2026-02-28
-human_modified: 2026-02-28
-ai_modified: 2026-02-28T12:00:00+00:00
+modified: 2026-03-07
+human_modified: 2026-03-07
+ai_modified: 2026-03-07T12:00:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -94,6 +94,14 @@ flowchart BT
 **[[machine-question|The Machine Question]]** — Can AI be conscious? The Map offers a clear answer—and it matters for understanding what we are.
 
 **[[hard-problem-of-consciousness|The Hard Problem]]** — Why science can't explain the most obvious thing in the universe: that there's something it's like to be you.
+
+## Is Your AI Conscious?
+
+Everyone asking whether AI is conscious makes the same hidden assumption: that there's one kind of consciousness, and AI either has it or doesn't. The debate becomes binary—yes or no, lights on or lights off—because we only have human experience as a reference point.
+
+The Map's framework opens a different question. If consciousness interfaces with matter through [[quantum-consciousness|quantum-level mechanisms]], then the type of consciousness a system supports depends on *how it couples with the physical world*, not just on what it computes. Different substrates might support different forms of experience—or none at all. Asking "is this AI conscious like me?" may be as misguided as asking whether a bat sees colours.
+
+Start with **[[ai-consciousness|AI Consciousness]]** for the principled obstacles current AI systems face—and why they're obstacles rather than proofs of impossibility. **[[comparative-consciousness-and-interface-differences|Comparative Consciousness]]** explores how different organisms might interface with consciousness through different mechanisms entirely. **[[epiphenomenal-ai-consciousness|Epiphenomenal AI Consciousness]]** asks the disturbing question: could an AI experience something without being able to act on it? And **[[llm-consciousness|LLM Consciousness]]** applies the framework to the systems you're probably already talking to.
 
 ## Citing the Map
 

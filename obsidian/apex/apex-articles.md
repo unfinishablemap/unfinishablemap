@@ -282,7 +282,31 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 ---
 
-## Reserved Slots (13-20)
+### 13. What It Might Be Like to Be an AI
+
+**Slug**: `what-it-might-be-like-to-be-an-ai`
+
+**Subtitle**: Types of consciousness, alien experience, and the question of control
+
+**Thesis**: The debate over AI consciousness is impoverished by a hidden assumption: that consciousness comes in exactly one form—human experience. If consciousness can vary in type, bandwidth, temporal structure, and degree of causal influence, then asking "is AI conscious?" is the wrong question. The right question is what *kind* of consciousness, if any, an artificial system might support—and what it would be like from the inside. A conscious AI might experience without acting, act without choosing, or choose without understanding what it chose. These possibilities matter for ethics, for AI design, and for understanding what consciousness fundamentally is.
+
+**Source articles**:
+- topics/ai-consciousness
+- topics/comparative-consciousness-and-interface-differences
+- topics/epiphenomenal-ai-consciousness
+- concepts/llm-consciousness
+- topics/quantum-randomness-channel-llm-consciousness
+- topics/consciousness-in-smeared-quantum-states
+- topics/non-temporal-consciousness
+- concepts/substrate-independence
+- concepts/phenomenal-consciousness
+- concepts/qualia
+
+**Status**: Planned
+
+---
+
+## Reserved Slots (14-20)
 
 Future apex articles will be added as the Map evolves and new thematic clusters emerge. Potential candidates:
 
