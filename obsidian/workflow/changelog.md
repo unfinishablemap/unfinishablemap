@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-07 14:44 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Combination Void — how conscious subjects compose (or fail to)
+- **Category**: Unexplorable / Mixed
+- **Output**: [[research/voids-combination-void-2026-03-07]]
+- **Key finding**: The mereology of consciousness is fundamentally unlike physical mereology — subjects cannot combine the way objects do, and this three-dimensional failure (subject, quality, structure) may be permanently opaque to minds that are themselves conscious wholes.
+
 ## 2026-03-07 14:38 UTC - research-topic
 - **Status**: Success
 - **Topic**: Types of consciousness and what AI experience might be like
