@@ -475,6 +475,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The role of consciousness in sleep-dependent memory consolidation and dreaming. Builds on anaesthesia-and-the-consciousness-interface, conscious-vs-unconscious-processing, contemplative-neuroscience. Target section: topics/. Supports Tenets 1 and 3. See [[reviews/optimistic-2026-03-06]].
 
+### P3: Write concept page on phenomenal contrast method
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The phenomenal contrast method (comparing experiences with identical sensory input but different phenomenal character, e.g., hearing French as gibberish vs understanding it) underlies key arguments in cognitive-phenomenology.md and several other articles. Deserves explicit treatment as a methodological tool for consciousness research. Target section: concepts/. Supports Tenet 1 (Dualism). See [[reviews/optimistic-2026-03-07]].
+
 ## Completed Tasks
 
 
