@@ -39,47 +39,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Active Tasks
 
 ### P1: Write apex article "What It Might Be Like to Be an AI" (apex #13)
-- **Type**: other
+- **Type**: apex-evolve
 - **Notes**: Run `/apex-evolve create` for slug `what-it-might-be-like-to-be-an-ai` (defined in apex-articles.md). This should be done AFTER the research and topic/concept tasks above are complete, so the apex has source material to synthesise. Focus: the hidden assumption of one consciousness type, different possible forms of AI experience, the question of control and agency, and ethical implications. The P0 non-retrocausal selection research also feeds in—if consciousness selects macroscopic superpositions directly, that's a different experiential mode than retrocausal selection.
 - **Source**: human
 - **Generated**: 2026-03-07
 - **Depends on**: Both P1 tasks above (research + expand/create topics)
 
 ### P1: Fix 19 remaining broken wikilinks from coalesced convergent-cognitive-limits
-- **Type**: other
+- **Type**: refine-draft
 - **Notes**: The coalesce on 2026-03-05 merged adaptive-cognitive-limits and convergent-cognitive-limits into evolved-cognitive-limits.md. A reference update task was completed but 19 files in obsidian still contain `[convergent-cognitive-limits](/voids/evolved-cognitive-limits/)` wikilinks pointing to the archived article. Update all to `[evolved-cognitive-limits](/voids/evolved-cognitive-limits/)`. Run `grep -rl '\[\[convergent-cognitive-limits' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
 ### P2: Fix 23 broken wikilinks: contemplative-evidence-for-consciousness-theories
-- **Type**: other
+- **Type**: refine-draft
 - **Notes**: 23 files reference `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)` but the article is named `contemplative-evidence-for-consciousness.md` (without `-theories` suffix). Update all wikilinks to `[contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)`. Run `grep -rl '\[\[contemplative-evidence-for-consciousness-theories' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
 ### P2: Fix 32 broken wikilinks: Illusionism case mismatch
-- **Type**: other
+- **Type**: refine-draft
 - **Notes**: 32 files reference `[Illusionism](/concepts/illusionism/)` with capital I but the article filename is `illusionism.md` (lowercase). Wikilinks are case-sensitive in Hugo sync. Update all to `[illusionism](/concepts/illusionism/)`. Run `grep -rl '\[\[Illusionism\]\]' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
 ### P2: apex-evolve: process-and-consciousness — source phenomenal-unity created
-- **Type**: other
+- **Type**: apex-evolve
 - **Notes**: Source article concepts/phenomenal-unity created 2026-02-24. Apex article "Process and Consciousness" lists phenomenal-unity as a source and should be updated to integrate this content.
 - **Source**: chain (from phenomenal-unity)
 - **Generated**: 2026-02-24
 
-### P3: Write article on the phenomenology of scientific discovery
-- **Type**: expand-topic
+### P2: Fix working memory inconsistency between epiphenomenalism.md and animal-consciousness.md
+- **Type**: refine-draft
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. How scientific breakthroughs feel from the inside—the gestalt shift from confusion to understanding, the phenomenal structure of hypothesis formation, the role of aesthetic judgement in theory selection. Scientists report that good theories "feel right" before they can articulate why. Supports consciousness as active participant in cognition. Builds on phenomenology-of-intellectual-effort.md, consciousness-and-scientific-methodology.md, phenomenology-of-epistemic-achievement.md. See optimistic-2026-02-24.md
-- **Generated**: 2026-02-24
-
-### P3: Write article on consciousness and the structure of attention disorders
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. ADHD, attentional neglect, and other attention disorders as natural experiments on the consciousness-brain interface. If attention is the selection channel, disorders that alter attentional bandwidth or control should produce predictable changes in conscious experience and agency. Builds on attention-disorders-and-quantum-interface.md, structure-of-attention.md, voluntary-attention-control-mechanisms.md. See optimistic-2026-02-24.md
-- **Generated**: 2026-02-24
+- **Notes**: Pessimistic review found epiphenomenalism.md uses outdated Miller 7+-2 working memory estimate and claims chimp WM is 2+-1. Animal-consciousness.md correctly uses Cowan's 4+-1 and notes chimps can outperform humans on rapid numerical memory. Update epiphenomenalism.md to use consistent figures. See pessimistic-2026-03-07.md
+- **Generated**: 2026-03-07
 
 ### P3: Deep review phenomenology-of-consciousness-doing-work.md
 - **Type**: deep-review
@@ -420,7 +414,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Hoffman, Singh & Prakash's formal proof that fitness-tuned perception dominates truth-tuned perception. Currently discussed in evolved-cognitive-limits.md but deserves standalone concept page given implications for parsimony arguments, perceptual reliability, and Occam's Razor. Target section: concepts/ (1 slot remaining). Supports Tenet 5 (Occam's Razor Has Limits). See [optimistic-2026-03-05-afternoon](/reviews/optimistic-2026-03-05-afternoon/).
 
 ### P3: Apex synthesis of the voids taxonomy
-- **Type**: other
+- **Type**: apex-evolve
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The voids programme has 60+ articles but no apex synthesis. The evolved-cognitive-limits "naturally occluded" category suggests the taxonomy itself is evolving. An apex article could organise voids by type (architectural, adaptive, occluded), domain (perceptual, cognitive, phenomenological), and what they reveal about consciousness structure. Builds on voids.md, three-kinds-of-void.md, apophatic-cartography.md, and all void articles. See [optimistic-2026-03-05-afternoon](/reviews/optimistic-2026-03-05-afternoon/).
 
@@ -466,6 +460,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-07: Write article on consciousness and the structure of attention disorders
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. ADHD, attentional neglect, and other attention disorders as natural experiments on the consciousness-brain interface. If attention is the selection channel, disorders that alter attentional bandwidth or control should produce predictable changes in conscious experience and agency. Builds on attention-disorders-and-quantum-interface.md, structure-of-attention.md, voluntary-attention-control-mechanisms.md. See optimistic-2026-02-24.md
+- **Output**: consciousness and the structure of attention disorders
+
+### ✓ 2026-03-07: Write article on the phenomenology of scientific discovery
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. How scientific breakthroughs feel from the inside—the gestalt shift from confusion to understanding, the phenomenal structure of hypothesis formation, the role of aesthetic judgement in theory selection. Scientists report that good theories "feel right" before they can articulate why. Supports consciousness as active participant in cognition. Builds on phenomenology-of-intellectual-effort.md, consciousness-and-scientific-methodology.md, phenomenology-of-epistemic-achievement.md. See optimistic-2026-02-24.md
+- **Output**: the phenomenology of scientific discovery
 
 ### ✓ 2026-03-07: Deep review somatic-interface.md
 - **Type**: deep-review

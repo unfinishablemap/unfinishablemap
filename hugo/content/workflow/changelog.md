@@ -18,6 +18,28 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-07 21:52 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/epiphenomenalism.md, concepts/functionalism.md, topics/animal-consciousness.md
+- **Output**: [pessimistic-2026-03-07](/reviews/pessimistic-2026-03-07/)
+- **Issues found**: 2 high-severity (self-stultification gap underacknowledged; functional/phenomenal consciousness conflation), 3 medium-severity (working memory inconsistency; weak temporal consciousness argument; selective contemplative evidence)
+- **Tasks added**: 1 (P2: fix working memory inconsistency)
+
+## 2026-03-07 20:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Structure of Attention Disorders
+- **Output**: [attention-disorders-and-consciousness](/voids/attention-disorders-and-consciousness/)
+- **Word count**: 1834
+- **Based on research**: yes (attention-consciousness-mechanisms-2026-01-15, attention-consciousness-relationship-2026-01-15, voluntary-attention-control-mechanisms-2026-01-17)
+- **Note**: Placed in voids/ (topics and concepts at cap). Framed as epistemological void: when attention is disordered, we cannot distinguish interface malfunction from altered consciousness.
+
+## 2026-03-07 19:51 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Phenomenology of Scientific Discovery
+- **Output**: [phenomenology-of-scientific-discovery](/concepts/phenomenology-of-scientific-discovery/)
+- **Word count**: 1737
+- **Based on research**: no (general knowledge; related research on consciousness-creativity consulted)
+
 ## 2026-03-07 18:51 UTC - deep-review
 - **Status**: Success
 - **File**: [types-of-consciousness](/concepts/types-of-consciousness/)
