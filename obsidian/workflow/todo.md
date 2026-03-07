@@ -55,11 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-06
 
-### P3: Write article on comparative phenomenology of meditative traditions
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map cites contemplative evidence across many articles but lacks a systematic comparison of what different traditions report and where they converge. Shamatha, vipassana, zazen, centering prayer, and jhana each reveal different aspects of consciousness's structure. Cross-traditional convergence would provide independent evidence for the Map's phenomenological claims. Builds on contemplative-methods-as-philosophical-methodology.md, the-observer-witness-in-meditation.md, meditation-and-consciousness-modes.md. See optimistic-2026-02-23-night.md
-
 ### P3: Write article on the phenomenology of creative problem-solving
 - **Type**: expand-topic
 - **Status**: pending
@@ -482,6 +477,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-07: Write article on comparative phenomenology of meditative traditions
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map cites contemplative evidence across many articles but lacks a systematic comparison of what different traditions report and where they converge. Shamatha, vipassana, zazen, centering prayer, and jhana each reveal different aspects of consciousness's structure. Cross-traditional convergence would provide independent evidence for the Map's phenomenological claims. Builds on contemplative-methods-as-philosophical-methodology.md, the-observer-witness-in-meditation.md, meditation-and-consciousness-modes.md. See optimistic-2026-02-23-night.md
+- **Output**: comparative phenomenology of meditative traditions
 
 ### ✓ 2026-03-07: Deep review evidential-weight-of-voids.md
 - **Type**: deep-review

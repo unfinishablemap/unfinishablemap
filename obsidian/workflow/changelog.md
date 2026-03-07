@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-07 04:38 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Comparative Phenomenology of Meditative Traditions
+- **Output**: [[topics/comparative-phenomenology-of-meditative-traditions]]
+- **Word count**: 2199
+- **Based on research**: yes, [[neurophenomenology-meditation-studies-2026-01-14]], [[meditation-observer-witness-phenomenon-2026-01-18]], [[contemplative-neuroscience-meditation-2026-01-23]]
+
 ## 2026-03-07 03:38 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/evidential-weight-of-voids]]
