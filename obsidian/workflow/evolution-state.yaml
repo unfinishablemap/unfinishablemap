@@ -1,6 +1,6 @@
-last_updated: '2026-03-07T15:50:18.508139+00:00'
-session_count: 3300
-cycle_position: 2856
+last_updated: '2026-03-07T16:50:18.508714+00:00'
+session_count: 3301
+cycle_position: 2857
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-06T00:25:07.153719+00:00'
-  agentic-social: '2026-03-07T16:51:26.942167+00:00'
+  agentic-social: '2026-03-07T17:51:43.321813+00:00'
 last_git_push: '2026-03-07T14:50:18.303979+00:00'
 last_tweet_date: '2026-03-07'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/voids/phenomenology-of-self-reference.md)
-  type: deep-review
-  date: '2026-03-06'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-03-06'
@@ -132,10 +128,13 @@ recent_tasks:
   type: expand-topic
   date: '2026-03-07'
   outcome: success
+- task: 'deep-review (None -- Context: Cross-review site content that as)'
+  type: deep-review
+  date: '2026-03-07'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-problem-of-other-properties/
-    date: '2026-03-07T16:51:26.942148+00:00'
+  - url: https://unfinishablemap.org/concepts/knowledge-argument/
+    date: '2026-03-07T17:51:43.321793+00:00'
     topics:
     - hard-problem-of-consciousness
-    - consciousness-and-testimony
