@@ -23,6 +23,9 @@ TWITTER_ACCESS_SECRET = "TWITTER_ACCESS_SECRET"
 
 SITE_DOMAIN = "https://unfinishablemap.org"
 
+# Sections that are valid for tweeted highlight links
+TWEETABLE_SECTIONS = {"topics", "concepts", "apex", "voids"}
+
 
 class TweetResult(TypedDict):
     """Result of a tweet attempt."""
@@ -130,9 +133,11 @@ def wikilink_to_url(wikilink: str) -> str:
     if found_path:
         return f"{SITE_DOMAIN}/{found_path}/"
 
-    # Fallback: use slug directly (may result in 404)
-    logger.warning(f"Could not find content path for '{slug}', using slug directly")
-    return f"{SITE_DOMAIN}/{slug}/"
+    # Fail loudly instead of silently returning a malformed URL
+    raise ValueError(
+        f"Could not find content path for '{slug}' in Hugo content. "
+        f"Has sync been run? File may only exist in Obsidian."
+    )
 
 
 def validate_site_url(url: str) -> tuple[bool, str | None]:
@@ -168,6 +173,11 @@ def validate_site_url(url: str) -> tuple[bool, str | None]:
     clean_path = path.strip("/")
     if clean_path and not re.match(r"^[a-z0-9\-/]+$", clean_path):
         return False, f"URL path contains invalid characters: {url!r}"
+
+    # URL path must start with a known content section
+    segments = clean_path.split("/")
+    if segments and segments[0] not in TWEETABLE_SECTIONS:
+        return False, f"URL section '{segments[0]}' is not a tweetable section: {url!r}"
 
     return True, None
 

@@ -102,9 +102,12 @@ def _git_commit_and_push(title: str) -> bool:
         True if commit and push succeeded.
     """
     try:
-        # Stage the highlights file (and synced Hugo content)
+        # Stage the highlights file, synced Hugo content, and any new hugo/ files from sync
         subprocess.run(
-            ["git", "add", "obsidian/workflow/highlights.md", "hugo/content/workflow/highlights.md"],
+            ["git", "add",
+             "obsidian/workflow/highlights.md",
+             "hugo/content/workflow/highlights.md",
+             "hugo/content/"],
             cwd=REPO_ROOT,
             check=True,
             capture_output=True,
@@ -275,8 +278,17 @@ def add_highlight(
                 dry_run=True,
             )
         else:
-            # Real tweet: commit, push, wait for deployment, then tweet
-            # First, commit and push the highlight
+            # Real tweet: sync, commit, push, wait for deployment, then tweet
+            # First, sync obsidian → hugo to ensure content is available for URL resolution
+            from tools.sync import convert_obsidian_to_hugo
+
+            logger.info("Running sync before tweet pipeline...")
+            convert_obsidian_to_hugo(
+                obsidian_path=REPO_ROOT / "obsidian",
+                hugo_content_path=REPO_ROOT / "hugo" / "content",
+            )
+
+            # Commit and push the highlight (and any synced content)
             if not _git_commit_and_push(title):
                 logger.error("Failed to commit/push highlight, skipping tweet")
                 return True, TweetResult(
@@ -494,7 +506,9 @@ def find_unhighlighted_content(
     recent_links = get_recently_highlighted_links(highlights_file, days)
 
     # Directories to scan for highlight-worthy content
-    content_dirs = ["topics", "concepts", "apex", "voids"]
+    from .twitter import TWEETABLE_SECTIONS
+
+    content_dirs = list(TWEETABLE_SECTIONS)
 
     candidates: list[tuple[Path, datetime]] = []
 

@@ -62,6 +62,16 @@ uv run python scripts/highlights.py add "Title" "Description" --type new-article
 
 **Note:** Twitter posting is optional. If credentials aren't configured, the highlight is added and a warning is logged. Twitter failures never block highlight creation.
 
+### Critical: Always Use the `--tweet` CLI Flag
+
+When tweeting, you MUST use the `--tweet` flag on the `highlights.py add` command. Do NOT decompose the tweet pipeline into separate steps (e.g., adding highlight, then manually committing, then calling post_tweet separately). The `--tweet` flag runs an integrated pipeline that:
+1. Syncs Obsidian to Hugo (ensures URL resolution works)
+2. Commits and pushes the highlight
+3. Waits for deployment (verifies the linked page is live)
+4. Posts the tweet
+
+Skipping any of these steps can result in malformed URLs being tweeted.
+
 ### 5. Verify Addition
 
 The CLI will confirm success or report rate limiting.
