@@ -18,6 +18,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-07 09:38 UTC - deep-review
+- **Status**: Success
+- **File**: [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)
+- **Word count**: 1360 → 1429 (+69)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-07-cross-cultural-convergence-on-mental-causation](/reviews/deep-review-2026-03-07-cross-cultural-convergence-on-mental-causation/)
+
+## 2026-03-07 08:39 UTC - deep-review
+- **Status**: Success
+- **File**: [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/)
+- **Word count**: 2199 → 2650 (+451)
+- **Critical issues addressed**: 3
+- **Medium issues addressed**: 5
+- **Enhancements made**: 7
+- **Output**: [deep-review-2026-03-07-comparative-phenomenology-of-meditative-traditions](/reviews/deep-review-2026-03-07-comparative-phenomenology-of-meditative-traditions/)
+
 ## 2026-03-07 07:38 UTC - deep-review
 - **Status**: Success
 - **File**: [zombie-master-argument](/concepts/zombie-master-argument/)

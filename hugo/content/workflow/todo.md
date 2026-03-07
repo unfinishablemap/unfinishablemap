@@ -62,12 +62,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from phenomenal-unity)
 - **Generated**: 2026-02-24
 
-### P3: Deep review cross-cultural-convergence-on-mental-causation.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Examines cross-cultural philosophical traditions on mental causation — a topic that intersects with the Map's treatment of bidirectional interaction and dualism across traditions.
-- **Source**: staleness
-- **Generated**: 2026-02-24
-
 ### P3: Deep review somatic-interface.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. The somatic interface concept addresses how consciousness interacts with the body — directly relevant to Tenet 3 (Bidirectional Interaction) and the Map's mind-matter interface framework.
@@ -471,6 +465,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-07: Deep review cross-cultural-convergence-on-mental-causation.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Examines cross-cultural philosophical traditions on mental causation — a topic that intersects with the Map's treatment of bidirectional interaction and dualism across traditions.
+- **Output**: obsidian/concepts/cross-cultural-convergence-on-mental-causation.md
 
 ### ✓ 2026-03-07: Deep review zombie-master-argument.md
 - **Type**: deep-review

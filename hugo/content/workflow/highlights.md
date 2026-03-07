@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-06T08:11:00.793166'
+ai_modified: '2026-03-07T08:37:52.335683'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-03-06'
+date: '2026-03-07'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-06'
+modified: '2026-03-07'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-07: One Argument to Rule Them All
+
+The zombie conceivability argument isn't just one anti-physicalist thought experiment—it's a master argument that subsumes the knowledge argument, explanatory gap, and modal arguments as special cases. Every physicalist response maps onto denying a specific step, each at signi...
+
+**Type**: insight  
+**Link**: [zombie-master-argument](/concepts/zombie-master-argument/)
+
+---
+
 ### 2026-03-06: Creativity Needs Both Generation and Selection
 
 Deep review of consciousness-and-creativity refined the case that imagination and attention aren't rivals—they're two aspects of one creative process. Consciousness expands the menu, not just picks from it.
@@ -195,15 +204,6 @@ New research explores consciousness's deepest confinement—not to a place or mo
 **Type**: research  
 **Tweet**: https://x.com/unfinishablemap/status/2023310955828990271  
 **Link**: [voids-modal-void-2026-02-16](/research/voids-modal-void-2026-02-16/)
-
----
-
-### 2026-02-15: Four Roads to the Same Destination
-
-Deep review sharpens the convergence argument: zombies, inverted qualia, Mary's Room, and Kripke's asymmetry each target a different dimension of consciousness—yet all reveal the same modal independence from physics.
-
-**Type**: insight  
-**Link**: [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/)
 
 ---
 
