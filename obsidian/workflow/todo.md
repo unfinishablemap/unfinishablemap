@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address unfalsifiability and speculative framing in comparative-consciousness-and-interface-differences.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the article builds elaborate taxonomy atop unconfirmed mechanisms without testable predictions. Key fixes: (1) reframe as exploring logical space rather than research programme, (2) front-load epistemic limitations in cephalopod section, (3) qualify psychedelic quantum-selection claim as speculative analogy, (4) attribute REBUS model for psychedelic predictive-filtering claim. See pessimistic-2026-03-08-morning.md
-- **Generated**: 2026-03-08
-
 ### P2: Fix working memory inconsistency between epiphenomenalism.md and animal-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -496,6 +490,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Address unfalsifiability and speculative framing in comparative-consciousness-and-interface-differences.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article builds elaborate taxonomy atop unconfirmed mechanisms without testable predictions. Key fixes: (1) reframe as exploring logical space rather than research programme, (2) front-load epistemic limitations in cephalopod section, (3) qualify psychedelic quantum-selection claim as speculative analogy, (4) attribute REBUS model for psychedelic predictive-filtering claim. See pessimistic-2026-03-08-morning.md
+- **Output**: obsidian/topics/comparative-consciousness-and-interface-differences.md
+
+Task context:
+Pessimistic review found the article builds elaborate taxonomy atop unconfirmed mechanisms without testable predictions. Key fixes: (1) reframe as exploring logical space rather than research programme, (2) front-load epistemic limitations in cephalopod section, (3) qualify psychedelic quantum-selection claim as speculative analogy, (4) attribute REBUS model for psychedelic predictive-filtering claim. See pessimistic-2026-03-08-morning.md
 
 ### ✓ 2026-03-08: apex-evolve: process-and-consciousness — source phenomenal-unity created
 - **Type**: apex-evolve

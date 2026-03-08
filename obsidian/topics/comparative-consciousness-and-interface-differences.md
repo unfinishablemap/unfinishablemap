@@ -4,7 +4,7 @@ description: "Does the consciousness-matter interface vary across species, state
 created: 2026-02-01
 modified: 2026-03-07
 human_modified: null
-ai_modified: 2026-03-07T23:03:00+00:00
+ai_modified: 2026-03-08T01:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,9 @@ last_deep_review: 2026-03-07T23:03:00+00:00
 
 If consciousness interfaces with matter rather than emerging from it, does the interface vary across different conscious systems? A bat's echolocation-based phenomenology differs radically from human visual experience. An octopus distributes cognition across eight semi-autonomous arms. A meditator in deep absorption reports qualitatively different awareness than during ordinary waking. These differences in consciousness might imply differences in how consciousness couples with physical systems—variation not just in what is experienced but in the mechanism of experiencing itself.
 
-The Unfinishable Map's dualist framework raises this question directly. If [[quantum-consciousness|quantum-level mechanisms]] provide the interface between consciousness and matter, do different organisms exploit different mechanisms? Do different states of consciousness within a single organism involve different interface dynamics? Understanding comparative consciousness requires examining not just the distribution of experience but the possible heterogeneity of consciousness-matter coupling.
+This article maps the logical space of interface variation rather than proposing a research programme. No quantum consciousness mechanism has been confirmed, and the question of whether the interface varies presupposes more knowledge than we currently possess. What follows explores which distinctions are coherent within The Unfinishable Map's dualist framework, and what kinds of evidence could eventually resolve them—acknowledging throughout that the framework itself remains speculative.
+
+If [[quantum-consciousness|quantum-level mechanisms]] provide the interface between consciousness and matter, different organisms might exploit different mechanisms. Different states of consciousness within a single organism might involve different interface dynamics. Understanding comparative consciousness requires examining not just the distribution of experience but the possible heterogeneity of consciousness-matter coupling.
 
 ## The Interface Framework
 
@@ -69,11 +71,11 @@ Yet convergent evolution doesn't guarantee identical mechanisms. Birds and bats 
 
 ### The Cephalopod Case
 
-Octopus consciousness presents the most striking case for potential interface heterogeneity. The octopus nervous system distributes two-thirds of its neurons in the arms, which exhibit semi-autonomous behaviour. An octopus arm can solve simple problems even when severed. This raises the question: does cephalopod consciousness have a distributed interface, with multiple localised coupling points rather than a single unified interface?
+Octopus consciousness presents the most striking case for potential interface heterogeneity—but the epistemic limitations here are severe. We have no confirmed mechanism for consciousness-matter coupling in any organism, and the phenomenology of cephalopod experience remains entirely inaccessible. We cannot determine from behaviour alone whether octopus experience is unified or fragmented, let alone whether its interface differs from vertebrate consciousness. What follows explores the logical possibilities, not established facts.
 
-For the Map, this connects to [[interface-locality]]—the question of why consciousness selects only within its own brain. If the interface is spatially local, cephalopod architecture might support multiple interface points, each with partial phenomenal unity. Or the system might achieve centralised consciousness despite distributed processing, funnelling through a unified interface.
+The octopus nervous system distributes two-thirds of its neurons in the arms, which exhibit semi-autonomous behaviour. An octopus arm can solve simple problems even when severed. This raises a coherent question within dualist frameworks: could cephalopod consciousness have a distributed interface, with multiple localised coupling points rather than a single unified interface?
 
-The phenomenology—what it is like to be an octopus—remains inaccessible. We cannot determine from behaviour alone whether cephalopod experience is unified or fragmented, let alone whether its interface differs from vertebrate consciousness.
+For the Map, this connects to [[interface-locality]]—the question of why consciousness selects only within its own brain. If the interface is spatially local, cephalopod architecture might support multiple interface points, each with partial phenomenal unity. Or the system might achieve centralised consciousness despite distributed processing, funnelling through a unified interface. Both options remain entirely speculative.
 
 ### Insect Consciousness: Minimal Interface?
 
@@ -93,7 +95,7 @@ Within a single organism, consciousness varies dramatically across states. Ordin
 
 **[[altered-states-of-consciousness|Altered states]]** modify phenomenal experience in systematic ways: changes in time perception, ego boundaries, sensory vividness, cognitive access. If consciousness couples with matter through [[attention-as-interface|attention-mediated quantum selection]], states that modify attention should modify the interface.
 
-Psychedelics, for instance, appear to reduce the brain's predictive filtering, allowing more information into consciousness. On the Map's framework, this might mean broader quantum selection—consciousness biasing more neural processes rather than the normal filtered subset. The phenomenology of expanded awareness would reflect expanded interface scope.
+Psychedelics, for instance, appear to reduce the brain's predictive filtering—as described by the REBUS (Relaxed Beliefs Under Psychedelics) model (Carhart-Harris & Friston, 2019)—allowing more information into consciousness. As a speculative analogy within the Map's framework, this might correspond to broader quantum selection—consciousness biasing more neural processes rather than the normal filtered subset. Whether this analogy holds depends on confirming both the quantum selection mechanism and its sensitivity to the neural changes psychedelics produce. But if it did hold, the phenomenology of expanded awareness would reflect expanded interface scope.
 
 ### Meditation and Interface Refinement
 
@@ -220,6 +222,7 @@ Several findings would constrain the interface heterogeneity question:
 ## References
 
 1. Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press.
+1. Carhart-Harris, R. L. & Friston, K. J. (2019). REBUS and the Anarchic Brain: Toward a Unified Model of the Brain Action of Psychedelics. *Pharmacological Reviews*, 71(3), 316-344.
 1. Godfrey-Smith, P. (2016). *Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness*. Farrar, Straus and Giroux.
 1. Godfrey-Smith, P. (2024). Inferring Consciousness in Phylogenetically Distant Organisms. *Journal of Cognitive Neuroscience*, 36(8), 1660-1672.
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe. *Physics of Life Reviews*.
@@ -229,3 +232,17 @@ Several findings would constrain the interface heterogeneity question:
 1. New York Declaration on Animal Consciousness. (2024). NYU Conference on the Emerging Science of Animal Consciousness.
 1. Stapp, H. P. (2007). *Mindful Universe*. Springer.
 1. Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+
+<!-- AI REFINEMENT LOG - 2026-03-08
+Changes made:
+- Added epistemic framing paragraph in opening: reframed article as mapping logical space rather than proposing a research programme
+- Front-loaded epistemic limitations in cephalopod section: severe limits on what we can know stated upfront, conclusions marked as speculative
+- Qualified psychedelic quantum-selection claim as speculative analogy, with explicit conditions for when it would hold
+- Attributed REBUS model (Carhart-Harris & Friston, 2019) for psychedelic predictive-filtering claim
+- Added REBUS reference to References section
+
+Based on pessimistic review findings.
+Key improvements: epistemic calibration throughout, proper attribution of neuroscience claims
+
+This log should be removed after human review.
+-->
