@@ -464,6 +464,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-08
 
+### P3: Write article on the phenomenology of temporal agency
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has strong accounts of spatial selection (neural states) but less development of temporal selection — planning, waiting, timing. The phenomenology of "not yet" and "too late" in skilled action provides evidence for consciousness operating on a temporal manifold. Builds on free-will.md, time-consciousness-growing-block.md, consciousness-and-agency.md. See optimistic-2026-03-08.md
+- **Generated**: 2026-03-08
+
+### P3: Write article on cross-traditional convergence on consciousness irreducibility
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Independent philosophical traditions converge on consciousness's irreducibility — a systematic meta-analysis of why this convergence occurs would strengthen the convergence argument. Builds on the-hard-problem-in-non-western-philosophy.md, eastern-philosophy-and-consciousness.md, convergence-argument-for-dualism.md. See optimistic-2026-03-08.md
+- **Generated**: 2026-03-08
+
 ## Completed Tasks
 
 
