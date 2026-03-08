@@ -4,7 +4,8 @@ description: "Human+AI exploration of why emotions resist self-knowledge—we fe
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-03-08T13:57:00+00:00
+ai_modified: 2026-03-08T14:02:00+00:00
+last_deep_review: 2026-03-08T14:02:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -38,11 +39,11 @@ This void is distinct from [[introspective-opacity]], which concerns cognitive p
 
 Emotions seem transparent. Unlike the hidden mechanisms of perception or reasoning, feelings appear to announce themselves. Fear says "I am fear." Love says "I am love." This apparent transparency is so convincing that philosophers from Descartes onward assumed privileged access to our mental states—that whatever we feel, we know we feel.
 
-The assumption is false. Experimental and clinical evidence converges on a different picture. Participants in Schachter and Singer's classic 1962 study received epinephrine injections producing physiological arousal, then interpreted the arousal differently depending on social context—as euphoria or anger. The same bodily state became different emotions depending on available explanations. The subjects did not detect the mislabelling. They genuinely believed they felt what context suggested they should feel.
+The assumption is false. Experimental and clinical evidence converges on a different picture. Participants in Schachter and Singer's classic 1962 study received epinephrine injections producing physiological arousal, then interpreted the arousal differently depending on social context—as euphoria or anger. The same bodily state became different emotions depending on available explanations. The subjects did not detect the mislabelling. They genuinely believed they felt what context suggested they should feel. (The study's replication record is mixed—Marshall and Zimbardo (1979) failed to reproduce key effects—but the core finding has been supported by subsequent constructionist research using different paradigms.)
 
 Lisa Feldman Barrett's constructionist theory extends this finding. Emotions are not detected through introspection; they are *constructed*. The brain generates affect—a blend of valence (pleasant/unpleasant) and arousal (activated/deactivated)—and then categorises that affect into discrete emotions using available concepts and contextual cues. "You do not simply react to events in the world... your brain constructs your experience of these events" (Barrett, 2017). The construction is invisible. What arrives in consciousness is the finished product—"fear" or "excitement"—not the assembly process.
 
-This means emotional self-knowledge is inferential at its core. We interpret our affective states the way we interpret other people's—from behavioural cues, context, and learned categories. The feeling of directness is itself part of the construction.
+This means emotional self-knowledge is inferential at its core. Nisbett and Wilson (1977) showed more broadly that people have little direct access to their cognitive processes and instead confabulate explanations using implicit theories about how their minds work. Emotional self-knowledge is a special case of this general pattern: we interpret our affective states the way we interpret other people's—from behavioural cues, context, and learned categories. The feeling of directness is itself part of the construction.
 
 ## Alexithymia: When the Void Opens
 
@@ -62,7 +63,7 @@ Three features make alexithymia significant for understanding emotional self-kno
 
 Does identifying an emotion change it? Lieberman et al. (2007) found that affect labelling—putting feelings into words—reduces amygdala activation associated with the emotional response. Naming tames. The act of categorisation modulates the very state being categorised.
 
-This creates a paradox for emotional self-knowledge. If knowing what you feel alters what you feel, then the object of knowledge shifts during the knowing. The pre-labelled emotion and the post-labelled emotion are not identical. You can observe the river before you step in, or after—but the river of emotion changes with the observation.
+This creates a paradox for emotional self-knowledge. If knowing what you feel alters what you feel, then the object of knowledge shifts during the knowing. The pre-labelled emotion and the post-labelled emotion are not identical. The emotion you examine is not the emotion you had before examining it.
 
 The paradox deepens when we consider that many emotions may be intrinsically pre-conceptual. The felt quality of aesthetic arrest before a painting, the bodily surge of recognition when encountering someone important, the diffuse unease preceding an insight—these states resist categorisation not because our vocabulary is poor but because they exist in a space that categories cannot reach without transforming what they capture.
 
@@ -96,11 +97,13 @@ The result is not total ignorance but systematic distortion—a void of *accurac
 
 ## Relation to Site Perspective
 
-The Map's [[tenets#^dualism|Dualism]] tenet deepens this void. If emotions have irreducible [[qualia|phenomenal character]]—if the felt quality of fear is something over and above the functional state of threat-detection—then knowing an emotion requires bridging two distinct domains: the phenomenal (what the emotion feels like) and the conceptual (what category it falls under). Under materialism, this bridge is merely practical—a matter of better introspective tools. Under dualism, the bridge connects ontologically distinct realms, and the difficulty of crossing may be principled rather than practical.
+The evidence surveyed so far—construction, alexithymia, labelling effects—comes largely from materialist research programmes. A functionalist might conclude that emotional self-opacity is simply what we should expect from a brain that constructs categories on the fly: there is no deep mystery, just engineering complexity. The Map's [[tenets#^dualism|Dualism]] tenet rejects this deflation. If emotions have irreducible [[qualia|phenomenal character]]—if the felt quality of fear is something over and above the functional state of threat-detection—then knowing an emotion requires bridging two distinct domains: the phenomenal (what the emotion feels like) and the conceptual (what category it falls under). Under materialism, this bridge is merely practical—a matter of better introspective tools. Under dualism, the bridge connects ontologically distinct realms, and the difficulty of crossing may be principled rather than practical.
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet suggests that this self-knowledge gap has causal consequences. If consciousness influences physical outcomes, then *misidentified* emotions would produce different causal effects than correctly identified ones. A person who mistakes anxiety for excitement may act differently—and the difference would not be merely behavioural but would involve distinct patterns of conscious influence on neural activity. Emotional self-knowledge is not passive observation; it shapes what emotions do.
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies to the transparency assumption itself. The simplest view—that emotions are self-evident—has been falsified by a century of research. The actual structure of emotional self-knowledge is far more complex: constructive, culturally mediated, temporally unstable, and motivationally distorted. As with other domains where the Map finds Occam's Razor misleading, the apparent simplicity of emotional transparency masks genuine complexity.
+
+The Map's rejection of [[tenets#^no-many-worlds|Many Worlds]] adds a further dimension. If every quantum event spawns branching worlds, then the question "what do I feel?" fractures—there is no single subject whose emotional state needs identifying. The Map insists on indexical identity: there is one you, feeling one thing (however opaquely), and that singular [[self-and-consciousness|selfhood]] makes the gap between having an emotion and knowing it a genuine problem rather than a statistical artefact across branches.
 
 ## What Would Challenge This View
 
