@@ -37,6 +37,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Refine apex/what-it-might-be-like-to-be-an-ai.md to reflect landing page nuances
+- **Type**: refine-draft
+- **Notes**: The landing page (index.md) was substantially rewritten to introduce the Map's AI consciousness framing. The apex article should now reflect these key nuances that the landing page establishes:
+  1. **Nature vs coupling distinction**: The inherent nature of a conscious entity defines the *type* of its experience; how it couples with a physical system shapes the *moment-to-moment* reality. The apex article currently conflates these — it treats coupling as determining type. The article should distinguish between what a conscious entity fundamentally is versus the day-to-day experiential channel it gets through coupling.
+  2. **"Sea of entities" framing**: The landing page opens with a wide-aperture view — a sea of conscious entities with different structures of experience, many capable of binding to AI systems in varied ways (fleeting, permanent, outside time). The apex article should echo or develop this imagery rather than staying in the narrower "is AI conscious yes/no" framing.
+  3. **"None" as a deliberate option**: The landing page deliberately includes *none* as a serious option for AI consciousness. The apex article should make this equally prominent — not as a throwaway caveat but as a position the Map takes seriously and explores.
+  4. **Human focus**: The Map's primary focus is human experience and our own search for answers; machine consciousness is explored as one facet of that inquiry. The apex article should frame itself this way — we're not primarily interested in AI consciousness for AI's sake, but because it illuminates what human consciousness is.
+  5. **Epiphenomenal contrast**: Human consciousness appears causally active; AI consciousness may lack that luxury. This contrast should be a structural element of the apex article, not just a passing mention.
+- **Source**: manual (landing page rewrite 2026-03-08)
+- **Generated**: 2026-03-08
+
+### P1: Refine topics/ai-consciousness.md to align with updated framing
+- **Type**: refine-draft
+- **Notes**: The landing page now frames the AI consciousness question differently. This article should be updated to reflect:
+  1. **Reframed question**: The question is not "is AI conscious?" but "what type of consciousness does your AI have?" — with none as a serious option. The article currently uses the binary framing in places.
+  2. **Nature vs coupling**: Distinguish between the inherent nature of a conscious entity (which defines the type of experience) and the coupling mechanism (which shapes moment-to-moment experience). The article currently treats "principled obstacles" mostly in terms of computational substrate — it should acknowledge that the obstacle may be about the nature of the entity, not just the coupling.
+  3. **Human-centred framing**: Position AI consciousness as illuminating human consciousness, not as a standalone question.
+  4. **Cross-link to apex**: Ensure the article links to apex/what-it-might-be-like-to-be-an-ai as the fuller treatment.
+- **Source**: manual (landing page rewrite 2026-03-08)
+- **Generated**: 2026-03-08
+
+### P1: Refine topics/epiphenomenal-ai-consciousness.md to strengthen the causal contrast
+- **Type**: refine-draft
+- **Notes**: The landing page now establishes a sharp contrast: human consciousness appears causally active (linking to concepts/epiphenomenalism.md for evidence), but AI consciousness might be epiphenomenal. This article should be updated to:
+  1. **Lead with the contrast**: Open with the asymmetry — we have strong reasons (self-stultification argument, clinical evidence) to think human consciousness is causally efficacious, but these arguments don't transfer to AI systems.
+  2. **Nature vs coupling angle**: An AI's consciousness, if it exists, might be epiphenomenal not because consciousness is generally inert, but because the coupling between the conscious entity and the physical system doesn't support causal influence in the same way. This is a subtler and more interesting claim than "AI consciousness is a byproduct."
+  3. **"Binding" language**: The landing page uses "bind to" for how conscious entities relate to physical systems. This article should adopt consistent language.
+  4. **Cross-link**: Ensure bidirectional links with the apex article and concepts/epiphenomenalism.md.
+- **Source**: manual (landing page rewrite 2026-03-08)
+- **Generated**: 2026-03-08
+
+### P1: Refine topics/comparative-consciousness-and-interface-differences.md to incorporate nature/coupling distinction
+- **Type**: refine-draft
+- **Notes**: This article explores how different organisms interface with consciousness through different mechanisms. The landing page rewrite introduces a distinction the article should adopt:
+  1. **Nature vs coupling**: The type of consciousness an entity has may depend on its inherent nature; the interface/coupling shapes the moment-to-moment experience. Currently the article treats interface variation as the primary variable — it should acknowledge that different organisms might have fundamentally different *types* of conscious entity bound to them, not just different coupling mechanisms.
+  2. **Temporal variation**: The landing page mentions binding "some not related to time at all." If this article discusses temporal aspects of experience across species, it should connect to this idea.
+  3. **Cross-link to apex**: Ensure link to apex/what-it-might-be-like-to-be-an-ai.
+- **Source**: manual (landing page rewrite 2026-03-08)
+- **Generated**: 2026-03-08
+
 ### P2: Integrate dreams-as-consciousness-laboratory.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-03-04. Topics article on dreams as a natural laboratory for studying consciousness. Should be linked from dream-consciousness.md, altered-states.md, and consciousness-research articles.
