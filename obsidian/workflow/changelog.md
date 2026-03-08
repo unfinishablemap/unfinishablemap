@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T14:07:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Psychedelics and the filter model
+- **Output**: [[psychedelics-and-the-filter-model]]
+- **Word count**: 1972
+- **Based on research**: yes, [[altered-states-consciousness-2026-01-19]] and [[voids-altered-states-as-void-probes-2026-02-03]]
+
 ## 2026-03-08T14:02:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/void-of-self-knowledge-in-emotion]]

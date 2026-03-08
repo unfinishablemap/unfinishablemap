@@ -37,11 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on psychedelics and the filter model
-- **Type**: expand-topic
+### P2: Cross-review psychedelics-and-the-filter-model against related articles
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. Decreased DMN activity coinciding with expanded conscious experience provides pharmacological evidence for filter/transmission theory over production theory. Current empirical and philosophical interest makes this a notable gap. Builds on dream-consciousness.md, default-mode-network.md, anaesthesia-and-the-consciousness-interface.md. See optimistic-2026-02-24-afternoon.md
-- **Generated**: 2026-02-24
+- **Notes**: Review filter-theory.md, altered-states-of-consciousness.md, default-mode-network.md, dream-consciousness.md, and anaesthesia-and-the-consciousness-interface.md in light of new psychedelics article. Check for contradictions, add cross-references where missing.
+- **Generated**: 2026-03-08
 
 ### P2: Write article on the phenomenology of mathematical insight
 - **Type**: expand-topic
@@ -466,6 +466,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Write article on psychedelics and the filter model
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Decreased DMN activity coinciding with expanded conscious experience provides pharmacological evidence for filter/transmission theory over production theory. Current empirical and philosophical interest makes this a notable gap. Builds on dream-consciousness.md, default-mode-network.md, anaesthesia-and-the-consciousness-interface.md. See optimistic-2026-02-24-afternoon.md
+- **Output**: psychedelics and the filter model
 
 ### ✓ 2026-03-08: Write voids article on the void of self-knowledge in emotion
 - **Type**: expand-topic
