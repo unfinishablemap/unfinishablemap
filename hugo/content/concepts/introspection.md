@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-05 16:47:00+00:00
+ai_modified: 2026-03-08 05:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,6 +22,7 @@ concepts:
 - '[[pre-conceptual-knowing]]'
 - '[[causal-interface]]'
 - '[[introspective-opacity]]'
+- '[[contemplative-epistemology]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 description: Our primary access to consciousness is contested. But critiques target
@@ -29,7 +30,7 @@ description: Our primary access to consciousness is contested. But critiques tar
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-02 11:27:00+00:00
+last_deep_review: 2026-03-08 03:29:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +54,7 @@ Eric Schwitzgebel catalogued further failures: people cannot reliably report whe
 
 The critique's target matters. Nisbett and Wilson explicitly distinguish mental *processes* (the causal mechanisms producing decisions) from mental *contents* (current phenomenal states). Their argument concerns process access: we lack insight into *why* we choose as we do. They make no claim about whether we accurately perceive our present experience. The [causal interface void](/voids/causal-interface/) represents the extreme case of this limitation: we cannot observe *how* intention becomes action, though we access both the intention and the resulting movement.
 
-This distinction maps onto the [subject-object distinction](/topics/the-subject-object-distinction-as-philosophical-discovery/): the subject has privileged access to phenomenal content (the subject-side) while the causal processes producing that content remain on the object-side, accessible only through third-person methods. Russell's distinction between knowledge by acquaintance and description captures the same asymmetry. We are *acquainted* with phenomenal content—directly presented with what experience is like—without necessarily having *descriptive* knowledge of the processes producing it. Russell took acquaintance as primitive and pre-conceptual: we know the redness of red not through propositions but through direct presentation. The introspection critics show we lack descriptive access to process; they leave acquaintance with content intact. See [phenomenological-evidence](/concepts/phenomenological-evidence/) for the conditions under which such acquaintance constitutes genuine evidence. [Introspective opacity](/voids/introspective-opacity/)—explored as a void in the Map—names this structural limit: we access mental contents but never the mechanisms that produce them. The [intentionality void](/voids/intentionality-void/) applies this directly to reference: we know *what* our thoughts are about but not *how* they achieve their aboutness.
+This distinction maps onto the [subject-object distinction](/topics/the-subject-object-distinction-as-philosophical-discovery/): the subject has privileged access to phenomenal content (the subject-side) while the causal processes producing that content remain on the object-side, accessible only through third-person methods. Russell's distinction between knowledge by acquaintance and description captures the same asymmetry. We are *acquainted* with phenomenal content—directly presented with what experience is like—without necessarily having *descriptive* knowledge of the processes producing it. Russell took acquaintance as primitive and pre-conceptual: we know the redness of red through direct presentation, not through propositions. The introspection critics show we lack descriptive access to process; they leave acquaintance with content intact. See [phenomenological-evidence](/concepts/phenomenological-evidence/) for the conditions under which such acquaintance constitutes genuine evidence. [Introspective opacity](/voids/introspective-opacity/)—explored as a void in the Map—names this structural limit: we access mental contents but never the mechanisms that produce them. The [intentionality void](/voids/intentionality-void/) applies this directly to reference: we know *what* our thoughts are about but not *how* they achieve their aboutness.
 
 This distinction is crucial for the [hard problem](/topics/hard-problem-of-consciousness/). [Cognitive science itself](/topics/cognitive-science-of-dualism/) depends on this distinction: every neural correlate study trusts the subject's first-person report as testimony *about* experience, not merely as behavioural output—the data include both the brain scan and the phenomenal report. Arguments for dualism don't depend on introspecting our cognitive processes—they depend on recognizing that there is something it is like to have conscious experience at all. [Qualia](/concepts/qualia/) are what experience *is*, not what causes experience. Even if I cannot introspect why I prefer one face to another, I can recognize that visual experience has a qualitative character that differs from its neural correlates. The [consciousness-language interface](/topics/consciousness-and-language-interface/) complicates this: introspection is often linguistically mediated, and the linguistic encoding necessarily loses content from the original phenomenal state.
 
@@ -172,10 +173,12 @@ This matters for consciousness science. If we restricted inquiry to third-person
 - [qualia](/concepts/qualia/) — The phenomenal properties introspection accesses
 - [metacognition](/concepts/metacognition/) — The cognitive capacity enabling introspective access
 - [illusionism](/concepts/illusionism/) — The most radical challenge to phenomenal consciousness
+- [contemplative-epistemology](/concepts/contemplative-epistemology/) — First-person observation through contemplative practice as legitimate knowledge
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer phenomenon in contemplative traditions
 - [Testing the Map from Inside](/apex/testing-the-map-from-inside/) — Apex synthesis: phenomenological experiments you can run using your own experience
 - [phenomenology-of-error-recognition](/voids/phenomenology-of-error-recognition/) — Why introspective error cannot be detected from within
 - [introspective-opacity](/voids/introspective-opacity/) — The void where process access fails structurally, including why we cannot observe our own willing
+- [attention-disorders-and-consciousness](/voids/attention-disorders-and-consciousness/) — When the attentional basis of introspection is itself disordered
 - [The Dream Consciousness Void](/voids/dream-consciousness-void/) — State-dependent limits on introspecting dreaming from waking
 
 ## References
@@ -195,15 +198,3 @@ This matters for consciousness science. If we restricted inquiry to third-person
 1. Varela, F. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
 1. Velmans, M. (2007). Heterophenomenology versus critical phenomenology. *Phenomenology and the Cognitive Sciences*, 6(1), 221-230.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-
-<!-- AI REFINEMENT LOG - 2026-02-25
-Changes made:
-1. Fixed causal language around Fox et al. (2012): cross-sectional study was described with causal claims ("training dramatically improves accuracy"). Added explicit self-selection caveat and softened language throughout (opening, training section, tenet section, conclusion).
-1. Acknowledged circularity of microphenomenology's "performative coherence" criterion: determining "actual texture of lived experience" presupposes the introspective access under evaluation. Clarified contribution is procedural, not foundational.
-1. Language: "fiercely contested" → "widely contested"; "cuts deeper" → "poses a more fundamental challenge"
-
-Based on pessimistic review 2026-02-24-evening (medium severity issues).
-Key improvements: epistemic accuracy of empirical claims, intellectual honesty about methodological limitations.
-
-This log should be removed after human review.
--->

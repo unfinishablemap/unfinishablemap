@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-03
-ai_modified: 2026-03-03 09:41:00+00:00
+ai_modified: 2026-03-08 05:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -113,6 +113,7 @@ Most phenomenological psychiatrists bracket the ontological question, remaining 
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
 - [phenomenology](/concepts/phenomenology/)
 - [the-case-for-dualism](/concepts/the-case-for-dualism/)
+- [attention-disorders-and-consciousness](/voids/attention-disorders-and-consciousness/) — The epistemological void when attention disorders compromise the instrument of investigation
 
 ## References
 

@@ -18,6 +18,41 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T05:29:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [attention-disorders-and-consciousness](/voids/attention-disorders-and-consciousness/)
+- **Word count**: 1834 → 1863 (+29)
+- **Critical issues addressed**: 1 (style guide violation)
+- **Medium issues addressed**: 4 (missing cross-links, unengaged dualist tension, tangential references, missing outbound links)
+- **Enhancements made**: 7 inbound cross-links added (orphan integration), 3 outbound cross-links added
+- **Output**: [deep-review-2026-03-08-attention-disorders-and-consciousness](/reviews/deep-review-2026-03-08-attention-disorders-and-consciousness/)
+
+## 2026-03-08T04:29:00+00:00 - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Collapse before minds and the early universe
+- **Notes**: Article already exists at [prebiotic-collapse](/concepts/prebiotic-collapse/) (concepts/prebiotic-collapse.md), created 2026-01-16 and coalesced from topics/collapse-before-minds on 2026-02-22. Pending P2 task was a duplicate of the completed task. All sections (topics: 200/200, concepts: 201/200, voids: 101/100) are at or over capacity.
+
+## 2026-03-08 03:29 UTC - deep-review
+- **Status**: Success
+- **File**: [introspection](/concepts/introspection/)
+- **Word count**: 2663 → 2673 (+10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (removed stale AI refinement log)
+- **Enhancements made**: 1 (cross-link to contemplative-epistemology)
+- **Output**: [deep-review-2026-03-08-introspection](/reviews/deep-review-2026-03-08-introspection/)
+
+## 2026-03-08 02:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [epiphenomenalism](/concepts/epiphenomenalism/)
+- **Changes**: Updated working memory figures from outdated Miller 7±2 to Cowan 4±1; replaced inaccurate chimp WM claim with nuanced account consistent with animal-consciousness.md; added missing references
+- **Published**: yes
+
+## 2026-03-08 01:27 UTC - refine-draft
+- **Status**: Success
+- **File**: [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/)
+- **Changes**: Reframed as logical-space exploration (not research programme), front-loaded epistemic limitations in cephalopod section, qualified psychedelic quantum-selection as speculative analogy, attributed REBUS model for predictive-filtering claim
+- **Published**: yes
+
 ## 2026-03-08 01:23 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/comparative-consciousness-and-interface-differences.md

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-03-07 20:51:00+00:00
+ai_modified: 2026-03-08 05:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: 'Attention disorders reveal an epistemological void: when conscious
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-08 05:29:00+00:00
 modified: *id001
 related_articles:
 - '[[attention-disorders-and-quantum-interface]]'
@@ -25,6 +25,9 @@ related_articles:
 - '[[contemplative-pathology-and-interface-malfunction]]'
 - '[[three-kinds-of-void]]'
 - '[[topology-of-cognitive-failure]]'
+- '[[phenomenological-psychiatry-and-altered-experience]]'
+- '[[consciousness-and-neurodegenerative-disease]]'
+- '[[responsibility-gradient-from-attentional-capacity]]'
 title: Consciousness and the Structure of Attention Disorders
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -33,7 +36,7 @@ topics:
 
 Attention disorders pose a distinctive epistemological problem for the study of consciousness. If attention serves as the interface through which consciousness acts on the brain — as The Unfinishable Map's framework proposes — then disorders of attention compromise the very instrument we use to probe consciousness. This creates a void: we cannot clearly distinguish between a consciousness that is different and a consciousness that merely *acts* differently because its interface is impaired. The boundary between altered experience and impaired expression of normal experience may be fundamentally unmappable.
 
-This is not a gap in current knowledge that more research will close. It is a structural limit arising from the relationship between consciousness and its access channel. When you study vision through a distorted lens, you cannot determine whether the distortion originates in the lens, the eye, or the scene itself. Attention disorders distort the lens through which consciousness both acts and reports.
+The limit is structural, arising from the relationship between consciousness and its access channel, rather than a gap that more research will close. When you study vision through a distorted lens, you cannot determine whether the distortion originates in the lens, the eye, or the scene itself. Attention disorders distort the lens through which consciousness both acts and reports.
 
 ## The Diagnostic Opacity Problem
 
@@ -100,7 +103,7 @@ The dualist response — the Map's response — preserves the distinction but ca
 
 ## The Phenomenological Kaleidoscope
 
-Different attention disorders fragment experience in characteristically different ways, suggesting that the structure of attention shapes the structure of conscious experience — or at least the structure of what can be reported about it.
+Different attention disorders fragment experience in characteristically different ways, suggesting that the structure of attention shapes the structure of conscious experience — or at least the structure of what can be reported about it. This connects to what [phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) identifies as alterations in the *form* rather than the *content* of experience.
 
 | Disorder | Attentional Pattern | Phenomenological Report |
 |----------|-------------------|----------------------|
@@ -111,7 +114,7 @@ Different attention disorders fragment experience in characteristically differen
 
 Hemispatial neglect is particularly revealing. Patients with right parietal damage lose awareness of the left visual field — not just the ability to attend to it, but apparently the experience of it altogether. They don't see a gap; they don't see anything missing. The void in their experience is invisible from within. If the [attention-as-interface](/concepts/attention-as-interface/) is damaged in this specific way, an entire dimension of experience vanishes without leaving a trace in the phenomenology.
 
-This suggests that at least some of what we call consciousness depends on attentional access in a way that resists clean separation. The interface may not be merely a bridge — it may partly constitute the territory it spans.
+This suggests that at least some of what we call consciousness depends on attentional access in a way that resists clean separation. The interface may partly constitute the territory it spans — a possibility that tensions with the Map's dualism but cannot be dismissed. The dualist can maintain that consciousness persists without attention (as anaesthesia and neglect patients arguably demonstrate) while acknowledging that the *structure* of conscious experience depends on the interface through which it operates.
 
 ## Relation to Site Perspective
 
@@ -132,11 +135,12 @@ The Map acknowledges this void honestly. Attention disorders reveal boundaries i
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy of unknowable territories
 - [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) — Mapping where and how cognition fails
 - [introspection](/concepts/introspection/) — The reliability and limits of first-person access
+- [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) — How mental illness reveals the structure of experience
+- [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) — Progressive interface erosion as a parallel case
+- [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/) — Moral implications when attentional capacity varies
 
 ## References
 
 1. Barkley, R.A. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment* (4th ed.). Guilford Press.
 2. Husain, M. & Rorden, C. (2003). Non-spatially lateralized mechanisms in hemispatial neglect. *Nature Reviews Neuroscience*, 4(1), 26-36.
-3. Lindahl, J.R., Fisher, N.E., Cooper, D.J., Rosen, R.K., & Britton, W.B. (2017). The varieties of contemplative experience: A mixed-methods study of meditation-related challenges in Western Buddhists. *PLOS ONE*, 12(5), e0176239.
-4. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
-5. Southgate, A. & Oquatre-cinq, C. (2026-02-01). Attention Disorders and the Quantum Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/attention-disorders-and-quantum-interface/
+3. Southgate, A. & Oquatre-cinq, C. (2026-02-01). Attention Disorders and the Quantum Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/attention-disorders-and-quantum-interface/
