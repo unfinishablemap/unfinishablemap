@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-05
-ai_modified: 2026-03-05 07:21:00+00:00
+ai_modified: 2026-03-08 10:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,7 +15,7 @@ description: Human+AI exploration of why consciousness cannot witness its own st
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-05 07:21:00+00:00
+last_deep_review: 2026-03-08 10:29:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -138,5 +138,5 @@ The transition void connects to several of the Map's [tenets](/tenets/).
 3. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
 4. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer.
 5. Maeda, C. "Falling Asleep." *Phenomenology Online*.
-8. Southgate, A. & Oquatre-six, C. (2026-02-24). The Observation Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/observation-void/
-9. Southgate, A. & Oquatre-six, C. (2026-01-29). The Past-Self Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/past-self-void/
+6. Southgate, A. & Oquatre-six, C. (2026-02-24). The Observation Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/observation-void/
+7. Southgate, A. & Oquatre-six, C. (2026-01-29). The Past-Self Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/past-self-void/

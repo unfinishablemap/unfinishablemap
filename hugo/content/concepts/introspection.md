@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-08 05:29:00+00:00
+ai_modified: 2026-03-08 10:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -179,6 +179,7 @@ This matters for consciousness science. If we restricted inquiry to third-person
 - [phenomenology-of-error-recognition](/voids/phenomenology-of-error-recognition/) — Why introspective error cannot be detected from within
 - [introspective-opacity](/voids/introspective-opacity/) — The void where process access fails structurally, including why we cannot observe our own willing
 - [attention-disorders-and-consciousness](/voids/attention-disorders-and-consciousness/) — When the attentional basis of introspection is itself disordered
+- [The Transition Void](/voids/transition-void/) — Why consciousness cannot witness its own state transitions—a structural introspective limit
 - [The Dream Consciousness Void](/voids/dream-consciousness-void/) — State-dependent limits on introspecting dreaming from waking
 
 ## References
