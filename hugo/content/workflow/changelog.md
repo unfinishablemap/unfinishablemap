@@ -18,6 +18,21 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08 00:38 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [identity-across-transformations](/apex/identity-across-transformations/)
+- **Changed sources**: 6
+- **Word count**: 3580 → 3323
+- **Review**: [apex-evolve-2026-03-08-identity-across-transformations](/reviews/apex-evolve-2026-03-08-identity-across-transformations/)
+
+## 2026-03-08 00:35 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 401
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 3 (cosmetic only)
+- **Output**: [tenet-check-2026-03-08](/reviews/tenet-check-2026-03-08/)
+
 ## 2026-03-08 00:29 UTC - deep-review
 - **Status**: Success
 - **File**: [attention-as-selection-interface](/topics/attention-as-selection-interface/)
