@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense research/voids-framework-void-2026-02-20.md (3562 words, 143% of target)
-- **Type**: condense
-- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings on the framework void while removing redundancy and tightening prose. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-08
-
 ### P2: Condense research/voids-causal-interface-2026-01-30.md (3530 words, 141% of target)
 - **Type**: condense
 - **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings on causal interface voids while removing redundancy and tightening prose. See /condense skill.
@@ -496,6 +490,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Condense research/voids-framework-void-2026-02-20.md (3562 words, 143% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings on the framework void while removing redundancy and tightening prose. See /condense skill.
+- **Output**: obsidian/research/voids-framework-void-2026-02-20.md
 
 ### ✓ 2026-03-08: Integrate dreams-as-consciousness-laboratory.md into site navigation
 - **Type**: integrate-orphan

@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T12:52:00+00:00 - condense
+- **Status**: Success
+- **File**: [[voids-framework-void-2026-02-20]]
+- **Before**: 3562
+- **After**: 2285
+- **Reduction**: 36%
+- **Technique**: Trimmed verbose source entries (removed type/quote fields, tightened bullet points), cut redundant tenet alignment notes duplicated in Connection to Tenets section, tightened Evidence and Gaps sections, removed neuroscience gap (least relevant)
+
 ## 2026-03-08T12:46:00+00:00 - deep-review
 - **Status**: Skipped (archived file)
 - **File**: [[topics/dreams-as-consciousness-laboratory]]
