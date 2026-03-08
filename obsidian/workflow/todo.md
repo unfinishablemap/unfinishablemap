@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the void of self-knowledge in emotion
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Emotions present paradoxical opacity—we feel them intensely yet often cannot identify what we feel until after the fact. Alexithymia as partial void exploration. Builds on absorption-void.md, emotional-consciousness.md, introspective-opacity.md. See optimistic-2026-02-24-morning.md
-- **Generated**: 2026-02-24
-
 ### P2: Write article on psychedelics and the filter model
 - **Type**: expand-topic
 - **Status**: pending
@@ -472,6 +466,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Write voids article on the void of self-knowledge in emotion
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Emotions present paradoxical opacity—we feel them intensely yet often cannot identify what we feel until after the fact. Alexithymia as partial void exploration. Builds on absorption-void.md, emotional-consciousness.md, introspective-opacity.md. See optimistic-2026-02-24-morning.md
+- **Output**: Write voids article on the void of self-knowledge in emotion
 
 ### ✓ 2026-03-08: Write article on the ethics of cognitive enhancement under dualism
 - **Type**: expand-topic
