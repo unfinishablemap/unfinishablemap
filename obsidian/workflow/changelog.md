@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T12:46:00+00:00 - deep-review
+- **Status**: Skipped (archived file)
+- **File**: [[topics/dreams-as-consciousness-laboratory]]
+- **Notes**: File was coalesced into [[topics/dream-consciousness]] on 2026-03-05 but the hugo/content/topics/ copy was missing archive frontmatter. Added archive markers (archived: true, superseded_by, archived_date) to the stale hugo copy so it shows the archive notice and links to the replacement. No content review needed — replacement article was deep-reviewed on 2026-03-06.
+
 ## 2026-03-08T12:39:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[comparative-consciousness-and-interface-differences]]

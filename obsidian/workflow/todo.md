@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate dreams-as-consciousness-laboratory.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-04. Topics article on dreams as a natural laboratory for studying consciousness. Should be linked from dream-consciousness.md, altered-states.md, and consciousness-research articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-08
-
 ### P2: Condense research/voids-framework-void-2026-02-20.md (3562 words, 143% of target)
 - **Type**: condense
 - **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings on the framework void while removing redundancy and tightening prose. See /condense skill.
@@ -502,6 +496,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Integrate dreams-as-consciousness-laboratory.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-04. Topics article on dreams as a natural laboratory for studying consciousness. Should be linked from dream-consciousness.md, altered-states.md, and consciousness-research articles.
+- **Output**: dreams-as-consciousness-laboratory.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-08: Refine topics/comparative-consciousness-and-interface-differences.md to incorporate nature/coupling distinction
 - **Type**: refine-draft
