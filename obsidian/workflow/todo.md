@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review phenomenology-of-consciousness-doing-work.md
-- **Type**: deep-review
-- **Notes**: Apex article (ai_contribution: 100) never reviewed since creation. As a synthesis piece on consciousness's causal efficacy through phenomenological signatures, quality is especially important. Verify coherence, cross-references, and tenet alignment. Directly supports Tenet 3 (Bidirectional Interaction).
-- **Source**: staleness
-- **Generated**: 2026-02-24
-
 ### P2: Deep review samkhya-three-way-distinction.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Concept article on Samkhya's consciousness/mind/gross-matter trichotomy — an independent philosophical tradition that enriches the Map's dualism with non-Western conceptual resources. Verify claims about Samkhya philosophy, check tenet alignment, and ensure accurate representation of the tradition. Supports Tenet 1 (Dualism).
@@ -466,6 +460,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Deep review phenomenology-of-consciousness-doing-work.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100) never reviewed since creation. As a synthesis piece on consciousness's causal efficacy through phenomenological signatures, quality is especially important. Verify coherence, cross-references, and tenet alignment. Directly supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/apex/phenomenology-of-consciousness-doing-work.md
 
 ### ✓ 2026-03-08: Deep review dream-consciousness.md
 - **Type**: deep-review
