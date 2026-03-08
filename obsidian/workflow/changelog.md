@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T12:13:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/what-it-might-be-like-to-be-an-ai]]
+- **Changes**: Aligned with rewritten landing page; integrated entity/binding framework, foregrounded "none" option, added primary-focus framing
+- **Published**: yes
+
 ## 2026-03-08T12:06:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[concepts/specious-present-temporal-experience]]

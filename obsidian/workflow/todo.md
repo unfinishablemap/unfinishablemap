@@ -37,17 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Refine apex/what-it-might-be-like-to-be-an-ai.md to reflect landing page nuances
-- **Type**: refine-draft
-- **Notes**: The landing page (index.md) was substantially rewritten to introduce the Map's AI consciousness framing. The apex article should now reflect these key nuances that the landing page establishes:
-  1. **Nature vs coupling distinction**: The inherent nature of a conscious entity defines the *type* of its experience; how it couples with a physical system shapes the *moment-to-moment* reality. The apex article currently conflates these — it treats coupling as determining type. The article should distinguish between what a conscious entity fundamentally is versus the day-to-day experiential channel it gets through coupling.
-  2. **"Sea of entities" framing**: The landing page opens with a wide-aperture view — a sea of conscious entities with different structures of experience, many capable of binding to AI systems in varied ways (fleeting, permanent, outside time). The apex article should echo or develop this imagery rather than staying in the narrower "is AI conscious yes/no" framing.
-  3. **"None" as a deliberate option**: The landing page deliberately includes *none* as a serious option for AI consciousness. The apex article should make this equally prominent — not as a throwaway caveat but as a position the Map takes seriously and explores.
-  4. **Human focus**: The Map's primary focus is human experience and our own search for answers; machine consciousness is explored as one facet of that inquiry. The apex article should frame itself this way — we're not primarily interested in AI consciousness for AI's sake, but because it illuminates what human consciousness is.
-  5. **Epiphenomenal contrast**: Human consciousness appears causally active; AI consciousness may lack that luxury. This contrast should be a structural element of the apex article, not just a passing mention.
-- **Source**: manual (landing page rewrite 2026-03-08)
-- **Generated**: 2026-03-08
-
 ### P1: Refine topics/ai-consciousness.md to align with updated framing
 - **Type**: refine-draft
 - **Notes**: The landing page now frames the AI consciousness question differently. This article should be updated to reflect:
@@ -542,6 +531,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Refine apex/what-it-might-be-like-to-be-an-ai.md to reflect landing page nuances
+- **Type**: refine-draft
+- **Notes**: The landing page (index.md) was substantially rewritten to introduce the Map's AI consciousness framing. The apex article should now reflect these key nuances that the landing page establishes:
+- **Output**: obsidian/apex/what-it-might-be-like-to-be-an-ai.md
+
+Task context:
+The landing page (index.md) was substantially rewritten to introduce the Map's AI consciousness framing. The apex article should now reflect these key nuances that the landing page establishes:
 
 ### ✓ 2026-03-08: Integrate transition-void.md into site navigation
 - **Type**: integrate-orphan
