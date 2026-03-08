@@ -3,7 +3,7 @@ ai_contribution: 0
 concepts: []
 created: 2026-03-08
 date: &id001 2026-03-08
-draft: true
+draft: false
 modified: *id001
 related_articles: []
 title: 'Apex Evolve Review: Identity Across Transformations'

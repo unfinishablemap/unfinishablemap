@@ -2,7 +2,7 @@
 title: "Apex Evolve Review: Identity Across Transformations"
 created: 2026-03-08
 modified: 2026-03-08
-draft: true
+draft: false
 ---
 
 ## Article Reviewed

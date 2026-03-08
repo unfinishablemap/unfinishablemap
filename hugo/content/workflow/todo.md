@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on Islamic and Sufi philosophical traditions on consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The hard-problem-in-non-western-philosophy article covers only Ibn Sīnā from the Islamic tradition. Al-Ghazālī, Sufi phenomenology (Ibn Arabi on imagination as intermediate ontological realm), and the nafs/ruh/aql distinction provide rich dualist resources. The Sufi inner witness parallels contemplative traditions already on the site. Builds on the-hard-problem-in-non-western-philosophy.md, interaction-problem-in-non-western-philosophy.md. See optimistic-2026-02-24-night.md
-- **Generated**: 2026-02-24
-
-### P2: Write article on illusionism as epiphenomenalism in disguise
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. If quasi-phenomenal properties do no causal work, illusionism inherits epiphenomenalism's core difficulty under a different label. Does denying phenomenal consciousness solve the problem or change the subject? Would close a gap in the argumentative architecture between the-epiphenomenalist-threat.md and illusionism.md. See optimistic-2026-02-24-night.md
-- **Generated**: 2026-02-24
-
 ### P2: Write article on the phenomenology of humour and laughter
 - **Type**: expand-topic
 - **Status**: pending
@@ -455,6 +443,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Write article on illusionism as epiphenomenalism in disguise
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. If quasi-phenomenal properties do no causal work, illusionism inherits epiphenomenalism's core difficulty under a different label. Does denying phenomenal consciousness solve the problem or change the subject? Would close a gap in the argumentative architecture between the-epiphenomenalist-threat.md and illusionism.md. See optimistic-2026-02-24-night.md
+- **Output**: illusionism as epiphenomenalism in disguise
+
+### ✓ 2026-03-08: Write article on Islamic and Sufi philosophical traditions on consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The hard-problem-in-non-western-philosophy article covers only Ibn Sīnā from the Islamic tradition. Al-Ghazālī, Sufi phenomenology (Ibn Arabi on imagination as intermediate ontological realm), and the nafs/ruh/aql distinction provide rich dualist resources. The Sufi inner witness parallels contemplative traditions already on the site. Builds on the-hard-problem-in-non-western-philosophy.md, interaction-problem-in-non-western-philosophy.md. See optimistic-2026-02-24-night.md
+- **Output**: Islamic and Sufi philosophical traditions on consciousness
 
 ### ✓ 2026-03-08: Write article on the phenomenology of mathematical insight
 - **Type**: expand-topic

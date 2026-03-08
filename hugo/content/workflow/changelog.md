@@ -18,6 +18,25 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T21:11:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Illusionism as epiphenomenalism in disguise
+- **Output**: [illusionism-as-epiphenomenalism-in-disguise](/concepts/illusionism-as-epiphenomenalism-in-disguise/)
+- **Word count**: 1473
+- **Based on research**: yes — [illusionism-consciousness-2026-01-14](/research/illusionism-consciousness-2026-01-14/), [epiphenomenalism-2026-01-08](/research/epiphenomenalism-2026-01-08/)
+
+## 2026-03-08T20:11:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Islamic and Sufi philosophical traditions on consciousness
+- **Output**: [islamic-sufi-philosophy-of-consciousness](/concepts/islamic-sufi-philosophy-of-consciousness/)
+- **Word count**: 2082
+- **Based on research**: yes — [hard-problem-non-western-philosophy-2026-02-14](/research/hard-problem-non-western-philosophy-2026-02-14/), [interaction-problem-non-western-philosophy-2026-02-17](/research/interaction-problem-non-western-philosophy-2026-02-17/)
+
+## 2026-03-08T19:11:00+00:00 - research-voids
+- **Status**: Skipped (section at capacity)
+- **Reason**: Voids section has 100 articles, matching the cap of 100
+- **Recommendation**: Focus on improving existing voids articles (deep-review, condense, coalesce)
+
 ## 2026-03-08T18:11:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Phenomenology of Mathematical Insight
