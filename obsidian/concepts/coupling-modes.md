@@ -4,7 +4,7 @@ description: "Three ways consciousness might influence quantum outcomes: basis s
 created: 2026-01-31
 modified: 2026-01-31
 human_modified:
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-08T13:01:00+00:00
 draft: false
 topics:
   - "[[mental-causation]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-31
 last_curated:
-last_deep_review: 2026-02-03T08:56:00+00:00
+last_deep_review: 2026-03-08T13:01:00+00:00
 ---
 
 If consciousness influences physical outcomes, how does it do so? The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet demands the "smallest possible non-physical influence"—but "smallest" depends on what kind of influence we're considering. Three candidate coupling modes exist: **basis control** (selecting what question to ask), **timing control** (selecting when collapse occurs), and **probability control** (reweighting outcome likelihoods). These are not equally minimal, and distinguishing them clarifies what "consciousness selects" actually means.
@@ -148,7 +148,7 @@ The coupling modes taxonomy connects directly to the Map's foundational commitme
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The coupling mode specifies how bidirectional interaction is implemented. Without specifying a mode, "consciousness selects" remains metaphorical. With mode specification, the claim becomes: consciousness selects which question to ask (basis), when to ask it (timing), or how answers are weighted (probability).
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Rejecting MWI means one outcome becomes actual and others don't. The coupling mode specifies how consciousness participates in this actualisation—not whether it does (that's a tenet) but through what mechanism.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Rejecting MWI means one outcome becomes actual and others don't. Chalmers and McQueen (2022) develop a rigorous framework for consciousness-collapse theories that bears on this: if consciousness triggers collapse, the coupling mode specifies how it participates in actualisation—not whether it does (that's a tenet) but through what mechanism.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Critics might invoke parsimony against any coupling mode. But parsimony applies within comparable explanatory scope. A theory that ignores consciousness's causal efficacy isn't simpler—it's incomplete. The question is which mode best balances explanatory power with physical minimality.
 
@@ -162,10 +162,8 @@ The taxonomy tightens the Map's framework by replacing vague "selection" languag
 - [[measurement-problem]] — Why outcomes need explanation
 - [[concepts/consciousness-selecting-neural-patterns]] — What selection actually selects
 - [[quantum-probability-consciousness]] — How Born probabilities relate to consciousness
-- [[attention-as-interface|attention]] — The phenomenal variable most tied to coupling
+- [[attention-as-interface]] — The phenomenal variable most tied to coupling; voluntary attention as the mind-matter interface
 - [[mental-effort]] — Effort as timing/observation rate control
-- [[attention-as-interface]] — How attention functions as the mind-matter interface
-- [[attention-as-interface|voluntary attention]] — Neural signatures distinguishing willed from instructed attention
 - [[agent-causation]] — The free will implications of conscious selection
 
 ## References
