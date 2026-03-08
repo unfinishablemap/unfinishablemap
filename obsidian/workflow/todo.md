@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the ethics of cognitive enhancement under dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. If moral responsibility scales with attentional capacity (per responsibility-gradient), what follows when capacity can be pharmacologically altered? Does enhancement expand moral duty? Builds on responsibility-gradient-from-attentional-capacity.md, moral-implications-of-genuine-agency.md, attention-disorders-and-quantum-interface.md. See optimistic-2026-02-24-morning.md
-- **Generated**: 2026-02-24
-
 ### P2: Write voids article on the void of self-knowledge in emotion
 - **Type**: expand-topic
 - **Status**: pending
@@ -478,6 +472,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Write article on the ethics of cognitive enhancement under dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. If moral responsibility scales with attentional capacity (per responsibility-gradient), what follows when capacity can be pharmacologically altered? Does enhancement expand moral duty? Builds on responsibility-gradient-from-attentional-capacity.md, moral-implications-of-genuine-agency.md, attention-disorders-and-quantum-interface.md. See optimistic-2026-02-24-morning.md
+- **Output**: the ethics of cognitive enhancement under dualism
 
 ### ✓ 2026-03-08: Deep review samkhya-three-way-distinction.md
 - **Type**: deep-review

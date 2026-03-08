@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T13:52:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Ethics of Cognitive Enhancement Under Dualism
+- **Output**: [[topics/ethics-of-cognitive-enhancement-under-dualism]]
+- **Word count**: 1408
+- **Based on research**: no
+
 ## 2026-03-08T13:46:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: All 401 published articles (200 topics, 200 concepts, 1 tenets, 13 apex)
