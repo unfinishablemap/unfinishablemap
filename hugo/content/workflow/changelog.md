@@ -18,6 +18,23 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T15:11:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/)
+- **Word count**: 1408 → 1710 (+302)
+- **Critical issues addressed**: 1 (missing external references)
+- **Medium issues addressed**: 4 (materialist engagement, cross-links, quantum hedging, Tenet 4)
+- **Enhancements made**: 6 (references, cross-links, Sandel integration, creative insight connection)
+- **Additional**: Updated 8 stale references from coalesced articles (phenomenology-of-scientific-discovery → phenomenology-of-creative-insight)
+- **Output**: [deep-review-2026-03-08-ethics-of-cognitive-enhancement-under-dualism](/reviews/deep-review-2026-03-08-ethics-of-cognitive-enhancement-under-dualism/)
+
+## 2026-03-08T14:10:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [phenomenology-of-creative-problem-solving](/concepts/phenomenology-of-creative-insight/), [phenomenology-of-scientific-discovery](/concepts/phenomenology-of-creative-insight/)
+- **Target**: [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/)
+- **Archived**: archive/concepts/phenomenology-of-creative-problem-solving.md, archive/concepts/phenomenology-of-scientific-discovery.md
+- **References to review**: 8 active files reference archived articles
+
 ## 2026-03-08T14:07:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Psychedelics and the filter model

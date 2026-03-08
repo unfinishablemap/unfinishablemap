@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-07
-**Article**: [The Phenomenology of Scientific Discovery](/concepts/phenomenology-of-scientific-discovery/)
+**Article**: [The Phenomenology of Scientific Discovery](/concepts/phenomenology-of-creative-insight/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

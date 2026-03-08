@@ -468,6 +468,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Completed Tasks
 
 
+### ✓ 2026-03-08: Update references to coalesced articles (phenomenology-of-creative-insight)
+- **Type**: cross-review
+- **Notes**: Coalesce created phenomenology-of-creative-insight. The following files reference archived articles and need wikilinks updated: concepts/cognitive-phenomenology.md, concepts/philosophy-of-science-under-dualism.md, concepts/categorical-surprise.md, concepts/epistemic-emotions.md, concepts/consciousness-and-creativity.md, topics/phenomenology-of-conceptual-change.md, topics/aesthetic-dimension-of-consciousness.md, topics/consciousness-and-scientific-methodology.md
+- **Output**: None -- Context: Update references to coalesced articles (phenomenology-of-creative-insight)
+
 ### ✓ 2026-03-08: Write article on psychedelics and the filter model
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic review. Decreased DMN activity coinciding with expanded conscious experience provides pharmacological evidence for filter/transmission theory over production theory. Current empirical and philosophical interest makes this a notable gap. Builds on dream-consciousness.md, default-mode-network.md, anaesthesia-and-the-consciousness-interface.md. See optimistic-2026-02-24-afternoon.md

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-07
-**Article**: [Phenomenology of Creative Problem-Solving](/concepts/phenomenology-of-creative-problem-solving/)
+**Article**: [Phenomenology of Creative Problem-Solving](/concepts/phenomenology-of-creative-insight/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -12,7 +12,7 @@ concepts:
 - '[[epistemic-emotions]]'
 - '[[heterophenomenology]]'
 - '[[objectivity-and-consciousness]]'
-- '[[phenomenology-of-scientific-discovery]]'
+- '[[phenomenology-of-creative-insight]]'
 - '[[qualia]]'
 - '[[philosophical-zombies]]'
 - '[[introspection]]'
@@ -36,7 +36,7 @@ related_articles:
 - '[[consciousness-and-the-problem-of-measurement-standards]]'
 - '[[philosophy-of-science-under-dualism]]'
 - '[[consciousness-and-the-problem-of-theoretical-virtues]]'
-- '[[phenomenology-of-scientific-discovery]]'
+- '[[phenomenology-of-creative-insight]]'
 title: Consciousness and Scientific Methodology
 topics:
 - '[[consciousness]]'
@@ -110,7 +110,7 @@ None of these fully resolves the methodological problem. The first three manage 
 
 The standard response to methodological difficulties is patience: science will eventually solve this, as it has solved other hard problems. But consciousness is not merely hard in the way that protein folding or turbulence or dark matter are hard. Those problems are difficult within the existing scientific framework. Consciousness challenges the framework itself.
 
-The [phenomenology of scientific discovery](/concepts/phenomenology-of-scientific-discovery/) sharpens this point. Scientific practice depends on irreducibly phenomenal experiences — the [aesthetic sense](/concepts/epistemic-emotions/) that guides theory choice, the felt encounter with anomaly that triggers paradigm revision, the phenomenal certainty that distinguishes genuine confirmation from lucky prediction. The Galilean exclusion created a method that aspires to eliminate subjectivity from its descriptions while depending on subjectivity in its practice. If these phenomenal dimensions of scientific work are causally efficacious — if aesthetic judgment genuinely guides theory selection rather than merely accompanying it — then consciousness is not merely the one phenomenon science struggles to explain. It is a condition of the explanatory enterprise itself.
+The [phenomenology of creative insight](/concepts/phenomenology-of-creative-insight/) sharpens this point. Scientific practice depends on irreducibly phenomenal experiences — the [aesthetic sense](/concepts/epistemic-emotions/) that guides theory choice, the felt encounter with anomaly that triggers paradigm revision, the phenomenal certainty that distinguishes genuine confirmation from lucky prediction. The Galilean exclusion created a method that aspires to eliminate subjectivity from its descriptions while depending on subjectivity in its practice. If these phenomenal dimensions of scientific work are causally efficacious — if aesthetic judgment genuinely guides theory selection rather than merely accompanying it — then consciousness is not merely the one phenomenon science struggles to explain. It is a condition of the explanatory enterprise itself.
 
 This does not warrant defeatism. It warrants recognising that consciousness may require an expansion of what counts as scientific methodology — not abandoning rigour, but broadening the concept of evidence to include properly disciplined first-person observation alongside third-person measurement. The history of science includes several such expansions: the acceptance of statistical explanation in quantum mechanics, the incorporation of historical reasoning in evolutionary biology, the recognition of emergence in complex systems theory. Each expanded what "scientific" means without abandoning the commitment to systematic, disciplined inquiry.
 
@@ -144,7 +144,7 @@ The broader implications for [doing science under dualist commitments](/concepts
 - [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/) — Why underdetermination runs deeper in consciousness science than elsewhere
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/) — What scientific practice looks like under dualist commitments
 - [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/) — Why standard theory-choice criteria malfunction for consciousness
-- [phenomenology-of-scientific-discovery](/concepts/phenomenology-of-scientific-discovery/) — The irreducibly phenomenal character of scientific practice itself
+- [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — The irreducibly phenomenal character of scientific practice itself
 
 ## References
 

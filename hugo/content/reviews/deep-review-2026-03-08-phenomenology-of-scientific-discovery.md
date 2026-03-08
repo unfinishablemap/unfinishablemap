@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-08
-**Article**: [The Phenomenology of Scientific Discovery](/concepts/phenomenology-of-scientific-discovery/)
+**Article**: [The Phenomenology of Scientific Discovery](/concepts/phenomenology-of-creative-insight/)
 **Previous review**: [2026-03-07](/reviews/deep-review-2026-03-07-phenomenology-of-scientific-discovery/)
 
 ## Pessimistic Analysis Summary
@@ -49,7 +49,7 @@ topics: []
 
 ### Cross-links Added (Inbound — Primary Focus)
 Seven existing articles now link to this previously orphaned article:
-- [phenomenology-of-creative-problem-solving](/concepts/phenomenology-of-creative-problem-solving/) — Added inline reference in Restructuring section + Further Reading
+- [phenomenology-of-creative-problem-solving](/concepts/phenomenology-of-creative-insight/) — Added inline reference in Restructuring section + Further Reading
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Added inline reference in Surprise section + Further Reading
 - [categorical-surprise](/concepts/categorical-surprise/) — Added inline reference in Phenomenology section (Kuhn paragraph) + Further Reading
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Added inline reference in Generation-Through-Selection section + Further Reading

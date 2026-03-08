@@ -49,7 +49,7 @@ None. All previous critical issues remain resolved. No new critical issues ident
 - Added epistemic-emotions to concepts
 
 ### Cross-links Added
-- [phenomenology-of-scientific-discovery](/concepts/phenomenology-of-scientific-discovery/) (inline + Further Reading + related_articles + concepts)
+- [phenomenology-of-scientific-discovery](/concepts/phenomenology-of-creative-insight/) (inline + Further Reading + related_articles + concepts)
 - [epistemic-emotions](/concepts/epistemic-emotions/) (inline + concepts)
 
 ## Remaining Items

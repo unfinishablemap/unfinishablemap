@@ -70,7 +70,7 @@ The Map's [fifth tenet](/tenets/#occams-limits) challenges this reasoning direct
 
 More precisely, parsimony as a theory-choice criterion is domain-relative. Within physics, preferring fewer fundamental forces is well-motivated because the track record of unification is strong. But the question of whether consciousness reduces to physics is not a question *within* physics. It is a question about whether physics exhausts what is real. Applying parsimony across this boundary assumes the very thing in dispute.
 
-Kuhn's insight is relevant here. Theory choice is not algorithmic. Scientists weigh virtues differently depending on disciplinary norms and background assumptions. The Map's analysis of the [phenomenology of scientific discovery](/concepts/phenomenology-of-scientific-discovery/) adds a further dimension: scientists report that aesthetic experience — the felt sense of a theory's elegance or "rightness" — causally guides their choices, suggesting that phenomenal consciousness plays an irreducible role in theory selection. Materialist philosophy of mind weights parsimony heavily because it treats the physical as a settled baseline. Dualist philosophy of mind weights explanatory adequacy — the capacity to account for phenomenal experience — more heavily because it treats consciousness as the most certain datum we have.
+Kuhn's insight is relevant here. Theory choice is not algorithmic. Scientists weigh virtues differently depending on disciplinary norms and background assumptions. The Map's analysis of the [phenomenology of creative insight](/concepts/phenomenology-of-creative-insight/) adds a further dimension: scientists report that aesthetic experience — the felt sense of a theory's elegance or "rightness" — causally guides their choices, suggesting that phenomenal consciousness plays an irreducible role in theory selection. Materialist philosophy of mind weights parsimony heavily because it treats the physical as a settled baseline. Dualist philosophy of mind weights explanatory adequacy — the capacity to account for phenomenal experience — more heavily because it treats consciousness as the most certain datum we have.
 
 Neither weighting is irrational. They reflect different judgments about what we know most securely and where the burden of explanation falls. The Map explores this tension more fully in [its treatment of theoretical virtues and consciousness](/topics/consciousness-and-the-problem-of-theoretical-virtues/).
 
@@ -118,7 +118,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet pr
 - [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Why reductive strategies fail for consciousness
 - [evolution-under-dualism](/topics/evolution-under-dualism/) — How evolutionary biology operates under dualist assumptions
 - [the-case-for-dualism](/concepts/the-case-for-dualism/) — The converging arguments for irreducibility
-- [phenomenology-of-scientific-discovery](/concepts/phenomenology-of-scientific-discovery/) — How the felt experience of discovery supports bidirectional interaction
+- [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — How the felt experience of creative insight and scientific discovery supports bidirectional interaction
 
 ## References
 
