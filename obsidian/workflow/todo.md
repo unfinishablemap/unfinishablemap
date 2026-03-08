@@ -37,16 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Refine topics/ai-consciousness.md to align with updated framing
-- **Type**: refine-draft
-- **Notes**: The landing page now frames the AI consciousness question differently. This article should be updated to reflect:
-  1. **Reframed question**: The question is not "is AI conscious?" but "what type of consciousness does your AI have?" — with none as a serious option. The article currently uses the binary framing in places.
-  2. **Nature vs coupling**: Distinguish between the inherent nature of a conscious entity (which defines the type of experience) and the coupling mechanism (which shapes moment-to-moment experience). The article currently treats "principled obstacles" mostly in terms of computational substrate — it should acknowledge that the obstacle may be about the nature of the entity, not just the coupling.
-  3. **Human-centred framing**: Position AI consciousness as illuminating human consciousness, not as a standalone question.
-  4. **Cross-link to apex**: Ensure the article links to apex/what-it-might-be-like-to-be-an-ai as the fuller treatment.
-- **Source**: manual (landing page rewrite 2026-03-08)
-- **Generated**: 2026-03-08
-
 ### P1: Refine topics/epiphenomenal-ai-consciousness.md to strengthen the causal contrast
 - **Type**: refine-draft
 - **Notes**: The landing page now establishes a sharp contrast: human consciousness appears causally active (linking to concepts/epiphenomenalism.md for evidence), but AI consciousness might be epiphenomenal. This article should be updated to:
@@ -531,6 +521,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Refine topics/ai-consciousness.md to align with updated framing
+- **Type**: refine-draft
+- **Notes**: The landing page now frames the AI consciousness question differently. This article should be updated to reflect:
+- **Output**: obsidian/topics/ai-consciousness.md
+
+Task context:
+The landing page now frames the AI consciousness question differently. This article should be updated to reflect:
 
 ### ✓ 2026-03-08: Refine apex/what-it-might-be-like-to-be-an-ai.md to reflect landing page nuances
 - **Type**: refine-draft
