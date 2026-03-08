@@ -4,7 +4,7 @@ description: "The intrinsic, subjective qualities of conscious experience—the 
 created: 2026-01-07
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-03-05T06:39:57+00:00
+ai_modified: 2026-03-08T00:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-07
 last_curated:
-last_deep_review: 2026-02-02T21:42:00+00:00
+last_deep_review: 2026-03-08T00:03:00+00:00
 ---
 
 Qualia are the subjective, experiential qualities of conscious states—the redness of red, the painfulness of pain, the taste of coffee. They are what it is *like* to have an experience.
@@ -76,7 +76,7 @@ You cannot directly access my qualia, nor I yours. We can compare behaviour, poi
 
 ### Ineffable
 
-Qualia resist complete verbal description. How would you explain the taste of coffee to someone who has never tasted it? You might describe it as "bitter" or "rich," but these words don't convey the actual quale. The experience exceeds any description—a structural feature of [[pre-conceptual-knowing|conceptual thought itself]], which classifies by abstracting from particulars and thereby loses qualitative character. The [[consciousness-and-language-interface|consciousness-language interface]] analyses this systematically: language shapes conscious experience while conscious states generate pressure toward articulation, but both directions involve loss. The [[language-and-consciousness|philosophy of language and consciousness]] shows why this ineffability is not merely a practical limitation—reference to phenomenal properties resists the causal and baptismal theories that work for ordinary physical referents.
+Qualia resist complete verbal description. How would you explain the taste of coffee to someone who has never tasted it? You might describe it as "bitter" or "rich," but these words don't convey the actual quale. The experience exceeds any description—a structural feature of [[pre-conceptual-knowing|conceptual thought itself]], which classifies by abstracting from particulars and thereby loses qualitative character. The [[consciousness-and-language-interface|consciousness-language interface]] analyses this systematically: language shapes conscious experience while conscious states generate pressure toward articulation, but both directions involve loss. This is not merely a practical limitation—as [[language-and-consciousness|philosophy of language and consciousness]] shows, reference to phenomenal properties resists the causal and baptismal theories that work for ordinary physical referents.
 
 ### Directly Apprehensible
 
@@ -88,7 +88,7 @@ The question of [[minimal-consciousness|qualia in simple organisms]] sharpens th
 
 This illuminates qualia's resistance to physical description: the gap is not about missing details but about the categorical difference between structure and experience. If the worm has qualia, no principled answer exists about whether they're analogous to ours or alien.
 
-The [[combination-problem]] sharpens when considering proto-qualia—phenomenal properties simpler than human experiences. How would 302 micro-experiences combine into unified worm-experience? Slime molds (*Physarum polycephalum*) solve mazes without neurons, suggesting cognition and qualia may fully dissociate. See [[minimal-consciousness]] for detailed treatment.
+The [[combination-problem]] sharpens when considering proto-qualia—phenomenal properties simpler than human experiences. How would 302 micro-experiences combine into unified worm-experience? Slime molds (*Physarum polycephalum*) solve mazes without neurons, suggesting cognition and qualia may dissociate. See [[minimal-consciousness]] for detailed treatment.
 
 ## Beyond Sensory Qualia
 
@@ -242,6 +242,4 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*.
 1. Strawson, G. (2006). "Realistic Monism: Why Physicalism Entails Panpsychism." *Journal of Consciousness Studies*, 13(10-11), 3-31.
-1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
-1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-15). The Knowledge Argument (Mary's Room). *The Unfinishable Map*. https://unfinishablemap.org/concepts/knowledge-argument/
