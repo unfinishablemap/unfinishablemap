@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review attention-as-selection-interface.md considering attention-disorders insights
-- **Type**: cross-review
-- **Notes**: New article on consciousness and the structure of attention disorders was written 2026-03-07. attention-as-selection-interface.md is the Map's central treatment of attention as the selection channel for consciousness-brain interaction. The new attention disorders article provides natural-experiment evidence — if attention is the selection channel, disorders that alter attentional bandwidth should produce predictable changes in conscious experience. Check for cross-links, reinforcing arguments, and empirical evidence integration.
-- **Source**: chain (from attention-disorders article)
-- **Generated**: 2026-03-07
-
 ### P2: Deep review loss-of-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-31 — 35 days ago, beyond the 30-day staleness threshold. Loss of consciousness is a key empirical phenomenon for the Map's interface framework — what happens when the interface is disrupted. Verify coherence, cross-references, and tenet alignment.
@@ -478,6 +472,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Cross-review attention-as-selection-interface.md considering attention-disorders insights
+- **Type**: cross-review
+- **Notes**: New article on consciousness and the structure of attention disorders was written 2026-03-07. attention-as-selection-interface.md is the Map's central treatment of attention as the selection channel for consciousness-brain interaction. The new attention disorders article provides natural-experiment evidence — if attention is the selection channel, disorders that alter attentional bandwidth should produce predictable changes in conscious experience. Check for cross-links, reinforcing arguments, and empirical evidence integration.
+- **Output**: obsidian/topics/attention-as-selection-interface.md -- Context: Cross-review attention-as-selection-interface.md considering attention-disorders insights
 
 ### ✓ 2026-03-08: Integrate comparative-phenomenology-of-meditative-traditions.md into site navigation
 - **Type**: integrate-orphan

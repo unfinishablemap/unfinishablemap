@@ -4,7 +4,7 @@ description: "Attention and motor planning share neural substrates, creating a u
 created: 2026-02-01
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-04T13:38:00+00:00
+ai_modified: 2026-03-08T00:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,6 +28,7 @@ related_articles:
   - "[[tenets]]"
   - "[[bandwidth-of-consciousness]]"
   - "[[attention-consciousness-dissociation]]"
+  - "[[attention-disorders-and-quantum-interface]]"
   - "[[attention-as-interface-hypothesis-2026-01-16]]"
   - "[[attention-motor-planning-quantum-interface-2026-01-23]]"
   - "[[attention-consciousness-mechanisms-2026-01-15]]"
@@ -38,7 +39,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-03-04T03:41:00+00:00
+last_deep_review: 2026-03-08T00:29:00+00:00
 coalesced_from:
   - "/topics/attention-motor-planning-quantum-interface/"
   - "/topics/attention-interface-mechanisms/"
@@ -93,11 +94,11 @@ Neural competition resolves through threshold crossing. Competing representation
 
 Either the competition is deterministic—one option was always going to win—or it involves genuine indeterminacy. If deterministic, deliberation is theatre. If genuinely indeterminate, something must resolve it. Pure randomness produces arbitrary outcomes, not choices. For selection to be both undetermined and meaningful, something beyond neural dynamics must contribute—biasing which option actualises in a direction that reflects what the agent intends.
 
-The Map proposes consciousness fills this role. The threshold crossing moment is where the resolution occurs—and where, under the Map's framework, consciousness contributes by biasing which option wins. This satisfies the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: the smallest possible influence at the point of genuine indeterminacy.
+The Map proposes consciousness fills this role—biasing which option wins at the threshold crossing moment. This satisfies the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: the smallest possible influence at the point of genuine indeterminacy.
 
 ## Dopamine and the Selection Threshold
 
-A 2024 *Nature* study (Cai et al.) reveals a striking dissociation. Dopamine-deficient mice retain motor capacity—the circuitry for movement is intact. But they lose goal-directed initiative. They "can move" but "won't move."
+A 2024 *Nature* study (Cai et al.) reveals a striking dissociation. Dopamine-deficient mice retain motor capacity but lose goal-directed initiative—they "can move" but "won't move."
 
 This suggests a three-layer architecture:
 
@@ -109,15 +110,17 @@ Dopamine doesn't cause movement; it tags what matters. Consciousness doesn't gen
 
 The architecture illuminates clinical observations. Parkinson's patients can move when externally prompted but struggle with self-initiated movement. Dopamine depletion raises the selection threshold beyond what normal conscious engagement can overcome—the interface hardware is degraded, not the consciousness that uses it.
 
+[[attention-disorders-and-quantum-interface|Attention disorders]] provide further clinical evidence. ADHD selectively impairs willed attention while preserving exogenous capture—precisely the pattern the three-layer architecture predicts when threshold modulation is dysregulated. Consciousness remains; the interface through which it acts is compromised.
+
 A separate 2024 *Brain* study found dopamine promotes theta rhythms (4-10 Hz)—the same frequency band associated with willed attention—suggesting dopamine prepares the timing substrate for selection.
 
 ## What Effort Tells Us
 
 Sustaining voluntary attention feels effortful. Sustaining motor intention feels effortful in the same way. Novel movements feel harder than practised ones; complex sequences harder than simple actions. If the phenomenology tracks nothing real—if effort is epiphenomenal—its systematic correlation with task difficulty is unexplained.
 
-If consciousness contributes to selection, the correlation has a natural explanation: more difficult selections require greater conscious engagement to stabilise the desired pattern against competing alternatives. William James observed that "volition is nothing but attention" and "the free will question relates solely to the amount of effort of attention." The convergence vindicates James: if attention and motor selection share a mechanism, then the felt effort of choosing what to do and the felt effort of choosing what to attend to have the same source.
+If consciousness contributes to selection, the correlation has a natural explanation: more difficult selections require greater conscious engagement to stabilise the desired pattern against competing alternatives. Moreover, sustained effort *depletes*—attention fatigue reduces capacity across domains, and recovery requires sleep, not just cessation. Computers don't fatigue from sustained processing; the biological character of depletion suggests dependence on an interface with physical costs. William James observed that "volition is nothing but attention" and "the free will question relates solely to the amount of effort of attention." The convergence vindicates James: if attention and motor selection share a mechanism, then the felt effort of choosing what to do and the felt effort of choosing what to attend to have the same source.
 
-A physicalist might respond that the brain simply monitors its own resource allocation and represents it as "effort"—a metacognitive signal, not evidence of non-physical causation. But this only relocates the question: why does the monitoring system track task difficulty with the same phenomenal character across attention and motor selection, two domains only recognised as sharing a mechanism after decades of neuroscience research? A generic monitoring account predicts domain-specific effort phenomenology; what we observe is domain-unified.
+A physicalist might respond that the brain simply monitors its own resource allocation and represents it as "effort"—a metacognitive signal, not evidence of non-physical causation. But this only relocates the question: why does the monitoring system track task difficulty with the same phenomenal character across attention and motor selection, two domains only recognised as sharing a mechanism after decades of neuroscience research?
 
 ## The Libet Challenge Dissolved
 
@@ -163,7 +166,7 @@ The thalamus relays ascending sensory signals while receiving descending volunta
 
 ### Other Proposals
 
-More speculative candidates include cortical microcolumns coupling resonantly with the quantum zero-point field (Keppler 2025). These lack independent confirmation and should be treated as early-stage hypotheses, not comparably supported proposals.
+More speculative candidates include cortical microcolumns coupling with the quantum zero-point field (Keppler 2025). These lack independent confirmation and remain early-stage hypotheses.
 
 ## Timing Constraints
 
@@ -210,9 +213,7 @@ The framework would face serious challenge if:
 
 ### Dualism
 
-The convergence supports the [[tenets#^dualism|Dualism]] tenet through multiple channels. Phenomenologically: both attention and motor selection feel like *you* doing something, not like watching computation proceed. Neurally: parietal intention dissociates from premotor execution, indicating what initiates selection is not identical to the execution machinery. The convergence itself: if a single mechanism handles both perception and action selection, and that mechanism has properties (effort, timing, neural signatures) distinguishing "willed" from "automatic," this distinction calls for explanation. The Map's explanation: consciousness contributes something the automatic system lacks.
-
-The interface framework presupposes consciousness is distinct from attention mechanisms. If consciousness were identical to neural attention processing, "interface" would be meaningless—what would interface with what?
+The convergence supports the [[tenets#^dualism|Dualism]] tenet through multiple channels. Phenomenologically: both attention and motor selection feel like *you* doing something. Neurally: parietal intention dissociates from premotor execution, indicating what initiates selection is not identical to the execution machinery. If a single mechanism handles both perception and action selection with properties (effort, timing, neural signatures) distinguishing "willed" from "automatic," consciousness contributes something the automatic system lacks. The interface framework presupposes this distinction—if consciousness were identical to neural attention processing, "interface" would be meaningless.
 
 ### Minimal Quantum Interaction
 
@@ -245,6 +246,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 ## Further Reading
 
 - [[attention-as-interface]] — The interface hypothesis stated and developed
+- [[attention-disorders-and-quantum-interface]] — What ADHD, fatigue, and meditation reveal about interface dysfunction
 - [[bandwidth-of-consciousness]] — The 100-million-fold inbound/outbound bandwidth asymmetry as evidence for the interface model
 - [[attention-consciousness-dissociation]] — Evidence that attention and consciousness can come apart
 - [[attention-motor-quantum-interface]] — Detailed concept treatment of the unified interface
