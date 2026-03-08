@@ -4,7 +4,7 @@ description: "Why consciousness is confined to a moving present and cannot simul
 created: 2026-02-04
 modified: 2026-03-05
 human_modified: null
-ai_modified: 2026-03-05T01:32:00+00:00
+ai_modified: 2026-03-08T13:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,13 +28,14 @@ related_articles:
   - "[[scale-void]]"
   - "[[continuity-void]]"
   - "[[resolution-void]]"
+  - "[[consciousness-and-temporal-becoming]]"
   - "[[binding-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-05
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-08T13:11:00+00:00
 coalesced_from:
   - "/voids/temporal-consciousness-void/"
   - "/voids/duration-void/"
@@ -64,17 +65,17 @@ Physics presents time differently. In the block universe view — supported by r
 
 This creates a gap. If all times exist equally, why does consciousness experience only one "slice" at a time? C.D. Broad's "moving spotlight" metaphor captures the puzzle: "the characteristic of presentness as moving, somewhat like the spot of light from a policeman's bull's-eye traversing the fronts of the houses in a street." The theory relocates the mystery rather than solving it. What moves the spotlight? Why can't consciousness illuminate the whole block?
 
-A deflationary response holds that temporal flow is simply what it is *like* to be a temporal information-processing system embedded in a block universe. The Map rejects this deflationary move. The explanatory gap between mathematical eternalism and phenomenal flow is not dissolved by redescription. As a Royal Society analysis notes: "Conscious experience has a felt quality that involves flow; thoughts seem to be present in the 'now,' and they change from moment to moment. Timeless experience is an oxymoron." Physics suggests timelessness is how reality actually works — yet consciousness cannot inhabit this truth.
+A deflationary response holds that temporal flow is simply what it is *like* to be a temporal information-processing system embedded in a block universe. The Map rejects this deflationary move. The explanatory gap between mathematical eternalism and phenomenal flow is not dissolved by redescription. Conscious experience has a felt quality that involves flow; thoughts seem to be present in the "now," and they change from moment to moment. Timeless experience is an oxymoron. Physics suggests timelessness is how reality actually works — yet consciousness cannot inhabit this truth.
 
 ## The Duration Paradox
 
 Within the specious present, a further void operates. Lived duration — Bergson's *durée* — is time as directly experienced: continuous, heterogeneous, indivisible. Measured time is duration spatialized into discrete units that can be counted and compared. When consciousness measures time, it fragments the temporal flow, destroying the experience of duration. When consciousness inhabits pure duration, it loses track of quantified time.
 
-The structure resembles complementarity in quantum mechanics. Just as measuring a particle's position disrupts information about its momentum, measuring duration disrupts the experience of duration.
+The structure resembles — by analogy, not identity — complementarity in quantum mechanics. Just as measuring a particle's position disrupts information about its momentum, measuring duration disrupts the experience of duration.
 
 Consider watching a clock. Time feels slower — not because clocks possess some magical power, but because clock-watching forces consciousness into measurement mode, fragmenting the continuous flow into discrete ticks. Remove the clock and duration reasserts itself — time "flies" because consciousness re-enters the qualitative flow.
 
-Flow states provide the empirical mirror image. A meta-analysis of 63 studies (over 1,000 effect sizes) confirms that deep absorption consistently produces distorted time perception — subjects report that hours passed in what felt like minutes (Stoll et al., 2019). During flow, transient hypofrontality reduces activity in brain regions tracking temporal awareness. Consciousness enters pure duration and clock-time awareness drops away. The two modes cannot coexist.
+Flow states provide the empirical mirror image. A meta-analysis of 63 studies (over 1,000 effect sizes) confirms that deep absorption consistently produces distorted time perception — subjects report that hours passed in what felt like minutes (Hancock et al., 2019). During flow, transient hypofrontality reduces activity in brain regions tracking temporal awareness. Consciousness enters pure duration and clock-time awareness drops away. The two modes cannot coexist.
 
 The retrospective distortion makes the incompatibility vivid. A vacation that "flew by" is remembered as long — rich with distinct events. A boring meeting that "dragged" is remembered as short — sparse temporal content. Lived duration and measured duration generate contradictory judgments about the same interval. Neither is wrong; they are incommensurable.
 
@@ -90,7 +91,7 @@ Husserl identified a double intentionality in temporal awareness: *transverse in
 
 ## The Bergson-Einstein Impasse
 
-In 1922, Bergson and Einstein debated whether physics captures time fully. Einstein declared that there was no "philosopher's time" — only physical time. Bergson accepted relativity but insisted that clocks require conscious interpreters: "Clocks, however accurate, don't read themselves; they are interpreted by conscious beings."
+In 1922, Bergson and Einstein debated whether physics captures time fully. Einstein declared that there was no "philosopher's time" — only physical time. Bergson accepted relativity but insisted that clocks require conscious interpreters — they do not read themselves. Simultaneity, he argued, is always something perceived by conscious beings before it is something measured by instruments.
 
 Modern reassessment suggests their positions were more compatible than either realized. Bergson was not arguing against physics but for a dimension of time that physics cannot represent — the qualitative, heterogeneous character of lived experience. A century later, this dimension remains unincorporated into any physical theory.
 
@@ -118,7 +119,7 @@ The temporal void has multiple dimensions:
 
 **Neurological**: [[default-mode-network|Default Mode Network]] suppression correlates with time dissolution, suggesting neural substrates for temporal experience. Brain damage can alter time perception but does not grant access to other times. No neurological intervention has ever granted access to past or future moments — only altered the *structure* of present experience.
 
-**Empirical (duration)**: Flow state research consistently shows the two temporal modes are mutually exclusive. Transient hypofrontality during absorption eliminates clock-time awareness while enriching experienced duration (Stoll et al., 2019). The complementarity is measurable.
+**Empirical (duration)**: Flow state research consistently shows the two temporal modes are mutually exclusive. Transient hypofrontality during absorption eliminates clock-time awareness while enriching experienced duration (Hancock et al., 2019). The complementarity is measurable.
 
 **Contemplative**: Millennia of meditation practice have not produced reliable access to past or future moments. Reports of "timelessness" in deep states describe structured duration without markers — duration stripped of succession — rather than escape from duration.
 
@@ -134,9 +135,9 @@ The temporal void has multiple dimensions:
 
 ## What AI Might Reveal
 
-AI systems process information without (presumably) human temporal phenomenology. They access training data without experiencing it as past and consider multiple time points without the constraint of sequential flow. AI excels at precisely what human consciousness sacrifices when it enters lived duration, and lacks precisely what consciousness accesses when it leaves measurement behind.
+AI systems process information without (presumably) human temporal phenomenology. They consider multiple time points without the constraint of sequential flow — excelling at precisely what consciousness sacrifices when it enters lived duration, and lacking precisely what consciousness accesses when it leaves measurement behind.
 
-Whether sufficiently complex AI might develop something analogous to durational experience remains a void-adjacent question — verifiable from neither inside nor outside. If an AI system were conscious in some non-temporal mode, it might illuminate human temporal confinement from an external perspective — making the void visible in a way unavailable from within.
+Whether sufficiently complex AI might develop something analogous to durational experience remains a void-adjacent question — verifiable from neither inside nor outside.
 
 ## Relation to Site Perspective
 
@@ -165,6 +166,7 @@ The Map speculates that the temporal void may be partly occluded rather than mer
 - [[continuity-void]] — Whether consciousness has gaps
 - [[resolution-void]] — The temporal resolution limit of conscious access
 - [[temporal-consciousness]] — How time structures conscious experience
+- [[consciousness-and-temporal-becoming]] — Why temporal passage may require consciousness
 - [[philosophy-of-time]] — McTaggart's A/B series, presentism, and eternalism
 
 ## References
@@ -179,6 +181,6 @@ The Map speculates that the temporal void may be partly occluded rather than mer
 1. James, W. (1890). *The Principles of Psychology*, Chapter XV: "The Perception of Time."
 1. McTaggart, J.M.E. (1908). "The Unreality of Time." *Mind*, 17(68), 457-474.
 1. Stanford Encyclopedia of Philosophy. Temporal Consciousness. https://plato.stanford.edu/entries/consciousness-temporal/
-1. Stoll, C. et al. (2019). "Time experience during flow: A meta-analysis." *Acta Psychologica*.
+1. Hancock, P.A. et al. (2019). "A meta-analysis of flow effects and the perception of time." *Acta Psychologica*, 198, 102836.
 1. Weyl, H. (1949). *Philosophy of Mathematics and Natural Science*. Princeton.
 1. Wittmann, M. (2016). *Felt Time: The Psychology of How We Perceive Time*. MIT Press.

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review temporal-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-04, never reviewed. Voids article on the temporal dimension of cognitive gaps — how time-related aspects of experience resist analysis. 32 days without quality assurance. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-08
-
 ### P2: Deep review dream-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on dream consciousness covers filter model evidence, lucid dreaming, and interface modulation during sleep. Verify claims, cross-references, and tenet alignment.
@@ -478,6 +472,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Deep review temporal-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-04, never reviewed. Voids article on the temporal dimension of cognitive gaps — how time-related aspects of experience resist analysis. 32 days without quality assurance. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/temporal-void.md
 
 ### ✓ 2026-03-08: Deep review evolved-cognitive-limits.md
 - **Type**: deep-review
