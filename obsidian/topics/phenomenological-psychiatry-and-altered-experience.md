@@ -4,7 +4,7 @@ description: "Mental illness reveals consciousness's hidden architecture. Schizo
 created: 2026-03-03
 modified: 2026-03-03
 human_modified:
-ai_modified: 2026-03-03T09:41:00+00:00
+ai_modified: 2026-03-08T05:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -110,6 +110,7 @@ Most phenomenological psychiatrists bracket the ontological question, remaining 
 - [[altered-states-of-consciousness]]
 - [[phenomenology]]
 - [[the-case-for-dualism]]
+- [[attention-disorders-and-consciousness]] — The epistemological void when attention disorders compromise the instrument of investigation
 
 ## References
 

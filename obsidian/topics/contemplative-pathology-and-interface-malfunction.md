@@ -4,7 +4,7 @@ description: "When meditation destabilizes the consciousness-brain interface: da
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-23T21:50:00+00:00
+ai_modified: 2026-03-08T05:29:00+00:00
 draft: false
 topics:
   - "[[contemplative-methods-as-philosophical-methodology]]"
@@ -98,6 +98,7 @@ The [[tenets#^minimal-quantum-interaction|minimal quantum interaction tenet]] su
 - [[interface-friction]]
 - [[altered-states-as-void-probes]]
 - [[attention-disorders-and-quantum-interface]]
+- [[attention-disorders-and-consciousness]] — The epistemological void when attention itself is disordered
 
 ## References
 

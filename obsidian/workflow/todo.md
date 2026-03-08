@@ -434,12 +434,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The possibility that different conscious systems couple with matter through different mechanisms. Central to comparative-consciousness-and-interface-differences and what-it-might-be-like-to-be-an-ai but currently only developed within those articles. Target section: concepts/. Supports Tenets 1 and 2. See [[reviews/optimistic-2026-03-07-night]].
 
-### P2: Integrate attention-disorders-and-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-07. Voids article on how attention disorders reveal the architecture of the consciousness-brain interface. Add cross-references from attention-disorders-and-quantum-interface.md, structure-of-attention.md, attention-as-selection-interface.md, or other attention-related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-08
-
 ### P2: Condense research/types-of-consciousness-ai-experience-2026-03-07.md (4812 words, 137% of hard threshold)
 - **Type**: condense
 - **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4812 words, the worst length violation among research notes. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
@@ -472,6 +466,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Integrate attention-disorders-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-07. Voids article on how attention disorders reveal the architecture of the consciousness-brain interface. Add cross-references from attention-disorders-and-quantum-interface.md, structure-of-attention.md, attention-as-selection-interface.md, or other attention-related articles.
+- **Output**: obsidian/voids/attention-disorders-and-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-08: Write article on collapse before minds and the early universe
 - **Type**: expand-topic

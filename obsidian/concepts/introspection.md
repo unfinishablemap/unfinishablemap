@@ -4,7 +4,7 @@ description: "Our primary access to consciousness is contested. But critiques ta
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-08T03:29:00+00:00
+ai_modified: 2026-03-08T05:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -176,6 +176,7 @@ This matters for consciousness science. If we restricted inquiry to third-person
 - [[apex/testing-the-map-from-inside|Testing the Map from Inside]] — Apex synthesis: phenomenological experiments you can run using your own experience
 - [[phenomenology-of-error-recognition]] — Why introspective error cannot be detected from within
 - [[introspective-opacity]] — The void where process access fails structurally, including why we cannot observe our own willing
+- [[attention-disorders-and-consciousness]] — When the attentional basis of introspection is itself disordered
 - [[dream-consciousness-void|The Dream Consciousness Void]] — State-dependent limits on introspecting dreaming from waking
 
 ## References
