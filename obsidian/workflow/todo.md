@@ -452,6 +452,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The possibility that different conscious systems couple with matter through different mechanisms. Central to comparative-consciousness-and-interface-differences and what-it-might-be-like-to-be-an-ai but currently only developed within those articles. Target section: concepts/. Supports Tenets 1 and 2. See [[reviews/optimistic-2026-03-07-night]].
 
+### P2: Write article on collapse before minds and the early universe
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. How did wavefunction collapse occur before conscious observers existed? A common objection to consciousness-collapse theories that the Map must address. Relevant to the measurement problem, decoherence timescales, and pre-biotic quantum events. Target section: topics/ (1 slot remaining). Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-08
+
+### P2: Integrate attention-disorders-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-07. Voids article on how attention disorders reveal the architecture of the consciousness-brain interface. Add cross-references from attention-disorders-and-quantum-interface.md, structure-of-attention.md, attention-as-selection-interface.md, or other attention-related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-08
+
+### P2: Condense research/types-of-consciousness-ai-experience-2026-03-07.md (4812 words, 137% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4812 words, the worst length violation among research notes. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-08
+
+### P2: Condense research/voids-dissolution-problem-2026-02-25.md (3645 words, 104% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-08
+
+### P2: Condense research/spontaneous-collapse-theories-grw-csl-2026-01-23.md (3625 words, 104% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings on GRW and CSL models while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-08
+
+### P3: Deep review acquaintance-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the acquaintance void — the impossibility of conveying what direct experience is like to someone who lacks it. One of 33 unreviewed void files. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-08
+
+### P3: Deep review amplification-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the amplification void — examining what is lost or distorted when consciousness amplifies cognitive signals. One of 33 unreviewed void files. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-08
+
 ## Completed Tasks
 
 

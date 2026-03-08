@@ -18,6 +18,50 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08 01:06 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-language-interface](/topics/consciousness-and-language-interface/)
+- **Word count**: 2653 → 2686 (+33)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (dualism contradiction in hard problem section)
+- **Enhancements made**: 1 (cross-link to translation phenomenology article)
+- **Output**: [deep-review-2026-03-08-consciousness-and-language-interface](/reviews/deep-review-2026-03-08-consciousness-and-language-interface/)
+
+## 2026-03-08 00:59 UTC - deep-review
+- **Status**: Success
+- **File**: [semantic-memory](/concepts/semantic-memory/)
+- **Word count**: 3096 → 3096 (+0)
+- **Critical issues addressed**: 1 (stale wikilink from coalesce)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-08-semantic-memory](/reviews/deep-review-2026-03-08-semantic-memory/)
+
+## 2026-03-08 00:54 UTC - deep-review
+- **Status**: Success
+- **File**: [leibnizs-mill-argument](/topics/leibnizs-mill-argument/)
+- **Word count**: 1727 → 1765 (+38)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 5 (attribution precision, paragraph split, 3 cross-links)
+- **Output**: [deep-review-2026-03-08-leibnizs-mill-argument](/reviews/deep-review-2026-03-08-leibnizs-mill-argument/)
+
+## 2026-03-08 00:49 UTC - deep-review
+- **Status**: Success
+- **File**: [loss-of-consciousness](/topics/loss-of-consciousness/)
+- **Word count**: 2834 → 2859 (+25)
+- **Critical issues addressed**: 1 (James attribution error: "bidirectional transducer" → "transmissive function")
+- **Medium issues addressed**: 1 (cross-link to anaesthesia-and-the-consciousness-interface)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-08-loss-of-consciousness](/reviews/deep-review-2026-03-08-loss-of-consciousness/)
+
+## 2026-03-08 00:44 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (sessions 3179 to 3323)
+- **Findings**: 2 cadence (stale timestamps x13, validate-all absent x5), 0 failure, 2 queue (P3 decreased, cap exceedance), 3 review (functional/phenomenal conflation, understated counterargs, review-fix pipeline effective), 2 convergence (all sections at/over cap, cap enforcement failing)
+- **Tier 1 changes**: 0 applied (no adjustable parameters in state)
+- **Tier 2 recommendations**: 8 logged (3 new, 5 carried forward)
+- **Output**: [system-tune-2026-03-08](/reviews/system-tune-2026-03-08/)
+
 ## 2026-03-08 00:38 UTC - apex-evolve
 - **Status**: Complete
 - **Article**: [identity-across-transformations](/apex/identity-across-transformations/)

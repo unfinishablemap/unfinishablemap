@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-24 11:14:00+00:00
+ai_modified: 2026-03-08 01:06:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: 'How consciousness and language interact bidirectionally: language 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 19:18:00+00:00
+last_deep_review: 2026-03-08 01:06:00+00:00
 modified: *id001
 related_articles:
 - '[[language-recursion-and-consciousness]]'
@@ -123,7 +123,7 @@ The loss explains why expression never feels complete. "That's not quite it"—t
 
 The bidirectional loss at the consciousness-language interface has philosophical implications:
 
-**For the hard problem.** The explanatory gap—why physical descriptions fail to explain phenomenal experience—may partly derive from this interface. Physical science proceeds through linguistic description. If phenomenal experience systematically exceeds linguistic capture, physical descriptions will systematically miss phenomenal facts—not because phenomenal facts are non-physical, but because the language of physics is a poor conduit for phenomenal content.
+**For the hard problem.** The explanatory gap—why physical descriptions fail to explain phenomenal experience—may partly derive from this interface. Physical science proceeds through linguistic description. If phenomenal experience systematically exceeds linguistic capture, physical descriptions will systematically miss phenomenal facts. The Map holds that phenomenal facts are genuinely non-physical—but the linguistic interface adds a further obstacle: the language of physics is a particularly poor conduit for phenomenal content. Even if one resists dualism, the translation loss remains.
 
 **For introspection.** [Introspection](/concepts/introspection/) is often linguistically mediated—we report on our experiences using words. If the report necessarily loses content, introspection cannot deliver complete knowledge of our own minds. There's always more to experience than introspection reveals—not hidden from access, but lost in translation. This connects to debates about [heterophenomenology](/concepts/heterophenomenology/)—the method of taking introspective reports as data about what subjects believe they experience, without assuming these reports directly access phenomenal facts.
 
@@ -199,6 +199,7 @@ The consciousness-language interface connects to the Map's [tenets](/tenets/) at
 
 ## Further Reading
 
+- [consciousness-and-the-phenomenology-of-translation](/topics/consciousness-and-the-phenomenology-of-translation/) — Translation as a phenomenal event that doubles the interface's lossy compression
 - [language-and-consciousness](/concepts/language-and-consciousness/) — The philosophical infrastructure: how meaning, reference, and the private language argument reveal consciousness resists linguistic dissolution
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How recursive language may require consciousness
 - [language-thought-boundary](/voids/language-thought-boundary/) — The limits where thought exceeds language

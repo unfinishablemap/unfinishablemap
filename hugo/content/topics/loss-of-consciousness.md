@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-31 11:28:00+00:00
+ai_modified: 2026-03-08 00:49:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,7 +27,7 @@ description: 'Anesthesia and coma don''t prove brains produce consciousness. Fil
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-31 11:28:00+00:00
+last_deep_review: 2026-03-08 00:49:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +58,7 @@ Yet the argument commits a logical error. Correlation—even tight, reliable cor
 
 ## The Filter Theory Alternative
 
-At the close of the nineteenth century, several philosophers and psychologists dissented from growing physiological reductionism. William James proposed a "bidirectional transducer" model using the analogy of a prism. A broken prism fails to refract white light into colors—but this failure doesn't prove the prism *produces* colors. The prism has a transmissive function; it reveals rather than generates.
+At the close of the nineteenth century, several philosophers and psychologists dissented from growing physiological reductionism. William James proposed a "transmissive function" model for the brain, contrasting it with the assumed "productive function." His analogy of a prism illustrates the distinction: a broken prism fails to refract white light into colors—but this failure doesn't prove the prism *produces* colors. The prism has a transmissive function; it reveals rather than generates.
 
 Henri Bergson argued that the brain selects and transmits only action-relevant information from a larger field of consciousness. Memory, for Bergson, is not stored in the brain but activated through it when needed for action. The brain's role is eliminative—filtering out what is unnecessary for survival—rather than productive.
 
@@ -181,6 +181,7 @@ The Map's [tenets](/tenets/) converge on loss of consciousness as a domain where
 ## Further Reading
 
 - [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: how indexical identity persists through anesthesia, split-brain, altered states, and death
+- [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — How different anaesthetic agents map the structured, multi-layered consciousness interface
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Loss of consciousness as part of the broader ASC spectrum
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
 - [near-death-experiences](/concepts/near-death-experiences/)
