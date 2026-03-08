@@ -151,6 +151,7 @@ Thomas Nagel's analysis in [[objectivity-and-consciousness]] illuminates why P-c
 - [[argument-from-reason]] - Why rational inference requires phenomenal consciousness
 - [[topics/free-will]] - P-consciousness and genuine agency
 - [[agent-causation]] - Conscious agents as irreducible causes
+- [[types-of-consciousness]] - Comprehensive taxonomy of consciousness types: phenomenal, access, monitoring, and structural variations
 - [[objectivity-and-consciousness]] - The tension between objective description and subjective experience
 
 ### Apex Synthesis

@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08 00:00 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/types-of-consciousness]]
+- **Word count**: 1583 → 1698 (+115)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (added blindsight reference, Tulving taxonomy, orphan integration)
+- **Enhancements made**: 7 cross-reference updates from hub articles
+- **Output**: [[reviews/deep-review-2026-03-08-types-of-consciousness]]
+
 ## 2026-03-07 23:48 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/conservation-laws-and-mental-causation]]

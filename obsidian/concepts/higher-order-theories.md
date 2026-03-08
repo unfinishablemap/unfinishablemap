@@ -222,6 +222,7 @@ The hard problem remains hard.
 - [[illusionism]] — HOT's logical extreme: phenomenal consciousness as illusion
 - [[phenomenal-concepts-strategy]] — Physicalism's parallel attempt to explain the gap
 - [[mental-causation]] — Where HOT's classical framing creates problems
+- [[types-of-consciousness]] — Comprehensive taxonomy where monitoring consciousness fits alongside phenomenal and access types
 - [[ai-consciousness]] — Where HOT's implications meet the Map's skepticism
 - [[higher-order-theories-consciousness-2026-01-14]] — Detailed research notes
 

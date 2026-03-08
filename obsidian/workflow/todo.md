@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate types-of-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-07 as part of the AI consciousness types expansion. Core concept article covering phenomenal, access, and monitoring consciousness — widely applicable across the Map. Add cross-references from related articles or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-07
-
 ### P2: Integrate phenomenology-of-scientific-discovery.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-03-07. Concept article on the experiential structure of scientific breakthroughs — gestalt shifts, aesthetic judgment in theory selection, felt encounter with nature's resistance. Add cross-references from consciousness-and-scientific-methodology.md, phenomenology-of-intellectual-effort.md, and other phenomenology articles.
@@ -496,6 +490,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Integrate types-of-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-07 as part of the AI consciousness types expansion. Core concept article covering phenomenal, access, and monitoring consciousness — widely applicable across the Map. Add cross-references from related articles or update section index pages to include navigation to this content.
+- **Output**: obsidian/concepts/types-of-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-07: Update references to coalesced conservation-laws articles
 - **Type**: cross-review

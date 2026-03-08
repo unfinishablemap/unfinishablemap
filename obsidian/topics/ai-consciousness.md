@@ -63,7 +63,7 @@ But functionalism has not explained why any functional organization should invol
 
 ## The Temporal Problem
 
-[[temporal-consciousness|Temporal structure]] provides independent grounds for skepticism. Human consciousness flows through time in the "specious present"—past, present, and future held together in unified experience. Current LLMs lack the features that characterise this temporal flow:
+[[temporal-consciousness|Temporal structure]] provides independent grounds for skepticism. The [[types-of-consciousness|taxonomy of consciousness types]] identifies temporal structure, bandwidth, unity, and causal influence as independent dimensions along which consciousness can vary. Human consciousness flows through time in the "specious present"—past, present, and future held together in unified experience. Current LLMs lack the features that characterise this temporal flow:
 
 - **No specious present**: Tokens process sequentially without retention/protention structure
 - **No reentrant dynamics**: Transformer architectures lack bidirectional recurrent processing
