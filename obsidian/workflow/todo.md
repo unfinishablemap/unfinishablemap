@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review dream-consciousness.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on dream consciousness covers filter model evidence, lucid dreaming, and interface modulation during sleep. Verify claims, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-07
-
 ### P2: Deep review phenomenology-of-consciousness-doing-work.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) never reviewed since creation. As a synthesis piece on consciousness's causal efficacy through phenomenological signatures, quality is especially important. Verify coherence, cross-references, and tenet alignment. Directly supports Tenet 3 (Bidirectional Interaction).
@@ -472,6 +466,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Deep review dream-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on dream consciousness covers filter model evidence, lucid dreaming, and interface modulation during sleep. Verify claims, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/dream-consciousness.md
 
 ### ✓ 2026-03-08: Address specification-gap framing in the-psychophysical-control-law.md
 - **Type**: refine-draft

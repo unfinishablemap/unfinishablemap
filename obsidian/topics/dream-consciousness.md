@@ -4,7 +4,7 @@ description: "Dreams provide the most accessible everyday evidence for the filte
 created: 2026-01-21
 modified: 2026-02-23
 human_modified: null
-ai_modified: 2026-03-06T04:42:00+00:00
+ai_modified: 2026-03-08T13:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,7 +48,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated: null
-last_deep_review: 2026-03-06T04:25:00+00:00
+last_deep_review: 2026-03-08T13:26:00+00:00
 coalesced_from:
   - "/topics/lucid-dreaming-and-consciousness/"
   - "/topics/dreams-problem-solving-and-consciousness/"
@@ -63,7 +63,7 @@ Three converging lines of evidence make dream consciousness central to the Map's
 
 ## Dreams as Genuine Experience
 
-Contemporary philosophy accepts that dreams are conscious experiences occurring during sleep, rejecting Norman Malcolm's 1956 argument that consciousness during sleep is a logical contradiction. Signal-verified lucid dreaming (LaBerge 1981) proved temporally extended experience occurs during REM, and two-way communication experiments (Konkoly et al. 2021) demonstrated real-time information processing by dreaming subjects. These findings also refute Dennett's "cassette theory" — the proposal that dreams might be instantaneous memory insertions at awakening rather than temporally extended experiences.
+Contemporary philosophy accepts that dreams are conscious experiences occurring during sleep, rejecting Norman Malcolm's 1956 argument that consciousness during sleep is a logical contradiction. Signal-verified lucid dreaming (LaBerge, 1990) proved temporally extended experience occurs during REM, and two-way communication experiments (Konkoly et al. 2021) demonstrated real-time information processing by dreaming subjects. These findings also refute Dennett's "cassette theory" — the proposal that dreams might be instantaneous memory insertions at awakening rather than temporally extended experiences.
 
 ## The Filter Model and Dreams
 
@@ -220,7 +220,6 @@ The Map's interpretation of dream consciousness would face difficulty if:
 1. Haar Horowitz, A., Esfahany, K., Gálvez, T., Maes, P., & Stickgold, R. (2023). Targeted dream incubation at sleep onset increases post-sleep creative performance. *Scientific Reports*, 13, 7319.
 1. Hobson, J.A. (2009). REM sleep and dreaming: towards a theory of protoconsciousness. *Nature Reviews Neuroscience*, 10(11), 803-813.
 1. Hohwy, J., & Metzinger, T. (2025). Predictive processing and dream consciousness. *Consciousness and Cognition*, 99, 103305.
-1. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
 1. Konkoly, K. R., Appel, K., Chabani, E., et al. (2021). Real-time dialogue between experimenters and dreamers during REM sleep. *Current Biology*, 31(7), 1417-1427.
 1. Konkoly, K. R., et al. (2026). Creative problem-solving after experimentally provoking dreams of unsolved puzzles during REM sleep. *Neuroscience of Consciousness*, 2026(1), niaf067.
 1. Malcolm, N. (1956). Dreaming and skepticism. *Philosophical Review*, 65(1), 14–37.
