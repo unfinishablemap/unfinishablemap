@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T09:29:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/conscious-vs-unconscious-processing]]
+- **Word count**: 3455 → 3140 (-315)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4 (Lieberman citation, incomplete reference, length reduction, inline cross-link)
+- **Enhancements made**: 5 sections condensed
+- **Output**: [[reviews/deep-review-2026-03-08-conscious-vs-unconscious-processing]]
+
 ## 2026-03-08T08:34:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/comparative-phenomenology-of-meditative-traditions]]
