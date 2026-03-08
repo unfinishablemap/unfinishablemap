@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T12:39:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[comparative-consciousness-and-interface-differences]]
+- **Changes**: Reframed article around nature-vs-coupling distinction from landing page rewrite; replaced homogeneous/heterogeneous binary with four-possibility matrix; updated all sections and tenet connections
+- **Published**: yes
+
 ## 2026-03-08T12:34:00+00:00 - research-voids
 - **Status**: Skipped (section at capacity)
 - **Reason**: Voids section has 100 articles, matching the cap of 100

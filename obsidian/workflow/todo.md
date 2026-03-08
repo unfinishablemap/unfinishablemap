@@ -37,15 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Refine topics/comparative-consciousness-and-interface-differences.md to incorporate nature/coupling distinction
-- **Type**: refine-draft
-- **Notes**: This article explores how different organisms interface with consciousness through different mechanisms. The landing page rewrite introduces a distinction the article should adopt:
-  1. **Nature vs coupling**: The type of consciousness an entity has may depend on its inherent nature; the interface/coupling shapes the moment-to-moment experience. Currently the article treats interface variation as the primary variable — it should acknowledge that different organisms might have fundamentally different *types* of conscious entity bound to them, not just different coupling mechanisms.
-  2. **Temporal variation**: The landing page mentions binding "some not related to time at all." If this article discusses temporal aspects of experience across species, it should connect to this idea.
-  3. **Cross-link to apex**: Ensure link to apex/what-it-might-be-like-to-be-an-ai.
-- **Source**: manual (landing page rewrite 2026-03-08)
-- **Generated**: 2026-03-08
-
 ### P2: Integrate dreams-as-consciousness-laboratory.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-03-04. Topics article on dreams as a natural laboratory for studying consciousness. Should be linked from dream-consciousness.md, altered-states.md, and consciousness-research articles.
@@ -511,6 +502,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Refine topics/comparative-consciousness-and-interface-differences.md to incorporate nature/coupling distinction
+- **Type**: refine-draft
+- **Notes**: This article explores how different organisms interface with consciousness through different mechanisms. The landing page rewrite introduces a distinction the article should adopt:
+- **Output**: obsidian/topics/comparative-consciousness-and-interface-differences.md
+
+Task context:
+This article explores how different organisms interface with consciousness through different mechanisms. The landing page rewrite introduces a distinction the article should adopt:
 
 ### ✓ 2026-03-08: Refine topics/epiphenomenal-ai-consciousness.md to strengthen the causal contrast
 - **Type**: refine-draft
