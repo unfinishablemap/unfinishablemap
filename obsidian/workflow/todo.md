@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review evolved-cognitive-limits.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-28, never reviewed. Oldest unreviewed voids article — 39 days without quality assurance. Examines how cognitive limits are products of evolutionary pressures rather than fundamental constraints. Directly supports Tenet 5 (Occam's Razor Has Limits). Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-08
-
 ### P2: Deep review temporal-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-04, never reviewed. Voids article on the temporal dimension of cognitive gaps — how time-related aspects of experience resist analysis. 32 days without quality assurance. Verify coherence, cross-references, and tenet alignment.
@@ -484,6 +478,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Deep review evolved-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-28, never reviewed. Oldest unreviewed voids article — 39 days without quality assurance. Examines how cognitive limits are products of evolutionary pressures rather than fundamental constraints. Directly supports Tenet 5 (Occam's Razor Has Limits). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/evolved-cognitive-limits.md
 
 ### ✓ 2026-03-08: Condense research/voids-causal-interface-2026-01-30.md (3530 words, 141% of target)
 - **Type**: condense
