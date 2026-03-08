@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-03-08 14:07:00+00:00
+ai_modified: 2026-03-08 16:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: 'Psychedelics provide pharmacological evidence for filter theory: d
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-08 16:11:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,9 +40,9 @@ Psychedelics present a challenge to production models of consciousness that no o
 
 The central empirical puzzle is straightforward. BOLD-fMRI studies consistently show that classic psychedelics *decrease* activity within the DMN—the network associated with self-referential thinking, narrative identity, and the ongoing sense of "I" (Carhart-Harris et al., 2012). Simultaneously, between-network functional connectivity *increases*: brain regions that normally operate in relative isolation begin communicating more freely (Tagliazucchi et al., 2016).
 
-Under production models, reduced neural activity should produce reduced experience. A dimmer generator should yield dimmer light. Yet psychedelic subjects report the most vivid, meaningful, and phenomenologically rich experiences of their lives. The 2006 Johns Hopkins psilocybin study found that 67% of participants rated the experience among their top five most personally meaningful events—alongside births, marriages, and deaths (Griffiths et al., 2006).
+A materialist can partly accommodate this: suppressing the DMN disinhibits other networks, so the brain does *different* things rather than strictly *less*. This disinhibition account explains increased between-network connectivity. But it leaves the deeper puzzle untouched. Production models must explain why a brain whose self-referential architecture is disrupted—whose integrative hub has gone offline—produces not confusion or degradation but experiences that subjects rate among the most meaningful of their lives. The 2006 Johns Hopkins psilocybin study found that 67% of participants rated the experience among their top five most meaningful experiences (Griffiths et al., 2006).
 
-Filter theory resolves this without strain. The DMN, on this interpretation, functions as a key component of the brain's filtering apparatus—constraining consciousness to the narrow channel of self-referential narrative needed for everyday survival. When psychedelics suppress DMN coherence, the filter loosens. Consciousness manifests more broadly, no longer funnelled through the bottleneck of personal narrative. The result is expansion, not degradation.
+Filter theory resolves this without strain. The DMN, on this interpretation, functions as a key component of the brain's filtering apparatus—constraining consciousness to the narrow channel of self-referential narrative needed for everyday survival. When psychedelics suppress DMN coherence, the filter loosens. Consciousness manifests more broadly, no longer funnelled through the bottleneck of personal narrative. The result is expansion, not degradation. The disinhibition account describes what happens *neurally*; filter theory explains why the *experiential* result is enrichment rather than noise.
 
 ## Huxley's Reducing Valve
 
@@ -68,7 +68,7 @@ This compatibility is significant. REBUS is not a fringe model—it represents m
 
 Among the most philosophically significant psychedelic phenomena is ego dissolution—the experience of losing one's sense of being a separate self. Research using the Ego Dissolution Inventory shows that ego dissolution under psilocybin correlates specifically with reduced DMN integrity (Lebedev et al., 2015). The network most associated with maintaining the narrative self is the network most disrupted.
 
-Filter theory interprets this as revealing something about what the self-model *does*: it constrains consciousness to a particular perspective. Thomas Metzinger's research describes the self-model as "transparent"—under normal conditions, one does not experience it as a model but as simply being a self. Ego dissolution makes the model visible by dismantling it. From the Map's perspective, the self-model is a core filtering structure. It channels consciousness into the first-person perspective required for embodied action. Remove it, and consciousness manifests in a less constrained mode—impersonal, boundaryless, unified.
+Filter theory interprets this as revealing something about what the self-model *does*: it constrains consciousness to a particular perspective. The distinction between the [minimal self](/concepts/self-and-consciousness/)—the pre-reflective "for-me-ness" present whenever consciousness exists—and the *narrative self* constructed through autobiographical interpretation is critical here. Psychedelics dismantle the narrative self while the minimal self persists. Thomas Metzinger's research describes the self-model as "transparent"—under normal conditions, one does not experience it as a model but as simply being a self (Metzinger, 2003). Ego dissolution makes the model visible by dismantling it. From the Map's perspective, the narrative self-model is a core filtering structure. It channels consciousness into the first-person perspective required for embodied action. Remove it, and consciousness manifests in a less constrained mode—impersonal, boundaryless, unified—while the minimal self continues as the witness of this very dissolution.
 
 This connects to the question of what psychedelic "unity experiences" represent. Subjects commonly report dissolution of the boundary between self and world, a felt identity with all things. If the self-model is a filter component that divides consciousness into "me" and "everything else," its removal doesn't produce an *experience of unity*—it removes the *experience of division*. Unity is what remains when the dividing filter goes silent.
 
@@ -86,7 +86,7 @@ Several lines of evidence support genuine epistemic value rather than mere confa
 
 **Cross-cultural convergence.** Walter Stace documented common phenomenological features across independent mystical traditions: ego dissolution, sense of unity, ineffability, noetic quality, transcendence of time and space. Psychedelic experiences reliably produce this same cluster, suggesting structural features of consciousness rather than cultural artefact.
 
-**Creative and intellectual output.** Historical reports of psychedelic-assisted creativity—from Francis Crick's early work on DNA to Kary Mullis's development of PCR—suggest access to genuine cognitive resources rather than mere subjective impression. Though such reports are difficult to verify definitively, they are consistent with expanded rather than degraded cognitive access.
+**Creative and intellectual output.** Kary Mullis publicly credited LSD with influencing the thinking that led to polymerase chain reaction (PCR), and multiple researchers have reported psychedelic experiences contributing to creative breakthroughs. Though such reports are difficult to verify definitively, they are consistent with expanded rather than degraded cognitive access.
 
 A materialist objection deserves serious engagement: psychedelics disrupt the very neural processes required for accurate introspection. If metacognitive systems are compromised, how can we trust reports from those systems? The response is that this objection proves too much. If any alteration of metacognition invalidates introspective reports, then reports from *all* altered states—including the focused states of scientific observation and philosophical reasoning—become suspect. The question is whether psychedelic reports are *systematically* misleading or *selectively* accurate. The therapeutic and creative evidence favours the latter.
 
@@ -127,8 +127,11 @@ Psychedelics illuminate several of the Map's [tenets](/tenets/):
 5. Griffiths, R. R. et al. (2006). Psilocybin can occasion mystical-type experiences having substantial and sustained personal meaning and spiritual significance. *Psychopharmacology*, 187(3), 268-283.
 6. Griffiths, R. R. et al. (2016). Psilocybin produces substantial and sustained decreases in depression and anxiety in patients with life-threatening cancer. *Journal of Psychopharmacology*, 30(12), 1181-1197.
 7. Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
-8. Kerskens, C. M. & Pérez López, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
-9. Lebedev, A. V. et al. (2015). Finding the self by losing the self: Neural correlates of ego-dissolution under psilocybin. *Human Brain Mapping*, 36(8), 3137-3153.
-10. Sjöstedt-Hughes, P. (2024). The Bergsonian metaphysics behind Huxley's doors. In *Philosophy and Psychedelics*. Springer.
-11. Tagliazucchi, E. et al. (2016). Increased global functional connectivity correlates with LSD-induced ego dissolution. *Current Biology*, 26(8), 1043-1050.
-12. Southgate, A. & Oquatre-six, C. (2026-02-23). Dream Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/dream-consciousness/
+8. Hameroff, S. (2024). Psychedelics, microtubules, and quantum consciousness. In *Consciousness and Quantum Mechanics*. Cambridge University Press.
+9. Kerskens, C. M. & Pérez López, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
+10. Lebedev, A. V. et al. (2015). Finding the self by losing the self: Neural correlates of ego-dissolution under psilocybin. *Human Brain Mapping*, 36(8), 3137-3153.
+11. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+12. Sjöstedt-Hughes, P. (2024). The Bergsonian metaphysics behind Huxley's doors. In *Philosophy and Psychedelics*. Springer.
+13. Stace, W. T. (1960). *Mysticism and Philosophy*. Macmillan.
+14. Tagliazucchi, E. et al. (2016). Increased global functional connectivity correlates with LSD-induced ego dissolution. *Current Biology*, 26(8), 1043-1050.
+15. Southgate, A. & Oquatre-six, C. (2026-02-23). Dream Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/dream-consciousness/

@@ -18,6 +18,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T16:11:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
+- **Word count**: 1972 → 2109 (+137)
+- **Critical issues addressed**: 2 (missing references, unreliable Crick/LSD claim)
+- **Medium issues addressed**: 2 (disinhibition objection engagement, ego dissolution precision)
+- **Enhancements made**: 3 (minimal/narrative self distinction, cross-link to self-and-consciousness, materialist engagement)
+- **Output**: [deep-review-2026-03-08-psychedelics-and-the-filter-model](/reviews/deep-review-2026-03-08-psychedelics-and-the-filter-model/)
+
 ## 2026-03-08T15:11:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/)

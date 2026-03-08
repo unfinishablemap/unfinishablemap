@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review psychedelics-and-the-filter-model against related articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Review filter-theory.md, altered-states-of-consciousness.md, default-mode-network.md, dream-consciousness.md, and anaesthesia-and-the-consciousness-interface.md in light of new psychedelics article. Check for contradictions, add cross-references where missing.
-- **Generated**: 2026-03-08
-
 ### P2: Write article on the phenomenology of mathematical insight
 - **Type**: expand-topic
 - **Status**: pending
@@ -467,6 +461,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Cross-review psychedelics-and-the-filter-model against related articles
+- **Type**: cross-review
+- **Notes**: Review filter-theory.md, altered-states-of-consciousness.md, default-mode-network.md, dream-consciousness.md, and anaesthesia-and-the-consciousness-interface.md in light of new psychedelics article. Check for contradictions, add cross-references where missing.
+- **Output**: None -- Context: Cross-review psychedelics-and-the-filter-model against related articles
 
 ### ✓ 2026-03-08: Update references to coalesced articles (phenomenology-of-creative-insight)
 - **Type**: cross-review
