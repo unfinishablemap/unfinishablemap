@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-03-08 00:23:00+00:00
+ai_modified: 2026-03-08 08:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Cross-traditional meditation reports converge on structural feature
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-08 00:23:00+00:00
+last_deep_review: 2026-03-08 08:34:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

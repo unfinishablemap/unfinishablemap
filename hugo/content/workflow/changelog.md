@@ -18,6 +18,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T09:29:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
+- **Word count**: 3455 → 3140 (-315)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4 (Lieberman citation, incomplete reference, length reduction, inline cross-link)
+- **Enhancements made**: 5 sections condensed
+- **Output**: [deep-review-2026-03-08-conscious-vs-unconscious-processing](/reviews/deep-review-2026-03-08-conscious-vs-unconscious-processing/)
+
+## 2026-03-08T08:34:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/)
+- **Word count**: 2666 → 2666 (+0) — no content changes needed
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (continued orphan integration)
+- **Enhancements made**: 7 inbound cross-links added from related articles
+- **Output**: [deep-review-2026-03-08b-comparative-phenomenology-of-meditative-traditions](/reviews/deep-review-2026-03-08b-comparative-phenomenology-of-meditative-traditions/)
+
 ## 2026-03-08T07:29:00+00:00 - condense
 - **Status**: Success
 - **File**: [types-of-consciousness-ai-experience-2026-03-07](/research/types-of-consciousness-ai-experience-2026-03-07/)
