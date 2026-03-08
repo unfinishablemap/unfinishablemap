@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-08 13:37:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-02-23 12:07:00+00:00
 apex_sources:
@@ -31,7 +31,7 @@ description: What does it feel like when consciousness acts on matter? Effort, s
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-25 11:13:00+00:00
+last_deep_review: 2026-03-08 13:37:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -63,7 +63,7 @@ A physicalist can respond that the brain's resource-monitoring systems generate 
 
 ### Selection: The Feel of Choosing
 
-The second feature is the [distinctive phenomenology of selecting among alternatives](/concepts/phenomenology-of-choice/). Choosing differs from observing in ways that resist deflationary explanation. During deliberation, options present themselves as genuinely open — both feel like live possibilities you could actualise. There is a characteristic *settling* when one alternative becomes actual and others fade to counterfactuals. And after deciding, a sense of authorship — "I did that" — attaches to the outcome.
+The second feature is the [distinctive phenomenology of selecting among alternatives](/concepts/phenomenology-of-choice/). Choosing differs from observing in ways that resist deflationary explanation (Bayne & Levy, 2006; Pacherie, 2008). During deliberation, options present themselves as genuinely open — both feel like live possibilities you could actualise. There is a characteristic *settling* when one alternative becomes actual and others fade to counterfactuals. And after deciding, a sense of authorship — "I did that" — attaches to the outcome.
 
 The contrast with passive observation is phenomenologically vivid. When observing a coin flip, the outcome happens *to* you — no effort, no authorship. When choosing, you participate in determining the outcome. A table adapted from the [phenomenology of choice](/concepts/phenomenology-of-choice/) article captures the asymmetry:
 
@@ -74,7 +74,7 @@ The contrast with passive observation is phenomenologically vivid. When observin
 | Counterfactual status | Fixed at arrival | Open until selection |
 | Authorship | Absent | Present |
 
-This phenomenological contrast has neural correlates. [Willed attention](/concepts/attention-as-interface/) — where you freely choose where to focus — engages frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment that instructed attention does not. The phenomenology of selecting maps onto measurable neural differences, which is what one would expect if the phenomenology tracks genuine causal engagement rather than decorating a process that would proceed identically without it.
+This phenomenological contrast has neural correlates. [Willed attention](/concepts/attention-as-interface/) — where you freely choose where to focus — engages frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment that instructed attention does not (Rajan et al., 2019). The phenomenology of selecting maps onto measurable neural differences, which is what one would expect if the phenomenology tracks genuine causal engagement rather than decorating a process that would proceed identically without it.
 
 ### Holding: The Work of Sustaining
 
@@ -122,7 +122,7 @@ Contemplative evidence also bears on the opacity feature. Buddhist traditions de
 
 ## The Universal Core
 
-The [cross-cultural evidence](/topics/cross-cultural-phenomenology-of-agency/) converges on a claim the Map takes as significant: despite radical variation in how cultures frame agency, the phenomenological profile of consciousness doing work persists. Three invariants emerge across independent traditions.
+The [cross-cultural evidence](/topics/cross-cultural-phenomenology-of-agency/) converges on a claim the Map takes as significant: despite radical variation in how cultures frame agency (Markus & Kitayama, 1991), the phenomenological profile of consciousness doing work persists. Three invariants emerge across independent traditions.
 
 First, the contrast between doing and undergoing. Whether framed as effortful willing (Western), effortless action (*wu wei*, Daoist), or conditioned arising without permanent self (Buddhist), every tradition preserves the felt difference between voluntary action and mere happening. A hand rising because you raise it differs experientially from a hand lifted by someone else, regardless of cultural framework.
 
@@ -165,6 +165,7 @@ This apex article synthesises:
 - [Phenomenology of Choice](/concepts/phenomenology-of-choice/) — The experiential structure of deliberation, decision, and authorship
 - [Volitional Opacity](/voids/introspective-opacity/) — Why the mechanism connecting will to action is permanently invisible to introspection
 - [Attention as Interface](/concepts/attention-as-interface/) — How attention functions as the causal bridge between consciousness and neural systems
+- [Attention as Causal Bridge](/apex/attention-as-causal-bridge/) — The mechanism by which attention mediates consciousness-brain interaction
 
 ## References
 
@@ -175,19 +176,5 @@ This apex article synthesises:
 1. Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
 1. Markus, H. R. & Kitayama, S. (1991). Culture and the Self: Implications for Cognition, Emotion, and Motivation. *Psychological Review*, 98(2), 224-253.
 1. Pacherie, E. (2008). The phenomenology of action: A conceptual framework. *Cognition*, 107(1), 179-217.
+1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R. & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-
-<!-- AI REFINEMENT LOG - 2026-02-23
-Changes made:
-1. Replaced bare assertion that epiphenomenalism predicts no structured phenomenology with explicit argument about tracking (opening paragraph, effort section, synthesis)
-1. Replaced uncited "effect sizes of 0.4-0.7" with properly cited meta-analysis references (Driskell et al. 1994, Feltz & Landers 1983)
-1. Toned down "among the strongest reasons" → "significant evidence"
-1. Replaced "inexplicable coincidence" → "regularity requiring independent explanation"
-1. Replaced "one of the most concrete demonstrations" → "a concrete demonstration"
-1. Strengthened epiphenomenalism counterargument: now explains why tracking is the problem, not mere existence of phenomenology
-
-Based on pessimistic review 2026-02-23 afternoon.
-Key improvements: Core argument now addresses the strongest physicalist objection (brain generates phenomenology regardless) rather than assuming it away.
-
-This log should be removed after human review.
--->

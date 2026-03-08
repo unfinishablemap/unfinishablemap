@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T14:10:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[phenomenology-of-creative-problem-solving]], [[phenomenology-of-scientific-discovery]]
+- **Target**: [[phenomenology-of-creative-insight]]
+- **Archived**: archive/concepts/phenomenology-of-creative-problem-solving.md, archive/concepts/phenomenology-of-scientific-discovery.md
+- **References to review**: 8 active files reference archived articles
+
 ## 2026-03-08T14:07:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Psychedelics and the filter model

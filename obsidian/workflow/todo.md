@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced articles (phenomenology-of-creative-insight)
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce created phenomenology-of-creative-insight. The following files reference archived articles and need wikilinks updated: concepts/cognitive-phenomenology.md, concepts/philosophy-of-science-under-dualism.md, concepts/categorical-surprise.md, concepts/epistemic-emotions.md, concepts/consciousness-and-creativity.md, topics/phenomenology-of-conceptual-change.md, topics/aesthetic-dimension-of-consciousness.md, topics/consciousness-and-scientific-methodology.md
+- **Source**: coalesce
+- **Generated**: 2026-03-08
+
 ### P2: Cross-review psychedelics-and-the-filter-model against related articles
 - **Type**: cross-review
 - **Status**: pending

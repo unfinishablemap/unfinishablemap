@@ -18,6 +18,148 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T14:07:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Psychedelics and the filter model
+- **Output**: [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
+- **Word count**: 1972
+- **Based on research**: yes, [altered-states-consciousness-2026-01-19](/research/altered-states-consciousness-2026-01-19/) and [voids-altered-states-as-void-probes-2026-02-03](/research/voids-altered-states-as-void-probes-2026-02-03/)
+
+## 2026-03-08T14:02:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [void-of-self-knowledge-in-emotion](/topics/void-of-self-knowledge-in-emotion/)
+- **Word count**: 1902 → 2078 (+176)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-03-08-void-of-self-knowledge-in-emotion](/reviews/deep-review-2026-03-08-void-of-self-knowledge-in-emotion/)
+
+## 2026-03-08T13:57:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Void of Self-Knowledge in Emotion
+- **Output**: [void-of-self-knowledge-in-emotion](/topics/void-of-self-knowledge-in-emotion/)
+- **Word count**: 1902
+- **Based on research**: Partial (drew on voids-emotional-epistemology-void-2026-03-02.md and voids-destabilizing-self-knowledge-2026-01-27.md for landscape awareness; article uses general knowledge for its distinct angle on emotional self-opacity)
+- **Note**: Voids section at cap (100/100); placed in topics/ per skill instructions
+
+## 2026-03-08T13:52:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Ethics of Cognitive Enhancement Under Dualism
+- **Output**: [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/)
+- **Word count**: 1408
+- **Based on research**: no
+
+## 2026-03-08T13:46:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All 401 published articles (200 topics, 200 concepts, 1 tenets, 13 apex)
+- **Output**: [optimistic-2026-03-08-afternoon](/reviews/optimistic-2026-03-08-afternoon/)
+
+## 2026-03-08T13:41:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [samkhya-three-way-distinction](/concepts/samkhya-three-way-distinction/)
+- **Word count**: 1778 → 1811 (+33)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 3 (Block's distinction, cross-links, prose refinement)
+- **Output**: [deep-review-2026-03-08-samkhya-three-way-distinction](/reviews/deep-review-2026-03-08-samkhya-three-way-distinction/)
+
+## 2026-03-08T13:37:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)
+- **Word count**: 3134 → 3194 (+60)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4 (inline citations for 3 uncited references, added Rajan et al. 2019, added source article link, removed stale refinement log)
+- **Output**: [deep-review-2026-03-08-phenomenology-of-consciousness-doing-work](/reviews/deep-review-2026-03-08-phenomenology-of-consciousness-doing-work/)
+
+## 2026-03-08T13:31:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [mind-matter-interface](/concepts/mind-matter-interface/)
+- **Word count**: 2120 → 2120 (+0)
+- **Critical issues addressed**: 2 (missing citations for Wiest 2024, Schwartz 1996)
+- **Medium issues addressed**: 3 (unused reference, gratuitous self-citation, section heading)
+- **Enhancements made**: 0 (article stable, no content expansion needed)
+- **Output**: [deep-review-2026-03-08-mind-matter-interface](/reviews/deep-review-2026-03-08-mind-matter-interface/)
+
+## 2026-03-08T13:26:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [dream-consciousness](/topics/dream-consciousness/)
+- **Word count**: 3476 → ~3460 (-16)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (LaBerge citation date mismatch)
+- **Enhancements made**: 1 (removed unused James reference)
+- **Output**: [deep-review-2026-03-08-dream-consciousness](/reviews/deep-review-2026-03-08-dream-consciousness/)
+
+## 2026-03-08T13:21:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [the-psychophysical-control-law](/topics/the-psychophysical-control-law/)
+- **Changes**: Rebalanced specification gap framing (gap as expected, not damning); defused mysterianism escape hatch (acknowledged but not relied on); reframed OCD evidence as illustrative; qualified ~10 bits/s bandwidth claim; softened self-undermining language
+- **Published**: yes
+
+## 2026-03-08T13:16:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/the-psychophysical-control-law.md
+- **Output**: [pessimistic-2026-03-08](/reviews/pessimistic-2026-03-08/)
+
+## 2026-03-08T13:11:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [temporal-void](/voids/temporal-void/)
+- **Word count**: 2412 → 2397 (-15)
+- **Critical issues addressed**: 3 (misattributed citation Stoll→Hancock, vague Royal Society attribution, Bergson false direct quote)
+- **Medium issues addressed**: 3 (quantum analogy qualifier, missing cross-link, AI section condensed)
+- **Enhancements made**: 1 (cross-link to consciousness-and-temporal-becoming)
+- **Output**: [deep-review-2026-03-08-temporal-void](/reviews/deep-review-2026-03-08-temporal-void/)
+
+## 2026-03-08T13:06:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [evolved-cognitive-limits](/voids/evolved-cognitive-limits/)
+- **Word count**: 2615 → 2515 (-100)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-08-evolved-cognitive-limits](/reviews/deep-review-2026-03-08-evolved-cognitive-limits/)
+
+## 2026-03-08T13:01:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [coupling-modes](/concepts/coupling-modes/)
+- **Word count**: 1986 → 1989 (+3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-08-coupling-modes](/reviews/deep-review-2026-03-08-coupling-modes/)
+
+## 2026-03-08T12:56:00+00:00 - condense
+- **Status**: Success
+- **File**: [voids-causal-interface-2026-01-30](/research/voids-causal-interface-2026-01-30/)
+- **Before**: 3530
+- **After**: 2315
+- **Reduction**: 34%
+- **Technique**: Merged overlapping source entries (Mental Causation + Interactionism, Introspection Illusion + Cognitive Opacity, Hidden Neural + Cognitive Access), removed redundant quotes, compressed Phenomenology of the Void and What AI Might See sections, trimmed article angles from 5 to 3, condensed supporting tenets
+
+## 2026-03-08T12:52:00+00:00 - condense
+- **Status**: Success
+- **File**: [voids-framework-void-2026-02-20](/research/voids-framework-void-2026-02-20/)
+- **Before**: 3562
+- **After**: 2285
+- **Reduction**: 36%
+- **Technique**: Trimmed verbose source entries (removed type/quote fields, tightened bullet points), cut redundant tenet alignment notes duplicated in Connection to Tenets section, tightened Evidence and Gaps sections, removed neuroscience gap (least relevant)
+
+## 2026-03-08T12:46:00+00:00 - deep-review
+- **Status**: Skipped (archived file)
+- **File**: [dreams-as-consciousness-laboratory](/topics/dreams-as-consciousness-laboratory/)
+- **Notes**: File was coalesced into [dream-consciousness](/topics/dream-consciousness/) on 2026-03-05 but the hugo/content/topics/ copy was missing archive frontmatter. Added archive markers (archived: true, superseded_by, archived_date) to the stale hugo copy so it shows the archive notice and links to the replacement. No content review needed — replacement article was deep-reviewed on 2026-03-06.
+
+## 2026-03-08T12:39:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/)
+- **Changes**: Reframed article around nature-vs-coupling distinction from landing page rewrite; replaced homogeneous/heterogeneous binary with four-possibility matrix; updated all sections and tenet connections
+- **Published**: yes
+
+## 2026-03-08T12:34:00+00:00 - research-voids
+- **Status**: Skipped (section at capacity)
+- **Reason**: Voids section has 100 articles, matching the cap of 100
+- **Recommendation**: Focus on improving existing voids articles (deep-review, condense, coalesce)
+
 ## 2026-03-08T12:28:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/)

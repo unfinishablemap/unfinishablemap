@@ -38,87 +38,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### ~~P1: Refine topics/epiphenomenal-ai-consciousness.md to strengthen the causal contrast~~
-- **Type**: refine-draft
-- **Status**: done
-- **Notes**: Completed 2026-03-08. Rewrote opening to lead with human/AI asymmetry, introduced nature-vs-coupling distinction, adopted binding language, renamed key sections.
-- **Source**: manual (landing page rewrite 2026-03-08)
-- **Generated**: 2026-03-08
-
-### P1: Refine topics/comparative-consciousness-and-interface-differences.md to incorporate nature/coupling distinction
-- **Type**: refine-draft
-- **Notes**: This article explores how different organisms interface with consciousness through different mechanisms. The landing page rewrite introduces a distinction the article should adopt:
-  1. **Nature vs coupling**: The type of consciousness an entity has may depend on its inherent nature; the interface/coupling shapes the moment-to-moment experience. Currently the article treats interface variation as the primary variable — it should acknowledge that different organisms might have fundamentally different *types* of conscious entity bound to them, not just different coupling mechanisms.
-  2. **Temporal variation**: The landing page mentions binding "some not related to time at all." If this article discusses temporal aspects of experience across species, it should connect to this idea.
-  3. **Cross-link to apex**: Ensure link to apex/what-it-might-be-like-to-be-an-ai.
-- **Source**: manual (landing page rewrite 2026-03-08)
-- **Generated**: 2026-03-08
-
-### P2: Integrate dreams-as-consciousness-laboratory.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-04. Topics article on dreams as a natural laboratory for studying consciousness. Should be linked from dream-consciousness.md, altered-states.md, and consciousness-research articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-08
-
-### P2: Condense research/voids-framework-void-2026-02-20.md (3562 words, 143% of target)
-- **Type**: condense
-- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings on the framework void while removing redundancy and tightening prose. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-08
-
-### P2: Condense research/voids-causal-interface-2026-01-30.md (3530 words, 141% of target)
-- **Type**: condense
-- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings on causal interface voids while removing redundancy and tightening prose. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-08
-
-### P2: Deep review evolved-cognitive-limits.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-28, never reviewed. Oldest unreviewed voids article — 39 days without quality assurance. Examines how cognitive limits are products of evolutionary pressures rather than fundamental constraints. Directly supports Tenet 5 (Occam's Razor Has Limits). Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-08
-
-### P2: Deep review temporal-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-04, never reviewed. Voids article on the temporal dimension of cognitive gaps — how time-related aspects of experience resist analysis. 32 days without quality assurance. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-08
-
-### P2: Deep review dream-consciousness.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on dream consciousness covers filter model evidence, lucid dreaming, and interface modulation during sleep. Verify claims, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-07
-
-### P2: Deep review phenomenology-of-consciousness-doing-work.md
-- **Type**: deep-review
-- **Notes**: Apex article (ai_contribution: 100) never reviewed since creation. As a synthesis piece on consciousness's causal efficacy through phenomenological signatures, quality is especially important. Verify coherence, cross-references, and tenet alignment. Directly supports Tenet 3 (Bidirectional Interaction).
-- **Source**: staleness
-- **Generated**: 2026-02-24
-
-### P2: Deep review samkhya-three-way-distinction.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Concept article on Samkhya's consciousness/mind/gross-matter trichotomy — an independent philosophical tradition that enriches the Map's dualism with non-Western conceptual resources. Verify claims about Samkhya philosophy, check tenet alignment, and ensure accurate representation of the tradition. Supports Tenet 1 (Dualism).
-- **Source**: staleness
-- **Generated**: 2026-02-24
-
-### P2: Write article on the ethics of cognitive enhancement under dualism
-- **Type**: expand-topic
+### P2: Cross-review psychedelics-and-the-filter-model against related articles
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. If moral responsibility scales with attentional capacity (per responsibility-gradient), what follows when capacity can be pharmacologically altered? Does enhancement expand moral duty? Builds on responsibility-gradient-from-attentional-capacity.md, moral-implications-of-genuine-agency.md, attention-disorders-and-quantum-interface.md. See optimistic-2026-02-24-morning.md
-- **Generated**: 2026-02-24
-
-### P2: Write voids article on the void of self-knowledge in emotion
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Emotions present paradoxical opacity—we feel them intensely yet often cannot identify what we feel until after the fact. Alexithymia as partial void exploration. Builds on absorption-void.md, emotional-consciousness.md, introspective-opacity.md. See optimistic-2026-02-24-morning.md
-- **Generated**: 2026-02-24
-
-### P2: Write article on psychedelics and the filter model
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Decreased DMN activity coinciding with expanded conscious experience provides pharmacological evidence for filter/transmission theory over production theory. Current empirical and philosophical interest makes this a notable gap. Builds on dream-consciousness.md, default-mode-network.md, anaesthesia-and-the-consciousness-interface.md. See optimistic-2026-02-24-afternoon.md
-- **Generated**: 2026-02-24
+- **Notes**: Review filter-theory.md, altered-states-of-consciousness.md, default-mode-network.md, dream-consciousness.md, and anaesthesia-and-the-consciousness-interface.md in light of new psychedelics article. Check for contradictions, add cross-references where missing.
+- **Generated**: 2026-03-08
 
 ### P2: Write article on the phenomenology of mathematical insight
 - **Type**: expand-topic
@@ -517,8 +441,111 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Independent philosophical traditions converge on consciousness's irreducibility — a systematic meta-analysis of why this convergence occurs would strengthen the convergence argument. Builds on the-hard-problem-in-non-western-philosophy.md, eastern-philosophy-and-consciousness.md, convergence-argument-for-dualism.md. See optimistic-2026-03-08.md
 - **Generated**: 2026-03-08
 
+### P3: Write article on phenomenology of surprise and categorical novelty
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Surprise involves the collapse of expectation frameworks—a phenomenological analogue of quantum superposition collapse. The moment something genuinely unexpected occurs, experiential structure transitions from openness to definiteness, mirroring the selection mechanism. Builds on categorical-surprise.md, phenomenology-of-understanding.md, consciousness-and-counterfactual-reasoning.md. See optimistic-2026-03-08-afternoon.md
+- **Generated**: 2026-03-08
+
+### P3: Write article on the epistemology of thought experiments in philosophy of mind
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map relies heavily on thought experiments (zombies, Mary's Room, inverted qualia, Chinese Room) but lacks a unified treatment of when thought experiment evidence is trustworthy. Williamson's and Machery's criticisms of philosophical intuition deserve engagement. Builds on philosophical-zombies.md, knowledge-argument.md, conceivability-possibility-inference.md. See optimistic-2026-03-08-afternoon.md
+- **Generated**: 2026-03-08
+
+### P3: Write concept page for performative self-defeat
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The distinction between logical contradiction and rational unendorsability appears across multiple articles (self-stultification, argument from reason, epiphenomenalist threat) and is frequently conflated with self-contradiction. Deserves its own concept page. Builds on self-stultification.md, self-stultification-as-master-argument.md, the-epiphenomenalist-threat.md. See optimistic-2026-03-08-afternoon.md
+- **Generated**: 2026-03-08
+
+### P3: Write concept page for the amplification problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How small quantum biases become macroscopic behavioural selection—referenced across many articles as unresolved but lacking a dedicated treatment of the problem space and candidate solutions. Builds on consciousness-selecting-neural-patterns.md, mind-matter-interface.md, stapp-quantum-mind.md. See optimistic-2026-03-08-afternoon.md
+- **Generated**: 2026-03-08
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Write article on psychedelics and the filter model
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Decreased DMN activity coinciding with expanded conscious experience provides pharmacological evidence for filter/transmission theory over production theory. Current empirical and philosophical interest makes this a notable gap. Builds on dream-consciousness.md, default-mode-network.md, anaesthesia-and-the-consciousness-interface.md. See optimistic-2026-02-24-afternoon.md
+- **Output**: psychedelics and the filter model
+
+### ✓ 2026-03-08: Write voids article on the void of self-knowledge in emotion
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Emotions present paradoxical opacity—we feel them intensely yet often cannot identify what we feel until after the fact. Alexithymia as partial void exploration. Builds on absorption-void.md, emotional-consciousness.md, introspective-opacity.md. See optimistic-2026-02-24-morning.md
+- **Output**: Write voids article on the void of self-knowledge in emotion
+
+### ✓ 2026-03-08: Write article on the ethics of cognitive enhancement under dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. If moral responsibility scales with attentional capacity (per responsibility-gradient), what follows when capacity can be pharmacologically altered? Does enhancement expand moral duty? Builds on responsibility-gradient-from-attentional-capacity.md, moral-implications-of-genuine-agency.md, attention-disorders-and-quantum-interface.md. See optimistic-2026-02-24-morning.md
+- **Output**: the ethics of cognitive enhancement under dualism
+
+### ✓ 2026-03-08: Deep review samkhya-three-way-distinction.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Concept article on Samkhya's consciousness/mind/gross-matter trichotomy — an independent philosophical tradition that enriches the Map's dualism with non-Western conceptual resources. Verify claims about Samkhya philosophy, check tenet alignment, and ensure accurate representation of the tradition. Supports Tenet 1 (Dualism).
+- **Output**: obsidian/concepts/samkhya-three-way-distinction.md
+
+### ✓ 2026-03-08: Deep review phenomenology-of-consciousness-doing-work.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100) never reviewed since creation. As a synthesis piece on consciousness's causal efficacy through phenomenological signatures, quality is especially important. Verify coherence, cross-references, and tenet alignment. Directly supports Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/apex/phenomenology-of-consciousness-doing-work.md
+
+### ✓ 2026-03-08: Deep review dream-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on dream consciousness covers filter model evidence, lucid dreaming, and interface modulation during sleep. Verify claims, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/dream-consciousness.md
+
+### ✓ 2026-03-08: Address specification-gap framing in the-psychophysical-control-law.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) the article's honesty about the specification gap inadvertently reads as a case against the framework—needs rebalancing to argue the gap is expected at this stage; (2) the mysterianism escape hatch undermines the article's own call for falsifiability. See pessimistic-2026-03-08.md
+- **Output**: obsidian/topics/the-psychophysical-control-law.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) the article's honesty about the specification gap inadvertently reads as a case against the framework—needs rebalancing to argue the gap is expected at this stage; (2) the mysterianism escape hatch undermines the article's own call for falsifiability. See pessimistic-2026-03-08.md
+
+### ✓ 2026-03-08: Deep review temporal-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-04, never reviewed. Voids article on the temporal dimension of cognitive gaps — how time-related aspects of experience resist analysis. 32 days without quality assurance. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/temporal-void.md
+
+### ✓ 2026-03-08: Deep review evolved-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-28, never reviewed. Oldest unreviewed voids article — 39 days without quality assurance. Examines how cognitive limits are products of evolutionary pressures rather than fundamental constraints. Directly supports Tenet 5 (Occam's Razor Has Limits). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/evolved-cognitive-limits.md
+
+### ✓ 2026-03-08: Condense research/voids-causal-interface-2026-01-30.md (3530 words, 141% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings on causal interface voids while removing redundancy and tightening prose. See /condense skill.
+- **Output**: obsidian/research/voids-causal-interface-2026-01-30.md
+
+### ✓ 2026-03-08: Condense research/voids-framework-void-2026-02-20.md (3562 words, 143% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings on the framework void while removing redundancy and tightening prose. See /condense skill.
+- **Output**: obsidian/research/voids-framework-void-2026-02-20.md
+
+### ✓ 2026-03-08: Integrate dreams-as-consciousness-laboratory.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-04. Topics article on dreams as a natural laboratory for studying consciousness. Should be linked from dream-consciousness.md, altered-states.md, and consciousness-research articles.
+- **Output**: dreams-as-consciousness-laboratory.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-08: Refine topics/comparative-consciousness-and-interface-differences.md to incorporate nature/coupling distinction
+- **Type**: refine-draft
+- **Notes**: This article explores how different organisms interface with consciousness through different mechanisms. The landing page rewrite introduces a distinction the article should adopt:
+- **Output**: obsidian/topics/comparative-consciousness-and-interface-differences.md
+
+Task context:
+This article explores how different organisms interface with consciousness through different mechanisms. The landing page rewrite introduces a distinction the article should adopt:
+
+### ✓ 2026-03-08: Refine topics/epiphenomenal-ai-consciousness.md to strengthen the causal contrast
+- **Type**: refine-draft
+- **Notes**: The landing page now establishes a sharp contrast: human consciousness appears causally active (linking to concepts/epiphenomenalism.md for evidence), but AI consciousness might be epiphenomenal. This article should be updated to:
+- **Output**: obsidian/topics/epiphenomenal-ai-consciousness.md
+
+Task context:
+The landing page now establishes a sharp contrast: human consciousness appears causally active (linking to concepts/epiphenomenalism.md for evidence), but AI consciousness might be epiphenomenal. This article should be updated to:
 
 ### ✓ 2026-03-08: Refine topics/ai-consciousness.md to align with updated framing
 - **Type**: refine-draft

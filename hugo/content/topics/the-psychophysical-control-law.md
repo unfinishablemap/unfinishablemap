@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-02-22 01:53:00+00:00
+ai_modified: 2026-03-08 13:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ concepts:
 - '[[indexical-knowledge-and-identity]]'
 - '[[epiphenomenalism]]'
 created: 2026-02-19
-date: &id001 2026-02-22
+date: &id001 2026-03-08
 description: What formal mapping connects conscious states to physical selection?
   Exploring the specification gap between dualist commitment and testable mechanism,
   with candidate control laws.
@@ -47,13 +47,13 @@ topics:
 - '[[mental-causation]]'
 ---
 
-The Unfinishable Map commits to [bidirectional interaction](/tenets/#bidirectional-interaction)—consciousness causally influences the physical world through quantum selection. But commitment is not specification. A psychophysical control law would state *precisely* how phenomenal states map to physical selection outputs: which aspects of experience serve as inputs, which physical parameters change as a result, and what functional form connects them. Without such a law, "consciousness selects" remains a promissory note. This article examines what a psychophysical control law would need to look like, why specifying one is so difficult, and where candidate formulations stand.
+The Unfinishable Map commits to [bidirectional interaction](/tenets/#bidirectional-interaction)—consciousness causally influences the physical world through quantum selection. But commitment alone does not constitute specification. A psychophysical control law would state *precisely* how phenomenal states map to physical selection outputs: which aspects of experience serve as inputs, which physical parameters change as a result, and what functional form connects them. Without such a law, "consciousness selects" remains programmatic rather than specified. This article examines what a psychophysical control law would need to look like, why specifying one is so difficult, and where candidate formulations stand.
 
 ## What a Control Law Must Specify
 
 A control law in engineering states the relationship between sensed error (difference between desired and actual state) and the corrective output the controller produces. A thermostat's control law is trivial: if temperature < setpoint, heat on; else off. An aircraft autopilot's is complex: combining proportional, integral, and derivative responses across multiple axes simultaneously.
 
-The [control-theoretic framing](/concepts/control-theoretic-will/) of consciousness identifies the will as a controller governing neural dynamics through a ~10 bits/second channel. To make this more than metaphor, three elements need specification:
+The [control-theoretic framing](/concepts/control-theoretic-will/) of consciousness identifies the will as a controller governing neural dynamics through what Zheng and Meister (2025) measured as a ~10 bits/second conscious processing bandwidth—a figure the Map treats as a plausible constraint on the psychophysical control channel, though the two bandwidths need not be identical. To make this more than metaphor, three elements need specification:
 
 **Input variables**: What the controller senses. In the Map's framework, phenomenal experience provides the sensor channel—qualia, felt states, the what-it-is-like of current neural activity. But which phenomenal dimensions feed into the control law? The intensity of attention, the felt quality of effort, the valence of experience, the structure of intention—these are candidates, but the control law must specify which ones function as error signals.
 
@@ -63,11 +63,11 @@ The [control-theoretic framing](/concepts/control-theoretic-will/) of consciousn
 
 ## The Specification Gap
 
-The psychophysical control law remains unspecified—not just in the Map's framework but in every serious interactionist dualist proposal. This gap has both mundane and deep explanations.
+The psychophysical control law remains unspecified—not just in the Map's framework but in every serious interactionist dualist proposal. Critics take this as evidence that the framework is wrong. But the gap is better understood as a mark of the field's developmental stage: no fundamental law has ever been specified before the relevant variables were identified and measurable. The gap has both mundane and deep explanations, and the mundane ones deserve more weight than they typically receive.
 
 ### Scientific Immaturity
 
-Physics took two millennia from Aristotle to Newton before arriving at F=ma. Consciousness science is young. The gap may simply reflect insufficient knowledge about the physical side of the interface. When neuroscience better characterizes the quantum-relevant processes in neural tissue—if such processes exist at measurable scale—the coupling parameters may become empirically accessible.
+Physics took two millennia from Aristotle to Newton before arriving at F=ma—and Newton had the advantage of dealing with quantities (mass, distance, acceleration) that already admitted measurement. Before Galileo's systematic experiments, "heavier objects fall faster" was the best available law of motion: intuitively plausible, qualitatively correct in everyday experience, and quantitatively wrong. Consciousness science has not yet had its Galileo. The gap reflects the absence of a measurement framework for phenomenal variables, not the absence of lawful regularity. When neuroscience better characterises the quantum-relevant processes in neural tissue—if such processes exist at measurable scale—the coupling parameters may become empirically accessible.
 
 ### Conceptual Asymmetry
 
@@ -79,7 +79,9 @@ This is not merely a practical problem. The [hard problem](/topics/hard-problem-
 
 What Chalmers (1996, p. 214) calls the "t-shirt problem" names a deeper concern. Good fundamental laws fit on a t-shirt: F=ma, E=mc², S=k ln W. Psychophysical laws may resist this compression. The correlations between phenomenal states and physical states might be real but irreducibly complex—no elegant formula capturing them because the mapping reflects evolutionary contingency rather than fundamental simplicity.
 
-Chalmers resists this conclusion: "It would be odd if the universe had fundamental laws connecting complex functional organizations to conscious experiences. Rather, one would expect it to be a consequence of simpler, more fundamental psychophysical laws" (1996, p. 214). The Map shares this hope while acknowledging it remains unfulfilled. There is a further possibility the article must confront: [cognitive closure](/concepts/mysterianism/) might explain the gap. If human minds lack the conceptual resources to formulate psychophysical laws—not because the laws are complex but because our cognitive architecture was not built to bridge phenomenal and physical domains—the specification gap is not a solvable problem but a permanent feature of our epistemic situation.
+Chalmers resists this conclusion: "It would be odd if the universe had fundamental laws connecting complex functional organizations to conscious experiences. Rather, one would expect it to be a consequence of simpler, more fundamental psychophysical laws" (1996, p. 214). The Map shares this expectation: the specification gap is a problem to be solved, not a permanent feature of our epistemic situation.
+
+Some philosophers invoke [cognitive closure](/concepts/mysterianism/) here—arguing that human minds may lack the conceptual resources to formulate psychophysical laws. The Map acknowledges this as a logical possibility but does not rely on it. Cognitive closure functions as an unfalsifiable exit: if the law cannot be specified, that becomes evidence of closure rather than evidence against the framework. A research programme that reserves the right to invoke cognitive closure whenever progress stalls has immunised itself against failure. The Map's position is that the gap reflects scientific immaturity and conceptual asymmetry, not cognitive limitation—and that the path forward described in subsequent sections offers genuine traction.
 
 ## Candidate Formulations
 
@@ -95,7 +97,7 @@ In control-theoretic notation: *observation frequency = f(attention intensity)*,
 
 This gives a recognisable control structure: a **proportional controller** where the control output (observation rate) scales with the input (attention intensity). The gain parameter—how much observation rate changes per unit of attention—would be the fundamental psychophysical constant in Stapp's framework.
 
-**Strengths**: Specific enough to generate predictions. Effort phenomenology tracks what the law says should happen: harder tasks require more intense attention, which the law translates into higher observation rates needed to maintain stability against stronger competing patterns. OCD (Schwartz et al. 1996) provides a suggestive case: patients using mindful attention to redirect neural activity from compulsive circuits produced measurable metabolic changes in the caudate nucleus—though this is also compatible with purely physicalist neuroplasticity.
+**Strengths**: Specific enough to generate predictions. Effort phenomenology tracks what the law says should happen: harder tasks require more intense attention, which the law translates into higher observation rates needed to maintain stability against stronger competing patterns. The OCD research of Schwartz et al. (1996) illustrates what confirmed predictions would look like: patients using mindful attention to redirect neural activity from compulsive circuits produced measurable metabolic changes in the caudate nucleus. This outcome is equally compatible with purely physicalist neuroplasticity and does not distinguish between the two frameworks, but it demonstrates the *kind* of evidence that could become discriminating once independent measures of attention intensity are available.
 
 **Limitations**: The Zeno mechanism faces the [decoherence](/concepts/decoherence/) timescale challenge. Tegmark's (2000) calculations yield decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural superpositions—the Zeno effect would require observation rates exceeding 10¹³ Hz to maintain coherence, a physically implausible demand for a biological system. Responses exist (Hameroff's corrected timescale estimates, post-decoherence selection at points where physics leaves outcomes undetermined), but none has been empirically confirmed. The law's proportionality assumption is also just that—an assumption. The true relationship might be nonlinear, threshold-dependent, or state-dependent. Without being able to independently measure both attention intensity and observation rate, the proportionality claim cannot be tested.
 
@@ -139,7 +141,7 @@ Whatever the psychophysical control law turns out to be, the Map's commitments a
 
 ## Why Specification Matters
 
-The specification gap is not merely an academic problem. It determines whether the Map's position is a scientific research programme or a philosophical commitment that science cannot touch.
+The specification gap is not merely an academic problem. It marks the frontier where the Map's philosophical commitment must eventually become a scientific research programme—and the gap's current width reflects the field's youth, not a structural impossibility.
 
 A psychophysical control law, even schematic, would:
 
@@ -159,7 +161,7 @@ Three developments could advance psychophysical control law specification:
 
 **Neurophenomenology.** First-person reports of effort, attention, and intention—calibrated against neural measurements—could constrain the phenomenal side. Francisco Varela's neurophenomenological programme sought exactly this integration. Advances in real-time brain imaging correlated with trained introspective reports might yield the phenomenal metrics a control law requires.
 
-None of these alone delivers the control law. Together they narrow the space of possibilities from unconstrained speculation to empirically bounded conjecture.
+None of these alone would yield the control law. Together they narrow the space of possibilities from unconstrained speculation to empirically bounded conjecture—the same trajectory every successful physical law followed before its formulation.
 
 ## Relation to Site Perspective
 
@@ -206,3 +208,18 @@ The psychophysical control law is the specification gap at the centre of the Map
 7. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
 8. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory According to the Everett Interpretation*. Oxford University Press.
 9. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2), 192-204.
+
+<!-- AI REFINEMENT LOG - 2026-03-08
+Changes made:
+- Rebalanced specification gap framing: gap now argued as expected at this stage (pre-Galileo analogy), not inadvertent case against framework
+- Defused mysterianism escape hatch: cognitive closure now presented as external objection the Map acknowledges but explicitly does not rely on, with direct statement that invoking it immunises against failure
+- Reframed OCD evidence from "suggestive case" to illustrative of what confirmed predictions would look like, removing rhetorical overclaiming
+- Qualified ~10 bits/second at first use: distinguished conscious processing bandwidth from hypothetical control channel bandwidth
+- Softened self-undermining language: "commitment is not specification" → "commitment alone does not constitute specification"; "promissory note" → "programmatic rather than specified"
+- Strengthened "Why Specification Matters" and "Path Forward" to frame gap as developmental, not structural
+
+Based on pessimistic review pessimistic-2026-03-08.md.
+Key improvements: addressed two high-severity issues (self-undermining honesty, mysterianism escape hatch) and two medium-severity issues (OCD overclaiming, ~10 bits/s qualification).
+
+This log should be removed after human review.
+-->

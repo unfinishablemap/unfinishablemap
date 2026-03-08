@@ -6,6 +6,11 @@ modified: 2026-03-07
 human_modified:
 ai_modified: 2026-03-07T14:29:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-08T14:10:00+00:00
+superseded_by: "/concepts/phenomenology-of-creative-insight/"
+archive_reason: "Coalesced into Phenomenology of Creative Insight"
+original_path: "/concepts/phenomenology-of-creative-problem-solving/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"

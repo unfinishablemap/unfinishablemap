@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-08 13:01:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: 'Three ways consciousness might influence quantum outcomes: basis s
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 08:56:00+00:00
+last_deep_review: 2026-03-08 13:01:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -151,7 +151,7 @@ The coupling modes taxonomy connects directly to the Map's foundational commitme
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The coupling mode specifies how bidirectional interaction is implemented. Without specifying a mode, "consciousness selects" remains metaphorical. With mode specification, the claim becomes: consciousness selects which question to ask (basis), when to ask it (timing), or how answers are weighted (probability).
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Rejecting MWI means one outcome becomes actual and others don't. The coupling mode specifies how consciousness participates in this actualisation—not whether it does (that's a tenet) but through what mechanism.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Rejecting MWI means one outcome becomes actual and others don't. Chalmers and McQueen (2022) develop a rigorous framework for consciousness-collapse theories that bears on this: if consciousness triggers collapse, the coupling mode specifies how it participates in actualisation—not whether it does (that's a tenet) but through what mechanism.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Critics might invoke parsimony against any coupling mode. But parsimony applies within comparable explanatory scope. A theory that ignores consciousness's causal efficacy isn't simpler—it's incomplete. The question is which mode best balances explanatory power with physical minimality.
 
@@ -165,10 +165,8 @@ The taxonomy tightens the Map's framework by replacing vague "selection" languag
 - [measurement-problem](/concepts/measurement-problem/) — Why outcomes need explanation
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — What selection actually selects
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — How Born probabilities relate to consciousness
-- [attention](/concepts/attention-as-interface/) — The phenomenal variable most tied to coupling
+- [attention-as-interface](/concepts/attention-as-interface/) — The phenomenal variable most tied to coupling; voluntary attention as the mind-matter interface
 - [mental-effort](/concepts/mental-effort/) — Effort as timing/observation rate control
-- [attention-as-interface](/concepts/attention-as-interface/) — How attention functions as the mind-matter interface
-- [voluntary attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from instructed attention
 - [agent-causation](/concepts/agent-causation/) — The free will implications of conscious selection
 
 ## References

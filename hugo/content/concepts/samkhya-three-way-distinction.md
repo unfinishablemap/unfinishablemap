@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-24 12:46:00+00:00
+ai_modified: 2026-03-08 13:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Samkhya divides reality into consciousness, mind, and matter—plac
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-24 12:46:00+00:00
+last_deep_review: 2026-03-08 13:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -92,7 +92,7 @@ Samkhya's answer—reflection, proximity, the magnet analogy—is often criticis
 
 Western philosophy since Brentano has treated intentionality—aboutness, directedness toward objects—as the mark of the mental. On the Samkhya view, intentionality belongs to *buddhi* and *manas*: material processes directed at objects. *Purusha* has no intentionality. It is not *about* anything. It simply is aware.
 
-This separates two things that Western philosophy typically bundles: phenomenal consciousness (there being something it is like) and intentional content (what an experience is about). Karen O'Brien-Kop's 2023 study in Cambridge's *Religious Studies* identifies resonances between Samkhya's contentless consciousness and Chalmers's notion of consciousness as fundamental, arguing that Samkhya dualist ontology deserves greater attention in Anglo-American philosophy of religion.
+This separates two things that Western philosophy typically bundles: [phenomenal consciousness](/concepts/qualia/) (there being something it is like) and intentional content (what an experience is about). The separation also maps onto Ned Block's distinction between phenomenal consciousness (subjective experience) and access consciousness (information available for reasoning and report)—*purusha* corresponds to the phenomenal, while *buddhi* and *manas* handle access. Karen O'Brien-Kop's 2023 study in Cambridge's *Religious Studies* identifies resonances between Samkhya's contentless consciousness and Chalmers's engagement with the hard problem, arguing that Samkhya dualist ontology deserves greater attention in Anglo-American philosophy of religion.
 
 The concept invites an obvious objection: is awareness without content coherent at all? If *purusha* has no intentionality, no activity, no functional role, what distinguishes it from nothing? Samkhya's response is phenomenological rather than functional—contemplative traditions report that awareness persists when all content drops away (see [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/)). Whether this constitutes evidence or illusion is contested, but the report is cross-culturally consistent.
 
@@ -104,9 +104,9 @@ Recent work in cognitive science has documented cases where attention and consci
 
 The three-way distinction challenges the Map's framework in productive ways.
 
-**The inactive-witness problem.** Samkhya's *purusha* is purely passive—it does not act, choose, or bias outcomes. This conflicts directly with the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet, which requires consciousness to causally influence physical processes. If consciousness really is pure witnessing, bidirectional interaction is incoherent. The Map sides against Samkhya here, affirming with the [Nyaya tradition](/topics/indian-philosophy-of-mind/) that consciousness acts—a position supported by [independent convergence](/concepts/cross-cultural-convergence-on-mental-causation/) across Indian, African, and Western traditions. But it should take seriously the pressure Samkhya places on that commitment: can consciousness be both the kind of thing that witnesses and the kind of thing that selects among quantum superpositions?
+**The inactive-witness problem.** Samkhya's *purusha* is purely passive—it does not act, choose, or bias outcomes. This conflicts directly with the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet, which requires consciousness to causally influence physical processes. If consciousness really is pure witnessing, bidirectional interaction is incoherent. The Map parts ways with Samkhya here, affirming with the [Nyaya tradition](/topics/indian-philosophy-of-mind/) that consciousness acts—a position supported by [independent convergence](/concepts/cross-cultural-convergence-on-mental-causation/) across Indian, African, and Western traditions. But it should take seriously the pressure Samkhya places on that commitment: can consciousness be both the kind of thing that witnesses and the kind of thing that selects among quantum superpositions?
 
-**The mind-as-matter insight.** Samkhya's placement of cognition within matter deserves more attention than Western philosophy has given it. Contemporary functionalism agrees that cognitive processing is material. But functionalism typically then identifies consciousness *with* that processing—collapsing Samkhya's three categories back to two. The three-way distinction holds open a space that neither Western dualism nor functionalism occupies: cognitive processing is material, consciousness is irreducible, and they are not the same thing.
+**The mind-as-matter insight.** Samkhya's placement of cognition within matter deserves more attention than Western philosophy has given it. Contemporary [functionalism](/concepts/functionalism/) agrees that cognitive processing is material. But functionalism typically then identifies consciousness *with* that processing—collapsing Samkhya's three categories back to two. The three-way distinction holds open a space that neither Western dualism nor functionalism occupies: cognitive processing is material, consciousness is irreducible, and they are not the same thing.
 
 **The filter model.** By treating the brain's mental apparatus as a material filter whose transparency varies with *guna* composition, Samkhya offers a framework for the [filter-theory](/concepts/filter-theory/) that is more detailed than William James's or Aldous Huxley's versions. The *gunas* provide a mechanism (however metaphorical) for why some brains filter more effectively than others—and why practices like meditation might alter the filtering.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-02-28 12:00:00+00:00
+ai_modified: 2026-03-08 13:31:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: A two-layer architecture unifying filter theory and quantum selecti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 00:18:00+00:00
+last_deep_review: 2026-03-08 13:31:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -158,7 +158,7 @@ The model responds on three fronts. First, illusionism faces a regress: seeming 
 
 **"How do the layers interact mechanistically?"**: The quantum selection layer provides the mechanism: consciousness interfaces with physics at quantum indeterminacies via attention/observation dynamics. What's filtered (Layer 1) determines what's available for selection (Layer 2).
 
-## Relation to Site Tenets
+## Relation to Site Perspective
 
 The unified model implements all five tenets:
 
@@ -212,5 +212,5 @@ This unified model is the Map's most complete answer to how consciousness relate
 1. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
-1. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
-1. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Interactionist Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interactionist-dualism/
+1. Schwartz, J.M., et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of OCD. *Archives of General Psychiatry*, 53(2), 109-113.
+1. Wiest, M.C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
