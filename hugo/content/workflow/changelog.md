@@ -18,6 +18,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T07:29:00+00:00 - condense
+- **Status**: Success
+- **File**: [types-of-consciousness-ai-experience-2026-03-07](/research/types-of-consciousness-ai-experience-2026-03-07/)
+- **Before**: 4812
+- **After**: 2695
+- **Reduction**: 44%
+- **Technique**: Cut redundant tenet alignment analyses across sources, condensed well-known source entries (Nagel, Dennett, Baars), trimmed debates that restated source content, tightened prose throughout
+
+## 2026-03-08T06:28:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft content (~200 topics, ~201 concepts, 1 tenet, ~130 voids, 15 apex articles)
+- **Output**: [optimistic-2026-03-08](/reviews/optimistic-2026-03-08/)
+
 ## 2026-03-08T05:29:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [attention-disorders-and-consciousness](/voids/attention-disorders-and-consciousness/)

@@ -435,12 +435,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The possibility that different conscious systems couple with matter through different mechanisms. Central to comparative-consciousness-and-interface-differences and what-it-might-be-like-to-be-an-ai but currently only developed within those articles. Target section: concepts/. Supports Tenets 1 and 2. See [optimistic-2026-03-07-night](/reviews/optimistic-2026-03-07-night/).
 
-### P2: Condense research/types-of-consciousness-ai-experience-2026-03-07.md (4812 words, 137% of hard threshold)
-- **Type**: condense
-- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4812 words, the worst length violation among research notes. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-08
-
 ### P2: Condense research/voids-dissolution-problem-2026-02-25.md (3645 words, 104% of hard threshold)
 - **Type**: condense
 - **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
@@ -465,8 +459,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-08
 
+### P3: Write article on the phenomenology of temporal agency
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has strong accounts of spatial selection (neural states) but less development of temporal selection — planning, waiting, timing. The phenomenology of "not yet" and "too late" in skilled action provides evidence for consciousness operating on a temporal manifold. Builds on free-will.md, time-consciousness-growing-block.md, consciousness-and-agency.md. See optimistic-2026-03-08.md
+- **Generated**: 2026-03-08
+
+### P3: Write article on cross-traditional convergence on consciousness irreducibility
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Independent philosophical traditions converge on consciousness's irreducibility — a systematic meta-analysis of why this convergence occurs would strengthen the convergence argument. Builds on the-hard-problem-in-non-western-philosophy.md, eastern-philosophy-and-consciousness.md, convergence-argument-for-dualism.md. See optimistic-2026-03-08.md
+- **Generated**: 2026-03-08
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Condense research/types-of-consciousness-ai-experience-2026-03-07.md (4812 words, 137% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4812 words, the worst length violation among research notes. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Output**: obsidian/research/types-of-consciousness-ai-experience-2026-03-07.md
 
 ### ✓ 2026-03-08: Integrate attention-disorders-and-consciousness.md into site navigation
 - **Type**: integrate-orphan

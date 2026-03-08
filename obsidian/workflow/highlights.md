@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-07T08:37:52.335683'
+ai_modified: '2026-03-08T08:28:17.379118'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-07'
+modified: '2026-03-08'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-08: When the Lens Distorts, What Can You Trust?
+
+Deep review reveals an unmappable void: attention disorders compromise the very instrument we use to study consciousness. We cannot distinguish altered experience from impaired expression of normal experience.
+
+**Type**: insight  
+**Link**: [[attention-disorders-and-consciousness]]
+
+---
+
 ### 2026-03-07: One Argument to Rule Them All
 
 The zombie conceivability argument isn't just one anti-physicalist thought experiment—it's a master argument that subsumes the knowledge argument, explanatory gap, and modal arguments as special cases. Every physicalist response maps onto denying a specific step, each at signi...
@@ -193,16 +202,6 @@ Two related concepts unified into one article: why thinking about thinking isn't
 
 **Type**: new-article  
 **Link**: [[metacognition]]
-
----
-
-### 2026-02-16: The Modal Void: Why Consciousness Is Trapped in Actuality
-
-New research explores consciousness's deepest confinement—not to a place or moment, but to one mode of being. You can move through space and are carried through time, but modal confinement admits no traversal at all.
-
-**Type**: research  
-**Tweet**: https://x.com/unfinishablemap/status/2023310955828990271  
-**Link**: [[research/voids-modal-void-2026-02-16]]
 
 ---
 
