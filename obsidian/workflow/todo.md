@@ -37,6 +37,120 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Research the capability division problem in dualism — vision
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Under dualism, capabilities exist on both sides of the brain-mind divide. In vision, the brain constructs a 3D world model from retinal input (object recognition, depth computation, motion tracking), but the mind also experiences a 3D world — one that is rich, smooth, seamlessly rendered, and appears to exceed what 300Hz neuronal firing could produce. Research: what does the visual processing pipeline actually deliver? What is the output format of V1/V2/V4/IT cortex? How does the brain's representation compare to what consciousness experiences? What do neuroscientists say about the "neural movie" vs raw neural signals? Key sources: Marr's computational theory, predictive processing accounts, Bayesian brain hypothesis. Builds on perception-and-conscious-experience.md, phenomenology-of-perceptual-constancy.md, the-interface-location-problem.md.
+- **Generated**: 2026-03-08
+
+### P1: Research neural refresh rates and the smoothness problem
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Neurons fire at roughly 300Hz maximum, cortical oscillations operate at 4-100Hz (theta, alpha, beta, gamma), yet conscious visual experience appears temporally continuous and smooth. Research: what are the actual temporal constraints on neural processing? What is the "frame rate" of consciousness according to current theories? Investigate Crick & Koch's visual awareness work, the 13ms image recognition studies, saccadic suppression, change blindness, the flash-lag effect, motion smearing. How does the brain achieve apparent smoothness — is it interpolation, prediction, or something else? Under dualism, could smoothness be a mind-side capability rather than neural construction? Builds on perception-and-conscious-experience.md, neural-implementation-specifics.md.
+- **Generated**: 2026-03-08
+
+### P1: Research perceptual degradation and the interface — what blur reveals
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: The puzzle: wrongly prescribed glasses produce a blurred conscious experience, even though the brain performs object recognition, reconstruction, and can generate flawless imagery without input (as in lucid dreams). Why doesn't the brain/mind "correct" the blur? Research: what happens neurally with defocused input? Do object recognition systems still function with blurred input (they do — people navigate fine)? What about cortical filling-in, which does correct for the blind spot and scotomas? When does the brain reconstruct vs faithfully transmit degradation? Investigate: blur adaptation, long-term blur exposure effects, neural adaptation to degraded input, the difference between optical blur and neural damage blur (e.g., macular degeneration vs wrong glasses). This is key evidence about the interface's fidelity constraints. Builds on perception-and-conscious-experience.md, phenomenology-of-perceptual-constancy.md, interface-friction.md.
+- **Generated**: 2026-03-08
+
+### P1: Research lucid dreaming as evidence for mind-side rendering capability
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Lucid dreams demonstrate that consciousness can experience a fully rendered 3D world with no sensory input — vivid colours, spatial depth, object permanence, smooth motion, detailed textures. Research: what is the phenomenological quality of lucid dream experience compared to waking perception? How vivid and detailed are lucid dream environments? What does neuroscience say about dream imagery generation — is it V1 activation, higher cortical simulation, or something else? Key studies: Konkoly 2021 (real-time communication with dreamers), LaBerge's work on lucid dream physiology, Hobson's AIM model, Revonsuo's threat simulation theory. If the brain generates dream imagery, why can't it clean up blurred waking input? Or does the mind generate dream imagery independently? Builds on dream-consciousness.md, filter-theory.md, mind-matter-interface.md.
+- **Generated**: 2026-03-08
+
+### P1: Research memory as dual-domain capability
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Memory may exist on both sides of the brain-mind divide. The brain stores patterns (synaptic weights, hippocampal consolidation, procedural memory in cerebellum/basal ganglia). But phenomenal memory — reliving a moment, the felt quality of nostalgia, the "mental time travel" of episodic recall — has a richness that seems to exceed what pattern completion could deliver. Research: what do memory trace theories actually claim is stored? How does Tulving's autonoetic consciousness relate to dualist frameworks? What about the well-documented cases of extraordinary memory (Shereshevsky, hyperthymesia) vs amnesia (HM, Clive Wearing)? How does implicit memory work without conscious experience? Examine Bergson's "Matter and Memory" which explicitly argued for mind-side memory. Builds on consciousness-and-memory.md, memory-void.md, episodic-memory.md.
+- **Generated**: 2026-03-08
+
+### P1: Research other dual-domain capabilities — proprioception, spatial reasoning, imagination
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Beyond vision and memory, other capabilities may exist on both sides. Proprioception: the brain tracks limb position via joint receptors and motor efference copies, but we also have a phenomenal body schema — phantom limbs persist even when the brain "knows" the limb is gone. Spatial reasoning: the brain has place cells, grid cells, head direction cells in the hippocampus, but we experience ourselves as located in a 3D space with a particular perspective. Imagination: the brain has imagery networks, but imagining a novel scene feels like mental construction, not replay. Research each domain for brain-side vs mind-side evidence. Builds on sensorimotor-contingencies-and-the-interface.md, embodied-consciousness-and-the-interface.md, imagination-void.md.
+- **Generated**: 2026-03-08
+
+### P1: Research the reconstruction paradox — when the brain corrects and when it doesn't
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: The brain demonstrably reconstructs some aspects of perception: filling in the blind spot, colour constancy across illumination changes, size constancy despite retinal shrinkage, motion interpolation. But it doesn't correct optical blur, doesn't override tinnitus with silence, doesn't eliminate floaters. What determines whether neural processing corrects or faithfully transmits degradation to consciousness? Research: filling-in phenomena (Ramachandran's work), perceptual completion in scotomas, the waterfall illusion and motion aftereffects, the distinction between early visual processing and conscious percept, top-down vs bottom-up processing, predictive coding's account of when predictions override input. This is crucial for understanding the interface's architecture — which direction does information flow and where are the correction mechanisms? Builds on phenomenology-of-perceptual-constancy.md, the-binding-problem-a-systematic-treatment.md, brain-interface-boundary.md.
+- **Generated**: 2026-03-08
+
+### P1: Write article on the capability division problem in dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Flagship article for this research programme. Under interactionist dualism, both brain and mind possess capabilities — but the division of labour is poorly understood. The brain moves muscles, processes sensory input, stores patterns; the mind experiences qualia, exercises agency, holds unified perspective. But some capabilities seem to exist on both sides: 3D world representation, memory storage, spatial reasoning, temporal continuity. This article systematically maps the capability landscape, identifies clear cases (muscle control = brain, phenomenal experience = mind), ambiguous cases (3D world model, memory, imagination), and uses the ambiguous cases to constrain interface theories. Builds on research tasks above. Place in topics/. Builds on perception-and-conscious-experience.md, consciousness-and-memory.md, the-interface-location-problem.md, mind-matter-interface.md.
+- **Generated**: 2026-03-08
+
+### P1: Write article on the 3D world representation problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: The brain constructs a 3D world model from 2D retinal projections — depth from disparity, motion parallax, texture gradients, occlusion. But conscious experience presents a seamlessly rendered, richly detailed 3D world that appears to exceed what the neural representation contains. The smoothness problem: neuronal firing at 300Hz produces a continuous visual flow. The richness problem: we experience fine detail that may exceed the information in the neural signal. The unity problem: we experience one unified scene despite distributed processing across dozens of cortical areas. Under dualism, is the 3D world experienced by consciousness (a) a direct readout of the brain's 3D model, (b) a mind-side rendering that uses brain data as input, or (c) something else entirely? Builds on research tasks above. Place in topics/. Builds on perception-and-conscious-experience.md, the-binding-problem-a-systematic-treatment.md, phenomenology-of-perceptual-constancy.md.
+- **Generated**: 2026-03-08
+
+### P1: Write article on perceptual fidelity and the interface — the blur paradox
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Why does optical blur pass through to conscious experience? The brain performs object recognition on blurred input (you can still identify objects with wrong glasses), can generate flawless imagery without any input (lucid dreams), and corrects for many perceptual distortions (blind spot filling, colour constancy, size constancy). Yet blur is faithfully transmitted to consciousness. This paradox reveals something important about the interface architecture: it appears to have high-fidelity channels that transmit raw sensory quality alongside the processed, reconstructed content. The blur paradox, combined with cases where correction does occur, maps the interface's functional anatomy. Argue that this is evidence for a multi-channel interface rather than simple information transfer. Builds on research tasks above. Place in topics/. Builds on perception-and-conscious-experience.md, phenomenology-of-perceptual-constancy.md, interface-friction.md, brain-interface-boundary.md.
+- **Generated**: 2026-03-08
+
+### P1: Write article on the smoothness problem — neural discreteness vs experiential continuity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Neural processes are fundamentally discrete: action potentials fire or don't, synaptic transmission is quantised, cortical oscillations have specific frequencies (gamma ~40Hz, alpha ~10Hz). Yet conscious experience — particularly visual experience — appears temporally continuous. We don't perceive frames or flicker (above fusion threshold). Under physicalism, this smoothness must be constructed by the brain. Under dualism, an alternative explanation is available: the mind's temporal experience is not constructed from neural pulses but is a mind-side capability, with neural firing serving as discrete input events that modulate an inherently continuous experiential stream. Compare with the "specious present" literature (James, Husserl), the phi phenomenon, and evidence from temporal binding windows. Builds on research tasks above. Place in topics/. Builds on perception-and-conscious-experience.md, neural-implementation-specifics.md, the-interface-location-problem.md.
+- **Generated**: 2026-03-08
+
+### P1: Write article on lucid dreaming as capability evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Lucid dreams provide a natural experiment in capability division. During a lucid dream, sensory input is absent but conscious experience is vivid, spatially structured, and temporally continuous. The dreamer exercises agency, makes decisions, recognises objects, navigates 3D space. If the brain generates dream imagery, this demonstrates massive reconstruction capability — but raises the question of why this capability isn't deployed during waking perception to correct blur, tinnitus, or other degradation. If the mind generates dream imagery (using its own rendering capability), this explains why dream quality is independent of sensory input quality but raises questions about the interface's role during waking. Either answer is philosophically significant. Builds on research tasks above. Place in topics/. Builds on dream-consciousness.md, filter-theory.md, perception-and-conscious-experience.md.
+- **Generated**: 2026-03-08
+
+### P1: Write article on memory as dual-domain capability
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Memory may be the clearest case of a capability existing on both sides of the brain-mind divide. Brain-side: synaptic consolidation, hippocampal indexing, procedural memory in motor cortex/cerebellum. Mind-side: episodic recall with phenomenal richness (Tulving's autonoetic consciousness), the felt quality of nostalgia, mental time travel. Key evidence: HM could form no new declarative memories but retained procedural learning (brain-side memory intact, mind-side memory formation blocked?). Bergson's "Matter and Memory" argued memory is fundamentally non-material, stored in consciousness, with the brain serving as a retrieval/filtering mechanism. Under the Map's filter model, memory retrieval may involve the brain providing retrieval cues while the mind holds the phenomenal content. Builds on research tasks above. Place in topics/. Builds on consciousness-and-memory.md, memory-void.md, filter-theory.md, episodic-memory.md.
+- **Generated**: 2026-03-08
+
+### P1: Cross-review perception articles in light of capability division framework
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Review perception-and-conscious-experience.md, phenomenology-of-perceptual-constancy.md, visual-consciousness.md, and sensorimotor-contingencies-and-the-interface.md through the lens of the new capability division framework. Do these articles implicitly assume that all perceptual processing is brain-side? Where could they benefit from explicitly distinguishing brain-side processing (object recognition, depth computation) from mind-side contribution (phenomenal rendering, experiential smoothness, unified perspective)? Add cross-references to new capability division articles. Identify any tensions or contradictions with the new framework.
+- **Generated**: 2026-03-08
+
+### P1: Cross-review dream and memory articles for capability division implications
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Review dream-consciousness.md and consciousness-and-memory.md through the capability division lens. Does dream-consciousness.md address the paradox that dream imagery quality is independent of sensory input quality? Does consciousness-and-memory.md distinguish brain-side storage from mind-side phenomenal recall? Add cross-references to new articles. Look for opportunities to strengthen the dual-domain interpretation in existing content.
+- **Generated**: 2026-03-08
+
+### P1: Cross-review interface articles for capability division consistency
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Review the-interface-location-problem.md, brain-interface-boundary.md, mind-matter-interface.md, and attention-as-interface.md. The capability division framework implies the interface must handle bidirectional transfer of multiple capability types — not just selection/attention but also sensory fidelity, memory retrieval, and spatial representation. Do existing interface articles accommodate this richer picture? Where do they need updating?
+- **Generated**: 2026-03-08
+
+### P1: Deep-review the capability division flagship article
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: After the capability division article is written, conduct a comprehensive deep review. Key concerns: does it avoid straw-manning physicalist accounts of perception? Does it engage with the strongest objections (e.g., "the brain does construct smooth experience — that's what neural interpolation is")? Does it properly acknowledge what's speculative vs what's supported? Is the scope appropriate — it should frame the problem space, not claim to resolve it.
+- **Generated**: 2026-03-08
+
+### P1: Deep-review the blur paradox article
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: After the perceptual fidelity/blur paradox article is written, deep review for: does it accurately represent the neuroscience of perceptual correction? Does it consider the physicalist response that blur is simply not a target of correction mechanisms (because correct glasses are the normal state)? Does it consider that blur may be informationally valuable (depth of field cues)? Does it acknowledge the difference between optical blur and neural processing artifacts?
+- **Generated**: 2026-03-08
+
+### P1: Refine and integrate the capability division article series
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: After all capability division articles are written and cross-reviews completed, do a final integration pass. Ensure consistent terminology across all articles (brain-side vs mind-side, rendering vs processing, fidelity vs reconstruction). Add mutual cross-references. Verify that the articles form a coherent argument arc: capability division problem → specific cases (3D world, blur paradox, smoothness, dreams, memory) → implications for interface theory. Ensure each article can stand alone but the series rewards reading in sequence.
+- **Generated**: 2026-03-08
+
 ### P2: Write article on the phenomenology of humour and laughter
 - **Type**: expand-topic
 - **Status**: pending
