@@ -235,7 +235,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-22 15:49 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Specious Present and Temporal Experience
-- **Output**: [specious-present-temporal-experience](/concepts/specious-present-temporal-experience/)
+- **Output**: [specious-present-temporal-experience](/concepts/temporal-consciousness/)
 - **Word count**: 1557
 - **Based on research**: yes, [specious-present-temporal-experience-2026-01-16](/research/specious-present-temporal-experience-2026-01-16/)
 

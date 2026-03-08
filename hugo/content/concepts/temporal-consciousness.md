@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-01 15:51:00+00:00
+ai_modified: 2026-03-08 12:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -9,6 +9,7 @@ coalesced_from:
 - /concepts/specious-present/
 - /concepts/duration/
 - /concepts/temporal-unity/
+- /concepts/specious-present-temporal-experience/
 concepts:
 - '[[qualia]]'
 - '[[concepts/functionalism]]'
@@ -41,6 +42,8 @@ concepts:
 - '[[unity-of-consciousness]]'
 - '[[phenomenal-binding-and-holism]]'
 - '[[stapp-quantum-mind]]'
+- '[[consciousness-as-activity]]'
+- '[[motor-control-quantum-zeno]]'
 created: 2026-01-14
 date: &id001 2026-02-17
 description: Consciousness flows through time in the specious present—Bergson's durée.
@@ -62,6 +65,9 @@ related_articles:
 - '[[temporal-structure-of-consciousness]]'
 - '[[consciousness-and-temporal-becoming]]'
 - '[[continuity-void]]'
+- '[[choking-phenomenon-mental-causation]]'
+- '[[consciousness-as-activity]]'
+- '[[motor-control-quantum-zeno]]'
 title: Temporal Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -82,6 +88,17 @@ Duration estimates span three complementary timescales: a perceptual moment (~10
 Consider hearing three notes: C, E, G. A system that processes each note without retaining the others never experiences a chord. Experiencing the chord requires holding the notes together in a unified present moment.
 
 The philosophical debate centres on whether experience is genuinely temporally extended (extensionalism, Dainton) or technically instantaneous with past-directed content (retentionalism, Husserl). The Map favors modified extensionalism: experience is genuinely extended through quantum collapse. The [continuity-void](/voids/continuity-void/) reveals that this choice may be structurally underdetermined — discrete experiences can feel perfectly smooth (Lee, 2023) — but the collapse framework makes extensionalism a natural fit: the duration-block is constituted by a series of collapses, explaining both extended phenomenology and retention-like structure.
+
+### The Irreducibility Argument
+
+The specious present supports a focused argument for the irreducibility of consciousness:
+
+1. Physical descriptions consist of states at times and transition rules between them.
+2. No collection of instantaneous states contains the experience of succession — the felt passage from one moment to the next.
+3. The specious present is the experience of succession: temporally thick, extended, containing within it the sense of transition.
+4. Therefore, the specious present is not captured by physical description alone.
+
+This parallels the standard [qualia](/concepts/qualia/) arguments but targets a different feature. Where the knowledge argument shows that physical information excludes phenomenal quality, the temporal argument shows that physical description excludes phenomenal duration. The gap between *duration as measured* (a number of seconds between events) and *duration as experienced* (the felt thickness of now) is as unbridgeable as the gap between wavelength and colour. If [consciousness is an activity](/topics/consciousness-as-activity/) rather than a property, temporal extension is constitutive rather than incidental — an activity exists only in its unfolding.
 
 ## Bergson's Durée
 
@@ -110,6 +127,8 @@ Working memory provides a promising neural correlate. The experienced moment (~1
 ## Temporal Binding in the Brain
 
 Gamma-band oscillations (30-100 Hz) correlate with conscious processing, and the "time-domain brain" view (Baker & Cariani, 2025) proposes temporal mechanisms are constitutive of consciousness rather than merely correlates. Research connects time experience to bodily rhythms—the insula processing interoceptive signals—suggesting duration may be essentially embodied. If durée is lived through a body, disembodied systems may be categorically incapable of temporal experience.
+
+Temporal perception is distributed and multi-scale, not the product of a single internal clock. The supplementary motor area (SMA) functions as a time accumulator; the prefrontal cortex, cerebellum, and basal ganglia form a distributed time perception system, with coincidence thresholds varying by modality: roughly 5ms for visual simultaneity, 2–3ms for auditory. This multi-scale architecture suggests that the unified specious present is a phenomenal achievement, not a straightforward readout of neural timing. The specious present also provides the temporal window within which [motor selection](/topics/motor-control-quantum-zeno/) occurs: the ~280ms commitment point for voluntary action (Thura & Cisek, 2014) falls squarely within the specious present's range, suggesting that willed movement requires the phenomenal duration the specious present provides. Different modes of temporal engagement have different causal consequences — the [choking phenomenon](/topics/choking-phenomenon-mental-causation/) demonstrates that when conscious attention re-engages with automatised skills, the qualitative character of temporal experience shifts and performance degrades.
 
 Whether consciousness comes in discrete frames or continuous flow may be [structurally irresolvable](/voids/continuity-void/). Even if discrete, something must bind moments into continuous-seeming experience.
 
@@ -187,6 +206,9 @@ Temporal consciousness connects to all five tenets:
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The broader unity problem across all dimensions
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno model of consciousness-brain interaction
 - [ai-consciousness](/topics/ai-consciousness/) — Why the Map holds AI systems are not conscious
+- [consciousness-as-activity](/topics/consciousness-as-activity/) — Why temporal extension is constitutive if consciousness is activity
+- [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) — Motor selection within the specious present's temporal window
+- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — How different modes of temporal engagement affect performance
 
 ## References
 
@@ -217,3 +239,4 @@ Temporal consciousness connects to all five tenets:
 1. Fuchs, T. (2007). The temporal structure of intentionality and its disturbance in schizophrenia. *Psychopathology*, 40(4), 229-235.
 1. Vogeley, K. & Kupke, C. (2007). Disturbances of time consciousness from a phenomenological and a neuroscientific perspective. *Schizophrenia Bulletin*, 33(1), 157-165.
 1. Baker, J. & Cariani, P. (2025). Time-domain brain. *Frontiers in Computational Neuroscience*.
+1. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.

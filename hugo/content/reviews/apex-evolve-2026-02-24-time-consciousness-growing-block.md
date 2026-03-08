@@ -20,7 +20,7 @@ title: 'Apex Evolve Review: Time, Consciousness, and the Growing Block'
 
 1. **[temporal-consciousness](/concepts/temporal-consciousness/)** — modified 2026-02-17, deep review 2026-02-22. Significantly expanded through coalescence of 4 articles (temporal-consciousness, specious-present, duration, temporal-unity). Added: working memory as neural correlate, mental time travel, temporal binding, temporal unity disruptions, illusionist challenge, sleep evidence, modified extensionalism position.
 
-2. **[specious-present-temporal-experience](/concepts/specious-present-temporal-experience/)** — created 2026-02-22, deep review 2026-02-23. New focused article covering: extensionalism vs retentionalism debate, neurophenomenological bridge (Varela, Buddhist khanika), neuroscience of temporal windows, argument from temporal thickness, motor selection timing (280ms commitment point).
+2. **[specious-present-temporal-experience](/concepts/temporal-consciousness/)** — created 2026-02-22, deep review 2026-02-23. New focused article covering: extensionalism vs retentionalism debate, neurophenomenological bridge (Varela, Buddhist khanika), neuroscience of temporal windows, argument from temporal thickness, motor selection timing (280ms commitment point).
 
 ## Pessimistic Review
 

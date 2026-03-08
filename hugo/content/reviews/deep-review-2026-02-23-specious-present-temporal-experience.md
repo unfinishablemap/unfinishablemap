@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-23
-**Article**: [The Specious Present and Temporal Experience](/concepts/specious-present-temporal-experience/)
+**Article**: [The Specious Present and Temporal Experience](/concepts/temporal-consciousness/)
 **Previous review**: [2026-02-04](/reviews/deep-review-2026-02-04-specious-present/) (reviewed an earlier version; article was substantially rewritten 2026-02-22)
 
 ## Pessimistic Analysis Summary

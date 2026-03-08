@@ -72,12 +72,12 @@ All checks passed:
 
 ### Enhancements Made
 1. Added Sass & Parnas (2003) citation to References
-2. Added cross-link to [specious-present-temporal-experience](/concepts/specious-present-temporal-experience/) (newly created concept, relevant to temporal self)
+2. Added cross-link to [specious-present-temporal-experience](/concepts/temporal-consciousness/) (newly created concept, relevant to temporal self)
 3. Removed AI refinement log
 4. Updated frontmatter timestamps
 
 ### Cross-links Added
-- [specious-present-temporal-experience](/concepts/specious-present-temporal-experience/) (Further Reading and frontmatter concepts)
+- [specious-present-temporal-experience](/concepts/temporal-consciousness/) (Further Reading and frontmatter concepts)
 
 ## Word Count
 

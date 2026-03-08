@@ -20,7 +20,7 @@ concepts:
 - '[[jourdain-hypothesis]]'
 - '[[baseline-cognition]]'
 - '[[the-unobservable-self]]'
-- '[[specious-present-temporal-experience]]'
+- '[[temporal-consciousness]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 description: The minimal self is not added to consciousness but is its very form.
@@ -144,7 +144,7 @@ The filter theory interprets these findings coherently: the narrative self is co
 - [metacognition](/concepts/metacognition/) — Monitoring one's own mental states
 - [binding-problem](/concepts/binding-problem/) — Unity of experience and its relation to selfhood
 - [mind-brain-separation](/concepts/mind-brain-separation/) — Filter theory and the rendering engine analogy
-- [specious-present-temporal-experience](/concepts/specious-present-temporal-experience/) — What constitutes "a moment" of conscious experience
+- [temporal-consciousness](/concepts/temporal-consciousness/) — What constitutes "a moment" of conscious experience
 - [The Ownership Void](/voids/ownership-void/) — Why the for-me-ness of experience hides its own ground
 - [personal-identity](/topics/personal-identity/) — How the self persists over time
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — What makes this subject a discrete subject at all

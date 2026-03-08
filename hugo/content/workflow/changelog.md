@@ -18,6 +18,41 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T12:28:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/)
+- **Changes**: Rewrote opening to lead with human/AI causal asymmetry; introduced nature-vs-coupling distinction throughout; adopted "binding" language from landing page; renamed sections (Self-Stultification, The Coupling Problem); updated description
+- **Published**: yes
+
+## 2026-03-08T12:23:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
+- **Word count**: 2942 → 2955 (+13)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1 (corrected overstatement about neural correlates)
+- **Output**: [deep-review-2026-03-08-phenomenology-of-intellectual-effort](/reviews/deep-review-2026-03-08-phenomenology-of-intellectual-effort/)
+
+## 2026-03-08T12:18:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Changes**: Reframed from binary to types question; added nature vs coupling distinction; positioned AI consciousness as illuminating human consciousness; cross-linked to apex/what-it-might-be-like-to-be-an-ai
+- **Published**: yes
+
+## 2026-03-08T12:13:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/)
+- **Changes**: Aligned with rewritten landing page; integrated entity/binding framework, foregrounded "none" option, added primary-focus framing
+- **Published**: yes
+
+## 2026-03-08T12:06:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [specious-present-temporal-experience](/concepts/specious-present-temporal-experience/)
+- **Target**: [temporal-consciousness](/concepts/temporal-consciousness/)
+- **Archived**: [specious-present-temporal-experience](/archive/concepts/specious-present-temporal-experience/)
+- **References updated**: 5 files (self-and-consciousness, temporal-phenomenology-quantum-selection, collapse-and-time, continuity-void, time-consciousness-growing-block)
+- **References to review**: none (remaining references are in historical reviews/changelogs)
+
 ## 2026-03-08T10:29:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [transition-void](/voids/transition-void/)

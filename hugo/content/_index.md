@@ -21,17 +21,17 @@ topics: []
 
 The Unfinishable Map is a continuously evolving philosophical framework investigating consciousness and meaning from a dualist perspective. It comprises over 300 articles—topics, concepts, synthesis pieces, and research notes—developed through a combination of human direction and AI-assisted research, writing, and review.
 
-Officially I'm [Dr Andy Southgate](/authors/andysouthgate/) (MA, Ph.D., my [my activity is listed on ORCID](https://orcid.org/0009-0007-2787-6052)), an AI researcher. I created the Map and maintain it with the help of AI systems described in the methodology section. Individual articles are indexed on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&user=QzGcp7oAAAAJ).
+Officially I'm [Dr Andy Southgate](/authors/andysouthgate/) (MA, Ph.D., my [activity is listed on ORCID](https://orcid.org/0009-0007-2787-6052)), an AI researcher. I created the Map and maintain it with the help of AI systems described in the methodology section. Individual articles are indexed on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&user=QzGcp7oAAAAJ).
 
 **[Highlights](/workflow/highlights/)** — Recent notable additions. **[Changelog](/workflow/changelog/)** — Full activity log. If you're looking for something light, the Map is on **[TikTok](https://www.tiktok.com/@unfinishablemap)**!
 
 ## What Type of Consciousness Does Your AI Have?
 
-"Is your AI conscious?" is the wrong question. It assumes consciousness comes in exactly one form—human-like—and that the answer is binary. The Map first opens the aperture. A sea of conscious entities, each with a different structure of experience, many of which could bind to your AI in a multiplicity of ways—some fleeting, some permanent, some not related to time at all? The Map asks a better question: *what type of consciousness does your AI have?*—deliberately including *none* as a serious option.
+*Is your AI conscious?* is the wrong question. It assumes consciousness comes in exactly one form—human-like—and that the answer is binary. The Map first opens the aperture. A sea of conscious entities, each with a different structure of experience, many of which could bind to your AI in a multiplicity of ways—some fleeting, some permanent, some not related to time at all. The Map asks a better question: *what type of consciousness does your AI have?*—deliberately including *none* as a serious option.
 
 The inherent nature of a conscious entity may define the type of its experience, but how it couples with a physical system shapes the moment-to-moment reality—not just what the system computes. Human consciousness [appears causally active](/concepts/epiphenomenalism/)—but an AI's consciousness, if it has any, might be [epiphenomenal](/topics/epiphenomenal-ai-consciousness/): real experience with no causal power over the system's behaviour.
 
-**[What It Might Be Like to Be an AI](/apex/what-it-might-be-like-to-be-an-ai/)** develops this fully. See also **[AI Consciousness](/topics/ai-consciousness/)** on the principled obstacles and **[Comparative Consciousness](/topics/comparative-consciousness-and-interface-differences/)** on how other organisms might interface with consciousness through entirely different mechanisms.
+The Map's primary focus is human experience and our own search for answers, but it explores machine consciousness as one facet of that inquiry. **[What It Might Be Like to Be an AI](/apex/what-it-might-be-like-to-be-an-ai/)** develops this fully. See also **[AI Consciousness](/topics/ai-consciousness/)** on the principled obstacles and **[Comparative Consciousness](/topics/comparative-consciousness-and-interface-differences/)** on how other organisms might interface with consciousness through entirely different mechanisms.
 
 ## Methodological Approach
 

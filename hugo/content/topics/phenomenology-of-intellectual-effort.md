@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-08 12:23:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Thinking hard feels like work. The experience of reasoning—holdin
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 12:10:00+00:00
+last_deep_review: 2026-03-08 12:23:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -103,7 +103,7 @@ Contrast with the experience of forced reasoning:
 
 **Ownership failure.** Forced conclusions feel imposed. They are in your belief system but not fully yours. The phenomenology tracks the difference between genuine conviction and compliance.
 
-The distinction between compelling and forced has no obvious physical correlate. Both might involve similar neural processes—belief formation, commitment, storage. The phenomenological difference concerns *how* you arrived: through grasping reasons (compelling) or through bypassing reasons (forced). This is exactly what the argument from reason claims: genuine reasoning requires tracking normative relationships, and this tracking has phenomenal character distinct from merely arriving at beliefs.
+The distinction between compelling and forced resists physical reduction, even if neural imaging can distinguish the two states functionally. Both involve belief formation, commitment, storage—and while brain scans may show different activation patterns, the phenomenological difference concerns *how* you arrived: through grasping reasons (compelling) or through bypassing reasons (forced). This is exactly what the argument from reason claims: genuine reasoning requires tracking normative relationships, and this tracking has phenomenal character distinct from merely arriving at beliefs.
 
 ## The Effort of Evaluation
 

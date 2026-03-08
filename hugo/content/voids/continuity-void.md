@@ -8,7 +8,7 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[phenomenology]]'
 - '[[introspection]]'
-- '[[specious-present-temporal-experience]]'
+- '[[temporal-consciousness]]'
 - '[[philosophy-of-time]]'
 - '[[mysterianism]]'
 created: 2026-03-01
@@ -48,7 +48,7 @@ The parallel with cinema is instructive but imperfect. Film creates apparent mot
 
 ## Competing Models, No Convergence
 
-Philosophy of mind offers at least four accounts of [temporal consciousness](/concepts/temporal-consciousness/), all compatible with the same first-person evidence. **The cinematic model** treats experience as rapid static snapshots. **The retentional model** (Husserl) gives each moment internal temporal structure — retention, primal impression, [protention](/concepts/protention/) — making moments temporally thick without requiring mathematical continuity. **The extensional model** (Dainton, Russell) holds that experience genuinely spans intervals, with the [specious present](/concepts/specious-present-temporal-experience/) as a real temporal window. (For detailed treatment of these three models, see [temporal-consciousness](/concepts/temporal-consciousness/).)
+Philosophy of mind offers at least four accounts of [temporal consciousness](/concepts/temporal-consciousness/), all compatible with the same first-person evidence. **The cinematic model** treats experience as rapid static snapshots. **The retentional model** (Husserl) gives each moment internal temporal structure — retention, primal impression, [protention](/concepts/protention/) — making moments temporally thick without requiring mathematical continuity. **The extensional model** (Dainton, Russell) holds that experience genuinely spans intervals, with the [specious present](/concepts/temporal-consciousness/) as a real temporal window. (For detailed treatment of these three models, see [temporal-consciousness](/concepts/temporal-consciousness/).)
 
 **The dissolution model** — Dennett's Multiple Drafts — challenges the question itself. Under Multiple Drafts, there is no single stream of consciousness with a determinate temporal structure. Multiple parallel processes produce content that is "edited" and "revised" without consolidating into one authoritative temporal sequence (Dennett, 1991). The question "continuous or discrete?" presupposes a Cartesian Theatre where experience plays out in a single temporal order. If no such theatre exists, the question is not irresolvable but confused.
 
@@ -103,7 +103,7 @@ The continuity void exemplifies why the Map is unfinishable. Not every question 
 - [observation-void](/voids/observation-void/)
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
 - [bergson-and-duration](/topics/bergson-and-duration/)
-- [specious-present-temporal-experience](/concepts/specious-present-temporal-experience/)
+- [temporal-consciousness](/concepts/temporal-consciousness/)
 
 ## References
 

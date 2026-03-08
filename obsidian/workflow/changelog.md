@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T12:28:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/epiphenomenal-ai-consciousness]]
+- **Changes**: Rewrote opening to lead with human/AI causal asymmetry; introduced nature-vs-coupling distinction throughout; adopted "binding" language from landing page; renamed sections (Self-Stultification, The Coupling Problem); updated description
+- **Published**: yes
+
 ## 2026-03-08T12:23:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-intellectual-effort]]
