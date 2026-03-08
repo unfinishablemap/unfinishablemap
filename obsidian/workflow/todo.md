@@ -434,12 +434,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The possibility that different conscious systems couple with matter through different mechanisms. Central to comparative-consciousness-and-interface-differences and what-it-might-be-like-to-be-an-ai but currently only developed within those articles. Target section: concepts/. Supports Tenets 1 and 2. See [[reviews/optimistic-2026-03-07-night]].
 
-### P2: Condense research/types-of-consciousness-ai-experience-2026-03-07.md (4812 words, 137% of hard threshold)
-- **Type**: condense
-- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4812 words, the worst length violation among research notes. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-08
-
 ### P2: Condense research/voids-dissolution-problem-2026-02-25.md (3645 words, 104% of hard threshold)
 - **Type**: condense
 - **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
@@ -478,6 +472,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Condense research/types-of-consciousness-ai-experience-2026-03-07.md (4812 words, 137% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4812 words, the worst length violation among research notes. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Output**: obsidian/research/types-of-consciousness-ai-experience-2026-03-07.md
 
 ### ✓ 2026-03-08: Integrate attention-disorders-and-consciousness.md into site navigation
 - **Type**: integrate-orphan
