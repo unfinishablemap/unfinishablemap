@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the phenomenology of mathematical insight
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Mathematical understanding—especially "aha" moments in proof—provides the clearest cases of cognitive phenomenology doing work. Poincaré, Hadamard, and Ramanujan's accounts offer rich phenomenological data. A domain where introspection can be externally validated through performance. Builds on phenomenology-of-understanding.md, consciousness-and-mathematical-cognition.md, argument-from-reason.md. See optimistic-2026-02-24-night.md
-- **Generated**: 2026-02-24
-
 ### P2: Write article on Islamic and Sufi philosophical traditions on consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -461,6 +455,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Write article on the phenomenology of mathematical insight
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Mathematical understanding—especially "aha" moments in proof—provides the clearest cases of cognitive phenomenology doing work. Poincaré, Hadamard, and Ramanujan's accounts offer rich phenomenological data. A domain where introspection can be externally validated through performance. Builds on phenomenology-of-understanding.md, consciousness-and-mathematical-cognition.md, argument-from-reason.md. See optimistic-2026-02-24-night.md
+- **Output**: the phenomenology of mathematical insight
 
 ### ✓ 2026-03-08: Cross-review psychedelics-and-the-filter-model against related articles
 - **Type**: cross-review
