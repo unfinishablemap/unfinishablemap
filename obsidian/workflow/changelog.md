@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08 02:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [[epiphenomenalism]]
+- **Changes**: Updated working memory figures from outdated Miller 7±2 to Cowan 4±1; replaced inaccurate chimp WM claim with nuanced account consistent with animal-consciousness.md; added missing references
+- **Published**: yes
+
 ## 2026-03-08 01:27 UTC - refine-draft
 - **Status**: Success
 - **File**: [[comparative-consciousness-and-interface-differences]]

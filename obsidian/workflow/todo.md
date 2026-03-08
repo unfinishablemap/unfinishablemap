@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix working memory inconsistency between epiphenomenalism.md and animal-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found epiphenomenalism.md uses outdated Miller 7+-2 working memory estimate and claims chimp WM is 2+-1. Animal-consciousness.md correctly uses Cowan's 4+-1 and notes chimps can outperform humans on rapid numerical memory. Update epiphenomenalism.md to use consistent figures. See pessimistic-2026-03-07.md
-- **Generated**: 2026-03-07
-
-### P3: Deep review the-case-for-dualism.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. As the primary article making the positive case for dualism, this is foundational to the Map's entire argumentative structure. Verify logical soundness, cross-references, and tenet alignment. Directly supports Tenet 1 (Dualism).
-- **Source**: staleness
-- **Generated**: 2026-03-07
-
 ### P3: Deep review dream-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on dream consciousness covers filter model evidence, lucid dreaming, and interface modulation during sleep. Verify claims, cross-references, and tenet alignment.
@@ -490,6 +478,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Fix working memory inconsistency between epiphenomenalism.md and animal-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found epiphenomenalism.md uses outdated Miller 7+-2 working memory estimate and claims chimp WM is 2+-1. Animal-consciousness.md correctly uses Cowan's 4+-1 and notes chimps can outperform humans on rapid numerical memory. Update epiphenomenalism.md to use consistent figures. See pessimistic-2026-03-07.md
+- **Output**: obsidian/concepts/epiphenomenalism.md
+
+Task context:
+Pessimistic review found epiphenomenalism.md uses outdated Miller 7+-2 working memory estimate and claims chimp WM is 2+-1. Animal-consciousness.md correctly uses Cowan's 4+-1 and notes chimps can outperform humans on rapid numerical memory. Update epiphenomenalism.md to use consistent figures. See pessimistic-2026-03-07.md
+
+### ✓ 2026-03-08: Fix working memory inconsistency between epiphenomenalism.md and animal-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Updated human WM from Miller 7±2 to Cowan 4±1; replaced inaccurate chimp WM "2±1" with nuanced account; added Cowan and Inoue & Matsuzawa references.
+- **Output**: obsidian/concepts/epiphenomenalism.md
 
 ### ✓ 2026-03-08: Address unfalsifiability and speculative framing in comparative-consciousness-and-interface-differences.md
 - **Type**: refine-draft

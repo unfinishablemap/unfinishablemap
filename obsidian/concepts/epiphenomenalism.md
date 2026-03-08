@@ -4,7 +4,7 @@ description: "Consciousness as causally inert byproduct. Self-stultification pro
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-03-02T16:52:00+00:00
+ai_modified: 2026-03-08T02:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -137,7 +137,7 @@ The [[consciousness-as-amplifier|consciousness-as-amplifier hypothesis]] strengt
 
 The gap isn't random. It systematically tracks capacities that appear to require conscious processing:
 
-**Working memory**: Chimpanzee working memory holds approximately 2±1 items; human working memory holds 7±2. This expansion isn't mere storage—it's the capacity for simultaneous comparison and flexible combination. [[global-workspace-theory|Global Workspace Theory]] describes access consciousness—information globally available for processing—but the Map's claim is stronger: [[phenomenal-consciousness|phenomenal consciousness]] (the "what it's like") contributes causally, not merely the functional availability. The [[consciousness-as-amplifier|amplifier article]] develops this distinction.
+**Working memory**: Human working memory capacity is approximately 4±1 items (Cowan 2001), revised downward from Miller's earlier 7±2 estimate. Chimpanzees score lower on most working memory tasks, though young chimpanzees can outperform adult humans on rapid numerical memory (Inoue & Matsuzawa 2007), suggesting the difference lies in flexible, goal-directed manipulation of held representations rather than raw capacity alone. [[global-workspace-theory|Global Workspace Theory]] describes access consciousness—information globally available for processing—but the Map's claim is stronger: [[phenomenal-consciousness|phenomenal consciousness]] (the "what it's like") contributes causally, not merely the functional availability. The [[consciousness-as-amplifier|amplifier article]] develops this distinction.
 
 **Logical reasoning**: Lieberman et al. (2008) found that cognitive load disrupting conscious attention impairs rule-based logical reasoning; disrupting unconscious processes does not. If consciousness were epiphenomenal, logical reasoning should proceed regardless of conscious interference.
 
@@ -225,4 +225,18 @@ The self-stultification problem remains the strongest objection for human consci
 1. Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
 1. Georgiev, D.D. (2024). "Evolution of Consciousness." *Life*, 14(1), 48.
 1. Robinson, W.S. (2004). *Understanding Phenomenal Consciousness*. Cambridge University Press.
+1. Cowan, N. (2001). "The magical number 4 in short-term memory: A reconsideration of mental storage capacity." *Behavioral and Brain Sciences*, 24(1), 87-114.
+1. Inoue, S. & Matsuzawa, T. (2007). "Working memory of numerals in chimpanzees." *Current Biology*, 17(23), R1004-R1005.
 1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+
+<!-- AI REFINEMENT LOG - 2026-03-08
+Changes made:
+- Updated human working memory figure from Miller's 7±2 to Cowan's 4±1 (consistent with animal-consciousness.md)
+- Replaced claim that chimp WM is "2±1 items" with nuanced account noting chimps score lower on most tasks but can outperform humans on rapid numerical memory (Inoue & Matsuzawa 2007)
+- Added Cowan (2001) and Inoue & Matsuzawa (2007) to References section
+- Targeted fix from pessimistic review finding inconsistent WM figures across articles
+
+Key improvements: factual accuracy, cross-article consistency
+
+This log should be removed after human review.
+-->
