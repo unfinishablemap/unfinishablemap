@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T13:41:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/samkhya-three-way-distinction]]
+- **Word count**: 1778 → 1811 (+33)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 3 (Block's distinction, cross-links, prose refinement)
+- **Output**: [[reviews/deep-review-2026-03-08-samkhya-three-way-distinction]]
+
 ## 2026-03-08T13:37:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[apex/phenomenology-of-consciousness-doing-work]]
