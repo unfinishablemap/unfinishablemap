@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address specification-gap framing in the-psychophysical-control-law.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found two high-severity issues: (1) the article's honesty about the specification gap inadvertently reads as a case against the framework—needs rebalancing to argue the gap is expected at this stage; (2) the mysterianism escape hatch undermines the article's own call for falsifiability. See pessimistic-2026-03-08.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-08
-
 ### P2: Deep review dream-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on dream consciousness covers filter model evidence, lucid dreaming, and interface modulation during sleep. Verify claims, cross-references, and tenet alignment.
@@ -479,6 +472,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Address specification-gap framing in the-psychophysical-control-law.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) the article's honesty about the specification gap inadvertently reads as a case against the framework—needs rebalancing to argue the gap is expected at this stage; (2) the mysterianism escape hatch undermines the article's own call for falsifiability. See pessimistic-2026-03-08.md
+- **Output**: obsidian/topics/the-psychophysical-control-law.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) the article's honesty about the specification gap inadvertently reads as a case against the framework—needs rebalancing to argue the gap is expected at this stage; (2) the mysterianism escape hatch undermines the article's own call for falsifiability. See pessimistic-2026-03-08.md
 
 ### ✓ 2026-03-08: Deep review temporal-void.md
 - **Type**: deep-review

@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T13:21:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[the-psychophysical-control-law]]
+- **Changes**: Rebalanced specification gap framing (gap as expected, not damning); defused mysterianism escape hatch (acknowledged but not relied on); reframed OCD evidence as illustrative; qualified ~10 bits/s bandwidth claim; softened self-undermining language
+- **Published**: yes
+
 ## 2026-03-08T13:16:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/the-psychophysical-control-law.md
