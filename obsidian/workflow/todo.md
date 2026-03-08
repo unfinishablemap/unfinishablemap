@@ -452,6 +452,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Independent philosophical traditions converge on consciousness's irreducibility — a systematic meta-analysis of why this convergence occurs would strengthen the convergence argument. Builds on the-hard-problem-in-non-western-philosophy.md, eastern-philosophy-and-consciousness.md, convergence-argument-for-dualism.md. See optimistic-2026-03-08.md
 - **Generated**: 2026-03-08
 
+### P3: Write article on phenomenology of surprise and categorical novelty
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Surprise involves the collapse of expectation frameworks—a phenomenological analogue of quantum superposition collapse. The moment something genuinely unexpected occurs, experiential structure transitions from openness to definiteness, mirroring the selection mechanism. Builds on categorical-surprise.md, phenomenology-of-understanding.md, consciousness-and-counterfactual-reasoning.md. See optimistic-2026-03-08-afternoon.md
+- **Generated**: 2026-03-08
+
+### P3: Write article on the epistemology of thought experiments in philosophy of mind
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map relies heavily on thought experiments (zombies, Mary's Room, inverted qualia, Chinese Room) but lacks a unified treatment of when thought experiment evidence is trustworthy. Williamson's and Machery's criticisms of philosophical intuition deserve engagement. Builds on philosophical-zombies.md, knowledge-argument.md, conceivability-possibility-inference.md. See optimistic-2026-03-08-afternoon.md
+- **Generated**: 2026-03-08
+
+### P3: Write concept page for performative self-defeat
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The distinction between logical contradiction and rational unendorsability appears across multiple articles (self-stultification, argument from reason, epiphenomenalist threat) and is frequently conflated with self-contradiction. Deserves its own concept page. Builds on self-stultification.md, self-stultification-as-master-argument.md, the-epiphenomenalist-threat.md. See optimistic-2026-03-08-afternoon.md
+- **Generated**: 2026-03-08
+
+### P3: Write concept page for the amplification problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How small quantum biases become macroscopic behavioural selection—referenced across many articles as unresolved but lacking a dedicated treatment of the problem space and candidate solutions. Builds on consciousness-selecting-neural-patterns.md, mind-matter-interface.md, stapp-quantum-mind.md. See optimistic-2026-03-08-afternoon.md
+- **Generated**: 2026-03-08
+
 ## Completed Tasks
 
 
