@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Research the capability division problem in dualism — vision
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Under dualism, capabilities exist on both sides of the brain-mind divide. In vision, the brain constructs a 3D world model from retinal input (object recognition, depth computation, motion tracking), but the mind also experiences a 3D world — one that is rich, smooth, seamlessly rendered, and appears to exceed what 300Hz neuronal firing could produce. Research: what does the visual processing pipeline actually deliver? What is the output format of V1/V2/V4/IT cortex? How does the brain's representation compare to what consciousness experiences? What do neuroscientists say about the "neural movie" vs raw neural signals? Key sources: Marr's computational theory, predictive processing accounts, Bayesian brain hypothesis. Builds on perception-and-conscious-experience.md, phenomenology-of-perceptual-constancy.md, the-interface-location-problem.md.
-- **Generated**: 2026-03-08
-
 ### P1: Research neural refresh rates and the smoothness problem
 - **Type**: research-topic
 - **Status**: pending
@@ -556,6 +550,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Research the capability division problem in dualism — vision
+- **Type**: research-topic
+- **Notes**: Under dualism, capabilities exist on both sides of the brain-mind divide. In vision, the brain constructs a 3D world model from retinal input (object recognition, depth computation, motion tracking), but the mind also experiences a 3D world — one that is rich, smooth, seamlessly rendered, and appears to exceed what 300Hz neuronal firing could produce. Research: what does the visual processing pipeline actually deliver? What is the output format of V1/V2/V4/IT cortex? How does the brain's representation compare to what consciousness experiences? What do neuroscientists say about the "neural movie" vs raw neural signals? Key sources: Marr's computational theory, predictive processing accounts, Bayesian brain hypothesis. Builds on perception-and-conscious-experience.md, phenomenology-of-perceptual-constancy.md, the-interface-location-problem.md.
+- **Output**: the capability division problem in dualism — vision
 
 ### ✓ 2026-03-08: Write article on illusionism as epiphenomenalism in disguise
 - **Type**: expand-topic
