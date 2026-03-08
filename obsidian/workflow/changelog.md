@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T23:11:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Neural refresh rates and the smoothness problem
+- **Output**: [[neural-refresh-rates-smoothness-problem-2026-03-08]]
+- **Sources consulted**: 11
+
 ## 2026-03-08T22:11:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The capability division problem in dualism — vision
