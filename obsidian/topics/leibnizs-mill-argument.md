@@ -4,8 +4,8 @@ description: "Leibniz's 1714 thought experiment imagines walking through an enla
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-02T23:57:00+00:00
-last_deep_review: 2026-02-02T23:57:00+00:00
+ai_modified: 2026-03-08T00:54:00+00:00
+last_deep_review: 2026-03-08T00:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -55,7 +55,7 @@ Modern neuroscience has given us extraordinary detail about the brain's "mill." 
 
 What we do not find is the redness of red, the painfulness of pain, the felt quality of any experience. The [[explanatory-gap]] between neural mechanisms and conscious experience echoes Leibniz's observation that mechanical inspection reveals "never anything by which to explain a perception."
 
-This parallel is not accidental. Leibniz anticipated the [[hard-problem-of-consciousness|hard problem of consciousness]] by nearly three centuries. David Chalmers' formulation—that we can explain all the functional roles of consciousness while leaving unexplained why these functions are accompanied by experience—is essentially a modern restatement of what Leibniz saw in the mill.
+This parallel is not accidental. Leibniz anticipated the [[hard-problem-of-consciousness|hard problem of consciousness]] by nearly three centuries. David Chalmers' formulation—that we can explain all the functional roles of consciousness while leaving unexplained why these functions are accompanied by experience—closely parallels what Leibniz saw in the mill.
 
 ## Why the Argument Endures
 
@@ -65,7 +65,9 @@ Several features make Leibniz's Mill more than a historical curiosity:
 
 **It doesn't require dualist premises.** The argument starts from materialist assumptions—suppose there were a machine that could perceive—and derives a problem for materialism from within.
 
-**It appeals to a clear intuition.** The thought experiment invites verification. We don't need to accept Leibniz's metaphysics to feel the force of the question: where, among all those parts, is the perception? A caution: intuitions have been unreliable guides to physics—we couldn't imagine curved spacetime or quantum entanglement either. But Leibniz's intuition differs from those cases. It doesn't say physics must work a certain way; it says that no physical description, however accurate, addresses the felt quality of experience. This is not a failure of imagination about physical possibilities but a recognition that physical description and phenomenal quality are different kinds of discourse.
+**It appeals to a clear intuition.** The thought experiment invites verification. We don't need to accept Leibniz's metaphysics to feel the force of the question: where, among all those parts, is the perception?
+
+A caution: intuitions have been unreliable guides to physics—we couldn't imagine curved spacetime or quantum entanglement either. But Leibniz's intuition differs from those cases. It doesn't say physics must work a certain way; it says that no physical description, however accurate, addresses the felt quality of experience. This is not a failure of imagination about physical possibilities but a recognition that physical description and phenomenal quality are different kinds of discourse.
 
 **It distinguishes function from experience.** A machine could pass any behavioral test for perception while the mill argument still applies. The parts would implement the right input-output relations, but walking through would still reveal "only parts which work one upon another."
 
@@ -75,7 +77,7 @@ Materialists have offered several lines of response:
 
 **The emergence objection**: Perhaps perception is not located in any single part but emerges from the organization of parts. Just as wetness emerges from hydrogen and oxygen atoms though neither is wet individually, [[consciousness]] might emerge from neural organization.
 
-This response misses Leibniz's point. The wetness analogy fails because wetness *can* be explained in terms of molecular properties accessible to physics—molecular mobility, hydrogen bonding, surface tension. These are structural features that inspection reveals. But what structural feature could explain the *redness* of red or the *painfulness* of pain? Organization gives us complexity, patterns, information processing. It does not give us felt quality. The burden falls on the emergentist: specify exactly how any arrangement of parts produces phenomenal character. Until this is done, emergence is a label for the problem, not a solution to it.
+This response misses Leibniz's point. The wetness analogy fails because wetness *can* be explained in terms of molecular properties accessible to physics—molecular mobility, hydrogen bonding, surface tension. These are structural features that inspection reveals. But what structural feature could explain the *redness* of red or the *painfulness* of pain? Organization gives us complexity, patterns, information processing. It does not give us felt quality. The burden falls on the emergentist: specify exactly how any arrangement of parts produces phenomenal character. Until this is done, emergence is a label for the problem, not a solution to it. (See [[the-strong-emergence-of-consciousness]] for a fuller treatment of why strong emergence fails as an explanation.)
 
 **The mistake objection**: Perhaps we are wrong to expect perception to appear as something distinct from the parts. Our intuition that it should might reflect confusion rather than insight. Where, after all, is "computation" when we walk through a computer? We find only transistors, yet computation is real and reducible to physical processes.
 
@@ -111,7 +113,7 @@ Leibniz's Mill supports several of the Map's [[tenets]]:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Leibniz himself denied mind-body interaction, preferring pre-established harmony. The Map disagrees. But the mill argument is compatible with interactionist dualism: if perception is not reducible to mechanism, it may nonetheless influence mechanism at points where physics leaves outcomes undetermined—precisely the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] the Map proposes.
 
-The mill argument stands alongside the [[knowledge-argument]], the [[philosophical-zombies|zombie argument]], and arguments from [[qualia]] as converging evidence for irreducibility. Each approaches the question from a different angle; their convergence strengthens the case.
+The mill argument stands alongside the [[knowledge-argument]], the [[philosophical-zombies|zombie argument]], and arguments from [[qualia]] as converging evidence for irreducibility—part of the broader case [[arguments-against-materialism|against materialism]]. Each approaches the question from a different angle; their convergence strengthens the case.
 
 ## Further Reading
 
@@ -122,6 +124,8 @@ The mill argument stands alongside the [[knowledge-argument]], the [[philosophic
 - [[explanatory-gap]] — Why physical explanation seems to miss experience
 - [[panpsychism]] — One response to the mill that Leibniz himself endorsed
 - [[concepts/functionalism]] — The view that mental states are causal roles, and why it doesn't escape the mill
+- [[arguments-against-materialism]] — The full range of arguments against materialism, including Leibniz's Mill
+- [[consciousness-and-the-limits-of-explanation]] — Why physical explanation seems inherently bounded
 - [[topics/free-will]] — How the mill argument supports the reality of conscious choice
 
 ## References

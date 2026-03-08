@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review leibnizs-mill-argument.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-02 — 33 days ago, beyond the 30-day staleness threshold. Leibniz's Mill is a foundational argument for Tenet 1 (Dualism) — the thought experiment that no mechanical arrangement explains perception. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-07
-
 ### P2: Deep review consciousness-and-language-interface.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 32 days ago, beyond the 30-day staleness threshold. Covers how language mediates between consciousness and cognition — relevant to the interface framework and cognitive phenomenology cluster. Verify coherence, cross-references, and tenet alignment.
@@ -466,6 +460,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Deep review leibnizs-mill-argument.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-02 — 33 days ago, beyond the 30-day staleness threshold. Leibniz's Mill is a foundational argument for Tenet 1 (Dualism) — the thought experiment that no mechanical arrangement explains perception. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/leibnizs-mill-argument.md
 
 ### ✓ 2026-03-08: Deep review loss-of-consciousness.md
 - **Type**: deep-review
