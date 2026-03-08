@@ -1,11 +1,14 @@
 """Evolution state management - dataclasses and I/O for evolution-state.yaml."""
 
+import logging
 from dataclasses import dataclass, field
 from datetime import datetime
 from pathlib import Path
 from typing import Optional
 
 import yaml
+
+log = logging.getLogger(__name__)
 
 
 @dataclass
@@ -243,6 +246,98 @@ def save_state(state: EvolutionState, path: Path) -> None:
     with open(path, "w", encoding="utf-8") as f:
         f.write(header)
         yaml.dump(data, f, default_flow_style=False, sort_keys=False, allow_unicode=True)
+
+
+OBSIDIAN_ROOT = Path(__file__).parent.parent.parent / "obsidian"
+
+# Map section directory names to their cap field names
+SECTION_CAP_MAP: dict[str, str] = {
+    "topics": "max_topics",
+    "concepts": "max_concepts",
+    "voids": "max_voids",
+}
+
+
+def count_section_files(section: str) -> int:
+    """Count .md files in an obsidian section directory, excluding index files.
+
+    Args:
+        section: Directory name under obsidian/ (e.g., "topics", "concepts", "voids")
+
+    Returns:
+        Number of .md files (excluding _index.md and section index files)
+    """
+    section_dir = OBSIDIAN_ROOT / section
+    if not section_dir.is_dir():
+        return 0
+
+    count = 0
+    for path in section_dir.iterdir():
+        if not path.suffix == ".md":
+            continue
+        # Exclude index files (Hugo section pages)
+        if path.name == "_index.md" or path.stem == section:
+            continue
+        count += 1
+    return count
+
+
+def check_section_caps(caps: SectionCaps) -> dict[str, tuple[int, int, bool]]:
+    """Check all section counts against their caps.
+
+    Returns:
+        Dict of section -> (current_count, cap, is_at_or_above_cap)
+        Logs warnings for sections near cap (>90%) and errors for sections at/above cap.
+    """
+    results: dict[str, tuple[int, int, bool]] = {}
+
+    for section, cap_field in SECTION_CAP_MAP.items():
+        cap = getattr(caps, cap_field)
+        count = count_section_files(section)
+        at_cap = count >= cap
+
+        results[section] = (count, cap, at_cap)
+
+        if at_cap:
+            log.error(
+                "Section '%s' is at or above cap: %d/%d. "
+                "expand-topic tasks targeting this section will be skipped.",
+                section, count, cap,
+            )
+        elif count >= cap * 0.9:
+            log.warning(
+                "Section '%s' is approaching cap: %d/%d (%.0f%%).",
+                section, count, cap, count / cap * 100,
+            )
+
+    return results
+
+
+def is_section_at_cap(section: str, caps: SectionCaps) -> bool:
+    """Check if a specific section is at or above its cap.
+
+    Args:
+        section: Directory name (e.g., "topics")
+        caps: The SectionCaps configuration
+
+    Returns:
+        True if the section is at or above its cap
+    """
+    cap_field = SECTION_CAP_MAP.get(section)
+    if cap_field is None:
+        return False  # Unknown sections aren't capped
+
+    cap = getattr(caps, cap_field)
+    count = count_section_files(section)
+    return count >= cap
+
+
+def all_sections_at_cap(caps: SectionCaps) -> bool:
+    """Check if ALL content sections are at or above their caps.
+
+    When this is true, no new articles can be created anywhere.
+    """
+    return all(is_section_at_cap(section, caps) for section in SECTION_CAP_MAP)
 
 
 def calculate_convergence(state: EvolutionState) -> float:

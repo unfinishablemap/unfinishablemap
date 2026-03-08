@@ -32,7 +32,14 @@ from tools.evolution.cycle import (
     get_cycle_triggers,
     is_cycle_complete,
 )
-from tools.evolution.state import EvolutionState, TaskRecord, load_state, save_state
+from tools.evolution.state import (
+    EvolutionState,
+    TaskRecord,
+    all_sections_at_cap,
+    check_section_caps,
+    load_state,
+    save_state,
+)
 from tools.evolution.task_selector import (
     LogicFlawError,
     SkillInvocation,
@@ -790,6 +797,37 @@ def run_session(
     else:
         # Run the scheduled skill
         invocation = SkillInvocation(task_type)
+
+    # Pre-execution cap check for expand-topic tasks
+    # P0/P1 tasks are allowed to break caps (human-prioritised), others are skipped
+    if invocation is not None and invocation.skill == "expand-topic":
+        is_high_priority = queue_task is not None and queue_task.priority <= 1
+        if all_sections_at_cap(state.section_caps):
+            if is_high_priority:
+                log.warning(
+                    "ALL sections at cap — but P%d task allowed to break cap: %s",
+                    queue_task.priority,
+                    invocation.args or "(no args)",
+                )
+                check_section_caps(state.section_caps)
+            else:
+                log.error(
+                    "ALL sections at cap — skipping expand-topic task: %s",
+                    invocation.args or "(no args)",
+                )
+                state.recent_tasks.append(
+                    TaskRecord(
+                        task=f"expand-topic ({invocation.args[:50] if invocation.args else ''})",
+                        task_type="expand-topic",
+                        date=now.date().isoformat(),
+                        outcome="skipped-cap",
+                    )
+                )
+                invocation = None
+                queue_task = None
+        else:
+            # Log cap status so operators can see what's happening
+            check_section_caps(state.section_caps)
 
     # Skip execution if no invocation (e.g., no executable queue tasks)
     if invocation is None:
