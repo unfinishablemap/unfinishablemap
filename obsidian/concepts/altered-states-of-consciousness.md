@@ -94,7 +94,7 @@ Neuroimaging confirms that hypnosis alters executive control network integration
 
 ### Meditation
 
-Advanced meditation produces states ranging from focused absorption (samadhi) to [[witness-consciousness|witness awareness]] to cessation events—"radically altered states characterised by full loss of consciousness" that, unlike anaesthetic unconsciousness, are voluntary and transformative. Tantric yoga offers systematic phenomenology of consciousness structures that meditators navigate deliberately.
+Advanced meditation produces states ranging from focused absorption (samadhi) to [[witness-consciousness|witness awareness]] to cessation events—"radically altered states characterised by full loss of consciousness" that, unlike anaesthetic unconsciousness, are voluntary and transformative. Tantric yoga offers systematic phenomenology of consciousness structures that meditators navigate deliberately. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] documents how these states converge structurally across Buddhist, Hindu, Christian, Sufi, and Daoist practices—self-dissolution, contentless awareness, and subject-object collapse appear independently across traditions with incompatible metaphysics.
 
 The voluntariness is crucial. Meditators deliberately alter their brain-consciousness interface through attention training. Longitudinal studies show meditation produces lasting structural brain changes. From the Map's framework, this provides evidence for [[tenets#^bidirectional-interaction|Bidirectional Interaction]]: consciousness can deliberately reconfigure its neural interface through sustained practice.
 

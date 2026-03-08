@@ -40,7 +40,7 @@ The parallel with quantum measurement is more than metaphorical. In both cases, 
 
 ## Cross-Cultural Evidence
 
-The absorption void is among the best-attested cognitive limits. Csikszentmihalyi's research across over 8,000 cases documents that flow involves loss of self-consciousness — attention fully invested in the activity, leaving no capacity for self-monitoring (Csikszentmihalyi, 1990). Buddhist contemplative traditions describe jhana as a state where "there is no sense of 'me' while in full absorption, and the only awareness while in full absorption is of the object" — not unconsciousness, but awareness stripped of self-reference. Athletic "zones," artistic rapture, and skilled craft all report the same disappearance.
+The absorption void is among the best-attested cognitive limits. Csikszentmihalyi's research across over 8,000 cases documents that flow involves loss of self-consciousness — attention fully invested in the activity, leaving no capacity for self-monitoring (Csikszentmihalyi, 1990). Buddhist contemplative traditions describe jhana as a state where "there is no sense of 'me' while in full absorption, and the only awareness while in full absorption is of the object" — not unconsciousness, but awareness stripped of self-reference. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] shows that this self-dissolution is one of three convergence zones reported across Buddhist, Hindu, Christian, Sufi, and Daoist practices. Athletic "zones," artistic rapture, and skilled craft all report the same disappearance.
 
 Three features recur across these traditions:
 

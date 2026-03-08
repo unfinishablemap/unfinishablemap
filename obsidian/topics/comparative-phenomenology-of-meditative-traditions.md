@@ -4,7 +4,7 @@ description: "Cross-traditional meditation reports converge on structural featur
 created: 2026-03-07
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-03-08T00:23:00+00:00
+ai_modified: 2026-03-08T08:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-07
 last_curated:
-last_deep_review: 2026-03-08T00:23:00+00:00
+last_deep_review: 2026-03-08T08:34:00+00:00
 ---
 
 Meditators across radically different traditions report strikingly similar experiences. Buddhist monks in Thailand, Hindu yogis in Rishikesh, Christian contemplatives in Carmelite monasteries, and Sufi practitioners in Istanbul all describe states involving the dissolution of ordinary selfhood, the appearance of awareness without content, and the felt distinction between consciousness and its objects. These traditions disagree profoundly on what these experiences *mean*—whether they reveal Brahman, emptiness, God, or the divine Beloved—yet the phenomenological descriptions converge. The Unfinishable Map argues this convergence is evidence that meditation discovers structural features of consciousness rather than constructing tradition-specific artefacts.

@@ -159,6 +159,7 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 - [[substance-property-dualism]] — Distinguishing forms of dualism
 - [[self-and-consciousness]] — Minimal self vs. narrative self
 - [[contemplative-evidence-for-consciousness]] — First-person data as empirical test
+- [[comparative-phenomenology-of-meditative-traditions]] — Cross-traditional convergence on self-dissolution, contentless awareness, and subject-object collapse
 - [[tenets]] — The Map's foundational commitments
 - [[dualism]] — The Map's core commitment, independently affirmed by all three schools
 - [[the-convergence-argument-for-dualism]] — The epistemological structure Indian philosophy exemplifies

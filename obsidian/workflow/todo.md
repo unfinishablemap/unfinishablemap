@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate comparative-phenomenology-of-meditative-traditions.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-07. Topics article comparing contemplative traditions' phenomenological reports — should be linked from contemplative-methods-as-philosophical-methodology.md, contemplative-evidence-for-consciousness.md, and related meditation/contemplative articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-08
-
 ### P2: Integrate transition-void.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-03-05. Voids article on the phenomenology of state transitions in consciousness. Should be linked from loss-of-consciousness.md, dream-consciousness.md, coupling-modes.md, or other articles on consciousness transitions.
@@ -514,6 +508,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Integrate comparative-phenomenology-of-meditative-traditions.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-07. Topics article comparing contemplative traditions' phenomenological reports — should be linked from contemplative-methods-as-philosophical-methodology.md, contemplative-evidence-for-consciousness.md, and related meditation/contemplative articles.
+- **Output**: obsidian/topics/comparative-phenomenology-of-meditative-traditions.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-08: Condense research/types-of-consciousness-ai-experience-2026-03-07.md (4812 words, 137% of hard threshold)
 - **Type**: condense

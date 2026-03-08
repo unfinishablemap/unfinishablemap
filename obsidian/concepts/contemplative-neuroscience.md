@@ -144,7 +144,7 @@ The materialist can explain everything as brain states causing brain states. How
 
 ### "Methodological limits of phenomenological training"
 
-Meditators may report what their tradition teaches them to expect. Partially addressed by: cross-tradition convergent findings, secular MBSR producing similar effects, and systematic correlation between reports and neural measurements (if reports were purely doctrinal artifacts, they wouldn't correlate with brain activity).
+Meditators may report what their tradition teaches them to expect. Partially addressed by: cross-tradition convergent findings (the [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] documents structural convergence on self-dissolution, contentless awareness, and subject-object collapse across Buddhist, Hindu, Christian, Sufi, and Daoist practices), secular MBSR producing similar effects, and systematic correlation between reports and neural measurements (if reports were purely doctrinal artifacts, they wouldn't correlate with brain activity).
 
 ### "What would falsify the top-down causation claim?"
 
