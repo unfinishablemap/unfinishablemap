@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review consciousness-and-language-interface.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 32 days ago, beyond the 30-day staleness threshold. Covers how language mediates between consciousness and cognition — relevant to the interface framework and cognitive phenomenology cluster. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-07
-
 ### P2: apex-evolve: process-and-consciousness — source phenomenal-unity created
 - **Type**: apex-evolve
 - **Notes**: Source article concepts/phenomenal-unity created 2026-02-24. Apex article "Process and Consciousness" lists phenomenal-unity as a source and should be updated to integrate this content.
@@ -460,6 +454,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Deep review consciousness-and-language-interface.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 32 days ago, beyond the 30-day staleness threshold. Covers how language mediates between consciousness and cognition — relevant to the interface framework and cognitive phenomenology cluster. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/consciousness-and-language-interface.md
 
 ### ✓ 2026-03-08: Deep review leibnizs-mill-argument.md
 - **Type**: deep-review

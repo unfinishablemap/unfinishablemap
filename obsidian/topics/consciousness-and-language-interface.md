@@ -4,7 +4,7 @@ description: "How consciousness and language interact bidirectionally: language 
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-24T11:14:00+00:00
+ai_modified: 2026-03-08T01:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-02-03T19:18:00+00:00
+last_deep_review: 2026-03-08T01:06:00+00:00
 ---
 
 Consciousness and language meet at an interface that shapes both. Language is not a neutral medium for transmitting conscious content—it structures what can be experienced, remembered, and communicated. Conscious states, in turn, are not passive content waiting for linguistic capture—they press toward articulation and exceed what words can convey. This article explores the bidirectional relationship between phenomenal experience and linguistic articulation.
@@ -121,7 +121,7 @@ The loss explains why expression never feels complete. "That's not quite it"—t
 
 The bidirectional loss at the consciousness-language interface has philosophical implications:
 
-**For the hard problem.** The explanatory gap—why physical descriptions fail to explain phenomenal experience—may partly derive from this interface. Physical science proceeds through linguistic description. If phenomenal experience systematically exceeds linguistic capture, physical descriptions will systematically miss phenomenal facts—not because phenomenal facts are non-physical, but because the language of physics is a poor conduit for phenomenal content.
+**For the hard problem.** The explanatory gap—why physical descriptions fail to explain phenomenal experience—may partly derive from this interface. Physical science proceeds through linguistic description. If phenomenal experience systematically exceeds linguistic capture, physical descriptions will systematically miss phenomenal facts. The Map holds that phenomenal facts are genuinely non-physical—but the linguistic interface adds a further obstacle: the language of physics is a particularly poor conduit for phenomenal content. Even if one resists dualism, the translation loss remains.
 
 **For introspection.** [[Introspection]] is often linguistically mediated—we report on our experiences using words. If the report necessarily loses content, introspection cannot deliver complete knowledge of our own minds. There's always more to experience than introspection reveals—not hidden from access, but lost in translation. This connects to debates about [[heterophenomenology]]—the method of taking introspective reports as data about what subjects believe they experience, without assuming these reports directly access phenomenal facts.
 
@@ -197,6 +197,7 @@ The consciousness-language interface connects to the Map's [[tenets]] at multipl
 
 ## Further Reading
 
+- [[consciousness-and-the-phenomenology-of-translation]] — Translation as a phenomenal event that doubles the interface's lossy compression
 - [[language-and-consciousness]] — The philosophical infrastructure: how meaning, reference, and the private language argument reveal consciousness resists linguistic dissolution
 - [[language-recursion-and-consciousness]] — How recursive language may require consciousness
 - [[language-thought-boundary]] — The limits where thought exceeds language
