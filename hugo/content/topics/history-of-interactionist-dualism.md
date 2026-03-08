@@ -12,7 +12,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[emergence]]'
 - '[[mental-causation]]'
-- '[[conservation-laws-and-mind]]'
+- '[[conservation-laws-and-mental-causation]]'
 created: 2026-02-02
 date: &id001 2026-02-02
 description: 'From Descartes through Princess Elizabeth to quantum mechanics: how
@@ -106,7 +106,7 @@ Recent philosophical work has challenged whether the conservation argument ever 
 
 The Standard Model's completeness provides no counterargument. The Model describes how physical fields interact with each other in closed systems. It is silent about what happens when something outside the physical domain influences physical events—because it *assumes* nothing outside exists. This is appropriate methodology for physics, but it cannot settle the metaphysical question.
 
-See [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) for detailed treatment of why the conservation objection fails.
+See [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) for detailed treatment of why the conservation objection fails.
 
 ## The Contemporary Revival
 
@@ -149,7 +149,7 @@ The history shows that interactionism's fortunes track developments in physics m
 ## Further Reading
 
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The full contemporary position
-- [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Why the conservation objection fails
+- [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why the conservation objection fails
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Contemporary quantum mechanism
 - [measurement-problem](/concepts/measurement-problem/) — The unsolved puzzle at quantum mechanics' core
 - [causal-closure](/concepts/causal-closure/) — The principle and why it fails

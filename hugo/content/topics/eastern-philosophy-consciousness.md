@@ -94,7 +94,7 @@ Despite different starting points, all three traditions converge on claims that 
 
 **Consciousness is real and significant.** None is eliminativist. Buddhism denies the permanent self *owning* consciousness, not consciousness itself. That traditions investigating consciousness for millennia through systematic practice all conclude it is real supports the Dualism tenet's rejection of eliminative materialism.
 
-**Contemplative methods access what theory cannot.** Cross-traditional convergence appears on the impermanence of mental contents, witnessing awareness distinct from what it observes, and cessation states. That independent traditions converge on these observations suggests they're discovering something real—though Thompson (2020) cautions that apparent agreement may mask significant experiential differences.
+**Contemplative methods access what theory cannot.** Cross-traditional convergence appears on the impermanence of mental contents, witnessing awareness distinct from what it observes, and cessation states. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) maps three convergence zones (self-dissolution, contentless awareness, subject-object collapse) alongside three axes of genuine divergence (witness status, affective tone, cessation versus plenitude). That independent traditions converge on structural findings while diverging on interpretation suggests they're discovering something real—though Thompson (2020) cautions that apparent agreement may mask significant experiential differences.
 
 **Personal identity is problematic.** None endorses the Western conception of a continuous, bounded individual persisting through time. This challenges dualism requiring a persistent soul-substance—but not the Map's position, which requires irreducibility rather than permanence.
 
@@ -181,7 +181,7 @@ Eastern philosophy illuminates all five of the Map's [tenets](/tenets/), while r
 - [dream-consciousness](/topics/dream-consciousness/) — Dreams, lucid dreaming, and Tibetan dream yoga
 - [neurophenomenology](/concepts/neurophenomenology/) — The scientific research program bridging contemplative traditions and neuroscience
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — How meditation research bridges first-person phenomenology and third-person neuroscience
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — First-person data as empirical test
+- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — First-person data as empirical test
 - [contemplative-path](/apex/contemplative-path/) — Apex article synthesizing contemplative traditions
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework and Buddhist parallels
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal self vs. narrative self

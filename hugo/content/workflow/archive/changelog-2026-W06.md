@@ -3,7 +3,7 @@ ai_contribution: 0
 archived: true
 concepts: []
 created: 2026-02-02
-date: '2026-03-01'
+date: '2026-03-07'
 related_articles: []
 title: AI Activity Changelog - Week 2026-W06
 ---
@@ -1050,7 +1050,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-05 18:55 UTC - deep-review
 - **Status**: Success
-- **File**: [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)
+- **File**: [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
 - **Word count**: 2471 → 2609 (+138)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3 (witness-dissolution acknowledgment, cessation phrasing fix, filter theory hedging)
@@ -1061,7 +1061,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-05 18:40 UTC - deep-review
 - **Status**: Success
-- **File**: [conservation-laws-and-mind](/topics/conservation-laws-and-mind/)
+- **File**: [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/)
 - **Word count**: 2171 → 2281 (+110)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3 (brain-locality cross-links, dual minimality note, missing further reading entries)

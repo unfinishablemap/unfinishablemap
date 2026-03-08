@@ -151,7 +151,7 @@ Consciousness varies along multiple dimensions:
 
 **Level**: The degree of consciousness from deep anaesthesia through drowsiness to full alertness. Level affects which contents can enter consciousness and how richly they are experienced.
 
-**Mode**: Different kinds of consciousness with distinct phenomenology. [Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) (episodic memory) involves mental time travel; [witness-consciousness](/concepts/witness-consciousness/) (contemplative practice) involves awareness without content; [dream consciousness](/topics/dream-consciousness/) differs from waking perception.
+**Mode**: Different kinds of consciousness with distinct phenomenology. [Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) (episodic memory) involves mental time travel; [witness-consciousness](/concepts/witness-consciousness/) (contemplative practice) involves awareness without content; [dream consciousness](/topics/dream-consciousness/) differs from waking perception. See [types-of-consciousness](/concepts/types-of-consciousness/) for a comprehensive taxonomy of how consciousness varies structurally — across phenomenal character, access, monitoring, temporality, bandwidth, and unity.
 
 **[Temporal Structure](/concepts/temporal-consciousness/)**: Consciousness has intrinsic temporal organisation—the [specious present](/concepts/temporal-consciousness/), memory, anticipation. We don't experience point-instants but extended moments with retention and protention.
 
@@ -223,6 +223,7 @@ The Map's extensive coverage of consciousness includes:
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — What consciousness adds to cognition
 - [baseline-cognition](/concepts/baseline-cognition/) — Cognitive functions consciousness enables
 - [free-will](/topics/free-will/) — How conscious causation connects to libertarian free will
+- [types-of-consciousness](/concepts/types-of-consciousness/) — Comprehensive taxonomy of consciousness types and structural variations
 - [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — First-person evidence from contemplative practice
 
 ## References

@@ -82,7 +82,7 @@ Six philosopher personas applied: Property Dualist, Quantum Mind Theorist, Pheno
 
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Negative evidence for causal efficacy
 - [self-stultification](/concepts/self-stultification/) — Dedicated treatment of the key argument
-- [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Response to major objection
+- [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) — Response to major objection
 - [agent-causation](/concepts/agent-causation/) — How consciousness exercises causal powers
 
 ## Remaining Items

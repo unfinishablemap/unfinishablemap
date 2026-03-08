@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-03-06 21:38:00+00:00
+ai_modified: 2026-03-07 22:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[conceptual-impossibility]]'
 - '[[language-thought-boundary]]'
-- '[[convergent-cognitive-limits]]'
+- '[[evolved-cognitive-limits]]'
 - '[[topology-of-cognitive-failure]]'
 - '[[whether-real]]'
 - '[[limits-reveal-structure]]'
@@ -109,7 +109,7 @@ The framework void ultimately suggests that the Map is unfinishable not merely b
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where articulation fails within a framework
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — How the Map's own commitments generate framework-specific blind spots
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — The principle that what we cannot think reveals what kind of minds we are
-- [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level framework constraints
+- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level framework constraints
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/) — Whether artificial minds can transcend human framework limits
 
 ## References

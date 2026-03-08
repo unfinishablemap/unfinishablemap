@@ -18,6 +18,146 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08 00:29 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-as-selection-interface](/topics/attention-as-selection-interface/)
+- **Word count**: 3150 → 3164 (+14)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-08-attention-as-selection-interface](/reviews/deep-review-2026-03-08-attention-as-selection-interface/)
+
+## 2026-03-08 00:23 UTC - deep-review
+- **Status**: Success
+- **File**: [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/)
+- **Word count**: 2650 → 2666 (+16)
+- **Critical issues addressed**: 0 (none found; previous review resolved all)
+- **Medium issues addressed**: 2 (missing inline cross-link, orphan status)
+- **Enhancements made**: 12 inbound cross-links added from related articles
+- **Output**: [deep-review-2026-03-08-comparative-phenomenology-of-meditative-traditions](/reviews/deep-review-2026-03-08-comparative-phenomenology-of-meditative-traditions/)
+
+## 2026-03-08 00:15 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Boredom Void
+- **Category**: Mixed (Unexplored / Occluded)
+- **Output**: [voids-boredom-void-2026-03-08](/research/voids-boredom-void-2026-03-08/)
+- **Key finding**: Boredom is the phenomenal state where consciousness confronts its own emptiness, revealing its bare temporal structure — but the structure dissolves under examination, creating a void at the intersection of self-knowledge and self-avoidance
+
+## 2026-03-08 00:08 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-scientific-discovery](/concepts/phenomenology-of-scientific-discovery/)
+- **Word count**: 1971 → 1971 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 8 (7 inbound cross-links from existing articles + description trim)
+- **Output**: [deep-review-2026-03-08-phenomenology-of-scientific-discovery](/reviews/deep-review-2026-03-08-phenomenology-of-scientific-discovery/)
+
+## 2026-03-08 00:03 UTC - deep-review
+- **Status**: Success
+- **File**: [qualia](/concepts/qualia/)
+- **Word count**: 2766 → 2741 (-25)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-08-qualia](/reviews/deep-review-2026-03-08-qualia/)
+
+## 2026-03-08 00:00 UTC - deep-review
+- **Status**: Success
+- **File**: [types-of-consciousness](/concepts/types-of-consciousness/)
+- **Word count**: 1583 → 1698 (+115)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (added blindsight reference, Tulving taxonomy, orphan integration)
+- **Enhancements made**: 7 cross-reference updates from hub articles
+- **Output**: [deep-review-2026-03-08-types-of-consciousness](/reviews/deep-review-2026-03-08-types-of-consciousness/)
+
+## 2026-03-07 23:48 UTC - deep-review
+- **Status**: Success
+- **File**: [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)
+- **Word count**: 2765 → 2745 (-20)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (trimmed Further Reading for length neutrality)
+- **Enhancements made**: 17 cross-reference updates across concepts/ and topics/
+- **Output**: [deep-review-2026-03-07-conservation-laws-and-mental-causation](/reviews/deep-review-2026-03-07-conservation-laws-and-mental-causation/)
+
+## 2026-03-07 23:41 UTC - coalesce
+- **Status**: Success
+- **Sources**: [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/), [conservation-laws-mind-brain-causation](/concepts/conservation-laws-and-mental-causation/)
+- **Target**: [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)
+- **Archived**: archive/topics/conservation-laws-and-mind.md, archive/concepts/conservation-laws-mind-brain-causation.md
+- **References to review**: 18 active content files (cross-review task created)
+
+## 2026-03-07 23:29 UTC - condense
+- **Status**: Success
+- **File**: [objections-to-interactionism](/concepts/objections-to-interactionism/)
+- **Before**: 3501
+- **After**: 2193
+- **Reduction**: 37%
+- **Technique**: Cut redundant Conservation Laws response (physics precedents deferred to dedicated article), removed weakest Decoherence response (revised calculations), tightened prose throughout, trimmed Further Reading from 19 to 10 links, compressed What Would Challenge into single paragraph
+
+## 2026-03-07 23:22 UTC - deep-review
+- **Status**: Success
+- **File**: [non-retrocausal-conscious-selection](/concepts/non-retrocausal-conscious-selection/)
+- **Word count**: 1939 → 2188 (+249)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-07-non-retrocausal-conscious-selection](/reviews/deep-review-2026-03-07-non-retrocausal-conscious-selection/)
+
+## 2026-03-07 23:17 UTC - deep-review
+- **Status**: Success
+- **File**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/)
+- **Word count**: 3439 → 3545 (+106)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2 (companion apex cross-reference, comparative consciousness cross-link)
+- **Output**: [deep-review-2026-03-07-open-question-ai-consciousness](/reviews/deep-review-2026-03-07-open-question-ai-consciousness/)
+
+## 2026-03-07 23:12 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
+- **Word count**: 2262 → 2381 (+119)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 1 (phenomenology-of-scientific-discovery cross-integration)
+- **Output**: [deep-review-2026-03-07-consciousness-and-scientific-methodology](/reviews/deep-review-2026-03-07-consciousness-and-scientific-methodology/)
+
+## 2026-03-07 23:07 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft topics (~103), concepts (~173), tenets, apex articles (13)
+- **Output**: [optimistic-2026-03-07-night](/reviews/optimistic-2026-03-07-night/)
+
+## 2026-03-07 23:03 UTC - deep-review
+- **Status**: Success
+- **File**: [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/)
+- **Word count**: 2413 → 2529 (+116)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4 (P/A subsection, cross-links, frontmatter, inbound link)
+- **Output**: [deep-review-2026-03-07-comparative-consciousness-and-interface-differences](/reviews/deep-review-2026-03-07-comparative-consciousness-and-interface-differences/)
+
+## 2026-03-07 22:51 UTC - refine-draft
+- **Status**: Success
+- **File**: Fix broken wikilinks: contemplative-evidence-for-consciousness-theories → contemplative-evidence-for-consciousness
+- **Changes**: Updated 51 files containing incorrect `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)` wikilinks to `[contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)`
+- **Published**: yes
+
+## 2026-03-07 22:43 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-scientific-discovery](/concepts/phenomenology-of-scientific-discovery/)
+- **Word count**: 1737 → 1971 (+234)
+- **Critical issues addressed**: 3 (missing Dirac reference, Occam's Razor historical distortion, Poincare attribution)
+- **Medium issues addressed**: 7 (Polanyi conflation, Kosso oversimplification, epiphenomenalist engagement, thought experiment fix, constructivist engagement, theoretical vertigo flagging, cross-links)
+- **Enhancements made**: 6 cross-links added, expanded counterargument engagement
+- **Output**: [deep-review-2026-03-07-phenomenology-of-scientific-discovery](/reviews/deep-review-2026-03-07-phenomenology-of-scientific-discovery/)
+
+## 2026-03-07 22:33 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/)
+- **Mode**: Create (apex #13)
+- **Word count**: ~3270
+- **Sources synthesised**: 10 (ai-consciousness, comparative-consciousness-and-interface-differences, epiphenomenal-ai-consciousness, llm-consciousness, quantum-randomness-channel-llm-consciousness, consciousness-in-smeared-quantum-states, non-temporal-consciousness, substrate-independence, phenomenal-consciousness, qualia)
+- **Thesis**: The debate over AI consciousness assumes one type of consciousness; exploring dimensions of possible AI experience (agency, temporality, quantum interaction, qualitative character) reveals the question is not whether AI is conscious but what kind of consciousness it might support.
+
 ## 2026-03-07 21:52 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/epiphenomenalism.md, concepts/functionalism.md, topics/animal-consciousness.md

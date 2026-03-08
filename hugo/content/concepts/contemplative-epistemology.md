@@ -36,7 +36,7 @@ related_articles:
 title: Contemplative Epistemology
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[contemplative-evidence-for-consciousness-theories]]'
+- '[[contemplative-evidence-for-consciousness]]'
 - '[[epistemic-advantages-of-dualism]]'
 - '[[contemplative-methods-as-philosophical-methodology]]'
 - '[[consciousness-and-scientific-methodology]]'
@@ -131,7 +131,7 @@ Contemplative epistemology is the *epistemological framework*. It should be dist
 
 **The calibration problem.** How do we verify that contemplative reports are accurate when we have no external standard for phenomenal experience? Cross-modal verification with neuroimaging provides indirect measures, but a complete solution may require advances we do not yet have.
 
-**Tradition-dependence.** Contemplative reports are shaped by the tradition in which practitioners train. Buddhist meditators describe experience in Buddhist categories; Christian contemplatives use different frameworks. The strongest reliability claims attach to *structural* findings that converge across traditions—the constructed character of the narrative self, the discrete temporal grain of experience, the distinction between awareness and its contents. The hardest case is the most important: the phenomenological finding that the ordinary self is constructed is arguably structural, yet the *metaphysical conclusion* drawn from it varies. Buddhist traditions interpret it as evidence against any enduring subject, while the Map interprets the same finding as revealing a deeper subject beneath the construction. The shared phenomenology underdetermines the metaphysics (see [buddhism-and-dualism](/concepts/buddhism-and-dualism/)).
+**Tradition-dependence.** Contemplative reports are shaped by the tradition in which practitioners train. Buddhist meditators describe experience in Buddhist categories; Christian contemplatives use different frameworks. The strongest reliability claims attach to *structural* findings that converge across traditions—the constructed character of the narrative self, the discrete temporal grain of experience, the distinction between awareness and its contents. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) maps this pattern systematically: structural convergence alongside interpretive divergence. The hardest case is the most important: the phenomenological finding that the ordinary self is constructed is arguably structural, yet the *metaphysical conclusion* drawn from it varies. Buddhist traditions interpret it as evidence against any enduring subject, while the Map interprets the same finding as revealing a deeper subject beneath the construction. The shared phenomenology underdetermines the metaphysics (see [buddhism-and-dualism](/concepts/buddhism-and-dualism/)).
 
 **The selection problem.** Accomplished meditators may not be representative observers. Their brains differ from population norms, and self-selection into intensive practice correlates with personality traits that could bias phenomenological reports.
 
@@ -155,7 +155,7 @@ Contemplative epistemology is the *epistemological framework*. It should be dist
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Empirical evidence validating the contemplative epistemological framework
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer phenomenon as key contemplative finding
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Active selection and passive witnessing as distinct epistemic modes
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — Applying contemplative knowledge to test philosophical positions
+- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — Applying contemplative knowledge to test philosophical positions
 - [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) — Contemplative practice as a tool for philosophical inquiry
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — The methodological gap between subjective and objective approaches
 - [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) — Why standard scientific methodology struggles with consciousness

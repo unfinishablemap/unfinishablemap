@@ -29,7 +29,7 @@ related_articles:
 - '[[integrated-information-theory-critique]]'
 - '[[the-interface-specification-problem]]'
 - '[[consciousness-and-causal-powers]]'
-- '[[conservation-laws-and-mind]]'
+- '[[conservation-laws-and-mental-causation]]'
 - '[[metaphysics-of-information-under-dualism]]'
 title: Consciousness and the Physics of Information
 topics:
@@ -108,7 +108,7 @@ The physics of information provides the strongest available framework for the Ma
 
 The **Dualism** tenet holds that consciousness is not reducible to physical processes. The informational turn in physics does not contradict this—it reveals that even physics itself may not bottom out in "stuff" but in something more abstract. If the physical world is informational rather than material, the dualism at stake is not between mind and matter but between mind and information-structure. This is a more tractable distinction: information-structure describes *what* without capturing *how it feels*, and consciousness supplies what structure alone cannot.
 
-The **Minimal Quantum Interaction** and **Bidirectional Interaction** tenets gain support from treating information as the interface medium. Quantum measurement is already an informational event—the transition from superposition to definite outcome is the acquisition of a bit. If consciousness participates in measurement, it participates through information. The thermodynamic costs of the neural computation through which consciousness acts are paid by the brain's metabolic energy, not injected from outside—see [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) for how the Map addresses the energy conservation objection.
+The **Minimal Quantum Interaction** and **Bidirectional Interaction** tenets gain support from treating information as the interface medium. Quantum measurement is already an informational event—the transition from superposition to definite outcome is the acquisition of a bit. If consciousness participates in measurement, it participates through information. The thermodynamic costs of the neural computation through which consciousness acts are paid by the brain's metabolic energy, not injected from outside—see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) for how the Map addresses the energy conservation objection.
 
 The **No Many Worlds** tenet connects directly. Many-worlds avoids collapse by treating all outcomes as real, which means all informational branches persist. The Map insists that one outcome becomes actual—that a definite bit is acquired. Wheeler's late-career position aligned with this: his "it from bit" frames measurement as producing a single answer to a yes-or-no question, not a superposition of answers. (Wheeler's relationship with many-worlds was complicated—as Everett's PhD advisor he initially supported the interpretation before distancing himself from it, calling it "too great a load of metaphysical baggage" in 1980. His "it from bit" framework, developed later, emphasises definite measurement outcomes.)
 
@@ -124,7 +124,7 @@ The **No Many Worlds** tenet connects directly. Many-worlds avoids collapse by t
 - [prebiotic-collapse](/concepts/prebiotic-collapse/)
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/)
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
-- [conservation-laws-and-mind](/topics/conservation-laws-and-mind/)
+- [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — The ontological status of information under dualist metaphysics
 
 ## References

@@ -27,7 +27,7 @@ modified: *id001
 related_articles:
 - '[[delegatory-dualism]]'
 - '[[tenets]]'
-- '[[conservation-laws-and-mind]]'
+- '[[conservation-laws-and-mental-causation]]'
 - '[[bradford-saad-delegatory-dualism-2026-01-28]]'
 title: Causal Delegation
 topics:

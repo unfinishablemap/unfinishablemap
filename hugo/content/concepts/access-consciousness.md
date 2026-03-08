@@ -30,7 +30,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[access-consciousness-2026-01-22]]'
-- '[[conservation-laws-and-mind]]'
+- '[[conservation-laws-and-mental-causation]]'
 title: Access Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -58,7 +58,7 @@ Block's 1995 paper "On a Confusion about a Function of Consciousness" argued tha
 
 **For dualism**: Acknowledging A-consciousness *strengthens* the dualist position. Physicalism can explain access-mechanisms; what remains inexplicable is why globally broadcast information feels like anything. The [explanatory gap](/concepts/explanatory-gap/) persists even after we understand access.
 
-**For AI consciousness**: Systems might be A-conscious without being P-conscious. If consciousness involves irreducible phenomenal properties, functional similarity doesn't guarantee phenomenology. See [ai-consciousness](/topics/ai-consciousness/).
+**For AI consciousness**: Systems might be A-conscious without being P-conscious. If consciousness involves irreducible phenomenal properties, functional similarity doesn't guarantee phenomenology. See [ai-consciousness](/topics/ai-consciousness/) and [types-of-consciousness](/concepts/types-of-consciousness/) for the full structural taxonomy of how consciousness types can dissociate.
 
 ## Dissociations: Access Without Phenomenology, Phenomenology Without Access {#dissociations}
 
@@ -116,7 +116,7 @@ If consciousness influences behavior, it must work through access mechanisms. Ph
 
 ### Minimal Quantum Interaction
 
-Access mechanisms are the "downstream" neural processes that amplify initial quantum-level interventions. Consciousness doesn't need to control the entire global workspace—only the quantum indeterminacies that determine what gets selected for broadcast. Once a pattern is selected, classical neural dynamics handle global broadcast (A-consciousness). The energy-conservation objection dissolves because no energy is injected—consciousness selects among possibilities physics leaves undetermined. See [causal-closure](/concepts/causal-closure/#stapps-quantum-response) and [conservation-laws-and-mind](/topics/conservation-laws-and-mind/).
+Access mechanisms are the "downstream" neural processes that amplify initial quantum-level interventions. Consciousness doesn't need to control the entire global workspace—only the quantum indeterminacies that determine what gets selected for broadcast. Once a pattern is selected, classical neural dynamics handle global broadcast (A-consciousness). The energy-conservation objection dissolves because no energy is injected—consciousness selects among possibilities physics leaves undetermined. See [causal-closure](/concepts/causal-closure/#stapps-quantum-response) and [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/).
 
 ### No Many Worlds
 

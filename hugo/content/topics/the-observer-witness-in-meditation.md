@@ -25,7 +25,7 @@ last_deep_review: 2026-02-05 13:39:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[contemplative-evidence-for-consciousness-theories]]'
+- '[[contemplative-evidence-for-consciousness]]'
 - '[[meditation-observer-witness-phenomenon-2026-01-18]]'
 title: The Observer-Witness in Meditation
 topics:
@@ -129,7 +129,7 @@ This matters for the Map's interpretation. Buddhism uses the same phenomenologic
 
 **Samkhya** distinguishes pure consciousness (*purusha*) from material nature (*prakriti*). The witness is purusha observing prakriti's modifications—including mind, ego, and body. Liberation comes through *viveka*—discriminating between witness and witnessed.
 
-These frameworks disagree on metaphysics but converge on phenomenology: consciousness can adopt a mode of pure observation. The Map takes this cross-traditional convergence seriously as data—not religious doctrine but phenomenological report. What the data *means* metaphysically—whether it reveals an irreducible observer (Vedanta, the Map), the absence of any observer (Buddhism), or the distinction of consciousness from matter (Samkhya)—remains a philosophical choice, not a phenomenological discovery. The convergence establishes the phenomenon; interpretation requires additional argument.
+These frameworks disagree on metaphysics but converge on phenomenology: consciousness can adopt a mode of pure observation. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) maps these convergences—and the divergences on affective tone, witness status, and cessation versus plenitude—in systematic detail. The Map takes this cross-traditional convergence seriously as data—not religious doctrine but phenomenological report. What the data *means* metaphysically—whether it reveals an irreducible observer (Vedanta, the Map), the absence of any observer (Buddhism), or the distinction of consciousness from matter (Samkhya)—remains a philosophical choice, not a phenomenological discovery. The convergence establishes the phenomenon; interpretation requires additional argument.
 
 ## Challenges to the Witness Framework
 
@@ -201,7 +201,7 @@ The witness mode is not an escape from consciousness or a dissolution into uncon
 
 - [witness-consciousness](/concepts/witness-consciousness/) — The concept of *sakshi* and its implications
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Detailed treatment of the two modes with neural correlates
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — How meditation phenomenology supports dualism
+- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — How meditation phenomenology supports dualism
 - [attention-as-interface](/concepts/attention-as-interface/) — The selection mechanism in detail
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effortful attention
 - [self-and-consciousness](/concepts/self-and-consciousness/) — How the self relates to awareness

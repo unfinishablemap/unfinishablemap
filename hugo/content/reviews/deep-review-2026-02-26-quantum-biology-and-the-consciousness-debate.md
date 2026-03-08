@@ -33,7 +33,7 @@ None. The article contains no factual errors, attribution mistakes, internal con
 
 2. **Missing cross-links for binding problem and unity of consciousness** (addressed): These concepts were mentioned in "What Would Change the Picture?" without linking to existing dedicated pages. Added wikilinks to [binding-problem](/concepts/binding-problem/) and [unity-of-consciousness](/concepts/unity-of-consciousness/).
 
-3. **Missing cross-link for conservation laws** (addressed): The "Why Does This Matter for Consciousness?" section mentioned conservation laws without linking to the new [conservation-laws-mind-brain-causation](/concepts/conservation-laws-mind-brain-causation/) concept page. Added wikilink.
+3. **Missing cross-link for conservation laws** (addressed): The "Why Does This Matter for Consciousness?" section mentioned conservation laws without linking to the new [conservation-laws-mind-brain-causation](/concepts/conservation-laws-and-mental-causation/) concept page. Added wikilink.
 
 ### Counterarguments Considered
 
@@ -74,13 +74,13 @@ The Zeno effect biological precedent claim ("the same mechanism that Stapp propo
 
 1. **Precision on classical computation claim**: "no longer default" → "no longer unchallenged" — more epistemically accurate without losing the argument's force.
 
-2. **Cross-links added**: [binding-problem](/concepts/binding-problem/), [unity-of-consciousness](/concepts/unity-of-consciousness/), [conservation-laws-mind-brain-causation](/concepts/conservation-laws-mind-brain-causation/) — strengthens the article's integration with the Map's concept network.
+2. **Cross-links added**: [binding-problem](/concepts/binding-problem/), [unity-of-consciousness](/concepts/unity-of-consciousness/), [conservation-laws-mind-brain-causation](/concepts/conservation-laws-and-mental-causation/) — strengthens the article's integration with the Map's concept network.
 
 ### Cross-links Added
 
 - [binding-problem](/concepts/binding-problem/) (in "What Would Change the Picture?" section)
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) (in "What Would Change the Picture?" section)
-- [conservation-laws-mind-brain-causation](/concepts/conservation-laws-mind-brain-causation/) (in "Why Does This Matter for Consciousness?" section)
+- [conservation-laws-mind-brain-causation](/concepts/conservation-laws-and-mental-causation/) (in "Why Does This Matter for Consciousness?" section)
 
 ## Remaining Items
 

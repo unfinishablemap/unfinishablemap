@@ -38,7 +38,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[eastern-philosophy-consciousness]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'
-- '[[contemplative-evidence-for-consciousness-theories]]'
+- '[[contemplative-evidence-for-consciousness]]'
 - '[[interaction-problem-in-non-western-philosophy]]'
 - '[[the-convergence-argument-for-dualism]]'
 - '[[philosophy-of-perception-under-dualism]]'
@@ -161,7 +161,7 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 - [agent-causation](/concepts/agent-causation/) — The framework Nyaya independently articulates
 - [substance-property-dualism](/concepts/substance-property-dualism/) — Distinguishing forms of dualism
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal self vs. narrative self
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — First-person data as empirical test
+- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — First-person data as empirical test
 - [tenets](/tenets/) — The Map's foundational commitments
 - [dualism](/concepts/dualism/) — The Map's core commitment, independently affirmed by all three schools
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — The epistemological structure Indian philosophy exemplifies

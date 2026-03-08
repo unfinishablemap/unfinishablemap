@@ -57,7 +57,7 @@ Inbound links added from these 10 articles:
 - [The Topology of Cognitive Failure](/voids/topology-of-cognitive-failure/) — Linked the defining phrase "This is apophatic cartography" + added to Further Reading
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Added to Further Reading (first entry) + inline link in "Approaching the Edge" section
 - [The Epistemology of Cognitive Limits](/voids/epistemology-of-cognitive-limits/) — Inline link in "The Apophatic Method" section + added to Further Reading
-- [Convergent Cognitive Limits](/voids/evolved-cognitive-limits/) — Added to Further Reading
+- [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/) — Added to Further Reading
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — Added to Further Reading
 - [Whether the Voids Are Real](/voids/whether-real/) — Added to Further Reading
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — Added to Further Reading

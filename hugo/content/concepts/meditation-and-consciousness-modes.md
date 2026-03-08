@@ -151,6 +151,8 @@ The Tibetan Buddhist tradition's *śamatha* meditation distinguishes nine progre
 
 The Zen tradition's *shikantaza* ("just sitting") represents radical witness mode: "not trying to become a buddha" but simply being present. Dōgen described this as "dropping body and mind" (*shinjin datsuraku*)—neither actively selecting nor passively observing in ordinary senses, but a mode beyond both.
 
+The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) extends this cross-traditional analysis further, identifying three convergence zones (self-dissolution, contentless awareness, subject-object collapse) alongside divergences that illuminate how different traditions emphasise different aspects of the selection-witnessing continuum.
+
 ## Relation to the Quantum Zeno Mechanism
 
 How does passive witnessing relate to Stapp's quantum Zeno effect? The Zeno mechanism explains selection: rapid observation holds desired neural patterns. But what happens when consciousness stops selecting?

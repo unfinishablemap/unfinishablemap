@@ -22,7 +22,7 @@ concepts:
 - '[[delegatory-dualism]]'
 - '[[preemption]]'
 - '[[quantum-indeterminacy-free-will]]'
-- '[[conservation-laws-mind-brain-causation]]'
+- '[[conservation-laws-and-mental-causation]]'
 created: 2026-01-14
 date: &id001 2026-02-15
 description: 'Causal closure claims every physical event has sufficient physical cause.
@@ -35,7 +35,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[interactionist-dualism]]'
-- '[[conservation-laws-and-mind]]'
+- '[[conservation-laws-and-mental-causation]]'
 - '[[metaphysics-of-information-under-dualism]]'
 - '[[arguments/materialism-argument]]'
 title: Causal Closure of the Physical
@@ -77,7 +77,7 @@ The Map denies causal closure.
 
 The principle has intuitive appeal:
 
-**Conservation laws:** If mind could add to physical effects, it would inject energy—but energy is conserved. However, as [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) demonstrates, this objection rests on misunderstandings: conservation is local and conditional (derived from symmetries via Noether's theorem), and assuming it holds in brains presupposes no mental influences exist—begging the question. Moreover, consciousness may influence outcomes without injecting energy at all, by *selecting* among quantum-permitted outcomes.
+**Conservation laws:** If mind could add to physical effects, it would inject energy—but energy is conserved. However, as [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) demonstrates, this objection rests on misunderstandings: conservation is local and conditional (derived from symmetries via Noether's theorem), and assuming it holds in brains presupposes no mental influences exist—begging the question. Moreover, consciousness may influence outcomes without injecting energy at all, by *selecting* among quantum-permitted outcomes.
 
 **Scientific success:** Physics explains physical events without needing to invoke non-physical causes. Every time science investigates a phenomenon, it finds physical mechanisms. Mental causation seems like a "gap" that science will eventually fill.
 
@@ -207,8 +207,7 @@ This is not "god of the gaps" reasoning. Physics *describes* a gap—between qua
 
 ## Further Reading
 
-- [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Why the energy conservation objection fails; selection-not-injection framework
-- [conservation-laws-mind-brain-causation](/concepts/conservation-laws-mind-brain-causation/) — Entanglement, boundary conditions, and other precedents for causation without energy transfer
+- [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why the energy conservation objection fails; selection-not-injection framework and precedents for causation without energy transfer
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's framework avoiding overdetermination through preemption
 - [luck-objection](/concepts/luck-objection/) — The challenge that undetermined choices are merely random; consciousness-as-selector response
 - [mysterianism](/concepts/mysterianism/) — Why the mechanism of mind-matter interaction may exceed human comprehension

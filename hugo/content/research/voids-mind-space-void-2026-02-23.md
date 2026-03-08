@@ -19,7 +19,7 @@ related_articles:
 - '[[tenets]]'
 - '[[other-minds-void]]'
 - '[[alien-minds-void-explorers]]'
-- '[[convergent-cognitive-limits]]'
+- '[[evolved-cognitive-limits]]'
 - '[[conceptual-acquisition-limits]]'
 - '[[scale-void]]'
 target_section: voids

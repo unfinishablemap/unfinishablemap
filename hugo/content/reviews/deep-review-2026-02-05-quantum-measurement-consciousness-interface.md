@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 
-- **C1: "Equi-energetic" oversimplification** (line 89): The spin example claimed spin-up and spin-down are equi-energetic, but this is only true without an external magnetic field — which is absent in realistic experimental setups. **Resolution**: Qualified the claim ("In certain measurement scenarios, the possible outcomes are equi-energetic"), removed the spin example, and added cross-link to [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) for the detailed Noether's theorem argument.
+- **C1: "Equi-energetic" oversimplification** (line 89): The spin example claimed spin-up and spin-down are equi-energetic, but this is only true without an external magnetic field — which is absent in realistic experimental setups. **Resolution**: Qualified the claim ("In certain measurement scenarios, the possible outcomes are equi-energetic"), removed the spin example, and added cross-link to [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) for the detailed Noether's theorem argument.
 
 - **C2: Wigner attribution dropped qualifier** (line 127): Article said Wigner abandoned consciousness-collapse "calling it 'solipsism'" — omitting that he was also convinced by Zeh's decoherence work. **Resolution**: Added both motivations: "partly on grounds of solipsism, and partly because Zeh's decoherence work convinced him that environmental interaction could explain apparent collapse without invoking consciousness."
 
@@ -70,7 +70,7 @@ topics: []
 ### Enhancements Made
 
 - Acknowledged disanalogy between selection and existence gaps (prevents equivocation charge)
-- Added [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) cross-links (strengthens energy conservation argument)
+- Added [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) cross-links (strengthens energy conservation argument)
 - Added [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) cross-link in MWI section
 - Added [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) cross-link
 - Qualified Wigner attribution with decoherence motivation
@@ -81,7 +81,7 @@ topics: []
 
 ### Cross-links Added
 
-- [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) (causal closure loophole section + Relation to Site Perspective)
+- [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) (causal closure loophole section + Relation to Site Perspective)
 - [indexical problem](/topics/indexical-identity-quantum-measurement/) (MWI section)
 - [quantum indeterminacy](/concepts/quantum-indeterminacy-free-will/) (genuine indeterminacy section)
 

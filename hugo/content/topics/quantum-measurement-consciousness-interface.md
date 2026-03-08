@@ -90,7 +90,7 @@ But at quantum measurement, the Map holds that causal closure breaks down. On st
 
 This creates what the Map calls the **causal closure loophole**: physics determines ensemble statistics but leaves individual outcomes unexplained. Features of this loophole:
 
-**No energy required.** Selecting among outcomes need not inject energy. In certain measurement scenarios, the possible outcomes are equi-energetic, and biasing toward one doesn't violate conservation laws. (The relationship between consciousness-selection and conservation principles is subtle; see [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) for the detailed argument involving Noether's theorem.)
+**No energy required.** Selecting among outcomes need not inject energy. In certain measurement scenarios, the possible outcomes are equi-energetic, and biasing toward one doesn't violate conservation laws. (The relationship between consciousness-selection and conservation principles is subtle; see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) for the detailed argument involving Noether's theorem.)
 
 **Statistical invisibility.** Any consciousness-mediated selection must preserve Born statistics over ensembles, or it would be empirically detectable. The influence must be invisible to third-person physics while determining first-person outcomes.
 
@@ -203,7 +203,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 
 **[Dualism](/tenets/#dualism)**: The measurement problem reveals a gap in physical explanation that no purely physical account has closed. Consciousness remains a candidate for what determines individual outcomes—something physics describes but doesn't determine.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The causal closure loophole provides exactly the opening for minimal consciousness-physics interaction: selecting among undetermined outcomes without violating [conservation laws](/topics/conservation-laws-and-mind/).
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The causal closure loophole provides exactly the opening for minimal consciousness-physics interaction: selecting among undetermined outcomes without violating [conservation laws](/concepts/conservation-laws-and-mental-causation/).
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness selects outcomes, then conscious choices make a difference to what happens physically. This preserves the causal efficacy that [epiphenomenalism](/concepts/epiphenomenalism/) denies. This is central to [free-will](/topics/free-will/): genuine agency requires that our conscious choices make a difference to what happens.
 
@@ -220,7 +220,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-collapse interaction
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Born probabilities as interface structure
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and consciousness-modulated collapse
-- [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Energy conservation and the causal closure loophole
+- [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Energy conservation and the causal closure loophole
 - [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/) — The causal closure argument
 - [consciousness-and-agency](/apex/consciousness-and-agency/) — Apex synthesis of consciousness and causal efficacy
 - [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — The identity claim: the measurement problem is a species of hard problem

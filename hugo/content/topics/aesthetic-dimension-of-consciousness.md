@@ -41,7 +41,7 @@ last_deep_review: 2026-02-17 13:12:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[contemplative-evidence-for-consciousness-theories]]'
+- '[[contemplative-evidence-for-consciousness]]'
 - '[[consciousness-and-aesthetic-creation]]'
 - '[[binding-and-beauty]]'
 - '[[aesthetic-void]]'
@@ -74,7 +74,7 @@ Aesthetic experience is not confined to art galleries. It suffuses ordinary cons
 
 **Temporal experience**: Some moments feel rushed, others languid. Musical rhythm creates tension and release that are intrinsically aesthetic. [The flow of time as experienced](/concepts/temporal-consciousness/) carries aesthetic qualities—the satisfying closure of a completed task, the discomfort of interrupted anticipation.
 
-**Abstract thought**: Ideas themselves have aesthetic character. A mathematical proof can be *elegant* or *clunky*. An argument can be *beautiful* or *ugly* independent of its validity. Einstein reported that general relativity "felt right" before he could prove it; mathematicians speak of proofs that are "too ugly to be true." The aesthetic dimension extends into pure cognition.
+**Abstract thought**: Ideas themselves have aesthetic character. A mathematical proof can be *elegant* or *clunky*. An argument can be *beautiful* or *ugly* independent of its validity. Einstein reported that general relativity "felt right" before he could prove it; mathematicians speak of proofs that are "too ugly to be true." The [phenomenology of scientific discovery](/concepts/phenomenology-of-scientific-discovery/) examines how this aesthetic sense causally guides theory choice — Dirac's insistence that beauty matters more than experimental fit, Poincare's "special aesthetic sensibility" as the gateway to mathematical creativity. The aesthetic dimension extends into pure cognition.
 
 **Emotional experience**: [Emotions](/topics/emotional-consciousness/) are not merely valenced (pleasant/unpleasant) but aesthetically textured. Joy can be *radiant* or *quiet*; sadness can be *poignant* or *heavy*; anger can be *sharp* or *simmering*. These qualities are not reducible to hedonic tone.
 
@@ -224,9 +224,10 @@ The aesthetic dimension of consciousness supports the Map's [foundational commit
 - [the-case-for-dualism](/concepts/the-case-for-dualism/) — The standard philosophical case, which aesthetic evidence supplements
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what physical information leaves out
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability arguments for dualism
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — Other experiential evidence for consciousness theories
+- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — Other experiential evidence for consciousness theories
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt quality of thought, including aesthetic judgment
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Aesthetic judgment in the creative process
+- [phenomenology-of-scientific-discovery](/concepts/phenomenology-of-scientific-discovery/) — Aesthetic experience guiding scientific theory choice
 - [qualia](/concepts/qualia/) — The broader problem of qualitative experience
 - [phenomenal unity](/concepts/unity-of-consciousness/) — The binding problem and aesthetic wholes
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of conscious experience

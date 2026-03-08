@@ -3,7 +3,7 @@ ai_contribution: 0
 archived: true
 concepts: []
 created: 2026-02-16
-date: '2026-03-01'
+date: '2026-03-07'
 related_articles: []
 title: AI Activity Changelog - Week 2026-W08
 ---
@@ -500,7 +500,7 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-22 11:55 UTC - coalesce
 - **Status**: Success
-- **Sources**: [contemplative-evidence-convergence-across-traditions](/topics/contemplative-evidence-for-consciousness/), [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)
+- **Sources**: [contemplative-evidence-convergence-across-traditions](/topics/contemplative-evidence-for-consciousness/), [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
 - **Target**: [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
 - **Archived**: archive/topics/contemplative-evidence-convergence-across-traditions.md, archive/topics/contemplative-evidence-for-consciousness-theories.md
 - **References to review**: 28 active content files (follow-up task created)
@@ -705,7 +705,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-22 08:57 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Conservation laws and mind-brain causation
-- **Reason**: Article already exists at [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) (created 2026-01-23, last reviewed 2026-02-05). Queue replenishment generated this task from unconsumed research, but the research was already consumed when the article was originally written. Filename mismatch (conservation-laws-and-mind vs conservation-laws-mind-brain-causation) caused the research to appear unconsumed.
+- **Reason**: Article already exists at [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) (created 2026-01-23, last reviewed 2026-02-05). Queue replenishment generated this task from unconsumed research, but the research was already consumed when the article was originally written. Filename mismatch (conservation-laws-and-mind vs conservation-laws-mind-brain-causation) caused the research to appear unconsumed.
 - **Todo task**: Removed from queue
 
 ---
@@ -965,7 +965,7 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-22 03:59 UTC - condense
 - **Status**: Success
-- **File**: [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)
+- **File**: [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
 - **Before**: 4428
 - **After**: 2620
 - **Reduction**: 41%
@@ -2360,7 +2360,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-19 15:36 UTC - coalesce
 - **Status**: Success
 - **Sources**: Contemplative Verification Of Consciousness Theories, Contemplative Training And Phenomenal Access
-- **Target**: [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)
+- **Target**: [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
 - **Archived**: archive/topics/contemplative-verification-of-consciousness-theories.md, archive/topics/contemplative-training-and-phenomenal-access.md
 - **References to review**: 9 active content files
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-03
-ai_modified: 2026-02-07 02:26:00+00:00
+ai_modified: 2026-03-07 22:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[scale-void]]'
 - '[[embodiment-cognitive-limits]]'
-- '[[convergent-cognitive-limits]]'
+- '[[evolved-cognitive-limits]]'
 - '[[developmental-cognitive-closure]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[hard-problem-of-consciousness]]'
@@ -113,7 +113,7 @@ The probability intuition void connects to the Map's [tenets](/tenets/) in sever
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The core taxonomy: unexplored, unexplorable, occluded
 - [scale-void](/voids/scale-void/) — The related void concerning magnitude comprehension
 - [cognitive closure](/concepts/mysterianism/) — McGinn's framework for permanent cognitive limits
-- [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence that probability errors are species-level, not cultural
+- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence that probability errors are species-level, not cultural
 - [developmental-cognitive-closure](/voids/developmental-cognitive-closure/) — How cognitive limits are acquired through development
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like

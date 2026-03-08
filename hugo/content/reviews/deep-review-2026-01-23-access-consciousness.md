@@ -53,7 +53,7 @@ topics: []
 ### Cross-links Added
 - [mysterianism-cognitive-closure](/concepts/mysterianism/) - in Dualism tenet section
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) - in No Many Worlds section
-- [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) - in Minimal Quantum Interaction section
+- [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) - in Minimal Quantum Interaction section
 
 ## Remaining Items
 

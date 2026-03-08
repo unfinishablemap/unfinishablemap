@@ -41,7 +41,7 @@ topics: []
 - **Observer equivocation**: Article slid from "observer" in physics (measuring apparatus) to "observer" in philosophy (conscious subject). Resolution: Added clarification that "observation" in Wheeler's sense means physical interaction producing a record, with note that what ultimately constitutes observation remains open.
 - **"As the philosophical analysis of measurement suggests"** presented a contested minority position as consensus. Resolution: Rewritten to "as some interpretations of the measurement problem suggest—a contested position, associated with von Neumann and Stapp rather than mainstream physics."
 - **Black hole section performed argumentative work it disclaimed**. Resolution: Rewritten to "The Map treats this as a suggestive observation, not a load-bearing argument" with reframed epiphenomenalism diagnostic.
-- **Energy conservation claim**: "Landauer's principle ensures this participation has physical consequences without requiring energy injection" was physically confused. Resolution: Replaced with cross-reference to [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) for the actual energy conservation treatment.
+- **Energy conservation claim**: "Landauer's principle ensures this participation has physical consequences without requiring energy injection" was physically confused. Resolution: Replaced with cross-reference to [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) for the actual energy conservation treatment.
 - **"Quantum biasing" undefined**: The central mechanism is unnamed and unspecified. Resolution: Added cross-references to [quantum-consciousness](/concepts/quantum-consciousness/) and [the-interface-specification-problem](/topics/the-interface-specification-problem/).
 
 ### Counterarguments Considered
@@ -67,7 +67,7 @@ topics: []
 ### Enhancements Made
 
 - Added decoherence engagement paragraph with Tegmark citation
-- Added cross-links to [decoherence](/concepts/decoherence/), [epiphenomenalism](/concepts/epiphenomenalism/), [attention-as-interface](/concepts/attention-as-interface/), [the-interface-specification-problem](/topics/the-interface-specification-problem/), [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), [conservation-laws-and-mind](/topics/conservation-laws-and-mind/)
+- Added cross-links to [decoherence](/concepts/decoherence/), [epiphenomenalism](/concepts/epiphenomenalism/), [attention-as-interface](/concepts/attention-as-interface/), [the-interface-specification-problem](/topics/the-interface-specification-problem/), [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/)
 - Corrected Wheeler quote to include full qualifiers
 - Replaced unverified Chalmers quote with verified quote
 - Added nuanced Wheeler-MWI history
@@ -82,7 +82,7 @@ topics: []
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/)
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
-- [conservation-laws-and-mind](/topics/conservation-laws-and-mind/)
+- [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/)
 - [quantum-consciousness](/concepts/quantum-consciousness/) (inline)
 
 ## Remaining Items

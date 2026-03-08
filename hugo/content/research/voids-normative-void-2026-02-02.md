@@ -18,7 +18,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[alien-minds-void-explorers]]'
-- '[[convergent-cognitive-limits]]'
+- '[[evolved-cognitive-limits]]'
 - '[[embodiment-cognitive-limits]]'
 - '[[conceptual-impossibility]]'
 - '[[apophatic-approaches]]'

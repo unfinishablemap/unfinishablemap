@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-31
-ai_modified: 2026-02-24 18:44:00+00:00
+ai_modified: 2026-03-07 22:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -27,7 +27,7 @@ related_articles:
 - '[[whether-real]]'
 - '[[synesthetic-void]]'
 - '[[adaptive-cognitive-limits]]'
-- '[[convergent-cognitive-limits]]'
+- '[[evolved-cognitive-limits]]'
 - '[[the-silence-void]]'
 title: Three Kinds of Void
 topics: []
@@ -92,5 +92,5 @@ The three-part taxonomy organises investigation but does not confine it. The [sy
 - [defended-territory](/voids/defended-territory/) — Specific tests for whether territory is defended
 - [apophatic-cartography](/voids/apophatic-cartography/) — Formalising criteria for distinguishing genuine closure
 - [adaptive-cognitive-limits](/voids/evolved-cognitive-limits/) — Blind spots as evolutionary features, not defects
-- [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level limits
+- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level limits
 - [the-silence-void](/voids/the-silence-void/) — Territory accessible only through the cessation of thought

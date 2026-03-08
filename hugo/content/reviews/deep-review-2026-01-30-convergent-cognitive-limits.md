@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-30
-**Article**: [Convergent Cognitive Limits](/voids/evolved-cognitive-limits/)
+**Article**: [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

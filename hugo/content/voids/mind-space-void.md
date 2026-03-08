@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-02-25 18:27:00+00:00
+ai_modified: 2026-03-07 22:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ related_articles:
 - '[[tenets]]'
 - '[[other-minds-void]]'
 - '[[alien-minds-void-explorers]]'
-- '[[convergent-cognitive-limits]]'
+- '[[evolved-cognitive-limits]]'
 - '[[conceptual-acquisition-limits]]'
 - '[[scale-void]]'
 - '[[intrinsic-nature-void]]'
@@ -97,7 +97,7 @@ The mind-space void connects to all five of the Map's [tenets](/tenets/).
 - [voids](/voids/) — The framework for investigating cognitive limits
 - [other-minds-void](/voids/other-minds-void/) — The sealed privacy of individual consciousness
 - [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — What radically different minds might reveal
-- [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level cognitive constraints
+- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level cognitive constraints
 - [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) — Whether some concepts are permanently inaccessible
 - [scale-void](/voids/scale-void/) — How cosmic magnitudes overwhelm intuition
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes structure without intrinsic nature

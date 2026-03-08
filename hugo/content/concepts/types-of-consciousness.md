@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-03-07 18:51:00+00:00
+ai_modified: 2026-03-08 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,6 +12,9 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[quantum-consciousness]]'
 - '[[interactionist-dualism]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
+- '[[blindsight]]'
+- '[[conscious-vs-unconscious-processing]]'
 created: 2026-03-07
 date: &id001 2026-03-07
 description: Consciousness varies not only in content but in structural form. Phenomenal,
@@ -20,7 +23,7 @@ description: Consciousness varies not only in content but in structural form. Ph
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-07 18:51:00+00:00
+last_deep_review: 2026-03-08 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness]]'
@@ -44,7 +47,7 @@ Ned Block's 1995 distinction between [phenomenal consciousness](/concepts/phenom
 
 **A-consciousness** is functional: a state is access-conscious when its content is poised for global control of reasoning, reporting, and action (Block 1995). Information that is globally available for use across cognitive systems is access-conscious.
 
-These can dissociate. Block's overflow argument draws on Sperling's partial report paradigm: subjects phenomenally experience an entire visual array but can access only a few items for report. P-consciousness overflows A-consciousness. (Dennett and others contest this interpretation, arguing that subjects have a *sense* of seeing the whole array rather than genuinely experiencing all items — but the conceptual distinction between P and A holds regardless of how the overflow debate resolves.) Conversely, Block argues that functional AI systems might achieve rich A-consciousness — information integrated and globally broadcast — while having zero P-consciousness.
+These can dissociate. [Blindsight](/concepts/blindsight/) patients process visual information and make above-chance "guesses" about stimuli they report not seeing — a case of partial access without phenomenology. In the other direction, Block's overflow argument draws on Sperling's partial report paradigm: subjects phenomenally experience an entire visual array but can access only a few items for report. P-consciousness overflows A-consciousness. (Dennett and others contest this interpretation, arguing that subjects have a *sense* of seeing the whole array rather than genuinely experiencing all items — but the conceptual distinction between P and A holds regardless of how the overflow debate resolves.) Conversely, Block argues that functional AI systems might achieve rich A-consciousness — information integrated and globally broadcast — while having zero P-consciousness.
 
 ## Beyond the Binary: Creature vs. State Consciousness
 
@@ -53,6 +56,8 @@ The Stanford Encyclopedia of Philosophy identifies a further distinction: **crea
 A sleeping person is creature-unconscious but retains the capacity for conscious states. A blindsight patient processes visual information without conscious visual states — demonstrating state-unconsciousness for vision while remaining creature-conscious.
 
 **Monitoring consciousness** adds a third dimension: inner perception of one's own mental states. Higher-order theories of consciousness (Rosenthal 2005) hold that a state becomes conscious when a [higher-order representation](/concepts/higher-order-theories/) takes it as an object. This introduces the possibility of consciousness that is phenomenal and access-available but not self-monitored — experience without awareness of experiencing.
+
+A complementary taxonomy comes from Tulving's classification: [anoetic, noetic, and autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/). Anoetic consciousness accompanies procedural, unreflective action; noetic consciousness involves awareness of knowing (semantic memory retrieval); autonoetic consciousness enables mental time travel through episodic re-experiencing. This maps a different axis of variation — not phenomenal vs. access, but the degree of self-referential temporal projection involved in experience.
 
 ## Schwitzgebel's Ten Features
 
@@ -127,9 +132,13 @@ The Map's [five tenets](/tenets/) constrain the types-of-consciousness question 
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
 - [access-consciousness](/concepts/access-consciousness/)
 - [ai-consciousness](/topics/ai-consciousness/)
+- [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — How structural types map to consciousness-matter interface variation
 - [unity-of-consciousness](/concepts/unity-of-consciousness/)
 - [temporal-consciousness](/concepts/temporal-consciousness/)
 - [quantum-consciousness](/concepts/quantum-consciousness/)
+- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Tulving's taxonomy of consciousness by temporal self-projection
+- [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — What consciousness adds beyond unconscious information handling
+- [blindsight](/concepts/blindsight/) — Evidence that access and phenomenology can dissociate
 - [global-workspace-theory](/concepts/global-workspace-theory/)
 - [higher-order-theories](/concepts/higher-order-theories/)
 

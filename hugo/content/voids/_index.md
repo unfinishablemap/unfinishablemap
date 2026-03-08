@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-02-02 23:12:00+00:00
+ai_modified: 2026-03-07 22:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -127,7 +127,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 ### Comparative Perspectives
 
-- [Convergent Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared limits
+- [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared limits
 - [Collective Cognitive Limits](/voids/collective-cognitive-limits/) — What groups cannot think
 - [Natural vs. Designed Cognitive Limits](/voids/natural-vs-designed-limits/) — Evolved versus engineered constraints
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — Limits implied by the Map's commitments

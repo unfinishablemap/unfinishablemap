@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken link**: `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)` in Further Reading — file does not exist. Corrected to `[contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)`.
+- **Broken link**: `[contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)` in Further Reading — file does not exist. Corrected to `[contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)`.
 - **Opening overclaim**: Opening paragraph claimed fragmentation "transforms from a threat to dualism into evidence for it," but the conclusion admits "The arguments are symmetric in their capacity to accommodate the data." Softened opening to "something dualism can accommodate — and perhaps accommodate more naturally than physicalism."
 
 ### Medium Issues Found

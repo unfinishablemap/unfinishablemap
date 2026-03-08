@@ -22,7 +22,7 @@ topics: []
 
 ## Review Context
 
-This review was conducted with specific attention to insights from [conservation-laws-and-mind](/topics/conservation-laws-and-mind/), examining whether the causal powers article adequately leverages the sophisticated conservation law arguments available (Cucu/Pitts on conservation being local and conditional, the question-begging nature of the energy objection, selection among energetically equivalent outcomes).
+This review was conducted with specific attention to insights from [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/), examining whether the causal powers article adequately leverages the sophisticated conservation law arguments available (Cucu/Pitts on conservation being local and conditional, the question-begging nature of the energy objection, selection among energetically equivalent outcomes).
 
 ## Pessimistic Analysis Summary
 

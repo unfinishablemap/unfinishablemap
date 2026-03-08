@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-02-05
-date: '2026-02-21'
+date: '2026-03-07'
 draft: false
 related_articles: []
 title: Optimistic Review - 2026-02-05
@@ -30,7 +30,7 @@ The Map correctly identifies that the zombie argument's force doesn't depend on 
 
 ### The Quantum Mind Theorist (Stapp)
 
-The Map has successfully threaded the needle between scientific credibility and openness to consciousness-physics interface. The treatment across [quantum-consciousness](/concepts/quantum-consciousness/), [consciousness-and-quantum-measurement](/topics/quantum-measurement-consciousness-interface/), and [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) demonstrates sophisticated engagement with actual physics while avoiding the quantum mysticism trap.
+The Map has successfully threaded the needle between scientific credibility and openness to consciousness-physics interface. The treatment across [quantum-consciousness](/concepts/quantum-consciousness/), [consciousness-and-quantum-measurement](/topics/quantum-measurement-consciousness-interface/), and [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) demonstrates sophisticated engagement with actual physics while avoiding the quantum mysticism trap.
 
 The "selection not injection" framework is particularly valuable: consciousness biasing otherwise indeterminate outcomes without adding energy directly addresses the conservation law objection that has plagued interactionist positions since Princess Elizabeth's correspondence with Descartes. The Map takes Tegmark's decoherence critique seriously—acknowledging the 10^-13 second timescale—while presenting the Hagan et al. response and biological quantum effects as existence proofs that evolution can harness quantum phenomena in warm, wet systems.
 
@@ -151,7 +151,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article is genuinely inno
 - **Tenet alignment**: Different conscious states may reveal different interface dynamics
 
 #### Cross-Cultural Phenomenology of Choice
-- **Builds on**: [phenomenology-of-choice](/concepts/phenomenology-of-choice/), [free-will](/topics/free-will/), [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)
+- **Builds on**: [phenomenology-of-choice](/concepts/phenomenology-of-choice/), [free-will](/topics/free-will/), [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
 - **Would address**: Whether the phenomenology of deliberation is culturally universal or variable
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Universal phenomenology would strengthen the evidence base for Bidirectional Interaction

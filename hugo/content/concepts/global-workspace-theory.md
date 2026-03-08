@@ -70,7 +70,7 @@ GNW distinguishes three states:
 
 ## The Access/Phenomenal Distinction
 
-Here lies GWT's fundamental limitation. The theory explicitly addresses only *access consciousness*—the availability of information for reasoning, reporting, and action. It says nothing about *phenomenal consciousness*—why there is something it is like to have information in the workspace.
+Here lies GWT's fundamental limitation. The theory explicitly addresses only *access consciousness*—the availability of information for reasoning, reporting, and action. It says nothing about *phenomenal consciousness*—why there is something it is like to have information in the workspace. The [full taxonomy of consciousness types](/concepts/types-of-consciousness/) shows these are structurally independent dimensions that can dissociate.
 
 Ned Block has argued forcefully that these are distinct phenomena. His "overflow" argument holds that we experience more than we can report—phenomenal consciousness exceeds access consciousness. The Sperling experiment suggests we see all twelve letters in a briefly flashed display, even though we can only report four. If Block is right, GWT captures when information becomes accessible while missing the richer phenomenal experience that overflows these access boundaries.
 

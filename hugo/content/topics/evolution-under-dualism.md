@@ -51,7 +51,7 @@ A common misunderstanding treats dualism as competing with evolutionary theory. 
 
 Every mechanism of evolutionary biology operates identically under dualism. DNA replicates. Mutations accumulate. Differential reproduction favours traits that enhance fitness. Speciation proceeds through geographic isolation, genetic drift, and selection pressure. None of this requires consciousness to be physical. A dualist accepts the full evolutionary account of physical organisms—bones, brains, immune systems, eyes—and adds that brains eventually became interfaces for something the physical account cannot capture.
 
-The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet makes this explicit: consciousness influences physical outcomes only at quantum indeterminacies, without injecting energy or violating [conservation laws](/topics/conservation-laws-and-mind/). This means consciousness does not redirect evolutionary trajectories by overriding natural selection. It acts within the space [physics leaves open](/concepts/causal-closure/), not against it.
+The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet makes this explicit: consciousness influences physical outcomes only at quantum indeterminacies, without injecting energy or violating [conservation laws](/concepts/conservation-laws-and-mental-causation/). This means consciousness does not redirect evolutionary trajectories by overriding natural selection. It acts within the space [physics leaves open](/concepts/causal-closure/), not against it.
 
 ## What Dualism Adds: The Interface Story
 

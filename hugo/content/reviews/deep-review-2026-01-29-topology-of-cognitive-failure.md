@@ -71,7 +71,7 @@ None identified. Attribution accuracy check passed—no misattributions, dropped
 - Tightened prose in several sections (Wittgenstein ladder, model-based failure, vertigo) to maintain length neutrality
 
 ### Cross-links Added
-- [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) — Added to body text and Further Reading section
+- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Added to body text and Further Reading section
 
 ## Remaining Items
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-05 16:47:00+00:00
+ai_modified: 2026-03-07 22:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ related_articles:
 - '[[the-case-for-dualism]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'
 - '[[cross-cultural-phenomenology-of-agency]]'
-- '[[convergent-cognitive-limits]]'
+- '[[evolved-cognitive-limits]]'
 title: The Epistemology of Convergence Arguments
 topics:
 - '[[the-convergence-argument-for-dualism]]'
@@ -85,7 +85,7 @@ This bootstrapping problem cannot be fully resolved from within the convergence 
 
 A convergence argument gains strength when its component arguments remain persuasive across different philosophical frameworks, traditions, and methodological commitments. Convergence that depends on a particular school's assumptions is weaker than convergence that holds across rival traditions.
 
-This is where the distinction between *intra-traditional* and *cross-traditional* convergence matters. Multiple arguments within analytic philosophy converging on a conclusion is less powerful than arguments from analytic philosophy, phenomenology, and Indian metaphysics converging on the same conclusion — because the cross-traditional convergence is harder to explain by appeal to shared methodological commitments.
+This is where the distinction between *intra-traditional* and *cross-traditional* convergence matters. Multiple arguments within analytic philosophy converging on a conclusion is less powerful than arguments from analytic philosophy, phenomenology, and Indian metaphysics converging on the same conclusion — because the cross-traditional convergence is harder to explain by appeal to shared methodological commitments. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) provides a concrete case study: Buddhist, Hindu, Christian, Sufi, and Daoist practitioners converge on structural features of consciousness (self-dissolution, contentless awareness, subject-object collapse) while diverging on metaphysical interpretation — a pattern that satisfies the robustness criterion despite partial failures of independence.
 
 The robustness condition also applies across time. Arguments that seemed compelling to ancient, medieval, and modern philosophers — despite radical changes in background knowledge and methodology — carry more weight than arguments whose force depends on contemporary assumptions. The hard problem of consciousness has this diachronic robustness: Aristotle's puzzlement about the relationship between soul and body, Avicenna's Flying Man, Descartes' conceivability argument, and Chalmers' zombie argument all target structurally similar difficulties, despite arising from profoundly different intellectual contexts. Sāṃkhya's distinction between *Puruṣa* (pure consciousness) and *Prakṛti* (everything else, including mental processes) parallels the Western distinction between phenomenal consciousness and functional cognition — arrived at through entirely independent intellectual traditions.
 
@@ -170,7 +170,7 @@ The Map treats convergence as genuine evidence while acknowledging its limits. C
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — The specific convergence case for dualism
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — Survey of how non-Western traditions frame the hard problem
 - [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) — Cross-cultural invariants in the experience of agency
-- [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) — How cognitive limits converge across cultures
+- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — How cognitive limits converge across cultures
 - [intuitive-dualism](/concepts/intuitive-dualism/) — Empirical evidence on whether dualism is innate or learned
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Meta-level argument from epistemic humility
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why parsimony fails in this debate

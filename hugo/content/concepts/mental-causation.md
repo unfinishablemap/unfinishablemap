@@ -23,7 +23,7 @@ concepts:
 - '[[decoherence]]'
 - '[[attention-as-interface]]'
 - '[[bidirectional-interaction]]'
-- '[[conservation-laws-mind-brain-causation]]'
+- '[[conservation-laws-and-mental-causation]]'
 - '[[causal-delegation]]'
 - '[[delegatory-dualism]]'
 - '[[preemption]]'
@@ -127,11 +127,11 @@ Consciousness could bias outcomes at the point of measurement even after decoher
 
 ### The Conservation Objection
 
-If non-physical consciousness moves matter, doesn't energy appear from nowhere? This [conservation objection](/concepts/conservation-laws-mind-brain-causation/) fails on two independent grounds. First, conservation laws are *derived* from symmetries (Noether's theorem); mental influence would break the symmetry from which energy conservation follows, making the objection question-begging (Cucu and Pitts 2019). Second, selection among quantum-permitted outcomes requires no energy transfer—all candidates already have definite energies. Conservation constrains *which energies are possible*, not *which possibility actualises*.
+If non-physical consciousness moves matter, doesn't energy appear from nowhere? This [conservation objection](/concepts/conservation-laws-and-mental-causation/) fails on two independent grounds. First, conservation laws are *derived* from symmetries (Noether's theorem); mental influence would break the symmetry from which energy conservation follows, making the objection question-begging (Cucu and Pitts 2019). Second, selection among quantum-permitted outcomes requires no energy transfer—all candidates already have definite energies. Conservation constrains *which energies are possible*, not *which possibility actualises*.
 
 ### The Specification Challenge
 
-Even granting that quantum indeterminacy provides an opening for mental causation, a further challenge remains: *which* phenomenal properties map to *which* physical selections? This specification problem is distinct from overdetermination (whether mental causes compete with physical causes) and [conservation](/concepts/conservation-laws-mind-brain-causation/) (whether mental causation violates energy conservation). Specification asks: if consciousness biases quantum outcomes, how does it do so systematically? A related challenge—the [bandwidth problem](/concepts/bandwidth-problem-mental-causation/)—asks whether the mind-body channel can carry enough information for specific behaviour, given that conscious processing operates at roughly 10 bits per second while motor execution requires millions. The [hierarchical selection response](/topics/bandwidth-of-consciousness/) resolves this: consciousness selects among brain-prepared options at policy level, while unconscious systems supply fine-grained detail.
+Even granting that quantum indeterminacy provides an opening for mental causation, a further challenge remains: *which* phenomenal properties map to *which* physical selections? This specification problem is distinct from overdetermination (whether mental causes compete with physical causes) and [conservation](/concepts/conservation-laws-and-mental-causation/) (whether mental causation violates energy conservation). Specification asks: if consciousness biases quantum outcomes, how does it do so systematically? A related challenge—the [bandwidth problem](/concepts/bandwidth-problem-mental-causation/)—asks whether the mind-body channel can carry enough information for specific behaviour, given that conscious processing operates at roughly 10 bits per second while motor execution requires millions. The [hierarchical selection response](/topics/bandwidth-of-consciousness/) resolves this: consciousness selects among brain-prepared options at policy level, while unconscious systems supply fine-grained detail.
 
 The [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) provides the conceptual structure for addressing this challenge. Chalmers distinguished *supervenience laws* (which physical states produce which experiences) from what the Map calls *[selection laws](/concepts/selection-laws/)* (which mental states influence which physical outcomes). Mental causation requires selection laws—not merely supervenience laws running upward from physics to phenomenology, but laws specifying how consciousness participates in determining physical outcomes.
 
@@ -244,7 +244,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [illusionism](/concepts/illusionism/) — The radical challenge that denies phenomenal consciousness exists
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI (and why it matters for mental causation)
 - [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/) — The cumulative case against epiphenomenalism (five arguments)
-- [conservation-laws-mind-brain-causation](/concepts/conservation-laws-mind-brain-causation/) — Why conservation laws don't block mental causation
+- [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why conservation laws don't block mental causation
 - [causal-closure](/concepts/causal-closure/) — The principle mental causation challenges
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework that accommodates mental causation
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view denying mental causation

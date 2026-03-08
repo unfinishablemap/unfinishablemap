@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-30
-date: '2026-03-04'
+date: '2026-03-07'
 draft: false
 related_articles: []
 title: Optimistic Review - 2026-01-30 (Afternoon)
@@ -124,7 +124,7 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 ### Medium Priority
 
 #### Contemplative Phenomenology as Evidence: A Systematic Treatment
-- **Builds on**: [witness-consciousness](/concepts/witness-consciousness/), [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/), [introspection](/concepts/introspection/)
+- **Builds on**: [witness-consciousness](/concepts/witness-consciousness/), [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/), [introspection](/concepts/introspection/)
 - **Would address**: The Map cites contemplative evidence across many articles but hasn't provided a unified treatment of how and why such evidence should be weighted.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Provides evidential framework for claims about consciousness's structure.

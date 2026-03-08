@@ -80,7 +80,7 @@ None. The article contains no factual errors, misattributions, or internal contr
 
 ### Cross-links Added
 
-- [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — energy conservation in consciousness-matter interaction
+- [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) — energy conservation in consciousness-matter interaction
 - [causal-closure](/concepts/causal-closure/) — physics leaving space for consciousness
 - [filter-theory](/concepts/filter-theory/) — the transmission/filter model grounding the interface story
 - [agent-causation](/concepts/agent-causation/) — metaphysics of agency

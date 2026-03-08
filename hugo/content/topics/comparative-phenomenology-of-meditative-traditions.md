@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-03-07 08:39:00+00:00
+ai_modified: 2026-03-08 00:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Cross-traditional meditation reports converge on structural feature
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-07 08:39:00+00:00
+last_deep_review: 2026-03-08 00:23:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,7 +77,7 @@ The structural convergence: awareness is separable from its ordinary contents. T
 
 ### The Subject-Object Collapse
 
-A third convergence zone involves states where the ordinary distinction between experiencer and experienced dissolves.
+A third convergence zone involves states where the ordinary distinction between experiencer and experienced dissolves—what [the subject-object distinction as philosophical discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/) traces as a structural feature uncovered independently by multiple traditions.
 
 **Advaita's non-dual awareness** (*advaita* literally means "not-two") describes experience where the separation between subject and object collapses. Awareness no longer observes something; it simply is, without division into knower and known.
 

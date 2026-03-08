@@ -47,7 +47,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-as-amplifier]]'
-- '[[conservation-laws-and-mind]]'
+- '[[conservation-laws-and-mental-causation]]'
 - '[[interactionist-dualism-2026-01-06]]'
 - '[[objections-to-interactionist-dualism-2026-01-15]]'
 - '[[concepts/materialism]]'
@@ -86,7 +86,7 @@ Chalmers tends toward epiphenomenalism. The Map diverges: the self-stultificatio
 
 René Descartes established the classic formulation: mind (res cogitans) and body (res extensa) are distinct substances that interact. Princess Elizabeth of Bohemia immediately asked how something non-spatial could affect something spatial. Leibniz sharpened the objection: if mind pushes matter, it adds momentum, violating conservation. Contemporary physicists like Sean Carroll revitalize this argument. See [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) for the full trajectory from Descartes through Leibniz to quantum mechanics.
 
-Yet recent work demonstrates this objection rests on misunderstandings. Conservation is *local* and *conditional*—it holds given certain assumptions. The objection begs the question: expecting conservation to hold in the brain assumes interactionism is false. See [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) for why the conservation objection fails and how the "selection not injection" framework provides a positive account of mental causation.
+Yet recent work demonstrates this objection rests on misunderstandings. Conservation is *local* and *conditional*—it holds given certain assumptions. The objection begs the question: expecting conservation to hold in the brain assumes interactionism is false. See [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) for why the conservation objection fails and how the "selection not injection" framework provides a positive account of mental causation.
 
 Meanwhile, [epiphenomenalism](/concepts/epiphenomenalism/) faces its own devastating objection: if consciousness causes nothing, how can we know anything about consciousness? The [self-stultification argument](/concepts/mental-causation/) shows that denying mental causation is epistemically self-defeating—your belief that you're in pain must be caused by your pain.
 
@@ -177,7 +177,7 @@ The Map is compatible with either formulation. What matters is irreducibility (D
 For comprehensive treatment, see [objections-to-interactionism](/concepts/objections-to-interactionism/). Key responses:
 
 - **Pairing**: Minds have spatial location—in the brain where they interact
-- **Conservation**: Consciousness selects among equal-energy outcomes; no energy added ([conservation-laws-and-mind](/topics/conservation-laws-and-mind/))
+- **Conservation**: Consciousness selects among equal-energy outcomes; no energy added ([conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/))
 - **Exclusion**: At quantum indeterminacies, no sufficient physical cause exists to exclude
 - **Parsimony**: A theory explaining nothing (physicalism on experience) is not parsimonious—see [Epistemological Limits of Occam's Razor](/arguments/epistemological-limits-of-occams-razor/)
 - **Evolutionary**: Phenomenal valence tracking fitness *supports* interactionism
@@ -221,7 +221,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 **Objections and responses:**
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Comprehensive treatment of major objections
-- [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Why the conservation objection fails
+- [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why the conservation objection fails
 - [causal-closure](/concepts/causal-closure/) — The closure objection and responses
 
 **Epistemology:**

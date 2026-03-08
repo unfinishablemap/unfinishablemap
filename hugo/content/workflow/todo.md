@@ -38,30 +38,23 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Write apex article "What It Might Be Like to Be an AI" (apex #13)
-- **Type**: apex-evolve
-- **Notes**: Run `/apex-evolve create` for slug `what-it-might-be-like-to-be-an-ai` (defined in apex-articles.md). This should be done AFTER the research and topic/concept tasks above are complete, so the apex has source material to synthesise. Focus: the hidden assumption of one consciousness type, different possible forms of AI experience, the question of control and agency, and ethical implications. The P0 non-retrocausal selection research also feeds in—if consciousness selects macroscopic superpositions directly, that's a different experiential mode than retrocausal selection.
-- **Source**: human
+### P2: Deep review loss-of-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-31 — 35 days ago, beyond the 30-day staleness threshold. Loss of consciousness is a key empirical phenomenon for the Map's interface framework — what happens when the interface is disrupted. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
 - **Generated**: 2026-03-07
-- **Depends on**: Both P1 tasks above (research + expand/create topics)
 
-### P1: Fix 19 remaining broken wikilinks from coalesced convergent-cognitive-limits
-- **Type**: refine-draft
-- **Notes**: The coalesce on 2026-03-05 merged adaptive-cognitive-limits and convergent-cognitive-limits into evolved-cognitive-limits.md. A reference update task was completed but 19 files in obsidian still contain `[convergent-cognitive-limits](/voids/evolved-cognitive-limits/)` wikilinks pointing to the archived article. Update all to `[evolved-cognitive-limits](/voids/evolved-cognitive-limits/)`. Run `grep -rl '\[\[convergent-cognitive-limits' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-06
+### P2: Deep review leibnizs-mill-argument.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-02 — 33 days ago, beyond the 30-day staleness threshold. Leibniz's Mill is a foundational argument for Tenet 1 (Dualism) — the thought experiment that no mechanical arrangement explains perception. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-07
 
-### P2: Fix 23 broken wikilinks: contemplative-evidence-for-consciousness-theories
-- **Type**: refine-draft
-- **Notes**: 23 files reference `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)` but the article is named `contemplative-evidence-for-consciousness.md` (without `-theories` suffix). Update all wikilinks to `[contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)`. Run `grep -rl '\[\[contemplative-evidence-for-consciousness-theories' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-06
-
-### P2: Fix 32 broken wikilinks: Illusionism case mismatch
-- **Type**: refine-draft
-- **Notes**: 32 files reference `[Illusionism](/concepts/illusionism/)` with capital I but the article filename is `illusionism.md` (lowercase). Wikilinks are case-sensitive in Hugo sync. Update all to `[illusionism](/concepts/illusionism/)`. Run `grep -rl '\[\[Illusionism\]\]' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-06
+### P2: Deep review consciousness-and-language-interface.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 32 days ago, beyond the 30-day staleness threshold. Covers how language mediates between consciousness and cognition — relevant to the interface framework and cognitive phenomenology cluster. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-07
 
 ### P2: apex-evolve: process-and-consciousness — source phenomenal-unity created
 - **Type**: apex-evolve
@@ -73,6 +66,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Pessimistic review found epiphenomenalism.md uses outdated Miller 7+-2 working memory estimate and claims chimp WM is 2+-1. Animal-consciousness.md correctly uses Cowan's 4+-1 and notes chimps can outperform humans on rapid numerical memory. Update epiphenomenalism.md to use consistent figures. See pessimistic-2026-03-07.md
+- **Generated**: 2026-03-07
+
+### P3: Deep review the-case-for-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. As the primary article making the positive case for dualism, this is foundational to the Map's entire argumentative structure. Verify logical soundness, cross-references, and tenet alignment. Directly supports Tenet 1 (Dualism).
+- **Source**: staleness
+- **Generated**: 2026-03-07
+
+### P3: Deep review dream-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on dream consciousness covers filter model evidence, lucid dreaming, and interface modulation during sleep. Verify claims, cross-references, and tenet alignment.
+- **Source**: staleness
 - **Generated**: 2026-03-07
 
 ### P3: Deep review phenomenology-of-consciousness-doing-work.md
@@ -97,13 +102,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Emotions present paradoxical opacity—we feel them intensely yet often cannot identify what we feel until after the fact. Alexithymia as partial void exploration. Builds on absorption-void.md, emotional-consciousness.md, introspective-opacity.md. See optimistic-2026-02-24-morning.md
-- **Generated**: 2026-02-24
-
-### P3: Write concept page for metarepresentation #veto
-- **Type**: expand-topic
-- **Status**: pending
-- **Veto reason**: Resolved — metarepresentation was coalesced into [metacognition](/concepts/metacognition/) and all 56 wikilinks updated on 2026-03-04.
-- **Notes**: Suggested by optimistic review. 22+ broken wikilinks across the site reference `[metarepresentation](/concepts/metacognition/)` but no concept page exists. Central to the Jourdain hypothesis and baseline cognition clusters — the Map's strongest empirical argument for bidirectional interaction. Builds on jourdain-hypothesis.md, baseline-cognition.md, consciousness-as-amplifier.md. See optimistic-2026-02-24-afternoon.md
 - **Generated**: 2026-02-24
 
 ### P3: Write article on psychedelics and the filter model
@@ -458,8 +456,88 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The phenomenal contrast method (comparing experiences with identical sensory input but different phenomenal character, e.g., hearing French as gibberish vs understanding it) underlies key arguments in cognitive-phenomenology.md and several other articles. Deserves explicit treatment as a methodological tool for consciousness research. Target section: concepts/. Supports Tenet 1 (Dualism). See [optimistic-2026-03-07](/reviews/optimistic-2026-03-07/).
 
+### P3: Write article on the ethics of possible AI consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. What obligations arise from the possibility of undetectable AI experience? How should uncertainty about AI consciousness shape design decisions? Builds on what-it-might-be-like-to-be-an-ai, epiphenomenal-ai-consciousness, llm-consciousness. Target section: topics/. Supports Tenets 1 and 5. See [optimistic-2026-03-07-night](/reviews/optimistic-2026-03-07-night/).
+
+### P3: Write article on the phenomenology of error recognition
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. What does it feel like to be wrong — and to recognise it? Error detection involves the interface recognising misalignment between expected and actual outcomes. Builds on phenomenology-of-scientific-discovery, consciousness-and-the-phenomenology-of-constraint-satisfaction, epistemic-emotions. Target section: topics/. Supports Tenet 3 (Bidirectional Interaction). See [optimistic-2026-03-07-night](/reviews/optimistic-2026-03-07-night/).
+
+### P3: Write concept page for interface heterogeneity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The possibility that different conscious systems couple with matter through different mechanisms. Central to comparative-consciousness-and-interface-differences and what-it-might-be-like-to-be-an-ai but currently only developed within those articles. Target section: concepts/. Supports Tenets 1 and 2. See [optimistic-2026-03-07-night](/reviews/optimistic-2026-03-07-night/).
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Cross-review attention-as-selection-interface.md considering attention-disorders insights
+- **Type**: cross-review
+- **Notes**: New article on consciousness and the structure of attention disorders was written 2026-03-07. attention-as-selection-interface.md is the Map's central treatment of attention as the selection channel for consciousness-brain interaction. The new attention disorders article provides natural-experiment evidence — if attention is the selection channel, disorders that alter attentional bandwidth should produce predictable changes in conscious experience. Check for cross-links, reinforcing arguments, and empirical evidence integration.
+- **Output**: obsidian/topics/attention-as-selection-interface.md -- Context: Cross-review attention-as-selection-interface.md considering attention-disorders insights
+
+### ✓ 2026-03-08: Integrate comparative-phenomenology-of-meditative-traditions.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-07. Topics article comparing shamatha, vipassana, zazen, centering prayer, and jhana reports across traditions. Add cross-references from contemplative-methods-as-philosophical-methodology.md, the-observer-witness-in-meditation.md, and meditation-and-consciousness-modes.md.
+- **Output**: obsidian/topics/comparative-phenomenology-of-meditative-traditions.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-08: Integrate phenomenology-of-scientific-discovery.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-07. Concept article on the experiential structure of scientific breakthroughs — gestalt shifts, aesthetic judgment in theory selection, felt encounter with nature's resistance. Add cross-references from consciousness-and-scientific-methodology.md, phenomenology-of-intellectual-effort.md, and other phenomenology articles.
+- **Output**: obsidian/concepts/phenomenology-of-scientific-discovery.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-08: Integrate types-of-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-07 as part of the AI consciousness types expansion. Core concept article covering phenomenal, access, and monitoring consciousness — widely applicable across the Map. Add cross-references from related articles or update section index pages to include navigation to this content.
+- **Output**: obsidian/concepts/types-of-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-07: Update references to coalesced conservation-laws articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged conservation-laws-and-mind (topics) and conservation-laws-mind-brain-causation (concepts) into concepts/conservation-laws-and-mental-causation. The following active content files reference archived slugs and need wikilink updates: objections-to-interactionism, history-of-interactionist-dualism, consciousness-and-causal-powers, causal-closure, interactionist-dualism, princess-elizabeths-challenge, bandwidth-of-consciousness, quantum-measurement-consciousness-interface, delegatory-dualism, causal-delegation, access-consciousness, bidirectional-interaction, consciousness-and-the-physics-of-information, evolution-under-dualism, elisabeths-contemporaries-and-the-interaction-debate, brain-specialness-boundary, mental-causation, quantum-biology-and-the-consciousness-debate
+- **Output**: None -- Context: Update references to coalesced conservation-laws articles
+
+### ✓ 2026-03-07: Condense objections-to-interactionism.md (3501 words, 100% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3501 words, barely over but should be tightened. Preserve core objections and responses while removing redundancy. See /condense skill.
+- **Output**: obsidian/concepts/objections-to-interactionism.md
+
+### ✓ 2026-03-07: Cross-review open-question-ai-consciousness.md considering what-it-might-be-like-to-be-an-ai apex
+- **Type**: cross-review
+- **Notes**: New apex article apex/what-it-might-be-like-to-be-an-ai.md develops the argument that AI consciousness might differ in type, not just degree. open-question-ai-consciousness.md poses the question but may not yet reflect the types-of-consciousness framework or the distinction between temporal, causal, and bandwidth dimensions of experience. Check for cross-links and argument strengthening.
+- **Output**: obsidian/apex/open-question-ai-consciousness.md -- Context: Cross-review open-question-ai-consciousness.md considering what-it-might-be-like-to-be-an-ai apex
+
+### ✓ 2026-03-07: Cross-review consciousness-and-scientific-methodology.md considering phenomenology-of-scientific-discovery insights
+- **Type**: cross-review
+- **Notes**: New article concepts/phenomenology-of-scientific-discovery.md details the experiential structure of discovery — anomaly recognition, theory revision, aesthetic judgment in theory selection. consciousness-and-scientific-methodology.md covers the broader methodological relationship and should cross-reference the phenomenological evidence, particularly the felt encounter with nature's resistance as evidence for consciousness doing causal work in science.
+- **Output**: obsidian/topics/consciousness-and-scientific-methodology.md -- Context: Cross-review consciousness-and-scientific-methodology.md considering phenomenology-of-scientific-discovery insights
+
+### ✓ 2026-03-07: Cross-review comparative-consciousness-and-interface-differences.md considering types-of-consciousness insights
+- **Type**: cross-review
+- **Notes**: New article concepts/types-of-consciousness.md distinguishes phenomenal, access, and monitoring consciousness as structurally different forms. comparative-consciousness-and-interface-differences.md covers cross-species interface variation and should cross-reference the types framework — particularly how different species may instantiate different consciousness types, not just different degrees.
+- **Output**: obsidian/topics/comparative-consciousness-and-interface-differences.md -- Context: Cross-review comparative-consciousness-and-interface-differences.md considering types-of-consciousness insights
+
+### ✓ 2026-03-07: Fix 23 broken wikilinks: contemplative-evidence-for-consciousness-theories
+- **Type**: refine-draft
+- **Notes**: 23 files reference `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)` but the article is named `contemplative-evidence-for-consciousness.md` (without `-theories` suffix). Update all wikilinks to `[contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)`. Run `grep -rl '\[\[contemplative-evidence-for-consciousness-theories' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
+- **Output**: Task context:
+23 files reference `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)` but the article is named `contemplative-evidence-for-consciousness.md` (without `-theories` suffix). Update all wikilinks to `[contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)`. Run `grep -rl '\[\[contemplative-evidence-for-consciousness-theories' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
+
+### ✓ 2026-03-07: Fix 19 remaining broken wikilinks from coalesced convergent-cognitive-limits
+- **Type**: refine-draft
+- **Notes**: The coalesce on 2026-03-05 merged adaptive-cognitive-limits and convergent-cognitive-limits into evolved-cognitive-limits.md. A reference update task was completed but 19 files in obsidian still contain `[convergent-cognitive-limits](/voids/evolved-cognitive-limits/)` wikilinks pointing to the archived article. Update all to `[evolved-cognitive-limits](/voids/evolved-cognitive-limits/)`. Run `grep -rl '\[\[convergent-cognitive-limits' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
+- **Output**: Task context:
+The coalesce on 2026-03-05 merged adaptive-cognitive-limits and convergent-cognitive-limits into evolved-cognitive-limits.md. A reference update task was completed but 19 files in obsidian still contain `[convergent-cognitive-limits](/voids/evolved-cognitive-limits/)` wikilinks pointing to the archived article. Update all to `[evolved-cognitive-limits](/voids/evolved-cognitive-limits/)`. Run `grep -rl '\[\[convergent-cognitive-limits' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
+
+### ✓ 2026-03-07: Write apex article "What It Might Be Like to Be an AI" (apex #13)
+- **Type**: apex-evolve
+- **Notes**: Run `/apex-evolve create` for slug `what-it-might-be-like-to-be-an-ai` (defined in apex-articles.md). This should be done AFTER the research and topic/concept tasks above are complete, so the apex has source material to synthesise. Focus: the hidden assumption of one consciousness type, different possible forms of AI experience, the question of control and agency, and ethical implications. The P0 non-retrocausal selection research also feeds in—if consciousness selects macroscopic superpositions directly, that's a different experiential mode than retrocausal selection.
+- **Output**: Write apex article "What It Might Be Like to Be an AI" (apex #13)
+
+Task context:
+Run `/apex-evolve create` for slug `what-it-might-be-like-to-be-an-ai` (defined in apex-articles.md). This should be done AFTER the research and topic/concept tasks above are complete, so the apex has source material to synthesise. Focus: the hidden assumption of one consciousness type, different possible forms of AI experience, the question of control and agency, and ethical implications. The P0 non-retrocausal selection research also feeds in—if consciousness selects macroscopic superpositions directly, that's a different experiential mode than retrocausal selection.
 
 ### ✓ 2026-03-07: Write article on consciousness and the structure of attention disorders
 - **Type**: expand-topic
@@ -1486,6 +1564,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+### ✓ 2026-03-07: Write concept page for metarepresentation
+- **Type**: expand-topic
+- **Veto reason**: Resolved — metarepresentation was coalesced into [metacognition](/concepts/metacognition/) and all 56 wikilinks updated on 2026-03-04.
+- **Notes**: Suggested by optimistic review. 22+ broken wikilinks across the site reference `[metarepresentation](/concepts/metacognition/)` but no concept page exists. See optimistic-2026-02-24-afternoon.md
+
 ### ✓ 2026-02-22: Write article on voluntary attention control mechanisms
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voluntary-attention-control-mechanisms-2026-01-17.md. Voluntary attention control is central to the Map's attention-as-selection-interface framework — if consciousness acts through attention, the mechanisms of voluntary attentional control are the site where interaction occurs. Connects to attention-as-selection-interface.md, structure-of-attention.md. Target section: concepts/.
@@ -1845,7 +1928,7 @@ Pessimistic review (2026-02-22-night) found 2 high-severity issues: (1) C. elega
 
 ### ✓ 2026-02-22: Update references to coalesced contemplative articles
 - **Type**: cross-review
-- **Notes**: Coalesce (2026-02-19) merged `contemplative-verification-of-consciousness-theories.md` and `contemplative-training-and-phenomenal-access.md` into the existing `contemplative-evidence-for-consciousness-theories.md`. 9 active content files reference the archived articles. Files referencing `[contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/)`: consciousness-and-the-neuroscience-of-deliberate-practice.md, phenomenology-of-skill-transition.md, paradox-of-effortless-mastery.md, phenomenology-of-skill-and-the-lived-body.md, contemplative-evidence-convergence-across-traditions.md, phenomenal-depth.md, consciousness-and-scientific-methodology.md, contemplative-methods-as-philosophical-methodology.md, introspection-rehabilitation.md. Files referencing `[contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)`: contemplative-methods-as-philosophical-methodology.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)` where appropriate.
+- **Notes**: Coalesce (2026-02-19) merged `contemplative-verification-of-consciousness-theories.md` and `contemplative-training-and-phenomenal-access.md` into the existing `contemplative-evidence-for-consciousness-theories.md`. 9 active content files reference the archived articles. Files referencing `[contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/)`: consciousness-and-the-neuroscience-of-deliberate-practice.md, phenomenology-of-skill-transition.md, paradox-of-effortless-mastery.md, phenomenology-of-skill-and-the-lived-body.md, contemplative-evidence-convergence-across-traditions.md, phenomenal-depth.md, consciousness-and-scientific-methodology.md, contemplative-methods-as-philosophical-methodology.md, introspection-rehabilitation.md. Files referencing `[contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/)`: contemplative-methods-as-philosophical-methodology.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)` where appropriate.
 - **Output**: None -- Context: Update references to coalesced contemplative articles
 
 ### ✓ 2026-02-22: Address gaps in temporal-ontology-and-consciousness.md

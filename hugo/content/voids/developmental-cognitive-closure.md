@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-03-05 23:10:00+00:00
+ai_modified: 2026-03-07 22:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,7 +20,7 @@ related_articles:
 - '[[tenets]]'
 - '[[conceptual-acquisition-limits]]'
 - '[[three-kinds-of-void]]'
-- '[[convergent-cognitive-limits]]'
+- '[[evolved-cognitive-limits]]'
 - '[[embodiment-cognitive-limits]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[expertise-void]]'
@@ -120,7 +120,7 @@ The developmental void is a reminder that the boundaries of thought are not stat
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, occluded
 - [The Expertise Void](/topics/expertise-void/) — How deep skill irreversibly transforms perception
 - [The Limits of Conceptual Acquisition](/voids/conceptual-acquisition-limits/) — What concepts can minds form?
-- [Convergent Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared limits
+- [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared limits
 - [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 

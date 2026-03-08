@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-02-22 10:05:00+00:00
+ai_modified: 2026-03-07 22:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ related_articles:
 - '[[framework-void]]'
 - '[[language-thought-boundary]]'
 - '[[conceptual-impossibility]]'
-- '[[convergent-cognitive-limits]]'
+- '[[evolved-cognitive-limits]]'
 - '[[limits-reveal-structure]]'
 - '[[tenet-generated-voids]]'
 - '[[consciousness-and-the-phenomenology-of-translation]]'
@@ -111,7 +111,7 @@ The [framework-void](/voids/framework-void/) explored the structural impossibili
 
 - [framework-void](/voids/framework-void/) — The structural analysis of frameworks as cognitive prisons
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where articulation fails within a framework
-- [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level framework constraints
+- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level framework constraints
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — What cognitive limits reveal about the architecture of mind
 - [consciousness-and-the-phenomenology-of-translation](/topics/consciousness-and-the-phenomenology-of-translation/) — The experience of moving between conceptual systems
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — How the Map's own commitments create framework-specific blind spots

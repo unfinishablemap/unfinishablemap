@@ -21,7 +21,7 @@ last_deep_review: 2026-02-09 14:06:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[conservation-laws-and-mind]]'
+- '[[conservation-laws-and-mental-causation]]'
 - '[[objections-to-interactionism]]'
 - '[[substance-property-dualism]]'
 - '[[delegatory-dualism]]'
@@ -125,7 +125,7 @@ Elisabeth identified the problem that any interactionist dualism must solve. Nea
 
 - [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) — The broader arc from Descartes through quantum mechanics
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The contemporary position
-- [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Leibniz's conservation objection and its failure
+- [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Leibniz's conservation objection and its failure
 - [pairing-problem](/concepts/pairing-problem/) — Kim's formalisation of Elisabeth's challenge
 - [causal-closure](/concepts/causal-closure/) — The modern descendant of the interaction problem
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Current challenges and responses

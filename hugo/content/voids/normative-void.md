@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-03 02:00:00+00:00
+ai_modified: 2026-03-07 22:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[alien-minds-void-explorers]]'
-- '[[convergent-cognitive-limits]]'
+- '[[evolved-cognitive-limits]]'
 - '[[embodiment-cognitive-limits]]'
 - '[[conceptual-impossibility]]'
 - '[[apophatic-approaches]]'
@@ -151,7 +151,7 @@ The normative void hypothesis would face pressure if:
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [affective-void](/voids/affective-void/) — The vast space of emotions we cannot feel
 - [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — Whether different cognitive architectures face different closures
-- [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared limits
+- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared limits
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [conceptual-impossibility](/voids/conceptual-impossibility/) — Thoughts that cannot be thought
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought

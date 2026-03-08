@@ -27,7 +27,7 @@ related_articles:
 - '[[tenets]]'
 - '[[normative-void]]'
 - '[[consciousness-value-connection]]'
-- '[[contemplative-evidence-for-consciousness-theories]]'
+- '[[contemplative-evidence-for-consciousness]]'
 - '[[topics/phenomenal-value-realism]]'
 title: Normative Phenomenology
 topics:
@@ -151,7 +151,7 @@ Normative phenomenology connects to the Map's [foundational commitments](/tenets
 - [attention-as-interface](/concepts/attention-as-interface/) — The attention mechanism through which normative salience operates
 - [normative-void](/voids/normative-void/) — Where normative perception reaches its limits
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — Contemplative traditions as laboratories for normative investigation
+- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — Contemplative traditions as laboratories for normative investigation
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
 
 ## References

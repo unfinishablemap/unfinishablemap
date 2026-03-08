@@ -566,7 +566,7 @@ title: Completed Tasks - Week 2026-W04
 ### ✓ 2026-01-23: Cross-review objections-to-interactionism.md considering conservation laws article
 - **Type**: cross-review
 - **Notes**: New article topics/conservation-laws-and-mind.md addresses the energy conservation objection. The objections-to-interactionism page should be reviewed to: (1) add cross-link to conservation-laws-and-mind, (2) reference Pitts/Cucu on locality and conditionality, (3) integrate the "selection not injection" framework.
-- **Result**: Updated Conservation Laws section with: (1) added [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) to related_articles frontmatter and Further Reading, (2) integrated Pitts/Cucu argument that conservation is local and conditional—the objection begs the question by assuming no external influences, (3) added "selection not injection" framework with entanglement precedent, (4) updated summary table with new response, (5) added Cucu/Pitts references.
+- **Result**: Updated Conservation Laws section with: (1) added [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) to related_articles frontmatter and Further Reading, (2) integrated Pitts/Cucu argument that conservation is local and conditional—the objection begs the question by assuming no external influences, (3) added "selection not injection" framework with entanglement precedent, (4) updated summary table with new response, (5) added Cucu/Pitts references.
 - **Output**: concepts/objections-to-interactionism.md
 
 ### ✓ 2026-01-23: Write article on meditation observer phenomenon
@@ -596,13 +596,13 @@ title: Completed Tasks - Week 2026-W04
 ### ✓ 2026-01-23: Cross-review interactionist-dualism.md considering conservation laws article
 - **Type**: cross-review
 - **Notes**: New article topics/conservation-laws-and-mind.md addresses the conservation objection. The interactionist-dualism article is a foundational page that should reference the conservation laws response. Add cross-links and integrate the key insight that energy conservation is local/conditional, not a barrier to mental causation.
-- **Result**: Added [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) to related_articles frontmatter. Updated "The Historical Problem" section to reference Pitts/Cucu findings on conservation being local and conditional, linking to the full article. Updated objections table to reference the conservation-laws-and-mind article. Added conservation-laws-and-mind as first entry in Further Reading section.
+- **Result**: Added [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) to related_articles frontmatter. Updated "The Historical Problem" section to reference Pitts/Cucu findings on conservation being local and conditional, linking to the full article. Updated objections table to reference the conservation-laws-and-mind article. Added conservation-laws-and-mind as first entry in Further Reading section.
 - **Output**: concepts/interactionist-dualism.md
 
 ### ✓ 2026-01-23: Cross-review causal-closure.md considering conservation laws article
 - **Type**: cross-review
 - **Notes**: New article topics/conservation-laws-and-mind.md directly addresses the causal closure principle. The causal-closure concept page should be reviewed to: (1) add cross-link to conservation-laws-and-mind, (2) integrate the "selection not injection" response showing consciousness can influence outcomes without violating physical laws, (3) note that conservation is conditional not absolute per Pitts.
-- **Result**: Added [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) to related_articles frontmatter. Updated "Why Causal Closure Seems Plausible" section to reference Pitts/Cucu on conservation being local and conditional, and linked to the full article. Added conservation-laws-and-mind as first entry in Further Reading section.
+- **Result**: Added [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) to related_articles frontmatter. Updated "Why Causal Closure Seems Plausible" section to reference Pitts/Cucu on conservation being local and conditional, and linked to the full article. Added conservation-laws-and-mind as first entry in Further Reading section.
 - **Output**: concepts/causal-closure.md
 
 ### ✓ 2026-01-23: Write article on conservation laws and mind-brain causation

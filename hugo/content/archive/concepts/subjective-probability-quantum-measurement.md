@@ -146,7 +146,7 @@ The selection-versus-injection distinction dissolves this worry. When consciousn
 
 The Born rule's probability distribution describes energetically-equivalent possibilities. Consciousness selecting among them respects conservation laws—the selected outcome had the same energy as any other possible outcome. This aligns with the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: the smallest possible non-physical influence, not adding energy but determining direction.
 
-See [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) for extended treatment of how selection avoids the conservation objection.
+See [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) for extended treatment of how selection avoids the conservation objection.
 
 ## Epistemic Limitations
 
@@ -181,7 +181,7 @@ This topic connects to all five tenets:
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Survey of major interpretations
 - [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/) — Alternatives to many-worlds
 - [mind-matter-interface](/concepts/mind-matter-interface/) — How consciousness meets physics
-- [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Why selection respects conservation laws
+- [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) — Why selection respects conservation laws
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Henry Stapp's quantum Zeno mechanism
 - [decoherence](/concepts/decoherence/) — The quantum coherence challenge
 - [free-will](/topics/free-will/) — How quantum selection relates to agent causation

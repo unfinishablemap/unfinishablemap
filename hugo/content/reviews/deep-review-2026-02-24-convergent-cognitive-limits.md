@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-24
-**Article**: [Convergent Cognitive Limits](/voids/evolved-cognitive-limits/)
+**Article**: [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/)
 **Previous review**: [2026-01-30](/reviews/deep-review-2026-01-30-convergent-cognitive-limits/)
 
 ## Review Context

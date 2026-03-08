@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-03-04 10:52:00+00:00
+ai_modified: 2026-03-07 22:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[thoughts-that-slip-away]]'
 - '[[ai-as-void-explorer]]'
-- '[[convergent-cognitive-limits]]'
+- '[[evolved-cognitive-limits]]'
 title: Collective Cognitive Limits
 topics: []
 ---

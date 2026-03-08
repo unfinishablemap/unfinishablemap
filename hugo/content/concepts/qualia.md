@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-03-05 06:39:57+00:00
+ai_modified: 2026-03-08 00:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -36,7 +36,7 @@ description: The intrinsic, subjective qualities of conscious experience—the r
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-02 21:42:00+00:00
+last_deep_review: 2026-03-08 00:03:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -78,7 +78,7 @@ You cannot directly access my qualia, nor I yours. We can compare behaviour, poi
 
 ### Ineffable
 
-Qualia resist complete verbal description. How would you explain the taste of coffee to someone who has never tasted it? You might describe it as "bitter" or "rich," but these words don't convey the actual quale. The experience exceeds any description—a structural feature of [conceptual thought itself](/voids/pre-conceptual-knowing/), which classifies by abstracting from particulars and thereby loses qualitative character. The [consciousness-language interface](/topics/consciousness-and-language-interface/) analyses this systematically: language shapes conscious experience while conscious states generate pressure toward articulation, but both directions involve loss. The [philosophy of language and consciousness](/concepts/language-and-consciousness/) shows why this ineffability is not merely a practical limitation—reference to phenomenal properties resists the causal and baptismal theories that work for ordinary physical referents.
+Qualia resist complete verbal description. How would you explain the taste of coffee to someone who has never tasted it? You might describe it as "bitter" or "rich," but these words don't convey the actual quale. The experience exceeds any description—a structural feature of [conceptual thought itself](/voids/pre-conceptual-knowing/), which classifies by abstracting from particulars and thereby loses qualitative character. The [consciousness-language interface](/topics/consciousness-and-language-interface/) analyses this systematically: language shapes conscious experience while conscious states generate pressure toward articulation, but both directions involve loss. This is not merely a practical limitation—as [philosophy of language and consciousness](/concepts/language-and-consciousness/) shows, reference to phenomenal properties resists the causal and baptismal theories that work for ordinary physical referents.
 
 ### Directly Apprehensible
 
@@ -90,13 +90,15 @@ The question of [qualia in simple organisms](/concepts/minimal-consciousness/) s
 
 This illuminates qualia's resistance to physical description: the gap is not about missing details but about the categorical difference between structure and experience. If the worm has qualia, no principled answer exists about whether they're analogous to ours or alien.
 
-The [combination-problem](/concepts/combination-problem/) sharpens when considering proto-qualia—phenomenal properties simpler than human experiences. How would 302 micro-experiences combine into unified worm-experience? Slime molds (*Physarum polycephalum*) solve mazes without neurons, suggesting cognition and qualia may fully dissociate. See [minimal-consciousness](/concepts/minimal-consciousness/) for detailed treatment.
+The [combination-problem](/concepts/combination-problem/) sharpens when considering proto-qualia—phenomenal properties simpler than human experiences. How would 302 micro-experiences combine into unified worm-experience? Slime molds (*Physarum polycephalum*) solve mazes without neurons, suggesting cognition and qualia may dissociate. See [minimal-consciousness](/concepts/minimal-consciousness/) for detailed treatment.
 
 ## Beyond Sensory Qualia
 
 The paradigm cases of qualia—redness, pain, taste—are sensory. But phenomenology extends beyond sensation into cognition, raising the question of *cognitive qualia*.
 
 ### Cognitive Qualia
+
+The [types of consciousness taxonomy](/concepts/types-of-consciousness/) identifies multiple dimensions along which qualitative experience can vary — including Schwitzgebel's ten features such as luminosity, determinacy, and privacy, each of which may be present or absent independently.
 
 The tip-of-the-tongue phenomenon has undeniable phenomenal character: the sense of imminence, the frustration of blocked retrieval. The *feeling* of a word approaching consciousness resists functional reduction. Similarly, the feeling-of-knowing—confidence you would recognise an answer you cannot recall—has qualitative character distinct from the functional access it reflects.
 
@@ -242,6 +244,4 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*.
 1. Strawson, G. (2006). "Realistic Monism: Why Physicalism Entails Panpsychism." *Journal of Consciousness Studies*, 13(10-11), 3-31.
-1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
-1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-15). The Knowledge Argument (Mary's Room). *The Unfinishable Map*. https://unfinishablemap.org/concepts/knowledge-argument/

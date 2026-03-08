@@ -22,7 +22,7 @@ last_deep_review: 2026-02-17 14:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[conservation-laws-and-mind]]'
+- '[[conservation-laws-and-mental-causation]]'
 - '[[objections-to-interactionism]]'
 - '[[substance-property-dualism]]'
 - '[[leibnizs-mill-argument]]'
@@ -110,7 +110,7 @@ The monist responses remain a live challenge. If Spinoza or Conway is right that
 
 - [princess-elizabeths-challenge](/topics/princess-elizabeths-challenge/) — Elisabeth's original objection in depth
 - [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) — The full arc from Descartes through quantum mechanics
-- [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Why Leibniz's conservation objection fails
+- [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why Leibniz's conservation objection fails
 - [leibnizs-mill-argument](/topics/leibnizs-mill-argument/) — Leibniz's independent argument against materialism
 - [substance-property-dualism](/concepts/substance-property-dualism/) — The contemporary dualism debate
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Current challenges and responses

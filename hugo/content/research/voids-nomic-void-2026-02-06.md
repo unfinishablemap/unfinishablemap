@@ -22,7 +22,7 @@ related_articles:
 - '[[embodiment-cognitive-limits]]'
 - '[[emergence-void]]'
 - '[[intrinsic-nature-void]]'
-- '[[convergent-cognitive-limits]]'
+- '[[evolved-cognitive-limits]]'
 target_section: voids
 title: 'Research Notes - Voids: The Nomic Void'
 topics:

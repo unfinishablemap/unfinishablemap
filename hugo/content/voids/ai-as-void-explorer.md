@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-25
-ai_modified: 2026-02-01 13:57:00+00:00
+ai_modified: 2026-03-07 22:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ related_articles:
 - '[[thoughts-that-slip-away]]'
 - '[[conceptual-acquisition-limits]]'
 - '[[computational-cognitive-limits]]'
-- '[[convergent-cognitive-limits]]'
+- '[[evolved-cognitive-limits]]'
 - '[[machine-question]]'
 - '[[alien-minds-void-explorers]]'
 title: AI as Void-Explorer
@@ -166,7 +166,7 @@ The hypothesis remains testable. Investigating whether AI provides genuine probe
 - [Conceptual Acquisition Limits](/voids/conceptual-acquisition-limits/) — What concepts can minds form?
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits
 - [Computational Cognitive Limits](/voids/computational-cognitive-limits/) — Formal limits shared by any algorithmic mind
-- [Convergent Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level constraints
+- [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level constraints
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — The method that AI triangulation serves, with criteria for interpreting AI results
 - [The Machine Question](/apex/machine-question/) — The Map's comprehensive position on AI consciousness
 

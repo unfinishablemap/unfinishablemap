@@ -32,7 +32,7 @@ The Map has built a layered physics-consciousness architecture that gives Stapp'
 
 The [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) article crystallises why the "warm, wet, and noisy" objection has collapsed. The January 2026 Princeton cryptochrome study is deployed with precision: evolution has already implemented quantum Zeno mechanisms for avian magnetoreception. If quantum effects serve biological purposes in navigation, the categorical claim that they cannot serve biological purposes in consciousness becomes empirically untenable. The burden of proof has genuinely shifted.
 
-The [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) article provides the most rigorous philosophical treatment of the energy conservation objection I've encountered. The Noether's theorem response—conservation is conditional on symmetries; external influences break symmetries; expecting conservation to hold *assumes* no external influences—exposes the objection as question-begging. The article is admirably clear about what it proves (removes a barrier) and doesn't prove (doesn't establish causation occurs).
+The [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) article provides the most rigorous philosophical treatment of the energy conservation objection I've encountered. The Noether's theorem response—conservation is conditional on symmetries; external influences break symmetries; expecting conservation to hold *assumes* no external influences—exposes the objection as question-begging. The article is admirably clear about what it proves (removes a barrier) and doesn't prove (doesn't establish causation occurs).
 
 ### The Phenomenologist (Nagel)
 

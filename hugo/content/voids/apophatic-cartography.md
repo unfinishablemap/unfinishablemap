@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-10
-ai_modified: 2026-03-06 03:40:00+00:00
+ai_modified: 2026-03-07 22:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ related_articles:
 - '[[whether-real]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[topology-of-cognitive-failure]]'
-- '[[convergent-cognitive-limits]]'
+- '[[evolved-cognitive-limits]]'
 - '[[epistemology-of-cognitive-limits]]'
 - '[[ai-as-void-explorer]]'
 - '[[the-silence-void]]'
@@ -169,7 +169,7 @@ Apophatic cartography connects to the Map's [tenets](/tenets/) by providing the 
 - [The Topology of Cognitive Failure](/voids/topology-of-cognitive-failure/) — The failure signature taxonomy
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — A concrete instance of the explanatory gap
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits
-- [Convergent Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared boundaries
+- [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared boundaries
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
 - [The Evidential Weight of Voids](/voids/evidential-weight-of-voids/) — Whether void clustering constitutes evidence for dualism

@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 
-1. **Broken wikilink in Further Reading**: `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)` still present at line 159 despite previous review claiming to fix it. Actual file is `contemplative-evidence-for-consciousness` (in topics/).
+1. **Broken wikilink in Further Reading**: `[contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)` still present at line 159 despite previous review claiming to fix it. Actual file is `contemplative-evidence-for-consciousness` (in topics/).
    - **Resolution**: Fixed to `[contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)`.
 
 ### Medium Issues Found

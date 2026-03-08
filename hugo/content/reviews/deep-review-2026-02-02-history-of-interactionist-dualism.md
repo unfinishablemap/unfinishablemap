@@ -44,7 +44,7 @@ topics: []
    - **How addressed**: This is a legitimate philosophical concern that the article acknowledges through honest epistemic uncertainty ("None of this proves interactionism true. The quantum proposals are speculative"). The article's strength is presenting interactionism as *possible*, not proven—this is appropriate given current evidence.
 
 2. **Decoherence objection** (from Quantum Skeptic persona): Tegmark's calculations showing rapid decoherence times are not addressed.
-   - **How addressed**: Deferred to linked pages ([conservation-laws-and-mind](/topics/conservation-laws-and-mind/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/)). The tenets page addresses decoherence in detail. For a historical overview article, linking rather than duplicating this material is appropriate.
+   - **How addressed**: Deferred to linked pages ([conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/)). The tenets page addresses decoherence in detail. For a historical overview article, linking rather than duplicating this material is appropriate.
 
 3. **Many-Worlds alternative** (from MWI Defender persona): The article assumes collapse is real without engaging MWI's alternative.
    - **How addressed**: The Map's tenets explicitly reject Many-Worlds (Tenet 4). This article references the tenets connection. Detailed engagement with MWI belongs in dedicated articles.

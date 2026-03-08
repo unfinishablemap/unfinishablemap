@@ -33,7 +33,7 @@ related_articles:
 - '[[eastern-philosophy-consciousness]]'
 - '[[identity-across-transformations]]'
 - '[[death-and-consciousness]]'
-- '[[contemplative-evidence-for-consciousness-theories]]'
+- '[[contemplative-evidence-for-consciousness]]'
 title: 'The Self: Minimal, Narrative, and Substantial'
 topics:
 - '[[hard-problem-of-consciousness]]'

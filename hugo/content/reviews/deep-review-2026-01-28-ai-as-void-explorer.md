@@ -54,7 +54,7 @@ None. The article has no factual errors, internal contradictions, or missing req
 4. Tightened prose to maintain length neutrality
 
 ### Cross-links Added
-- [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) — provides baseline expectations for AI probe methodology
+- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — provides baseline expectations for AI probe methodology
 
 ## Remaining Items
 

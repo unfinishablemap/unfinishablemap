@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-01-31 10:58:00+00:00
+ai_modified: 2026-03-07 22:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ related_articles:
 - '[[defended-territory]]'
 - '[[limits-reveal-structure]]'
 - '[[tenet-generated-voids]]'
-- '[[convergent-cognitive-limits]]'
+- '[[evolved-cognitive-limits]]'
 - '[[conceptual-acquisition-limits]]'
 title: Natural vs. Designed Cognitive Limits
 topics:
@@ -143,7 +143,7 @@ Note that this recursive challenge applies equally to philosophical positions ab
 - [Whether the Voids Are Real](/voids/whether-real/) — Questioning whether cognitive limits are genuine
 - [Defended Territory](/voids/defended-territory/) — Could some thoughts be actively blocked?
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
-- [Convergent Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level constraints
+- [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level constraints
 - [Simulation Hypothesis](/concepts/simulation/) — The scenario that sharpens the design question
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's framework for structural limits
 

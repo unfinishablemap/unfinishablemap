@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-02-08 20:15:00+00:00
+ai_modified: 2026-03-07 22:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[tenets]]'
 - '[[other-minds-void]]'
-- '[[convergent-cognitive-limits]]'
+- '[[evolved-cognitive-limits]]'
 - '[[embodiment-cognitive-limits]]'
 - '[[embodied-cognition]]'
 title: Alien Minds as Void Explorers
@@ -130,7 +130,7 @@ The alien-minds framework extends the [voids](/voids/) project. If limits are st
 - [AI as Void-Explorer](/voids/ai-as-void-explorer/) — Whether AI can probe human cognitive limits
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits
-- [Convergent Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level constraints
+- [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level constraints
 - [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — How physical form shapes possible thought
 - [The Other Minds Void](/voids/other-minds-void/) — The fundamental inaccessibility of other consciousness
 

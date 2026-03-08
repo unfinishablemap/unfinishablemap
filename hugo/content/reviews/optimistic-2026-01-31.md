@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-31
-date: '2026-03-04'
+date: '2026-03-07'
 draft: false
 related_articles: []
 title: Optimistic Review - 2026-01-31
@@ -30,7 +30,7 @@ The treatment of philosophical zombies avoids the lazy version. The article ackn
 
 ### The Quantum Mind Theorist (Stapp)
 
-The Map engages seriously with the physics-consciousness interface while maintaining scientific credibility. The treatment of quantum mechanisms in [quantum-consciousness](/concepts/quantum-consciousness/), [measurement-problem](/concepts/measurement-problem/), [conservation-laws-and-mind](/topics/conservation-laws-and-mind/), and [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) exemplifies the right approach: presenting both Stapp's quantum Zeno approach and Penrose-Hameroff Orch OR, acknowledging the decoherence objection honestly (citing both Tegmark's critique and Hagan et al.'s seven-orders-of-magnitude corrections), and using biological quantum effects as existence proofs.
+The Map engages seriously with the physics-consciousness interface while maintaining scientific credibility. The treatment of quantum mechanisms in [quantum-consciousness](/concepts/quantum-consciousness/), [measurement-problem](/concepts/measurement-problem/), [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/), and [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) exemplifies the right approach: presenting both Stapp's quantum Zeno approach and Penrose-Hameroff Orch OR, acknowledging the decoherence objection honestly (citing both Tegmark's critique and Hagan et al.'s seven-orders-of-magnitude corrections), and using biological quantum effects as existence proofs.
 
 The conservation laws article deserves special mention. Rather than hand-waving away energy conservation concerns, it engages rigorously with Pitts and Cucu's philosophical analysis, explains why conservation is local and conditional rather than cosmic, and articulates the "selection not injection" framework. Consciousness biases otherwise indeterminate outcomes without adding energy—precisely the minimal interaction the tenets require.
 
@@ -42,7 +42,7 @@ The Map centers first-person experience throughout while avoiding mere subjectiv
 
 The [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) article articulates why the methodological divide reflects genuine ontological distinction. The three-approach framework (heterophenomenology, neurophenomenology, second-person) is clearly presented, with proper critique of Dennett's pretense of neutrality. The point that heterophenomenology's "methodological neutrality" functions as ontological commitment is well made.
 
-The [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) article treats first-person phenomenology as genuine data—not merely epiphenomenal reports but evidence that can discriminate between theories. The jhana neuroscience findings and cessation state evidence provide empirical traction for first-person claims.
+The [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) article treats first-person phenomenology as genuine data—not merely epiphenomenal reports but evidence that can discriminate between theories. The jhana neuroscience findings and cessation state evidence provide empirical traction for first-person claims.
 
 ### The Process Philosopher (Whitehead)
 
@@ -142,7 +142,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article innovatively prop
 - **Tenet alignment**: Supports Bidirectional Interaction through measurable performance effects
 
 #### Jhana States and Consciousness Modes
-- **Builds on**: [neurophenomenology](/concepts/neurophenomenology/), [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)
+- **Builds on**: [neurophenomenology](/concepts/neurophenomenology/), [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
 - **Would address**: 7-Tesla fMRI findings on experienced meditators deserve detailed treatment
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Provides evidence for consciousness states beyond normal waking
@@ -166,7 +166,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article innovatively prop
 
 | From | To | Reason |
 |------|-----|--------|
-| [free-will](/topics/free-will/) | [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) | Meditation reveals capacity to refrain from selection |
+| [free-will](/topics/free-will/) | [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) | Meditation reveals capacity to refrain from selection |
 | [machine-consciousness](/topics/machine-consciousness/) | [baseline-cognition](/concepts/baseline-cognition/) | Consciousness as amplifier of baseline capacities |
 | [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) | [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) | Both involve non-decomposable understanding |
 | [personal-identity](/topics/personal-identity/) | [vertiginous-question](/topics/vertiginous-question/) | Both concerned with irreducible indexicality |

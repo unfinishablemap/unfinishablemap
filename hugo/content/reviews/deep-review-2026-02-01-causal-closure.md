@@ -64,7 +64,7 @@ The six adversarial personas found no new issues. The article already addresses:
 
 ### Cross-links Verified
 
-- `[conservation-laws-and-mind](/topics/conservation-laws-and-mind/)` — inline reference and Further Reading entry both present
+- `[conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/)` — inline reference and Further Reading entry both present
 - `[delegatory-dualism](/topics/delegatory-dualism/)` — integrated in overdetermination response and Further Reading
 
 ## Remaining Items

@@ -26,7 +26,7 @@ last_deep_review: 2026-03-01 09:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[conservation-laws-and-mind]]'
+- '[[conservation-laws-and-mental-causation]]'
 - '[[bradford-saad-delegatory-dualism-2026-01-28]]'
 title: Delegatory Dualism
 topics:
@@ -248,7 +248,7 @@ Saad's work strengthens the philosophical foundations for the Map's interactioni
 - [illusionism](/concepts/illusionism/) — The radical challenge that denies phenomenal consciousness exists
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI (relevant to Map's quantum integration, not Saad's theory)
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Chalmers' framework for mind-body laws
-- [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Why conservation doesn't block mental causation
+- [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why conservation doesn't block mental causation
 - [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) — Quantum entanglement as the physical substrate for unified experience
 - [bradford-saad-delegatory-dualism-2026-01-28](/research/bradford-saad-delegatory-dualism-2026-01-28/) — Research notes on Saad's work
 

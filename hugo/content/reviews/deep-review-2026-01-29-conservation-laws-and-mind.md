@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-29
-**Article**: [Conservation Laws and Mind-Brain Causation](/topics/conservation-laws-and-mind/)
+**Article**: [Conservation Laws and Mind-Brain Causation](/concepts/conservation-laws-and-mental-causation/)
 **Previous review**: [2026-01-25](/reviews/deep-review-2026-01-25-conservation-laws-and-mind/)
 
 ## Pessimistic Analysis Summary

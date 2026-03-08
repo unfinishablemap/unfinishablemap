@@ -32,7 +32,7 @@ last_deep_review: 2026-02-06 18:39:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[contemplative-evidence-for-consciousness-theories]]'
+- '[[contemplative-evidence-for-consciousness]]'
 - '[[phenomenology-of-epistemic-judgment]]'
 - '[[epistemological-limits-occams-razor]]'
 title: Phenomenological Evidence
@@ -176,7 +176,7 @@ Phenomenological evidence provides the data that any adequate theory of consciou
 - [introspection](/concepts/introspection/) — The reliability debate and trained first-person methods
 - [heterophenomenology](/concepts/heterophenomenology/) — The third-person alternative approach
 - [intersubjectivity](/concepts/intersubjectivity/) — How first-person evidence achieves intersubjective validation
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — How meditation findings bear on consciousness debates
+- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — How meditation findings bear on consciousness debates
 - [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/) — The experience of evaluating evidence phenomenologically
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — The broader methodological divide in consciousness science
 - [explanatory-gap](/concepts/explanatory-gap/) — Why third-person evidence alone cannot explain consciousness

@@ -22,7 +22,7 @@ related_articles:
 - '[[past-self-void]]'
 - '[[memory-void]]'
 - '[[other-minds-void]]'
-- '[[convergent-cognitive-limits]]'
+- '[[evolved-cognitive-limits]]'
 - '[[developmental-cognitive-closure]]'
 - '[[calibration-void]]'
 - '[[intersubjective-void]]'

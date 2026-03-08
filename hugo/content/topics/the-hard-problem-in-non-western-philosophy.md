@@ -39,7 +39,7 @@ title: The Hard Problem in Non-Western Philosophy
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[eastern-philosophy-consciousness]]'
-- '[[contemplative-evidence-for-consciousness-theories]]'
+- '[[contemplative-evidence-for-consciousness]]'
 ---
 
 David Chalmers named the hard problem of consciousness in 1995, but the underlying puzzle—why subjective experience exists at all, and how it relates to the physical world—was recognized independently across multiple philosophical traditions spanning thousands of years. The Unfinishable Map argues that this cross-cultural convergence is significant: when Indian, Islamic, African, and Japanese traditions each identify something irreducible about consciousness through independent paths, they may be tracking a real feature of reality. But the convergence is not universal—Chinese philosophical traditions largely dissolve rather than generate the hard problem—and this article takes that challenge seriously.
@@ -120,7 +120,7 @@ Bantu philosophy's concept of vital force (*NTU*), as articulated by Placide Tem
 
 ## The Cross-Cultural Convergence Argument
 
-The diversity of these responses is itself philosophically significant. Several traditions with no historical contact independently arrive at a common recognition: consciousness resists physical description. They disagree profoundly about what follows—dualism, monism, dissolution, relational ontology—but many share this starting observation.
+The diversity of these responses is itself philosophically significant. Several traditions with no historical contact independently arrive at a common recognition: consciousness resists physical description. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) documents this convergence at the experiential level—Buddhist, Hindu, Christian, Sufi, and Daoist practitioners report structurally similar self-dissolution, contentless awareness, and subject-object collapse despite incompatible metaphysical frameworks. They disagree profoundly about what follows—dualism, monism, dissolution, relational ontology—but many share this starting observation.
 
 However, the convergence is not unanimous. Chinese philosophical traditions largely do not generate the hard problem, and this exception must be weighed honestly rather than explained away. The convergence argument is strongest among traditions that share certain ontological assumptions (distinguishing subject from object, or self from world) and weakest as a claim about universal human philosophical insight.
 
@@ -160,7 +160,7 @@ The Map's engagement with non-Western philosophy serves all five tenets.
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Broader survey of Hindu, Buddhist, and Taoist engagement with consciousness
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Detailed compatibility analysis of Buddhist no-self and the Map's dualism
 - [witness-consciousness](/concepts/witness-consciousness/) — The Advaitic *sakṣin* and Buddhist witnessing traditions
-- [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — First-person data as empirical test
+- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — First-person data as empirical test
 - [mysterianism](/concepts/mysterianism/) — McGinn's cognitive closure thesis, paralleled by al-Ghazālī
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual chasm these traditions independently identify
 - [agent-causation](/concepts/agent-causation/) — The philosophical framework Nyāya independently articulates

@@ -68,7 +68,7 @@ All attributions unchanged from previous review and verified:
 ### Enhancements Made
 - Added "The Conservation Objection" subsection between Decoherence Challenge and Specification Challenge, addressing both Noether conditionality and selection-not-injection responses
 - Added wikilink to conservation mention in Specification Challenge section
-- Added `[conservation-laws-mind-brain-causation](/concepts/conservation-laws-mind-brain-causation/)` to concepts frontmatter and Further Reading
+- Added `[conservation-laws-mind-brain-causation](/concepts/conservation-laws-and-mental-causation/)` to concepts frontmatter and Further Reading
 - Added Cucu & Pitts (2019) to References
 - Tightened overdetermination section (removed redundant phrasing)
 - Tightened delegatory dualism overdetermination distinction
@@ -79,7 +79,7 @@ All attributions unchanged from previous review and verified:
 - Condensed Bidirectional Interaction paragraph in Relation to Map's Perspective
 
 ### Cross-links Added
-- [conservation-laws-mind-brain-causation](/concepts/conservation-laws-mind-brain-causation/) (new subsection, Specification Challenge, Further Reading, frontmatter)
+- [conservation-laws-mind-brain-causation](/concepts/conservation-laws-and-mental-causation/) (new subsection, Specification Challenge, Further Reading, frontmatter)
 
 ## Remaining Items
 

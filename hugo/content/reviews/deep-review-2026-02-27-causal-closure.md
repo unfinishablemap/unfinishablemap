@@ -32,7 +32,7 @@ None. The article has been reviewed four times previously and reached stability.
 1. **Question-begging point lost in condensation**: The 2026-02-01 review added a note that the conservation objection begs the question by assuming no mental influences exist. The 2026-02-15 condensation removed this. Restored with concise phrasing: "assuming it holds in brains presupposes no mental influences exist—begging the question."
    - **Resolution**: Conservation paragraph now includes the question-begging point in compressed form.
 
-2. **Missing cross-link to conservation-laws-mind-brain-causation**: The newer concepts article (created 2026-02-25) provides complementary treatment of non-energetic causation precedents (entanglement, boundary conditions, Beck-Eccles model) not present in the existing [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) topics article.
+2. **Missing cross-link to conservation-laws-mind-brain-causation**: The newer concepts article (created 2026-02-25) provides complementary treatment of non-energetic causation precedents (entanglement, boundary conditions, Beck-Eccles model) not present in the existing [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) topics article.
    - **Resolution**: Added to concepts frontmatter and Further Reading with distinct description.
 
 ### Low Issues
@@ -77,7 +77,7 @@ No dropped qualifiers, no source/Map conflation, no misattributions found.
 
 ### Cross-links Added
 
-- `[conservation-laws-mind-brain-causation](/concepts/conservation-laws-mind-brain-causation/)` — concepts frontmatter and Further Reading
+- `[conservation-laws-mind-brain-causation](/concepts/conservation-laws-and-mental-causation/)` — concepts frontmatter and Further Reading
 
 ## Length Management
 

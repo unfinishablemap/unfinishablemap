@@ -157,7 +157,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 - [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) — Voluntary imagery as evidence for consciousness's causal role
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Negative evidence: when consciousness interferes with automaticity
 - [self-stultification](/concepts/self-stultification/) — The self-defeat argument against epiphenomenalism in detail
-- [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) — Whether mental causation violates energy conservation
+- [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Whether mental causation violates energy conservation
 - [agent-causation](/concepts/agent-causation/) — How consciousness exercises causal powers
 - [baseline-cognition](/concepts/baseline-cognition/) — The great ape comparison
 - [downward-causation](/concepts/downward-causation/) — Top-down causation more generally

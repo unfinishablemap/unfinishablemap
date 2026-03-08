@@ -24,7 +24,7 @@ related_articles:
 - '[[other-minds-void]]'
 - '[[consciousness-only-territories]]'
 - '[[alien-minds-void-explorers]]'
-- '[[convergent-cognitive-limits]]'
+- '[[evolved-cognitive-limits]]'
 - '[[conceptual-impossibility]]'
 - '[[limits-reveal-structure]]'
 - '[[whether-real]]'

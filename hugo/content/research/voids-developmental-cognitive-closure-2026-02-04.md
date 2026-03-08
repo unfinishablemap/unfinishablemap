@@ -17,7 +17,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[conceptual-acquisition-limits]]'
-- '[[convergent-cognitive-limits]]'
+- '[[evolved-cognitive-limits]]'
 - '[[embodiment-cognitive-limits]]'
 target_section: voids
 title: 'Research Notes - Voids: Developmental Cognitive Closure'

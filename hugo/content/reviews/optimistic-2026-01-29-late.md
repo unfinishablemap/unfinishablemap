@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-5-20251101
 concepts: []
 created: 2026-01-29
-date: '2026-03-04'
+date: '2026-03-07'
 draft: false
 related_articles: []
 title: Optimistic Review - 2026-01-29 (Late)
@@ -173,18 +173,18 @@ The [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) 
 - **Emergence and Downward Causation**: Integration of emergence literature with the Map's interactionist framework
 - **The Ethics of Consciousness Engineering**: Implications of dualism for technologies that modify or create consciousness
 - **Process Philosophy and Quantum Mechanics**: Deeper integration of Whitehead with the Map's quantum framework
-- **Contemplative Neuroscience**: Bridge between [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) and the neuroscience literature on meditation
+- **Contemplative Neuroscience**: Bridge between [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) and the neuroscience literature on meditation
 - **Historical Dualist Traditions**: Treatment of pre-modern dualist thought (Plato, Descartes, Leibniz) and how the Map relates
 
 ## Cross-Linking Suggestions
 
 | From | To | Reason |
 |------|-----|--------|
-| [delegatory-dualism](/topics/delegatory-dualism/) | [conservation-laws-and-mind](/topics/conservation-laws-and-mind/) | Both address energy conservation objections to mental causation |
+| [delegatory-dualism](/topics/delegatory-dualism/) | [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) | Both address energy conservation objections to mental causation |
 | [argument-from-reason](/topics/argument-from-reason/) | [intentionality](/concepts/intentionality/) | Both concern normativity and aboutness |
 | [vertiginous-question](/topics/vertiginous-question/) | [many-worlds](/concepts/many-worlds/) | MWI makes the vertiginous question unanswerable |
 | [meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/) | [argument-from-reason](/topics/argument-from-reason/) | Both argue consciousness is required for genuine understanding |
-| [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) | [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) | Theoretical and practical aspects of contemplative evidence |
+| [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) | [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) | Theoretical and practical aspects of contemplative evidence |
 | [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) | [decoherence](/concepts/decoherence/) | Biological quantum effects address decoherence objection |
 | [death-and-consciousness](/topics/death-and-consciousness/) | [filter-theory](/concepts/filter-theory/) | Filter model explains why brain compromise sometimes enhances experience |
 
