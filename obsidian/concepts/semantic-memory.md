@@ -4,7 +4,7 @@ description: "Factual knowledge has its own phenomenology: tip-of-the-tongue fru
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-03T23:41:00+00:00
+ai_modified: 2026-03-08T00:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-02-02T19:42:00+00:00
+last_deep_review: 2026-03-08T00:59:00+00:00
 ---
 
 You know that Paris is the capital of France, that water freezes at 0°C, and that Napoleon lost at Waterloo. This knowledge is simply *available*—you don't mentally travel back to when you learned these facts. You don't re-experience sitting in geography class or reading a history book. The facts are just there, accessible without phenomenal replay. This is semantic memory, accompanied by what Endel Tulving called *noetic consciousness*: knowing without re-experiencing.
@@ -78,7 +78,7 @@ Consider what happens when you finally understand a proof. There's the "aha" mom
 
 ### The Phenomenal Constitution Thesis
 
-The [[meaning-and-consciousness|Phenomenal Constitution Thesis (PCT)]] makes the stronger claim that meaning isn't just accompanied by phenomenology—meaning is constitutively phenomenal. On this view, to grasp that Paris is in France *is* to have a certain kind of experience; the semantic content cannot be separated from the experiential character. Semantic memory would then involve not information storage that consciousness illuminates, but phenomenal states that constitute the meanings themselves.
+The [[consciousness-and-semantic-understanding|Phenomenal Constitution Thesis (PCT)]] makes the stronger claim that meaning isn't just accompanied by phenomenology—meaning is constitutively phenomenal. On this view, to grasp that Paris is in France *is* to have a certain kind of experience; the semantic content cannot be separated from the experiential character. Semantic memory would then involve not information storage that consciousness illuminates, but phenomenal states that constitute the meanings themselves.
 
 TOT states provide striking evidence for PCT. During a tip-of-the-tongue state, you have the meaning without the phonological form. What you possess isn't merely information about the target word (first letter, syllable count)—you have *phenomenal access to the meaning itself*. Otherwise, how would you recognise the word when it finally comes? The meaning is experienced directly, even when the label cannot be retrieved. This dissociation shows that semantic content has phenomenal presence independent of linguistic expression.
 

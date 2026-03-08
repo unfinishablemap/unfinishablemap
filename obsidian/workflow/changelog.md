@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08 00:59 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/semantic-memory]]
+- **Word count**: 3096 → 3096 (+0)
+- **Critical issues addressed**: 1 (stale wikilink from coalesce)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-03-08-semantic-memory]]
+
 ## 2026-03-08 00:54 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/leibnizs-mill-argument]]
