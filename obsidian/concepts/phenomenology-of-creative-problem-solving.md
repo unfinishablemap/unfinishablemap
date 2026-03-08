@@ -63,7 +63,7 @@ The [[epistemic-emotions|epistemic emotions]] that accompany impasse — frustra
 
 The central event in creative problem-solving is *restructuring* — the moment when the problem's elements rearrange into a new configuration. This is the creative core, and its phenomenology is remarkable.
 
-Restructuring is experienced as a *gestalt shift* — a form of [[categorical-surprise|categorical surprise]] where the solver's framework, not merely a prediction, collapses. Like the Necker cube flipping between orientations, the same elements are suddenly seen in a new relationship. But unlike perceptual gestalt shifts, cognitive restructuring typically cannot be reversed at will. Once you see the solution, you cannot unsee it. The old framing becomes almost unintelligible — you wonder how you could have been stuck for so long.
+Restructuring is experienced as a *gestalt shift* — a form of [[categorical-surprise|categorical surprise]] where the solver's framework, not merely a prediction, collapses. In [[phenomenology-of-scientific-discovery|scientific discovery]], this restructuring carries an additional experiential dimension: the sense that the new pattern was already there in nature, waiting to be recognised — a felt encounter with something external that constrains and corrects. Like the Necker cube flipping between orientations, the same elements are suddenly seen in a new relationship. But unlike perceptual gestalt shifts, cognitive restructuring typically cannot be reversed at will. Once you see the solution, you cannot unsee it. The old framing becomes almost unintelligible — you wonder how you could have been stuck for so long.
 
 This irreversibility is phenomenologically striking. Wertheimer (1945) distinguished between "productive" and "reproductive" thinking precisely along this axis: productive thinking transforms the problem space itself, while reproductive thinking merely searches within an existing space. The phenomenology confirms this distinction. Productive restructuring feels qualitatively different from finding something through systematic search — it feels like the problem changes, not like you finally found the right path through an unchanged maze. Some researchers (notably Weisberg, 2015) argue that the boundary between insight and incremental solving is less categorical than this suggests — that many apparent "insights" involve gradual processing reported retrospectively as sudden. The phenomenological distinction may be one of degree rather than kind, but even a difference of degree is significant: the *felt character* of restructuring, even when it emerges from partly incremental processes, remains qualitatively distinctive.
 
@@ -117,6 +117,7 @@ The phenomenology of creative problem-solving supports several of the Map's [[te
 - [[phenomenology-of-conceptual-change]]
 - [[phenomenology-of-agency-vs-passivity]]
 - [[categorical-surprise]]
+- [[phenomenology-of-scientific-discovery]]
 
 ## References
 

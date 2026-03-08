@@ -1,10 +1,10 @@
 ---
 title: "The Phenomenology of Scientific Discovery"
-description: "Scientific discovery has a distinctive experiential structure shaped by nature's resistance and revelation. The felt encounter with anomaly, theory revision, and empirical confirmation resists physical reduction."
+description: "Scientific discovery involves felt encounters with anomaly, theory revision, and confirmation that resist physical reduction and reveal consciousness in dialogue with nature."
 created: 2026-03-07
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-03-07T22:43:00+00:00
+ai_modified: 2026-03-08T00:08:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-07
 last_curated:
-last_deep_review: 2026-03-07T22:43:00+00:00
+last_deep_review: 2026-03-08T00:08:00+00:00
 ---
 
 Scientific discovery has a phenomenology distinct from other forms of creative insight. The Unfinishable Map argues that what makes scientific discovery experientially unique is the felt encounter with something *external* — nature's resistance to expectation, the shock of anomalous data, the slow or sudden revision of theoretical frameworks. Unlike artistic creation or mathematical proof, scientific discovery involves a consciousness that is simultaneously active (constructing theories, designing experiments) and receptive (encountering evidence that constrains and corrects). This interplay between agency and receptivity gives scientific discovery its characteristic experiential texture and reveals something important about the relationship between consciousness and the physical world.

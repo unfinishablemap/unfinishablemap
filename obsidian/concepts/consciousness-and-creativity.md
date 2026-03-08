@@ -73,7 +73,7 @@ Margaret Boden's distinction between types of creativity clarifies this integrat
 | **Exploratory** | Traversing possibility space within rules | Focusing on valuable regions |
 | **Transformational** | Changing the rules themselves | Recognizing when rule-change is needed |
 
-Transformational creativity—producing what was "downright impossible" within the previous framework—most clearly requires both aspects. You cannot select a rule-change from the old rule-system; consciousness must both generate the new rules and recognize their value.
+Transformational creativity—producing what was "downright impossible" within the previous framework—most clearly requires both aspects. You cannot select a rule-change from the old rule-system; consciousness must both generate the new rules and recognize their value. The [[phenomenology-of-scientific-discovery|phenomenology of scientific discovery]] provides vivid examples: the aesthetic sense of a theory's "rightness" guides scientists toward frameworks that nature's evidence will later confirm, combining generation (imagining new theoretical structures) with selection (recognising which fits nature).
 
 ## Neural Correlates of Creative Consciousness
 
@@ -150,6 +150,7 @@ The creative process may also illuminate [[mysterianism|cognitive closure]]. If 
 - [[neurophenomenology]] — Contemplative access to the temporal microstructure of creative experience
 - [[topics/free-will]] — How creativity connects to free action
 - [[creativity-void]] — The void where creative insight originates
+- [[phenomenology-of-scientific-discovery]] — Scientific discovery as a specific case of conscious creativity
 - [[consciousness-creativity-novelty-generation-2026-01-19]] — Research notes underlying this article
 
 ## References

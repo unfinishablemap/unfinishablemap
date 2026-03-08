@@ -39,7 +39,7 @@ The distinction matters. [[phenomenology-of-epistemic-judgment|Belief revision]]
 
 Conceptual change alters the how. After a genuine conceptual shift, the same evidence looks different — not because you evaluate it differently but because you *perceive* it differently. The gestalt has flipped. What was figure becomes ground. Features that were invisible become salient, and features that seemed essential dissolve into irrelevance.
 
-Thomas Kuhn described this at the level of scientific communities in *The Structure of Scientific Revolutions* (1962), arguing that scientists working in different paradigms inhabit "different worlds." But Kuhn was describing a sociological pattern. The phenomenological question is more intimate: what does it feel like from the inside when your conceptual world reorganises?
+Thomas Kuhn described this at the level of scientific communities in *The Structure of Scientific Revolutions* (1962), arguing that scientists working in different paradigms inhabit "different worlds." But Kuhn was describing a sociological pattern. The Map's analysis of the [[phenomenology-of-scientific-discovery|phenomenology of scientific discovery]] takes this further: scientific anomaly recognition carries a distinctive *theoretical vertigo* — the felt destabilisation of one's entire interpretive framework — and theory revision has the experiential character of uncovering rather than constructing. The phenomenological question is more intimate: what does it feel like from the inside when your conceptual world reorganises?
 
 ## The Phenomenal Stages of Conceptual Transformation
 
@@ -131,6 +131,7 @@ The Unfinishable Map's tenets illuminate conceptual change from several directio
 - [[phenomenology-of-error-recognition]]
 - [[destabilizing-self-knowledge]]
 - [[phenomenology-of-the-edge]]
+- [[phenomenology-of-scientific-discovery]]
 - [[epistemic-emotions]]
 
 ## References

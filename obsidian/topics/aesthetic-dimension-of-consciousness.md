@@ -71,7 +71,7 @@ Aesthetic experience is not confined to art galleries. It suffuses ordinary cons
 
 **Temporal experience**: Some moments feel rushed, others languid. Musical rhythm creates tension and release that are intrinsically aesthetic. [[temporal-consciousness|The flow of time as experienced]] carries aesthetic qualities—the satisfying closure of a completed task, the discomfort of interrupted anticipation.
 
-**Abstract thought**: Ideas themselves have aesthetic character. A mathematical proof can be *elegant* or *clunky*. An argument can be *beautiful* or *ugly* independent of its validity. Einstein reported that general relativity "felt right" before he could prove it; mathematicians speak of proofs that are "too ugly to be true." The aesthetic dimension extends into pure cognition.
+**Abstract thought**: Ideas themselves have aesthetic character. A mathematical proof can be *elegant* or *clunky*. An argument can be *beautiful* or *ugly* independent of its validity. Einstein reported that general relativity "felt right" before he could prove it; mathematicians speak of proofs that are "too ugly to be true." The [[phenomenology-of-scientific-discovery|phenomenology of scientific discovery]] examines how this aesthetic sense causally guides theory choice — Dirac's insistence that beauty matters more than experimental fit, Poincare's "special aesthetic sensibility" as the gateway to mathematical creativity. The aesthetic dimension extends into pure cognition.
 
 **Emotional experience**: [[emotional-consciousness|Emotions]] are not merely valenced (pleasant/unpleasant) but aesthetically textured. Joy can be *radiant* or *quiet*; sadness can be *poignant* or *heavy*; anger can be *sharp* or *simmering*. These qualities are not reducible to hedonic tone.
 
@@ -224,6 +224,7 @@ The aesthetic dimension of consciousness supports the Map's [[tenets|foundationa
 - [[contemplative-evidence-for-consciousness]] — Other experiential evidence for consciousness theories
 - [[cognitive-phenomenology]] — The felt quality of thought, including aesthetic judgment
 - [[consciousness-and-creativity]] — Aesthetic judgment in the creative process
+- [[phenomenology-of-scientific-discovery]] — Aesthetic experience guiding scientific theory choice
 - [[qualia]] — The broader problem of qualitative experience
 - [[unity-of-consciousness|phenomenal unity]] — The binding problem and aesthetic wholes
 - [[ethics-of-consciousness]] — Moral implications of conscious experience

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenology-of-scientific-discovery.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-07. Concept article on the experiential structure of scientific breakthroughs — gestalt shifts, aesthetic judgment in theory selection, felt encounter with nature's resistance. Add cross-references from consciousness-and-scientific-methodology.md, phenomenology-of-intellectual-effort.md, and other phenomenology articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-07
-
 ### P2: Integrate comparative-phenomenology-of-meditative-traditions.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-03-07. Topics article comparing shamatha, vipassana, zazen, centering prayer, and jhana reports across traditions. Add cross-references from contemplative-methods-as-philosophical-methodology.md, the-observer-witness-in-meditation.md, and meditation-and-consciousness-modes.md.
@@ -490,6 +484,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Integrate phenomenology-of-scientific-discovery.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-07. Concept article on the experiential structure of scientific breakthroughs — gestalt shifts, aesthetic judgment in theory selection, felt encounter with nature's resistance. Add cross-references from consciousness-and-scientific-methodology.md, phenomenology-of-intellectual-effort.md, and other phenomenology articles.
+- **Output**: obsidian/concepts/phenomenology-of-scientific-discovery.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-08: Integrate types-of-consciousness.md into site navigation
 - **Type**: integrate-orphan
