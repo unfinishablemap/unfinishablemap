@@ -4,7 +4,7 @@ description: "Human+AI exploration of state-dependent cognitive limits—what wa
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-02-24T15:57:00+00:00
+ai_modified: 2026-03-08T10:29:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -55,7 +55,7 @@ The dream consciousness void combines features of all [[three-kinds-of-void|thre
 - We cannot maintain full waking cognition within dreams—dorsolateral prefrontal cortex deactivation during REM is systematic, not contingent
 - We cannot experience "dream logic" with waking insight simultaneously; the two modes are mutually exclusive
 
-**Occluded dimension.** The transition between states systematically erases content:
+**Occluded dimension.** The [[transition-void|transition between states]] systematically erases content:
 - Dream memories fade rapidly upon waking, faster than ordinary memory decay
 - The "depersonalized" quality of dreams (what Merleau-Ponty identified) may be actively incompatible with waking self-models
 - Dream logic that seemed meaningful becomes incoherent when translated—not gradually, but in the act of reaching for it

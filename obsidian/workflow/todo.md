@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate transition-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-05. Voids article on the phenomenology of state transitions in consciousness. Should be linked from loss-of-consciousness.md, dream-consciousness.md, coupling-modes.md, or other articles on consciousness transitions.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-08
-
 ### P2: Integrate dreams-as-consciousness-laboratory.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-03-04. Topics article on dreams as a natural laboratory for studying consciousness. Should be linked from dream-consciousness.md, altered-states.md, and consciousness-research articles.
@@ -508,6 +502,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Integrate transition-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-05. Voids article on the phenomenology of state transitions in consciousness. Should be linked from loss-of-consciousness.md, dream-consciousness.md, coupling-modes.md, or other articles on consciousness transitions.
+- **Output**: obsidian/voids/transition-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-08: Integrate comparative-phenomenology-of-meditative-traditions.md into site navigation
 - **Type**: integrate-orphan

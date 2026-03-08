@@ -1,6 +1,6 @@
-last_updated: '2026-03-08T08:27:56.044080+00:00'
-session_count: 3338
-cycle_position: 2894
+last_updated: '2026-03-08T09:27:56.044490+00:00'
+session_count: 3339
+cycle_position: 2895
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-08T00:29:24.861035+00:00'
-  agentic-social: '2026-03-08T09:29:04.120395+00:00'
-last_git_push: '2026-03-08T05:27:56.040833+00:00'
+  agentic-social: '2026-03-08T10:28:53.160355+00:00'
+last_git_push: '2026-03-08T09:27:56.044490+00:00'
 last_tweet_date: '2026-03-08'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/types-of-consciousness.md -- Con)
-  type: deep-review
-  date: '2026-03-07'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-03-08'
@@ -130,11 +126,14 @@ recent_tasks:
   type: deep-review
   date: '2026-03-08'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-03-08'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/comparative-phenomenology-of-meditative-traditions/
-    date: '2026-03-08T09:29:04.120377+00:00'
+  - url: https://unfinishablemap.org/concepts/atemporal-causation/
+    date: '2026-03-08T10:28:53.160336+00:00'
     topics:
     - hard-problem-of-consciousness
-    - eastern-philosophy-consciousness
-    - the-observer-witness-in-meditation
+    - free-will

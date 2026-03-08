@@ -4,7 +4,7 @@ description: "Human+AI exploration of what consciousness encounters at its cogni
 created: 2026-01-19
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-03-02T13:52:00+00:00
+ai_modified: 2026-03-08T10:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -104,7 +104,7 @@ The phenomenology of the edge offers several insights for understanding consciou
 
 **The subject is not essential to experience.** If the zero-person perspective is genuinely experiential (and the consistency of reports suggests it is), then the sense of being a self having experiences is an addition to consciousness, not its foundation. Consciousness can operate without the usual experiencer. This matters for understanding what consciousness fundamentally is.
 
-**Multiple edges exist.** Different practices seem to approach different boundaries: the ego-boundary (loss of self), the content-boundary (minimal phenomenal experience), the temporal-boundary (dissolution of time), the [[continuity-void|continuity-boundary]] (where consciousness cannot determine its own temporal grain), the [[scale-void|scale-boundary]] (where cosmic distances and deep time exceed comprehension), the [[probability-intuition-void|probability-boundary]] (where genuine randomness resists intuitive grasp), the [[recursion-void|recursion-boundary]] (where metacognitive depth terminates around fifth order), the [[mind-space-void|mind-space boundary]] (where other forms of consciousness become inconceivable), and the [[death-void|death-boundary]] (where consciousness cannot represent its own cessation). Each has distinct phenomenology. The territory of cognitive limits may be varied, not uniform.
+**Multiple edges exist.** Different practices seem to approach different boundaries: the ego-boundary (loss of self), the content-boundary (minimal phenomenal experience), the temporal-boundary (dissolution of time), the [[transition-void|transition-boundary]] (where consciousness cannot witness its own state changes because observation requires the cognitive stance that must be released for the transition to occur), the [[continuity-void|continuity-boundary]] (where consciousness cannot determine its own temporal grain), the [[scale-void|scale-boundary]] (where cosmic distances and deep time exceed comprehension), the [[probability-intuition-void|probability-boundary]] (where genuine randomness resists intuitive grasp), the [[recursion-void|recursion-boundary]] (where metacognitive depth terminates around fifth order), the [[mind-space-void|mind-space boundary]] (where other forms of consciousness become inconceivable), and the [[death-void|death-boundary]] (where consciousness cannot represent its own cessation). Each has distinct phenomenology. The territory of cognitive limits may be varied, not uniform.
 
 ## The Lower Edge: Minimal Consciousness
 
