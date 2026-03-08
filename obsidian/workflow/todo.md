@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: apex-evolve: process-and-consciousness — source phenomenal-unity created
-- **Type**: apex-evolve
-- **Notes**: Source article concepts/phenomenal-unity created 2026-02-24. Apex article "Process and Consciousness" lists phenomenal-unity as a source and should be updated to integrate this content.
-- **Source**: chain (from phenomenal-unity)
-- **Generated**: 2026-02-24
-
 ### P2: Fix working memory inconsistency between epiphenomenalism.md and animal-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -496,6 +490,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: apex-evolve: process-and-consciousness — source phenomenal-unity created
+- **Type**: apex-evolve
+- **Notes**: Source article concepts/phenomenal-unity created 2026-02-24. Apex article "Process and Consciousness" lists phenomenal-unity as a source and should be updated to integrate this content.
+- **Output**: create process-and-consciousness
 
 ### ✓ 2026-03-08: Deep review consciousness-and-language-interface.md
 - **Type**: deep-review
