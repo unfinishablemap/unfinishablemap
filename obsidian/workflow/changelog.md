@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T21:11:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Illusionism as epiphenomenalism in disguise
+- **Output**: [[illusionism-as-epiphenomenalism-in-disguise]]
+- **Word count**: 1473
+- **Based on research**: yes — [[illusionism-consciousness-2026-01-14]], [[epiphenomenalism-2026-01-08]]
+
 ## 2026-03-08T20:11:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Islamic and Sufi philosophical traditions on consciousness
