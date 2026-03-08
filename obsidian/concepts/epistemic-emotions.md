@@ -71,7 +71,7 @@ Educationally, confusion is double-edged: it signals that learning is occurring,
 
 Surprise is the epistemic emotion of prediction error. It arrives suddenly, with intensity proportional to expectation, and captures attention toward the unexpected. The relationship to [[phenomenology-of-error-recognition|error recognition]] is illuminating: since we cannot detect current errors directly, surprise provides indirect detection—when a confident prediction fails, surprise signals that some belief was wrong.
 
-Predictive processing frameworks interpret surprise as the phenomenal correlate of prediction error. The [[phenomenology-of-scientific-discovery|phenomenology of scientific discovery]] reveals a specific epistemic emotion associated with anomalous data — what that article calls *theoretical vertigo* — where the entire interpretive framework destabilises rather than a single prediction failing. But this functional account leaves the phenomenal character unexplained. Why should prediction error *feel* like anything? The irreducibility of surprise's phenomenology supports the view that consciousness is not merely computational.
+Predictive processing frameworks interpret surprise as the phenomenal correlate of prediction error. The [[phenomenology-of-creative-insight|phenomenology of creative insight]] reveals a specific epistemic emotion associated with anomalous data — what that article calls *theoretical vertigo* — where the entire interpretive framework destabilises rather than a single prediction failing. But this functional account leaves the phenomenal character unexplained. Why should prediction error *feel* like anything? The irreducibility of surprise's phenomenology supports the view that consciousness is not merely computational.
 
 ### Insight: The Aha Moment
 
@@ -179,7 +179,7 @@ None of these conditions currently obtains.
 - [[philosophical-zombies]] — Why functional duplicates without experience pose problems
 - [[attention-as-interface|attention]] — How epistemic emotions direct cognitive resources
 - [[witness-consciousness]] — Observing epistemic emotions without identification
-- [[phenomenology-of-scientific-discovery]] — Epistemic emotions in scientific anomaly recognition and theory choice
+- [[phenomenology-of-creative-insight]] — Epistemic emotions in scientific anomaly recognition and theory choice
 
 ## References
 
