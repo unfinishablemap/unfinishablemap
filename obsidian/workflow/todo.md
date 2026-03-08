@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense research/voids-causal-interface-2026-01-30.md (3530 words, 141% of target)
-- **Type**: condense
-- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings on causal interface voids while removing redundancy and tightening prose. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-08
-
 ### P2: Deep review evolved-cognitive-limits.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-28, never reviewed. Oldest unreviewed voids article — 39 days without quality assurance. Examines how cognitive limits are products of evolutionary pressures rather than fundamental constraints. Directly supports Tenet 5 (Occam's Razor Has Limits). Verify coherence, cross-references, and tenet alignment.
@@ -490,6 +484,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Condense research/voids-causal-interface-2026-01-30.md (3530 words, 141% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings on causal interface voids while removing redundancy and tightening prose. See /condense skill.
+- **Output**: obsidian/research/voids-causal-interface-2026-01-30.md
 
 ### ✓ 2026-03-08: Condense research/voids-framework-void-2026-02-20.md (3562 words, 143% of target)
 - **Type**: condense
