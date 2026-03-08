@@ -154,6 +154,11 @@ def build_content_index(
     # Track all URLs per slug to detect collisions
     all_urls: dict[str, list[str]] = {}
 
+    # Include root index.md (site landing page) so [[index]] wikilinks resolve
+    root_index = obsidian_path / "index.md"
+    if root_index.exists():
+        index["index"] = "/"
+
     for sync_dir in sync_dirs:
         source_dir = obsidian_path / sync_dir
         if not source_dir.exists():
