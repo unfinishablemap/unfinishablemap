@@ -434,12 +434,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The possibility that different conscious systems couple with matter through different mechanisms. Central to comparative-consciousness-and-interface-differences and what-it-might-be-like-to-be-an-ai but currently only developed within those articles. Target section: concepts/. Supports Tenets 1 and 2. See [[reviews/optimistic-2026-03-07-night]].
 
-### P2: Write article on collapse before minds and the early universe
-- **Type**: expand-topic
-- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. How did wavefunction collapse occur before conscious observers existed? A common objection to consciousness-collapse theories that the Map must address. Relevant to the measurement problem, decoherence timescales, and pre-biotic quantum events. Target section: topics/ (1 slot remaining). Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-08
-
 ### P2: Integrate attention-disorders-and-consciousness.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-03-07. Voids article on how attention disorders reveal the architecture of the consciousness-brain interface. Add cross-references from attention-disorders-and-quantum-interface.md, structure-of-attention.md, attention-as-selection-interface.md, or other attention-related articles.
@@ -478,6 +472,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Write article on collapse before minds and the early universe
+- **Type**: expand-topic
+- **Notes**: Research completed in research/collapse-before-minds-early-universe-2026-01-16.md. How did wavefunction collapse occur before conscious observers existed? A common objection to consciousness-collapse theories that the Map must address. Relevant to the measurement problem, decoherence timescales, and pre-biotic quantum events. Target section: topics/ (1 slot remaining). Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds).
+- **Output**: collapse before minds and the early universe
 
 ### ✓ 2026-03-08: Fix working memory inconsistency between epiphenomenalism.md and animal-consciousness.md
 - **Type**: refine-draft
