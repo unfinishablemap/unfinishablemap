@@ -4,7 +4,7 @@ description: "Anesthesia and coma don't prove brains produce consciousness. Filt
 created: 2026-01-15
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-01-31T11:28:00+00:00
+ai_modified: 2026-03-08T00:49:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-01-31T11:28:00+00:00
+last_deep_review: 2026-03-08T00:49:00+00:00
 ---
 
 Loss of consciousness—through anesthesia, coma, or brain injury—provides a natural experiment for understanding the mind-brain relationship. Materialists argue that consciousness disappearing when brain function is disrupted proves consciousness is produced by the brain. But this argument conflates correlation with causation. The filter or transmission theory, developed by William James, Henri Bergson, and Aldous Huxley, interprets the same evidence differently: brain dysfunction disrupts the *interface* through which consciousness operates, not the consciousness itself. Several findings support this alternative interpretation: behaviorally unresponsive patients who retain awareness detectable only via neuroimaging, radically different conscious states from anesthetics that produce identical behavioral unresponsiveness, and consciousness persisting despite massive neural loss from hemispherectomy.
@@ -56,7 +56,7 @@ Yet the argument commits a logical error. Correlation—even tight, reliable cor
 
 ## The Filter Theory Alternative
 
-At the close of the nineteenth century, several philosophers and psychologists dissented from growing physiological reductionism. William James proposed a "bidirectional transducer" model using the analogy of a prism. A broken prism fails to refract white light into colors—but this failure doesn't prove the prism *produces* colors. The prism has a transmissive function; it reveals rather than generates.
+At the close of the nineteenth century, several philosophers and psychologists dissented from growing physiological reductionism. William James proposed a "transmissive function" model for the brain, contrasting it with the assumed "productive function." His analogy of a prism illustrates the distinction: a broken prism fails to refract white light into colors—but this failure doesn't prove the prism *produces* colors. The prism has a transmissive function; it reveals rather than generates.
 
 Henri Bergson argued that the brain selects and transmits only action-relevant information from a larger field of consciousness. Memory, for Bergson, is not stored in the brain but activated through it when needed for action. The brain's role is eliminative—filtering out what is unnecessary for survival—rather than productive.
 
@@ -179,6 +179,7 @@ The Map's [[tenets]] converge on loss of consciousness as a domain where the dua
 ## Further Reading
 
 - [[identity-across-transformations]] — Apex synthesis: how indexical identity persists through anesthesia, split-brain, altered states, and death
+- [[anaesthesia-and-the-consciousness-interface]] — How different anaesthetic agents map the structured, multi-layered consciousness interface
 - [[altered-states-of-consciousness]] — Loss of consciousness as part of the broader ASC spectrum
 - [[neural-correlates-of-consciousness]]
 - [[near-death-experiences]]
