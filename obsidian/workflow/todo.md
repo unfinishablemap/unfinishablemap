@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate comparative-phenomenology-of-meditative-traditions.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-07. Topics article comparing shamatha, vipassana, zazen, centering prayer, and jhana reports across traditions. Add cross-references from contemplative-methods-as-philosophical-methodology.md, the-observer-witness-in-meditation.md, and meditation-and-consciousness-modes.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-07
-
 ### P2: Cross-review attention-as-selection-interface.md considering attention-disorders insights
 - **Type**: cross-review
 - **Notes**: New article on consciousness and the structure of attention disorders was written 2026-03-07. attention-as-selection-interface.md is the Map's central treatment of attention as the selection channel for consciousness-brain interaction. The new attention disorders article provides natural-experiment evidence — if attention is the selection channel, disorders that alter attentional bandwidth should produce predictable changes in conscious experience. Check for cross-links, reinforcing arguments, and empirical evidence integration.
@@ -484,6 +478,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-08: Integrate comparative-phenomenology-of-meditative-traditions.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-07. Topics article comparing shamatha, vipassana, zazen, centering prayer, and jhana reports across traditions. Add cross-references from contemplative-methods-as-philosophical-methodology.md, the-observer-witness-in-meditation.md, and meditation-and-consciousness-modes.md.
+- **Output**: obsidian/topics/comparative-phenomenology-of-meditative-traditions.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-08: Integrate phenomenology-of-scientific-discovery.md into site navigation
 - **Type**: integrate-orphan

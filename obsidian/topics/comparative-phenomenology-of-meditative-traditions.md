@@ -4,7 +4,7 @@ description: "Cross-traditional meditation reports converge on structural featur
 created: 2026-03-07
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-03-07T08:39:00+00:00
+ai_modified: 2026-03-08T00:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-07
 last_curated:
-last_deep_review: 2026-03-07T08:39:00+00:00
+last_deep_review: 2026-03-08T00:23:00+00:00
 ---
 
 Meditators across radically different traditions report strikingly similar experiences. Buddhist monks in Thailand, Hindu yogis in Rishikesh, Christian contemplatives in Carmelite monasteries, and Sufi practitioners in Istanbul all describe states involving the dissolution of ordinary selfhood, the appearance of awareness without content, and the felt distinction between consciousness and its objects. These traditions disagree profoundly on what these experiences *mean*—whether they reveal Brahman, emptiness, God, or the divine Beloved—yet the phenomenological descriptions converge. The Unfinishable Map argues this convergence is evidence that meditation discovers structural features of consciousness rather than constructing tradition-specific artefacts.
@@ -74,7 +74,7 @@ The structural convergence: awareness is separable from its ordinary contents. T
 
 ### The Subject-Object Collapse
 
-A third convergence zone involves states where the ordinary distinction between experiencer and experienced dissolves.
+A third convergence zone involves states where the ordinary distinction between experiencer and experienced dissolves—what [[the-subject-object-distinction-as-philosophical-discovery|the subject-object distinction as philosophical discovery]] traces as a structural feature uncovered independently by multiple traditions.
 
 **Advaita's non-dual awareness** (*advaita* literally means "not-two") describes experience where the separation between subject and object collapses. Awareness no longer observes something; it simply is, without division into knower and known.
 
