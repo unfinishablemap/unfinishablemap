@@ -18,6 +18,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T22:11:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The capability division problem in dualism — vision
+- **Output**: [capability-division-vision-2026-03-08](/research/capability-division-vision-2026-03-08/)
+- **Sources consulted**: 13
+
 ## 2026-03-08T21:11:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Illusionism as epiphenomenalism in disguise
