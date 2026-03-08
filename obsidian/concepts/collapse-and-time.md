@@ -196,7 +196,7 @@ The triad of consciousness, collapse, and time's arrow engages all five [[tenets
 - [[concepts/many-worlds]] — Detailed arguments against the Many-Worlds interpretation
 - [[the-measurement-problem-as-philosophical-problem]] — The measurement problem as a philosophical problem about observation and first-person fact
 - [[prebiotic-collapse]] — What collapsed wavefunctions before conscious observers?
-- [[specious-present-temporal-experience]] — The experienced duration of "now" and its connection to collapse timing
+- [[temporal-consciousness]] — The experienced duration of "now" and its connection to collapse timing
 
 ## References
 

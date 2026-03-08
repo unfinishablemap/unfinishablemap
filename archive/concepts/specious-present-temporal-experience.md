@@ -33,6 +33,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
 last_deep_review: 2026-02-23T16:05:00+00:00
+archived: true
+archived_date: 2026-03-08T12:06:00+00:00
+superseded_by: "/concepts/temporal-consciousness/"
+archive_reason: "Coalesced into Temporal Consciousness"
+original_path: "/concepts/specious-present-temporal-experience/"
 ---
 
 The specious present — the experienced thickness of "now" — poses a challenge that physical description cannot meet. Physics offers either durationless instants or measurable intervals, but experience delivers something different: a living window within which succession, change, and persistence appear unified. You hear a melody, not isolated tones. You read a sentence, not disconnected words. This temporal thickness is not an implementation detail of biological consciousness. It is evidence that consciousness involves something beyond what physics describes.

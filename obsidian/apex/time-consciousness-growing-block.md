@@ -35,7 +35,7 @@ apex_sources:
   - concepts/temporal-consciousness
   - concepts/duration
   - concepts/collapse-and-time
-  - concepts/specious-present-temporal-experience
+  - concepts/temporal-consciousness
   - concepts/philosophy-of-time
 apex_last_synthesis: 2026-02-24T00:20:00+00:00
 apex_thesis: "Consciousness and time have a bidirectional dependence: consciousness requires temporal structure to exist, while time's arrow may require consciousness-involving collapse to emerge—making them mutually constitutive rather than one containing the other."
@@ -57,7 +57,7 @@ Edmund Husserl's phenomenological analysis revealed the structure underlying thi
 
 These form an inseparable unity. The note you're hearing now carries the just-passed notes in retention while already reaching toward the next. This tripartite structure makes meaning possible: you can't understand a sentence if each word evaporates before the next arrives.
 
-Whether experience is genuinely temporally extended (extensionalism, as Dainton argues) or technically instantaneous with past-directed content (retentionalism, as Husserl's own framework implies) matters for what consciousness requires. The Map favours modified extensionalism: experience is genuinely extended, constituted through a series of quantum collapses. Each collapse is discrete, but the [[specious-present-temporal-experience|specious present]] integrates multiple collapses into a unified duration-block. Husserl's retention-protention structure reflects retrocausal boundary conditions in collapse rather than instantaneous representational content—preserving genuine temporal extension while explaining why retentionalism's phenomenological descriptions are accurate.
+Whether experience is genuinely temporally extended (extensionalism, as Dainton argues) or technically instantaneous with past-directed content (retentionalism, as Husserl's own framework implies) matters for what consciousness requires. The Map favours modified extensionalism: experience is genuinely extended, constituted through a series of quantum collapses. Each collapse is discrete, but the [[temporal-consciousness|specious present]] integrates multiple collapses into a unified duration-block. Husserl's retention-protention structure reflects retrocausal boundary conditions in collapse rather than instantaneous representational content—preserving genuine temporal extension while explaining why retentionalism's phenomenological descriptions are accurate.
 
 Henri Bergson went further with his concept of [[temporal-consciousness|durée]]. Clock time treats moments as positions on a line—discrete, externally related, quantifiable. Lived time interpenetrates: the past permeates the present, the future is already anticipated. Bergson called this "qualitative multiplicity"—elements distinguishable yet not separable, each coloured by every other. The melody example clarifies: you don't experience notes as discrete units arranged sequentially. You hear the phrase as unified flow where each note gains meaning from what preceded and what follows.
 
@@ -121,7 +121,7 @@ The [[hard-problem-of-consciousness|hard problem]] asks why physical processes s
 
 Physical description presupposes time. Events occur at times; causes precede effects; laws describe how states evolve. If time's arrow emerges through consciousness-involving collapse, then physics presupposes what consciousness provides. Reducing consciousness to physics becomes circular.
 
-The [[specious-present-temporal-experience|argument from temporal thickness]] gives this a focused form. Physical descriptions consist of states at times and transition rules between them. No collection of instantaneous states contains the *experience of succession*—the felt passage from one moment to the next. The specious present is precisely this: temporally thick, extended, containing within it the sense of transition. The gap between *duration as measured* (a number of seconds between events) and *duration as experienced* (the felt thickness of now) parallels the gap between wavelength and colour—evidence of something physical description systematically misses.
+The [[temporal-consciousness|argument from temporal thickness]] gives this a focused form. Physical descriptions consist of states at times and transition rules between them. No collection of instantaneous states contains the *experience of succession*—the felt passage from one moment to the next. The specious present is precisely this: temporally thick, extended, containing within it the sense of transition. The gap between *duration as measured* (a number of seconds between events) and *duration as experienced* (the felt thickness of now) parallels the gap between wavelength and colour—evidence of something physical description systematically misses.
 
 This doesn't prove dualism. But it reveals the relationship between consciousness and physical reality to be more intimate than standard pictures allow. Consciousness isn't an add-on or a late-arriving product of neural complexity. It's woven into the structure of temporal reality itself.
 
@@ -174,7 +174,7 @@ This synthesis draws from:
 - [[temporal-consciousness|Temporal Consciousness]] — The specious present, temporal binding, and AI implications
 - [[temporal-consciousness|Duration (Durée)]] — Bergson's qualitative time and its irreducibility
 - [[collapse-and-time|Collapse and Time]] — How quantum collapse may constitute time's arrow
-- [[specious-present-temporal-experience|The Specious Present and Temporal Experience]] — The experienced duration of the present moment and the argument from temporal thickness
+- [[temporal-consciousness|The Specious Present and Temporal Experience]] — The experienced duration of the present moment and the argument from temporal thickness
 - [[philosophy-of-time|Philosophy of Time]] — A-theory, B-theory, and the Map's growing block position
 
 ## References

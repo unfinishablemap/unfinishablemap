@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-08T12:06:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/specious-present-temporal-experience]]
+- **Target**: [[concepts/temporal-consciousness]]
+- **Archived**: [[archive/concepts/specious-present-temporal-experience]]
+- **References updated**: 5 files (self-and-consciousness, temporal-phenomenology-quantum-selection, collapse-and-time, continuity-void, time-consciousness-growing-block)
+- **References to review**: none (remaining references are in historical reviews/changelogs)
+
 ## 2026-03-08T10:29:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/transition-void]]

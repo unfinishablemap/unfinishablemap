@@ -24,7 +24,7 @@ concepts:
   - "[[jourdain-hypothesis]]"
   - "[[baseline-cognition]]"
   - "[[the-unobservable-self]]"
-  - "[[specious-present-temporal-experience]]"
+  - "[[temporal-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[eastern-philosophy-consciousness]]"
@@ -142,7 +142,7 @@ The filter theory interprets these findings coherently: the narrative self is co
 - [[metacognition]] — Monitoring one's own mental states
 - [[binding-problem]] — Unity of experience and its relation to selfhood
 - [[mind-brain-separation]] — Filter theory and the rendering engine analogy
-- [[specious-present-temporal-experience]] — What constitutes "a moment" of conscious experience
+- [[temporal-consciousness]] — What constitutes "a moment" of conscious experience
 - [[ownership-void|The Ownership Void]] — Why the for-me-ness of experience hides its own ground
 - [[personal-identity]] — How the self persists over time
 - [[consciousness-and-the-metaphysics-of-individuation]] — What makes this subject a discrete subject at all

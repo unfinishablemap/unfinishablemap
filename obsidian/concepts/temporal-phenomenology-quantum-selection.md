@@ -13,7 +13,7 @@ concepts:
   - "[[temporal-consciousness]]"
   - "[[quantum-consciousness]]"
   - "[[collapse-and-time]]"
-  - "[[specious-present-temporal-experience]]"
+  - "[[temporal-consciousness]]"
   - "[[phenomenology-of-choice]]"
   - "[[mental-effort]]"
   - "[[retrocausality]]"
@@ -55,7 +55,7 @@ The Map's response: what distinguishes the quantum mapping is not the tripartite
 
 ## The Specious Present as Selection Window
 
-The [[specious-present-temporal-experience|specious present]]—the experienced duration of "now," roughly 100-750ms at its core—may correspond to the temporal scope within which selection operates. Not an instant of collapse but, the Map proposes, a window across which consciousness integrates and resolves quantum possibilities.
+The [[temporal-consciousness|specious present]]—the experienced duration of "now," roughly 100-750ms at its core—may correspond to the temporal scope within which selection operates. Not an instant of collapse but, the Map proposes, a window across which consciousness integrates and resolves quantum possibilities.
 
 Several features of the specious present fit this interpretation:
 
