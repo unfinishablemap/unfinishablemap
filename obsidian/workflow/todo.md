@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate comparative-phenomenology-of-meditative-traditions.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-07. Topics article comparing contemplative traditions' phenomenological reports — should be linked from contemplative-methods-as-philosophical-methodology.md, contemplative-evidence-for-consciousness.md, and related meditation/contemplative articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-08
+
+### P2: Integrate transition-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-05. Voids article on the phenomenology of state transitions in consciousness. Should be linked from loss-of-consciousness.md, dream-consciousness.md, coupling-modes.md, or other articles on consciousness transitions.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-08
+
+### P2: Integrate dreams-as-consciousness-laboratory.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-04. Topics article on dreams as a natural laboratory for studying consciousness. Should be linked from dream-consciousness.md, altered-states.md, and consciousness-research articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-08
+
+### P2: Condense research/voids-framework-void-2026-02-20.md (3562 words, 143% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings on the framework void while removing redundancy and tightening prose. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-08
+
+### P2: Condense research/voids-causal-interface-2026-01-30.md (3530 words, 141% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings on causal interface voids while removing redundancy and tightening prose. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-08
+
+### P3: Deep review evolved-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-28, never reviewed. Oldest unreviewed voids article — 39 days without quality assurance. Examines how cognitive limits are products of evolutionary pressures rather than fundamental constraints. Directly supports Tenet 5 (Occam's Razor Has Limits). Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-08
+
+### P3: Deep review temporal-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-04, never reviewed. Voids article on the temporal dimension of cognitive gaps — how time-related aspects of experience resist analysis. 32 days without quality assurance. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-08
+
 ### P3: Deep review dream-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on dream consciousness covers filter model evidence, lucid dreaming, and interface modulation during sleep. Verify claims, cross-references, and tenet alignment.

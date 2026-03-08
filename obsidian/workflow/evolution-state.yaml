@@ -1,6 +1,6 @@
-last_updated: '2026-03-08T06:27:56.043152+00:00'
-session_count: 3336
-cycle_position: 2892
+last_updated: '2026-03-08T07:27:56.043664+00:00'
+session_count: 3337
+cycle_position: 2893
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-08T00:29:24.861035+00:00'
-  agentic-social: '2026-03-08T07:28:59.457554+00:00'
-last_git_push: '2026-03-08T05:27:56.040833+00:00'
+  agentic-social: '2026-03-08T08:29:23.092255+00:00'
+last_git_push: '2026-03-08T08:28:21.350708+00:00'
 last_tweet_date: '2026-03-07'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-03-07'
-  outcome: success
 - task: 'deep-review (None -- Context: Update references to coalesced co)'
   type: deep-review
   date: '2026-03-07'
@@ -130,11 +126,27 @@ recent_tasks:
   type: optimistic-review
   date: '2026-03-08'
   outcome: success
+- task: condense (obsidian/research/types-of-consciousness-ai-experi)
+  type: condense
+  date: '2026-03-08'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 7
+  p3_tasks: 50
+  needs_replenishment: false
+  last_replenishment: '2026-03-08T08:29:00+00:00'
+  replenishment_source_counts:
+    chain: 0
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 2
+    staleness: 2
+    orphan_integration: 3
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/comparative-consciousness-and-interface-differences/
-    date: '2026-03-08T07:28:59.457534+00:00'
+  - url: https://unfinishablemap.org/topics/sensorimotor-contingencies-and-the-interface/
+    date: '2026-03-08T08:29:23.092238+00:00'
     topics:
     - hard-problem-of-consciousness
-    - animal-consciousness
-    - consciousness-in-simple-organisms
