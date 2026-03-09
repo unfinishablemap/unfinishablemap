@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-09T22:56:00+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Relevance Void — the opacity of consciousness's relevance-determination mechanism
+- **Category**: Occluded / Unexplorable (mixed)
+- **Output**: [[research/voids-relevance-void-2026-03-09]]
+- **Key finding**: Relevance filtering is a precondition of all conscious experience, yet it cannot be examined without already using it, creating a structurally self-concealing void that connects the frame problem, Heidegger's readiness-to-hand, Vervaeke's relevance realization, and Friston's predictive processing
+
 ## 2026-03-09T22:26:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/implicit-memory]]
