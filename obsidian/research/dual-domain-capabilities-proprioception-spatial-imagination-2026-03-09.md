@@ -1,5 +1,5 @@
 ---
-title: Research Notes - Dual-Domain Capabilities: Proprioception, Spatial Reasoning, Imagination
+title: "Research Notes - Dual-Domain Capabilities: Proprioception, Spatial Reasoning, Imagination"
 created: 2026-03-09
 draft: false
 ai_contribution: 100
