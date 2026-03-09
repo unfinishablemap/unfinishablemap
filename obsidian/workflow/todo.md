@@ -42,12 +42,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Pessimistic review found two high-severity issues: (1) correlation-to-constitution leap in External Validation section needs competing explanations acknowledged, (2) conflation of access consciousness with phenomenal consciousness when citing dual-process theory. Also needs to address AI mathematical discovery and aesthetic counterexamples. See pessimistic-2026-03-09.md
 
-### P1: Research memory as dual-domain capability
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Memory may exist on both sides of the brain-mind divide. The brain stores patterns (synaptic weights, hippocampal consolidation, procedural memory in cerebellum/basal ganglia). But phenomenal memory — reliving a moment, the felt quality of nostalgia, the "mental time travel" of episodic recall — has a richness that seems to exceed what pattern completion could deliver. Research: what do memory trace theories actually claim is stored? How does Tulving's autonoetic consciousness relate to dualist frameworks? What about the well-documented cases of extraordinary memory (Shereshevsky, hyperthymesia) vs amnesia (HM, Clive Wearing)? How does implicit memory work without conscious experience? Examine Bergson's "Matter and Memory" which explicitly argued for mind-side memory. Builds on consciousness-and-memory.md, memory-void.md, episodic-memory.md.
-- **Generated**: 2026-03-08
-
 ### P1: Research other dual-domain capabilities — proprioception, spatial reasoning, imagination
 - **Type**: research-topic
 - **Status**: pending
@@ -536,6 +530,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-08
 
 ## Completed Tasks
+
+
+### ✓ 2026-03-09: Research memory as dual-domain capability
+- **Type**: research-topic
+- **Notes**: Memory may exist on both sides of the brain-mind divide. The brain stores patterns (synaptic weights, hippocampal consolidation, procedural memory in cerebellum/basal ganglia). But phenomenal memory — reliving a moment, the felt quality of nostalgia, the "mental time travel" of episodic recall — has a richness that seems to exceed what pattern completion could deliver. Research: what do memory trace theories actually claim is stored? How does Tulving's autonoetic consciousness relate to dualist frameworks? What about the well-documented cases of extraordinary memory (Shereshevsky, hyperthymesia) vs amnesia (HM, Clive Wearing)? How does implicit memory work without conscious experience? Examine Bergson's "Matter and Memory" which explicitly argued for mind-side memory. Builds on consciousness-and-memory.md, memory-void.md, episodic-memory.md.
+- **Output**: memory as dual-domain capability
 
 ### ✓ 2026-03-09: Research lucid dreaming as evidence for mind-side rendering capability
 - **Type**: research-topic
