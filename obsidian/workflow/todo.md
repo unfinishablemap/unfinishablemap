@@ -446,6 +446,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has strong theoretical foundations but limited engagement with how consciousness-irreducibility transforms medical practice—pain treatment, anaesthetic monitoring, psychiatric diagnosis as interface disorders. Builds on interface-friction.md, emotion-as-evidence-for-dualism.md, anaesthesia-and-the-consciousness-interface.md. See optimistic-2026-03-09-afternoon.md
 - **Generated**: 2026-03-09
 
+### P3: Write article on normative phenomenology as unified programme
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Moral, epistemic, aesthetic, and prudential normativity all exhibit shared phenomenal architecture (grip, compulsion, arrest, dread). This convergence is itself evidence for consciousness's irreducibility. Builds on consciousness-and-normative-force.md, consciousness-and-the-phenomenology-of-constraint-satisfaction.md, phenomenal-normativity.md, moral-phenomenology.md. See optimistic-2026-03-09-evening.md
+- **Generated**: 2026-03-09
+
+### P3: Write article on temporal ontology and the selection interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has strong individual treatments of time and consciousness but no unified account of how temporal ontology constrains the selection interface. Growing block provides ontological framework; process haecceitism provides individuation; temporal becoming provides phenomenology. Together they form the Map's most original metaphysical contribution. Builds on growing-block-universe-and-consciousness.md, consciousness-and-temporal-becoming.md, temporal-ontology-and-consciousness.md, process-haecceitism.md. See optimistic-2026-03-09-evening.md
+- **Generated**: 2026-03-09
+
 ## Completed Tasks
 
 

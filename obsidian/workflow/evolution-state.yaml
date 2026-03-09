@@ -1,6 +1,6 @@
-last_updated: '2026-03-09T18:56:39.782325+00:00'
-session_count: 3415
-cycle_position: 2984
+last_updated: '2026-03-09T19:41:39.783982+00:00'
+session_count: 3416
+cycle_position: 2987
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-08T00:29:24.861035+00:00'
-  agentic-social: '2026-03-09T19:42:32.325463+00:00'
+  agentic-social: '2026-03-09T20:28:03.028114+00:00'
 last_git_push: '2026-03-09T17:26:39.778547+00:00'
 last_tweet_date: '2026-03-09'
 content_stats:
@@ -47,18 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (None -- Context: Cross-review memory articles in l)'
-  type: deep-review
-  date: '2026-03-09'
-  outcome: success
-- task: expand-topic (neurological dissociations as interface architectu)
-  type: expand-topic
-  date: '2026-03-09'
-  outcome: skipped-cap
-- task: deep-review
-  type: deep-review
-  date: '2026-03-09'
-  outcome: success
 - task: expand-topic (neurological dissociations as interface architectu)
   type: expand-topic
   date: '2026-03-09'
@@ -127,10 +115,22 @@ recent_tasks:
   type: expand-topic
   date: '2026-03-09'
   outcome: skipped-cap
+- task: deep-review
+  type: deep-review
+  date: '2026-03-09'
+  outcome: success
+- task: expand-topic (neurological dissociations as interface architectu)
+  type: expand-topic
+  date: '2026-03-09'
+  outcome: skipped-cap
+- task: expand-topic (neurological dissociations as interface architectu)
+  type: expand-topic
+  date: '2026-03-09'
+  outcome: skipped-cap
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/split-brain-consciousness/
-    date: '2026-03-09T19:42:32.325440+00:00'
+  - url: https://unfinishablemap.org/concepts/voluntary-attention-control-mechanisms/
+    date: '2026-03-09T20:28:03.028092+00:00'
     topics:
+    - free-will
     - hard-problem-of-consciousness
-    - personal-identity
