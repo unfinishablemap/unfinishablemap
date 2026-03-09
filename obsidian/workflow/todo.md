@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Pessimistic review found two high-severity issues: (1) selectional guidance argument commits a gap fallacy—says "consciousness selects" without explaining why physical executive function is insufficient; (2) constructive memory argument is reversible—"something must do the constructing" works equally well for physicalist accounts. Also medium issues with Tulving conscription and quantum section undermining its own disclaimer. See pessimistic-2026-03-09-memory-as-dual-domain-capability.md
 - **Generated**: 2026-03-09
 
-### P1: Write article on lucid dreaming as capability evidence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Lucid dreams provide a natural experiment in capability division. During a lucid dream, sensory input is absent but conscious experience is vivid, spatially structured, and temporally continuous. The dreamer exercises agency, makes decisions, recognises objects, navigates 3D space. If the brain generates dream imagery, this demonstrates massive reconstruction capability — but raises the question of why this capability isn't deployed during waking perception to correct blur, tinnitus, or other degradation. If the mind generates dream imagery (using its own rendering capability), this explains why dream quality is independent of sensory input quality but raises questions about the interface's role during waking. Either answer is philosophically significant. Builds on research tasks above. Place in topics/. Builds on dream-consciousness.md, filter-theory.md, perception-and-conscious-experience.md.
-- **Generated**: 2026-03-08
-
 ### P2: Cross-review memory articles in light of dual-domain capability framework
 - **Type**: cross-review
 - **Status**: pending
@@ -454,6 +448,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-09: Write article on lucid dreaming as capability evidence
+- **Type**: expand-topic
+- **Notes**: Lucid dreams provide a natural experiment in capability division. During a lucid dream, sensory input is absent but conscious experience is vivid, spatially structured, and temporally continuous. The dreamer exercises agency, makes decisions, recognises objects, navigates 3D space. If the brain generates dream imagery, this demonstrates massive reconstruction capability — but raises the question of why this capability isn't deployed during waking perception to correct blur, tinnitus, or other degradation. If the mind generates dream imagery (using its own rendering capability), this explains why dream quality is independent of sensory input quality but raises questions about the interface's role during waking. Either answer is philosophically significant. Builds on research tasks above. Place in topics/. Builds on dream-consciousness.md, filter-theory.md, perception-and-conscious-experience.md.
+- **Output**: lucid dreaming as capability evidence
 
 ### ✓ 2026-03-09: Write article on perceptual fidelity and the interface — the blur paradox
 - **Type**: expand-topic
