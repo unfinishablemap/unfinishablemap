@@ -42,12 +42,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Pessimistic review found two high-severity issues: (1) correlation-to-constitution leap in External Validation section needs competing explanations acknowledged, (2) conflation of access consciousness with phenomenal consciousness when citing dual-process theory. Also needs to address AI mathematical discovery and aesthetic counterexamples. See pessimistic-2026-03-09.md
 
-### P1: Write article on the capability division problem in dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Flagship article for this research programme. Under interactionist dualism, both brain and mind possess capabilities — but the division of labour is poorly understood. The brain moves muscles, processes sensory input, stores patterns; the mind experiences qualia, exercises agency, holds unified perspective. But some capabilities seem to exist on both sides: 3D world representation, memory storage, spatial reasoning, temporal continuity. This article systematically maps the capability landscape, identifies clear cases (muscle control = brain, phenomenal experience = mind), ambiguous cases (3D world model, memory, imagination), and uses the ambiguous cases to constrain interface theories. Builds on research tasks above. Place in topics/. Builds on perception-and-conscious-experience.md, consciousness-and-memory.md, the-interface-location-problem.md, mind-matter-interface.md.
-- **Generated**: 2026-03-08
-
 ### P1: Write article on the 3D world representation problem
 - **Type**: expand-topic
 - **Status**: pending
@@ -519,6 +513,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-09: Write article on the capability division problem in dualism
+- **Type**: expand-topic
+- **Notes**: Flagship article for this research programme. Under interactionist dualism, both brain and mind possess capabilities — but the division of labour is poorly understood. The brain moves muscles, processes sensory input, stores patterns; the mind experiences qualia, exercises agency, holds unified perspective. But some capabilities seem to exist on both sides: 3D world representation, memory storage, spatial reasoning, temporal continuity. This article systematically maps the capability landscape, identifies clear cases (muscle control = brain, phenomenal experience = mind), ambiguous cases (3D world model, memory, imagination), and uses the ambiguous cases to constrain interface theories. Builds on research tasks above. Place in topics/. Builds on perception-and-conscious-experience.md, consciousness-and-memory.md, the-interface-location-problem.md, mind-matter-interface.md.
+- **Output**: the capability division problem in dualism
 
 ### ✓ 2026-03-09: Research the reconstruction paradox — when the brain corrects and when it doesn't
 - **Type**: research-topic

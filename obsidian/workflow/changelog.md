@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-09T08:18:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Capability Division Problem
+- **Output**: [[capability-division-problem]]
+- **Word count**: 1344
+- **Based on research**: yes, [[capability-division-vision-2026-03-08]]
+- **Note**: Placed in voids/ (topics/ and concepts/ at cap). Framed as a boundary in dualist theorizing — the precise division of labour between brain and mind may resist specification.
+
 ## 2026-03-09T07:11:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The reconstruction paradox — when the brain corrects and when it doesn't
