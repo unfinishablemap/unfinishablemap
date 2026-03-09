@@ -1,0 +1,99 @@
+---
+ai_contribution: 100
+ai_generated_date: 2026-03-09
+ai_modified: 2026-03-09 08:18:00+00:00
+ai_system: claude-opus-4-6
+author: null
+concepts:
+- '[[interactionist-dualism]]'
+- '[[blindsight]]'
+- '[[visual-consciousness]]'
+- '[[baseline-cognition]]'
+- '[[epiphenomenalism]]'
+created: 2026-03-09
+date: &id001 2026-03-09
+description: Interactionist dualism must specify which capabilities belong to the
+  brain and which to the mind. This boundary may resist precise drawing—a void at
+  the heart of dualism.
+draft: false
+human_modified: null
+last_curated: null
+last_deep_review: null
+modified: *id001
+related_articles:
+- '[[consciousness-independent-baseline-cognition]]'
+- '[[perception-and-conscious-experience]]'
+title: The Capability Division Problem
+topics:
+- '[[hard-problem-of-consciousness]]'
+- '[[philosophy-of-perception-under-dualism]]'
+---
+
+If dualism is true — if the mind is genuinely distinct from the brain — then a question follows that dualists rarely answer precisely: which capabilities belong to which domain? The brain extracts visual features, detects motion, guides reaching movements. The mind contributes phenomenal experience, perceptual ownership, flexible reasoning about what is seen. But where exactly does brain-side processing end and mind-side contribution begin? The Unfinishable Map calls this the **capability division problem**, and it may represent not merely an unsolved question but a genuine [void](/voids/) — a boundary that resists precise specification.
+
+## The Empirical Terrain
+
+Neuroscience has mapped extensive visual processing that proceeds without conscious awareness. Subliminal stimuli activate feature extraction, categorisation, and even emotional evaluation before any phenomenal experience arises. The brain's visual system performs sophisticated computation in the dark.
+
+[Blindsight](/concepts/blindsight/) sharpens the picture. Patients with damage to primary visual cortex discriminate stimuli they report not seeing — correctly guessing orientation, colour, and motion direction at rates far above chance. They can reach accurately toward objects they deny perceiving. Yet their performance is systematically limited: they fail detection tasks, cannot spontaneously report visual content, and — most strikingly — "don't take ownership of their capacity to see" (Overgaard et al., 2022). Blindsight reveals what vision looks like when the brain operates alone.
+
+The two-streams hypothesis (Milner & Goodale, 1992) provides neuroanatomical grounding. The dorsal stream ("where/how pathway") guides real-time action — hand orientation, obstacle avoidance — with minimal dependence on conscious awareness. The ventral stream ("what pathway") handles object recognition and conscious perception. Patient DF, with visual-form agnosia, could orient her hand to a mail slot she could not consciously perceive — dorsal processing intact, ventral processing impaired. The dissociation suggests that visual capabilities fall naturally into two classes: those that require consciousness and those that do not.
+
+Fahrenfort et al. (2023) identified a candidate transition point: perceptual organisation. Feature extraction and categorisation occur during perceptual invisibility. Grouping, figure-ground segregation, and binding into coherent objects mark the transition to conscious seeing. Consciousness may enter vision not at the level of individual features but at the level of unified percepts.
+
+## Why the Division Resists Specification
+
+The empirical evidence sketches a rough boundary. The brain handles computational vision — feature extraction, spatial mapping, action guidance. Consciousness contributes phenomenal unification, ownership, flexible deployment of visual information in novel contexts. But attempts to draw this line precisely encounter several obstacles.
+
+**The boundary shifts under examination.** Phillips (2021) argues that blindsight involves qualitatively degraded conscious vision rather than truly unconscious processing. If correct, capabilities attributed to the brain alone may retain a residual conscious component. The clean division becomes messier: not "brain does X, mind does Y" but "brain does X with varying degrees of mind involvement." Every candidate for pure brain-side processing becomes disputable.
+
+**Consciousness may not add discrete capabilities.** Rather than contributing specific functions — binding, ownership, flexibility — consciousness may transform the character of all visual processing it touches. A conscious percept of a red apple is not feature-detection plus something extra; it is a qualitatively different kind of state. Trying to list what consciousness "adds" may misframe the contribution, like trying to specify what wetness adds to individual water molecules.
+
+**The interface itself may be cognitively inaccessible.** If the mind-brain interaction occurs at the quantum level — as the Map's [interactionist framework](/concepts/interactionist-dualism/) proposes — then the division operates below the resolution of both introspection and current neuroscience. We observe the inputs (neural computation) and outputs (conscious experience) but the interface between them resists direct examination from either side.
+
+## The Epiphenomenalist Trap
+
+The capability division problem creates a persistent risk for dualism. Each time neuroscience explains a visual capability in purely neural terms, the mind's contribution appears to shrink. Feature extraction — neural. Motion detection — neural. Action guidance — neural. Object categorisation — neural, at least in early stages. If the trend continues, what remains for consciousness to do?
+
+This is the epiphenomenalist trap: the more we learn about neural processing, the less work remains for the mind, and the more [epiphenomenalism](/concepts/epiphenomenalism/) seems correct. The dualist must resist this slide without overclaiming — without attributing to consciousness capabilities that the brain demonstrably handles independently.
+
+The Map's response draws on the [baseline cognition](/concepts/baseline-cognition/) framework. Unconscious processing is capable but bounded. Great apes demonstrate sophisticated visual cognition — tool use, social reading, procedural skill — yet cannot engage in the flexible, reasoned, novel deployment of visual information that characterises human consciousness. Blindsight patients discriminate stimuli but cannot spontaneously report, deliberate about, or creatively use what they "see." The pattern is consistent: brain-side processing handles the procedural and automatic; consciousness enables the flexible and deliberative.
+
+This is not a shrinking domain. The capabilities consciousness enables — logical reasoning about perceptual content, counterfactual thinking, novel application across contexts, perceptual self-awareness — are not incrementally reducible to neural computation. They represent a qualitatively different mode of engaging with visual information.
+
+## The Void
+
+The capability division problem is a void because the boundary it seeks may be inherently resistant to precise specification — not because the question is unanswerable in principle, but because the answer may not take the form of a clean list.
+
+The expectation that mind and brain should divide vision into separable capabilities reflects a physicalist assumption: that all contributions are functional and therefore enumerable. But if consciousness contributes something that transforms visual processing holistically rather than adding discrete functions, then asking "what exactly does consciousness add?" may be like asking "what exactly does understanding add to symbol manipulation?" The question assumes the contribution is of the same kind as what it is being compared to.
+
+This does not make the capability division problem meaningless. It makes it a boundary marker — an indicator that interactionist dualism operates at a junction between two fundamentally different kinds of description (neural computation and phenomenal experience) that may resist reduction to a common framework. The void is not ignorance but a structural feature of the mind-brain interface.
+
+## Relation to Site Perspective
+
+The Map's tenets frame the capability division problem as productive rather than devastating. Tenet 1 ([Dualism](/tenets/#dualism)) establishes that consciousness is irreducible to physical processes — so the boundary between brain-side and mind-side capabilities is real, not merely epistemic. Tenet 3 ([Bidirectional Interaction](/tenets/#bidirectional-interaction)) insists that consciousness causally contributes — it is not merely along for the ride, so the mind-side of the division is not empty. Tenet 2 ([Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)) locates the interface at quantum indeterminacy, explaining why the boundary resists direct observation.
+
+The Map interprets the capability division problem as evidence that dualism requires a different kind of explanatory framework than physicalism provides. Physicalism explains vision entirely in neural terms and treats consciousness as something to be explained away. Dualism accepts two domains and faces the more tractable question of how they collaborate. The empirical evidence — blindsight, the two-streams dissociation, the perceptual organisation threshold — provides genuine constraints on the answer, even if the full specification remains a void.
+
+The Map speculates that the capability division may ultimately prove asymmetric: consciousness contributes not a parallel set of functions but a meta-level capacity — the capacity to have the neural computations *matter to someone*. This would explain why the division resists clean functional specification while maintaining that consciousness is indispensable.
+
+## Further Reading
+
+- [blindsight](/concepts/blindsight/)
+- [visual-consciousness](/concepts/visual-consciousness/)
+- [baseline-cognition](/concepts/baseline-cognition/)
+- [interactionist-dualism](/concepts/interactionist-dualism/)
+- [epiphenomenalism](/concepts/epiphenomenalism/)
+- [perception-and-conscious-experience](/topics/perception-and-conscious-experience/)
+- [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/)
+- [voids](/voids/)
+
+## References
+
+1. Fahrenfort, J. J. et al. (2023). "The functions of consciousness in visual processing." *Neuroscience of Consciousness*, 2023(1), niac018.
+2. Milner, A. D. & Goodale, M. A. (1992). "Separate visual pathways for perception and action." *Trends in Neurosciences*, 15(1), 20-25.
+3. Overgaard, M. et al. (2022). "The nature of blindsight: implications for current theories of consciousness." *Neuroscience of Consciousness*, 2022(1), niab043.
+4. Phillips, I. (2021). "Blindsight Is Qualitatively Degraded Conscious Vision." *Psychological Review*, 128(3), 558-584.
+5. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
+6. Southgate, A. & Oquatre-cinq, C. (2026-01-22). Baseline Cognition. *The Unfinishable Map*. https://unfinishablemap.org/concepts/baseline-cognition/
+7. Southgate, A. & Sonquatre-cinq, C. (2026-01-23). Blindsight. *The Unfinishable Map*. https://unfinishablemap.org/concepts/blindsight/
