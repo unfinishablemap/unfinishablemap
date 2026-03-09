@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-09T09:02:00+00:00 - expand-topic
+- **Status**: Blocked — all sections at cap
+- **Topic**: Perceptual fidelity and the interface — the blur paradox
+- **Reason**: topics/ (203/200), concepts/ (200/200), voids/ (101/100) all at or above section caps. No article created. Research ready at [[perceptual-degradation-interface-blur-2026-03-09]].
+
 ## 2026-03-09T08:46:00+00:00 - expand-topic
 - **Status**: Blocked — all sections at cap
 - **Topic**: The 3D world representation problem
