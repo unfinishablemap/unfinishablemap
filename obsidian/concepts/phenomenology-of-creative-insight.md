@@ -24,7 +24,7 @@ concepts:
   - "[[metacognition]]"
 related_articles:
   - "[[tenets]]"
-  - "[[phenomenology-of-flow-states]]"
+  - "[[consciousness-and-skilled-performance]]"
   - "[[incubation-effect-and-unconscious-processing]]"
   - "[[consciousness-and-creative-distinctiveness]]"
   - "[[phenomenology-of-understanding]]"
@@ -141,7 +141,7 @@ The phenomenology of creative insight supports several of the Map's [[tenets]].
 
 - [[consciousness-and-creativity]]
 - [[cognitive-phenomenology]]
-- [[phenomenology-of-flow-states]]
+- [[consciousness-and-skilled-performance|phenomenology of flow states]]
 - [[incubation-effect-and-unconscious-processing]]
 - [[phenomenology-of-intellectual-effort]]
 - [[phenomenology-of-understanding]]

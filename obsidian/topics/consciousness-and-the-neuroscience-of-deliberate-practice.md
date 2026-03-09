@@ -22,7 +22,7 @@ related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-skilled-performance]]"
   - "[[choking-phenomenon-mental-causation]]"
-  - "[[phenomenology-of-flow-states]]"
+  - "[[consciousness-and-skilled-performance]]"
   - "[[contemplative-evidence-for-consciousness]]"
   - "[[phenomenology-of-cognitive-capacity]]"
   - "[[epiphenomenalism]]"

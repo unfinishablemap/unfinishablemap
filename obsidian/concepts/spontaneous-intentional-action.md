@@ -26,7 +26,7 @@ related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[consciousness-and-agency]]"
-  - "[[phenomenology-of-flow-states]]"
+  - "[[consciousness-and-skilled-performance]]"
   - "[[paradox-of-effortless-mastery]]"
   - "[[libet-experiments]]"
   - "[[concept-of-free-will]]"
@@ -90,7 +90,7 @@ The [[agent-causation#luck-objection|luck objection]] to libertarian free will�
 
 ## Spontaneity and Creativity
 
-Spontaneous intentional action is closely linked to [[consciousness-and-creativity|creative generation]] and [[phenomenology-of-flow-states|flow states]]. In creative work, the most valued moments are often those where the right idea arrives without being sought—the phrase that writes itself, the brush stroke that finds its own path, the solution that appears in the shower. These are spontaneous intentional actions in the cognitive domain: novel, contextually appropriate, owned, and undeliberated.
+Spontaneous intentional action is closely linked to [[consciousness-and-creativity|creative generation]] and [[consciousness-and-skilled-performance|flow states]]. In creative work, the most valued moments are often those where the right idea arrives without being sought—the phrase that writes itself, the brush stroke that finds its own path, the solution that appears in the shower. These are spontaneous intentional actions in the cognitive domain: novel, contextually appropriate, owned, and undeliberated.
 
 Bergson's account of [[temporal-consciousness|durée]] illuminates why. In lived duration, the whole of one's accumulated experience interpenetrates with the present moment. Spontaneous action draws on this entire depth without needing to make it explicit. The musician's improvisation expresses years of training, emotional memory, and situational sensitivity in a single gesture. The action is intelligent because it is *deep*—rooted in the full thickness of lived experience—even though its surface is instantaneous.
 
@@ -142,7 +142,7 @@ The account of spontaneous intentional action offered here would face difficulty
 - [[temporal-consciousness]] — Bergson's lived time and the depth behind spontaneous action
 - [[introspective-opacity|volitional opacity]] — Why the mechanism of spontaneous initiation is hidden
 - [[authentic-vs-inauthentic-choice]] — Why spontaneous actions often feel more genuinely ours
-- [[phenomenology-of-flow-states]] — Flow as effortless, absorbed action—a neighbouring category
+- [[consciousness-and-skilled-performance|phenomenology of flow states]] — Flow as effortless, absorbed action—a neighbouring category
 - [[interface-friction]] — Why some conscious selections require effort and others do not
 - [[libet-experiments]] — Neuroscientific challenges to conscious initiation of action
 - [[paradox-of-effortless-mastery]] — How disciplined training yields spontaneous expertise

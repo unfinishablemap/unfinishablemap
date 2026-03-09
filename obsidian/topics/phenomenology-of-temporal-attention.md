@@ -20,7 +20,7 @@ related_articles:
   - "[[structure-of-attention]]"
   - "[[attention-as-selection-interface]]"
   - "[[time-collapse-and-agency]]"
-  - "[[phenomenology-of-flow-states]]"
+  - "[[consciousness-and-skilled-performance]]"
   - "[[consciousness-and-temporal-becoming]]"
   - "[[phenomenology-of-anticipation]]"
   - "[[contemplative-evidence-for-consciousness]]"
@@ -42,7 +42,7 @@ Standard accounts of attention treat it as a spatial or object-based filter: att
 
 **Anxious waiting** stretches duration. Ten minutes in a dentist's chair feels interminable. Here attention monitors time itself, and each moment thins out—less content, more bare awareness of passage. The present empties precisely because attention fills it with expectation rather than engagement.
 
-**[[phenomenology-of-flow-states|Flow states]]** dissolve temporal boundaries altogether. Experienced duration loses its metric quality. Csikszentmihalyi's experience-sampling research found this pattern repeatedly: people in flow report being unable to estimate how much time has passed. The Map interprets this not as mere inattention to a clock but as a restructuring of the present so thorough that metric comparison becomes impossible—attention has reshaped temporal experience rather than simply failing to monitor it.
+**[[consciousness-and-skilled-performance|Flow states]]** dissolve temporal boundaries altogether. Experienced duration loses its metric quality. Csikszentmihalyi's experience-sampling research found this pattern repeatedly: people in flow report being unable to estimate how much time has passed. The Map interprets this not as mere inattention to a clock but as a restructuring of the present so thorough that metric comparison becomes impossible—attention has reshaped temporal experience rather than simply failing to monitor it.
 
 These are not failures of time estimation. They are different modes of temporal experience, produced by different configurations of attention. The physical world ticks on at one second per second regardless. What changes is the phenomenal structure of the present.
 
@@ -114,7 +114,7 @@ The phenomenology of temporal attention aligns with several of the Map's [[tenet
 - [[phenomenology-of-returning-attention]]
 - [[attention-as-selection-interface]]
 - [[time-collapse-and-agency]]
-- [[phenomenology-of-flow-states]]
+- [[consciousness-and-skilled-performance|phenomenology of flow states]]
 - [[consciousness-and-temporal-becoming]]
 - [[growing-block-universe-and-consciousness]]
 - [[phenomenology-of-anticipation]]

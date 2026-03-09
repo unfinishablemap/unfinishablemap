@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-skilled-performance]]"
-  - "[[phenomenology-of-flow-states]]"
+  - "[[consciousness-and-skilled-performance]]"
   - "[[topics/free-will]]"
   - "[[choking-phenomenon-mental-causation]]"
 concepts:
@@ -147,7 +147,7 @@ The claim that cognitive capacity phenomenology is irreducible would face diffic
 ## Further Reading
 
 - [[phenomenology-of-intellectual-effort]] — The effort of reasoning itself, complementing the capacity constraints explored here
-- [[phenomenology-of-flow-states]] — The opposite experiential pole: effortless engagement at peak performance
+- [[consciousness-and-skilled-performance|phenomenology of flow states]] — The opposite experiential pole: effortless engagement at peak performance
 - [[consciousness-and-skilled-performance]] — How consciousness participates in skilled action
 - [[choking-phenomenon-mental-causation]] — When conscious re-entry disrupts automated performance
 - [[phenomenology-of-returning-attention]] — What it is like to redirect cognitive resources after distraction

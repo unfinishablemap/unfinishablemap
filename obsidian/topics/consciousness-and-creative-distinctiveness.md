@@ -36,7 +36,7 @@ related_articles:
   - "[[aesthetic-dimension-of-consciousness]]"
   - "[[consciousness-and-aesthetic-creation]]"
   - "[[consciousness-and-mathematical-creativity]]"
-  - "[[phenomenology-of-flow-states]]"
+  - "[[consciousness-and-skilled-performance]]"
   - "[[incubation-effect-and-unconscious-processing]]"
   - "[[phenomenology-of-imagination]]"
 ai_contribution: 100

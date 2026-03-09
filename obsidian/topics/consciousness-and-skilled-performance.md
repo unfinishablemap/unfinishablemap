@@ -1,10 +1,10 @@
 ---
 title: "Consciousness and Skilled Performance"
-description: "Skill acquisition, mastery, and restructuring reveal consciousness as causal architect—building the procedural systems that replace it, withdrawing into effortless oversight, and painfully re-entering when skills must change."
+description: "Skill acquisition, mastery, flow, and restructuring reveal consciousness as causal architect—building procedural systems, withdrawing into effortless oversight, achieving frictionless selection in flow, and painfully re-entering when skills must change."
 created: 2026-02-02
-modified: 2026-02-19
+modified: 2026-03-09
 human_modified:
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-09T09:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,10 +25,12 @@ concepts:
   - "[[working-memory]]"
   - "[[phenomenology-of-choice]]"
   - "[[interface-friction]]"
+  - "[[temporal-consciousness]]"
+  - "[[self-and-consciousness]]"
+  - "[[consciousness-and-creativity]]"
 related_articles:
   - "[[tenets]]"
   - "[[choking-phenomenon-mental-causation]]"
-  - "[[phenomenology-of-flow-states]]"
   - "[[phenomenology-of-intellectual-effort]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[attention-consciousness-dissociation]]"
@@ -41,6 +43,9 @@ related_articles:
   - "[[phenomenology-of-epistemic-judgment]]"
   - "[[phenomenology-of-returning-attention]]"
   - "[[consciousness-and-the-neuroscience-of-deliberate-practice]]"
+  - "[[consciousness-and-temporal-integration]]"
+  - "[[contemplative-path]]"
+  - "[[dopamine-and-the-unified-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -51,9 +56,10 @@ coalesced_from:
   - "/topics/phenomenology-of-skill-and-the-lived-body/"
   - "/topics/paradox-of-effortless-mastery/"
   - "/topics/phenomenology-of-skill-transition/"
+  - "/topics/phenomenology-of-flow-states/"
 ---
 
-Learning a skill transforms two things at once: what consciousness does and what the body is. The novice driver who consciously recites "check mirror, signal, shoulder-check" undergoes a cognitive transformation as these steps fuse into automatic competence. But the transformation runs deeper—the driver's felt sense of the car's boundaries, the proprioceptive texture of steering, the body schema itself are all reshaped by practice. The Unfinishable Map argues that skill acquisition, mastery, and restructuring provide some of the strongest evidence for the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: consciousness builds the procedural systems that eventually operate without it, withdraws into effortless oversight, and painfully re-enters when established skills must change. The architect designs itself out of the building—but never truly retires.
+Learning a skill transforms two things at once: what consciousness does and what the body is. The novice driver who consciously recites "check mirror, signal, shoulder-check" undergoes a cognitive transformation as these steps fuse into automatic competence. But the transformation runs deeper—the driver's felt sense of the car's boundaries, the proprioceptive texture of steering, the body schema itself are all reshaped by practice. At mastery's peak, flow dissolves the sense of effort while preserving—perhaps intensifying—conscious engagement, revealing that consciousness selects without friction when skill has prepared the ground. The Unfinishable Map argues that skill acquisition, mastery, flow, and restructuring provide some of the strongest evidence for the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: consciousness builds the procedural systems that eventually operate without it, withdraws into effortless oversight, achieves frictionless selection in flow, and painfully re-enters when established skills must change. The architect designs itself out of the building—but never truly retires.
 
 ## The Learning Arc
 
@@ -117,15 +123,71 @@ Yet this absence carries a cost. When habits form inadvertently in domains that 
 
 This creates a phenomenological asymmetry. Skilled actions feel *authored*—even when running automatically, they carry the residue of deliberate construction. Habits often feel *discovered*—the agent notices them as already present. Skill feels like something consciousness did to the body, while habit feels like something the body did on its own.
 
-## Expert Awareness and Flow
+## Flow: Frictionless Selection at the Peak of Mastery
 
-Expert performance presents a puzzle. The expert is not unconscious during skilled action—a concert pianist is vividly aware while performing—yet the awareness is qualitatively different from the novice's effortful attention. Dreyfus described this as "absorbed coping": the expert is fully present but not reflectively monitoring.
+Flow — the state of total absorption in a well-matched challenge — represents the fullest expression of what skill makes possible. The rock climber reads the wall without deliberation, the jazz musician improvises without planning each note, the mathematician follows a proof as though it unfolds by itself. The usual markers of conscious control — deliberate effort, reflective self-monitoring, explicit decision-making — vanish. Yet the agent is not passive. They respond adaptively, perform at peak capacity, and generate creative solutions in real time. Flow reveals something important about the structure of consciousness: effort phenomenology tracks the *difficulty* of conscious selection, not the *presence* of it. Consciousness in flow selects without friction — and this frictionless selection is among the most vivid experiences a person can have.
 
-If the skill runs automatically, what is consciousness *doing* during expert performance? The Map suggests consciousness operates at a higher level of the hierarchy—not controlling individual movements but maintaining overall intentional direction, monitoring for anomalies, and remaining ready to intervene. The pianist's consciousness shapes phrasing and expression while leaving finger placement to procedural systems.
+### The Phenomenal Signature of Flow
 
-The expert is also never finished. Mastery in one dimension opens new frontiers requiring conscious engagement—the pianist who has automated technique now struggles consciously with interpretation. The [[phenomenology-of-flow-states|flow state]] represents the fullest expression of the hierarchical shift—heightened engagement with reduced self-monitoring. The choking phenomenon reveals what happens when this arrangement breaks down: conscious attention plunges back into procedural levels, disrupting the automaticity it built, proving once more that consciousness is causally potent.
+Csikszentmihalyi's original research (1975, 1990) identified flow through extensive interviews across disciplines — surgeons, chess players, rock climbers, dancers. The phenomenological reports converge on a distinctive experiential profile:
 
-The Map's concept of [[interface-friction]] offers a speculative reframing. If consciousness operates through a neural interface, the experience of effort may be the phenomenology of friction—consciousness working against an unprepared substrate. Skill acquisition reduces interface friction: practice *aligns* the physical system with consciousness's selection tendencies. Effort drops not because consciousness withdraws but because the interface becomes frictionless. The effortless master is conscious in the mode of frictionless selection, where intention and execution are so well coupled that the gap between them vanishes. This model is speculative—it depends on the Map's quantum interaction framework—but it offers a distinctive dualist interpretation of a phenomenon that materialist accounts describe as mere pathway strengthening.
+**Absorption.** Attention narrows to the task. Peripheral concerns — bills, social anxieties, hunger — drop from awareness. What narrows is *concern*: only task-relevant information reaches awareness, though the relevant perceptual field may remain wide (a basketball player tracking the entire court).
+
+**Effortlessness.** The action feels easy despite high objective difficulty. An expert pianist performing a technically demanding passage experiences smoothness rather than strain. This effortlessness is paradoxical: the task would be effortful for anyone less skilled, and the same performer would find it effortful if they tried to monitor their execution explicitly (the [[choking-phenomenon-mental-causation|choking phenomenon]]).
+
+**Altered temporality.** Time perception distorts. Hours pass in what feels like minutes. Occasionally the reverse: a split-second decision in sport dilates into a spacious moment of apparent slow motion. The normal metronome of [[temporal-consciousness|temporal experience]] — the roughly stable pace of the specious present — is disrupted. Time becomes elastic, shaped by engagement rather than clock.
+
+**Loss of reflective self-awareness.** The inner commentator quiets. The running narrative — "Am I doing this right? What do they think of me?" — fades. The self does not disappear entirely; there is still a subject of experience. But the *reflective* layer — the self watching itself — drops away. Notably, the transitions into and out of this state are themselves invisible — an instance of the [[transition-void]], where the cognitive stance required for observation is incompatible with the transition itself. What remains is pre-reflective self-awareness: experience that belongs to someone without anyone standing back to observe that belonging.
+
+**Intrinsic reward.** The activity becomes its own motivation. External goals recede; the doing itself is satisfying. Csikszentmihalyi called this *autotelic experience*.
+
+**Sense of control without controlling.** The agent feels masterful yet does not experience themselves as exerting control. There is no gap between intention and execution, no moment of deciding what to do next. Action and awareness merge.
+
+### Flow as Evidence Against the Deflationary Reading
+
+The claim that flow is simply [[implicit-memory|automatised processing]] — skilled execution running without conscious involvement — faces several problems.
+
+**Adaptiveness.** Flow involves real-time creative adaptation that stretches beyond what implicit systems have demonstrated. The jazz musician in flow does not recombine memorised fragments; they generate novel phrases responsive to what other musicians are playing, incorporating harmonic and rhythmic ideas that emerge in the moment. This level of situated creativity — novelty responsive to an unrepeatable context — exceeds documented capabilities of procedural memory systems.
+
+**The choking contrast.** If flow were unconscious automaticity, then conscious re-engagement should be neutral or helpful. Instead, conscious re-engagement during flow *destroys* performance. The asymmetry is telling: choking disrupts *skilled* performance specifically while leaving *unskilled* performance relatively unaffected. If the issue were mere resource competition, adding monitoring should degrade all performance levels equally. The asymmetry suggests that flow and explicit monitoring are incompatible *modes* of conscious engagement.
+
+**Phenomenal richness.** Subjects in flow report vivid, detailed experience — not the blankness of automatised action. They describe the experience as among the most intensely conscious moments of their lives. The pianist in flow hears each note with unusual clarity. If consciousness had withdrawn, why is experience so vivid?
+
+**Memory formation.** Flow states produce rich, detailed episodic memories — the kind associated with conscious encoding. Elevated noradrenergic and dopaminergic activity during flow likely contributes, but the *character* of flow memories — their experiential richness, their first-person detail, their narrative structure — resembles consciously encoded episodes rather than the fragmented traces that high-arousal but unreflective states typically produce.
+
+### The Selection Framework and Flow
+
+The Map proposes that flow represents consciousness selecting among options without the resistance that generates effort phenomenology.
+
+The [[phenomenology-of-agency-vs-passivity|agency-passivity axis]] involves at least two distinguishable dimensions: *causal contribution* (whether consciousness shapes outcomes) and *phenomenal effort* (whether the contribution feels like work). Normally these correlate. Flow dissociates them: causal contribution remains high while phenomenal effort drops to near zero.
+
+The analogy: effort is friction at the interface. When a hinge is stiff, turning it requires force; when well-oiled, the same rotation occurs without resistance. Similarly, consciousness in flow selects among neural options — maintaining the [[attention-as-interface|selection interface]] — but the selection meets no resistance. Skill has prepared the options so well that the right choice presents itself without competition from viable alternatives.
+
+This explains the skill-challenge balance that Csikszentmihalyi identified as flow's precondition. Too little challenge: consciousness has nothing to select, and the result is boredom. Too much challenge: the options are poorly prepared, requiring effortful deliberation. Optimal challenge: the options are well-prepared but the task is not trivial — consciousness selects smoothly among genuinely demanding alternatives.
+
+The Map's concept of [[interface-friction]] offers a speculative reframing. If consciousness operates through a neural interface, the experience of effort may be the phenomenology of friction — consciousness working against an unprepared substrate. Skill acquisition reduces interface friction: practice *aligns* the physical system with consciousness's selection tendencies. Effort drops not because consciousness withdraws but because the interface becomes frictionless.
+
+### Temporal Dissolution in Flow
+
+Flow's distortion of time perception is philosophically significant.
+
+Normal temporal experience involves [[temporal-consciousness|retention and protention]] — holding the just-past in awareness while anticipating what comes next. In flow, this structure transforms.
+
+**Compression.** When hours feel like minutes, the normal markers of temporal passage — the periodic checking of progress, the awareness of duration — disappear. Without reflective self-monitoring, there is no one keeping time. The experience is of an extended present — not timelessness, but a present that stretches without the usual segmentation.
+
+**Dilation.** When moments in sport expand — the tennis player seeing the ball in apparent slow motion — temporal resolution increases. More perceptual detail is packed into each moment. This is consistent with the [[attention-as-interface|attention interface]] operating at higher bandwidth.
+
+Both effects suggest that temporal experience is shaped by the mode of conscious engagement. Effortful consciousness, with its constant self-monitoring, creates the experience of time passing in discrete chunks. Flow consciousness, absorbed in the present moment, allows temporal experience to reshape itself around the task's demands. This connects to [[consciousness-and-temporal-integration|temporal integration]]: flow represents maximally effective binding — experience flowing smoothly without the gaps that reflective monitoring introduces.
+
+### The Self in Flow
+
+Flow transforms self-experience without eliminating the self.
+
+Csikszentmihalyi described the "loss of self-consciousness" in flow. This is easily misread as the loss of self *per se*. What disappears is the [[self-and-consciousness|narrative self]] — the running commentary, the self-image management. What remains is the [[self-and-consciousness|minimal self]] — the bare subjectivity that makes experience experiential.
+
+Contemplative traditions have mapped this territory extensively. Buddhist *jhana* practice cultivates states of absorbed concentration where the narrative self falls silent while awareness intensifies. Zen *mushin* (no-mind) is better described as non-reflective engagement — consciousness acting without the intermediary of self-narration. The parallels between flow and contemplative states are instructive: both involve the dropping of reflective self-monitoring, the intensification of present-moment awareness, the effortless quality of activity, and altered time perception. The difference is that flow achieves these through task absorption while contemplative practice achieves them through direct attention training.
+
+For the Map's framework, this supports a layered model: minimal self-awareness is constitutive of consciousness itself, while narrative self-awareness is an additional capacity that can engage or withdraw. Flow operates primarily at the [[anoetic-noetic-autonoetic-consciousness|noetic level]] — experiential awareness of the present situation — while the autonoetic layer (reflective self-knowledge, mental time travel) falls silent.
 
 ## When Skills Must Change
 
@@ -133,19 +195,31 @@ The paradox deepens when mastery must be revised. Anyone who has rebuilt a golf 
 
 Skill transition differs from initial learning in a critical respect: there is already an entrenched pattern in place. The novice confronts a blank space—nothing automated, everything requiring conscious attention. The person in transition confronts something worse: a well-grooved automaticity that fires reliably but wrongly for the new purpose.
 
-**Interference and involuntary reversion.** The most immediately striking feature is the old pattern *asserting itself*. Under pressure, fatigue, or momentary inattention, the body snaps back to the previous way. The learner feels this as a loss of control—not the absence of control that characterises the raw novice, but a positive tug toward a pattern they are trying to abandon. The old skill doesn't simply fade; it competes.
+**Interference and involuntary reversion.** The most immediately striking feature is the old pattern *asserting itself*. Under pressure, fatigue, or momentary inattention, the body snaps back to the previous way. The learner feels this as a loss of control—not the absence of control that characterises the raw novice, but a positive tug toward a pattern they are trying to abandon.
 
-**The transition valley.** During transition, overall performance drops below the old level. The learner *knows* they could perform better if they reverted. The temptation to abandon the restructuring is itself a conscious experience—a felt pull toward the comfortable and familiar, resisted by a deliberate commitment to the new pattern. This has an existential quality absent from initial learning: the learner has already tasted mastery and must voluntarily surrender it. The affective dimension is distinctive—not the simple frustration of the novice but a complex mix of grief for lost competence, anxiety about whether the new pattern will consolidate, and the irritation of failing at something you used to do well.
+**The transition valley.** During transition, overall performance drops below the old level. The learner *knows* they could perform better if they reverted. The temptation to abandon the restructuring is itself a conscious experience—a felt pull toward the comfortable and familiar, resisted by a deliberate commitment to the new pattern. This has an existential quality absent from initial learning: the learner has already tasted mastery and must voluntarily surrender it.
 
 **Doubled awareness.** Transition forces a return to step-by-step monitoring—but with an important difference. The novice monitors because they have no alternative. The person in transition monitors because they must *override* an alternative. This creates doubled awareness: attention to the task itself, plus [[metacognition|metacognitive]] vigilance over which pattern is currently driving execution.
 
-Automatic skills, once consolidated into [[implicit-memory|procedural memory]], are remarkably resistant to conscious override. The phenomenon of *proactive interference* is well documented in motor learning research. Bernstein (1967) analysed this as a stable coordinative structure—a solution to the degrees-of-freedom problem that, once found, resists reorganisation. Dismantling it requires consciousness to do something it is not typically called upon to do: actively suppress a functional system that it previously built. The [[mental-effort|effort]] involved is distinctive—not the effort of learning something new, but the effort of preventing something old from happening while something new takes its place.
+Automatic skills, once consolidated into [[implicit-memory|procedural memory]], are remarkably resistant to conscious override. Bernstein (1967) analysed this as a stable coordinative structure—a solution to the degrees-of-freedom problem that, once found, resists reorganisation. Dismantling it requires consciousness to actively suppress a functional system that it previously built. The [[mental-effort|effort]] involved is distinctive—not the effort of learning something new, but the effort of preventing something old from happening while something new takes its place.
 
-The Map's interface model makes specific predictions about this experience. If consciousness normally operates by biasing neural selection among available patterns, then transition is a period when the available patterns are in flux—old attractors weakening, new ones not yet stable. Interface friction increases: consciousness must intervene at levels of motor detail it had previously delegated. The pianist restructuring their hand position feels their fingers "wanting" to go to the old positions. The foreign-language learner hears themselves producing the old pronunciation despite intending the new one.
+The Map's interface model makes specific predictions about this experience. If consciousness normally operates by biasing neural selection among available patterns, then transition is a period when the available patterns are in flux—old attractors weakening, new ones not yet stable. Interface friction increases: consciousness must intervene at levels of motor detail it had previously delegated.
 
-Eventually, transition resolves. The new pattern consolidates, automaticity returns, and consciousness withdraws again. But there is first a period of fragile automaticity—the new pattern executes smoothly under favourable conditions but breaks down under stress, reverting to the old. When consolidation succeeds, there is a characteristic moment of recognition: the new pattern feels natural. The old pattern now feels foreign. This reversal in familiarity suggests that what feels "natural" in skilled performance is not determined by duration of practice alone but by the current configuration of the procedural system.
+Eventually, transition resolves. The new pattern consolidates, automaticity returns, and consciousness withdraws again. The return problem reveals that the paradox of effortless mastery is cyclical, not terminal. Consciousness does not build a skill and leave permanently. It builds, withdraws, and stands ready to return when circumstances demand restructuring. Every domain of expertise can be revised, extended, or combined with other skills. The architect never truly retires; they wait for the next renovation.
 
-The return problem reveals that the paradox of effortless mastery is cyclical, not terminal. Consciousness does not build a skill and leave permanently. It builds, withdraws, and stands ready to return when circumstances demand restructuring. Every domain of expertise can be revised, extended, or combined with other skills. The architect never truly retires; they wait for the next renovation.
+## What Skilled Performance Reveals About Consciousness
+
+### Against Epiphenomenalism
+
+If consciousness were [[concepts/epiphenomenalism|epiphenomenal]], flow and non-flow should produce identical performance for identical tasks — the presence or absence of conscious engagement would make no difference. Instead, performance depends on the *mode* of consciousness. The same pianist playing the same passage performs differently when absorbed (flow), when self-monitoring (choking), and when bored (disengagement). The epiphenomenalist can reply that a common neural cause produces both the performance difference and the phenomenal difference. But this reply must explain why the phenomenal modes are so precisely and specifically correlated with performance profiles across vastly different domains — motor, cognitive, creative. The Map's framework provides one: the mode of consciousness shapes physical outcomes because consciousness genuinely selects among neural options, and the mode determines how that selection proceeds.
+
+### Against Simple Functionalism
+
+Flow challenges accounts that identify consciousness with access or report. During flow, the agent cannot report on their own cognitive processes — the reflective access that supports verbal report has been suspended. Yet flow is among the most *qualitatively vivid* experiences people report. The sheer intensity of the [[attention-consciousness-dissociation|phenomenal-access dissociation]] in flow — maximal experiential richness coinciding with minimal reflective access — strains any account that ties phenomenal consciousness to the functional role of information access.
+
+### For the Selection Framework
+
+The full arc of skilled performance — from effortful learning through delegated mastery to frictionless flow and back through painful restructuring — fits naturally into the Map's selection framework. Consciousness doesn't need effort to select — it needs effort only when selection is *difficult*. In flow, high skill combined with appropriate challenge creates conditions where the right option is nearly determined by the situation, yet the situation is complex enough that genuine selection (not mere reflex) occurs. During skill transition, interface friction returns as old and new patterns compete for selection. The cycle of building, withdrawing, flowing, and rebuilding maps the full range of consciousness's causal engagement with the physical world.
 
 ## What Would Challenge This View?
 
@@ -159,18 +233,17 @@ The strongest physicalist counterargument is that executive attention networks, 
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: Skill acquisition reveals a gap between physical description and lived experience that property dualism predicts. Two bodies can be physically identical yet phenomenologically different—one a pianist's body, the other a non-pianist's—because the body schema carries a history of conscious engagement that physical description does not capture. The proprioceptive difference between a novice and expert swimmer is not just a difference in neural firing patterns—it is a difference in what it is *like* to inhabit a body in water.
+**[[tenets#^dualism|Dualism]]**: Skill acquisition reveals a gap between physical description and lived experience that property dualism predicts. Two bodies can be physically identical yet phenomenologically different—one a pianist's body, the other a non-pianist's—because the body schema carries a history of conscious engagement that physical description does not capture. Flow deepens this gap: the most vivid form of consciousness coincides with reduced top-down neural control (Dietrich's transient hypofrontality), a pattern dualism predicts but materialism must explain away.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: This article's central finding. Consciousness sculpts the body schema through skilled practice—expanding it to incorporate tools, reshaping proprioceptive texture, reorganising motor intentionality. The body constrains consciousness through its existing habitual repertoire—resisting new patterns, asserting sedimented habits. The three-phase arc—construction, delegation, return—provides a temporal map of bidirectional causation. Each direction of influence is separately demonstrable, and skill transition, where consciousness must act against the grain of established physical organisation, makes the bidirectional case especially vivid.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: This article's central finding. Consciousness sculpts the body schema through skilled practice, achieves frictionless selection in flow, and painfully re-engages when skills must change. The body constrains consciousness through its existing habitual repertoire. The full arc—construction, delegation, flow, return—provides a temporal map of bidirectional causation. Each direction of influence is separately demonstrable.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Body schema plasticity locates one dimension of the interface at the level of neural body maps—intraparietal cortex, premotor cortex, cerebellum. If consciousness biases quantum indeterminacy in neural systems, the body schema's plasticity shows that this biasing gradually reconfigures the very neural structures through which it operates. The friction model suggests mastery represents the state where consciousness's quantum-level selection requires minimal intervention—the neural substrate has been configured so that physically undetermined outcomes already favour what consciousness would select.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Body schema plasticity locates one dimension of the interface at the level of neural body maps. Flow may represent the case where consciousness's selection at the quantum level meets minimal resistance — the neural options have been so well prepared by skill acquisition that the physically undetermined outcomes align with what consciousness would select anyway. The effort of the Zeno mechanism drops because the desired state is already strongly favoured by the physical dynamics.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The physicalist can describe body schema plasticity in neural terms—Hebbian learning, cortical remapping, procedural consolidation. This description is accurate as far as it goes. But it does not explain why neural reorganisation is accompanied by a transformation in the *felt character* of the body, why the phenomenal quality of engagement correlates with outcomes, or why the transition valley involves a felt sacrifice that computational systems lack.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The physicalist can describe skill development in neural terms—Hebbian learning, cortical remapping, procedural consolidation. This description is accurate as far as it goes. But it does not explain why neural reorganisation is accompanied by a transformation in the *felt character* of the body, why the phenomenal quality of engagement correlates with outcomes, or why the tempting parsimonious reading of flow — that it's just the brain running on autopilot — fails against the evidence of vivid consciousness, creative adaptation, and rich memory encoding.
 
 ## Further Reading
 
 - [[choking-phenomenon-mental-causation]] — When consciousness disrupts the body it trained
-- [[phenomenology-of-flow-states]] — The fullest expression of body schema integration
 - [[embodied-consciousness-and-the-interface]] — The 4E framework and the interface reading
 - [[sensorimotor-contingencies-and-the-interface]] — Perception as mastery of sensorimotor laws
 - [[phenomenology-of-intellectual-effort]] — The cognitive dimension of effortful learning
@@ -184,14 +257,25 @@ The strongest physicalist counterargument is that executive attention networks, 
 - [[motor-selection]] — Conscious selection in motor systems
 - [[interface-friction]] — The resistance at the mind-brain interface that effort tracks
 - [[anoetic-noetic-autonoetic-consciousness]] — The levels of consciousness that map onto the phases of skill
+- [[dopamine-and-the-unified-interface]] — How dopamine prepares the selection interface that flow engages frictionlessly
+- [[attention-consciousness-dissociation]] — How attention and consciousness can come apart
+- [[consciousness-and-temporal-integration]] — Temporal binding and the structure of the specious present
+- [[contemplative-path]] — Contemplative practices that cultivate flow-like states
+- [[self-and-consciousness]] — Minimal vs. narrative self and the layers of self-awareness
+- [[pain-asymbolia]] — Another case where phenomenal experience dissociates from its expected functional role
+- [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]] — Apex synthesis: flow as a test case revealing that the four features of working consciousness are partially dissociable
 
 ## References
 
 1. Bernstein, N. (1967). *The Coordination and Regulation of Movements*. Pergamon Press.
+1. Csikszentmihalyi, M. (1975). *Beyond Boredom and Anxiety*. Jossey-Bass.
 1. Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*. Harper & Row.
+1. Dietrich, A. (2004). Neurocognitive mechanisms underlying the experience of flow. *Consciousness and Cognition*, 13(4), 746-761.
+1. Dreyfus, H. (2002). Intelligence without representation: Merleau-Ponty's critique of mental representation. *Phenomenology and the Cognitive Sciences*, 1(4), 367-383.
 1. Dreyfus, H., & Dreyfus, S. (1986). *Mind Over Machine: The Power of Human Intuition and Expertise in the Era of the Computer*. Free Press.
 1. Ericsson, K.A., Krampe, R.T., & Tesch-Römer, C. (1993). The Role of Deliberate Practice in the Acquisition of Expert Performance. *Psychological Review*, 100(3), 363-406.
 1. Fitts, P., & Posner, M. (1967). *Human Performance*. Brooks/Cole.
+1. Gallagher, S. (2000). Philosophical conceptions of the self: Implications for cognitive science. *Trends in Cognitive Sciences*, 4(1), 14-21.
 1. Gallagher, S. (2005). *How the Body Shapes the Mind*. Oxford University Press.
 1. Head, H., & Holmes, G. (1911). Sensory disturbances from cerebral lesions. *Brain*, 34(2-3), 102-254.
 1. Iriki, A., Tanaka, M., & Iwamura, Y. (1996). Coding of modified body schema during tool use by macaque postcentral neurones. *NeuroReport*, 7(14), 2325-2330.
@@ -201,4 +285,6 @@ The strongest physicalist counterargument is that executive attention networks, 
 1. Maravita, A., & Iriki, A. (2004). Tools for the body (schema). *Trends in Cognitive Sciences*, 8(2), 79-86.
 1. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
 1. Milner, B. (1962). Les troubles de la mémoire accompagnant des lésions hippocampiques bilatérales. In *Physiologie de l'hippocampe*, pp. 257-272. CNRS.
+1. Nakamura, J. & Csikszentmihalyi, M. (2002). The concept of flow. In C.R. Snyder & S.J. Lopez (Eds.), *Handbook of Positive Psychology*. Oxford University Press.
 1. Tulving, E. (1985). Memory and Consciousness. *Canadian Psychology*, 26(1), 1-12.
+1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
