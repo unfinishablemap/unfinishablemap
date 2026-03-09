@@ -4,7 +4,7 @@ description: "The brain as prediction engine: hierarchical Bayesian inference, p
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-09T12:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-02-03T09:22:00+00:00
+last_deep_review: 2026-03-09T12:02:00+00:00
 ---
 
 Predictive processing (PP) proposes that the brain continuously generates predictions about incoming sensory information, comparing predictions against actual input. Perception becomes active inference—the brain's "best guess" about reality—rather than passive reception. This framework has become one of the most influential in cognitive science.
@@ -168,7 +168,7 @@ Meditation traditions provide empirical data on PP's claims, accessible through 
 
 **[[Witness-consciousness]]'s challenge.** Advanced practitioners report stable awareness persisting even as predictions cycle through. The witness observes the controlled hallucination without being identical to it. If perception is hallucination, what is observing the hallucination? The witness cannot be another hallucination without infinite regress.
 
-**Cessation states.** In *nirodha samāpatti* (cessation of perception and feeling), meditators report complete stopping of predictive activity—no perception, no model, no errors—followed by return. If consciousness were identical to prediction, cessation should equal non-existence. Yet practitioners report something more nuanced: a kind of awareness even of the absence.
+**Cessation states.** In *nirodha samāpatti* (cessation of perception and feeling), meditators report complete stopping of predictive activity—no perception, no model, no errors—followed by return. If consciousness were identical to prediction, cessation should equal non-existence. Yet some practitioners report something more nuanced: a kind of awareness even of the absence—though Buddhist traditions themselves debate whether cessation involves residual awareness or genuine non-consciousness.
 
 ## What Would Challenge This View?
 
@@ -205,8 +205,7 @@ PP relates to The Unfinishable Map's [[tenets]] substantively:
 ### Site Content
 - [[global-workspace-theory]] — Another major cognitive framework
 - [[concepts/functionalism]] — The philosophical tradition PP inherits
-- [[attention-as-interface|attention]] — Central to precision weighting
-- [[attention-as-interface]] — How attention mediates consciousness-matter interaction
+- [[attention-as-interface]] — How attention mediates consciousness-matter interaction (central to precision weighting)
 - [[hard-problem-of-consciousness]] — What PP doesn't directly address
 - [[dream-consciousness]] — Dreams as unconstrained prediction
 - [[filter-theory]] — Alternative interpretation of dream evidence
@@ -222,7 +221,9 @@ PP relates to The Unfinishable Map's [[tenets]] substantively:
 - Seth, A. K. (2021). *Being You: A New Science of Consciousness*. Dutton.
 - Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*.
 - Hohwy, J. & Seth, A. K. (2020). "Predictive processing as a systematic basis for identifying the neural correlates of consciousness."
+- Clark, A., Friston, K. J., & Wilkinson, S. (2019). "Bayesing Qualia: Consciousness as Inference, Not Raw Datum." *Journal of Consciousness Studies*, 26(9-10), 19-33.
 - Demirel, C. et al. (2025). "Electrophysiological Correlates of Lucid Dreaming." *Journal of Neuroscience*, 45(20).
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12).
+- Solms, M. (2021). *The Hidden Spring: A Journey to the Source of Consciousness*. W. W. Norton.
 - Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 - Fox, K. C. R. et al. (2012). "Meditation experience predicts introspective accuracy." *PLoS ONE*, 7(9).

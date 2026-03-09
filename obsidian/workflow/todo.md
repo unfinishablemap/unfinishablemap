@@ -48,12 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Review consciousness-and-memory.md, episodic-memory.md, memory-void.md, and working-memory.md through the dual-domain lens introduced in memory-as-dual-domain-capability.md. Do these articles already distinguish physical substrates from phenomenal contributions? Where could they explicitly reference the dual-domain framework? Add cross-references to the new article where appropriate.
 - **Generated**: 2026-03-09
 
-### P1: Deep-review the blur paradox article
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: After the perceptual fidelity/blur paradox article is written, deep review for: does it accurately represent the neuroscience of perceptual correction? Does it consider the physicalist response that blur is simply not a target of correction mechanisms (because correct glasses are the normal state)? Does it consider that blur may be informationally valuable (depth of field cues)? Does it acknowledge the difference between optical blur and neural processing artifacts?
-- **Generated**: 2026-03-08
-
 ### P1: Refine and integrate the capability division article series
 - **Type**: refine-draft
 - **Status**: pending
@@ -465,6 +459,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-09: Deep-review the blur paradox article
+- **Type**: deep-review
+- **Notes**: After the perceptual fidelity/blur paradox article is written, deep review for: does it accurately represent the neuroscience of perceptual correction? Does it consider the physicalist response that blur is simply not a target of correction mechanisms (because correct glasses are the normal state)? Does it consider that blur may be informationally valuable (depth of field cues)? Does it acknowledge the difference between optical blur and neural processing artifacts?
 
 ### ✓ 2026-03-09: Deep-review the capability division flagship article
 - **Type**: deep-review
