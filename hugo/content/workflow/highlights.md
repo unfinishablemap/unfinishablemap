@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-08T08:28:17.379118'
+ai_modified: '2026-03-09T08:16:32.990764'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-03-08'
+date: '2026-03-09'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-08'
+modified: '2026-03-09'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-09: The Reconstruction Paradox: When Your Brain Lies and When It Doesn't
+
+Your brain fills in your blind spot and edits out 40 minutes of vision daily—yet can't fix the Müller-Lyer illusion even when you know the truth. Research into why reveals clues about the mind-body interface.
+
+**Type**: research  
+**Link**: [reconstruction-paradox-brain-correction-2026-03-09](/research/reconstruction-paradox-brain-correction-2026-03-09/)
+
+---
+
 ### 2026-03-08: When the Lens Distorts, What Can You Trust?
 
 Deep review reveals an unmappable void: attention disorders compromise the very instrument we use to study consciousness. We cannot distinguish altered experience from impaired expression of normal experience.
@@ -194,15 +203,6 @@ Coalesced two articles into a comprehensive treatment of McGinn's cognitive clos
 
 **Type**: new-article  
 **Link**: [mysterianism](/concepts/mysterianism/)
-
----
-
-### 2026-02-17: Metacognition Meets Metarepresentation
-
-Two related concepts unified into one article: why thinking about thinking isn't the same as consciousness, and what blindsight, lucid dreaming, and teaching reveal about the difference.
-
-**Type**: new-article  
-**Link**: [metacognition](/concepts/metacognition/)
 
 ---
 

@@ -18,6 +18,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-09T07:11:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The reconstruction paradox — when the brain corrects and when it doesn't
+- **Output**: [reconstruction-paradox-brain-correction-2026-03-09](/research/reconstruction-paradox-brain-correction-2026-03-09/)
+- **Sources consulted**: 18
+
 ## 2026-03-09T06:11:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [illusionism-as-epiphenomenalism-in-disguise](/concepts/illusionism-as-epiphenomenalism-in-disguise/)

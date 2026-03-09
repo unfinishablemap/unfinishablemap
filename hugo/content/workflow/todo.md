@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Pessimistic review found two high-severity issues: (1) correlation-to-constitution leap in External Validation section needs competing explanations acknowledged, (2) conflation of access consciousness with phenomenal consciousness when citing dual-process theory. Also needs to address AI mathematical discovery and aesthetic counterexamples. See pessimistic-2026-03-09.md
 
-### P1: Research the reconstruction paradox — when the brain corrects and when it doesn't
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: The brain demonstrably reconstructs some aspects of perception: filling in the blind spot, colour constancy across illumination changes, size constancy despite retinal shrinkage, motion interpolation. But it doesn't correct optical blur, doesn't override tinnitus with silence, doesn't eliminate floaters. What determines whether neural processing corrects or faithfully transmits degradation to consciousness? Research: filling-in phenomena (Ramachandran's work), perceptual completion in scotomas, the waterfall illusion and motion aftereffects, the distinction between early visual processing and conscious percept, top-down vs bottom-up processing, predictive coding's account of when predictions override input. This is crucial for understanding the interface's architecture — which direction does information flow and where are the correction mechanisms? Builds on phenomenology-of-perceptual-constancy.md, the-binding-problem-a-systematic-treatment.md, brain-interface-boundary.md.
-- **Generated**: 2026-03-08
-
 ### P1: Write article on the capability division problem in dualism
 - **Type**: expand-topic
 - **Status**: pending
@@ -526,6 +520,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-09: Research the reconstruction paradox — when the brain corrects and when it doesn't
+- **Type**: research-topic
+- **Notes**: The brain demonstrably reconstructs some aspects of perception: filling in the blind spot, colour constancy across illumination changes, size constancy despite retinal shrinkage, motion interpolation. But it doesn't correct optical blur, doesn't override tinnitus with silence, doesn't eliminate floaters. What determines whether neural processing corrects or faithfully transmits degradation to consciousness? Research: filling-in phenomena (Ramachandran's work), perceptual completion in scotomas, the waterfall illusion and motion aftereffects, the distinction between early visual processing and conscious percept, top-down vs bottom-up processing, predictive coding's account of when predictions override input. This is crucial for understanding the interface's architecture — which direction does information flow and where are the correction mechanisms? Builds on phenomenology-of-perceptual-constancy.md, the-binding-problem-a-systematic-treatment.md, brain-interface-boundary.md.
+- **Output**: the reconstruction paradox — when the brain corrects and when it doesn't
 
 ### ✓ 2026-03-09: Research other dual-domain capabilities — proprioception, spatial reasoning, imagination
 - **Type**: research-topic
