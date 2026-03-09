@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-09 18:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Agency is fundamentally the allocation of attention over time. Free
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 15:07:00+00:00
+last_deep_review: 2026-03-09 18:12:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,7 +85,7 @@ The framework yields a practical corollary: *improving attentional skills increa
 
 These aren't merely subjective improvements. Within the Map's framework, they are *expansions of conscious causal power*. A meditator who can sustain focus for thirty minutes has more "attentional capital" to invest than someone whose attention scatters every thirty seconds.
 
-[Mental effort](/concepts/mental-effort/) phenomenology supports this interpretation. Sustaining attention *feels* effortful—there's a phenomenal cost. This felt effort corresponds to genuine work: the rapid repeated observations that, on the Zeno hypothesis, hold neural patterns stable. Training reduces the effort required for equivalent focus, which is to say it increases attentional efficiency—more stabilisation per unit of felt cost.
+[Mental effort](/concepts/mental-effort/) phenomenology supports this interpretation. Sustaining attention *feels* effortful—there's a phenomenal cost. This felt effort corresponds to genuine work: whatever the mechanism, sustained attention holds neural patterns stable against competing alternatives. Training reduces the effort required for equivalent focus, which is to say it increases attentional efficiency—more stabilisation per unit of felt cost. Schwartz & Begley (2002) document this empirically: OCD patients who learn to redirect attention voluntarily produce measurable neuroplastic change, demonstrating that sustained attentional effort has lasting physical consequences.
 
 ## The Phenomenology of Attentional Choice
 
@@ -207,7 +207,7 @@ This connects the abstract commitments of the tenets—dualism, bidirectional in
 ## Further Reading
 
 - [attention-as-interface](/concepts/attention-as-interface/) — Why attention serves as consciousness's interface with matter
-- [voluntary attention](/concepts/attention-as-interface/) — The neural signatures of willed versus automatic attention
+- [voluntary attention](/concepts/voluntary-attention-control-mechanisms/) — The neural signatures of willed versus automatic attention
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of attentional work
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — How contemplative practice trains attentional capacities
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The mechanism by which attention shapes neural outcomes

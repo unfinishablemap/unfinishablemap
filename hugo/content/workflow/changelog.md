@@ -18,6 +18,43 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-09T21:12:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/)
+- **Word count**: 3697 → 3744 (+47)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (WM capacity figure updated with Cowan 2001)
+- **Enhancements made**: 1 (updated capacity estimate, added citation)
+- **Output**: [deep-review-2026-03-09-language-recursion-and-consciousness](/reviews/deep-review-2026-03-09-language-recursion-and-consciousness/)
+
+## 2026-03-09T20:28:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft content (~525 articles across topics, concepts, tenets, apex, voids). Deep analysis of 16 articles focusing on temporal ontology, normative phenomenology, and internal tensions.
+- **Output**: [optimistic-2026-03-09-evening](/reviews/optimistic-2026-03-09-evening/)
+
+## 2026-03-09T19:42:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [william-james-consciousness](/topics/william-james-consciousness/)
+- **Word count**: 2349 → 2349 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (restored specious present terminology lost in wikilink fix)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-09-william-james-consciousness](/reviews/deep-review-2026-03-09-william-james-consciousness/)
+
+## 2026-03-09T18:57:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [philosophical-zombies](/concepts/philosophical-zombies/)
+- **Output**: [pessimistic-2026-03-09-philosophical-zombies](/reviews/pessimistic-2026-03-09-philosophical-zombies/)
+
+## 2026-03-09T18:12:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [attentional-economics](/concepts/attentional-economics/)
+- **Word count**: 2457 → 2484 (+27)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (misleading link, uncited reference, Zeno overemphasis)
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-09-attentional-economics](/reviews/deep-review-2026-03-09-attentional-economics/)
+
 ## 2026-03-09T16:56:00+00:00 - research-voids
 - **Status**: Success
 - **Topic**: The Inference Void — the structural gap between what can be proved and what can be genuinely understood
