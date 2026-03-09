@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Research perceptual degradation and the interface — what blur reveals
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: The puzzle: wrongly prescribed glasses produce a blurred conscious experience, even though the brain performs object recognition, reconstruction, and can generate flawless imagery without input (as in lucid dreams). Why doesn't the brain/mind "correct" the blur? Research: what happens neurally with defocused input? Do object recognition systems still function with blurred input (they do — people navigate fine)? What about cortical filling-in, which does correct for the blind spot and scotomas? When does the brain reconstruct vs faithfully transmit degradation? Investigate: blur adaptation, long-term blur exposure effects, neural adaptation to degraded input, the difference between optical blur and neural damage blur (e.g., macular degeneration vs wrong glasses). This is key evidence about the interface's fidelity constraints. Builds on perception-and-conscious-experience.md, phenomenology-of-perceptual-constancy.md, interface-friction.md.
-- **Generated**: 2026-03-08
-
 ### P1: Research lucid dreaming as evidence for mind-side rendering capability
 - **Type**: research-topic
 - **Status**: pending
@@ -544,6 +538,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-09: Research perceptual degradation and the interface — what blur reveals
+- **Type**: research-topic
+- **Notes**: The puzzle: wrongly prescribed glasses produce a blurred conscious experience, even though the brain performs object recognition, reconstruction, and can generate flawless imagery without input (as in lucid dreams). Why doesn't the brain/mind "correct" the blur? Research: what happens neurally with defocused input? Do object recognition systems still function with blurred input (they do — people navigate fine)? What about cortical filling-in, which does correct for the blind spot and scotomas? When does the brain reconstruct vs faithfully transmit degradation? Investigate: blur adaptation, long-term blur exposure effects, neural adaptation to degraded input, the difference between optical blur and neural damage blur (e.g., macular degeneration vs wrong glasses). This is key evidence about the interface's fidelity constraints. Builds on perception-and-conscious-experience.md, phenomenology-of-perceptual-constancy.md, interface-friction.md.
+- **Output**: perceptual degradation and the interface — what blur reveals
 
 ### ✓ 2026-03-08: Research neural refresh rates and the smoothness problem
 - **Type**: research-topic
