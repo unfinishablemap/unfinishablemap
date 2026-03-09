@@ -42,12 +42,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Pessimistic review found two high-severity issues: (1) correlation-to-constitution leap in External Validation section needs competing explanations acknowledged, (2) conflation of access consciousness with phenomenal consciousness when citing dual-process theory. Also needs to address AI mathematical discovery and aesthetic counterexamples. See pessimistic-2026-03-09.md
 
-### P1: Write article on memory as dual-domain capability
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Memory may be the clearest case of a capability existing on both sides of the brain-mind divide. Brain-side: synaptic consolidation, hippocampal indexing, procedural memory in motor cortex/cerebellum. Mind-side: episodic recall with phenomenal richness (Tulving's autonoetic consciousness), the felt quality of nostalgia, mental time travel. Key evidence: HM could form no new declarative memories but retained procedural learning (brain-side memory intact, mind-side memory formation blocked?). Bergson's "Matter and Memory" argued memory is fundamentally non-material, stored in consciousness, with the brain serving as a retrieval/filtering mechanism. Under the Map's filter model, memory retrieval may involve the brain providing retrieval cues while the mind holds the phenomenal content. Builds on research tasks above. Place in topics/. Builds on consciousness-and-memory.md, memory-void.md, filter-theory.md, episodic-memory.md.
-- **Generated**: 2026-03-08
-
 ### P1: Cross-review perception articles in light of capability division framework
 - **Type**: cross-review
 - **Status**: pending
@@ -65,6 +59,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Review the-interface-location-problem.md, brain-interface-boundary.md, mind-matter-interface.md, and attention-as-interface.md. The capability division framework implies the interface must handle bidirectional transfer of multiple capability types — not just selection/attention but also sensory fidelity, memory retrieval, and spatial representation. Do existing interface articles accommodate this richer picture? Where do they need updating?
 - **Generated**: 2026-03-08
+
+### P2: Cross-review memory articles in light of dual-domain capability framework
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Review consciousness-and-memory.md, episodic-memory.md, memory-void.md, and working-memory.md through the dual-domain lens introduced in memory-as-dual-domain-capability.md. Do these articles already distinguish physical substrates from phenomenal contributions? Where could they explicitly reference the dual-domain framework? Add cross-references to the new article where appropriate.
+- **Generated**: 2026-03-09
 
 ### P1: Deep-review the capability division flagship article
 - **Type**: deep-review
@@ -489,6 +489,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-09: Write article on memory as dual-domain capability
+- **Type**: expand-topic
+- **Notes**: Memory may be the clearest case of a capability existing on both sides of the brain-mind divide. Brain-side: synaptic consolidation, hippocampal indexing, procedural memory in motor cortex/cerebellum. Mind-side: episodic recall with phenomenal richness (Tulving's autonoetic consciousness), the felt quality of nostalgia, mental time travel. Key evidence: HM could form no new declarative memories but retained procedural learning (brain-side memory intact, mind-side memory formation blocked?). Bergson's "Matter and Memory" argued memory is fundamentally non-material, stored in consciousness, with the brain serving as a retrieval/filtering mechanism. Under the Map's filter model, memory retrieval may involve the brain providing retrieval cues while the mind holds the phenomenal content. Builds on research tasks above. Place in topics/. Builds on consciousness-and-memory.md, memory-void.md, filter-theory.md, episodic-memory.md.
+- **Output**: memory as dual-domain capability
 
 ### ✓ 2026-03-09: Write article on lucid dreaming as capability evidence
 - **Type**: expand-topic
