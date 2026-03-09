@@ -4,7 +4,7 @@ description: "Knowledge that shows in action without conscious recollection. Cho
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-03-03T23:41:00+00:00
+ai_modified: 2026-03-09T22:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-02-03T21:18:00+00:00
+last_deep_review: 2026-03-09T22:26:00+00:00
 ---
 
 When you ride a bicycle, tie your shoes, or type on a keyboard, you act without reflective awareness. The skill executes smoothly; you don't observe yourself executing it. You don't mentally replay the lessons where you learned, nor do you consciously retrieve rules about pedal pressure or keystroke sequences. The knowledge is simply expressed in fluent action. This is implicit memory—knowledge that shows in performance rather than conscious recollection.
@@ -79,7 +79,7 @@ When skilled performers face high-pressure situations, a counterintuitive breakd
 
 ### The Explicit Monitoring Theory
 
-Baumeister and Beilock's explicit monitoring theory explains choking: pressure generates anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer "reinvests" explicit control in procedures that work better without it. Crucially, this reinvestment involves [[attention-as-interface|willed attention]]—not mere stimulus-driven capture, but internally directed focus on one's own movements. The performer *decides* to attend to their execution, and this decision has causal consequences.
+The explicit monitoring theory (developed by Beilock & Carr, building on Baumeister's earlier work on self-consciousness and choking) explains the mechanism: pressure generates anxiety, anxiety triggers self-focus, and self-focus leads to step-by-step monitoring of what should be automatic execution. The performer "reinvests" explicit control in procedures that work better without it. Crucially, this reinvestment involves [[attention-as-interface|willed attention]]—not mere stimulus-driven capture, but internally directed focus on one's own movements. The performer *decides* to attend to their execution, and this decision has causal consequences.
 
 Research confirms this pattern:
 - Highly skilled performers choke more than moderately skilled ones (they have more to disrupt)
@@ -100,8 +100,6 @@ If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—a mere bypro
 This evidence is particularly strong because the effect is *negative*. One might explain away reports of conscious agency as post-hoc confabulation. But why would a causally inert consciousness generate systematic *interference*? The choking phenomenon requires that conscious attention genuinely does something—something the procedural system would rather it didn't do.
 
 ## Body Memory and the Interface
-
-Embodied cognition theorists, following Merleau-Ponty, argue that body memory refutes Cartesian dualism. The body has its own knowing—neither purely mental nor purely physical. Skills are embodied; they resist the mind/body split.
 
 ### The Apparent Challenge
 
@@ -191,7 +189,7 @@ The negative character of this evidence is particularly telling. Positive effect
 ### No Many Worlds
 Skill execution involves selecting among action possibilities. Each moment of expert performance actualises one trajectory from many physically possible alternatives. If [[concepts/many-worlds|all possibilities actualised]] in branching universes, there would be branches where the expert misses every shot, drops every catch, flubs every note—yet from any observer's perspective, skilled performance succeeds reliably.
 
-The indexical problem sharpens here. Even granting that *some* branch-observer sees coherent performance, why is *I*—this [[haecceity|particular consciousness]]—reliably the one experiencing skilled execution? The statistical regularity of expert performance suggests genuine selection, not mere observation of whichever branch happens to look successful.
+The indexical problem sharpens here. Even granting that *some* branch-observer sees coherent performance, why am *I*—this [[haecceity|particular consciousness]]—reliably the one experiencing skilled execution? The statistical regularity of expert performance suggests genuine selection, not mere observation of whichever branch happens to look successful.
 
 ### Occam's Razor Has Limits
 Eliminating consciousness from accounts of skill acquisition can't explain choking. The simplest account that covers the phenomena requires consciousness as a causal factor that can interfere with procedural execution—not just accompany it. Positing additional neural mechanisms to explain why "attending to skills seems to disrupt them without consciousness being involved" adds complexity without explanatory gain. The straightforward interpretation—that conscious attention causally interferes—is also the most parsimonious.
@@ -199,12 +197,12 @@ Eliminating consciousness from accounts of skill acquisition can't explain choki
 ## Further Reading
 
 - [[choking-phenomenon-mental-causation]] - Extended analysis of choking as evidence for mental causation
+- [[consciousness-and-skilled-performance]] - How consciousness shapes skill acquisition, flow, and performance restructuring
 - [[attention-as-interface|voluntary attention]] - Why choking involves willed attention specifically, and the neural signatures distinguishing it from stimulus-driven capture
 - [[anoetic-noetic-autonoetic-consciousness]] — Tulving's tripartite hierarchy of consciousness levels
 - [[semantic-memory]] - Noetic consciousness and the phenomenology of knowing without re-experiencing
 - [[episodic-memory]] - How episodic memory contrasts with implicit memory in Tulving's framework
 - [[working-memory]] - The conscious workspace that interacts with implicit systems
-- [[attention-as-interface]] - How attention mediates consciousness's interaction with neural systems
 - [[mental-effort]] - The phenomenology of effortful attention and its relation to skill automaticity
 - [[agent-causation]] - How consciousness's causal efficacy grounds genuine agency
 - [[embodied-cognition]] - The challenge from embodied approaches and the interface response
