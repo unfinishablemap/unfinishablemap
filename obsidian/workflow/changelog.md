@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-09T18:57:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/philosophical-zombies]]
+- **Output**: [[reviews/pessimistic-2026-03-09-philosophical-zombies]]
+
 ## 2026-03-09T18:12:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/attentional-economics]]
