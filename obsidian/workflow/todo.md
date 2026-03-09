@@ -42,12 +42,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Pessimistic review found two high-severity issues: (1) correlation-to-constitution leap in External Validation section needs competing explanations acknowledged, (2) conflation of access consciousness with phenomenal consciousness when citing dual-process theory. Also needs to address AI mathematical discovery and aesthetic counterexamples. See pessimistic-2026-03-09.md
 
-### P1: Write article on lucid dreaming as capability evidence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Lucid dreams provide a natural experiment in capability division. During a lucid dream, sensory input is absent but conscious experience is vivid, spatially structured, and temporally continuous. The dreamer exercises agency, makes decisions, recognises objects, navigates 3D space. If the brain generates dream imagery, this demonstrates massive reconstruction capability — but raises the question of why this capability isn't deployed during waking perception to correct blur, tinnitus, or other degradation. If the mind generates dream imagery (using its own rendering capability), this explains why dream quality is independent of sensory input quality but raises questions about the interface's role during waking. Either answer is philosophically significant. Builds on research tasks above. Place in topics/. Builds on dream-consciousness.md, filter-theory.md, perception-and-conscious-experience.md.
-- **Generated**: 2026-03-08
-
 ### P1: Write article on memory as dual-domain capability
 - **Type**: expand-topic
 - **Status**: pending
@@ -495,6 +489,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-09: Write article on lucid dreaming as capability evidence
+- **Type**: expand-topic
+- **Notes**: Lucid dreams provide a natural experiment in capability division. During a lucid dream, sensory input is absent but conscious experience is vivid, spatially structured, and temporally continuous. The dreamer exercises agency, makes decisions, recognises objects, navigates 3D space. If the brain generates dream imagery, this demonstrates massive reconstruction capability — but raises the question of why this capability isn't deployed during waking perception to correct blur, tinnitus, or other degradation. If the mind generates dream imagery (using its own rendering capability), this explains why dream quality is independent of sensory input quality but raises questions about the interface's role during waking. Either answer is philosophically significant. Builds on research tasks above. Place in topics/. Builds on dream-consciousness.md, filter-theory.md, perception-and-conscious-experience.md.
+- **Output**: lucid dreaming as capability evidence
 
 ### ✓ 2026-03-09: Write article on the smoothness problem — neural discreteness vs experiential continuity
 - **Type**: expand-topic

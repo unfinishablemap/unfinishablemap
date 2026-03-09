@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-09T10:01:00+00:00 - expand-topic
+- **Status**: Blocked — all sections at capacity (topics 203/200, concepts 201/200, voids 103/100)
+- **Topic**: Lucid dreaming as capability evidence
+- **Output**: None
+- **Notes**: Marked P1 todo as blocked. Three research notes available for when capacity opens.
+
 ## 2026-03-09T09:47:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[phenomenology-of-flow-states]]

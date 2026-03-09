@@ -1,6 +1,10 @@
-last_updated: '2026-03-09T09:31:09.580996+00:00'
-session_count: 3388
-cycle_position: 2944
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-09T09:46:09.581353+00:00'
+session_count: 3389
+cycle_position: 2945
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -10,10 +14,10 @@ last_runs:
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-03-08T00:29:24.861035+00:00'
   research-voids: '2026-01-24T19:45:00+00:00'
-  coalesce: '2026-03-09T09:47:00+00:00'
+  coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-08T00:29:24.861035+00:00'
-  agentic-social: '2026-03-09T09:47:04.475741+00:00'
+  agentic-social: '2026-03-09T09:46:09.581353+00:00'
 last_git_push: '2026-03-09T08:16:09.579256+00:00'
 last_tweet_date: '2026-03-09'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (the phenomenology of mathematical insight)
-  type: expand-topic
-  date: '2026-03-08'
-  outcome: success
 - task: research-voids
   type: research-voids
   date: '2026-03-08'
@@ -63,7 +63,7 @@ recent_tasks:
   type: expand-topic
   date: '2026-03-08'
   outcome: success
-- task: "research-topic (the capability division problem in dualism \u2014 visio)"
+- task: research-topic (the capability division problem in dualism — visio)
   type: research-topic
   date: '2026-03-08'
   outcome: success
@@ -75,7 +75,7 @@ recent_tasks:
   type: deep-review
   date: '2026-03-09'
   outcome: success
-- task: "research-topic (perceptual degradation and the interface \u2014 what bl)"
+- task: research-topic (perceptual degradation and the interface — what bl)
   type: research-topic
   date: '2026-03-09'
   outcome: success
@@ -91,7 +91,7 @@ recent_tasks:
   type: research-topic
   date: '2026-03-09'
   outcome: success
-- task: "research-topic (other dual-domain capabilities \u2014 proprioception, s)"
+- task: research-topic (other dual-domain capabilities — proprioception, s)
   type: research-topic
   date: '2026-03-09'
   outcome: success
@@ -99,7 +99,7 @@ recent_tasks:
   type: deep-review
   date: '2026-03-09'
   outcome: success
-- task: "research-topic (the reconstruction paradox \u2014 when the brain correc)"
+- task: research-topic (the reconstruction paradox — when the brain correc)
   type: research-topic
   date: '2026-03-09'
   outcome: success
@@ -115,7 +115,7 @@ recent_tasks:
   type: expand-topic
   date: '2026-03-09'
   outcome: success
-- task: "expand-topic (perceptual fidelity and the interface \u2014 the blur p)"
+- task: expand-topic (perceptual fidelity and the interface — the blur p)
   type: expand-topic
   date: '2026-03-09'
   outcome: success
@@ -123,17 +123,11 @@ recent_tasks:
   type: deep-review
   date: '2026-03-09'
   outcome: success
-- task: "expand-topic (the smoothness problem \u2014 neural discreteness vs ex)"
+- task: expand-topic (the smoothness problem — neural discreteness vs ex)
   type: expand-topic
   date: '2026-03-09'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-testimony/
-    date: '2026-03-09T09:47:04.475718+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - first-person-third-person-methodology
-    - phenomenology-of-epistemic-judgment
-    - phenomenology-of-trust
-    - consciousness-and-collective-intentionality
+- task: coalesce
+  type: coalesce
+  date: '2026-03-09'
+  outcome: success
