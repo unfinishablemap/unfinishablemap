@@ -31,7 +31,7 @@ last_deep_review: 2026-03-08 17:11:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[phenomenology-of-flow-states]]'
+- '[[consciousness-and-skilled-performance]]'
 - '[[incubation-effect-and-unconscious-processing]]'
 - '[[consciousness-and-creative-distinctiveness]]'
 - '[[phenomenology-of-understanding]]'
@@ -144,7 +144,7 @@ The phenomenology of creative insight supports several of the Map's [tenets](/te
 
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
-- [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/)
+- [phenomenology of flow states](/topics/consciousness-and-skilled-performance/)
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/)

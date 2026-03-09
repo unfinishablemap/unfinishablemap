@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-03-03 23:41:00+00:00
+ai_modified: 2026-03-09 11:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -51,6 +51,8 @@ related_articles:
 - '[[past-self-void]]'
 - '[[memory-void]]'
 - '[[phenomenology-of-memory-and-the-self]]'
+- '[[capability-division-problem]]'
+- '[[memory-as-dual-domain-capability]]'
 title: Episodic Memory and Autonoetic Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -139,7 +141,7 @@ Clinical dissociations support the distinction: amnesic patients may retain know
 
 Constructive memory sharpens the [hard problem](/topics/hard-problem-of-consciousness/) in a distinctive way. If memories were stored recordings played back during retrieval, one could imagine that the phenomenal character of remembering inheres in the stored representation. But if memories are constructed anew at each retrieval, then the phenomenal experience—the autonoetic sense of re-living, the pastness quale, the felt ownership—is generated fresh each time.
 
-Why should construction generate experience? The neural operations involved—pattern completion, schema-driven inference, binding of disparate elements—could in principle proceed without any accompanying phenomenology. The noetic access to the same information demonstrates this: you can know that you graduated in 2015 without any re-experiencing. The information is accessed; the phenomenal character is absent. If the same content can appear with or without experiential accompaniment, then the experience is not an inevitable consequence of the content.
+Why should construction generate experience? The neural operations involved—pattern completion, schema-driven inference, binding of disparate elements—could in principle proceed without any accompanying phenomenology. The noetic access to the same information demonstrates this: you can know that you graduated in 2015 without any re-experiencing. The information is accessed; the phenomenal character is absent. If the same content can appear with or without experiential accompaniment, then the experience is not an inevitable consequence of the content. The Map's [dual-domain capability](/concepts/memory-as-dual-domain-capability/) framework locates this gap precisely: physical traces carry the *that* of what happened; consciousness contributes the *what it was like*.
 
 ## Hippocampal Binding
 
@@ -211,6 +213,8 @@ Episodic memory supports all five foundational commitments.
 - [illusionism](/concepts/illusionism/) — The challenge to phenomenal consciousness claims
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence for memory phenomena
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — How consolidation operates outside consciousness
+- [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) — Memory as requiring contributions from both physical and non-physical domains
+- [capability-division-problem](/voids/capability-division-problem/) — The boundary between brain-side and mind-side capabilities
 - [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) — How constructive memory constitutes and threatens selfhood
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Tulving's full tripartite hierarchy of consciousness levels
 

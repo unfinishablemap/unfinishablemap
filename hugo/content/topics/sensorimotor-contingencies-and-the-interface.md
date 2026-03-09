@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-01 21:52:00+00:00
+ai_modified: 2026-03-09 11:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Perception depends on lawful patterns between movement and sensatio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-18 22:16:00+00:00
+last_deep_review: 2026-03-09 11:31:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -29,6 +29,7 @@ related_articles:
 - '[[embodiment-cognitive-limits]]'
 - '[[choking-phenomenon-mental-causation]]'
 - '[[predictive-processing-and-the-maps-framework]]'
+- '[[capability-division-problem]]'
 title: Sensorimotor Contingencies and the Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -82,6 +83,8 @@ Noë's later work leans toward the second horn. In *Out of Our Heads* (2009), he
 
 The Map's answer: embodied engagement provides the interface structure, but consciousness is not identical to that structure. Sensorimotor contingencies specify the format of the interface — what information is available, how it transforms with action, what capacities it affords. Consciousness engages *through* this format without being reducible to it.
 
+The [capability division framework](/voids/capability-division-problem/) clarifies this picture. Sensorimotor contingency mastery — learning and executing the lawful patterns linking movement to sensation — is brain-side processing. The body-brain system handles the computational work of tracking how sensory stimulation transforms with action. But the phenomenal character that accompanies mastery — that red *looks like something*, that spatial engagement *feels like navigating* — is a mind-side contribution that the sensorimotor mastery occasions without producing.
+
 ## The Interface's Grammar
 
 Sensorimotor contingencies function as the interface's grammar — the structural rules governing how consciousness can engage with the physical world at any given moment.
@@ -93,6 +96,8 @@ Similarly, sensorimotor contingencies constrain how consciousness can perceive a
 Mastering these contingencies is learning the interface's grammar. A child learning to see is not assembling a visual world from raw data; the child is mastering the lawful relations between movement and sensation that constitute visual engagement. A person learning to use a prosthetic limb is learning a new dialect of the same grammar — different contingencies governing the same fundamental engagement.
 
 This grammatical metaphor clarifies what changes and what remains constant across sensory substitution. The grammar changes: tactile-visual substitution imposes different contingencies than natural vision. The speaker — consciousness — remains. And remarkably, the speaker adapts to the new grammar, achieving functional fluency through practice.
+
+The metaphor also maps onto the [capability division](/voids/capability-division-problem/): the grammar itself — the lawful structure of sensorimotor contingencies — is brain-side, maintained by neural and bodily mechanisms. The meaning expressed through that grammar — the phenomenal content of perception — is a mind-side contribution. Grammar shapes expression without producing meaning; sensorimotor contingencies shape experience without producing phenomenal character.
 
 ## The Phantom Limb and Interface Persistence
 
@@ -128,6 +133,7 @@ Both readings accommodate the basic phenomenon, but they frame it differently. O
 - [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/) — How sensorimotor contingencies relate to prediction error and precision weighting
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — Place-experience as the ultimate multi-modal sensorimotor integration
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and why the interface's grammar may be all we can map
+- [capability-division-problem](/voids/capability-division-problem/) — Which capabilities belong to the brain and which to consciousness
 
 ## References
 

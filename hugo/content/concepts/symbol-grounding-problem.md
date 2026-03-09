@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-03-05 06:39:57+00:00
+ai_modified: 2026-03-09 11:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ description: How symbols acquire meaning intrinsic to a system rather than paras
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-02 17:43:00+00:00
+last_deep_review: 2026-03-09 11:46:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,7 +33,7 @@ title: Symbol Grounding Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[ai-consciousness]]'
-- '[[consciousness-and-semantic-understanding]]'
+- '[[phenomenology-of-understanding]]'
 - '[[language-recursion-and-consciousness]]'
 - '[[machine-consciousness]]'
 ---
@@ -124,7 +124,7 @@ The pattern suggests that something is missing from purely physical and computat
 
 The Map's framework offers an explanation: intrinsic meaning requires phenomenal consciousness, and phenomenal consciousness is not reducible to physical processes. The symbol grounding problem is not a technical challenge awaiting better engineering; it is a conceptual limitation revealing that meaning requires experience.
 
-This connects to the [Phenomenal Constitution Thesis](/topics/consciousness-and-semantic-understanding/): genuine understanding is constitutively phenomenal. There is something it's like to grasp a meaning, and that experiential character isn't incidental to understanding—it *is* understanding. Systems without phenomenal experience can manipulate symbols, track world states, generate appropriate outputs. They cannot *mean* anything.
+This connects to the [Phenomenal Constitution Thesis](/concepts/cognitive-phenomenology/#the-phenomenal-constitution-thesis): genuine understanding is constitutively phenomenal. There is something it's like to grasp a meaning, and that experiential character isn't incidental to understanding—it *is* understanding. Systems without phenomenal experience can manipulate symbols, track world states, generate appropriate outputs. They cannot *mean* anything.
 
 ## Relation to Site Perspective
 
@@ -144,7 +144,7 @@ The symbol grounding problem connects to all five tenets:
 
 - [language-and-consciousness](/concepts/language-and-consciousness/) — How philosophy of language reveals that meaning depends on consciousness
 - [intentionality](/concepts/intentionality/) — The aboutness of mental states and phenomenal intentionality
-- [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) — Why meaning is constitutively phenomenal
+- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — Why meaning is constitutively phenomenal
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How recursive language requires conscious processing
 - [working-memory](/concepts/working-memory/) — The maintenance/manipulation distinction and conscious access
 - [functionalism](/concepts/functionalism/) — The view that mental states are defined by functional roles
@@ -167,3 +167,4 @@ The symbol grounding problem connects to all five tenets:
 1. Piantadosi, S., & Hill, F. (2023). The Vector Grounding Problem. arXiv:2304.01481.
 1. Lin, B., & Liu, Y. (2022). The Difficulties in Symbol Grounding Problem and the Direction for Solving It. *Philosophies*, 7(5), 108.
 1. Barsalou, L. W. (2008). Grounded cognition. *Annual Review of Psychology*, 59, 617-645.
+1. Cangelosi, A., & Greco, A. (2015). Three Symbol Ungrounding Problems: Abstract concepts and the future of embodied cognition. *New Ideas in Psychology*, 39, 1-6.

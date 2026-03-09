@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-06 01:10:00+00:00
+ai_modified: 2026-03-09 11:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -32,6 +32,8 @@ related_articles:
 - '[[tenets]]'
 - '[[sleep-memory-consolidation-consciousness-2026-01-18]]'
 - '[[dream-consciousness]]'
+- '[[capability-division-problem]]'
+- '[[memory-as-dual-domain-capability]]'
 title: Sleep and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -93,7 +95,7 @@ The [attention-as-interface](/concepts/attention-as-interface/) hypothesis propo
 
 ## Memory Consolidation Without Consciousness
 
-Memory consolidation involves coordinated interaction between hippocampal sharp-wave ripples, thalamocortical sleep spindles, and cortical slow oscillations. A 2023 Nature Neuroscience study confirmed their causal role by showing that augmenting hippocampal-prefrontal synchrony enhanced consolidation. None of this is experienced—the process is computationally complex but phenomenally silent.
+Memory consolidation involves coordinated interaction between hippocampal sharp-wave ripples, thalamocortical sleep spindles, and cortical slow oscillations. A 2023 Nature Neuroscience study confirmed their causal role by showing that augmenting hippocampal-prefrontal synchrony enhanced consolidation. None of this is experienced—the process is computationally complex but phenomenally silent. This dissociation exemplifies the Map's [capability division problem](/voids/capability-division-problem/): consolidation is a brain-side capability that proceeds autonomously, while the selectional and phenomenal contributions of consciousness—the [mind-side of memory](/concepts/memory-as-dual-domain-capability/)—disengage entirely.
 
 If consciousness were identical to neural computation, this would be mysterious. The [hard problem](/topics/hard-problem-of-consciousness/) sharpens: why does some neural computation produce experience while other computation, equally complex, produces nothing? The interface framework answers: consciousness interfaces with the brain through specific mechanisms ([attention](/concepts/attention-as-interface/), [working memory](/concepts/working-memory/), [global broadcast](/concepts/global-workspace-theory/)). When these are offline, computation proceeds without consciousness.
 
@@ -169,6 +171,8 @@ The Map's interpretation would face difficulty if:
 - [haecceity](/concepts/haecceity/) — Indexical identity through the sleep-wake gap
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Sleep within the broader taxonomy of ASCs
 - [sleep-memory-consolidation-consciousness-2026-01-18](/research/sleep-memory-consolidation-consciousness-2026-01-18/) — Detailed research notes
+- [capability-division-problem](/voids/capability-division-problem/) — Which capabilities belong to the brain and which to consciousness
+- [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) — Memory as a dual-domain capability across physical and non-physical domains
 - [The Dream Consciousness Void](/voids/dream-consciousness-void/) — Why waking cannot access dreaming and dreaming cannot access waking
 
 ## References

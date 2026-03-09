@@ -79,7 +79,7 @@ All six adversarial personas applied. No new philosophical issues beyond bedrock
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) (inline, Further Reading, frontmatter)
 - [causal-delegation](/concepts/causal-delegation/) (inline, frontmatter)
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) (Further Reading, frontmatter)
-- [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) (Further Reading, frontmatter)
+- [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) (Further Reading, frontmatter)
 
 ## Remaining Items
 

@@ -36,7 +36,7 @@ None. The article remains factually accurate, properly cited, and internally con
 2. **Missing cross-references (orphan status)**: The article had 7 inbound links but was missing connections from several articles that discuss dopamine or closely related topics.
    - **Resolution**: Added cross-references from 5 articles (see below).
 
-3. **Missing outbound cross-links**: The article discussed Parkinson's extensively without linking to [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/), and didn't link to [the-interface-location-problem](/topics/the-interface-location-problem/) or [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/).
+3. **Missing outbound cross-links**: The article discussed Parkinson's extensively without linking to [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/), and didn't link to [the-interface-location-problem](/topics/the-interface-location-problem/) or [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/).
    - **Resolution**: Added inline cross-reference in the Parkinson's section and three entries in Further Reading.
 
 ### Counterarguments Considered
@@ -71,13 +71,13 @@ No new counterarguments identified since the article content is substantively un
 **Outbound (from this article):**
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) (inline + Further Reading)
 - [the-interface-location-problem](/topics/the-interface-location-problem/) (Further Reading)
-- [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) (Further Reading)
+- [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) (Further Reading)
 
 **Inbound (from other articles to this one):**
 - [free-will](/topics/free-will/) — Added wikilink in Motor Selection section where dopamine is discussed
 - [the-interface-location-problem](/topics/the-interface-location-problem/) — Added to Further Reading
 - [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — Added wikilink on "dopamine" in Parkinson's placebo section
-- [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) — Added to Further Reading
+- [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) — Added to Further Reading
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) — Added to Further Reading
 
 ## Word Count

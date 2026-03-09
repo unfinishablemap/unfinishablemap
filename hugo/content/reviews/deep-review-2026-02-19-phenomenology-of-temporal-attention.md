@@ -70,7 +70,7 @@ topics: []
 
 ### Cross-links Added
 
-- [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) — in flow states paragraph
+- [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) — in flow states paragraph
 - [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — in meditative attention paragraph
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — in temporal selection section
 - [free-will](/topics/free-will/) — in temporal selection section (new thematic connection)

@@ -121,7 +121,7 @@ Expert performance presents a paradox. The expert is not unconscious during skil
 
 If the skill runs automatically, what is consciousness *doing* during expert performance? The Map suggests consciousness operates at a higher level of the hierarchy—not controlling individual movements but maintaining overall intentional direction, monitoring for anomalies, and remaining ready to intervene. The pianist's consciousness shapes phrasing and expression while leaving finger placement to procedural systems. The surgeon's awareness tracks diagnostic judgment while motor execution proceeds below reflective attention.
 
-The expert is also never finished. Mastery in one dimension opens new frontiers requiring conscious engagement—the pianist who has automated technique now struggles consciously with interpretation. When an expert transitions to a new style, consciousness must re-enter the procedural level, producing the instability described in the phenomenology of skill transition. The [flow state](/topics/phenomenology-of-flow-states/) represents the fullest expression of the hierarchical shift—heightened engagement with reduced self-monitoring. The [choking phenomenon](/topics/choking-phenomenon-mental-causation/) reveals what happens when this arrangement breaks down: conscious attention plunges back into procedural levels, disrupting the automaticity it built, proving once more that consciousness is causally potent.
+The expert is also never finished. Mastery in one dimension opens new frontiers requiring conscious engagement—the pianist who has automated technique now struggles consciously with interpretation. When an expert transitions to a new style, consciousness must re-enter the procedural level, producing the instability described in the phenomenology of skill transition. The [flow state](/topics/consciousness-and-skilled-performance/) represents the fullest expression of the hierarchical shift—heightened engagement with reduced self-monitoring. The [choking phenomenon](/topics/choking-phenomenon-mental-causation/) reveals what happens when this arrangement breaks down: conscious attention plunges back into procedural levels, disrupting the automaticity it built, proving once more that consciousness is causally potent.
 
 ## What Would Challenge This View?
 
@@ -146,7 +146,7 @@ The strongest physicalist counterargument is that executive attention networks, 
 ## Further Reading
 
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — When consciousness disrupts the body it trained
-- [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) — The fullest expression of body schema integration
+- [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) — The fullest expression of body schema integration
 - Phenomenology Of Skill Transition — What happens when established skills must be restructured
 - Paradox Of Effortless Mastery — The puzzle of consciousness building systems that replace it
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — The 4E framework and the interface reading

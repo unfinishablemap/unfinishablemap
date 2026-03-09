@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-02 18:52:00+00:00
+ai_modified: 2026-03-09 12:16:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,6 +18,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[haecceity]]'
 - '[[causal-closure]]'
+- '[[emergence]]'
 created: 2026-01-14
 date: &id001 2026-01-16
 description: 'Two forms of dualism: separate mental substances versus irreducible
@@ -26,7 +27,7 @@ description: 'Two forms of dualism: separate mental substances versus irreducibl
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 10:37:00+00:00
+last_deep_review: 2026-03-09 12:16:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -81,7 +82,7 @@ Unlike substance dualism, property dualism doesn't posit a separate mental subst
 
 However, critics argue that Russellian monism inherits dualism's core difficulties. Pautz (2019) contends that it requires brute "grounding laws" connecting quiddities (intrinsic properties) to consciousness—structurally parallel to the brute psychophysical laws dualism posits: "Though called a physicalist view, it seems to have many of the vices of dualism." Russellian monism claims to avoid dualism's interaction problem by making consciousness "part of" physical reality, but the integration remains schematic. The Map's explicit dualism with its quantum interaction mechanism offers clearer theoretical content.
 
-**Emergent dualism** holds that mental properties emerge from physical complexity in ways that cannot be predicted or explained from physical theory alone. The emergence is ontological, not merely epistemic—mental properties are genuinely novel additions when complex systems arise.
+**Emergent dualism** holds that mental properties [emerge](/concepts/emergence/) from physical complexity in ways that cannot be predicted or explained from physical theory alone. The [emergence](/concepts/emergence/) is ontological, not merely epistemic—mental properties are genuinely novel additions when complex systems arise.
 
 ### The Appeal of Property Dualism
 
@@ -149,7 +150,7 @@ Tegmark (2000) calculated decoherence times for neural microtubules at 10⁻¹³
 
 **Biological quantum effects prove feasibility:** Avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds. Xu et al. (2026) at Princeton provided computational support for the radical pair mechanism in European robin cryptochrome. If evolution can optimise quantum effects for navigation, it might optimise them for consciousness.
 
-**Decoherence doesn't solve collapse:** As recent reviews note, "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Consciousness could bias outcomes at the point of measurement even after decoherence has selected preferred bases.
+**Decoherence doesn't solve collapse:** Decoherence suppresses quantum superpositions and selects preferred bases, but it leaves the system in a mixture of possible outcomes without determining which one is measured. Consciousness could bias outcomes at the point of measurement even after decoherence has done its work.
 
 ### Implications for the Distinction
 
@@ -246,19 +247,3 @@ The substance/property distinction matters less than it might seem for the Map's
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Xu, J. et al. (2026). Computational confirmation of the radical pair mechanism in European robin cryptochrome-4a. *Journal of the American Chemical Society*.
 1. Zimmerman, D. (2010). From property dualism to substance dualism. *Proceedings of the Aristotelian Society*, 84, 119-150.
-
-<!-- AI REFINEMENT LOG - 2026-03-02
-Changes made:
-- Fixed uncited Adam Pautz attribution: replaced paraphrase with direct quote from Pautz (2019), added citation to References
-- Fixed uncited "2026 Princeton study": added Xu et al. (2026) attribution and citation, softened "confirmed" to "provided computational support for"
-- Resolved neutrality/preference tension: changed "deliberately neutral" to "compatible with either", acknowledged interactionist property dualism as stable position
-- Reduced Process Philosophy section: trimmed from 3 subsections to concise acknowledgment that doesn't undermine the article's framework
-- Renamed "Relation to the Map's Perspective" to "Relation to Site Perspective" per style guide
-- Language: "exactly what" → "aligns with", "avoids this problem trivially" → "sidesteps this problem"
-- Qualified decoherence equal-impact claim to note it applies specifically when combined with quantum interaction theories
-
-Based on pessimistic review dated 2026-03-02.
-Key improvements: attribution accuracy, internal consistency, framework coherence.
-
-This log should be removed after human review.
--->

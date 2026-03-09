@@ -55,7 +55,7 @@ The paradox has three phases, each philosophically distinct. Dreyfus and Dreyfus
 
 **Phase two: progressive withdrawal.** As competence grows, consciousness withdraws from components of the skill. The driver who once monitored every mirror check now does it automatically. The surgeon who once planned each incision now reads the tissue. Consciousness delegates to [procedural systems](/concepts/implicit-memory/), retaining oversight of higher-order goals while releasing direct control of execution. Each delegation appears to involve [conscious agency](/concepts/agent-causation/)—the learner *decides* to trust the emerging automaticity, though materialists would describe this as a shift in monitoring thresholds driven by accumulated confidence.
 
-**Phase three: effortless mastery.** The expert performs at peak capacity without phenomenal effort. The skill runs on systems that consciousness built but no longer manages. In [flow](/topics/phenomenology-of-flow-states/) (Csikszentmihalyi, 1990), the expert may experience heightened awareness—vivid, absorbed, richly conscious—yet without the strain that characterised learning. Consciousness is present but operates differently: selecting without friction rather than grinding against resistance.
+**Phase three: effortless mastery.** The expert performs at peak capacity without phenomenal effort. The skill runs on systems that consciousness built but no longer manages. In [flow](/topics/consciousness-and-skilled-performance/) (Csikszentmihalyi, 1990), the expert may experience heightened awareness—vivid, absorbed, richly conscious—yet without the strain that characterised learning. Consciousness is present but operates differently: selecting without friction rather than grinding against resistance.
 
 The paradox is sharpest in the transition from phase one to phase three. The very thing that was essential (conscious effort) produces the conditions for its own dispensability (automaticity). Consciousness builds the road, then drives on it hands-free.
 
@@ -116,7 +116,7 @@ The paradox of effortless mastery aligns with the Map's tenets in illuminating w
 ## Further Reading
 
 - [phenomenology-of-skill-and-the-lived-body](/topics/consciousness-and-skilled-performance/) — The full phenomenological arc from novice to expert
-- [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) — What effortless expert performance feels like from inside
+- [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) — What effortless expert performance feels like from inside
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — When consciousness re-engages with automated skills and disrupts them
 - Phenomenology Of Skill Transition — The painful return of consciousness during skill restructuring
 - [interface-friction](/concepts/interface-friction/) — The resistance at the mind-brain interface that effort tracks

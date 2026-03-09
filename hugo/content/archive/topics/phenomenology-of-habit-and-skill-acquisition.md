@@ -101,7 +101,7 @@ This creates a phenomenological puzzle. If the skill runs automatically, what is
 
 The expert is also never finished. Mastery in one dimension opens new frontiers requiring conscious engagement—the pianist who has automated technique now struggles consciously with interpretation, and when an expert transitions to a new style or technique, consciousness must re-enter the procedural level, producing the distinctive instability described in the phenomenology of skill transition. The boundary between conscious and automatic is not a settled frontier but an ongoing negotiation.
 
-The [flow state](/topics/phenomenology-of-flow-states/) represents the fullest expression of this hierarchical shift. In flow, the expert experiences heightened engagement with reduced self-monitoring—the activity absorbs awareness without fragmenting it into monitored steps. The [choking phenomenon](/topics/choking-phenomenon-mental-causation/) reveals what happens when this arrangement breaks down: conscious attention plunges back into procedural levels, disrupting the automaticity it built, proving once more that consciousness is causally potent.
+The [flow state](/topics/consciousness-and-skilled-performance/) represents the fullest expression of this hierarchical shift. In flow, the expert experiences heightened engagement with reduced self-monitoring—the activity absorbs awareness without fragmenting it into monitored steps. The [choking phenomenon](/topics/choking-phenomenon-mental-causation/) reveals what happens when this arrangement breaks down: conscious attention plunges back into procedural levels, disrupting the automaticity it built, proving once more that consciousness is causally potent.
 
 ## Relation to Site Perspective
 
@@ -116,7 +116,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies to theories
 ## Further Reading
 
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
-- [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/)
+- [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/)
 - Phenomenology Of Skill Transition
 - Paradox Of Effortless Mastery
 - [implicit-memory](/concepts/implicit-memory/)

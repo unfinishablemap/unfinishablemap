@@ -72,7 +72,7 @@ Inbound links added from 12 articles to resolve orphan status:
 **Related articles (Further Reading sections):**
 - [attention-as-interface](/concepts/attention-as-interface/) — Related domains category
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Further Reading
-- [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) — Further Reading
+- [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) — Further Reading
 
 ## Remaining Items
 

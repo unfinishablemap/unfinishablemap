@@ -27,7 +27,7 @@ related_articles:
 - '[[phenomenology-of-skill-and-the-lived-body]]'
 - '[[introspective-opacity|volitional opacity]]'
 - '[[buddhist-perspectives-on-meaning]]'
-- '[[phenomenology-of-flow-states]]'
+- '[[consciousness-and-skilled-performance]]'
 - '[[contemplative-methods-as-philosophical-methodology]]'
 - '[[buddhism-and-dualism]]'
 - '[[process-philosophy]]'
@@ -56,7 +56,7 @@ These are not merely philosophical positions. They shape how practitioners actua
 
 Despite cultural shaping, certain features of agency experience appear to persist across traditions. Three candidates for cross-cultural invariants stand out.
 
-**First, the something-it-is-like of acting.** Whether framed as effortful willing, [effortless flow](/topics/phenomenology-of-flow-states/), or witnessing, every tradition acknowledges that action has a felt quality distinguishable from mere happening. A hand rising because I raise it differs experientially from a hand rising because someone lifts it, regardless of cultural framework. This first-person contrast between doing and undergoing appears universal — even traditions that deny a permanent agent preserve the phenomenological distinction.
+**First, the something-it-is-like of acting.** Whether framed as effortful willing, [effortless flow](/topics/consciousness-and-skilled-performance/), or witnessing, every tradition acknowledges that action has a felt quality distinguishable from mere happening. A hand rising because I raise it differs experientially from a hand rising because someone lifts it, regardless of cultural framework. This first-person contrast between doing and undergoing appears universal — even traditions that deny a permanent agent preserve the phenomenological distinction.
 
 **Second, the opacity of the causal mechanism.** No culture reports direct introspective access to *how* willing produces action. The [volitional opacity](/voids/introspective-opacity/) that the Map identifies as a genuine void — a boundary of the knowable — appears in other traditions too: the Daoist cannot explain how *wu wei* works, the Buddhist cannot point to the mechanism by which intentions produce effects across the causal chain. The gap between willing and doing is cross-culturally invisible.
 
@@ -103,7 +103,7 @@ The Map's commitment to Occam's Razor having limits is also relevant. The "simpl
 - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/)
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
 - [process-philosophy](/concepts/process-philosophy/)
-- [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/)
+- [phenomenology of flow states](/topics/consciousness-and-skilled-performance/)
 - [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/)
 - [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/) — Apex synthesis: how cross-cultural invariants join effort, selection, and holding in a unified phenomenological profile
 

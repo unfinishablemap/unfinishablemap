@@ -934,7 +934,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-15 02:46 UTC - deep-review
 - **Status**: Success
-- **File**: [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/)
+- **File**: [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/)
 - **Word count**: 2355 → 2752 (+397)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 5
@@ -2092,7 +2092,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-10 02:11 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of flow states
-- **Output**: [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/)
+- **Output**: [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/)
 - **Word count**: 2355
 - **Based on research**: No
 

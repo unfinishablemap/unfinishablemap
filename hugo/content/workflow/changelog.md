@@ -18,6 +18,137 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-09T12:16:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [substance-property-dualism](/concepts/substance-property-dualism/)
+- **Word count**: 3337 → 3324 (-13)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (unattributed quote, link case mismatch, missing cross-link, stale log)
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-09-substance-property-dualism](/reviews/deep-review-2026-03-09-substance-property-dualism/)
+
+## 2026-03-09T12:02:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [predictive-processing](/concepts/predictive-processing/)
+- **Word count**: 2711 → 2762 (+51)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (duplicate cross-link, 2 missing references, nuanced cessation claim)
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-09-predictive-processing](/reviews/deep-review-2026-03-09-predictive-processing/)
+
+## 2026-03-09T11:46:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/)
+- **Word count**: 2452 → 2480 (+28)
+- **Critical issues addressed**: 1 (broken link to archived article)
+- **Medium issues addressed**: 3 (2 archived link updates, 1 missing reference)
+- **Enhancements made**: 0 (article stable after 5 reviews)
+- **Output**: [deep-review-2026-03-09-symbol-grounding-problem](/reviews/deep-review-2026-03-09-symbol-grounding-problem/)
+
+## 2026-03-09T11:35:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 403
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 1
+- **Output**: [tenet-check-2026-03-09](/reviews/tenet-check-2026-03-09/)
+
+## 2026-03-09T11:31:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
+- **Word count**: 2609 → 2683 (+74)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (capability division paragraph structure, confidence calibration)
+- **Enhancements made**: 1 (grammar metaphor connected to capability division framework)
+- **Output**: [deep-review-2026-03-09-sensorimotor-contingencies-and-the-interface](/reviews/deep-review-2026-03-09-sensorimotor-contingencies-and-the-interface/)
+
+## 2026-03-09T11:17:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-memory](/topics/consciousness-and-memory/)
+- **Word count**: 2562 → 2594 (+32)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing capability division framework)
+- **Enhancements made**: 4 articles cross-linked with capability division framework
+- **Cross-review**: Also updated [dream-consciousness](/topics/dream-consciousness/), [sleep-and-consciousness](/concepts/sleep-and-consciousness/), [episodic-memory](/concepts/episodic-memory/) with capability division cross-links
+- **Output**: [deep-review-2026-03-09-consciousness-and-memory](/reviews/deep-review-2026-03-09-consciousness-and-memory/)
+
+## 2026-03-09T11:01:00+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Witnessing Void — the impossibility of examining the act of witnessing itself
+- **Category**: Unexplorable / Occluded
+- **Output**: [voids-witnessing-void-2026-03-09](/research/voids-witnessing-void-2026-03-09/)
+- **Key finding**: Cross-cultural philosophical convergence (Advaita sakshi, Buddhist bare awareness, Western phenomenology) on a single structural claim — the witnessing capacity of consciousness cannot be objectified — constitutes strong phenomenological evidence for dualism and reveals a void at the centre rather than the edges of consciousness.
+
+## 2026-03-09T10:46:00+00:00 - deep-review (cross-review)
+- **Status**: Success
+- **File**: [perception-and-conscious-experience](/topics/perception-and-conscious-experience/) (primary) + 3 cross-referenced articles
+- **Word count**: 2102 → 2250 (+148) primary; +163 across 3 secondary articles
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (capability division framework integration)
+- **Enhancements made**: 8 (framework paragraphs + cross-references across all 4 articles)
+- **Output**: [deep-review-2026-03-09-perception-and-conscious-experience](/reviews/deep-review-2026-03-09-perception-and-conscious-experience/)
+
+## 2026-03-09T10:32:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/)
+- **Word count**: 1352 → 1534 (+182)
+- **Critical issues addressed**: 3 (misattributed lead author, experimental finding misattributed, broken wikilinks)
+- **Medium issues addressed**: 3 (unattributed quote, missing references, No Many Worlds tenet)
+- **Enhancements made**: 2 (Martin & Deutscher in-text reference, complete tenet coverage)
+- **Output**: [deep-review-2026-03-09-memory-as-dual-domain-capability](/reviews/deep-review-2026-03-09-memory-as-dual-domain-capability/)
+
+## 2026-03-09T10:16:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Memory as dual-domain capability
+- **Output**: [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/)
+- **Word count**: 1352
+- **Based on research**: yes, [memory-dual-domain-capability-2026-03-09](/research/memory-dual-domain-capability-2026-03-09/)
+
+## 2026-03-09T10:01:00+00:00 - expand-topic
+- **Status**: Blocked — all sections at capacity (topics 203/200, concepts 201/200, voids 103/100)
+- **Topic**: Lucid dreaming as capability evidence
+- **Output**: None
+- **Notes**: Marked P1 todo as blocked. Three research notes available for when capacity opens.
+
+## 2026-03-09T09:47:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/)
+- **Target**: [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)
+- **Archived**: [phenomenology-of-flow-states](/archive/topics/phenomenology-of-flow-states/)
+- **References updated**: 13 active content files (27 wikilink edits)
+- **References to review**: none (all active content updated)
+
+## 2026-03-09T09:31:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Smoothness Problem — Neural Discreteness vs Experiential Continuity
+- **Output**: [smoothness-problem](/voids/smoothness-problem/)
+- **Word count**: 1154
+- **Based on research**: yes, [neural-refresh-rates-smoothness-problem-2026-03-08](/research/neural-refresh-rates-smoothness-problem-2026-03-08/)
+
+## 2026-03-09T09:16:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [islamic-sufi-philosophy-of-consciousness](/concepts/islamic-sufi-philosophy-of-consciousness/)
+- **Word count**: 2082 → 2087 (+5)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (paragraph structure, missing cross-links, unclear attribution)
+- **Enhancements made**: 5 (paragraph split, 3 cross-links added, paraphrase clarified)
+- **Output**: [deep-review-2026-03-09-islamic-sufi-philosophy-of-consciousness](/reviews/deep-review-2026-03-09-islamic-sufi-philosophy-of-consciousness/)
+
+## 2026-03-09T09:02:00+00:00 - expand-topic
+- **Status**: Blocked — all sections at cap
+- **Topic**: Perceptual fidelity and the interface — the blur paradox
+- **Reason**: topics/ (203/200), concepts/ (200/200), voids/ (101/100) all at or above section caps. No article created. Research ready at [perceptual-degradation-interface-blur-2026-03-09](/research/perceptual-degradation-interface-blur-2026-03-09/).
+
+## 2026-03-09T08:46:00+00:00 - expand-topic
+- **Status**: Blocked — all sections at cap
+- **Topic**: The 3D world representation problem
+- **Reason**: topics/ (204/200), concepts/ (201/200), voids/ (102/100) all at or above section caps. No article created. Automation should focus on improving existing content (reviews, condensing, coalescing) to free capacity.
+
+## 2026-03-09T08:31:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 406 non-draft files across topics/ (204), concepts/ (201), tenets/ (1); detailed analysis of 24 representative articles
+- **Output**: [optimistic-2026-03-09](/reviews/optimistic-2026-03-09/)
+
 ## 2026-03-09T08:18:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Capability Division Problem

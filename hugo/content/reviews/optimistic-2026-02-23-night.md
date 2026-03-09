@@ -40,7 +40,7 @@ The phenomenology series is the Map's most distinctive contribution. Twelve or m
 
 What makes this series extraordinary is not individual articles but the pattern that emerges across them. Four structural features recur:
 
-1. **Consciousness as selection, not passive reception** — most clearly in [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) (frictionless selection) and [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) (standing intention maintained during wandering)
+1. **Consciousness as selection, not passive reception** — most clearly in [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) (frictionless selection) and [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) (standing intention maintained during wandering)
 2. **Phenomenal character as normatively charged** — [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/), [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/), and [phenomenology-of-trust](/topics/phenomenology-of-trust/) all show consciousness experiencing itself as subject to norms that exceed physical causation
 3. **Gestalt structure** — [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/)'s gestalt apprehension, flow's bundled mode-shift, imagination's quasi-perceptual indeterminacy all reveal consciousness organising experience holistically
 4. **Bidirectional causation within single events** — particularly in [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) (brain generates mismatch signal → consciousness recognises → consciousness acts) and [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) (attention quality constitutes what is morally perceived)
@@ -113,7 +113,7 @@ This pattern of honest limitation transforms what could be defensive argumentati
 ### High Priority
 
 #### The Phenomenology of Creative Problem-Solving
-- **Builds on**: [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/), [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/), [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/), [consciousness-and-creativity](/concepts/consciousness-and-creativity/)
+- **Builds on**: [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/), [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/), [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/), [consciousness-and-creativity](/concepts/consciousness-and-creativity/)
 - **Would address**: The incubation effect (solutions arriving during periods of non-attention) provides evidence for both delegatory processing and consciousness-as-selector. When the "aha" moment arrives, what is its phenomenal structure? The sudden gestalt shift—from confusion to clarity—may reveal consciousness recognising a solution that unconscious processing generated, instantiating the bidirectional architecture
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Bidirectional Interaction (consciousness recognises and selects solutions), Dualism (the phenomenal character of insight is irreducible)
@@ -162,7 +162,7 @@ This pattern of honest limitation transforms what could be defensive argumentati
 
 | From | To | Reason |
 |------|-----|--------|
-| [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) | [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) | Flow and choking are complementary evidence: flow shows consciousness operating without friction; choking shows consciousness interfering. Together they map the selection interface's modes |
+| [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) | [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) | Flow and choking are complementary evidence: flow shows consciousness operating without friction; choking shows consciousness interfering. Together they map the selection interface's modes |
 | [galilean-exclusion](/concepts/galilean-exclusion/) | [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) | Galilean exclusion explains *why* cognitive science operates under methodological materialism—the method was designed to exclude what dualism points to |
 | [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) | [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) | Valence irreducibility (pain asymbolia) plus causal efficacy (amplification) form complementary halves of the same argument |
 | [phenomenal-intentionality](/concepts/intentionality/) | [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) | PIT's claim that meaning requires phenomenal character has direct implications for how language works under dualism |

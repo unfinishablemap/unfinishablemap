@@ -29,7 +29,7 @@ None. The coalesced article successfully integrates both source articles without
 1. **Heterophenomenology objection lost in coalescing** (Dennett perspective): The source article "Creativity, Consciousness, and Novel Thought" had added acknowledgment of the Dennettian challenge to introspective reports about creative generation. The coalesced article stated "phenomenologically, you feel you are *producing* ideas, not finding them" without this qualification. **Resolution**: Added parenthetical acknowledging heterophenomenology while maintaining the Map's position.
 
 ### Low Issues Found
-1. **Flow states tension unaddressed** (Buddhist philosopher): Creative experience often involves ego dissolution, but the article emphasises deliberate authorship. The related_articles frontmatter includes [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) but the body doesn't engage with this tension. Deferred from source review — not critical.
+1. **Flow states tension unaddressed** (Buddhist philosopher): Creative experience often involves ego dissolution, but the article emphasises deliberate authorship. The related_articles frontmatter includes [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) but the body doesn't engage with this tension. Deferred from source review — not critical.
 
 ### Attribution Accuracy Check
 - All attributions verified: Tomasello (zone of latent solutions), Cowan (working memory 3-4 items), Boden (creativity typology), Husserl (imagination as domain of possibility), Bergson (durée), Yeh et al. 2024 (DMN causal role)

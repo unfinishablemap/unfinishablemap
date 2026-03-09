@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-15
-**Article**: [The Phenomenology of Flow States](/topics/phenomenology-of-flow-states/)
+**Article**: [The Phenomenology of Flow States](/topics/consciousness-and-skilled-performance/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

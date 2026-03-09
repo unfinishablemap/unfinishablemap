@@ -78,7 +78,7 @@ None. The article has no factual errors, internal contradictions, missing requir
 - [explanatory-gap](/concepts/explanatory-gap/) — In the embodied challenge section and the bat argument
 - [neurophenomenology](/concepts/neurophenomenology/) — In the Thompson paragraph
 - [attention-as-interface](/concepts/attention-as-interface/) — In the convergence section opening
-- [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) — In the new flow states paragraph
+- [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) — In the new flow states paragraph
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — In the challenges section
 - [cognitive-closure](/concepts/mysterianism/) — In the new cognitive closure paragraph
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — In the AI grounding discussion

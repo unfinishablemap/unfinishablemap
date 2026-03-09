@@ -105,7 +105,7 @@ Automatisation, from the Map's perspective, is not consciousness becoming unnece
 ## Further Reading
 
 - [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)
-- [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/)
+- [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/)
 - Phenomenology Of Cognitive Load
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)

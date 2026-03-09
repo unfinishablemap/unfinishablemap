@@ -122,7 +122,7 @@ The [consciousness-only-territories](/voids/consciousness-only-territories/) voi
 - **Tenet alignment**: Minimal Quantum Interaction (bandwidth as constraint of the quantum interface)
 
 #### Phenomenology of Perceptual Expertise
-- **Builds on**: [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/), [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/), [perception-and-conscious-experience](/topics/perception-and-conscious-experience/)
+- **Builds on**: [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/), [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/), [perception-and-conscious-experience](/topics/perception-and-conscious-experience/)
 - **Would address**: How expert perceivers (wine sommeliers, radiologists, birdwatchers) develop richer phenomenal access to the same physical stimuli. The development of perceptual expertise—seeing what was previously invisible—provides a case study of consciousness expanding its bandwidth within particular domains through training.
 - **Estimated scope**: Short article
 - **Tenet alignment**: Bidirectional Interaction (consciousness shaping perception through attention), Dualism (expertise reveals phenomenal richness not captured by physical description)

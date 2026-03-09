@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-24 12:14:00+00:00
+ai_modified: 2026-03-09 10:46:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,6 +25,7 @@ related_articles:
 - '[[surprise-prediction-error-and-consciousness]]'
 - '[[philosophy-of-perception-under-dualism]]'
 - '[[consciousness-and-temporal-integration]]'
+- '[[capability-division-problem]]'
 title: The Phenomenology of Perceptual Constancy
 topics:
 - '[[visual-consciousness]]'
@@ -77,7 +78,7 @@ This connects directly to the [binding problem](/concepts/binding-problem/) and 
 
 The Map's treatment of [attention](/topics/structure-of-attention/) is relevant here. Perceptual constancy is not automatic or uniform—it can be disrupted, enhanced, or selectively applied through attentional engagement. Painters learn to "break" colour constancy by attending to proximal qualities rather than distal properties—squinting at a white wall under candlelight until it yields its actual orange cast, or noticing the blue-violet shadows on snow that constancy normally hides. The experience of constancy *breaking* is phenomenologically distinctive: the world briefly appears unstable, colours shift toward their proximal values, and objects lose their familiar solidity. That this breakdown requires effort and training, and that the default mode reasserts itself as soon as attention relaxes, suggests that constancy is actively maintained rather than passively computed. Meditators report analogous shifts: contemplative training can make the normally invisible machinery of constancy partially accessible to introspection.
 
-This selective character suggests that constancy involves an active contribution from consciousness, not merely a passive computational process. The dissociation here parallels the broader distinction between [conscious and unconscious processing](/concepts/conscious-vs-unconscious-processing/): pre-attentive constancy mechanisms operate unconsciously, but the *phenomenal stability* they support is a feature of conscious experience. If [attention is the interface](/topics/attention-as-selection-interface/) where consciousness selects among competing perceptual options, then perceptual constancy may represent one of its most basic operations: selecting the stable distal interpretation over the fluctuating proximal signal.
+This selective character suggests that constancy involves an active contribution from consciousness, not merely a passive computational process. The dissociation here parallels the broader distinction between [conscious and unconscious processing](/concepts/conscious-vs-unconscious-processing/): pre-attentive constancy mechanisms operate unconsciously, but the *phenomenal stability* they support is a feature of conscious experience. In the Map's [capability division framework](/voids/capability-division-problem/), computational constancy — chromatic adaptation, illuminant estimation, relational processing — belongs to brain-side processing. The phenomenal dimension — the felt sameness of the banana's yellow, the experienced stability of the world — is a mind-side contribution that the computation occasions but does not constitute. If [attention is the interface](/topics/attention-as-selection-interface/) where consciousness selects among competing perceptual options, then perceptual constancy may represent one of its most basic operations: selecting the stable distal interpretation over the fluctuating proximal signal.
 
 The approximately 300-millisecond window for deploying voluntary attention is relevant here. Constancy mechanisms operate faster than this—pre-attentive colour constancy, for instance, occurs within the first 100 milliseconds of visual processing. But the *phenomenal stability* of constancy—the fact that the world does not flicker between constancy and its absence—may involve sustained attentional maintenance of the stable interpretation. The distinction between the speed of the computational mechanism and the continuity of the phenomenal result is itself evidence that the computation and the experience are not identical.
 
@@ -107,6 +108,7 @@ More broadly, perceptual constancy illustrates why **Occam's Razor has limits** 
 - [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)
 - [phenomenal-transparency](/concepts/phenomenal-transparency/)
 - [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/)
+- [capability-division-problem](/voids/capability-division-problem/)
 
 ## References
 

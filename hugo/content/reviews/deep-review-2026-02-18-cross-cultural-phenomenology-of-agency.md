@@ -32,7 +32,7 @@ topics: []
 - **Buddhist moral responsibility oversimplified**: Presented as straightforward when it operates at the conventional level with significant caveats. Resolution: qualified to "moral responsibility persists at the conventional level — wholesome and unwholesome intentions condition future experience through karma, even without an ultimate agent who bears the responsibility."
 - **Haecceity claim about Buddhist meditators unqualified**: Imposed Western metaphysical category without acknowledging Mādhyamaka rejection of svabhāva. Resolution: added Mādhyamika objection and framed the question as genuinely open.
 - **Buddhist-Whiteheadian parallel overstated**: Claimed both traditions track "the same phenomenological reality" without acknowledging fundamental differences. Resolution: qualified to "suggestive but imperfect" and noted that Whitehead's occasions have subjective aim while Buddhist dharmas do not decide.
-- **Csikszentmihalyi (1990) cited but never referenced in body**: Removed from references since flow is now cross-linked via [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) instead.
+- **Csikszentmihalyi (1990) cited but never referenced in body**: Removed from references since flow is now cross-linked via [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) instead.
 - **Markus & Kitayama (1991) not cited in-text**: Added in-text citation where the relevant claim is made.
 - **No primary Buddhist philosophical sources**: Added Garfield's translation of Nāgārjuna's Mūlamadhyamakakārikā.
 
@@ -63,7 +63,7 @@ topics: []
 ### Cross-links Added
 - [process-philosophy](/concepts/process-philosophy/) — in the Whiteheadian convergence discussion
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — in the agency-without-self section
-- [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) — in the first invariant
+- [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) — in the first invariant
 - [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) — in the cultural shaping section
 - [volitional-opacity](/voids/introspective-opacity/) — strengthened existing link with "genuine void" framing
 - 4 new entries in Further Reading and related_articles frontmatter

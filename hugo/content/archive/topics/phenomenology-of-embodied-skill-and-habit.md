@@ -119,7 +119,7 @@ This asymmetry is philosophically significant for the Map's framework. If consci
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Perception as mastery of sensorimotor laws
 - Phenomenology Of Skill Transition — What happens when established skills must be restructured
 - Paradox Of Effortless Mastery — The puzzle of consciousness building systems that replace it
-- [phenomenology-of-flow-states](/topics/phenomenology-of-flow-states/) — The fullest expression of body schema integration
+- [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) — The fullest expression of body schema integration
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — What happens when consciousness disrupts the body it trained
 
 ## References

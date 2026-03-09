@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-01 11:00:00+00:00
+ai_modified: 2026-03-09 10:46:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Why perception is the paradigm case for understanding consciousness
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-01 11:00:00+00:00
+last_deep_review: 2026-03-09 10:46:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,6 +34,8 @@ related_articles:
 - '[[knowledge-argument]]'
 - '[[conscious-vs-unconscious-processing]]'
 - '[[embodied-cognition]]'
+- '[[capability-division-problem]]'
+- '[[baseline-cognition]]'
 title: Perception and Conscious Experience
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -61,7 +63,9 @@ The most revealing evidence comes from cases where perceptual processing occurs 
 
 **Subliminal perception** extends the pattern further. Masked priming experiments show that words presented below the threshold of conscious detection can influence reaction times, semantic processing, and even emotional responses (Marcel, 1983). The brain processes the stimulus; the person has no experience of it.
 
-Each dissociation separates the same two things: the physical processing of sensory information and the conscious experience of perceiving. A physicalist might respond that consciousness is not identical to processing *in general*, but to a specific type—global broadcasting, higher-order representation, or recurrent activity. On such views, blindsight and subliminal perception involve processing *without* the particular mode that constitutes consciousness.
+Each dissociation separates the same two things: the physical processing of sensory information and the conscious experience of perceiving. The Map's [capability division framework](/voids/capability-division-problem/) systematises this separation. Brain-side processing handles feature extraction, categorisation, and action guidance—capabilities that [blindsight](/concepts/blindsight/) and subliminal perception demonstrate can operate without consciousness. Mind-side contribution includes phenomenal rendering, perceptual ownership, and the flexible deployment of visual information in novel contexts. The dissociations reveal not just that processing and experience can come apart, but that they constitute different *kinds* of capability operating in different domains. [Baseline cognition](/concepts/baseline-cognition/)—the sophisticated but bounded processing available without consciousness—marks the brain-side boundary.
+
+A physicalist might respond that consciousness is not identical to processing *in general*, but to a specific type—global broadcasting, higher-order representation, or recurrent activity. On such views, blindsight and subliminal perception involve processing *without* the particular mode that constitutes consciousness.
 
 This response correctly describes the dissociations but does not dissolve the problem. The question remains: why does *that* type of processing—and not some other—give rise to experience? What is it about global broadcasting or recurrent activity that makes it feel like something, when equally complex processing in other pathways does not? The physicalist can identify the neural correlates of [conscious versus unconscious processing](/concepts/conscious-vs-unconscious-processing/), but the explanatory gap between identifying the correlate and explaining *why* it is conscious remains open. The dissociations sharpen this gap by showing that the brain's information processing, taken on its own terms, does not require consciousness to function—making the presence of experience something that physical description must explain rather than assume.
 
@@ -99,7 +103,7 @@ Perceptual experience presents unified scenes. You see a red ball bouncing acros
 
 Proposed neural mechanisms—gamma-band synchrony, re-entrant processing, attentional binding—can explain how information is *integrated* across brain regions. But they face a further question: why does the integration produce a unified *experience*? Correlated firing in dispersed neural populations is still just dispersed firing from the physical perspective. The transition from synchronised neural activity to the felt unity of seeing a red ball requires something beyond the physical coordination itself.
 
-The Map's framework suggests that [phenomenal binding](/concepts/phenomenal-binding-and-holism/) is a feature of consciousness rather than a feature of neural computation. Consciousness does not merely receive pre-bound representations; it constitutes the unity of the perceptual field. This is consistent with the [bidirectional interaction](/tenets/#bidirectional-interaction) tenet: consciousness participates in organising perceptual experience, not merely witnessing the results of neural organisation.
+The Map's framework suggests that [phenomenal binding](/concepts/phenomenal-binding-and-holism/) is a feature of consciousness rather than a feature of neural computation. Consciousness does not merely receive pre-bound representations; it constitutes the unity of the perceptual field. In [capability division](/voids/capability-division-problem/) terms, feature extraction and spatial mapping are brain-side capabilities, while the phenomenal unification of those features into a coherent experiential scene is a mind-side contribution. This is consistent with the [bidirectional interaction](/tenets/#bidirectional-interaction) tenet: consciousness participates in organising perceptual experience, not merely witnessing the results of neural organisation.
 
 ## Beyond the Visual: Cross-Modal and Non-Perceptual Experience
 
@@ -115,7 +119,7 @@ The Unfinishable Map's [tenets](/tenets/) find their sharpest expression in perc
 
 **Dualism** holds that consciousness is not reducible to physical processes. Perceptual dissociations—blindsight, inattentional blindness, subliminal processing—demonstrate that physical processing and conscious experience are separable. If they can come apart, they are not the same thing. The richness, perspectival character, and intentional structure of perceptual experience each resist reduction to neural description, providing converging evidence that consciousness involves something beyond the physical.
 
-**Bidirectional interaction** predicts that consciousness contributes to perception, not merely accompanies it. The binding of perceptual features into unified scenes, the maintenance of perceptual constancies, and the role of attention in determining what becomes conscious all suggest that consciousness shapes the perceptual field rather than passively receiving it.
+**Bidirectional interaction** predicts that consciousness contributes to perception, not merely accompanies it. The binding of perceptual features into unified scenes, the maintenance of perceptual constancies, and the role of attention in determining what becomes conscious all suggest that consciousness shapes the perceptual field rather than passively receiving it. The [capability division framework](/voids/capability-division-problem/) sharpens this prediction: mind-side capabilities in perception—phenomenal binding, experiential ownership, flexible reasoning about perceptual content—are not redundant additions to brain-side processing but qualitatively different contributions that the neural system alone cannot produce.
 
 **Minimal quantum interaction** remains speculative as applied to perception, but the Map holds that a candidate mechanism exists for how consciousness participates in neural processes without violating conservation laws—biasing quantum indeterminacies where perception reaches points of genuine ambiguity.
 
@@ -136,6 +140,8 @@ The Unfinishable Map's [tenets](/tenets/) find their sharpest expression in perc
 - [knowledge-argument](/concepts/knowledge-argument/)
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
 - [attention-as-selection-interface](/topics/attention-as-selection-interface/)
+- [capability-division-problem](/voids/capability-division-problem/)
+- [baseline-cognition](/concepts/baseline-cognition/)
 
 ## References
 
