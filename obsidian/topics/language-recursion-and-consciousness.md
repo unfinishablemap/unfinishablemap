@@ -4,7 +4,7 @@ description: "Recursive language structure may require phenomenal consciousness.
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-04T22:18:50+00:00
+ai_modified: 2026-03-09T21:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-02-04T18:12:00+00:00
+last_deep_review: 2026-03-09T21:12:00+00:00
 ---
 
 Human language has a distinctive feature: recursive structure. Sentences contain phrases that contain sentences that contain phrases—"The man who saw the woman who chased the dog that bit the cat ran away." This ability to embed structures within structures of the same type is widely considered unique to human language. The question for consciousness studies is whether recursion merely *correlates* with consciousness or *requires* it.
@@ -57,16 +57,16 @@ If recursion requires WM manipulation, and WM manipulation requires consciousnes
 
 ### The Capacity Constraint
 
-Human WM holds approximately 7±2 items; great ape WM holds approximately 2±1. This three-to-four-fold expansion isn't incidental—it's what makes deep recursion tractable.
+Human WM capacity is often cited as 7±2 items (Miller 1956), though modern estimates converge on approximately 4±1 items when chunking is controlled (Cowan 2001). Great ape WM holds approximately 2±1 items. Whether one takes the higher or lower human estimate, the several-fold expansion over ape capacity is what makes deep recursion tractable.
 
 Consider processing depth:
 - Depth 1: "The man ran." No embedding required.
 - Depth 2: "The man who saw the woman ran." Requires holding "the man" while processing "who saw the woman."
 - Depth 3: "The man who saw the woman who chased the dog ran." Requires holding "the man" and "who saw the woman" while processing the innermost clause.
 
-Each level of embedding consumes WM slots. With 2±1 capacity, even depth-2 sentences become precarious. With 7±2 capacity, depth-3 or depth-4 becomes manageable, though performance degrades with deeper embedding (as psycholinguistic studies confirm).
+Each level of embedding consumes WM slots. With 2±1 capacity, even depth-2 sentences become precarious. With human-level capacity, depth-3 or depth-4 becomes manageable, though performance degrades with deeper embedding (as psycholinguistic studies confirm).
 
-The [[consciousness-as-amplifier|consciousness-as-amplifier hypothesis]] treats WM expansion as a key mechanism through which consciousness transforms cognition. The [[consciousness-threshold-in-cognitive-evolution|consciousness threshold]] article argues this expansion marks a phase transition—not merely more capacity but a qualitative change in how consciousness couples with neural architecture. Recursion may be the paradigm case: the expansion from ape to human WM capacity enables recursive linguistic structure that would otherwise exceed cognitive bandwidth.
+The [[consciousness-as-amplifier|consciousness-as-amplifier hypothesis]] treats WM expansion as a key mechanism through which consciousness transforms cognition. The [[consciousness-threshold-in-cognitive-evolution|consciousness threshold]] article argues this expansion marks a phase transition in how consciousness couples with neural architecture. Recursion may be the paradigm case: the expansion from ape to human WM capacity enables recursive linguistic structure that would otherwise exceed cognitive bandwidth.
 
 ## The Consciousness Connection
 
@@ -268,6 +268,7 @@ Language, recursion, and consciousness connect to all five tenets:
 
 1. Baddeley, A.D. (2000). The episodic buffer: A new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417-423.
 1. Chomsky, N. (2002). On Nature and Language. Cambridge University Press.
+1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. Hauser, M.D., Chomsky, N., & Fitch, W.T. (2002). The faculty of language: What is it, who has it, and how did it evolve? *Science*, 298(5598), 1569-1579.
 1. Horgan, T. & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In D. Chalmers (ed.), *Philosophy of Mind*. Oxford University Press.
 1. Jackendoff, R. (2002). *Foundations of Language: Brain, Meaning, Grammar, Evolution*. Oxford University Press.
