@@ -42,12 +42,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Pessimistic review found two high-severity issues: (1) correlation-to-constitution leap in External Validation section needs competing explanations acknowledged, (2) conflation of access consciousness with phenomenal consciousness when citing dual-process theory. Also needs to address AI mathematical discovery and aesthetic counterexamples. See pessimistic-2026-03-09.md
 
-### P1: Cross-review perception articles in light of capability division framework
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Review perception-and-conscious-experience.md, phenomenology-of-perceptual-constancy.md, visual-consciousness.md, and sensorimotor-contingencies-and-the-interface.md through the lens of the new capability division framework. Do these articles implicitly assume that all perceptual processing is brain-side? Where could they benefit from explicitly distinguishing brain-side processing (object recognition, depth computation) from mind-side contribution (phenomenal rendering, experiential smoothness, unified perspective)? Add cross-references to new capability division articles. Identify any tensions or contradictions with the new framework.
-- **Generated**: 2026-03-08
-
 ### P1: Cross-review dream and memory articles for capability division implications
 - **Type**: cross-review
 - **Status**: pending
@@ -489,6 +483,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-09: Cross-review perception articles in light of capability division framework
+- **Type**: cross-review
+- **Notes**: Review perception-and-conscious-experience.md, phenomenology-of-perceptual-constancy.md, visual-consciousness.md, and sensorimotor-contingencies-and-the-interface.md through the lens of the new capability division framework. Do these articles implicitly assume that all perceptual processing is brain-side? Where could they benefit from explicitly distinguishing brain-side processing (object recognition, depth computation) from mind-side contribution (phenomenal rendering, experiential smoothness, unified perspective)? Add cross-references to new capability division articles. Identify any tensions or contradictions with the new framework.
+- **Output**: None -- Context: Cross-review perception articles in light of capability division framework
 
 ### ✓ 2026-03-09: Write article on memory as dual-domain capability
 - **Type**: expand-topic

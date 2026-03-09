@@ -4,7 +4,7 @@ description: "Perception depends on lawful patterns between movement and sensati
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-03-01T21:52:00+00:00
+ai_modified: 2026-03-09T10:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[embodiment-cognitive-limits]]"
   - "[[choking-phenomenon-mental-causation]]"
   - "[[predictive-processing-and-the-maps-framework]]"
+  - "[[capability-division-problem]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -77,7 +78,7 @@ The sensorimotor contingency theorist faces a dilemma. If mastery is functional 
 
 Noë's later work leans toward the second horn. In *Out of Our Heads* (2009), he argues that "you are not your brain" and that consciousness depends on the whole embodied organism's engagement with its environment. But this raises rather than answers the question: what is it about embodied engagement that produces experience, when disembodied computation with identical functional structure does not?
 
-The Map's answer: embodied engagement provides the interface structure, but consciousness is not identical to that structure. Sensorimotor contingencies specify the format of the interface — what information is available, how it transforms with action, what capacities it affords. Consciousness engages *through* this format without being reducible to it.
+The Map's answer: embodied engagement provides the interface structure, but consciousness is not identical to that structure. Sensorimotor contingencies specify the format of the interface — what information is available, how it transforms with action, what capacities it affords. Consciousness engages *through* this format without being reducible to it. The [[capability-division-problem|capability division framework]] clarifies the picture: sensorimotor contingency mastery belongs to brain-side processing — the body-brain system learns and executes the lawful patterns. But the phenomenal character that accompanies mastery — that red *looks like something*, that spatial engagement *feels like navigating* — is a mind-side contribution that the sensorimotor mastery occasions without producing.
 
 ## The Interface's Grammar
 
@@ -125,6 +126,7 @@ Both readings accommodate the basic phenomenon, but they frame it differently. O
 - [[predictive-processing-and-the-maps-framework]] — How sensorimotor contingencies relate to prediction error and precision weighting
 - [[consciousness-and-the-phenomenology-of-place]] — Place-experience as the ultimate multi-modal sensorimotor integration
 - [[mysterianism]] — Cognitive closure and why the interface's grammar may be all we can map
+- [[capability-division-problem]] — Which capabilities belong to the brain and which to consciousness
 
 ## References
 

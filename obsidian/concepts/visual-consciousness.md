@@ -4,7 +4,7 @@ description: "The phenomenal experience of seeing—what it's like to perceive c
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-03-06T20:39:00+00:00
+ai_modified: 2026-03-09T10:46:00+00:00
 last_deep_review: 2026-03-06T20:39:00+00:00
 draft: false
 topics:
@@ -24,6 +24,7 @@ related_articles:
   - "[[tenets]]"
   - "[[knowledge-argument]]"
   - "[[interactionist-dualism]]"
+  - "[[capability-division-problem]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -88,7 +89,7 @@ Key visual NCC findings:
 - **Motion area MT/V5 correlates with motion consciousness**: Damage impairs motion perception specifically
 - **Lateral occipital cortex correlates with object consciousness**: The "what" stream's endpoint
 
-These correlations map visual consciousness onto neural architecture but don't explain why this activity feels like seeing. The posterior hot zone might be where consciousness *interfaces* with visual processing rather than where it's generated—compatible with both materialist and interactionist interpretations.
+These correlations map visual consciousness onto neural architecture but don't explain why this activity feels like seeing. The posterior hot zone might be where consciousness *interfaces* with visual processing rather than where it's generated—compatible with both materialist and interactionist interpretations. The [[capability-division-problem|capability division framework]] suggests that NCC research maps the brain-side boundary: it identifies where neural processing reaches the interface with mind-side contributions like phenomenal rendering and experiential ownership.
 
 ## The Problem Visual Consciousness Poses
 
@@ -132,6 +133,7 @@ The sheer complexity of visual consciousness—spatial layout, colour qualia, te
 - [[attention-as-interface|attention]] — How selection shapes visual awareness
 - [[phenomenal-overflow]] — Whether visual phenomenology exceeds visual access
 - [[knowledge-argument]] — Why physical facts don't capture what seeing is like
+- [[capability-division-problem]] — Which visual capabilities belong to the brain and which to consciousness
 
 ## References
 
