@@ -18,6 +18,91 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-09T16:56:00+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Inference Void — the structural gap between what can be proved and what can be genuinely understood
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-inference-void-2026-03-09](/research/voids-inference-void-2026-03-09/)
+- **Key finding**: Epistemology increasingly distinguishes understanding from knowledge; formal proof, computer verification, and AI-generated mathematics produce valid results that resist genuine comprehension, revealing a void that is actively expanding
+
+## 2026-03-09T16:26:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [selection-laws](/concepts/selection-laws/)
+- **Word count**: 1517 → 1626 (+109)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (conservation law justification, Eccles caveat, cross-links)
+- **Enhancements made**: 4 cross-links added (inline + Further Reading)
+- **Output**: [deep-review-2026-03-09-selection-laws](/reviews/deep-review-2026-03-09-selection-laws/)
+
+## 2026-03-09T15:41:00+00:00 - coalesce
+- **Status**: Abandoned (no candidates)
+- **Reason**: Searched topics (205/200), concepts (201/200), and voids (102/100) across 5 iterations. All examined pairs were well-differentiated with distinct core claims. Previous coalescing has already merged obvious overlaps.
+
+## 2026-03-09T15:12:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/)
+- **Word count**: 1728 → 1817 (+89)
+- **Critical issues addressed**: 1 (orphan reference removed)
+- **Medium issues addressed**: 3 (functionalist response, cross-link, phrasing precision)
+- **Enhancements made**: 2 (functionalist engagement paragraph, phenomenology-of-place cross-link)
+- **Output**: [deep-review-2026-03-09-three-dimensional-world-representation-problem](/reviews/deep-review-2026-03-09-three-dimensional-world-representation-problem/)
+
+## 2026-03-09T14:41:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/)
+- **Word count**: 1854 → 2051 (+197)
+- **Critical issues addressed**: 1 (missing reference for Fazekas et al. 2025)
+- **Medium issues addressed**: 4 (No Many Worlds tenet, metacognitive sovereignty overread, dual-domain framework engagement, frontmatter cleanup)
+- **Enhancements made**: 3 (dual-domain bridge, cross-links, balanced neuroplasticity reading)
+- **Output**: [deep-review-2026-03-09-lucid-dreaming-as-capability-evidence](/reviews/deep-review-2026-03-09-lucid-dreaming-as-capability-evidence/)
+
+## 2026-03-09T14:28:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft topics (~103), concepts (~173), tenets (1). Deep analysis of 24 articles.
+- **Output**: [optimistic-2026-03-09-afternoon](/reviews/optimistic-2026-03-09-afternoon/)
+
+## 2026-03-09T14:11:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/)
+- **Changes**: Fixed selectional guidance gap fallacy, constructive memory reversibility, Tulving conscription, quantum section self-undermining
+- **Published**: yes
+
+## 2026-03-09T13:56:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Lucid Dreaming as Capability Evidence
+- **Output**: [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/)
+- **Word count**: 1854
+- **Based on research**: yes, [lucid-dreaming-mind-side-rendering-2026-03-09](/research/lucid-dreaming-mind-side-rendering-2026-03-09/)
+
+## 2026-03-09T13:42:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [perceptual-fidelity-and-the-interface](/topics/perceptual-fidelity-and-the-interface/)
+- **Word count**: 1593 → 1800 (+207)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 4
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-09-perceptual-fidelity-and-the-interface](/reviews/deep-review-2026-03-09-perceptual-fidelity-and-the-interface/)
+
+## 2026-03-09T13:26:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Perceptual Fidelity and the Interface — The Blur Paradox
+- **Output**: [perceptual-fidelity-and-the-interface](/topics/perceptual-fidelity-and-the-interface/)
+- **Word count**: 1593
+- **Based on research**: Yes — [perceptual-degradation-interface-blur-2026-03-09](/research/perceptual-degradation-interface-blur-2026-03-09/)
+
+## 2026-03-09T13:11:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The 3D World Representation Problem
+- **Output**: [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/)
+- **Word count**: 1728
+- **Based on research**: Partially — drew on [dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09](/research/dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09/) for spatial cognition context
+
+## 2026-03-09T12:56:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/)
+- **Output**: [pessimistic-2026-03-09-memory-as-dual-domain-capability](/reviews/pessimistic-2026-03-09-memory-as-dual-domain-capability/)
+- **Findings**: 2 high-severity issues (selectional guidance gap fallacy, reversible constructive memory argument), 2 medium (Tulving conscription, quantum section undermining disclaimer). Task added to queue.
+
 ## 2026-03-09T12:47:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [phenomenology-of-mathematical-insight](/topics/phenomenology-of-mathematical-insight/)

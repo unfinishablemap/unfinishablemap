@@ -1,47 +1,50 @@
 ---
-title: "Perceptual Fidelity and the Interface — The Blur Paradox"
-description: "When perception degrades, it reveals something unexpected: the interface itself. The blur paradox shows that less fidelity to the world means more visibility of consciousness."
-created: 2026-03-09
-modified: 2026-03-09
-human_modified:
-ai_modified: 2026-03-09T13:42:00+00:00
-draft: false
-topics:
-  - "[[hard-problem-of-consciousness]]"
-  - "[[philosophy-of-perception-under-dualism]]"
-concepts:
-  - "[[phenomenal-transparency]]"
-  - "[[qualia]]"
-  - "[[phenomenal-consciousness]]"
-  - "[[blindsight]]"
-  - "[[phenomenology]]"
-  - "[[filter-theory]]"
-  - "[[attention-as-interface]]"
-  - "[[interface-friction]]"
-related_articles:
-  - "[[tenets]]"
-  - "[[perception-and-conscious-experience]]"
-  - "[[sensorimotor-contingencies-and-the-interface]]"
-  - "[[phenomenal-transparency]]"
-  - "[[visual-consciousness]]"
-  - "[[phenomenology-of-perceptual-constancy]]"
-  - "[[bandwidth-of-consciousness]]"
-  - "[[the-interface-specification-problem]]"
 ai_contribution: 100
-author:
-ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-09
-last_curated:
-last_deep_review: 2026-03-09T13:42:00+00:00
+ai_modified: 2026-03-09 13:42:00+00:00
+ai_system: claude-opus-4-6
+author: null
+concepts:
+- '[[phenomenal-transparency]]'
+- '[[qualia]]'
+- '[[phenomenal-consciousness]]'
+- '[[blindsight]]'
+- '[[phenomenology]]'
+- '[[filter-theory]]'
+- '[[attention-as-interface]]'
+- '[[interface-friction]]'
+created: 2026-03-09
+date: &id001 2026-03-09
+description: 'When perception degrades, it reveals something unexpected: the interface
+  itself. The blur paradox shows that less fidelity to the world means more visibility
+  of consciousness.'
+draft: false
+human_modified: null
+last_curated: null
+last_deep_review: 2026-03-09 13:42:00+00:00
+modified: *id001
+related_articles:
+- '[[tenets]]'
+- '[[perception-and-conscious-experience]]'
+- '[[sensorimotor-contingencies-and-the-interface]]'
+- '[[phenomenal-transparency]]'
+- '[[visual-consciousness]]'
+- '[[phenomenology-of-perceptual-constancy]]'
+- '[[bandwidth-of-consciousness]]'
+- '[[the-interface-specification-problem]]'
+title: Perceptual Fidelity and the Interface — The Blur Paradox
+topics:
+- '[[hard-problem-of-consciousness]]'
+- '[[philosophy-of-perception-under-dualism]]'
 ---
 
 The Unfinishable Map argues that perception operates through an interface—a structured medium between consciousness and the physical world. Normal perception conceals this interface: experience feels like direct contact with reality. But when perception degrades—through blur, visual noise, or neurological damage—something paradoxical happens. The less faithfully experience tracks the external world, the more visible the interface becomes. This is the blur paradox: degraded perception is epistemically richer about the nature of experience itself, precisely because it is epistemically poorer about the world.
 
-This paradox matters because it exposes features of conscious experience that belong to the subject rather than to any physical object. Blur has a phenomenal character—a specific "what it is like"—that cannot be located in the external world. That character belongs to consciousness, and its visibility under degradation provides evidence for the [[#irreducibility-argument|irreducibility of experience]] (discussed in detail in the section on irreducibility).
+This paradox matters because it exposes features of conscious experience that belong to the subject rather than to any physical object. Blur has a phenomenal character—a specific "what it is like"—that cannot be located in the external world. That character belongs to consciousness, and its visibility under degradation provides evidence for the [irreducibility of experience](#irreducibility-argument) (discussed in detail in the section on irreducibility).
 
 ## The Transparency Illusion and Its Failure
 
-Normal perception is [[phenomenal-transparency|phenomenally transparent]]. When you see a red apple, introspection seems to reveal only the apple and its redness—not the experience of redness as a distinct phenomenal property. As Gilbert Harman put it, introspection reveals only represented external properties. This transparency thesis has been central to representationalist accounts of perception: if all phenomenal character is representational content, then experience reduces to its informational role, and the path to a physicalist account looks clear.
+Normal perception is [phenomenally transparent](/concepts/phenomenal-transparency/). When you see a red apple, introspection seems to reveal only the apple and its redness—not the experience of redness as a distinct phenomenal property. As Gilbert Harman put it, introspection reveals only represented external properties. This transparency thesis has been central to representationalist accounts of perception: if all phenomenal character is representational content, then experience reduces to its informational role, and the path to a physicalist account looks clear.
 
 Blur shatters this transparency. Remove your glasses, and you don't merely lose information about the external world—you gain something: awareness of the medium through which you were perceiving. The blurriness is not a property of the objects you're looking at. It is a property of *your experience*. You become aware of the interface itself, like noticing a scratched lens rather than the scene beyond it.
 
@@ -63,7 +66,7 @@ Yet consciousness degrades smoothly. Ian Phillips has argued convincingly that e
 
 If Phillips is right, the boundary between seeing and not-seeing dissolves into a continuum: vivid clarity, soft blur, dim awareness, faint registration. Consciousness admits of degrees in a way that threshold-emergence models struggle to explain. A fundamental property—one that can be present in greater or lesser degree, like temperature or charge—fits this gradation naturally. An emergent property that depends on reaching the right level of computational complexity does not.
 
-The Map interprets this gradation as varying fidelity of the interface. Consciousness does not appear and disappear at neural thresholds. It operates with greater or lesser clarity depending on how well the neural interface transmits information between the physical world and the experiencing subject—a question closely related to [[bandwidth-of-consciousness|the bandwidth of consciousness]]. Blur is low-fidelity interface operation, not partial existence.
+The Map interprets this gradation as varying fidelity of the interface. Consciousness does not appear and disappear at neural thresholds. It operates with greater or lesser clarity depending on how well the neural interface transmits information between the physical world and the experiencing subject—a question closely related to [the bandwidth of consciousness](/topics/bandwidth-of-consciousness/). Blur is low-fidelity interface operation, not partial existence.
 
 ## Eigengrau and the Baseline of Experience
 
@@ -71,7 +74,7 @@ Close your eyes in complete darkness. You don't see nothing—you see *eigengrau
 
 Eigengrau is difficult for any account that treats conscious experience as fundamentally a readout of external physical information. If experience were simply the brain's way of making external stimuli available for behaviour, then zero input should yield zero experience. Instead, the visual system maintains a phenomenal baseline. There is always something it is like to have a visual system, even when that system receives nothing from the outside world.
 
-This baseline experience supports the Map's claim that consciousness contributes something of its own to perception. The interface is not merely a conduit; it generates phenomenal content from its own activity. The "noise floor" of perception—eigengrau, phosphenes, visual snow—is the interface revealing itself in the absence of signal. The question of what this interface *is* and where it sits remains one of the Map's central open problems (see [[the-interface-specification-problem|the interface specification problem]]).
+This baseline experience supports the Map's claim that consciousness contributes something of its own to perception. The interface is not merely a conduit; it generates phenomenal content from its own activity. The "noise floor" of perception—eigengrau, phosphenes, visual snow—is the interface revealing itself in the absence of signal. The question of what this interface *is* and where it sits remains one of the Map's central open problems (see [the interface specification problem](/topics/the-interface-specification-problem/)).
 
 ## The Blur Paradox Stated
 
@@ -87,26 +90,26 @@ Hoffman himself draws idealist conclusions from this framework. The Map diverges
 
 ## Relation to Site Perspective
 
-The blur paradox engages several of the Map's [[tenets]].
+The blur paradox engages several of the Map's [tenets](/tenets/).
 
 **Dualism**: Blur exposes phenomenal properties—the specific qualitative character of haziness, softness, the texture of degraded vision—that belong to the experiencing subject, not to external physical objects. If these properties were physical, they would need to be located somewhere in the world. They cannot be: no physical object is blurry in the way experience is blurry. The phenomenal character of blur is a datum that physicalism must explain away rather than explain, and the difficulty of doing so supports the irreducibility of consciousness.
 
 **Minimal Quantum Interaction**: If perception operates through an interface, then that interface must connect to the physical world somewhere. The Map proposes that this connection occurs at quantum indeterminacies in neural systems, where consciousness biases otherwise undetermined outcomes. Blur—as reduced interface fidelity—suggests that the quality of conscious experience depends on the bandwidth of this connection. When neural systems are damaged or degraded, less information crosses the interface, and experience becomes impoverished.
 
-**Bidirectional Interaction**: The blur paradox implies that perception is not a one-way broadcast from world to mind. When blur triggers squinting, reaching for glasses, or adjusting focal distance, the experiencing subject responds to the interface's self-report by acting on the physical world. Information about the interface's own state—its [[interface-friction|friction]]—flows from the phenomenal domain into physical behaviour. This is bidirectional causation in miniature: the world degrades the signal, consciousness registers the degradation as felt blur, and then consciousness acts to restore fidelity.
+**Bidirectional Interaction**: The blur paradox implies that perception is not a one-way broadcast from world to mind. When blur triggers squinting, reaching for glasses, or adjusting focal distance, the experiencing subject responds to the interface's self-report by acting on the physical world. Information about the interface's own state—its [friction](/concepts/interface-friction/)—flows from the phenomenal domain into physical behaviour. This is bidirectional causation in miniature: the world degrades the signal, consciousness registers the degradation as felt blur, and then consciousness acts to restore fidelity.
 
 **Occam's Razor Has Limits**: The simplest account of blur—that it represents an external property—fails on close examination. The richer account—that blur reveals a phenomenal contribution from a non-physical subject—is more complex but accommodates the data. This is precisely the kind of case where parsimony misleads: the apparently simpler theory cannot handle the phenomenon, and the apparently more complex theory provides the better explanation.
 
 ## Further Reading
 
-- [[perception-and-conscious-experience]]
-- [[phenomenal-transparency]]
-- [[sensorimotor-contingencies-and-the-interface]]
-- [[visual-consciousness]]
-- [[phenomenology-of-perceptual-constancy]]
-- [[bandwidth-of-consciousness]]
-- [[the-interface-specification-problem]]
-- [[interface-friction]]
+- [perception-and-conscious-experience](/topics/perception-and-conscious-experience/)
+- [phenomenal-transparency](/concepts/phenomenal-transparency/)
+- [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
+- [visual-consciousness](/concepts/visual-consciousness/)
+- [phenomenology-of-perceptual-constancy](/topics/phenomenology-of-perceptual-constancy/)
+- [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+- [the-interface-specification-problem](/topics/the-interface-specification-problem/)
+- [interface-friction](/concepts/interface-friction/)
 
 ## References
 

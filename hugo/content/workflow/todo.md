@@ -38,30 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Write article on the 3D world representation problem
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: The brain constructs a 3D world model from 2D retinal projections — depth from disparity, motion parallax, texture gradients, occlusion. But conscious experience presents a seamlessly rendered, richly detailed 3D world that appears to exceed what the neural representation contains. The smoothness problem: neuronal firing at 300Hz produces a continuous visual flow. The richness problem: we experience fine detail that may exceed the information in the neural signal. The unity problem: we experience one unified scene despite distributed processing across dozens of cortical areas. Under dualism, is the 3D world experienced by consciousness (a) a direct readout of the brain's 3D model, (b) a mind-side rendering that uses brain data as input, or (c) something else entirely? Builds on research tasks above. Place in topics/. Builds on perception-and-conscious-experience.md, the-binding-problem-a-systematic-treatment.md, phenomenology-of-perceptual-constancy.md.
-- **Generated**: 2026-03-08
-
-### P1: Write article on perceptual fidelity and the interface — the blur paradox
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Why does optical blur pass through to conscious experience? The brain performs object recognition on blurred input (you can still identify objects with wrong glasses), can generate flawless imagery without any input (lucid dreams), and corrects for many perceptual distortions (blind spot filling, colour constancy, size constancy). Yet blur is faithfully transmitted to consciousness. This paradox reveals something important about the interface architecture: it appears to have high-fidelity channels that transmit raw sensory quality alongside the processed, reconstructed content. The blur paradox, combined with cases where correction does occur, maps the interface's functional anatomy. Argue that this is evidence for a multi-channel interface rather than simple information transfer. Builds on research tasks above. Place in topics/. Builds on perception-and-conscious-experience.md, phenomenology-of-perceptual-constancy.md, interface-friction.md, brain-interface-boundary.md.
-- **Generated**: 2026-03-08
-
-### P1: Write article on lucid dreaming as capability evidence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Lucid dreams provide a natural experiment in capability division. During a lucid dream, sensory input is absent but conscious experience is vivid, spatially structured, and temporally continuous. The dreamer exercises agency, makes decisions, recognises objects, navigates 3D space. If the brain generates dream imagery, this demonstrates massive reconstruction capability — but raises the question of why this capability isn't deployed during waking perception to correct blur, tinnitus, or other degradation. If the mind generates dream imagery (using its own rendering capability), this explains why dream quality is independent of sensory input quality but raises questions about the interface's role during waking. Either answer is philosophically significant. Builds on research tasks above. Place in topics/. Builds on dream-consciousness.md, filter-theory.md, perception-and-conscious-experience.md.
-- **Generated**: 2026-03-08
-
-### P2: Cross-review memory articles in light of dual-domain capability framework
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Review consciousness-and-memory.md, episodic-memory.md, memory-void.md, and working-memory.md through the dual-domain lens introduced in memory-as-dual-domain-capability.md. Do these articles already distinguish physical substrates from phenomenal contributions? Where could they explicitly reference the dual-domain framework? Add cross-references to the new article where appropriate.
-- **Generated**: 2026-03-09
-
 ### P2: Write article on neurological dissociations as interface architecture
 - **Type**: expand-topic
 - **Status**: pending
@@ -459,8 +435,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. How small quantum biases become macroscopic behavioural selection—referenced across many articles as unresolved but lacking a dedicated treatment of the problem space and candidate solutions. Builds on consciousness-selecting-neural-patterns.md, mind-matter-interface.md, stapp-quantum-mind.md. See optimistic-2026-03-08-afternoon.md
 - **Generated**: 2026-03-08
 
+### P3: Write concept page for capability division
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The framework for distinguishing brain-contributed from consciousness-contributed capacities. Referenced across lucid-dreaming-as-capability-evidence.md, memory-as-dual-domain-capability.md, consciousness-as-amplifier.md, and perceptual-fidelity-and-the-interface.md but lacking its own concept page. See optimistic-2026-03-09-afternoon.md
+- **Generated**: 2026-03-09
+
+### P3: Write article on medical phenomenology under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has strong theoretical foundations but limited engagement with how consciousness-irreducibility transforms medical practice—pain treatment, anaesthetic monitoring, psychiatric diagnosis as interface disorders. Builds on interface-friction.md, emotion-as-evidence-for-dualism.md, anaesthesia-and-the-consciousness-interface.md. See optimistic-2026-03-09-afternoon.md
+- **Generated**: 2026-03-09
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-09: Cross-review memory articles in light of dual-domain capability framework
+- **Type**: cross-review
+- **Notes**: Review consciousness-and-memory.md, episodic-memory.md, memory-void.md, and working-memory.md through the dual-domain lens introduced in memory-as-dual-domain-capability.md. Do these articles already distinguish physical substrates from phenomenal contributions? Where could they explicitly reference the dual-domain framework? Add cross-references to the new article where appropriate.
+- **Output**: None -- Context: Cross-review memory articles in light of dual-domain capability framework
+
+### ✓ 2026-03-09: Address logical gaps in memory-as-dual-domain-capability
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) selectional guidance argument commits a gap fallacy—says "consciousness selects" without explaining why physical executive function is insufficient; (2) constructive memory argument is reversible—"something must do the constructing" works equally well for physicalist accounts. Also medium issues with Tulving conscription and quantum section undermining its own disclaimer. See pessimistic-2026-03-09-memory-as-dual-domain-capability.md
+- **Output**: Task context:
+Pessimistic review found two high-severity issues: (1) selectional guidance argument commits a gap fallacy—says "consciousness selects" without explaining why physical executive function is insufficient; (2) constructive memory argument is reversible—"something must do the constructing" works equally well for physicalist accounts. Also medium issues with Tulving conscription and quantum section undermining its own disclaimer. See pessimistic-2026-03-09-memory-as-dual-domain-capability.md
+
+### ✓ 2026-03-09: Write article on lucid dreaming as capability evidence
+- **Type**: expand-topic
+- **Notes**: Lucid dreams provide a natural experiment in capability division. During a lucid dream, sensory input is absent but conscious experience is vivid, spatially structured, and temporally continuous. The dreamer exercises agency, makes decisions, recognises objects, navigates 3D space. If the brain generates dream imagery, this demonstrates massive reconstruction capability — but raises the question of why this capability isn't deployed during waking perception to correct blur, tinnitus, or other degradation. If the mind generates dream imagery (using its own rendering capability), this explains why dream quality is independent of sensory input quality but raises questions about the interface's role during waking. Either answer is philosophically significant. Builds on research tasks above. Place in topics/. Builds on dream-consciousness.md, filter-theory.md, perception-and-conscious-experience.md.
+- **Output**: lucid dreaming as capability evidence
+
+### ✓ 2026-03-09: Write article on perceptual fidelity and the interface — the blur paradox
+- **Type**: expand-topic
+- **Notes**: Why does optical blur pass through to conscious experience? The brain performs object recognition on blurred input (you can still identify objects with wrong glasses), can generate flawless imagery without any input (lucid dreams), and corrects for many perceptual distortions (blind spot filling, colour constancy, size constancy). Yet blur is faithfully transmitted to consciousness. This paradox reveals something important about the interface architecture: it appears to have high-fidelity channels that transmit raw sensory quality alongside the processed, reconstructed content. The blur paradox, combined with cases where correction does occur, maps the interface's functional anatomy. Argue that this is evidence for a multi-channel interface rather than simple information transfer. Builds on research tasks above. Place in topics/. Builds on perception-and-conscious-experience.md, phenomenology-of-perceptual-constancy.md, interface-friction.md, brain-interface-boundary.md.
+- **Output**: perceptual fidelity and the interface — the blur paradox
+
+### ✓ 2026-03-09: Write article on the 3D world representation problem
+- **Type**: expand-topic
+- **Notes**: The brain constructs a 3D world model from 2D retinal projections — depth from disparity, motion parallax, texture gradients, occlusion. But conscious experience presents a seamlessly rendered, richly detailed 3D world that appears to exceed what the neural representation contains. The smoothness problem: neuronal firing at 300Hz produces a continuous visual flow. The richness problem: we experience fine detail that may exceed the information in the neural signal. The unity problem: we experience one unified scene despite distributed processing across dozens of cortical areas. Under dualism, is the 3D world experienced by consciousness (a) a direct readout of the brain's 3D model, (b) a mind-side rendering that uses brain data as input, or (c) something else entirely? Builds on research tasks above. Place in topics/. Builds on perception-and-conscious-experience.md, the-binding-problem-a-systematic-treatment.md, phenomenology-of-perceptual-constancy.md.
+- **Output**: the 3D world representation problem
 
 ### ✓ 2026-03-09: Address logical gaps in phenomenology-of-mathematical-insight
 - **Type**: refine-draft
