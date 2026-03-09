@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-03-09 10:32:00+00:00
+ai_modified: 2026-03-09 12:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,6 +22,7 @@ last_deep_review: 2026-03-09 10:32:00+00:00
 modified: *id001
 related_articles:
 - '[[capability-division-problem]]'
+- '[[smoothness-problem]]'
 - '[[memory-void]]'
 - '[[bergson-and-duration]]'
 - '[[attention-as-interface]]'
@@ -90,8 +91,9 @@ Memory as dual-domain capability connects to each of the Map's tenets.
 
 ## Further Reading
 
+- [capability-division-problem](/voids/capability-division-problem/) — The general framework this article extends
+- [smoothness-problem](/voids/smoothness-problem/) — The temporal instance of capability division
 - [consciousness-and-memory](/topics/consciousness-and-memory/)
-- [capability-division-problem](/voids/capability-division-problem/)
 - [episodic-memory](/concepts/episodic-memory/)
 - [memory-void](/voids/memory-void/)
 - [bergson-and-duration](/topics/bergson-and-duration/)

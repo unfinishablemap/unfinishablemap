@@ -4,7 +4,7 @@ description: "Memory operates across both physical and non-physical domains—en
 created: 2026-03-09
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-09T10:32:00+00:00
+ai_modified: 2026-03-09T12:31:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[explanatory-gap]]"
 related_articles:
   - "[[capability-division-problem]]"
+  - "[[smoothness-problem]]"
   - "[[memory-void]]"
   - "[[bergson-and-duration]]"
   - "[[attention-as-interface]]"
@@ -87,8 +88,9 @@ Memory as dual-domain capability connects to each of the Map's tenets.
 
 ## Further Reading
 
+- [[capability-division-problem]] — The general framework this article extends
+- [[smoothness-problem]] — The temporal instance of capability division
 - [[consciousness-and-memory]]
-- [[capability-division-problem]]
 - [[episodic-memory]]
 - [[memory-void]]
 - [[bergson-and-duration]]

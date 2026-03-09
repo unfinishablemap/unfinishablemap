@@ -4,7 +4,7 @@ description: "Neural activity is discrete—oscillations, spikes, time slices—
 created: 2026-03-09
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-09T09:31:00+00:00
+ai_modified: 2026-03-09T12:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +19,8 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[voids]]"
+  - "[[capability-division-problem]]"
+  - "[[memory-as-dual-domain-capability]]"
   - "[[neural-refresh-rates-smoothness-problem-2026-03-08]]"
 ai_contribution: 100
 author:
@@ -30,6 +32,8 @@ last_curated:
 The Unfinishable Map identifies the smoothness problem as a boundary where physical explanation gives way to something it cannot reach. Neural activity operates in discrete bursts—action potentials fire or don't, oscillations cycle at measurable frequencies, perceptual sampling occurs in periodic snapshots at roughly 7–13 Hz. Yet conscious experience flows without gaps, seams, or flicker. The mismatch between discrete neural substrate and continuous phenomenal experience is not merely unsolved. It may mark a genuine limit on what physical description can explain about consciousness.
 
 This is a temporal cousin of the [[binding-problem|binding problem]]. Where binding asks how spatially distributed neural activity unifies into a single experience at a moment, the smoothness problem asks how temporally discrete neural events produce an experience that extends seamlessly across time. Both point toward a gap between mechanism and phenomenology that the Map takes as evidence for its [[tenets#^dualism|dualist]] commitments.
+
+The smoothness problem is also a specific instance of the [[capability-division-problem|capability division problem]] — the question of which capabilities belong to the brain and which to consciousness. Brain-side processing provides discrete temporal snapshots; mind-side contribution may supply the seamless continuity that characterises experience. If so, temporal smoothness is not something the brain constructs but something consciousness brings to the interface.
 
 ## The Discrete Neural Substrate
 
@@ -69,12 +73,14 @@ The smoothness problem therefore points toward the [[voids|unchartable]]. It is 
 
 The Map interprets the smoothness problem as positive evidence for [[tenets#^dualism|dualism]]. If the neural substrate is discrete but experience is smooth, the smoothness is a feature that consciousness *contributes* rather than one the brain *constructs*. The non-physical mind receives periodic neural inputs and generates—or simply has, as its native mode—a continuous experiential stream.
 
-This aligns with the [[tenets#^bidirectional-interaction|bidirectional interaction]] tenet. Consciousness does not passively receive discrete snapshots and somehow smooth them computationally. Rather, continuous [[temporal-consciousness|temporal experience]] may be a primitive property of the non-physical mind—what Bergson called *durée*—and neural discreteness marks the resolution limit of the physical side of the interface, not of experience itself.
+This aligns with the [[tenets#^bidirectional-interaction|bidirectional interaction]] tenet. Consciousness does not passively receive discrete snapshots and somehow smooth them computationally. Rather, continuous [[temporal-consciousness|temporal experience]] may be a primitive property of the non-physical mind—what Bergson called *durée*—and neural discreteness marks the resolution limit of the brain-side of the interface, not of experience itself.
 
 The Map speculates that the smoothness problem and the [[binding-problem|binding problem]] may share a common resolution: phenomenal unity—both across space and across time—is a property of consciousness itself, not of any physical mechanism. Neural mechanisms provide the *content* that consciousness unifies, but the unification is the mind's contribution.
 
 ## Further Reading
 
+- [[capability-division-problem]] — The general problem of dividing capabilities between brain and mind
+- [[memory-as-dual-domain-capability]] — The memory instance of capability division
 - [[temporal-consciousness]]
 - [[binding-problem]]
 - [[temporal-structure-of-consciousness]]

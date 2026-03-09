@@ -18,6 +18,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-09T12:31:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [capability-division-problem](/voids/capability-division-problem/) (primary) + [smoothness-problem](/voids/smoothness-problem/), [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/)
+- **Task**: Integration pass across capability division article series
+- **Changes**: Added "Beyond Vision" section to flagship article with cross-references to smoothness, memory, dreams, and sensorimotor cases. Connected smoothness-problem to capability division framework. Added mutual cross-references across all 3 series articles. Aligned brain-side/mind-side terminology. Updated Further Reading sections.
+- **Word count changes**: capability-division-problem +330, smoothness-problem +50, memory-as-dual-domain-capability +20
+- **Published**: yes
+
 ## 2026-03-09T12:16:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [substance-property-dualism](/concepts/substance-property-dualism/)

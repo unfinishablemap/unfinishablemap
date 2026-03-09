@@ -4,7 +4,7 @@ description: "Interactionist dualism must specify which capabilities belong to t
 created: 2026-03-09
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-09T08:18:00+00:00
+ai_modified: 2026-03-09T12:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,10 @@ concepts:
 related_articles:
   - "[[consciousness-independent-baseline-cognition]]"
   - "[[perception-and-conscious-experience]]"
+  - "[[smoothness-problem]]"
+  - "[[memory-as-dual-domain-capability]]"
+  - "[[dream-consciousness]]"
+  - "[[sensorimotor-contingencies-and-the-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -58,6 +62,20 @@ The Map's response draws on the [[baseline-cognition|baseline cognition]] framew
 
 This is not a shrinking domain. The capabilities consciousness enables — logical reasoning about perceptual content, counterfactual thinking, novel application across contexts, perceptual self-awareness — are not incrementally reducible to neural computation. They represent a qualitatively different mode of engaging with visual information.
 
+## Beyond Vision: The Division Problem Recurs
+
+The capability division problem is not confined to visual perception. Wherever the brain and mind collaborate, the same question arises: which contributions are whose?
+
+**Temporal continuity.** Neural activity is oscillatory and discrete — perceptual cycles at roughly 7–13 Hz, gamma binding at ~40 Hz, processing in time slices of up to 400 milliseconds. Yet experience flows without seams. The [[smoothness-problem|smoothness problem]] is a temporal instance of capability division: the brain provides discrete computational snapshots, but the seamless experiential stream may be a mind-side contribution that consciousness brings to the interface rather than something the brain constructs.
+
+**Memory.** Physical engrams encode information, but recall involves autonoetic re-experiencing, selectional guidance during reconstruction, and phenomenal colouring that no trace can carry. The [[memory-as-dual-domain-capability|dual-domain capability]] framework makes the division explicit: the brain handles storage and replay; consciousness handles the phenomenal dimension of remembering — the *what it was like* that distinguishes episodic recall from mere data retrieval.
+
+**Dreams.** During REM sleep, consciousness generates immersive experiential worlds while sensory input is suppressed and neural architecture reorganises. [[dream-consciousness|Dream consciousness]] demonstrates that the brain provides representational tools (the rendering engine) while consciousness contributes phenomenal engagement, and the relative contributions shift across waking, non-lucid dreaming, and lucid states.
+
+**Sensorimotor engagement.** [[sensorimotor-contingencies-and-the-interface|Sensorimotor contingency theory]] maps the interface's operational grammar — the lawful patterns linking movement to sensation. Brain-side processing masters these contingencies; mind-side contribution supplies the phenomenal character that accompanies mastery.
+
+In each domain, the same pattern emerges: the brain handles the computational, procedural, and automatic, while consciousness contributes phenomenal engagement, flexible deployment, and selectional guidance. The division is real but resists clean functional specification — because the mind-side contribution transforms rather than supplements what the brain provides.
+
 ## The Void
 
 The capability division problem is a void because the boundary it seeks may be inherently resistant to precise specification — not because the question is unanswerable in principle, but because the answer may not take the form of a clean list.
@@ -76,12 +94,16 @@ The Map speculates that the capability division may ultimately prove asymmetric:
 
 ## Further Reading
 
+- [[smoothness-problem]] — The temporal instance of capability division
+- [[memory-as-dual-domain-capability]] — Memory as requiring both brain-side and mind-side contributions
+- [[dream-consciousness]] — How the division shifts across waking and dreaming
+- [[sensorimotor-contingencies-and-the-interface]] — The interface's operational grammar
+- [[perception-and-conscious-experience]] — Vision as the paradigm case
 - [[blindsight]]
 - [[visual-consciousness]]
 - [[baseline-cognition]]
 - [[interactionist-dualism]]
 - [[epiphenomenalism]]
-- [[perception-and-conscious-experience]]
 - [[philosophy-of-perception-under-dualism]]
 - [[voids]]
 

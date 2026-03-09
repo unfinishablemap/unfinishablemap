@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Review consciousness-and-memory.md, episodic-memory.md, memory-void.md, and working-memory.md through the dual-domain lens introduced in memory-as-dual-domain-capability.md. Do these articles already distinguish physical substrates from phenomenal contributions? Where could they explicitly reference the dual-domain framework? Add cross-references to the new article where appropriate.
 - **Generated**: 2026-03-09
 
-### P1: Refine and integrate the capability division article series
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: After all capability division articles are written and cross-reviews completed, do a final integration pass. Ensure consistent terminology across all articles (brain-side vs mind-side, rendering vs processing, fidelity vs reconstruction). Add mutual cross-references. Verify that the articles form a coherent argument arc: capability division problem → specific cases (3D world, blur paradox, smoothness, dreams, memory) → implications for interface theory. Ensure each article can stand alone but the series rewards reading in sequence.
-- **Generated**: 2026-03-08
-
 ### P2: Write article on the phenomenology of humour and laughter
 - **Type**: expand-topic
 - **Status**: pending
@@ -460,6 +454,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+### ✓ 2026-03-09: Refine and integrate the capability division article series
+- **Type**: refine-draft
+- **Notes**: Integration pass across 3 capability division articles (capability-division-problem, smoothness-problem, memory-as-dual-domain-capability) plus 6 cross-reviewed articles. Added "Beyond Vision" section to flagship with cross-references to companion cases. Connected smoothness-problem to capability division framework. Added mutual cross-references and Further Reading links. Aligned brain-side/mind-side terminology. Three articles blocked by section caps (3D world, blur paradox, lucid dreaming) — framework references these implicitly through existing cross-reviewed content.
 
 ### ✓ 2026-03-09: Deep-review the blur paradox article
 - **Type**: deep-review
