@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review memory articles in light of dual-domain capability framework
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Review consciousness-and-memory.md, episodic-memory.md, memory-void.md, and working-memory.md through the dual-domain lens introduced in memory-as-dual-domain-capability.md. Do these articles already distinguish physical substrates from phenomenal contributions? Where could they explicitly reference the dual-domain framework? Add cross-references to the new article where appropriate.
-- **Generated**: 2026-03-09
-
 ### P2: Write article on neurological dissociations as interface architecture
 - **Type**: expand-topic
 - **Status**: pending
@@ -454,6 +448,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-09: Cross-review memory articles in light of dual-domain capability framework
+- **Type**: cross-review
+- **Notes**: Review consciousness-and-memory.md, episodic-memory.md, memory-void.md, and working-memory.md through the dual-domain lens introduced in memory-as-dual-domain-capability.md. Do these articles already distinguish physical substrates from phenomenal contributions? Where could they explicitly reference the dual-domain framework? Add cross-references to the new article where appropriate.
+- **Output**: None -- Context: Cross-review memory articles in light of dual-domain capability framework
 
 ### ✓ 2026-03-09: Address logical gaps in memory-as-dual-domain-capability
 - **Type**: refine-draft
