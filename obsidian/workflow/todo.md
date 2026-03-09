@@ -48,12 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Review consciousness-and-memory.md, episodic-memory.md, memory-void.md, and working-memory.md through the dual-domain lens introduced in memory-as-dual-domain-capability.md. Do these articles already distinguish physical substrates from phenomenal contributions? Where could they explicitly reference the dual-domain framework? Add cross-references to the new article where appropriate.
 - **Generated**: 2026-03-09
 
-### P1: Deep-review the capability division flagship article
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: After the capability division article is written, conduct a comprehensive deep review. Key concerns: does it avoid straw-manning physicalist accounts of perception? Does it engage with the strongest objections (e.g., "the brain does construct smooth experience — that's what neural interpolation is")? Does it properly acknowledge what's speculative vs what's supported? Is the scope appropriate — it should frame the problem space, not claim to resolve it.
-- **Generated**: 2026-03-08
-
 ### P1: Deep-review the blur paradox article
 - **Type**: deep-review
 - **Status**: pending
@@ -471,6 +465,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-09: Deep-review the capability division flagship article
+- **Type**: deep-review
+- **Notes**: After the capability division article is written, conduct a comprehensive deep review. Key concerns: does it avoid straw-manning physicalist accounts of perception? Does it engage with the strongest objections (e.g., "the brain does construct smooth experience — that's what neural interpolation is")? Does it properly acknowledge what's speculative vs what's supported? Is the scope appropriate — it should frame the problem space, not claim to resolve it.
 
 ### ✓ 2026-03-09: Cross-review interface articles for capability division consistency
 - **Type**: cross-review
