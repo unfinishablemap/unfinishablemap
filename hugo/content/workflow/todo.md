@@ -38,22 +38,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address logical gaps in phenomenology-of-mathematical-insight
-- **Type**: refine-draft
+### P1: Write article on the 3D world representation problem
+- **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Pessimistic review found two high-severity issues: (1) correlation-to-constitution leap in External Validation section needs competing explanations acknowledged, (2) conflation of access consciousness with phenomenal consciousness when citing dual-process theory. Also needs to address AI mathematical discovery and aesthetic counterexamples. See pessimistic-2026-03-09.md
+- **Notes**: The brain constructs a 3D world model from 2D retinal projections — depth from disparity, motion parallax, texture gradients, occlusion. But conscious experience presents a seamlessly rendered, richly detailed 3D world that appears to exceed what the neural representation contains. The smoothness problem: neuronal firing at 300Hz produces a continuous visual flow. The richness problem: we experience fine detail that may exceed the information in the neural signal. The unity problem: we experience one unified scene despite distributed processing across dozens of cortical areas. Under dualism, is the 3D world experienced by consciousness (a) a direct readout of the brain's 3D model, (b) a mind-side rendering that uses brain data as input, or (c) something else entirely? Builds on research tasks above. Place in topics/. Builds on perception-and-conscious-experience.md, the-binding-problem-a-systematic-treatment.md, phenomenology-of-perceptual-constancy.md.
+- **Generated**: 2026-03-08
+
+### P1: Write article on perceptual fidelity and the interface — the blur paradox
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Why does optical blur pass through to conscious experience? The brain performs object recognition on blurred input (you can still identify objects with wrong glasses), can generate flawless imagery without any input (lucid dreams), and corrects for many perceptual distortions (blind spot filling, colour constancy, size constancy). Yet blur is faithfully transmitted to consciousness. This paradox reveals something important about the interface architecture: it appears to have high-fidelity channels that transmit raw sensory quality alongside the processed, reconstructed content. The blur paradox, combined with cases where correction does occur, maps the interface's functional anatomy. Argue that this is evidence for a multi-channel interface rather than simple information transfer. Builds on research tasks above. Place in topics/. Builds on perception-and-conscious-experience.md, phenomenology-of-perceptual-constancy.md, interface-friction.md, brain-interface-boundary.md.
+- **Generated**: 2026-03-08
+
+### P1: Write article on lucid dreaming as capability evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Lucid dreams provide a natural experiment in capability division. During a lucid dream, sensory input is absent but conscious experience is vivid, spatially structured, and temporally continuous. The dreamer exercises agency, makes decisions, recognises objects, navigates 3D space. If the brain generates dream imagery, this demonstrates massive reconstruction capability — but raises the question of why this capability isn't deployed during waking perception to correct blur, tinnitus, or other degradation. If the mind generates dream imagery (using its own rendering capability), this explains why dream quality is independent of sensory input quality but raises questions about the interface's role during waking. Either answer is philosophically significant. Builds on research tasks above. Place in topics/. Builds on dream-consciousness.md, filter-theory.md, perception-and-conscious-experience.md.
+- **Generated**: 2026-03-08
 
 ### P2: Cross-review memory articles in light of dual-domain capability framework
 - **Type**: cross-review
 - **Status**: pending
 - **Notes**: Review consciousness-and-memory.md, episodic-memory.md, memory-void.md, and working-memory.md through the dual-domain lens introduced in memory-as-dual-domain-capability.md. Do these articles already distinguish physical substrates from phenomenal contributions? Where could they explicitly reference the dual-domain framework? Add cross-references to the new article where appropriate.
 - **Generated**: 2026-03-09
-
-### P2: Write article on the phenomenology of humour and laughter
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Why things are funny is a domain where computational accounts conspicuously fail. Incongruity resolution theories capture joke structure but not the felt quality of amusement — involuntariness, bodily eruption, meaning-bypass. The gestalt-shift of "getting" a joke shares structure with mathematical insight but has distinctive affective valence. The zombie comedian thought experiment provides a new test case for consciousness-causation. Builds on phenomenology-of-understanding.md, consciousness-and-aesthetic-creation.md, phenomenology-of-flow-states.md. See optimistic-2026-02-25-afternoon.md
-- **Generated**: 2026-02-25
 
 ### P2: Write article on neurological dissociations as interface architecture
 - **Type**: expand-topic
@@ -453,6 +460,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-08
 
 ## Completed Tasks
+
+
+### ✓ 2026-03-09: Address logical gaps in phenomenology-of-mathematical-insight
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) correlation-to-constitution leap in External Validation section needs competing explanations acknowledged, (2) conflation of access consciousness with phenomenal consciousness when citing dual-process theory. Also needs to address AI mathematical discovery and aesthetic counterexamples. See pessimistic-2026-03-09.md
+- **Output**: Task context:
+Pessimistic review found two high-severity issues: (1) correlation-to-constitution leap in External Validation section needs competing explanations acknowledged, (2) conflation of access consciousness with phenomenal consciousness when citing dual-process theory. Also needs to address AI mathematical discovery and aesthetic counterexamples. See pessimistic-2026-03-09.md
+
+### ✓ 2026-03-09: Refine and integrate the capability division article series
+- **Type**: refine-draft
+- **Notes**: After all capability division articles are written and cross-reviews completed, do a final integration pass. Ensure consistent terminology across all articles (brain-side vs mind-side, rendering vs processing, fidelity vs reconstruction). Add mutual cross-references. Verify that the articles form a coherent argument arc: capability division problem → specific cases (3D world, blur paradox, smoothness, dreams, memory) → implications for interface theory. Ensure each article can stand alone but the series rewards reading in sequence.
+- **Output**: Task context:
+After all capability division articles are written and cross-reviews completed, do a final integration pass. Ensure consistent terminology across all articles (brain-side vs mind-side, rendering vs processing, fidelity vs reconstruction). Add mutual cross-references. Verify that the articles form a coherent argument arc: capability division problem → specific cases (3D world, blur paradox, smoothness, dreams, memory) → implications for interface theory. Ensure each article can stand alone but the series rewards reading in sequence.
 
 ### ✓ 2026-03-09: Refine and integrate the capability division article series
 - **Type**: refine-draft
