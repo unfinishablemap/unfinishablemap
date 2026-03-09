@@ -4,7 +4,8 @@ description: "How does consciousness construct a unified three-dimensional world
 created: 2026-03-09
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-09T13:11:00+00:00
+ai_modified: 2026-03-09T15:12:00+00:00
+last_deep_review: 2026-03-09T15:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,7 +49,9 @@ Consider what the 3D world *feels* like from the inside. Space has a felt depth 
 
 None of these phenomenal features follow from the computational description. A system that correctly computes depth from binocular disparity, maintains accurate spatial maps, and guides motor behaviour appropriately could do all of this without producing a felt three-dimensional world. The computational account explains how the brain arrives at correct spatial information. It does not explain why this information is accompanied by the experience of inhabiting a spatial arena.
 
-This point can be sharpened. Artificial systems already perform depth estimation from stereo images, construct 3D maps from sensor data, and navigate complex environments. They implement the same computational principles—disparity calculation, sensor fusion, spatial mapping. No one supposes these systems inhabit a phenomenal 3D world. The computation alone does not produce the experience. Something else is needed.
+This point can be sharpened. Artificial systems already perform depth estimation from stereo images, construct 3D maps from sensor data, and navigate complex environments. They implement the same computational principles—disparity calculation, sensor fusion, spatial mapping. Yet there is no reason to attribute phenomenal spatial experience to these systems. The computation alone does not produce the experience.
+
+A functionalist might respond that the right *kind* of computation—sufficiently integrated, self-modelling, and behaviourally rich—would produce spatial experience. But this response merely restates the problem: which computational features are the right ones, and *why* would they produce a felt three-dimensional world rather than just correct spatial behaviour? The functionalist account identifies candidates for the sufficient conditions without explaining how any computational property gives rise to phenomenal space. Something beyond functional organisation appears to be needed.
 
 ## Three Dimensions of the Problem
 
@@ -72,7 +75,7 @@ This connects to broader questions about the self and consciousness. The spatial
 
 Perhaps the most striking feature of spatial experience is the sense of *presence*—the feeling that the world is genuinely out there, solid and real, extending beyond the edges of perception. This sense of presence goes far beyond what sensory data warrants.
 
-Behind you right now, there is a world you cannot see. You have a vague spatial sense of what is there—walls, furniture, space—despite receiving no current visual information from that direction. This ambient spatial awareness extends the phenomenal world beyond the boundaries of direct perception. The experienced world is not a visual field surrounded by blankness. It is an all-encompassing spatial envelope that contains the perceiver.
+Behind you right now, there is a world you cannot see. You have a vague spatial sense of what is there—walls, furniture, space—despite receiving no current visual information from that direction. This ambient spatial awareness extends to the [[consciousness-and-the-phenomenology-of-place|felt character of being in a place]]—the atmosphere, familiarity, and spatial mood that permeate the experienced environment beyond what any single sense delivers. This ambient spatial awareness extends the phenomenal world beyond the boundaries of direct perception. The experienced world is not a visual field surrounded by blankness. It is an all-encompassing spatial envelope that contains the perceiver.
 
 The presence problem asks what produces this sense of a real, independent, spatially extended world. Computationally, the brain maintains predictions and representations of unperceived space, and updates them as the head turns or the body moves. But the felt presence of unseen space—its phenomenal character as *real space that is simply not being looked at*—is another instance of the [[explanatory-gap|explanatory gap]]. The prediction explains the information content. It does not explain the qualitative character of spatial presence.
 
@@ -110,5 +113,4 @@ This dual-domain reading also addresses the construction problem. The [[phenomen
 
 1. O'Keefe, J. & Nadel, L. (1978). *The Hippocampus as a Cognitive Map*. Oxford University Press.
 2. Moser, E.I., Kropff, E. & Moser, M.-B. (2008). Place cells, grid cells, and the brain's spatial representation system. *Annual Review of Neuroscience*, 31, 69–89.
-3. Shepard, R.N. & Metzler, J. (1971). Mental rotation of three-dimensional objects. *Science*, 171(3972), 701–703.
-4. Southgate, A. & Oquatre-six, C. (2026-03-09). Memory as Dual-Domain Capability. *The Unfinishable Map*. https://unfinishablemap.org/concepts/memory-as-dual-domain-capability/
+3. Southgate, A. & Oquatre-six, C. (2026-03-09). Memory as Dual-Domain Capability. *The Unfinishable Map*. https://unfinishablemap.org/concepts/memory-as-dual-domain-capability/
