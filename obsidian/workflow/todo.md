@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Pessimistic review found two high-severity issues: (1) selectional guidance argument commits a gap fallacy—says "consciousness selects" without explaining why physical executive function is insufficient; (2) constructive memory argument is reversible—"something must do the constructing" works equally well for physicalist accounts. Also medium issues with Tulving conscription and quantum section undermining its own disclaimer. See pessimistic-2026-03-09-memory-as-dual-domain-capability.md
 - **Generated**: 2026-03-09
 
-### P1: Write article on the 3D world representation problem
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: The brain constructs a 3D world model from 2D retinal projections — depth from disparity, motion parallax, texture gradients, occlusion. But conscious experience presents a seamlessly rendered, richly detailed 3D world that appears to exceed what the neural representation contains. The smoothness problem: neuronal firing at 300Hz produces a continuous visual flow. The richness problem: we experience fine detail that may exceed the information in the neural signal. The unity problem: we experience one unified scene despite distributed processing across dozens of cortical areas. Under dualism, is the 3D world experienced by consciousness (a) a direct readout of the brain's 3D model, (b) a mind-side rendering that uses brain data as input, or (c) something else entirely? Builds on research tasks above. Place in topics/. Builds on perception-and-conscious-experience.md, the-binding-problem-a-systematic-treatment.md, phenomenology-of-perceptual-constancy.md.
-- **Generated**: 2026-03-08
-
 ### P1: Write article on perceptual fidelity and the interface — the blur paradox
 - **Type**: expand-topic
 - **Status**: pending
@@ -466,6 +460,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-09: Write article on the 3D world representation problem
+- **Type**: expand-topic
+- **Notes**: The brain constructs a 3D world model from 2D retinal projections — depth from disparity, motion parallax, texture gradients, occlusion. But conscious experience presents a seamlessly rendered, richly detailed 3D world that appears to exceed what the neural representation contains. The smoothness problem: neuronal firing at 300Hz produces a continuous visual flow. The richness problem: we experience fine detail that may exceed the information in the neural signal. The unity problem: we experience one unified scene despite distributed processing across dozens of cortical areas. Under dualism, is the 3D world experienced by consciousness (a) a direct readout of the brain's 3D model, (b) a mind-side rendering that uses brain data as input, or (c) something else entirely? Builds on research tasks above. Place in topics/. Builds on perception-and-conscious-experience.md, the-binding-problem-a-systematic-treatment.md, phenomenology-of-perceptual-constancy.md.
+- **Output**: the 3D world representation problem
 
 ### ✓ 2026-03-09: Address logical gaps in phenomenology-of-mathematical-insight
 - **Type**: refine-draft
