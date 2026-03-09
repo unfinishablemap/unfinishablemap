@@ -42,12 +42,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Pessimistic review found two high-severity issues: (1) correlation-to-constitution leap in External Validation section needs competing explanations acknowledged, (2) conflation of access consciousness with phenomenal consciousness when citing dual-process theory. Also needs to address AI mathematical discovery and aesthetic counterexamples. See pessimistic-2026-03-09.md
 
-### P1: Cross-review interface articles for capability division consistency
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Review the-interface-location-problem.md, brain-interface-boundary.md, mind-matter-interface.md, and attention-as-interface.md. The capability division framework implies the interface must handle bidirectional transfer of multiple capability types — not just selection/attention but also sensory fidelity, memory retrieval, and spatial representation. Do existing interface articles accommodate this richer picture? Where do they need updating?
-- **Generated**: 2026-03-08
-
 ### P2: Cross-review memory articles in light of dual-domain capability framework
 - **Type**: cross-review
 - **Status**: pending
@@ -477,6 +471,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-09: Cross-review interface articles for capability division consistency
+- **Type**: cross-review
+- **Notes**: Review the-interface-location-problem.md, brain-interface-boundary.md, mind-matter-interface.md, and attention-as-interface.md. The capability division framework implies the interface must handle bidirectional transfer of multiple capability types — not just selection/attention but also sensory fidelity, memory retrieval, and spatial representation. Do existing interface articles accommodate this richer picture? Where do they need updating?
+- **Output**: None -- Context: Cross-review interface articles for capability division consistency
 
 ### ✓ 2026-03-09: Cross-review dream and memory articles for capability division implications
 - **Type**: cross-review

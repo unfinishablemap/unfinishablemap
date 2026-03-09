@@ -4,7 +4,7 @@ description: "Perception depends on lawful patterns between movement and sensati
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-03-09T10:46:00+00:00
+ai_modified: 2026-03-09T11:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-02-18T22:16:00+00:00
+last_deep_review: 2026-03-09T11:31:00+00:00
 ---
 
 [[perception-and-conscious-experience|Perception]] is the mastery of lawful patterns linking movement to sensation — what O'Regan and Noë call *sensorimotor contingencies*. When you run your fingers across a textured surface, the tactile sensation changes in structured ways as your hand moves. When you shift your gaze, the visual field transforms according to precise geometric laws. Perceiving is knowing — practically, bodily — how these transformations work. The Unfinishable Map argues that sensorimotor contingencies do not explain consciousness but reveal the structure of the interface through which consciousness engages the physical world.
@@ -78,7 +78,9 @@ The sensorimotor contingency theorist faces a dilemma. If mastery is functional 
 
 Noë's later work leans toward the second horn. In *Out of Our Heads* (2009), he argues that "you are not your brain" and that consciousness depends on the whole embodied organism's engagement with its environment. But this raises rather than answers the question: what is it about embodied engagement that produces experience, when disembodied computation with identical functional structure does not?
 
-The Map's answer: embodied engagement provides the interface structure, but consciousness is not identical to that structure. Sensorimotor contingencies specify the format of the interface — what information is available, how it transforms with action, what capacities it affords. Consciousness engages *through* this format without being reducible to it. The [[capability-division-problem|capability division framework]] clarifies the picture: sensorimotor contingency mastery belongs to brain-side processing — the body-brain system learns and executes the lawful patterns. But the phenomenal character that accompanies mastery — that red *looks like something*, that spatial engagement *feels like navigating* — is a mind-side contribution that the sensorimotor mastery occasions without producing.
+The Map's answer: embodied engagement provides the interface structure, but consciousness is not identical to that structure. Sensorimotor contingencies specify the format of the interface — what information is available, how it transforms with action, what capacities it affords. Consciousness engages *through* this format without being reducible to it.
+
+The [[capability-division-problem|capability division framework]] clarifies this picture. Sensorimotor contingency mastery — learning and executing the lawful patterns linking movement to sensation — is brain-side processing. The body-brain system handles the computational work of tracking how sensory stimulation transforms with action. But the phenomenal character that accompanies mastery — that red *looks like something*, that spatial engagement *feels like navigating* — is a mind-side contribution that the sensorimotor mastery occasions without producing.
 
 ## The Interface's Grammar
 
@@ -91,6 +93,8 @@ Similarly, sensorimotor contingencies constrain how consciousness can perceive a
 Mastering these contingencies is learning the interface's grammar. A child learning to see is not assembling a visual world from raw data; the child is mastering the lawful relations between movement and sensation that constitute visual engagement. A person learning to use a prosthetic limb is learning a new dialect of the same grammar — different contingencies governing the same fundamental engagement.
 
 This grammatical metaphor clarifies what changes and what remains constant across sensory substitution. The grammar changes: tactile-visual substitution imposes different contingencies than natural vision. The speaker — consciousness — remains. And remarkably, the speaker adapts to the new grammar, achieving functional fluency through practice.
+
+The metaphor also maps onto the [[capability-division-problem|capability division]]: the grammar itself — the lawful structure of sensorimotor contingencies — is brain-side, maintained by neural and bodily mechanisms. The meaning expressed through that grammar — the phenomenal content of perception — is a mind-side contribution. Grammar shapes expression without producing meaning; sensorimotor contingencies shape experience without producing phenomenal character.
 
 ## The Phantom Limb and Interface Persistence
 
