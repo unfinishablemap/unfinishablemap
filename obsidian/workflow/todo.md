@@ -42,12 +42,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Pessimistic review found two high-severity issues: (1) correlation-to-constitution leap in External Validation section needs competing explanations acknowledged, (2) conflation of access consciousness with phenomenal consciousness when citing dual-process theory. Also needs to address AI mathematical discovery and aesthetic counterexamples. See pessimistic-2026-03-09.md
 
-### P1: Write article on the smoothness problem — neural discreteness vs experiential continuity
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Neural processes are fundamentally discrete: action potentials fire or don't, synaptic transmission is quantised, cortical oscillations have specific frequencies (gamma ~40Hz, alpha ~10Hz). Yet conscious experience — particularly visual experience — appears temporally continuous. We don't perceive frames or flicker (above fusion threshold). Under physicalism, this smoothness must be constructed by the brain. Under dualism, an alternative explanation is available: the mind's temporal experience is not constructed from neural pulses but is a mind-side capability, with neural firing serving as discrete input events that modulate an inherently continuous experiential stream. Compare with the "specious present" literature (James, Husserl), the phi phenomenon, and evidence from temporal binding windows. Builds on research tasks above. Place in topics/. Builds on perception-and-conscious-experience.md, neural-implementation-specifics.md, the-interface-location-problem.md.
-- **Generated**: 2026-03-08
-
 ### P1: Write article on lucid dreaming as capability evidence
 - **Type**: expand-topic
 - **Status**: pending
@@ -501,6 +495,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-09: Write article on the smoothness problem — neural discreteness vs experiential continuity
+- **Type**: expand-topic
+- **Notes**: Neural processes are fundamentally discrete: action potentials fire or don't, synaptic transmission is quantised, cortical oscillations have specific frequencies (gamma ~40Hz, alpha ~10Hz). Yet conscious experience — particularly visual experience — appears temporally continuous. We don't perceive frames or flicker (above fusion threshold). Under physicalism, this smoothness must be constructed by the brain. Under dualism, an alternative explanation is available: the mind's temporal experience is not constructed from neural pulses but is a mind-side capability, with neural firing serving as discrete input events that modulate an inherently continuous experiential stream. Compare with the "specious present" literature (James, Husserl), the phi phenomenon, and evidence from temporal binding windows. Builds on research tasks above. Place in topics/. Builds on perception-and-conscious-experience.md, neural-implementation-specifics.md, the-interface-location-problem.md.
+- **Output**: the smoothness problem — neural discreteness vs experiential continuity
 
 ### ✓ 2026-03-09: Write article on perceptual fidelity and the interface — the blur paradox
 - **Type**: expand-topic
