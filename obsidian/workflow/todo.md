@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced contemplative articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce created [[contemplative-practice-as-philosophical-evidence]]. The following active content files reference the archived articles [[contemplative-evidence-for-consciousness]] and/or [[contemplative-methods-as-philosophical-methodology]] and should have their wikilinks updated to point to the new unified article: apex/contemplative-path.md, apex/testing-the-map-from-inside.md, concepts/consciousness.md, concepts/contemplative-neuroscience.md, concepts/contemplative-epistemology.md, concepts/neuroplasticity.md, concepts/epiphenomenalism.md, concepts/moral-perception.md, concepts/phenomenological-evidence.md, concepts/methodological-pluralism.md, concepts/normative-phenomenology.md, concepts/altered-states-of-consciousness.md, concepts/islamic-sufi-philosophy-of-consciousness.md, concepts/cross-cultural-convergence-on-mental-causation.md, concepts/phenomenal-transparency.md, concepts/african-philosophy-of-consciousness.md, topics/first-person-third-person-methodology.md, topics/comparative-phenomenology-of-meditative-traditions.md, topics/contemplative-pathology-and-interface-malfunction.md, topics/eastern-philosophy-consciousness.md, topics/the-observer-witness-in-meditation.md, topics/the-convergence-argument-for-dualism.md, topics/epistemology-of-convergence-arguments.md, topics/cross-cultural-phenomenology-of-agency.md, topics/indian-philosophy-of-mind.md, topics/aesthetic-dimension-of-consciousness.md, topics/the-hard-problem-in-non-western-philosophy.md, topics/empirical-evidence-for-consciousness-selecting.md, topics/social-construction-of-self-vs-phenomenal-self.md, topics/bergson-and-duration.md, topics/phenomenal-value-realism.md, topics/phenomenology-of-moral-experience.md, topics/the-self-minimal-narrative-and-substantial.md, topics/non-temporal-consciousness.md, topics/fragmented-consciousness.md, topics/consciousness-and-the-limits-of-explanation.md, topics/consciousness-and-normative-force.md, topics/phenomenology-of-temporal-attention.md, topics/consciousness-and-the-neuroscience-of-deliberate-practice.md, topics/phenomenology-of-epistemic-judgment.md
-- **Source**: coalesce
-- **Generated**: 2026-03-09
-
 ### P2: Write article on neurological dissociations as interface architecture
 - **Type**: expand-topic
 - **Status**: pending
@@ -467,6 +460,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-09: Update references to coalesced contemplative articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [[contemplative-practice-as-philosophical-evidence]]. The following active content files reference the archived articles [[contemplative-evidence-for-consciousness]] and/or [[contemplative-methods-as-philosophical-methodology]] and should have their wikilinks updated to point to the new unified article: apex/contemplative-path.md, apex/testing-the-map-from-inside.md, concepts/consciousness.md, concepts/contemplative-neuroscience.md, concepts/contemplative-epistemology.md, concepts/neuroplasticity.md, concepts/epiphenomenalism.md, concepts/moral-perception.md, concepts/phenomenological-evidence.md, concepts/methodological-pluralism.md, concepts/normative-phenomenology.md, concepts/altered-states-of-consciousness.md, concepts/islamic-sufi-philosophy-of-consciousness.md, concepts/cross-cultural-convergence-on-mental-causation.md, concepts/phenomenal-transparency.md, concepts/african-philosophy-of-consciousness.md, topics/first-person-third-person-methodology.md, topics/comparative-phenomenology-of-meditative-traditions.md, topics/contemplative-pathology-and-interface-malfunction.md, topics/eastern-philosophy-consciousness.md, topics/the-observer-witness-in-meditation.md, topics/the-convergence-argument-for-dualism.md, topics/epistemology-of-convergence-arguments.md, topics/cross-cultural-phenomenology-of-agency.md, topics/indian-philosophy-of-mind.md, topics/aesthetic-dimension-of-consciousness.md, topics/the-hard-problem-in-non-western-philosophy.md, topics/empirical-evidence-for-consciousness-selecting.md, topics/social-construction-of-self-vs-phenomenal-self.md, topics/bergson-and-duration.md, topics/phenomenal-value-realism.md, topics/phenomenology-of-moral-experience.md, topics/the-self-minimal-narrative-and-substantial.md, topics/non-temporal-consciousness.md, topics/fragmented-consciousness.md, topics/consciousness-and-the-limits-of-explanation.md, topics/consciousness-and-normative-force.md, topics/phenomenology-of-temporal-attention.md, topics/consciousness-and-the-neuroscience-of-deliberate-practice.md, topics/phenomenology-of-epistemic-judgment.md
+- **Output**: None -- Context: Update references to coalesced contemplative articles
 
 ### ✓ 2026-03-09: Cross-review memory articles in light of dual-domain capability framework
 - **Type**: cross-review

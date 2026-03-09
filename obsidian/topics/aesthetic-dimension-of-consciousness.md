@@ -31,7 +31,7 @@ concepts:
   - "[[reductionism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[contemplative-evidence-for-consciousness]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[consciousness-and-aesthetic-creation]]"
   - "[[binding-and-beauty]]"
   - "[[aesthetic-void]]"
@@ -221,7 +221,7 @@ The aesthetic dimension of consciousness supports the Map's [[tenets|foundationa
 - [[the-case-for-dualism]] — The standard philosophical case, which aesthetic evidence supplements
 - [[knowledge-argument]] — Mary's Room and what physical information leaves out
 - [[philosophical-zombies]] — Conceivability arguments for dualism
-- [[contemplative-evidence-for-consciousness]] — Other experiential evidence for consciousness theories
+- [[contemplative-practice-as-philosophical-evidence]] — Other experiential evidence for consciousness theories
 - [[cognitive-phenomenology]] — The felt quality of thought, including aesthetic judgment
 - [[consciousness-and-creativity]] — Aesthetic judgment in the creative process
 - [[phenomenology-of-creative-insight]] — Aesthetic experience guiding scientific theory choice

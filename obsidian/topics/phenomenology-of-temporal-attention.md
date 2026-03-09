@@ -23,7 +23,7 @@ related_articles:
   - "[[consciousness-and-skilled-performance]]"
   - "[[consciousness-and-temporal-becoming]]"
   - "[[phenomenology-of-anticipation]]"
-  - "[[contemplative-evidence-for-consciousness]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -54,7 +54,7 @@ Husserl's tripartite structure of temporal consciousness describes the architect
 
 - **Deep engagement** strengthens retention and protention simultaneously. A chess player attending to the board holds more of the recent sequence in retention while projecting further into possible futures. The specious present widens and deepens.
 - **Distracted attention** weakens all three components. Retention fades quickly, protention collapses to mere reactivity, and primal impression thins. The present becomes a narrow, shallow instant.
-- **Meditative attention** reveals the microstructure of all three. [[contemplative-evidence-for-consciousness|Contemplative traditions]] report that sustained attention to the present moment discloses rapid arising and passing—what the Buddhist phenomenological tradition calls *khaṇika* (momentariness)—normally blurred by ordinary attention. (The Buddhist analysis also challenges the assumption of a stable attender: *khaṇika* reveals momentariness in the act of attending itself. The Map acknowledges this tension while maintaining that the experiential subject, however impermanent moment-to-moment, is irreducible to physical process.)
+- **Meditative attention** reveals the microstructure of all three. [[contemplative-practice-as-philosophical-evidence|Contemplative traditions]] report that sustained attention to the present moment discloses rapid arising and passing—what the Buddhist phenomenological tradition calls *khaṇika* (momentariness)—normally blurred by ordinary attention. (The Buddhist analysis also challenges the assumption of a stable attender: *khaṇika* reveals momentariness in the act of attending itself. The Map acknowledges this tension while maintaining that the experiential subject, however impermanent moment-to-moment, is irreducible to physical process.)
 
 Francisco Varela's neurophenomenological research programme proposed that trained meditators should access temporal structure at scales below ordinary threshold—a hypothesis consistent with subsequent experimental work on meditation and attentional processing (Slagter et al., 2007). The specious present is not a given but an attentional achievement—its depth and span reflect how consciousness directs itself through time.
 
@@ -118,7 +118,7 @@ The phenomenology of temporal attention aligns with several of the Map's [[tenet
 - [[consciousness-and-temporal-becoming]]
 - [[growing-block-universe-and-consciousness]]
 - [[phenomenology-of-anticipation]]
-- [[contemplative-evidence-for-consciousness]]
+- [[contemplative-practice-as-philosophical-evidence]]
 - [[topics/free-will]]
 
 ## References

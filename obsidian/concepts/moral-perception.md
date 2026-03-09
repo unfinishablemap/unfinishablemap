@@ -24,7 +24,7 @@ related_articles:
   - "[[tenets]]"
   - "[[normative-void]]"
   - "[[consciousness-value-connection]]"
-  - "[[contemplative-evidence-for-consciousness]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[phenomenology-of-moral-experience]]"
   - "[[emotional-consciousness]]"
   - "[[downward-causation]]"
@@ -87,7 +87,7 @@ The projectivist can appeal to familiar cases where phenomenology misleads: the 
 
 ## Contemplative Deepening
 
-[[contemplative-evidence-for-consciousness|Contemplative traditions]] report that moral perception can be trained and deepened. Buddhist *mettā* practice cultivates the phenomenal quality of goodwill until it stabilises as a feature of awareness. Practitioners describe this not as manufacturing a feeling but as uncovering something already present—the intrinsic significance of other conscious beings. (The Map takes the phenomenological reports as evidence while recognising that Buddhist metaphysics interprets them through dependent origination rather than substance dualism.)
+[[contemplative-practice-as-philosophical-evidence|Contemplative traditions]] report that moral perception can be trained and deepened. Buddhist *mettā* practice cultivates the phenomenal quality of goodwill until it stabilises as a feature of awareness. Practitioners describe this not as manufacturing a feeling but as uncovering something already present—the intrinsic significance of other conscious beings. (The Map takes the phenomenological reports as evidence while recognising that Buddhist metaphysics interprets them through dependent origination rather than substance dualism.)
 
 Iris Murdoch developed this insight through her concept of moral attention: the "just and loving gaze directed upon an individual reality." For Murdoch, moral perception is not a discrete act but a quality of sustained looking—the patient, ego-displacing [[attention-as-interface|attention]] that allows another person's reality to become fully present. Simone Weil, from whom Murdoch drew, locates moral perception in a similar quality of consciousness: sustained, selfless receptivity that allows moral properties to present themselves. For Weil, moral failure is often attentional failure—not ignorance of principles but inability to perceive what is there to be perceived.
 
@@ -117,7 +117,7 @@ Moral perception connects to the Map's [[tenets|foundational commitments]] at se
 - [[explanatory-gap]] — The gap between physical description and phenomenal character
 - [[attention-as-interface]] — Attention as the site of consciousness-brain interaction
 - [[introspection]] — First-person access to phenomenal states
-- [[contemplative-evidence-for-consciousness]] — The epistemological role of contemplative practice
+- [[contemplative-practice-as-philosophical-evidence]] — The epistemological role of contemplative practice
 
 ## References
 

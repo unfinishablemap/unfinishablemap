@@ -19,7 +19,7 @@ concepts:
   - "[[meditation-and-consciousness-modes]]"
 related_articles:
   - "[[objectivity-and-consciousness]]"
-  - "[[contemplative-evidence-for-consciousness]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[cognitive-science-of-dualism]]"
   - "[[intersubjectivity]]"
 ai_contribution: 100
@@ -88,7 +88,7 @@ Francisco Varela's [[neurophenomenology]] provides the most developed framework 
 
 This bidirectionality means neither method dominates. Phenomenology without neuroscience risks unfalsifiable speculation; neuroscience without phenomenology risks explaining the wrong thing—substituting functional accounts for phenomenal ones without noticing the substitution.
 
-[[contemplative-evidence-for-consciousness|Contemplative neuroscience]] demonstrates mutual constraint in action. Trained meditators report specific attentional states; neuroscientists find these states correlate with distinct neural patterns (gamma synchrony, default mode network deactivation). Neither finding is achievable by one method alone.
+[[contemplative-practice-as-philosophical-evidence|Contemplative neuroscience]] demonstrates mutual constraint in action. Trained meditators report specific attentional states; neuroscientists find these states correlate with distinct neural patterns (gamma synchrony, default mode network deactivation). Neither finding is achievable by one method alone.
 
 ## Why Monism Fails
 
@@ -120,7 +120,7 @@ The Map speculates that methodological pluralism may be more than a practical ne
 - [[neurophenomenology]]—Varela's mutual constraint framework in detail
 - [[heterophenomenology]]—Dennett's third-person-only approach and why the Map rejects it
 - [[phenomenological-evidence]]—Conditions under which first-person reports constitute evidence
-- [[contemplative-evidence-for-consciousness]]—How contemplative practice provides consciousness data
+- [[contemplative-practice-as-philosophical-evidence]]—How contemplative practice provides consciousness data
 - [[objectivity-and-consciousness]]—Nagel's critique of objective-only approaches
 
 ## References

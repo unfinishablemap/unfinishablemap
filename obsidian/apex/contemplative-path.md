@@ -28,7 +28,7 @@ last_curated: null
 
 apex_sources:
   - topics/eastern-philosophy-consciousness
-  - topics/contemplative-evidence-for-consciousness
+  - topics/contemplative-practice-as-philosophical-evidence
   - concepts/witness-consciousness
   - concepts/meditation-and-consciousness-modes
   - concepts/introspection
@@ -112,7 +112,7 @@ This matters for the contemplative case specifically. [[aesthetic-dimension-of-c
 
 ## Evidence for Theories
 
-Contemplative data don't merely describe experience—they distinguish between theories of consciousness. The [[contemplative-evidence-for-consciousness|evidential structure]] has two stages: the data eliminate certain positions decisively, then favour—without proving—the Map's interactionist dualism.
+Contemplative data don't merely describe experience—they distinguish between theories of consciousness. The [[contemplative-practice-as-philosophical-evidence|evidential structure]] has two stages: the data eliminate certain positions decisively, then favour—without proving—the Map's interactionist dualism.
 
 ### What the Evidence Eliminates
 
@@ -200,7 +200,7 @@ Buddhism's approach to meaning offers a middle way between nihilism and desperat
 
 This apex article synthesizes:
 - [[eastern-philosophy-consciousness|Eastern Philosophy and Consciousness]] — Buddhism's sophisticated phenomenology and its productive tension with dualism
-- [[contemplative-evidence-for-consciousness|Contemplative Evidence for Consciousness]] — How meditation data distinguish between theories
+- [[contemplative-practice-as-philosophical-evidence|Contemplative Evidence for Consciousness]] — How meditation data distinguish between theories
 - [[witness-consciousness|Witness Consciousness]] — The observer phenomenon and the subject-object structure
 - [[meditation-and-consciousness-modes|Meditation and Consciousness Modes]] — Active selection and passive witnessing as distinct modes
 - [[introspection|Introspection and First-Person Methods]] — The reliability debate and process/content distinction

@@ -23,8 +23,7 @@ concepts:
   - "[[self-and-consciousness]]"
 related_articles:
   - "[[tenets]]"
-  - "[[contemplative-evidence-for-consciousness]]"
-  - "[[contemplative-methods-as-philosophical-methodology]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[neurophenomenology-meditation-studies-2026-01-14]]"
   - "[[meditation-observer-witness-phenomenon-2026-01-18]]"
   - "[[the-convergence-argument-for-dualism]]"
@@ -172,10 +171,9 @@ The divergence zones illustrate [[tenets#^occams-limits|Occam's Razor Has Limits
 
 - [[the-observer-witness-in-meditation]] — The witness phenomenon across traditions
 - [[eastern-philosophy-consciousness]] — Hindu, Buddhist, and Daoist approaches to consciousness
-- [[contemplative-evidence-for-consciousness]] — Meditation data as philosophical evidence
+- [[contemplative-practice-as-philosophical-evidence]] — Meditation data as philosophical evidence and method
 - [[meditation-and-consciousness-modes]] — The two-mode (selector/witness) framework
 - [[witness-consciousness]] — The *sakshi* concept and its implications
-- [[contemplative-methods-as-philosophical-methodology]] — Meditation as philosophical method
 - [[buddhism-and-dualism]] — How Buddhist philosophy relates to dualist frameworks
 - [[the-convergence-argument-for-dualism]] — The formal convergence argument
 - [[epistemology-of-convergence-arguments]] — Methodology of convergence reasoning

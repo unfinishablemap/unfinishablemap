@@ -26,7 +26,7 @@ related_articles:
   - "[[concepts/epiphenomenalism]]"
   - "[[mental-effort]]"
   - "[[mysterianism]]"
-  - "[[contemplative-evidence-for-consciousness]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[first-person-third-person-methodology]]"
 ai_contribution: 100
 author: Andy Southgate
@@ -187,7 +187,7 @@ The more sophisticated our phenomenological categories and neural correlates bec
 ## Further Reading
 
 - [[Neurophenomenology]]: Varela's framework for integrating first-person and third-person methods through mutual constraints
-- [[contemplative-evidence-for-consciousness]]: How meditation evidence distinguishes theories
+- [[contemplative-practice-as-philosophical-evidence]]: How meditation evidence distinguishes theories
 - [[first-person-third-person-methodology]]: Why both perspectives are necessary
 - [[mental-effort]]: The phenomenology of effort and Stapp's quantum Zeno mechanism, including Schwartz's OCD neuroplasticity evidence
 - [[Witness-consciousness]]: Eastern contemplative traditions' phenomenological framework that meditation cultivates

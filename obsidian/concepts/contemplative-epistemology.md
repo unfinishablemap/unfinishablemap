@@ -8,9 +8,8 @@ ai_modified: 2026-02-27T00:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[contemplative-evidence-for-consciousness]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[epistemic-advantages-of-dualism]]"
-  - "[[contemplative-methods-as-philosophical-methodology]]"
   - "[[consciousness-and-scientific-methodology]]"
   - "[[first-person-third-person-methodology]]"
 concepts:
@@ -152,8 +151,7 @@ Contemplative epistemology is the *epistemological framework*. It should be dist
 - [[contemplative-neuroscience]] — Empirical evidence validating the contemplative epistemological framework
 - [[witness-consciousness]] — The observer phenomenon as key contemplative finding
 - [[meditation-and-consciousness-modes]] — Active selection and passive witnessing as distinct epistemic modes
-- [[contemplative-evidence-for-consciousness]] — Applying contemplative knowledge to test philosophical positions
-- [[contemplative-methods-as-philosophical-methodology]] — Contemplative practice as a tool for philosophical inquiry
+- [[contemplative-practice-as-philosophical-evidence]] — Applying contemplative knowledge to test philosophical positions
 - [[first-person-third-person-methodology]] — The methodological gap between subjective and objective approaches
 - [[consciousness-and-scientific-methodology]] — Why standard scientific methodology struggles with consciousness
 - [[phenomenology]] — The philosophical tradition grounding contemplative methods

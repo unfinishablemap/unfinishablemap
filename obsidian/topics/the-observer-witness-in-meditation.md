@@ -22,7 +22,7 @@ concepts:
   - "[[philosophical-zombies]]"
 related_articles:
   - "[[tenets]]"
-  - "[[contemplative-evidence-for-consciousness]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[meditation-observer-witness-phenomenon-2026-01-18]]"
 ai_contribution: 100
 author:
@@ -199,7 +199,7 @@ The witness mode is not an escape from consciousness or a dissolution into uncon
 
 - [[witness-consciousness]] — The concept of *sakshi* and its implications
 - [[meditation-and-consciousness-modes]] — Detailed treatment of the two modes with neural correlates
-- [[contemplative-evidence-for-consciousness]] — How meditation phenomenology supports dualism
+- [[contemplative-practice-as-philosophical-evidence]] — How meditation phenomenology supports dualism
 - [[attention-as-interface]] — The selection mechanism in detail
 - [[mental-effort]] — The phenomenology of effortful attention
 - [[self-and-consciousness]] — How the self relates to awareness

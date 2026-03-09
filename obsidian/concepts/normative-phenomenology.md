@@ -24,7 +24,7 @@ related_articles:
   - "[[tenets]]"
   - "[[normative-void]]"
   - "[[consciousness-value-connection]]"
-  - "[[contemplative-evidence-for-consciousness]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[topics/phenomenal-value-realism]]"
 ai_contribution: 100
 author:
@@ -117,7 +117,7 @@ Normative phenomenology maintains the distinction by bracketing endorsement. Des
 
 ## Contemplative Approaches
 
-[[contemplative-evidence-for-consciousness|Contemplative traditions]] contribute substantially to normative phenomenology. Sustained meditative attention reveals normative microstructure invisible to casual introspection.
+[[contemplative-practice-as-philosophical-evidence|Contemplative traditions]] contribute substantially to normative phenomenology. Sustained meditative attention reveals normative microstructure invisible to casual introspection.
 
 Buddhist *vipassanā* discloses how hedonic valence (*vedanā*) arises moment-to-moment as a constitutive feature of experience, not an evaluative overlay. A distinction matters here: in Abhidharma analysis, *vedanā* itself is bare feeling-tone (pleasant, unpleasant, neutral), while the normative dimension—the sense that something demands response—arises with craving (*taṇhā*) in response to feeling-tone. Practitioners report that sustained attention reveals this evaluative texture present before deliberation begins, though traditions disagree about whether it reflects normative reality or conditioned reactivity.
 
@@ -149,7 +149,7 @@ Normative phenomenology connects to the Map's [[tenets|foundational commitments]
 - [[attention-as-interface]] — The attention mechanism through which normative salience operates
 - [[normative-void]] — Where normative perception reaches its limits
 - [[consciousness-value-connection]] — Why consciousness is necessary for value
-- [[contemplative-evidence-for-consciousness]] — Contemplative traditions as laboratories for normative investigation
+- [[contemplative-practice-as-philosophical-evidence]] — Contemplative traditions as laboratories for normative investigation
 - [[topics/phenomenal-value-realism]] — Value as constituted by conscious experience
 
 ## References

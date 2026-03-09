@@ -8,7 +8,7 @@ ai_modified: 2026-03-07T09:38:00+00:00
 draft: false
 topics:
   - "[[indian-philosophy-of-mind]]"
-  - "[[contemplative-evidence-for-consciousness]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[epistemology-of-convergence-arguments]]"
 concepts:
   - "[[interactionist-dualism]]"
@@ -65,7 +65,7 @@ Beyond the general agreement that mind causes physical effects, the traditions c
 
 **Agency is real and irreducible.** Indian karma doctrines require genuine choice. African personhood concepts ground moral responsibility in real causal power. Western [[agent-causation]] arguments hold that persons originate actions in a way not reducible to event-causal chains. Across these traditions, the phenomenology of willing an action and seeing it happen is taken as evidentially significant, not dismissed as illusion. (Buddhist traditions complicate this picture—*anattā* denies an enduring agent while preserving moral responsibility through different metaphysics—a qualification explored in the selection bias section below.)
 
-**Contemplative investigation supports the causal role of mind.** [[contemplative-evidence-for-consciousness|Contemplative traditions]] across cultures report that trained attention modifies both subjective experience and bodily states—changes in heart rate, pain perception, and emotional regulation through directed mental effort. A physicalist can accommodate these observations as neural-to-bodily causation without invoking non-physical consciousness. But the contemplative traditions themselves, across independent lineages, interpret this phenomenology as evidence that consciousness is the agent, not merely a passenger. The cross-cultural convergence on this interpretation—not just the physiological effects—is what carries evidential weight.
+**Contemplative investigation supports the causal role of mind.** [[contemplative-practice-as-philosophical-evidence|Contemplative traditions]] across cultures report that trained attention modifies both subjective experience and bodily states—changes in heart rate, pain perception, and emotional regulation through directed mental effort. A physicalist can accommodate these observations as neural-to-bodily causation without invoking non-physical consciousness. But the contemplative traditions themselves, across independent lineages, interpret this phenomenology as evidence that consciousness is the agent, not merely a passenger. The cross-cultural convergence on this interpretation—not just the physiological effects—is what carries evidential weight.
 
 ## Objections and Limitations
 
@@ -91,7 +91,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] is also relevant. T
 - [[epistemology-of-convergence-arguments]]
 - [[the-hard-problem-in-non-western-philosophy]]
 - [[samkhya-three-way-distinction]]
-- [[contemplative-evidence-for-consciousness]]
+- [[contemplative-practice-as-philosophical-evidence]]
 - [[agent-causation]]
 - [[causal-closure]]
 

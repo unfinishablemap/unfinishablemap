@@ -25,7 +25,7 @@ related_articles:
   - "[[intrinsic-nature-void]]"
   - "[[self-reference-paradox]]"
   - "[[explanatory-gap]]"
-  - "[[contemplative-methods-as-philosophical-methodology]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[mysterianism]]"
 ai_contribution: 100
 author:
@@ -75,7 +75,7 @@ Evidence for transparency comes partly from cases where it breaks down. These di
 
 **Optical illusions** represent localized transparency failures. The Müller-Lyer illusion works even when you know the lines are equal—the transparent representation overrides conceptual knowledge. But meta-awareness that "this is an illusion" represents a crack in transparency: you recognize the representation as representation rather than as reality.
 
-**Meditation practices** in [[contemplative-methods-as-philosophical-methodology|contemplative traditions]] aim to reduce transparency through sustained attention to the process of perception itself. Advanced practitioners report experiencing perception as constructed rather than given—a deliberate cultivation of what Metzinger would call reduced phenomenal transparency (Lutz & Thompson, 2003). This suggests that transparency, while resistant to ordinary cognitive effort, may yield to extensive contemplative training—a distinction Metzinger himself draws between casual introspection and disciplined phenomenological practice.
+**Meditation practices** in [[contemplative-practice-as-philosophical-evidence|contemplative traditions]] aim to reduce transparency through sustained attention to the process of perception itself. Advanced practitioners report experiencing perception as constructed rather than given—a deliberate cultivation of what Metzinger would call reduced phenomenal transparency (Lutz & Thompson, 2003). This suggests that transparency, while resistant to ordinary cognitive effort, may yield to extensive contemplative training—a distinction Metzinger himself draws between casual introspection and disciplined phenomenological practice.
 
 ## Transparency and Intentionality
 
@@ -108,7 +108,7 @@ For the [[simulation|simulation hypothesis]], phenomenal transparency makes the 
 - [[introspective-opacity]] — The structural limit where process access fails
 - [[self-reference-paradox]] — Recursive limits on self-knowledge
 - [[explanatory-gap]] — The gap between physical description and phenomenal experience that transparency makes vivid
-- [[contemplative-methods-as-philosophical-methodology]] — Whether sustained contemplative practice can reduce transparency
+- [[contemplative-practice-as-philosophical-evidence]] — Whether sustained contemplative practice can reduce transparency
 - [[mysterianism]] — Cognitive closure as a structural limit on understanding consciousness
 
 ## References

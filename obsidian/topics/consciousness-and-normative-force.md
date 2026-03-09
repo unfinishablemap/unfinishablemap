@@ -30,7 +30,7 @@ related_articles:
   - "[[tenets]]"
   - "[[normative-void]]"
   - "[[phenomenal-depth]]"
-  - "[[contemplative-evidence-for-consciousness]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[aesthetic-dimension-of-consciousness]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
   - "[[authentic-vs-inauthentic-choice]]"
@@ -165,7 +165,7 @@ The consciousness-based account would face pressure if:
 - [[aesthetic-dimension-of-consciousness]] — Beauty and ugliness as irreducible phenomenal features
 - [[normative-void]] — Where normative perception reaches its limits
 - [[consciousness-value-connection]] — Why consciousness is necessary for value
-- [[contemplative-evidence-for-consciousness]] — Contemplative deepening of normative perception
+- [[contemplative-practice-as-philosophical-evidence]] — Contemplative deepening of normative perception
 - [[topics/free-will]] — Normative conflict as the site of genuine choice
 - [[authentic-vs-inauthentic-choice]] — When choice engages consciousness's selection function
 - [[phenomenology-of-deliberation-under-uncertainty]] — The felt character of deciding without full information

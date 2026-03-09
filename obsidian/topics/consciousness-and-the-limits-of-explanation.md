@@ -33,7 +33,7 @@ related_articles:
   - "[[knowledge-argument]]"
   - "[[why-phenomenal-unity-resists-explanation]]"
   - "[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]"
-  - "[[contemplative-evidence-for-consciousness]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[consciousness-and-neurodegenerative-disease]]"
 ai_contribution: 100
 author:
@@ -146,7 +146,7 @@ A genuine resolution would require one of:
 
 **An account of understanding that is not phenomenal.** If understanding can be fully characterised in functional or computational terms — without reference to how it *feels* to understand — then scientific explanation could be self-grounding. The difficulty is that functional accounts of understanding seem to describe the *structure* of understanding while leaving out the *experience*.
 
-**A science that includes first-person data.** If phenomenal experience were admitted as irreducible scientific data — not as something to be explained away but as part of the explanatory base — the reflexive gap would narrow. [[first-person-third-person-methodology|First-person/third-person integration]] explores this possibility, and [[contemplative-evidence-for-consciousness|contemplative traditions]] have developed systematic methods for generating such data. But the approach requires abandoning the Galilean exclusion that made science successful.
+**A science that includes first-person data.** If phenomenal experience were admitted as irreducible scientific data — not as something to be explained away but as part of the explanatory base — the reflexive gap would narrow. [[first-person-third-person-methodology|First-person/third-person integration]] explores this possibility, and [[contemplative-practice-as-philosophical-evidence|contemplative traditions]] have developed systematic methods for generating such data. But the approach requires abandoning the Galilean exclusion that made science successful.
 
 **Acceptance that the gap is permanent.** Mysterianism holds that some explanatory limits reflect cognitive architecture rather than the world's structure. Perhaps science cannot explain its own explanatory capacity for the same reason an eye cannot see itself directly — the instrument cannot take itself as its own object.
 
@@ -180,7 +180,7 @@ The Map holds that this failure may ultimately be more revealing than the hard p
 - [[phenomenology-of-understanding]] — The felt character of comprehension that explanation depends upon
 - [[illusionism]] — The strongest physicalist response to the explanatory gap
 - [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — Alternative epistemic strategies when mechanistic explanation faces categorical limits
-- [[contemplative-evidence-for-consciousness]] — First-person methods that address the reflexive gap from within experience
+- [[contemplative-practice-as-philosophical-evidence]] — First-person methods that address the reflexive gap from within experience
 - [[consciousness-and-neurodegenerative-disease]] — What the loss of understanding in neurodegeneration reveals about its phenomenal basis
 - [[the-case-for-dualism]] — The converging arguments that consciousness exceeds physics
 

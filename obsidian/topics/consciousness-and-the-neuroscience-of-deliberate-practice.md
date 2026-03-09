@@ -23,7 +23,7 @@ related_articles:
   - "[[consciousness-and-skilled-performance]]"
   - "[[choking-phenomenon-mental-causation]]"
   - "[[consciousness-and-skilled-performance]]"
-  - "[[contemplative-evidence-for-consciousness]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[phenomenology-of-cognitive-capacity]]"
   - "[[epiphenomenalism]]"
   - "[[mental-causation]]"
@@ -108,7 +108,7 @@ What the data do constrain is the epiphenomenalist position. If the phenomenal q
 - [[neuroplasticity]] — Schwartz's evidence that directed attention reshapes brain structure
 - [[choking-phenomenon-mental-causation]] — What happens when consciousness re-enters automated skills
 - [[attention-as-interface]] — How attention mediates between consciousness and neural systems
-- [[contemplative-evidence-for-consciousness]] — Meditation as a parallel case of deliberate practice
+- [[contemplative-practice-as-philosophical-evidence]] — Meditation as a parallel case of deliberate practice
 - [[phenomenology-of-cognitive-capacity]] — What it feels like as skills withdraw from conscious control and capacity frees up
 - [[evolutionary-case-for-mental-causation]] — The broader argument that consciousness must do something
 - [[surprise-prediction-error-and-consciousness]] — How error signals and conscious correction relate to prediction

@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[eastern-philosophy-consciousness]]"
-  - "[[contemplative-evidence-for-consciousness]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
 concepts:
   - "[[dualism]]"
   - "[[explanatory-gap]]"
@@ -157,7 +157,7 @@ The Map's engagement with non-Western philosophy serves all five tenets.
 - [[eastern-philosophy-consciousness]] — Broader survey of Hindu, Buddhist, and Taoist engagement with consciousness
 - [[buddhism-and-dualism]] — Detailed compatibility analysis of Buddhist no-self and the Map's dualism
 - [[witness-consciousness]] — The Advaitic *sakṣin* and Buddhist witnessing traditions
-- [[contemplative-evidence-for-consciousness]] — First-person data as empirical test
+- [[contemplative-practice-as-philosophical-evidence]] — First-person data as empirical test
 - [[mysterianism]] — McGinn's cognitive closure thesis, paralleled by al-Ghazālī
 - [[explanatory-gap]] — The conceptual chasm these traditions independently identify
 - [[agent-causation]] — The philosophical framework Nyāya independently articulates

@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[the-hard-problem-in-non-western-philosophy]]"
   - "[[interaction-problem-in-non-western-philosophy]]"
-  - "[[contemplative-evidence-for-consciousness]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
 concepts:
   - "[[interactionist-dualism]]"
   - "[[witness-consciousness]]"
@@ -21,7 +21,6 @@ related_articles:
   - "[[tenets]]"
   - "[[eastern-philosophy-consciousness]]"
   - "[[comparative-phenomenology-of-meditative-traditions]]"
-  - "[[contemplative-methods-as-philosophical-methodology]]"
   - "[[hard-problem-non-western-philosophy-2026-02-14]]"
   - "[[interaction-problem-non-western-philosophy-2026-02-17]]"
 ai_contribution: 100
@@ -113,10 +112,9 @@ The Map's productive tension with this tradition centres on Mulla Sadra and Ibn 
 - [[the-hard-problem-in-non-western-philosophy]] — Broader cross-cultural survey including Islamic contributions
 - [[interaction-problem-in-non-western-philosophy]] — How Islamic thinkers addressed mind-body causation
 - [[witness-consciousness]] — The witnessing dimension discovered across contemplative traditions
-- [[contemplative-evidence-for-consciousness]] — First-person data as philosophical evidence
+- [[contemplative-practice-as-philosophical-evidence]] — First-person data as philosophical evidence and contemplative epistemic method
 - [[comparative-phenomenology-of-meditative-traditions]] — Structural parallels across Sufi, Buddhist, Hindu, and Christian practice
 - [[apophatic-approaches]] — Negative approaches to knowledge with roots in Islamic mysticism
-- [[contemplative-methods-as-philosophical-methodology]] — Contemplation as epistemic method
 
 ## References
 

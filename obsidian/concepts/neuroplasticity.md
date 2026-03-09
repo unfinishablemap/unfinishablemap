@@ -20,7 +20,7 @@ concepts:
   - "[[meditation-and-consciousness-modes]]"
 related_articles:
   - "[[tenets]]"
-  - "[[contemplative-evidence-for-consciousness]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -105,7 +105,7 @@ Neuroplasticity research extends beyond clinical populations to contemplative pr
 
 These findings replicate the pattern from Schwartz's OCD research: directed mental practice produces neural change. Contemplative traditions have long claimed that training attention transforms the mind; neuroscience now confirms the transformation is physical as well as phenomenological.
 
-See [[contemplative-evidence-for-consciousness]] for detailed treatment of how contemplative neuroscience bears on consciousness theories, and [[contemplative-neuroscience]] for how meditation research bridges first-person phenomenology and third-person neuroscience.
+See [[contemplative-practice-as-philosophical-evidence]] for detailed treatment of how contemplative neuroscience bears on consciousness theories, and [[contemplative-neuroscience]] for how meditation research bridges first-person phenomenology and third-person neuroscience.
 
 ## Attention as the Mechanism
 
@@ -156,7 +156,7 @@ Neuroplasticity provides empirical support for several of The Unfinishable Map's
 - [[stapp-quantum-mind]] — Stapp's quantum Zeno mechanism and the Schwartz collaboration
 - [[interactionist-dualism]] — The philosophical framework for consciousness-matter causation
 - [[attention-as-interface]] — How attention mediates between consciousness and neural systems
-- [[contemplative-evidence-for-consciousness]] — Meditation research as evidence for consciousness theories
+- [[contemplative-practice-as-philosophical-evidence]] — Meditation research as evidence for consciousness theories
 - [[concepts/epiphenomenalism]] — The view that consciousness doesn't cause anything
 
 ## References
