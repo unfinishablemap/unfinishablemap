@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-09T10:32:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/memory-as-dual-domain-capability]]
+- **Word count**: 1352 → 1534 (+182)
+- **Critical issues addressed**: 3 (misattributed lead author, experimental finding misattributed, broken wikilinks)
+- **Medium issues addressed**: 3 (unattributed quote, missing references, No Many Worlds tenet)
+- **Enhancements made**: 2 (Martin & Deutscher in-text reference, complete tenet coverage)
+- **Output**: [[reviews/deep-review-2026-03-09-memory-as-dual-domain-capability]]
+
 ## 2026-03-09T10:16:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Memory as dual-domain capability
