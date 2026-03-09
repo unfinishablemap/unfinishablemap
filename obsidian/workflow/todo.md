@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Write article on the 3D world representation problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: The brain constructs a 3D world model from 2D retinal projections — depth from disparity, motion parallax, texture gradients, occlusion. But conscious experience presents a seamlessly rendered, richly detailed 3D world that appears to exceed what the neural representation contains. The smoothness problem: neuronal firing at 300Hz produces a continuous visual flow. The richness problem: we experience fine detail that may exceed the information in the neural signal. The unity problem: we experience one unified scene despite distributed processing across dozens of cortical areas. Under dualism, is the 3D world experienced by consciousness (a) a direct readout of the brain's 3D model, (b) a mind-side rendering that uses brain data as input, or (c) something else entirely? Builds on research tasks above. Place in topics/. Builds on perception-and-conscious-experience.md, the-binding-problem-a-systematic-treatment.md, phenomenology-of-perceptual-constancy.md.
+- **Generated**: 2026-03-08
+
+### P1: Write article on perceptual fidelity and the interface — the blur paradox
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Why does optical blur pass through to conscious experience? The brain performs object recognition on blurred input (you can still identify objects with wrong glasses), can generate flawless imagery without any input (lucid dreams), and corrects for many perceptual distortions (blind spot filling, colour constancy, size constancy). Yet blur is faithfully transmitted to consciousness. This paradox reveals something important about the interface architecture: it appears to have high-fidelity channels that transmit raw sensory quality alongside the processed, reconstructed content. The blur paradox, combined with cases where correction does occur, maps the interface's functional anatomy. Argue that this is evidence for a multi-channel interface rather than simple information transfer. Builds on research tasks above. Place in topics/. Builds on perception-and-conscious-experience.md, phenomenology-of-perceptual-constancy.md, interface-friction.md, brain-interface-boundary.md.
+- **Generated**: 2026-03-08
+
+### P1: Write article on lucid dreaming as capability evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Lucid dreams provide a natural experiment in capability division. During a lucid dream, sensory input is absent but conscious experience is vivid, spatially structured, and temporally continuous. The dreamer exercises agency, makes decisions, recognises objects, navigates 3D space. If the brain generates dream imagery, this demonstrates massive reconstruction capability — but raises the question of why this capability isn't deployed during waking perception to correct blur, tinnitus, or other degradation. If the mind generates dream imagery (using its own rendering capability), this explains why dream quality is independent of sensory input quality but raises questions about the interface's role during waking. Either answer is philosophically significant. Builds on research tasks above. Place in topics/. Builds on dream-consciousness.md, filter-theory.md, perception-and-conscious-experience.md.
+- **Generated**: 2026-03-08
+
 ### P2: Cross-review memory articles in light of dual-domain capability framework
 - **Type**: cross-review
 - **Status**: pending
