@@ -4,7 +4,7 @@ description: "When perception degrades, it reveals something unexpected: the int
 created: 2026-03-09
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-09T13:26:00+00:00
+ai_modified: 2026-03-09T13:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[phenomenology]]"
   - "[[filter-theory]]"
   - "[[attention-as-interface]]"
+  - "[[interface-friction]]"
 related_articles:
   - "[[tenets]]"
   - "[[perception-and-conscious-experience]]"
@@ -24,11 +25,14 @@ related_articles:
   - "[[phenomenal-transparency]]"
   - "[[visual-consciousness]]"
   - "[[phenomenology-of-perceptual-constancy]]"
+  - "[[the-bandwidth-of-consciousness]]"
+  - "[[the-interface-specification-problem]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-09
 last_curated:
+last_deep_review: 2026-03-09T13:42:00+00:00
 ---
 
 The Unfinishable Map argues that perception operates through an interface—a structured medium between consciousness and the physical world. Normal perception conceals this interface: experience feels like direct contact with reality. But when perception degrades—through blur, visual noise, or neurological damage—something paradoxical happens. The less faithfully experience tracks the external world, the more visible the interface becomes. This is the blur paradox: degraded perception is epistemically richer about the nature of experience itself, precisely because it is epistemically poorer about the world.
@@ -41,7 +45,7 @@ Normal perception is [[phenomenal-transparency|phenomenally transparent]]. When 
 
 Blur shatters this transparency. Remove your glasses, and you don't merely lose information about the external world—you gain something: awareness of the medium through which you were perceiving. The blurriness is not a property of the objects you're looking at. It is a property of *your experience*. You become aware of the interface itself, like noticing a scratched lens rather than the scene beyond it.
 
-This is not a minor inconvenience for representationalism. If phenomenal character supervenes entirely on representational content directed at external objects, then blur should be explicable as representing some external property—perhaps the spatial indeterminacy of object boundaries. But this move fails. As critics have noted, maximally blurry experiences manifestly lack details present in clear experiences, and the degradation in phenomenal content outstrips any plausible change in what is being represented about the world. The qualitative character of blur—its softness, its haziness, its particular texture—is a feature of experience that has no home in the external physical scene.
+This is not a minor inconvenience for representationalism. If phenomenal character supervenes entirely on representational content directed at external objects, then blur should be explicable as representing some external property—perhaps the spatial indeterminacy of object boundaries. But this move fails. As Martina (2023) argues, maximally blurry experiences manifestly lack details present in clear experiences, and the degradation in phenomenal content outstrips any plausible change in what is being represented about the world. The qualitative character of blur—its softness, its haziness, its particular texture—is a feature of experience that has no home in the external physical scene.
 
 ## Blur as Interoception {#interoception}
 
@@ -49,17 +53,17 @@ Błażej Skrzypulec has proposed an alternative: blur is *interoceptive*. Rather
 
 This interoceptive account captures something important. Blur motivates self-directed actions—squinting, adjusting focal distance, reaching for glasses. These responses target the visual system itself, not external objects. The experience of blur justifies beliefs about your own perceptual state, not beliefs about the world.
 
-For the Map's framework, interoceptive blur is revealing. If the visual system can represent its own condition, then experience has a self-referential dimension that purely world-directed accounts miss. The interface doesn't just present the world; it can present information about its own functioning. This self-monitoring capacity suggests the interface is more than a passive channel—it is a structured medium with its own phenomenal properties.
+A physicalist might take interoceptive blur as unproblematic: the visual system monitors its own state, and that monitoring is just more neural processing. But notice what interoception requires. The system doesn't merely degrade—it generates a *new qualitative character* (the felt haziness, the soft texture of blur) that represents the degradation. This qualitative character is not present in the neural signals themselves; it is the way those signals appear *to someone*. Interoception, far from domesticating blur for physicalism, doubles down on the hard problem: now we need to explain not just why external stimuli feel like something, but why the system's own operational states feel like something too. For the Map's framework, this is the interface revealing itself—presenting information about its own functioning in a way that requires an experiencing subject.
 
 ## The Gradation Problem {#irreducibility-argument}
 
-The spectrum from clear vision through progressive blur to near-blindness creates a problem for physicalist accounts of consciousness. If consciousness emerges at some threshold of neural complexity—a widespread assumption in materialist philosophy of mind—then it should be difficult to degrade gradually. Emergent phenomena typically have critical thresholds: water is either boiling or not, a neural network either classifies correctly or doesn't.
+The spectrum from clear vision through progressive blur to near-blindness creates a problem for physicalist accounts of consciousness. If consciousness emerges at some threshold of neural complexity—a widespread assumption in materialist philosophy of mind—then its presence should be an all-or-nothing matter. The standard materialist story treats consciousness as appearing when neural organisation crosses a complexity threshold, much as liquidity appears when enough water molecules interact. Below the threshold: no consciousness. Above it: consciousness. This binary framing sits uneasily with what blur actually reveals.
 
 Yet consciousness degrades smoothly. Ian Phillips has argued convincingly that even blindsight—residual vision after primary visual cortex damage—is not unconscious perception but "qualitatively degraded conscious vision" (Phillips, 2021). Subjects with blindsight have dim, impoverished experiences but adopt conservative reporting criteria, denying they "see" because their experience falls below their threshold for confident visual report. Using signal detection theory, Phillips shows the data fit a degraded-conscious model better than a conscious/unconscious binary.
 
 If Phillips is right, the boundary between seeing and not-seeing dissolves into a continuum: vivid clarity, soft blur, dim awareness, faint registration. Consciousness admits of degrees in a way that threshold-emergence models struggle to explain. A fundamental property—one that can be present in greater or lesser degree, like temperature or charge—fits this gradation naturally. An emergent property that depends on reaching the right level of computational complexity does not.
 
-The Map interprets this gradation as varying fidelity of the interface. Consciousness does not appear and disappear at neural thresholds. It operates with greater or lesser clarity depending on how well the neural interface transmits information between the physical world and the experiencing subject. Blur is low-fidelity interface operation, not partial existence.
+The Map interprets this gradation as varying fidelity of the interface. Consciousness does not appear and disappear at neural thresholds. It operates with greater or lesser clarity depending on how well the neural interface transmits information between the physical world and the experiencing subject—a question closely related to [[the-bandwidth-of-consciousness|the bandwidth of consciousness]]. Blur is low-fidelity interface operation, not partial existence.
 
 ## Eigengrau and the Baseline of Experience
 
@@ -67,7 +71,7 @@ Close your eyes in complete darkness. You don't see nothing—you see *eigengrau
 
 Eigengrau is difficult for any account that treats conscious experience as fundamentally a readout of external physical information. If experience were simply the brain's way of making external stimuli available for behaviour, then zero input should yield zero experience. Instead, the visual system maintains a phenomenal baseline. There is always something it is like to have a visual system, even when that system receives nothing from the outside world.
 
-This baseline experience supports the Map's claim that consciousness contributes something of its own to perception. The interface is not merely a conduit; it generates phenomenal content from its own activity. The "noise floor" of perception—eigengrau, phosphenes, visual snow—is the interface revealing itself in the absence of signal.
+This baseline experience supports the Map's claim that consciousness contributes something of its own to perception. The interface is not merely a conduit; it generates phenomenal content from its own activity. The "noise floor" of perception—eigengrau, phosphenes, visual snow—is the interface revealing itself in the absence of signal. The question of what this interface *is* and where it sits remains one of the Map's central open problems (see [[the-interface-specification-problem|the interface specification problem]]).
 
 ## The Blur Paradox Stated
 
@@ -89,6 +93,8 @@ The blur paradox engages several of the Map's [[tenets]].
 
 **Minimal Quantum Interaction**: If perception operates through an interface, then that interface must connect to the physical world somewhere. The Map proposes that this connection occurs at quantum indeterminacies in neural systems, where consciousness biases otherwise undetermined outcomes. Blur—as reduced interface fidelity—suggests that the quality of conscious experience depends on the bandwidth of this connection. When neural systems are damaged or degraded, less information crosses the interface, and experience becomes impoverished.
 
+**Bidirectional Interaction**: The blur paradox implies that perception is not a one-way broadcast from world to mind. When blur triggers squinting, reaching for glasses, or adjusting focal distance, the experiencing subject responds to the interface's self-report by acting on the physical world. Information about the interface's own state—its [[interface-friction|friction]]—flows from the phenomenal domain into physical behaviour. This is bidirectional causation in miniature: the world degrades the signal, consciousness registers the degradation as felt blur, and then consciousness acts to restore fidelity.
+
 **Occam's Razor Has Limits**: The simplest account of blur—that it represents an external property—fails on close examination. The richer account—that blur reveals a phenomenal contribution from a non-physical subject—is more complex but accommodates the data. This is precisely the kind of case where parsimony misleads: the apparently simpler theory cannot handle the phenomenon, and the apparently more complex theory provides the better explanation.
 
 ## Further Reading
@@ -98,6 +104,9 @@ The blur paradox engages several of the Map's [[tenets]].
 - [[sensorimotor-contingencies-and-the-interface]]
 - [[visual-consciousness]]
 - [[phenomenology-of-perceptual-constancy]]
+- [[the-bandwidth-of-consciousness]]
+- [[the-interface-specification-problem]]
+- [[interface-friction]]
 
 ## References
 
