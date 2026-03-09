@@ -440,6 +440,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. How small quantum biases become macroscopic behavioural selection—referenced across many articles as unresolved but lacking a dedicated treatment of the problem space and candidate solutions. Builds on consciousness-selecting-neural-patterns.md, mind-matter-interface.md, stapp-quantum-mind.md. See optimistic-2026-03-08-afternoon.md
 - **Generated**: 2026-03-08
 
+### P3: Write concept page for capability division
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The framework for distinguishing brain-contributed from consciousness-contributed capacities. Referenced across lucid-dreaming-as-capability-evidence.md, memory-as-dual-domain-capability.md, consciousness-as-amplifier.md, and perceptual-fidelity-and-the-interface.md but lacking its own concept page. See optimistic-2026-03-09-afternoon.md
+- **Generated**: 2026-03-09
+
+### P3: Write article on medical phenomenology under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has strong theoretical foundations but limited engagement with how consciousness-irreducibility transforms medical practice—pain treatment, anaesthetic monitoring, psychiatric diagnosis as interface disorders. Builds on interface-friction.md, emotion-as-evidence-for-dualism.md, anaesthesia-and-the-consciousness-interface.md. See optimistic-2026-03-09-afternoon.md
+- **Generated**: 2026-03-09
+
 ## Completed Tasks
 
 
