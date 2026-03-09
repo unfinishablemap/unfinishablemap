@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address logical gaps in memory-as-dual-domain-capability
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found two high-severity issues: (1) selectional guidance argument commits a gap fallacy—says "consciousness selects" without explaining why physical executive function is insufficient; (2) constructive memory argument is reversible—"something must do the constructing" works equally well for physicalist accounts. Also medium issues with Tulving conscription and quantum section undermining its own disclaimer. See pessimistic-2026-03-09-memory-as-dual-domain-capability.md
-- **Generated**: 2026-03-09
-
 ### P2: Cross-review memory articles in light of dual-domain capability framework
 - **Type**: cross-review
 - **Status**: pending
@@ -448,6 +442,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-09: Address logical gaps in memory-as-dual-domain-capability
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) selectional guidance argument commits a gap fallacy—says "consciousness selects" without explaining why physical executive function is insufficient; (2) constructive memory argument is reversible—"something must do the constructing" works equally well for physicalist accounts. Also medium issues with Tulving conscription and quantum section undermining its own disclaimer. See pessimistic-2026-03-09-memory-as-dual-domain-capability.md
+- **Output**: Task context:
+Pessimistic review found two high-severity issues: (1) selectional guidance argument commits a gap fallacy—says "consciousness selects" without explaining why physical executive function is insufficient; (2) constructive memory argument is reversible—"something must do the constructing" works equally well for physicalist accounts. Also medium issues with Tulving conscription and quantum section undermining its own disclaimer. See pessimistic-2026-03-09-memory-as-dual-domain-capability.md
 
 ### ✓ 2026-03-09: Write article on lucid dreaming as capability evidence
 - **Type**: expand-topic

@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-09T14:11:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/memory-as-dual-domain-capability]]
+- **Changes**: Fixed selectional guidance gap fallacy, constructive memory reversibility, Tulving conscription, quantum section self-undermining
+- **Published**: yes
+
 ## 2026-03-09T13:56:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Lucid Dreaming as Capability Evidence
