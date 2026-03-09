@@ -4,7 +4,7 @@ description: "Fundamental principles specifying how conscious states influence w
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-03-02T15:52:00+00:00
+ai_modified: 2026-03-09T16:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated:
-last_deep_review: 2026-02-02T18:28:00+00:00
+last_deep_review: 2026-03-09T16:26:00+00:00
 ---
 
 Selection laws are fundamental principles specifying how conscious states influence which physical outcomes become actual. They constitute the *downward* direction of [[psychophysical-laws]]—the direction The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires. While supervenience laws run upward (physical states → experiences), selection laws run downward (conscious states → physical selections).
@@ -57,17 +57,17 @@ A complete selection law would answer:
 - Measurement basis selection
 - Collapse timing
 
-**3. Bandwidth constraints**: How much selection can consciousness accomplish per unit time? Research suggests conscious processing operates at approximately 10 bits per second—sharply limiting selection to coarse-grained choices (action patterns, not individual neurons).
+**3. Bandwidth constraints**: How much selection can consciousness accomplish per unit time? Research suggests conscious processing operates at approximately 10 bits per second—sharply limiting selection to coarse-grained choices (action patterns, not individual neurons). The [[bandwidth-problem-mental-causation]] explores this constraint in depth.
 
 **4. Scope constraints**: What is *not* selectable? External quantum systems, others' brains, events outside attention—selection operates through the brain's representational interface.
 
-Without answers to these questions, "consciousness selects" remains metaphorical rather than scientific.
+Without answers to these questions, "consciousness selects" remains metaphorical rather than scientific. The [[the-interface-specification-problem|interface specification problem]] examines the epistemic challenges of answering them.
 
 ## Why Quantum Selection?
 
 Selection laws naturally locate at quantum indeterminacies. Classical physics is deterministic—if physics fixes the outcome, there's no room for consciousness to determine anything. Quantum mechanics provides probability distributions without determining specific outcomes. That gap is where selection laws operate.
 
-This connects to the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness biases which of several quantum-mechanically possible outcomes becomes actual, without violating conservation laws or injecting energy. The selection is minimal—the smallest deviation from standard physics that permits downward causation.
+This connects to the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness biases which of several quantum-mechanically possible outcomes becomes actual, without violating conservation laws or injecting energy. Since quantum mechanics assigns probabilities to outcomes but doesn't determine which occurs, shifting those probabilities requires no energy injection—the total probability still sums to one. The selection is minimal—the smallest deviation from standard physics that permits [[downward-causation]].
 
 ## Candidate Selection Laws
 
@@ -81,7 +81,7 @@ Henry Stapp's quantum Zeno model connects attention to selection: conscious atte
 
 ### Intention as Probability Weighting (Eccles)
 
-John Eccles proposed that intention modulates quantum tunneling probability in neurotransmitter release. The brain prepares action possibilities; consciousness biases which patterns dominate.
+John Eccles proposed that intention modulates quantum tunneling probability in neurotransmitter release. The brain prepares action possibilities; consciousness biases which patterns dominate. While neuroscientists have largely rejected Eccles' specific synaptic mechanism, the structural idea—intention biasing probabilities over prepared action patterns—remains a template for how selection laws might work.
 
 **Selection law**: Intention strength → vesicle release probability → action selection.
 
@@ -151,7 +151,11 @@ None of these currently succeeds, but they mark conditions under which the frame
 - [[psychophysical-coupling]] — The coupling law problem and candidate mechanisms
 - [[psychophysical-laws-bridging-mind-and-matter]] — Integrated overview of the framework
 - [[mental-causation]] — How consciousness affects physical outcomes
+- [[downward-causation]] — The general framework for higher-level causes affecting lower-level processes
 - [[quantum-consciousness]] — Quantum mechanisms for selection
+- [[bandwidth-problem-mental-causation]] — The ~10 bits/second constraint on conscious selection
+- [[the-interface-specification-problem]] — Epistemic challenges of specifying the mind-matter interface
+- [[the-psychophysical-control-law]] — Formal approaches to the control relationship
 - [[stapp-quantum-mind]] — The attention-observation mechanism in detail
 - [[concepts/epiphenomenalism]] — The view selection laws are designed to avoid
 - [[topics/free-will]] — How selection laws provide a mechanism for libertarian free will
