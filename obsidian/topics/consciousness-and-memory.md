@@ -4,7 +4,7 @@ description: "Memory is not storage but structured re-experiencing—and the hie
 created: 2026-02-08
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-04T13:38:00+00:00
+ai_modified: 2026-03-09T11:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,12 +38,14 @@ related_articles:
   - "[[personal-identity]]"
   - "[[diachronic-agency-and-personal-narrative]]"
   - "[[incubation-effect-and-unconscious-processing]]"
+  - "[[capability-division-problem]]"
+  - "[[memory-as-dual-domain-capability]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-08
 last_curated:
-last_deep_review: 2026-02-12T19:34:00+00:00
+last_deep_review: 2026-03-09T11:17:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-memory/"
   - "/topics/consciousness-and-memory-consolidation/"
@@ -75,7 +77,9 @@ Memory formation divides into a conscious phase (encoding) and an unconscious ph
 
 During NREM slow-wave sleep, the hippocampus replays recent experiences through sharp-wave ripples (100–250 Hz) coordinated with thalamocortical sleep spindles (10–16 Hz) and cortical slow oscillations (less than 1 Hz), gradually transferring memory traces to long-term cortical storage. A 2023 *Nature Neuroscience* study (Geva-Sagiv et al.) provided causal evidence for this coordination: augmenting hippocampal-prefrontal synchrony during sleep through closed-loop stimulation enhanced consolidation measurably. Multiple memory traces replay simultaneously—unlike the [[bandwidth-of-consciousness|serial bottleneck]] of human behavioural throughput, estimated at roughly 10 bits per second (Zheng & Meister 2025). Cross-memory linking strengthens thematic connections. New memories integrate with existing cortical schemas. All of this without the phenomenal unity, temporal ordering, or attentional selection that characterise waking thought.
 
-This split is puzzling on materialist accounts. If consciousness is identical to certain neural processes, why would some stages of a single memory system require it while others do not? A Global Workspace Theory proponent might respond that encoding requires global broadcasting for attentional selection while consolidation uses local hippocampal replay that does not—but this relocates the question: why does global broadcasting produce experience while equally complex local processing does not? The dualist answer: consciousness participates at the point of selection—choosing what matters, what to attend to, what to encode—and withdraws once the selection is made. The brain handles storage; [[conscious-vs-unconscious-processing|consciousness handles significance]].
+This split exemplifies the Map's [[capability-division-problem|capability division problem]]: which memory operations belong to the brain and which require the mind? The encoding-consolidation dissociation provides an empirically grounded answer—the brain handles storage and replay, consciousness handles selectional significance. The [[memory-as-dual-domain-capability|dual-domain capability]] framework generalises this: memory's full operation requires contributions from both domains, with the division falling not at arbitrary boundaries but at the juncture between computational processing and phenomenal engagement.
+
+The split is puzzling on materialist accounts. If consciousness is identical to certain neural processes, why would some stages of a single memory system require it while others do not? A Global Workspace Theory proponent might respond that encoding requires global broadcasting for attentional selection while consolidation uses local hippocampal replay that does not—but this relocates the question: why does global broadcasting produce experience while equally complex local processing does not? The dualist answer: consciousness participates at the point of selection—choosing what matters, what to attend to, what to encode—and withdraws once the selection is made. The brain handles storage; [[conscious-vs-unconscious-processing|consciousness handles significance]].
 
 ### The Manipulation-Maintenance Distinction
 
@@ -97,9 +101,7 @@ The Map's [[attention-as-interface|interface hypothesis]] offers an explanation.
 
 ## Binding Without Unity
 
-The [[binding-problem|binding problem]] asks how distributed neural activity produces unified experience. Memory consolidation during sleep introduces a revealing variation: how can binding operations proceed *without* producing unified experience?
-
-During waking, binding and phenomenal unity co-occur. Seeing a red ball involves binding colour, shape, location, and movement into a unified percept. During sleep consolidation, analogous binding operations occur—linking spatial context to emotional tone, integrating a new memory with existing schemas, relating episodic details to semantic structures—but without generating unified experience.
+The [[binding-problem|binding problem]] asks how distributed neural activity produces unified experience. Memory consolidation introduces a revealing variation: during sleep, analogous binding operations occur—linking spatial context to emotional tone, integrating new memories with existing schemas—but without generating unified experience.
 
 This reveals that "binding" conflates two distinct phenomena. **Computational binding** is the neural process of linking distributed information into functional wholes. **Phenomenal binding** is the experiential unification of those wholes into something it is like to undergo. Sleep consolidation demonstrates that the first can occur without the second. The brain can integrate information across memory traces, build cross-memory connections, and update schemas—all binding operations—without the unity characteristic of conscious experience.
 
@@ -167,6 +169,8 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [[dream-consciousness]]
 - [[dreamless-sleep-void]]
 - [[consciousness-and-temporal-integration]]
+- [[capability-division-problem]]
+- [[memory-as-dual-domain-capability]]
 - [[consciousness-and-the-phenomenology-of-place]]
 
 ## References

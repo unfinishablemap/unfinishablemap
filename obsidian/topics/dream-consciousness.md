@@ -4,7 +4,7 @@ description: "Dreams provide the most accessible everyday evidence for the filte
 created: 2026-01-21
 modified: 2026-02-23
 human_modified: null
-ai_modified: 2026-03-08T13:26:00+00:00
+ai_modified: 2026-03-09T11:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,6 +43,8 @@ related_articles:
   - "[[dreams-problem-solving-lucid-dreaming-2026-02-06]]"
   - "[[consciousness-dreams-2026-01-14]]"
   - "[[dreams-lucid-dreaming-consciousness-2026-01-18]]"
+  - "[[capability-division-problem]]"
+  - "[[memory-as-dual-domain-capability]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -96,7 +98,7 @@ The dream evidence reveals an interface between consciousness and brain that adm
 | Lucid REM | Input gated, executive partial, cholinergic + gamma | Metacognitive, creative, partially controlled |
 | N1 hypnagogia | Input reducing, executive loosening, transitional | Maximally creative, loosely directed |
 
-Each configuration yields distinct cognitive capabilities. The pattern suggests consciousness operates *through* different neural configurations, each providing different tools and constraints. The interface admits reconfiguration without dissolution, consistent with the Map's [[interactionist-dualism|interactionist]] framework where consciousness and brain are distinct but coupled systems.
+Each configuration yields distinct cognitive capabilities—a pattern the Map's [[capability-division-problem|capability division problem]] identifies as fundamental to interactionist dualism. The brain provides different computational tools in each state; consciousness contributes phenomenal engagement, selectional guidance, and metacognitive oversight to varying degrees. The interface admits reconfiguration without dissolution, consistent with the Map's [[interactionist-dualism|interactionist]] framework where consciousness and brain are distinct but coupled systems.
 
 ## Lucid Dreaming as Distinct State
 
@@ -211,6 +213,8 @@ The Map's interpretation of dream consciousness would face difficulty if:
 - [[altered-states-of-consciousness]] — Interface configurations across altered states
 - [[phenomenology-of-choice]] — The qualitative character of voluntary selection
 - [[higher-order-theories]] — Higher-Order Thought theories challenged by non-lucid dream consciousness
+- [[capability-division-problem]] — Which capabilities belong to the brain and which to consciousness
+- [[memory-as-dual-domain-capability]] — Memory as a dual-domain capability requiring both physical and non-physical contributions
 
 ## References
 

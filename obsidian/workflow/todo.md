@@ -42,12 +42,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Pessimistic review found two high-severity issues: (1) correlation-to-constitution leap in External Validation section needs competing explanations acknowledged, (2) conflation of access consciousness with phenomenal consciousness when citing dual-process theory. Also needs to address AI mathematical discovery and aesthetic counterexamples. See pessimistic-2026-03-09.md
 
-### P1: Cross-review dream and memory articles for capability division implications
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Review dream-consciousness.md and consciousness-and-memory.md through the capability division lens. Does dream-consciousness.md address the paradox that dream imagery quality is independent of sensory input quality? Does consciousness-and-memory.md distinguish brain-side storage from mind-side phenomenal recall? Add cross-references to new articles. Look for opportunities to strengthen the dual-domain interpretation in existing content.
-- **Generated**: 2026-03-08
-
 ### P1: Cross-review interface articles for capability division consistency
 - **Type**: cross-review
 - **Status**: pending
@@ -483,6 +477,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-09: Cross-review dream and memory articles for capability division implications
+- **Type**: cross-review
+- **Notes**: Review dream-consciousness.md and consciousness-and-memory.md through the capability division lens. Does dream-consciousness.md address the paradox that dream imagery quality is independent of sensory input quality? Does consciousness-and-memory.md distinguish brain-side storage from mind-side phenomenal recall? Add cross-references to new articles. Look for opportunities to strengthen the dual-domain interpretation in existing content.
+- **Output**: None -- Context: Cross-review dream and memory articles for capability division implications
 
 ### ✓ 2026-03-09: Cross-review perception articles in light of capability division framework
 - **Type**: cross-review
