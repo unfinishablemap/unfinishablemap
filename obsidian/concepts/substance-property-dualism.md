@@ -4,7 +4,7 @@ description: "Two forms of dualism: separate mental substances versus irreducibl
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-02T18:52:00+00:00
+ai_modified: 2026-03-09T12:16:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[haecceity]]"
   - "[[causal-closure]]"
+  - "[[emergence]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100
@@ -29,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-02-03T10:37:00+00:00
+last_deep_review: 2026-03-09T12:16:00+00:00
 ---
 
 Dualism comes in two main varieties: substance dualism and property dualism. The first holds that mind and body are different *kinds of thing*—distinct substances. The second holds that mental properties are genuinely different from physical properties, without positing separate substances. Both reject [[concepts/materialism|materialism's]] claim that everything is ultimately physical, but they disagree about the underlying metaphysical structure.
@@ -78,7 +79,7 @@ Unlike substance dualism, property dualism doesn't posit a separate mental subst
 
 However, critics argue that Russellian monism inherits dualism's core difficulties. Pautz (2019) contends that it requires brute "grounding laws" connecting quiddities (intrinsic properties) to consciousness—structurally parallel to the brute psychophysical laws dualism posits: "Though called a physicalist view, it seems to have many of the vices of dualism." Russellian monism claims to avoid dualism's interaction problem by making consciousness "part of" physical reality, but the integration remains schematic. The Map's explicit dualism with its quantum interaction mechanism offers clearer theoretical content.
 
-**Emergent dualism** holds that mental properties emerge from physical complexity in ways that cannot be predicted or explained from physical theory alone. The emergence is ontological, not merely epistemic—mental properties are genuinely novel additions when complex systems arise.
+**Emergent dualism** holds that mental properties [[emergence|emerge]] from physical complexity in ways that cannot be predicted or explained from physical theory alone. The [[emergence]] is ontological, not merely epistemic—mental properties are genuinely novel additions when complex systems arise.
 
 ### The Appeal of Property Dualism
 
@@ -146,7 +147,7 @@ Tegmark (2000) calculated decoherence times for neural microtubules at 10⁻¹³
 
 **Biological quantum effects prove feasibility:** Avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds. Xu et al. (2026) at Princeton provided computational support for the radical pair mechanism in European robin cryptochrome. If evolution can optimise quantum effects for navigation, it might optimise them for consciousness.
 
-**Decoherence doesn't solve collapse:** As recent reviews note, "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Consciousness could bias outcomes at the point of measurement even after decoherence has selected preferred bases.
+**Decoherence doesn't solve collapse:** Decoherence suppresses quantum superpositions and selects preferred bases, but it leaves the system in a mixture of possible outcomes without determining which one is measured. Consciousness could bias outcomes at the point of measurement even after decoherence has done its work.
 
 ### Implications for the Distinction
 
@@ -164,7 +165,7 @@ What witness consciousness does suggest is that consciousness is not identical w
 
 ### The Buddhist Complication
 
-Buddhist [[Buddhism-and-dualism|analysis]] complicates the picture. Classical Buddhist philosophy denies the substantial self (anatta/anatman) while insisting on the reality of conscious moments (vijñāna). This sounds like property dualism without substance—phenomenal properties are real, but there is no persistent experiencer.
+Buddhist [[buddhism-and-dualism|analysis]] complicates the picture. Classical Buddhist philosophy denies the substantial self (anatta/anatman) while insisting on the reality of conscious moments (vijñāna). This sounds like property dualism without substance—phenomenal properties are real, but there is no persistent experiencer.
 
 However, Buddhist phenomenology also points to luminous awareness (vijñapti-matra) as fundamental. Whether this constitutes a "mental substance" or an "irreducible property" depends on how one maps Buddhist categories onto Western ontological frameworks.
 
@@ -243,19 +244,3 @@ The substance/property distinction matters less than it might seem for the Map's
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Xu, J. et al. (2026). Computational confirmation of the radical pair mechanism in European robin cryptochrome-4a. *Journal of the American Chemical Society*.
 1. Zimmerman, D. (2010). From property dualism to substance dualism. *Proceedings of the Aristotelian Society*, 84, 119-150.
-
-<!-- AI REFINEMENT LOG - 2026-03-02
-Changes made:
-- Fixed uncited Adam Pautz attribution: replaced paraphrase with direct quote from Pautz (2019), added citation to References
-- Fixed uncited "2026 Princeton study": added Xu et al. (2026) attribution and citation, softened "confirmed" to "provided computational support for"
-- Resolved neutrality/preference tension: changed "deliberately neutral" to "compatible with either", acknowledged interactionist property dualism as stable position
-- Reduced Process Philosophy section: trimmed from 3 subsections to concise acknowledgment that doesn't undermine the article's framework
-- Renamed "Relation to the Map's Perspective" to "Relation to Site Perspective" per style guide
-- Language: "exactly what" → "aligns with", "avoids this problem trivially" → "sidesteps this problem"
-- Qualified decoherence equal-impact claim to note it applies specifically when combined with quantum interaction theories
-
-Based on pessimistic review dated 2026-03-02.
-Key improvements: attribution accuracy, internal consistency, framework coherence.
-
-This log should be removed after human review.
--->
