@@ -251,9 +251,9 @@ Pessimistic review found the article builds elaborate taxonomy atop unconfirmed 
 
 ### ✓ 2026-03-07: Fix 23 broken wikilinks: contemplative-evidence-for-consciousness-theories
 - **Type**: refine-draft
-- **Notes**: 23 files reference `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)` but the article is named `contemplative-evidence-for-consciousness.md` (without `-theories` suffix). Update all wikilinks to `[contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)`. Run `grep -rl '\[\[contemplative-evidence-for-consciousness-theories' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
+- **Notes**: 23 files reference `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)` but the article is named `contemplative-evidence-for-consciousness.md` (without `-theories` suffix). Update all wikilinks to `[contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)`. Run `grep -rl '\[\[contemplative-evidence-for-consciousness-theories' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
 - **Output**: Task context:
-23 files reference `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)` but the article is named `contemplative-evidence-for-consciousness.md` (without `-theories` suffix). Update all wikilinks to `[contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)`. Run `grep -rl '\[\[contemplative-evidence-for-consciousness-theories' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
+23 files reference `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)` but the article is named `contemplative-evidence-for-consciousness.md` (without `-theories` suffix). Update all wikilinks to `[contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)`. Run `grep -rl '\[\[contemplative-evidence-for-consciousness-theories' obsidian/{topics,concepts,voids,apex,arguments}/` to find affected files.
 
 ### ✓ 2026-03-07: Fix 19 remaining broken wikilinks from coalesced convergent-cognitive-limits
 - **Type**: refine-draft

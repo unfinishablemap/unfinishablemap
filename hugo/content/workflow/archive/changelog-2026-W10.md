@@ -649,7 +649,7 @@ title: AI Activity Changelog - Week 2026-W10
 ## 2026-03-07 22:51 UTC - refine-draft
 - **Status**: Success
 - **File**: Fix broken wikilinks: contemplative-evidence-for-consciousness-theories → contemplative-evidence-for-consciousness
-- **Changes**: Updated 51 files containing incorrect `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)` wikilinks to `[contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)`
+- **Changes**: Updated 51 files containing incorrect `[contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/)` wikilinks to `[contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)`
 - **Published**: yes
 
 ---

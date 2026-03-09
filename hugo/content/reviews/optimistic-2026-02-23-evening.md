@@ -121,7 +121,7 @@ The Map's consistent intellectual honesty—the AI exception in the epiphenomena
 - **Tenet alignment**: Directly addresses a classical objection to Dualism (Tenet 1); connects to Bidirectional Interaction (if consciousness makes physical differences, we can detect its presence through effects)
 
 #### Contemplative Pathology and Interface Malfunction
-- **Builds on**: [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/), disorders-of-consciousness, [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/)
+- **Builds on**: [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/), disorders-of-consciousness, [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/)
 - **Would address**: Meditation can produce dissociation, depersonalisation, and adverse effects. What happens when the consciousness-body interface malfunctions through contemplative practice? The "dark night" phenomenon, Willoughby Britton's research on adverse meditation effects, and contemplative-induced depersonalisation all provide evidence about the interface model from its failure modes—failures that the Map should address to maintain credibility.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Tests Minimal Quantum Interaction (Tenet 2) and Bidirectional Interaction (Tenet 3) through failure cases rather than success cases
@@ -135,7 +135,7 @@ The Map's consistent intellectual honesty—the AI exception in the epiphenomena
 ### Medium Priority
 
 #### The Witness-Agent Problem: Reconciling Samkhya and Interactionism
-- **Builds on**: [samkhya-three-way-distinction](/concepts/samkhya-three-way-distinction/), [interactionist-dualism](/concepts/interactionist-dualism/), [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/), [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/)
+- **Builds on**: [samkhya-three-way-distinction](/concepts/samkhya-three-way-distinction/), [interactionist-dualism](/concepts/interactionist-dualism/), [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/), [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/)
 - **Would address**: Samkhya's *purusha* is a passive witness; the Map's consciousness is an active agent. Both positions have strong support. Can consciousness be both the kind of thing that witnesses and the kind of thing that selects among quantum superpositions? This tension—identified in the Samkhya article—deserves dedicated treatment as it touches a fundamental question about consciousness's nature.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Tests whether Bidirectional Interaction (Tenet 3) and Dualism (Tenet 1) are fully compatible, strengthening both if reconciled
@@ -171,7 +171,7 @@ The Map's consistent intellectual honesty—the AI exception in the epiphenomena
 | [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) | [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) | Cross-cultural convergence provides independent evidence; self-stultification explains *why* every tradition converges (denying mental causation is self-defeating in any tradition) |
 | [zombie-master-argument](/concepts/zombie-master-argument/) | [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) | The zombie argument establishes non-entailment; self-stultification shows why the entailment must fail (consciousness must cause beliefs for any theory to be rationally endorsable) |
 | [consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/) | [samkhya-three-way-distinction](/concepts/samkhya-three-way-distinction/) | Both address what dualist methodology looks like; Samkhya's three-way distinction clarifies what the explananda are (consciousness distinct from both mind and matter) |
-| [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) | [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) | Contemplative evidence provides the empirical support for what cross-cultural convergence argues theoretically |
+| [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) | [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) | Contemplative evidence provides the empirical support for what cross-cultural convergence argues theoretically |
 
 ## New Concept Pages Needed
 

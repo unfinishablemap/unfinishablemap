@@ -61,12 +61,12 @@ All attributions verified:
 ### Enhancements Made
 - Added free will connection in Causation section — links conscious causation to libertarian free will coherence
 - Added [free-will](/topics/free-will/) to related_articles frontmatter
-- Added [free-will](/topics/free-will/) and [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) to Further Reading
+- Added [free-will](/topics/free-will/) and [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) to Further Reading
 - Strengthened NCC section with falsifiability acknowledgment
 
 ### Cross-links Added
 - [free-will](/topics/free-will/) (body text, related_articles, Further Reading)
-- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) (Further Reading)
+- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) (Further Reading)
 
 ## Remaining Items
 

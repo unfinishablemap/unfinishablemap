@@ -40,7 +40,7 @@ Both fixes remain sound and the article's core arguments are well-structured.
 
 ### Low Issues Found
 
-- Contemplative neuroscience subsection mentions "default mode network modulation, gamma synchrony, frontal-parietal coherence patterns" without specific citations. These are well-established findings but could benefit from citations in a future review. Deferred—the article links to [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) which provides more detail.
+- Contemplative neuroscience subsection mentions "default mode network modulation, gamma synchrony, frontal-parietal coherence patterns" without specific citations. These are well-established findings but could benefit from citations in a future review. Deferred—the article links to [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) which provides more detail.
 
 ### Attribution Accuracy Check
 
@@ -85,8 +85,8 @@ All six major attributions verified as accurate:
 
 - [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
 - [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/)
-- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/)
-- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
+- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/)
+- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)
 - [introspection-rehabilitation](/topics/introspection-rehabilitation/)
 

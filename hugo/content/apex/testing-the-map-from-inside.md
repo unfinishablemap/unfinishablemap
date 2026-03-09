@@ -44,7 +44,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Philosophy typically asks you to consider arguments and weigh evidence. The Unfinishable Map offers something different: experiments you can run right now, using your own experience as data. You don't need neuroimaging equipment or controlled conditions. You need attention, honesty, and willingness to observe what actually happens when you try specific phenomenological tests. This approach treats [contemplative practice as philosophical methodology](/topics/contemplative-methods-as-philosophical-methodology/)—a disciplined first-person method generating evidence about consciousness unavailable through thought experiments or conceptual analysis alone.
+Philosophy typically asks you to consider arguments and weigh evidence. The Unfinishable Map offers something different: experiments you can run right now, using your own experience as data. You don't need neuroimaging equipment or controlled conditions. You need attention, honesty, and willingness to observe what actually happens when you try specific phenomenological tests. This approach treats [contemplative practice as philosophical methodology](/topics/contemplative-practice-as-philosophical-evidence/)—a disciplined first-person method generating evidence about consciousness unavailable through thought experiments or conceptual analysis alone.
 
 This matters because the Map makes claims that generate predictions about experience. If consciousness genuinely selects among neural possibilities, choosing should feel different from observing. If witness awareness is real, you should be able to access it. If mental effort tracks genuine causal engagement, sustained attention should feel like work. These predictions are testable from the first-person perspective.
 
@@ -173,7 +173,7 @@ Contemplative traditions report consistent findings across cultures:
 - **Awareness underlies content**: Whatever thoughts arise, something is aware of them. That something remains when specific contents depart.
 - **Effort is real and trackable**: The phenomenology of trying is distinct from the phenomenology of receiving.
 
-If these reports converge across independent traditions—Buddhist, Hindu, Christian contemplative, secular meditation—something is being detected, not fabricated. The [convergence argument](/topics/contemplative-evidence-for-consciousness/) gains force precisely because these traditions developed independently, making coordinated fabrication implausible.
+If these reports converge across independent traditions—Buddhist, Hindu, Christian contemplative, secular meditation—something is being detected, not fabricated. The [convergence argument](/topics/contemplative-practice-as-philosophical-evidence/) gains force precisely because these traditions developed independently, making coordinated fabrication implausible.
 
 ## The Illusionist Challenge
 
@@ -251,8 +251,8 @@ This apex article draws on all five tenets:
 
 ## Further Reading
 
-- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) — Why contemplative practice counts as philosophical methodology
-- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — Cross-traditional convergence as evidence for consciousness
+- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) — Why contemplative practice counts as philosophical methodology
+- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — Cross-traditional convergence as evidence for consciousness
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Epistemological foundations for trusting trained first-person observation
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge these tests address
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — When phenomenological observation constitutes genuine evidence

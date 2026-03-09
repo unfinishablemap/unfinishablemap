@@ -63,8 +63,8 @@ All six adversarial personas were applied. No new critical issues emerged beyond
 ### Cross-links Added
 
 **From this article (outbound):**
-- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/)
-- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
+- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/)
+- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)
 - [phenomenological-evidence](/concepts/phenomenological-evidence/)
 - [consciousness-and-agency](/apex/consciousness-and-agency/)
@@ -80,8 +80,8 @@ All six adversarial personas were applied. No new critical issues emerged beyond
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) (Further Reading)
 - [consciousness-and-agency](/apex/consciousness-and-agency/) (related_articles)
 - [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) (related_articles)
-- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) (related_articles)
-- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) (related_articles)
+- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) (related_articles)
+- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) (related_articles)
 
 ## Remaining Items
 

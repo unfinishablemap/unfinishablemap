@@ -61,7 +61,7 @@ topics: []
 ### Cross-links Added
 
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
-- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
+- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)
 
 ## Word Count
 

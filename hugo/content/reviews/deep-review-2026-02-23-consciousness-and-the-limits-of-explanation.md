@@ -62,7 +62,7 @@ All 13 specific scholarly attributions verified correct. No misattribution, drop
 - Tightened causal-mechanical and mysterianism sections to offset additions
 
 ### Cross-links Added
-- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — linked in first-person data resolution section
+- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — linked in first-person data resolution section
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) — added to Further Reading
 
 ## Remaining Items

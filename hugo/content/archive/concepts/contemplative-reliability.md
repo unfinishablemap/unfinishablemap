@@ -132,7 +132,7 @@ This gradient matters for assessing any philosophical argument that appeals to c
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — The epistemological framework treating contemplative practice as knowledge source
 - [introspection-rehabilitation](/topics/introspection-rehabilitation/) — The broader case for restoring introspection as a serious method
 - [introspection](/concepts/introspection/) — The reliability debate and the process/content distinction
-- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) — Contemplative practice as part of philosophy's toolkit
+- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) — Contemplative practice as part of philosophy's toolkit
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — The broader debate on integrating first-person and third-person methods
 - [neurophenomenology](/concepts/neurophenomenology/) — Varela's mutual constraint framework for cross-modal verification
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Empirical evidence on neural changes from contemplative training

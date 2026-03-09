@@ -50,7 +50,7 @@ Agency is not experienced the same way everywhere. Western philosophical traditi
 
 Eastern traditions often structure the experience differently. In Daoism, the highest form of agency is *wu wei*: action that arises without effortful willing, where the agent and the act are not experientially separated. The Daoist sage does not experience the deliberation-decision-ownership sequence that Western phenomenology takes as paradigmatic. In [Advaita Vedānta](/topics/eastern-philosophy-consciousness/), the witnessing self (*sākṣin*) observes action without claiming authorship — agency belongs to *prakṛti* (nature), while consciousness watches. Buddhist traditions dissolve the agent further: actions arise from causes and conditions without a permanent self who authors them, yet moral responsibility persists at the conventional level — wholesome and unwholesome intentions condition future experience through karma, even without an ultimate agent who bears the responsibility.
 
-These are not merely philosophical positions. They shape how practitioners actually experience their own actions. [Contemplative traditions](/topics/contemplative-methods-as-philosophical-methodology/) train specific modes of agency experience — meditators report shifts from effortful willing toward a more receptive, witnessing relationship with their own behaviour. Cross-cultural psychology confirms the variation: studies of agency attribution (Markus & Kitayama, 1991) show that individualist cultures emphasise personal control and internal locus of agency, while collectivist cultures distribute agency across relationships, social roles, and situational contexts.
+These are not merely philosophical positions. They shape how practitioners actually experience their own actions. [Contemplative traditions](/topics/contemplative-practice-as-philosophical-evidence/) train specific modes of agency experience — meditators report shifts from effortful willing toward a more receptive, witnessing relationship with their own behaviour. Cross-cultural psychology confirms the variation: studies of agency attribution (Markus & Kitayama, 1991) show that individualist cultures emphasise personal control and internal locus of agency, while collectivist cultures distribute agency across relationships, social roles, and situational contexts.
 
 ## Invariants Beneath the Variation
 
@@ -104,7 +104,7 @@ The Map's commitment to Occam's Razor having limits is also relevant. The "simpl
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
 - [process-philosophy](/concepts/process-philosophy/)
 - [phenomenology of flow states](/topics/consciousness-and-skilled-performance/)
-- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/)
+- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/)
 - [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/) — Apex synthesis: how cross-cultural invariants join effort, selection, and holding in a unified phenomenological profile
 
 ## References

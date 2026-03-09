@@ -64,7 +64,7 @@ topics: []
 - [process-philosophy](/concepts/process-philosophy/) — in the Whiteheadian convergence discussion
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — in the agency-without-self section
 - [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) — in the first invariant
-- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) — in the cultural shaping section
+- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) — in the cultural shaping section
 - [volitional-opacity](/voids/introspective-opacity/) — strengthened existing link with "genuine void" framing
 - 4 new entries in Further Reading and related_articles frontmatter
 

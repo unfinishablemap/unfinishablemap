@@ -32,7 +32,7 @@ topics: []
 - **FBT theorem presented without counterarguments**: Resolution: Added "The theorem is contested—critics argue that fitness-relevant perception often tracks truth to a useful degree" and adjusted framing from "show" to "argue."
 - **Kant paragraph overlong for novelty added**: Resolution: Compressed from 4 sentences to 2, retaining the key insight that transparency goes further than Kant's structural point.
 - **Simulation irresolvability overclaimed**: Resolution: Softened from "epistemically irresolvable in principle" to "resistant to direct resolution" and acknowledged theoretical reasoning may provide indirect purchase.
-- **Missing cross-links**: Resolution: Added inline links to [phenomenal-consciousness](/concepts/phenomenal-consciousness/), [mysterianism](/concepts/mysterianism/), [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/), [explanatory-gap](/concepts/explanatory-gap/).
+- **Missing cross-links**: Resolution: Added inline links to [phenomenal-consciousness](/concepts/phenomenal-consciousness/), [mysterianism](/concepts/mysterianism/), [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/), [explanatory-gap](/concepts/explanatory-gap/).
 - **Missing citation for meditation claims**: Resolution: Added Lutz & Thompson (2003) reference.
 
 ### Counterarguments Considered
@@ -62,7 +62,7 @@ topics: []
 ### Cross-links Added
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — inline in opening
 - [mysterianism](/concepts/mysterianism/) — inline in epistemic circularity section
-- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) — inline in meditation paragraph
+- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) — inline in meditation paragraph
 - [explanatory-gap](/concepts/explanatory-gap/) — inline in dualism tenet section
 - All four also added to Further Reading and related_articles frontmatter
 

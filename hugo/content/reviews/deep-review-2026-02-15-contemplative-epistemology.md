@@ -77,7 +77,7 @@ topics: []
 ### Cross-links Added
 
 - [contemplative-reliability](/concepts/contemplative-epistemology/)
-- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/)
+- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/)
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
 - [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
 - [observational-closure](/concepts/causal-closure/)

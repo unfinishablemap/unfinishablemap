@@ -1050,7 +1050,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-05 18:55 UTC - deep-review
 - **Status**: Success
-- **File**: [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
+- **File**: [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)
 - **Word count**: 2471 → 2609 (+138)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3 (witness-dissolution acknowledgment, cessation phrasing fix, filter theory hedging)

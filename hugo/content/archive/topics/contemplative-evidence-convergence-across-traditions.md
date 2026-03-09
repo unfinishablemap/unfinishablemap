@@ -132,7 +132,7 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) connects through th
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — When convergence constitutes genuine evidence
 - [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) — The witness phenomenon across traditions
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Hindu, Buddhist, and Taoist traditions on consciousness
-- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) — Contemplative practice as philosophical method
+- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) — Contemplative practice as philosophical method
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — Why both perspectives are necessary
 - [introspection-rehabilitation](/topics/introspection-rehabilitation/) — Defending introspective evidence against sceptical challenge
 

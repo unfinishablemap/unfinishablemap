@@ -132,7 +132,7 @@ The Map interprets cross-cultural convergence as one strand among several suppor
 - [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) — How cognitive limits converge across cultures
 - [intuitive-dualism](/concepts/intuitive-dualism/) — Empirical evidence on whether dualism is innate or learned
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Meta-level argument from epistemic humility
-- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) — Contemplative traditions as philosophical methodology
+- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) — Contemplative traditions as philosophical methodology
 
 ## References
 

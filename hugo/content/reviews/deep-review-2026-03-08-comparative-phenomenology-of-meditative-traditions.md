@@ -48,14 +48,14 @@ topics: []
 
 ### Cross-links Added (Inbound — from other articles to this one)
 1. [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) — Added in the Eastern Philosophy section where cross-traditional convergence is discussed
-2. [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — Added in the "Where Convergence Fails" section on the status of the observer
+2. [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — Added in the "Where Convergence Fails" section on the status of the observer
 3. [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Added in the Cross-Traditional Convergences section
 4. [witness-consciousness](/concepts/witness-consciousness/) — Added after Buddhist perspectives section, bridging to cross-traditional analysis
 5. [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Added after Buddhist Phenomenology section on cross-traditional meditation taxonomy
 6. [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — Added in Convergence Across Traditions section with concrete contemplative instance
 7. [neurophenomenology](/concepts/neurophenomenology/) — Added in Contemplative Science section on the constructed self
 8. [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — Added in Cross-Cultural Convergence Argument section
-9. [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) — Added in Theory-Ladenness Objection section
+9. [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) — Added in Theory-Ladenness Objection section
 10. [contemplative-epistemology](/concepts/contemplative-epistemology/) — Added in Tradition-dependence challenge section
 11. [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — Added in Robustness Under Variation section
 12. [contemplative-path](/apex/contemplative-path/) (apex) — Added in witness consciousness discussion

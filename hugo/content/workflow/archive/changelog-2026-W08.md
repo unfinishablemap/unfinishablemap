@@ -273,7 +273,7 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-22 15:02 UTC - refine-draft
 - **Status**: Success
-- **File**: [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
+- **File**: [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)
 - **Changes**: Fixed causal efficacy / non-physical causation conflation (physicalists accept neuroplasticity equally), replaced eliminability non-sequitur with explanatory gap argument, reframed interactionism section to acknowledge physicalist compatibility, added selection bias acknowledgment, strengthened cessation dissociation qualification
 - **Based on**: pessimistic review (2 high-severity, 2 medium-severity issues addressed)
 - **Published**: yes
@@ -500,8 +500,8 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-22 11:55 UTC - coalesce
 - **Status**: Success
-- **Sources**: [contemplative-evidence-convergence-across-traditions](/topics/contemplative-evidence-for-consciousness/), [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
-- **Target**: [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
+- **Sources**: [contemplative-evidence-convergence-across-traditions](/topics/contemplative-evidence-for-consciousness/), [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)
+- **Target**: [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)
 - **Archived**: archive/topics/contemplative-evidence-convergence-across-traditions.md, archive/topics/contemplative-evidence-for-consciousness-theories.md
 - **References to review**: 28 active content files (follow-up task created)
 
@@ -965,7 +965,7 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-22 03:59 UTC - condense
 - **Status**: Success
-- **File**: [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
+- **File**: [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)
 - **Before**: 4428
 - **After**: 2620
 - **Reduction**: 41%
@@ -2360,7 +2360,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-19 15:36 UTC - coalesce
 - **Status**: Success
 - **Sources**: Contemplative Verification Of Consciousness Theories, Contemplative Training And Phenomenal Access
-- **Target**: [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
+- **Target**: [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)
 - **Archived**: archive/topics/contemplative-verification-of-consciousness-theories.md, archive/topics/contemplative-training-and-phenomenal-access.md
 - **References to review**: 9 active content files
 

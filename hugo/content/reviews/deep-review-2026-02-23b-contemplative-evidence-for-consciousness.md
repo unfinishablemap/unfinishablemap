@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-23
-**Article**: [Contemplative Evidence for Consciousness](/topics/contemplative-evidence-for-consciousness/)
+**Article**: [Contemplative Evidence for Consciousness](/topics/contemplative-practice-as-philosophical-evidence/)
 **Previous review**: [2026-02-23](/reviews/deep-review-2026-02-23-contemplative-evidence-for-consciousness/)
 
 ## Pessimistic Analysis Summary

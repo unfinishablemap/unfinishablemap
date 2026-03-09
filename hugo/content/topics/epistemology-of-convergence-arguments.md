@@ -174,7 +174,7 @@ The Map treats convergence as genuine evidence while acknowledging its limits. C
 - [intuitive-dualism](/concepts/intuitive-dualism/) — Empirical evidence on whether dualism is innate or learned
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Meta-level argument from epistemic humility
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why parsimony fails in this debate
-- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) — Convergence across contemplative traditions
+- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) — Convergence across contemplative traditions
 - [the-case-for-dualism](/concepts/the-case-for-dualism/) — The individual arguments catalogued
 - [methodological-pluralism](/concepts/methodological-pluralism/) — Multiple methods as a philosophical approach
 

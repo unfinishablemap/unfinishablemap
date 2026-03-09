@@ -120,7 +120,7 @@ Contemplative epistemology faces genuine difficulties.
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer phenomenon as key contemplative finding
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Active selection and passive witnessing as distinct epistemic modes
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — Applying contemplative knowledge to test philosophical positions
-- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) — Contemplative practice as a tool for philosophical inquiry
+- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) — Contemplative practice as a tool for philosophical inquiry
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — The methodological gap between subjective and objective approaches
 - [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) — Why standard scientific methodology struggles with consciousness
 - [phenomenology](/concepts/phenomenology/) — The philosophical tradition grounding contemplative methods

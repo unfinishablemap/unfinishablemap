@@ -31,6 +31,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
 last_deep_review: 2026-02-16T06:25:00+00:00
+archived: true
+archived_date: 2026-03-09T21:41:00+00:00
+superseded_by: "/topics/contemplative-practice-as-philosophical-evidence/"
+archive_reason: "Coalesced into Contemplative Practice as Philosophical Evidence"
+original_path: "/topics/contemplative-methods-as-philosophical-methodology/"
 ---
 
 Philosophy has a toolkit. Thought experiments test intuitions against imagined scenarios. Conceptual analysis clarifies what terms mean and entail. Phenomenological reduction brackets assumptions to attend to experiential structure. Dialectical argument develops positions through structured opposition. The Unfinishable Map argues that contemplative practice—meditation, sustained introspective training, disciplined first-person inquiry—belongs in this toolkit as a distinct philosophical method, one that generates evidence about consciousness unavailable through any of the standard approaches.

@@ -169,7 +169,7 @@ Normative conflict unfolds in time with a distinctive rhythm.
 
 If normative properties have genuine phenomenal character, they can be perceived—and perception can fail. Ethical blindness—temporary inability to perceive moral dimensions—has been documented in organisational psychology research (Palazzo, Krings & Hoffrage 2012). The Map suggests parallel forms across domains: epistemic blindness (failing to perceive evidential weight), aesthetic blindness (failing to register beauty), and prudential blindness (failing to perceive risks to one's wellbeing).
 
-If normative properties are perceived rather than inferred, then normative education is perceptual training. [Contemplative traditions](/topics/contemplative-evidence-for-consciousness/) have long held that sustained practice deepens normative perception. Buddhist *vipassanā* sharpens awareness of impermanence, suffering, and non-self—though Buddhist philosophy uses this sharpened perception to question the inherent reality of normative properties, a tension the Map acknowledges.
+If normative properties are perceived rather than inferred, then normative education is perceptual training. [Contemplative traditions](/topics/contemplative-practice-as-philosophical-evidence/) have long held that sustained practice deepens normative perception. Buddhist *vipassanā* sharpens awareness of impermanence, suffering, and non-self—though Buddhist philosophy uses this sharpened perception to question the inherent reality of normative properties, a tension the Map acknowledges.
 
 Normative conflict reveals a different kind of limit: not the absence of perception but its *excess*. In tragic dilemmas, the problem is not that the agent fails to perceive moral properties but that she perceives too many, pulling in incompatible directions. The [normative-void](/voids/normative-void/) explores the outer boundary: entire domains of normative truth structurally inaccessible to human minds.
 
@@ -197,7 +197,7 @@ The phenomenology of normative experience connects to the Map's [foundational co
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Beauty and ugliness as irreducible phenomenal features
 - [normative-void](/voids/normative-void/) — Where normative perception reaches its limits
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value
-- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — Contemplative deepening of normative perception
+- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — Contemplative deepening of normative perception
 - [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-normative-force/) — How consciousness grounds normative authority
 - [free-will](/topics/free-will/) — Normative conflict as the site of genuine choice
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — When choice engages consciousness's selection function

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-16
-**Article**: [Contemplative Methods as Philosophical Methodology](/topics/contemplative-methods-as-philosophical-methodology/)
+**Article**: [Contemplative Methods as Philosophical Methodology](/topics/contemplative-practice-as-philosophical-evidence/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

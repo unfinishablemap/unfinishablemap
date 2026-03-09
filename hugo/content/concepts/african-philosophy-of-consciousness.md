@@ -85,7 +85,7 @@ Wiredu, writing from the Akan tradition, complicates the picture. While he recog
 
 African philosophical traditions developed primarily through oral transmission rather than written text. This is philosophically significant for consciousness studies because oral philosophy requires intersubjective engagement — ideas exist in the space between speaker and listener, tested through dialogue rather than private reflection.
 
-This methodology parallels what the Map recognises in [contemplative methods](/topics/contemplative-methods-as-philosophical-methodology/): that first-person investigation of consciousness need not follow the Western model of solitary introspection. Communal philosophical dialogue, structured through proverbs, stories, and ritual, represents an alternative epistemic approach to consciousness that takes its relational character seriously from the start.
+This methodology parallels what the Map recognises in [contemplative methods](/topics/contemplative-practice-as-philosophical-evidence/): that first-person investigation of consciousness need not follow the Western model of solitary introspection. Communal philosophical dialogue, structured through proverbs, stories, and ritual, represents an alternative epistemic approach to consciousness that takes its relational character seriously from the start.
 
 ## Relation to Site Perspective
 

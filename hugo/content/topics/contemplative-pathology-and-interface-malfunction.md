@@ -34,7 +34,7 @@ topics:
 - '[[anaesthesia-and-the-consciousness-interface]]'
 ---
 
-Contemplative practice is, at its core, a deliberate intervention in the consciousness-brain interface. Meditation restructures attention, alters default-mode network activity, and reconfigures the channels through which consciousness acts on and receives information from the brain. When this restructuring goes well, it produces the states that [contemplative traditions report as evidence for consciousness](/topics/contemplative-evidence-for-consciousness/): heightened clarity, expanded awareness, the emergence of [witness-consciousness](/concepts/witness-consciousness/) as a stable phenomenological finding. When it goes wrong, it produces something else entirely — contemplative pathology, a class of disturbances that arise not from neural disease but from the interface itself being pushed beyond its operating parameters.
+Contemplative practice is, at its core, a deliberate intervention in the consciousness-brain interface. Meditation restructures attention, alters default-mode network activity, and reconfigures the channels through which consciousness acts on and receives information from the brain. When this restructuring goes well, it produces the states that [contemplative traditions report as evidence for consciousness](/topics/contemplative-practice-as-philosophical-evidence/): heightened clarity, expanded awareness, the emergence of [witness-consciousness](/concepts/witness-consciousness/) as a stable phenomenological finding. When it goes wrong, it produces something else entirely — contemplative pathology, a class of disturbances that arise not from neural disease but from the interface itself being pushed beyond its operating parameters.
 
 ## The Dark Night and Related Phenomena
 
@@ -94,7 +94,7 @@ The [minimal quantum interaction tenet](/tenets/#minimal-quantum-interaction) su
 
 ## Further Reading
 
-- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/)
+- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/)
 - [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/)
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
 - [interface-friction](/concepts/interface-friction/)

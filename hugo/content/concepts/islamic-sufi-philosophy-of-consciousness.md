@@ -116,10 +116,10 @@ The Map's productive tension with this tradition centres on Mulla Sadra and Ibn 
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — Broader cross-cultural survey including Islamic contributions
 - [interaction-problem-in-non-western-philosophy](/topics/interaction-problem-in-non-western-philosophy/) — How Islamic thinkers addressed mind-body causation
 - [witness-consciousness](/concepts/witness-consciousness/) — The witnessing dimension discovered across contemplative traditions
-- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — First-person data as philosophical evidence
+- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — First-person data as philosophical evidence
 - [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) — Structural parallels across Sufi, Buddhist, Hindu, and Christian practice
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Negative approaches to knowledge with roots in Islamic mysticism
-- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) — Contemplation as epistemic method
+- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) — Contemplation as epistemic method
 
 ## References
 

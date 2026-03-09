@@ -224,7 +224,7 @@ The aesthetic dimension of consciousness supports the Map's [foundational commit
 - [the-case-for-dualism](/concepts/the-case-for-dualism/) — The standard philosophical case, which aesthetic evidence supplements
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what physical information leaves out
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability arguments for dualism
-- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — Other experiential evidence for consciousness theories
+- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — Other experiential evidence for consciousness theories
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt quality of thought, including aesthetic judgment
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Aesthetic judgment in the creative process
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — Aesthetic experience guiding scientific theory choice

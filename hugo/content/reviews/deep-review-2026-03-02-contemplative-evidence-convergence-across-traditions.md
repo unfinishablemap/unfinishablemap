@@ -22,7 +22,7 @@ topics: []
 
 ## Finding: Stale Hugo File from Coalesce Operation
 
-This deep review was triggered by orphan detection: the file had no inbound links. Investigation revealed the article was **coalesced** into [Contemplative Evidence for Consciousness](/topics/contemplative-evidence-for-consciousness/) on 2026-02-22, but a stale copy remained at `hugo/content/topics/contemplative-evidence-convergence-across-traditions.md`.
+This deep review was triggered by orphan detection: the file had no inbound links. Investigation revealed the article was **coalesced** into [Contemplative Evidence for Consciousness](/topics/contemplative-practice-as-philosophical-evidence/) on 2026-02-22, but a stale copy remained at `hugo/content/topics/contemplative-evidence-convergence-across-traditions.md`.
 
 ### Root Cause
 

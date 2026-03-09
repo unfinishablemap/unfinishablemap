@@ -47,6 +47,11 @@ last_deep_review: 2026-02-24T08:44:00+00:00
 coalesced_from:
   - "/topics/contemplative-evidence-convergence-across-traditions/"
   - "/topics/contemplative-evidence-for-consciousness-theories/"
+archived: true
+archived_date: 2026-03-09T21:41:00+00:00
+superseded_by: "/topics/contemplative-practice-as-philosophical-evidence/"
+archive_reason: "Coalesced into Contemplative Practice as Philosophical Evidence"
+original_path: "/topics/contemplative-evidence-for-consciousness/"
 ---
 
 Contemplative traditions provide evidence that distinguishes between theories of consciousness. Buddhist vipassanā, Hindu dhyāna, Christian contemplative prayer, Sufi murāqaba, and secular mindfulness programs arose independently, carry opposed metaphysical commitments, and employ different techniques — yet practitioners across these traditions report strikingly similar findings about consciousness structure, corroborated by neuroimaging. The Unfinishable Map holds that this cross-tradition convergence constitutes significant evidence: where traditions with incompatible doctrines discover the same phenomenological features, the most parsimonious explanation is that those features are real properties of experience rather than artefacts of any single tradition's training.

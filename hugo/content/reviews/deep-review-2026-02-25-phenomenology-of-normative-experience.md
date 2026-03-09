@@ -54,13 +54,13 @@ topics: []
 - Made MQI tenet connection substantive: now explains *why* normative adjudication is a candidate for quantum-level influence
 - Added cross-link to [phenomenology-of-choice](/concepts/phenomenology-of-choice/) at the resolution-as-leap discussion
 - Added cross-link to [mental-effort](/concepts/mental-effort/) in the MQI tenet paragraph
-- Fixed broken link to [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) (2 locations)
+- Fixed broken link to [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) (2 locations)
 - Tightened prose in demand-character, resistance-to-preference, epistemic normativity, and cross-domain conflict sections to maintain length neutrality
 
 ### Cross-links Added
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
 - [mental-effort](/concepts/mental-effort/)
-- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) (fixed from broken link)
+- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) (fixed from broken link)
 
 ## Remaining Items
 

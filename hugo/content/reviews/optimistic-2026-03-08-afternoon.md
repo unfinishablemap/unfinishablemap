@@ -121,7 +121,7 @@ The Map navigates the space between cognitive closure and defeatism with unusual
 
 | From | To | Reason |
 |------|-----|--------|
-| the-expertise-void | [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) | Expert contemplatives face the same irreversible perceptual reorganisation the expertise void describes |
+| the-expertise-void | [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) | Expert contemplatives face the same irreversible perceptual reorganisation the expertise void describes |
 | [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) | [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) | The control law must ultimately specify whether valence enters the mapping function |
 | [samkhya-three-way-distinction](/concepts/samkhya-three-way-distinction/) | [filter-theory](/concepts/filter-theory/) | Samkhya's transparency gradient (gunas) maps directly to filter theory's constraint variation |
 | [prebiotic-collapse](/concepts/prebiotic-collapse/) | [time-collapse-and-agency](/topics/time-collapse-and-agency/) | Both address the relationship between collapse and temporal constitution; prebiotic collapse constrains what collapse meant before consciousness |

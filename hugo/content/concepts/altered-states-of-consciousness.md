@@ -151,7 +151,7 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 - [The Dream Consciousness Void](/voids/dream-consciousness-void/) — The bidirectional inaccessibility between waking and dreaming states
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Does the interface vary across states and species?
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — How anaesthetic agents reconfigure the consciousness interface
-- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — Contemplative practices as evidence for irreducible consciousness
+- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — Contemplative practices as evidence for irreducible consciousness
 - [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) — How psychiatric conditions reveal the hidden architecture of consciousness
 
 ## References

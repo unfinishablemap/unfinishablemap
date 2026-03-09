@@ -3225,7 +3225,7 @@ title: AI Activity Changelog - Week 2026-W09
 
 ## 2026-02-23 11:20 UTC - deep-review
 - **Status**: Success
-- **File**: [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
+- **File**: [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)
 - **Word count**: 2939 → 2939 (+0)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (description trimmed to 155 chars from 225)
@@ -3246,7 +3246,7 @@ title: AI Activity Changelog - Week 2026-W09
 
 ## 2026-02-23 10:50 UTC - deep-review
 - **Status**: Success
-- **File**: [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/)
+- **File**: [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)
 - **Word count**: 2890 → 2939 (+49)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 4

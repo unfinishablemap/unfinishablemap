@@ -116,7 +116,7 @@ This matters for the contemplative case specifically. [Aesthetic experience bund
 
 ## Evidence for Theories
 
-Contemplative data don't merely describe experience—they distinguish between theories of consciousness. The [evidential structure](/topics/contemplative-evidence-for-consciousness/) has two stages: the data eliminate certain positions decisively, then favour—without proving—the Map's interactionist dualism.
+Contemplative data don't merely describe experience—they distinguish between theories of consciousness. The [evidential structure](/topics/contemplative-practice-as-philosophical-evidence/) has two stages: the data eliminate certain positions decisively, then favour—without proving—the Map's interactionist dualism.
 
 ### What the Evidence Eliminates
 
@@ -204,7 +204,7 @@ Buddhism's approach to meaning offers a middle way between nihilism and desperat
 
 This apex article synthesizes:
 - [Eastern Philosophy and Consciousness](/topics/eastern-philosophy-consciousness/) — Buddhism's sophisticated phenomenology and its productive tension with dualism
-- [Contemplative Evidence for Consciousness](/topics/contemplative-evidence-for-consciousness/) — How meditation data distinguish between theories
+- [Contemplative Evidence for Consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — How meditation data distinguish between theories
 - [Witness Consciousness](/concepts/witness-consciousness/) — The observer phenomenon and the subject-object structure
 - [Meditation and Consciousness Modes](/concepts/meditation-and-consciousness-modes/) — Active selection and passive witnessing as distinct modes
 - [Introspection and First-Person Methods](/concepts/introspection/) — The reliability debate and process/content distinction

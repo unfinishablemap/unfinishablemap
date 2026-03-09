@@ -107,7 +107,7 @@ Fragmented consciousness engages the Map's [tenets](/tenets/) at several points:
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The three dimensions of experiential unity
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/) — How non-temporality explains the resilience of unity
 - [binding-problem](/concepts/binding-problem/) — The physical correlate of the unity question
-- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — First-person evidence for consciousness surviving altered states
+- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — First-person evidence for consciousness surviving altered states
 
 ## References
 

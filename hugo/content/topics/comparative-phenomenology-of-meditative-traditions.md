@@ -175,10 +175,10 @@ The divergence zones illustrate [Occam's Razor Has Limits](/tenets/#occams-limit
 
 - [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) — The witness phenomenon across traditions
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Hindu, Buddhist, and Daoist approaches to consciousness
-- [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/) — Meditation data as philosophical evidence
+- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — Meditation data as philosophical evidence
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — The two-mode (selector/witness) framework
 - [witness-consciousness](/concepts/witness-consciousness/) — The *sakshi* concept and its implications
-- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/) — Meditation as philosophical method
+- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) — Meditation as philosophical method
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — How Buddhist philosophy relates to dualist frameworks
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — The formal convergence argument
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — Methodology of convergence reasoning
