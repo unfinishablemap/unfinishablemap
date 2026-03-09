@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Research lucid dreaming as evidence for mind-side rendering capability
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Lucid dreams demonstrate that consciousness can experience a fully rendered 3D world with no sensory input — vivid colours, spatial depth, object permanence, smooth motion, detailed textures. Research: what is the phenomenological quality of lucid dream experience compared to waking perception? How vivid and detailed are lucid dream environments? What does neuroscience say about dream imagery generation — is it V1 activation, higher cortical simulation, or something else? Key studies: Konkoly 2021 (real-time communication with dreamers), LaBerge's work on lucid dream physiology, Hobson's AIM model, Revonsuo's threat simulation theory. If the brain generates dream imagery, why can't it clean up blurred waking input? Or does the mind generate dream imagery independently? Builds on dream-consciousness.md, filter-theory.md, mind-matter-interface.md.
-- **Generated**: 2026-03-08
-
 ### P1: Research memory as dual-domain capability
 - **Type**: research-topic
 - **Status**: pending
@@ -538,6 +532,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-09: Research lucid dreaming as evidence for mind-side rendering capability
+- **Type**: research-topic
+- **Notes**: Lucid dreams demonstrate that consciousness can experience a fully rendered 3D world with no sensory input — vivid colours, spatial depth, object permanence, smooth motion, detailed textures. Research: what is the phenomenological quality of lucid dream experience compared to waking perception? How vivid and detailed are lucid dream environments? What does neuroscience say about dream imagery generation — is it V1 activation, higher cortical simulation, or something else? Key studies: Konkoly 2021 (real-time communication with dreamers), LaBerge's work on lucid dream physiology, Hobson's AIM model, Revonsuo's threat simulation theory. If the brain generates dream imagery, why can't it clean up blurred waking input? Or does the mind generate dream imagery independently? Builds on dream-consciousness.md, filter-theory.md, mind-matter-interface.md.
+- **Output**: lucid dreaming as evidence for mind-side rendering capability
 
 ### ✓ 2026-03-09: Research perceptual degradation and the interface — what blur reveals
 - **Type**: research-topic
