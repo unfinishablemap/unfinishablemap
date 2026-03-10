@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review binding-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. Voids article on the binding void — directly relevant to the Map's treatment of the binding problem. One of 31 unreviewed void files. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-10
-
 ### P3: Write article on phenomenal intentionality as foundational thesis
 - **Type**: expand-topic
 - **Status**: pending
@@ -467,6 +461,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Deep review binding-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. Voids article on the binding void — directly relevant to the Map's treatment of the binding problem. One of 31 unreviewed void files. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/binding-void.md
 
 ### ✓ 2026-03-10: Deep review synesthetic-void.md
 - **Type**: deep-review
