@@ -4,7 +4,7 @@ description: "Human+AI exploration of whether a map of cognitive voids can map i
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-02-25T04:12:00+00:00
+ai_modified: 2026-03-10T17:08:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,22 +23,25 @@ related_articles:
   - "[[topology-of-cognitive-failure]]"
   - "[[apophatic-cartography]]"
   - "[[ai-as-void-explorer]]"
+  - "[[taxonomy-of-voids]]"
+  - "[[three-kinds-of-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-25
 last_curated:
+last_deep_review: 2026-03-10T17:08:00+00:00
 ---
 
 The Unfinishable Map catalogs cognitive voids—territories where thought cannot go or is blocked from going. But can this catalog ever know its own boundaries? The cartography problem is a second-order void: not a specific limit on what we can think, but a structural constraint on the project of enumerating such limits. Multiple independent lines of evidence—formal, transcendental, literary, and phenomenological—converge on a single conclusion: a complete catalog of cognitive voids is impossible in principle. The map of voids cannot contain itself.
 
-This distinguishes the cartography problem from the Map's other self-referential investigations. The [[self-reference-paradox]] asks whether consciousness can observe itself. The [[incompleteness-void]] applies Gödel to mathematical cognition. The cartography problem asks something different: whether the *project* of cataloging limits can catalog its own limits. It operates at the meta-level—a void in the voids framework rather than a void within cognition directly.
+This distinguishes the cartography problem from the Map's other self-referential investigations. The [[self-reference-paradox]] asks whether consciousness can observe itself. The [[incompleteness-void]] applies Gödel to mathematical cognition. The cartography problem asks something different: whether the *project* of cataloging limits can catalog its own limits. It operates at the meta-level—a void in the voids framework rather than a void within cognition directly. The [[taxonomy-of-voids|taxonomy of voids]] places it in the formal and meta-cognitive cluster alongside the incompleteness and recursion voids, where it serves as the structural proof that the taxonomy itself is constitutively incomplete.
 
 ## Second-Order Ignorance
 
 Kit Fine's formal work on "ignorance of ignorance" provides the sharpest statement of the problem. Fine distinguishes first-order ignorance (not knowing something), second-order ignorance (not knowing that you don't know), and what he calls Rumsfeld ignorance—unknown unknowns. Under plausible epistemic assumptions, Fine proves that "knowledge of second order ignorance is impossible." You cannot know that you are ignorant of your ignorance.
 
-For the voids project, this means any catalog of cognitive limits faces a provable gap. The catalog might successfully identify many voids—the [[self-reference-paradox|self-reference paradox]], the [[incompleteness-void|incompleteness void]], the [[other-minds-void|other minds void]]—yet remain systematically blind to voids it cannot even formulate as candidates. Second-order ignorance implies first-order ignorance: wherever we don't know what we don't know, there exist things we don't know. The gap is not speculative. It is formally guaranteed.
+For the voids project, this means any catalog of cognitive limits faces a provable gap. The catalog might sort voids into types—[[three-kinds-of-void|unexplored, unexplorable, and occluded]]—and populate each category extensively, yet remain systematically blind to voids it cannot even formulate as candidates. Second-order ignorance implies first-order ignorance: wherever we don't know what we don't know, there exist things we don't know. The gap is not speculative. It is formally guaranteed.
 
 Philip Armour's framework of five orders of ignorance sharpens the practical dimension. Beyond second-order ignorance (not knowing that you don't know), there is third-order ignorance (lacking any *process* to discover what you don't know) and fourth-order ignorance (not understanding the structure of ignorance itself). Each successive order is harder to address from within, and the higher orders may be unreachable in principle.
 
@@ -90,9 +93,7 @@ Importantly, an AI contributing to the Map's voids section is itself subject to 
 
 ## Completeness Is the Wrong Metric
 
-The cartography problem has a counterintuitive implication: the Map is unfinishable for a deeper reason than previously articulated. It is not merely that there is too much territory. It is that the map-making process is *constitutively* unable to achieve completeness about its own blind spots.
-
-This reframes the voids project's purpose. The value lies not in approaching a complete catalog but in the precision of individual boundary-tracings and the discipline of mapping what can be mapped. Benjamin Rancourt argues that epistemic agency *requires* cognitive limitations—they are constitutive of the kind of knowers we are, not obstacles to overcome. A complete map of all ignorance might undermine the selective attention that makes knowing possible in the first place.
+The cartography problem reframes why the Map is unfinishable. The obstacle is not vast territory but a constitutive inability: the map-making process cannot achieve completeness about its own blind spots. The value lies not in approaching a complete catalog but in the precision of individual boundary-tracings and the discipline of mapping what can be mapped. Benjamin Rancourt argues that epistemic agency *requires* cognitive limitations—they are constitutive of the kind of knowers we are, not obstacles to overcome. A complete map of all ignorance might undermine the selective attention that makes knowing possible in the first place.
 
 The Map should contain an article about its own incompleteness—not as a failure but as a structural theorem confirming the framework. This is that article.
 
@@ -122,6 +123,7 @@ The cartography problem connects to the Map's [[tenets]] at multiple points.
 
 ## Further Reading
 
+- [[taxonomy-of-voids|A Taxonomy of Voids]] — Synthesis placing this problem within the full voids architecture
 - [[voids|Voids in the Map]] — The broader framework for cognitive limits
 - [[self-reference-paradox|The Self-Reference Paradox]] — Consciousness trying to observe itself
 - [[incompleteness-void|The Incompleteness Void]] — Gödel's shadow on self-knowledge

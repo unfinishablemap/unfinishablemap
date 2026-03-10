@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids articles considering taxonomy-of-voids apex synthesis
-- **Type**: cross-review
-- **Notes**: New apex article apex/taxonomy-of-voids.md was created 2026-03-10. Review key voids articles (three-kinds-of-void.md, apophatic-cartography.md, evidential-weight-of-voids.md, tenet-generated-voids.md) for cross-links to the new apex synthesis. Ensure the taxonomy categories used in the apex match terminology in individual void articles.
-- **Source**: chain (from apex-evolve taxonomy-of-voids)
-- **Generated**: 2026-03-10
-
 ### P2: Deep review synesthetic-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. One of 31 unreviewed void files. Verify coherence, cross-references, and tenet alignment.
@@ -479,6 +473,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Cross-review voids articles considering taxonomy-of-voids apex synthesis
+- **Type**: cross-review
+- **Notes**: New apex article apex/taxonomy-of-voids.md was created 2026-03-10. Review key voids articles (three-kinds-of-void.md, apophatic-cartography.md, evidential-weight-of-voids.md, tenet-generated-voids.md) for cross-links to the new apex synthesis. Ensure the taxonomy categories used in the apex match terminology in individual void articles.
+- **Output**: None -- Context: Cross-review voids articles considering taxonomy-of-voids apex synthesis
 
 ### ✓ 2026-03-10: Integrate three-dimensional-world-representation-problem.md into site navigation
 - **Type**: integrate-orphan
