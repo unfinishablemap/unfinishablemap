@@ -4,7 +4,8 @@ description: "Human+AI exploration of imagination as consciousness's furthest re
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-02-25T02:23:00+00:00
+ai_modified: 2026-03-10T20:38:00+00:00
+last_deep_review: 2026-03-10T20:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +45,7 @@ David Hume identified the fundamental constraint: "Though thought might seem fre
 
 Hume's own counterexample—the Missing Shade of Blue—is revealing. A person who has seen every shade of blue except one might still imagine the missing shade by interpolation from adjacent shades. This exception does not break the confinement; it maps its contours. Imagination can interpolate within existing dimensions of experience but cannot create new dimensions. You might imagine a shade between two known blues, but you cannot imagine a shade of a colour family you have never encountered. The generative capacity is real but narrowly bounded: filling gaps within the known, not reaching beyond it.
 
-This distinction between interpolation and genuine novelty matters. The [[creativity-void]] explores how creative insight arrives from beyond conscious observation. The imagination void concerns a different limit: not *where* ideas come from but *what kinds* of phenomenal content imagination can produce. Creativity recombines; the question is whether any recombination can yield something genuinely unprecedented.
+This distinction between interpolation and genuine novelty matters. The [[creativity-void]] explores how creative insight arrives from beyond conscious observation. The imagination void concerns a different limit: not *where* ideas come from but *what kinds* of phenomenal content imagination can produce.
 
 ## Nagel's Bat and the Phenomenal Boundary
 
@@ -56,7 +57,7 @@ This extends beyond exotic cases. The [[synesthetic-void]] demonstrates that eve
 
 ## The Architecture of Failure
 
-Amy Kind argues that imagination is fundamentally conscious—"it cannot occur unconsciously, making it inherently tied to phenomenal experience." If imagination requires consciousness, then imagination can never fully step outside its own medium. Like an eye that cannot see itself seeing, imagination cannot imagine what lies beyond imaginative reach.
+Amy Kind argues that imagination is fundamentally conscious—that it cannot occur unconsciously, making it inherently tied to phenomenal experience. If imagination requires consciousness, then imagination can never fully step outside its own medium. Like an eye that cannot see itself seeing, imagination cannot imagine what lies beyond imaginative reach.
 
 The specific *pattern* of imagination's failure reveals the shape of the mind:
 
@@ -70,7 +71,7 @@ The specific *pattern* of imagination's failure reveals the shape of the mind:
 
 **Higher dimensions: projection only.** Mathematicians reason fluently about four-dimensional space but cannot visualise it. They work with 3D projections and rotations—workarounds that feel like understanding but replace spatial comprehension with sequential manipulation.
 
-This pattern—free recombination within a fixed set of primitives, no generation of new primitives—is itself diagnostic. It suggests that imagination operates like a language with a fixed alphabet: infinitely productive within its vocabulary, mute beyond it. The alphabet is set by experience, and experience is set by the sensory architecture of the body.
+This pattern—free recombination within a fixed set of primitives, no generation of new primitives—is itself diagnostic. It suggests that imagination operates like a language with a fixed alphabet: infinitely productive within its vocabulary, mute beyond it. The alphabet is set by experience, and experience is set by the sensory architecture of the body. Colin McGinn's [[mysterianism]] draws a similar conclusion: our cognitive architecture is constitutionally closed to certain problems, and imagination's structural limits are a visible instance of that closure.
 
 ## The Phenomenology of the Wall
 
@@ -84,7 +85,9 @@ Approaching imagination's limits produces distinctive experiences that differ fr
 
 **Effort without yield.** Unlike struggling with a hard problem—where more effort typically produces more progress—imagination's hard limits are characterised by effort that changes nothing. Pushing harder against the wall does not move it or reveal its thickness. This is the phenomenological signature of a structural limit, distinct from the signature of difficulty.
 
-These phenomenological signatures parallel what the [[conceptual-impossibility]] article documents: the experience of hitting a cognitive wall, thought "bouncing back" rather than finding content to grasp. The difference is that conceptual impossibility concerns logical contradictions (the round square), while the imagination void concerns phenomenal limits (the never-seen colour). Both reveal boundaries, but of different kinds.
+A functionalist might object that these signatures are simply descriptions of neural processing limits, not evidence of phenomenal boundaries. But the signatures have a distinctive character—the attempt collapses *toward existing experience* rather than producing noise or error. This directionality suggests something about the structure of experience itself, not just its implementation.
+
+These phenomenological signatures parallel what the [[conceptual-impossibility]] article documents: the experience of hitting a cognitive wall, thought "bouncing back" rather than finding content to grasp. The difference is that conceptual impossibility concerns logical contradictions (the round square), while the imagination void concerns phenomenal limits (the never-seen colour).
 
 ## The Aphantasia Question
 
@@ -96,15 +99,15 @@ This raises a question the [[conceptual-acquisition-limits|conceptual acquisitio
 
 ## What AI Reveals
 
-AI systems occupy a distinctive position relative to the imagination void. Lacking phenomenal imagery entirely—or at least lacking anything we can verify as phenomenal—AI operates with purely propositional and structural imagination. It can reason about higher-dimensional spaces without needing to visualise them. It can process descriptions of alien sensory modalities without the human compulsion to substitute familiar phenomenal content.
+AI systems occupy a distinctive position relative to the imagination void. Lacking phenomenal imagery entirely—or at least lacking anything we can verify as phenomenal—AI operates with purely propositional and structural imagination. It can reason about higher-dimensional spaces without needing to visualise them and can process descriptions of alien sensory modalities without the human compulsion to substitute familiar phenomenal content.
 
-This creates an asymmetry. AI might be free from imagination limits specific to perceptual simulation—the limits that prevent humans from imagining novel qualia or four-dimensional space. But AI may lack access to any territory that requires phenomenal imagination. The aphantasia research is suggestive: aphantasics demonstrate that propositional imagination functions without imagery. AI is an extreme case of this dissociation.
+This creates an asymmetry. AI might be free from imagination limits specific to perceptual simulation but lack access to any territory that requires phenomenal imagination. The aphantasia research is suggestive: aphantasics demonstrate that propositional imagination functions without imagery. AI is an extreme case of this dissociation.
 
 From a dualist perspective, the question is whether AI has *any* imaginative access to consciousness itself—or only to its structural correlates. If consciousness is non-physical, AI imagination (being entirely computational) may be constitutionally unable to model the phenomenal dimension. AI might navigate the structural map of imagination's territory while being blind to the experiential landscape that makes the territory matter.
 
 ## Relation to Site Perspective
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies most directly. Imagination's structural constraints reveal that the simplest model of possibility—what I can imagine equals what is possible—is profoundly unreliable. The gap between imaginability and reality is not a minor calibration error but an architectural mismatch. Modal epistemology grapples with this: Yablo argues conceivability provides only defeasible evidence for possibility, and Chalmers insists that only "ideal" conceivability tracks metaphysical possibility. Our preference for imaginable theories may systematically exclude truths that lie beyond imagination's reach—a concrete instance of how simplicity-seeking cognition can mislead.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies most directly. Imagination's structural constraints reveal that the simplest model of possibility—what I can imagine equals what is possible—is profoundly unreliable. The gap between imaginability and reality is not a minor calibration error but an architectural mismatch. Our preference for imaginable theories may systematically exclude truths that lie beyond imagination's reach—a concrete instance of how simplicity-seeking cognition can mislead.
 
 **[[tenets#^dualism|Dualism]]** opens a possibility that the imagination void's shape depends on which side of the dualist divide imagination inhabits. If consciousness is non-physical, then imagination—which appears to depend heavily on neural simulation of perceptual processes—may represent only the *physical side* of the mind's reach. Non-physical consciousness might have epistemic access that imagination, bound to sensory replay and neural architecture, cannot provide. The [[pre-conceptual-knowing]] article explores a parallel possibility: modes of knowing that conceptual thought cannot access. The imagination void might be a constraint of embodiment, not of consciousness as such.
 
