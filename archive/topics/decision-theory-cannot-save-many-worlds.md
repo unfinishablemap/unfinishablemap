@@ -26,6 +26,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-05
 last_curated:
 last_deep_review: 2026-03-05T05:03:00+00:00
+archived: true
+archived_date: 2026-03-10T03:41:00+00:00
+superseded_by: "/topics/probability-problem-in-many-worlds/"
+archive_reason: "Coalesced into The Probability Problem in Many Worlds"
+original_path: "/topics/decision-theory-cannot-save-many-worlds/"
 ---
 
 The Deutsch-Wallace decision-theoretic program is the most technically sophisticated attempt to recover probability within the Many-Worlds Interpretation. It claims that rational agents in a branching universe must weight outcomes by the Born rule when making decisions, thereby grounding quantum probability in rationality rather than metaphysics. The Unfinishable Map's [[probability-problem-in-many-worlds|survey of MWI's probability crisis]] identifies this program as one of three major recovery strategies. This article examines why decision theory fails on its own terms, drawing on three independent lines of criticism: the axioms are not rationally required, betting behaviour cannot explain empirical frequencies, and the entire framework rests on a vicious circularity.

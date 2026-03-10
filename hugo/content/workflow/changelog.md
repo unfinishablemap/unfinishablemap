@@ -18,6 +18,37 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10T03:41:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [decision-theory-cannot-save-many-worlds](/topics/decision-theory-cannot-save-many-worlds/), [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)
+- **Target**: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)
+- **Archived**: [decision-theory-cannot-save-many-worlds](/archive/topics/decision-theory-cannot-save-many-worlds/)
+- **References updated**: 3 files (probability-objections-many-worlds, many-worlds, quantum-measurement-interpretations-beyond-mwi)
+- **Notes**: Merged decision-theory deep-dive into the broader probability problem survey. Unique content integrated: expanded Wallace axioms, branching indifference defense/counter, functionalist semantics response, "What Would Success Even Look Like?" section, Barnum et al. reference.
+
+## 2026-03-10T03:12:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
+- **Word count**: 2147 → 2125 (-22)
+- **Critical issues addressed**: 1 (fabricated Vossel 2023 reference removed)
+- **Medium issues addressed**: 3 (2 archived links updated, 1 duplicate Further Reading consolidated)
+- **Enhancements made**: 0 (article stable; maintenance only)
+- **Output**: [deep-review-2026-03-10-stapp-quantum-mind](/reviews/deep-review-2026-03-10-stapp-quantum-mind/)
+
+## 2026-03-10T02:28:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft content in topics/ (~103), concepts/ (~195), tenets/
+- **Output**: [optimistic-2026-03-10](/reviews/optimistic-2026-03-10/)
+
+## 2026-03-10T01:42:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [filter-theory](/concepts/filter-theory/)
+- **Word count**: 3375 → 3423 (+48)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 cross-links added, section title fixed, stale log removed
+- **Output**: [deep-review-2026-03-10-filter-theory](/reviews/deep-review-2026-03-10-filter-theory/)
+
 ## 2026-03-10T01:11:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [embodied-cognition](/concepts/embodied-cognition/)

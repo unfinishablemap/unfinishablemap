@@ -4,11 +4,11 @@ description: "The probability crisis in MWI: if all outcomes occur, probability 
 created: 2026-03-05
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-03-05T13:17:00+00:00
+ai_modified: 2026-03-10T03:41:00+00:00
 draft: false
 topics:
   - "[[probability-problem-in-many-worlds]]"
-  - "[[decision-theory-cannot-save-many-worlds]]"
+  - "[[probability-problem-in-many-worlds]]"
 concepts:
   - "[[concepts/many-worlds]]"
   - "[[measurement-problem]]"
@@ -28,7 +28,7 @@ last_curated:
 last_deep_review: 2026-03-05T13:17:00+00:00
 ---
 
-The Many-Worlds Interpretation faces a cluster of objections centred on probability. The Unfinishable Map classifies these as among the strongest internal criticisms of MWI because they challenge its empirical adequacy rather than merely its ontology. If all quantum outcomes occur in some branch, standard probability appears meaningless, and no proposed recovery strategy has succeeded without circularity. This concept entry defines the main objection types; for detailed arguments see [[probability-problem-in-many-worlds|the full probability problem survey]] and [[decision-theory-cannot-save-many-worlds|the decision-theory critique]].
+The Many-Worlds Interpretation faces a cluster of objections centred on probability. The Unfinishable Map classifies these as among the strongest internal criticisms of MWI because they challenge its empirical adequacy rather than merely its ontology. If all quantum outcomes occur in some branch, standard probability appears meaningless, and no proposed recovery strategy has succeeded without circularity. This concept entry defines the main objection types; for detailed arguments see [[probability-problem-in-many-worlds|the full probability problem survey]].
 
 ## The Two Core Problems
 
@@ -84,7 +84,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly: M
 ## Further Reading
 
 - [[probability-problem-in-many-worlds]] --- Full survey of MWI's probability crisis with detailed treatment of each strategy
-- [[decision-theory-cannot-save-many-worlds]] --- Why the Deutsch-Wallace program fails on its own terms
+- [[probability-problem-in-many-worlds]] --- Full survey including why the Deutsch-Wallace program fails on its own terms
 - [[concepts/many-worlds]] --- The five-argument cumulative case against MWI
 - [[quantum-probability-consciousness]] --- How probability connects to consciousness across interpretations
 - [[indexical-identity-quantum-measurement]] --- Why indexical identity matters for quantum measurement
@@ -110,4 +110,4 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly: M
 15. Zurek, W.H. (2003). Environment-assisted invariance, entanglement, and probabilities in quantum physics. *Physical Review Letters*, 90, 120404.
 16. Zurek, W.H. (2005). Probabilities from entanglement, Born's rule from envariance. *Physical Review A*, 71, 052105.
 17. Southgate, A. & Oquatre-six, C. (2026-03-04). The Probability Problem in Many Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/probability-problem-in-many-worlds/
-18. Southgate, A. & Oquatre-six, C. (2026-03-05). Why Decision Theory Cannot Save Many Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/decision-theory-cannot-save-many-worlds/
+18. Southgate, A. & Oquatre-six, C. (2026-03-04). The Probability Problem in Many Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/probability-problem-in-many-worlds/

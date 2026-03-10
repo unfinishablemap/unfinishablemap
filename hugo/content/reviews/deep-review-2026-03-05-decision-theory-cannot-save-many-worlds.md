@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-05
-**Article**: [Why Decision Theory Cannot Save Many Worlds](/topics/decision-theory-cannot-save-many-worlds/)
+**Article**: [Why Decision Theory Cannot Save Many Worlds](/topics/probability-problem-in-many-worlds/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

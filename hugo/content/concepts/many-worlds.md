@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-05 19:41:00+00:00
+ai_modified: 2026-03-10 03:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ last_deep_review: 2026-03-05 19:41:00+00:00
 modified: *id001
 related_articles:
 - '[[quantum-measurement-interpretations-beyond-mwi]]'
-- '[[decision-theory-cannot-save-many-worlds]]'
+- '[[probability-problem-in-many-worlds]]'
 - '[[probability-objections-many-worlds]]'
 - '[[quantum-probability-consciousness]]'
 - '[[indexical-identity-quantum-measurement]]'
@@ -73,7 +73,7 @@ Quantum mechanics predicts that outcomes occur with specific probabilities given
 
 Three strategies attempt to recover probability: decision-theoretic derivations (Deutsch-Wallace), self-locating uncertainty (Sebens-Carroll), and environment-assisted invariance (Zurek). None has succeeded without circularity. Decision-theoretic axioms are contested as encoding optional metaphysical attitudes rather than requirements of rationality. Self-locating uncertainty struggles because the uncertainty is either spurious or wrongly placed. Envariance derivations assume the connection between quantum states and probabilities that they claim to establish.
 
-A deeper structural problem cuts across all three strategies: well-defined branches require [decoherence](/concepts/decoherence/), but decoherence is described using the Born-rule norm, so the branch structure presupposes the probability rule it claims to ground (Baker 2007, Price 2010). See [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) for the full case against all three recovery strategies and [decision-theory-cannot-save-many-worlds](/topics/decision-theory-cannot-save-many-worlds/) for a detailed analysis of why the decision-theoretic program fails on its own terms.
+A deeper structural problem cuts across all three strategies: well-defined branches require [decoherence](/concepts/decoherence/), but decoherence is described using the Born-rule norm, so the branch structure presupposes the probability rule it claims to ground (Baker 2007, Price 2010). See [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) for the full case against all three recovery strategies, including a detailed analysis of why the decision-theoretic program fails on its own terms.
 
 ### 4. The Preferred Basis Problem
 

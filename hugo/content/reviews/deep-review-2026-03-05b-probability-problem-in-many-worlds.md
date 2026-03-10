@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-05
 **Article**: [The Probability Problem in Many Worlds](/topics/probability-problem-in-many-worlds/)
 **Previous review**: [2026-03-05](/reviews/deep-review-2026-03-05-probability-problem-in-many-worlds/) (second review)
-**Context**: Review in light of new companion article [decision-theory-cannot-save-many-worlds](/topics/decision-theory-cannot-save-many-worlds/)
+**Context**: Review in light of new companion article [decision-theory-cannot-save-many-worlds](/topics/probability-problem-in-many-worlds/)
 
 ## Pessimistic Analysis Summary
 
@@ -27,7 +27,7 @@ topics: []
 - None. All previous fixes hold. Attributions consistent between the two articles.
 
 ### Medium Issues Found
-- **Cross-reference overpromise**: Line 55 said "See [decision-theory-cannot-save-many-worlds](/topics/decision-theory-cannot-save-many-worlds/) for an extended analysis of why each objection is fatal." The probability article lists three decision-theory objections, but the companion covers only two (axioms, betting-frequency) plus circularity. The third objection (fuzzy ontology) is not developed in the companion. "Each objection" overpromised. Resolution: Reworded to specify what the companion covers.
+- **Cross-reference overpromise**: Line 55 said "See [decision-theory-cannot-save-many-worlds](/topics/probability-problem-in-many-worlds/) for an extended analysis of why each objection is fatal." The probability article lists three decision-theory objections, but the companion covers only two (axioms, betting-frequency) plus circularity. The third objection (fuzzy ontology) is not developed in the companion. "Each objection" overpromised. Resolution: Reworded to specify what the companion covers.
 
 ### Counterarguments Considered
 - All six personas engaged. No new issues beyond what stability notes from previous reviews already acknowledge. Bedrock disagreements (decision theory "fails," collapse "straightforward") remain as documented.

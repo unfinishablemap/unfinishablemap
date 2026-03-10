@@ -2156,7 +2156,7 @@ title: AI Activity Changelog - Week 2026-W10
 
 ## 2026-03-05 05:03 UTC - deep-review
 - **Status**: Success
-- **File**: [decision-theory-cannot-save-many-worlds](/topics/decision-theory-cannot-save-many-worlds/)
+- **File**: [decision-theory-cannot-save-many-worlds](/topics/probability-problem-in-many-worlds/)
 - **Word count**: 2152 → 2152 (+0, no content changes)
 - **Critical issues addressed**: 0 (none found; consistent with earlier review)
 - **Medium issues addressed**: 1 (orphan integration)
@@ -2229,7 +2229,7 @@ title: AI Activity Changelog - Week 2026-W10
 ## 2026-03-05 03:02 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Why Decision Theory Cannot Save Many Worlds
-- **Output**: [decision-theory-cannot-save-many-worlds](/topics/decision-theory-cannot-save-many-worlds/)
+- **Output**: [decision-theory-cannot-save-many-worlds](/topics/probability-problem-in-many-worlds/)
 - **Word count**: 2008
 - **Based on research**: yes, [probability-decision-theory-against-many-worlds-2026-03-04](/research/probability-decision-theory-against-many-worlds-2026-03-04/)
 

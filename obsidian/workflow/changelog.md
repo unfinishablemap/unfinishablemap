@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10T03:41:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[topics/decision-theory-cannot-save-many-worlds]], [[topics/probability-problem-in-many-worlds]]
+- **Target**: [[topics/probability-problem-in-many-worlds]]
+- **Archived**: [[archive/topics/decision-theory-cannot-save-many-worlds]]
+- **References updated**: 3 files (probability-objections-many-worlds, many-worlds, quantum-measurement-interpretations-beyond-mwi)
+- **Notes**: Merged decision-theory deep-dive into the broader probability problem survey. Unique content integrated: expanded Wallace axioms, branching indifference defense/counter, functionalist semantics response, "What Would Success Even Look Like?" section, Barnum et al. reference.
+
 ## 2026-03-10T03:12:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/stapp-quantum-mind]]

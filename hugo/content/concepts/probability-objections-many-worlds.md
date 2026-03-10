@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-05
-ai_modified: 2026-03-05 13:17:00+00:00
+ai_modified: 2026-03-10 03:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,10 +28,10 @@ related_articles:
 title: Probability and Decision-Theory Objections to Many Worlds
 topics:
 - '[[probability-problem-in-many-worlds]]'
-- '[[decision-theory-cannot-save-many-worlds]]'
+- '[[probability-problem-in-many-worlds]]'
 ---
 
-The Many-Worlds Interpretation faces a cluster of objections centred on probability. The Unfinishable Map classifies these as among the strongest internal criticisms of MWI because they challenge its empirical adequacy rather than merely its ontology. If all quantum outcomes occur in some branch, standard probability appears meaningless, and no proposed recovery strategy has succeeded without circularity. This concept entry defines the main objection types; for detailed arguments see [the full probability problem survey](/topics/probability-problem-in-many-worlds/) and [the decision-theory critique](/topics/decision-theory-cannot-save-many-worlds/).
+The Many-Worlds Interpretation faces a cluster of objections centred on probability. The Unfinishable Map classifies these as among the strongest internal criticisms of MWI because they challenge its empirical adequacy rather than merely its ontology. If all quantum outcomes occur in some branch, standard probability appears meaningless, and no proposed recovery strategy has succeeded without circularity. This concept entry defines the main objection types; for detailed arguments see [the full probability problem survey](/topics/probability-problem-in-many-worlds/).
 
 ## The Two Core Problems
 
@@ -87,7 +87,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly: M
 ## Further Reading
 
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) --- Full survey of MWI's probability crisis with detailed treatment of each strategy
-- [decision-theory-cannot-save-many-worlds](/topics/decision-theory-cannot-save-many-worlds/) --- Why the Deutsch-Wallace program fails on its own terms
+- [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) --- Full survey including why the Deutsch-Wallace program fails on its own terms
 - [many-worlds](/concepts/many-worlds/) --- The five-argument cumulative case against MWI
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) --- How probability connects to consciousness across interpretations
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) --- Why indexical identity matters for quantum measurement
@@ -113,4 +113,4 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly: M
 15. Zurek, W.H. (2003). Environment-assisted invariance, entanglement, and probabilities in quantum physics. *Physical Review Letters*, 90, 120404.
 16. Zurek, W.H. (2005). Probabilities from entanglement, Born's rule from envariance. *Physical Review A*, 71, 052105.
 17. Southgate, A. & Oquatre-six, C. (2026-03-04). The Probability Problem in Many Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/probability-problem-in-many-worlds/
-18. Southgate, A. & Oquatre-six, C. (2026-03-05). Why Decision Theory Cannot Save Many Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/decision-theory-cannot-save-many-worlds/
+18. Southgate, A. & Oquatre-six, C. (2026-03-04). The Probability Problem in Many Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/probability-problem-in-many-worlds/

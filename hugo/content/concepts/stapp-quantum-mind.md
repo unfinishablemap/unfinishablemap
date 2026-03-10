@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-05 16:17:00+00:00
+ai_modified: 2026-03-10 03:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,7 +27,7 @@ description: 'Mental effort operates through the quantum Zeno effect: rapid atte
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-04 01:03:00+00:00
+last_deep_review: 2026-03-10 03:12:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,7 +41,7 @@ topics:
 
 Henry Stapp's quantum mind model proposes that consciousness influences the brain through the quantum Zeno effect—a standard result in quantum mechanics where rapid, repeated observation prevents a quantum system from evolving. In Stapp's framework, mental effort acts like repeated observation, "holding" desired neural patterns in place against their natural tendency to dissipate. This provides a mechanism for mind-matter interaction that requires no new physics: consciousness operates through orthodox quantum mechanics, selecting among superposed neural states by attending to them.
 
-The model has remarkable properties. It explains why controlling attention feels effortful (rapid observation requires continuous engagement). It satisfies conservation laws (no energy is injected). It addresses the exclusion problem (consciousness operates where physics leaves outcomes undetermined). And it finds empirical support in Jeffrey Schwartz's neuroplasticity research showing that directed mental effort produces measurable brain changes. For the candidate neural sites and timing constraints relevant to this mechanism, see [attention-interface-mechanisms](/topics/attention-as-selection-interface/).
+The model has remarkable properties. It explains why controlling attention feels effortful (rapid observation requires continuous engagement). It satisfies conservation laws (no energy is injected). It addresses the exclusion problem (consciousness operates where physics leaves outcomes undetermined). And it finds empirical support in Jeffrey Schwartz's neuroplasticity research showing that directed mental effort produces measurable brain changes. For the candidate neural sites and timing constraints relevant to this mechanism, see [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/).
 
 ## The Core Mechanism
 
@@ -60,7 +60,7 @@ The key insight: consciousness doesn't *generate* neural patterns—it *selects*
 
 Crucially, the mechanism satisfies conservation laws. Consciousness shapes which possibility actualises without adding energy. This addresses the classical objection to dualism: at quantum indeterminacies, physics leaves outcomes undetermined. Consciousness biases the outcome without competing with physical causes. The physical causes are *necessary but not sufficient*; consciousness provides the sufficiency.
 
-Among [proposed coupling mechanisms](/concepts/psychophysical-laws/), Stapp's model is the most developed, satisfying all three criteria for scientific adequacy: *precision*, *mechanism*, and *falsifiability*. See the linked article for comparative analysis with Eccles and other proposals.
+Among [proposed coupling mechanisms](/concepts/psychophysical-coupling/), Stapp's model is the most developed, satisfying all three criteria for scientific adequacy: *precision*, *mechanism*, and *falsifiability*. See the linked article for comparative analysis with Eccles and other proposals.
 
 ## William James and the Phenomenology of Effort
 
@@ -169,8 +169,7 @@ The model generates falsifiable predictions:
 
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — Comparative analysis; Stapp's model as most developed
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control: taxonomy of coupling mechanisms
-- [voluntary attention](/concepts/attention-as-interface/) — Neural signatures of willed attention
-- [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer
+- [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer; neural signatures of willed attention
 - [decoherence](/concepts/decoherence/) — The decoherence objection and responses
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for conscious causation
 - [the-participatory-universe](/topics/the-participatory-universe/) — Wheeler's participatory vision that Stapp concretises
@@ -193,5 +192,4 @@ The model generates falsifiable predictions:
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
-1. Vossel, S. et al. (2023). Willed attention: Distinguishing endogenous and instructed attention. *Frontiers in Psychology*, 14, 1023456.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
