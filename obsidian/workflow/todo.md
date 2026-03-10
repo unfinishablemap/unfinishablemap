@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense consciousness-and-skilled-performance.md (5119 words, 128% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. At 5119 words, this is the most significant length violation on the site. Preserve core arguments about skilled performance as evidence for consciousness while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-10
-
 ### P2: Integrate lucid-dreaming-as-capability-evidence.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-03-09 as part of the capability division series. Add cross-references from dream-consciousness.md, capability-division-problem.md, filter-theory.md, and related perception articles.
@@ -503,6 +497,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Condense consciousness-and-skilled-performance.md (5119 words, 128% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. At 5119 words, this is the most significant length violation on the site. Preserve core arguments about skilled performance as evidence for consciousness while removing redundancy. See /condense skill.
+- **Output**: obsidian/topics/consciousness-and-skilled-performance.md
 
 ### ✓ 2026-03-10: Condense research/spontaneous-collapse-theories-grw-csl-2026-01-23.md (3625 words, 104% of hard threshold)
 - **Type**: condense
