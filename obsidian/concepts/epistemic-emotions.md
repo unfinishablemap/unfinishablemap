@@ -4,7 +4,7 @@ description: "Curiosity, doubt, certainty, insight: feelings directed at knowled
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-03-05T16:47:00+00:00
+ai_modified: 2026-03-10T06:13:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-21
 last_curated: null
-last_deep_review: 2026-02-03T22:48:00+00:00
+last_deep_review: 2026-03-10T06:13:00+00:00
 ---
 
 Epistemic emotions are feelings directed at knowledge itself—curiosity about what we don't know, certainty about what we think we know, doubt when beliefs falter, confusion when understanding fails, and the distinctive satisfaction of insight. These emotions evaluate our own cognitive states: they are consciousness monitoring its relationship to truth. Unlike emotions directed at the external world (fear of a threat, joy at good news), epistemic emotions concern our position as knowers.
@@ -190,4 +190,3 @@ None of these conditions currently obtains.
 1. Meylan, A. (2014). Epistemic emotions: A natural kind? *Philosophical Inquiries*, 2(1), 173-190.
 1. Schulz, K. (2010). *Being Wrong: Adventures in the Margin of Error*. Ecco.
 1. Schwitzgebel, E. (2024). Introspection. *Stanford Encyclopedia of Philosophy*.
-1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
