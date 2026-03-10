@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-03-05 15:49:00+00:00
+ai_modified: 2026-03-10 09:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,7 +21,7 @@ concepts:
 - '[[decoherence]]'
 - '[[qbism]]'
 - '[[quantum-probability-consciousness]]'
-- '[[probability-objections-many-worlds]]'
+- '[[probability-problem-in-many-worlds]]'
 created: 2026-01-17
 date: &id001 2026-01-23
 description: Survey of quantum interpretations and their consciousness implications.
@@ -140,7 +140,7 @@ See [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) fo
 
 ## How Interpretations Handle Probability
 
-Each interpretation must account for the Born rule—the squared amplitude giving measurement probabilities. The [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) article examines this in depth, [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) details why MWI's attempts to recover the Born rule through decision theory, self-locating uncertainty, and envariance all face serious objections, and [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) taxonomises these objections into distinct failure modes.
+Each interpretation must account for the Born rule—the squared amplitude giving measurement probabilities. The [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) article examines this in depth, [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) details why MWI's attempts to recover the Born rule through decision theory, self-locating uncertainty, and envariance all face serious objections, taxonomising these into distinct failure modes.
 
 The key insight: all standard views share a blind spot—they don't address what probability means *for this consciousness*. What does 50% mean for *you* about to measure spin? The first-person perspective is precisely what probability seems to be about, yet appears in none of these accounts.
 
@@ -242,7 +242,6 @@ The choice of quantum interpretation bears directly on all five [tenets](/tenets
 - [measurement-problem](/concepts/measurement-problem/) — The problem all interpretations address
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Why MWI cannot recover the Born rule without circularity
-- [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) — Taxonomy of probability and decision-theory objections to MWI
 - [qbism](/concepts/qbism/) — Agent-centered interpretation that presupposes experience without explaining it
 - [relational-quantum-mechanics](/concepts/relational-quantum-mechanics/) — Rovelli's interpretation and why the Map rejects it
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — How multiple conscious observers coordinate

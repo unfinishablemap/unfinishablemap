@@ -26,7 +26,7 @@ topics: []
 None. Article remains stable after seven reviews.
 
 ### Medium Issues Found
-- **Missing branch-counting attribution**: The phrase "simple branch-counting, which generically contradicts it" lacked a citation. The new [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) article attributes this to Graham (1973) with a dedicated section. **Resolution**: Added "(Graham 1973)" parenthetical and corresponding reference.
+- **Missing branch-counting attribution**: The phrase "simple branch-counting, which generically contradicts it" lacked a citation. The new [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) article attributes this to Graham (1973) with a dedicated section. **Resolution**: Added "(Graham 1973)" parenthetical and corresponding reference.
 - **Missing cross-link to quantum-probability-consciousness**: The probability-objections article links to this concept, which connects probability to consciousness across interpretations — relevant to both §3 and §5. **Resolution**: Added to related_articles and Further Reading.
 - **Missing cross-link to indexical-identity-quantum-measurement**: The probability-objections article links to this topic, directly relevant to §2's indexical identity argument. **Resolution**: Added to Further Reading and related_articles.
 

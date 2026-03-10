@@ -18,6 +18,30 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10T10:56:00+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Expertise Void — how mastery systematically eliminates conscious access to the processes mastered
+- **Category**: Occluded / Unexplorable (Mixed)
+- **Output**: [voids-expertise-void-2026-03-10](/research/voids-expertise-void-2026-03-10/)
+- **Key finding**: Expertise-induced amnesia, choking under pressure, and Polanyi's tacit knowledge converge on evidence that the expertise void is actively defended rather than passively empty, suggesting consciousness serves as scaffolding that dismantles itself once skills are built.
+
+## 2026-03-10T10:26:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [attention-schema-theory-critique](/topics/attention-schema-theory-critique/)
+- **Word count**: 2808 → 2806 (-2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-10-attention-schema-theory-critique](/reviews/deep-review-2026-03-10-attention-schema-theory-critique/)
+
+## 2026-03-10T09:41:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/)
+- **Target**: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)
+- **Archived**: [probability-objections-many-worlds](/archive/concepts/probability-objections-many-worlds/)
+- **References updated**: 2 files (quantum-interpretations, many-worlds)
+- **Notes**: Concept article was an explicit condensed summary of the topic article with identical structure and no unique content. Absorbed into existing topic article.
+
 ## 2026-03-10T09:12:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)

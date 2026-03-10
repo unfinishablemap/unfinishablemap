@@ -51,6 +51,7 @@ from tools.evolution.task_selector import (
 )
 from tools.highlights import find_unhighlighted_content
 from tools.notify.telegram import TelegramHandler
+from tools.todo.processor import TaskType
 
 # Module-level logger
 log = logging.getLogger("evolve_loop")
@@ -742,10 +743,21 @@ def run_session(
         except Exception as e:
             log.warning(f"Agentic social post error (non-fatal): {e}")
 
-    # 2. Queue health check
-    p0_p2_count = count_p0_p2_tasks(todo_content)
+    # 2. Cap-aware task filtering
+    # When all sections are at cap, expand-topic tasks can't run (except P0/P1).
+    # Exclude them from both queue health counting and task selection so the
+    # system picks other task types instead of repeatedly skipping the same task.
+    sections_at_cap = all_sections_at_cap(state.section_caps)
+    cap_skip_types: set[TaskType] | None = None
+    if sections_at_cap:
+        cap_skip_types = {TaskType.EXPAND_TOPIC}
+        log.info("All sections at cap — expand-topic tasks excluded from queue selection")
+        check_section_caps(state.section_caps)
+
+    # 3. Queue health check (excluding capped task types)
+    p0_p2_count = count_p0_p2_tasks(todo_content, skip_types=cap_skip_types)
     if p0_p2_count < MIN_QUEUE_TASKS:
-        log.info(f"Queue low ({p0_p2_count} tasks), running replenish-queue")
+        log.info(f"Queue low ({p0_p2_count} executable tasks), running replenish-queue")
         try:
             success, output = run_skill(
                 SkillInvocation("replenish-queue"),
@@ -766,7 +778,7 @@ def run_session(
         except (SkillTimeoutError, Exception) as e:
             log.warning(f"Replenish-queue failed: {e}")
 
-    # 3. Run next task in cycle
+    # 4. Run next task in cycle
     cycle_stats = get_cycle_stats(state.cycle_position)
     task_type = get_cycle_task(state.cycle_position)
 
@@ -779,8 +791,8 @@ def run_session(
     queue_task = None  # Track if this is a queue task for completion marking
     invocation = None  # None means skip this cycle slot
     if task_type == "queue":
-        # Pick from todo queue (only executable tasks by default)
-        queue_task = select_queue_task(todo_content)
+        # Pick from todo queue, skipping capped task types
+        queue_task = select_queue_task(todo_content, skip_types=cap_skip_types)
         if queue_task:
             try:
                 invocation = task_to_skill(queue_task)
@@ -798,36 +810,31 @@ def run_session(
         # Run the scheduled skill
         invocation = SkillInvocation(task_type)
 
-    # Pre-execution cap check for expand-topic tasks
-    # P0/P1 tasks are allowed to break caps (human-prioritised), others are skipped
-    if invocation is not None and invocation.skill == "expand-topic":
+    # Cap check for expand-topic from scheduled (non-queue) skills is unlikely
+    # but handle it defensively. Queue tasks are already filtered above.
+    if invocation is not None and invocation.skill == "expand-topic" and sections_at_cap:
         is_high_priority = queue_task is not None and queue_task.priority <= 1
-        if all_sections_at_cap(state.section_caps):
-            if is_high_priority:
-                log.warning(
-                    "ALL sections at cap — but P%d task allowed to break cap: %s",
-                    queue_task.priority,
-                    invocation.args or "(no args)",
-                )
-                check_section_caps(state.section_caps)
-            else:
-                log.error(
-                    "ALL sections at cap — skipping expand-topic task: %s",
-                    invocation.args or "(no args)",
-                )
-                state.recent_tasks.append(
-                    TaskRecord(
-                        task=f"expand-topic ({invocation.args[:50] if invocation.args else ''})",
-                        task_type="expand-topic",
-                        date=now.date().isoformat(),
-                        outcome="skipped-cap",
-                    )
-                )
-                invocation = None
-                queue_task = None
+        if is_high_priority:
+            log.warning(
+                "ALL sections at cap — but P%d task allowed to break cap: %s",
+                queue_task.priority,
+                invocation.args or "(no args)",
+            )
         else:
-            # Log cap status so operators can see what's happening
-            check_section_caps(state.section_caps)
+            log.warning(
+                "ALL sections at cap — skipping expand-topic: %s",
+                invocation.args or "(no args)",
+            )
+            state.recent_tasks.append(
+                TaskRecord(
+                    task=f"expand-topic ({invocation.args[:50] if invocation.args else ''})",
+                    task_type="expand-topic",
+                    date=now.date().isoformat(),
+                    outcome="skipped-cap",
+                )
+            )
+            invocation = None
+            queue_task = None
 
     # Skip execution if no invocation (e.g., no executable queue tasks)
     if invocation is None:

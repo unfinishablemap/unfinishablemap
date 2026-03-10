@@ -7,6 +7,7 @@ author: null
 coalesced_from:
 - /topics/probability-problem-in-many-worlds/
 - /topics/decision-theory-cannot-save-many-worlds/
+- /concepts/probability-objections-many-worlds/
 concepts:
 - '[[concepts/many-worlds]]'
 - '[[measurement-problem]]'

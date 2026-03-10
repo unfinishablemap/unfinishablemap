@@ -47,13 +47,26 @@ class SkillInvocation:
 TODO_PATH = Path(__file__).parent.parent.parent / "obsidian" / "workflow" / "todo.md"
 
 
-def count_p0_p2_tasks(content: str) -> int:
+def count_p0_p2_tasks(
+    content: str, skip_types: Optional[set[TaskType]] = None
+) -> int:
     """Count active tasks with priority P0, P1, or P2.
 
     P3 tasks don't count toward queue health - they require human promotion.
+
+    Args:
+        content: The todo.md content
+        skip_types: Optional set of TaskTypes to exclude from count.
+            Used to exclude expand-topic when sections are at cap, so
+            replenishment correctly triggers when only capped tasks remain.
     """
     parsed = parse_tasks(content)
-    return sum(1 for t in parsed["active"] if t.priority <= 2)
+    return sum(
+        1
+        for t in parsed["active"]
+        if t.priority <= 2
+        and (not skip_types or t.task_type not in skip_types)
+    )
 
 
 # Task types that can be automatically executed by mapping to a skill
@@ -73,17 +86,24 @@ EXECUTABLE_TASK_TYPES = {
 }
 
 
-def select_queue_task(content: str, executable_only: bool = True) -> Optional[Task]:
+def select_queue_task(
+    content: str,
+    executable_only: bool = True,
+    skip_types: Optional[set[TaskType]] = None,
+) -> Optional[Task]:
     """Select the next task from the queue.
 
     Handles:
     - Priority ordering (P0 > P1 > P2 > P3)
     - Skipping blocked/vetoed/in-progress tasks
+    - Skipping task types in skip_types (e.g., expand-topic when at cap)
 
     Args:
         content: The todo.md content
         executable_only: If True (default), skip tasks with type OTHER that
             can't be mapped to skills. Set to False to return any pending task.
+        skip_types: Optional set of TaskTypes to exclude from selection.
+            Used to skip expand-topic tasks when sections are at cap.
     """
     if not executable_only:
         return get_next_task(content)
@@ -106,9 +126,11 @@ def select_queue_task(content: str, executable_only: bool = True) -> Optional[Ta
     # Sort by priority (ascending) then by line number (ascending)
     pending.sort(key=lambda t: (t.priority, t.line_number))
 
-    # Find first executable task
+    # Find first executable task (respecting skip_types filter)
     for task in pending:
         if task.task_type in EXECUTABLE_TASK_TYPES:
+            if skip_types and task.task_type in skip_types:
+                continue
             return task
 
     # No executable tasks found
