@@ -4,8 +4,8 @@ description: "Reasons-responsiveness is the capacity to track normative relation
 created: 2026-02-01
 modified: 2026-02-01
 human_modified: null
-ai_modified: 2026-02-26T10:03:00+00:00
-last_deep_review: 2026-02-04T09:29:00+00:00
+ai_modified: 2026-03-10T12:08:00+00:00
+last_deep_review: 2026-03-10T12:08:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[phenomenology-of-choice]]"
   - "[[counterfactual-reasoning]]"
   - "[[attention-as-interface]]"
+  - "[[normative-phenomenology]]"
   - "[[causal-closure]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[self-stultification]]"
@@ -61,7 +62,7 @@ The agent-causal response gains traction through reasons-responsiveness. Pure ag
 
 Reasons-responsiveness has a distinctive phenomenology. Deliberation involves *attending* to considerations, *weighing* them against each other, *recognizing* when one consideration outweighs another. This weighing is not passive reception of causal outputs but active engagement with normative relationships.
 
-Crucially, reasons feel like they have *valence*—some considerations feel weightier than others, pulling toward one conclusion rather than another. This felt weight isn't reducible to having the thought "this consideration is important"; it's the experiential quality of the consideration *pressing* toward a conclusion. The difference between intellectual acknowledgment ("X is a reason for Y") and reasons-responsiveness proper is this felt directedness.
+Crucially, reasons feel like they have *valence*—some considerations feel weightier than others, pulling toward one conclusion rather than another. This felt weight isn't reducible to having the thought "this consideration is important"; it's the experiential quality of the consideration *pressing* toward a conclusion. [[normative-phenomenology|Normative phenomenology]] investigates precisely this structure: how obligation, evidential weight, and logical compulsion present themselves in conscious experience. The difference between intellectual acknowledgment ("X is a reason for Y") and reasons-responsiveness proper is this felt directedness.
 
 The [[mental-effort|phenomenology of effort]] supports this. Hard choices feel hard because reasoning through difficult trade-offs requires sustained engagement. Random processes don't feel like work; grasping why one option is better does. The felt cost of concentration corresponds to genuine cognitive work—consciousness tracking normative relationships that wouldn't be tracked by automatic processing.
 
@@ -133,6 +134,7 @@ Reasons-responsiveness connects to multiple [[tenets]]:
 - [[mental-effort]] — Why reasoning feels effortful and what this suggests
 - [[attention-as-interface|voluntary attention]] — The paradigm case of reasons-responsive selection in attention deployment
 - [[causal-closure]] — The physicalist principle that reasons-responsiveness challenges
+- [[normative-phenomenology]] — How obligation and evidential weight present themselves in conscious experience
 - [[process-and-consciousness]] — Process philosophy's support for reasons-responsiveness as experiential self-determination
 - [[moral-implications-of-genuine-agency]] — How reasons-responsive agency grounds moral obligation and character
 
