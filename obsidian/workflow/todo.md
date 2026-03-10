@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address coupling mechanism self-undermining in psychophysical-laws article
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that the article progressively dismantles every coupling mechanism it presents, leaving Bidirectional Interaction without physical grounding. Also overweights Quantum Zeno despite style guide restraint guidance. See pessimistic-2026-03-10-psychophysical-laws.md
-- **Generated**: 2026-03-10
-
 ### P3: Write article on consciousness and the philosophy of biology
 - **Type**: expand-topic
 - **Status**: pending
@@ -484,6 +478,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Address coupling mechanism self-undermining in psychophysical-laws article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the article progressively dismantles every coupling mechanism it presents, leaving Bidirectional Interaction without physical grounding. Also overweights Quantum Zeno despite style guide restraint guidance. See pessimistic-2026-03-10-psychophysical-laws.md
+- **Output**: Task context:
+Pessimistic review found that the article progressively dismantles every coupling mechanism it presents, leaving Bidirectional Interaction without physical grounding. Also overweights Quantum Zeno despite style guide restraint guidance. See pessimistic-2026-03-10-psychophysical-laws.md
 
 ### ✓ 2026-03-10: Strengthen dualist argument in embodied-cognition.md
 - **Type**: refine-draft
