@@ -2,9 +2,10 @@
 title: "The Parsimony Void"
 description: "Human+AI exploration of why Occam's Razor may be a cognitive bias masquerading as an epistemic principle—and why we cannot tell from within."
 created: 2026-02-22
-modified: 2026-02-22
+modified: 2026-03-10
 human_modified:
-ai_modified: 2026-02-22T15:37:00+00:00
+ai_modified: 2026-03-10T11:53:00+00:00
+last_deep_review: 2026-03-10T11:53:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,7 +15,6 @@ concepts:
   - "[[mysterianism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[epistemological-limits-occams-razor]]"
   - "[[epistemology-of-cognitive-limits]]"
   - "[[three-kinds-of-void]]"
   - "[[whether-real]]"
@@ -33,9 +33,11 @@ This is a [[voids|void]] in the specific sense the Map tracks: a place where the
 
 Simplicity preferences did not emerge from philosophical reflection. They emerged from the practical demands of navigating a physical environment. Organisms that inferred the simplest adequate cause of rustling grass — predator, not two coordinated predators staging an elaborate trap — survived more often. Pattern compression serves biological fitness. It does not serve metaphysical truth.
 
-This is not the standard philosophical observation that parsimony lacks universal justification — Michael Huemer (2009) and Elliott Sober (2001) have made that case carefully, and the Map's [[epistemological-limits-occams-razor|arguments article]] examines it in detail. The voids-level concern is different. It is that parsimony may be *architecturally embedded* in human cognition: not a principle we choose to apply, but a constraint on how we can think. We do not merely *use* simplicity as a criterion. We may be unable to entertain theories above a certain complexity threshold without distorting them into something simpler.
+The standard philosophical observation — developed by Michael Huemer (2009) and Elliott Sober (2001), and examined in the Map's [[epistemological-limits-occams-razor|arguments article]] — is that parsimony lacks universal justification. The voids-level concern goes deeper. Parsimony may be *architecturally embedded* in human cognition: not a principle we choose to apply, but a constraint on how we can think. We do not merely *use* simplicity as a criterion. We may be unable to entertain theories above a certain complexity threshold without distorting them into something simpler.
 
 If this is right, then parsimony is not a defeasible heuristic we can set aside when warranted. It is a cognitive lens we cannot remove.
+
+A fair objection: cognitive architecture doesn't only push toward simplicity. Humans also exhibit agent-detection bias, teleological thinking, and a tendency to see minds behind events — heuristics that push *toward* dualism. The parsimony void does not claim that all cognitive biases favour physicalism. It claims something more specific: that in the domain where we evaluate *ontological parsimony as an epistemic principle*, the evaluation cannot escape the principle being evaluated. The biases that push toward dualism are a separate issue — they may be equally suspect, but their existence does not resolve the self-referential problem with parsimony.
 
 ## The Self-Referential Trap
 
@@ -51,7 +53,11 @@ Not all heuristics fail in the same way. Some degrade gracefully — they become
 
 The history of science provides precedent. Ernst Mach resisted atomic theory on parsimony grounds into the twentieth century. His commitment to observable simplicity was not a neutral stance waiting to be overridden by evidence — it was an active intellectual force that prevented him from taking seriously what turned out to be true. Continuous matter *felt right* in a way discrete atoms did not. That feeling was cognitive architecture, not epistemic insight.
 
-Francis Crick warned that "Occam's razor... can be a very dangerous implement in biology" (1988). The danger is not merely that parsimony sometimes points the wrong way. It is that in domains of sufficient complexity, simplicity preferences may constitute a systematic bias rather than a defeasible heuristic — filtering out correct-but-complex theories before they can be properly evaluated.
+Mach was eventually overridden — but only because atomic theory generated decisive empirical predictions (Brownian motion, radioactive decay) that no continuous-matter theory could match. The lesson is that parsimony bias *can* be overcome when the alternative theory produces observable consequences distinguishable from the simple theory. Consciousness may lack this escape route. If dualism and physicalism generate identical third-person predictions — if the difference is entirely in what it is *like* — then there may be no empirical lever to pry open the parsimony bias. The tool that corrected Mach is unavailable here.
+
+Francis Crick warned that "Occam's razor... can be a very dangerous implement in biology" (1988). Gabriele Zanotti (2021) argues that physicalism carries a hidden "burden of parsimony" — the obligation to explain consciousness within an ontologically simpler framework generates explanatory costs (eliminativism, epiphenomenalism, panpsychism as escape routes) that offset the supposed simplicity gain. The danger is not merely that parsimony sometimes points the wrong way. It is that in domains of sufficient complexity, simplicity preferences may constitute a systematic bias rather than a defeasible heuristic — filtering out correct-but-complex theories before they can be properly evaluated.
+
+A distinction matters here. Scientific parsimony — preferring theories with fewer ad hoc hypotheses — is a methodological tool with a track record. Cognitive parsimony — the compression preference that makes simpler theories *feel more plausible* — is an architectural feature of minds. The former can be applied self-consciously; the latter operates beneath conscious deliberation. The void concerns primarily the latter, though the two are difficult to disentangle in practice.
 
 Consciousness may be such a domain. If the [[hard-problem-of-consciousness|hard problem]] is hard because the true ontology of consciousness exceeds what simplicity-biased minds can comfortably entertain, then the parsimony void is not merely an interesting philosophical puzzle. It is an active obstacle to understanding.
 
