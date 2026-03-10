@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10T01:11:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[embodied-cognition]]
+- **Changes**: Rewrote choking argument (no longer self-defeating), reduced quantum Zeno overemphasis, acknowledged Buddhist metaphysical divergence, softened unsupported claims, sharpened falsifiability criteria
+- **Published**: yes
+
 ## 2026-03-10T00:57:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/embodied-cognition.md (Embodied Cognition and the Extended Mind)
