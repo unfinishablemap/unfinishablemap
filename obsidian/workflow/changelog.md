@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10T09:12:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/spontaneous-collapse-theories]]
+- **Word count**: 2345 → 2339 (-6)
+- **Critical issues addressed**: 2 (broken wikilink, duplicate Further Reading)
+- **Medium issues addressed**: 2 (McQueen attribution, dated header)
+- **Enhancements made**: 0 (article stable, maintenance only)
+- **Output**: [[reviews/deep-review-2026-03-10-spontaneous-collapse-theories]]
+
 ## 2026-03-10T08:27:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: All non-draft content in obsidian/topics/ (~204), obsidian/concepts/ (~202), obsidian/tenets/
