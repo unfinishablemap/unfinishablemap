@@ -18,6 +18,22 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10T04:56:00+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Certainty Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-certainty-void-2026-03-10](/research/voids-certainty-void-2026-03-10/)
+- **Key finding**: The feeling of certainty operates as an involuntary, opaque mechanism that cannot validate itself from within—certainty must be opaque to function, making the void constitutive rather than accidental
+
+## 2026-03-10T04:26:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/)
+- **Word count**: 2146 → 2184 (+38)
+- **Critical issues addressed**: 2 (broken wikilinks to archived concepts, hallucinated Further Reading entry)
+- **Medium issues addressed**: 2 (ego depletion replication controversy, missing cross-link)
+- **Enhancements made**: 1 (added Hagger et al. 2016 replication reference)
+- **Output**: [deep-review-2026-03-10-attention-disorders-and-quantum-interface](/reviews/deep-review-2026-03-10-attention-disorders-and-quantum-interface/)
+
 ## 2026-03-10T03:41:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [decision-theory-cannot-save-many-worlds](/topics/decision-theory-cannot-save-many-worlds/), [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)

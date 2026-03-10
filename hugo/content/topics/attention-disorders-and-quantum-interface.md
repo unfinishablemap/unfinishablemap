@@ -1,14 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-08 05:29:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-03-10 04:26:00+00:00
+ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[attention-as-interface]]'
 - '[[mental-effort]]'
-- '[[dopamine-selection-interface]]'
-- '[[attention-motor-quantum-interface]]'
+- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[stapp-quantum-mind]]'
 - '[[quantum-consciousness]]'
 created: 2026-02-01
@@ -18,7 +17,7 @@ description: What ADHD, attention fatigue, and meditation deficits reveal about 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-04 04:20:00+00:00
+last_deep_review: 2026-03-10 04:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,7 +87,7 @@ Several features of attention fatigue are informative:
 
 **Motivation can temporarily override fatigue.** Sufficiently high stakes can restore attention even when fatigued—suggesting the resource isn't absolutely exhausted but is being rationed. The system can "overdraw" when stakes warrant it.
 
-**Fatigue is domain-general.** Mental effort in one domain (e.g., resisting temptation) depletes capacity for effort in another domain (e.g., sustained attention). This suggests a single resource underlying all effortful control—consistent with a unified interface mechanism.
+**Fatigue may be domain-general.** Early research suggested mental effort in one domain (e.g., resisting temptation) depletes capacity for effort in another (e.g., sustained attention), though large-scale replication attempts have yielded mixed results (Hagger et al. 2016). If the cross-domain effect holds, it would suggest a single resource underlying effortful control—consistent with a unified interface mechanism. Even if it doesn't, domain-specific fatigue within sustained attention tasks remains well established.
 
 **The fatigue curve is predictable.** Vigilance decrement follows characteristic patterns across tasks and individuals. If attention were purely computational, why would it tire? Computers don't experience fatigue from sustained processing. The biological character of attention fatigue suggests dependence on physical mechanisms.
 
@@ -194,11 +193,9 @@ The materialist might argue that attention disorders show attention is "just" ne
 ## Further Reading
 
 - [attention-as-interface](/concepts/attention-as-interface/) — The core hypothesis: attention as consciousness's bridge to matter
-- [attention-motor-quantum-interface](/concepts/attention-as-interface/) — The unified attention-motor substrate for selection
+- [attention-as-selection-interface](/topics/attention-as-selection-interface/) — The unified attention-motor substrate where consciousness selects among competing options
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno approach to mind-brain interaction
-- [voluntary attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from automatic attention
 - [mental-effort](/concepts/mental-effort/) — Why attention feels effortful and what effort signifies
-- [dopamine-selection-interface](/concepts/motor-selection/) — Dopamine's role in threshold modulation
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Salience bridge, tonic/phasic modes, and what Parkinson's reveals about the interface
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — How consciousness might select among neural options
 - [attention-disorders-and-consciousness](/voids/attention-disorders-and-consciousness/) — The epistemological void: when the instrument of study is itself disordered
@@ -209,14 +206,16 @@ The materialist might argue that attention disorders show attention is "just" ne
 
 2. Baumeister, R.F., Vohs, K.D., & Tice, D.M. (2007). The strength model of self-control. *Current Directions in Psychological Science*, 16(6), 351-355.
 
-3. Kaeser, P.A., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*. https://doi.org/10.1038/s41586-024-08038-z
+3. Hagger, M.S., et al. (2016). A multilab preregistered replication of the ego-depletion effect. *Perspectives on Psychological Science*, 11(4), 546-573.
 
-4. Lutz, A., Slagter, H.A., Dunne, J.D., & Davidson, R.J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, 12(4), 163-169.
+4. Kaeser, P.A., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*. https://doi.org/10.1038/s41586-024-08038-z
 
-5. Schwartz, J.M., & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
+5. Lutz, A., Slagter, H.A., Dunne, J.D., & Davidson, R.J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, 12(4), 163-169.
 
-6. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
+6. Schwartz, J.M., & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 
-7. Tang, Y.Y., Holzel, B.K., & Posner, M.I. (2015). The neuroscience of mindfulness meditation. *Nature Reviews Neuroscience*, 16(4), 213-225.
+7. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 
-8. Volkow, N.D., et al. (2009). Evaluating dopamine reward pathway in ADHD: Clinical implications. *JAMA*, 302(10), 1084-1091.
+8. Tang, Y.Y., Holzel, B.K., & Posner, M.I. (2015). The neuroscience of mindfulness meditation. *Nature Reviews Neuroscience*, 16(4), 213-225.
+
+9. Volkow, N.D., et al. (2009). Evaluating dopamine reward pathway in ADHD: Clinical implications. *JAMA*, 302(10), 1084-1091.
