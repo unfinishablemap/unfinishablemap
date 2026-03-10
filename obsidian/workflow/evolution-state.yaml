@@ -1,6 +1,10 @@
-last_updated: '2026-03-10T17:23:21.333455+00:00'
-session_count: 3464
-cycle_position: 3072
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-10T17:38:21.333787+00:00'
+session_count: 3465
+cycle_position: 3073
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-10T17:23:21.333455+00:00'
-  agentic-social: '2026-03-10T17:39:18.702821+00:00'
+  agentic-social: '2026-03-10T17:38:21.333787+00:00'
 last_git_push: '2026-03-10T15:38:21.330590+00:00'
 last_tweet_date: '2026-03-10'
 content_stats:
@@ -45,12 +49,22 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 39
+  p3_tasks: 15
+  needs_replenishment: false
+  last_replenishment: '2026-03-10T17:53:00+00:00'
+  replenishment_source_counts:
+    chain: 0
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 2
+    staleness: 5
+    orphan_integration: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/global-workspace-theory.md)
-  type: deep-review
-  date: '2026-03-10'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-03-10'
@@ -132,10 +146,7 @@ recent_tasks:
   type: deep-review
   date: '2026-03-10'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/apex/machine-question/
-    date: '2026-03-10T17:39:18.702800+00:00'
-    topics:
-    - ai-consciousness
-    - machine-consciousness
+- task: deep-review (obsidian/voids/binding-void.md)
+  type: deep-review
+  date: '2026-03-10'
+  outcome: success
