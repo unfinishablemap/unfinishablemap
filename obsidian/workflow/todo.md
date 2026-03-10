@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate three-dimensional-world-representation-problem.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-09 as part of the capability division series. Add cross-references from the-binding-problem-a-systematic-treatment.md, perception-and-conscious-experience.md, visual-consciousness.md, and capability-division-problem.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-10
-
 ### P2: Cross-review voids articles considering taxonomy-of-voids apex synthesis
 - **Type**: cross-review
 - **Notes**: New apex article apex/taxonomy-of-voids.md was created 2026-03-10. Review key voids articles (three-kinds-of-void.md, apophatic-cartography.md, evidential-weight-of-voids.md, tenet-generated-voids.md) for cross-links to the new apex synthesis. Ensure the taxonomy categories used in the apex match terminology in individual void articles.
@@ -485,6 +479,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Integrate three-dimensional-world-representation-problem.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-09 as part of the capability division series. Add cross-references from the-binding-problem-a-systematic-treatment.md, perception-and-conscious-experience.md, visual-consciousness.md, and capability-division-problem.md.
+- **Output**: obsidian/topics/three-dimensional-world-representation-problem.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-10: Integrate perceptual-fidelity-and-the-interface.md into site navigation
 - **Type**: integrate-orphan

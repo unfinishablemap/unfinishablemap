@@ -42,7 +42,7 @@ Visual consciousness has distinctive phenomenal structure that shapes how we exp
 
 ### Spatial Character
 
-Visual experience presents objects as arranged in three-dimensional space before you. Unlike auditory or olfactory experience, vision delivers a spatial field with objects at determinate locations and distances. This spatial phenomenology is immediate—you don't infer that the tree is farther than the fence; you see it that way.
+Visual experience presents objects as arranged in three-dimensional space before you. Unlike auditory or olfactory experience, vision delivers a spatial field with objects at determinate locations and distances. This spatial phenomenology is immediate—you don't infer that the tree is farther than the fence; you see it that way. The [[three-dimensional-world-representation-problem|3D world representation problem]] asks why this spatial processing produces a felt three-dimensional arena rather than just correct spatial behaviour—the phenomenal depth, solidity, and extension of the visual world remain unexplained by the computational account.
 
 The visual field has egocentric structure: objects appear before you, to your left, above you. This perspectival character—being centred on *this* viewpoint—connects visual consciousness to questions of [[indexical-knowledge-and-identity|indexical identity]]. Why does the visual world appear from *here* rather than *there*?
 

@@ -4,8 +4,8 @@ description: "How does consciousness construct a unified three-dimensional world
 created: 2026-03-09
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-09T15:12:00+00:00
-last_deep_review: 2026-03-09T15:12:00+00:00
+ai_modified: 2026-03-10T16:38:00+00:00
+last_deep_review: 2026-03-10T16:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -75,7 +75,7 @@ This connects to broader questions about the self and consciousness. The spatial
 
 Perhaps the most striking feature of spatial experience is the sense of *presence*—the feeling that the world is genuinely out there, solid and real, extending beyond the edges of perception. This sense of presence goes far beyond what sensory data warrants.
 
-Behind you right now, there is a world you cannot see. You have a vague spatial sense of what is there—walls, furniture, space—despite receiving no current visual information from that direction. This ambient spatial awareness extends to the [[consciousness-and-the-phenomenology-of-place|felt character of being in a place]]—the atmosphere, familiarity, and spatial mood that permeate the experienced environment beyond what any single sense delivers. This ambient spatial awareness extends the phenomenal world beyond the boundaries of direct perception. The experienced world is not a visual field surrounded by blankness. It is an all-encompassing spatial envelope that contains the perceiver.
+Behind you right now, there is a world you cannot see. You have a vague spatial sense of what is there—walls, furniture, space—despite receiving no current visual information from that direction. This sense of spatial presence connects to the [[consciousness-and-the-phenomenology-of-place|felt character of being in a place]]—the atmosphere, familiarity, and spatial mood that permeate the experienced environment beyond what any single sense delivers. Together, these dimensions of ambient spatial awareness extend the phenomenal world beyond the boundaries of direct perception. The experienced world is not a visual field surrounded by blankness. It is an all-encompassing spatial envelope that contains the perceiver.
 
 The presence problem asks what produces this sense of a real, independent, spatially extended world. Computationally, the brain maintains predictions and representations of unperceived space, and updates them as the head turns or the body moves. But the felt presence of unseen space—its phenomenal character as *real space that is simply not being looked at*—is another instance of the [[explanatory-gap|explanatory gap]]. The prediction explains the information content. It does not explain the qualitative character of spatial presence.
 
