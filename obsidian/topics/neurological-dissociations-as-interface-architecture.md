@@ -4,7 +4,8 @@ description: "Blindsight, anosognosia, alien hand syndrome, and other dissociati
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-10T22:08:00+00:00
+ai_modified: 2026-03-10T22:23:00+00:00
+last_deep_review: 2026-03-10T22:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +40,7 @@ This matters for the Map's framework. If consciousness were identical to neural 
 
 ## The Dissociation Logic
 
-Neurological dissociations follow a pattern familiar from engineering: when a complex system breaks, the specific way it breaks reveals its internal structure. A radio that loses sound but keeps its display tells you the audio and visual circuits are separate. The brain's dissociations work the same way—except that one side of the interface, consciousness, is not directly observable from outside.
+Neurological dissociations follow a pattern that Geschwind (1965) systematised as *disconnection syndromes*: when a complex system breaks, the specific way it breaks reveals its internal structure. A radio that loses sound but keeps its display tells you the audio and visual circuits are separate. The brain's dissociations work the same way—except that one side of the interface, consciousness, is not directly observable from outside.
 
 The key dissociations organise into four interface channels:
 
@@ -135,15 +136,16 @@ flowchart TB
     AP --> AA --> AG
     SM --> SA --> C
     C --> MD --> MC
-    BL <--> UC
+    BL <--> UC <--> C
 
     style C fill:#f9f,stroke:#333,stroke-width:2px
 ```
 
-- **Ascending channels** (perceptual, affective, self-model) deliver content to consciousness through an attentional gate
+- **Ascending channels** (perceptual, affective) deliver content to consciousness through an attentional gate
+- **Self-model channel** delivers body-state reports directly to consciousness, bypassing attentional gating—anosognosia is a construction failure, not an attentional one
 - **Descending channels** (motor commands) carry conscious selections to the body
-- **Bilateral channels** maintain unity across processing streams
-- **Attentional gating** selects which ascending content reaches awareness
+- **Bilateral channels** maintain unity of consciousness across processing streams
+- **Attentional gating** selects which perceptual and affective content reaches awareness
 
 Each component has been independently confirmed by its characteristic dissociation. No single neurological condition reveals this structure—it emerges only from the pattern across conditions.
 
@@ -159,7 +161,9 @@ The dissociation pattern supports [[interface-friction|interface friction]] as a
 
 ### Against Epiphenomenalism
 
-Alien hand syndrome is particularly awkward for [[concepts/epiphenomenalism|epiphenomenalism]]. If consciousness has no causal role, losing the descending channel should change nothing—the motor system would produce the same actions regardless. But alien hand patients show qualitatively different behaviour when the channel is disrupted: purposeful but contextually inappropriate actions, failures of inhibition, conflict between hands. The loss of conscious governance produces observable behavioural change, which is precisely what epiphenomenalism denies should happen.
+Alien hand syndrome is particularly awkward for [[concepts/epiphenomenalism|epiphenomenalism]]. If consciousness has no causal role, losing the descending channel should change nothing—the motor system would produce the same actions regardless. But alien hand patients show qualitatively different behaviour when the channel is disrupted: purposeful but contextually inappropriate actions, failures of inhibition, conflict between hands.
+
+The epiphenomenalist can respond that the brain damage disrupts both the neural processes and the accompanying experience—so the behavioural change reflects lost neural governance, not lost *conscious* governance. This is logically available but requires treating consciousness as a precise shadow of neural control circuitry: present exactly when and only when those circuits function, absent exactly when they fail, yet causally idle throughout. The alien hand does not refute epiphenomenalism outright, but it makes the position considerably more strained.
 
 ## Relation to Site Perspective
 
@@ -167,7 +171,9 @@ Alien hand syndrome is particularly awkward for [[concepts/epiphenomenalism|epip
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The ascending and descending channels confirm bidirectional causation. Brain-to-consciousness: sensory content, affect, and self-model are delivered upward. Consciousness-to-brain: motor selections flow downward. Alien hand syndrome and blindsight demonstrate that each direction can fail independently—confirming that information genuinely flows both ways rather than one direction producing the illusion of the other.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The narrow bandwidth of the interface—consciousness operates at ~10 bits per second against the brain's 10⁹—is consistent with minimal interaction. The interface components are finite, enumerable, and individually disableable. A maximal interaction would pervade all neural processing; the clinical evidence shows consciousness engaging through discrete, severable channels.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The narrow bandwidth of the interface—consciousness operates at roughly 10 bits per second against the brain's billions (Norretranders, 1998)—is consistent with minimal interaction. The interface components are finite, enumerable, and individually disableable. A maximal interaction would pervade all neural processing; the clinical evidence shows consciousness engaging through discrete, severable channels.
+
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The interface architecture assumes a single conscious subject interacting with a single brain through definite channels. In many-worlds interpretations, every dissociation would produce branching: versions of the patient with and without the deficit coexisting across branches. The clinical reality—a specific patient with a specific disconnection producing specific behavioural consequences—is naturally described by single-world interaction, not branching superposition.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The interface architecture is not simple. Six independently faileable channels, attentional gating, bilateral unity maintenance—this is complex machinery. A simpler model (identity theory) fails to account for the dissociation pattern. The actual structure of mind-brain interaction is messier than parsimony would prefer, and the clinical evidence shows why parsimony misleads here.
 
@@ -190,6 +196,7 @@ Alien hand syndrome is particularly awkward for [[concepts/epiphenomenalism|epip
 1. Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
 1. Geschwind, N. (1965). Disconnexion Syndromes in Animals and Man. *Brain*, 88(2), 237–294.
 1. Miller, M. B., et al. (2025). Even minimal fiber connections can unify consciousness. *PNAS*.
+1. Norretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
 1. Nagel, T. (1971). Brain Bisection and the Unity of Consciousness. *Synthese*, 22(3-4), 396–413.
 1. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Interface Friction. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interface-friction/
