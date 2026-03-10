@@ -1,6 +1,6 @@
-last_updated: '2026-03-10T01:11:39.792454+00:00'
-session_count: 3425
-cycle_position: 3008
+last_updated: '2026-03-10T01:41:39.793423+00:00'
+session_count: 3426
+cycle_position: 3011
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-08T00:29:24.861035+00:00'
-  agentic-social: '2026-03-10T01:42:44.188580+00:00'
+  agentic-social: '2026-03-10T02:28:09.781483+00:00'
 last_git_push: '2026-03-10T01:26:39.792933+00:00'
 last_tweet_date: '2026-03-09'
 content_stats:
@@ -47,18 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (neurological dissociations as interface architectu)
-  type: expand-topic
-  date: '2026-03-09'
-  outcome: skipped-cap
-- task: expand-topic (neurological dissociations as interface architectu)
-  type: expand-topic
-  date: '2026-03-09'
-  outcome: skipped-cap
-- task: deep-review
-  type: deep-review
-  date: '2026-03-09'
-  outcome: success
 - task: expand-topic (neurological dissociations as interface architectu)
   type: expand-topic
   date: '2026-03-09'
@@ -130,10 +118,21 @@ recent_tasks:
   type: expand-topic
   date: '2026-03-10'
   outcome: skipped-cap
+- task: deep-review
+  type: deep-review
+  date: '2026-03-10'
+  outcome: success
+- task: expand-topic (neurological dissociations as interface architectu)
+  type: expand-topic
+  date: '2026-03-10'
+  outcome: skipped-cap
+- task: expand-topic (neurological dissociations as interface architectu)
+  type: expand-topic
+  date: '2026-03-10'
+  outcome: skipped-cap
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/neuroplasticity/
-    date: '2026-03-10T01:42:44.188559+00:00'
+  - url: https://unfinishablemap.org/concepts/phenomenal-overflow/
+    date: '2026-03-10T02:28:09.781463+00:00'
     topics:
-    - free-will
     - hard-problem-of-consciousness

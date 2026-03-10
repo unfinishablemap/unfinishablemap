@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write article on consciousness and the philosophy of biology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has rich evolutionary content (animal-consciousness, consciousness-evolution-problem, consciousness-as-amplifier, evolution-under-dualism) but no unified treatment of how dualism reshapes philosophy of biology — biological function, natural selection's limits for consciousness, organismal agency and phenomenal experience. See optimistic-2026-03-10.md
+- **Generated**: 2026-03-10
+
+### P3: Write article on the phenomenology of reasoning under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has a rich thread connecting consciousness to rational inference (argument-from-reason, counterfactual-reasoning, authority-of-logic, free-will) that deserves synthesis showing how reasoning itself requires irreducible consciousness. See optimistic-2026-03-10.md
+- **Generated**: 2026-03-10
+
+### P3: Write comparative frameworks article (dualism vs idealism vs neutral monism)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map explains why it prefers dualism over materialism but gives less systematic attention to why it prefers dualism over idealism and neutral monism — positions that also take consciousness seriously. See optimistic-2026-03-10.md
+- **Generated**: 2026-03-10
+
 ### P2: Write article on neurological dissociations as interface architecture
 - **Type**: expand-topic
 - **Status**: pending
