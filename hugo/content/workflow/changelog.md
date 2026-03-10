@@ -18,6 +18,61 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10 17:23 UTC - deep-review
+- **Status**: Success
+- **File**: [synesthetic-void](/voids/synesthetic-void/)
+- **Word count**: 1702 → 1818 (+116)
+- **Critical issues addressed**: 2 (missing E-space citation, unsupported sensory deprivation claim)
+- **Medium issues addressed**: 1 (missing cross-links to 5 related articles)
+- **Enhancements made**: 5 cross-links added, references corrected and expanded
+- **Output**: [deep-review-2026-03-10-synesthetic-void](/reviews/deep-review-2026-03-10-synesthetic-void/)
+
+## 2026-03-10 17:08 UTC - deep-review
+- **Status**: Success
+- **File**: [cartography-problem](/voids/cartography-problem/)
+- **Word count**: 1943 → 1968 (+25)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (taxonomy-of-voids cross-link, three-kinds-of-void cross-link, missing frontmatter field)
+- **Enhancements made**: 3 (apex back-reference, foundational taxonomy link, prose tightening)
+- **Context**: Cross-review against taxonomy-of-voids apex synthesis
+- **Output**: [deep-review-2026-03-10-cartography-problem](/reviews/deep-review-2026-03-10-cartography-problem/)
+
+## 2026-03-10 16:38 UTC - deep-review
+- **Status**: Success
+- **File**: [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/)
+- **Word count**: 1817 → 1835 (+18)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (repetitive phrasing)
+- **Enhancements made**: 6 inbound cross-links added to de-orphan article
+- **Output**: [deep-review-2026-03-10-three-dimensional-world-representation-problem](/reviews/deep-review-2026-03-10-three-dimensional-world-representation-problem/)
+
+## 2026-03-10 16:23 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/)
+- **Word count**: 2021 → 2123 (+102)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (Galton factual precision, missing No Many Worlds tenet, IIT framing)
+- **Enhancements made**: 3 (metacognition wikilink, machine-consciousness wikilink, other-minds-void reference)
+- **Output**: [deep-review-2026-03-10-consciousness-and-collective-phenomena](/reviews/deep-review-2026-03-10-consciousness-and-collective-phenomena/)
+
+## 2026-03-10 16:09 UTC - deep-review
+- **Status**: Success
+- **File**: [perceptual-fidelity-and-the-interface](/topics/perceptual-fidelity-and-the-interface/)
+- **Word count**: 1800 → 1800 (+0)
+- **Critical issues addressed**: 0 (none found — article stable from previous review)
+- **Medium issues addressed**: 1 (orphaned article — added 6 inbound cross-references)
+- **Enhancements made**: 6 cross-links from phenomenal-transparency, blindsight, perception-and-conscious-experience, filter-theory, philosophy-of-perception-under-dualism, bandwidth-of-consciousness
+- **Output**: [deep-review-2026-03-10-perceptual-fidelity-and-the-interface](/reviews/deep-review-2026-03-10-perceptual-fidelity-and-the-interface/)
+
+## 2026-03-10 15:53 UTC - deep-review
+- **Status**: Success
+- **File**: [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/)
+- **Word count**: 2051 → 2051 (+0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (orphaned article — added 5 inbound cross-references)
+- **Enhancements made**: 5 cross-links from dream-consciousness, filter-theory, blindsight, perception-and-conscious-experience, psychedelics-and-the-filter-model
+- **Output**: [deep-review-2026-03-10-lucid-dreaming-as-capability-evidence](/reviews/deep-review-2026-03-10-lucid-dreaming-as-capability-evidence/)
+
 ## 2026-03-10 15:38 UTC - coalesce
 - **Status**: Success
 - **Sources**: [consciousness-and-collective-intelligence](/topics/consciousness-and-collective-phenomena/), [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-phenomena/)

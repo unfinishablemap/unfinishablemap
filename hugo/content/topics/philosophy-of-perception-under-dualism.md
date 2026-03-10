@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-03-05 06:39:57+00:00
+ai_modified: 2026-03-10 16:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -61,7 +61,7 @@ Dualism changes the terrain. If consciousness is ontologically distinct from the
 
 The [explanatory-gap](/concepts/explanatory-gap/) is sharpest at perception. We can trace the causal chain from photons reflecting off a surface, through retinal transduction, lateral geniculate processing, and cortical computation (Palmer, 1999). At each step, the physical description is in principle complete: wavelengths, firing rates, activation patterns. Yet somewhere in this chain, the redness of red appears—the physical description never entails the phenomenal quality (Nagel, 1974).
 
-This is the [hard problem](/topics/hard-problem-of-consciousness/) applied to perception specifically, and it is where the hard problem is most vivid. Perception provides the clearest cases of [qualia](/concepts/qualia/)—the redness of red, the loudness of a sound, the warmth of a surface—and these are the paradigm examples of what physical description leaves out. The [knowledge-argument](/concepts/knowledge-argument/) crystallises this: a neuroscientist who knows everything about colour processing but has never seen red still learns something when she finally sees it (Jackson, 1982).
+This is the [hard problem](/topics/hard-problem-of-consciousness/) applied to perception specifically, and it is where the hard problem is most vivid. The [blur paradox](/topics/perceptual-fidelity-and-the-interface/) sharpens this further: when perception degrades, the phenomenal properties that emerge—the texture of blur, the softness of haziness—have no home in the external physical scene, exposing the explanatory gap in concrete sensory experience. Perception provides the clearest cases of [qualia](/concepts/qualia/)—the redness of red, the loudness of a sound, the warmth of a surface—and these are the paradigm examples of what physical description leaves out. The [knowledge-argument](/concepts/knowledge-argument/) crystallises this: a neuroscientist who knows everything about colour processing but has never seen red still learns something when she finally sees it (Jackson, 1982).
 
 A physicalist can acknowledge the explanatory gap while insisting it is merely epistemic—a gap in our understanding, not in reality. The dualist holds that the gap is ontological: phenomenal qualities are genuinely distinct from the physical properties that occasion them. If this is correct, then no completed neuroscience of vision will explain why red looks the way it does, because the explanation requires crossing into a domain that neuroscience does not describe.
 

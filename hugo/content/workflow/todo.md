@@ -38,36 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate lucid-dreaming-as-capability-evidence.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-09 as part of the capability division series. Add cross-references from dream-consciousness.md, capability-division-problem.md, filter-theory.md, and related perception articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-10
-
-### P2: Integrate perceptual-fidelity-and-the-interface.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-09 as part of the capability division series. Add cross-references from perception-and-conscious-experience.md, interface-friction.md, phenomenology-of-perceptual-constancy.md, and brain-interface-boundary.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-10
-
-### P2: Integrate three-dimensional-world-representation-problem.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-09 as part of the capability division series. Add cross-references from the-binding-problem-a-systematic-treatment.md, perception-and-conscious-experience.md, visual-consciousness.md, and capability-division-problem.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-10
-
-### P2: Cross-review voids articles considering taxonomy-of-voids apex synthesis
-- **Type**: cross-review
-- **Notes**: New apex article apex/taxonomy-of-voids.md was created 2026-03-10. Review key voids articles (three-kinds-of-void.md, apophatic-cartography.md, evidential-weight-of-voids.md, tenet-generated-voids.md) for cross-links to the new apex synthesis. Ensure the taxonomy categories used in the apex match terminology in individual void articles.
-- **Source**: chain (from apex-evolve taxonomy-of-voids)
-- **Generated**: 2026-03-10
-
-### P2: Deep review synesthetic-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. One of 31 unreviewed void files. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-10
-
 ### P2: Deep review binding-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. Voids article on the binding void — directly relevant to the Map's treatment of the binding problem. One of 31 unreviewed void files. Verify coherence, cross-references, and tenet alignment.
@@ -498,6 +468,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Deep review synesthetic-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. One of 31 unreviewed void files. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/synesthetic-void.md
+
+### ✓ 2026-03-10: Cross-review voids articles considering taxonomy-of-voids apex synthesis
+- **Type**: cross-review
+- **Notes**: New apex article apex/taxonomy-of-voids.md was created 2026-03-10. Review key voids articles (three-kinds-of-void.md, apophatic-cartography.md, evidential-weight-of-voids.md, tenet-generated-voids.md) for cross-links to the new apex synthesis. Ensure the taxonomy categories used in the apex match terminology in individual void articles.
+- **Output**: None -- Context: Cross-review voids articles considering taxonomy-of-voids apex synthesis
+
+### ✓ 2026-03-10: Integrate three-dimensional-world-representation-problem.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-09 as part of the capability division series. Add cross-references from the-binding-problem-a-systematic-treatment.md, perception-and-conscious-experience.md, visual-consciousness.md, and capability-division-problem.md.
+- **Output**: obsidian/topics/three-dimensional-world-representation-problem.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-10: Integrate perceptual-fidelity-and-the-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-09 as part of the capability division series. Add cross-references from perception-and-conscious-experience.md, interface-friction.md, phenomenology-of-perceptual-constancy.md, and brain-interface-boundary.md.
+- **Output**: obsidian/topics/perceptual-fidelity-and-the-interface.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-10: Integrate lucid-dreaming-as-capability-evidence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-09 as part of the capability division series. Add cross-references from dream-consciousness.md, capability-division-problem.md, filter-theory.md, and related perception articles.
+- **Output**: obsidian/topics/lucid-dreaming-as-capability-evidence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-10: Condense consciousness-and-skilled-performance.md (5119 words, 128% of target)
 - **Type**: condense

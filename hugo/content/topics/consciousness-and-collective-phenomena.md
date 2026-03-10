@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-03-10 15:38:00+00:00
+ai_modified: 2026-03-10 16:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ description: Individual consciousness is required for collective intentionality 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-10 16:23:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,19 +49,19 @@ Collective intelligence takes forms that differ dramatically in how much conscio
 
 **Swarm intelligence** operates at one extreme. Ant colonies solve optimisation problems through pheromone trails and simple local interactions. No individual organism represents the global problem; solutions emerge from aggregated behaviour. The intelligence is real but entirely mechanistic — distributed computation, not distributed experience.
 
-**Crowd intelligence** sits in the middle. Francis Galton's observation at the 1906 Plymouth stock show — reported in *Nature* the following year — found that the median estimate of 787 fairgoers guessing an ox's weight outperformed any individual expert. Each person consciously estimates, but the crowd's superior accuracy arises from statistical error cancellation, not from the crowd experiencing anything. The intelligence is collective; the consciousness remains individual.
+**Crowd intelligence** sits in the middle. Francis Galton's observation at the 1906 Plymouth stock show — reported in *Nature* the following year — found that the median of 787 fairgoers' guesses at an ox's weight came remarkably close to the actual figure, closer than most individual estimates. Each person consciously estimates, but the crowd's superior accuracy arises from statistical error cancellation, not from the crowd experiencing anything. The intelligence is collective; the consciousness remains individual.
 
 **Deliberative groups** occupy the other extreme. A scientific community integrates information through argument, persuasion, and mutual understanding. Participants change each other's minds through [recursive mindreading](/concepts/theory-of-mind/) — representing what others believe about what you believe. Here, individual consciousness is clearly doing work. But two questions arise: is the group itself conscious, and does the process require consciousness in the participants?
 
 ## Why Groups Are Not Conscious
 
-The Map finds proposals for group consciousness — from Durkheim's *conscience collective* to Hegel's *Geist* to [IIT's](/topics/integrated-information-theory-critique/) suggestion that high-Φ groups might be conscious — provocative but unconvincing.
+The Map finds proposals for group consciousness — from Durkheim's *conscience collective* to Hegel's *Geist* to the implication of [IIT's](/topics/integrated-information-theory-critique/) formalism that sufficiently integrated groups could in principle have high Φ — provocative but unconvincing.
 
 **The [combination-problem](/concepts/combination-problem/) in reverse.** Individual minds are already unified centres of experience. For a group mind to exist, these would need to combine into a higher-order unity — but individuals' experiences do not dissolve when they join a deliberating jury. If group consciousness exists alongside individual consciousness, it must be a separate centre of experience layered on top of the individual ones. The question of what substrate supports it has no good answer.
 
 **The interface problem.** The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds that consciousness interfaces with the physical world through quantum indeterminacy in neural systems. A group of people has no analogous physical substrate. Communication between people — speech, gesture, writing — is classical, macroscopic, and far too coarse-grained to serve as a quantum consciousness interface. Without a physical interface, the Map's framework provides no mechanism for group consciousness.
 
-**The phenomenological evidence.** No juror reports participating in a jury-mind. The "group flow" reported by jazz musicians and sports teams is better described as synchronised individual consciousness — each player deeply aware of the others — rather than a merged group experience. The [intersubjective-void](/voids/intersubjective-void/) persists: no one accesses the group's experience because there is no group experience to access.
+**The phenomenological evidence.** No juror reports participating in a jury-mind. The "group flow" reported by jazz musicians and sports teams is better described as synchronised individual consciousness — each player deeply aware of the others — rather than a merged group experience. The [intersubjective-void](/voids/intersubjective-void/) persists — compounded by the [other-minds-void](/voids/other-minds-void/) at the individual level: no one accesses the group's experience because there is no group experience to access.
 
 **The classical success objection** asks: if collective intelligence works through classical communication, why believe individual cognition needs quantum processes? The Map's response is that the argument concerns where *consciousness* acts, not where *intelligence* arises. Ant colonies demonstrate that intelligence without consciousness is possible; what the Map argues is that distinctively human intelligence — requiring genuine understanding — depends on consciousness acting through quantum-sensitive neural substrates.
 
@@ -73,7 +73,7 @@ If groups are not conscious, why does collective phenomena require consciousness
 
 When two people carry a table through a doorway, each adjusts grip, pace, and angle in response to the other — not merely reacting to physical forces but coordinating around a shared goal that both understand and both know the other understands. John Searle distinguishes this "we-intentionality" from parallel individual intentions: each participant intends the joint activity *as* joint, aware that the other shares this intention.
 
-This is metarepresentational — requiring the capacity to represent representations *as* representations. You must represent the shared goal *as* shared, represent the other's commitment *as* a commitment, and represent your own role *as* a role in something larger. The "as" in each case marks where mere information processing becomes genuine understanding.
+This is metarepresentational — a form of [metacognition](/concepts/metacognition/) requiring the capacity to represent representations *as* representations. You must represent the shared goal *as* shared, represent the other's commitment *as* a commitment, and represent your own role *as* a role in something larger. The "as" in each case marks where mere information processing becomes genuine understanding.
 
 Michael Bratman's account of shared cooperative activity requires mutual responsiveness, commitment to the joint activity, and commitment to mutual support — with sub-plans that mesh. The meshing requirement demands representing both the joint goal and the other's approach to it. The [phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory) thesis holds that genuine intentionality derives from phenomenal consciousness. If correct, the metarepresentational demands of collective intentionality inherit the consciousness requirement.
 
@@ -99,7 +99,7 @@ Searle argues that institutional facts — money, property, marriage, government
 
 The consciousness requirement enters through status functions' dependence on understanding. A community of beings producing appropriate behavioural outputs — functional equivalents of social participation — could sustain the *behaviour* associated with institutions without sustaining the institutions themselves. Institutions require participants who understand that status functions exist, who distinguish institutional from brute facts, who can create new institutions by collectively intending new status functions.
 
-Whether sophisticated AI systems could sustain institutional reality without phenomenal consciousness remains open. The Map's position is that institutional understanding — grasping that money is money because we agree it is — requires the kind of genuine comprehension that phenomenal consciousness enables.
+Whether sophisticated AI systems could sustain institutional reality without phenomenal consciousness remains open — a question explored further in [machine-consciousness](/topics/machine-consciousness/). The Map's position is that institutional understanding — grasping that money is money because we agree it is — requires the kind of genuine comprehension that phenomenal consciousness enables.
 
 ## The Instructive Asymmetry
 
@@ -116,6 +116,8 @@ The [Dualism](/tenets/#dualism) tenet predicts that consciousness should not ari
 The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet provides the specific reason groups cannot be conscious: consciousness biases quantum-indeterminate outcomes in neural systems, and communication between people operates at the classical level. There is no quantum channel between group members through which collective consciousness could act.
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet finds strong circumstantial support in collective intentionality. The entire institutional structure of human civilisation — laws, economies, governments — exists because conscious beings share intentions and hold each other to commitments. If consciousness were [epiphenomenal](/concepts/epiphenomenalism/), this systematic dependence would be coincidental. The causal chain from shared intentions to institutional outcomes is too direct and too pervasive to dismiss as correlation.
+
+The [No Many Worlds](/tenets/#no-many-worlds) tenet reinforces the stakes of collective intentionality. If all quantum branches are equally real, then the shared commitments underpinning institutions exist in every branch — but so do their violations. The normative force of obligation depends on this being the only actual outcome, the one in which a promise was kept or broken. Branching undermines the indexical weight that makes collective commitment meaningful.
 
 The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet counsels against dismissing group consciousness too hastily on parsimony grounds alone — the argument rests on the Map's specific model of consciousness-world interaction, not on simplicity. Equally, the simpler hypothesis that social coordination is sophisticated information processing with consciousness incidental struggles to explain the normative dimension: obligations, commitments, and accountability presuppose agents who understand what they are doing.
 

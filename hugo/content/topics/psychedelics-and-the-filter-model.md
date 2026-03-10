@@ -116,6 +116,7 @@ Psychedelics illuminate several of the Map's [tenets](/tenets/):
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Broader survey of altered states and their implications
 - [default-mode-network](/concepts/default-mode-network/) — The brain's self-referential system and its role in filtering
 - [dream-consciousness](/topics/dream-consciousness/) — Another state where reduced filtering yields expanded experience
+- [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/) — Lucid dreaming as non-pharmacological evidence for the same filter-loosening pattern
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — The complementary case: increased filtering eliminates experience
 
 ## References

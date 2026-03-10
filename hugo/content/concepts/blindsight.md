@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-10 16:09:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -50,7 +50,7 @@ Key characteristics of blindsight:
 - **Emotional processing**: Some patients show above-chance discrimination of facial expressions in blind regions (de Gelder et al., 1999), suggesting unconscious affective processing pathways via the superior colliculus and amygdala.
 - **Action guidance**: Patients can reach accurately toward stimuli they claim not to see, though reaching may feel "strange" or guided by intuition rather than vision.
 
-What's missing is not processing power but phenomenal experience—the "what it's like" to see.
+What's missing is not processing power but phenomenal experience—the "what it's like" to see. [Lucid dreaming](/topics/lucid-dreaming-as-capability-evidence/) demonstrates the converse: phenomenally complete multisensory experience—vision, audition, touch, proprioception—without any corresponding sensory input. This double dissociation (blindsight: processing without experience; lucid dreaming: experience without input) supports the view that phenomenal rendering is a distinct capability, not an automatic consequence of information processing.
 
 ## Alternative Interpretations
 
@@ -66,7 +66,7 @@ This interpretation supports property dualism. If functionally similar visual pr
 
 Some theorists propose that blindsight involves preserved but degraded visual consciousness rather than its complete absence. Lau and Passingham (2006) demonstrated "relative blindsight" in normal observers using metacontrast masking—showing that subjective awareness can vary even when objective discrimination is matched. Persaud et al. (2011) found awareness-related prefrontal and parietal activity in blindsight patient GY even when discrimination performance was controlled. These findings suggest the dissociation may be between levels of awareness rather than presence versus absence.
 
-Phillips (2021) offers the strongest version of this challenge, arguing that blindsight patients have qualitatively degraded conscious vision and that their denials of seeing reflect conservative response criteria rather than absent phenomenology. On this view, patients set a high threshold for reporting "I see something" and their genuine but degraded visual experience falls below that threshold. Type 2 blindsight patients (as opposed to Type 1) do report vague "feelings" or "awareness of something" without clear visual experience (Weiskrantz, 1998), blurring the line between absent consciousness and present-but-inaccessible consciousness.
+Phillips (2021) offers the strongest version of this challenge, arguing that blindsight patients have qualitatively degraded conscious vision and that their denials of seeing reflect conservative response criteria rather than absent phenomenology. On this view, patients set a high threshold for reporting "I see something" and their genuine but degraded visual experience falls below that threshold. The [blur paradox](/topics/perceptual-fidelity-and-the-interface/) extends Phillips's insight: if consciousness degrades smoothly from vivid clarity through blur to blindsight, the boundary between seeing and not-seeing dissolves into a continuum that threshold-emergence models struggle to explain. Type 2 blindsight patients (as opposed to Type 1) do report vague "feelings" or "awareness of something" without clear visual experience (Weiskrantz, 1998), blurring the line between absent consciousness and present-but-inaccessible consciousness.
 
 **3. Residual islands of spared V1**
 

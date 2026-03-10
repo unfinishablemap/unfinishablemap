@@ -49,12 +49,12 @@ None. No misattributions, dropped qualifiers, source/Map conflation, or internal
 - Added "The Illusionist Response" subsection (lines 57-61): Engages directly with Frankish's likely objection, making the article more intellectually honest and the convergence argument more robust
 - Renamed and tightened "Restatement, Not Solution" section: More argumentative, less rhetorical
 - Added [functionalism](/concepts/functionalism/) cross-link in the new response section
-- Added [hard-problem-of-consciousness](/concepts/hard-problem-of-consciousness/) to frontmatter concepts
+- Added [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) to frontmatter concepts
 - Fixed reference numbering after removing Kim (1989)
 
 ### Cross-links Added
 - [functionalism](/concepts/functionalism/) — linked in the Illusionist Response subsection
-- [hard-problem-of-consciousness](/concepts/hard-problem-of-consciousness/) — added to frontmatter concepts list
+- [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — added to frontmatter concepts list
 
 ## Remaining Items
 

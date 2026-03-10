@@ -58,7 +58,7 @@ Unity is not monolithic. Bayne and Chalmers (2003) distinguished several dimensi
 
 ### Synchronic Unity
 
-At any moment, visual, auditory, bodily, and emotional experiences are unified into one consciousness. The unity is not temporal coincidence—events can occur simultaneously without being phenomenally unified, as when neural processes run in parallel during dreamless sleep. Synchronic unity is what the [binding problem](/concepts/binding-problem/) primarily addresses: how do features processed in separate brain regions yield one experience?
+At any moment, visual, auditory, bodily, and emotional experiences are unified into one consciousness. The unity is not temporal coincidence—events can occur simultaneously without being phenomenally unified, as when neural processes run in parallel during dreamless sleep. Synchronic unity is what the [binding problem](/concepts/binding-problem/) primarily addresses: how do features processed in separate brain regions yield one experience? Spatial experience makes this unity particularly vivid: the [3D world representation problem](/topics/three-dimensional-world-representation-problem/) shows that visual depth, auditory localisation, and proprioceptive body position are unified into a single spatial arena—not merely coordinated across separate maps.
 
 ### Diachronic Unity
 

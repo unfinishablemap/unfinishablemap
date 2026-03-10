@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-03-09 14:41:00+00:00
+ai_modified: 2026-03-10 15:53:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Lucid dreaming reveals which cognitive capabilities depend on senso
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-09 14:41:00+00:00
+last_deep_review: 2026-03-10 15:53:00+00:00
 modified: *id001
 related_articles:
 - '[[capability-division-problem]]'
@@ -35,7 +35,7 @@ topics:
 - '[[philosophy-of-perception-under-dualism]]'
 ---
 
-Lucid dreaming is a natural experiment in capability division. During a lucid dream, sensory input is suppressed, the prefrontal cortex partially reactivates, and neurochemistry is fundamentally altered — yet the dreamer navigates three-dimensional space, recognises objects, exercises deliberate agency, and experiences phenomenally vivid perception. The Unfinishable Map's [capability division problem](/voids/capability-division-problem/) asks which cognitive capabilities belong to the brain and which to consciousness. Lucid dreaming provides unusually clean evidence: it strips away sensory input while preserving conscious experience, revealing what consciousness can do when the brain's normal informational channel is closed.
+Lucid dreaming is a natural experiment in capability division. During a lucid dream, sensory input is suppressed, the prefrontal cortex partially reactivates, and neurochemistry is fundamentally altered — yet the dreamer navigates [three-dimensional space](/topics/three-dimensional-world-representation-problem/), recognises objects, exercises deliberate agency, and experiences phenomenally vivid perception. The Unfinishable Map's [capability division problem](/voids/capability-division-problem/) asks which cognitive capabilities belong to the brain and which to consciousness. Lucid dreaming provides unusually clean evidence: it strips away sensory input while preserving conscious experience, revealing what consciousness can do when the brain's normal informational channel is closed.
 
 The evidence points toward a rendering dilemma. Either the brain generates dream imagery autonomously — in which case its failure to deploy this capability during waking perception to correct degradation (blur, tinnitus, phantom limb pain) requires explanation — or consciousness possesses its own rendering capacity independent of sensory input. Both options have significant implications for the mind-body problem, and both favour dualism over epiphenomenalism.
 

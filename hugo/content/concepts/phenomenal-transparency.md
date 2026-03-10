@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-25 11:29:00+00:00
+ai_modified: 2026-03-10 16:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -75,6 +75,8 @@ Evidence for transparency comes partly from cases where it breaks down. These di
 **Depersonalization disorder** involves a failure of self-model transparency. Patients experience themselves as unreal, as watching their own actions from outside, as disconnected from their bodies. They maintain insight—they know they are themselves—while experiencing profound alienation. The self-model has become partially opaque: visible as a model rather than presenting seamlessly as the self. The result is typically pathology, not insight. This suggests transparency serves function. As the [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) article explores, the self-model's invisibility may be necessary for coherent experience.
 
 **Psychedelic states** weaken transparency through ego dissolution. The normally stable sense of being a continuous self—maintained by a transparent self-model—thins or vanishes. Reports frequently describe seeing through the constructed nature of ordinary experience. But these insights rarely survive the return of normal transparency.
+
+**Degraded perception** provides the most systematic transparency failure. Remove your glasses, and you don't merely lose information about the world—you gain awareness of the medium through which you were perceiving. The [blur paradox](/topics/perceptual-fidelity-and-the-interface/) shows that the less faithfully experience tracks the external world, the more visible the interface becomes. Blur has a phenomenal character—softness, haziness, texture—that belongs to experience itself, not to any external object. This is transparency shattering: the representational medium, normally invisible, becomes the most salient feature of the experience.
 
 **Optical illusions** represent localized transparency failures. The Müller-Lyer illusion works even when you know the lines are equal—the transparent representation overrides conceptual knowledge. But meta-awareness that "this is an illusion" represents a crack in transparency: you recognize the representation as representation rather than as reality.
 
