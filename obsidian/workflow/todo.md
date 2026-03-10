@@ -369,12 +369,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The possibility that different conscious systems couple with matter through different mechanisms. Central to comparative-consciousness-and-interface-differences and what-it-might-be-like-to-be-an-ai but currently only developed within those articles. Target section: concepts/. Supports Tenets 1 and 2. See [[reviews/optimistic-2026-03-07-night]].
 
-### P2: Deep review acquaintance-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the acquaintance void — the impossibility of conveying what direct experience is like to someone who lacks it. One of 33 unreviewed void files. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-08
-
 ### P2: Deep review amplification-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the amplification void — examining what is lost or distorted when consciousness amplifies cognitive signals. One of 33 unreviewed void files. Verify coherence, cross-references, and tenet alignment.
@@ -503,6 +497,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Deep review acquaintance-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the acquaintance void — the impossibility of conveying what direct experience is like to someone who lacks it. One of 33 unreviewed void files. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/acquaintance-void.md
 
 ### ✓ 2026-03-10: Deep review binding-void.md
 - **Type**: deep-review
