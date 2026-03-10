@@ -296,11 +296,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Hoffman, Singh & Prakash's formal proof that fitness-tuned perception dominates truth-tuned perception. Currently discussed in evolved-cognitive-limits.md but deserves standalone concept page given implications for parsimony arguments, perceptual reliability, and Occam's Razor. Target section: concepts/ (1 slot remaining). Supports Tenet 5 (Occam's Razor Has Limits). See [[reviews/optimistic-2026-03-05-afternoon]].
 
-### P2: Apex synthesis of the voids taxonomy
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The voids programme has 60+ articles but no apex synthesis. The evolved-cognitive-limits "naturally occluded" category suggests the taxonomy itself is evolving. An apex article could organise voids by type (architectural, adaptive, occluded), domain (perceptual, cognitive, phenomenological), and what they reveal about consciousness structure. Builds on voids.md, three-kinds-of-void.md, apophatic-cartography.md, and all void articles. See [[reviews/optimistic-2026-03-05-afternoon]].
-
 ### P2: Write article on phenomenology of cognitive limit types
 - **Type**: expand-topic
 - **Status**: pending
@@ -460,6 +455,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Apex synthesis of the voids taxonomy
+- **Type**: apex-evolve
+- **Notes**: Suggested by optimistic review. The voids programme has 60+ articles but no apex synthesis. The evolved-cognitive-limits "naturally occluded" category suggests the taxonomy itself is evolving. An apex article could organise voids by type (architectural, adaptive, occluded), domain (perceptual, cognitive, phenomenological), and what they reveal about consciousness structure. Builds on voids.md, three-kinds-of-void.md, apophatic-cartography.md, and all void articles. See [[reviews/optimistic-2026-03-05-afternoon]].
+- **Output**: Apex synthesis of the voids taxonomy
+
+Task context:
+Suggested by optimistic review. The voids programme has 60+ articles but no apex synthesis. The evolved-cognitive-limits "naturally occluded" category suggests the taxonomy itself is evolving. An apex article could organise voids by type (architectural, adaptive, occluded), domain (perceptual, cognitive, phenomenological), and what they reveal about consciousness structure. Builds on voids.md, three-kinds-of-void.md, apophatic-cartography.md, and all void articles. See [[reviews/optimistic-2026-03-05-afternoon]].
 
 ### ✓ 2026-03-10: Deep review moral-responsibility.md
 - **Type**: deep-review
