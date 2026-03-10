@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write article on phenomenal intentionality as foundational thesis
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The claim that intentionality derives from phenomenal consciousness underlies many of the Map's strongest arguments (argument-from-reason, collective-intentionality, mathematical-cognition) but has never received independent philosophical treatment. Multiple articles assume it; none defend it systematically. See optimistic-2026-03-10-afternoon.md
+- **Generated**: 2026-03-10
+
+### P3: Write article on AI systems as consciousness test cases
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Current AI engagement is defensive. A positive empirical framework for testing consciousness claims through what AI can and cannot do — and what the gaps reveal — would strengthen the Map's case and engage contemporary discourse. Builds on hoel-llm-consciousness-continual-learning.md, consciousness-and-mathematical-cognition.md, consciousness-as-amplifier.md. See optimistic-2026-03-10-afternoon.md
+- **Generated**: 2026-03-10
+
+### P3: Write article on the convergence meta-argument as philosophical method
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map's implicit meta-strategy — showing independent arguments converge — deserves explicit treatment. Why is convergence evidentially significant? When does it fail? Builds on the-case-for-dualism.md, epistemic-advantages-of-dualism.md, self-stultification-as-master-argument.md. See optimistic-2026-03-10-afternoon.md
+- **Generated**: 2026-03-10
+
 ### P3: Write article on consciousness and the philosophy of biology
 - **Type**: expand-topic
 - **Status**: pending
