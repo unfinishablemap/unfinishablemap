@@ -4,7 +4,7 @@ description: "Does consciousness survive bodily death? Dualism keeps the questio
 created: 2026-01-14
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-02-17T05:12:00+00:00
+ai_modified: 2026-03-10T00:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,12 +37,14 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-02-03T23:03:00+00:00
+last_deep_review: 2026-03-10T00:12:00+00:00
 ---
 
 Does consciousness survive bodily death? The Unfinishable Map's dualist framework makes survival a coherent possibility that materialism forecloses. If consciousness is immaterial and irreducible, nothing in principle prevents it from persisting when the body fails. This doesn't *guarantee* survival—functional dependence on brains might be essential even for non-physical minds. But dualism keeps the question genuinely open in ways materialism cannot. Combined with the Map's emphasis on [[personal-identity|indexical identity]]—the view that *you* are irreplaceable rather than a mere pattern—and its concept of [[haecceity|haecceity]] (irreducible thisness), this creates distinctive resources for thinking about death.
 
-Before examining what might survive, we must acknowledge the [[death-void|death void]]—the structural impossibility of consciousness representing its own absence. Every attempt to imagine nonexistence presupposes the imaginer. This cognitive limit shapes how we think about survival: we can reason about death but cannot experience or genuinely conceive it from within. The death void also illuminates the Lucretian asymmetry: we fear posthumous nonexistence but feel nothing about prenatal nonexistence, revealing that what matters is the *ending* of this particular self, not nonexistence per se—directly relevant to Parfit's view discussed below. Related to the death void is [[cognitive-aversion|cognitive aversion]]—the systematic deflection from mortality that Terror Management Theory documents: even when we attempt to contemplate death, attention slides toward substitutes (funerals, legacy, what others will feel) rather than the cessation of experience itself.
+Before examining what might survive, we must acknowledge the [[death-void|death void]]—the structural impossibility of consciousness representing its own absence. Every attempt to imagine nonexistence presupposes the imaginer. This cognitive limit shapes how we think about survival: we can reason about death but cannot experience or genuinely conceive it from within.
+
+The death void illuminates the Lucretian asymmetry: we fear posthumous nonexistence but feel nothing about prenatal nonexistence, revealing that what matters is the *ending* of this particular self, not nonexistence per se—directly relevant to Parfit's view discussed below. Related is [[cognitive-aversion|cognitive aversion]]—the systematic deflection from mortality that Terror Management Theory documents (Greenberg, Solomon, & Pyszczynski, 1997): even when we contemplate death, attention slides toward substitutes (funerals, legacy, what others will feel) rather than the cessation of experience itself.
 
 ## The Stakes
 
@@ -219,19 +221,4 @@ What the Map claims: given its dualist commitments, survival is a *coherent poss
 1. Parnia, S., et al. (2014). "AWARE—AWAreness during REsuscitation—A prospective study." *Resuscitation*, 85(12), 1799-1805.
 1. Parnia, S., et al. (2023). "AWAreness during REsuscitation II: A multi-center study of consciousness and awareness in cardiac arrest." *Resuscitation*, 191, 109903.
 1. Xu, G., et al. (2023). "Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain." *PNAS*, 120(19).
-
-<!-- AI REFINEMENT LOG - 2026-02-17
-Changes made:
-1. Harmonized NDE statistics: replaced Parnia 2014 (9%) with AWARE II 2023 (39% any awareness, 21% transcendent RED), keeping Van Lommel 2001 (18%). Fixed cross-article inconsistency flagged by pessimistic review.
-1. Fixed filter-theory.md: replaced unsourced "approximately 40%" with properly cited and qualified AWARE II figures.
-1. Fixed near-death-experiences.md: opening now distinguishes 39% awareness from 21% transcendent RED.
-1. Softened NDE conclusion language: "suggests" → "is consistent with the possibility that" per pessimistic review.
-1. Added unfalsifiability caveat to Minimal Quantum Interaction tenet section, referencing measurement-problem article (Issue 1 from pessimistic review).
-1. Added AWARE II (Parnia 2023) to References.
-1. Added measurement-problem concept link to frontmatter.
-
-Based on pessimistic review pessimistic-2026-02-17.md (Issue 4: NDE Statistics, Issue 1: Unfalsifiability Leak).
-Key improvements: cross-article statistical consistency, honest qualification of quantum claims.
-
-This log should be removed after human review.
--->
+1. Greenberg, J., Solomon, S., & Pyszczynski, T. (1997). "Terror management theory of self-esteem and cultural worldviews." *Advances in Experimental Social Psychology*, 29, 61-139.
