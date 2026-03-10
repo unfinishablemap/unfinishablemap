@@ -4,8 +4,8 @@ description: "The measurement problem and hard problem share a deep structure: b
 created: 2026-02-01
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-03-04T16:07:00+00:00
-last_deep_review: 2026-02-05T19:11:00+00:00
+ai_modified: 2026-03-10T19:38:00+00:00
+last_deep_review: 2026-03-10T19:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -200,7 +200,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 
 **[[tenets#^dualism|Dualism]]**: The measurement problem reveals a gap in physical explanation that no purely physical account has closed. Consciousness remains a candidate for what determines individual outcomes—something physics describes but doesn't determine.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The causal closure loophole provides exactly the opening for minimal consciousness-physics interaction: selecting among undetermined outcomes without violating [[conservation-laws-and-mind|conservation laws]].
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The causal closure loophole provides exactly the opening for minimal consciousness-physics interaction: selecting among undetermined outcomes without violating [[conservation-laws-and-mental-causation|conservation laws]].
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness selects outcomes, then conscious choices make a difference to what happens physically. This preserves the causal efficacy that [[concepts/epiphenomenalism]] denies. This is central to [[topics/free-will]]: genuine agency requires that our conscious choices make a difference to what happens.
 
@@ -234,4 +234,5 @@ This topic is central to the Map's framework, connecting all five tenets:
 1. Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278.
 1. Von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
 1. Wigner, E.P. (1961). "Remarks on the mind-body question." In *The Scientist Speculates*, ed. I.J. Good.
+1. Schurger, A., Sitt, J.D., Dehaene, S. (2012). "An accumulator model for spontaneous neural activity prior to self-initiated movement." *Proceedings of the National Academy of Sciences*, 109(42), E2904–E2913.
 1. Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*.
