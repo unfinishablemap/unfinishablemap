@@ -85,12 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map explains why it prefers dualism over materialism but gives less systematic attention to why it prefers dualism over idealism and neutral monism — positions that also take consciousness seriously. See optimistic-2026-03-10.md
 - **Generated**: 2026-03-10
 
-### P2: Write article on the trilemma of selection
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The attention-as-selection-interface article contains the determinism/randomness/mental-causation trilemma—possibly the Map's most logically compelling argument—buried within a broader article. A standalone treatment could develop each horn with full rigour, engage compatibilist responses, and connect to the broader argumentative architecture. Builds on attention-as-selection-interface.md, free-will.md, consciousness-and-causal-powers.md. See optimistic-2026-02-25.md
-- **Generated**: 2026-02-25
-
 ### P2: Write article on emergence as universal hard problem
 - **Type**: expand-topic
 - **Status**: pending
@@ -497,6 +491,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Write article on the trilemma of selection
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The attention-as-selection-interface article contains the determinism/randomness/mental-causation trilemma—possibly the Map's most logically compelling argument—buried within a broader article. A standalone treatment could develop each horn with full rigour, engage compatibilist responses, and connect to the broader argumentative architecture. Builds on attention-as-selection-interface.md, free-will.md, consciousness-and-causal-powers.md. See optimistic-2026-02-25.md
+- **Output**: the trilemma of selection
 
 ### ✓ 2026-03-10: Write article on the epistemology of introspective calibration
 - **Type**: expand-topic

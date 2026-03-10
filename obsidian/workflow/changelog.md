@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10 23:08 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Trilemma of Selection
+- **Output**: [[topics/trilemma-of-selection]]
+- **Word count**: 1901
+- **Based on research**: No (draws on existing Map articles: attention-as-selection-interface, free-will, quantum-indeterminacy-free-will)
+
 ## 2026-03-10 22:53 UTC - research-voids
 - **Status**: Skipped (section at capacity)
 - **Reason**: Voids section has 102 articles against a cap of 100
