@@ -464,6 +464,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has strong theoretical foundations but limited engagement with how consciousness-irreducibility transforms medical practice—pain treatment, anaesthetic monitoring, psychiatric diagnosis as interface disorders. Builds on interface-friction.md, emotion-as-evidence-for-dualism.md, anaesthesia-and-the-consciousness-interface.md. See optimistic-2026-03-09-afternoon.md
 - **Generated**: 2026-03-09
 
+### P3: Write article on contemplative methods as systematic interface investigation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map treats contemplative evidence across many articles but lacks a unified account of meditation as systematic interface exploration — mapping how different practices modulate consciousness-brain coupling, what jhana states reveal about interface architecture, and how contemplative reports serve as phenomenological data. Builds on contemplative-epistemology.md, contemplative-neuroscience.md, meditation-and-consciousness-modes.md, witness-consciousness.md. See optimistic-2026-03-10-morning.md
+- **Generated**: 2026-03-10
+
+### P3: Write article on performative arguments in philosophy of mind
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has developed a distinctive argumentative style — showing that denying consciousness's causal role performatively contradicts the act of denial. A meta-level treatment of why performative arguments are particularly effective against anti-realism about consciousness would strengthen methodological foundations. Builds on self-stultification-as-master-argument.md, consciousness-and-the-authority-of-formal-systems.md, argument-from-reason.md. See optimistic-2026-03-10-morning.md
+- **Generated**: 2026-03-10
+
+### P3: Write concept page for the formal-phenomenal boundary
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The authority/sovereignty distinction in the formal systems article identifies a principled limit where formal description fails to capture phenomenal reality. This boundary concept would anchor articles on logic, mathematics, and consciousness. Builds on consciousness-and-the-authority-of-formal-systems.md, galilean-exclusion.md. See optimistic-2026-03-10-morning.md
+- **Generated**: 2026-03-10
+
 ### P3: Write article on normative phenomenology as unified programme
 - **Type**: expand-topic
 - **Status**: pending
