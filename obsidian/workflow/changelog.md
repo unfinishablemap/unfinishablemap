@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10T13:38:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/evolutionary-case-for-mental-causation]]
+- **Word count**: 2906 → 2905 (-1)
+- **Critical issues addressed**: 1 (fabricated reference — Doerig et al. 2024 replaced with correct Georgiev 2024 and Lacalli 2024 citations)
+- **Medium issues addressed**: 0 (AI refinement log deferred to human review)
+- **Enhancements made**: 0 (article at stability; length-neutral mode)
+- **Output**: [[reviews/deep-review-2026-03-10-evolutionary-case-for-mental-causation]]
+
 ## 2026-03-10T13:23:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-indeterminacy-free-will]]

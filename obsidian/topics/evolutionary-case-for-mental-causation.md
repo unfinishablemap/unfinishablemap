@@ -4,9 +4,9 @@ description: "Evolution provides significant evidence that consciousness causall
 created: 2026-02-05
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-03-02T16:52:00+00:00
+ai_modified: 2026-03-10T13:38:00+00:00
 draft: false
-last_deep_review: 2026-02-05T04:39:00+00:00
+last_deep_review: 2026-03-10T13:38:00+00:00
 topics:
   - "[[consciousness-and-intelligence]]"
   - "[[hard-problem-of-consciousness]]"
@@ -88,7 +88,7 @@ Research provides suggestive (though not decisive) evidence. Lieberman et al. (2
 
 ## The Quantum Dimension
 
-A 2024 review in *Neuroscience of Consciousness* states: "Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics leads to causally impotent conscious experiences in direct contradiction to evolutionary theory."
+Georgiev (2024) states: "Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics, however, leads to causally impotent conscious experiences in direct contradiction to evolutionary theory."
 
 This observation connects the evolutionary argument to the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet—but only for those who already accept that consciousness is non-physical. The physicalist has no need for a special mechanism: on their view, consciousness *is* neural processing, and neural processing is already causally integrated into the physical world. The question of mechanism arises specifically for the dualist, who must explain how a non-physical property influences physical outcomes.
 
@@ -110,7 +110,7 @@ Consciousness enables organisms to monitor their own cognitive states—recognis
 
 ### Motivational Control Responsive to History
 
-A 2024 evolutionary analysis proposes that consciousness "first evolved to make motivational control more responsive to the past life experiences of the individual." Preprogrammed instincts respond to current stimuli; consciousness enables responses shaped by remembered experience. An organism that can consciously recall past outcomes adjusts behaviour in ways instinct alone cannot achieve.
+Lacalli (2024) proposes that consciousness "first evolved to make motivational control more responsive to the past life experiences of the individual." Preprogrammed instincts respond to current stimuli; consciousness enables responses shaped by remembered experience. An organism that can consciously recall past outcomes adjusts behaviour in ways instinct alone cannot achieve.
 
 ### Temporal Integration
 
@@ -179,7 +179,8 @@ The evolutionary argument for mental causation supports multiple Map tenets.
 
 ## References
 
-1. Doerig, A., Schurger, A., & Herzog, M.H. (2024). The function(s) of consciousness: an evolutionary perspective. *Neuroscience of Consciousness*, 2024(1), niae031.
+1. Georgiev, D.D. (2024). Evolution of Consciousness. *Life*, 14(1), 48.
+1. Lacalli, T. (2024). The function(s) of consciousness: an evolutionary perspective. *Frontiers in Psychology*, 15, 1493423.
 1. Heyes, C. (2018). Cumulative culture and explicit metacognition. *Humanities and Social Sciences Communications*, 5, 150.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
