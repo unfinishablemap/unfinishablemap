@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-28 03:46:00+00:00
+ai_modified: 2026-03-10 19:08:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -72,7 +72,7 @@ David Lewis and Laurence Nemirow argue that Mary gains only practical abilities,
 
 The response preserves physicalism: abilities are dispositions of physical systems, not evidence of non-physical reality.
 
-But critics identify fatal problems. Abilities are neither necessary nor sufficient for phenomenal knowledge. Someone without visual imagination could still know what red looks like. And someone could have the imaginative abilities without having had the experience—perhaps through brain stimulation—yet arguably wouldn't have the same knowledge Mary gains. The ability hypothesis fails to capture what makes Mary's learning significant.
+But critics identify serious difficulties. Abilities are neither necessary nor sufficient for phenomenal knowledge. Someone without visual imagination could still know what red looks like. And someone could have the imaginative abilities without having had the experience—perhaps through brain stimulation—yet arguably wouldn't have the same knowledge Mary gains. The ability hypothesis fails to capture what makes Mary's learning significant.
 
 ### The Phenomenal Concepts Strategy
 
@@ -86,11 +86,13 @@ However, the dilemma's force depends on accepting that zombie conceivability is 
 
 ### Denying Mary's Knowledge
 
-Daniel Dennett argues that if Mary truly knew all physical facts, she could predict what seeing red would be like. The intuition that she couldn't stems from underestimating what "all physical facts" really means. A complete physical description would include facts about how the brain represents and responds to color—enough to anticipate the experience.
+Daniel Dennett argues that if Mary truly knew all physical facts, she could predict what seeing red would be like. The intuition that she couldn't stems from underestimating what "all physical facts" really means. A complete physical description would include facts about how the brain represents and responds to color—enough to anticipate the experience. Dennett's point is not merely about behavioral prediction; it is that genuinely complete physical knowledge would include knowledge of how Mary's own brain *represents* color, which might suffice for anticipating the phenomenal character itself.
 
-This amounts to denying premise 1: Mary's confinement prevents her from acquiring certain physical knowledge, not just phenomenal knowledge. She can't fully understand brain states she's never had.
+This amounts to denying premise 1: Mary's confinement prevents her from acquiring certain physical knowledge, not just phenomenal knowledge. She can't fully instantiate the relevant brain states from within her black-and-white room, so what she lacks is a particular *kind* of physical knowledge—experiential acquaintance with her own neural representations—not evidence of non-physical facts.
 
-But this seems to miss the point. Even if Mary could predict her behavioral responses to red, would she know *what it's like* before seeing it? The qualitative character of the experience seems to require undergoing it, not merely predicting it.
+This challenge deserves more weight than dualists typically give it. The standard reply—that even perfect predictive knowledge would not constitute *knowing what it's like*—presupposes exactly what the argument is supposed to establish: that phenomenal knowledge is sui generis and irreducible to physical knowledge. Dennett's response exposes a genuine burden-of-proof question. The knowledge argument works only if the learning intuition is treated as evidence that physical knowledge is incomplete. Dennett treats the same intuition as evidence that we underestimate physical knowledge. Which side bears the burden of proof—the physicalist to explain away the intuition, or the dualist to show that no possible physical knowledge could suffice—is not resolved by the thought experiment itself.
+
+That said, Dennett's position carries its own explanatory debt. He must explain what "complete physical knowledge" would look like in a way that makes the learning intuition dissolve rather than persist. If even the most detailed physical description of color processing leaves competent philosophers with the strong sense that Mary learns something new, the physicalist owes an account of why this intuition is so robust and so wrong. The debate here turns on deep questions about what counts as knowledge and whether physical description has principled limits—questions that neither side has settled.
 
 ### The Illusionist Response
 
@@ -209,3 +211,16 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 1. Nisbett, R. E., & Wilson, T. D. (1977). "Telling More Than We Can Know: Verbal Reports on Mental Processes." *Psychological Review*, 84(3), 231-259.
 1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis, and the Misrepresentation of Humanity*. Acumen.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+
+<!-- AI REFINEMENT LOG - 2026-03-10
+Changes made:
+- Rewrote "Denying Mary's Knowledge" section to engage Dennett's argument seriously rather than dismissing it
+- Acknowledged the genuine burden-of-proof question between physicalists and dualists
+- Added Dennett's own explanatory debt (must explain why the intuition is so robust if wrong)
+- Softened "fatal problems" to "serious difficulties" in ability hypothesis section
+
+Based on pessimistic-2026-03-10-evening.md review (Issue 3).
+Key improvements: Intellectual honesty about unresolved methodological questions.
+
+This log should be removed after human review.
+-->

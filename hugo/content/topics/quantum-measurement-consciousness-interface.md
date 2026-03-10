@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-03-04 16:07:00+00:00
+ai_modified: 2026-03-10 19:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ description: 'The measurement problem and hard problem share a deep structure: b
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-05 19:11:00+00:00
+last_deep_review: 2026-03-10 19:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -237,4 +237,5 @@ This topic is central to the Map's framework, connecting all five tenets:
 1. Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278.
 1. Von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
 1. Wigner, E.P. (1961). "Remarks on the mind-body question." In *The Scientist Speculates*, ed. I.J. Good.
+1. Schurger, A., Sitt, J.D., Dehaene, S. (2012). "An accumulator model for spontaneous neural activity prior to self-initiated movement." *Proceedings of the National Academy of Sciences*, 109(42), E2904–E2913.
 1. Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*.

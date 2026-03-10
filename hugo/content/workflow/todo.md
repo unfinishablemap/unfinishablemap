@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review binding-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. Voids article on the binding void — directly relevant to the Map's treatment of the binding problem. One of 31 unreviewed void files. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-10
-
 ### P3: Write article on phenomenal intentionality as foundational thesis
 - **Type**: expand-topic
 - **Status**: pending
@@ -376,18 +370,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The possibility that different conscious systems couple with matter through different mechanisms. Central to comparative-consciousness-and-interface-differences and what-it-might-be-like-to-be-an-ai but currently only developed within those articles. Target section: concepts/. Supports Tenets 1 and 2. See [optimistic-2026-03-07-night](/reviews/optimistic-2026-03-07-night/).
 
-### P2: Deep review acquaintance-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the acquaintance void — the impossibility of conveying what direct experience is like to someone who lacks it. One of 33 unreviewed void files. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-08
-
-### P2: Deep review amplification-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the amplification void — examining what is lost or distorted when consciousness amplifies cognitive signals. One of 33 unreviewed void files. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-08
-
 ### P2: Write article on the phenomenology of temporal agency
 - **Type**: expand-topic
 - **Status**: pending
@@ -466,8 +448,80 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has strong individual treatments of time and consciousness but no unified account of how temporal ontology constrains the selection interface. Growing block provides ontological framework; process haecceitism provides individuation; temporal becoming provides phenomenology. Together they form the Map's most original metaphysical contribution. Builds on growing-block-universe-and-consciousness.md, consciousness-and-temporal-becoming.md, temporal-ontology-and-consciousness.md, process-haecceitism.md. See optimistic-2026-03-09-evening.md
 - **Generated**: 2026-03-09
 
+### P2: Condense research/dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09.md (3516 words, 100% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings on proprioception, spatial reasoning, and imagination as dual-domain capabilities while tightening prose. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-10
+
+### P2: Deep review calibration-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the calibration void — examining whether introspective calibration is achievable. One of 44+ unreviewed void files. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-10
+
+### P2: Deep review imagination-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the imagination void — limits of imaginative capacity as cognitive evidence. One of 44+ unreviewed void files. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-10
+
+### P2: Deep review continuity-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the continuity void — gaps in experiential continuity as evidence about consciousness structure. One of 44+ unreviewed void files. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-10
+
+### P2: Deep review plurality-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the plurality void — the impossibility of knowing whether consciousness is singular or plural. One of 44+ unreviewed void files. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-10
+
+### P2: Deep review historical-consciousness-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the historical consciousness void — limits of understanding past conscious experience. One of 44+ unreviewed void files. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-10
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Strengthen photosynthesis coherence retraction implications in ai-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the Cao et al. (2020) retraction of biological quantum coherence evidence is noted but underplayed. Acknowledge explicitly that the Map's quantum interaction tenet currently lacks direct empirical support. See pessimistic-2026-03-10-evening.md
+- **Output**: obsidian/topics/ai-consciousness.md
+
+Task context:
+Pessimistic review found that the Cao et al. (2020) retraction of biological quantum coherence evidence is noted but underplayed. Acknowledge explicitly that the Map's quantum interaction tenet currently lacks direct empirical support. See pessimistic-2026-03-10-evening.md
+
+### ✓ 2026-03-10: Address dismissive treatment of Dennett's response in knowledge-argument.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that Dennett's challenge to premise 1 is dismissed with "this seems to miss the point" rather than engaged seriously. Give his argument more weight and acknowledge the unresolved burden-of-proof question. See pessimistic-2026-03-10-evening.md
+- **Output**: obsidian/concepts/knowledge-argument.md
+
+Task context:
+Pessimistic review found that Dennett's challenge to premise 1 is dismissed with "this seems to miss the point" rather than engaged seriously. Give his argument more weight and acknowledge the unresolved burden-of-proof question. See pessimistic-2026-03-10-evening.md
+
+### ✓ 2026-03-10: Condense filter-theory.md (3507 words, 100% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core filter theory arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/filter-theory.md
+
+### ✓ 2026-03-10: Deep review amplification-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the amplification void — examining what is lost or distorted when consciousness amplifies cognitive signals. One of 33 unreviewed void files. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/amplification-void.md
+
+### ✓ 2026-03-10: Deep review acquaintance-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the acquaintance void — the impossibility of conveying what direct experience is like to someone who lacks it. One of 33 unreviewed void files. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/acquaintance-void.md
+
+### ✓ 2026-03-10: Deep review binding-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. Voids article on the binding void — directly relevant to the Map's treatment of the binding problem. One of 31 unreviewed void files. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/binding-void.md
 
 ### ✓ 2026-03-10: Deep review synesthetic-void.md
 - **Type**: deep-review

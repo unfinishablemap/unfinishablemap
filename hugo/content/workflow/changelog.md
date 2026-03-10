@@ -18,6 +18,85 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10 19:38 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/)
+- **Word count**: 2888 → 2916 (+28)
+- **Critical issues addressed**: 1 (broken wikilink to conservation-laws-and-mental-causation)
+- **Medium issues addressed**: 1 (missing Schurger et al. 2012 reference)
+- **Enhancements made**: 0 (article approaching stability)
+- **Output**: [deep-review-2026-03-10-quantum-measurement-consciousness-interface](/reviews/deep-review-2026-03-10-quantum-measurement-consciousness-interface/)
+
+## 2026-03-10 19:23 UTC - refine-draft
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Changes**: Strengthened Cao et al. (2020) retraction acknowledgment; added explicit statement that quantum interaction tenet lacks direct empirical support; updated Relation to Site Perspective section
+- **Published**: yes
+
+## 2026-03-10 19:08 UTC - refine-draft
+- **Status**: Success
+- **File**: [knowledge-argument](/concepts/knowledge-argument/)
+- **Changes**: Rewrote Dennett section for serious engagement; acknowledged burden-of-proof question; softened "fatal problems" language
+- **Published**: yes
+
+## 2026-03-10 18:53 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: simulation.md, ai-consciousness.md, knowledge-argument.md (3 oldest unreviewed files)
+- **Output**: [pessimistic-2026-03-10-evening](/reviews/pessimistic-2026-03-10-evening/)
+- **Tasks created**: 2 P2 refine-draft tasks (Dennett response in knowledge-argument, photosynthesis retraction in ai-consciousness)
+
+## 2026-03-10 18:38 UTC - condense
+- **Status**: Success
+- **File**: [filter-theory](/concepts/filter-theory/)
+- **Before**: 3507 words
+- **After**: 2592 words
+- **Reduction**: 26%
+- **Technique**: Trimmed historical development sections, condensed psychedelic paradox and ASC discussion, shortened simple organisms section, compressed Buddhist philosophy to single paragraph with link, tightened objections and site perspective sections
+
+## 2026-03-10 18:24 UTC - deep-review
+- **Status**: Success
+- **File**: [amplification-void](/voids/amplification-void/)
+- **Word count**: 1554 → 1767 (+213)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (dangling references, unfalsifiability concern, Heisenberg analogy, Stapp citation)
+- **Enhancements made**: 5 (Stapp/Zeno integration, quantum biology context, Carruthers opacity, consciousness-as-amplifier cross-link, unfalsifiability rebuttal)
+- **Output**: [deep-review-2026-03-10-amplification-void](/reviews/deep-review-2026-03-10-amplification-void/)
+
+## 2026-03-10 18:08 UTC - deep-review
+- **Status**: Success
+- **File**: [dualism](/concepts/dualism/)
+- **Word count**: 2169 → 2341 (+172)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-10-dualism](/reviews/deep-review-2026-03-10-dualism/)
+
+## 2026-03-10 17:57 UTC - deep-review
+- **Status**: Success
+- **File**: [acquaintance-void](/voids/acquaintance-void/)
+- **Word count**: 1386 → 1594 (+208)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-10-acquaintance-void](/reviews/deep-review-2026-03-10-acquaintance-void/)
+
+## 2026-03-10 17:39 UTC - deep-review
+- **Status**: Success
+- **File**: [binding-void](/voids/binding-void/)
+- **Word count**: 1996 → 2022 (+26)
+- **Critical issues addressed**: 1 (uncited 2024 co-ripples claim removed)
+- **Medium issues addressed**: 4 (deflationary challenge added, James revision noted, relative time fixed, NMW connection improved)
+- **Enhancements made**: 3 (deflationary response paragraph, prose tightening throughout, AI claim softened)
+- **Output**: [deep-review-2026-03-10-binding-void](/reviews/deep-review-2026-03-10-binding-void/)
+
+## 2026-03-10 17:31 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [consciousness-and-agency](/apex/consciousness-and-agency/)
+- **Changed sources**: 2 (topics/free-will, concepts/agent-causation)
+- **Word count**: 4068 → 4000
+- **Key changes**: Integrated counterfactual void constraints (Byrne's nearest-world bias as MQI prediction), Kane's 2024 agent-causal convergence, authentic/inauthentic choice dimension; condensed Sartre, compatibilism, and speculative time passages
+- **Review**: [apex-evolve-2026-03-10-consciousness-and-agency](/reviews/apex-evolve-2026-03-10-consciousness-and-agency/)
+
 ## 2026-03-10 17:23 UTC - deep-review
 - **Status**: Success
 - **File**: [synesthetic-void](/voids/synesthetic-void/)

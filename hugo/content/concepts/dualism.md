@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-05 19:25:00+00:00
+ai_modified: 2026-03-10 18:08:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,6 +19,8 @@ concepts:
 - '[[intuitive-dualism]]'
 - '[[buddhism-and-dualism]]'
 - '[[topics/free-will]]'
+- '[[causal-closure]]'
+- '[[neural-correlates-of-consciousness]]'
 created: 2026-01-19
 date: &id001 2026-01-19
 description: Dualism holds that consciousness is distinct from physical matter. Multiple
@@ -27,7 +29,7 @@ description: Dualism holds that consciousness is distinct from physical matter. 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-04 17:12:00+00:00
+last_deep_review: 2026-03-10 18:08:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -90,7 +92,7 @@ Mary knows all physical facts about colour vision while living in a black-and-wh
 
 ### The Intrinsic Character of Qualia
 
-[Qualia](/concepts/qualia/) have intrinsic character—what pain feels like, how red appears—that physical descriptions cannot capture. Physics describes relations between quantities (mass relative to other masses, charge interactions, spatial relations). But the redness of red is not a relation. It is an intrinsic quality present in experience. No amount of relational information yields intrinsic character.
+[Qualia](/concepts/qualia/) have intrinsic character—what pain feels like, how red appears—that physical descriptions cannot capture. Physics describes relations between quantities (mass relative to other masses, charge interactions, spatial relations). But the redness of red is not a relation. It is an intrinsic quality present in experience. No amount of relational information yields intrinsic character. This is distinct from the epistemic point made by the knowledge argument: the intrinsic nature argument targets the *structure* of physical explanation itself, showing that a purely relational vocabulary cannot express non-relational properties regardless of how much information it contains.
 
 ### The Argument from Reason
 
@@ -116,9 +118,9 @@ The Map's framework commits to interactionism, with the [Minimal Quantum Interac
 
 ### The Interaction Problem
 
-If mind is non-physical, how can it causally affect the physical world? Classical objections (Princess Elizabeth to Descartes, Leibniz on conservation laws) seemed devastating when physics was deterministic. But quantum mechanics reopens possibilities: at quantum indeterminacies, physics specifies probabilities, not outcomes. Consciousness could select among possibilities without injecting energy. The [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) traces how these objections evolved and why they no longer rule out interaction.
+If mind is non-physical, how can it causally affect the physical world? Classical objections (Princess Elizabeth to Descartes, Leibniz on conservation laws) seemed devastating when physics was deterministic—and relied on the assumption of [causal closure](/concepts/causal-closure/), the doctrine that every physical event has a sufficient physical cause. But quantum mechanics reopens possibilities: at quantum indeterminacies, physics specifies probabilities, not outcomes. Consciousness could select among possibilities without injecting energy. The [history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/) traces how these objections evolved and why they no longer rule out interaction.
 
-The leading candidate mechanism is [Stapp's quantum Zeno effect](/concepts/stapp-quantum-mind/): repeated attention-driven observations bias superposition collapse toward particular outcomes without adding energy, only information. The objection that warm, noisy brains can't maintain quantum coherence misunderstands the proposal—consciousness doesn't require long-lived neural superposition. Stapp's model concerns synaptic vesicle release, where quantum uncertainty in neurotransmitter timing provides the interface point, not macroscopic brain-wide coherence. See [objections-to-interactionism](/concepts/objections-to-interactionism/) for detailed treatment.
+Candidate mechanisms exist. [Stapp's quantum Zeno effect](/concepts/stapp-quantum-mind/) proposes that attention-driven observations bias superposition collapse without adding energy. The objection that warm, noisy brains cannot maintain quantum coherence targets macroscopic brain-wide superposition, which these proposals do not require—the relevant quantum effects operate at the scale of individual synaptic events. See [objections-to-interactionism](/concepts/objections-to-interactionism/) for detailed treatment.
 
 ### The Parsimony Objection
 
@@ -126,7 +128,7 @@ Isn't materialism simpler? Why posit two kinds of thing when one might suffice? 
 
 ### The Neural Correlation Objection
 
-Doesn't neuroscience show that consciousness is just brain activity? Every mental state correlates with brain states. Drugs and damage alter experience predictably. But correlation is compatible with dualism. [Interactionism](/concepts/interactionist-dualism/) predicts exactly these findings—if consciousness interfaces with the brain, we would expect tight correlations. The correlations show where consciousness interfaces with matter, not that consciousness is matter.
+Doesn't neuroscience show that consciousness is just brain activity? Every mental state correlates with brain states. Drugs and damage alter experience predictably. But correlation is compatible with dualism. [Interactionism](/concepts/interactionist-dualism/) predicts exactly these findings—if consciousness interfaces with the brain, we would expect tight [neural correlates](/concepts/neural-correlates-of-consciousness/). The correlations show where consciousness interfaces with matter, not that consciousness is matter.
 
 ### The Cognitive Science Objection
 
@@ -134,9 +136,9 @@ Paul Bloom argued humans are "natural-born dualists" due to separate cognitive s
 
 ### The Eliminativist Challenge
 
-A more radical objection: perhaps "consciousness" and "subjective experience" don't refer to anything real—they're confused folk categories like "élan vital" destined for elimination as neuroscience advances. If phenomenal concepts are malformed, zombie and knowledge arguments collapse.
+A more radical objection: perhaps "consciousness" and "subjective experience" don't refer to anything real—they're confused folk categories like "élan vital" destined for elimination as neuroscience advances. A sophisticated version is illusionism (Frankish 2016): phenomenal properties are not what they seem—introspection systematically misrepresents internal states as having intrinsic qualitative character when they have only functional properties. If phenomenal concepts are malformed, zombie and knowledge arguments collapse.
 
-But this strategy is self-undermining in a way eliminative materialism about other entities is not. We might discover that "witches don't exist" because the concept is incoherent. But we cannot coherently discover that "experiences don't exist"—the discovery would itself be an experience. As Searle noted, consciousness has a first-person ontology that makes elimination impossible. We can revise our *theories* about consciousness, but we cannot deny the phenomenon whose existence is given immediately in awareness.
+But this strategy is self-undermining in a way eliminative materialism about other entities is not. We might discover that "witches don't exist" because the concept is incoherent. But we cannot coherently discover that "experiences don't exist"—the discovery would itself be an experience. Illusionism faces a specific version of this problem: even if introspection *misrepresents* the nature of experience, the misrepresentation is itself an experience with phenomenal character. As Searle argued, consciousness has a first-person ontology that makes elimination impossible (Searle 1992). We can revise our *theories* about consciousness, but we cannot deny the phenomenon whose existence is given immediately in awareness.
 
 ## Relation to the Map's Perspective
 
@@ -174,10 +176,14 @@ What would count as evidence against dualism? If future neuroscience provided a 
 
 ## References
 
+1. Barrett, H. C., Bolyanatz, A., Crittenden, A., et al. (2021). Intuitive dualism and afterlife beliefs: A cross-cultural study. *Cognitive Science*, 45(6), e12993.
+1. Bloom, P. (2004). *Descartes' Baby: How the Science of Child Development Explains What Makes Us Human*. Basic Books.
 1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
 1. Descartes, R. (1641). *Meditations on First Philosophy*.
+1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32, 127-136.
 1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 1. Lowe, E. J. (2006). Non-Cartesian substance dualism and the problem of mental causation. *Erkenntnis*, 65(1), 5-23.
 1. Robinson, H. (2020). Substance dualism. *Stanford Encyclopedia of Philosophy*.
+1. Searle, J. R. (1992). *The Rediscovery of the Mind*. MIT Press.
 1. Swinburne, R. (2013). *Mind, Brain, & Free Will*. Oxford University Press.
