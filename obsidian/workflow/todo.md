@@ -471,6 +471,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-10
 
+### P2: Integrate consciousness-and-pain.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Add cross-references from related articles or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-10
+
+### P2: Integrate autonoetic-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Autonoetic consciousness (self-knowing awareness of personal past/future) is referenced in episodic-memory.md and related articles but lacks inbound wikilinks. Add cross-references from memory, self, and temporal consciousness articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-10
+
+### P2: Integrate consciousness-and-temporal-integration.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Temporal integration is central to the binding problem and temporal phenomenology clusters. Add cross-references from binding-problem, temporal-consciousness, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-10
+
+### P2: Deep review what-it-might-be-like-to-be-an-ai.md
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) created 2026-03-07, never reviewed. Major synthesis piece on AI consciousness phenomenology — quality assurance especially important for apex articles. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-10
+
+### P2: Deep review absorption-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. Voids article on the absorption void. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-10
+
+### P2: Deep review compound-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-09, never reviewed. Voids article on compound cognitive limits — how multiple cognitive limitations interact and compound. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-10
+
+### P3: Deep review ai-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 33 days ago, beyond the 30-day staleness threshold. Major topics article on AI consciousness that engages with contemporary discourse. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-10
+
 ## Completed Tasks
 
 

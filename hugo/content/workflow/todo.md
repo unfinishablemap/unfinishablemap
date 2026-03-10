@@ -38,6 +38,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write article on temporal structure of consciousness as irreducibility evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map identifies temporal phenomenology (protention-retention, durational unity, irreversibility, specious present) across 30+ articles but has no dedicated treatment arguing temporal structure is the primary evidence for consciousness's non-physical character. Builds on consciousness-and-temporal-becoming, phenomenology-of-returning-attention, smoothness-problem. See optimistic-2026-03-10-evening.md
+- **Generated**: 2026-03-10
+
+### P3: Create concept page for dual-domain capability framework
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The dual-domain capability framework (brain-side vs mind-side processing) is distributed across 5+ articles (capability-division-problem, smoothness-problem, memory-as-dual-domain-capability, perceptual-fidelity-and-the-interface, lucid-dreaming-as-capability-evidence) without a unifying concept page. See optimistic-2026-03-10-evening.md
+- **Generated**: 2026-03-10
+
 ### P3: Write article on phenomenal intentionality as foundational thesis
 - **Type**: expand-topic
 - **Status**: pending
@@ -448,30 +460,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has strong individual treatments of time and consciousness but no unified account of how temporal ontology constrains the selection interface. Growing block provides ontological framework; process haecceitism provides individuation; temporal becoming provides phenomenology. Together they form the Map's most original metaphysical contribution. Builds on growing-block-universe-and-consciousness.md, consciousness-and-temporal-becoming.md, temporal-ontology-and-consciousness.md, process-haecceitism.md. See optimistic-2026-03-09-evening.md
 - **Generated**: 2026-03-09
 
-### P2: Condense research/dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09.md (3516 words, 100% of hard threshold)
-- **Type**: condense
-- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings on proprioception, spatial reasoning, and imagination as dual-domain capabilities while tightening prose. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-10
-
-### P2: Deep review calibration-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the calibration void — examining whether introspective calibration is achievable. One of 44+ unreviewed void files. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-10
-
-### P2: Deep review imagination-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the imagination void — limits of imaginative capacity as cognitive evidence. One of 44+ unreviewed void files. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-10
-
-### P2: Deep review continuity-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the continuity void — gaps in experiential continuity as evidence about consciousness structure. One of 44+ unreviewed void files. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-10
-
 ### P2: Deep review plurality-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the plurality void — the impossibility of knowing whether consciousness is singular or plural. One of 44+ unreviewed void files. Verify coherence, cross-references, and tenet alignment.
@@ -486,6 +474,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Deep review continuity-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the continuity void — gaps in experiential continuity as evidence about consciousness structure. One of 44+ unreviewed void files. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/continuity-void.md
+
+### ✓ 2026-03-10: Deep review imagination-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the imagination void — limits of imaginative capacity as cognitive evidence. One of 44+ unreviewed void files. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/imagination-void.md
+
+### ✓ 2026-03-10: Deep review calibration-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the calibration void — examining whether introspective calibration is achievable. One of 44+ unreviewed void files. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/calibration-void.md
+
+### ✓ 2026-03-10: Condense research/dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09.md (3516 words, 100% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings on proprioception, spatial reasoning, and imagination as dual-domain capabilities while tightening prose. See /condense skill.
+- **Output**: obsidian/research/dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09.md
 
 ### ✓ 2026-03-10: Strengthen photosynthesis coherence retraction implications in ai-consciousness.md
 - **Type**: refine-draft

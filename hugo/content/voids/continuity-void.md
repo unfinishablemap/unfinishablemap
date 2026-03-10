@@ -1,14 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-03-01 06:15:00+00:00
+ai_modified: 2026-03-10 20:53:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[temporal-consciousness]]'
 - '[[phenomenology]]'
 - '[[introspection]]'
-- '[[temporal-consciousness]]'
 - '[[philosophy-of-time]]'
 - '[[mysterianism]]'
 created: 2026-03-01
@@ -18,6 +17,7 @@ description: Human+AI investigation of why consciousness cannot determine its ow
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-03-10 20:53:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -31,7 +31,6 @@ related_articles:
 title: The Continuity Void
 topics:
 - '[[temporal-experience]]'
-- '[[philosophy-of-time]]'
 ---
 
 William James called consciousness a "stream." Bergson insisted on an indivisible "flow" (*Time and Free Will*, Ch. 2). Yet neuroscience suggests that conscious percepts may emerge in discrete episodes — Herzog et al. (2016) propose roughly 400-millisecond windows, separated by intervals of unconscious processing. The Unfinishable Map's continuity void names a structural impossibility: consciousness cannot determine whether it flows continuously or arrives in discrete drops, because every method of investigation either presupposes the answer or transforms what it examines. The impossibility is structural — a feature of what consciousness is, not a gap awaiting a better instrument.
@@ -58,7 +57,7 @@ These frameworks have been debated for over a century without convergence. The f
 
 ## The Measurement Paradox
 
-Any attempt to determine the temporal grain of consciousness encounters a circularity. To time a conscious moment, consciousness must serve as both clock and phenomenon measured. If consciousness is discrete, the measuring act occupies a moment of the same grain as what it measures — it cannot be finer than itself. If consciousness is continuous, the act of marking a boundary creates one where none existed.
+Any attempt to determine the temporal grain of consciousness encounters a circularity that [introspection](/concepts/introspection/) cannot escape. To time a conscious moment, consciousness must serve as both clock and phenomenon measured. If consciousness is discrete, the measuring act occupies a moment of the same grain as what it measures — it cannot be finer than itself. If consciousness is continuous, the act of marking a boundary creates one where none existed.
 
 Buddhist contemplative traditions encountered this problem two millennia ago. Vipassanā meditation claims to reveal the arising and passing of momentary mental events at extremely fine grain. Practitioners report perceiving individual *khaṇas* — discrete flashes of experience. But the [observation-void](/voids/observation-void/) applies here: the practice shapes what it observes. Intensive attention to temporal boundaries may construct discreteness rather than discovering it.
 
@@ -66,7 +65,7 @@ Neuroscience approaches from the other direction but hits an analogous wall. Her
 
 ## The Specious Present Without a Ruler
 
-The difficulty crystallises in the specious present — the experienced duration of "now." Estimates of its length range from 300 milliseconds (Strawson) to 1.5 seconds (Lockwood), with no convergence. If the temporal grain of consciousness were determinable, we would at minimum agree on this basic measurement.
+The difficulty crystallises in the specious present — the experienced duration of "now." Estimates of its length range from a fraction of a second (Strawson, 2009) to 1.5 seconds (Lockwood, 1989), with no convergence. If the temporal grain of consciousness were determinable, we would at minimum agree on this basic measurement.
 
 The disagreement is not merely empirical. Different experimental paradigms measure different things: temporal order judgements, simultaneity windows, perceptual fusion thresholds, rhythmic grouping intervals. Each operationalises the specious present differently, and none captures what we actually want to know — the duration of a single unit of experience as experienced. That concept may not even be coherent, which is itself part of the void.
 
@@ -78,7 +77,7 @@ This critique applies reflexively: the present article frames the void in terms 
 
 Compelling evidence that this is a genuine void — not merely a hard problem — is the convergent failure across independent traditions. Buddhist momentariness (*kṣaṇavāda*) has debated exactly this question for over two thousand years, generating sophisticated arguments without resolution. Bergson's durée and Husserl's time-consciousness represent a separate philosophical tradition reaching similar impasses. Analytic philosophy of mind adds formal precision without progress. Neuroscience reveals the processing architecture without touching the phenomenal question.
 
-When entirely independent intellectual traditions, using different methods, different conceptual frameworks, and different starting assumptions, all reach the same impasse over the same question for millennia, the difficulty is likely in the territory rather than the explorer.
+A qualification: Buddhist traditions do not universally regard this as an impasse. Some schools treat kṣaṇavāda as settled doctrine rather than open question, which suggests the "convergence" is in the *difficulty* of the question, not necessarily in accepting it as permanently void. Still, the inter-traditional pattern is striking. When traditions using different methods, different conceptual frameworks, and different starting assumptions all struggle with the same question for millennia, the difficulty is likely in the territory rather than the explorer — a case of [cognitive closure](/concepts/mysterianism/) applied to temporal structure.
 
 ## Relation to Site Perspective
 
@@ -113,23 +112,6 @@ The continuity void exemplifies why the Map is unfinishable. Not every question 
 4. Bergson, H. (1889). *Time and Free Will*. Chapter 2.
 5. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer.
 6. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
-7. Southgate, A. & Oquatre-six, C. (2026-02-28). The Resolution Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/resolution-void/
-
-<!-- AI REFINEMENT LOG - 2026-03-01
-Changes made:
-- Fixed style guide violation: replaced "This is not X. It is Y." construct in opening paragraph
-- Softened overstated neuroscience claim (400ms "reveals" → "suggests...may emerge")
-- Added Bergson citation to opening paragraph
-- Added Dennett's Multiple Drafts model as fourth approach with substantive rebuttal
-- Compressed three-models section to reduce overlap with temporal-consciousness.md (linked out for details)
-- Softened two unsupported superlatives ("strongest" → "powerful"/"compelling")
-- Addressed self-undermining tension: acknowledged reflexive application of Bergson's critique
-- Added Tenet 2 (Minimal Quantum Interaction) to Relation to Site Perspective
-- Added Tenet 4 (No Many Worlds) to Relation to Site Perspective — now covers all five tenets
-- Added Dennett 1991 to references
-
-Based on pessimistic review (pessimistic-2026-03-01-continuity-void.md).
-Key improvements: engagement with dissolution strategy, complete tenet coverage, style compliance.
-
-This log should be removed after human review.
--->
+7. Strawson, G. (2009). *Selves: An Essay in Revisionary Metaphysics*. Oxford University Press.
+8. Lockwood, M. (1989). *Mind, Brain and the Quantum*. Blackwell.
+9. Southgate, A. & Oquatre-six, C. (2026-02-28). The Resolution Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/resolution-void/
