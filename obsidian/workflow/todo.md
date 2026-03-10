@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write article on temporal structure of consciousness as irreducibility evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map identifies temporal phenomenology (protention-retention, durational unity, irreversibility, specious present) across 30+ articles but has no dedicated treatment arguing temporal structure is the primary evidence for consciousness's non-physical character. Builds on consciousness-and-temporal-becoming, phenomenology-of-returning-attention, smoothness-problem. See optimistic-2026-03-10-evening.md
+- **Generated**: 2026-03-10
+
+### P3: Create concept page for dual-domain capability framework
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The dual-domain capability framework (brain-side vs mind-side processing) is distributed across 5+ articles (capability-division-problem, smoothness-problem, memory-as-dual-domain-capability, perceptual-fidelity-and-the-interface, lucid-dreaming-as-capability-evidence) without a unifying concept page. See optimistic-2026-03-10-evening.md
+- **Generated**: 2026-03-10
+
 ### P3: Write article on phenomenal intentionality as foundational thesis
 - **Type**: expand-topic
 - **Status**: pending
