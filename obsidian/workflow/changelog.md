@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10T10:56:00+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Expertise Void — how mastery systematically eliminates conscious access to the processes mastered
+- **Category**: Occluded / Unexplorable (Mixed)
+- **Output**: [[research/voids-expertise-void-2026-03-10]]
+- **Key finding**: Expertise-induced amnesia, choking under pressure, and Polanyi's tacit knowledge converge on evidence that the expertise void is actively defended rather than passively empty, suggesting consciousness serves as scaffolding that dismantles itself once skills are built.
+
 ## 2026-03-10T10:26:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/attention-schema-theory-critique]]
