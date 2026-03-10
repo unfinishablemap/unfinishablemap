@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10T00:57:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/embodied-cognition.md (Embodied Cognition and the Extended Mind)
+- **Output**: [[reviews/pessimistic-2026-03-10]]
+
 ## 2026-03-10T00:12:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/death-and-consciousness]]

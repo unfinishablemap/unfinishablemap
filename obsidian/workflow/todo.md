@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Strengthen dualist argument in embodied-cognition.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found self-defeating argumentative strategy: the article's central evidence (choking) is systematically conceded to the physicalist reading. Also overemphasises quantum Zeno mechanism (violating style guide restraint directive) and selectively appropriates Buddhist philosophy without acknowledging metaphysical divergence. See pessimistic-2026-03-10.md
+- **Generated**: 2026-03-10
+
 ### P2: Write article on neurological dissociations as interface architecture
 - **Type**: expand-topic
 - **Status**: pending
