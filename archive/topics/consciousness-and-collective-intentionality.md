@@ -26,6 +26,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-02-19T18:06:00+00:00
+archived: true
+archived_date: 2026-03-10T15:38:00+00:00
+superseded_by: "/topics/consciousness-and-collective-phenomena/"
+archive_reason: "Coalesced into Consciousness and Collective Phenomena"
+original_path: "/topics/consciousness-and-collective-intentionality/"
 ---
 
 When two people carry a heavy table through a doorway, something happens that no solitary action can replicate. Each adjusts grip, pace, and angle in response to the other — not merely reacting to physical forces but coordinating around a shared goal that both understand and both know the other understands. This is collective intentionality: the capacity of multiple minds to share goals, commitments, and representations in ways that generate a form of "aboutness" no individual mind possesses alone. The Unfinishable Map argues that collective intentionality depends on phenomenal consciousness — not because groups are conscious, but because the individual contributions that make collective intentionality possible require subjects who genuinely understand what they are doing together.

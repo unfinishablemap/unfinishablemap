@@ -25,7 +25,7 @@ related_articles:
   - "[[tenets]]"
   - "[[other-minds-void]]"
   - "[[intersubjective-void]]"
-  - "[[consciousness-and-collective-intentionality]]"
+  - "[[consciousness-and-collective-phenomena]]"
   - "[[phenomenology-of-epistemic-judgment]]"
   - "[[emotional-consciousness]]"
   - "[[machine-consciousness]]"
@@ -119,7 +119,7 @@ The [[tenets#^occams-limits|limits of Occam's Razor]] (Tenet 5) caution against 
 - [[intersubjectivity]]
 - [[phenomenology-of-epistemic-judgment]]
 - [[intersubjective-void]]
-- [[consciousness-and-collective-intentionality]]
+- [[consciousness-and-collective-phenomena]]
 - [[phenomenology-of-deliberation-under-uncertainty]]
 - [[emotional-consciousness]]
 - [[machine-consciousness]]

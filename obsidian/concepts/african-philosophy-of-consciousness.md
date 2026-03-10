@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[the-hard-problem-in-non-western-philosophy]]"
-  - "[[consciousness-and-collective-intentionality]]"
+  - "[[consciousness-and-collective-phenomena]]"
   - "[[consciousness-and-social-cognition]]"
 concepts:
   - "[[dualism]]"
@@ -98,7 +98,7 @@ The Map speculates that the Ubuntu tradition's relational ontology may point tow
 - [[interaction-problem-in-non-western-philosophy]]
 - [[eastern-philosophy-consciousness]]
 - [[cross-cultural-convergence-on-mental-causation]]
-- [[consciousness-and-collective-intentionality]]
+- [[consciousness-and-collective-phenomena]]
 - [[intersubjectivity]]
 - [[consciousness-value-connection]]
 - [[cross-cultural-phenomenology-of-agency]]

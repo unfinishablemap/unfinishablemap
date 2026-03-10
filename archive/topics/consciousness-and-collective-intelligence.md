@@ -27,6 +27,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-02-18T10:17:00+00:00
+archived: true
+archived_date: 2026-03-10T15:38:00+00:00
+superseded_by: "/topics/consciousness-and-collective-phenomena/"
+archive_reason: "Coalesced into Consciousness and Collective Phenomena"
+original_path: "/topics/consciousness-and-collective-intelligence/"
 ---
 
 Ant colonies solve optimisation problems no individual ant can represent. Jury deliberations reach verdicts that exceed any single juror's analysis. Markets aggregate information distributed across millions of participants into prices no central planner could compute. Collective intelligence is real, powerful, and well-documented. The question The Unfinishable Map asks is different: does any of this involve consciousness?

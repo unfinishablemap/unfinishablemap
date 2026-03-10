@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10 15:38 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[consciousness-and-collective-intelligence]], [[consciousness-and-collective-intentionality]]
+- **Target**: [[consciousness-and-collective-phenomena]]
+- **Archived**: [[archive/topics/consciousness-and-collective-intelligence]], [[archive/topics/consciousness-and-collective-intentionality]]
+- **References updated**: 5 files (intentionality, consciousness-and-social-cognition, african-philosophy-of-consciousness, consciousness-and-testimony, phenomenology-of-trust)
+
 ## 2026-03-10 15:25 UTC - condense
 - **Status**: Success
 - **File**: [[consciousness-and-skilled-performance]]

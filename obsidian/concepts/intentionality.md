@@ -116,7 +116,7 @@ Horgan and Tienson make the connection explicit: phenomenal consciousness is inh
 
 ### From Intentionality to Meaning
 
-The connection between intentionality and meaning has deep roots. Grice argued that linguistic meaning depends on speaker intention; Searle's "connection principle" holds that all intentionality is either conscious or derivable from conscious states. The [[language-and-consciousness|philosophy of language and consciousness]] examines how these analyses reveal that consciousness resists the tools philosophy of language developed for ordinary discourse. This connection extends to the social domain: [[consciousness-and-collective-intentionality|collective intentionality]]—shared goals, joint commitments, institutional facts—also appears to require phenomenal consciousness as its foundation.
+The connection between intentionality and meaning has deep roots. Grice argued that linguistic meaning depends on speaker intention; Searle's "connection principle" holds that all intentionality is either conscious or derivable from conscious states. The [[language-and-consciousness|philosophy of language and consciousness]] examines how these analyses reveal that consciousness resists the tools philosophy of language developed for ordinary discourse. This connection extends to the social domain: [[consciousness-and-collective-phenomena|collective intentionality]]—shared goals, joint commitments, institutional facts—also appears to require phenomenal consciousness as its foundation.
 
 The [[consciousness-and-semantic-understanding|Phenomenal Constitution Thesis]] (PCT) extends PIT to semantic content: meaning itself is constitutively phenomenal. To grasp a meaning *is* to have a certain kind of experience.
 
@@ -255,7 +255,7 @@ Intentionality connects to all five foundational tenets:
 - [[decoherence]] — The quantum biology objection and why it may not apply
 - [[symbol-grounding-problem]] — How symbols acquire intrinsic meaning (the computational framing)
 - [[intentionality-void]] — Why the mechanism of reference is structurally hidden from consciousness
-- [[consciousness-and-collective-intentionality]] — How shared goals and institutional facts require phenomenal consciousness
+- [[consciousness-and-collective-phenomena]] — How shared goals and institutional facts require phenomenal consciousness
 - [[language-and-consciousness]] — How philosophy of language reveals consciousness's irreducibility
 - [[direction-of-fit]] — Classifying intentional states by whether mind adapts to world or world adapts to mind
 - [[phenomenal-acquaintance]] — The direct epistemic relation to phenomenal qualities that may ground intentional content

@@ -90,7 +90,7 @@ Social constructionists are right that much of what we call "social understandin
 
 George Herbert Mead's account of selfhood through "taking the attitude of the other" presupposes that there is something it is like to take that attitude. If perspective-taking were purely computational — a function mapping inputs to outputs without anyone experiencing the shift — then Mead's process would produce social behaviour without social understanding. The functional output might be indistinguishable, but the inner reality would be entirely different.
 
-[[Intersubjectivity]] — the shared space between minds — requires minds that are phenomenally present to each other, not merely causally connected. As Dan Zahavi (2001) argues, empathy and social understanding are not a matter of inference from behaviour to hidden mental states but of direct experiential engagement with another subject. The phenomenological tradition treats intersubjectivity as constitutive of experience itself, not as a cognitive achievement layered on top of isolated minds. If this is right, then [[consciousness-and-collective-intentionality|collective intentionality]] — the capacity for genuinely shared goals and commitments — depends on phenomenal subjects who can participate in shared experiential space.
+[[Intersubjectivity]] — the shared space between minds — requires minds that are phenomenally present to each other, not merely causally connected. As Dan Zahavi (2001) argues, empathy and social understanding are not a matter of inference from behaviour to hidden mental states but of direct experiential engagement with another subject. The phenomenological tradition treats intersubjectivity as constitutive of experience itself, not as a cognitive achievement layered on top of isolated minds. If this is right, then [[consciousness-and-collective-phenomena|collective intentionality]] — the capacity for genuinely shared goals and commitments — depends on phenomenal subjects who can participate in shared experiential space.
 
 ## The AI Test Case
 
@@ -132,7 +132,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly. T
 - [[emotional-consciousness]] — The felt dimension of empathy and emotional understanding
 - [[other-minds-void]] — The structural isolation of consciousness and its role in constituting social life
 - [[phenomenology-of-moral-experience|The Phenomenology of Moral Experience]] — How phenomenal consciousness shapes moral judgment
-- [[consciousness-and-collective-intentionality]] — How shared goals and commitments depend on phenomenal subjects
+- [[consciousness-and-collective-phenomena]] — How shared goals and commitments depend on phenomenal subjects
 - [[consciousness-and-interpersonal-understanding]] — The role of consciousness in understanding other minds
 - [[phenomenology-of-trust]] — Trust as a distinctively conscious mode of interpersonal engagement
 - [[cumulative-culture]] — How cultural accumulation depends on teaching and shared intentionality

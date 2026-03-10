@@ -11,7 +11,7 @@ topics:
   - "[[first-person-third-person-methodology]]"
   - "[[phenomenology-of-epistemic-judgment]]"
   - "[[phenomenology-of-trust]]"
-  - "[[consciousness-and-collective-intentionality]]"
+  - "[[consciousness-and-collective-phenomena]]"
 concepts:
   - "[[introspection]]"
   - "[[qualia]]"
@@ -166,7 +166,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet is
 - [[epistemic-advantages-of-dualism]] — Why dualism provides better epistemic resources
 - [[consciousness-and-interpersonal-understanding]] — How minds understand each other
 - [[phenomenology-of-understanding]] — Meaning and conscious comprehension
-- [[consciousness-and-collective-intentionality]] — Shared consciousness and joint action
+- [[consciousness-and-collective-phenomena]] — Shared consciousness and joint action
 - [[consciousness-and-language-interface]] — How consciousness converts experience into language
 - [[intersubjective-void]] — The constitutive gap between consciousnesses
 - [[knowledge-argument]] — What testimony cannot convey about phenomenal experience
