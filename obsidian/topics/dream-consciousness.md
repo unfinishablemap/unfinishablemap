@@ -45,6 +45,7 @@ related_articles:
   - "[[dreams-lucid-dreaming-consciousness-2026-01-18]]"
   - "[[capability-division-problem]]"
   - "[[memory-as-dual-domain-capability]]"
+  - "[[lucid-dreaming-as-capability-evidence]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -102,7 +103,7 @@ Each configuration yields distinct cognitive capabilities—a pattern the Map's 
 
 ## Lucid Dreaming as Distinct State
 
-Lucid dreaming—becoming aware that one is dreaming while the dream continues—represents a distinct state of consciousness. The 2025 Demirel study provided strong evidence using source-level EEG analysis across multiple datasets: lucid dreams show unique neural signatures (gamma power increases in right temporo-occipital regions, distinct interhemispheric connectivity patterns) that differ from both ordinary REM and waking states. This matters because it demonstrates that the brain-consciousness interface admits multiple stable configurations, and trained practitioners can switch between them. Voss et al. (2014) provided causal evidence for the gamma-lucidity link: frontal transcranial alternating current stimulation at gamma frequencies (25–40 Hz) during REM selectively induced lucid dreaming, while other frequencies had no effect.
+Lucid dreaming—becoming aware that one is dreaming while the dream continues—represents a distinct state of consciousness. The 2025 Demirel study provided strong evidence using source-level EEG analysis across multiple datasets: lucid dreams show unique neural signatures (gamma power increases in right temporo-occipital regions, distinct interhemispheric connectivity patterns) that differ from both ordinary REM and waking states. This matters because it demonstrates that the brain-consciousness interface admits multiple stable configurations, and trained practitioners can switch between them. Voss et al. (2014) provided causal evidence for the gamma-lucidity link: frontal transcranial alternating current stimulation at gamma frequencies (25–40 Hz) during REM selectively induced lucid dreaming, while other frequencies had no effect. The [[lucid-dreaming-as-capability-evidence|capability evidence]] article examines what lucid dreaming specifically reveals about the brain-mind division, arguing that dream rendering poses a dilemma for physicalist accounts: either the brain possesses rendering capabilities it inexplicably withholds during waking, or consciousness has its own rendering capacity independent of sensory input.
 
 The transition from non-lucid to lucid REM also reveals that [[phenomenal-consciousness|phenomenal]] and [[access-consciousness|access]] consciousness are separable. During ordinary REM, the DLPFC is deactivated—removing the neural correlates most associated with cognitive access—yet rich phenomenal experience persists. Lucid dreaming then reactivates access while dreaming continues. This dissociation challenges [[higher-order-theories|Higher-Order Thought theory]], which predicts that without higher-order representation there should be no consciousness. Non-lucid dreams contradict this: they are unambiguously conscious without the metacognitive overlay. [[Metacognition]] relates to consciousness as a *modulator*, not a *constituter*.
 
@@ -215,6 +216,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 - [[higher-order-theories]] — Higher-Order Thought theories challenged by non-lucid dream consciousness
 - [[capability-division-problem]] — Which capabilities belong to the brain and which to consciousness
 - [[memory-as-dual-domain-capability]] — Memory as a dual-domain capability requiring both physical and non-physical contributions
+- [[lucid-dreaming-as-capability-evidence]] — Lucid dreaming as evidence for the capability division between brain and mind
 
 ## References
 

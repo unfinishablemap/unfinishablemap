@@ -126,7 +126,7 @@ These patients demonstrate the distinction between consciousness and its express
 
 [[dream-consciousness|Dreams]] show consciousness operating independently of sensory input. During REM sleep, the brain generates fully immersive experiential worlds without external stimulation.
 
-On production models, this requires the brain to "produce" experience from nothing. On filter models, dreams are consciousness using the brain's representational capacities when sensory constraints are removed. The brain provides tools for constructing experience; consciousness uses them.
+On production models, this requires the brain to "produce" experience from nothing. On filter models, dreams are consciousness using the brain's representational capacities when sensory constraints are removed. The brain provides tools for constructing experience; consciousness uses them. [[lucid-dreaming-as-capability-evidence|Lucid dreaming]] sharpens this into a rendering dilemma: if the brain can generate vivid visual worlds during sleep, its failure to deploy this capability during waking to compensate for sensory degradation (cataracts, tinnitus, hearing loss) demands explanation.
 
 ### Hemispherectomy
 
@@ -244,6 +244,7 @@ The Buddhist framework offers something filter theory lacks: a detailed phenomen
 - [[loss-of-consciousness]] — Anesthesia and covert consciousness
 - [[near-death-experiences]] — Enhanced experience during brain compromise
 - [[dream-consciousness]] — Consciousness without sensory input
+- [[lucid-dreaming-as-capability-evidence]] — The rendering dilemma: what lucid dreaming reveals about brain-mind capability division
 - [[neural-correlates-of-consciousness]] — Why correlates don't prove production
 - [[interactionist-dualism]] — The broader framework
 - [[quantum-consciousness]] — The proposed mechanism for mind-brain interface

@@ -48,7 +48,7 @@ Key characteristics of blindsight:
 - **Emotional processing**: Some patients show above-chance discrimination of facial expressions in blind regions (de Gelder et al., 1999), suggesting unconscious affective processing pathways via the superior colliculus and amygdala.
 - **Action guidance**: Patients can reach accurately toward stimuli they claim not to see, though reaching may feel "strange" or guided by intuition rather than vision.
 
-What's missing is not processing power but phenomenal experience—the "what it's like" to see.
+What's missing is not processing power but phenomenal experience—the "what it's like" to see. [[lucid-dreaming-as-capability-evidence|Lucid dreaming]] demonstrates the converse: phenomenally complete multisensory experience—vision, audition, touch, proprioception—without any corresponding sensory input. This double dissociation (blindsight: processing without experience; lucid dreaming: experience without input) supports the view that phenomenal rendering is a distinct capability, not an automatic consequence of information processing.
 
 ## Alternative Interpretations
 

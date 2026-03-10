@@ -4,7 +4,7 @@ description: "Lucid dreaming reveals which cognitive capabilities depend on sens
 created: 2026-03-09
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-09T14:41:00+00:00
+ai_modified: 2026-03-10T15:53:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-09
 last_curated:
-last_deep_review: 2026-03-09T14:41:00+00:00
+last_deep_review: 2026-03-10T15:53:00+00:00
 ---
 
 Lucid dreaming is a natural experiment in capability division. During a lucid dream, sensory input is suppressed, the prefrontal cortex partially reactivates, and neurochemistry is fundamentally altered — yet the dreamer navigates three-dimensional space, recognises objects, exercises deliberate agency, and experiences phenomenally vivid perception. The Unfinishable Map's [[capability-division-problem|capability division problem]] asks which cognitive capabilities belong to the brain and which to consciousness. Lucid dreaming provides unusually clean evidence: it strips away sensory input while preserving conscious experience, revealing what consciousness can do when the brain's normal informational channel is closed.

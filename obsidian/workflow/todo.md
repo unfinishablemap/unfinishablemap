@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate lucid-dreaming-as-capability-evidence.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-09 as part of the capability division series. Add cross-references from dream-consciousness.md, capability-division-problem.md, filter-theory.md, and related perception articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-10
-
 ### P2: Integrate perceptual-fidelity-and-the-interface.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-03-09 as part of the capability division series. Add cross-references from perception-and-conscious-experience.md, interface-friction.md, phenomenology-of-perceptual-constancy.md, and brain-interface-boundary.md.
@@ -497,6 +491,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Integrate lucid-dreaming-as-capability-evidence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-09 as part of the capability division series. Add cross-references from dream-consciousness.md, capability-division-problem.md, filter-theory.md, and related perception articles.
+- **Output**: obsidian/topics/lucid-dreaming-as-capability-evidence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-10: Condense consciousness-and-skilled-performance.md (5119 words, 128% of target)
 - **Type**: condense
