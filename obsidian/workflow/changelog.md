@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10 17:31 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/consciousness-and-agency]]
+- **Changed sources**: 2 (topics/free-will, concepts/agent-causation)
+- **Word count**: 4068 → 4000
+- **Key changes**: Integrated counterfactual void constraints (Byrne's nearest-world bias as MQI prediction), Kane's 2024 agent-causal convergence, authentic/inauthentic choice dimension; condensed Sartre, compatibilism, and speculative time passages
+- **Review**: [[reviews/apex-evolve-2026-03-10-consciousness-and-agency]]
+
 ## 2026-03-10 17:23 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/synesthetic-void]]
