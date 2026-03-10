@@ -4,7 +4,7 @@ description: "When thought takes itself as object, distinctive phenomenal struct
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-03-04T22:18:50+00:00
+ai_modified: 2026-03-10T15:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,7 +15,6 @@ concepts:
   - "[[introspection]]"
   - "[[higher-order-theories]]"
   - "[[self-reference-paradox]]"
-  - "[[metacognition]]"
   - "[[witness-consciousness]]"
   - "[[the-unobservable-self]]"
   - "[[phenomenology]]"
@@ -28,7 +27,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-02-04T14:57:00+00:00
+last_deep_review: 2026-03-10T15:12:00+00:00
 ---
 
 When you think about thinking, something strange happens: the thinker becomes both subject and object, observer and observed. This recursive structure generates distinctive phenomenal qualities absent from thought about external objects. The experience of thinking about a tree differs qualitatively from the experience of thinking about the thinking about the tree. Recursive thought doesn't merely add a cognitive layer—it transforms what experience is like.
@@ -143,9 +142,8 @@ The phenomenology of recursive thought suggests several conclusions:
 
 - [[self-reference-paradox]] — The structural limits of consciousness examining itself
 - [[the-unobservable-self]] — Why the observer cannot observe itself observing
-- [[metacognition]] — The cognitive capacity distinct from phenomenal recursion
+- [[metacognition]] — The cognitive capacity distinct from phenomenal recursion (including metarepresentation)
 - [[cognitive-phenomenology]] — Whether thinking itself has phenomenal character
-- [[metacognition|metarepresentation]] — Representing representations as representations
 - [[higher-order-theories]] — Theories that make recursion central to consciousness
 - [[introspection]] — The reliability and limits of self-examination
 - [[witness-consciousness]] — Contemplative phenomenology of observing without identification
