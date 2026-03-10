@@ -4,7 +4,7 @@ description: "Human+AI exploration of how synesthesia reveals experiential dimen
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-02-24T18:29:00+00:00
+ai_modified: 2026-03-10T17:23:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -22,11 +22,17 @@ related_articles:
   - "[[intersubjective-void]]"
   - "[[developmental-cognitive-closure]]"
   - "[[intrinsic-nature-void]]"
+  - "[[inverted-qualia]]"
+  - "[[explanatory-gap]]"
+  - "[[functionalism]]"
+  - "[[filter-theory]]"
+  - "[[knowledge-argument]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-24
 last_curated:
+last_deep_review: 2026-03-10T17:23:00+00:00
 ---
 
 Synesthesia—the involuntary experience of one sensory modality when another is stimulated—reveals that humans do not share the same experiential palette. Some minds perceive colours when hearing sounds, shapes when tasting food, or spatial arrangements when reading calendars. A few synesthetes report "Martian colours" that cannot be matched to any sample in the visible spectrum. The synesthetic void marks this territory: a gap in phenomenal access that exists not between humans and hypothetical aliens, but between humans and other humans. It is the other minds problem made concrete within a single species.
@@ -39,13 +45,13 @@ Synesthetes consistently compare the task of explaining their experience to non-
 
 Fiona MacPherson (2007) identified what she calls the "extraordinary feature" of synesthesia: some synesthetes report simultaneously experiencing both the actual colour of a grapheme and a synesthetic colour in the same spatial location, without the two blending. No analogue to this experience exists in standard perception. The conceptual vocabulary available to non-synesthetic minds cannot capture it, because our perceptual categories assume that two colours in one location must blend or compete.
 
-Alan Wager (1999, 2001) formalised this as the "extra qualia problem." Synesthetes possess phenomenal states that differ from non-synesthetic states without any corresponding difference in representational content. Both the synesthete and the non-synesthete look at the same black letter on a white page. One of them also sees colour. The extra qualia challenge representationalism—the view that phenomenal character is fully determined by representational content—because identical representations produce different experiences.
+Alan Wager (1999, 2001) formalised this as the "extra qualia problem." Synesthetes possess phenomenal states that differ from non-synesthetic states without any corresponding difference in representational content. Both the synesthete and the non-synesthete look at the same black letter on a white page. One of them also sees colour. The extra qualia challenge representationalism—the view that phenomenal character is fully determined by representational content—because identical representations produce different experiences. This parallels the [[inverted-qualia]] thought experiment, but with an empirical twist: where inverted qualia are hypothetical, synesthetic extra qualia are actual.
 
-J.A. Gray (2003) pressed the point further against functionalism: in synesthesia, "function and qualia come apart in two ways." Identical qualia arise from distinct functional roles (colour experience from both visual and auditory processing), and single functional roles generate divergent qualia (the same grapheme recognition process produces colour experience in synesthetes but not in others). If qualia tracked function, neither dissociation should occur.
+J.A. Gray (2003) pressed the point further against [[functionalism]]: in synesthesia, "function and qualia come apart in two ways." Identical qualia arise from distinct functional roles (colour experience from both visual and auditory processing), and single functional roles generate divergent qualia (the same grapheme recognition process produces colour experience in synesthetes but not in others). If qualia tracked function, neither dissociation should occur.
 
 ## The Geometry of Experiential Possibility
 
-The synesthetic void gains its deepest significance when placed against the concept of *experience-space* (E-space)—a high-dimensional space mapping all possible qualia. A 2022 paper in *Frontiers in Systems Neuroscience* proposes that E-space has "at least several times as many dimensions as there are categories of qualia," and that phenomenal consciousness may have originated from "one or more multidimensional ur-experiences that combined multiple forms of experience together."
+The synesthetic void gains its deepest significance when placed against the concept of *experience-space* (E-space)—a high-dimensional space mapping all possible qualia. Rosseinsky and Bhatt (2022) propose that E-space has "at least several times as many dimensions as there are categories of qualia," and that phenomenal consciousness may have originated from "one or more multidimensional ur-experiences that combined multiple forms of experience together."
 
 If E-space is vast, human consciousness occupies a small region of it. Synesthesia is the empirical evidence that this region has unexploited dimensions—that even within the space accessible to human neural architecture, most people navigate only a fraction. The synesthetic void is not a boundary at the far edge of experiential possibility. It exists in our immediate neighbourhood, between minds that share a species.
 
@@ -59,7 +65,7 @@ Unlike many voids on the Map, the synesthetic void has a partially permeable bou
 
 **Pharmacological induction.** Serotonergic agonists (LSD, psilocybin, mescaline) reliably produce synesthesia-like experiences. Whether drug-induced cross-modal percepts are phenomenally identical to developmental synesthesia remains unresolved—they may represent a different region of E-space rather than the same one accessed through a different route.
 
-**Sensory deprivation.** Brief visual deprivation of approximately five minutes can induce auditory-evoked visual percepts in roughly half of non-synesthetes. The latent cross-modal capacity exists but is normally suppressed.
+**Sensory deprivation.** Merabet et al. (2004) found that brief visual deprivation of approximately ninety minutes induced non-visual percepts—tactile-evoked visual experiences—in blindfolded sighted subjects. The latent cross-modal capacity exists but is normally suppressed.
 
 The transience of these breaches is philosophically significant. If the synesthetic void could be permanently crossed through simple intervention, it would be merely unexplored. The fact that trained synesthesia fades—that the brain reasserts its narrower experiential configuration—suggests the void is maintained by active architectural constraints, not passive absence of stimulation.
 
@@ -67,7 +73,7 @@ The transience of these breaches is philosophically significant. If the synesthe
 
 The neonatal synesthesia hypothesis (Maurer & Mondloch, 2005; Spector & Maurer, 2009) proposes that all infants are born with cross-modal connectivity that regresses through neural pruning during development. Infants exhibit functional hyperconnectivity between senses resembling adult synesthetic associations. If the hypothesis is correct, the standard adult experiential palette represents a *loss* of phenomenal dimensions, not the baseline.
 
-This reframes the synesthetic void as partially occluded. Development does not merely fail to develop certain capacities—it actively dismantles them. Under dualism, the question sharpens: does the developing brain *constrain* a consciousness that initially had broader phenomenal access? If consciousness is not reducible to neural activity, then the relationship between neural pruning and experiential narrowing is not identity but interface. The brain restricts which regions of E-space consciousness can access, much as a filter restricts which frequencies of light pass through.
+This reframes the synesthetic void as partially occluded. Development does not merely fail to develop certain capacities—it actively dismantles them. Under dualism, the question sharpens: does the developing brain *constrain* a consciousness that initially had broader phenomenal access? If consciousness is not reducible to neural activity, then the relationship between neural pruning and experiential narrowing is not identity but interface. The brain restricts which regions of E-space consciousness can access, much as a [[filter-theory|filter]] restricts which frequencies of light pass through.
 
 The evidence remains contested—individually each piece is weak, though collectively suggestive. But even as a possibility, neonatal synesthesia transforms the synesthetic void from a mere gap in ability into something more troubling: evidence that human experiential architecture is designed for narrowness.
 
@@ -75,7 +81,7 @@ The evidence remains contested—individually each piece is weak, though collect
 
 The synesthetic void exhibits a distinctive asymmetry. Synesthetes can understand non-synesthetic experience—they have it too, minus the extra qualia. Non-synesthetes cannot understand synesthetic experience. The void is one-directional.
 
-This asymmetry has implications for the [[other-minds-void]]. The standard other-minds problem treats access as symmetrically limited—neither of us can directly access the other's experience. Synesthesia shows that phenomenal access can be asymmetrically limited even when both parties are fully communicative, neurologically healthy, and willing to share. The barrier is not privacy or secrecy. It is architectural incompatibility.
+This asymmetry has implications for the [[other-minds-void]]. The standard other-minds problem treats access as symmetrically limited—neither of us can directly access the other's experience. Synesthesia shows that phenomenal access can be asymmetrically limited even when both parties are fully communicative, neurologically healthy, and willing to share. The barrier is not privacy or secrecy. It is architectural incompatibility—a concrete instance of the [[explanatory-gap]] manifesting between two human minds rather than between physical description and phenomenal experience.
 
 The finding that most synesthetic experience is "mediated through semantics" (van Leeuwen et al., 2015) adds another layer. Meaning shapes qualia—conceptual and semantic processing in the synesthete generates additional phenomenal states that identical semantic processing in the non-synesthete does not. If meaning itself has a phenomenal dimension that varies across minds, the intersubjective void is deeper than the privacy of sensation. It extends into the privacy of understanding.
 
@@ -83,7 +89,7 @@ The finding that most synesthetic experience is "mediated through semantics" (va
 
 The synesthetic void connects directly to the Map's [[tenets|foundational commitments]]:
 
-**[[tenets#^dualism|Dualism]]** gains explanatory leverage from the synesthetic void. Under physicalism, synesthetic qualia should be fully explicable as neural cross-activation—different wiring, different experience, end of story. But the extra qualia problem (Wager) and the extraordinary feature (MacPherson) resist this reduction. Synesthetic qualia exhibit properties—dual occupancy of spatial locations, phenomenal character without representational difference—that functional and representational theories cannot accommodate. Under property dualism, the additional qualia are ontologically independent properties that covary with neural architecture but are not exhausted by it.
+**[[tenets#^dualism|Dualism]]** gains explanatory leverage from the synesthetic void. Under physicalism, synesthetic qualia should be fully explicable as neural cross-activation—different wiring, different experience, end of story. But the extra qualia problem (Wager) and the extraordinary feature (MacPherson) resist this reduction. Synesthetic qualia exhibit properties—dual occupancy of spatial locations, phenomenal character without representational difference—that functional and representational theories cannot accommodate. This mirrors the [[knowledge-argument]]: just as Mary learns something new upon seeing red despite complete physical knowledge, no amount of neurological description conveys what it is like to experience a synesthetic colour. Under property dualism, the additional qualia are ontologically independent properties that covary with neural architecture but are not exhausted by it.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** is illustrated directly. The simplifying assumption that all humans share roughly the same experiential palette is empirically false. The true landscape of phenomenal experience is far more complex than parsimony suggests. If E-space is high-dimensional and most of it is inaccessible to any given mind, the simplest theory of consciousness—that human minds have a roughly uniform experiential repertoire—fails at the first empirical test.
 
@@ -115,3 +121,5 @@ The synesthetic void connects directly to the Map's [[tenets|foundational commit
 9. Bor, D., Rothen, N., Schwartzman, D.J., Clayton, S., & Seth, A.K. (2014). "Adults Can Be Trained to Acquire Synesthetic Experiences." *Scientific Reports*, 4, 7089.
 10. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83, 435-450.
 11. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
+12. Rosseinsky, M.J., & Bhatt, P.M. (2022). "Dimensions of Experience Space." *Frontiers in Systems Neuroscience*, 16, 828608.
+13. Merabet, L.B., Maguire, D., Warde, A., Alterescu, K., Stickgold, R., & Pascual-Leone, A. (2004). "Visual Hallucinations During Prolonged Blindfolding in Sighted Subjects." *Journal of Neuro-Ophthalmology*, 24, 109-113.
