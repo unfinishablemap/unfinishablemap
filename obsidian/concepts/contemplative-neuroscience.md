@@ -3,7 +3,7 @@ title: Contemplative Neuroscience
 description: "Meditation research integrates first-person phenomenology with third-person neuroscience, producing neuroplastic changes that demonstrate bidirectional interaction between consciousness and brain."
 created: 2026-01-23
 modified: 2026-02-05
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-10T21:53:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,7 @@ concepts:
   - "[[mysterianism]]"
   - "[[meditation-and-consciousness-modes]]"
   - "[[attention-as-interface]]"
+  - "[[temporal-consciousness]]"
 related_articles:
   - "[[neurophenomenology]]"
   - "[[bidirectional-interaction]]"
@@ -33,7 +34,7 @@ author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-23
 last_curated: null
-last_deep_review: 2026-02-04T21:42:00+00:00
+last_deep_review: 2026-03-10T21:53:00+00:00
 coalesced_from:
   - "/concepts/contemplative-neuroscience/"
   - "/topics/contemplative-neuroscience-integration/"
@@ -73,7 +74,7 @@ The causal pathway matters: conscious intention → deliberate practice → neur
 
 Long-term meditators show dramatically increased gamma-band (30-70 Hz) power and coherence across brain regions—even at baseline rest.[^lutz] Contemplative traditions describe unification of experience during concentrated attention; gamma synchrony provides a neural mechanism for this binding.
 
-The temporal scale matters. Gamma cycles correspond to periods of 15-35 milliseconds—potentially the temporal grain of conscious moments. If [[attention-as-interface|attention serves as consciousness's interface with brain]], gamma synchrony may implement moment-to-moment binding that creates unified experience from distributed neural activity.
+The temporal scale matters. Gamma cycles correspond to periods of 15-35 milliseconds—potentially the temporal grain of conscious moments. If [[attention-as-interface|attention serves as consciousness's interface with brain]], gamma synchrony may be the neural correlate of moment-to-moment binding—the physical signature of [[temporal-consciousness|temporal structure in conscious experience]].
 
 ### Default Mode Network Modulation {#dmn-modulation}
 
@@ -87,7 +88,7 @@ DMN reduction provides neural signature for the experiential shift from discursi
 
 Focused attention meditation implicates default-mode, control (dlPFC, lateral parietal), and salience (ACC, insula) networks.[^dhond] The Shamatha Project found intensive practice improved perceptual discrimination, sustained attention, response inhibition, and reduced mind-wandering.[^shamatha]
 
-These are trainable skills. The fact that deliberate practice enhances attentional capacities demonstrates [[attention-as-interface|attention]] isn't purely bottom-up. [[attention-as-interface|Voluntary-attention-control]] can be systematically developed through conscious training.
+These are trainable skills. The fact that deliberate practice enhances attentional capacities demonstrates [[attention-as-interface|attention]] isn't purely bottom-up. [[attention-as-interface|Voluntary attention control]] can be systematically developed through conscious training.
 
 Connection to [[topics/free-will]]: If [[phenomenal-consciousness]] were epiphenomenal, how would willed effort produce measurable improvements in attentional stability? The training paradigm assumes consciousness can causally influence its own processing.
 
@@ -111,7 +112,7 @@ Each phenomenologically distinct jhana shows distinct neural correlates. The phe
 
 Some advanced meditators can voluntarily enter cessation states (*nirodha samapatti*)—complete absence of experience while brain activity continues. Practitioners report abrupt discontinuity, distinct from sleep or anesthesia.
 
-Brain activity continues during cessation, reorganized but not silent. The dualist interpretation: consciousness is something the brain does when configured appropriately—something that can cease while the brain remains active—rather than identical to any ongoing neural activity.
+Brain activity continues during cessation, reorganized but not silent. The dualist interpretation: consciousness accompanies certain brain configurations but is not identical to them. If consciousness were simply neural activity, it could not cease while the brain remains active. Cessation demonstrates that consciousness is something over and above the physical processes it correlates with.
 
 ## Top-Down Causation and Epiphenomenalism
 
@@ -191,8 +192,9 @@ The more sophisticated our phenomenological categories and neural correlates bec
 - [[first-person-third-person-methodology]]: Why both perspectives are necessary
 - [[mental-effort]]: The phenomenology of effort and Stapp's quantum Zeno mechanism, including Schwartz's OCD neuroplasticity evidence
 - [[Witness-consciousness]]: Eastern contemplative traditions' phenomenological framework that meditation cultivates
-- [[attention-as-interface|Voluntary-attention-control]]: Neural mechanisms underlying willed vs. instructed vs. exogenous attention
+- [[attention-as-interface|Voluntary attention control]]: Neural mechanisms underlying willed vs. instructed vs. exogenous attention
 - [[meditation-and-consciousness-modes]]: The two modes: active selection and passive witnessing
+- [[temporal-consciousness]]: How the temporal structure of conscious experience relates to neural binding and gamma synchrony
 - [[topics/free-will]]: How meditation evidence connects to agent causation and libertarian accounts
 - [[Emotional-consciousness]]: Phenomenal character of emotions and their role in consciousness
 - [[concepts/epiphenomenalism]]: Why contemplative neuroscience challenges the view that consciousness is causally inert
