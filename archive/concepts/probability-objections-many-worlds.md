@@ -26,6 +26,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-05
 last_curated:
 last_deep_review: 2026-03-05T13:17:00+00:00
+archived: true
+archived_date: 2026-03-10T09:41:00+00:00
+superseded_by: "/topics/probability-problem-in-many-worlds/"
+archive_reason: "Coalesced into The Probability Problem in Many Worlds"
+original_path: "/concepts/probability-objections-many-worlds/"
 ---
 
 The Many-Worlds Interpretation faces a cluster of objections centred on probability. The Unfinishable Map classifies these as among the strongest internal criticisms of MWI because they challenge its empirical adequacy rather than merely its ontology. If all quantum outcomes occur in some branch, standard probability appears meaningless, and no proposed recovery strategy has succeeded without circularity. This concept entry defines the main objection types; for detailed arguments see [[probability-problem-in-many-worlds|the full probability problem survey]].

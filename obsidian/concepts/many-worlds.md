@@ -4,7 +4,7 @@ description: "Why the Map rejects MWI: it raises unanswerable questions about in
 created: 2026-01-19
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-03-10T03:41:00+00:00
+ai_modified: 2026-03-10T09:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ concepts:
 related_articles:
   - "[[quantum-measurement-interpretations-beyond-mwi]]"
   - "[[probability-problem-in-many-worlds]]"
-  - "[[probability-objections-many-worlds]]"
+  - "[[probability-problem-in-many-worlds]]"
   - "[[quantum-probability-consciousness]]"
   - "[[indexical-identity-quantum-measurement]]"
   - "[[tenets]]"
@@ -67,7 +67,7 @@ MWI defenders invoke self-locating uncertainty: you should be uncertain which br
 
 ### 3. The Probability Problem
 
-Quantum mechanics predicts that outcomes occur with specific probabilities given by the Born rule. On MWI, all outcomes occur. This generates two distinct challenges (Wallace 2003): the **incoherence problem**—whether probability is even meaningful when nothing fails to happen—and the **quantitative problem**—why probabilities should follow the Born rule rather than simple branch-counting, which generically contradicts it (Graham 1973). See [[probability-objections-many-worlds]] for a structured taxonomy of these objections.
+Quantum mechanics predicts that outcomes occur with specific probabilities given by the Born rule. On MWI, all outcomes occur. This generates two distinct challenges (Wallace 2003): the **incoherence problem**—whether probability is even meaningful when nothing fails to happen—and the **quantitative problem**—why probabilities should follow the Born rule rather than simple branch-counting, which generically contradicts it (Graham 1973). See [[probability-problem-in-many-worlds]] for the full case against all three recovery strategies.
 
 Three strategies attempt to recover probability: decision-theoretic derivations (Deutsch-Wallace), self-locating uncertainty (Sebens-Carroll), and environment-assisted invariance (Zurek). None has succeeded without circularity. Decision-theoretic axioms are contested as encoding optional metaphysical attitudes rather than requirements of rationality. Self-locating uncertainty struggles because the uncertainty is either spurious or wrongly placed. Envariance derivations assume the connection between quantum states and probabilities that they claim to establish.
 
@@ -171,8 +171,7 @@ Alternative interpretations—particularly [[collapse-and-time|time-symmetric]] 
 - [[many-worlds-argument|Against Many-Worlds]] — The formal argument structure with premises and conclusions
 - [[tenets]] — The foundational commitment against MWI
 - [[illusionism]] — The strongest physicalist challenge and why it doesn't help MWI
-- [[probability-objections-many-worlds]] — Structured taxonomy of probability and decision-theory objections to MWI
-- [[probability-problem-in-many-worlds]] — In-depth treatment of why probability fails in MWI
+- [[probability-problem-in-many-worlds]] — Full survey of MWI's probability crisis with all three recovery strategies
 - [[quantum-probability-consciousness]] — How probability connects to consciousness across interpretations
 - [[indexical-identity-quantum-measurement]] — Why indexical identity matters for quantum measurement
 - [[decoherence]] — What decoherence does and doesn't explain

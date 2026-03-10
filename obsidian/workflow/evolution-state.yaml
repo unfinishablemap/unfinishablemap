@@ -14,11 +14,11 @@ last_runs:
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-03-08T00:29:24.861035+00:00'
   research-voids: '2026-01-24T19:45:00+00:00'
-  coalesce: '2026-01-25T11:16:00+00:00'
+  coalesce: '2026-03-10T09:41:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-08T00:29:24.861035+00:00'
   agentic-social: '2026-03-10T09:11:39.806224+00:00'
-last_git_push: '2026-03-10T05:26:39.799462+00:00'
+last_git_push: '2026-03-10T09:26:39.806704+00:00'
 last_tweet_date: '2026-03-10'
 content_stats:
   total_files: 297

@@ -28,6 +28,7 @@ last_deep_review: 2026-03-10T03:41:00+00:00
 coalesced_from:
   - "/topics/probability-problem-in-many-worlds/"
   - "/topics/decision-theory-cannot-save-many-worlds/"
+  - "/concepts/probability-objections-many-worlds/"
 ---
 
 The Many-Worlds Interpretation faces a probability crisis that may be fatal. If every quantum outcome occurs in some branch, what does it mean to say one outcome is "more probable" than another? The Unfinishable Map's [[concepts/many-worlds|existing critique of MWI]] identifies the probability problem as one of five major objections. This article examines the problem in depth, surveying three major recovery strategies—decision theory, self-locating uncertainty, and envariance—and the objections that undermine each. After seven decades, the probability problem remains unresolved. This failure provides strong independent support for the Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet.

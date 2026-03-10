@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10T09:41:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/probability-objections-many-worlds]]
+- **Target**: [[topics/probability-problem-in-many-worlds]]
+- **Archived**: [[archive/concepts/probability-objections-many-worlds]]
+- **References updated**: 2 files (quantum-interpretations, many-worlds)
+- **Notes**: Concept article was an explicit condensed summary of the topic article with identical structure and no unique content. Absorbed into existing topic article.
+
 ## 2026-03-10T09:12:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/spontaneous-collapse-theories]]
