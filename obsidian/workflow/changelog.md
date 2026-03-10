@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10T14:53:00+00:00 - condense
+- **Status**: Success
+- **File**: [[research/spontaneous-collapse-theories-grw-csl-2026-01-23]]
+- **Before**: 3625
+- **After**: 2237
+- **Reduction**: 38%
+- **Technique**: Compressed Key Sources (removed quotes, merged tenet notes), tightened Key Debates to paragraph summaries, trimmed Historical Timeline, condensed Potential Article Angles to one-liners (kept recommended angle detail)
+
 ## 2026-03-10T14:39:00+00:00 - condense
 - **Status**: Success
 - **File**: [[research/voids-dissolution-problem-2026-02-25]]

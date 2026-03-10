@@ -369,12 +369,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The possibility that different conscious systems couple with matter through different mechanisms. Central to comparative-consciousness-and-interface-differences and what-it-might-be-like-to-be-an-ai but currently only developed within those articles. Target section: concepts/. Supports Tenets 1 and 2. See [[reviews/optimistic-2026-03-07-night]].
 
-### P2: Condense research/spontaneous-collapse-theories-grw-csl-2026-01-23.md (3625 words, 104% of hard threshold)
-- **Type**: condense
-- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings on GRW and CSL models while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-08
-
 ### P2: Deep review acquaintance-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the acquaintance void — the impossibility of conveying what direct experience is like to someone who lacks it. One of 33 unreviewed void files. Verify coherence, cross-references, and tenet alignment.
@@ -467,6 +461,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Condense research/spontaneous-collapse-theories-grw-csl-2026-01-23.md (3625 words, 104% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings on GRW and CSL models while removing redundancy. See /condense skill.
+- **Output**: obsidian/research/spontaneous-collapse-theories-grw-csl-2026-01-23.md
 
 ### ✓ 2026-03-10: Condense research/voids-dissolution-problem-2026-02-25.md (3645 words, 104% of hard threshold)
 - **Type**: condense
