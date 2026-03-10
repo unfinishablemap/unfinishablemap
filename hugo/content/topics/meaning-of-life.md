@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-02-04 10:35:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-03-10 07:43:00+00:00
+ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[nihilism]]'
@@ -28,7 +28,7 @@ description: What makes life meaningful? The Map suggests meaning is grounded in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-04 06:50:00+00:00
+last_deep_review: 2026-03-10 07:43:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,7 +69,7 @@ This avoids metaphysical commitments but invites counterexamples. If someone dev
 
 No life achieves genuine meaning. Objective values don't exist (error theory), cosmic scales render human lives negligible (axiological argument), or without genuine free will we can't author meaning anyway (ontological argument).
 
-David Benatar argues existence always involves more harm than non-existence. Thomas Nagel highlights our absurdity from "the point of view of the universe." Recent work distinguishes "Sunny Nihilism"—the absence of cosmic purpose doesn't entail that life is bad, just neutral.
+David Benatar argues existence always involves more harm than non-existence. Thomas Nagel highlights our absurdity from "the point of view of the universe." Some nihilists distinguish a "sunny" variant: the absence of cosmic purpose doesn't entail that life is bad, just neutral.
 
 ## The Map's Position
 
@@ -83,7 +83,7 @@ This avoids the supernaturalist's reliance on God while grounding meaning in som
 
 ### Conscious Experience Has Intrinsic Value
 
-What is it like to see red, feel joy, understand a proof, love someone? These experiences have a qualitative character—[qualia](/concepts/qualia/)—that seems intrinsically significant. Each moment of awareness is something rather than nothing, and that "something" matters.
+What is it like to see red, feel joy, understand a proof, love someone? These experiences have a qualitative character—[qualia](/concepts/qualia/)—that seems intrinsically significant. Sharon Hewitt Rawlette argues in *The Feeling of Value* that phenomenal qualities carry intrinsic value: pleasantness is not merely correlated with goodness but constitutive of it. Each moment of awareness is something rather than nothing, and that "something" matters.
 
 Nihilism assumes that without cosmic purpose, existence is valueless. But why should cosmic purpose be required? A beautiful sunset doesn't need to serve a divine plan to be beautiful. The experience of beauty is itself valuable. Multiply this across every conscious moment, and you have a universe shot through with intrinsic significance.
 
@@ -103,7 +103,7 @@ If MWI is false, choices have unique significance. You chose A, period. That's t
 
 ### Your Identity Is Unrepeatable
 
-This connects to [personal-identity](/topics/personal-identity/). If Parfit were right that you're interchangeable with any psychological replica, your particular existence would seem less significant. But if *you* are this unrepeatable conscious being, your existence has unique significance. No one else can live your life. The conscious experiences that constitute your life are *yours* in a way that can't be transferred—this particular conscious perspective, living this unrepeatable life. [Narrative integration](/topics/consciousness-and-semantic-understanding/)—the capacity to grasp how disparate experiences fit into a meaningful trajectory—is part of what makes a life *unified* rather than a mere sequence of moments.
+This connects to [personal-identity](/topics/personal-identity/). If Parfit were right that you're interchangeable with any psychological replica, your particular existence would seem less significant. But if *you* are this unrepeatable conscious being, your existence has unique significance. No one else can live your life. The conscious experiences that constitute your life are *yours* in a way that can't be transferred—this particular conscious perspective, living this unrepeatable life. Narrative integration—the capacity to grasp how disparate experiences fit into a meaningful trajectory—is part of what makes a life *unified* rather than a mere sequence of moments.
 
 ## Eastern Perspectives
 
@@ -258,11 +258,9 @@ The position takes seriously what we actually know: consciousness exists, it's r
 ## Further Reading
 
 ### Core Concepts
-- [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) — How consciousness weaves meanings into unified understanding and life trajectory
 - [nihilism](/concepts/nihilism-and-existentialism/) — The case for meaninglessness and responses to it
 - [existentialism](/concepts/existentialism/) — Sartre's pour-soi and the phenomenology of freedom support consciousness-grounded meaning
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical grounding for consciousness-based value
-- [Phenomenal Value Realism (Topic)](/topics/phenomenal-value-realism/) — Extending phenomenal value realism to address metaethical challenges and value pluralism
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — How AI alignment depends on unresolved questions about meaning
 
 ### Consciousness and Experience

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-07
-ai_modified: 2026-03-05 01:17:00+00:00
+ai_modified: 2026-03-10 07:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -64,7 +64,7 @@ In "Facing Up to the Problem of Consciousness" (1995), Chalmers proposes three p
 
 **Structural coherence.** The structure of conscious experience corresponds to the structure of cognitive processing. Three-dimensional colour experience maps onto three-dimensional wavelength discrimination. Temporal flow parallels sequential information processing. This constrains without determining—inverted spectrum scenarios show structure alone doesn't fix phenomenal quality.
 
-**Organizational invariance.** Any two systems with identical fine-grained functional organization have qualitatively identical experiences. Chalmers defends this through the "fading qualia" thought experiment: gradually replacing neurons with functionally identical artificial components should not cause experience to fade, since the system couldn't detect such fading (its functional states remain unchanged). Consciousness systematically deceiving itself about its own existence seems deeply implausible.
+**Organizational invariance.** Any two systems with identical fine-grained functional organization have qualitatively identical experiences. Chalmers defends this through the "fading qualia" thought experiment: gradually replacing neurons with functionally identical artificial components should not cause experience to fade, since the system couldn't detect such fading (its functional states remain unchanged). As Chalmers argues, consciousness systematically deceiving itself about its own existence seems deeply implausible.
 
 **The Map's divergence**: The Map rejects strong [functionalism](/concepts/functionalism/)—the view that mental states are exhausted by their functional roles. The zombie argument demonstrates that functional organization doesn't logically entail experience. If zombies are conceivable, something beyond functional structure determines whether a system is conscious. [Haecceity](/concepts/haecceity/)—the primitive "thisness" of a particular conscious subject—may matter beyond abstract patterns. Two systems could share all functional properties yet differ in *which* consciousness (if any) accompanies them. This isn't a minor disagreement: if organizational invariance holds, psychophysical laws can be expressed purely functionally. If the Map is right, they must reference the particular subject.
 
@@ -104,7 +104,7 @@ Selection laws must specify:
 
 Chalmers and McQueen's (2022) most innovative contribution addresses a specific problem: if brains can exist in quantum superpositions, and consciousness supervenes on brain states, consciousness should sometimes be in superposition too. But we never experience superposed conscious states.
 
-**Super-resistance** answers: consciousness resists superposition. Whenever integrated information reaches a threshold, collapse occurs, producing a definite conscious state. The more conscious a system, the less it tolerates quantum indeterminacy in its conscious states.
+**Super-resistance** answers: in this model, consciousness resists superposition. Whenever integrated information reaches a threshold, collapse occurs, producing a definite conscious state. The more conscious a system, the less it tolerates quantum indeterminacy in its conscious states.
 
 This constitutes downward causation: consciousness makes physical states definite by triggering collapse. Chalmers and McQueen combine IIT (specifying *which* physical configurations are conscious), Continuous Spontaneous Localization (providing collapse physics), and the super-resistance principle (coupling phenomenal properties to collapse dynamics).
 
@@ -124,15 +124,15 @@ These requirements constitute the specification threshold. Below it, a proposal 
 
 ## Candidate Coupling Mechanisms
 
-Five proposals have been advanced, varying enormously in precision and testability. (For a taxonomy of [coupling-modes](/concepts/coupling-modes/)—basis selection, timing control, probability reweighting—see the dedicated concept page.) They fall into three tiers.
+Five proposals have been advanced, varying in precision and testability. None yet meets the full specification threshold; the Map treats them as candidate directions for a research program, not as established mechanisms. (For a taxonomy of [coupling-modes](/concepts/coupling-modes/)—basis selection, timing control, probability reweighting—see the dedicated concept page.)
 
-### Tier 1: Stapp's Attention as Quantum Observation Rate
+### Stapp's Attention as Quantum Observation Rate
 
-The most developed proposal. Henry Stapp builds on von Neumann's formulation, which distinguishes Process 1 (the observer's choice of which observable to measure), Process 2 (deterministic evolution), and Process 3 (nature's answer, governed by Born probabilities). Stapp argues consciousness operates at Process 1: it selects which question gets asked of neural quantum systems.
+The most detailed proposal. Henry Stapp builds on von Neumann's formulation, which distinguishes Process 1 (the observer's choice of which observable to measure), Process 2 (deterministic evolution), and Process 3 (nature's answer, governed by Born probabilities). Stapp argues consciousness operates at Process 1: it selects which question gets asked of neural quantum systems.
 
 The quantum Zeno effect provides amplification: rapid repeated observation prevents a quantum system from evolving away from its current state. Conscious attention corresponds to high-frequency Process 1 actions—attending to a neural pattern means repeatedly "asking" whether that pattern obtains, holding it in place against competing alternatives.
 
-**Phenomenal variable**: Intensity and focus of attention, experienced as mental effort. William James described volitional effort as "the essential phenomenon of will" (*The Principles of Psychology*, 1890). Stapp identifies this phenomenology with the rapidity of Process 1 actions: effort feels like work because it *is* work—maintaining high observation frequency.
+**Phenomenal variable**: Intensity and focus of attention, experienced as mental effort. William James treated volitional effort as central to the will (*The Principles of Psychology*, 1890). Stapp identifies this phenomenology with the rapidity of Process 1 actions: effort feels like work because it *is* work—maintaining high observation frequency.
 
 **Physical variable**: Rate of quantum observations on neural firing patterns.
 
@@ -142,9 +142,9 @@ The quantum Zeno effect provides amplification: rapid repeated observation preve
 
 **The decoherence objection**: Georgiev's (2015) Monte Carlo simulations showed the quantum Zeno effect breaks down for timescales exceeding brain decoherence time. If neural quantum states decohere in femtoseconds while attention operates at millisecond timescales, the Zeno mechanism cannot bridge the gap.
 
-**Possible response**: The mechanism might operate not on sustained superpositions but at the point of outcome determination after decoherence has already selected preferred bases. Decoherence selects which outcomes are possible; consciousness biases which possible outcome becomes actual. The cost of this retreat is substantial: the original Zeno formulation made a specific, testable claim, while "consciousness selects among physically possible outcomes" is difficult to distinguish from "outcomes are stochastic." Three candidate discriminators exist: (1) *systematic bias* aligned with attentional goals beyond what noise models predict; (2) *temporal correlation* with reportable phenomenal states; (3) *intervention asymmetry* where disrupting stochastic processes doesn't eliminate selection effects. None is currently testable. A deeper concern: inserting consciousness where decoherence leaves outcomes undetermined risks relocating the explanatory gap from physics to the mind-matter interface rather than explaining collapse.
+**The post-decoherence concession**: If the Zeno mechanism fails at neural timescales, one fallback relocates consciousness's role to the point of outcome determination after decoherence has already selected preferred bases—consciousness biases which possible outcome becomes actual. This is a significant retreat: the original Zeno formulation made a specific, testable claim, while "consciousness selects among physically possible outcomes" is difficult to distinguish from "outcomes are stochastic." Three candidate discriminators have been proposed—systematic bias aligned with attentional goals, temporal correlation with reportable phenomenal states, and intervention asymmetry—but none is currently testable. The honest assessment: the specific version of Stapp's mechanism may not work, and the replacement does not yet generate discriminating predictions.
 
-### Tier 2: Eccles' Intention as Quantum Tunneling Probability
+### Eccles' Intention as Quantum Tunneling Probability
 
 John Eccles (1994), with quantum mechanics developed alongside Friedrich Beck, proposes coupling at neurotransmitter release sites. Each of approximately 40 million dendrons is coupled to a mental "psychon" that modulates vesicle release probability through quantum tunneling effects in synaptic exocytosis.
 
@@ -154,9 +154,9 @@ John Eccles (1994), with quantum mechanics developed alongside Friedrich Beck, p
 
 **The major objection**: The [pairing-problem](/concepts/pairing-problem/)—how does an immaterial psychon locate a specific dendron? Mental entities lacking spatial properties cannot stand in spatial relations to neural structures. This is Descartes' pineal gland problem multiplied across 40 million synaptic interfaces.
 
-### Tier 3: Three Underdeveloped Candidates
+### Three Further Candidates
 
-**Valence as motivational force.** [Pain asymbolia](/topics/pain-consciousness-and-causal-power/) provides compelling evidence that phenomenal valence does causal work: patients detect tissue damage normally but lack felt badness and consequently lack avoidance motivation. The dissociation suggests felt valence, not merely damage representation, drives motivational behaviour. But no quantum-level pathway has been proposed.
+**Valence as motivational force.** [Pain asymbolia](/topics/pain-consciousness-and-causal-power/) provides suggestive evidence that phenomenal valence does causal work: patients detect tissue damage normally but lack felt badness and consequently lack avoidance motivation. The dissociation suggests felt valence, not merely damage representation, drives motivational behaviour. But no quantum-level pathway has been proposed.
 
 **Qualia as basis selection.** Perhaps specific phenomenal qualities correspond to specific measurement bases in quantum collapse—consciousness selects *what question to ask* rather than *which answer to get*. No developed theory, no mechanism, no evidence. Conceptually interesting: it illustrates that coupling might operate at the question level rather than the outcome level.
 
@@ -180,7 +180,7 @@ A persistent challenge: what Schaffer calls the "t-shirt problem"—the lack of 
 
 Three responses:
 
-**Scientific immaturity.** Physics took centuries to achieve its current systematization. Consciousness science is young. The absence of simple laws now doesn't imply their absence in principle.
+**Difficulty, not immaturity.** Physics took centuries to achieve its current systematization. Quantum consciousness proposals have been under development since the 1990s—three decades without specifiable psychophysical laws. This timeframe warrants neither complacency nor despair: the problem is genuinely hard (consciousness lacks the empirical handholds that constrained early physics), but the absence of simple laws now doesn't imply their absence in principle.
 
 **Cognitive closure.** Perhaps psychophysical laws involve concepts our minds aren't built to grasp—not because the laws don't exist, but because our evolutionary history didn't require comprehending them. This [mysterian](/concepts/mysterianism/) response shifts the problem from metaphysics to epistemology.
 
@@ -192,7 +192,7 @@ What's not acceptable: using specification difficulty as license for unfalsifiab
 
 Even if each candidate mechanism operates independently, a complete coupling law must explain how they relate. Consciousness doesn't deploy attention, intention, valence, and qualitative character through separate channels. Willing an action while attending to it while experiencing its felt quality is unified. Any adequate coupling law must address how multiple phenomenal dimensions couple to physical selection through a single conscious act.
 
-This connects to [phenomenal unity](/concepts/unity-of-consciousness/): the unity of experience may not be decomposable into separate coupling channels. The five-candidate analysis may be a useful research decomposition that doesn't correspond to how coupling actually works. A single principle operating across all phenomenal dimensions—with the five candidates as different projections—would move toward the t-shirt problem's solution. But this remains speculative.
+This connects to [phenomenal unity](/concepts/unity-of-consciousness/): the unity of experience may not be decomposable into separate coupling channels. The five-candidate analysis may be a useful research decomposition that doesn't correspond to how coupling actually works. This is an open problem.
 
 ## Relation to Site Perspective
 
@@ -200,7 +200,7 @@ The psychophysical laws framework is where the Map's [tenets](/tenets/) become t
 
 **[Dualism](/tenets/#dualism)** requires psychophysical laws by definition. If consciousness is ontologically distinct from physics, something must specify how they relate. Where Chalmers provides philosophical foundation, the Map develops operational specification—particularly the downward direction Chalmers leaves open.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** requires downward selection laws, not merely upward supervenience. Stapp's attention-observation model currently best satisfies the specification threshold. However, the decoherence objection forces a difficult choice: the original Zeno version is specific and testable but may be physically impossible at neural timescales, while the post-decoherence fallback is physically more plausible but lacks discriminating predictions. The tenet's empirical credibility depends on whether future work can restore mechanistic specificity.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** requires downward selection laws, not merely upward supervenience. The tenet is a philosophical commitment grounded in the phenomenology of agency—the experienced reality that intention affects action, that effort affects outcome. The candidate mechanisms surveyed here represent early attempts to locate where in physics this influence operates. None yet meets the full specification threshold. Stapp's model is the most detailed but faces the decoherence objection; the others remain less developed. The Map holds that the absence of a vindicated mechanism does not refute the phenomenological evidence any more than the absence of a mechanism for gravity refuted falling objects before Newton. But honesty requires acknowledging that the tenet's empirical credibility depends on whether future work can achieve mechanistic specificity.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** is reflected in all candidate mechanisms. Each proposes *biasing* quantum outcomes rather than overriding physical law. Stapp modulates observation frequency; Eccles modulates tunneling probability; none injects energy or violates conservation. The ~10 bits/second bandwidth constraint further enforces minimality.
 
@@ -258,3 +258,21 @@ The framework would face serious difficulty if:
 11. Kerskens, C.M. & Pérez, D.L. (2022). "Experimental indications of non-classical brain functions." *Journal of Physics Communications* 6(10).
 12. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.
 13. Tononi, G. et al. (2016). "Integrated Information Theory." *Nature Reviews Neuroscience*, 17, 450-461.
+
+<!-- AI REFINEMENT LOG - 2026-03-10
+Changes made:
+- Removed tier ranking system to flatten Quantum Zeno overemphasis per style guide restraint guidance
+- Added upfront framing that no mechanism yet meets the full specification threshold
+- Relabelled "Possible response" as "The post-decoherence concession" — honest about it being a retreat
+- Reframed Bidirectional Interaction tenet section: now frames the tenet as a philosophical commitment grounded in phenomenology of agency, with mechanisms as early candidate directions, rather than implying mechanisms must carry the full burden
+- Changed "Scientific immaturity" to "Difficulty, not immaturity" — acknowledges 30 years of development
+- Fixed language: "most developed" → "most detailed", "compelling evidence" → "suggestive evidence", "consciousness resists superposition" → "in this model, consciousness resists superposition"
+- Attributed fading qualia implausibility argument to Chalmers explicitly
+- Softened James quote attribution to summary rather than exact quotation
+- Tightened Convergence Problem section — removed speculative single-principle suggestion
+
+Based on pessimistic review pessimistic-2026-03-10-psychophysical-laws.md.
+Key improvements: article no longer progressively self-undermines; acknowledges limitations honestly while grounding Bidirectional Interaction in phenomenological evidence rather than solely in untested mechanisms.
+
+This log should be removed after human review.
+-->

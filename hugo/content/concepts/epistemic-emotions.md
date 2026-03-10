@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-03-05 16:47:00+00:00
+ai_modified: 2026-03-10 06:13:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: 'Curiosity, doubt, certainty, insight: feelings directed at knowled
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 22:48:00+00:00
+last_deep_review: 2026-03-10 06:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -192,4 +192,3 @@ None of these conditions currently obtains.
 1. Meylan, A. (2014). Epistemic emotions: A natural kind? *Philosophical Inquiries*, 2(1), 173-190.
 1. Schulz, K. (2010). *Being Wrong: Adventures in the Margin of Error*. Ecco.
 1. Schwitzgebel, E. (2024). Introspection. *Stanford Encyclopedia of Philosophy*.
-1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
