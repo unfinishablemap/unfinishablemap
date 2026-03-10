@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address critical gaps in phenomenal value realism article
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found 2 high-severity issues: (1) pluralist extension undermines the identity thesis without acknowledgment, (2) Open Question response is question-begging. Also 2 medium issues: unsupported superlative for Rawlette, undeveloped inverted aesthetics argument. See pessimistic-2026-03-10-phenomenal-value-realism.md
+- **Generated**: 2026-03-10
+
 ### P3: Write article on consciousness and the philosophy of biology
 - **Type**: expand-topic
 - **Status**: pending
