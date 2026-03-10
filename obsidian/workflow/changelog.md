@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10T10:26:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/attention-schema-theory-critique]]
+- **Word count**: 2808 → 2806 (-2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [[reviews/deep-review-2026-03-10-attention-schema-theory-critique]]
+
 ## 2026-03-10T09:41:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[concepts/probability-objections-many-worlds]]

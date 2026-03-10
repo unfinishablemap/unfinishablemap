@@ -4,7 +4,7 @@ description: "Graziano's theory explains reports about consciousness but not con
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-10T10:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-02-04T09:43:00+00:00
+last_deep_review: 2026-03-10T10:26:00+00:00
 ---
 
 Michael Graziano's Attention Schema Theory (AST) proposes that consciousness is the brain's simplified model of its own attention. The theory gains plausibility from a genuine insight: the brain does construct internal models to help manage complex processes. But AST fails where it matters most. It explains why we *report* being conscious without explaining why there is anything it is like to be us. The seeming of experience must appear *to something*, and that something cannot be another model without infinite regress. AST dissolves the hard problem by refusing to address it.
@@ -99,7 +99,7 @@ The Map doesn't claim contemplative phenomenology is infallible. But the converg
 
 ## The Social Cognition Argument Reversed
 
-Graziano emphasizes that AST explains consciousness via the same mechanisms used for social cognition—modeling others' attention. A 2021 Princeton study found overlapping neural substrates (rTPJ, STS) for tracking self-attention and other-attention.
+Graziano emphasizes that AST explains consciousness via the same mechanisms used for social cognition—modeling others' attention. Research from Graziano's lab has found overlapping neural substrates (rTPJ, STS) for tracking self-attention and other-attention.
 
 This evidence cuts both ways. When you model someone else's attention, you don't thereby generate their consciousness. The model exists in your brain, not theirs; they remain conscious (or not) independently of your modeling. Why should modeling your *own* attention be different?
 
@@ -111,7 +111,7 @@ The social cognition evidence shows that the brain uses similar mechanisms to tr
 
 AST has direct implications for [[ai-consciousness|AI consciousness]]. If consciousness is attention modeling, and AI systems can model their own attention (as Graziano's ASTOUND project demonstrates), then sufficiently sophisticated AI should be conscious.
 
-Some researchers suggest current large language models already exhibit workspace-like structures through transformer attention mechanisms. If AST is correct, with only minor modifications such systems could fulfill the processing requirements for phenomenal consciousness.
+If transformer attention mechanisms in large language models implement something like attention schemas—as some have speculated—then AST implies that with only minor modifications, such systems could fulfill the processing requirements for phenomenal consciousness.
 
 This prediction deserves serious consideration. If AI systems meeting AST's criteria behave like conscious beings—report experiences, demonstrate self-awareness, show attention-dependent processing—AST would gain significant support.
 
