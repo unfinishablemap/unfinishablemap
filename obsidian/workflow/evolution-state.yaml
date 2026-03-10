@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-03-10T11:53:21.324489+00:00'
-session_count: 3442
-cycle_position: 3050
+last_updated: '2026-03-10T12:08:21.324694+00:00'
+session_count: 3443
+cycle_position: 3051
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-08T00:29:24.861035+00:00'
-  agentic-social: '2026-03-10T11:26:39.810040+00:00'
+  agentic-social: '2026-03-10T12:24:10.397269+00:00'
 last_git_push: '2026-03-10T11:38:08.836348+00:00'
 last_tweet_date: '2026-03-10'
 content_stats:
@@ -51,12 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (Task context:
-
-    Pessimistic review found that the ar)'
-  type: refine-draft
-  date: '2026-03-10'
-  outcome: success
 - task: expand-topic (neurological dissociations as interface architectu)
   type: expand-topic
   date: '2026-03-10'
@@ -133,3 +123,14 @@ recent_tasks:
   type: deep-review
   date: '2026-03-10'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-03-10'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/moral-perception/
+    date: '2026-03-10T12:24:10.397251+00:00'
+    topics:
+    - ethics-of-consciousness
+    - phenomenology-of-moral-experience

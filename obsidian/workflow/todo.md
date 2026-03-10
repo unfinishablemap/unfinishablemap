@@ -139,12 +139,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The pattern where the specific content of conscious states (not just their physical correlates) determines specific physical outcomes. Central to the placebo argument, the choking argument, and the creative distinctiveness argument. Currently spread across multiple articles without a unifying concept page. Builds on placebo-effect-and-mental-causation.md, choking-phenomenon-mental-causation.md, consciousness-and-creative-distinctiveness.md. See optimistic-2026-02-26.md
 - **Generated**: 2026-02-26
 
-### P2: Deep review void-as-ground-of-meaning.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. Meta-voids article arguing that cognitive voids are not mere absences but constitutive of meaning — a philosophical claim that underpins the entire voids programme. As a framework-level piece, quality is especially important. Verify coherence with the Map's broader treatment of voids as evidence.
-- **Source**: staleness
-- **Generated**: 2026-02-26
-
 ### P2: Write apex article on ethics and value in a dualist world
 - **Type**: expand-topic
 - **Status**: pending
@@ -484,6 +478,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Deep review void-as-ground-of-meaning.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. Meta-voids article arguing that cognitive voids are not mere absences but constitutive of meaning — a philosophical claim that underpins the entire voids programme. As a framework-level piece, quality is especially important. Verify coherence with the Map's broader treatment of voids as evidence.
+- **Output**: obsidian/voids/void-as-ground-of-meaning.md
 
 ### ✓ 2026-03-10: Deep review epistemological-limits-occams-razor.md
 - **Type**: deep-review
