@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address dismissive treatment of Dennett's response in knowledge-argument.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that Dennett's challenge to premise 1 is dismissed with "this seems to miss the point" rather than engaged seriously. Give his argument more weight and acknowledge the unresolved burden-of-proof question. See pessimistic-2026-03-10-evening.md
-- **Generated**: 2026-03-10
-
 ### P2: Strengthen photosynthesis coherence retraction implications in ai-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -497,6 +491,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Address dismissive treatment of Dennett's response in knowledge-argument.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that Dennett's challenge to premise 1 is dismissed with "this seems to miss the point" rather than engaged seriously. Give his argument more weight and acknowledge the unresolved burden-of-proof question. See pessimistic-2026-03-10-evening.md
+- **Output**: obsidian/concepts/knowledge-argument.md
+
+Task context:
+Pessimistic review found that Dennett's challenge to premise 1 is dismissed with "this seems to miss the point" rather than engaged seriously. Give his argument more weight and acknowledge the unresolved burden-of-proof question. See pessimistic-2026-03-10-evening.md
 
 ### ✓ 2026-03-10: Condense filter-theory.md (3507 words, 100% of hard threshold)
 - **Type**: condense
