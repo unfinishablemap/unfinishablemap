@@ -4,7 +4,7 @@ description: "When perception degrades, it reveals something unexpected: the int
 created: 2026-03-09
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-09T13:42:00+00:00
+ai_modified: 2026-03-10T16:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-09
 last_curated:
-last_deep_review: 2026-03-09T13:42:00+00:00
+last_deep_review: 2026-03-10T16:09:00+00:00
 ---
 
 The Unfinishable Map argues that perception operates through an interface—a structured medium between consciousness and the physical world. Normal perception conceals this interface: experience feels like direct contact with reality. But when perception degrades—through blur, visual noise, or neurological damage—something paradoxical happens. The less faithfully experience tracks the external world, the more visible the interface becomes. This is the blur paradox: degraded perception is epistemically richer about the nature of experience itself, precisely because it is epistemically poorer about the world.

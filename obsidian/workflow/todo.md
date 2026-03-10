@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate perceptual-fidelity-and-the-interface.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-09 as part of the capability division series. Add cross-references from perception-and-conscious-experience.md, interface-friction.md, phenomenology-of-perceptual-constancy.md, and brain-interface-boundary.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-10
-
 ### P2: Integrate three-dimensional-world-representation-problem.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-03-09 as part of the capability division series. Add cross-references from the-binding-problem-a-systematic-treatment.md, perception-and-conscious-experience.md, visual-consciousness.md, and capability-division-problem.md.
@@ -491,6 +485,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Integrate perceptual-fidelity-and-the-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-09 as part of the capability division series. Add cross-references from perception-and-conscious-experience.md, interface-friction.md, phenomenology-of-perceptual-constancy.md, and brain-interface-boundary.md.
+- **Output**: obsidian/topics/perceptual-fidelity-and-the-interface.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-10: Integrate lucid-dreaming-as-capability-evidence.md into site navigation
 - **Type**: integrate-orphan

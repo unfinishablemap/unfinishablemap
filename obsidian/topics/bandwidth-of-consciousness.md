@@ -3,7 +3,7 @@ title: "The Bandwidth of Consciousness"
 created: 2026-02-09
 modified: 2026-03-04
 human_modified: null
-ai_modified: 2026-03-04T21:02:00+00:00
+ai_modified: 2026-03-10T16:09:00+00:00
 draft: false
 description: "The 100-million-fold gap between sensory input and conscious output reveals the shape of the mind-brain interface—a selection channel, not a production line."
 topics:
@@ -89,6 +89,8 @@ The inbound side deepens the puzzle. Why would a system that generates rich expe
 The [[filter-theory|filter model]] handles the bandwidth constraint without strain. If the brain constrains consciousness rather than producing it, the bottleneck is the *filter itself*—the narrow channel through which consciousness accesses and influences the physical world. Consciousness may be vastly richer than what the brain's interface can transmit. The 10 bits per second measures the channel's capacity, not consciousness's capacity.
 
 William James's prism analogy applies precisely: white light contains all wavelengths; the prism reveals specific colours. The prism's bandwidth is finite, but the light it refracts exceeds what any single prism can display. Similarly, consciousness operating through the brain's interface manifests at the rate the interface permits.
+
+The converse prediction also holds: degraded interface operation should produce impoverished but epistemically revealing experience. The [[perceptual-fidelity-and-the-interface|blur paradox]] confirms this—when perception degrades through blur or neural damage, the interface itself becomes visible, exposing phenomenal properties that belong to the subject rather than to the world.
 
 This predicts that altered states involving loosened interface constraints—[[dream-consciousness|dreams]], psychedelics, meditative absorption—should involve experiences reported as *richer* than ordinary waking consciousness. Psychedelic research finds increased neural entropy correlating with reports of expanded subjective richness (Carhart-Harris et al., 2014). Production models must explain why disrupted neural processing correlates with enriched subjective experience; filter models expect it.
 

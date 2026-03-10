@@ -4,7 +4,7 @@ description: "Blindsight patients discriminate visual stimuli they cannot consci
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-10T16:09:00+00:00
 last_deep_review: 2026-02-07T05:57:00+00:00
 draft: false
 topics: []
@@ -64,7 +64,7 @@ This interpretation supports property dualism. If functionally similar visual pr
 
 Some theorists propose that blindsight involves preserved but degraded visual consciousness rather than its complete absence. Lau and Passingham (2006) demonstrated "relative blindsight" in normal observers using metacontrast masking—showing that subjective awareness can vary even when objective discrimination is matched. Persaud et al. (2011) found awareness-related prefrontal and parietal activity in blindsight patient GY even when discrimination performance was controlled. These findings suggest the dissociation may be between levels of awareness rather than presence versus absence.
 
-Phillips (2021) offers the strongest version of this challenge, arguing that blindsight patients have qualitatively degraded conscious vision and that their denials of seeing reflect conservative response criteria rather than absent phenomenology. On this view, patients set a high threshold for reporting "I see something" and their genuine but degraded visual experience falls below that threshold. Type 2 blindsight patients (as opposed to Type 1) do report vague "feelings" or "awareness of something" without clear visual experience (Weiskrantz, 1998), blurring the line between absent consciousness and present-but-inaccessible consciousness.
+Phillips (2021) offers the strongest version of this challenge, arguing that blindsight patients have qualitatively degraded conscious vision and that their denials of seeing reflect conservative response criteria rather than absent phenomenology. On this view, patients set a high threshold for reporting "I see something" and their genuine but degraded visual experience falls below that threshold. The [[perceptual-fidelity-and-the-interface|blur paradox]] extends Phillips's insight: if consciousness degrades smoothly from vivid clarity through blur to blindsight, the boundary between seeing and not-seeing dissolves into a continuum that threshold-emergence models struggle to explain. Type 2 blindsight patients (as opposed to Type 1) do report vague "feelings" or "awareness of something" without clear visual experience (Weiskrantz, 1998), blurring the line between absent consciousness and present-but-inaccessible consciousness.
 
 **3. Residual islands of spared V1**
 

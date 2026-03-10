@@ -4,7 +4,7 @@ description: "Why perception is the paradigm case for understanding consciousnes
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-09T10:46:00+00:00
+ai_modified: 2026-03-10T16:09:00+00:00
 last_deep_review: 2026-03-09T10:46:00+00:00
 draft: false
 topics:
@@ -88,7 +88,7 @@ This point connects to [[indexical-identity-quantum-measurement|indexical identi
 
 Perceptual experience is characteristically *transparent*—in perceiving, we seem to look right through the experience to the objects perceived. When you see a tree, you are aware of the tree, not of a mental representation of the tree. The experience itself recedes, presenting its objects rather than itself. This is what philosophers call [[phenomenal-transparency]].
 
-Transparency complicates physicalist accounts. A representational physicalist might argue that introspection *should* reveal worldly objects—the brain evolved to represent the external world, so its representations have worldly content. Transparency, on this view, simply shows the system working as designed.
+Transparency complicates physicalist accounts—and its failure is equally revealing. When perception degrades through blur, visual noise, or neurological damage, transparency shatters: you become aware of the medium through which you were perceiving. The [[perceptual-fidelity-and-the-interface|blur paradox]] shows that degraded perception is epistemically richer about the nature of experience itself, precisely because it is epistemically poorer about the world. A representational physicalist might argue that introspection *should* reveal worldly objects—the brain evolved to represent the external world, so its representations have worldly content. Transparency, on this view, simply shows the system working as designed.
 
 Yet this response concedes something important. If introspection reveals only worldly objects and never the neural states that supposedly constitute the experience, the identity claim becomes purely theoretical—accepted on philosophical grounds rather than confirmed by any first-person evidence. The experience itself offers no clue that it *is* a brain state. Its directedness—[[intentionality]]—points outward toward objects, not inward toward the neural machinery.
 

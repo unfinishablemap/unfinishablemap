@@ -4,7 +4,7 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-10T01:42:00+00:00
+ai_modified: 2026-03-10T16:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -151,7 +151,7 @@ The Map's [[mind-brain-separation]] article develops an updated version of filte
 The brain functions like a rendering engine: it computes how things should look based on available data, textures, lighting models. The result is a visual scene. But the scene is not *produced* by the rendering engine alone—it's produced by an interplay between the engine's capabilities and some source of content (game designers, procedural algorithms, or in this case, consciousness).
 
 This explains:
-- **Why brain damage produces specific deficits**: Damage the texture memory and surfaces become bland; damage motion processing and movement becomes jerky. These are rendering failures, not consciousness failures.
+- **Why brain damage produces specific deficits**: Damage the texture memory and surfaces become bland; damage motion processing and movement becomes jerky. These are rendering failures, not consciousness failures. The [[perceptual-fidelity-and-the-interface|blur paradox]] reveals something further: when the rendering degrades, the interface itself becomes visible—blur, noise, and distortion expose phenomenal properties that belong to the experiencing subject rather than to any physical object.
 - **Why qualia seem irreducible**: The rendering engine processes vectors and matrices; the *experience* of color, motion, space exceeds the processing that enables it.
 - **Why dreams can construct perceptual worlds**: Consciousness uses the rendering engine's capabilities without being bound by sensory input.
 - **The binding problem**: How separate neural processes produce unified experience is puzzling on production models. On filter theory, the unity is in consciousness itself; the brain renders aspects of unified experience through separate channels.
