@@ -2,9 +2,9 @@
 title: "Temporal Consciousness"
 description: "Consciousness flows through time in the specious present—Bergson's durée. This temporal structure resists physical description and may be constitutive of time itself."
 created: 2026-01-14
-modified: 2026-02-17
+modified: 2026-03-10
 human_modified: null
-ai_modified: 2026-03-08T12:06:00+00:00
+ai_modified: 2026-03-10T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,6 +44,8 @@ concepts:
   - "[[stapp-quantum-mind]]"
   - "[[consciousness-as-activity]]"
   - "[[motor-control-quantum-zeno]]"
+  - "[[retrocausality]]"
+  - "[[attention-as-interface]]"
 related_articles:
   - "[[tenets]]"
   - "[[temporal-structure-consciousness-2026-01-14]]"
@@ -58,6 +60,8 @@ related_articles:
   - "[[choking-phenomenon-mental-causation]]"
   - "[[consciousness-as-activity]]"
   - "[[motor-control-quantum-zeno]]"
+  - "[[quantum-measurement-consciousness-interface]]"
+  - "[[phenomenology-of-temporal-attention]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -70,6 +74,7 @@ coalesced_from:
   - "/concepts/duration/"
   - "/concepts/temporal-unity/"
   - "/concepts/specious-present-temporal-experience/"
+  - "/concepts/temporal-phenomenology-quantum-selection/"
 ---
 
 Human consciousness doesn't occur in durationless instants. It flows through time in what philosophers call the "specious present"—a core duration of roughly 300-750 milliseconds, embedded in a broader experiential horizon of 2-3 seconds, within which succession, change, and persistence appear as unified wholes. Henri Bergson named this qualitative flow *durée*—lived time fundamentally different from the spatialized time of physics. [[william-james-consciousness|William James]] wrote that consciousness "flows" rather than appearing "chopped up into bits." Husserl analysed how each moment contains retention of the immediate past, primal impression of the now, and protention toward the anticipated future.
@@ -139,15 +144,45 @@ These disruptions show temporal unity is a phenomenal achievement requiring expl
 
 ## Connection to Quantum Consciousness
 
-The Map's framework proposes consciousness participates in [[quantum-consciousness|quantum collapse]] and that [[collapse-and-time|collapse constitutes time's arrow]]. The specious present may be the phenomenological manifestation.
+The Map's framework proposes consciousness participates in [[quantum-consciousness|quantum collapse]] and that [[collapse-and-time|collapse constitutes time's arrow]]. The specious present may be the phenomenological manifestation—what quantum selection feels like from within.
 
-**Duration and collapse timing.** Revised microtubule coherence estimates (10-100 microseconds—seven orders longer than Tegmark's) multiplied by multiple collapse events could produce the ~100-750ms specious present. Each collapse constitutes a "moment"; the specious present is the horizon within which recent collapses remain unified. See [[temporal-phenomenology-quantum-selection]] for a detailed treatment of how Husserl's retention-protention structure maps onto collapsed, collapsing, and uncollapsed quantum states.
+### Temporal Phenomenology as Selection Signature
+
+If consciousness selects among quantum outcomes, selection should feel like something. Husserl's retention-protention structure maps onto the physics of collapse with striking specificity:
+
+- **Retention** holds what has already been considered. In quantum terms, retention may reflect outcomes already collapsed—possibilities that have resolved into the definite background against which current selection occurs. The felt fixedness of the just-past is what already-collapsed states feel like from within.
+
+- **Primal impression** is the vivid present where selection is active. Multiple options remain live; the situation feels open. If consciousness influences quantum outcomes, this is where influence operates—the leading edge where superposition has not yet resolved.
+
+- **Protention** anticipates what selection will yield. The future feels genuinely open, not merely epistemically uncertain. If collapse is real (not merely perspectival, as many-worlds would have it), protention's openness tracks genuine indeterminacy rather than ignorance of which branch one occupies.
+
+A critic might object that any tripartite temporal scheme maps onto any other—retention-impression-protention could equally describe memory-processing-prediction in a neural network. The Map's response: what distinguishes the quantum mapping is not the tripartite structure per se but the qualitative features each phase exhibits. Neural accounts explain *that* the past is fixed and the future open, but not *why it feels that way*—why fixedness has its particular phenomenal character, why openness feels genuinely indeterminate rather than merely epistemically uncertain. If collapse is real, the qualitative texture of each phase finds a natural counterpart in the difference between collapsed, collapsing, and uncollapsed states.
+
+### The Specious Present as Selection Window
+
+The specious present's positive duration (~100-750ms) may correspond to the temporal scope within which selection operates—not an instant of collapse but a window across which consciousness integrates and resolves quantum possibilities. Several features fit this interpretation. First, a durationless selection event would produce no temporal phenomenology; selection with temporal extension should produce experience with temporal extension. Second, the unity of the specious present (hearing a melody phrase, not isolated notes) suggests selection operates holistically across a temporal window rather than event by event. Third, the specious present expands and contracts with [[attention-as-interface|attentional engagement]], implying that attention modulates the scope of conscious selection.
+
+A significant challenge is the [[timing-gap-problem|timescale gap]]: quantum decoherence in warm neural tissue occurs on femtosecond-to-picosecond timescales, roughly twelve orders of magnitude faster than the specious present. Bridging this gap requires some mechanism by which many rapid quantum-level events integrate into a single experiential window—proposals range from [[stapp-quantum-mind|Stapp's quantum Zeno framework]] to orchestrated decoherence models—but the Map treats this as an open question for the framework.
+
+### Duration, Flow, and Superposition
+
+**Duration and collapse timing.** Revised microtubule coherence estimates (10-100 microseconds—seven orders longer than Tegmark's) multiplied by multiple collapse events could produce the ~100-750ms specious present. Each collapse constitutes a "moment"; the specious present is the horizon within which recent collapses remain unified.
 
 **Flow as real.** B-theory eternalists treat temporal flow as illusory. The Map disagrees: flow is the experiential side of time's constitution through collapse. The specious present isn't how the brain represents atemporal reality; it's how consciousness experiences its participation in time's creation.
 
 **Superposition and durée.** Bergson's interpenetrating states resemble quantum superposition—multiple possibilities coexisting rather than existing as definite, separable states. The irreversibility of lived time may reflect the deeper irreversibility of collapse itself.
 
-**The [[decoherence]] challenge.** Three considerations mitigate this objection: (1) coherence times are seven orders longer than Tegmark's estimates (Hagan et al., 2002); (2) decoherence doesn't solve the measurement problem; (3) [[mental-effort|Stapp's quantum Zeno mechanism]] works through rapid discrete collapses rather than sustained coherence.
+### Effort and Effortlessness
+
+The phenomenology of effort provides additional evidence. Maintaining focused attention feels costly; on the Map's framework, this cost reflects consciousness working to bias quantum outcomes against the system's spontaneous tendencies. Effortless awareness—as in [[consciousness-and-skilled-performance|flow]] states or advanced meditation—may correspond to selection without resistance: consciousness still selects, but selection aligns with the system's dynamics rather than opposing them. The felt difference between effortful and effortless engagement tracks the degree to which selection works with or against the physical system's tendencies. Neural accounts explain effort's *functional* role (metabolic cost, resource competition) but not why it *feels like something*.
+
+### Challenges and Requirements
+
+The framework is speculative and conditional. It requires: (1) **collapse realism**—if many-worlds is correct, there is no genuine selection for temporal phenomenology to manifest; (2) **consciousness at collapse**—consistent with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet; (3) **a bridging mechanism** for the femtosecond-to-millisecond timescale gap; (4) **phenomenal-physical correspondence**—the felt structure of time must genuinely correspond to collapse physics, not merely resemble it coincidentally.
+
+The framework is presently empirically inert—it generates no predictions clearly distinguishing it from competing neural-timing accounts. Its current value is philosophical: offering a coherent account of *why* temporal experience has its particular qualitative character. What would challenge it: evidence that temporal phenomenology is fully explained by neural timing without residual explanatory gap, or a compelling account of temporal asymmetry's qualitative texture from purely computational or thermodynamic principles.
+
+**The [[decoherence]] challenge.** Three considerations mitigate this objection: (1) coherence times are seven orders longer than Tegmark's estimates (Hagan et al., 2002); (2) decoherence doesn't solve the measurement problem; (3) Stapp's quantum Zeno mechanism works through rapid discrete collapses rather than sustained coherence.
 
 In time-symmetric frameworks like the Two-State Vector Formalism, collapse satisfies constraints across time. This resonates with durée's interpenetration of past, present, and future—the "mystery" of time experience and quantum measurement may be the same mystery from different perspectives.
 
@@ -206,6 +241,10 @@ Temporal consciousness connects to all five tenets:
 - [[consciousness-as-activity]] — Why temporal extension is constitutive if consciousness is activity
 - [[motor-control-quantum-zeno]] — Motor selection within the specious present's temporal window
 - [[choking-phenomenon-mental-causation]] — How different modes of temporal engagement affect performance
+- [[retrocausality]] — Time-symmetric physics and backward causation
+- [[phenomenology-of-temporal-attention]] — How attention shapes temporal experience
+- [[quantum-measurement-consciousness-interface]] — The measurement problem and consciousness
+- [[mental-effort]] — The felt cost of sustained attention and its quantum interpretation
 
 ## References
 
@@ -237,3 +276,5 @@ Temporal consciousness connects to all five tenets:
 1. Vogeley, K. & Kupke, C. (2007). Disturbances of time consciousness from a phenomenological and a neuroscientific perspective. *Schizophrenia Bulletin*, 33(1), 157-165.
 1. Baker, J. & Cariani, P. (2025). Time-domain brain. *Frontiers in Computational Neuroscience*.
 1. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
+1. Stapp, H. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.

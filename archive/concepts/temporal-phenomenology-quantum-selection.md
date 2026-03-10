@@ -31,6 +31,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
 last_deep_review: 2026-02-24T12:29:00+00:00
+archived: true
+archived_date: 2026-03-10T21:38:00+00:00
+superseded_by: "/concepts/temporal-consciousness/"
+archive_reason: "Coalesced into Temporal Consciousness"
+original_path: "/concepts/temporal-phenomenology-quantum-selection/"
 ---
 
 If consciousness selects among quantum outcomes, selection should feel like something. The Unfinishable Map proposes that the felt structure of temporal experience—the specious present, Husserl's retention-protention, Bergson's durée—may be the phenomenological signature of quantum selection. On this framework, temporal phenomenology does not merely accompany selection; it is what selection is like from within.

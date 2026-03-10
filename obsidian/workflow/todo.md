@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced temporal-phenomenology-quantum-selection
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce merged temporal-phenomenology-quantum-selection into temporal-consciousness. The following files reference the archived article and need wikilinks updated: concepts/phenomenology-of-choice.md, concepts/retrocausality.md, concepts/mental-effort.md, concepts/quantum-consciousness.md, concepts/collapse-and-time.md, topics/temporal-structure-of-consciousness.md, topics/phenomenology-of-temporal-attention.md, topics/time-collapse-and-agency.md, apex/time-consciousness-growing-block.md, workflow/highlights.md
+- **Source**: coalesce
+- **Generated**: 2026-03-10
+
 ### P3: Write article on temporal structure of consciousness as irreducibility evidence
 - **Type**: expand-topic
 - **Status**: pending
