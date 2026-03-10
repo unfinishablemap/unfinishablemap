@@ -447,12 +447,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has strong individual treatments of time and consciousness but no unified account of how temporal ontology constrains the selection interface. Growing block provides ontological framework; process haecceitism provides individuation; temporal becoming provides phenomenology. Together they form the Map's most original metaphysical contribution. Builds on growing-block-universe-and-consciousness.md, consciousness-and-temporal-becoming.md, temporal-ontology-and-consciousness.md, process-haecceitism.md. See optimistic-2026-03-09-evening.md
 - **Generated**: 2026-03-09
 
-### P2: Deep review calibration-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the calibration void — examining whether introspective calibration is achievable. One of 44+ unreviewed void files. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-10
-
 ### P2: Deep review imagination-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the imagination void — limits of imaginative capacity as cognitive evidence. One of 44+ unreviewed void files. Verify coherence, cross-references, and tenet alignment.
@@ -479,6 +473,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Deep review calibration-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the calibration void — examining whether introspective calibration is achievable. One of 44+ unreviewed void files. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/calibration-void.md
 
 ### ✓ 2026-03-10: Condense research/dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09.md (3516 words, 100% of hard threshold)
 - **Type**: condense
