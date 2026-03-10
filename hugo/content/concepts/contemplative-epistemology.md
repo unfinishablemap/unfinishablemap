@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-02-27 00:46:00+00:00
+ai_modified: 2026-03-10 11:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ description: Systematic contemplative practice as a legitimate knowledge source 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-27 00:46:00+00:00
+last_deep_review: 2026-03-10 11:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,7 +56,7 @@ What contemplative epistemology adds beyond general neurophenomenology is the in
 
 ## Conditions for Reliable Report
 
-The reliability of first-person reports has been contested since the collapse of Wundt's introspectionist programme. Nisbett and Wilson (1977) showed that people confabulate explanations for choices shaped by factors invisible to [introspection](/concepts/introspection/). Johansson's choice blindness paradigm extended this: participants defended choices they never made with full conviction. Schwitzgebel catalogued further failures across peripheral vision, inner speech, and emotional character.
+The reliability of first-person reports has been contested since the collapse of Wundt's introspectionist programme. Nisbett and Wilson (1977) showed that people confabulate explanations for choices shaped by factors invisible to [introspection](/concepts/introspection/). Johansson's choice blindness paradigm extended this: participants defended choices they never made with full conviction. Schwitzgebel (2011) catalogued further failures across peripheral vision, inner speech, and emotional character.
 
 Contemplative epistemology accepts these critiques but limits their scope. They diagnose the *default condition*, not the *structural limit*, of first-person observation. Research identifies four conditions under which contemplative reports achieve reliability significantly above the untrained baseline.
 
@@ -76,7 +76,7 @@ This maps onto Russell's distinction between knowledge by acquaintance and knowl
 
 ### Methodological Rigour
 
-Claire Petitmengin's microphenomenology provides specific protocols that reduce confabulation:
+Claire Petitmengin's microphenomenology (Petitmengin 2006) provides specific protocols that reduce confabulation:
 
 - **Present-tense attention** directs observation to current experience rather than retrospective reconstruction
 - **Non-leading inquiry** avoids suggesting what should be found

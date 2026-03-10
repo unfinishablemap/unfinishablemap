@@ -308,7 +308,33 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 ---
 
-## Reserved Slots (14-20)
+### 14. A Taxonomy of Voids
+
+**Slug**: `taxonomy-of-voids`
+
+**Subtitle**: What cognitive limits reveal about the architecture of consciousness
+
+**Thesis**: The 60+ cognitive voids catalogued by the Map are not a miscellaneous collection of philosophical puzzles but a structured taxonomy that reveals the architecture of consciousness itself. Organised by type (architectural, adaptive, naturally occluded, deliberately occluded), by domain (perceptual, introspective, phenomenological, social, formal), and by failure signature, the voids converge on a single boundary—the interface where consciousness meets the physical world. This convergence constitutes evidence: dualism predicts systematic explanatory failure at exactly this interface, and the taxonomy confirms the prediction.
+
+**Source articles**:
+- voids/voids
+- voids/three-kinds-of-void
+- voids/apophatic-cartography
+- voids/evolved-cognitive-limits
+- voids/limits-reveal-structure
+- voids/topology-of-cognitive-failure
+- voids/phenomenology-of-the-edge
+- voids/evidential-weight-of-voids
+- voids/tenet-generated-voids
+- voids/whether-real
+- voids/cartography-problem
+- voids/natural-vs-designed-limits
+
+**Status**: Created 2026-03-10
+
+---
+
+## Reserved Slots (15-20)
 
 Future apex articles will be added as the Map evolves and new thematic clusters emerge. Potential candidates:
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-18
-**Article**: [Consciousness and Collective Intelligence](/topics/consciousness-and-collective-intelligence/)
+**Article**: [Consciousness and Collective Intelligence](/topics/consciousness-and-collective-phenomena/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -58,11 +58,11 @@ None. The article is well-established after two prior reviews and a coalesce ope
 
 ### Enhancements Made
 - Replaced unverifiable IEP quote with factual claim
-- Added cross-link to [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-intentionality/) in body text and Further Reading
+- Added cross-link to [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-phenomena/) in body text and Further Reading
 - Prose tightening across Phenomenological Discovery, PIT intro, Content Determinacy, Three Versions, AI Implications, Objections, and Process Philosophy sections
 
 ### Cross-links Added
-- [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-intentionality/)
+- [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-phenomena/)
 
 ## Length Management
 

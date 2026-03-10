@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-19
-**Article**: [Consciousness and Collective Intentionality](/topics/consciousness-and-collective-intentionality/)
+**Article**: [Consciousness and Collective Intentionality](/topics/consciousness-and-collective-phenomena/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

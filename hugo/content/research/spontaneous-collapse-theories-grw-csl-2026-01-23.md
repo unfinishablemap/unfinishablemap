@@ -1,10 +1,10 @@
 ---
 ai_contribution: 100
-ai_modified: 2026-01-23 03:01:00+00:00
+ai_modified: 2026-03-10 14:53:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 concepts: []
 created: 2026-01-23
-date: '2026-02-21'
+date: '2026-03-10'
 draft: false
 related_articles: []
 title: Research Notes - Spontaneous Collapse Theories (GRW, CSL, Objective Reduction)
@@ -17,12 +17,7 @@ title: Research Notes - Spontaneous Collapse Theories (GRW, CSL, Objective Reduc
 - "GRW spontaneous collapse theory quantum mechanics Ghirardi Rimini Weber"
 - "CSL continuous spontaneous localization quantum collapse theory"
 - "objective reduction quantum collapse Penrose Hameroff OR orchestrated objective reduction"
-- "spontaneous collapse theories measurement problem quantum mechanics Stanford Encyclopedia"
-- "spontaneous collapse prebiotic quantum measurement consciousness before life"
 - "GRW CSL experimental tests predictions falsifiability quantum collapse"
-- "Philip Pearle spontaneous localization quantum collapse history development"
-- "GRW CSL quantum collapse consciousness-independent physical mechanism dualism"
-- "spontaneous collapse decoherence timescale neural quantum brain"
 
 ## Executive Summary
 
@@ -32,131 +27,47 @@ Spontaneous collapse theories (also called objective collapse or dynamical reduc
 
 ### Collapse Theories (Stanford Encyclopedia of Philosophy)
 - **URL**: [https://plato.stanford.edu/entries/qm-collapse/](https://plato.stanford.edu/entries/qm-collapse/)
-- **Type**: Encyclopedia (authoritative)
-- **Key points**:
-  - Measurement problem arises from dual dynamics: linear Schrödinger evolution vs. nonlinear wave packet reduction
-  - Collapse theories merge these by adding stochastic/nonlinear terms to dynamics
-  - Avoid "observer" and "measurement" through spontaneous physical collapse
-  - Amplification mechanism: microscopic systems follow quantum mechanics, macroscopic follow classical
-- **Tenet alignment**: Neutral on consciousness; provides consciousness-independent collapse mechanism compatible with Minimal Quantum Interaction tenet
-- **Quote**: "The physical idea that underlies collapse theories is that particles undergo spontaneous wave-function collapses, which occur randomly both in time (at a given average rate), and in space (according to the Born rule)."
+- Authoritative overview. Collapse theories add stochastic/nonlinear terms to Schrödinger dynamics, avoiding "observer" and "measurement" through spontaneous physical collapse. Amplification mechanism ensures microscopic quantum / macroscopic classical behaviour.
 
 ### Ghirardi–Rimini–Weber Theory (Wikipedia)
 - **URL**: [https://en.wikipedia.org/wiki/Ghirardi–Rimini–Weber_theory](https://en.wikipedia.org/wiki/Ghirardi–Rimini–Weber_theory)
-- **Type**: Encyclopedia
-- **Key points**:
-  - Proposed 1986 by Ghirardi, Rimini, Weber
-  - Each particle undergoes spontaneous collapses at mean rate λ (approx. 10^-16 s^-1 per nucleon)
-  - Collapses distributed via Poisson process in time, Born rule in space
-  - Between collapses: standard Schrödinger evolution
-  - Wave function multiplied by narrow Gaussian (width ~10^-7 m) at collapse
-  - Two phenomenological parameters: collapse rate λ and localization width
-- **Tenet alignment**: Supports No Many Worlds (collapse is real, objective); provides baseline for Minimal Quantum Interaction
-- **Quote**: "The imprecise 'observer' and 'measurement' that plague the orthodox interpretation are thus avoided because the wave function collapses spontaneously."
+- GRW (1986): discrete spontaneous collapses at rate λ ≈ 10^-16 s^-1 per nucleon, Gaussian localisation width ~10^-7 m. Poisson-distributed in time, Born rule in space. Supports No Many Worlds; provides baseline for Minimal Quantum Interaction.
 
 ### Continuous Spontaneous Localization Model (Wikipedia)
 - **URL**: [https://en.wikipedia.org/wiki/Continuous_spontaneous_localization_model](https://en.wikipedia.org/wiki/Continuous_spontaneous_localization_model)
-- **Type**: Encyclopedia
-- **Key points**:
-  - Proposed 1989 by Pearle, finalized 1990 by Ghirardi, Pearle, Rimini
-  - Most widely studied dynamical reduction model
-  - Collapse occurs **continuously** (not discrete jumps like GRW)
-  - Stochastic diffusion driven by universal noise coupled to mass-density
-  - Prevents macroscopic superpositions while preserving microscopic quantum behavior
-  - Dissipative CSL variant (2014+) solves energy increase problem
-- **Tenet alignment**: Strongly supports No Many Worlds; neutral on consciousness (physical mechanism)
-- **Quote**: "The Schrödinger equation is supplemented with a nonlinear and stochastic diffusion process driven by a suitably chosen universal noise coupled to the mass-density of the system."
+- CSL (Pearle 1989, Ghirardi-Pearle-Rimini 1990): most widely studied collapse model. Continuous stochastic diffusion coupled to mass-density. Dissipative CSL (2014+) solves energy runaway. Strongly supports No Many Worlds.
 
 ### Orchestrated Objective Reduction (Wikipedia)
 - **URL**: [https://en.wikipedia.org/wiki/Orchestrated_objective_reduction](https://en.wikipedia.org/wiki/Orchestrated_objective_reduction)
-- **Type**: Encyclopedia
-- **Key points**:
-  - Penrose (physicist) + Hameroff (anesthesiologist), 1990s
-  - Combines quantum biology, neuroscience, philosophy, quantum gravity
-  - Objective reduction (OR): collapse at threshold t = ħ/E_G (Planck constant / gravitational self-energy)
-  - Based on spacetime curvature differences between superposed states
-  - Orchestration: microtubule quantum computations guide collapse
-  - Each OR event = discrete moment of proto-conscious experience
-- **Tenet alignment**: Aligns with Dualism (consciousness linked to quantum events) and Bidirectional Interaction, but conflicts with Minimal Quantum Interaction (large-scale quantum effects)
-- **Quote**: "Each objective reduction (OR) event corresponds to a discrete moment of subjective experience, or proto-conscious qualia, occurring when quantum superpositions self-collapse into definite classical states."
+- Penrose + Hameroff (1990s): collapse at threshold t = ħ/E_G from spacetime curvature differences. Microtubule quantum computations guide collapse; each OR event = proto-conscious experience. Supports Dualism and Bidirectional Interaction but conflicts with Minimal Quantum Interaction (large-scale quantum effects).
 
 ### Orch OR Research (Stuart Hameroff)
 - **URL**: [https://hameroff.arizona.edu/research-overview/orch-or](https://hameroff.arizona.edu/research-overview/orch-or)
-- **Type**: Research program website
-- **Key points**:
-  - Quantum computers process qubits = alternative collective dipole oscillations in microtubules
-  - Tubulin protein dimers have hydrophobic pockets with delocalized π electrons
-  - Orchestrated oscillations entangle, compute, collapse via Penrose OR
-  - Anesthetic action evidence: anesthetics bind to microtubule sites, preventing quantum effects
-- **Tenet alignment**: Direct support for Dualism and Bidirectional Interaction
-- **Quote**: "Quantum computers process information as superpositions of multiple possibilities (quantum bits or qubits) which, in Orch OR, are alternative collective dipole oscillations orchestrated ('Orch') by microtubules."
+- Tubulin dimers have hydrophobic pockets with delocalized π electrons; orchestrated oscillations entangle, compute, collapse via Penrose OR. Anesthetic evidence: binding to microtubule sites prevents quantum effects.
 
-### Collapse Models: A Theoretical, Experimental and Philosophical Review (MDPI Entropy)
+### Collapse Models Review (MDPI Entropy, 2023)
 - **URL**: [https://www.mdpi.com/1099-4300/25/4/645](https://www.mdpi.com/1099-4300/25/4/645)
-- **Type**: Peer-reviewed comprehensive review article (2023)
-- **Key points**:
-  - GRW is only QM interpretation with experimental dimension (falsifiable)
-  - Physical-collapse models make observable predictions, thus testable
-  - Experimental constraints from: matter-wave interference, gravitational waves, ultracold cantilevers, germanium detectors
-  - Parameter space increasingly constrained; original GRW "survived by a whisker"
-- **Tenet alignment**: Supports scientific rigor; falsifiability criterion for Occam's Razor Has Limits
-- **Quote**: "Among the different formulations and interpretations of quantum mechanics, GRW is the only approach that has an experimental dimension because it is falsifiable."
+- GRW is the only QM interpretation with an experimental dimension (falsifiable). Constraints from matter-wave interference, gravitational waves, ultracold cantilevers, germanium detectors. Parameter space increasingly tight; original GRW "survived by a whisker."
 
-### Physics Experiments Spell Doom for Quantum 'Collapse' Theory (Quanta Magazine)
+### Experimental Constraints (Quanta Magazine, 2022)
 - **URL**: [https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/](https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/)
-- **Type**: Science journalism (2022)
-- **Key points**:
-  - Germanium detector experiments ruled out simplest Diósi-Penrose model
-  - Strong bounds on CSL parameter space
-  - Original GRW model lies just within tight experimental window
-  - Neutron star observations, gravitational wave detectors provide further constraints
-- **Tenet alignment**: Neutral; demonstrates scientific accountability of collapse theories
-- **Quote**: "After carefully subtracting the background signal, physicists saw no emission at a sensitivity level that ruled out the simplest form of the Diósi-Penrose model."
+- Germanium detectors ruled out simplest Diósi-Penrose model. Strong bounds on CSL. GRW lies just within tight experimental window. Neutron star and gravitational wave detector constraints continuing.
 
 ### Consciousness Came Before Life (Closer to Truth)
 - **URL**: [https://closertotruth.com/news/consciousness-came-before-life/](https://closertotruth.com/news/consciousness-came-before-life/)
-- **Type**: Popular science / philosophy
-- **Key points**:
-  - Penrose OR events would occur at spacetime geometry level since early universe
-  - "Proto-conscious" OR events: random, disconnected phenomenal awareness
-  - Prebiotic proto-consciousness: OR in π electron clouds of dopamine-like molecules
-  - Occasionally pleasurable OR events prompted origin/evolution of life
-- **Tenet alignment**: Speculative; conflicts with standard Dualism (consciousness tied to complex neural organization)
-- **Quote**: "Penrose's OR events would have been happening at the level of spacetime geometry in the microenvironment since the early universe – long before life arose."
+- Penrose OR events since early universe — prebiotic proto-consciousness in π electron clouds. Speculative; conflicts with standard Dualism (consciousness tied to complex neural organisation).
 
-### A Consciousness-Based Quantum Objective Collapse Model (PhilSci Archive)
+### Consciousness-Based Quantum Collapse Model (PhilSci Archive)
 - **URL**: [https://philsci-archive.pitt.edu/14299/1/ConCSL16.pdf](https://philsci-archive.pitt.edu/14299/1/ConCSL16.pdf)
-- **Type**: Academic paper
-- **Key points**:
-  - McQueen proposes combining CSL with Integrated Information Theory (IIT)
-  - CSL model with Φ_Max (integrated information) as collapse operator
-  - Consciousness plays defined role in collapse (hybrid dualism-physicalism)
-  - Addresses both measurement problem and hard problem simultaneously
-- **Tenet alignment**: Aligns with Dualism and Bidirectional Interaction; provides mathematical framework for consciousness-modulated collapse
-- **Quote**: "One proposal consists of a CSL model with Φ_Max (integrated information) as the collapse operator, arriving at a model where consciousness plays a role in wave function collapse in a well-defined way."
+- McQueen: CSL with Φ_Max (IIT integrated information) as collapse operator. Addresses measurement problem and hard problem simultaneously. Key framework for consciousness-modulated collapse.
 
-### The Importance of Quantum Decoherence in Brain Processes (arXiv)
+### Decoherence in Brain Processes (Tegmark 1999, arXiv)
 - **URL**: [https://arxiv.org/abs/quant-ph/9907009](https://arxiv.org/abs/quant-ph/9907009)
-- **Type**: Academic paper (Tegmark 1999)
-- **Key points**:
-  - Decoherence timescales in neurons: 10^-13 to 10^-20 seconds
-  - Neural firing timescales: 0.001-0.1 seconds
-  - Microtubule decoherence: femtosecond to picosecond range
-  - "Warm, wet, and noisy" brain unsuitable for quantum coherence
-  - Challenges Orch OR feasibility
-- **Tenet alignment**: Challenges large-scale quantum consciousness theories; supports Minimal Quantum Interaction emphasis
-- **Quote**: "Decoherence timescales in neural processes are extremely short, approximately 10^-13 to 10^-20 seconds, which is much shorter than the relevant dynamical timescales."
+- Decoherence timescales in neurons: 10^-13 to 10^-20 s vs. neural firing 0.001–0.1 s. Challenges Orch OR feasibility. Supports Minimal Quantum Interaction emphasis.
 
-### Frontiers: The Quantum-Classical Complexity of Consciousness and Orch OR
+### Revised Orch OR Coherence Estimates (Frontiers, 2025)
 - **URL**: [https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1630906/full](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1630906/full)
-- **Type**: Peer-reviewed research (2025, very recent)
-- **Key points**:
-  - Revised microtubule coherence estimates: 10^-6 to 10^-4 seconds (seven orders of magnitude longer than Tegmark)
-  - Experimental observation of microsecond-range coherence in microtubules
-  - Sufficient for Orch OR processes
-  - Debates continue over protective mechanisms
-- **Tenet alignment**: Partial support for quantum consciousness theories; moderates decoherence objection
-- **Quote**: "More realistic models of the microtubule interior have yielded revised estimates, extending coherence times by approximately seven orders of magnitude beyond Tegmark's values, potentially reaching 10–100 microseconds."
+- Microtubule coherence revised to 10^-6 to 10^-4 s (seven orders of magnitude beyond Tegmark). Experimental observation of microsecond-range coherence. Debate continues over *in vivo* conditions.
 
 ## Major Positions
 
@@ -234,120 +145,51 @@ Spontaneous collapse theories (also called objective collapse or dynamical reduc
 
 ## Key Debates
 
-### Measurement Problem: Consciousness vs. Spontaneous Physical Collapse
-- **Sides**:
-  - Von Neumann-Wigner: Consciousness causes collapse (requires observer)
-  - GRW/CSL: Spontaneous physical collapse (no observer needed)
-- **Core disagreement**: Is consciousness necessary for collapse, or is collapse a purely physical process?
-- **Current state**: Spontaneous collapse theories increasingly favored because:
-  - Avoid infinite regress (what collapses observer's wave function?)
-  - Solve prebiotic collapse problem (quantum events before life)
-  - Falsifiable and experimentally testable
-  - Compatible with dualism as modulation rather than sole cause
+### Consciousness vs. Spontaneous Physical Collapse
+Von Neumann-Wigner consciousness-collapse vs. GRW/CSL spontaneous physical collapse. Spontaneous collapse increasingly favored: avoids infinite regress, solves prebiotic collapse problem, falsifiable, compatible with dualism as modulation rather than sole cause.
 
 ### Decoherence vs. Objective Collapse
-- **Sides**:
-  - Decoherence program: Environmental interaction creates appearance of collapse (no wave function collapse)
-  - Collapse theories: Wave function actually collapses (objective physical process)
-- **Core disagreement**: Does wave function collapse really occur, or just appear to?
-- **Current state**:
-  - Decoherence explains classical appearance but doesn't solve measurement problem (preferred basis problem)
-  - Collapse theories modify QM; decoherence uses standard QM
-  - Experimental tests increasingly constraining collapse theory parameter space
-  - Hybrid models possible (decoherence + residual spontaneous collapse)
+Decoherence explains classical appearance but doesn't solve measurement problem (preferred basis problem). Collapse theories modify QM; experimental tests increasingly constraining parameter space. Hybrid models possible (decoherence + residual spontaneous collapse).
 
-### Discrete (GRW) vs. Continuous (CSL) Collapse
-- **Sides**:
-  - GRW: Discrete random jumps (Poisson process)
-  - CSL: Continuous stochastic process (Brownian motion)
-- **Core disagreement**: Mathematical formulation; physical interpretation similar
-- **Current state**: CSL generally preferred for elegance and tractability; both make similar predictions for many experiments
+### GRW vs. CSL
+Discrete jumps (GRW) vs. continuous stochastic process (CSL). Similar physical interpretation; CSL generally preferred for elegance and tractability.
 
-### Orch OR Feasibility: Decoherence Timescales
-- **Sides**:
-  - Tegmark (1999): Decoherence in brain too fast (femtoseconds) for quantum effects
-  - Hameroff-Penrose: Protective mechanisms extend coherence to microseconds
-- **Core disagreement**: Can quantum coherence survive long enough in warm, wet brain to matter?
-- **Current state**:
-  - Revised estimates show microsecond coherence possible in microtubules
-  - Experimental observation of microsecond coherence in isolated microtubules
-  - Debate continues over *in vivo* conditions vs. lab conditions
-  - Recent experiments (2022-2025) constrain but don't eliminate Orch OR
+### Orch OR Feasibility
+Tegmark (1999): brain decoherence too fast (femtoseconds). Hameroff-Penrose: protective mechanisms extend to microseconds. Revised estimates (2025) show microsecond coherence possible in microtubules. Debate continues over *in vivo* vs. lab conditions.
 
 ### Consciousness-Independent vs. Consciousness-Modulated Collapse
-- **Sides**:
-  - Pure physicalism: Collapse purely physical (GRW/CSL), consciousness epiphenomenal
-  - Dualist interactionism: Consciousness modulates collapse rate/location (hybrid CSL-IIT)
-  - Panpsychist OR: Every collapse is proto-conscious (Penrose)
-- **Core disagreement**: What role does consciousness play in quantum mechanics?
-- **Current state**:
-  - Pure GRW/CSL avoid consciousness entirely (ontologically neutral)
-  - Hybrid models (McQueen's CSL-IIT) provide mathematical framework for consciousness role
-  - Panpsychist OR faces parsimony objections (why is consciousness ubiquitous?)
-  - **Map's position**: Consciousness-modulated CSL most compatible with five tenets
+Three positions: pure physicalism (GRW/CSL, consciousness epiphenomenal), dualist interactionism (consciousness modulates collapse via CSL-IIT), panpsychist OR (every collapse proto-conscious). **Map's position**: Consciousness-modulated CSL most compatible with five tenets.
 
 ## Historical Timeline
 
-| Year | Event/Publication | Significance |
-|------|-------------------|--------------|
-| 1932 | Von Neumann proposes consciousness causes collapse | First consciousness-collapse theory; requires observer |
-| 1976 | Philip Pearle's stochastic QM equations | Pioneering work on dynamical collapse models |
-| 1984-88 | Gisin, Diosi develop stochastic models | Parallel development of collapse mechanisms |
-| 1986 | Ghirardi-Rimini-Weber (GRW) theory published | First fully developed spontaneous collapse theory; discrete jumps |
-| 1989 | Penrose proposes Objective Reduction (OR) | Gravity-based collapse threshold; proto-consciousness |
-| 1989 | Philip Pearle proposes CSL | Continuous spontaneous localization formulation |
-| 1990 | Ghirardi-Pearle-Rimini finalize CSL | Unified GRW and Pearle approaches; most studied model |
-| 1994 | Penrose-Hameroff Orch OR published | Combines OR with microtubule biology for consciousness |
-| 1999 | Tegmark's decoherence critique | Argues brain decoherence too fast for Orch OR |
-| 2014 | Dissipative CSL model | Solves energy runaway problem in original CSL |
-| 2015 | McQueen's consciousness-modulated CSL | Combines CSL with IIT (Φ as collapse operator) |
-| 2020-22 | Germanium detector experiments | Constrain CSL/Diósi-Penrose parameter space; GRW survives narrowly |
-| 2023 | Comprehensive experimental review (MDPI) | Documents extensive experimental constraints on collapse models |
-| 2025 | Revised Orch OR coherence estimates | Microsecond coherence in microtubules (vs. Tegmark's femtoseconds) |
+| Year | Event | Significance |
+|------|-------|--------------|
+| 1986 | GRW theory | First fully developed spontaneous collapse theory |
+| 1989 | Penrose OR; Pearle CSL | Gravity-based collapse; continuous localisation |
+| 1990 | Ghirardi-Pearle-Rimini finalise CSL | Most widely studied collapse model |
+| 1994 | Penrose-Hameroff Orch OR | Combines OR with microtubule biology |
+| 1999 | Tegmark's decoherence critique | Brain decoherence too fast for Orch OR |
+| 2014 | Dissipative CSL | Solves energy runaway problem |
+| 2015 | McQueen's CSL-IIT | Φ_Max as collapse operator |
+| 2020-22 | Germanium detector experiments | GRW survives narrowly; Diósi-Penrose constrained |
+| 2025 | Revised coherence estimates | Microsecond microtubule coherence (vs. Tegmark's femtoseconds) |
 
 ## Potential Article Angles
 
-Based on this research, an article could:
+### 1. Spontaneous Collapse as Solution to Prebiotic Collapse Problem (Strongly recommended)
+GRW/CSL solve how quantum systems collapsed before consciousness existed. Structure: Von Neumann-Wigner problem → GRW/CSL baseline → consciousness modulates via CSL-IIT. Front-load key claim; assume LLM knows basic QM. Aligns with all five tenets, especially Minimal Quantum Interaction.
 
-### 1. **Spontaneous Collapse as Solution to Prebiotic Collapse Problem** (Strongly recommended)
-- **Angle**: GRW/CSL solve critical challenge for consciousness-collapse dualism: how did quantum systems collapse before consciousness existed?
-- **Tenet alignment**:
-  - **Minimal Quantum Interaction**: Consciousness modulates baseline physical collapse rather than wholly causing it
-  - **No Many Worlds**: Collapse is objective and real (not observer-dependent branching)
-  - **Bidirectional Interaction**: Framework for consciousness influencing quantum outcomes
-  - **Occam's Razor Has Limits**: Falsifiability shows scientific rigor; modification of QM justified by measurement problem
-- **Structure**:
-  - Problem: Von Neumann-Wigner consciousness-collapse requires observers → infinite regress, prebiotic collapse problem
-  - Solution: GRW/CSL provide consciousness-independent baseline collapse
-  - Dualist extension: Consciousness modulates collapse rate/location (hybrid CSL-IIT)
-  - Evidence: Experimental constraints show models viable; decoherence timescales debated but improving
-- **Writing considerations** (per style guide):
-  - Front-load: "GRW and CSL spontaneous collapse theories solve the prebiotic collapse problem for dualist interactionism"
-  - Named-anchor forward references: "The measurement problem (explained in [§ Quantum Measurement Crisis](#measurement-problem)) requires modification of standard quantum mechanics"
-  - Selective background: Assume LLM knows basic QM; focus on collapse theory specifics
-  - Tenet alignment section: Explicit connection to all five tenets (especially Minimal Quantum Interaction)
+### 2. Comparative Analysis: GRW vs. CSL vs. Orch OR
+Side-by-side comparison of mechanisms, predictions, experimental status, consciousness role.
 
-### 2. **Comparative Analysis: GRW vs. CSL vs. Orch OR**
-- **Angle**: Three major spontaneous collapse formulations with different consciousness implications
-- **Tenet alignment**: Dualism, Minimal Quantum Interaction, No Many Worlds
-- **Structure**: Side-by-side comparison of mechanisms, predictions, experimental status, consciousness role
+### 3. Experimental Constraints on Collapse Theories (2020-2025)
+Survey of methods, current bounds, implications. GRW "survived by a whisker." Supports Occam's Razor Has Limits.
 
-### 3. **Experimental Constraints on Collapse Theories (2020-2025)**
-- **Angle**: Recent experiments increasingly constrain parameter space; GRW "survived by a whisker"
-- **Tenet alignment**: Occam's Razor Has Limits (falsifiability criterion)
-- **Structure**: Survey of experimental methods, current bounds, implications for dualist frameworks
+### 4. Consciousness-Modulated CSL: Hybrid Dualist Framework
+McQueen's CSL-IIT as mathematical instantiation of Minimal Quantum Interaction. All five tenets.
 
-### 4. **Consciousness-Modulated CSL: Hybrid Dualist Framework**
-- **Angle**: McQueen's CSL-IIT model as mathematical instantiation of Minimal Quantum Interaction
-- **Tenet alignment**: All five tenets (explicitly designed for consciousness-modulated collapse)
-- **Structure**: How to combine spontaneous collapse baseline with consciousness modulation; Φ as collapse operator
-
-### 5. **Decoherence Timescales and Quantum Consciousness Feasibility**
-- **Angle**: Tegmark vs. Hameroff debate; implications for Orch OR and minimal interaction
-- **Tenet alignment**: Minimal Quantum Interaction (small-scale vs. large-scale quantum effects)
-- **Structure**: Decoherence objection, revised estimates, protective mechanisms, what timescales dualism requires
-
-**Recommended**: **Angle 1** (Prebiotic Collapse Problem) is most critical for Map's framework. It directly supports Minimal Quantum Interaction tenet by establishing that consciousness modulates rather than wholly causes collapse.
+### 5. Decoherence Timescales and Quantum Consciousness Feasibility
+Tegmark vs. Hameroff; what timescales dualism actually requires.
 
 ## Gaps in Research
 

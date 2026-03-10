@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-04 22:18:50+00:00
+ai_modified: 2026-03-10 12:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,16 +20,15 @@ concepts:
 - '[[dream-consciousness]]'
 - '[[metacognition]]'
 - '[[consciousness-as-amplifier]]'
-- '[[metacognition]]'
 - '[[temporal-consciousness]]'
 created: 2026-01-14
 date: &id001 2026-01-19
-description: Consciousness as global information broadcast. GWT explains when states
-  become conscious but not why broadcast feels like anything.
+description: Global Workspace Theory explains when information becomes conscious via
+  neural broadcast—but not why broadcast feels like anything. A correlate, not a solution.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-04 08:16:00+00:00
+last_deep_review: 2026-03-10 12:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -251,7 +250,7 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [higher-order-theories](/concepts/higher-order-theories/) — Competitor theory requiring higher-order representation
 - [predictive-processing](/concepts/predictive-processing/) — Prediction-error framework integratable with GWT
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the gateway to the workspace and the Map's proposed mind-matter interface
-- [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) — Why availability isn't integration: the unity of understanding
+- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — Why availability isn't integration: the unity of understanding
 - [working-memory](/concepts/working-memory/) — The cognitive system implementing the workspace architecture
 - [episodic-memory](/concepts/episodic-memory/) — Autonoetic consciousness requiring full workspace ignition
 - [semantic-memory](/concepts/semantic-memory/) — Noetic consciousness with intermediate workspace access

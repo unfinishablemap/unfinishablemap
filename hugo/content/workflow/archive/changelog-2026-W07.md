@@ -839,7 +839,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 03:45 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Collective Intelligence
-- **Output**: [consciousness-and-collective-intelligence](/topics/consciousness-and-collective-intelligence/)
+- **Output**: [consciousness-and-collective-intelligence](/topics/consciousness-and-collective-phenomena/)
 - **Word count**: 1831
 - **Based on research**: partially (related research: [voids-collective-cognitive-limits-2026-01-26](/research/voids-collective-cognitive-limits-2026-01-26/))
 

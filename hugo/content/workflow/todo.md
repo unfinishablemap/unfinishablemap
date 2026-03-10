@@ -38,6 +38,60 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate lucid-dreaming-as-capability-evidence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-09 as part of the capability division series. Add cross-references from dream-consciousness.md, capability-division-problem.md, filter-theory.md, and related perception articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-10
+
+### P2: Integrate perceptual-fidelity-and-the-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-09 as part of the capability division series. Add cross-references from perception-and-conscious-experience.md, interface-friction.md, phenomenology-of-perceptual-constancy.md, and brain-interface-boundary.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-10
+
+### P2: Integrate three-dimensional-world-representation-problem.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-09 as part of the capability division series. Add cross-references from the-binding-problem-a-systematic-treatment.md, perception-and-conscious-experience.md, visual-consciousness.md, and capability-division-problem.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-10
+
+### P2: Cross-review voids articles considering taxonomy-of-voids apex synthesis
+- **Type**: cross-review
+- **Notes**: New apex article apex/taxonomy-of-voids.md was created 2026-03-10. Review key voids articles (three-kinds-of-void.md, apophatic-cartography.md, evidential-weight-of-voids.md, tenet-generated-voids.md) for cross-links to the new apex synthesis. Ensure the taxonomy categories used in the apex match terminology in individual void articles.
+- **Source**: chain (from apex-evolve taxonomy-of-voids)
+- **Generated**: 2026-03-10
+
+### P2: Deep review synesthetic-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. One of 31 unreviewed void files. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-10
+
+### P2: Deep review binding-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. Voids article on the binding void — directly relevant to the Map's treatment of the binding problem. One of 31 unreviewed void files. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-10
+
+### P3: Write article on phenomenal intentionality as foundational thesis
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The claim that intentionality derives from phenomenal consciousness underlies many of the Map's strongest arguments (argument-from-reason, collective-intentionality, mathematical-cognition) but has never received independent philosophical treatment. Multiple articles assume it; none defend it systematically. See optimistic-2026-03-10-afternoon.md
+- **Generated**: 2026-03-10
+
+### P3: Write article on AI systems as consciousness test cases
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Current AI engagement is defensive. A positive empirical framework for testing consciousness claims through what AI can and cannot do — and what the gaps reveal — would strengthen the Map's case and engage contemporary discourse. Builds on hoel-llm-consciousness-continual-learning.md, consciousness-and-mathematical-cognition.md, consciousness-as-amplifier.md. See optimistic-2026-03-10-afternoon.md
+- **Generated**: 2026-03-10
+
+### P3: Write article on the convergence meta-argument as philosophical method
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map's implicit meta-strategy — showing independent arguments converge — deserves explicit treatment. Why is convergence evidentially significant? When does it fail? Builds on the-case-for-dualism.md, epistemic-advantages-of-dualism.md, self-stultification-as-master-argument.md. See optimistic-2026-03-10-afternoon.md
+- **Generated**: 2026-03-10
+
 ### P3: Write article on consciousness and the philosophy of biology
 - **Type**: expand-topic
 - **Status**: pending
@@ -138,24 +192,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The pattern where the specific content of conscious states (not just their physical correlates) determines specific physical outcomes. Central to the placebo argument, the choking argument, and the creative distinctiveness argument. Currently spread across multiple articles without a unifying concept page. Builds on placebo-effect-and-mental-causation.md, choking-phenomenon-mental-causation.md, consciousness-and-creative-distinctiveness.md. See optimistic-2026-02-26.md
-- **Generated**: 2026-02-26
-
-### P2: Deep review contemplative-epistemology.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-10, never reviewed. Oldest unreviewed concept article — 16 days without quality assurance. The article covers how contemplative practices can serve as epistemological tools, directly relevant to the Map's reliance on phenomenological evidence. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-02-26
-
-### P2: Deep review epistemological-limits-occams-razor.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-22, never reviewed. Voids article directly supporting Tenet 5 (Occam's Razor Has Limits) — the Map's least-covered foundational commitment. Quality assurance on tenet-supporting content is especially important. Verify that the arguments against parsimony are sound and well-connected to the tenet framework.
-- **Source**: staleness
-- **Generated**: 2026-02-26
-
-### P2: Deep review void-as-ground-of-meaning.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. Meta-voids article arguing that cognitive voids are not mere absences but constitutive of meaning — a philosophical claim that underpins the entire voids programme. As a framework-level piece, quality is especially important. Verify coherence with the Map's broader treatment of voids as evidence.
-- **Source**: staleness
 - **Generated**: 2026-02-26
 
 ### P2: Write apex article on ethics and value in a dualist world
@@ -270,24 +306,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
 
-### P2: Deep review global-workspace-theory.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 34 days ago, beyond the 30-day staleness threshold. Global Workspace Theory is a foundational theory of consciousness that the Map engages with across many articles. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-04
-
-### P2: Deep review quantum-indeterminacy-free-will.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 34 days ago, beyond the 30-day staleness threshold. Connects quantum indeterminacy to free will — directly relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction). Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-04
-
-### P2: Deep review moral-responsibility.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 33 days ago, beyond the 30-day staleness threshold. Covers moral responsibility under dualism — connects to Tenet 3 (Bidirectional Interaction) and the Map's ethics cluster. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-04
-
 ### P2: Write article on cetacean and corvid consciousness as amplification test cases
 - **Type**: expand-topic
 - **Status**: pending
@@ -332,11 +350,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Hoffman, Singh & Prakash's formal proof that fitness-tuned perception dominates truth-tuned perception. Currently discussed in evolved-cognitive-limits.md but deserves standalone concept page given implications for parsimony arguments, perceptual reliability, and Occam's Razor. Target section: concepts/ (1 slot remaining). Supports Tenet 5 (Occam's Razor Has Limits). See [optimistic-2026-03-05-afternoon](/reviews/optimistic-2026-03-05-afternoon/).
-
-### P2: Apex synthesis of the voids taxonomy
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The voids programme has 60+ articles but no apex synthesis. The evolved-cognitive-limits "naturally occluded" category suggests the taxonomy itself is evolving. An apex article could organise voids by type (architectural, adaptive, occluded), domain (perceptual, cognitive, phenomenological), and what they reveal about consciousness structure. Builds on voids.md, three-kinds-of-void.md, apophatic-cartography.md, and all void articles. See [optimistic-2026-03-05-afternoon](/reviews/optimistic-2026-03-05-afternoon/).
 
 ### P2: Write article on phenomenology of cognitive limit types
 - **Type**: expand-topic
@@ -392,18 +405,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The possibility that different conscious systems couple with matter through different mechanisms. Central to comparative-consciousness-and-interface-differences and what-it-might-be-like-to-be-an-ai but currently only developed within those articles. Target section: concepts/. Supports Tenets 1 and 2. See [optimistic-2026-03-07-night](/reviews/optimistic-2026-03-07-night/).
-
-### P2: Condense research/voids-dissolution-problem-2026-02-25.md (3645 words, 104% of hard threshold)
-- **Type**: condense
-- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-08
-
-### P2: Condense research/spontaneous-collapse-theories-grw-csl-2026-01-23.md (3625 words, 104% of hard threshold)
-- **Type**: condense
-- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings on GRW and CSL models while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-08
 
 ### P2: Deep review acquaintance-void.md
 - **Type**: deep-review
@@ -497,6 +498,65 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Condense consciousness-and-skilled-performance.md (5119 words, 128% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. At 5119 words, this is the most significant length violation on the site. Preserve core arguments about skilled performance as evidence for consciousness while removing redundancy. See /condense skill.
+- **Output**: obsidian/topics/consciousness-and-skilled-performance.md
+
+### ✓ 2026-03-10: Condense research/spontaneous-collapse-theories-grw-csl-2026-01-23.md (3625 words, 104% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings on GRW and CSL models while removing redundancy. See /condense skill.
+- **Output**: obsidian/research/spontaneous-collapse-theories-grw-csl-2026-01-23.md
+
+### ✓ 2026-03-10: Condense research/voids-dissolution-problem-2026-02-25.md (3645 words, 104% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. Preserve key findings while removing redundancy and tightening prose. See /condense skill.
+- **Output**: obsidian/research/voids-dissolution-problem-2026-02-25.md
+
+### ✓ 2026-03-10: Apex synthesis of the voids taxonomy
+- **Type**: apex-evolve
+- **Notes**: Suggested by optimistic review. The voids programme has 60+ articles but no apex synthesis. The evolved-cognitive-limits "naturally occluded" category suggests the taxonomy itself is evolving. An apex article could organise voids by type (architectural, adaptive, occluded), domain (perceptual, cognitive, phenomenological), and what they reveal about consciousness structure. Builds on voids.md, three-kinds-of-void.md, apophatic-cartography.md, and all void articles. See [optimistic-2026-03-05-afternoon](/reviews/optimistic-2026-03-05-afternoon/).
+- **Output**: Apex synthesis of the voids taxonomy
+
+Task context:
+Suggested by optimistic review. The voids programme has 60+ articles but no apex synthesis. The evolved-cognitive-limits "naturally occluded" category suggests the taxonomy itself is evolving. An apex article could organise voids by type (architectural, adaptive, occluded), domain (perceptual, cognitive, phenomenological), and what they reveal about consciousness structure. Builds on voids.md, three-kinds-of-void.md, apophatic-cartography.md, and all void articles. See [optimistic-2026-03-05-afternoon](/reviews/optimistic-2026-03-05-afternoon/).
+
+### ✓ 2026-03-10: Deep review moral-responsibility.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 33 days ago, beyond the 30-day staleness threshold. Covers moral responsibility under dualism — connects to Tenet 3 (Bidirectional Interaction) and the Map's ethics cluster. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/moral-responsibility.md
+
+### ✓ 2026-03-10: Deep review quantum-indeterminacy-free-will.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 34 days ago, beyond the 30-day staleness threshold. Connects quantum indeterminacy to free will — directly relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/quantum-indeterminacy-free-will.md
+
+### ✓ 2026-03-10: Address critical gaps in phenomenal value realism article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found 2 high-severity issues: (1) pluralist extension undermines the identity thesis without acknowledgment, (2) Open Question response is question-begging. Also 2 medium issues: unsupported superlative for Rawlette, undeveloped inverted aesthetics argument. See pessimistic-2026-03-10-phenomenal-value-realism.md
+- **Output**: Task context:
+Pessimistic review found 2 high-severity issues: (1) pluralist extension undermines the identity thesis without acknowledgment, (2) Open Question response is question-begging. Also 2 medium issues: unsupported superlative for Rawlette, undeveloped inverted aesthetics argument. See pessimistic-2026-03-10-phenomenal-value-realism.md
+
+### ✓ 2026-03-10: Deep review global-workspace-theory.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 34 days ago, beyond the 30-day staleness threshold. Global Workspace Theory is a foundational theory of consciousness that the Map engages with across many articles. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/global-workspace-theory.md
+
+### ✓ 2026-03-10: Deep review void-as-ground-of-meaning.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. Meta-voids article arguing that cognitive voids are not mere absences but constitutive of meaning — a philosophical claim that underpins the entire voids programme. As a framework-level piece, quality is especially important. Verify coherence with the Map's broader treatment of voids as evidence.
+- **Output**: obsidian/voids/void-as-ground-of-meaning.md
+
+### ✓ 2026-03-10: Deep review epistemological-limits-occams-razor.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-22, never reviewed. Voids article directly supporting Tenet 5 (Occam's Razor Has Limits) — the Map's least-covered foundational commitment. Quality assurance on tenet-supporting content is especially important. Verify that the arguments against parsimony are sound and well-connected to the tenet framework.
+- **Output**: obsidian/voids/epistemological-limits-occams-razor.md
+
+### ✓ 2026-03-10: Deep review contemplative-epistemology.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-10, never reviewed. Oldest unreviewed concept article — 16 days without quality assurance. The article covers how contemplative practices can serve as epistemological tools, directly relevant to the Map's reliance on phenomenological evidence. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/contemplative-epistemology.md
 
 ### ✓ 2026-03-10: Address coupling mechanism self-undermining in psychophysical-laws article
 - **Type**: refine-draft

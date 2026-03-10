@@ -18,6 +18,143 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10 15:38 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-collective-intelligence](/topics/consciousness-and-collective-phenomena/), [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-phenomena/)
+- **Target**: [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/)
+- **Archived**: [consciousness-and-collective-intelligence](/archive/topics/consciousness-and-collective-intelligence/), [consciousness-and-collective-intentionality](/archive/topics/consciousness-and-collective-intentionality/)
+- **References updated**: 5 files (intentionality, consciousness-and-social-cognition, african-philosophy-of-consciousness, consciousness-and-testimony, phenomenology-of-trust)
+
+## 2026-03-10 15:25 UTC - condense
+- **Status**: Success
+- **File**: [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/)
+- **Before**: 5119
+- **After**: 2629
+- **Reduction**: 49%
+- **Technique**: Cut redundant proprioceptive transformation section, compressed flow subsections (temporal dissolution removed, self/phenomenal signature/evidence consolidated), tightened learning arc and skill transition, trimmed habit section, removed uncited references
+
+## 2026-03-10T15:12:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/)
+- **Word count**: 2216 → 2211 (-5)
+- **Critical issues addressed**: 1 (duplicate frontmatter entry)
+- **Medium issues addressed**: 1 (redundant Further Reading entries)
+- **Enhancements made**: 0 (article stable, no content changes needed)
+- **Output**: [deep-review-2026-03-10-phenomenology-of-recursive-thought](/reviews/deep-review-2026-03-10-phenomenology-of-recursive-thought/)
+
+## 2026-03-10T14:53:00+00:00 - condense
+- **Status**: Success
+- **File**: [spontaneous-collapse-theories-grw-csl-2026-01-23](/research/spontaneous-collapse-theories-grw-csl-2026-01-23/)
+- **Before**: 3625
+- **After**: 2237
+- **Reduction**: 38%
+- **Technique**: Compressed Key Sources (removed quotes, merged tenet notes), tightened Key Debates to paragraph summaries, trimmed Historical Timeline, condensed Potential Article Angles to one-liners (kept recommended angle detail)
+
+## 2026-03-10T14:39:00+00:00 - condense
+- **Status**: Success
+- **File**: [voids-dissolution-problem-2026-02-25](/research/voids-dissolution-problem-2026-02-25/)
+- **Before**: 3645
+- **After**: 2555
+- **Reduction**: 30%
+- **Technique**: Trimmed verbose source descriptions, tightened prose in analysis sections, removed redundant elaboration while preserving all sources and structural arguments
+
+## 2026-03-10T14:23:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 24 articles sampled across topics/, concepts/, tenets/, apex/, voids/ (~336 non-draft articles total)
+- **Output**: [optimistic-2026-03-10-afternoon](/reviews/optimistic-2026-03-10-afternoon/)
+
+## 2026-03-10T14:08:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Mode**: Create (new apex article)
+- **Sources**: 12 source articles from voids programme
+- **Word count**: ~2619
+- **Review**: [apex-evolve-2026-03-10-taxonomy-of-voids](/reviews/apex-evolve-2026-03-10-taxonomy-of-voids/)
+
+## 2026-03-10T13:54:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [moral-responsibility](/concepts/moral-responsibility/)
+- **Word count**: 2503 → 2503 (no changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article stable; fourth consecutive clean review)
+- **Output**: [deep-review-2026-03-10-moral-responsibility](/reviews/deep-review-2026-03-10-moral-responsibility/)
+
+## 2026-03-10T13:38:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/)
+- **Word count**: 2906 → 2905 (-1)
+- **Critical issues addressed**: 1 (fabricated reference — Doerig et al. 2024 replaced with correct Georgiev 2024 and Lacalli 2024 citations)
+- **Medium issues addressed**: 0 (AI refinement log deferred to human review)
+- **Enhancements made**: 0 (article at stability; length-neutral mode)
+- **Output**: [deep-review-2026-03-10-evolutionary-case-for-mental-causation](/reviews/deep-review-2026-03-10-evolutionary-case-for-mental-causation/)
+
+## 2026-03-10T13:23:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)
+- **Word count**: 3492 → 3494 (+2)
+- **Critical issues addressed**: 1 (missing references for 4 cited authors)
+- **Medium issues addressed**: 1 (missing cross-links to concept pages)
+- **Enhancements made**: 3 (references, cross-links, prose tightening)
+- **Output**: [deep-review-2026-03-10-quantum-indeterminacy-free-will](/reviews/deep-review-2026-03-10-quantum-indeterminacy-free-will/)
+
+## 2026-03-10T13:09:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [concept-of-phenomenal-value-realism](/concepts/concept-of-phenomenal-value-realism/)
+- **Changes**: Fixed pluralism/identity tension (high), strengthened Open Question response (high), qualified Rawlette superlative (medium), developed inverted aesthetics argument (medium), applied language improvements
+- **Published**: yes
+
+## 2026-03-10T12:53:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/concept-of-phenomenal-value-realism.md
+- **Output**: [pessimistic-2026-03-10-phenomenal-value-realism](/reviews/pessimistic-2026-03-10-phenomenal-value-realism/)
+
+## 2026-03-10T12:38:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [global-workspace-theory](/concepts/global-workspace-theory/)
+- **Word count**: 3427 → 3427 (+0)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 1
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-10-global-workspace-theory](/reviews/deep-review-2026-03-10-global-workspace-theory/)
+
+## 2026-03-10T12:24:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/)
+- **Word count**: 1710 → 1830 (+120)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-10-void-as-ground-of-meaning](/reviews/deep-review-2026-03-10-void-as-ground-of-meaning/)
+
+## 2026-03-10T12:08:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [reasons-responsiveness](/concepts/reasons-responsiveness/)
+- **Word count**: 1950 → 1968 (+18)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-10-reasons-responsiveness](/reviews/deep-review-2026-03-10-reasons-responsiveness/)
+
+## 2026-03-10T11:53:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)
+- **Word count**: 1381 → 1668 (+287)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-10-epistemological-limits-occams-razor](/reviews/deep-review-2026-03-10-epistemological-limits-occams-razor/)
+
+## 2026-03-10T11:38:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [contemplative-epistemology](/concepts/contemplative-epistemology/)
+- **Word count**: 2389 → 2393 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (citation format consistency)
+- **Enhancements made**: 2 (parenthetical year citations added)
+- **Output**: [deep-review-2026-03-10-contemplative-epistemology](/reviews/deep-review-2026-03-10-contemplative-epistemology/)
+- **Notes**: Article at full stability after third review. Minimal changes only.
+
 ## 2026-03-10T10:56:00+00:00 - research-voids
 - **Status**: Success
 - **Topic**: The Expertise Void — how mastery systematically eliminates conscious access to the processes mastered

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-01-29 12:00:00+00:00
+ai_modified: 2026-03-10 13:23:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,9 @@ concepts:
 - '[[decoherence]]'
 - '[[pairing-problem]]'
 - '[[unity-of-consciousness]]'
+- '[[reasons-responsiveness]]'
+- '[[process-philosophy]]'
+- '[[downward-causation]]'
 created: 2026-01-19
 date: &id001 2026-01-20
 description: How quantum mechanics creates logical space for libertarian free will.
@@ -24,7 +27,7 @@ description: How quantum mechanics creates logical space for libertarian free wi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-29 12:00:00+00:00
+last_deep_review: 2026-03-10 13:23:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +56,7 @@ This creates what Peter van Inwagen called the "libertarian dilemma":
 2. **If indeterminism is true**, outcomes are random (luck, not choice)
 3. **Either way**, genuine authorship seems impossible
 
-The standard debate between determinism and indeterminism assumes both are equally hostile to free will. Libertarian views must explain how indeterminism helps rather than hinders.
+Libertarian views must explain how indeterminism helps rather than hinders.
 
 ## Event-Causal vs Agent-Causal Approaches
 
@@ -104,7 +107,7 @@ The Map's response distinguishes *lucky indeterminism* from *consciousness-selec
 
 Standard quantum indeterminism is genuinely random—outcomes within probability distributions occur without explanation. But the [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) proposes that consciousness *selects* outcomes through repeated observation. Stapp's mechanism: mental effort (attention) acts like rapid quantum measurement, holding desired neural patterns stable against decoherence into alternatives.
 
-This is a different relationship to indeterminacy. The agent isn't passively receiving random outcomes—the agent is actively selecting based on what matters. Selection guided by reasons differs fundamentally from outcomes no one controlled.
+The agent isn't passively receiving random outcomes—the agent is actively selecting based on what matters.
 
 ### The Phenomenology of Effort
 
@@ -114,7 +117,7 @@ If choices were random fluctuations, there would be no phenomenology of effort. 
 
 ### Reasons-Guided Selection
 
-The framework doesn't claim consciousness randomly biases quantum outcomes. Selection tracks reasons—goals, values, considerations that matter. Why A rather than B? Because the agent had reasons for A.
+The framework doesn't claim consciousness randomly biases quantum outcomes. Selection tracks reasons—goals, values, considerations that matter. This [reasons-responsiveness](/concepts/reasons-responsiveness/) distinguishes agent selection from randomness. Why A rather than B? Because the agent had reasons for A.
 
 This makes selection contrastively explicable in a way randomness isn't. The reasons didn't *determine* the outcome—alternatives remained genuinely possible—but they *guided* it. The agent selects based on what matters to them.
 
@@ -138,7 +141,7 @@ Key features supporting free will:
 
 **No energy injection**: Consciousness doesn't add energy; it shapes which pre-existing possibility actualizes. This respects conservation laws while allowing genuine [mental causation](/concepts/mental-causation/).
 
-**Top-down causation**: Mental effort (intention, attention) influences physical outcomes. The mind isn't epiphenomenal—it selects among quantum possibilities that physics leaves undetermined.
+**[Top-down causation](/concepts/downward-causation/)**: Mental effort (intention, attention) influences physical outcomes. The mind isn't epiphenomenal—it selects among quantum possibilities that physics leaves undetermined.
 
 **The [attention-consciousness relationship](/concepts/attention-as-interface/)**: Koch and Tsuchiya documented that attention and consciousness are dissociable—blindsight patients attend to stimuli they don't consciously see; peripheral awareness presents experiences without focused attention. This dissociation matters: attention is the *mechanism* consciousness uses, not consciousness itself. A non-physical subject (consciousness) deploys a physical mechanism (attention) to influence quantum outcomes.
 
@@ -167,7 +170,7 @@ A timing problem remains: if neural activity precedes conscious awareness (Libet
 
 If consciousness operates at this level, the timing problem dissolves. Consciousness doesn't need to precede neural preparation to be its cause. The selection determines *which temporal sequence becomes real*, including the neural history that preceded awareness.
 
-This deepens the agent-causal picture. The agent isn't just "the first cause in this chain" but "the cause of there being this chain at all." What appears as neural activity "predicting" the decision is actually the selected history. The readiness potential is part of what consciousness selected.
+This deepens the agent-causal picture: the agent isn't just "the first cause in this chain" but "the cause of there being this chain at all." The readiness potential is part of what consciousness selected, not a prediction of it.
 
 ## Causal Closure and the Quantum Opening
 
@@ -190,9 +193,7 @@ The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet rejects this for sever
 3. **The probability problem**: If all outcomes occur, why do we observe frequencies matching quantum probabilities?
 4. **No role for consciousness**: All outcomes occur regardless; consciousness merely finds itself somewhere
 
-For free will specifically: MWI means every choice *and* its alternatives are all made. You don't choose A rather than B—"you" choose both in different branches. There's no genuine authorship because nothing was actually selected. The appearance of free will becomes an indexical illusion—this branch-self wondering why it chose A when other branch-selves chose B.
-
-If collapse is real and consciousness participates in it, the quantum opening for free will exists. If MWI is true, quantum mechanics provides no help—indeterminism means branching, not freedom.
+For free will specifically: MWI means every choice *and* its alternatives are all made. "You" choose both A and B in different branches—no genuine authorship because nothing was actually selected. If collapse is real and consciousness participates in it, the quantum opening for free will exists. If MWI is true, indeterminism means branching, not freedom.
 
 ## The Illusionist Challenge
 
@@ -216,11 +217,11 @@ Three responses:
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy offers a complementary metaphysical framework. For Whitehead, reality consists of "actual occasions"—momentary experiential events that synthesize data from past occasions into novel unity. Decision is not something a substance does; it is what actual occasions *are*—the process of many possibilities becoming one actuality.
+Alfred North Whitehead's [process-philosophy](/concepts/process-philosophy/) offers a complementary metaphysical framework. For Whitehead, reality consists of "actual occasions"—momentary experiential events that synthesize data from past occasions into novel unity. Decision is not something a substance does; it is what actual occasions *are*—the process of many possibilities becoming one actuality.
 
-This illuminates the selection-among-indeterminacies picture from an unexpected direction. Each actual occasion exercises what Whitehead called "self-determination" in constituting itself from its causal inheritance. The quantum indeterminacy isn't a gap for consciousness to fill; it *is* the space of creative synthesis where experience determines outcome.
+Each actual occasion exercises what Whitehead called "self-determination" in constituting itself from its causal inheritance. The quantum indeterminacy isn't a gap for consciousness to fill; it *is* the space of creative synthesis where experience determines outcome.
 
-The convergence with agent causation: both frameworks treat conscious decision as ontologically primitive rather than reducible to prior events. But Whitehead's framework goes further—if all causation involves experiential self-determination (panexperientialism), then human agent causation is continuous with causation generally rather than metaphysically exceptional. This weakens the objection that agent causation is ad hoc while preserving its core insight: genuine novelty enters the world through experiential synthesis.
+Both frameworks treat conscious decision as ontologically primitive rather than reducible to prior events. But Whitehead goes further—if all causation involves experiential self-determination (panexperientialism), then human agent causation is continuous with causation generally rather than metaphysically exceptional. This weakens the objection that agent causation is ad hoc: genuine novelty enters the world through experiential synthesis.
 
 Process philosophy also addresses the timing problem differently than retrocausality. There's no "moment of decision" separate from neural processes because the actual occasion *is* the decision—not an observation of prior neural events but the integration of those events into experiential unity. What appears as neural activity "predicting" choice is the causal context from which the occasion of decision arises; the occasion itself is the synthesis.
 
@@ -284,16 +285,23 @@ The convergence of Kane's event-causal libertarianism (now incorporating agent-c
 - [decoherence](/concepts/decoherence/) — The decoherence objection and quantum biology responses
 - [pairing-problem](/concepts/pairing-problem/) — What connects this mind to this body
 - [phenomenal unity](/concepts/unity-of-consciousness/) — Unified experience as evidence for non-reductive consciousness
+- [reasons-responsiveness](/concepts/reasons-responsiveness/) — Why reasons-guided selection escapes the luck objection
+- [process-philosophy](/concepts/process-philosophy/) — Whitehead's metaphysical framework for experiential causation
+- [downward-causation](/concepts/downward-causation/) — How mental states influence physical outcomes
 - [quantum-mechanics-free-will-2026-01-16](/research/quantum-mechanics-free-will-2026-01-16/) — Research notes underlying this article
 
 ## References
 
 1. Chisholm, R. (1964). "Human Freedom and the Self." *The Lindley Lecture*, University of Kansas.
+1. Cramer, J.G. (1986). "The transactional interpretation of quantum mechanics." *Reviews of Modern Physics*, 58(3), 647-687.
 1. Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Hoefer, C. (2024). "Causal Determinism." *Stanford Encyclopedia of Philosophy*.
+1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 1. Kane, R. (2024). *The Complex Tapestry of Free Will*. Oxford University Press.
+1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+1. Koch, C. & Tsuchiya, N. (2007). "Attention and consciousness: two distinct brain processes." *Trends in Cognitive Sciences*, 11(1), 16-22.
 1. Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
 1. Mele, A. (2006). *Free Will and Luck*. Oxford University Press.
 1. Mele, A. (2024). "Soft Libertarianism and Quantum Randomizers." *Journal of Value Inquiry*, 58, 651-658.

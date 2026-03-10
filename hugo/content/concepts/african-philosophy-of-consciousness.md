@@ -31,7 +31,7 @@ title: African Philosophy of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'
-- '[[consciousness-and-collective-intentionality]]'
+- '[[consciousness-and-collective-phenomena]]'
 - '[[consciousness-and-social-cognition]]'
 ---
 
@@ -43,7 +43,7 @@ The most widely discussed African contribution to consciousness studies is the U
 
 Ubuntu challenges the assumption, deeply embedded in Western philosophy of mind, that consciousness is fundamentally first-personal and solitary. The [hard problem](/topics/hard-problem-of-consciousness/) as Chalmers formulated it asks why *this* physical system gives rise to *this* subjective experience — framing consciousness as something that happens inside individual brains. Ubuntu suggests a reframing: consciousness is not merely housed in individuals but realised through the web of relationships that constitute personhood.
 
-Not all scholars read Ubuntu as metaphysics — Thaddeus Metz and others interpret it primarily as an ethical framework about how persons ought to relate. The stronger reading, which the Map finds philosophically productive, treats the relational claim as genuinely ontological: individual consciousness itself has a relational structure. This does not reduce to [collective intentionality](/topics/consciousness-and-collective-intentionality/) in Searle's sense — Ubuntu is not claiming that groups have consciousness. Rather, a person's inner life is shaped and sustained by their place within a community of minds, living and ancestral.
+Not all scholars read Ubuntu as metaphysics — Thaddeus Metz and others interpret it primarily as an ethical framework about how persons ought to relate. The stronger reading, which the Map finds philosophically productive, treats the relational claim as genuinely ontological: individual consciousness itself has a relational structure. This does not reduce to [collective intentionality](/topics/consciousness-and-collective-phenomena/) in Searle's sense — Ubuntu is not claiming that groups have consciousness. Rather, a person's inner life is shaped and sustained by their place within a community of minds, living and ancestral.
 
 ## Akan Dualism
 
@@ -101,7 +101,7 @@ The Map speculates that the Ubuntu tradition's relational ontology may point tow
 - [interaction-problem-in-non-western-philosophy](/topics/interaction-problem-in-non-western-philosophy/)
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
 - [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)
-- [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-intentionality/)
+- [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/)
 - [intersubjectivity](/concepts/intersubjectivity/)
 - [consciousness-value-connection](/concepts/consciousness-value-connection/)
 - [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/)

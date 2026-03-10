@@ -49,7 +49,7 @@ topics:
 - '[[first-person-third-person-methodology]]'
 - '[[phenomenology-of-epistemic-judgment]]'
 - '[[phenomenology-of-trust]]'
-- '[[consciousness-and-collective-intentionality]]'
+- '[[consciousness-and-collective-phenomena]]'
 ---
 
 Testimony — belief formed on the basis of another person's say-so — is one of humanity's fundamental knowledge sources. Most of what anyone knows about history, science, and other people's lives arrives through others' reports rather than direct observation. The Unfinishable Map argues that consciousness occupies a unique position in the epistemology of testimony: it is both a necessary condition for testimony to function as a knowledge source and the one subject matter that testimony can never fully convey. Receiving testimony involves a distinctive phenomenal state — a felt assessment of the speaker as a conscious being whose reports emerge from genuine experience, not merely a source of data to be probabilistically evaluated. This dual dependence reveals something important about the nature of mind and the limits of knowledge.
@@ -169,7 +169,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why dualism provides better epistemic resources
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) — How minds understand each other
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — Meaning and conscious comprehension
-- [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-intentionality/) — Shared consciousness and joint action
+- [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — Shared consciousness and joint action
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — How consciousness converts experience into language
 - [intersubjective-void](/voids/intersubjective-void/) — The constitutive gap between consciousnesses
 - [knowledge-argument](/concepts/knowledge-argument/) — What testimony cannot convey about phenomenal experience

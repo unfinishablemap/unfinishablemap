@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-04 22:18:50+00:00
+ai_modified: 2026-03-10 15:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,7 +11,6 @@ concepts:
 - '[[introspection]]'
 - '[[higher-order-theories]]'
 - '[[self-reference-paradox]]'
-- '[[metacognition]]'
 - '[[witness-consciousness]]'
 - '[[the-unobservable-self]]'
 - '[[phenomenology]]'
@@ -23,7 +22,7 @@ description: When thought takes itself as object, distinctive phenomenal structu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-04 14:57:00+00:00
+last_deep_review: 2026-03-10 15:12:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -145,9 +144,8 @@ The phenomenology of recursive thought suggests several conclusions:
 
 - [self-reference-paradox](/voids/self-reference-paradox/) — The structural limits of consciousness examining itself
 - [the-unobservable-self](/voids/the-unobservable-self/) — Why the observer cannot observe itself observing
-- [metacognition](/concepts/metacognition/) — The cognitive capacity distinct from phenomenal recursion
+- [metacognition](/concepts/metacognition/) — The cognitive capacity distinct from phenomenal recursion (including metarepresentation)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has phenomenal character
-- [metarepresentation](/concepts/metacognition/) — Representing representations as representations
 - [higher-order-theories](/concepts/higher-order-theories/) — Theories that make recursion central to consciousness
 - [introspection](/concepts/introspection/) — The reliability and limits of self-examination
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative phenomenology of observing without identification
