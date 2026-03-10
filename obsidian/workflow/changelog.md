@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10T04:26:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/attention-disorders-and-quantum-interface]]
+- **Word count**: 2146 → 2184 (+38)
+- **Critical issues addressed**: 2 (broken wikilinks to archived concepts, hallucinated Further Reading entry)
+- **Medium issues addressed**: 2 (ego depletion replication controversy, missing cross-link)
+- **Enhancements made**: 1 (added Hagger et al. 2016 replication reference)
+- **Output**: [[reviews/deep-review-2026-03-10-attention-disorders-and-quantum-interface]]
+
 ## 2026-03-10T03:41:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[topics/decision-theory-cannot-save-many-worlds]], [[topics/probability-problem-in-many-worlds]]
