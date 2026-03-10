@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10 22:38 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The epistemology of introspective calibration
+- **Output**: [[topics/epistemology-of-introspective-calibration]]
+- **Word count**: 2374
+- **Based on research**: No (builds on existing Map articles: calibration-void, introspection-rehabilitation, phenomenal-conservatism-and-introspective-evidence, contemplative-practice-as-philosophical-evidence)
+
 ## 2026-03-10 22:23 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/neurological-dissociations-as-interface-architecture]]

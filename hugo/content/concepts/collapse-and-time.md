@@ -109,7 +109,7 @@ The Map's framework proposes a **modified growing block**. Past and present exis
 
 Why prefer the growing block over presentism or eternalism? Presentism (only the present exists) struggles with retrocausal constraints—time-symmetric physics requires past states to exert real influence, which is difficult if they no longer exist. Eternalism (all times exist equally) has no room for genuine collapse; if all moments are equally real, the transition from superposition to definite outcome is perspectival, not ontological. The growing block preserves the reality of past states (supporting retrocausal influence) while maintaining that the future is genuinely open (supporting real collapse). This is a philosophical preference, not a proof—the rate-of-passage problem (what determines the "speed" at which the block grows?) remains unresolved, as it does for all A-theoretic positions.
 
-This isn't growth *in* time but the *constitution of* time. The flow we experience is what time-constitution feels like from within. The [specious present](/concepts/temporal-consciousness/)—the experienced duration of "now"—may be the phenomenological manifestation of consciousness's constitutive role, not merely a neural representation of external time. The [temporal phenomenology of quantum selection](/concepts/temporal-phenomenology-quantum-selection/) develops this idea: the felt structure of time—retention, primal impression, protention—may be the experiential signature of consciousness selecting quantum outcomes.
+This isn't growth *in* time but the *constitution of* time. The flow we experience is what time-constitution feels like from within. The [specious present](/concepts/temporal-consciousness/)—the experienced duration of "now"—may be the phenomenological manifestation of consciousness's constitutive role, not merely a neural representation of external time. The [temporal phenomenology of quantum selection](/concepts/temporal-consciousness/) develops this idea: the felt structure of time—retention, primal impression, protention—may be the experiential signature of consciousness selecting quantum outcomes.
 
 ### Agent Identity Across Collapse
 
@@ -188,7 +188,7 @@ The triad of consciousness, collapse, and time's arrow engages all five [tenets]
 
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Full synthesis of time, collapse, and conscious agency
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The phenomenology of temporal experience
-- [temporal-phenomenology-quantum-selection](/concepts/temporal-phenomenology-quantum-selection/) — Felt structure of time as experiential signature of quantum selection
+- [temporal-phenomenology-quantum-selection](/concepts/temporal-consciousness/) — Felt structure of time as experiential signature of quantum selection
 - [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B-series, presentism, eternalism, and growing block ontology
 - [atemporal-causation](/concepts/atemporal-causation/) — Causation outside temporal sequence
 - [retrocausality](/concepts/retrocausality/) — How time-symmetric physics grounds backward causation

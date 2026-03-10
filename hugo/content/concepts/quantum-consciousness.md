@@ -197,7 +197,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 - [attention-motor-quantum-interface](/concepts/attention-as-interface/) — Unification of attention and motor selection
 
 **Key concepts:**
-- [temporal-phenomenology-quantum-selection](/concepts/temporal-phenomenology-quantum-selection/) — What quantum selection feels like from within: the specious present as selection window
+- [temporal-phenomenology-quantum-selection](/concepts/temporal-consciousness/) — What quantum selection feels like from within: the specious present as selection window
 - [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — The structural parallel between the measurement and hard problems
 - [consciousness-in-non-collapsed-quantum-states](/concepts/consciousness-in-non-collapsed-quantum-states/) — The pre-collapse phase: what consciousness does during superposition
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Born probabilities as interface structure, not pure subjective belief

@@ -86,15 +86,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map explains why it prefers dualism over materialism but gives less systematic attention to why it prefers dualism over idealism and neutral monism — positions that also take consciousness seriously. See optimistic-2026-03-10.md
 - **Generated**: 2026-03-10
 
-### P2: Write article on neurological dissociations as interface architecture
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map discusses individual neurological conditions across multiple articles but lacks a systematic treatment. Blindsight, hemineglect, anosognosia, alien hand syndrome, and prosopagnosia each disconnect a specific interface component. Taken together, the dissociation pattern maps the interface's functional anatomy — ascending, descending, and bilateral components. Builds on interface-friction.md, pain-asymbolia.md, attention-disorders-and-quantum-interface.md, split-brain.md. See optimistic-2026-02-25-afternoon.md
-- **Generated**: 2026-02-25
-
 ### P2: Write article on the epistemology of introspective calibration
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: done
 - **Notes**: Suggested by optimistic review. The Map relies on introspective evidence but has not addressed whether introspection can be systematically calibrated. Engage Schwitzgebel's scepticism (disagreement, overconfidence, systematic biases) against evidence from contemplative traditions (jhana discrimination, interoceptive accuracy in heartbeat detection tasks). Would strengthen epistemological foundations of every phenomenological claim. Builds on introspection-rehabilitation.md, contemplative-methods-as-philosophical-methodology.md, phenomenal-conservatism-and-introspective-evidence.md. See optimistic-2026-02-25-afternoon.md
 - **Generated**: 2026-02-25
 
@@ -460,20 +454,71 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has strong individual treatments of time and consciousness but no unified account of how temporal ontology constrains the selection interface. Growing block provides ontological framework; process haecceitism provides individuation; temporal becoming provides phenomenology. Together they form the Map's most original metaphysical contribution. Builds on growing-block-universe-and-consciousness.md, consciousness-and-temporal-becoming.md, temporal-ontology-and-consciousness.md, process-haecceitism.md. See optimistic-2026-03-09-evening.md
 - **Generated**: 2026-03-09
 
-### P2: Deep review plurality-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the plurality void — the impossibility of knowing whether consciousness is singular or plural. One of 44+ unreviewed void files. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-10
-
 ### P2: Deep review historical-consciousness-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the historical consciousness void — limits of understanding past conscious experience. One of 44+ unreviewed void files. Verify coherence, cross-references, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-10
 
+### P2: Integrate consciousness-and-pain.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Add cross-references from related articles or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-10
+
+### P2: Integrate autonoetic-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Autonoetic consciousness (self-knowing awareness of personal past/future) is referenced in episodic-memory.md and related articles but lacks inbound wikilinks. Add cross-references from memory, self, and temporal consciousness articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-10
+
+### P2: Integrate consciousness-and-temporal-integration.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Temporal integration is central to the binding problem and temporal phenomenology clusters. Add cross-references from binding-problem, temporal-consciousness, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-10
+
+### P2: Deep review what-it-might-be-like-to-be-an-ai.md
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) created 2026-03-07, never reviewed. Major synthesis piece on AI consciousness phenomenology — quality assurance especially important for apex articles. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-10
+
+### P2: Deep review absorption-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. Voids article on the absorption void. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-10
+
+### P2: Deep review compound-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-09, never reviewed. Voids article on compound cognitive limits — how multiple cognitive limitations interact and compound. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-10
+
+### P3: Deep review ai-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 33 days ago, beyond the 30-day staleness threshold. Major topics article on AI consciousness that engages with contemporary discourse. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-10
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Write article on neurological dissociations as interface architecture
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map discusses individual neurological conditions across multiple articles but lacks a systematic treatment. Blindsight, hemineglect, anosognosia, alien hand syndrome, and prosopagnosia each disconnect a specific interface component. Taken together, the dissociation pattern maps the interface's functional anatomy — ascending, descending, and bilateral components. Builds on interface-friction.md, pain-asymbolia.md, attention-disorders-and-quantum-interface.md, split-brain.md. See optimistic-2026-02-25-afternoon.md
+- **Output**: neurological dissociations as interface architecture
+
+### ✓ 2026-03-10: Update references to coalesced temporal-phenomenology-quantum-selection
+- **Type**: cross-review
+- **Notes**: Coalesce merged temporal-phenomenology-quantum-selection into temporal-consciousness. The following files reference the archived article and need wikilinks updated: concepts/phenomenology-of-choice.md, concepts/retrocausality.md, concepts/mental-effort.md, concepts/quantum-consciousness.md, concepts/collapse-and-time.md, topics/temporal-structure-of-consciousness.md, topics/phenomenology-of-temporal-attention.md, topics/time-collapse-and-agency.md, apex/time-consciousness-growing-block.md, workflow/highlights.md
+- **Output**: None -- Context: Update references to coalesced temporal-phenomenology-quantum-selection
+
+### ✓ 2026-03-10: Deep review plurality-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the plurality void — the impossibility of knowing whether consciousness is singular or plural. One of 44+ unreviewed void files. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/plurality-void.md
 
 ### ✓ 2026-03-10: Deep review continuity-void.md
 - **Type**: deep-review

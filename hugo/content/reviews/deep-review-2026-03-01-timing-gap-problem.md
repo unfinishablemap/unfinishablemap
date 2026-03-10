@@ -77,7 +77,7 @@ Added `[timing-gap-problem](/concepts/timing-gap-problem/)` to 7 additional arti
 
 1. **[measurement-problem](/concepts/measurement-problem/)** — In Stapp's Quantum Zeno Framework subsection: "creating a [twelve-order-of-magnitude timing gap](/concepts/timing-gap-problem/)"
 2. **[quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)** — In "The Decoherence Challenge" section: "—the [timing-gap-problem](/concepts/timing-gap-problem/)"
-3. **[temporal-phenomenology-quantum-selection](/concepts/temporal-phenomenology-quantum-selection/)** — Converted "timescale gap" to "[timescale gap](/concepts/timing-gap-problem/)"
+3. **[temporal-phenomenology-quantum-selection](/concepts/temporal-consciousness/)** — Converted "timescale gap" to "[timescale gap](/concepts/timing-gap-problem/)"
 4. **[mental-effort](/concepts/mental-effort/)** — In "The Decoherence Objection" section: "—the [timing-gap-problem](/concepts/timing-gap-problem/)"
 5. **[bidirectional-interaction](/concepts/bidirectional-interaction/)** — In "The Timing Challenge" section: "the [timing gap](/concepts/timing-gap-problem/), a mismatch of twelve orders of magnitude"
 6. **[motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/)** — In "Challenges and Honest Gaps": "a [twelve-order-of-magnitude timing gap](/concepts/timing-gap-problem/)"

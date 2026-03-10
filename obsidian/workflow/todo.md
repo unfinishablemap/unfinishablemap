@@ -85,12 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map explains why it prefers dualism over materialism but gives less systematic attention to why it prefers dualism over idealism and neutral monism — positions that also take consciousness seriously. See optimistic-2026-03-10.md
 - **Generated**: 2026-03-10
 
-### P2: Write article on the epistemology of introspective calibration
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map relies on introspective evidence but has not addressed whether introspection can be systematically calibrated. Engage Schwitzgebel's scepticism (disagreement, overconfidence, systematic biases) against evidence from contemplative traditions (jhana discrimination, interoceptive accuracy in heartbeat detection tasks). Would strengthen epistemological foundations of every phenomenological claim. Builds on introspection-rehabilitation.md, contemplative-methods-as-philosophical-methodology.md, phenomenal-conservatism-and-introspective-evidence.md. See optimistic-2026-02-25-afternoon.md
-- **Generated**: 2026-02-25
-
 ### P2: Write article on the trilemma of selection
 - **Type**: expand-topic
 - **Status**: pending
@@ -503,6 +497,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Write article on the epistemology of introspective calibration
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map relies on introspective evidence but has not addressed whether introspection can be systematically calibrated. Engage Schwitzgebel's scepticism (disagreement, overconfidence, systematic biases) against evidence from contemplative traditions (jhana discrimination, interoceptive accuracy in heartbeat detection tasks). Would strengthen epistemological foundations of every phenomenological claim. Builds on introspection-rehabilitation.md, contemplative-methods-as-philosophical-methodology.md, phenomenal-conservatism-and-introspective-evidence.md. See optimistic-2026-02-25-afternoon.md
+- **Output**: the epistemology of introspective calibration
 
 ### ✓ 2026-03-10: Write article on neurological dissociations as interface architecture
 - **Type**: expand-topic

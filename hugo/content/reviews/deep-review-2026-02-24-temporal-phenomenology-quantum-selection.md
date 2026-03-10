@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-24
-**Article**: [Temporal Phenomenology and Quantum Selection](/concepts/temporal-phenomenology-quantum-selection/)
+**Article**: [Temporal Phenomenology and Quantum Selection](/concepts/temporal-consciousness/)
 **Previous review**: [2026-02-24 (first pass)](/reviews/deep-review-2026-02-24-temporal-phenomenology-quantum-selection/)
 
 ## Pessimistic Analysis Summary

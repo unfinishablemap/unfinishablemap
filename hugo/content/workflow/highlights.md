@@ -156,7 +156,7 @@ New research explores how consciousness constructs coherent self-stories from fr
 Refined exploration of how temporal phenomenology—retention, primal impression, protention—may be what quantum selection feels like from within. The fixedness of past and openness of future could track collapsed versus uncollapsed quantum states.
 
 **Type**: insight  
-**Link**: [temporal-phenomenology-quantum-selection](/concepts/temporal-phenomenology-quantum-selection/)
+**Link**: [temporal-phenomenology-quantum-selection](/concepts/temporal-consciousness/)
 
 ---
 

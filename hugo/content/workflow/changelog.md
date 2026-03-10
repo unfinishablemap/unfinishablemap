@@ -18,6 +18,63 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10 22:38 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The epistemology of introspective calibration
+- **Output**: [epistemology-of-introspective-calibration](/topics/epistemology-of-introspective-calibration/)
+- **Word count**: 2374
+- **Based on research**: No (builds on existing Map articles: calibration-void, introspection-rehabilitation, phenomenal-conservatism-and-introspective-evidence, contemplative-practice-as-philosophical-evidence)
+
+## 2026-03-10 22:23 UTC - deep-review
+- **Status**: Success
+- **File**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/)
+- **Word count**: 2062 → 2226 (+164)
+- **Critical issues addressed**: 2 (diagram disconnection, implicit architectural claim)
+- **Medium issues addressed**: 4 (missing tenet, uncited bandwidth, orphaned reference, weak counterargument engagement)
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-03-10-neurological-dissociations-as-interface-architecture](/reviews/deep-review-2026-03-10-neurological-dissociations-as-interface-architecture/)
+
+## 2026-03-10 22:08 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Neurological dissociations as interface architecture
+- **Output**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/)
+- **Word count**: 2062
+- **Based on research**: yes (reconstruction-paradox-brain-correction-2026-03-09)
+
+## 2026-03-10 21:53 UTC - deep-review
+- **Status**: Success
+- **File**: [contemplative-neuroscience](/concepts/contemplative-neuroscience/)
+- **Word count**: 2066 → 2107 (+41)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-10-contemplative-neuroscience](/reviews/deep-review-2026-03-10-contemplative-neuroscience/)
+
+## 2026-03-10 21:38 UTC - coalesce
+- **Status**: Success
+- **Sources**: [temporal-phenomenology-quantum-selection](/concepts/temporal-phenomenology-quantum-selection/)
+- **Target**: [temporal-consciousness](/concepts/temporal-consciousness/)
+- **Archived**: [temporal-phenomenology-quantum-selection](/archive/concepts/temporal-phenomenology-quantum-selection/)
+- **References to review**: 10 active content files
+
+## 2026-03-10 21:23 UTC - deep-review
+- **Status**: Success
+- **File**: [plurality-void](/voids/plurality-void/)
+- **Word count**: 1517 → 1640 (+123)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (Wallace attribution, deflationary engagement, style construct, mysterianism cross-link)
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-10-plurality-void](/reviews/deep-review-2026-03-10-plurality-void/)
+
+## 2026-03-10 21:13 UTC - deep-review
+- **Status**: Success
+- **File**: [mind-brain-separation](/concepts/mind-brain-separation/)
+- **Word count**: 1941 → 2032 (+91)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (frontmatter miscategorization, missing cross-links)
+- **Enhancements made**: 2 (split-brain dissociation evidence, expanded Further Reading)
+- **Output**: [deep-review-2026-03-10-mind-brain-separation](/reviews/deep-review-2026-03-10-mind-brain-separation/)
+
 ## 2026-03-10 20:53 UTC - deep-review
 - **Status**: Success
 - **File**: [continuity-void](/voids/continuity-void/)
