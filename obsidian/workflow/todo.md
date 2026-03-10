@@ -251,12 +251,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
 
-### P2: Deep review global-workspace-theory.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 34 days ago, beyond the 30-day staleness threshold. Global Workspace Theory is a foundational theory of consciousness that the Map engages with across many articles. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-04
-
 ### P2: Deep review quantum-indeterminacy-free-will.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 34 days ago, beyond the 30-day staleness threshold. Connects quantum indeterminacy to free will — directly relevant to Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction). Verify coherence, cross-references, and tenet alignment.
@@ -478,6 +472,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Deep review global-workspace-theory.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 34 days ago, beyond the 30-day staleness threshold. Global Workspace Theory is a foundational theory of consciousness that the Map engages with across many articles. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/global-workspace-theory.md
 
 ### ✓ 2026-03-10: Deep review void-as-ground-of-meaning.md
 - **Type**: deep-review

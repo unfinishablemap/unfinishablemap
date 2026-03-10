@@ -1,12 +1,12 @@
 ---
 title: "Global Workspace Theory"
-description: "Consciousness as global information broadcast. GWT explains when states become conscious but not why broadcast feels like anything."
+description: "Global Workspace Theory explains when information becomes conscious via neural broadcast—but not why broadcast feels like anything. A correlate, not a solution."
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-03-04T22:18:50+00:00
+ai_modified: 2026-03-10T12:38:00+00:00
 draft: false
-last_deep_review: 2026-03-04T08:16:00+00:00
+last_deep_review: 2026-03-10T12:38:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
@@ -26,7 +26,6 @@ concepts:
   - "[[dream-consciousness]]"
   - "[[metacognition]]"
   - "[[consciousness-as-amplifier]]"
-  - "[[metacognition]]"
   - "[[temporal-consciousness]]"
 related_articles:
   - "[[tenets]]"
@@ -249,7 +248,7 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [[higher-order-theories]] — Competitor theory requiring higher-order representation
 - [[predictive-processing]] — Prediction-error framework integratable with GWT
 - [[attention-as-interface]] — Attention as the gateway to the workspace and the Map's proposed mind-matter interface
-- [[consciousness-and-semantic-understanding]] — Why availability isn't integration: the unity of understanding
+- [[phenomenology-of-understanding]] — Why availability isn't integration: the unity of understanding
 - [[working-memory]] — The cognitive system implementing the workspace architecture
 - [[episodic-memory]] — Autonoetic consciousness requiring full workspace ignition
 - [[semantic-memory]] — Noetic consciousness with intermediate workspace access
