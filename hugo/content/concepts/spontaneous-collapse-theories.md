@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-05 16:17:00+00:00
+ai_modified: 2026-03-10 09:12:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[concepts/many-worlds]]'
 - '[[decoherence]]'
 - '[[quantum-consciousness]]'
-- '[[quantum-neural-mechanisms]]'
+- '[[quantum-neural-mechanisms-and-coherence]]'
 - '[[illusionism]]'
 - '[[mysterianism]]'
 - '[[topics/free-will]]'
@@ -23,7 +23,7 @@ description: 'GRW, CSL, and Penrose OR: physical collapse mechanisms that solve 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 23:33:00+00:00
+last_deep_review: 2026-03-10 09:12:00+00:00
 modified: *id001
 related_articles:
 - '[[quantum-consciousness]]'
@@ -79,7 +79,7 @@ CSL is more elegant than GRW mathematically and makes similar experimental predi
 
 ### Consciousness-Modulated CSL (Hybrid Model)
 
-Kelvin McQueen has proposed combining CSL with [Integrated Information Theory](/concepts/integrated-information-theory/). In this hybrid:
+Chalmers and McQueen have proposed combining CSL with [Integrated Information Theory](/concepts/integrated-information-theory/). In this hybrid:
 
 - **Baseline collapse**: CSL noise field operates universally (prebiotic collapse solved)
 - **Consciousness amplification**: Systems with high Φ (integrated information) experience stronger/faster collapse
@@ -108,9 +108,9 @@ Stuart Hameroff extends Penrose OR by proposing that consciousness arises when *
 - Requires large-scale quantum effects (microtubule-level), not minimal interaction
 - Experimental tests (germanium detectors, matter-wave interference) increasingly constrain Orch OR parameter space
 
-Orch OR aligns with [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) but conflicts with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) by requiring macroscopic quantum coherence. The Map's framework favors smaller-scale quantum selection (see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)) or hybrid CSL-IIT models. For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/).
+Orch OR aligns with [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) but conflicts with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) by requiring macroscopic quantum coherence. The Map's framework favors smaller-scale quantum selection (see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)) or hybrid CSL-IIT models. For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [quantum neural mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/).
 
-## Experimental Status (2020-2025)
+## Experimental Status
 
 Spontaneous collapse theories are **falsifiable**—they make predictions distinguishable from standard quantum mechanics:
 
@@ -168,7 +168,7 @@ Spontaneous collapse theories provide the foundation for the Map's [Minimal Quan
 4. **Falsifiable framework**: Experimental tests constrain models, maintaining scientific rigor
 5. **Avoids Many Worlds**: Collapse is objective and real, not observer-dependent branching ([No Many Worlds](/tenets/#no-many-worlds))
 
-The **consciousness-modulated CSL** model (McQueen's CSL-IIT or similar) best instantiates this framework. It preserves [Dualism](/tenets/#dualism) (consciousness ontologically distinct), enables [Bidirectional Interaction](/tenets/#bidirectional-interaction) (consciousness causally influences outcomes), maintains minimal quantum scale (consciousness modulates, doesn't wholly cause), rejects [many-worlds](/concepts/many-worlds/) (collapse is real), and demonstrates [Occam's Razor's limits](/tenets/#occams-limits) (solving measurement problem justifies modifying QM).
+The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or similar) best instantiates this framework. It preserves [Dualism](/tenets/#dualism) (consciousness ontologically distinct), enables [Bidirectional Interaction](/tenets/#bidirectional-interaction) (consciousness causally influences outcomes), maintains minimal quantum scale (consciousness modulates, doesn't wholly cause), rejects [many-worlds](/concepts/many-worlds/) (collapse is real), and demonstrates [Occam's Razor's limits](/tenets/#occams-limits) (solving measurement problem justifies modifying QM).
 
 ## Relation to Site Perspective
 
@@ -193,8 +193,7 @@ The **consciousness-modulated CSL** model (McQueen's CSL-IIT or similar) best in
 - [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) - neural loci for quantum effects (radical pairs, microtubules, ion tunneling)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) - alternative consciousness-collapse model (observer-selection)
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) - how phenomenal properties map to physical parameters
-- [decoherence](/concepts/decoherence/) - relationship between environmental decoherence and objective collapse
-- [decoherence](/concepts/decoherence/) - basis selection vs. outcome selection distinction
+- [decoherence](/concepts/decoherence/) - relationship between environmental decoherence and objective collapse, including basis selection vs. outcome selection
 - [many-worlds](/concepts/many-worlds/) - the Map's rejection of branching interpretations
 - [integrated-information-theory](/concepts/integrated-information-theory/) - Φ as potential collapse operator in hybrid models
 - [causal-closure](/concepts/causal-closure/) - how spontaneous collapse modifies microphysics without violating conservation laws
@@ -212,4 +211,4 @@ The **consciousness-modulated CSL** model (McQueen's CSL-IIT or similar) best in
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
-1. McQueen, K. J. (2015). Four tails problems for dynamical collapse theories. *Studies in History and Philosophy of Modern Physics*, 49, 10-18.
+1. Chalmers, D. J. & McQueen, K. J. (2022). Consciousness and the Collapse of the Wave Function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.

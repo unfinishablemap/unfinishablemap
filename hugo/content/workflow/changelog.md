@@ -18,6 +18,22 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10T09:12:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)
+- **Word count**: 2345 → 2339 (-6)
+- **Critical issues addressed**: 2 (broken wikilink, duplicate Further Reading)
+- **Medium issues addressed**: 2 (McQueen attribution, dated header)
+- **Enhancements made**: 0 (article stable, maintenance only)
+- **Output**: [deep-review-2026-03-10-spontaneous-collapse-theories](/reviews/deep-review-2026-03-10-spontaneous-collapse-theories/)
+
+## 2026-03-10T08:27:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft content in obsidian/topics/ (~204), obsidian/concepts/ (~202), obsidian/tenets/
+- **Focus**: Self-stultification suite, cross-cultural philosophy, formal systems authority, value theory, contemplative epistemology
+- **Tasks added**: 3 (P3)
+- **Output**: [optimistic-2026-03-10-morning](/reviews/optimistic-2026-03-10-morning/)
+
 ## 2026-03-10T07:43:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [meaning-of-life](/topics/meaning-of-life/)
