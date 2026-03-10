@@ -23,7 +23,7 @@ last_deep_review: 2026-03-06 06:57:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[contemplative-evidence-for-consciousness]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
 title: Neuroplasticity
 topics:
 - '[[topics/free-will]]'
@@ -107,7 +107,7 @@ Neuroplasticity research extends beyond clinical populations to contemplative pr
 
 These findings replicate the pattern from Schwartz's OCD research: directed mental practice produces neural change. Contemplative traditions have long claimed that training attention transforms the mind; neuroscience now confirms the transformation is physical as well as phenomenological.
 
-See [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) for detailed treatment of how contemplative neuroscience bears on consciousness theories, and [contemplative-neuroscience](/concepts/contemplative-neuroscience/) for how meditation research bridges first-person phenomenology and third-person neuroscience.
+See [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) for detailed treatment of how contemplative neuroscience bears on consciousness theories, and [contemplative-neuroscience](/concepts/contemplative-neuroscience/) for how meditation research bridges first-person phenomenology and third-person neuroscience.
 
 ## Attention as the Mechanism
 
@@ -158,7 +158,7 @@ Neuroplasticity provides empirical support for several of The Unfinishable Map's
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism and the Schwartz collaboration
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical framework for consciousness-matter causation
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates between consciousness and neural systems
-- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — Meditation research as evidence for consciousness theories
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Meditation research as evidence for consciousness theories
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness doesn't cause anything
 
 ## References

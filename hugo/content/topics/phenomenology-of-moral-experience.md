@@ -36,7 +36,7 @@ related_articles:
 - '[[consciousness-value-connection]]'
 - '[[normative-void]]'
 - '[[topics/free-will]]'
-- '[[contemplative-evidence-for-consciousness]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[eastern-philosophy-consciousness]]'
 - '[[moral-phenomenology]]'
 title: The Phenomenology of Moral Experience
@@ -205,7 +205,7 @@ The phenomenology of moral experience connects to the Map's [foundational commit
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative access to moral and phenomenal properties
 - [illusionism](/concepts/illusionism/) — The strongest challenge to phenomenal consciousness
 - [free-will](/topics/free-will/) — Why moral agency requires libertarian alternatives
-- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — The epistemological role of meditative evidence
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — The epistemological role of meditative evidence
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Buddhist and Hindu perspectives on consciousness and value
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — What insight and comprehension feel like from the inside
 - [phenomenology-of-trust](/topics/phenomenology-of-trust/) — The felt character of interpersonal trust, vulnerability, and betrayal

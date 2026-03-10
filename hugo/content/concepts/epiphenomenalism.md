@@ -17,7 +17,7 @@ concepts:
 - '[[bidirectional-interaction]]'
 - '[[contemplative-neuroscience]]'
 - '[[phenomenal-consciousness]]'
-- '[[contemplative-evidence-for-consciousness]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[consciousness-and-intelligence]]'
 - '[[llm-consciousness]]'
 created: 2026-01-09
@@ -199,7 +199,7 @@ The self-stultification problem remains the strongest objection for human consci
 
 ## Further Reading
 
-- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — How meditation phenomenology distinguishes between dualism, materialism, and epiphenomenalism
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — How meditation phenomenology distinguishes between dualism, materialism, and epiphenomenalism
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — Empirical evidence that meditation produces measurable neuroplastic changes
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The Map's tenet that consciousness and physics causally influence each other
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The full evolutionary argument for mental causation

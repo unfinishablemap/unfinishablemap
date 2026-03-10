@@ -27,7 +27,7 @@ related_articles:
 - '[[consciousness-and-skilled-performance]]'
 - '[[consciousness-and-temporal-becoming]]'
 - '[[phenomenology-of-anticipation]]'
-- '[[contemplative-evidence-for-consciousness]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
 title: The Phenomenology of Temporal Attention
 topics:
 - '[[temporal-structure-of-consciousness]]'
@@ -121,7 +121,7 @@ The phenomenology of temporal attention aligns with several of the Map's [tenets
 - [consciousness-and-temporal-becoming](/topics/consciousness-and-temporal-becoming/)
 - [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
-- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
 - [free-will](/topics/free-will/)
 
 ## References

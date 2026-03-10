@@ -30,7 +30,7 @@ related_articles:
 - '[[epistemic-advantages-of-dualism]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'
 - '[[epistemological-limits-occams-razor]]'
-- '[[contemplative-methods-as-philosophical-methodology]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[emotion-as-evidence-for-dualism]]'
 - '[[the-measurement-problem-as-philosophical-problem]]'
 title: The Convergence Argument for Dualism
@@ -157,7 +157,7 @@ The [No Many Worlds tenet](/tenets/#no-many-worlds) connects through the [indexi
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — The meta-level argument from epistemic humility
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — Cross-cultural convergence on irreducibility
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why parsimony fails in this debate
-- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) — Convergence across contemplative traditions
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Convergence across contemplative traditions
 - [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) — Emotional consciousness as an additional convergence point
 - [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) — Why consciousness cannot be weakly emergent
 - [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — The measurement problem as an instance of the hard problem: convergence from quantum foundations

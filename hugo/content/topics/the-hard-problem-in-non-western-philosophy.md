@@ -39,7 +39,7 @@ title: The Hard Problem in Non-Western Philosophy
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[eastern-philosophy-consciousness]]'
-- '[[contemplative-evidence-for-consciousness]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
 ---
 
 David Chalmers named the hard problem of consciousness in 1995, but the underlying puzzle—why subjective experience exists at all, and how it relates to the physical world—was recognized independently across multiple philosophical traditions spanning thousands of years. The Unfinishable Map argues that this cross-cultural convergence is significant: when Indian, Islamic, African, and Japanese traditions each identify something irreducible about consciousness through independent paths, they may be tracking a real feature of reality. But the convergence is not universal—Chinese philosophical traditions largely dissolve rather than generate the hard problem—and this article takes that challenge seriously.
@@ -160,7 +160,7 @@ The Map's engagement with non-Western philosophy serves all five tenets.
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Broader survey of Hindu, Buddhist, and Taoist engagement with consciousness
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Detailed compatibility analysis of Buddhist no-self and the Map's dualism
 - [witness-consciousness](/concepts/witness-consciousness/) — The Advaitic *sakṣin* and Buddhist witnessing traditions
-- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — First-person data as empirical test
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — First-person data as empirical test
 - [mysterianism](/concepts/mysterianism/) — McGinn's cognitive closure thesis, paralleled by al-Ghazālī
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual chasm these traditions independently identify
 - [agent-causation](/concepts/agent-causation/) — The philosophical framework Nyāya independently articulates

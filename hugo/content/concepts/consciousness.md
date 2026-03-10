@@ -224,7 +224,7 @@ The Map's extensive coverage of consciousness includes:
 - [baseline-cognition](/concepts/baseline-cognition/) — Cognitive functions consciousness enables
 - [free-will](/topics/free-will/) — How conscious causation connects to libertarian free will
 - [types-of-consciousness](/concepts/types-of-consciousness/) — Comprehensive taxonomy of consciousness types and structural variations
-- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — First-person evidence from contemplative practice
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — First-person evidence from contemplative practice
 
 ## References
 

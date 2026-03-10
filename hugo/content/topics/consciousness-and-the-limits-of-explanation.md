@@ -40,7 +40,7 @@ related_articles:
 - '[[knowledge-argument]]'
 - '[[why-phenomenal-unity-resists-explanation]]'
 - '[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]'
-- '[[contemplative-evidence-for-consciousness]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[consciousness-and-neurodegenerative-disease]]'
 title: Consciousness and the Limits of Explanation
 topics:
@@ -183,7 +183,7 @@ The Map holds that this failure may ultimately be more revealing than the hard p
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — The felt character of comprehension that explanation depends upon
 - [illusionism](/concepts/illusionism/) — The strongest physicalist response to the explanatory gap
 - [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) — Alternative epistemic strategies when mechanistic explanation faces categorical limits
-- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — First-person methods that address the reflexive gap from within experience
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — First-person methods that address the reflexive gap from within experience
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) — What the loss of understanding in neurodegeneration reveals about its phenomenal basis
 - [the-case-for-dualism](/concepts/the-case-for-dualism/) — The converging arguments that consciousness exceeds physics
 

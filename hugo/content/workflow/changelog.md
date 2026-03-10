@@ -18,6 +18,51 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10T01:11:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [embodied-cognition](/concepts/embodied-cognition/)
+- **Changes**: Rewrote choking argument (no longer self-defeating), reduced quantum Zeno overemphasis, acknowledged Buddhist metaphysical divergence, softened unsupported claims, sharpened falsifiability criteria
+- **Published**: yes
+
+## 2026-03-10T00:57:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/embodied-cognition.md (Embodied Cognition and the Extended Mind)
+- **Output**: [pessimistic-2026-03-10](/reviews/pessimistic-2026-03-10/)
+
+## 2026-03-10T00:12:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [death-and-consciousness](/topics/death-and-consciousness/)
+- **Word count**: 2787 → 2809 (+22)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-10-death-and-consciousness](/reviews/deep-review-2026-03-10-death-and-consciousness/)
+
+## 2026-03-09T22:56:00+00:00 - research-voids
+- **Status**: Success
+- **Topic**: The Relevance Void — the opacity of consciousness's relevance-determination mechanism
+- **Category**: Occluded / Unexplorable (mixed)
+- **Output**: [voids-relevance-void-2026-03-09](/research/voids-relevance-void-2026-03-09/)
+- **Key finding**: Relevance filtering is a precondition of all conscious experience, yet it cannot be examined without already using it, creating a structurally self-concealing void that connects the frame problem, Heidegger's readiness-to-hand, Vervaeke's relevance realization, and Friston's predictive processing
+
+## 2026-03-09T22:26:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [implicit-memory](/concepts/implicit-memory/)
+- **Word count**: 2654 → 2637 (-17)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 5 (attribution fix, grammar fix, repetition removal, duplicate consolidation, cross-link addition)
+- **Output**: [deep-review-2026-03-09-implicit-memory](/reviews/deep-review-2026-03-09-implicit-memory/)
+
+## 2026-03-09T21:57:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
+- **Word count**: 3908 → 3882 (-26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (redundant falsifiability text, 41 broken wikilinks to old coalesced slugs)
+- **Enhancements made**: 1 (deduplicated 5 files with duplicate references)
+- **Output**: [deep-review-2026-03-09-contemplative-practice-as-philosophical-evidence](/reviews/deep-review-2026-03-09-contemplative-practice-as-philosophical-evidence/)
+
 ## 2026-03-09T21:41:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [contemplative-evidence-for-consciousness](/topics/contemplative-evidence-for-consciousness/), [contemplative-methods-as-philosophical-methodology](/topics/contemplative-methods-as-philosophical-methodology/)

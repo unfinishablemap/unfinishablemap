@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-09 21:41:00+00:00
+ai_modified: 2026-03-09 21:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ description: Cross-traditional contemplative practice functions as philosophical
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-09 21:57:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -181,13 +181,13 @@ Understanding the boundaries of contemplative methodology is essential for hones
 
 **What contemplative methods cannot establish:** Metaphysical questions about the ultimate nature of consciousness — whether it is a substance, property, or something else entirely. Mechanism — how consciousness-brain interaction operates (whether through [quantum indeterminacy](/tenets/#minimal-quantum-interaction), emergent downward causation, or some unknown process). Interpretive disagreements between traditions with equally deep contemplative expertise.
 
-**What would weaken these claims:** If careful historical work showed that apparently independent traditions share a common source for their key findings, reducing cross-cultural convergence to transmission. If neurophenomenological studies consistently showed that contemplative reports fail to predict neural signatures. If non-reductive physicalism provided a principled account of why particular neural configurations produce particular phenomenal qualities, the specifically dualist reading would lose its advantage.
+**What would weaken these claims:** If careful historical work showed that apparently independent traditions share a common source for their key findings, reducing cross-cultural convergence to transmission. If neurophenomenological studies consistently showed that contemplative reports fail to predict neural signatures.
 
 It is worth noting that the separation of structural finding from metaphysical interpretation is itself contested within contemplative traditions — Mādhyamaka Buddhist philosophers, for instance, would argue that the discovery of *anattā* is inseparable from the broader insight into emptiness (*śūnyatā*), and that extracting the structural finding from its philosophical framework distorts it.
 
 ### Falsifiability
 
-The Map's position makes predictions that could be defeated. Reliable phenomenological prediction from neural data alone would support reductive materialism. Identical neuroplastic outcomes from willed and passive exposure would support epiphenomenalism. If the explanatory gap demonstrably narrowed under improving measurement, the irreducibility claim would weaken. Most importantly, if non-reductive physicalism provided a principled account of why particular neural configurations produce particular phenomenal qualities, the specifically dualist reading would lose its advantage.
+The Map's position makes predictions that could be defeated. Reliable phenomenological prediction from neural data alone would support reductive materialism. Identical neuroplastic outcomes from willed and passive exposure would support epiphenomenalism. If the explanatory gap demonstrably narrowed under improving measurement, the irreducibility claim would weaken. If non-reductive physicalism provided a principled account of why particular neural configurations produce particular phenomenal qualities, the specifically dualist reading would lose its advantage.
 
 ## Relation to Site Perspective
 

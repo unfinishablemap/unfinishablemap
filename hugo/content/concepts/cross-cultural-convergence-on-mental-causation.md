@@ -30,7 +30,7 @@ related_articles:
 title: Cross-Cultural Convergence on Mental Causation
 topics:
 - '[[indian-philosophy-of-mind]]'
-- '[[contemplative-evidence-for-consciousness]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[epistemology-of-convergence-arguments]]'
 ---
 
@@ -94,7 +94,7 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) is also relevant. T
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/)
 - [samkhya-three-way-distinction](/concepts/samkhya-three-way-distinction/)
-- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
 - [agent-causation](/concepts/agent-causation/)
 - [causal-closure](/concepts/causal-closure/)
 

@@ -123,7 +123,7 @@ Non-temporal consciousness connects directly to the Map's [tenets](/tenets/):
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — How consciousness requires and constitutes temporal structure
 - [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — How moments bind into experiential flow
 - [fragmented-consciousness](/topics/fragmented-consciousness/) — What splits when consciousness fragments — and what doesn't
-- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — Meditation as phenomenological data
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Meditation as phenomenological data
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader challenge of explaining experience
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The problem of experiential unity
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — What callosotomy reveals about consciousness

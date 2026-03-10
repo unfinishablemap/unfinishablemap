@@ -23,7 +23,7 @@ last_deep_review: 2026-02-16 05:10:00+00:00
 modified: *id001
 related_articles:
 - '[[objectivity-and-consciousness]]'
-- '[[contemplative-evidence-for-consciousness]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[cognitive-science-of-dualism]]'
 - '[[intersubjectivity]]'
 title: Methodological Pluralism
@@ -122,7 +122,7 @@ The Map speculates that methodological pluralism may be more than a practical ne
 - [neurophenomenology](/concepts/neurophenomenology/)—Varela's mutual constraint framework in detail
 - [heterophenomenology](/concepts/heterophenomenology/)—Dennett's third-person-only approach and why the Map rejects it
 - [phenomenological-evidence](/concepts/phenomenological-evidence/)—Conditions under which first-person reports constitute evidence
-- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)—How contemplative practice provides consciousness data
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)—How contemplative practice provides consciousness data
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)—Nagel's critique of objective-only approaches
 
 ## References

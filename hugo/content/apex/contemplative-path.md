@@ -6,7 +6,7 @@ ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-02 12:15:00+00:00
 apex_sources:
 - topics/eastern-philosophy-consciousness
-- topics/contemplative-evidence-for-consciousness
+- topics/contemplative-practice-as-philosophical-evidence
 - concepts/witness-consciousness
 - concepts/meditation-and-consciousness-modes
 - concepts/introspection

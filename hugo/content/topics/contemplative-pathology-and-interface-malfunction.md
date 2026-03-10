@@ -23,13 +23,13 @@ last_deep_review: 2026-02-23 21:50:00+00:00
 modified: *id001
 related_articles:
 - '[[attention-disorders-and-quantum-interface]]'
-- '[[contemplative-evidence-for-consciousness]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[consciousness-and-neurodegenerative-disease]]'
 - '[[altered-states-as-void-probes]]'
 - '[[attention-consciousness-dissociation]]'
 title: Contemplative Pathology and Interface Malfunction
 topics:
-- '[[contemplative-methods-as-philosophical-methodology]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[phenomenological-psychiatry-and-altered-experience]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
 ---
@@ -94,7 +94,7 @@ The [minimal quantum interaction tenet](/tenets/#minimal-quantum-interaction) su
 
 ## Further Reading
 
-- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/)
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
 - [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/)
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
 - [interface-friction](/concepts/interface-friction/)

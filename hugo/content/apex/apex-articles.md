@@ -118,7 +118,7 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 **Source articles**:
 - topics/eastern-philosophy-consciousness
-- topics/contemplative-evidence-for-consciousness-theories
+- topics/contemplative-practice-as-philosophical-evidence
 - concepts/witness-consciousness
 - concepts/meditation-and-consciousness-modes
 - concepts/introspection

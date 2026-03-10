@@ -31,7 +31,7 @@ related_articles:
 - '[[intrinsic-nature-void]]'
 - '[[self-reference-paradox]]'
 - '[[explanatory-gap]]'
-- '[[contemplative-methods-as-philosophical-methodology]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[mysterianism]]'
 title: Phenomenal Transparency
 topics:
@@ -111,7 +111,7 @@ For the [simulation hypothesis](/concepts/simulation/), phenomenal transparency 
 - [introspective-opacity](/voids/introspective-opacity/) — The structural limit where process access fails
 - [self-reference-paradox](/voids/self-reference-paradox/) — Recursive limits on self-knowledge
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience that transparency makes vivid
-- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) — Whether sustained contemplative practice can reduce transparency
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Whether sustained contemplative practice can reduce transparency
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure as a structural limit on understanding consciousness
 
 ## References

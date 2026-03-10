@@ -25,7 +25,7 @@ last_deep_review: 2026-02-05 13:39:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[contemplative-evidence-for-consciousness]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[meditation-observer-witness-phenomenon-2026-01-18]]'
 title: The Observer-Witness in Meditation
 topics:
@@ -201,7 +201,7 @@ The witness mode is not an escape from consciousness or a dissolution into uncon
 
 - [witness-consciousness](/concepts/witness-consciousness/) — The concept of *sakshi* and its implications
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Detailed treatment of the two modes with neural correlates
-- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — How meditation phenomenology supports dualism
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — How meditation phenomenology supports dualism
 - [attention-as-interface](/concepts/attention-as-interface/) — The selection mechanism in detail
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effortful attention
 - [self-and-consciousness](/concepts/self-and-consciousness/) — How the self relates to awareness

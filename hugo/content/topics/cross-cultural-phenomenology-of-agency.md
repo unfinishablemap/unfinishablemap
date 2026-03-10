@@ -28,7 +28,7 @@ related_articles:
 - '[[introspective-opacity|volitional opacity]]'
 - '[[buddhist-perspectives-on-meaning]]'
 - '[[consciousness-and-skilled-performance]]'
-- '[[contemplative-methods-as-philosophical-methodology]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[buddhism-and-dualism]]'
 - '[[process-philosophy]]'
 title: Cross-Cultural Phenomenology of Agency
@@ -104,7 +104,7 @@ The Map's commitment to Occam's Razor having limits is also relevant. The "simpl
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
 - [process-philosophy](/concepts/process-philosophy/)
 - [phenomenology of flow states](/topics/consciousness-and-skilled-performance/)
-- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/)
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
 - [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/) — Apex synthesis: how cross-cultural invariants join effort, selection, and holding in a unified phenomenological profile
 
 ## References

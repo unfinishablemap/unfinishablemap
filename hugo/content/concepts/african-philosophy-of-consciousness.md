@@ -24,7 +24,7 @@ related_articles:
 - '[[eastern-philosophy-consciousness]]'
 - '[[interaction-problem-in-non-western-philosophy]]'
 - '[[indian-philosophy-of-mind]]'
-- '[[contemplative-methods-as-philosophical-methodology]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[cross-cultural-phenomenology-of-agency]]'
 - '[[cross-cultural-convergence-on-mental-causation]]'
 title: African Philosophy of Consciousness

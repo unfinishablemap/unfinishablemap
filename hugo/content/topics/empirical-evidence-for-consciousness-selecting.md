@@ -159,7 +159,7 @@ The empirical convergence supports all five of the Map's [tenets](/tenets/):
 - [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) — Voluntary imagery as a specific test case for consciousness selecting
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — What kind of causation consciousness exercises
 - [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without consciousness
-- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — First-person evidence from trained observation
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — First-person evidence from trained observation
 
 ## References
 

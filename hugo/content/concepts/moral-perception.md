@@ -29,7 +29,7 @@ related_articles:
 - '[[tenets]]'
 - '[[normative-void]]'
 - '[[consciousness-value-connection]]'
-- '[[contemplative-evidence-for-consciousness]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[phenomenology-of-moral-experience]]'
 - '[[emotional-consciousness]]'
 - '[[downward-causation]]'
@@ -120,7 +120,7 @@ Moral perception connects to the Map's [foundational commitments](/tenets/) at s
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal character
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the site of consciousness-brain interaction
 - [introspection](/concepts/introspection/) — First-person access to phenomenal states
-- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — The epistemological role of contemplative practice
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — The epistemological role of contemplative practice
 
 ## References
 

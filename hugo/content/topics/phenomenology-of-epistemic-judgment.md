@@ -36,7 +36,7 @@ related_articles:
 - '[[phenomenology-of-deliberation-under-uncertainty]]'
 - '[[questioning-as-evidence]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[contemplative-evidence-for-consciousness]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[destabilizing-self-knowledge]]'
 - '[[counterfactual-reasoning]]'
 - '[[tenets]]'
@@ -133,7 +133,7 @@ The Unfinishable Map's [tenets](/tenets/) find substantial support in epistemic 
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/)
-- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
 - [argument-from-reason](/topics/argument-from-reason/)
 - [questioning-as-evidence](/voids/questioning-as-evidence/)

@@ -251,8 +251,7 @@ This apex article draws on all five tenets:
 
 ## Further Reading
 
-- [contemplative-methods-as-philosophical-methodology](/topics/contemplative-practice-as-philosophical-evidence/) — Why contemplative practice counts as philosophical methodology
-- [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — Cross-traditional convergence as evidence for consciousness
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Why contemplative practice counts as philosophical methodology, with cross-traditional convergence as evidence
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Epistemological foundations for trusting trained first-person observation
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge these tests address
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — When phenomenological observation constitutes genuine evidence
