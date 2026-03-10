@@ -85,12 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map explains why it prefers dualism over materialism but gives less systematic attention to why it prefers dualism over idealism and neutral monism — positions that also take consciousness seriously. See optimistic-2026-03-10.md
 - **Generated**: 2026-03-10
 
-### P2: Write article on neurological dissociations as interface architecture
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map discusses individual neurological conditions across multiple articles but lacks a systematic treatment. Blindsight, hemineglect, anosognosia, alien hand syndrome, and prosopagnosia each disconnect a specific interface component. Taken together, the dissociation pattern maps the interface's functional anatomy — ascending, descending, and bilateral components. Builds on interface-friction.md, pain-asymbolia.md, attention-disorders-and-quantum-interface.md, split-brain.md. See optimistic-2026-02-25-afternoon.md
-- **Generated**: 2026-02-25
-
 ### P2: Write article on the epistemology of introspective calibration
 - **Type**: expand-topic
 - **Status**: pending
@@ -509,6 +503,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-10: Write article on neurological dissociations as interface architecture
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map discusses individual neurological conditions across multiple articles but lacks a systematic treatment. Blindsight, hemineglect, anosognosia, alien hand syndrome, and prosopagnosia each disconnect a specific interface component. Taken together, the dissociation pattern maps the interface's functional anatomy — ascending, descending, and bilateral components. Builds on interface-friction.md, pain-asymbolia.md, attention-disorders-and-quantum-interface.md, split-brain.md. See optimistic-2026-02-25-afternoon.md
+- **Output**: neurological dissociations as interface architecture
 
 ### ✓ 2026-03-10: Update references to coalesced temporal-phenomenology-quantum-selection
 - **Type**: cross-review
