@@ -18,6 +18,40 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-10 23:38 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Evolution of Consciousness from a Dualist Perspective
+- **Output**: [evolution-of-consciousness-dualist-perspective](/topics/evolution-of-consciousness-dualist-perspective/)
+- **Word count**: 1956
+- **Based on research**: No
+
+## 2026-03-10 23:27 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 404
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 6
+- **Output**: [tenet-check-2026-03-10](/reviews/tenet-check-2026-03-10/)
+
+## 2026-03-10 23:23 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Emergence as Universal Hard Problem
+- **Output**: [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)
+- **Word count**: 1936
+- **Based on research**: yes, [voids-emergence-void-2026-02-05](/research/voids-emergence-void-2026-02-05/) and [emergence-consciousness-philosophy-2026-01-15](/research/emergence-consciousness-philosophy-2026-01-15/)
+
+## 2026-03-10 23:08 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Trilemma of Selection
+- **Output**: [trilemma-of-selection](/topics/trilemma-of-selection/)
+- **Word count**: 1901
+- **Based on research**: No (draws on existing Map articles: attention-as-selection-interface, free-will, quantum-indeterminacy-free-will)
+
+## 2026-03-10 22:53 UTC - research-voids
+- **Status**: Skipped (section at capacity)
+- **Reason**: Voids section has 102 articles against a cap of 100
+- **Recommendation**: Focus on improving existing voids articles (deep-review, condense, coalesce)
+
 ## 2026-03-10 22:38 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The epistemology of introspective calibration
