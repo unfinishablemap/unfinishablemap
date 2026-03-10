@@ -4,10 +4,12 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-02-17T05:27:00+00:00
+ai_modified: 2026-03-10T01:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
+  - "[[the-interface-specification-problem]]"
+  - "[[the-interface-location-problem]]"
 concepts:
   - "[[altered-states-of-consciousness]]"
   - "[[altered-states-as-void-probes]]"
@@ -18,6 +20,7 @@ concepts:
   - "[[mysterianism]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[interactionist-dualism]]"
+  - "[[attention-as-interface]]"
   - "[[mind-brain-separation]]"
   - "[[loss-of-consciousness]]"
   - "[[near-death-experiences]]"
@@ -31,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-02-04T01:41:00+00:00
+last_deep_review: 2026-03-10T01:42:00+00:00
 ---
 
 The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by [[william-james-consciousness|William James]], Henri Bergson, and Aldous Huxley in different forms, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain is interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is central to The Unfinishable Map's [[interactionist-dualism|interactionist dualism]] and explains how [[tenets#^dualism|dualism]] can accommodate the empirical findings that seem to support materialism.
@@ -161,7 +164,7 @@ Filter theory doesn't require locating consciousness spatially. Consciousness mi
 
 ### "What is the mechanism of transmission?"
 
-This is a fair challenge. How does non-physical consciousness interface with physical brain? the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes one mechanism: consciousness influences quantum indeterminacies in neural systems. At points where physics leaves outcomes undetermined, consciousness selects. This provides the "interface" filter theory requires without violating physical law. However, as the [[measurement-problem]] article acknowledges, such consciousness-selection is empirically indistinguishable from random collapse—the mechanism is a philosophical framework compatible with physics, not a testable physical hypothesis.
+This is a fair challenge. How does non-physical consciousness interface with the physical brain? The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes one mechanism: consciousness influences quantum indeterminacies in neural systems. At points where physics leaves outcomes undetermined, consciousness selects. This provides the "interface" filter theory requires without violating physical law. The [[the-interface-specification-problem|interface specification problem]] and [[the-interface-location-problem|interface location problem]] examine the technical details of where and how this connection operates. However, as the [[measurement-problem]] article acknowledges, such consciousness-selection is empirically indistinguishable from random collapse—the mechanism is a philosophical framework compatible with physics, not a testable physical hypothesis.
 
 ### "Why brains specifically?"
 
@@ -189,7 +192,7 @@ If consciousness exists independently, why does my consciousness depend on *my* 
 
 The filter model addresses this through the interface concept. Each brain provides an interface for consciousness to engage with the physical world at a specific location and through a specific body. Just as each radio receives the broadcast for that radio's listeners, each brain provides an interface for whatever consciousness engages through it. The broadcast doesn't depend on any particular radio; but reception at this location depends on this radio's functioning.
 
-## Relation to Site Tenets
+## Relation to Site Perspective
 
 Filter theory supports and is supported by the Map's [[tenets|foundational commitments]]:
 
@@ -233,7 +236,10 @@ The Buddhist framework offers something filter theory lacks: a detailed phenomen
 - [[buddhism-and-dualism]] — Buddhist parallels and meditation as filter reduction
 - [[mysterianism]] — Compatibility with cognitive closure
 - [[altered-states-of-consciousness]] — Psychedelics, flow, and interface configurations
+- [[attention-as-interface]] — Attention as the specific mechanism of filtering
 - [[brain-specialness]] — Why brains specifically serve as interfaces
+- [[the-interface-specification-problem]] — How conscious states map to physical selections
+- [[the-interface-location-problem]] — Where consciousness meets the brain
 - [[mind-brain-separation]] — The rendering engine analogy
 - [[loss-of-consciousness]] — Anesthesia and covert consciousness
 - [[near-death-experiences]] — Enhanced experience during brain compromise
@@ -256,15 +262,3 @@ The Buddhist framework offers something filter theory lacks: a detailed phenomen
 1. Mashour, G. A., et al. (2024). Differential thalamic mechanisms of propofol and ketamine anaesthesia. *Anesthesiology*, 140(5), 923-934.
 1. Parnia, S., et al. (2023). "AWAreness during REsuscitation II: A multi-center study of consciousness and awareness in cardiac arrest." *Resuscitation*, 191, 109903.
 1. Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.
-
-<!-- AI REFINEMENT LOG - 2026-02-17
-Changes made:
-1. Added unfalsifiability caveat to "What is the mechanism of transmission?" objection response, noting consciousness-selection is empirically indistinguishable from random collapse per measurement-problem article
-1. Added unfalsifiability caveat to Minimal Quantum Interaction section in Relation to Site Perspective, clarifying the interface point is conceptually motivated, not empirically demonstrated
-1. Added measurement-problem to concepts frontmatter
-
-Based on pessimistic review pessimistic-2026-02-17.md (Issue 1: Cross-Article Unfalsifiability Leak).
-Key improvements: honest propagation of measurement-problem article's own unfalsifiability admission to quantum mechanism references.
-
-This log should be removed after human review.
--->
