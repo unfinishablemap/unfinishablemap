@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-11 02:08:00+00:00
+ai_modified: 2026-03-11 16:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[mental-causation]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[intentionality]]'
+- '[[resolution-bandwidth-interface]]'
 - '[[qualia]]'
 - '[[bidirectional-interaction]]'
 - '[[causal-closure]]'
@@ -21,6 +22,7 @@ description: When consciousness causes physical effects, the specific meaning of
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-03-11 16:30:00+00:00
 modified: *id001
 related_articles:
 - '[[placebo-effect-and-mental-causation]]'
@@ -55,6 +57,8 @@ This response is powerful and should not be dismissed. It explains *that* differ
 
 Where functionalism faces pressure is in explaining why these functional roles are accompanied by specific phenomenal experiences. The expectation of pain relief doesn't just activate opioid pathways—it *feels like* expecting pain relief, and that felt quality tracks the content with striking precision. The functionalist maintains that the feeling just *is* the functional role, which is a substantive philosophical thesis. The dualist observes that the direction of explanation—from what the subject *consciously understands* to which physiological cascade unfolds—is exactly what one would predict if phenomenal content were doing causal work.
 
+Content-specificity's philosophical force does not come from refuting functionalism on its own terms. It comes from combining an empirical observation (meaning determines outcome) with the [hard problem](/topics/hard-problem-of-consciousness/) (why is meaning accompanied by phenomenal experience?). If [intentional content](/concepts/intentionality/) is constitutively phenomenal—as [phenomenal intentionality theory](/concepts/intentionality/#phenomenal-intentionality-theory) argues—then the tight mapping between content and outcome is a tight mapping between phenomenal character and physical effect. Functionalism explains the information processing; content-specificity asks why the processing has the qualitative character it does, and why that character tracks the causal profile so precisely.
+
 ## Why Content-Specificity Matters Philosophically
 
 Content-specificity sharpens the general problem of mental causation into a more specific and harder-to-deflect form. The general question—does consciousness cause anything?—can be sidestepped by identifying mental states with brain states. The content-specificity question—why does the *meaning* of a conscious state determine *which* physical effect occurs?—is harder to dissolve, because it asks about the relationship between semantic properties and causal powers.
@@ -67,11 +71,13 @@ Three features make content-specificity philosophically significant:
 
 **Qualifier sensitivity.** The physical outcome tracks not just the broad category of belief but its specific qualifiers. Believing a pill is a *strong* painkiller produces greater analgesia than believing it is *mild* (Pollo et al., 2001). The granularity of the mapping—where finer distinctions in conscious content produce correspondingly finer distinctions in physiological response—is what would be expected if content were causally operative and what would be remarkable if it were coincidental.
 
+**Bandwidth constraint.** The [resolution-bandwidth interface](/topics/resolution-bandwidth-interface/) adds an architectural dimension. Consciousness operates at roughly ten bits per second—a narrow channel that can make only a few selections per second among prepared alternatives. Content-specificity shows that these few selections are *semantically loaded*: each carries meaning that determines which of the brain's prepared options actualises. The bandwidth constraint limits the *quantity* of conscious intervention; content-specificity determines its *quality*. Together they define a system that exercises sparse but meaningful causal influence—precisely the pattern the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet predicts.
+
 ## Complications
 
 Content-specificity has genuine limits that deserve honest acknowledgment.
 
-**Open-label placebos** weaken the strongest version of the argument. Patients who *know* pills are inert still show improvement (Kaptchuk et al., 2010), suggesting that explicit propositional belief is not the sole driver. Mental causation may operate through richer channels than propositional attitudes—embodied engagement, therapeutic ritual, layered expectations—but this complicates the clean picture of "belief content determines outcome."
+**Open-label placebos** weaken the strongest version of the argument. Patients who *know* pills are inert still show improvement (Kaptchuk et al., 2010), suggesting that explicit propositional belief is not the sole driver. Conscious content may operate through richer channels than propositional attitudes: embodied expectations shaped by prior experience with medicine, the felt sense of being cared for in a therapeutic context, or layered beliefs where explicit knowledge ("this is inert") coexists with implicit expectation ("but the ritual means healing"). These remain content-specific—the improvement tracks the *type* of condition being treated—but the "content" is phenomenologically richer than a single proposition. This complicates the clean picture without undermining the core observation: meaning still determines outcome, even when the meaning is more complex than a straightforward belief.
 
 **Neural-level explanation** remains available in principle. If neuroscience fully mapped which neural activation patterns produce which physiological cascades, content-specificity might be explained without reference to phenomenal consciousness. The dualist response is that such mapping would still leave unexplained *why* phenomenal content and neural activation patterns correspond so precisely—but this retreats to the hard problem rather than drawing specifically on content-specificity evidence.
 
@@ -91,7 +97,8 @@ The Map treats content-specificity not as a standalone argument for dualism but 
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain asymbolia isolating phenomenal quality's causal role
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — Content-specificity in creative cognition
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view content-specificity challenges most directly
-- [intentionality](/concepts/intentionality/) — The aboutness of mental states and phenomenal intentionality
+- [intentionality](/concepts/intentionality/) — The aboutness of mental states; phenomenal intentionality theory links content to phenomenal character
+- [resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/) — The architectural constraints on conscious selection: sparse bandwidth, semantically loaded content
 
 ## References
 

@@ -18,6 +18,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 16:30 UTC - deep-review
+- **Status**: Success
+- **File**: [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/)
+- **Context**: Cross-review considering resolution-bandwidth-interface
+- **Word count**: 1402 → 1663 (+261)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (functionalist conflation, thin open-label response, missing resolution-bandwidth cross-link, missing intentionality cross-link)
+- **Enhancements made**: 4 (PIT clarification paragraph, enriched open-label response, bandwidth constraint paragraph, cross-links)
+- **Output**: [deep-review-2026-03-11-content-specificity-of-mental-causation](/reviews/deep-review-2026-03-11-content-specificity-of-mental-causation/)
+
 ## 2026-03-11 16:25 UTC - deep-review
 - **Status**: Success
 - **File**: [near-death-experiences](/concepts/near-death-experiences/)
