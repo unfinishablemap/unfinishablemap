@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-11T19:38:00+00:00
+ai_modified: 2026-03-11T20:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review bidirectional-interaction.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 32 days ago. Core concept page directly supporting Tenet 3 (Bidirectional Interaction). As a foundational tenet concept, quality and accuracy are critical. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P2: Integrate consciousness-and-the-structure-of-scientific-revolutions.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on how consciousness research relates to Kuhnian paradigm shifts. Add cross-references from related articles such as consciousness-and-scientific-methodology.md, epistemic-advantages-of-dualism.md, and philosophy-of-science articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-11
+
+### P2: Integrate phenomenology-of-meaning-making.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the phenomenology of meaning-making under dualism. Add cross-references from related articles such as phenomenology-of-understanding.md, cognitive-phenomenology.md, and consciousness-and-normative-force.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-11
+
+### P2: Integrate aesthetic-irreducibility-arguments.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on aesthetic irreducibility arguments for consciousness. Add cross-references from related articles such as binding-and-beauty.md, aesthetic-dimension-of-consciousness.md, and phenomenology-of-musical-understanding.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-11
+
+### P3: Deep review continual-learning-argument.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-02 — 37 days ago. Concept page on the continual learning argument for consciousness, relevant to AI consciousness cluster. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
 
 ### P3: Deep review attention-created-voids.md
 - **Type**: deep-review
