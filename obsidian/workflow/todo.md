@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-11T17:06:00+00:00
+ai_modified: 2026-03-11T17:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review smoothness-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the smoothness problem — why consciousness presents a seamlessly unified field despite discrete neural processes. Directly relevant to the interface framework and Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P2: Deep review indexical-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the indexical void — the gap between third-person descriptions and first-person haecceity. Directly relevant to Tenet 4 (No Many Worlds) and the site's treatment of indexical identity. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P2: Deep review explanatory-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the explanatory void — the gap between physical explanation and phenomenal experience. Core void concept that supports the Map's case for irreducibility. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P2: Deep review nihilism-and-existentialism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 38 days ago (2026-02-01). Concept page on nihilism and existentialism — important philosophical context for the Map's treatment of meaning, value, and consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P2: Deep review presentiment-and-retrocausality.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 35 days ago (2026-02-04). Topics article on presentiment and retrocausality — speculative but relevant to the Map's quantum consciousness framework. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
 
 ### P3: Deep review capability-division-problem.md
 - **Type**: deep-review
