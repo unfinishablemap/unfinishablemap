@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 06:02 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Grain Mismatch
+- **Output**: [[concepts/grain-mismatch]]
+- **Word count**: 1359
+- **Based on research**: Yes (draws on [[research/voids-resolution-void-2026-02-22]])
+
 ## 2026-03-11 05:47 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Resolution-Bandwidth Interface

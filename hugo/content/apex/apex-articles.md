@@ -379,7 +379,33 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 ---
 
-## Reserved Slots (17-20)
+### 17. The Quantum Consciousness Programme
+
+**Slug**: `quantum-consciousness-programme`
+
+**Subtitle**: How consciousness selects among quantum possibilities the brain presents
+
+**Thesis**: The Map's five tenets form a single programme: consciousness selects among quantum possibilities that physics leaves undetermined, acting at the measurement problem's open gap without violating conservation laws. The measurement problem and hard problem converge at the same interface — where first-person facts resist absorption into third-person descriptions. Four candidate mechanisms compete, quantum biology has shifted the burden of proof, and the programme's strength lies not in any single argument but in the convergence of philosophical motivation, physical possibility, and empirical evidence.
+
+**Source articles**:
+- concepts/quantum-consciousness
+- concepts/stapp-quantum-mind
+- topics/comparing-quantum-consciousness-mechanisms
+- topics/quantum-measurement-consciousness-interface
+- topics/quantum-biology-and-the-consciousness-debate
+- topics/quantum-holism-and-phenomenal-unity
+- concepts/prebiotic-collapse
+- concepts/quantum-neural-mechanisms-and-coherence
+- concepts/decoherence
+- topics/experimental-design-for-consciousness-collapse-testing
+- concepts/spontaneous-collapse-theories
+- concepts/coupling-modes
+
+**Status**: Created 2026-03-11
+
+---
+
+## Reserved Slots (18-20)
 
 Future apex articles will be added as the Map evolves and new thematic clusters emerge. Potential candidates:
 

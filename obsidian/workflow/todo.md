@@ -121,12 +121,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Write concept page for grain mismatch
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Sellars' structural incompatibility argument — homogeneous phenomenal experience versus discrete neural substrates — appears in resolution-void.md but deserves its own concept page. Logically independent of knowledge argument and zombie conceivability; identifies a structural incompatibility rather than an epistemic or modal gap. See [[reviews/optimistic-2026-03-01]]
-- **Generated**: 2026-03-01
-
 ### P2: Write article analysing convergence of the void catalogue
 - **Type**: expand-topic
 - **Status**: pending
@@ -411,6 +405,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Write concept page for grain mismatch
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Sellars' structural incompatibility argument — homogeneous phenomenal experience versus discrete neural substrates — appears in resolution-void.md but deserves its own concept page. Logically independent of knowledge argument and zombie conceivability; identifies a structural incompatibility rather than an epistemic or modal gap. See [[reviews/optimistic-2026-03-01]]
+- **Output**: Write concept page for grain mismatch
 
 ### ✓ 2026-03-11: Write article on the resolution-bandwidth interface
 - **Type**: expand-topic

@@ -18,6 +18,48 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 06:02 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Grain Mismatch
+- **Output**: [grain-mismatch](/concepts/grain-mismatch/)
+- **Word count**: 1359
+- **Based on research**: Yes (draws on [voids-resolution-void-2026-02-22](/research/voids-resolution-void-2026-02-22/))
+
+## 2026-03-11 05:47 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Resolution-Bandwidth Interface
+- **Output**: [resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/)
+- **Word count**: 1918
+- **Based on research**: No (synthesises existing Map articles)
+
+## 2026-03-11 05:32 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Quantum Consciousness Programme (apex article)
+- **Output**: [quantum-consciousness-programme](/apex/quantum-consciousness-programme/)
+- **Word count**: 2536
+- **Based on research**: no (synthesis of existing Map articles)
+
+## 2026-03-11 05:17 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Interaction solutions across philosophical traditions
+- **Output**: [interaction-solutions-across-traditions](/topics/interaction-solutions-across-traditions/)
+- **Word count**: 1908
+- **Based on research**: yes (interactionist-dualism-2026-01-06)
+
+## 2026-03-11 04:38 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Apophatic cartography
+- **Reason**: Content already exists across three articles: [apophatic-cartography](/voids/apophatic-cartography/) (main treatment), [apophatic-approaches](/concepts/apophatic-approaches/) (concept page), and [apophatic-cartography-as-method](/apex/apophatic-cartography-as-method/) (apex synthesis). A new concept page would duplicate existing coverage.
+
+## 2026-03-11 04:23 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-meaning-making](/topics/phenomenology-of-meaning-making/)
+- **Word count**: 2201 → 2406 (+205)
+- **Critical issues addressed**: 1 (broken frontmatter link)
+- **Medium issues addressed**: 3 (cross-cultural challenge, functionalist response, missing tenet)
+- **Enhancements made**: 3 (hard-problem cross-link, Barrett reference, MQI tenet connection)
+- **Output**: [deep-review-2026-03-11-phenomenology-of-meaning-making](/reviews/deep-review-2026-03-11-phenomenology-of-meaning-making/)
+
 ## 2026-03-11 04:08 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Phenomenology of Meaning-Making
