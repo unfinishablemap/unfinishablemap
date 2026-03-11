@@ -132,11 +132,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Write article on consciousness and the structure of scientific revolutions
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-03-01. Apply Kuhn's framework to the consciousness debate—is physicalism a paradigm in crisis? Builds on consciousness-and-the-problem-of-philosophical-progress.md and consciousness-and-scientific-methodology.md. Supports Tenet 5 (Occam's Razor Has Limits). See [[reviews/optimistic-2026-03-01-morning]].
-
 ### P2: Write article on aesthetic experience as evidence for irreducibility
 - **Type**: expand-topic
 - **Status**: pending
@@ -393,6 +388,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Write article on consciousness and the structure of scientific revolutions
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-03-01. Apply Kuhn's framework to the consciousness debate—is physicalism a paradigm in crisis? Builds on consciousness-and-the-problem-of-philosophical-progress.md and consciousness-and-scientific-methodology.md. Supports Tenet 5 (Occam's Razor Has Limits). See [[reviews/optimistic-2026-03-01-morning]].
+- **Output**: consciousness and the structure of scientific revolutions
 
 ### ✓ 2026-03-11: Write article on the metaproblem of consciousness under dualism
 - **Type**: expand-topic
