@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-11 19:38:00+00:00
+ai_modified: 2026-03-11 20:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Integrate aesthetic-irreducibility-arguments.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on aesthetic irreducibility arguments for consciousness. Add cross-references from related articles such as binding-and-beauty.md, aesthetic-dimension-of-consciousness.md, and phenomenology-of-musical-understanding.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-11
+
+### P3: Deep review continual-learning-argument.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-02 — 37 days ago. Concept page on the continual learning argument for consciousness, relevant to AI consciousness cluster. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
 
 ### P3: Deep review attention-created-voids.md
 - **Type**: deep-review
@@ -442,20 +454,64 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-10
 
-### P2: Deep review reality-feeling-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the irreducible feeling of reality that accompanies experience — why some experiences feel "real" in ways that resist analysis. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P2: Deep review substrate-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the substrate problem — the gap between physical substrate and conscious experience. Directly relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-11
 
+### P2: Write article on non-retrocausal conscious selection of macroscopic superpositions
+- **Type**: expand-topic
+- **Notes**: Research completed in research/non-retrocausal-conscious-selection-2026-03-07.md. If macroscopic superpositions of neural states persist briefly, consciousness could select among them directly at the moment of collapse — forward in time, not backward. Surveys Penrose-Hameroff Orch OR, Stapp's Quantum Zeno approach, and Chalmers-McQueen consciousness-collapse framework. Directly strengthens Tenet 2 (Minimal Quantum Interaction). Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-11
+
+### P2: Deep review consciousness-as-perceptual-architect.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce, never reviewed. Topics article synthesising perceptual constancy and learning into a unified treatment of consciousness as architect of perceptual experience. High-value review — coalesced articles need quality assurance. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review mind-space-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the mind-space void — the impossibility of spatially locating consciousness or mapping its dimensionality. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review the-givenness-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the givenness void — the impossibility of explaining why experience is given at all rather than absent. Directly relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review the-surplus-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the surplus void — the excess of conscious experience beyond what functional or informational accounts predict. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Integrate phenomenology-of-meaning-making.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the phenomenology of meaning-making under dualism. Add cross-references from related articles such as phenomenology-of-understanding.md, cognitive-phenomenology.md, and consciousness-and-normative-force.md.
+- **Output**: obsidian/topics/phenomenology-of-meaning-making.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-11: Integrate consciousness-and-the-structure-of-scientific-revolutions.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on how consciousness research relates to Kuhnian paradigm shifts. Add cross-references from related articles such as consciousness-and-scientific-methodology.md, epistemic-advantages-of-dualism.md, and philosophy-of-science articles.
+- **Output**: obsidian/topics/consciousness-and-the-structure-of-scientific-revolutions.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-11: Deep review bidirectional-interaction.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 32 days ago. Core concept page directly supporting Tenet 3 (Bidirectional Interaction). As a foundational tenet concept, quality and accuracy are critical. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/bidirectional-interaction.md
+
+### ✓ 2026-03-11: Deep review reality-feeling-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the irreducible feeling of reality that accompanies experience — why some experiences feel "real" in ways that resist analysis. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/reality-feeling-void.md
 
 ### ✓ 2026-03-11: Deep review narrative-void.md
 - **Type**: deep-review

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-11 10:02:00+00:00
+ai_modified: 2026-03-11 21:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -70,7 +70,7 @@ The Map's [fifth tenet](/tenets/#occams-limits) challenges this reasoning direct
 
 More precisely, parsimony as a theory-choice criterion is domain-relative. Within physics, preferring fewer fundamental forces is well-motivated because the track record of unification is strong. But the question of whether consciousness reduces to physics is not a question *within* physics. It is a question about whether physics exhausts what is real. Applying parsimony across this boundary assumes the very thing in dispute.
 
-Kuhn's insight is relevant here. Theory choice is not algorithmic. Scientists weigh virtues differently depending on disciplinary norms and background assumptions. The Map's analysis of the [phenomenology of creative insight](/concepts/phenomenology-of-creative-insight/) adds a further dimension: scientists report that aesthetic experience — the felt sense of a theory's elegance or "rightness" — causally guides their choices, suggesting that phenomenal consciousness plays an irreducible role in theory selection. Materialist philosophy of mind weights parsimony heavily because it treats the physical as a settled baseline. Dualist philosophy of mind weights explanatory adequacy — the capacity to account for phenomenal experience — more heavily because it treats consciousness as the most certain datum we have.
+Kuhn's insight is relevant here — as the Map's [Kuhnian analysis](/topics/consciousness-and-the-structure-of-scientific-revolutions/) develops, physicalism exhibits the hallmarks of a paradigm in crisis: anomalies accumulating, competing theories proliferating, and no successor framework consolidating. Theory choice is not algorithmic. Scientists weigh virtues differently depending on disciplinary norms and background assumptions. The Map's analysis of the [phenomenology of creative insight](/concepts/phenomenology-of-creative-insight/) adds a further dimension: scientists report that aesthetic experience — the felt sense of a theory's elegance or "rightness" — causally guides their choices, suggesting that phenomenal consciousness plays an irreducible role in theory selection. Materialist philosophy of mind weights parsimony heavily because it treats the physical as a settled baseline. Dualist philosophy of mind weights explanatory adequacy — the capacity to account for phenomenal experience — more heavily because it treats consciousness as the most certain datum we have.
 
 Neither weighting is irrational. They reflect different judgments about what we know most securely and where the burden of explanation falls. The Map explores this tension more fully in [its treatment of theoretical virtues and consciousness](/topics/consciousness-and-the-problem-of-theoretical-virtues/).
 
@@ -96,7 +96,7 @@ The programme has been empirically progressive in identifying neural correlates.
 
 Physicalists would contest this characterization. They argue that integrated information theory (IIT), global workspace theory (GWT), and higher-order theories constitute genuine theoretical progress — refining what consciousness is and where it appears in the physical world. The dualist response: these theories make progress on the *easy problems* (which brain states correlate with which experiences, what functions consciousness serves) while leaving the hard problem — why there is experience at all — exactly where it was.
 
-A Lakatosian assessment might therefore classify the materialist consciousness programme as empirically progressive but theoretically degenerating on its most fundamental claim: the promise that physical description will eventually explain experience. The dualist alternative is not itself a mature research programme in Lakatos's sense — it has fewer specific predictions and less institutional support. But it may be the more honest framework: it acknowledges the explanatory gap as reflecting genuine ontological structure rather than treating it as a temporary embarrassment.
+A Lakatosian assessment might therefore classify the materialist consciousness programme as empirically progressive but theoretically degenerating on its most fundamental claim: the promise that physical description will eventually explain experience. The Map's [Kuhnian analysis](/topics/consciousness-and-the-structure-of-scientific-revolutions/) develops this point more fully, arguing that the proliferation of competing consciousness theories and the loosening of methodological standards are precisely the signatures Kuhn identified as paradigm crisis. The dualist alternative is not itself a mature research programme in Lakatos's sense — it has fewer specific predictions and less institutional support. But it may be the more honest framework: it acknowledges the explanatory gap as reflecting genuine ontological structure rather than treating it as a temporary embarrassment.
 
 ## Relation to Site Perspective
 

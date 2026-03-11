@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-11 19:05:00+00:00
+ai_modified: 2026-03-11 21:02:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Consciousness and matter causally influence each other. This tenet 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-07 11:51:00+00:00
+last_deep_review: 2026-03-11 21:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,7 +85,7 @@ For detailed specification of how phenomenal properties map to physical paramete
 
 ### The Timing Challenge
 
-A persistent objection concerns timescales: Tegmark (2000) calculated quantum [decoherence](/concepts/decoherence/) at femtoseconds, while neural decisions operate at hundreds of milliseconds—the [timing gap](/concepts/timing-gap-problem/), a mismatch of twelve orders of magnitude. However, this critique assumed specific superposition sites and separation distances. Revised estimates (Hameroff et al.) suggest 10-100 microseconds for microtubule interiors, with theoretical predictions of 1-10 milliseconds for mesoscopic network effects. More significantly, the quantum Zeno mechanism doesn't require sustained coherence; it operates through discrete observation events at neural timescales (~1000 observations per 300ms window). See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing hierarchy and [the decoherence article](/concepts/decoherence/) for five independent responses to the objection.
+A persistent objection concerns timescales: Tegmark (2000) calculated quantum [decoherence](/concepts/decoherence/) at femtoseconds, while neural decisions operate at hundreds of milliseconds—the [timing gap](/concepts/timing-gap-problem/), a mismatch of twelve orders of magnitude. However, this critique assumed specific superposition sites and separation distances. Revised estimates (Hameroff et al.) suggest 10-100 microseconds for microtubule interiors, with theoretical predictions of 1-10 milliseconds for mesoscopic network effects. More significantly, the quantum Zeno mechanism doesn't require sustained coherence; it operates through discrete observation events at neural timescales (Stapp estimates ~1000 observations within a 300ms attentional window). See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing hierarchy and [the decoherence article](/concepts/decoherence/) for five independent responses to the objection.
 
 ## Empirical Support
 
@@ -140,7 +140,7 @@ The quantum framework makes bidirectional interaction physically possible withou
 
 The evolutionary evidence provides positive support. Consciousness tracks adaptive significance too systematically to be causally inert.
 
-Together with Minimal Quantum Interaction, this tenet commits the Map to [interactionist-dualism](/concepts/interactionist-dualism/)—the position that mind and body are distinct yet causally connected, with the connection occurring at quantum indeterminacies in neural systems.
+Together with Minimal Quantum Interaction, this tenet commits the Map to [interactionist-dualism](/concepts/interactionist-dualism/)—the position that mind and body are distinct yet causally connected, with the connection occurring at quantum indeterminacies in neural systems. It also grounds the Map's approach to [free will](/topics/free-will/): if consciousness selects among quantum-indeterminate neural outcomes, human decisions need not be fully determined by prior physical causes.
 
 ## Further Reading
 

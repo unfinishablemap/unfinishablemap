@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-03-11 19:22:00+00:00
+ai_modified: 2026-03-11 21:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -136,7 +136,7 @@ See [temporal-consciousness](/concepts/temporal-consciousness/) for detailed ana
 
 ## The Cognitive Dimension
 
-The hard problem extends beyond sensory qualia into cognition. Even "cold" knowledge retrieval has phenomenal character: the tip-of-the-tongue state has its own distinctive feel, as does the *aha* of understanding. If [cognitive-phenomenology](/concepts/cognitive-phenomenology/) is real—if thinking itself feels like something—then the explanatory gap pervades mentality.
+The hard problem extends beyond sensory qualia into cognition. Even "cold" knowledge retrieval has phenomenal character: the tip-of-the-tongue state has its own distinctive feel, as does the *aha* of understanding. If [cognitive-phenomenology](/concepts/cognitive-phenomenology/) is real—if thinking itself feels like something—then the explanatory gap pervades mentality. The [phenomenology of meaning-making](/topics/phenomenology-of-meaning-making/) traces this across five independent modes—semantic, aesthetic, temporal, self-reflexive, evaluative—each demonstrating that meaning is phenomenally constituted.
 
 [Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)—the felt sense of mentally re-experiencing past events—sharpens the point. The same biographical fact can be accompanied by vivid temporal re-experiencing or bare factual recognition. No account of representational format or retrieval mechanism explains why one mode feels like something and the other merely registers. See [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) for the constitutive-contingent debate and its implications.
 
@@ -263,7 +263,7 @@ The claim that the hard problem is genuine would be challenged by: (1) successfu
 
 ## Why This Matters
 
-If physical explanation cannot reach consciousness, the scientific worldview is incomplete in a fundamental way. This doesn't mean abandoning science—it means recognising that methods that explain mechanism may not work for explaining experience. Consciousness may be irreducible not because it's supernatural, but because reduction is the wrong tool.
+If physical explanation cannot reach consciousness, the scientific worldview is incomplete in a fundamental way. This doesn't mean abandoning science—it means recognising that methods that explain mechanism may not work for explaining experience. Consciousness may be irreducible not because it's supernatural, but because reduction is the wrong tool. The Map's [Kuhnian analysis](/topics/consciousness-and-the-structure-of-scientific-revolutions/) argues that the hard problem's persistence across theoretical generations — together with the proliferation of competing theories and the loosening of methodological standards — marks physicalism as a paradigm in crisis.
 
 ## Relation to the Map's Perspective
 

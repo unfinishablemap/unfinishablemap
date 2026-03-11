@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-03-11 10:02:00+00:00
+ai_modified: 2026-03-11 21:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -37,7 +37,7 @@ Theoretical virtues — the properties that make one theory preferable to anothe
 
 ## The Standard Account of Theoretical Virtues
 
-Philosophers of science identify a family of properties that make theories choice-worthy beyond mere empirical fit. Thomas Kuhn (1977) listed accuracy, consistency, scope, simplicity, and fruitfulness as the values guiding theory selection. Larry Laudan (1984) emphasised problem-solving effectiveness. More recent catalogues include:
+Philosophers of science identify a family of properties that make theories choice-worthy beyond mere empirical fit. Thomas Kuhn (1977) listed accuracy, consistency, scope, simplicity, and fruitfulness as the values guiding theory selection — values whose systematic malfunction in consciousness studies constitutes one of several signatures of [paradigm crisis](/topics/consciousness-and-the-structure-of-scientific-revolutions/). Larry Laudan (1984) emphasised problem-solving effectiveness. More recent catalogues include:
 
 - **Empirical adequacy**: the theory saves the phenomena
 - **Explanatory power**: the theory makes outcomes intelligible

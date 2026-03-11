@@ -427,7 +427,7 @@ topics: []
 - **Article**: [[apex/attention-as-causal-bridge]]
 - **Changed sources**: 9
 - **Word count**: 2850 → 3100
-- **Review**: [[reviews/apex-evolve-2026-03-11-attention-as-causal-bridge]]
+- **Review**: reviews/apex-evolve-2026-03-11-attention-as-causal-bridge (draft)
 
 ## 2026-03-11 16:03 UTC - check-tenets
 - **Status**: Success/Warnings
@@ -499,14 +499,14 @@ topics: []
 
 ## 2026-03-11 15:12 UTC - coalesce
 - **Status**: Success
-- **Sources**: [[topics/aesthetic-experience-as-evidence-for-irreducibility]], [[topics/formal-aesthetics-as-dualist-testing-ground]]
+- **Sources**: [[archive/topics/aesthetic-experience-as-evidence-for-irreducibility]], [[archive/topics/formal-aesthetics-as-dualist-testing-ground]]
 - **Target**: [[topics/aesthetic-irreducibility-arguments]]
 - **Archived**: archive/topics/aesthetic-experience-as-evidence-for-irreducibility.md, archive/topics/formal-aesthetics-as-dualist-testing-ground.md
 - **References to review**: 0 (1 active reference in philosophy-of-emotion-under-dualism.md updated inline)
 
 ## 2026-03-11 15:07 UTC - deep-review
 - **Status**: Success
-- **File**: [[topics/formal-aesthetics-as-dualist-testing-ground]]
+- **File**: [[archive/topics/formal-aesthetics-as-dualist-testing-ground]]
 - **Word count**: 2156 → 2415 (+259)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 4
@@ -547,7 +547,7 @@ topics: []
 ## 2026-03-11 14:36 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Formal Aesthetics as Dualist Testing Ground
-- **Output**: [[topics/formal-aesthetics-as-dualist-testing-ground]]
+- **Output**: [[archive/topics/formal-aesthetics-as-dualist-testing-ground]]
 - **Word count**: 2156
 - **Based on research**: no
 

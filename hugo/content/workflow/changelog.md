@@ -18,6 +18,58 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 21:20 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-meaning-making](/topics/phenomenology-of-meaning-making/)
+- **Word count**: 2406 → 2406 (no change — orphan integration focus)
+- **Critical issues addressed**: 0 (none found; previous same-day review resolved all)
+- **Medium issues addressed**: 1 (duplicate frontmatter entry)
+- **Enhancements made**: 9 inbound cross-links added from existing articles (0 → 10 inbound links)
+- **Files modified**: cognitive-phenomenology, phenomenology-of-understanding, meaning-of-life, hard-problem-of-consciousness, aesthetic-dimension-of-consciousness, consciousness-and-creative-distinctiveness, phenomenology-of-musical-understanding, phenomenology-of-recursive-thought, phenomenology-of-anticipation, phenomenal-value-realism
+- **Output**: [deep-review-2026-03-11b-phenomenology-of-meaning-making](/reviews/deep-review-2026-03-11b-phenomenology-of-meaning-making/)
+
+## 2026-03-11 21:17 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-structure-of-scientific-revolutions](/topics/consciousness-and-the-structure-of-scientific-revolutions/)
+- **Word count**: 1848 → 1848 (no change — orphan integration focus)
+- **Critical issues addressed**: 0 (none found; previous review resolved all)
+- **Medium issues addressed**: 1 (orphan status)
+- **Enhancements made**: 9 inbound cross-links added from existing articles
+- **Files modified**: philosophy-of-science-under-dualism, consciousness-and-scientific-methodology, consciousness-and-the-problem-of-theoretical-virtues, arguments-against-materialism, reductionism-and-consciousness, phenomenology-of-conceptual-change, explanatory-gap, materialism, hard-problem-of-consciousness
+- **Output**: [deep-review-2026-03-11b-consciousness-and-the-structure-of-scientific-revolutions](/reviews/deep-review-2026-03-11b-consciousness-and-the-structure-of-scientific-revolutions/)
+
+## 2026-03-11 21:07 UTC - research-voids
+- **Status**: Skipped (section at capacity)
+- **Reason**: Voids section has 100 articles against cap of 100
+- **Action**: No research generated; automation should focus on improving existing voids content
+
+## 2026-03-11 21:02 UTC - deep-review
+- **Status**: Success
+- **File**: [bidirectional-interaction](/concepts/bidirectional-interaction/)
+- **Word count**: 2014 → 2045 (+31)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-11-bidirectional-interaction](/reviews/deep-review-2026-03-11-bidirectional-interaction/)
+
+## 2026-03-11 20:58 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)
+- **Word count**: 2249 → 2543 (+294)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 7
+- **Output**: [deep-review-2026-03-11-consciousness-as-perceptual-architect](/reviews/deep-review-2026-03-11-consciousness-as-perceptual-architect/)
+
+## 2026-03-11 20:47 UTC - deep-review
+- **Status**: Success
+- **File**: [reality-feeling-void](/voids/reality-feeling-void/)
+- **Word count**: 1685 → 1771 (+86)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-11-reality-feeling-void](/reviews/deep-review-2026-03-11-reality-feeling-void/)
+
 ## 2026-03-11 20:31 UTC - deep-review
 - **Status**: Success
 - **File**: [narrative-void](/voids/narrative-void/)
@@ -376,7 +428,7 @@ topics: []
 - **Article**: [attention-as-causal-bridge](/apex/attention-as-causal-bridge/)
 - **Changed sources**: 9
 - **Word count**: 2850 → 3100
-- **Review**: [apex-evolve-2026-03-11-attention-as-causal-bridge](/reviews/apex-evolve-2026-03-11-attention-as-causal-bridge/)
+- **Review**: reviews/apex-evolve-2026-03-11-attention-as-causal-bridge (draft)
 
 ## 2026-03-11 16:03 UTC - check-tenets
 - **Status**: Success/Warnings
@@ -448,14 +500,14 @@ topics: []
 
 ## 2026-03-11 15:12 UTC - coalesce
 - **Status**: Success
-- **Sources**: [aesthetic-experience-as-evidence-for-irreducibility](/topics/aesthetic-experience-as-evidence-for-irreducibility/), [formal-aesthetics-as-dualist-testing-ground](/topics/formal-aesthetics-as-dualist-testing-ground/)
+- **Sources**: [aesthetic-experience-as-evidence-for-irreducibility](/archive/topics/aesthetic-experience-as-evidence-for-irreducibility/), [formal-aesthetics-as-dualist-testing-ground](/archive/topics/formal-aesthetics-as-dualist-testing-ground/)
 - **Target**: [aesthetic-irreducibility-arguments](/topics/aesthetic-irreducibility-arguments/)
 - **Archived**: archive/topics/aesthetic-experience-as-evidence-for-irreducibility.md, archive/topics/formal-aesthetics-as-dualist-testing-ground.md
 - **References to review**: 0 (1 active reference in philosophy-of-emotion-under-dualism.md updated inline)
 
 ## 2026-03-11 15:07 UTC - deep-review
 - **Status**: Success
-- **File**: [formal-aesthetics-as-dualist-testing-ground](/topics/formal-aesthetics-as-dualist-testing-ground/)
+- **File**: [formal-aesthetics-as-dualist-testing-ground](/archive/topics/formal-aesthetics-as-dualist-testing-ground/)
 - **Word count**: 2156 → 2415 (+259)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 4
@@ -496,7 +548,7 @@ topics: []
 ## 2026-03-11 14:36 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Formal Aesthetics as Dualist Testing Ground
-- **Output**: [formal-aesthetics-as-dualist-testing-ground](/topics/formal-aesthetics-as-dualist-testing-ground/)
+- **Output**: [formal-aesthetics-as-dualist-testing-ground](/archive/topics/formal-aesthetics-as-dualist-testing-ground/)
 - **Word count**: 2156
 - **Based on research**: no
 

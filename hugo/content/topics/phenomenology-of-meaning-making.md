@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-11 04:23:00+00:00
+ai_modified: 2026-03-11 21:20:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,7 +10,6 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[qualia]]'
 - '[[phenomenology]]'
-- '[[cognitive-phenomenology]]'
 - '[[temporal-structure-of-understanding]]'
 - '[[concept-of-phenomenal-value-realism]]'
 - '[[metacognition]]'
@@ -23,7 +22,7 @@ description: Consciousness doesn't just process information—it generates meani
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 04:23:00+00:00
+last_deep_review: 2026-03-11 21:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

@@ -173,7 +173,7 @@ Advanced practitioners report [witness-consciousness](/concepts/witness-consciou
 
 ### The Phenomenology of Depth
 
-Contemplative practice reveals phenomenological distinctions: surface attention (scattered), focused presence (intentional), deep absorption (unified). These aren't merely cognitive differences—they feel different. Deeper states are characteristically described as more meaningful, more "real." This suggests meaning correlates with *quality* of conscious engagement, not merely *presence* of consciousness.
+Contemplative practice reveals phenomenological distinctions: surface attention (scattered), focused presence (intentional), deep absorption (unified). These aren't merely cognitive differences—they feel different. Deeper states are characteristically described as more meaningful, more "real." This suggests meaning correlates with *quality* of conscious engagement, not merely *presence* of consciousness. The [phenomenology of meaning-making](/topics/phenomenology-of-meaning-making/) identifies five distinct modes through which consciousness generates significance—semantic, aesthetic, temporal, self-reflexive, and evaluative—each with its own phenomenal texture.
 
 Henri Bergson's *durée*—lived time as opposed to clock time—connects here. Meditation reveals the present moment has qualitative depth. The richness of lived [temporal-consciousness](/concepts/temporal-consciousness/) may be where meaning actually resides—in the qualitative fullness of each moment.
 
@@ -264,6 +264,7 @@ The position takes seriously what we actually know: consciousness exists, it's r
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — How AI alignment depends on unresolved questions about meaning
 
 ### Consciousness and Experience
+- [phenomenology-of-meaning-making](/topics/phenomenology-of-meaning-making/) — Five modes through which consciousness generates significance
 - [witness-consciousness](/concepts/witness-consciousness/) — Pure awareness and its significance for meaning
 - [free-will](/topics/free-will/) — The metaphysics of choice and why choices matter
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How genuine agency transforms moral life: obligation, character, and desert

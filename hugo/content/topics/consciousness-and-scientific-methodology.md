@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-03-07 23:12:00+00:00
+ai_modified: 2026-03-11 21:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -108,7 +108,7 @@ None of these fully resolves the methodological problem. The first three manage 
 
 ## The Deeper Implication
 
-The standard response to methodological difficulties is patience: science will eventually solve this, as it has solved other hard problems. But consciousness is not merely hard in the way that protein folding or turbulence or dark matter are hard. Those problems are difficult within the existing scientific framework. Consciousness challenges the framework itself.
+The standard response to methodological difficulties is patience: science will eventually solve this, as it has solved other hard problems. But consciousness is not merely hard in the way that protein folding or turbulence or dark matter are hard. Those problems are difficult within the existing scientific framework. Consciousness challenges the framework itself. The Map's [Kuhnian analysis](/topics/consciousness-and-the-structure-of-scientific-revolutions/) develops this point: applied to consciousness studies, Kuhn's framework reveals physicalism as a paradigm exhibiting the hallmarks of crisis — anomalies that resist assimilation, competing theories proliferating, and no successor paradigm consolidating.
 
 The [phenomenology of creative insight](/concepts/phenomenology-of-creative-insight/) sharpens this point. Scientific practice depends on irreducibly phenomenal experiences — the [aesthetic sense](/concepts/epistemic-emotions/) that guides theory choice, the felt encounter with anomaly that triggers paradigm revision, the phenomenal certainty that distinguishes genuine confirmation from lucky prediction. The Galilean exclusion created a method that aspires to eliminate subjectivity from its descriptions while depending on subjectivity in its practice. If these phenomenal dimensions of scientific work are causally efficacious — if aesthetic judgment genuinely guides theory selection rather than merely accompanying it — then consciousness is not merely the one phenomenon science struggles to explain. It is a condition of the explanatory enterprise itself.
 

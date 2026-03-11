@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-11 17:14:00+00:00
+ai_modified: 2026-03-11 21:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -141,7 +141,7 @@ Materialists are not defenseless. Common responses:
 
 We don't understand consciousness now, but science advances. Consciousness will yield to physical explanation as other mysteries have.
 
-Problem: past scientific progress explained phenomena by showing *how* they followed from underlying mechanisms. With consciousness, we can't even see what form such explanation would take. It's not that we're missing facts; we can't imagine what facts would close the gap.
+Problem: past scientific progress explained phenomena by showing *how* they followed from underlying mechanisms. With consciousness, we can't even see what form such explanation would take. It's not that we're missing facts; we can't imagine what facts would close the gap. The Map's [Kuhnian analysis](/topics/consciousness-and-the-structure-of-scientific-revolutions/) argues that this pattern — persistent anomalies, proliferating theories, loosening standards — marks physicalism as a paradigm in crisis rather than a programme approaching success.
 
 ### "Mysterialism for Everyone"
 
