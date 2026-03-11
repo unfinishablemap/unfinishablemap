@@ -4,7 +4,7 @@ description: "Parfit claims identity is just pattern continuity with no further 
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-01T14:19:00+00:00
+ai_modified: 2026-03-11T16:56:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -25,7 +25,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-02-01T14:19:00+00:00
+last_deep_review: 2026-03-11T16:56:00+00:00
 ---
 
 Derek Parfit's reductionism about personal identity holds that identity consists in nothing over and above bodily and psychological continuity. There is no further fact—no separate entity like a soul or ego—that persists through time. What matters for practical purposes isn't identity itself but "Relation R": psychological connectedness and continuity with the right kind of cause.
@@ -236,7 +236,7 @@ The rejection of Parfit's reductionism connects to all five tenets and exemplifi
 
 **"Non-reductionism is obscurantist."** The hard problem of consciousness is enough to motivate non-reductionism. If we can't explain why there's something it's like to be you in physical terms, we shouldn't expect to reduce identity to physical terms either.
 
-**"Parfit's view is more ethical—it reduces excessive self-concern."** the Map doesn't deny that we should care about others. But grounding this care on the dissolution of identity seems to rest it on error. We can care about others while also recognizing that we are particular beings with particular identities.
+**"Parfit's view is more ethical—it reduces excessive self-concern."** The Map doesn't deny that we should care about others. But grounding this care on the dissolution of identity seems to rest it on error. We can care about others while also recognizing that we are particular beings with particular identities.
 
 **"Thought experiments are unreliable guides to metaphysics."** Perhaps. But Parfit's argument *relies* on thought experiments. If we reject them for anti-reductionism, we should reject them for reductionism too.
 
