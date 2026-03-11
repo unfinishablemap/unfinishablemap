@@ -441,13 +441,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-10
 
-### P2: Address temporal consciousness argument weakness in functionalism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the temporal consciousness section (3 sentences) under-argued. The claim that "digital computation lacks temporal structure" conflates abstract computation with physical implementation. Either develop the argument substantially or reduce to a pointer. Also fix duplicate `[[temporal-consciousness]]` in frontmatter and rename "Relation to the Map's Perspective" to "Relation to Site Perspective". See pessimistic-2026-03-11-evening.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-11
-
 ### P2: Deep review involuntariness-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the involuntariness of certain conscious experiences — how some phenomenal features resist voluntary control. Core to the Map's interface framework. Verify coherence, cross-references, and tenet alignment.
@@ -474,6 +467,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Address temporal consciousness argument weakness in functionalism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the temporal consciousness section (3 sentences) under-argued. The claim that "digital computation lacks temporal structure" conflates abstract computation with physical implementation. Either develop the argument substantially or reduce to a pointer. Also fix duplicate `[[temporal-consciousness]]` in frontmatter and rename "Relation to the Map's Perspective" to "Relation to Site Perspective". See pessimistic-2026-03-11-evening.md
+- **Output**: obsidian/concepts/functionalism.md
+
+Task context:
+Pessimistic review found the temporal consciousness section (3 sentences) under-argued. The claim that "digital computation lacks temporal structure" conflates abstract computation with physical implementation. Either develop the argument substantially or reduce to a pointer. Also fix duplicate `[[temporal-consciousness]]` in frontmatter and rename "Relation to the Map's Perspective" to "Relation to Site Perspective". See pessimistic-2026-03-11-evening.md
 
 ### ✓ 2026-03-11: Deep review compound-cognitive-limits.md
 - **Type**: deep-review

@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 20:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/functionalism]]
+- **Changes**: Fixed duplicate temporal-consciousness in frontmatter; renamed section heading to "Relation to Site Perspective"; rewrote Temporal Structure subsection to eliminate conflation of abstract computation with physical implementation
+- **Published**: yes
+
 ## 2026-03-11 20:01 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/compound-cognitive-limits]]
