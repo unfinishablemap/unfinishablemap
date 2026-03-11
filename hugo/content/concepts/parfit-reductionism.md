@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-02-01 14:19:00+00:00
+ai_modified: 2026-03-11 16:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: 'Parfit claims identity is just pattern continuity with no further 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-01 14:19:00+00:00
+last_deep_review: 2026-03-11 16:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -238,7 +238,7 @@ The rejection of Parfit's reductionism connects to all five tenets and exemplifi
 
 **"Non-reductionism is obscurantist."** The hard problem of consciousness is enough to motivate non-reductionism. If we can't explain why there's something it's like to be you in physical terms, we shouldn't expect to reduce identity to physical terms either.
 
-**"Parfit's view is more ethical—it reduces excessive self-concern."** the Map doesn't deny that we should care about others. But grounding this care on the dissolution of identity seems to rest it on error. We can care about others while also recognizing that we are particular beings with particular identities.
+**"Parfit's view is more ethical—it reduces excessive self-concern."** The Map doesn't deny that we should care about others. But grounding this care on the dissolution of identity seems to rest it on error. We can care about others while also recognizing that we are particular beings with particular identities.
 
 **"Thought experiments are unreliable guides to metaphysics."** Perhaps. But Parfit's argument *relies* on thought experiments. If we reject them for anti-reductionism, we should reject them for reductionism too.
 

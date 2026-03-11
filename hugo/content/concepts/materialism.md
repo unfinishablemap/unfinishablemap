@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-11 10:02:00+00:00
+ai_modified: 2026-03-11 17:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -163,7 +163,7 @@ This undercuts the "future science" appeal: if McGinn is right, no amount of pro
 
 ### Alternative Frameworks
 
-Process philosophy (Whitehead), [panpsychism](/concepts/panpsychism/), and [idealism](/concepts/idealism/) each challenge the materialism/dualism binary in different ways. These frameworks illustrate that rejecting materialism doesn't force Cartesian substance dualism—other options exist. The Map takes no position on these alternatives; what matters is the core claim: consciousness is not reducible to or derivable from the physical as materialism conceives it.
+Process philosophy (Whitehead), [panpsychism](/concepts/panpsychism/), and [idealism](/concepts/idealism/) each challenge the materialism/dualism binary in different ways. For a systematic comparison of these [mind-centric alternatives](/topics/analytic-idealism-and-mind-centric-metaphysics/)—idealism, panpsychism, cosmopsychism, dual-aspect monism, and the Map's dualism—see the comparative survey. These frameworks illustrate that rejecting materialism doesn't force Cartesian substance dualism—other options exist. The Map takes no position on these alternatives; what matters is the core claim: consciousness is not reducible to or derivable from the physical as materialism conceives it.
 
 ## Relation to the Map's Perspective
 
@@ -194,6 +194,7 @@ None currently obtains, and each faces significant challenges. Materialism remai
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The zombie argument against materialism in detail
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem materialism cannot solve
 - [idealism](/concepts/idealism/) — Idealism's challenge to both materialism and dualism
+- [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/) — Comparative survey of mind-centric alternatives to materialism
 - [epiphenomenalism](/concepts/epiphenomenalism/) — What happens if you accept the gap but deny mental causation
 - [illusionism](/concepts/illusionism/) — Materialism's most radical response to the hard problem
 - [functionalism](/concepts/functionalism/) — A materialist theory the Map rejects

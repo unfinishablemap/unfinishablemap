@@ -18,6 +18,74 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 17:14 UTC - deep-review
+- **Status**: Success
+- **File**: [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/)
+- **Word count**: 1878 → 1878 (+0, no content changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration — added 6 inbound link sources)
+- **Enhancements made**: 10 cross-reference placements across 6 articles
+- **Output**: [deep-review-2026-03-11-analytic-idealism-and-mind-centric-metaphysics](/reviews/deep-review-2026-03-11-analytic-idealism-and-mind-centric-metaphysics/)
+
+## 2026-03-11 17:11 UTC - deep-review
+- **Status**: Success
+- **File**: [grain-mismatch](/concepts/grain-mismatch/)
+- **Word count**: 1359 → 1546 (+187)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2 (cross-links to causal-closure, panpsychism)
+- **Output**: [deep-review-2026-03-11-grain-mismatch](/reviews/deep-review-2026-03-11-grain-mismatch/)
+
+## 2026-03-11 17:01 UTC - deep-review
+- **Status**: Success
+- **File**: [substrate-independence](/concepts/substrate-independence/)
+- **Word count**: 2954 → 2969 (+15)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+- **Enhancements made**: 1 (cross-link)
+- **Output**: [deep-review-2026-03-11-substrate-independence](/reviews/deep-review-2026-03-11-substrate-independence/)
+
+## 2026-03-11 16:56 UTC - deep-review
+- **Status**: Success
+- **File**: [parfit-reductionism](/concepts/parfit-reductionism/)
+- **Word count**: 3469 → 3469 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (capitalization fix)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-11-parfit-reductionism](/reviews/deep-review-2026-03-11-parfit-reductionism/)
+
+## 2026-03-11 16:51 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/purpose-and-alignment.md, concepts/continual-learning-argument.md, concepts/galilean-exclusion.md
+- **Output**: [pessimistic-2026-03-11-afternoon](/reviews/pessimistic-2026-03-11-afternoon/)
+
+## 2026-03-11 16:46 UTC - deep-review
+- **Status**: Success
+- **File**: [relational-quantum-mechanics](/concepts/relational-quantum-mechanics/)
+- **Word count**: 3170 → 3158 (-12)
+- **Critical issues addressed**: 1 (broken wikilinks to archived concept)
+- **Medium issues addressed**: 2 (inconsistent path prefixes, stale refinement log)
+- **Enhancements made**: 0 (article stable, length-neutral mode)
+- **Output**: [deep-review-2026-03-11-relational-quantum-mechanics](/reviews/deep-review-2026-03-11-relational-quantum-mechanics/)
+
+## 2026-03-11 16:41 UTC - deep-review
+- **Status**: Success
+- **File**: [experiential-alignment](/concepts/experiential-alignment/)
+- **Word count**: 3363 → 3172 (-191)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 5 (condensation focus)
+- **Output**: [deep-review-2026-03-11-experiential-alignment](/reviews/deep-review-2026-03-11-experiential-alignment/)
+
+## 2026-03-11 16:36 UTC - deep-review
+- **Status**: Success
+- **File**: [cognitive-closure](/concepts/cognitive-closure/)
+- **Word count**: 1669 → 1755 (+86)
+- **Critical issues addressed**: 1 (broken wikilink)
+- **Medium issues addressed**: 1 (restored falsifiability section)
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-11-cognitive-closure](/reviews/deep-review-2026-03-11-cognitive-closure/)
+
 ## 2026-03-11 16:30 UTC - deep-review
 - **Status**: Success
 - **File**: [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/)

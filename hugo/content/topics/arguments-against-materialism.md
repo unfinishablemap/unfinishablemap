@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-27
-ai_modified: 2026-03-11 10:02:00+00:00
+ai_modified: 2026-03-11 17:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -97,7 +97,7 @@ The most common defence of materialism may be the least philosophical: the convi
 
 The arguments against materialism are sometimes characterised as proving dualism. They do not. What they show is that physicalism—in all its forms from reductive identity theory to eliminativism to illusionism—cannot account for consciousness.
 
-This leaves the question open. If consciousness is not reducible to the physical, what is it? Several options exist: substance dualism, property dualism, [panpsychism](/concepts/panpsychism/), [idealism](/concepts/idealism/), neutral monism. The Map's [tenets](/tenets/) make a specific commitment: [interactionist-dualism](/concepts/interactionist-dualism/), where consciousness is irreducible and causally efficacious, interacting with the physical world at quantum indeterminacies.
+This leaves the question open. If consciousness is not reducible to the physical, what is it? Several options exist: substance dualism, property dualism, [panpsychism](/concepts/panpsychism/), [idealism](/concepts/idealism/), neutral monism. For a systematic comparison of these [mind-centric frameworks](/topics/analytic-idealism-and-mind-centric-metaphysics/), see the comparative survey. The Map's [tenets](/tenets/) make a specific commitment: [interactionist-dualism](/concepts/interactionist-dualism/), where consciousness is irreducible and causally efficacious, interacting with the physical world at quantum indeterminacies.
 
 The arguments do not force this particular conclusion, but they rule out the position that dominates the field. They establish that consciousness has features—qualitative character, subjectivity, unity, intentionality, normative significance—that physical description cannot capture. Whatever positive account of consciousness one adopts must take these features seriously.
 

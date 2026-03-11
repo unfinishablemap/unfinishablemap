@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-11 14:46:00+00:00
+ai_modified: 2026-03-11 16:36:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,6 +18,7 @@ description: Human+AI analysis of cognitive closure—the thesis that certain pr
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-03-11 16:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -99,6 +100,10 @@ Critics note that humans transcend biological limits through mathematics, instru
 The counter-argument carries weight for practical barriers but not for architectural ones. Telescopes overcome the biological limitation of unaided vision because visual concepts are within our reach—we just needed more data. But if the relevant concepts are absent from human cognitive architecture, more data in any format cannot help.
 
 Artificial intelligence presents an interesting test case. An AI with a different cognitive architecture might face different closures—open where we are closed, closed where we are open. This is not a solution to human closure but a confirmation that closure is architecture-specific: different minds have different conceptual reaches.
+
+## Falsifiability
+
+Is cognitive closure a testable thesis or an unfalsifiable excuse? If the hard problem of consciousness were solved—if someone produced a theory explaining exactly why and how physical processes generate subjective experience—permanent mysterianism would be refuted. Progress on the explanatory gap, even partial progress, would count as evidence that human cognitive architecture is not closed with respect to the consciousness-physics link. The thesis makes a prediction: sustained effort will fail to close the gap. That prediction is testable, even if the timescale is long.
 
 ## The Phenomenology of Approaching Closure
 

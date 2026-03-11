@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-02-23 09:20:00+00:00
+ai_modified: 2026-03-11 17:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Mapping the landscape of mind-first ontologies—from Kastrup's ana
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-23 09:20:00+00:00
+last_deep_review: 2026-03-11 17:14:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

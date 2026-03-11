@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-03-05 19:25:00+00:00
+ai_modified: 2026-03-11 17:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -234,7 +234,7 @@ Chalmers proposes that consciousness requires new *fundamental laws*—psychophy
 
 [Analytic idealism](/concepts/idealism/) denies that matter is fundamental: consciousness is the sole ontological primitive, and matter is how consciousness appears to itself. This dissolves the hard problem—there's no non-experiential substrate generating experience.
 
-But idealism trades the hard problem for another: why does "appearance" follow regular laws? If matter is just how consciousness appears, why must fire burn and gravity attract? The Map maintains physical reality exists distinctly from consciousness, making the regularity of physical law less puzzling. See [idealism](/concepts/idealism/) for detailed treatment.
+But idealism trades the hard problem for another: why does "appearance" follow regular laws? If matter is just how consciousness appears, why must fire burn and gravity attract? The Map maintains physical reality exists distinctly from consciousness, making the regularity of physical law less puzzling. See [idealism](/concepts/idealism/) for detailed treatment and [the mind-centric metaphysics survey](/topics/analytic-idealism-and-mind-centric-metaphysics/) for how idealism compares with panpsychism, cosmopsychism, and the Map's dualism.
 
 ### The Combination Problem
 
