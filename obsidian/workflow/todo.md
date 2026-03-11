@@ -85,6 +85,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map explains why it prefers dualism over materialism but gives less systematic attention to why it prefers dualism over idealism and neutral monism — positions that also take consciousness seriously. See optimistic-2026-03-10.md
 - **Generated**: 2026-03-10
 
+### P3: Write article on the embodiment dimension of consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How bodily movement couples to neural quantum indeterminacy; why embodiment seems necessary for consciousness; interoception and body schema as sites of quantum selection; implications for disembodied minds and uploaded consciousness. Builds on temporal-consciousness, interface-locality, attention-as-selection-interface. See optimistic-2026-03-11.md
+- **Generated**: 2026-03-11
+
+### P3: Write concept page for phenomenal character specificity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Why pain feels different from red—qualitative distinctness as independent evidence for irreducibility. Distributed across qualia, binding-problem, pain-consciousness-and-causal-power, valence-as-selection-currency but never treated as its own concept. See optimistic-2026-03-11.md
+- **Generated**: 2026-03-11
+
+### P3: Write article on consciousness and predictive processing
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How active inference (Friston, Clark) relates to the Map's framework; whether prediction error minimisation is compatible with genuine selection; the free energy principle under dualism. Builds on attention-as-selection-interface, consciousness-and-scientific-methodology. See optimistic-2026-03-11.md
+- **Generated**: 2026-03-11
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
