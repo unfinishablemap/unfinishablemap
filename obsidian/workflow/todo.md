@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review bidirectional-interaction.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 32 days ago. Core concept page directly supporting Tenet 3 (Bidirectional Interaction). As a foundational tenet concept, quality and accuracy are critical. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P2: Integrate consciousness-and-the-structure-of-scientific-revolutions.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article on how consciousness research relates to Kuhnian paradigm shifts. Add cross-references from related articles such as consciousness-and-scientific-methodology.md, epistemic-advantages-of-dualism.md, and philosophy-of-science articles.
@@ -509,6 +503,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Deep review bidirectional-interaction.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 32 days ago. Core concept page directly supporting Tenet 3 (Bidirectional Interaction). As a foundational tenet concept, quality and accuracy are critical. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/bidirectional-interaction.md
 
 ### ✓ 2026-03-11: Deep review reality-feeling-void.md
 - **Type**: deep-review
