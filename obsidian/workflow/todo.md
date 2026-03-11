@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering phenomenology-of-perceptual-learning
-- **Type**: cross-review
-- **Notes**: New article topics/phenomenology-of-perceptual-learning.md argues expert perceivers develop qualitatively different experiences through training, demonstrating bidirectional interaction. Review consciousness-and-skilled-performance.md, consciousness-and-the-neuroscience-of-deliberate-practice.md, and philosophy-of-perception-under-dualism.md for cross-links and consistency.
-- **Source**: chain (from phenomenology-of-perceptual-learning.md)
-- **Generated**: 2026-03-11
-
 ### P2: Cross-review related articles considering death-phenomenology-beyond-ndes
 - **Type**: cross-review
 - **Notes**: New article topics/death-phenomenology-beyond-ndes.md treats Heidegger's Being-toward-death and mortality as structuring present experience. Review death-and-consciousness.md, near-death-experiences.md, and personal-identity.md for cross-links, reinforcing arguments, or contradictions.
@@ -425,6 +419,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Cross-review related articles considering phenomenology-of-perceptual-learning
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenology-of-perceptual-learning.md argues expert perceivers develop qualitatively different experiences through training, demonstrating bidirectional interaction. Review consciousness-and-skilled-performance.md, consciousness-and-the-neuroscience-of-deliberate-practice.md, and philosophy-of-perception-under-dualism.md for cross-links and consistency.
+- **Output**: None -- Context: Cross-review related articles considering phenomenology-of-perceptual-learning
 
 ### ✓ 2026-03-11: Integrate interaction-solutions-across-traditions.md into site navigation
 - **Type**: integrate-orphan
