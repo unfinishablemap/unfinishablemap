@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review explanatory-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the explanatory void — the gap between physical explanation and phenomenal experience. Core void concept that supports the Map's case for irreducibility. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P2: Deep review nihilism-and-existentialism.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 38 days ago (2026-02-01). Concept page on nihilism and existentialism — important philosophical context for the Map's treatment of meaning, value, and consciousness. Verify coherence, cross-references, and tenet alignment.
@@ -431,6 +425,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Deep review explanatory-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the explanatory void — the gap between physical explanation and phenomenal experience. Core void concept that supports the Map's case for irreducibility. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/explanatory-void.md
 
 ### ✓ 2026-03-11: Deep review indexical-void.md
 - **Type**: deep-review
