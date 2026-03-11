@@ -31,7 +31,6 @@ related_articles:
   - "[[consciousness-selecting-mechanisms-detail-2026-01-17]]"
   - "[[psychophysical-coupling-problem-2026-01-15]]"
   - "[[brain-specialness-boundary-2026-01-15]]"
-  - "[[quantum-consciousness-programme]]"
 coalesced_from:
   - "/concepts/non-retrocausal-conscious-selection/"
 ai_contribution: 100
@@ -203,7 +202,6 @@ The framework would face serious difficulty if:
 
 ## Further Reading
 
-- [[quantum-consciousness-programme]] — Apex synthesis of the full quantum consciousness research programme
 - [[consciousness-and-creativity]] — How selection integrates with imagination's generative role
 - [[attention-disorders-and-quantum-interface]] — ADHD, OCD, and meditation deficits reveal selection interface dysfunction
 - [[psychophysical-coupling]] — Candidate coupling laws and bandwidth constraints

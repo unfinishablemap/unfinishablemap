@@ -29,7 +29,6 @@ related_articles:
   - "[[tenets]]"
   - "[[stapp-mental-effort-mind-matter-2026-01-14]]"
   - "[[attention-motor-quantum-interface]]"
-  - "[[quantum-consciousness-programme]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -166,7 +165,6 @@ The model generates falsifiable predictions:
 
 ## Further Reading
 
-- [[quantum-consciousness-programme]] — Apex synthesis placing Stapp's model within the full research programme
 - [[psychophysical-coupling]] — Comparative analysis; Stapp's model as most developed
 - [[coupling-modes]] — Basis, timing, and probability control: taxonomy of coupling mechanisms
 - [[attention-as-interface]] — Attention as the interface layer; neural signatures of willed attention

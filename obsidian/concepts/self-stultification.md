@@ -21,7 +21,6 @@ concepts:
 related_articles:
   - "[[argument-from-reason]]"
   - "[[self-stultification-as-master-argument]]"
-  - "[[self-stultification-suite]]"
   - "[[the-epiphenomenalist-threat]]"
   - "[[consciousness-and-causal-powers]]"
   - "[[bidirectional-interaction]]"
@@ -33,7 +32,7 @@ ai_generated_date: 2026-02-02
 last_curated:
 ---
 
-A position is self-stultifying when accepting it rationally undermines the very grounds for accepting it. The self-stultification argument against [[concepts/epiphenomenalism]] and certain forms of [[concepts/materialism]] holds that if consciousness has no causal influence on our beliefs and reports, then we could never have rational grounds for believing any theory of consciousness—including the theory that consciousness is causally inert. This is not a logical contradiction but an epistemic self-defeat: the position may be true, but it cannot be rationally held. The [[self-stultification-suite|Self-Stultification Suite]] synthesises how this single structure defeats multiple targets and establishes that consciousness must be causally efficacious.
+A position is self-stultifying when accepting it rationally undermines the very grounds for accepting it. The self-stultification argument against [[concepts/epiphenomenalism]] and certain forms of [[concepts/materialism]] holds that if consciousness has no causal influence on our beliefs and reports, then we could never have rational grounds for believing any theory of consciousness—including the theory that consciousness is causally inert. This is not a logical contradiction but an epistemic self-defeat: the position may be true, but it cannot be rationally held. The [[self-stultification-as-master-argument|master argument]] synthesises how this single structure defeats multiple targets and establishes that consciousness must be causally efficacious.
 
 ## The Argument Structure
 
@@ -135,7 +134,7 @@ In the philosophy of mind, the argument gained prominence through:
 
 Self-stultification establishes *that* consciousness must be causally efficacious. The follow-up question—*what kind* of causal powers consciousness possesses—is addressed in [[consciousness-and-causal-powers]], which develops a framework of constrained but genuine influence: selection among quantum alternatives, sustained attention, phenomenal biasing, and volitional modulation. The [[the-epiphenomenalist-threat|epiphenomenalist threat]] article shows why this question is urgent: most mainstream theories of consciousness drift toward epiphenomenalism unless they provide a specific causal mechanism, and self-stultification shows why arriving there is catastrophic.
 
-The [[self-stultification-as-master-argument|master argument]] develops the full scope of self-stultification across four targets—epiphenomenalism, physicalism, eliminativism, and global skepticism—showing that the pattern recurs because each position severs a different strand connecting consciousness to rational justification. The [[self-stultification-suite|Self-Stultification Suite]] synthesises these five lines of argument into a unified case whose cumulative force exceeds what any single strand provides.
+The [[self-stultification-as-master-argument|master argument]] develops the full scope of self-stultification across four targets—epiphenomenalism, physicalism, eliminativism, and global skepticism—showing that the pattern recurs because each position severs a different strand connecting consciousness to rational justification. Together, these five lines of argument form a unified case whose cumulative force exceeds what any single strand provides.
 
 ## Relation to Site Perspective
 
@@ -147,7 +146,6 @@ The argument also supports the [[tenets#^occams-limits|Occam's Razor Has Limits]
 
 ## Further Reading
 
-- [[self-stultification-suite]] — Apex synthesis: five converging self-stultification arguments
 - [[self-stultification-as-master-argument]] — The unified pattern across four targets
 - [[concepts/epiphenomenalism]] — The position most directly challenged by self-stultification
 - [[argument-from-reason]] — The broader self-defeat challenge to physicalism
