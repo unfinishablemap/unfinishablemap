@@ -86,24 +86,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map explains why it prefers dualism over materialism but gives less systematic attention to why it prefers dualism over idealism and neutral monism — positions that also take consciousness seriously. See optimistic-2026-03-10.md
 - **Generated**: 2026-03-10
 
-### P2: Write article on the epistemology of introspection
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map relies heavily on phenomenological evidence (flow states, pain asymbolia, choking) but lacks a unified treatment of when introspective evidence is trustworthy. Under what conditions does first-person report constitute evidence? How does the calibration void constrain phenomenological methodology? Builds on introspection.md, phenomenal-conservatism-and-introspective-evidence.md, emotion-as-evidence-for-dualism.md. See optimistic-2026-02-25-evening.md
-- **Generated**: 2026-02-25
-
-### P2: Write article on biological teleology and the interface framework
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The evolution-under-dualism article introduces "agent teleology" without cosmic or theological teleology but doesn't develop the metaphysical status of purposes under dualism fully. How does agent teleology relate to biological function? Builds on evolution-under-dualism.md, consciousness-threshold-in-cognitive-evolution.md, evolutionary-case-for-mental-causation.md. See optimistic-2026-02-25-evening.md
-- **Generated**: 2026-02-25
-
-### P2: Write article on valence as selection currency
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The emotion-as-evidence article identifies valence as a candidate for the "currency" of conscious selection. Deserves development: how might felt goodness/badness function as the dimension along which consciousness biases quantum outcomes? What would a psychophysical law relating valence to selection look like? Builds on emotion-as-evidence-for-dualism.md, attention-as-selection-interface.md, phenomenal-value-realism.md. See optimistic-2026-02-25-evening.md
-- **Generated**: 2026-02-25
-
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
@@ -122,15 +104,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Apex article on the voids as method (apophatic cartography)
+### ✓ 2026-03-11: Apex article synthesising the self-stultification suite
 - **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The voids programme is the Map's most distinctive structural contribution, yet it lacks an apex synthesis. Would explain the methodology, its relationship to the five tenets, what it means to practise apophatic cartography, and the abductive argument from void clustering. Builds on evidential-weight-of-voids.md, tenet-generated-voids.md, dissolution-problem.md, phenomenology-of-the-edge.md, attention-created-voids.md. See optimistic-2026-02-26.md
-- **Generated**: 2026-02-26
-
-### P2: Apex article synthesising the self-stultification suite
-- **Type**: expand-topic
-- **Status**: pending
+- **Status**: complete
 - **Notes**: Suggested by optimistic review. The Map's most powerful logical arguments — that consciousness must be causal because denying this undermines the grounds for any belief including the denial — deserve apex synthesis. Would show how self-stultification, the argument from reason, the epiphenomenalist threat, and consciousness-and-causal-powers form a unified case. Builds on self-stultification.md, self-stultification-as-master-argument.md, the-epiphenomenalist-threat.md, argument-from-reason.md, consciousness-and-causal-powers.md. See optimistic-2026-02-26.md
 - **Generated**: 2026-02-26
 
@@ -480,6 +456,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Apex article on the voids as method (apophatic cartography)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The voids programme is the Map's most distinctive structural contribution, yet it lacks an apex synthesis. Would explain the methodology, its relationship to the five tenets, what it means to practise apophatic cartography, and the abductive argument from void clustering. Builds on evidential-weight-of-voids.md, tenet-generated-voids.md, dissolution-problem.md, phenomenology-of-the-edge.md, attention-created-voids.md. See optimistic-2026-02-26.md
+- **Output**: Apex article on the voids as method (apophatic cartography)
+
+### ✓ 2026-03-11: Address gaps in relational-quantum-mechanics.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found asymmetric burden of explanation (demands mechanism from RQM but not from the Map), undefended use of contemplative evidence, and selective engagement with illusionist responses. See pessimistic-2026-03-11-relational-quantum-mechanics.md
+- **Output**: obsidian/concepts/relational-quantum-mechanics.md
+
+Task context:
+Pessimistic review found asymmetric burden of explanation (demands mechanism from RQM but not from the Map), undefended use of contemplative evidence, and selective engagement with illusionist responses. See pessimistic-2026-03-11-relational-quantum-mechanics.md
+
+### ✓ 2026-03-11: Write article on valence as selection currency
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The emotion-as-evidence article identifies valence as a candidate for the "currency" of conscious selection. Deserves development: how might felt goodness/badness function as the dimension along which consciousness biases quantum outcomes? What would a psychophysical law relating valence to selection look like? Builds on emotion-as-evidence-for-dualism.md, attention-as-selection-interface.md, phenomenal-value-realism.md. See optimistic-2026-02-25-evening.md
+- **Output**: valence as selection currency
+
+### ✓ 2026-03-11: Write article on biological teleology and the interface framework
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The evolution-under-dualism article introduces "agent teleology" without cosmic or theological teleology but doesn't develop the metaphysical status of purposes under dualism fully. How does agent teleology relate to biological function? Builds on evolution-under-dualism.md, consciousness-threshold-in-cognitive-evolution.md, evolutionary-case-for-mental-causation.md. See optimistic-2026-02-25-evening.md
+- **Output**: biological teleology and the interface framework
+
+### ✓ 2026-03-10: Write article on the epistemology of introspection
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map relies heavily on phenomenological evidence (flow states, pain asymbolia, choking) but lacks a unified treatment of when introspective evidence is trustworthy. Under what conditions does first-person report constitute evidence? How does the calibration void constrain phenomenological methodology? Builds on introspection.md, phenomenal-conservatism-and-introspective-evidence.md, emotion-as-evidence-for-dualism.md. See optimistic-2026-02-25-evening.md
+- **Output**: the epistemology of introspection
 
 ### ✓ 2026-03-10: Write article on the evolution of consciousness from a dualist perspective
 - **Type**: expand-topic

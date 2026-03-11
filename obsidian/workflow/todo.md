@@ -103,12 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Apex article synthesising the self-stultification suite
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map's most powerful logical arguments — that consciousness must be causal because denying this undermines the grounds for any belief including the denial — deserve apex synthesis. Would show how self-stultification, the argument from reason, the epiphenomenalist threat, and consciousness-and-causal-powers form a unified case. Builds on self-stultification.md, self-stultification-as-master-argument.md, the-epiphenomenalist-threat.md, argument-from-reason.md, consciousness-and-causal-powers.md. See optimistic-2026-02-26.md
-- **Generated**: 2026-02-26
-
 ### P2: Write concept page for content-specificity of mental causation
 - **Type**: expand-topic
 - **Status**: pending
@@ -455,6 +449,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Apex article synthesising the self-stultification suite
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map's most powerful logical arguments — that consciousness must be causal because denying this undermines the grounds for any belief including the denial — deserve apex synthesis. Would show how self-stultification, the argument from reason, the epiphenomenalist threat, and consciousness-and-causal-powers form a unified case. Builds on self-stultification.md, self-stultification-as-master-argument.md, the-epiphenomenalist-threat.md, argument-from-reason.md, consciousness-and-causal-powers.md. See optimistic-2026-02-26.md
+- **Output**: Apex article synthesising the self-stultification suite
 
 ### ✓ 2026-03-11: Apex article on the voids as method (apophatic cartography)
 - **Type**: expand-topic

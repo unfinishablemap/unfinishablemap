@@ -358,7 +358,26 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 ---
 
-## Reserved Slots (16-20)
+### 16. The Self-Stultification Suite
+
+**Slug**: `self-stultification-suite`
+
+**Subtitle**: Why denying mental causation is rationally untenable
+
+**Thesis**: The Map's strongest philosophical case rests on a suite of mutually reinforcing arguments sharing a common structure: any theory that severs consciousness from its own rational grounds cannot be rationally endorsed. Five source articles—the concept of self-stultification, the master argument, the argument from reason, the epiphenomenalist threat, and consciousness's causal powers—converge on one conclusion: consciousness must be causally connected to the processes that produce beliefs about consciousness. The suite establishes *that* consciousness must be causally efficacious; the quantum framework proposes *how*.
+
+**Source articles**:
+- concepts/self-stultification
+- topics/self-stultification-as-master-argument
+- topics/argument-from-reason
+- topics/the-epiphenomenalist-threat
+- topics/consciousness-and-causal-powers
+
+**Status**: Created 2026-03-11
+
+---
+
+## Reserved Slots (17-20)
 
 Future apex articles will be added as the Map evolves and new thematic clusters emerge. Potential candidates:
 

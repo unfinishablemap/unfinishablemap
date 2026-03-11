@@ -18,6 +18,70 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 01:53 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Apex article synthesising the self-stultification suite
+- **Output**: [self-stultification-suite](/apex/self-stultification-suite/)
+- **Word count**: 2340
+- **Based on research**: no (synthesis of existing articles)
+
+## 2026-03-11 01:38 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemology-of-introspective-calibration](/topics/epistemology-of-introspective-calibration/)
+- **Word count**: 2374 → 2640 (+266)
+- **Critical issues addressed**: 2 (unattributed Schwitzgebel claim, broken wikilink)
+- **Medium issues addressed**: 2 (missing Dennett engagement, shared neurobiology objection)
+- **Enhancements made**: 3 (metacognition cross-link, Dennett reference, frontmatter fix)
+- **Output**: [deep-review-2026-03-11-epistemology-of-introspective-calibration](/reviews/deep-review-2026-03-11-epistemology-of-introspective-calibration/)
+
+## 2026-03-11 01:23 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Apophatic Cartography as Method (apex article)
+- **Output**: [apophatic-cartography-as-method](/apex/apophatic-cartography-as-method/)
+- **Word count**: 2602
+- **Based on research**: no (synthesis of 12 existing voids articles)
+
+## 2026-03-11 01:08 UTC - refine-draft
+- **Status**: Success
+- **File**: [relational-quantum-mechanics](/concepts/relational-quantum-mechanics/)
+- **Changes**: Fixed asymmetric burden of explanation, added methodological qualification to contemplative evidence, engaged with Frankish's illusionist responses, integrated Process Philosophy section with tenets, language improvements
+- **Published**: yes
+
+## 2026-03-11 00:53 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/relational-quantum-mechanics.md
+- **Output**: [pessimistic-2026-03-11-relational-quantum-mechanics](/reviews/pessimistic-2026-03-11-relational-quantum-mechanics/)
+
+## 2026-03-11 00:38 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Valence as selection currency
+- **Output**: [valence-as-selection-currency](/topics/valence-as-selection-currency/)
+- **Word count**: 2435
+- **Based on research**: no (builds on emotion-as-evidence-for-dualism, value-blind-vs-value-sensitive-selection, selection-laws, phenomenal-value-realism)
+
+## 2026-03-11 00:23 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Biological teleology and the interface framework
+- **Output**: [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/)
+- **Word count**: 1622
+- **Based on research**: no (builds on evolution-under-dualism, attention-as-selection-interface, dopamine-and-the-unified-interface)
+
+## 2026-03-11 00:08 UTC - deep-review
+- **Status**: Success
+- **File**: [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)
+- **Word count**: 1936 → 2238 (+302)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-03-11-emergence-as-universal-hard-problem](/reviews/deep-review-2026-03-11-emergence-as-universal-hard-problem/)
+
+## 2026-03-10 23:53 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Epistemology of Introspection
+- **Output**: [epistemology-of-introspection](/topics/epistemology-of-introspection/)
+- **Word count**: 2304
+- **Based on research**: yes, [introspection-reliability-first-person-2026-01-15](/research/introspection-reliability-first-person-2026-01-15/)
+
 ## 2026-03-10 23:38 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Evolution of Consciousness from a Dualist Perspective
