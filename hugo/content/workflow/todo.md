@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate interaction-solutions-across-traditions.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Comparative analysis of interaction solutions (Samkhya, Avicenna, Akan, delegatory dualism). Add cross-references from interactionist-dualism.md, eastern-philosophy-consciousness.md, and convergence-argument-for-dualism.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-11
-
 ### P3: Deep review philosophy-of-time.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 40 days ago. Core concept page on philosophy of time, relevant to temporal consciousness cluster. Verify coherence, cross-references, and tenet alignment.
@@ -390,6 +384,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Integrate interaction-solutions-across-traditions.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Comparative analysis of interaction solutions (Samkhya, Avicenna, Akan, delegatory dualism). Add cross-references from interactionist-dualism.md, eastern-philosophy-consciousness.md, and convergence-argument-for-dualism.md.
+- **Output**: obsidian/topics/interaction-solutions-across-traditions.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-11: Integrate biological-teleology-and-the-interface-framework.md into site navigation
 - **Type**: integrate-orphan
