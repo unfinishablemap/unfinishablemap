@@ -4,7 +4,7 @@ description: "Dualism transforms the philosophy of emotion—emotions are neithe
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T14:17:00+00:00
+ai_modified: 2026-03-11T19:16:00+00:00
 draft: false
 topics:
   - "[[emotional-consciousness]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
-last_deep_review: 2026-03-11T12:42:00+00:00
+last_deep_review: 2026-03-11T19:16:00+00:00
 ---
 
 If dualism is true, emotions are not what most contemporary philosophy takes them to be. The dominant debate in philosophy of emotion—between cognitive theories that reduce emotions to judgments and somatic theories that reduce them to bodily feelings—presupposes that emotions must be *either* mental representations *or* physical states. The Unfinishable Map's dualist framework dissolves this dichotomy. Emotions are irreducible conscious acts that integrate phenomenal quality, evaluative intentionality, and causal power in ways that neither purely mental nor purely physical descriptions capture. This article examines how dualism transforms each of the central questions in the philosophy of emotion.

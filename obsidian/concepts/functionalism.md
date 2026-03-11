@@ -188,6 +188,7 @@ The Map's response: the substrate matters because consciousness involves somethi
 - [[substrate-independence-critique]] — Why the substrate matters for consciousness
 - [[ai-consciousness]] — The question of machine minds
 - [[qualia]] — What functionalism may leave out
+- [[philosophy-of-emotion-under-dualism]] — Emotions as a domain where functional decomposition fails to capture phenomenal character
 - [[philosophical-zombies]] — The conceivability argument in detail
 - [[inverted-qualia]] — The spectrum inversion thought experiment
 - [[illusionism]] — The radical defense of functionalism

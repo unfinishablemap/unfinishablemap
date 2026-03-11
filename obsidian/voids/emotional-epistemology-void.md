@@ -86,6 +86,7 @@ The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet 
 - [[pre-conceptual-knowing|Pre-Conceptual Knowing]] — Knowledge before and beyond concepts
 - [[epistemic-emotions|Epistemic Emotions]] — Feelings directed at knowledge itself
 - [[emotion-as-evidence-for-dualism|Emotion as Evidence for Dualism]] — How affect sharpens the case for dualism
+- [[philosophy-of-emotion-under-dualism|Philosophy of Emotion Under Dualism]] — Emotional intentionality as sui generis value-perception (Scheler's Wertnehmung)
 - [[apophatic-approaches|Apophatic Approaches]] — Knowing through negation
 
 ## References

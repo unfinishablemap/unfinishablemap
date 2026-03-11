@@ -123,6 +123,7 @@ The moral and motivational significance of valence depends on indexical identity
 ## Further Reading
 
 - [[emotional-consciousness]] — Comprehensive treatment of emotional consciousness, valence, and their philosophical implications
+- [[philosophy-of-emotion-under-dualism]] — Dualism's transformation of the cognitive-somatic debate and emotional intentionality
 - [[dualism]] — The full range of positive arguments for dualism
 - [[hard-problem-of-consciousness]] — Why physical explanations leave phenomenal experience unexplained
 - [[qualia]] — Intrinsic properties of experience that resist functional reduction
