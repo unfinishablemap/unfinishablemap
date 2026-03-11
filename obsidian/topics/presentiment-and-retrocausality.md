@@ -4,7 +4,7 @@ description: "Distinguishing physics-based retrocausality from contested parapsy
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-02-03T02:43:00+00:00
+ai_modified: 2026-03-11T18:23:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -23,14 +23,14 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated:
-last_deep_review: 2026-02-03T02:43:00+00:00
+last_deep_review: 2026-03-11T18:23:00+00:00
 ---
 
 The Unfinishable Map grounds retrocausality in physics—time-symmetric quantum mechanics, Wheeler's delayed-choice experiments, the transactional interpretation. Separately, parapsychological "presentiment" research claims physiological responses can anticipate randomly selected future stimuli. These are independent lines of inquiry. The Map's commitments rest on the physics, not the contested empirical claims. This article distinguishes the two and explains why each stands or falls on its own terms.
 
 ## Two Distinct Claims
 
-**Physics-based retrocausality** holds that quantum mechanics' fundamental equations are time-symmetric, and that this symmetry has physical significance. The claim is interpretive: retrocausality is one way to make sense of Bell correlations, delayed-choice experiments, and the measurement problem. Cramer's transactional interpretation, Price's time-symmetric causation, and retrocausal variants of hidden-variable theories represent sophisticated positions developed within mainstream physics.
+**Physics-based retrocausality** holds that quantum mechanics' fundamental equations are [[time-symmetric-physics|time-symmetric]], and that this symmetry has physical significance. The claim is interpretive: retrocausality is one way to make sense of Bell correlations, delayed-choice experiments, and the measurement problem. Cramer's transactional interpretation, Price's time-symmetric causation, and retrocausal variants of hidden-variable theories represent sophisticated positions developed within mainstream physics.
 
 **Presentiment (or predictive anticipatory activity)** claims that physiological measures—skin conductance, heart rate, pupil dilation, brain activity—can respond to randomly selected stimuli *before* the stimulus is selected. The claim is empirical: bodies somehow anticipate future events.
 
@@ -109,6 +109,8 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] applies here too. D
 ## Further Reading
 
 - [[retrocausality]] — Physics-based retrocausality and its application to consciousness
+- [[time-symmetric-physics]] — The mathematical foundation for time-symmetric quantum mechanics
+- [[time-symmetric-selection-mechanism]] — How time-symmetric physics enables conscious selection
 - [[libet-experiments]] — The temporal ordering puzzle and its resolution
 - [[quantum-consciousness]] — Mechanisms for consciousness-brain interaction
 - [[tenets]] — The Map's foundational commitments

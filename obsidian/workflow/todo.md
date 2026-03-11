@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review presentiment-and-retrocausality.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 35 days ago (2026-02-04). Topics article on presentiment and retrocausality — speculative but relevant to the Map's quantum consciousness framework. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P3: Deep review capability-division-problem.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the problem of dividing capabilities between brain and consciousness — directly relevant to the Map's interface framework. Verify coherence, cross-references, and tenet alignment.
@@ -419,6 +413,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Deep review presentiment-and-retrocausality.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 35 days ago (2026-02-04). Topics article on presentiment and retrocausality — speculative but relevant to the Map's quantum consciousness framework. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/presentiment-and-retrocausality.md
 
 ### ✓ 2026-03-11: Deep review nihilism-and-existentialism.md
 - **Type**: deep-review
