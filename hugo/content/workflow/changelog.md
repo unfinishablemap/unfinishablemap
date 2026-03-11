@@ -18,6 +18,20 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 04:08 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Phenomenology of Meaning-Making
+- **Output**: [phenomenology-of-meaning-making](/topics/phenomenology-of-meaning-making/)
+- **Word count**: 2201
+- **Based on research**: No (synthesised from existing Map articles)
+
+## 2026-03-11 03:53 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Ethics and Value in a Dualist World
+- **Output**: [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/)
+- **Word count**: 2181
+- **Based on research**: No
+
 ## 2026-03-11 03:38 UTC - coalesce
 - **Status**: Success
 - **Sources**: [non-retrocausal-conscious-selection](/concepts/non-retrocausal-conscious-selection/)

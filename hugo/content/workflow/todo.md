@@ -122,14 +122,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Write apex article on ethics and value in a dualist world
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map's ethics cluster (phenomenal-value-realism, moral-implications-of-genuine-agency, ethics-of-consciousness, moral-responsibility, consciousness-and-moral-agency-under-duress, responsibility-gradient) forms a coherent system but lacks apex synthesis showing how dualist metaphysics transforms ethical theory. See [optimistic-2026-02-27](/reviews/optimistic-2026-02-27/)
-
 ### P2: Write article on the phenomenology of meaning-making
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: complete
+- **Output**: [phenomenology-of-meaning-making](/topics/phenomenology-of-meaning-making/)
 - **Notes**: Suggested by optimistic review. Multiple phenomenology articles independently demonstrate consciousness producing meaning (musical understanding, recursive thought, anticipation, value perception) but no article synthesises these into a unified account. Would strengthen the case against functionalism. See [optimistic-2026-02-27](/reviews/optimistic-2026-02-27/)
 
 ### P2: Write concept page for apophatic cartography
@@ -444,6 +440,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Write apex article on ethics and value in a dualist world
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map's ethics cluster (phenomenal-value-realism, moral-implications-of-genuine-agency, ethics-of-consciousness, moral-responsibility, consciousness-and-moral-agency-under-duress, responsibility-gradient) forms a coherent system but lacks apex synthesis showing how dualist metaphysics transforms ethical theory. See [optimistic-2026-02-27](/reviews/optimistic-2026-02-27/)
+- **Output**: Write apex article on ethics and value in a dualist world
 
 ### ✓ 2026-03-11: Integrate autonoetic-consciousness.md into site navigation
 - **Type**: integrate-orphan
