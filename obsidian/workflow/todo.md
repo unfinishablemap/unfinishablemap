@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review quantification-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the impossibility of quantifying conscious experience — why measurement frameworks fail for phenomenal properties. Relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P2: Deep review resolution-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on resolution limits in consciousness studies — the granularity at which analysis breaks down. Verify coherence, cross-references, and tenet alignment.
@@ -509,6 +503,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Deep review quantification-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the impossibility of quantifying conscious experience — why measurement frameworks fail for phenomenal properties. Relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/quantification-void.md
 
 ### ✓ 2026-03-11: Integrate voids-safety-protocol.md into site navigation
 - **Type**: integrate-orphan
