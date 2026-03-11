@@ -121,12 +121,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Write apex article on the quantum consciousness programme
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map's quantum consciousness cluster has reached critical mass — entanglement binding hypothesis, quantum biology precedents, corrected decoherence estimates, Wiest microtubule study, Kerskens MRI result, Stapp quantum Zeno framework — but lacks an apex synthesis showing how these pieces form a coherent research programme with testable predictions. See [[reviews/optimistic-2026-03-01]]
-- **Generated**: 2026-03-01
-
 ### P2: Write article on the resolution-bandwidth interface
 - **Type**: expand-topic
 - **Status**: pending
@@ -423,6 +417,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Write apex article on the quantum consciousness programme
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map's quantum consciousness cluster has reached critical mass — entanglement binding hypothesis, quantum biology precedents, corrected decoherence estimates, Wiest microtubule study, Kerskens MRI result, Stapp quantum Zeno framework — but lacks an apex synthesis showing how these pieces form a coherent research programme with testable predictions. See [[reviews/optimistic-2026-03-01]]
+- **Output**: Write apex article on the quantum consciousness programme
 
 ### ✓ 2026-03-11: Write article comparing interaction solutions across philosophical traditions
 - **Type**: expand-topic
