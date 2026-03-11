@@ -85,12 +85,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map explains why it prefers dualism over materialism but gives less systematic attention to why it prefers dualism over idealism and neutral monism — positions that also take consciousness seriously. See optimistic-2026-03-10.md
 - **Generated**: 2026-03-10
 
-### P2: Write article on valence as selection currency
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The emotion-as-evidence article identifies valence as a candidate for the "currency" of conscious selection. Deserves development: how might felt goodness/badness function as the dimension along which consciousness biases quantum outcomes? What would a psychophysical law relating valence to selection look like? Builds on emotion-as-evidence-for-dualism.md, attention-as-selection-interface.md, phenomenal-value-realism.md. See optimistic-2026-02-25-evening.md
-- **Generated**: 2026-02-25
-
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
@@ -467,6 +461,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Write article on valence as selection currency
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The emotion-as-evidence article identifies valence as a candidate for the "currency" of conscious selection. Deserves development: how might felt goodness/badness function as the dimension along which consciousness biases quantum outcomes? What would a psychophysical law relating valence to selection look like? Builds on emotion-as-evidence-for-dualism.md, attention-as-selection-interface.md, phenomenal-value-realism.md. See optimistic-2026-02-25-evening.md
+- **Output**: valence as selection currency
 
 ### ✓ 2026-03-11: Write article on biological teleology and the interface framework
 - **Type**: expand-topic
