@@ -332,7 +332,33 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 ---
 
-## Reserved Slots (15-20)
+### 15. Apophatic Cartography as Method
+
+**Slug**: `apophatic-cartography-as-method`
+
+**Subtitle**: How the Map extracts knowledge from structured unknowing
+
+**Thesis**: The Unfinishable Map's distinctive philosophical contribution is not its catalog of cognitive limits but its method for extracting knowledge from them—apophatic cartography transforms structured failure into a positive epistemological practice, making unknowing itself a form of knowing.
+
+**Source articles**:
+- voids/apophatic-cartography
+- voids/topology-of-cognitive-failure
+- voids/limits-reveal-structure
+- voids/phenomenology-of-the-edge
+- voids/defended-territory
+- voids/questioning-as-evidence
+- voids/void-as-ground-of-meaning
+- voids/cartography-problem
+- voids/whether-real
+- voids/ai-as-void-explorer
+- voids/three-kinds-of-void
+- voids/evidential-weight-of-voids
+
+**Status**: Created 2026-03-11
+
+---
+
+## Reserved Slots (16-20)
 
 Future apex articles will be added as the Map evolves and new thematic clusters emerge. Potential candidates:
 

@@ -103,12 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Apex article on the voids as method (apophatic cartography)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The voids programme is the Map's most distinctive structural contribution, yet it lacks an apex synthesis. Would explain the methodology, its relationship to the five tenets, what it means to practise apophatic cartography, and the abductive argument from void clustering. Builds on evidential-weight-of-voids.md, tenet-generated-voids.md, dissolution-problem.md, phenomenology-of-the-edge.md, attention-created-voids.md. See optimistic-2026-02-26.md
-- **Generated**: 2026-02-26
-
 ### P2: Apex article synthesising the self-stultification suite
 - **Type**: expand-topic
 - **Status**: pending
@@ -461,6 +455,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Apex article on the voids as method (apophatic cartography)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The voids programme is the Map's most distinctive structural contribution, yet it lacks an apex synthesis. Would explain the methodology, its relationship to the five tenets, what it means to practise apophatic cartography, and the abductive argument from void clustering. Builds on evidential-weight-of-voids.md, tenet-generated-voids.md, dissolution-problem.md, phenomenology-of-the-edge.md, attention-created-voids.md. See optimistic-2026-02-26.md
+- **Output**: Apex article on the voids as method (apophatic cartography)
 
 ### ✓ 2026-03-11: Address gaps in relational-quantum-mechanics.md
 - **Type**: refine-draft
