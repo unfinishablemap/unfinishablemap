@@ -4,7 +4,7 @@ description: "Cumulative culture requires metarepresentation—representing know
 created: 2026-01-21
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-04T22:18:50+00:00
+ai_modified: 2026-03-11T23:07:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -12,7 +12,6 @@ topics:
 concepts:
   - "[[teaching-as-metarepresentation]]"
   - "[[jourdain-hypothesis]]"
-  - "[[metacognition]]"
   - "[[metacognition]]"
   - "[[consciousness-as-amplifier]]"
   - "[[working-memory]]"
@@ -31,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-21
 last_curated: null
-last_deep_review: 2026-02-05T03:09:00+00:00
+last_deep_review: 2026-03-11T23:07:00+00:00
 ---
 
 Cumulative culture is the ratchet effect whereby each generation builds on the innovations of previous generations, producing knowledge and technology that no individual could create alone. Humans alone achieve it. Great apes have culture—tool-use traditions, grooming patterns, food preferences that vary between groups—but their cultural knowledge remains stable across generations rather than accumulating. The Unfinishable Map proposes that cumulative culture requires [[metacognition|metarepresentation]]—representing your knowledge as knowledge, your practices as practices—and that metarepresentation requires phenomenal consciousness. If correct, cumulative culture provides strong evidence for the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: consciousness doesn't merely accompany human cognition but causally enables our most distinctive achievement.
@@ -112,7 +111,7 @@ To represent your knowledge as knowledge, you must take yourself as object. The 
 
 ### The Binding Requirement
 
-Metarepresentational tasks load heavily on [[working-memory|working memory]]. Holding a representation, a representation of that representation, and their relationship simultaneously requires the expanded working memory capacity that distinguishes humans (7±2 items) from great apes (2±1 items). If working memory depends on conscious access—as [[global-workspace-theory|Global Workspace Theory]] proposes—metarepresentation inherits this dependence.
+Metarepresentational tasks load heavily on [[working-memory|working memory]]. Holding a representation, a representation of that representation, and their relationship simultaneously requires the expanded working memory capacity that distinguishes humans (~4 items in Cowan's updated estimate, more with chunking) from great apes (~2 items). If working memory depends on conscious access—as [[global-workspace-theory|Global Workspace Theory]] proposes—metarepresentation inherits this dependence.
 
 ### The Phenomenology of Knowing-That-You-Know
 
@@ -152,9 +151,7 @@ This response faces several difficulties:
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy illuminates why cumulative culture might require consciousness. For Whitehead, each actual occasion involves "prehension"—feeling the relevance of past occasions. Human cultural transmission exemplifies high-grade prehension: we don't merely respond to what predecessors did but feel the meaning and purpose of their innovations, grasping them as achievements to be extended.
-
-This feeling of cultural inheritance cannot be merely computational. A computer processes data about previous states but cannot *feel* the meaning of cultural tradition—why this technique matters, what improving it would mean. Cumulative culture requires this felt inheritance, which requires conscious subjects capable of prehending meaning.
+Alfred North Whitehead's process philosophy illuminates why cumulative culture might require consciousness. For Whitehead, each actual occasion involves "prehension"—feeling the relevance of past occasions. Human cultural transmission exemplifies high-grade prehension: we don't merely respond to what predecessors did but feel the meaning and purpose of their innovations, grasping them as achievements to be extended. A computer processes data about previous states but cannot *feel* why a technique matters or what improving it would mean. Cumulative culture requires this felt inheritance, which requires conscious subjects capable of prehending meaning.
 
 ## Buddhist Contemplative Perspective
 
@@ -206,10 +203,9 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 
 - [[teaching-as-metarepresentation]] — Why teaching requires consciousness and enables cultural ratcheting
 - [[jourdain-hypothesis]] — The Molière-inspired metaphor for procedural vs declarative metacognition
-- [[metacognition|metarepresentation]] — Why knowing-that-you-know may require consciousness
+- [[metacognition]] — Metarepresentation: why knowing-that-you-know may require consciousness
 - [[consciousness-as-amplifier]] — How consciousness enhances cognitive capacity
 - [[concept-of-consciousness-and-social-cognition]] — Consciousness and the social cognition that cultural transmission requires
-- [[metacognition]] — The enabling relation between consciousness and self-monitoring
 - [[animal-consciousness]] — The great ape comparison in depth
 - [[evolution-of-consciousness]] — Why consciousness evolved
 - [[working-memory]] — The capacity constraints on metarepresentation
@@ -221,6 +217,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 ## References
 
 1. Boyd, R., & Richerson, P.J. (1996). Why culture is common, but cultural evolution is rare. *Proceedings of the British Academy*, 88, 77-93.
+1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. Dean, L.G., et al. (2012). Identification of the social and cognitive processes underlying human cumulative culture. *Science*, 335(6072), 1114-1118.
 1. Henrich, J. (2015). *The Secret of Our Success: How Culture Is Driving Human Evolution*. Princeton University Press.
 1. Tennie, C., Call, J., & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405-2415.
