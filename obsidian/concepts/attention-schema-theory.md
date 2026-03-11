@@ -4,7 +4,7 @@ description: "Graziano's theory proposes consciousness is the brain's model of i
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-03T22:42:00+00:00
+ai_modified: 2026-03-11T19:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -233,6 +233,7 @@ AST illustrates a recurring pattern in consciousness science: explaining the *fu
 - [[introspection]] — First-person methods and their reliability
 - [[haecceity]] — The indexical identity problem AST cannot address
 - [[mental-effort]] — The phenomenology AST must explain away
+- [[metaproblem-of-consciousness-under-dualism]] — How AST's meta-problem answer exposes illusionism's escalating burden
 - [[decoherence]] — The quantum objection (which AST sidesteps but doesn't refute)
 
 ## References

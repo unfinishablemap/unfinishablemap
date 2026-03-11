@@ -4,7 +4,7 @@ description: "Consciousness as causally inert byproduct. Self-stultification pro
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-03-11T19:05:00+00:00
+ai_modified: 2026-03-11T19:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -97,7 +97,7 @@ As the Map's tenets put it:
 
 > If consciousness were truly epiphenomenal, then our beliefs *about* consciousness would be causally disconnected from our actual conscious states. Our reports about the redness of red or the painfulness of pain would be produced by brain states that have no causal connection to the experiences themselves.
 
-This makes epiphenomenalism epistemically self-undermining. Not logically contradictory—it could still be true—but impossible to hold rationally. Any evidence you might have for epiphenomenalism can only reach your beliefs through causally inert consciousness, which (if epiphenomenalism is true) means it doesn't reach them at all.
+This makes epiphenomenalism epistemically self-undermining. Not logically contradictory—it could still be true—but impossible to hold rationally. Any evidence you might have for epiphenomenalism can only reach your beliefs through causally inert consciousness, which (if epiphenomenalism is true) means it doesn't reach them at all. The [[metaproblem-of-consciousness-under-dualism|metaproblem of consciousness]] provides another angle: epiphenomenalism is uniquely vulnerable to the debunking argument because the zombie philosopher writes the same papers about the hard problem, and the accuracy of our problem intuitions becomes coincidental—a fatal weakness that interactionism avoids.
 
 ### The AI Exception: Some vs. All
 
@@ -210,6 +210,7 @@ The self-stultification problem remains the strongest objection for human consci
 - [[pain-consciousness-and-causal-power]] — Why pain is the hardest case for epiphenomenalism: felt awfulness inseparable from motivational force
 - [[mental-causation]] — The problem epiphenomenalism claims to solve
 - [[causal-closure]] — The principle that motivates epiphenomenalism
+- [[metaproblem-of-consciousness-under-dualism]] — The metaproblem as another route to rejecting epiphenomenalism
 - [[interactionist-dualism]] — The Map's alternative framework
 - [[language-and-consciousness]] — Grice's theory of meaning strengthens the case against epiphenomenalism
 - [[value-blind-vs-value-sensitive-selection]] — Value-blind selection risks making the evaluative dimension of consciousness epiphenomenal

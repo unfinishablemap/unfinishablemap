@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
-last_deep_review: 2026-03-11T11:10:00+00:00
+last_deep_review: 2026-03-11T19:22:00+00:00
 ---
 
 Interactionist dualism has a structural advantage on the [[meta-problem-of-consciousness|metaproblem of consciousness]] that other positions lack. The metaproblem—why do we *think* consciousness poses a hard problem?—threatens physicalists and epiphenomenalists alike. But if consciousness causally contributes to the reasoning that generates problem intuitions, then those intuitions are not merely coincidentally accurate. They are informed by direct acquaintance with their subject matter. This article argues that interactionism converts the metaproblem from a threat into evidence for dualism.

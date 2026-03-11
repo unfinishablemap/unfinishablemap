@@ -4,7 +4,7 @@ description: "Under dualism, 'evolution of consciousness' is ambiguous: does con
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-11T10:32:00+00:00
+ai_modified: 2026-03-11T19:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -126,6 +126,7 @@ The Map does not commit to a single model. Each captures something important abo
 - [[filter-theory]] — The transmission/filter model of consciousness
 - [[psychophysical-laws]] — Laws governing consciousness-matter relationships
 - [[comparative-consciousness-and-interface-differences]] — How the interface varies across species
+- [[metaproblem-of-consciousness-under-dualism]] — The metaproblem as a specific instance: consciousness improves philosophical reasoning about itself
 - [[animal-consciousness]] — Which creatures are conscious
 
 ## References

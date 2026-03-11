@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate metaproblem-of-consciousness-under-dualism.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created today but not yet linked from related articles. Add cross-references from meta-problem-of-consciousness.md, self-stultification.md, illusionism.md, and consciousness-and-causal-powers.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-11
-
 ### P3: Deep review dissolution-problem.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-25, never reviewed. Voids article on the dissolution problem — whether voids dissolve under sufficient analysis. Core methodological question for the voids programme. Verify coherence, cross-references, and tenet alignment.
@@ -438,6 +432,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Integrate metaproblem-of-consciousness-under-dualism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created today but not yet linked from related articles. Add cross-references from meta-problem-of-consciousness.md, self-stultification.md, illusionism.md, and consciousness-and-causal-powers.md.
+- **Output**: obsidian/topics/metaproblem-of-consciousness-under-dualism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-11: Integrate philosophy-of-emotion-under-dualism.md into site navigation
 - **Type**: integrate-orphan

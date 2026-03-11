@@ -4,7 +4,7 @@ description: "If thoughts are fully explained by physical causes, no belief is r
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-11T19:22:00+00:00
 draft: false
 last_deep_review: 2026-03-05T08:13:00+00:00
 topics:
@@ -157,6 +157,7 @@ The physicalist might respond: "What's the difference? If the outputs match corr
 - [[motor-selection]] - How attention selects among motor possibilities, paralleling intellectual selection
 - [[self-stultification]] - The structure of positions that undermine their own rational grounds
 - [[reasons-responsiveness]] - The capacity to track normative relationships central to the argument
+- [[metaproblem-of-consciousness-under-dualism]] - The metaproblem argument: consciousness must causally contribute to our philosophical reasoning about it
 - [[epistemic-advantages-of-dualism]] - Why positions that cannot be rationally held are epistemically self-defeating
 
 ## References
