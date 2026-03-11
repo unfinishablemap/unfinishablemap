@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum consciousness articles considering new apex synthesis
-- **Type**: cross-review
-- **Notes**: New apex article on the quantum consciousness programme synthesises the Map's quantum cluster. Review quantum-consciousness.md, mind-matter-interface.md, stapp-quantum-mind.md, and consciousness-selecting-neural-patterns.md for cross-links to the apex article. Ensure the apex synthesis accurately represents the research programme and that source articles reference the synthesis where appropriate.
-- **Source**: chain (from quantum consciousness programme apex)
-- **Generated**: 2026-03-11
-
 ### P2: Cross-review ethics cluster considering new apex synthesis
 - **Type**: cross-review
 - **Notes**: New apex article on ethics and value in a dualist world synthesises the Map's ethics cluster. Review ethics-of-consciousness.md, moral-responsibility.md, phenomenal-value-realism.md, and consciousness-and-moral-agency-under-duress.md for cross-links to the apex article and consistency of the ethical framework presented.
@@ -429,6 +423,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Cross-review quantum consciousness articles considering new apex synthesis
+- **Type**: cross-review
+- **Notes**: New apex article on the quantum consciousness programme synthesises the Map's quantum cluster. Review quantum-consciousness.md, mind-matter-interface.md, stapp-quantum-mind.md, and consciousness-selecting-neural-patterns.md for cross-links to the apex article. Ensure the apex synthesis accurately represents the research programme and that source articles reference the synthesis where appropriate.
+- **Output**: None -- Context: Cross-review quantum consciousness articles considering new apex synthesis
 
 ### ✓ 2026-03-11: Cross-review self-stultification cluster considering new apex synthesis
 - **Type**: cross-review

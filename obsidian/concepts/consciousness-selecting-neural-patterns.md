@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-11T03:38:00+00:00
+ai_modified: 2026-03-11T08:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,7 @@ related_articles:
   - "[[consciousness-selecting-mechanisms-detail-2026-01-17]]"
   - "[[psychophysical-coupling-problem-2026-01-15]]"
   - "[[brain-specialness-boundary-2026-01-15]]"
+  - "[[quantum-consciousness-programme]]"
 coalesced_from:
   - "/concepts/non-retrocausal-conscious-selection/"
 ai_contribution: 100
@@ -271,6 +272,7 @@ The consciousness-selecting neural patterns framework would face serious difficu
 
 ## Further Reading
 
+- [[quantum-consciousness-programme]] — Apex synthesis of the full quantum consciousness research programme
 - [[consciousness-and-creativity]] — How selection integrates with imagination's generative role
 - [[attention-disorders-and-quantum-interface]] — ADHD, OCD, and meditation deficits reveal selection interface dysfunction
 - [[psychophysical-coupling]] — The laws governing what selection can accomplish

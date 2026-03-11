@@ -4,7 +4,7 @@ description: "A two-layer architecture unifying filter theory and quantum select
 created: 2026-01-16
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-08T13:31:00+00:00
+ai_modified: 2026-03-11T08:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[mind-brain-separation]]"
+  - "[[quantum-consciousness-programme]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -187,6 +188,7 @@ This unified model is the Map's most complete answer to how consciousness relate
 
 ## Further Reading
 
+- [[quantum-consciousness-programme]] — Apex synthesis of the full quantum consciousness research programme
 - [[filter-theory]] — The transmission model in detail (James, Bergson, Huxley)
 - [[quantum-consciousness]] — Quantum selection mechanisms (Stapp, Orch OR)
 - [[concepts/consciousness-selecting-neural-patterns]] — How selection operates concretely
