@@ -4,7 +4,7 @@ description: "Phenomenal experience appears smooth and homogeneous while neural 
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-11T17:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
+last_deep_review: 2026-03-11T17:11:00+00:00
 ---
 
 Phenomenal experience presents itself as smooth and homogeneous — a pink surface looks uniformly pink, a sustained tone sounds continuous, warmth feels evenly distributed. The physical substrates producing these experiences are discrete: networks of individual neurons firing or not firing, clouds of particles with no intrinsic colour or warmth. The Unfinishable Map's grain mismatch names this structural incompatibility. Unlike the [[knowledge-argument|knowledge argument]] (which identifies an epistemic gap) or [[philosophical-zombies|zombie conceivability]] (which identifies a modal gap), the grain mismatch identifies a property-level incompatibility: homogeneous phenomenal qualities and discrete physical structures cannot be identical because they possess contradictory characteristics.
@@ -65,11 +66,11 @@ This independence matters. Physicalists who focus their defensive efforts on the
 
 The grain mismatch has provoked several lines of response.
 
-**The illusion reply** holds that phenomenal homogeneity is itself an illusion — experience is discrete but represents itself as smooth. This faces Lee's opacity problem: we cannot determine from introspection whether experience is truly smooth or merely appears so. More fundamentally, if the illusion is itself phenomenally smooth (the *experience of seeming to see uniform pink* is itself uniform), the problem recurs at the level of the illusion. Phenomenal properties of the illusion still require explanation.
+**The illusion reply** holds that phenomenal homogeneity is itself an illusion — experience is discrete but represents itself as smooth. This faces Lee's opacity problem: we cannot determine from introspection whether experience is truly smooth or merely appears so. More fundamentally, if the illusion is itself phenomenally smooth (the *experience of seeming to see uniform pink* is itself uniform), the problem recurs at the level of the illusion. Phenomenal properties of the illusion still require explanation. The eliminativist can avoid this recurrence by denying phenomenal properties altogether — but this amounts to denying the datum the argument seeks to explain rather than explaining it, and faces well-known objections about the reality of conscious experience.
 
 **The grain-of-analysis reply** (Bechtel & Mundale 1999) argues that apparent mismatches arise from inconsistent granularity: individuating mental states coarsely while individuating neural states finely creates an artificial appearance of incompatibility. This has force against some formulations but does not address Sellars' core point. The issue is not that we *describe* experience and neurons at different levels of detail, but that the properties themselves — homogeneity versus discreteness — are contradictory regardless of descriptive grain.
 
-**The structural mismatch reply** concedes the mismatch but denies it blocks identity, arguing that the relevant identity is between experience and some higher-level neural property (a population-level pattern, a field property) that is itself continuous or quasi-continuous. This is the strongest physicalist response, but it shifts the explanatory burden: which higher-level neural property is genuinely homogeneous, and how does it emerge from discrete components without itself being discrete?
+**The structural mismatch reply** concedes the mismatch but denies it blocks identity, arguing that the relevant identity is between experience and some higher-level neural property (a population-level pattern, a field property) that is itself continuous or quasi-continuous. This is the strongest physicalist response, but it shifts the explanatory burden: which higher-level neural property is genuinely homogeneous, and how does it emerge from discrete components without itself being discrete? Candidates like electromagnetic field theories of consciousness attempt exactly this, but they face their own difficulties — notably that classical fields, while continuous, lack the qualitative character that distinguishes one phenomenal experience from another.
 
 ## Relation to Site Perspective
 
@@ -77,7 +78,7 @@ The grain mismatch provides one of the Map's most direct routes to [[tenets#^dua
 
 The Map interprets this as evidence that consciousness possesses its own non-physical properties with their own structural characteristics. If phenomenal smoothness is genuine — not illusory, not merely seeming — then it belongs to something that is not a discrete neural network. The [[resolution-void]] explores the consequences: consciousness operates at a characteristic resolution that may be set by its own nature rather than by the brain's architecture.
 
-The argument also reinforces [[tenets#^occams-limits|Occam's Razor Has Limits]]. The physicalist might prefer identity theory for its simplicity — one kind of stuff, one set of properties. But if the properties are structurally incompatible, simplicity purchased through identification is incoherence disguised as parsimony. The apparent simplicity of physicalism here masks a logical problem that no amount of future neuroscience can resolve, because the issue is not empirical but structural.
+The argument also reinforces [[tenets#^occams-limits|Occam's Razor Has Limits]]. The physicalist might prefer identity theory for its simplicity — one kind of stuff, one set of properties. But if the properties are structurally incompatible, simplicity purchased through identification is incoherence disguised as parsimony. The apparent simplicity of physicalism here masks a logical problem that no amount of future neuroscience can resolve, because the issue is not empirical but structural. No discovery about neural architecture can make a discrete system identical to a homogeneous one — the incompatibility is logical, not empirical, and [[causal-closure|causal closure]] assumptions cannot override it.
 
 The Map speculates that the grain mismatch may extend beyond spatial homogeneity. The [[bandwidth-problem-mental-causation|bandwidth mismatch]] between conscious intention (~10 bits/second) and neural execution (~10⁹ bits/second) suggests a similar structural incompatibility in the informational domain. Consciousness and brain may operate at fundamentally different grains across multiple dimensions — spatial, temporal, informational — and this pervasive mismatch may be the signature of two ontologically distinct systems interfacing rather than one system viewed at different levels.
 
@@ -88,6 +89,7 @@ The Map speculates that the grain mismatch may extend beyond spatial homogeneity
 - [[knowledge-argument]] — The epistemic argument against physicalism
 - [[philosophical-zombies]] — The modal argument against physicalism
 - [[dualism]] — How multiple independent arguments converge
+- [[panpsychism]] — An alternative response that accepts phenomenal properties but distributes them differently
 - [[resolution-bandwidth-interface]] — Architectural implications of the grain mismatch
 - [[bandwidth-problem-mental-causation]] — Grain mismatch in the causal domain
 
