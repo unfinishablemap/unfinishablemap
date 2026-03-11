@@ -4,7 +4,7 @@ description: "Do humans naturally separate mind from body? Evidence is mixed—b
 created: 2026-01-19
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-11T23:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-02-06T14:22:00+00:00
+last_deep_review: 2026-03-11T23:25:00+00:00
 ---
 
 Cognitive science has investigated whether humans naturally think of minds and bodies as distinct—and the evidence is more complex than either side of the dualism debate typically acknowledges. Paul Bloom argued we are "natural-born dualists," processing minds and bodies through separate cognitive systems from infancy. But cross-cultural research challenges this: Barrett et al. (2021) found most people across diverse cultures default to **intuitive materialism**, expecting mental states to cease at death. The debate illuminates human psychology without settling the metaphysical question—cognitive naturalness doesn't determine truth.
@@ -129,7 +129,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] sp
 
 ### Bidirectional Interaction
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] receives indirect support: if consciousness were epiphenomenal, why invest neural resources modeling something that doesn't affect behaviour? The existence of folk psychology suggests minds have causal efficacy worth tracking. The direct evidence comes from [[attention-as-interface|voluntary attention]] and studies like Schwartz's OCD research showing mindful attention changing brain activity.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] receives indirect support: if consciousness were epiphenomenal, why invest neural resources modeling something that doesn't affect behaviour? The existence of folk psychology suggests minds have causal efficacy worth tracking. The direct evidence comes from [[attention-as-interface|voluntary attention]] and studies like Schwartz et al.'s OCD research showing directed mental effort producing measurable changes in brain activity (Schwartz et al., 2005).
 
 ### No Many Worlds
 
@@ -164,4 +164,5 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] receives the most d
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). "Quantum physics in neuroscience and psychology: a neurophysical model of mind-brain interaction." *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Fox, K. C. R., et al. (2012). "Meditation experience predicts introspective accuracy." *PLOS One*, 7(9), e45370.

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review intuitive-dualism.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-06 — 33 days ago. Concept page on intuitive dualism — the natural human tendency toward dualist thinking. Relevant to Tenet 1 (Dualism) and the Map's argument from convergence. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P2: Condense whether-real.md (3002 words, 100% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3000-word hard threshold for voids/. Preserve core arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
@@ -545,6 +539,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Deep review intuitive-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-06 — 33 days ago. Concept page on intuitive dualism — the natural human tendency toward dualist thinking. Relevant to Tenet 1 (Dualism) and the Map's argument from convergence. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/intuitive-dualism.md
 
 ### ✓ 2026-03-11: Deep review evolution-of-consciousness.md
 - **Type**: deep-review

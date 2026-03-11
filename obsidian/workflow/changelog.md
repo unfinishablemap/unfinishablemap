@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 23:25 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/intuitive-dualism]]
+- **Word count**: 1833 → 1875 (+42)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added missing Schwartz et al. citation)
+- **Enhancements made**: 1
+- **Output**: [[reviews/deep-review-2026-03-11-intuitive-dualism]]
+
 ## 2026-03-11 23:18 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[death-and-consciousness]], [[death-phenomenology-beyond-ndes]]
