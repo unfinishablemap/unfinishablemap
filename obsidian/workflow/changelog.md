@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 17:30 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: consciousness-and-normative-authority.md (archived)
+- **Reason**: File was archived on 2026-02-20 and superseded by consciousness-and-the-grounds-of-normative-authority, which was itself archived on 2026-03-04 and superseded by [[topics/consciousness-and-normative-force]]. Orphan status is expected for archived content — the live successor is well-integrated with extensive cross-links. Removed invalid integrate-orphan task from queue.
+
 ## 2026-03-11 17:25 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 422 articles (221 topics, 201 concepts, 1 tenets). Focus on ethics, aesthetics, identity, language, and empirical evidence clusters.
