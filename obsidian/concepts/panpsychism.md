@@ -4,7 +4,7 @@ description: "The view that consciousness is fundamental and ubiquitous in natur
 created: 2026-01-08
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-11T17:14:00+00:00
+ai_modified: 2026-03-11T17:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-08
 last_curated: null
-last_deep_review: 2026-02-01T03:18:00+00:00
+last_deep_review: 2026-03-11T17:46:00+00:00
 ---
 
 Panpsychism holds that consciousness is a fundamental and ubiquitous feature of reality—all matter has some experiential quality. An electron doesn't merely have mass and charge; it has something it's like to be that electron. This view has experienced a resurgence in contemporary philosophy of mind, championed by thinkers like Galen Strawson and Philip Goff.
@@ -189,8 +189,7 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 - [[combination-problem]] — The central challenge facing panpsychism
 - [[russellian-monism]] — The most developed theoretical framework for panpsychism
 - [[process-philosophy]] — Whitehead's framework where experience is fundamental to actuality
-- [[idealism]] — Broader treatment of idealist positions and comparison with the Map's dualism
-- [[idealism]] — An alternative anti-physicalist view that claims to avoid the combination problem
+- [[idealism]] — Broader treatment of idealist positions, including analytic idealism as an alternative that claims to avoid the combination problem
 - [[analytic-idealism-and-mind-centric-metaphysics]] — Comparative survey of mind-centric frameworks including panpsychism, idealism, and dualism
 - [[buddhism-and-dualism]] — Buddhist no-self perspectives on subjects and experience
 - [[mysterianism]] — Whether the combination problem exceeds cognitive limits
