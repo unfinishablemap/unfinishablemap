@@ -121,12 +121,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Write article on the resolution-bandwidth interface
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The resolution void quantifies what consciousness cannot access; the bandwidth problem formalises the challenge for mental causation; but no article unifies these into an account of why the coarseness of consciousness is architecturally necessary for its causal role. A ten-bit-per-second controller is a different kind of system operating at a different level. See [[reviews/optimistic-2026-03-01]]
-- **Generated**: 2026-03-01
-
 ### P2: Write concept page for grain mismatch
 - **Type**: expand-topic
 - **Status**: pending
@@ -417,6 +411,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Write article on the resolution-bandwidth interface
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The resolution void quantifies what consciousness cannot access; the bandwidth problem formalises the challenge for mental causation; but no article unifies these into an account of why the coarseness of consciousness is architecturally necessary for its causal role. A ten-bit-per-second controller is a different kind of system operating at a different level. See [[reviews/optimistic-2026-03-01]]
+- **Output**: the resolution-bandwidth interface
 
 ### ✓ 2026-03-11: Write apex article on the quantum consciousness programme
 - **Type**: expand-topic
