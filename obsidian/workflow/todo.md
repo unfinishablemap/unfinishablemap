@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review attention-as-interface.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Core concept page on attention as the mechanism through which consciousness interfaces with neural processes — directly relevant to the Map's central framework and Tenet 2 (Minimal Quantum Interaction). Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P2: Deep review interactionist-dualism.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Foundational concept page directly supporting Tenet 3 (Bidirectional Interaction). As a core tenet concept, quality and accuracy are critical. Verify coherence, cross-references, and tenet alignment.
@@ -533,6 +527,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Deep review attention-as-interface.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Core concept page on attention as the mechanism through which consciousness interfaces with neural processes — directly relevant to the Map's central framework and Tenet 2 (Minimal Quantum Interaction). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/attention-as-interface.md
 
 ### ✓ 2026-03-11: Address binding-as-undefined-primitive and citation issues in what-it-might-be-like-to-be-an-ai.md
 - **Type**: refine-draft
