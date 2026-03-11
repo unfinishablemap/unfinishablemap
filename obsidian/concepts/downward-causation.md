@@ -4,7 +4,7 @@ description: "Higher-level properties can causally influence lower-level process
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-02-25T10:58:00+00:00
+ai_modified: 2026-03-11T19:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -186,6 +186,7 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 
 ## Further Reading
 
+- [[content-specificity-of-mental-causation]] — Empirical evidence that the meaning of conscious states determines which physical effects occur
 - [[mental-causation]] — The philosophical problem downward causation addresses
 - [[selection-laws]] — The downward direction of psychophysical laws
 - [[causal-closure]] — The principle downward causation challenges

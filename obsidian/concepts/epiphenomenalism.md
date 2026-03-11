@@ -4,7 +4,7 @@ description: "Consciousness as causally inert byproduct. Self-stultification pro
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-03-08T02:29:00+00:00
+ai_modified: 2026-03-11T19:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -151,7 +151,7 @@ The epiphenomenalist must claim this correspondence is coincidence. This strains
 
 ### The Contemplative Neuroscience Evidence
 
-[[Contemplative-neuroscience|Contemplative neuroscience]] provides empirical evidence bearing on the epiphenomenalism debate. Meditation training produces measurable neuroplastic changes: cortical thickening, altered network connectivity, modulated default mode activity. The *content* of conscious intention matters—compassion meditation produces different neural changes than focused attention meditation. The *quality* of phenomenological engagement (vivid vs. dull attention) predicts outcomes.
+[[Contemplative-neuroscience|Contemplative neuroscience]] provides empirical evidence bearing on the epiphenomenalism debate. Meditation training produces measurable neuroplastic changes: cortical thickening, altered network connectivity, modulated default mode activity. The *content* of conscious intention matters—compassion meditation produces different neural changes than focused attention meditation. The *quality* of phenomenological engagement (vivid vs. dull attention) predicts outcomes. This is an instance of [[content-specificity-of-mental-causation|content-specificity]]—the broader empirical pattern where the *meaning* of a conscious state determines *which* physical effect occurs, visible across placebo effects, skilled performance, pain experience, and creative cognition.
 
 Studies distinguish between willed attention and instructed attention, finding distinct neural signatures. The epiphenomenalist will respond that these are just brain states causing other brain states—the phenomenal difference is a byproduct, not a cause. But this requires explaining why causally inert qualia systematically track brain states with such precision.
 

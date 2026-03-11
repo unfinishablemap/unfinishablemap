@@ -4,7 +4,7 @@ description: "Epiphenomenalism isn't just one view among many—it's the default
 created: 2026-02-22
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-11T19:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -61,7 +61,7 @@ Non-reductive physicalists have responded with proposals about causal overdeterm
 
 [[concepts/functionalism|Functionalism]] defines mental states by their causal roles—what they do rather than what they are made of. Pain is whatever state is caused by tissue damage, causes distress, and prompts avoidance behavior. This seems to guarantee causal efficacy: mental states are *defined* as causally active.
 
-The threat enters through qualia. If there is [[pain-consciousness-and-causal-power|something it is like to be in pain]]—a felt quality beyond the functional role—then functionalism faces a question: does the felt quality contribute causally, or does the functional role do all the work?
+The threat enters through qualia. If there is [[pain-consciousness-and-causal-power|something it is like to be in pain]]—a felt quality beyond the functional role—then functionalism faces a question: does the felt quality contribute causally, or does the functional role do all the work? The [[content-specificity-of-mental-causation|content-specificity]] evidence sharpens this: different conscious beliefs about the same pill produce different neurochemical cascades, and the physical outcome tracks the *meaning* of the belief with striking granularity. Functionalism explains why different representations activate different pathways; what it doesn't explain is why the qualitative character of these representations tracks the causal profile so precisely.
 
 The absent qualia thought experiment sharpens the problem. If a system could play all the right functional roles without any felt experience, then experience is not part of the functional story. It is an extra feature—present when certain functional roles are played, but doing no functional work itself. This is epiphenomenalism about qualia, even within a framework designed to ensure mental causation.
 
@@ -171,6 +171,7 @@ The Map's framework is one of the few that provides all three elements needed to
 - [[psychophysical-coupling]] — What coupling between mind and matter requires
 - [[evolutionary-case-for-mental-causation]] — Why evolution requires consciousness to be causally efficacious
 - [[pain-consciousness-and-causal-power]] — Pain as the hardest case for epiphenomenalism: felt awfulness inseparable from motivation
+- [[content-specificity-of-mental-causation]] — The systematic mapping between meaning and physical effect that epiphenomenalism cannot explain
 - [[dualism]] — The broader argument for taking consciousness as irreducible
 
 ## References

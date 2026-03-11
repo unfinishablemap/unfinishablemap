@@ -4,7 +4,7 @@ description: "Fundamental principles specifying how conscious states influence w
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-03-09T16:26:00+00:00
+ai_modified: 2026-03-11T19:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -61,7 +61,7 @@ A complete selection law would answer:
 
 **4. Scope constraints**: What is *not* selectable? External quantum systems, others' brains, events outside attention—selection operates through the brain's representational interface.
 
-Without answers to these questions, "consciousness selects" remains metaphorical rather than scientific. The [[the-interface-specification-problem|interface specification problem]] examines the epistemic challenges of answering them.
+Without answers to these questions, "consciousness selects" remains metaphorical rather than scientific. The [[the-interface-specification-problem|interface specification problem]] examines the epistemic challenges of answering them. The [[content-specificity-of-mental-causation|content-specificity]] evidence constrains what selection laws must accommodate: empirically, the *meaning* of a conscious state determines *which* physical effect occurs with striking granularity—different placebo beliefs produce different neurochemical cascades, and finer distinctions in conscious content produce correspondingly finer distinctions in physiological response.
 
 ## Why Quantum Selection?
 
@@ -158,6 +158,7 @@ None of these currently succeeds, but they mark conditions under which the frame
 - [[the-psychophysical-control-law]] — Formal approaches to the control relationship
 - [[stapp-quantum-mind]] — The attention-observation mechanism in detail
 - [[concepts/epiphenomenalism]] — The view selection laws are designed to avoid
+- [[content-specificity-of-mental-causation]] — Empirical evidence that meaning determines which physical outcome occurs—what selection laws must explain
 - [[topics/free-will]] — How selection laws provide a mechanism for libertarian free will
 - [[valence-as-selection-currency]] — How valence may function as the evaluative currency for selection
 - [[agent-causation]] — Genuine authorship through mental selection

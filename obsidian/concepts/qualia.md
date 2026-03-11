@@ -4,7 +4,7 @@ description: "The intrinsic, subjective qualities of conscious experience—the 
 created: 2026-01-07
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-03-08T00:03:00+00:00
+ai_modified: 2026-03-11T19:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ Qualia are closely related to [[phenomenal-consciousness]]—the "what it's like
 
 ## Why Qualia Matter
 
-Qualia sit at the heart of the [[hard-problem-of-consciousness|hard problem of consciousness]]. We can explain the neurological processes that detect light wavelengths, but no amount of neurological detail tells us *why* there is something it is like to see red rather than nothing at all. The explanatory gap between physical description and subjective experience remains unbridged. [[emotional-consciousness|Emotional valence]]—the felt badness of pain and goodness of pleasure—provides perhaps the starkest case, and grounds [[concept-of-phenomenal-value-realism|phenomenal value realism]]'s claim that these felt qualities *constitute* intrinsic value rather than merely indicating it. Pain asymbolia patients prove that functional pain processing without the felt quality loses its motivational force—[[pain-consciousness-and-causal-power]] develops this as the hardest case for epiphenomenalism.
+Qualia sit at the heart of the [[hard-problem-of-consciousness|hard problem of consciousness]]. We can explain the neurological processes that detect light wavelengths, but no amount of neurological detail tells us *why* there is something it is like to see red rather than nothing at all. The explanatory gap between physical description and subjective experience remains unbridged. [[emotional-consciousness|Emotional valence]]—the felt badness of pain and goodness of pleasure—provides perhaps the starkest case, and grounds [[concept-of-phenomenal-value-realism|phenomenal value realism]]'s claim that these felt qualities *constitute* intrinsic value rather than merely indicating it. Pain asymbolia patients prove that functional pain processing without the felt quality loses its motivational force—[[pain-consciousness-and-causal-power]] develops this as the hardest case for epiphenomenalism. More broadly, [[content-specificity-of-mental-causation|content-specificity]] demonstrates that specific qualia produce specific causal consequences: different placebo beliefs trigger different neurochemical cascades, and the granularity of the mapping tracks the granularity of phenomenal content.
 
 Consider two scenarios:
 1. A neuroscientist gives a complete account of pain—nerve fibers, neurotransmitter release, brain regions activated

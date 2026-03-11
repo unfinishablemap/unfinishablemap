@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate content-specificity-of-mental-causation.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Content specificity of mental causation is relevant to the Map's arguments about consciousness causally influencing the physical world. Add cross-references from mental-causation.md, placebo-effect-and-mental-causation.md, and consciousness-and-causal-powers.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-11
-
 ### P2: Integrate philosophy-of-emotion-under-dualism.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created today but not yet linked from related articles. Add cross-references from emotional-consciousness.md, emotion-as-evidence-for-dualism.md, why-pain-hurts.md, and phenomenal-value-realism.md.
@@ -443,6 +437,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Integrate content-specificity-of-mental-causation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Content specificity of mental causation is relevant to the Map's arguments about consciousness causally influencing the physical world. Add cross-references from mental-causation.md, placebo-effect-and-mental-causation.md, and consciousness-and-causal-powers.md.
+- **Output**: obsidian/concepts/content-specificity-of-mental-causation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-11: Deep review emotional-epistemology-void.md
 - **Type**: deep-review

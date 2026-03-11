@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 19:05 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [[concepts/content-specificity-of-mental-causation]]
+- **Word count**: 1663 → 1663 (no change to target; cross-links added to 7 other articles)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status resolved)
+- **Enhancements made**: 7 inbound cross-links from mental-causation, epiphenomenalism, bidirectional-interaction, the-epiphenomenalist-threat, qualia, selection-laws, downward-causation
+- **Output**: [[reviews/deep-review-2026-03-11b-content-specificity-of-mental-causation]]
+
 ## 2026-03-11 19:00 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/emotional-epistemology-void]]

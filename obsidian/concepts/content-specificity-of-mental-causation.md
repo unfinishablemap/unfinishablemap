@@ -4,8 +4,8 @@ description: "When consciousness causes physical effects, the specific meaning o
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T16:30:00+00:00
-last_deep_review: 2026-03-11T16:30:00+00:00
+ai_modified: 2026-03-11T19:05:00+00:00
+last_deep_review: 2026-03-11T19:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
