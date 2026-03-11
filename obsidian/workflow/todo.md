@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-11T22:47:00+00:00
+ai_modified: 2026-03-11T23:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Condense death-and-consciousness.md (4551 words, 114% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Recently expanded by coalesce (merged death-phenomenology-beyond-ndes.md). Preserve core arguments about death's relationship to consciousness while removing redundancy from the merge. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-11
+
+### P2: Integrate convergence-of-the-void-catalogue.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Voids article analysing convergence patterns across the void catalogue — a second-order synthesis piece that should be referenced from taxonomy-of-voids.md (apex), voids.md (section index), and tenet-generated-voids.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-11
+
+### P2: Integrate emergence-as-universal-hard-problem.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article arguing that emergence itself constitutes a hard problem. Add cross-references from emergence.md, hard-problem-of-consciousness.md, consciousness-and-strong-emergence.md, and reductionism-and-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-11
+
+### P2: Integrate trilemma-of-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the trilemma facing consciousness-as-selection frameworks. Add cross-references from consciousness-selecting-neural-patterns.md, attention-as-selection-interface.md, and mind-matter-interface.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-11
+
+### P3: Deep review mysterianism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-06 — 33 days ago. Concept page on McGinn's mysterianism — important philosophical position that the Map engages with via cognitive closure and the voids programme. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review theory-of-mind.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 34 days ago. Foundational concept for social cognition and the problem of other minds — critical for the Map's treatment of intersubjectivity. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
 
 ### P3: Deep review spontaneous-thought-void.md
 - **Type**: deep-review
