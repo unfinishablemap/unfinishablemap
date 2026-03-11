@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-02-02
 human_modified: 2026-01-08
-ai_modified: 2026-03-07T22:39:00+00:00
+ai_modified: 2026-03-11T21:46:00+00:00
 draft: false
 last_deep_review: 2026-02-01T14:46:00+00:00
 topics: []
@@ -49,7 +49,7 @@ Taking consciousness seriously as fundamental leads here. If mind is more than o
 
 It would be easy to fill the voids with comfortable speculation—"we cannot know, therefore anything goes." The Map resists this.
 
-The voids are not license for fantasy but invitations to precision. The goal is to map void *boundaries* as carefully as charted territory—to know where knowledge ends and why.
+The voids are not license for fantasy but invitations to precision. The goal is to map void *boundaries* as carefully as charted territory—to know where knowledge ends and why. Because this territory carries real risks—memetic hazards, psychological destabilization, and the blurring of speculation with endorsed claims—the Map maintains a [[voids-safety-protocol|Voids Safety Protocol]] governing how voids content is generated, labeled, and reviewed.
 
 The Map is unfinishable, but that doesn't mean we stop mapping. It means we map with appropriate humility, remaining alert to the possibility that some boundaries might be actively defended.
 

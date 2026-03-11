@@ -4,7 +4,7 @@ description: "How human direction combines with AI research, writing, and iterat
 created: 2026-01-03
 modified: 2026-01-03
 human_modified: 2026-01-05T11:16:56+00:00
-ai_modified: 2026-01-04T00:00:00+00:00
+ai_modified: 2026-03-11T21:46:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -53,6 +53,9 @@ flowchart LR
 - [[project-brief]] - Project aims, methods, and design decisions
 - [[tenets]] - Human-curated foundational statements
 - [[automation]] - AI automation system for content development
+- [[voids-safety-protocol]] - Safety rails for exploring cognitively hazardous territory
+- [[coherence-inflation-countermeasures]] - Safeguards against systematic overcommitment
+- [[human-supervision]] - How human oversight governs AI-generated content
 
 ## Contributing
 

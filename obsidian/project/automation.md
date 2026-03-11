@@ -3,7 +3,7 @@ title: AI Automation System
 created: 2026-01-05
 modified: 2026-01-28
 human_modified: 2026-01-05T13:59:45+00:00
-ai_modified: 2026-01-28T12:00:00+00:00
+ai_modified: 2026-03-11T21:46:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -105,6 +105,8 @@ The AI picks the highest priority non-blocked task and executes it. All activity
 2. **Human prioritization**: Humans control the todo queue
 3. **Full logging**: Every action recorded in changelog
 4. **Authorship tracking**: AI edits marked with `ai_modified` timestamp
+5. **Voids safety protocol**: [[voids-safety-protocol|Dedicated safeguards]] for exploring cognitively hazardous territory
+6. **Coherence inflation countermeasures**: [[coherence-inflation-countermeasures|Systematic checks]] against overcommitment
 
 ## Running Locally
 

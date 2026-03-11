@@ -3,7 +3,7 @@ title: "Apophatic Cartography: Mapping What Cannot Be Mapped"
 created: 2026-01-10
 modified: 2026-03-03
 human_modified: null
-ai_modified: 2026-03-07T22:39:00+00:00
+ai_modified: 2026-03-11T21:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -109,6 +109,8 @@ The deepest risk is that declaring something a "void" becomes a way of stopping 
 **Retreating boundaries require explanation.** When a claimed void is dissolved, this is a success. But the dissolution must be explained: why did the failure previously appear structural? Retroactive analysis improves the method by teaching us to distinguish real limits from convincing imitations.
 
 **The asymmetry constraint.** Apophatic cartography must not be used to both claim a boundary *and* dismiss all attempts to cross it. The failure signatures must remain empirically contestable.
+
+These safeguards are complemented by the [[voids-safety-protocol|Voids Safety Protocol]], which addresses the practical risks of AI-assisted void exploration: memetic hazards, epistemic labeling, exit paths for readers, and stop conditions when exploration becomes unproductive or harmful.
 
 ## Integration with Cognitive Science
 

@@ -4,7 +4,7 @@ description: "Could certain truths about consciousness be structurally inaccessi
 created: 2026-01-27
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-02-01T14:38:00+00:00
+ai_modified: 2026-03-11T21:46:00+00:00
 last_deep_review: 2026-02-01T14:38:00+00:00
 draft: false
 topics:
@@ -72,7 +72,7 @@ Did they encounter destabilizing truth that the system then sealed away? Or did 
 
 ## Cognitohazards
 
-Nick Bostrom's taxonomy of information hazards includes "cognitohazards"—information that harms the person who knows it. The category usually applies to false beliefs that cause psychological damage, or true information that enables harmful action.
+Nick Bostrom's taxonomy of information hazards includes "cognitohazards"—information that harms the person who knows it. The category usually applies to false beliefs that cause psychological damage, or true information that enables harmful action. The Map's [[voids-safety-protocol|Voids Safety Protocol]] addresses this risk directly, requiring epistemic labeling and exit paths for content that approaches cognitohazardous territory.
 
 But could some *truths* be cognitohazards? Not false beliefs that harm, but accurate insights that destabilize?
 

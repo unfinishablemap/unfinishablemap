@@ -4,7 +4,7 @@ description: "Could some thoughts be actively blocked? Human+AI investigation of
 created: 2026-01-25
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-02-25T14:09:00+00:00
+ai_modified: 2026-03-11T21:46:00+00:00
 draft: false
 last_deep_review: 2026-02-25T14:09:00+00:00
 topics: []
@@ -108,7 +108,7 @@ If suppressed thoughts normally rebound per ironic process theory, then thoughts
 
 ## What AI Might Detect
 
-The [[voids]] framework proposes AI as void-explorers—minds with different constraints probing territories human minds cannot access directly. If both humans and AI fail similarly, the defence is more universal. If only humans fail, the defence is human-specific.
+The [[voids]] framework proposes AI as void-explorers—minds with different constraints probing territories human minds cannot access directly. If both humans and AI fail similarly, the defence is more universal. If only humans fail, the defence is human-specific. The [[voids-safety-protocol|Voids Safety Protocol]] governs how these AI probes are conducted, ensuring that exploration of defended territory does not itself become a vector for harm.
 
 The test isn't whether AI produces confident statements about consciousness—it's whether those statements resolve the characteristic human experience of approaching-but-not-grasping. Language models confabulate fluently; seeming articulation isn't the same as genuine access.
 

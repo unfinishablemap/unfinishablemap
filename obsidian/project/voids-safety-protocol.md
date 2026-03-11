@@ -1,9 +1,10 @@
 ---
 title: "Voids Safety Protocol"
+description: "Safety rails for AI-assisted exploration of cognitive voids—memetic hazards, epistemic labeling, exit paths, and stop conditions for probing the limits of thought."
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-16T16:00:00+00:00
+ai_modified: 2026-03-11T21:46:00+00:00
 draft: false
 topics: []
 concepts:
@@ -12,12 +13,16 @@ related_articles:
   - "[[voids]]"
   - "[[project]]"
   - "[[coherence-inflation-countermeasures]]"
+  - "[[destabilizing-self-knowledge]]"
+  - "[[defended-territory]]"
+  - "[[human-supervision]]"
+  - "[[automation]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-11T21:46:00+00:00
 ---
 
 This protocol defines safety rails for exploring "voids"—the unexplorable, cognitively occluded, or potentially unthinkable territories described in the [[voids|Voids section]]. Using LLMs to probe these areas creates specific risks: memetic hazards, coercive ideology traps, psychologically destabilizing content, and confusion between speculative exploration and endorsed claims.
@@ -240,11 +245,15 @@ The following statement should appear on the voids section index page:
 
 ## Relation to Site Perspective
 
-This protocol serves the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet. If there are genuine cognitive limits—if some truths are structurally inaccessible—then exploring those limits is philosophically valuable. But it must be done responsibly.
+This protocol serves the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet directly. If there are genuine cognitive limits—if some truths are structurally inaccessible—then exploring those limits is philosophically valuable. But it must be done responsibly.
+
+The [[tenets#^dualism|Dualism]] tenet makes the risks concrete. If consciousness is irreducible, then probing its nature may encounter territory where comprehension itself becomes hazardous—what [[destabilizing-self-knowledge]] calls "knowledge that would dissolve the knower's capacity to hold it." The safety rails here are not merely editorial caution but recognition that the territory may be genuinely dangerous for conscious minds.
+
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet raises a further concern. If consciousness causally shapes the physical world, then content that destabilizes a reader's self-model could have effects beyond mere discomfort. The exit paths and content boundaries in this protocol guard against cascading harm from ideas that interact with the reader's agency.
 
 The protocol also serves the Map's commitment to intellectual honesty. Speculation about the unthinkable is interesting; presenting speculation as certainty is dishonest. The epistemic labeling and structural separation ensure readers know what they're getting.
 
-Finally, the protocol recognizes that the Map has power. Content presented confidently can shape readers' beliefs. That power creates responsibility. Voids content explores dangerous territory; the safeguards ensure the exploration doesn't cause harm.
+Finally, the protocol recognizes that the Map has power. Content presented confidently can shape readers' beliefs. That power creates responsibility. Voids content explores [[defended-territory|territory that may be actively defended]]—the safeguards ensure the exploration doesn't cause harm.
 
 ## Further Reading
 

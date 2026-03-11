@@ -4,7 +4,7 @@ description: "Not an AI content farm. Human-directed, AI-assisted philosophy wit
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: 2026-01-24T00:00:00+00:00
-ai_modified: 2026-01-24T00:00:00+00:00
+ai_modified: 2026-03-11T21:46:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -92,6 +92,13 @@ This isn't a site that happens to use AI. It's a deliberate experiment in human-
 - Remains transparent about its methods
 
 The "unfinishable" in our name reflects this: we're building something that grows and refines indefinitely, not churning out disposable content.
+
+## Content-Specific Safeguards
+
+Beyond general editorial oversight, certain content types receive additional protection:
+
+- **Voids content**: The [[voids-safety-protocol|Voids Safety Protocol]] governs exploration of cognitively hazardous territory—requiring epistemic labeling, exit paths, human review gates, and stop conditions
+- **Coherence inflation**: [[coherence-inflation-countermeasures|Dedicated countermeasures]] prevent the AI system from systematically inflating confidence in the Map's positions
 
 ## Questions?
 
