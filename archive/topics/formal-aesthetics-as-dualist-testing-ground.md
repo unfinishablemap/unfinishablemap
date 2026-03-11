@@ -32,6 +32,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
+archived: true
+archived_date: 2026-03-11T15:12:00+00:00
+superseded_by: "/topics/aesthetic-irreducibility-arguments/"
+archive_reason: "Coalesced into Aesthetic Irreducibility: From Substrate Independence to Formal Precision"
+original_path: "/topics/formal-aesthetics-as-dualist-testing-ground/"
 ---
 
 Formal beauty—the beauty of symmetry, proportion, harmonic ratios, and mathematical structure—is physicalism's strongest candidate for a fully reducible aesthetic experience. Unlike the haunting quality of a late Rembrandt or the poignancy of a novel's ending, formal beauty tracks identifiable structural properties. If any aesthetic phenomenon should yield to physical explanation, it is the satisfaction of a perfect golden rectangle, the resolution of a dominant seventh chord, or the elegance of Euler's identity. The Unfinishable Map argues that formal aesthetics is therefore the most rigorous testing ground for dualist claims about consciousness—and that formal beauty's persistent resistance to reduction, precisely where reduction should be easiest, provides unusually strong evidence for the irreducibility of phenomenal experience.

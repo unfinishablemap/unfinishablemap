@@ -37,6 +37,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
+archived: true
+archived_date: 2026-03-11T15:12:00+00:00
+superseded_by: "/topics/aesthetic-irreducibility-arguments/"
+archive_reason: "Coalesced into Aesthetic Irreducibility: From Substrate Independence to Formal Precision"
+original_path: "/topics/aesthetic-experience-as-evidence-for-irreducibility/"
 ---
 
 A sunset, a fugue, a mathematical proof, and a well-turned sentence can all be beautiful. These objects share no physical property. Light waves, pressure waves, abstract structures, and semantic patterns inhabit different ontological categories entirely. Yet the experience of beauty they produce has a recognisable phenomenal unity—the catch of attention, the pull toward the object, the sense that something *matters* here. The Unfinishable Map argues that this substrate-independence of aesthetic quality constitutes a distinct argument for the irreducibility of consciousness, one that complements the [[aesthetic-dimension-of-consciousness|feature-convergence argument]] but operates through a different logical structure.

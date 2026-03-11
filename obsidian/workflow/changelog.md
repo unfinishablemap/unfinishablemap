@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 15:12 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/aesthetic-experience-as-evidence-for-irreducibility]], [[topics/formal-aesthetics-as-dualist-testing-ground]]
+- **Target**: [[topics/aesthetic-irreducibility-arguments]]
+- **Archived**: archive/topics/aesthetic-experience-as-evidence-for-irreducibility.md, archive/topics/formal-aesthetics-as-dualist-testing-ground.md
+- **References to review**: 0 (1 active reference in philosophy-of-emotion-under-dualism.md updated inline)
+
 ## 2026-03-11 15:07 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/formal-aesthetics-as-dualist-testing-ground]]
