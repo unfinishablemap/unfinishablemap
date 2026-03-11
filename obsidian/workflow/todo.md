@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate valence-as-selection-currency.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Valence as selection currency bridges emotion-as-evidence-for-dualism and the quantum selection mechanism. Add cross-references from attention-as-selection-interface.md, phenomenal-value-realism.md, and why-pain-hurts.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-11
-
 ### P2: Integrate biological-teleology-and-the-interface-framework.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Biological teleology article connects evolution-under-dualism to the interface framework. Add cross-references from evolution-under-dualism.md, consciousness-threshold-in-cognitive-evolution.md, and evolutionary-case-for-mental-causation.md.
@@ -401,6 +395,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Integrate valence-as-selection-currency.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Valence as selection currency bridges emotion-as-evidence-for-dualism and the quantum selection mechanism. Add cross-references from attention-as-selection-interface.md, phenomenal-value-realism.md, and why-pain-hurts.md.
+- **Output**: obsidian/topics/valence-as-selection-currency.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-11: Cross-review related articles considering cognitive-closure
 - **Type**: cross-review

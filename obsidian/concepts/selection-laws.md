@@ -85,7 +85,7 @@ John Eccles proposed that intention modulates quantum tunneling probability in n
 
 **Selection law**: Intention strength → vesicle release probability → action selection.
 
-Three other candidates—valence, qualia, and phenomenal unity—lack developed mechanisms specifying how the mental variable connects to physical selection. The valence case receives extended treatment in [[value-blind-vs-value-sensitive-selection]], which maps the consequences of whether valence directly enters the selection law or operates only through modulating attention.
+Three other candidates—valence, qualia, and phenomenal unity—lack developed mechanisms specifying how the mental variable connects to physical selection. The valence case receives extended treatment in [[value-blind-vs-value-sensitive-selection]], which maps the consequences of whether valence directly enters the selection law or operates only through modulating attention. The [[valence-as-selection-currency|valence as selection currency]] thesis develops the value-sensitive horn further, proposing that valence functions as the common metric—the "currency"—by which consciousness evaluates competing neural possibilities and selects which becomes actual.
 
 ## Selection Laws vs. Supervenience Laws
 
@@ -159,6 +159,7 @@ None of these currently succeeds, but they mark conditions under which the frame
 - [[stapp-quantum-mind]] — The attention-observation mechanism in detail
 - [[concepts/epiphenomenalism]] — The view selection laws are designed to avoid
 - [[topics/free-will]] — How selection laws provide a mechanism for libertarian free will
+- [[valence-as-selection-currency]] — How valence may function as the evaluative currency for selection
 - [[agent-causation]] — Genuine authorship through mental selection
 - [[tenets]] — The Map's foundational commitments
 - [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — Epistemic methods for investigating the interface when mechanism cannot be directly observed

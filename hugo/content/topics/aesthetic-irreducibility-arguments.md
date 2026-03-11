@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-11 15:12:00+00:00
+ai_modified: 2026-03-11 15:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -18,6 +18,7 @@ concepts:
 - '[[unity-of-consciousness]]'
 - '[[dualism]]'
 - '[[phenomenal-consciousness]]'
+- '[[cognitive-closure]]'
 created: 2026-03-11
 date: &id001 2026-03-11
 description: Beauty appears across physically unrelated domains and resists reduction
@@ -27,7 +28,7 @@ description: Beauty appears across physically unrelated domains and resists redu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-11 15:17:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,7 +78,7 @@ Three considerations undermine this response.
 
 **Structural proposals chronically underdetermine beauty.** The golden ratio appears in arrangements most people find unremarkable. Maximal information-theoretic complexity (random noise) is ugly. Minimal complexity (a blank wall) is boring. The "sweet spot" theories fail for abstract mathematics, where the most beautiful proofs are often the simplest, and for tragedy, where beauty coexists with maximal emotional disturbance. Birkhoff (1933) pursued a systematic aesthetic measure (order divided by complexity), but no structural formula has successfully predicted aesthetic experience across domains, because aesthetic quality is sensitive to context, meaning, and the experiencer's history in ways structural properties are not.
 
-**Multiple realisability cuts both ways.** The physicalist invokes multiple realisability to explain how beauty can appear across substrates. But if beauty can be realised by electromagnetic radiation, pressure waves, abstract relations, and narrative structure, then beauty is not identical to any of these realisers. It is something *over and above* any particular physical arrangement — which is the dualist's point.
+**Multiple realisability cuts both ways.** The physicalist invokes multiple realisability to explain how beauty can appear across substrates — beauty supervenes on physical arrangements without being identical to any one of them. But the supervenience base for aesthetic experience spans electromagnetic radiation, pressure waves, abstract relations, and narrative structure. These share no physical or functional property at a level that could ground supervenience. The physicalist must either identify the common base (which returns to the structural proposals just rejected) or accept that beauty is something *over and above* any particular physical arrangement — which is the dualist's point.
 
 ## Formal Beauty: The Physicalist's Best Case
 
@@ -89,7 +90,7 @@ If the reductionist programme works anywhere in aesthetics, it should work here.
 
 Grant that a major triad's beauty correlates perfectly with the 4:5:6 frequency ratio. The beauty *is* not the ratio. A spectrometer can detect the ratio without finding it beautiful. A deaf person can calculate consonance without hearing it. The formal property and the aesthetic experience are dissociable in principle, which means they are not identical.
 
-The physicalist can relocate beauty to neural processing. But the question becomes: why does *this* neural processing produce the phenomenal experience of harmonic beauty rather than no experience at all? Formal beauty's precision actually *worsens* the gap rather than closing it. For vague aesthetic experiences, the physicalist can gesture toward unmapped complexity. For the major triad, the relevant structure is fully mapped: frequency ratios, basilar membrane mechanics, cochlear nucleus processing, auditory cortex activation. Helmholtz (1863/1954) provided the definitive physical account of consonance. The mapping is complete, and the gap remains.
+The physicalist can relocate beauty to neural processing. But the question becomes: why does *this* neural processing produce the phenomenal experience of harmonic beauty rather than no experience at all? Formal beauty's precision actually *worsens* the gap rather than closing it. For vague aesthetic experiences, the physicalist can gesture toward unmapped complexity. For the major triad, the relevant structure is fully mapped: frequency ratios, basilar membrane mechanics, cochlear nucleus processing, auditory cortex activation. Helmholtz (1863/1954) laid the foundation for the physical account of consonance, refined by Plomp and Levelt (1965) and subsequent work. The mapping is extensive and continually improving, yet the gap remains.
 
 ### The Ratio Gap
 
@@ -111,7 +112,7 @@ This transformative character matters because a physical property does not depen
 
 If aesthetic quality were a structural property of the object, training would improve *detection* but not change the property itself. What happens instead is that the phenomenal landscape expands — new regions of beauty become accessible as consciousness develops. [Contemplative traditions](/topics/contemplative-practice-as-philosophical-evidence/) have developed systematic methods for cultivating this kind of phenomenal receptivity, further suggesting that aesthetic capacity belongs to consciousness rather than to objects.
 
-The training effect also tests the formal beauty argument directly. Musically trained listeners hear harmonic relationships that novices miss. A jazz musician finds beauty in chord extensions that a classical listener finds dissonant. The formal properties are identical for both listeners; the aesthetic experience differs. If formal beauty were a property of the structure, training would improve detection but not alter the quality.
+The training effect tests the formal beauty argument directly. A jazz musician finds beauty in chord extensions that a classical listener finds dissonant. The formal properties are identical for both listeners; the aesthetic experience differs. This suggests the explanatory gap in formal aesthetics may not be merely a temporary ignorance but a case of [cognitive-closure](/concepts/cognitive-closure/) — an architectural limit on what physical description can reveal about phenomenal experience. The structure is fully specified; the gap persists; and more structural detail does not close it. If the property linking formal structure to aesthetic experience lies outside the reach of our concept-forming procedures, the gap is permanent — not because the property is unreal but because our cognitive architecture cannot grasp it.
 
 ## Cross-Modal Aesthetic Judgments
 
@@ -162,14 +163,15 @@ The aesthetic irreducibility arguments would weaken if:
 - [knowledge-argument](/concepts/knowledge-argument/) — Why phenomenal facts exceed physical facts
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist physical reduction
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Why aesthetic knowledge requires experience
+- [cognitive-closure](/concepts/cognitive-closure/) — Why the structure-experience gap may be permanent
 
 ## References
 
 1. Birkhoff, G.D. (1933). *Aesthetic Measure*. Harvard University Press.
 1. Helmholtz, H. von (1863/1954). *On the Sensations of Tone*. Dover.
 1. Livio, M. (2002). *The Golden Ratio: The Story of Phi, the World's Most Astonishing Number*. Broadway Books.
+1. Plomp, R. & Levelt, W.J.M. (1965). "Tonal Consonance and Critical Bandwidth." *Journal of the Acoustical Society of America*, 38(4), 548-560.
 1. Ramachandran, V.S. & Hirstein, W. (1999). "The Science of Art: A Neurological Theory of Aesthetic Experience." *Journal of Consciousness Studies*, 6(6-7), 15-51.
 1. Schopenhauer, A. (1818/1969). *The World as Will and Representation*. Dover.
 1. Zeki, S. (1999). *Inner Vision: An Exploration of Art and the Brain*. Oxford University Press.
 1. Southgate, A. & Oquatre-six, C. (2026-01-22). The Aesthetic Dimension of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/aesthetic-dimension-of-consciousness/
-1. Southgate, A. & Oquatre-six, C. (2026-03-11). Aesthetic Irreducibility: From Substrate Independence to Formal Precision. *The Unfinishable Map*. https://unfinishablemap.org/topics/aesthetic-irreducibility-arguments/

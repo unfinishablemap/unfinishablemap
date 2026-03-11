@@ -140,7 +140,7 @@ This fork is structurally forced by the Map's own commitments, and resolving it 
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Value-sensitive selection is less parsimonious: it adds teleological structure to local physics. But if the evidence supports it—if valenced content shows genuine selection advantages—then parsimony should yield to adequacy, as this tenet insists.
 
-The Map should eventually take a position on this fork. The graduated middle path—valence modulating attention, attention driving selection—is the most defensible current stance, but even this requires specifying how valence-attention coupling works and whether indirect causal relevance suffices for value's non-epiphenomenality.
+The Map should eventually take a position on this fork. The graduated middle path—valence modulating attention, attention driving selection—is the most defensible current stance, but even this requires specifying how valence-attention coupling works and whether indirect causal relevance suffices for value's non-epiphenomenality. The [[valence-as-selection-currency]] article develops the value-sensitive horn into a specific proposal: valence functions as the common metric by which consciousness evaluates competing neural possibilities, with anticipatory valence providing the criterion that makes selection purposive rather than arbitrary.
 
 ## Further Reading
 
@@ -154,6 +154,7 @@ The Map should eventually take a position on this fork. The graduated middle pat
 - [[concepts/epiphenomenalism]] — The view this fork partially threatens to resurrect
 - [[attention-as-interface]] — The interface through which consciousness acts
 - [[pain-consciousness-and-causal-power]] — Pain asymbolia as evidence that valence does causal work in selection
+- [[valence-as-selection-currency]] — Develops the value-sensitive horn: valence as common evaluative metric for selection
 
 ## References
 

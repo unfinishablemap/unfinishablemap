@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering cognitive-closure
-- **Type**: cross-review
-- **Notes**: New concept page concepts/cognitive-closure.md treats McGinn's thesis on constitutive cognitive limits. Review mysterianism.md, evolved-cognitive-limits.md, and phenomenology-of-the-edge.md for cross-links. Ensure these articles reference the dedicated concept page rather than explaining cognitive closure inline.
-- **Source**: chain (from cognitive-closure.md)
-- **Generated**: 2026-03-11
-
 ### P2: Integrate valence-as-selection-currency.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Valence as selection currency bridges emotion-as-evidence-for-dualism and the quantum selection mechanism. Add cross-references from attention-as-selection-interface.md, phenomenal-value-realism.md, and why-pain-hurts.md.
@@ -408,6 +402,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Cross-review related articles considering cognitive-closure
+- **Type**: cross-review
+- **Notes**: New concept page concepts/cognitive-closure.md treats McGinn's thesis on constitutive cognitive limits. Review mysterianism.md, evolved-cognitive-limits.md, and phenomenology-of-the-edge.md for cross-links. Ensure these articles reference the dedicated concept page rather than explaining cognitive closure inline.
+- **Output**: None -- Context: Cross-review related articles considering cognitive-closure
 
 ### ✓ 2026-03-11: Cross-review related articles considering aesthetic-experience-as-evidence-for-irreducibility
 - **Type**: cross-review

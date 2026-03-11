@@ -85,7 +85,7 @@ This position fails empirically. Pain asymbolics prove that functional pain proc
 
 Michael Tye and Brian Cutter argue that "phenomenal experience has functional value"—conscious agents are motivated to act precisely *because* they experience things and care about those experiences. We don't avoid pain because neurons fire in pattern X; we avoid it because it *feels bad*, and the badness itself has causal efficacy.
 
-This supports [[tenets#^bidirectional-interaction|Bidirectional Interaction]]. If valenced phenomenal states motivate behavior, consciousness influences physical outcomes. The selection mechanism the Map proposes—though speculative in its details—may operate through valenced assessment: consciousness evaluates neural options via their anticipated affective quality and selects accordingly. Pleasure and pain serve as selection criteria, biasing which possibilities become actual.
+This supports [[tenets#^bidirectional-interaction|Bidirectional Interaction]]. If valenced phenomenal states motivate behavior, consciousness influences physical outcomes. The selection mechanism the Map proposes—though speculative in its details—may operate through valenced assessment: consciousness evaluates neural options via their anticipated affective quality and selects accordingly. Pleasure and pain serve as [[valence-as-selection-currency|selection criteria]], biasing which possibilities become actual.
 
 ## Core Affect: The Substrate of Emotional Experience
 
