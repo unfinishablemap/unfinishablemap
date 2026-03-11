@@ -35,6 +35,7 @@ related_articles:
 - '[[sensorimotor-contingencies-and-the-interface]]'
 - '[[process-and-consciousness]]'
 - '[[consciousness-and-agency]]'
+- '[[biological-teleology-and-the-interface-framework]]'
 title: Consciousness as Activity Rather Than Property
 topics:
 - '[[hard-problem-of-consciousness]]'

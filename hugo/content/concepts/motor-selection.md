@@ -39,6 +39,7 @@ related_articles:
 - '[[voluntary-attention-control-mechanisms-2026-01-17]]'
 - '[[attention-motor-planning-quantum-interface-2026-01-23]]'
 - '[[dopamine-attention-motor-quantum-interface-2026-01-24]]'
+- '[[biological-teleology-and-the-interface-framework]]'
 title: Motor Selection and the Attention-Motor Interface
 topics:
 - '[[topics/free-will]]'

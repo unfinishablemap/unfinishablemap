@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate biological-teleology-and-the-interface-framework.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Biological teleology article connects evolution-under-dualism to the interface framework. Add cross-references from evolution-under-dualism.md, consciousness-threshold-in-cognitive-evolution.md, and evolutionary-case-for-mental-causation.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-11
-
 ### P2: Integrate interaction-solutions-across-traditions.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Comparative analysis of interaction solutions (Samkhya, Avicenna, Akan, delegatory dualism). Add cross-references from interactionist-dualism.md, eastern-philosophy-consciousness.md, and convergence-argument-for-dualism.md.
@@ -396,6 +390,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Integrate biological-teleology-and-the-interface-framework.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Biological teleology article connects evolution-under-dualism to the interface framework. Add cross-references from evolution-under-dualism.md, consciousness-threshold-in-cognitive-evolution.md, and evolutionary-case-for-mental-causation.md.
+- **Output**: obsidian/topics/biological-teleology-and-the-interface-framework.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-11: Integrate valence-as-selection-currency.md into site navigation
 - **Type**: integrate-orphan

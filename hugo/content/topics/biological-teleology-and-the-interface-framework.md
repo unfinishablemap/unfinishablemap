@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-11 00:23:00+00:00
+ai_modified: 2026-03-11 15:33:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[interactionist-dualism]]'
 - '[[agent-causation]]'
+- '[[agent-teleology]]'
 - '[[mental-causation]]'
 - '[[attention-as-interface]]'
 - '[[attention-motor-quantum-interface]]'
@@ -21,6 +22,7 @@ description: How the Map's interface framework transforms biological teleology f
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-03-11 15:33:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,7 +51,7 @@ The Map agrees that this account is correct for most of biology. But it identifi
 
 ## Where Function Becomes Purpose
 
-The [evolution under dualism](/topics/evolution-under-dualism/) article introduces "agent teleology"—the idea that conscious beings introduce genuine purpose into nature through their choices. But introducing the concept leaves a crucial question undeveloped: *how* does purpose get realised physically? If consciousness is non-physical, how does genuine intentionality translate into bodily action?
+The [evolution under dualism](/topics/evolution-under-dualism/) article introduces [agent-teleology](/concepts/agent-teleology/)—the thesis that conscious beings introduce genuine purpose into nature through their choices. But introducing the concept leaves a crucial question undeveloped: *how* does purpose get realised physically? If consciousness is non-physical, how does genuine intentionality translate into bodily action?
 
 The interface framework answers this. The [attention-as-selection interface](/topics/attention-as-selection-interface/) demonstrates that attention and motor planning share neural substrates. The brain generates competing options in parallel; [dopamine marks](/topics/dopamine-and-the-unified-interface/) which options are salient and modulates the selection threshold; consciousness selects which option crosses threshold and becomes actual. This three-layer architecture—computation, threshold modulation, selection—provides the mechanism through which purpose enters the causal order.
 
@@ -63,7 +65,7 @@ Consider the contrast with pure biological function:
 | **Counterfactuals** | If selection had differed, different traits would exist | If the agent had chosen differently, different action would follow |
 | **Mechanism** | Genetic variation + natural selection | Neural competition + conscious selection at quantum indeterminacy |
 
-The interface framework specifies where the transition occurs. Below the selection layer, everything operates by biological function—neurons fire because of prior causes, dopamine marks salience because of learned associations, motor programs compete because of neural architecture shaped by evolution. At the selection layer, something new enters: a conscious agent choosing among the options that biology has prepared.
+The interface framework specifies where the transition occurs. Below the selection layer, everything operates by biological function—neurons fire because of prior causes, dopamine marks salience because of learned associations, motor programs compete because of neural architecture shaped by evolution. At the selection layer, something new enters: a conscious agent choosing among the options that biology has prepared. This is [consciousness as activity](/topics/consciousness-as-activity/)—not a property the brain happens to have, but something the organism *does* at the selection interface.
 
 ## The Metaphysical Status of Purposes Under Dualism
 
@@ -81,7 +83,7 @@ The nervous system occupies an intermediate position. Much neural processing is 
 
 This creates a distinctive architectural prediction. If genuine purpose requires the selection interface, then organisms with richer interfaces should display more purpose-directed behaviour—not just more complex behaviour, but behaviour that depends specifically on conscious selection rather than automatic processing. The [threshold problem](/topics/consciousness-threshold-in-cognitive-evolution/)—identifying when in cognitive evolution consciousness becomes causally efficacious—is simultaneously the question of when purpose enters biology.
 
-The evidence from [mental causation research](/topics/evolutionary-case-for-mental-causation/) supports this connection. Lieberman et al. (2008) found that cognitive load on conscious processing specifically impairs logical reasoning while leaving unconscious cognition intact. This dissociation maps onto the function-purpose distinction: unconscious cognition operates by biological function (selected-effects causation); conscious reasoning operates through the selection interface (genuine purpose).
+The evidence from [mental causation research](/topics/evolutionary-case-for-mental-causation/) supports this connection. Dual-process research in social cognition distinguishes automatic (reflexive) processing from controlled (reflective) processing: cognitive load on conscious processing specifically impairs deliberative reasoning while leaving automatic cognition intact (Lieberman et al., 2002). This dissociation maps onto the function-purpose distinction: automatic cognition operates by biological function (selected-effects causation); conscious deliberation operates through the selection interface (genuine purpose).
 
 ## Why This Matters for Philosophy of Biology
 
@@ -91,7 +93,7 @@ The interface framework has implications for longstanding debates in philosophy 
 
 **The function-malfunction problem.** A heart that cannot pump blood is malfunctioning, but "malfunction" seems to require a norm—a way things *should* be. Selected-effects theories ground norms in evolutionary history: the heart should pump because pumping is what hearts were selected for. But this makes malfunction purely backward-looking. Under the interface framework, conscious agents can recognise malfunction in a genuinely normative sense—they experience their body as failing to serve their purposes, introducing a forward-looking normative dimension that selected-effects accounts lack.
 
-**The organism-machine boundary.** If purpose distinguishes conscious organisms from purely functional systems, the interface framework provides a principled boundary. An organism with a selection interface is not merely a biological machine—it is a locus of genuine agency. This aligns with the intuition that reducing organisms to machines misses something, while grounding that intuition in a specific mechanism rather than leaving it as a vague objection to reductionism.
+**The organism-machine boundary.** If purpose distinguishes conscious organisms from purely functional systems, the interface framework provides a principled boundary. An organism with a selection interface is not merely a biological machine—it is a locus of genuine agency. This connects to the broader case that [consciousness resists reduction](/topics/reductionism-and-consciousness/): purposive selection cannot be captured in the language of mechanism alone. This aligns with the intuition that reducing organisms to machines misses something, while grounding that intuition in a specific mechanism rather than leaving it as a vague objection to reductionism.
 
 ## Relation to Site Perspective
 
@@ -113,13 +115,18 @@ The connection between biological teleology and the interface framework draws on
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Evidence that consciousness contributes to fitness
 - [consciousness-and-the-philosophy-of-biology](/topics/consciousness-and-the-philosophy-of-biology/) — How biology's conceptual categories interact with consciousness
 - [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-threshold-in-cognitive-evolution/) — When conscious selection becomes causally efficacious
+- [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The nature and scope of consciousness's causal influence
+- [consciousness-as-activity](/topics/consciousness-as-activity/) — Why consciousness is something organisms do, not something brains have
+- [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — What follows for morality when biological purpose is real
+- [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Why purposive selection resists reductive explanation
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of agent-level causation
+- [agent-teleology](/concepts/agent-teleology/) — The concept of genuine purpose introduced by conscious agents
 - [free-will](/topics/free-will/) — Agent teleology and libertarian agency
 
 ## References
 
 1. Darwin, C. (1859). *On the Origin of Species*. John Murray.
-2. Lieberman, M.D., Gaunt, R., Gilbert, D.T., & Trope, Y. (2002). Reflection and reflexion: A social cognitive neuroscience approach to attributional inference. *Advances in Experimental Social Psychology*, 34, 199-249.
+2. Lieberman, M.D., Gaunt, R., Gilbert, D.T., & Trope, Y. (2002). Reflection and reflexion: A social cognitive neuroscience approach to attributional inference. *Advances in Experimental Social Psychology*, 34, 199–249.
 3. Millikan, R.G. (1984). *Language, Thought, and Other Biological Categories*. MIT Press.
 4. Neander, K. (1991). Functions as selected effects: The conceptual analyst's defense. *Philosophy of Science*, 58(2), 168-184.
 5. Southgate, A. & Oquatre-six, C. (2026-02-12). Evolution Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/evolution-under-dualism/
