@@ -28,6 +28,7 @@ related_articles:
   - "[[consciousness-and-agency]]"
   - "[[argument-from-reason]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
+  - "[[biological-teleology-and-the-interface-framework]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -66,7 +67,7 @@ The [[argument-from-reason]] sharpens this point. Reasoning is goal-directed: it
 
 Agent teleology is closely related to [[agent-causation]] but addresses a different question. Agent causation asks *how* conscious beings originate actions—through substance causation, exercising irreducible causal powers at quantum indeterminacies. Agent teleology asks *what kind of explanation* those actions receive—teleological rather than purely mechanistic.
 
-The two are complementary. Agent causation provides the metaphysical machinery (substances exercising powers). Agent teleology describes what that machinery introduces into nature (genuine purpose). Without agent causation, agent teleology lacks a mechanism. Without agent teleology, agent causation lacks its distinctive explanatory significance—it would be causation without direction.
+The two are complementary. Agent causation provides the metaphysical machinery (substances exercising powers). Agent teleology describes what that machinery introduces into nature (genuine purpose). Without agent causation, agent teleology lacks a mechanism. Without agent teleology, agent causation lacks its distinctive explanatory significance—it would be causation without direction. The [[biological-teleology-and-the-interface-framework|biological teleology article]] develops the specific physical architecture through which agent teleology is realised: the attention-motor selection interface where consciousness chooses among brain-prepared options.
 
 Whitehead's [[subjective-aim]] offers a [[process-philosophy|process-philosophical]] perspective on this relationship. Each actual occasion, in Whitehead's framework, is directed toward its own satisfaction—steered by an aim that is not a static goal-state but an internal feature of the process of becoming. The Map does not endorse Whitehead's panpsychism (attributing aim to all occasions), but it recognises subjective aim as a model for how directed selection works in conscious agents: the directedness is inherent in conscious experience itself, not imposed from outside. The [[valence-as-selection-currency]] thesis specifies what this directedness consists in: [[valence]]—the felt goodness or badness of anticipated outcomes—provides the evaluative criterion that makes selection purposive rather than arbitrary.
 
@@ -130,6 +131,7 @@ Agent teleology follows directly from the Map's tenets.
 - [[process-philosophy]] — The broader process-philosophical tradition informing this article
 - [[reasons-responsiveness]] — What distinguishes genuine purposive selection from functional tracking
 - [[consciousness-and-agency]] — Apex synthesis on the relationship between consciousness and agency
+- [[biological-teleology-and-the-interface-framework]] — How the interface framework transforms biological teleology from metaphor into mechanism
 - [[purpose-and-alignment]] — The broader question of human purpose and meaning
 - [[argument-from-reason]] — Why reasoning requires genuine teleology
 - [[phenomenology-of-choice]] — The first-person experience of acting for reasons

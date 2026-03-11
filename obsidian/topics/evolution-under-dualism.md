@@ -31,6 +31,7 @@ related_articles:
   - "[[animal-consciousness]]"
   - "[[quantum-biology-and-the-consciousness-debate]]"
   - "[[consciousness-and-the-philosophy-of-biology]]"
+  - "[[biological-teleology-and-the-interface-framework]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -65,6 +66,8 @@ Evolutionary biology eliminated teleology from life science. Before Darwin, biol
 Dualism reintroduces a limited form of teleology without invoking a designer. If consciousness is irreducible and causally efficacious, then conscious organisms act *for reasons*—genuinely, not merely in the "as if" sense that functionalists allow. A gazelle flees a lion because it fears death, and that fear—as a conscious state—causally contributes to the fleeing. This is not cosmic teleology (the universe has a purpose) or theological teleology (a designer intended this outcome). It is agent teleology: conscious beings introduce genuine purpose into a universe that otherwise operates mechanistically.
 
 Under physicalism, even agent teleology reduces to mechanism. The gazelle's fear is identical to neural firing patterns, which are fully explained by prior physical states. Sophisticated functionalists argue that purposes are nonetheless "real patterns"—genuine features of the causal landscape that earn their ontological status through explanatory utility. The Map finds this insufficient: real patterns identified *from the outside* are not the same as purposes experienced *from the inside*. Under dualism, purpose is real in both senses. Conscious intention influences physical outcomes through the quantum interface the Map proposes, making [[agent-causation|agency]] a fundamental feature of certain biological systems rather than an emergent approximation.
+
+The [[biological-teleology-and-the-interface-framework|biological teleology article]] develops this point further, showing how the interface framework specifies *where* the "as if" purposiveness of biological function becomes the real purposiveness of conscious agency.
 
 This distinction matters for how we understand evolution's products—and [[consciousness-and-the-philosophy-of-biology|philosophy of biology's]] own conceptual categories (function, teleology, organism, adaptation) each reveal it differently. Physicalism says evolution produced sophisticated machines whose behaviour we describe purposively. Dualism says evolution produced the physical conditions under which genuine purpose could enter the natural world. The implications extend to [[topics/free-will|free will]]: if evolution selected for genuine purpose-directed action, it selected for the capacity to act for reasons—the core of libertarian agency.
 
@@ -139,6 +142,7 @@ Evolution under dualism connects to the Map's tenets in ways that strengthen bot
 - [[topics/free-will]] — Agent teleology and libertarian agency
 - [[animal-consciousness]] — Convergent consciousness across species
 - [[consciousness-and-the-philosophy-of-biology]] — Biology's conceptual toolkit and the limits of biological explanation
+- [[biological-teleology-and-the-interface-framework]] — How the interface framework transforms biological teleology from metaphor into mechanism
 
 ## References
 

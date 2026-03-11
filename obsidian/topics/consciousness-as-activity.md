@@ -30,6 +30,7 @@ related_articles:
   - "[[sensorimotor-contingencies-and-the-interface]]"
   - "[[process-and-consciousness]]"
   - "[[consciousness-and-agency]]"
+  - "[[biological-teleology-and-the-interface-framework]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

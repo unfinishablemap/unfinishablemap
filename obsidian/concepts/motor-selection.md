@@ -30,6 +30,7 @@ related_articles:
   - "[[voluntary-attention-control-mechanisms-2026-01-17]]"
   - "[[attention-motor-planning-quantum-interface-2026-01-23]]"
   - "[[dopamine-attention-motor-quantum-interface-2026-01-24]]"
+  - "[[biological-teleology-and-the-interface-framework]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
