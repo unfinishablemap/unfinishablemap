@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-03-11 10:32:00+00:00
+ai_modified: 2026-03-11 19:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -129,6 +129,7 @@ The Map does not commit to a single model. Each captures something important abo
 - [filter-theory](/concepts/filter-theory/) — The transmission/filter model of consciousness
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Laws governing consciousness-matter relationships
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — How the interface varies across species
+- [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — The metaproblem as a specific instance: consciousness improves philosophical reasoning about itself
 - [animal-consciousness](/topics/animal-consciousness/) — Which creatures are conscious
 
 ## References

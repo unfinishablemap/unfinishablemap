@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-03-11 17:14:00+00:00
+ai_modified: 2026-03-11 19:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -293,6 +293,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain as the hard problem made personal: why phenomenal character resists reduction
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The hard problem extends to value: if phenomenal properties are irreducible, so is the goodness and badness they constitute
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — How Buddhist philosophy engages with dualist frameworks
+- [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — How interactionism turns the metaproblem from threat to vindication
 - [tenets](/tenets/) — The foundational commitments of the Map
 
 ### External Resources

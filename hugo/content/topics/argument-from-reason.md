@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-11 10:02:00+00:00
+ai_modified: 2026-03-11 19:22:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -159,6 +159,7 @@ The physicalist might respond: "What's the difference? If the outputs match corr
 - [motor-selection](/concepts/motor-selection/) - How attention selects among motor possibilities, paralleling intellectual selection
 - [self-stultification](/concepts/self-stultification/) - The structure of positions that undermine their own rational grounds
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) - The capacity to track normative relationships central to the argument
+- [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) - The metaproblem argument: consciousness must causally contribute to our philosophical reasoning about it
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) - Why positions that cannot be rationally held are epistemically self-defeating
 
 ## References

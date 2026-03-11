@@ -6,6 +6,11 @@ modified: 2026-03-11
 human_modified:
 ai_modified: 2026-03-11T15:03:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-11T20:23:00+00:00
+superseded_by: "/topics/consciousness-as-perceptual-architect/"
+archive_reason: "Coalesced into Consciousness as Perceptual Architect"
+original_path: "/topics/phenomenology-of-perceptual-learning/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-as-activity]]"

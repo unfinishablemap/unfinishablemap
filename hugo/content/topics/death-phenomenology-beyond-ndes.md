@@ -28,7 +28,7 @@ related_articles:
 - '[[death-void]]'
 - '[[personal-identity]]'
 - '[[loss-of-consciousness]]'
-- '[[phenomenology-of-perceptual-learning]]'
+- '[[consciousness-as-perceptual-architect]]'
 title: Death Phenomenology Beyond NDEs
 topics:
 - '[[death-and-consciousness]]'
@@ -107,7 +107,7 @@ Across these diverse phenomena — deathbed visions, shared death experiences, t
 
 **Independence from specific brain states.** DBVs occur in conscious patients, terminal lucidity in neurodegenerated brains, SDEs in healthy bystanders, NDA over extended timelines. No single neural mechanism can account for phenomenology that manifests across such varied physiological conditions. This independence from particular brain states positions death phenomenology within the broader spectrum of [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/), though death-related experiences are distinctive in their convergent themes and progressive character.
 
-**Complementary evidence from perceptual learning.** [Perceptual learning research](/topics/phenomenology-of-perceptual-learning/) reveals the opposite face of the same coin: where death phenomenology shows what happens when the brain-consciousness interface *dissolves*, perceptual learning shows consciousness actively *restructuring* that interface through sustained attention. Both demonstrate that consciousness is not a fixed product of neural architecture — it operates through the brain's interface rather than being produced by it.
+**Complementary evidence from perceptual learning.** [Perceptual learning research](/topics/consciousness-as-perceptual-architect/) reveals the opposite face of the same coin: where death phenomenology shows what happens when the brain-consciousness interface *dissolves*, perceptual learning shows consciousness actively *restructuring* that interface through sustained attention. Both demonstrate that consciousness is not a fixed product of neural architecture — it operates through the brain's interface rather than being produced by it.
 
 ## Relation to Site Perspective
 

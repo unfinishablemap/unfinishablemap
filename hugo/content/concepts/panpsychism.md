@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-03-11 17:14:00+00:00
+ai_modified: 2026-03-11 17:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: The view that consciousness is fundamental and ubiquitous in nature
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-01 03:18:00+00:00
+last_deep_review: 2026-03-11 17:46:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -191,8 +191,7 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 - [combination-problem](/concepts/combination-problem/) — The central challenge facing panpsychism
 - [russellian-monism](/concepts/russellian-monism/) — The most developed theoretical framework for panpsychism
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework where experience is fundamental to actuality
-- [idealism](/concepts/idealism/) — Broader treatment of idealist positions and comparison with the Map's dualism
-- [idealism](/concepts/idealism/) — An alternative anti-physicalist view that claims to avoid the combination problem
+- [idealism](/concepts/idealism/) — Broader treatment of idealist positions, including analytic idealism as an alternative that claims to avoid the combination problem
 - [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/) — Comparative survey of mind-centric frameworks including panpsychism, idealism, and dualism
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist no-self perspectives on subjects and experience
 - [mysterianism](/concepts/mysterianism/) — Whether the combination problem exceeds cognitive limits

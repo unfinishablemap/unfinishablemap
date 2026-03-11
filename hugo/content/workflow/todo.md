@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-11 17:06:00+00:00
+ai_modified: 2026-03-11 19:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,27 +38,33 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate consciousness-and-strong-emergence.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Strong emergence is central to the physicalism–dualism debate. Should be referenced from emergence.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Add cross-references from related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-11
-
-### P2: Integrate consciousness-and-normative-authority.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Normative authority of consciousness is relevant to the Map's arguments about consciousness and reason. Should be referenced from consciousness-and-normative-force.md, argument-from-reason.md, and phenomenal-normativity.md. Add cross-references from related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-11
-
-### P2: Deep review grain-mismatch.md
+### P3: Deep review attention-created-voids.md
 - **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Only concepts/ file with null last_deep_review. Grain mismatch is relevant to the binding problem and interface architecture. Verify coherence, cross-references, and tenet alignment.
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 41 days ago. Voids article on how attention creates cognitive blind spots. Verify coherence, cross-references, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-11
 
-### P2: Deep review convergence-of-the-void-catalogue.md
+### P3: Deep review origin-of-consciousness.md
 - **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Meta-level voids article cataloguing patterns across the void collection. Verify coherence, cross-references, and tenet alignment.
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 41 days ago. Voids article on the origin-of-consciousness problem as an unchartable territory. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review embodiment-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 41 days ago. Voids article on how embodiment constrains cognition. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review dissolution-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-25, never reviewed. Voids article on the dissolution problem — whether voids dissolve under sufficient analysis. Core methodological question for the voids programme. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review simulation-detection-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-25, never reviewed. Voids article on the impossibility of detecting whether we exist within a simulation. Relevant to Tenet 5 (Occam's Razor Has Limits). Verify coherence, cross-references, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-11
 
@@ -186,6 +192,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Appears in phenomenal-transparency, consciousness-and-scientific-methodology, and acquaintance-knowledge. The Alston-derived problem (verification using the system being verified) is foundational enough to deserve its own concept page linking these discussions. See optimistic-2026-03-11-afternoon.md
+- **Generated**: 2026-03-11
+
+### P3: Write article on phenomenology of negative aesthetics
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Ugliness, discord, and aesthetic failure create equally specific phenomenal qualities that resist functional analysis. The aesthetic articles focus on positive experience; negative aesthetics is an untouched test case for irreducibility. Builds on binding-and-beauty, phenomenology-of-musical-understanding. See optimistic-2026-03-11-evening.md
+- **Generated**: 2026-03-11
+
+### P3: Write clinical evidence synthesis for mental causation (apex candidate)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Placebo content-specificity, anaesthetic dissociation patterns, and psychiatric phenomenology jointly constrain the consciousness-matter interface but are never unified. Synthesis showing convergence across clinical domains would be powerful. Builds on placebo-effect-and-mental-causation, anaesthesia-and-the-consciousness-interface, phenomenological-psychiatry-and-altered-experience. See optimistic-2026-03-11-evening.md
+- **Generated**: 2026-03-11
+
+### P3: Write article on epistemology of contemplative evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. When and why first-person reports should be trusted, how training improves reliability, what norms govern phenomenological research. The Contemplative Path apex touches this but doesn't develop it into a standalone epistemological framework. Builds on contemplative-path, contemplative-practice-as-philosophical-evidence, introspection, epistemic-advantages-of-dualism. See optimistic-2026-03-11-night.md
+- **Generated**: 2026-03-11
+
+### P3: Write article on void interactions and compound cognitive limits
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Taxonomy of Voids apex mentions compound limits — emergent failure modes that no single void predicts — but this interaction pattern deserves deeper treatment. How do specific voids reinforce each other? Do compound limits have emergent failure signatures? Builds on taxonomy-of-voids, compound-cognitive-limits, self-reference-paradox, introspective-opacity. See optimistic-2026-03-11-night.md
 - **Generated**: 2026-03-11
 
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
@@ -406,26 +436,135 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has strong individual treatments of time and consciousness but no unified account of how temporal ontology constrains the selection interface. Growing block provides ontological framework; process haecceitism provides individuation; temporal becoming provides phenomenology. Together they form the Map's most original metaphysical contribution. Builds on growing-block-universe-and-consciousness.md, consciousness-and-temporal-becoming.md, temporal-ontology-and-consciousness.md, process-haecceitism.md. See optimistic-2026-03-09-evening.md
 - **Generated**: 2026-03-09
 
-### P2: Deep review absorption-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. Voids article on the absorption void. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-10
-
-### P2: Deep review compound-cognitive-limits.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-09, never reviewed. Voids article on compound cognitive limits — how multiple cognitive limitations interact and compound. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-10
-
 ### P3: Deep review ai-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 33 days ago, beyond the 30-day staleness threshold. Major topics article on AI consciousness that engages with contemporary discourse. Verify coherence, cross-references, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-10
 
+### P2: Deep review narrative-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on narrative gaps in self-understanding — the limits of constructing coherent stories about one's own experience. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P2: Deep review reality-feeling-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the irreducible feeling of reality that accompanies experience — why some experiences feel "real" in ways that resist analysis. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P2: Deep review substrate-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the substrate problem — the gap between physical substrate and conscious experience. Directly relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Deep review involuntariness-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the involuntariness of certain conscious experiences — how some phenomenal features resist voluntary control. Core to the Map's interface framework. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/involuntariness-void.md
+
+### ✓ 2026-03-11: Address temporal consciousness argument weakness in functionalism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the temporal consciousness section (3 sentences) under-argued. The claim that "digital computation lacks temporal structure" conflates abstract computation with physical implementation. Either develop the argument substantially or reduce to a pointer. Also fix duplicate `[temporal-consciousness](/concepts/temporal-consciousness/)` in frontmatter and rename "Relation to the Map's Perspective" to "Relation to Site Perspective". See pessimistic-2026-03-11-evening.md
+- **Output**: obsidian/concepts/functionalism.md
+
+Task context:
+Pessimistic review found the temporal consciousness section (3 sentences) under-argued. The claim that "digital computation lacks temporal structure" conflates abstract computation with physical implementation. Either develop the argument substantially or reduce to a pointer. Also fix duplicate `[temporal-consciousness](/concepts/temporal-consciousness/)` in frontmatter and rename "Relation to the Map's Perspective" to "Relation to Site Perspective". See pessimistic-2026-03-11-evening.md
+
+### ✓ 2026-03-11: Deep review compound-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-09, never reviewed. Voids article on compound cognitive limits — how multiple cognitive limitations interact and compound. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/compound-cognitive-limits.md
+
+### ✓ 2026-03-11: Condense epiphenomenalism.md (3502 words, 100% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments against epiphenomenalism while removing redundancy. See /condense skill.
+- **Output**: obsidian/concepts/epiphenomenalism.md
+
+### ✓ 2026-03-11: Deep review absorption-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. Voids article on the absorption void. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/absorption-void.md
+
+### ✓ 2026-03-11: Integrate metaproblem-of-consciousness-under-dualism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created today but not yet linked from related articles. Add cross-references from meta-problem-of-consciousness.md, self-stultification.md, illusionism.md, and consciousness-and-causal-powers.md.
+- **Output**: obsidian/topics/metaproblem-of-consciousness-under-dualism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-11: Integrate philosophy-of-emotion-under-dualism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created today but not yet linked from related articles. Add cross-references from emotional-consciousness.md, emotion-as-evidence-for-dualism.md, why-pain-hurts.md, and phenomenal-value-realism.md.
+- **Output**: obsidian/topics/philosophy-of-emotion-under-dualism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-11: Integrate content-specificity-of-mental-causation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Content specificity of mental causation is relevant to the Map's arguments about consciousness causally influencing the physical world. Add cross-references from mental-causation.md, placebo-effect-and-mental-causation.md, and consciousness-and-causal-powers.md.
+- **Output**: obsidian/concepts/content-specificity-of-mental-causation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-11: Deep review emotional-epistemology-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the epistemological limits of understanding emotion through non-emotional analysis. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/emotional-epistemology-void.md
+
+### ✓ 2026-03-11: Deep review counterfactual-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the counterfactual void — the impossibility of fully imagining alternative conscious experiences. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/counterfactual-void.md
+
+### ✓ 2026-03-11: Deep review appetitive-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on appetitive aspects of consciousness — desire, craving, and the phenomenology of wanting. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/appetitive-void.md
+
+### ✓ 2026-03-11: Deep review taxonomy-of-voids.md
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) created 2026-03-10, never reviewed. Meta-level synthesis of the voids programme methodology — quality assurance especially important for apex articles. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/apex/taxonomy-of-voids.md
+
+### ✓ 2026-03-11: Deep review presentiment-and-retrocausality.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 35 days ago (2026-02-04). Topics article on presentiment and retrocausality — speculative but relevant to the Map's quantum consciousness framework. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/presentiment-and-retrocausality.md
+
+### ✓ 2026-03-11: Deep review nihilism-and-existentialism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 38 days ago (2026-02-01). Concept page on nihilism and existentialism — important philosophical context for the Map's treatment of meaning, value, and consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/nihilism-and-existentialism.md
+
+### ✓ 2026-03-11: Deep review explanatory-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the explanatory void — the gap between physical explanation and phenomenal experience. Core void concept that supports the Map's case for irreducibility. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/explanatory-void.md
+
+### ✓ 2026-03-11: Deep review indexical-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the indexical void — the gap between third-person descriptions and first-person haecceity. Directly relevant to Tenet 4 (No Many Worlds) and the site's treatment of indexical identity. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/indexical-void.md
+
+### ✓ 2026-03-11: Deep review smoothness-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the smoothness problem — why consciousness presents a seamlessly unified field despite discrete neural processes. Directly relevant to the interface framework and Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/smoothness-problem.md
+
+### ✓ 2026-03-11: Deep review convergence-of-the-void-catalogue.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Meta-level voids article cataloguing patterns across the void collection. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/convergence-of-the-void-catalogue.md
+
+### ✓ 2026-03-11: Integrate consciousness-and-normative-authority.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Normative authority of consciousness is relevant to the Map's arguments about consciousness and reason. Should be referenced from consciousness-and-normative-force.md, argument-from-reason.md, and phenomenal-normativity.md. Add cross-references from related articles.
+- **Output**: consciousness-and-normative-authority.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-11: Integrate consciousness-and-strong-emergence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Strong emergence is central to the physicalism–dualism debate. Should be referenced from emergence.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Add cross-references from related articles.
+- **Output**: consciousness-and-strong-emergence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-11: Integrate analytic-idealism.md into site navigation
 - **Type**: integrate-orphan

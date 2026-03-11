@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-02-25 10:58:00+00:00
+ai_modified: 2026-03-11 19:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -189,6 +189,7 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 
 ## Further Reading
 
+- [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — Empirical evidence that the meaning of conscious states determines which physical effects occur
 - [mental-causation](/concepts/mental-causation/) — The philosophical problem downward causation addresses
 - [selection-laws](/concepts/selection-laws/) — The downward direction of psychophysical laws
 - [causal-closure](/concepts/causal-closure/) — The principle downward causation challenges

@@ -128,6 +128,7 @@ Current evidence supports none of these conditions fully, though contemplative t
 - [Introspective Opacity](/voids/introspective-opacity/) — The broader phenomenon of hidden cognitive processes
 - [The Affective Void](/voids/affective-void/) — Emotions beyond human phenomenological reach
 - [Emotional Consciousness and Valence](/topics/emotional-consciousness/) — The felt quality problem for emotions
+- [Philosophy of Emotion Under Dualism](/topics/philosophy-of-emotion-under-dualism/) — Emotions as irreducible conscious acts, including why self-knowledge overflows conceptual categories
 - [Destabilizing Self-Knowledge](/voids/destabilizing-self-knowledge/) — Knowledge that dissolves the capacity to hold it
 - [Voids in the Map](/voids/) — The broader framework for cognitive limits
 

@@ -27,7 +27,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[visual-consciousness]]'
-- '[[phenomenology-of-perceptual-constancy]]'
+- '[[consciousness-as-perceptual-architect]]'
 - '[[sensorimotor-contingencies-and-the-interface]]'
 - '[[phenomenal-acquaintance]]'
 - '[[phenomenal-transparency]]'
@@ -129,7 +129,7 @@ The Unfinishable Map's [tenets](/tenets/) find their sharpest expression in perc
 
 - [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/)
 - [visual-consciousness](/concepts/visual-consciousness/)
-- [phenomenology-of-perceptual-constancy](/topics/phenomenology-of-perceptual-constancy/)
+- [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
 - [access-consciousness](/concepts/access-consciousness/)
 - [blindsight](/concepts/blindsight/)

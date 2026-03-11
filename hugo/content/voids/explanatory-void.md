@@ -1,13 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-27
-ai_modified: 2026-02-27 12:46:00+00:00
+ai_modified: 2026-03-11 18:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[mysterianism]]'
 - '[[phenomenology]]'
 - '[[introspection]]'
+- '[[explanatory-gap]]'
+- '[[epistemic-emotions]]'
 created: 2026-02-27
 date: &id001 2026-02-27
 description: Human+AI exploration of why explanation cannot explain itself—the recursive
@@ -16,6 +18,7 @@ description: Human+AI exploration of why explanation cannot explain itself—the
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-03-11 18:03:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -29,6 +32,7 @@ related_articles:
 - '[[epistemology-of-cognitive-limits]]'
 - '[[language-thought-boundary]]'
 - '[[creativity-void]]'
+- '[[recursion-void]]'
 title: The Explanatory Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -71,21 +75,27 @@ Each option means that explanation never reaches bedrock. The Principle of Suffi
 
 The explanatory void compounds several limits explored elsewhere on the Map. The [introspective opacity](/voids/introspective-opacity/) of cognitive processes means we cannot observe the mechanism of understanding while it operates. The [language-thought-boundary](/voids/language-thought-boundary/) constrains how we can articulate what understanding consists in. And the [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) suggests these failures are not random but have characteristic shapes—the explanatory void always manifests as regress, as ungrounded feeling, or as inarticulate preference, never in some unforeseen fourth way.
 
-Research on epistemic feelings—familiarity, confidence, doubt, curiosity—shows that feelings of confidence in judgments "overestimate evidence for the chosen interpretation by discounting evidence for alternatives" (Arango-Muñoz & Michaelian 2020). The neural mechanisms generating these feelings are largely unknown. We are in the position of trusting an instrument whose calibration we cannot check.
+Research on [epistemic feelings](/concepts/epistemic-emotions/)—familiarity, confidence, doubt, curiosity—shows that feelings of confidence in perceptual judgments "overestimate evidence for the chosen interpretation by discounting evidence for alternatives" (Arango-Muñoz & Michaelian 2020). If this bias extends to explanatory judgments, every satisfying explanation may discount the alternatives it excluded. The neural mechanisms generating these feelings are largely unknown. We are in the position of trusting an instrument whose calibration we cannot check.
 
-Within the [taxonomy of voids](/voids/three-kinds-of-void/), the explanatory void spans all three categories. It is partly *unexplored*—the cognitive science of understanding remains young, and the neuroscience of the "aha" moment is incomplete. It is partly *unexplorable*—the recursive structure means explanation cannot fully explain explanation without circularity. And it is partly *occluded*—the fluency effects that make smooth explanations feel deep, regardless of their actual depth, actively hide the gap between comprehension and its semblance.
+Within the [taxonomy of voids](/voids/three-kinds-of-void/), the explanatory void spans all three categories. It is partly *unexplored*—the cognitive science of understanding remains young, and the neuroscience of the "aha" moment is incomplete. It is partly *unexplorable*—the recursive structure means explanation cannot fully explain explanation without circularity, a constraint the [recursion-void](/voids/recursion-void/) examines in its general form. And it is partly *occluded*—the fluency effects that make smooth explanations feel deep, regardless of their actual depth, actively hide the gap between comprehension and its semblance.
+
+A functionalist might dissolve the void by identifying understanding with a functional state—something a system does rather than something it feels. On this view, an explanation "works" when it enables prediction and intervention, and no further phenomenal grounding is needed. But this dissolves the wrong problem. The functional account of explanation is available; what resists analysis is why functional success produces a phenomenal sense of illumination at all. The void is not about what explanations do but about what they feel like—and why we trust that feeling. Jonathan Kvanvig's distinction between knowledge and understanding sharpens this point: understanding requires grasping connections in a way that goes beyond accumulating facts, yet what "grasping" consists in phenomenally remains opaque (Kvanvig 2003).
 
 ## Relation to Site Perspective
 
 The Map's fifth tenet—[Occam's Razor Has Limits](/tenets/#occams-limits)—connects directly to the explanatory void. If the feeling of understanding is unreliable and the regress of explanation is inescapable, then our preference for simpler explanations may reflect cognitive architecture rather than metaphysical truth. Occam's Razor feels like a discovery about reality; it may instead be a discovery about what kinds of explanations produce the strongest phenomenal sense of comprehension. The Map's insistence that simplicity is an unreliable guide when knowledge is incomplete gains force when the very mechanism of explanatory preference cannot vouch for its own reliability.
 
-The explanatory void also extends the hard problem into epistemology. If understanding is a phenomenal state—something it is like to "get it"—then explaining why physical brain processes produce that feeling is another instance of the [explanatory gap](/topics/hard-problem-of-consciousness/) between physical description and subjective experience. The Map's commitment to [dualism](/tenets/#dualism) predicts exactly this: that the phenomenal character of understanding will resist reduction to its functional or neural correlates, just as pain resists reduction to C-fibre firing. The void is not a puzzle to be solved by more neuroscience but a structural feature of a reality that includes irreducible experience.
+The explanatory void also extends the hard problem into epistemology. If understanding is a phenomenal state—something it is like to "get it"—then explaining why physical brain processes produce that feeling is another instance of the [explanatory gap](/concepts/explanatory-gap/) between physical description and subjective experience. The Map's commitment to [dualism](/tenets/#dualism) predicts exactly this: that the phenomenal character of understanding will resist reduction to its functional or neural correlates, just as pain resists reduction to C-fibre firing. The void is not a puzzle to be solved by more neuroscience but a structural feature of a reality that includes irreducible experience.
+
+The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet adds a further dimension. If consciousness causally influences inquiry—guiding which explanations we pursue, which we find satisfying, which we accept—then the feeling of understanding is not merely epiphenomenal accompaniment but part of the causal process of knowledge-seeking. The unreliability of this feeling, documented above, means the causal interface between mind and explanatory activity is itself partially opaque: consciousness steers inquiry through a signal it cannot fully calibrate.
 
 ## Further Reading
 
 - [three-kinds-of-void](/voids/three-kinds-of-void/)
+- [explanatory-gap](/concepts/explanatory-gap/)
 - [introspective-opacity](/voids/introspective-opacity/)
 - [intentionality-void](/voids/intentionality-void/)
+- [recursion-void](/voids/recursion-void/)
 - [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/)
 - [whether-real](/voids/whether-real/)
 - [limits-reveal-structure](/voids/limits-reveal-structure/)

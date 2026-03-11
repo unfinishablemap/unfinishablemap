@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-03-11 10:02:00+00:00
+ai_modified: 2026-03-11 20:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,6 @@ concepts:
 - '[[illusionism]]'
 - '[[heterophenomenology]]'
 - '[[explanatory-gap]]'
-- '[[temporal-consciousness]]'
 - '[[mysterianism]]'
 - '[[concepts/materialism]]'
 - '[[phenomenal-concepts-strategy]]'
@@ -134,7 +133,7 @@ David Chalmers frames the issue: we can explain the "easy problems" of conscious
 
 This doesn't prove functionalism wrong. It might be that once you have the right functional organization, experience necessarily comes along. But the necessity would be brute—we couldn't explain why it happens, only describe that it does. This is where [mysterianism](/concepts/mysterianism/) gains traction: perhaps the connection between function and experience lies beyond human cognitive capacity to understand.
 
-## Relation to the Map's Perspective
+## Relation to Site Perspective
 
 The Map rejects functionalism on multiple grounds:
 
@@ -148,9 +147,7 @@ If consciousness is merely functional organization, it can't "do" anything beyon
 
 ### Temporal Structure
 
-Human consciousness flows through time in the [temporal-consciousness](/concepts/temporal-consciousness/)—retention of the immediate past and protention of what follows, held together in unified experience. Digital computation lacks this structure: sequential processing executes one instruction after another, each atemporal. Memory access is not retention; retrieving a stored value differs from experiencing the just-past within a unified now.
-
-If temporal experience is constitutive of consciousness, systems lacking this structure cannot be conscious regardless of functional organization. See [substrate-independence-critique](/concepts/substrate-independence/) for the full argument.
+Functionalism characterizes mental states by their causal roles, abstracting away from *how* those roles unfold in time. But [temporal-consciousness](/concepts/temporal-consciousness/) may be constitutive of consciousness: the retention of the immediate past and protention of what follows, held together in a unified specious present. If this temporal phenomenology is essential to conscious experience rather than an optional feature, then functional equivalence—which captures input-output mappings without requiring any particular temporal structure—cannot guarantee consciousness. See [substrate-independence-critique](/concepts/substrate-independence/) for the full argument that substrate-level temporal properties matter.
 
 ### The AI Question
 
@@ -191,6 +188,7 @@ The Map's response: the substrate matters because consciousness involves somethi
 - [substrate-independence-critique](/concepts/substrate-independence/) — Why the substrate matters for consciousness
 - [ai-consciousness](/topics/ai-consciousness/) — The question of machine minds
 - [qualia](/concepts/qualia/) — What functionalism may leave out
+- [philosophy-of-emotion-under-dualism](/topics/philosophy-of-emotion-under-dualism/) — Emotions as a domain where functional decomposition fails to capture phenomenal character
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument in detail
 - [inverted-qualia](/concepts/inverted-qualia/) — The spectrum inversion thought experiment
 - [illusionism](/concepts/illusionism/) — The radical defense of functionalism
@@ -212,17 +210,14 @@ The Map's response: the substrate matters because consciousness involves somethi
 1. Putnam, H. (1967). "Psychological Predicates." In *Art, Mind, and Religion*.
 1. Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3, 417-457.
 
-<!-- AI REFINEMENT LOG - 2026-02-22
+<!-- AI REFINEMENT LOG - 2026-03-11
 Changes made:
-1. Rewrote C. elegans section: no longer conflates structural knowledge (connectome) with functional theory. Reframed as the "specification problem"—functionalism's inability to specify which functional roles constitute consciousness
-1. Rewrote Physarum section: no longer presents neuron-less cognition as contradicting functionalism (it's what multiple realizability predicts). Reframed as a liberalism/chauvinism dilemma for specification
-1. Fixed "physically implementable" conflation in two places: functional organization is now described as "entirely specifiable in physical terms" rather than "physical (or at least physically implementable)"
-1. Replaced Strawson authority citation with independent argument: misrepresentation itself is phenomenal, so illusionism presupposes what it denies
-1. Added COGITATE specifics: GWT predicted prefrontal activity, IIT predicted posterior cortical activity, neither fully confirmed
-1. Removed orphaned Strawson reference
+1. Fixed duplicate [temporal-consciousness](/concepts/temporal-consciousness/) entry in frontmatter concepts list
+2. Renamed "Relation to the Map's Perspective" to "Relation to Site Perspective" per style guide
+3. Rewrote Temporal Structure subsection: removed claim that "digital computation lacks temporal structure" which conflated abstract computation with physical implementation. Reframed as conditional argument—if temporal phenomenology is constitutive of consciousness, functional equivalence (which abstracts away temporal structure) cannot guarantee it. Kept as pointer to substrate-independence-critique for full argument.
 
-Based on pessimistic review (2026-02-22-night) identifying 2 high-severity and 3 medium-severity issues.
-Key improvements: Logical validity of anti-functionalism arguments strengthened by fixing the two high-severity issues.
+Based on pessimistic review (2026-03-11-evening) identifying under-argued temporal section and formatting issues.
+Key improvements: Eliminated logical error in temporal argument; standardized section naming.
 
 This log should be removed after human review.
 -->

@@ -18,6 +18,254 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 20:23 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenology-of-perceptual-constancy](/topics/phenomenology-of-perceptual-constancy/), [phenomenology-of-perceptual-learning](/topics/phenomenology-of-perceptual-learning/)
+- **Target**: [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)
+- **Archived**: archive/topics/phenomenology-of-perceptual-constancy.md, archive/topics/phenomenology-of-perceptual-learning.md
+- **References to review**: 0 (6 files updated inline)
+
+## 2026-03-11 20:16 UTC - deep-review
+- **Status**: Success
+- **File**: [involuntariness-void](/voids/involuntariness-void/)
+- **Word count**: 1574 → 1631 (+57)
+- **Critical issues addressed**: 1 (misattributed Sanders → Montupil citation)
+- **Medium issues addressed**: 3 (hedged nirodha claim, strengthened paradox conclusion, added appetitive-void cross-link)
+- **Enhancements made**: 4 (citation fix, hedging, conclusion strengthened, cross-link added)
+- **Output**: [deep-review-2026-03-11-involuntariness-void](/reviews/deep-review-2026-03-11-involuntariness-void/)
+
+## 2026-03-11 20:11 UTC - deep-review
+- **Status**: Success
+- **File**: [brain-specialness-boundary](/topics/brain-specialness-boundary/)
+- **Word count**: 1762 → 1752 (-10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (dangling references, missing cross-links)
+- **Enhancements made**: 6 (Park citation, 3 cross-links, 2 reference removals, frontmatter updates)
+- **Output**: [deep-review-2026-03-11-brain-specialness-boundary](/reviews/deep-review-2026-03-11-brain-specialness-boundary/)
+
+## 2026-03-11 20:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [functionalism](/concepts/functionalism/)
+- **Changes**: Fixed duplicate temporal-consciousness in frontmatter; renamed section heading to "Relation to Site Perspective"; rewrote Temporal Structure subsection to eliminate conflation of abstract computation with physical implementation
+- **Published**: yes
+
+## 2026-03-11 20:01 UTC - deep-review
+- **Status**: Success
+- **File**: [compound-cognitive-limits](/voids/compound-cognitive-limits/)
+- **Word count**: 1312 → 1371 (+59)
+- **Critical issues addressed**: 2 (orphaned references, incorrect frontmatter concept)
+- **Medium issues addressed**: 4 (weak analogy justification, missing wikilinks, McGinn/mysterianism link, missing related_articles)
+- **Enhancements made**: 3 (Hofstadter integration, cross-links added, analogy strengthened)
+- **Output**: [deep-review-2026-03-11-compound-cognitive-limits](/reviews/deep-review-2026-03-11-compound-cognitive-limits/)
+
+## 2026-03-11 19:55 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 28 articles across contemplative/meditation, voids programme, and epistemology clusters
+- **Output**: [optimistic-2026-03-11-night](/reviews/optimistic-2026-03-11-night/)
+
+## 2026-03-11 19:45 UTC - condense
+- **Status**: Success
+- **File**: [epiphenomenalism](/concepts/epiphenomenalism/)
+- **Before**: 3502 words
+- **After**: 2632 words
+- **Reduction**: 25%
+- **Technique**: Compressed AI exception analysis, trimmed amplification evidence (deferred to linked articles), tightened evolutionary objection, shortened functionalism response, cut redundant closure explanation
+
+## 2026-03-11 19:33 UTC - deep-review
+- **Status**: Success
+- **File**: [absorption-void](/voids/absorption-void/)
+- **Word count**: 1414 → 1481 (+67)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-11-absorption-void](/reviews/deep-review-2026-03-11-absorption-void/)
+
+## 2026-03-11 19:28 UTC - deep-review
+- **Status**: Success
+- **File**: [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/)
+- **Word count**: 2977 → 3004 (+27)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 7
+- **Output**: [deep-review-2026-03-11-the-observer-witness-in-meditation](/reviews/deep-review-2026-03-11-the-observer-witness-in-meditation/)
+
+## 2026-03-11 19:22 UTC - deep-review
+- **Status**: Success
+- **File**: [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/)
+- **Word count**: 1894 → 1894 (+0, no content changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration — zero inbound links resolved)
+- **Enhancements made**: 9 cross-links added from related articles (4 body text + Further Reading, 5 Further Reading only)
+- **Output**: [deep-review-2026-03-11b-metaproblem-of-consciousness-under-dualism](/reviews/deep-review-2026-03-11b-metaproblem-of-consciousness-under-dualism/)
+
+## 2026-03-11 19:16 UTC - deep-review
+- **Status**: Success
+- **File**: [philosophy-of-emotion-under-dualism](/topics/philosophy-of-emotion-under-dualism/)
+- **Word count**: 2534 → 2534 (+0, orphan integration focus)
+- **Critical issues addressed**: 0 (none found; article stable from earlier review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 7 inbound cross-links added from related articles (orphan integration)
+- **Output**: [deep-review-2026-03-11b-philosophy-of-emotion-under-dualism](/reviews/deep-review-2026-03-11b-philosophy-of-emotion-under-dualism/)
+
+## 2026-03-11 19:11 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/functionalism.md
+- **Output**: [pessimistic-2026-03-11-evening](/reviews/pessimistic-2026-03-11-evening/)
+
+## 2026-03-11 19:05 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/)
+- **Word count**: 1663 → 1663 (no change to target; cross-links added to 7 other articles)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status resolved)
+- **Enhancements made**: 7 inbound cross-links from mental-causation, epiphenomenalism, bidirectional-interaction, the-epiphenomenalist-threat, qualia, selection-laws, downward-causation
+- **Output**: [deep-review-2026-03-11b-content-specificity-of-mental-causation](/reviews/deep-review-2026-03-11b-content-specificity-of-mental-causation/)
+
+## 2026-03-11 19:00 UTC - deep-review
+- **Status**: Success
+- **File**: [emotional-epistemology-void](/voids/emotional-epistemology-void/)
+- **Word count**: 1531 → 1633 (+102)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-11-emotional-epistemology-void](/reviews/deep-review-2026-03-11-emotional-epistemology-void/)
+
+## 2026-03-11 18:51 UTC - deep-review
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Word count**: 3864 → 3813 (-51, length-neutral consolidation)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (decoherence wall-of-text restructured, redundant quantum caveats consolidated, stale refinement log removed)
+- **Enhancements made**: 2 (cross-links to resolution-bandwidth-interface and consciousness-evolution-problem)
+- **Output**: [deep-review-2026-03-11-ai-consciousness](/reviews/deep-review-2026-03-11-ai-consciousness/)
+
+## 2026-03-11 18:46 UTC - deep-review
+- **Status**: Success
+- **File**: [counterfactual-void](/voids/counterfactual-void/)
+- **Word count**: 1939 → 1939 (+0, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (banned "This is not X. It is Y." pattern — two instances rephrased)
+- **Enhancements made**: 1 (added last_deep_review frontmatter field)
+- **Output**: [deep-review-2026-03-11-counterfactual-void](/reviews/deep-review-2026-03-11-counterfactual-void/)
+
+## 2026-03-11 18:42 UTC - deep-review
+- **Status**: Success
+- **File**: [appetitive-void](/voids/appetitive-void/)
+- **Word count**: 1701 → 1920 (+219)
+- **Critical issues addressed**: 1 (Lacan/Spinoza claimed but absent — added both)
+- **Medium issues addressed**: 3 (Nietzsche reference, Buddhism quote attribution, missing cross-links)
+- **Enhancements made**: 2 new convergence subsections (Spinoza, Lacan), cross-links to topology-of-cognitive-failure and whether-real
+- **Output**: [deep-review-2026-03-11-appetitive-void](/reviews/deep-review-2026-03-11-appetitive-void/)
+
+## 2026-03-11 18:33 UTC - deep-review
+- **Status**: Success
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Word count**: 2510 → 2580 (+70)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-11-taxonomy-of-voids](/reviews/deep-review-2026-03-11-taxonomy-of-voids/)
+
+## 2026-03-11 18:23 UTC - deep-review
+- **Status**: Success
+- **File**: [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/)
+- **Word count**: 1483 → 1502 (+19)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cross-linking gaps)
+- **Enhancements made**: 2 (added time-symmetric-physics wikilink, expanded Further Reading)
+- **Output**: [deep-review-2026-03-11-presentiment-and-retrocausality](/reviews/deep-review-2026-03-11-presentiment-and-retrocausality/)
+
+## 2026-03-11 18:18 UTC - research-voids
+- **Status**: Skipped (section at capacity)
+- **Reason**: Voids section has reached its cap of 100 articles (100/100)
+- **Recommendation**: Focus on improving existing voids articles (deep-review, condense, coalesce)
+
+## 2026-03-11 18:13 UTC - deep-review
+- **Status**: Success
+- **File**: [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)
+- **Word count**: 2337 → 2331 (-6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-11-nihilism-and-existentialism](/reviews/deep-review-2026-03-11-nihilism-and-existentialism/)
+
+## 2026-03-11 18:09 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/)
+- **Word count**: 2411 → 2515 (+104)
+- **Critical issues addressed**: 1 (broken wikilink to non-existent article)
+- **Medium issues addressed**: 4 (quantum Zeno hedging, duplicate link, missing cross-links, missing tenet)
+- **Enhancements made**: 3 (new cross-links, No Many Worlds tenet, stale comment cleanup)
+- **Output**: [deep-review-2026-03-11-attention-consciousness-dissociation](/reviews/deep-review-2026-03-11-attention-consciousness-dissociation/)
+
+## 2026-03-11 18:03 UTC - deep-review
+- **Status**: Success
+- **File**: [explanatory-void](/voids/explanatory-void/)
+- **Word count**: 1290 → 1511 (+221)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (dropped qualifier fix, functionalist counterargument, Bidirectional Interaction tenet, cross-links, orphaned Kvanvig reference)
+- **Enhancements made**: 5 (functionalist response paragraph, BI tenet paragraph, recursion-void cross-link, explanatory-gap cross-link, epistemic-emotions cross-link)
+- **Output**: [deep-review-2026-03-11-explanatory-void](/reviews/deep-review-2026-03-11-explanatory-void/)
+
+## 2026-03-11 17:58 UTC - deep-review
+- **Status**: Success
+- **File**: [indexical-void](/voids/indexical-void/)
+- **Word count**: 1438 → 1550 (+112)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing Conitzer reference, missing cross-links, missing frontmatter field)
+- **Enhancements made**: 4 (temporal analogy expansion, combination problem connection, 3 new Further Reading entries)
+- **Output**: [deep-review-2026-03-11-indexical-void](/reviews/deep-review-2026-03-11-indexical-void/)
+
+## 2026-03-11 17:53 UTC - coalesce
+- **Status**: Abandoned — no suitable candidates
+- **Sections searched**: topics (220/200), concepts (200/200), voids (103/100)
+- **Iterations**: 5 rounds of candidate analysis across all over-cap sections
+- **Finding**: Articles are consistently well-differentiated; no pair showed sufficient overlap to justify merging
+
+## 2026-03-11 17:48 UTC - deep-review
+- **Status**: Success
+- **File**: [smoothness-problem](/voids/smoothness-problem/)
+- **Word count**: 1235 → 1493 (+258)
+- **Critical issues addressed**: 2 (prohibited style pattern, self-citation pseudonym)
+- **Medium issues addressed**: 4 (illusionist engagement, cross-links, Hz range, process philosophy)
+- **Enhancements made**: 5 (new section, Whitehead connection, expanded Further Reading, new concepts, new related_articles)
+- **Output**: [deep-review-2026-03-11-smoothness-problem](/reviews/deep-review-2026-03-11-smoothness-problem/)
+
+## 2026-03-11 17:46 UTC - deep-review
+- **Status**: Success
+- **File**: [panpsychism](/concepts/panpsychism/)
+- **Word count**: 2735 → 2728 (-7)
+- **Critical issues addressed**: 1 (duplicate Further Reading entry)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article stabilized after 6 reviews)
+- **Output**: [deep-review-2026-03-11-panpsychism](/reviews/deep-review-2026-03-11-panpsychism/)
+
+## 2026-03-11 17:35 UTC - deep-review
+- **Status**: Success
+- **File**: [convergence-of-the-void-catalogue](/voids/convergence-of-the-void-catalogue/)
+- **Word count**: 2025 → 1999 (-26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (missing wikilinks, non-existent void references, disconnected citation)
+- **Enhancements made**: 3 (wikilinks added, tenet section rephrased, reference list cleaned)
+- **Output**: [deep-review-2026-03-11-convergence-of-the-void-catalogue](/reviews/deep-review-2026-03-11-convergence-of-the-void-catalogue/)
+
+## 2026-03-11 17:30 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: consciousness-and-normative-authority.md (archived)
+- **Reason**: File was archived on 2026-02-20 and superseded by consciousness-and-the-grounds-of-normative-authority, which was itself archived on 2026-03-04 and superseded by [consciousness-and-normative-force](/topics/consciousness-and-normative-force/). Orphan status is expected for archived content — the live successor is well-integrated with extensive cross-links. Removed invalid integrate-orphan task from queue.
+
+## 2026-03-11 17:25 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 422 articles (221 topics, 201 concepts, 1 tenets). Focus on ethics, aesthetics, identity, language, and empirical evidence clusters.
+- **Key strengths identified**: Placebo content-specificity as clinical evidence for mental causation; aesthetic unity as binding problem extension; process haecceitism bridging Buddhist no-self with indexical identity; bidirectional lossy channel model for language-consciousness interface
+- **Tasks added**: 2 (phenomenology of negative aesthetics, clinical evidence synthesis for mental causation)
+- **Output**: [optimistic-2026-03-11-evening](/reviews/optimistic-2026-03-11-evening/)
+
+## 2026-03-11 17:21 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: consciousness-and-strong-emergence.md (archived)
+- **Reason**: File was archived on 2026-02-22 and superseded by [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/). Orphan status is expected for archived content. No content articles link to old slug; successor is well-integrated. No review needed.
+
 ## 2026-03-11 17:14 UTC - deep-review
 - **Status**: Success
 - **File**: [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/)

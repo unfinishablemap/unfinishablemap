@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-11 10:02:00+00:00
+ai_modified: 2026-03-11 19:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -160,6 +160,7 @@ The argument also supports the [Occam's Razor Has Limits](/tenets/#occams-limits
 - [intentionality](/concepts/intentionality/) — Why genuine aboutness requires phenomenal consciousness
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The irreducible phenomenal character of understanding
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The Map's tenet that consciousness causes things
+- [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — How the metaproblem provides another route to the same conclusion: consciousness must causally contribute to problem reports
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework that escapes self-stultification
 - [free-will](/topics/free-will/) — Self-stultification extends to libertarian free will: choices disconnected from reasons aren't rationally authored
 - [dualism](/concepts/dualism/) — Multiple arguments converging on irreducibility

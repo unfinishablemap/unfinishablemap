@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 20:23 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/phenomenology-of-perceptual-constancy]], [[topics/phenomenology-of-perceptual-learning]]
+- **Target**: [[topics/consciousness-as-perceptual-architect]]
+- **Archived**: archive/topics/phenomenology-of-perceptual-constancy.md, archive/topics/phenomenology-of-perceptual-learning.md
+- **References to review**: 0 (6 files updated inline)
+
 ## 2026-03-11 20:16 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/involuntariness-void]]

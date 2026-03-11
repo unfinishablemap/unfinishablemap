@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-03 22:42:00+00:00
+ai_modified: 2026-03-11 19:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -235,6 +235,7 @@ AST illustrates a recurring pattern in consciousness science: explaining the *fu
 - [introspection](/concepts/introspection/) — First-person methods and their reliability
 - [haecceity](/concepts/haecceity/) — The indexical identity problem AST cannot address
 - [mental-effort](/concepts/mental-effort/) — The phenomenology AST must explain away
+- [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — How AST's meta-problem answer exposes illusionism's escalating burden
 - [decoherence](/concepts/decoherence/) — The quantum objection (which AST sidesteps but doesn't refute)
 
 ## References

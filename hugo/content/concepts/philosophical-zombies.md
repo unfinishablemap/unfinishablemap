@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-11 10:02:00+00:00
+ai_modified: 2026-03-11 19:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -106,7 +106,7 @@ You say things like "I am conscious" and "I experience qualia." Your conscious e
 
 If physicalism is true, your utterances are caused by the same physical processes that cause the zombie's. But then your consciousness isn't playing a causal role in producing your reports about consciousness. This makes your reports accidentally accurate at best—a strange result for the physicalist who trusts their own introspection enough to theorize about consciousness.
 
-This connects to the critique of [epiphenomenalism](/concepts/epiphenomenalism/): if consciousness doesn't cause our reports about consciousness, those reports are mysteriously reliable. The self-stultification problem also sharpens the [epistemology of other minds](/concepts/epistemology-of-other-minds-under-dualism/): if a zombie's reports are indistinguishable from a conscious being's, verbal testimony alone cannot settle whether another person is conscious.
+This connects to the critique of [epiphenomenalism](/concepts/epiphenomenalism/): if consciousness doesn't cause our reports about consciousness, those reports are mysteriously reliable. The [metaproblem argument](/topics/metaproblem-of-consciousness-under-dualism/) sharpens this further: if consciousness causally contributes to philosophical reasoning, zombies and conscious beings should produce *different* problem reports—diverging in philosophical depth, phenomenological refinement, and capacity for novel insight. The self-stultification problem also sharpens the [epistemology of other minds](/concepts/epistemology-of-other-minds-under-dualism/): if a zombie's reports are indistinguishable from a conscious being's, verbal testimony alone cannot settle whether another person is conscious.
 
 ## The Illusionist Challenge
 
@@ -212,6 +212,7 @@ The zombie argument connects to all five of the Map's tenets.
 - [haecceity](/concepts/haecceity/) — The irreducible "thisness" that zombie scenarios presuppose
 - [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) — How zombie conceivability shapes epistemic access to other minds
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The broader epistemological puzzle about knowing others are conscious
+- [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — The zombie divergence prediction: how conscious and zombie problem reports should differ
 - [language-and-consciousness](/concepts/language-and-consciousness/) — How meaning and reference fail for zombie utterances, reinforcing the conceivability argument
 
 ### External Sources

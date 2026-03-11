@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-04 13:38:00+00:00
+ai_modified: 2026-03-11 19:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -141,7 +141,7 @@ The [psychophysical-laws](/concepts/psychophysical-laws/) article surveys five c
 
 2. **Intention → probability weighting** (Eccles): Mental intention modulates vesicle release probabilities via quantum tunneling. Moderately developed but faces the pairing problem.
 
-3. **Valence → action selection**: Phenomenal pleasure/pain influences approach/avoidance. Evidence from [pain asymbolia](/topics/pain-consciousness-and-causal-power/) supports the causal role of felt badness — phenomenal character and causal power are inseparable in pain — but no quantum mechanism proposed.
+3. **Valence → action selection**: Phenomenal pleasure/pain influences approach/avoidance. Evidence from [pain asymbolia](/topics/pain-consciousness-and-causal-power/) supports the causal role of felt badness — phenomenal character and causal power are inseparable in pain — but no quantum mechanism proposed. More broadly, [content-specificity](/concepts/content-specificity-of-mental-causation/) shows that the *meaning* of a conscious state determines *which* physical effect occurs — different placebo beliefs produce different neurochemical cascades, and the granularity of this mapping tracks the granularity of phenomenal content.
 
 4. **Qualia → basis selection**: Qualitative character might determine which measurement basis applies. Purely speculative.
 
@@ -254,6 +254,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — The distinct challenge of whether the mind-body channel carries enough information
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Empirical bandwidth data and its philosophical implications
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain as the paradigm case: phenomenal character inseparable from causal power
+- [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — The empirical pattern: meaning determines which physical effect occurs across multiple domains
 - [quantum-consciousness](/concepts/quantum-consciousness/) — How consciousness interfaces with physics
 - [decoherence](/concepts/decoherence/) — The physics challenge and why it doesn't close the quantum opening
 - [interface-locality](/concepts/brain-interface-boundary/) — Why consciousness affects only its own brain

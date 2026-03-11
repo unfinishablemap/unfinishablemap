@@ -36,7 +36,7 @@ related_articles:
 title: Philosophy of Perception Under Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[phenomenology-of-perceptual-constancy]]'
+- '[[consciousness-as-perceptual-architect]]'
 - '[[attention-as-selection-interface]]'
 - '[[predictive-processing-and-the-maps-framework]]'
 ---
@@ -81,7 +81,7 @@ Under physicalism, the conscious subject is typically treated as the endpoint of
 
 The Map's [bidirectional interaction](/tenets/#bidirectional-interaction) tenet opens a different possibility. If consciousness causally influences physical processes, then perception is not a one-way street. Consciousness may actively shape what is perceived—not in the sense of hallucinating or distorting, but in the sense of selecting, organising, and constituting the perceptual field.
 
-This aligns with [perceptual constancy](/topics/phenomenology-of-perceptual-constancy/). A white wall looks white under candlelight and fluorescent light despite radically different wavelength compositions reaching the eye. Neuroscience explains much of this through adaptation, gain control, and cortical normalisation (Palmer, 1999), but the constancy as *experienced*—the seamless stability of the perceived world—goes beyond what these mechanisms predict. If consciousness contributes to maintaining this experiential stability—selecting the stable distal interpretation over the fluctuating proximal stimulus—then perception involves [downward-causation](/concepts/downward-causation/) from consciousness to neural processing.
+This aligns with [perceptual constancy](/topics/consciousness-as-perceptual-architect/). A white wall looks white under candlelight and fluorescent light despite radically different wavelength compositions reaching the eye. Neuroscience explains much of this through adaptation, gain control, and cortical normalisation (Palmer, 1999), but the constancy as *experienced*—the seamless stability of the perceived world—goes beyond what these mechanisms predict. If consciousness contributes to maintaining this experiential stability—selecting the stable distal interpretation over the fluctuating proximal stimulus—then perception involves [downward-causation](/concepts/downward-causation/) from consciousness to neural processing.
 
 The [attentional selection](/topics/attention-as-selection-interface/) framework extends this further. Attention determines which sensory signals reach consciousness and in what form. If attention is the interface where consciousness selects among competing neural representations, then the content of perception is partly determined by consciousness itself. The perceiver is not a passive screen on which the world projects images but an active participant in constituting what appears.
 
@@ -125,7 +125,7 @@ The Unfinishable Map's [tenets](/tenets/) reshape the philosophy of perception i
 
 ## Further Reading
 
-- [phenomenology-of-perceptual-constancy](/topics/phenomenology-of-perceptual-constancy/)
+- [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)
 - [attention-as-selection-interface](/topics/attention-as-selection-interface/)
 - [blindsight](/concepts/blindsight/)
 - [qualia](/concepts/qualia/)

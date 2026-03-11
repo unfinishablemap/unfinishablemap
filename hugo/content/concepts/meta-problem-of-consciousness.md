@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-02-15 01:55:00+00:00
+ai_modified: 2026-03-11 19:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,6 +31,7 @@ related_articles:
 - '[[concepts/materialism]]'
 - '[[mysterianism]]'
 - '[[substance-property-dualism]]'
+- '[[metaproblem-of-consciousness-under-dualism]]'
 title: The Meta-Problem of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -67,7 +68,7 @@ If the illusionist's meta-problem solution is too simple, it doesn't explain the
 
 For dualists, the meta-problem has a straightforward answer: we report that consciousness is puzzling because it genuinely *is* puzzling. Problem intuitions accurately track a real feature of the world—the irreducibility of experience to physical processes. We say zombies are conceivable because the physical and the phenomenal really are separable. We report that Mary learns something because she genuinely acquires a new kind of knowledge.
 
-This "face-value" solution has a simplicity that illusionist alternatives lack. The problem intuitions are reliable because they reflect facts about the relationship between consciousness and physics. There is no illusion to explain, no systematic misrepresentation to account for. The meta-problem resolves naturally.
+This "face-value" solution has a simplicity that illusionist alternatives lack. The problem intuitions are reliable because they reflect facts about the relationship between consciousness and physics. There is no illusion to explain, no systematic misrepresentation to account for. The meta-problem resolves naturally. The [interactionist development](/topics/metaproblem-of-consciousness-under-dualism/) of this argument goes further: realizationism—the view that consciousness causally contributes to problem intuitions—follows directly from the Bidirectional Interaction tenet, converting the metaproblem from a challenge into evidence for dualism.
 
 Chalmers himself noted this asymmetry. If the hard problem is real, the meta-problem is expected—of course we'd report difficulty explaining something that genuinely resists explanation. If the hard problem is illusory, the meta-problem becomes urgent—why do we so persistently misrepresent our own minds?
 
@@ -125,6 +126,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is relevant because
 - [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) — The modal reasoning behind zombie scenarios
 - [attention-schema-theory](/concepts/attention-schema-theory/) — A mechanistic account addressing the meta-problem
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment sharpening the meta-problem
+- [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — How interactionist dualism turns the metaproblem into evidence for dualism
 - [phenomenal-transparency](/concepts/phenomenal-transparency/) — How self-concealing representation connects to problem intuitions
 - [causal-closure](/concepts/causal-closure/) — The challenge interactionism must address
 - [mysterianism](/concepts/mysterianism/) — The view that consciousness may exceed human comprehension

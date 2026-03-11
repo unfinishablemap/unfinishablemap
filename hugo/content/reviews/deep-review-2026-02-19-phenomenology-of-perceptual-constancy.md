@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-19
-**Article**: [The Phenomenology of Perceptual Constancy](/topics/phenomenology-of-perceptual-constancy/)
+**Article**: [The Phenomenology of Perceptual Constancy](/topics/consciousness-as-perceptual-architect/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

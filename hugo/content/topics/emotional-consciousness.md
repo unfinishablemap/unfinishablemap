@@ -196,6 +196,7 @@ Emotional consciousness is not a puzzle awaiting functional solution. It is evid
 - [functionalism](/concepts/functionalism/) — The view that mental states are defined by functional roles
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — The inseparability of pain's phenomenal character and causal power
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge: curiosity, doubt, insight
+- [philosophy-of-emotion-under-dualism](/topics/philosophy-of-emotion-under-dualism/) — How dualism transforms the cognitive-somatic debate and emotional intentionality
 - [valence-void](/voids/valence-void/) — Why the evaluative dimension of experience resists all explanation
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness has no causal efficacy
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — How we know others are conscious

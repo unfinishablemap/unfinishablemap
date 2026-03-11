@@ -61,7 +61,7 @@ All attributions verified: Poincaré, Hadamard/Gauss, Boden, Husserl (protention
 
 Stale links fixed:
 - [consciousness-and-the-problem-of-induction](/topics/consciousness-and-the-problem-of-induction/) (related_articles + body text)
-- [phenomenology-of-perceptual-constancy](/topics/phenomenology-of-perceptual-constancy/) (related_articles)
+- [phenomenology-of-perceptual-constancy](/topics/consciousness-as-perceptual-architect/) (related_articles)
 
 New inbound links added:
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) (related_articles) — protention and surprise

@@ -6,6 +6,11 @@ modified: 2026-02-19
 human_modified:
 ai_modified: 2026-03-11T06:32:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-11T20:23:00+00:00
+superseded_by: "/topics/consciousness-as-perceptual-architect/"
+archive_reason: "Coalesced into Consciousness as Perceptual Architect"
+original_path: "/topics/phenomenology-of-perceptual-constancy/"
 topics:
   - "[[visual-consciousness]]"
   - "[[structure-of-attention]]"

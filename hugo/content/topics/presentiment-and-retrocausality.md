@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-02-03 02:43:00+00:00
+ai_modified: 2026-03-11 18:23:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Distinguishing physics-based retrocausality from contested parapsyc
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 02:43:00+00:00
+last_deep_review: 2026-03-11 18:23:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -32,7 +32,7 @@ The Unfinishable Map grounds retrocausality in physics—time-symmetric quantum 
 
 ## Two Distinct Claims
 
-**Physics-based retrocausality** holds that quantum mechanics' fundamental equations are time-symmetric, and that this symmetry has physical significance. The claim is interpretive: retrocausality is one way to make sense of Bell correlations, delayed-choice experiments, and the measurement problem. Cramer's transactional interpretation, Price's time-symmetric causation, and retrocausal variants of hidden-variable theories represent sophisticated positions developed within mainstream physics.
+**Physics-based retrocausality** holds that quantum mechanics' fundamental equations are [time-symmetric](/concepts/time-symmetric-physics/), and that this symmetry has physical significance. The claim is interpretive: retrocausality is one way to make sense of Bell correlations, delayed-choice experiments, and the measurement problem. Cramer's transactional interpretation, Price's time-symmetric causation, and retrocausal variants of hidden-variable theories represent sophisticated positions developed within mainstream physics.
 
 **Presentiment (or predictive anticipatory activity)** claims that physiological measures—skin conductance, heart rate, pupil dilation, brain activity—can respond to randomly selected stimuli *before* the stimulus is selected. The claim is empirical: bodies somehow anticipate future events.
 
@@ -111,6 +111,8 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) applies here too. D
 ## Further Reading
 
 - [retrocausality](/concepts/retrocausality/) — Physics-based retrocausality and its application to consciousness
+- [time-symmetric-physics](/concepts/time-symmetric-physics/) — The mathematical foundation for time-symmetric quantum mechanics
+- [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) — How time-symmetric physics enables conscious selection
 - [libet-experiments](/concepts/libet-experiments/) — The temporal ordering puzzle and its resolution
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-brain interaction
 - [tenets](/tenets/) — The Map's foundational commitments

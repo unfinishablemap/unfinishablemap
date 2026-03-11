@@ -1,12 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-02-24 22:11:00+00:00
+ai_modified: 2026-03-11 20:01:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[mysterianism]]'
-- '[[simulation]]'
 created: 2026-02-24
 date: &id001 2026-02-24
 description: Individual cognitive limits interact superadditively—their combined effect
@@ -14,7 +13,7 @@ description: Individual cognitive limits interact superadditively—their combin
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-11 20:01:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -25,6 +24,8 @@ related_articles:
 - '[[self-reference-paradox]]'
 - '[[language-thought-boundary]]'
 - '[[limits-reveal-structure]]'
+- '[[causal-interface]]'
+- '[[intrinsic-nature-void]]'
 title: Compound Cognitive Limits
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -32,7 +33,7 @@ topics:
 
 The Unfinishable Map catalogues individual [voids](/voids/)—the [self-reference-paradox](/voids/self-reference-paradox/), the [language-thought-boundary](/voids/language-thought-boundary/), the [recursion-void](/voids/recursion-void/), the [incompleteness-void](/voids/incompleteness-void/)—as if each were an independent obstacle. But cognitive limits do not operate in isolation. Where two or more limits overlap, the hidden territory is not the sum of what each conceals. It is something qualitatively different: an emergent blindness that no single limit predicts and no single investigation can reach.
 
-Cognitive science calls this *superadditivity*. When multiple cognitive demands compete for overlapping resources, their combined interference exceeds the sum of individual effects (Spagna et al., 2020). Transplanted from dual-task interference to epistemology, the principle suggests that compound cognitive limits create voids larger and stranger than their components.
+Cognitive science calls this *superadditivity*. When multiple cognitive demands compete for overlapping resources, their combined interference exceeds the sum of individual effects (Spagna et al., 2020). The move from task-level interference to epistemic limits is not merely analogical. Cognitive limits *are* resource limitations—self-reference, language production, and metacognitive recursion draw on the same neural architecture that Spagna et al. studied. If dual-task performance degrades superadditively because competing processes share neural substrates, then epistemic capacities sharing the same substrates should exhibit the same nonlinearity when exercised simultaneously. Compound cognitive limits create voids larger and stranger than their components.
 
 ## Beyond Additive Blindness
 
@@ -40,7 +41,7 @@ The default assumption about multiple cognitive limits is additive: if the [self
 
 Spagna et al. (2020) demonstrated that when competing cognitive processes draw on overlapping neural resources, performance decrement is superadditive—the combined effect exceeds what either task alone would predict. Their work on posterior alpha and gamma oscillations showed that "the inefficient sharing of neural resources by competing cognitive processes" produces nonlinear interference, not simple summation.
 
-The epistemic analogue: when multiple cognitive limits share underlying architecture—as they must, since all operate within the same mind—their compound effect should exhibit the same nonlinearity. The self-reference paradox and the language-thought boundary are not independent obstacles running on separate hardware. They draw on the same cognitive substrate. Their interaction produces territory hidden for *compound reasons*—reasons that analysing either limit alone will never surface.
+The epistemic analogue: when multiple cognitive limits share underlying architecture—as they must, since all operate within the same mind—their compound effect should exhibit the same nonlinearity. The self-reference paradox and the language-thought boundary are not independent obstacles running on separate hardware. Hofstadter (1979) showed how self-reference generates strange loops when a system tries to represent itself—but treated each loop in isolation. The deeper issue is that these loops share cognitive substrate. Their interaction produces territory hidden for *compound reasons*—reasons that analysing either limit alone will never surface.
 
 ## Three Modes of Compound Interaction
 
@@ -54,11 +55,11 @@ When limits draw on overlapping resources, the compound effect exceeds the sum. 
 
 Some limits reinforce each other through feedback. The [recursion-void](/voids/recursion-void/)—metacognitive depth bounded around fifth-order intentionality—limits our ability to *think about* other limits. We cannot recurse deeply enough to fully comprehend our own comprehension failures. This creates a self-defending structure: the limit on examining limits protects compound void territory from investigation.
 
-McGinn (1989) identified multiple problems subject to cognitive closure—consciousness, personal identity, free will, meaning—but never systematically asked what their *interaction* produces. The fact that a philosopher can list multiple closures without investigating their compound effect is itself a symptom. The recursion limit prevents the meta-analysis that would reveal compound structure.
+McGinn (1989) identified multiple problems subject to [cognitive closure](/concepts/mysterianism/)—consciousness, personal identity, free will, meaning—but never systematically asked what their *interaction* produces. The fact that a philosopher can list multiple closures without investigating their compound effect is itself a symptom. The recursion limit prevents the meta-analysis that would reveal compound structure.
 
 ### Emergent Occlusion
 
-The interaction of limits may produce territories hidden for reasons that no single limit explains. Consider the [incompleteness-void](/voids/incompleteness-void/) (self-referential systems contain truths unprovable within themselves) interacting with the causal interface problem (how consciousness connects to physics). The compound territory is not "what incompleteness hides + what the causal interface obscures." It is the *nature of the connection between formal incompleteness and physical causation*—something neither void alone points to.
+The interaction of limits may produce territories hidden for reasons that no single limit explains. Consider the [incompleteness-void](/voids/incompleteness-void/) (self-referential systems contain truths unprovable within themselves) interacting with the [causal interface](/voids/causal-interface/) problem (how consciousness connects to physics). The compound territory is not "what incompleteness hides + what the causal interface obscures." It is the *nature of the connection between formal incompleteness and physical causation*—something neither void alone points to.
 
 This is the deepest mode. Superadditive interference makes existing blind spots worse. Mutual reinforcement makes blind spots harder to investigate. Emergent occlusion creates *new* blind spots that exist only in the compound.
 
@@ -88,7 +89,7 @@ The Map's tenet that [Occam's Razor has limits](/tenets/#occams-limits) is direc
 
 The Map's commitment to [dualism](/tenets/#dualism) gains support from compound closure. If consciousness has structural properties not derivable from component analysis—if the compound behaviour of cognitive limits is irreducible to individual limits—this parallels the irreducibility claim at the heart of dualism. The architecture of mind is not a collection of separable capacities and limits but a system whose compound behaviour resists decomposition.
 
-For [minimal quantum interaction](/tenets/#minimal-quantum-interaction), compound voids offer a possible explanation for why the consciousness-physics interface remains hidden. It is not merely hard to observe (empirical difficulty). It sits behind the intersection of the self-reference paradox (the observer cannot observe itself observing), the intrinsic nature void (we cannot know what matter is in itself), and the causal interface void (the mechanism connecting mind and brain is opaque). Three locks, each requiring a different key—and the compound closure ensures that possessing any two keys is insufficient.
+For [minimal quantum interaction](/tenets/#minimal-quantum-interaction), compound voids offer a possible explanation for why the consciousness-physics interface remains hidden. It is not merely hard to observe (empirical difficulty). It sits behind the intersection of the [self-reference-paradox](/voids/self-reference-paradox/) (the observer cannot observe itself observing), the [intrinsic-nature-void](/voids/intrinsic-nature-void/) (we cannot know what matter is in itself), and the [causal interface void](/voids/causal-interface/) (the mechanism connecting mind and brain is opaque). Three locks, each requiring a different key—and the compound closure ensures that possessing any two keys is insufficient.
 
 [Tenet-generated voids](/voids/tenet-generated-voids/) already recognises that some voids emerge from the *interaction* between tenets rather than from individual commitments. Compound cognitive limits extend this principle beyond tenet-generated voids to the full ecology of cognitive limitation. The Map should treat its voids not as a catalogue of independent items but as an interacting system—where relationships between voids are as informative as the voids themselves, and where [what the limits reveal](/voids/limits-reveal-structure/) includes what their interactions reveal.
 
@@ -100,12 +101,13 @@ For [minimal quantum interaction](/tenets/#minimal-quantum-interaction), compoun
 - [self-reference-paradox](/voids/self-reference-paradox/)
 - [language-thought-boundary](/voids/language-thought-boundary/)
 - [incompleteness-void](/voids/incompleteness-void/)
+- [causal-interface](/voids/causal-interface/)
+- [intrinsic-nature-void](/voids/intrinsic-nature-void/)
 - [limits-reveal-structure](/voids/limits-reveal-structure/)
 
 ## References
 
 1. Hofstadter, D. (1979). *Gödel, Escher, Bach: An Eternal Golden Braid*. Basic Books.
-1. Holton, M. (2025). "The Epistemic Incompleteness Principle: Observations from AI Recursive Self-Modeling." PhilArchive.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 1. Pseudo-Dionysius the Areopagite. *The Mystical Theology*. (~500 CE).
 1. Spagna, A., Mackie, M.A., & Fan, J. (2020). "Posterior Alpha and Gamma Oscillations Index Divergent and Superadditive Effects of Cognitive Interference." *Cerebral Cortex*, 30(3), 1931-1946.

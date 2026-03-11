@@ -20,7 +20,7 @@ concepts:
   - "[[explanatory-gap]]"
 related_articles:
   - "[[phenomenal-binding-and-holism]]"
-  - "[[phenomenology-of-perceptual-constancy]]"
+  - "[[consciousness-as-perceptual-architect]]"
   - "[[memory-as-dual-domain-capability]]"
   - "[[quantum-holism-and-phenomenal-unity]]"
   - "[[entanglement-binding-hypothesis]]"
@@ -104,7 +104,7 @@ This dual-domain reading also addresses the construction problem. The [[phenomen
 - [[hard-problem-of-consciousness]]
 - [[the-binding-problem-a-systematic-treatment]]
 - [[perception-and-conscious-experience]]
-- [[phenomenology-of-perceptual-constancy]]
+- [[consciousness-as-perceptual-architect]]
 - [[unity-of-consciousness]]
 - [[visual-consciousness]]
 - [[memory-as-dual-domain-capability]]

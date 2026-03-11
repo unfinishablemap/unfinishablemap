@@ -112,6 +112,7 @@ The valence void connects to the Map's [foundational commitments](/tenets/) at m
 - [valence](/concepts/valence/) — The concept of hedonic valence and competing philosophical accounts
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain's phenomenal character and causal power — the valence void's paradigm case
 - [emotional-consciousness](/topics/emotional-consciousness/) — The broader landscape of emotional consciousness and the valence debate
+- [philosophy-of-emotion-under-dualism](/topics/philosophy-of-emotion-under-dualism/) — Emotional depth and why some valenced experiences feel deeper than others
 - [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) — How valence irreducibility provides distinctive evidence for dualism
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach — the range problem, not the structure problem
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself — valence as a case of intrinsic nature

@@ -29,7 +29,7 @@ related_articles:
 - '[[sensorimotor-contingencies-and-the-interface]]'
 - '[[phenomenal-transparency]]'
 - '[[visual-consciousness]]'
-- '[[phenomenology-of-perceptual-constancy]]'
+- '[[consciousness-as-perceptual-architect]]'
 - '[[bandwidth-of-consciousness]]'
 - '[[the-interface-specification-problem]]'
 title: Perceptual Fidelity and the Interface — The Blur Paradox
@@ -106,7 +106,7 @@ The blur paradox engages several of the Map's [tenets](/tenets/).
 - [phenomenal-transparency](/concepts/phenomenal-transparency/)
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
 - [visual-consciousness](/concepts/visual-consciousness/)
-- [phenomenology-of-perceptual-constancy](/topics/phenomenology-of-perceptual-constancy/)
+- [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/)
 - [interface-friction](/concepts/interface-friction/)

@@ -24,7 +24,7 @@ related_articles:
   - "[[sensorimotor-contingencies-and-the-interface]]"
   - "[[phenomenal-transparency]]"
   - "[[visual-consciousness]]"
-  - "[[phenomenology-of-perceptual-constancy]]"
+  - "[[consciousness-as-perceptual-architect]]"
   - "[[bandwidth-of-consciousness]]"
   - "[[the-interface-specification-problem]]"
 ai_contribution: 100
@@ -103,7 +103,7 @@ The blur paradox engages several of the Map's [[tenets]].
 - [[phenomenal-transparency]]
 - [[sensorimotor-contingencies-and-the-interface]]
 - [[visual-consciousness]]
-- [[phenomenology-of-perceptual-constancy]]
+- [[consciousness-as-perceptual-architect]]
 - [[bandwidth-of-consciousness]]
 - [[the-interface-specification-problem]]
 - [[interface-friction]]

@@ -23,7 +23,7 @@ last_deep_review: 2026-03-10 16:38:00+00:00
 modified: *id001
 related_articles:
 - '[[phenomenal-binding-and-holism]]'
-- '[[phenomenology-of-perceptual-constancy]]'
+- '[[consciousness-as-perceptual-architect]]'
 - '[[memory-as-dual-domain-capability]]'
 - '[[quantum-holism-and-phenomenal-unity]]'
 - '[[entanglement-binding-hypothesis]]'
@@ -107,7 +107,7 @@ This dual-domain reading also addresses the construction problem. The [phenomena
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/)
 - [perception-and-conscious-experience](/topics/perception-and-conscious-experience/)
-- [phenomenology-of-perceptual-constancy](/topics/phenomenology-of-perceptual-constancy/)
+- [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)
 - [unity-of-consciousness](/concepts/unity-of-consciousness/)
 - [visual-consciousness](/concepts/visual-consciousness/)
 - [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/)

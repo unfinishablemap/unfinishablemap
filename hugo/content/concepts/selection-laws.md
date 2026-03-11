@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-09 16:26:00+00:00
+ai_modified: 2026-03-11 19:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -63,7 +63,7 @@ A complete selection law would answer:
 
 **4. Scope constraints**: What is *not* selectable? External quantum systems, others' brains, events outside attention—selection operates through the brain's representational interface.
 
-Without answers to these questions, "consciousness selects" remains metaphorical rather than scientific. The [interface specification problem](/topics/the-interface-specification-problem/) examines the epistemic challenges of answering them.
+Without answers to these questions, "consciousness selects" remains metaphorical rather than scientific. The [interface specification problem](/topics/the-interface-specification-problem/) examines the epistemic challenges of answering them. The [content-specificity](/concepts/content-specificity-of-mental-causation/) evidence constrains what selection laws must accommodate: empirically, the *meaning* of a conscious state determines *which* physical effect occurs with striking granularity—different placebo beliefs produce different neurochemical cascades, and finer distinctions in conscious content produce correspondingly finer distinctions in physiological response.
 
 ## Why Quantum Selection?
 
@@ -160,6 +160,7 @@ None of these currently succeeds, but they mark conditions under which the frame
 - [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) — Formal approaches to the control relationship
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The attention-observation mechanism in detail
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view selection laws are designed to avoid
+- [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — Empirical evidence that meaning determines which physical outcome occurs—what selection laws must explain
 - [free-will](/topics/free-will/) — How selection laws provide a mechanism for libertarian free will
 - [valence-as-selection-currency](/topics/valence-as-selection-currency/) — How valence may function as the evaluative currency for selection
 - [agent-causation](/concepts/agent-causation/) — Genuine authorship through mental selection

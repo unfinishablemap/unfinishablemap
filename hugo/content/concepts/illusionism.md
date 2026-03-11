@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-11 10:02:00+00:00
+ai_modified: 2026-03-11 19:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -99,7 +99,7 @@ The point: the existence of phenomenal pain is more obvious than any premises us
 
 ### Chalmers's Meta-Problem Dilemma
 
-Even if illusionism relocates the hard problem to a [meta-problem](/concepts/meta-problem-of-consciousness/)—explaining why we *think* consciousness is puzzling—the same dilemma applies. Either the features explaining our mistaken beliefs are physically explicable (in which case [zombies](/concepts/philosophical-zombies/) would have them too, making the explanation circular) or they're not (in which case there's a new explanatory gap at the conceptual level).
+Even if illusionism relocates the hard problem to a [meta-problem](/concepts/meta-problem-of-consciousness/)—explaining why we *think* consciousness is puzzling—the same dilemma applies. Either the features explaining our mistaken beliefs are physically explicable (in which case [zombies](/concepts/philosophical-zombies/) would have them too, making the explanation circular) or they're not (in which case there's a new explanatory gap at the conceptual level). The [interactionist response to the metaproblem](/topics/metaproblem-of-consciousness-under-dualism/) develops this point: if consciousness causally contributes to generating problem reports, the debunking argument fails at its premise, and illusionism faces an escalating explanatory burden.
 
 ## The Illusionist Response {#illusionist-response}
 
@@ -186,6 +186,7 @@ The persistence of the illusion problem suggests illusionism doesn't escape the 
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The category illusionism claims is empty
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — If illusionism is correct, value itself becomes illusory—the highest-stakes consequence
 - [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) — Chalmers's challenge: explaining why we think consciousness is puzzling
+- [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — How interactionism converts the metaproblem into evidence for dualism
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's methodological foundation for treating consciousness reports as data
 - [materialism](/concepts/materialism/) — The view illusionism radically defends
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — What illusionism claims to dissolve

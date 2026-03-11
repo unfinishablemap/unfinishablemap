@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-02 15:52:00+00:00
+ai_modified: 2026-03-11 19:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -93,6 +93,10 @@ A persistent objection concerns timescales: Tegmark (2000) calculated quantum [d
 
 The conscious/unconscious processing literature reveals systematic asymmetries. [Randeniya's 2025 meta-analysis](/concepts/conscious-vs-unconscious-processing/) found that only 10% of claimed unconscious processing effects in fMRI studies survive rigorous methodology—most purported demonstrations of "unconscious cognition" reflect weak stimuli or brief exposure, not genuine bypassing of consciousness. Global Neuronal Workspace Theory (Dehaene, Changeux) identifies three cognitive functions requiring consciousness: durable maintenance (keeping information available beyond brief windows), novel combinations (creating new representations from existing elements), and spontaneous intentional action (initiating behavior without external triggers). If consciousness were epiphenomenal, it could not enable functions that unconscious processing cannot achieve.
 
+### Content-Specificity
+
+The [content-specificity of mental causation](/concepts/content-specificity-of-mental-causation/) provides direct empirical evidence for bidirectional interaction. When consciousness causes physical effects, the *meaning* of the mental state determines *which* effect occurs. Tell someone a pill is a painkiller and endogenous opioids are released; tell them it is a stimulant and heart rate increases. The identical physical stimulus produces different physiological cascades depending on conscious belief content. This pattern—replicated across placebo effects, skilled performance, pain experience, and creative cognition—is what bidirectional interaction predicts: not generic mental force, but semantically structured causation flowing from consciousness to body.
+
 ### The Baseline Cognition Gap
 
 The [baseline cognition hypothesis](/concepts/baseline-cognition/) observes that great apes demonstrate sophisticated cognition—tool use, social learning, procedural skills—yet cannot perform logical reasoning, counterfactual thinking, or build cumulative culture (Tomasello 2014, 2019). Tomasello's framework attributes these gaps to social-cognitive differences, but the Map notes that the distinctive human capacities all appear to require conscious processing. If consciousness causes nothing, why do cognitive functions requiring consciousness systematically correlate with human distinctiveness?
@@ -156,6 +160,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — How meditation research demonstrates bidirectional interaction in practice
 - [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) — Voluntary imagery as evidence for consciousness's causal role
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Negative evidence: when consciousness interferes with automaticity
+- [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — The empirical pattern: meaning determines which physical effect occurs
 - [self-stultification](/concepts/self-stultification/) — The self-defeat argument against epiphenomenalism in detail
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Whether mental causation violates energy conservation
 - [agent-causation](/concepts/agent-causation/) — How consciousness exercises causal powers

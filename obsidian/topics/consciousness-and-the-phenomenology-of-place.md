@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-03-01T21:52:00+00:00
 draft: false
 topics:
-  - "[[phenomenology-of-perceptual-constancy]]"
+  - "[[consciousness-as-perceptual-architect]]"
   - "[[authentic-vs-inauthentic-choice]]"
   - "[[phenomenology-of-attention-to-absence]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
@@ -49,7 +49,7 @@ Place-experience is not mere spatial perception. [[visual-consciousness|Visual c
 
 ## Atmosphere and the Binding Problem
 
-The atmospheric character of place poses a version of the [[phenomenology-of-perceptual-constancy|binding problem]] that functionalist accounts struggle with. Consider entering a room you have never visited. Within moments, you experience a unified atmosphere — perhaps "austere but not cold" or "cluttered but welcoming." This atmospheric judgement integrates:
+The atmospheric character of place poses a version of the [[consciousness-as-perceptual-architect|binding problem]] that functionalist accounts struggle with. Consider entering a room you have never visited. Within moments, you experience a unified atmosphere — perhaps "austere but not cold" or "cluttered but welcoming." This atmospheric judgement integrates:
 
 - Visual layout and lighting
 - Ambient sound and silence

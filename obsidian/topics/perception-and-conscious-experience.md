@@ -24,7 +24,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[visual-consciousness]]"
-  - "[[phenomenology-of-perceptual-constancy]]"
+  - "[[consciousness-as-perceptual-architect]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
   - "[[phenomenal-acquaintance]]"
   - "[[phenomenal-transparency]]"
@@ -126,7 +126,7 @@ The Unfinishable Map's [[tenets]] find their sharpest expression in perception.
 
 - [[philosophy-of-perception-under-dualism]]
 - [[visual-consciousness]]
-- [[phenomenology-of-perceptual-constancy]]
+- [[consciousness-as-perceptual-architect]]
 - [[phenomenal-consciousness]]
 - [[access-consciousness]]
 - [[blindsight]]

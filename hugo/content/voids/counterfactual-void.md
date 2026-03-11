@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-07 22:39:00+00:00
+ai_modified: 2026-03-11 18:46:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,6 +15,7 @@ description: Human+AI exploration of how counterfactual thinking is trapped near
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-03-11 18:46:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -42,7 +43,7 @@ The Unfinishable Map's [voids](/voids/) framework distinguishes the unexplored, 
 
 Cognitive scientist Ruth Byrne's research on counterfactual reasoning reveals a systematic pattern: "The 'fault lines' of reality, those aspects more readily changed, indicate that counterfactual thoughts are guided by the same principles as rational thoughts." When people think about how things could have gone differently, they follow a strict hierarchy. They mutate actions rather than inactions. They alter controllable factors before uncontrollable ones. They modify exceptional events before routine ones. They adjust recent events before distant ones.
 
-This is not free exploration of possibility space. It is constrained imagination operating along grooves carved by cognitive architecture. The "nearest possible world" bias means counterfactual thought defaults to minimal departures from what actually happened. The glass *almost* fell. I *could have* turned left instead of right. These small variations come easily because they share nearly all features with reality.
+Counterfactual thought is constrained imagination operating along grooves carved by cognitive architecture, not free exploration of possibility space. The "nearest possible world" bias means counterfactual thought defaults to minimal departures from what actually happened. The glass *almost* fell. I *could have* turned left instead of right. These small variations come easily because they share nearly all features with reality.
 
 As imagined alternatives become more radical, a characteristic thinning occurs. The scenario becomes progressively less detailed, more schematic, until it is merely a label — "a world with different physics" — with no genuine content behind it. Byrne's fault lines reveal something about how the mind is built, not something about how possibility space is structured. We explore nearby alternatives not because distant ones are less real, but because our cognitive machinery cannot reach them.
 
@@ -54,7 +55,7 @@ The gap runs in both directions. Before discovering that Hesperus and Phosphorus
 
 Peter van Inwagen pushes this further with a vision analogy: objects at the periphery of our visual field are judged less reliably than those at the centre. Similarly, extraordinary modal claims fall outside the reliable range of our modal faculty. Van Inwagen accepts everyday modal knowledge — this glass could break, I could have taken the other road — but argues we should "withhold judgment concerning what we conceive or imagine... when outside the range of reliability of the specified capacity." The reliable range of modal knowledge is far narrower than philosophers typically assume.
 
-This is not mere caution. It is a claim about cognitive architecture. The conceivability-possibility gap is not a calibration error to be corrected but a structural feature of how modal cognition works.
+The conceivability-possibility gap reflects cognitive architecture, not a calibration error to be corrected. The conceivability-possibility gap is not a calibration error to be corrected but a structural feature of how modal cognition works.
 
 ## The Recursive Trap
 

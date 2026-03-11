@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [Phenomenology of Perceptual Learning](/topics/phenomenology-of-perceptual-learning/)
+**Article**: [Phenomenology of Perceptual Learning](/topics/consciousness-as-perceptual-architect/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

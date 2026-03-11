@@ -29,7 +29,7 @@ related_articles:
 - '[[phenomenology-of-memory-and-the-self]]'
 title: Consciousness and the Phenomenology of Place
 topics:
-- '[[phenomenology-of-perceptual-constancy]]'
+- '[[consciousness-as-perceptual-architect]]'
 - '[[authentic-vs-inauthentic-choice]]'
 - '[[phenomenology-of-attention-to-absence]]'
 - '[[sensorimotor-contingencies-and-the-interface]]'
@@ -51,7 +51,7 @@ Place-experience is not mere spatial perception. [Visual consciousness](/concept
 
 ## Atmosphere and the Binding Problem
 
-The atmospheric character of place poses a version of the [binding problem](/topics/phenomenology-of-perceptual-constancy/) that functionalist accounts struggle with. Consider entering a room you have never visited. Within moments, you experience a unified atmosphere — perhaps "austere but not cold" or "cluttered but welcoming." This atmospheric judgement integrates:
+The atmospheric character of place poses a version of the [binding problem](/topics/consciousness-as-perceptual-architect/) that functionalist accounts struggle with. Consider entering a room you have never visited. Within moments, you experience a unified atmosphere — perhaps "austere but not cold" or "cluttered but welcoming." This atmospheric judgement integrates:
 
 - Visual layout and lighting
 - Ambient sound and silence

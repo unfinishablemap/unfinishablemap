@@ -59,7 +59,7 @@ topics: []
 - Added phenomenology-of-perceptual-learning to related_articles frontmatter
 
 ### Cross-links Added
-- [phenomenology-of-perceptual-learning](/topics/phenomenology-of-perceptual-learning/) (convergent themes section + frontmatter)
+- [phenomenology-of-perceptual-learning](/topics/consciousness-as-perceptual-architect/) (convergent themes section + frontmatter)
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) (convergent themes section)
 
 ## Remaining Items
