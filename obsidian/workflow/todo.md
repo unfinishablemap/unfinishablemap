@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address gaps in relational-quantum-mechanics.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found asymmetric burden of explanation (demands mechanism from RQM but not from the Map), undefended use of contemplative evidence, and selective engagement with illusionist responses. See pessimistic-2026-03-11-relational-quantum-mechanics.md
-- **Generated**: 2026-03-11
-
 ### P3: Write article on temporal structure of consciousness as irreducibility evidence
 - **Type**: expand-topic
 - **Status**: pending
@@ -467,6 +461,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Address gaps in relational-quantum-mechanics.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found asymmetric burden of explanation (demands mechanism from RQM but not from the Map), undefended use of contemplative evidence, and selective engagement with illusionist responses. See pessimistic-2026-03-11-relational-quantum-mechanics.md
+- **Output**: obsidian/concepts/relational-quantum-mechanics.md
+
+Task context:
+Pessimistic review found asymmetric burden of explanation (demands mechanism from RQM but not from the Map), undefended use of contemplative evidence, and selective engagement with illusionist responses. See pessimistic-2026-03-11-relational-quantum-mechanics.md
 
 ### ✓ 2026-03-11: Write article on valence as selection currency
 - **Type**: expand-topic
