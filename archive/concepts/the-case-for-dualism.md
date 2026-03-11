@@ -53,6 +53,11 @@ last_deep_review: 2026-03-01T09:07:00+00:00
 coalesced_from:
   - "/concepts/arguments-against-materialism/"
   - "/concepts/arguments-for-dualism/"
+archived: true
+archived_date: 2026-03-11T09:47:00+00:00
+superseded_by: "/concepts/dualism/"
+archive_reason: "Coalesced into Dualism"
+original_path: "/concepts/the-case-for-dualism/"
 ---
 
 Multiple independent arguments converge on the same conclusion: [[concepts/materialism]]—the view that reality is fundamentally physical—cannot account for consciousness, and [[dualism]] provides a better framework for understanding the mind. Each argument identifies aspects of conscious experience that appear logically or metaphysically separable from physical facts. (See [[dualism|the dualism overview]] for what dualism claims and its main varieties; this article focuses on the detailed *arguments*.) Their convergence provides strong cumulative support for the [[tenets#^dualism|Dualism tenet]].

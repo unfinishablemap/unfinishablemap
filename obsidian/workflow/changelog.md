@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 09:47 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/the-case-for-dualism]]
+- **Target**: [[concepts/dualism]]
+- **Archived**: [[archive/concepts/the-case-for-dualism]]
+- **References to review**: 49 files (follow-up task created as P1)
+
 ## 2026-03-11 09:32 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/ethics-and-value-in-a-dualist-world]]

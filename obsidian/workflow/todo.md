@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Update references to coalesced the-case-for-dualism
+- **Type**: refine-draft
+- **Notes**: Coalesce merged the-case-for-dualism into dualism. 49 active content files still reference [[the-case-for-dualism]] — these should be updated to [[dualism]] (with appropriate display text). The archive preserves the URL so links work, but references should point to the live article. Files include: tenets.md, materialism.md, philosophical-zombies.md, explanatory-gap.md, knowledge-argument.md, and 44 others across topics/, concepts/, arguments/, apex/, voids/, and research/.
+- **Source**: coalesce
+- **Generated**: 2026-03-11
+
 ### P2: Deep review trilemma-of-selection.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-10, never reviewed. The trilemma of selection is one of the Map's most logically compelling arguments — quality assurance is critical. Verify argument validity, cross-references, and tenet alignment.
