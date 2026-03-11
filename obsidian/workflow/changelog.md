@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 21:17 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-structure-of-scientific-revolutions]]
+- **Word count**: 1848 → 1848 (no change — orphan integration focus)
+- **Critical issues addressed**: 0 (none found; previous review resolved all)
+- **Medium issues addressed**: 1 (orphan status)
+- **Enhancements made**: 9 inbound cross-links added from existing articles
+- **Files modified**: philosophy-of-science-under-dualism, consciousness-and-scientific-methodology, consciousness-and-the-problem-of-theoretical-virtues, arguments-against-materialism, reductionism-and-consciousness, phenomenology-of-conceptual-change, explanatory-gap, materialism, hard-problem-of-consciousness
+- **Output**: [[reviews/deep-review-2026-03-11b-consciousness-and-the-structure-of-scientific-revolutions]]
+
 ## 2026-03-11 21:07 UTC - research-voids
 - **Status**: Skipped (section at capacity)
 - **Reason**: Voids section has 100 articles against cap of 100

@@ -4,7 +4,7 @@ description: "What does it feel like when the categories through which you under
 created: 2026-02-17
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-03-05T11:19:00+00:00
+ai_modified: 2026-03-11T21:17:00+00:00
 last_deep_review: 2026-02-21T13:39:00+00:00
 draft: false
 topics:
@@ -39,7 +39,7 @@ The distinction matters. [[phenomenology-of-epistemic-judgment|Belief revision]]
 
 Conceptual change alters the how. After a genuine conceptual shift, the same evidence looks different — not because you evaluate it differently but because you *perceive* it differently. The gestalt has flipped. What was figure becomes ground. Features that were invisible become salient, and features that seemed essential dissolve into irrelevance.
 
-Thomas Kuhn described this at the level of scientific communities in *The Structure of Scientific Revolutions* (1962), arguing that scientists working in different paradigms inhabit "different worlds." But Kuhn was describing a sociological pattern. The Map's analysis of the [[phenomenology-of-creative-insight|phenomenology of creative insight]] takes this further: scientific anomaly recognition carries a distinctive *theoretical vertigo* — the felt destabilisation of one's entire interpretive framework — and theory revision has the experiential character of uncovering rather than constructing. The phenomenological question is more intimate: what does it feel like from the inside when your conceptual world reorganises?
+Thomas Kuhn described this at the level of scientific communities in *The Structure of Scientific Revolutions* (1962), arguing that scientists working in different paradigms inhabit "different worlds." The Map's [[consciousness-and-the-structure-of-scientific-revolutions|Kuhnian analysis of consciousness studies]] applies this framework to show that physicalism exhibits the hallmarks of paradigm crisis — anomalies accumulating, competing theories proliferating, and no successor consolidating. But Kuhn was describing a sociological pattern. The Map's analysis of the [[phenomenology-of-creative-insight|phenomenology of creative insight]] takes this further: scientific anomaly recognition carries a distinctive *theoretical vertigo* — the felt destabilisation of one's entire interpretive framework — and theory revision has the experiential character of uncovering rather than constructing. The phenomenological question is more intimate: what does it feel like from the inside when your conceptual world reorganises?
 
 ## The Phenomenal Stages of Conceptual Transformation
 

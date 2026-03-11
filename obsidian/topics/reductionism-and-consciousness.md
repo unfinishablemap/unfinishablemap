@@ -4,7 +4,7 @@ description: "Reductionism succeeds across science—temperature, life, heredity
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-05T18:49:00+00:00
+ai_modified: 2026-03-11T21:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -84,7 +84,9 @@ This failure is unique. In no other scientific domain does complete lower-level 
 
 Materialists have a standard reply: reductionism about consciousness is simply incomplete. Future science will close the gap, just as past science closed gaps for temperature and heredity. Be patient.
 
-But this analogy is misleading. Past reductions succeeded because the higher-level phenomenon was always *structural*—definable in terms of arrangements, functions, and relations. Temperature is a statistical property of motion. Life is a pattern of chemical reactions. These descriptions are third-personal: they characterise what systems *do* without requiring any perspective from the inside.
+The Map's [[consciousness-and-the-structure-of-scientific-revolutions|Kuhnian analysis]] reframes this patience as misplaced: the pattern of competing theories, persistent anomalies, and loosening methodological standards in consciousness studies matches Kuhn's description of a paradigm in crisis, not a programme making steady progress.
+
+But the "future science" analogy is also misleading on its own terms. Past reductions succeeded because the higher-level phenomenon was always *structural*—definable in terms of arrangements, functions, and relations. Temperature is a statistical property of motion. Life is a pattern of chemical reactions. These descriptions are third-personal: they characterise what systems *do* without requiring any perspective from the inside.
 
 Consciousness is first-personal. It has an intrinsic qualitative character—what Thomas Nagel (1974) called the "something it is like." No structural, functional, or relational description captures this character because such descriptions are about *form*—how elements relate—while experience has *content*—what it is like from the inside. The gap between form and content is not empirical but conceptual. More data cannot close it because data is itself structural.
 

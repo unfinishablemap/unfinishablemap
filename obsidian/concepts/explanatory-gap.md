@@ -4,7 +4,7 @@ description: "Physical descriptions leave unexplained why neural activity feels 
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-11T21:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -124,7 +124,7 @@ Problem: other gaps closed because we found connections that made the phenomena 
 
 Levine's original formulation was carefully modest: the gap is epistemic, concerning what we can understand, not necessarily what exists. Consciousness might be physical even if we cannot see why—perhaps we lack the cognitive resources, or consciousness is simply a brute fact.
 
-But Chalmers' development of the gap into the [[hard-problem-of-consciousness|hard problem]] pushes toward ontological conclusions. The gap isn't like our historical failure to understand lightning (which was resolved by learning physical facts). With consciousness, we cannot even imagine what kind of physical fact would make the experience of red intelligible. The gap resists all incremental progress. The [[explanatory-void]] deepens this point: the phenomenal feeling of explanatory satisfaction—what makes the water/H₂O reduction seem *transparent*—is itself a conscious state. The very criterion by which we would judge the gap closed belongs to what the gap leaves unexplained.
+But Chalmers' development of the gap into the [[hard-problem-of-consciousness|hard problem]] pushes toward ontological conclusions. The gap isn't like our historical failure to understand lightning (which was resolved by learning physical facts). With consciousness, we cannot even imagine what kind of physical fact would make the experience of red intelligible. The gap resists all incremental progress. The Map's [[consciousness-and-the-structure-of-scientific-revolutions|Kuhnian analysis]] frames this persistence as a hallmark of paradigm crisis: an anomaly that the framework's resources are structurally inadequate to address. The [[explanatory-void]] deepens this point: the phenomenal feeling of explanatory satisfaction—what makes the water/H₂O reduction seem *transparent*—is itself a conscious state. The very criterion by which we would judge the gap closed belongs to what the gap leaves unexplained.
 
 This suggests the gap is not merely in us but in the nature of things. If consciousness were identical to physical processes, we would expect the identity to be explanatorily satisfying once we had the facts—as with water and H₂O. The persistent dissatisfaction suggests the identity doesn't hold. The gap functions as a fundamental auxiliary assumption in the [[duhem-quine-underdetermination-consciousness|Duhem-Quine sense]]: physicalists presuppose it can be closed; dualists deny it—and no experiment can adjudicate because the disagreement concerns what would count as closure. [[cognitive-science-of-dualism|Cognitive science's own methodology]] reveals the same structure: the field depends on first-person report to ground its third-person measurements, creating a methodological circle it cannot close from within.
 

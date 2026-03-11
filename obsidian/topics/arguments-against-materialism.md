@@ -4,7 +4,7 @@ description: "Multiple independent philosophical arguments converge on the same 
 created: 2026-02-27
 modified: 2026-02-27
 human_modified:
-ai_modified: 2026-03-11T17:14:00+00:00
+ai_modified: 2026-03-11T21:17:00+00:00
 last_deep_review: 2026-02-27T19:46:00+00:00
 draft: false
 topics:
@@ -88,7 +88,7 @@ But this conflates dualism with its worst versions. Modern interactionist dualis
 
 The most common defence of materialism may be the least philosophical: the conviction that science will eventually explain consciousness. This amounts to a promissory note. After four centuries of modern science and seven decades of cognitive science, the explanatory gap has not narrowed. Neural correlates of consciousness have been identified in abundance, but correlation is not explanation. Finding that activity in visual cortex area V4 correlates with color experience does not explain *why* V4 activity feels like anything.
 
-[[concepts/materialism#"Future Science"|The "future science" appeal]] also faces the problem identified by Colin McGinn's [[mysterianism]]: if the gap is structural rather than merely empirical, then no amount of neuroscientific progress will close it. The question is not how much we know about the brain but whether physical facts are the right *kind* of facts to explain consciousness.
+[[concepts/materialism#"Future Science"|The "future science" appeal]] also faces the problem identified by Colin McGinn's [[mysterianism]]: if the gap is structural rather than merely empirical, then no amount of neuroscientific progress will close it. The question is not how much we know about the brain but whether physical facts are the right *kind* of facts to explain consciousness. The Map's [[consciousness-and-the-structure-of-scientific-revolutions|Kuhnian analysis]] frames this pattern historically: the proliferation of competing theories, the loosening of methodological standards, and the persistence of foundational anomalies are precisely the signatures Kuhn identified as paradigm crisis.
 
 ## What the Arguments Actually Show
 

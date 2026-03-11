@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-03-11T19:22:00+00:00
+ai_modified: 2026-03-11T21:17:00+00:00
 draft: false
 topics: []
 concepts:
@@ -261,7 +261,7 @@ The claim that the hard problem is genuine would be challenged by: (1) successfu
 
 ## Why This Matters
 
-If physical explanation cannot reach consciousness, the scientific worldview is incomplete in a fundamental way. This doesn't mean abandoning science—it means recognising that methods that explain mechanism may not work for explaining experience. Consciousness may be irreducible not because it's supernatural, but because reduction is the wrong tool.
+If physical explanation cannot reach consciousness, the scientific worldview is incomplete in a fundamental way. This doesn't mean abandoning science—it means recognising that methods that explain mechanism may not work for explaining experience. Consciousness may be irreducible not because it's supernatural, but because reduction is the wrong tool. The Map's [[consciousness-and-the-structure-of-scientific-revolutions|Kuhnian analysis]] argues that the hard problem's persistence across theoretical generations — together with the proliferation of competing theories and the loosening of methodological standards — marks physicalism as a paradigm in crisis.
 
 ## Relation to the Map's Perspective
 
