@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 02:08 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Content-specificity of mental causation
+- **Output**: [[concepts/content-specificity-of-mental-causation]]
+- **Word count**: 1402
+- **Based on research**: no
+
 ## 2026-03-11 01:53 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Apex article synthesising the self-stultification suite

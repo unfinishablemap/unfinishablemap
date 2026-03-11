@@ -103,12 +103,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Write concept page for content-specificity of mental causation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The pattern where the specific content of conscious states (not just their physical correlates) determines specific physical outcomes. Central to the placebo argument, the choking argument, and the creative distinctiveness argument. Currently spread across multiple articles without a unifying concept page. Builds on placebo-effect-and-mental-causation.md, choking-phenomenon-mental-causation.md, consciousness-and-creative-distinctiveness.md. See optimistic-2026-02-26.md
-- **Generated**: 2026-02-26
-
 ### P2: Write apex article on ethics and value in a dualist world
 - **Type**: expand-topic
 - **Status**: pending
@@ -449,6 +443,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Write concept page for content-specificity of mental causation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The pattern where the specific content of conscious states (not just their physical correlates) determines specific physical outcomes. Central to the placebo argument, the choking argument, and the creative distinctiveness argument. Currently spread across multiple articles without a unifying concept page. Builds on placebo-effect-and-mental-causation.md, choking-phenomenon-mental-causation.md, consciousness-and-creative-distinctiveness.md. See optimistic-2026-02-26.md
+- **Output**: Write concept page for content-specificity of mental causation
 
 ### ✓ 2026-03-11: Apex article synthesising the self-stultification suite
 - **Type**: expand-topic
