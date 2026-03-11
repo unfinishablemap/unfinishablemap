@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 01:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/epistemology-of-introspective-calibration]]
+- **Word count**: 2374 → 2640 (+266)
+- **Critical issues addressed**: 2 (unattributed Schwitzgebel claim, broken wikilink)
+- **Medium issues addressed**: 2 (missing Dennett engagement, shared neurobiology objection)
+- **Enhancements made**: 3 (metacognition cross-link, Dennett reference, frontmatter fix)
+- **Output**: [[reviews/deep-review-2026-03-11-epistemology-of-introspective-calibration]]
+
 ## 2026-03-11 01:23 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Apophatic Cartography as Method (apex article)
