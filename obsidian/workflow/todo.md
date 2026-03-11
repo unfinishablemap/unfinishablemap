@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-11T15:51:00+00:00
+ai_modified: 2026-03-11T17:06:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Integrate analytic-idealism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Analytic idealism (Kastrup) is an important alternative to both physicalism and the Map's dualism — it should be referenced from idealism.md, dualism.md, and panpsychism.md at minimum. Add cross-references from related articles or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-11
+
+### P2: Integrate consciousness-and-strong-emergence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Strong emergence is central to the physicalism–dualism debate. Should be referenced from emergence.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Add cross-references from related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-11
+
+### P2: Integrate consciousness-and-normative-authority.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Normative authority of consciousness is relevant to the Map's arguments about consciousness and reason. Should be referenced from consciousness-and-normative-force.md, argument-from-reason.md, and phenomenal-normativity.md. Add cross-references from related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-11
+
+### P2: Deep review grain-mismatch.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Only concepts/ file with null last_deep_review. Grain mismatch is relevant to the binding problem and interface architecture. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P2: Deep review convergence-of-the-void-catalogue.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Meta-level voids article cataloguing patterns across the void collection. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review capability-division-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the problem of dividing capabilities between brain and consciousness — directly relevant to the Map's interface framework. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
 
 ### P3: Condense purpose-and-alignment.md
 - **Type**: condense
