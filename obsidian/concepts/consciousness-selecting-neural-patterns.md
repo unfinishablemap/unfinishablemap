@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-11T08:03:00+00:00
+ai_modified: 2026-03-11T08:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,23 +52,21 @@ The core claim: when neural systems exist in quantum superposition—multiple po
 
 The brain offers several candidate "selection sites" where quantum effects might matter for consciousness:
 
-**Microtubules** (Orch OR): Protein structures within neurons exist in superposed conformational states. According to Penrose-Hameroff theory, consciousness orchestrates which superposition pattern collapses to actuality. Recent 2025 research found room-temperature quantum effects in microtubules and provided evidence that anesthetics may target them to disrupt consciousness.
+**Microtubules** (Orch OR): Penrose-Hameroff theory proposes consciousness orchestrates which superposed microtubule states collapse to actuality. 2025 research found room-temperature quantum effects in microtubules and evidence that anesthetics target them to disrupt consciousness.
 
-**Ion channels**: Ions traverse neural membrane channels through quantum tunneling, not purely classical diffusion. Consciousness might bias which channels open or close at decision-critical moments, influencing which neurons fire.
+**Ion channels**: Ions traverse neural membrane channels through quantum tunneling. Consciousness might bias which channels open at decision-critical moments, influencing which neurons fire.
 
-**Cortical microcolumn networks**: December 2025 research proposes that cortical microcolumns couple resonantly with the quantum electromagnetic zero-point field, forming coherence domains. Consciousness would select among macroscopic coherence patterns spanning multiple columns.
+**Cortical microcolumn networks**: Keppler (2025) proposes that cortical microcolumns couple resonantly with the quantum electromagnetic zero-point field, forming coherence domains among which consciousness selects.
 
-**Attention networks** (Stapp): Henry Stapp's quantum Zeno mechanism proposes that selection operates at the level of attention itself. On this account, mental effort corresponds to repeated "observations" that hold neural patterns in place via the Zeno effect. The proposal identifies attention as the locus of selection—though the detailed physics connecting attention-timescale events to the femtosecond-timescale observations required for Zeno freezing remains an open problem.
+**Attention networks** (Stapp): Mental effort corresponds to repeated "observations" that hold neural patterns in place via the quantum Zeno effect. Attention is the locus of selection—though the physics connecting attention-timescale events to femtosecond-timescale Zeno observations remains an open problem (see decoherence section below).
 
-**Consciousness-collapse with CSL dynamics** (Chalmers-McQueen): Chalmers and McQueen (2021) combine a theory of consciousness (integrated information theory) with continuous spontaneous localization (CSL) dynamics. The collapse rate depends on integrated information: systems with more integrated information trigger faster collapse. Their key insight is the "super-resistance" problem — if conscious states cannot enter superposition (because consciousness triggers collapse), the quantum Zeno effect would prevent transitions between conscious states. Their solution uses gradual CSL collapse rather than instantaneous projection, avoiding Zeno freezing while preserving consciousness's role as the collapse trigger.
+**Consciousness-collapse with CSL dynamics** (Chalmers-McQueen): Collapse rate depends on integrated information—systems with more integrated information trigger faster collapse. Their key insight is the "super-resistance" problem: if consciousness triggers collapse, the Zeno effect would prevent transitions between conscious states. Their solution uses gradual CSL collapse rather than instantaneous projection, avoiding Zeno freezing while preserving consciousness's role as collapse trigger.
 
-These aren't mutually exclusive. Selection might operate at multiple levels: microtubule states determining individual neural responses, while attention networks select among large-scale patterns.
+These aren't mutually exclusive—selection might operate at multiple levels simultaneously.
 
 ### How Selection Works
 
-Selection operates through the [[measurement-problem|quantum measurement process]]. Standard quantum mechanics describes particles in superposition until "measured," at which point superposition collapses to a definite outcome. Physics explains why collapse yields probabilistic distributions but not why any particular outcome occurs. Something must select. The [[quantum-measurement-and-definite-outcomes|definite outcomes problem]] is precisely where this gap opens: physics determines the *distribution* of outcomes but not which individual outcome becomes actual.
-
-This is the opening for consciousness. At quantum indeterminacies, physical causes are necessary but not sufficient. [[causal-closure|Causal closure]]—the thesis that every physical event has a sufficient physical cause—fails precisely where collapse occurs. Consciousness operates at this gap, selecting outcomes without competing with or overriding physical causes.
+Selection operates through the [[measurement-problem|quantum measurement process]]. Physics determines the *distribution* of collapse outcomes but not which individual outcome becomes actual—the [[quantum-measurement-and-definite-outcomes|definite outcomes problem]]. [[causal-closure|Causal closure]] fails precisely where collapse occurs. Consciousness operates at this gap, selecting outcomes without competing with or overriding physical causes.
 
 In Stapp's proposed formulation:
 
@@ -77,9 +75,7 @@ In Stapp's proposed formulation:
 3. **Attention = Observation Density**: Mental effort corresponds to how rapidly observations occur
 4. **Templates for Action**: The patterns being observed encode action intentions
 
-The proposed mapping: **Attention** → **Which neural pattern to observe** → **Quantum observation events** → **Zeno maintenance of pattern**.
-
-This formulation identifies a genuine gap in physical explanation (what determines collapse outcomes) and proposes consciousness as what fills it. However, the mapping from attention-timescale mental events to the femtosecond-timescale quantum observations required for Zeno freezing remains unspecified—a significant open problem acknowledged in the decoherence section below.
+The proposed mapping: **Attention** → **Which neural pattern to observe** → **Quantum observation events** → **Zeno maintenance of pattern**. The mapping from attention-timescale mental events to femtosecond-timescale quantum observations remains unspecified—a significant open problem (see decoherence section below).
 
 ## The Bandwidth Constraint
 
@@ -95,7 +91,7 @@ The bandwidth constraint shapes what selection can accomplish:
 
 This explains why selection is policy-level: consciousness selects "raise arm" not "fire neuron N₂₃₄₅₆." The quantum mechanism implements the selected policy; consciousness chooses among policies. Individual neural events fall out from the chosen pattern. This coarse-grained allocation—detail concentrating where consciousness attends—is what the Map calls [[adaptive-computational-depth|adaptive computational depth]].
 
-The bandwidth constraint also provides empirical grounding. A selection mechanism claiming consciousness directly determines billions of quantum events per second would violate what we know about conscious processing limits. Policy-level selection respects these constraints.
+Policy-level selection respects what we know about conscious processing limits—a mechanism claiming billions of direct quantum determinations per second would not.
 
 ## The Brain Boundary
 
@@ -103,17 +99,13 @@ If consciousness can select quantum outcomes, why only in brains? Why not extern
 
 This is the brain specialness problem. The answer is mechanistic, not arbitrary:
 
-**Interface locality**: Selection requires integration into the subject's control loop. You can only select among alternatives you're connected to through neural representation. External quantum systems aren't represented in your brain.
+**Interface locality**: Selection requires integration into the subject's control loop. External quantum systems aren't represented in your brain—you can only select among alternatives you're connected to through neural representation.
 
-**Attention scope**: Selection operates through attention, which is neurally implemented. You can only attend to what your perceptual-motor systems represent. Distant quantum events aren't attended.
+**Attention scope**: You can only attend to what your perceptual-motor systems represent. Distant quantum events aren't attended.
 
 **Developmental integration**: The mind-brain interface develops through neural growth. No external system has this developmental history with your consciousness.
 
-**Stapp's answer**: Process 1 operates on the observer's own brain state representation. You can only "ask questions of" systems your brain represents.
-
-These converge: **consciousness influences what it's connected to through attention and embodiment, and it's only connected to its own brain.**
-
-This boundary isn't ad hoc restriction to avoid embarrassing implications about psychokinesis. It follows from the selection mechanism itself. The quantum Zeno effect requires repeated observation; you can only repeatedly observe what's neurally represented. Selection is brain-local because attention is brain-local.
+These converge: **consciousness influences what it's connected to through attention and embodiment, and it's only connected to its own brain.** This isn't ad hoc restriction—it follows from the selection mechanism itself. The quantum Zeno effect requires repeated observation; you can only repeatedly observe what's neurally represented.
 
 ## The Decoherence Challenge
 
@@ -121,80 +113,45 @@ The most serious empirical challenge to consciousness-selecting neural patterns 
 
 ### Three Responses
 
-**First, Tegmark's calculations are disputed.** Hameroff and colleagues argued that Tegmark used incorrect model parameters—assumptions appropriate for dead tissue in thermal equilibrium, not living neural systems. Corrected calculations extend coherence times by seven orders of magnitude, reaching 10⁻⁵ to 10⁻⁴ seconds. Recent experiments support longer timescales: 2024 research found microtubule-stabilizing drugs delayed anesthetic-induced unconsciousness in rats, and 2025 simulations identified a specific 613 THz quantum oscillation that anaesthetics abolish. The empirical picture is more favorable than Tegmark suggested.
+**First, Tegmark's calculations are disputed.** Hameroff and colleagues argued Tegmark used parameters appropriate for dead tissue, not living neural systems. Corrected calculations extend coherence times by seven orders of magnitude (10⁻⁵ to 10⁻⁴ seconds). 2024 research found microtubule-stabilizing drugs delayed anesthetic-induced unconsciousness in rats, and 2025 simulations identified a 613 THz quantum oscillation that anaesthetics abolish. The empirical picture is more favorable than Tegmark suggested.
 
-**Second, decoherence doesn't solve the measurement problem.** Even granting rapid decoherence, decoherence selects preferred bases without explaining why we see *definite* outcomes rather than superpositions. As the [[measurement-problem|measurement problem]] article develops, something must still select which outcome actualizes. Consciousness remains a candidate for what does the selecting—the role for consciousness at collapse survives decoherence.
+**Second, decoherence doesn't solve the measurement problem.** Even granting rapid decoherence, it selects preferred bases without explaining why we see *definite* outcomes. Something must still select which outcome actualizes—the role for consciousness at collapse survives decoherence.
 
-**Third, the quantum Zeno mechanism reframes the requirement—but faces its own timescale problem.** Stapp's approach doesn't require sustained coherence *between* observations—only rapid repeated observation events. If consciousness operates through Zeno freezing (attention-as-observation holding patterns stable), the question shifts from "can coherence survive?" to "can observation cycles operate fast enough?"
+**Third, the Zeno mechanism reframes the requirement—but faces its own timescale problem.** Stapp's approach requires rapid repeated observation events, not sustained coherence. The question shifts from "can coherence survive?" to "can observation cycles operate fast enough?"
 
-This reframing, however, introduces a severe [[timing-gap-problem|timescale gap]]. The Zeno effect requires observation intervals faster than the system's evolution timescale. For neural processes with decoherence operating on femtosecond (~10⁻¹⁵ s) timescales, Zeno freezing would require something like 10¹⁰ observations per second per relevant quantum site. But attention operates on timescales of hundreds of milliseconds (~10⁻¹ s)—a gap of roughly ten orders of magnitude. What physical process bridges this gap? Stapp's formalism doesn't specify.
+This introduces a severe [[timing-gap-problem|timescale gap]]. Zeno freezing requires observation intervals faster than the system's evolution timescale—roughly 10¹⁰ observations per second for femtosecond decoherence. Attention operates at ~10⁻¹ seconds, a gap of ten orders of magnitude. Stapp's formalism doesn't specify what bridges this gap.
 
-This means the Zeno mechanism, as currently articulated, is better understood as a placeholder identifying *where* consciousness might intervene rather than a worked-out account of *how* it does so. The mechanism points to a genuine opening (physics leaves collapse underdetermined) but the detailed physics connecting attention-timescale mental events to femtosecond-timescale quantum events remains unspecified. Future work would need either (a) an account of how macroscopic attention decomposes into sufficiently rapid micro-observations, or (b) an alternative to the Zeno pathway that operates at attention-compatible timescales.
+The Zeno mechanism is therefore better understood as a placeholder identifying *where* consciousness might intervene rather than a complete account of *how*. Future work needs either (a) an account of how attention decomposes into sufficiently rapid micro-observations, or (b) an alternative pathway operating at attention-compatible timescales.
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] like Daniel Dennett and Keith Frankish offer a more radical objection: if phenomenal consciousness is an introspective illusion, there's nothing doing the selecting. The "consciousness" that supposedly selects neural patterns is merely the brain representing itself to itself—a useful fiction with no causal power. Selection language becomes metaphorical, describing what brain processes do while falsely attributing agency to a non-existent selector.
+[[illusionism|Illusionists]] like Dennett and Frankish object that if phenomenal consciousness is an introspective illusion, there's nothing doing the selecting—selection language becomes metaphorical.
 
 ### Three Responses
 
-**The regress problem applies.** If selection is "illusory," the *seeming* to select must still be explained. What is this seeming? Either it involves phenomenal properties (in which case phenomenal consciousness exists, merely relocated), or it doesn't (in which case we need to explain why non-phenomenal brain states generate the universal, resistant conviction that we consciously select). The illusion of selection may be as hard to explain as genuine selection.
+**The regress problem applies.** If selection is "illusory," the *seeming* to select must still be explained. Either it involves phenomenal properties (relocating rather than eliminating consciousness) or it doesn't (requiring an explanation of why non-phenomenal brain states generate the universal conviction that we consciously select). The illusion of selection may be as hard to explain as genuine selection.
 
 **The phenomenology of effort persists.** When you deliberately maintain attention against distracting stimuli—reading a difficult text in a noisy room—you experience effort. This phenomenology is exactly what the Zeno mechanism predicts: repeated observation requires ongoing engagement, which feels like work. Illusionism must explain why neural processes generate this specific phenomenology. The experience of effort isn't explained by denying it exists.
 
-**Selection has measurable effects.** Jeffrey Schwartz's OCD research demonstrates that patients who learn to "redirect" attention produce measurable brain changes—caudate nucleus activity decreases when patients cognitively reframe intrusive thoughts. Whatever is doing the redirecting has physical consequences. Calling it "illusory" doesn't eliminate the phenomenon that needs explaining: why does deliberate mental effort produce specific neural outcomes?
+**Selection has measurable effects.** Jeffrey Schwartz's OCD research demonstrates that patients redirecting attention produce measurable brain changes—caudate nucleus activity decreases when patients cognitively reframe intrusive thoughts. Calling selection "illusory" doesn't eliminate the phenomenon: why does deliberate mental effort produce specific neural outcomes?
 
 ## Selection vs. Random Outcomes
 
-Critics object: if quantum events are indeterminate, consciousness selecting them is just renaming randomness. The luck objection to libertarian free will makes exactly this point: indeterminism seems to make actions random rather than free.
+Critics object: if quantum events are indeterminate, consciousness selecting them is just renaming randomness—the luck objection to libertarian free will.
 
-Three responses distinguish selection from mere randomness:
+Three responses distinguish selection from randomness:
 
-**Reasons-guidance**: Selection isn't arbitrary—it's guided by the subject's reasons, values, and goals. When you select an action, you select it *for* something. Random outcomes have no such directedness.
+**Reasons-guidance**: Selection is guided by the subject's reasons, values, and goals. Random outcomes have no such directedness.
 
-**Phenomenology of effort**: Selection involves phenomenal effort. We experience deliberation, resistance, determination. Random events have no such experiential signature. If selection were just randomness, the feeling of effort would be systematically illusory in a way that undermines all introspective reports.
+**Phenomenology of effort**: We experience deliberation, resistance, determination. Random events have no experiential signature. If selection were randomness, the feeling of effort would be systematically illusory.
 
-**Coherence over time**: Selection produces patterns coherent with the subject's character and projects. Randomness would produce statistical noise. The fact that people make choices consistent with their values over time suggests something other than chance.
+**Coherence over time**: Selection produces patterns coherent with the subject's character. Randomness would produce statistical noise.
 
-Selection is indeterminate from physics' perspective—no physical law determines the outcome. But selection is determinate from the subject's perspective—consciousness selects for reasons. This is the structure [[agent-causation|agent causation]] requires: outcomes not determined by prior physical states but determined by the agent.
-
-This doesn't fully resolve the luck objection—the critic can ask why non-physical determination constitutes freedom rather than a different kind of randomness. The response is that reasons-guidance, phenomenal effort, and temporal coherence collectively distinguish selection from chance in ways that the luck objection, by focusing on indeterminacy alone, fails to capture. Whether this distinction is ultimately satisfying remains a live question in the philosophy of free will.
+Selection is indeterminate from physics' perspective but determinate from the subject's—the structure [[agent-causation|agent causation]] requires. This doesn't fully resolve the luck objection; whether reasons-guidance, phenomenal effort, and temporal coherence collectively distinguish selection from chance remains a live question in free will philosophy.
 
 ## Candidate Constraint Families
 
-What exactly can consciousness select? Several constraint families have been proposed:
-
-### Attention-Bounded Selection
-
-- **Mental variable**: Directed attention
-- **Physical variable**: Neural firing patterns in attention-controlled circuits
-- **Bandwidth**: ~10 bits/second
-- **Scope**: Only systems within the subject's attention loop
-
-This is the most empirically constrained proposal. Selection matches conscious processing limits.
-
-### Policy-Level Selection
-
-- **Mental variable**: Intentions, goals, action schemas
-- **Physical variable**: Macroscopic patterns representing action alternatives
-- **Bandwidth**: Discrete choices among pre-prepared alternatives
-
-This aligns with Libet's findings: the brain prepares options; consciousness selects or vetoes among them.
-
-### Basis-Choice Selection
-
-- **Mental variable**: What question to ask (which observable to measure)
-- **Physical variable**: The measurement basis itself
-
-This is the minimal interpretation of Stapp's Process 1: consciousness chooses which question to pose; the answer follows from physics plus prior state.
-
-### Indexical Selection
-
-- **Mental variable**: The "now" of conscious awareness
-- **Physical variable**: Which moment becomes actual (selected atemporally)
-
-This connects to the Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet—consciousness selects which outcome is experienced as "this one" rather than causing outcomes directly.
-
-These constraint families are developed in detail as candidate coupling laws in [[psychophysical-coupling]], where they are evaluated against the ~10 bits/second bandwidth constraint that empirically limits what selection can accomplish.
+What exactly can consciousness select? Four candidate coupling laws—attention-bounded, policy-level, basis-choice, and indexical selection—are developed in detail in [[psychophysical-coupling]], where they are evaluated against the ~10 bits/second bandwidth constraint. The key distinction: selection ranges from choosing which observable to measure (Stapp's minimal Process 1) to selecting which outcome is experienced as "this one" (connecting to the Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet).
 
 ## Relation to Site Perspective
 
@@ -214,88 +171,50 @@ The remaining tenets are compatible:
 
 ## Forward-in-Time vs. Retrocausal Selection
 
-The selection mechanisms above all operate forward in time: a superposition forms, and consciousness acts at the moment of collapse to determine which outcome becomes actual. The Map also considers [[retrocausality|retrocausal selection]] — consciousness biasing a past quantum event so the downstream causal chain produces a desired outcome — as a pathway that dissolves the Libet timing puzzle. Both are available, but forward-in-time selection carries fewer commitments.
+The mechanisms above all operate forward in time. The Map also considers [[retrocausality|retrocausal selection]]—consciousness biasing a past quantum event so the downstream causal chain produces a desired outcome—but forward-in-time selection carries fewer commitments.
 
 Five considerations favour the non-retrocausal pathway:
 
-**Temporal parsimony.** Backward causation is a large metaphysical commitment. Forward-in-time selection requires no revision of temporal ontology. The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet favours the smallest possible intervention; acting on a present superposition is more minimal than reaching backward through causal chains.
+**Temporal parsimony.** Backward causation requires revising temporal ontology. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet favours acting on a present superposition over reaching backward through causal chains.
 
-**Interpretive independence.** Retrocausal selection depends on the transactional interpretation (or similar), which faces unresolved challenges including Maudlin's contingent absorber argument. Non-retrocausal selection is compatible with multiple collapse interpretations: Penrose OR, CSL, GRW, and Copenhagen all support forward-in-time collapse.
+**Interpretive independence.** Retrocausal selection depends on the transactional interpretation, which faces unresolved challenges including Maudlin's contingent absorber argument. Forward-in-time selection is compatible with multiple interpretations: Penrose OR, CSL, GRW, and Copenhagen.
 
-**Phenomenological fit.** Conscious experience feels like choosing among present possibilities, not retroactively selecting past events. The felt narrowing from open possibility to settled fact maps directly onto forward-in-time collapse of a superposition. Retrocausal selection has no experiential counterpart.
+**Phenomenological fit.** Conscious experience feels like choosing among present possibilities, not retroactively selecting past events.
 
-**Compatibility with objective collapse.** Forward-in-time selection layers naturally on top of [[spontaneous-collapse-theories|spontaneous collapse mechanisms]]. GRW and CSL provide objective, physical collapse without consciousness. The Map can treat these as providing baseline collapse (solving the [[prebiotic-collapse|prebiotic collapse problem]]) while consciousness modulates collapse specifically in neural systems.
+**Compatibility with objective collapse.** Forward-in-time selection layers on top of [[spontaneous-collapse-theories|spontaneous collapse mechanisms]], which provide baseline collapse (solving the [[prebiotic-collapse|prebiotic collapse problem]]) while consciousness modulates collapse in neural systems.
 
-**The Libet problem has other solutions.** Retrocausality's strongest appeal is dissolving the Libet timing puzzle. But Schurger et al. (2012) offered a classical reinterpretation (the readiness potential as neural noise, not decision preparation), and forward-in-time selection addresses the puzzle differently: the brain prepares options; consciousness selects among the currently superposed states. No backward causation needed.
+**The Libet problem has other solutions.** Schurger et al. (2012) reinterpreted the readiness potential as neural noise, and forward-in-time selection addresses Libet differently: the brain prepares options; consciousness selects among currently superposed states.
 
 ### How the Frameworks Differ on Consciousness's Role
 
 Though Penrose-Hameroff, Stapp, and Chalmers-McQueen all posit forward-in-time selection, they assign consciousness different causal roles. In Penrose-Hameroff, consciousness *results from* collapse — the orchestrated reduction event *is* the conscious moment. In Stapp, consciousness *causes* collapse — mental attention actively projects onto desired states. In Chalmers-McQueen, consciousness *triggers* collapse — integrated information determines the collapse rate. Stapp and Chalmers-McQueen place consciousness in the causal driver's seat, while Penrose-Hameroff makes consciousness emergent from the collapse process. All three support the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet.
 
-## Process Philosophy Perspective
-
-Alfred North Whitehead's process philosophy provides a complementary framework for understanding selection. For Whitehead, the fundamental units of reality are "actual occasions"—momentary events of experience that arise, achieve determinateness, and perish. Each actual occasion involves what Whitehead calls "decision"—the cutting off of alternatives through "concrescence."
-
-This maps onto consciousness-selecting neural patterns in several ways:
-
-**Decision as fundamental**: Whitehead makes selection metaphysically basic rather than emergent. Every actual occasion involves the selection of what to incorporate (prehend) from prior occasions and how to synthesize that into a new unity. Selection isn't added to physical processes from outside; it pervades reality at every level.
-
-**Concrescence as selection**: The process by which an actual occasion becomes determinate—concrescence—resembles what quantum selection proposes. Multiple possibilities coexist (Whitehead's "eternal objects"); the actual occasion determines which become actual through its process of becoming. The parallel to superposition collapse is striking.
-
-**The subject of selection**: For Whitehead, each actual occasion has a "subjective aim"—a directedness toward its own completion. This addresses the question "what does the selecting?" The selecting is the actual occasion's own process of becoming, its achievement of satisfaction. Consciousness-selecting neural patterns may be the macro-level expression of this process-level feature.
-
-**Temporal structure**: Whitehead's occasions perish immediately upon achieving satisfaction, replaced by new occasions. This temporal granularity may correspond to the discrete selection events Stapp's mechanism proposes—rapid observations that hold patterns stable. The specious present might reflect the duration of relevant actual occasions.
-
 ## What Would Challenge This View?
 
-The consciousness-selecting neural patterns framework would face serious difficulty if:
+The framework would face serious difficulty if:
 
-1. **Decoherence proves insurmountable**: If experiments definitively demonstrate that no quantum effects survive in neural tissue on any timescale relevant to consciousness—neither in microtubules, nor in nuclear spins, nor through any Zeno mechanism—the physical basis for selection collapses. Current evidence is mixed but increasingly favorable; a decisive negative result would require major revision.
+1. **Decoherence proves insurmountable**: If experiments definitively show no quantum effects survive in neural tissue on any relevant timescale, the physical basis for selection collapses. Current evidence is mixed but increasingly favorable.
 
-2. **The Zeno mechanism proves insufficient**: The quantum Zeno pathway already faces a ten-order-of-magnitude timescale gap between attention (~100ms) and the observation rates required for Zeno freezing (~femtoseconds). If no account bridges this gap—if no mechanism decomposes macroscopic attention into sufficiently rapid micro-observations—this pathway closes. The Map treats Zeno as a promising placeholder, not an established mechanism; its failure would require an alternative account of how selection operates physically.
+2. **The Zeno timescale gap proves unbridgeable**: The ten-order-of-magnitude gap between attention (~100ms) and required Zeno observation rates (~femtoseconds) must be bridged by some mechanism decomposing attention into rapid micro-observations—or an alternative pathway is needed.
 
-3. **Selection proves phenomenologically absent**: If trained contemplatives uniformly reported that deliberate attention involves no sense of selecting—that choices feel like they happen *to* them rather than *by* them—the phenomenological grounding would weaken. Current contemplative evidence supports the selection phenomenology; [[introspection]] research suggests trained observation can access these processes.
+3. **Selection proves phenomenologically absent**: If trained contemplatives uniformly reported that choices feel like they happen *to* them rather than *by* them, the phenomenological grounding would weaken. Current [[introspection]] evidence supports selection phenomenology.
 
-4. **Random number generator effects are definitively refuted**: If rigorous studies demonstrate consciousness cannot influence quantum random processes even under ideal conditions, the broader claim that consciousness biases quantum outcomes loses empirical support.
-
-5. **Many-Worlds proves correct**: If the [[concepts/many-worlds]] interpretation were empirically confirmed—if branching could be detected and the probability interpretation derived—then all outcomes occur and "selection" is illusory. The [[tenets#^no-many-worlds|No Many Worlds]] tenet would fail, and with it this framework.
-
-## Open Questions
-
-**Empirical testability**: Can selection be measured? Random number generator experiments have produced mixed results. What would a rigorous test of consciousness-selecting look like given the constraints identified?
-
-**Selection and phenomenal properties**: Is there a quale of selection? Do we experience selection happening, or is it phenomenally invisible?
-
-**Timing and retrocausality**: If selection is atemporal—operating outside linear time—how does it relate to the subjective flow of experience?
-
-**The coupling law**: What psychophysical laws govern selection? the Map proposes the mechanism but acknowledges that the detailed mapping from conscious states to physical selections remains to be specified. See [[psychophysical-coupling]] for four candidate coupling laws (attention-bounded, policy-level, basis-choice, and indexical) and the bandwidth constraints any coupling law must respect.
+4. **Many-Worlds proves correct**: If the [[concepts/many-worlds]] interpretation were empirically confirmed, all outcomes occur and "selection" is illusory. The [[tenets#^no-many-worlds|No Many Worlds]] tenet would fail, and with it this framework.
 
 ## Further Reading
 
 - [[quantum-consciousness-programme]] — Apex synthesis of the full quantum consciousness research programme
 - [[consciousness-and-creativity]] — How selection integrates with imagination's generative role
 - [[attention-disorders-and-quantum-interface]] — ADHD, OCD, and meditation deficits reveal selection interface dysfunction
-- [[psychophysical-coupling]] — The laws governing what selection can accomplish
-- [[quantum-consciousness]] — Major theories of how consciousness interfaces with quantum mechanics
+- [[psychophysical-coupling]] — Candidate coupling laws and bandwidth constraints
 - [[mental-effort]] — The phenomenology of effort and Stapp's mechanism
-- [[attention-as-interface|voluntary attention]] — The willed/instructed distinction and attention-consciousness dissociation
-- [[mental-causation]] — Why selection addresses the exclusion problem
-- [[causal-closure]] — The principle selection challenges
-- [[measurement-problem]] — Why collapse creates logical space for consciousness
-- [[decoherence]] — The major empirical challenge and biological quantum effects
-- [[illusionism]] — The eliminativist challenge to consciousness
-- [[introspection]] — Evidence for the phenomenology of selection
+- [[attention-as-interface|voluntary attention]] — The willed/instructed distinction
 - [[witness-consciousness]] — Contemplative evidence for awareness selecting content
-- [[haecceity]] — Why this outcome rather than another
 - [[agent-causation]] — The metaphysics of agents as irreducible causes
 - [[epiphenomenalism]] — The denial of mental causation that selection rejects
 - [[quantum-biology]] — Empirical evidence for quantum effects in biological systems
-- [[retrocausality]] — The retrocausal alternative and Libet resolution
 - [[time-symmetric-selection-mechanism]] — Atemporal selection via transactional interpretation
-- [[spontaneous-collapse-theories]] — GRW, CSL, and objective collapse
-- [[prebiotic-collapse]] — What collapsed wavefunctions before consciousness
 - [[interactionist-dualism]] — The philosophical framework selection implements
-- [[tenets]] — the Map's foundational commitments
 
 ## References
 
@@ -311,7 +230,6 @@ The consciousness-selecting neural patterns framework would face serious difficu
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Schurger, A., Sitt, J.D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *PNAS*, 109(42), E2904-E2913.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
 1. Wiest, O. et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. Keppler, J. (2025). Macroscopic quantum effects in the brain. *Frontiers in Human Neuroscience*.

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense consciousness-selecting-neural-patterns.md (3835 words, 110% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Central to the Map's selection mechanism — preserve core arguments about how consciousness selects among neural pattern superpositions while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-11
-
 ### P2: Condense temporal-consciousness.md (3621 words, 103% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Recently coalesced from temporal-phenomenology-quantum-selection — may contain redundancy from the merge. Preserve core temporal arguments while tightening. See /condense skill.
@@ -429,6 +423,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Condense consciousness-selecting-neural-patterns.md (3835 words, 110% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Central to the Map's selection mechanism — preserve core arguments about how consciousness selects among neural pattern superpositions while removing redundancy. See /condense skill.
+- **Output**: obsidian/concepts/consciousness-selecting-neural-patterns.md
 
 ### ✓ 2026-03-11: Cross-review ethics cluster considering new apex synthesis
 - **Type**: cross-review

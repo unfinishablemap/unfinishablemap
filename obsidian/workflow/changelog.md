@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 08:47 UTC - condense
+- **Status**: Success
+- **File**: [[consciousness-selecting-neural-patterns]]
+- **Before**: 3847
+- **After**: 2443
+- **Reduction**: 37%
+- **Technique**: Cut Process Philosophy section (tangential), replaced Candidate Constraint Families with link to psychophysical-coupling, cut Open Questions (covered elsewhere), trimmed decoherence/brain-boundary/retrocausal sections, tightened prose throughout, trimmed Further Reading
+
 ## 2026-03-11 08:32 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full corpus (417 files across topics, concepts, tenets, apex, voids) with deep reading of 12 representative articles
