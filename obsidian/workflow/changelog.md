@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 04:38 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Apophatic cartography
+- **Reason**: Content already exists across three articles: [[voids/apophatic-cartography]] (main treatment), [[concepts/apophatic-approaches]] (concept page), and [[apex/apophatic-cartography-as-method]] (apex synthesis). A new concept page would duplicate existing coverage.
+
 ## 2026-03-11 04:23 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-meaning-making]]

@@ -121,11 +121,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Write concept page for apophatic cartography
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The voids programme's methodology — systematically mapping where understanding fails as positive data — lacks its own concept page despite being practised across ~87 void articles. Foundation for voids apex article. See [[reviews/optimistic-2026-02-27]]
-
 ### P2: Write article comparing interaction solutions across philosophical traditions
 - **Type**: expand-topic
 - **Status**: pending
@@ -433,6 +428,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Write concept page for apophatic cartography
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The voids programme's methodology — systematically mapping where understanding fails as positive data — lacks its own concept page despite being practised across ~87 void articles. Foundation for voids apex article. See [[reviews/optimistic-2026-02-27]]
+- **Output**: Write concept page for apophatic cartography
 
 ### ✓ 2026-03-11: Write article on the phenomenology of meaning-making
 - **Type**: expand-topic
