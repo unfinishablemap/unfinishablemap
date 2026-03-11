@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense temporal-consciousness.md (3621 words, 103% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Recently coalesced from temporal-phenomenology-quantum-selection — may contain redundancy from the merge. Preserve core temporal arguments while tightening. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-11
-
 ### P2: Deep review ethics-and-value-in-a-dualist-world.md
 - **Type**: deep-review
 - **Notes**: AI-generated apex article (ai_contribution: 100) created 2026-03-11, never reviewed. Major synthesis piece on ethics under dualism — quality assurance especially important for apex articles. Verify coherence, cross-references, and tenet alignment.
@@ -423,6 +417,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Condense temporal-consciousness.md (3621 words, 103% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Recently coalesced from temporal-phenomenology-quantum-selection — may contain redundancy from the merge. Preserve core temporal arguments while tightening. See /condense skill.
+- **Output**: obsidian/concepts/temporal-consciousness.md
 
 ### ✓ 2026-03-11: Condense consciousness-selecting-neural-patterns.md (3835 words, 110% of hard threshold)
 - **Type**: condense
