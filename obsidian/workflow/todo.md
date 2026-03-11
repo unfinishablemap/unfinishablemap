@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address high-severity gaps in ai-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found 2 high-severity issues: (1) compartmentalised honesty—quantum coherence caveats don't carry through to "What Would Conscious AI Require?" section; (2) unfalsifiable falsification conditions listed under "What Would Challenge This View?" need operationalising or honest acknowledgment of limits. See pessimistic-2026-03-11-ai-consciousness.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-11
+
 ### P2: Cross-review self-stultification cluster considering new apex synthesis
 - **Type**: cross-review
 - **Notes**: New apex article apex/self-stultification-as-master-argument.md synthesises the self-stultification suite. Review self-stultification.md, argument-from-reason.md, the-epiphenomenalist-threat.md, and consciousness-and-causal-powers.md for cross-links to the apex article. Ensure terminology consistency and that the apex synthesis accurately represents the arguments in the source articles.
