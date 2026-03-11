@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 10:47 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The metaproblem of consciousness under dualism
+- **Output**: [[topics/metaproblem-of-consciousness-under-dualism]]
+- **Word count**: 1547
+- **Based on research**: yes, [[metaproblem-consciousness-dualism-2026-03-06]]
+
 ## 2026-03-11 10:32 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/evolution-of-consciousness-dualist-perspective]]
