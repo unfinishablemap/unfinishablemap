@@ -4,7 +4,7 @@ description: "Rovelli's interpretation where quantum facts are relative to obser
 created: 2026-01-18
 modified: 2026-03-11
 human_modified: null
-ai_modified: 2026-03-11T01:08:00+00:00
+ai_modified: 2026-03-11T16:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-01-29T14:52:35+00:00
+last_deep_review: 2026-03-11T16:46:00+00:00
 ---
 
 Relational quantum mechanics (RQM) is Carlo Rovelli's interpretation of quantum mechanics in which physical properties exist only as relations between systems, not as intrinsic features of things. There is no "view from nowhere"—all quantum facts are relative to specific observers, where "observer" means any physical system, not necessarily a conscious one. RQM explicitly removes any special role for consciousness in quantum measurement.
@@ -96,7 +96,7 @@ Even for those who reject RQM, engaging with it clarifies what's at stake:
 
 **The price of consciousness-causes-collapse.** RQM shows there's a coherent interpretation where consciousness plays no role. Choosing a consciousness-based framework isn't forced by quantum mechanics—it's a philosophical commitment. Understanding RQM helps distinguish what quantum mechanics requires from what the Map's tenets add.
 
-**The multi-observer problem.** RQM's treatment of multiple observers (each with valid but relative perspectives) illuminates the challenges consciousness-causes-collapse faces. If Alice's consciousness collapses the wavefunction and Bob's does too, how are their selections reconciled? RQM dissolves this by relativizing collapse to each observer. The Map's alternative—[[interface-locality]]—achieves something similar by different means: each consciousness modulates only its own brain.
+**The multi-observer problem.** RQM's treatment of multiple observers (each with valid but relative perspectives) illuminates the challenges consciousness-causes-collapse faces. If Alice's consciousness collapses the wavefunction and Bob's does too, how are their selections reconciled? RQM dissolves this by relativizing collapse to each observer. The Map's alternative—[[brain-interface-boundary]]—achieves something similar by different means: each consciousness modulates only its own brain.
 
 **Lessons for perspectivalism.** RQM's insight that intermediate states needn't be coordinated until observers interact has value even within a different framework. The Map can accept that before Alice and Bob communicate, their brain states (modulated by their respective consciousnesses) needn't be compared. Agreement is verified only through physical interaction.
 
@@ -164,7 +164,7 @@ Note, however, that RQM faces its own version of the "how does collapse happen?"
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]:** **Direct conflict.** RQM explicitly removes consciousness from physics. If RQM is correct, consciousness cannot influence physical outcomes through quantum mechanisms. The Map's central claim—that consciousness participates in determining quantum outcomes—fails.
 
-The [[concepts/epiphenomenalism|epiphenomenalism concern]] cuts both ways, however. RQM makes consciousness epiphenomenal by default—experience accompanies physical interactions (if it exists at all) but plays no causal role. The same considerations that make epiphenomenalism problematic for dualists apply here: why do we talk about consciousness if it does nothing? The bidirectional interaction tenet addresses this by giving consciousness genuine causal work. RQM leaves the explanatory gap unexplained.
+The [[epiphenomenalism|epiphenomenalism concern]] cuts both ways, however. RQM makes consciousness epiphenomenal by default—experience accompanies physical interactions (if it exists at all) but plays no causal role. The same considerations that make epiphenomenalism problematic for dualists apply here: why do we talk about consciousness if it does nothing? The bidirectional interaction tenet addresses this by giving consciousness genuine causal work. RQM leaves the explanatory gap unexplained.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]:** RQM also rejects many-worlds, treating collapse (relative to each observer) as real. Here the Map and RQM agree: we don't branch into multiple copies.
 
@@ -183,9 +183,9 @@ The Map rejects this trade-off. Understanding consciousness as causally efficaci
 ## Further Reading
 
 - [[quantum-interpretations]] — Survey of interpretations and their consciousness implications
-- [[concepts/many-worlds]] — The interpretation both RQM and the Map reject, for different reasons
+- [[many-worlds]] — The interpretation both RQM and the Map reject, for different reasons
 - [[multi-mind-collapse-problem]] — How the Map handles multiple conscious observers
-- [[interface-locality]] — Why consciousness can only affect its own brain
+- [[brain-interface-boundary]] — Why consciousness can only affect its own brain
 - [[measurement-problem]] — The puzzle RQM dissolves
 - [[quantum-consciousness]] — Mechanisms the Map endorses
 - [[illusionism]] — The eliminativist position that finds RQM congenial
@@ -205,16 +205,3 @@ The Map rejects this trade-off. Understanding consciousness as causally efficaci
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Stanford Encyclopedia of Philosophy. "Relational Quantum Mechanics." https://plato.stanford.edu/entries/qm-relational/
-
-<!-- AI REFINEMENT LOG - 2026-03-11
-Changes made:
-- Fixed asymmetric burden of explanation: acknowledged Map's mechanism is equally incomplete, reframed advantage as identifying the right kind of variable rather than mechanistic completeness
-- Added methodological qualification to contemplative evidence: acknowledged contested epistemology, noted divergent conclusions across traditions (e.g. Buddhist dissolution of observer)
-- Improved illusionism/regress section: engaged with Dennett's heterophenomenology and Frankish's quasi-phenomenal responses; presented Tallis objection as contested rather than decisive
-- Integrated Process Philosophy section with Map's tenets: clarified Map doesn't endorse panexperientialism but finds Whitehead's critique of relativization illuminating
-- Language fixes: "deal-breaker" → "fundamental incompatibility"; reduced "elegance" repetition; "might seem" → "appears"
-
-Based on pessimistic review finding asymmetric burden, undefended contemplative evidence, and selective illusionist engagement.
-
-This log should be removed after human review.
--->
