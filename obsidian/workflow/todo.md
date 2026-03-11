@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review ethics cluster considering new apex synthesis
-- **Type**: cross-review
-- **Notes**: New apex article on ethics and value in a dualist world synthesises the Map's ethics cluster. Review ethics-of-consciousness.md, moral-responsibility.md, phenomenal-value-realism.md, and consciousness-and-moral-agency-under-duress.md for cross-links to the apex article and consistency of the ethical framework presented.
-- **Source**: chain (from ethics-and-value apex)
-- **Generated**: 2026-03-11
-
 ### P2: Condense consciousness-selecting-neural-patterns.md (3835 words, 110% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Central to the Map's selection mechanism — preserve core arguments about how consciousness selects among neural pattern superpositions while removing redundancy. See /condense skill.
@@ -423,6 +417,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Cross-review ethics cluster considering new apex synthesis
+- **Type**: cross-review
+- **Notes**: New apex article on ethics and value in a dualist world synthesises the Map's ethics cluster. Review ethics-of-consciousness.md, moral-responsibility.md, phenomenal-value-realism.md, and consciousness-and-moral-agency-under-duress.md for cross-links to the apex article and consistency of the ethical framework presented.
+- **Output**: None -- Context: Cross-review ethics cluster considering new apex synthesis
 
 ### ✓ 2026-03-11: Cross-review quantum consciousness articles considering new apex synthesis
 - **Type**: cross-review

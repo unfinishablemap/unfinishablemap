@@ -4,7 +4,7 @@ description: "What kind of knowledge does introspection provide? Human+AI analys
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-10T23:53:00+00:00
+ai_modified: 2026-03-11T08:17:00+00:00
 draft: false
 topics:
   - "[[epistemology]]"
@@ -23,11 +23,13 @@ related_articles:
   - "[[phenomenal-conservatism-and-introspective-evidence]]"
   - "[[the-unobservable-self]]"
   - "[[introspective-opacity]]"
+  - "[[ethics-and-value-in-a-dualist-world]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-10
 last_curated:
+last_deep_review: 2026-03-11T08:17:00+00:00
 ---
 
 Introspection provides knowledge unlike anything else in our epistemic repertoire. When you attend to the burning quality of pain or the vivid redness of a sunset, the resulting knowledge is neither perception of an external object nor inference from evidence. The Unfinishable Map's arguments for dualism depend on taking this knowledge seriously — the [[hard-problem-of-consciousness|hard problem]] arises precisely because introspective knowledge reveals features of experience that physical description cannot capture. Yet the epistemological status of introspection remains deeply contested. Is it a form of inner perception? A kind of self-directed inference? Something with no analogue elsewhere in cognition? The answer determines what introspective knowledge can and cannot establish about the nature of consciousness.
@@ -62,7 +64,7 @@ Gareth Evans proposed that introspection works through *transparency*: to determ
 
 Transparency works well for propositional attitudes. Asking "do I believe that consciousness is irreducible?" reduces to considering whether consciousness is irreducible. But it works poorly for phenomenal states — the states that matter most for the Map's arguments. When you attend to the redness of your visual experience, you are not looking *through* the experience to some external object. You are attending to the *experience itself* — its qualitative character, its intensity, its felt texture. The redness you are interested in is a property of your experience, not of the external surface reflecting light.
 
-This is not a minor limitation. The transparency model, applied consistently, suggests that phenomenal consciousness is epistemically invisible — that we never attend to experience itself, only to its objects. Dennett and other deflationary theorists embrace this implication. But the implication is false to the phenomenology. When a [[contemplative-epistemology|trained contemplative]] attends to the quality of awareness itself — as distinct from any object of awareness — they are doing something the transparency model says is impossible. That contemplatives from independent traditions converge on structural descriptions of this awareness (see [[contemplative-practice-as-philosophical-evidence|cross-traditional convergence]]) suggests the transparency model is incomplete.
+This is not a minor limitation. The transparency model, applied consistently, suggests that phenomenal consciousness is epistemically invisible — that we never attend to experience itself, only to its objects. Dennett and other deflationary theorists embrace this implication. But the implication is false to the phenomenology. When a [[contemplative-epistemology|trained contemplative]] attends to the quality of awareness itself — as distinct from any object of awareness — they are doing something the transparency model says is impossible. That contemplatives from independent traditions converge on structural descriptions of this awareness (see [[contemplative-practice-as-philosophical-evidence|cross-traditional convergence]]) suggests the transparency model is incomplete. A complication: many of these traditions — Buddhist ones especially — embed their introspective findings in a non-self framework that challenges the notion of a subject acquainted with its own states. The convergence on *structural descriptions* of awareness nevertheless supports a capacity for attending to experience itself, even if the metaphysical interpretation of what is doing the attending remains contested.
 
 ## Inferentialism: Carruthers's Challenge
 
@@ -82,7 +84,7 @@ The Map's position is that introspection constitutes a sui generis epistemic cap
 
 **Direct phenomenal presentation.** Unlike perception, introspection does not represent its object through an independent medium. The qualitative character of pain is presented in the experience itself, not through a representation that might misrepresent. This is what the acquaintance model gets right.
 
-**Fallible judgement about infallible presentation.** The presentation is incorrigible — you cannot be wrong about whether *something* is presented. But the judgement you form about what is presented is fallible — you can miscategorise, misinterpret, or misdescribe. This preserves the core insight of acquaintance while accommodating Schwitzgebel's evidence.
+**Fallible judgement about infallible presentation.** The presentation is incorrigible — you cannot be wrong about whether *something* is presented. But the judgement you form about what is presented is fallible — you can miscategorise, misinterpret, or misdescribe. This preserves the core insight of acquaintance while accommodating Schwitzgebel's evidence. The functionalist objection is that this distinction is untestable — that every apparent error can be attributed to judgement, making presentation's infallibility vacuous. But the distinction does generate predictions: errors should cluster at the judgement level (categorisation, comparison, linguistic encoding) rather than at the level of bare phenomenal presence. This matches the empirical pattern. Subjects rarely deny having *any* experience; they err about its classification, intensity, or emotional valence — precisely the operations the model assigns to fallible judgement.
 
 **Domain-variable reliability.** Introspective reliability varies systematically across domains: strongest for attended phenomenal content, weaker for background states, and absent for causal processes. This gradient, which the [[epistemology-of-introspective-calibration|calibration strategies]] map in detail, reflects the structure of introspective access rather than a uniform capacity.
 
@@ -96,6 +98,8 @@ The sui generis model yields clear epistemological conclusions about what intros
 
 **It can establish structural features of experience.** The unity of consciousness, the temporal structure of experience, the distinction between awareness and its contents — these structural claims draw on introspective evidence that converges across independent contemplative traditions and correlates with third-person measurement.
 
+**It can ground evaluative awareness.** If introspection provides sui generis access to phenomenal content, and some phenomenal content is inherently evaluative — the felt badness of suffering, the felt rightness of compassion — then introspective epistemology extends to [[moral-perception|moral perception]]. The [[ethics-and-value-in-a-dualist-world|dualist ethics]] that consciousness grounds depends on this: moral perception as direct apprehension rather than inference requires the same kind of epistemic access the sui generis model describes.
+
 **It cannot establish metaphysical conclusions on its own.** That experience has qualitative character does not entail dualism without additional philosophical argument. Introspection provides the *data* — the phenomenal facts — but the inference from "experience has features physical description cannot capture" to "experience is not reducible to physical processes" requires the kind of philosophical reasoning the Map's [[the-case-for-dualism|arguments for dualism]] develop.
 
 **It cannot establish the nature of background or unattended states.** This is where Schwitzgebel's scepticism has genuine force. Reports about peripheral vision, background emotional tone, or the character of unfocused awareness rest on the weakest form of introspective access.
@@ -104,7 +108,7 @@ The sui generis model yields clear epistemological conclusions about what intros
 
 **[[tenets#^dualism|Dualism]]**: The Map's dualism rests on phenomenal data — the qualitative character of experience, the explanatory gap, the irreducibility of what-it-is-likeness to physical description. The sui generis model secures the epistemic standing of this data. Introspective knowledge of phenomenal content is neither perceptual representation (which might systematically misrepresent) nor mere inference (which might confabulate). It is direct presentation of the phenomenon that dualist arguments identify as irreducible. The epistemological question and the metaphysical question are thus tightly linked: if introspection provides genuine knowledge of phenomenal character, the hard problem has real data to explain.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The sui generis character of introspection is itself evidence for interactionist dualism. A purely physical system monitoring its own states would operate through inner sense — representational mechanisms detecting and encoding internal states. That introspective knowledge has a character distinct from perceptual representation — direct rather than mediated, constitutive rather than correspondential — suggests that consciousness is not merely a physical monitoring system but something that engages with its own states in a way physical systems do not.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness is causally efficacious — influencing physical outcomes rather than passively accompanying them — then introspective knowledge has practical consequences. The sui generis model matters for interaction because it secures the epistemic basis on which conscious agents act. An agent whose self-knowledge were purely inferential (as ISA theory claims) would be causally effective but epistemically blind to its own states — acting on interpretations rather than direct awareness. The directness of phenomenal presentation means that when consciousness selects among possibilities, it does so with genuine knowledge of its own evaluative states, not reconstructed guesses. This connects introspective epistemology to the Map's account of [[ethics-and-value-in-a-dualist-world|dualist ethics]]: [[moral-perception|moral perception]] and the apprehension of value depend on the same sui generis access that introspection provides to phenomenal content generally.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Reducing introspection to inner sense or inference is the parsimonious move — it assimilates an anomalous epistemic capacity to familiar categories. But the parsimony is achieved by denying the distinctive features that make introspective knowledge philosophically significant. If the simplest account systematically fails to capture what introspection is actually like, the tenet's warning applies: simplicity is not always a guide to truth.
 
@@ -117,6 +121,7 @@ The sui generis model yields clear epistemological conclusions about what intros
 - [[the-unobservable-self]] — The structural impossibility of observing the observer
 - [[introspective-opacity]] — Where introspective access fails structurally
 - [[contemplative-epistemology]] — Systematic contemplative practice as knowledge source
+- [[ethics-and-value-in-a-dualist-world]] — How introspective epistemology grounds unified dualist ethics
 
 ## References
 
