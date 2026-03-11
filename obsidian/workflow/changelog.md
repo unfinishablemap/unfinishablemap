@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 14:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/philosophy-of-emotion-under-dualism]]
+- **Changes**: Fixed pain asymbolia overclaim (High), added constructionism/enactivism to debate framing, added phenomenological counter-positions to Scheler, distinguished phenomenal unity from metaphysical simplicity, softened language per review
+- **Published**: yes
+
 ## 2026-03-11 12:55 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/philosophy-of-emotion-under-dualism]]
