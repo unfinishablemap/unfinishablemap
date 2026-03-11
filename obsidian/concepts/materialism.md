@@ -4,7 +4,7 @@ description: "Why physicalism fails to explain consciousness. The explanatory ga
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-11T17:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -161,7 +161,7 @@ This undercuts the "future science" appeal: if McGinn is right, no amount of pro
 
 ### Alternative Frameworks
 
-Process philosophy (Whitehead), [[panpsychism]], and [[idealism]] each challenge the materialism/dualism binary in different ways. These frameworks illustrate that rejecting materialism doesn't force Cartesian substance dualism—other options exist. The Map takes no position on these alternatives; what matters is the core claim: consciousness is not reducible to or derivable from the physical as materialism conceives it.
+Process philosophy (Whitehead), [[panpsychism]], and [[idealism]] each challenge the materialism/dualism binary in different ways. For a systematic comparison of these [[analytic-idealism-and-mind-centric-metaphysics|mind-centric alternatives]]—idealism, panpsychism, cosmopsychism, dual-aspect monism, and the Map's dualism—see the comparative survey. These frameworks illustrate that rejecting materialism doesn't force Cartesian substance dualism—other options exist. The Map takes no position on these alternatives; what matters is the core claim: consciousness is not reducible to or derivable from the physical as materialism conceives it.
 
 ## Relation to the Map's Perspective
 
@@ -192,6 +192,7 @@ None currently obtains, and each faces significant challenges. Materialism remai
 - [[philosophical-zombies]] — The zombie argument against materialism in detail
 - [[hard-problem-of-consciousness]] — The problem materialism cannot solve
 - [[idealism]] — Idealism's challenge to both materialism and dualism
+- [[analytic-idealism-and-mind-centric-metaphysics]] — Comparative survey of mind-centric alternatives to materialism
 - [[concepts/epiphenomenalism]] — What happens if you accept the gap but deny mental causation
 - [[illusionism]] — Materialism's most radical response to the hard problem
 - [[concepts/functionalism]] — A materialist theory the Map rejects

@@ -4,7 +4,7 @@ description: "Multiple independent philosophical arguments converge on the same 
 created: 2026-02-27
 modified: 2026-02-27
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-11T17:14:00+00:00
 last_deep_review: 2026-02-27T19:46:00+00:00
 draft: false
 topics:
@@ -94,7 +94,7 @@ The most common defence of materialism may be the least philosophical: the convi
 
 The arguments against materialism are sometimes characterised as proving dualism. They do not. What they show is that physicalism—in all its forms from reductive identity theory to eliminativism to illusionism—cannot account for consciousness.
 
-This leaves the question open. If consciousness is not reducible to the physical, what is it? Several options exist: substance dualism, property dualism, [[concepts/panpsychism|panpsychism]], [[idealism]], neutral monism. The Map's [[tenets]] make a specific commitment: [[interactionist-dualism]], where consciousness is irreducible and causally efficacious, interacting with the physical world at quantum indeterminacies.
+This leaves the question open. If consciousness is not reducible to the physical, what is it? Several options exist: substance dualism, property dualism, [[concepts/panpsychism|panpsychism]], [[idealism]], neutral monism. For a systematic comparison of these [[analytic-idealism-and-mind-centric-metaphysics|mind-centric frameworks]], see the comparative survey. The Map's [[tenets]] make a specific commitment: [[interactionist-dualism]], where consciousness is irreducible and causally efficacious, interacting with the physical world at quantum indeterminacies.
 
 The arguments do not force this particular conclusion, but they rule out the position that dominates the field. They establish that consciousness has features—qualitative character, subjectivity, unity, intentionality, normative significance—that physical description cannot capture. Whatever positive account of consciousness one adopts must take these features seriously.
 

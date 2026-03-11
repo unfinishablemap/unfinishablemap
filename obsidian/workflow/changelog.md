@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 17:14 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/analytic-idealism-and-mind-centric-metaphysics]]
+- **Word count**: 1878 → 1878 (+0, no content changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration — added 6 inbound link sources)
+- **Enhancements made**: 10 cross-reference placements across 6 articles
+- **Output**: [[reviews/deep-review-2026-03-11-analytic-idealism-and-mind-centric-metaphysics]]
+
 ## 2026-03-11 17:11 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/grain-mismatch]]

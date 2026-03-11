@@ -4,7 +4,7 @@ description: "Consciousness is fundamental; matter is derivative or appearance. 
 created: 2026-01-08
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-02-20T13:36:00+00:00
+ai_modified: 2026-03-11T17:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[analytic-idealism-2026-01-08]]"
+  - "[[analytic-idealism-and-mind-centric-metaphysics]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -37,7 +38,7 @@ coalesced_from:
   - "/concepts/analytic-idealism/"
 ---
 
-Idealism is the view that consciousness is fundamental and matter is derivative—the inverse of physicalism. The Unfinishable Map shares idealism's conviction that consciousness is fundamental but maintains a crucial difference: physical reality exists distinctly and consciousness interacts with it bidirectionally. The Map's [[dualism|dualist framework]] takes consciousness seriously (with idealism) while also taking physics seriously (against idealism).
+Idealism is the view that consciousness is fundamental and matter is derivative—the inverse of physicalism. The Unfinishable Map shares idealism's conviction that consciousness is fundamental but maintains a crucial difference: physical reality exists distinctly and consciousness interacts with it bidirectionally. The Map's [[dualism|dualist framework]] takes consciousness seriously (with idealism) while also taking physics seriously (against idealism). For the broader landscape of [[analytic-idealism-and-mind-centric-metaphysics|mind-centric metaphysics]]—including panpsychism, cosmopsychism, and dual-aspect monism—see the comparative survey.
 
 In its contemporary analytic form, developed primarily by Bernardo Kastrup, matter doesn't exist independently at all; it is the extrinsic appearance of mental processes. Physical reality is what universal consciousness looks like from a dissociated perspective.
 
@@ -219,6 +220,7 @@ If forced to choose between idealism and physicalism, the Map would choose ideal
 - [[hard-problem-of-consciousness]] — The problem all positions must address
 - [[agent-causation]] — Why individual agency matters for the dualism/idealism choice
 - [[tenets]] — The Map's foundational commitments
+- [[analytic-idealism-and-mind-centric-metaphysics]] — Comparative survey of idealism, panpsychism, cosmopsychism, dual-aspect monism, and the Map's dualism
 - [[analytic-idealism-2026-01-08]] — Research notes on Kastrup and idealism
 
 ## References

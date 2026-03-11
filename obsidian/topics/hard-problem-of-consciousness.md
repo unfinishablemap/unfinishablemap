@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-03-05T19:25:00+00:00
+ai_modified: 2026-03-11T17:14:00+00:00
 draft: false
 topics: []
 concepts:
@@ -232,7 +232,7 @@ Chalmers proposes that consciousness requires new *fundamental laws*—psychophy
 
 [[idealism|Analytic idealism]] denies that matter is fundamental: consciousness is the sole ontological primitive, and matter is how consciousness appears to itself. This dissolves the hard problem—there's no non-experiential substrate generating experience.
 
-But idealism trades the hard problem for another: why does "appearance" follow regular laws? If matter is just how consciousness appears, why must fire burn and gravity attract? The Map maintains physical reality exists distinctly from consciousness, making the regularity of physical law less puzzling. See [[idealism]] for detailed treatment.
+But idealism trades the hard problem for another: why does "appearance" follow regular laws? If matter is just how consciousness appears, why must fire burn and gravity attract? The Map maintains physical reality exists distinctly from consciousness, making the regularity of physical law less puzzling. See [[idealism]] for detailed treatment and [[analytic-idealism-and-mind-centric-metaphysics|the mind-centric metaphysics survey]] for how idealism compares with panpsychism, cosmopsychism, and the Map's dualism.
 
 ### The Combination Problem
 

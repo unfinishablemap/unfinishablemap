@@ -4,7 +4,7 @@ description: "Mapping the landscape of mind-first ontologies—from Kastrup's an
 created: 2026-02-22
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-23T09:20:00+00:00
+ai_modified: 2026-03-11T17:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-02-23T09:20:00+00:00
+last_deep_review: 2026-03-11T17:14:00+00:00
 ---
 
 If consciousness is fundamental—not something brains produce but something reality includes from the start—how should we build a metaphysics around that conviction? The Unfinishable Map, Bernardo Kastrup's analytic idealism, panpsychism, cosmopsychism, and dual-aspect monism all answer this question differently. They agree that physicalism fails. They disagree about what replaces it. The choice between these mind-centric frameworks turns on three questions: what is matter, how does causation work, and does individual identity survive?

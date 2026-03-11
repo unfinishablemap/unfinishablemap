@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate analytic-idealism.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Analytic idealism (Kastrup) is an important alternative to both physicalism and the Map's dualism — it should be referenced from idealism.md, dualism.md, and panpsychism.md at minimum. Add cross-references from related articles or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-11
-
 ### P2: Integrate consciousness-and-strong-emergence.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Strong emergence is central to the physicalism–dualism debate. Should be referenced from emergence.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Add cross-references from related articles.
@@ -431,6 +425,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Integrate analytic-idealism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Analytic idealism (Kastrup) is an important alternative to both physicalism and the Map's dualism — it should be referenced from idealism.md, dualism.md, and panpsychism.md at minimum. Add cross-references from related articles or update section index pages to include navigation to this content.
+- **Output**: analytic-idealism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-11: Deep review substrate-independence.md
 - **Type**: deep-review

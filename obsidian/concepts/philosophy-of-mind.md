@@ -4,7 +4,7 @@ description: "Philosophy of mind as a field—its central questions, major posit
 created: 2026-02-06
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-11T17:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -81,7 +81,7 @@ Between strict physicalism and dualism sit several intermediate positions:
 
 - **[[russellian-monism]]** proposes that physics describes only relational structure while consciousness is the intrinsic nature of matter. It splits the difference between physicalism and dualism, though it inherits challenges from both.
 
-- **[[idealism|Analytic idealism]]** inverts physicalism entirely: consciousness is fundamental and matter is how consciousness appears from the outside. This dissolves the hard problem but must explain the regularity and apparent independence of the physical world.
+- **[[idealism|Analytic idealism]]** inverts physicalism entirely: consciousness is fundamental and matter is how consciousness appears from the outside. This dissolves the hard problem but must explain the regularity and apparent independence of the physical world. See [[analytic-idealism-and-mind-centric-metaphysics|Analytic Idealism and Mind-Centric Metaphysics]] for a comparative survey of these frameworks.
 
 Each of these frameworks addresses real shortcomings in physicalism. None has yet achieved the explanatory success that would settle the debate.
 
