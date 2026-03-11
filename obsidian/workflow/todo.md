@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review brain-interface-boundary.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 34 days ago. Core concept page defining where the consciousness-brain interface begins and ends — directly relevant to Tenet 2 (Minimal Quantum Interaction) and the Map's central interface framework. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P2: Deep review cognitive-science-of-dualism.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-06 — 33 days ago. Topics article on how cognitive science engages with dualism — relevant to Tenet 1 (Dualism) and empirical grounding of the Map's position. Verify coherence, cross-references, and tenet alignment.
@@ -563,6 +557,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Deep review brain-interface-boundary.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 34 days ago. Core concept page defining where the consciousness-brain interface begins and ends — directly relevant to Tenet 2 (Minimal Quantum Interaction) and the Map's central interface framework. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/brain-interface-boundary.md
 
 ### ✓ 2026-03-11: Deep review episodic-memory.md
 - **Type**: deep-review
