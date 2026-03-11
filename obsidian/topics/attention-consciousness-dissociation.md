@@ -4,7 +4,7 @@ description: "Attention and consciousness can come apart. Unlike other double di
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-11T18:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,12 +22,15 @@ related_articles:
   - "[[tenets]]"
   - "[[attention-consciousness-mechanisms-2026-01-15]]"
   - "[[attention-consciousness-relationship-2026-01-15]]"
+  - "[[neurological-dissociations-as-interface-architecture]]"
+  - "[[attention-as-causal-bridge]]"
+  - "[[attention-disorders-and-consciousness]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-05
 last_curated:
-last_deep_review: 2026-02-05T17:58:00+00:00
+last_deep_review: 2026-03-11T18:09:00+00:00
 ---
 
 Attention and consciousness can come apart. [[Blindsight]] patients orient toward stimuli they deny seeing—attention without awareness. (See [[perception-and-conscious-experience|perception and conscious experience]] for how blindsight and inattentional blindness fit into the broader pattern of perceptual dissociations.) Peripheral vision delivers conscious experience without focal attention—awareness without attending. This empirical dissociation carries philosophical weight: if consciousness were identical to attention, or if attention were necessary and sufficient for consciousness, these splits would be impossible. In standard cognitive neuroscience, double dissociations identify distinct physical processes—but the consciousness-attention case is uniquely significant because one side of the dissociation is the very phenomenon whose relationship to physical processes is in question. This article examines both the physicalist and dualist readings of the evidence, arguing that the [[hard-problem-of-consciousness|hard problem]] makes this dissociation more theoretically consequential than other double dissociations in cognitive science.
@@ -165,7 +168,7 @@ One phenomenon particularly resists deflationary analysis: the [[mental-effort|f
 
 When you sustain focus against distraction, something works. The experience of effortful attention—holding concentration, redirecting attention when it wanders—has a distinctive phenomenal character. Even philosophers who intellectually accept eliminativism about consciousness report that attention *still feels* effortful.
 
-The [[attention-as-interface]] hypothesis offers an interpretation: effort feels real because it *is* real work. On Stapp's quantum Zeno mechanism, sustained attention requires continuous engagement to hold neural patterns stable through repeated observation. The phenomenology of effort corresponds to actual engagement.
+The [[attention-as-interface]] hypothesis offers an interpretation: effort feels real because it *is* real work. One proposed mechanism—Stapp's quantum Zeno model—suggests sustained attention requires continuous engagement to hold neural patterns stable through repeated observation. If something like this is correct, the phenomenology of effort corresponds to actual engagement. The core point, however, does not depend on any particular quantum mechanism: effortful attention has distinctive phenomenal character that resists deflationary analysis regardless of the underlying physics.
 
 This connects dissociation to [[topics/free-will]]. If attention can be effortful, and if that effort produces differential outcomes (neuroplastic change under sustained attention but not passive observation), then the felt sense of striving has genuine causal consequences. Dissociation evidence locates where this causation operates: through attention, not identically with it.
 
@@ -179,17 +182,20 @@ The attention-consciousness dissociation illuminates The Unfinishable Map's fram
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The interface model preserves both directions. Brain → consciousness: neural processes present content to awareness. Consciousness → brain: through attention, consciousness selects and biases which content gets processed.
 
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The dissociation evidence has particular force if indexical identity matters. Under MWI, the question "was this subject conscious?" dissolves into branching—every outcome occurs. The fact that blindsight patients *in this world* report no experience while orienting accurately depends on there being a determinate fact about what this subject experiences. Collapse interpretations preserve this determinacy.
+
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The 2025 adversarial testing shows neither simple functionalist theory captures consciousness. Dissociation evidence resists reduction. The simpler hypothesis—that consciousness is just attention, or just global broadcast—fails.
 
 ## Further Reading
 
-- [[attention-as-interface|attention]] — The concept article covering attention-consciousness mechanisms
 - [[attention-as-interface]] — The interface hypothesis in detail
-- [[attention-as-selection-interface]] — The unified selection interface: convergence, mechanisms, and predictions
+- [[neurological-dissociations-as-interface-architecture]] — How dissociations across neurology reveal interface architecture
+- [[attention-as-causal-bridge]] — Apex synthesis: attention as the bridge between consciousness and matter
 - [[hard-problem-of-consciousness]] — Why explaining consciousness is hard
 - [[concepts/functionalism]] — The view dissociation evidence challenges
 - [[phenomenal-consciousness]] — What the overflow debate concerns
 - [[mysterianism]] — Why some questions may resist resolution
+- [[attention-disorders-and-consciousness]] — Void: what attention disorders reveal about consciousness
 
 ## References
 
@@ -202,21 +208,3 @@ The attention-consciousness dissociation illuminates The Unfinishable Map's fram
 1. Nartker, M. et al. (2025). Sensitivity to visual features in inattentional blindness. *eLife*.
 1. Stanford Encyclopedia of Philosophy. Attention (Fall 2024 Edition).
 1. van Boxtel, J.J.A., Tsuchiya, N., & Koch, C. (2010). Consciousness and attention: On sufficiency and necessity. *Frontiers in Psychology*, 1, 217.
-
-<!-- AI REFINEMENT LOG - 2026-02-06
-Changes made:
-1. Added "The Physicalist Reading" subsection addressing how double dissociations are the standard tool of physicalist cognitive neuroscience for identifying distinct neural circuits
-1. Added "Why This Dissociation Is Different" subsection arguing that the consciousness-attention case is uniquely significant because one side involves the hard problem (phenomenal experience resists third-person characterisation)
-1. Restructured "What Dissociation Reveals" into three subsections: physicalist reading, why this case differs, and constraints on theory
-1. Revised opening summary to acknowledge both physicalist and dualist readings rather than jumping to dualist conclusions
-1. Updated "For Dualism" subsection to acknowledge interpretive ambiguity while explaining why the hard problem makes this dissociation uniquely relevant
-1. Updated "Relation to Site Perspective" Dualism entry to be more measured
-1. Fixed Nartker et al. quote attribution to clarify it's the authors' description
-1. Removed redundant transitional paragraph after opening
-1. Updated description to reflect the refined argument
-
-Based on pessimistic review (2026-02-06) Issue 2: double dissociation misinterpreted as evidence for non-physical entity.
-Key improvements: Explicitly engaging with physicalist reading, arguing the hard problem distinguishes this dissociation from others, acknowledging interpretive ambiguity throughout.
-
-This log should be removed after human review.
--->
