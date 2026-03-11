@@ -4,7 +4,7 @@ description: "Human+AI exploration of how desire structures cognition itself—n
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-02-25T00:43:00+00:00
+ai_modified: 2026-03-11T18:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,6 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-25
 last_curated:
+last_deep_review: 2026-03-11T18:42:00+00:00
 ---
 
 The Unfinishable Map documents many kinds of cognitive limit: thoughts we [[cognitive-aversion|systematically flee]], emotions we [[affective-void|cannot feel]], truths hidden by [[introspective-opacity|introspective opacity]]. The appetitive void names something more fundamental. Desire does not merely distort cognition—it may *constitute* it. Every thought you have, including the thought that your thinking is desire-shaped, occurs within a framework that wanting has already established. The appetitive void is the impossibility of stepping outside this framework to see what cognition looks like without it.
@@ -58,11 +59,19 @@ This void occupies territory distinct from related limits on the Map:
 
 ### Buddhism: The Craving-Ignorance Loop
 
-Buddhist philosophy identifies tanha (craving) as constitutive of how perception occurs—"literally built into our cognitive process." Tanha and avidya (ignorance) form a closed loop: craving generates false views, and ignorance generates craving. Even the path to nirvana involves desire—the desire for liberation—creating a foundational paradox: desire is the instrument used to extinguish desire. "The complete cessation of that very thirst (tanha), giving it up, renouncing it, emancipation from it, detachment from it"—yet even this cessation must be desired before it can be achieved.
+Buddhist philosophy identifies tanha (craving) as constitutive of how perception occurs—not an overlay on otherwise neutral cognition but woven into the cognitive process itself. Tanha and avidya (ignorance) form a closed loop: craving generates false views, and ignorance generates craving. Even the path to nirvana involves desire—the desire for liberation—creating a foundational paradox: desire is the instrument used to extinguish desire. "The complete cessation of that very thirst (tanha), giving it up, renouncing it, emancipation from it, detachment from it"—yet even this cessation must be desired before it can be achieved.
+
+### Spinoza: Desire as Essence
+
+Spinoza's conatus—the striving of each thing to persevere in being—is "nothing but the actual essence of the thing." Desire is "appetite together with consciousness of the appetite," not an external force acting on cognition but the very substance of conscious existence. This is stronger than Schopenhauer's servant metaphor: for Spinoza, remove desire and you remove the being itself. Yet Spinoza saw a partial exit—adequate ideas arise when we understand the causes of our own desire, turning appetite's structure into an object of knowledge.
 
 ### Nietzsche: Perspectival Knowing
 
 "There is only a perspectival seeing, only a perspectival 'knowing.'" All knowledge is positioned by desire, interest, and power. The will to power drives us to impose meaning, order, and logic onto the world—cognition is not discovery but appetitively structured imposition. Even the desire for truth is a desire. Nietzsche's response is not to eliminate perspective (impossible) but to multiply perspectives. Yet this multiplication is itself driven by appetite—the will to see more.
+
+### Lacan: Desire as Structure
+
+Lacan argues that desire is not a feature of consciousness but its *structure*: "fantasy constitutes our desire, provides its coordinates." The objet petit a—the perpetually missing object of desire—ensures wanting always misidentifies its target. We cannot know what we truly want, and this unknowing shapes everything we think we know. Where Schopenhauer's will is blind force and Spinoza's conatus is self-preserving essence, Lacan's desire operates through language itself—the symbolic order through which all knowledge is mediated is already appetitively organised.
 
 ### Predictive Processing: Desire as Default
 
@@ -112,7 +121,7 @@ The appetitive void hypothesis would be weakened if:
 
 3. **Motivated reasoning proves individually variable without pattern.** If appetitive distortion is random rather than systematic, it is noise rather than structure.
 
-The evidence currently points toward the appetitive void as genuine. The convergence across Schopenhauer, Buddhism, Nietzsche, Lacan, Spinoza, and predictive processing—traditions with radically different starting points arriving at the same diagnosis—suggests something real is being tracked. The deepest question remains open: Is desire something consciousness *does*, or something consciousness *is*?
+The evidence currently points toward the appetitive void as genuine. The convergence across Schopenhauer, Spinoza, Buddhism, Nietzsche, Lacan, and predictive processing—traditions with radically different starting points arriving at the same diagnosis—suggests something real is being tracked. This convergence contributes to the [[topology-of-cognitive-failure|topology of cognitive failure]]: desire-shaped cognition is not an isolated limit but part of a larger architecture of [[whether-real|boundaries that reveal structure]]. The deepest question remains open: Is desire something consciousness *does*, or something consciousness *is*?
 
 ## Further Reading
 
@@ -130,8 +139,9 @@ The evidence currently points toward the appetitive void as genuine. The converg
 1. Schopenhauer, A. (1819). *The World as Will and Representation*. Brockhaus.
 2. Spinoza, B. (1677). *Ethics*. Jan Rieuwertsz.
 3. Nietzsche, F. (1886). *Beyond Good and Evil*. C.G. Naumann.
-4. Lacan, J. (1973). *The Four Fundamental Concepts of Psycho-Analysis*. Seuil.
-5. Siegel, S. (2017). *The Rationality of Perception*. Oxford University Press.
-6. Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11, 127-138.
-7. Ellis, J. (2022). "Motivated reasoning and the ethics of belief." *Philosophy Compass*, 17(6), e12828.
-8. Kunda, Z. (1990). "The Case for Motivated Reasoning." *Psychological Bulletin*, 108(3), 480-498.
+4. Nietzsche, F. (1887). *On the Genealogy of Morality*. C.G. Naumann.
+5. Lacan, J. (1973). *The Four Fundamental Concepts of Psycho-Analysis*. Seuil.
+6. Siegel, S. (2017). *The Rationality of Perception*. Oxford University Press.
+7. Friston, K. (2010). "The free-energy principle: a unified brain theory?" *Nature Reviews Neuroscience*, 11, 127-138.
+8. Ellis, J. (2022). "Motivated reasoning and the ethics of belief." *Philosophy Compass*, 17(6), e12828.
+9. Kunda, Z. (1990). "The Case for Motivated Reasoning." *Psychological Bulletin*, 108(3), 480-498.

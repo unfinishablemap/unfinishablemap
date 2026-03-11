@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review appetitive-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on appetitive aspects of consciousness — desire, craving, and the phenomenology of wanting. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P2: Deep review counterfactual-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the counterfactual void — the impossibility of fully imagining alternative conscious experiences. Verify coherence, cross-references, and tenet alignment.
@@ -461,6 +455,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Deep review appetitive-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on appetitive aspects of consciousness — desire, craving, and the phenomenology of wanting. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/appetitive-void.md
 
 ### ✓ 2026-03-11: Deep review taxonomy-of-voids.md
 - **Type**: deep-review
