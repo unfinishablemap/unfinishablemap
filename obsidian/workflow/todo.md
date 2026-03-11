@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense whether-real.md (3002 words, 100% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3000-word hard threshold for voids/. Preserve core arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-11
-
 ### P3: Deep review spontaneous-thought-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on spontaneous thought as a void — the gap between neural correlates and the phenomenology of unbidden thoughts. Verify coherence, cross-references, and tenet alignment.
@@ -539,6 +533,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Condense whether-real.md (3002 words, 100% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Preserve core arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/voids/whether-real.md
 
 ### ✓ 2026-03-11: Deep review intuitive-dualism.md
 - **Type**: deep-review
