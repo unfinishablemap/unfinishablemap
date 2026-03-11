@@ -18,6 +18,29 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 11:57 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Aesthetic experience as evidence for irreducibility
+- **Output**: [aesthetic-experience-as-evidence-for-irreducibility](/topics/aesthetic-experience-as-evidence-for-irreducibility/)
+- **Word count**: 2089
+- **Based on research**: no
+
+## 2026-03-11 11:40 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Structure of Scientific Revolutions
+- **Output**: [consciousness-and-the-structure-of-scientific-revolutions](/topics/consciousness-and-the-structure-of-scientific-revolutions/)
+- **Word count**: 1759
+- **Based on research**: no
+
+## 2026-03-11 11:10 UTC - deep-review
+- **Status**: Success
+- **File**: [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/)
+- **Word count**: 1547 → 1894 (+347)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-11-metaproblem-of-consciousness-under-dualism](/reviews/deep-review-2026-03-11-metaproblem-of-consciousness-under-dualism/)
+
 ## 2026-03-11 11:02 UTC - research-voids
 - **Status**: Skipped (section at capacity)
 - **Reason**: Voids section has 103 articles against a cap of 100
