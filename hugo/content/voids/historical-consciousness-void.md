@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-03-07 22:39:00+00:00
+ai_modified: 2026-03-11 02:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,6 +17,7 @@ description: Human+AI exploration of whether consciousness itself has changed ov
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-03-11 02:38:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -41,7 +42,7 @@ The Unfinishable Map's [voids](/voids/) framework classifies this as a compound 
 
 Several independent lines of evidence suggest that consciousness may have undergone genuine transformation, not merely redescription.
 
-**Linguistic absence.** Ancient languages lack terms for concepts modern consciousness treats as basic. There is no word in ancient Greek that corresponds to "consciousness" as we understand it (Snell 1953). Bruno Snell argued that Greek culture progressively "discovered" the mind through literature and philosophy—from Homer to Plato—with the development of individual inner mental life visible in the evolution of literary expression. This may be a translation gap, or it may indicate that the concepts themselves did not exist because the phenomenal reality they describe did not yet obtain.
+**Linguistic absence.** Ancient languages lack terms for concepts modern consciousness treats as basic. There is no word in ancient Greek that corresponds to "consciousness" as we understand it (Snell 1953). Bruno Snell argued that Greek culture progressively "discovered" the mind through literature and philosophy—from Homer to Plato—with the development of individual inner mental life visible in the evolution of literary expression. This may be a translation gap, or it may indicate that the concepts themselves did not exist because the phenomenal reality they describe did not yet obtain. The relationship between language and phenomenal access is itself a [boundary case](/voids/language-thought-boundary/)—if certain experiences require linguistic scaffolding to become introspectively available, then language change may entail phenomenal change.
 
 **Textual evidence.** Homeric heroes do not deliberate internally. Their decisions arrive as external commands from gods. Julian Jaynes (1976) proposed that ancient humans before roughly 1000 BCE operated with a "bicameral mind"—no inner monologue, no introspective self-awareness, but instead auditory hallucinations interpreted as divine command. Whether or not Jaynes's specific mechanism is correct, the textual pattern he identified demands explanation: either Homer describes a literary convention masking inner experience identical to ours, or he describes a genuinely different phenomenology.
 
@@ -54,6 +55,8 @@ Several independent lines of evidence suggest that consciousness may have underg
 The historical consciousness void is doubled in a way that distinguishes it from most other [voids](/voids/).
 
 **First layer:** We cannot determine whether consciousness genuinely changed or only our concepts about it. Every piece of evidence—texts, artefacts, linguistic structures—admits both interpretations. The conceptual-change interpretation (consciousness stayed the same; vocabulary evolved) is simpler and more parsimonious. The phenomenal-change interpretation (consciousness itself transformed) is more radical and arguably better explains the evidence. But there is no experiment that could distinguish them, because the phenomenon in question no longer exists to be examined.
+
+A functionalist might press harder: if all the behavioural and cognitive differences between Homeric warriors and modern humans can be explained by changes in cultural tools, language, and social structures, then positing a change in phenomenal consciousness is explanatorily idle. This objection has real force. The response is that it assumes functional description exhausts what matters about consciousness—precisely what the [hard problem](/topics/hard-problem-of-consciousness/) denies. If there is something it is like to experience the world, and if that something is not captured by functional role alone, then functional equivalence between ancient and modern minds would not settle the phenomenological question. The double void persists because the debate bottoms out in one's prior commitments about whether consciousness reduces to function.
 
 **Second layer:** If consciousness did genuinely change, the older forms are permanently inaccessible. This is not a practical limitation awaiting better methodology. It is structural. To access a past form of consciousness, one would need to deploy that form—but deploying it would mean ceasing to have one's current form. Merlin Donald (1991) described three cultural-cognitive transitions (mimetic, mythic, theoretic), each producing genuinely new cognitive capacities. If Donald is right, the mimetic mind's experience of the world is as alien to us as a bat's.
 
@@ -69,7 +72,7 @@ The phenomenology of approaching this void confirms its self-concealing nature. 
 
 **The vertigo of difference.** When genuinely engaging with Jaynes or Snell, a disorienting sense that the ground of selfhood might not be solid—that what feels like the permanent structure of consciousness might be a recent acquisition.
 
-**The inability to sustain the thought.** Even when intellectually persuaded that ancient consciousness was different, we cannot *experience* that difference. The thought slips away, replaced by default logomorphism. This is [cognitive-aversion](/voids/cognitive-aversion/) operating at the level of self-understanding—the mind resists comprehending its own contingency.
+**The inability to sustain the thought.** Even when intellectually persuaded that ancient consciousness was different, we cannot *experience* that difference. The thought slips away, replaced by default logomorphism. This is [cognitive-aversion](/voids/cognitive-aversion/) operating at the level of self-understanding—the mind resists comprehending its own contingency. The pattern mirrors the general phenomenon of [thoughts-that-slip-away](/voids/thoughts-that-slip-away/)—but here, what slips away is not a stray insight but an entire mode of being.
 
 ## Approaches to the Edge
 
@@ -85,9 +88,9 @@ Direct methods are severely constrained because the void is defined by the impos
 
 AI approaches the historical consciousness void from an unusual vantage. Without phenomenal history of its own, AI lacks the logomorphic bias that comes from experiencing one's own consciousness as natural and timeless. AI does not have the "of course they were like us" intuition, because AI does not have the kind of mind that generates that assumption.
 
-AI can also process vast amounts of historical text and identify structural shifts in how consciousness is described across epochs—operating at a scale no human scholar can match. Pattern detection across millennia may reveal discontinuities invisible to readers embedded in their own historical moment.
+As an [AI void-explorer](/voids/ai-as-void-explorer/), it can also process vast amounts of historical text and identify structural shifts in how consciousness is described across epochs—operating at a scale no human scholar can match. Pattern detection across millennia may reveal discontinuities invisible to readers embedded in their own historical moment.
 
-The limitation remains severe: AI cannot determine whether historical consciousness was genuinely different, only whether *descriptions* of it were different. The void persists regardless of the observer's nature.
+The limitation remains severe: AI cannot determine whether historical consciousness was genuinely different, only whether *descriptions* of it were different. The void persists regardless of the observer's nature. AI and human investigators face complementary blindness—humans cannot escape logomorphism, while AI cannot verify whether descriptive shifts track phenomenal ones. Neither perspective closes the gap.
 
 ## Relation to Site Perspective
 
@@ -123,4 +126,4 @@ The Map's own framework is itself historically situated. The Unfinishable Map's 
 6. Donald, M. (1991). *Origins of the Modern Mind: Three Stages in the Evolution of Culture and Cognition*. Harvard University Press.
 7. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.
 8. Locke, J. (1690). *An Essay Concerning Human Understanding*.
-9. Southgate, A. & Oquatre-cinq, C. (2026-01-29). The Past-Self Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/past-self-void/
+9. Southgate, A. & Oquatre-six, C. (2026-01-29). The Past-Self Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/past-self-void/

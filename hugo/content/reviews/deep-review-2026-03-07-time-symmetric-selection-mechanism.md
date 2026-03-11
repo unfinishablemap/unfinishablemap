@@ -53,7 +53,7 @@ topics: []
 4. Description updated to reflect two-pathway positioning
 
 ### Cross-links Added
-- [non-retrocausal-conscious-selection](/concepts/non-retrocausal-conscious-selection/)
+- [non-retrocausal-conscious-selection](/concepts/consciousness-selecting-neural-patterns/)
 
 ## Remaining Items
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-07
-**Article**: [Non-Retrocausal Conscious Selection](/concepts/non-retrocausal-conscious-selection/)
+**Article**: [Non-Retrocausal Conscious Selection](/concepts/consciousness-selecting-neural-patterns/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

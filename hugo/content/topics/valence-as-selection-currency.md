@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-11 00:38:00+00:00
+ai_modified: 2026-03-11 03:08:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,6 +21,7 @@ description: How felt goodness and badness may function as the common metric by 
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-03-11 03:08:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,9 +41,9 @@ This proposal develops the value-sensitive horn of the [value-blind vs value-sen
 
 ## What "Currency" Means
 
-A currency is a common measure that enables comparison between otherwise incommensurable goods. Money converts the value of bread, labour, and land into a single dimension. Cleeremans and Tallon-Baudry (2022) apply this metaphor to consciousness: valence functions as a "mental currency" enabling comparison between disparate experiences—the warmth of sunlight against the satisfaction of solving a problem, the sting of rejection against the ache of a toothache.
+A currency is a common measure that enables comparison between otherwise incommensurable goods. Money converts the value of bread, labour, and land into a single dimension. Cleeremans and Tallon-Baudry (2022) suggest that phenomenal experience might act as "a mental currency of sorts," enabling conscious agents to compare vastly different experiences in a common subject-centred space—the warmth of sunlight against the satisfaction of solving a problem, the sting of rejection against the ache of a toothache.
 
-The selection currency thesis takes this metaphor literally. If [selection-laws](/concepts/selection-laws/) require consciousness to evaluate competing neural patterns and actualise one, the evaluation needs a common dimension. Individual experiences differ in every qualitative respect—colour, sound, texture, emotion—but they share the valence dimension. Every conscious state carries some degree of felt goodness or badness. This universal dimension is what makes selection *commensurable*: consciousness can compare outcomes that differ in kind because they share a metric that differs only in degree.
+The selection currency thesis takes this metaphor literally. If [selection-laws](/concepts/selection-laws/) require consciousness to evaluate competing neural patterns and actualise one, the evaluation needs a common dimension. Individual experiences differ in every qualitative respect—colour, sound, texture, emotion—but they share the valence dimension. As Carruthers (2018) argues, valence is not a mere accompaniment to experience but constitutive of its evaluative character. Every conscious state carries some degree of felt goodness or badness. This universal dimension is what makes selection *commensurable*: consciousness can compare outcomes that differ in kind because they share a metric that differs only in degree.
 
 Without a common currency, selection among qualitatively different outcomes would be impossible. How does consciousness choose between attending to a visual pattern and a motor plan? Not by comparing colours with movements—these are incommensurable. But if each anticipated outcome carries a valence signature—a felt sense of how it would be to actualise that pattern—then comparison becomes possible. The brain presents options; valence denominates them; consciousness selects.
 
@@ -50,7 +51,7 @@ Without a common currency, selection among qualitatively different outcomes woul
 
 Selection requires evaluation *before* the outcome is actualised. Consciousness cannot select the better option by experiencing the result of each and then choosing—that would require multiple actualisations. It must evaluate anticipated outcomes. This implies an anticipatory valence mechanism: consciousness assesses the predicted felt quality of each competing neural pattern and selects accordingly.
 
-The brain already runs such anticipatory models. Anticipatory pleasure (wanting) and anticipatory dread (anxiety) are everyday phenomenology. Dopaminergic prediction error signals in the reward system track expected valence and update predictions based on outcomes. These neural mechanisms provide the physical substrate for anticipatory valence—the brain generates predictions of how outcomes would feel, and consciousness uses these predictions as the basis for selection.
+The brain already runs such anticipatory models. Anticipatory pleasure (wanting) and anticipatory dread (anxiety) are everyday phenomenology. Panksepp's (1998) work on basic emotional systems shows that affective anticipation is deeply conserved across mammals. Dopaminergic prediction error signals in the reward system track expected valence and update predictions based on outcomes. These neural mechanisms provide the physical substrate for anticipatory valence—the brain generates predictions of how outcomes would feel, and consciousness uses these predictions as the basis for selection.
 
 A formal sketch of the selection law would be:
 
@@ -76,6 +77,8 @@ Valence provides that grounding. Consciousness attends to pattern A because the 
 
 Pain asymbolia illustrates the point. Patients with intact attentional mechanisms but absent felt badness do not avoid painful stimuli with normal urgency. The attention channel works—they can direct observation toward the pain. What is missing is the valence signal that would make avoidance the preferred outcome. The selection mechanism has lost its currency.
 
+A functionalist might object that pain asymbolia shows the opposite: that phenomenal quality and functional role dissociate, suggesting the functional avoidance system—not felt badness—does the causal work. But the dissociation runs in the wrong direction for this objection. The functional system (nociceptive processing, withdrawal reflexes) remains intact in these patients; what is lost is the *motivational urgency* that makes avoidance a priority over competing goals. The felt badness is precisely what converts a registered signal into a selected response—the currency that denominates the signal's importance relative to everything else competing for action.
+
 ## From Currency to Teleology
 
 If valence functions as the selection currency, the Map's physics becomes locally teleological within conscious brains. Outcomes are selected *because of how they would feel*—because anticipated experience evaluates them as good or bad. This is teleology in a precise sense: explanation by what something is *for* rather than by what caused it.
@@ -98,7 +101,7 @@ This integrates valence into the existing Stapp mechanism rather than requiring 
 
 **Valence as independent selection variable.** Alternatively, valence might enter the selection law as a distinct variable alongside attention. In this case, consciousness acts through two channels: attention determines *which* neural subsystems are observed, and valence determines *which outcomes are favoured* within those subsystems. This is a stronger claim, implying that the physics of collapse in conscious brains is sensitive to two mental variables rather than one. It is also harder to integrate with existing quantum models, which provide no obvious mechanism for a second mental parameter.
 
-The modulation strategy is more conservative and more readily testable. If valence modulates observation rate, then outcomes with higher anticipated valence should show greater pattern stability—measurable through neural coherence and persistence. The independent-variable strategy makes bolder predictions but lacks a physical implementation.
+The modulation strategy is more conservative and more readily testable. If valence modulates observation rate, then outcomes with higher anticipated valence should show greater pattern stability—measurable through neural coherence and persistence. This prediction is necessary but not sufficient: standard reward-based models also predict that valued outcomes stabilise neural patterns, so pattern stability alone would not discriminate between dualist and materialist accounts. Discriminating evidence would require cases where valence-based selection diverges from what reward prediction error alone would predict—perhaps in novel situations where no learned reward signal exists but felt valence still guides choice. The independent-variable strategy makes bolder predictions but lacks a physical implementation.
 
 ## Evolutionary Considerations
 

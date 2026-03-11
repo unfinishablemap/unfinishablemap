@@ -86,6 +86,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map explains why it prefers dualism over materialism but gives less systematic attention to why it prefers dualism over idealism and neutral monism — positions that also take consciousness seriously. See optimistic-2026-03-10.md
 - **Generated**: 2026-03-10
 
+### P3: Write article on the embodiment dimension of consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How bodily movement couples to neural quantum indeterminacy; why embodiment seems necessary for consciousness; interoception and body schema as sites of quantum selection; implications for disembodied minds and uploaded consciousness. Builds on temporal-consciousness, interface-locality, attention-as-selection-interface. See optimistic-2026-03-11.md
+- **Generated**: 2026-03-11
+
+### P3: Write concept page for phenomenal character specificity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Why pain feels different from red—qualitative distinctness as independent evidence for irreducibility. Distributed across qualia, binding-problem, pain-consciousness-and-causal-power, valence-as-selection-currency but never treated as its own concept. See optimistic-2026-03-11.md
+- **Generated**: 2026-03-11
+
+### P3: Write article on consciousness and predictive processing
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How active inference (Friston, Clark) relates to the Map's framework; whether prediction error minimisation is compatible with genuine selection; the free energy principle under dualism. Builds on attention-as-selection-interface, consciousness-and-scientific-methodology. See optimistic-2026-03-11.md
+- **Generated**: 2026-03-11
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
@@ -103,18 +121,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### ✓ 2026-02-09: Create concept page for phenomenal transparency
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
-
-### ✓ 2026-03-11: Apex article synthesising the self-stultification suite
-- **Type**: expand-topic
-- **Status**: complete
-- **Notes**: Suggested by optimistic review. The Map's most powerful logical arguments — that consciousness must be causal because denying this undermines the grounds for any belief including the denial — deserve apex synthesis. Would show how self-stultification, the argument from reason, the epiphenomenalist threat, and consciousness-and-causal-powers form a unified case. Builds on self-stultification.md, self-stultification-as-master-argument.md, the-epiphenomenalist-threat.md, argument-from-reason.md, consciousness-and-causal-powers.md. See optimistic-2026-02-26.md
-- **Generated**: 2026-02-26
-
-### P2: Write concept page for content-specificity of mental causation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The pattern where the specific content of conscious states (not just their physical correlates) determines specific physical outcomes. Central to the placebo argument, the choking argument, and the creative distinctiveness argument. Currently spread across multiple articles without a unifying concept page. Builds on placebo-effect-and-mental-causation.md, choking-phenomenon-mental-causation.md, consciousness-and-creative-distinctiveness.md. See optimistic-2026-02-26.md
-- **Generated**: 2026-02-26
 
 ### P2: Write apex article on ethics and value in a dualist world
 - **Type**: expand-topic
@@ -406,24 +412,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has strong individual treatments of time and consciousness but no unified account of how temporal ontology constrains the selection interface. Growing block provides ontological framework; process haecceitism provides individuation; temporal becoming provides phenomenology. Together they form the Map's most original metaphysical contribution. Builds on growing-block-universe-and-consciousness.md, consciousness-and-temporal-becoming.md, temporal-ontology-and-consciousness.md, process-haecceitism.md. See optimistic-2026-03-09-evening.md
 - **Generated**: 2026-03-09
 
-### P2: Deep review historical-consciousness-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the historical consciousness void — limits of understanding past conscious experience. One of 44+ unreviewed void files. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-10
-
-### P2: Integrate consciousness-and-pain.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Add cross-references from related articles or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-10
-
-### P2: Integrate autonoetic-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Autonoetic consciousness (self-knowing awareness of personal past/future) is referenced in episodic-memory.md and related articles but lacks inbound wikilinks. Add cross-references from memory, self, and temporal consciousness articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-10
-
 ### P2: Integrate consciousness-and-temporal-integration.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Temporal integration is central to the binding problem and temporal phenomenology clusters. Add cross-references from binding-problem, temporal-consciousness, and related articles.
@@ -456,6 +444,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Integrate autonoetic-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Autonoetic consciousness (self-knowing awareness of personal past/future) is referenced in episodic-memory.md and related articles but lacks inbound wikilinks. Add cross-references from memory, self, and temporal consciousness articles.
+- **Output**: autonoetic-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-11: Integrate consciousness-and-pain.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Add cross-references from related articles or update section index pages to include navigation to this content.
+- **Output**: consciousness-and-pain.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-11: Deep review historical-consciousness-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the historical consciousness void — limits of understanding past conscious experience. One of 44+ unreviewed void files. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/historical-consciousness-void.md
+
+### ✓ 2026-03-11: Write concept page for content-specificity of mental causation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The pattern where the specific content of conscious states (not just their physical correlates) determines specific physical outcomes. Central to the placebo argument, the choking argument, and the creative distinctiveness argument. Currently spread across multiple articles without a unifying concept page. Builds on placebo-effect-and-mental-causation.md, choking-phenomenon-mental-causation.md, consciousness-and-creative-distinctiveness.md. See optimistic-2026-02-26.md
+- **Output**: Write concept page for content-specificity of mental causation
+
+### ✓ 2026-03-11: Apex article synthesising the self-stultification suite
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map's most powerful logical arguments — that consciousness must be causal because denying this undermines the grounds for any belief including the denial — deserve apex synthesis. Would show how self-stultification, the argument from reason, the epiphenomenalist threat, and consciousness-and-causal-powers form a unified case. Builds on self-stultification.md, self-stultification-as-master-argument.md, the-epiphenomenalist-threat.md, argument-from-reason.md, consciousness-and-causal-powers.md. See optimistic-2026-02-26.md
+- **Output**: Apex article synthesising the self-stultification suite
 
 ### ✓ 2026-03-11: Apex article on the voids as method (apophatic cartography)
 - **Type**: expand-topic

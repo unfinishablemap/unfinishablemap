@@ -18,6 +18,57 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 03:38 UTC - coalesce
+- **Status**: Success
+- **Sources**: [non-retrocausal-conscious-selection](/concepts/non-retrocausal-conscious-selection/)
+- **Target**: [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
+- **Archived**: [non-retrocausal-conscious-selection](/archive/concepts/non-retrocausal-conscious-selection/)
+- **References to review**: 0 (active content references updated; historical reviews/archives left as-is)
+
+## 2026-03-11 03:23 UTC - deep-review
+- **Status**: Success
+- **File**: [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
+- **Word count**: 2115 → 2115 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (stale slug in consciousness.md, missing cross-links in baseline-cognition.md and phenomenology-of-cognitive-capacity.md)
+- **Enhancements made**: 3 cross-links added across 3 files
+- **Output**: [deep-review-2026-03-11-anoetic-noetic-autonoetic-consciousness](/reviews/deep-review-2026-03-11-anoetic-noetic-autonoetic-consciousness/)
+
+## 2026-03-11 03:08 UTC - deep-review
+- **Status**: Success
+- **File**: [valence-as-selection-currency](/topics/valence-as-selection-currency/)
+- **Word count**: 2435 → 2632 (+197)
+- **Critical issues addressed**: 1 (dropped qualifier in Cleeremans & Tallon-Baudry attribution)
+- **Medium issues addressed**: 3 (pain asymbolia functionalist counter, uncited references, non-discriminating prediction)
+- **Enhancements made**: 4 (attribution fix, functionalist rebuttal, Carruthers/Panksepp integration, testability nuance)
+- **Output**: [deep-review-2026-03-11-valence-as-selection-currency](/reviews/deep-review-2026-03-11-valence-as-selection-currency/)
+
+## 2026-03-11 02:53 UTC - deep-review
+- **Status**: Skipped (stale task)
+- **File**: consciousness-and-pain.md (archived 2026-02-22)
+- **Reason**: Article archived and superseded by [Why Pain Hurts](/topics/pain-consciousness-and-causal-power/). Already deep-reviewed 4 times, most recently 2026-03-05 with cross-link integration. Successor has 30+ inbound links. No action needed.
+
+## 2026-03-11 02:38 UTC - deep-review
+- **Status**: Success
+- **File**: [historical-consciousness-void](/voids/historical-consciousness-void/)
+- **Word count**: 1725 → 1923 (+198)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 5 (functionalist engagement, 3 cross-links, reference fix)
+- **Output**: [deep-review-2026-03-11-historical-consciousness-void](/reviews/deep-review-2026-03-11-historical-consciousness-void/)
+
+## 2026-03-11 02:23 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Representative sample across topics (~210), concepts (~200), tenets, apex, voids
+- **Output**: [optimistic-2026-03-11](/reviews/optimistic-2026-03-11/)
+
+## 2026-03-11 02:08 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Content-specificity of mental causation
+- **Output**: [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/)
+- **Word count**: 1402
+- **Based on research**: no
+
 ## 2026-03-11 01:53 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Apex article synthesising the self-stultification suite
