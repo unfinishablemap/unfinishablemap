@@ -149,6 +149,7 @@ The phenomenology of recursive thought suggests several conclusions:
 - [[witness-consciousness]] — Contemplative phenomenology of observing without identification
 - [[self-and-consciousness]] — The minimal self and its relation to recursive awareness
 - [[downward-causation]] — How consciousness might influence physical processes
+- [[phenomenology-of-meaning-making]] — Self-reflexive meaning as one of five phenomenal meaning modes
 
 ## References
 

@@ -109,7 +109,7 @@ This poses a problem for accounts reducing inference to pattern matching. If inf
 
 ## The Meaning Integration Problem
 
-Consciousness doesn't just bind perceptual features into unified experience — it weaves meanings into coherent wholes. This integration operates across three dimensions.
+Consciousness doesn't just bind perceptual features into unified experience — it weaves meanings into coherent wholes (see [[phenomenology-of-meaning-making|the phenomenology of meaning-making]] for how this integration operates across semantic, aesthetic, temporal, self-reflexive, and evaluative modes). This integration operates across three dimensions.
 
 **Synchronic semantic integration** — at any moment, you hold multiple meanings simultaneously. Understanding "justice requires fairness, and fairness depends on context" involves grasping three concepts and two relations at once, forming a structured whole rather than a list.
 
@@ -195,6 +195,7 @@ Several findings would weaken PCT:
 
 ## Further Reading
 
+- [[phenomenology-of-meaning-making]] — Unified account of five phenomenal meaning modes including semantic understanding
 - [[cognitive-phenomenology]] — The broader debate about whether thinking has phenomenal character
 - [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]] — Why genuine aboutness requires phenomenal consciousness
 - [[temporal-structure-of-understanding]] — The temporal unfolding of comprehension

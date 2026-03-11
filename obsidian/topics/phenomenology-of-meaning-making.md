@@ -4,8 +4,8 @@ description: "Consciousness doesn't just process information—it generates mean
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T04:23:00+00:00
-last_deep_review: 2026-03-11T04:23:00+00:00
+ai_modified: 2026-03-11T21:20:00+00:00
+last_deep_review: 2026-03-11T21:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,6 @@ concepts:
   - "[[temporal-consciousness]]"
   - "[[qualia]]"
   - "[[phenomenology]]"
-  - "[[cognitive-phenomenology]]"
   - "[[temporal-structure-of-understanding]]"
   - "[[concept-of-phenomenal-value-realism]]"
   - "[[metacognition]]"

@@ -159,6 +159,7 @@ Current evidence does not support any of these conditions.
 - [[agent-causation]] — Philosophical framework for mental causation including creative generation
 - [[creativity-void]] — Why the creative source remains phenomenologically hidden
 - [[aesthetic-dimension-of-consciousness]] — Beauty as irreducible phenomenal property
+- [[phenomenology-of-meaning-making]] — Five modes of phenomenal meaning underlying creative selection
 - [[consciousness-and-aesthetic-creation]] — Making art as evidence for bidirectional interaction
 - [[phenomenology-of-imagination]] — Phenomenal imagination and creative exploration
 - [[incubation-effect-and-unconscious-processing]] — The role of unconscious incubation in creativity

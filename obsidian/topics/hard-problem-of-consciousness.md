@@ -134,7 +134,7 @@ See [[temporal-consciousness]] for detailed analysis and [[collapse-and-time]] f
 
 ## The Cognitive Dimension
 
-The hard problem extends beyond sensory qualia into cognition. Even "cold" knowledge retrieval has phenomenal character: the tip-of-the-tongue state has its own distinctive feel, as does the *aha* of understanding. If [[cognitive-phenomenology]] is real—if thinking itself feels like something—then the explanatory gap pervades mentality.
+The hard problem extends beyond sensory qualia into cognition. Even "cold" knowledge retrieval has phenomenal character: the tip-of-the-tongue state has its own distinctive feel, as does the *aha* of understanding. If [[cognitive-phenomenology]] is real—if thinking itself feels like something—then the explanatory gap pervades mentality. The [[phenomenology-of-meaning-making|phenomenology of meaning-making]] traces this across five independent modes—semantic, aesthetic, temporal, self-reflexive, evaluative—each demonstrating that meaning is phenomenally constituted.
 
 [[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]]—the felt sense of mentally re-experiencing past events—sharpens the point. The same biographical fact can be accompanied by vivid temporal re-experiencing or bare factual recognition. No account of representational format or retrieval mechanism explains why one mode feels like something and the other merely registers. See [[anoetic-noetic-autonoetic-consciousness]] for the constitutive-contingent debate and its implications.
 
