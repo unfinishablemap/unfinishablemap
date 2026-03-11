@@ -168,7 +168,7 @@ The model generates falsifiable predictions:
 
 ## Further Reading
 
-- [quantum-consciousness-programme](/apex/quantum-consciousness-programme/) — Apex synthesis placing Stapp's model within the full research programme
+- [quantum-consciousness-programme](/quantum-consciousness-programme/) — Apex synthesis placing Stapp's model within the full research programme
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — Comparative analysis; Stapp's model as most developed
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control: taxonomy of coupling mechanisms
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer; neural signatures of willed attention

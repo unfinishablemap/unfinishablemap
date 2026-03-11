@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 14:21 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of Perceptual Learning
+- **Output**: [[topics/phenomenology-of-perceptual-learning]]
+- **Word count**: 1649
+- **Based on research**: no (drew on existing expertise void research notes)
+
 ## 2026-03-11 14:17 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/philosophy-of-emotion-under-dualism]]

@@ -126,12 +126,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Write article on phenomenology of perceptual learning
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Expert perceivers (radiologists, sommeliers, musicians) develop qualitatively different conscious experiences through training. Perceptual learning demonstrates consciousness shaping its own future content—a form of bidirectional interaction accessible to empirical study. Builds on phenomenology-of-perceptual-constancy.md, perception-and-conscious-experience.md, philosophy-of-perception-under-dualism.md. See [[reviews/optimistic-2026-03-01]].
-- **Generated**: 2026-03-01
-
 ### P2: Write article on death phenomenology beyond NDEs
 - **Type**: expand-topic
 - **Status**: pending
@@ -371,6 +365,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Write article on phenomenology of perceptual learning
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Expert perceivers (radiologists, sommeliers, musicians) develop qualitatively different conscious experiences through training. Perceptual learning demonstrates consciousness shaping its own future content—a form of bidirectional interaction accessible to empirical study. Builds on phenomenology-of-perceptual-constancy.md, perception-and-conscious-experience.md, philosophy-of-perception-under-dualism.md. See [[reviews/optimistic-2026-03-01]].
+- **Output**: phenomenology of perceptual learning
 
 ### ✓ 2026-03-11: Address gaps in philosophy-of-emotion-under-dualism
 - **Type**: refine-draft

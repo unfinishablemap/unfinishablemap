@@ -48,7 +48,7 @@ topics:
 
 Several scientific proposals explain how consciousness might interact with physics at the quantum level—not "quantum mysticism" but rigorous theories proposing mechanisms by which consciousness could influence brain activity without violating physical law.
 
-The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet aligns with these approaches: consciousness operates at quantum indeterminacies, biasing undetermined outcomes without injecting energy. For how these mechanisms fit into the Map's broader research programme — from philosophical motivation through candidate mechanisms to empirical evidence — see [The Quantum Consciousness Programme](/apex/quantum-consciousness-programme/).
+The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet aligns with these approaches: consciousness operates at quantum indeterminacies, biasing undetermined outcomes without injecting energy. For how these mechanisms fit into the Map's broader research programme — from philosophical motivation through candidate mechanisms to empirical evidence — see [The Quantum Consciousness Programme](/quantum-consciousness-programme/).
 
 ## The Quantum Opening
 
@@ -190,7 +190,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 ## Further Reading
 
 **Synthesis:**
-- [quantum-consciousness-programme](/apex/quantum-consciousness-programme/) — Apex article tracing the full research programme from tenets through mechanisms to evidence
+- [quantum-consciousness-programme](/quantum-consciousness-programme/) — Apex article tracing the full research programme from tenets through mechanisms to evidence
 
 **Mechanisms and timing:**
 - [attention-interface-mechanisms](/topics/attention-as-selection-interface/) — Candidate neural sites, timing constraints, and testable predictions

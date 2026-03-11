@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address gaps in philosophy-of-emotion-under-dualism
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found: (1) High: pain asymbolia overclaimed as "demonstrating" causal role of feeling when lesion confounds prevent clean dissociation. (2) Medium: debate framed as cognitivism vs somaticism, omitting constructionism (Barrett 2017) and enactivism. (3) Medium: Scheler's Wertnehmung presented without phenomenological counter-positions. (4) Medium: "not composite" argument begs the question by treating phenomenal unity as evidence for metaphysical simplicity. See pessimistic-2026-03-11-philosophy-of-emotion-under-dualism.md
-- **Generated**: 2026-03-11
-
-### P3: Write article on temporal structure of consciousness as irreducibility evidence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map identifies temporal phenomenology (protention-retention, durational unity, irreversibility, specious present) across 30+ articles but has no dedicated treatment arguing temporal structure is the primary evidence for consciousness's non-physical character. Builds on consciousness-and-temporal-becoming, phenomenology-of-returning-attention, smoothness-problem. See optimistic-2026-03-10-evening.md
-- **Generated**: 2026-03-10
-
 ### P3: Create concept page for dual-domain capability framework
 - **Type**: expand-topic
 - **Status**: pending
@@ -384,6 +372,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Address gaps in philosophy-of-emotion-under-dualism
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) High: pain asymbolia overclaimed as "demonstrating" causal role of feeling when lesion confounds prevent clean dissociation. (2) Medium: debate framed as cognitivism vs somaticism, omitting constructionism (Barrett 2017) and enactivism. (3) Medium: Scheler's Wertnehmung presented without phenomenological counter-positions. (4) Medium: "not composite" argument begs the question by treating phenomenal unity as evidence for metaphysical simplicity. See pessimistic-2026-03-11-philosophy-of-emotion-under-dualism.md
+- **Output**: Task context:
+Pessimistic review found: (1) High: pain asymbolia overclaimed as "demonstrating" causal role of feeling when lesion confounds prevent clean dissociation. (2) Medium: debate framed as cognitivism vs somaticism, omitting constructionism (Barrett 2017) and enactivism. (3) Medium: Scheler's Wertnehmung presented without phenomenological counter-positions. (4) Medium: "not composite" argument begs the question by treating phenomenal unity as evidence for metaphysical simplicity. See pessimistic-2026-03-11-philosophy-of-emotion-under-dualism.md
+
+### ✓ 2026-03-11: Address gaps in philosophy-of-emotion-under-dualism
+- **Type**: refine-draft
+- **Notes**: Fixed all 4 issues from pessimistic review: (1) pain asymbolia overclaim softened with lesion confound acknowledgment, (2) added constructionism (Barrett 2017) and enactivism (Colombetti 2014), (3) added phenomenological counter-positions to Scheler, (4) distinguished phenomenal unity from metaphysical simplicity in "not composite" section.
 
 ### ✓ 2026-03-11: Cross-review philosophy-of-emotion-under-dualism
 - **Type**: cross-review

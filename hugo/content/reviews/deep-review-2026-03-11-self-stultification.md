@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-11
 **Article**: [The Self-Stultification Argument](/concepts/self-stultification/)
 **Previous review**: [2026-02-02](/reviews/deep-review-2026-02-02-self-stultification/)
-**Context**: Cross-review of self-stultification cluster considering new apex synthesis ([self-stultification-suite](/apex/self-stultification-suite/))
+**Context**: Cross-review of self-stultification cluster considering new apex synthesis (self-stultification-suite)
 
 ## Pessimistic Analysis Summary
 
@@ -71,7 +71,7 @@ All attributions verified:
 - Updated frontmatter concepts and related_articles
 
 ### Cross-links Added
-- [self-stultification-suite](/apex/self-stultification-suite/) — apex synthesis (opening paragraph, new section, Further Reading, frontmatter)
+- self-stultification-suite — apex synthesis (opening paragraph, new section, Further Reading, frontmatter)
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — master argument (new section, Further Reading, frontmatter)
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — why escaping matters (new section, Further Reading, frontmatter)
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — positive case (new section, Further Reading, frontmatter)
