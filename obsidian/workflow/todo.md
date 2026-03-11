@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review taxonomy-of-voids.md
-- **Type**: deep-review
-- **Notes**: AI-generated apex article (ai_contribution: 100) created 2026-03-10, never reviewed. Meta-level synthesis of the voids programme methodology — quality assurance especially important for apex articles. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P3: Deep review dissolution-problem.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-25, never reviewed. Voids article on the dissolution problem — whether voids dissolve under sufficient analysis. Core methodological question for the voids programme. Verify coherence, cross-references, and tenet alignment.
@@ -431,6 +425,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Deep review taxonomy-of-voids.md
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) created 2026-03-10, never reviewed. Meta-level synthesis of the voids programme methodology — quality assurance especially important for apex articles. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/apex/taxonomy-of-voids.md
 
 ### ✓ 2026-03-11: Deep review presentiment-and-retrocausality.md
 - **Type**: deep-review

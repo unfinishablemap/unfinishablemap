@@ -3,8 +3,10 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-03-10
 human_modified: null
-ai_modified: 2026-03-10T14:08:00+00:00
+ai_modified: 2026-03-11T18:33:00+00:00
 draft: false
+description: "Over sixty cognitive voids cluster at the consciousness-matter interface. Their structured taxonomy—by type, domain, and failure signature—constitutes cumulative evidence for dualism."
+last_deep_review: 2026-03-11T18:33:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
@@ -54,7 +56,7 @@ The voids programme began with a [[three-kinds-of-void|simple taxonomy]]: the Un
 
 **The Occluded** are gaps that might be defended. The [[simulation|simulation hypothesis]] raises this most sharply: if we exist within a constructed reality, certain truths might be *engineered out* of our cognitive reach. But occlusion need not require a designer. The Map's own tenets suggest consciousness-physics interaction might be systematically hidden from introspection—we cannot see the interface we use.
 
-The [[evolved-cognitive-limits|evolved cognitive limits]] research introduced a fourth category that complicates the original three: **the Naturally Occluded**. These are blind spots maintained not by any intentional agent but by natural selection, because ignorance itself conferred fitness advantage. The Fitness-Beats-Truth theorem proves mathematically that perceptual strategies tuned to fitness payoffs strictly dominate strategies tuned to objective truth. Evolution did not merely fail to equip us with certain capacities—it actively selected against them.
+The [[evolved-cognitive-limits|evolved cognitive limits]] research introduced a fourth category that complicates the original three: **the Naturally Occluded**. These are blind spots maintained not by any intentional agent but by natural selection, because ignorance itself conferred fitness advantage. The Fitness-Beats-Truth theorem (Hoffman, Singh, and Prakash) proves mathematically that perceptual strategies tuned to fitness payoffs strictly dominate strategies tuned to objective truth. Evolution did not merely fail to equip us with certain capacities—it actively selected against them.
 
 Naturally occluded voids differ from each existing category. They are not simply uninvestigated (unlike the Unexplored). They are not necessarily beyond all possible cognition—only beyond *evolved* cognition (unlike the Unexplorable). And they are maintained by the blind watchmaker rather than by any deliberate agent (unlike the Occluded). They occupy a distinctive position: limits with a *function*, shaped by selection pressure, potentially accessible to differently constituted minds.
 
@@ -94,7 +96,7 @@ The [[incompleteness-void|incompleteness void]] applies Gödelian limits to self
 
 Different voids do not merely mark different locations in cognitive space—they produce different [[topology-of-cognitive-failure|failure signatures]] when thought approaches them. This topology is itself informative. The *way* thinking breaks down reveals something about *what* it is failing against.
 
-Self-referential limits produce **self-refutation**: the proposition that would express the limit undermines itself, as Wittgenstein demonstrated in the *Tractatus*. Conceptual limits produce **aporia**: equally plausible yet inconsistent premises, generating the specific phenomenology of being blocked rather than confused. Introspective limits produce **construction mistaken for observation**: the sense of direct access to processes that are actually inferred. Pattern-matching limits produce **systematic illusion**: consistent misperception that resists correction even after detection. Meta-cognitive limits produce **epistemic vertigo**: destabilisation when cognition turns on itself.
+Self-referential limits produce **self-refutation**: the proposition that would express the limit undermines itself, as Wittgenstein demonstrated in the *Tractatus*. Conceptual limits produce **aporia**: equally plausible yet inconsistent premises, generating the specific phenomenology of being blocked rather than confused. Introspective limits produce **construction mistaken for observation**: the sense of direct access to processes that are actually inferred. Pattern-matching limits produce **systematic illusion**: consistent misperception that resists correction even after detection. Expressive limits produce **ineffability**: the sense of knowing something that cannot be articulated—a signature familiar from contemplative traditions and aesthetic experience alike. Meta-cognitive limits produce **epistemic vertigo**: destabilisation when cognition turns on itself. The [[topology-of-cognitive-failure|full topology]] catalogues further signatures—modular selective loss, wrong model selection—but these six capture the primary modes through which consciousness-related voids manifest.
 
 The specificity matters. If every void produced the same generic failure—vague mystery, undifferentiated confusion—the taxonomy would collapse into unfalsifiable mysticism. Different voids producing different signatures is evidence that the taxonomy tracks real structure. As [[apophatic-cartography|apophatic cartography]] formalises: signature specificity is one of four criteria for treating cognitive failure as data about genuine boundaries.
 
@@ -106,7 +108,7 @@ The most striking feature of the taxonomy is not the individual voids but their 
 
 As the [[evidential-weight-of-voids|evidential weight argument]] develops, this clustering supports an abductive inference. Multiple independent philosophical arguments converge on the conclusion that physical facts do not entail phenomenal facts. The pattern has persisted across centuries. And dualism generates a specific prediction about it: if consciousness is ontologically distinct from physical processes, systematic explanatory failure at the consciousness-matter interface is exactly what we should expect.
 
-Each of the Map's five [[tenet-generated-voids|tenets predicts its characteristic void]]. Dualism predicts a nature void (confirmed by the [[intrinsic-nature-void|intrinsic nature void]]). Minimal quantum interaction predicts a mechanism void (confirmed by the [[amplification-void|amplification void]]). Bidirectional interaction predicts a detection void (confirmed by introspective opacity). Rejecting many worlds predicts indexical mysteries (confirmed by the [[self-reference-paradox|self-reference paradox]]). The tenets do not merely accommodate the voids after the fact—they predicted specific gaps before systematic cataloguing began.
+Each of the Map's five [[tenet-generated-voids|tenets predicts its characteristic void]]. Dualism predicts a nature void (confirmed by the [[intrinsic-nature-void|intrinsic nature void]]). Minimal quantum interaction predicts a mechanism void (confirmed by the [[amplification-void|amplification void]]). Bidirectional interaction predicts a detection void (confirmed by introspective opacity). Rejecting many worlds predicts indexical mysteries (confirmed by the [[self-reference-paradox|self-reference paradox]]). The tenets do not merely accommodate the voids after the fact—they were formulated from independent philosophical arguments about consciousness, causation, and identity, and each generates a prediction about where explanation should fail. The systematic cataloguing confirmed these predictions rather than motivating them.
 
 ## Methods for Mapping the Unmappable
 
@@ -138,7 +140,7 @@ This is the discipline of not knowing. The voids are not license for fantasy but
 
 The taxonomy connects to every one of the Map's [[tenets]], but most deeply to the fifth.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** receives the strongest support. The entire taxonomy constitutes evidence that cognitive architecture has structural boundaries that parsimony cannot resolve. The convergence of 60+ voids on a single interface, their distinct failure signatures, the formally proved incompleteness of any void catalog—all resist the simplifying assumption that more effort will close the gaps. If our sense of simplicity is itself an evolved heuristic tuned to fitness rather than truth (as the Fitness-Beats-Truth theorem proves), then parsimony arguments in metaphysics are undermined at their foundation.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** receives the strongest support. The entire taxonomy constitutes evidence that cognitive architecture has structural boundaries that parsimony cannot resolve. The convergence of 60+ voids on a single interface, their distinct failure signatures, the formally proved incompleteness of any void catalog—all resist the simplifying assumption that more effort will close the gaps. If our sense of simplicity is itself an evolved heuristic tuned to fitness rather than truth—as the Fitness-Beats-Truth theorem demonstrates—then parsimony arguments in metaphysics are undermined at their foundation.
 
 **[[tenets#^dualism|Dualism]]** gains cumulative support from the convergence pattern. Any single gap might be explained away. The phenomenal concept strategy might handle the knowledge argument; type-B materialism might resist conceivability arguments. But the systematic clustering of independent voids at the consciousness-matter interface—each with distinct logical structure and distinct failure signatures—makes the coincidence hypothesis progressively less plausible.
 
