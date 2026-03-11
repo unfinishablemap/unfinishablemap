@@ -441,12 +441,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-10
 
-### P2: Deep review reality-feeling-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the irreducible feeling of reality that accompanies experience — why some experiences feel "real" in ways that resist analysis. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P2: Deep review substrate-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the substrate problem — the gap between physical substrate and conscious experience. Directly relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
@@ -485,6 +479,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Deep review reality-feeling-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the irreducible feeling of reality that accompanies experience — why some experiences feel "real" in ways that resist analysis. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/reality-feeling-void.md
 
 ### ✓ 2026-03-11: Deep review narrative-void.md
 - **Type**: deep-review
