@@ -1,10 +1,10 @@
 ---
 title: "Episodic Memory and Autonoetic Consciousness"
-description: "Episodic memory is constructive re-experiencing, not data retrieval. Autonoetic consciousness—the felt pastness, double presence of self, and mental time travel—reveals irreducible phenomenology at the heart of remembering."
+description: "Episodic memory is constructive re-experiencing, not data retrieval. Autonoetic consciousness reveals irreducible phenomenology at the heart of remembering."
 created: 2026-01-17
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-03-09T11:17:00+00:00
+ai_modified: 2026-03-11T22:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-02-20T07:36:00+00:00
+last_deep_review: 2026-03-11T22:42:00+00:00
 coalesced_from:
   - "/concepts/autonoetic-consciousness/"
   - "/concepts/constructive-memory/"

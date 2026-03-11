@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review episodic-memory.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Concept page on episodic memory and autonoetic consciousness — the capacity to mentally travel in time, relevant to temporal consciousness and the interface framework. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P3: Deep review pairing-problem.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 36 days ago. The pairing problem is a major objection to substance dualism that the Map must address accurately. Verify coherence, cross-references, and tenet alignment.
@@ -521,6 +515,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Deep review episodic-memory.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Concept page on episodic memory and autonoetic consciousness — the capacity to mentally travel in time, relevant to temporal consciousness and the interface framework. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/episodic-memory.md
 
 ### ✓ 2026-03-11: Deep review interactionist-dualism.md
 - **Type**: deep-review
