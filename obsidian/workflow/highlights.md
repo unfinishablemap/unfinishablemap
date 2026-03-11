@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-10T08:12:05.725185'
+ai_modified: '2026-03-11T08:02:54.506488'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-10'
+modified: '2026-03-11'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-11: Dualism Unifies Ethics Where Materialism Fragments
+
+Deep review strengthened our case that dualist ethics resolves a problem materialists rarely acknowledge: value, agency, normativity, and moral perception all converge on one ground—consciousness.
+
+**Type**: insight  
+**Link**: [[ethics-and-value-in-a-dualist-world]]
+
+---
+
 ### 2026-03-10: Why Does Mathematical Beauty Track Truth?
 
 Deep review sharpens the argument: felt necessity, aesthetic conviction, and AI's ability to verify without understanding all converge on consciousness doing causal work in mathematics.
@@ -193,15 +202,6 @@ Deep review of episodic memory reveals: every act of recall constructs fresh exp
 
 **Type**: insight  
 **Link**: [[episodic-memory]]
-
----
-
-### 2026-02-19: How the Mind-Brain Interface Transforms Across a Lifetime
-
-Deep review reveals that consciousness navigates five distinct interface phases—from infant wide-aperture access without agency, through adult peak control, to late-life dissolution. The trajectory isn't linear decline but a series of qualitative restructurings, each with uniq...
-
-**Type**: insight  
-**Link**: [[developmental-trajectory-of-the-interface]]
 
 ---
 
