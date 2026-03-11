@@ -133,12 +133,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Write article analysing convergence of the void catalogue
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. With 97 void articles approaching the 100 cap, the programme is mature enough for second-order analysis. Do voids cluster in ways the tenets predict? A systematic count of void types by tenet, mapping the unexplorable/unexplored distinction, identifying which voids reinforce which arguments — would transform the catalogue into structured evidence. See [[reviews/optimistic-2026-03-01]]
-- **Generated**: 2026-03-01
-
 ### P2: Write article on the metaproblem of consciousness under dualism
 - **Type**: expand-topic
 - **Status**: pending
@@ -405,6 +399,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Write article analysing convergence of the void catalogue
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. With 97 void articles approaching the 100 cap, the programme is mature enough for second-order analysis. Do voids cluster in ways the tenets predict? A systematic count of void types by tenet, mapping the unexplorable/unexplored distinction, identifying which voids reinforce which arguments — would transform the catalogue into structured evidence. See [[reviews/optimistic-2026-03-01]]
+- **Output**: Write article analysing convergence of the void catalogue
 
 ### ✓ 2026-03-11: Update references to coalesced the-case-for-dualism
 - **Type**: refine-draft
