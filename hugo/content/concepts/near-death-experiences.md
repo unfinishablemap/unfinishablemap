@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-05 08:21:00+00:00
+ai_modified: 2026-03-11 16:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,12 +23,13 @@ description: Vivid conscious experiences during cardiac arrest when brain activi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-05 08:21:00+00:00
+last_deep_review: 2026-03-11 16:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[personal-identity]]'
 - '[[near-death-experiences-consciousness-2026-01-15]]'
+- '[[death-phenomenology-beyond-ndes]]'
 title: Near-Death Experiences
 topics:
 - '[[death-and-consciousness]]'
@@ -112,13 +113,15 @@ This is paradoxical if experience is produced by brain activity. When the factor
 
 [Filter theory](/concepts/filter-theory/) dissolves this paradox. If the brain transmits or constrains consciousness rather than producing it, brain compromise might *reduce* the filtering that normally limits what consciousness can access—rather than reducing consciousness itself. The radio analogy: damaging a radio doesn't damage the broadcast; it might produce static, but under certain conditions might allow other frequencies through. Aldous Huxley proposed that the brain functions as a "reducing valve"—psychedelics produce expanded experience by disrupting this valve. NDEs may work similarly: as the filtering system fails, consciousness expands rather than contracts.
 
-### Terminal Lucidity as Corroborating Evidence
+### Terminal Lucidity and Broader Death Phenomenology
 
 **Terminal lucidity**—the sudden return of mental clarity shortly before death in patients with severe neurological conditions—presents a structurally parallel puzzle. Nahm and Greyson documented 83 cases spanning 250 years across Alzheimer's, brain tumors, strokes, and chronic schizophrenia (Nahm et al. 2012). Patients non-verbal for years suddenly recognized family, held coherent conversations, and recalled long-lost memories. Batthyány's 2023 survey found 73% of healthcare professionals had witnessed paradoxical lucidity at least once.
 
 The puzzle: if neurodegeneration has physically destroyed neural substrates for memory and thought, what restores them before death? Mashour et al. (2019) called paradoxical lucidity a "potential paradigm shift," suggesting some dementia involves *functional* suppression rather than purely structural destruction. But this strains against cases with massive structural damage where relevant neural substrates no longer exist.
 
 Filter theory accommodates terminal lucidity naturally: as the brain's interface dissolves near death, constraints that dementia imposed on consciousness loosen. The memories were accessed through the brain, not stored in it; as filtering collapses, access briefly returns.
+
+Terminal lucidity is one of several [death-related phenomena beyond NDEs](/topics/death-phenomenology-beyond-ndes/) — including deathbed visions, shared death experiences, and nearing death awareness — that collectively strengthen the case against brain-production models. Each phenomenon manifests under different physiological conditions and timelines, yet all point toward the same conclusion: the consciousness-brain relationship during dying is more complex than production models accommodate. The convergence across these varied phenomena is more evidentially significant than any single phenomenon in isolation.
 
 ### The Asymmetry Problem
 
@@ -162,6 +165,7 @@ None of these would definitively refute dualism, but they would significantly we
 
 ## Further Reading
 
+- [death-phenomenology-beyond-ndes](/topics/death-phenomenology-beyond-ndes/) — Deathbed visions, shared death experiences, terminal lucidity, and nearing death awareness
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — NDEs as the extreme case of interface reconfiguration
 - [death-and-consciousness](/topics/death-and-consciousness/) — The broader question of consciousness and mortality
 - [filter-theory](/concepts/filter-theory/) — The transmission model that explains the paradox of heightened experience

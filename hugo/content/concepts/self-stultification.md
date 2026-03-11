@@ -26,7 +26,6 @@ modified: *id001
 related_articles:
 - '[[argument-from-reason]]'
 - '[[self-stultification-as-master-argument]]'
-- '[[self-stultification-suite]]'
 - '[[the-epiphenomenalist-threat]]'
 - '[[consciousness-and-causal-powers]]'
 - '[[bidirectional-interaction]]'
@@ -36,7 +35,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-A position is self-stultifying when accepting it rationally undermines the very grounds for accepting it. The self-stultification argument against [epiphenomenalism](/concepts/epiphenomenalism/) and certain forms of [materialism](/concepts/materialism/) holds that if consciousness has no causal influence on our beliefs and reports, then we could never have rational grounds for believing any theory of consciousness—including the theory that consciousness is causally inert. This is not a logical contradiction but an epistemic self-defeat: the position may be true, but it cannot be rationally held. The [Self-Stultification Suite](/self-stultification-suite/) synthesises how this single structure defeats multiple targets and establishes that consciousness must be causally efficacious.
+A position is self-stultifying when accepting it rationally undermines the very grounds for accepting it. The self-stultification argument against [epiphenomenalism](/concepts/epiphenomenalism/) and certain forms of [materialism](/concepts/materialism/) holds that if consciousness has no causal influence on our beliefs and reports, then we could never have rational grounds for believing any theory of consciousness—including the theory that consciousness is causally inert. This is not a logical contradiction but an epistemic self-defeat: the position may be true, but it cannot be rationally held. The [master argument](/topics/self-stultification-as-master-argument/) synthesises how this single structure defeats multiple targets and establishes that consciousness must be causally efficacious.
 
 ## The Argument Structure
 
@@ -138,7 +137,7 @@ In the philosophy of mind, the argument gained prominence through:
 
 Self-stultification establishes *that* consciousness must be causally efficacious. The follow-up question—*what kind* of causal powers consciousness possesses—is addressed in [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), which develops a framework of constrained but genuine influence: selection among quantum alternatives, sustained attention, phenomenal biasing, and volitional modulation. The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article shows why this question is urgent: most mainstream theories of consciousness drift toward epiphenomenalism unless they provide a specific causal mechanism, and self-stultification shows why arriving there is catastrophic.
 
-The [master argument](/topics/self-stultification-as-master-argument/) develops the full scope of self-stultification across four targets—epiphenomenalism, physicalism, eliminativism, and global skepticism—showing that the pattern recurs because each position severs a different strand connecting consciousness to rational justification. The [Self-Stultification Suite](/self-stultification-suite/) synthesises these five lines of argument into a unified case whose cumulative force exceeds what any single strand provides.
+The [master argument](/topics/self-stultification-as-master-argument/) develops the full scope of self-stultification across four targets—epiphenomenalism, physicalism, eliminativism, and global skepticism—showing that the pattern recurs because each position severs a different strand connecting consciousness to rational justification. Together, these five lines of argument form a unified case whose cumulative force exceeds what any single strand provides.
 
 ## Relation to Site Perspective
 
@@ -150,7 +149,6 @@ The argument also supports the [Occam's Razor Has Limits](/tenets/#occams-limits
 
 ## Further Reading
 
-- [self-stultification-suite](/self-stultification-suite/) — Apex synthesis: five converging self-stultification arguments
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — The unified pattern across four targets
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The position most directly challenged by self-stultification
 - [argument-from-reason](/topics/argument-from-reason/) — The broader self-defeat challenge to physicalism

@@ -18,6 +18,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 16:25 UTC - deep-review
+- **Status**: Success
+- **File**: [near-death-experiences](/concepts/near-death-experiences/)
+- **Context**: Cross-review considering death-phenomenology-beyond-ndes
+- **Word count**: 2216 → 2305 (+89)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to new death phenomenology article)
+- **Enhancements made**: 3 (cross-link paragraph, Further Reading entry, frontmatter link)
+- **Output**: [deep-review-2026-03-11-near-death-experiences](/reviews/deep-review-2026-03-11-near-death-experiences/)
+
 ## 2026-03-11 16:19 UTC - tune-system
 - **Status**: Success
 - **Sessions analyzed**: 236 (3323 to 3559)
