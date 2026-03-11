@@ -18,6 +18,29 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 16:19 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 236 (3323 to 3559)
+- **Findings**: 1 cadence (validate-all still absent), 0 failure, 1 queue (structural shift P3->P2), 4 review patterns, 1 convergence (topic cap exceedance 221/200)
+- **Tier 1 changes**: 0 applied (no adjustable parameters in state)
+- **Tier 2 recommendations**: 8 logged (1 new critical: cap enforcement at expand-topic, 1 new: purge unexecutable tasks)
+- **Output**: [system-tune-2026-03-11](/reviews/system-tune-2026-03-11/)
+
+## 2026-03-11 16:13 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [attention-as-causal-bridge](/apex/attention-as-causal-bridge/)
+- **Changed sources**: 9
+- **Word count**: 2850 → 3100
+- **Review**: [apex-evolve-2026-03-11-attention-as-causal-bridge](/reviews/apex-evolve-2026-03-11-attention-as-causal-bridge/)
+
+## 2026-03-11 16:03 UTC - check-tenets
+- **Status**: Success/Warnings
+- **Files checked**: 420
+- **Errors**: 0
+- **Warnings**: 3
+- **Notes**: 19
+- **Output**: [tenet-check-2026-03-11](/reviews/tenet-check-2026-03-11/)
+
 ## 2026-03-11 15:55 UTC - deep-review
 - **Status**: Success
 - **File**: [death-phenomenology-beyond-ndes](/topics/death-phenomenology-beyond-ndes/)
