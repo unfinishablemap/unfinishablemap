@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense death-and-consciousness.md (4551 words, 114% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Recently expanded by coalesce (merged death-phenomenology-beyond-ndes.md). Preserve core arguments about death's relationship to consciousness while removing redundancy from the merge. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-11
-
 ### P2: Integrate convergence-of-the-void-catalogue.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Voids article analysing convergence patterns across the void catalogue — a second-order synthesis piece that should be referenced from taxonomy-of-voids.md (apex), voids.md (section index), and tenet-generated-voids.md.
@@ -569,6 +563,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Condense death-and-consciousness.md (4551 words, 114% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Recently expanded by coalesce (merged death-phenomenology-beyond-ndes.md). Preserve core arguments about death's relationship to consciousness while removing redundancy from the merge. See /condense skill.
+- **Output**: obsidian/topics/death-and-consciousness.md
 
 ### ✓ 2026-03-11: Condense whether-real.md (3002 words, 100% of hard threshold)
 - **Type**: condense

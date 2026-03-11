@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-11T23:30:59.360881+00:00'
-session_count: 3627
-cycle_position: 3235
+last_updated: '2026-03-11T23:35:59.361356+00:00'
+session_count: 3628
+cycle_position: 3236
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/phenomenology-of-meaning-making.md)
-  type: deep-review
-  date: '2026-03-11'
-  outcome: success
 - task: deep-review (obsidian/topics/aesthetic-irreducibility-arguments)
   type: deep-review
   date: '2026-03-11'
@@ -131,17 +127,7 @@ recent_tasks:
   type: condense
   date: '2026-03-11'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 32
-  p3_tasks: 35
-  needs_replenishment: false
-  last_replenishment: '2026-03-11T23:35:00+00:00'
-  replenishment_source_counts:
-    chain: 0
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 1
-    staleness: 2
-    orphan_integration: 3
+- task: deep-review
+  type: deep-review
+  date: '2026-03-11'
+  outcome: success
