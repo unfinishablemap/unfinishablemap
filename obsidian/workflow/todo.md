@@ -37,6 +37,54 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review related articles considering consciousness-and-the-structure-of-scientific-revolutions
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-the-structure-of-scientific-revolutions.md applies Kuhn's framework to the consciousness debate. Review consciousness-and-scientific-methodology.md, consciousness-and-the-problem-of-philosophical-progress.md for cross-links, reinforcing arguments, or contradictions. Add wikilinks where appropriate.
+- **Source**: chain (from consciousness-and-the-structure-of-scientific-revolutions.md)
+- **Generated**: 2026-03-11
+
+### P2: Cross-review related articles considering aesthetic-experience-as-evidence-for-irreducibility
+- **Type**: cross-review
+- **Notes**: New article topics/aesthetic-experience-as-evidence-for-irreducibility.md makes a systematic case from aesthetic experience. Review binding-and-beauty.md and aesthetic-dimension-of-consciousness.md for cross-links and consistency with the new treatment. Ensure the new article is referenced from related pages.
+- **Source**: chain (from aesthetic-experience-as-evidence-for-irreducibility.md)
+- **Generated**: 2026-03-11
+
+### P2: Cross-review related articles considering cognitive-closure
+- **Type**: cross-review
+- **Notes**: New concept page concepts/cognitive-closure.md treats McGinn's thesis on constitutive cognitive limits. Review mysterianism.md, evolved-cognitive-limits.md, and phenomenology-of-the-edge.md for cross-links. Ensure these articles reference the dedicated concept page rather than explaining cognitive closure inline.
+- **Source**: chain (from cognitive-closure.md)
+- **Generated**: 2026-03-11
+
+### P2: Integrate valence-as-selection-currency.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Valence as selection currency bridges emotion-as-evidence-for-dualism and the quantum selection mechanism. Add cross-references from attention-as-selection-interface.md, phenomenal-value-realism.md, and why-pain-hurts.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-11
+
+### P2: Integrate biological-teleology-and-the-interface-framework.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Biological teleology article connects evolution-under-dualism to the interface framework. Add cross-references from evolution-under-dualism.md, consciousness-threshold-in-cognitive-evolution.md, and evolutionary-case-for-mental-causation.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-11
+
+### P2: Integrate interaction-solutions-across-traditions.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Comparative analysis of interaction solutions (Samkhya, Avicenna, Akan, delegatory dualism). Add cross-references from interactionist-dualism.md, eastern-philosophy-consciousness.md, and convergence-argument-for-dualism.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-11
+
+### P3: Deep review philosophy-of-time.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 40 days ago. Core concept page on philosophy of time, relevant to temporal consciousness cluster. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review panpsychism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 38 days ago. Major alternative position to the Map's dualism that needs accurate, fair treatment. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
 ### P3: Create concept page for dual-domain capability framework
 - **Type**: expand-topic
 - **Status**: pending

@@ -151,12 +151,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Write concept page for cognitive closure
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. McGinn's thesis on constitutive cognitive limits. Referenced in mysterianism and voids articles but lacks dedicated concept page. See [optimistic-2026-03-03](/reviews/optimistic-2026-03-03/).
-- **Generated**: 2026-03-03
-
 ### P2: Write article on phenomenology of collective intentionality and we-consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -378,6 +372,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Write concept page for cognitive closure
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. McGinn's thesis on constitutive cognitive limits. Referenced in mysterianism and voids articles but lacks dedicated concept page. See [optimistic-2026-03-03](/reviews/optimistic-2026-03-03/).
+- **Output**: Write concept page for cognitive closure
 
 ### ✓ 2026-03-11: Write article on formal aesthetics as dualist testing ground
 - **Type**: expand-topic
