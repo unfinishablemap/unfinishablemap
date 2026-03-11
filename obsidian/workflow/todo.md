@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review emotional-epistemology-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the epistemological limits of understanding emotion through non-emotional analysis. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P2: Integrate content-specificity-of-mental-causation.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Content specificity of mental causation is relevant to the Map's arguments about consciousness causally influencing the physical world. Add cross-references from mental-causation.md, placebo-effect-and-mental-causation.md, and consciousness-and-causal-powers.md.
@@ -449,6 +443,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Deep review emotional-epistemology-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the epistemological limits of understanding emotion through non-emotional analysis. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/emotional-epistemology-void.md
 
 ### ✓ 2026-03-11: Deep review counterfactual-void.md
 - **Type**: deep-review
