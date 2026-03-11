@@ -110,6 +110,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The "AI exception" to self-stultification — AI trained on human data might simulate the conclusion without performing it — is fascinating, underdeveloped, and highly relevant to contemporary discourse. What does this exception reveal about what the argument really shows? Builds on self-stultification-as-master-argument, ai-consciousness, hoel-llm-consciousness-continual-learning, machine-question apex. See optimistic-2026-03-11-morning.md
 - **Generated**: 2026-03-11
 
+### P3: Write article on the specification challenge for psychophysical laws
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The acknowledged "t-shirt problem" — no F=ma equivalent for mind-matter coupling. What specification would require, what constraints existing evidence provides, and what form psychophysical laws might take. Builds on psychophysical-coupling, responsibility-gradient-from-attentional-capacity, psychophysical-laws. See optimistic-2026-03-11-afternoon.md
+- **Generated**: 2026-03-11
+
+### P3: Write article on the illusionist challenge as systematic response
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Multiple articles offer anti-illusionist arguments (regress, self-stultification, presupposition of phenomenality) individually. A unified treatment showing these converge into a systematic case would strengthen the Map's position against its strongest contemporary rival. Builds on existentialism, cognitive-phenomenology, concept-of-phenomenal-value-realism, emotion-as-evidence-for-dualism. See optimistic-2026-03-11-afternoon.md
+- **Generated**: 2026-03-11
+
+### P3: Write article on Buddhist no-self and indexical identity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Anattā is acknowledged respectfully across multiple articles but the deep tension between no-self and indexical identity is never fully explored. Does consciousness without substantial self still have haecceity? Builds on process-haecceitism, personal-identity, death-and-consciousness. See optimistic-2026-03-11-afternoon.md
+- **Generated**: 2026-03-11
+
+### P3: Create concept page for epistemic circularity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Appears in phenomenal-transparency, consciousness-and-scientific-methodology, and acquaintance-knowledge. The Alston-derived problem (verification using the system being verified) is foundational enough to deserve its own concept page linking these discussions. See optimistic-2026-03-11-afternoon.md
+- **Generated**: 2026-03-11
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
