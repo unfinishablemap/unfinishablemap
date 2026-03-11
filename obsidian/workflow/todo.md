@@ -127,6 +127,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. How active inference (Friston, Clark) relates to the Map's framework; whether prediction error minimisation is compatible with genuine selection; the free energy principle under dualism. Builds on attention-as-selection-interface, consciousness-and-scientific-methodology. See optimistic-2026-03-11.md
 - **Generated**: 2026-03-11
 
+### P3: Write ethics synthesis apex article
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Notable gap in apex section — no synthesis unifying the Map's metaethics. Dualism's implications for moral status, animal ethics, AI rights, and criminal responsibility are scattered across 10+ articles (phenomenal-value-realism, ethics-of-consciousness, ethics-and-value-in-a-dualist-world, consciousness-and-normative-force) but never woven together into a coherent apex narrative. See optimistic-2026-03-11-morning.md
+- **Generated**: 2026-03-11
+
+### P3: Write article on self-stultification and AI consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The "AI exception" to self-stultification — AI trained on human data might simulate the conclusion without performing it — is fascinating, underdeveloped, and highly relevant to contemporary discourse. What does this exception reveal about what the argument really shows? Builds on self-stultification-as-master-argument, ai-consciousness, hoel-llm-consciousness-continual-learning, machine-question apex. See optimistic-2026-03-11-morning.md
+- **Generated**: 2026-03-11
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
