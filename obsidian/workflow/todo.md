@@ -132,12 +132,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Write article on the metaproblem of consciousness under dualism
-- **Type**: expand-topic
-- **Status**: complete
-- **Output**: [[topics/metaproblem-of-consciousness-under-dualism]]
-- **Notes**: Suggested by optimistic review 2026-03-01. Chalmers' metaproblem asks why we think there is a hard problem. Under dualism, the answer is straightforward—we report on it because consciousness is real and causally influences our reports. Would show how dualism dissolves the metaproblem while physicalism generates it, connecting to self-stultification. See [[reviews/optimistic-2026-03-01-morning]].
-
 ### P2: Write article on consciousness and the structure of scientific revolutions
 - **Type**: expand-topic
 - **Status**: pending
@@ -399,6 +393,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Write article on the metaproblem of consciousness under dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-03-01. Chalmers' metaproblem asks why we think there is a hard problem. Under dualism, the answer is straightforward—we report on it because consciousness is real and causally influences our reports. Would show how dualism dissolves the metaproblem while physicalism generates it, connecting to self-stultification. See [[reviews/optimistic-2026-03-01-morning]].
+- **Output**: the metaproblem of consciousness under dualism
 
 ### ✓ 2026-03-11: Cross-review metaproblem-of-consciousness-under-dualism
 - **Type**: cross-review
