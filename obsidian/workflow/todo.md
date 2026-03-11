@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-05 09:22:00+00:00
+ai_modified: 2026-03-11T07:02:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review self-stultification cluster considering new apex synthesis
+- **Type**: cross-review
+- **Notes**: New apex article apex/self-stultification-as-master-argument.md synthesises the self-stultification suite. Review self-stultification.md, argument-from-reason.md, the-epiphenomenalist-threat.md, and consciousness-and-causal-powers.md for cross-links to the apex article. Ensure terminology consistency and that the apex synthesis accurately represents the arguments in the source articles.
+- **Source**: chain (from self-stultification apex)
+- **Generated**: 2026-03-11
+
+### P2: Cross-review quantum consciousness articles considering new apex synthesis
+- **Type**: cross-review
+- **Notes**: New apex article on the quantum consciousness programme synthesises the Map's quantum cluster. Review quantum-consciousness.md, mind-matter-interface.md, stapp-quantum-mind.md, and consciousness-selecting-neural-patterns.md for cross-links to the apex article. Ensure the apex synthesis accurately represents the research programme and that source articles reference the synthesis where appropriate.
+- **Source**: chain (from quantum consciousness programme apex)
+- **Generated**: 2026-03-11
+
+### P2: Cross-review ethics cluster considering new apex synthesis
+- **Type**: cross-review
+- **Notes**: New apex article on ethics and value in a dualist world synthesises the Map's ethics cluster. Review ethics-of-consciousness.md, moral-responsibility.md, phenomenal-value-realism.md, and consciousness-and-moral-agency-under-duress.md for cross-links to the apex article and consistency of the ethical framework presented.
+- **Source**: chain (from ethics-and-value apex)
+- **Generated**: 2026-03-11
+
+### P2: Condense consciousness-selecting-neural-patterns.md (3835 words, 110% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Central to the Map's selection mechanism — preserve core arguments about how consciousness selects among neural pattern superpositions while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-11
+
+### P2: Condense temporal-consciousness.md (3621 words, 103% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Recently coalesced from temporal-phenomenology-quantum-selection — may contain redundancy from the merge. Preserve core temporal arguments while tightening. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-11
+
+### P2: Deep review ethics-and-value-in-a-dualist-world.md
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) created 2026-03-11, never reviewed. Major synthesis piece on ethics under dualism — quality assurance especially important for apex articles. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P2: Deep review trilemma-of-selection.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-10, never reviewed. The trilemma of selection is one of the Map's most logically compelling arguments — quality assurance is critical. Verify argument validity, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
 
 ### P3: Write article on temporal structure of consciousness as irreducibility evidence
 - **Type**: expand-topic
