@@ -127,12 +127,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Write article on formal aesthetics as dualist testing ground
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Aesthetic irreducibility, normative-qualitative entanglement, philosophy of art under dualism. Builds on aesthetic-dimension-of-consciousness.md, binding-and-beauty.md, aesthetic-void.md. See [optimistic-2026-03-03](/reviews/optimistic-2026-03-03/).
-- **Generated**: 2026-03-03
-
 ### P2: Write concept page for cognitive closure
 - **Type**: expand-topic
 - **Status**: pending
@@ -360,6 +354,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Write article on formal aesthetics as dualist testing ground
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Aesthetic irreducibility, normative-qualitative entanglement, philosophy of art under dualism. Builds on aesthetic-dimension-of-consciousness.md, binding-and-beauty.md, aesthetic-void.md. See [optimistic-2026-03-03](/reviews/optimistic-2026-03-03/).
+- **Output**: formal aesthetics as dualist testing ground
 
 ### ✓ 2026-03-11: Write article on death phenomenology beyond NDEs
 - **Type**: expand-topic
