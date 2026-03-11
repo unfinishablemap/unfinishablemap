@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 22:37 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/interactionist-dualism]]
+- **Word count**: 2386 → 2386 (+0, frontmatter-only change)
+- **Critical issues addressed**: 1 (duplicate frontmatter entry)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-03-11-interactionist-dualism]]
+
 ## 2026-03-11 22:32 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/teaching-as-metarepresentation]]

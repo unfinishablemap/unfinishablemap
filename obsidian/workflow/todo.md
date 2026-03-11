@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review interactionist-dualism.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Foundational concept page directly supporting Tenet 3 (Bidirectional Interaction). As a core tenet concept, quality and accuracy are critical. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P2: Deep review episodic-memory.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Concept page on episodic memory and autonoetic consciousness — the capacity to mentally travel in time, relevant to temporal consciousness and the interface framework. Verify coherence, cross-references, and tenet alignment.
@@ -527,6 +521,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Deep review interactionist-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Foundational concept page directly supporting Tenet 3 (Bidirectional Interaction). As a core tenet concept, quality and accuracy are critical. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/interactionist-dualism.md
 
 ### ✓ 2026-03-11: Deep review attention-as-interface.md
 - **Type**: deep-review
