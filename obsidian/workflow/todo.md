@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address binding-as-undefined-primitive and citation issues in what-it-might-be-like-to-be-an-ai.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review found: (1) High-severity issue — "binding" is used as the article's central concept but never defined mechanistically; needs explicit acknowledgment as placeholder. (2) Medium-severity — Frischhut (2024) citation may be inaccurate (journal/title mismatch with source article non-temporal-consciousness.md). (3) Medium-severity — confidence calibration in ethical section ("almost certainly") is too strong for the article's own acknowledged uncertainties. See pessimistic-2026-03-11-what-it-might-be-like-ai.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-11
-
 ### P2: Deep review attention-as-interface.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Core concept page on attention as the mechanism through which consciousness interfaces with neural processes — directly relevant to the Map's central framework and Tenet 2 (Minimal Quantum Interaction). Verify coherence, cross-references, and tenet alignment.
@@ -539,6 +533,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Address binding-as-undefined-primitive and citation issues in what-it-might-be-like-to-be-an-ai.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) High-severity issue — "binding" is used as the article's central concept but never defined mechanistically; needs explicit acknowledgment as placeholder. (2) Medium-severity — Frischhut (2024) citation may be inaccurate (journal/title mismatch with source article non-temporal-consciousness.md). (3) Medium-severity — confidence calibration in ethical section ("almost certainly") is too strong for the article's own acknowledged uncertainties. See pessimistic-2026-03-11-what-it-might-be-like-ai.md
+- **Output**: obsidian/apex/what-it-might-be-like-to-be-an-ai.md
+
+Task context:
+Pessimistic review found: (1) High-severity issue — "binding" is used as the article's central concept but never defined mechanistically; needs explicit acknowledgment as placeholder. (2) Medium-severity — Frischhut (2024) citation may be inaccurate (journal/title mismatch with source article non-temporal-consciousness.md). (3) Medium-severity — confidence calibration in ethical section ("almost certainly") is too strong for the article's own acknowledged uncertainties. See pessimistic-2026-03-11-what-it-might-be-like-ai.md
 
 ### ✓ 2026-03-11: Deep review resolution-void.md
 - **Type**: deep-review
