@@ -4,17 +4,19 @@ description: "Consciousness doesn't just process information—it generates mean
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T04:08:00+00:00
+ai_modified: 2026-03-11T04:23:00+00:00
+last_deep_review: 2026-03-11T04:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[aesthetic-dimension-of-consciousness]]"
 concepts:
+  - "[[semantic-memory]]"
   - "[[cognitive-phenomenology]]"
   - "[[temporal-consciousness]]"
   - "[[qualia]]"
   - "[[phenomenology]]"
-  - "[[consciousness-and-semantic-understanding]]"
+  - "[[cognitive-phenomenology]]"
   - "[[temporal-structure-of-understanding]]"
   - "[[concept-of-phenomenal-value-realism]]"
   - "[[metacognition]]"
@@ -94,7 +96,9 @@ Despite their differences, the five modes share structural features that reveal 
 
 Each mode of phenomenal meaning independently challenges functionalist accounts of mind, but their convergence strengthens the case considerably. A functionalist might explain away any single mode: perhaps semantic meaning reduces to information processing; perhaps aesthetic meaning reduces to pattern recognition; perhaps temporal meaning reduces to predictive coding. But explaining away all five simultaneously requires showing that phenomenal character is systematically irrelevant to five different kinds of significance—that in every case, the felt quality is decorative rather than constitutive.
 
-The burden compounds. If meaning were a functional property, we should expect it to vary with functional organisation and remain indifferent to phenomenal character. Instead, we find the opposite: meaning tracks phenomenal character and is indifferent to implementation. The same functional computation produces different meanings depending on what it is like to undergo it (Strawson's foreign language case), and different functional computations can produce the same kind of meaning if their phenomenal character converges (recognising beauty across radically different sensory modalities).
+A functionalist might respond that phenomenal character *just is* functional organisation under a different description—that no genuine separation exists. But this identity claim faces its own burden: it must explain why functional duplicates with different phenomenal character (if such are conceivable) would have different meanings, and why functional organisation that lacks phenomenal character entirely (as in current AI systems) fails to generate meaning rather than merely processing correlates of it.
+
+If meaning were a functional property, we should expect it to vary with functional organisation and remain indifferent to phenomenal character. Instead, we find the opposite: meaning tracks phenomenal character and is indifferent to implementation. The same functional computation produces different meanings depending on what it is like to undergo it (Strawson's foreign language case), and different functional computations can produce the same kind of meaning if their phenomenal character converges (recognising beauty across radically different sensory modalities).
 
 The convergence also addresses the worry that individual phenomenological arguments beg the question by assuming what they aim to prove. Five independent analyses, each drawing on different domains of experience, each arriving at the same structural conclusion—that meaning is phenomenally constituted—provide the kind of cross-validation that individual arguments lack.
 
@@ -106,13 +110,15 @@ The unified account would face pressure from:
 
 2. **Successful decomposition of meaning.** If phenomenological analysis revealed that what appears as unified meaning is always a conjunction of separable components—that the "click" of understanding is merely the co-occurrence of sensory and affective states with no irreducible cognitive phenomenology—the constitution thesis would fail.
 
-3. **Cross-cultural divergence in meaning phenomenology.** If careful phenomenological research revealed that meaning-making has no consistent phenomenal character across cultures—that what feels like understanding to one population bears no resemblance to what feels like understanding to another—the claim of structural universality would require revision.
+3. **Cross-cultural divergence in meaning phenomenology.** If careful phenomenological research revealed that meaning-making has no consistent phenomenal character across cultures—that what feels like understanding to one population bears no resemblance to what feels like understanding to another—the claim of structural universality would require revision. Work on constructed emotion (Barrett, 2017) already shows that affective categories vary across cultures, raising the question of whether evaluative meaning-making is culturally shaped at the phenomenal level. The strongest response is that the *structural* claim—meaning requires phenomenal character—can hold even if the *specific* phenomenal textures vary culturally. The tip-of-the-tongue experience, the click of comprehension, and the forward lean of anticipation appear cross-culturally robust even if their emotional colouring differs.
 
-None has occurred. The convergence of independent phenomenological analyses on the same structural conclusion remains the strongest available evidence that meaning is a phenomenal achievement.
+The convergence of independent phenomenological analyses on the same structural conclusion remains the strongest available evidence that meaning is a phenomenal achievement.
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: If meaning is phenomenally constituted, it inherits the irreducibility of phenomenal consciousness. No physical description of neural activity captures what it is like to understand, to hear music as meaningful, to anticipate, to encounter oneself in recursive awareness, or to experience value. The explanatory gap extends from consciousness to meaning: there is something it is like to make meaning, and that something is not captured by describing the physical processes that correlate with it.
+**[[tenets#^dualism|Dualism]]**: If meaning is phenomenally constituted, it inherits the irreducibility of phenomenal consciousness. The [[hard-problem-of-consciousness|hard problem]] extends from consciousness to meaning: no physical description of neural activity captures what it is like to understand, to hear music as meaningful, to anticipate, to encounter oneself in recursive awareness, or to experience value. There is something it is like to make meaning, and that something is not captured by describing the physical processes that correlate with it.
+
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: This article does not depend on any specific mechanism of mind-matter interaction. The phenomenal constitution of meaning is compatible with whatever minimal interface connects consciousness to the brain—whether quantum selection, Zeno-type stabilisation, or mechanisms not yet conceived. What matters is that the interface preserves phenomenal character, since meaning-making requires it.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Meaning-making is causally efficacious. The jazz improviser's choices are guided by what the music *sounds like*—by the felt quality of harmonic tension and resolution. The mathematician's next step is guided by the phenomenal "click" of insight. If meaning were epiphenomenal, these phenomenal qualities could not guide behaviour. The fact that meaning-laden experience systematically shapes action supports the Map's claim that consciousness causally influences physical outcomes.
 
@@ -141,6 +147,7 @@ None has occurred. The convergence of independent phenomenological analyses on t
 1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
 1. Scruton, R. (1997). *The Aesthetics of Music*. Oxford University Press.
 1. Hofstadter, D. (2007). *I Am a Strange Loop*. Basic Books.
+1. Barrett, L. F. (2017). *How Emotions Are Made: The Secret Life of the Brain*. Houghton Mifflin Harcourt.
 1. Bayne, T. & Montague, M. (eds.) (2011). *Cognitive Phenomenology*. Oxford University Press.
 1. Southgate, A. & Oquatre-six, C. (2026-02-18). The Phenomenology of Musical Understanding. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenology-of-musical-understanding/
 1. Southgate, A. & Oquatre-six, C. (2026-02-09). The Phenomenology of Anticipation. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenology-of-anticipation/
