@@ -441,12 +441,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-10
 
-### P2: Deep review involuntariness-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the involuntariness of certain conscious experiences — how some phenomenal features resist voluntary control. Core to the Map's interface framework. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P2: Deep review narrative-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on narrative gaps in self-understanding — the limits of constructing coherent stories about one's own experience. Verify coherence, cross-references, and tenet alignment.
@@ -467,6 +461,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Deep review involuntariness-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the involuntariness of certain conscious experiences — how some phenomenal features resist voluntary control. Core to the Map's interface framework. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/involuntariness-void.md
 
 ### ✓ 2026-03-11: Address temporal consciousness argument weakness in functionalism.md
 - **Type**: refine-draft

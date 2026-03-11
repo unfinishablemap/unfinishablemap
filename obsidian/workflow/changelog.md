@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 20:16 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/involuntariness-void]]
+- **Word count**: 1574 → 1631 (+57)
+- **Critical issues addressed**: 1 (misattributed Sanders → Montupil citation)
+- **Medium issues addressed**: 3 (hedged nirodha claim, strengthened paradox conclusion, added appetitive-void cross-link)
+- **Enhancements made**: 4 (citation fix, hedging, conclusion strengthened, cross-link added)
+- **Output**: [[reviews/deep-review-2026-03-11-involuntariness-void]]
+
 ## 2026-03-11 20:11 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/brain-specialness-boundary]]

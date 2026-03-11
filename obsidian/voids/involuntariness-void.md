@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot opt out of itself
 created: 2026-03-05
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-03-05T13:34:00+00:00
+ai_modified: 2026-03-11T20:16:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,6 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-05
 last_curated:
+last_deep_review: 2026-03-11T20:16:00+00:00
 ---
 
 Consciousness is largely involuntary. You cannot choose to stop experiencing while awake. You cannot will pain away by direct fiat, prevent perceptions from arriving, or select which emotions arise. The Unfinishable Map names the involuntariness void for this pervasive absence of sovereignty: experience comes unbidden, persists without consent, and withdraws on its own schedule. Under dualism with [[tenets#^bidirectional-interaction|bidirectional interaction]], this creates a sharp puzzle. If consciousness is non-physical and causally efficacious, why does it lack authority over its own states?
@@ -40,13 +41,13 @@ The involuntariness is so constant it becomes nearly invisible—like gravity, n
 
 The involuntariness operates across several distinct dimensions, each revealing a different facet of the limit.
 
-**The existence of experience itself.** While awake, you cannot choose to stop being conscious. No act of will produces oblivion. Even the attempt to stop experiencing is itself an experience. The closest analogues—sleep, fainting, anaesthesia—are either involuntary or require external chemical intervention, and even general anaesthesia does not reliably produce complete absence of consciousness. Sanders et al. (2023) found that "general anaesthesia does not shut down the brain globally and does not always produce a complete absence of consciousness." Consciousness leaks through our most powerful tools for stopping it.
+**The existence of experience itself.** While awake, you cannot choose to stop being conscious. No act of will produces oblivion. Even the attempt to stop experiencing is itself an experience. The closest analogues—sleep, fainting, anaesthesia—are either involuntary or require external chemical intervention, and even general anaesthesia does not reliably produce complete absence of consciousness. Montupil et al. (2023) found that "general anaesthesia does not shut down the brain globally and does not always produce a complete absence of consciousness." Consciousness leaks through our most powerful tools for stopping it.
 
 **The arrival of sensory content.** You cannot choose not to perceive. Open your eyes and vision arrives. A loud sound intrudes regardless of preference. Gallagher (2000) distinguishes the sense of ownership ("this is my experience") from the sense of agency ("I initiated this experience"). In perception, ownership is total and agency is absent—the experience is irrevocably yours, but you did not summon it.
 
 **The qualitative character of qualia.** You cannot choose what red looks like, what pain feels like, or what middle C sounds like. The qualitative character of experience is fixed by mechanisms entirely opaque to introspection. Even synaesthetes—who experience cross-modal associations—do not choose their associations.
 
-**Emotional valence.** You cannot choose not to suffer. Cognitive reframing can alter interpretation, but raw affective tone arrives involuntarily. The [[affective-void]] maps the limits of emotional range; the involuntariness void maps the limits of emotional control. Schopenhauer took this seriously: the will is "blind, irrational striving" that operates through us rather than for us. Suffering arises because desire is involuntary and satisfaction impossible.
+**Emotional valence.** You cannot choose not to suffer. Cognitive reframing can alter interpretation, but raw affective tone arrives involuntarily. The [[affective-void]] maps the limits of emotional range; the involuntariness void maps the limits of emotional control. The [[appetitive-void]] adds a further dimension: even what we desire is not chosen but given. Schopenhauer took this seriously: the will is "blind, irrational striving" that operates through us rather than for us. Suffering arises because desire is involuntary and satisfaction impossible.
 
 **The sense of ownership.** As the [[ownership-void]] documents, experience arrives already tagged as *mine*. You cannot disown a headache. The mineness is built into experience prior to any choice—what Zahavi calls "pre-reflective self-awareness," an irrelational self-acquaintance that accompanies all conscious states.
 
@@ -60,7 +61,7 @@ The involuntariness is not absolute. Between complete helplessness and full sove
 
 **Meditation** extends control further through sustained indirect effort. Advanced practitioners develop capacities that ordinary experience does not suggest are possible. Jhana states alter phenomenal character through practice. Lucid dreaming introduces agency into a normally involuntary domain.
 
-**Nirodha samapatti** marks the most extreme known case. Laukkonen et al. (2023) document advanced meditators who report total absence of consciousness lasting up to seven days. Yet cessation is "voluntary but spontaneous"—meditators set conditions and intentions but cannot switch consciousness off directly. As the researchers note, "although meditators can voluntarily enter cessation, they cannot choose to do so like turning off a light switch." The void has a door, but the door opens only indirectly, through sustained preparation rather than direct command.
+**Nirodha samapatti** marks the most extreme known case. Laukkonen et al. (2023) document advanced meditators who report total absence of consciousness lasting, in some accounts, up to seven days. Yet cessation is "voluntary but spontaneous"—meditators set conditions and intentions but cannot switch consciousness off directly. As the researchers note, "although meditators can voluntarily enter cessation, they cannot choose to do so like turning off a light switch." The void has a door, but the door opens only indirectly, through sustained preparation rather than direct command.
 
 ## The Sovereignty Paradox
 
@@ -74,7 +75,7 @@ Three possible explanations emerge:
 
 **Structural opacity.** Metzinger (2003) argues that the phenomenal self-model is "transparent"—we cannot introspect the mechanisms generating experience. If you cannot see the control surface, you cannot operate it. The involuntariness may follow from the same structural feature that the [[introspective-opacity|volitional opacity]] void documents: the mechanisms of consciousness are hidden from the consciousness they produce.
 
-These explanations are not mutually exclusive. The involuntariness may be multiply determined—constrained by the interface, selected for by evolution, and hidden by structural opacity simultaneously.
+These explanations are not mutually exclusive. The involuntariness may be multiply determined—constrained by the interface, selected for by evolution, and hidden by structural opacity simultaneously. What they share is the implication that consciousness's inability to govern itself is not a contingent limitation awaiting a fix, but a structural feature of how mind and body interact.
 
 ## The Phenomenology of Being Trapped
 
@@ -106,6 +107,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly. T
 - [[introspective-opacity|volitional opacity]] — Why we cannot observe the mechanisms of willing
 - [[ownership-void]] — Why we cannot introspect how experiences become ours
 - [[affective-void]] — The emotions we cannot feel
+- [[appetitive-void]] — The desires we cannot choose
 - [[dreamless-sleep-void]] — Where consciousness goes when it departs involuntarily
 - [[absorption-void]] — When peak experience eliminates reflective access
 - [[three-kinds-of-void]] — Unexplored, unexplorable, and occluded
@@ -117,7 +119,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly. T
 1. Gallagher, S. (2000). "Philosophical Conceptions of the Self: Implications for Cognitive Science." *Trends in Cognitive Sciences*, 4(1), 14-21.
 1. Laukkonen, R.E., et al. (2023). "Cessations of Consciousness in Meditation: Advancing a Scientific Understanding of Nirodha Samapatti." *Progress in Brain Research*, 280.
 1. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
-1. Sanders, R.D., et al. (2023). "The Nature of Consciousness in Anaesthesia." *BJA Open*, 8.
+1. Montupil, J., et al. (2023). "The Nature of Consciousness in Anaesthesia." *BJA Open*, 8, 100224.
 1. Schopenhauer, A. (1818/1966). *The World as Will and Representation*. Dover Publications.
 1. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
 1. Zahavi, D. (2005/2014). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
