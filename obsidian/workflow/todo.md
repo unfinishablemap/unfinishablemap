@@ -205,6 +205,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Placebo content-specificity, anaesthetic dissociation patterns, and psychiatric phenomenology jointly constrain the consciousness-matter interface but are never unified. Synthesis showing convergence across clinical domains would be powerful. Builds on placebo-effect-and-mental-causation, anaesthesia-and-the-consciousness-interface, phenomenological-psychiatry-and-altered-experience. See optimistic-2026-03-11-evening.md
 - **Generated**: 2026-03-11
 
+### P3: Write article on epistemology of contemplative evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. When and why first-person reports should be trusted, how training improves reliability, what norms govern phenomenological research. The Contemplative Path apex touches this but doesn't develop it into a standalone epistemological framework. Builds on contemplative-path, contemplative-practice-as-philosophical-evidence, introspection, epistemic-advantages-of-dualism. See optimistic-2026-03-11-night.md
+- **Generated**: 2026-03-11
+
+### P3: Write article on void interactions and compound cognitive limits
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Taxonomy of Voids apex mentions compound limits — emergent failure modes that no single void predicts — but this interaction pattern deserves deeper treatment. How do specific voids reinforce each other? Do compound limits have emergent failure signatures? Builds on taxonomy-of-voids, compound-cognitive-limits, self-reference-paradox, introspective-opacity. See optimistic-2026-03-11-night.md
+- **Generated**: 2026-03-11
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
