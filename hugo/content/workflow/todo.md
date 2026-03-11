@@ -133,12 +133,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Cross-review philosophy-of-emotion-under-dualism
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Review related articles (emotional-consciousness, emotion-as-evidence-for-dualism, void-of-self-knowledge-in-emotion) in light of new philosophy-of-emotion-under-dualism article. Add cross-references where appropriate.
-- **Generated**: 2026-03-11
-
 ### P2: Write article on phenomenology of perceptual learning
 - **Type**: expand-topic
 - **Status**: pending
@@ -384,6 +378,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Cross-review philosophy-of-emotion-under-dualism
+- **Type**: cross-review
+- **Notes**: Review related articles (emotional-consciousness, emotion-as-evidence-for-dualism, void-of-self-knowledge-in-emotion) in light of new philosophy-of-emotion-under-dualism article. Add cross-references where appropriate.
+- **Output**: None -- Context: Cross-review philosophy-of-emotion-under-dualism
 
 ### ✓ 2026-03-11: Write article on philosophy of emotion under dualism
 - **Type**: expand-topic

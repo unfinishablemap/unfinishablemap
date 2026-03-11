@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address gaps in philosophy-of-emotion-under-dualism
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) High: pain asymbolia overclaimed as "demonstrating" causal role of feeling when lesion confounds prevent clean dissociation. (2) Medium: debate framed as cognitivism vs somaticism, omitting constructionism (Barrett 2017) and enactivism. (3) Medium: Scheler's Wertnehmung presented without phenomenological counter-positions. (4) Medium: "not composite" argument begs the question by treating phenomenal unity as evidence for metaphysical simplicity. See pessimistic-2026-03-11-philosophy-of-emotion-under-dualism.md
+- **Generated**: 2026-03-11
+
 ### P3: Write article on temporal structure of consciousness as irreducibility evidence
 - **Type**: expand-topic
 - **Status**: pending
