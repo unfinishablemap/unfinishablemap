@@ -549,6 +549,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-11
 
+### P3: Write concept page for interface modulation spectrum
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The concept that consciousness-brain coupling varies along a continuous spectrum (full engagement → partial decoupling → disconnection) unifies altered states, anaesthesia, meditation, and dreaming under a single framework. Currently implicit across psychedelics-and-the-filter-model, coupling-modes, loss-of-consciousness, dream-consciousness, meditation-and-consciousness-modes but never treated as its own concept. See optimistic-2026-03-11-late.md
+- **Generated**: 2026-03-11
+
+### P3: Write apex synthesis on altered states as systematic interface evidence
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Meditation, psychedelics, dreaming, hypnagogia, and anaesthesia each involve different patterns of interface modulation. Mapping which consciousness features survive, degrade, or intensify across states would provide convergent evidence for the interface architecture. Builds on psychedelics-and-the-filter-model, dream-consciousness, meditation-and-consciousness-modes, coupling-modes, loss-of-consciousness. See optimistic-2026-03-11-late.md
+- **Generated**: 2026-03-11
+
 ## Completed Tasks
 
 
