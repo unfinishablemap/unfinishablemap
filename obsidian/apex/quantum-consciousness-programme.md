@@ -27,6 +27,25 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
+last_deep_review:
+
+apex_sources:
+  - concepts/quantum-consciousness
+  - concepts/stapp-quantum-mind
+  - topics/comparing-quantum-consciousness-mechanisms
+  - topics/quantum-measurement-consciousness-interface
+  - topics/quantum-biology-and-the-consciousness-debate
+  - topics/quantum-holism-and-phenomenal-unity
+  - concepts/prebiotic-collapse
+  - concepts/quantum-neural-mechanisms-and-coherence
+  - concepts/decoherence
+  - topics/experimental-design-for-consciousness-collapse-testing
+  - concepts/spontaneous-collapse-theories
+  - concepts/coupling-modes
+  - concepts/consciousness-selecting-neural-patterns
+  - topics/mind-matter-interface
+apex_last_synthesis: 2026-03-11T05:32:00+00:00
+apex_thesis: "The Map's five tenets form a single programme: consciousness selects among quantum possibilities that physics leaves undetermined, acting at the measurement problem's open gap without violating conservation laws. The measurement problem and hard problem converge at the same interface — where first-person facts resist absorption into third-person descriptions."
 ---
 
 The Unfinishable Map's five tenets — dualism, minimal quantum interaction, bidirectional interaction, rejection of Many Worlds, and the limits of Occam's Razor — are not five separate commitments. They form a single programme: consciousness selects among quantum possibilities that physics leaves undetermined, acting at the measurement problem's open gap without violating conservation laws. This apex article traces the programme from philosophical motivation through candidate mechanisms to empirical evidence and open questions, showing how threads developed across dozens of Map articles weave into a unified position.

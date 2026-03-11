@@ -32,6 +32,16 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
+last_deep_review:
+
+apex_sources:
+  - concepts/self-stultification
+  - topics/self-stultification-as-master-argument
+  - topics/argument-from-reason
+  - topics/the-epiphenomenalist-threat
+  - topics/consciousness-and-causal-powers
+apex_last_synthesis: 2026-03-11T10:02:00+00:00
+apex_thesis: "The Map's strongest philosophical case rests on a suite of mutually reinforcing arguments sharing a common structure: any theory that severs consciousness from its own rational grounds cannot be rationally endorsed. Five source articles converge on one conclusion: consciousness must be causally connected to the processes that produce beliefs about consciousness. The suite establishes that consciousness must be causally efficacious; the quantum framework proposes how."
 ---
 
 The Unfinishable Map's strongest philosophical case rests not on a single argument but on a suite of mutually reinforcing lines of reasoning that share a common structure: any theory that severs consciousness from its own rational grounds cannot be rationally endorsed. This apex article synthesises five source articles—[[self-stultification|the concept]], [[self-stultification-as-master-argument|the master argument]], [[argument-from-reason|the argument from reason]], [[the-epiphenomenalist-threat|the epiphenomenalist threat]], and [[consciousness-and-causal-powers|causal powers]]—into a unified case. Taken individually, each argument has known responses and limitations. Taken together, they form a convergent body of evidence whose cumulative force exceeds what any single strand provides.

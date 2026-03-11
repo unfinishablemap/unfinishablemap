@@ -29,6 +29,8 @@ First, check if the source research has a `target_section` field in its frontmat
 
 **Section caps**: Section caps are enforced by the evolution loop in Python before this skill is invoked. P0/P1 tasks are allowed to exceed caps; P2+ tasks are skipped before reaching this skill. If you are running, you are allowed to create the article — pick the best-fit section regardless of count.
 
+**Never place articles in `obsidian/apex/`.** Apex articles are created exclusively by `/apex-evolve`. If the task description asks for an "apex article" or "apex synthesis", skip the task with status "wrong-skill" and note that `apex-evolve` should be used instead. **Never modify `obsidian/apex/apex-articles.md`** — the approved apex article list is curated by humans only.
+
 Otherwise, apply this priority order (favour voids and topics over concepts):
 
 1. **Voids** (`obsidian/voids/[slug].md`) — if the article explores:
