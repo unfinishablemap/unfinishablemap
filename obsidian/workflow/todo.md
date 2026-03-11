@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-11T20:52:00+00:00
+ai_modified: 2026-03-11T22:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review attention-as-interface.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Core concept page on attention as the mechanism through which consciousness interfaces with neural processes — directly relevant to the Map's central framework and Tenet 2 (Minimal Quantum Interaction). Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P2: Deep review interactionist-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Foundational concept page directly supporting Tenet 3 (Bidirectional Interaction). As a core tenet concept, quality and accuracy are critical. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P2: Deep review episodic-memory.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Concept page on episodic memory and autonoetic consciousness — the capacity to mentally travel in time, relevant to temporal consciousness and the interface framework. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review pairing-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 36 days ago. The pairing problem is a major objection to substance dualism that the Map must address accurately. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review neurophenomenology.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-04 — 35 days ago. Concept page on neurophenomenology and contemplative science — methodologically relevant to the Map's treatment of first-person evidence. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review luck-objection.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 36 days ago. The luck objection to libertarian free will is an important challenge the Map needs to address given its commitment to Bidirectional Interaction. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
 
 ### P3: Deep review natural-vs-designed-limits.md
 - **Type**: deep-review
