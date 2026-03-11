@@ -4,7 +4,7 @@ description: "Consciousness actively shapes perception in two ways: stabilising 
 created: 2026-02-15
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T20:23:00+00:00
+ai_modified: 2026-03-11T20:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-11T20:58:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-perceptual-constancy/"
   - "/topics/phenomenology-of-perceptual-learning/"
@@ -57,17 +57,23 @@ The Unfinishable Map argues that both constancy and learning reveal consciousnes
 
 ### The Phenomenon
 
-Perceptual constancy is the tendency of conscious experience to represent objects as possessing stable properties even as proximal sensory stimulation varies dramatically (Palmer 1999). A banana appears yellow under daylight, incandescent light, and green-tinted shade. A person walking away projects a shrinking retinal image yet does not appear to shrink. A rectangular door swinging open projects a trapezoid onto the retina but is experienced as rectangular throughout. Coal in sunlight reflects more light than white paper in shadow, yet coal looks dark and paper looks bright.
+Perceptual constancy is the tendency of conscious experience to represent objects as possessing stable properties even as proximal sensory stimulation varies dramatically (Palmer 1999). A banana appears yellow under daylight, incandescent light, and green-tinted shade. A person walking away projects a shrinking retinal image yet does not appear to shrink. A rectangular door swinging open projects a trapezoid onto the retina but is experienced as rectangular throughout. Coal in sunlight reflects more light than white paper in shadow, yet coal looks dark and paper looks bright (Palmer 1999).
 
 These constancies are not occasional corrections. They are the default character of perception. Seeing *without* constancy — attending to raw proximal qualities — requires deliberate effort and training, as painters and phenomenologists know.
 
 ### Computation and Its Limits
 
-Cognitive science offers computational explanations: chromatic adaptation, illuminant estimation, relational processing, Bayesian inference, and [[predictive-processing-and-the-maps-framework|predictive processing]] frameworks that cast constancy as the brain maintaining stable priors while absorbing variable sensory signals as prediction error (Clark 2013; Hohwy 2013). These accounts are genuinely informative about *which information* the visual system uses and *how* it transforms retinal signals into stable percepts.
+Cognitive science offers computational explanations: chromatic adaptation, illuminant estimation, relational processing, Bayesian inference, and [[predictive-processing-and-the-maps-framework|predictive processing]] frameworks that cast constancy as the brain maintaining stable priors while absorbing variable sensory signals as prediction error (Clark 2013; Hohwy 2013). Land's (1977) retinex theory, for instance, demonstrated that colour perception depends on ratios of reflected light across a scene rather than absolute wavelengths — an elegant computational account. These models are genuinely informative about *which information* the visual system uses and *how* it transforms retinal signals into stable percepts.
 
 But the computational account stops at the threshold of the [[phenomenal-consciousness|hard problem]]. A thermostat maintains temperature constancy — sensing, computing, adjusting — without there being something it is like to achieve that stability. The computational account of colour constancy describes analogous mechanisms. What it cannot account for is that perceptual constancy is *experienced from a first-person point of view*. The stability is not just computed; it is undergone.
 
 The [[inverted-qualia]] thought experiment sharpens the point. Two systems could implement identical constancy functions — producing the same stable cortical representations under the same illumination changes — yet differ in what yellow *feels like*. The functional role of "stable colour representation" does not determine its qualitative character. What remains invariant in experience outruns what remains invariant in the computation.
+
+### The Enactivist Alternative
+
+Enactivists offer a distinct challenge. O'Regan and Noë (2001) argue that perceptual constancy is constituted by the perceiver's mastery of [[sensorimotor-contingencies-and-the-interface|sensorimotor contingencies]] — practical knowledge of how sensory signals change with movement. On this view, the banana appears yellow because the perceiver implicitly grasps how its appearance would shift under different lighting or viewing angles. No inner phenomenal representation is needed; constancy resides in the sensorimotor relationship itself.
+
+The enactivist account captures something important: perception is active, not passive. But the Map contends that sensorimotor mastery describes the *structure* of perceptual engagement without explaining its *qualitative character*. Two systems could master identical sensorimotor contingencies — demonstrating identical constancy behaviour — while differing in what yellow feels like, or whether there is anything it is like at all. The enactivist dissolves the hard problem by fiat rather than solving it.
 
 ### Phenomenological Structure
 
@@ -107,7 +113,7 @@ Several phenomenological features recur across domains of perceptual learning:
 
 Perceptual learning is largely irreversible. The literate adult cannot see text as mere visual pattern — the letters insist on being read. L.A. Paul (2014) captures a related point in her account of transformative experience: choices that alter phenomenal character are epistemically opaque precisely because the post-transformation perceiver has lost access to pre-transformation phenomenology.
 
-This creates what the Map calls a perceptual ratchet — a form of [[implicit-memory|implicit memory]] encoded not in beliefs but in perceptual structure itself. Each episode of perceptual learning clicks the mechanism forward. The irreversibility suggests perceptual learning does not merely adjust parameters in a fixed system. It restructures the system, driven by the [[neuroplasticity]] that consolidates these transformations in neural tissue. A parameter change could be reversed; a structural change — new perceptual objects, reorganised figure-ground relationships — creates a qualitatively different perceptual architecture.
+This creates what the Map calls a **perceptual ratchet** — a form of [[implicit-memory|implicit memory]] encoded not in beliefs but in perceptual structure itself. Each episode of perceptual learning clicks the mechanism forward. The irreversibility suggests perceptual learning does not merely adjust parameters in a fixed system. It restructures the system, driven by the [[neuroplasticity]] that consolidates these transformations in neural tissue. A parameter change could be reversed; a structural change — new perceptual objects, reorganised figure-ground relationships — creates a qualitatively different perceptual architecture. Polanyi (1966) captured a related insight with "tacit knowledge": the expert *indwells* their perceptual skills, unable to articulate precisely what changed yet undeniably perceiving differently.
 
 ### The Attentional Mechanism
 
@@ -134,6 +140,8 @@ And both face the same explanatory gap. Predictive processing frameworks describ
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Constancy involves attentional selection — choosing the stable distal interpretation — suggesting consciousness contributes to shaping what is perceived. Learning provides even stronger evidence: consciousness directs attention in ways that restructure what future perception delivers. The perceptual ratchet represents downward causation operating across developmental timescales — consciousness constructs its own future perceptual conditions through sustained engagement.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If the selection among competing perceptual interpretations involves quantum-level biasing, constancy may represent one of its most basic operations. Speculatively, perceptual learning may represent the cumulative effect of sustained selection pressure — each attentive engagement during training involving consciousness selecting among neural options, until new perceptual objects become structurally embedded and the interface has been tuned to deliver what consciousness selects for.
+
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The perceptual ratchet's irreversibility only makes sense if there is a single experiential trajectory. If every perceptual learning event branched into world-copies — one where training occurred and one where it did not — the question "what has this perceiver learned to see?" would have no determinate answer. The developmental history that makes the sommelier's palate *this* palate, shaped by *these* encounters, depends on a single unfolding rather than a branching multiverse.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The parsimonious account — that constancy is "just" computation and learning is "just" neural plasticity — leaves the phenomenal dimension unexplained. Neural plasticity tells us that cortical representations change; it does not tell us why those changes produce a *different experience*. Invoking simplicity here purchases economy by ignoring what is most in need of explanation.
 
@@ -165,6 +173,7 @@ And both face the same explanatory gap. Predictive processing frameworks describ
 1. Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
 1. Husserl, E. (1913/1983). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Translated by F. Kersten. Martinus Nijhoff.
 1. Land, E.H. (1977). The retinex theory of color vision. *Scientific American*, 237(6), 108-128.
+1. O'Regan, J.K. & Noë, A. (2001). A sensorimotor account of vision and visual consciousness. *Behavioral and Brain Sciences*, 24(5), 939-973.
 1. Palmer, S.E. (1999). *Vision Science: Photons to Phenomenology*. MIT Press.
 1. Paul, L.A. (2014). *Transformative Experience*. Oxford University Press.
 1. Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.
