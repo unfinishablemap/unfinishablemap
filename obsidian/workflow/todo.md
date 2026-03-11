@@ -411,12 +411,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has strong individual treatments of time and consciousness but no unified account of how temporal ontology constrains the selection interface. Growing block provides ontological framework; process haecceitism provides individuation; temporal becoming provides phenomenology. Together they form the Map's most original metaphysical contribution. Builds on growing-block-universe-and-consciousness.md, consciousness-and-temporal-becoming.md, temporal-ontology-and-consciousness.md, process-haecceitism.md. See optimistic-2026-03-09-evening.md
 - **Generated**: 2026-03-09
 
-### P2: Integrate autonoetic-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Autonoetic consciousness (self-knowing awareness of personal past/future) is referenced in episodic-memory.md and related articles but lacks inbound wikilinks. Add cross-references from memory, self, and temporal consciousness articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-10
-
 ### P2: Integrate consciousness-and-temporal-integration.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Temporal integration is central to the binding problem and temporal phenomenology clusters. Add cross-references from binding-problem, temporal-consciousness, and related articles.
@@ -449,6 +443,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Integrate autonoetic-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Autonoetic consciousness (self-knowing awareness of personal past/future) is referenced in episodic-memory.md and related articles but lacks inbound wikilinks. Add cross-references from memory, self, and temporal consciousness articles.
+- **Output**: autonoetic-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-11: Integrate consciousness-and-pain.md into site navigation
 - **Type**: integrate-orphan

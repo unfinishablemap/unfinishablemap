@@ -4,7 +4,7 @@ description: "Cognitive overload and automatisation reveal consciousness as a ba
 created: 2026-02-15
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-04T13:38:00+00:00
+ai_modified: 2026-03-11T03:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -76,7 +76,7 @@ The gradient has directional momentum — what Fitts and Posner (1967) codified 
 
 ### What Remains After Withdrawal
 
-When consciousness withdraws from an automatised process, something remains. A fluent reader no longer consciously decodes letter shapes, yet reading is not phenomenologically blank. There is still *something it is like* to read — a felt sense of meaning arriving. Tulving (1985) called this *anoetic consciousness*: a form of awareness that registers environmental contingencies without explicit self-awareness. The Map treats anoetic consciousness as a genuine, if minimal, mode of phenomenal experience.
+When consciousness withdraws from an automatised process, something remains. A fluent reader no longer consciously decodes letter shapes, yet reading is not phenomenologically blank. There is still *something it is like* to read — a felt sense of meaning arriving. Tulving (1985) called this *[[anoetic-noetic-autonoetic-consciousness|anoetic consciousness]]*: a form of awareness that registers environmental contingencies without explicit self-awareness. The Map treats anoetic consciousness as a genuine, if minimal, mode of phenomenal experience.
 
 This residual phenomenology matters. If automatised processes were genuinely unconscious — if there were nothing it is like to perform them — then automatisation would be the literal disappearance of experience from a domain. Instead, it is a *transformation*: from focal, deliberate, and articulable to peripheral, effortless, and resistant to verbal report. Dreyfus (2002) argued that expert performance proceeds without mental representations — skilled coping that bypasses deliberation entirely. The residual phenomenology the Map identifies suggests something more nuanced: not the absence of experience but its transformation into a mode that resists articulacy. Automatised skills retain [[phenomenal-consciousness|phenomenal character]] while losing reflective access.
 
@@ -158,6 +158,7 @@ The claim that cognitive capacity phenomenology is irreducible would face diffic
 - [[consciousness-and-the-neuroscience-of-deliberate-practice]] — How deliberate practice reflects conscious causal contribution
 - [[habituation-void]] — Where habituated experience meets the unchartable
 - [[bandwidth-of-consciousness]] — Why the interface has the bandwidth it does
+- [[anoetic-noetic-autonoetic-consciousness]] — Tulving's hierarchy including anoetic consciousness, the residual awareness in automatised skills
 - [[consciousness-and-the-phenomenology-of-constraint-satisfaction]] — The felt dynamics of navigating competing demands
 
 ## References

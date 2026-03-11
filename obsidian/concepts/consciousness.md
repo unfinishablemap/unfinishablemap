@@ -4,7 +4,7 @@ description: "Consciousness is what it is like to be something—the subjective 
 created: 2026-01-24
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-02-28T12:00:00+00:00
+ai_modified: 2026-03-11T03:23:00+00:00
 last_deep_review: 2026-02-25T12:47:00+00:00
 draft: false
 topics:
@@ -149,7 +149,7 @@ Consciousness varies along multiple dimensions:
 
 **Level**: The degree of consciousness from deep anaesthesia through drowsiness to full alertness. Level affects which contents can enter consciousness and how richly they are experienced.
 
-**Mode**: Different kinds of consciousness with distinct phenomenology. [[Autonoetic-consciousness|Autonoetic consciousness]] (episodic memory) involves mental time travel; [[witness-consciousness]] (contemplative practice) involves awareness without content; [[dream-consciousness|dream consciousness]] differs from waking perception. See [[types-of-consciousness]] for a comprehensive taxonomy of how consciousness varies structurally — across phenomenal character, access, monitoring, temporality, bandwidth, and unity.
+**Mode**: Different kinds of consciousness with distinct phenomenology. [[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]] (episodic memory) involves mental time travel; [[witness-consciousness]] (contemplative practice) involves awareness without content; [[dream-consciousness|dream consciousness]] differs from waking perception. See [[types-of-consciousness]] for a comprehensive taxonomy of how consciousness varies structurally — across phenomenal character, access, monitoring, temporality, bandwidth, and unity.
 
 **[[Temporal-consciousness|Temporal Structure]]**: Consciousness has intrinsic temporal organisation—the [[temporal-consciousness|specious present]], memory, anticipation. We don't experience point-instants but extended moments with retention and protention.
 

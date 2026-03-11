@@ -4,7 +4,7 @@ description: "Baseline cognition is what neural systems achieve without consciou
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-04T22:18:50+00:00
+ai_modified: 2026-03-11T03:23:00+00:00
 last_deep_review: 2026-03-04T11:07:00+00:00
 draft: false
 topics:
@@ -196,7 +196,7 @@ Several considerations resist this move:
 
 The baseline cognition hypothesis doesn't deny great ape consciousness. Great apes likely have genuine phenomenal experience: emotional consciousness, perceptual consciousness, basic social consciousness. The proposal is that human and great ape consciousness differ *qualitatively*—not merely in complexity but in kind.
 
-Great apes may possess access consciousness (information available for behaviour) without the full reflexive consciousness humans possess (consciousness that can take itself as object). They experience without necessarily experiencing that they experience—a distinction central to [[introspection|introspective]] capacity and the limits thereof.
+Great apes may possess access consciousness (information available for behaviour) without the full reflexive consciousness humans possess (consciousness that can take itself as object). They experience without necessarily experiencing that they experience—a distinction central to [[introspection|introspective]] capacity and the limits thereof. Tulving's [[anoetic-noetic-autonoetic-consciousness|tripartite hierarchy]] maps this gradient: great apes likely operate at the anoetic and noetic levels while lacking the autonoetic self-awareness that characterises human temporal self-projection.
 
 This connects to [[minimal-consciousness|minimal consciousness]] research. Consciousness may admit of degrees and kinds. The question isn't "conscious or not?" but "what kind of consciousness, supporting what cognitive operations?"
 
@@ -263,6 +263,7 @@ The baseline cognition hypothesis could be undermined by:
 - [[topics/free-will]] — How conscious deliberation supports libertarian free will
 - [[counterfactual-reasoning]] — The capacity to imagine non-actual states, requiring consciousness
 - [[introspection]] — The capacity to examine one's own mental states
+- [[anoetic-noetic-autonoetic-consciousness]] — Tulving's tripartite hierarchy of consciousness levels underlying the baseline/human distinction
 - [[delegatory-dualism]] — Saad's causal structure for how consciousness amplifies without overdetermination
 - [[causal-delegation]] — The mechanism by which physical states hand off causal work to experiences
 - [[consciousness-independent-baseline-cognition-2026-01-21]] — Research notes underlying this article
