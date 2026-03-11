@@ -4,7 +4,7 @@ description: "Cognitive science presupposes methodological materialism, yet its 
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-11T23:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-05
 last_curated:
-last_deep_review: 2026-02-06T16:08:00+00:00
+last_deep_review: 2026-03-11T23:02:00+00:00
 ---
 
 Cognitive science operates under methodological materialism — it studies the mind by measuring brain activity, reaction times, and behavioural outputs. This makes it a powerful tool for mapping cognitive architecture, but it also creates a structural blind spot: the methods presuppose that mental phenomena are exhaustively captured by third-person measurement. When cognitive science investigates dualism, it tends to frame the question as whether people *believe* in dualism, not whether dualism is *true*. The Unfinishable Map argues that cognitive science's own findings — the irreducibility of first-person report, the variability of mind-body intuitions, and the persistent explanatory gap — actually complicate the materialist framework the field assumes.
@@ -43,7 +43,7 @@ The problem is not that cognitive science uses third-person methods. All empiric
 
 ### Intuitive Mind-Body Reasoning Is Variable
 
-The most direct contribution of cognitive science to the dualism debate concerns [[intuitive-dualism|whether humans naturally separate mind from body]]. The evidence is surprisingly mixed. Paul Bloom (2004) argued humans are "natural-born dualists" with separate cognitive systems for physical objects and mental agents. Barrett et al. (2021) found the opposite across six cultures: most people default to **intuitive materialism**, expecting mental states to cease at death. Barlev and Shtulman (2021) proposed that dualist beliefs are *learned* rather than innate.
+The most direct contribution of cognitive science to the dualism debate concerns [[intuitive-dualism|whether humans naturally separate mind from body]]. The evidence is surprisingly mixed. Paul Bloom (2004) argued humans are "natural-born dualists" with separate cognitive systems for physical objects and mental agents. Barrett et al. (2021) found a more complicated picture across six cultures: many participants defaulted to **intuitive materialism**, expecting mental states to cease at death, though results varied by culture and cognitive domain. Barlev and Shtulman (2021) proposed that dualist beliefs are *learned* rather than innate.
 
 This variability matters for a reason materialists often overlook. If dualism were merely folk error — a cognitive bias like the gambler's fallacy — we'd expect it to be universal and automatic. Instead, dualist thinking appears to require cultural scaffolding and reflective thought. This makes it look less like a bias and more like a position people arrive at through reasoning, much as heliocentrism required education to grasp despite being correct.
 
@@ -63,7 +63,7 @@ Embodied cognition actually sharpens the hard problem. If cognition is so thorou
 
 ### Predictive Processing Leaves Consciousness Unexplained
 
-Predictive processing frameworks (Clark 2013, Hohwy 2013) model the brain as a prediction machine that minimises surprise by generating top-down expectations and comparing them to bottom-up sensory input. This framework explains perception, attention, and action with unusual elegance. What it does not explain is why these predictions feel like anything.
+[[predictive-processing|Predictive processing]] frameworks (Clark 2013, Hohwy 2013) model the brain as a prediction machine that minimises surprise by generating top-down expectations and comparing them to bottom-up sensory input. This framework explains perception, attention, and action with unusual elegance. What it does not explain is why these predictions feel like anything.
 
 The prediction error that signals "unexpected red" could occur in a system with no phenomenal experience at all. Predictive processing describes the *computational architecture* of cognition, not the *phenomenal character* of experience. The mathematical formalism of Karl Friston's free energy principle describes brain function without reference to [[consciousness]] — though Friston himself has attempted to connect the framework to experience, the formalism operates entirely in terms of prediction error minimisation. The [[explanatory-gap]] persists: we can model what the brain *computes* while remaining silent on what the brain *experiences*.
 
@@ -88,6 +88,8 @@ This does not mean cognitive science is useless for the dualism debate. It means
 The Unfinishable Map holds that cognitive science provides valuable evidence about the architecture of mind while being structurally unable to adjudicate the metaphysical question of dualism.
 
 The [[tenets#^dualism|Dualism tenet]] does not rest on cognitive naturalness or folk intuition. It rests on philosophical arguments — the explanatory gap, conceivability, and the knowledge argument — that cognitive science has not dissolved. The field's own dependence on first-person report as irreducible data actually supports the tenet: if subjective experience were fully captured by third-person description, cognitive science would not need to ask subjects what they see.
+
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] finds indirect support in cognitive science's methodological dependence on first-person report. Every neural correlate study requires subjects to tell experimenters what they experience — information about [[consciousness]] flowing into the physical domain through speech and behaviour. If consciousness were epiphenomenal, this information flow would be accidental, making the entire methodology of cognitive neuroscience unreliable. The field's own practice presupposes that conscious experience causally contributes to verbal and behavioural outputs.
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] occupies a domain cognitive science cannot currently probe. If quantum events play a role in neural systems as the Map proposes, they operate orders of magnitude faster than the hundreds-of-milliseconds timescale at which cognitive methods measure. The absence of cognitive-scientific evidence for quantum-level [[mental-causation]] reflects methodological limitations, not ontological absence.
 

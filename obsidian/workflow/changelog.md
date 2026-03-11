@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 23:02 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/cognitive-science-of-dualism]]
+- **Word count**: 1894 → 1977 (+83)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [[reviews/deep-review-2026-03-11-cognitive-science-of-dualism]]
+
 ## 2026-03-11 22:57 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/brain-interface-boundary]]
