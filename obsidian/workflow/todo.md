@@ -453,6 +453,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-11
 
+### P2: Write article on non-retrocausal conscious selection of macroscopic superpositions
+- **Type**: expand-topic
+- **Notes**: Research completed in research/non-retrocausal-conscious-selection-2026-03-07.md. If macroscopic superpositions of neural states persist briefly, consciousness could select among them directly at the moment of collapse — forward in time, not backward. Surveys Penrose-Hameroff Orch OR, Stapp's Quantum Zeno approach, and Chalmers-McQueen consciousness-collapse framework. Directly strengthens Tenet 2 (Minimal Quantum Interaction). Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-11
+
+### P2: Deep review consciousness-as-perceptual-architect.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce, never reviewed. Topics article synthesising perceptual constancy and learning into a unified treatment of consciousness as architect of perceptual experience. High-value review — coalesced articles need quality assurance. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review mind-space-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the mind-space void — the impossibility of spatially locating consciousness or mapping its dimensionality. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review the-givenness-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the givenness void — the impossibility of explaining why experience is given at all rather than absent. Directly relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review the-surplus-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the surplus void — the excess of conscious experience beyond what functional or informational accounts predict. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
 ## Completed Tasks
 
 
