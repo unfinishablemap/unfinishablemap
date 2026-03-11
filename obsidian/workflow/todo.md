@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review convergence-of-the-void-catalogue.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Meta-level voids article cataloguing patterns across the void collection. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P3: Deep review capability-division-problem.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the problem of dividing capabilities between brain and consciousness — directly relevant to the Map's interface framework. Verify coherence, cross-references, and tenet alignment.
@@ -419,6 +413,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Deep review convergence-of-the-void-catalogue.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Meta-level voids article cataloguing patterns across the void collection. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/convergence-of-the-void-catalogue.md
 
 ### ✓ 2026-03-11: Integrate consciousness-and-normative-authority.md into site navigation
 - **Type**: integrate-orphan

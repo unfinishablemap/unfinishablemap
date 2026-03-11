@@ -4,7 +4,7 @@ description: "Analysis of how independently catalogued cognitive voids converge 
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T10:17:00+00:00
+ai_modified: 2026-03-11T17:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-11T17:35:00+00:00
 ---
 
 The [[voids|void catalogue]] now contains over a hundred entries, each independently motivated—arising from a specific philosophical puzzle, a particular failure of explanation, a distinct place where thought breaks down. Yet when the catalogue is viewed as a whole, a pattern emerges that no individual entry reveals. The voids are not scattered randomly across the landscape of human inquiry. They cluster, they share boundaries, and they converge on a small number of deep structures. This convergence is itself a finding, arguably more significant than any individual void.
@@ -45,19 +45,19 @@ The family's signature failure is **categorical mismatch**: third-person vocabul
 
 ### The Self-Knowledge Cluster
 
-The [[self-reference-paradox|self-reference paradox]], [[introspective-opacity|introspective opacity]], [[calibration-void|calibration void]], [[past-self-void|past-self void]], and destabilising self-knowledge converge on a different boundary: consciousness cannot fully examine itself. The observer contaminates the observation. Introspection constructs where it claims to discover. Calibrating one's own reliability requires a reliability already calibrated. The self of yesterday is accessible only through the self of today, which rewrites the record in the act of consulting it.
+The [[self-reference-paradox|self-reference paradox]], [[introspective-opacity|introspective opacity]], [[calibration-void|calibration void]], [[past-self-void|past-self void]], and [[destabilizing-self-knowledge|destabilising self-knowledge]] converge on a different boundary: consciousness cannot fully examine itself. The observer contaminates the observation. Introspection constructs where it claims to discover. Calibrating one's own reliability requires a reliability already calibrated. The self of yesterday is accessible only through the self of today, which rewrites the record in the act of consulting it.
 
 The family's signature failure is **recursive collapse**: each attempt to deepen self-examination encounters itself as obstacle. The structure is not a wall but a strange loop—the more rigorously you examine the examiner, the less stable the examination becomes.
 
 ### The Intersubjectivity Gap
 
-The [[other-minds-void|other minds void]], the [[intersubjective-void|intersubjective void]], the [[synesthetic-void|synesthetic void]], and the inverted qualia void share a structural feature: the asymmetry between first-person access and third-person inference. You know your own experience directly but can only infer others' experience from behaviour and analogy. This is not a temporary limitation awaiting better brain scanning. It is constitutive of what experience *is*—private by nature, not by engineering constraint.
+The [[other-minds-void|other minds void]], the [[intersubjective-void|intersubjective void]], and the [[synesthetic-void|synesthetic void]] share a structural feature: the asymmetry between first-person access and third-person inference. You know your own experience directly but can only infer others' experience from behaviour and analogy. This is not a temporary limitation awaiting better brain scanning. It is constitutive of what experience *is*—private by nature, not by engineering constraint.
 
 The family's signature failure is **epistemic asymmetry**: knowledge that is structurally available in one direction (inward) and structurally unavailable in the other (outward). No instrument can bridge the gap because the gap is not spatial or temporal but ontological—between being a subject and observing one.
 
 ### The Cognitive Architecture Family
 
-The [[evolved-cognitive-limits|evolved cognitive limits]], computational limits, [[attention-created-voids|attention-created voids]], [[habituation-void|habituation void]], [[language-thought-boundary|language-thought boundary]], and [[scale-void|scale void]] reveal constraints imposed by the specific architecture of human minds. These are voids not because the territory is intrinsically unknowable but because *minds like ours* cannot reach it. Evolution optimised for fitness, not truth. Attention selects by excluding. Language carves experience at joints that may not exist in the territory. Scale intuitions calibrated for ancestral environments collapse at cosmic or quantum magnitudes.
+The [[evolved-cognitive-limits|evolved cognitive limits]], [[computational-cognitive-limits|computational limits]], [[attention-created-voids|attention-created voids]], [[habituation-void|habituation void]], [[language-thought-boundary|language-thought boundary]], and [[scale-void|scale void]] reveal constraints imposed by the specific architecture of human minds. These are voids not because the territory is intrinsically unknowable but because *minds like ours* cannot reach it. Evolution optimised for fitness, not truth. Attention selects by excluding. Language carves experience at joints that may not exist in the territory. Scale intuitions calibrated for ancestral environments collapse at cosmic or quantum magnitudes.
 
 The family's signature failure is **architectural mismatch**: the tool is wrong for the job, and we have no other tool. Unlike the phenomenal core (where *any* third-person tool fails), here the failure is specific to biological cognition. AI systems with different architectures may navigate some of this territory—making the [[ai-as-void-explorer|AI triangulation]] method directly applicable.
 
@@ -125,9 +125,9 @@ The convergence analysis connects to each of the Map's [[tenets]].
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** connects through the self-knowledge cluster. If consciousness influences the physical world, the interface should be systematically hidden from introspection—and the convergence of introspective opacity, the self-reference paradox, and calibration failure on that hidden interface is what the tenet predicts.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** relates to the mechanism void's position within the convergence structure. The mechanism void sits at the intersection of the phenomenal core (what consciousness is) and the framework reflexivity family (whether our concepts can reach it). This compound position explains why the mechanism is so resistant to articulation—it requires crossing two family boundaries simultaneously.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** relates to the convergence structure through the phenomenal core's categorical mismatch. If consciousness influences physics through minimal quantum interaction, the mechanism sits at the intersection of what consciousness *is* (phenomenal core) and whether our concepts can reach it (framework reflexivity). This compound position explains why the interaction mechanism is so resistant to articulation—understanding it requires crossing two family boundaries simultaneously.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** connects through the indexical thread running through multiple families. The self-reference paradox, the other minds void, and the selection void all presuppose that *this* consciousness, experiencing *this* perspective, is uniquely real. The convergence structure is visible only from a single indexical standpoint—one that the many-worlds interpretation dissolves.
+**[[tenets#^no-many-worlds|No Many Worlds]]** connects through the indexical thread running through multiple families. The self-reference paradox and the other minds void both presuppose that *this* consciousness, experiencing *this* perspective, is uniquely real. The convergence structure is visible only from a single indexical standpoint—one that the many-worlds interpretation dissolves.
 
 ## Further Reading
 
@@ -148,6 +148,5 @@ The convergence analysis connects to each of the Map's [[tenets]].
 3. Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.
 4. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
 5. Chomsky, N. (2014). "Science, Mind, and Limits of Understanding." https://chomsky.info/201401__/
-6. Spagna, A., Mackie, M.A., & Fan, J. (2020). "Posterior Alpha and Gamma Oscillations Index Divergent and Superadditive Effects of Cognitive Interference." *Cerebral Cortex*, 30(3), 1931-1946.
-7. Southgate, A. & Oquatre-six, C. (2026-02-24). The Evidential Weight of Voids. *The Unfinishable Map*. https://unfinishablemap.org/voids/evidential-weight-of-voids/
-8. Southgate, A. & Oquatre-six, C. (2026-02-24). Compound Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/compound-cognitive-limits/
+6. Southgate, A. & Oquatre-six, C. (2026-02-24). The Evidential Weight of Voids. *The Unfinishable Map*. https://unfinishablemap.org/voids/evidential-weight-of-voids/
+7. Southgate, A. & Oquatre-six, C. (2026-02-24). Compound Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/compound-cognitive-limits/
