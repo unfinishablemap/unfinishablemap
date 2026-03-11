@@ -4,7 +4,7 @@ description: "Why consciousness constitutes time's felt direction—the phenomen
 created: 2026-02-15
 modified: 2026-02-27
 human_modified:
-ai_modified: 2026-02-27T22:45:00+00:00
+ai_modified: 2026-03-11T06:32:00+00:00
 last_deep_review: 2026-02-27T22:45:00+00:00
 draft: false
 topics:
@@ -31,7 +31,6 @@ related_articles:
   - "[[tenets]]"
   - "[[temporal-ontology-and-consciousness]]"
   - "[[temporal-structure-of-consciousness]]"
-  - "[[consciousness-and-temporal-integration]]"
   - "[[temporal-asymmetry-remembering-anticipating]]"
   - "[[temporal-void]]"
   - "[[time-collapse-and-agency]]"
@@ -188,7 +187,6 @@ A materialist can claim temporal flow is an outright illusion—a cognitive arti
 ## Further Reading
 
 - [[temporal-structure-of-consciousness]] — How consciousness and time depend on each other
-- [[consciousness-and-temporal-integration]] — How moments bind into temporal flow
 - [[temporal-asymmetry-remembering-anticipating]] — The specific void of memory versus anticipation
 - [[temporal-void]] — Why consciousness cannot escape the present
 - [[time-collapse-and-agency]] — Collapse, free will, and time's arrow

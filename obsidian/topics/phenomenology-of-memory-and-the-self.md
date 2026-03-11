@@ -4,7 +4,7 @@ description: "Remembering is not retrieving stored data but re-inhabiting a pers
 created: 2026-02-13
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-03T23:41:00+00:00
+ai_modified: 2026-03-11T06:32:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[past-self-void]]"
   - "[[memory-void]]"
   - "[[social-construction-of-self-vs-phenomenal-self]]"
-  - "[[consciousness-and-temporal-integration]]"
+  - "[[temporal-structure-of-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

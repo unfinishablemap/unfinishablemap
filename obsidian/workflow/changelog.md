@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 06:32 UTC - deep-review
+- **Status**: Success (structural — stale link remediation)
+- **File**: [[topics/consciousness-and-temporal-integration]] (archived → [[topics/temporal-structure-of-consciousness]])
+- **Finding**: Article archived 2026-02-23, coalesced into Temporal Structure of Consciousness. 12 topic files still had stale wikilinks to archived article.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 12 (stale wikilinks updated across 12 topic files)
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-03-11-consciousness-and-temporal-integration]]
+
 ## 2026-03-11 06:17 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/resolution-bandwidth-interface]]

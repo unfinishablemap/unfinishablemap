@@ -4,7 +4,7 @@ description: "Exploring how consciousness transforms the problem of induction fr
 created: 2026-02-15
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-02-24T12:14:00+00:00
+ai_modified: 2026-03-11T06:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[phenomenology-of-epistemic-judgment]]"
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[consciousness-and-semantic-understanding]]"
-  - "[[consciousness-and-temporal-integration]]"
+  - "[[temporal-structure-of-consciousness]]"
   - "[[consciousness-and-normative-force]]"
   - "[[contemplative-epistemology]]"
   - "[[self-stultification]]"
@@ -74,7 +74,7 @@ A deeper point emerges when the relationship between consciousness and induction
 
 Inductive reasoning requires capacities that resist purely physical explanation:
 
-- **[[consciousness-and-temporal-integration|Temporal integration]]**: Holding past instances together with a projected future in a [[unity-of-consciousness|unified field of awareness]]. Recurrent neural networks and memory traces can store and retrieve information, but the inductive reasoner does something more: they grasp that these events *form a sequence leading somewhere*. [[consciousness-and-semantic-understanding|Semantic understanding]] of what a "pattern" means requires more than statistical correlation—it requires a subject for whom the pattern is *about* something.
+- **[[temporal-structure-of-consciousness|Temporal integration]]**: Holding past instances together with a projected future in a [[unity-of-consciousness|unified field of awareness]]. Recurrent neural networks and memory traces can store and retrieve information, but the inductive reasoner does something more: they grasp that these events *form a sequence leading somewhere*. [[consciousness-and-semantic-understanding|Semantic understanding]] of what a "pattern" means requires more than statistical correlation—it requires a subject for whom the pattern is *about* something.
 
 - **[[consciousness-and-counterfactual-reasoning|Counterfactual assessment]]**: Evaluating what *would* happen under conditions that have not been observed. Induction relies not just on what has occurred but on our grasp of what could and could not occur. This modal reasoning—holding actual and merely possible scenarios together in deliberation—appears tied to the kind of conscious evaluation that the [[phenomenology-of-deliberation-under-uncertainty|phenomenology of deliberation]] reveals.
 
@@ -108,7 +108,7 @@ The Map's tenets illuminate the consciousness-induction relationship in several 
 - [[phenomenology-of-epistemic-judgment]]
 - [[phenomenology-of-epistemic-judgment]]
 - [[consciousness-and-semantic-understanding]]
-- [[consciousness-and-temporal-integration]]
+- [[temporal-structure-of-consciousness]]
 - [[consciousness-and-normative-force]]
 - [[epistemic-advantages-of-dualism]]
 - [[contemplative-epistemology]]

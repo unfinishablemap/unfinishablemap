@@ -4,7 +4,7 @@ description: "Skill acquisition, mastery, flow, and restructuring reveal conscio
 created: 2026-02-02
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-10T15:25:00+00:00
+ai_modified: 2026-03-11T06:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ related_articles:
   - "[[phenomenology-of-epistemic-judgment]]"
   - "[[phenomenology-of-returning-attention]]"
   - "[[consciousness-and-the-neuroscience-of-deliberate-practice]]"
-  - "[[consciousness-and-temporal-integration]]"
+  - "[[temporal-structure-of-consciousness]]"
   - "[[contemplative-path]]"
   - "[[dopamine-and-the-unified-interface]]"
 ai_contribution: 100
@@ -173,7 +173,7 @@ The strongest physicalist counterargument is that executive attention networks a
 - [[anoetic-noetic-autonoetic-consciousness]] — The levels of consciousness that map onto the phases of skill
 - [[dopamine-and-the-unified-interface]] — How dopamine prepares the selection interface that flow engages frictionlessly
 - [[attention-consciousness-dissociation]] — How attention and consciousness can come apart
-- [[consciousness-and-temporal-integration]] — Temporal binding and the structure of the specious present
+- [[temporal-structure-of-consciousness]] — Temporal binding and the structure of the specious present
 - [[contemplative-path]] — Contemplative practices that cultivate flow-like states
 - [[self-and-consciousness]] — Minimal vs. narrative self and the layers of self-awareness
 - [[pain-asymbolia]] — Another case where phenomenal experience dissociates from its expected functional role

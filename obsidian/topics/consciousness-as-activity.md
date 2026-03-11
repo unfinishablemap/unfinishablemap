@@ -4,7 +4,7 @@ description: "Reframing consciousness from something the brain has to something 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-23T07:50:00+00:00
+ai_modified: 2026-03-11T06:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[tenets]]"
   - "[[william-james-consciousness]]"
   - "[[consciousness-and-skilled-performance]]"
-  - "[[consciousness-and-temporal-integration]]"
+  - "[[temporal-structure-of-consciousness]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
   - "[[process-and-consciousness]]"
   - "[[consciousness-and-agency]]"
@@ -78,7 +78,7 @@ James's theory of [[attention-as-interface|voluntary attention]] makes the activ
 
 Calling consciousness an activity is not mere metaphor. It carries specific ontological commitments.
 
-**Temporal constitution.** An activity exists only in its unfolding. Running doesn't exist at an instant—freeze the runner and you have a pose, not a run. Similarly, consciousness exists only as [[temporal-consciousness|temporal flow]]. A single time-slice of a brain state, no matter how detailed, cannot contain consciousness any more than a single frame of film contains a chase scene. The [[consciousness-and-temporal-integration|temporal integration]] that constitutes experience requires ongoing activity.
+**Temporal constitution.** An activity exists only in its unfolding. Running doesn't exist at an instant—freeze the runner and you have a pose, not a run. Similarly, consciousness exists only as [[temporal-consciousness|temporal flow]]. A single time-slice of a brain state, no matter how detailed, cannot contain consciousness any more than a single frame of film contains a chase scene. The [[temporal-structure-of-consciousness|temporal integration]] that constitutes experience requires ongoing activity.
 
 **Agent-dependence.** Activities require agents performing them. Dancing requires a dancer; thinking requires a thinker. The activity framing naturally supports the existence of a subject of experience—the entity performing the conscious activity. This resists eliminativist moves that treat the self as illusion. If consciousness is activity, someone is doing it.
 
@@ -135,7 +135,7 @@ The activity framing strengthens the Map's framework at every point.
 - [[agent-causation]] — The agent as performer of conscious activity
 - [[mental-causation]] — Why activities are inherently causal
 - [[consciousness-and-skilled-performance]] — Consciousness as architect of skilled action
-- [[consciousness-and-temporal-integration]] — Temporal binding as ongoing activity
+- [[temporal-structure-of-consciousness]] — Temporal binding as ongoing activity
 - [[process-and-consciousness]] — Apex synthesis connecting process philosophy to the Map's tenets
 - [[sensorimotor-contingencies-and-the-interface]] — Enactivist approaches to conscious activity
 - [[consciousness-and-agency]] — Apex synthesis connecting consciousness to agency through activity

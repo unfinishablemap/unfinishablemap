@@ -4,7 +4,7 @@ description: "How consciousness stabilizes perception despite constant sensory f
 created: 2026-02-15
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-03-09T10:46:00+00:00
+ai_modified: 2026-03-11T06:32:00+00:00
 draft: false
 topics:
   - "[[visual-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[phenomenology-of-epistemic-judgment]]"
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[philosophy-of-perception-under-dualism]]"
-  - "[[consciousness-and-temporal-integration]]"
+  - "[[temporal-structure-of-consciousness]]"
   - "[[capability-division-problem]]"
 ai_contribution: 100
 author:
@@ -70,7 +70,7 @@ When perceiving a plate from an angle, consciousness constitutes it as circular 
 
 This phenomenological structure matters for the philosophy of mind because it shows that perceptual constancy is not a post-processing correction applied to raw sensory data. The constancy is built into the intentional structure of experience itself. We do not first see a trapezoid and then infer a circle. We see the circle *in* the trapezoid. The experience is unified from the start.
 
-This connects directly to the [[binding-problem|binding problem]] and to the broader question of [[consciousness-and-temporal-integration|temporal integration]]. Constancy requires binding across time—linking successive appearances as presentations of the same object—and across modalities. A coffee mug maintains its identity as you walk around it, despite continuous change in visual profile, lighting, and even tactile feedback if you pick it up. This temporal and cross-modal binding that underlies constancy is itself a phenomenal achievement, not merely a computational one.
+This connects directly to the [[binding-problem|binding problem]] and to the broader question of [[temporal-structure-of-consciousness|temporal integration]]. Constancy requires binding across time—linking successive appearances as presentations of the same object—and across modalities. A coffee mug maintains its identity as you walk around it, despite continuous change in visual profile, lighting, and even tactile feedback if you pick it up. This temporal and cross-modal binding that underlies constancy is itself a phenomenal achievement, not merely a computational one.
 
 ## Constancy and Attentional Selection
 
@@ -103,7 +103,7 @@ More broadly, perceptual constancy illustrates why **Occam's Razor has limits** 
 - [[attention-as-selection-interface]]
 - [[inverted-qualia]]
 - [[philosophy-of-perception-under-dualism]]
-- [[consciousness-and-temporal-integration]]
+- [[temporal-structure-of-consciousness]]
 - [[phenomenal-transparency]]
 - [[predictive-processing-and-the-maps-framework]]
 - [[capability-division-problem]]

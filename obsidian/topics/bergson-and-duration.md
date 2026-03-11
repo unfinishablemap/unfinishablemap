@@ -4,7 +4,7 @@ description: "Henri Bergson's durée reveals time as qualitative flow rather tha
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-02-22T23:10:00+00:00
+ai_modified: 2026-03-11T06:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,6 @@ related_articles:
   - "[[tenets]]"
   - "[[temporal-ontology-and-consciousness]]"
   - "[[temporal-structure-of-consciousness]]"
-  - "[[consciousness-and-temporal-integration]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

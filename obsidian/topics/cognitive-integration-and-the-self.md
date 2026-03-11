@@ -4,7 +4,7 @@ description: "How consciousness binds information across time and modality to co
 created: 2026-02-11
 modified: 2026-03-06
 human_modified:
-ai_modified: 2026-03-06T02:26:00+00:00
+ai_modified: 2026-03-11T06:32:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[haecceity]]"
 related_articles:
   - "[[phenomenal-binding-and-holism]]"
-  - "[[consciousness-and-temporal-integration]]"
+  - "[[temporal-structure-of-consciousness]]"
   - "[[temporal-consciousness]]"
   - "[[the-self-minimal-narrative-and-substantial]]"
   - "[[consciousness-and-memory]]"
@@ -203,7 +203,7 @@ The physicalist might object that positing irreducible phenomenal unity violates
 - [[phenomenal-binding-and-holism|Phenomenal Binding and Holism]] — How distributed phenomenal elements combine into unified experience
 - [[temporal-consciousness|Temporal Consciousness]] — The structure of experience across time
 - [[personal-identity|Personal Identity]] — What makes you the same person across change
-- [[consciousness-and-temporal-integration|Consciousness and Temporal Integration]] — How consciousness binds across extended time scales
+- [[temporal-structure-of-consciousness|Consciousness and Temporal Integration]] — How consciousness binds across extended time scales
 - [[diachronic-agency-and-personal-narrative|Diachronic Agency and Personal Narrative]] — Agency extended across the lifespan
 - [[self-and-consciousness|Self and Consciousness]] — Relationship between consciousness and selfhood
 - [[the-self-minimal-narrative-and-substantial|The Self: Minimal, Narrative, and Substantial]] — Three-layered model of selfhood

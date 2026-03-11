@@ -4,11 +4,10 @@ description: "How attention shapes the lived experience of time—stretching, co
 created: 2026-02-15
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-02-27T22:45:00+00:00
+ai_modified: 2026-03-11T06:32:00+00:00
 draft: false
 topics:
   - "[[temporal-structure-of-consciousness]]"
-  - "[[consciousness-and-temporal-integration]]"
   - "[[attention-consciousness-dissociation]]"
 concepts:
   - "[[temporal-consciousness]]"
@@ -109,7 +108,6 @@ The phenomenology of temporal attention aligns with several of the Map's [[tenet
 ## Further Reading
 
 - [[temporal-structure-of-consciousness]]
-- [[consciousness-and-temporal-integration]]
 - [[temporal-thickness]]
 - [[phenomenology-of-returning-attention]]
 - [[attention-as-selection-interface]]
