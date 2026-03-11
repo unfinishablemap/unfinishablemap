@@ -435,12 +435,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has strong individual treatments of time and consciousness but no unified account of how temporal ontology constrains the selection interface. Growing block provides ontological framework; process haecceitism provides individuation; temporal becoming provides phenomenology. Together they form the Map's most original metaphysical contribution. Builds on growing-block-universe-and-consciousness.md, consciousness-and-temporal-becoming.md, temporal-ontology-and-consciousness.md, process-haecceitism.md. See optimistic-2026-03-09-evening.md
 - **Generated**: 2026-03-09
 
-### P2: Deep review compound-cognitive-limits.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-09, never reviewed. Voids article on compound cognitive limits — how multiple cognitive limitations interact and compound. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-10
-
 ### P3: Deep review ai-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 33 days ago, beyond the 30-day staleness threshold. Major topics article on AI consciousness that engages with contemporary discourse. Verify coherence, cross-references, and tenet alignment.
@@ -480,6 +474,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Deep review compound-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-09, never reviewed. Voids article on compound cognitive limits — how multiple cognitive limitations interact and compound. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/compound-cognitive-limits.md
 
 ### ✓ 2026-03-11: Condense epiphenomenalism.md (3502 words, 100% of hard threshold)
 - **Type**: condense

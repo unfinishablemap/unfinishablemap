@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 20:01 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/compound-cognitive-limits]]
+- **Word count**: 1312 → 1371 (+59)
+- **Critical issues addressed**: 2 (orphaned references, incorrect frontmatter concept)
+- **Medium issues addressed**: 4 (weak analogy justification, missing wikilinks, McGinn/mysterianism link, missing related_articles)
+- **Enhancements made**: 3 (Hofstadter integration, cross-links added, analogy strengthened)
+- **Output**: [[reviews/deep-review-2026-03-11-compound-cognitive-limits]]
+
 ## 2026-03-11 19:55 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 28 articles across contemplative/meditation, voids programme, and epistemology clusters
