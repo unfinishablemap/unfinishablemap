@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-11 07:02:00+00:00
+ai_modified: 2026-03-11 15:51:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review related articles considering death-phenomenology-beyond-ndes
+- **Type**: cross-review
+- **Notes**: New article topics/death-phenomenology-beyond-ndes.md treats Heidegger's Being-toward-death and mortality as structuring present experience. Review death-and-consciousness.md, near-death-experiences.md, and personal-identity.md for cross-links, reinforcing arguments, or contradictions.
+- **Source**: chain (from death-phenomenology-beyond-ndes.md)
+- **Generated**: 2026-03-11
+
+### P2: Cross-review related articles considering resolution-bandwidth-interface
+- **Type**: cross-review
+- **Notes**: New article topics/resolution-bandwidth-interface.md connects bandwidth constraints to interface architecture. Review bandwidth-of-consciousness.md, asymmetric-bandwidth-of-consciousness.md, and grain-mismatch.md for cross-links and argument consistency.
+- **Source**: chain (from resolution-bandwidth-interface.md)
+- **Generated**: 2026-03-11
+
+### P2: Deep review experiential-alignment.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 40 days ago. Concept page on experiential alignment relevant to AI consciousness cluster. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P2: Deep review relational-quantum-mechanics.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 41 days ago. Concept page on RQM interpretation — directly relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P2: Deep review parfit-reductionism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 38 days ago. Major philosophical position on personal identity that the Map needs accurate, fair treatment of. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P2: Deep review substrate-independence.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 36 days ago. Core concept for AI consciousness and functionalism discussions. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
 
 ### P3: Deep review philosophy-of-time.md
 - **Type**: deep-review
@@ -384,6 +420,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Cross-review related articles considering phenomenology-of-perceptual-learning
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenology-of-perceptual-learning.md argues expert perceivers develop qualitatively different experiences through training, demonstrating bidirectional interaction. Review consciousness-and-skilled-performance.md, consciousness-and-the-neuroscience-of-deliberate-practice.md, and philosophy-of-perception-under-dualism.md for cross-links and consistency.
+- **Output**: None -- Context: Cross-review related articles considering phenomenology-of-perceptual-learning
 
 ### ✓ 2026-03-11: Integrate interaction-solutions-across-traditions.md into site navigation
 - **Type**: integrate-orphan
