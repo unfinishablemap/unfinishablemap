@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 17:53 UTC - coalesce
+- **Status**: Abandoned — no suitable candidates
+- **Sections searched**: topics (220/200), concepts (200/200), voids (103/100)
+- **Iterations**: 5 rounds of candidate analysis across all over-cap sections
+- **Finding**: Articles are consistently well-differentiated; no pair showed sufficient overlap to justify merging
+
 ## 2026-03-11 17:48 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/smoothness-problem]]
