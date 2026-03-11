@@ -132,11 +132,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Write article on philosophy of emotion under dualism
-- **Type**: expand-topic
+### P2: Cross-review philosophy-of-emotion-under-dualism
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map has excellent cognitive phenomenology coverage but less systematic treatment of affective consciousness. Emotions as evidence for dualism—intrinsic valence, resistance to functional reduction, role in moral perception. Builds on emotional-consciousness.md, emotion-as-evidence-for-dualism.md, why-pain-hurts.md, phenomenal-value-realism.md. See [[reviews/optimistic-2026-03-01]].
-- **Generated**: 2026-03-01
+- **Notes**: Review related articles (emotional-consciousness, emotion-as-evidence-for-dualism, void-of-self-knowledge-in-emotion) in light of new philosophy-of-emotion-under-dualism article. Add cross-references where appropriate.
+- **Generated**: 2026-03-11
 
 ### P2: Write article on phenomenology of perceptual learning
 - **Type**: expand-topic
@@ -383,6 +383,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Write article on philosophy of emotion under dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map has excellent cognitive phenomenology coverage but less systematic treatment of affective consciousness. Emotions as evidence for dualism—intrinsic valence, resistance to functional reduction, role in moral perception. Builds on emotional-consciousness.md, emotion-as-evidence-for-dualism.md, why-pain-hurts.md, phenomenal-value-realism.md. See [[reviews/optimistic-2026-03-01]].
+- **Output**: philosophy of emotion under dualism
 
 ### ✓ 2026-03-11: Write article on aesthetic experience as evidence for irreducibility
 - **Type**: expand-topic

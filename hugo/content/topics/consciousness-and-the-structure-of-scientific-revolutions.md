@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-11 11:40:00+00:00
+ai_modified: 2026-03-11 12:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,13 +17,14 @@ description: Applying Kuhn's framework to consciousness studies reveals physical
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-03-11 12:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[philosophy-of-science-under-dualism]]'
 - '[[consciousness-and-the-problem-of-theoretical-virtues]]'
 - '[[phenomenology-of-conceptual-change]]'
-- '[[consciousness-and-the-framework-dependence-problem]]'
+- '[[consciousness-and-the-phenomenology-of-framework-dependence]]'
 title: Consciousness and the Structure of Scientific Revolutions
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -33,7 +34,7 @@ topics:
 
 Thomas Kuhn's *The Structure of Scientific Revolutions* (1962) describes how sciences advance not through steady accumulation but through cycles of normal science, anomaly, crisis, and revolution. The Unfinishable Map argues that this framework, applied to the study of consciousness, reveals physicalism as a paradigm exhibiting the hallmarks of crisis. Anomalies have accumulated for decades. Normal science — the neural correlates programme — continues productively within its domain but cannot address the deepest questions it was supposed to answer. No successor paradigm has consolidated. The consciousness debate sits in the uncomfortable interval Kuhn described: the old framework is losing its grip, but nothing has replaced it.
 
-This is not a metaphor. Kuhn's framework describes structural features of scientific practice — features present in consciousness studies with unusual clarity.
+Kuhn's framework describes structural features of scientific practice — features present in consciousness studies with unusual clarity.
 
 ## Physicalism as Normal Science
 
@@ -45,7 +46,7 @@ But Kuhn distinguished puzzle-solving from progress on foundational questions. N
 
 ## The Anomalies
 
-Kuhn argued that paradigms enter crisis when anomalies accumulate — results that resist assimilation into the framework despite sustained effort. Physicalism faces anomalies that are not merely unsolved but appear structurally resistant to physical explanation.
+Kuhn argued that paradigms enter crisis when anomalies accumulate — results that resist assimilation into the framework despite sustained effort. Physicalism faces anomalies that are not merely unsolved but appear structurally resistant to physical explanation. These anomalies are unusual: they are philosophical rather than straightforwardly empirical (a distinction explored further in the section on [what makes consciousness distinctive](#what-makes-consciousness-distinctive)). But their persistence and resistance to theoretical absorption follow Kuhn's pattern precisely.
 
 **The explanatory gap.** Joseph Levine (1983) identified the gap between physical description and phenomenal character as structural, not temporary. "Water = H₂O" explains water's properties because we can derive observable behaviour from molecular structure. "Pain = C-fibre activation" explains nothing about why pain feels the way it does. Decades of subsequent work have not narrowed this gap. Each new physical theory of consciousness — identity theory, functionalism, higher-order theories, global workspace theory, integrated information theory — restates the problem in different vocabulary without closing it. This is precisely the pattern Kuhn described: the paradigm generates theoretical elaborations that address the anomaly's form while leaving its substance untouched.
 
@@ -67,13 +68,13 @@ Kuhn described several features of paradigm crisis that map onto the current sta
 
 ## Why No Revolution Has Occurred
 
-If physicalism is a paradigm in crisis, why has no revolution occurred? Kuhn was clear that crisis alone is insufficient. Paradigms are not abandoned until a viable alternative is available. "To reject one paradigm without simultaneously substituting another is to reject science itself" (Kuhn 1962, p. 79).
+If physicalism is a paradigm in crisis, why has no revolution occurred? Kuhn was clear that crisis alone is insufficient. Paradigms are not abandoned until a viable alternative is available. "To reject one paradigm without simultaneously substituting another is to reject science itself" (Kuhn 1962, p. 79). Lakatos (1978) reinforced this point: research programmes degenerate when they require ever more *ad hoc* modifications to handle anomalies, but they persist until a progressive alternative absorbs their successes. Physicalism's proliferation of competing consciousness theories resembles a degenerating programme — yet no rival has demonstrated the progressive problem-shifts that would trigger replacement.
 
-This explains the current impasse. Dualism, the most prominent alternative, lacks what Kuhn called an exemplary solution — a worked example showing how the new paradigm resolves a key anomaly in detail. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet gestures toward such a solution, proposing that consciousness biases quantum indeterminacy in neural systems. But this remains programmatic rather than fully developed. Panpsychism faces the [combination problem](/concepts/combination-problem/). Mysterianism denies that any solution is humanly accessible. None has produced the decisive anomaly resolution that triggers revolution.
+This explains the current impasse. [Dualism](/concepts/interactionist-dualism/), the most prominent alternative, lacks what Kuhn called an exemplary solution — a worked example showing how the new paradigm resolves a key anomaly in detail. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet gestures toward such a solution, proposing that consciousness biases quantum indeterminacy in neural systems. But this remains programmatic rather than fully developed. Panpsychism faces the [combination problem](/concepts/combination-problem/). Mysterianism denies that any solution is humanly accessible. None has produced the decisive anomaly resolution that triggers revolution.
 
 The consciousness debate therefore occupies what Kuhn described as an extended crisis: the old paradigm is weakening, alternatives are proliferating, but no candidate has achieved the consolidation needed to replace the incumbent. The Map's analysis of [philosophical non-convergence](/topics/consciousness-and-the-problem-of-philosophical-progress/) reinforces this diagnosis — philosophy of mind has debated these questions for millennia without converging, a pattern consistent with pre-revolutionary crisis rather than normal cumulative progress.
 
-## What Makes Consciousness Distinctive
+## What Makes Consciousness Distinctive {#what-makes-consciousness-distinctive}
 
 There is a deeper question: whether Kuhn's framework, developed for natural science, applies to consciousness at all. Two features of the consciousness debate may make it structurally different from the revolutions Kuhn described.
 
@@ -100,7 +101,7 @@ The Unfinishable Map interprets Kuhn's framework as illuminating rather than res
 - [consciousness-and-the-problem-of-philosophical-progress](/topics/consciousness-and-the-problem-of-philosophical-progress/)
 - [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
-- [consciousness-and-the-phenomenology-of-framework-dependence](/topics/consciousness-and-the-phenomenology-of-framework-dependence/)
+- [Consciousness and the Phenomenology of Framework Dependence](/topics/consciousness-and-the-phenomenology-of-framework-dependence/)
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)
 
 ## References
