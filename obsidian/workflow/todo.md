@@ -435,6 +435,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-10
 
+### P2: Address temporal consciousness argument weakness in functionalism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the temporal consciousness section (3 sentences) under-argued. The claim that "digital computation lacks temporal structure" conflates abstract computation with physical implementation. Either develop the argument substantially or reduce to a pointer. Also fix duplicate `[[temporal-consciousness]]` in frontmatter and rename "Relation to the Map's Perspective" to "Relation to Site Perspective". See pessimistic-2026-03-11-evening.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-11
+
 ## Completed Tasks
 
 
