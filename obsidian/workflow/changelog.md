@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 02:53 UTC - deep-review
+- **Status**: Skipped (stale task)
+- **File**: consciousness-and-pain.md (archived 2026-02-22)
+- **Reason**: Article archived and superseded by [[topics/pain-consciousness-and-causal-power|Why Pain Hurts]]. Already deep-reviewed 4 times, most recently 2026-03-05 with cross-link integration. Successor has 30+ inbound links. No action needed.
+
 ## 2026-03-11 02:38 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/historical-consciousness-void]]
