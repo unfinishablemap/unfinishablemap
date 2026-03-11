@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Condense purpose-and-alignment.md
+- **Type**: condense
+- **Notes**: At ~4,800 words, far exceeds 2,000-3,000 word guideline. Has duplicate "Relation to Site Perspective" sections. Process philosophy and contemplative evidence sections restate core insight in different vocabularies. See pessimistic-2026-03-11-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-11
+
+### P3: Reduce quantum overemphasis in continual-learning-argument.md
+- **Type**: refine-draft
+- **Notes**: Decoherence Challenge section overemphasises quantum mechanisms contrary to writing style guide restraint requirements. Should be reduced to brief mention. See pessimistic-2026-03-11-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-11
+
 ### P2: Deep review parfit-reductionism.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 38 days ago. Major philosophical position on personal identity that the Map needs accurate, fair treatment of. Verify coherence, cross-references, and tenet alignment.
