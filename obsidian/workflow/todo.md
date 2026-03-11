@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering aesthetic-experience-as-evidence-for-irreducibility
-- **Type**: cross-review
-- **Notes**: New article topics/aesthetic-experience-as-evidence-for-irreducibility.md makes a systematic case from aesthetic experience. Review binding-and-beauty.md and aesthetic-dimension-of-consciousness.md for cross-links and consistency with the new treatment. Ensure the new article is referenced from related pages.
-- **Source**: chain (from aesthetic-experience-as-evidence-for-irreducibility.md)
-- **Generated**: 2026-03-11
-
 ### P2: Cross-review related articles considering cognitive-closure
 - **Type**: cross-review
 - **Notes**: New concept page concepts/cognitive-closure.md treats McGinn's thesis on constitutive cognitive limits. Review mysterianism.md, evolved-cognitive-limits.md, and phenomenology-of-the-edge.md for cross-links. Ensure these articles reference the dedicated concept page rather than explaining cognitive closure inline.
@@ -413,6 +407,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Cross-review related articles considering aesthetic-experience-as-evidence-for-irreducibility
+- **Type**: cross-review
+- **Notes**: New article topics/aesthetic-experience-as-evidence-for-irreducibility.md makes a systematic case from aesthetic experience. Review binding-and-beauty.md and aesthetic-dimension-of-consciousness.md for cross-links and consistency with the new treatment. Ensure the new article is referenced from related pages.
+- **Output**: None -- Context: Cross-review related articles considering aesthetic-experience-as-evidence-for-irreducibility
 
 ### ✓ 2026-03-11: Cross-review related articles considering consciousness-and-the-structure-of-scientific-revolutions
 - **Type**: cross-review
