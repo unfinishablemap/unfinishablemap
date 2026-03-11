@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [Aesthetic Experience as Evidence for Irreducibility](/topics/aesthetic-experience-as-evidence-for-irreducibility/)
+**Article**: [Aesthetic Experience as Evidence for Irreducibility](/topics/aesthetic-irreducibility-arguments/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
