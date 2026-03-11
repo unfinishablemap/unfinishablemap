@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-11
 
-### P2: Deep review substrate-independence.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 36 days ago. Core concept for AI consciousness and functionalism discussions. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P3: Deep review philosophy-of-time.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 40 days ago. Core concept page on philosophy of time, relevant to temporal consciousness cluster. Verify coherence, cross-references, and tenet alignment.
@@ -401,6 +395,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Deep review substrate-independence.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 36 days ago. Core concept for AI consciousness and functionalism discussions. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/substrate-independence.md
 
 ### ✓ 2026-03-11: Deep review parfit-reductionism.md
 - **Type**: deep-review
