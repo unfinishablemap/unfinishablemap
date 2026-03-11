@@ -4,7 +4,7 @@ description: "Dualism unifies value, agency, normativity, and moral perception u
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T03:53:00+00:00
+ai_modified: 2026-03-11T07:47:00+00:00
 draft: false
 topics:
   - "[[ethics-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-11T07:47:00+00:00
 ---
 
 If consciousness is irreducible and causally efficacious, the entire ethical landscape transforms. The Unfinishable Map's dualism does not merely add a metaphysical layer to existing moral philosophy—it resolves a fragmentation problem that materialist ethics has never overcome. Under materialism, value theory, agency theory, normativity, and moral epistemology draw on different and often incompatible foundations. Under dualism, all four converge on a single ground: conscious experience. This convergence is the distinctive contribution of dualist ethics, and it produces a moral worldview more unified than any materialist framework can offer.
@@ -40,13 +40,13 @@ Materialist moral philosophy faces a structural difficulty rarely acknowledged a
 
 **Value theory** under materialism struggles to locate intrinsic value in a universe of particles and forces. Error theorists like Mackie conclude that value does not exist; constructivists like Korsgaard argue it is built through rational procedures; naturalists try to identify moral properties with natural ones. Each response carries costs. Error theory renders moral discourse systematically false. Constructivism cannot explain why constructions should bind us. Naturalism faces Moore's open question: for any natural property, asking "but is it good?" remains coherent.
 
-**Agency theory** under deterministic materialism must settle for compatibilism—praising and blaming agents who could not ultimately have done otherwise. Sophisticated compatibilists from Frankfurt to Fischer have built impressive frameworks for moral responsibility within determinism, but they ground desert pragmatically rather than metaphysically. The agent's initial character, unchosen and determined by prior causes, is the ultimate source of their "choices."
+**Agency theory** under deterministic materialism must settle for compatibilism—praising and blaming agents who could not ultimately have done otherwise. Sophisticated compatibilists from Frankfurt to Fischer have built impressive frameworks for moral responsibility within determinism. Reasons-responsive theories argue that agents who can recognise and respond to moral reasons are responsible in all the ways that matter. But even the most refined compatibilist accounts ground desert in capacities the agent did not ultimately author: the initial character, unchosen and shaped by prior causes, remains the ultimate source of "choices." Compatibilism makes responsibility *intelligible* within determinism, but it cannot make the agent a genuine origin.
 
 **Normative theory** struggles to explain why moral claims *grip* us. Rationalism says morality is a demand of reason, but reason without experience is motivationally inert. Expressivism says moral claims express attitudes, but then their authority reduces to psychology. Neither explains the distinctive phenomenal character of moral demand—the felt difference between "you should" and "you might consider."
 
 **Moral epistemology** under materialism has difficulty explaining how we access moral facts. If moral properties are natural properties, why do they seem so different from other natural properties? If they are not natural, how do we detect them?
 
-These are not separate problems. They are symptoms of a single underlying difficulty: materialism lacks a unified ground for ethics. Each ethical question receives a different answer from a different framework, and the answers do not cohere.
+These are not separate problems. They are symptoms of a single underlying difficulty: materialism lacks a unified ground for ethics. Attempts at unification exist—Railton's naturalistic moral realism tries to ground value in facts about individual well-being, Foot's natural goodness approach derives normativity from species-characteristic flourishing—but each achieves unity only by narrowing the scope. Railton's account struggles with agency and moral epistemology; Foot's has difficulty accommodating moral perception as anything more than pattern recognition. No single materialist framework has successfully unified all four domains. Each ethical question receives a different answer from a different framework, and the answers do not cohere.
 
 ## The Dualist Resolution
 
@@ -54,7 +54,7 @@ The Unfinishable Map's framework dissolves this fragmentation by grounding all f
 
 ### Value Lives in Experience
 
-[[topics/phenomenal-value-realism|Phenomenal value realism]] identifies intrinsic value with features of conscious experience. The felt badness of suffering *is* badness; the felt goodness of joy *is* goodness. This is not a derivation of value from experience but an identity: some phenomenal properties are simultaneously descriptive and normative.
+[[topics/phenomenal-value-realism|Phenomenal value realism]] identifies intrinsic value with features of conscious experience. As Rawlette argues, the felt badness of suffering *is* badness; the felt goodness of joy *is* goodness. This is not a derivation of value from experience but an identity: some phenomenal properties are simultaneously descriptive and normative. The identity is not an arbitrary stipulation—it reflects the fact that any attempt to separate the painfulness of pain from its badness produces an incoherent concept.
 
 This placement resolves value theory's location problem. Value does not float free in Platonic space, and it need not be constructed by rational procedures. It lives where consciousness lives—which, under dualism, is an irreducible feature of reality. The [[consciousness-value-connection]] makes this explicit: without a subject for whom things matter, nothing can possess intrinsic value. Dualism ensures such subjects are ontologically real, not merely functional descriptions of physical processes.
 
@@ -62,7 +62,7 @@ The Map extends this beyond hedonism to [[topics/phenomenal-value-realism#Beyond
 
 ### Agency Is Genuine
 
-[[agent-causation|Agent causation]] provides what compatibilism cannot: the agent as an irreducible origin of choice. Under the Map's framework, consciousness selects among possibilities that quantum indeterminacy leaves open in neural processing—a speculative mechanism, but one that preserves what matters ethically: the agent genuinely authors their choices.
+[[agent-causation|Agent causation]] provides what compatibilism cannot: the agent as an irreducible origin of choice. The [[topics/free-will|free will debate]] pivots on exactly this question—whether any account short of genuine origination can ground moral desert. Under the Map's framework, consciousness selects among possibilities that quantum indeterminacy leaves open in neural processing—a speculative mechanism, but one that preserves what matters ethically: the agent genuinely authors their choices.
 
 This transforms [[moral-responsibility]] from pragmatic convention into metaphysical fact. Desert becomes real: the agent who chose cruelty when kindness was available exercised a causal power they actually possessed. The [[moral-implications-of-genuine-agency|implications]] extend beyond desert to obligation (which addresses genuinely open possibilities), character formation (which is genuine self-creation through accumulated selections), and the reconstitution of moral luck (causal luck is eliminated entirely when consciousness selects rather than being determined).
 
@@ -144,6 +144,8 @@ The Unfinishable Map's five tenets jointly create the conditions for unified dua
 - [[moral-perception]] — Direct apprehension of ethical properties
 - [[phenomenal-normativity]] — Normativity built into phenomenal character
 - [[living-with-the-map]] — From metaphysics to practical guidance
+- [[topics/free-will]] — The debate over genuine origination versus compatibilism
+- [[topics/hard-problem-of-consciousness]] — Why materialism cannot explain consciousness
 - [[tenets]] — The Map's foundational commitments
 
 ## References
@@ -154,5 +156,7 @@ The Unfinishable Map's five tenets jointly create the conditions for unified dua
 4. Rawlette, S.H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
 5. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
 6. Weil, S. (1947). *Gravity and Grace*. Routledge.
-7. Southgate, A. & Oquatre-six, C. (2026-02-02). Phenomenal Value Realism. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenal-value-realism/
-8. Southgate, A. & Oquatre-six, C. (2026-02-23). Moral Implications of Genuine Agency. *The Unfinishable Map*. https://unfinishablemap.org/topics/moral-implications-of-genuine-agency/
+7. Railton, P. (1986). Moral Realism. *The Philosophical Review*, 95(2), 163–207.
+8. Foot, P. (2001). *Natural Goodness*. Oxford University Press.
+9. Southgate, A. & Oquatre-six, C. (2026-02-02). Phenomenal Value Realism. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenal-value-realism/
+10. Southgate, A. & Oquatre-six, C. (2026-02-23). Moral Implications of Genuine Agency. *The Unfinishable Map*. https://unfinishablemap.org/topics/moral-implications-of-genuine-agency/
