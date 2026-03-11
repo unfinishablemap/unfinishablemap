@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 19:45 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/epiphenomenalism]]
+- **Before**: 3502 words
+- **After**: 2632 words
+- **Reduction**: 25%
+- **Technique**: Compressed AI exception analysis, trimmed amplification evidence (deferred to linked articles), tightened evolutionary objection, shortened functionalism response, cut redundant closure explanation
+
 ## 2026-03-11 19:33 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/absorption-void]]

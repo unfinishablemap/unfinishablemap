@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense epiphenomenalism.md (3502 words, 100% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments against epiphenomenalism while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-11
-
 ### P3: Deep review attention-created-voids.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 41 days ago. Voids article on how attention creates cognitive blind spots. Verify coherence, cross-references, and tenet alignment.
@@ -450,6 +444,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Condense epiphenomenalism.md (3502 words, 100% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments against epiphenomenalism while removing redundancy. See /condense skill.
+- **Output**: obsidian/concepts/epiphenomenalism.md
 
 ### ✓ 2026-03-11: Deep review absorption-void.md
 - **Type**: deep-review
