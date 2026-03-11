@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review smoothness-problem.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the smoothness problem — why consciousness presents a seamlessly unified field despite discrete neural processes. Directly relevant to the interface framework and Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P2: Deep review indexical-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the indexical void — the gap between third-person descriptions and first-person haecceity. Directly relevant to Tenet 4 (No Many Worlds) and the site's treatment of indexical identity. Verify coherence, cross-references, and tenet alignment.
@@ -443,6 +437,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Deep review smoothness-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the smoothness problem — why consciousness presents a seamlessly unified field despite discrete neural processes. Directly relevant to the interface framework and Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/smoothness-problem.md
 
 ### ✓ 2026-03-11: Deep review convergence-of-the-void-catalogue.md
 - **Type**: deep-review
