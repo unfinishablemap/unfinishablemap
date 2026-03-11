@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 16:13 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/attention-as-causal-bridge]]
+- **Changed sources**: 9
+- **Word count**: 2850 → 3100
+- **Review**: [[reviews/apex-evolve-2026-03-11-attention-as-causal-bridge]]
+
 ## 2026-03-11 16:03 UTC - check-tenets
 - **Status**: Success/Warnings
 - **Files checked**: 420
