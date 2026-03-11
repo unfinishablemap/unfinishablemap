@@ -4,7 +4,7 @@ description: "Why philosophy of mind has not converged on answers despite millen
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-11T14:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,12 +22,13 @@ related_articles:
   - "[[epistemic-advantages-of-dualism]]"
   - "[[the-convergence-argument-for-dualism]]"
   - "[[epistemological-limits-occams-razor]]"
+  - "[[consciousness-and-the-structure-of-scientific-revolutions]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-02-22T03:02:00+00:00
+last_deep_review: 2026-03-11T14:58:00+00:00
 ---
 
 Philosophy of mind has debated consciousness for over two thousand years without converging on basic answers. Is experience physical or non-physical? Does it cause anything? Could it be absent from a [[philosophical-zombies|functional duplicate]] of a person? These questions feel no closer to resolution than when Descartes framed them — or when the Upanishads explored them centuries earlier. This lack of convergence is itself philosophically significant. Rather than treating persistent disagreement as evidence that the questions are confused or meaningless, The Unfinishable Map argues it reveals something about the nature of consciousness: a subject that resists the methods through which progress typically occurs.
@@ -38,7 +39,7 @@ Science makes cumulative progress. Newtonian mechanics yielded to relativity, wh
 
 Philosophy of mind shows a different pattern. [[concepts/materialism|Materialism]], dualism, [[panpsychism]], [[idealism]], neutral monism, and [[mysterianism]] all have sophisticated contemporary defenders. The [[explanatory-gap]] identified by Joseph Levine in 1983 had analogues in Leibniz's mill argument of 1714. The [[hard-problem-of-consciousness]], named by David Chalmers in 1994, restated difficulties that Locke and Leibniz recognised. Arguments recur rather than resolve.
 
-This asymmetry demands explanation. Several candidates present themselves, and they carry different implications for what consciousness is.
+This asymmetry demands explanation. As the Map's [[consciousness-and-the-structure-of-scientific-revolutions|Kuhnian analysis]] argues, the pattern resembles what Thomas Kuhn described as paradigm crisis: anomalies accumulating, competing theories proliferating, and no successor framework consolidating. Several candidates for explaining the asymmetry present themselves, and they carry different implications for what consciousness is.
 
 ## Explanation One: Philosophy Is Just Slower
 
@@ -68,7 +69,7 @@ Scientific progress depends on third-person observation, operational definitions
 
 ## What Stalled Progress Reveals
 
-If consciousness resists the methods that generate convergence elsewhere, this is evidence about what consciousness is — not merely about our limitations. The persistent failure of materialist reduction is not a gap waiting to be filled by better neuroscience. It is a signal that the subject matter differs in kind from anything third-person methods can fully capture.
+If consciousness resists the methods that generate convergence elsewhere, this is evidence about what consciousness is — not merely about our limitations. The persistent failure of materialist reduction is not a gap waiting to be filled by better neuroscience. It is a signal that the subject matter differs in kind from anything third-person methods can fully capture. The [[phenomenology-of-philosophical-disagreement|phenomenology of philosophical disagreement]] itself becomes evidence: the felt intractability of the consciousness debate is not a failure of intellect but a feature of a domain where the standard tools of convergence cannot gain purchase.
 
 This is where the Map's framework becomes relevant. The [[the-convergence-argument-for-dualism|convergence argument for dualism]] observes that multiple independent arguments — the knowledge argument, conceivability arguments, arguments from qualia, arguments from reason — all point toward the same conclusion: consciousness is not reducible to physical processes. The failure of philosophy to converge on a physicalist answer — despite the fact that most academic philosophers of mind lean toward physicalism — is itself a convergence of a different sort. It is the convergence of failures.
 
@@ -94,10 +95,13 @@ The Map itself embodies the kind of progress available in this domain: not conve
 
 ## Further Reading
 
+- [[consciousness-and-the-structure-of-scientific-revolutions]]
 - [[consciousness-and-the-philosophy-of-explanation]]
 - [[the-convergence-argument-for-dualism]]
 - [[epistemic-advantages-of-dualism]]
 - [[phenomenology-of-theoretical-commitment]]
+- [[phenomenology-of-philosophical-disagreement]]
+- [[epistemology-of-convergence-arguments]]
 - [[hard-problem-of-consciousness]]
 - [[epistemological-limits-occams-razor]]
 
@@ -106,4 +110,5 @@ The Map itself embodies the kind of progress available in this domain: not conve
 1. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200–219.
 1. Leibniz, G.W. (1714). *Monadology*, §17.
 1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354–361.
+1. Locke, J. (1689). *An Essay Concerning Human Understanding*, Book II, Chapter 32.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.

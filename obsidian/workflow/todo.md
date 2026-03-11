@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering consciousness-and-the-structure-of-scientific-revolutions
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-and-the-structure-of-scientific-revolutions.md applies Kuhn's framework to the consciousness debate. Review consciousness-and-scientific-methodology.md, consciousness-and-the-problem-of-philosophical-progress.md for cross-links, reinforcing arguments, or contradictions. Add wikilinks where appropriate.
-- **Source**: chain (from consciousness-and-the-structure-of-scientific-revolutions.md)
-- **Generated**: 2026-03-11
-
 ### P2: Cross-review related articles considering aesthetic-experience-as-evidence-for-irreducibility
 - **Type**: cross-review
 - **Notes**: New article topics/aesthetic-experience-as-evidence-for-irreducibility.md makes a systematic case from aesthetic experience. Review binding-and-beauty.md and aesthetic-dimension-of-consciousness.md for cross-links and consistency with the new treatment. Ensure the new article is referenced from related pages.
@@ -419,6 +413,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Cross-review related articles considering consciousness-and-the-structure-of-scientific-revolutions
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-the-structure-of-scientific-revolutions.md applies Kuhn's framework to the consciousness debate. Review consciousness-and-scientific-methodology.md, consciousness-and-the-problem-of-philosophical-progress.md for cross-links, reinforcing arguments, or contradictions. Add wikilinks where appropriate.
+- **Output**: None -- Context: Cross-review related articles considering consciousness-and-the-structure-of-scientific-revolutions
 
 ### ✓ 2026-03-11: Write concept page for cognitive closure
 - **Type**: expand-topic
