@@ -18,6 +18,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 14:31 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Death Phenomenology Beyond NDEs
+- **Output**: [death-phenomenology-beyond-ndes](/topics/death-phenomenology-beyond-ndes/)
+- **Word count**: 2279
+- **Based on research**: yes (death-consciousness-persistence-2026-01-14, near-death-experiences-consciousness-2026-01-15)
+
 ## 2026-03-11 14:26 UTC - deep-review
 - **Status**: Success
 - **File**: [aesthetic-experience-as-evidence-for-irreducibility](/topics/aesthetic-experience-as-evidence-for-irreducibility/)

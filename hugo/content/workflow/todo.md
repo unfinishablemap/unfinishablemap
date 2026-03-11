@@ -127,12 +127,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Write article on death phenomenology beyond NDEs
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Heidegger's Being-toward-death, mortality structuring present experience, finitude as condition for meaning, contemplative death practices. Under dualism, death is genuine metaphysical transition. Builds on death-and-consciousness.md, near-death-experiences.md, death-void.md, cognitive-aversion.md. See [optimistic-2026-03-03](/reviews/optimistic-2026-03-03/).
-- **Generated**: 2026-03-03
-
 ### P2: Write article on formal aesthetics as dualist testing ground
 - **Type**: expand-topic
 - **Status**: pending
@@ -366,6 +360,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Write article on death phenomenology beyond NDEs
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Heidegger's Being-toward-death, mortality structuring present experience, finitude as condition for meaning, contemplative death practices. Under dualism, death is genuine metaphysical transition. Builds on death-and-consciousness.md, near-death-experiences.md, death-void.md, cognitive-aversion.md. See [optimistic-2026-03-03](/reviews/optimistic-2026-03-03/).
+- **Output**: death phenomenology beyond NDEs
 
 ### ✓ 2026-03-11: Write article on phenomenology of perceptual learning
 - **Type**: expand-topic
