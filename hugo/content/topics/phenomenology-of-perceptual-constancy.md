@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-09 10:46:00+00:00
+ai_modified: 2026-03-11 06:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ related_articles:
 - '[[phenomenology-of-epistemic-judgment]]'
 - '[[surprise-prediction-error-and-consciousness]]'
 - '[[philosophy-of-perception-under-dualism]]'
-- '[[consciousness-and-temporal-integration]]'
+- '[[temporal-structure-of-consciousness]]'
 - '[[capability-division-problem]]'
 title: The Phenomenology of Perceptual Constancy
 topics:
@@ -105,7 +105,7 @@ More broadly, perceptual constancy illustrates why **Occam's Razor has limits** 
 - [attention-as-selection-interface](/topics/attention-as-selection-interface/)
 - [inverted-qualia](/concepts/inverted-qualia/)
 - [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/)
-- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)
+- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
 - [phenomenal-transparency](/concepts/phenomenal-transparency/)
 - [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/)
 - [capability-division-problem](/voids/capability-division-problem/)

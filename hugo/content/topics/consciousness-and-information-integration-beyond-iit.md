@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-02-22 00:11:00+00:00
+ai_modified: 2026-03-11 06:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ related_articles:
 - '[[tenets]]'
 - '[[integrated-information-theory-critique]]'
 - '[[consciousness-and-the-physics-of-information]]'
-- '[[consciousness-and-temporal-integration]]'
+- '[[temporal-structure-of-consciousness]]'
 - '[[predictive-processing-and-the-maps-framework]]'
 - '[[cognitive-integration-and-the-self]]'
 - '[[phenomenal-binding-and-holism]]'
@@ -128,7 +128,7 @@ The **Dualism** tenet holds that consciousness is not reducible to physical proc
 - [integrated-information-theory](/concepts/integrated-information-theory/) — IIT's axioms, postulates, and Φ measure
 - [integrated-information-theory-critique](/topics/integrated-information-theory-critique/) — The passivity, expander graph, and temporal gap problems
 - [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/) — Information as the interface between mind and matter
-- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — How consciousness binds moments into unified experience
+- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — How consciousness binds moments into unified experience
 - [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/) — Predictive processing as neural machinery for conscious selection
 - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — Binding as a phenomenal rather than physical achievement
 - [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/) — How integration constitutes the unified self

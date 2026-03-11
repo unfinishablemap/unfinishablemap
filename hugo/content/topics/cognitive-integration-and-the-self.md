@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-03-06 02:26:00+00:00
+ai_modified: 2026-03-11 06:32:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -21,7 +21,7 @@ last_deep_review: 2026-02-15 10:19:00+00:00
 modified: *id001
 related_articles:
 - '[[phenomenal-binding-and-holism]]'
-- '[[consciousness-and-temporal-integration]]'
+- '[[temporal-structure-of-consciousness]]'
 - '[[temporal-consciousness]]'
 - '[[the-self-minimal-narrative-and-substantial]]'
 - '[[consciousness-and-memory]]'

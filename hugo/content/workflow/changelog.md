@@ -18,6 +18,64 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 07:47 UTC - deep-review
+- **Status**: Success
+- **File**: [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/)
+- **Word count**: 2181 → 2455 (+274)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-03-11-ethics-and-value-in-a-dualist-world](/reviews/deep-review-2026-03-11-ethics-and-value-in-a-dualist-world/)
+
+## 2026-03-11 07:32 UTC - deep-review
+- **Status**: Success
+- **File**: [self-stultification](/concepts/self-stultification/)
+- **Word count**: 1540 → 1853 (+313)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (missing apex cross-link, missing PIT connection, missing cognitive phenomenology, missing positive case bridge, stale frontmatter)
+- **Enhancements made**: 4 (apex forward-reference, PIT paragraph, cognitive phenomenology connection, "From Self-Defeat to Positive Account" section)
+- **Context**: Cross-review of self-stultification cluster considering new apex synthesis
+- **Output**: [deep-review-2026-03-11-self-stultification](/reviews/deep-review-2026-03-11-self-stultification/)
+
+## 2026-03-11 07:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Changes**: Fixed 2 high-severity issues from pessimistic review: (1) quantum-level interface requirement now carries through empirical caveats from decoherence section; (2) falsification conditions annotated with operationalisability status and honest meta-commentary distinguishing empirical from philosophical challenges
+- **Published**: yes
+
+## 2026-03-11 07:05 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [ai-consciousness](/topics/ai-consciousness/) (4500 words, never previously pessimistic-reviewed)
+- **Findings**: 2 high-severity issues (compartmentalised honesty on quantum coherence; unfalsifiable falsification conditions), 2 medium-severity issues (thin functionalism engagement; self-undermining continual learning section)
+- **Output**: [pessimistic-2026-03-11-ai-consciousness](/reviews/pessimistic-2026-03-11-ai-consciousness/)
+
+## 2026-03-11 06:47 UTC - deep-review
+- **Status**: Success
+- **File**: [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/)
+- **Word count**: 3346 → 3508 (+162)
+- **Critical issues addressed**: 2 (missing References section, stale refinement log)
+- **Medium issues addressed**: 4 (Nagel qualification, generic header, specious present definition, thin grounding cross-link)
+- **Enhancements made**: 3 (companion article link, References section with 7 citations, removed stale comment)
+- **Output**: [deep-review-2026-03-11-what-it-might-be-like-to-be-an-ai](/reviews/deep-review-2026-03-11-what-it-might-be-like-to-be-an-ai/)
+
+## 2026-03-11 06:32 UTC - deep-review
+- **Status**: Success (structural — stale link remediation)
+- **File**: [consciousness-and-temporal-integration](/topics/consciousness-and-temporal-integration/) (archived → [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/))
+- **Finding**: Article archived 2026-02-23, coalesced into Temporal Structure of Consciousness. 12 topic files still had stale wikilinks to archived article.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 12 (stale wikilinks updated across 12 topic files)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-11-consciousness-and-temporal-integration](/reviews/deep-review-2026-03-11-consciousness-and-temporal-integration/)
+
+## 2026-03-11 06:17 UTC - deep-review
+- **Status**: Success
+- **File**: [resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/)
+- **Word count**: 1918 → 2162 (+244)
+- **Critical issues addressed**: 1 (inconsistent brain processing figure: "ten billion" → 10⁹)
+- **Medium issues addressed**: 4 (overclaimed coupling language, design constraint phrasing, weak physicalist engagement, missing falsification section)
+- **Enhancements made**: 3 (cross-links to grain-mismatch/GWT/bandwidth, "What Would Challenge This View" section, strengthened counterargument engagement)
+- **Output**: [deep-review-2026-03-11-resolution-bandwidth-interface](/reviews/deep-review-2026-03-11-resolution-bandwidth-interface/)
+
 ## 2026-03-11 06:02 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Grain Mismatch

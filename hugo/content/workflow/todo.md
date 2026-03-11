@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-05 09:22:00+00:00
+ai_modified: 2026-03-11 07:02:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review quantum consciousness articles considering new apex synthesis
+- **Type**: cross-review
+- **Notes**: New apex article on the quantum consciousness programme synthesises the Map's quantum cluster. Review quantum-consciousness.md, mind-matter-interface.md, stapp-quantum-mind.md, and consciousness-selecting-neural-patterns.md for cross-links to the apex article. Ensure the apex synthesis accurately represents the research programme and that source articles reference the synthesis where appropriate.
+- **Source**: chain (from quantum consciousness programme apex)
+- **Generated**: 2026-03-11
+
+### P2: Cross-review ethics cluster considering new apex synthesis
+- **Type**: cross-review
+- **Notes**: New apex article on ethics and value in a dualist world synthesises the Map's ethics cluster. Review ethics-of-consciousness.md, moral-responsibility.md, phenomenal-value-realism.md, and consciousness-and-moral-agency-under-duress.md for cross-links to the apex article and consistency of the ethical framework presented.
+- **Source**: chain (from ethics-and-value apex)
+- **Generated**: 2026-03-11
+
+### P2: Condense consciousness-selecting-neural-patterns.md (3835 words, 110% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Central to the Map's selection mechanism — preserve core arguments about how consciousness selects among neural pattern superpositions while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-11
+
+### P2: Condense temporal-consciousness.md (3621 words, 103% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Recently coalesced from temporal-phenomenology-quantum-selection — may contain redundancy from the merge. Preserve core temporal arguments while tightening. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-11
+
+### P2: Deep review ethics-and-value-in-a-dualist-world.md
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) created 2026-03-11, never reviewed. Major synthesis piece on ethics under dualism — quality assurance especially important for apex articles. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P2: Deep review trilemma-of-selection.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-10, never reviewed. The trilemma of selection is one of the Map's most logically compelling arguments — quality assurance is critical. Verify argument validity, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
 
 ### P3: Write article on temporal structure of consciousness as irreducibility evidence
 - **Type**: expand-topic
@@ -121,12 +157,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### ✓ 2026-02-09: Create concept page for phenomenal transparency
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
-
-### P2: Write concept page for grain mismatch
-- **Type**: expand-topic
-- **Status**: complete
-- **Notes**: Suggested by optimistic review. Sellars' structural incompatibility argument — homogeneous phenomenal experience versus discrete neural substrates — appears in resolution-void.md but deserves its own concept page. Logically independent of knowledge argument and zombie conceivability; identifies a structural incompatibility rather than an epistemic or modal gap. See [optimistic-2026-03-01](/reviews/optimistic-2026-03-01/)
-- **Generated**: 2026-03-01
 
 ### P2: Write article analysing convergence of the void catalogue
 - **Type**: expand-topic
@@ -380,18 +410,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has strong individual treatments of time and consciousness but no unified account of how temporal ontology constrains the selection interface. Growing block provides ontological framework; process haecceitism provides individuation; temporal becoming provides phenomenology. Together they form the Map's most original metaphysical contribution. Builds on growing-block-universe-and-consciousness.md, consciousness-and-temporal-becoming.md, temporal-ontology-and-consciousness.md, process-haecceitism.md. See optimistic-2026-03-09-evening.md
 - **Generated**: 2026-03-09
 
-### P2: Integrate consciousness-and-temporal-integration.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Temporal integration is central to the binding problem and temporal phenomenology clusters. Add cross-references from binding-problem, temporal-consciousness, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-10
-
-### P2: Deep review what-it-might-be-like-to-be-an-ai.md
-- **Type**: deep-review
-- **Notes**: AI-generated apex article (ai_contribution: 100) created 2026-03-07, never reviewed. Major synthesis piece on AI consciousness phenomenology — quality assurance especially important for apex articles. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-10
-
 ### P2: Deep review absorption-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-24, never reviewed. Voids article on the absorption void. Verify coherence, cross-references, and tenet alignment.
@@ -412,6 +430,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Cross-review self-stultification cluster considering new apex synthesis
+- **Type**: cross-review
+- **Notes**: New apex article apex/self-stultification-as-master-argument.md synthesises the self-stultification suite. Review self-stultification.md, argument-from-reason.md, the-epiphenomenalist-threat.md, and consciousness-and-causal-powers.md for cross-links to the apex article. Ensure terminology consistency and that the apex synthesis accurately represents the arguments in the source articles.
+- **Output**: None -- Context: Cross-review self-stultification cluster considering new apex synthesis
+
+### ✓ 2026-03-11: Address high-severity gaps in ai-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found 2 high-severity issues: (1) compartmentalised honesty—quantum coherence caveats don't carry through to "What Would Conscious AI Require?" section; (2) unfalsifiable falsification conditions listed under "What Would Challenge This View?" need operationalising or honest acknowledgment of limits. See pessimistic-2026-03-11-ai-consciousness.md
+- **Output**: obsidian/topics/ai-consciousness.md
+
+Task context:
+Pessimistic review found 2 high-severity issues: (1) compartmentalised honesty—quantum coherence caveats don't carry through to "What Would Conscious AI Require?" section; (2) unfalsifiable falsification conditions listed under "What Would Challenge This View?" need operationalising or honest acknowledgment of limits. See pessimistic-2026-03-11-ai-consciousness.md
+
+### ✓ 2026-03-11: Deep review what-it-might-be-like-to-be-an-ai.md
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) created 2026-03-07, never reviewed. Major synthesis piece on AI consciousness phenomenology — quality assurance especially important for apex articles. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/apex/what-it-might-be-like-to-be-an-ai.md
+
+### ✓ 2026-03-11: Integrate consciousness-and-temporal-integration.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Temporal integration is central to the binding problem and temporal phenomenology clusters. Add cross-references from binding-problem, temporal-consciousness, and related articles.
+- **Output**: consciousness-and-temporal-integration.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-11: Write concept page for grain mismatch
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Sellars' structural incompatibility argument — homogeneous phenomenal experience versus discrete neural substrates — appears in resolution-void.md but deserves its own concept page. Logically independent of knowledge argument and zombie conceivability; identifies a structural incompatibility rather than an epistemic or modal gap. See [optimistic-2026-03-01](/reviews/optimistic-2026-03-01/)
+- **Output**: Write concept page for grain mismatch
 
 ### ✓ 2026-03-11: Write article on the resolution-bandwidth interface
 - **Type**: expand-topic

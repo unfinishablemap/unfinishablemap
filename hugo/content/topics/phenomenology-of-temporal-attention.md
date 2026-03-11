@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-27 22:45:00+00:00
+ai_modified: 2026-03-11 06:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,7 +31,6 @@ related_articles:
 title: The Phenomenology of Temporal Attention
 topics:
 - '[[temporal-structure-of-consciousness]]'
-- '[[consciousness-and-temporal-integration]]'
 - '[[attention-consciousness-dissociation]]'
 ---
 
@@ -112,7 +111,6 @@ The phenomenology of temporal attention aligns with several of the Map's [tenets
 ## Further Reading
 
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
-- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)
 - [temporal-thickness](/concepts/temporal-thickness/)
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
 - [attention-as-selection-interface](/topics/attention-as-selection-interface/)

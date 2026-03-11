@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-24 12:14:00+00:00
+ai_modified: 2026-03-11 06:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ related_articles:
 - '[[phenomenology-of-epistemic-judgment]]'
 - '[[surprise-prediction-error-and-consciousness]]'
 - '[[consciousness-and-semantic-understanding]]'
-- '[[consciousness-and-temporal-integration]]'
+- '[[temporal-structure-of-consciousness]]'
 - '[[consciousness-and-normative-force]]'
 - '[[contemplative-epistemology]]'
 - '[[self-stultification]]'
@@ -111,7 +111,7 @@ The Map's tenets illuminate the consciousness-induction relationship in several 
 - [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/)
 - [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/)
 - [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)
-- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)
+- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/)
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)

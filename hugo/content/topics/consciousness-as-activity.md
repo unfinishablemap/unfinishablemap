@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-23 07:50:00+00:00
+ai_modified: 2026-03-11 06:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,7 +31,7 @@ related_articles:
 - '[[tenets]]'
 - '[[william-james-consciousness]]'
 - '[[consciousness-and-skilled-performance]]'
-- '[[consciousness-and-temporal-integration]]'
+- '[[temporal-structure-of-consciousness]]'
 - '[[sensorimotor-contingencies-and-the-interface]]'
 - '[[process-and-consciousness]]'
 - '[[consciousness-and-agency]]'
@@ -138,7 +138,7 @@ The activity framing strengthens the Map's framework at every point.
 - [agent-causation](/concepts/agent-causation/) — The agent as performer of conscious activity
 - [mental-causation](/concepts/mental-causation/) — Why activities are inherently causal
 - [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/) — Consciousness as architect of skilled action
-- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — Temporal binding as ongoing activity
+- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Temporal binding as ongoing activity
 - [process-and-consciousness](/apex/process-and-consciousness/) — Apex synthesis connecting process philosophy to the Map's tenets
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Enactivist approaches to conscious activity
 - [consciousness-and-agency](/apex/consciousness-and-agency/) — Apex synthesis connecting consciousness to agency through activity

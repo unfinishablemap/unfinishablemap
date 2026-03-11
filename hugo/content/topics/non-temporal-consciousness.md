@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-03-04 14:24:00+00:00
+ai_modified: 2026-03-11 06:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,6 @@ last_deep_review: 2026-03-04 14:24:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[consciousness-and-temporal-integration]]'
 - '[[temporal-structure-of-consciousness]]'
 - '[[fragmented-consciousness]]'
 - '[[non-temporal-fragmented-consciousness-2026-02-10]]'
@@ -121,7 +120,6 @@ Non-temporal consciousness connects directly to the Map's [tenets](/tenets/):
 ## Further Reading
 
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — How consciousness requires and constitutes temporal structure
-- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — How moments bind into experiential flow
 - [fragmented-consciousness](/topics/fragmented-consciousness/) — What splits when consciousness fragments — and what doesn't
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Meditation as phenomenological data
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader challenge of explaining experience

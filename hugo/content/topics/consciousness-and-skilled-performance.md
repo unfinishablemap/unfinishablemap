@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-10 15:25:00+00:00
+ai_modified: 2026-03-11 06:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -54,7 +54,7 @@ related_articles:
 - '[[phenomenology-of-epistemic-judgment]]'
 - '[[phenomenology-of-returning-attention]]'
 - '[[consciousness-and-the-neuroscience-of-deliberate-practice]]'
-- '[[consciousness-and-temporal-integration]]'
+- '[[temporal-structure-of-consciousness]]'
 - '[[contemplative-path]]'
 - '[[dopamine-and-the-unified-interface]]'
 title: Consciousness and Skilled Performance
@@ -177,7 +177,7 @@ The strongest physicalist counterargument is that executive attention networks a
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The levels of consciousness that map onto the phases of skill
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares the selection interface that flow engages frictionlessly
 - [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) — How attention and consciousness can come apart
-- [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — Temporal binding and the structure of the specious present
+- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Temporal binding and the structure of the specious present
 - [contemplative-path](/apex/contemplative-path/) — Contemplative practices that cultivate flow-like states
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal vs. narrative self and the layers of self-awareness
 - [pain-asymbolia](/concepts/pain-asymbolia/) — Another case where phenomenal experience dissociates from its expected functional role
