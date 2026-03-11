@@ -1,11 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-05 19:25:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[the-case-for-dualism]]'
+- '[[dualism]]'
 - '[[qualia]]'
 - '[[explanatory-gap]]'
 - '[[concepts/materialism]]'
@@ -172,7 +172,7 @@ These conditions remain the right targets even where satisfaction is difficult. 
 
 ## The Convergence Argument
 
-The zombie argument is one of seven major arguments against materialism surveyed in [the-case-for-dualism](/concepts/the-case-for-dualism/). These arguments—the explanatory gap, knowledge argument, zombie argument, inverted qualia, Kripke's modal argument, Nagel's subjectivity argument, and quantum mechanical considerations—proceed through different logical routes yet converge on the same conclusion. The zombie argument's specific contribution: it shows that the explanatory gap reflects genuine logical independence between physical facts and phenomenal facts, not merely a failure of imagination.
+The zombie argument is one of seven major arguments against materialism surveyed in [dualism](/concepts/dualism/). These arguments—the explanatory gap, knowledge argument, zombie argument, inverted qualia, Kripke's modal argument, Nagel's subjectivity argument, and quantum mechanical considerations—proceed through different logical routes yet converge on the same conclusion. The zombie argument's specific contribution: it shows that the explanatory gap reflects genuine logical independence between physical facts and phenomenal facts, not merely a failure of imagination.
 
 However, this convergence is only as strong as the independence of the arguments' premises. Eliminativists and illusionists argue that all seven arguments share a foundational presupposition: that first-person phenomenal concepts reliably track a genuine ontological category. If this presupposition fails—if "consciousness" is as confused a concept as "vital élan"—then the arguments fail collectively, not because each is independently refuted but because their shared foundation gives way. The convergence would then reflect a common error amplified across multiple frameworks rather than independent confirmation.
 
@@ -195,7 +195,7 @@ The zombie argument connects to all five of the Map's tenets.
 ## Further Reading
 
 ### Site Content
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — How the zombie argument fits within seven converging anti-materialist arguments
+- [dualism](/concepts/dualism/) — How the zombie argument fits within seven converging anti-materialist arguments
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader problem the zombie argument illuminates
 - [explanatory-gap](/concepts/explanatory-gap/) — Levine's analysis of why physical explanation leaves consciousness unexplained
 - [qualia](/concepts/qualia/) — The qualitative properties zombies lack

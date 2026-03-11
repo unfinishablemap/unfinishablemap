@@ -129,7 +129,7 @@ This claim invites an obvious objection: if consciousness is the ground of expla
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness exists at all
 - [why-phenomenal-unity-resists-explanation](/topics/quantum-holism-and-phenomenal-unity/) — The unity of experience as a particular case of explanatory failure
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure as an explanation for the explanatory failure
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The converging arguments that consciousness exceeds physics
+- [the-case-for-dualism](/concepts/dualism/) — The converging arguments that consciousness exceeds physics
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room: physical knowledge without experiential understanding
 - [illusionism](/concepts/illusionism/) — The strongest physicalist response to the explanatory gap
 - [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-limits-of-explanation/) — Why science cannot explain why it explains anything

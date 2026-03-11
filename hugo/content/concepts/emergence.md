@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-02-27 18:46:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -175,7 +175,7 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 
 ## Further Reading
 
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — Seven converging arguments that physical description cannot capture consciousness
+- [dualism](/concepts/dualism/) — Seven converging arguments that physical description cannot capture consciousness
 - [mental-causation](/concepts/mental-causation/) — The philosophical problem strong emergence addresses
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness emerged and what this reveals about emergence theory
 - [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Why consciousness is the singular exception to reductionism's track record

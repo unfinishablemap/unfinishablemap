@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-07 22:39:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ related_articles:
 - '[[epistemic-advantages-of-dualism]]'
 - '[[epistemological-limits-occams-razor]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
-- '[[the-case-for-dualism]]'
+- '[[dualism]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'
 - '[[cross-cultural-phenomenology-of-agency]]'
 - '[[evolved-cognitive-limits]]'
@@ -175,7 +175,7 @@ The Map treats convergence as genuine evidence while acknowledging its limits. C
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Meta-level argument from epistemic humility
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why parsimony fails in this debate
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Convergence across contemplative traditions
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The individual arguments catalogued
+- [dualism](/concepts/dualism/) — The individual arguments catalogued
 - [methodological-pluralism](/concepts/methodological-pluralism/) — Multiple methods as a philosophical approach
 
 ## References

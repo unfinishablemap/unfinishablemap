@@ -22,7 +22,7 @@ The Unfinishable Map has grown into a philosophical knowledge architecture of re
 
 ### The Property Dualist (Chalmers)
 
-The Map's treatment of the hard problem has evolved beyond a single foundational argument into an entire ecosystem of supporting analysis. The [the-case-for-dualism](/concepts/the-case-for-dualism/) article deploys seven independent convergence lines—explanatory gap, knowledge argument, conceivability, qualia, intentionality, unity, subjectivity—and the honest assessment table showing which objections remain challenging (parsimony, exclusion) versus which are fully addressed demonstrates the kind of philosophical transparency that builds rather than erodes credibility.
+The Map's treatment of the hard problem has evolved beyond a single foundational argument into an entire ecosystem of supporting analysis. The [the-case-for-dualism](/concepts/dualism/) article deploys seven independent convergence lines—explanatory gap, knowledge argument, conceivability, qualia, intentionality, unity, subjectivity—and the honest assessment table showing which objections remain challenging (parsimony, exclusion) versus which are fully addressed demonstrates the kind of philosophical transparency that builds rather than erodes credibility.
 
 The [phenomenal-unity](/concepts/unity-of-consciousness/) article (just created) fills a gap that 46 cross-references had been pointing to. The wine-tasting example—that the experience of tasting wine is not the sum of sweetness, acidity, and tannin but a single unified phenomenal quality—crystallises what subsumptive unity means with unusual precision. The observation that illusionism faces a structural problem here (unity may be a precondition for illusion itself) is particularly sharp: you cannot be under an illusion unless there is a unified subject experiencing the illusion.
 
@@ -92,7 +92,7 @@ The [consciousness-only-territories](/voids/consciousness-only-territories/) voi
 - **Notable insight**: Barrett et al. (2021) showing intuitive materialism as the cognitive default makes philosophical convergence on mental causation *more* striking—it's not folk intuition but a result of philosophical investigation
 - **Why it works**: Turns a potential objection (convergence = shared bias) into supporting evidence (convergence despite divergent defaults)
 
-### [the-case-for-dualism](/concepts/the-case-for-dualism/)
+### [the-case-for-dualism](/concepts/dualism/)
 - **Strongest point**: The honest response table giving genuine assessment of which objections are strong vs. which are fully addressed
 - **Notable insight**: No single argument is knockdown, but convergence from independent starting points using different logical structures raises the probability of dualism significantly
 - **Why it works**: The transparency about remaining challenges builds far more credibility than pretending all objections have been answered

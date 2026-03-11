@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-11 01:53:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,7 +26,7 @@ last_curated: null
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[the-case-for-dualism]]'
+- '[[dualism]]'
 - '[[phenomenal-conservatism-and-introspective-evidence]]'
 - '[[consciousness-and-the-authority-of-formal-systems]]'
 - '[[consciousness-and-the-problem-of-induction]]'
@@ -180,7 +180,7 @@ The suite also reveals why the Map treats the [epiphenomenalist threat](/topics/
 - [consciousness-and-the-problem-of-induction](/topics/consciousness-and-the-problem-of-induction/) — Self-stultification applied to inductive reasoning
 - [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/) — Whether introspective reports are causally connected to experiences
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — The epistemic framework the suite presupposes
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — Multiple converging arguments including self-stultification
+- [dualism](/concepts/dualism/) — Multiple converging arguments including self-stultification
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework that escapes self-stultification
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-02-21 09:36:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ concepts:
 - '[[phenomenal-binding-and-holism]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[explanatory-gap]]'
-- '[[the-case-for-dualism]]'
+- '[[dualism]]'
 - '[[phenomenal-consciousness]]'
 - '[[reductionism]]'
 created: 2026-01-22
@@ -221,7 +221,7 @@ The aesthetic dimension of consciousness supports the Map's [foundational commit
 - [aesthetic-void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to experience
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — Parallel analysis for moral value
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The standard philosophical case, which aesthetic evidence supplements
+- [dualism](/concepts/dualism/) — The standard philosophical case, which aesthetic evidence supplements
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what physical information leaves out
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability arguments for dualism
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Other experiential evidence for consciousness theories

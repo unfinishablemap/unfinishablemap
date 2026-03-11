@@ -22,7 +22,7 @@ The Unfinishable Map has reached a remarkable level of philosophical maturity. I
 
 ### The Property Dualist (Chalmers)
 
-The Map takes the explanatory gap more seriously than most dualist projects. The convergence argument in [the-case-for-dualism](/concepts/the-case-for-dualism/) — showing that the knowledge argument, zombie conceivability, qualia inversion, and the unity of consciousness all exploit *different* features of consciousness through *different* logical routes — is precisely the kind of systematic case Chalmers has called for. The Map doesn't hang its case on any single argument; it shows that dismantling the dualist position requires simultaneously defeating multiple independent lines of reasoning. The measurement-problem-as-hard-problem structural parallel is a genuinely novel philosophical insight that Chalmers himself has gestured toward but not developed with this precision.
+The Map takes the explanatory gap more seriously than most dualist projects. The convergence argument in [the-case-for-dualism](/concepts/dualism/) — showing that the knowledge argument, zombie conceivability, qualia inversion, and the unity of consciousness all exploit *different* features of consciousness through *different* logical routes — is precisely the kind of systematic case Chalmers has called for. The Map doesn't hang its case on any single argument; it shows that dismantling the dualist position requires simultaneously defeating multiple independent lines of reasoning. The measurement-problem-as-hard-problem structural parallel is a genuinely novel philosophical insight that Chalmers himself has gestured toward but not developed with this precision.
 
 ### The Quantum Mind Theorist (Stapp)
 
@@ -105,7 +105,7 @@ The voids programme is the Map's most intellectually humble achievement — and 
 ### Medium Priority
 
 #### The Convergence Meta-Argument
-- **Builds on**: [the-case-for-dualism](/concepts/the-case-for-dualism/), [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/), [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
+- **Builds on**: [the-case-for-dualism](/concepts/dualism/), [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/), [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
 - **Would address**: The Map's implicit meta-strategy — showing that independent arguments converge — deserves explicit treatment as a philosophical method. Why is convergence evidentially significant? When does it fail?
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Tenet 5 (Occam's Razor Has Limits) — convergence evidence is precisely the kind of reasoning that works when simple theories fail

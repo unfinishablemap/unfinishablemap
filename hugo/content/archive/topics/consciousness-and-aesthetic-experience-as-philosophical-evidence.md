@@ -48,7 +48,7 @@ topics:
 - '[[aesthetic-dimension-of-consciousness]]'
 ---
 
-Aesthetic experience is among the strongest—and most neglected—sources of philosophical evidence about the nature of consciousness. The standard [arguments for dualism](/concepts/the-case-for-dualism/)—the [knowledge argument](/concepts/knowledge-argument/), [conceivability arguments](/concepts/philosophical-zombies/), [explanatory gap](/concepts/explanatory-gap/) reasoning—draw primarily on sensory [qualia](/concepts/qualia/) like colour, pain, and taste. But aesthetic experience amplifies these arguments. Beauty is not merely another quale alongside redness or painfulness. It introduces additional features—intrinsic normativity, gestalt dependence, and cultural-personal variability combined with apparent objectivity—that make physicalist reduction even harder to sustain.
+Aesthetic experience is among the strongest—and most neglected—sources of philosophical evidence about the nature of consciousness. The standard [arguments for dualism](/concepts/dualism/)—the [knowledge argument](/concepts/knowledge-argument/), [conceivability arguments](/concepts/philosophical-zombies/), [explanatory gap](/concepts/explanatory-gap/) reasoning—draw primarily on sensory [qualia](/concepts/qualia/) like colour, pain, and taste. But aesthetic experience amplifies these arguments. Beauty is not merely another quale alongside redness or painfulness. It introduces additional features—intrinsic normativity, gestalt dependence, and cultural-personal variability combined with apparent objectivity—that make physicalist reduction even harder to sustain.
 
 The Unfinishable Map treats aesthetic experience as a distinct evidential category for [dualism](/tenets/#dualism). This article examines what aesthetic experience adds to the philosophical case beyond what standard qualia arguments already establish.
 
@@ -149,7 +149,7 @@ Aesthetic experience strengthens the Map's case across multiple tenets.
 ## Further Reading
 
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — The broader exploration of aesthetic quality in conscious experience
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The standard philosophical case, which aesthetic evidence supplements
+- [the-case-for-dualism](/concepts/dualism/) — The standard philosophical case, which aesthetic evidence supplements
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what physical information leaves out
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability arguments for dualism
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Intrinsic normativity in experience

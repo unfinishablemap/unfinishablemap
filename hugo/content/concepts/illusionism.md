@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-05 19:25:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,7 +15,7 @@ concepts:
 - '[[introspection]]'
 - '[[mysterianism]]'
 - '[[knowledge-argument]]'
-- '[[the-case-for-dualism]]'
+- '[[dualism]]'
 - '[[phenomenal-consciousness]]'
 - '[[meta-problem-of-consciousness]]'
 - '[[heterophenomenology]]'
@@ -157,7 +157,7 @@ Recent work has focused on several questions:
 - Whether illusionism can be empirically distinguished from ordinary [materialism](/concepts/materialism/)
 - The "hardest aspect" of the illusion problem: why the illusion resists dissolution
 - Whether illusionism is self-refuting (if our beliefs about consciousness are illusions, why trust our belief in illusionism?)
-- How illusionism handles the [convergence argument](/concepts/the-case-for-dualism/)—multiple independent routes to the same anti-materialist conclusion
+- How illusionism handles the [convergence argument](/concepts/dualism/)—multiple independent routes to the same anti-materialist conclusion
 
 ## Relation to Site Perspective
 
@@ -176,7 +176,7 @@ The persistence of the illusion problem suggests illusionism doesn't escape the 
 ### Site Content
 - [attention-schema-theory](/concepts/attention-schema-theory/) — The neuroscientific mechanism for illusionism, and the Map's critique
 - [attention](/concepts/attention-as-interface/) — What AST claims consciousness is a model of
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — Illusionism as the most radical physicalist response
+- [dualism](/concepts/dualism/) — Illusionism as the most radical physicalist response
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap illusionism claims doesn't need bridging
 - [introspection](/concepts/introspection/) — The reliability of phenomenal reports illusionism must challenge
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what illusionism must say about learning

@@ -58,12 +58,12 @@ None identified.
 - **[interaction-problem-in-non-western-philosophy](/topics/interaction-problem-in-non-western-philosophy/) link**: Connected Samkhya's interaction problem to the dedicated comparative article
 - **[philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/) link**: Connected Nyaya's perception theory to modern dualist perception theories
 - **[the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) link**: Made explicit that the three-school convergence is an instance of the convergence argument operating within a single culture
-- **[the-case-for-dualism](/concepts/the-case-for-dualism/) link**: Connected the Dualism tenet section to the cumulative case article
+- **[the-case-for-dualism](/concepts/dualism/) link**: Connected the Dualism tenet section to the cumulative case article
 
 ### Cross-links Added
 - [dualism](/concepts/dualism/) — core concept page
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — epistemological structure of the convergence
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — cumulative case for dualism
+- [the-case-for-dualism](/concepts/dualism/) — cumulative case for dualism
 - [interaction-problem-in-non-western-philosophy](/topics/interaction-problem-in-non-western-philosophy/) — comparative survey
 - [causal-closure](/concepts/causal-closure/) — Samkhya preserves closure
 - [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/) — Nyaya perception parallels

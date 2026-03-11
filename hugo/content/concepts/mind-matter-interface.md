@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-08 13:31:00+00:00
+ai_modified: 2026-03-11 08:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -31,6 +31,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[mind-brain-separation]]'
+- '[[quantum-consciousness-programme]]'
 title: 'The Mind-Matter Interface: Unifying Filter Theory and Quantum Selection'
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -189,6 +190,7 @@ This unified model is the Map's most complete answer to how consciousness relate
 
 ## Further Reading
 
+- [quantum-consciousness-programme](/apex/quantum-consciousness-programme/) — Apex synthesis of the full quantum consciousness research programme
 - [filter-theory](/concepts/filter-theory/) — The transmission model in detail (James, Bergson, Huxley)
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum selection mechanisms (Stapp, Orch OR)
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — How selection operates concretely

@@ -104,7 +104,7 @@ Future reviews should NOT re-flag:
 - "Functionalist responses could be stronger" — the article now covers illusionism, PCS, heterophenomenology, and the systems reply
 - "Dennett/Churchland would disagree" — expected philosophical opposition
 - "Article rejects functionalism" — this is the Map's position
-- "Convergence argument needs more detail" — the detail is delegated to [arguments-against-materialism](/topics/arguments-against-materialism/) and [the-case-for-dualism](/concepts/the-case-for-dualism/)
+- "Convergence argument needs more detail" — the detail is delegated to [arguments-against-materialism](/topics/arguments-against-materialism/) and [the-case-for-dualism](/concepts/dualism/)
 
 The AI refinement log (bottom of article) is marked "should be removed after human review" — this is a human action item, not an AI review issue.
 

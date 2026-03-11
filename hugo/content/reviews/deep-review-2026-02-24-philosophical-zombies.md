@@ -27,7 +27,7 @@ None. The article remains well-structured and accurate. All six adversarial pers
 
 ### Medium Issues Found
 - **Missing cross-links to epistemology of other minds**: The article discusses epistemological implications (self-stultification, paradox of phenomenal judgment) without linking to the dedicated epistemology articles. **Resolution**: Added `[epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/)` and `[problem-of-other-minds](/concepts/problem-of-other-minds/)` to frontmatter and Further Reading; added one sentence in Self-Stultification section connecting zombie reports to the other-minds epistemology.
-- **Duplicate Further Reading entry**: `[the-case-for-dualism](/concepts/the-case-for-dualism/)` appeared twice with different descriptions (lines 190 and 205). **Resolution**: Removed the duplicate, keeping the first entry with the more specific description.
+- **Duplicate Further Reading entry**: `[the-case-for-dualism](/concepts/dualism/)` appeared twice with different descriptions (lines 190 and 205). **Resolution**: Removed the duplicate, keeping the first entry with the more specific description.
 
 ### Low Issues Found
 - **Stale AI refinement log**: HTML comment from 2026-02-16 stating "This log should be removed after human review" persisted through two deep reviews. **Resolution**: Removed.
@@ -62,7 +62,7 @@ All attributions verified:
 ### Enhancements Made
 - Added cross-links to `[epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/)` and `[problem-of-other-minds](/concepts/problem-of-other-minds/)` in frontmatter concepts and Further Reading
 - Added one sentence connecting self-stultification to epistemology of other minds (zombie reports indistinguishable from conscious being's → verbal testimony alone cannot settle consciousness)
-- Removed duplicate `[the-case-for-dualism](/concepts/the-case-for-dualism/)` from Further Reading
+- Removed duplicate `[the-case-for-dualism](/concepts/dualism/)` from Further Reading
 - Removed stale AI refinement log
 
 ### Cross-links Added

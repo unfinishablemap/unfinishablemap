@@ -1,11 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-03-04 07:52:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[the-case-for-dualism]]'
+- '[[dualism]]'
 - '[[philosophical-zombies]]'
 - '[[interactionist-dualism]]'
 created: 2026-02-06
@@ -19,7 +19,7 @@ last_deep_review: 2026-03-04 07:52:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[the-case-for-dualism]]'
+- '[[dualism]]'
 - '[[mysterianism]]'
 title: Epistemological Limits of Occam's Razor
 topics:
@@ -97,7 +97,7 @@ The claim is narrower and more defensible: parsimony cannot settle the conscious
 
 ## Further Reading
 
-- [the-case-for-dualism](/concepts/the-case-for-dualism/)
+- [dualism](/concepts/dualism/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [causal-closure](/concepts/causal-closure/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-04 23:47:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[other-minds-void]]'
-- '[[the-case-for-dualism]]'
+- '[[dualism]]'
 - '[[consciousness-as-amplifier]]'
 - '[[problem-of-other-minds-2026-01-14]]'
 - '[[consciousness-only-territories]]'
@@ -123,7 +123,7 @@ The epistemology of other minds under dualism connects to the Map's framework at
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Why behavioural evidence cannot logically guarantee consciousness
 - [zombie-master-argument](/concepts/zombie-master-argument/) — How zombie conceivability subsumes the knowledge argument and explanatory gap
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Cognitive capacities as markers of consciousness
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The positive arguments for irreducibility
+- [dualism](/concepts/dualism/) — The positive arguments for irreducibility
 - [intersubjectivity](/concepts/intersubjectivity/) — The shared space between minds and its dualist implications
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Regions of experience structurally beyond external access
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and the parallel case for phenomenal knowledge exceeding physical knowledge

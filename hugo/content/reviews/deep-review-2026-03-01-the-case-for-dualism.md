@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-01
-**Article**: [The Case for Dualism](/concepts/the-case-for-dualism/)
+**Article**: [The Case for Dualism](/concepts/dualism/)
 **Previous review**: [2026-02-22](/reviews/deep-review-2026-02-22b-the-case-for-dualism/)
 **Word count**: 2286 → 2301 (+15 words, +0.7%)
 **Review context**: Cross-review considering arguments-against-materialism insights.

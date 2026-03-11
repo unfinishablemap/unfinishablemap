@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-03 02:44:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -123,7 +123,7 @@ The Map's position would face serious difficulty if:
 
 Quantum biology connects to all five of the Map's [tenets](/tenets/):
 
-**[Dualism](/tenets/#dualism)**: If consciousness interfaces with physics at quantum indeterminacies, critics often claim such effects couldn't occur in warm biological systems. Quantum biology demonstrates this claim is empirically false. The tenet doesn't depend on quantum biology—the [positive arguments for dualism](/concepts/the-case-for-dualism/) stand independently—but a major objection has been removed.
+**[Dualism](/tenets/#dualism)**: If consciousness interfaces with physics at quantum indeterminacies, critics often claim such effects couldn't occur in warm biological systems. Quantum biology demonstrates this claim is empirically false. The tenet doesn't depend on quantum biology—the [positive arguments for dualism](/concepts/dualism/) stand independently—but a major objection has been removed.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: This tenet proposes consciousness biases quantum outcomes without injecting energy. Quantum biology demonstrates the relevant substrate exists: biological systems routinely involve quantum indeterminacies. Whether consciousness operates at such indeterminacies remains the central hypothesis.
 

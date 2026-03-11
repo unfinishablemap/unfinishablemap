@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-21
-**Article**: [The Case for Dualism](/concepts/the-case-for-dualism/)
+**Article**: [The Case for Dualism](/concepts/dualism/)
 **Previous review**: Never
 **Word count**: 4475 → 4182 (-293 words, -6.5%)
 

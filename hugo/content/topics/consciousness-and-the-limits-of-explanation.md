@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-23 22:35:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ last_deep_review: 2026-02-23 22:35:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[the-case-for-dualism]]'
+- '[[dualism]]'
 - '[[consciousness-and-the-problem-of-theoretical-virtues]]'
 - '[[consciousness-and-the-problem-of-philosophical-progress]]'
 - '[[first-person-third-person-methodology]]'
@@ -185,7 +185,7 @@ The Map holds that this failure may ultimately be more revealing than the hard p
 - [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) — Alternative epistemic strategies when mechanistic explanation faces categorical limits
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — First-person methods that address the reflexive gap from within experience
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) — What the loss of understanding in neurodegeneration reveals about its phenomenal basis
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The converging arguments that consciousness exceeds physics
+- [dualism](/concepts/dualism/) — The converging arguments that consciousness exceeds physics
 
 ## References
 

@@ -115,7 +115,7 @@ The Map's consistent intellectual honesty—the AI exception in the epiphenomena
 ### High Priority
 
 #### The Epistemology of Other Minds Under Dualism
-- **Builds on**: [interactionist-dualism](/concepts/interactionist-dualism/), [philosophical-zombies](/concepts/philosophical-zombies/), [the-case-for-dualism](/concepts/the-case-for-dualism/), [zombie-master-argument](/concepts/zombie-master-argument/)
+- **Builds on**: [interactionist-dualism](/concepts/interactionist-dualism/), [philosophical-zombies](/concepts/philosophical-zombies/), [the-case-for-dualism](/concepts/dualism/), [zombie-master-argument](/concepts/zombie-master-argument/)
 - **Would address**: If consciousness is irreducible to physical processes, how do we know other minds exist? The Map has powerful arguments for consciousness's reality but hasn't developed the epistemic challenge dualism faces regarding other minds. Standard inference to the best explanation may need modification under dualism.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Directly addresses a classical objection to Dualism (Tenet 1); connects to Bidirectional Interaction (if consciousness makes physical differences, we can detect its presence through effects)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-05 08:38:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -163,7 +163,7 @@ The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article show
 - [mental-causation](/concepts/mental-causation/) — The problem self-stultification helps resolve
 - [causal-closure](/concepts/causal-closure/) — The principle whose rejection self-stultification motivates
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework that escapes self-stultification
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — Multiple converging arguments including self-stultification
+- [dualism](/concepts/dualism/) — Multiple converging arguments including self-stultification
 
 ## References
 

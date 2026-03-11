@@ -83,7 +83,7 @@ No dropped qualifiers, source/Map conflation, or self-contradictions detected.
 - Removed stale AI refinement log
 
 ### Cross-links Verified
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — convergence argument (link text updated)
+- [the-case-for-dualism](/concepts/dualism/) — convergence argument (link text updated)
 - All existing cross-links intact and accurate
 
 ## Length Analysis

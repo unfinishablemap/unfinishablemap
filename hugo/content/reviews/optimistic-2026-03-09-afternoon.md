@@ -22,7 +22,7 @@ The Unfinishable Map has reached a stage where its core argumentative architectu
 
 ### The Property Dualist (Chalmers)
 
-The Map takes the explanatory gap more seriously than most dualist projects. The convergence structure in [the-case-for-dualism](/concepts/the-case-for-dualism/)—seven independent arguments reaching the same conclusion—mirrors the kind of cumulative case Chalmers himself builds. The knowledge argument treatment is exemplary: it engages Loar's phenomenal concepts strategy, higher-order theories, and process philosophy without conceding ground. The transparency test in [emergence](/concepts/emergence/)—"once you understand the mechanism, why does the phenomenon have its character?"—is a pedagogically powerful formulation of what the hard problem actually demands. Most impressively, the Map doesn't just assert the gap exists; articles like [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) and [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/) identify *specific* features of experience (autonoesis, selectional guidance, dream rendering) that physical description cannot capture.
+The Map takes the explanatory gap more seriously than most dualist projects. The convergence structure in [the-case-for-dualism](/concepts/dualism/)—seven independent arguments reaching the same conclusion—mirrors the kind of cumulative case Chalmers himself builds. The knowledge argument treatment is exemplary: it engages Loar's phenomenal concepts strategy, higher-order theories, and process philosophy without conceding ground. The transparency test in [emergence](/concepts/emergence/)—"once you understand the mechanism, why does the phenomenon have its character?"—is a pedagogically powerful formulation of what the hard problem actually demands. Most impressively, the Map doesn't just assert the gap exists; articles like [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) and [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/) identify *specific* features of experience (autonoesis, selectional guidance, dream rendering) that physical description cannot capture.
 
 ### The Quantum Mind Theorist (Stapp)
 
@@ -61,7 +61,7 @@ The Map practices epistemic humility without surrendering to it. [selection-laws
 - **Notable argument**: Working memory manipulation distinction—unconscious systems maintain information; manipulation requires consciousness
 - **Why it works**: Integrates philosophy with cognitive science, providing the Map's strongest empirical defence of mental causation
 
-### [the-case-for-dualism](/concepts/the-case-for-dualism/)
+### [the-case-for-dualism](/concepts/dualism/)
 - **Strongest point**: Seven independent arguments converging on the same conclusion, with honest acknowledgment that shared starting intuitions partially undercut convergence force
 - **Notable argument**: Parsimony objection inverted—physicalism lacks explanatory parsimony once phenomenal consciousness is taken seriously
 - **Why it works**: Presents the cumulative case without overclaiming any single argument's decisiveness

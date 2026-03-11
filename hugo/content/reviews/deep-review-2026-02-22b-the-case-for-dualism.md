@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-22
-**Article**: [The Case for Dualism](/concepts/the-case-for-dualism/)
+**Article**: [The Case for Dualism](/concepts/dualism/)
 **Previous review**: [2026-02-22](/reviews/deep-review-2026-02-22-the-case-for-dualism/)
 **Word count**: 2219 → 2274 (+55 words, +2.5%)
 **Review context**: Cross-review considering parsimony void insights.

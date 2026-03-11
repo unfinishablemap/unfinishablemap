@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-03-05 16:17:00+00:00
+ai_modified: 2026-03-11 08:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -39,6 +39,7 @@ related_articles:
 - '[[illusionism]]'
 - '[[decoherence-and-macroscopic-superposition]]'
 - '[[amplification-void]]'
+- '[[quantum-consciousness-programme]]'
 title: Quantum Consciousness Mechanisms
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -47,7 +48,7 @@ topics:
 
 Several scientific proposals explain how consciousness might interact with physics at the quantum level—not "quantum mysticism" but rigorous theories proposing mechanisms by which consciousness could influence brain activity without violating physical law.
 
-The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet aligns with these approaches: consciousness operates at quantum indeterminacies, biasing undetermined outcomes without injecting energy.
+The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet aligns with these approaches: consciousness operates at quantum indeterminacies, biasing undetermined outcomes without injecting energy. For how these mechanisms fit into the Map's broader research programme — from philosophical motivation through candidate mechanisms to empirical evidence — see [The Quantum Consciousness Programme](/apex/quantum-consciousness-programme/).
 
 ## The Quantum Opening
 
@@ -187,6 +188,9 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 **A mysterian caveat**: Even if these mechanisms prove correct, we may face cognitive closure on *how* consciousness interfaces with quantum effects. [Colin McGinn's cognitive closure thesis](/concepts/mysterianism/) suggests human minds may be constitutionally incapable of understanding this connection—not because the problem is unanswerable, but because the answer lies outside our conceptual repertoire. The Map documents mechanisms constrained by physics while acknowledging the ultimate nature of the consciousness-quantum interface may exceed human comprehension.
 
 ## Further Reading
+
+**Synthesis:**
+- [quantum-consciousness-programme](/apex/quantum-consciousness-programme/) — Apex article tracing the full research programme from tenets through mechanisms to evidence
 
 **Mechanisms and timing:**
 - [attention-interface-mechanisms](/topics/attention-as-selection-interface/) — Candidate neural sites, timing constraints, and testable predictions

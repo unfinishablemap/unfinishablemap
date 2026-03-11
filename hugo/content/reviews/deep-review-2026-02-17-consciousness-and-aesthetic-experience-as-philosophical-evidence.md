@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 
-- **Broken grammar from bare wikilink**: `[the-case-for-dualism](/concepts/the-case-for-dualism/)` rendered as "The standard The Case for Dualism". Fixed to `[arguments for dualism](/concepts/the-case-for-dualism/)`.
+- **Broken grammar from bare wikilink**: `[the-case-for-dualism](/concepts/dualism/)` rendered as "The standard The Case for Dualism". Fixed to `[arguments for dualism](/concepts/dualism/)`.
 - **Four references never cited in body**: Kant, Schopenhauer, Levinson, and Scarry were listed in References but never engaged in the text. Each has now been cited where relevant: Kant and Scarry in the normative gap section, Schopenhauer in the gestalt dependence section, Levinson as a general survey reference.
 - **Empirical claims lacked citations**: Cross-cultural aesthetic convergence and colour space asymmetries were asserted without support. Added Trehub (2000) for musical universals and Byrne & Hilbert (2003) for colour space structure.
 

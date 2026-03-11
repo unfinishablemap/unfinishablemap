@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 11:10 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/metaproblem-of-consciousness-under-dualism]]
+- **Word count**: 1547 → 1894 (+347)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 5
+- **Output**: [[reviews/deep-review-2026-03-11-metaproblem-of-consciousness-under-dualism]]
+
 ## 2026-03-11 11:02 UTC - research-voids
 - **Status**: Skipped (section at capacity)
 - **Reason**: Voids section has 103 articles against a cap of 100

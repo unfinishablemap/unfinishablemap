@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-11 07:32:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[mental-causation]]'
 - '[[causal-closure]]'
 - '[[interactionist-dualism]]'
-- '[[the-case-for-dualism]]'
+- '[[dualism]]'
 - '[[introspection]]'
 - '[[intentionality]]'
 - '[[cognitive-phenomenology]]'
@@ -164,7 +164,7 @@ The argument also supports the [Occam's Razor Has Limits](/tenets/#occams-limits
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The Map's tenet that consciousness causes things
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework that escapes self-stultification
 - [free-will](/topics/free-will/) — Self-stultification extends to libertarian free will: choices disconnected from reasons aren't rationally authored
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — Multiple arguments converging on irreducibility
+- [dualism](/concepts/dualism/) — Multiple arguments converging on irreducibility
 
 ## References
 

@@ -975,7 +975,7 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-22 03:50 UTC - condense
 - **Status**: Success
-- **File**: [the-case-for-dualism](/concepts/the-case-for-dualism/)
+- **File**: [the-case-for-dualism](/concepts/dualism/)
 - **Before**: 4182
 - **After**: 2040
 - **Reduction**: 51%
@@ -3794,7 +3794,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-16 05:40 UTC - coalesce
 - **Status**: Success
 - **Sources**: Arguments Against Materialism, Arguments For Dualism
-- **Target**: [the-case-for-dualism](/concepts/the-case-for-dualism/)
+- **Target**: [the-case-for-dualism](/concepts/dualism/)
 - **Archived**: archive/concepts/arguments-against-materialism.md, archive/concepts/arguments-for-dualism.md
 - **References updated**: 34 files (23 for arguments-for-dualism, 11 for arguments-against-materialism)
 - **Notes**: Concepts section was at 90% capacity (180/200). Merged two highly overlapping articles covering anti-materialist arguments and pro-dualist arguments into a single unified piece. Net reduction: 180 → 179 concept articles.

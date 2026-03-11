@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-22
-**Article**: [The Case for Dualism](/concepts/the-case-for-dualism/)
+**Article**: [The Case for Dualism](/concepts/dualism/)
 **Previous review**: [2026-02-21](/reviews/deep-review-2026-02-21-the-case-for-dualism/)
 **Word count**: 2040 → 2219 (+179 words, +8.8%)
 **Review context**: Analytic idealism insights — requested to evaluate whether the case for dualism adequately distinguishes itself from idealist alternatives that share its anti-materialist arguments.

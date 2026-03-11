@@ -120,7 +120,7 @@ The contemplative-path article's treatment of the self-eluding nature of awarene
 - **Tenet alignment**: Strongly supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction)
 
 #### Idealism as Serious Alternative
-- **Builds on**: [the-case-for-dualism](/concepts/the-case-for-dualism/), [substance-property-dualism](/concepts/substance-property-dualism/), [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/)
+- **Builds on**: [the-case-for-dualism](/concepts/dualism/), [substance-property-dualism](/concepts/substance-property-dualism/), [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/)
 - **Would address**: Multiple articles reference idealism as an alternative to dualism but none deeply engage with it. Kastrup's analytic idealism in particular deserves substantive treatment—the Map should explain clearly why it prefers dualism over idealism.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Tenet 1 (Dualism) by clarifying the choice between dualist frameworks

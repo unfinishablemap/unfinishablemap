@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-27
-ai_modified: 2026-03-05 18:49:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[concepts/materialism]]'
-- '[[the-case-for-dualism]]'
+- '[[dualism]]'
 - '[[dualism]]'
 - '[[explanatory-gap]]'
 - '[[knowledge-argument]]'
@@ -53,7 +53,7 @@ The arguments exploit genuinely different features of consciousness. The explana
 
 A materialist might object that these arguments share a hidden flaw—perhaps a common reliance on unreliable intuitions about consciousness. But this objection would need to identify a single error that explains away arguments from information incompleteness, logical possibility, normativity of inference, unity of subjects, and qualitative character simultaneously. The diversity of premises is precisely what makes the convergence significant.
 
-For detailed treatment of each argument, see [the-case-for-dualism](/concepts/the-case-for-dualism/). For the focused systematic case from the hard problem through quantum indeterminacy, see [Against Materialism](/arguments/materialism-argument/).
+For detailed treatment of each argument, see [dualism](/concepts/dualism/). For the focused systematic case from the hard problem through quantum indeterminacy, see [Against Materialism](/arguments/materialism-argument/).
 
 ## Why Materialism Cannot Close the Gap
 
@@ -121,7 +121,7 @@ The arguments against materialism do not prove that consciousness interfaces wit
 
 ## Further Reading
 
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — Detailed treatment of each argument with the convergence case
+- [dualism](/concepts/dualism/) — Detailed treatment of each argument with the convergence case
 - [materialism](/concepts/materialism/) — Varieties of materialism and why each fails
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical and phenomenal properties
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and the incompleteness of physical knowledge

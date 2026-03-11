@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-11 06:02:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ related_articles:
 - '[[bandwidth-of-consciousness]]'
 - '[[bandwidth-problem-mental-causation]]'
 - '[[inverted-qualia]]'
-- '[[the-case-for-dualism]]'
+- '[[dualism]]'
 - '[[resolution-bandwidth-interface]]'
 title: The Grain Mismatch
 topics:
@@ -89,7 +89,7 @@ The Map speculates that the grain mismatch may extend beyond spatial homogeneity
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal character
 - [knowledge-argument](/concepts/knowledge-argument/) — The epistemic argument against physicalism
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The modal argument against physicalism
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — How multiple independent arguments converge
+- [dualism](/concepts/dualism/) — How multiple independent arguments converge
 - [resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/) — Architectural implications of the grain mismatch
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — Grain mismatch in the causal domain
 

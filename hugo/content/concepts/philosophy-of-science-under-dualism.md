@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-23 23:20:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ last_deep_review: 2026-02-23 23:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[the-case-for-dualism]]'
+- '[[dualism]]'
 - '[[psychophysical-laws-bridging-mind-and-matter]]'
 - '[[evolution-under-dualism]]'
 - '[[reductionism-and-consciousness]]'
@@ -117,7 +117,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet pr
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Bridge laws as the positive alternative to reduction
 - [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Why reductive strategies fail for consciousness
 - [evolution-under-dualism](/topics/evolution-under-dualism/) — How evolutionary biology operates under dualist assumptions
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The converging arguments for irreducibility
+- [dualism](/concepts/dualism/) — The converging arguments for irreducibility
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — How the felt experience of creative insight and scientific discovery supports bidirectional interaction
 
 ## References

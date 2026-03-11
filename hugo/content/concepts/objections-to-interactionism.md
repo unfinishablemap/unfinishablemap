@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-07 23:29:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -31,7 +31,7 @@ last_deep_review: 2026-03-06 06:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[the-case-for-dualism]]'
+- '[[dualism]]'
 - '[[conservation-laws-and-mental-causation]]'
 - '[[objections-to-interactionist-dualism-2026-01-15]]'
 title: Objections to Interactionist Dualism
@@ -202,7 +202,7 @@ The exclusion argument receives two complementary responses: quantum insufficien
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The position these objections target
 - [pairing-problem](/concepts/pairing-problem/) — Detailed treatment of Kim's pairing challenge
 - [causal-closure](/concepts/causal-closure/) — The closure principle underlying the exclusion argument
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — Positive arguments for the Map's position
+- [dualism](/concepts/dualism/) — Positive arguments for the Map's position
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The mechanism for mind-matter interface
 - [decoherence](/concepts/decoherence/) — The quantum biology challenge and evidence
 - [interface-locality](/concepts/brain-interface-boundary/) — Why consciousness can only select within its own brain

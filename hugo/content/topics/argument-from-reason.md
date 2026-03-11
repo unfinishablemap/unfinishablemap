@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-05 11:19:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
 - '[[interactionist-dualism]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[causal-closure]]'
-- '[[the-case-for-dualism]]'
+- '[[dualism]]'
 - '[[explanatory-gap]]'
 - '[[mysterianism]]'
 - '[[stapp-quantum-mind]]'
@@ -141,7 +141,7 @@ The physicalist might respond: "What's the difference? If the outputs match corr
 
 ## Further Reading
 
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) - Multiple independent arguments converging on irreducibility of consciousness
+- [dualism](/concepts/dualism/) - Multiple independent arguments converging on irreducibility of consciousness
 - [causal-closure](/concepts/causal-closure/) - The physicalist principle that the argument from reason challenges
 - [explanatory-gap](/concepts/explanatory-gap/) - The conceptual distinction between physical and phenomenal that the argument exploits
 - [agent-causation](/concepts/agent-causation/) - How rational agents causally influence beliefs through recognizing reasons

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-03-05 01:17:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -33,7 +33,7 @@ related_articles:
 - '[[epiphenomenal-ai-consciousness-2026-02-10]]'
 - '[[consciousness-and-causal-powers]]'
 - '[[evolutionary-case-for-mental-causation]]'
-- '[[the-case-for-dualism]]'
+- '[[dualism]]'
 title: The Epiphenomenalist Threat
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -174,7 +174,7 @@ The Map's framework is one of the few that provides all three elements needed to
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) — What coupling between mind and matter requires
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why evolution requires consciousness to be causally efficacious
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain as the hardest case for epiphenomenalism: felt awfulness inseparable from motivation
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The broader argument for taking consciousness as irreducible
+- [dualism](/concepts/dualism/) — The broader argument for taking consciousness as irreducible
 
 ## References
 

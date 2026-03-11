@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-02-28 01:46:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,7 +14,7 @@ concepts:
 - '[[llm-consciousness]]'
 - '[[substrate-independence-critique]]'
 - '[[temporal-consciousness]]'
-- '[[the-case-for-dualism]]'
+- '[[dualism]]'
 - '[[mental-causation]]'
 - '[[illusionism]]'
 - '[[heterophenomenology]]'
@@ -140,7 +140,7 @@ The Map rejects functionalism on multiple grounds:
 
 ### Dualism and Qualia
 
-If consciousness is not reducible to physical processes, it's not reducible to functional organization either—functional description, though abstract, is entirely specifiable in physical terms. The Map takes qualia seriously: the felt quality of experience transcends functional role. The arguments against functionalism—absent qualia, inverted qualia, Chinese Room, explanatory gap—form part of the [broader convergence](/topics/arguments-against-materialism/) of [independent arguments](/concepts/the-case-for-dualism/) against materialism. Multiple lines of reasoning, exploiting different features of consciousness, arrive at the same conclusion: physical facts (including functional facts) do not determine phenomenal facts.
+If consciousness is not reducible to physical processes, it's not reducible to functional organization either—functional description, though abstract, is entirely specifiable in physical terms. The Map takes qualia seriously: the felt quality of experience transcends functional role. The arguments against functionalism—absent qualia, inverted qualia, Chinese Room, explanatory gap—form part of the [broader convergence](/topics/arguments-against-materialism/) of [independent arguments](/concepts/dualism/) against materialism. Multiple lines of reasoning, exploiting different features of consciousness, arrive at the same conclusion: physical facts (including functional facts) do not determine phenomenal facts.
 
 ### Bidirectional Interaction
 
@@ -182,7 +182,7 @@ The Map's response: the substrate matters because consciousness involves somethi
 
 ## Further Reading
 
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The convergence of arguments against physicalism
+- [dualism](/concepts/dualism/) — The convergence of arguments against physicalism
 - [arguments-against-materialism](/topics/arguments-against-materialism/) — Why the cumulative case against materialism is powerful
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Simple organisms reveal functionalism's limits
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — The emergence problem functionalism cannot solve

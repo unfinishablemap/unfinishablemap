@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-02-24 09:59:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,7 +30,7 @@ related_articles:
 - '[[reductionism-and-consciousness]]'
 - '[[meta-problem-of-consciousness]]'
 - '[[evolution-under-dualism]]'
-- '[[the-case-for-dualism]]'
+- '[[dualism]]'
 - '[[philosophy-of-science-under-dualism]]'
 - '[[galilean-exclusion]]'
 title: Consciousness and Scientific Explanation Under Dualism
@@ -137,7 +137,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet opens 
 - [evolution-under-dualism](/topics/evolution-under-dualism/) — How evolutionary biology operates under dualist assumptions
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — The empirical programme that dualism preserves
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — The converging arguments for irreducibility
+- [dualism](/concepts/dualism/) — The converging arguments for irreducibility
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/) — Broader implications for demarcation and theory choice
 - [galilean-exclusion](/concepts/galilean-exclusion/) — The founding methodological decision that created the hard problem
 

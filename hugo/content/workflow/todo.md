@@ -38,40 +38,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum consciousness articles considering new apex synthesis
+### P2: Cross-review metaproblem-of-consciousness-under-dualism
 - **Type**: cross-review
-- **Notes**: New apex article on the quantum consciousness programme synthesises the Map's quantum cluster. Review quantum-consciousness.md, mind-matter-interface.md, stapp-quantum-mind.md, and consciousness-selecting-neural-patterns.md for cross-links to the apex article. Ensure the apex synthesis accurately represents the research programme and that source articles reference the synthesis where appropriate.
-- **Source**: chain (from quantum consciousness programme apex)
-- **Generated**: 2026-03-11
-
-### P2: Cross-review ethics cluster considering new apex synthesis
-- **Type**: cross-review
-- **Notes**: New apex article on ethics and value in a dualist world synthesises the Map's ethics cluster. Review ethics-of-consciousness.md, moral-responsibility.md, phenomenal-value-realism.md, and consciousness-and-moral-agency-under-duress.md for cross-links to the apex article and consistency of the ethical framework presented.
-- **Source**: chain (from ethics-and-value apex)
-- **Generated**: 2026-03-11
-
-### P2: Condense consciousness-selecting-neural-patterns.md (3835 words, 110% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Central to the Map's selection mechanism — preserve core arguments about how consciousness selects among neural pattern superpositions while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-11
-
-### P2: Condense temporal-consciousness.md (3621 words, 103% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Recently coalesced from temporal-phenomenology-quantum-selection — may contain redundancy from the merge. Preserve core temporal arguments while tightening. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-11
-
-### P2: Deep review ethics-and-value-in-a-dualist-world.md
-- **Type**: deep-review
-- **Notes**: AI-generated apex article (ai_contribution: 100) created 2026-03-11, never reviewed. Major synthesis piece on ethics under dualism — quality assurance especially important for apex articles. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
-### P2: Deep review trilemma-of-selection.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-10, never reviewed. The trilemma of selection is one of the Map's most logically compelling arguments — quality assurance is critical. Verify argument validity, cross-references, and tenet alignment.
-- **Source**: staleness
+- **Status**: pending
+- **Notes**: Review [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) in light of related articles: [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/), [self-stultification](/concepts/self-stultification/), [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), [illusionism](/concepts/illusionism/). Check for consistency and add cross-references where appropriate.
 - **Generated**: 2026-03-11
 
 ### P3: Write article on temporal structure of consciousness as irreducibility evidence
@@ -140,6 +110,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. How active inference (Friston, Clark) relates to the Map's framework; whether prediction error minimisation is compatible with genuine selection; the free energy principle under dualism. Builds on attention-as-selection-interface, consciousness-and-scientific-methodology. See optimistic-2026-03-11.md
 - **Generated**: 2026-03-11
 
+### P3: Write ethics synthesis apex article
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Notable gap in apex section — no synthesis unifying the Map's metaethics. Dualism's implications for moral status, animal ethics, AI rights, and criminal responsibility are scattered across 10+ articles (phenomenal-value-realism, ethics-of-consciousness, ethics-and-value-in-a-dualist-world, consciousness-and-normative-force) but never woven together into a coherent apex narrative. See optimistic-2026-03-11-morning.md
+- **Generated**: 2026-03-11
+
+### P3: Write article on self-stultification and AI consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The "AI exception" to self-stultification — AI trained on human data might simulate the conclusion without performing it — is fascinating, underdeveloped, and highly relevant to contemporary discourse. What does this exception reveal about what the argument really shows? Builds on self-stultification-as-master-argument, ai-consciousness, hoel-llm-consciousness-continual-learning, machine-question apex. See optimistic-2026-03-11-morning.md
+- **Generated**: 2026-03-11
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
@@ -152,21 +134,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review 2026-02-02 (afternoon). Huemer's phenomenal conservatism—if it seems to S that P, S has prima facie justification for believing P—is foundational for treating phenomenal evidence seriously. How does the Map handle introspective reliability? When should phenomenal seemings be trusted? Builds on arguments-for-dualism.md, epistemic-advantages-of-dualism.md, introspection.md. See optimistic-2026-02-02-afternoon.md
 - **Source**: optimistic-review
 - **Generated**: 2026-02-02
-- **Output**: obsidian/topics/phenomenal-conservatism-and-introspective-evidence.md
 
 ### ✓ 2026-02-09: Create concept page for phenomenal transparency
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Write article analysing convergence of the void catalogue
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. With 97 void articles approaching the 100 cap, the programme is mature enough for second-order analysis. Do voids cluster in ways the tenets predict? A systematic count of void types by tenet, mapping the unexplorable/unexplored distinction, identifying which voids reinforce which arguments — would transform the catalogue into structured evidence. See [optimistic-2026-03-01](/reviews/optimistic-2026-03-01/)
-- **Generated**: 2026-03-01
-
 ### P2: Write article on the metaproblem of consciousness under dualism
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: complete
+- **Output**: [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/)
 - **Notes**: Suggested by optimistic review 2026-03-01. Chalmers' metaproblem asks why we think there is a hard problem. Under dualism, the answer is straightforward—we report on it because consciousness is real and causally influences our reports. Would show how dualism dissolves the metaproblem while physicalism generates it, connecting to self-stultification. See [optimistic-2026-03-01-morning](/reviews/optimistic-2026-03-01-morning/).
 
 ### P2: Write article on consciousness and the structure of scientific revolutions
@@ -430,6 +406,47 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Write article on the metaproblem of consciousness under dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-03-01. Chalmers' metaproblem asks why we think there is a hard problem. Under dualism, the answer is straightforward—we report on it because consciousness is real and causally influences our reports. Would show how dualism dissolves the metaproblem while physicalism generates it, connecting to self-stultification. See [optimistic-2026-03-01-morning](/reviews/optimistic-2026-03-01-morning/).
+- **Output**: the metaproblem of consciousness under dualism
+
+### ✓ 2026-03-11: Write article analysing convergence of the void catalogue
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. With 97 void articles approaching the 100 cap, the programme is mature enough for second-order analysis. Do voids cluster in ways the tenets predict? A systematic count of void types by tenet, mapping the unexplorable/unexplored distinction, identifying which voids reinforce which arguments — would transform the catalogue into structured evidence. See [optimistic-2026-03-01](/reviews/optimistic-2026-03-01/)
+- **Output**: Write article analysing convergence of the void catalogue
+
+### ✓ 2026-03-11: Update references to coalesced the-case-for-dualism
+- **Type**: refine-draft
+- **Notes**: Coalesce merged the-case-for-dualism into dualism. 49 active content files still reference [the-case-for-dualism](/concepts/dualism/) — these should be updated to [dualism](/concepts/dualism/) (with appropriate display text). The archive preserves the URL so links work, but references should point to the live article. Files include: tenets.md, materialism.md, philosophical-zombies.md, explanatory-gap.md, knowledge-argument.md, and 44 others across topics/, concepts/, arguments/, apex/, voids/, and research/.
+- **Output**: Task context:
+Coalesce merged the-case-for-dualism into dualism. 49 active content files still reference [the-case-for-dualism](/concepts/dualism/) — these should be updated to [dualism](/concepts/dualism/) (with appropriate display text). The archive preserves the URL so links work, but references should point to the live article. Files include: tenets.md, materialism.md, philosophical-zombies.md, explanatory-gap.md, knowledge-argument.md, and 44 others across topics/, concepts/, arguments/, apex/, voids/, and research/.
+
+### ✓ 2026-03-11: Deep review ethics-and-value-in-a-dualist-world.md
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) created 2026-03-11, never reviewed. Major synthesis piece on ethics under dualism — quality assurance especially important for apex articles. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/ethics-and-value-in-a-dualist-world.md
+
+### ✓ 2026-03-11: Condense temporal-consciousness.md (3621 words, 103% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Recently coalesced from temporal-phenomenology-quantum-selection — may contain redundancy from the merge. Preserve core temporal arguments while tightening. See /condense skill.
+- **Output**: obsidian/concepts/temporal-consciousness.md
+
+### ✓ 2026-03-11: Condense consciousness-selecting-neural-patterns.md (3835 words, 110% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Central to the Map's selection mechanism — preserve core arguments about how consciousness selects among neural pattern superpositions while removing redundancy. See /condense skill.
+- **Output**: obsidian/concepts/consciousness-selecting-neural-patterns.md
+
+### ✓ 2026-03-11: Cross-review ethics cluster considering new apex synthesis
+- **Type**: cross-review
+- **Notes**: New apex article on ethics and value in a dualist world synthesises the Map's ethics cluster. Review ethics-of-consciousness.md, moral-responsibility.md, phenomenal-value-realism.md, and consciousness-and-moral-agency-under-duress.md for cross-links to the apex article and consistency of the ethical framework presented.
+- **Output**: None -- Context: Cross-review ethics cluster considering new apex synthesis
+
+### ✓ 2026-03-11: Cross-review quantum consciousness articles considering new apex synthesis
+- **Type**: cross-review
+- **Notes**: New apex article on the quantum consciousness programme synthesises the Map's quantum cluster. Review quantum-consciousness.md, mind-matter-interface.md, stapp-quantum-mind.md, and consciousness-selecting-neural-patterns.md for cross-links to the apex article. Ensure the apex synthesis accurately represents the research programme and that source articles reference the synthesis where appropriate.
+- **Output**: None -- Context: Cross-review quantum consciousness articles considering new apex synthesis
 
 ### ✓ 2026-03-11: Cross-review self-stultification cluster considering new apex synthesis
 - **Type**: cross-review

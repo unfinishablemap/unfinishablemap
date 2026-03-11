@@ -28,7 +28,7 @@ None. All three critical issues from the previous review (IEP quote, Churchland 
 
 ### Medium Issues Found
 
-- **Duplicate in Further Reading**: `[the-case-for-dualism](/concepts/the-case-for-dualism/)` appeared twice in Further Reading section. **Resolution**: Removed duplicate.
+- **Duplicate in Further Reading**: `[the-case-for-dualism](/concepts/dualism/)` appeared twice in Further Reading section. **Resolution**: Removed duplicate.
 - **Tu quoque objection unaddressed**: The brute psychophysical laws objection (dualism's own explanatory debts) was flagged in previous review as a remaining item. **Resolution**: Added brief paragraph in Relation to Site Perspective acknowledging dualism's own commitments while clarifying the article's defensive (not offensive) use of the parsimony argument.
 - **Zero inbound links**: No content article linked to this file despite it being the Map's dedicated treatment of Tenet 5's epistemological foundations. **Resolution**: Added inbound cross-links from 7 articles (see below).
 - **Missing outbound link**: "Physicalism" in body text never linked to `[materialism](/concepts/materialism/)`. **Resolution**: Added link.

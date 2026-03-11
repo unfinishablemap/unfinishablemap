@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-02-22 10:52:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -140,7 +140,7 @@ The convergence would lose force if:
 
 The empirical convergence supports all five of the Map's [tenets](/tenets/):
 
-**[Dualism](/tenets/#dualism)**: The comparative evidence shows consciousness contributes capacities that unconscious processing alone does not achieve. The neurological evidence shows conscious intention dissociates from motor execution. Together they support the claim that consciousness is not reducible to neural computation—though the further step from causal efficacy to non-physicality requires the [philosophical arguments](/concepts/the-case-for-dualism/) the Map develops elsewhere.
+**[Dualism](/tenets/#dualism)**: The comparative evidence shows consciousness contributes capacities that unconscious processing alone does not achieve. The neurological evidence shows conscious intention dissociates from motor execution. Together they support the claim that consciousness is not reducible to neural computation—though the further step from causal efficacy to non-physicality requires the [philosophical arguments](/concepts/dualism/) the Map develops elsewhere.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Quantum biology demonstrates the substrate exists. The bandwidth constraint—approximately 10 bits per second of conscious throughput (Meister, 2024)—ensures selection is minimal. Consciousness selects among coarse-grained action patterns, not individual quantum events.
 

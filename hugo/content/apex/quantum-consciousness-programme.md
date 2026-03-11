@@ -137,6 +137,8 @@ The programme's strength is not any single argument but convergence. The measure
 This apex article synthesises the following Map content:
 
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum consciousness mechanisms
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — How selection operates concretely at neural sites
+- [mind-matter-interface](/concepts/mind-matter-interface/) — Two-layer architecture unifying filter theory and quantum selection
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno model in detail
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Head-to-head mechanism evaluation
 - [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/) — Measurement problem and consciousness

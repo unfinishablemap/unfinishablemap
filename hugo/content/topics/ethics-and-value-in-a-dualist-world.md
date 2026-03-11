@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-11 07:47:00+00:00
+ai_modified: 2026-03-11 09:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Dualism unifies value, agency, normativity, and moral perception un
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 07:47:00+00:00
+last_deep_review: 2026-03-11 09:32:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -82,7 +82,7 @@ Materialist accounts must bridge a gap between descriptive facts and normative f
 
 [Moral perception](/concepts/moral-perception/)—the direct apprehension of ethical properties in situations—becomes intelligible under dualism in ways it cannot under materialism. The [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) reveals that wrongness organises an entire perceptual scene, arriving with the speed and involuntariness of sensory perception rather than the deliberation of inference.
 
-If consciousness is irreducible, its capacity to apprehend value is not reducible to pattern-matching over sensory inputs. Moral perception is a genuine mode of awareness—consciousness directed toward evaluative properties of situations. The projectivist objection (that we merely project moral properties onto neutral situations) loses force when the perceiving consciousness is itself ontologically real rather than a functional description of neural processes.
+If consciousness is irreducible, its capacity to apprehend value is not reducible to pattern-matching over sensory inputs. Moral perception is a genuine mode of awareness—consciousness directed toward evaluative properties of situations. The projectivist objection (that we merely project moral properties onto neutral situations) loses force under the framework established above: if evaluative properties genuinely characterise conscious experience—if the badness of suffering is constitutive of what suffering phenomenally is—then moral perception apprehends real features of experience rather than projecting fictional properties onto a value-free world. The ontological reality of consciousness under dualism ensures these evaluative features are irreducible, not artefacts of functional description.
 
 ## The Unity Argument
 

@@ -22,7 +22,7 @@ The Unfinishable Map has reached a stage of genuine philosophical maturity. The 
 
 ### The Property Dualist (Chalmers)
 
-The Map takes the explanatory gap seriously as a structural feature rather than a contingent knowledge deficit. The [case for dualism](/concepts/the-case-for-dualism/) article is exemplary—it catalogues eight independent argument families (epistemic, modal, phenomenal, semantic, mereological) while acknowledging no single argument is decisive, then deploys the convergence strategy. Chalmers would particularly appreciate the treatment of the [phenomenal concept strategy](/concepts/phenomenal-concepts-strategy/): the Map doesn't just cite Chalmers's master argument but explains precisely why recognitional concepts cannot bridge the gap. The [phenomenal-consciousness](/concepts/phenomenal-consciousness/) article isolates the core phenomenon (what-it-is-like-ness) with the precision the hard problem demands. The water/H₂O comparison—"With water, once we understand H₂O's molecular structure, we can derive why it flows, freezes, and dissolves salt. With consciousness, the connection never becomes transparent"—is exactly the kind of clear illustration that makes the explanatory gap vivid to newcomers.
+The Map takes the explanatory gap seriously as a structural feature rather than a contingent knowledge deficit. The [case for dualism](/concepts/dualism/) article is exemplary—it catalogues eight independent argument families (epistemic, modal, phenomenal, semantic, mereological) while acknowledging no single argument is decisive, then deploys the convergence strategy. Chalmers would particularly appreciate the treatment of the [phenomenal concept strategy](/concepts/phenomenal-concepts-strategy/): the Map doesn't just cite Chalmers's master argument but explains precisely why recognitional concepts cannot bridge the gap. The [phenomenal-consciousness](/concepts/phenomenal-consciousness/) article isolates the core phenomenon (what-it-is-like-ness) with the precision the hard problem demands. The water/H₂O comparison—"With water, once we understand H₂O's molecular structure, we can derive why it flows, freezes, and dissolves salt. With consciousness, the connection never becomes transparent"—is exactly the kind of clear illustration that makes the explanatory gap vivid to newcomers.
 
 ### The Quantum Mind Theorist (Stapp)
 
@@ -111,7 +111,7 @@ McGinn would appreciate the Map's fifth tenet—Occam's Razor Has Limits—which
 ### Medium Priority
 
 #### The Structural Explanatory Gap
-- **Builds on**: [explanatory-gap](/concepts/explanatory-gap/), [the-case-for-dualism](/concepts/the-case-for-dualism/), [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/), [process-philosophy](/concepts/process-philosophy/)
+- **Builds on**: [explanatory-gap](/concepts/explanatory-gap/), [the-case-for-dualism](/concepts/dualism/), [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/), [process-philosophy](/concepts/process-philosophy/)
 - **Would address**: The explanatory gap is referenced over 100 times across the site but mostly treated as a problem to solve rather than analyzed as a *structural necessity*—why reduction necessarily fails, not contingently
 - **Estimated scope**: Medium concept article
 - **Tenet alignment**: Deepens the Dualism tenet's theoretical foundation

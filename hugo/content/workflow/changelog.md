@@ -18,6 +18,95 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 11:02 UTC - research-voids
+- **Status**: Skipped (section at capacity)
+- **Reason**: Voids section has 103 articles against a cap of 100
+- **Recommendation**: Focus on improving existing voids content (deep-review, condense, coalesce)
+
+## 2026-03-11 10:47 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The metaproblem of consciousness under dualism
+- **Output**: [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/)
+- **Word count**: 1547
+- **Based on research**: yes, [metaproblem-consciousness-dualism-2026-03-06](/research/metaproblem-consciousness-dualism-2026-03-06/)
+
+## 2026-03-11 10:32 UTC - deep-review
+- **Status**: Success
+- **File**: [evolution-of-consciousness-dualist-perspective](/topics/evolution-of-consciousness-dualist-perspective/)
+- **Word count**: 1956 → 2086 (+130)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-11-evolution-of-consciousness-dualist-perspective](/reviews/deep-review-2026-03-11-evolution-of-consciousness-dualist-perspective/)
+
+## 2026-03-11 10:17 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Convergence of the Void Catalogue
+- **Output**: [convergence-of-the-void-catalogue](/voids/convergence-of-the-void-catalogue/)
+- **Word count**: 2025
+- **Based on research**: no
+
+## 2026-03-11 10:02 UTC - refine-draft
+- **Status**: Success
+- **File**: 49 files across topics/, concepts/, arguments/, apex/, voids/, research/, tenets/
+- **Changes**: Updated all [the-case-for-dualism](/concepts/dualism/) wikilinks to [dualism](/concepts/dualism/) after coalesce merge. Fixed 3 duplicate Further Reading entries (materialism, indian-philosophy-of-mind, philosophy-of-mind), 1 duplicate frontmatter entry (the-convergence-argument-for-dualism), 1 bibliography URL, and 1 prose display text.
+- **Published**: yes
+
+## 2026-03-11 09:47 UTC - coalesce
+- **Status**: Success
+- **Sources**: [the-case-for-dualism](/concepts/the-case-for-dualism/)
+- **Target**: [dualism](/concepts/dualism/)
+- **Archived**: [the-case-for-dualism](/archive/concepts/the-case-for-dualism/)
+- **References to review**: 49 files (follow-up task created as P1)
+
+## 2026-03-11 09:32 UTC - deep-review
+- **Status**: Success
+- **File**: [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/)
+- **Word count**: 2373 → 2414 (+41)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (projectivism response logical gap)
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-11b-ethics-and-value-in-a-dualist-world](/reviews/deep-review-2026-03-11b-ethics-and-value-in-a-dualist-world/)
+
+## 2026-03-11 09:17 UTC - deep-review
+- **Status**: Success
+- **File**: [interaction-solutions-across-traditions](/topics/interaction-solutions-across-traditions/)
+- **Word count**: 1908 → 2074 (+166)
+- **Critical issues addressed**: 1 (Avicenna mislabeled as "emanationism")
+- **Medium issues addressed**: 5 (selection overstatement, pairing problem, panpsychism, Buddhist schools, functionalist objection)
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-03-11-interaction-solutions-across-traditions](/reviews/deep-review-2026-03-11-interaction-solutions-across-traditions/)
+
+## 2026-03-11 09:02 UTC - condense
+- **Status**: Success
+- **File**: [temporal-consciousness](/concepts/temporal-consciousness/)
+- **Before**: 3621
+- **After**: 2577
+- **Reduction**: 29%
+- **Technique**: Cut redundant examples, tightened irreducibility argument, merged phenomenological method and neural correlates sections, trimmed quantum consciousness subsections, reduced Further Reading from 19 to 10 items, removed unused references
+
+## 2026-03-11 08:47 UTC - condense
+- **Status**: Success
+- **File**: [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
+- **Before**: 3847
+- **After**: 2443
+- **Reduction**: 37%
+- **Technique**: Cut Process Philosophy section (tangential), replaced Candidate Constraint Families with link to psychophysical-coupling, cut Open Questions (covered elsewhere), trimmed decoherence/brain-boundary/retrocausal sections, tightened prose throughout, trimmed Further Reading
+
+## 2026-03-11 08:32 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full corpus (417 files across topics, concepts, tenets, apex, voids) with deep reading of 12 representative articles
+- **Output**: [optimistic-2026-03-11-morning](/reviews/optimistic-2026-03-11-morning/)
+
+## 2026-03-11 08:17 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemology-of-introspection](/topics/epistemology-of-introspection/)
+- **Word count**: 2304 → 2571 (+267)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (bidirectional interaction overreach, missing ethics cross-links, untestable distinction unaddressed)
+- **Enhancements made**: 4 (testability response, Buddhist complication, evaluative awareness section, ethics cross-links)
+- **Output**: [deep-review-2026-03-11-epistemology-of-introspection](/reviews/deep-review-2026-03-11-epistemology-of-introspection/)
+
 ## 2026-03-11 07:47 UTC - deep-review
 - **Status**: Success
 - **File**: [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/)

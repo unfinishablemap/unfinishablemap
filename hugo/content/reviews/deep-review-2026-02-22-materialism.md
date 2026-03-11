@@ -23,8 +23,8 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Duplicate frontmatter entry**: `[the-case-for-dualism](/concepts/the-case-for-dualism/)` appeared twice in `concepts` list. **Resolution**: Removed duplicate.
-- **Duplicate Further Reading entry**: `[the-case-for-dualism](/concepts/the-case-for-dualism/)` appeared twice in Further Reading with different descriptions. **Resolution**: Consolidated into single entry.
+- **Duplicate frontmatter entry**: `[the-case-for-dualism](/concepts/dualism/)` appeared twice in `concepts` list. **Resolution**: Removed duplicate.
+- **Duplicate Further Reading entry**: `[the-case-for-dualism](/concepts/dualism/)` appeared twice in Further Reading with different descriptions. **Resolution**: Consolidated into single entry.
 
 ### Medium Issues Found
 - **PhilPapers survey claim inaccuracy**: Article stated "22% of philosophers accept or lean toward dualism" citing the 2020 survey. The 22% figure is actually for "accept non-physicalism" (broader than dualism; includes panpsychism, idealism, etc.), and "accept or lean" totals ~32%. **Resolution**: Corrected to "approximately 32% of philosophers accept or lean toward non-physicalism—the main alternative to materialism."

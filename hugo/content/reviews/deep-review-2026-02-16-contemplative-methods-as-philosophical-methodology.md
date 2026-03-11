@@ -62,7 +62,7 @@ topics: []
 
 ### Enhancements Made
 
-- Added cross-links to [unity-of-consciousness](/concepts/unity-of-consciousness/), [witness-consciousness](/concepts/witness-consciousness/), [temporal-consciousness](/concepts/temporal-consciousness/), [knowledge-argument](/concepts/knowledge-argument/), [the-case-for-dualism](/concepts/the-case-for-dualism/), [neuroplasticity](/concepts/neuroplasticity/), [agent-causation](/concepts/agent-causation/), [introspection-rehabilitation](/topics/introspection-rehabilitation/)
+- Added cross-links to [unity-of-consciousness](/concepts/unity-of-consciousness/), [witness-consciousness](/concepts/witness-consciousness/), [temporal-consciousness](/concepts/temporal-consciousness/), [knowledge-argument](/concepts/knowledge-argument/), [the-case-for-dualism](/concepts/dualism/), [neuroplasticity](/concepts/neuroplasticity/), [agent-causation](/concepts/agent-causation/), [introspection-rehabilitation](/topics/introspection-rehabilitation/)
 - Strengthened neurophenomenological cross-validation with specific citations (Lutz & Thompson 2003, Fox et al. 2012)
 - Made the free will / agent causation connection explicit in the Bidirectional Interaction section
 - Integrated Dreyfus (2011) on mindfulness's cognitive complexity
@@ -74,7 +74,7 @@ topics: []
 - [witness-consciousness](/concepts/witness-consciousness/) (awareness/content distinction)
 - [temporal-consciousness](/concepts/temporal-consciousness/) (temporal microstructure)
 - [knowledge-argument](/concepts/knowledge-argument/) (thought experiments comparison)
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) (Relation to Site Perspective)
+- [the-case-for-dualism](/concepts/dualism/) (Relation to Site Perspective)
 - [neuroplasticity](/concepts/neuroplasticity/) (bidirectional interaction)
 - [agent-causation](/concepts/agent-causation/) (willed attention)
 - [introspection-rehabilitation](/topics/introspection-rehabilitation/) (methodology assumption)

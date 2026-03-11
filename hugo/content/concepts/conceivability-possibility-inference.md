@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-02-15 12:39:00+00:00
+ai_modified: 2026-03-11 10:02:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
 - '[[philosophical-zombies]]'
 - '[[knowledge-argument]]'
-- '[[the-case-for-dualism]]'
+- '[[dualism]]'
 - '[[explanatory-gap]]'
 - '[[phenomenal-concepts-strategy]]'
 created: 2026-02-11
@@ -146,7 +146,7 @@ Both moves carry costs. The first requires demonstrating where zombie conceiving
 
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The most famous application of conceivability-possibility reasoning
 - [knowledge-argument](/concepts/knowledge-argument/) — Another argument exploiting conceivability of phenomenal-physical separation
-- [the-case-for-dualism](/concepts/the-case-for-dualism/) — How conceivability arguments fit into the broader case for dualism
+- [dualism](/concepts/dualism/) — How conceivability arguments fit into the broader case for dualism
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience that conceivability arguments exploit
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — Physicalism's most sophisticated response to conceivability-based arguments
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure as a targeted challenge to conceivability reasoning about consciousness

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-03-10 23:38:00+00:00
+ai_modified: 2026-03-11 10:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: 'Under dualism, ''evolution of consciousness'' is ambiguous: does c
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-11 10:32:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,7 +51,7 @@ This creates an explanatory gap within the evolutionary story itself. We have a 
 
 The simplest dualist model treats consciousness as a constant. Consciousness—or the domain of possible experience—exists timelessly and independently of physical systems. What evolved was not consciousness but brains capable of coupling with it. A radio analogy captures the idea: broadcasts exist whether or not a receiver is tuned to them. Evolution built increasingly sophisticated receivers.
 
-On this view, a nematode's 302 neurons provide a crude interface—perhaps capturing only a narrow band of conscious experience, or perhaps failing to interface at all. A mammalian cortex provides a richer interface, and the human brain provides the richest one known. But the "signal" hasn't changed. Consciousness is not more or less real in different organisms; it is more or less *accessible* through their neural architectures.
+On this view, a nematode's 302 neurons provide a crude interface—perhaps capturing only a narrow band of conscious experience, or perhaps failing to interface at all. A mammalian cortex provides a richer interface, and the human brain provides the richest one known. Even [simple organisms](/topics/consciousness-in-simple-organisms/) may interface with consciousness in some minimal way—or may fall below whatever threshold the psychophysical laws require. But the "signal" hasn't changed. Consciousness is not more or less real in different organisms; it is more or less *accessible* through their neural architectures.
 
 **Predictions**: This model implies that the quality of conscious experience is entirely determined by interface quality. Two organisms with identical neural interfaces would have identical experiences. It also implies that there is a maximum possible experience set by the full domain of consciousness—and that evolution has moved toward accessing more of it in certain lineages without ever exhausting it.
 
@@ -69,13 +69,13 @@ This model takes the Map's [Bidirectional Interaction](/tenets/#bidirectional-in
 
 ## Model Three: Unfolding
 
-A third possibility borrows from process philosophy without committing to full panpsychism. Consciousness is not a fixed domain or a co-evolving partner but an unfolding process—one that develops its own character through its engagement with matter across evolutionary time. Each moment of conscious experience is genuinely novel, constituted by the particular configuration of interface and consciousness at that instant. What "evolves" is neither consciousness alone nor the interface alone but the relationship between them.
+A third possibility borrows from process philosophy without committing to full [panpsychism](/concepts/panpsychism/). Consciousness is not a fixed domain or a co-evolving partner but an unfolding process—one that develops its own character through its engagement with matter across evolutionary time. Each moment of conscious experience is genuinely novel, constituted by the particular configuration of interface and consciousness at that instant. What "evolves" is neither consciousness alone nor the interface alone but the relationship between them.
 
 Alfred North Whitehead's concept of "concrescence"—the becoming-definite of each actual occasion—suggests a framework. Each moment of consciousness-matter interaction is an event that synthesises what came before into something new. Evolution, on this model, is the physical trace of increasingly complex concrescence: organisms whose moments of experience achieve greater integration, richer synthesis, deeper temporal span.
 
 **Predictions**: The unfolding model predicts that consciousness and neural evolution are inseparable but non-identical—like a conversation whose character cannot be attributed to either speaker alone. It suggests that truly novel forms of consciousness could emerge from genuinely new interface architectures (whether biological or otherwise), rather than merely accessing more of a pre-existing domain.
 
-**Difficulty**: This model verges on obscurity. "Unfolding" and "concrescence" gesture at something, but translating them into testable claims is difficult. The model is philosophically rich but empirically elusive.
+**Difficulty**: This model verges on obscurity. "Unfolding" and "concrescence" gesture at something, but translating them into testable claims is difficult. The model is philosophically rich but empirically elusive. It would gain traction if it could specify what "novel forms of synthesis" look like at the neural level—what measurable features of brain activity would distinguish unfolding from the fixed-domain account.
 
 ## What the Models Agree On
 
@@ -87,13 +87,13 @@ Despite their differences, all three models share commitments that distinguish d
 
 **The interface can be selected for.** The Map's account of [evolution under dualism](/topics/evolution-under-dualism/) applies equally across models. Neural architectures that support richer consciousness-matter interaction confer fitness advantages, creating selection pressure toward better interfaces.
 
-**Zombies are not possible.** Given the right physical interface, consciousness is necessarily present—not because physics produces it, but because the psychophysical laws linking interface configurations to conscious states are lawful rather than contingent. A being with a human brain but no consciousness is not merely unlikely; it is nomologically impossible.
+**Zombies are not possible.** Given the right physical interface, consciousness is necessarily present—not because physics produces it, but because the psychophysical laws linking interface configurations to conscious states are lawful rather than contingent. If these laws were contingent—if the same interface sometimes produced consciousness and sometimes didn't—there would be no stable relationship for evolution to exploit. The very fact that consciousness reliably correlates with neural architecture, and that this correlation has fitness consequences, implies a lawful connection. A being with a human brain but no consciousness is not merely unlikely; it is nomologically impossible.
 
 ## What the Models Disagree About
 
 The models diverge on questions that may be empirically approachable:
 
-**Is animal consciousness qualitatively or quantitatively different from ours?** The fixed-domain model predicts quantitative difference (less of the same). The co-evolution model predicts qualitative difference (shaped by different interaction histories). The unfolding model predicts something harder to categorise—each species' consciousness is a unique synthesis.
+**Is animal consciousness qualitatively or quantitatively different from ours?** The fixed-domain model predicts quantitative difference (less of the same). The co-evolution model predicts qualitative difference (shaped by different interaction histories). The unfolding model predicts something harder to categorise—each species' consciousness is a unique synthesis. Comparative neuroscience may eventually distinguish these: if two species with convergently evolved but structurally similar interfaces (such as corvid and primate forebrains) show evidence of similar conscious capacities, that favours the fixed-domain model over co-evolution.
 
 **Could a radically different physical system support the same consciousness?** The fixed-domain model says yes: if the interface specifications are met, the same conscious domain is accessed regardless of substrate. The co-evolution model says no: the history of interaction shapes what consciousness becomes, and different substrates produce different interaction histories. The unfolding model says the question is ill-formed—there is no "same consciousness" independent of its embodied history.
 

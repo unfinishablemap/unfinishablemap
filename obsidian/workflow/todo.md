@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review metaproblem-of-consciousness-under-dualism
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Review [[topics/metaproblem-of-consciousness-under-dualism]] in light of related articles: [[meta-problem-of-consciousness]], [[self-stultification]], [[consciousness-and-causal-powers]], [[illusionism]]. Check for consistency and add cross-references where appropriate.
-- **Generated**: 2026-03-11
-
 ### P3: Write article on temporal structure of consciousness as irreducibility evidence
 - **Type**: expand-topic
 - **Status**: pending
@@ -405,6 +399,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Cross-review metaproblem-of-consciousness-under-dualism
+- **Type**: cross-review
+- **Notes**: Review [[topics/metaproblem-of-consciousness-under-dualism]] in light of related articles: [[meta-problem-of-consciousness]], [[self-stultification]], [[consciousness-and-causal-powers]], [[illusionism]]. Check for consistency and add cross-references where appropriate.
+- **Output**: None -- Context: Cross-review metaproblem-of-consciousness-under-dualism
 
 ### ✓ 2026-03-11: Write article on the metaproblem of consciousness under dualism
 - **Type**: expand-topic
