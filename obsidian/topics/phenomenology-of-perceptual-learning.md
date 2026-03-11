@@ -4,7 +4,7 @@ description: "How perception itself transforms through learning—expert wine ta
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T14:21:00+00:00
+ai_modified: 2026-03-11T15:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,13 +24,14 @@ related_articles:
   - "[[phenomenology-of-perceptual-constancy]]"
   - "[[phenomenology-of-conceptual-change]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
-  - "[[contemplative-training-and-phenomenal-access]]"
+  - "[[filter-theory]]"
   - "[[habituation-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
+last_deep_review: 2026-03-11T15:03:00+00:00
 ---
 
 Perceptual learning transforms what consciousness receives. The trained radiologist sees a tumour where the untrained eye sees grey noise. The sommelier tastes minerality, wet stone, and pencil shavings where the casual drinker tastes wine. The birdwatcher hears the subtle pitch-drop distinguishing two warbler species where others hear undifferentiated birdsong. These are not cases of knowing more about the same experience—they are cases of *having a different experience*. The Unfinishable Map argues that perceptual learning provides direct evidence for consciousness as active architect of its own interface: the perceiver does not merely learn to interpret sensory input differently but restructures what sensory input arrives at awareness in the first place.
@@ -57,11 +58,11 @@ What is it like when perception transforms? Several phenomenological features re
 
 ## Irreversibility and the Perceptual Ratchet
 
-Perceptual learning is largely irreversible. The literate adult cannot see text as mere visual pattern—the letters insist on being read. The trained musician cannot hear an out-of-tune note as simply "a sound." L.A. Paul (2014) identifies this irreversibility as a hallmark of transformative experience: the post-learning perceiver has lost access to the pre-learning phenomenology.
+Perceptual learning is largely irreversible. The literate adult cannot see text as mere visual pattern—the letters insist on being read. The trained musician cannot hear an out-of-tune note as simply "a sound." L.A. Paul (2014) captures a related point in her account of transformative experience: choices that alter one's phenomenal character are epistemically opaque precisely because the post-transformation perceiver has lost access to the pre-transformation phenomenology. Perceptual learning fits this pattern—the trained perceiver cannot recover what it was like to see without the training.
 
-This creates what the Map calls a perceptual ratchet. Each episode of perceptual learning clicks the mechanism forward. The perceiver gains new differentiations, new perceptual objects, new salience gradients—and cannot undo them. The expert's perceptual world is richer along trained dimensions but permanently altered. As Polanyi (1966) observed, once we dwell in a framework, we cannot easily recover awareness of the framework itself.
+This creates what the Map calls a perceptual ratchet—a form of [[implicit-memory|implicit memory]] encoded not in beliefs but in perceptual structure itself. Each episode of perceptual learning clicks the mechanism forward. The perceiver gains new differentiations, new perceptual objects, new salience gradients—and cannot undo them. The expert's perceptual world is richer along trained dimensions but permanently altered. As Polanyi (1966) observed, once we dwell in a framework, we cannot easily recover awareness of the framework itself.
 
-The irreversibility is philosophically significant because it suggests perceptual learning does not merely adjust parameters in a fixed system. It restructures the system. A parameter change could be reversed by adjusting the parameter back. A structural change—new perceptual objects, new dimensional salience, reorganised figure-ground relationships—creates a qualitatively different perceptual architecture.
+The irreversibility is philosophically significant because it suggests perceptual learning does not merely adjust parameters in a fixed system. It restructures the system. A parameter change could be reversed by adjusting the parameter back. A structural change—new perceptual objects, new dimensional salience, reorganised figure-ground relationships—creates a qualitatively different perceptual architecture, driven by the [[neuroplasticity]] that consolidates these transformations in neural tissue.
 
 ## The Attentional Mechanism
 
@@ -70,6 +71,12 @@ How does perceptual learning occur? The dominant account centres on attention. A
 Attention plays the gating role. Seitz and Watanabe (2005) distinguished between task-relevant perceptual learning (driven by focused attention) and task-irrelevant perceptual learning (occurring for unattended features paired with attended targets). Both forms require attentional involvement—either direct or through temporal association with attended events. Passive exposure alone produces minimal perceptual learning.
 
 This attentional dependence connects perceptual learning to the Map's concept of [[attention-as-interface|attention as the selection interface]]. If attention mediates between consciousness and neural processing, then perceptual learning is consciousness reshaping its own interface through sustained attentional engagement. The interface is not fixed; it is sculpted by use.
+
+## The Predictive Processing Challenge
+
+Predictive processing frameworks (Clark, 2013; Hohwy, 2013) offer an alternative account: perceptual learning is the brain updating its generative model, refining predictions so that fewer prediction errors arise in the trained domain. The sommelier's cortex generates better priors for wine-related sensory signals; the radiologist's visual cortex predicts tumour-like patterns with greater precision. On this view, the phenomenological transformation is entirely a matter of neural model-revision—no non-physical contribution required.
+
+The Unfinishable Map acknowledges the descriptive power of this account while questioning its explanatory completeness. Predictive processing explains *that* perception changes—the model updates, predictions sharpen. It does not explain why model updates produce *different phenomenal character*. Two generative models that differ in their priors could, in principle, produce identical functional behaviour while differing in what it is like to deploy them. The gap between computational description and [[phenomenology|phenomenal reality]] remains: updating a model is an information-processing operation, but experiencing wine differently is a change in consciousness. The predictive processing framework describes the neural mechanics of perceptual learning with impressive precision while leaving the phenomenological core—the creation of genuinely new qualia—unexplained.
 
 ## What Perceptual Learning Is Not
 
@@ -85,7 +92,7 @@ It is not *conceptual change*—acquiring new beliefs about what one perceives. 
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Perceptual learning provides evidence for consciousness actively reshaping its own perceptual interface. The attentional dependence of perceptual learning means consciousness is not passively receiving a fixed percept—it is directing attention in ways that restructure what future perception delivers. This is bidirectional causation operating over developmental timescales: consciousness shapes the neural systems that shape consciousness. The perceptual ratchet—the irreversibility of these changes—suggests that consciousness constructs its own future perceptual conditions, a form of downward causation that extends across time.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If consciousness biases quantum indeterminacy at the neural level, perceptual learning may represent the cumulative effect of sustained selection pressure. Each attentive engagement during training involves consciousness selecting among neural options; over thousands of repetitions, this selection pressure reshapes the neural substrate until new perceptual objects and salience gradients become structurally embedded. The post-learning system requires less conscious intervention because the selection outcomes have been physically consolidated—the interface has been tuned to deliver what consciousness selects for.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Speculatively, if consciousness biases quantum indeterminacy at the neural level, perceptual learning may represent the cumulative effect of sustained selection pressure. Each attentive engagement during training involves consciousness selecting among neural options; over thousands of repetitions, this selection pressure reshapes the neural substrate until new perceptual objects and salience gradients become structurally embedded. The post-learning system requires less conscious intervention because the selection outcomes have been physically consolidated—the interface has been tuned to deliver what consciousness selects for.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The parsimonious account—perceptual learning is neural plasticity and nothing more—explains the functional changes but not the phenomenological transformation. Neural plasticity tells us that cortical representations change. It does not tell us why those changes produce a *different experience*—why the trained perceiver does not merely process information differently but *sees* differently. The gap between neural description and phenomenal reality is not closed by invoking plasticity; it is merely relocated.
 
@@ -96,16 +103,18 @@ It is not *conceptual change*—acquiring new beliefs about what one perceives. 
 - [[phenomenology-of-perceptual-constancy]] — How objects appear stable despite sensory flux
 - [[phenomenology-of-conceptual-change]] — The cognitive parallel: how frameworks of understanding transform
 - [[sensorimotor-contingencies-and-the-interface]] — Perception as mastery of sensorimotor laws
-- [[contemplative-training-and-phenomenal-access]] — Meditation as perceptual learning applied to consciousness itself
+- [[filter-theory]] — Consciousness as selective filter rather than passive receiver
 - [[attention-as-interface]] — How attention mediates between consciousness and neural systems
 
 ## References
 
 1. Ahissar, M. & Hochstein, S. (2004). The reverse hierarchy theory of visual perceptual learning. *Trends in Cognitive Sciences*, 8(10), 457-464.
 1. Chase, W.G. & Simon, H.A. (1973). Perception in chess. *Cognitive Psychology*, 4(1), 55-81.
+1. Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. *Behavioral and Brain Sciences*, 36(3), 181-204.
 1. Gauthier, I. & Tarr, M.J. (1997). Becoming a "Greeble" expert: Exploring mechanisms for face recognition. *Vision Research*, 37(12), 1673-1682.
 1. Gibson, E.J. (1969). *Principles of Perceptual Learning and Development*. Appleton-Century-Crofts.
 1. Goldstone, R.L. (1994). Influences of categorization on perceptual discrimination. *Journal of Experimental Psychology: General*, 123(2), 178-200.
+1. Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press.
 1. Goldstone, R.L. (1998). Perceptual learning. *Annual Review of Psychology*, 49, 585-612.
 1. Paul, L.A. (2014). *Transformative Experience*. Oxford University Press.
 1. Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.

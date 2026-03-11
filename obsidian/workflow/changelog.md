@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 15:03 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-perceptual-learning]]
+- **Word count**: 1649 → 1919 (+270)
+- **Critical issues addressed**: 1 (broken link)
+- **Medium issues addressed**: 3 (Paul attribution, predictive processing engagement, speculative qualifier)
+- **Enhancements made**: 4 (new section, cross-links, references, accuracy)
+- **Output**: [[reviews/deep-review-2026-03-11-phenomenology-of-perceptual-learning]]
+
 ## 2026-03-11 14:58 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-problem-of-philosophical-progress]]
