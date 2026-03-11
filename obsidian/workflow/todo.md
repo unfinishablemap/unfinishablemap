@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review ethics-and-value-in-a-dualist-world.md
-- **Type**: deep-review
-- **Notes**: AI-generated apex article (ai_contribution: 100) created 2026-03-11, never reviewed. Major synthesis piece on ethics under dualism — quality assurance especially important for apex articles. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P2: Deep review trilemma-of-selection.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-10, never reviewed. The trilemma of selection is one of the Map's most logically compelling arguments — quality assurance is critical. Verify argument validity, cross-references, and tenet alignment.
@@ -417,6 +411,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Deep review ethics-and-value-in-a-dualist-world.md
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) created 2026-03-11, never reviewed. Major synthesis piece on ethics under dualism — quality assurance especially important for apex articles. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/ethics-and-value-in-a-dualist-world.md
 
 ### ✓ 2026-03-11: Condense temporal-consciousness.md (3621 words, 103% of hard threshold)
 - **Type**: condense
