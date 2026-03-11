@@ -4,7 +4,7 @@ description: "AI should target experiential quality, not preference satisfaction
 created: 2026-01-17
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T10:45:00+00:00
+ai_modified: 2026-03-11T16:41:00+00:00
 draft: false
 topics:
   - "[[purpose-and-alignment]]"
@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-01-30T10:45:00+00:00
+last_deep_review: 2026-03-11T16:41:00+00:00
 coalesced_from:
   - "/concepts/experiential-alignment-objective/"
 ---
@@ -109,9 +109,9 @@ The measurement protocol uses triangulation across multiple methods. No single p
 
 **First-person methods** are primary—not because they are infallible, but because experience is intrinsically subjective. A heterophenomenological approach that treats first-person reports as mere behavioral data loses the target: what we want to know is what experience is *like*, not merely what people say about it.
 
-- **Experience Sampling Method (ESM)**: Participants report current experience at random intervals. Captures moment-to-moment quality rather than retrospective reconstruction.
-- **Microphenomenology**: Trained interviewers elicit fine-grained experience descriptions using non-leading techniques. Labour-intensive but accesses dimensions quantitative methods miss.
-- **Trained introspection cohorts**: Populations trained in contemplative observation provide calibration data. Meditators can distinguish hedonic valence, attention quality, and agency with precision that untrained subjects cannot.
+- **Experience Sampling Method (ESM)**: Participants report current experience at random intervals, capturing moment-to-moment quality rather than retrospective reconstruction.
+- **Microphenomenology**: Trained interviewers elicit fine-grained experience descriptions using non-leading techniques, accessing dimensions quantitative methods miss.
+- **Trained introspection cohorts**: Meditators distinguish hedonic [[valence]], attention quality, and agency with precision that untrained subjects cannot, providing calibration data.
 
 **Third-person methods** provide triangulation:
 
@@ -154,7 +154,7 @@ The objective includes governance as part of its specification—without which a
 
 **Override mechanisms**: Humans can correct AI behaviour when experiential predictions fail. No autonomous optimization without checkpoints.
 
-**Revision protocols**: The objective itself is provisional. Systematic processes for updating dimensions, constraints, and measurement as understanding improves. Evidence that would trigger revision includes: systematic divergence between dimensions and reported well-being that triangulation cannot explain; discovery of experiential states that don't map to any dimension; cultural variation so profound that the dimensions lack universal applicability; or philosophical arguments showing that a dimension conflates distinct phenomena.
+**Revision protocols**: The objective itself is provisional. Systematic processes for updating dimensions, constraints, and measurement as understanding improves. Revision triggers include: systematic divergence between dimensions and reported well-being that triangulation cannot explain; discovery of unmappable experiential states; cultural variation undermining universal applicability; or philosophical arguments showing a dimension conflates distinct phenomena.
 
 ## The Illusionist Challenge
 
@@ -172,23 +172,11 @@ Even granting illusionism for argument's sake, a practical asymmetry remains. If
 
 ### Contemplative Evidence
 
-Trained contemplatives report accessing experiential dimensions directly. [[Witness-consciousness]]—the capacity to observe mental contents without identification—reveals the phenomenal character of experience with increasing precision through practice. [[Introspection]] research shows meditators achieve accuracy improvements following logarithmic learning curves, suggesting phenomenal content is accessible through trained attention. If phenomenal states were illusory, training should not improve access to them. The 2025 "renaissance of first-person methods" in consciousness science provides systematic evidence that phenomenal reports can be calibrated and refined.
+Trained contemplatives report accessing experiential dimensions directly, as detailed in the contemplative evidence section of this article. If phenomenal states were illusory, training in [[witness-consciousness]] and [[introspection]] should not improve access to them—yet [[introspection]] research shows meditators achieve accuracy improvements following logarithmic learning curves, suggesting phenomenal content is genuinely accessible through trained attention.
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy illuminates why experiential alignment captures something preferentism misses. For Whitehead, the basic units of reality are "actual occasions"—moments of experience that aim at "satisfaction" through the integration of their data. This satisfaction is not preference satisfaction but *experiential intensity*—the richness and coherence of the occasion's felt synthesis.
-
-### Concrescence and Experiential Quality
-
-Each actual occasion undergoes "concrescence"—a process of becoming that synthesizes inherited data into a unified experience. The occasion's "subjective aim" is toward maximal intensity of experience consistent with harmony. This maps directly onto experiential alignment's multidimensional target: hedonic valence, meaning, agency, understanding, and connection are all aspects of experiential intensity that concrescence aims at.
-
-### Why Preferences Are Thin
-
-On the Whiteheadian view, preferences are abstractions from experiential richness. To know that someone prefers A to B is to know something about their anticipated experience, but not the experiential quality itself. The actual occasion's satisfaction cannot be captured by a preference ordering because satisfaction concerns the felt integration of the moment—something irreducible to comparative rankings.
-
-### Eternal Objects and Experiential Dimensions
-
-Whitehead's "eternal objects" (pure potentials for experience) provide a framework for understanding the eight experiential dimensions. Hedonic valence, meaning, agency, understanding, connection, attention quality, suffering, and temporal experience represent eternal objects that can be instantiated in actual occasions. Experiential alignment aims to promote occasions that instantiate these eternal objects positively—an aim that makes sense within process metaphysics but would be incoherent on purely preferentist terms.
+Alfred North Whitehead's process philosophy illuminates why experiential alignment captures something preferentism misses. For Whitehead, the basic units of reality are "actual occasions"—moments of experience that aim at "satisfaction" through integrating their data into a unified experience. This satisfaction is not preference satisfaction but *experiential intensity*—the richness and coherence of the occasion's felt synthesis. Preferences are abstractions from this richness: to know that someone prefers A to B is to know something about their anticipated experience, but not the experiential quality itself. The actual occasion's satisfaction concerns the felt integration of the moment—something irreducible to comparative rankings. Experiential alignment's multidimensional target (hedonic valence, meaning, agency, understanding, connection) maps directly onto what Whiteheadian concrescence aims at.
 
 ## Contemplative Evidence
 
@@ -213,14 +201,7 @@ This doesn't undermine experiential alignment but refines it. The framework's di
 
 ### Jhana States and Experiential Measurement
 
-Meditative *jhana* states provide evidence that experiential dimensions can be systematically accessed and distinguished. Practitioners report:
-
-- First jhana: pleasure with applied attention
-- Second jhana: pleasure without effort
-- Third jhana: contentment without rapture
-- Fourth jhana: equanimity beyond pleasure and pain
-
-These distinctions demonstrate phenomenological precision that preferentist frameworks cannot capture. A preference survey would find all four states "preferred" to ordinary experience, but they differ dramatically in experiential character. Experiential alignment requires such fine-grained access.
+Meditative *jhana* states provide evidence that experiential dimensions can be systematically accessed and distinguished. The four jhanas progress from pleasure with applied attention, through effortless pleasure and rapture-free contentment, to equanimity beyond the pleasure-pain axis. A preference survey would find all four "preferred" to ordinary experience, but they differ dramatically in experiential character—demonstrating phenomenological precision that preferentist frameworks cannot capture.
 
 ## Relation to Site Perspective
 

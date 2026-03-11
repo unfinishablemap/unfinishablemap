@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review experiential-alignment.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 40 days ago. Concept page on experiential alignment relevant to AI consciousness cluster. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P2: Deep review relational-quantum-mechanics.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 41 days ago. Concept page on RQM interpretation — directly relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence, cross-references, and tenet alignment.
@@ -407,6 +401,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-11: Deep review experiential-alignment.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 40 days ago. Concept page on experiential alignment relevant to AI consciousness cluster. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/experiential-alignment.md
 
 ### ✓ 2026-03-11: Cross-review related articles considering resolution-bandwidth-interface
 - **Type**: cross-review
