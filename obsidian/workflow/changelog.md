@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 16:19 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 236 (3323 to 3559)
+- **Findings**: 1 cadence (validate-all still absent), 0 failure, 1 queue (structural shift P3->P2), 4 review patterns, 1 convergence (topic cap exceedance 221/200)
+- **Tier 1 changes**: 0 applied (no adjustable parameters in state)
+- **Tier 2 recommendations**: 8 logged (1 new critical: cap enforcement at expand-topic, 1 new: purge unexecutable tasks)
+- **Output**: [[reviews/system-tune-2026-03-11]]
+
 ## 2026-03-11 16:13 UTC - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/attention-as-causal-bridge]]
