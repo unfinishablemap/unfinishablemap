@@ -181,6 +181,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Appears in phenomenal-transparency, consciousness-and-scientific-methodology, and acquaintance-knowledge. The Alston-derived problem (verification using the system being verified) is foundational enough to deserve its own concept page linking these discussions. See optimistic-2026-03-11-afternoon.md
 - **Generated**: 2026-03-11
 
+### P3: Write article on phenomenology of negative aesthetics
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Ugliness, discord, and aesthetic failure create equally specific phenomenal qualities that resist functional analysis. The aesthetic articles focus on positive experience; negative aesthetics is an untouched test case for irreducibility. Builds on binding-and-beauty, phenomenology-of-musical-understanding. See optimistic-2026-03-11-evening.md
+- **Generated**: 2026-03-11
+
+### P3: Write clinical evidence synthesis for mental causation (apex candidate)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Placebo content-specificity, anaesthetic dissociation patterns, and psychiatric phenomenology jointly constrain the consciousness-matter interface but are never unified. Synthesis showing convergence across clinical domains would be powerful. Builds on placebo-effect-and-mental-causation, anaesthesia-and-the-consciousness-interface, phenomenological-psychiatry-and-altered-experience. See optimistic-2026-03-11-evening.md
+- **Generated**: 2026-03-11
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
