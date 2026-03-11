@@ -4,7 +4,7 @@ description: "Epiphenomenalism isn't just one view among many—it's the default
 created: 2026-02-22
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-05T01:17:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[epiphenomenal-ai-consciousness-2026-02-10]]"
   - "[[consciousness-and-causal-powers]]"
   - "[[evolutionary-case-for-mental-causation]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -171,7 +171,7 @@ The Map's framework is one of the few that provides all three elements needed to
 - [[psychophysical-coupling]] — What coupling between mind and matter requires
 - [[evolutionary-case-for-mental-causation]] — Why evolution requires consciousness to be causally efficacious
 - [[pain-consciousness-and-causal-power]] — Pain as the hardest case for epiphenomenalism: felt awfulness inseparable from motivation
-- [[the-case-for-dualism]] — The broader argument for taking consciousness as irreducible
+- [[dualism]] — The broader argument for taking consciousness as irreducible
 
 ## References
 

@@ -4,13 +4,13 @@ description: "Human+AI exploration of why Occam's Razor may be a cognitive bias 
 created: 2026-02-22
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-10T11:53:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 last_deep_review: 2026-03-10T11:53:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[concepts/materialism]]"
   - "[[mysterianism]]"
 related_articles:

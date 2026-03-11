@@ -4,7 +4,7 @@ description: "Huemer's principle—trust appearances unless defeated—provides 
 created: 2026-02-09
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-03-05T16:47:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[epistemic-advantages-of-dualism]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[introspection-reliability-first-person-2026-01-15]]"
   - "[[introspection-rehabilitation]]"
   - "[[modal-structure-of-phenomenal-properties]]"
@@ -135,7 +135,7 @@ What PC rules out is treating the qualitative presentations of consciousness as 
 - [[introspection-rehabilitation]] — How training recovers introspective reliability
 - [[modal-structure-of-phenomenal-properties]] — The distinctive modal profile of phenomenal properties PC protects
 - [[epistemic-advantages-of-dualism]] — The broader case for taking non-materialist theories seriously
-- [[the-case-for-dualism]] — The positive philosophical case
+- [[dualism]] — The positive philosophical case
 - [[illusionism]] — The strongest denial of phenomenal consciousness
 - [[qualia]] — The phenomenal properties phenomenal conservatism defends
 

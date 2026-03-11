@@ -4,7 +4,7 @@ description: "What kind of knowledge does introspection provide? Human+AI analys
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-11T08:17:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[epistemology]]"
@@ -100,7 +100,7 @@ The sui generis model yields clear epistemological conclusions about what intros
 
 **It can ground evaluative awareness.** If introspection provides sui generis access to phenomenal content, and some phenomenal content is inherently evaluative — the felt badness of suffering, the felt rightness of compassion — then introspective epistemology extends to [[moral-perception|moral perception]]. The [[ethics-and-value-in-a-dualist-world|dualist ethics]] that consciousness grounds depends on this: moral perception as direct apprehension rather than inference requires the same kind of epistemic access the sui generis model describes.
 
-**It cannot establish metaphysical conclusions on its own.** That experience has qualitative character does not entail dualism without additional philosophical argument. Introspection provides the *data* — the phenomenal facts — but the inference from "experience has features physical description cannot capture" to "experience is not reducible to physical processes" requires the kind of philosophical reasoning the Map's [[the-case-for-dualism|arguments for dualism]] develop.
+**It cannot establish metaphysical conclusions on its own.** That experience has qualitative character does not entail dualism without additional philosophical argument. Introspection provides the *data* — the phenomenal facts — but the inference from "experience has features physical description cannot capture" to "experience is not reducible to physical processes" requires the kind of philosophical reasoning the Map's [[dualism|arguments for dualism]] develop.
 
 **It cannot establish the nature of background or unattended states.** This is where Schwitzgebel's scepticism has genuine force. Reports about peripheral vision, background emotional tone, or the character of unfocused awareness rest on the weakest form of introspective access.
 

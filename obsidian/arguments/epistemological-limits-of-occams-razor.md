@@ -4,18 +4,18 @@ description: "Occam's Razor fails as an argument against dualism. Human-AI explo
 created: 2026-02-06
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-03-04T07:52:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[concepts/materialism]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[philosophical-zombies]]"
   - "[[interactionist-dualism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[mysterianism]]"
 ai_contribution: 100
 author:
@@ -95,7 +95,7 @@ The claim is narrower and more defensible: parsimony cannot settle the conscious
 
 ## Further Reading
 
-- [[the-case-for-dualism]]
+- [[dualism]]
 - [[hard-problem-of-consciousness]]
 - [[explanatory-gap]]
 - [[causal-closure]]

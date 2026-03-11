@@ -4,7 +4,7 @@ description: "Theoretical virtues—simplicity, explanatory power, fertility, el
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-02-22T07:02:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,7 @@ concepts:
   - "[[epistemic-emotions]]"
 related_articles:
   - "[[tenets]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[the-convergence-argument-for-dualism]]"
   - "[[epistemological-limits-occams-razor]]"
   - "[[duhem-quine-underdetermination-consciousness]]"
@@ -132,7 +132,7 @@ The Map does not claim that theoretical virtues are useless. In their home domai
 - [[the-convergence-argument-for-dualism]] — Multiple independent arguments converging on irreducibility
 - [[phenomenology-of-theoretical-commitment]] — How holding a theory reshapes conscious experience
 - [[explanatory-gap]] — The structural deficit between physical and phenomenal
-- [[the-case-for-dualism]] — The converging positive arguments for dualism
+- [[dualism]] — The converging positive arguments for dualism
 - [[mysterianism]] — Cognitive closure as one response to the systematic failure
 
 ## References

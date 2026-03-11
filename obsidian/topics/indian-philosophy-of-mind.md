@@ -4,7 +4,7 @@ description: "Samkhya, Nyaya, and Vedanta developed sophisticated theories of co
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-02-23T03:28:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 last_deep_review: 2026-02-23T03:28:00+00:00
 draft: false
 topics:
@@ -27,7 +27,7 @@ concepts:
   - "[[dualism]]"
   - "[[causal-closure]]"
   - "[[objections-to-interactionism]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
 related_articles:
   - "[[tenets]]"
   - "[[buddhism-and-dualism]]"
@@ -137,7 +137,7 @@ Three distinctive contributions are largely absent from Western philosophy of mi
 
 The Map's engagement with Indian philosophy of mind connects to each tenet.
 
-**[[tenets#^dualism|Dualism]]**: All three schools affirm consciousness as irreducible to matter—through independent arguments developed over millennia. This cross-school convergence *within* a single philosophical culture, achieved through sustained mutual criticism, provides evidence distinct from the cross-cultural convergence discussed in [[the-hard-problem-in-non-western-philosophy]]. It adds a further strand to [[the-case-for-dualism]]: internal disagreement about what consciousness *is* coexists with agreement that it is not material.
+**[[tenets#^dualism|Dualism]]**: All three schools affirm consciousness as irreducible to matter—through independent arguments developed over millennia. This cross-school convergence *within* a single philosophical culture, achieved through sustained mutual criticism, provides evidence distinct from the cross-cultural convergence discussed in [[the-hard-problem-in-non-western-philosophy]]. It adds a further strand to [[dualism]]: internal disagreement about what consciousness *is* coexists with agreement that it is not material.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Samkhya's "proximity" model—*purusha* disturbs *prakriti*'s equilibrium through presence rather than force—shares a structural concern with the Map's quantum interaction model. Both seek the minimal interface between consciousness and matter. The parallel is thematic, not mechanistic: Samkhya predates quantum theory by two millennia.
 
@@ -161,9 +161,8 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 - [[contemplative-practice-as-philosophical-evidence]] — First-person data as empirical test
 - [[comparative-phenomenology-of-meditative-traditions]] — Cross-traditional convergence on self-dissolution, contentless awareness, and subject-object collapse
 - [[tenets]] — The Map's foundational commitments
-- [[dualism]] — The Map's core commitment, independently affirmed by all three schools
+- [[dualism]] — The Map's core commitment, independently affirmed by all three schools; the cumulative case to which Indian philosophy contributes
 - [[the-convergence-argument-for-dualism]] — The epistemological structure Indian philosophy exemplifies
-- [[the-case-for-dualism]] — The cumulative case to which Indian philosophy contributes
 - [[interaction-problem-in-non-western-philosophy]] — Broader survey including Samkhya alongside Islamic and Buddhist approaches
 - [[causal-closure]] — How Samkhya's framework preserves causal closure
 - [[philosophy-of-perception-under-dualism]] — Dualist theories of perception, with parallels to Nyaya

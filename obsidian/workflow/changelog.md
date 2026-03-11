@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 10:02 UTC - refine-draft
+- **Status**: Success
+- **File**: 49 files across topics/, concepts/, arguments/, apex/, voids/, research/, tenets/
+- **Changes**: Updated all [[the-case-for-dualism]] wikilinks to [[dualism]] after coalesce merge. Fixed 3 duplicate Further Reading entries (materialism, indian-philosophy-of-mind, philosophy-of-mind), 1 duplicate frontmatter entry (the-convergence-argument-for-dualism), 1 bibliography URL, and 1 prose display text.
+- **Published**: yes
+
 ## 2026-03-11 09:47 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[concepts/the-case-for-dualism]]

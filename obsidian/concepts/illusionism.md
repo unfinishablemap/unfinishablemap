@@ -4,7 +4,7 @@ description: "The radical claim that phenomenal consciousness is an introspectiv
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-05T19:25:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ concepts:
   - "[[introspection]]"
   - "[[mysterianism]]"
   - "[[knowledge-argument]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[phenomenal-consciousness]]"
   - "[[meta-problem-of-consciousness]]"
   - "[[heterophenomenology]]"
@@ -155,7 +155,7 @@ Recent work has focused on several questions:
 - Whether illusionism can be empirically distinguished from ordinary [[concepts/materialism]]
 - The "hardest aspect" of the illusion problem: why the illusion resists dissolution
 - Whether illusionism is self-refuting (if our beliefs about consciousness are illusions, why trust our belief in illusionism?)
-- How illusionism handles the [[the-case-for-dualism|convergence argument]]—multiple independent routes to the same anti-materialist conclusion
+- How illusionism handles the [[dualism|convergence argument]]—multiple independent routes to the same anti-materialist conclusion
 
 ## Relation to Site Perspective
 
@@ -174,7 +174,7 @@ The persistence of the illusion problem suggests illusionism doesn't escape the 
 ### Site Content
 - [[attention-schema-theory]] — The neuroscientific mechanism for illusionism, and the Map's critique
 - [[attention-as-interface|attention]] — What AST claims consciousness is a model of
-- [[the-case-for-dualism]] — Illusionism as the most radical physicalist response
+- [[dualism]] — Illusionism as the most radical physicalist response
 - [[explanatory-gap]] — The gap illusionism claims doesn't need bridging
 - [[introspection]] — The reliability of phenomenal reports illusionism must challenge
 - [[knowledge-argument]] — Mary's Room and what illusionism must say about learning

@@ -4,14 +4,14 @@ description: "Leibniz's 1714 thought experiment imagines walking through an enla
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-03-08T00:54:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 last_deep_review: 2026-03-08T00:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[dualism]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[explanatory-gap]]"
   - "[[qualia]]"
   - "[[concepts/materialism]]"
@@ -118,7 +118,7 @@ The mill argument stands alongside the [[knowledge-argument]], the [[philosophic
 ## Further Reading
 
 - [[hard-problem-of-consciousness]] — The modern formulation of Leibniz's insight
-- [[the-case-for-dualism]] — The full range of positive arguments
+- [[dualism]] — The full range of positive arguments
 - [[knowledge-argument]] — Mary's Room: what physical knowledge leaves out
 - [[philosophical-zombies]] — Conceivability arguments for dualism
 - [[explanatory-gap]] — Why physical explanation seems to miss experience

@@ -4,7 +4,7 @@ description: "Self-stultification defeats not just epiphenomenalism but every po
 created: 2026-02-23
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-03-05T08:38:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 last_deep_review: 2026-03-05T08:38:00+00:00
 draft: false
 topics:
@@ -160,7 +160,7 @@ The [[the-epiphenomenalist-threat|epiphenomenalist threat]] article shows that m
 - [[mental-causation]] — The problem self-stultification helps resolve
 - [[causal-closure]] — The principle whose rejection self-stultification motivates
 - [[interactionist-dualism]] — The framework that escapes self-stultification
-- [[the-case-for-dualism]] — Multiple converging arguments including self-stultification
+- [[dualism]] — Multiple converging arguments including self-stultification
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Why philosophy of mind has not converged on answers despite millen
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-02-22T03:02:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,7 @@ concepts:
   - "[[interactionist-dualism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[epistemic-advantages-of-dualism]]"
   - "[[the-convergence-argument-for-dualism]]"
   - "[[epistemological-limits-occams-razor]]"

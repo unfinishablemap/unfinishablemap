@@ -4,14 +4,14 @@ description: "Multiple independent philosophical arguments converge on the same 
 created: 2026-02-27
 modified: 2026-02-27
 human_modified:
-ai_modified: 2026-03-05T18:49:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 last_deep_review: 2026-02-27T19:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[concepts/materialism]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[dualism]]"
   - "[[explanatory-gap]]"
   - "[[knowledge-argument]]"
@@ -50,7 +50,7 @@ The arguments exploit genuinely different features of consciousness. The explana
 
 A materialist might object that these arguments share a hidden flaw—perhaps a common reliance on unreliable intuitions about consciousness. But this objection would need to identify a single error that explains away arguments from information incompleteness, logical possibility, normativity of inference, unity of subjects, and qualitative character simultaneously. The diversity of premises is precisely what makes the convergence significant.
 
-For detailed treatment of each argument, see [[the-case-for-dualism]]. For the focused systematic case from the hard problem through quantum indeterminacy, see [[arguments/materialism-argument|Against Materialism]].
+For detailed treatment of each argument, see [[dualism]]. For the focused systematic case from the hard problem through quantum indeterminacy, see [[arguments/materialism-argument|Against Materialism]].
 
 ## Why Materialism Cannot Close the Gap
 
@@ -118,7 +118,7 @@ The arguments against materialism do not prove that consciousness interfaces wit
 
 ## Further Reading
 
-- [[the-case-for-dualism]] — Detailed treatment of each argument with the convergence case
+- [[dualism]] — Detailed treatment of each argument with the convergence case
 - [[concepts/materialism]] — Varieties of materialism and why each fails
 - [[explanatory-gap]] — The gap between physical and phenomenal properties
 - [[knowledge-argument]] — Mary's Room and the incompleteness of physical knowledge

@@ -4,7 +4,7 @@ description: "Five independent arguments converge on one conclusion: consciousne
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T01:53:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ concepts:
   - "[[causal-powers]]"
 related_articles:
   - "[[tenets]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[phenomenal-conservatism-and-introspective-evidence]]"
   - "[[consciousness-and-the-authority-of-formal-systems]]"
   - "[[consciousness-and-the-problem-of-induction]]"
@@ -177,7 +177,7 @@ The suite also reveals why the Map treats the [[the-epiphenomenalist-threat|epip
 - [[consciousness-and-the-problem-of-induction]] — Self-stultification applied to inductive reasoning
 - [[epistemology-of-phenomenal-reports]] — Whether introspective reports are causally connected to experiences
 - [[phenomenal-conservatism-and-introspective-evidence]] — The epistemic framework the suite presupposes
-- [[the-case-for-dualism]] — Multiple converging arguments including self-stultification
+- [[dualism]] — Multiple converging arguments including self-stultification
 - [[interactionist-dualism]] — The framework that escapes self-stultification
 
 ## References

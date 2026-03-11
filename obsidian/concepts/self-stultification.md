@@ -4,7 +4,7 @@ description: "A position is self-stultifying when accepting it undermines the ra
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-03-11T07:32:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 last_deep_review: 2026-03-11T07:32:00+00:00
 draft: false
 topics:
@@ -14,7 +14,7 @@ concepts:
   - "[[mental-causation]]"
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[introspection]]"
   - "[[intentionality]]"
   - "[[cognitive-phenomenology]]"
@@ -161,7 +161,7 @@ The argument also supports the [[tenets#^occams-limits|Occam's Razor Has Limits]
 - [[bidirectional-interaction]] — The Map's tenet that consciousness causes things
 - [[interactionist-dualism]] — The framework that escapes self-stultification
 - [[topics/free-will]] — Self-stultification extends to libertarian free will: choices disconnected from reasons aren't rationally authored
-- [[the-case-for-dualism]] — Multiple arguments converging on irreducibility
+- [[dualism]] — Multiple arguments converging on irreducibility
 
 ## References
 

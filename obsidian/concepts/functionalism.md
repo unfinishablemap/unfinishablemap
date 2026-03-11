@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-02-28T01:46:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ concepts:
   - "[[llm-consciousness]]"
   - "[[substrate-independence-critique]]"
   - "[[temporal-consciousness]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[mental-causation]]"
   - "[[illusionism]]"
   - "[[heterophenomenology]]"
@@ -137,7 +137,7 @@ The Map rejects functionalism on multiple grounds:
 
 ### Dualism and Qualia
 
-If consciousness is not reducible to physical processes, it's not reducible to functional organization either—functional description, though abstract, is entirely specifiable in physical terms. The Map takes qualia seriously: the felt quality of experience transcends functional role. The arguments against functionalism—absent qualia, inverted qualia, Chinese Room, explanatory gap—form part of the [[arguments-against-materialism|broader convergence]] of [[the-case-for-dualism|independent arguments]] against materialism. Multiple lines of reasoning, exploiting different features of consciousness, arrive at the same conclusion: physical facts (including functional facts) do not determine phenomenal facts.
+If consciousness is not reducible to physical processes, it's not reducible to functional organization either—functional description, though abstract, is entirely specifiable in physical terms. The Map takes qualia seriously: the felt quality of experience transcends functional role. The arguments against functionalism—absent qualia, inverted qualia, Chinese Room, explanatory gap—form part of the [[arguments-against-materialism|broader convergence]] of [[dualism|independent arguments]] against materialism. Multiple lines of reasoning, exploiting different features of consciousness, arrive at the same conclusion: physical facts (including functional facts) do not determine phenomenal facts.
 
 ### Bidirectional Interaction
 
@@ -179,7 +179,7 @@ The Map's response: the substrate matters because consciousness involves somethi
 
 ## Further Reading
 
-- [[the-case-for-dualism]] — The convergence of arguments against physicalism
+- [[dualism]] — The convergence of arguments against physicalism
 - [[arguments-against-materialism]] — Why the cumulative case against materialism is powerful
 - [[minimal-consciousness]] — Simple organisms reveal functionalism's limits
 - [[evolution-of-consciousness]] — The emergence problem functionalism cannot solve

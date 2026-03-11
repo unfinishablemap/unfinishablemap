@@ -4,7 +4,7 @@ description: "When multiple independent lines of reasoning—across methods, tra
 created: 2026-02-19
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-03-07T22:39:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[the-convergence-argument-for-dualism]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[epistemic-advantages-of-dualism]]"
   - "[[epistemological-limits-occams-razor]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[the-hard-problem-in-non-western-philosophy]]"
   - "[[cross-cultural-phenomenology-of-agency]]"
   - "[[evolved-cognitive-limits]]"
@@ -172,7 +172,7 @@ The Map treats convergence as genuine evidence while acknowledging its limits. C
 - [[epistemic-advantages-of-dualism]] — Meta-level argument from epistemic humility
 - [[epistemological-limits-occams-razor]] — Why parsimony fails in this debate
 - [[contemplative-practice-as-philosophical-evidence]] — Convergence across contemplative traditions
-- [[the-case-for-dualism]] — The individual arguments catalogued
+- [[dualism]] — The individual arguments catalogued
 - [[methodological-pluralism]] — Multiple methods as a philosophical approach
 
 ## References

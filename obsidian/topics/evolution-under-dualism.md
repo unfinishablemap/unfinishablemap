@@ -4,7 +4,7 @@ description: "Natural selection works the same whether physicalism or dualism is
 created: 2026-02-12
 modified: 2026-02-12
 human_modified:
-ai_modified: 2026-02-15T17:57:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 last_deep_review: 2026-02-15T17:57:00+00:00
 draft: false
 topics:
@@ -40,7 +40,7 @@ last_curated:
 
 If dualism is true, does evolution still work? The short answer is yes—natural selection operates on physical organisms regardless of whether consciousness is reducible to matter. But the longer answer reveals something more interesting: dualism changes what evolution *means*. Under physicalism, evolution is the complete story of life, including mind. Under dualism, evolution is the story of how matter organised itself into systems capable of interfacing with something beyond matter. The Unfinishable Map holds that this reframing dissolves several persistent puzzles about purpose, teleology, and biological design—without requiring any modification to evolutionary biology itself.
 
-This article examines what happens to evolutionary theory when dualism is assumed. Not whether dualism is true (that case is made [[the-case-for-dualism|elsewhere]]), but what follows for biology if it is.
+This article examines what happens to evolutionary theory when dualism is assumed. Not whether dualism is true (that case is made [[dualism|elsewhere]]), but what follows for biology if it is.
 
 ## Evolution Needs No Revision
 

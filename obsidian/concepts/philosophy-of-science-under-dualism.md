@@ -4,7 +4,7 @@ description: "Dualism reshapes the philosophy of science—from demarcation and 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-23T23:20:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-scientific-methodology]]"
@@ -18,7 +18,7 @@ concepts:
   - "[[reductionism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[psychophysical-laws-bridging-mind-and-matter]]"
   - "[[evolution-under-dualism]]"
   - "[[reductionism-and-consciousness]]"
@@ -114,7 +114,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet pr
 - [[psychophysical-laws-bridging-mind-and-matter]] — Bridge laws as the positive alternative to reduction
 - [[reductionism-and-consciousness]] — Why reductive strategies fail for consciousness
 - [[evolution-under-dualism]] — How evolutionary biology operates under dualist assumptions
-- [[the-case-for-dualism]] — The converging arguments for irreducibility
+- [[dualism]] — The converging arguments for irreducibility
 - [[phenomenology-of-creative-insight]] — How the felt experience of creative insight and scientific discovery supports bidirectional interaction
 
 ## References

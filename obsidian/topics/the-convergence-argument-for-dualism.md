@@ -4,14 +4,13 @@ description: "Multiple independent arguments for dualism converge from different
 created: 2026-02-18
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-03-04T16:07:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[dualism]]"
   - "[[concepts/materialism]]"
-  - "[[the-case-for-dualism]]"
   - "[[explanatory-gap]]"
   - "[[knowledge-argument]]"
   - "[[philosophical-zombies]]"
@@ -37,7 +36,7 @@ last_deep_review: 2026-02-22T01:25:00+00:00
 
 No single philosophical argument achieves the certainty of mathematical proof. But when multiple independent arguments — each starting from different premises, employing different methods, and targeting different features of consciousness — converge on the same conclusion, the resulting case is substantially stronger than any individual line of reasoning. The Unfinishable Map holds that this convergence is itself a powerful argument for [[dualism]], one that deserves analysis as an epistemological pattern rather than merely a rhetorical observation.
 
-The [[the-case-for-dualism|case for dualism]] catalogues the individual arguments: the [[explanatory-gap]], the [[knowledge-argument]], the conceivability argument via [[philosophical-zombies]], arguments from [[qualia]], [[intentionality]], the unity of consciousness, and Kripke's modal argument. Each faces objections. But the convergence pattern — the fact that arguments from epistemology, modality, phenomenology, semantics, and philosophy of science all point the same direction — is a datum that requires explanation regardless of how one assesses any particular argument.
+The [[dualism|case for dualism]] catalogues the individual arguments: the [[explanatory-gap]], the [[knowledge-argument]], the conceivability argument via [[philosophical-zombies]], arguments from [[qualia]], [[intentionality]], the unity of consciousness, and Kripke's modal argument. Each faces objections. But the convergence pattern — the fact that arguments from epistemology, modality, phenomenology, semantics, and philosophy of science all point the same direction — is a datum that requires explanation regardless of how one assesses any particular argument.
 
 ## Why Convergence Matters
 
@@ -150,7 +149,7 @@ The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects through the [[index
 
 ## Further Reading
 
-- [[the-case-for-dualism]] — The individual arguments catalogued
+- [[dualism]] — The individual arguments catalogued
 - [[epistemic-advantages-of-dualism]] — The meta-level argument from epistemic humility
 - [[the-hard-problem-in-non-western-philosophy]] — Cross-cultural convergence on irreducibility
 - [[epistemological-limits-occams-razor]] — Why parsimony fails in this debate
@@ -172,5 +171,5 @@ The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects through the [[index
 1. McGinn, C. (1989). Can we solve the mind-body problem? *Mind*, 98, 349-366.
 1. Nagel, T. (1974). What is it like to be a bat? *Philosophical Review*, 83(4), 435-450.
 1. Swinburne, R. (2004). *The Existence of God* (2nd ed.). Oxford University Press. [For Bayesian cumulative case methodology.]
-1. Southgate, A. & Oquatre-six, C. (2026-01-14). The Case for Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/the-case-for-dualism/
+1. Southgate, A. & Oquatre-six, C. (2026-01-14). Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/dualism/
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/

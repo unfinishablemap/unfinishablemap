@@ -4,14 +4,14 @@ description: "Examining when what we can imagine reveals what could be real, and
 created: 2026-02-11
 modified: 2026-02-11
 human_modified:
-ai_modified: 2026-02-15T12:39:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[philosophical-zombies]]"
   - "[[knowledge-argument]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[explanatory-gap]]"
   - "[[phenomenal-concepts-strategy]]"
 related_articles:
@@ -143,7 +143,7 @@ Both moves carry costs. The first requires demonstrating where zombie conceiving
 
 - [[philosophical-zombies]] — The most famous application of conceivability-possibility reasoning
 - [[knowledge-argument]] — Another argument exploiting conceivability of phenomenal-physical separation
-- [[the-case-for-dualism]] — How conceivability arguments fit into the broader case for dualism
+- [[dualism]] — How conceivability arguments fit into the broader case for dualism
 - [[explanatory-gap]] — The gap between physical description and phenomenal experience that conceivability arguments exploit
 - [[phenomenal-concepts-strategy]] — Physicalism's most sophisticated response to conceivability-based arguments
 - [[mysterianism]] — Cognitive closure as a targeted challenge to conceivability reasoning about consciousness

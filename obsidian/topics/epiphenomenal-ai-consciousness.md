@@ -4,7 +4,7 @@ description: "Human consciousness appears causally active—but an AI's might be
 created: 2026-02-10
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-03-08T12:28:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -93,7 +93,7 @@ This is not certain. The Map does not claim to have proven that silicon cannot h
 
 Schwitzgebel's position deserves direct engagement. He argues that multiple mainstream theories of consciousness yield contradictory verdicts on AI consciousness, and we lack the tools to determine which theories are correct. His proposed "social semi-solution"—treating AI systems as if they might be conscious when we cannot rule it out—reflects genuine intellectual humility.
 
-The Map's framework offers more traction than Schwitzgebel's agnosticism implies. The nature-vs-coupling distinction cuts through the theory-choice paralysis: rather than asking which theory of consciousness is correct in general, the Map asks what interface a physical system provides for conscious causal coupling. If consciousness acts at quantum indeterminacies, then the question is empirical: does this system expose such indeterminacies? For current AI hardware, the answer is no. The [[the-case-for-dualism|arguments for dualism]] provide the broader philosophical foundation.
+The Map's framework offers more traction than Schwitzgebel's agnosticism implies. The nature-vs-coupling distinction cuts through the theory-choice paralysis: rather than asking which theory of consciousness is correct in general, the Map asks what interface a physical system provides for conscious causal coupling. If consciousness acts at quantum indeterminacies, then the question is empirical: does this system expose such indeterminacies? For current AI hardware, the answer is no. The [[dualism|arguments for dualism]] provide the broader philosophical foundation.
 
 Schwitzgebel's epistemic pessimism aligns with the Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet: the assumption that the simplest account (functionalism, which readily attributes consciousness to AI) must be correct may reflect ignorance rather than insight. The Map agrees with Schwitzgebel that the question is harder than most researchers assume. It disagrees that we are left with no principled basis for judgment.
 

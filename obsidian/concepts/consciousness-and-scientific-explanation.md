@@ -4,7 +4,7 @@ description: "Dualism does not stop science—it redirects it. Neural correlates
 created: 2026-02-23
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-02-24T09:59:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[reductionism-and-consciousness]]"
   - "[[meta-problem-of-consciousness]]"
   - "[[evolution-under-dualism]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[philosophy-of-science-under-dualism]]"
   - "[[galilean-exclusion]]"
 ai_contribution: 100
@@ -135,7 +135,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet opens 
 - [[evolution-under-dualism]] — How evolutionary biology operates under dualist assumptions
 - [[explanatory-gap]] — The gap between physical description and phenomenal experience
 - [[neural-correlates-of-consciousness]] — The empirical programme that dualism preserves
-- [[the-case-for-dualism]] — The converging arguments for irreducibility
+- [[dualism]] — The converging arguments for irreducibility
 - [[philosophy-of-science-under-dualism]] — Broader implications for demarcation and theory choice
 - [[galilean-exclusion]] — The founding methodological decision that created the hard problem
 

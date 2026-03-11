@@ -4,7 +4,7 @@ description: "Six major challenges to dualism: pairing, conservation, parsimony,
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-03-07T23:29:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ concepts:
   - "[[causal-delegation]]"
 related_articles:
   - "[[tenets]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[conservation-laws-and-mental-causation]]"
   - "[[objections-to-interactionist-dualism-2026-01-15]]"
 ai_contribution: 100
@@ -200,7 +200,7 @@ The exclusion argument receives two complementary responses: quantum insufficien
 - [[interactionist-dualism]] — The position these objections target
 - [[pairing-problem]] — Detailed treatment of Kim's pairing challenge
 - [[causal-closure]] — The closure principle underlying the exclusion argument
-- [[the-case-for-dualism]] — Positive arguments for the Map's position
+- [[dualism]] — Positive arguments for the Map's position
 - [[quantum-consciousness]] — The mechanism for mind-matter interface
 - [[decoherence]] — The quantum biology challenge and evidence
 - [[interface-locality]] — Why consciousness can only select within its own brain

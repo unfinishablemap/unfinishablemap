@@ -4,7 +4,7 @@ description: "Dualism both intensifies and enriches the problem of knowing other
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-04T23:47:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[other-minds-void]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[consciousness-as-amplifier]]"
   - "[[problem-of-other-minds-2026-01-14]]"
   - "[[consciousness-only-territories]]"
@@ -121,7 +121,7 @@ The epistemology of other minds under dualism connects to the Map's framework at
 - [[philosophical-zombies]] — Why behavioural evidence cannot logically guarantee consciousness
 - [[zombie-master-argument]] — How zombie conceivability subsumes the knowledge argument and explanatory gap
 - [[consciousness-as-amplifier]] — Cognitive capacities as markers of consciousness
-- [[the-case-for-dualism]] — The positive arguments for irreducibility
+- [[dualism]] — The positive arguments for irreducibility
 - [[intersubjectivity]] — The shared space between minds and its dualist implications
 - [[consciousness-only-territories]] — Regions of experience structurally beyond external access
 - [[knowledge-argument]] — Mary's Room and the parallel case for phenomenal knowledge exceeding physical knowledge

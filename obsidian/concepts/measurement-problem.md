@@ -4,7 +4,7 @@ description: "Quantum mechanics' central puzzle: why measurement yields definite
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-02-27T06:46:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ concepts:
   - "[[prebiotic-collapse]]"
   - "[[indexical-identity-quantum-measurement]]"
   - "[[quantum-probability-consciousness]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[qualia]]"
   - "[[spontaneous-collapse-theories]]"
   - "[[topics/free-will]]"

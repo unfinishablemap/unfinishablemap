@@ -4,7 +4,7 @@ description: "Why physicalism fails to explain consciousness. The explanatory ga
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-05T18:49:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[philosophical-zombies]]"
   - "[[illusionism]]"
   - "[[knowledge-argument]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[idealism]]"
   - "[[mysterianism]]"
   - "[[introspection]]"
@@ -93,9 +93,9 @@ The Map's response targets premise 1. The [[tenets#^minimal-quantum-interaction|
 
 ## Why Materialism Fails
 
-Several lines of argument suggest materialism cannot accommodate consciousness. These are not merely objections to materialism; they constitute [[the-case-for-dualism|positive arguments for dualism]] that converge on the same conclusion from independent directions. [[Dualism]]—the view that consciousness is ontologically distinct from matter—gains support precisely where materialism fails. The 2020 PhilPapers survey found approximately 32% of philosophers accept or lean toward non-physicalism—the main alternative to materialism.
+Several lines of argument suggest materialism cannot accommodate consciousness. These are not merely objections to materialism; they constitute [[dualism|positive arguments for dualism]] that converge on the same conclusion from independent directions. [[Dualism]]—the view that consciousness is ontologically distinct from matter—gains support precisely where materialism fails. The 2020 PhilPapers survey found approximately 32% of philosophers accept or lean toward non-physicalism—the main alternative to materialism.
 
-For a comprehensive treatment of these arguments, including Kripke's modal argument, Nagel's subjectivity argument, and the convergence argument showing how independent lines of reasoning reinforce each other, see [[the-case-for-dualism]]. For the focused case from the hard problem, zombies, epiphenomenalism, and quantum indeterminacy, see [[arguments/materialism-argument|Against Materialism]].
+For a comprehensive treatment of these arguments, including Kripke's modal argument, Nagel's subjectivity argument, and the convergence argument showing how independent lines of reasoning reinforce each other, see [[dualism]]. For the focused case from the hard problem, zombies, epiphenomenalism, and quantum indeterminacy, see [[arguments/materialism-argument|Against Materialism]].
 
 ### The Explanatory Gap
 
@@ -186,8 +186,7 @@ None currently obtains, and each faces significant challenges. Materialism remai
 ## Further Reading
 
 - [[argument-from-reason]] — The self-stultification argument: physicalism undermines rational justification for any belief, including itself
-- [[the-case-for-dualism]] — The positive case for dualism: seven converging arguments against physicalism
-- [[dualism]] — What dualism claims and its main varieties (foundational overview)
+- [[dualism]] — What dualism claims, its main varieties, and seven converging arguments against physicalism
 - [[knowledge-argument]] — The knowledge argument (Mary's Room) in detail
 - [[explanatory-gap]] — What physical explanations leave out
 - [[philosophical-zombies]] — The zombie argument against materialism in detail

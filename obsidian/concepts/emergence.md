@@ -4,7 +4,7 @@ description: "Consciousness is the paradigm case of strong emergence: genuinely 
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-02-27T18:46:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -173,7 +173,7 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 
 ## Further Reading
 
-- [[the-case-for-dualism]] — Seven converging arguments that physical description cannot capture consciousness
+- [[dualism]] — Seven converging arguments that physical description cannot capture consciousness
 - [[mental-causation]] — The philosophical problem strong emergence addresses
 - [[evolution-of-consciousness]] — When consciousness emerged and what this reveals about emergence theory
 - [[reductionism-and-consciousness]] — Why consciousness is the singular exception to reductionism's track record

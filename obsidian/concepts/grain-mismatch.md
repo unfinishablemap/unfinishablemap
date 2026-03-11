@@ -4,7 +4,7 @@ description: "Phenomenal experience appears smooth and homogeneous while neural 
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T06:02:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,7 @@ related_articles:
   - "[[bandwidth-of-consciousness]]"
   - "[[bandwidth-problem-mental-causation]]"
   - "[[inverted-qualia]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[resolution-bandwidth-interface]]"
 ai_contribution: 100
 author:
@@ -87,7 +87,7 @@ The Map speculates that the grain mismatch may extend beyond spatial homogeneity
 - [[explanatory-gap]] — The gap between physical description and phenomenal character
 - [[knowledge-argument]] — The epistemic argument against physicalism
 - [[philosophical-zombies]] — The modal argument against physicalism
-- [[the-case-for-dualism]] — How multiple independent arguments converge
+- [[dualism]] — How multiple independent arguments converge
 - [[resolution-bandwidth-interface]] — Architectural implications of the grain mismatch
 - [[bandwidth-problem-mental-causation]] — Grain mismatch in the causal domain
 

@@ -4,7 +4,7 @@ description: "If thoughts are fully explained by physical causes, no belief is r
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-03-05T11:19:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 last_deep_review: 2026-03-05T08:13:00+00:00
 topics:
@@ -14,7 +14,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[causal-closure]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[explanatory-gap]]"
   - "[[mysterianism]]"
   - "[[stapp-quantum-mind]]"
@@ -139,7 +139,7 @@ The physicalist might respond: "What's the difference? If the outputs match corr
 
 ## Further Reading
 
-- [[the-case-for-dualism]] - Multiple independent arguments converging on irreducibility of consciousness
+- [[dualism]] - Multiple independent arguments converging on irreducibility of consciousness
 - [[causal-closure]] - The physicalist principle that the argument from reason challenges
 - [[explanatory-gap]] - The conceptual distinction between physical and phenomenal that the argument exploits
 - [[agent-causation]] - How rational agents causally influence beliefs through recognizing reasons

@@ -4,7 +4,7 @@ description: "Possibility, necessity, and conceivability reveal that phenomenal 
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-02-15T07:27:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 last_deep_review: 2026-02-15T07:27:00+00:00
 draft: false
 topics:
@@ -19,7 +19,7 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[concepts/materialism]]"
   - "[[concepts/functionalism]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[conceivability-possibility-inference]]"
 related_articles:
   - "[[tenets]]"
@@ -118,7 +118,7 @@ The modal structure of phenomenal properties provides some of the strongest supp
 - [[philosophical-zombies]] — The conceivability of absent experience
 - [[inverted-qualia]] — The conceivability of varied qualitative character
 - [[knowledge-argument]] — Phenomenal knowledge beyond physical facts
-- [[the-case-for-dualism]] — The full convergence of anti-materialist arguments, including Kripke's modal argument
+- [[dualism]] — The full convergence of anti-materialist arguments, including Kripke's modal argument
 - [[phenomenal-concepts-strategy]] — The physicalist's strongest response and its limits
 - [[conceivability-possibility-inference]] — The bridge from conceivability to metaphysical possibility
 - [[haecceity]] — Irreducible particularity in consciousness

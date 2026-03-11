@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-02T15:52:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ concepts:
   - "[[intentionality]]"
   - "[[binding-problem]]"
   - "[[causal-closure]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[multi-mind-collapse-problem]]"
   - "[[interface-locality]]"
   - "[[prebiotic-collapse]]"

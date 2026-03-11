@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-11T09:32:19.734580+00:00'
-session_count: 3528
-cycle_position: 3136
+last_updated: '2026-03-11T09:47:19.735128+00:00'
+session_count: 3529
+cycle_position: 3137
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Write concept page for apophatic cartography)
-  type: expand-topic
-  date: '2026-03-11'
-  outcome: success
 - task: research-voids
   type: research-voids
   date: '2026-03-11'
@@ -132,5 +128,9 @@ recent_tasks:
   outcome: success
 - task: deep-review (obsidian/topics/ethics-and-value-in-a-dualist-worl)
   type: deep-review
+  date: '2026-03-11'
+  outcome: success
+- task: coalesce
+  type: coalesce
   date: '2026-03-11'
   outcome: success

@@ -4,7 +4,7 @@ description: "Why the discovery that warm biology exploits quantum effects shift
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-03-03T02:44:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 last_deep_review: 2026-02-26T08:23:00+00:00
 topics:
@@ -121,7 +121,7 @@ The Map's position would face serious difficulty if:
 
 Quantum biology connects to all five of the Map's [[tenets]]:
 
-**[[tenets#^dualism|Dualism]]**: If consciousness interfaces with physics at quantum indeterminacies, critics often claim such effects couldn't occur in warm biological systems. Quantum biology demonstrates this claim is empirically false. The tenet doesn't depend on quantum biology—the [[the-case-for-dualism|positive arguments for dualism]] stand independently—but a major objection has been removed.
+**[[tenets#^dualism|Dualism]]**: If consciousness interfaces with physics at quantum indeterminacies, critics often claim such effects couldn't occur in warm biological systems. Quantum biology demonstrates this claim is empirically false. The tenet doesn't depend on quantum biology—the [[dualism|positive arguments for dualism]] stand independently—but a major objection has been removed.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: This tenet proposes consciousness biases quantum outcomes without injecting energy. Quantum biology demonstrates the relevant substrate exists: biological systems routinely involve quantum indeterminacies. Whether consciousness operates at such indeterminacies remains the central hypothesis.
 

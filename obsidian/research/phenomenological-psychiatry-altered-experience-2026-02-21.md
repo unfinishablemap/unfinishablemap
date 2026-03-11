@@ -3,11 +3,11 @@ title: Research Notes - Phenomenological Psychiatry and Altered Experience
 created: 2026-02-21
 modified: 2026-02-21
 human_modified: null
-ai_modified: 2026-03-05T00:32:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
 concepts:
   - "[[phenomenology-and-consciousness]]"
   - "[[neural-correlates-of-consciousness]]"

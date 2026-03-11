@@ -4,7 +4,7 @@ description: "What kind of causal powers does consciousness possess? Examining t
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-06T01:41:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 last_deep_review: 2026-03-06T01:41:00+00:00
 draft: false
 topics:
@@ -175,7 +175,7 @@ Humans possess cognitive capacities (logical reasoning, metacognition, cumulativ
 
 Notably, we lack direct empirical evidence that consciousness biases quantum outcomes in brains. The hypothesis is *compatible* with current evidence but not *required* by it. A physicalist can accept mental causation without accepting non-physical causal powers—by identifying mental states with neural states, mental causation becomes a subset of physical causation. On this view, any "selection" among quantum outcomes is itself a physical process, and invoking consciousness adds nothing beyond a redescription.
 
-The Map's response: identity theories face their own difficulties. If mental states just *are* neural states, then the qualitative character of experience—the painfulness of pain, the redness of red—has no explanatory role in the causal story. The neural state does all the work, and phenomenal character is epiphenomenal in all but name. The Map's position requires the independent [[the-case-for-dualism]] to establish that mental causation cannot be reduced to physical causation. The causal powers framework describes *how* non-physical causation might work if dualism is true—it does not by itself prove dualism.
+The Map's response: identity theories face their own difficulties. If mental states just *are* neural states, then the qualitative character of experience—the painfulness of pain, the redness of red—has no explanatory role in the causal story. The neural state does all the work, and phenomenal character is epiphenomenal in all but name. The Map's position requires the independent [[dualism]] to establish that mental causation cannot be reduced to physical causation. The causal powers framework describes *how* non-physical causation might work if dualism is true—it does not by itself prove dualism.
 
 ## Relation to Site Perspective
 

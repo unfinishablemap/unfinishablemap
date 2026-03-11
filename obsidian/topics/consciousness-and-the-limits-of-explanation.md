@@ -4,7 +4,7 @@ description: "Every major theory of scientific explanation fails with consciousn
 created: 2026-02-18
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-02-23T22:35:00+00:00
+ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ concepts:
   - "[[illusionism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[the-case-for-dualism]]"
+  - "[[dualism]]"
   - "[[consciousness-and-the-problem-of-theoretical-virtues]]"
   - "[[consciousness-and-the-problem-of-philosophical-progress]]"
   - "[[first-person-third-person-methodology]]"
@@ -182,7 +182,7 @@ The Map holds that this failure may ultimately be more revealing than the hard p
 - [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — Alternative epistemic strategies when mechanistic explanation faces categorical limits
 - [[contemplative-practice-as-philosophical-evidence]] — First-person methods that address the reflexive gap from within experience
 - [[consciousness-and-neurodegenerative-disease]] — What the loss of understanding in neurodegeneration reveals about its phenomenal basis
-- [[the-case-for-dualism]] — The converging arguments that consciousness exceeds physics
+- [[dualism]] — The converging arguments that consciousness exceeds physics
 
 ## References
 
