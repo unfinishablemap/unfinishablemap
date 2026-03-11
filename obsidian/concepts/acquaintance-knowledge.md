@@ -4,7 +4,7 @@ description: "Knowledge by acquaintance—direct experiential contact with pheno
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-02-15T03:20:00+00:00
+ai_modified: 2026-03-11T21:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,7 @@ related_articles:
   - "[[consciousness-only-territories]]"
   - "[[pre-conceptual-knowing]]"
   - "[[intrinsic-nature-void]]"
+  - "[[aesthetic-irreducibility-arguments]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -106,6 +107,7 @@ Mary's gap is indexical as well as qualitative: she lacks not just knowledge of 
 - [[qualia]] — The phenomenal properties acquaintance reveals
 - [[intrinsic-nature-void]] — Why physics describes structure but not qualitative character
 - [[explanatory-gap]] — The conceptual gap between physical and phenomenal
+- [[aesthetic-irreducibility-arguments]] — Why aesthetic knowledge requires acquaintance across diverse substrates
 
 ## References
 

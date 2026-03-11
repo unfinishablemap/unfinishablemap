@@ -4,7 +4,7 @@ description: "Beauty appears across physically unrelated domains and resists red
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T15:17:00+00:00
+ai_modified: 2026-03-11T21:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
-last_deep_review: 2026-03-11T15:17:00+00:00
+last_deep_review: 2026-03-11T21:35:00+00:00
 coalesced_from:
   - "/topics/aesthetic-experience-as-evidence-for-irreducibility/"
   - "/topics/formal-aesthetics-as-dualist-testing-ground/"

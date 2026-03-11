@@ -4,7 +4,7 @@ description: "Possibility, necessity, and conceivability reveal that phenomenal 
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-11T21:35:00+00:00
 last_deep_review: 2026-02-15T07:27:00+00:00
 draft: false
 topics:
@@ -23,6 +23,7 @@ concepts:
   - "[[conceivability-possibility-inference]]"
 related_articles:
   - "[[tenets]]"
+  - "[[aesthetic-irreducibility-arguments]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -125,6 +126,7 @@ The modal structure of phenomenal properties provides some of the strongest supp
 - [[vertiginous-question]] — Why *this* experience rather than another
 - [[qualia]] — The phenomenal properties whose modal structure this article examines
 - [[explanatory-gap]] — The chasm between physical description and experience
+- [[aesthetic-irreducibility-arguments]] — Aesthetic properties as a domain where modal independence is especially vivid
 - [[meta-problem-of-consciousness]] — Why we report that consciousness is puzzling
 
 ## References

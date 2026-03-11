@@ -4,7 +4,7 @@ description: "Musical understanding reveals consciousness as irreducibly tempora
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-02-22T11:15:00+00:00
+ai_modified: 2026-03-11T21:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[tenets]]"
   - "[[emotional-consciousness]]"
   - "[[surprise-prediction-error-and-consciousness]]"
+  - "[[aesthetic-irreducibility-arguments]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -116,6 +117,7 @@ Musical understanding connects to the Map's framework through several tenets.
 ## Further Reading
 
 - [[aesthetic-dimension-of-consciousness]] — Beauty and aesthetic quality in conscious experience
+- [[aesthetic-irreducibility-arguments]] — Why beauty resists reduction even where formal properties (harmonic ratios, symmetry) are fully specified
 - [[temporal-consciousness]] — The specious present, durée, and temporal binding
 - [[emotional-consciousness]] — Valence, felt quality, and non-propositional emotion
 - [[cognitive-phenomenology]] — The felt quality of understanding and thought

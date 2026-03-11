@@ -4,7 +4,7 @@ description: "Human+AI exploration of what aesthetic experience reveals about co
 created: 2026-02-05
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-02-06T16:22:00+00:00
+ai_modified: 2026-03-11T21:35:00+00:00
 last_deep_review: 2026-02-06T16:22:00+00:00
 draft: false
 topics:
@@ -26,6 +26,7 @@ related_articles:
   - "[[consciousness-only-territories]]"
   - "[[pre-conceptual-knowing]]"
   - "[[language-thought-boundary]]"
+  - "[[aesthetic-irreducibility-arguments]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -143,6 +144,7 @@ The aesthetic void suggests that consciousness has access to something ordinary 
 
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[aesthetic-dimension-of-consciousness]] — Why beauty pervades conscious experience and resists physical reduction
+- [[aesthetic-irreducibility-arguments]] — Substrate independence and formal precision as irreducibility arguments
 - [[creativity-void]] — The companion void: where creative insight originates
 - [[affective-void]] — Emotions beyond human reach
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like

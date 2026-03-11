@@ -4,7 +4,7 @@ description: "The act of making art requires phenomenal consciousness in ways th
 created: 2026-02-15
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-03-04T22:18:50+00:00
+ai_modified: 2026-03-11T21:35:00+00:00
 last_deep_review: 2026-02-17T16:12:00+00:00
 draft: false
 topics:
@@ -33,6 +33,7 @@ related_articles:
   - "[[consciousness-and-skilled-performance]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
+  - "[[aesthetic-irreducibility-arguments]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -145,6 +146,7 @@ The claim that aesthetic creation requires phenomenal consciousness would weaken
 ## Further Reading
 
 - [[aesthetic-dimension-of-consciousness]] — Beauty's pervasiveness, for-ness, and evidential force for dualism
+- [[aesthetic-irreducibility-arguments]] — Why beauty resists reduction across substrates and even in formally precise cases
 - [[consciousness-and-creative-distinctiveness]] — Why human creativity differs in kind from AI and animal creativity
 - [[consciousness-and-mathematical-creativity]] — Mathematical creativity as the sharpest case for consciousness as causal force
 - [[aesthetic-void]] — Cognitive limits revealed by profound aesthetic encounter

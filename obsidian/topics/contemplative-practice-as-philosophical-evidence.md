@@ -4,7 +4,7 @@ description: "Cross-traditional contemplative practice functions as philosophica
 created: 2026-01-27
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-09T21:57:00+00:00
+ai_modified: 2026-03-11T21:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,6 +43,7 @@ related_articles:
   - "[[testing-the-map-from-inside]]"
   - "[[contemplative-training-and-phenomenal-access]]"
   - "[[contemplative-verification-of-consciousness-theories]]"
+  - "[[aesthetic-irreducibility-arguments]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -236,6 +237,7 @@ The distinction between willed and exogenous attention in [[contemplative-neuros
 - [[contemplative-verification-of-consciousness-theories]] — Can meditation verify philosophical claims?
 - [[consciousness-and-scientific-methodology]] — How consciousness challenges the scientific method itself
 - [[phenomenology]] — Husserl's phenomenological method and its relation to contemplative practice
+- [[aesthetic-irreducibility-arguments]] — Aesthetic sensitivity deepening with training as evidence for irreducibility
 
 ## References
 
