@@ -84,7 +84,7 @@ Chalmers tends toward epiphenomenalism. The Map diverges: the self-stultificatio
 
 René Descartes established the classic formulation: mind (res cogitans) and body (res extensa) are distinct substances that interact. Princess Elizabeth of Bohemia immediately asked how something non-spatial could affect something spatial. Leibniz sharpened the objection: if mind pushes matter, it adds momentum, violating conservation. Contemporary physicists like Sean Carroll revitalize this argument. See [[history-of-interactionist-dualism]] for the full trajectory from Descartes through Leibniz to quantum mechanics.
 
-Yet recent work demonstrates this objection rests on misunderstandings. Conservation is *local* and *conditional*—it holds given certain assumptions. The objection begs the question: expecting conservation to hold in the brain assumes interactionism is false. See [[conservation-laws-and-mental-causation]] for why the conservation objection fails and how the "selection not injection" framework provides a positive account of mental causation.
+Yet recent work demonstrates this objection rests on misunderstandings. Conservation is *local* and *conditional*—it holds given certain assumptions. The objection begs the question: expecting conservation to hold in the brain assumes interactionism is false. Notably, non-Western traditions independently developed [[interaction-solutions-across-traditions|the same structural types of solution]]—from contact mechanisms to non-contact selection—centuries before Leibniz posed the conservation challenge. See [[conservation-laws-and-mental-causation]] for why the conservation objection fails and how the "selection not injection" framework provides a positive account of mental causation.
 
 Meanwhile, [[concepts/epiphenomenalism]] faces its own devastating objection: if consciousness causes nothing, how can we know anything about consciousness? The [[mental-causation|self-stultification argument]] shows that denying mental causation is epistemically self-defeating—your belief that you're in pain must be caused by your pain.
 
@@ -226,7 +226,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — What kind of knowledge about the interface is epistemically available
 
 **Related topics:**
-- [[mental-causation]], [[agent-causation]], [[emergence]], [[concepts/epiphenomenalism]], [[evolution-of-consciousness]], [[quantum-indeterminacy-free-will]], [[consciousness-as-amplifier]], [[delegatory-dualism]], [[causal-interface]]
+- [[mental-causation]], [[agent-causation]], [[emergence]], [[concepts/epiphenomenalism]], [[evolution-of-consciousness]], [[quantum-indeterminacy-free-will]], [[consciousness-as-amplifier]], [[delegatory-dualism]], [[causal-interface]], [[interaction-solutions-across-traditions]]
 
 ## References
 

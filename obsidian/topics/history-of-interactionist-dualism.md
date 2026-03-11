@@ -122,7 +122,7 @@ The 2020 PhilPapers survey found roughly 22% of professional philosophers accept
 
 The history of interactionist dualism follows an unexpected arc. What appeared to be progressive refutation—from Elizabeth's conceptual worry through Leibniz's conservation argument to Kim's exclusion argument—has proven to be a series of challenges that later developments addressed.
 
-Elizabeth's problem has two solutions: either deny that contact is required for causation (many causes operate at a distance), or accept that minds have spatial location (contemporary interactionists typically locate consciousness in the brain where interaction occurs).
+Elizabeth's problem has two solutions: either deny that contact is required for causation (many causes operate at a distance), or accept that minds have spatial location (contemporary interactionists typically locate consciousness in the brain where interaction occurs). Remarkably, non-Western traditions arrived at structurally identical solutions centuries earlier—see [[interaction-solutions-across-traditions]] for how Sāṃkhya, Nyāya, Avicenna, and others map onto the same typology.
 
 Leibniz's conservation objection rests on assumptions quantum mechanics undermines. Physics is not deterministic; collapse is not explained; consciousness might select among undetermined outcomes without adding energy.
 
@@ -153,6 +153,7 @@ The history shows that interactionism's fortunes track developments in physics m
 - [[causal-closure]] — The principle and why it fails
 - [[objections-to-interactionism]] — Current challenges and responses
 - [[emergence]] — The British emergentist tradition
+- [[interaction-solutions-across-traditions]] — Five solution types recurring across Western and non-Western philosophy
 
 ## References
 

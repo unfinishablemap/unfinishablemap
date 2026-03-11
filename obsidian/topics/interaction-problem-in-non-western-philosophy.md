@@ -108,7 +108,7 @@ Several traditions offer direct support. Sāṃkhya's reflection model shows tha
 
 Other traditions pose productive challenges. Mulla Ṣadrā and Whitehead-style process approaches suggest that the interaction problem may be self-inflicted—a consequence of treating mind and matter as static substances rather than dynamic grades of being. The Map need not adopt process ontology, but it should articulate why its form of dualism survives this critique. Buddhist dependent origination challenges the Map's implicit commitment to enduring subjects: who or what does the "selecting" among quantum superpositions if there is no permanent self? African force ontology asks whether the Map's framework unnecessarily imports Western substance metaphysics when a force-based framework might serve its purposes better.
 
-The cross-cultural convergence on the interaction problem—and the diversity of responses—strengthens the case that mind-body interaction is a genuine philosophical puzzle, not a parochial Western confusion. When Sāṃkhya, Nyāya, and Avicenna independently develop interactionist positions, and when Advaita, Buddhism, and Daoism independently develop dissolutions, the underlying tension they are tracking appears to be real.
+The cross-cultural convergence on the interaction problem—and the diversity of responses—strengthens the case that mind-body interaction is a genuine philosophical puzzle, not a parochial Western confusion. When Sāṃkhya, Nyāya, and Avicenna independently develop interactionist positions, and when Advaita, Buddhism, and Daoism independently develop dissolutions, the underlying tension they are tracking appears to be real. For a structural typology that organises these diverse proposals into five recurring solution types alongside their Western counterparts, see [[interaction-solutions-across-traditions]].
 
 ## Further Reading
 
@@ -118,6 +118,7 @@ The cross-cultural convergence on the interaction problem—and the diversity of
 - [[eastern-philosophy-consciousness]]
 - [[objections-to-interactionism]]
 - [[elisabeths-contemporaries-and-the-interaction-debate]]
+- [[interaction-solutions-across-traditions]]
 
 ## References
 

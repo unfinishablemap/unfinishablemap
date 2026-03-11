@@ -97,7 +97,7 @@ Contemporary interactionist dualists have largely adopted this move. William Has
 
 ## Legacy: From Elisabeth to Kim
 
-Elisabeth's challenge did not merely embarrass Descartes. It launched a research programme that continues today.
+Elisabeth's challenge did not merely embarrass Descartes. It launched a research programme that continues today—and not only in the West. Indian, Islamic, and Buddhist philosophers independently posed the same structural question, arriving at [[interaction-solutions-across-traditions|five recurring types of solution]] that mirror and extend the Western trajectory.
 
 Leibniz, who later corresponded with Elisabeth's family, acknowledged that Descartes had "given up the game" on interaction. He developed pre-established harmony—mind and body run in parallel without causal connection—as an alternative. This was an admission that Elisabeth's problem had no direct solution within Cartesian metaphysics.
 
@@ -128,6 +128,7 @@ Elisabeth identified the problem that any interactionist dualism must solve. Nea
 - [[causal-closure]] — The modern descendant of the interaction problem
 - [[objections-to-interactionism]] — Current challenges and responses
 - [[psychophysical-coupling]] — The modern concept of lawful mind-body connection
+- [[interaction-solutions-across-traditions]] — Five solution types across philosophical traditions
 
 ## References
 
