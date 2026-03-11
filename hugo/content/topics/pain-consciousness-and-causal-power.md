@@ -194,6 +194,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 - [blindsight](/concepts/blindsight/) — A parallel clinical dissociation in vision
 - [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/) — Other neurological test cases for consciousness theories
 - [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — How asymbolia evidence bears on whether valence enters the selection mechanism
+- [valence-as-selection-currency](/topics/valence-as-selection-currency/) — How valence may function as the common evaluative metric for conscious selection
 
 ## References
 

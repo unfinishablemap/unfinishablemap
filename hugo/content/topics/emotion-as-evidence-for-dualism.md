@@ -109,7 +109,7 @@ Pain asymbolia is direct evidence for [Bidirectional Interaction](/tenets/#bidir
 
 ### Minimal Quantum Interaction
 
-If valence drives behaviour through [minimal quantum interaction](/tenets/#minimal-quantum-interaction), it may serve as the criterion by which consciousness biases neural outcomes. Anticipated pleasure and anticipated pain would function as selection criteria at quantum indeterminacies. This remains speculative, but valence's causal efficacy makes it a plausible candidate for the "currency" of conscious selection—the dimension along which consciousness evaluates and chooses among possible neural states.
+If valence drives behaviour through [minimal quantum interaction](/tenets/#minimal-quantum-interaction), it may serve as the criterion by which consciousness biases neural outcomes. Anticipated pleasure and anticipated pain would function as selection criteria at quantum indeterminacies. This remains speculative, but valence's causal efficacy makes it a plausible candidate for the [currency of conscious selection](/topics/valence-as-selection-currency/)—the dimension along which consciousness evaluates and chooses among possible neural states.
 
 ### No Many Worlds
 

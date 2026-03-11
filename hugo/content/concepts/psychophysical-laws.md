@@ -141,7 +141,7 @@ Eccles' psychon-dendron theory gives a specific mechanism: mental intention modu
 |----------|-------------------|-------------------|-------------|----------------|
 | **Attention→Observation** | Focus, effort | Measurement rate | High (challenged) | Decoherence timescale |
 | **Intention→Probability** | Volition | Vesicle release | Medium | Pairing problem |
-| **Valence→Motivation** | Pleasure/pain | Action selection | Low | No quantum mechanism |
+| **[Valence→Motivation](/topics/valence-as-selection-currency/)** | Pleasure/pain | Action selection | Low | No quantum mechanism |
 | **Qualia→Basis** | Qualitative character | Measurement basis | Very low | Purely speculative |
 | **Unity→Entanglement** | [Phenomenal binding](/concepts/binding-problem/) | Sustained coherence | Low | Correlation≠causation |
 

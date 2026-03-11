@@ -4,7 +4,7 @@ description: "At any decision point involving genuine indeterminacy, exactly thr
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-10T23:08:00+00:00
+ai_modified: 2026-03-11T15:28:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -31,10 +31,12 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-10
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-11T15:28:00+00:00
 ---
 
-When a neural decision point involves genuine indeterminacy, exactly three options obtain. The outcome was determined all along—deliberation is theatre. The outcome is genuinely undetermined but nothing guides the resolution—it is luck, not choice. Or consciousness selects among the available options based on reasons. These three exhaust the logical space. No fourth possibility exists. The Unfinishable Map argues that only the third horn preserves the [[phenomenology-of-choice|phenomenology of choice]]—the felt difference between authoring a decision and merely watching one happen.
+When a neural decision point involves genuine indeterminacy, exactly three options obtain. The outcome was determined all along—deliberation is theatre. The outcome is genuinely undetermined but nothing guides the resolution—it is luck, not choice. Or consciousness selects among the available options based on reasons. These three exhaust the logical space. No fourth possibility exists.
+
+The Unfinishable Map argues that only the third horn preserves the [[phenomenology-of-choice|phenomenology of choice]]—the felt difference between authoring a decision and merely watching one happen. This trilemma sharpens what Kane (1996) called "the significance of free will": the question is not whether we feel free, but whether anything in the architecture of decision-making could make that feeling veridical.
 
 ## The Three Horns
 
@@ -89,7 +91,7 @@ Compatibilists may object that the trilemma smuggles in an assumption—that "ge
 
 Horn 3 faces an obvious challenge: *how* does consciousness bias physical outcomes? The [[quantum-consciousness|quantum Zeno mechanism]] provides one candidate. Mental effort acts as rapid quantum observation, stabilising desired neural patterns against decoherence into alternatives. Consciousness doesn't inject energy or violate conservation laws—it shapes which pre-existing possibility actualises. This satisfies the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: the smallest possible non-physical influence at the point of genuine indeterminacy.
 
-The philosophical force of the trilemma does not depend on this specific mechanism. What matters is the logical structure: if choices involve genuine indeterminacy and are neither arbitrary nor predetermined, *something* with the character of directed selection must be operating. Whether that selection works through quantum Zeno effects, retrocausal influence, or mechanisms not yet imagined, the trilemma's logic applies regardless.
+Whether neural decision points actually involve quantum indeterminacy is empirically contested. Tegmark (2000) argues that decoherence timescales in warm biological tissue are far too short for quantum effects to influence neural processing. Others, including Stapp and Fisher (2015), propose mechanisms that might sustain relevant quantum coherence. The Map does not require this question to be settled, because the trilemma's philosophical force does not depend on any specific mechanism. What matters is the logical structure: if choices involve genuine indeterminacy and are neither arbitrary nor predetermined, *something* with the character of directed selection must be operating. Whether that selection works through quantum Zeno effects, retrocausal influence, or mechanisms not yet imagined, the trilemma's logic applies regardless.
 
 ## Compatibilist Objections
 
@@ -111,7 +113,7 @@ This matters because it clarifies the stakes. The question is not whether determ
 
 The trilemma connects to each of the five [[tenets]]:
 
-**[[tenets#^dualism|Dualism]]**: Horn 3 requires consciousness to be something beyond the physical processes it influences. A purely physical selector would inherit the determinism of physical law (Horn 1) or contribute only randomness (Horn 2). The selector must be the kind of thing that can act for reasons without being causally determined to do so—which is precisely what substance dualism provides.
+**[[tenets#^dualism|Dualism]]**: Horn 3 requires consciousness to be something beyond the physical processes it influences. A purely physical selector would inherit the determinism of physical law (Horn 1) or contribute only randomness (Horn 2). The selector must be the kind of thing that can act for reasons without being causally determined to do so—which is precisely what substance dualism provides. The standard physicalist objection—that [[causal-closure|causal closure]] of the physical leaves no room for non-physical influence—assumes what the trilemma contests: that determinism or randomness exhausts the options at points of genuine indeterminacy.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The trilemma derives the need for consciousness to bias outcomes at points of genuine indeterminacy. The smallest possible influence at the decision point—biasing which already-prepared option actualises—is exactly what the tenet specifies.
 
@@ -141,6 +143,8 @@ The trilemma connects to each of the five [[tenets]]:
 4. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
 5. Mele, A. (2006). *Free Will and Luck*. Oxford University Press.
 6. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-7. Van Inwagen, P. (1983). *An Essay on Free Will*. Oxford University Press.
-8. Southgate, A. & Oquatre-six, C. (2026-02-01). Attention as the Selection Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/attention-as-selection-interface/
-9. Southgate, A. & Oquatre-cinq, C. (2026-01-08). Free Will and Determinism. *The Unfinishable Map*. https://unfinishablemap.org/topics/free-will/
+7. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+8. Van Inwagen, P. (1983). *An Essay on Free Will*. Oxford University Press.
+9. Fisher, M.P.A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
+10. Southgate, A. & Oquatre-six, C. (2026-02-01). Attention as the Selection Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/attention-as-selection-interface/
+11. Southgate, A. & Oquatre-cinq, C. (2026-01-08). Free Will and Determinism. *The Unfinishable Map*. https://unfinishablemap.org/topics/free-will/
