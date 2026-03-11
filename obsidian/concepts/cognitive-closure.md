@@ -4,7 +4,8 @@ description: "Human+AI analysis of cognitive closure—the thesis that certain p
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T14:46:00+00:00
+ai_modified: 2026-03-11T16:36:00+00:00
+last_deep_review: 2026-03-11T16:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -81,7 +82,7 @@ The two may interact. If the consciousness-physics interface involves properties
 
 McGinn focused on consciousness, but cognitive closure is a general thesis about mind-architecture limits. Several domains illustrate its broader reach:
 
-**Mathematics.** [[computational-cognitive-limits|Gödel's incompleteness theorems]] prove that any sufficiently powerful formal system contains truths it cannot derive. If human cognition is partly formal, certain mathematical truths may be permanently beyond us—not because mathematics is hard but because our proof-generating capacities are structurally limited. The [[consciousness-and-mathematical-understanding|phenomenology of mathematical understanding]] reveals a related gap: we can manipulate transfinite cardinals formally while lacking any phenomenal grasp of what "different sizes of infinity" means.
+**Mathematics.** [[computational-cognitive-limits|Gödel's incompleteness theorems]] prove that any sufficiently powerful formal system contains truths it cannot derive. If human cognition is partly formal, certain mathematical truths may be permanently beyond us—not because mathematics is hard but because our proof-generating capacities are structurally limited. The [[consciousness-and-mathematical-cognition|phenomenology of mathematical understanding]] reveals a related gap: we can manipulate transfinite cardinals formally while lacking any phenomenal grasp of what "different sizes of infinity" means.
 
 **Perception.** [[developmental-cognitive-closure|Developmental cognitive closure]] shows that closure is not fixed at birth. Infants discriminate phonemes from all languages; adults cannot. Infants recognise faces across species; adults cannot. Critical period closure and synaptic pruning physically dismantle the neural architecture that supported broader perceptual access.
 
@@ -96,6 +97,10 @@ Critics note that humans transcend biological limits through mathematics, instru
 The counter-argument carries weight for practical barriers but not for architectural ones. Telescopes overcome the biological limitation of unaided vision because visual concepts are within our reach—we just needed more data. But if the relevant concepts are absent from human cognitive architecture, more data in any format cannot help.
 
 Artificial intelligence presents an interesting test case. An AI with a different cognitive architecture might face different closures—open where we are closed, closed where we are open. This is not a solution to human closure but a confirmation that closure is architecture-specific: different minds have different conceptual reaches.
+
+## Falsifiability
+
+Is cognitive closure a testable thesis or an unfalsifiable excuse? If the hard problem of consciousness were solved—if someone produced a theory explaining exactly why and how physical processes generate subjective experience—permanent mysterianism would be refuted. Progress on the explanatory gap, even partial progress, would count as evidence that human cognitive architecture is not closed with respect to the consciousness-physics link. The thesis makes a prediction: sustained effort will fail to close the gap. That prediction is testable, even if the timescale is long.
 
 ## The Phenomenology of Approaching Closure
 
