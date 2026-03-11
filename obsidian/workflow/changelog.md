@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 00:23 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Biological teleology and the interface framework
+- **Output**: [[topics/biological-teleology-and-the-interface-framework]]
+- **Word count**: 1622
+- **Based on research**: no (builds on evolution-under-dualism, attention-as-selection-interface, dopamine-and-the-unified-interface)
+
 ## 2026-03-11 00:08 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/emergence-as-universal-hard-problem]]
