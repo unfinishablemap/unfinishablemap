@@ -4,7 +4,7 @@ description: "When did consciousness arise? Dualism avoids the strong emergence 
 created: 2026-01-19
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-02-05T12:39:00+00:00
+ai_modified: 2026-03-11T23:13:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,12 +25,14 @@ related_articles:
   - "[[tenets]]"
   - "[[animal-consciousness-2026-01-14]]"
   - "[[emergence-consciousness-philosophy-2026-01-15]]"
+  - "[[consciousness-evolution-problem]]"
+  - "[[evolution-of-consciousness-dualist-perspective]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-02-05T12:39:00+00:00
+last_deep_review: 2026-03-11T23:13:00+00:00
 ---
 
 When did consciousness first arise? Was there a moment in evolutionary history when experience flickered into existence where none had been before? These questions connect the [[hard-problem-of-consciousness|hard problem]] to evolutionary biology—and reveal that any answer carries deep metaphysical commitments. If consciousness gradually emerged from unconscious matter, we need an account of how this emergence works. If consciousness was present from the start, we face the [[combination-problem|combination problem]]. Either way, the evolution of consciousness forces choices about the nature of mind.
@@ -91,9 +93,9 @@ If consciousness is causally efficacious, several advantages might drive its evo
 
 The [[consciousness-as-amplifier|amplification hypothesis]] provides the strongest positive case for why consciousness was selected. The human-great ape intelligence gap—approximately tenfold despite only 1-2% genetic difference—tracks consciousness-dependent capacities systematically.
 
-Great apes succeed at tool use, social cognition, and procedural metacognition—capacities that don't require conscious access to succeed. They fail precisely where consciousness appears required: logical reasoning (Lieberman et al. 2008 showed rule-following specifically depends on conscious processing), cumulative culture (Whiten 2015 argues apes have culture but don't *know* they have it—metarepresentation may require consciousness), and counterfactual thinking.
+Great apes succeed at tool use, social cognition, and procedural metacognition—capacities that don't require conscious access to succeed. They fail precisely where consciousness appears required: logical reasoning (DeWall, Baumeister, & Masicampo 2008 showed rule-following specifically depends on conscious processing), cumulative culture (Whiten 2015 argues apes have culture but don't *know* they have it—metarepresentation may require consciousness), and counterfactual thinking.
 
-**Working memory expansion**: Chimpanzee working memory holds approximately 2±1 items compared to the human 7±2. If working memory depends on conscious access (as Global Workspace Theory proposes), expanded working memory implies expanded consciousness.
+**Working memory expansion**: Chimpanzee working memory capacity is substantially more limited than humans' 7±2 items, particularly for abstract tasks—though performance varies with task type (Inoue & Matsuzawa 2007). If working memory depends on conscious access (as Global Workspace Theory proposes), expanded working memory implies expanded consciousness.
 
 **Training enhances conscious capacities**: Fox et al. (2012) demonstrated that meditators show dramatically better introspective accuracy than novices. This trainability supports the evolutionary argument: if consciousness were epiphenomenal, training attention should have no effect—you cannot improve causally inert processes through practice.
 
@@ -213,18 +215,20 @@ Scientific humility requires specifying what would count against one's view.
 
 ## Further Reading
 
+- [[consciousness-evolution-problem]] — Why evolution makes consciousness puzzling across all frameworks
+- [[evolution-of-consciousness-dualist-perspective]] — Three models of what "evolution of consciousness" means under dualism
 - [[evolutionary-case-for-mental-causation]] — The argument that consciousness must be causally efficacious to be selected
-- [[consciousness-as-amplifier]] — How consciousness amplifies cognitive capacity and the baseline cognition hypothesis
+- [[consciousness-as-amplifier]] — How consciousness amplifies cognitive capacity
 - [[minimal-consciousness]] — How little neural complexity can support consciousness?
-- [[animal-consciousness]] — The question of which creatures are conscious
-- [[comparative-consciousness-and-interface-differences]] — Does the interface vary across species and states?
+- [[animal-consciousness]] — Which creatures are conscious and why
+- [[comparative-consciousness-and-interface-differences]] — Does the interface vary across species?
 - [[prebiotic-collapse]] — What selected outcomes before minds existed
 - [[emergence]] — Strong vs weak emergence and consciousness
 - [[panpsychism]] — The view that experience is fundamental
 - [[combination-problem]] — How micro-experiences combine into unified minds
 - [[unity-of-consciousness|phenomenal unity]] — The binding of experience into unified wholes
 - [[emotional-consciousness]] — The felt quality of emotions and its adaptive role
-- [[illusionism]] — The radical physicalist response and why it doesn't dissolve evolutionary questions
+- [[illusionism]] — The radical physicalist response
 - [[decoherence]] — The quantum coherence challenge and biological precedents
 - [[attention-as-interface]] — How consciousness interfaces with neural quantum processes
 - [[quantum-consciousness]] — Mechanisms for consciousness-matter interaction
@@ -238,7 +242,8 @@ Scientific humility requires specifying what would count against one's view.
 1. Ginsburg, S., & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
 1. Godfrey-Smith, P. (2020). *Metazoa: Animal Life and the Birth of the Mind*. Farrar, Straus and Giroux.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
-1. Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
+1. Inoue, S., & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004-R1005.
+1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that conscious processing is needed for logical reasoning. *Consciousness and Cognition*, 17(3), 628-645.
 1. New York Declaration on Animal Consciousness. (2024). NYU Conference on the Emerging Science of Animal Consciousness.
 1. O'Connor, T., & Wong, H.Y. (2005). The Metaphysics of Emergence. *Noûs*, 39: 658-678.
 1. Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
