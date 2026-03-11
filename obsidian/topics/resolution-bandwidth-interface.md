@@ -4,7 +4,7 @@ description: "Consciousness's coarseness is not a defect but an architectural re
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T05:47:00+00:00
+ai_modified: 2026-03-11T06:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,15 +28,16 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
+last_deep_review: 2026-03-11T06:17:00+00:00
 ---
 
-Consciousness processes roughly ten bits per second. The brain it inhabits processes roughly ten billion. The Unfinishable Map has explored both sides of this ratio separately: the [[resolution-void]] quantifies what consciousness cannot access, while the [[bandwidth-problem-mental-causation|bandwidth problem in mental causation]] formalises the challenge for downward causation. This article unifies both into a single claim. The coarseness of consciousness is not a defect to be explained away but an architectural requirement for its causal role. A ten-bit-per-second controller is a fundamentally different kind of system from a ten-billion-bit-per-second processor, and that difference is precisely what makes conscious selection possible.
+Consciousness processes roughly ten bits per second. The brain it inhabits processes roughly 10⁹ bits per second — a [[bandwidth-of-consciousness|100-million-fold asymmetry]]. The Unfinishable Map has explored both sides of this ratio separately: the [[resolution-void]] quantifies what consciousness cannot access, while the [[bandwidth-problem-mental-causation|bandwidth problem in mental causation]] formalises the challenge for downward causation. This article unifies both into a single claim. The coarseness of consciousness is not a defect to be explained away but an architectural requirement for its causal role. A ten-bit-per-second controller is a fundamentally different kind of system from a billion-bit-per-second processor, and that difference is precisely what makes conscious selection possible.
 
 ## Two Problems, One Interface
 
 The resolution void and the bandwidth problem appear to be separate challenges. The resolution void is an *epistemic* limit — consciousness discards 99.9999% of available information, operating at a grain too coarse to perceive the neural substrates it depends on. The bandwidth problem is a *causal* limit — conscious intention carries too few bits per second to specify the fine-grained neural configurations behaviour requires.
 
-Taken separately, each looks like a liability. Consciousness knows too little and controls too little. Together, they reveal something different: consciousness occupies a specific architectural position. It sits above the grain of neural processing, receiving heavily compressed summaries and issuing coarse-grained selections. This is the resolution-bandwidth interface — the point where a low-resolution, low-bandwidth channel meets a high-resolution, high-bandwidth system.
+Taken separately, each looks like a liability. Consciousness knows too little and controls too little. Together, they reveal something different: consciousness occupies a specific architectural position. It sits above the [[grain-mismatch|grain of neural processing]], receiving heavily compressed summaries and issuing coarse-grained selections. This is the resolution-bandwidth interface — the point where a low-resolution, low-bandwidth channel meets a high-resolution, high-bandwidth system.
 
 The interface has a characteristic signature. Inbound: massive compression, from billions of bits to the few dozen that reach awareness. Outbound: policy-level selection, from conscious intention to a handful of choices among prepared alternatives. These are not independent limitations that happen to coincide. They are two faces of the same architectural fact.
 
@@ -70,7 +71,7 @@ The interface model answers naturally. The resolution and bandwidth constraints 
 
 The analogy is a pilot in an aircraft. The pilot cannot perceive individual engine combustion events or wing-stress distributions. Instruments compress this information into gauges — altitude, airspeed, engine temperature. The pilot's control inputs are coarse: stick position, throttle setting, rudder pressure. The aircraft translates these into thousands of specific mechanical adjustments. The pilot's resolution limits and bandwidth constraints are not defects. They are properties of the interface between pilot and aircraft — an interface that exists because pilot and aircraft are different systems.
 
-On the physicalist picture, there is no pilot. The aircraft is monitoring itself through a dashboard that deliberately obscures most of its own operation. This is coherent but unexplained: why would self-monitoring work better at lower resolution?
+On the physicalist picture, there is no pilot. The aircraft is monitoring itself through a dashboard that deliberately obscures most of its own operation. The physicalist can respond that coarse self-monitoring avoids infinite regress — a system monitoring itself at full resolution would need further monitoring of the monitor. [[global-workspace-theory|Global Workspace Theory]] adds that serial broadcasting of compressed summaries enables flexible integration across otherwise isolated processors. These are genuine explanatory resources. But they explain why *some* compression might be useful, not why the compression is specifically eight orders of magnitude, why it couples resolution to bandwidth, or why evolution has not adjusted the ratio across hundreds of millions of years.
 
 On the dualist picture, the dashboard exists because two systems must communicate. The resolution-bandwidth constraints are the signature of a genuine interface — a channel connecting ontologically distinct domains. This predicts exactly the asymmetry we observe: massive inbound compression (the brain delivering summaries to consciousness), minimal outbound bandwidth (consciousness selecting among prepared options), and a persistent grain mismatch between what consciousness accesses and what the brain computes.
 
@@ -84,13 +85,25 @@ What evolution has *not* done is increase the rate at which consciousness select
 
 ## The Resolution-Bandwidth Coupling
 
-The resolution void and bandwidth constraint are not merely co-located at the interface — they are formally coupled. The compression ratio determines the selection vocabulary, and the selection vocabulary determines the bandwidth requirement.
+The resolution void and bandwidth constraint are not merely co-located at the interface — they are tightly coupled. The compression ratio determines the selection vocabulary, and the selection vocabulary determines the bandwidth requirement.
 
 If consciousness compressed sensory information less aggressively — operating at, say, a thousand bits per second of resolution — it would perceive the brain's activity at a finer grain. But finer-grained perception would require finer-grained selection to be useful: perceiving individual motor units demands controlling individual motor units. The bandwidth requirement would scale with resolution. A thousand-bit consciousness would need a thousand-bit control channel.
 
 The ten-bit resolution and ten-bit bandwidth are matched. Consciousness perceives at the resolution it can control, and controls at the resolution it can perceive. This coupling is what makes the interface *functional* — a system that perceived more than it could control would be tormented by impotence, while a system that could control more than it perceived would act blindly. The resolution-bandwidth interface is tuned: coarse perception paired with coarse selection, both operating at the same architectural level.
 
-This tuning is itself evidence of design constraint rather than accident. An interface between two different systems — one physical, one non-physical — would need to match input resolution to output bandwidth for the connection to be useful. A self-monitoring system has no analogous constraint: a brain modelling itself could, in principle, adjust both "resolution" and "bandwidth" by allocating more neural resources. That the two remain locked in ratio across all tasks and training conditions suggests a constraint external to neural architecture.
+This tuning is itself evidence of an architectural constraint rather than accident. An interface between two different systems — one physical, one non-physical — would need to match input resolution to output bandwidth for the connection to be useful. A self-monitoring system has no analogous constraint: a brain modelling itself could, in principle, adjust both "resolution" and "bandwidth" by allocating more neural resources. That the two remain locked in ratio across all tasks and training conditions suggests a constraint external to neural architecture.
+
+## What Would Challenge This View
+
+The interface interpretation would face serious difficulty if:
+
+1. **Conscious throughput proves variable.** If training or pharmacological intervention raises conscious processing well above ~10 bits per second, the "fixed channel" interpretation weakens. Decades of measurement across diverse tasks and populations converge on the same order of magnitude.
+
+2. **The resolution-bandwidth coupling breaks.** If conditions arise where conscious resolution increases without corresponding bandwidth increase (or vice versa), the coupling argument fails. Current evidence shows them locked across all measured tasks.
+
+3. **Neural architecture fully explains the ratio.** If serial global broadcasting accounts for the specific 10⁸ compression ratio — including why it holds across species with very different brain architectures — the philosophical implications dissolve. Current physicalist accounts explain that *some* bottleneck exists, not why it has this specific magnitude.
+
+4. **Self-monitoring at full resolution proves viable.** If artificial systems successfully self-monitor at their own processing resolution without pathology, the claim that coarseness is architecturally required would need revision.
 
 ## Relation to Site Perspective
 
