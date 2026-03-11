@@ -4,15 +4,14 @@ description: "Teaching requires knowing that you know and that others don't. Gre
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-04T22:18:50+00:00
+ai_modified: 2026-03-11T22:32:00+00:00
 draft: false
-last_deep_review: 2026-02-04T21:17:00+00:00
+last_deep_review: 2026-03-11T22:32:00+00:00
 topics:
   - "[[animal-consciousness]]"
   - "[[ai-consciousness]]"
 concepts:
   - "[[jourdain-hypothesis]]"
-  - "[[metacognition]]"
   - "[[metacognition]]"
   - "[[cumulative-culture]]"
   - "[[baseline-cognition]]"
@@ -69,7 +68,7 @@ These mechanisms produce cultural traditions—different chimpanzee groups have 
 
 True teaching—active pedagogy—requires the knower to modify their behaviour specifically because the learner doesn't know. The evidence suggests great apes rarely if ever do this:
 
-**Chimpanzee nut-cracking**: Young chimpanzees take years to master stone-tool nut-cracking. Mothers tolerate their offspring's presence and even allow them to use their anvils and hammers. But systematic studies (Boesch, 1991; Inoue-Nakamura & Matsuzawa, 1997) find no evidence that mothers adjust their cracking behaviour pedagogically—slowing down, exaggerating movements, or pointing out key features. Learning happens, but through tolerated scrounging and observation, not deliberate transmission.
+**Chimpanzee nut-cracking**: Young chimpanzees take years to master stone-tool nut-cracking. Mothers tolerate their offspring's presence and even allow them to use their anvils and hammers. Boesch (1991) reported occasional facilitative behaviours—mothers repositioning stones or demonstrating cracking—which he interpreted as teaching, though this interpretation remains debated. Inoue-Nakamura & Matsuzawa (1997) found learning occurred primarily through observation and individual practice rather than active instruction. The weight of evidence suggests that learning happens largely through tolerated scrounging and observation, with at most rare and limited facilitation.
 
 **Termite fishing**: Similarly, termite-fishing techniques are socially transmitted without deliberate teaching. Infants learn by watching mothers and manipulating abandoned probes. Mothers don't demonstrate, correct, or scaffold.
 
@@ -77,13 +76,7 @@ True teaching—active pedagogy—requires the knower to modify their behaviour 
 
 ### Rare Exceptions?
 
-Some apparent teaching cases have been documented:
-
-- Chimpanzee mothers occasionally position offspring's hands on tools
-- Meerkats bring disabled prey to young for practice hunting
-- Orcas beach themselves to demonstrate hunting technique
-
-These cases remain debated. Critics note that the behaviours may serve functions other than knowledge transmission (e.g., mothers repositioning offspring's hands to prevent interference with their own tool use). Even granting these as teaching cases, they are rare, limited, and qualitatively different from the constant, elaborate teaching in all human cultures. The contrast is not absence versus presence but near-absence versus ubiquity.
+Some apparent teaching cases have been documented beyond nut-cracking: meerkats bring disabled prey to young for practice hunting; orcas beach themselves to demonstrate hunting technique. These cases remain debated, and even granting them as teaching, they are rare, limited, and qualitatively different from the constant, elaborate teaching in all human cultures. The contrast is not absence versus presence but near-absence versus ubiquity.
 
 ## Why Teaching Requires Consciousness
 
@@ -97,7 +90,7 @@ Humans maintain roughly 4 items in working memory (Cowan, 2001), with capacity d
 
 ### The Theory of Mind Requirement
 
-Teaching requires representing the learner's mental states. But not just any representation of mental states suffices—it requires representing the learner's *ignorance*, a second-order state (the absence of knowledge).
+Teaching requires representing the learner's mental states. But not just any representation of mental states suffices—it requires representing the learner's *ignorance*, a second-order state (the absence of knowledge). This connects directly to [[concept-of-consciousness-and-social-cognition|the broader relationship between consciousness and social cognition]].
 
 Great apes show Level 1 theory of mind: understanding what others perceive, what they attend to, what goals they pursue. This may operate procedurally—functional responses to behavioural cues without explicit representation of mental states as mental states.
 
@@ -214,9 +207,8 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 ## Further Reading
 
 - [[jourdain-hypothesis]] — Having knowledge without knowing you have it
-- [[metacognition|metarepresentation]] — Representing your representations as representations
+- [[metacognition]] — Metarepresentation: representing your representations as representations
 - [[cumulative-culture]] — Why cultural ratcheting requires teaching
-- [[metacognition]] — The enabling relation between consciousness and self-monitoring
 - [[baseline-cognition]] — What cognition achieves without metarepresentation
 - [[consciousness-as-amplifier]] — How consciousness enhances cognitive capacity
 - [[concept-of-consciousness-and-social-cognition]] — How consciousness enables the social cognition teaching depends on
