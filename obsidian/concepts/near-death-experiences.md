@@ -4,7 +4,7 @@ description: "Vivid conscious experiences during cardiac arrest when brain activ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-11T16:25:00+00:00
+ai_modified: 2026-03-11T23:18:00+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[tenets]]"
   - "[[personal-identity]]"
   - "[[near-death-experiences-consciousness-2026-01-15]]"
-  - "[[death-phenomenology-beyond-ndes]]"
+  - "[[death-and-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -119,7 +119,7 @@ The puzzle: if neurodegeneration has physically destroyed neural substrates for 
 
 Filter theory accommodates terminal lucidity naturally: as the brain's interface dissolves near death, constraints that dementia imposed on consciousness loosen. The memories were accessed through the brain, not stored in it; as filtering collapses, access briefly returns.
 
-Terminal lucidity is one of several [[death-phenomenology-beyond-ndes|death-related phenomena beyond NDEs]] — including deathbed visions, shared death experiences, and nearing death awareness — that collectively strengthen the case against brain-production models. Each phenomenon manifests under different physiological conditions and timelines, yet all point toward the same conclusion: the consciousness-brain relationship during dying is more complex than production models accommodate. The convergence across these varied phenomena is more evidentially significant than any single phenomenon in isolation.
+Terminal lucidity is one of several [[death-and-consciousness|death-related phenomena beyond NDEs]] — including deathbed visions, shared death experiences, and nearing death awareness — that collectively strengthen the case against brain-production models. Each phenomenon manifests under different physiological conditions and timelines, yet all point toward the same conclusion: the consciousness-brain relationship during dying is more complex than production models accommodate. The convergence across these varied phenomena is more evidentially significant than any single phenomenon in isolation.
 
 ### The Asymmetry Problem
 
@@ -163,9 +163,8 @@ None of these would definitively refute dualism, but they would significantly we
 
 ## Further Reading
 
-- [[death-phenomenology-beyond-ndes]] — Deathbed visions, shared death experiences, terminal lucidity, and nearing death awareness
+- [[death-and-consciousness]] — The broader question of consciousness and mortality, including deathbed visions, shared death experiences, terminal lucidity, and nearing death awareness
 - [[altered-states-of-consciousness]] — NDEs as the extreme case of interface reconfiguration
-- [[death-and-consciousness]] — The broader question of consciousness and mortality
 - [[filter-theory]] — The transmission model that explains the paradox of heightened experience
 - [[neural-correlates-of-consciousness]] — What brain activity tells us (and doesn't)
 - [[personal-identity]] — Why the specific experiencer matters

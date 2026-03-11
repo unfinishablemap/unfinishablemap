@@ -6,6 +6,11 @@ modified: 2026-03-11
 human_modified:
 ai_modified: 2026-03-11T15:55:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-11T23:18:00+00:00
+superseded_by: "/topics/death-and-consciousness/"
+archive_reason: "Coalesced into Death and Consciousness"
+original_path: "/topics/death-phenomenology-beyond-ndes/"
 topics:
   - "[[death-and-consciousness]]"
   - "[[hard-problem-of-consciousness]]"

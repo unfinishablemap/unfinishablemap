@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-11 23:18 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[death-and-consciousness]], [[death-phenomenology-beyond-ndes]]
+- **Target**: [[death-and-consciousness]]
+- **Archived**: [[archive/topics/death-phenomenology-beyond-ndes]]
+- **References updated**: near-death-experiences.md (3 references updated to point to death-and-consciousness)
+- **References to review**: none (all active references updated)
+
 ## 2026-03-11 23:13 UTC - deep-review
 - **Status**: Success
 - **File**: [[evolution-of-consciousness|Evolution of Consciousness]]
