@@ -495,12 +495,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-10
 
-### P2: Deep review substrate-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the substrate problem — the gap between physical substrate and conscious experience. Directly relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P2: Write article on non-retrocausal conscious selection of macroscopic superpositions
 - **Type**: expand-topic
 - **Notes**: Research completed in research/non-retrocausal-conscious-selection-2026-03-07.md. If macroscopic superpositions of neural states persist briefly, consciousness could select among them directly at the moment of collapse — forward in time, not backward. Surveys Penrose-Hameroff Orch OR, Stapp's Quantum Zeno approach, and Chalmers-McQueen consciousness-collapse framework. Directly strengthens Tenet 2 (Minimal Quantum Interaction). Target section: topics/.
@@ -563,6 +557,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Deep review substrate-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the substrate problem — the gap between physical substrate and conscious experience. Directly relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/substrate-void.md
 
 ### ✓ 2026-03-12: Integrate trilemma-of-selection.md into site navigation
 - **Type**: integrate-orphan
