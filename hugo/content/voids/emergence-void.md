@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-02-07 00:41:00+00:00
+ai_modified: 2026-03-12 00:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -107,7 +107,7 @@ The emergence void connects to the Map's [tenets](/tenets/) at multiple points.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** is a claim about crossing the very boundary the emergence void marks. [Downward causation](/concepts/downward-causation/)—consciousness influencing physical outcomes—means information crossing from macro to micro, traversing the gap in the reverse direction. If the emergence void is genuine, downward causation may be *real but unintelligible*: we can affirm it on the basis of evidence without being able to comprehend how it works.
 
-The hard problem, reframed through the emergence void, is not a puzzle unique to consciousness but consciousness's particular expression of a universal cognitive limit at level transitions. Every level boundary resists comprehension. Consciousness is simply where the resistance becomes impossible to ignore.
+The hard problem, reframed through the emergence void, is not a puzzle unique to consciousness but consciousness's particular expression of a universal cognitive limit at level transitions. The [universal hard problem thesis](/topics/emergence-as-universal-hard-problem/) develops the philosophical complement to this cognitive diagnosis: every level transition harbours the same explanatory gap between arrangement and qualitative character, and reduction relocates these gaps rather than closing them. Every level boundary resists comprehension. Consciousness is simply where the resistance becomes impossible to ignore.
 
 ## Further Reading
 

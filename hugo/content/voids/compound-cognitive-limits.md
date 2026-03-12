@@ -24,6 +24,7 @@ related_articles:
 - '[[self-reference-paradox]]'
 - '[[language-thought-boundary]]'
 - '[[limits-reveal-structure]]'
+- '[[convergence-of-the-void-catalogue]]'
 - '[[causal-interface]]'
 - '[[intrinsic-nature-void]]'
 title: Compound Cognitive Limits
@@ -104,6 +105,7 @@ For [minimal quantum interaction](/tenets/#minimal-quantum-interaction), compoun
 - [causal-interface](/voids/causal-interface/)
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/)
 - [limits-reveal-structure](/voids/limits-reveal-structure/)
+- [Convergence of the Void Catalogue](/voids/convergence-of-the-void-catalogue/) — How void families share boundaries and converge directionally
 
 ## References
 

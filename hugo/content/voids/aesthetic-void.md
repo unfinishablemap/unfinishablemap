@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-02-06 16:22:00+00:00
+ai_modified: 2026-03-11 21:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -30,6 +30,7 @@ related_articles:
 - '[[consciousness-only-territories]]'
 - '[[pre-conceptual-knowing]]'
 - '[[language-thought-boundary]]'
+- '[[aesthetic-irreducibility-arguments]]'
 title: The Aesthetic Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -146,6 +147,7 @@ The aesthetic void suggests that consciousness has access to something ordinary 
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why beauty pervades conscious experience and resists physical reduction
+- [aesthetic-irreducibility-arguments](/topics/aesthetic-irreducibility-arguments/) — Substrate independence and formal precision as irreducibility arguments
 - [creativity-void](/voids/creativity-void/) — The companion void: where creative insight originates
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like

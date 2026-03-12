@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-04 23:17:00+00:00
+ai_modified: 2026-03-12 00:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -98,7 +98,7 @@ The contrast is vivid in attention: being *pulled* by a loud noise versus *direc
 
 ## Effort as Evidence
 
-The [phenomenology of effort](/concepts/mental-effort/) provides the strongest evidence for genuine conscious contribution. If choosing were merely receiving randomly determined outcomes, there should be no phenomenology of effort—random processes don't feel like work. See [consciousness doing work](/apex/phenomenology-of-consciousness-doing-work/) for the broader case that phenomenal experience tracks real causal contribution.
+The [phenomenology of effort](/concepts/mental-effort/) provides the strongest evidence for genuine conscious contribution. The [trilemma of selection](/topics/trilemma-of-selection/) makes this systematic: at any decision point, the outcome is determined, random, or consciously selected—and only selection generates the phenomenology of effort. If choosing were merely receiving randomly determined outcomes, there should be no phenomenology of effort—random processes don't feel like work. See [consciousness doing work](/apex/phenomenology-of-consciousness-doing-work/) for the broader case that phenomenal experience tracks real causal contribution.
 
 Deliberation feels costly—attentionally, emotionally, temporally. Time feels *invested*, not merely elapsed. If choosing were passive reception, these costs would be inexplicable.
 

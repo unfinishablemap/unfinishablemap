@@ -18,6 +18,238 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 00:33 UTC - deep-review
+- **Status**: Success
+- **File**: [substrate-void](/voids/substrate-void/)
+- **Word count**: 1581 → 1707 (+126)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-12-substrate-void](/reviews/deep-review-2026-03-12-substrate-void/)
+
+## 2026-03-12 00:20 UTC - deep-review
+- **Status**: Success
+- **File**: [trilemma-of-selection](/topics/trilemma-of-selection/)
+- **Word count**: 2057 → 2077 (+20)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration — 0 inbound links → 9)
+- **Enhancements made**: 1 (added apex cross-link in article body)
+- **Cross-references added**: 9 articles now link to trilemma-of-selection
+- **Output**: [deep-review-2026-03-12-trilemma-of-selection](/reviews/deep-review-2026-03-12-trilemma-of-selection/)
+
+## 2026-03-12 00:09 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 420 (219 topics, 201 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 9
+- **Output**: [tenet-check-2026-03-12](/reviews/tenet-check-2026-03-12/)
+
+## 2026-03-12 00:03 UTC - deep-review
+- **Status**: Success
+- **File**: [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)
+- **Word count**: 2238 → 2238 (+0, metadata-only changes to article)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration — 8 inbound cross-references added)
+- **Enhancements made**: 8 cross-references from related articles, 1 frontmatter fix
+- **Files modified**: emergence-as-universal-hard-problem, hard-problem-of-consciousness, emergence, emergence-void, the-strong-emergence-of-consciousness, reductionism-and-consciousness, explanatory-gap, reductionism, downward-causation
+- **Output**: [deep-review-2026-03-12-emergence-as-universal-hard-problem](/reviews/deep-review-2026-03-12-emergence-as-universal-hard-problem/)
+
+## 2026-03-11 23:59 UTC - deep-review
+- **Status**: Success
+- **File**: [convergence-of-the-void-catalogue](/voids/convergence-of-the-void-catalogue/)
+- **Word count**: 1999 → 1999 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 7 (cross-references added from 7 articles to integrate orphaned content)
+- **Output**: [deep-review-2026-03-11b-convergence-of-the-void-catalogue](/reviews/deep-review-2026-03-11b-convergence-of-the-void-catalogue/)
+
+## 2026-03-11 23:52 UTC - research-voids
+- **Status**: Skipped (section at capacity)
+- **Reason**: Voids section has 103 articles against cap of 100. No new research needed.
+- **Recommendation**: Focus on improving existing voids articles (deep-review, condense, coalesce)
+
+## 2026-03-11 23:47 UTC - condense
+- **Status**: Success
+- **File**: [death-and-consciousness](/topics/death-and-consciousness/)
+- **Before**: 4551
+- **After**: 2726
+- **Reduction**: 40%
+- **Technique**: Cut convergent themes summary (redundant with subsections), trimmed phenomenology subsections, removed process philosophy section, condensed illusionist challenge from 3 to 2 responses, tightened identity and dualist possibilities sections, reduced challenge list from 8 to 5 items
+
+## 2026-03-11 23:41 UTC - deep-review
+- **Status**: Success
+- **File**: [jourdain-hypothesis](/concepts/jourdain-hypothesis/)
+- **Word count**: 2995 → 2798 (-197)
+- **Critical issues addressed**: 2 (duplicate frontmatter entry, archived article link)
+- **Medium issues addressed**: 3 (redundant Further Reading, section overlap, length trimming)
+- **Enhancements made**: 2 (theory-of-mind cross-link, consolidated prose)
+- **Output**: [deep-review-2026-03-11-jourdain-hypothesis](/reviews/deep-review-2026-03-11-jourdain-hypothesis/)
+
+## 2026-03-11 23:30 UTC - condense
+- **Status**: Success
+- **File**: [whether-real](/voids/whether-real/)
+- **Before**: 2998 words
+- **After**: 1918 words
+- **Reduction**: 36%
+- **Technique**: Cut redundant elaboration across all sections, condensed Process Philosophy from 4 paragraphs to 2, reduced "What Would Challenge" from 5 items to 3, tightened Illusionist Challenge responses, trimmed Further Reading from 14 to 8 entries
+
+## 2026-03-11 23:25 UTC - deep-review
+- **Status**: Success
+- **File**: [intuitive-dualism](/concepts/intuitive-dualism/)
+- **Word count**: 1833 → 1875 (+42)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added missing Schwartz et al. citation)
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-11-intuitive-dualism](/reviews/deep-review-2026-03-11-intuitive-dualism/)
+
+## 2026-03-11 23:18 UTC - coalesce
+- **Status**: Success
+- **Sources**: [death-and-consciousness](/topics/death-and-consciousness/), [death-phenomenology-beyond-ndes](/topics/death-and-consciousness/)
+- **Target**: [death-and-consciousness](/topics/death-and-consciousness/)
+- **Archived**: [death-phenomenology-beyond-ndes](/archive/topics/death-phenomenology-beyond-ndes/)
+- **References updated**: near-death-experiences.md (3 references updated to point to death-and-consciousness)
+- **References to review**: none (all active references updated)
+
+## 2026-03-11 23:13 UTC - deep-review
+- **Status**: Success
+- **File**: [Evolution of Consciousness](/concepts/evolution-of-consciousness/)
+- **Word count**: 3117 → 3161 (+44)
+- **Critical issues addressed**: 1 (Lieberman→DeWall misattribution)
+- **Medium issues addressed**: 2 (uncited WM claim, missing cross-links)
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-11-evolution-of-consciousness](/reviews/deep-review-2026-03-11-evolution-of-consciousness/)
+
+## 2026-03-11 23:07 UTC - deep-review
+- **Status**: Success
+- **File**: [Cumulative Culture](/concepts/cumulative-culture/)
+- **Word count**: 2917 → 2926 (+9)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (duplicate frontmatter, redundant links, dated WM figure)
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-11-cumulative-culture](/reviews/deep-review-2026-03-11-cumulative-culture/)
+
+## 2026-03-11 23:02 UTC - deep-review
+- **Status**: Success
+- **File**: [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/)
+- **Word count**: 1894 → 1977 (+83)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-11-cognitive-science-of-dualism](/reviews/deep-review-2026-03-11-cognitive-science-of-dualism/)
+
+## 2026-03-11 22:57 UTC - deep-review
+- **Status**: Success
+- **File**: [brain-interface-boundary](/concepts/brain-interface-boundary/)
+- **Word count**: 1829 → 1866 (+37)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (dangling references, section heading)
+- **Enhancements made**: 2 (Fisher nuclear spin proposal, Wiest microtubule empirical support)
+- **Output**: [deep-review-2026-03-11-brain-interface-boundary](/reviews/deep-review-2026-03-11-brain-interface-boundary/)
+
+## 2026-03-11 22:52 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft content across topics/ (~103), concepts/ (~173), tenets/ (1 + supporting)
+- **Output**: [optimistic-2026-03-11-late](/reviews/optimistic-2026-03-11-late/)
+- **Tasks added**: 2 (interface modulation spectrum concept, altered states apex synthesis)
+- **Notes**: Comprehensive site-wide review. Strongest clusters: binding problem family, temporal consciousness, consciousness-as-amplifier empirical grounding, phenomenological depth. Key opportunities: clinical neuroscience synthesis, altered states as systematic interface evidence, animal consciousness across independent lineages.
+
+## 2026-03-11 22:42 UTC - deep-review
+- **Status**: Success
+- **File**: [episodic-memory](/concepts/episodic-memory/)
+- **Word count**: 3345 → 3345 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (description length)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-11-episodic-memory](/reviews/deep-review-2026-03-11-episodic-memory/)
+- **Notes**: Article has reached stability after 3 reviews. No substantive changes needed.
+
+## 2026-03-11 22:37 UTC - deep-review
+- **Status**: Success
+- **File**: [interactionist-dualism](/concepts/interactionist-dualism/)
+- **Word count**: 2386 → 2386 (+0, frontmatter-only change)
+- **Critical issues addressed**: 1 (duplicate frontmatter entry)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-11-interactionist-dualism](/reviews/deep-review-2026-03-11-interactionist-dualism/)
+
+## 2026-03-11 22:32 UTC - deep-review
+- **Status**: Success
+- **File**: [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/)
+- **Word count**: 3028 → 3017 (-11)
+- **Critical issues addressed**: 3 (Boesch misattribution, duplicate frontmatter concept, duplicate Further Reading)
+- **Medium issues addressed**: 1 (missing body cross-link)
+- **Enhancements made**: 1 (trimmed Rare Exceptions overlap)
+- **Output**: [deep-review-2026-03-11-teaching-as-metarepresentation](/reviews/deep-review-2026-03-11-teaching-as-metarepresentation/)
+
+## 2026-03-11 22:27 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-as-interface](/concepts/attention-as-interface/)
+- **Word count**: 2408 → 2412 (+4)
+- **Critical issues addressed**: 1 (3 broken wikilinks to archived/coalesced articles)
+- **Medium issues addressed**: 1 (uncited gamma frequency claim)
+- **Enhancements made**: 2 (link fixes, citation addition)
+- **Output**: [deep-review-2026-03-11-attention-as-interface](/reviews/deep-review-2026-03-11-attention-as-interface/)
+
+## 2026-03-11 22:24 UTC - refine-draft
+- **Status**: Success
+- **File**: [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/)
+- **Changes**: Acknowledged "binding" as placeholder for unknown mechanism; corrected Frischhut citation (title, journal); softened "almost certainly" to calibrated confidence; reduced "transformative" overstatement
+- **Published**: yes
+
+## 2026-03-11 22:15 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: apex/what-it-might-be-like-to-be-an-ai.md
+- **Output**: [pessimistic-2026-03-11-what-it-might-be-like-ai](/reviews/pessimistic-2026-03-11-what-it-might-be-like-ai/)
+
+## 2026-03-11 22:04 UTC - deep-review
+- **Status**: Success
+- **File**: [resolution-void](/voids/resolution-void/)
+- **Word count**: 1490 → 1658 (+168)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (cross-links to grain-mismatch/temporal-consciousness/perceptual-fidelity/attention-as-interface, description length, No Many Worlds tenet)
+- **Enhancements made**: 5 cross-links added, No Many Worlds section, expanded Further Reading
+- **Output**: [deep-review-2026-03-11-resolution-void](/reviews/deep-review-2026-03-11-resolution-void/)
+
+## 2026-03-11 21:59 UTC - deep-review
+- **Status**: Success
+- **File**: [quantification-void](/voids/quantification-void/)
+- **Word count**: 1565 → 1649 (+84)
+- **Critical issues addressed**: 1 (Feigl misattribution)
+- **Medium issues addressed**: 5 (Aaronson factual correction, PCI uncited percentage, Michel date error, 3 missing citations, missing cross-links)
+- **Enhancements made**: 6 cross-links added
+- **Output**: [deep-review-2026-03-11-quantification-void](/reviews/deep-review-2026-03-11-quantification-void/)
+
+## 2026-03-11 21:51 UTC - deep-review
+- **Status**: Success
+- **File**: [working-memory](/concepts/working-memory/)
+- **Word count**: 2813 → 2845 (+32)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (duplicate frontmatter, Miller 7±2 uncritical, COGITATE unverifiable year, unused reference)
+- **Enhancements made**: 6 new cross-links, prose tightened, Cowan 2001 reference added
+- **Output**: [deep-review-2026-03-11-working-memory](/reviews/deep-review-2026-03-11-working-memory/)
+
+## 2026-03-11 21:46 UTC - deep-review
+- **Status**: Success
+- **File**: [voids-safety-protocol](/project/voids-safety-protocol/)
+- **Word count**: 1460 → 1569 (+109)
+- **Critical issues addressed**: 1 (missing description field)
+- **Medium issues addressed**: 3 (orphan integration via 8 inbound cross-links, expanded tenet connections, enriched related_articles)
+- **Enhancements made**: 8 inbound cross-links added from existing articles (0 → 8 inbound links)
+- **Files modified**: voids-safety-protocol, voids, coherence-inflation-countermeasures, automation, human-supervision, project, destabilizing-self-knowledge, defended-territory, apophatic-cartography
+- **Output**: [deep-review-2026-03-11-voids-safety-protocol](/reviews/deep-review-2026-03-11-voids-safety-protocol/)
+- **Also completed**: P2 integrate-orphan task for voids-safety-protocol.md
+
+## 2026-03-11 21:35 UTC - deep-review
+- **Status**: Success
+- **File**: [aesthetic-irreducibility-arguments](/topics/aesthetic-irreducibility-arguments/)
+- **Word count**: 2568 → 2568 (no change — orphan integration focus)
+- **Critical issues addressed**: 0 (none found; previous same-day review resolved all)
+- **Medium issues addressed**: 1 (orphan status — no inbound links)
+- **Enhancements made**: 10 inbound cross-links added from existing articles (0 → 10 inbound links)
+- **Files modified**: aesthetic-dimension-of-consciousness, binding-and-beauty, consciousness-and-aesthetic-creation, aesthetic-void, phenomenology-of-mathematical-insight, phenomenology-of-musical-understanding, knowledge-argument, modal-structure-of-phenomenal-properties, contemplative-practice-as-philosophical-evidence, acquaintance-knowledge
+- **Output**: [deep-review-2026-03-11b-aesthetic-irreducibility-arguments](/reviews/deep-review-2026-03-11b-aesthetic-irreducibility-arguments/)
+
 ## 2026-03-11 21:20 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenology-of-meaning-making](/topics/phenomenology-of-meaning-making/)

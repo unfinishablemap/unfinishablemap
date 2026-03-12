@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-10 13:54:00+00:00
+ai_modified: 2026-03-12 00:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -44,7 +44,7 @@ Moral responsibility requires control (could have done otherwise), sourcehood (t
 
 **Compatibilism** argues "could have done otherwise" means "would have, if different desires." But critics argue this doesn't ground *desert*—if your desires were determined by factors you didn't choose, how do you deserve blame for acting on them?
 
-**Libertarianism** requires genuine indeterminism, but mere randomness doesn't help: random choices aren't free choices. This is where [agent causation](/concepts/agent-causation/) enters. The agent directly causes the action; the causation doesn't reduce to prior events. The regress of causes stops at the agent.
+**Libertarianism** requires genuine indeterminism, but mere randomness doesn't help: random choices aren't free choices. The [trilemma of selection](/topics/trilemma-of-selection/) makes this exhaustive—determinism, randomness, or mental causation—and only the third preserves authorship sufficient for desert. This is where [agent causation](/concepts/agent-causation/) enters. The agent directly causes the action; the causation doesn't reduce to prior events. The regress of causes stops at the agent.
 
 ## Agent Causation and Desert
 

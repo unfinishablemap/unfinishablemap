@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-10 12:08:00+00:00
+ai_modified: 2026-03-12 00:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -49,7 +49,7 @@ This distinction is conceptually irreducible: we cannot describe reasoning witho
 
 Reasons-responsiveness is central to answering the [luck objection](/concepts/luck-objection/) against libertarian [free will](/concepts/concept-of-free-will/). The objection holds that if choices are not determined by prior causes, they must be random—and random outcomes are no more "free" than determined ones.
 
-The Map's response: selection guided by reasons is not lucky, even if not determined. When consciousness chooses action A rather than B, it does so *for* reasons. Those reasons don't *determine* the outcome—genuine alternative possibilities remain—but they *guide* it. The selection is contrastively explicable: why A rather than B? Because the agent had reasons for A.
+The Map's response: selection guided by reasons is not lucky, even if not determined. The [trilemma of selection](/topics/trilemma-of-selection/) establishes the logical space: determinism, randomness, or consciousness selecting for reasons—and only the third preserves authorship. When consciousness chooses action A rather than B, it does so *for* reasons. Those reasons don't *determine* the outcome—genuine alternative possibilities remain—but they *guide* it. The selection is contrastively explicable: why A rather than B? Because the agent had reasons for A.
 
 This distinguishes the Map's framework from pure indeterminism:
 

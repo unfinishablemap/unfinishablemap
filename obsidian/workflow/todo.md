@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-12T00:25:00+00:00
+ai_modified: 2026-03-12T00:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P3: Deep review time-consciousness-growing-block.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. Major synthesis piece on temporal consciousness under the growing block theory — one of the Map's core metaphysical commitments. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
+
+### P3: Deep review minds-without-words.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. Synthesis piece on pre-linguistic consciousness and the Map's treatment of non-verbal phenomenal experience. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
+
+### P3: Deep review machine-question.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. Synthesis piece on AI consciousness — the Map's most contemporary-discourse-relevant apex article. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
 
 ### P3: Deep review mysterianism.md
 - **Type**: deep-review

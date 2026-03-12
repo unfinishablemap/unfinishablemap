@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-03-11 00:08:00+00:00
+ai_modified: 2026-03-12 00:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Human+AI inquiry into whether every level transition harbours its o
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 00:08:00+00:00
+last_deep_review: 2026-03-12 00:03:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -26,6 +26,7 @@ related_articles:
 - '[[mysterianism]]'
 - '[[intrinsic-nature-void]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'
+- '[[habituation-void]]'
 title: Emergence as Universal Hard Problem
 topics:
 - '[[hard-problem-of-consciousness]]'

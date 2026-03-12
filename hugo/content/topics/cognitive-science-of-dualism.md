@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-03-11 10:02:00+00:00
+ai_modified: 2026-03-11 23:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Cognitive science presupposes methodological materialism, yet its o
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-06 16:08:00+00:00
+last_deep_review: 2026-03-11 23:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,7 +46,7 @@ The problem is not that cognitive science uses third-person methods. All empiric
 
 ### Intuitive Mind-Body Reasoning Is Variable
 
-The most direct contribution of cognitive science to the dualism debate concerns [whether humans naturally separate mind from body](/concepts/intuitive-dualism/). The evidence is surprisingly mixed. Paul Bloom (2004) argued humans are "natural-born dualists" with separate cognitive systems for physical objects and mental agents. Barrett et al. (2021) found the opposite across six cultures: most people default to **intuitive materialism**, expecting mental states to cease at death. Barlev and Shtulman (2021) proposed that dualist beliefs are *learned* rather than innate.
+The most direct contribution of cognitive science to the dualism debate concerns [whether humans naturally separate mind from body](/concepts/intuitive-dualism/). The evidence is surprisingly mixed. Paul Bloom (2004) argued humans are "natural-born dualists" with separate cognitive systems for physical objects and mental agents. Barrett et al. (2021) found a more complicated picture across six cultures: many participants defaulted to **intuitive materialism**, expecting mental states to cease at death, though results varied by culture and cognitive domain. Barlev and Shtulman (2021) proposed that dualist beliefs are *learned* rather than innate.
 
 This variability matters for a reason materialists often overlook. If dualism were merely folk error — a cognitive bias like the gambler's fallacy — we'd expect it to be universal and automatic. Instead, dualist thinking appears to require cultural scaffolding and reflective thought. This makes it look less like a bias and more like a position people arrive at through reasoning, much as heliocentrism required education to grasp despite being correct.
 
@@ -66,7 +66,7 @@ Embodied cognition actually sharpens the hard problem. If cognition is so thorou
 
 ### Predictive Processing Leaves Consciousness Unexplained
 
-Predictive processing frameworks (Clark 2013, Hohwy 2013) model the brain as a prediction machine that minimises surprise by generating top-down expectations and comparing them to bottom-up sensory input. This framework explains perception, attention, and action with unusual elegance. What it does not explain is why these predictions feel like anything.
+[Predictive processing](/concepts/predictive-processing/) frameworks (Clark 2013, Hohwy 2013) model the brain as a prediction machine that minimises surprise by generating top-down expectations and comparing them to bottom-up sensory input. This framework explains perception, attention, and action with unusual elegance. What it does not explain is why these predictions feel like anything.
 
 The prediction error that signals "unexpected red" could occur in a system with no phenomenal experience at all. Predictive processing describes the *computational architecture* of cognition, not the *phenomenal character* of experience. The mathematical formalism of Karl Friston's free energy principle describes brain function without reference to [consciousness](/concepts/consciousness/) — though Friston himself has attempted to connect the framework to experience, the formalism operates entirely in terms of prediction error minimisation. The [explanatory-gap](/concepts/explanatory-gap/) persists: we can model what the brain *computes* while remaining silent on what the brain *experiences*.
 
@@ -91,6 +91,8 @@ This does not mean cognitive science is useless for the dualism debate. It means
 The Unfinishable Map holds that cognitive science provides valuable evidence about the architecture of mind while being structurally unable to adjudicate the metaphysical question of dualism.
 
 The [Dualism tenet](/tenets/#dualism) does not rest on cognitive naturalness or folk intuition. It rests on philosophical arguments — the explanatory gap, conceivability, and the knowledge argument — that cognitive science has not dissolved. The field's own dependence on first-person report as irreducible data actually supports the tenet: if subjective experience were fully captured by third-person description, cognitive science would not need to ask subjects what they see.
+
+The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) finds indirect support in cognitive science's methodological dependence on first-person report. Every neural correlate study requires subjects to tell experimenters what they experience — information about [consciousness](/concepts/consciousness/) flowing into the physical domain through speech and behaviour. If consciousness were epiphenomenal, this information flow would be accidental, making the entire methodology of cognitive neuroscience unreliable. The field's own practice presupposes that conscious experience causally contributes to verbal and behavioural outputs.
 
 The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) occupies a domain cognitive science cannot currently probe. If quantum events play a role in neural systems as the Map proposes, they operate orders of magnitude faster than the hundreds-of-milliseconds timescale at which cognitive methods measure. The absence of cognitive-scientific evidence for quantum-level [mental-causation](/concepts/mental-causation/) reflects methodological limitations, not ontological absence.
 

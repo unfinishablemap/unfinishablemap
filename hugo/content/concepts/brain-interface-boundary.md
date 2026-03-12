@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-11 22:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ description: Brains meet five criteria for consciousness interfaces while extern
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-05 15:39:00+00:00
+last_deep_review: 2026-03-11 22:57:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,7 +51,7 @@ Drawing on the Map's [filter](/concepts/filter-theory/) and [quantum selection](
 
 The system must have components where quantum indeterminacies are functionally relevant—where quantum outcomes make a difference to macroscopic behaviour. Most physical systems are thermally stable at functional scales; quantum effects average out, providing no leverage point for consciousness.
 
-Neural systems may differ. The [evidence for quantum coherence in brain tissue](/concepts/quantum-neural-mechanisms-and-coherence/) is contested but growing. Proposed sites include microtubules (Penrose-Hameroff Orch OR), ion channels sensitive to quantum tunnelling, and synaptic vesicle release showing non-thermal variability.
+Neural systems may differ. The [evidence for quantum coherence in brain tissue](/concepts/quantum-neural-mechanisms-and-coherence/) is contested but growing. Proposed sites include microtubules (Penrose-Hameroff Orch OR), ion channels sensitive to quantum tunnelling, synaptic vesicle release showing non-thermal variability, and nuclear spins in Posner molecules (Fisher, 2015). Recent empirical work supports these proposals: a 2024 study found that microtubule-stabilising drugs delay anaesthetic-induced unconsciousness in rats, suggesting microtubules play a functional role in consciousness (Wiest et al., 2024).
 
 ### 2. Representational Structure
 
@@ -143,7 +143,7 @@ The framework would face serious difficulty if:
 
 None of these has been demonstrated. Current evidence supports neural quantum effects and confirms that consciousness correlates with the features the criteria describe.
 
-## Relation to Site Tenets
+## Relation to Site Perspective
 
 **[Dualism](/tenets/#dualism)**: The five criteria describe what a system needs for consciousness to *interface with* it (an external relationship), whereas identity theory must explain why consciousness *is* certain processes (an internal relationship). The interface framing naturally accommodates the criteria as features of a receiver; identity theory must explain why exactly these features generate consciousness rather than merely correlate with it.
 

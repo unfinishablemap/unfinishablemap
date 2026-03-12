@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-02-01 14:38:00+00:00
+ai_modified: 2026-03-11 21:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -75,7 +75,7 @@ Did they encounter destabilizing truth that the system then sealed away? Or did 
 
 ## Cognitohazards
 
-Nick Bostrom's taxonomy of information hazards includes "cognitohazards"—information that harms the person who knows it. The category usually applies to false beliefs that cause psychological damage, or true information that enables harmful action.
+Nick Bostrom's taxonomy of information hazards includes "cognitohazards"—information that harms the person who knows it. The category usually applies to false beliefs that cause psychological damage, or true information that enables harmful action. The Map's [Voids Safety Protocol](/project/voids-safety-protocol/) addresses this risk directly, requiring epistemic labeling and exit paths for content that approaches cognitohazardous territory.
 
 But could some *truths* be cognitohazards? Not false beliefs that harm, but accurate insights that destabilize?
 

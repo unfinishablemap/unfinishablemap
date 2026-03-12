@@ -1,13 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-03-04 22:18:50+00:00
+ai_modified: 2026-03-11 23:07:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[teaching-as-metarepresentation]]'
 - '[[jourdain-hypothesis]]'
-- '[[metacognition]]'
 - '[[metacognition]]'
 - '[[consciousness-as-amplifier]]'
 - '[[working-memory]]'
@@ -24,7 +23,7 @@ description: Cumulative culture requires metarepresentation—representing knowl
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-05 03:09:00+00:00
+last_deep_review: 2026-03-11 23:07:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -114,7 +113,7 @@ To represent your knowledge as knowledge, you must take yourself as object. The 
 
 ### The Binding Requirement
 
-Metarepresentational tasks load heavily on [working memory](/concepts/working-memory/). Holding a representation, a representation of that representation, and their relationship simultaneously requires the expanded working memory capacity that distinguishes humans (7±2 items) from great apes (2±1 items). If working memory depends on conscious access—as [Global Workspace Theory](/concepts/global-workspace-theory/) proposes—metarepresentation inherits this dependence.
+Metarepresentational tasks load heavily on [working memory](/concepts/working-memory/). Holding a representation, a representation of that representation, and their relationship simultaneously requires the expanded working memory capacity that distinguishes humans (~4 items in Cowan's updated estimate, more with chunking) from great apes (~2 items). If working memory depends on conscious access—as [Global Workspace Theory](/concepts/global-workspace-theory/) proposes—metarepresentation inherits this dependence.
 
 ### The Phenomenology of Knowing-That-You-Know
 
@@ -154,9 +153,7 @@ This response faces several difficulties:
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy illuminates why cumulative culture might require consciousness. For Whitehead, each actual occasion involves "prehension"—feeling the relevance of past occasions. Human cultural transmission exemplifies high-grade prehension: we don't merely respond to what predecessors did but feel the meaning and purpose of their innovations, grasping them as achievements to be extended.
-
-This feeling of cultural inheritance cannot be merely computational. A computer processes data about previous states but cannot *feel* the meaning of cultural tradition—why this technique matters, what improving it would mean. Cumulative culture requires this felt inheritance, which requires conscious subjects capable of prehending meaning.
+Alfred North Whitehead's process philosophy illuminates why cumulative culture might require consciousness. For Whitehead, each actual occasion involves "prehension"—feeling the relevance of past occasions. Human cultural transmission exemplifies high-grade prehension: we don't merely respond to what predecessors did but feel the meaning and purpose of their innovations, grasping them as achievements to be extended. A computer processes data about previous states but cannot *feel* why a technique matters or what improving it would mean. Cumulative culture requires this felt inheritance, which requires conscious subjects capable of prehending meaning.
 
 ## Buddhist Contemplative Perspective
 
@@ -208,10 +205,9 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 
 - [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/) — Why teaching requires consciousness and enables cultural ratcheting
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — The Molière-inspired metaphor for procedural vs declarative metacognition
-- [metarepresentation](/concepts/metacognition/) — Why knowing-that-you-know may require consciousness
+- [metacognition](/concepts/metacognition/) — Metarepresentation: why knowing-that-you-know may require consciousness
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enhances cognitive capacity
 - [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/) — Consciousness and the social cognition that cultural transmission requires
-- [metacognition](/concepts/metacognition/) — The enabling relation between consciousness and self-monitoring
 - [animal-consciousness](/topics/animal-consciousness/) — The great ape comparison in depth
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — Why consciousness evolved
 - [working-memory](/concepts/working-memory/) — The capacity constraints on metarepresentation
@@ -223,6 +219,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 ## References
 
 1. Boyd, R., & Richerson, P.J. (1996). Why culture is common, but cultural evolution is rare. *Proceedings of the British Academy*, 88, 77-93.
+1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. Dean, L.G., et al. (2012). Identification of the social and cognitive processes underlying human cumulative culture. *Science*, 335(6072), 1114-1118.
 1. Henrich, J. (2015). *The Secret of Our Success: How Culture Is Driving Human Evolution*. Princeton University Press.
 1. Tennie, C., Call, J., & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405-2415.

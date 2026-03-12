@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-02-22 11:15:00+00:00
+ai_modified: 2026-03-11 21:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,6 +28,7 @@ related_articles:
 - '[[tenets]]'
 - '[[emotional-consciousness]]'
 - '[[surprise-prediction-error-and-consciousness]]'
+- '[[aesthetic-irreducibility-arguments]]'
 title: The Phenomenology of Musical Understanding
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -119,6 +120,7 @@ Musical understanding connects to the Map's framework through several tenets.
 ## Further Reading
 
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Beauty and aesthetic quality in conscious experience
+- [aesthetic-irreducibility-arguments](/topics/aesthetic-irreducibility-arguments/) — Why beauty resists reduction even where formal properties (harmonic ratios, symmetry) are fully specified
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present, durée, and temporal binding
 - [emotional-consciousness](/topics/emotional-consciousness/) — Valence, felt quality, and non-propositional emotion
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt quality of understanding and thought

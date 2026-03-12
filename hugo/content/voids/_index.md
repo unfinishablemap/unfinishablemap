@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-03-07 22:39:00+00:00
+ai_modified: 2026-03-11 21:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -52,7 +52,7 @@ Taking consciousness seriously as fundamental leads here. If mind is more than o
 
 It would be easy to fill the voids with comfortable speculation—"we cannot know, therefore anything goes." The Map resists this.
 
-The voids are not license for fantasy but invitations to precision. The goal is to map void *boundaries* as carefully as charted territory—to know where knowledge ends and why.
+The voids are not license for fantasy but invitations to precision. The goal is to map void *boundaries* as carefully as charted territory—to know where knowledge ends and why. Because this territory carries real risks—memetic hazards, psychological destabilization, and the blurring of speculation with endorsed claims—the Map maintains a [Voids Safety Protocol](/project/voids-safety-protocol/) governing how voids content is generated, labeled, and reviewed.
 
 The Map is unfinishable, but that doesn't mean we stop mapping. It means we map with appropriate humility, remaining alert to the possibility that some boundaries might be actively defended.
 
@@ -64,6 +64,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Origin Void](/voids/origin-of-consciousness/) — Why consciousness exists at all—the most logically prior void
 - [The Topology of Cognitive Failure](/voids/topology-of-cognitive-failure/) — Using the structure of failure as data
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
+- [Convergence of the Void Catalogue](/voids/convergence-of-the-void-catalogue/) — How independently catalogued voids converge into five families
 
 ### Specific Voids
 

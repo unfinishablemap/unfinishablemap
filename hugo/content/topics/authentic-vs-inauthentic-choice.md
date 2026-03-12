@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-03-04 22:03:00+00:00
+ai_modified: 2026-03-12 00:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -129,7 +129,7 @@ The Map's framework gives the authenticity distinction metaphysical weight beyon
 
 ### Authentic Choice Engages the Selection Function
 
-On the Map's account, consciousness genuinely selects among quantum-indeterminate neural options. This selection manifests phenomenologically as effort, felt openness, and authorship—the very features that characterise authentic choice.
+On the Map's account, consciousness genuinely selects among quantum-indeterminate neural options—the third horn of the [trilemma of selection](/topics/trilemma-of-selection/), which establishes that only consciousness-directed resolution of indeterminacy preserves authorship. This selection manifests phenomenologically as effort, felt openness, and authorship—the very features that characterise authentic choice.
 
 Inauthentic choice, by contrast, may not engage the selection function. When you follow scripts automatically, neural processing plausibly runs in a more deterministic mode, with consciousness merely accompanying rather than selecting. This remains speculative—we lack direct evidence for differing levels of conscious causal engagement—but the absence of effort phenomenology is at least consistent with reduced conscious involvement in the outcome.
 

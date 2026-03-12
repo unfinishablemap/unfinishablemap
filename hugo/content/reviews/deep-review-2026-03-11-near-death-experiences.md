@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-11
 **Article**: [Near-Death Experiences](/concepts/near-death-experiences/)
 **Previous review**: [2026-03-05](/reviews/deep-review-2026-03-05-near-death-experiences/)
-**Context**: Cross-review triggered by creation of [Death Phenomenology Beyond NDEs](/topics/death-phenomenology-beyond-ndes/)
+**Context**: Cross-review triggered by creation of [Death Phenomenology Beyond NDEs](/topics/death-and-consciousness/)
 
 ## Pessimistic Analysis Summary
 
@@ -43,11 +43,11 @@ topics: []
 ### Enhancements Made
 - Added paragraph connecting terminal lucidity to the broader death phenomenology landscape (deathbed visions, shared death experiences, nearing death awareness)
 - Renamed subsection "Terminal Lucidity as Corroborating Evidence" → "Terminal Lucidity and Broader Death Phenomenology" to reflect expanded scope
-- Added [death-phenomenology-beyond-ndes](/topics/death-phenomenology-beyond-ndes/) as first entry in Further Reading
+- Added [death-phenomenology-beyond-ndes](/topics/death-and-consciousness/) as first entry in Further Reading
 - Added to `related_articles` frontmatter
 
 ### Cross-links Added
-- [death-phenomenology-beyond-ndes](/topics/death-phenomenology-beyond-ndes/) (in body text, Further Reading, and frontmatter)
+- [death-phenomenology-beyond-ndes](/topics/death-and-consciousness/) (in body text, Further Reading, and frontmatter)
 
 ## Remaining Items
 

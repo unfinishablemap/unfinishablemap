@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-09 21:57:00+00:00
+ai_modified: 2026-03-11 21:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -49,6 +49,7 @@ related_articles:
 - '[[testing-the-map-from-inside]]'
 - '[[contemplative-training-and-phenomenal-access]]'
 - '[[contemplative-verification-of-consciousness-theories]]'
+- '[[aesthetic-irreducibility-arguments]]'
 title: Contemplative Practice as Philosophical Evidence
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -239,6 +240,7 @@ The distinction between willed and exogenous attention in [contemplative-neurosc
 - [contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — Can meditation verify philosophical claims?
 - [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) — How consciousness challenges the scientific method itself
 - [phenomenology](/concepts/phenomenology/) — Husserl's phenomenological method and its relation to contemplative practice
+- [aesthetic-irreducibility-arguments](/topics/aesthetic-irreducibility-arguments/) — Aesthetic sensitivity deepening with training as evidence for irreducibility
 
 ## References
 

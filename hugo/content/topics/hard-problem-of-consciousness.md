@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-03-11 21:17:00+00:00
+ai_modified: 2026-03-12 00:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -112,7 +112,7 @@ As Russell and Eddington observed, physics tells us what things *do*—how they 
 
 The [objectivity paradox](/concepts/objectivity-and-consciousness/) sharpens this point: science achieves objectivity by eliminating perspective, but consciousness *is* perspective—applying objective methods to it eliminates the subject matter. The [constitutive-exclusion](/topics/constitutive-exclusion/) goes further: consciousness does not merely resist objective study but partly constitutes what any study encounters, making the gap structural rather than methodological.
 
-The [emergence-void](/voids/emergence-void/) suggests this gap may be the deepest instance of a more general cognitive limit. We struggle to grasp how arrangement produces novelty at *every* level transition—physics to chemistry, chemistry to biology, neurons to experience. The hard problem is where the resistance becomes impossible to ignore, but the same "and then a miracle occurs" structure appears wherever description changes levels. If emergence itself is a void in human comprehension, the hard problem's persistence is expected rather than puzzling.
+The [emergence-void](/voids/emergence-void/) suggests this gap may be the deepest instance of a more general cognitive limit. The [universal hard problem thesis](/topics/emergence-as-universal-hard-problem/) develops this further: every level transition in nature — physics to chemistry, chemistry to biology, neurons to experience — harbours the same explanatory gap between arrangement and qualitative character. Reduction does not close these gaps but relocates them, and consciousness is simply where the gap becomes impossible to paper over. If emergence itself is a void in human comprehension, the hard problem's persistence is expected rather than puzzling.
 
 ## The Gap Illustrated: Complete Knowledge of Simple Minds
 

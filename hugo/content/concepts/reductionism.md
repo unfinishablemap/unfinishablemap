@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-02-25 09:19:00+00:00
+ai_modified: 2026-03-12 00:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -151,6 +151,7 @@ The [Buddhist tradition](/concepts/buddhism-and-dualism/) raises its own challen
 - [causal-closure](/concepts/causal-closure/) — The principle reductionists assume and the Map denies at quantum level
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and why the hard problem may resist solution
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Process philosophy and the limits of substance-thinking
+- [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/) — Why every level transition harbours the same explanatory gap reduction cannot close
 
 ## References
 

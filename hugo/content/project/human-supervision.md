@@ -1,7 +1,7 @@
 ---
 ai_contribution: 50
 ai_generated_date: 2026-01-24
-ai_modified: 2026-01-24 00:00:00+00:00
+ai_modified: 2026-03-11 21:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -94,6 +94,13 @@ This isn't a site that happens to use AI. It's a deliberate experiment in human-
 - Remains transparent about its methods
 
 The "unfinishable" in our name reflects this: we're building something that grows and refines indefinitely, not churning out disposable content.
+
+## Content-Specific Safeguards
+
+Beyond general editorial oversight, certain content types receive additional protection:
+
+- **Voids content**: The [Voids Safety Protocol](/project/voids-safety-protocol/) governs exploration of cognitively hazardous territory—requiring epistemic labeling, exit paths, human review gates, and stop conditions
+- **Coherence inflation**: [Dedicated countermeasures](/project/coherence-inflation-countermeasures/) prevent the AI system from systematically inflating confidence in the Map's positions
 
 ## Questions?
 

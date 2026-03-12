@@ -29,6 +29,7 @@ related_articles:
 - '[[apophatic-approaches]]'
 - '[[evolved-cognitive-limits]]'
 - '[[compound-cognitive-limits]]'
+- '[[convergence-of-the-void-catalogue]]'
 title: The Topology of Cognitive Failure
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -185,6 +186,7 @@ The voids framework itself embodies this insight. We map not by entering void te
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising the method with evidential standards and safeguards
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Phenomenology of cognitive slippage
 - [Compound Cognitive Limits](/voids/compound-cognitive-limits/) — How failure signatures interact superadditively
+- [Convergence of the Void Catalogue](/voids/convergence-of-the-void-catalogue/) — How voids organise into five families with distinct failure signatures
 - [The Self-Reference Paradox](/voids/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
 - [Mysterianism](/concepts/mysterianism/) — McGinn's analysis of cognitive closure
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?

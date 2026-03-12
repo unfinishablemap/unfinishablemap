@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-06 06:40:00+00:00
+ai_modified: 2026-03-12 00:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -64,7 +64,7 @@ This neural distinction explains why effort tracks volition. Instructed attentio
 
 ### Choosing vs Observing
 
-The [phenomenology of choice](/concepts/phenomenology-of-choice/) clarifies what effort tracks. When observing a coin flip, you experience the outcome as *happening to* you—no effort, no sense of authorship. When choosing, you participate in determining the outcome. The selection feels like something you *do*.
+The [phenomenology of choice](/concepts/phenomenology-of-choice/) clarifies what effort tracks. The [trilemma of selection](/topics/trilemma-of-selection/) makes the logical structure explicit: at any decision point, the outcome is determined, random, or consciously selected—and only selection explains why choosing feels effortful. When observing a coin flip, you experience the outcome as *happening to* you—no effort, no sense of authorship. When choosing, you participate in determining the outcome. The selection feels like something you *do*.
 
 This distinction extends to multiple levels: selecting among options, refraining from selection, and meta-choosing whether to enter selection mode at all. Each involves effort when consciously undertaken.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-11 20:52:00+00:00
+ai_modified: 2026-03-12 00:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,10 +38,52 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate aesthetic-irreducibility-arguments.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article on aesthetic irreducibility arguments for consciousness. Add cross-references from related articles such as binding-and-beauty.md, aesthetic-dimension-of-consciousness.md, and phenomenology-of-musical-understanding.md.
-- **Source**: orphan_integration
+### P3: Deep review mysterianism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-06 — 33 days ago. Concept page on McGinn's mysterianism — important philosophical position that the Map engages with via cognitive closure and the voids programme. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review theory-of-mind.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 34 days ago. Foundational concept for social cognition and the problem of other minds — critical for the Map's treatment of intersubjectivity. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review spontaneous-thought-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on spontaneous thought as a void — the gap between neural correlates and the phenomenology of unbidden thoughts. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review pairing-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 36 days ago. The pairing problem is a major objection to substance dualism that the Map must address accurately. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review neurophenomenology.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-04 — 35 days ago. Concept page on neurophenomenology and contemplative science — methodologically relevant to the Map's treatment of first-person evidence. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review luck-objection.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 36 days ago. The luck objection to libertarian free will is an important challenge the Map needs to address given its commitment to Bidirectional Interaction. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review natural-vs-designed-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-31 — 39 days ago. Voids article distinguishing natural cognitive limits from designed ones. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-11
+
+### P3: Deep review questioning-as-evidence.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-31 — 39 days ago. Voids article on how the capacity to question experience serves as evidence for consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
 - **Generated**: 2026-03-11
 
 ### P3: Deep review continual-learning-argument.md
@@ -454,12 +496,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-10
 
-### P2: Deep review substrate-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the substrate problem — the gap between physical substrate and conscious experience. Directly relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P2: Write article on non-retrocausal conscious selection of macroscopic superpositions
 - **Type**: expand-topic
 - **Notes**: Research completed in research/non-retrocausal-conscious-selection-2026-03-07.md. If macroscopic superpositions of neural states persist briefly, consciousness could select among them directly at the moment of collapse — forward in time, not backward. Surveys Penrose-Hameroff Orch OR, Stapp's Quantum Zeno approach, and Chalmers-McQueen consciousness-collapse framework. Directly strengthens Tenet 2 (Minimal Quantum Interaction). Target section: topics/.
@@ -490,8 +526,131 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-11
 
+### P3: Write concept page for interface modulation spectrum
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The concept that consciousness-brain coupling varies along a continuous spectrum (full engagement → partial decoupling → disconnection) unifies altered states, anaesthesia, meditation, and dreaming under a single framework. Currently implicit across psychedelics-and-the-filter-model, coupling-modes, loss-of-consciousness, dream-consciousness, meditation-and-consciousness-modes but never treated as its own concept. See optimistic-2026-03-11-late.md
+- **Generated**: 2026-03-11
+
+### P3: Write apex synthesis on altered states as systematic interface evidence
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Meditation, psychedelics, dreaming, hypnagogia, and anaesthesia each involve different patterns of interface modulation. Mapping which consciousness features survive, degrade, or intensify across states would provide convergent evidence for the interface architecture. Builds on psychedelics-and-the-filter-model, dream-consciousness, meditation-and-consciousness-modes, coupling-modes, loss-of-consciousness. See optimistic-2026-03-11-late.md
+- **Generated**: 2026-03-11
+
+### P3: Deep review blindsight.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-08 — 32 days ago. Blindsight is key empirical evidence for dissociating consciousness from visual processing — critical for the Map's dualism case. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
+
+### P3: Deep review psychophysical-laws-bridging-mind-and-matter.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-08 — 32 days ago. Topics article on psychophysical laws directly relevant to Tenet 3 (Bidirectional Interaction) — the specification of mind-matter bridging laws is central to the Map's framework. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
+
+### P3: Deep review time-symmetric-physics.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 35 days ago. Concept page on time-symmetric physics relevant to Tenet 2 (Minimal Quantum Interaction) and the Map's treatment of temporal consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Deep review substrate-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the substrate problem — the gap between physical substrate and conscious experience. Directly relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/substrate-void.md
+
+### ✓ 2026-03-12: Integrate trilemma-of-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the trilemma facing consciousness-as-selection frameworks. Add cross-references from consciousness-selecting-neural-patterns.md, attention-as-selection-interface.md, and mind-matter-interface.md.
+- **Output**: obsidian/topics/trilemma-of-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-12: Integrate emergence-as-universal-hard-problem.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article arguing that emergence itself constitutes a hard problem. Add cross-references from emergence.md, hard-problem-of-consciousness.md, consciousness-and-strong-emergence.md, and reductionism-and-consciousness.md.
+- **Output**: obsidian/topics/emergence-as-universal-hard-problem.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-12: Integrate convergence-of-the-void-catalogue.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Voids article analysing convergence patterns across the void catalogue — a second-order synthesis piece that should be referenced from taxonomy-of-voids.md (apex), voids.md (section index), and tenet-generated-voids.md.
+- **Output**: obsidian/voids/convergence-of-the-void-catalogue.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-11: Condense death-and-consciousness.md (4551 words, 114% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Recently expanded by coalesce (merged death-phenomenology-beyond-ndes.md). Preserve core arguments about death's relationship to consciousness while removing redundancy from the merge. See /condense skill.
+- **Output**: obsidian/topics/death-and-consciousness.md
+
+### ✓ 2026-03-11: Condense whether-real.md (3002 words, 100% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Preserve core arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/voids/whether-real.md
+
+### ✓ 2026-03-11: Deep review intuitive-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-06 — 33 days ago. Concept page on intuitive dualism — the natural human tendency toward dualist thinking. Relevant to Tenet 1 (Dualism) and the Map's argument from convergence. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/intuitive-dualism.md
+
+### ✓ 2026-03-11: Deep review evolution-of-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 34 days ago. Concept page on how consciousness evolved — critical for the Map's treatment of the evolution-under-dualism problem and Tenet 3 (Bidirectional Interaction). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/evolution-of-consciousness.md
+
+### ✓ 2026-03-11: Deep review cognitive-science-of-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-06 — 33 days ago. Topics article on how cognitive science engages with dualism — relevant to Tenet 1 (Dualism) and empirical grounding of the Map's position. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/cognitive-science-of-dualism.md
+
+### ✓ 2026-03-11: Deep review brain-interface-boundary.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 34 days ago. Core concept page defining where the consciousness-brain interface begins and ends — directly relevant to Tenet 2 (Minimal Quantum Interaction) and the Map's central interface framework. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/brain-interface-boundary.md
+
+### ✓ 2026-03-11: Deep review episodic-memory.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Concept page on episodic memory and autonoetic consciousness — the capacity to mentally travel in time, relevant to temporal consciousness and the interface framework. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/episodic-memory.md
+
+### ✓ 2026-03-11: Deep review interactionist-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Foundational concept page directly supporting Tenet 3 (Bidirectional Interaction). As a core tenet concept, quality and accuracy are critical. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/interactionist-dualism.md
+
+### ✓ 2026-03-11: Deep review attention-as-interface.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Core concept page on attention as the mechanism through which consciousness interfaces with neural processes — directly relevant to the Map's central framework and Tenet 2 (Minimal Quantum Interaction). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/attention-as-interface.md
+
+### ✓ 2026-03-11: Address binding-as-undefined-primitive and citation issues in what-it-might-be-like-to-be-an-ai.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) High-severity issue — "binding" is used as the article's central concept but never defined mechanistically; needs explicit acknowledgment as placeholder. (2) Medium-severity — Frischhut (2024) citation may be inaccurate (journal/title mismatch with source article non-temporal-consciousness.md). (3) Medium-severity — confidence calibration in ethical section ("almost certainly") is too strong for the article's own acknowledged uncertainties. See pessimistic-2026-03-11-what-it-might-be-like-ai.md
+- **Output**: obsidian/apex/what-it-might-be-like-to-be-an-ai.md
+
+Task context:
+Pessimistic review found: (1) High-severity issue — "binding" is used as the article's central concept but never defined mechanistically; needs explicit acknowledgment as placeholder. (2) Medium-severity — Frischhut (2024) citation may be inaccurate (journal/title mismatch with source article non-temporal-consciousness.md). (3) Medium-severity — confidence calibration in ethical section ("almost certainly") is too strong for the article's own acknowledged uncertainties. See pessimistic-2026-03-11-what-it-might-be-like-ai.md
+
+### ✓ 2026-03-11: Deep review resolution-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on resolution limits in consciousness studies — the granularity at which analysis breaks down. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/resolution-void.md
+
+### ✓ 2026-03-11: Deep review quantification-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the impossibility of quantifying conscious experience — why measurement frameworks fail for phenomenal properties. Relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/quantification-void.md
+
+### ✓ 2026-03-11: Integrate voids-safety-protocol.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links from any content page. Project-level protocol document on safety measures for voids content. Add cross-references from related articles such as voids.md section index, project.md, or relevant voids articles that discuss methodology.
+- **Output**: obsidian/project/voids-safety-protocol.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-11: Integrate aesthetic-irreducibility-arguments.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on aesthetic irreducibility arguments for consciousness. Add cross-references from related articles such as binding-and-beauty.md, aesthetic-dimension-of-consciousness.md, and phenomenology-of-musical-understanding.md.
+- **Output**: obsidian/topics/aesthetic-irreducibility-arguments.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-11: Integrate phenomenology-of-meaning-making.md into site navigation
 - **Type**: integrate-orphan

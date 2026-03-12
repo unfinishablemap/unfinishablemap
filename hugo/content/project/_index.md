@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-03
-ai_modified: 2026-01-04 00:00:00+00:00
+ai_modified: 2026-03-11 21:46:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -55,6 +55,9 @@ flowchart LR
 - [project-brief](/project/project-brief/) - Project aims, methods, and design decisions
 - [tenets](/tenets/) - Human-curated foundational statements
 - [automation](/project/automation/) - AI automation system for content development
+- [voids-safety-protocol](/project/voids-safety-protocol/) - Safety rails for exploring cognitively hazardous territory
+- [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/) - Safeguards against systematic overcommitment
+- [human-supervision](/project/human-supervision/) - How human oversight governs AI-generated content
 
 ## Contributing
 

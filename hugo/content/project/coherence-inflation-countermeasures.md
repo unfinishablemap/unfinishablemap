@@ -275,3 +275,4 @@ The countermeasures formalize the commitment to genuine inquiry over rhetorical 
 - [testability-ledger](/project/testability-ledger/) — What observations would update the framework
 - [writing-style](/project/writing-style/) — How confidence levels are expressed in prose
 - [automation](/project/automation/) — The evolution system these countermeasures integrate with
+- [voids-safety-protocol](/project/voids-safety-protocol/) — Complementary safeguards for voids content specifically

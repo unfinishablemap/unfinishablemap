@@ -41,6 +41,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[apex-articles]]'
+- '[[convergence-of-the-void-catalogue]]'
 title: A Taxonomy of Voids
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -108,7 +109,7 @@ The other three criteria—structured persistence across time and frameworks, cr
 
 ## The Convergence Pattern
 
-The most striking feature of the taxonomy is not the individual voids but their distribution. Physics has interpretive difficulties. Mathematics has foundational limits. But these arise independently, from different features of different domains. Consciousness-related voids behave differently. The hard problem, the [causal interface](/voids/causal-interface/), intrinsic nature, other minds, introspective opacity, binding, qualitative novelty, ownership of experience—these voids share a common boundary. They all fail at the same juncture: the point where first-person phenomenal reality meets third-person physical description.
+The [convergence analysis](/voids/convergence-of-the-void-catalogue/) reveals that the most striking feature of the taxonomy is not the individual voids but their distribution. Physics has interpretive difficulties. Mathematics has foundational limits. But these arise independently, from different features of different domains. Consciousness-related voids behave differently. The hard problem, the [causal interface](/voids/causal-interface/), intrinsic nature, other minds, introspective opacity, binding, qualitative novelty, ownership of experience—these voids share a common boundary. They all fail at the same juncture: the point where first-person phenomenal reality meets third-person physical description.
 
 As the [evidential weight argument](/voids/evidential-weight-of-voids/) develops, this clustering supports an abductive inference. Multiple independent philosophical arguments converge on the conclusion that physical facts do not entail phenomenal facts. The pattern has persisted across centuries. And dualism generates a specific prediction about it: if consciousness is ontologically distinct from physical processes, systematic explanatory failure at the consciousness-matter interface is exactly what we should expect.
 

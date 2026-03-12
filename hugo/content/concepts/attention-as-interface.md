@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-08 05:29:00+00:00
+ai_modified: 2026-03-11 22:27:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -13,7 +13,7 @@ concepts:
 - '[[mental-effort]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[psychophysical-coupling]]'
-- '[[interface-locality]]'
+- '[[brain-interface-boundary]]'
 - '[[meditation-and-consciousness-modes]]'
 - '[[motor-selection]]'
 - '[[emotional-consciousness]]'
@@ -25,13 +25,13 @@ concepts:
 - '[[haecceity]]'
 - '[[concepts/many-worlds]]'
 - '[[introspection]]'
-- '[[attention-interface-mechanisms]]'
+- '[[attention-as-selection-interface]]'
 - '[[voluntary-attention-control-mechanisms]]'
 - '[[attention-schema-theory]]'
 - '[[concepts/functionalism]]'
 - '[[integrated-information-theory]]'
 - '[[stapp-quantum-mind]]'
-- '[[dopamine-selection-interface]]'
+- '[[dopamine-and-the-unified-interface]]'
 - '[[attentional-economics]]'
 - '[[quantum-neural-timing-constraints]]'
 - '[[coupling-modes]]'
@@ -43,7 +43,7 @@ description: Attention serves as the interface where consciousness influences th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 16:40:00+00:00
+last_deep_review: 2026-03-11 22:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -71,7 +71,7 @@ The interface hypothesis rests on a key distinction: attention and consciousness
 
 Koch and Tsuchiya (2007) documented the evidence. Ned Block's analysis of iconic memory experiments (the Sperling paradigm) showed subjects seeing all letters in a display though they could report only 3-4—consciousness "overflowing" attentional access. A 2025 *eLife* study (Nartker et al.) strengthened the case: inattentionally blind participants retain visual sensitivity to stimuli they deny noticing.
 
-If attention and consciousness are dissociable, consciousness cannot be reduced to attentional mechanisms. The [functionalist](/concepts/functionalism/) equation of consciousness with a functional role stumbles here: peripheral awareness suggests conscious content without attentional modulation, and blindsight suggests modulation without consciousness. Frequency analysis adds a physiological dimension: consciousness content correlates with low gamma oscillations (~55-65 Hz) while attentional control operates in high gamma (~75-90 Hz), indicating separable neural processes. The interface hypothesis proposes that attention mediates between consciousness and brain, without being either one.
+If attention and consciousness are dissociable, consciousness cannot be reduced to attentional mechanisms. The [functionalist](/concepts/functionalism/) equation of consciousness with a functional role stumbles here: peripheral awareness suggests conscious content without attentional modulation, and blindsight suggests modulation without consciousness. Frequency analysis adds a physiological dimension: consciousness content correlates with low gamma oscillations (~55-65 Hz) while attentional control operates in high gamma (~75-90 Hz) (Koch & Tsuchiya 2007), indicating separable neural processes. The interface hypothesis proposes that attention mediates between consciousness and brain, without being either one.
 
 ## The Hypothesis Stated
 
@@ -85,7 +85,7 @@ Attention functions as the **interface layer** between consciousness and neural 
 | Attention has bandwidth limits (~10 bits/second) | Constrains what consciousness can select |
 | A candidate mechanism exists (quantum Zeno effect) | Rapid observation holds desired neural patterns (alternatives possible) |
 
-If consciousness can influence matter, why not everywhere? The [interface-locality](/concepts/brain-interface-boundary/) article develops why: attention requires neural infrastructure, the candidate mechanisms require rapid observation achievable only within neural systems, and [selection](/concepts/consciousness-selecting-neural-patterns/) works by biasing ongoing neural competition that external systems are not part of.
+If consciousness can influence matter, why not everywhere? The [brain-interface-boundary](/concepts/brain-interface-boundary/) article develops why: attention requires neural infrastructure, the candidate mechanisms require rapid observation achievable only within neural systems, and [selection](/concepts/consciousness-selecting-neural-patterns/) works by biasing ongoing neural competition that external systems are not part of.
 
 ## The Willed Attention Distinction
 
@@ -117,7 +117,7 @@ Paul Cisek's affordance competition hypothesis describes the architecture: senso
 
 The timing convergence is striking. Thura and Cisek (2014) identified that approximately 280ms before movement onset, activity for the selected target peaks while the unselected target is suppressed. Willed attention takes ~300ms to deploy. If attention and motor selection were independent systems, why would they share the same timeline?
 
-The [dopamine-selection-interface](/concepts/motor-selection/) illuminates how the brain prepares options for selection. A 2024 *Nature* study demonstrated that dopamine-deficient mice "can move" but "won't move"—motor circuitry remains intact but goal-directed initiative is lost. Dopamine modulates the *decision threshold*, not motor capacity itself. This suggests a layered architecture: neural computation generates competing options, dopamine sets threshold sensitivity, and consciousness determines which option crosses threshold.
+The [dopamine system](/topics/dopamine-and-the-unified-interface/) illuminates how the brain prepares options for selection. A 2024 *Nature* study demonstrated that dopamine-deficient mice "can move" but "won't move"—motor circuitry remains intact but goal-directed initiative is lost. Dopamine modulates the *decision threshold*, not motor capacity itself. This suggests a layered architecture: neural computation generates competing options, dopamine sets threshold sensitivity, and consciousness determines which option crosses threshold.
 
 Willed attention and willed action feel like the same kind of effort because they may *be* the same kind of effort—consciousness operating through a single selection mechanism that the brain divides only functionally. See [motor-selection](/concepts/motor-selection/) for the full treatment.
 
@@ -134,7 +134,7 @@ Where in the brain does the interface operate?
 | **Ion channels (Stapp)** | Sites where quantum effects survive | [Zeno effect](/concepts/mental-effort/) via "probing actions" |
 | **Cortical microcolumns** | ~100-neuron coherence domains | Coarse-grained selection matching ~10 bits/s bandwidth |
 
-The 2025 COGITATE adversarial testing suggests attention networks (frontoparietal) may be distinct from consciousness networks (posterior hot zone). Selection might occur where these systems meet. See [attention-interface-mechanisms](/topics/attention-as-selection-interface/) for detailed analysis.
+The 2025 COGITATE adversarial testing suggests attention networks (frontoparietal) may be distinct from consciousness networks (posterior hot zone). Selection might occur where these systems meet. See [attention-as-selection-interface](/topics/attention-as-selection-interface/) for detailed analysis.
 
 ## The Bandwidth Constraint
 
@@ -199,13 +199,13 @@ The hypothesis would fail if:
 
 ## Further Reading
 
-**Core concepts**: [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/), [psychophysical-coupling](/concepts/psychophysical-coupling/), [interface-locality](/concepts/brain-interface-boundary/), [coupling-modes](/concepts/coupling-modes/), [attentional-economics](/concepts/attentional-economics/), [Attention Disorders and the Interface](/topics/attention-disorders-and-quantum-interface/), [The Epistemological Void of Attention Disorders](/voids/attention-disorders-and-consciousness/), [Epistemology of Interface Mechanism](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/)
+**Core concepts**: [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/), [psychophysical-coupling](/concepts/psychophysical-coupling/), [brain-interface-boundary](/concepts/brain-interface-boundary/), [coupling-modes](/concepts/coupling-modes/), [attentional-economics](/concepts/attentional-economics/), [Attention Disorders and the Interface](/topics/attention-disorders-and-quantum-interface/), [The Epistemological Void of Attention Disorders](/voids/attention-disorders-and-consciousness/), [Epistemology of Interface Mechanism](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/)
 
-**Motor convergence**: [motor-selection](/concepts/motor-selection/), [dopamine-selection-interface](/concepts/motor-selection/), [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)
+**Motor convergence**: [motor-selection](/concepts/motor-selection/), [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)
 
 **Voluntary control**: [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/) — frontal theta, salience switching, and thalamic gating
 
-**Mechanisms**: [attention-interface-mechanisms](/topics/attention-as-selection-interface/) — candidate neural sites, timing constraints, and testable predictions
+**Mechanisms**: [attention-as-selection-interface](/topics/attention-as-selection-interface/) — candidate neural sites, timing constraints, and testable predictions
 
 **Quantum approaches**: [quantum-consciousness](/concepts/quantum-consciousness/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [decoherence](/concepts/decoherence/), [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/), [many-worlds](/concepts/many-worlds/)
 

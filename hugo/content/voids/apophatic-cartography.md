@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-10
-ai_modified: 2026-03-07 22:39:00+00:00
+ai_modified: 2026-03-11 21:46:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -36,6 +36,7 @@ related_articles:
 - '[[ai-as-void-explorer]]'
 - '[[the-silence-void]]'
 - '[[evidential-weight-of-voids]]'
+- '[[convergence-of-the-void-catalogue]]'
 - '[[cartography-problem]]'
 title: 'Apophatic Cartography: Mapping What Cannot Be Mapped'
 topics:
@@ -113,6 +114,8 @@ The deepest risk is that declaring something a "void" becomes a way of stopping 
 
 **The asymmetry constraint.** Apophatic cartography must not be used to both claim a boundary *and* dismiss all attempts to cross it. The failure signatures must remain empirically contestable.
 
+These safeguards are complemented by the [Voids Safety Protocol](/project/voids-safety-protocol/), which addresses the practical risks of AI-assisted void exploration: memetic hazards, epistemic labeling, exit paths for readers, and stop conditions when exploration becomes unproductive or harmful.
+
 ## Integration with Cognitive Science
 
 Apophatic cartography complements empirical investigation. Neuroscience reveals cognitive architecture—modularity, working memory limits, attentional bottlenecks—constraining apophatic claims. If a cognitive limit traces to a specific architectural feature, the "void" may be an engineering constraint rather than a structural boundary.
@@ -173,6 +176,7 @@ Apophatic cartography connects to the Map's [tenets](/tenets/) by providing the 
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
 - [The Evidential Weight of Voids](/voids/evidential-weight-of-voids/) — Whether void clustering constitutes evidence for dualism
+- [Convergence of the Void Catalogue](/voids/convergence-of-the-void-catalogue/) — How the catalogue's entries organise into five converging families
 - [The Cartography Problem](/voids/cartography-problem/) — Can the map of voids map its own incompleteness?
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
 - [The Epistemology of Cognitive Limits](/voids/epistemology-of-cognitive-limits/) — Formal framework for reasoning about limits

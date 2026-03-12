@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-27
-ai_modified: 2026-03-02 01:52:00+00:00
+ai_modified: 2026-03-11 21:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,6 +16,7 @@ description: Human+AI exploration of why consciousness resists measurement at ev
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-03-11 21:59:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -28,6 +29,9 @@ related_articles:
 - '[[intersubjective-void]]'
 - '[[apophatic-approaches]]'
 - '[[consciousness-and-the-problem-of-measurement-standards]]'
+- '[[integrated-information-theory]]'
+- '[[psychophysical-laws]]'
+- '[[disorders-of-consciousness-as-test-cases]]'
 title: The Quantification Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -58,13 +62,13 @@ Clinical pain scales ask patients to rate their pain from 1 to 10. The numbers a
 
 This is not a problem of imprecise language. It reflects the [intersubjective void](/voids/intersubjective-void/): there is no shared phenomenal space in which two experiences can be held alongside each other for comparison. Comparison requires a common scale, and a common scale requires access to both items being compared from a single vantage point. Phenomenal experiences are perspectivally singular—each accessible only from the point of view that has it.
 
-Stevens' power law in psychophysics relates physical stimulus intensity to reported perceived intensity via a power function. The equation is elegant, but it measures the interface between experience and report, not experience itself. MacKay demonstrated that near-infinite alternative mathematical functions could account for the same behavioural data. The underlying phenomenal mechanism cannot be inferred from the behavioural pattern, because the same external pattern is compatible with radically different internal experiences.
+Stevens' power law in psychophysics relates physical stimulus intensity to reported perceived intensity via a power function (one of the [psychophysical-laws](/concepts/psychophysical-laws/) linking mind and matter). The equation is elegant, but it measures the interface between experience and report, not experience itself. MacKay demonstrated that near-infinite alternative mathematical functions could account for the same behavioural data. The underlying phenomenal mechanism cannot be inferred from the behavioural pattern, because the same external pattern is compatible with radically different internal experiences.
 
 ## The Introspection Problem
 
 If third-person measurement cannot reach consciousness, perhaps first-person measurement—introspection—can. Schwitzgebel's research closes this escape route. Introspection is "considerably less reliable than ordinary world-directed perception." People cannot reliably report the structure of their concurrent emotional experience. They systematically overestimate the richness of peripheral vision. The most telling example: in the 1950s most people reported dreaming in black and white; after colour television became widespread, most reported colour dreams. Either media changed dreaming or people genuinely do not know their own phenomenology.
 
-The [calibration-void](/voids/calibration-void/) deepens this problem. Every scientific instrument requires calibration against a known standard. Introspection has no standard. Michel formalised the difficulty in 2021: consciousness detection procedures cannot be validated because introspection is taken to be the only basic source of evidence about consciousness. The instrument is both detector and standard—and there is nothing outside it to check either against.
+The [calibration-void](/voids/calibration-void/) deepens this problem. Every scientific instrument requires calibration against a known standard. Introspection has no standard. Michel formalised the difficulty: consciousness detection procedures cannot be validated because introspection is taken to be the only basic source of evidence about consciousness. The instrument is both detector and standard—and there is nothing outside it to check either against.
 
 If first-person measurement is unreliable and third-person measurement cannot access the phenomenon, consciousness has no reliable measurement pathway at all.
 
@@ -72,11 +76,11 @@ If first-person measurement is unreliable and third-person measurement cannot ac
 
 Every proposed metric of consciousness—without exception—measures something correlated with consciousness rather than consciousness itself. The gap between proxy and phenomenon is not technical but categorical.
 
-Integrated Information Theory proposes phi as a consciousness metric. Aaronson demonstrated that inactive logic gates arranged appropriately would have "unboundedly more" phi than human brains. Cerullo concluded that integrated information is not sufficient for consciousness—the assumption that integration equals consciousness is the unproven bridging claim. Phi is an information-integration meter, not a consciousness meter.
+[Integrated Information Theory](/concepts/integrated-information-theory/) proposes phi as a consciousness metric. Aaronson demonstrated that simple networks of logic gates arranged as expander graphs would score far higher on phi than human brains—despite lacking any intuitive claim to consciousness. Cerullo concluded that integrated information is not sufficient for consciousness—the assumption that integration equals consciousness is the unproven bridging claim. Phi is an information-integration meter, not a consciousness meter.
 
-The Perturbational Complexity Index achieves 92% sensitivity in detecting consciousness in minimally conscious patients. This clinical success is real and important. But PCI measures algorithmic complexity of cortical responses to transcranial magnetic stimulation. It is a proxy: it correlates with consciousness but measures brain complexity. The distinction matters. A thermometer measures temperature directly. PCI measures a correlate of consciousness—the relationship between the two depends on philosophical assumptions that PCI itself cannot verify.
+The Perturbational Complexity Index achieves high sensitivity in detecting consciousness in [minimally conscious patients](/topics/disorders-of-consciousness-as-test-cases/). This clinical success is real and important. But PCI measures algorithmic complexity of cortical responses to transcranial magnetic stimulation. It is a proxy: it correlates with consciousness but measures brain complexity. The distinction matters. A thermometer measures temperature directly. PCI measures a correlate of consciousness—the relationship between the two depends on philosophical assumptions that PCI itself cannot verify.
 
-Neural correlates of consciousness face the same gap. Correlations between conscious states and neural activity are compatible with multiple interpretations: parallelism, causation, identity, or epiphenomenalism. As Feigl observed, correlations merely support parallelism; claiming identity or causation requires additional philosophical argument that neuroscience alone cannot supply.
+[Neural correlates of consciousness](/concepts/neural-correlates-of-consciousness/) face the same gap. Correlations between conscious states and neural activity are compatible with multiple interpretations: parallelism, causation, identity, or epiphenomenalism. Moving from correlation to any particular metaphysical conclusion requires philosophical argument that neuroscience alone cannot supply. The correlates are real; whether they constitute, cause, or merely accompany consciousness is not a question measurement can settle.
 
 ## What the Void Reveals
 
@@ -107,9 +111,12 @@ The quantification void follows from the Map's [tenets](/tenets/) with particula
 
 ## References
 
+1. Aaronson, S. (2014). "Why I Am Not An Integrated Information Theorist (or, The Unconscious Expander)." *Shtetl-Optimized* (blog).
+1. Casali, A. G. et al. (2013). "A Theoretically Based Index of Consciousness Independent of Sensory Processing and Behavior." *Science Translational Medicine*, 5(198), 198ra105.
 1. Cerullo, M. (2015). "The Problem with Phi: A Critique of Integrated Information Theory." *PLOS Computational Biology*, 11(9), e1004286.
 1. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
 1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354-361.
+1. Michel, M. (2019). "Consciousness Science Underdetermined." *Ergo*, 6(28), 771-791.
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
 1. Schwitzgebel, E. (2008). "The Unreliability of Naive Introspection." *Philosophical Review*, 117(2), 245-273.
 1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.

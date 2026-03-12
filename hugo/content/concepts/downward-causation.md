@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-11 19:05:00+00:00
+ai_modified: 2026-03-12 00:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -207,6 +207,7 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 - [pairing-problem](/concepts/pairing-problem/) — What connects this mind to this body
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge to emergence
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — The framework for specifying mind-matter laws
+- [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/) — Why the gap between levels is universal, making bidirectional causation a general feature rather than an anomaly
 - [tenets](/tenets/) — the Map's foundational commitments
 
 ## References

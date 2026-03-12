@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-04 22:18:50+00:00
+ai_modified: 2026-03-11 21:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -37,6 +37,7 @@ related_articles:
 - '[[consciousness-and-skilled-performance]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
+- '[[aesthetic-irreducibility-arguments]]'
 title: Consciousness and Aesthetic Creation
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -148,6 +149,7 @@ The claim that aesthetic creation requires phenomenal consciousness would weaken
 ## Further Reading
 
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Beauty's pervasiveness, for-ness, and evidential force for dualism
+- [aesthetic-irreducibility-arguments](/topics/aesthetic-irreducibility-arguments/) — Why beauty resists reduction across substrates and even in formally precise cases
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — Why human creativity differs in kind from AI and animal creativity
 - [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/) — Mathematical creativity as the sharpest case for consciousness as causal force
 - [aesthetic-void](/voids/aesthetic-void/) — Cognitive limits revealed by profound aesthetic encounter

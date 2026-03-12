@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [Death Phenomenology Beyond NDEs](/topics/death-phenomenology-beyond-ndes/)
+**Article**: [Death Phenomenology Beyond NDEs](/topics/death-and-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

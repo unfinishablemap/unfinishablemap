@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-11 21:17:00+00:00
+ai_modified: 2026-03-12 00:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -209,6 +209,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 - [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) — How the gap constrains what we can know about the consciousness-matter interface
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — The syntax-semantics divide as an informational framing of the gap
 - [consciousness-and-the-problem-of-measurement-standards](/topics/consciousness-and-the-problem-of-measurement-standards/) — Why the gap extends to measurement itself: no units, instruments, or calibration for phenomenal quantities
+- [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/) — The argument that every level transition harbours the same gap, and reduction relocates rather than resolves it
 
 ## References
 
