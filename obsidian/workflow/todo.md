@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-12T05:13:00+00:00
+ai_modified: 2026-03-12T05:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on the reconstruction paradox
+- **Type**: expand-topic
+- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. The brain corrects some perceptual errors (blind spot filling, colour constancy, saccadic suppression) but transmits others faithfully (blur, floaters, tinnitus, Müller-Lyer illusion). This asymmetry reveals a curated interface — consciousness receives a selected feed, not raw data — posing deep problems for physicalism. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-12
+
+### P2: Write article on perceptual degradation and the interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/perceptual-degradation-interface-blur-2026-03-09.md. What blur, visual noise, and sensory degradation reveal about the consciousness-brain interface — if consciousness merely accessed neural representations, perceptual degradation should be all-or-nothing, but graded degradation suggests a transmission channel with bandwidth constraints. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 2 (Minimal Quantum Interaction).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-12
+
+### P2: Integrate illusionism-as-epiphenomenalism-in-disguise.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page arguing that illusionism reduces to epiphenomenalism — if phenomenal consciousness is an illusion, then what does the explanatory work is unconscious processing, making illusionism a disguised form of epiphenomenalism. Add cross-references from epiphenomenalism.md, the-epiphenomenalist-threat.md, and eliminativism.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-12
+
+### P2: Integrate phenomenology-of-perceptual-learning.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on how expert perceivers develop qualitatively different experiences through training — evidence for bidirectional interaction. Add cross-references from consciousness-and-skilled-performance.md, philosophy-of-perception-under-dualism.md, and consciousness-and-the-neuroscience-of-deliberate-practice.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-12
+
+### P2: Integrate ethics-of-cognitive-enhancement-under-dualism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on ethical implications of cognitive enhancement when consciousness is irreducible — raises questions about whether enhancement targets brain-side or mind-side capabilities. Add cross-references from ethics-of-consciousness.md, ai-consciousness.md, and free-will.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-12
 
 ### P3: Deep review minds-without-words.md
 - **Type**: deep-review
