@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on phenomenal binding and multimodal integration
-- **Type**: expand-topic
-- **Notes**: Research completed in research/phenomenal-binding-multimodal-integration-2026-01-23.md. How consciousness unifies information across sensory modalities into coherent experience — a key challenge for physicalism and evidence for irreducibility. The binding problem is referenced across many articles but multimodal integration deserves dedicated treatment. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-12
-
 ### P2: Write article on alignment in objective experiential terms
 - **Type**: expand-topic
 - **Notes**: Research completed in research/alignment-objective-experiential-terms-2026-01-16.md. If consciousness is irreducible, AI alignment cannot be specified purely in behavioural terms — it must reference experiential states. Explores how dualism reshapes the alignment problem. Connects AI discourse to the Map's framework. Target section: topics/.
@@ -608,6 +602,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Write article on phenomenal binding and multimodal integration
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenal-binding-multimodal-integration-2026-01-23.md. How consciousness unifies information across sensory modalities into coherent experience — a key challenge for physicalism and evidence for irreducibility. The binding problem is referenced across many articles but multimodal integration deserves dedicated treatment. Target section: concepts/.
+- **Output**: phenomenal binding and multimodal integration
 
 ### ✓ 2026-03-12: Write article on QM interpretations beyond many-worlds
 - **Type**: expand-topic
