@@ -4,7 +4,7 @@ description: "Attention and motor planning share neural substrates, creating a u
 created: 2026-02-01
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-12T00:20:00+00:00
+ai_modified: 2026-03-12T04:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ concepts:
   - "[[agent-causation]]"
   - "[[concepts/functionalism]]"
   - "[[adaptive-computational-depth]]"
+  - "[[phenomenal-attention]]"
 related_articles:
   - "[[tenets]]"
   - "[[bandwidth-of-consciousness]]"
@@ -39,7 +40,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-03-08T00:29:00+00:00
+last_deep_review: 2026-03-12T04:57:00+00:00
 coalesced_from:
   - "/topics/attention-motor-planning-quantum-interface/"
   - "/topics/attention-interface-mechanisms/"
@@ -56,11 +57,11 @@ Giacomo Rizzolatti's premotor theory of attention (PMTA) challenges the assumpti
 The evidence is substantial:
 
 - The same fronto-parietal networks activate during spatial attention shifts and motor preparation
-- Preparing an eye movement to location X improves visual processing at X—attention is the motor preparation
+- Preparing an eye movement to a location improves visual processing there—attention is the motor preparation
 - Microstimulation of motor regions enhances visual processing at the target location
 - Attempts to identify attention regions independent of motor planning consistently fail
 
-The strong form of PMTA remains debated, but the evidence for shared circuitry between attention and motor preparation is robust. Wise and Murray (2022) extended this, arguing "the entirety of the prefrontal cortex can be seen as fundamentally premotor in nature." What appears to be "executive function" is motor preparation at varying levels of abstraction—from concrete commands to "what should I think about?"
+The strong form of PMTA remains debated, but shared circuitry between attention and motor preparation is robust. Wise and Murray (2022) extended this, arguing "the entirety of the prefrontal cortex can be seen as fundamentally premotor in nature." What appears to be "executive function" is motor preparation at varying levels of abstraction—from concrete commands to "what should I think about?"
 
 ### Shared Neural Signatures
 
@@ -116,7 +117,7 @@ A separate 2024 *Brain* study found dopamine promotes theta rhythms (4-10 Hz)—
 
 ## What Effort Tells Us
 
-Sustaining voluntary attention feels effortful. Sustaining motor intention feels effortful in the same way. Novel movements feel harder than practised ones; complex sequences harder than simple actions. If the phenomenology tracks nothing real—if effort is epiphenomenal—its systematic correlation with task difficulty is unexplained.
+Sustaining voluntary attention feels effortful. Sustaining motor intention feels effortful in the same way. This is [[phenomenal-attention]]—the felt experience of attending, distinct from the computational resource allocation that brains and machines both perform. If the phenomenology tracks nothing real—if effort is epiphenomenal—its systematic correlation with task difficulty is unexplained.
 
 If consciousness contributes to selection, the correlation has a natural explanation: more difficult selections require greater conscious engagement to stabilise the desired pattern against competing alternatives. Moreover, sustained effort *depletes*—attention fatigue reduces capacity across domains, and recovery requires sleep, not just cessation. Computers don't fatigue from sustained processing; the biological character of depletion suggests dependence on an interface with physical costs. William James observed that "volition is nothing but attention" and "the free will question relates solely to the amount of effort of attention." The convergence vindicates James: if attention and motor selection share a mechanism, then the felt effort of choosing what to do and the felt effort of choosing what to attend to have the same source.
 
@@ -166,7 +167,7 @@ The thalamus relays ascending sensory signals while receiving descending volunta
 
 ### Other Proposals
 
-More speculative candidates include cortical microcolumns coupling with the quantum zero-point field (Keppler 2025). These lack independent confirmation and remain early-stage hypotheses.
+More speculative candidates include cortical microcolumns coupling with the quantum zero-point field (Keppler 2025), which lacks independent confirmation.
 
 ## Timing Constraints
 
@@ -257,6 +258,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 - [[quantum-consciousness]] — Overview of quantum approaches
 - [[decoherence]] — The decoherence objection and responses
 - [[mental-effort]] — Phenomenology of attentional effort
+- [[phenomenal-attention]] — The felt experience of attending, distinct from computational attention
 - [[structure-of-attention]] — Willed, instructed, and exogenous attention
 - [[attention-as-interface|voluntary attention]] — Neural signatures of willed attention
 - [[psychophysical-coupling]] — Constraints on what consciousness can influence
