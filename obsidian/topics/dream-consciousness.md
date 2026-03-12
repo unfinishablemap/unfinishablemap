@@ -4,7 +4,7 @@ description: "Dreams provide the most accessible everyday evidence for the filte
 created: 2026-01-21
 modified: 2026-02-23
 human_modified: null
-ai_modified: 2026-03-12T03:48:00+00:00
+ai_modified: 2026-03-12T06:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +52,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated: null
-last_deep_review: 2026-03-12T03:48:00+00:00
+last_deep_review: 2026-03-12T06:32:00+00:00
 coalesced_from:
   - "/topics/lucid-dreaming-and-consciousness/"
   - "/topics/dreams-problem-solving-and-consciousness/"
@@ -73,11 +73,11 @@ Contemporary philosophy accepts that dreams are conscious experiences occurring 
 
 Filter theory and production theory interpret the same neuroscience differently. Both accept that REM sleep involves dramatic neural reorganisation: sensory gating blocks external input, the dorsolateral prefrontal cortex deactivates, the [[default-mode-network]] shifts its activity patterns, and cholinergic systems dominate while aminergic modulation drops.
 
-On **production models**, this reorganised activity *generates* dream experience. Hobson's activation-synthesis model and its successor, the protoconsciousness theory, explain dream vividness through pontine brainstem activation driving visual cortex, limbic structures, and other systems. Yet a puzzle remains: *why* this particular pattern of activation—one that deactivates executive oversight and disconnects from external reality—should produce experiences often more emotionally vivid and immersive than many waking moments.
+On **production models**, this reorganised activity *generates* dream experience. Hobson's activation-synthesis model and its successor, the protoconsciousness theory, explain dream vividness through pontine brainstem activation driving visual cortex, limbic structures, and other systems. Yet a puzzle remains: *why* activation that deactivates executive oversight and disconnects from external reality should produce experiences more emotionally vivid than many waking moments.
 
 On the **filter model**, REM reorganisation *changes what the filter transmits*. With sensory gating removing one major constraint and prefrontal deactivation removing another (critical judgment, reality testing), consciousness operates more freely through the brain's representational systems. Dream vividness is predicted, not anomalous—the filter model expects that reducing constraint can enhance or liberate certain aspects of experience.
 
-The divergence is sharpest here: production models can account for dream vividness through specific activation patterns, but must treat the correlation between reduced executive control and intensified experience as coincidental or mechanistically complex. Filter theory explains it directly—vividness increases precisely because constraints decrease. The same pattern appears with psychedelics, where decreased default mode network activity coincides with expanded conscious experience.
+The divergence is sharpest here: production models explain dream vividness through disinhibition—prefrontal withdrawal releases imagery circuits from executive suppression. But disinhibition does not explain why this neural activity should be *experienced* at all, let alone more vividly than when the full apparatus is engaged. Filter theory addresses this: vividness increases because constraints on consciousness decrease. The same pattern appears with psychedelics, where decreased default mode network activity coincides with expanded conscious experience.
 
 ### Dream Phenomena Under the Filter Lens
 

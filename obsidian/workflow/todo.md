@@ -582,12 +582,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Aesthetic experience (beauty, sublimity, elegance) has distinctive phenomenal character that tracks real features yet resists functional reduction. A domain largely untouched by the Map. See optimistic-2026-03-12.md
 
-### P2: Cross-review dream-consciousness.md considering hypnagogic phenomenology insights
-- **Type**: cross-review
-- **Notes**: New article topics/hypnagogic-phenomenology-and-interface-modulation.md treats the sleep-wake transition as evidence for graded interface modulation. dream-consciousness.md covers dreaming phenomenology and should cross-reference the hypnagogic treatment, particularly the component-by-component disengagement pattern and its implications for filter theory.
-- **Source**: chain (from hypnagogic-phenomenology-and-interface-modulation.md)
-- **Generated**: 2026-03-12
-
 ### P2: Cross-review consciousness-and-collective-phenomena.md considering collective intentionality insights
 - **Type**: cross-review
 - **Notes**: New article topics/phenomenology-of-collective-intentionality-and-we-consciousness.md treats we-consciousness and shared intentionality under dualism. consciousness-and-collective-phenomena.md covers the broader relationship and should cross-reference the new article's treatment of the phenomenal character of collective intentionality and its challenge to individualist interface models.
@@ -608,6 +602,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Cross-review dream-consciousness.md considering hypnagogic phenomenology insights
+- **Type**: cross-review
+- **Notes**: New article topics/hypnagogic-phenomenology-and-interface-modulation.md treats the sleep-wake transition as evidence for graded interface modulation. dream-consciousness.md covers dreaming phenomenology and should cross-reference the hypnagogic treatment, particularly the component-by-component disengagement pattern and its implications for filter theory.
+- **Output**: obsidian/topics/dream-consciousness.md -- Context: Cross-review dream-consciousness.md considering hypnagogic phenomenology insights
 
 ### ✓ 2026-03-12: Integrate ethics-of-cognitive-enhancement-under-dualism.md into site navigation
 - **Type**: integrate-orphan
