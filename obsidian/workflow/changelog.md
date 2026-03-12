@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 01:20 UTC - refine-draft
+- **Status**: Success
+- **File**: [[resolution-bandwidth-interface]]
+- **Changes**: Added measurement uncertainty section; softened pilot analogy to illustrative; gave GWT fairer treatment; qualified cross-species and choice-rate claims; decoupled quantum mechanism from bandwidth argument
+- **Published**: yes
+
 ## 2026-03-12 01:15 UTC - refine-draft
 - **Status**: Success
 - **File**: [[valence-as-selection-currency]]

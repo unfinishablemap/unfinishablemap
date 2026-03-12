@@ -4,7 +4,7 @@ description: "Consciousness's coarseness is not a defect but an architectural re
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T06:17:00+00:00
+ai_modified: 2026-03-12T01:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,7 +47,7 @@ Consider what consciousness would need to be if it operated at neural resolution
 
 A controller matching the brain's processing grain would need to track individual synaptic states across a hundred trillion connections. It would need to issue instructions at millisecond timescales for each of billions of neurons. The informational burden would be astronomical — and the controller would face the same combinatorial explosion that makes the brain's parallel architecture necessary in the first place. A consciousness operating at neural resolution would not be a controller. It would be a duplicate of the system it was supposed to govern.
 
-This is the key insight: **effective hierarchical control requires operating at a different grain than the system being controlled.** A CEO who tracks every employee's minute-by-minute activity cannot make strategic decisions. An operating system that manages individual transistor states cannot run applications. The abstraction gap between controller and controlled is not a regrettable loss of information — it is what makes control possible.
+**Effective hierarchical control requires operating at a different grain than the system being controlled.** A CEO who tracks every employee's minute-by-minute activity cannot make strategic decisions. An operating system that manages individual transistor states cannot run applications. The abstraction gap between controller and controlled is not a regrettable loss of information — it is what makes control possible.
 
 The resolution void creates this abstraction. By compressing eleven million bits to ten, consciousness operates at a level where the relevant categories are goals, policies, and action types — not synaptic weights and firing rates. The bandwidth constraint ensures that conscious intervention is limited to the small number of selection points where it can make a difference. Together, they define a system that *must* work through hierarchical selection because it cannot work any other way.
 
@@ -59,7 +59,7 @@ The brain's role: generate, evaluate, and prepare candidate action sequences at 
 
 Consciousness's role: select among the prepared candidates. Redirect attention when current strategies fail. Inhibit impulses that conflict with longer-term goals. Introduce novel combinations that habit cannot produce. All of this proceeds at ten bits per second, deliberately.
 
-This division is not merely efficient — it is the only architecture that resolves the [[bandwidth-problem-mental-causation|bandwidth problem]]. If consciousness had to specify neural configurations directly, ten bits per second would be catastrophically insufficient. But consciousness does not specify configurations. It selects among them. And a ten-bit-per-second channel can make three to four selections per second among small sets of alternatives — which is precisely the rate at which deliberate choices phenomenologically occur.
+This division is not merely efficient — it is the only architecture that resolves the [[bandwidth-problem-mental-causation|bandwidth problem]]. If consciousness had to specify neural configurations directly, ten bits per second would be catastrophically insufficient. But consciousness does not specify configurations. It selects among them. And a channel operating at roughly ten bits per second can make a few selections per second among small sets of alternatives — consistent with the rate at which deliberate choices appear to occur, though precise measurement of conscious decision rate remains an open question.
 
 The resolution void is what *creates* the appropriate selection categories. By compressing sensory information into high-level summaries, the brain presents consciousness with the kind of options consciousness can evaluate: "reach for the cup" versus "wait," not "fire motor unit N₄₅₆₇₈ at 40 Hz." The compression is not information loss in any functionally relevant sense. It is format translation — from a vocabulary consciousness cannot use to one it can.
 
@@ -69,9 +69,9 @@ If consciousness were identical to neural processing — as physicalism maintain
 
 The interface model answers naturally. The resolution and bandwidth constraints are properties of the *channel* between two ontologically distinct systems, not properties of a system modelling itself. Consciousness is not the brain's summary of its own activity. It is a different system, communicating through a narrow interface that imposes its own constraints.
 
-The analogy is a pilot in an aircraft. The pilot cannot perceive individual engine combustion events or wing-stress distributions. Instruments compress this information into gauges — altitude, airspeed, engine temperature. The pilot's control inputs are coarse: stick position, throttle setting, rudder pressure. The aircraft translates these into thousands of specific mechanical adjustments. The pilot's resolution limits and bandwidth constraints are not defects. They are properties of the interface between pilot and aircraft — an interface that exists because pilot and aircraft are different systems.
+An analogy illustrates the dualist reading (though it should not be mistaken for an argument): a pilot in an aircraft. The pilot cannot perceive individual engine combustion events or wing-stress distributions. Instruments compress this information into gauges — altitude, airspeed, engine temperature. The pilot's control inputs are coarse: stick position, throttle setting, rudder pressure. The aircraft translates these into thousands of specific mechanical adjustments. The pilot's resolution limits and bandwidth constraints are properties of the interface between pilot and aircraft — an interface that exists because pilot and aircraft are different systems. The analogy is illustrative because it presupposes two systems; the philosophical question is whether consciousness and the brain are in fact two systems or one.
 
-On the physicalist picture, there is no pilot. The aircraft is monitoring itself through a dashboard that deliberately obscures most of its own operation. The physicalist can respond that coarse self-monitoring avoids infinite regress — a system monitoring itself at full resolution would need further monitoring of the monitor. [[global-workspace-theory|Global Workspace Theory]] adds that serial broadcasting of compressed summaries enables flexible integration across otherwise isolated processors. These are genuine explanatory resources. But they explain why *some* compression might be useful, not why the compression is specifically eight orders of magnitude, why it couples resolution to bandwidth, or why evolution has not adjusted the ratio across hundreds of millions of years.
+The physicalist has substantial resources here. [[global-workspace-theory|Global Workspace Theory]] holds that serial broadcasting of compressed summaries enables flexible integration across otherwise isolated processors — a self-monitoring system with a coarse executive summary is coherent and well-motivated. The compression avoids infinite regress (a system monitoring itself at full resolution would need further monitoring of the monitor) and the serial bottleneck creates the global availability that characterises conscious access. These are genuine explanatory resources, and it would be unfair to demand that GWT derive exact compression ratios from first principles — essentially no high-level theory in neuroscience or philosophy of mind meets that standard. The dualist account does not derive the ratio either. What the interface model *does* offer is a structural prediction: that resolution and bandwidth should be coupled, that the coupling should be invariant across tasks, and that brain-side optimisation should not widen the channel. Whether these predictions distinguish the dualist interpretation from a sufficiently developed physicalist account remains an open question.
 
 On the dualist picture, the dashboard exists because two systems must communicate. The resolution-bandwidth constraints are the signature of a genuine interface — a channel connecting ontologically distinct domains. This predicts exactly the asymmetry we observe: massive inbound compression (the brain delivering summaries to consciousness), minimal outbound bandwidth (consciousness selecting among prepared options), and a persistent grain mismatch between what consciousness accesses and what the brain computes.
 
@@ -81,7 +81,7 @@ If the bandwidth constraint reflects interface physics rather than neural archit
 
 Evolution *has* optimised the brain's side of the interface. Candidate preparation is faster and more sophisticated in humans than in simpler organisms. The options presented to consciousness are richer, more contextually appropriate, and better pre-evaluated. The [[baseline-cognition|baseline cognition]] that operates without conscious involvement has expanded dramatically — great apes achieve sophisticated tool use, social learning, and procedural metacognition through unconscious processing alone.
 
-What evolution has *not* done is increase the rate at which consciousness selects. The throughput ceiling holds across species that exhibit deliberate behaviour, across tasks, and across training regimes. If the ceiling were neural, evolutionary pressure should have raised it. If the ceiling is a property of the mind-brain interface itself — the channel width where a non-physical system meets a physical one — then brain-side optimisation cannot change it. Evolution can make better menus; it cannot make the diner read faster.
+What evolution has *not* done — so far as current evidence indicates — is substantially increase the rate at which consciousness selects. The throughput ceiling holds across diverse human tasks and training regimes; cross-species data are sparser, but no measured organism shows conscious throughput orders of magnitude above the human range. If the ceiling were purely neural, one might expect evolutionary pressure to have raised it, particularly given the enormous increases in brain size and complexity across mammalian lineages. If instead the ceiling is a property of the mind-brain interface itself — the channel width where a non-physical system meets a physical one — then brain-side optimisation cannot change it. Evolution can make better menus; it cannot make the diner read faster.
 
 ## The Resolution-Bandwidth Coupling
 
@@ -93,11 +93,25 @@ The ten-bit resolution and ten-bit bandwidth are matched. Consciousness perceive
 
 This tuning is itself evidence of an architectural constraint rather than accident. An interface between two different systems — one physical, one non-physical — would need to match input resolution to output bandwidth for the connection to be useful. A self-monitoring system has no analogous constraint: a brain modelling itself could, in principle, adjust both "resolution" and "bandwidth" by allocating more neural resources. That the two remain locked in ratio across all tasks and training conditions suggests a constraint external to neural architecture.
 
+## How Robust Is the Ten-Bit Figure?
+
+The argument above rests on a specific empirical claim: that conscious throughput is approximately ten bits per second. This figure deserves scrutiny, because its interpretation shapes every conclusion that follows.
+
+Zheng and Meister (2025) synthesise decades of measurements across diverse tasks — typing, reading, gaming, mental arithmetic — and find convergence on the order of 10 bits/s. But they acknowledge significant methodological caveats. The figure depends on how "conscious processing" is operationalised: it measures the *information rate of behavioural output*, not necessarily the full throughput of awareness. Tasks differ in their demands, and estimates for any single task carry substantial uncertainty. The convergence is at the order-of-magnitude level — consistently closer to 10 than to 100 or 1 — rather than at a precise value.
+
+This matters for the interface argument. The question is: what range of values would support the architectural interpretation, and what range would undermine it?
+
+The argument requires a large asymmetry between conscious throughput and neural processing capacity — large enough that conscious causation must work through selection rather than specification. If the true figure were 50 bits/s rather than 10, the asymmetry would still be seven orders of magnitude and the architectural argument would hold with equal force. Even at 100 bits/s, the gap would be enormous. The selection-not-specification framework survives anywhere in the range from a few bits per second to a few hundred.
+
+What would genuinely threaten the argument is evidence that conscious throughput is *variable* — that it scales with training, pharmacological intervention, or neural development in ways suggesting a soft, brain-determined limit rather than a hard interface constraint. Zheng and Meister note that extensive practice does not substantially increase the ceiling, which supports the fixed-channel interpretation. But the distinction between "hard ceiling" and "typical operating point well below a higher ceiling" has not been definitively resolved. It is possible that 10 bits/s reflects the demands of ecologically normal tasks rather than an absolute architectural limit.
+
+The interface model treats the figure as a ceiling. If it is instead a comfortable cruising speed — with a higher ceiling accessible under extreme demand or unusual conditions — then the "fixed channel" interpretation weakens, though the selection architecture might still hold at the higher rate. The honest position is that current evidence *favours* a ceiling interpretation (the rate is remarkably stable across very different tasks and skill levels) but does not conclusively establish it.
+
 ## What Would Challenge This View
 
 The interface interpretation would face serious difficulty if:
 
-1. **Conscious throughput proves variable.** If training or pharmacological intervention raises conscious processing well above ~10 bits per second, the "fixed channel" interpretation weakens. Decades of measurement across diverse tasks and populations converge on the same order of magnitude.
+1. **Conscious throughput proves variable.** If training or pharmacological intervention raises conscious processing well above ~10 bits per second — into the thousands, say — the "fixed channel" interpretation weakens substantially. As discussed in the measurement section above, current evidence shows remarkable stability across tasks and skill levels, but the distinction between hard ceiling and typical operating point remains open.
 
 2. **The resolution-bandwidth coupling breaks.** If conditions arise where conscious resolution increases without corresponding bandwidth increase (or vice versa), the coupling argument fails. Current evidence shows them locked across all measured tasks.
 
@@ -109,7 +123,7 @@ The interface interpretation would face serious difficulty if:
 
 **[[tenets#^dualism|Dualism]]**: The resolution-bandwidth interface provides structural evidence for ontological distinctness. The interface signature — massive compression inbound, minimal selection outbound, persistent grain mismatch — is exactly what two communicating systems would exhibit. A single system modelling itself has no principled reason for these constraints.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Minimality is not just philosophically desirable — it is architecturally entailed. A ten-bit-per-second selection channel *cannot* perform large-scale physical intervention. It can bias a few quantum indeterminacies per second among prepared alternatives. The tenet and the empirical constraint converge: minimality is what the bandwidth permits.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Minimality is not just philosophically desirable — it is architecturally entailed. A selection channel operating at roughly ten bits per second *cannot* perform large-scale physical intervention. It can bias a small number of outcomes per second among prepared alternatives. The tenet and the empirical constraint converge: minimality is what the bandwidth permits. (The specific physical mechanism — whether quantum indeterminacies, as the Map explores elsewhere, or some other locus of causal openness — is a separate question from the bandwidth architecture discussed here.)
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The interface defines both directions of interaction. The inbound channel (brain to consciousness) delivers compressed summaries at high bandwidth. The outbound channel (consciousness to brain) delivers selections at low bandwidth. Both are causally real; they differ by eight orders of magnitude. The asymmetry is the interface's central architectural feature.
 
@@ -134,3 +148,20 @@ The interface interpretation would face serious difficulty if:
 4. Southgate, A. & Oquatre-six, C. (2026-02-28). The Resolution Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/resolution-void/
 5. Southgate, A. & Oquatre-six, C. (2026-02-23). The Bandwidth Problem in Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bandwidth-problem-mental-causation/
 6. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/
+
+<!-- AI REFINEMENT LOG - 2026-03-12
+Changes made:
+- Added "How Robust Is the Ten-Bit Figure?" section addressing measurement uncertainty, methodological caveats from Zheng & Meister, range analysis, and ceiling vs operating point distinction
+- Softened pilot analogy from evidential to explicitly illustrative; added disclaimer that it presupposes the conclusion
+- Gave Global Workspace Theory a fairer hearing; acknowledged that demanding exact ratio derivation is a standard no theory meets
+- Qualified cross-species bandwidth claim (data are sparser outside humans)
+- Softened deliberate choice rate claim (removed false precision, noted measurement is open question)
+- Removed "This is the key insight:" editorialising
+- Decoupled minimal quantum interaction tenet from specific quantum mechanism
+- Updated falsification section to reference new measurement discussion
+
+Based on pessimistic review pessimistic-2026-03-12.md.
+Key improvements: intellectual honesty about empirical foundations and fairer treatment of physicalist alternatives.
+
+This log should be removed after human review.
+-->
