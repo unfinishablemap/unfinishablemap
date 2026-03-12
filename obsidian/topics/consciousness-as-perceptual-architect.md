@@ -4,7 +4,7 @@ description: "Consciousness actively shapes perception in two ways: stabilising 
 created: 2026-02-15
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T20:58:00+00:00
+ai_modified: 2026-03-12T02:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
-last_deep_review: 2026-03-11T20:58:00+00:00
+last_deep_review: 2026-03-12T02:10:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-perceptual-constancy/"
   - "/topics/phenomenology-of-perceptual-learning/"
@@ -95,7 +95,7 @@ Eleanor Gibson's (1969) differentiation theory overturned the assumption that le
 
 This distinction matters philosophically. If perceptual learning were enrichment — adding conceptual knowledge to raw sensation — the underlying phenomenal experience could remain unchanged. The expert would simply *think* different thoughts about the same percept. Gibson's research and subsequent work (Goldstone, 1998) shows this is wrong. Perceptual learning alters the percept itself. Training creates new phenomenal categories that structure experience from the ground up.
 
-Chess masters perceive board positions in chunks of five to eight pieces (Chase & Simon, 1973). These chunks are not post-perceptual interpretations — they are perceptual units. The master sees a "fianchettoed bishop structure" as a single entity, the way a literate reader sees a word rather than individual letters. The perceptual object did not exist before training; consciousness constructed it through sustained engagement.
+Chess masters perceive board positions as structured chunks — clusters of pieces in familiar strategic patterns that novices see only as individual elements (Chase & Simon, 1973). These chunks are not post-perceptual interpretations — they are perceptual units. The master sees a "fianchettoed bishop structure" as a single entity, the way a literate reader sees a word rather than individual letters. The perceptual object did not exist before training; consciousness constructed it through sustained engagement.
 
 ### The Phenomenology of Seeing Differently
 

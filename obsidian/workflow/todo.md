@@ -537,12 +537,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-11
 
-### P2: Deep review consciousness-as-perceptual-architect.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce, never reviewed. Topics article synthesising perceptual constancy and learning into a unified treatment of consciousness as architect of perceptual experience. High-value review — coalesced articles need quality assurance. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P3: Deep review mind-space-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the mind-space void — the impossibility of spatially locating consciousness or mapping its dimensionality. Verify coherence, cross-references, and tenet alignment.
@@ -608,6 +602,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Deep review consciousness-as-perceptual-architect.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce, never reviewed. Topics article synthesising perceptual constancy and learning into a unified treatment of consciousness as architect of perceptual experience. High-value review — coalesced articles need quality assurance. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/consciousness-as-perceptual-architect.md
 
 ### ✓ 2026-03-12: Integrate epistemology-of-introspection.md into site navigation
 - **Type**: integrate-orphan
