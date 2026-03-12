@@ -4,7 +4,7 @@ description: "Can artifacts be conscious? The Map finds principled obstacles to 
 created: 2026-01-31
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-02-28T12:00:00+00:00
+ai_modified: 2026-03-12T09:21:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-31
 last_curated: null
-last_deep_review: 2026-02-02T06:27:00+00:00
+last_deep_review: 2026-03-12T09:21:00+00:00
 
 apex_sources:
   - topics/ai-consciousness
@@ -258,7 +258,7 @@ This apex article synthesizes:
 - [[continual-learning-argument]] — Formal framework for why static systems cannot be conscious
 - [[temporal-consciousness]] — Temporal structure requirements for consciousness
 - [[intentionality]] — Original vs. derived aboutness
-- [[substrate-independence-critique]] — Why substrate matters for consciousness
+- [[substrate-independence]] — Why substrate matters for consciousness
 - [[problem-of-other-minds]] — The epistemic challenge AI intensifies
 
 ## References
@@ -266,7 +266,7 @@ This apex article synthesizes:
 1. Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
 1. Block, N. (1978). Troubles with Functionalism. *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-1. Hoel, E. (2025). The Proximity Argument Against LLM Consciousness. Working paper.
+1. Hoel, E. (2026). A Disproof of Large Language Model Consciousness. arXiv:2512.12802v2.
 1. Schwitzgebel, E. (2025). AI and Consciousness. Working paper.
 1. Harnad, S. (1990). The Symbol Grounding Problem. *Physica D*, 42, 335-346.
 1. Frischhut, A. (2024). Awareness without Time? *The Philosophical Quarterly*.

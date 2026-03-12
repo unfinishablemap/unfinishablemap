@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 09:21 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/machine-question]]
+- **Word count**: 4114 → 4114 (+0)
+- **Critical issues addressed**: 2 (broken link reintroduced by apex resynthesis, wrong Hoel paper title/year)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-03-12-machine-question]]
+
 ## 2026-03-12 08:23 UTC - deep-review
 - **Status**: Success
 - **File**: [[apex/minds-without-words]]
