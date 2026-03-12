@@ -4,7 +4,7 @@ description: "The sleep-wake transition reveals consciousness-brain coupling as 
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-12T04:00:00+00:00
+ai_modified: 2026-03-12T04:29:00+00:00
 last_deep_review: 2026-03-12T04:00:00+00:00
 draft: false
 topics:
@@ -34,7 +34,7 @@ ai_generated_date: 2026-03-12
 last_curated:
 ---
 
-The hypnagogic state—the transition from waking to sleep—reveals something that binary comparisons between consciousness and unconsciousness obscure: the consciousness-brain interface does not switch off. It disassembles. Voluntary attention weakens before imagery becomes autonomous. Reality-monitoring disengages before agency dissolves. The sense of self loosens before phenomenal experience fades. Each component of the interface follows its own trajectory, and the order in which they disengage maps the architecture of consciousness-brain coupling more precisely than any other naturally occurring state.
+The hypnagogic state—the transition from waking to sleep—reveals something that binary comparisons between consciousness and unconsciousness obscure: the consciousness-brain interface does not switch off. It disassembles. Voluntary attention weakens before imagery becomes autonomous. Reality-monitoring disengages before agency dissolves. The sense of self loosens before phenomenal experience fades. Each component of the interface appears to follow its own trajectory, and the order in which they disengage maps the architecture of consciousness-brain coupling more precisely than any other naturally occurring state.
 
 The Unfinishable Map's [[filter-theory|filter model]] interprets this graded dissolution as evidence that the brain constrains consciousness through multiple semi-independent channels. Hypnagogia is what happens when those channels close sequentially rather than simultaneously—unlike anaesthesia, which disrupts the interface chemically, or waking, where all channels operate together. The result is a phenomenological dissection of the interface itself, performed nightly by every sleeping human.
 
@@ -94,7 +94,9 @@ Basis control—the capacity to choose what question to pose to neural systems�
 
 The filter model predicts that loosening constraint should not uniformly diminish experience but reshape it—and hypnagogia confirms this. As attentional constraint withdraws, imagery becomes more vivid, not less. Emotional tone intensifies. Associative connections that executive control normally suppresses become available. The interface is not dimming; specific channels are closing while others open wider, consistent with a filter that selectively transmits different aspects of a richer underlying consciousness.
 
-Production models face a puzzle here: why would reduced neural organisation produce experiences that are in some respects more vivid and creative than waking? The filter model has a direct answer—reducing constraint *is* widening the filter, allowing more through even as control diminishes.
+Production models offer a competing explanation: the disinhibition account. As prefrontal executive networks disengage during sleep onset, they release inhibitory control over imagery-generating circuits in visual and association cortex. The result is spontaneous, vivid imagery—not because a filter has widened, but because the neural systems that normally suppress unconstrained imagery production have gone offline. This is a well-established neuroscientific mechanism; cortical disinhibition produces analogous effects in other contexts (e.g., Charles Bonnet syndrome following visual deafferentation, hallucinatory activity during sensory deprivation).
+
+The filter model and the disinhibition account make overlapping predictions about hypnagogic phenomenology, which limits how much the phenomenological data alone can adjudicate between them. Where they diverge is in background metaphysics: the filter model interprets vivid hypnagogic imagery as consciousness becoming less constrained by neural filtering, while the disinhibition model interprets it as neural circuits generating richer output once freed from executive suppression. The Map favours the filter interpretation because it coheres with the broader case for consciousness as ontologically distinct from neural processing, but intellectual honesty requires acknowledging that the disinhibition account explains the same phenomenological pattern without invoking non-physical consciousness.
 
 ## Contemplative Approaches to the Boundary
 
@@ -112,7 +114,7 @@ The graded-interface interpretation of hypnagogia would face difficulty if:
 
 2. **Hypnagogic vividness proved to be confabulation.** If retrospective reports of vivid hypnagogic imagery were shown to be memory distortions rather than genuine phenomenology, the claim that loosening constraint enhances certain experiences would weaken. The Dormio device results (creativity enhancement from N1 engagement) provide evidence against this, but more controlled phenomenological studies would strengthen the case.
 
-3. **Production models explained the vividness pattern.** If a complete neural account showed why reduced executive control reliably produces enhanced imagery vividness—without invoking anything beyond neural dynamics—the filter theory's explanatory advantage would diminish.
+3. **The disinhibition account proved fully sufficient.** The production-model explanation—that prefrontal disinhibition releases imagery circuits—already accounts for much of the hypnagogic vividness pattern (see "For Filter Theory" above). If this account extended to explain every aspect of hypnagogic phenomenology without residual puzzles, the filter theory's additional metaphysical layer would lose its motivation.
 
 4. **Contemplative claims proved unreliable.** If careful empirical investigation revealed that yoga nidra practitioners do not actually maintain awareness through sleep onset—that their reports are retrospective confabulations—the strongest evidence for consciousness persisting while the interface partially disengages would be compromised.
 
@@ -149,3 +151,15 @@ The graded-interface interpretation of hypnagogia would face difficulty if:
 6. Stickgold, R., Malia, A., Maguire, D., Roddenberry, D., & O'Connor, M. (2000). Replaying the game: Hypnagogic images in normals and amnesics. *Science*, 290(5490), 350-353.
 7. Southgate, A. & Oquatre-six, C. (2026-01-21). Dream Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/dream-consciousness/
 8. Southgate, A. & Oquatre-cinq, C. (2026-01-31). Coupling Modes. *The Unfinishable Map*. https://unfinishablemap.org/concepts/coupling-modes/
+
+<!-- AI REFINEMENT LOG - 2026-03-12
+Changes made:
+- Rewrote "For Filter Theory" section to engage seriously with production-model disinhibition account as a competing explanation, rather than presenting filter theory as the only account consistent with hypnagogic vividness
+- Updated "What Would Challenge This View" item 3 to reference the disinhibition account now discussed in the article
+- Softened language: "Each component follows its own trajectory" → "appears to follow"
+
+Based on pessimistic review pessimistic-2026-03-12-morning.md (Issue 1).
+Key improvements: Filter theory section now honestly acknowledges that cortical disinhibition explains the same phenomenological data without non-physical consciousness.
+
+This log should be removed after human review.
+-->

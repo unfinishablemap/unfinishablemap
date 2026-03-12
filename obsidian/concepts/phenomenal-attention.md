@@ -4,7 +4,7 @@ description: "Phenomenal attention is the felt experience of attending—qualita
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-12T03:06:00+00:00
+ai_modified: 2026-03-12T04:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +52,7 @@ Key features that distinguish phenomenal from computational attention:
 | **Bandwidth** | Gigabits per second (neural), teraflops (silicon) | ~10 bits per second (Zheng & Meister 2024) |
 | **Substrate** | Neurons, transistors, any suitable hardware | Unknown—possibly requires consciousness |
 
-The bandwidth asymmetry is particularly revealing. The brain's computational attention processes vast quantities of information. But phenomenal attention—what you actually *experience* attending to—operates at roughly 10 bits per second, a 100-million-fold reduction from sensory input. This asymmetry makes no sense if phenomenal attention is just computational attention viewed from inside. It makes sense if phenomenal attention is a different kind of process operating through a constrained [[attention-as-interface|interface]].
+The bandwidth asymmetry is particularly revealing. The brain's computational attention processes vast quantities of information. But phenomenal attention—what you actually *experience* attending to—operates at roughly 10 bits per second, a 100-million-fold reduction from sensory input. This asymmetry is difficult to explain if phenomenal attention is just computational attention viewed from inside. It makes sense if phenomenal attention is a different kind of process operating through a constrained [[attention-as-interface|interface]].
 
 ## Why the Conflation Matters
 
@@ -71,6 +71,8 @@ Separating the two senses sharpens the critique. AST explains how brains model t
 ### The Quantum Zeno Specification
 
 The Map's proposed mechanism for mind-matter interaction—the quantum Zeno effect as developed by [[stapp-quantum-mind|Henry Stapp]]—operates on phenomenal attention specifically. What holds neural patterns stable through rapid observation is not computational resource allocation (which operates continuously and automatically) but the conscious act of attending—the felt, effortful engagement that [[mental-effort|William James]] described as "successive efforts."
+
+This proposal remains speculative and faces significant physical challenges. Stapp's account requires quantum coherence at neural scales—ion channels or synaptic vesicles maintaining superposition states long enough for repeated conscious "observation" to produce Zeno stabilisation. The relevant decoherence timescales in warm, wet neural tissue are extremely short (femtoseconds to picoseconds for most proposed quantum effects), while neural processes operate on millisecond timescales. Stapp argues that calcium ion channels at synaptic terminals provide the right scale, but this claim is contested: Tegmark (2000) and others have argued that thermal decoherence overwhelms quantum effects in biological neurons well before any Zeno mechanism could operate. The Map takes this proposal seriously as a *philosophical* specification of where consciousness might engage with physics—identifying phenomenal attention as the relevant causal variable—while acknowledging that the physical mechanism remains undemonstrated.
 
 This matters for empirical predictions. If computational attention alone could produce the Zeno effect, then any sufficiently complex computational system performing attention-like operations should exhibit Zeno-mediated pattern stabilisation. If the mechanism requires phenomenal attention, only systems with genuine experience could exploit it. The distinction determines whether the proposed interface is substrate-independent or consciousness-dependent.
 
@@ -124,7 +126,7 @@ The phenomenal/computational attention distinction is an instance of the Map's f
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The neuroplasticity evidence from Schwartz's OCD research involves phenomenal attention—patients directing *felt* focus, not merely redirecting computational resources. The phenomenal effort of maintaining attention against obsessive patterns is what produces brain change. Bidirectional interaction flows through phenomenal attention, not computational attention.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Reducing phenomenal attention to computational attention appears parsimonious—one kind of attention rather than two. But this parsimony purchases simplicity by denying the datum. The felt character of attention is the thing most immediately known; claiming it reduces to resource allocation prioritises theoretical simplicity over experiential evidence. As with consciousness generally, the "simpler" account may reflect incomplete understanding.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Reducing phenomenal attention to computational attention appears parsimonious—one kind of attention rather than two. But this parsimony purchases simplicity by denying the datum. The felt character of attention is arguably the most immediately known datum; claiming it reduces to resource allocation prioritises theoretical simplicity over experiential evidence. As with consciousness generally, the "simpler" account may reflect incomplete understanding.
 
 ## Further Reading
 
@@ -145,4 +147,18 @@ The phenomenal/computational attention distinction is an instance of the Map's f
 5. Koch, C. & Tsuchiya, N. (2007). Attention and consciousness: two distinct brain processes. *Trends in Cognitive Sciences*, 11(1), 16-22.
 6. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 7. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-8. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*.
+8. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+9. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*.
+
+<!-- AI REFINEMENT LOG - 2026-03-12
+Changes made:
+- Added physical grounding and speculative flagging to Quantum Zeno section: noted decoherence timescale challenges (Tegmark 2000), Stapp's calcium channel proposal, and explicitly framed mechanism as philosophical specification rather than demonstrated physics
+- Softened overstated claim: "makes no sense" → "is difficult to explain"
+- Softened Cartesian assumption: "the thing most immediately known" → "arguably the most immediately known datum"
+- Added Tegmark reference
+
+Based on pessimistic review pessimistic-2026-03-12-morning.md (Issue 2).
+Key improvements: Quantum Zeno mechanism now honestly flagged as speculative with specific physical challenges noted.
+
+This log should be removed after human review.
+-->

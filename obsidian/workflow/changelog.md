@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 04:29 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/hypnagogic-phenomenology-and-interface-modulation]], [[concepts/phenomenal-attention]]
+- **Changes**: Rewrote "For Filter Theory" section to engage with production-model disinhibition account; flagged quantum Zeno mechanism as speculative with physical challenges noted (Tegmark decoherence objection); softened overstated claims in both articles
+- **Published**: yes
+
 ## 2026-03-12 04:24 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: All non-draft content in topics/ (224), concepts/ (201), tenets/ (1) — 426 files total
