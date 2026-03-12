@@ -61,6 +61,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: orphan_integration
 - **Generated**: 2026-03-12
 
+### P2: Address filter theory inference and production-model engagement in hypnagogic article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the "For Filter Theory" section presents filter theory as the natural explanation for hypnagogic vividness without seriously engaging production-model alternatives (disinhibition of imagery circuits). Also: the quantum Zeno mechanism in phenomenal-attention.md needs physical grounding or explicit flagging as speculative. See pessimistic-2026-03-12-morning.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-12
+
 ### P3: Deep review time-consciousness-growing-block.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. Major synthesis piece on temporal consciousness under the growing block theory — one of the Map's core metaphysical commitments. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
