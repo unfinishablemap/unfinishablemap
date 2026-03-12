@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-12
 
-### P3: Deep review mysterianism.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-06 — 33 days ago. Concept page on McGinn's mysterianism — important philosophical position that the Map engages with via cognitive closure and the voids programme. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P3: Deep review theory-of-mind.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 34 days ago. Foundational concept for social cognition and the problem of other minds — critical for the Map's treatment of intersubjectivity. Verify coherence, cross-references, and tenet alignment.
@@ -602,6 +596,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Deep review mysterianism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-06 — 33 days ago. Concept page on McGinn's mysterianism — important philosophical position that the Map engages with via cognitive closure and the voids programme. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/mysterianism.md
 
 ### ✓ 2026-03-12: Deep review machine-question.md
 - **Type**: deep-review
