@@ -72,7 +72,7 @@ The identity theorist will reply: perhaps synchronised activity just *is* phenom
 
 ### 2. Cross-Modal Binding {#cross-modal}
 
-Different sensory modalities process information in spatially separate cortical regions, at different speeds (vision ~50ms, audition ~10ms, touch ~15ms), using different neural codes. Yet when these modalities refer to the same external event — a hand clapping — you experience a single multimodal percept, not three parallel streams. See [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) for detailed analysis.
+Different sensory modalities process information in spatially separate cortical regions, at different speeds (vision ~50ms, audition ~20ms, touch ~20ms), using different neural codes. Yet when these modalities refer to the same external event — a hand clapping — you experience a single multimodal percept, not three parallel streams. See [Phenomenal Binding and Multimodal Integration](/topics/phenomenal-binding-and-multimodal-integration/) for the dedicated treatment and [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) for the mechanistic argument.
 
 **BP1 progress**: Superior colliculus multisensory neurons receive converging inputs from visual, auditory, and somatosensory pathways, showing supralinear responses to spatiotemporally congruent stimuli. The thalamus coordinates oscillatory activity across cortical regions. Global Workspace Theory proposes that sensory information binds through broadcasting to a shared cortical-thalamic system within a ~100ms integration window.
 
@@ -198,6 +198,7 @@ The systematic treatment of binding presented here rests on claims that could be
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on binding disruption
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — BP1 without BP2 during dreamless sleep
 - [downward-causation](/concepts/downward-causation/) — Top-down causation from phenomenal states to neural coordination
+- [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — Cross-modal binding as the hardest case: temporal recalibration, inverse effectiveness, and the unity of place
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's version of the binding puzzle
 
 ## References

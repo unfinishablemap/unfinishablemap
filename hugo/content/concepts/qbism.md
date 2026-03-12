@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-03-06 09:40:00+00:00
+ai_modified: 2026-03-12 05:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -134,6 +134,7 @@ Despite its limitations, QBism contributes several insights the Map affirms:
 ## Further Reading
 
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Survey of interpretations and their consciousness implications
+- [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — QBism evaluated alongside other interpretations for consciousness compatibility
 - [measurement-problem](/concepts/measurement-problem/) — The puzzle QBism claims to dissolve
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — How probability treatment reveals interpretive commitments
 - [relational-quantum-mechanics](/concepts/relational-quantum-mechanics/) — Another perspectival interpretation with different implications

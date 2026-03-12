@@ -174,6 +174,8 @@ What does survival require? As discussed in [death-and-consciousness](/topics/de
 
 **Uploading**: An uploaded mind would not be you. Functional identity isn't consciousness identity.
 
+**Cognitive enhancement**: If the brain is an interface rather than the seat of mind, radical enhancement modifies the channel through which consciousness operates without altering the conscious subject itself. This provides a stronger foundation for personal continuity through enhancement than materialism can offer—see [the ethics of cognitive enhancement](/topics/ethics-of-cognitive-enhancement-under-dualism/) for how this reframing reshapes bioethical questions about identity under modification.
+
 **Bodily death**: If consciousness is irreducible and the brain is interface rather than generator, brain death might alter how consciousness manifests without ending *this* consciousness (see [death-and-consciousness](/topics/death-and-consciousness/)).
 
 These conclusions follow from taking consciousness seriously as non-reducible and indexical identity as real.

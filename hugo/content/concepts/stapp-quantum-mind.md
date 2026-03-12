@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-11 08:03:00+00:00
+ai_modified: 2026-03-12 05:32:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -176,6 +176,7 @@ The model generates falsifiable predictions:
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical gap: why *this* consciousness selects *this* outcome
 - [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — Whether valence could extend the Zeno mechanism beyond value-neutral attention
 - [stapp-mental-effort-mind-matter-2026-01-14](/research/stapp-mental-effort-mind-matter-2026-01-14/) — Detailed research notes
+- [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — How Stapp's Zeno mechanism fits within the broader interpretive landscape
 
 ## References
 

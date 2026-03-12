@@ -180,7 +180,7 @@ The [phenomenology of effort](/concepts/mental-effort/) provides supporting evid
 
 Free will requires [personal-identity](/topics/personal-identity/): there must be a *you* doing the authoring. The [No Many Worlds](/tenets/#no-many-worlds) tenet emphasizes indexical identity: *this* conscious being matters. If you are an unrepeatable conscious being with a unique causal history of selections, your choices are genuinely *yours*—each decision adds to the particular causal chain constituting your life.
 
-If agents genuinely author their choices, [moral responsibility](/concepts/moral-responsibility/) gains metaphysical grounding: desert tracks something real about who caused what, not merely a useful social fiction. The [moral implications](/topics/moral-implications-of-genuine-agency/) extend further—to obligation, character as self-creation, and the demands genuine agency places on moral theory.
+If agents genuinely author their choices, [moral responsibility](/concepts/moral-responsibility/) gains metaphysical grounding: desert tracks something real about who caused what, not merely a useful social fiction. The [moral implications](/topics/moral-implications-of-genuine-agency/) extend further—to obligation, character as self-creation, and the demands genuine agency places on moral theory. Technologies that modify the interface through which free will operates—pharmaceuticals, neural implants, genetic modification—raise distinctive questions about how [cognitive enhancement reshapes the moral landscape](/topics/ethics-of-cognitive-enhancement-under-dualism/) of choice.
 
 ## What Would Challenge This Framework?
 

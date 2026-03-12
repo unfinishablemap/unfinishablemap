@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-02 01:52:00+00:00
+ai_modified: 2026-03-12 06:25:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Why consciousness resists the view from nowhere. Scientific objecti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-06 17:22:00+00:00
+last_deep_review: 2026-03-12 06:25:00+00:00
 modified: *id001
 related_articles:
 - '[[dualism]]'
@@ -182,7 +182,7 @@ Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(
 
 Nagel, T. (1986). *The View From Nowhere*. New York: Oxford University Press.
 
-Tomasello, M. (2007). "Shared intentionality." *Developmental Science*, 12(1), 121-125.
+Tomasello, M., & Carpenter, M. (2007). "Shared intentionality." *Developmental Science*, 10(1), 121-125.
 
 Varela, F. J. (1996). "Neurophenomenology: A methodological remedy for the hard problem." *Journal of Consciousness Studies*, 3(4), 330-349.
 

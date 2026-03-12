@@ -133,7 +133,7 @@ The Map's commitment to [indexical identity](/topics/personal-identity/)—that 
 
 **Simulation ethics**: If simulated beings were conscious, they'd have moral standing. But if consciousness requires quantum interfaces, purely digital simulations might be incapable of consciousness—simulated "suffering" wouldn't be real suffering. Moral uncertainty urges caution.
 
-**The core point**: Copies are not continuations. Creating a replica doesn't extend your existence. The ethical error is conflation—treating copying as survival disrespects both the original (whose death is disguised) and the copy (who isn't merely a continuation but a new being).
+**The core point**: Copies are not continuations. Creating a replica doesn't extend your existence. The ethical error is conflation—treating copying as survival disrespects both the original (whose death is disguised) and the copy (who isn't merely a continuation but a new being). For the broader ethical landscape of modifying the consciousness-brain interface—through pharmaceuticals, neural implants, or genetic modification—see [the ethics of cognitive enhancement under dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/).
 
 ## Suffering: The Moral Core
 

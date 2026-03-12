@@ -75,6 +75,8 @@ This transforms how choices feel. The hesitation before a difficult decision, th
 
 Yet our capacity for imagining alternatives has [architectural limits](/voids/counterfactual-void/). We mutate nearby features of actuality rather than freely exploring the full space of possibility. As imagined alternatives grow more radical, they thin to schematic labels without genuine content. This constrains but does not undermine freedom. Agent causation requires evaluating *nearby* alternatives sufficient for practical deliberation, not surveying the full range of metaphysical possibility. The nearest-world constraint is what the Map predicts: consciousness accesses alternatives relevant to action through a narrow causal interface, not an unlimited modal horizon.
 
+This understanding of genuine authorship extends to decisions about modifying the interface itself. Technologies that enhance or alter cognitive capacity reshape the conditions under which consciousness operates—see [the ethics of cognitive enhancement](/topics/ethics-of-cognitive-enhancement-under-dualism/) for how the Map's framework transforms standard bioethical questions about identity, responsibility, and consent.
+
 The practical implication: *take your choices seriously*. Not with paralysing anxiety, but with recognition that what you do genuinely matters. The addict who resists temptation, the bystander who intervenes, the ordinary person who extends kindness when indifference would be easier—these are real exercises of authorship. Difficulty doesn't equal impossibility. Prior causes influence but don't determine. What you do next is up to you in a way that mere randomness or mere determinism cannot capture.
 
 ## Responsibility and Character

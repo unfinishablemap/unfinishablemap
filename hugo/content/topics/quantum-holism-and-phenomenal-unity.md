@@ -198,6 +198,7 @@ The Map holds that current evidence favours the quantum position while acknowled
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Phenomenal unity, its varieties, and why it resists physical explanation
 - [binding-problem](/concepts/binding-problem/) — The neural challenge of feature binding (BP1 and BP2)
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — Comprehensive taxonomy of five binding varieties
+- [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — Cross-modal binding as the hardest case, with empirical phenomena (temporal recalibration, inverse effectiveness) that resist classical explanation
 - [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/) — Why classical mechanisms fail and quantum mechanisms may succeed
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gulf between physical and phenomenal

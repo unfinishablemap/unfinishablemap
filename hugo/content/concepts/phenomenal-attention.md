@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-03-12 04:29:00+00:00
+ai_modified: 2026-03-12 05:27:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,6 +12,8 @@ concepts:
 - '[[illusionism]]'
 - '[[concepts/functionalism]]'
 - '[[interactionist-dualism]]'
+- '[[blindsight]]'
+- '[[phenomenal-overflow]]'
 created: 2026-03-12
 date: &id001 2026-03-12
 description: Phenomenal attention is the felt experience of attending—qualitatively
@@ -20,6 +22,7 @@ description: Phenomenal attention is the felt experience of attending—qualitat
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-03-12 05:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,9 +86,9 @@ This matters for empirical predictions. If computational attention alone could p
 
 Attention and consciousness dissociate in both directions, and these dissociations map differently onto the two senses of attention.
 
-**Computational attention without phenomenal attention**: Blindsight patients orient toward stimuli they deny seeing. Their brains perform computational attention—selecting and enhancing signals from the "blind" field—without phenomenal attention to those stimuli. The computational process runs; the experience does not accompany it.
+**Computational attention without phenomenal attention**: [Blindsight](/concepts/blindsight/) patients orient toward stimuli they deny seeing. Their brains perform computational attention—selecting and enhancing signals from the "blind" field—without phenomenal attention to those stimuli. The computational process runs; the experience does not accompany it.
 
-**Phenomenal attention without focused computational attention**: Peripheral awareness demonstrates consciousness of stimuli receiving minimal computational processing. Ned Block's analysis of iconic memory experiments showed subjects seeing all letters in a display while reporting only 3-4—[consciousness overflowing](/concepts/attention-as-interface/) the computational bottleneck. You phenomenally attend to more than you computationally process.
+**Phenomenal attention without focused computational attention**: Peripheral awareness demonstrates consciousness of stimuli receiving minimal computational processing. Ned Block's analysis of iconic memory experiments showed subjects seeing all letters in a display while reporting only 3-4—[consciousness overflowing](/concepts/phenomenal-overflow/) the computational bottleneck. You phenomenally attend to more than you computationally process.
 
 **Willed versus automatic computational attention**: The [willed/instructed distinction](/concepts/attention-as-interface/) provides neural evidence. Willed attention—internally initiated, accompanied by strong phenomenal effort—produces frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment absent in instructed (externally cued) attention. Both are computational attention; only willed attention involves the full phenomenal engagement. The additional neural signatures mark where phenomenal attention contributes something beyond the computational process.
 
@@ -152,16 +155,3 @@ The phenomenal/computational attention distinction is an instance of the Map's f
 7. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 8. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 9. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*.
-
-<!-- AI REFINEMENT LOG - 2026-03-12
-Changes made:
-- Added physical grounding and speculative flagging to Quantum Zeno section: noted decoherence timescale challenges (Tegmark 2000), Stapp's calcium channel proposal, and explicitly framed mechanism as philosophical specification rather than demonstrated physics
-- Softened overstated claim: "makes no sense" → "is difficult to explain"
-- Softened Cartesian assumption: "the thing most immediately known" → "arguably the most immediately known datum"
-- Added Tegmark reference
-
-Based on pessimistic review pessimistic-2026-03-12-morning.md (Issue 2).
-Key improvements: Quantum Zeno mechanism now honestly flagged as speculative with specific physical challenges noted.
-
-This log should be removed after human review.
--->

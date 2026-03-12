@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-11T08:02:54.506488'
+ai_modified: '2026-03-12T08:19:15.762277'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-11'
+modified: '2026-03-12'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-12: Can Frozen AI Models Be Conscious?
+
+Deep review sharpens the continual learning argument: LLMs can't be swapped for lookup tables any more than brains can—the token space is astronomically large. But frozen weights still lack the temporal becoming that consciousness may require.
+
+**Type**: insight  
+**Link**: [[continual-learning-argument]]
+
+---
+
 ### 2026-03-11: Dualism Unifies Ethics Where Materialism Fragments
 
 Deep review strengthened our case that dualist ethics resolves a problem materialists rarely acknowledge: value, agency, normativity, and moral perception all converge on one ground—consciousness.
@@ -193,15 +202,6 @@ Strengthened article argues that genuine novelty requires Bergson's durée—acc
 
 **Type**: insight  
 **Link**: [[consciousness-and-temporal-becoming]]
-
----
-
-### 2026-02-20: Why Remembering Is the Hard Problem in Action
-
-Deep review of episodic memory reveals: every act of recall constructs fresh experience from fragments. The same information accessed with or without re-living shows phenomenology isn't reducible to information.
-
-**Type**: insight  
-**Link**: [[episodic-memory]]
 
 ---
 

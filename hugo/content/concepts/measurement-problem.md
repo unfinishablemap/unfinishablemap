@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-11 10:02:00+00:00
+ai_modified: 2026-03-12 05:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -222,6 +222,7 @@ The measurement problem is central to the Map's framework. It provides the *perm
 - [consciousness-in-non-collapsed-quantum-states](/concepts/consciousness-in-non-collapsed-quantum-states/) — The pre-collapse phase and the definiteness constraint
 - [decoherence](/concepts/decoherence/) — What decoherence does and doesn't explain
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and consciousness-modulated collapse
+- [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — comparative assessment of interpretations' consciousness compatibility
 - [self-stultification](/concepts/self-stultification/) — Why epiphenomenalism undermines its own epistemic basis
 - [interactionist-dualism](/concepts/interactionist-dualism/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/) — The broader framework
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/), [interface-locality](/concepts/brain-interface-boundary/), [prebiotic-collapse](/concepts/prebiotic-collapse/) — How the Map resolves coordination puzzles

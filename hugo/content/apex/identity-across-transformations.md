@@ -108,6 +108,8 @@ However, filter theory's explanatory scope is also its vulnerability. Every patt
 
 Yet through all these transformations, something persists as the subject. The meditator who reports ego dissolution is still *that* meditator reporting—the one who entered the state and will exit it.
 
+Deliberate interface reconfiguration through [cognitive enhancement](/topics/ethics-of-cognitive-enhancement-under-dualism/)—pharmaceuticals, neural implants, genetic modification—poses the transformation question in its sharpest form. Enhancement modifies the channel through which consciousness operates, potentially altering experiential character so dramatically that phenomenological continuity strains even as indexical identity persists.
+
 [Witness consciousness](/concepts/witness-consciousness/) is particularly relevant. Advanced contemplatives describe a mode where the ordinary sense of self is observed rather than identified with. Thoughts, emotions, and sensations arise and pass; the witness remains stable. This suggests consciousness has a structure: contents that change and a witnessing awareness that persists through changing contents.
 
 If what you fundamentally are is this witnessing awareness—rather than any particular content—then dramatic transformations of content needn't threaten identity. You can experience ego dissolution while remaining *you*, the witness of dissolution. The Buddhist *anattā* doctrine complicates this picture significantly. Advanced practitioners in most Buddhist traditions report that the witness *also* dissolves—there is no stable observer, only observation. Some traditions (Advaita Vedānta, certain Dzogchen lineages) do posit an irreducible witnessing awareness; mainstream Buddhist Madhyamaka denies it.

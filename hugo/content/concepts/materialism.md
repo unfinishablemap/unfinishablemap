@@ -76,7 +76,7 @@ The problem: eliminativism seems to deny the obvious. There is [something it is 
 
 [Illusionism](/concepts/illusionism/) holds that consciousness exists but not as we conceive it. Dennett and Frankish argue we have a systematic illusion of rich [qualitative experience](/concepts/qualia/)—what exists is just information processing that represents itself as having qualitative properties.
 
-The problem: illusionism trades the hard problem for the "illusion problem"—explaining why we so powerfully believe we're phenomenally conscious when we're not. All illusions presuppose experience; being under an illusion about qualia still involves *something it is like* to have that illusion. The problem reappears at each level of analysis.
+The problem: illusionism trades the hard problem for the "illusion problem"—explaining why we so powerfully believe we're phenomenally conscious when we're not. All illusions presuppose experience; being under an illusion about qualia still involves *something it is like* to have that illusion. The problem reappears at each level of analysis. Moreover, illusionism [converges structurally with epiphenomenalism](/concepts/illusionism-as-epiphenomenalism-in-disguise/)—both render phenomenal properties causally idle, inheriting the same self-stultification problem.
 
 See [illusionism](/concepts/illusionism/) for detailed treatment.
 

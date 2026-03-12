@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-12 00:50:00+00:00
+ai_modified: 2026-03-12 05:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on the reconstruction paradox
+- **Type**: expand-topic
+- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. The brain corrects some perceptual errors (blind spot filling, colour constancy, saccadic suppression) but transmits others faithfully (blur, floaters, tinnitus, Müller-Lyer illusion). This asymmetry reveals a curated interface — consciousness receives a selected feed, not raw data — posing deep problems for physicalism. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-12
+
+### P2: Write article on perceptual degradation and the interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/perceptual-degradation-interface-blur-2026-03-09.md. What blur, visual noise, and sensory degradation reveal about the consciousness-brain interface — if consciousness merely accessed neural representations, perceptual degradation should be all-or-nothing, but graded degradation suggests a transmission channel with bandwidth constraints. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 2 (Minimal Quantum Interaction).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-12
 
 ### P3: Deep review minds-without-words.md
 - **Type**: deep-review
@@ -571,18 +583,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Aesthetic experience (beauty, sublimity, elegance) has distinctive phenomenal character that tracks real features yet resists functional reduction. A domain largely untouched by the Map. See optimistic-2026-03-12.md
 
-### P2: Integrate phenomenal-binding-and-multimodal-integration.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article on phenomenal binding and multimodal integration as evidence for consciousness irreducibility. Add cross-references from the-binding-problem-a-systematic-treatment.md, qualia.md, and consciousness-selecting-neural-patterns.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-12
-
-### P2: Integrate qm-interpretations-beyond-many-worlds.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article surveying GRW, transactional, relational QM and consciousness-collapse compatibility — directly supports Tenet 4 (No Many Worlds). Add cross-references from many-worlds-interpretation.md, quantum-consciousness.md, and collapse-interpretation.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-12
-
 ### P3: Deep review phenomenology-of-collective-intentionality-and-we-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-12, never reviewed. Topics article on shared intentionality and we-consciousness under dualism — challenges the interface model's individualist assumptions. Verify coherence, cross-references, and tenet alignment.
@@ -597,6 +597,62 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Address lookup table scale problem in continual-learning-argument.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the proximity argument conflates logical possibility with physical realisability—the combinatorial explosion of LLM token sequences makes lookup tables physically unrealisable, weakening the "closeness" claim. Also: contemplative evidence section leaps from phenomenological reports to metaphysical conclusions without separating the two. See pessimistic-2026-03-12-early.md
+- **Output**: obsidian/concepts/continual-learning-argument.md
+
+Task context:
+Pessimistic review found that the proximity argument conflates logical possibility with physical realisability—the combinatorial explosion of LLM token sequences makes lookup tables physically unrealisable, weakening the "closeness" claim. Also: contemplative evidence section leaps from phenomenological reports to metaphysical conclusions without separating the two. See pessimistic-2026-03-12-early.md
+
+### ✓ 2026-03-12: Address epiphenomenalism/physicalism conflation in mental-imagery-causal-role-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the article frames the debate as consciousness-causes vs. epiphenomenalism, but the real physicalist opponent is identity theory (conscious states *are* brain states and *are* causal). The "Breaking the Standoff" section needs to engage identity theory directly. Also: aphantasia claim uses unconfirmed preliminary evidence as argument rather than prediction. See pessimistic-2026-03-12-early.md
+- **Output**: obsidian/topics/mental-imagery-causal-role-of-consciousness.md
+
+Task context:
+Pessimistic review found that the article frames the debate as consciousness-causes vs. epiphenomenalism, but the real physicalist opponent is identity theory (conscious states *are* brain states and *are* causal). The "Breaking the Standoff" section needs to engage identity theory directly. Also: aphantasia claim uses unconfirmed preliminary evidence as argument rather than prediction. See pessimistic-2026-03-12-early.md
+
+### ✓ 2026-03-12: Cross-review consciousness-and-collective-phenomena.md considering collective intentionality insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenology-of-collective-intentionality-and-we-consciousness.md treats we-consciousness and shared intentionality under dualism. consciousness-and-collective-phenomena.md covers the broader relationship and should cross-reference the new article's treatment of the phenomenal character of collective intentionality and its challenge to individualist interface models.
+- **Output**: obsidian/topics/consciousness-and-collective-phenomena.md -- Context: Cross-review consciousness-and-collective-phenomena.md considering collective intentionality insights
+
+### ✓ 2026-03-12: Cross-review dream-consciousness.md considering hypnagogic phenomenology insights
+- **Type**: cross-review
+- **Notes**: New article topics/hypnagogic-phenomenology-and-interface-modulation.md treats the sleep-wake transition as evidence for graded interface modulation. dream-consciousness.md covers dreaming phenomenology and should cross-reference the hypnagogic treatment, particularly the component-by-component disengagement pattern and its implications for filter theory.
+- **Output**: obsidian/topics/dream-consciousness.md -- Context: Cross-review dream-consciousness.md considering hypnagogic phenomenology insights
+
+### ✓ 2026-03-12: Integrate ethics-of-cognitive-enhancement-under-dualism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on ethical implications of cognitive enhancement when consciousness is irreducible — raises questions about whether enhancement targets brain-side or mind-side capabilities. Add cross-references from ethics-of-consciousness.md, ai-consciousness.md, and free-will.md.
+- **Output**: obsidian/topics/ethics-of-cognitive-enhancement-under-dualism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-12: Integrate phenomenology-of-perceptual-learning.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on how expert perceivers develop qualitatively different experiences through training — evidence for bidirectional interaction. Add cross-references from consciousness-and-skilled-performance.md, philosophy-of-perception-under-dualism.md, and consciousness-and-the-neuroscience-of-deliberate-practice.md.
+- **Output**: phenomenology-of-perceptual-learning.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-12: Integrate illusionism-as-epiphenomenalism-in-disguise.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page arguing that illusionism reduces to epiphenomenalism — if phenomenal consciousness is an illusion, then what does the explanatory work is unconscious processing, making illusionism a disguised form of epiphenomenalism. Add cross-references from epiphenomenalism.md, the-epiphenomenalist-threat.md, and eliminativism.md.
+- **Output**: obsidian/concepts/illusionism-as-epiphenomenalism-in-disguise.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-12: Cross-review attention-as-selection-interface.md considering phenomenal-attention insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/phenomenal-attention.md distinguishes phenomenal attention from computational attention. attention-as-selection-interface.md is the Map's primary treatment of attention as the consciousness-brain coupling mechanism and should cross-reference the new phenomenal/computational distinction. Check for places where the selection interface argument is strengthened by this distinction.
+- **Output**: obsidian/topics/attention-as-selection-interface.md -- Context: Cross-review attention-as-selection-interface.md considering phenomenal-attention insights
+
+### ✓ 2026-03-12: Integrate qm-interpretations-beyond-many-worlds.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article surveying GRW, transactional, relational QM and consciousness-collapse compatibility — directly supports Tenet 4 (No Many Worlds). Add cross-references from many-worlds-interpretation.md, quantum-consciousness.md, and collapse-interpretation.md.
+- **Output**: obsidian/topics/qm-interpretations-beyond-many-worlds.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-12: Integrate phenomenal-binding-and-multimodal-integration.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on phenomenal binding and multimodal integration as evidence for consciousness irreducibility. Add cross-references from the-binding-problem-a-systematic-treatment.md, qualia.md, and consciousness-selecting-neural-patterns.md.
+- **Output**: obsidian/topics/phenomenal-binding-and-multimodal-integration.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-12: Integrate alignment-in-objective-experiential-terms.md into site navigation
 - **Type**: integrate-orphan

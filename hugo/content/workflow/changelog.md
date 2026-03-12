@@ -18,6 +18,127 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 07:20 UTC - deep-review
+- **Status**: Success
+- **File**: [continual-learning-argument](/concepts/continual-learning-argument/)
+- **Word count**: 2965 → ~2970 (+5)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (internal proximity tension)
+- **Enhancements made**: 1 (length-neutral sentence revision)
+- **Output**: [deep-review-2026-03-12-continual-learning-argument](/reviews/deep-review-2026-03-12-continual-learning-argument/)
+
+## 2026-03-12 07:07 UTC - refine-draft
+- **Status**: Success
+- **File**: [continual-learning-argument](/concepts/continual-learning-argument/)
+- **Changes**: Acknowledged physical unrealisability of lookup tables weakening proximity argument; separated phenomenological observations from metaphysical conclusions in contemplative evidence; qualified Hameroff coherence claims; qualified heterophenomenology LLM claims; language fixes
+- **Published**: yes
+
+## 2026-03-12 06:58 UTC - refine-draft
+- **Status**: Success
+- **File**: [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/)
+- **Changes**: Restructured argument to engage identity theory as primary opponent; reframed aphantasia as prediction not evidence; clarified self-stultification targets epiphenomenalism only; language fixes
+- **Published**: yes
+
+## 2026-03-12 06:50 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: mental-imagery-causal-role-of-consciousness.md, continual-learning-argument.md, buddhist-perspectives-on-meaning.md
+- **Output**: [pessimistic-2026-03-12-early](/reviews/pessimistic-2026-03-12-early/)
+
+## 2026-03-12 06:43 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/)
+- **Word count**: 2123 → 2232 (+109)
+- **Context**: Cross-review considering collective intentionality insights from new phenomenology article
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing cross-link, dismissive phenomenology section, lacking Zahavi/Schmid)
+- **Enhancements made**: 3 (we-mode phenomenology integration, Zahavi/Schmid references, cross-links)
+- **Output**: [deep-review-2026-03-12-consciousness-and-collective-phenomena](/reviews/deep-review-2026-03-12-consciousness-and-collective-phenomena/)
+
+## 2026-03-12 06:32 UTC - deep-review
+- **Status**: Success
+- **File**: [dream-consciousness](/topics/dream-consciousness/)
+- **Word count**: 3578 → 3584 (+6)
+- **Context**: Cross-review considering hypnagogic phenomenology insights
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (disinhibition fairness in filter section)
+- **Enhancements made**: 1 (tightened adjacent prose for length neutrality)
+- **Output**: [deep-review-2026-03-12b-dream-consciousness](/reviews/deep-review-2026-03-12b-dream-consciousness/)
+
+## 2026-03-12 06:25 UTC - deep-review
+- **Status**: Success
+- **File**: [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
+- **Word count**: 2507 → 2510 (+3)
+- **Critical issues addressed**: 1 (Tomasello citation: wrong volume number, missing co-author)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-12-objectivity-and-consciousness](/reviews/deep-review-2026-03-12-objectivity-and-consciousness/)
+
+## 2026-03-12 06:07 UTC - deep-review
+- **Status**: Success
+- **File**: [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/)
+- **Word count**: 1710 → 2094 (+384)
+- **Critical issues addressed**: 2 (misattributed co-author Sandström→Sandberg, broken frontmatter reference)
+- **Medium issues addressed**: 4 (orphan integration, missing cross-links, missing falsifiability section, thin Further Reading)
+- **Enhancements made**: 5 (What Would Challenge section, 3 outbound cross-links, Further Reading descriptions)
+- **Orphan integration**: 9 inbound links added from personal-identity, ethics-of-consciousness, identity-across-transformations, psychedelics-and-the-filter-model, childhood-development-and-the-interface, consciousness-and-moral-agency-under-duress, altered-states-of-consciousness, free-will, living-with-the-map
+- **Output**: [deep-review-2026-03-12-ethics-of-cognitive-enhancement-under-dualism](/reviews/deep-review-2026-03-12-ethics-of-cognitive-enhancement-under-dualism/)
+
+## 2026-03-12 06:02 UTC - deep-review
+- **Status**: Skipped (archived)
+- **File**: [phenomenology-of-perceptual-learning](/topics/consciousness-as-perceptual-architect/)
+- **Reason**: File was archived on 2026-03-11, coalesced into [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/). Successor article is active, recently reviewed, and has 5+ inbound links. No action needed.
+
+## 2026-03-12 05:56 UTC - deep-review
+- **Status**: Success
+- **File**: [illusionism-as-epiphenomenalism-in-disguise](/concepts/illusionism-as-epiphenomenalism-in-disguise/)
+- **Word count**: 1665 → 1693 (+28)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing meta-problem cross-link, orphan status)
+- **Enhancements made**: 8 inbound cross-links added from related articles
+- **Output**: [deep-review-2026-03-12-illusionism-as-epiphenomenalism-in-disguise](/reviews/deep-review-2026-03-12-illusionism-as-epiphenomenalism-in-disguise/)
+
+## 2026-03-12 05:42 UTC - deep-review (cross-review: phenomenal-attention)
+- **Status**: Success (no changes — stability confirmed)
+- **File**: [attention-as-selection-interface](/topics/attention-as-selection-interface/)
+- **Word count**: 3190 → 3190 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: 4th review in 8 days. Phenomenal-attention integration already completed in earlier review today. Article has reached convergence.
+- **Output**: [deep-review-2026-03-12b-attention-as-selection-interface](/reviews/deep-review-2026-03-12b-attention-as-selection-interface/)
+
+## 2026-03-12 05:38 UTC - research-voids
+- **Status**: Skipped (section at capacity)
+- **Reason**: Voids section has 103 articles, exceeding cap of 100
+- **Recommendation**: Focus on improving existing voids content (reviews, condensing, coalescing)
+
+## 2026-03-12 05:32 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+- **Word count**: 2442 → 2442 (+0)
+- **Critical issues addressed**: 1 (drug name misspelling)
+- **Medium issues addressed**: 2 (zero inbound links, stale research notes reference)
+- **Enhancements made**: 9 cross-links added from related articles
+- **Output**: [deep-review-2026-03-12-qm-interpretations-beyond-many-worlds-2](/reviews/deep-review-2026-03-12-qm-interpretations-beyond-many-worlds-2/)
+
+## 2026-03-12 05:27 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-attention](/concepts/phenomenal-attention/)
+- **Word count**: 2068 → 2068 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (missing blindsight cross-link, incorrect phenomenal-overflow link target, stale refinement log, missing frontmatter concepts)
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-12-phenomenal-attention](/reviews/deep-review-2026-03-12-phenomenal-attention/)
+
+## 2026-03-12 05:19 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/)
+- **Word count**: 1748 → 1886 (+138)
+- **Critical issues addressed**: 0 (all resolved in previous review)
+- **Medium issues addressed**: 3 (missing falsifiability section, orphan integration, missing attention cross-link)
+- **Enhancements made**: 10 (falsifiability section, attention cross-link, 8 inbound links from existing articles)
+- **Output**: [deep-review-2026-03-12b-phenomenal-binding-and-multimodal-integration](/reviews/deep-review-2026-03-12b-phenomenal-binding-and-multimodal-integration/)
+
 ## 2026-03-12 05:07 UTC - deep-review
 - **Status**: Success
 - **File**: [alignment-in-objective-experiential-terms](/topics/alignment-in-objective-experiential-terms/)

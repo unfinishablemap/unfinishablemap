@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-11 16:46:00+00:00
+ai_modified: 2026-03-12 05:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -185,6 +185,7 @@ The Map rejects this trade-off. Understanding consciousness as causally efficaci
 ## Further Reading
 
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Survey of interpretations and their consciousness implications
+- [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Comparative assessment including RQM's role in the interpretive landscape
 - [many-worlds](/concepts/many-worlds/) — The interpretation both RQM and the Map reject, for different reasons
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — How the Map handles multiple conscious observers
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why consciousness can only affect its own brain

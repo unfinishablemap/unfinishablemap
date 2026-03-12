@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-03-04 16:07:00+00:00
+ai_modified: 2026-03-12 05:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -124,6 +124,7 @@ The model also faces honest difficulties. IIT's measure of integrated informatio
 - [free-will](/topics/free-will/) — how stochastic collapse enables libertarian free will
 - [agent-causation](/concepts/agent-causation/) — the causal power consciousness exercises at quantum events
 - [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — why the measurement problem is philosophical, not merely technical
+- [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — comparative survey of interpretations and consciousness compatibility
 
 ## References
 

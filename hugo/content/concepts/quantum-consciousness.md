@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-03-11 08:03:00+00:00
+ai_modified: 2026-03-12 05:32:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -224,6 +224,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI
 - [mental-causation](/concepts/mental-causation/) — The exclusion problem
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse creates the quantum opening
+- [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Which interpretations leave room for consciousness as causal participant
 - [quantum-biology](/concepts/quantum-biology/) — Evolution exploiting quantum effects
 
 ## References
