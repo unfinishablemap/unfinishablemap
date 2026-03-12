@@ -573,6 +573,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-12
 
+### P3: Deep review computational-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-31 — 40 days ago. Voids article on computational cognitive limits — the boundary where computation fails to capture conscious processing. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
+
+### P3: Deep review collective-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 39 days ago. Voids article on the limits of collective cognition — how group-level epistemic constraints interact with individual consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
+
 ### P3: Deep review psychophysical-laws-bridging-mind-and-matter.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-08 — 32 days ago. Topics article on psychophysical laws directly relevant to Tenet 3 (Bidirectional Interaction) — the specification of mind-matter bridging laws is central to the Map's framework. Verify coherence, cross-references, and tenet alignment.
