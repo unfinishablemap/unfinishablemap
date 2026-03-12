@@ -62,7 +62,7 @@ MWI says this question is malformed. Both post-measurement persons are equally c
 
 This doesn't match the phenomenology. Right now, you anticipate having one definite future experience, not multiple incompatible ones. The felt reality of being *this* observer expecting *one* outcome suggests a [[haecceity|haecceitistic]] truth about which branch is yours—something MWI cannot accommodate.
 
-MWI defenders invoke self-locating uncertainty: you should be uncertain which branch you'll find yourself in. But self-locating uncertainty normally involves a single world with indexically uncertain facts. On MWI, there's no fact to be uncertain about—both outcomes are equally real, and "you" end up in both.
+MWI defenders invoke self-locating uncertainty: you should be uncertain which branch you'll find yourself in. But as [[indexical-knowledge-and-identity|indexical knowledge]] analysis shows, self-locating uncertainty normally involves a single world with indexically uncertain facts. On MWI, there's no fact to be uncertain about—both outcomes are equally real, and "you" end up in both.
 
 ### 3. The Probability Problem
 
@@ -172,6 +172,7 @@ Alternative interpretations—particularly [[collapse-and-time|time-symmetric]] 
 - [[illusionism]] — The strongest physicalist challenge and why it doesn't help MWI
 - [[probability-problem-in-many-worlds]] — Full survey of MWI's probability crisis with all three recovery strategies
 - [[quantum-probability-consciousness]] — How probability connects to consciousness across interpretations
+- [[indexical-knowledge-and-identity]] — Why self-locating knowledge creates problems for branching interpretations
 - [[indexical-identity-quantum-measurement]] — Why indexical identity matters for quantum measurement
 - [[decoherence]] — What decoherence does and doesn't explain
 - [[personal-identity]] — Why identity questions matter for MWI critique

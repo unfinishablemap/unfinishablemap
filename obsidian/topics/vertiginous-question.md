@@ -83,7 +83,7 @@ The Unfinishable Map's [[tenets]] provide resources for taking the vertiginous q
 
 ## Self-Locating Beliefs and Their Limits
 
-Epistemologists distinguish self-locating beliefs (beliefs about where/who you are in the world) from ordinary beliefs (beliefs about what the world is like). David Lewis's "Two Gods" scenario illustrates: two omniscient gods might know all qualitative facts about the universe yet each be uncertain which god they are. Self-locating knowledge is distinct from qualitative knowledge.
+Epistemologists distinguish self-locating beliefs (beliefs about where/who you are in the world) from ordinary beliefs (beliefs about what the world is like). David Lewis's "Two Gods" scenario illustrates: two omniscient gods might know all qualitative facts about the universe yet each be uncertain which god they are. [[indexical-knowledge-and-identity|Indexical knowledge]]—knowledge expressible only through "I," "here," "now"—is distinct from qualitative knowledge, and self-locating knowledge is its strongest form.
 
 This has implications for the vertiginous question. Even knowing all third-person facts about reality, you might not know *which* conscious being you are. The first-person fact—"I am this one"—seems to add something to the qualitative facts.
 
@@ -149,6 +149,7 @@ The vertiginous question connects to all five tenets:
 - [[philosophical-zombies]] — Why qualitative identity doesn't guarantee conscious identity
 - [[hard-problem-of-consciousness]] — The broader context for consciousness problems
 - [[process-haecceitism]] — Haecceity applied to processes rather than substances
+- [[indexical-knowledge-and-identity]] — Perry's essential indexical, Lewis's Two Gods, and three grades of indexical knowledge
 - [[indexical-void]] — The boundary where indexical knowledge reaches its limits
 
 ## References

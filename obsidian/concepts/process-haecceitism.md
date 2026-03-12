@@ -71,7 +71,7 @@ Whitehead's framework shows how haecceity can be temporal as well as spatial—g
 
 Process haecceitism reconciles the Map's commitment to indexical identity with Buddhist *anattā* (no-self). The reconciliation works because *anattā* targets something specific: the permanent, unchanging soul (*ātman*). It does not deny that *this* person experiences *this* moment—it denies that an unchanging substance underlies the experience.
 
-The [[vertiginous-question]]—"Why am *I* this one?"—remains coherent under process haecceitism. The question becomes: "Why is *this* experiential process the one whose experiences I am living?" The shift from substance to process doesn't dissolve the indexical puzzle; it reframes what bears the indexical property.
+The [[vertiginous-question]]—"Why am *I* this one?"—remains coherent under process haecceitism. [[indexical-knowledge-and-identity|Indexical knowledge]]—knowledge expressible only as "I," "here," "now"—retains its irreducibility whether the subject is a substance or a process. The question becomes: "Why is *this* experiential process the one whose experiences I am living?" The shift from substance to process doesn't dissolve the indexical puzzle; it reframes what bears the indexical property.
 
 Contemplative evidence supports this. Advanced meditators who deconstruct the substantial self through sustained practice don't report losing particularity. They continue to experience *this* moment, *this* awareness—while recognising that no permanent self underlies these experiences. The particularity survives the dissolution of substance. As [[eastern-philosophy-consciousness]] develops in detail, "conventional" in Buddhist philosophy doesn't mean "unreal"—it means "dependently arisen." The particularity of *this* experiential stream is conventional but genuine.
 
@@ -140,6 +140,7 @@ Process haecceitism connects to the Map's [[tenets]] as a supporting concept tha
 - [[personal-identity]] — How haecceity grounds identity across time
 - [[buddhism-and-dualism]] — Buddhist compatibility with the Map's dualism
 - [[parfit-reductionism]] — The pattern-based view that process haecceitism rejects
+- [[indexical-knowledge-and-identity]] — Why "I," "here," "now" resist impersonal translation—even for processes
 - [[self-and-consciousness]] — The minimal self and phenomenology of thisness
 - [[identity-across-transformations]] — Apex synthesis on identity persistence
 - [[consciousness-and-the-metaphysics-of-individuation]] — The broader individuation question process haecceitism addresses

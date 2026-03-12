@@ -122,7 +122,7 @@ On the Map's framework, personal identity involves:
 
 2. **Causal continuity**: A connected history of consciousness influencing physical outcomes—your choices, selections, and experiences forming a continuous causal chain.
 
-3. **Indexical uniqueness**: The unrepeatable fact that *you* are this conscious being and not another, even if another were qualitatively identical. The [[indexical-void]] marks this as a genuine cognitive boundary—the question "why am I *this* one?" resists every available method of answer.
+3. **Indexical uniqueness**: The unrepeatable fact that *you* are this conscious being and not another, even if another were qualitatively identical. [[indexical-knowledge-and-identity|Indexical knowledge]]—knowledge expressible only as "I," "here," "now"—is irreducible to impersonal description, and the [[indexical-void]] marks this as a genuine cognitive boundary—the question "why am I *this* one?" resists every available method of answer.
 
 Psychological continuity matters, but as evidence of something deeper. Your memories, intentions, and character traits are expressions of your persisting consciousness, not what your identity consists in. If a replica had your memories but lacked your consciousness (were a zombie), it wouldn't be you. If it had consciousness but a different one (somehow), it still wouldn't be you.
 
@@ -220,6 +220,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - [[illusionism]] — The challenge that consciousness itself is illusory
 - [[decoherence]] — The quantum coherence objection and responses
 - [[consciousness-and-the-metaphysics-of-individuation]] — The prior question: what makes you a distinct subject at all
+- [[indexical-knowledge-and-identity]] — Why knowledge expressible only as "I" and "now" resists impersonal translation
 - [[indexical-void]] — The cognitive boundary where first-person identity confronts its own inexplicability
 - [[tenets]] — The framework grounding this view
 

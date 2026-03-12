@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 04:10 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/indexical-knowledge-and-identity]]
+- **Word count**: 2321 → 2343 (+22)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (orphan integration, missing Parfit link, missing process-haecceitism connection)
+- **Enhancements made**: 9 cross-links added from related articles
+- **Output**: [[reviews/deep-review-2026-03-12-indexical-knowledge-and-identity]]
+
 ## 2026-03-12 04:00 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/hypnagogic-phenomenology-and-interface-modulation]]

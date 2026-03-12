@@ -127,7 +127,7 @@ The phenomenology of selfhood supports several of the Map's foundational commitm
 
 **[[tenets#^dualism|Dualism]]**: The minimal self provides evidence for irreducibility. First-personal givenness is not a feature of physical descriptions—neurological detail describes what a subject does and how, but has not captured (and may not be able to capture) what it is to *be* this subject. The "for-me-ness" of experience is disclosed only through first-person investigation. This structural feature of consciousness resists physicalist reduction.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The minimal self is *this* particular perspective, not a pattern that could be multiply instantiated. The indexical character of first-person experience—the unrepeatable fact that *I* am having this experience—supports the tenet's emphasis on indexical identity. A replica with my psychology but a different minimal self would not be *me*. This connects to [[haecceity]]—the "thisness" that makes a particular what it is beyond its qualitative properties. The functionalist response (that a replica on another branch *would* be you in every meaningful sense) conflates qualitative and numerical identity. The minimal self is numerically this one—not a pattern but an instance.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The minimal self is *this* particular perspective, not a pattern that could be multiply instantiated. The [[indexical-knowledge-and-identity|indexical character]] of first-person experience—the unrepeatable fact that *I* am having this experience—supports the tenet's emphasis on indexical identity. A replica with my psychology but a different minimal self would not be *me*. This connects to [[haecceity]]—the "thisness" that makes a particular what it is beyond its qualitative properties. The functionalist response (that a replica on another branch *would* be you in every meaningful sense) conflates qualitative and numerical identity. The minimal self is numerically this one—not a pattern but an instance.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Metzinger's eliminativism about the self achieves parsimony by denying what phenomenology discloses. But if the minimal self is a structural feature of conscious experience—as careful phenomenological investigation suggests—then eliminating it in the name of simplicity means ignoring the evidence most in need of explanation.
 
@@ -146,6 +146,7 @@ The filter theory interprets these findings coherently: the narrative self is co
 - [[temporal-consciousness]] — What constitutes "a moment" of conscious experience
 - [[ownership-void|The Ownership Void]] — Why the for-me-ness of experience hides its own ground
 - [[personal-identity]] — How the self persists over time
+- [[indexical-knowledge-and-identity]] — Why "I," "here," "now" resist impersonal translation
 - [[consciousness-and-the-metaphysics-of-individuation]] — What makes this subject a discrete subject at all
 
 ## References

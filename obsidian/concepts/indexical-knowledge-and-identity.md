@@ -4,7 +4,7 @@ description: "Knowledge expressible only as 'I', 'here', 'now'—irreducible to 
 created: 2026-01-27
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-03-12T03:53:00+00:00
+ai_modified: 2026-03-12T04:10:00+00:00
 draft: false
 topics:
   - "[[vertiginous-question]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review: 2026-02-17T08:27:00+00:00
+last_deep_review: 2026-03-12T04:10:00+00:00
 coalesced_from:
   - "/concepts/indexical-facts/"
   - "/concepts/indexical-knowledge/"
@@ -100,11 +100,11 @@ Science aspires to describe reality from no particular perspective—Thomas Nage
 
 The question "what makes me the same person over time?" traditionally concerns criteria of identity—psychological continuity, physical continuity, or both. But indexical knowledge raises a prior question: what makes me *this* person right now?
 
-Pattern-identity theories (following Parfit) hold that personal identity consists in patterns of psychological continuity. But indexical facts resist pattern reduction. Two people could hypothetically share all psychological patterns (through perfect copying), yet there would be a fact about which one is me. The indexical "I" picks out something that patterns alone don't determine.
+Pattern-identity theories (following [[parfit-reductionism|Parfit]]) hold that personal identity consists in patterns of psychological continuity. But indexical facts resist pattern reduction. Two people could hypothetically share all psychological patterns (through perfect copying), yet there would be a fact about which one is me. The indexical "I" picks out something that patterns alone don't determine.
 
 The connection to [[haecceity]] runs deep. Haecceity is primitive "thisness" that makes something *this* particular thing rather than another qualitatively identical thing. Robert Adams argued that "primitive thisness" cannot be reduced to general properties. Self-locating knowledge tracks haecceitistic facts—the fact that *I* am this subject, that *this* experience is happening to me.
 
-Teleportation thought experiments sharpen the point. If you are scanned, destroyed, and reconstructed on Mars, the replica has all your qualitative properties. The question is whether *you*—this subject—survive. Self-locating knowledge brings out what's at stake: not whether a qualitative duplicate exists, but whether the indexical continuity persists.
+Teleportation thought experiments sharpen the point. If you are scanned, destroyed, and reconstructed on Mars, the replica has all your qualitative properties. The question is whether *you*—this subject—survive. Self-locating knowledge brings out what's at stake: not whether a qualitative duplicate exists, but whether the indexical continuity persists. [[process-haecceitism|Process haecceitism]] shows that this particularity need not require a permanent soul-substance—haecceity can apply to experiential *processes*, grounding indexical identity without permanence.
 
 ## The Sleeping Beauty Problem
 
