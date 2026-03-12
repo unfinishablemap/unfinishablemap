@@ -90,6 +90,10 @@ This divergence is problematic for production models: if consciousness is produc
 
 Mashour and Bharioke's 2024 *Neuron* review confirms that sensory information reaches the brain during light sedation but is not perceived. The signal arrives at sensory cortex; the interface blocks transmission—precisely what filter theory predicts.
 
+### Hypnagogic Loosening
+
+The [[hypnagogic-phenomenology-and-interface-modulation|hypnagogic transition]] at sleep onset provides a real-time demonstration of filter loosening. As executive constraint relaxes, bizarre imagery, loose associations, and synesthetic blending emerge—precisely what filter theory predicts when the reducing valve opens before the interface narrows into NREM sleep.
+
 ### Meditative Cessation
 
 Advanced meditation produces cessation events—states with full loss of phenomenal content—that differ fundamentally from anaesthetic unconsciousness. Unlike drug-induced states (externally imposed), cessation is voluntary and transformative.
@@ -216,6 +220,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [[neural-correlates-of-consciousness]] — Why correlates don't prove production
 - [[interactionist-dualism]] — The broader framework
 - [[quantum-consciousness]] — The proposed mechanism for mind-brain interface
+- [[hypnagogic-phenomenology-and-interface-modulation]] — Sleep-onset phenomenology as real-time filter loosening
 - [[habituation-void]] — Habituation as a filtering mechanism that screens out the familiar
 
 ## References

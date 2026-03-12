@@ -29,6 +29,7 @@ related_articles:
   - "[[tenets]]"
   - "[[near-death-experiences]]"
   - "[[filter-theory]]"
+  - "[[hypnagogic-phenomenology-and-interface-modulation]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -142,7 +143,7 @@ The propofol/ketamine divergence poses a specific challenge. Both drugs disrupt 
 
 ## Contemplative Evidence
 
-Experienced meditators report maintaining [[witness-consciousness|witness awareness]] through sleep onset ("yoga nidra")—the witnessing awareness persists while contents fade. The [[transition-void]] examines this contemplative evidence in detail, arguing that the awareness maintained may itself constitute a modified state rather than genuine observation of the natural transition. This parallels the filter theory: the interface narrows during sleep, reducing transmitted content, but underlying consciousness remains.
+Experienced meditators report maintaining [[witness-consciousness|witness awareness]] through sleep onset ("yoga nidra")—the witnessing awareness persists while contents fade. The [[transition-void]] examines this contemplative evidence in detail, arguing that the awareness maintained may itself constitute a modified state rather than genuine observation of the natural transition. The [[hypnagogic-phenomenology-and-interface-modulation|hypnagogic phenomenology]] of this transition reveals a graded loosening of interface constraint—not a binary switch but a progressive relaxation where bizarre imagery and loose associations emerge before consciousness narrows into NREM. This parallels the filter theory: the interface narrows during sleep, reducing transmitted content, but underlying consciousness remains.
 
 Advanced practitioners report cessation states (*nirodha-samapatti*) phenomenologically distinct from anesthesia—profound peace rather than nothing, with controlled entry and exit. Voluntary cessation differs qualitatively from pharmacological cessation: meditation progressively closes the interface by choice; anesthesia chemically disrupts it.
 
@@ -194,6 +195,7 @@ The Map's [[tenets]] converge on loss of consciousness as a domain where the dua
 - [[filter-theory]] — The transmission model of brain-consciousness relation
 - [[witness-consciousness]] — Contemplative evidence for awareness persisting through reduced neural activity
 - [[decoherence]] — Quantum challenges to the interface hypothesis and why they don't defeat it
+- [[hypnagogic-phenomenology-and-interface-modulation]] — The graded interface transition at sleep onset
 - [[haecceity]] — The indexical identity problem posed by temporal gaps in experience
 
 ## References

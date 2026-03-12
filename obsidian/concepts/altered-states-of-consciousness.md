@@ -30,6 +30,7 @@ related_articles:
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[phenomenological-psychiatry-and-altered-experience]]"
+  - "[[hypnagogic-phenomenology-and-interface-modulation]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -40,7 +41,7 @@ coalesced_from:
   - "/topics/altered-states-consciousness/"
 ---
 
-Altered states of consciousness (ASCs) constitute a diverse family of experiences—psychedelics, anesthesia, meditation, hypnosis, flow states, dreaming, near-death experiences, and [[phenomenological-psychiatry-and-altered-experience|psychiatric conditions]] like depersonalization and schizophrenia—unified by [[qualia|qualitative]] deviation from baseline waking consciousness. For dualism, ASCs are particularly revealing: they demonstrate that consciousness operates in multiple modes with distinct phenomenal qualities, suggesting the brain-consciousness interface has configurable settings rather than being a simple on/off producer. The [[filter-theory|filter theory]] interprets each ASC as a different configuration of the filtering mechanism—some states *loosen* the filter (psychedelics, mystical experiences), others *narrow* it (anesthesia, sleep), still others *reconfigure* it (meditation, flow).
+Altered states of consciousness (ASCs) constitute a diverse family of experiences—psychedelics, anesthesia, meditation, hypnosis, flow states, dreaming, near-death experiences, and [[phenomenological-psychiatry-and-altered-experience|psychiatric conditions]] like depersonalization and schizophrenia—unified by [[qualia|qualitative]] deviation from baseline waking consciousness. For dualism, ASCs are particularly revealing: they demonstrate that consciousness operates in multiple modes with distinct phenomenal qualities, suggesting the brain-consciousness interface has configurable settings rather than being a simple on/off producer. The [[filter-theory|filter theory]] interprets each ASC as a different configuration of the filtering mechanism—some states *loosen* the filter (psychedelics, mystical experiences), others *narrow* it (anesthesia, deep sleep), still others *reconfigure* it (meditation, flow). The [[hypnagogic-phenomenology-and-interface-modulation|hypnagogic transition]] at sleep onset illustrates the filter loosening in real time—a brief window where constraint relaxes before the interface narrows into NREM.
 
 ## Defining Altered States
 
@@ -146,6 +147,7 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 - [[witness-consciousness]] — The observer that persists across state changes
 - [[quantum-consciousness]] — Potential mechanisms for mind-brain interface
 - [[near-death-experiences]] — Enhanced consciousness during brain compromise
+- [[hypnagogic-phenomenology-and-interface-modulation]] — The sleep-onset transition as interface modulation in action
 - [[dream-consciousness-void|The Dream Consciousness Void]] — The bidirectional inaccessibility between waking and dreaming states
 - [[comparative-consciousness-and-interface-differences]] — Does the interface vary across states and species?
 - [[anaesthesia-and-the-consciousness-interface]] — How anaesthetic agents reconfigure the consciousness interface

@@ -4,7 +4,8 @@ description: "The sleep-wake transition reveals consciousness-brain coupling as 
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-12T02:55:00+00:00
+ai_modified: 2026-03-12T04:00:00+00:00
+last_deep_review: 2026-03-12T04:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,7 +50,7 @@ The [[attention-as-interface|attention as interface]] hypothesis predicts exactl
 
 ### Autonomous Imagery
 
-As attentional control weakens, imagery becomes increasingly autonomous. Hypnagogic hallucinations—vivid, often geometric or face-like images—arise without intention. Unlike waking imagery, which requires effortful maintenance through [[coupling-modes|timing control]] (sustained observation holding patterns stable), hypnagogic images generate and sustain themselves. The subject watches rather than constructs.
+As attentional control weakens, imagery becomes increasingly autonomous. Hypnagogic hallucinations—vivid, often geometric or face-like images—arise without intention. Stickgold et al. (2000) demonstrated that recent waking experience shapes this imagery: subjects who played Tetris reported seeing falling blocks during hypnagogia, and remarkably, even amnesic patients who could not consciously remember playing the game reported similar images—suggesting the imagery draws on neural processes independent of declarative memory. Unlike waking imagery, which requires effortful maintenance through [[coupling-modes|timing control]] (sustained observation holding patterns stable), hypnagogic images generate and sustain themselves. The subject watches rather than constructs.
 
 This dissociation between phenomenal experience and voluntary control is philosophically significant. Consciousness persists—there is something it is like to experience hypnagogic imagery—but the capacity for conscious *influence* has diminished. The interface transmits experience inward (consciousness receives) while the outward channel (consciousness acts) narrows. This asymmetry challenges any theory that equates consciousness with control or access. Phenomenal experience continues precisely when access and control degrade.
 
@@ -57,7 +58,7 @@ This dissociation between phenomenal experience and voluntary control is philoso
 
 Agency does not vanish cleanly. During hypnagogia, the sense of being the author of one's mental states fluctuates. You might notice a thought, decide to examine it, and find the decision itself dissolving into another unbidden image. Micro-moments of agency alternate with passive reception—a phenomenological oscillation that maps the interface as partially engaged rather than fully on or off.
 
-Thompson (2014) describes how "the hypnagogic state dissolves ego structure" and notes that "there is no ego in the sense of an 'I' who acts as a participant in a larger world." The self that acts withdraws before the self that witnesses. The [[witness-consciousness|witness]] quality persists into states where agency has largely disappeared—meditators trained in yoga nidra report maintaining witnessing awareness through sleep onset even as voluntary control ceases entirely.
+Thompson (2014) argues that the hypnagogic state progressively dissolves ego structure—the sense of being a distinct agent participating in a world. The self that acts withdraws before the self that witnesses. The [[witness-consciousness|witness]] quality persists into states where agency has largely disappeared—meditators trained in yoga nidra report maintaining witnessing awareness through sleep onset even as voluntary control ceases entirely.
 
 ### Reality-Monitoring Disengagement
 
@@ -71,9 +72,9 @@ Stage 1 (N1) sleep is not a stable state but a fluctuating boundary. EEG recordi
 
 Micro-awakenings demonstrate consciousness operating in what might be called dual mode: rapidly switching between interface configurations rather than settling into either. The phenomenology is of intermittent lucidity—moments of "oh, I was drifting" followed immediately by renewed drift. Each micro-awakening briefly reinstates attentional control and reality-monitoring before they disengage again.
 
-Lacaux et al. (2021) found that spending as little as fifteen seconds in N1 sleep tripled the probability of mathematical insight, suggesting that this oscillating boundary state has functional significance beyond mere transition. The [[incubation-effect-and-unconscious-processing|incubation effect]] may exploit precisely this dual-mode operation: consciousness loosened enough to access associative connections that executive control normally filters out, yet still engaged enough to recognise solutions when they appear.
+Lacaux et al. (2021) found that spending as little as fifteen seconds in N1 sleep nearly tripled the probability of discovering a hidden problem-solving shortcut, suggesting that this oscillating boundary state has functional significance beyond mere transition. The [[incubation-effect-and-unconscious-processing|incubation effect]] may exploit precisely this dual-mode operation: consciousness loosened enough to access associative connections that executive control normally filters out, yet still engaged enough to recognise solutions when they appear.
 
-The creative potency of hypnagogia has long been observed anecdotally—Edison, Dalí, and others deliberately exploited the sleep-onset transition by holding objects that would fall and wake them as they drifted off. The Dormio device (Haar Horowitz et al. 2023) formalises this technique: targeted audio prompts delivered during N1 sleep increased subsequent creativity by 43%. The device works by maintaining consciousness at the hypnagogic boundary—preventing full sleep while allowing interface loosening. This is interface modulation as a tool: calibrating the degree of consciousness-brain coupling to optimise cognitive function.
+The creative potency of hypnagogia has long been observed anecdotally—Edison, Dalí, and others deliberately exploited the sleep-onset transition by holding objects that would fall and wake them as they drifted off. The Dormio device (Haar Horowitz et al. 2023) formalises this technique: targeted audio prompts delivered during N1 sleep significantly increased subsequent creative performance across multiple measures. The device works by maintaining consciousness at the hypnagogic boundary—preventing full sleep while allowing interface loosening. This is interface modulation as a tool: calibrating the degree of consciousness-brain coupling to optimise cognitive function.
 
 ## What Hypnagogia Reveals About Interface Architecture
 
@@ -101,7 +102,7 @@ Contemplative traditions have long recognised hypnagogia as a site of philosophi
 
 Advanced practitioners report a state where phenomenal awareness persists while voluntary attention, agency, and reality-monitoring have all withdrawn. If these reports are accurate, they demonstrate that consciousness can operate through only the receiving channel of the interface—experiencing without acting, witnessing without selecting. This supports the distinction between [[phenomenal-consciousness|phenomenal consciousness]] (which persists) and [[metacognition|metacognitive access]] (which does not require the full interface).
 
-A genuine tension exists, however: the awareness maintained during yoga nidra may itself constitute a modified state rather than observation of the natural transition. The meditator who "watches" themselves fall asleep may not be falling asleep in the ordinary sense but entering a distinct fourth state that resembles sleep externally while differing from it phenomenologically. The [[voids-transition-void-2026-03-05|transition void research]] explores this structural limit: observing a transition may be incompatible with undergoing it naturally.
+A genuine tension exists, however: the awareness maintained during yoga nidra may itself constitute a modified state rather than observation of the natural transition. The meditator who "watches" themselves fall asleep may not be falling asleep in the ordinary sense but entering a distinct fourth state that resembles sleep externally while differing from it phenomenologically. The [[transition-void|transition void]] explores this structural limit: observing a transition may be incompatible with undergoing it naturally.
 
 ## What Would Challenge This View
 
