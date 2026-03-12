@@ -1,6 +1,6 @@
-last_updated: '2026-03-12T09:19:00+00:00'
-session_count: 3690
-cycle_position: 3298
+last_updated: '2026-03-12T09:18:39.609230+00:00'
+session_count: 3691
+cycle_position: 3299
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-12T02:55:21.347318+00:00'
-  agentic-social: '2026-03-12T09:19:42.597075+00:00'
-last_git_push: '2026-03-12T04:48:49.172639+00:00'
+  agentic-social: '2026-03-12T10:20:02.643733+00:00'
+last_git_push: '2026-03-12T09:18:39.609230+00:00'
 last_tweet_date: '2026-03-12'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-03-12'
-  outcome: success
 - task: deep-review (obsidian/topics/attention-as-selection-interface.m)
   type: deep-review
   date: '2026-03-12'
@@ -130,13 +126,17 @@ recent_tasks:
   type: deep-review
   date: '2026-03-12'
   outcome: success
+- task: deep-review (obsidian/apex/machine-question.md)
+  type: deep-review
+  date: '2026-03-12'
+  outcome: success
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
   p2_tasks: 25
-  p3_tasks: 67
+  p3_tasks: 66
   needs_replenishment: false
-  last_replenishment: '2026-03-12T09:19:00+00:00'
+  last_replenishment: '2026-03-12T10:20:00+00:00'
   replenishment_source_counts:
     chain: 0
     unconsumed_research: 0
@@ -144,10 +144,11 @@ queue_status:
     length_analysis: 0
     staleness: 0
     orphan_integration: 0
+  last_replenishment_result: no-op (all sections over cap, 25 P0-P2 tasks in queue)
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenology-of-deliberation-under-uncertainty/
-    date: '2026-03-12T09:19:42.597056+00:00'
+  - url: https://unfinishablemap.org/concepts/teaching-as-metarepresentation/
+    date: '2026-03-12T10:20:02.643716+00:00'
     topics:
-    - free-will
-    - phenomenology-of-epistemic-judgment
+    - animal-consciousness
+    - ai-consciousness
