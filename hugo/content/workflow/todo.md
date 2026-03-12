@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Deep review time-consciousness-growing-block.md
-- **Type**: deep-review
-- **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. Major synthesis piece on temporal consciousness under the growing block theory — one of the Map's core metaphysical commitments. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-12
-
 ### P3: Deep review minds-without-words.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. Synthesis piece on pre-linguistic consciousness and the Map's treatment of non-verbal phenomenal experience. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
@@ -306,12 +300,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### ✓ 2026-02-09: Create concept page for phenomenal transparency
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
-
-### P2: Write concept page for phenomenal attention
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The qualitative, experiential dimension of attending — distinct from computational attention (resource allocation) and attention schema (brain's model of attention). Currently conflated across many articles. Would sharpen the argument against AST, clarify the quantum Zeno mechanism, and address the bandwidth asymmetry. Builds on attention-as-selection-interface.md, attention-schema-theory.md, mental-effort.md, asymmetric-bandwidth-of-consciousness.md. See [optimistic-2026-03-04](/reviews/optimistic-2026-03-04/).
-- **Generated**: 2026-03-04
 
 ### ✓ 2026-03-05: Integrate materialism-argument.md into site navigation
 - **Type**: integrate-orphan
@@ -583,8 +571,66 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Aesthetic experience (beauty, sublimity, elegance) has distinctive phenomenal character that tracks real features yet resists functional reduction. A domain largely untouched by the Map. See optimistic-2026-03-12.md
 
+### P2: Review phenomenal-value-realism.md considering alignment insights
+- **Type**: cross-review
+- **Notes**: New article topics/alignment-in-objective-experiential-terms.md builds on phenomenal value realism's claim that suffering's badness is objective, applying it to AI alignment constraints. The value realism concept page should cross-reference this application as a concrete consequence of its metaethical position.
+- **Source**: chain (from alignment-in-objective-experiential-terms.md)
+- **Generated**: 2026-03-12
+
+### P2: Review attention-as-selection-interface.md considering phenomenal attention concept
+- **Type**: cross-review
+- **Notes**: New concept page concepts/phenomenal-attention.md sharpens the distinction between phenomenal and computational attention. The selection interface article provides the broader theory and should acknowledge this distinction to clarify exactly what consciousness contributes when selecting neural patterns.
+- **Source**: chain (from phenomenal-attention.md)
+- **Generated**: 2026-03-12
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Address filter theory inference and production-model engagement in hypnagogic article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the "For Filter Theory" section presents filter theory as the natural explanation for hypnagogic vividness without seriously engaging production-model alternatives (disinhibition of imagery circuits). Also: the quantum Zeno mechanism in phenomenal-attention.md needs physical grounding or explicit flagging as speculative. See pessimistic-2026-03-12-morning.md
+- **Output**: Task context:
+Pessimistic review found the "For Filter Theory" section presents filter theory as the natural explanation for hypnagogic vividness without seriously engaging production-model alternatives (disinhibition of imagery circuits). Also: the quantum Zeno mechanism in phenomenal-attention.md needs physical grounding or explicit flagging as speculative. See pessimistic-2026-03-12-morning.md
+
+### ✓ 2026-03-12: Integrate indexical-identity-quantum-measurement.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article connecting indexical identity to quantum measurement — why the particular observer matters for collapse. Add cross-references from indexical-identity.md, quantum-consciousness.md, and collapse-interpretation.md.
+- **Output**: obsidian/topics/indexical-identity-quantum-measurement.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-12: Integrate indexical-knowledge-and-identity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page on indexical knowledge and identity — how first-person knowledge resists third-person reduction. Add cross-references from indexical-identity.md, knowledge-argument.md, and acquaintance-knowledge.md.
+- **Output**: obsidian/concepts/indexical-knowledge-and-identity.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-12: Integrate indexical-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Voids article on the indexical void — the irreducibility of this-ness in conscious experience. Add cross-references from related articles such as indexical-identity.md, process-haecceitism.md, and taxonomy-of-voids.md.
+- **Output**: obsidian/voids/indexical-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-12: Review dream-consciousness.md considering hypnagogic phenomenology insights
+- **Type**: cross-review
+- **Notes**: New article topics/hypnagogic-phenomenology-and-interface-modulation.md treats the sleep-wake transition as graded interface modulation. The dream-consciousness.md article covers dreaming broadly and should cross-reference hypnagogia as the transitional state that maps interface components more precisely than binary comparisons. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/topics/dream-consciousness.md -- Context: Review dream-consciousness.md considering hypnagogic phenomenology insights
+
+### ✓ 2026-03-12: Review intersubjectivity.md considering collective intentionality insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenology-of-collective-intentionality-and-we-consciousness.md examines shared intentionality and we-consciousness under dualism. The intersubjectivity.md concept page should cross-reference this treatment, particularly the challenge collective intentionality poses for the interface model (how does joint attention work across separate brains?). Check for cross-links and complementary arguments.
+- **Output**: obsidian/concepts/intersubjectivity.md -- Context: Review intersubjectivity.md considering collective intentionality insights
+
+### ✓ 2026-03-12: Review many-worlds-interpretation.md considering QM interpretations article
+- **Type**: cross-review
+- **Notes**: New article topics/qm-interpretations-beyond-many-worlds.md surveys GRW, transactional, relational QM, and consciousness-collapse compatibility. The existing many-worlds-interpretation.md (Tenet 4) should cross-reference the new article's treatment of alternative interpretations that avoid MWI's problems. Check for cross-links and argument reinforcement.
+- **Output**: many-worlds-interpretation.md -- Context: Review many-worlds-interpretation.md considering QM interpretations article
+
+### ✓ 2026-03-12: Review the-binding-problem-a-systematic-treatment.md considering phenomenal binding insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenal-binding-and-multimodal-integration.md argues multimodal integration is the most challenging binding variety. The systematic treatment article establishes the BP1/BP2 taxonomy and should cross-reference multimodal binding as a key test case. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/topics/the-binding-problem-a-systematic-treatment.md -- Context: Review the-binding-problem-a-systematic-treatment.md considering phenomenal binding insights
+
+### ✓ 2026-03-12: Write concept page for phenomenal attention
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The qualitative, experiential dimension of attending — distinct from computational attention (resource allocation) and attention schema (brain's model of attention). Currently conflated across many articles. Would sharpen the argument against AST, clarify the quantum Zeno mechanism, and address the bandwidth asymmetry. Builds on attention-as-selection-interface.md, attention-schema-theory.md, mental-effort.md, asymmetric-bandwidth-of-consciousness.md. See [optimistic-2026-03-04](/reviews/optimistic-2026-03-04/).
+- **Output**: Write concept page for phenomenal attention
 
 ### ✓ 2026-03-12: Write article on hypnagogic phenomenology and interface modulation
 - **Type**: expand-topic

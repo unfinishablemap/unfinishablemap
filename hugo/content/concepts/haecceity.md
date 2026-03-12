@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-04 23:02:00+00:00
+ai_modified: 2026-03-12 03:53:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,6 +29,7 @@ related_articles:
 - '[[tenets]]'
 - '[[meaning-of-life]]'
 - '[[indexical-identity-quantum-measurement]]'
+- '[[indexical-void]]'
 title: Haecceity and Indexical Identity
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -49,7 +50,7 @@ Modern discussions distinguish:
 
 **[Indexical facts](/concepts/indexical-knowledge-and-identity/)**: Facts specifiable only using indexicals like "I," "here," "now." The fact that *I* am writing this sentence cannot be reduced to facts about some person writing a sentence—because there might be multiple people writing identical sentences, and only one of them is me.
 
-These concepts converge for consciousness. The question "Why am I this subject and not another?" presupposes that being this subject is a genuine fact—a haecceitistic fact not reducible to qualitative features of my psychology.
+These concepts converge for consciousness. The question "Why am I this subject and not another?" presupposes that being this subject is a genuine fact—a haecceitistic fact not reducible to qualitative features of my psychology. The [indexical-void](/voids/indexical-void/) marks the cognitive boundary where this question confronts its own inexplicability.
 
 ## Haecceitism vs Anti-Haecceitism
 
@@ -240,6 +241,7 @@ The haecceity concept makes explicit what the Map presupposes. Personal identity
 - [illusionism](/concepts/illusionism/) — The challenge that consciousness itself is illusory
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on self and consciousness
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — What draws boundaries around discrete conscious subjects
+- [indexical-void](/voids/indexical-void/) — The cognitive boundary where first-person identity resists explanation
 - [attention-as-interface](/concepts/attention-as-interface/) — The quantum mechanism for conscious selection
 
 ## References

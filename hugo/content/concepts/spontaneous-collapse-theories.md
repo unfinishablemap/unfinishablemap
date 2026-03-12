@@ -195,6 +195,7 @@ The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or sim
 - [psychophysical-coupling](/concepts/psychophysical-coupling/) - how phenomenal properties map to physical parameters
 - [decoherence](/concepts/decoherence/) - relationship between environmental decoherence and objective collapse, including basis selection vs. outcome selection
 - [many-worlds](/concepts/many-worlds/) - the Map's rejection of branching interpretations
+- [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical question: why *this* consciousness experiences *this* collapsed outcome
 - [integrated-information-theory](/concepts/integrated-information-theory/) - Φ as potential collapse operator in hybrid models
 - [causal-closure](/concepts/causal-closure/) - how spontaneous collapse modifies microphysics without violating conservation laws
 - [free-will](/topics/free-will/) - how spontaneous collapse enables libertarian free will

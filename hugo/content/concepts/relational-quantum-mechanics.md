@@ -194,6 +194,7 @@ The Map rejects this trade-off. Understanding consciousness as causally efficaci
 - [introspection](/concepts/introspection/) — First-person methods for investigating observer experience
 - [witness-consciousness](/concepts/witness-consciousness/) — The phenomenology of observation RQM cannot capture
 - [haecceity](/concepts/haecceity/) — Why indexical identity matters for quantum interpretations
+- [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical gap RQM leaves untouched by demoting consciousness
 - [decoherence](/concepts/decoherence/) — What decoherence does and doesn't explain about measurement
 
 ## References

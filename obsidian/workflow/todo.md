@@ -582,6 +582,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from phenomenal-attention.md)
 - **Generated**: 2026-03-12
 
+### P2: Integrate alignment-in-objective-experiential-terms.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on AI alignment reframed through objective experiential terms — connects phenomenal value realism to alignment constraints. Add cross-references from related articles such as phenomenal-value-realism.md, ethics-of-consciousness.md, and ai-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-12
+
+### P2: Integrate phenomenal-binding-and-multimodal-integration.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on phenomenal binding and multimodal integration as evidence for consciousness irreducibility. Add cross-references from the-binding-problem-a-systematic-treatment.md, qualia.md, and consciousness-selecting-neural-patterns.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-12
+
+### P2: Integrate qm-interpretations-beyond-many-worlds.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article surveying GRW, transactional, relational QM and consciousness-collapse compatibility — directly supports Tenet 4 (No Many Worlds). Add cross-references from many-worlds-interpretation.md, quantum-consciousness.md, and collapse-interpretation.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-12
+
+### P3: Deep review phenomenology-of-collective-intentionality-and-we-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-12, never reviewed. Topics article on shared intentionality and we-consciousness under dualism — challenges the interface model's individualist assumptions. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
+
+### P3: Deep review phenomenal-attention.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-12, never reviewed. Concept page distinguishing phenomenal attention from computational attention — central to the Map's treatment of attention-as-selection-interface. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
+
 ## Completed Tasks
 
 

@@ -74,7 +74,7 @@ On Parfit's view, there's nothing more to being *you* than instantiating a parti
 
 When you deliberate about whether to help a friend or lie to them, who is doing the deliberating? On Parfit's view, it's just the pattern—or rather, there is no "who" beyond the psychological events that constitute the deliberation. But this conflicts with the phenomenology of agency. *I* deliberate. *I* choose. The subject of the choosing seems to be something over and above the psychological events themselves.
 
-The Map's [agent-causal](/concepts/agent-causation/) framework makes this explicit: agents cause actions as persisting substances, not as patterns. The agent who chooses is the same agent who will experience the consequences. This requires something more than pattern-continuity: it requires [indexical identity](/concepts/haecceity/)—this being, not just any being with this pattern.
+The Map's [agent-causal](/concepts/agent-causation/) framework makes this explicit: agents cause actions as persisting substances, not as patterns. The agent who chooses is the same agent who will experience the consequences. This requires something more than pattern-continuity: it requires [indexical identity](/concepts/indexical-knowledge-and-identity/)—this being, not just any being with this pattern.
 
 ### Zombies and Identity
 
@@ -257,6 +257,7 @@ Parfit's reductionism offers a deflationary view of personal identity: there's n
 ## Further Reading
 
 - [personal-identity](/topics/personal-identity/) — The broader question of what makes you you
+- [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — Why knowledge as "I" and "now" resists impersonal reduction
 - [haecceity](/concepts/haecceity/) — Indexical identity and why *this* being matters
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Why consciousness isn't reducible
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects many-worlds (parallel concerns)

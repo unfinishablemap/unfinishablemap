@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-03-03 15:41:00+00:00
+ai_modified: 2026-03-12 03:20:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,6 +24,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[sleep-and-consciousness]]'
 - '[[mental-effort]]'
+- '[[phenomenal-attention]]'
 created: 2026-02-14
 date: &id001 2026-02-17
 description: A comprehensive taxonomy of binding problems—perceptual, temporal, cross-modal,
@@ -32,7 +33,7 @@ description: A comprehensive taxonomy of binding problems—perceptual, temporal
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-17 05:42:00+00:00
+last_deep_review: 2026-03-12 03:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -168,7 +169,7 @@ The binding problem — treated systematically as a family rather than a single 
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If quantum entanglement is the only physics providing genuine holism, the binding problem motivates the tenet directly. Classical physics can coordinate separates; only quantum mechanics can produce genuine wholes. The binding problem's resistance to classical solution is consistent with consciousness operating at the quantum level.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Binding is not passive. Attention shapes what gets bound — you can attend to visual features and ignore auditory input, or vice versa. If consciousness merely reflected neural binding passively, voluntary control of binding would be inexplicable. The fact that [effortful attention](/concepts/mental-effort/) shapes which streams unify suggests top-down causation from phenomenal states to neural coordination. This connects to [free will](/topics/free-will/): if phenomenal binding is partly under voluntary control, consciousness actively selects among possible unified experiences rather than passively registering whatever the brain presents.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Binding is not passive. [Phenomenal attention](/concepts/phenomenal-attention/) — the felt, effortful directedness of consciousness, distinct from computational resource allocation — shapes what gets bound. You can attend to visual features and ignore auditory input, or vice versa. If consciousness merely reflected neural binding passively, voluntary control of binding would be inexplicable. The fact that [effortful attention](/concepts/mental-effort/) shapes which streams unify suggests top-down causation from phenomenal states to neural coordination. This connects to [free will](/topics/free-will/): if phenomenal binding is partly under voluntary control, consciousness actively selects among possible unified experiences rather than passively registering whatever the brain presents.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The systematicity of binding — the fact that *this* particular configuration of contents is unified in *this* particular way — requires real collapse. In many-worlds, every possible binding occurs in parallel branches. The phenomenological fact that I am experiencing *this* unified configuration, and not another, requires that one configuration was selected as actual. Many-worlds removes the selection that binding seems to require.
 
@@ -206,19 +207,3 @@ The systematic treatment of binding presented here rests on claims that could be
 1. Nagel, T. (1971). Brain bisection and the unity of consciousness. *Synthese*, 22, 396-413.
 1. Revonsuo, A. (2006). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 15, 489-508.
 1. Treisman, A. & Gelade, G. (1980). A feature-integration theory of attention. *Cognitive Psychology*, 12, 97-136.
-
-<!-- AI REFINEMENT LOG - 2026-02-17
-Changes made:
-1. Engaged with identity response in BP2 gap (intra-modal binding): added paragraph arguing that the "synchrony = unity" identity involves a category shift absent from standard scientific identities like "water = H₂O"
-1. Substantially revised dissociation section (NREM sleep, anesthesia): acknowledged that long-range cortical connectivity is disrupted during NREM sleep, not just phenomenal binding; engaged directly with IIT's specific predictions about sleep/anesthesia transitions; argued that predictive adequacy (Φ tracking consciousness) does not settle explanatory adequacy
-1. Updated IIT treatment in Theoretical Landscape to be consistent with nuanced engagement above
-1. Updated functionalist response to reference revised dissociation evidence rather than overclaiming
-1. Added "What Would Challenge This View?" section with four falsifiability conditions
-1. Removed speculative quantum collapse/agent causation sentence from cognitive binding section
-1. Applied language softening: "strongest evidence" → "evidence"; "deepest variety" → "arguably the most fundamental variety"; "cannot create" → "no mechanism has been shown to create"; "genuine holism" → "what appears to be genuine holism"; opening thesis flagged as argued rather than stated as fact
-
-Based on pessimistic review (pessimistic-2026-02-17-afternoon-2.md).
-Key improvements: intellectual honesty of BP2 argument, IIT engagement, falsifiability
-
-This log should be removed after human review.
--->

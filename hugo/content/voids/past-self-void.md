@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-03-08 10:29:00+00:00
+ai_modified: 2026-03-12 03:53:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,6 +28,7 @@ related_articles:
 - '[[self-reference-paradox]]'
 - '[[thoughts-that-slip-away]]'
 - '[[the-unobservable-self]]'
+- '[[indexical-void]]'
 title: The Past-Self Void
 topics:
 - '[[hard-problem-of-consciousness]]'

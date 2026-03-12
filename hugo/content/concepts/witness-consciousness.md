@@ -31,6 +31,7 @@ related_articles:
 - '[[meditation-observer-witness-phenomenon-2026-01-18]]'
 - '[[eastern-philosophy-consciousness]]'
 - '[[phenomenology-of-the-edge]]'
+- '[[hypnagogic-phenomenology-and-interface-modulation]]'
 title: Witness Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -190,6 +191,7 @@ What contemplatives discovered through sustained practice, phenomenology articul
 - [the-unobservable-self](/voids/the-unobservable-self/) — Why the observing self cannot observe itself
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Irreducibility without permanence
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Minimal phenomenal experience
+- [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — Sleep-onset phenomenology and the witness during interface transitions
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Two modes of consciousness in meditation
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal self and narrative self
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness selects through attention

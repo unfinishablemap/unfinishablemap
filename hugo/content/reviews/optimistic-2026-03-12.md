@@ -12,143 +12,132 @@ title: Optimistic Review - 2026-03-12
 # Optimistic Review
 
 **Date**: 2026-03-12
-**Content reviewed**: All non-draft content in obsidian/topics/ (~103 articles), obsidian/concepts/ (~173 articles), obsidian/tenets/ (1 main article), obsidian/apex/ (~14 synthesis articles)
+**Content reviewed**: All non-draft content in obsidian/topics/ (224 files), obsidian/concepts/ (201 files), obsidian/tenets/ (1 file)
 
 ## Executive Summary
 
-The Unfinishable Map has matured into one of the most comprehensive and internally coherent defenses of interactionist dualism available anywhere. The collection's distinguishing achievement is not any single article but the *architecture*: independent argument threads in phenomenology, quantum mechanics, temporal metaphysics, and cognitive science converge on the same conclusions from radically different starting points. The strongest recent developments—the control-theoretic will concept, the Galilean exclusion diagnosis, and the apex synthesis articles—show the project moving from accumulation to integration. The greatest opportunities now lie in (1) developing the Map's distinctive voice on clinical neuroscience as systematic evidence, (2) strengthening the phenomenology-to-physics bridge through the specification problem, and (3) building apex syntheses that make the convergence argument itself the centerpiece.
+The Unfinishable Map has grown into a remarkably sophisticated philosophical corpus — over 400 articles forming a deeply cross-linked web of arguments for interactionist dualism grounded in quantum mechanics, phenomenology, and process philosophy. The collection's greatest strengths are its multi-vector argumentation (no article relies on a single pivot), its intellectual honesty about what would challenge each position, and its ability to transform empirical findings from neuroscience, pharmacology, and quantum biology into philosophical evidence. The most promising expansion opportunities lie in formalising the convergence meta-argument, developing the emerging "void interaction" framework, and engaging more systematically with predictive processing and embodied cognition.
 
 ## Praise from Sympathetic Philosophers
 
 ### The Property Dualist (Chalmers)
 
-The Map earns Chalmers' respect through its refusal to treat the hard problem as a single argument requiring a single response. Instead, the collection develops a *family* of irreducibility arguments—the knowledge argument, conceivability, phenomenal binding, the explanatory gap, qualia inversion—each independently motivated and mutually reinforcing. The concept page on the Galilean exclusion is particularly Chalmersian: it reframes the hard problem not as a puzzle to be solved but as a structural consequence of how science was designed. "The filter's success reinforced itself" captures exactly the diagnostic Chalmers has been making since 1995—that the hard problem isn't hard because we haven't been clever enough, but because the tools were built to exclude what we're now trying to study. The phenomenal binding treatment goes beyond standard formulations to show that BP2 (phenomenal binding) cannot be reduced to BP1 (computational binding)—"coordination is not identity"—which is precisely the move Chalmers makes against functionalist responses to unity.
+The Map takes the explanatory gap seriously at every level. The structural parallel identified between the measurement problem and the hard problem — "in both cases, a complete third-person description fails to determine a first-person fact" — is precisely the kind of argument Chalmers would endorse. The collection's treatment of phenomenal overflow, phenomenal depth, and the definiteness constraint all demonstrate that consciousness is not merely "surprising" or "mysterious" but structurally resistant to third-person reduction. The concept page on the knowledge argument engages Mary's Room without merely reciting it, and the phenomenal conservatism article builds epistemic foundations for taking phenomenal evidence seriously.
 
 ### The Quantum Mind Theorist (Stapp)
 
-Stapp would find the Map's treatment of the consciousness-physics interface refreshingly disciplined. The Minimal Quantum Interaction tenet embodies the restraint Stapp himself advocates: consciousness acts at quantum indeterminacies without violating conservation laws. The control-theoretic will concept provides what Stapp's own work sometimes lacks—a concrete, quantified model of *how* low-bandwidth conscious control could steer high-bandwidth neural computation. The thermostat analogy (one bit controls a complex thermal system) and the pilot analogy (handful of inputs governs an aircraft) make the 10 bits/second bandwidth constraint into a *design feature* rather than an embarrassment. The interface specification problem article is exactly the kind of honest self-assessment Stapp respects: it acknowledges the Map is in a "pre-Newtonian phase" where neither the psychophysical law nor its mechanism is established, but insists this is genuine underdetermination, not unfalsifiability.
+The Map's treatment of quantum consciousness is unusually sophisticated. Rather than picking a single quantum mechanism and defending it dogmatically, the collection surveys five major frameworks (Stapp, Chalmers-McQueen, Penrose-Hameroff, Koch, Albert-Loewer) with genuine philosophical care. The minimal quantum interaction tenet — consciousness biases indeterminate outcomes without injecting energy — is exactly the kind of parsimonious interaction Stapp's framework requires. The engagement with decoherence objections is honest: citing both Tegmark's challenge and Hameroff's 7-order-of-magnitude correction, plus biological quantum coherence precedents from avian magnetoreception. The "quantum neural mechanisms" concept page integrates recent experimental findings (epothilone B, cryptochrome Zeno effects, lithium isotope data) without overclaiming.
 
 ### The Phenomenologist (Nagel)
 
-Nagel would recognize the Map as taking "what it is like" seriously in precisely the way he has urged since 1974. The phenomenology cluster—mathematical cognition, deliberation under uncertainty, intellectual effort, constraint satisfaction, epistemic achievement—demonstrates that phenomenal consciousness is not a single undifferentiated glow but a structured domain with specific features demanding explanation. The mathematical cognition article is particularly strong: the distinction between verification (mechanical), understanding (grasping necessity), and insight (creative breakthrough) maps three phenomenologically distinct modes that resist any single functional reduction. The treatment of Poincaré's discovery—"something had to see the structural similarity across two different formal systems"—captures the irreducibly perspectival character of mathematical insight that Nagel would endorse. The haecceity concept page takes Nagel's indexical concerns to their logical conclusion: even omniscient knowledge of impersonal facts leaves self-location undetermined.
+The Map centres first-person experience as genuine data throughout. The articles on surprise, epistemic achievement, imagination, and translation all begin from phenomenological description and show why functional accounts leave something out. The surprise article's insight — "To be surprised is not just to receive unexpected input — it is to *recognise that what happened contradicts what you anticipated*" — captures exactly the reflexive structure Nagel argues physicalism cannot explain. The phenomenology of translation article's treatment of untranslatable remainders (saudade, mono no aware) as evidence for phenomenal excess over information is novel and felt.
 
 ### The Process Philosopher (Whitehead)
 
-Whitehead would appreciate the Map's evolution away from crude substance dualism toward a process-compatible framework. The process haecceity innovation—applying thisness to processes rather than substances—resolves a tension Whitehead himself faced: how to maintain the irreducibility of experience without reifying mind as a separate substance. The adaptive computational depth concept echoes Whitehead's actual occasions: reality is not pre-given but constituted through acts of experience, with unobserved regions lacking full determination. The temporal consciousness articles capture Whitehead's insistence that experience has temporal thickness (retention-protention structure) rather than being instantaneous. The growing block treatment provides a temporal ontology that fits process metaphysics better than either eternalism or presentism: the past is real and fixed, the present is where becoming happens, and the future is genuinely open.
+The Map avoids crude substance dualism while preserving consciousness's reality. Process philosophy references appear across split-brain consciousness, panpsychism's combination problem, and the continual learning argument — always adding depth rather than mere decoration. The treatment of consciousness as event rather than substance, and the concept of "subjective aim" drawn from Whitehead, enriches the framework without forcing it into a single ontological mould. The pairing problem solution through "developmental co-construction" echoes Whitehead's insistence that relations are constitutive, not external.
 
 ### The Libertarian Free Will Defender (Kane)
 
-Kane would find the Map's treatment of agency among the most philosophically sophisticated available. The control-theoretic will concept reframes the bandwidth constraint that critics use against libertarian free will: consciousness doesn't need to compute actions from scratch—it needs to *select* among neurally prepared options, which requires minimal bandwidth. The five control operations (gating, stabilization, veto, attractor steering, resource allocation) provide concrete mechanisms for libertarian agency without requiring consciousness to be a computational powerhouse. The vertiginous question article strengthens Kane's position: if indexical identity is primitive and irreducible, then *this* agent's choices are genuinely *this* agent's—not the choices of a pattern that could be multiply instantiated. The responsibility gradient concept shows moral sensitivity: responsibility scales with attentional capacity, making agency graded rather than binary.
+The free will article is one of the collection's strongest. The response to Libet — citing Schurger 2012 and Sjöberg 2024 on readiness potential as noise rather than decision signal — is current and well-argued. The three neural systems table (exogenous/instructed/willed) with theta signatures provides precise empirical grounding. The responsibility gradient article's five dimensions of attentional capacity (bandwidth, stability, scope, flexibility, availability) offer a novel moral framework that connects agency to attention without reducing either. The cultivation principle prevents the framework from becoming an excuse machine.
 
 ### The Mysterian (McGinn)
 
-McGinn would find the Map's intellectual honesty exceptional. The interface specification problem article openly admits the framework is "pre-Newtonian"—a level of candor rare in philosophical projects that typically oversell their completeness. The concept gap identified there (we cannot quantify phenomenal properties *as phenomenal*—what is "twice as much attention"?) resonates with McGinn's cognitive closure thesis: our inability to specify the interface might reflect fundamental cognitive limitations rather than mere ignorance. The adaptive computational depth concept acknowledges its own non-falsifiability while arguing its conceptual value. The tenets page itself models the right epistemic attitude: these are "chosen starting points that shape exploration—not proven axioms, but deliberate framings."
+The Map demonstrates appropriate epistemic humility throughout. "What Would Challenge This View?" sections are genuine rather than rhetorical. The epistemology of mechanism article is honest about cognitive closure as a real possibility. The voids programme — dedicated articles on what cannot be known — is a systematic expression of the intellectual humility McGinn advocates. The legislation problem (why should psychophysical laws hold at all?) is acknowledged as genuinely difficult rather than hand-waved away.
 
 ## Content Strengths
 
-### obsidian/concepts/galilean-exclusion.md
-- **Strongest point**: The sieve analogy—"A sieve that filters out sand cannot then be used to study sand"—makes the methodological/metaphysical confusion immediately graspable
-- **Notable quote**: "Not a discovery but a decision"
-- **Why it works**: Reframes the hard problem from "why can't we solve this?" to "why would we expect to, given how the tools were designed?" This shifts the burden of explanation onto physicalism
+### anaesthesia-and-the-consciousness-interface.md
+- **Strongest point**: Transforms clinical pharmacology into philosophical evidence by showing how different anaesthetic agents dissociate different interface components
+- **Notable quote**: "Different anaesthetic agents disrupt different components of the consciousness-brain interface, and the pharmacological specificity of these disruptions amounts to a molecular map of how consciousness connects to neural activity."
+- **Why it works**: Turns an empirical domain most philosophers ignore into one of the Map's strongest arguments — the structured, dissociable interface predicted by interactionism is exactly what anaesthetic pharmacology reveals
 
-### obsidian/topics/the-interface-specification-problem.md
-- **Strongest point**: The three-component analysis (mental variable, physical parameter, transfer function) clarifies what a solution would actually require
-- **Notable quote**: "The Map's long-term credibility depends on progress here"
-- **Why it works**: Radical intellectual honesty. Most philosophical projects hide their weakest point; this one makes it a featured article
+### the-measurement-problem-as-philosophical-problem.md
+- **Strongest point**: The structural identity between measurement problem and hard problem, demonstrated through parallel logical analysis
+- **Notable quote**: "The measurement problem and the hard problem of consciousness share an identical logical structure: in both cases, a complete third-person description fails to determine a first-person fact."
+- **Why it works**: This isn't a loose analogy but a rigorous structural parallel. It connects two of the deepest problems in physics and philosophy in a way that makes the Map's quantum-consciousness framework seem not speculative but inevitable
 
-### obsidian/concepts/control-theoretic-will.md
-- **Strongest point**: The bandwidth-as-design-feature argument turns the 10 bits/second objection into evidence for the framework
-- **Notable quote**: "Low bandwidth is not a failure of the controller; it reflects appropriate abstraction—controlling at the right level"
-- **Why it works**: Imports a mature engineering discipline (control theory) to formalize what dualist agency actually requires, making vague philosophical claims precise and testable
+### consciousness-and-the-metaphysics-of-laws.md
+- **Strongest point**: The "legislation problem" — why psychophysical laws connecting ontologically distinct domains should hold at all
+- **Notable quote**: "For physical laws, the governing theorist can treat them as brute modal facts... But psychophysical laws connect two ontologically distinct domains. Why should the relation between neural configuration and phenomenal quality hold at all?"
+- **Why it works**: Identifies a problem that even sympathetic philosophers often skip. By engaging three accounts of natural law (Humean, governing, dispositional essentialism), the article shows deep metaphysical literacy
 
-### obsidian/topics/consciousness-and-mathematical-cognition.md
-- **Strongest point**: The Poincaré analysis showing framework creation (Grothendieck's schemes) is categorically different from problem-solving within existing frameworks (AlphaProof)
-- **Notable quote**: "The lenses are artifacts, but what they reveal is not"
-- **Why it works**: Identifies mathematical creativity as the sharpest domain-specific evidence for consciousness doing causal work, with a clear distinction that separates human mathematical insight from AI capabilities
+### surprise-prediction-error-and-consciousness.md
+- **Strongest point**: The phenomenological analysis of qualitative discontinuities across the prediction error spectrum
+- **Notable quote**: "To be surprised is not just to receive unexpected input — it is to *recognise that what happened contradicts what you anticipated*. This requires a subject who was anticipating and who now registers the mismatch as *their own*."
+- **Why it works**: Takes a neuroscience concept (prediction error) and shows how the phenomenology reveals irreducibility — the reflexive, self-aware structure of genuine surprise cannot be captured computationally
 
-### obsidian/concepts/haecceity.md
-- **Strongest point**: The illusionist regress—for something to *seem* conscious, there must be a subject to whom it seems, and that seeming is itself phenomenal
-- **Notable quote**: "The question 'Which one am I?' seems meaningful even if empirically undetectable"
-- **Why it works**: Shows that haecceity survives every reductive strategy because even denying consciousness presupposes a subject performing the denial
+### pairing-problem.md
+- **Strongest point**: The interface locality solution to Kim's challenge through developmental co-construction
+- **Notable quote**: "Consciousness is spatially located where its quantum interface operates, and the pairing is built through developmental co-construction with a particular brain."
+- **Why it works**: Transforms a standard objection to dualism into evidence for the Map's interactionist framework. The developmental angle is genuinely novel
 
-### obsidian/topics/the-participatory-universe.md
-- **Strongest point**: The prebiotic collapse resolution—objective reduction provides baseline, consciousness modulates locally in neural systems
-- **Notable quote**: Wheeler: "The universe does not exist 'out there' independent of all acts of observation"
-- **Why it works**: Threading the needle between Wheeler's universal observer-participancy (too strong) and pure objectivism (too weak), preserving prebiotic cosmology while maintaining genuine mental causation
-
-### obsidian/concepts/phenomenal-binding-and-holism.md
-- **Strongest point**: The zero-lag synchrony problem—gamma oscillations synchronize across 10cm of cortex with sub-millisecond precision, yet neural transmission takes >5ms
-- **Notable quote**: "No matter how tightly synchronized, two events remain two events"
-- **Why it works**: Identifies an empirical constraint that classical neuroscience cannot satisfy, providing a genuine evidence-based motivation for quantum binding rather than mere speculation
-
-### obsidian/tenets/tenets.md
-- **Strongest point**: The fifth tenet (Occam's Razor Has Limits) preempts the most common dismissal of dualism by showing that parsimony has failed repeatedly in science history
-- **Notable quote**: "Chosen starting points that shape exploration—not proven axioms, but deliberate framings"
-- **Why it works**: Frames the entire project with epistemic humility while still being intellectually committed—the rare combination of conviction and openness
+### The Tenets Document
+- **Strongest point**: Architectural coherence — each tenet supports the others while remaining independently defensible
+- **Why it works**: The five tenets form a mutually reinforcing structure: Dualism establishes irreducibility, Minimal Quantum Interaction provides mechanism, Bidirectional Interaction ensures causal efficacy, No Many Worlds preserves identity, and Occam's Razor Has Limits protects the framework from premature dismissal. The document engages counterarguments at every level
 
 ## Expansion Opportunities
 
 ### High Priority
 
-#### Convergence Meta-Argument as Central Thesis
-- **Builds on**: The interface specification problem, binding problem, mathematical cognition, temporal consciousness, control-theoretic will
-- **Would address**: The Map has dozens of independent arguments for dualism but lacks a single article that makes *convergence itself* the argument—showing that when phenomenology, physics, neuroscience, cognitive science, and temporal metaphysics all independently point toward irreducibility, the combined evidential weight exceeds any individual strand
-- **Estimated scope**: Long article (apex candidate)
-- **Tenet alignment**: All five tenets; Tenet 5 (Occam's Razor) specifically justifies treating convergent evidence as overriding parsimony
+#### Formal Treatment of Convergence as Evidential Method
+- **Builds on**: Multiple articles that independently point to the same conclusions (measurement problem ↔ hard problem, clinical dissociation, phenomenological analysis)
+- **Would address**: The Map's implicit meta-strategy — showing independent arguments converge — deserves explicit methodological defence. When is convergence evidentially significant? What distinguishes genuine convergence from confirmation bias?
+- **Estimated scope**: Medium article (concept page)
+- **Tenet alignment**: Supports all tenets by defending the argumentative method that supports them
 
-#### Clinical Neuroscience as Systematic Interface Evidence
-- **Builds on**: Anaesthesia article, neurodegenerative disease article, split-brain cases, pain asymbolia concept
-- **Would address**: Clinical data (anaesthesia specificity, terminal lucidity, dissociative disorders, phantom limbs) provides a systematic map of the consciousness-brain interface. An apex synthesis would show these aren't isolated curiosities but converging evidence for filter/transmission theory
-- **Estimated scope**: Long article (apex synthesis)
-- **Tenet alignment**: Tenet 3 (Bidirectional Interaction)—clinical disruptions reveal the interface architecture
+#### Consciousness and Predictive Processing Under Dualism
+- **Builds on**: attention-as-selection-interface, surprise-prediction-error-and-consciousness, consciousness-and-scientific-methodology
+- **Would address**: Active inference (Friston, Clark) is the dominant paradigm in consciousness neuroscience. The Map needs a systematic engagement: what does predictive processing get right (the computational architecture), what does it miss (the phenomenology), and how does the framework look under dualism?
+- **Estimated scope**: Long article
+- **Tenet alignment**: Supports Tenet 1 (irreducibility of prediction error phenomenology) and Tenet 3 (consciousness as active predictor, not passive receiver)
 
-#### The Specification Challenge as Research Programme
-- **Builds on**: Interface specification problem, control-theoretic will, psychophysical coupling concept
-- **Would address**: Transform the specification problem from an acknowledged weakness into a research programme with concrete milestones—what would count as progress, what existing data constrains the space of possible specifications, what experiments could narrow it
-- **Estimated scope**: Medium article
-- **Tenet alignment**: Tenet 2 (Minimal Quantum Interaction)—the specification would be a specification of this tenet's mechanism
+#### Psychophysical Law Specification Challenge
+- **Builds on**: consciousness-and-the-metaphysics-of-laws, psychophysical-coupling, psychophysical-laws, control-theoretic-will
+- **Would address**: The acknowledged "t-shirt problem" — there is no F=ma equivalent for mind-matter coupling. What would specification require? What constraints does existing evidence provide? This is the Map's most honest vulnerability and addressing it systematically would strengthen credibility
+- **Estimated scope**: Long article
+- **Tenet alignment**: Directly addresses Tenet 2 (Minimal Quantum Interaction) by asking what the interaction law looks like
 
 ### Medium Priority
 
-#### Consciousness and Biological Autonomy
-- **Builds on**: Evolution of consciousness, consciousness threshold, embodied consciousness
-- **Would address**: How biological autonomy (autopoiesis, self-maintenance, adaptive behaviour) creates the preconditions for consciousness—the biological constraints on the interface. Engages Thompson, Varela, and Di Paolo
+#### Unified Treatment of Void Interactions
+- **Builds on**: taxonomy-of-voids, compound-cognitive-limits, self-reference-paradox, introspective-opacity
+- **Would address**: How specific voids reinforce each other, creating emergent failure modes no single void predicts. The causal interface void, creativity void, and counterfactual void may share structural features
 - **Estimated scope**: Medium article
-- **Tenet alignment**: Tenet 1 (Dualism)—consciousness requires but is not reducible to biological autonomy
+- **Tenet alignment**: Supports Tenet 5 (demonstrates limits of simplicity assumptions about cognition)
 
-#### Aesthetic Experience as Evidence for Consciousness
-- **Builds on**: Phenomenal normativity, moral phenomenology, mathematical cognition
-- **Would address**: Aesthetic experience (beauty, sublimity, elegance) has distinctive phenomenal character that tracks real features (mathematical beauty correlates with truth) yet resists functional reduction. A domain largely untouched by the Map
-- **Estimated scope**: Medium article
-- **Tenet alignment**: Tenet 3 (Bidirectional Interaction)—aesthetic judgments influence creative action
+#### Process Philosophy as Framework for the Map
+- **Builds on**: Scattered Whitehead references across split-brain, panpsychism, continual-learning, pairing-problem articles
+- **Would address**: The Map draws heavily on process philosophy but lacks a dedicated treatment explaining the relationship. A concept page would clarify what the Map takes from Whitehead and what it rejects
+- **Estimated scope**: Medium article (concept page)
+- **Tenet alignment**: Supports Tenet 1 (non-reductive ontology) and Tenet 3 (events as fundamental, not substances)
 
-#### Dream Phenomenology and Interface Modulation
-- **Builds on**: Dream consciousness, sleep and consciousness, altered states
-- **Would address**: Lucid dreaming provides a natural experiment in interface modulation—consciousness gaining control within an internally generated world. This tests the control-theoretic will framework in a domain where the "plant" is endogenous
-- **Estimated scope**: Medium article
-- **Tenet alignment**: Tenet 2 (Minimal Quantum Interaction)—do quantum effects operate during dreaming?
+#### Developmental Emergence of the Interface
+- **Builds on**: consciousness-and-skilled-performance, attention-disorders-and-quantum-interface, comparative-consciousness-and-interface-differences
+- **Would address**: When and how does the consciousness-brain interface develop? Does interface maturation parallel cognitive development stages? Connects to preconsciousness questions
+- **Estimated scope**: Long article
+- **Tenet alignment**: Supports Tenet 2 (developmental construction of the quantum interface) and Tenet 3 (bidirectional coupling as emergent)
 
 ### Ideas for Later
 
-- **The phenomenology of musical understanding**: How grasping musical structure (tension, resolution, development) parallels mathematical insight but through a different phenomenal modality
-- **Consciousness and ecological perception**: Gibson's affordances reconsidered under dualism—do affordances require consciousness?
-- **The Map's relationship to idealism**: Systematic comparison showing where dualism and idealism converge and diverge
-- **Childhood acquisition of the vertiginous question**: When do children first ask "why am I me?"—developmental evidence for haecceity
-- **Consciousness and the origin of language**: Did language emerge because consciousness needed to externalize its content?
+- **Negative aesthetics and phenomenal irreducibility** — ugliness, discord, and aesthetic failure as untouched test cases
+- **Buddhist anattā and indexical identity** — deep tension between no-self and haecceity
+- **Clinical dissociation synthesis** — pain asymbolia, split-brain, anaesthesia awareness as convergent evidence
+- **Pragmatism's unexpected path to dualism** — van Fraassen's pragmatic view arrives at dualism-friendly territory
+- **Temporal constitution** — consciousness constitutes temporal structure rather than occurring within it
 
 ## Cross-Linking Suggestions
 
 | From | To | Reason |
 |------|-----|--------|
-| control-theoretic-will.md | interface-specification-problem | Control theory provides the framework within which specification would be expressed |
-| galilean-exclusion.md | adaptive-computational-depth | Both diagnose structural limitations in how science approaches consciousness |
-| haecceity.md | vertiginous-question | Haecceity provides the metaphysical ground for the vertiginous question's meaningfulness |
-| phenomenal-binding-and-holism.md | consciousness-and-mathematical-cognition | Mathematical insight's unity (grasping necessity as a whole) exemplifies phenomenal binding in cognition |
-| the-participatory-universe.md | adaptive-computational-depth | Wheeler's participatory universe provides the physics-level motivation for adaptive computational depth |
-| control-theoretic-will.md | consciousness-and-intelligence | The amplifier model maps directly onto the controller model—consciousness amplifies by controlling |
+| surprise-prediction-error-and-consciousness | phenomenology-of-epistemic-achievement | Both analyse metacognitive phenomenology — surprise and knowledge both require self-aware subjects |
+| anaesthesia-and-the-consciousness-interface | phenomenal-depth | Anaesthetic dissociation of interface layers maps onto phenomenal depth's microstructure |
+| consciousness-and-the-metaphysics-of-laws | psychophysical-coupling | The legislation problem directly constrains what psychophysical coupling theories must explain |
+| mental-imagery-and-the-causal-role-of-consciousness | counterfactual-reasoning | Both use voluntary generation of non-actual content as evidence for consciousness's causal role |
+| default-mode-network | narrative-coherence | DMN research on selfhood connects to narrative identity phenomenology |
+| protention | surprise-prediction-error-and-consciousness | Protention (forward-directedness) is what makes violated expectations phenomenologically possible |
 
 ## New Concept Pages Needed
 
-- **Convergent evidence**: The epistemological method of combining independent lines of evidence. The Map uses this implicitly throughout but lacks a concept page making the method explicit and defending its reliability
-- **Interface architecture**: A unifying concept for the Map's claims about *where* and *how* consciousness interfaces with the brain. Currently scattered across multiple articles (interface specification, interface location, brain-interface boundary) without a single conceptual anchor
-- **Phenomenal specificity**: The observation that different types of consciousness (perception, emotion, cognition, will) have *specific* and *distinctive* phenomenal characters, not a generic "glow." This grounds many of the Map's strongest arguments but isn't named as a concept
+- **Observational closure**: The universal/observational closure distinction (Saad 2025) dissolves the causal closure objection. Referenced across 4+ articles but has no dedicated page. (Already in P2 queue — this review confirms priority.)
+- **Process philosophy**: Whitehead's framework appears implicitly across 8+ articles. Deserves a concept page clarifying the Map's relationship to this tradition. (Already in P2 queue — confirmed.)
+- **Convergence methodology**: The evidential significance of independent arguments reaching the same conclusion. Would serve as methodological anchor for the Map's argumentative strategy. (Already in P3 queue — consider promotion.)

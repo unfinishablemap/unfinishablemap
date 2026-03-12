@@ -34,6 +34,7 @@ related_articles:
 - '[[dream-consciousness]]'
 - '[[capability-division-problem]]'
 - '[[memory-as-dual-domain-capability]]'
+- '[[hypnagogic-phenomenology-and-interface-modulation]]'
 title: Sleep and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -62,13 +63,14 @@ High-density EEG studies reveal that [dreaming](/topics/dream-consciousness/) du
 
 | State | Typical Experience | Neural Signature |
 |-------|-------------------|------------------|
+| N1 (hypnagogia) | Loosely directed imagery, bizarre associations | Alpha dropout, theta onset |
 | NREM Stage 2 | Minimal, fragmentary | Sleep spindles, K-complexes |
 | NREM Stage 3 (dreamless) | Nothing—time vanishes | High-amplitude slow waves in posterior cortex |
 | NREM Stage 3 (dreaming) | Thought-like, less vivid than REM | Slow waves sparing posterior hot zone |
 | REM (non-lucid) | Vivid, immersive, bizarre | Desynchronized activity, PGO waves, prefrontal deactivation |
 | REM (lucid) | Vivid with metacognitive awareness | Prefrontal reactivation, beta/gamma resonance |
 
-The gradient runs from unconscious NREM (when slow waves dominate the hot zone) through thought-like NREM dreaming, to immersive REM, to metacognitively enriched lucid REM. Consciousness doesn't switch off during sleep—it modulates through states.
+The gradient runs from the [hypnagogic transition](/topics/hypnagogic-phenomenology-and-interface-modulation/) at sleep onset—where consciousness loosens but has not yet disengaged—through unconscious NREM (when slow waves dominate the hot zone), thought-like NREM dreaming, immersive REM, to metacognitively enriched lucid REM. Consciousness doesn't switch off during sleep—it modulates through states.
 
 ### Why Slow Waves Disrupt Consciousness
 
@@ -169,6 +171,7 @@ The Map's interpretation would face difficulty if:
 - [dream-consciousness](/topics/dream-consciousness/) — Lucid dreaming, problem-solving, and the filter model applied to dreams
 - [decoherence](/concepts/decoherence/) — Quantum Zeno mechanism and sleep state transitions
 - [haecceity](/concepts/haecceity/) — Indexical identity through the sleep-wake gap
+- [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — The sleep-onset transition as a window into interface modulation
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Sleep within the broader taxonomy of ASCs
 - [sleep-memory-consolidation-consciousness-2026-01-18](/research/sleep-memory-consolidation-consciousness-2026-01-18/) — Detailed research notes
 - [capability-division-problem](/voids/capability-division-problem/) — Which capabilities belong to the brain and which to consciousness

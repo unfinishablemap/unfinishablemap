@@ -107,7 +107,7 @@ The eliminativist cannot dismiss this by claiming the self *seems* substantial w
 
 The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. If so, *this* consciousness has made *these* choices, influenced *these* quantum outcomes, shaped *this* causal history. A minimal self—bare perspective—does not make choices. A narrative self—a story—does not cause events. Only a substantial self—a genuine [causal agent](/concepts/agent-causation/)—can do these things.
 
-This is the Map's strongest argument for the substantial self. If consciousness is causally efficacious (as the bidirectional tenet asserts), then the self is not merely a perspective from which events are witnessed, nor a story imposed upon events after the fact. It is a participant in events—an agent whose causal contribution is real and irreducible.
+This is the Map's strongest argument for the substantial self. If consciousness is causally efficacious (as the bidirectional tenet asserts), then the self is not merely a perspective from which events are witnessed, nor a story imposed upon events after the fact. It is a participant in events—an agent whose causal contribution is real and irreducible. The [indexical gap in quantum measurement](/topics/indexical-identity-quantum-measurement/) develops how this causal agency operates: consciousness grounds the fact that *this* subject experiences *this* outcome.
 
 ## Three Layers, Not Three Options
 

@@ -173,6 +173,7 @@ The model generates falsifiable predictions:
 - [decoherence](/concepts/decoherence/) — The decoherence objection and responses
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for conscious causation
 - [the-participatory-universe](/topics/the-participatory-universe/) — Wheeler's participatory vision that Stapp concretises
+- [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical gap: why *this* consciousness selects *this* outcome
 - [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — Whether valence could extend the Zeno mechanism beyond value-neutral attention
 - [stapp-mental-effort-mind-matter-2026-01-14](/research/stapp-mental-effort-mind-matter-2026-01-14/) — Detailed research notes
 

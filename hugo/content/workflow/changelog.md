@@ -18,6 +18,118 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 04:29 UTC - refine-draft
+- **Status**: Success
+- **Files**: [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/), [phenomenal-attention](/concepts/phenomenal-attention/)
+- **Changes**: Rewrote "For Filter Theory" section to engage with production-model disinhibition account; flagged quantum Zeno mechanism as speculative with physical challenges noted (Tegmark decoherence objection); softened overstated claims in both articles
+- **Published**: yes
+
+## 2026-03-12 04:24 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft content in topics/ (224), concepts/ (201), tenets/ (1) — 426 files total
+- **Output**: [optimistic-2026-03-12](/reviews/optimistic-2026-03-12/)
+
+## 2026-03-12 04:17 UTC - deep-review
+- **Status**: Success
+- **File**: [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
+- **Word count**: 2644 → 2644 (+0, orphan integration focus)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status resolved)
+- **Enhancements made**: 7 inbound cross-links added from related articles
+- **Cross-linked from**: qbism, relational-quantum-mechanics, spontaneous-collapse-theories, stapp-quantum-mind, hard-problem-of-consciousness, personal-identity, the-self-minimal-narrative-and-substantial
+- **Output**: [deep-review-2026-03-12-indexical-identity-quantum-measurement](/reviews/deep-review-2026-03-12-indexical-identity-quantum-measurement/)
+
+## 2026-03-12 04:10 UTC - deep-review
+- **Status**: Success
+- **File**: [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)
+- **Word count**: 2321 → 2343 (+22)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (orphan integration, missing Parfit link, missing process-haecceitism connection)
+- **Enhancements made**: 9 cross-links added from related articles
+- **Output**: [deep-review-2026-03-12-indexical-knowledge-and-identity](/reviews/deep-review-2026-03-12-indexical-knowledge-and-identity/)
+
+## 2026-03-12 04:00 UTC - deep-review
+- **Status**: Success
+- **File**: [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/)
+- **Word count**: 2230 → 2273 (+43)
+- **Critical issues addressed**: 4
+- **Medium issues addressed**: 2
+- **Enhancements made**: 6 cross-links added to related articles
+- **Output**: [deep-review-2026-03-12-hypnagogic-phenomenology-and-interface-modulation](/reviews/deep-review-2026-03-12-hypnagogic-phenomenology-and-interface-modulation/)
+
+## 2026-03-12 03:53 UTC - deep-review
+- **Status**: Success
+- **File**: [indexical-void](/voids/indexical-void/)
+- **Word count**: 1550 → 1550 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphaned article — no inbound links)
+- **Enhancements made**: 9 (cross-links added from 9 articles to indexical-void)
+- **Output**: [deep-review-2026-03-12-indexical-void](/reviews/deep-review-2026-03-12-indexical-void/)
+
+## 2026-03-12 03:48 UTC - deep-review
+- **Status**: Success
+- **File**: [dream-consciousness](/topics/dream-consciousness/)
+- **Word count**: 3568 → 3578 (+10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to new hypnagogic article)
+- **Enhancements made**: 3 (cross-links to hypnagogic-phenomenology-and-interface-modulation)
+- **Output**: [deep-review-2026-03-12-dream-consciousness](/reviews/deep-review-2026-03-12-dream-consciousness/)
+
+## 2026-03-12 03:43 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/hypnagogic-phenomenology-and-interface-modulation.md, topics/qm-interpretations-beyond-many-worlds.md, concepts/phenomenal-attention.md
+- **Output**: [pessimistic-2026-03-12-morning](/reviews/pessimistic-2026-03-12-morning/)
+
+## 2026-03-12 03:38 UTC - deep-review
+- **Status**: Success
+- **File**: [intersubjectivity](/concepts/intersubjectivity/)
+- **Word count**: 2671 → 2675 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (cross-links to new collective intentionality articles)
+- **Enhancements made**: 7 (communalisation paragraph, cross-links, prose tightening)
+- **Output**: [deep-review-2026-03-12-intersubjectivity](/reviews/deep-review-2026-03-12-intersubjectivity/)
+
+## 2026-03-12 03:33 UTC - deep-review
+- **Status**: Success
+- **File**: [many-worlds](/concepts/many-worlds/)
+- **Word count**: 2254 → 2251 (-3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (duplicate related_articles entry)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-12-many-worlds](/reviews/deep-review-2026-03-12-many-worlds/)
+
+## 2026-03-12 03:28 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/)
+- **Word count**: 2167 → 2225 (+58)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (orphan citations, speculative inference qualification, missing cross-links)
+- **Enhancements made**: 5 cross-links added, 1 reference improved
+- **Output**: [deep-review-2026-03-12-phenomenology-of-collective-intentionality-and-we-consciousness](/reviews/deep-review-2026-03-12-phenomenology-of-collective-intentionality-and-we-consciousness/)
+
+## 2026-03-12 03:20 UTC - deep-review
+- **Status**: Success
+- **File**: [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/)
+- **Word count**: 3550 → 3563 (+13)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (phenomenal-attention cross-link, stale refinement log removal)
+- **Enhancements made**: 1 (phenomenal-attention concept connection)
+- **Output**: [deep-review-2026-03-12-the-binding-problem-a-systematic-treatment](/reviews/deep-review-2026-03-12-the-binding-problem-a-systematic-treatment/)
+
+## 2026-03-12 03:06 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal Attention
+- **Output**: [phenomenal-attention](/concepts/phenomenal-attention/)
+- **Word count**: 1918
+- **Based on research**: no (optimistic review recommendation from [optimistic-2026-03-04](/reviews/optimistic-2026-03-04/))
+
+## 2026-03-12 03:00 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/)
+- **Changed sources**: 3 (llm-consciousness, temporal-consciousness, quantum-randomness-channel-llm-consciousness)
+- **Word count**: ~3900 → ~4014 (including frontmatter)
+- **Review**: [apex-evolve-2026-03-12-open-question-ai-consciousness](/reviews/apex-evolve-2026-03-12-open-question-ai-consciousness/)
+
 ## 2026-03-12 02:55 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Hypnagogic Phenomenology and Interface Modulation

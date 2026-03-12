@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-02-17 08:27:00+00:00
+ai_modified: 2026-03-12 04:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -23,12 +23,13 @@ description: Knowledge expressible only as 'I', 'here', 'now'—irreducible to i
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-17 08:27:00+00:00
+last_deep_review: 2026-03-12 04:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[indexical-identity-quantum-measurement]]'
 - '[[consciousness-only-territories]]'
+- '[[indexical-void]]'
 title: Indexical Knowledge and Identity
 topics:
 - '[[vertiginous-question]]'
@@ -84,7 +85,7 @@ The Unfinishable Map's position requires the metaphysical thesis. Three argument
 
 **The phenomenological argument**: The immediacy of self-locating knowledge suggests it tracks something real. You don't infer "I exist" from impersonal premises—the knowledge is given directly. If indexical facts were merely modes of access to impersonal facts, the knowledge should feel derivative. Instead, it has a directness suggesting it is not derived from anything more basic.
 
-**The counterfactual argument**: If there were only impersonal facts, the question "why am I *this* subject?" would be meaningless or trivially answered. But the question feels meaningful and non-trivial. If the question is coherent, what would make its answer true or false? Impersonal facts alone don't seem sufficient; something must ground the indexical.
+**The counterfactual argument**: If there were only impersonal facts, the question "why am I *this* subject?" would be meaningless or trivially answered. But the question feels meaningful and non-trivial—the [indexical-void](/voids/indexical-void/) marks the cognitive boundary where this question confronts its own inexplicability. If the question is coherent, what would make its answer true or false? Impersonal facts alone don't seem sufficient; something must ground the indexical.
 
 Christian List argues that irreducible indexical facts provide evidence against "third-personal metaphysics"—any picture treating reality as fully describable without indexicals. If physics describes the universe in context-free terms yet self-locating knowledge adds something physics doesn't contain, then physics is incomplete as an account of what exists.
 
@@ -102,11 +103,11 @@ Science aspires to describe reality from no particular perspective—Thomas Nage
 
 The question "what makes me the same person over time?" traditionally concerns criteria of identity—psychological continuity, physical continuity, or both. But indexical knowledge raises a prior question: what makes me *this* person right now?
 
-Pattern-identity theories (following Parfit) hold that personal identity consists in patterns of psychological continuity. But indexical facts resist pattern reduction. Two people could hypothetically share all psychological patterns (through perfect copying), yet there would be a fact about which one is me. The indexical "I" picks out something that patterns alone don't determine.
+Pattern-identity theories (following [Parfit](/concepts/parfit-reductionism/)) hold that personal identity consists in patterns of psychological continuity. But indexical facts resist pattern reduction. Two people could hypothetically share all psychological patterns (through perfect copying), yet there would be a fact about which one is me. The indexical "I" picks out something that patterns alone don't determine.
 
 The connection to [haecceity](/concepts/haecceity/) runs deep. Haecceity is primitive "thisness" that makes something *this* particular thing rather than another qualitatively identical thing. Robert Adams argued that "primitive thisness" cannot be reduced to general properties. Self-locating knowledge tracks haecceitistic facts—the fact that *I* am this subject, that *this* experience is happening to me.
 
-Teleportation thought experiments sharpen the point. If you are scanned, destroyed, and reconstructed on Mars, the replica has all your qualitative properties. The question is whether *you*—this subject—survive. Self-locating knowledge brings out what's at stake: not whether a qualitative duplicate exists, but whether the indexical continuity persists.
+Teleportation thought experiments sharpen the point. If you are scanned, destroyed, and reconstructed on Mars, the replica has all your qualitative properties. The question is whether *you*—this subject—survive. Self-locating knowledge brings out what's at stake: not whether a qualitative duplicate exists, but whether the indexical continuity persists. [Process haecceitism](/concepts/process-haecceitism/) shows that this particularity need not require a permanent soul-substance—haecceity can apply to experiential *processes*, grounding indexical identity without permanence.
 
 ## The Sleeping Beauty Problem
 
@@ -155,6 +156,7 @@ Indexical knowledge and identity connect to The Unfinishable Map's [tenets](/ten
 - [personal-identity](/topics/personal-identity/) — What makes you the same person over time
 - [many-worlds](/concepts/many-worlds/) — Why indexical identity poses problems for branching interpretations
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical gap in quantum physics
+- [indexical-void](/voids/indexical-void/) — The cognitive boundary where first-person identity resists explanation
 
 ## References
 

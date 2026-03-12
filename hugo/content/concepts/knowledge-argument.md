@@ -122,7 +122,7 @@ The knowledge argument shares deep structure with other anti-physicalist argumen
 
 **What Is It Like to Be a Bat?**: Thomas Nagel's earlier argument (1974) anticipated Jackson. Nagel argued that knowing all physical facts about bat echolocation wouldn't tell us what it's *like* to be a bat. Mary's Room makes the same point with human consciousness, strengthening it by eliminating species differences.
 
-**Acquaintance Knowledge**: What Mary gains has been characterized as *acquaintance knowledge*—direct experiential familiarity with a phenomenal quality, distinct from propositional knowledge (knowing-that) or ability knowledge (knowing-how). This illuminates [territories accessible only to conscious beings](/voids/consciousness-only-territories/): regions of knowledge structurally inaccessible to systems lacking phenomenal experience.
+**Acquaintance Knowledge**: What Mary gains has been characterized as *acquaintance knowledge*—direct experiential familiarity with a phenomenal quality, distinct from propositional knowledge (knowing-that) or ability knowledge (knowing-how). This is the strongest grade of [indexical knowledge](/concepts/indexical-knowledge-and-identity/)—phenomenal indexical knowledge that combines the irreducibility of self-location with the irreducibility of qualitative experience. It illuminates [territories accessible only to conscious beings](/voids/consciousness-only-territories/): regions of knowledge structurally inaccessible to systems lacking phenomenal experience.
 
 **The Objectivity Paradox**: Mary's case exemplifies the broader tension between [objectivity and consciousness](/concepts/objectivity-and-consciousness/). Science aims for the "view from nowhere"—perspective-free description independent of any observer. But consciousness *is* perspective. Mary possessed the maximally objective description of color vision yet lacked the subjective reality it describes. Eliminating the observer eliminates the subject matter.
 
@@ -193,6 +193,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 - [illusionism](/concepts/illusionism/) — The radical physicalist response denying phenomenal facts exist
 - [introspection](/concepts/introspection/) — How Mary recognizes she learned something new
 - [russellian-monism](/concepts/russellian-monism/) — The structure/intrinsic nature distinction underlying the argument
+- [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — Three grades of indexical knowledge, from perspectival to phenomenal
 - [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) — Why Mary's learning shows phenomenal character exceeds dispositional description
 - [materialism](/concepts/materialism/) — The view the argument challenges
 - [language-and-consciousness](/concepts/language-and-consciousness/) — How reference to consciousness resists standard theories of meaning, reinforcing the knowledge argument's gap

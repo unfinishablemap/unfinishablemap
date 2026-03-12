@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-03-11 18:33:00+00:00
+ai_modified: 2026-03-12 03:53:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-10 14:08:00+00:00
 apex_sources:
@@ -153,7 +153,7 @@ The taxonomy connects to every one of the Map's [tenets](/tenets/), but most dee
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** relates to the naturally occluded category. If consciousness biases quantum outcomes minimally, the mechanism would need to operate below the threshold of introspective detection—and the adaptive framework suggests evolution would actively maintain this opacity.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** connects through the indexical voids. The question "why am I *this* consciousness experiencing *this* outcome?" is preserved as a genuine void rather than dissolved by declaring all outcomes equally real.
+**[No Many Worlds](/tenets/#no-many-worlds)** connects through the indexical voids. The question "why am I *this* consciousness experiencing *this* outcome?"—explored in depth in [The Indexical Void](/voids/indexical-void/)—is preserved as a genuine void rather than dissolved by declaring all outcomes equally real.
 
 ## Source Articles
 
