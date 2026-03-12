@@ -36,6 +36,7 @@ related_articles:
   - "[[the-observer-witness-in-meditation]]"
   - "[[first-person-third-person-methodology]]"
   - "[[introspection-rehabilitation]]"
+  - "[[epistemology-of-introspection]]"
   - "[[phenomenology-of-returning-attention]]"
   - "[[paradox-of-effortless-mastery]]"
   - "[[contemplative-pathology-and-interface-malfunction]]"

@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-12
 
-### P2: Integrate epistemology-of-introspection.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article on the epistemology of introspection — foundational for the Map's reliance on first-person evidence. Add cross-references from introspection.md, contemplative-epistemology.md, and epistemic-advantages-of-dualism.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-12
-
 ### P3: Deep review time-consciousness-growing-block.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. Major synthesis piece on temporal consciousness under the growing block theory — one of the Map's core metaphysical commitments. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
@@ -614,6 +608,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Integrate epistemology-of-introspection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the epistemology of introspection — foundational for the Map's reliance on first-person evidence. Add cross-references from introspection.md, contemplative-epistemology.md, and epistemic-advantages-of-dualism.md.
+- **Output**: obsidian/topics/epistemology-of-introspection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-12: Deep review pre-conceptual-knowing.md
 - **Type**: deep-review

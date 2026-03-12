@@ -25,6 +25,7 @@ related_articles:
   - "[[phenomenal-conservatism-and-introspective-evidence]]"
   - "[[introspective-opacity]]"
   - "[[introspection-reliability-first-person-2026-01-15]]"
+  - "[[epistemology-of-introspection]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -123,7 +124,7 @@ Consciousness research that restricts itself to third-person methods studies beh
 
 [[phenomenal-conservatism-and-introspective-evidence|Phenomenal conservatism]] provides the epistemological grounding: if experience presents itself as qualitative, unified, and subjective, those presentations deserve default trust as evidence. The rehabilitation programme shows that this default trust, while requiring qualification, is not misplaced. Specific methods address specific failure modes. Training improves accuracy. Cross-modal verification constrains confabulation.
 
-The result is not a return to Cartesian infallibility but something more useful: a calibrated, methodologically aware form of first-person investigation that can work alongside neuroscience rather than being dismissed by it.
+The result is not a return to Cartesian infallibility but something more useful: a calibrated, methodologically aware form of first-person investigation that can work alongside neuroscience rather than being dismissed by it. The [[epistemology-of-introspection|epistemology of introspection]] develops the positive account — arguing that introspection is best understood as a sui generis epistemic capacity, neither perception nor inference, providing direct but fallible access to phenomenal states.
 
 ## Relation to Site Perspective
 
@@ -143,6 +144,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains 
 - [[contemplative-epistemology]] — Systematic contemplative practice as knowledge source
 - [[phenomenological-evidence]] — When first-person reports constitute evidence
 - [[first-person-third-person-methodology]] — The persistent methodological gap
+- [[epistemology-of-introspection]] — Competing models of introspective epistemology and the sui generis account
 
 ## References
 
