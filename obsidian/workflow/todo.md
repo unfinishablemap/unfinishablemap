@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on alignment in objective experiential terms
-- **Type**: expand-topic
-- **Notes**: Research completed in research/alignment-objective-experiential-terms-2026-01-16.md. If consciousness is irreducible, AI alignment cannot be specified purely in behavioural terms — it must reference experiential states. Explores how dualism reshapes the alignment problem. Connects AI discourse to the Map's framework. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-12
-
 ### P3: Deep review time-consciousness-growing-block.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. Major synthesis piece on temporal consciousness under the growing block theory — one of the Map's core metaphysical commitments. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
@@ -602,6 +596,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Write article on alignment in objective experiential terms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/alignment-objective-experiential-terms-2026-01-16.md. If consciousness is irreducible, AI alignment cannot be specified purely in behavioural terms — it must reference experiential states. Explores how dualism reshapes the alignment problem. Connects AI discourse to the Map's framework. Target section: topics/.
+- **Output**: alignment in objective experiential terms
 
 ### ✓ 2026-03-12: Write article on phenomenal binding and multimodal integration
 - **Type**: expand-topic
