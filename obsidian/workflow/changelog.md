@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 01:15 UTC - refine-draft
+- **Status**: Success
+- **File**: [[valence-as-selection-currency]]
+- **Changes**: Reframed formal selection law as structural claim distinct from computational reward models; developed three discriminating empirical domains (wanting/liking dissociation, first-encounter aesthetics, moral override); added Berridge (2009) reference
+- **Published**: yes
+
 ## 2026-03-12 01:12 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: voids/substrate-void.md, topics/valence-as-selection-currency.md, topics/resolution-bandwidth-interface.md
