@@ -4,7 +4,7 @@ description: "Cross-modal binding—unifying vision, hearing, and touch into one
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-12T02:34:00+00:00
+ai_modified: 2026-03-12T05:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-12
 last_curated:
-last_deep_review: 2026-03-12T02:34:00+00:00
+last_deep_review: 2026-03-12T05:19:00+00:00
 ---
 
 The Unfinishable Map treats multimodal integration as the binding problem's sharpest test case. When you watch someone speak, vision delivers lip movements, audition delivers speech sounds, and proprioception delivers your own position relative to the speaker. These signals arrive at different cortical regions, at different speeds (vision ~50ms to cortex, audition ~20ms, touch ~20ms), encoded in fundamentally different representational formats. Yet you experience none of this separation. You experience one person speaking in one place at one time. This article argues that multimodal binding exposes the gap between computational coordination and phenomenal unity more clearly than any other variety of binding — because the inputs differ not just in location but in *kind*.
@@ -101,11 +101,21 @@ Multimodal integration illuminates the Map's [[tenets]] with particular clarity.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The thalamus receives converging inputs from all sensory modalities and projects widely to cortex. If quantum collapse at thalamic relay neurons produces unified phenomenal content — as the Map's framework proposes — this provides a mechanism for multimodal binding that classical coordination cannot. Quantum entanglement offers genuine holism: an entangled system has properties irreducible to its parts, mirroring how multimodal experience has qualities irreducible to its sensory components.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: You can voluntarily shift attention between modalities — focusing on what you see, then on what you hear, then on the overall atmosphere. These shifts alter which binding configuration consciousness selects. If consciousness merely reflected neural binding passively, voluntary attentional control over multimodal integration would be inexplicable.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: You can voluntarily shift [[attention-as-selection-interface|attention]] between modalities — focusing on what you see, then on what you hear, then on the overall atmosphere. These shifts alter which binding configuration consciousness selects. If consciousness merely reflected neural binding passively, voluntary attentional control over multimodal integration would be inexplicable.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: At each moment, you experience *this* particular multimodal configuration — this visual scene bound with this soundscape bound with this bodily feeling. In many-worlds, every possible binding configuration occurs. The phenomenological fact that one configuration is actual requires genuine collapse.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The computational story (superior colliculus, thalamic coordination, global workspace) seems to explain multimodal binding. But it explains BP1 while ignoring phenomenal binding (BP2) — accounting for information coordination while leaving phenomenal unity untouched. The apparent parsimony of the neural account reflects incomplete problem specification, not genuine simplicity.
+
+## What Would Challenge This View?
+
+The claim that multimodal binding exposes an irreducible gap would face difficulty if:
+
+- **A computational model predicted conjoint phenomenology.** If a model could predict not just *that* audiovisual stimuli bind but *what the unified percept is like* — the specific qualitative character of hearing-while-seeing versus hearing alone — the gap between BP1 and BP2 would narrow.
+
+- **Inverse effectiveness proved purely informational.** If the phenomenal richness of combined weak stimuli could be fully explained as Bayesian inference without phenomenal residue — if the "vividness" were just increased confidence — the combination-problem parallel would dissolve.
+
+- **Temporal recalibration proved symmetrical with unconscious processing.** If subliminal cross-modal stimuli showed identical temporal recalibration to conscious perception, the claim that recalibration reflects a design constraint on *consciousness* (rather than on information processing generally) would weaken.
 
 ## Further Reading
 

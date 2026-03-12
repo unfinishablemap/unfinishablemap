@@ -106,6 +106,7 @@ This dual-domain reading also addresses the construction problem. The [[phenomen
 - [[perception-and-conscious-experience]]
 - [[consciousness-as-perceptual-architect]]
 - [[unity-of-consciousness]]
+- [[phenomenal-binding-and-multimodal-integration]]
 - [[visual-consciousness]]
 - [[memory-as-dual-domain-capability]]
 

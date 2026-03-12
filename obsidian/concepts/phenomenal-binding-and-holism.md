@@ -146,6 +146,7 @@ Phenomenal binding illuminates why the Map's [[tenets]] take the positions they 
 - [[unity-of-consciousness]] — Phenomenal unity, its varieties, and the broader conceptual framing
 - [[quantum-holism-and-phenomenal-unity]] — Extended structural argument, decoherence debate, and experimental evidence for quantum binding
 - [[quantum-coherence-and-binding-evidence]] — Experimental support for quantum binding mechanisms
+- [[phenomenal-binding-and-multimodal-integration]] — Cross-modal binding as the hardest case: temporal recalibration, inverse effectiveness, and the phenomenology of place
 - [[perception-and-conscious-experience]] — Perceptual experience as the paradigm case of binding, including cross-modal unity
 - [[binding-problem]] — The neural challenge and historical formulation
 - [[combination-problem]] — Panpsychism's parallel challenge

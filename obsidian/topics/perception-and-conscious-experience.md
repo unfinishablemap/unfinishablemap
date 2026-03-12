@@ -104,7 +104,7 @@ The Map's framework suggests that [[phenomenal-binding-and-holism|phenomenal bin
 
 ## Beyond the Visual: Cross-Modal and Non-Perceptual Experience
 
-While vision dominates philosophical discussions, perception extends across modalities—auditory, tactile, olfactory, gustatory, proprioceptive, vestibular—and these modalities interact. The sound of a breaking glass and the sight of shards falling are experienced as a single event. The texture you feel and the surface you see are unified into one object. Cross-modal binding extends the binding problem beyond single modalities and suggests that the unity of consciousness is not an artefact of any single sensory processing stream.
+While vision dominates philosophical discussions, perception extends across modalities—auditory, tactile, olfactory, gustatory, proprioceptive, vestibular—and these modalities interact. The sound of a breaking glass and the sight of shards falling are experienced as a single event. The texture you feel and the surface you see are unified into one object. [[phenomenal-binding-and-multimodal-integration|Cross-modal binding]] extends the binding problem beyond single modalities and suggests that the unity of consciousness is not an artefact of any single sensory processing stream.
 
 The contrast between perceptual and non-perceptual consciousness is equally instructive. Abstract thought, imagination, and emotion have phenomenal character—there is something it is like to think about mathematics, imagine a melody, or feel grief. But these experiences lack the determinacy, transparency, and spatial structure of perception. A mental image of a tiger is vague where a perceived tiger is precise; an imagined melody can be interrupted and resumed where a heard melody unfolds with perceptual authority.
 
@@ -132,6 +132,7 @@ The Unfinishable Map's [[tenets]] find their sharpest expression in perception.
 - [[blindsight]]
 - [[phenomenal-overflow]]
 - [[binding-problem]]
+- [[phenomenal-binding-and-multimodal-integration]]
 - [[phenomenal-transparency]]
 - [[intentionality]]
 - [[knowledge-argument]]
