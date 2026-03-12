@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-12T00:39:00+00:00
+ai_modified: 2026-03-12T00:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on QM interpretations beyond many-worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/qm-interpretations-beyond-mwi-2026-01-16.md. The Map rejects MWI (Tenet 4) but needs systematic treatment of alternative QM interpretations that are compatible with consciousness-collapse. Covers GRW, transactional interpretation, relational QM, and their compatibility with the Map's framework. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-12
+
+### P2: Write article on phenomenal binding and multimodal integration
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenal-binding-multimodal-integration-2026-01-23.md. How consciousness unifies information across sensory modalities into coherent experience — a key challenge for physicalism and evidence for irreducibility. The binding problem is referenced across many articles but multimodal integration deserves dedicated treatment. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-12
+
+### P2: Write article on alignment in objective experiential terms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/alignment-objective-experiential-terms-2026-01-16.md. If consciousness is irreducible, AI alignment cannot be specified purely in behavioural terms — it must reference experiential states. Explores how dualism reshapes the alignment problem. Connects AI discourse to the Map's framework. Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-12
+
+### P2: Integrate decision-theory-cannot-save-many-worlds.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article arguing that decision-theoretic attempts to recover probability in MWI fail — directly supports Tenet 4 (No Many Worlds). Add cross-references from many-worlds-interpretation.md, quantum-probability-and-consciousness.md, and probability-objections-many-worlds.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-12
+
+### P2: Integrate dreams-as-consciousness-laboratory.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on dreams as a natural laboratory for studying consciousness — relevant to the Map's treatment of altered states and interface modulation. Add cross-references from dream-consciousness.md, lucid-dreaming-as-capability-evidence.md, and coupling-modes.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-12
+
+### P2: Integrate epistemology-of-introspection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the epistemology of introspection — foundational for the Map's reliance on first-person evidence. Add cross-references from introspection.md, contemplative-epistemology.md, and epistemic-advantages-of-dualism.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-12
 
 ### P3: Deep review time-consciousness-growing-block.md
 - **Type**: deep-review
