@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-12 00:20:00+00:00
+ai_modified: 2026-03-12 00:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,6 +20,7 @@ concepts:
 - '[[decoherence]]'
 - '[[concepts/many-worlds]]'
 - '[[buddhism-and-dualism]]'
+- '[[trilemma-of-selection]]'
 created: 2026-01-18
 date: &id001 2026-01-21
 description: Why indeterminism seems to threaten free will as much as determinism,
@@ -27,7 +28,7 @@ description: Why indeterminism seems to threaten free will as much as determinis
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 13:52:00+00:00
+last_deep_review: 2026-03-12 00:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -109,7 +110,7 @@ Consciousness selects based on reasons—the same reasons that make actions inte
 
 ## Does Selection Really Escape Luck?
 
-Critics might object: what explains why consciousness selected A rather than B? The response: **Reasons** provide contrastive explanation that pure chance lacks. **Phenomenology** distinguishes selection from passive reception—we experience ourselves doing something. **Agent causation** is the terminus of explanation; the regress stops at the agent's exercise of power. **Retrocausality** means selection doesn't occur at a moment but determines which moments exist.
+Critics might object: what explains why consciousness selected A rather than B? The response combines four elements. The agent's *reasons* provide contrastive explanation that pure chance lacks—A was chosen because the agent had grounds for A. The *phenomenology of effort* distinguishes selection from passive reception; we experience ourselves doing something, and that experience tracks real causal engagement. Agent causation is the terminus of explanation: the regress stops at the agent's exercise of power, just as event-causal explanations ultimately stop at brute laws. And if [retrocausal](/concepts/retrocausality/) selection is genuine, the choice doesn't occur at a moment but determines which moments exist—dissolving the temporal framing on which the luck objection depends.
 
 ## What Would Make the Luck Objection Succeed?
 
@@ -117,7 +118,7 @@ The luck objection would succeed if: (1) consciousness doesn't actually select q
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) argue that "phenomenology of effort" is a functional representation, not evidence of non-physical causation. But the illusionist account faces a regress: saying the feeling of effort is a "representation" presupposes something experiencing it. That something cannot be another representation without infinite regress—misrepresentation presupposes presentation.
+[Illusionists](/concepts/illusionism/) argue that "phenomenology of effort" is a functional representation, not evidence of non-physical causation. But the illusionist account faces a regress: saying the feeling of effort is a "representation" presupposes something experiencing the representation. The experiencer cannot itself be another representation without infinite regress—misrepresentation presupposes presentation.
 
 The [introspection literature](/concepts/introspection/) identifies where reports fail (causal processes, decision justification) but also where they succeed (basic phenomenal states, effort). The convergence of phenomenological report with neural signature suggests introspection tracks something real.
 
@@ -152,6 +153,7 @@ The luck objection directly challenges the Map's [Bidirectional Interaction](/te
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The broader framework for consciousness-physics interaction
 - [decoherence](/concepts/decoherence/) — The physics-based objection and quantum biology responses
 - [many-worlds](/concepts/many-worlds/) — Why MWI undermines the selection picture entirely
+- [trilemma-of-selection](/topics/trilemma-of-selection/) — The three-way choice between determinism, randomness, and mental causation
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How genuine agency transforms moral luck and grounds desert
 
 ## References
