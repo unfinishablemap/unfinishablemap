@@ -18,6 +18,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 09:21 UTC - deep-review
+- **Status**: Success
+- **File**: [machine-question](/apex/machine-question/)
+- **Word count**: 4114 → 4114 (+0)
+- **Critical issues addressed**: 2 (broken link reintroduced by apex resynthesis, wrong Hoel paper title/year)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-12-machine-question](/reviews/deep-review-2026-03-12-machine-question/)
+
+## 2026-03-12 08:23 UTC - deep-review
+- **Status**: Success
+- **File**: [minds-without-words](/apex/minds-without-words/)
+- **Word count**: 2619 → 2829 (+210)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (frontmatter misclassification, missing References section, Randeniya imprecision)
+- **Enhancements made**: 1 (References section with 12 entries)
+- **Output**: [deep-review-2026-03-12-minds-without-words](/reviews/deep-review-2026-03-12-minds-without-words/)
+
 ## 2026-03-12 07:20 UTC - deep-review
 - **Status**: Success
 - **File**: [continual-learning-argument](/concepts/continual-learning-argument/)

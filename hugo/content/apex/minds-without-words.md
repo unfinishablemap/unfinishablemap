@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-04 22:18:50+00:00
+ai_modified: 2026-03-12 08:23:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-04 21:25:00+00:00
 apex_sources:
@@ -17,7 +17,6 @@ author: null
 concepts:
 - '[[phenomenal-consciousness]]'
 - '[[baseline-cognition]]'
-- '[[emotional-consciousness]]'
 - '[[evolution-of-consciousness]]'
 - '[[minimal-consciousness]]'
 - '[[mysterianism]]'
@@ -30,7 +29,7 @@ description: Consciousness beyond human language reveals that experience is more
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-02 04:39:00+00:00
+last_deep_review: 2026-03-12 08:23:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,6 +40,7 @@ title: Minds Without Words
 topics:
 - '[[animal-consciousness]]'
 - '[[consciousness-in-simple-organisms]]'
+- '[[emotional-consciousness]]'
 ---
 
 A bat navigates by echolocation, building a sonic map of its world that no human can imagine. An octopus solves puzzles with a nervous system distributed across eight arms, each with its own processing centres. A bee rolls a ball for no apparent reward—play behaviour in a creature with a brain the size of a sesame seed. Somewhere beneath all this lies a question we cannot directly answer: what is it like to be these creatures? Is there something it is like at all?
@@ -81,7 +81,7 @@ The evidence maps onto three functions that [Global Workspace Theory](/concepts/
 
 **Cumulative culture**: Whiten (2015) proposes that "apes have culture but may not know that they do." Great apes express cultural traditions but don't represent these as modifiable practices. Cumulative culture requires metarepresentation—knowing that you know—which appears to require consciousness.
 
-A 2025 meta-analysis (Randeniya) found that only 10% of claimed unconscious processing effects survive rigorous scrutiny—converging with comparative cognition to show that genuinely unconscious processing is far more limited than previously assumed. The human-ape intelligence gap tracks precisely those capacities where consciousness appears causally required. If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—causally inert—this systematic correspondence would be unexplained coincidence.
+A 2025 meta-analysis of fMRI studies (Randeniya) found that only 10% of claimed unconscious processing effects survive rigorous scrutiny—converging with comparative cognition to show that genuinely unconscious processing is far more limited than previously assumed. The human-ape intelligence gap tracks precisely those capacities where consciousness appears causally required. If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—causally inert—this systematic correspondence would be unexplained coincidence.
 
 ## Emotional Consciousness: The Felt Quality of Valence
 
@@ -150,3 +150,18 @@ This apex article synthesises:
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding consciousness
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness transforms baseline cognition into human-level intelligence
 - [delegatory-dualism](/topics/delegatory-dualism/) — The causal structure for consciousness doing work without overdetermination
+
+## References
+
+1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87–114.
+2. Ginsburg, S. & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
+3. Godfrey-Smith, P. (2024). Inferring consciousness in phylogenetically distant organisms. In *The Oxford Handbook of the Philosophy of Consciousness*.
+4. Inoue, S. & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004–R1005.
+5. LeDoux, J.E. & Brown, R. (2017). A higher-order theory of emotional consciousness. *PNAS*, 114(10), E2016–E2025.
+6. Metzinger, T. (2024). Minimal phenomenal experience: The ARAS-model theory. *Philosophy and the Mind Sciences*.
+7. Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435–450.
+8. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
+9. Randeniya, R. (2025). Neural correlates of unconscious processing in fMRI: A meta-analysis.
+10. Scheler, M. (1913/1973). *Formalism in Ethics and Non-Formal Ethics of Values*. Northwestern University Press.
+11. Whiten, A. (2015). Experimental studies illuminate the cultural transmission of percussive technologies in *Homo* and *Pan*. *Philosophical Transactions of the Royal Society B*, 370(1682).
+12. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

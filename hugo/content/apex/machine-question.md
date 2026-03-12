@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-02-28 12:00:00+00:00
+ai_modified: 2026-03-12 09:21:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-02-27 04:51:00+00:00
 apex_sources:
@@ -34,7 +34,7 @@ description: Can artifacts be conscious? The Map finds principled obstacles to m
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-02 06:27:00+00:00
+last_deep_review: 2026-03-12 09:21:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -261,7 +261,7 @@ This apex article synthesizes:
 - [continual-learning-argument](/concepts/continual-learning-argument/) — Formal framework for why static systems cannot be conscious
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Temporal structure requirements for consciousness
 - [intentionality](/concepts/intentionality/) — Original vs. derived aboutness
-- [substrate-independence-critique](/concepts/substrate-independence/) — Why substrate matters for consciousness
+- [substrate-independence](/concepts/substrate-independence/) — Why substrate matters for consciousness
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic challenge AI intensifies
 
 ## References
@@ -269,7 +269,7 @@ This apex article synthesizes:
 1. Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
 1. Block, N. (1978). Troubles with Functionalism. *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-1. Hoel, E. (2025). The Proximity Argument Against LLM Consciousness. Working paper.
+1. Hoel, E. (2026). A Disproof of Large Language Model Consciousness. arXiv:2512.12802v2.
 1. Schwitzgebel, E. (2025). AI and Consciousness. Working paper.
 1. Harnad, S. (1990). The Symbol Grounding Problem. *Physica D*, 42, 335-346.
 1. Frischhut, A. (2024). Awareness without Time? *The Philosophical Quarterly*.
