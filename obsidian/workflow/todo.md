@@ -306,12 +306,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Write concept page for phenomenal attention
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The qualitative, experiential dimension of attending — distinct from computational attention (resource allocation) and attention schema (brain's model of attention). Currently conflated across many articles. Would sharpen the argument against AST, clarify the quantum Zeno mechanism, and address the bandwidth asymmetry. Builds on attention-as-selection-interface.md, attention-schema-theory.md, mental-effort.md, asymmetric-bandwidth-of-consciousness.md. See [[reviews/optimistic-2026-03-04]].
-- **Generated**: 2026-03-04
-
 ### ✓ 2026-03-05: Integrate materialism-argument.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
@@ -584,6 +578,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Write concept page for phenomenal attention
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The qualitative, experiential dimension of attending — distinct from computational attention (resource allocation) and attention schema (brain's model of attention). Currently conflated across many articles. Would sharpen the argument against AST, clarify the quantum Zeno mechanism, and address the bandwidth asymmetry. Builds on attention-as-selection-interface.md, attention-schema-theory.md, mental-effort.md, asymmetric-bandwidth-of-consciousness.md. See [[reviews/optimistic-2026-03-04]].
+- **Output**: Write concept page for phenomenal attention
 
 ### ✓ 2026-03-12: Write article on hypnagogic phenomenology and interface modulation
 - **Type**: expand-topic
