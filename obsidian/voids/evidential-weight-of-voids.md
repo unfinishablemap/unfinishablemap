@@ -22,6 +22,7 @@ related_articles:
   - "[[epistemology-of-cognitive-limits]]"
   - "[[questioning-as-evidence]]"
   - "[[compound-cognitive-limits]]"
+  - "[[convergence-of-the-void-catalogue]]"
   - "[[tenets]]"
 ai_contribution: 100
 author:
@@ -38,7 +39,7 @@ The Map's voids section reveals a striking distribution. The [[limits-reveal-str
 
 Consciousness-related voids behave differently. The hard problem, the [[causal-interface|causal interface]], intrinsic nature, [[other-minds-void|other minds]], [[introspective-opacity|introspective opacity]], the [[binding-void|binding problem]], qualitative novelty, the [[ownership-void|ownership of experience]]—these voids share a common boundary. They all fail at the same juncture: the point where first-person phenomenal reality meets third-person physical description. As Chalmers argues, structural and dynamical explanation—however detailed—yields only more structure and dynamics, never phenomenal experience. What physical explanation provides is categorically different from what consciousness is.
 
-This is not a single gap seen from multiple angles. The [[topology-of-cognitive-failure|topology of cognitive failure]] reveals distinct failure signatures: the hard problem produces explanatory asymmetry, conceivability arguments produce modal gaps, the knowledge argument produces informational gaps, introspective opacity produces access failure. Independent arguments, independent methods, independent failure modes—all converging on the same boundary.
+This is not a single gap seen from multiple angles. The [[convergence-of-the-void-catalogue|convergence analysis]] shows these voids organise into five families, and the [[topology-of-cognitive-failure|topology of cognitive failure]] reveals distinct failure signatures: the hard problem produces explanatory asymmetry, conceivability arguments produce modal gaps, the knowledge argument produces informational gaps, introspective opacity produces access failure. Independent arguments, independent methods, independent failure modes—all converging on the same boundary.
 
 ## The Abductive Argument
 
@@ -105,6 +106,7 @@ The argument also connects to the Map's intellectual honesty about its own limit
 - [[epistemology-of-cognitive-limits]]
 - [[questioning-as-evidence]]
 - [[compound-cognitive-limits]]
+- [[convergence-of-the-void-catalogue]]
 - [[voids]]
 
 ## References

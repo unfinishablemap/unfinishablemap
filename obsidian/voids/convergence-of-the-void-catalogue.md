@@ -4,7 +4,7 @@ description: "Analysis of how independently catalogued cognitive voids converge 
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T17:35:00+00:00
+ai_modified: 2026-03-11T23:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
-last_deep_review: 2026-03-11T17:35:00+00:00
+last_deep_review: 2026-03-11T23:59:00+00:00
 ---
 
 The [[voids|void catalogue]] now contains over a hundred entries, each independently motivated—arising from a specific philosophical puzzle, a particular failure of explanation, a distinct place where thought breaks down. Yet when the catalogue is viewed as a whole, a pattern emerges that no individual entry reveals. The voids are not scattered randomly across the landscape of human inquiry. They cluster, they share boundaries, and they converge on a small number of deep structures. This convergence is itself a finding, arguably more significant than any individual void.

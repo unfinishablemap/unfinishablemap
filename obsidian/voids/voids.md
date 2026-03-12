@@ -61,6 +61,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[origin-of-consciousness|The Origin Void]] — Why consciousness exists at all—the most logically prior void
 - [[topology-of-cognitive-failure|The Topology of Cognitive Failure]] — Using the structure of failure as data
 - [[whether-real|Whether the Voids Are Real]] — Can we determine if limits are permanent?
+- [[convergence-of-the-void-catalogue|Convergence of the Void Catalogue]] — How independently catalogued voids converge into five families
 
 ### Specific Voids
 

@@ -19,6 +19,7 @@ related_articles:
   - "[[self-reference-paradox]]"
   - "[[language-thought-boundary]]"
   - "[[limits-reveal-structure]]"
+  - "[[convergence-of-the-void-catalogue]]"
   - "[[causal-interface]]"
   - "[[intrinsic-nature-void]]"
 ai_contribution: 100
@@ -102,6 +103,7 @@ For [[tenets#^minimal-quantum-interaction|minimal quantum interaction]], compoun
 - [[causal-interface]]
 - [[intrinsic-nature-void]]
 - [[limits-reveal-structure]]
+- [[convergence-of-the-void-catalogue|Convergence of the Void Catalogue]] — How void families share boundaries and converge directionally
 
 ## References
 

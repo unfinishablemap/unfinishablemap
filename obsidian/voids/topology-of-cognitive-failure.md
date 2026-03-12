@@ -24,6 +24,7 @@ related_articles:
   - "[[apophatic-approaches]]"
   - "[[evolved-cognitive-limits]]"
   - "[[compound-cognitive-limits]]"
+  - "[[convergence-of-the-void-catalogue]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -182,6 +183,7 @@ The voids framework itself embodies this insight. We map not by entering void te
 - [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — Formalising the method with evidential standards and safeguards
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Phenomenology of cognitive slippage
 - [[compound-cognitive-limits|Compound Cognitive Limits]] — How failure signatures interact superadditively
+- [[convergence-of-the-void-catalogue|Convergence of the Void Catalogue]] — How voids organise into five families with distinct failure signatures
 - [[self-reference-paradox|The Self-Reference Paradox]] — Where consciousness cannot map because it is the mapper
 - [[mysterianism|Mysterianism]] — McGinn's analysis of cognitive closure
 - [[whether-real|Whether the Voids Are Real]] — Can we determine if limits are permanent?
