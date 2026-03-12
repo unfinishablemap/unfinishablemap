@@ -582,12 +582,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Aesthetic experience (beauty, sublimity, elegance) has distinctive phenomenal character that tracks real features yet resists functional reduction. A domain largely untouched by the Map. See optimistic-2026-03-12.md
 
-### P2: Cross-review consciousness-and-collective-phenomena.md considering collective intentionality insights
-- **Type**: cross-review
-- **Notes**: New article topics/phenomenology-of-collective-intentionality-and-we-consciousness.md treats we-consciousness and shared intentionality under dualism. consciousness-and-collective-phenomena.md covers the broader relationship and should cross-reference the new article's treatment of the phenomenal character of collective intentionality and its challenge to individualist interface models.
-- **Source**: chain (from phenomenology-of-collective-intentionality-and-we-consciousness.md)
-- **Generated**: 2026-03-12
-
 ### P3: Deep review phenomenology-of-collective-intentionality-and-we-consciousness.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-12, never reviewed. Topics article on shared intentionality and we-consciousness under dualism — challenges the interface model's individualist assumptions. Verify coherence, cross-references, and tenet alignment.
@@ -602,6 +596,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Cross-review consciousness-and-collective-phenomena.md considering collective intentionality insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenology-of-collective-intentionality-and-we-consciousness.md treats we-consciousness and shared intentionality under dualism. consciousness-and-collective-phenomena.md covers the broader relationship and should cross-reference the new article's treatment of the phenomenal character of collective intentionality and its challenge to individualist interface models.
+- **Output**: obsidian/topics/consciousness-and-collective-phenomena.md -- Context: Cross-review consciousness-and-collective-phenomena.md considering collective intentionality insights
 
 ### ✓ 2026-03-12: Cross-review dream-consciousness.md considering hypnagogic phenomenology insights
 - **Type**: cross-review

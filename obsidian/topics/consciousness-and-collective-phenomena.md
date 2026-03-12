@@ -4,7 +4,7 @@ description: "Individual consciousness is required for collective intentionality
 created: 2026-02-15
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-10T16:23:00+00:00
+ai_modified: 2026-03-12T06:43:00+00:00
 draft: false
 topics:
   - "[[topics/consciousness-and-social-cognition]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-10
 last_curated:
-last_deep_review: 2026-03-10T16:23:00+00:00
+last_deep_review: 2026-03-12T06:43:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-collective-intelligence/"
   - "/topics/consciousness-and-collective-intentionality/"
@@ -58,7 +58,7 @@ The Map finds proposals for group consciousness — from Durkheim's *conscience 
 
 **The interface problem.** The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that consciousness interfaces with the physical world through quantum indeterminacy in neural systems. A group of people has no analogous physical substrate. Communication between people — speech, gesture, writing — is classical, macroscopic, and far too coarse-grained to serve as a quantum consciousness interface. Without a physical interface, the Map's framework provides no mechanism for group consciousness.
 
-**The phenomenological evidence.** No juror reports participating in a jury-mind. The "group flow" reported by jazz musicians and sports teams is better described as synchronised individual consciousness — each player deeply aware of the others — rather than a merged group experience. The [[intersubjective-void]] persists — compounded by the [[other-minds-void]] at the individual level: no one accesses the group's experience because there is no group experience to access.
+**The phenomenological evidence.** No juror reports participating in a jury-mind. The "group flow" reported by jazz musicians and sports teams is better described as synchronised individual consciousness — each player deeply aware of the others — rather than a merged group experience. This synchronisation can produce a genuine [[phenomenology-of-collective-intentionality-and-we-consciousness|phenomenal shift from I-mode to we-mode experience]], but the "we" is an intentional structure within each individual consciousness, not a bridge between them. The [[intersubjective-void]] persists — compounded by the [[other-minds-void]] at the individual level: no one accesses the group's experience because there is no group experience to access.
 
 **The classical success objection** asks: if collective intelligence works through classical communication, why believe individual cognition needs quantum processes? The Map's response is that the argument concerns where *consciousness* acts, not where *intelligence* arises. Ant colonies demonstrate that intelligence without consciousness is possible; what the Map argues is that distinctively human intelligence — requiring genuine understanding — depends on consciousness acting through quantum-sensitive neural substrates.
 
@@ -68,7 +68,7 @@ If groups are not conscious, why does collective phenomena require consciousness
 
 ### Understanding, Not Just Tracking
 
-When two people carry a table through a doorway, each adjusts grip, pace, and angle in response to the other — not merely reacting to physical forces but coordinating around a shared goal that both understand and both know the other understands. John Searle distinguishes this "we-intentionality" from parallel individual intentions: each participant intends the joint activity *as* joint, aware that the other shares this intention.
+When two people carry a table through a doorway, each adjusts grip, pace, and angle in response to the other — not merely reacting to physical forces but coordinating around a shared goal that both understand and both know the other understands. John Searle distinguishes this "we-intentionality" from parallel individual intentions: each participant intends the joint activity *as* joint, aware that the other shares this intention. Phenomenologists like Zahavi and Schmid go further, arguing that the shift from I-mode to we-mode involves a genuine transformation in experiential perspective — a "first-person plural" that is phenomenologically primitive, not assembled from separate first-person singular viewpoints.
 
 This is metarepresentational — a form of [[metacognition]] requiring the capacity to represent representations *as* representations. You must represent the shared goal *as* shared, represent the other's commitment *as* a commitment, and represent your own role *as* a role in something larger. The "as" in each case marks where mere information processing becomes genuine understanding.
 
@@ -127,6 +127,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet counsels against di
 - [[the-strong-emergence-of-consciousness]] — Strong emergence and the consciousness debate
 - [[intentionality]] — The "aboutness" of mental states and its relation to consciousness
 - [[social-construction-of-self-vs-phenomenal-self]] — Why social construction requires phenomenal subjects
+- [[phenomenology-of-collective-intentionality-and-we-consciousness]] — The distinctive phenomenal character of we-mode experience
 - [[phenomenology-of-trust]] — How trust operates across the intersubjective void
 
 ## References
@@ -140,4 +141,6 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet counsels against di
 1. Durkheim, É. (1893). *The Division of Labor in Society*. Free Press (1997 reprint).
 1. Galton, F. (1907). "Vox Populi." *Nature*, 75, 450-451.
 1. Woolley, A. W., Chabris, C. F., Pentland, A., Hashmi, N., & Malone, T. W. (2010). "Evidence for a Collective Intelligence Factor in the Performance of Human Groups." *Science*, 330(6004), 686-688.
+1. Zahavi, D. (2015). "You, Me, and We: The Sharing of Emotional Experiences." *Journal of Consciousness Studies*, 22(1-2), 84-101.
+1. Schmid, H. B. (2009). *Plural Action: Essays in Philosophy and Social Science*. Springer.
 1. Hegel, G. W. F. (1807). *Phenomenology of Spirit*. Oxford University Press (1977 edition).
