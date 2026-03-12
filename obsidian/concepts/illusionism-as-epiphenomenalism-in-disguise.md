@@ -4,7 +4,7 @@ description: "Illusionism and epiphenomenalism converge on the same structural f
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-03-09T06:11:00+00:00
+ai_modified: 2026-03-12T05:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,16 +18,18 @@ concepts:
   - "[[phenomenal-consciousness]]"
   - "[[concepts/functionalism]]"
   - "[[concepts/hard-problem-of-consciousness]]"
+  - "[[meta-problem-of-consciousness]]"
 related_articles:
   - "[[the-epiphenomenalist-threat]]"
   - "[[self-stultification-as-master-argument]]"
+  - "[[metaproblem-of-consciousness-under-dualism]]"
   - "[[tenets]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-08
 last_curated:
-last_deep_review: 2026-03-09T06:11:00+00:00
+last_deep_review: 2026-03-12T05:56:00+00:00
 ---
 
 Illusionism and [[concepts/epiphenomenalism|epiphenomenalism]] present themselves as opposite positions. Epiphenomenalism grants that [[phenomenal-consciousness]] exists but denies it causes anything. [[illusionism|Illusionism]] denies that phenomenal consciousness exists at all. Yet both positions converge on the same structural outcome: in neither framework do phenomenal properties play any causal role in producing our reports about them. The Unfinishable Map holds that this convergence is not coincidental—illusionism is epiphenomenalism wearing different clothes.
@@ -82,7 +84,7 @@ A factory analogy sharpens the point. The epiphenomenalist says "there is a work
 
 Recognising the convergence matters because illusionism often presents itself as having *solved* the problems that plague dualism and epiphenomenalism. By denying phenomenal consciousness, illusionists claim to have dissolved the [[hard-problem-of-consciousness|hard problem]]—no explanatory gap because there is nothing to bridge. But if illusionism inherits the same self-stultification problem as epiphenomenalism, it has not dissolved the hard problem. It has renamed it.
 
-The illusion problem—explaining why we seem to have phenomenal consciousness—requires explaining a systematic, universal, dissolution-resistant misrepresentation. As the Map's [[illusionism|illusionism article]] argues, this may be as hard as the hard problem itself. The convergence with epiphenomenalism reveals why: both positions must explain how a complete physical story generates discourse about something beyond physics—whether that something is real (epiphenomenalism) or illusory (illusionism). The explanatory burden is structurally identical.
+The illusion problem—explaining why we seem to have phenomenal consciousness—requires explaining a systematic, universal, dissolution-resistant misrepresentation. As the Map's [[illusionism|illusionism article]] argues, this may be as hard as the hard problem itself. The [[meta-problem-of-consciousness|meta-problem of consciousness]] sharpens the point: both illusionism and epiphenomenalism must explain why we *think* consciousness is puzzling, and both face identical structural difficulties in doing so. The convergence with epiphenomenalism reveals why: both positions must explain how a complete physical story generates discourse about something beyond physics—whether that something is real (epiphenomenalism) or illusory (illusionism). The explanatory burden is structurally identical.
 
 ## Relation to Site Perspective
 

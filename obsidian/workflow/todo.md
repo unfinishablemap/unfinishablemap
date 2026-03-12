@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-12
 
-### P2: Integrate illusionism-as-epiphenomenalism-in-disguise.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Concept page arguing that illusionism reduces to epiphenomenalism — if phenomenal consciousness is an illusion, then what does the explanatory work is unconscious processing, making illusionism a disguised form of epiphenomenalism. Add cross-references from epiphenomenalism.md, the-epiphenomenalist-threat.md, and eliminativism.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-12
-
 ### P2: Integrate phenomenology-of-perceptual-learning.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article on how expert perceivers develop qualitatively different experiences through training — evidence for bidirectional interaction. Add cross-references from consciousness-and-skilled-performance.md, philosophy-of-perception-under-dualism.md, and consciousness-and-the-neuroscience-of-deliberate-practice.md.
@@ -626,6 +620,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Integrate illusionism-as-epiphenomenalism-in-disguise.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page arguing that illusionism reduces to epiphenomenalism — if phenomenal consciousness is an illusion, then what does the explanatory work is unconscious processing, making illusionism a disguised form of epiphenomenalism. Add cross-references from epiphenomenalism.md, the-epiphenomenalist-threat.md, and eliminativism.md.
+- **Output**: obsidian/concepts/illusionism-as-epiphenomenalism-in-disguise.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-12: Cross-review attention-as-selection-interface.md considering phenomenal-attention insights
 - **Type**: cross-review

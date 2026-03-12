@@ -155,6 +155,7 @@ Recent work has focused on several questions:
 - Whether illusionism can be empirically distinguished from ordinary [[concepts/materialism]]
 - The "hardest aspect" of the illusion problem: why the illusion resists dissolution
 - Whether illusionism is self-refuting (if our beliefs about consciousness are illusions, why trust our belief in illusionism?)
+- Whether illusionism is [[illusionism-as-epiphenomenalism-in-disguise|structurally equivalent to epiphenomenalism]]—both render phenomenal properties causally idle despite their ontological disagreement
 - How illusionism handles the [[dualism|convergence argument]]—multiple independent routes to the same anti-materialist conclusion
 
 ## Relation to Site Perspective
@@ -186,6 +187,7 @@ The persistence of the illusion problem suggests illusionism doesn't escape the 
 - [[meta-problem-of-consciousness]] — Chalmers's challenge: explaining why we think consciousness is puzzling
 - [[metaproblem-of-consciousness-under-dualism]] — How interactionism converts the metaproblem into evidence for dualism
 - [[heterophenomenology]] — Dennett's methodological foundation for treating consciousness reports as data
+- [[illusionism-as-epiphenomenalism-in-disguise]] — Why illusionism and epiphenomenalism converge on the same causal structure
 - [[concepts/materialism]] — The view illusionism radically defends
 - [[hard-problem-of-consciousness]] — What illusionism claims to dissolve
 

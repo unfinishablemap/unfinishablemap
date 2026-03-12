@@ -78,7 +78,7 @@ This is the sharpest illusionist response, and it deserves direct engagement. Th
 
 ## Illusionism's Escalating Burden
 
-The metaproblem exposes an escalating explanatory burden for [[illusionism]]. The illusionist must provide a purely physical account of problem intuitions that:
+The metaproblem exposes an escalating explanatory burden for [[illusionism]]. The [[illusionism-as-epiphenomenalism-in-disguise|convergence between illusionism and epiphenomenalism]] compounds this burden: illusionism faces the same structural difficulties as epiphenomenalism because both render phenomenal properties causally idle, differing only in whether the idle element exists. The illusionist must provide a purely physical account of problem intuitions that:
 
 1. Explains why the hard problem has resisted dissolution for three decades of sustained philosophical effort
 2. Accounts for the *specific character* of problem intuitions—not just that we find consciousness puzzling, but that we find it puzzling in exactly the ways that track the [[explanatory-gap|explanatory gap]]
@@ -125,6 +125,7 @@ The evolutionary dimension deepens this point. If consciousness was selected bec
 - [[philosophical-zombies]] — The thought experiment sharpening the zombie divergence prediction
 - [[argument-from-reason]] — The broader self-defeat challenge: if reasoning isn't caused by consciousness, it isn't rational
 - [[phenomenal-concepts-strategy]] — Physicalism's attempt to explain problem intuitions
+- [[illusionism-as-epiphenomenalism-in-disguise]] — Why illusionism inherits epiphenomenalism's meta-problem burden
 - [[causal-closure]] — The assumption interactionism rejects
 
 ## References

@@ -181,6 +181,7 @@ The self-stultification problem remains the strongest objection for human consci
 - [[dualism]] — The foundational framework; epiphenomenalism is one of three dualist positions
 - [[pain-consciousness-and-causal-power]] — Why pain is the hardest case for epiphenomenalism: felt awfulness inseparable from motivational force
 - [[mental-causation]] — The problem epiphenomenalism claims to solve
+- [[illusionism-as-epiphenomenalism-in-disguise]] — Why illusionism inherits epiphenomenalism's structural problems
 - [[causal-closure]] — The principle that motivates epiphenomenalism
 - [[metaproblem-of-consciousness-under-dualism]] — The metaproblem as another route to rejecting epiphenomenalism
 - [[interactionist-dualism]] — The Map's alternative framework

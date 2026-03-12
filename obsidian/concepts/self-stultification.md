@@ -84,6 +84,10 @@ Eliminative materialism holds that beliefs don't exist—folk psychology is a ra
 
 Radical skepticism that doubts all knowledge must also doubt itself. The skeptic who claims "we cannot know anything" claims to know something—that we cannot know anything. The position is self-referentially unstable.
 
+### Illusionism
+
+[[illusionism|Illusionism]] denies that phenomenal consciousness exists, replacing it with quasi-phenomenal states. But this [[illusionism-as-epiphenomenalism-in-disguise|converges structurally with epiphenomenalism]]: the illusionist's beliefs about consciousness are produced by physical processes with no contribution from phenomenal properties (which, on their view, don't exist). The illusionist cannot claim their position is *informed by* careful attention to the character of experience, because on their view experience has no character beyond what physical processes produce.
+
 ### Determinism and Rational Inference
 
 If all thoughts are determined by prior physical causes that have nothing to do with logical validity, then the determinist's acceptance of determinism was not caused by rational recognition of good arguments—it was caused by the same blind mechanical processes as any other belief. The [[argument-from-reason]] develops this challenge in detail.
