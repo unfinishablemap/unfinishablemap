@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate autonoetic-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-02-24. Concepts article on autonoetic (self-knowing) consciousness — relevant to types-of-consciousness.md, phenomenology-of-memory-and-the-self.md, and personal-identity.md. Add cross-references from related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-12
-
 ### P2: Deep review buddhist-perspectives-on-meaning.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-04 — 36 days ago. Topics article connecting Buddhist philosophy to meaning and consciousness — important for the Map's cross-tradition engagement. Verify coherence, cross-references, and tenet alignment.
@@ -608,6 +602,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Integrate autonoetic-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-02-24. Concepts article on autonoetic (self-knowing) consciousness — relevant to types-of-consciousness.md, phenomenology-of-memory-and-the-self.md, and personal-identity.md. Add cross-references from related articles.
+- **Output**: autonoetic-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-12: Integrate conservation-laws-mind-brain-causation.md into site navigation
 - **Type**: integrate-orphan
