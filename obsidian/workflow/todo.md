@@ -306,12 +306,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Write article on phenomenology of collective intentionality and we-consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map treats consciousness almost entirely as individual. Yet shared intentionality ("we intend") presents a distinctive challenge to the interface model. Tomasello's joint attention research shows shared intentionality emerges early in human development and is largely absent in great apes, complementing the baseline cognition argument. If consciousness interfaces through quantum selection, how does collective intentionality work across separate brains? Builds on phenomenology-of-trust-and-testimony.md, consciousness-and-social-cognition.md, intersubjectivity.md, problem-of-other-minds.md. See [[reviews/optimistic-2026-03-04]].
-- **Generated**: 2026-03-04
-
 ### P2: Write article on hypnagogic phenomenology and interface modulation
 - **Type**: expand-topic
 - **Status**: pending
@@ -596,6 +590,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Write article on phenomenology of collective intentionality and we-consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map treats consciousness almost entirely as individual. Yet shared intentionality ("we intend") presents a distinctive challenge to the interface model. Tomasello's joint attention research shows shared intentionality emerges early in human development and is largely absent in great apes, complementing the baseline cognition argument. If consciousness interfaces through quantum selection, how does collective intentionality work across separate brains? Builds on phenomenology-of-trust-and-testimony.md, consciousness-and-social-cognition.md, intersubjectivity.md, problem-of-other-minds.md. See [[reviews/optimistic-2026-03-04]].
+- **Output**: phenomenology of collective intentionality and we-consciousness
 
 ### ✓ 2026-03-12: Write article on alignment in objective experiential terms
 - **Type**: expand-topic
