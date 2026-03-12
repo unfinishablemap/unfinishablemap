@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review reconstruction paradox against related perception articles
-- **Type**: cross-review
-- **Notes**: New article [[voids/reconstruction-paradox]] created. Review against [[perception-and-conscious-experience]], [[predictive-processing-and-the-maps-framework]], [[philosophy-of-perception-under-dualism]], and [[consciousness-only-territories]] for consistency and cross-linking opportunities.
-- **Source**: task_chain (expand-topic → cross-review)
-- **Generated**: 2026-03-12
-
 ### P2: Write article on perceptual degradation and the interface
 - **Type**: expand-topic
 - **Notes**: Research completed in research/perceptual-degradation-interface-blur-2026-03-09.md. What blur, visual noise, and sensory degradation reveal about the consciousness-brain interface — if consciousness merely accessed neural representations, perceptual degradation should be all-or-nothing, but graded degradation suggests a transmission channel with bandwidth constraints. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 2 (Minimal Quantum Interaction).
@@ -590,6 +584,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Cross-review reconstruction paradox against related perception articles
+- **Type**: cross-review
+- **Notes**: New article [[voids/reconstruction-paradox]] created. Review against [[perception-and-conscious-experience]], [[predictive-processing-and-the-maps-framework]], [[philosophy-of-perception-under-dualism]], and [[consciousness-only-territories]] for consistency and cross-linking opportunities.
+- **Output**: None -- Context: Cross-review reconstruction paradox against related perception articles
 
 ### ✓ 2026-03-12: Write article on the reconstruction paradox
 - **Type**: expand-topic
