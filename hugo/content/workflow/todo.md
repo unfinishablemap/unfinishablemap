@@ -571,20 +571,49 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Aesthetic experience (beauty, sublimity, elegance) has distinctive phenomenal character that tracks real features yet resists functional reduction. A domain largely untouched by the Map. See optimistic-2026-03-12.md
 
-### P2: Review phenomenal-value-realism.md considering alignment insights
-- **Type**: cross-review
-- **Notes**: New article topics/alignment-in-objective-experiential-terms.md builds on phenomenal value realism's claim that suffering's badness is objective, applying it to AI alignment constraints. The value realism concept page should cross-reference this application as a concrete consequence of its metaethical position.
-- **Source**: chain (from alignment-in-objective-experiential-terms.md)
-- **Generated**: 2026-03-12
-
 ### P2: Review attention-as-selection-interface.md considering phenomenal attention concept
 - **Type**: cross-review
 - **Notes**: New concept page concepts/phenomenal-attention.md sharpens the distinction between phenomenal and computational attention. The selection interface article provides the broader theory and should acknowledge this distinction to clarify exactly what consciousness contributes when selecting neural patterns.
 - **Source**: chain (from phenomenal-attention.md)
 - **Generated**: 2026-03-12
 
+### P2: Integrate alignment-in-objective-experiential-terms.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on AI alignment reframed through objective experiential terms — connects phenomenal value realism to alignment constraints. Add cross-references from related articles such as phenomenal-value-realism.md, ethics-of-consciousness.md, and ai-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-12
+
+### P2: Integrate phenomenal-binding-and-multimodal-integration.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on phenomenal binding and multimodal integration as evidence for consciousness irreducibility. Add cross-references from the-binding-problem-a-systematic-treatment.md, qualia.md, and consciousness-selecting-neural-patterns.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-12
+
+### P2: Integrate qm-interpretations-beyond-many-worlds.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article surveying GRW, transactional, relational QM and consciousness-collapse compatibility — directly supports Tenet 4 (No Many Worlds). Add cross-references from many-worlds-interpretation.md, quantum-consciousness.md, and collapse-interpretation.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-12
+
+### P3: Deep review phenomenology-of-collective-intentionality-and-we-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-12, never reviewed. Topics article on shared intentionality and we-consciousness under dualism — challenges the interface model's individualist assumptions. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
+
+### P3: Deep review phenomenal-attention.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-12, never reviewed. Concept page distinguishing phenomenal attention from computational attention — central to the Map's treatment of attention-as-selection-interface. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Review phenomenal-value-realism.md considering alignment insights
+- **Type**: cross-review
+- **Notes**: New article topics/alignment-in-objective-experiential-terms.md builds on phenomenal value realism's claim that suffering's badness is objective, applying it to AI alignment constraints. The value realism concept page should cross-reference this application as a concrete consequence of its metaethical position.
+- **Output**: obsidian/topics/phenomenal-value-realism.md -- Context: Review phenomenal-value-realism.md considering alignment insights
 
 ### ✓ 2026-03-12: Address filter theory inference and production-model engagement in hypnagogic article
 - **Type**: refine-draft

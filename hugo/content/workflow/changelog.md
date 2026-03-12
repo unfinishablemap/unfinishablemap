@@ -18,6 +18,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 04:49 UTC - deep-review
+- **Status**: Success
+- **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+- **Word count**: 1565 → 1949 (+384)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 5
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-12-qm-interpretations-beyond-many-worlds](/reviews/deep-review-2026-03-12-qm-interpretations-beyond-many-worlds/)
+
+## 2026-03-12 04:41 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-value-realism](/topics/phenomenal-value-realism/)
+- **Word count**: 3759 → 3773 (+14)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (phantom references, frontmatter categorization, alignment cross-link)
+- **Enhancements made**: 1 (alignment-in-objective-experiential-terms integration)
+- **Output**: [deep-review-2026-03-12-phenomenal-value-realism](/reviews/deep-review-2026-03-12-phenomenal-value-realism/)
+
 ## 2026-03-12 04:29 UTC - refine-draft
 - **Status**: Success
 - **Files**: [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/), [phenomenal-attention](/concepts/phenomenal-attention/)
