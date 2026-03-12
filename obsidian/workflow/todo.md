@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review dream-consciousness.md considering hypnagogic phenomenology insights
-- **Type**: cross-review
-- **Notes**: New article topics/hypnagogic-phenomenology-and-interface-modulation.md treats the sleep-wake transition as graded interface modulation. The dream-consciousness.md article covers dreaming broadly and should cross-reference hypnagogia as the transitional state that maps interface components more precisely than binary comparisons. Check for cross-links and argument reinforcement.
-- **Source**: chain (from hypnagogic-phenomenology-and-interface-modulation.md)
-- **Generated**: 2026-03-12
-
 ### P2: Integrate indexical-void.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Voids article on the indexical void — the irreducibility of this-ness in conscious experience. Add cross-references from related articles such as indexical-identity.md, process-haecceitism.md, and taxonomy-of-voids.md.
@@ -620,6 +614,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Review dream-consciousness.md considering hypnagogic phenomenology insights
+- **Type**: cross-review
+- **Notes**: New article topics/hypnagogic-phenomenology-and-interface-modulation.md treats the sleep-wake transition as graded interface modulation. The dream-consciousness.md article covers dreaming broadly and should cross-reference hypnagogia as the transitional state that maps interface components more precisely than binary comparisons. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/topics/dream-consciousness.md -- Context: Review dream-consciousness.md considering hypnagogic phenomenology insights
 
 ### ✓ 2026-03-12: Review intersubjectivity.md considering collective intentionality insights
 - **Type**: cross-review

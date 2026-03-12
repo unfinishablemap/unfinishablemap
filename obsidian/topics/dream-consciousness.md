@@ -4,7 +4,7 @@ description: "Dreams provide the most accessible everyday evidence for the filte
 created: 2026-01-21
 modified: 2026-02-23
 human_modified: null
-ai_modified: 2026-03-09T11:17:00+00:00
+ai_modified: 2026-03-12T03:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,12 +46,13 @@ related_articles:
   - "[[capability-division-problem]]"
   - "[[memory-as-dual-domain-capability]]"
   - "[[lucid-dreaming-as-capability-evidence]]"
+  - "[[hypnagogic-phenomenology-and-interface-modulation]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated: null
-last_deep_review: 2026-03-08T13:26:00+00:00
+last_deep_review: 2026-03-12T03:48:00+00:00
 coalesced_from:
   - "/topics/lucid-dreaming-and-consciousness/"
   - "/topics/dreams-problem-solving-and-consciousness/"
@@ -97,7 +98,7 @@ The dream evidence reveals an interface between consciousness and brain that adm
 | Waking | Full sensory input, executive active, aminergic | Logical, constrained, reality-tested |
 | Non-lucid REM | Input gated, executive offline, cholinergic | Associative, emotional, unconstrained |
 | Lucid REM | Input gated, executive partial, cholinergic + gamma | Metacognitive, creative, partially controlled |
-| N1 hypnagogia | Input reducing, executive loosening, transitional | Maximally creative, loosely directed |
+| [[hypnagogic-phenomenology-and-interface-modulation|N1 hypnagogia]] | Input reducing, executive loosening, transitional | Maximally creative, loosely directed |
 
 Each configuration yields distinct cognitive capabilities—a pattern the Map's [[capability-division-problem|capability division problem]] identifies as fundamental to interactionist dualism. The brain provides different computational tools in each state; consciousness contributes phenomenal engagement, selectional guidance, and metacognitive oversight to varying degrees. The interface admits reconfiguration without dissolution, consistent with the Map's [[interactionist-dualism|interactionist]] framework where consciousness and brain are distinct but coupled systems.
 
@@ -211,6 +212,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 - [[attention-as-interface]] — How attention mediates the consciousness-brain interface
 - [[conscious-vs-unconscious-processing]] — Empirical evidence on consciousness-requiring functions
 - [[metacognition]] — Metacognition's role in consciousness
+- [[hypnagogic-phenomenology-and-interface-modulation]] — The sleep-onset transition as graded interface modulation
 - [[altered-states-of-consciousness]] — Interface configurations across altered states
 - [[phenomenology-of-choice]] — The qualitative character of voluntary selection
 - [[higher-order-theories]] — Higher-Order Thought theories challenged by non-lucid dream consciousness
