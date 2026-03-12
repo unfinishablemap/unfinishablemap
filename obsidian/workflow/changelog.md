@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 07:07 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/continual-learning-argument]]
+- **Changes**: Acknowledged physical unrealisability of lookup tables weakening proximity argument; separated phenomenological observations from metaphysical conclusions in contemplative evidence; qualified Hameroff coherence claims; qualified heterophenomenology LLM claims; language fixes
+- **Published**: yes
+
 ## 2026-03-12 06:58 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/mental-imagery-causal-role-of-consciousness]]
