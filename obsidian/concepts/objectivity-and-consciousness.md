@@ -4,8 +4,8 @@ description: "Why consciousness resists the view from nowhere. Scientific object
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-03-02T01:52:00+00:00
-last_deep_review: 2026-02-06T17:22:00+00:00
+ai_modified: 2026-03-12T06:25:00+00:00
+last_deep_review: 2026-03-12T06:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -180,7 +180,7 @@ Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(
 
 Nagel, T. (1986). *The View From Nowhere*. New York: Oxford University Press.
 
-Tomasello, M. (2007). "Shared intentionality." *Developmental Science*, 12(1), 121-125.
+Tomasello, M., & Carpenter, M. (2007). "Shared intentionality." *Developmental Science*, 10(1), 121-125.
 
 Varela, F. J. (1996). "Neurophenomenology: A methodological remedy for the hard problem." *Journal of Consciousness Studies*, 3(4), 330-349.
 
