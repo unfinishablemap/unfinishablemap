@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-12
 
-### P2: Integrate decision-theory-cannot-save-many-worlds.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article arguing that decision-theoretic attempts to recover probability in MWI fail — directly supports Tenet 4 (No Many Worlds). Add cross-references from many-worlds-interpretation.md, quantum-probability-and-consciousness.md, and probability-objections-many-worlds.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-12
-
 ### P2: Integrate dreams-as-consciousness-laboratory.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article on dreams as a natural laboratory for studying consciousness — relevant to the Map's treatment of altered states and interface modulation. Add cross-references from dream-consciousness.md, lucid-dreaming-as-capability-evidence.md, and coupling-modes.md.
@@ -611,6 +605,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Integrate decision-theory-cannot-save-many-worlds.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article arguing that decision-theoretic attempts to recover probability in MWI fail — directly supports Tenet 4 (No Many Worlds). Add cross-references from many-worlds-interpretation.md, quantum-probability-and-consciousness.md, and probability-objections-many-worlds.md.
+- **Output**: decision-theory-cannot-save-many-worlds.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-12: Deep review substrate-void.md
 - **Type**: deep-review

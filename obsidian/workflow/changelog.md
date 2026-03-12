@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 00:58 UTC - deep-review
+- **Status**: Skipped (archived article)
+- **File**: decision-theory-cannot-save-many-worlds
+- **Reason**: Article was archived on 2026-03-10 (coalesced into [[topics/probability-problem-in-many-worlds]]). Orphan detection found a stale copy at hugo/content/topics/ left by sync pipeline bug — deleted stale copy. No review needed; content lives in superseding article.
+- **Cleanup**: Removed hugo/content/topics/decision-theory-cannot-save-many-worlds.md (stale artifact)
+
 ## 2026-03-12 00:44 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/luck-objection]]
