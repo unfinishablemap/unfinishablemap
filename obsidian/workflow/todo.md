@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-11T23:35:00+00:00
+ai_modified: 2026-03-12T00:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -542,6 +542,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Meditation, psychedelics, dreaming, hypnagogia, and anaesthesia each involve different patterns of interface modulation. Mapping which consciousness features survive, degrade, or intensify across states would provide convergent evidence for the interface architecture. Builds on psychedelics-and-the-filter-model, dream-consciousness, meditation-and-consciousness-modes, coupling-modes, loss-of-consciousness. See optimistic-2026-03-11-late.md
 - **Generated**: 2026-03-11
+
+### P3: Deep review blindsight.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-08 — 32 days ago. Blindsight is key empirical evidence for dissociating consciousness from visual processing — critical for the Map's dualism case. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
+
+### P3: Deep review psychophysical-laws-bridging-mind-and-matter.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-08 — 32 days ago. Topics article on psychophysical laws directly relevant to Tenet 3 (Bidirectional Interaction) — the specification of mind-matter bridging laws is central to the Map's framework. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
+
+### P3: Deep review time-symmetric-physics.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 35 days ago. Concept page on time-symmetric physics relevant to Tenet 2 (Minimal Quantum Interaction) and the Map's treatment of temporal consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
 
 ## Completed Tasks
 
