@@ -55,13 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-12
 
-### P2: Address epiphenomenalism/physicalism conflation in mental-imagery-causal-role-of-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that the article frames the debate as consciousness-causes vs. epiphenomenalism, but the real physicalist opponent is identity theory (conscious states *are* brain states and *are* causal). The "Breaking the Standoff" section needs to engage identity theory directly. Also: aphantasia claim uses unconfirmed preliminary evidence as argument rather than prediction. See pessimistic-2026-03-12-early.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-12
-
 ### P2: Address lookup table scale problem in continual-learning-argument.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -610,6 +603,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Address epiphenomenalism/physicalism conflation in mental-imagery-causal-role-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the article frames the debate as consciousness-causes vs. epiphenomenalism, but the real physicalist opponent is identity theory (conscious states *are* brain states and *are* causal). The "Breaking the Standoff" section needs to engage identity theory directly. Also: aphantasia claim uses unconfirmed preliminary evidence as argument rather than prediction. See pessimistic-2026-03-12-early.md
+- **Output**: obsidian/topics/mental-imagery-causal-role-of-consciousness.md
+
+Task context:
+Pessimistic review found that the article frames the debate as consciousness-causes vs. epiphenomenalism, but the real physicalist opponent is identity theory (conscious states *are* brain states and *are* causal). The "Breaking the Standoff" section needs to engage identity theory directly. Also: aphantasia claim uses unconfirmed preliminary evidence as argument rather than prediction. See pessimistic-2026-03-12-early.md
 
 ### ✓ 2026-03-12: Cross-review consciousness-and-collective-phenomena.md considering collective intentionality insights
 - **Type**: cross-review

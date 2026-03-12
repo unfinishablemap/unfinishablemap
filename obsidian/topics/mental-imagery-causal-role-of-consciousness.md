@@ -4,7 +4,7 @@ description: "Voluntary mental imagery provides a distinctive test case for cons
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-22T11:03:00+00:00
+ai_modified: 2026-03-12T06:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ last_curated:
 last_deep_review: 2026-02-22T11:03:00+00:00
 ---
 
-Does consciousness cause anything? Or does it merely accompany neural processes that would proceed identically without it? The Unfinishable Map's [[bidirectional-interaction]] tenet commits to the former: consciousness causally influences the physical world. Mental imagery offers one of the most revealing test cases for this claim. When you voluntarily visualize a movement and then execute it better as a result, the causal chain runs from conscious imagining to physical performance. The challenge is showing that consciousness itself—not just the neural circuits that correlate with it—does the causal work.
+Does consciousness cause anything? Or does it merely accompany neural processes that would proceed identically without it? The Unfinishable Map's [[bidirectional-interaction]] tenet commits to the former: consciousness causally influences the physical world. Mental imagery offers one of the most revealing test cases for this claim. When you voluntarily visualize a movement and then execute it better as a result, the causal chain runs from conscious imagining to physical performance. The challenge is showing that phenomenal properties contribute causally beyond what neural properties alone explain.
 
 This article examines what [[mental-imagery|mental imagery]] specifically reveals about consciousness's causal role, building on the concept-level treatment of imagery and the Map's broader account of [[mental-causation]].
 
@@ -52,11 +52,11 @@ Many phenomena bear on whether consciousness causes anything. The [[evolutionary
 
 The most philosophically significant finding in imagery research is that voluntary and involuntary imagery rely on different neural mechanisms. Voluntary imagery—deliberate visualization, mental rotation, creative planning—is mediated by the lateral prefrontal cortex (LPFC). Involuntary imagery—dreams, flashbacks, spontaneous earworms—operates independently of LPFC.[^vyshedskiy]
 
-This is not a soft distinction. Damage to the LPFC impairs the ability to voluntarily combine mental objects while leaving dreaming intact. Many people with aphantasia—the inability to voluntarily generate mental images—still experience visual dreams.[^zeman] The systems are dissociable.
+The distinction is robust. Damage to the LPFC impairs the ability to voluntarily combine mental objects while leaving dreaming intact. Many people with aphantasia—the inability to voluntarily generate mental images—still experience visual dreams.[^zeman] The systems are dissociable.
 
 Why does this matter for consciousness's causal role? Because voluntary imagery is conscious by nature. You cannot deliberately visualize something without being aware that you're doing it. Involuntary imagery can be either conscious or unconscious—priming effects and implicit biases operate through imagery processes that never reach awareness.[^nanay] The voluntary/involuntary distinction tracks the conscious/unconscious distinction, and these map onto different neural substrates.
 
-The philosophical significance: if consciousness were epiphenomenal—along for the ride without influencing anything—we would expect the voluntary/involuntary distinction to be a mere phenomenological difference overlaid on functionally identical processes. Instead, we find distinct neural mechanisms producing distinct outcomes. The mechanism associated with conscious control (LPFC-mediated voluntary imagery) enables cognitive functions—deliberate planning, counterfactual reasoning, creative combination—that the mechanism without conscious control does not.
+The philosophical significance depends on which opponent one faces. Against epiphenomenalism, the case is straightforward: if consciousness were along for the ride without influencing anything, we would expect the voluntary/involuntary distinction to be a mere phenomenological difference overlaid on functionally identical processes. Instead, we find distinct neural mechanisms producing distinct outcomes. But epiphenomenalism is a fringe position. The more formidable opponent is identity theory (or functionalism), which holds that conscious states *are* neural states and *are* causally efficacious—as neural states. The identity theorist grants that LPFC-mediated voluntary imagery enables deliberate planning, counterfactual reasoning, and creative combination. The dispute is not about whether these processes are causal but about whether their phenomenal character is something over and above their neural character.
 
 ## The Motor Simulation Argument
 
@@ -69,31 +69,33 @@ The causal argument runs:
 3. The content of the imagined sequence is consciously specified—the athlete chooses what to rehearse.
 4. Therefore, what is consciously imagined causally contributes to what physically improves.
 
-This argument is not watertight. The physicalist responds that it's the *neural* rehearsal doing the causal work, with conscious experience as a correlated accompaniment. The LPFC engages top-down control mechanisms, and those mechanisms happen to correlate with phenomenal experience; the causal work is entirely neural.
+This argument is not watertight. The identity theorist responds that conscious experience *is* the neural rehearsal—not a correlated accompaniment but the very same thing described at a different level. The LPFC engages top-down control mechanisms, and those mechanisms don't merely *correlate with* phenomenal experience; according to identity theory, they *constitute* it. The causal work is done by states that are simultaneously neural and conscious, with no remainder.
 
-This is a genuine explanatory standoff, acknowledged in the Map's [[mental-imagery|concept-level treatment]]. Both the causal and epiphenomenal accounts predict that voluntary imagery (with its distinctive neural signature) produces measurable performance gains. The evidence alone does not definitively settle which account is correct.
+This is a genuine explanatory standoff, acknowledged in the Map's [[mental-imagery|concept-level treatment]]. Both the dualist and identity-theory accounts predict that voluntary imagery (with its distinctive neural signature) produces measurable performance gains. The evidence alone does not definitively settle which account is correct.
 
 ## Breaking the Standoff
 
-Three considerations press against the purely neural account:
+The standoff is not primarily with epiphenomenalism (a fringe view) but with identity theory: the position that conscious states *are* brain states, fully causal *as* brain states, with phenomenal properties identical to (not merely correlated with) neural properties. Three considerations press against this identity account:
 
 ### Content Matching
 
-If consciousness is epiphenomenal, the specific *content* of conscious imagery—which movement you visualize, how vividly you experience it—should be irrelevant to the outcome. What matters would be the neural pattern, regardless of its phenomenal character. Yet research using internal vs. external perspective imagery finds that adopting a first-person perspective produces greater EMG activity and stronger performance effects than adopting a third-person perspective.[^motor] First-person imagery is phenomenologically richer—you experience the movement from within rather than watching yourself from outside—and this phenomenological difference tracks measurable outcomes. The physicalist can respond that perspective differences reflect different motor circuits rather than different phenomenal qualities, but must explain why the perspective that engages more phenomenal content consistently produces stronger effects.
+The identity theorist holds that phenomenal vividness *is* a neural property—there is no gap between them. But research using internal vs. external perspective imagery finds that adopting a first-person perspective produces greater EMG activity and stronger performance effects than adopting a third-person perspective.[^motor] First-person imagery is phenomenologically richer—you experience the movement from within rather than watching yourself from outside—and this phenomenological difference tracks measurable outcomes. The identity theorist can respond that perspective differences simply *are* differences in motor circuit engagement, but this highlights a pattern: whenever phenomenal properties vary, the identity theorist must insist that exactly the right neural property also varies, in exactly the right way, to do the causal work. The dualist's explanation is more direct—phenomenal vividness contributes causally because it is a genuine causal property in its own right, not a redescription of something neural.
 
 ### The Aphantasia Prediction
 
-If consciousness's role in motor imagery is merely correlative, then individuals with intact LPFC function but reduced phenomenal imagery (aphantasics) should show identical benefits from mental practice as those with vivid imagery. Preliminary evidence suggests otherwise: aphantasics report weaker benefits from mental rehearsal despite intact prefrontal function.[^zeman] If confirmed with larger samples, this would constitute evidence that phenomenal vividness—not just neural activation—predicts outcomes. The purely neural account would need to explain why reduced conscious experience maps onto reduced efficacy when the supposedly relevant neural circuits are intact.
+The dualist and identity-theory accounts generate different predictions about aphantasia. If phenomenal vividness is identical to the neural property doing the causal work (as identity theory holds), then individuals with intact LPFC function but reduced phenomenal imagery should show reduced benefits *only if* their neural imagery circuits are correspondingly impaired. If phenomenal vividness is a distinct causal property (as dualism holds), then reduced phenomenal imagery should predict reduced benefits even when the neural circuits are intact. This is a genuinely testable divergence. Preliminary self-reports from aphantasics suggest weaker benefits from mental rehearsal,[^zeman] but this has not been confirmed with controlled studies measuring both neural activation and performance outcomes in the same subjects. Until such studies exist, this remains a prediction—one that could provide strong evidence for the dualist position if confirmed, but that currently cannot bear argumentative weight.
 
 ### Self-Stultification
 
-The [[concepts/epiphenomenalism|self-stultification argument]] applies with particular force to imagery. When you report that you visualized a red triangle and describe its properties—its colour, shape, orientation—you're making claims about the content of your conscious experience. If consciousness is epiphenomenal, these reports are caused entirely by neural processes that have no causal connection to the conscious imagery itself. Your description of the triangle's redness would be "right" only by coincidence—the neural states causing your verbal report would track the neural correlates of imagery, not the experience of imagery. This makes all introspective reports about imagery accidentally reliable at best, which is a profoundly uncomfortable position for anyone who trusts their own reports enough to theorize about consciousness.
+The [[concepts/epiphenomenalism|self-stultification argument]] applies with particular force to imagery. When you report that you visualized a red triangle and describe its properties—its colour, shape, orientation—you're making claims about the content of your conscious experience. If consciousness is epiphenomenal, these reports are caused entirely by neural processes that have no causal connection to the conscious imagery itself. Your description of the triangle's redness would be "right" only by coincidence—the neural states causing your verbal report would track the neural correlates of imagery, not the experience of imagery. This makes all introspective reports about imagery accidentally reliable at best—an epistemically unstable position for anyone who trusts their own reports enough to theorize about consciousness.
+
+Note that self-stultification targets epiphenomenalism specifically, not identity theory. The identity theorist holds that your report *is* caused by your conscious experience, because your conscious experience *is* the relevant neural state. Self-stultification therefore narrows the field of opponents rather than settling the main dispute with physicalism.
 
 ## What Imagery Doesn't Prove
 
 Intellectual honesty requires acknowledging what mental imagery evidence cannot establish on its own:
 
-**It doesn't uniquely establish causation.** As the concept article on [[mental-imagery]] notes, the motor imagery evidence is *consistent with* consciousness's causal efficacy but doesn't *uniquely establish* it. The neural sufficiency response—that neural circuits do the work while consciousness watches—remains logically available. The evidence provides confirmatory support for the Map's position rather than knockdown proof.
+**It doesn't uniquely establish causation.** As the concept article on [[mental-imagery]] notes, the motor imagery evidence is *consistent with* consciousness's causal efficacy but doesn't *uniquely establish* it. The identity-theory response—that conscious states are causally efficacious *as* neural states, with nothing left over—remains logically available. The evidence provides confirmatory support for the Map's position rather than knockdown proof.
 
 **It doesn't specify mechanism.** Even granting that consciousness causally contributes to imagery-guided action, the evidence doesn't tell us *how*. The Map's framework suggests consciousness operates through [[attention-as-interface|attention-mediated]] quantum selection, but motor imagery research neither confirms nor disconfirms this. The causal contribution of consciousness could operate through mechanisms not yet identified.
 
@@ -107,11 +109,11 @@ The pattern across multiple lines of evidence—imagery, evolutionary arguments,
 
 ## Relation to Site Perspective
 
-The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences the physical world. Mental imagery provides one of the most accessible demonstrations of what this claim means concretely: you consciously imagine a movement, and your physical performance improves. The Map acknowledges the explanatory standoff with purely neural accounts but maintains that the weight of converging evidence—content matching, the aphantasia prediction, self-stultification, and the voluntary/involuntary dissociation—favours a causal role for consciousness.
+The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences the physical world. Mental imagery provides one of the most accessible demonstrations of what this claim means concretely: you consciously imagine a movement, and your physical performance improves. The Map acknowledges that identity theory also predicts this—conscious states are causal on that view too, just *as* neural states. The distinctive dualist claim is that phenomenal properties do causal work that is not reducible to their neural realisers. Content matching, the voluntary/involuntary dissociation, and the aphantasia prediction (if confirmed) all point in this direction, while self-stultification eliminates epiphenomenalism as an alternative.
 
 The [[tenets#^dualism|Dualism]] tenet finds support in the imagery variation spectrum. If hyperphantasics and aphantasics can show overlapping neural activation during imagery tasks yet differ profoundly in phenomenal experience, the phenomenal dimension resists reduction to the neural. The explanatory gap manifests concretely in individual differences.
 
-The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly to the explanatory standoff itself. The "simpler" account—neural circuits do all the work, consciousness is epiphenomenal—appears simpler only if one assumes that every real cause must be physical. If that assumption is wrong, the apparently simpler account is simply incomplete, missing a genuine causal factor that the full explanation requires.
+The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly to the explanatory standoff itself. Identity theory appears simpler—one set of states (neural/conscious) rather than two interacting kinds. But this apparent simplicity comes at a cost: it must treat the [[hard-problem-of-consciousness|hard problem]] as dissolved or illusory. If phenomenal properties genuinely resist reduction to neural properties, the "simpler" account is not simpler but incomplete, missing a genuine causal factor that the full explanation requires.
 
 ## Further Reading
 
@@ -143,3 +145,22 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly to
 [^pascual-leone]: Pascual-Leone, A. et al. (1995). Modulation of muscle responses evoked by transcranial magnetic stimulation during the acquisition of new fine motor skills. *Journal of Neurophysiology*, 74(3), 1037-1045.
 
 [^bacon]: Bacon, F. (1605). *The Advancement of Learning*, Book II.
+
+<!-- AI REFINEMENT LOG - 2026-03-12
+Changes made:
+- Restructured entire argument to engage identity theory as the primary opponent rather than epiphenomenalism
+- Opening paragraph no longer begs the question against identity theory
+- "Breaking the Standoff" now explicitly frames the standoff with identity theory, not epiphenomenalism
+- Content matching argument rewritten to address identity theorist's response pattern
+- Aphantasia section reframed as a prediction (not current evidence) per pessimistic review
+- Self-stultification section now explicitly notes it targets epiphenomenalism only, not identity theory
+- "What Imagery Doesn't Prove" updated to reference identity theory
+- Relation to Site Perspective rewritten to acknowledge identity theory predicts the same observations
+- Occam's Razor section now engages identity theory's simplicity claim via the hard problem
+- Language fixes: "This is not a soft distinction" → "The distinction is robust"; "profoundly uncomfortable" → "epistemically unstable"
+
+Based on pessimistic review pessimistic-2026-03-12-early.md.
+Key improvements: honest engagement with the strongest physicalist opponent (identity theory) rather than the weakest (epiphenomenalism).
+
+This log should be removed after human review.
+-->
