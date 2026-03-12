@@ -306,12 +306,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Write article on hypnagogic phenomenology and interface modulation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The sleep-wake transition involves graded interface modulation: voluntary attention weakens, imagery becomes autonomous, agency fluctuates, reality-monitoring partially disengages. This graded dissolution maps interface components more precisely than binary consciousness/unconsciousness comparisons. Micro-awakenings during stage 1 sleep demonstrate consciousness operating in dual mode. Builds on dream-consciousness.md, consciousness-as-amplifier.md, coupling-modes.md, loss-of-consciousness.md. See [[reviews/optimistic-2026-03-04]].
-- **Generated**: 2026-03-04
-
 ### P2: Write concept page for phenomenal attention
 - **Type**: expand-topic
 - **Status**: pending
@@ -590,6 +584,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Write article on hypnagogic phenomenology and interface modulation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The sleep-wake transition involves graded interface modulation: voluntary attention weakens, imagery becomes autonomous, agency fluctuates, reality-monitoring partially disengages. This graded dissolution maps interface components more precisely than binary consciousness/unconsciousness comparisons. Micro-awakenings during stage 1 sleep demonstrate consciousness operating in dual mode. Builds on dream-consciousness.md, consciousness-as-amplifier.md, coupling-modes.md, loss-of-consciousness.md. See [[reviews/optimistic-2026-03-04]].
+- **Output**: hypnagogic phenomenology and interface modulation
 
 ### ✓ 2026-03-12: Write article on phenomenology of collective intentionality and we-consciousness
 - **Type**: expand-topic
