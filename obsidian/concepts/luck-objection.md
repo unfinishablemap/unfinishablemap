@@ -4,7 +4,7 @@ description: "Why indeterminism seems to threaten free will as much as determini
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-03-12T00:20:00+00:00
+ai_modified: 2026-03-12T00:44:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -24,6 +24,7 @@ concepts:
   - "[[decoherence]]"
   - "[[concepts/many-worlds]]"
   - "[[buddhism-and-dualism]]"
+  - "[[trilemma-of-selection]]"
 related_articles:
   - "[[tenets]]"
   - "[[luck-objection-libertarian-free-will-2026-01-17]]"
@@ -33,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-02-03T13:52:00+00:00
+last_deep_review: 2026-03-12T00:44:00+00:00
 ---
 
 The luck objection is the most persistent challenge to libertarian [[concept-of-free-will|free will]]. While much philosophical debate focuses on whether determinism threatens freedom, a long line of philosophers argue that *indeterminism* is equally fatal. If choices aren't causally predetermined, they must be random—and random choices aren't more "free" than determined ones. They're just arbitrary.
@@ -107,7 +108,7 @@ Consciousness selects based on reasons—the same reasons that make actions inte
 
 ## Does Selection Really Escape Luck?
 
-Critics might object: what explains why consciousness selected A rather than B? The response: **Reasons** provide contrastive explanation that pure chance lacks. **Phenomenology** distinguishes selection from passive reception—we experience ourselves doing something. **Agent causation** is the terminus of explanation; the regress stops at the agent's exercise of power. **Retrocausality** means selection doesn't occur at a moment but determines which moments exist.
+Critics might object: what explains why consciousness selected A rather than B? The response combines four elements. The agent's *reasons* provide contrastive explanation that pure chance lacks—A was chosen because the agent had grounds for A. The *phenomenology of effort* distinguishes selection from passive reception; we experience ourselves doing something, and that experience tracks real causal engagement. Agent causation is the terminus of explanation: the regress stops at the agent's exercise of power, just as event-causal explanations ultimately stop at brute laws. And if [[retrocausality|retrocausal]] selection is genuine, the choice doesn't occur at a moment but determines which moments exist—dissolving the temporal framing on which the luck objection depends.
 
 ## What Would Make the Luck Objection Succeed?
 
@@ -115,7 +116,7 @@ The luck objection would succeed if: (1) consciousness doesn't actually select q
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] argue that "phenomenology of effort" is a functional representation, not evidence of non-physical causation. But the illusionist account faces a regress: saying the feeling of effort is a "representation" presupposes something experiencing it. That something cannot be another representation without infinite regress—misrepresentation presupposes presentation.
+[[illusionism|Illusionists]] argue that "phenomenology of effort" is a functional representation, not evidence of non-physical causation. But the illusionist account faces a regress: saying the feeling of effort is a "representation" presupposes something experiencing the representation. The experiencer cannot itself be another representation without infinite regress—misrepresentation presupposes presentation.
 
 The [[introspection|introspection literature]] identifies where reports fail (causal processes, decision justification) but also where they succeed (basic phenomenal states, effort). The convergence of phenomenological report with neural signature suggests introspection tracks something real.
 
@@ -150,6 +151,7 @@ The luck objection directly challenges the Map's [[tenets#^bidirectional-interac
 - [[quantum-consciousness]] — The broader framework for consciousness-physics interaction
 - [[decoherence]] — The physics-based objection and quantum biology responses
 - [[concepts/many-worlds]] — Why MWI undermines the selection picture entirely
+- [[trilemma-of-selection]] — The three-way choice between determinism, randomness, and mental causation
 - [[moral-implications-of-genuine-agency]] — How genuine agency transforms moral luck and grounds desert
 
 ## References
