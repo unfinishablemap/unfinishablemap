@@ -576,6 +576,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Aesthetic experience (beauty, sublimity, elegance) has distinctive phenomenal character that tracks real features yet resists functional reduction. A domain largely untouched by the Map. See optimistic-2026-03-12.md
 
+### P2: Review the-binding-problem-a-systematic-treatment.md considering phenomenal binding insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenal-binding-and-multimodal-integration.md argues multimodal integration is the most challenging binding variety. The systematic treatment article establishes the BP1/BP2 taxonomy and should cross-reference multimodal binding as a key test case. Check for cross-links and argument reinforcement.
+- **Source**: chain (from phenomenal-binding-and-multimodal-integration.md)
+- **Generated**: 2026-03-12
+
+### P2: Review phenomenal-value-realism.md considering alignment insights
+- **Type**: cross-review
+- **Notes**: New article topics/alignment-in-objective-experiential-terms.md builds on phenomenal value realism's claim that suffering's badness is objective, applying it to AI alignment constraints. The value realism concept page should cross-reference this application as a concrete consequence of its metaethical position.
+- **Source**: chain (from alignment-in-objective-experiential-terms.md)
+- **Generated**: 2026-03-12
+
+### P2: Review attention-as-selection-interface.md considering phenomenal attention concept
+- **Type**: cross-review
+- **Notes**: New concept page concepts/phenomenal-attention.md sharpens the distinction between phenomenal and computational attention. The selection interface article provides the broader theory and should acknowledge this distinction to clarify exactly what consciousness contributes when selecting neural patterns.
+- **Source**: chain (from phenomenal-attention.md)
+- **Generated**: 2026-03-12
+
 ## Completed Tasks
 
 
