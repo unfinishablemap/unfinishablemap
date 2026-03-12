@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review intersubjectivity.md considering collective intentionality insights
-- **Type**: cross-review
-- **Notes**: New article topics/phenomenology-of-collective-intentionality-and-we-consciousness.md examines shared intentionality and we-consciousness under dualism. The intersubjectivity.md concept page should cross-reference this treatment, particularly the challenge collective intentionality poses for the interface model (how does joint attention work across separate brains?). Check for cross-links and complementary arguments.
-- **Source**: chain (from phenomenology-of-collective-intentionality-and-we-consciousness.md)
-- **Generated**: 2026-03-12
-
 ### P2: Review dream-consciousness.md considering hypnagogic phenomenology insights
 - **Type**: cross-review
 - **Notes**: New article topics/hypnagogic-phenomenology-and-interface-modulation.md treats the sleep-wake transition as graded interface modulation. The dream-consciousness.md article covers dreaming broadly and should cross-reference hypnagogia as the transitional state that maps interface components more precisely than binary comparisons. Check for cross-links and argument reinforcement.
@@ -620,6 +614,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Review intersubjectivity.md considering collective intentionality insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenology-of-collective-intentionality-and-we-consciousness.md examines shared intentionality and we-consciousness under dualism. The intersubjectivity.md concept page should cross-reference this treatment, particularly the challenge collective intentionality poses for the interface model (how does joint attention work across separate brains?). Check for cross-links and complementary arguments.
+- **Output**: obsidian/concepts/intersubjectivity.md -- Context: Review intersubjectivity.md considering collective intentionality insights
 
 ### ✓ 2026-03-12: Review many-worlds-interpretation.md considering QM interpretations article
 - **Type**: cross-review

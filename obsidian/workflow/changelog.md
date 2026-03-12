@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 03:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/intersubjectivity]]
+- **Word count**: 2671 → 2675 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (cross-links to new collective intentionality articles)
+- **Enhancements made**: 7 (communalisation paragraph, cross-links, prose tightening)
+- **Output**: [[reviews/deep-review-2026-03-12-intersubjectivity]]
+
 ## 2026-03-12 03:33 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/many-worlds]]
