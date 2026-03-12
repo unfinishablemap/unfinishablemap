@@ -31,6 +31,7 @@ related_articles:
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[eastern-philosophy-consciousness]]"
   - "[[moral-phenomenology]]"
+  - "[[alignment-in-objective-experiential-terms]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

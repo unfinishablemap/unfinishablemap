@@ -130,7 +130,7 @@ If phenomenal normativity is correct, **error theory** must deny pain is bad, **
 
 ### For AI and Other Minds
 
-If value requires phenomenal consciousness, current AI systems lack the ground of value—functionally sophisticated but normatively vacant. This supports the [[experiential-alignment]] thesis: AI alignment should target experiential quality, not preference satisfaction. For animals: they matter morally to the extent they have phenomenal experience, making their suffering morally significant regardless of social contract.
+If value requires phenomenal consciousness, current AI systems lack the ground of value—functionally sophisticated but normatively vacant. This supports the [[experiential-alignment]] thesis: AI alignment should target experiential quality, not preference satisfaction. The case that phenomenal normativity grounds genuinely *objective* alignment criteria—not merely another set of subjective values—is developed in [[alignment-in-objective-experiential-terms]]. For animals: they matter morally to the extent they have phenomenal experience, making their suffering morally significant regardless of social contract.
 
 ### For Indexical Identity
 
