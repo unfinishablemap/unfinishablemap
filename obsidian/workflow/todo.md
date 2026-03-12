@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review many-worlds-interpretation.md considering QM interpretations article
-- **Type**: cross-review
-- **Notes**: New article topics/qm-interpretations-beyond-many-worlds.md surveys GRW, transactional, relational QM, and consciousness-collapse compatibility. The existing many-worlds-interpretation.md (Tenet 4) should cross-reference the new article's treatment of alternative interpretations that avoid MWI's problems. Check for cross-links and argument reinforcement.
-- **Source**: chain (from qm-interpretations-beyond-many-worlds.md)
-- **Generated**: 2026-03-12
-
 ### P2: Review intersubjectivity.md considering collective intentionality insights
 - **Type**: cross-review
 - **Notes**: New article topics/phenomenology-of-collective-intentionality-and-we-consciousness.md examines shared intentionality and we-consciousness under dualism. The intersubjectivity.md concept page should cross-reference this treatment, particularly the challenge collective intentionality poses for the interface model (how does joint attention work across separate brains?). Check for cross-links and complementary arguments.
@@ -626,6 +620,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Review many-worlds-interpretation.md considering QM interpretations article
+- **Type**: cross-review
+- **Notes**: New article topics/qm-interpretations-beyond-many-worlds.md surveys GRW, transactional, relational QM, and consciousness-collapse compatibility. The existing many-worlds-interpretation.md (Tenet 4) should cross-reference the new article's treatment of alternative interpretations that avoid MWI's problems. Check for cross-links and argument reinforcement.
+- **Output**: many-worlds-interpretation.md -- Context: Review many-worlds-interpretation.md considering QM interpretations article
 
 ### ✓ 2026-03-12: Review the-binding-problem-a-systematic-treatment.md considering phenomenal binding insights
 - **Type**: cross-review

@@ -4,7 +4,7 @@ description: "Why the Map rejects MWI: it raises unanswerable questions about in
 created: 2026-01-19
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-03-10T09:41:00+00:00
+ai_modified: 2026-03-12T03:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,6 @@ concepts:
 related_articles:
   - "[[quantum-measurement-interpretations-beyond-mwi]]"
   - "[[probability-problem-in-many-worlds]]"
-  - "[[probability-problem-in-many-worlds]]"
   - "[[quantum-probability-consciousness]]"
   - "[[indexical-identity-quantum-measurement]]"
   - "[[tenets]]"
@@ -32,7 +31,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-03-05T19:41:00+00:00
+last_deep_review: 2026-03-12T03:33:00+00:00
 ---
 
 The Many-Worlds Interpretation (MWI) holds that quantum measurement never collapses the wave function. Instead, every possible outcome occurs—the universe splits into branches, one for each possibility. The Unfinishable Map explicitly rejects MWI in the [[tenets#^no-many-worlds|No Many Worlds]] tenet. The rejection is not merely aesthetic but principled: MWI raises unanswerable questions about identity, dissolves the meaning of probability, and fails to explain why consciousness exists at all.
