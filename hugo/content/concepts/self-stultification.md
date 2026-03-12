@@ -89,7 +89,7 @@ Radical skepticism that doubts all knowledge must also doubt itself. The skeptic
 
 ### Illusionism
 
-[Illusionism](/concepts/illusionism/) denies that phenomenal consciousness exists, replacing it with quasi-phenomenal states. But this [converges structurally with epiphenomenalism](/concepts/illusionism-as-epiphenomenalism-in-disguise/): the illusionist's beliefs about consciousness are produced by physical processes with no contribution from phenomenal properties (which, on their view, don't exist). The illusionist cannot claim their position is *informed by* careful attention to the character of experience, because on their view experience has no character beyond what physical processes produce.
+[Illusionism](/concepts/illusionism/) denies that phenomenal consciousness exists, replacing it with quasi-phenomenal states. But this [converges structurally with epiphenomenalism](/concepts/illusionism/#structural-convergence-with-epiphenomenalism): the illusionist's beliefs about consciousness are produced by physical processes with no contribution from phenomenal properties (which, on their view, don't exist). The illusionist cannot claim their position is *informed by* careful attention to the character of experience, because on their view experience has no character beyond what physical processes produce.
 
 ### Determinism and Rational Inference
 

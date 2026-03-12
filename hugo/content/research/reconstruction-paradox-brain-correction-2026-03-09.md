@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-09
-date: '2026-03-09'
+date: '2026-03-12'
 draft: false
 related_articles: []
 title: Research Notes - The Reconstruction Paradox
@@ -134,7 +134,7 @@ The brain demonstrably reconstructs many aspects of perception—filling in the 
   - The brain constructs a simplified model of its own processing, which we experience as consciousness
   - This model systematically misrepresents neural processes as having phenomenal properties
   - Just as the brain fills in the blind spot, it "fills in" the apparent richness of consciousness
-- **Relation to site tenets**: Directly conflicts with Dualism tenet and is explicitly ruled out. However, the illusionist analogy is revealing: if consciousness is an illusion, what is being fooled? An illusion requires a subject to whom things appear a certain way — and that appearance is itself a phenomenal experience. Illusionism smuggles in what it claims to eliminate. See [illusionism-as-epiphenomenalism-in-disguise](/concepts/illusionism-as-epiphenomenalism-in-disguise/).
+- **Relation to site tenets**: Directly conflicts with Dualism tenet and is explicitly ruled out. However, the illusionist analogy is revealing: if consciousness is an illusion, what is being fooled? An illusion requires a subject to whom things appear a certain way — and that appearance is itself a phenomenal experience. Illusionism smuggles in what it claims to eliminate. See [illusionism as epiphenomenalism in disguise](/concepts/illusionism/#structural-convergence-with-epiphenomenalism).
 
 ## Key Debates
 

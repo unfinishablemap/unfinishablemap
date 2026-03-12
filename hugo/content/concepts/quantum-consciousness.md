@@ -123,7 +123,7 @@ Despite differences, quantum consciousness theories agree:
 
 1. **Consciousness plays a physical role**—it affects which outcomes occur
 2. **The interface is at quantum indeterminacies**—where physics is genuinely undetermined
-3. **No energy violation**—consciousness shapes outcomes without adding energy
+3. **No energy violation**—consciousness shapes outcomes without adding energy (see [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/))
 4. **Many Worlds is rejected**—collapse is real, outcomes genuinely selected
 
 All are compatible with [adaptive computational depth](/concepts/adaptive-computational-depth/)—the principle that reality need not maintain maximum detail everywhere, concentrating determination where consciousness attends. The allocator's non-computability resolves the regress any computational allocation mechanism would face.

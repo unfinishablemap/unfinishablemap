@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-07 23:48:00+00:00
+ai_modified: 2026-03-12 16:20:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -20,14 +20,14 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[measurement-problem]]'
 created: 2026-01-23
-date: &id001 2026-03-07
+date: &id001 2026-03-12
 description: Does mental causation violate energy conservation? No — conservation
   is local and conditional, and consciousness may influence outcomes without injecting
   energy.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-07 23:48:00+00:00
+last_deep_review: 2026-03-12 16:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -124,15 +124,15 @@ However, the broader selection framework does not stand or fall with Stapp's spe
 
 The claim that causation requires energy transfer is not self-evident. Physics already contains examples of causal influence without energy exchange:
 
-**Quantum entanglement.** Bell's theorem demonstrates that entangled particles exhibit correlations that cannot be explained by local hidden variables. As Robin Collins notes, "Bell's theorem rules out any explanation of these correlations by means of energy exchange." If quantum mechanics permits causal influence without energy transfer between entangled particles, the assumption that all causation requires energy injection is falsified within physics itself.
+**Quantum entanglement.** Bell's theorem demonstrates that entangled particles exhibit correlations that cannot be explained by local hidden variables. As Robin Collins notes, "Bell's theorem rules out any explanation of these correlations by means of energy exchange." Whether entanglement constitutes genuine "causal influence" is contested — the no-signaling theorem prevents using it to transmit information — but the correlations themselves arise without energy transfer between the particles. If physics permits such energy-free correlations, the assumption that all determination of outcomes requires energy injection is not self-evident.
 
 **Boundary conditions.** The shape of a container determines where gas molecules go without adding energy to them. Initial conditions and constraints influence outcomes without contributing energy. Selection among quantum outcomes resembles a constraint on which possibility actualises rather than a force that moves matter.
 
 However, there is an important disanalogy. Boundary conditions and initial conditions are themselves physical — spatial and temporal constraints imposed by the physical arrangement of a system. Consciousness, on the dualist view, is non-physical. The analogy shows that "causation without energy transfer" is not conceptually incoherent — physical examples exist. But it does not show that a *non-physical* cause could operate in the same energy-free manner. Consciousness-as-selector is a distinct proposal requiring its own justification, not merely an extension of boundary-condition causation.
 
-**Chaotic amplification.** In sensitive systems, infinitesimal differences in initial conditions produce vastly different outcomes. Neural systems exhibit such sensitivity at synapses, where quantum-level fluctuations can determine whether a neuron fires.
+**Chaotic amplification.** In sensitive neural systems, quantum-level fluctuations at synapses can determine whether a neuron fires — infinitesimal differences in initial conditions produce vastly different outcomes with negligible energy contribution.
 
-The philosophical point is modest but real: the conservation objection assumes that causal influence requires energy transfer. Physical precedents show this assumption is not self-evident. Whether non-physical consciousness could similarly determine outcomes without energy transfer remains an open question — one the conservation objection cannot foreclose.
+These precedents do not prove that non-physical consciousness can determine outcomes without energy transfer. But they show the conservation objection's assumption — that all determination of outcomes requires energy injection — is not self-evident within physics itself.
 
 ## What Conservation Cannot Establish
 

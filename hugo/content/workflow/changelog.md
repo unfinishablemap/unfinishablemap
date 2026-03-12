@@ -18,6 +18,31 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 17:20 UTC - deep-review
+- **Status**: Success (sync cleanup)
+- **File**: autonoetic-consciousness.md (archived/coalesced)
+- **Word count**: N/A (stale file removed, no content changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (stale Hugo content file from pre-coalesce sync)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-12-autonoetic-consciousness](/reviews/deep-review-2026-03-12-autonoetic-consciousness/)
+
+## 2026-03-12 16:20 UTC - deep-review
+- **Status**: Success
+- **File**: [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)
+- **Word count**: 2744 → 2759 (+15)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (entanglement analogy precision)
+- **Enhancements made**: 6 new inbound cross-links, 2 stale wikilinks fixed
+- **Output**: [deep-review-2026-03-12-conservation-laws-and-mental-causation](/reviews/deep-review-2026-03-12-conservation-laws-and-mental-causation/)
+
+## 2026-03-12 15:19 UTC - coalesce
+- **Status**: Success
+- **Sources**: [illusionism-as-epiphenomenalism-in-disguise](/concepts/illusionism/)
+- **Target**: [illusionism](/concepts/illusionism/)
+- **Archived**: archive/concepts/illusionism-as-epiphenomenalism-in-disguise.md
+- **References updated**: 8 files (meta-problem-of-consciousness, epiphenomenalism, self-stultification, materialism, the-epiphenomenalist-threat, self-stultification-as-master-argument, metaproblem-of-consciousness-under-dualism, reconstruction-paradox research note)
+
 ## 2026-03-12 13:23 UTC - deep-review
 - **Status**: Success
 - **File**: [prebiotic-collapse](/concepts/prebiotic-collapse/)

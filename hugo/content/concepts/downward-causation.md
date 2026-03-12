@@ -99,7 +99,7 @@ Several mechanisms have been proposed for how consciousness might bias quantum o
 
 Key features:
 
-**No energy injection**: Consciousness selects among outcomes that physics already allows, all of which conserve energy. No conservation law is violated.
+**No energy injection**: Consciousness selects among outcomes that physics already allows, all of which conserve energy. No [conservation law](/concepts/conservation-laws-and-mental-causation/) is violated.
 
 **Operates at incompleteness**: Consciousness acts where physics specifies probabilities, not outcomes. There's no sufficient physical cause to be excluded by.
 

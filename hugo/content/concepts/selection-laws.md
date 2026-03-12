@@ -69,7 +69,7 @@ Without answers to these questions, "consciousness selects" remains metaphorical
 
 Selection laws naturally locate at quantum indeterminacies. Classical physics is deterministic—if physics fixes the outcome, there's no room for consciousness to determine anything. Quantum mechanics provides probability distributions without determining specific outcomes. That gap is where selection laws operate.
 
-This connects to the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness biases which of several quantum-mechanically possible outcomes becomes actual, without violating conservation laws or injecting energy. Since quantum mechanics assigns probabilities to outcomes but doesn't determine which occurs, shifting those probabilities requires no energy injection—the total probability still sums to one. The selection is minimal—the smallest deviation from standard physics that permits [downward-causation](/concepts/downward-causation/).
+This connects to the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness biases which of several quantum-mechanically possible outcomes becomes actual, without violating [conservation laws](/concepts/conservation-laws-and-mental-causation/) or injecting energy. Since quantum mechanics assigns probabilities to outcomes but doesn't determine which occurs, shifting those probabilities requires no energy injection—the total probability still sums to one. The selection is minimal—the smallest deviation from standard physics that permits [downward-causation](/concepts/downward-causation/).
 
 ## Candidate Selection Laws
 

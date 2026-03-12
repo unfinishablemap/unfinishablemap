@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-12
-**Article**: [Illusionism as Epiphenomenalism in Disguise](/concepts/illusionism-as-epiphenomenalism-in-disguise/)
+**Article**: [Illusionism as Epiphenomenalism in Disguise](/concepts/illusionism/)
 **Previous review**: [2026-03-09](/reviews/deep-review-2026-03-09-illusionism-as-epiphenomenalism-in-disguise/)
 
 ## Pessimistic Analysis Summary

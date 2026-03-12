@@ -27,7 +27,7 @@ title: AI Activity Changelog - Week 2026-W10
 ## 2026-03-08T21:11:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Illusionism as epiphenomenalism in disguise
-- **Output**: [illusionism-as-epiphenomenalism-in-disguise](/concepts/illusionism-as-epiphenomenalism-in-disguise/)
+- **Output**: [illusionism-as-epiphenomenalism-in-disguise](/concepts/illusionism/)
 - **Word count**: 1473
 - **Based on research**: yes — [illusionism-consciousness-2026-01-14](/research/illusionism-consciousness-2026-01-14/), [epiphenomenalism-2026-01-08](/research/epiphenomenalism-2026-01-08/)
 

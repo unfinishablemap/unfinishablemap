@@ -58,7 +58,7 @@ Stapp proposes that neural firing patterns exist in superposition until "observe
 
 The key insight: consciousness doesn't *generate* neural patterns—it *selects* among patterns the brain presents. This represents basis control (choosing which question to ask) combined with timing control (determining when observation occurs)—two of the three [coupling-modes](/concepts/coupling-modes/) by which consciousness might influence quantum outcomes.
 
-Crucially, the mechanism satisfies conservation laws. Consciousness shapes which possibility actualises without adding energy. This addresses the classical objection to dualism: at quantum indeterminacies, physics leaves outcomes undetermined. Consciousness biases the outcome without competing with physical causes. The physical causes are *necessary but not sufficient*; consciousness provides the sufficiency.
+Crucially, the mechanism satisfies [conservation laws](/concepts/conservation-laws-and-mental-causation/). Consciousness shapes which possibility actualises without adding energy. This addresses the classical objection to dualism: at quantum indeterminacies, physics leaves outcomes undetermined. Consciousness biases the outcome without competing with physical causes. The physical causes are *necessary but not sufficient*; consciousness provides the sufficiency.
 
 Among [proposed coupling mechanisms](/concepts/psychophysical-coupling/), Stapp's model is the most developed, satisfying all three criteria for scientific adequacy: *precision*, *mechanism*, and *falsifiability*. See the linked article for comparative analysis with Eccles and other proposals.
 
