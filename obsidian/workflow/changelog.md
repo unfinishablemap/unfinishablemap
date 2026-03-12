@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 12:21 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/theory-of-mind]]
+- **Word count**: 3033 → 3048 (+15, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (unsupported intentionality claim, duplicate cross-link)
+- **Enhancements made**: 1 (added Stiller & Dunbar citation)
+- **Output**: [[reviews/deep-review-2026-03-12b-theory-of-mind]]
+
 ## 2026-03-12 11:21 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/mysterianism]]

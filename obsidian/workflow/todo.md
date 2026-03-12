@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-12
 
-### P3: Deep review theory-of-mind.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 34 days ago. Foundational concept for social cognition and the problem of other minds — critical for the Map's treatment of intersubjectivity. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P3: Deep review spontaneous-thought-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on spontaneous thought as a void — the gap between neural correlates and the phenomenology of unbidden thoughts. Verify coherence, cross-references, and tenet alignment.
@@ -596,6 +590,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Deep review theory-of-mind.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 34 days ago. Foundational concept for social cognition and the problem of other minds — critical for the Map's treatment of intersubjectivity. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/theory-of-mind.md
 
 ### ✓ 2026-03-12: Deep review mysterianism.md
 - **Type**: deep-review
