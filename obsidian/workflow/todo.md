@@ -55,6 +55,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-12
 
+### P2: Address epiphenomenalism/physicalism conflation in mental-imagery-causal-role-of-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found that the article frames the debate as consciousness-causes vs. epiphenomenalism, but the real physicalist opponent is identity theory (conscious states *are* brain states and *are* causal). The "Breaking the Standoff" section needs to engage identity theory directly. Also: aphantasia claim uses unconfirmed preliminary evidence as argument rather than prediction. See pessimistic-2026-03-12-early.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-12
+
+### P2: Address lookup table scale problem in continual-learning-argument.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found that the proximity argument conflates logical possibility with physical realisability—the combinatorial explosion of LLM token sequences makes lookup tables physically unrealisable, weakening the "closeness" claim. Also: contemplative evidence section leaps from phenomenological reports to metaphysical conclusions without separating the two. See pessimistic-2026-03-12-early.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-12
+
 ### P3: Deep review machine-question.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. Synthesis piece on AI consciousness — the Map's most contemporary-discourse-relevant apex article. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
