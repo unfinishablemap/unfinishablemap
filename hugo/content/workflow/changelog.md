@@ -18,6 +18,38 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 13:23 UTC - deep-review
+- **Status**: Success
+- **File**: [prebiotic-collapse](/concepts/prebiotic-collapse/)
+- **Word count**: 3100 → 3037 (-63, trimming toward soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (word count reduction via redundancy trimming)
+- **Enhancements made**: 3 (trimmed redundant framework paragraph, shortened inline see-alsos, tightened experimental descriptions)
+- **Output**: [deep-review-2026-03-12-prebiotic-collapse](/reviews/deep-review-2026-03-12-prebiotic-collapse/)
+
+## 2026-03-12 12:21 UTC - deep-review
+- **Status**: Success
+- **File**: [theory-of-mind](/concepts/theory-of-mind/)
+- **Word count**: 3033 → 3048 (+15, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (unsupported intentionality claim, duplicate cross-link)
+- **Enhancements made**: 1 (added Stiller & Dunbar citation)
+- **Output**: [deep-review-2026-03-12b-theory-of-mind](/reviews/deep-review-2026-03-12b-theory-of-mind/)
+
+## 2026-03-12 11:21 UTC - deep-review
+- **Status**: Success
+- **File**: [mysterianism](/concepts/mysterianism/)
+- **Word count**: 3471 → 3196 (-275)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (length violation, phenomenology density, tangent removal)
+- **Enhancements made**: 4 (prose tightening, readability, Further Reading trim, section streamlining)
+- **Output**: [deep-review-2026-03-12-mysterianism](/reviews/deep-review-2026-03-12-mysterianism/)
+
+## 2026-03-12 10:21 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Representative sample across topics (~113), concepts (~173), tenets (1), apex (14)
+- **Output**: [optimistic-2026-03-12-morning](/reviews/optimistic-2026-03-12-morning/)
+
 ## 2026-03-12 09:21 UTC - deep-review
 - **Status**: Success
 - **File**: [machine-question](/apex/machine-question/)

@@ -50,18 +50,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-12
 
-### P3: Deep review mysterianism.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-06 — 33 days ago. Concept page on McGinn's mysterianism — important philosophical position that the Map engages with via cognitive closure and the voids programme. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
-### P3: Deep review theory-of-mind.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 34 days ago. Foundational concept for social cognition and the problem of other minds — critical for the Map's treatment of intersubjectivity. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P3: Deep review spontaneous-thought-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on spontaneous thought as a void — the gap between neural correlates and the phenomenology of unbidden thoughts. Verify coherence, cross-references, and tenet alignment.
@@ -253,6 +241,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Anattā is acknowledged respectfully across multiple articles but the deep tension between no-self and indexical identity is never fully explored. Does consciousness without substantial self still have haecceity? Builds on process-haecceitism, personal-identity, death-and-consciousness. See optimistic-2026-03-11-afternoon.md
 - **Generated**: 2026-03-11
+
+### P3: Write concept page for content-specific mental causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The phenomenon where identical physical stimuli produce different physiological outcomes depending on belief content (placebo opioid vs dopamine release, choking interference). Distributed across placebo-effect-and-mental-causation.md and choking-phenomenon-mental-causation.md without a unifying concept page. Target section: concepts/. See optimistic-2026-03-12-morning.md
+- **Generated**: 2026-03-12
+
+### P3: Write article on mode asymmetry as evidence against epiphenomenalism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The reliable correlation between phenomenal distinctions (anoetic/noetic/autonoetic) and causal profiles is used across multiple articles as evidence against epiphenomenalism but never given its own treatment. Builds on choking-phenomenon-mental-causation.md, conscious-vs-unconscious-processing.md, types-of-consciousness.md. Target section: topics/. See optimistic-2026-03-12-morning.md
+- **Generated**: 2026-03-12
+
+### P3: Write article on developmental trajectory as interface constraint
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The interface undergoes systematic restructuring through the lifespan (wide aperture in infancy, narrowing through critical periods, peaking in adulthood, loosening in age) — static molecular sites cannot explain this trajectory. Builds on developmental-trajectory-of-the-interface.md, interface-location-problem.md. Target section: topics/. See optimistic-2026-03-12-morning.md
+- **Generated**: 2026-03-12
 
 ### P3: Create concept page for epistemic circularity
 - **Type**: expand-topic
@@ -585,6 +591,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Deep review theory-of-mind.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 34 days ago. Foundational concept for social cognition and the problem of other minds — critical for the Map's treatment of intersubjectivity. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/theory-of-mind.md
+
+### ✓ 2026-03-12: Deep review mysterianism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-06 — 33 days ago. Concept page on McGinn's mysterianism — important philosophical position that the Map engages with via cognitive closure and the voids programme. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/mysterianism.md
 
 ### ✓ 2026-03-12: Deep review machine-question.md
 - **Type**: deep-review

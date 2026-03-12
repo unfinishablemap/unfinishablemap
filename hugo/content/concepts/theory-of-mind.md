@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-12 01:25:00+00:00
+ai_modified: 2026-03-12 12:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Attributing beliefs, desires, and intentions to others. Higher leve
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-12 01:25:00+00:00
+last_deep_review: 2026-03-12 12:21:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,7 +66,7 @@ Level 3 unambiguously requires metarepresentation. You must hold multiple repres
 
 ### Level 4 and Beyond
 
-Humans readily engage in fourth-order attribution ("I know that you know that I know that you're pretending") and can theoretically extend further, limited primarily by working memory. Research finds an asymptotic ceiling around fifth-order intentionality, with rare individuals reaching sixth or seventh—the [recursion-void](/voids/recursion-void/) explores why this limit is so remarkably shallow. Fictional narratives routinely demand third and fourth-order theory of mind from readers tracking characters' knowledge of other characters' intentions.
+Humans readily engage in fourth-order attribution ("I know that you know that I know that you're pretending") and can theoretically extend further, limited primarily by working memory. Experimental studies find a typical ceiling around fifth-order intentionality, with considerable individual variation (Stiller & Dunbar, 2007)—the [recursion-void](/voids/recursion-void/) explores why this limit is so remarkably shallow. Fictional narratives routinely demand third and fourth-order theory of mind from readers tracking characters' knowledge of other characters' intentions.
 
 ## The Metarepresentational Threshold
 
@@ -212,7 +212,6 @@ The simpler hypothesis—theory of mind is just sophisticated behaviour predicti
 ### Related Concepts
 - [working-memory](/concepts/working-memory/) — The workspace enabling recursive mental operations
 - [intentionality](/concepts/intentionality/) — The aboutness of mental states
-- [metacognition](/concepts/metacognition/) — Thinking about thinking
 
 ## References
 
@@ -223,4 +222,5 @@ The simpler hypothesis—theory of mind is just sophisticated behaviour predicti
 1. Premack, D., & Woodruff, G. (1978). Does the chimpanzee have a theory of mind? *Behavioral and Brain Sciences*, 1(4), 515-526.
 1. Saxe, R., & Kanwisher, N. (2003). People thinking about thinking people: The role of the temporo-parietal junction in "theory of mind". *NeuroImage*, 19(4), 1835-1842.
 1. Tomasello, M. (2014). *A Natural History of Human Thinking*. Harvard University Press.
+1. Stiller, J., & Dunbar, R.I.M. (2007). Perspective-taking and memory capacity predict social network size. *Social Networks*, 29(1), 93-104.
 1. Wellman, H.M. (2014). *Making Minds: How Theory of Mind Develops*. Oxford University Press.
