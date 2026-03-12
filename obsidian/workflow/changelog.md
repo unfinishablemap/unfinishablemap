@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 19:20 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/buddhist-perspectives-on-meaning]]
+- **Word count**: 2343 → 2435 (+92)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (5 cross-links added, Yogācāra description nuanced)
+- **Enhancements made**: 5 cross-links to related content
+- **Output**: [[reviews/deep-review-2026-03-12-buddhist-perspectives-on-meaning]]
+
 ## 2026-03-12 18:20 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/psychophysical-laws-bridging-mind-and-matter]]
