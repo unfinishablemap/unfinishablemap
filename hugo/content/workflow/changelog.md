@@ -18,6 +18,81 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 02:55 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Hypnagogic Phenomenology and Interface Modulation
+- **Output**: [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/)
+- **Word count**: 2230
+- **Based on research**: Partially (drew on voids-transition-void-2026-03-05 research notes)
+
+## 2026-03-12 02:50 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of Collective Intentionality and We-Consciousness
+- **Output**: [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/)
+- **Word count**: 2167
+- **Based on research**: Partially (drew on voids-intersubjective-void-2026-02-01 research notes)
+
+## 2026-03-12 02:45 UTC - research-voids
+- **Status**: Skipped (section at capacity)
+- **Reason**: Voids section has 103 articles against a cap of 100
+- **Recommendation**: Focus on improving existing voids articles (deep-review, condense, coalesce)
+
+## 2026-03-12 02:40 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Alignment in Objective Experiential Terms
+- **Output**: [alignment-in-objective-experiential-terms](/topics/alignment-in-objective-experiential-terms/)
+- **Word count**: 2106
+- **Based on research**: yes, [alignment-objective-experiential-terms-2026-01-16](/research/alignment-objective-experiential-terms-2026-01-16/)
+
+## 2026-03-12 02:34 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/)
+- **Word count**: 1725 → 1748 (+23)
+- **Critical issues addressed**: 5 (3 reference errors, 1 incorrect latency, 1 overstated claim)
+- **Medium issues addressed**: 2 (BP1/BP2 undefined, mechanism overclaimed)
+- **Enhancements made**: 0 (article below soft threshold but already well-structured)
+- **Output**: [deep-review-2026-03-12-phenomenal-binding-and-multimodal-integration](/reviews/deep-review-2026-03-12-phenomenal-binding-and-multimodal-integration/)
+
+## 2026-03-12 02:29 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal Binding and Multimodal Integration
+- **Output**: [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/)
+- **Word count**: 1725
+- **Based on research**: yes, [phenomenal-binding-multimodal-integration-2026-01-23](/research/phenomenal-binding-multimodal-integration-2026-01-23/)
+
+## 2026-03-12 02:25 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Quantum Interpretations Beyond Many-Worlds
+- **Output**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+- **Word count**: 1565
+- **Based on research**: yes, [qm-interpretations-beyond-mwi-2026-01-16](/research/qm-interpretations-beyond-mwi-2026-01-16/)
+
+## 2026-03-12 02:18 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenal-normativity](/concepts/phenomenal-normativity/), [concept-of-phenomenal-value-realism](/concepts/phenomenal-normativity/)
+- **Target**: [phenomenal-normativity](/concepts/phenomenal-normativity/)
+- **Archived**: archive/concepts/concept-of-phenomenal-value-realism.md
+- **References updated**: 6 files (consciousness-value-connection, qualia, ai-consciousness, phenomenology-of-meaning-making, animal-consciousness, phenomenal-value-realism)
+- **References to review**: none
+
+## 2026-03-12 02:10 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)
+- **Word count**: 2543 → 2554 (+11)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Chase & Simon chunk size claim corrected)
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-12-consciousness-as-perceptual-architect](/reviews/deep-review-2026-03-12-consciousness-as-perceptual-architect/)
+
+## 2026-03-12 02:05 UTC - deep-review
+- **Status**: Success
+- **File**: [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
+- **Word count**: 2310 → 2346 (+36)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (7T fMRI case study qualification, electron analogy softened)
+- **Enhancements made**: 2 (cross-links to lucid-dreaming-as-capability-evidence, contemplative-practice-as-philosophical-evidence)
+- **Output**: [deep-review-2026-03-12-eastern-philosophy-consciousness](/reviews/deep-review-2026-03-12-eastern-philosophy-consciousness/)
+
 ## 2026-03-12 01:53 UTC - deep-review
 - **Status**: Success
 - **File**: [epistemology-of-introspection](/topics/epistemology-of-introspection/)
@@ -1621,7 +1696,7 @@ topics: []
 
 ## 2026-03-10T13:09:00+00:00 - refine-draft
 - **Status**: Success
-- **File**: [concept-of-phenomenal-value-realism](/concepts/concept-of-phenomenal-value-realism/)
+- **File**: [concept-of-phenomenal-value-realism](/concepts/phenomenal-normativity/)
 - **Changes**: Fixed pluralism/identity tension (high), strengthened Open Question response (high), qualified Rawlette superlative (medium), developed inverted aesthetics argument (medium), applied language improvements
 - **Published**: yes
 

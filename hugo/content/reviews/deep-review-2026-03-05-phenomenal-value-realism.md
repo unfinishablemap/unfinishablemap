@@ -25,9 +25,9 @@ topics: []
 
 ### Critical Issues Found
 
-1. **Self-referential frontmatter link**: `concepts: [phenomenal-value-realism](/topics/phenomenal-value-realism/)` pointed to the file itself instead of the concept page `[concept-of-phenomenal-value-realism](/concepts/concept-of-phenomenal-value-realism/)`. **Resolution**: Fixed to correct concept slug.
+1. **Self-referential frontmatter link**: `concepts: [phenomenal-value-realism](/topics/phenomenal-value-realism/)` pointed to the file itself instead of the concept page `[concept-of-phenomenal-value-realism](/concepts/phenomenal-normativity/)`. **Resolution**: Fixed to correct concept slug.
 
-2. **Self-referential Further Reading entry**: `[Phenomenal Value Realism (Concept)](/topics/phenomenal-value-realism/)` linked to this file but labelled "(Concept)". **Resolution**: Fixed to `[concept-of-phenomenal-value-realism](/concepts/concept-of-phenomenal-value-realism/)`.
+2. **Self-referential Further Reading entry**: `[Phenomenal Value Realism (Concept)](/topics/phenomenal-value-realism/)` linked to this file but labelled "(Concept)". **Resolution**: Fixed to `[concept-of-phenomenal-value-realism](/concepts/phenomenal-normativity/)`.
 
 All six adversarial personas engaged:
 

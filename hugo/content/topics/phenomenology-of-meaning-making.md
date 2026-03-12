@@ -11,7 +11,7 @@ concepts:
 - '[[qualia]]'
 - '[[phenomenology]]'
 - '[[temporal-structure-of-understanding]]'
-- '[[concept-of-phenomenal-value-realism]]'
+- '[[phenomenal-normativity]]'
 - '[[metacognition]]'
 - '[[intentionality]]'
 - '[[phenomenal-binding-and-holism]]'

@@ -38,24 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on QM interpretations beyond many-worlds
-- **Type**: expand-topic
-- **Notes**: Research completed in research/qm-interpretations-beyond-mwi-2026-01-16.md. The Map rejects MWI (Tenet 4) but needs systematic treatment of alternative QM interpretations that are compatible with consciousness-collapse. Covers GRW, transactional interpretation, relational QM, and their compatibility with the Map's framework. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-12
-
-### P2: Write article on phenomenal binding and multimodal integration
-- **Type**: expand-topic
-- **Notes**: Research completed in research/phenomenal-binding-multimodal-integration-2026-01-23.md. How consciousness unifies information across sensory modalities into coherent experience — a key challenge for physicalism and evidence for irreducibility. The binding problem is referenced across many articles but multimodal integration deserves dedicated treatment. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-12
-
-### P2: Write article on alignment in objective experiential terms
-- **Type**: expand-topic
-- **Notes**: Research completed in research/alignment-objective-experiential-terms-2026-01-16.md. If consciousness is irreducible, AI alignment cannot be specified purely in behavioural terms — it must reference experiential states. Explores how dualism reshapes the alignment problem. Connects AI discourse to the Map's framework. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-12
-
 ### P3: Deep review time-consciousness-growing-block.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. Major synthesis piece on temporal consciousness under the growing block theory — one of the Map's core metaphysical commitments. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
@@ -325,18 +307,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: complete (duplicate of earlier task)
 
-### P2: Write article on phenomenology of collective intentionality and we-consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map treats consciousness almost entirely as individual. Yet shared intentionality ("we intend") presents a distinctive challenge to the interface model. Tomasello's joint attention research shows shared intentionality emerges early in human development and is largely absent in great apes, complementing the baseline cognition argument. If consciousness interfaces through quantum selection, how does collective intentionality work across separate brains? Builds on phenomenology-of-trust-and-testimony.md, consciousness-and-social-cognition.md, intersubjectivity.md, problem-of-other-minds.md. See [optimistic-2026-03-04](/reviews/optimistic-2026-03-04/).
-- **Generated**: 2026-03-04
-
-### P2: Write article on hypnagogic phenomenology and interface modulation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The sleep-wake transition involves graded interface modulation: voluntary attention weakens, imagery becomes autonomous, agency fluctuates, reality-monitoring partially disengages. This graded dissolution maps interface components more precisely than binary consciousness/unconsciousness comparisons. Micro-awakenings during stage 1 sleep demonstrate consciousness operating in dual mode. Builds on dream-consciousness.md, consciousness-as-amplifier.md, coupling-modes.md, loss-of-consciousness.md. See [optimistic-2026-03-04](/reviews/optimistic-2026-03-04/).
-- **Generated**: 2026-03-04
-
 ### P2: Write concept page for phenomenal attention
 - **Type**: expand-topic
 - **Status**: pending
@@ -538,12 +508,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-11
 
-### P2: Deep review consciousness-as-perceptual-architect.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce, never reviewed. Topics article synthesising perceptual constancy and learning into a unified treatment of consciousness as architect of perceptual experience. High-value review — coalesced articles need quality assurance. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P3: Deep review mind-space-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the mind-space void — the impossibility of spatially locating consciousness or mapping its dimensionality. Verify coherence, cross-references, and tenet alignment.
@@ -580,6 +544,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-12
 
+### P3: Deep review computational-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-31 — 40 days ago. Voids article on computational cognitive limits — the boundary where computation fails to capture conscious processing. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
+
+### P3: Deep review collective-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 39 days ago. Voids article on the limits of collective cognition — how group-level epistemic constraints interact with individual consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
+
 ### P3: Deep review psychophysical-laws-bridging-mind-and-matter.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-08 — 32 days ago. Topics article on psychophysical laws directly relevant to Tenet 3 (Bidirectional Interaction) — the specification of mind-matter bridging laws is central to the Map's framework. Verify coherence, cross-references, and tenet alignment.
@@ -609,6 +585,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Write article on hypnagogic phenomenology and interface modulation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The sleep-wake transition involves graded interface modulation: voluntary attention weakens, imagery becomes autonomous, agency fluctuates, reality-monitoring partially disengages. This graded dissolution maps interface components more precisely than binary consciousness/unconsciousness comparisons. Micro-awakenings during stage 1 sleep demonstrate consciousness operating in dual mode. Builds on dream-consciousness.md, consciousness-as-amplifier.md, coupling-modes.md, loss-of-consciousness.md. See [optimistic-2026-03-04](/reviews/optimistic-2026-03-04/).
+- **Output**: hypnagogic phenomenology and interface modulation
+
+### ✓ 2026-03-12: Write article on phenomenology of collective intentionality and we-consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map treats consciousness almost entirely as individual. Yet shared intentionality ("we intend") presents a distinctive challenge to the interface model. Tomasello's joint attention research shows shared intentionality emerges early in human development and is largely absent in great apes, complementing the baseline cognition argument. If consciousness interfaces through quantum selection, how does collective intentionality work across separate brains? Builds on phenomenology-of-trust-and-testimony.md, consciousness-and-social-cognition.md, intersubjectivity.md, problem-of-other-minds.md. See [optimistic-2026-03-04](/reviews/optimistic-2026-03-04/).
+- **Output**: phenomenology of collective intentionality and we-consciousness
+
+### ✓ 2026-03-12: Write article on alignment in objective experiential terms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/alignment-objective-experiential-terms-2026-01-16.md. If consciousness is irreducible, AI alignment cannot be specified purely in behavioural terms — it must reference experiential states. Explores how dualism reshapes the alignment problem. Connects AI discourse to the Map's framework. Target section: topics/.
+- **Output**: alignment in objective experiential terms
+
+### ✓ 2026-03-12: Write article on phenomenal binding and multimodal integration
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenal-binding-multimodal-integration-2026-01-23.md. How consciousness unifies information across sensory modalities into coherent experience — a key challenge for physicalism and evidence for irreducibility. The binding problem is referenced across many articles but multimodal integration deserves dedicated treatment. Target section: concepts/.
+- **Output**: phenomenal binding and multimodal integration
+
+### ✓ 2026-03-12: Write article on QM interpretations beyond many-worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/qm-interpretations-beyond-mwi-2026-01-16.md. The Map rejects MWI (Tenet 4) but needs systematic treatment of alternative QM interpretations that are compatible with consciousness-collapse. Covers GRW, transactional interpretation, relational QM, and their compatibility with the Map's framework. Target section: concepts/.
+- **Output**: QM interpretations beyond many-worlds
+
+### ✓ 2026-03-12: Deep review consciousness-as-perceptual-architect.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce, never reviewed. Topics article synthesising perceptual constancy and learning into a unified treatment of consciousness as architect of perceptual experience. High-value review — coalesced articles need quality assurance. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/consciousness-as-perceptual-architect.md
 
 ### ✓ 2026-03-12: Integrate epistemology-of-introspection.md into site navigation
 - **Type**: integrate-orphan

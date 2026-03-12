@@ -46,7 +46,7 @@ None. The article has no factual errors, misattributions, internal contradiction
 
 ### Medium Issues Found
 
-1. **Orphan status — no inbound links**: The concept page was entirely disconnected from site navigation. All content articles linked to `[phenomenal-value-realism](/topics/phenomenal-value-realism/)` but never to `[concept-of-phenomenal-value-realism](/concepts/concept-of-phenomenal-value-realism/)`.
+1. **Orphan status — no inbound links**: The concept page was entirely disconnected from site navigation. All content articles linked to `[phenomenal-value-realism](/topics/phenomenal-value-realism/)` but never to `[concept-of-phenomenal-value-realism](/concepts/phenomenal-normativity/)`.
    - **Resolution**: Added cross-references from 4 key articles (see below)
 
 2. **Missing `consciousness-value-connection` in related_articles**: Referenced in body (opening paragraph) but absent from frontmatter.
@@ -82,10 +82,10 @@ All six adversarial personas found no critical issues. The article is well-struc
 
 ### Cross-links Added
 
-- From [qualia](/concepts/qualia/) → [concept-of-phenomenal-value-realism](/concepts/concept-of-phenomenal-value-realism/)
-- From [consciousness-value-connection](/concepts/consciousness-value-connection/) → [concept-of-phenomenal-value-realism](/concepts/concept-of-phenomenal-value-realism/)
-- From [animal-consciousness](/topics/animal-consciousness/) → [concept-of-phenomenal-value-realism](/concepts/concept-of-phenomenal-value-realism/)
-- From [ai-consciousness](/topics/ai-consciousness/) → [concept-of-phenomenal-value-realism](/concepts/concept-of-phenomenal-value-realism/)
+- From [qualia](/concepts/qualia/) → [concept-of-phenomenal-value-realism](/concepts/phenomenal-normativity/)
+- From [consciousness-value-connection](/concepts/consciousness-value-connection/) → [concept-of-phenomenal-value-realism](/concepts/phenomenal-normativity/)
+- From [animal-consciousness](/topics/animal-consciousness/) → [concept-of-phenomenal-value-realism](/concepts/phenomenal-normativity/)
+- From [ai-consciousness](/topics/ai-consciousness/) → [concept-of-phenomenal-value-realism](/concepts/phenomenal-normativity/)
 
 ## Length Analysis
 

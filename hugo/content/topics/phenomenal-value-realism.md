@@ -8,7 +8,7 @@ coalesced_from:
 - /topics/phenomenal-value-realism/
 - /topics/phenomenal-value-realism-development/
 concepts:
-- '[[concept-of-phenomenal-value-realism]]'
+- '[[phenomenal-normativity]]'
 - '[[qualia]]'
 - '[[consciousness-value-connection]]'
 - '[[dualism]]'
@@ -246,7 +246,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 
 ## Further Reading
 
-- [Phenomenal Value Realism (Concept)](/concepts/concept-of-phenomenal-value-realism/) — The definitional article on this metaethical position
+- [Phenomenal Normativity](/concepts/phenomenal-normativity/) — The definitional article on this metaethical position
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value to exist
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral perception feels like from the inside
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness grounds meaning
