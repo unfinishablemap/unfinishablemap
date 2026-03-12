@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Review many-worlds-interpretation.md considering QM interpretations article
+- **Type**: cross-review
+- **Notes**: New article topics/qm-interpretations-beyond-many-worlds.md surveys GRW, transactional, relational QM, and consciousness-collapse compatibility. The existing many-worlds-interpretation.md (Tenet 4) should cross-reference the new article's treatment of alternative interpretations that avoid MWI's problems. Check for cross-links and argument reinforcement.
+- **Source**: chain (from qm-interpretations-beyond-many-worlds.md)
+- **Generated**: 2026-03-12
+
+### P2: Review intersubjectivity.md considering collective intentionality insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenology-of-collective-intentionality-and-we-consciousness.md examines shared intentionality and we-consciousness under dualism. The intersubjectivity.md concept page should cross-reference this treatment, particularly the challenge collective intentionality poses for the interface model (how does joint attention work across separate brains?). Check for cross-links and complementary arguments.
+- **Source**: chain (from phenomenology-of-collective-intentionality-and-we-consciousness.md)
+- **Generated**: 2026-03-12
+
+### P2: Review dream-consciousness.md considering hypnagogic phenomenology insights
+- **Type**: cross-review
+- **Notes**: New article topics/hypnagogic-phenomenology-and-interface-modulation.md treats the sleep-wake transition as graded interface modulation. The dream-consciousness.md article covers dreaming broadly and should cross-reference hypnagogia as the transitional state that maps interface components more precisely than binary comparisons. Check for cross-links and argument reinforcement.
+- **Source**: chain (from hypnagogic-phenomenology-and-interface-modulation.md)
+- **Generated**: 2026-03-12
+
+### P2: Integrate indexical-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Voids article on the indexical void — the irreducibility of this-ness in conscious experience. Add cross-references from related articles such as indexical-identity.md, process-haecceitism.md, and taxonomy-of-voids.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-12
+
+### P2: Integrate indexical-knowledge-and-identity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page on indexical knowledge and identity — how first-person knowledge resists third-person reduction. Add cross-references from indexical-identity.md, knowledge-argument.md, and acquaintance-knowledge.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-12
+
+### P2: Integrate indexical-identity-quantum-measurement.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article connecting indexical identity to quantum measurement — why the particular observer matters for collapse. Add cross-references from indexical-identity.md, quantum-consciousness.md, and collapse-interpretation.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-12
+
 ### P3: Deep review time-consciousness-growing-block.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. Major synthesis piece on temporal consciousness under the growing block theory — one of the Map's core metaphysical commitments. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
