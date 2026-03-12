@@ -603,6 +603,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-12
 
+### P3: Write convergence meta-argument as central thesis (apex candidate)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. When phenomenology, physics, neuroscience, cognitive science, and temporal metaphysics all independently point toward irreducibility, the combined evidential weight exceeds any individual strand. Apex synthesis candidate. See optimistic-2026-03-12.md
+
+### P3: Write clinical neuroscience as systematic interface evidence (apex synthesis)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Synthesize anaesthesia specificity, terminal lucidity, dissociative disorders, phantom limbs as converging evidence for filter/transmission theory. Apex synthesis candidate. See optimistic-2026-03-12.md
+
+### P3: Write article on aesthetic experience as evidence for consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Aesthetic experience (beauty, sublimity, elegance) has distinctive phenomenal character that tracks real features yet resists functional reduction. A domain largely untouched by the Map. See optimistic-2026-03-12.md
+
 ## Completed Tasks
 
 
