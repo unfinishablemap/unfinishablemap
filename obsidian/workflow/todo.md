@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on QM interpretations beyond many-worlds
-- **Type**: expand-topic
-- **Notes**: Research completed in research/qm-interpretations-beyond-mwi-2026-01-16.md. The Map rejects MWI (Tenet 4) but needs systematic treatment of alternative QM interpretations that are compatible with consciousness-collapse. Covers GRW, transactional interpretation, relational QM, and their compatibility with the Map's framework. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-12
-
 ### P2: Write article on phenomenal binding and multimodal integration
 - **Type**: expand-topic
 - **Notes**: Research completed in research/phenomenal-binding-multimodal-integration-2026-01-23.md. How consciousness unifies information across sensory modalities into coherent experience — a key challenge for physicalism and evidence for irreducibility. The binding problem is referenced across many articles but multimodal integration deserves dedicated treatment. Target section: concepts/.
@@ -614,6 +608,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Write article on QM interpretations beyond many-worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/qm-interpretations-beyond-mwi-2026-01-16.md. The Map rejects MWI (Tenet 4) but needs systematic treatment of alternative QM interpretations that are compatible with consciousness-collapse. Covers GRW, transactional interpretation, relational QM, and their compatibility with the Map's framework. Target section: concepts/.
+- **Output**: QM interpretations beyond many-worlds
 
 ### ✓ 2026-03-12: Deep review consciousness-as-perceptual-architect.md
 - **Type**: deep-review
