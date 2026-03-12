@@ -4,7 +4,7 @@ description: "Survey of quantum interpretations and their consciousness implicat
 created: 2026-01-17
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-03-10T09:41:00+00:00
+ai_modified: 2026-03-12T05:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ concepts:
   - "[[probability-problem-in-many-worlds]]"
 related_articles:
   - "[[tenets]]"
-  - "[[qm-interpretations-beyond-mwi-2026-01-16]]"
+  - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[quantum-probability-consciousness]]"
 ai_contribution: 100
 author: null
@@ -181,7 +181,7 @@ The deepest conflict: MWI provides no role for consciousness in physics. The [[t
 
 ## Implications for the Map's Framework
 
-The interpretive landscape remains genuinely open. This gives the Map's position—consciousness participates in determining quantum outcomes—legitimate standing. The question is not whether physics rules this out (it doesn't) but which interpretation best explains both quantum phenomena and the existence of consciousness.
+The interpretive landscape remains genuinely open—see [[qm-interpretations-beyond-many-worlds|Quantum Interpretations Beyond Many-Worlds]] for detailed evaluation of each interpretation's compatibility with the Map's tenets. This gives the Map's position—consciousness participates in determining quantum outcomes—legitimate standing. The question is not whether physics rules this out (it doesn't) but which interpretation best explains both quantum phenomena and the existence of consciousness.
 
 Interpretations that eliminate consciousness (Bohmian mechanics, MWI) or treat it as purely epistemic (QBism) don't explain why consciousness exists. The Map's framework takes consciousness as explanatory target, not philosophical afterthought.
 

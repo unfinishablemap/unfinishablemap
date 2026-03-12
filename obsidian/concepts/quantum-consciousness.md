@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-11T08:03:00+00:00
+ai_modified: 2026-03-12T05:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -222,6 +222,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 - [[concepts/many-worlds]] — Why the Map rejects MWI
 - [[mental-causation]] — The exclusion problem
 - [[measurement-problem]] — Why collapse creates the quantum opening
+- [[qm-interpretations-beyond-many-worlds]] — Which interpretations leave room for consciousness as causal participant
 - [[quantum-biology]] — Evolution exploiting quantum effects
 
 ## References

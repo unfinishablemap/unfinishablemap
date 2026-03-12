@@ -4,7 +4,7 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-11T08:03:00+00:00
+ai_modified: 2026-03-12T05:32:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -174,6 +174,7 @@ The model generates falsifiable predictions:
 - [[indexical-identity-quantum-measurement]] — The indexical gap: why *this* consciousness selects *this* outcome
 - [[value-blind-vs-value-sensitive-selection]] — Whether valence could extend the Zeno mechanism beyond value-neutral attention
 - [[stapp-mental-effort-mind-matter-2026-01-14]] — Detailed research notes
+- [[qm-interpretations-beyond-many-worlds]] — How Stapp's Zeno mechanism fits within the broader interpretive landscape
 
 ## References
 

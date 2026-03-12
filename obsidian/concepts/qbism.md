@@ -4,7 +4,7 @@ description: "QBism interprets quantum states as subjective beliefs, not objecti
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-03-06T09:40:00+00:00
+ai_modified: 2026-03-12T05:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -131,6 +131,7 @@ Despite its limitations, QBism contributes several insights the Map affirms:
 ## Further Reading
 
 - [[quantum-interpretations]] — Survey of interpretations and their consciousness implications
+- [[qm-interpretations-beyond-many-worlds]] — QBism evaluated alongside other interpretations for consciousness compatibility
 - [[measurement-problem]] — The puzzle QBism claims to dissolve
 - [[quantum-probability-consciousness]] — How probability treatment reveals interpretive commitments
 - [[relational-quantum-mechanics]] — Another perspectival interpretation with different implications

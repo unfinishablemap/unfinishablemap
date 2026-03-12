@@ -570,12 +570,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Aesthetic experience (beauty, sublimity, elegance) has distinctive phenomenal character that tracks real features yet resists functional reduction. A domain largely untouched by the Map. See optimistic-2026-03-12.md
 
-### P2: Integrate qm-interpretations-beyond-many-worlds.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article surveying GRW, transactional, relational QM and consciousness-collapse compatibility — directly supports Tenet 4 (No Many Worlds). Add cross-references from many-worlds-interpretation.md, quantum-consciousness.md, and collapse-interpretation.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-12
-
 ### P2: Cross-review attention-as-selection-interface.md considering phenomenal-attention insights
 - **Type**: cross-review
 - **Notes**: New concept page concepts/phenomenal-attention.md distinguishes phenomenal attention from computational attention. attention-as-selection-interface.md is the Map's primary treatment of attention as the consciousness-brain coupling mechanism and should cross-reference the new phenomenal/computational distinction. Check for places where the selection interface argument is strengthened by this distinction.
@@ -608,6 +602,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Integrate qm-interpretations-beyond-many-worlds.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article surveying GRW, transactional, relational QM and consciousness-collapse compatibility — directly supports Tenet 4 (No Many Worlds). Add cross-references from many-worlds-interpretation.md, quantum-consciousness.md, and collapse-interpretation.md.
+- **Output**: obsidian/topics/qm-interpretations-beyond-many-worlds.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-12: Integrate phenomenal-binding-and-multimodal-integration.md into site navigation
 - **Type**: integrate-orphan

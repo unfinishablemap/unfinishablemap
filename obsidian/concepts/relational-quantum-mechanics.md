@@ -4,7 +4,7 @@ description: "Rovelli's interpretation where quantum facts are relative to obser
 created: 2026-01-18
 modified: 2026-03-11
 human_modified: null
-ai_modified: 2026-03-11T16:46:00+00:00
+ai_modified: 2026-03-12T05:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -183,6 +183,7 @@ The Map rejects this trade-off. Understanding consciousness as causally efficaci
 ## Further Reading
 
 - [[quantum-interpretations]] — Survey of interpretations and their consciousness implications
+- [[qm-interpretations-beyond-many-worlds]] — Comparative assessment including RQM's role in the interpretive landscape
 - [[many-worlds]] — The interpretation both RQM and the Map reject, for different reasons
 - [[multi-mind-collapse-problem]] — How the Map handles multiple conscious observers
 - [[brain-interface-boundary]] — Why consciousness can only affect its own brain

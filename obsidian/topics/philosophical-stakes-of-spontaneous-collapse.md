@@ -4,7 +4,7 @@ description: "GRW, CSL, and objective reduction don't just solve quantum puzzles
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-04T16:07:00+00:00
+ai_modified: 2026-03-12T05:32:00+00:00
 last_deep_review: 2026-02-22T13:57:00+00:00
 draft: false
 topics:
@@ -122,6 +122,7 @@ The model also faces honest difficulties. IIT's measure of integrated informatio
 - [[topics/free-will]] — how stochastic collapse enables libertarian free will
 - [[agent-causation]] — the causal power consciousness exercises at quantum events
 - [[the-measurement-problem-as-philosophical-problem]] — why the measurement problem is philosophical, not merely technical
+- [[qm-interpretations-beyond-many-worlds]] — comparative survey of interpretations and consciousness compatibility
 
 ## References
 

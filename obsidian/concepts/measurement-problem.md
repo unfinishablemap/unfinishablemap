@@ -4,7 +4,7 @@ description: "Quantum mechanics' central puzzle: why measurement yields definite
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-12T05:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -220,6 +220,7 @@ The measurement problem is central to the Map's framework. It provides the *perm
 - [[consciousness-in-non-collapsed-quantum-states]] — The pre-collapse phase and the definiteness constraint
 - [[decoherence]] — What decoherence does and doesn't explain
 - [[spontaneous-collapse-theories]] — GRW, CSL, and consciousness-modulated collapse
+- [[qm-interpretations-beyond-many-worlds]] — comparative assessment of interpretations' consciousness compatibility
 - [[self-stultification]] — Why epiphenomenalism undermines its own epistemic basis
 - [[interactionist-dualism]], [[causal-closure]], [[mental-causation]] — The broader framework
 - [[multi-mind-collapse-problem]], [[interface-locality]], [[prebiotic-collapse]] — How the Map resolves coordination puzzles
