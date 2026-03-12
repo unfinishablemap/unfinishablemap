@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-12
 
-### P2: Integrate ethics-of-cognitive-enhancement-under-dualism.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article on ethical implications of cognitive enhancement when consciousness is irreducible — raises questions about whether enhancement targets brain-side or mind-side capabilities. Add cross-references from ethics-of-consciousness.md, ai-consciousness.md, and free-will.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-12
-
 ### P3: Deep review minds-without-words.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. Synthesis piece on pre-linguistic consciousness and the Map's treatment of non-verbal phenomenal experience. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
@@ -614,6 +608,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Integrate ethics-of-cognitive-enhancement-under-dualism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on ethical implications of cognitive enhancement when consciousness is irreducible — raises questions about whether enhancement targets brain-side or mind-side capabilities. Add cross-references from ethics-of-consciousness.md, ai-consciousness.md, and free-will.md.
+- **Output**: obsidian/topics/ethics-of-cognitive-enhancement-under-dualism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-12: Integrate phenomenology-of-perceptual-learning.md into site navigation
 - **Type**: integrate-orphan

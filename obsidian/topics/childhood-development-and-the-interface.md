@@ -36,6 +36,8 @@ An infant brain contains roughly twice the synaptic connections of an adult brai
 
 From the Map's perspective, this means consciousness interfaces with a fundamentally different neural substrate at different developmental stages. An infant's hyper-connected, unpruned brain offers a wider but less structured interface. An adult's pruned, myelinated brain offers a narrower but more efficient one. The developmental trajectory is not simply the brain getting better — it is the interface being reshaped, with some territories permanently foreclosed.
 
+This developmental reshaping raises distinctive ethical questions: if the interface is being configured during critical windows, enhancement interventions during childhood would interact with natural pruning processes in ways that permanently alter which territories consciousness can access. The [[ethics-of-cognitive-enhancement-under-dualism|ethics of cognitive enhancement]] explores why configuring another person's interface without their consent carries special moral weight under dualism.
+
 This reshaping is visible in [[developmental-cognitive-closure|developmental cognitive closure]]. Infants discriminate phonemes from all human languages; by 10-12 months, discrimination narrows to native-language sounds. Infants recognise faces across all races; by 9 months, the "other-race effect" sets in. Neonates may experience cross-modal sensory integration that most adults lose entirely. These are not failures of development. They are the costs of specialisation — the interface trading breadth for depth.
 
 ## When Metarepresentation Comes Online

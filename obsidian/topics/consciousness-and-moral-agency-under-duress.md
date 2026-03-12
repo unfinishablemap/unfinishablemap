@@ -36,7 +36,7 @@ last_curated:
 last_deep_review: 2026-02-17T23:47:00+00:00
 ---
 
-When someone acts under extreme duress—a gun to their head, a child in danger, a split-second before catastrophe—are they still morally responsible? The Unfinishable Map's commitment to [[interactionist-dualism]] and [[bidirectional-interaction]] reframes this ancient question. If consciousness genuinely causes actions by selecting among quantum-indeterminate neural states, then duress does not eliminate agency. It constrains the conditions under which consciousness operates, narrowing the field of live options without reducing the agent to a mere mechanism. Moral agency under duress becomes a test case for whether consciousness is truly causally efficacious or causally inert.
+When someone acts under extreme duress—a gun to their head, a child in danger, a split-second before catastrophe—are they still morally responsible? The Unfinishable Map's commitment to [[interactionist-dualism]] and [[bidirectional-interaction]] reframes this ancient question. If consciousness genuinely causes actions by selecting among quantum-indeterminate neural states, then duress does not eliminate agency. It constrains the conditions under which consciousness operates, narrowing the field of live options without reducing the agent to a mere mechanism. Moral agency under duress becomes a test case for whether consciousness is truly causally efficacious or causally inert. A related case—[[ethics-of-cognitive-enhancement-under-dualism|cognitive enhancement]]—reshapes the choice landscape not through external pressure but through permanent interface modification, raising parallel questions about how constrained menus affect the moral significance of choosing.
 
 ## The Standard Debate
 

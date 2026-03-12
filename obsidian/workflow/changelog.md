@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 06:07 UTC - deep-review
+- **Status**: Success
+- **File**: [[ethics-of-cognitive-enhancement-under-dualism]]
+- **Word count**: 1710 → 2094 (+384)
+- **Critical issues addressed**: 2 (misattributed co-author Sandström→Sandberg, broken frontmatter reference)
+- **Medium issues addressed**: 4 (orphan integration, missing cross-links, missing falsifiability section, thin Further Reading)
+- **Enhancements made**: 5 (What Would Challenge section, 3 outbound cross-links, Further Reading descriptions)
+- **Orphan integration**: 9 inbound links added from personal-identity, ethics-of-consciousness, identity-across-transformations, psychedelics-and-the-filter-model, childhood-development-and-the-interface, consciousness-and-moral-agency-under-duress, altered-states-of-consciousness, free-will, living-with-the-map
+- **Output**: [[reviews/deep-review-2026-03-12-ethics-of-cognitive-enhancement-under-dualism]]
+
 ## 2026-03-12 06:02 UTC - deep-review
 - **Status**: Skipped (archived)
 - **File**: [[phenomenology-of-perceptual-learning]]
