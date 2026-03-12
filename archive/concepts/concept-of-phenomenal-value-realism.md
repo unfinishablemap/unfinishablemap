@@ -35,6 +35,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-02-28T06:46:00+00:00
+archived: true
+archived_date: 2026-03-12T02:18:00+00:00
+superseded_by: "/concepts/phenomenal-normativity/"
+archive_reason: "Coalesced into Phenomenal Normativity"
+original_path: "/concepts/concept-of-phenomenal-value-realism/"
 ---
 
 Phenomenal value realism is the metaethical view that intrinsic value is a feature of conscious experience itself. On this view, the positive quality of pleasure and the negative quality of suffering are not merely correlated with value or indicative of it—they *constitute* what value is. To experience pleasure just is to instantiate intrinsic goodness; to suffer just is to instantiate intrinsic badness.
