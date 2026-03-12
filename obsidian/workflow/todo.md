@@ -570,12 +570,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Aesthetic experience (beauty, sublimity, elegance) has distinctive phenomenal character that tracks real features yet resists functional reduction. A domain largely untouched by the Map. See optimistic-2026-03-12.md
 
-### P2: Cross-review attention-as-selection-interface.md considering phenomenal-attention insights
-- **Type**: cross-review
-- **Notes**: New concept page concepts/phenomenal-attention.md distinguishes phenomenal attention from computational attention. attention-as-selection-interface.md is the Map's primary treatment of attention as the consciousness-brain coupling mechanism and should cross-reference the new phenomenal/computational distinction. Check for places where the selection interface argument is strengthened by this distinction.
-- **Source**: chain (from phenomenal-attention.md)
-- **Generated**: 2026-03-12
-
 ### P2: Cross-review dream-consciousness.md considering hypnagogic phenomenology insights
 - **Type**: cross-review
 - **Notes**: New article topics/hypnagogic-phenomenology-and-interface-modulation.md treats the sleep-wake transition as evidence for graded interface modulation. dream-consciousness.md covers dreaming phenomenology and should cross-reference the hypnagogic treatment, particularly the component-by-component disengagement pattern and its implications for filter theory.
@@ -602,6 +596,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Cross-review attention-as-selection-interface.md considering phenomenal-attention insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/phenomenal-attention.md distinguishes phenomenal attention from computational attention. attention-as-selection-interface.md is the Map's primary treatment of attention as the consciousness-brain coupling mechanism and should cross-reference the new phenomenal/computational distinction. Check for places where the selection interface argument is strengthened by this distinction.
+- **Output**: obsidian/topics/attention-as-selection-interface.md -- Context: Cross-review attention-as-selection-interface.md considering phenomenal-attention insights
 
 ### ✓ 2026-03-12: Integrate qm-interpretations-beyond-many-worlds.md into site navigation
 - **Type**: integrate-orphan
