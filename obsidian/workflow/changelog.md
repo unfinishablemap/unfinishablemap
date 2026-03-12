@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 01:02 UTC - deep-review
+- **Status**: Skipped (archived article)
+- **File**: dreams-as-consciousness-laboratory
+- **Reason**: Article was archived on 2026-03-05 (coalesced into [[topics/dream-consciousness]]). Orphan integration task in todo was targeting an archived file — marked as not_applicable. Superseding article has 81+ inbound links and is well-integrated.
+
 ## 2026-03-12 00:58 UTC - deep-review
 - **Status**: Skipped (archived article)
 - **File**: decision-theory-cannot-save-many-worlds

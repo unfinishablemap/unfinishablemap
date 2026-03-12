@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-12
 
-### P2: Integrate dreams-as-consciousness-laboratory.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article on dreams as a natural laboratory for studying consciousness — relevant to the Map's treatment of altered states and interface modulation. Add cross-references from dream-consciousness.md, lucid-dreaming-as-capability-evidence.md, and coupling-modes.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-12
-
 ### P2: Integrate epistemology-of-introspection.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article on the epistemology of introspection — foundational for the Map's reliance on first-person evidence. Add cross-references from introspection.md, contemplative-epistemology.md, and epistemic-advantages-of-dualism.md.
@@ -605,6 +599,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Integrate dreams-as-consciousness-laboratory.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on dreams as a natural laboratory for studying consciousness — relevant to the Map's treatment of altered states and interface modulation. Add cross-references from dream-consciousness.md, lucid-dreaming-as-capability-evidence.md, and coupling-modes.md.
+- **Output**: dreams-as-consciousness-laboratory.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-12: Integrate decision-theory-cannot-save-many-worlds.md into site navigation
 - **Type**: integrate-orphan
