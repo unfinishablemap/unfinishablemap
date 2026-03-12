@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review living-with-the-map.md
-- **Type**: deep-review
-- **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. The "Living with the Map" apex is the site's practical synthesis — how the Map's framework shapes daily life and decision-making. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-12
-
 ### P2: Deep review identity-across-transformations.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. Synthesis piece on personal identity through change — how the Map's framework handles persistence, transformation, and continuity of self. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
@@ -617,6 +611,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Deep review living-with-the-map.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. The "Living with the Map" apex is the site's practical synthesis — how the Map's framework shapes daily life and decision-making. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/apex/living-with-the-map.md
 
 ### ✓ 2026-03-12: Qualify 10 bits/s claims in resolution-bandwidth-interface.md
 - **Type**: refine-draft

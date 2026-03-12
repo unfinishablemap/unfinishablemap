@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 01:30 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/living-with-the-map]]
+- **Word count**: 2867 → 2932 (+65)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 1 (cross-link to valence-as-selection-currency)
+- **Output**: [[reviews/deep-review-2026-03-12-living-with-the-map]]
+
 ## 2026-03-12 01:25 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/theory-of-mind]]
