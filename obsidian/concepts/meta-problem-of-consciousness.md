@@ -60,7 +60,7 @@ Keith Frankish calls this the "illusion problem": explaining why we have phenome
 
 The meta-problem exposes a tension in illusionism. The illusionist needs the meta-problem explanation to be *purely physical*—a straightforward functional story about why brains generate misleading self-models. But the explanation must also be powerful enough to account for the philosophical *force* of problem intuitions. It must explain why the hard problem has resisted physicalist dissolution for three decades, why intelligent people find zombie scenarios compelling, and why the explanatory gap persists across advances in neuroscience.
 
-If the illusionist's meta-problem solution is too simple, it doesn't explain the resilience of problem intuitions. If it is too powerful—if it invokes features of self-representation so sophisticated that they approximate genuine phenomenality—the explanation begins to collapse back into accepting what it sought to deny. The [[illusionism-as-epiphenomenalism-in-disguise|structural convergence between illusionism and epiphenomenalism]] sharpens this difficulty: both positions face the same meta-problem burden because both render phenomenal properties causally idle—epiphenomenalism by declaring them inert, illusionism by declaring them non-existent.
+If the illusionist's meta-problem solution is too simple, it doesn't explain the resilience of problem intuitions. If it is too powerful—if it invokes features of self-representation so sophisticated that they approximate genuine phenomenality—the explanation begins to collapse back into accepting what it sought to deny. The [[illusionism#Structural Convergence with Epiphenomenalism|structural convergence between illusionism and epiphenomenalism]] sharpens this difficulty: both positions face the same meta-problem burden because both render phenomenal properties causally idle—epiphenomenalism by declaring them inert, illusionism by declaring them non-existent.
 
 ## The Meta-Problem and Dualism
 
@@ -125,7 +125,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is relevant because
 - [[attention-schema-theory]] — A mechanistic account addressing the meta-problem
 - [[philosophical-zombies]] — The thought experiment sharpening the meta-problem
 - [[metaproblem-of-consciousness-under-dualism]] — How interactionist dualism turns the metaproblem into evidence for dualism
-- [[illusionism-as-epiphenomenalism-in-disguise]] — Why illusionism and epiphenomenalism face identical meta-problem burdens
+- [[illusionism#Structural Convergence with Epiphenomenalism|Illusionism as Epiphenomenalism]] — Why illusionism and epiphenomenalism face identical meta-problem burdens
 - [[phenomenal-transparency]] — How self-concealing representation connects to problem intuitions
 - [[causal-closure]] — The challenge interactionism must address
 - [[mysterianism]] — The view that consciousness may exceed human comprehension

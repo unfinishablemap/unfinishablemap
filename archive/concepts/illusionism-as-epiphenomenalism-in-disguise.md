@@ -30,6 +30,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-08
 last_curated:
 last_deep_review: 2026-03-12T05:56:00+00:00
+archived: true
+archived_date: 2026-03-12T15:19:00+00:00
+superseded_by: "/concepts/illusionism/"
+archive_reason: "Coalesced into Illusionism"
+original_path: "/concepts/illusionism-as-epiphenomenalism-in-disguise/"
 ---
 
 Illusionism and [[concepts/epiphenomenalism|epiphenomenalism]] present themselves as opposite positions. Epiphenomenalism grants that [[phenomenal-consciousness]] exists but denies it causes anything. [[illusionism|Illusionism]] denies that phenomenal consciousness exists at all. Yet both positions converge on the same structural outcome: in neither framework do phenomenal properties play any causal role in producing our reports about them. The Unfinishable Map holds that this convergence is not coincidental—illusionism is epiphenomenalism wearing different clothes.

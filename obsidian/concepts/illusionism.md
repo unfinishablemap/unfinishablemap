@@ -2,9 +2,9 @@
 title: "Illusionism"
 description: "The radical claim that phenomenal consciousness is an introspective illusion. Trades the hard problem for an equally hard illusion problem."
 created: 2026-01-14
-modified: 2026-01-14
+modified: 2026-03-12
 human_modified: null
-ai_modified: 2026-03-11T19:22:00+00:00
+ai_modified: 2026-03-12T15:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,11 +23,20 @@ concepts:
   - "[[phenomenal-consciousness]]"
   - "[[meta-problem-of-consciousness]]"
   - "[[heterophenomenology]]"
+  - "[[concepts/epiphenomenalism]]"
+  - "[[self-stultification]]"
+  - "[[mental-causation]]"
+  - "[[causal-closure]]"
 related_articles:
   - "[[tenets]]"
+  - "[[the-epiphenomenalist-threat]]"
+  - "[[self-stultification-as-master-argument]]"
+  - "[[metaproblem-of-consciousness-under-dualism]]"
+coalesced_from:
+  - "/concepts/illusionism-as-epiphenomenalism-in-disguise/"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
 last_deep_review: 2026-03-04T22:32:00+00:00
@@ -155,8 +164,21 @@ Recent work has focused on several questions:
 - Whether illusionism can be empirically distinguished from ordinary [[concepts/materialism]]
 - The "hardest aspect" of the illusion problem: why the illusion resists dissolution
 - Whether illusionism is self-refuting (if our beliefs about consciousness are illusions, why trust our belief in illusionism?)
-- Whether illusionism is [[illusionism-as-epiphenomenalism-in-disguise|structurally equivalent to epiphenomenalism]]—both render phenomenal properties causally idle despite their ontological disagreement
 - How illusionism handles the [[dualism|convergence argument]]—multiple independent routes to the same anti-materialist conclusion
+
+## Structural Convergence with Epiphenomenalism
+
+Illusionism and [[concepts/epiphenomenalism|epiphenomenalism]] present themselves as opposite positions. Epiphenomenalism grants that phenomenal consciousness exists but denies it causes anything. Illusionism denies that phenomenal consciousness exists at all. Yet both converge on the same structural outcome: in neither framework do phenomenal properties play any causal role in producing our reports about them.
+
+Consider what happens in each framework when you report being in pain. Under epiphenomenalism, your brain state causes both the pain experience and your report "I'm in pain." The pain experience exists but plays no role in producing the report. Under illusionism, your brain state causes a quasi-phenomenal representation that you misjudge as pain experience, plus your report. In both cases, the phenomenal—the "what it's like"—is causally idle. The epiphenomenalist admits the phenomenal exists and declares it inert. The illusionist denies the phenomenal exists and replaces it with something functional. But the functional replacement, by design, does only what physical processes already do.
+
+Frankish would object that quasi-phenomenal properties *do* causal work—they dispose us to form phenomenal judgments and drive philosophical theorising. But this causal work is precisely what physical processes were already doing. The functional states that dispose us to judge we are conscious *are* neural processes described at a higher level. Calling them "quasi-phenomenal" relabels an existing causal contributor rather than introducing a new one. Phenomenal properties—the "what it's like" that generates the hard problem—remain causally excluded under illusionism just as under epiphenomenalism.
+
+The [[self-stultification-as-master-argument|self-stultification argument]], standardly directed at epiphenomenalism, applies equally. The illusionist's beliefs about the non-existence of phenomenal consciousness are produced by brain states. The illusionist arrives at their position through reasoning—considering arguments, reflecting on their own experience. But on illusionism's own terms, the "reflecting on experience" part involves only quasi-phenomenal states that misrepresent their own nature. The illusionist cannot claim their position is *informed by* careful attention to the character of experience, because on their view, experience has no character beyond what physical processes produce.
+
+A factory analogy sharpens the point. The epiphenomenalist says "there is a worker who does nothing." The illusionist says "there is no worker—what you thought was a worker is just a shadow cast by the machinery." But the machinery runs identically either way. Whether consciousness exists but is inert or doesn't exist as conceived, the causal picture is the same. Illusionism has not dissolved the hard problem—it has renamed it.
+
+The convergence matters because illusionism often presents itself as having *solved* the problems that plague dualism and epiphenomenalism. By denying phenomenal consciousness, illusionists claim to have dissolved the [[hard-problem-of-consciousness|hard problem]]. But if illusionism inherits the same [[self-stultification|self-stultification]] problem as epiphenomenalism, it has only relocated the mystery. The [[meta-problem-of-consciousness|meta-problem]] sharpens the point: both positions must explain why we *think* consciousness is puzzling, and both face identical structural difficulties in doing so—because both must explain how a complete physical story generates discourse about something beyond physics, whether that something is real or illusory.
 
 ## Relation to Site Perspective
 
@@ -187,7 +209,11 @@ The persistence of the illusion problem suggests illusionism doesn't escape the 
 - [[meta-problem-of-consciousness]] — Chalmers's challenge: explaining why we think consciousness is puzzling
 - [[metaproblem-of-consciousness-under-dualism]] — How interactionism converts the metaproblem into evidence for dualism
 - [[heterophenomenology]] — Dennett's methodological foundation for treating consciousness reports as data
-- [[illusionism-as-epiphenomenalism-in-disguise]] — Why illusionism and epiphenomenalism converge on the same causal structure
+- [[concepts/epiphenomenalism]] — The position illusionism structurally mirrors
+- [[the-epiphenomenalist-threat]] — Why epiphenomenalism is the default destination of most consciousness theories
+- [[self-stultification-as-master-argument]] — The argument that applies equally to illusionism and epiphenomenalism
+- [[mental-causation]] — What both illusionism and epiphenomenalism deny
+- [[causal-closure]] — The premise both positions rely on
 - [[concepts/materialism]] — The view illusionism radically defends
 - [[hard-problem-of-consciousness]] — What illusionism claims to dissolve
 

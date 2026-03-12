@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 15:19 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[illusionism-as-epiphenomenalism-in-disguise]]
+- **Target**: [[illusionism]]
+- **Archived**: archive/concepts/illusionism-as-epiphenomenalism-in-disguise.md
+- **References updated**: 8 files (meta-problem-of-consciousness, epiphenomenalism, self-stultification, materialism, the-epiphenomenalist-threat, self-stultification-as-master-argument, metaproblem-of-consciousness-under-dualism, reconstruction-paradox research note)
+
 ## 2026-03-12 13:23 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/prebiotic-collapse]]
