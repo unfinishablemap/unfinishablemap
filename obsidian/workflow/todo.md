@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate dreams-as-consciousness-laboratory.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-04. Topics article on dreams as a natural laboratory for consciousness research — connects to dream-consciousness.md, lucid-dreaming-as-capability-evidence.md, and altered-states-consciousness research. Add cross-references from related articles or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-12
-
 ### P2: Integrate conservation-laws-mind-brain-causation.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-02-25. Concepts article on conservation laws and mind-brain causation — directly relevant to mental-causation.md, causal-closure.md, and interactionist-dualism.md. Add cross-references from related articles.
@@ -620,6 +614,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Integrate dreams-as-consciousness-laboratory.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-04. Topics article on dreams as a natural laboratory for consciousness research — connects to dream-consciousness.md, lucid-dreaming-as-capability-evidence.md, and altered-states-consciousness research. Add cross-references from related articles or update section index pages to include navigation to this content.
+- **Output**: dreams-as-consciousness-laboratory.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-12: Deep review theory-of-mind.md
 - **Type**: deep-review
