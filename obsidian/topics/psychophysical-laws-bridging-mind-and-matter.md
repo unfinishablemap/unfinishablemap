@@ -4,7 +4,7 @@ description: "If consciousness is distinct from physics, fundamental laws must c
 created: 2026-01-26
 modified: 2026-02-07
 human_modified:
-ai_modified: 2026-03-10T07:11:00+00:00
+ai_modified: 2026-03-12T18:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,10 +26,14 @@ concepts:
   - "[[stapp-quantum-mind]]"
   - "[[attention-as-interface]]"
   - "[[mental-effort]]"
+  - "[[conservation-laws-and-mental-causation]]"
+  - "[[causal-closure]]"
+  - "[[bandwidth-problem-mental-causation]]"
   - "[[mysterianism]]"
 related_articles:
   - "[[tenets]]"
   - "[[attention-interface-mechanisms]]"
+  - "[[the-psychophysical-control-law]]"
   - "[[chalmers-psychophysical-laws-2026-01-17]]"
   - "[[psychophysical-coupling-problem-2026-01-15]]"
   - "[[psychophysical-coupling-law-mechanisms-2026-01-23]]"
@@ -38,7 +42,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-07
 last_curated:
-last_deep_review: 2026-02-07T07:14:00+00:00
+last_deep_review: 2026-03-12T18:20:00+00:00
 coalesced_from:
   - "/topics/chalmers-psychophysical-coupling/"
   - "/topics/psychophysical-laws-framework/"
@@ -89,12 +93,12 @@ The asymmetry reflects different commitments:
 - **Chalmers**: Consciousness is real and irreducible, but may be causally inert
 - **The Map**: Consciousness is real, irreducible, *and* causally efficacious
 
-Why the focus on quantum selection? Classical physics is deterministic—there's no room for consciousness to determine outcomes physics already fixes. Quantum mechanics provides probability distributions without determining specific outcomes. That gap is where [[selection-laws|selection laws]] take hold.
+Why the focus on quantum selection? Classical physics is deterministic—[[causal-closure|causal closure]] leaves no room for consciousness to determine outcomes physics already fixes. Quantum mechanics provides probability distributions without determining specific outcomes. That gap is where [[selection-laws|selection laws]] take hold.
 
 Selection laws must specify:
 1. **Variables on the mental side**: What aspects of experience map to selection? Attention? Intention? Effort?
 2. **Variables on the physical side**: What physical parameters does consciousness influence? Observation rate? Tunneling probability?
-3. **Bandwidth constraints**: Research suggests ~10 bits/second—the measured bandwidth of conscious thought, implying consciousness operates at the level of policies, not individual quantum events.
+3. **Bandwidth constraints**: Research suggests ~10 bits/second—the measured bandwidth of conscious thought—consistent with consciousness operating at the level of policies rather than individual quantum events (see [[bandwidth-problem-mental-causation]]).
 4. **Scope constraints**: What is *not* selectable? External systems? Others' brains? Events outside attention?
 
 ## The Super-Resistance Principle
@@ -173,7 +177,8 @@ The decoherence objection assumes psychophysical laws require sustained macrosco
 
 ## The Specification Problem
 
-A persistent challenge: what Schaffer calls the "t-shirt problem"—the lack of any compact systematisation of psychophysical correlations. Unlike F=ma, no elegant formula captures how mind and matter relate.
+A persistent challenge: what Schaffer calls the "t-shirt problem"—the lack of any compact systematisation of psychophysical correlations. Unlike F=ma, no elegant formula captures how mind and matter relate. (For the formal structure this law would need, see [[the-psychophysical-control-law]].)
+
 
 Three responses:
 
@@ -199,7 +204,7 @@ The psychophysical laws framework is where the Map's [[tenets]] become theoretic
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** requires downward selection laws, not merely upward supervenience. The tenet is a philosophical commitment grounded in the phenomenology of agency—the experienced reality that intention affects action, that effort affects outcome. The candidate mechanisms surveyed here represent early attempts to locate where in physics this influence operates. None yet meets the full specification threshold. Stapp's model is the most detailed but faces the decoherence objection; the others remain less developed. The Map holds that the absence of a vindicated mechanism does not refute the phenomenological evidence any more than the absence of a mechanism for gravity refuted falling objects before Newton. But honesty requires acknowledging that the tenet's empirical credibility depends on whether future work can achieve mechanistic specificity.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** is reflected in all candidate mechanisms. Each proposes *biasing* quantum outcomes rather than overriding physical law. Stapp modulates observation frequency; Eccles modulates tunneling probability; none injects energy or violates conservation. The ~10 bits/second bandwidth constraint further enforces minimality.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** is reflected in all candidate mechanisms. Each proposes *biasing* quantum outcomes rather than overriding physical law. Stapp modulates observation frequency; Eccles modulates tunneling probability; none injects energy or violates [[conservation-laws-and-mental-causation|conservation laws]]. The ~10 bits/second bandwidth constraint further enforces minimality.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** makes selection mechanisms meaningful. If all quantum outcomes actualize in parallel branches, coupling mechanisms have nothing to couple *to*. The mechanisms assume genuine collapse: consciousness selects one outcome while alternatives are precluded. Chalmers and McQueen's super-resistance principle also assumes collapse is real—consciousness resisting superposition makes sense only if superpositions genuinely collapse rather than branching. However, Chalmers and McQueen retain sympathy for Many-Worlds; the Map commits to genuine collapse.
 
@@ -238,6 +243,10 @@ The framework would face serious difficulty if:
 - [[decoherence]] — The physics objection and biological quantum effects
 - [[mysterianism]] — Whether consciousness may be cognitively closed to human understanding
 - [[pain-consciousness-and-causal-power]] — Pain's inseparable phenomenal-causal character as evidence for coupling
+- [[the-psychophysical-control-law]] — The formal structure a coupling law would need
+- [[conservation-laws-and-mental-causation]] — Why selection without energy injection is consistent with conservation
+- [[causal-closure]] — The exclusion argument and quantum indeterminacy's opening
+- [[bandwidth-problem-mental-causation]] — How coarse-grained consciousness produces fine-grained effects
 - [[tenets]] — The Map's foundational commitments
 
 ## References
@@ -255,21 +264,3 @@ The framework would face serious difficulty if:
 11. Kerskens, C.M. & Pérez, D.L. (2022). "Experimental indications of non-classical brain functions." *Journal of Physics Communications* 6(10).
 12. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.
 13. Tononi, G. et al. (2016). "Integrated Information Theory." *Nature Reviews Neuroscience*, 17, 450-461.
-
-<!-- AI REFINEMENT LOG - 2026-03-10
-Changes made:
-- Removed tier ranking system to flatten Quantum Zeno overemphasis per style guide restraint guidance
-- Added upfront framing that no mechanism yet meets the full specification threshold
-- Relabelled "Possible response" as "The post-decoherence concession" — honest about it being a retreat
-- Reframed Bidirectional Interaction tenet section: now frames the tenet as a philosophical commitment grounded in phenomenology of agency, with mechanisms as early candidate directions, rather than implying mechanisms must carry the full burden
-- Changed "Scientific immaturity" to "Difficulty, not immaturity" — acknowledges 30 years of development
-- Fixed language: "most developed" → "most detailed", "compelling evidence" → "suggestive evidence", "consciousness resists superposition" → "in this model, consciousness resists superposition"
-- Attributed fading qualia implausibility argument to Chalmers explicitly
-- Softened James quote attribution to summary rather than exact quotation
-- Tightened Convergence Problem section — removed speculative single-principle suggestion
-
-Based on pessimistic review pessimistic-2026-03-10-psychophysical-laws.md.
-Key improvements: article no longer progressively self-undermines; acknowledges limitations honestly while grounding Bidirectional Interaction in phenomenological evidence rather than solely in untested mechanisms.
-
-This log should be removed after human review.
--->
