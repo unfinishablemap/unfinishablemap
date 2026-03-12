@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review buddhist-perspectives-on-meaning.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-04 — 36 days ago. Topics article connecting Buddhist philosophy to meaning and consciousness — important for the Map's cross-tradition engagement. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-12
-
-### P2: Deep review prospective-memory.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 37 days ago. Concepts article on prospective memory and its implications for consciousness theory. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-12
-
 ### P2: Write article on the reconstruction paradox
 - **Type**: expand-topic
 - **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. The brain corrects some perceptual errors (blind spot filling, colour constancy, saccadic suppression) but transmits others faithfully (blur, floaters, tinnitus, Müller-Lyer illusion). This asymmetry reveals a curated interface — consciousness receives a selected feed, not raw data — posing deep problems for physicalism. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
@@ -603,6 +591,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Deep review prospective-memory.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 37 days ago. Concepts article on prospective memory and its implications for consciousness theory. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/prospective-memory.md
+
+### ✓ 2026-03-12: Deep review buddhist-perspectives-on-meaning.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-04 — 36 days ago. Topics article connecting Buddhist philosophy to meaning and consciousness — important for the Map's cross-tradition engagement. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/buddhist-perspectives-on-meaning.md
 
 ### ✓ 2026-03-12: Integrate autonoetic-consciousness.md into site navigation
 - **Type**: integrate-orphan

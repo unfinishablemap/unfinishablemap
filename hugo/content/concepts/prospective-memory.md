@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-02-03 06:28:00+00:00
+ai_modified: 2026-03-12 21:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,7 +9,6 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[temporal-asymmetry-remembering-anticipating]]'
 - '[[working-memory]]'
-- '[[temporal-consciousness]]'
 - '[[agent-causation]]'
 - '[[episodic-memory]]'
 - '[[illusionism]]'
@@ -20,6 +19,10 @@ concepts:
 - '[[mental-effort]]'
 - '[[attention-as-interface]]'
 - '[[motor-selection]]'
+- '[[protention]]'
+- '[[mental-imagery]]'
+- '[[counterfactual-reasoning]]'
+- '[[intentionality]]'
 created: 2026-01-17
 date: &id001 2026-01-20
 description: 'Remembering to act in the future: how intentions persist and episodic
@@ -27,12 +30,14 @@ description: 'Remembering to act in the future: how intentions persist and episo
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 06:28:00+00:00
+last_deep_review: 2026-03-12 21:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[temporal-asymmetry-remembering-anticipating]]'
 - '[[prospective-memory-consciousness-2026-01-17]]'
+- '[[topics/phenomenology-of-anticipation]]'
+- '[[topics/diachronic-agency-and-personal-narrative]]'
 title: Prospective Memory and Future-Oriented Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -55,7 +60,7 @@ Prospective memory divides into three types based on retrieval triggers:
 
 ## Episodic Future Thinking
 
-The most consciousness-intensive form of future-oriented cognition is **episodic future thinking** (EFT)—the capacity to imagine specific events that you may experience in the future. When you mentally rehearse a job interview, plan a holiday, or worry about tomorrow's meeting, you project yourself forward in time and inhabit a simulated scenario with first-person phenomenology.
+The most consciousness-intensive form of future-oriented cognition is **episodic future thinking** (EFT)—the capacity to imagine specific events that you may experience in the future. When you mentally rehearse a job interview, plan a holiday, or worry about tomorrow's meeting, you project yourself forward in time and inhabit a simulated scenario with first-person phenomenology. This draws heavily on [mental imagery](/concepts/mental-imagery/)—the voluntary generation of quasi-perceptual experience—repurposed for temporal projection.
 
 ### The Constructive Simulation Hypothesis
 
@@ -77,7 +82,7 @@ Einstein and McDaniel (1990) identified two retrieval routes: resource-intensive
 
 ### Futuricity: The Temporal Quale
 
-When you imagine a future event, it carries a distinctive phenomenal character—**futuricity** (our term for this temporal quale), a felt sense of possibility and "not yet." Just as remembered events carry pastness, imagined future events carry this phenomenal marker of projected possibility.
+When you imagine a future event, it carries a distinctive phenomenal character—**futuricity** (our term for this temporal quale), a felt sense of possibility and "not yet." This is closely related to what Husserl called [protention](/concepts/protention/)—the forward-directed structure of present experience—but futuricity extends beyond the immediate horizon into genuinely imagined futures. Just as remembered events carry pastness, imagined future events carry this phenomenal marker of projected possibility.
 
 Futuricity differs from pastness: memories represent what happened; future simulations represent what might happen. Both involve autonoetic consciousness, but the modal character differs—and this difference appears in phenomenology, not just propositional content.
 
@@ -91,7 +96,7 @@ Three implications follow:
 
 1. **Consciousness operates through traces.** Episodic memory's pastness quale marks causal contact; future simulation manipulates elements derived from past traces but cannot contact future reality.
 
-2. **Future simulation is imagination repurposed.** Memory and future thinking share neural substrate but produce different phenomenal products because memory has actual events as causal source while future simulation has only abstracted patterns.
+2. **Future simulation is imagination repurposed.** Memory and future thinking share neural substrate but produce different phenomenal products because memory has actual events as causal source while future simulation has only abstracted patterns. This is why [counterfactual-reasoning](/concepts/counterfactual-reasoning/)—imagining what might have been—shares phenomenological features with future simulation: both manipulate elements without causal contact with the imagined scenario.
 
 3. **The void is structural.** Pre-experience—genuinely re-experiencing events that haven't occurred—is conceptually incoherent. Minds can access what has touched them but cannot reach forward to what hasn't.
 
@@ -105,7 +110,7 @@ Most spontaneous future thoughts are "pre-made"—re-iterations of previously co
 
 Libet's experiments studied *proximal* intentions—immediate decisions to move now. Prospective memory involves *distal* intentions—decisions about future action. Even if proximal intentions don't cause their actions, distal intentions may be causally efficacious: when you decide Monday to attend a meeting Friday, that distal intention causally contributes to your arrival.
 
-This matters for [agent causation](/concepts/agent-causation/). The libertarian needn't claim every proximal motor command involves conscious intervention—what matters is that conscious planning participates in shaping the trajectory of action.
+This matters for [agent causation](/concepts/agent-causation/) and [diachronic agency](/topics/diachronic-agency-and-personal-narrative/)—the capacity to sustain [intentional](/concepts/intentionality/) commitment across time. The libertarian needn't claim every proximal motor command involves conscious intervention—what matters is that conscious planning participates in shaping the trajectory of action.
 
 ### Future Simulation Influences Decisions
 
@@ -174,7 +179,6 @@ Prospective memory and future-oriented consciousness support all five foundation
 - [episodic-memory](/concepts/episodic-memory/) — Pastward mental time travel and the pastness quale
 - [working-memory](/concepts/working-memory/) — The cognitive workspace for future simulation
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and temporal structure
-- [temporal-consciousness](/concepts/temporal-consciousness/) — The experienced duration of "now"
 - [free-will](/topics/free-will/) — How consciousness shapes action
 - [agent-causation](/concepts/agent-causation/) — The metaphysics of intention formation
 - [motor-selection](/concepts/motor-selection/) — Willed movement and the attention-selection interface
@@ -185,6 +189,12 @@ Prospective memory and future-oriented consciousness support all five foundation
 - [witness-consciousness](/concepts/witness-consciousness/) — Observing future simulations without identification
 - [haecceity](/concepts/haecceity/) — The thisness that grounds indexical future reference
 - [decoherence](/concepts/decoherence/) — Quantum coherence challenges and responses
+- [protention](/concepts/protention/) — Husserl's forward-directed structure of present experience
+- [mental-imagery](/concepts/mental-imagery/) — Voluntary quasi-perceptual experience underlying future simulation
+- [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Imagining alternatives, sharing phenomenology with future simulation
+- [intentionality](/concepts/intentionality/) — The directedness of mental states toward objects and goals
+- [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — Protention and the forward-directed structure of experience
+- [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/) — Sustaining agency and identity across time
 - [prospective-memory-consciousness-2026-01-17](/research/prospective-memory-consciousness-2026-01-17/) — Research notes on this topic
 
 ## References

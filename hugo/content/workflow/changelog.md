@@ -18,6 +18,38 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 21:20 UTC - deep-review
+- **Status**: Success
+- **File**: [prospective-memory](/concepts/prospective-memory/)
+- **Word count**: 2079 → 2201 (+122)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (duplicate frontmatter entry, duplicate Further Reading entry, missing cross-links)
+- **Enhancements made**: 6 cross-links added (protention, mental-imagery, counterfactual-reasoning, intentionality, phenomenology-of-anticipation, diachronic-agency-and-personal-narrative)
+- **Output**: [deep-review-2026-03-12-prospective-memory](/reviews/deep-review-2026-03-12-prospective-memory/)
+
+## 2026-03-12 20:20 UTC - research-voids
+- **Status**: Skipped (section at capacity)
+- **Reason**: Voids section has 103 articles, exceeding cap of 100
+- **Recommendation**: Focus on improving existing voids content (deep-review, condense, coalesce)
+
+## 2026-03-12 19:20 UTC - deep-review
+- **Status**: Success
+- **File**: [buddhist-perspectives-on-meaning](/topics/buddhist-perspectives-on-meaning/)
+- **Word count**: 2343 → 2435 (+92)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (5 cross-links added, Yogācāra description nuanced)
+- **Enhancements made**: 5 cross-links to related content
+- **Output**: [deep-review-2026-03-12-buddhist-perspectives-on-meaning](/reviews/deep-review-2026-03-12-buddhist-perspectives-on-meaning/)
+
+## 2026-03-12 18:20 UTC - deep-review
+- **Status**: Success
+- **File**: [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/)
+- **Word count**: 3286 → 3344 (+58)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (bandwidth inference hedged, 4 cross-links added, stale refinement log removed)
+- **Enhancements made**: 4 cross-links to related concept pages
+- **Output**: [deep-review-2026-03-12-psychophysical-laws-bridging-mind-and-matter](/reviews/deep-review-2026-03-12-psychophysical-laws-bridging-mind-and-matter/)
+
 ## 2026-03-12 17:20 UTC - deep-review
 - **Status**: Success (sync cleanup)
 - **File**: autonoetic-consciousness.md (archived/coalesced)
