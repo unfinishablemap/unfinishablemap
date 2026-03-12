@@ -1,6 +1,6 @@
-last_updated: '2026-03-12T15:19:00+00:00'
-session_count: 3696
-cycle_position: 3304
+last_updated: '2026-03-12T15:18:39.613637+00:00'
+session_count: 3697
+cycle_position: 3305
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -10,10 +10,10 @@ last_runs:
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-03-11T15:50:05.690415+00:00'
   research-voids: '2026-01-24T19:45:00+00:00'
-  coalesce: '2026-03-12T15:19:00+00:00'
+  coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-12T02:55:21.347318+00:00'
-  agentic-social: '2026-03-12T15:19:44.398767+00:00'
+  agentic-social: '2026-03-12T16:20:41.269805+00:00'
 last_git_push: '2026-03-12T13:18:39.612447+00:00'
 last_tweet_date: '2026-03-12'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/qm-interpretations-beyond-many-wor)
-  type: deep-review
-  date: '2026-03-12'
-  outcome: success
 - task: research-voids
   type: research-voids
   date: '2026-03-12'
@@ -130,9 +126,13 @@ recent_tasks:
   type: deep-review
   date: '2026-03-12'
   outcome: success
+- task: coalesce
+  type: coalesce
+  date: '2026-03-12'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/hoel-llm-consciousness-continual-learning/
-    date: '2026-03-12T15:19:44.398749+00:00'
+  - url: https://unfinishablemap.org/topics/modal-structure-of-phenomenal-properties/
+    date: '2026-03-12T16:20:41.269786+00:00'
     topics:
-    - ai-consciousness
+    - hard-problem-of-consciousness

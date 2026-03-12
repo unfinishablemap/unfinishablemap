@@ -69,7 +69,7 @@ John Eccles' psychon-dendron theory approximates probability control. In his fra
 **Implications:**
 - Deviations from Born statistics (in affected systems)
 - Potentially detectable: systematic probability shifts should appear in experiments
-- Raises conservation concerns if probability shifts correlate with energy outcomes
+- Raises [[conservation-laws-and-mental-causation|conservation concerns]] if probability shifts correlate with energy outcomes
 - Most direct form of mental causation, but least "minimal"
 
 ## Why Minimality Matters

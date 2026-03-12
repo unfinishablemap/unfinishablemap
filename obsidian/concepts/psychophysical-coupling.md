@@ -63,7 +63,7 @@ Any adequate psychophysical coupling must satisfy several constraints simultaneo
 
 **Lawfulness.** Coupling must be stable and systematic, not arbitrary. The same mental state in the same physical context must produce the same result. Otherwise, coupling would be indistinguishable from noise.
 
-**Minimality.** The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] demands that coupling alter physics as little as possible. Consciousness biases otherwise indeterminate quantum outcomes without injecting energy or violating conservation laws. This rules out gross physical intervention while preserving genuine causal efficacy.
+**Minimality.** The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] demands that coupling alter physics as little as possible. Consciousness biases otherwise indeterminate quantum outcomes without injecting energy or violating [[conservation-laws-and-mental-causation|conservation laws]]. This rules out gross physical intervention while preserving genuine causal efficacy.
 
 **Bandwidth limits.** Conscious processing operates at approximately 10 bits per second (Zheng & Meister 2025) — five million times slower than unconscious sensory processing. Coupling must respect this bottleneck. Selection is coarse-grained: action patterns and attentional focus, not individual neurons or synaptic events. The [[bandwidth-problem-mental-causation|bandwidth problem in mental causation]] develops this constraint in detail, showing how hierarchical selection resolves the apparent mismatch between conscious capacity and behavioural complexity.
 
