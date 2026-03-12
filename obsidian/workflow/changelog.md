@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 01:25 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/theory-of-mind]]
+- **Word count**: 3061 → 3033 (-28)
+- **Critical issues addressed**: 1 (frontmatter misclassification and duplicate)
+- **Medium issues addressed**: 2 (moral cognition example levels, neural correlates condensed)
+- **Enhancements made**: 1 (cross-link to childhood-development-and-the-interface)
+- **Output**: [[reviews/deep-review-2026-03-12-theory-of-mind]]
+
 ## 2026-03-12 01:20 UTC - refine-draft
 - **Status**: Success
 - **File**: [[resolution-bandwidth-interface]]

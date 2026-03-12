@@ -4,33 +4,32 @@ description: "Attributing beliefs, desires, and intentions to others. Higher lev
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-04T22:18:50+00:00
+ai_modified: 2026-03-12T01:25:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
   - "[[ai-consciousness]]"
+  - "[[topics/consciousness-and-social-cognition]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[metacognition]]"
-  - "[[topics/consciousness-and-social-cognition]]"
   - "[[baseline-cognition]]"
   - "[[jourdain-hypothesis]]"
-  - "[[metacognition]]"
   - "[[working-memory]]"
   - "[[global-workspace-theory]]"
   - "[[teaching-as-metarepresentation]]"
   - "[[intentionality]]"
   - "[[illusionism]]"
   - "[[unity-of-consciousness]]"
-  - "[[topics/free-will]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-independent-baseline-cognition-2026-01-21]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-02-05T09:12:00+00:00
+last_deep_review: 2026-03-12T01:25:00+00:00
 ---
 
 Theory of mind is the capacity to attribute mental states—beliefs, desires, intentions, knowledge—to others and to understand that these states may differ from one's own. The Unfinishable Map argues that theory of mind admits of levels, and that the higher levels require phenomenal consciousness. Great apes possess impressive social cognition at lower levels (tracking what others see, predicting behaviour from goals) but appear limited at higher levels (recursive mindreading, understanding false beliefs as mental representations). This gap tracks the consciousness-dependent capacity for [[metacognition|metarepresentation]]—representing mental states *as* mental states rather than merely responding to behavioural cues.
@@ -103,23 +102,13 @@ Human theory of mind develops through recognisable stages:
 
 **Later childhood**: Understanding of complex social phenomena—lying, sarcasm, white lies, social norms, institutional facts—all of which require sophisticated mental state attribution.
 
-This trajectory parallels the development of metacognitive capacity more broadly. Children become able to represent their own mental states as mental states at roughly the same time they become able to represent others' mental states as mental states. The connection is not coincidental: both capacities require metarepresentation.
+This trajectory parallels the development of metacognitive capacity more broadly—see [[topics/childhood-development-and-the-interface|childhood development and the consciousness interface]] for the full developmental picture. Children become able to represent their own mental states as mental states at roughly the same time they become able to represent others' mental states as mental states. The connection is not coincidental: both capacities require metarepresentation.
 
 ## Neural Correlates
 
-Neuroimaging studies consistently identify a network of brain regions involved in theory of mind tasks:
+Neuroimaging studies consistently identify a network centred on the medial prefrontal cortex (mPFC), temporoparietal junction (TPJ), posterior superior temporal sulcus (pSTS), and precuneus. The TPJ is particularly critical for false-belief reasoning—distinguishing self-representations from other-representations.
 
-**Medial prefrontal cortex (mPFC)**: Active when thinking about others' mental states. Damage to mPFC impairs theory of mind while often sparing other cognitive abilities.
-
-**Temporoparietal junction (TPJ)**: Critical for distinguishing self from other and for representing others' beliefs as distinct from one's own. TPJ activity correlates with false-belief reasoning.
-
-**Posterior superior temporal sulcus (pSTS)**: Involved in perceiving biological motion and interpreting intentional action.
-
-**Precuneus**: Active in self-referential processing and may contribute to representing perspective differences.
-
-This network overlaps substantially with the "default mode network"—regions active during rest and associated with self-reflection, autobiographical memory, and imagining the future. The overlap suggests theory of mind draws on the same machinery used for reflecting on one's own mind.
-
-Notably, these regions are among the most phylogenetically recent in primate brain evolution and show the greatest expansion in humans relative to great apes. The neural substrate for higher-level theory of mind appears to have expanded alongside the cognitive capacities it enables.
+This network overlaps substantially with the "default mode network," which supports self-reflection, autobiographical memory, and future imagination. The overlap suggests theory of mind draws on the same machinery used for reflecting on one's own mind. These regions are among the most phylogenetically recent in primate brain evolution and show the greatest expansion in humans relative to great apes—the neural substrate for higher-level theory of mind expanded alongside the cognitive capacities it enables.
 
 The binding of nested representations across this distributed network may require neural synchronization mechanisms. Gamma-band oscillations (30-100 Hz)—a classical electromagnetic phenomenon—are associated with feature binding and conscious perception; maintaining coherent representations across mPFC, TPJ, and pSTS while keeping levels distinct may depend on phase-locked oscillations. This requirement for long-range neural coordination connects to the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] framework: conscious attention maintaining quantum coherence could provide the integration mechanism enabling unified access to nested content.
 
@@ -163,11 +152,12 @@ This connects to the [[topics/consciousness-and-social-cognition|social cognitio
 Higher-level theory of mind enables moral capacities. Attributing moral responsibility requires understanding that someone acted on intentions they could have evaluated and chosen differently. This requires Level 3+ theory of mind: representing their awareness of their intentions, their capacity to stand back from those intentions, and their decision to act on them.
 
 Consider the difference between:
-- "The dog bit me" (Level 0: behavior observation)
+- "The dog bit me" (Level 0: behaviour observation)
 - "The dog attacked me because it saw me as a threat" (Level 1: perception attribution)
-- "The person harmed me knowing it would hurt" (Level 3: representing their awareness of consequences)
+- "The person knew their action would hurt me" (Level 2: belief attribution)
+- "The person knew their action would hurt me, knew this was wrong, and chose to act anyway" (Level 3: representing their awareness of their own mental states)
 
-Only the third supports moral blame. Responsibility requires representing the agent as aware of their mental states—capable of evaluating reasons and choosing among alternatives. This is why we don't hold young children or great apes morally responsible for harms in the way we hold human adults responsible: they lack the metarepresentational capacity to stand back from their impulses and choose.
+Only the fourth supports full moral blame. Responsibility requires representing the agent as aware of their own mental states—capable of evaluating reasons and choosing among alternatives. This is why we don't hold young children or great apes morally responsible for harms in the way we hold human adults responsible: they lack the metarepresentational capacity to stand back from their impulses and choose.
 
 The connection to [[topics/free-will|free will]] is direct. Libertarian free will requires consciousness enabling consideration of alternatives; moral responsibility requires theory of mind enabling attribution of that same consciousness to others. Both depend on the metarepresentational threshold—and if that threshold requires phenomenal consciousness, then moral cognition does too.
 
