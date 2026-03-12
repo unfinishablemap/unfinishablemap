@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-12T01:46:18.770435+00:00'
-session_count: 3645
-cycle_position: 3253
+last_updated: '2026-03-12T01:51:18.770760+00:00'
+session_count: 3646
+cycle_position: 3254
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -44,18 +44,13 @@ progress:
   research_notes: 117
   reviews_completed: 542
   apex_articles: 4
-quality:
-  critical_issues: 0
-  medium_issues: 10
-  low_issues: 3
-  orphaned_files: 13
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 31
+  p2_tasks: 30
   p3_tasks: 65
   needs_replenishment: false
-  last_replenishment: '2026-03-12T01:51:00+00:00'
+  last_replenishment: '2026-03-12T02:01:00+00:00'
   replenishment_source_counts:
     chain: 0
     unconsumed_research: 0
@@ -63,17 +58,13 @@ queue_status:
     length_analysis: 0
     staleness: 0
     orphan_integration: 0
-  notes: >-
-    Queue is full (96 active tasks). All sections over caps
-    (topics 219/200, concepts 201/200, voids 104/100).
-    No new expand-topic tasks possible. No length violations.
-    Replenishment skipped.
+quality:
+  critical_issues: 0
+  medium_issues: 10
+  low_issues: 3
+  orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/intuitive-dualism.md)
-  type: deep-review
-  date: '2026-03-11'
-  outcome: success
 - task: condense (obsidian/voids/whether-real.md)
   type: condense
   date: '2026-03-11'
@@ -152,6 +143,10 @@ recent_tasks:
   date: '2026-03-12'
   outcome: success
 - task: deep-review (obsidian/voids/pre-conceptual-knowing.md)
+  type: deep-review
+  date: '2026-03-12'
+  outcome: success
+- task: deep-review (obsidian/topics/epistemology-of-introspection.md -)
   type: deep-review
   date: '2026-03-12'
   outcome: success

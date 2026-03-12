@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-03-11 10:02:00+00:00
+ai_modified: 2026-03-12 01:53:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: What kind of knowledge does introspection provide? Human+AI analysi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 08:17:00+00:00
+last_deep_review: 2026-03-12 01:53:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -28,6 +28,11 @@ related_articles:
 - '[[the-unobservable-self]]'
 - '[[introspective-opacity]]'
 - '[[ethics-and-value-in-a-dualist-world]]'
+- '[[phenomenal-acquaintance]]'
+- '[[acquaintance-knowledge]]'
+- '[[first-person-third-person-methodology]]'
+- '[[phenomenological-evidence]]'
+- '[[neurophenomenology]]'
 title: The Epistemology of Introspection
 topics:
 - '[[epistemology]]'
@@ -41,9 +46,9 @@ This article examines the competing models of introspective epistemology — acq
 
 ## The Acquaintance Model
 
-Bertrand Russell distinguished knowledge by *acquaintance* from knowledge by *description*. You are acquainted with the redness of your current visual experience — it is presented to you directly, without intermediary. You have knowledge by description of electromagnetic wavelengths around 700 nanometres. The two kinds of knowledge concern the same phenomenon but differ fundamentally in epistemic character.
+Bertrand Russell distinguished [knowledge by acquaintance](/concepts/acquaintance-knowledge/) from knowledge by *description*. You are acquainted with the redness of your current visual experience — it is presented to you directly, without intermediary. You have knowledge by description of electromagnetic wavelengths around 700 nanometres. The two kinds of knowledge concern the same phenomenon but differ fundamentally in epistemic character.
 
-Applied to introspection, the acquaintance model holds that conscious states are self-presenting. To be in pain is already to be aware of pain. No additional epistemic act bridges the gap between the experience and knowledge of it — the experience *is* the knowledge, or at least constitutes it. Laurence BonJour developed this into an epistemological argument: acquaintance provides a form of justification that is "direct and non-inferential," grounding basic beliefs about phenomenal states without requiring further evidence (BonJour 2003).
+Applied to introspection, the acquaintance model holds that conscious states are self-presenting. To be in pain is already to be aware of pain. No additional epistemic act bridges the gap between the experience and knowledge of it — the experience *is* the knowledge, or at least constitutes it. The [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) article develops the acquaintance relation in detail — its immediacy, non-conceptual character, and subject-dependence. Laurence BonJour developed this into an epistemological argument: acquaintance provides a form of justification that is "direct and non-inferential," grounding basic beliefs about phenomenal states without requiring further evidence (BonJour 2003).
 
 The strength of the acquaintance model is its explanation of why introspective knowledge feels certain even when philosophers question it. If awareness of pain is constitutive of being in pain, scepticism about whether one is really in pain when one seems to be has a self-undermining quality. The seeming *is* the phenomenon in question.
 
@@ -91,7 +96,7 @@ The Map's position is that introspection constitutes a sui generis epistemic cap
 
 **Domain-variable reliability.** Introspective reliability varies systematically across domains: strongest for attended phenomenal content, weaker for background states, and absent for causal processes. This gradient, which the [calibration strategies](/topics/epistemology-of-introspective-calibration/) map in detail, reflects the structure of introspective access rather than a uniform capacity.
 
-**Trainability.** Unlike foundational capacities (you cannot train yourself to have better logical intuitions in the same way), introspective skill improves with practice along a logarithmic learning curve — matching the acquisition pattern of genuine perceptual skills (Fox et al. 2012). This trainability supports the view that introspection involves a real capacity engaging with real features of experience.
+**Trainability.** Unlike foundational capacities (you cannot train yourself to have better logical intuitions in the same way), introspective skill improves with practice along a logarithmic learning curve — matching the acquisition pattern of genuine perceptual skills (Fox et al. 2012). This trainability supports the view that introspection involves a real capacity engaging with real features of experience. [Neurophenomenology](/concepts/neurophenomenology/) provides the validation framework: trained introspective reports predict neural signatures that untrained reports miss, confirming that improved access tracks genuine phenomenal structure rather than producing more elaborate confabulations.
 
 ## What Introspection Can Establish
 
@@ -121,9 +126,14 @@ The sui generis model yields clear epistemological conclusions about what intros
 - [introspection-rehabilitation](/topics/introspection-rehabilitation/) — The case for restoring introspection as a serious method
 - [epistemology-of-introspective-calibration](/topics/epistemology-of-introspective-calibration/) — Five strategies for approximating calibration despite the void
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Huemer's principle as epistemological grounding
+- [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation underlying the acquaintance model
+- [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Russell's distinction and its role in the knowledge argument
 - [the-unobservable-self](/voids/the-unobservable-self/) — The structural impossibility of observing the observer
 - [introspective-opacity](/voids/introspective-opacity/) — Where introspective access fails structurally
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as knowledge source
+- [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — The methodological divide in consciousness science
+- [phenomenological-evidence](/concepts/phenomenological-evidence/) — When first-person reports constitute evidence
+- [neurophenomenology](/concepts/neurophenomenology/) — The mutual constraint framework validating trained introspection
 - [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/) — How introspective epistemology grounds unified dualist ethics
 
 ## References

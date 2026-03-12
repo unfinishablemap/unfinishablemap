@@ -28,6 +28,7 @@ related_articles:
 - '[[pre-conceptual-knowing]]'
 - '[[intrinsic-nature-void]]'
 - '[[aesthetic-irreducibility-arguments]]'
+- '[[epistemology-of-introspection]]'
 title: Acquaintance Knowledge
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -111,6 +112,7 @@ Mary's gap is indexical as well as qualitative: she lacks not just knowledge of 
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes structure but not qualitative character
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gap between physical and phenomenal
 - [aesthetic-irreducibility-arguments](/topics/aesthetic-irreducibility-arguments/) — Why aesthetic knowledge requires acquaintance across diverse substrates
+- [epistemology-of-introspection](/topics/epistemology-of-introspection/) — How acquaintance functions within a sui generis model of introspective knowledge
 
 ## References
 

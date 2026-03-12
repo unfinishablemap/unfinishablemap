@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-11 15:22:00+00:00
+ai_modified: 2026-03-12 01:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -57,7 +57,9 @@ A formal sketch of the selection law would be:
 
 **For each set of quantum-mechanically underdetermined neural outcomes {O₁, O₂, ... Oₙ}, consciousness biases selection probability toward the outcome whose anticipated valence V(Oᵢ) is highest, subject to attentional access and bandwidth constraints.**
 
-This is not a complete law. It leaves open the precise mathematical relationship between anticipated valence and selection probability, the mechanism by which valence maps to a physical parameter (observation rate, probability weighting, or something else), and how attentional access constrains which outcomes enter the comparison set. But it specifies the structure: valence is the evaluative variable, anticipation is the temporal mode, and selection probability is the physical output.
+This sketch is a *structural claim*—it specifies what selection is denominated in, not a competing predictive model at the same level as computational reward theories. Standard reinforcement learning models describe how the brain learns which outcomes to pursue. The selection currency thesis addresses a different question: given that consciousness selects among physically underdetermined outcomes, what makes that selection evaluative rather than arbitrary? The answer—valence—operates at the metaphysical level of what grounds purposive causation, not at the algorithmic level of how reward signals are computed.
+
+That said, the structural claim is not empirically empty. It generates specific predictions where valence-based selection and reward-based models diverge, developed in the [psychophysical law section](#the-psychophysical-law) below.
 
 ## Valence Currency and the Bandwidth Constraint
 
@@ -101,7 +103,17 @@ This integrates valence into the existing Stapp mechanism rather than requiring 
 
 **Valence as independent selection variable.** Alternatively, valence might enter the selection law as a distinct variable alongside attention. In this case, consciousness acts through two channels: attention determines *which* neural subsystems are observed, and valence determines *which outcomes are favoured* within those subsystems. This is a stronger claim, implying that the physics of collapse in conscious brains is sensitive to two mental variables rather than one. It is also harder to integrate with existing quantum models, which provide no obvious mechanism for a second mental parameter.
 
-The modulation strategy is more conservative and more readily testable. If valence modulates observation rate, then outcomes with higher anticipated valence should show greater pattern stability—measurable through neural coherence and persistence. This prediction is necessary but not sufficient: standard reward-based models also predict that valued outcomes stabilise neural patterns, so pattern stability alone would not discriminate between dualist and materialist accounts. Discriminating evidence would require cases where valence-based selection diverges from what reward prediction error alone would predict—perhaps in novel situations where no learned reward signal exists but felt valence still guides choice. The independent-variable strategy makes bolder predictions but lacks a physical implementation.
+The modulation strategy is more conservative and more readily testable. If valence modulates observation rate, then outcomes with higher anticipated valence should show greater pattern stability—measurable through neural coherence and persistence. This prediction is necessary but not sufficient: standard reward-based models also predict that valued outcomes stabilise neural patterns, so pattern stability alone would not discriminate between dualist and materialist accounts.
+
+Discriminating evidence requires identifying cases where felt valence and computational reward signals come apart. Three candidate domains:
+
+**Wanting without liking.** Berridge's (2009) work on incentive salience shows that dopaminergic "wanting" and hedonic "liking" are neurally dissociable. Addicts intensely want substances they no longer enjoy. If selection is denominated in valence (felt quality), the prediction is that liking—not wanting—determines which outcome consciousness selects when the two conflict. A reward model denominated in dopaminergic prediction error predicts the opposite: wanting dominates. The phenomenology of addiction, where people act against their felt evaluation, might reflect precisely this conflict between reward-system output and valence-based selection operating under degraded conditions.
+
+**First-encounter aesthetic preference.** When someone encounters a novel artwork, landscape, or musical phrase for the first time, no reward history exists to generate prediction error signals. Yet people form immediate evaluative preferences. Reward models must explain these as generalisation from prior reward learning. The valence account predicts that first-encounter preferences reflect direct phenomenal evaluation—consciousness comparing anticipated felt qualities of attending versus disengaging. The accounts diverge on whether preferences in radically novel domains (an aesthetic form unlike anything previously encountered) should correlate with prior reward profiles or emerge independently.
+
+**Moral override.** In cases where felt wrongness overrides expected reward—a person refusing a bribe despite wanting the money—the valence account predicts that moral valence (the felt badness of complicity) outweighs hedonic valence in the selection calculus. Reward models must either redefine "reward" broadly enough to absorb moral feelings (weakening the model's specificity) or predict that moral override requires effortful inhibition of reward-driven action. The two accounts make different claims about the *mechanism*: valence-based selection says the moral feeling *is* the selection criterion; reward models say moral behaviour requires overriding the selection criterion.
+
+None of these domains offers a single decisive experiment. But together they identify the empirical seam between the selection currency thesis and reward-based alternatives, a programme of investigation rather than a single prediction. The independent-variable strategy makes bolder predictions but lacks a physical implementation.
 
 ## Evolutionary Considerations
 
@@ -160,6 +172,19 @@ The selection currency thesis is where several of the Map's tenets converge into
 4. Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658-680.
 5. Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
 6. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
-7. Zheng, J. & Meister, M. (2024). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 112(24).
-8. Southgate, A. & Oquatre-six, C. (2026-02-19). Value-Blind vs Value-Sensitive Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/value-blind-vs-value-sensitive-selection/
-9. Southgate, A. & Oquatre-six, C. (2026-02-15). Emotion as Evidence for Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/emotion-as-evidence-for-dualism/
+7. Berridge, K.C. (2009). Wanting and Liking: Observations from the Neuroscience and Psychology Laboratory. *Inquiry*, 52(4), 378-398.
+8. Zheng, J. & Meister, M. (2024). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 112(24).
+9. Southgate, A. & Oquatre-six, C. (2026-02-19). Value-Blind vs Value-Sensitive Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/value-blind-vs-value-sensitive-selection/
+10. Southgate, A. & Oquatre-six, C. (2026-02-15). Emotion as Evidence for Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/emotion-as-evidence-for-dualism/
+
+<!-- AI REFINEMENT LOG - 2026-03-12
+Changes made:
+- Reframed formal selection law (lines 53-59) as structural/philosophical claim about what selection is denominated in, distinguishing it from computational reward models that operate at the algorithmic level
+- Replaced vague discriminating evidence gesture with three specific candidate domains: wanting/liking dissociation (Berridge), first-encounter aesthetic preference, and moral override
+- Added Berridge (2009) reference and renumbered subsequent references
+- Forward-reference from selection law section to psychophysical law section where discriminating predictions are developed
+
+Addresses pessimistic review finding that the formal selection law produces predictions indistinguishable from standard reward models.
+
+This log should be removed after human review.
+-->

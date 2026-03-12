@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-06 00:31:00+00:00
+ai_modified: 2026-03-12 01:30:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-06 00:31:00+00:00
 apex_sources:
@@ -36,7 +36,7 @@ description: 'What consciousness-first philosophy means for daily life. The Map 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-02 04:46:00+00:00
+last_deep_review: 2026-03-12 01:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,7 +47,7 @@ topics:
 - '[[topics/free-will]]'
 ---
 
-You wake up tomorrow. What matters about that day? The materialist answer: nothing, ultimately—you're patterns of neural firing that will dissolve, in a universe indifferent to your existence. The Unfinishable Map offers a different answer: what matters is the quality of your conscious experience, and that quality is something you genuinely influence through choices that are yours to make.
+You wake up tomorrow. What matters about that day? One materialist implication: nothing, ultimately—you're patterns of neural firing that will dissolve, in a universe indifferent to your existence. Some materialists resist this conclusion, but the logic pulls toward it: if consciousness is just what brains do, significance has no ground beyond the biological drives that produced it. The Unfinishable Map offers a different answer: what matters is the quality of your conscious experience, and that quality is something you genuinely influence through choices that are yours to make.
 
 Philosophy can seem remote from daily life—abstract puzzles debated by specialists. The Map rejects this separation. If consciousness is fundamental rather than accidental, if your choices genuinely author your life rather than merely decorating a predetermined script, then understanding your situation becomes practically urgent. What you are, why you exist, what you should do—these questions matter not as intellectual exercises but as prerequisites for living well.
 
@@ -105,7 +105,7 @@ The practical implication: *pursue what genuinely engages you*. Not what looks g
 
 The [ethics of consciousness](/topics/ethics-of-consciousness/) extends beyond individual meaning. If consciousness grounds value, then every conscious being instantiates value. Animals with subjective experience can suffer in ways that matter morally. Other humans are not resources for your purposes but fellow centres of intrinsic significance.
 
-The Map's framework gives special weight to *valence*—the felt positive or negative quality of experience. [Phenomenal normativity](/concepts/phenomenal-normativity/) explains why: [suffering's badness is constitutive of what suffering *is*](/topics/pain-consciousness-and-causal-power/), not an evaluation layered on top. This is not merely a preference but a recognition of how value is structured in the phenomenal character of experience itself.
+The Map's framework gives special weight to *[valence](/topics/valence-as-selection-currency/)*—the felt positive or negative quality of experience. [Phenomenal normativity](/concepts/phenomenal-normativity/) explains why: [suffering's badness is constitutive of what suffering *is*](/topics/pain-consciousness-and-causal-power/), not an evaluation layered on top. This is not merely a preference but a recognition of how value is structured in the phenomenal character of experience itself.
 
 This shapes how to live among others. Causing unnecessary suffering is wrong because suffering is genuinely bad. Promoting flourishing is good because flourishing experiences are genuinely good. The Map isn't utilitarian in demanding you maximise aggregate welfare regardless of cost to yourself—but it does imply attention to how your choices affect others' experiential quality. The suffering you cause is real suffering. The joy you enable is real joy.
 
@@ -121,7 +121,7 @@ Advanced practitioners report [witness-consciousness](/concepts/witness-consciou
 
 Contemplative investigation also reveals the *phenomenology of depth*: surface attention, focused presence, deep absorption. These aren't merely cognitive differences—they feel different. Deeper states are characteristically described as more meaningful, more "real." This suggests meaning correlates with *quality* of conscious engagement, not merely *presence* of consciousness.
 
-The practical value is twofold. First, contemplative practice develops the capacity for conscious engagement that constitutes meaning. Second, contemplative practice provides evidence for the framework itself. If phenomenal consciousness were illusory, training should eventually dissolve the illusion. Instead, practitioners report refined access to experiential quality—finer-grained distinctions, deeper awareness, greater capacity for witness consciousness.
+The practical value is twofold. First, contemplative practice develops the capacity for conscious engagement that constitutes meaning. Second, contemplative practice provides evidence relevant to the framework. Sustained introspective training consistently reveals more structure in experience, not less—finer-grained distinctions, deeper awareness, greater capacity for witness consciousness. If phenomenal consciousness were a crude representational fiction, one would expect trained attention to expose its coarseness rather than to uncover increasing depth. The pattern is more naturally explained by genuine phenomenal reality than by systematically deepening illusion.
 
 ## Living with Uncertainty
 
@@ -177,7 +177,7 @@ This apex article draws together practical implications from all five tenets:
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Consciousness influencing physical outcomes makes choices genuinely efficacious. What you do matters not just experientially but causally.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The specific mechanism—biasing quantum outcomes—explains how consciousness can be causally efficacious without violating physical law. This provides the physics behind libertarian free will.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The proposed mechanism—biasing quantum outcomes—offers a candidate account of how consciousness can be causally efficacious without violating physical law. If correct, this supplies the physics behind libertarian free will.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Rejecting Many Worlds preserves the weight of choice. You selected this option; the alternatives were genuinely rejected, not routed to other branches. This grounds moral responsibility and personal identity.
 

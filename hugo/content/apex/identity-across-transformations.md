@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-08 00:38:00+00:00
+ai_modified: 2026-03-12 01:36:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-08 00:38:00+00:00
 apex_sources:
@@ -21,6 +21,7 @@ concepts:
 - '[[unity-of-consciousness]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[witness-consciousness]]'
+- '[[process-haecceitism]]'
 created: 2026-01-31
 date: &id001 2026-01-31
 description: What persists through radical change? The Map argues identity is irreducibly
@@ -29,7 +30,7 @@ description: What persists through radical change? The Map argues identity is ir
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-02 06:03:00+00:00
+last_deep_review: 2026-03-12 01:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,7 +66,7 @@ A direct objection: if haecceity has no observable consequences—if no measurem
 
 The case for indexical identity begins with phenomenology. When you consider whether you would survive teletransportation, the question doesn't feel empty. You have a direct sense that *you*—not merely someone with your memories—might cease to exist.
 
-This phenomenological evidence is not conclusive. Perhaps evolution equipped us with survival instincts that generate illusory intuitions about irreplaceable selfhood. Perhaps the sense of haecceity is a cognitive bias. But three considerations support taking the phenomenology seriously:
+This phenomenological evidence is not conclusive. Perhaps evolution equipped us with survival instincts that generate illusory intuitions about irreplaceable selfhood. Perhaps the sense of haecceity is a cognitive bias. But four considerations support taking the phenomenology seriously:
 
 First, the conceivability of zombies. As [the personal identity article argues](/topics/personal-identity/#arguing-for-haecceity), we can conceive of a being physically identical to you but lacking consciousness. If conceivable, consciousness isn't entailed by physical properties. But then what makes *this* physical configuration conscious rather than zombie-like must be something non-qualitative—your haecceity. The replica from the teletransporter might be a zombie, or might be conscious but a *different* consciousness.
 
@@ -81,7 +82,7 @@ Fourth, the past-self argument. [Autonoetic consciousness](/concepts/anoetic-noe
 
 Thomas Nagel's observation captures the puzzle: these patients have "too much unity to say 'two', yet too much separation to say 'one'." The indeterminacy may be metaphysical rather than merely epistemic: our concept of a single unified subject may not correspond to anything real.
 
-Recent analysis distinguishes three dimensions of [phenomenal unity](/concepts/unity-of-consciousness/), each challenged differently by split-brain cases. *Synchronic unity*—all experiences belonging to one consciousness at a given moment—fractures partially when conflicting images reach each visual field. *Diachronic unity*—continuity of experience through time—appears largely preserved; patients maintain autobiographical memory and continuous identity. *Subject unity*—that all experiences are had by a single subject—becomes indeterminate in Nagel's sense. The selective disruption is itself evidence that identity is multi-layered: the dimension most tied to indexical identity (who is the subject?) proves most resistant to physical intervention.
+Analysis of [phenomenal unity](/concepts/unity-of-consciousness/) distinguishes three dimensions of [phenomenal unity](/concepts/unity-of-consciousness/), each challenged differently by split-brain cases. *Synchronic unity*—all experiences belonging to one consciousness at a given moment—fractures partially when conflicting images reach each visual field. *Diachronic unity*—continuity of experience through time—appears largely preserved; patients maintain autobiographical memory and continuous identity. *Subject unity*—that all experiences are had by a single subject—becomes indeterminate in Nagel's sense. The selective disruption is itself evidence that identity is multi-layered: the dimension most tied to indexical identity (who is the subject?) proves most resistant to physical intervention.
 
 A 2025 PNAS study strengthens this reading. Using fMRI, researchers found that as little as a centimetre of intact corpus callosum fibers can maintain full neural synchronisation between hemispheres. Consciousness resists fragmentation even when physical connections are almost entirely severed. This suggests that what unifies experience isn't merely information transfer but something about consciousness itself—perhaps the very haecceity that makes split-brain patients feel like one person despite perceptual division.
 
@@ -103,13 +104,15 @@ However, filter theory's explanatory scope is also its vulnerability. Every patt
 
 ## Altered States: Transformation Without Loss
 
-[Altered states](/concepts/altered-states-of-consciousness/) reveal that consciousness can transform dramatically while indexical identity persists. Under psychedelics, ego boundaries dissolve; ordinary sense of self fragments; entirely new modes of experience emerge. [Psychiatric conditions](/topics/phenomenological-psychiatry-and-altered-experience/) alter not just the *content* of experience but its very *form*—a depressed person's temporal horizon closes; a person with depersonalisation loses the sense that experiences belong to anyone while perception continues unchanged. Yet through all these transformations, something persists as the subject. The meditator who reports ego dissolution is still *that* meditator reporting—the one who entered the state and will exit it.
+[Altered states](/concepts/altered-states-of-consciousness/) reveal that consciousness can transform dramatically while indexical identity persists. Under psychedelics, ego boundaries dissolve; ordinary sense of self fragments; entirely new modes of experience emerge. [Psychiatric conditions](/topics/phenomenological-psychiatry-and-altered-experience/) alter not just the *content* of experience but its very *form*—a depressed person's temporal horizon closes; a person with depersonalisation loses the sense that experiences belong to anyone while perception continues unchanged.
+
+Yet through all these transformations, something persists as the subject. The meditator who reports ego dissolution is still *that* meditator reporting—the one who entered the state and will exit it.
 
 [Witness consciousness](/concepts/witness-consciousness/) is particularly relevant. Advanced contemplatives describe a mode where the ordinary sense of self is observed rather than identified with. Thoughts, emotions, and sensations arise and pass; the witness remains stable. This suggests consciousness has a structure: contents that change and a witnessing awareness that persists through changing contents.
 
 If what you fundamentally are is this witnessing awareness—rather than any particular content—then dramatic transformations of content needn't threaten identity. You can experience ego dissolution while remaining *you*, the witness of dissolution. The Buddhist *anattā* doctrine complicates this picture significantly. Advanced practitioners in most Buddhist traditions report that the witness *also* dissolves—there is no stable observer, only observation. Some traditions (Advaita Vedānta, certain Dzogchen lineages) do posit an irreducible witnessing awareness; mainstream Buddhist Madhyamaka denies it.
 
-The Map's response draws on [process haecceitism](/topics/personal-identity/#arguing-for-haecceity): particularity can apply to experiential *streams* rather than permanent substances. *This* series of conscious moments is distinct from *that* series, even without a permanent substrate underlying either. Buddhist contemplatives who deconstruct the self continue to experience as particular beings; the particularity survives the dissolution of substance. What persists is not a *substance* but a *subject*—the indexical fact that these experiences are *this* consciousness's experiences. This reading is closer to Vedāntic *ātman* than to Buddhist *anattā*, but process haecceitism shows the positions need not be fully opposed.
+The Map's response draws on [process-haecceitism](/concepts/process-haecceitism/): particularity can apply to experiential *streams* rather than permanent substances. *This* series of conscious moments is distinct from *that* series, even without a permanent substrate underlying either. Buddhist contemplatives who deconstruct the self continue to experience as particular beings; the particularity survives the dissolution of substance. What persists is not a *substance* but a *subject*—the indexical fact that these experiences are *this* consciousness's experiences. This reading is closer to Vedāntic *ātman* than to Buddhist *anattā*, but process haecceitism shows the positions need not be fully opposed.
 
 ## Quantum Measurement and the Indexical Gap
 
@@ -170,3 +173,8 @@ This synthesis draws from:
 - [Indexical Identity and Quantum Measurement](/topics/indexical-identity-quantum-measurement/) — The connection to fundamental physics
 - [Altered States of Consciousness](/concepts/altered-states-of-consciousness/) — Transformation without loss of subject
 - [Loss of Consciousness and the Mind-Brain Relationship](/topics/loss-of-consciousness/) — Temporal gaps and identity persistence
+
+## References
+
+1. Nagel, T. (1971). Brain Bisection and the Unity of Consciousness. *Synthese*, 22(3-4), 396-413.
+2. Miller, M. et al. (2025). Even minimal fiber connections can unify consciousness. *Proceedings of the National Academy of Sciences*.

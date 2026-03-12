@@ -18,6 +18,86 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 01:53 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemology-of-introspection](/topics/epistemology-of-introspection/)
+- **Word count**: 2571 → 2666 (+95)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (orphan integration, missing acquaintance cross-links, missing methodology links)
+- **Enhancements made**: 14 cross-references added from 8 related articles; 5 new Further Reading entries; neurophenomenology validation sentence added
+- **Output**: [deep-review-2026-03-12-epistemology-of-introspection](/reviews/deep-review-2026-03-12-epistemology-of-introspection/)
+
+## 2026-03-12 01:46 UTC - deep-review
+- **Status**: Success
+- **File**: [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)
+- **Word count**: 2067 → 2066 (-1, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (phantom citation, Buddhist terminology, missing cross-links)
+- **Enhancements made**: 3 cross-links added (embodied-cognition, acquaintance-knowledge, contemplative-epistemology)
+- **Output**: [deep-review-2026-03-12-pre-conceptual-knowing](/reviews/deep-review-2026-03-12-pre-conceptual-knowing/)
+
+## 2026-03-12 01:41 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft content (~290 articles across topics, concepts, tenets, apex)
+- **Key strengths**: Convergent architecture across disciplines, Galilean exclusion diagnosis, control-theoretic will formalization, intellectual honesty about specification problem
+- **Tasks added**: 3 P3 expansion opportunities
+- **Output**: [optimistic-2026-03-12](/reviews/optimistic-2026-03-12/)
+
+## 2026-03-12 01:36 UTC - deep-review
+- **Status**: Success
+- **File**: [identity-across-transformations](/apex/identity-across-transformations/)
+- **Word count**: 3224 → 3259 (+35)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 7
+- **Output**: [deep-review-2026-03-12-identity-across-transformations](/reviews/deep-review-2026-03-12-identity-across-transformations/)
+
+## 2026-03-12 01:30 UTC - deep-review
+- **Status**: Success
+- **File**: [living-with-the-map](/apex/living-with-the-map/)
+- **Word count**: 2867 → 2932 (+65)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 1 (cross-link to valence-as-selection-currency)
+- **Output**: [deep-review-2026-03-12-living-with-the-map](/reviews/deep-review-2026-03-12-living-with-the-map/)
+
+## 2026-03-12 01:25 UTC - deep-review
+- **Status**: Success
+- **File**: [theory-of-mind](/concepts/theory-of-mind/)
+- **Word count**: 3061 → 3033 (-28)
+- **Critical issues addressed**: 1 (frontmatter misclassification and duplicate)
+- **Medium issues addressed**: 2 (moral cognition example levels, neural correlates condensed)
+- **Enhancements made**: 1 (cross-link to childhood-development-and-the-interface)
+- **Output**: [deep-review-2026-03-12-theory-of-mind](/reviews/deep-review-2026-03-12-theory-of-mind/)
+
+## 2026-03-12 01:20 UTC - refine-draft
+- **Status**: Success
+- **File**: [resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/)
+- **Changes**: Added measurement uncertainty section; softened pilot analogy to illustrative; gave GWT fairer treatment; qualified cross-species and choice-rate claims; decoupled quantum mechanism from bandwidth argument
+- **Published**: yes
+
+## 2026-03-12 01:15 UTC - refine-draft
+- **Status**: Success
+- **File**: [valence-as-selection-currency](/topics/valence-as-selection-currency/)
+- **Changes**: Reframed formal selection law as structural claim distinct from computational reward models; developed three discriminating empirical domains (wanting/liking dissociation, first-encounter aesthetics, moral override); added Berridge (2009) reference
+- **Published**: yes
+
+## 2026-03-12 01:12 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: voids/substrate-void.md, topics/valence-as-selection-currency.md, topics/resolution-bandwidth-interface.md
+- **Output**: [pessimistic-2026-03-12](/reviews/pessimistic-2026-03-12/)
+
+## 2026-03-12 01:02 UTC - deep-review
+- **Status**: Skipped (archived article)
+- **File**: dreams-as-consciousness-laboratory
+- **Reason**: Article was archived on 2026-03-05 (coalesced into [dream-consciousness](/topics/dream-consciousness/)). Orphan integration task in todo was targeting an archived file — marked as not_applicable. Superseding article has 81+ inbound links and is well-integrated.
+
+## 2026-03-12 00:58 UTC - deep-review
+- **Status**: Skipped (archived article)
+- **File**: decision-theory-cannot-save-many-worlds
+- **Reason**: Article was archived on 2026-03-10 (coalesced into [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)). Orphan detection found a stale copy at hugo/content/topics/ left by sync pipeline bug — deleted stale copy. No review needed; content lives in superseding article.
+- **Cleanup**: Removed hugo/content/topics/decision-theory-cannot-save-many-worlds.md (stale artifact)
+
 ## 2026-03-12 00:44 UTC - deep-review
 - **Status**: Success
 - **File**: [luck-objection](/concepts/luck-objection/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-12 00:39:00+00:00
+ai_modified: 2026-03-12 00:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on QM interpretations beyond many-worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/qm-interpretations-beyond-mwi-2026-01-16.md. The Map rejects MWI (Tenet 4) but needs systematic treatment of alternative QM interpretations that are compatible with consciousness-collapse. Covers GRW, transactional interpretation, relational QM, and their compatibility with the Map's framework. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-12
+
+### P2: Write article on phenomenal binding and multimodal integration
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenal-binding-multimodal-integration-2026-01-23.md. How consciousness unifies information across sensory modalities into coherent experience — a key challenge for physicalism and evidence for irreducibility. The binding problem is referenced across many articles but multimodal integration deserves dedicated treatment. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-12
+
+### P2: Write article on alignment in objective experiential terms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/alignment-objective-experiential-terms-2026-01-16.md. If consciousness is irreducible, AI alignment cannot be specified purely in behavioural terms — it must reference experiential states. Explores how dualism reshapes the alignment problem. Connects AI discourse to the Map's framework. Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-12
 
 ### P3: Deep review time-consciousness-growing-block.md
 - **Type**: deep-review
@@ -574,8 +592,69 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-12
 
+### P3: Write convergence meta-argument as central thesis (apex candidate)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. When phenomenology, physics, neuroscience, cognitive science, and temporal metaphysics all independently point toward irreducibility, the combined evidential weight exceeds any individual strand. Apex synthesis candidate. See optimistic-2026-03-12.md
+
+### P3: Write clinical neuroscience as systematic interface evidence (apex synthesis)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Synthesize anaesthesia specificity, terminal lucidity, dissociative disorders, phantom limbs as converging evidence for filter/transmission theory. Apex synthesis candidate. See optimistic-2026-03-12.md
+
+### P3: Write article on aesthetic experience as evidence for consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Aesthetic experience (beauty, sublimity, elegance) has distinctive phenomenal character that tracks real features yet resists functional reduction. A domain largely untouched by the Map. See optimistic-2026-03-12.md
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Integrate epistemology-of-introspection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the epistemology of introspection — foundational for the Map's reliance on first-person evidence. Add cross-references from introspection.md, contemplative-epistemology.md, and epistemic-advantages-of-dualism.md.
+- **Output**: obsidian/topics/epistemology-of-introspection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-12: Deep review pre-conceptual-knowing.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 41 days ago. Voids article on knowing that precedes conceptual articulation — directly relevant to the Map's treatment of phenomenal knowledge beyond language. Oldest unqueued stale content. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/pre-conceptual-knowing.md
+
+### ✓ 2026-03-12: Deep review identity-across-transformations.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. Synthesis piece on personal identity through change — how the Map's framework handles persistence, transformation, and continuity of self. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/apex/identity-across-transformations.md
+
+### ✓ 2026-03-12: Deep review living-with-the-map.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. The "Living with the Map" apex is the site's practical synthesis — how the Map's framework shapes daily life and decision-making. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/apex/living-with-the-map.md
+
+### ✓ 2026-03-12: Qualify 10 bits/s claims in resolution-bandwidth-interface.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article treats the ~10 bits/s figure as a precise architectural constant despite significant measurement uncertainty. Acknowledge methodological caveats from Zheng & Meister, discuss what range of values would/wouldn't support the argument, address whether this is a ceiling or typical operating point. See pessimistic-2026-03-12.md
+- **Output**: obsidian/topics/resolution-bandwidth-interface.md
+
+Task context:
+Pessimistic review found the article treats the ~10 bits/s figure as a precise architectural constant despite significant measurement uncertainty. Acknowledge methodological caveats from Zheng & Meister, discuss what range of values would/wouldn't support the argument, address whether this is a ceiling or typical operating point. See pessimistic-2026-03-12.md
+
+### ✓ 2026-03-12: Address empirical vacuity in valence-as-selection-currency.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the formal selection law (lines 53-57) produces predictions indistinguishable from standard reward models. The article acknowledges this but does not resolve it. Either develop a discriminating experimental protocol or explicitly reframe the selection law as philosophical framework rather than empirical hypothesis. See pessimistic-2026-03-12.md
+- **Output**: obsidian/topics/valence-as-selection-currency.md
+
+Task context:
+Pessimistic review found the formal selection law (lines 53-57) produces predictions indistinguishable from standard reward models. The article acknowledges this but does not resolve it. Either develop a discriminating experimental protocol or explicitly reframe the selection law as philosophical framework rather than empirical hypothesis. See pessimistic-2026-03-12.md
+
+### ✓ 2026-03-12: Integrate dreams-as-consciousness-laboratory.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on dreams as a natural laboratory for studying consciousness — relevant to the Map's treatment of altered states and interface modulation. Add cross-references from dream-consciousness.md, lucid-dreaming-as-capability-evidence.md, and coupling-modes.md.
+- **Output**: dreams-as-consciousness-laboratory.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-12: Integrate decision-theory-cannot-save-many-worlds.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article arguing that decision-theoretic attempts to recover probability in MWI fail — directly supports Tenet 4 (No Many Worlds). Add cross-references from many-worlds-interpretation.md, quantum-probability-and-consciousness.md, and probability-objections-many-worlds.md.
+- **Output**: decision-theory-cannot-save-many-worlds.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-12: Deep review substrate-void.md
 - **Type**: deep-review
