@@ -24,7 +24,7 @@ related_articles:
   - "[[comparing-quantum-consciousness-mechanisms]]"
   - "[[consciousness-and-scientific-methodology]]"
   - "[[time-collapse-and-agency]]"
-  - "[[quantum-measurement-interpretations-beyond-mwi]]"
+  - "[[qm-interpretations-beyond-many-worlds]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

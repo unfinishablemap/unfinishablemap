@@ -19,7 +19,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[indexical-identity-quantum-measurement]]"
-  - "[[quantum-measurement-interpretations-beyond-mwi]]"
+  - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[quantum-measurement-subjective-probability-2026-01-23]]"
   - "[[voids-probability-intuition-void-2026-02-03]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"

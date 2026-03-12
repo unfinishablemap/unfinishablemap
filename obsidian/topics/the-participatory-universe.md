@@ -24,7 +24,7 @@ concepts:
   - "[[measurement-problem]]"
 related_articles:
   - "[[comparing-quantum-consciousness-mechanisms]]"
-  - "[[quantum-measurement-interpretations-beyond-mwi]]"
+  - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[time-collapse-and-agency]]"
 ai_contribution: 100
 author:
@@ -125,7 +125,7 @@ The participatory universe framework would face serious challenge from:
 - [[prebiotic-collapse]]
 - [[comparing-quantum-consciousness-mechanisms]]
 - [[retrocausality]]
-- [[quantum-measurement-interpretations-beyond-mwi]]
+- [[qm-interpretations-beyond-many-worlds]]
 - [[multi-mind-collapse-problem]]
 - [[indexical-identity-quantum-measurement]]
 - [[constitutive-exclusion]] — The structural limit that follows from participatory constitution

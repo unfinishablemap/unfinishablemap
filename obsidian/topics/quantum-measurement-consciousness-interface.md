@@ -22,7 +22,7 @@ related_articles:
   - "[[indexical-identity-quantum-measurement]]"
   - "[[collapse-and-time]]"
   - "[[quantum-measurement-and-subjective-probability]]"
-  - "[[quantum-measurement-interpretations-beyond-mwi]]"
+  - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[consciousness-measurement-problem-2026-01-16]]"
   - "[[measurement-problem-quantum-mechanics-2026-01-14]]"
   - "[[the-measurement-problem-as-philosophical-problem]]"

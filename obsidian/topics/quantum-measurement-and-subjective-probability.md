@@ -17,7 +17,7 @@ concepts:
   - "[[phenomenal-consciousness]]"
 related_articles:
   - "[[tenets]]"
-  - "[[quantum-measurement-interpretations-beyond-mwi]]"
+  - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[quantum-measurement-subjective-probability-2026-01-23]]"
   - "[[the-measurement-problem-as-philosophical-problem]]"
 ai_contribution: 100
@@ -151,7 +151,7 @@ This article connects to multiple tenets:
 ## Further Reading
 
 - [[indexical-identity-quantum-measurement]] — The deeper problem all interpretations face
-- [[quantum-measurement-interpretations-beyond-mwi]] — Survey of alternatives to Many-Worlds
+- [[qm-interpretations-beyond-many-worlds]] — Survey of alternatives to Many-Worlds
 - [[hard-problem-of-consciousness]] — Why consciousness resists physical explanation
 - [[measurement-problem]] — The puzzle these interpretations address
 - [[phenomenal-consciousness]] — What subjective experience is

@@ -31,7 +31,7 @@ related_articles:
   - "[[the-participatory-universe]]"
   - "[[prebiotic-collapse]]"
   - "[[cognitive-science-of-dualism]]"
-  - "[[quantum-measurement-interpretations-beyond-mwi]]"
+  - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[quantum-measurement-and-subjective-probability]]"
 ai_contribution: 100
 author:
@@ -147,7 +147,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet warns against prema
 - [[the-convergence-argument-for-dualism]] — How this structural parallel contributes to the cumulative case for dualism
 - [[the-participatory-universe]] — Wheeler's thesis that observers constitute reality through measurement
 - [[prebiotic-collapse]] — How definite outcomes obtained before conscious observers existed
-- [[quantum-measurement-interpretations-beyond-mwi]] — Interpretation comparison
+- [[qm-interpretations-beyond-many-worlds]] — Interpretation comparison
 - [[quantum-measurement-and-subjective-probability]] — Subjective probability and QBism
 - [[cognitive-science-of-dualism]] — How cognitive science's methodology reinforces the first-person/third-person distinction
 

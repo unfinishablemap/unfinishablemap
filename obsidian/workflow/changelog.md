@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 05:02 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/quantum-measurement-interpretations-beyond-mwi]], [[topics/qm-interpretations-beyond-many-worlds]]
+- **Target**: [[topics/qm-interpretations-beyond-many-worlds]]
+- **Archived**: [[archive/topics/quantum-measurement-interpretations-beyond-mwi]]
+- **References updated**: 9 files (14 occurrences)
+
 ## 2026-03-12 04:57 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/attention-as-selection-interface]]

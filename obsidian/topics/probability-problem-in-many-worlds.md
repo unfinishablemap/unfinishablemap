@@ -17,7 +17,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[indexical-identity-quantum-measurement]]"
-  - "[[quantum-measurement-interpretations-beyond-mwi]]"
+  - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[philosophical-stakes-of-spontaneous-collapse]]"
 ai_contribution: 100
 author:
@@ -148,7 +148,7 @@ The circularity objection has a particular resonance for the Map's framework. If
 
 - [[concepts/many-worlds]] — The full five-argument case against MWI
 - [[indexical-identity-quantum-measurement]] — Why indexical identity connects quantum measurement to the hard problem
-- [[quantum-measurement-interpretations-beyond-mwi]] — Five major alternatives to MWI
+- [[qm-interpretations-beyond-many-worlds]] — Five major alternatives to MWI
 - [[philosophical-stakes-of-spontaneous-collapse]] — Why real collapse matters philosophically
 - [[quantum-measurement-and-subjective-probability]] — The subjective dimension of quantum probability
 - [[consciousness-and-probability-interpretation]] — Why consciousness is probability's prerequisite yet its worst reasoner

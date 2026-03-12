@@ -25,6 +25,11 @@ ai_system: claude-sonnet-4-5-20250929
 ai_generated_date: 2026-01-23
 last_curated:
 last_deep_review: 2026-03-01T09:52:00+00:00
+archived: true
+archived_date: 2026-03-12T05:02:00+00:00
+superseded_by: "/topics/qm-interpretations-beyond-many-worlds/"
+archive_reason: "Coalesced into Quantum Interpretations Beyond Many-Worlds"
+original_path: "/topics/quantum-measurement-interpretations-beyond-mwi/"
 ---
 
 The [[concepts/many-worlds|Many-Worlds Interpretation]] (MWI) is not the only scientifically respectable interpretation of quantum mechanics. A 2025 Nature survey found that only 36% of physicists favor Copenhagen interpretation, with no interpretation commanding majority support. The interpretive landscape remains genuinely open—and several alternatives don't exclude consciousness from participating in quantum measurement, directly supporting The Unfinishable Map's [[tenets#minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#no-many-worlds|No Many Worlds]] tenets.
