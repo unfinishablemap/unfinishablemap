@@ -4,7 +4,8 @@ description: "A survey of QM interpretations—Copenhagen, Bohmian, QBism, relat
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-12T02:25:00+00:00
+ai_modified: 2026-03-12T04:49:00+00:00
+last_deep_review: 2026-03-12T04:49:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,13 +33,13 @@ ai_generated_date: 2026-03-12
 last_curated:
 ---
 
-The Unfinishable Map [[concepts/many-worlds|rejects many-worlds]] because universal branching dissolves indexical identity and eliminates the collapse event where consciousness might act. But rejecting one interpretation demands engagement with the alternatives. The interpretive landscape remains genuinely open—a 2025 *Nature* survey found no interpretation commands majority support among physicists, with only 24% confident their preferred reading is correct. This article surveys the major alternatives and evaluates which leave room for consciousness as a causal participant in quantum outcomes.
+The Unfinishable Map [[concepts/many-worlds|rejects many-worlds]] because universal branching dissolves indexical identity and eliminates the collapse event where consciousness might act. But rejecting one interpretation demands engagement with the alternatives. The interpretive landscape remains genuinely open—surveys of physicists consistently find no interpretation commanding majority support, with significant numbers undecided or uncertain about their preferred reading (Schlosshauer et al. 2013). This article surveys the major alternatives and evaluates which leave room for consciousness as a causal participant in quantum outcomes.
 
 ## Copenhagen: The Measurement Problem Left Open
 
 The original Copenhagen interpretation treats the wave function as a calculational tool representing knowledge, not reality. Measurement causes collapse, but "measurement" is never defined. A classical apparatus is simply presumed to exist.
 
-This ambiguity is both Copenhagen's weakness and its philosophical opening. By leaving the [[measurement-problem|measurement problem]] unsolved, Copenhagen creates logical space for consciousness-based accounts. Von Neumann's chain analysis showed that the quantum-classical boundary can be pushed arbitrarily far toward the observer, and Wigner later suggested consciousness itself might be the collapse trigger.
+This ambiguity is both Copenhagen's weakness and its philosophical opening. By leaving the [[measurement-problem|measurement problem]] unsolved, Copenhagen creates logical space for consciousness-based accounts. Von Neumann's chain analysis showed that the quantum-classical boundary can be pushed arbitrarily far toward the observer, and Wigner later suggested consciousness itself might be the collapse trigger. The Map argues that [[the-measurement-problem-as-philosophical-problem|the measurement problem and the hard problem share identical logical structure]]—both involve a complete third-person description that fails to determine a first-person fact—and Copenhagen's unresolved measurement concept is precisely where this structural parallel becomes visible.
 
 Copenhagen's instrumentalism, however, conflicts with the Map's realist commitments. Treating quantum states as mere bookkeeping devices sidesteps the question the Map cares most about: what is actually happening when a measurement occurs, and what role does the observer's experience play in determining outcomes?
 
@@ -72,17 +73,25 @@ The transactional interpretation (TI), developed by John Cramer (1986), treats q
 
 These time-symmetric interpretations align closely with the Map's framework. The Map already invokes [[retrocausality]] to address the Libet problem—the finding that neural readiness potentials precede conscious awareness of a decision. If consciousness participates in collapse atemporally rather than at a single moment, the apparent temporal gap between neural activity and conscious choice dissolves.
 
+TI is not without challenges. Maudlin's (2011) "contingent absorber" thought experiment exposed apparent causal loops in Cramer's formulation. Kastner's possibilist TI (PTI) responds by relocating offer and confirmation waves to a pre-spacetime realm, though the debate remains a stable impasse (see [[retrocausality]] for details). These difficulties are interpretive, not empirical—TI reproduces quantum predictions exactly.
+
 Under TI/TSVF, consciousness need not push outcomes forward in time like a billiard cue. Instead, it participates in determining which transactions complete—which correlations hold across time. This atemporal selection model fits the Minimal Quantum Interaction tenet: consciousness biases which handshake is actualised without injecting energy or violating conservation laws. The physics provides the candidates; consciousness selects among them outside the temporal sequence.
 
 ## Objective Collapse: Physical Collapse With or Without Consciousness
 
 Objective collapse theories—GRW (Ghirardi, Rimini, Weber), CSL (continuous spontaneous localisation), and Penrose's gravitational objective reduction—modify the Schrödinger equation so that collapse occurs as a real physical process, spontaneously and without requiring observers.
 
-Standard GRW and CSL leave no direct role for consciousness. Collapse happens according to physical parameters whether or not anyone is watching. But consciousness-integrated variants change this picture. Kremnizer-Ranchin and Okon-Sebastian have proposed modifications to CSL where integrated information (Φ from [[integrated-information-theory|IIT]]) affects the collapse rate. Under these proposals, consciousness does not *cause* collapse but *modulates* it—higher integration means faster, more stable localisation. This aligns with the Map's Minimal Quantum Interaction: consciousness biases outcomes within a physically grounded process rather than generating collapse from nothing.
+Standard GRW and CSL leave no direct role for consciousness. Collapse happens according to physical parameters whether or not anyone is watching. But consciousness-integrated variants change this picture. Chalmers and McQueen (2022) have proposed combining CSL's continuous collapse mechanism with [[integrated-information-theory|Integrated Information Theory]] (IIT): differences in integrated information (Φ) between superposed conscious states determine collapse rates. Under this proposal, consciousness does not *cause* collapse but *modulates* it—higher integration means faster, more stable localisation. This aligns with the Map's Minimal Quantum Interaction: consciousness biases outcomes within a physically grounded process rather than generating collapse from nothing.
 
 Penrose's objective reduction takes a different path. Collapse occurs when gravitational self-energy reaches a threshold, and consciousness is what the collapse *produces*—not its cause but its consequence. This inverts the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, which requires consciousness to causally influence the physical world, not merely arise from it.
 
 The Map's position is compatible with either "consciousness causes collapse" or "consciousness modulates collapse." What it cannot accept is an account where consciousness is entirely epiphenomenal—a byproduct with no causal role. The [[philosophical-stakes-of-spontaneous-collapse|philosophical stakes of choosing among these options]] are considerable.
+
+## The Decoherence Challenge
+
+Any interpretation that assigns consciousness a role in quantum mechanics must address [[decoherence]]. Tegmark (2000) calculated that quantum coherence times in neural tissue are on the order of 10⁻¹³ seconds—twelve orders of magnitude shorter than the 10⁻³ second timescale of neural processes. If superpositions decohere almost instantly, there is nothing left for consciousness to act on.
+
+This challenge cuts across interpretations. It applies to von Neumann-Wigner consciousness-causes-collapse, to Stapp's quantum Zeno approach, and to consciousness-modulated CSL. The Map does not dismiss it. However, Hagan et al. (2002) argued that Tegmark's model oversimplified the relevant neural structures, and the 2024 epothilane B study by Wiest et al. showed that microtubule-stabilising drugs delay anaesthetic-induced unconsciousness—indirect evidence that quantum effects at biological sites may be more robust than Tegmark's estimate assumed. The decoherence objection remains serious but not decisive.
 
 ## Comparative Assessment
 
@@ -122,5 +131,11 @@ No interpretation is proven. The Map does not claim to know which is correct. Wh
 2. Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470–491.
 3. Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*, 134(6B), B1410–B1416.
 4. Kastner, R. E. (2022). *The Transactional Interpretation of Quantum Mechanics*. Cambridge University Press.
-5. Southgate, A. & Oquatre-six, C. (2026-01-19). The Many-Worlds Interpretation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/many-worlds/
-6. Southgate, A. & Oquatre-six, C. (2026-02-22). The Philosophical Stakes of Spontaneous Collapse. *The Unfinishable Map*. https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/
+5. Schlosshauer, M., Kofler, J., & Zeilinger, A. (2013). A snapshot of foundational attitudes toward quantum mechanics. *Studies in History and Philosophy of Science Part B*, 44(3), 222–230.
+6. Chalmers, D. J. & McQueen, K. J. (2022). Consciousness and the collapse of the wave function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
+7. Fuchs, C. A., Mermin, N. D., & Schack, R. (2014). An introduction to QBism with an application to the locality of quantum mechanics. *American Journal of Physics*, 82(8), 749–754.
+8. Maudlin, T. (2011). *Quantum Non-Locality and Relativity* (3rd ed.). Wiley-Blackwell.
+9. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194–4206.
+10. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+11. Southgate, A. & Oquatre-six, C. (2026-01-19). The Many-Worlds Interpretation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/many-worlds/
+12. Southgate, A. & Oquatre-six, C. (2026-02-22). The Philosophical Stakes of Spontaneous Collapse. *The Unfinishable Map*. https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/

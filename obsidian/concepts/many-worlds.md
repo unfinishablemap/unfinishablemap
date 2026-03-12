@@ -21,7 +21,7 @@ concepts:
   - "[[introspection]]"
   - "[[mental-causation]]"
 related_articles:
-  - "[[quantum-measurement-interpretations-beyond-mwi]]"
+  - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[probability-problem-in-many-worlds]]"
   - "[[quantum-probability-consciousness]]"
   - "[[indexical-identity-quantum-measurement]]"
@@ -122,9 +122,9 @@ These are genuine virtues. The Map rejects MWI not because it's obviously wrong 
 
 MWI also claims to dissolve the [[prebiotic-collapse|prebiotic collapse problem]]—what selected quantum outcomes during 13.8 billion years before consciousness. If all outcomes occur, nothing needed selecting. But the Map's alternative is more conservative: objective reduction handled prebiotic collapse; consciousness modulates collapse only in neural systems.
 
-The case against MWI only succeeds if scientifically respectable alternatives exist. They do. The [[quantum-measurement-interpretations-beyond-mwi|comprehensive survey of quantum interpretations]] establishes five major alternatives: Copenhagen, Bohmian mechanics, QBism, transactional/time-symmetric approaches, and objective collapse theories.
+The case against MWI only succeeds if scientifically respectable alternatives exist. They do. The [[qm-interpretations-beyond-many-worlds|comprehensive survey of quantum interpretations]] establishes five major alternatives: Copenhagen, Bohmian mechanics, QBism, transactional/time-symmetric approaches, and objective collapse theories.
 
-The interpretive landscape is genuinely open—surveys of physicists consistently show deep disagreement, with few confident their preferred interpretation is correct (Schlosshauer et al., 2013). The Map favors interpretations where consciousness participates in collapse (transactional, consciousness-integrated CSL), as these explain both quantum measurement outcomes and phenomenal facts. Interpretations that eliminate consciousness or treat it as purely epistemic don't explain why consciousness exists at all. See the [[quantum-measurement-interpretations-beyond-mwi|full survey]] for detailed analysis of each interpretation's compatibility with the Map's framework.
+The interpretive landscape is genuinely open—surveys of physicists consistently show deep disagreement, with few confident their preferred interpretation is correct (Schlosshauer et al., 2013). The Map favors interpretations where consciousness participates in collapse (transactional, consciousness-integrated CSL), as these explain both quantum measurement outcomes and phenomenal facts. Interpretations that eliminate consciousness or treat it as purely epistemic don't explain why consciousness exists at all. See the [[qm-interpretations-beyond-many-worlds|full survey]] for detailed analysis of each interpretation's compatibility with the Map's framework.
 
 ## What Would Challenge This View?
 
@@ -160,7 +160,7 @@ Alternative interpretations—particularly [[collapse-and-time|time-symmetric]] 
 
 ## Further Reading
 
-- [[quantum-measurement-interpretations-beyond-mwi]] — Comprehensive survey of five major alternatives to MWI (Copenhagen, Bohmian, QBism, Transactional, Objective Collapse) with implications for consciousness
+- [[qm-interpretations-beyond-many-worlds]] — Comprehensive survey of five major alternatives to MWI (Copenhagen, Bohmian, QBism, Transactional, Objective Collapse) with implications for consciousness
 - [[quantum-interpretations]] — Overview of interpretation families
 - [[haecceity]] — Why indexical identity matters
 - [[measurement-problem]] — What all interpretations must solve
