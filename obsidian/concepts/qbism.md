@@ -136,6 +136,7 @@ Despite its limitations, QBism contributes several insights the Map affirms:
 - [[relational-quantum-mechanics]] — Another perspectival interpretation with different implications
 - [[haecceity]] — The "thisness" QBism implicitly invokes but doesn't explain
 - [[hard-problem-of-consciousness]] — What QBism's agents presuppose
+- [[indexical-identity-quantum-measurement]] — The indexical gap QBism's agent presupposition instantiates
 - [[unity-of-consciousness|phenomenal unity]] — The unified experience QBism's agents must possess
 - [[binding-problem]] — The challenge of explaining unified experience from distributed processing
 

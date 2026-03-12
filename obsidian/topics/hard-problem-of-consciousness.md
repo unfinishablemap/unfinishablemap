@@ -146,7 +146,7 @@ The [[binding-problem|binding problem]] presents another dimension of the hard p
 
 Classical approaches—neural synchrony, global workspace broadcasting—propose mechanisms where separate processes interact. But interaction doesn't explain unity—why does combination *feel* unified?
 
-This may be where [[quantum-consciousness|quantum approaches]] become relevant, since quantum entanglement produces genuine physical holism. The [[the-measurement-problem-as-philosophical-problem|structural parallel between the hard problem and the measurement problem]]—both concerning where first-person facts enter third-person descriptions—suggests these may be two faces of the same underlying issue. See [[binding-problem]] for detailed treatment and [[decoherence]] for the quantum biology evidence.
+This may be where [[quantum-consciousness|quantum approaches]] become relevant, since quantum entanglement produces genuine physical holism. The [[the-measurement-problem-as-philosophical-problem|structural parallel between the hard problem and the measurement problem]]—both concerning where first-person facts enter third-person descriptions—suggests these may be two faces of the same underlying issue. The [[indexical-identity-quantum-measurement|indexical gap]] sharpens the parallel: even granting that definite outcomes occur, what determines which outcome *this* consciousness experiences? See [[binding-problem]] for detailed treatment and [[decoherence]] for the quantum biology evidence.
 
 ## The Pairing Problem: Why This Mind with This Body?
 

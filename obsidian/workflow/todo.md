@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate indexical-identity-quantum-measurement.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article connecting indexical identity to quantum measurement — why the particular observer matters for collapse. Add cross-references from indexical-identity.md, quantum-consciousness.md, and collapse-interpretation.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-12
-
 ### P2: Address filter theory inference and production-model engagement in hypnagogic article
 - **Type**: refine-draft
 - **Notes**: Pessimistic review found the "For Filter Theory" section presents filter theory as the natural explanation for hypnagogic vividness without seriously engaging production-model alternatives (disinhibition of imagery circuits). Also: the quantum Zeno mechanism in phenomenal-attention.md needs physical grounding or explicit flagging as speculative. See pessimistic-2026-03-12-morning.md
@@ -602,6 +596,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Integrate indexical-identity-quantum-measurement.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article connecting indexical identity to quantum measurement — why the particular observer matters for collapse. Add cross-references from indexical-identity.md, quantum-consciousness.md, and collapse-interpretation.md.
+- **Output**: obsidian/topics/indexical-identity-quantum-measurement.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-12: Integrate indexical-knowledge-and-identity.md into site navigation
 - **Type**: integrate-orphan
