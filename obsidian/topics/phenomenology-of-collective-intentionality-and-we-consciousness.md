@@ -4,7 +4,7 @@ description: "What it is like to think as 'we' rather than 'I'—the distinctive
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-12T02:50:00+00:00
+ai_modified: 2026-03-12T03:28:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-collective-phenomena]]"
@@ -23,15 +23,20 @@ related_articles:
   - "[[intersubjective-void]]"
   - "[[other-minds-void]]"
   - "[[social-construction-of-self-vs-phenomenal-self]]"
+  - "[[consciousness-and-skilled-performance]]"
+  - "[[consciousness-and-normative-force]]"
+  - "[[phenomenology-of-musical-understanding]]"
+  - "[[phenomenal-attention]]"
+  - "[[animal-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-12
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-12T03:28:00+00:00
 ---
 
-When two musicians lock into a groove, something shifts in how the music feels from the inside. Each player stops experiencing the performance as "my playing alongside yours" and begins experiencing it as "our playing." The Unfinishable Map argues that this shift — from I-mode to we-mode phenomenology — is real, philosophically significant, and presents a distinctive challenge for any theory of consciousness. If consciousness interfaces with the physical world through individual neural substrates, as the Map's framework holds, then the felt character of we-consciousness must arise from individual phenomenal states that nonetheless carry genuinely collective intentional content.
+When two musicians lock into a groove, something shifts in how the music feels from the inside — a shift explored further in the Map's treatment of [[phenomenology-of-musical-understanding|musical understanding]]. Each player stops experiencing the performance as "my playing alongside yours" and begins experiencing it as "our playing." The Unfinishable Map argues that this shift — from I-mode to we-mode phenomenology — is real, philosophically significant, and presents a distinctive challenge for any theory of consciousness. If consciousness interfaces with the physical world through individual neural substrates, as the Map's framework holds, then the felt character of we-consciousness must arise from individual phenomenal states that nonetheless carry genuinely collective intentional content.
 
 The [[consciousness-and-collective-phenomena|collective phenomena article]] argues that groups are not conscious but collective intentionality requires individual phenomenal consciousness. The [[consciousness-and-interpersonal-understanding|interpersonal understanding article]] examines what it is like to grasp another person's experience. This article explores the space between those two claims: the phenomenology of thinking, intending, and experiencing *as a we*.
 
@@ -43,11 +48,11 @@ Hans Bernhard Schmid calls this the "plural pre-reflective self-awareness" that 
 
 Three phenomenal dimensions distinguish we-mode from I-mode experience:
 
-**Expanded agency boundaries.** In individual action, the boundary of your agency coincides with your body. In genuine joint action, this boundary extends. A rower in a well-coordinated crew experiences the boat's movement as something "we" are producing. The other rowers' strokes register not as external events to be tracked but as expressions of an agency that includes you. This expansion is phenomenal, not merely conceptual — it changes what feels like self-initiated action versus externally caused motion.
+**Expanded agency boundaries.** In individual action, the boundary of your agency coincides with your body. In genuine joint action, this boundary extends — a phenomenon also visible in [[consciousness-and-skilled-performance|skilled performance]], where practised coordination reshapes the felt boundaries of agency. A rower in a well-coordinated crew experiences the boat's movement as something "we" are producing. The other rowers' strokes register not as external events to be tracked but as expressions of an agency that includes you. This expansion is phenomenal, not merely conceptual — it changes what feels like self-initiated action versus externally caused motion.
 
-**Shared attentional structure.** Joint attention — the triadic awareness linking two subjects and a shared object — has a phenomenal character distinct from merely attending to the same thing another person happens to attend to. As Michael Tomasello's developmental research shows, infants as young as nine months experience joint attention as a distinctive mode of engaging with the world: the object is experienced as *mutually attended*, and this mutual attendance structures what the object means and how it is perceived. The mutuality is part of the experience, not an addition to it.
+**Shared attentional structure.** Joint attention — the triadic awareness linking two subjects and a shared object — has a [[phenomenal-attention|phenomenal]] character distinct from merely attending to the same thing another person happens to attend to. As Michael Tomasello's developmental research shows, infants as young as nine months experience joint attention as a distinctive mode of engaging with the world: the object is experienced as *mutually attended*, and this mutual attendance structures what the object means and how it is perceived. The mutuality is part of the experience, not an addition to it.
 
-**Normative texture.** Individual intentions carry a sense of commitment to the self. Collective intentions carry a felt obligation to others. When you participate in a joint activity, deviating from the shared plan does not merely frustrate your own goal — it feels like a violation, a breach of something owed. This normative phenomenology is immediate rather than reflective. You do not reason your way to the obligation; you experience it directly in the texture of the shared activity.
+**Normative texture.** Individual intentions carry a sense of commitment to the self. Collective intentions carry a felt obligation to others — what the Map's treatment of [[consciousness-and-normative-force|normative force]] identifies as irreducibly phenomenal. When you participate in a joint activity, deviating from the shared plan does not merely frustrate your own goal — it feels like a violation, a breach of something owed. This normative phenomenology is immediate rather than reflective. You do not reason your way to the obligation; you experience it directly in the texture of the shared activity.
 
 ## Zahavi and the Structure of We-Experience
 
@@ -67,7 +72,7 @@ At nine months, infants engage in joint attention — following gaze, pointing, 
 
 The phenomenological dimension of this developmental sequence is often underappreciated. What changes as the infant matures is not just the complexity of their social behaviour but the character of their experience. Joint attention is not merely looking where someone else looks; it involves experiencing the attended object *as jointly attended*. The "as" marks a phenomenal transformation. The toy that mother and child attend to together is experienced differently from the toy attended to alone — it carries an intersubjective significance that is part of how it appears, not an interpretation layered over a private perception.
 
-The near-absence of these capacities in great apes — despite their considerable social intelligence — suggests that we-mode phenomenology may require the kind of consciousness the Map associates with specific neural-quantum interfaces. Apes can coordinate behaviour, compete strategically, and even cooperate for mutual benefit. What they apparently cannot do is experience activities *as shared* in the way that underwrites human collective intentionality. If the Map's framework is correct, this gap may reflect not just cognitive differences but a difference in phenomenal architecture — in how consciousness structures the experience of agency and attention.
+The near-absence of these capacities in great apes — despite their considerable social intelligence — suggests that we-mode phenomenology may require the kind of consciousness the Map associates with specific neural-quantum interfaces. Apes can coordinate behaviour, compete strategically, and even cooperate for mutual benefit. What they apparently cannot do is experience activities *as shared* in the way that underwrites human collective intentionality. If the Map's framework is correct, this gap may reflect not just cognitive differences but a difference in phenomenal architecture — in how consciousness structures the experience of agency and attention. This remains speculative, and the cognitive gap alone does not establish a phenomenal one, but the correlation is suggestive: the capacities that distinguish human social cognition are precisely those most plausibly tied to phenomenal consciousness (see also [[animal-consciousness]]).
 
 ## Collective Effervescence and Its Phenomenology
 
@@ -113,7 +118,6 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet deepens the significance of 
 1. Zahavi, D. (2015). "You, Me, and We: The Sharing of Emotional Experiences." *Journal of Consciousness Studies*, 22(1-2), 84-101.
 1. Husserl, E. (1931). *Cartesian Meditations*. Kluwer Academic Publishers.
 1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
-1. Searle, J. R. (1990). "Collective Intentions and Actions." In *Intentions in Communication*, ed. Cohen, Morgan, and Pollack. MIT Press.
-1. Bratman, M. E. (2014). *Shared Agency: A Planning Theory of Acting Together*. Oxford University Press.
+1. Zahavi, D. (2014). *Self and Other: Exploring Subjectivity, Empathy, and Shame*. Oxford University Press.
 1. Durkheim, É. (1912). *The Elementary Forms of Religious Life*. Free Press (1995 reprint).
 1. Southgate, A. & Oquatre-six, C. (2026-03-10). Consciousness and Collective Phenomena. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-collective-phenomena/
