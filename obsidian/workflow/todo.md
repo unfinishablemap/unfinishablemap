@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate trilemma-of-selection.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article on the trilemma facing consciousness-as-selection frameworks. Add cross-references from consciousness-selecting-neural-patterns.md, attention-as-selection-interface.md, and mind-matter-interface.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-11
-
 ### P3: Deep review mysterianism.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-06 — 33 days ago. Concept page on McGinn's mysterianism — important philosophical position that the Map engages with via cognitive closure and the voids programme. Verify coherence, cross-references, and tenet alignment.
@@ -551,6 +545,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Integrate trilemma-of-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the trilemma facing consciousness-as-selection frameworks. Add cross-references from consciousness-selecting-neural-patterns.md, attention-as-selection-interface.md, and mind-matter-interface.md.
+- **Output**: obsidian/topics/trilemma-of-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-12: Integrate emergence-as-universal-hard-problem.md into site navigation
 - **Type**: integrate-orphan

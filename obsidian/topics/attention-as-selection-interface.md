@@ -4,7 +4,7 @@ description: "Attention and motor planning share neural substrates, creating a u
 created: 2026-02-01
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-08T00:29:00+00:00
+ai_modified: 2026-03-12T00:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -92,7 +92,7 @@ This parallel representation creates the space for selection—and raises the qu
 
 Neural competition resolves through threshold crossing. Competing representations accumulate support until one reaches threshold, triggering winner-take-all dynamics. The basal ganglia tonically inhibit motor programs; selection means releasing the brake on one option while maintaining inhibition on competitors.
 
-Either the competition is deterministic—one option was always going to win—or it involves genuine indeterminacy. If deterministic, deliberation is theatre. If genuinely indeterminate, something must resolve it. Pure randomness produces arbitrary outcomes, not choices. For selection to be both undetermined and meaningful, something beyond neural dynamics must contribute—biasing which option actualises in a direction that reflects what the agent intends.
+Either the competition is deterministic—one option was always going to win—or it involves genuine indeterminacy. If deterministic, deliberation is theatre. If genuinely indeterminate, something must resolve it. Pure randomness produces arbitrary outcomes, not choices. The [[trilemma-of-selection|trilemma of selection]] makes this exhaustive: determinism, randomness, or mental causation—only the third preserves authorship. For selection to be both undetermined and meaningful, something beyond neural dynamics must contribute—biasing which option actualises in a direction that reflects what the agent intends.
 
 The Map proposes consciousness fills this role—biasing which option wins at the threshold crossing moment. This satisfies the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: the smallest possible influence at the point of genuine indeterminacy.
 

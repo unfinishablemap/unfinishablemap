@@ -4,7 +4,7 @@ description: "Why indeterminism seems to threaten free will as much as determini
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-02-03T13:52:00+00:00
+ai_modified: 2026-03-12T00:20:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -49,7 +49,7 @@ Libertarian free will requires two conditions:
 
 Indeterminism provides alternative possibilities—if the choice wasn't determined, other outcomes were genuinely possible. But critics argue indeterminism undermines sourcehood. If nothing determines which option is chosen, nothing about the agent explains the choice. The outcome is lucky or arbitrary.
 
-This creates what appears to be a dilemma: determinism removes alternative possibilities (you couldn't have done otherwise), while indeterminism removes sourcehood (the outcome was arbitrary). Either way, genuine freedom seems impossible.
+This creates what appears to be a dilemma: determinism removes alternative possibilities (you couldn't have done otherwise), while indeterminism removes sourcehood (the outcome was arbitrary). Either way, genuine freedom seems impossible. The [[trilemma-of-selection|trilemma of selection]] expands this to three horns—determinism, randomness, or mental causation—and argues only the third preserves genuine authorship.
 
 ## Van Inwagen's Rollback Argument
 

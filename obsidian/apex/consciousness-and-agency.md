@@ -4,7 +4,7 @@ description: "How does consciousness author action in a physical world? Through 
 created: 2026-01-24
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-10T17:31:00+00:00
+ai_modified: 2026-03-12T00:20:00+00:00
 last_deep_review: 2026-03-06T04:55:00+00:00
 draft: false
 topics:
@@ -51,7 +51,7 @@ The Unfinishable Map's answer is agent-causal: consciousness genuinely authors a
 
 The classical picture of physics suggested a clockwork universe. Given initial conditions and deterministic laws, all future states follow necessarily. Your brain is a physical system; physical systems obey physical laws; therefore your "choices" are consequences of prior causes you neither chose nor controlled.
 
-Three traditional responses emerge. Hard determinism accepts the implication: free will is an illusion. Compatibilism argues that freedom is compatible with determinism. Libertarianism insists on genuine alternatives but faces the challenge of explaining how undetermined choices avoid being merely random.
+Three traditional responses emerge, corresponding to the [[trilemma-of-selection|trilemma of selection]]. Hard determinism accepts the implication: free will is an illusion (Horn 1). Compatibilism redefines freedom within determinism. Libertarianism insists on genuine alternatives but faces the challenge of explaining how undetermined choices avoid being merely random (Horn 2).
 
 Compatibilism deserves serious engagement because it represents the philosophical mainstream and its strongest versions are formidable. Fischer and Ravizza's *reasons-responsive mechanism* holds that an agent acts freely when their action-producing mechanism is moderately responsive to reasons across a suitable range of scenarios. Wolf's *Reason View* goes further: free action requires the ability to act in accordance with the True and the Good. Dennett argues that compatibilist freedom is the only "freedom worth wanting."
 

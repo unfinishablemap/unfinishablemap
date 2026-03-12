@@ -4,7 +4,7 @@ description: "The phenomenology of effortful attention as evidence for conscious
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-06T06:40:00+00:00
+ai_modified: 2026-03-12T00:20:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -62,7 +62,7 @@ This neural distinction explains why effort tracks volition. Instructed attentio
 
 ### Choosing vs Observing
 
-The [[phenomenology-of-choice|phenomenology of choice]] clarifies what effort tracks. When observing a coin flip, you experience the outcome as *happening to* you—no effort, no sense of authorship. When choosing, you participate in determining the outcome. The selection feels like something you *do*.
+The [[phenomenology-of-choice|phenomenology of choice]] clarifies what effort tracks. The [[trilemma-of-selection|trilemma of selection]] makes the logical structure explicit: at any decision point, the outcome is determined, random, or consciously selected—and only selection explains why choosing feels effortful. When observing a coin flip, you experience the outcome as *happening to* you—no effort, no sense of authorship. When choosing, you participate in determining the outcome. The selection feels like something you *do*.
 
 This distinction extends to multiple levels: selecting among options, refraining from selection, and meta-choosing whether to enter selection mode at all. Each involves effort when consciously undertaken.
 

@@ -4,7 +4,7 @@ description: "The experiential structure of deliberation and decision-making: fe
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-04T23:17:00+00:00
+ai_modified: 2026-03-12T00:20:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -96,7 +96,7 @@ The contrast is vivid in attention: being *pulled* by a loud noise versus *direc
 
 ## Effort as Evidence
 
-The [[mental-effort|phenomenology of effort]] provides the strongest evidence for genuine conscious contribution. If choosing were merely receiving randomly determined outcomes, there should be no phenomenology of effort—random processes don't feel like work. See [[phenomenology-of-consciousness-doing-work|consciousness doing work]] for the broader case that phenomenal experience tracks real causal contribution.
+The [[mental-effort|phenomenology of effort]] provides the strongest evidence for genuine conscious contribution. The [[trilemma-of-selection|trilemma of selection]] makes this systematic: at any decision point, the outcome is determined, random, or consciously selected—and only selection generates the phenomenology of effort. If choosing were merely receiving randomly determined outcomes, there should be no phenomenology of effort—random processes don't feel like work. See [[phenomenology-of-consciousness-doing-work|consciousness doing work]] for the broader case that phenomenal experience tracks real causal contribution.
 
 Deliberation feels costly—attentionally, emotionally, temporally. Time feels *invested*, not merely elapsed. If choosing were passive reception, these costs would be inexplicable.
 

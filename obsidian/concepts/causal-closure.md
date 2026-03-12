@@ -4,7 +4,7 @@ description: "Causal closure claims every physical event has sufficient physical
 created: 2026-01-14
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-03-05T18:49:00+00:00
+ai_modified: 2026-03-12T00:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -169,7 +169,7 @@ This argument is contested but highlights reflexivity: if the belief in causal c
 
 The connection to [[topics/free-will]] is immediate. If every physical event has a sufficient physical cause, there's no room for "my choice" to make a difference—the outcome was physically determined (or randomly fluctuated within fixed probabilities).
 
-The Map takes a different route. Quantum indeterminism means physical outcomes are not fully determined. If consciousness can bias which indeterminate outcome occurs, it can influence events in a way that's neither determined nor random—what libertarian free will requires. Robert Kane's Self-Forming Actions framework parallels this; the Map provides the *mechanism* Kane leaves underspecified.
+The Map takes a different route. Quantum indeterminism means physical outcomes are not fully determined. The [[trilemma-of-selection|trilemma of selection]] shows that at any point of genuine indeterminacy, the outcome is either random or consciously directed—and only directed selection preserves authorship. If consciousness can bias which indeterminate outcome occurs, it can influence events in a way that's neither determined nor random—what libertarian free will requires. Robert Kane's Self-Forming Actions framework parallels this; the Map provides the *mechanism* Kane leaves underspecified.
 
 Critics raise the [[luck-objection|luck objection]]: if the outcome is undetermined, isn't it just random? The Map's response: consciousness *selects* outcomes rather than merely receiving them. Phenomenal states constitute a distinct mode of causation—intentional directedness rather than random fluctuation.
 

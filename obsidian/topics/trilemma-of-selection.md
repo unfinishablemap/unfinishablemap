@@ -4,7 +4,7 @@ description: "At any decision point involving genuine indeterminacy, exactly thr
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-11T15:28:00+00:00
+ai_modified: 2026-03-12T00:20:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-10
 last_curated:
-last_deep_review: 2026-03-11T15:28:00+00:00
+last_deep_review: 2026-03-12T00:20:00+00:00
 ---
 
 When a neural decision point involves genuine indeterminacy, exactly three options obtain. The outcome was determined all along—deliberation is theatre. The outcome is genuinely undetermined but nothing guides the resolution—it is luck, not choice. Or consciousness selects among the available options based on reasons. These three exhaust the logical space. No fourth possibility exists.
@@ -105,7 +105,7 @@ Compatibilists raise several challenges to the trilemma's significance:
 
 ## What the Trilemma Establishes
 
-The trilemma does not prove that consciousness selects among quantum possibilities. It establishes something more modest but more secure: *if* genuine authorship exists, it requires something with the character of Horn 3. Neither determinism nor randomness can deliver authorship, no matter how they are refined or combined.
+The trilemma does not prove that consciousness selects among quantum possibilities. It establishes something more modest but more secure: *if* genuine authorship exists, it requires something with the character of Horn 3. The [[apex/consciousness-and-agency|Consciousness and Agency]] synthesis develops the full implications of this conclusion. Neither determinism nor randomness can deliver authorship, no matter how they are refined or combined.
 
 This matters because it clarifies the stakes. The question is not whether determinism or indeterminism is true—that is an empirical matter for physics. The question is what follows from each option. And what follows is that genuine authorship requires a third element: directed resolution of open possibilities by a selector acting for reasons. Whether that selector exists is the hard question. The trilemma shows that dismissing it forces acceptance of either theatrical deliberation or arbitrary outcomes.
 

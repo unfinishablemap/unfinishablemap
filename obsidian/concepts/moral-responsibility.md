@@ -4,7 +4,7 @@ description: "How agent causation grounds genuine moral desert. Agents originate
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-10T13:54:00+00:00
+ai_modified: 2026-03-12T00:20:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -42,7 +42,7 @@ Moral responsibility requires control (could have done otherwise), sourcehood (t
 
 **Compatibilism** argues "could have done otherwise" means "would have, if different desires." But critics argue this doesn't ground *desert*—if your desires were determined by factors you didn't choose, how do you deserve blame for acting on them?
 
-**Libertarianism** requires genuine indeterminism, but mere randomness doesn't help: random choices aren't free choices. This is where [[agent-causation|agent causation]] enters. The agent directly causes the action; the causation doesn't reduce to prior events. The regress of causes stops at the agent.
+**Libertarianism** requires genuine indeterminism, but mere randomness doesn't help: random choices aren't free choices. The [[trilemma-of-selection|trilemma of selection]] makes this exhaustive—determinism, randomness, or mental causation—and only the third preserves authorship sufficient for desert. This is where [[agent-causation|agent causation]] enters. The agent directly causes the action; the causation doesn't reduce to prior events. The regress of causes stops at the agent.
 
 ## Agent Causation and Desert
 
