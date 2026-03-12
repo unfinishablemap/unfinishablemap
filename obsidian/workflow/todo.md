@@ -570,12 +570,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Aesthetic experience (beauty, sublimity, elegance) has distinctive phenomenal character that tracks real features yet resists functional reduction. A domain largely untouched by the Map. See optimistic-2026-03-12.md
 
-### P2: Review phenomenal-value-realism.md considering alignment insights
-- **Type**: cross-review
-- **Notes**: New article topics/alignment-in-objective-experiential-terms.md builds on phenomenal value realism's claim that suffering's badness is objective, applying it to AI alignment constraints. The value realism concept page should cross-reference this application as a concrete consequence of its metaethical position.
-- **Source**: chain (from alignment-in-objective-experiential-terms.md)
-- **Generated**: 2026-03-12
-
 ### P2: Review attention-as-selection-interface.md considering phenomenal attention concept
 - **Type**: cross-review
 - **Notes**: New concept page concepts/phenomenal-attention.md sharpens the distinction between phenomenal and computational attention. The selection interface article provides the broader theory and should acknowledge this distinction to clarify exactly what consciousness contributes when selecting neural patterns.
@@ -614,6 +608,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Review phenomenal-value-realism.md considering alignment insights
+- **Type**: cross-review
+- **Notes**: New article topics/alignment-in-objective-experiential-terms.md builds on phenomenal value realism's claim that suffering's badness is objective, applying it to AI alignment constraints. The value realism concept page should cross-reference this application as a concrete consequence of its metaethical position.
+- **Output**: obsidian/topics/phenomenal-value-realism.md -- Context: Review phenomenal-value-realism.md considering alignment insights
 
 ### ✓ 2026-03-12: Address filter theory inference and production-model engagement in hypnagogic article
 - **Type**: refine-draft

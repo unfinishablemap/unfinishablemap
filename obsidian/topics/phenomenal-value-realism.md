@@ -4,11 +4,12 @@ description: "Why value lives in conscious experience—not in preferences, soci
 created: 2026-02-02
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-05T19:25:00+00:00
+ai_modified: 2026-03-12T04:41:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
   - "[[ethics-of-consciousness]]"
+  - "[[emotional-consciousness]]"
 concepts:
   - "[[phenomenal-normativity]]"
   - "[[qualia]]"
@@ -21,7 +22,6 @@ concepts:
   - "[[philosophical-zombies]]"
   - "[[agent-causation]]"
   - "[[explanatory-gap]]"
-  - "[[emotional-consciousness]]"
   - "[[aesthetic-dimension-of-consciousness]]"
   - "[[moral-responsibility]]"
 related_articles:
@@ -29,12 +29,13 @@ related_articles:
   - "[[purpose-and-alignment]]"
   - "[[phenomenology-of-moral-experience]]"
   - "[[phenomenal-value-realism-metaethics-2026-01-16]]"
+  - "[[alignment-in-objective-experiential-terms]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-03-05T19:25:00+00:00
+last_deep_review: 2026-03-12T04:41:00+00:00
 coalesced_from:
   - "/topics/phenomenal-value-realism/"
   - "/topics/phenomenal-value-realism-development/"
@@ -94,7 +95,7 @@ The dominant approach in economics and much of AI alignment grounds value in pre
 
 More fundamentally, preferences are *about* experiential states they do not capture. You prefer to avoid pain because pain feels bad. The preference tracks the value; it does not constitute it. A system that satisfies preferences without generating any conscious experience has achieved nothing of value—it has optimised a function that was only ever a proxy for what matters.
 
-This matters urgently for [[purpose-and-alignment|AI alignment]]. If we align AI systems to maximise preference satisfaction, we target a proxy that can come apart from the thing it tracks. [[experiential-alignment|Experiential alignment]]—targeting the felt quality of conscious life—aims at the real thing.
+This matters urgently for [[purpose-and-alignment|AI alignment]]. If we align AI systems to maximise preference satisfaction, we target a proxy that can come apart from the thing it tracks. Preferences offer epistemic objectivity (choices are observable) but lack metaphysical objectivity (what people happen to want is not what is genuinely good). [[experiential-alignment|Experiential alignment]]—targeting the felt quality of conscious life—aims at the real thing. See [[alignment-in-objective-experiential-terms]] for the full case that phenomenal qualities ground genuinely objective alignment criteria.
 
 ### Error Theory
 
@@ -249,6 +250,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [[meaning-of-life]] — How consciousness grounds meaning
 - [[ethics-of-consciousness]] — Ethical implications of consciousness-grounded value
 - [[experiential-alignment]] — Operationalising phenomenal value realism for AI alignment
+- [[alignment-in-objective-experiential-terms]] — Why phenomenal qualities ground genuinely objective alignment criteria
 - [[purpose-and-alignment]] — Why AI alignment should target experiential quality
 - [[hard-problem-of-consciousness]] — The evaluative dimension of the explanatory gap
 - [[topics/free-will]] — Agency as intrinsically valuable phenomenal experience
@@ -268,7 +270,4 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 1. Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press.
 1. Mackie, J. L. (1977). *Ethics: Inventing Right and Wrong*. Penguin Books.
 1. Korsgaard, C. M. (1996). *The Sources of Normativity*. Cambridge University Press.
-1. Wolf, S. (2010). *Meaning in Life and Why It Matters*. Princeton University Press.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
-1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
