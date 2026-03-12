@@ -4,16 +4,16 @@ description: "Consciousness beyond human language reveals that experience is mor
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-04T22:18:50+00:00
-last_deep_review: 2026-02-02T04:39:00+00:00
+ai_modified: 2026-03-12T08:23:00+00:00
+last_deep_review: 2026-03-12T08:23:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
   - "[[consciousness-in-simple-organisms]]"
+  - "[[emotional-consciousness]]"
 concepts:
   - "[[phenomenal-consciousness]]"
   - "[[baseline-cognition]]"
-  - "[[emotional-consciousness]]"
   - "[[evolution-of-consciousness]]"
   - "[[minimal-consciousness]]"
   - "[[mysterianism]]"
@@ -78,7 +78,7 @@ The evidence maps onto three functions that [[conscious-vs-unconscious-processin
 
 **Cumulative culture**: Whiten (2015) proposes that "apes have culture but may not know that they do." Great apes express cultural traditions but don't represent these as modifiable practices. Cumulative culture requires metarepresentation—knowing that you know—which appears to require consciousness.
 
-A 2025 meta-analysis (Randeniya) found that only 10% of claimed unconscious processing effects survive rigorous scrutiny—converging with comparative cognition to show that genuinely unconscious processing is far more limited than previously assumed. The human-ape intelligence gap tracks precisely those capacities where consciousness appears causally required. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—causally inert—this systematic correspondence would be unexplained coincidence.
+A 2025 meta-analysis of fMRI studies (Randeniya) found that only 10% of claimed unconscious processing effects survive rigorous scrutiny—converging with comparative cognition to show that genuinely unconscious processing is far more limited than previously assumed. The human-ape intelligence gap tracks precisely those capacities where consciousness appears causally required. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—causally inert—this systematic correspondence would be unexplained coincidence.
 
 ## Emotional Consciousness: The Felt Quality of Valence
 
@@ -147,3 +147,18 @@ This apex article synthesises:
 - [[mysterianism]] — Cognitive closure and the limits of understanding consciousness
 - [[consciousness-as-amplifier]] — How consciousness transforms baseline cognition into human-level intelligence
 - [[delegatory-dualism]] — The causal structure for consciousness doing work without overdetermination
+
+## References
+
+1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87–114.
+2. Ginsburg, S. & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
+3. Godfrey-Smith, P. (2024). Inferring consciousness in phylogenetically distant organisms. In *The Oxford Handbook of the Philosophy of Consciousness*.
+4. Inoue, S. & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004–R1005.
+5. LeDoux, J.E. & Brown, R. (2017). A higher-order theory of emotional consciousness. *PNAS*, 114(10), E2016–E2025.
+6. Metzinger, T. (2024). Minimal phenomenal experience: The ARAS-model theory. *Philosophy and the Mind Sciences*.
+7. Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435–450.
+8. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
+9. Randeniya, R. (2025). Neural correlates of unconscious processing in fMRI: A meta-analysis.
+10. Scheler, M. (1913/1973). *Formalism in Ethics and Non-Formal Ethics of Values*. Northwestern University Press.
+11. Whiten, A. (2015). Experimental studies illuminate the cultural transmission of percussive technologies in *Homo* and *Pan*. *Philosophical Transactions of the Royal Society B*, 370(1682).
+12. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

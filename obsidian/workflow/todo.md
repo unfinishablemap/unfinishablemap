@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-12
 
-### P3: Deep review minds-without-words.md
-- **Type**: deep-review
-- **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. Synthesis piece on pre-linguistic consciousness and the Map's treatment of non-verbal phenomenal experience. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-12
-
 ### P3: Deep review machine-question.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. Synthesis piece on AI consciousness — the Map's most contemporary-discourse-relevant apex article. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
@@ -596,6 +590,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Deep review minds-without-words.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. Synthesis piece on pre-linguistic consciousness and the Map's treatment of non-verbal phenomenal experience. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/apex/minds-without-words.md
 
 ### ✓ 2026-03-12: Address lookup table scale problem in continual-learning-argument.md
 - **Type**: refine-draft
