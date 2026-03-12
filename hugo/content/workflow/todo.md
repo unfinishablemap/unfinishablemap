@@ -38,10 +38,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the reconstruction paradox
-- **Type**: expand-topic
-- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. The brain corrects some perceptual errors (blind spot filling, colour constancy, saccadic suppression) but transmits others faithfully (blur, floaters, tinnitus, Müller-Lyer illusion). This asymmetry reveals a curated interface — consciousness receives a selected feed, not raw data — posing deep problems for physicalism. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
-- **Source**: unconsumed_research
+### P2: Cross-review reconstruction paradox against related perception articles
+- **Type**: cross-review
+- **Notes**: New article [reconstruction-paradox](/voids/reconstruction-paradox/) created. Review against [perception-and-conscious-experience](/topics/perception-and-conscious-experience/), [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/), [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/), and [consciousness-only-territories](/voids/consciousness-only-territories/) for consistency and cross-linking opportunities.
+- **Source**: task_chain (expand-topic → cross-review)
 - **Generated**: 2026-03-12
 
 ### P2: Write article on perceptual degradation and the interface
@@ -591,6 +591,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Write article on the reconstruction paradox
+- **Type**: expand-topic
+- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. The brain corrects some perceptual errors (blind spot filling, colour constancy, saccadic suppression) but transmits others faithfully (blur, floaters, tinnitus, Müller-Lyer illusion). This asymmetry reveals a curated interface — consciousness receives a selected feed, not raw data — posing deep problems for physicalism. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Output**: the reconstruction paradox
 
 ### ✓ 2026-03-12: Deep review prospective-memory.md
 - **Type**: deep-review
