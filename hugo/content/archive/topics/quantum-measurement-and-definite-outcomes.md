@@ -139,7 +139,7 @@ The definite outcomes problem directly supports the Map's core commitments:
 - [measurement-problem](/concepts/measurement-problem/) — Comprehensive treatment of the problem and interpretations
 - [decoherence](/concepts/decoherence/) — What decoherence does and doesn't explain
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — Why subjective interpretations fail phenomenologically
-- [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/) — Survey of alternatives to Many-Worlds
+- [quantum-measurement-interpretations-beyond-mwi](/topics/qm-interpretations-beyond-many-worlds/) — Survey of alternatives to Many-Worlds
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The first-person dimension of measurement
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Born probabilities as interface structure
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and consciousness-modulated collapse

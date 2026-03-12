@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-12T00:50:00+00:00
+ai_modified: 2026-03-12T05:13:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -580,6 +580,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article surveying GRW, transactional, relational QM and consciousness-collapse compatibility — directly supports Tenet 4 (No Many Worlds). Add cross-references from many-worlds-interpretation.md, quantum-consciousness.md, and collapse-interpretation.md.
 - **Source**: orphan_integration
+- **Generated**: 2026-03-12
+
+### P2: Cross-review attention-as-selection-interface.md considering phenomenal-attention insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/phenomenal-attention.md distinguishes phenomenal attention from computational attention. attention-as-selection-interface.md is the Map's primary treatment of attention as the consciousness-brain coupling mechanism and should cross-reference the new phenomenal/computational distinction. Check for places where the selection interface argument is strengthened by this distinction.
+- **Source**: chain (from phenomenal-attention.md)
+- **Generated**: 2026-03-12
+
+### P2: Cross-review dream-consciousness.md considering hypnagogic phenomenology insights
+- **Type**: cross-review
+- **Notes**: New article topics/hypnagogic-phenomenology-and-interface-modulation.md treats the sleep-wake transition as evidence for graded interface modulation. dream-consciousness.md covers dreaming phenomenology and should cross-reference the hypnagogic treatment, particularly the component-by-component disengagement pattern and its implications for filter theory.
+- **Source**: chain (from hypnagogic-phenomenology-and-interface-modulation.md)
+- **Generated**: 2026-03-12
+
+### P2: Cross-review consciousness-and-collective-phenomena.md considering collective intentionality insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenology-of-collective-intentionality-and-we-consciousness.md treats we-consciousness and shared intentionality under dualism. consciousness-and-collective-phenomena.md covers the broader relationship and should cross-reference the new article's treatment of the phenomenal character of collective intentionality and its challenge to individualist interface models.
+- **Source**: chain (from phenomenology-of-collective-intentionality-and-we-consciousness.md)
 - **Generated**: 2026-03-12
 
 ### P3: Deep review phenomenology-of-collective-intentionality-and-we-consciousness.md

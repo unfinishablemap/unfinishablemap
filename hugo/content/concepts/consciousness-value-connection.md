@@ -138,7 +138,7 @@ The [meaning of life](/topics/meaning-of-life/) connects directly. If value requ
 
 ### For AI Alignment
 
-[AI alignment](/topics/purpose-and-alignment/) depends on this connection. If we align AI systems to maximize preference satisfaction but preferences can occur without consciousness, we might create systems that "satisfy preferences" in a world emptied of value. The target of alignment should be experiential quality—the felt character of conscious life—not behavioral proxies that could exist without anyone home.
+[AI alignment](/topics/purpose-and-alignment/) depends on this connection. If we align AI systems to maximize preference satisfaction but preferences can occur without consciousness, we might create systems that "satisfy preferences" in a world emptied of value. The target of alignment should be experiential quality—the felt character of conscious life—not behavioral proxies that could exist without anyone home. [Alignment in Objective Experiential Terms](/topics/alignment-in-objective-experiential-terms/) argues that the consciousness-value connection gives alignment something preferentism cannot: genuinely objective criteria rooted in the nature of experience itself.
 
 ### For Panpsychism
 

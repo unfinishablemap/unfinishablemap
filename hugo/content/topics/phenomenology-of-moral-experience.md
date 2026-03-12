@@ -39,6 +39,7 @@ related_articles:
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[eastern-philosophy-consciousness]]'
 - '[[moral-phenomenology]]'
+- '[[alignment-in-objective-experiential-terms]]'
 title: The Phenomenology of Moral Experience
 topics:
 - '[[ethics-of-consciousness]]'

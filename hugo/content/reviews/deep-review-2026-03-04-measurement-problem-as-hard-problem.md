@@ -60,7 +60,7 @@ The successor article (`the-measurement-problem-as-philosophical-problem`) succe
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — frontmatter + Further Reading
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — frontmatter + Further Reading
 - [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/) — frontmatter + Further Reading
-- [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/) — frontmatter + Further Reading
+- [quantum-measurement-interpretations-beyond-mwi](/topics/qm-interpretations-beyond-many-worlds/) — frontmatter + Further Reading
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — frontmatter + Further Reading
 - [collapse-and-time](/concepts/collapse-and-time/) — frontmatter + Further Reading
 

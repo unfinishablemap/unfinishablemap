@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-25
-**Article**: [Quantum Measurement Interpretations Beyond Many-Worlds](/topics/quantum-measurement-interpretations-beyond-mwi/)
+**Article**: [Quantum Measurement Interpretations Beyond Many-Worlds](/topics/qm-interpretations-beyond-many-worlds/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

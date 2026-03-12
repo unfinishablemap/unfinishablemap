@@ -129,7 +129,7 @@ Kent's observation — that Wallace's axioms are substantive claims, not rationa
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — The full probability crisis in MWI: incoherence, branch-counting, self-locating uncertainty, and envariance
 - [many-worlds](/concepts/many-worlds/) — The five-argument cumulative case against MWI
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — Why indexical identity connects quantum measurement to the hard problem
-- [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/) — Five major alternatives to MWI
+- [quantum-measurement-interpretations-beyond-mwi](/topics/qm-interpretations-beyond-many-worlds/) — Five major alternatives to MWI
 - [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/) — Why real collapse matters philosophically
 - [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — Why consciousness is probability's prerequisite yet its worst reasoner
 

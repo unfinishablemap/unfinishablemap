@@ -60,7 +60,7 @@ topics: []
 - [measurement-problem](/concepts/measurement-problem/) — inline link in MWI section
 - [decoherence](/concepts/decoherence/) — inline link in What Would Challenge This View section
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — inline link in MWI indexical gap section
-- [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/) — Further Reading entry
+- [quantum-measurement-interpretations-beyond-mwi](/topics/qm-interpretations-beyond-many-worlds/) — Further Reading entry
 - [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/) — inline link in No Many Worlds tenet section
 - [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — inline link in No Many Worlds tenet section
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — inline link in No Many Worlds section

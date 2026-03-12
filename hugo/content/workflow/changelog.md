@@ -18,6 +18,31 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 05:07 UTC - deep-review
+- **Status**: Success
+- **File**: [alignment-in-objective-experiential-terms](/topics/alignment-in-objective-experiential-terms/)
+- **Word count**: 2106 → 2368 (+262)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing falsifiability section, telescope analogy qualification, orphan integration)
+- **Enhancements made**: 6 (falsifiability section, analogy fix, cross-link in article, 5 inbound links from existing articles)
+- **Output**: [deep-review-2026-03-12-alignment-in-objective-experiential-terms](/reviews/deep-review-2026-03-12-alignment-in-objective-experiential-terms/)
+
+## 2026-03-12 05:02 UTC - coalesce
+- **Status**: Success
+- **Sources**: [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/), [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+- **Target**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+- **Archived**: [quantum-measurement-interpretations-beyond-mwi](/archive/topics/quantum-measurement-interpretations-beyond-mwi/)
+- **References updated**: 9 files (14 occurrences)
+
+## 2026-03-12 04:57 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-as-selection-interface](/topics/attention-as-selection-interface/)
+- **Word count**: 3180 → 3190 (+10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 1 (phenomenal-attention cross-link integration)
+- **Output**: [deep-review-2026-03-12-attention-as-selection-interface](/reviews/deep-review-2026-03-12-attention-as-selection-interface/)
+
 ## 2026-03-12 04:49 UTC - deep-review
 - **Status**: Success
 - **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)

@@ -30,7 +30,7 @@ related_articles:
 - '[[comparing-quantum-consciousness-mechanisms]]'
 - '[[consciousness-and-scientific-methodology]]'
 - '[[time-collapse-and-agency]]'
-- '[[quantum-measurement-interpretations-beyond-mwi]]'
+- '[[qm-interpretations-beyond-many-worlds]]'
 title: Experimental Design for Consciousness-Collapse Testing
 topics:
 - '[[hard-problem-of-consciousness]]'

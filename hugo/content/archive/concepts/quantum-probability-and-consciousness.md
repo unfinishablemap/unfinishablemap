@@ -168,7 +168,7 @@ Several issues remain unresolved:
 ## Further Reading
 
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) - The indexical gap across interpretations
-- [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/) - Survey of QM interpretations
+- [quantum-measurement-interpretations-beyond-mwi](/topics/qm-interpretations-beyond-many-worlds/) - Survey of QM interpretations
 - [haecceity](/concepts/haecceity/) - The quality of primitive thisness
 - [quantum-consciousness](/concepts/quantum-consciousness/) - Mechanisms for consciousness-quantum interaction
 - [measurement-problem](/concepts/measurement-problem/) - Why definite outcomes occur

@@ -179,7 +179,7 @@ This topic connects to all five tenets:
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — Why *this* consciousness experiences *this* outcome
 - [measurement-problem](/concepts/measurement-problem/) — The central puzzle of quantum mechanics
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Survey of major interpretations
-- [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/) — Alternatives to many-worlds
+- [quantum-measurement-interpretations-beyond-mwi](/topics/qm-interpretations-beyond-many-worlds/) — Alternatives to many-worlds
 - [mind-matter-interface](/concepts/mind-matter-interface/) — How consciousness meets physics
 - [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) — Why selection respects conservation laws
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Henry Stapp's quantum Zeno mechanism

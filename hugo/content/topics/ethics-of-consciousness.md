@@ -97,7 +97,7 @@ If current AI systems lack consciousness—as the Map's framework implies—they
 
 ### The Alignment Problem and Experiential Targeting
 
-Under the Map's framework, [AI alignment](/topics/purpose-and-alignment/) takes on specific character. If AI lacks consciousness, it lacks the "inside understanding" that makes human judgment valuable. This leads to [experiential alignment](/concepts/experiential-alignment/)—targeting predicted distributions over human conscious experiences rather than learned preferences.
+Under the Map's framework, [AI alignment](/topics/purpose-and-alignment/) takes on specific character. If AI lacks consciousness, it lacks the "inside understanding" that makes human judgment valuable. This leads to [experiential alignment](/concepts/experiential-alignment/)—targeting predicted distributions over human conscious experiences rather than learned preferences. The philosophical case for why experiential qualities constitute *objective* criteria rather than one more set of subjective values is developed in [alignment-in-objective-experiential-terms](/topics/alignment-in-objective-experiential-terms/).
 
 But experiential alignment faces a structural limitation: unconscious AI cannot verify whether its interventions improve experiential quality. It can track proxies but cannot access what those proxies represent. Human oversight becomes structural necessity, not merely practical caution—conscious beings must remain in the loop because they alone can verify the phenomenal target.
 

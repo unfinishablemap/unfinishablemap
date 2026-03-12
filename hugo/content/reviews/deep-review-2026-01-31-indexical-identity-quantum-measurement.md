@@ -68,7 +68,7 @@ None. Article has reached stable maturity. Previous reviews (2026-01-25, 2026-01
 ### Cross-links Verified
 - [haecceity](/concepts/haecceity/) — appropriate, central to argument
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — companion concept article
-- [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/) — interpretation survey
+- [quantum-measurement-interpretations-beyond-mwi](/topics/qm-interpretations-beyond-many-worlds/) — interpretation survey
 - [free-will](/topics/free-will/) — libertarian free will connection in Further Reading
 - All frontmatter links appropriate
 

@@ -96,7 +96,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly: M
 - [many-worlds](/concepts/many-worlds/) --- The five-argument cumulative case against MWI
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) --- How probability connects to consciousness across interpretations
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) --- Why indexical identity matters for quantum measurement
-- [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/) --- Five alternatives to MWI
+- [quantum-measurement-interpretations-beyond-mwi](/topics/qm-interpretations-beyond-many-worlds/) --- Five alternatives to MWI
 - [tenets](/tenets/) --- The Map's foundational commitments
 
 ## References

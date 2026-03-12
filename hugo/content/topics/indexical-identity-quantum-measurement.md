@@ -24,7 +24,7 @@ last_deep_review: 2026-03-12 04:17:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[quantum-measurement-interpretations-beyond-mwi]]'
+- '[[qm-interpretations-beyond-many-worlds]]'
 - '[[quantum-measurement-subjective-probability-2026-01-23]]'
 - '[[the-measurement-problem-as-philosophical-problem]]'
 title: Indexical Identity and Quantum Measurement
@@ -63,7 +63,7 @@ The Map's position requires the metaphysical thesis. If indexical facts are mere
 
 ### QBism: Epistemic Without Explaining Experience {#qbism}
 
-[QBism](/topics/quantum-measurement-interpretations-beyond-mwi/#qbism-quantum-bayesianism) (Quantum Bayesianism) interprets quantum probabilities as personal degrees of belief. The wave function describes an agent's knowledge, not physical reality. Measurement "creates" outcomes rather than revealing pre-existing values. Collapse is merely updating beliefs.
+[QBism](/topics/qm-interpretations-beyond-many-worlds/#qbism-quantum-bayesianism) (Quantum Bayesianism) interprets quantum probabilities as personal degrees of belief. The wave function describes an agent's knowledge, not physical reality. Measurement "creates" outcomes rather than revealing pre-existing values. Collapse is merely updating beliefs.
 
 Christopher Fuchs, QBism's founder, explains: "The wave function does not describe the world—it describes the observer." Born probabilities are subjective Bayesian degrees of belief, constrained by normative coherence requirements analogous to Dutch-book coherence.
 
@@ -170,7 +170,7 @@ This topic intersects all five tenets:
 - [haecceity](/concepts/haecceity/) - The quality of being *this* particular thing
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) - Three readings of the Born rule
 - [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — How consciousness shapes which probability framework applies
-- [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/) - Survey of interpretations
+- [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) - Survey of interpretations
 - [measurement-problem](/concepts/measurement-problem/) - Why definite outcomes occur
 - [mind-matter-interface](/concepts/mind-matter-interface/) - How consciousness meets matter
 - [interactionist-dualism](/concepts/interactionist-dualism/) - Causal connection between mind and body

@@ -52,7 +52,7 @@ This review was triggered by orphan detection: the article had zero inbound link
 
 2. **[many-worlds](/concepts/many-worlds/)** — Expanded existing sentence in "The Probability Problem" section to include: "[decision-theory-cannot-save-many-worlds](/topics/probability-problem-in-many-worlds/) for a detailed analysis of why the decision-theoretic program fails on its own terms." Also added to related_articles frontmatter.
 
-3. **[quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/)** — Added to Further Reading section: "[decision-theory-cannot-save-many-worlds](/topics/probability-problem-in-many-worlds/) — Why the Deutsch-Wallace decision-theoretic program fails on its own terms."
+3. **[quantum-measurement-interpretations-beyond-mwi](/topics/qm-interpretations-beyond-many-worlds/)** — Added to Further Reading section: "[decision-theory-cannot-save-many-worlds](/topics/probability-problem-in-many-worlds/) — Why the Deutsch-Wallace decision-theoretic program fails on its own terms."
 
 ## Remaining Items
 

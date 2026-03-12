@@ -24,7 +24,7 @@ related_articles:
 - '[[quantum-measurement-consciousness-interface]]'
 - '[[comparing-quantum-consciousness-mechanisms]]'
 - '[[indexical-identity-quantum-measurement]]'
-- '[[quantum-measurement-interpretations-beyond-mwi]]'
+- '[[qm-interpretations-beyond-many-worlds]]'
 - '[[stapp-quantum-mind]]'
 - '[[quantum-interpretations]]'
 - '[[quantum-binding-and-phenomenal-unity]]'
@@ -113,7 +113,7 @@ The Map's [tenets](/tenets/) align most naturally with frameworks where consciou
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
-- [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/)
+- [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
 - [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/)
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/)

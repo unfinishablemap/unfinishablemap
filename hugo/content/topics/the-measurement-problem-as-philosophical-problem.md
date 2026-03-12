@@ -39,7 +39,7 @@ related_articles:
 - '[[the-participatory-universe]]'
 - '[[prebiotic-collapse]]'
 - '[[cognitive-science-of-dualism]]'
-- '[[quantum-measurement-interpretations-beyond-mwi]]'
+- '[[qm-interpretations-beyond-many-worlds]]'
 - '[[quantum-measurement-and-subjective-probability]]'
 title: The Measurement Problem as Philosophical Problem
 topics:
@@ -150,7 +150,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet warns against prema
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — How this structural parallel contributes to the cumulative case for dualism
 - [the-participatory-universe](/topics/the-participatory-universe/) — Wheeler's thesis that observers constitute reality through measurement
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — How definite outcomes obtained before conscious observers existed
-- [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/) — Interpretation comparison
+- [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Interpretation comparison
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — Subjective probability and QBism
 - [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) — How cognitive science's methodology reinforces the first-person/third-person distinction
 

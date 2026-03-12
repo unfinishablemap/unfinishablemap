@@ -31,6 +31,7 @@ related_articles:
 - '[[voids]]'
 - '[[purpose-of-life-ai-alignment-2026-01-10]]'
 - '[[alignment-objective-experiential-terms-2026-01-16]]'
+- '[[alignment-in-objective-experiential-terms]]'
 tag: diversion
 title: Purpose and AI Alignment
 topics:
@@ -102,7 +103,7 @@ The practical upshot: AI systems should be designed with humility about human pu
 
 If phenomenal consciousness is the ground of value, alignment might target experiential quality directly rather than learning from preferences. This view is grounded in [phenomenal-value-realism](/topics/phenomenal-value-realism/)—the metaethical position that intrinsic value is a feature of conscious experience itself—and the [consciousness-value-connection](/concepts/consciousness-value-connection/), which argues that consciousness is necessary for value to exist at all. [Experiential alignment](/concepts/experiential-alignment/) proposes that AI systems should promote predicted distributions over human conscious experiences—suffering, agency, meaning, attention quality, social connection—rather than observed choices.
 
-This approach accepts that the target is harder to specify, harder to measure, and harder to optimize than preference satisfaction. But if value actually resides in the quality of conscious experience, technical convenience should not substitute for getting the target right.
+This approach accepts that the target is harder to specify, harder to measure, and harder to optimize than preference satisfaction. But if value actually resides in the quality of conscious experience, technical convenience should not substitute for getting the target right. The philosophical case that experiential qualities constitute genuinely *objective* criteria—metaphysically objective in a way preferences are not—is developed in [alignment-in-objective-experiential-terms](/topics/alignment-in-objective-experiential-terms/).
 
 The experiential approach faces its own challenges: proxies for experience risk Goodhart effects, wireheading remains a concern, and first-person methods like [neurophenomenology](/concepts/neurophenomenology/) are labour-intensive. But it represents a more honest framing of what alignment is trying to achieve—promoting flourishing conscious experience, not merely satisfying preferences that may not track what matters.
 

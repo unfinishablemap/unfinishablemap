@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-03-12 02:40:00+00:00
+ai_modified: 2026-03-12 05:07:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: If phenomenal qualities are real features of reality, the badness o
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-12 05:07:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -79,7 +79,7 @@ Objective experiential qualities generate alignment criteria that differ from pr
 
 **First: non-negotiable constraints.** If the badness of suffering is objective, then no amount of preference satisfaction can compensate for extreme suffering. The [experiential-alignment](/concepts/experiential-alignment/) framework's suffering floor—no individual experiences extreme suffering for extended periods—is not an arbitrary parameter but a response to an objective feature of experience. This is why constraints are more appropriate than optimisation: you do not negotiate with objective badness.
 
-**Second: dimension-specific targets.** The eight dimensions of the experiential alignment framework—hedonic valence, suffering, agency, meaning, attention quality, social connection, understanding, temporal experience—are not arbitrary axes. Each identifies a phenomenal quality that has objective normative character. The felt quality of genuine understanding is objectively different from the felt quality of confusion. The phenomenology of real agency is objectively different from the phenomenology of helpless compulsion. These differences matter independently of whether anyone prefers one over the other.
+**Second: dimension-specific targets.** The eight dimensions of the experiential alignment framework—hedonic valence, suffering, agency, meaning, attention quality, social connection, understanding, temporal experience—are not arbitrary axes. Each identifies a phenomenal quality that has objective normative character (see [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) for how normative properties appear in conscious experience). The felt quality of genuine understanding is objectively different from the felt quality of confusion. The phenomenology of real agency is objectively different from the phenomenology of helpless compulsion. These differences matter independently of whether anyone prefers one over the other.
 
 **Third: manipulation resistance.** Objective experiential qualities are harder to game than preferences. You can manipulate what someone prefers (advertising, addiction, information asymmetry). You cannot manipulate what agony feels like. An AI system that produced states with high preference-satisfaction scores but poor experiential quality would fail alignment on objective experiential terms even if subjects reported satisfaction. The target is the experience, not the report.
 
@@ -91,7 +91,7 @@ This objection conflates epistemic access with metaphysical status. The difficul
 
 The practical problem is genuine, and the [experiential-alignment](/concepts/experiential-alignment/) framework addresses it through triangulation: multiple independent proxies (self-report, trained introspection, physiological correlates, behavioural indicators) cross-checked against each other, with systematic divergence treated as signal rather than noise. This is imperfect. But imperfect measurement of the right target is better than precise measurement of the wrong one.
 
-There is a deeper point. First-person methods—[introspection](/concepts/introspection/), [neurophenomenology](/concepts/neurophenomenology/), contemplative training—are not inferior substitutes for third-person measurement. They are the *appropriate* methods for accessing phenomenal qualities. Just as telescopes are appropriate for astronomy and microscopes for biology, trained introspection is appropriate for experiential quality. The demand that all legitimate evidence be third-person is itself a metaphysical commitment (physicalism) that the Map's dualism rejects.
+There is a deeper point. First-person methods—[introspection](/concepts/introspection/), [neurophenomenology](/concepts/neurophenomenology/), contemplative training—are not inferior substitutes for third-person measurement. They are the *appropriate* methods for accessing phenomenal qualities, just as telescopes are appropriate for astronomy and microscopes for biology. The analogy is imperfect—telescopes produce intersubjectively verifiable data while introspective reports do not—but the imperfection points to the nature of the target, not a deficiency in the method. Experiential qualities are first-personal by nature; demanding third-person verification as a prerequisite for legitimacy is itself a metaphysical commitment (physicalism) that the Map's dualism rejects.
 
 ## Objectivity Without Universality
 
@@ -116,6 +116,20 @@ The case for objective experiential alignment criteria draws on all five of the 
 **[No Many Worlds](/tenets/#no-many-worlds)** supports the non-aggregability of experiential quality. If identity is indexical—if [haecceity](/concepts/haecceity/) is real—then each conscious subject's experiential quality is an objective fact about *that* subject, not an instance of a type that can be averaged away. The suffering of this person is objectively bad for *this* person, and no amount of flourishing elsewhere compensates. This grounds the suffering floor as a per-individual constraint rather than an aggregate target.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** explains why the field has not already adopted objective experiential criteria. Preferentism is simpler: observable choices, computable utilities, scalable optimisation. Objective experiential alignment is harder: first-person access, multi-dimensional targets, triangulated measurement. But the history of science shows that the simpler framework is sometimes wrong. If experiential quality is genuinely objective, then the complexity of accessing it is a feature of the domain, not a reason to substitute an easier but incorrect target.
+
+## What Would Challenge This View?
+
+The case for objective experiential alignment criteria makes commitments that could be undermined.
+
+1. **Successful illusionism.** If phenomenal consciousness proved genuinely illusory—not merely misunderstood but absent—experiential qualities would lack the metaphysical standing needed for objectivity. The alignment target would collapse to functional states, and the distinction from preferentism would narrow considerably.
+
+2. **Preference-experience convergence.** If longitudinal research demonstrated that satisfying revealed preferences reliably produces positive experiential outcomes across all major dimensions, preferentism would be vindicated as a sufficient proxy. Current evidence suggests otherwise—preference satisfaction correlates with life evaluation but diverges from moment-to-moment experiential quality.
+
+3. **Intractable measurement failure.** If no combination of first-person reports, physiological correlates, and behavioural indicators could be triangulated to track experiential quality, the framework would be empirically intractable despite being metaphysically correct. Current evidence suggests triangulation works with significant noise.
+
+4. **Non-experiential objective values.** If something could be shown to matter intrinsically independent of how it features in experience—knowledge valuable to no one, autonomy felt by no one—the experiential grounding would require revision. The Map's position is that these apparent counterexamples dissolve on phenomenological analysis.
+
+5. **Objective aggregation across persons.** If individual suffering could be genuinely outweighed by aggregate flourishing in a way that preserved each person's indexical value, the suffering floor as a per-individual constraint would lose force. The Map's [haecceitism](/concepts/haecceity/) rules this out.
 
 ## Further Reading
 

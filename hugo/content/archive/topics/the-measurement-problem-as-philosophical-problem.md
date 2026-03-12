@@ -124,7 +124,7 @@ What makes the measurement problem philosophically distinctive is that it cannot
 - [measurement-problem](/concepts/measurement-problem/)
 - [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/) — The argument that the measurement problem and hard problem are instances of the same structural pattern
 - [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/)
-- [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/)
+- [quantum-measurement-interpretations-beyond-mwi](/topics/qm-interpretations-beyond-many-worlds/)
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 

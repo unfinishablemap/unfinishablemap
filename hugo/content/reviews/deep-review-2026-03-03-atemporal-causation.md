@@ -62,7 +62,7 @@ No new counterarguments warranting article changes.
 1. [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) — inline link in opening paragraph + Further Reading
 2. [retrocausality](/concepts/retrocausality/) — inline link in "Atemporal Selection Model" section + Further Reading
 3. [libet-experiments](/concepts/libet-experiments/) — inline link in "Retrocausal Resolution" section + Further Reading
-4. [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/) — inline link in TI/TSVF section + Further Reading
+4. [quantum-measurement-interpretations-beyond-mwi](/topics/qm-interpretations-beyond-many-worlds/) — inline link in TI/TSVF section + Further Reading
 5. [consciousness-collapse-arrow-of-time](/concepts/collapse-and-time/) — inline link in "Atemporal Selection" subsection + Further Reading
 6. [collapse-and-time](/concepts/collapse-and-time/) — inline link in "Time-Symmetric Interpretations" section + Further Reading
 7. [quantum-interpretations](/concepts/quantum-interpretations/) — inline link in TI/TSVF consciousness role + Further Reading

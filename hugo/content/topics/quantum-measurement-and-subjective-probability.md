@@ -21,7 +21,7 @@ last_deep_review: 2026-02-27 07:46:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[quantum-measurement-interpretations-beyond-mwi]]'
+- '[[qm-interpretations-beyond-many-worlds]]'
 - '[[quantum-measurement-subjective-probability-2026-01-23]]'
 - '[[the-measurement-problem-as-philosophical-problem]]'
 title: Quantum Measurement and Subjective Probability
@@ -154,7 +154,7 @@ This article connects to multiple tenets:
 ## Further Reading
 
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The deeper problem all interpretations face
-- [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/) — Survey of alternatives to Many-Worlds
+- [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Survey of alternatives to Many-Worlds
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists physical explanation
 - [measurement-problem](/concepts/measurement-problem/) — The puzzle these interpretations address
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — What subjective experience is

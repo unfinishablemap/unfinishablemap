@@ -30,7 +30,7 @@ topics: []
 - **Missing decoherence challenge**: No mention of the Tegmark (2000) decoherence timescale objection, which applies to all consciousness-quantum proposals. **Resolution**: Added new section "The Decoherence Challenge" covering Tegmark's calculation, Hagan et al.'s response, and the 2024 Wiest et al. epothilone B study.
 - **TI/TSVF presented as uncontested**: No mention of the Maudlin (2011) contingent absorber challenge. **Resolution**: Added paragraph noting the Maudlin challenge, Kastner's PTI response, and the "stable impasse" status, with a link to [retrocausality](/concepts/retrocausality/) for details.
 - **No QBism citation**: Section discussed QBism without any reference. **Resolution**: Added Fuchs, Mermin, & Schack (2014) to references.
-- **Broken cross-link in many-worlds.md**: Referenced `[quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/)` but file is `qm-interpretations-beyond-many-worlds.md`. **Resolution**: Fixed all occurrences in many-worlds.md.
+- **Broken cross-link in many-worlds.md**: Referenced `[quantum-measurement-interpretations-beyond-mwi](/topics/qm-interpretations-beyond-many-worlds/)` but file is `qm-interpretations-beyond-many-worlds.md`. **Resolution**: Fixed all occurrences in many-worlds.md.
 - **Missing cross-link to measurement-problem-as-philosophical-problem**: Listed in frontmatter topics but never referenced in body text. **Resolution**: Added sentence in Copenhagen section linking the structural parallel between the measurement problem and the hard problem.
 
 ### Counterarguments Considered
