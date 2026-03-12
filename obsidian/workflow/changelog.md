@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 01:46 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/pre-conceptual-knowing]]
+- **Word count**: 2067 → 2066 (-1, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (phantom citation, Buddhist terminology, missing cross-links)
+- **Enhancements made**: 3 cross-links added (embodied-cognition, acquaintance-knowledge, contemplative-epistemology)
+- **Output**: [[reviews/deep-review-2026-03-12-pre-conceptual-knowing]]
+
 ## 2026-03-12 01:41 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: All non-draft content (~290 articles across topics, concepts, tenets, apex)

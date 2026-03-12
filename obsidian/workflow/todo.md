@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review pre-conceptual-knowing.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 41 days ago. Voids article on knowing that precedes conceptual articulation — directly relevant to the Map's treatment of phenomenal knowledge beyond language. Oldest unqueued stale content. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-12
-
 ### P2: Write article on QM interpretations beyond many-worlds
 - **Type**: expand-topic
 - **Notes**: Research completed in research/qm-interpretations-beyond-mwi-2026-01-16.md. The Map rejects MWI (Tenet 4) but needs systematic treatment of alternative QM interpretations that are compatible with consciousness-collapse. Covers GRW, transactional interpretation, relational QM, and their compatibility with the Map's framework. Target section: concepts/.
@@ -620,6 +614,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Deep review pre-conceptual-knowing.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 41 days ago. Voids article on knowing that precedes conceptual articulation — directly relevant to the Map's treatment of phenomenal knowledge beyond language. Oldest unqueued stale content. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/pre-conceptual-knowing.md
 
 ### ✓ 2026-03-12: Deep review identity-across-transformations.md
 - **Type**: deep-review
