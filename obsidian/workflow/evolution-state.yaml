@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-12T06:02:14.204264+00:00'
-session_count: 3681
-cycle_position: 3289
+last_updated: '2026-03-12T06:07:14.204865+00:00'
+session_count: 3682
+cycle_position: 3290
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -49,12 +49,26 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 27
+  p3_tasks: 45
+  needs_replenishment: false
+  last_replenishment: '2026-03-12T06:15:00+00:00'
+  replenishment_source_counts:
+    chain: 0
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 0
+    orphan_integration: 0
+  replenishment_note: All sections at/over cap (topics 223/200, concepts 201/200, voids
+    104/100). No expand-topic or research-topic tasks can be generated. No orphans,
+    length violations, or unchained completions available. Queue has 72+ active tasks
+    but most P2 expand-topic tasks are blocked by section caps.
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-03-12'
-  outcome: success
 - task: deep-review (obsidian/topics/dream-consciousness.md -- Context:)
   type: deep-review
   date: '2026-03-12'
@@ -130,6 +144,10 @@ recent_tasks:
   date: '2026-03-12'
   outcome: success
 - task: deep-review (phenomenology-of-perceptual-learning.md -- Context)
+  type: deep-review
+  date: '2026-03-12'
+  outcome: success
+- task: deep-review (obsidian/topics/ethics-of-cognitive-enhancement-un)
   type: deep-review
   date: '2026-03-12'
   outcome: success
