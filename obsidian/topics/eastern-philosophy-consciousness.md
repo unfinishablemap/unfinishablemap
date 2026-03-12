@@ -4,7 +4,7 @@ description: "Hindu, Buddhist, and Taoist traditions converge with dualism on co
 created: 2026-01-09
 modified: 2026-02-06
 human_modified: null
-ai_modified: 2026-02-06T12:52:00+00:00
+ai_modified: 2026-03-12T02:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-02-06T10:37:00+00:00
+last_deep_review: 2026-03-12T02:05:00+00:00
 coalesced_from:
   - "/topics/eastern-philosophy-consciousness/"
   - "/topics/eastern-metaphysics-integration/"
@@ -67,7 +67,7 @@ As [[buddhism-and-dualism]] argues in detail, this is compatible with the Map's 
 
 Despite rejecting a permanent self, Buddhist meditation cultivates the capacity to observe mental contents as objects (see [[witness-consciousness]]). Buddhism rejects an eternal soul-substance, not the phenomenal structure of awareness that makes observation possible. If consciousness can observe thoughts as objects, the observer cannot be identical to what is observed—something irreducible is revealed.
 
-Neuroimaging supports this: a 7T fMRI study of advanced vipassana practitioners documented progressive self-deconstruction—self-processing regions deactivated while awareness regions activated. What investigation discloses is not an unchanging witness-substance but the *process* of witnessing: awareness operating without a fixed center. The subject-object structure remains; permanence does not.
+Neuroimaging supports this: a 7T fMRI case study of an advanced vipassana practitioner (Laukkonen & Slagter 2024) documented progressive self-deconstruction—self-processing regions deactivated while awareness regions activated. What investigation discloses is not an unchanging witness-substance but the *process* of witnessing: awareness operating without a fixed center. The subject-object structure remains; permanence does not.
 
 ### Yogācāra and Madhyamaka
 
@@ -97,7 +97,7 @@ Despite different starting points, all three traditions converge on claims that 
 
 ## Contemplative Evidence
 
-[[neurophenomenology|Neurophenomenology]] provides the methodological framework for integrating contemplative insights with neuroscience. Key findings from trained contemplatives:
+[[neurophenomenology|Neurophenomenology]] provides the methodological framework for integrating contemplative insights with neuroscience (see also [[contemplative-practice-as-philosophical-evidence]]). Key findings from trained contemplatives:
 
 **Cessation experiences**: *Nirodha samāpatti*—complete cessation of perception and feeling—can be voluntarily achieved while brain activity continues. This challenges the assumption that consciousness *is* neural activity, supporting the filter theory.
 
@@ -105,7 +105,7 @@ Despite different starting points, all three traditions converge on claims that 
 
 **Temporal microstructure**: Buddhist *khaṇika* (momentariness)—experience arising and passing in rapid succession—aligns with Husserl's phenomenological analysis, demonstrating empirical contemplative methods for investigating consciousness.
 
-**Dream yoga**: Tibetan *mi-lam* trains practitioners to maintain awareness during sleep. Demirel et al. (2025) validate this tradition, identifying lucid dreaming as a distinct consciousness state. Dream yoga demonstrates [[tenets#^bidirectional-interaction|Bidirectional Interaction]]—dreamers volitionally control dream contents—and supports filter theory: dreams are what consciousness does when sensory constraints are removed. See [[dream-consciousness]].
+**Dream yoga**: Tibetan *mi-lam* trains practitioners to maintain awareness during sleep. Demirel et al. (2025) validate this tradition, identifying lucid dreaming as a distinct consciousness state. Dream yoga demonstrates [[tenets#^bidirectional-interaction|Bidirectional Interaction]]—dreamers volitionally control dream contents—and supports filter theory: dreams are what consciousness does when sensory constraints are removed. See [[dream-consciousness]] and [[lucid-dreaming-as-capability-evidence]].
 
 ## The Illusionist Challenge
 
@@ -123,7 +123,7 @@ Buddhist *anattā* denies permanent selfhood. The Map requires [[haecceity]]—p
 
 ### Process Haecceitism: The Resolution
 
-Haecceity does not require permanent substance. It requires particularity—that *this* is distinguishable from *that* even when qualitatively identical. Physics already relies on this: two electrons share all qualitative properties yet remain numerically distinct, existing as quantum field excitations (processes) rather than persistent things. If haecceity works for particles without substantial permanence, it works for consciousness too.
+Haecceity does not require permanent substance. It requires particularity—that *this* is distinguishable from *that* even when qualitatively identical. Physics raises this possibility: two electrons share all qualitative properties yet are treated as numerically distinct in standard quantum mechanics—though their individuality remains debated in quantum field theory, where particles are field excitations rather than persistent things. If haecceity can operate without substantial permanence even in physics, it can operate for consciousness too.
 
 The resolution: haecceity applies to experiential *processes*, not substantial *selves*. Buddhism's own flame analogy supports this—*this* flame-process is distinguished from another candle's by its particular causal history, even if both were qualitatively identical at each moment. Buddhism doesn't deny that *this* person experiences *this* moment; it denies an unchanging soul underneath.
 
@@ -176,6 +176,7 @@ Eastern philosophy illuminates all five of the Map's [[tenets]], while raising p
 - [[meditation-and-consciousness-modes]] — Active selection and passive witnessing modes
 - [[phenomenology-of-the-edge]] — Minimal phenomenal experience and the zero-person perspective
 - [[dream-consciousness]] — Dreams, lucid dreaming, and Tibetan dream yoga
+- [[lucid-dreaming-as-capability-evidence]] — What lucid dreaming reveals about consciousness capabilities
 - [[neurophenomenology]] — The scientific research program bridging contemplative traditions and neuroscience
 - [[contemplative-neuroscience]] — How meditation research bridges first-person phenomenology and third-person neuroscience
 - [[contemplative-practice-as-philosophical-evidence]] — First-person data as empirical test
