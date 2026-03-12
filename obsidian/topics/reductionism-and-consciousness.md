@@ -4,7 +4,7 @@ description: "Reductionism succeeds across science—temperature, life, heredity
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-11T21:17:00+00:00
+ai_modified: 2026-03-12T00:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ Science advances by reduction. Consider the paradigm cases.
 
 **Genetics to molecular biology.** Mendel's abstract "factors" became physical DNA sequences. The bridge laws connecting Mendelian ratios to molecular replication are genuine identities, and the reduction explains *why* inheritance patterns arise from the chemistry.
 
-These reductions share a common structure: the higher-level phenomenon becomes *transparent* once the lower-level mechanism is known. We see *why* temperature relates to pressure, *why* DNA produces inheritance patterns, *why* biochemistry generates metabolism. The explanation closes the gap between levels.
+These reductions share a common structure: the higher-level phenomenon becomes *transparent* once the lower-level mechanism is known. We see *why* temperature relates to pressure, *why* DNA produces inheritance patterns, *why* biochemistry generates metabolism. The explanation appears to close the gap between levels — though the [[emergence-as-universal-hard-problem|universal hard problem thesis]] argues this transparency may be a product of habituation rather than genuine comprehension, with the explanatory gap relocated rather than resolved.
 
 ## Where the Pattern Breaks
 

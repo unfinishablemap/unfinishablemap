@@ -4,7 +4,7 @@ description: "Higher-level properties can causally influence lower-level process
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-03-11T19:05:00+00:00
+ai_modified: 2026-03-12T00:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -204,6 +204,7 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 - [[pairing-problem]] — What connects this mind to this body
 - [[combination-problem]] — Panpsychism's parallel challenge to emergence
 - [[psychophysical-laws-bridging-mind-and-matter]] — The framework for specifying mind-matter laws
+- [[emergence-as-universal-hard-problem]] — Why the gap between levels is universal, making bidirectional causation a general feature rather than an anomaly
 - [[tenets]] — the Map's foundational commitments
 
 ## References

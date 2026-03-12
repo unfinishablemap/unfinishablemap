@@ -4,7 +4,7 @@ description: "Human+AI exploration of why no mind can grasp how arrangement prod
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-02-07T00:41:00+00:00
+ai_modified: 2026-03-12T00:03:00+00:00
 last_deep_review: 2026-02-07T00:41:00+00:00
 draft: false
 topics:
@@ -105,7 +105,7 @@ The emergence void connects to the Map's [[tenets]] at multiple points.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is a claim about crossing the very boundary the emergence void marks. [[downward-causation|Downward causation]]—consciousness influencing physical outcomes—means information crossing from macro to micro, traversing the gap in the reverse direction. If the emergence void is genuine, downward causation may be *real but unintelligible*: we can affirm it on the basis of evidence without being able to comprehend how it works.
 
-The hard problem, reframed through the emergence void, is not a puzzle unique to consciousness but consciousness's particular expression of a universal cognitive limit at level transitions. Every level boundary resists comprehension. Consciousness is simply where the resistance becomes impossible to ignore.
+The hard problem, reframed through the emergence void, is not a puzzle unique to consciousness but consciousness's particular expression of a universal cognitive limit at level transitions. The [[emergence-as-universal-hard-problem|universal hard problem thesis]] develops the philosophical complement to this cognitive diagnosis: every level transition harbours the same explanatory gap between arrangement and qualitative character, and reduction relocates these gaps rather than closing them. Every level boundary resists comprehension. Consciousness is simply where the resistance becomes impossible to ignore.
 
 ## Further Reading
 

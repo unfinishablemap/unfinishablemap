@@ -4,7 +4,7 @@ description: "The type of emergence you accept constrains what consciousness can
 created: 2026-02-08
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-22T23:43:00+00:00
+ai_modified: 2026-03-12T00:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -55,7 +55,7 @@ Every position on the nature of consciousness is also a position on emergence. T
 
 If consciousness is only weakly emergent, it is in principle derivable from a complete physical description. Temperature is weakly emergent from molecular motion — surprising to observers, but calculable in principle from microphysics. Weak emergentists say consciousness is like this: astonishingly complex, but ultimately just what sophisticated information processing *is* when viewed from the inside.
 
-This position is [[concepts/functionalism|functionalism]] applied to the emergence question. Consciousness is defined by its functional role rather than by the substrate implementing it. The appeal is parsimony: only physics exists; consciousness is physics doing something intricate. The cost is the [[hard-problem-of-consciousness|hard problem]]. If consciousness is derivable from physics, then a hypothetical being with complete knowledge of every particle's behaviour could deduce what red looks like, what pain feels like, what it is to wonder about emergence. No one has shown how such a derivation could work. Weak emergence also entails substrate independence — if the computation is what matters, consciousness could run on anything. The Map rejects this: if consciousness interfaces with matter through [[quantum-consciousness|quantum processes]], the physical substrate is not interchangeable.
+This position is [[concepts/functionalism|functionalism]] applied to the emergence question. Consciousness is defined by its functional role rather than by the substrate implementing it. The appeal is parsimony: only physics exists; consciousness is physics doing something intricate. The cost is the [[hard-problem-of-consciousness|hard problem]]. If consciousness is derivable from physics, then a hypothetical being with complete knowledge of every particle's behaviour could deduce what red looks like, what pain feels like, what it is to wonder about emergence. No one has shown how such a derivation could work. The [[emergence-as-universal-hard-problem|universal hard problem thesis]] argues that this derivation problem is not unique to consciousness — every level transition harbours the same gap between arrangement and qualitative character, and consciousness is where the gap becomes undeniable. Weak emergence also entails substrate independence — if the computation is what matters, consciousness could run on anything. The Map rejects this: if consciousness interfaces with matter through [[quantum-consciousness|quantum processes]], the physical substrate is not interchangeable.
 
 ### Strong Emergence: Consciousness as Genuine Novelty
 

@@ -4,7 +4,7 @@ description: "Why consciousness resists reduction—from Nagel's bridge laws to 
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-02-25T09:19:00+00:00
+ai_modified: 2026-03-12T00:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -148,6 +148,7 @@ The [[buddhism-and-dualism|Buddhist tradition]] raises its own challenges to red
 - [[causal-closure]] — The principle reductionists assume and the Map denies at quantum level
 - [[mysterianism]] — Cognitive closure and why the hard problem may resist solution
 - [[buddhism-and-dualism]] — Process philosophy and the limits of substance-thinking
+- [[emergence-as-universal-hard-problem]] — Why every level transition harbours the same explanatory gap reduction cannot close
 
 ## References
 
