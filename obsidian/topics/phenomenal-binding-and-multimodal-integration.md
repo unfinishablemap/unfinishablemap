@@ -4,7 +4,7 @@ description: "Cross-modal binding—unifying vision, hearing, and touch into one
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-12T02:29:00+00:00
+ai_modified: 2026-03-12T02:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,10 +31,10 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-12
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-12T02:34:00+00:00
 ---
 
-The Unfinishable Map treats multimodal integration as the binding problem's sharpest test case. When you watch someone speak, vision delivers lip movements, audition delivers speech sounds, and proprioception delivers your own position relative to the speaker. These signals arrive at different cortical regions, at different speeds (vision ~50ms, audition ~10ms, touch ~15ms), encoded in fundamentally different representational formats. Yet you experience none of this separation. You experience one person speaking in one place at one time. This article argues that multimodal binding exposes the gap between computational coordination and phenomenal unity more clearly than any other variety of binding — because the inputs differ not just in location but in *kind*.
+The Unfinishable Map treats multimodal integration as the binding problem's sharpest test case. When you watch someone speak, vision delivers lip movements, audition delivers speech sounds, and proprioception delivers your own position relative to the speaker. These signals arrive at different cortical regions, at different speeds (vision ~50ms to cortex, audition ~20ms, touch ~20ms), encoded in fundamentally different representational formats. Yet you experience none of this separation. You experience one person speaking in one place at one time. This article argues that multimodal binding exposes the gap between computational coordination and phenomenal unity more clearly than any other variety of binding — because the inputs differ not just in location but in *kind*.
 
 For the broader taxonomy of binding varieties (intra-modal, temporal, cognitive, subject), see [[the-binding-problem-a-systematic-treatment]]. For the mechanistic argument about why classical approaches fail, see [[phenomenal-binding-and-holism]].
 
@@ -47,7 +47,7 @@ Consider what must be unified:
 - **Visual signals** are spatial, retinotopic, high-bandwidth, and processed through a hierarchical cortical pipeline (V1 → V4 → inferotemporal cortex)
 - **Auditory signals** are temporal, tonotopic, processed through a separate cortical hierarchy (A1 → belt → parabelt), and represent frequency over time rather than spatial arrays
 - **Somatosensory signals** are body-mapped, representing pressure, temperature, and proprioception through yet another cortical system
-- **Olfactory signals** bypass the thalamus entirely, reaching cortex through the olfactory bulb with no spatial map at all
+- **Olfactory signals** bypass the thalamic relay for initial cortical access, reaching piriform cortex through the olfactory bulb with no spatial map at all
 
 These modalities do not merely process in different locations — they use incommensurable codes. Converting between them is not like translating between languages that share a grammar. It is like translating between a photograph, a melody, and a pressure pattern. Yet the unified experience of being in a place — the atmospheric quality of a room, the felt presence of another person — integrates all of them seamlessly.
 
@@ -81,9 +81,9 @@ The unity of place reveals that multimodal binding is not merely feature-level i
 
 ## What Neural Mechanisms Explain — and What They Do Not
 
-Neuroscience has made genuine progress on the computational side of multimodal binding (BP1):
+Neuroscience has made genuine progress on computational binding (BP1 — the coordination of information across brain regions) as it applies to multimodal integration:
 
-**The superior colliculus** contains multisensory neurons with topographically aligned spatial maps across modalities. When visual, auditory, and somatosensory inputs are spatiotemporally congruent, these neurons produce supralinear responses. The mechanism is well characterised: NMDA receptor nonlinearities and GABAergic inhibition release enable the supralinear enhancement.
+**The superior colliculus** contains multisensory neurons with topographically aligned spatial maps across modalities. When visual, auditory, and somatosensory inputs are spatiotemporally congruent, these neurons produce supralinear responses. Current models implicate NMDA receptor nonlinearities and GABAergic disinhibition as cellular substrates for the supralinear enhancement.
 
 **The thalamus** coordinates oscillatory activity across cortical regions through slow and ultraslow oscillations, creating temporal windows within which information from different modalities can be bound. Default Space Theory proposes that the thalamus sustains "metastable synchronisation of local computations into global coherence."
 
@@ -105,7 +105,7 @@ Multimodal integration illuminates the Map's [[tenets]] with particular clarity.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: At each moment, you experience *this* particular multimodal configuration — this visual scene bound with this soundscape bound with this bodily feeling. In many-worlds, every possible binding configuration occurs. The phenomenological fact that one configuration is actual requires genuine collapse.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The computational story (superior colliculus, thalamic coordination, global workspace) seems to explain multimodal binding. But it explains BP1 while ignoring BP2 — accounting for information coordination while leaving phenomenal unity untouched. The apparent parsimony of the neural account reflects incomplete problem specification, not genuine simplicity.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The computational story (superior colliculus, thalamic coordination, global workspace) seems to explain multimodal binding. But it explains BP1 while ignoring phenomenal binding (BP2) — accounting for information coordination while leaving phenomenal unity untouched. The apparent parsimony of the neural account reflects incomplete problem specification, not genuine simplicity.
 
 ## Further Reading
 
@@ -119,10 +119,10 @@ Multimodal integration illuminates the Map's [[tenets]] with particular clarity.
 
 ## References
 
-1. Baars, B. J. & Franklin, S. (2013). Global Workspace Dynamics: Cortical "Binding and Propagation" Enables Conscious Contents. *Frontiers in Psychology*, 4, 200.
+1. Baars, B. J., Franklin, S. & Ramsøy, T. Z. (2013). Global Workspace Dynamics: Cortical "Binding and Propagation" Enables Conscious Contents. *Frontiers in Psychology*, 4, 200.
 1. Bayne, T. & Chalmers, D. (2003). What is the Unity of Consciousness? In A. Cleeremans (Ed.), *The Unity of Consciousness*. Oxford University Press.
-1. Frontiers. (2019). Multimodal Integration and Phenomenal Spatiotemporal Binding: A Perspective From the Default Space Theory. *Frontiers in Integrative Neuroscience*, 13, 2.
-1. Mudrik, L., Faivre, N. & Koch, C. (2014). The Complex Interplay Between Multisensory Integration and Perceptual Awareness. *Multisensory Research*, 27(5-6), 207-254.
+1. Jerath, R. & Beveridge, C. (2019). Multimodal Integration and Phenomenal Spatiotemporal Binding: A Perspective From the Default Space Theory. *Frontiers in Integrative Neuroscience*, 13, 2.
+1. Mudrik, L., Faivre, N. & Koch, C. (2014). Information Integration Without Awareness. *Trends in Cognitive Sciences*, 18(9), 488-496.
 1. Stein, B. E. & Stanford, T. R. (2008). Multisensory integration: current issues from the perspective of the single neuron. *Nature Reviews Neuroscience*, 9(4), 255-266.
 1. Southgate, A. & Oquatre-six, C. (2026-02-14). The Binding Problem: A Systematic Treatment. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-binding-problem-a-systematic-treatment/
 1. Southgate, A. & Sonquatre-cinq, C. (2026-01-19). Phenomenal Binding and Holism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-binding-and-holism/
