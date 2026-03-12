@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address empirical vacuity in valence-as-selection-currency.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the formal selection law (lines 53-57) produces predictions indistinguishable from standard reward models. The article acknowledges this but does not resolve it. Either develop a discriminating experimental protocol or explicitly reframe the selection law as philosophical framework rather than empirical hypothesis. See pessimistic-2026-03-12.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-12
+
+### P2: Qualify 10 bits/s claims in resolution-bandwidth-interface.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the article treats the ~10 bits/s figure as a precise architectural constant despite significant measurement uncertainty. Acknowledge methodological caveats from Zheng & Meister, discuss what range of values would/wouldn't support the argument, address whether this is a ceiling or typical operating point. See pessimistic-2026-03-12.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-12
+
 ### P2: Deep review living-with-the-map.md
 - **Type**: deep-review
 - **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. The "Living with the Map" apex is the site's practical synthesis — how the Map's framework shapes daily life and decision-making. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
