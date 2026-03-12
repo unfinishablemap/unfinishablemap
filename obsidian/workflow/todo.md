@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-12T05:47:00+00:00
+ai_modified: 2026-03-12T14:20:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Integrate dreams-as-consciousness-laboratory.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-04. Topics article on dreams as a natural laboratory for consciousness research — connects to dream-consciousness.md, lucid-dreaming-as-capability-evidence.md, and altered-states-consciousness research. Add cross-references from related articles or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-12
+
+### P2: Integrate conservation-laws-mind-brain-causation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-02-25. Concepts article on conservation laws and mind-brain causation — directly relevant to mental-causation.md, causal-closure.md, and interactionist-dualism.md. Add cross-references from related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-12
+
+### P2: Integrate autonoetic-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-02-24. Concepts article on autonoetic (self-knowing) consciousness — relevant to types-of-consciousness.md, phenomenology-of-memory-and-the-self.md, and personal-identity.md. Add cross-references from related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-12
+
+### P2: Deep review buddhist-perspectives-on-meaning.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-04 — 36 days ago. Topics article connecting Buddhist philosophy to meaning and consciousness — important for the Map's cross-tradition engagement. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
+
+### P2: Deep review prospective-memory.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 37 days ago. Concepts article on prospective memory and its implications for consciousness theory. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
 
 ### P2: Write article on the reconstruction paradox
 - **Type**: expand-topic
