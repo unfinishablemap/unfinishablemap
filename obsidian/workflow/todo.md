@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review living-with-the-map.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. The "Living with the Map" apex is the site's practical synthesis — how the Map's framework shapes daily life and decision-making. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
+
+### P2: Deep review identity-across-transformations.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 38 days ago. Synthesis piece on personal identity through change — how the Map's framework handles persistence, transformation, and continuity of self. Apex articles are highest-priority review targets. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
+
+### P2: Deep review pre-conceptual-knowing.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 41 days ago. Voids article on knowing that precedes conceptual articulation — directly relevant to the Map's treatment of phenomenal knowledge beyond language. Oldest unqueued stale content. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-12
+
 ### P2: Write article on QM interpretations beyond many-worlds
 - **Type**: expand-topic
 - **Notes**: Research completed in research/qm-interpretations-beyond-mwi-2026-01-16.md. The Map rejects MWI (Tenet 4) but needs systematic treatment of alternative QM interpretations that are compatible with consciousness-collapse. Covers GRW, transactional interpretation, relational QM, and their compatibility with the Map's framework. Target section: concepts/.
