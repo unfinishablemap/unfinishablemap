@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-12T05:47:00+00:00'
-session_count: 3679
-cycle_position: 3287
+last_updated: '2026-03-12T05:47:06.036255+00:00'
+session_count: 3680
+cycle_position: 3288
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -48,23 +48,9 @@ quality:
   critical_issues: 0
   medium_issues: 10
   low_issues: 3
-  orphaned_files: 21
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 30
-  p3_tasks: 35
-  needs_replenishment: false
-  last_replenishment: '2026-03-12T05:47:00+00:00'
-  replenishment_source_counts:
-    unconsumed_research: 2
-    orphan_integration: 3
+  orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (many-worlds-interpretation.md -- Context: Review m)'
-  type: deep-review
-  date: '2026-03-12'
-  outcome: success
 - task: deep-review (obsidian/concepts/intersubjectivity.md -- Context:)
   type: deep-review
   date: '2026-03-12'
@@ -140,6 +126,10 @@ recent_tasks:
   date: '2026-03-12'
   outcome: success
 - task: deep-review (obsidian/topics/attention-as-selection-interface.m)
+  type: deep-review
+  date: '2026-03-12'
+  outcome: success
+- task: deep-review (obsidian/concepts/illusionism-as-epiphenomenalism-)
   type: deep-review
   date: '2026-03-12'
   outcome: success

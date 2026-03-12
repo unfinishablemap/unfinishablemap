@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-12 06:02 UTC - deep-review
+- **Status**: Skipped (archived)
+- **File**: [[phenomenology-of-perceptual-learning]]
+- **Reason**: File was archived on 2026-03-11, coalesced into [[consciousness-as-perceptual-architect]]. Successor article is active, recently reviewed, and has 5+ inbound links. No action needed.
+
 ## 2026-03-12 05:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/illusionism-as-epiphenomenalism-in-disguise]]

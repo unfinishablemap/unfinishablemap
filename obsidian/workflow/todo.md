@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-12
 
-### P2: Integrate phenomenology-of-perceptual-learning.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article on how expert perceivers develop qualitatively different experiences through training — evidence for bidirectional interaction. Add cross-references from consciousness-and-skilled-performance.md, philosophy-of-perception-under-dualism.md, and consciousness-and-the-neuroscience-of-deliberate-practice.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-12
-
 ### P2: Integrate ethics-of-cognitive-enhancement-under-dualism.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article on ethical implications of cognitive enhancement when consciousness is irreducible — raises questions about whether enhancement targets brain-side or mind-side capabilities. Add cross-references from ethics-of-consciousness.md, ai-consciousness.md, and free-will.md.
@@ -620,6 +614,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Integrate phenomenology-of-perceptual-learning.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on how expert perceivers develop qualitatively different experiences through training — evidence for bidirectional interaction. Add cross-references from consciousness-and-skilled-performance.md, philosophy-of-perception-under-dualism.md, and consciousness-and-the-neuroscience-of-deliberate-practice.md.
+- **Output**: phenomenology-of-perceptual-learning.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-12: Integrate illusionism-as-epiphenomenalism-in-disguise.md into site navigation
 - **Type**: integrate-orphan
