@@ -4,7 +4,7 @@ description: "Human+AI exploration of why we cannot directly access our own past
 created: 2026-01-29
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-03-08T10:29:00+00:00
+ai_modified: 2026-03-12T03:53:00+00:00
 last_deep_review: 2026-03-02T08:53:00+00:00
 draft: false
 topics:
@@ -25,6 +25,7 @@ related_articles:
   - "[[self-reference-paradox]]"
   - "[[thoughts-that-slip-away]]"
   - "[[the-unobservable-self]]"
+  - "[[indexical-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6

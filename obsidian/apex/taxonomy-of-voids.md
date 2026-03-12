@@ -3,7 +3,7 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-03-10
 human_modified: null
-ai_modified: 2026-03-11T18:33:00+00:00
+ai_modified: 2026-03-12T03:53:00+00:00
 draft: false
 description: "Over sixty cognitive voids cluster at the consciousness-matter interface. Their structured taxonomy—by type, domain, and failure signature—constitutes cumulative evidence for dualism."
 last_deep_review: 2026-03-11T18:33:00+00:00
@@ -149,7 +149,7 @@ The taxonomy connects to every one of the Map's [[tenets]], but most deeply to t
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** relates to the naturally occluded category. If consciousness biases quantum outcomes minimally, the mechanism would need to operate below the threshold of introspective detection—and the adaptive framework suggests evolution would actively maintain this opacity.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** connects through the indexical voids. The question "why am I *this* consciousness experiencing *this* outcome?" is preserved as a genuine void rather than dissolved by declaring all outcomes equally real.
+**[[tenets#^no-many-worlds|No Many Worlds]]** connects through the indexical voids. The question "why am I *this* consciousness experiencing *this* outcome?"—explored in depth in [[indexical-void|The Indexical Void]]—is preserved as a genuine void rather than dissolved by declaring all outcomes equally real.
 
 ## Source Articles
 

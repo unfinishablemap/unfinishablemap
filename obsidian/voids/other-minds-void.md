@@ -4,7 +4,7 @@ description: "Each consciousness is sealed within itself, able to infer but neve
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-02T12:52:00+00:00
+ai_modified: 2026-03-12T03:53:00+00:00
 draft: false
 last_deep_review: 2026-03-02T00:52:00+00:00
 topics:
@@ -25,6 +25,7 @@ related_articles:
   - "[[historical-consciousness-void]]"
   - "[[past-self-void]]"
   - "[[calibration-void]]"
+  - "[[indexical-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -132,7 +133,7 @@ The other minds void connects directly to the Map's [[tenets|foundational commit
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** offers a speculative explanation. If consciousness interfaces with physics through quantum processes local to each brain, the isolation of consciousnesses may reflect this locality. Highly speculative, but it would explain why neural connection (as with the Hogan twins) might enable sharing otherwise impossible.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** intensifies the indexical dimension. I know I exist because I experience existing; I cannot have the same certainty about you. "Why am I *this* consciousness rather than that one?" has no answer but feels profoundly meaningful—indexical questions that many-worlds interpretations struggle to accommodate.
+**[[tenets#^no-many-worlds|No Many Worlds]]** intensifies the indexical dimension. I know I exist because I experience existing; I cannot have the same certainty about you. "Why am I *this* consciousness rather than that one?" has no answer but feels profoundly meaningful—the [[indexical-void]] marks this as a genuine cognitive boundary. These indexical questions are ones that many-worlds interpretations struggle to accommodate.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** is illustrated by solipsism's persistence. The simpler hypothesis—that I alone am conscious—cannot be definitively ruled out despite being practically absurd. Evidence for other minds, however overwhelming, remains logically indirect. Parsimony doesn't guarantee truth when evidence is structurally limited.
 
@@ -158,6 +159,7 @@ This is not uncomfortable compromise but honest assessment. Certainty about exte
 - [[calibration-void]] — Why even direct self-access cannot verify its own accuracy
 - [[mysterianism]] — McGinn's analysis of structural cognitive closure
 - [[consciousness-and-the-metaphysics-of-individuation]] — What draws the boundaries between discrete conscious subjects
+- [[indexical-void]] — Why first-person identity resists explanation
 
 ## References
 

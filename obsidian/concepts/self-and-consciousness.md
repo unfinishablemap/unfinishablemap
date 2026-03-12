@@ -4,7 +4,7 @@ description: "The minimal self is not added to consciousness but is its very for
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-02T12:52:00+00:00
+ai_modified: 2026-03-12T03:53:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,6 +30,7 @@ related_articles:
   - "[[eastern-philosophy-consciousness]]"
   - "[[self-consciousness-philosophy-2026-01-15]]"
   - "[[ownership-void]]"
+  - "[[indexical-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate indexical-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Voids article on the indexical void — the irreducibility of this-ness in conscious experience. Add cross-references from related articles such as indexical-identity.md, process-haecceitism.md, and taxonomy-of-voids.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-12
-
 ### P2: Integrate indexical-knowledge-and-identity.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Concept page on indexical knowledge and identity — how first-person knowledge resists third-person reduction. Add cross-references from indexical-identity.md, knowledge-argument.md, and acquaintance-knowledge.md.
@@ -614,6 +608,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-12: Integrate indexical-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Voids article on the indexical void — the irreducibility of this-ness in conscious experience. Add cross-references from related articles such as indexical-identity.md, process-haecceitism.md, and taxonomy-of-voids.md.
+- **Output**: obsidian/voids/indexical-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-12: Review dream-consciousness.md considering hypnagogic phenomenology insights
 - **Type**: cross-review
