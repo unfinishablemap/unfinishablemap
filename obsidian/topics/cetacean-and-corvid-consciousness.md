@@ -4,7 +4,8 @@ description: "Dolphins and corvids evolved sophisticated cognition independently
 created: 2026-03-13
 modified: 2026-03-13
 human_modified:
-ai_modified: 2026-03-13T02:19:00+00:00
+ai_modified: 2026-03-13T07:20:00+00:00
+last_deep_review: 2026-03-13T07:20:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -51,7 +52,7 @@ The [[baseline-cognition|baseline cognition]] hypothesis predicts a specific pat
 
 The mirror self-recognition (MSR) test provides a behavioural marker—imperfect but informative—of self-awareness. Beyond great apes, bottlenose dolphins pass MSR convincingly, using mirrors to inspect marked body parts they cannot otherwise see (Reiss & Marino 2001). Among birds, Eurasian magpies (*Pica pica*) pass MSR using sticker-removal paradigms (Prior et al. 2008), the first non-mammalian species demonstrated to do so.
 
-MSR matters for the amplification hypothesis because self-recognition plausibly requires representing oneself *as* an object of perception—a form of metarepresentation. If MSR reflects genuine self-awareness rather than learned behavioural contingency, it suggests these species possess at least rudimentary metacognitive capacity.
+MSR matters for the amplification hypothesis because self-recognition plausibly requires representing oneself *as* an object of perception—a form of metarepresentation. The interpretation remains contested: some researchers argue MSR reflects learned behavioural contingency rather than genuine self-awareness, and cleaner fish (*Labroides dimidiatus*) pass modified MSR tests despite lacking the cognitive complexity expected of self-aware species (Kohda et al. 2019). However, the convergent appearance of MSR specifically in lineages that also show other consciousness-linked capacities—tool culture, prospection, social cognition—is difficult to explain if MSR is merely learned contingency. The co-occurrence pattern, not MSR alone, supports the metarepresentation interpretation.
 
 ### Tool Use and Manufacture
 
@@ -66,6 +67,8 @@ Dolphins show tool use too—bottlenose dolphins in Shark Bay carry marine spong
 The Bischof-Köhler hypothesis—that animals cannot act on drive states they don't currently experience—is a key prediction of limited consciousness. Corvids challenge it directly.
 
 Western scrub-jays (*Aphelocoma californica*) cache food for future consumption, adjusting caching strategy based on what food will be available at the retrieval site and what they expect to want later (Correia et al. 2007). They also re-cache food if observed by potential pilferers, suggesting they represent others' knowledge states and anticipate future theft—so-called "experience projection," where their own pilfering experience informs anti-pilfering strategy (Clayton et al. 2007). This capacity requires representing a future state of affairs, another agent's knowledge, and a counterfactual scenario simultaneously.
+
+This creates a productive tension for the amplification framework. If corvids with small brains and presumably narrower conscious access can achieve prospective cognition, either corvid consciousness is richer than their brain size suggests, or prospection admits of degrees—with corvid cache planning representing a more limited form than human extended mental time travel. The amplification framework predicts the latter: corvids possess enough conscious access to represent near-future states and specific agents' knowledge, but not enough to support the open-ended counterfactual simulation that characterises human planning. The [[#degrees-of-amplification|gradient evidence]] (discussed below) supports this interpretation.
 
 Dolphins display planning in cooperative hunting, where pods coordinate complex herding manoeuvres requiring role assignment, timing, and adaptation to prey behaviour—capacities consistent with shared intentionality and anticipatory cognition.
 
@@ -87,7 +90,7 @@ If consciousness amplifies cognition, convergent evolution predicts exactly this
 
 The alternative—that these capacities arise from neural complexity alone without conscious contribution—must explain why the same cluster of capacities (self-recognition, tool culture, prospection, social cognition) keeps co-occurring across independent lineages. If consciousness is epiphenomenal, this convergence is coincidental. If consciousness amplifies, it is predicted.
 
-## Degrees of Amplification
+## Degrees of Amplification {#degrees-of-amplification}
 
 The most informative aspect of cetacean and corvid cognition is not that they match human capacities—they don't—but that they occupy intermediate positions on the amplification spectrum.
 
@@ -95,10 +98,12 @@ The most informative aspect of cetacean and corvid cognition is not that they ma
 |----------|-----------|---------|-----------|--------|
 | Mirror self-recognition | Yes | Some species | Dolphins | Yes |
 | Tool use | Yes | Manufacture + culture | Limited | Yes |
-| Cumulative culture | No | Possibly limited | No clear evidence | Yes |
+| Cumulative culture | Contested | Possibly limited | No clear evidence | Yes |
 | Prospective cognition | Limited | Cache planning | Cooperative hunting | Extensive |
 | Recursive mindreading | Level 1-2 | Level 1-2 | Level 1-2 | Level 3+ |
 | Logical reasoning | Associative | Some rule-learning | Unknown | Rule-based |
+
+Whether great apes possess limited cumulative culture remains debated—some researchers argue for modest ratcheting in chimpanzee tool traditions, though the evidence is weaker than for human cumulative culture.
 
 This gradient matters. If consciousness were binary—present or absent—we'd expect a sharp boundary between species with amplified capacities and those without. Instead, we observe a spectrum consistent with consciousness admitting of degrees, kinds, or varying interface bandwidth. Corvids may possess a form of metarepresentation that enables tool culture without supporting the full recursive mindreading that human consciousness enables. Dolphins may have self-awareness sufficient for mirror recognition without the declarative metacognition that supports cumulative culture.
 
@@ -142,7 +147,7 @@ Several findings would weaken the convergent amplification argument:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The selective convergence of consciousness-linked capacities (but not all cognitive capacities) supports causal efficacy. If consciousness were epiphenomenal, there would be no reason for specifically consciousness-dependent capacities to converge while baseline capacities vary freely across lineages.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Corvid cache protection—hiding food based on what a specific competitor observed at a specific moment—requires determinate facts about past events and specific individuals. The behaviour presupposes that there is a fact of the matter about what happened, not a superposition of all possible observation histories.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The convergent evolution of consciousness-as-amplifier across three lineages strengthens the case against many-worlds. If consciousness genuinely selects among neural possibilities—producing *this* action rather than *that* one—then selection is doing real causal work. Many-worlds eliminates selection by actualising all outcomes across branches, reducing the felt experience of choosing to a branch-relative illusion. But the systematic convergence of selection-dependent capacities (prospection, deliberate tool modification, strategic deception) across independent lineages is difficult to explain if conscious selection is illusory. The pattern suggests consciousness genuinely narrows possibilities rather than merely accompanying branch-relative outcomes.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The convergent pattern could in principle be explained by neural computation alone. But this explanation must account for *why* the same cluster of capacities—self-recognition, prospection, social cognition, tool culture—keeps co-emerging. The amplification hypothesis provides a unifying explanation; the neural complexity alternative requires independent explanations for each convergent capacity.
 
@@ -155,6 +160,7 @@ Several findings would weaken the convergent amplification argument:
 - [[amplification-void]] — Why the amplification chain resists observation
 - [[cumulative-culture]] — The ratchet effect and its dependence on metarepresentation
 - [[evolution-of-consciousness]] — When and where consciousness emerged
+- [[consciousness-in-simple-organisms]] — Where consciousness begins in the phylogenetic tree
 
 ### Apex Synthesis
 - [[minds-without-words]] — Non-linguistic consciousness across species
@@ -165,6 +171,7 @@ Several findings would weaken the convergent amplification argument:
 1. Clayton, N.S., Dally, J.M. & Emery, N.J. (2007). Social cognition by food-caching corvids: The western scrub-jay as a natural psychologist. *Philosophical Transactions of the Royal Society B*, 362(1480), 507-522.
 1. Correia, S.P.C., Dickinson, A. & Clayton, N.S. (2007). Western scrub-jays anticipate future needs independently of their current motivational state. *Current Biology*, 17(10), 856-861.
 1. Herman, L.M. (2010). What laboratory research has told us about dolphin cognition. *International Journal of Comparative Psychology*, 23(3), 310-330.
+1. Kohda, M., Hotta, T., Takeyama, T., Awata, S., Tanaka, H., Asai, J. & Jordan, A.L. (2019). If a fish can pass the mark test, what are the implications for consciousness and self-awareness testing in animals? *PLOS Biology*, 17(2), e3000021.
 1. Hunt, G.R. (1996). Manufacture and use of hook-tools by New Caledonian crows. *Nature*, 379, 249-251.
 1. Hunt, G.R. & Gray, R.D. (2003). Diversification and cumulative evolution in New Caledonian crow tool manufacture. *Proceedings of the Royal Society B*, 270(1517), 867-874.
 1. Janik, V.M., Sayigh, L.S. & Wells, R.S. (2006). Signature whistle shape conveys identity information to bottlenose dolphins. *Proceedings of the National Academy of Sciences*, 103(21), 8293-8297.
