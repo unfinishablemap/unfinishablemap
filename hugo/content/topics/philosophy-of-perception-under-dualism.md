@@ -33,7 +33,7 @@ related_articles:
 - '[[phenomenal-acquaintance]]'
 - '[[surprise-prediction-error-and-consciousness]]'
 - '[[conscious-vs-unconscious-processing]]'
-- '[[perceptual-degradation-and-the-interface]]'
+- '[[perceptual-failure-and-the-interface]]'
 - '[[reconstruction-paradox]]'
 title: Philosophy of Perception Under Dualism
 topics:
@@ -63,7 +63,7 @@ Dualism changes the terrain. If consciousness is ontologically distinct from the
 
 The [explanatory-gap](/concepts/explanatory-gap/) is sharpest at perception. We can trace the causal chain from photons reflecting off a surface, through retinal transduction, lateral geniculate processing, and cortical computation (Palmer, 1999). At each step, the physical description is in principle complete: wavelengths, firing rates, activation patterns. Yet somewhere in this chain, the redness of red appears—the physical description never entails the phenomenal quality (Nagel, 1974).
 
-This is the [hard problem](/topics/hard-problem-of-consciousness/) applied to perception specifically, and it is where the hard problem is most vivid. The [blur paradox](/topics/perceptual-fidelity-and-the-interface/) sharpens this further: when perception degrades, the phenomenal properties that emerge—the texture of blur, the softness of haziness—have no home in the external physical scene, exposing the explanatory gap in concrete sensory experience. Degradation does not merely reduce information; it generates novel phenomenal qualities. [Perceptual degradation research](/topics/perceptual-degradation-and-the-interface/) reveals a graded, bandwidth-like decline rather than a binary threshold—suggesting a transmission channel between physical processing and conscious experience whose architecture becomes visible precisely when it falters.
+This is the [hard problem](/topics/hard-problem-of-consciousness/) applied to perception specifically, and it is where the hard problem is most vivid. The [blur paradox](/topics/perceptual-failure-and-the-interface/) sharpens this further: when perception degrades, the phenomenal properties that emerge—the texture of blur, the softness of haziness—have no home in the external physical scene, exposing the explanatory gap in concrete sensory experience. Degradation does not merely reduce information; it generates novel phenomenal qualities. [Perceptual degradation research](/topics/perceptual-failure-and-the-interface/) reveals a graded, bandwidth-like decline rather than a binary threshold—suggesting a transmission channel between physical processing and conscious experience whose architecture becomes visible precisely when it falters.
 
 Perception provides the clearest cases of [qualia](/concepts/qualia/)—the redness of red, the loudness of a sound, the warmth of a surface—and these are the paradigm examples of what physical description leaves out. The [knowledge-argument](/concepts/knowledge-argument/) crystallises this: a neuroscientist who knows everything about colour processing but has never seen red still learns something when she finally sees it (Jackson, 1982).
 
@@ -149,7 +149,7 @@ The Unfinishable Map's [tenets](/tenets/) reshape the philosophy of perception i
 - [binding-problem](/concepts/binding-problem/)
 - [phenomenal-transparency](/concepts/phenomenal-transparency/)
 - [perception-and-conscious-experience](/topics/perception-and-conscious-experience/)
-- [perceptual-degradation-and-the-interface](/topics/perceptual-degradation-and-the-interface/)
+- [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)
 - [reconstruction-paradox](/voids/reconstruction-paradox/)
 - [filter-theory](/concepts/filter-theory/)
 

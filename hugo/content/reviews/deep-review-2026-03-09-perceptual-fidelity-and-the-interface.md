@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-09
-**Article**: [Perceptual Fidelity and the Interface — The Blur Paradox](/topics/perceptual-fidelity-and-the-interface/)
+**Article**: [Perceptual Fidelity and the Interface — The Blur Paradox](/topics/perceptual-failure-and-the-interface/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

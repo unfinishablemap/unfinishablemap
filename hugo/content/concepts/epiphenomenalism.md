@@ -149,7 +149,7 @@ The Map's [agent-causation](/concepts/agent-causation/) framework strengthens th
 
 ### From Interactionism (the Map)
 
-Consciousness does cause things—but at the quantum level, where its influence is indistinguishable from randomness and doesn't violate physical law. The self-stultification problem shows consciousness must be causally connected to our reports; quantum mechanics shows where such connection could occur.
+Consciousness does cause things—but at the quantum level, where its influence satisfies [observational-closure](/concepts/observational-closure/) (indistinguishable from randomness in aggregate) and doesn't violate physical law. The self-stultification problem shows consciousness must be causally connected to our reports; quantum mechanics shows where such connection could occur.
 
 ### From Identity Theory
 

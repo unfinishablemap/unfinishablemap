@@ -233,6 +233,7 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The broadcasting account of conscious access
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The position the amplification evidence contradicts
 - [interactionist-dualism](/concepts/interactionist-dualism/) — How consciousness influences brain states
+- [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/) — Convergent test: dolphins and corvids independently evolved amplification-linked capacities
 
 ## References
 

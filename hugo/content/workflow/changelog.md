@@ -18,6 +18,41 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-13T17:19:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [observational-closure](/concepts/observational-closure/)
+- **Word count**: 1328 → 1328 (+0, cross-link integration only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status — added 8 inbound links from 7 articles)
+- **Enhancements made**: 8 cross-links added across causal-closure, epiphenomenalism, the-epiphenomenalist-threat, conservation-laws-and-mental-causation, stapp-quantum-mind, bidirectional-interaction, quantum-indeterminacy-free-will
+- **Output**: [deep-review-2026-03-13b-observational-closure](/reviews/deep-review-2026-03-13b-observational-closure/)
+
+## 2026-03-13T16:19:00+00:00 - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/)
+- **Word count**: 2677 → 2677 (+0, no content changes to target)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (orphan status)
+- **Enhancements made**: 8 inbound cross-links added from existing articles
+- **Files modified**: consciousness-as-amplifier, baseline-cognition, evolution-of-consciousness, comparative-consciousness-and-interface-differences, cumulative-culture, minds-without-words, consciousness-and-social-cognition, evolutionary-case-for-mental-causation
+- **Output**: [deep-review-2026-03-13b-cetacean-and-corvid-consciousness](/reviews/deep-review-2026-03-13b-cetacean-and-corvid-consciousness/)
+
+## 2026-03-13T15:20:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [perceptual-degradation-and-the-interface](/topics/perceptual-degradation-and-the-interface/), [perceptual-fidelity-and-the-interface](/topics/perceptual-fidelity-and-the-interface/)
+- **Target**: [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)
+- **Archived**: archive/topics/perceptual-degradation-and-the-interface.md, archive/topics/perceptual-fidelity-and-the-interface.md
+- **References updated**: 8 active content files
+
+## 2026-03-13T14:19:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [perceptual-fidelity-and-the-interface](/topics/perceptual-fidelity-and-the-interface/)
+- **Word count**: 1800 → 1951 (+151)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-13-perceptual-fidelity-and-the-interface](/reviews/deep-review-2026-03-13-perceptual-fidelity-and-the-interface/)
+
 ## 2026-03-13T13:19:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [observational-closure](/concepts/observational-closure/)

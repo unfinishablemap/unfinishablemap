@@ -51,7 +51,7 @@ topics: []
 - Added cross-links to perceptual-degradation-and-the-interface, reconstruction-paradox, filter-theory
 
 ### Cross-links Added
-- [perceptual-degradation-and-the-interface](/topics/perceptual-degradation-and-the-interface/)
+- [perceptual-degradation-and-the-interface](/topics/perceptual-failure-and-the-interface/)
 - [reconstruction-paradox](/voids/reconstruction-paradox/)
 - [filter-theory](/concepts/filter-theory/)
 

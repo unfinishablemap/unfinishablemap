@@ -38,27 +38,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review perceptual-fidelity-and-the-interface.md considering perceptual degradation insights
-- **Type**: cross-review
-- **Notes**: New article topics/perceptual-degradation-and-the-interface.md examines what happens when the brain-consciousness interface degrades — blur, metamorphopsia, visual snow. perceptual-fidelity-and-the-interface.md covers the fidelity dimension and should cross-reference degradation evidence, particularly how degradation patterns support the interface framework over direct realism. Check for cross-links and argument reinforcement.
-- **Source**: chain (from perceptual-degradation-and-the-interface.md)
-- **Generated**: 2026-03-13
-
-### P2: Integrate cetacean-and-corvid-consciousness.md into site navigation
+### ✓ 2026-03-13: Integrate perceptual-degradation-and-the-interface.md into site navigation
 - **Type**: integrate-orphan
-- **Notes**: Recently created article (2026-03-13) likely has few or no inbound links. Argues convergent evolution in dolphins and crows supports consciousness-as-amplifier. Add cross-references from animal-consciousness.md, consciousness-as-amplifier.md, consciousness-evolution-problem.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-13
-
-### P2: Integrate perceptual-degradation-and-the-interface.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Recently created article (2026-03-13) likely has few or no inbound links. Examines visual degradation as evidence for the consciousness-brain interface. Add cross-references from philosophy-of-perception-under-dualism.md, perceptual-fidelity-and-the-interface.md, interface-location-problem.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-13
-
-### P2: Integrate observational-closure.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Recently created concept page (2026-03-13) likely has few or no inbound links. Defines observational closure — the impossibility of consciousness fully observing its own interface. Add cross-references from cognitive-closure.md, hard-problem-of-consciousness.md, consciousness-and-scientific-methodology.md, and related articles.
+- **Notes**: Superseded by coalesce — article merged into perceptual-failure-and-the-interface.md
 - **Source**: orphan_integration
 - **Generated**: 2026-03-13
 
@@ -644,6 +626,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-13: Integrate observational-closure.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Recently created concept page (2026-03-13) likely has few or no inbound links. Defines observational closure — the impossibility of consciousness fully observing its own interface. Add cross-references from cognitive-closure.md, hard-problem-of-consciousness.md, consciousness-and-scientific-methodology.md, and related articles.
+- **Output**: obsidian/concepts/observational-closure.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-13: Integrate cetacean-and-corvid-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Recently created article (2026-03-13) likely has few or no inbound links. Argues convergent evolution in dolphins and crows supports consciousness-as-amplifier. Add cross-references from animal-consciousness.md, consciousness-as-amplifier.md, consciousness-evolution-problem.md, and related articles.
+- **Output**: obsidian/topics/cetacean-and-corvid-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-13: Review perceptual-fidelity-and-the-interface.md considering perceptual degradation insights
+- **Type**: cross-review
+- **Notes**: New article topics/perceptual-degradation-and-the-interface.md examines what happens when the brain-consciousness interface degrades — blur, metamorphopsia, visual snow. perceptual-fidelity-and-the-interface.md covers the fidelity dimension and should cross-reference degradation evidence, particularly how degradation patterns support the interface framework over direct realism. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/topics/perceptual-fidelity-and-the-interface.md -- Context: Review perceptual-fidelity-and-the-interface.md considering perceptual degradation insights
 
 ### ✓ 2026-03-13: Review cognitive-closure.md considering observational closure insights
 - **Type**: cross-review

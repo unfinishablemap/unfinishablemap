@@ -216,6 +216,7 @@ Several findings would constrain the nature-vs-coupling question:
 
 ### Core Topics
 - [animal-consciousness](/topics/animal-consciousness/) — Survey of consciousness across species and the inference question
+- [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/) — Dolphins and corvids as convergent test cases for amplification across different neural architectures
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — Minimal neural requirements and the distribution problem
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When and how consciousness emerged
 

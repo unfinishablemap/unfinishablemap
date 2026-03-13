@@ -129,6 +129,8 @@ The cumulative culture hypothesis generates testable predictions:
 
 **Absence despite opportunity**: If cumulative culture merely required sufficient cognitive resources, great apes in enriched environments with extensive human interaction should show it. They don't. Despite decades of language training and tool use instruction, no ape population has achieved cumulative culture. The missing ingredient isn't opportunity or general intelligence but the metarepresentational capacity that consciousness provides.
 
+**Corvid tool culture as potential challenge**: New Caledonian crows manufacture tools with regional variation and possibly cumulative refinement—see [the convergent amplification analysis](/topics/cetacean-and-corvid-consciousness/). Whether corvid tool designs genuinely accumulate innovations across generations or are individually rediscovered remains debated, making this a critical test case for the metarepresentation requirement.
+
 ## The Evolutionary Argument
 
 Cumulative culture strengthens the evolutionary argument for conscious causation. If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—causally inert—cumulative culture should be achievable through neural complexity alone. Great apes, with brains only slightly smaller than early human ancestors, should show at least proto-cumulative culture. They don't.
@@ -209,6 +211,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enhances cognitive capacity
 - [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/) — Consciousness and the social cognition that cultural transmission requires
 - [animal-consciousness](/topics/animal-consciousness/) — The great ape comparison in depth
+- [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/) — Corvid tool culture and dolphin cognition as convergent test cases
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — Why consciousness evolved
 - [working-memory](/concepts/working-memory/) — The capacity constraints on metarepresentation
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment and its implications for cumulative culture

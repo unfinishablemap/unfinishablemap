@@ -268,6 +268,7 @@ The baseline cognition hypothesis could be undermined by:
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Tulving's tripartite hierarchy of consciousness levels underlying the baseline/human distinction
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's causal structure for how consciousness amplifies without overdetermination
 - [causal-delegation](/concepts/causal-delegation/) — The mechanism by which physical states hand off causal work to experiences
+- [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/) — Convergent evidence: dolphins and corvids as intermediate cases on the amplification spectrum
 - [consciousness-independent-baseline-cognition-2026-01-21](/research/consciousness-independent-baseline-cognition-2026-01-21/) — Research notes underlying this article
 
 ### Apex Synthesis

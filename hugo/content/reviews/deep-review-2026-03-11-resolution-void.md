@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 - Missing cross-link to [grain-mismatch](/concepts/grain-mismatch/) concept page (created since article was written): Added
-- Missing cross-links to [temporal-consciousness](/concepts/temporal-consciousness/), [perceptual-fidelity-and-the-interface](/topics/perceptual-fidelity-and-the-interface/), [attention-as-interface](/concepts/attention-as-interface/), [continuity-void](/voids/continuity-void/): Added throughout body and Further Reading
+- Missing cross-links to [temporal-consciousness](/concepts/temporal-consciousness/), [perceptual-fidelity-and-the-interface](/topics/perceptual-failure-and-the-interface/), [attention-as-interface](/concepts/attention-as-interface/), [continuity-void](/voids/continuity-void/): Added throughout body and Further Reading
 - Description at 119 chars, below 150-160 target: Extended to 157 chars
 - No Many Worlds tenet not addressed in Relation to Site Perspective (other voids cover all five): Added section
 
@@ -49,7 +49,7 @@ topics: []
 - Added [grain-mismatch](/concepts/grain-mismatch/) cross-link in body text where Sellars' argument is discussed
 - Added [attention-as-interface](/concepts/attention-as-interface/) cross-link in bandwidth section
 - Added [temporal-consciousness](/concepts/temporal-consciousness/) cross-link in temporal frames section
-- Added [perceptual-fidelity-and-the-interface](/topics/perceptual-fidelity-and-the-interface/) cross-link in phenomenology section
+- Added [perceptual-fidelity-and-the-interface](/topics/perceptual-failure-and-the-interface/) cross-link in phenomenology section
 - Added No Many Worlds tenet section in Relation to Site Perspective
 - Expanded Further Reading with 5 additional entries: continuity-void, grain-mismatch, temporal-consciousness, perceptual-fidelity-and-the-interface, attention-as-interface
 - Added continuity-void, grain-mismatch, attention-as-interface to frontmatter related_articles
@@ -59,7 +59,7 @@ topics: []
 - [grain-mismatch](/concepts/grain-mismatch/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [temporal-consciousness](/concepts/temporal-consciousness/)
-- [perceptual-fidelity-and-the-interface](/topics/perceptual-fidelity-and-the-interface/)
+- [perceptual-fidelity-and-the-interface](/topics/perceptual-failure-and-the-interface/)
 - [continuity-void](/voids/continuity-void/)
 
 ## Remaining Items

@@ -23,6 +23,7 @@ concepts:
 - '[[preemption]]'
 - '[[quantum-indeterminacy-free-will]]'
 - '[[conservation-laws-and-mental-causation]]'
+- '[[observational-closure]]'
 created: 2026-01-14
 date: &id001 2026-02-15
 description: 'Causal closure claims every physical event has sufficient physical cause.
@@ -99,7 +100,7 @@ Finding the right formulation—strong enough to exclude dualist mental causatio
 
 ### Observational vs Universal Closure
 
-Bradford Saad (2025) identifies a crucial distinction that weakens the causal closure objection: *universal* closure is stronger than what physics actually supports.
+Bradford Saad (2025) identifies a crucial distinction—[observational-closure](/concepts/observational-closure/)—that weakens the causal closure objection: *universal* closure is stronger than what physics actually supports.
 
 **Universal closure**: Every physical event has a sufficient physical cause. No exceptions anywhere—in laboratories, in brains, in galaxies, everywhere. This is the metaphysical thesis that [interactionist-dualism](/concepts/interactionist-dualism/) denies.
 
@@ -109,7 +110,7 @@ Universal closure entails observational closure, but not vice versa. Physics mig
 
 #### How Mental Causation Satisfies Observational Closure
 
-Mental causation avoids observable violations through converging strategies: *statistical invisibility* (consciousness influences particular quantum outcomes while aggregate statistics match Born-rule predictions—see [Stapp's quantum Zeno framework](/concepts/stapp-quantum-mind/)); *causal profile matching* (Saad's [delegatory-dualism](/topics/delegatory-dualism/) where experiences preempt physical causes while producing identical effects); and *domain specificity* (consciousness operates only at quantum measurement outcomes, where physics predicts distributions but not individual results—see [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)).
+Mental causation avoids observable violations—satisfying [observational-closure](/concepts/observational-closure/)—through converging strategies: *statistical invisibility* (consciousness influences particular quantum outcomes while aggregate statistics match Born-rule predictions—see [Stapp's quantum Zeno framework](/concepts/stapp-quantum-mind/)); *causal profile matching* (Saad's [delegatory-dualism](/topics/delegatory-dualism/) where experiences preempt physical causes while producing identical effects); and *domain specificity* (consciousness operates only at quantum measurement outcomes, where physics predicts distributions but not individual results—see [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)).
 
 #### Objections to the Observational/Universal Distinction
 
@@ -119,7 +120,7 @@ Mental causation avoids observable violations through converging strategies: *st
 
 **"This seems designed to avoid refutation"**: Many well-confirmed theories delineate domains similarly. Conservation of energy applies where energy is definable; general relativity predicts within spacetime, not "before" it. Observational closure specifies domains, not evasion.
 
-The upshot: dualists need only respect observational closure, not universal closure. [Saad's delegatory framework](/topics/delegatory-dualism/) develops this further: experiences *[preempt](/concepts/preemption/)* rather than overdetermine physical causation. (Note that [cognitive closure](/concepts/mysterianism/)—McGinn's epistemic thesis—is distinct from observational closure, though cognitively closed properties at the consciousness-physics interface may render violations undetectable.)
+The upshot: dualists need only respect [observational-closure](/concepts/observational-closure/), not universal closure. [Saad's delegatory framework](/topics/delegatory-dualism/) develops this further: experiences *[preempt](/concepts/preemption/)* rather than overdetermine physical causation. (Note that [cognitive closure](/concepts/mysterianism/)—McGinn's epistemic thesis—is distinct from observational closure, though cognitively closed properties at the consciousness-physics interface may render violations undetectable.)
 
 ### Empirical Status
 
@@ -208,6 +209,7 @@ This is not "god of the gaps" reasoning. Physics *describes* a gap—between qua
 ## Further Reading
 
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why the energy conservation objection fails; selection-not-injection framework and precedents for causation without energy transfer
+- [observational-closure](/concepts/observational-closure/) — Why the empirical evidence supports only observational, not universal, closure
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's framework avoiding overdetermination through preemption
 - [luck-objection](/concepts/luck-objection/) — The challenge that undetermined choices are merely random; consciousness-as-selector response
 - [mysterianism](/concepts/mysterianism/) — Why the mechanism of mind-matter interaction may exceed human comprehension
