@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-13T02:19:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Cetacean and Corvid Consciousness as Amplification Test Cases
+- **Output**: [[topics/cetacean-and-corvid-consciousness]]
+- **Word count**: 2406
+- **Based on research**: No (draws on existing articles: consciousness-as-amplifier, baseline-cognition, animal-consciousness)
+
 ## 2026-03-13T01:19:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/perceptual-degradation-and-the-interface]]

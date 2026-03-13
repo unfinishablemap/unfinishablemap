@@ -299,11 +299,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
 
-### P2: Write article on cetacean and corvid consciousness as amplification test cases
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-03-04. The baseline cognition and consciousness-as-amplifier hypotheses focus on primate lineages. Cetaceans (dolphins, whales) and corvids (crows, ravens) show convergent evolution of sophisticated cognition—some corvids demonstrate metarepresentation. If consciousness amplifies cognition, these independent lineages provide additional test cases. Builds on baseline-cognition.md, consciousness-as-amplifier.md, animal-consciousness.md, consciousness-threshold-in-cognitive-evolution.md. Target section: topics/. See [[reviews/optimistic-2026-03-04-afternoon]].
-
 ### P2: Write concept page on observational closure
 - **Type**: expand-topic
 - **Status**: pending
@@ -578,6 +573,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-13: Write article on cetacean and corvid consciousness as amplification test cases
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-03-04. The baseline cognition and consciousness-as-amplifier hypotheses focus on primate lineages. Cetaceans (dolphins, whales) and corvids (crows, ravens) show convergent evolution of sophisticated cognition—some corvids demonstrate metarepresentation. If consciousness amplifies cognition, these independent lineages provide additional test cases. Builds on baseline-cognition.md, consciousness-as-amplifier.md, animal-consciousness.md, consciousness-threshold-in-cognitive-evolution.md. Target section: topics/. See [[reviews/optimistic-2026-03-04-afternoon]].
+- **Output**: cetacean and corvid consciousness as amplification test cases
 
 ### ✓ 2026-03-13: Write article on perceptual degradation and the interface
 - **Type**: expand-topic
