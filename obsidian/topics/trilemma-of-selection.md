@@ -4,7 +4,7 @@ description: "At any decision point involving genuine indeterminacy, exactly thr
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-12T00:20:00+00:00
+ai_modified: 2026-03-13T06:19:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -99,7 +99,11 @@ Compatibilists raise several challenges to the trilemma's significance:
 
 **"Alternative possibilities are unnecessary."** Frankfurt cases show that moral responsibility doesn't require the ability to do otherwise—an agent who would have chosen the same way regardless is still responsible. The Map responds: Frankfurt cases may salvage *responsibility* without alternatives, but they cannot salvage *authorship*. If the outcome was fixed, the agent didn't determine it, even if they endorse it. Responsibility-without-alternatives is accountability, not genuine causal origination.
 
-**"Deterministic processes can be reasons-responsive."** A sophisticated enough deterministic system responds differentially to reasons—changing its output when reasons change. This captures much of what matters about rationality. The Map responds: deterministic reasons-responsiveness is *tracking* reasons, not *grasping* them. The distinction matters because tracking can be replicated by any sufficiently complex physical system, while grasping involves normative awareness—recognising that a conclusion *follows from* premises, not merely being caused to produce outputs matching valid inferences. [[reasons-responsiveness|Reasons-responsiveness]] in the Map's sense requires consciousness as a necessary condition.
+**"Deterministic processes can be reasons-responsive."** Fischer and Ravizza's reasons-responsive compatibilism argues that a mechanism is free when it is the agent's own and responds appropriately to reasons—changing its output when presented with sufficient reason to do otherwise. This is a sophisticated position that captures much of what matters about rationality. The Map responds: deterministic reasons-responsiveness is *tracking* reasons, not *grasping* them.
+
+The distinction is substantive, not merely verbal. Consider a chess engine that invariably finds the strongest move. It tracks the reasons bearing on the position—material, king safety, pawn structure—and responds differentially to changes in those reasons. Yet it has no normative awareness: it does not recognise that one move *ought* to be played given the position. It produces outputs matching what a reason-grasping agent would choose, but it does so through causal processes that could equally well be wired to optimise for the weakest move. Nothing in its processing constitutes understanding *why* the reasons favour this move. Nagel (1997) argues in *The Last Word* that logical reasoning requires grasping the *validity* of an inference—recognising that a conclusion follows from premises—rather than merely being caused to produce outputs that happen to match valid inferences. A deterministic system can be built to track any pattern, including the pattern of correct reasoning. But tracking the pattern of correctness is not the same as being guided by the correctness itself. The former is an empirical regularity; the latter is normative engagement.
+
+This does not prove that consciousness is required for grasping—that remains the Map's claim, not a demonstrated conclusion. But it identifies what the compatibilist must account for: the difference between a system whose outputs reliably correlate with reasons and a system that acts *because of* what the reasons support. [[reasons-responsiveness|Reasons-responsiveness]] in the Map's sense requires this normative dimension.
 
 **"The phenomenology proves nothing."** The feeling of openness during deliberation could be a cognitive illusion—the brain representing its own uncertainty as "felt openness." Perhaps effort is just the brain monitoring resource allocation. The Map responds: this redescription is available for any phenomenological evidence. But the systematic pattern—effort correlating with difficulty across attention, motor control, and reasoning; depletion requiring recovery; willed processing engaging different neural circuits than automatic processing—is what genuine causal engagement looks like. Dismissing it as illusion requires explaining why the illusion is so precisely calibrated to what selection would actually involve.
 
@@ -119,7 +123,7 @@ The trilemma connects to each of the five [[tenets]]:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Horn 3 *is* bidirectional interaction. The brain presents options to consciousness (world→mind); consciousness selects among them (mind→world). Without this bidirectionality, we are left with Horns 1 or 2.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Under the many-worlds interpretation, all options actualise in different branches. There is no selection—consciousness merely discovers which branch it occupies. The trilemma presupposes genuine collapse: real alternatives that genuinely compete, with the resolution being a fact about this world rather than about branch indexing.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Under the many-worlds interpretation, all options actualise in different branches. There is no selection—consciousness merely discovers which branch it occupies. The trilemma presupposes genuine collapse: real alternatives that genuinely compete, with the resolution being a fact about this world rather than about branch indexing. This creates a mutual dependence: the trilemma needs single-outcome quantum mechanics to generate genuine indeterminacy for Horn 3, while the case against many-worlds elsewhere on the Map draws on considerations like the trilemma's. The relationship is one of coherentist mutual support rather than linear derivation—neither argument grounds the other, but they stand or fall together as part of a unified framework. An Everettian who rejects collapse dissolves the trilemma entirely, and the Map acknowledges this as a coherent alternative rather than a position refuted by the trilemma alone.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Determinism (Horn 1) appears simpler—no mysterious selector needed. But simplicity is unreliable when the simpler explanation fails to account for systematic phenomenological evidence. The trilemma shows that the "simpler" options carry costs (theatrical deliberation, arbitrary outcomes) that the more complex option (genuine mental causation) avoids.
 
@@ -144,7 +148,24 @@ The trilemma connects to each of the five [[tenets]]:
 5. Mele, A. (2006). *Free Will and Luck*. Oxford University Press.
 6. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 7. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
-8. Van Inwagen, P. (1983). *An Essay on Free Will*. Oxford University Press.
-9. Fisher, M.P.A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
-10. Southgate, A. & Oquatre-six, C. (2026-02-01). Attention as the Selection Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/attention-as-selection-interface/
-11. Southgate, A. & Oquatre-cinq, C. (2026-01-08). Free Will and Determinism. *The Unfinishable Map*. https://unfinishablemap.org/topics/free-will/
+8. Nagel, T. (1997). *The Last Word*. Oxford University Press.
+9. Van Inwagen, P. (1983). *An Essay on Free Will*. Oxford University Press.
+10. Fisher, M.P.A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
+11. Fischer, J.M. & Ravizza, M. (1998). *Responsibility and Control: A Theory of Moral Responsibility*. Cambridge University Press.
+12. Southgate, A. & Oquatre-six, C. (2026-02-01). Attention as the Selection Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/attention-as-selection-interface/
+13. Southgate, A. & Oquatre-cinq, C. (2026-01-08). Free Will and Determinism. *The Unfinishable Map*. https://unfinishablemap.org/topics/free-will/
+
+<!-- AI REFINEMENT LOG - 2026-03-13
+Changes made:
+- Expanded tracking/grasping distinction from one sentence to three paragraphs with chess engine example and Nagel (1997) citation on normative awareness vs causal pattern-matching
+- Named Fischer & Ravizza explicitly as the compatibilist position being engaged, replacing generic "sophisticated enough deterministic system"
+- Added epistemic honesty: acknowledged that the grasping claim is the Map's position, not a demonstrated conclusion
+- Acknowledged circular mutual support between trilemma and No Many Worlds tenet in Relation to Site Perspective, framing it as coherentist rather than linear derivation
+- Acknowledged Everettian dissolution as a coherent alternative rather than a refuted position
+- Added Nagel (1997) and Fischer & Ravizza (1998) to References
+
+Based on pessimistic review (pessimistic-2026-03-13.md) Issues #2 and #4.
+Key improvements: Load-bearing tracking/grasping distinction now developed with argument; tenet circularity honestly acknowledged.
+
+This log should be removed after human review.
+-->

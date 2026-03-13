@@ -55,13 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-11
 
-### P2: Develop tracking/grasping distinction in trilemma-of-selection.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the tracking-vs-grasping reasons distinction is load-bearing but introduced without argument. Develop with specific examples or cite relevant literature. Also acknowledge circularity with tenets. See pessimistic-2026-03-13.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-13
-
 ### P2: Strengthen equivocation response in emergence-as-universal-hard-problem.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -618,6 +611,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-13: Develop tracking/grasping distinction in trilemma-of-selection.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the tracking-vs-grasping reasons distinction is load-bearing but introduced without argument. Develop with specific examples or cite relevant literature. Also acknowledge circularity with tenets. See pessimistic-2026-03-13.md
+- **Output**: obsidian/topics/trilemma-of-selection.md
+
+Task context:
+Pessimistic review found the tracking-vs-grasping reasons distinction is load-bearing but introduced without argument. Develop with specific examples or cite relevant literature. Also acknowledge circularity with tenets. See pessimistic-2026-03-13.md
 
 ### ✓ 2026-03-13: Strengthen unity argument in ethics-and-value-in-a-dualist-world.md
 - **Type**: refine-draft
