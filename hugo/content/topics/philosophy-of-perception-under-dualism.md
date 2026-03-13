@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-03-10 16:09:00+00:00
+ai_modified: 2026-03-13 09:20:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: How dualism reshapes the philosophy of perception—from the nature
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-20 15:06:00+00:00
+last_deep_review: 2026-03-13 09:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,6 +33,8 @@ related_articles:
 - '[[phenomenal-acquaintance]]'
 - '[[surprise-prediction-error-and-consciousness]]'
 - '[[conscious-vs-unconscious-processing]]'
+- '[[perceptual-degradation-and-the-interface]]'
+- '[[reconstruction-paradox]]'
 title: Philosophy of Perception Under Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -61,7 +63,9 @@ Dualism changes the terrain. If consciousness is ontologically distinct from the
 
 The [explanatory-gap](/concepts/explanatory-gap/) is sharpest at perception. We can trace the causal chain from photons reflecting off a surface, through retinal transduction, lateral geniculate processing, and cortical computation (Palmer, 1999). At each step, the physical description is in principle complete: wavelengths, firing rates, activation patterns. Yet somewhere in this chain, the redness of red appears—the physical description never entails the phenomenal quality (Nagel, 1974).
 
-This is the [hard problem](/topics/hard-problem-of-consciousness/) applied to perception specifically, and it is where the hard problem is most vivid. The [blur paradox](/topics/perceptual-fidelity-and-the-interface/) sharpens this further: when perception degrades, the phenomenal properties that emerge—the texture of blur, the softness of haziness—have no home in the external physical scene, exposing the explanatory gap in concrete sensory experience. Perception provides the clearest cases of [qualia](/concepts/qualia/)—the redness of red, the loudness of a sound, the warmth of a surface—and these are the paradigm examples of what physical description leaves out. The [knowledge-argument](/concepts/knowledge-argument/) crystallises this: a neuroscientist who knows everything about colour processing but has never seen red still learns something when she finally sees it (Jackson, 1982).
+This is the [hard problem](/topics/hard-problem-of-consciousness/) applied to perception specifically, and it is where the hard problem is most vivid. The [blur paradox](/topics/perceptual-fidelity-and-the-interface/) sharpens this further: when perception degrades, the phenomenal properties that emerge—the texture of blur, the softness of haziness—have no home in the external physical scene, exposing the explanatory gap in concrete sensory experience. Degradation does not merely reduce information; it generates novel phenomenal qualities. [Perceptual degradation research](/topics/perceptual-degradation-and-the-interface/) reveals a graded, bandwidth-like decline rather than a binary threshold—suggesting a transmission channel between physical processing and conscious experience whose architecture becomes visible precisely when it falters.
+
+Perception provides the clearest cases of [qualia](/concepts/qualia/)—the redness of red, the loudness of a sound, the warmth of a surface—and these are the paradigm examples of what physical description leaves out. The [knowledge-argument](/concepts/knowledge-argument/) crystallises this: a neuroscientist who knows everything about colour processing but has never seen red still learns something when she finally sees it (Jackson, 1982).
 
 A physicalist can acknowledge the explanatory gap while insisting it is merely epistemic—a gap in our understanding, not in reality. The dualist holds that the gap is ontological: phenomenal qualities are genuinely distinct from the physical properties that occasion them. If this is correct, then no completed neuroscience of vision will explain why red looks the way it does, because the explanation requires crossing into a domain that neuroscience does not describe.
 
@@ -82,6 +86,8 @@ Under physicalism, the conscious subject is typically treated as the endpoint of
 The Map's [bidirectional interaction](/tenets/#bidirectional-interaction) tenet opens a different possibility. If consciousness causally influences physical processes, then perception is not a one-way street. Consciousness may actively shape what is perceived—not in the sense of hallucinating or distorting, but in the sense of selecting, organising, and constituting the perceptual field.
 
 This aligns with [perceptual constancy](/topics/consciousness-as-perceptual-architect/). A white wall looks white under candlelight and fluorescent light despite radically different wavelength compositions reaching the eye. Neuroscience explains much of this through adaptation, gain control, and cortical normalisation (Palmer, 1999), but the constancy as *experienced*—the seamless stability of the perceived world—goes beyond what these mechanisms predict. If consciousness contributes to maintaining this experiential stability—selecting the stable distal interpretation over the fluctuating proximal stimulus—then perception involves [downward-causation](/concepts/downward-causation/) from consciousness to neural processing.
+
+The strongest evidence for this participatory model comes from what happens when perception breaks down. Eigengrau—the dark grey perceived in complete darkness—and phosphenes show the interface generating phenomenal content independently of sensory input. Charles Bonnet hallucinations in visual loss produce detailed imagery when the transmission channel narrows. The [reconstruction-paradox](/voids/reconstruction-paradox/) reveals that the brain operates in two distinct modes: editing some signals (filling the blind spot, suppressing saccadic blur) while faithfully transmitting others (optical blur, tinnitus). Both modes produce qualitatively distinct experiences, implying a conscious recipient whose experience is being shaped—precisely the active participant that dualism predicts.
 
 The [attentional selection](/topics/attention-as-selection-interface/) framework extends this further. Attention determines which sensory signals reach consciousness and in what form. If attention is the interface where consciousness selects among competing neural representations, then the content of perception is partly determined by consciousness itself. The perceiver is not a passive screen on which the world projects images but an active participant in constituting what appears.
 
@@ -143,6 +149,9 @@ The Unfinishable Map's [tenets](/tenets/) reshape the philosophy of perception i
 - [binding-problem](/concepts/binding-problem/)
 - [phenomenal-transparency](/concepts/phenomenal-transparency/)
 - [perception-and-conscious-experience](/topics/perception-and-conscious-experience/)
+- [perceptual-degradation-and-the-interface](/topics/perceptual-degradation-and-the-interface/)
+- [reconstruction-paradox](/voids/reconstruction-paradox/)
+- [filter-theory](/concepts/filter-theory/)
 
 ## References
 

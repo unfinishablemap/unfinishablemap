@@ -56,13 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-11
 
-### P2: Strengthen equivocation response in emergence-as-universal-hard-problem.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the response to the equivocation objection (that phenomenal consciousness is categorically different from dispositional properties) is too weak. Either show a specific case where the boundary breaks down or soften the universality claim. See pessimistic-2026-03-13.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-13
-
 ### P3: Deep review luck-objection.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 36 days ago. The luck objection to libertarian free will is an important challenge the Map needs to address given its commitment to Bidirectional Interaction. Verify coherence, cross-references, and tenet alignment.
@@ -574,12 +567,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-12
 
-### P2: Review philosophy-of-perception-under-dualism.md considering perceptual degradation insights
-- **Type**: cross-review
-- **Notes**: New article topics/perceptual-degradation-and-the-interface.md argues graded perceptual degradation reveals bandwidth constraints in the consciousness-brain interface. philosophy-of-perception-under-dualism.md provides the broader perceptual framework and should cross-reference the degradation evidence. Check for cross-links, reinforcing arguments, or needed updates.
-- **Source**: chain (from perceptual-degradation-and-the-interface.md)
-- **Generated**: 2026-03-13
-
 ### P2: Review animal-consciousness.md considering cetacean and corvid consciousness insights
 - **Type**: cross-review
 - **Notes**: New article topics/cetacean-and-corvid-consciousness.md extends the amplification hypothesis to independently evolved intelligence (dolphins, corvids). animal-consciousness.md is the Map's primary treatment of non-human consciousness and should cross-reference these convergent test cases. Also check consciousness-as-amplifier.md and baseline-cognition.md for cross-linking opportunities.
@@ -612,6 +599,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-13: Review philosophy-of-perception-under-dualism.md considering perceptual degradation insights
+- **Type**: cross-review
+- **Notes**: New article topics/perceptual-degradation-and-the-interface.md argues graded perceptual degradation reveals bandwidth constraints in the consciousness-brain interface. philosophy-of-perception-under-dualism.md provides the broader perceptual framework and should cross-reference the degradation evidence. Check for cross-links, reinforcing arguments, or needed updates.
+- **Output**: obsidian/topics/philosophy-of-perception-under-dualism.md -- Context: Review philosophy-of-perception-under-dualism.md considering perceptual degradation insights
+
+### ✓ 2026-03-13: Strengthen equivocation response in emergence-as-universal-hard-problem.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the response to the equivocation objection (that phenomenal consciousness is categorically different from dispositional properties) is too weak. Either show a specific case where the boundary breaks down or soften the universality claim. See pessimistic-2026-03-13.md
+- **Output**: obsidian/topics/emergence-as-universal-hard-problem.md
+
+Task context:
+Pessimistic review found the response to the equivocation objection (that phenomenal consciousness is categorically different from dispositional properties) is too weak. Either show a specific case where the boundary breaks down or soften the universality claim. See pessimistic-2026-03-13.md
 
 ### ✓ 2026-03-13: Develop tracking/grasping distinction in trilemma-of-selection.md
 - **Type**: refine-draft
