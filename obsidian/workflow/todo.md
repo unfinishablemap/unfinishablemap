@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review animal-consciousness.md considering cetacean and corvid consciousness insights
-- **Type**: cross-review
-- **Notes**: New article topics/cetacean-and-corvid-consciousness.md examines convergent evolution of consciousness in dolphins and crows as evidence for consciousness-as-amplifier. animal-consciousness.md is the Map's central treatment of non-human consciousness and should cross-reference the new convergent evolution evidence, particularly how phylogenetically distant species developing similar cognitive capacities supports the amplifier framework. Check for cross-links and argument reinforcement.
-- **Source**: chain (from cetacean-and-corvid-consciousness.md)
-- **Generated**: 2026-03-13
-
 ### P2: Review cognitive-closure.md considering observational closure insights
 - **Type**: cross-review
 - **Notes**: New concept page concepts/observational-closure.md provides dedicated treatment of how consciousness cannot fully observe its own interface with the physical. cognitive-closure.md covers broader cognitive limitations and should cross-reference observational closure as a specific instance. Check for complementary arguments, consistent terminology, and cross-links.
@@ -655,6 +649,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-13: Review animal-consciousness.md considering cetacean and corvid consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/cetacean-and-corvid-consciousness.md examines convergent evolution of consciousness in dolphins and crows as evidence for consciousness-as-amplifier. animal-consciousness.md is the Map's central treatment of non-human consciousness and should cross-reference the new convergent evolution evidence, particularly how phylogenetically distant species developing similar cognitive capacities supports the amplifier framework. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/topics/animal-consciousness.md -- Context: Review animal-consciousness.md considering cetacean and corvid consciousness insights
 
 ### ✓ 2026-03-13: Review philosophy-of-perception-under-dualism.md considering perceptual degradation insights
 - **Type**: cross-review
