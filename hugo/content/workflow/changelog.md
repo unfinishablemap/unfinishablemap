@@ -18,6 +18,47 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-13T01:19:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [perceptual-degradation-and-the-interface](/topics/perceptual-degradation-and-the-interface/)
+- **Word count**: 1542 → 1974 (+432)
+- **Critical issues addressed**: 2 (uncited empirical claims, ghost references)
+- **Medium issues addressed**: 3 (neural network objection, gradation argument qualification, Occam's Razor tenet)
+- **Enhancements made**: 3 (cross-links, IIT acknowledgment, new counterargument section)
+- **Output**: [deep-review-2026-03-13-perceptual-degradation-and-the-interface](/reviews/deep-review-2026-03-13-perceptual-degradation-and-the-interface/)
+
+## 2026-03-13T00:20:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Perceptual degradation and the interface
+- **Output**: [perceptual-degradation-and-the-interface](/topics/perceptual-degradation-and-the-interface/)
+- **Word count**: 1542
+- **Based on research**: yes — [perceptual-degradation-interface-blur-2026-03-09](/research/perceptual-degradation-interface-blur-2026-03-09/)
+
+## 2026-03-12T23:19:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [reconstruction-paradox](/voids/reconstruction-paradox/)
+- **Word count**: 1419 → 1638 (+219)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-03-12-reconstruction-paradox](/reviews/deep-review-2026-03-12-reconstruction-paradox/)
+
+## 2026-03-12 22:47 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (sessions 3559 to 3703)
+- **Findings**: 1 cadence (validate-all still missing), 0 failure, 1 queue (P2 collapse 33→2), 3 review patterns (empirical overclaiming, quantum speculation, valence vacuity), 1 convergence (caps still exceeded)
+- **Tier 1 changes**: 0 applied (no adjustable parameters)
+- **Tier 2 recommendations**: 8 (2 critical, 2 high, 4 medium — all carried forward)
+- **Output**: [system-tune-2026-03-12](/reviews/system-tune-2026-03-12/)
+
+## 2026-03-12 22:25 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 423
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 12
+- **Output**: [tenet-check-2026-03-12](/reviews/tenet-check-2026-03-12/)
+
 ## 2026-03-12 22:19 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Reconstruction Paradox

@@ -1,5 +1,6 @@
 ---
 ai_contribution: 100
+ai_generated_date: 2026-03-12
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-12
@@ -12,14 +13,14 @@ title: Tenet Alignment Check - 2026-03-12
 # Tenet Alignment Check
 
 **Date**: 2026-03-12
-**Files checked**: 420 (219 topics, 201 concepts)
+**Files checked**: 423 (223 topics, 200 concepts)
 **Errors**: 0
 **Warnings**: 0
-**Notes**: 9
+**Notes**: 12
 
 ## Summary
 
-All 420 content files across `topics/` and `concepts/` pass tenet alignment. No articles endorse or assume positions contrary to the five foundational tenets. Nine minor notes identify philosophical tensions that are acknowledged and properly handled within the articles themselves. The site's content is remarkably consistent in its adherence to interactionist dualism while engaging seriously with opposing positions.
+All 423 content files across `topics/` and `concepts/` pass tenet alignment. No articles endorse or assume positions contrary to the five foundational tenets. Twelve minor notes identify philosophical tensions that are acknowledged and properly handled within the articles themselves. The site's content is remarkably consistent in its adherence to interactionist dualism while engaging seriously with opposing positions.
 
 ## Errors
 
@@ -30,6 +31,24 @@ None.
 None.
 
 ## Notes
+
+### topics/ai-consciousness.md
+- **Tenet**: Bidirectional Interaction (Tenet 3)
+- **Issue**: Two passages list epiphenomenal consciousness as a live possibility for AI systems without flagging the tenet conflict.
+- **Quote**: "A conscious AI need not have human-like experience. Its consciousness might lack temporal flow, might be epiphenomenal—real experience with no causal power over the system's behaviour—or might differ along dimensions we have not yet imagined."
+- **Assessment**: The article calls epiphenomenalism "deeply problematic" but stops short of ruling it out for AI. Consider adding a note that the Map's rejection of epiphenomenalism is general, while acknowledging the epistemic difficulty of the AI case.
+
+### topics/analytic-idealism-and-mind-centric-metaphysics.md
+- **Tenet**: Dualism (Tenet 1)
+- **Issue**: Comparative preference for idealism over physicalism could create confusion about the Map's stance.
+- **Quote**: "The Map acknowledges that if forced to choose between idealism and physicalism, idealism would be the less wrong option."
+- **Assessment**: The passage immediately clarifies the Map's third-path position. However, idealism dissolves independent physical reality, which the Map requires for genuine bidirectional interaction. Consider briefly noting why even this comparative preference is heavily qualified.
+
+### topics/authentic-vs-inauthentic-choice.md
+- **Tenet**: Bidirectional Interaction (Tenet 3)
+- **Issue**: Language describing inauthentic choice echoes epiphenomenal framing.
+- **Quote**: "Inauthentic choice may not engage the selection function. When you follow scripts automatically, neural processing plausibly runs in a more deterministic mode, with consciousness merely accompanying rather than selecting."
+- **Assessment**: The phrase "consciousness merely accompanying rather than selecting" describes epiphenomenal-style passivity. Consider rewording to "consciousness operates at reduced engagement" or "automatic processing dominates" to avoid implying causal inertness.
 
 ### topics/consciousness-in-simple-organisms.md
 - **Tenet**: Dualism (Tenet 1)
@@ -78,7 +97,7 @@ None.
 
 ## Files Passing All Checks
 
-All 420 files pass. The 9 notes above identify minor tensions that are properly managed within the articles themselves and do not constitute violations.
+All 411 remaining files pass. The 12 notes above identify minor tensions that are properly managed within the articles themselves and do not constitute violations.
 
 ### Methodology
 
