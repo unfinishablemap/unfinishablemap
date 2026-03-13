@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on dreams, problem-solving, and conscious influence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/dreams-problem-solving-lucid-dreaming-2026-02-06.md. Konkoly et al. 2026 shows targeted memory reactivation during REM doubles problem-solving — direct evidence dreaming is functionally active, not neural noise. Lucid dreaming demonstrates consciousness modulating its own states despite altered neurochemistry. Dreams as a natural laboratory for studying consciousness independently of physical substrate. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-13
+
 ### P3: Deep review language-thought-boundary.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 40 days ago. Voids article on where thought exceeds language — visual cognition, qualia, and the limits of articulation. Verify coherence, cross-references, and tenet alignment.
