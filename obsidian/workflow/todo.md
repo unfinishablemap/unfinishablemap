@@ -578,12 +578,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-12
 
-### P2: Review causal-closure.md considering observational closure insights
-- **Type**: cross-review
-- **Notes**: New concept page concepts/observational-closure.md distinguishes universal from observational closure — the Map's central response to the causal closure objection. causal-closure.md is the primary treatment of the closure principle and should prominently cross-reference this distinction. Also check mental-causation.md and interactionist-dualism.md for cross-linking.
-- **Source**: chain (from observational-closure.md)
-- **Generated**: 2026-03-13
-
 ### P2: Integrate islamic-sufi-philosophy-of-consciousness.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Created 2026-03-08. Concept page on Islamic and Sufi philosophical perspectives on consciousness — relevant to eastern-philosophy-and-consciousness.md, the-hard-problem-in-non-western-philosophy.md, and contemplative-practice-as-philosophical-evidence.md. Add cross-references from related articles.
@@ -631,6 +625,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-13: Review causal-closure.md considering observational closure insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/observational-closure.md distinguishes universal from observational closure — the Map's central response to the causal closure objection. causal-closure.md is the primary treatment of the closure principle and should prominently cross-reference this distinction. Also check mental-causation.md and interactionist-dualism.md for cross-linking.
+- **Output**: obsidian/concepts/causal-closure.md -- Context: Review causal-closure.md considering observational closure insights
 
 ### ✓ 2026-03-13: Review animal-consciousness.md considering cetacean and corvid consciousness insights
 - **Type**: cross-review
