@@ -55,6 +55,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-11
 
+### P2: Strengthen unity argument in ethics-and-value-in-a-dualist-world.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the unity argument dismisses materialist unification attempts too quickly (one sentence each for Railton and Foot). Engage substantively with at least one materialist alternative. Also address Mackie's argument from queerness against phenomenal value realism. See pessimistic-2026-03-13.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-13
+
+### P2: Develop tracking/grasping distinction in trilemma-of-selection.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the tracking-vs-grasping reasons distinction is load-bearing but introduced without argument. Develop with specific examples or cite relevant literature. Also acknowledge circularity with tenets. See pessimistic-2026-03-13.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-13
+
+### P2: Strengthen equivocation response in emergence-as-universal-hard-problem.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the response to the equivocation objection (that phenomenal consciousness is categorically different from dispositional properties) is too weak. Either show a specific case where the boundary breaks down or soften the universality claim. See pessimistic-2026-03-13.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-13
+
 ### P3: Deep review luck-objection.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 36 days ago. The luck objection to libertarian free will is an important challenge the Map needs to address given its commitment to Bidirectional Interaction. Verify coherence, cross-references, and tenet alignment.
