@@ -4,7 +4,7 @@ description: "Our primary access to consciousness is contested. But critiques ta
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-08T10:29:00+00:00
+ai_modified: 2026-03-13T23:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -70,7 +70,7 @@ If introspection were fundamentally broken, no amount of practice should help. B
 
 Even granting this limitation, the finding suggests introspection resembles other trained observations. An untrained person cannot reliably identify bird species from song; an ornithologist can. We don't conclude bird song is unreliable data—we recognize that observation requires trained attention.
 
-[[neurophenomenology|Neurophenomenology]], developed by Francisco Varela, integrates trained first-person observation with third-person neuroscience. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] strengthens this case: when practitioners from Buddhist, Hindu, Christian, Sufi, and Daoist traditions—with different training protocols and different expected outcomes—converge on the same structural features of consciousness, the belief-convergence objection weakens considerably. Contemporary research increasingly treats trained meditators as an "ideal population" for phenomenological studies, with 2025 research describing a "renaissance of first-person methods" in consciousness science. [[phenomenological-psychiatry-and-altered-experience|Phenomenological psychiatry]]'s EASE instrument (Examination of Anomalous Self-Experience) exemplifies this integration — a validated clinical tool that systematically captures first-person reports of self-disturbance, demonstrating that rigorous first-person methods can produce replicable, predictive results.
+[[neurophenomenology|Neurophenomenology]], developed by Francisco Varela, integrates trained first-person observation with third-person neuroscience. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] strengthens this case: when practitioners from Buddhist, Hindu, Christian, [[islamic-sufi-philosophy-of-consciousness|Sufi]], and Daoist traditions—with different training protocols and different expected outcomes—converge on the same structural features of consciousness, the belief-convergence objection weakens considerably. Contemporary research increasingly treats trained meditators as an "ideal population" for phenomenological studies, with 2025 research describing a "renaissance of first-person methods" in consciousness science. [[phenomenological-psychiatry-and-altered-experience|Phenomenological psychiatry]]'s EASE instrument (Examination of Anomalous Self-Experience) exemplifies this integration — a validated clinical tool that systematically captures first-person reports of self-disturbance, demonstrating that rigorous first-person methods can produce replicable, predictive results.
 
 ## Microphenomenology: Rigorous First-Person Methods
 

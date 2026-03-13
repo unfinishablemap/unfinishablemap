@@ -4,7 +4,7 @@ description: "A metaphysical tradition treating reality as fundamentally dynamic
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-02-26T19:46:00+00:00
+ai_modified: 2026-03-13T23:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -114,7 +114,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet claims
 
 ## Tensions with the Map's Framework
 
-Process solutions to the interaction problem—including Whitehead's, Mulla Ṣadrā's, and Buddhist dependent origination—form one of [[interaction-solutions-across-traditions|five recurring structural types]] identified across philosophical traditions. Their power lies in dissolving the problem entirely rather than solving it within a dualist framework.
+Process solutions to the interaction problem—including Whitehead's, [[islamic-sufi-philosophy-of-consciousness|Mulla Ṣadrā's]], and Buddhist dependent origination—form one of [[interaction-solutions-across-traditions|five recurring structural types]] identified across philosophical traditions. Their power lies in dissolving the problem entirely rather than solving it within a dualist framework.
 
 Despite affinities, process philosophy sits uneasily with some of the Map's commitments:
 

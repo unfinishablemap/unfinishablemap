@@ -4,7 +4,7 @@ description: "Awareness that observes mental contents without identifying with t
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-06T14:41:00+00:00
+ai_modified: 2026-03-13T23:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -53,6 +53,10 @@ Buddhism's *anattā* (no-self) doctrine seems incompatible with an eternal witne
 Buddhism doesn't claim "consciousness is an illusion" (that would be eliminativism); it claims "the permanent self *owning* consciousness is an illusion." What [[self-and-consciousness|Zahavi calls]] the minimal self's "for-me-ness" may survive the no-self critique. See [[buddhism-and-dualism]] for detailed treatment.
 
 The witness concept appears with striking consistency across independent traditions—a pattern the [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] examines in detail, mapping where traditions converge on the witness's phenomenological structure while diverging on its metaphysical status.
+
+### Sufi Murāqaba: Watchful Awareness
+
+The [[islamic-sufi-philosophy-of-consciousness|Islamic Sufi tradition]] developed its own witness practice through *murāqaba* (watchful awareness)—sustained self-observation monitoring the arising and passing of mental states without intervention. The structural parallel to Buddhist *vipassanā* and Husserlian bracketing is striking. What emerges is the recognition of a witnessing dimension that is not itself any particular mental content. The Sufi concept of *fanā'* (annihilation of the ego-self) pushes further: practitioners report awareness continuing without the ordinary self-referential structure—awareness without an experiencer. Al-Junayd of Baghdad described this as the passing away of one's awareness of one's own attributes, not the cessation of awareness itself.
 
 ### Krishnamurti: Choiceless Awareness
 

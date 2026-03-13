@@ -4,7 +4,7 @@ description: "Cross-traditional contemplative practice functions as philosophica
 created: 2026-01-27
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-11T21:35:00+00:00
+ai_modified: 2026-03-13T23:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -56,7 +56,7 @@ coalesced_from:
   - "/topics/contemplative-methods-as-philosophical-methodology/"
 ---
 
-Contemplative practice — meditation, sustained introspective training, disciplined first-person inquiry — constitutes a distinct philosophical method that generates evidence about consciousness unavailable through other approaches. The Unfinishable Map argues that this evidence, drawn from cross-traditional convergence and corroborated by neuroimaging, eliminates epiphenomenalism and reductive materialism, and favours interactionist dualism over non-reductive physicalism. Buddhist vipassanā, Hindu dhyāna, Christian contemplative prayer, Sufi murāqaba, and secular mindfulness programs arose independently, carry opposed metaphysical commitments, and employ different techniques — yet practitioners across these traditions report strikingly similar findings about consciousness structure. Where traditions with incompatible doctrines discover the same phenomenological features, the most parsimonious explanation is that those features are real properties of experience rather than artefacts of any single tradition's training.
+Contemplative practice — meditation, sustained introspective training, disciplined first-person inquiry — constitutes a distinct philosophical method that generates evidence about consciousness unavailable through other approaches. The Unfinishable Map argues that this evidence, drawn from cross-traditional convergence and corroborated by neuroimaging, eliminates epiphenomenalism and reductive materialism, and favours interactionist dualism over non-reductive physicalism. Buddhist vipassanā, Hindu dhyāna, Christian contemplative prayer, [[islamic-sufi-philosophy-of-consciousness|Sufi murāqaba]], and secular mindfulness programs arose independently, carry opposed metaphysical commitments, and employ different techniques — yet practitioners across these traditions report strikingly similar findings about consciousness structure. Where traditions with incompatible doctrines discover the same phenomenological features, the most parsimonious explanation is that those features are real properties of experience rather than artefacts of any single tradition's training.
 
 The argument has two stages. First, contemplative practice must be established as methodologically legitimate — a genuine source of philosophical evidence rather than mere devotional or therapeutic exercise. Second, the convergent findings from this methodology create test cases that distinguish between theories of consciousness.
 
@@ -90,7 +90,7 @@ Every contemplative tradition discovers that the untrained mind is dominated by 
 
 ### 2. The Constructed Self
 
-Traditions diverge sharply on what the self ultimately *is*, yet converge on the observation that the ordinary sense of self is *constructed* — assembled from components rather than given as a fixed entity. Buddhist insight practice reveals *anattā*: the self dissolves under close observation into aggregates with no owner behind them. Advaita Vedānta reaches a different conclusion — behind the constructed personality lies *ātman*, pure awareness — but agrees that the everyday ego is a construction. Christian *kenosis* (self-emptying) and Sufi *fanāʾ* (annihilation of the self) describe parallel dissolutions. The convergence is structural: what feels like a unitary, stable self is a dynamic construction that sustained practice can deconstruct. The divergence is interpretive: what remains after deconstruction reflects each tradition's metaphysical commitments.
+Traditions diverge sharply on what the self ultimately *is*, yet converge on the observation that the ordinary sense of self is *constructed* — assembled from components rather than given as a fixed entity. Buddhist insight practice reveals *anattā*: the self dissolves under close observation into aggregates with no owner behind them. Advaita Vedānta reaches a different conclusion — behind the constructed personality lies *ātman*, pure awareness — but agrees that the everyday ego is a construction. Christian *kenosis* (self-emptying) and [[islamic-sufi-philosophy-of-consciousness|Sufi *fanāʾ*]] (annihilation of the self) describe parallel dissolutions. The convergence is structural: what feels like a unitary, stable self is a dynamic construction that sustained practice can deconstruct. The divergence is interpretive: what remains after deconstruction reflects each tradition's metaphysical commitments.
 
 ### 3. Attentional Trainability
 

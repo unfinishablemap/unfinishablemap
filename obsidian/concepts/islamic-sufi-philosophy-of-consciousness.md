@@ -4,7 +4,7 @@ description: "From Avicenna's Flying Man to Sufi phenomenology of fana, Islamic 
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-03-09T09:16:00+00:00
+ai_modified: 2026-03-13T23:30:00+00:00
 draft: false
 topics:
   - "[[the-hard-problem-in-non-western-philosophy]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-08
 last_curated:
-last_deep_review: 2026-03-09T09:16:00+00:00
+last_deep_review: 2026-03-13T23:30:00+00:00
 ---
 
 The Islamic philosophical tradition developed one of the most sustained pre-modern investigations of consciousness, spanning six centuries from Avicenna's proof that self-awareness is independent of the body to Mulla Sadra's processual account of the soul's transformation from material to immaterial existence. The Unfinishable Map has engaged individual Islamic thinkers elsewhere—Avicenna's Flying Man in the [[the-hard-problem-in-non-western-philosophy|hard problem survey]], Mulla Sadra's processual ontology in the [[interaction-problem-in-non-western-philosophy|interaction problem survey]]—but the tradition as a whole, and especially the Sufi contemplative dimension, deserves dedicated treatment.
@@ -69,7 +69,7 @@ The most distinctive contribution of the Sufi tradition to philosophy of conscio
 
 **Dhikr** (remembrance/invocation) is the primary contemplative method: sustained repetition of divine names or Qur'anic phrases, combined with controlled breathing and posture, induces progressive transformations of awareness. Practitioners report a characteristic sequence: initial effortful concentration gives way to automatic repetition, then to the dissolution of the distinction between the invoker and the invocation, and finally to [[altered-states-of-consciousness|altered states]] described as the complete cessation of ordinary self-referential consciousness.
 
-Al-Ghazālī's defence of this method is philosophically significant. In the *Iḥyā' 'Ulūm al-Dīn* (Revival of the Religious Sciences), he argues that knowing what intoxication is differs fundamentally from being intoxicated—a distinction that parallels the [[knowledge-argument|knowledge argument]] (Mary's Room) by seven centuries. The philosopher who analyses consciousness through rational categories alone is like someone who knows the medical definition of health without ever having been healthy. Contemplative practice provides a form of knowledge (*ma'rifa*, gnosis) irreducible to propositional knowledge (*'ilm*).
+Al-Ghazālī's defence of this method is philosophically significant. In the *Iḥyā' 'Ulūm al-Dīn* (Revival of the Religious Sciences), he argues that knowing what intoxication is differs fundamentally from being intoxicated—a distinction that parallels the [[knowledge-argument]] (Mary's Room) by seven centuries. The philosopher who analyses consciousness through rational categories alone is like someone who knows the medical definition of health without ever having been healthy. Contemplative practice provides a form of knowledge (*ma'rifa*, gnosis) irreducible to propositional knowledge (*'ilm*).
 
 **Murāqaba** (watchful awareness) is a practice of sustained [[introspection|self-observation]]: monitoring one's own mental states without intervention, attending to the arising and passing of thoughts, emotions, and perceptions. The structural parallel to Buddhist *vipassanā* and to Western phenomenological bracketing (*epochē*) is striking and has been noted by scholars of comparative contemplative traditions. What emerges is the recognition of a witnessing dimension of consciousness that is not itself any particular mental content—a discovery convergent with the [[witness-consciousness]] traditions across Hindu, Buddhist, and Christian contemplative lineages.
 
@@ -81,7 +81,7 @@ Fanā' is not the destruction of consciousness but the dissolution of its ordina
 
 This distinction matters philosophically. If fanā' eliminated consciousness altogether, it would be phenomenologically indistinguishable from dreamless sleep or anaesthesia. But practitioners consistently report it as a state of *heightened* awareness—awareness without an experiencer, cognition without a cogniser. The parallel to Buddhist descriptions of *nirodha-samāpatti* (cessation attainment) and to the Advaitic experience of *turīya* (the fourth state beyond waking, dreaming, and deep sleep) is notable.
 
-Baqā'—the state that follows fanā'—is described as consciousness continuing to function but without the ordinary sense of a separate self as its centre. The practitioner acts, perceives, and reasons, but without the habitual identification of awareness with a bounded ego. This raises the question the Map must take seriously: if the self-referential structure of consciousness can be dissolved while awareness persists, is the "self" that the Map's dualism posits identical with awareness itself, or is it a contingent structure within awareness?
+Baqā'—the state that follows fanā'—is described as consciousness continuing to function but without the ordinary sense of a separate self as its centre. The practitioner acts, perceives, and reasons, but without the habitual identification of awareness with a bounded ego. This raises the question the Map must take seriously: if the self-referential structure of consciousness can be dissolved while awareness persists, is the "self" that the Map's dualism posits identical with awareness itself, or is it a contingent structure within awareness? The Map's framework suggests the latter—the [[witness-consciousness|witness]] that persists through fanā' is the irreducible subject, while the ego-self that dissolves is a contingent construction. This aligns with Avicenna's Flying Man: what remains when all contingent content is stripped away is not nothing but self-aware existence.
 
 ## Ibn 'Arabī: The Unity of Being
 
@@ -114,6 +114,7 @@ The Map's productive tension with this tradition centres on Mulla Sadra and Ibn 
 - [[witness-consciousness]] — The witnessing dimension discovered across contemplative traditions
 - [[contemplative-practice-as-philosophical-evidence]] — First-person data as philosophical evidence and contemplative epistemic method
 - [[comparative-phenomenology-of-meditative-traditions]] — Structural parallels across Sufi, Buddhist, Hindu, and Christian practice
+- [[knowledge-argument]] — Mary's Room and the parallel with al-Ghazālī's contemplative epistemology
 - [[apophatic-approaches]] — Negative approaches to knowledge with roots in Islamic mysticism
 
 ## References
