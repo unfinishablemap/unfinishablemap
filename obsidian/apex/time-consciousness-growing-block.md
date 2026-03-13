@@ -4,15 +4,13 @@ description: "Consciousness requires temporal structure to exist. Time's arrow m
 created: 2026-02-01
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-02-24T12:29:00+00:00
-last_deep_review: 2026-02-02T04:04:00+00:00
+ai_modified: 2026-03-13T22:25:00+00:00
+last_deep_review: 2026-03-13T22:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
-  - "[[temporal-consciousness]]"
-  - "[[temporal-consciousness]]"
   - "[[temporal-consciousness]]"
   - "[[collapse-and-time]]"
   - "[[philosophy-of-time]]"
@@ -35,13 +33,12 @@ apex_sources:
   - concepts/temporal-consciousness
   - concepts/duration
   - concepts/collapse-and-time
-  - concepts/temporal-consciousness
   - concepts/philosophy-of-time
 apex_last_synthesis: 2026-02-24T00:20:00+00:00
 apex_thesis: "Consciousness and time have a bidirectional dependence: consciousness requires temporal structure to exist, while time's arrow may require consciousness-involving collapse to emerge—making them mutually constitutive rather than one containing the other."
 ---
 
-Consciousness and time depend on each other in ways that traditional philosophy has underexplored. One direction is familiar: consciousness requires temporal structure. Experience flows; moments connect; the present has duration. Without the specious present—the 100 to 750 milliseconds within which we hear melodies as melodies and understand sentences as wholes—there would be no experience at all. But The Unfinishable Map explores a more radical possibility: time may require consciousness. The arrow distinguishing past from future may emerge through consciousness-involving collapse rather than preceding it. If so, consciousness doesn't merely occur within time; it helps constitute the temporal structure within which it operates.
+Consciousness and time depend on each other in ways that traditional philosophy has underexplored. One direction is familiar: consciousness requires temporal structure. Experience flows; moments connect; the present has duration. Without the specious present—the roughly 300 to 750 milliseconds within which we hear melodies as melodies and understand sentences as wholes—there would be no experience at all. But The Unfinishable Map explores a more radical possibility: time may require consciousness. The arrow distinguishing past from future may emerge through consciousness-involving collapse rather than preceding it. If so, consciousness doesn't merely occur within time; it helps constitute the temporal structure within which it operates.
 
 This bidirectional dependence has implications that ripple outward. For AI: systems without appropriate temporal dynamics may be categorically excluded from consciousness, regardless of their computational sophistication. For the hard problem: consciousness becomes not just qualitatively different from physical processes but implicated in the framework within which physical processes occur. For free will: if consciousness participates in creating temporal direction, agents don't just act within time—they contribute to time's existence.
 
@@ -89,7 +86,7 @@ The resolution: the "future" participating in transactions is the space of quant
 
 The Libet experiments famously showed that neural "readiness potentials" precede conscious awareness of deciding by several hundred milliseconds. Later fMRI studies extended this gap to seconds. If neural activity comes first, how can consciousness cause it?
 
-Time-symmetric physics dissolves this objection. If consciousness's selection isn't located at a moment but determines which transaction completes across time, the neural activity "preceding" awareness is part of the selected package, not a prior cause. Consider the analogy: a mathematical function determines which curve appears on a graph without being located at any point on the graph. Similarly, consciousness's selection might determine which temporal sequence becomes actual without itself occurring at a time within that sequence.
+Time-symmetric physics dissolves this objection. [[retrocausality|Retrocausal]] selection isn't located at a moment but determines which transaction completes across time, so the neural activity "preceding" awareness is part of the selected package, not a prior cause. Consider the analogy: a mathematical function determines which curve appears on a graph without being located at any point on the graph. Similarly, consciousness's selection might determine which temporal sequence becomes actual without itself occurring at a time within that sequence.
 
 "Atemporal" here doesn't mean "outside time" as if time were a container consciousness somehow escapes. It means time is the product, not the precondition. Selection determines what the temporal ordering is rather than being constrained by an ordering that already exists.
 
@@ -99,7 +96,7 @@ This reconciles atemporality with irreversibility. Once a transaction completes�
 
 If consciousness constitutes temporal structure through collapse-involvement, what should this feel like from inside? The Map proposes: durée—Bergson's qualitative, flowing, interpenetrating time—is exactly what time-constitution feels like from within. We experience duration because we participate in creating duration.
 
-The specious present isn't a window onto pre-existing temporal structure. It may be the phenomenology of collapse-constitutive activity—the experiential signature of consciousness participating in time's creation. Husserl's retention-protention structure reflects the constraints that collapse satisfies: the past echoes because past collapses constrain current ones; the future is anticipated because expected future collapses influence present selection. The [[temporal-phenomenology-quantum-selection|temporal phenomenology of quantum selection]] develops this mapping in detail, proposing that retention, primal impression, and protention correspond to collapsed, collapsing, and uncollapsed quantum states—making the specious present a selection window rather than a passive observation window.
+The specious present isn't a window onto pre-existing temporal structure. It may be the phenomenology of collapse-constitutive activity—the experiential signature of consciousness participating in time's creation. Husserl's retention-protention structure reflects the constraints that collapse satisfies: the past echoes because past collapses constrain current ones; the future is anticipated because expected future collapses influence present selection. The [[temporal-consciousness|temporal consciousness analysis]] develops this mapping in detail, proposing that retention, primal impression, and protention correspond to collapsed, collapsing, and uncollapsed quantum states—making the specious present a selection window rather than a passive observation window.
 
 Multiple lines of evidence converge on the specious present as a phenomenal achievement rather than an automatic feature of neural processing. Advanced meditators report *nirodha samapatti*—complete cessation of temporal experience. Higher jhāna states show systematic variation: progressively "timeless" quality without loss of awareness. If the specious present reflects collapse-constitutive activity, reduced active selection should produce exactly this sequence. Dreamless NREM sleep offers a complementary datum: hours pass with no temporal experience at all—not compressed, not stretched, simply absent—despite ongoing neural computation. If consciousness were identical to brain activity, some temporal experience should persist. Its complete absence during dreamless sleep supports the framework's prediction that without consciousness-involving collapse, no temporal facts are constituted.
 
@@ -171,10 +168,9 @@ This synthesis draws from:
 - [[time-collapse-and-agency|Time, Collapse, and Agency]] — How collapse introduces temporal direction and enables agency
 - [[time-perception-consciousness-theories|Time Perception and Consciousness Theories]] — The gap between functional moments and experienced duration
 - [[time-symmetric-selection-mechanism|Time-Symmetric Selection Mechanism]] — How atemporal selection resolves the Libet problem
-- [[temporal-consciousness|Temporal Consciousness]] — The specious present, temporal binding, and AI implications
-- [[temporal-consciousness|Duration (Durée)]] — Bergson's qualitative time and its irreducibility
+- [[temporal-consciousness|Temporal Consciousness]] — The specious present, durée, temporal binding, temporal thickness, and AI implications
 - [[collapse-and-time|Collapse and Time]] — How quantum collapse may constitute time's arrow
-- [[temporal-consciousness|The Specious Present and Temporal Experience]] — The experienced duration of the present moment and the argument from temporal thickness
+- [[retrocausality|Retrocausality]] — Backward causation, transactional interpretation, and the Libet resolution
 - [[philosophy-of-time|Philosophy of Time]] — A-theory, B-theory, and the Map's growing block position
 
 ## References

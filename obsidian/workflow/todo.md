@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review time-consciousness-growing-block.md
-- **Type**: deep-review
-- **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 39 days ago. Apex articles are highest-priority review targets. Synthesis piece on bidirectional dependence between consciousness and temporal structure — central to the Map's temporal metaphysics. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-13
-
 ### P3: Deep review language-thought-boundary.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 40 days ago. Voids article on where thought exceeds language — visual cognition, qualia, and the limits of articulation. Verify coherence, cross-references, and tenet alignment.
@@ -655,6 +649,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-13: Deep review time-consciousness-growing-block.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 39 days ago. Apex articles are highest-priority review targets. Synthesis piece on bidirectional dependence between consciousness and temporal structure — central to the Map's temporal metaphysics. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/apex/time-consciousness-growing-block.md
 
 ### ✓ 2026-03-13: Review causal-closure.md considering observational closure insights
 - **Type**: cross-review
