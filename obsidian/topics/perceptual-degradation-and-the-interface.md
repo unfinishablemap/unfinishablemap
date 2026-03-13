@@ -4,7 +4,8 @@ description: "Patterns of perceptual degradation—graded loss, selective preser
 created: 2026-03-13
 modified: 2026-03-13
 human_modified:
-ai_modified: 2026-03-13T00:20:00+00:00
+ai_modified: 2026-03-13T01:19:00+00:00
+last_deep_review: 2026-03-13T01:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +39,7 @@ This article examines what those degradation patterns reveal. A companion piece,
 
 If consciousness merely *accessed* neural representations—reading them the way software reads from memory—then perceptual degradation should mirror neural degradation directly. Damage a brain region, lose the representations it encodes, and the corresponding experiences vanish cleanly. The loss should be categorical: colour vision gone or intact, motion perception present or absent, object recognition working or broken.
 
-This is not what happens. Perceptual degradation is overwhelmingly graded, partial, and compensated. Vision blurs before it disappears. Colour desaturates before it vanishes. Object recognition degrades through stages of increasing vagueness rather than switching off. Ian Phillips has argued that even blindsight—long treated as the paradigm case of unconscious perception—is better understood as "qualitatively degraded conscious vision" where subjects retain dim, impoverished experience but adopt conservative reporting criteria (Phillips, 2021).
+This is not what happens. Perceptual degradation is overwhelmingly graded, partial, and compensated. Vision blurs before it disappears. Colour desaturates before it vanishes. Object recognition degrades through stages of increasing vagueness rather than switching off. Ian Phillips has argued that even [[blindsight]]—long treated as the paradigm case of unconscious perception—is better understood as "qualitatively degraded conscious vision" where subjects retain dim, impoverished experience but adopt conservative reporting criteria (Phillips, 2021).
 
 These patterns suggest a different model: consciousness receives perceptual information through a *transmission channel* with finite bandwidth. When the channel degrades, information is progressively lost rather than categorically eliminated. The analogy is closer to a deteriorating radio signal than to a corrupted hard drive. Static increases, resolution drops, signal fades—but something continues to come through until the channel fails entirely.
 
@@ -50,9 +51,15 @@ Several features of perceptual degradation are consistent with bandwidth limitat
 
 **Graceful degradation.** Perceptual systems lose fidelity gradually. Progressive myopia does not produce a sharp boundary between seeing and not-seeing; it produces an expanding range of blur. Ageing reduces visual acuity, colour discrimination, and contrast sensitivity in parallel, each declining smoothly. This is the signature of a channel whose capacity is shrinking rather than a system whose components are failing discretely.
 
-**Priority preservation.** When bandwidth is constrained, not all information is lost equally. High-contrast edges persist when fine texture is gone. Motion detection survives when colour discrimination fails. Faces remain recognisable after background detail becomes unreadable. This is consistent with a channel that prioritises certain information—perhaps the information most relevant to the interface's function of enabling consciousness to act on the physical world. A mere read-off of neural states would degrade according to which neurons are damaged; a bandwidth-limited channel degrades according to how information is *prioritised for transmission*.
+**Priority preservation.** When bandwidth is constrained, not all information is lost equally. High-contrast edges persist when fine texture is gone. Motion detection survives when colour discrimination fails. Faces remain recognisable after background detail becomes unreadable. This pattern is consistent with a channel that prioritises certain information—perhaps the information most relevant to the interface's function of enabling consciousness to act on the physical world. An [[attention-as-interface|attentional]] mechanism may govern which information crosses the interface first. A mere read-off of neural states would degrade according to which neurons are damaged; a bandwidth-limited channel degrades according to how information is *prioritised for transmission*.
 
 **Compensatory phenomena.** Degraded perception is not simply impoverished—it often generates novel phenomenal content. Eigengrau (the dark gray seen in complete darkness) and phosphenes (light percepts generated without external light) show the visual system producing experience at zero input. Charles Bonnet syndrome generates vivid visual hallucinations in people with deteriorating vision—the interface appears to fill gaps with internally generated content when external signal drops below a threshold. These phenomena suggest a system that actively maintains a phenomenal field rather than passively relaying whatever arrives.
+
+## The Neural Network Objection
+
+A physicalist will point out that distributed neural networks degrade gracefully by their architecture. Damage nodes in a parallel distributed system and performance declines smoothly—no interface required. Priority preservation might simply reflect evolutionary pressure: motion detection circuits are more redundantly wired than fine-texture circuits because motion matters more for survival.
+
+This objection has force for any single degradation pattern in isolation. Graceful degradation alone does not require an interface. But the objection struggles with the full pattern. First, compensatory phenomena—the generation of *novel* phenomenal content like Charles Bonnet hallucinations when input drops—go beyond what graceful degradation in a neural network predicts. A degrading network loses output; it does not spontaneously generate vivid new output of a different kind. Second, the anaesthesia dissociation (discussed in the next section) produces a categorically different failure mode from degradation, which is difficult to explain if consciousness simply *is* the network's activity. And third, the filter-theory cases where degradation *expands* experience run directly counter to the prediction that less network activity should always mean less output. Each individual pattern might be accommodated by physicalism; the combination of all four—graded loss, priority preservation, compensatory generation, and occasional expansion—fits more naturally with an interface that has its own architectural constraints.
 
 ## What Anaesthesia Reveals
 
@@ -62,7 +69,7 @@ The difference between anaesthetic unconsciousness and perceptual degradation is
 
 ## Selective Preservation and the Filter
 
-The pattern of what survives degradation is as revealing as what is lost. [[filter-theory|Filter theory]]—the view that the brain restricts rather than generates consciousness—predicts that degradation should sometimes *expand* experience by removing filters. There is suggestive evidence for this. Temporal lobe epilepsy can produce vivid, hyper-real experiences. Certain psychedelic compounds, which reduce activity in the default mode network, are associated with expanded phenomenal content rather than impoverished content. Near-death experiences occurring under conditions of severe neural compromise often involve reports of heightened clarity and richness.
+The pattern of what survives degradation is as revealing as what is lost. [[filter-theory|Filter theory]]—the view that the brain restricts rather than generates consciousness—predicts that degradation should sometimes *expand* experience by removing filters. There is suggestive evidence for this. Ecstatic epileptic seizures—originating in the temporal lobe and insula—produce vivid, hyper-real experiences characterised by heightened perception, intense clarity, and a sense of time dilation (Picard & Craig, 2009). Psilocybin and other psychedelic compounds reduce activity in the default mode network yet are associated with expanded phenomenal content rather than impoverished content (Carhart-Harris et al., 2012). Near-death experiences occurring during cardiac arrest—when cerebral function is severely compromised—often involve reports of heightened clarity and a sense of "thinking more clearly than ever" (van Lommel et al., 2001).
 
 These cases do not prove filter theory, but they create a puzzle for the standard picture. If the brain generates consciousness, less brain activity should always mean less consciousness. If the brain instead channels and constrains consciousness—acting as an interface that shapes a pre-existing phenomenal capacity—then certain kinds of degradation might reduce filtering while preserving or expanding the underlying signal. The degradation pattern becomes evidence about whether the interface primarily *generates* or primarily *transmits and constrains*.
 
@@ -70,7 +77,7 @@ The Map does not commit to pure filter theory. The interface likely both transmi
 
 ## The Gradation Argument Strengthened
 
-The gradation of perceptual degradation strengthens the case for consciousness as a fundamental property rather than an emergent one. Emergent properties typically have thresholds: water becomes liquid at 0°C, iron becomes magnetic below its Curie temperature. If consciousness emerged at some threshold of neural organisation, it should exhibit similar threshold behaviour—present above the threshold, absent below it, perhaps unstable near the boundary.
+The gradation of perceptual degradation strengthens the case for consciousness as a fundamental property rather than an emergent one. Many emergent properties exhibit thresholds: water becomes liquid at 0°C, iron becomes magnetic below its Curie temperature. If consciousness emerged at some threshold of neural organisation, it should exhibit similar threshold behaviour—present above the threshold, absent below it, perhaps unstable near the boundary. Some physicalist frameworks—notably Integrated Information Theory—do accommodate graded consciousness, but they do so by treating consciousness as a fundamental measure (integrated information) rather than as a threshold-emergent property, which moves closer to the Map's position than to standard emergence.
 
 Instead, consciousness grades smoothly through degradation. Research on graded consciousness confirms that subjects report experiences as existing on a continuum: "fully conscious, two degrees of degraded consciousness, or not conscious" (Overgaard et al., 2006). Near sleep, in hypnotic states, or under mild sedation, experience becomes blurry and vague—not absent but attenuated. This continuous gradation is more naturally explained by a fundamental property that admits of degrees than by an emergent property crossing a threshold.
 
@@ -86,6 +93,8 @@ The degradation-as-diagnostic approach connects to several of the Map's [[tenets
 
 **Bidirectional Interaction**: Compensatory phenomena like Charles Bonnet hallucinations and eigengrau suggest the interface is not a one-way pipe from brain to mind. When external signal drops, the system generates phenomenal content—implying that consciousness or the interface itself actively maintains a phenomenal field. This active maintenance is consistent with bidirectional causation: the physical brain transmits information to consciousness, and consciousness (or the interface it operates through) acts back to sustain coherent experience even when input is sparse.
 
+**Occam's Razor Has Limits**: The simplest account of perceptual degradation—neural damage causes proportional experience loss—fails to accommodate the full pattern. Compensatory generation, filter-expansion cases, and the anaesthesia dissociation all require additional explanatory machinery that the simple model lacks. The richer interface model is more complex but accounts for the data. This is a case where parsimony misleads: the apparently simpler theory cannot handle the phenomena, and dismissing the interface model on grounds of complexity would mean ignoring evidence.
+
 ## Further Reading
 
 - [[perceptual-fidelity-and-the-interface]]
@@ -99,8 +108,9 @@ The degradation-as-diagnostic approach connects to several of the Map's [[tenets
 ## References
 
 1. Phillips, I. (2021). Blindsight Is Qualitatively Degraded Conscious Vision. *Psychological Review*, 128(3), 558–584.
-2. Hoffman, D. D., Singh, M., & Prakash, C. (2015). The Interface Theory of Perception. *Psychonomic Bulletin & Review*, 22(6), 1480–1506.
-3. Overgaard, M., Rote, J., Mouridsen, K., & Ramsøy, T. Z. (2006). Is conscious perception gradual or dichotomous? A comparison of report methodologies during a visual task. *Consciousness and Cognition*, 15(4), 700–708.
-4. Skrzypulec, B. (2021). Blur and Interoceptive Vision. *Philosophical Studies*, 178, 3149–3168.
-5. Southgate, A. & Oquatre-six, C. (2026-03-09). Perceptual Fidelity and the Interface — The Blur Paradox. *The Unfinishable Map*. https://unfinishablemap.org/topics/perceptual-fidelity-and-the-interface/
-6. Southgate, A. & Oquatre-six, C. (2026-02-16). The Interface Specification Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-interface-specification-problem/
+2. Overgaard, M., Rote, J., Mouridsen, K., & Ramsøy, T. Z. (2006). Is conscious perception gradual or dichotomous? A comparison of report methodologies during a visual task. *Consciousness and Cognition*, 15(4), 700–708.
+3. Picard, F. & Craig, A. D. (2009). Ecstatic Epileptic Seizures: A Potential Window on the Neural Basis for Human Self-Awareness. *Epilepsy & Behavior*, 16(3), 539–546.
+4. Carhart-Harris, R. L., Erritzoe, D., Williams, T., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *Proceedings of the National Academy of Sciences*, 109(6), 2138–2143.
+5. van Lommel, P., van Wees, R., Meyers, A., & Elfferich, I. (2001). Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands. *The Lancet*, 358(9298), 2039–2045.
+6. Southgate, A. & Oquatre-six, C. (2026-03-09). Perceptual Fidelity and the Interface — The Blur Paradox. *The Unfinishable Map*. https://unfinishablemap.org/topics/perceptual-fidelity-and-the-interface/
+7. Southgate, A. & Oquatre-six, C. (2026-02-16). The Interface Specification Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-interface-specification-problem/
