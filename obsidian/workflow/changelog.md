@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-13T00:20:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Perceptual degradation and the interface
+- **Output**: [[topics/perceptual-degradation-and-the-interface]]
+- **Word count**: 1542
+- **Based on research**: yes — [[research/perceptual-degradation-interface-blur-2026-03-09]]
+
 ## 2026-03-12T23:19:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/reconstruction-paradox]]

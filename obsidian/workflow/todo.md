@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on perceptual degradation and the interface
-- **Type**: expand-topic
-- **Notes**: Research completed in research/perceptual-degradation-interface-blur-2026-03-09.md. What blur, visual noise, and sensory degradation reveal about the consciousness-brain interface — if consciousness merely accessed neural representations, perceptual degradation should be all-or-nothing, but graded degradation suggests a transmission channel with bandwidth constraints. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 2 (Minimal Quantum Interaction).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-12
-
 ### P3: Deep review spontaneous-thought-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on spontaneous thought as a void — the gap between neural correlates and the phenomenology of unbidden thoughts. Verify coherence, cross-references, and tenet alignment.
@@ -584,6 +578,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-13: Write article on perceptual degradation and the interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/perceptual-degradation-interface-blur-2026-03-09.md. What blur, visual noise, and sensory degradation reveal about the consciousness-brain interface — if consciousness merely accessed neural representations, perceptual degradation should be all-or-nothing, but graded degradation suggests a transmission channel with bandwidth constraints. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 2 (Minimal Quantum Interaction).
+- **Output**: perceptual degradation and the interface
 
 ### ✓ 2026-03-12: Cross-review reconstruction paradox against related perception articles
 - **Type**: cross-review
