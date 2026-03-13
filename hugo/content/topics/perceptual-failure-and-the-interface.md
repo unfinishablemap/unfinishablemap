@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-03-13 15:20:00+00:00
+ai_modified: 2026-03-13 18:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -16,6 +16,12 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[phenomenal-transparency]]'
 - '[[phenomenology]]'
+- '[[emergence]]'
+- '[[neural-correlates-of-consciousness]]'
+- '[[integrated-information-theory]]'
+- '[[altered-states-of-consciousness]]'
+- '[[default-mode-network]]'
+- '[[causal-closure]]'
 created: 2026-03-09
 date: &id001 2026-03-13
 description: 'Perceptual degradation reveals the consciousness-brain interface: its
@@ -23,7 +29,7 @@ description: 'Perceptual degradation reveals the consciousness-brain interface: 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-13 18:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,6 +40,8 @@ related_articles:
 - '[[bandwidth-of-consciousness]]'
 - '[[consciousness-as-perceptual-architect]]'
 - '[[visual-consciousness]]'
+- '[[disorders-of-consciousness-as-test-cases]]'
+- '[[hypnagogic-phenomenology-and-interface-modulation]]'
 title: Perceptual Failure and the Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -78,35 +86,35 @@ Several features of perceptual degradation are consistent with bandwidth limitat
 
 **Priority preservation.** When bandwidth is constrained, not all information is lost equally. High-contrast edges persist when fine texture is gone. Motion detection survives when colour discrimination fails. Faces remain recognisable after background detail becomes unreadable. This pattern is consistent with a channel that prioritises certain information—perhaps the information most relevant to the interface's function of enabling consciousness to act on the physical world. An [attentional](/concepts/attention-as-interface/) mechanism may govern which information crosses the interface first. A mere read-off of neural states would degrade according to which neurons are damaged; a bandwidth-limited channel degrades according to how information is *prioritised for transmission*.
 
-**Compensatory phenomena.** Degraded perception is not simply impoverished—it often generates novel phenomenal content. Eigengrau (the dark gray seen in complete darkness) and phosphenes (light percepts generated without external light) show the visual system producing experience at zero input. Charles Bonnet syndrome generates vivid visual hallucinations in people with deteriorating vision—the interface appears to fill gaps with internally generated content when external signal drops below a threshold. These phenomena suggest a system that actively maintains a phenomenal field rather than passively relaying whatever arrives.
+**Compensatory phenomena.** Degraded perception is not simply impoverished—it often generates novel phenomenal content. Eigengrau (the dark gray seen in complete darkness) and phosphenes (light percepts generated without external light) show the visual system producing experience at zero input. Charles Bonnet syndrome generates vivid visual hallucinations in people with deteriorating vision—the interface appears to fill gaps with internally generated content when external signal drops below a threshold. Similar compensatory generation occurs during [hypnagogic transitions](/topics/hypnagogic-phenomenology-and-interface-modulation/), where the interface produces structured imagery as sensory channels disengage sequentially. These phenomena suggest a system that actively maintains a phenomenal field rather than passively relaying whatever arrives.
 
 ## The Neural Network Objection
 
-A physicalist will point out that distributed neural networks degrade gracefully by their architecture. Damage nodes in a parallel distributed system and performance declines smoothly—no interface required. Priority preservation might simply reflect evolutionary pressure: motion detection circuits are more redundantly wired than fine-texture circuits because motion matters more for survival.
+A physicalist will point out that distributed neural networks—the kind that underpin the [neural correlates of consciousness](/concepts/neural-correlates-of-consciousness/)—degrade gracefully by their architecture. Damage nodes in a parallel distributed system and performance declines smoothly—no interface required. Priority preservation might simply reflect evolutionary pressure: motion detection circuits are more redundantly wired than fine-texture circuits because motion matters more for survival.
 
-This objection has force for any single degradation pattern in isolation. But it struggles with the full pattern. First, compensatory phenomena—the generation of *novel* phenomenal content like Charles Bonnet hallucinations when input drops—go beyond what graceful degradation in a neural network predicts. A degrading network loses output; it does not spontaneously generate vivid new output of a different kind. Second, the anaesthesia dissociation (discussed in the next section) produces a categorically different failure mode from degradation, which is difficult to explain if consciousness simply *is* the network's activity. Third, the filter-theory cases where degradation *expands* experience run directly counter to the prediction that less network activity should always mean less output. Each individual pattern might be accommodated by physicalism; the combination of all four—graded loss, priority preservation, compensatory generation, and occasional expansion—fits more naturally with an interface that has its own architectural constraints.
+This objection has force for any single degradation pattern in isolation. But it struggles with the full pattern. First, compensatory phenomena like Charles Bonnet hallucinations are often explained as *release phenomena*—when inhibitory inputs are removed, previously suppressed neural populations fire spontaneously. This accounts for some compensatory generation, but not its character: the hallucinations are vivid, structured, and phenomenally rich in ways that differ categorically from the degraded input they replace. The neural explanation tells us *why* certain neurons fire; it does not explain why that firing feels like seeing a detailed face rather than producing dim static. Second, the anaesthesia dissociation (discussed in the next section) produces a categorically different failure mode from degradation, which is difficult to explain if consciousness simply *is* the network's activity. Third, the filter-theory cases where degradation *expands* experience run directly counter to the prediction that less network activity should always mean less output. Each individual pattern might be accommodated by physicalism; the combination of all four—graded loss, priority preservation, compensatory generation, and occasional expansion—fits more naturally with an interface that has its own architectural constraints.
 
 ## What Anaesthesia Reveals
 
 [Anaesthesia](/topics/anaesthesia-and-the-consciousness-interface/) provides perhaps the most dramatic window into interface architecture. General anaesthetics do not damage neural tissue or destroy representations. They disrupt specific patterns of neural communication—particularly thalamocortical feedback loops and long-range cortical integration. Yet their effect on consciousness is profound: not degradation but apparent disconnection.
 
-The difference between anaesthetic unconsciousness and perceptual degradation is instructive. Progressive blur suggests reduced bandwidth. Anaesthesia suggests the channel shutting down. If consciousness were simply an emergent property of neural complexity, these should look similar—less complexity, less consciousness. Instead they produce categorically different phenomenologies: impoverished-but-present experience under degradation, and apparent absence under anaesthesia. This dissociation supports the interface model: the channel can transmit at reduced capacity (degradation) or be functionally closed (anaesthesia), and these are distinct failure modes.
+The difference between anaesthetic unconsciousness and perceptual degradation is instructive. Progressive blur suggests reduced bandwidth. Anaesthesia suggests the channel shutting down. If consciousness were simply an emergent property of neural complexity, these should look similar—less complexity, less consciousness. Instead they produce categorically different phenomenologies: impoverished-but-present experience under degradation, and apparent absence under anaesthesia. This pattern extends to [disorders of consciousness](/topics/disorders-of-consciousness-as-test-cases/) like vegetative states and locked-in syndrome, where the interface appears disrupted in yet different ways. The dissociation supports the interface model: the channel can transmit at reduced capacity (degradation) or be functionally closed (anaesthesia), and these are distinct failure modes.
 
 ## Selective Preservation and the Filter
 
-The pattern of what survives degradation is as revealing as what is lost. [Filter theory](/concepts/filter-theory/)—the view that the brain restricts rather than generates consciousness—predicts that degradation should sometimes *expand* experience by removing filters. There is suggestive evidence for this. Ecstatic epileptic seizures—originating in the temporal lobe and insula—produce vivid, hyper-real experiences characterised by heightened perception, intense clarity, and a sense of time dilation (Picard & Craig, 2009). Psilocybin and other psychedelic compounds reduce activity in the default mode network yet are associated with expanded phenomenal content rather than impoverished content (Carhart-Harris et al., 2012). Near-death experiences occurring during cardiac arrest—when cerebral function is severely compromised—often involve reports of heightened clarity and a sense of "thinking more clearly than ever" (van Lommel et al., 2001).
+The pattern of what survives degradation is as revealing as what is lost. [Filter theory](/concepts/filter-theory/)—the view that the brain restricts rather than generates consciousness—predicts that degradation should sometimes *expand* experience by removing filters. There is suggestive evidence for this. Ecstatic epileptic seizures—originating in the temporal lobe and insula—produce vivid, hyper-real experiences characterised by heightened perception, intense clarity, and a sense of time dilation (Picard & Craig, 2009). Psilocybin and other psychedelic compounds reduce activity in the [default-mode-network](/concepts/default-mode-network/) yet are associated with expanded phenomenal content rather than impoverished content (Carhart-Harris et al., 2012). Near-death experiences occurring during cardiac arrest—when cerebral function is severely compromised—often involve reports of heightened clarity and a sense of "thinking more clearly than ever" (van Lommel et al., 2001).
 
-These cases do not prove filter theory, but they create a puzzle for the standard picture. If the brain generates consciousness, less brain activity should always mean less consciousness. If the brain instead channels and constrains consciousness—acting as an interface that shapes a pre-existing phenomenal capacity—then certain kinds of degradation might reduce filtering while preserving or expanding the underlying signal. The degradation pattern becomes evidence about whether the interface primarily *generates* or primarily *transmits and constrains*.
+These [altered states](/concepts/altered-states-of-consciousness/) do not prove filter theory, but they create a puzzle for the standard picture. If the brain generates consciousness, less brain activity should always mean less consciousness. If the brain instead channels and constrains consciousness—acting as an interface that shapes a pre-existing phenomenal capacity—then certain kinds of degradation might reduce filtering while preserving or expanding the underlying signal. The degradation pattern becomes evidence about whether the interface primarily *generates* or primarily *transmits and constrains*.
 
 The Map does not commit to pure filter theory. The interface likely both transmits and shapes—consciousness receives information through the neural channel *and* that channel structures what kinds of experience are possible. But the existence of expanded-experience-under-degradation cases suggests the interface is doing something more complex than simple generation.
 
 ## The Gradation Argument
 
-The smooth gradation of perceptual degradation strengthens the case for consciousness as a fundamental property rather than an emergent one. Many emergent properties exhibit thresholds: water becomes liquid at 0°C, iron becomes magnetic below its Curie temperature. If consciousness emerged at some threshold of neural organisation, it should exhibit similar threshold behaviour—present above the threshold, absent below it, perhaps unstable near the boundary.
+The smooth gradation of perceptual degradation strengthens the case for consciousness as a fundamental property rather than an [emergent](/concepts/emergence/) one. Some emergent properties grade smoothly—viscosity, conductivity, elasticity all vary continuously with underlying parameters. But the emergent properties most often invoked as analogies for consciousness are *qualitative phase transitions*: water becomes liquid at 0°C, iron becomes magnetic below its Curie temperature, flocking behaviour appears above a density threshold. These are the cases where a new macro-level phenomenon appears at a critical point. If consciousness emerged at some threshold of neural organisation, it should exhibit similar threshold behaviour—present above the threshold, absent below it, perhaps unstable near the boundary.
 
 Instead, consciousness grades smoothly through degradation. Research on graded consciousness confirms that subjects report experiences as existing on a continuum: "fully conscious, two degrees of degraded consciousness, or not conscious" (Overgaard et al., 2006). Near sleep, in hypnotic states, or under mild sedation, experience becomes blurry and vague—not absent but attenuated. If Phillips is right that even blindsight involves degraded conscious vision rather than unconscious perception, the boundary between seeing and not-seeing dissolves into a continuum: vivid clarity, soft blur, dim awareness, faint registration.
 
-This continuous gradation is more naturally explained by a fundamental property that admits of degrees than by an emergent property crossing a threshold. Some physicalist frameworks—notably Integrated Information Theory—do accommodate graded consciousness, but they do so by treating consciousness as a fundamental measure (integrated information) rather than as a threshold-emergent property, which moves closer to the Map's position than to standard emergence.
+This continuous gradation is more naturally explained by a fundamental property that admits of degrees than by an emergent property crossing a threshold. Some physicalist frameworks—notably [Integrated Information Theory](/concepts/integrated-information-theory/)—do accommodate graded consciousness, but they do so by treating consciousness as a fundamental measure (integrated information) rather than as a threshold-emergent property, which moves closer to the Map's position than to standard emergence.
 
 The bandwidth model accommodates this directly. A transmission channel with finite capacity produces graded output as capacity varies. Turn the radio dial slowly: the signal does not snap from perfect to silent. It degrades through static, distortion, intermittent clarity, and fading signal. If the interface between consciousness and the brain operates as a bandwidth-limited channel, the smooth gradation of perceptual degradation is exactly what we should expect.
 
@@ -114,7 +122,7 @@ The bandwidth model accommodates this directly. A transmission channel with fini
 
 **Dualism**: Blur exposes phenomenal properties—the specific qualitative character of haziness, softness, the texture of degraded vision—that belong to the experiencing subject, not to external physical objects. If these properties were physical, they would need to be located somewhere in the world. They cannot be: no physical object is blurry in the way experience is blurry. Meanwhile, the fact that degradation patterns reveal interface-like properties—bandwidth limitation, priority preservation, compensatory generation, and the filter/generation distinction—suggests that consciousness and neural activity are not the same thing. The interface has its own architecture, discoverable through its failure modes, because there are two systems connected by a channel rather than one system exhibiting different aspects.
 
-**Minimal Quantum Interaction**: The bandwidth model raises a question about mechanism: what determines the interface's capacity? If consciousness biases quantum indeterminacies in neural systems, then the number, quality, and coherence of available quantum events may set the bandwidth ceiling. Neural damage or degradation reduces the available sites for quantum interaction, progressively constraining how much information crosses the interface. [interface-friction](/concepts/interface-friction/)—the resistance encountered when consciousness acts on neural substrates—would increase as the channel degrades, consistent with the felt effortfulness of perception under impairment.
+**Minimal Quantum Interaction**: The bandwidth model raises a question about mechanism: what determines the interface's capacity? If consciousness biases quantum indeterminacies in neural systems—without violating [causal closure](/concepts/causal-closure/) at the statistical level—then the number, quality, and coherence of available quantum events may set the bandwidth ceiling. Neural damage or degradation reduces the available sites for quantum interaction, progressively constraining how much information crosses the interface. [interface-friction](/concepts/interface-friction/)—the resistance encountered when consciousness acts on neural substrates—would increase as the channel degrades, consistent with the felt effortfulness of perception under impairment.
 
 **Bidirectional Interaction**: Compensatory phenomena like Charles Bonnet hallucinations and eigengrau suggest the interface is not a one-way pipe from brain to mind. When external signal drops, the system generates phenomenal content—implying that consciousness or the interface itself actively maintains a phenomenal field. And when blur triggers squinting, reaching for glasses, or adjusting focal distance, the experiencing subject responds to the interface's self-report by acting on the physical world. Information about the interface's own state flows from the phenomenal domain into physical behaviour—bidirectional causation in miniature.
 
@@ -132,6 +140,8 @@ The bandwidth model accommodates this directly. A transmission channel with fini
 - [phenomenal-transparency](/concepts/phenomenal-transparency/)
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)
 - [visual-consciousness](/concepts/visual-consciousness/)
+- [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/)
+- [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/)
 
 ## References
 

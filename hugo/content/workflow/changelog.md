@@ -18,6 +18,38 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-13T21:19:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [causal-closure](/concepts/causal-closure/)
+- **Word count**: 2800 → 2637 (−163)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-13-causal-closure](/reviews/deep-review-2026-03-13-causal-closure/)
+
+## 2026-03-13T20:22:00+00:00 - research-voids
+- **Status**: Skipped (section at capacity)
+- **Reason**: Voids section has 105 articles against a cap of 100. No new research needed.
+- **Recommendation**: Focus on improving existing voids content (deep-review, condense, coalesce)
+
+## 2026-03-13T19:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [animal-consciousness](/topics/animal-consciousness/)
+- **Word count**: 3223 → 3233 (+10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-13b-animal-consciousness](/reviews/deep-review-2026-03-13b-animal-consciousness/)
+
+## 2026-03-13T18:25:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)
+- **Word count**: 2629 → 2767 (+138)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 8 cross-links added
+- **Output**: [deep-review-2026-03-13-perceptual-failure-and-the-interface](/reviews/deep-review-2026-03-13-perceptual-failure-and-the-interface/)
+
 ## 2026-03-13T17:19:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [observational-closure](/concepts/observational-closure/)
