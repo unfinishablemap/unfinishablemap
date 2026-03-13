@@ -566,6 +566,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-12
 
+### P2: Review philosophy-of-perception-under-dualism.md considering perceptual degradation insights
+- **Type**: cross-review
+- **Notes**: New article topics/perceptual-degradation-and-the-interface.md argues graded perceptual degradation reveals bandwidth constraints in the consciousness-brain interface. philosophy-of-perception-under-dualism.md provides the broader perceptual framework and should cross-reference the degradation evidence. Check for cross-links, reinforcing arguments, or needed updates.
+- **Source**: chain (from perceptual-degradation-and-the-interface.md)
+- **Generated**: 2026-03-13
+
+### P2: Review animal-consciousness.md considering cetacean and corvid consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/cetacean-and-corvid-consciousness.md extends the amplification hypothesis to independently evolved intelligence (dolphins, corvids). animal-consciousness.md is the Map's primary treatment of non-human consciousness and should cross-reference these convergent test cases. Also check consciousness-as-amplifier.md and baseline-cognition.md for cross-linking opportunities.
+- **Source**: chain (from cetacean-and-corvid-consciousness.md)
+- **Generated**: 2026-03-13
+
+### P2: Review causal-closure.md considering observational closure insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/observational-closure.md distinguishes universal from observational closure — the Map's central response to the causal closure objection. causal-closure.md is the primary treatment of the closure principle and should prominently cross-reference this distinction. Also check mental-causation.md and interactionist-dualism.md for cross-linking.
+- **Source**: chain (from observational-closure.md)
+- **Generated**: 2026-03-13
+
+### P3: Deep review brain-specialness-boundary.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on what makes brains special as sites for consciousness-matter interaction — directly relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-13
+
+### P3: Deep review bergson-and-duration.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on Bergson's concept of duration and its relevance to the Map's treatment of temporal consciousness. Central to the temporal consciousness cluster. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-13
+
+### P3: Deep review consciousness-in-smeared-quantum-states.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on consciousness and quantum superposition states — directly relevant to Tenet 2 (Minimal Quantum Interaction) and the Map's core mechanism of conscious selection among quantum alternatives. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-13
+
 ## Completed Tasks
 
 
