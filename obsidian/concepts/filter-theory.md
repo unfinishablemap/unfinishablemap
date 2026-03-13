@@ -133,7 +133,7 @@ The Map's [[mind-brain-separation]] article develops an updated version of filte
 The brain functions like a rendering engine: it computes visual scenes from data, textures, and lighting models. But the scene is not *produced* by the engine alone—it emerges from interplay between the engine's capabilities and a source of content (in this case, consciousness).
 
 This explains:
-- **Why brain damage produces specific deficits**: Damage motion processing and movement becomes jerky—rendering failures, not consciousness failures. The [[perceptual-fidelity-and-the-interface|blur paradox]] reveals that when rendering degrades, the interface itself becomes visible.
+- **Why brain damage produces specific deficits**: Damage motion processing and movement becomes jerky—rendering failures, not consciousness failures. The [[perceptual-failure-and-the-interface|blur paradox]] reveals that when rendering degrades, the interface itself becomes visible.
 - **Why qualia seem irreducible**: The rendering engine processes vectors and matrices; the *experience* of color and motion exceeds the processing that enables it.
 - **Why dreams can construct perceptual worlds**: Consciousness uses the engine's capabilities without being bound by sensory input.
 - **The binding problem**: Unity is in consciousness itself; the brain renders aspects of unified experience through separate channels.

@@ -43,9 +43,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: orphan_integration
 - **Generated**: 2026-03-13
 
-### P2: Integrate perceptual-degradation-and-the-interface.md into site navigation
+### ✓ 2026-03-13: Integrate perceptual-degradation-and-the-interface.md into site navigation
 - **Type**: integrate-orphan
-- **Notes**: Recently created article (2026-03-13) likely has few or no inbound links. Examines visual degradation as evidence for the consciousness-brain interface. Add cross-references from philosophy-of-perception-under-dualism.md, perceptual-fidelity-and-the-interface.md, interface-location-problem.md, and related articles.
+- **Notes**: Superseded by coalesce — article merged into perceptual-failure-and-the-interface.md
 - **Source**: orphan_integration
 - **Generated**: 2026-03-13
 

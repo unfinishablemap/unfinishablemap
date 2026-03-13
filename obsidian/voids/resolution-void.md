@@ -66,7 +66,7 @@ Below the JND, distinctions vanish from consciousness entirely. There is no expe
 
 The resolution void has a distinctive phenomenology — or rather, a distinctive absence of one. Below the resolution threshold, experience does not occur. There is no "edge" feeling, no vertigo of approaching a limit. This distinguishes the resolution void from limits like the [[scale-void]], where contemplating vast magnitudes produces characteristic cognitive strain.
 
-Indirect markers reveal the void's presence. Peripheral vision presents a smooth visual field despite drastically lower resolution than foveal vision — consciousness fills in what it cannot discriminate, producing an illusion of completeness that the [[perceptual-fidelity-and-the-interface|blur paradox]] exposes when perception degrades. The tip-of-the-tongue phenomenon reveals sub-resolution information pressing against the threshold without crossing it. The specious present — the subjective sense that "now" has duration of roughly two to three seconds — reveals temporal resolution disguising itself as continuity.
+Indirect markers reveal the void's presence. Peripheral vision presents a smooth visual field despite drastically lower resolution than foveal vision — consciousness fills in what it cannot discriminate, producing an illusion of completeness that the [[perceptual-failure-and-the-interface|blur paradox]] exposes when perception degrades. The tip-of-the-tongue phenomenon reveals sub-resolution information pressing against the threshold without crossing it. The specious present — the subjective sense that "now" has duration of roughly two to three seconds — reveals temporal resolution disguising itself as continuity.
 
 These markers suggest that the resolution void is actively concealed. Consciousness does not present gaps where its resolution fails. It interpolates, smooths, and fills — constructing an experience of completeness from radically incomplete data. The void is not at the edge of experience but woven into its fabric.
 
@@ -92,7 +92,7 @@ The resolution void connects to the Map's [[tenets]] across multiple dimensions.
 - [[continuity-void]] — Whether experience is continuous or discrete at the finest grain
 - [[grain-mismatch]] — The structural incompatibility between smooth phenomenal properties and discrete neural substrates
 - [[temporal-consciousness]] — The specious present and how consciousness packages time
-- [[perceptual-fidelity-and-the-interface]] — What happens when perception degrades and the interface becomes visible
+- [[perceptual-failure-and-the-interface]] — What happens when perception degrades and the interface becomes visible
 - [[computational-cognitive-limits]] — Mathematical limits on what any system can compute
 - [[bandwidth-of-consciousness]] — Empirical measurements of the consciousness bottleneck
 - [[bandwidth-problem-mental-causation]] — How coarse-grained intention produces fine-grained physical effects

@@ -6,6 +6,11 @@ modified: 2026-03-09
 human_modified:
 ai_modified: 2026-03-13T14:19:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-13T15:20:00+00:00
+superseded_by: "/topics/perceptual-failure-and-the-interface/"
+archive_reason: "Coalesced into Perceptual Failure and the Interface"
+original_path: "/topics/perceptual-fidelity-and-the-interface/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[philosophy-of-perception-under-dualism]]"

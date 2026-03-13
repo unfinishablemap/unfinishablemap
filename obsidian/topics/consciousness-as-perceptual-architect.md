@@ -32,7 +32,7 @@ related_articles:
   - "[[phenomenology-of-conceptual-change]]"
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[the-binding-problem-a-systematic-treatment]]"
-  - "[[perceptual-fidelity-and-the-interface]]"
+  - "[[perceptual-failure-and-the-interface]]"
   - "[[three-dimensional-world-representation-problem]]"
   - "[[consciousness-and-the-phenomenology-of-place]]"
   - "[[predictive-processing-and-the-maps-framework]]"
@@ -156,7 +156,7 @@ And both face the same explanatory gap. Predictive processing frameworks describ
 - [[consciousness-and-the-neuroscience-of-deliberate-practice]] — Neural evidence for conscious engagement in plasticity
 - [[sensorimotor-contingencies-and-the-interface]] — Perception as mastery of sensorimotor laws
 - [[phenomenology-of-conceptual-change]] — The cognitive parallel: how frameworks transform
-- [[perceptual-fidelity-and-the-interface]] — How faithfully perception tracks reality
+- [[perceptual-failure-and-the-interface]] — How faithfully perception tracks reality
 - [[predictive-processing-and-the-maps-framework]] — Predictive coding and the Map's framework
 - [[filter-theory]] — Consciousness as selective filter
 - [[capability-division-problem]] — Brain-side vs. mind-side processing

@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-13T15:20:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[topics/perceptual-degradation-and-the-interface]], [[topics/perceptual-fidelity-and-the-interface]]
+- **Target**: [[topics/perceptual-failure-and-the-interface]]
+- **Archived**: archive/topics/perceptual-degradation-and-the-interface.md, archive/topics/perceptual-fidelity-and-the-interface.md
+- **References updated**: 8 active content files
+
 ## 2026-03-13T14:19:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/perceptual-fidelity-and-the-interface]]
