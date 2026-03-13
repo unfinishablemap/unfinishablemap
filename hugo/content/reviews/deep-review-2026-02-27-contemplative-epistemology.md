@@ -30,7 +30,7 @@ None. The article is in good shape following the previous review and subsequent 
 
 1. **Fox et al. (2012) terminology error**: Article used "interoceptive accuracy" but the paper is titled "Meditation Experience Predicts *Introspective* Accuracy." Interoception (internal body states) differs from introspection about tactile acuity. The description of the methodology was accurate, but the label was wrong. **Resolution**: Changed both occurrences to "introspective accuracy."
 
-2. **Archived concept in frontmatter**: `[observational-closure](/concepts/causal-closure/)` was listed under `concepts:` but the file has been archived. **Resolution**: Removed from frontmatter concepts list.
+2. **Archived concept in frontmatter**: `[observational-closure](/concepts/observational-closure/)` was listed under `concepts:` but the file has been archived. **Resolution**: Removed from frontmatter concepts list.
 
 3. **Three orphaned references**: Hagerty (2013), Thompson (2007), and Velmans (2007) appeared in the References section but were never cited in the body text — likely lost during the coalesce operation that merged contemplative-reliability into this article. **Resolution**: Added inline citations: Thompson (2007) with Varela's mutual constraint discussion, Velmans (2007) with the heterophenomenology response, Hagerty et al. (2013) with jhana states in Progressive Disclosure.
 
@@ -57,7 +57,7 @@ None. The article is in good shape following the previous review and subsequent 
 ### Enhancements Made
 
 - Fixed Fox et al. terminology: "interoceptive" → "introspective" (2 occurrences)
-- Removed archived `[observational-closure](/concepts/causal-closure/)` from frontmatter
+- Removed archived `[observational-closure](/concepts/observational-closure/)` from frontmatter
 - Added Thompson (2007) citation to Varela mutual constraint discussion
 - Added Velmans (2007) citation to heterophenomenology response
 - Added Hagerty et al. (2013) citation to jhana states discussion

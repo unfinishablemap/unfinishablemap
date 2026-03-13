@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Observational Closure](/concepts/causal-closure/)
+**Article**: [Observational Closure](/concepts/observational-closure/)
 **Previous review**: Never
 
 ## Context

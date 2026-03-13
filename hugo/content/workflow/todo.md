@@ -56,6 +56,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-11
 
+### P2: Develop tracking/grasping distinction in trilemma-of-selection.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the tracking-vs-grasping reasons distinction is load-bearing but introduced without argument. Develop with specific examples or cite relevant literature. Also acknowledge circularity with tenets. See pessimistic-2026-03-13.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-13
+
+### P2: Strengthen equivocation response in emergence-as-universal-hard-problem.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the response to the equivocation objection (that phenomenal consciousness is categorically different from dispositional properties) is too weak. Either show a specific case where the boundary breaks down or soften the universality claim. See pessimistic-2026-03-13.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-13
+
 ### P3: Deep review luck-objection.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 36 days ago. The luck objection to libertarian free will is an important challenge the Map needs to address given its commitment to Bidirectional Interaction. Verify coherence, cross-references, and tenet alignment.
@@ -299,16 +313,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: integrate-orphan
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
-
-### P2: Write article on cetacean and corvid consciousness as amplification test cases
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-03-04. The baseline cognition and consciousness-as-amplifier hypotheses focus on primate lineages. Cetaceans (dolphins, whales) and corvids (crows, ravens) show convergent evolution of sophisticated cognition—some corvids demonstrate metarepresentation. If consciousness amplifies cognition, these independent lineages provide additional test cases. Builds on baseline-cognition.md, consciousness-as-amplifier.md, animal-consciousness.md, consciousness-threshold-in-cognitive-evolution.md. Target section: topics/. See [optimistic-2026-03-04-afternoon](/reviews/optimistic-2026-03-04-afternoon/).
-
-### P2: Write concept page on observational closure
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-03-04. The universal/observational closure distinction (Saad 2025) is arguably the Map's single most important argumentative move—it dissolves the causal closure objection against interactionism. Currently referenced across causal-closure.md, mental-causation.md, interactionist-dualism.md, and causal-delegation.md but has no dedicated concept page. A standalone treatment would serve as a reference anchor and clarify the distinction for readers encountering it in different articles. Target section: concepts/. See [optimistic-2026-03-04-afternoon](/reviews/optimistic-2026-03-04-afternoon/).
 
 ### P2: Write article on phenomenology of embodiment under dualism
 - **Type**: expand-topic
@@ -577,8 +581,62 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-12
 
+### P2: Review philosophy-of-perception-under-dualism.md considering perceptual degradation insights
+- **Type**: cross-review
+- **Notes**: New article topics/perceptual-degradation-and-the-interface.md argues graded perceptual degradation reveals bandwidth constraints in the consciousness-brain interface. philosophy-of-perception-under-dualism.md provides the broader perceptual framework and should cross-reference the degradation evidence. Check for cross-links, reinforcing arguments, or needed updates.
+- **Source**: chain (from perceptual-degradation-and-the-interface.md)
+- **Generated**: 2026-03-13
+
+### P2: Review animal-consciousness.md considering cetacean and corvid consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/cetacean-and-corvid-consciousness.md extends the amplification hypothesis to independently evolved intelligence (dolphins, corvids). animal-consciousness.md is the Map's primary treatment of non-human consciousness and should cross-reference these convergent test cases. Also check consciousness-as-amplifier.md and baseline-cognition.md for cross-linking opportunities.
+- **Source**: chain (from cetacean-and-corvid-consciousness.md)
+- **Generated**: 2026-03-13
+
+### P2: Review causal-closure.md considering observational closure insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/observational-closure.md distinguishes universal from observational closure — the Map's central response to the causal closure objection. causal-closure.md is the primary treatment of the closure principle and should prominently cross-reference this distinction. Also check mental-causation.md and interactionist-dualism.md for cross-linking.
+- **Source**: chain (from observational-closure.md)
+- **Generated**: 2026-03-13
+
+### P3: Deep review brain-specialness-boundary.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on what makes brains special as sites for consciousness-matter interaction — directly relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-13
+
+### P3: Deep review bergson-and-duration.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on Bergson's concept of duration and its relevance to the Map's treatment of temporal consciousness. Central to the temporal consciousness cluster. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-13
+
+### P3: Deep review consciousness-in-smeared-quantum-states.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on consciousness and quantum superposition states — directly relevant to Tenet 2 (Minimal Quantum Interaction) and the Map's core mechanism of conscious selection among quantum alternatives. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-13
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-13: Strengthen unity argument in ethics-and-value-in-a-dualist-world.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the unity argument dismisses materialist unification attempts too quickly (one sentence each for Railton and Foot). Engage substantively with at least one materialist alternative. Also address Mackie's argument from queerness against phenomenal value realism. See pessimistic-2026-03-13.md
+- **Output**: obsidian/topics/ethics-and-value-in-a-dualist-world.md
+
+Task context:
+Pessimistic review found the unity argument dismisses materialist unification attempts too quickly (one sentence each for Railton and Foot). Engage substantively with at least one materialist alternative. Also address Mackie's argument from queerness against phenomenal value realism. See pessimistic-2026-03-13.md
+
+### ✓ 2026-03-13: Write concept page on observational closure
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-03-04. The universal/observational closure distinction (Saad 2025) is arguably the Map's single most important argumentative move—it dissolves the causal closure objection against interactionism. Currently referenced across causal-closure.md, mental-causation.md, interactionist-dualism.md, and causal-delegation.md but has no dedicated concept page. A standalone treatment would serve as a reference anchor and clarify the distinction for readers encountering it in different articles. Target section: concepts/. See [optimistic-2026-03-04-afternoon](/reviews/optimistic-2026-03-04-afternoon/).
+- **Output**: Write concept page on observational closure
+
+### ✓ 2026-03-13: Write article on cetacean and corvid consciousness as amplification test cases
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-03-04. The baseline cognition and consciousness-as-amplifier hypotheses focus on primate lineages. Cetaceans (dolphins, whales) and corvids (crows, ravens) show convergent evolution of sophisticated cognition—some corvids demonstrate metarepresentation. If consciousness amplifies cognition, these independent lineages provide additional test cases. Builds on baseline-cognition.md, consciousness-as-amplifier.md, animal-consciousness.md, consciousness-threshold-in-cognitive-evolution.md. Target section: topics/. See [optimistic-2026-03-04-afternoon](/reviews/optimistic-2026-03-04-afternoon/).
+- **Output**: cetacean and corvid consciousness as amplification test cases
 
 ### ✓ 2026-03-13: Write article on perceptual degradation and the interface
 - **Type**: expand-topic

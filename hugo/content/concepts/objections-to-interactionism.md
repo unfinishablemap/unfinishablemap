@@ -158,7 +158,7 @@ The Map's primary response: at quantum indeterminacies, P is *not* sufficient fo
 
 ### Response 4: Delegatory Preemption
 
-[Delegatory dualism](/topics/delegatory-dualism/) (Saad, 2025) offers a response independent of quantum mechanics. When a physical brain state's default causal profile matches an experience's causal profile, the experience *[preempts](/concepts/preemption/)* the physical state's causal role through [causal-delegation](/concepts/causal-delegation/). Only one cause operates—the experience does the causal work while the physical state is sidelined. Saad also distinguishes *[observational closure](/concepts/causal-closure/)* from universal closure: mental causation need not violate what physics experiments detect.
+[Delegatory dualism](/topics/delegatory-dualism/) (Saad, 2025) offers a response independent of quantum mechanics. When a physical brain state's default causal profile matches an experience's causal profile, the experience *[preempts](/concepts/preemption/)* the physical state's causal role through [causal-delegation](/concepts/causal-delegation/). Only one cause operates—the experience does the causal work while the physical state is sidelined. Saad also distinguishes *[observational closure](/concepts/observational-closure/)* from universal closure: mental causation need not violate what physics experiments detect.
 
 ### Connection to the Luck Objection
 

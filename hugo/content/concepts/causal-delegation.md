@@ -78,7 +78,7 @@ Several causal structures have been proposed for mental causation. Delegation ha
 
 ## Observational Closure
 
-A key feature of causal delegation is its empirical invisibility—what Saad calls [observational-closure](/concepts/causal-closure/). Because experiences cause exactly the effects that their underlying physical states would have caused by default, no experiment can detect that delegation has occurred. The observable causal pattern is identical whether the experience or the physical state does the work.
+A key feature of causal delegation is its empirical invisibility—what Saad calls [observational-closure](/concepts/observational-closure/). Because experiences cause exactly the effects that their underlying physical states would have caused by default, no experiment can detect that delegation has occurred. The observable causal pattern is identical whether the experience or the physical state does the work.
 
 Saad distinguishes *universal* causal closure (every physical event has a sufficient physical cause—no exceptions) from *observational* closure (no observable violations of physical causal patterns). Delegation violates the former but respects the latter. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet makes a parallel claim: consciousness influences outcomes "without injecting energy or violating conservation laws" and produces no "empirically detectable" anomalies.
 
@@ -102,7 +102,7 @@ The full development of Saad's theory, including his five constraints on dualist
 - [preemption](/concepts/preemption/) — The causal structure underlying delegation
 - [mental-causation](/concepts/mental-causation/) — The broader problem of how consciousness causes physical effects
 - [causal-closure](/concepts/causal-closure/) — The principle that delegation selectively violates
-- [observational-closure](/concepts/causal-closure/) — Why delegation leaves no empirical trace
+- [observational-closure](/concepts/observational-closure/) — Why delegation leaves no empirical trace
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The alternative delegation rejects
 - [downward-causation](/concepts/downward-causation/) — Higher-level properties influencing lower-level processes
 - [agent-causation](/concepts/agent-causation/) — Substance causation as complementary framework for what exercises delegated powers

@@ -54,8 +54,8 @@ topics: []
 - Appropriate scope — doesn't try to replicate the full delegatory-dualism article
 
 ### Enhancements Made
-- Added `[observational-closure](/concepts/causal-closure/)` inline link in Observational Closure section
-- Expanded concepts frontmatter with `[downward-causation](/concepts/downward-causation/)`, `[agent-causation](/concepts/agent-causation/)`, `[observational-closure](/concepts/causal-closure/)`
+- Added `[observational-closure](/concepts/observational-closure/)` inline link in Observational Closure section
+- Expanded concepts frontmatter with `[downward-causation](/concepts/downward-causation/)`, `[agent-causation](/concepts/agent-causation/)`, `[observational-closure](/concepts/observational-closure/)`
 - Normalized `[epiphenomenalism](/concepts/epiphenomenalism/)` to `[epiphenomenalism](/concepts/epiphenomenalism/)` for consistency
 - Added Further Reading entries: observational-closure, downward-causation, agent-causation
 

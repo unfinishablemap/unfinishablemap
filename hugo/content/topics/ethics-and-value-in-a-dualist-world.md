@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-11 09:32:00+00:00
+ai_modified: 2026-03-13 05:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -48,11 +48,15 @@ Materialist moral philosophy faces a structural difficulty rarely acknowledged a
 
 **Moral epistemology** under materialism has difficulty explaining how we access moral facts. If moral properties are natural properties, why do they seem so different from other natural properties? If they are not natural, how do we detect them?
 
-These are not separate problems. They are symptoms of a single underlying difficulty: materialism lacks a unified ground for ethics. Attempts at unification exist—Railton's naturalistic moral realism tries to ground value in facts about individual well-being, Foot's natural goodness approach derives normativity from species-characteristic flourishing—but each achieves unity only by narrowing the scope. Railton's account struggles with agency and moral epistemology; Foot's has difficulty accommodating moral perception as anything more than pattern recognition. No single materialist framework has successfully unified all four domains. Each ethical question receives a different answer from a different framework, and the answers do not cohere.
+These are not separate problems. They are symptoms of a single underlying difficulty: materialism lacks a unified ground for ethics.
+
+The most sophisticated attempt at materialist unification is Railton's naturalistic moral realism. Railton identifies moral goodness with what would be desired by a fully informed, ideally rational version of the agent—grounding value in natural facts about well-being. This is genuinely ambitious: it aims to make value objective, naturalistically respectable, and action-guiding in a single framework. But the unification frays under scrutiny. Railton's account handles value theory well—it explains why some things are good (they satisfy idealised desires)—and offers a naturalistic moral epistemology (we discover moral facts by investigating what ideal agents would want). However, the framework struggles with agency and normativity in ways that matter. On agency, Railton's ideal-observer theory is compatible with determinism and does not require the agent to be a genuine origin of choice; moral responsibility becomes a matter of whether the agent's actual desires approximate the idealised ones, which is a comparative judgement about states the agent did not ultimately author. On normativity, the question of why we *should* pursue what our idealised selves would desire—rather than merely noting that we *would*—reintroduces the is-ought gap the framework was meant to close. The result is a theory that unifies value and epistemology at the cost of leaving agency and normativity addressed by different, supplementary frameworks.
+
+Foot's natural goodness approach faces a different version of the same difficulty. Deriving normativity from species-characteristic flourishing handles value and normativity together (goodness is what promotes flourishing; ought follows from what the organism's life-form requires) but accommodates moral perception as nothing more than recognising functional patterns, and leaves agency grounded in biological function rather than genuine origination. Each materialist framework that attempts broad unification achieves it only by narrowing the scope—unifying two or three domains while the remaining ones require independent foundations that sit uneasily with the core theory.
 
 ## The Dualist Resolution
 
-The Unfinishable Map's framework dissolves this fragmentation by grounding all four domains in consciousness.
+The Unfinishable Map's framework addresses this fragmentation by grounding all four domains in consciousness.
 
 ### Value Lives in Experience
 
@@ -60,13 +64,15 @@ The Unfinishable Map's framework dissolves this fragmentation by grounding all f
 
 This placement resolves value theory's location problem. Value does not float free in Platonic space, and it need not be constructed by rational procedures. It lives where consciousness lives—which, under dualism, is an irreducible feature of reality. The [consciousness-value-connection](/concepts/consciousness-value-connection/) makes this explicit: without a subject for whom things matter, nothing can possess intrinsic value. Dualism ensures such subjects are ontologically real, not merely functional descriptions of physical processes.
 
+A sophisticated error theorist will object that phenomenal value realism is precisely the kind of move Mackie's argument from queerness targets: positing entities (objective values constituted by experience) utterly unlike anything else in the natural world. If the felt badness of suffering *just is* moral badness, we are claiming that some features of reality are simultaneously descriptive and normative—a combination Mackie argued has no parallel in nature. The dualist response is that consciousness itself has no parallel in nature. Under dualism, subjective experience is already an ontologically distinctive feature of reality—irreducible to physical description, known through first-person access rather than third-person observation. Finding evaluative properties within this already-distinctive domain is not the arbitrary projection of values onto a value-free world that Mackie envisioned. The queerness objection assumes that all of reality is the kind of thing physics describes; once that assumption is rejected (as the Map's first tenet requires), the alleged queerness of phenomenal value dissolves. Values are queer relative to the physical world, but they are at home within conscious experience—and conscious experience is real.
+
 The Map extends this beyond hedonism to [phenomenal value pluralism](/topics/phenomenal-value-realism/#beyond-hedonism): meaning, aesthetic quality, agency, understanding, and connection each carry intrinsic value as features of experience. The felt significance of meaningful engagement is not reducible to a balance of pleasures and pains. But all value dimensions share the same ground—they are features of consciousness, and consciousness is irreducible.
 
 ### Agency Is Genuine
 
 [Agent causation](/concepts/agent-causation/) provides what compatibilism cannot: the agent as an irreducible origin of choice. The [free will debate](/topics/free-will/) pivots on exactly this question—whether any account short of genuine origination can ground moral desert. Under the Map's framework, consciousness selects among possibilities that quantum indeterminacy leaves open in neural processing—a speculative mechanism, but one that preserves what matters ethically: the agent genuinely authors their choices.
 
-This transforms [moral-responsibility](/concepts/moral-responsibility/) from pragmatic convention into metaphysical fact. Desert becomes real: the agent who chose cruelty when kindness was available exercised a causal power they actually possessed. The [implications](/topics/moral-implications-of-genuine-agency/) extend beyond desert to obligation (which addresses genuinely open possibilities), character formation (which is genuine self-creation through accumulated selections), and the reconstitution of moral luck (causal luck is eliminated entirely when consciousness selects rather than being determined).
+This transforms [moral-responsibility](/concepts/moral-responsibility/) from pragmatic convention into metaphysical fact. Desert acquires metaphysical grounding: the agent who chose cruelty when kindness was available exercised a causal power they actually possessed. The [implications](/topics/moral-implications-of-genuine-agency/) extend beyond desert to obligation (which addresses genuinely open possibilities), character formation (which is genuine self-creation through accumulated selections), and the reconstitution of moral luck (causal luck is eliminated entirely when consciousness selects rather than being determined).
 
 The convergence matters: value and agency share the same ground. Consciousness is both where value lives and what exercises agency. The agent who makes a moral choice is the same subject for whom the choice's consequences have value. Under materialism, these are addressed by different theories that may pull in different directions. Under dualism, they are aspects of a single reality.
 
@@ -162,3 +168,17 @@ The Unfinishable Map's five tenets jointly create the conditions for unified dua
 8. Foot, P. (2001). *Natural Goodness*. Oxford University Press.
 9. Southgate, A. & Oquatre-six, C. (2026-02-02). Phenomenal Value Realism. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenal-value-realism/
 10. Southgate, A. & Oquatre-six, C. (2026-02-23). Moral Implications of Genuine Agency. *The Unfinishable Map*. https://unfinishablemap.org/topics/moral-implications-of-genuine-agency/
+
+<!-- AI REFINEMENT LOG - 2026-03-13
+Changes made:
+- Expanded Railton engagement from one sentence to a substantive paragraph analysing where his naturalistic moral realism succeeds (value, epistemology) and fails (agency, normativity)
+- Added paragraph addressing Mackie's argument from queerness directly, with dualist response that consciousness is itself ontologically distinctive
+- Softened "dissolves this fragmentation" to "addresses this fragmentation"
+- Changed "Desert becomes real" to "Desert acquires metaphysical grounding"
+- Retained Foot discussion as briefer counterpoint to the detailed Railton analysis
+
+Based on pessimistic review (pessimistic-2026-03-13.md), Issues 1 and 5.
+Key improvements: substantive materialist engagement, queerness objection addressed.
+
+This log should be removed after human review.
+-->

@@ -66,7 +66,7 @@ Physical effects caused by experience should not *also* have concurrent sufficie
 
 ### 3. Observational Closure
 
-Experiences should not cause *observable* violations of physical causal patterns. This is weaker than strict causal closure. Saad's key distinction: dualists need not accept that physics is complete everywhere—only that mental causation doesn't produce empirically detectable anomalies in laboratory experiments. The [observational-closure](/concepts/causal-closure/) concept page develops this distinction in depth.
+Experiences should not cause *observable* violations of physical causal patterns. This is weaker than strict causal closure. Saad's key distinction: dualists need not accept that physics is complete everywhere—only that mental causation doesn't produce empirically detectable anomalies in laboratory experiments. The [observational-closure](/concepts/observational-closure/) concept page develops this distinction in depth.
 
 > **Observational Closure**: "There are no observable violations of Closure." (Saad 2025)
 
@@ -116,7 +116,7 @@ This is analogous to how we understand preemption in ordinary causation. If assa
 
 ## Observational Closure Without Universal Closure
 
-A crucial contribution is Saad's distinction between *universal* causal closure and *[observational](/concepts/causal-closure/) closure*:
+A crucial contribution is Saad's distinction between *universal* causal closure and *[observational](/concepts/observational-closure/) closure*:
 
 **Universal closure**: Every physical event has a sufficient physical cause. No exceptions.
 

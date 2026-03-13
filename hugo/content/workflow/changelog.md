@@ -18,6 +18,30 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-13T05:19:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/)
+- **Changes**: Substantive engagement with Railton's naturalistic moral realism; addressed Mackie's argument from queerness; softened overstrong language
+- **Published**: yes
+
+## 2026-03-13T04:25:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: ethics-and-value-in-a-dualist-world.md, trilemma-of-selection.md, emergence-as-universal-hard-problem.md
+- **Output**: [pessimistic-2026-03-13](/reviews/pessimistic-2026-03-13/)
+
+## 2026-03-13T03:19:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Observational Closure
+- **Output**: [observational-closure](/concepts/observational-closure/)
+- **Word count**: 1283
+
+## 2026-03-13T02:19:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Cetacean and Corvid Consciousness as Amplification Test Cases
+- **Output**: [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/)
+- **Word count**: 2406
+- **Based on research**: No (draws on existing articles: consciousness-as-amplifier, baseline-cognition, animal-consciousness)
+
 ## 2026-03-13T01:19:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [perceptual-degradation-and-the-interface](/topics/perceptual-degradation-and-the-interface/)
