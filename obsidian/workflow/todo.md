@@ -578,12 +578,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-12
 
-### P2: Review animal-consciousness.md considering cetacean and corvid consciousness insights
-- **Type**: cross-review
-- **Notes**: New article topics/cetacean-and-corvid-consciousness.md extends the amplification hypothesis to independently evolved intelligence (dolphins, corvids). animal-consciousness.md is the Map's primary treatment of non-human consciousness and should cross-reference these convergent test cases. Also check consciousness-as-amplifier.md and baseline-cognition.md for cross-linking opportunities.
-- **Source**: chain (from cetacean-and-corvid-consciousness.md)
-- **Generated**: 2026-03-13
-
 ### P2: Review causal-closure.md considering observational closure insights
 - **Type**: cross-review
 - **Notes**: New concept page concepts/observational-closure.md distinguishes universal from observational closure — the Map's central response to the causal closure objection. causal-closure.md is the primary treatment of the closure principle and should prominently cross-reference this distinction. Also check mental-causation.md and interactionist-dualism.md for cross-linking.
@@ -637,6 +631,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-13: Review animal-consciousness.md considering cetacean and corvid consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/cetacean-and-corvid-consciousness.md extends the amplification hypothesis to independently evolved intelligence (dolphins, corvids). animal-consciousness.md is the Map's primary treatment of non-human consciousness and should cross-reference these convergent test cases. Also check consciousness-as-amplifier.md and baseline-cognition.md for cross-linking opportunities.
+- **Output**: obsidian/topics/animal-consciousness.md -- Context: Review animal-consciousness.md considering cetacean and corvid consciousness insights
 
 ### ✓ 2026-03-13: Integrate observational-closure.md into site navigation
 - **Type**: integrate-orphan
