@@ -638,6 +638,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-13
 
+### P3: Write article on contemplative phenomenology as systematic evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Synthesis of how meditation phenomenology (nirodha samapatti, jhana states, witness consciousness) provides systematic testing of the Map's framework claims. See optimistic-2026-03-13.md
+
+### P3: Write article on causal specificity of mental content
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map's strongest empirical argument against epiphenomenalism—specific mental content produces specific physical effects—is scattered across articles and deserves dedicated treatment. See optimistic-2026-03-13.md
+
+### P3: Write article on quantum biology status report
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Consolidate recent advances in biological quantum effects (photosynthesis, magnetoreception, enzyme catalysis) as precedent for neural quantum effects. See optimistic-2026-03-13.md
+
 ## Completed Tasks
 
 
