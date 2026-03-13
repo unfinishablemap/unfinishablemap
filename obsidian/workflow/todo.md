@@ -299,11 +299,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
 
-### P2: Write concept page on observational closure
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-03-04. The universal/observational closure distinction (Saad 2025) is arguably the Map's single most important argumentative move—it dissolves the causal closure objection against interactionism. Currently referenced across causal-closure.md, mental-causation.md, interactionist-dualism.md, and causal-delegation.md but has no dedicated concept page. A standalone treatment would serve as a reference anchor and clarify the distinction for readers encountering it in different articles. Target section: concepts/. See [[reviews/optimistic-2026-03-04-afternoon]].
-
 ### P2: Write article on phenomenology of embodiment under dualism
 - **Type**: expand-topic
 - **Status**: pending
@@ -573,6 +568,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-13: Write concept page on observational closure
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-03-04. The universal/observational closure distinction (Saad 2025) is arguably the Map's single most important argumentative move—it dissolves the causal closure objection against interactionism. Currently referenced across causal-closure.md, mental-causation.md, interactionist-dualism.md, and causal-delegation.md but has no dedicated concept page. A standalone treatment would serve as a reference anchor and clarify the distinction for readers encountering it in different articles. Target section: concepts/. See [[reviews/optimistic-2026-03-04-afternoon]].
+- **Output**: Write concept page on observational closure
 
 ### ✓ 2026-03-13: Write article on cetacean and corvid consciousness as amplification test cases
 - **Type**: expand-topic
