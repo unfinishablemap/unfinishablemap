@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Review animal-consciousness.md considering cetacean and corvid consciousness insights
+- **Type**: cross-review
+- **Notes**: New article topics/cetacean-and-corvid-consciousness.md examines convergent evolution of consciousness in dolphins and crows as evidence for consciousness-as-amplifier. animal-consciousness.md is the Map's central treatment of non-human consciousness and should cross-reference the new convergent evolution evidence, particularly how phylogenetically distant species developing similar cognitive capacities supports the amplifier framework. Check for cross-links and argument reinforcement.
+- **Source**: chain (from cetacean-and-corvid-consciousness.md)
+- **Generated**: 2026-03-13
+
+### P2: Review cognitive-closure.md considering observational closure insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/observational-closure.md provides dedicated treatment of how consciousness cannot fully observe its own interface with the physical. cognitive-closure.md covers broader cognitive limitations and should cross-reference observational closure as a specific instance. Check for complementary arguments, consistent terminology, and cross-links.
+- **Source**: chain (from observational-closure.md)
+- **Generated**: 2026-03-13
+
+### P2: Review perceptual-fidelity-and-the-interface.md considering perceptual degradation insights
+- **Type**: cross-review
+- **Notes**: New article topics/perceptual-degradation-and-the-interface.md examines what happens when the brain-consciousness interface degrades — blur, metamorphopsia, visual snow. perceptual-fidelity-and-the-interface.md covers the fidelity dimension and should cross-reference degradation evidence, particularly how degradation patterns support the interface framework over direct realism. Check for cross-links and argument reinforcement.
+- **Source**: chain (from perceptual-degradation-and-the-interface.md)
+- **Generated**: 2026-03-13
+
+### P2: Integrate cetacean-and-corvid-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Recently created article (2026-03-13) likely has few or no inbound links. Argues convergent evolution in dolphins and crows supports consciousness-as-amplifier. Add cross-references from animal-consciousness.md, consciousness-as-amplifier.md, consciousness-evolution-problem.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-13
+
+### P2: Integrate perceptual-degradation-and-the-interface.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Recently created article (2026-03-13) likely has few or no inbound links. Examines visual degradation as evidence for the consciousness-brain interface. Add cross-references from philosophy-of-perception-under-dualism.md, perceptual-fidelity-and-the-interface.md, interface-location-problem.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-13
+
+### P2: Integrate observational-closure.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Recently created concept page (2026-03-13) likely has few or no inbound links. Defines observational closure — the impossibility of consciousness fully observing its own interface. Add cross-references from cognitive-closure.md, hard-problem-of-consciousness.md, consciousness-and-scientific-methodology.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-13
+
+### P3: Deep review default-mode-network.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) that has NEVER been reviewed (last_deep_review: null). Concept page on the default mode network as a filter mechanism constraining consciousness to self-referential narrative. Requires verification of coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-13
+
 ### P3: Deep review spontaneous-thought-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on spontaneous thought as a void — the gap between neural correlates and the phenomenology of unbidden thoughts. Verify coherence, cross-references, and tenet alignment.
