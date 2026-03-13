@@ -590,6 +590,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from observational-closure.md)
 - **Generated**: 2026-03-13
 
+### P2: Integrate islamic-sufi-philosophy-of-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-08. Concept page on Islamic and Sufi philosophical perspectives on consciousness — relevant to eastern-philosophy-and-consciousness.md, the-hard-problem-in-non-western-philosophy.md, and contemplative-practice-as-philosophical-evidence.md. Add cross-references from related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-13
+
+### P2: Deep review perceptual-failure-and-the-interface.md
+- **Type**: deep-review
+- **Notes**: Created by coalesce on 2026-03-13 (merged perceptual-degradation + perceptual-fidelity). Never reviewed as a unified article. Topics article on how perceptual failures reveal the consciousness-brain interface architecture. Verify coherence after merge, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-13
+
 ### P3: Deep review brain-specialness-boundary.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on what makes brains special as sites for consciousness-matter interaction — directly relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence, cross-references, and tenet alignment.
