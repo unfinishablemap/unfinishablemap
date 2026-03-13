@@ -137,7 +137,7 @@ Applied to the brain:
 
 Key features supporting free will:
 
-**No energy injection**: Consciousness doesn't add energy; it shapes which pre-existing possibility actualizes. This respects conservation laws while allowing genuine [[mental-causation|mental causation]].
+**No energy injection**: Consciousness doesn't add energy; it shapes which pre-existing possibility actualizes. This respects conservation laws and satisfies [[observational-closure]] while allowing genuine [[mental-causation|mental causation]].
 
 **[[downward-causation|Top-down causation]]**: Mental effort (intention, attention) influences physical outcomes. The mind isn't epiphenomenal—it selects among quantum possibilities that physics leaves undetermined.
 

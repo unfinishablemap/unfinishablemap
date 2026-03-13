@@ -122,7 +122,7 @@ See [[causal-closure]] and [[mental-causation]] for detailed treatment.
 
 ## What Bidirectional Interaction Is Not
 
-**Not psychokinesis**: Consciousness doesn't move objects across rooms or read minds at distance. The proposed interaction is *minimal*—occurring at quantum scales within one's own brain, preserving conservation laws, and making no difference to the statistical distribution of outcomes physics predicts.
+**Not psychokinesis**: Consciousness doesn't move objects across rooms or read minds at distance. The proposed interaction is *minimal*—occurring at quantum scales within one's own brain, preserving conservation laws, and satisfying [[observational-closure]] (making no difference to the statistical distribution of outcomes physics predicts).
 
 **Not quantum mysticism**: This is a constrained philosophical hypothesis about the mind-body problem, not an endorsement of "quantum woo" or New Age beliefs that misappropriate physics terminology.
 

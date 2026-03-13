@@ -87,7 +87,7 @@ Standard physics leaves this unspecified — the [[measurement-problem]] remains
 
 The "selection not injection" framework proposes: consciousness selects among quantum-permitted outcomes without adding energy. All possible outcomes are already present in the wavefunction with their associated energies. When consciousness biases which outcome actualises, it doesn't inject anything new — it determines which of the pre-existing possibilities becomes real.
 
-Consider three superposed neural states A, B, and C, each with probability 1/3 and identical energy. If consciousness biases the outcome toward A, total energy is unchanged — only the identity of the actual outcome differs from what pure chance would produce. No new term in the Dirac equation is required because no new energy or force is introduced.
+Consider three superposed neural states A, B, and C, each with probability 1/3 and identical energy. If consciousness biases the outcome toward A, total energy is unchanged — only the identity of the actual outcome differs from what pure chance would produce. No new term in the Dirac equation is required because no new energy or force is introduced. This is precisely why mental causation satisfies [[observational-closure]]: the influence is real but produces no empirically detectable deviation from quantum predictions.
 
 This framework presupposes that only one quantum outcome becomes actual — a position the Map defends through its [[tenets#^no-many-worlds|rejection of Many-Worlds]] (Tenet 4). Under the Many-Worlds interpretation, every outcome occurs in a parallel branch and there is nothing to select.
 

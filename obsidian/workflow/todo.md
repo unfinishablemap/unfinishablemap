@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: orphan_integration
 - **Generated**: 2026-03-13
 
-### P2: Integrate observational-closure.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Recently created concept page (2026-03-13) likely has few or no inbound links. Defines observational closure — the impossibility of consciousness fully observing its own interface. Add cross-references from cognitive-closure.md, hard-problem-of-consciousness.md, consciousness-and-scientific-methodology.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-13
-
 ### P3: Deep review default-mode-network.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) that has NEVER been reviewed (last_deep_review: null). Concept page on the default mode network as a filter mechanism constraining consciousness to self-referential narrative. Requires verification of coherence, cross-references, and tenet alignment.
@@ -631,6 +625,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-13: Integrate observational-closure.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Recently created concept page (2026-03-13) likely has few or no inbound links. Defines observational closure — the impossibility of consciousness fully observing its own interface. Add cross-references from cognitive-closure.md, hard-problem-of-consciousness.md, consciousness-and-scientific-methodology.md, and related articles.
+- **Output**: obsidian/concepts/observational-closure.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-13: Integrate cetacean-and-corvid-consciousness.md into site navigation
 - **Type**: integrate-orphan
