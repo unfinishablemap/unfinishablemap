@@ -4,7 +4,7 @@ description: "Observational closure distinguishes empirical from metaphysical ca
 created: 2026-03-13
 modified: 2026-03-13
 human_modified:
-ai_modified: 2026-03-13T03:19:00+00:00
+ai_modified: 2026-03-13T13:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +19,7 @@ concepts:
   - "[[quantum-indeterminacy-free-will]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[mysterianism]]"
+  - "[[cognitive-closure]]"
 related_articles:
   - "[[tenets]]"
   - "[[conservation-laws-and-mental-causation]]"
@@ -27,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-13
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-13T13:19:00+00:00
 ---
 
 Observational closure is the thesis that no *observable* violations of physical causal patterns exist—that physics appears causally complete in every domain accessible to experiment. Bradford Saad (2025) introduced this distinction to separate what the evidence actually shows from the stronger metaphysical claim that [[causal-closure|causal closure]] defenders typically assert. The distinction matters because the standard argument against [[mental-causation]] requires *universal* closure (no exceptions anywhere), while the scientific evidence supports only observational closure (no *detectable* exceptions). Dualists who accept observational closure while denying universal closure can maintain that consciousness genuinely causes physical effects without contradicting any empirical finding.
@@ -62,7 +63,7 @@ The "default" qualifier is essential—it specifies what the physical state woul
 
 ### Domain Specificity
 
-The Map proposes that consciousness operates only at [[quantum-indeterminacy-free-will|quantum measurement outcomes]], where physics predicts distributions but not individual results. This is precisely the domain where causal incompleteness is built into the theory itself. Consciousness fills a gap that physics explicitly acknowledges rather than overriding a domain where physics makes determinate predictions. Since the gap is intrinsic to quantum mechanics, no amount of experimental refinement can distinguish conscious selection from indeterminate collapse.
+The Map proposes that consciousness operates only at [[quantum-indeterminacy-free-will|quantum measurement outcomes]], where physics predicts distributions but not individual results. This is precisely the domain where causal incompleteness is built into the theory itself. Consciousness fills a gap that physics explicitly acknowledges rather than overriding a domain where physics makes determinate predictions. Since the gap is intrinsic to quantum mechanics, no amount of experimental refinement can distinguish conscious selection from indeterminate collapse. (This mechanism presupposes collapse interpretations of quantum mechanics; under the [[many-worlds|Many-Worlds Interpretation]], all outcomes occur and there is nothing for consciousness to select. See [[causal-closure]] for the Map's full response to MWI.)
 
 ## Objections
 
@@ -78,9 +79,9 @@ The general claim that *some* mental causation exists somewhere is indeed unfals
 
 Many well-confirmed theories specify domains of applicability. Conservation of energy applies where energy is definable; general relativity predicts within spacetime, not "before" it; thermodynamic laws describe macroscopic aggregates, not individual particles. Observational closure specifies where mental causation's effects are distinguishable from physical causation's effects—and the answer is that they aren't distinguishable in aggregate, because the mechanisms produce identical observable patterns. Domain specification is standard scientific practice, not evasion.
 
-### Cognitive Closure as a Distinct Thesis
+## Cognitive Closure as a Distinct Thesis
 
-[[mysterianism|Colin McGinn's cognitive closure]]—the thesis that human minds may be constitutionally incapable of understanding the consciousness-physics interface—is conceptually distinct from observational closure. Cognitive closure is an epistemic claim about the limits of human understanding; observational closure is an empirical claim about the limits of physical detection. They may interact: if the consciousness-physics interface involves properties that are both cognitively closed and observationally undetectable, this would explain why the problem resists both theoretical solution and empirical resolution. But the two theses stand or fall independently.
+[[cognitive-closure|Colin McGinn's cognitive closure]]—the thesis that human minds may be constitutionally incapable of understanding the consciousness-physics interface—is conceptually distinct from observational closure. Cognitive closure is an epistemic claim about the limits of human understanding; observational closure is an empirical claim about the limits of physical detection. They may interact: if the consciousness-physics interface involves properties that are both cognitively closed and observationally undetectable, this would explain why the problem resists both theoretical solution and empirical resolution. But the two theses stand or fall independently.
 
 ## Relation to Site Perspective
 
@@ -101,7 +102,8 @@ The distinction also bears on testability. The Map's position is not empirically
 - [[preemption]] — The causal structure making delegation observationally invisible
 - [[stapp-quantum-mind]] — Quantum Zeno framework satisfying observational closure via statistical invisibility
 - [[conservation-laws-and-mental-causation]] — Why mental causation violates neither conservation laws nor observational closure
-- [[mysterianism]] — Cognitive closure as a distinct epistemic thesis
+- [[cognitive-closure]] — The distinct epistemic thesis about limits of human understanding
+- [[mysterianism]] — Broader philosophical position applying cognitive closure to consciousness
 - [[interactionist-dualism]] — The framework observational closure defends
 
 ## References
