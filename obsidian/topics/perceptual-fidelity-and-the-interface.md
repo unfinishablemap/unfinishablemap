@@ -4,7 +4,7 @@ description: "When perception degrades, it reveals something unexpected: the int
 created: 2026-03-09
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-10T16:09:00+00:00
+ai_modified: 2026-03-13T14:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,17 +27,18 @@ related_articles:
   - "[[consciousness-as-perceptual-architect]]"
   - "[[bandwidth-of-consciousness]]"
   - "[[the-interface-specification-problem]]"
+  - "[[perceptual-degradation-and-the-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-09
 last_curated:
-last_deep_review: 2026-03-10T16:09:00+00:00
+last_deep_review: 2026-03-13T14:19:00+00:00
 ---
 
 The Unfinishable Map argues that perception operates through an interface—a structured medium between consciousness and the physical world. Normal perception conceals this interface: experience feels like direct contact with reality. But when perception degrades—through blur, visual noise, or neurological damage—something paradoxical happens. The less faithfully experience tracks the external world, the more visible the interface becomes. This is the blur paradox: degraded perception is epistemically richer about the nature of experience itself, precisely because it is epistemically poorer about the world.
 
-This paradox matters because it exposes features of conscious experience that belong to the subject rather than to any physical object. Blur has a phenomenal character—a specific "what it is like"—that cannot be located in the external world. That character belongs to consciousness, and its visibility under degradation provides evidence for the [[#irreducibility-argument|irreducibility of experience]] (discussed in detail in the section on irreducibility).
+This paradox matters because it exposes features of conscious experience that belong to the subject rather than to any physical object. Blur has a phenomenal character—a specific "what it is like"—that cannot be located in the external world. That character belongs to consciousness, and its visibility under degradation provides evidence for the [[#irreducibility-argument|irreducibility of experience]] (discussed in detail in the section on irreducibility). A companion article, [[perceptual-degradation-and-the-interface|Perceptual Degradation and the Interface]], examines what the *patterns* of degradation—graded loss, selective preservation, compensatory generation—reveal about the interface's architecture.
 
 ## The Transparency Illusion and Its Failure
 
@@ -61,7 +62,7 @@ The spectrum from clear vision through progressive blur to near-blindness create
 
 Yet consciousness degrades smoothly. Ian Phillips has argued convincingly that even blindsight—residual vision after primary visual cortex damage—is not unconscious perception but "qualitatively degraded conscious vision" (Phillips, 2021). Subjects with blindsight have dim, impoverished experiences but adopt conservative reporting criteria, denying they "see" because their experience falls below their threshold for confident visual report. Using signal detection theory, Phillips shows the data fit a degraded-conscious model better than a conscious/unconscious binary.
 
-If Phillips is right, the boundary between seeing and not-seeing dissolves into a continuum: vivid clarity, soft blur, dim awareness, faint registration. Consciousness admits of degrees in a way that threshold-emergence models struggle to explain. A fundamental property—one that can be present in greater or lesser degree, like temperature or charge—fits this gradation naturally. An emergent property that depends on reaching the right level of computational complexity does not.
+If Phillips is right, the boundary between seeing and not-seeing dissolves into a continuum: vivid clarity, soft blur, dim awareness, faint registration. Consciousness admits of degrees in a way that standard threshold-emergence models struggle to explain. A fundamental property—one that can be present in greater or lesser degree, like temperature or charge—fits this gradation naturally. An emergent property that depends on reaching the right level of computational complexity does not. Some physicalist frameworks—notably Integrated Information Theory—do accommodate graded consciousness, but they do so by treating consciousness as a fundamental measure (integrated information) rather than as a threshold-emergent property, which moves closer to the Map's position than to standard emergence.
 
 The Map interprets this gradation as varying fidelity of the interface. Consciousness does not appear and disappear at neural thresholds. It operates with greater or lesser clarity depending on how well the neural interface transmits information between the physical world and the experiencing subject—a question closely related to [[bandwidth-of-consciousness|the bandwidth of consciousness]]. Blur is low-fidelity interface operation, not partial existence.
 
@@ -71,7 +72,9 @@ Close your eyes in complete darkness. You don't see nothing—you see *eigengrau
 
 Eigengrau is difficult for any account that treats conscious experience as fundamentally a readout of external physical information. If experience were simply the brain's way of making external stimuli available for behaviour, then zero input should yield zero experience. Instead, the visual system maintains a phenomenal baseline. There is always something it is like to have a visual system, even when that system receives nothing from the outside world.
 
-This baseline experience supports the Map's claim that consciousness contributes something of its own to perception. The interface is not merely a conduit; it generates phenomenal content from its own activity. The "noise floor" of perception—eigengrau, phosphenes, visual snow—is the interface revealing itself in the absence of signal. The question of what this interface *is* and where it sits remains one of the Map's central open problems (see [[the-interface-specification-problem|the interface specification problem]]).
+The compensatory character of this baseline becomes more striking in Charles Bonnet syndrome, where people with deteriorating vision experience vivid visual hallucinations—detailed faces, landscapes, geometric patterns—that bear no relation to current input. The interface does not merely maintain a noise floor; when external signal drops far enough, it generates rich phenomenal content of its own. This is not random neural firing producing noise. It is structured experience, suggesting a system that actively sustains a phenomenal field rather than passively relaying whatever arrives.
+
+These compensatory phenomena support the Map's claim that consciousness contributes something of its own to perception. The interface is not merely a conduit; it generates phenomenal content from its own activity. The "noise floor" of perception—eigengrau, phosphenes, visual snow—and its escalation into compensatory hallucination reveal the interface in the absence of signal. The question of what this interface *is* and where it sits remains one of the Map's central open problems (see [[the-interface-specification-problem|the interface specification problem]]).
 
 ## The Blur Paradox Stated
 
@@ -99,6 +102,7 @@ The blur paradox engages several of the Map's [[tenets]].
 
 ## Further Reading
 
+- [[perceptual-degradation-and-the-interface]]
 - [[perception-and-conscious-experience]]
 - [[phenomenal-transparency]]
 - [[sensorimotor-contingencies-and-the-interface]]

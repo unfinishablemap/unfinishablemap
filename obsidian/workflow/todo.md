@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review perceptual-fidelity-and-the-interface.md considering perceptual degradation insights
-- **Type**: cross-review
-- **Notes**: New article topics/perceptual-degradation-and-the-interface.md examines what happens when the brain-consciousness interface degrades — blur, metamorphopsia, visual snow. perceptual-fidelity-and-the-interface.md covers the fidelity dimension and should cross-reference degradation evidence, particularly how degradation patterns support the interface framework over direct realism. Check for cross-links and argument reinforcement.
-- **Source**: chain (from perceptual-degradation-and-the-interface.md)
-- **Generated**: 2026-03-13
-
 ### P2: Integrate cetacean-and-corvid-consciousness.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Recently created article (2026-03-13) likely has few or no inbound links. Argues convergent evolution in dolphins and crows supports consciousness-as-amplifier. Add cross-references from animal-consciousness.md, consciousness-as-amplifier.md, consciousness-evolution-problem.md, and related articles.
@@ -643,6 +637,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-13: Review perceptual-fidelity-and-the-interface.md considering perceptual degradation insights
+- **Type**: cross-review
+- **Notes**: New article topics/perceptual-degradation-and-the-interface.md examines what happens when the brain-consciousness interface degrades — blur, metamorphopsia, visual snow. perceptual-fidelity-and-the-interface.md covers the fidelity dimension and should cross-reference degradation evidence, particularly how degradation patterns support the interface framework over direct realism. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/topics/perceptual-fidelity-and-the-interface.md -- Context: Review perceptual-fidelity-and-the-interface.md considering perceptual degradation insights
 
 ### ✓ 2026-03-13: Review cognitive-closure.md considering observational closure insights
 - **Type**: cross-review
