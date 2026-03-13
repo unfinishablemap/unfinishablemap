@@ -221,6 +221,7 @@ Scientific humility requires specifying what would count against one's view.
 - [[consciousness-as-amplifier]] — How consciousness amplifies cognitive capacity
 - [[minimal-consciousness]] — How little neural complexity can support consciousness?
 - [[animal-consciousness]] — Which creatures are conscious and why
+- [[cetacean-and-corvid-consciousness]] — Convergent amplification test across dolphins and corvids with radically different neural architectures
 - [[comparative-consciousness-and-interface-differences]] — Does the interface vary across species?
 - [[prebiotic-collapse]] — What selected outcomes before minds existed
 - [[emergence]] — Strong vs weak emergence and consciousness

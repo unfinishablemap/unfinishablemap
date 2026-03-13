@@ -127,6 +127,8 @@ The cumulative culture hypothesis generates testable predictions:
 
 **Absence despite opportunity**: If cumulative culture merely required sufficient cognitive resources, great apes in enriched environments with extensive human interaction should show it. They don't. Despite decades of language training and tool use instruction, no ape population has achieved cumulative culture. The missing ingredient isn't opportunity or general intelligence but the metarepresentational capacity that consciousness provides.
 
+**Corvid tool culture as potential challenge**: New Caledonian crows manufacture tools with regional variation and possibly cumulative refinement—see [[cetacean-and-corvid-consciousness|the convergent amplification analysis]]. Whether corvid tool designs genuinely accumulate innovations across generations or are individually rediscovered remains debated, making this a critical test case for the metarepresentation requirement.
+
 ## The Evolutionary Argument
 
 Cumulative culture strengthens the evolutionary argument for conscious causation. If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—causally inert—cumulative culture should be achievable through neural complexity alone. Great apes, with brains only slightly smaller than early human ancestors, should show at least proto-cumulative culture. They don't.
@@ -207,6 +209,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 - [[consciousness-as-amplifier]] — How consciousness enhances cognitive capacity
 - [[concept-of-consciousness-and-social-cognition]] — Consciousness and the social cognition that cultural transmission requires
 - [[animal-consciousness]] — The great ape comparison in depth
+- [[cetacean-and-corvid-consciousness]] — Corvid tool culture and dolphin cognition as convergent test cases
 - [[evolution-of-consciousness]] — Why consciousness evolved
 - [[working-memory]] — The capacity constraints on metarepresentation
 - [[philosophical-zombies]] — The thought experiment and its implications for cumulative culture

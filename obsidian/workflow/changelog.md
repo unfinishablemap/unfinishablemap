@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-13T16:19:00+00:00 - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [[topics/cetacean-and-corvid-consciousness]]
+- **Word count**: 2677 → 2677 (+0, no content changes to target)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (orphan status)
+- **Enhancements made**: 8 inbound cross-links added from existing articles
+- **Files modified**: consciousness-as-amplifier, baseline-cognition, evolution-of-consciousness, comparative-consciousness-and-interface-differences, cumulative-culture, minds-without-words, consciousness-and-social-cognition, evolutionary-case-for-mental-causation
+- **Output**: [[reviews/deep-review-2026-03-13b-cetacean-and-corvid-consciousness]]
+
 ## 2026-03-13T15:20:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[topics/perceptual-degradation-and-the-interface]], [[topics/perceptual-fidelity-and-the-interface]]

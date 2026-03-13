@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate cetacean-and-corvid-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Recently created article (2026-03-13) likely has few or no inbound links. Argues convergent evolution in dolphins and crows supports consciousness-as-amplifier. Add cross-references from animal-consciousness.md, consciousness-as-amplifier.md, consciousness-evolution-problem.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-13
-
 ### ✓ 2026-03-13: Integrate perceptual-degradation-and-the-interface.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Superseded by coalesce — article merged into perceptual-failure-and-the-interface.md
@@ -637,6 +631,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-13: Integrate cetacean-and-corvid-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Recently created article (2026-03-13) likely has few or no inbound links. Argues convergent evolution in dolphins and crows supports consciousness-as-amplifier. Add cross-references from animal-consciousness.md, consciousness-as-amplifier.md, consciousness-evolution-problem.md, and related articles.
+- **Output**: obsidian/topics/cetacean-and-corvid-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-13: Review perceptual-fidelity-and-the-interface.md considering perceptual degradation insights
 - **Type**: cross-review

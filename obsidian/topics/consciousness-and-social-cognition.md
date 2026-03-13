@@ -136,6 +136,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly. T
 - [[consciousness-and-interpersonal-understanding]] — The role of consciousness in understanding other minds
 - [[phenomenology-of-trust]] — Trust as a distinctively conscious mode of interpersonal engagement
 - [[cumulative-culture]] — How cultural accumulation depends on teaching and shared intentionality
+- [[cetacean-and-corvid-consciousness]] — Dolphins and corvids display Level 1-2 social cognition through radically different neural architectures
 
 ## References
 
