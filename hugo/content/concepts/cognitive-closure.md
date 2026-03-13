@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-11 16:36:00+00:00
+ai_modified: 2026-03-13 12:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[concepts/materialism]]'
 - '[[causal-closure]]'
+- '[[observational-closure]]'
 - '[[conceptual-acquisition-limits]]'
 created: 2026-03-11
 date: &id001 2026-03-11
@@ -18,7 +19,7 @@ description: Human+AI analysis of cognitive closure—the thesis that certain pr
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 16:36:00+00:00
+last_deep_review: 2026-03-13 12:19:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -81,6 +82,8 @@ Cognitive closure is easily confused with [causal closure of the physical](/conc
 
 The two may interact. If the consciousness-physics interface involves properties we are cognitively closed to, we might be unable even to formulate experiments that would detect violations of causal closure. But causal closure could hold without cognitive closure, and cognitive closure could hold without causal closure. The distinction matters for the Map: the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet rejects causal closure while cognitive closure remains a live possibility for explaining why the mind-body problem persists.
 
+A third related concept—[observational-closure](/concepts/observational-closure/)—adds a further dimension. Observational closure holds that no *detectable* violations of physical causal completeness exist, even if mental causation is real. Where cognitive closure concerns what we can *conceive*, observational closure concerns what we can *measure*. The two may compound: if consciousness operates through mechanisms that are both cognitively opaque (we cannot conceptualise the linking property) and observationally invisible (the effects match what physics predicts by default), the mind-body problem resists both theoretical solution and empirical resolution simultaneously.
+
 ## The Scope of Closure
 
 McGinn focused on consciousness, but cognitive closure is a general thesis about mind-architecture limits. Several domains illustrate its broader reach:
@@ -123,6 +126,7 @@ The [voids](/voids/) framework operationalises cognitive closure. Rather than tr
 
 - [mysterianism](/concepts/mysterianism/) — The broader philosophical position applying cognitive closure to consciousness
 - [causal-closure](/concepts/causal-closure/) — The distinct ontological thesis about causation
+- [observational-closure](/concepts/observational-closure/) — The distinct empirical thesis about detectability
 - [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) — Fodor's nativist argument complementing cognitive closure
 - [developmental-cognitive-closure](/voids/developmental-cognitive-closure/) — How maturation creates new closures in individual minds
 - [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level cognitive constraints

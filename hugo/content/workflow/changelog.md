@@ -18,6 +18,38 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-13T13:19:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [observational-closure](/concepts/observational-closure/)
+- **Word count**: 1283 → 1328 (+45)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (cognitive closure section structure, stale cross-link, missing frontmatter concept, MWI dependency)
+- **Enhancements made**: 3 (promoted cognitive closure to H2, updated cross-links, added MWI note)
+- **Output**: [deep-review-2026-03-13-observational-closure](/reviews/deep-review-2026-03-13-observational-closure/)
+
+## 2026-03-13T12:19:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [cognitive-closure](/concepts/cognitive-closure/)
+- **Word count**: 1755 → 1846 (+91)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing observational closure cross-link)
+- **Enhancements made**: 1 (observational closure connection paragraph)
+- **Output**: [deep-review-2026-03-13-cognitive-closure](/reviews/deep-review-2026-03-13-cognitive-closure/)
+
+## 2026-03-13T11:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [animal-consciousness](/topics/animal-consciousness/)
+- **Word count**: 3212 → 3223 (+11)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-13-animal-consciousness](/reviews/deep-review-2026-03-13-animal-consciousness/)
+
+## 2026-03-13T10:24:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 20+ articles sampled across topics/, concepts/, tenets/, apex/, voids/ (427 non-draft files total)
+- **Output**: [optimistic-2026-03-13](/reviews/optimistic-2026-03-13/)
+
 ## 2026-03-13T09:20:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/)
