@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review cognitive-closure.md considering observational closure insights
-- **Type**: cross-review
-- **Notes**: New concept page concepts/observational-closure.md provides dedicated treatment of how consciousness cannot fully observe its own interface with the physical. cognitive-closure.md covers broader cognitive limitations and should cross-reference observational closure as a specific instance. Check for complementary arguments, consistent terminology, and cross-links.
-- **Source**: chain (from observational-closure.md)
-- **Generated**: 2026-03-13
-
 ### P2: Review perceptual-fidelity-and-the-interface.md considering perceptual degradation insights
 - **Type**: cross-review
 - **Notes**: New article topics/perceptual-degradation-and-the-interface.md examines what happens when the brain-consciousness interface degrades — blur, metamorphopsia, visual snow. perceptual-fidelity-and-the-interface.md covers the fidelity dimension and should cross-reference degradation evidence, particularly how degradation patterns support the interface framework over direct realism. Check for cross-links and argument reinforcement.
@@ -649,6 +643,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-13: Review cognitive-closure.md considering observational closure insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/observational-closure.md provides dedicated treatment of how consciousness cannot fully observe its own interface with the physical. cognitive-closure.md covers broader cognitive limitations and should cross-reference observational closure as a specific instance. Check for complementary arguments, consistent terminology, and cross-links.
+- **Output**: obsidian/concepts/cognitive-closure.md -- Context: Review cognitive-closure.md considering observational closure insights
 
 ### ✓ 2026-03-13: Review animal-consciousness.md considering cetacean and corvid consciousness insights
 - **Type**: cross-review
