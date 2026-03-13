@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-13T09:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/philosophy-of-perception-under-dualism]]
+- **Word count**: 2095 → 2238 (+143)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 (expanded degradation evidence, added interface-reveals-itself paragraph, new cross-links)
+- **Output**: [[reviews/deep-review-2026-03-13-philosophy-of-perception-under-dualism]]
+
 ## 2026-03-13T08:21:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[topics/emergence-as-universal-hard-problem]]
