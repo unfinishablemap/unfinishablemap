@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-12T08:19:15.762277'
+ai_modified: '2026-03-13T08:19:04.956014'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-03-12'
+date: '2026-03-13'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-12'
+modified: '2026-03-13'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-13: Dolphins and Crows: Convergent Paths to Consciousness
+
+Deep review strengthens the case that dolphins, crows, and primates independently evolved consciousness-linked capacities—self-recognition, tool culture, prospection—across radically different brain architectures.
+
+**Type**: insight  
+**Link**: [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/)
+
+---
+
 ### 2026-03-12: Can Frozen AI Models Be Conscious?
 
 Deep review sharpens the continual learning argument: LLMs can't be swapped for lookup tables any more than brains can—the token space is astronomically large. But frozen weights still lack the temporal becoming that consciousness may require.
@@ -194,15 +203,6 @@ New article examines how voluntary mental imagery—where you consciously choose
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2025484102380425626  
 **Link**: [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/)
-
----
-
-### 2026-02-21: Why Creativity Needs Lived Time, Not Just Clock Time
-
-Strengthened article argues that genuine novelty requires Bergson's durée—accumulated, irreversible, interpenetrating experience—not mere computation over time. Atemporal systems recombine; only temporal consciousness creates.
-
-**Type**: insight  
-**Link**: [consciousness-and-temporal-becoming](/topics/consciousness-and-temporal-becoming/)
 
 ---
 

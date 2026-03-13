@@ -18,6 +18,21 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-13T07:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/)
+- **Word count**: 2406 → 2677 (+271)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-03-13-cetacean-and-corvid-consciousness](/reviews/deep-review-2026-03-13-cetacean-and-corvid-consciousness/)
+
+## 2026-03-13T06:19:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [trilemma-of-selection](/topics/trilemma-of-selection/)
+- **Changes**: Developed tracking/grasping distinction with chess engine example and Nagel (1997); acknowledged tenet circularity with No Many Worlds; added Fischer & Ravizza (1998) reference
+- **Published**: yes
+
 ## 2026-03-13T05:19:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/)
