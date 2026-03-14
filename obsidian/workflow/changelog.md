@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T18:19:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Gödel-measurement problem analogy — scope and limits
+- **Output**: [[godel-measurement-problem-analogy-2026-03-14]]
+- **Sources consulted**: 15
+
 ## 2026-03-14T18:09:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/split-brain-consciousness.md
