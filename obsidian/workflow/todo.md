@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-13
 
-### P3: Deep review memory-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-02 — 39 days ago. Voids article on the gap between memory and original qualia — whether past experiences are recoverable or lost forever. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-13
-
 ### ✓ 2026-03-13: Integrate perceptual-degradation-and-the-interface.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Superseded by coalesce — article merged into perceptual-failure-and-the-interface.md
@@ -625,6 +619,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Deep review memory-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-02 — 39 days ago. Voids article on the gap between memory and original qualia — whether past experiences are recoverable or lost forever. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/memory-void.md
 
 ### ✓ 2026-03-14: Deep review destabilizing-self-knowledge.md
 - **Type**: deep-review
