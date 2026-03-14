@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T16:19:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-agency-vs-passivity]]
+- **Word count**: 2355 → 2407 (+52)
+- **Critical issues addressed**: 3 (misattribution Bengson→Rajan et al., 2 missing references)
+- **Medium issues addressed**: 2 (choking overstatement, missing in-text Lhermitte citation)
+- **Enhancements made**: 0 (article approaching stability; fixes were mechanical)
+- **Output**: [[reviews/deep-review-2026-03-14-phenomenology-of-agency-vs-passivity]]
+
 ## 2026-03-14T16:09:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Penrose gravity-collapse connection and empirical prospects

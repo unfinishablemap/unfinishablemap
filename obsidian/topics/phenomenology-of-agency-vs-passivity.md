@@ -4,7 +4,7 @@ description: "The felt contrast between doing and undergoing reveals a fundament
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-14T16:19:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-02-09T12:36:00+00:00
+last_deep_review: 2026-03-14T16:19:00+00:00
 ---
 
 Every moment of experience falls somewhere on an axis between doing and undergoing. Lifting your arm feels different from having it lifted. Directing attention to a problem feels different from being startled by a noise. Choosing your words feels different from hearing someone else speak. This phenomenological contrast—between agency and passivity—is among the most basic features of conscious life, yet it resists explanation by any account that treats consciousness as causally inert. The Unfinishable Map's framework, in which consciousness genuinely selects among physical possibilities, predicts exactly this contrast: agency feels different from passivity because agency *is* different—it involves conscious causal contribution that passivity lacks.
@@ -76,7 +76,7 @@ The poles are idealised. Most experience falls somewhere between pure agency and
 
 Typing these words, an experienced writer barely notices the finger movements. Each keystroke was once deliberate—early typing required conscious selection of each key. Through practice, the action shifted from the agentic pole toward passivity. It still feels like *doing* something (unlike pure perception), but the effort and authorship have diminished. The [[implicit-memory|automatisation process]] gradually withdraws [[conscious-vs-unconscious-processing|conscious contribution]] while preserving behavioural output.
 
-The [[choking-phenomenon-mental-causation|choking phenomenon]] reveals what happens when consciousness re-engages with an automatised skill. A pianist performing from muscle memory suddenly attends to her fingers and stumbles. The return of agency disrupts the passivity that skilled performance requires. This is strong evidence for the Map's framework: if consciousness were causally inert, its re-engagement with a motor routine could not disrupt it.
+The [[choking-phenomenon-mental-causation|choking phenomenon]] reveals what happens when consciousness re-engages with an automatised skill. A pianist performing from muscle memory suddenly attends to her fingers and stumbles. The return of agency disrupts the passivity that skilled performance requires. This is evidence for the Map's framework: if consciousness were causally inert, its re-engagement with a motor routine could not disrupt it.
 
 ### Flow States
 
@@ -108,7 +108,7 @@ This matters because it reveals that the sense of agency is not simply body-owne
 
 If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—causally inert, merely along for the ride—the agency-passivity distinction should not exist. An epiphenomenal consciousness would be purely passive in every case. The fact that experience systematically distinguishes doing from undergoing, and that this distinction correlates with measurable neural differences in [[attention-as-interface|willed versus automatic attention]], suggests consciousness tracks its own causal contribution.
 
-The epiphenomenalist can respond that the *appearance* of agency is itself a neural product, with no actual conscious contribution. On this view, the phenomenal contrast merely *represents* a functional distinction in the brain rather than tracking genuine causal differences. But this faces a calibration problem: why would a causally inert consciousness so reliably represent exactly those situations where neural processing is genuinely demanding as "effortful"? The correlation between felt difficulty and actual task complexity—and between the [[attention-as-interface|willed attention signature]] (frontal theta in Bengson 2019) and subjective agency—would be a cosmic coincidence if consciousness contributed nothing to producing the states it tracks.
+The epiphenomenalist can respond that the *appearance* of agency is itself a neural product, with no actual conscious contribution. On this view, the phenomenal contrast merely *represents* a functional distinction in the brain rather than tracking genuine causal differences. But this faces a calibration problem: why would a causally inert consciousness so reliably represent exactly those situations where neural processing is genuinely demanding as "effortful"? The correlation between felt difficulty and actual task complexity—and between the [[attention-as-interface|willed attention signature]] (frontal theta in Rajan et al. 2019) and subjective agency—would be a cosmic coincidence if consciousness contributed nothing to producing the states it tracks.
 
 ### Against Illusionism
 
@@ -124,11 +124,11 @@ The [[witness-consciousness|witness mode]] in meditation demonstrates that consc
 
 Pathological cases illuminate the structure (see [[phenomenological-psychiatry-and-altered-experience|phenomenological psychiatry]] for extended treatment):
 
-- **Schizophrenia (thought insertion)**: Patients report thoughts that feel alien—present in consciousness but not authored by the self (Frith, 1992). The content is experienced passively despite originating internally. Agency phenomenology has been stripped from what should be an active process. Sass and Parnas's ipseity disturbance model situates this within a broader disruption of the minimal self.
+- **Schizophrenia (thought insertion)**: Patients report thoughts that feel alien—present in consciousness but not authored by the self (Frith, 1992). The content is experienced passively despite originating internally. Agency phenomenology has been stripped from what should be an active process. Sass and Parnas's (2003) ipseity disturbance model situates this within a broader disruption of the minimal self.
 
 - **Depersonalisation**: Actions feel automatic, as if performed by someone else. The entire experiential field shifts toward passivity. Patients describe watching themselves act without feeling like the actor.
 
-- **Utilisation behaviour**: Patients with frontal damage act on every object they encounter—seeing scissors, they cut; seeing a pen, they write. The stimuli drive action directly, bypassing the agentic deliberation that would normally intervene. Passivity in the face of affordances replaces active selection.
+- **Utilisation behaviour** (Lhermitte, 1983): Patients with frontal damage act on every object they encounter—seeing scissors, they cut; seeing a pen, they write. The stimuli drive action directly, bypassing the agentic deliberation that would normally intervene. Passivity in the face of affordances replaces active selection.
 
 Each disorder strips away a component normally bundled with agency, suggesting that the phenomenology of doing involves multiple separable elements: authorship, effort, control, and ownership. A physicalist could read these dissociations as evidence that agency is constructed from separable neural modules. But the fact that each module carries a distinctive *phenomenal character*—not just a functional role—is harder for purely physical accounts to explain. Why does the loss of authorship *feel* different from the loss of control, if both are just changes in information processing?
 
@@ -171,4 +171,6 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 1. Lhermitte, F. (1983). "Utilization behaviour" and its relation to lesions of the frontal lobes. *Brain*, 106(2), 237-255.
 1. Lutz, A., Slagter, H.A., Dunne, J.D. & Davidson, R.J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, 12(4), 163-169.
 1. Pacherie, E. (2008). The phenomenology of action: A conceptual framework. *Cognition*, 107(1), 179-217.
+1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J.J., Mangun, G.R. & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal–parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+1. Sass, L.A. & Parnas, J. (2003). Schizophrenia, consciousness, and the self. *Schizophrenia Bulletin*, 29(3), 427-444.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
