@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T21:29:00+00:00 - deep-review
+- **Status**: Skip
+- **File**: [[archive/concepts/non-retrocausal-conscious-selection]]
+- **Reason**: Article was archived on 2026-03-11 (coalesced into [[concepts/consciousness-selecting-neural-patterns]]). Orphan integration task was stale — removed from todo queue. No live content articles link to the archived slug; no action needed.
+
 ## 2026-03-14T21:16:00+00:00 - check-tenets
 - **Status**: Success
 - **Files checked**: 198

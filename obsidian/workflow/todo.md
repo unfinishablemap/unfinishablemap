@@ -61,18 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-13
 
-### P2: Integrate non-retrocausal-conscious-selection.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concept page (created 2026-03-07) has zero inbound links. Presents the non-retrocausal model for consciousness-physics interaction — directly relevant to the Map's quantum interface framework. Add cross-references from consciousness-collapse-theories.md, minimal-quantum-interaction.md, quantum-consciousness.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-14
-
-### P2: Integrate probability-objections-many-worlds.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concept page (created 2026-03-05) has zero inbound links. Develops probability objections to MWI — directly supports Tenet 4 (No Many Worlds). Add cross-references from many-worlds-interpretation.md, quantum-interpretations.md, born-rule.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-14
-
 ### P3: Deep review contemplative-path.md
 - **Type**: deep-review
 - **Notes**: AI-generated apex article (ai_contribution: 100) last reviewed 2026-02-03 — 39 days ago. Major synthesis article on contemplative practice as philosophical evidence. Verify coherence, cross-references, and tenet alignment.
@@ -712,6 +700,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Integrate non-retrocausal-conscious-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page (created 2026-03-07) has zero inbound links. Presents the non-retrocausal model for consciousness-physics interaction — directly relevant to the Map's quantum interface framework. Add cross-references from consciousness-collapse-theories.md, minimal-quantum-interaction.md, quantum-consciousness.md, and related articles.
+- **Output**: non-retrocausal-conscious-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-14: Integrate illusionism-as-epiphenomenalism-in-disguise.md into site navigation
 - **Type**: integrate-orphan
