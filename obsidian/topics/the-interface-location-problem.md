@@ -4,9 +4,9 @@ description: "Where does consciousness meet the brain? Four candidate sites exis
 created: 2026-02-09
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-14T22:46:00+00:00
 draft: false
-last_deep_review: 2026-02-11T00:10:00+00:00
+last_deep_review: 2026-03-14T22:46:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
@@ -116,7 +116,7 @@ The 2025 COGITATE adversarial collaboration reinforced this constraint by distin
 
 ### Dopamine and the Threshold Architecture
 
-A 2024 *Nature* study demonstrated that tonic dopamine supports movement capacity while phasic dopamine drives motivated action — mice with disrupted phasic dopamine "can move" but "won't move." Separate research (Westbrook et al. 2023) showed that striatal dopamine regulates the decision threshold at which competing motor programmes resolve.
+A 2024 *Nature* study (Cai et al.) found that dopamine dynamics are dispensable for movement but promote reward responses — mice with disrupted phasic dopamine retain motor capacity but lose goal-directed initiative. Separate research (Westbrook et al. 2023) showed that striatal dopamine regulates the decision threshold at which competing motor programmes resolve.
 
 This clarifies the relationship between the Map's framework and the physical substrate. Dopamine does not generate movement or select actions — it sets the conditions under which selection occurs. The neural competition model (Cisek 2007) shows that multiple action representations exist simultaneously in premotor cortex, competing until one crosses a threshold. Dopamine modulates that threshold; consciousness, on the Map's account, determines which option crosses first. The interface location, then, must be wherever threshold-crossing events involve quantum indeterminacy.
 
@@ -185,7 +185,7 @@ The interface location problem sits at the intersection of the Map's philosophic
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet requires that consciousness acts at quantum indeterminacies. Constrained pluralism specifies: at quantum indeterminacies *within the attention-motor architecture*, at sites involved in *threshold-crossing events* during action selection.
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains from the dopamine research. The "can move / won't move" dissociation in dopamine-deficient mice — motor capacity intact, goal-directed initiative absent — maps onto the Map's distinction between neural computation (which generates options) and conscious selection (which determines which option becomes action). Dopamine sets the conditions; consciousness does the selecting.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains from the dopamine research. The dissociation in dopamine-deficient mice — motor capacity intact, goal-directed initiative absent — maps onto the Map's distinction between neural computation (which generates options) and conscious selection (which determines which option becomes action). Dopamine sets the conditions; consciousness does the selecting.
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies to the hierarchical model itself. A single-site answer would be simpler. But if the interface actually spans multiple levels — molecular, cellular, network — insisting on a single site would sacrifice accuracy for parsimony. The Map should follow the evidence toward complexity if that is where the evidence leads.
 
@@ -208,7 +208,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies to the hier
 
 1. Cisek, P. (2007). Cortical mechanisms of action selection: the affordance competition hypothesis. *Philosophical Transactions of the Royal Society B*, 362(1485), 1585-1599.
 1. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
-1. Kaeser, P.A., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*. https://doi.org/10.1038/s41586-024-08038-z
+1. Cai, X., Liu, C., et al. (2024). Dopamine dynamics are dispensable for movement but promote reward responses. *Nature*, 635, 406-414. https://doi.org/10.1038/s41586-024-08038-z
 1. Litt, A., et al. (2006). Is the brain a quantum computer? *Cognitive Science*, 30(3), 593–603.
 1. Meister, M. (2024). The physical limits of perception. *Proceedings of the National Academy of Sciences*, 121(14), e2400258121.
 1. Melloni, L. et al. (2025). An adversarial collaboration to critically evaluate theories of consciousness. *Science*.

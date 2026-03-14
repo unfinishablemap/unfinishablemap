@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T22:46:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/the-interface-location-problem]]
+- **Word count**: 3214 → 3217 (+3)
+- **Critical issues addressed**: 2 (wrong first author Kaeser→Cai for dopamine paper; false quotation of dopamine study findings)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added volume/page numbers to Cai et al. reference)
+- **Output**: [[reviews/deep-review-2026-03-14-the-interface-location-problem]]
+
 ## 2026-03-14T22:36:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/pairing-problem]]
