@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-01 03:40:00+00:00
+ai_modified: 2026-03-13 23:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -97,7 +97,7 @@ Neuroimaging confirms that hypnosis alters executive control network integration
 
 ### Meditation
 
-Advanced meditation produces states ranging from focused absorption (samadhi) to [witness awareness](/concepts/witness-consciousness/) to cessation events—"radically altered states characterised by full loss of consciousness" that, unlike anaesthetic unconsciousness, are voluntary and transformative. Tantric yoga offers systematic phenomenology of consciousness structures that meditators navigate deliberately. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) documents how these states converge structurally across Buddhist, Hindu, Christian, Sufi, and Daoist practices—self-dissolution, contentless awareness, and subject-object collapse appear independently across traditions with incompatible metaphysics.
+Advanced meditation produces states ranging from focused absorption (samadhi) to [witness awareness](/concepts/witness-consciousness/) to cessation events—"radically altered states characterised by full loss of consciousness" that, unlike anaesthetic unconsciousness, are voluntary and transformative. Tantric yoga offers systematic phenomenology of consciousness structures that meditators navigate deliberately. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) documents how these states converge structurally across Buddhist, Hindu, Christian, [Sufi](/concepts/islamic-sufi-philosophy-of-consciousness/), and Daoist practices—self-dissolution, contentless awareness, and subject-object collapse appear independently across traditions with incompatible metaphysics.
 
 The voluntariness is crucial. Meditators deliberately alter their brain-consciousness interface through attention training. Longitudinal studies show meditation produces lasting structural brain changes. From the Map's framework, this provides evidence for [Bidirectional Interaction](/tenets/#bidirectional-interaction): consciousness can deliberately reconfigure its neural interface through sustained practice.
 

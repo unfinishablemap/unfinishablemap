@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-02-26 19:46:00+00:00
+ai_modified: 2026-03-13 23:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -117,7 +117,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet claims
 
 ## Tensions with the Map's Framework
 
-Process solutions to the interaction problem—including Whitehead's, Mulla Ṣadrā's, and Buddhist dependent origination—form one of [five recurring structural types](/topics/interaction-solutions-across-traditions/) identified across philosophical traditions. Their power lies in dissolving the problem entirely rather than solving it within a dualist framework.
+Process solutions to the interaction problem—including Whitehead's, [Mulla Ṣadrā's](/concepts/islamic-sufi-philosophy-of-consciousness/), and Buddhist dependent origination—form one of [five recurring structural types](/topics/interaction-solutions-across-traditions/) identified across philosophical traditions. Their power lies in dissolving the problem entirely rather than solving it within a dualist framework.
 
 Despite affinities, process philosophy sits uneasily with some of the Map's commitments:
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-05
-ai_modified: 2026-03-05 05:35:00+00:00
+ai_modified: 2026-03-13 23:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -41,7 +41,7 @@ Maimonides (c. 1190) developed a rigorous version: positive attributes of God ar
 
 Nicholas of Cusa (1401-1464) gave the approach its most systematic philosophical treatment through *docta ignorantia* — learned ignorance. Human cognition works through measurement and comparison: we understand by relating the unknown to the known. But some subjects — the infinite, the absolute — cannot be grasped through comparison because there is nothing of their kind to compare them to. Cusanus distinguished *simple ignorance* (not knowing and not knowing that you don't know) from *learned ignorance* (knowing precisely what you cannot know and why). The latter is an epistemic achievement.
 
-The method appears independently across traditions: Buddhist descriptions of Nirvana through negation, Advaita Vedanta's *neti neti* ("not this, not this"), Islamic Sufi apophaticism. This cross-cultural convergence suggests the method addresses something structural about certain subjects rather than reflecting a single tradition's assumptions.
+The method appears independently across traditions: Buddhist descriptions of Nirvana through negation, Advaita Vedanta's *neti neti* ("not this, not this"), [Islamic Sufi apophaticism](/concepts/islamic-sufi-philosophy-of-consciousness/). This cross-cultural convergence suggests the method addresses something structural about certain subjects rather than reflecting a single tradition's assumptions.
 
 ## The Method
 

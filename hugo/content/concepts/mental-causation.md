@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-11 19:05:00+00:00
+ai_modified: 2026-03-13 23:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -165,7 +165,7 @@ The phenomenology of [mental effort](/concepts/mental-effort/) supports this: ef
 
 ### Process Philosophy Alternative
 
-Whitehead's process philosophy reframes causation through "actual occasions"—momentary experiential events exercising self-determination in constituting themselves from their causal inheritance. On this view, causation is inherently experiential: each moment contributes something new through creative synthesis. Mulla Ṣadrā arrived at a structurally similar dissolution centuries earlier through his doctrine of substantial motion—see [interaction-solutions-across-traditions](/topics/interaction-solutions-across-traditions/) for how process solutions form one of five recurring types across philosophical traditions.
+Whitehead's process philosophy reframes causation through "actual occasions"—momentary experiential events exercising self-determination in constituting themselves from their causal inheritance. On this view, causation is inherently experiential: each moment contributes something new through creative synthesis. [Mulla Ṣadrā](/concepts/islamic-sufi-philosophy-of-consciousness/) arrived at a structurally similar dissolution centuries earlier through his doctrine of substantial motion—see [interaction-solutions-across-traditions](/topics/interaction-solutions-across-traditions/) for how process solutions form one of five recurring types across philosophical traditions.
 
 If all causation involves experiential self-determination, human mental causation exemplifies what causation fundamentally is rather than being metaphysically exceptional. The exclusion argument's assumption that causation is purely event-event regularities would be mistaken from the start.
 

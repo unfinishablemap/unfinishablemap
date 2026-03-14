@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-03-13 18:25:00+00:00
+ai_modified: 2026-03-14 00:24:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -23,13 +23,13 @@ concepts:
 - '[[default-mode-network]]'
 - '[[causal-closure]]'
 created: 2026-03-09
-date: &id001 2026-03-13
+date: &id001 2026-03-14
 description: 'Perceptual degradation reveals the consciousness-brain interface: its
   bandwidth architecture, its blur paradox, and its filter-like behaviour under stress.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-13 18:25:00+00:00
+last_deep_review: 2026-03-14 00:24:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,7 +56,7 @@ Normal perception is [phenomenally transparent](/concepts/phenomenal-transparenc
 
 Blur shatters this transparency. Remove your glasses, and you do not merely lose information about the external world—you gain something: awareness of the medium through which you were perceiving. The blurriness is not a property of the objects you are looking at. It is a property of *your experience*. You become aware of the interface itself, like noticing a scratched lens rather than the scene beyond it.
 
-This is not a minor inconvenience for representationalism. If phenomenal character supervenes entirely on representational content directed at external objects, then blur should be explicable as representing some external property—perhaps the spatial indeterminacy of object boundaries. But as Martina (2023) argues, maximally blurry experiences manifestly lack details present in clear experiences, and the degradation in phenomenal content outstrips any plausible change in what is being represented about the world. The qualitative character of blur—its softness, its haziness, its particular texture—is a feature of experience with no home in the external physical scene.
+This is not a minor inconvenience for representationalism. If phenomenal character supervenes entirely on representational content directed at external objects, then blur should be explicable as representing some external property—perhaps the spatial indeterminacy of object boundaries. But as Martina (2023) argues, maximally blurry experiences manifestly lack details present in clear experiences, and the degradation in phenomenal content outstrips any plausible change in what is being represented about the world. The [qualitative character](/concepts/qualia/) of blur—its softness, its haziness, its particular texture—is a feature of experience with no home in the external physical scene.
 
 ## The Blur Paradox
 
@@ -92,7 +92,7 @@ Several features of perceptual degradation are consistent with bandwidth limitat
 
 A physicalist will point out that distributed neural networks—the kind that underpin the [neural correlates of consciousness](/concepts/neural-correlates-of-consciousness/)—degrade gracefully by their architecture. Damage nodes in a parallel distributed system and performance declines smoothly—no interface required. Priority preservation might simply reflect evolutionary pressure: motion detection circuits are more redundantly wired than fine-texture circuits because motion matters more for survival.
 
-This objection has force for any single degradation pattern in isolation. But it struggles with the full pattern. First, compensatory phenomena like Charles Bonnet hallucinations are often explained as *release phenomena*—when inhibitory inputs are removed, previously suppressed neural populations fire spontaneously. This accounts for some compensatory generation, but not its character: the hallucinations are vivid, structured, and phenomenally rich in ways that differ categorically from the degraded input they replace. The neural explanation tells us *why* certain neurons fire; it does not explain why that firing feels like seeing a detailed face rather than producing dim static. Second, the anaesthesia dissociation (discussed in the next section) produces a categorically different failure mode from degradation, which is difficult to explain if consciousness simply *is* the network's activity. Third, the filter-theory cases where degradation *expands* experience run directly counter to the prediction that less network activity should always mean less output. Each individual pattern might be accommodated by physicalism; the combination of all four—graded loss, priority preservation, compensatory generation, and occasional expansion—fits more naturally with an interface that has its own architectural constraints.
+This objection has force for any single degradation pattern in isolation. But it struggles with the full pattern. First, compensatory phenomena like Charles Bonnet hallucinations are often explained as *release phenomena*—when inhibitory inputs are removed, previously suppressed neural populations fire spontaneously. This accounts for some compensatory generation, but not its character: the hallucinations are vivid, structured, and phenomenally rich in ways that differ categorically from the degraded input they replace. The neural explanation tells us *why* certain neurons fire; it does not explain why that firing feels like seeing a detailed face rather than producing dim static. Second, the anaesthesia dissociation (discussed in the next section) produces a categorically different failure mode from degradation, which is difficult to explain if consciousness simply *is* the network's activity. Third, the filter-theory cases (detailed in Selective Preservation and the Filter) where degradation *expands* experience run directly counter to the prediction that less network activity should always mean less output. Each individual pattern might be accommodated by physicalism; the combination of all four—graded loss, priority preservation, compensatory generation, and occasional expansion—fits more naturally with an interface that has its own architectural constraints.
 
 ## What Anaesthesia Reveals
 

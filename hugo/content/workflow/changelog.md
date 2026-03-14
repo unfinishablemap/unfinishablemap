@@ -18,6 +18,42 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T01:22:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenological-evidence](/concepts/phenomenological-evidence/)
+- **Word count**: 2181 → 2208 (+27)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-links)
+- **Enhancements made**: 2 (cross-links to phenomenal-acquaintance, contemplative-epistemology)
+- **Output**: [deep-review-2026-03-14-phenomenological-evidence](/reviews/deep-review-2026-03-14-phenomenological-evidence/)
+
+## 2026-03-14T00:24:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)
+- **Word count**: 2767 → 2774 (+7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-14-perceptual-failure-and-the-interface](/reviews/deep-review-2026-03-14-perceptual-failure-and-the-interface/)
+
+## 2026-03-13T23:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [islamic-sufi-philosophy-of-consciousness](/concepts/islamic-sufi-philosophy-of-consciousness/)
+- **Word count**: 2084 → 2140 (+56)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 (article) + 8 (inbound cross-links from 7 articles)
+- **Output**: [deep-review-2026-03-13-islamic-sufi-philosophy-of-consciousness](/reviews/deep-review-2026-03-13-islamic-sufi-philosophy-of-consciousness/)
+
+## 2026-03-13T22:25:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [time-consciousness-growing-block](/apex/time-consciousness-growing-block/)
+- **Word count**: 3113 → 3095 (−18)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 4
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-03-13-time-consciousness-growing-block](/reviews/deep-review-2026-03-13-time-consciousness-growing-block/)
+
 ## 2026-03-13T21:19:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [causal-closure](/concepts/causal-closure/)

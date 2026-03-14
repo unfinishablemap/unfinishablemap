@@ -38,6 +38,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on dreams, problem-solving, and conscious influence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/dreams-problem-solving-lucid-dreaming-2026-02-06.md. Konkoly et al. 2026 shows targeted memory reactivation during REM doubles problem-solving — direct evidence dreaming is functionally active, not neural noise. Lucid dreaming demonstrates consciousness modulating its own states despite altered neurochemistry. Dreams as a natural laboratory for studying consciousness independently of physical substrate. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-13
+
+### P3: Deep review language-thought-boundary.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 40 days ago. Voids article on where thought exceeds language — visual cognition, qualia, and the limits of articulation. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-13
+
+### P3: Deep review ai-as-void-explorer.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 40 days ago. Voids article on whether artificial minds can probe cognitive territories closed to humans. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-13
+
+### P3: Deep review destabilizing-self-knowledge.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 40 days ago. Voids article on truths about consciousness that may be structurally inaccessible because grasping them would dissolve the knower. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-13
+
+### P3: Deep review memory-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-02 — 39 days ago. Voids article on the gap between memory and original qualia — whether past experiences are recoverable or lost forever. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-13
+
 ### ✓ 2026-03-13: Integrate perceptual-degradation-and-the-interface.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Superseded by coalesce — article merged into perceptual-failure-and-the-interface.md
@@ -579,18 +609,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-12
 
-### P2: Integrate islamic-sufi-philosophy-of-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Created 2026-03-08. Concept page on Islamic and Sufi philosophical perspectives on consciousness — relevant to eastern-philosophy-and-consciousness.md, the-hard-problem-in-non-western-philosophy.md, and contemplative-practice-as-philosophical-evidence.md. Add cross-references from related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-13
-
-### P2: Deep review perceptual-failure-and-the-interface.md
-- **Type**: deep-review
-- **Notes**: Created by coalesce on 2026-03-13 (merged perceptual-degradation + perceptual-fidelity). Never reviewed as a unified article. Topics article on how perceptual failures reveal the consciousness-brain interface architecture. Verify coherence after merge, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-13
-
 ### P3: Deep review brain-specialness-boundary.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on what makes brains special as sites for consciousness-matter interaction — directly relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence, cross-references, and tenet alignment.
@@ -626,6 +644,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Deep review perceptual-failure-and-the-interface.md
+- **Type**: deep-review
+- **Notes**: Created by coalesce on 2026-03-13 (merged perceptual-degradation + perceptual-fidelity). Never reviewed as a unified article. Topics article on how perceptual failures reveal the consciousness-brain interface architecture. Verify coherence after merge, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/perceptual-failure-and-the-interface.md
+
+### ✓ 2026-03-13: Integrate islamic-sufi-philosophy-of-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-08. Concept page on Islamic and Sufi philosophical perspectives on consciousness — relevant to eastern-philosophy-and-consciousness.md, the-hard-problem-in-non-western-philosophy.md, and contemplative-practice-as-philosophical-evidence.md. Add cross-references from related articles.
+- **Output**: obsidian/concepts/islamic-sufi-philosophy-of-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-13: Deep review time-consciousness-growing-block.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-02 — 39 days ago. Apex articles are highest-priority review targets. Synthesis piece on bidirectional dependence between consciousness and temporal structure — central to the Map's temporal metaphysics. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/apex/time-consciousness-growing-block.md
 
 ### ✓ 2026-03-13: Review causal-closure.md considering observational closure insights
 - **Type**: cross-review

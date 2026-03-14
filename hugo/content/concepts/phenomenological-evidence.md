@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-02-24 12:14:00+00:00
+ai_modified: 2026-03-14 01:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -21,6 +21,8 @@ concepts:
 - '[[contemplative-neuroscience]]'
 - '[[cognitive-phenomenology]]'
 - '[[altered-states-of-consciousness]]'
+- '[[phenomenal-acquaintance]]'
+- '[[contemplative-epistemology]]'
 created: 2026-02-01
 date: &id001 2026-02-06
 description: First-person experience reports are genuine evidence for consciousness
@@ -28,7 +30,7 @@ description: First-person experience reports are genuine evidence for consciousn
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-06 18:39:00+00:00
+last_deep_review: 2026-03-14 01:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +60,7 @@ What phenomenological evidence is *not*:
 - **Neural correlates**: Which brain regions activate during experience (third-person)
 - **Theoretical interpretation**: Claims about *why* experience has certain features (goes beyond evidence to explanation)
 
-The key characteristic: phenomenological evidence is accessed through first-person acquaintance, not through observation of external indicators.
+The key characteristic: phenomenological evidence is accessed through [first-person acquaintance](/concepts/phenomenal-acquaintance/), not through observation of external indicators.
 
 ## The Evidential Status Problem
 
@@ -87,7 +89,7 @@ Francisco Varela's [neurophenomenology](/concepts/neurophenomenology/) establish
 
 Varela's mutual constraint principle gives phenomenological evidence its scientific traction: phenomenological reports gain evidential weight when they predict neural correlates, and neural findings validate phenomenological distinctions. Neither domain dominates; both contribute evidence. This bidirectional constraint prevents phenomenology from floating free of physical reality while preventing neuroscience from ignoring the phenomena it aims to explain.
 
-Convergence across contemplative traditions further strengthens evidential claims. Buddhist vipassana, Hindu dhyana (as systematised in Patanjali's Yoga Sutras), and secular mindfulness practitioners converge on similar descriptions—impermanence of mental contents, constructed nature of self, refined temporal awareness. This cross-traditional convergence—also documented in research on [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)—suggests the structures discovered are features of consciousness itself, not artefacts of particular training methods.
+Convergence across contemplative traditions further strengthens evidential claims—a point [contemplative-epistemology](/concepts/contemplative-epistemology/) develops in detail. Buddhist vipassana, Hindu dhyana (as systematised in Patanjali's Yoga Sutras), and secular mindfulness practitioners converge on similar descriptions—impermanence of mental contents, constructed nature of self, refined temporal awareness. This cross-traditional convergence—also documented in research on [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)—suggests the structures discovered are features of consciousness itself, not artefacts of particular training methods.
 
 ### Microphenomenology
 
@@ -176,6 +178,8 @@ Phenomenological evidence provides the data that any adequate theory of consciou
 - [neurophenomenology](/concepts/neurophenomenology/) — Integration of phenomenological evidence with neuroscience
 - [introspection](/concepts/introspection/) — The reliability debate and trained first-person methods
 - [epistemology-of-introspection](/topics/epistemology-of-introspection/) — The epistemological models and the case for sui generis introspective knowledge
+- [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct, non-inferential relation grounding first-person evidence
+- [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as a knowledge source about consciousness
 - [heterophenomenology](/concepts/heterophenomenology/) — The third-person alternative approach
 - [intersubjectivity](/concepts/intersubjectivity/) — How first-person evidence achieves intersubjective validation
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — How meditation findings bear on consciousness debates
