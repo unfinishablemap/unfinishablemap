@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive limits imposed by the laws of ph
 created: 2026-02-06
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-03-07T22:39:00+00:00
+ai_modified: 2026-03-14T20:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ related_articles:
   - "[[evolved-cognitive-limits]]"
   - "[[alien-minds-void-explorers]]"
   - "[[framework-void]]"
+  - "[[what-consciousness-tells-us-about-physics]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -100,6 +101,7 @@ Unlike the [[computational-cognitive-limits|computational void]], which is prove
 - [[evolved-cognitive-limits]] — Cross-cultural evidence for shared limits
 - [[alien-minds-void-explorers]] — Non-human perspectives on cognitive space
 - [[framework-void]] — The circularity of frameworks understanding themselves
+- [[what-consciousness-tells-us-about-physics]] — Apex synthesis: the laws of physics constrain what a deeper bi-aspectual theory would need to explain
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Consciousness and matter causally influence each other. This tenet
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-03-11T21:02:00+00:00
+ai_modified: 2026-03-14T20:43:00+00:00
 last_deep_review: 2026-03-11T21:02:00+00:00
 draft: false
 topics:
@@ -28,6 +28,7 @@ related_articles:
   - "[[tenets]]"
   - "[[stapp-quantum-mind]]"
   - "[[consciousness-as-amplifier]]"
+  - "[[what-consciousness-tells-us-about-physics]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -165,6 +166,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 - [[baseline-cognition]] — The great ape comparison
 - [[downward-causation]] — Top-down causation more generally
 - [[tenets]] — The Map's foundational commitments
+- [[what-consciousness-tells-us-about-physics]] — Apex synthesis: the reverse inference shows *where* bidirectional interaction occurs and *why* it is undetectable
 
 ## References
 

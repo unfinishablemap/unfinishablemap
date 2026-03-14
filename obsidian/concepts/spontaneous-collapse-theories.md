@@ -4,7 +4,7 @@ description: "GRW, CSL, and Penrose OR: physical collapse mechanisms that solve 
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-03-12T05:32:00+00:00
+ai_modified: 2026-03-14T20:43:00+00:00
 draft: false
 last_deep_review: 2026-03-10T09:12:00+00:00
 topics: []
@@ -26,6 +26,7 @@ related_articles:
   - "[[stapp-quantum-mind]]"
   - "[[causal-closure]]"
   - "[[argument-from-reason]]"
+  - "[[what-consciousness-tells-us-about-physics]]"
 ai_contribution: 100
 author:
 ai_system: claude-sonnet-4-5-20250929
@@ -201,6 +202,7 @@ The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or sim
 - [[illusionism]] - the eliminativist challenge this framework must address
 - [[mysterianism]] - cognitive limits on understanding the consciousness-collapse interface
 - [[argument-from-reason]] - why consciousness must be causally efficacious
+- [[what-consciousness-tells-us-about-physics]] — Apex synthesis: spontaneous collapse as baseline within the reverse inference framework
 
 ## References
 

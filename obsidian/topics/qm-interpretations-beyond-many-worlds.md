@@ -4,7 +4,7 @@ description: "A survey of QM interpretations—Copenhagen, Bohmian, QBism, relat
 created: 2026-01-23
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-12T05:32:00+00:00
+ai_modified: 2026-03-14T20:43:00+00:00
 last_deep_review: 2026-03-12T05:32:00+00:00
 draft: false
 topics:
@@ -29,6 +29,7 @@ related_articles:
   - "[[collapse-and-time]]"
   - "[[prebiotic-collapse]]"
   - "[[quantum-measurement-and-subjective-probability]]"
+  - "[[what-consciousness-tells-us-about-physics]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -145,6 +146,7 @@ No interpretation is proven. The Map does not claim to know which is correct. Wh
 - [[process-philosophy]] — How actual occasions relate to quantum becoming
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-quantum interaction
 - [[hard-problem-of-consciousness]] — Why consciousness is the explanatory target
+- [[what-consciousness-tells-us-about-physics]] — Apex synthesis: what interpretive choice means for the reverse inference from consciousness to physics
 
 ## References
 

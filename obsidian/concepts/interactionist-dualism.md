@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-11T22:37:00+00:00
+ai_modified: 2026-03-14T20:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,6 +45,7 @@ related_articles:
   - "[[objections-to-interactionist-dualism-2026-01-15]]"
   - "[[concepts/materialism]]"
   - "[[duhem-quine-underdetermination-consciousness]]"
+  - "[[what-consciousness-tells-us-about-physics]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -223,6 +224,9 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 **Epistemology:**
 - [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — What kind of knowledge about the interface is epistemically available
+
+**Apex synthesis:**
+- [[what-consciousness-tells-us-about-physics]] — The reverse inference: if the tenets are correct, quantum mechanics is structurally partial
 
 **Related topics:**
 - [[mental-causation]], [[agent-causation]], [[emergence]], [[concepts/epiphenomenalism]], [[evolution-of-consciousness]], [[quantum-indeterminacy-free-will]], [[consciousness-as-amplifier]], [[delegatory-dualism]], [[causal-interface]], [[interaction-solutions-across-traditions]]

@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-03-12T00:03:00+00:00
+ai_modified: 2026-03-14T20:43:00+00:00
 draft: false
 topics: []
 concepts:
@@ -65,6 +65,7 @@ related_articles:
   - "[[objectivity-and-consciousness]]"
   - "[[bandwidth-of-consciousness]]"
   - "[[duhem-quine-underdetermination-consciousness]]"
+  - "[[what-consciousness-tells-us-about-physics]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -293,6 +294,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [[buddhism-and-dualism]] — How Buddhist philosophy engages with dualist frameworks
 - [[metaproblem-of-consciousness-under-dualism]] — How interactionism turns the metaproblem from threat to vindication
 - [[tenets]] — The foundational commitments of the Map
+- [[what-consciousness-tells-us-about-physics]] — Apex synthesis: the reverse inference from consciousness to physics—arguing the hard problem and measurement problem are the same boundary seen from different sides
 
 ### External Resources
 - [Consciousness (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/consciousness/)

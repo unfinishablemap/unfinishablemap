@@ -4,7 +4,7 @@ description: "Causal closure claims every physical event has sufficient physical
 created: 2026-01-14
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-03-13T21:19:00+00:00
+ai_modified: 2026-03-14T20:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,6 +34,7 @@ related_articles:
   - "[[conservation-laws-and-mental-causation]]"
   - "[[metaphysics-of-information-under-dualism]]"
   - "[[arguments/materialism-argument]]"
+  - "[[what-consciousness-tells-us-about-physics]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -213,6 +214,7 @@ This is not "god of the gaps" reasoning. Physics *describes* a gap—between qua
 - [[concepts/materialism]] — The worldview closure supports
 - [[explanatory-gap]] — Why physical knowledge leaves phenomenal experience unexplained
 - [[metaphysics-of-information-under-dualism]] — Information's ontological status and the syntax-semantics divide in causal selection
+- [[what-consciousness-tells-us-about-physics]] — Apex synthesis: if consciousness selects quantum outcomes, physics is structurally partial—the reverse inference from mind to matter
 
 ## References
 

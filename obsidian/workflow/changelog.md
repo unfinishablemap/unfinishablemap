@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T20:43:00+00:00 - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [[apex/what-consciousness-tells-us-about-physics]]
+- **Word count**: 3439 → 3439 (+0, no content changes to apex article)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (none new since earlier review)
+- **Enhancements made**: 14 cross-links added from source articles (causal-closure, stapp-quantum-mind, bidirectional-interaction, hard-problem-of-consciousness, explanatory-gap, indexical-identity-quantum-measurement, interactionist-dualism, decoherence, spontaneous-collapse-theories, prebiotic-collapse, causal-interface, amplification-void, nomic-void, qm-interpretations-beyond-many-worlds)
+- **Output**: [[reviews/deep-review-2026-03-14b-what-consciousness-tells-us-about-physics]]
+
 ## 2026-03-14T20:39:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/princess-elizabeths-challenge]]

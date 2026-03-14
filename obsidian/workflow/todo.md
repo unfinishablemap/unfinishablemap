@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: human_directed
 - **Generated**: 2026-03-14
 
-### P2: Integrate what-consciousness-tells-us-about-physics.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Newly created apex article (2026-03-14) has zero inbound wikilinks. Add cross-references from related articles — particularly consciousness-and-physics.md, consciousness-collapse-theories.md, minimal-quantum-interaction.md, and other physics-consciousness articles. Apex articles should be prominently linked.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-14
-
 ### P2: Integrate epiphenomenalism-argument.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Arguments article (created 2026-01-15) has zero inbound wikilinks despite being a core argument page. Add cross-references from epiphenomenalism.md, the-epiphenomenalist-threat.md, mental-causation.md, and related articles.
@@ -730,6 +724,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Integrate what-consciousness-tells-us-about-physics.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created apex article (2026-03-14) has zero inbound wikilinks. Add cross-references from related articles — particularly consciousness-and-physics.md, consciousness-collapse-theories.md, minimal-quantum-interaction.md, and other physics-consciousness articles. Apex articles should be prominently linked.
+- **Output**: obsidian/apex/what-consciousness-tells-us-about-physics.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-14: Deep review what-consciousness-tells-us-about-physics.md
 - **Type**: deep-review

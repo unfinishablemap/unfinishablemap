@@ -4,7 +4,7 @@ description: "Human+AI exploration of why we cannot observe how consciousness ca
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-02-25T10:07:00+00:00
+ai_modified: 2026-03-14T20:43:00+00:00
 last_deep_review: 2026-02-25T10:07:00+00:00
 draft: false
 topics:
@@ -28,6 +28,7 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[mysterianism]]"
   - "[[intrinsic-nature-void]]"
+  - "[[what-consciousness-tells-us-about-physics]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -168,6 +169,7 @@ This void appears in the [[tenet-generated-voids|tenet-generated voids]] framewo
 - [[topics/free-will|Free Will]] — The broader context for questions of agency
 - [[agent-causation|Agent Causation]] — The philosophical concept of the self as cause
 - [[epistemology-of-mechanism-at-the-consciousness-matter-interface|Epistemology of Mechanism at the Interface]] — What inferential methods remain when direct observation fails
+- [[what-consciousness-tells-us-about-physics]] — Apex synthesis: why the interface between consciousness and physics resists description in terms of either domain
 
 ## References
 

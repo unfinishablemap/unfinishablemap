@@ -4,7 +4,7 @@ description: "How quantum wave functions collapsed before conscious observers ex
 created: 2026-01-16
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-03-12T13:23:00+00:00
+ai_modified: 2026-03-14T20:43:00+00:00
 draft: false
 coalesced_from:
   - "/topics/collapse-before-minds/"
@@ -28,6 +28,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[collapse-before-minds-early-universe-2026-01-16]]"
+  - "[[what-consciousness-tells-us-about-physics]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -224,6 +225,7 @@ The Map's commitment is to the *framework* (real collapse + consciousness modula
 - [[haecceity]] — Why indexical identity matters for rejecting Many Worlds
 - [[combination-problem]] — The challenge facing panpsychist responses
 - [[concepts/many-worlds]] — Detailed arguments against the many-worlds interpretation
+- [[what-consciousness-tells-us-about-physics]] — Apex synthesis: prebiotic collapse as constraint on deeper theory
 
 ## References
 

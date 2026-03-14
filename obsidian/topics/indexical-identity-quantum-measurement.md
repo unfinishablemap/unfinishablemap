@@ -4,7 +4,7 @@ description: "Why does *this* consciousness experience *this* outcome? The index
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-03-12T04:17:00+00:00
+ai_modified: 2026-03-14T20:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[quantum-measurement-subjective-probability-2026-01-23]]"
   - "[[the-measurement-problem-as-philosophical-problem]]"
+  - "[[what-consciousness-tells-us-about-physics]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -175,6 +176,7 @@ This topic intersects all five tenets:
 - [[topics/free-will]] - If consciousness grounds indexical determination at quantum measurement, the self may be genuinely causal in a libertarian sense
 - [[the-measurement-problem-as-philosophical-problem]] — The measurement problem as a species of the hard problem
 - [[indexical-void]] — The unchartable territory of why *this* consciousness exists
+- [[what-consciousness-tells-us-about-physics]] — Apex synthesis: the indexical dimension as part of the reverse inference from consciousness to physics
 
 ## References
 
