@@ -1,10 +1,10 @@
 ---
 title: "The Phenomenology of Framework Inhabitation"
-description: "Theoretical frameworks are not held like luggage but inhabited like dwellings. The felt invisibility of one's own conceptual lens, the gravitational pull of commitment, and the rare vertigo of framework slippage reveal consciousness doing irreducible epistemic work."
+description: "Frameworks are inhabited like dwellings, not carried like luggage. Their phenomenal transparency, gravitational pull, and rare slippage reveal irreducible conscious work."
 created: 2026-02-18
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-03-14T14:35:00+00:00
+ai_modified: 2026-03-14T15:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-14
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-14T15:06:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-the-phenomenology-of-framework-dependence/"
   - "/topics/phenomenology-of-theoretical-commitment/"
@@ -63,7 +63,7 @@ Davidson (1974) famously argued that the very idea of incommensurable conceptual
 
 ## The Perceptual Restructuring of Commitment
 
-A theoretical commitment reshapes what shows up as salient. The committed Darwinist sees adaptation where others see mere variation. The committed dualist perceives the explanatory gap as a feature of reality, not a temporary failure of science. Commitment literally reconfigures the phenomenal foreground and background of intellectual experience.
+A theoretical commitment reshapes what shows up as salient. The committed Darwinist sees adaptation where others see mere variation. The committed dualist perceives the explanatory gap as a feature of reality, not a temporary failure of science. Commitment reconfigures the phenomenal foreground and background of intellectual experience.
 
 Consider the felt difference between encountering evidence that fits your framework and evidence that resists it. Confirming evidence arrives with a distinctive phenomenal smoothness — it slots into place, extends existing patterns, reinforces the sense that the world is intelligible. Anomalous evidence, by contrast, produces a characteristic friction. It does not merely fail to fit; it actively disrupts the perceptual fluency that commitment provides.
 
@@ -111,9 +111,9 @@ The transience of ordinary slippage is nonetheless philosophically significant: 
 
 ## The Temporal Phenomenology of Commitment
 
-Theoretical commitment has a distinctive temporal texture. Fresh commitment carries an excitement of new possibility — the world is suddenly more intelligible, previously disconnected observations snap into focus. Mature commitment settles into something quieter but more pervasive. The framework becomes background rather than foreground, operating beneath explicit attention while still structuring every encounter with evidence.
+Theoretical commitment has a distinctive temporal texture. Fresh commitment carries an excitement of new possibility — the world is suddenly more intelligible, previously disconnected observations snap into focus. Mature commitment settles into something quieter but more pervasive, operating beneath explicit attention while structuring every encounter with evidence.
 
-This temporal evolution matters for understanding how theoretical commitments can become invisible to those who hold them. A deeply naturalised commitment no longer feels like a commitment at all — it feels like seeing things as they are. The materialist who has held their position for decades does not experience it as a theoretical choice; they experience it as realism. The phenomenal signature of commitment fades as the commitment deepens, which is precisely why [[phenomenology-of-conceptual-change|conceptual change]] can be so disorienting — it reveals as contingent what had felt like necessity.
+This temporal evolution explains how commitments become invisible. A deeply naturalised commitment no longer feels like a commitment at all — it feels like seeing things as they are. The materialist who has held their position for decades experiences it as realism, not as theoretical choice. The phenomenal signature of commitment fades as the commitment deepens, which is precisely why [[phenomenology-of-conceptual-change|conceptual change]] can be so disorienting — it reveals as contingent what had felt like necessity.
 
 Polanyi's concept of *personal knowledge* captures this: genuine knowing involves the knower's whole person, including commitments that cannot be fully articulated or detached from the act of understanding. The inhabited quality of mature commitment explains why theoretical debates so often feel like failures of mutual comprehension rather than disagreements about specific claims. Two theorists committed to rival frameworks may share all the same data and still talk past each other, because the data appears differently from within each inhabited perspective — a dynamic explored in the [[phenomenology-of-philosophical-disagreement]].
 
@@ -131,7 +131,7 @@ The phenomenology of framework inhabitation creates a specific problem for the s
 
 This does not render introspection worthless. It means introspective reports carry framework-specific information. A materialist introspecting on their visual experience may notice functional properties — the role of colour in object recognition, the spatial structure of the visual field. A dualist introspecting on the same experience may notice qualitative properties — the raw redness of red, the felt character of spatial presence. Both report accurately on what they notice. What they notice is shaped by what their framework makes salient.
 
-This has implications for the [[hard-problem-of-consciousness|hard problem]]. The explanatory gap may partly be a gap between frameworks — between a third-person framework that makes functional properties salient and a first-person framework that makes qualitative properties salient. Both frameworks give genuine access to aspects of consciousness. Neither gives access to consciousness as a whole. The persistent impasse in philosophy of mind may reflect not a failure of intelligence or argument but a structural feature of framework-dependent introspection.
+This has implications for the [[hard-problem-of-consciousness|hard problem]]. The explanatory gap may partly be a gap between frameworks — between a third-person framework that makes functional properties salient and a first-person framework that makes qualitative properties salient. Both give genuine access to aspects of consciousness; neither gives access to consciousness as a whole. The persistent impasse in philosophy of mind may reflect not a failure of intelligence or argument but a structural feature of framework-dependent introspection.
 
 This analysis is itself framework-dependent — the phenomenological vocabulary used here shapes what it can reveal. But acknowledging this reflexivity does not defuse the point; it deepens it. The inescapability of framework dependence is precisely what makes it philosophically significant rather than merely an obstacle to be overcome.
 
@@ -163,7 +163,7 @@ The Unfinishable Map's own theoretical commitments — its five [[tenets]] — a
 
 **[[tenets#^dualism|Dualism]]**: If framework inhabitation involves irreducibly phenomenal restructuring of the intellectual landscape — if seeing-through-a-theory is a mode of conscious experience that cannot be reduced to computational belief-updating — then the very activity of theorising depends on consciousness in a way that materialist accounts of cognition struggle to explain. The felt difference between committed and uncommitted engagement with evidence, the gravitational pull of coherence, the inhabited quality of theoretical perspective — these are the reasoning process itself, viewed from the inside. The Map's case for dualism is informed by this analysis rather than undermined by it: acknowledging that the dualist framework shapes what one notices does not make dualism self-refuting, since the same applies equally to materialism.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness causally influences physical outcomes, and if framework inhabitation shapes conscious experience, then frameworks are not merely epistemic but causal. The felt texture of commitment does real epistemic work — guiding attention, shaping salience, generating the coherence signals that drive theoretical progress. Consciousness does not merely observe the reasoning process; it constitutes it. The framework through which consciousness operates shapes its causal influence on the brain, which may partly explain why different philosophical traditions generate different phenomenological reports.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness causally influences physical outcomes, and if framework inhabitation shapes conscious experience, then frameworks are not merely epistemic but causal. The felt texture of commitment does real work — guiding attention, shaping salience, generating the coherence signals that drive theoretical progress. Consciousness does not merely observe the reasoning process; it constitutes it. The framework through which consciousness operates shapes its causal influence on the brain, partly explaining why different philosophical traditions generate different phenomenological reports.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: If framework dependence shapes what counts as "simple," then the materialist's claim to greater parsimony may be an artefact of the materialist framework rather than a framework-neutral observation. Within a framework that takes consciousness as fundamental, positing irreducible experience is not an additional ontological commitment but a recognition of what is directly given. Parsimony looks different from within different committed frameworks.
 
