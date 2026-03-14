@@ -58,13 +58,13 @@ topics: []
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) → duhem-quine (frontmatter + inline in Relation to Map's Perspective)
 - [explanatory-gap](/concepts/explanatory-gap/) → duhem-quine (frontmatter + inline in From Epistemic to Ontological section)
 - [interactionist-dualism](/concepts/interactionist-dualism/) → duhem-quine (frontmatter + inline at Cumulative Case opening)
-- [phenomenology-of-theoretical-commitment](/topics/phenomenology-of-theoretical-commitment/) → duhem-quine (frontmatter + inline in First-Person Asymmetry section)
+- [phenomenology-of-theoretical-commitment](/topics/phenomenology-of-framework-inhabitation/) → duhem-quine (frontmatter + inline in First-Person Asymmetry section)
 
 ### Pre-existing Cross-links (from prior review)
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) → duhem-quine
 - [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) → duhem-quine
 - [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/) → duhem-quine
-- [consciousness-and-the-phenomenology-of-framework-dependence](/topics/consciousness-and-the-phenomenology-of-framework-dependence/) → duhem-quine
+- [consciousness-and-the-phenomenology-of-framework-dependence](/topics/phenomenology-of-framework-inhabitation/) → duhem-quine
 - [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) → duhem-quine
 
 **Total inbound links: 11** (up from 5)

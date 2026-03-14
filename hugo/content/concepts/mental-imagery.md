@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-14 14:16:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: Voluntary mental imagery is consistent with consciousness's causal 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-07 01:56:00+00:00
+last_deep_review: 2026-03-14 14:16:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -93,7 +93,7 @@ The physicalist has a straightforward response: it's the *neural* rehearsal doin
 
 This is a genuine explanatory standoff. The motor imagery evidence is *consistent with* consciousness's causal efficacy but does not *uniquely establish* it. Both accounts predict that voluntary imagery (with its characteristic neural signature) produces measurable performance gains. The evidence underdetermines which interpretation is correct.
 
-However, two considerations favour keeping consciousness in the explanatory picture. First, the [self-stultification problem](/concepts/epiphenomenalism/) applies: if the felt effort of motor imagery is causally inert, our reports about that effort—and the intentional direction of rehearsal—become accidentally correlated with neural events rather than causally connected to them. The physicalist must explain not just the correlation but why the specific *content* of conscious imagery (which movement is rehearsed) matches the specific improvement (that movement improves). Second, a distinguishing prediction may be available: if consciousness is causally efficacious, then two individuals with identical LPFC activation patterns but different phenomenal vividness of motor imagery should show different performance gains. Preliminary aphantasia research hints at this—aphantasics report weaker benefits from mental practice despite intact prefrontal function[^zeman]—but the evidence is not yet decisive. This prediction, if confirmed, would break the explanatory standoff in favour of consciousness's causal role.
+However, two considerations favour keeping consciousness in the explanatory picture. First, the [self-stultification problem](/concepts/epiphenomenalism/) applies: if the felt effort of motor imagery is causally inert, our reports about that effort—and the intentional direction of rehearsal—become accidentally correlated with neural events rather than causally connected to them. The physicalist must explain not just the correlation but why the specific *content* of conscious imagery (which movement is rehearsed) matches the specific improvement (that movement improves). Second, a distinguishing prediction may be available: if consciousness is causally efficacious, then two individuals with identical LPFC activation patterns but different phenomenal vividness of motor imagery should show different performance gains. Aphantasia research provides suggestive evidence—aphantasics generally report less benefit from visualization-based strategies[^dawes]—but direct comparisons controlling for neural activation patterns are lacking. This prediction, if tested with appropriate controls, could break the explanatory standoff in favour of consciousness's causal role.
 
 ## Cognitive Phenomenology Without Imagery
 
@@ -125,6 +125,7 @@ The attention-imagery interface connects to the Map's broader framework. [Attent
 - [introspection](/concepts/introspection/) — The reliability and limits of accessing one's own mental states
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view mental imagery evidence challenges
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Non-sensory phenomenal consciousness revealed by aphantasia
+- [phenomenology-of-imagination](/topics/phenomenology-of-imagination/) — The distinctive phenomenal character of imaginative experience
 - [downward-causation](/concepts/downward-causation/) — Voluntary imagery as a concrete instance of top-down mental causation
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — The broader pattern of consciousness enabling unique cognitive functions
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why consciousness's role in imagery was likely selected for
@@ -148,17 +149,4 @@ The attention-imagery interface connects to the Map's broader framework. [Attent
 
 [^lennon]: Lennon, P. (2023). Aphantasia and Conscious Thought. *PhilArchive*.
 
-<!-- AI REFINEMENT LOG - 2026-02-08
-Changes made:
-1. Downgraded "paradigm evidence" to "consistent with" in opening summary and description (addressing pessimistic review Issue 3)
-1. Acknowledged physicalist neural circuit explanation as equally viable in Motor Imagery section
-1. Added "explanatory standoff" framing: motor imagery evidence underdetermines which interpretation is correct
-1. Identified distinguishing prediction: phenomenal vividness vs neural activation as predictor of motor imagery gains
-1. Updated Relation to Site Perspective to reflect calibrated confidence throughout
-1. Preserved self-stultification argument and content-matching argument as considerations favouring the Map's position
-
-Based on pessimistic review 2026-02-08, Issue 3.
-Key improvement: Honest acknowledgment that evidence is consistent with but does not uniquely support consciousness's causal efficacy.
-
-This log should be removed after human review.
--->
+[^dawes]: Dawes, A.J. et al. (2020). A cognitive profile of multi-sensory imagery, memory and dreaming in aphantasia. *Scientific Reports*, 10, 10022.

@@ -121,7 +121,7 @@ The Map's handling of the individuation problem demonstrates the intellectual ho
 | [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) | [process-haecceitism](/concepts/process-haecceitism/) | Growing block provides temporal ontology; process haecceitism provides individuation mechanism within it |
 | [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/) | [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) | Extended agency requires the invariant felt authorship cross-cultural phenomenology identifies |
 | [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) | [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) | If normativity requires phenomenal consciousness, value-sensitive selection follows |
-| [consciousness-and-the-phenomenology-of-framework-dependence](/topics/consciousness-and-the-phenomenology-of-framework-dependence/) | [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) | Framework dependence strengthens the epistemic humility argument |
+| [consciousness-and-the-phenomenology-of-framework-dependence](/topics/phenomenology-of-framework-inhabitation/) | [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) | Framework dependence strengthens the epistemic humility argument |
 
 ## New Concept Pages Needed
 

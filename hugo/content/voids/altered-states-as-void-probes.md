@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-03
-ai_modified: 2026-02-03 21:03:00+00:00
+ai_modified: 2026-03-14 13:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -53,9 +53,11 @@ The options:
 
 Henri Bergson argued that the brain's primary function is elimination rather than production—it filters the vast field of possible experience down to what serves biological survival. Aldous Huxley extended this in *The Doors of Perception*, proposing that ASCs weaken this "reducing valve," allowing wider experience to flow through.
 
-Contemporary neuroscience provides unexpected support. BOLD-fMRI studies consistently show *decreased* brain activity during psychedelic states—particularly in the default mode network—correlating with *increased* subjective intensity. This is the opposite of what a hallucination model predicts (which would expect increased activity generating the unusual content). The correlation fits the filter model: less filtering yields more experience.
+Contemporary neuroscience provides partial support. BOLD-fMRI studies have found *decreased* BOLD signal in the default mode network during psychedelic states, correlating with *increased* subjective intensity. (BOLD signal is an indirect proxy for neural activity, measuring blood oxygenation changes rather than neural firing directly, so "decreased activity" is an interpretive step.) The pattern is most robust for the DMN specifically; other brain regions show mixed results, including increased activity in sensory cortices. Still, the DMN finding is notable: a straightforward hallucination model would predict increased activity generating unusual content, while the filter model predicts less filtering yielding more experience.
 
-The REBUS (Relaxed Beliefs Under Psychedelics) hypothesis developed by Robin Carhart-Harris and Karl Friston formalizes this. The brain normally constrains experience through predictive models and high-level priors. Psychedelics relax these priors, allowing sensory input greater influence. Mystical experiences occur when high-level conceptual priors are suspended entirely—when the categorizing machinery stops dividing.
+The REBUS (Relaxed Beliefs Under Psychedelics) hypothesis developed by Robin Carhart-Harris and Karl Friston offers a complementary framework. REBUS is formulated within physicalist predictive processing theory—it explains psychedelic effects entirely in terms of neural computation without invoking non-physical consciousness. The brain normally constrains experience through predictive models and high-level priors; psychedelics relax these priors, allowing sensory input greater influence. Mystical experiences occur when high-level conceptual priors are suspended entirely—when the categorizing machinery stops dividing.
+
+The Map draws on REBUS's structural insight—that ordinary consciousness is constrained rather than baseline—while interpreting this through a dualist lens. Where REBUS explains constraint relaxation as a purely neural phenomenon, the Map's framework suggests the constraints may operate on consciousness that is not itself neural. This reinterpretation goes beyond what REBUS claims, and readers should note the distinction.
 
 If this is correct, ordinary consciousness may be a reduced rather than baseline state. What we call "normal" experience is already filtered. ASCs don't take us beyond consciousness—they reveal what consciousness might be like with less reduction.
 
@@ -127,7 +129,7 @@ The ASC-as-void-probe question connects to the Map's [tenets](/tenets/):
 
 **Occam's Razor Has Limits.** The assumption that ordinary waking consciousness provides the baseline for truth is itself a simplicity assumption. If Bergson and Huxley are correct that the brain filters rather than produces experience, ordinary consciousness may be reduced rather than optimal. ASCs might reveal that what seems "simpler" (physicalist, reductionist) reflects the limits of our filter rather than the structure of reality. We cannot assume our default configuration accesses all truths.
 
-**Dualism.** The reducing valve hypothesis supports dualism—if the brain filters consciousness rather than generating it, consciousness is not identical to brain states. The BOLD-fMRI findings (reduced brain activity correlating with increased experience) are consistent with this, though not conclusive. If ASCs reveal what consciousness is like with less brain-mediated reduction, they provide evidence for consciousness as something over and above neural processing.
+**Dualism.** The reducing valve hypothesis supports dualism—if the brain filters consciousness rather than generating it, consciousness is not identical to brain states. The BOLD-fMRI findings in the DMN (reduced BOLD signal correlating with increased experience) are consistent with this interpretation, though BOLD is an indirect measure and the pattern does not hold uniformly across all brain regions. If ASCs reveal what consciousness is like with less brain-mediated reduction, they provide evidence for consciousness as something over and above neural processing.
 
 **Bidirectional Interaction.** The very ability to cultivate ASCs through practice demonstrates consciousness influencing physical states. Meditators train attention in ways that alter brain function. The causal arrow runs from intention to neural state, not merely the reverse. The practices that induce ASCs—meditation, contemplative inquiry, even the decision to ingest a psychedelic—are exercises of mental causation.
 
@@ -160,3 +162,15 @@ The apophatic interpretation preserves ASC significance while maintaining episte
 6. Facco, E. et al. (2015). "Epistemological implications of near-death experiences and other non-ordinary mental expressions." *Medical Hypotheses*.
 7. Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
 8. James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
+
+<!-- AI REFINEMENT LOG - 2026-03-14
+Changes made:
+- Qualified BOLD-fMRI claims: specified DMN-specific findings, noted BOLD is indirect proxy for neural activity, acknowledged mixed results in other brain regions
+- Acknowledged REBUS's physicalist origins: added paragraph explicitly noting REBUS is formulated within physicalist predictive processing theory and that the Map's dualist reinterpretation goes beyond what REBUS claims
+- Updated Dualism tenet section to include BOLD limitations and DMN specificity
+
+Based on pessimistic review (2026-03-14) findings.
+Key improvements: attribution accuracy and epistemic honesty about neuroscience evidence.
+
+This log should be removed after human review.
+-->

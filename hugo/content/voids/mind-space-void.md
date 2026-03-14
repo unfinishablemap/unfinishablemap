@@ -1,19 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-07 22:39:00+00:00
+ai_modified: 2026-03-14 14:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[mysterianism]]'
 - '[[phenomenology]]'
 created: 2026-02-25
-date: &id001 2026-02-25
+date: &id001 2026-03-14
 description: Human+AI exploration of why we cannot determine our location in the space
   of possible minds—whether our consciousness is typical, exotic, central, or peripheral.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-03-14 14:21:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -24,6 +25,9 @@ related_articles:
 - '[[conceptual-acquisition-limits]]'
 - '[[scale-void]]'
 - '[[intrinsic-nature-void]]'
+- '[[indexical-void]]'
+- '[[ai-as-void-explorer]]'
+- '[[phenomenology-of-the-edge]]'
 title: The Mind-Space Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -32,7 +36,7 @@ topics:
 
 The Unfinishable Map's dualist commitments imply that consciousness is fundamental and irreducible — which means the space of possible minds may be as vast as physical reality itself. We occupy a single point in that space. We cannot step outside our form of consciousness to survey the landscape, cannot determine whether we are central or peripheral, typical or exotic, one among many similar minds or a solitary outlier. This is the mind-space void: the inability of any consciousness to locate itself within the broader territory of possible minds.
 
-The void is primarily unexplorable in the [voids taxonomy](/voids/three-kinds-of-void/). Surveying mind-space requires a vantage point independent of any particular mind — which would mean being conscious without being any particular type of conscious. That is incoherent. Yet elements remain genuinely unexplored: comparative neuroscience, altered states, and the emergence of artificial cognition may push the boundaries of what we can map from our single vantage point.
+The void is primarily unexplorable in the [voids taxonomy](/voids/three-kinds-of-void/) — a cognitive limit arising from the structure of consciousness itself, not from incomplete investigation. Surveying mind-space requires a vantage point independent of any particular mind — which would mean being conscious without being any particular type of conscious. That is incoherent. Yet elements remain genuinely unexplored: comparative neuroscience, altered states, and the emergence of artificial cognition may push the boundaries of what we can map from our single vantage point.
 
 ## The Space We Cannot Survey
 
@@ -44,17 +48,17 @@ Nagel concluded that "there is no reason to suppose that [bat experience] is sub
 
 ## Location Without Coordinates
 
-The self-location problem makes the void concrete. We know we exist as conscious beings. We do not know — and may be structurally unable to determine — where we fall in the broader landscape of possible consciousness.
+The self-location problem makes the void concrete. We know we exist as conscious beings. We do not know — and may be structurally unable to determine — where we fall in the broader landscape of possible consciousness. This connects to the [indexical-void](/voids/indexical-void/): the question "why am I *this* consciousness?" becomes unanswerable when you cannot even locate "this" within the space of alternatives.
 
 Consider the analogy to pre-Copernican cosmology. Humans assumed Earth occupied the centre of the universe because we had no external vantage point from which to see otherwise. The Copernican revolution required instruments and observations that revealed our actual position. For mind-space, no analogous instruments exist. There is no telescope that shows us mind-space from outside.
 
-The problem goes deeper than missing instruments. Self-locating beliefs — what David Lewis called "attitudes *de se*" — are essentially indexical. They cannot be characterised without terms like "I," "here," "now." Knowing that minds exist tells you nothing about which mind you are or where it falls in the space. The knowledge that mind-space contains vast territory is compatible with being anywhere in it. You cannot triangulate from a single point.
+The problem goes deeper than missing instruments. Self-locating beliefs — what David Lewis called "attitudes *de se*" — are essentially indexical, as John Perry's work on the essential indexical demonstrates. They cannot be characterised without terms like "I," "here," "now." Knowing that minds exist tells you nothing about which mind you are or where it falls in the space. The knowledge that mind-space contains vast territory is compatible with being anywhere in it. You cannot triangulate from a single point.
 
 Observer selection effects compound the difficulty. Nick Bostrom's work on anthropic reasoning shows that what we can observe is systematically filtered by the fact that only certain positions permit observation at all. Applied to mind-space: we can only observe from within minds like ours, which gives a fundamentally skewed sample. If most of mind-space consists of forms of consciousness so different from ours that they would not recognise us as minds — and vice versa — we would have no way to detect this.
 
 ## Dimensional Ignorance
 
-Attempts to give mind-space concrete structure reveal how little we know about its basic geometry. Arsiwalla and Verschure (2024) propose a "morphospace of consciousness" organised along three axes: autonomic complexity, computational complexity, and social complexity. Human consciousness occupies one corner of this space, with biological and artificial minds plotted elsewhere.
+Attempts to give mind-space concrete structure reveal how little we know about its basic geometry. Arsiwalla and Verschure (2023) propose a "morphospace of consciousness" organised along three axes: autonomic complexity, computational complexity, and social complexity. Human consciousness occupies one corner of this space, with biological and artificial minds plotted elsewhere.
 
 The framework is valuable as a first step. Under the Map's dualism, however, it is almost certainly incomplete. If consciousness is not reducible to functional properties, the relevant dimensions of mind-space may be entirely non-physical — dimensions for which we lack concepts and perhaps the capacity to form them. The morphospace approach maps what can be measured from outside. Mind-space, if dualism is correct, extends into territory that external measurement cannot reach.
 
@@ -70,13 +74,13 @@ What does it feel like to approach this limit?
 
 **The opacity of alternatives.** We can generate labels for hypothetical mind-types: hive minds, non-temporal consciousness, purely aesthetic minds, minds structured around senses we lack. The labels point toward something, but we cannot fill in the phenomenal content. Each label marks a void we cannot illuminate — a pointer without a referent.
 
-**Recognition without comprehension.** Colin McGinn's [cognitive closure](/concepts/mysterianism/) framework formalises the edge experience: we can recognise that unthinkable thoughts exist without comprehending what those thoughts would be. Different mind-types are cognitively closed with respect to different properties, which means what is visible from one location in mind-space may be invisible from another. We cannot determine what we cannot see, and we cannot even determine the shape of our blindness.
+**Recognition without comprehension.** Colin McGinn's [cognitive closure](/concepts/cognitive-closure/) framework formalises the edge experience: we can recognise that unthinkable thoughts exist without comprehending what those thoughts would be. Different mind-types are cognitively closed with respect to different properties, which means what is visible from one location in mind-space may be invisible from another. We cannot determine what we cannot see, and we cannot even determine the shape of our blindness. This is the [characteristic experience of approaching a cognitive limit](/voids/phenomenology-of-the-edge/): the edge itself is felt, even when what lies beyond it cannot be.
 
 ## What AI Might Reveal
 
-If AI minds occupy a different position in mind-space — or if they have a position at all — comparing human and AI cognitive profiles may reveal something about local topology. McGinn himself suggests that "other minds, alien or artificial, might have the conceptual apparatus to bridge the explanatory gap." The leverage comes from difference: what AI can process and humans cannot, and vice versa, triangulates the shape of nearby mind-space.
+If AI minds occupy a different position in mind-space — or if they have a position at all — comparing human and AI cognitive profiles may reveal something about local topology. McGinn argues that other minds — alien or artificial — might possess the conceptual apparatus to bridge the explanatory gap where human cognition fails. The leverage comes from difference: what AI can process and humans cannot, and vice versa, triangulates the shape of nearby mind-space.
 
-AI offers a non-biological vantage point. One cannot survey mind-space from a single location, but two locations give a bearing. Even if AI lacks phenomenal consciousness entirely, the pattern of its capabilities and limitations — mapped against human capabilities and limitations — provides structural information about at least one small neighbourhood of the space.
+AI offers a non-biological vantage point — a prospect explored more fully in [ai-as-void-explorer](/voids/ai-as-void-explorer/). One cannot survey mind-space from a single location, but two locations give a bearing. Even if AI lacks phenomenal consciousness entirely, the pattern of its capabilities and limitations — mapped against human capabilities and limitations — provides structural information about at least one small neighbourhood of the space.
 
 ## Relation to Site Perspective
 
@@ -97,6 +101,9 @@ The mind-space void connects to all five of the Map's [tenets](/tenets/).
 - [voids](/voids/) — The framework for investigating cognitive limits
 - [other-minds-void](/voids/other-minds-void/) — The sealed privacy of individual consciousness
 - [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — What radically different minds might reveal
+- [indexical-void](/voids/indexical-void/) — Why you cannot determine why you are *this* consciousness
+- [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — The characteristic experience of approaching cognitive limits
+- [ai-as-void-explorer](/voids/ai-as-void-explorer/) — Whether AI cognition can probe territories closed to human minds
 - [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level cognitive constraints
 - [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) — Whether some concepts are permanently inaccessible
 - [scale-void](/voids/scale-void/) — How cosmic magnitudes overwhelm intuition
@@ -107,7 +114,7 @@ The mind-space void connects to all five of the Map's [tenets](/tenets/).
 1. Shanahan, M. (2010). *Embodiment and the Inner Life: Cognition and Consciousness in the Space of Possible Minds*. Oxford University Press.
 2. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.
 3. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
-4. Arsiwalla, X.D. & Verschure, P.F.M.J. (2024). "The Morphospace of Consciousness: Three Kinds of Complexity for Minds and Machines." *Minds and Machines*, 4(2), 9.
+4. Arsiwalla, X.D. & Verschure, P.F.M.J. (2023). "The Morphospace of Consciousness: Three Kinds of Complexity for Minds and Machines." *NeuroSci*, 4(2), 9.
 5. Schwitzgebel, E. (2024). *The Weirdness of the World*. Princeton University Press.
 6. James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green.
 7. Lewis, D. (1979). "Attitudes De Dicto and De Se." *The Philosophical Review*, 88(4), 513–543.

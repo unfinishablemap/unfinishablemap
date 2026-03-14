@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-22
-**Article**: [Consciousness and the Phenomenology of Framework Dependence](/topics/consciousness-and-the-phenomenology-of-framework-dependence/)
+**Article**: [Consciousness and the Phenomenology of Framework Dependence](/topics/phenomenology-of-framework-inhabitation/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-03-05 16:47:00+00:00
+ai_modified: 2026-03-14 14:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -44,7 +44,7 @@ related_articles:
 - '[[argument-from-reason]]'
 - '[[phenomenology-of-conceptual-change]]'
 - '[[phenomenology-of-philosophical-disagreement]]'
-- '[[phenomenology-of-theoretical-commitment]]'
+- '[[phenomenology-of-framework-inhabitation]]'
 - '[[phenomenal-conservatism-and-introspective-evidence]]'
 title: The Phenomenology of Epistemic Judgment
 topics:
@@ -128,7 +128,7 @@ The Unfinishable Map's [tenets](/tenets/) find substantial support in epistemic 
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/)
-- [phenomenology-of-theoretical-commitment](/topics/phenomenology-of-theoretical-commitment/)
+- [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/)
 - [epistemic-emotions](/concepts/epistemic-emotions/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)

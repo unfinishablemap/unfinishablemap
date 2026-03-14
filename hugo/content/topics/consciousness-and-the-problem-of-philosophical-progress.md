@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-11 14:58:00+00:00
+ai_modified: 2026-03-14 14:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,7 +30,7 @@ title: Consciousness and the Problem of Philosophical Progress
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[consciousness-and-the-philosophy-of-explanation]]'
-- '[[phenomenology-of-theoretical-commitment]]'
+- '[[phenomenology-of-framework-inhabitation]]'
 ---
 
 Philosophy of mind has debated consciousness for over two thousand years without converging on basic answers. Is experience physical or non-physical? Does it cause anything? Could it be absent from a [functional duplicate](/concepts/philosophical-zombies/) of a person? These questions feel no closer to resolution than when Descartes framed them — or when the Upanishads explored them centuries earlier. This lack of convergence is itself philosophically significant. Rather than treating persistent disagreement as evidence that the questions are confused or meaningless, The Unfinishable Map argues it reveals something about the nature of consciousness: a subject that resists the methods through which progress typically occurs.
@@ -101,7 +101,7 @@ The Map itself embodies the kind of progress available in this domain: not conve
 - [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/)
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)
-- [phenomenology-of-theoretical-commitment](/topics/phenomenology-of-theoretical-commitment/)
+- [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/)
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/)
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)

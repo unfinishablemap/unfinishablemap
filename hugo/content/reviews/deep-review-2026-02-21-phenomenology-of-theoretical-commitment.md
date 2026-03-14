@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-21
-**Article**: [The Phenomenology of Theoretical Commitment](/topics/phenomenology-of-theoretical-commitment/)
+**Article**: [The Phenomenology of Theoretical Commitment](/topics/phenomenology-of-framework-inhabitation/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -64,7 +64,7 @@ None.
 
 ### Cross-links Added
 
-- [consciousness-and-the-phenomenology-of-framework-dependence](/topics/consciousness-and-the-phenomenology-of-framework-dependence/)
+- [consciousness-and-the-phenomenology-of-framework-dependence](/topics/phenomenology-of-framework-inhabitation/)
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/)
 
 ## Remaining Items

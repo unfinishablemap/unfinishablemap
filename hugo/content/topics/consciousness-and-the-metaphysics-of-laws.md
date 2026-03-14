@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-02-25 20:55:00+00:00
+ai_modified: 2026-03-14 14:01:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -87,9 +87,15 @@ This is the view explored in the Map's [consciousness-and-causal-powers](/topics
 
 The price is ontological commitment. Dispositional essentialism about phenomenal properties means consciousness has a fixed essential nature—its causal profile could not have been otherwise. This seems to conflict with the contingency that [zombie arguments](/concepts/philosophical-zombies/) suggest. If a zombie world is conceivable—a world physically identical to ours but lacking consciousness—then consciousness is not metaphysically necessary given the physical facts. And if consciousness is not necessary, its causal profile cannot be essential in the way dispositional essentialism requires.
 
-One resolution: phenomenal properties are contingent additions to the physical world, but *given that they exist*, their dispositional natures are essential. Charge could fail to exist (in some possible world), but wherever charge exists, it necessarily obeys Coulomb's law. Similarly, consciousness could fail to exist (zombie worlds), but wherever it exists, it necessarily possesses the power to bias quantum outcomes. The psychophysical law is necessary *conditional on* consciousness existing, even though consciousness's existence is itself contingent.
+One resolution appeals to *conditional necessity*: phenomenal properties are contingent additions to the physical world, but *given that they exist*, their dispositional natures are essential. Charge could fail to exist (in some possible world), but wherever charge exists, it necessarily obeys Coulomb's law. Similarly, consciousness could fail to exist (zombie worlds), but wherever it exists, it necessarily possesses the power to bias quantum outcomes. The psychophysical law is necessary *conditional on* consciousness existing, even though consciousness's existence is itself contingent.
 
-The analogy is imperfect. A world without charge would be a *physically different* world—the absence of a physical property changes the physical facts. A zombie world, by contrast, is supposed to be *physically identical* to ours while lacking consciousness entirely. This asymmetry means phenomenal dispositions occupy a different modal position than physical dispositions: their existence is contingent relative to the physical facts in a way that charge's existence is not. The conditional necessity move still works—essential natures conditional on existence are coherent—but the disanalogy shows that phenomenal dispositions cannot be fully assimilated to their physical counterparts.
+This resolution faces a significant disanalogy that limits how far it can carry. A world without charge would be a *physically different* world—the absence of a physical property changes the physical facts. Charge's existence is entailed by the physical facts of our world; it is fundamental *within* that world. A zombie world, by contrast, is supposed to be *physically identical* to ours while lacking consciousness entirely. Phenomenal properties are contingent relative to the complete physical facts in a way that no physical dispositional property is. Charge is a fundamental property because nothing more basic explains its presence in worlds with our physics. Consciousness, if the zombie argument is sound, lacks that status—the physical facts could be exactly as they are and consciousness might simply not show up.
+
+This asymmetry has a deeper consequence. Dispositional essentialism explains laws by grounding them in the natures of fundamental properties: Coulomb's law holds because charge's nature *constitutes* that law. But if phenomenal properties are not fundamental in the same sense—if they are contingent riders on a physical base that does not necessitate them—then their dispositional natures cannot ground psychophysical laws in the way charge grounds Coulomb's law. The conditional necessity move is logically coherent (essential natures conditional on existence involve no contradiction), but it shifts the explanatory burden rather than resolving it. We still need an account of *why* consciousness exists in our world rather than not, and whatever answers that question—rather than the dispositional essence of consciousness itself—becomes the deeper ground of psychophysical law.
+
+This tension genuinely favours the governing laws view for certain purposes. A governing law can *legislate* the connection between physical and phenomenal universals without requiring that phenomenal properties be fundamental in the same sense as physical ones. The psychophysical governing law simply *is* the brute modal fact connecting the two domains. Where dispositional essentialism promises deeper explanation but struggles with the contingency of phenomenal existence, the governing view accepts the cross-domain connection as primitive and avoids the problematic analogy altogether.
+
+The dispositional essentialist can respond that this merely trades one problem for another: the governing view's cross-domain legislation is equally unexplained, and at least dispositional essentialism offers an *internal* account of why consciousness has the specific causal profile it does, even if it cannot explain why consciousness exists at all. This is a genuine trade-off, not a decisive refutation of either view. The Map's framework is compatible with both—what matters is that psychophysical laws exist and are genuinely prescriptive, however they are ultimately grounded.
 
 ## Why This Matters for the Mind-Body Problem
 
@@ -99,7 +105,7 @@ If Humeanism is correct, the hard problem cannot be solved by discovering psycho
 
 If governing laws are correct, psychophysical laws have genuine modal force—they hold across counterfactual scenarios and support explanations. But the cross-domain legislation problem means we need an account of *why* phenomenal and physical universals stand in these particular relations. Without such an account, governing psychophysical laws are brute necessities—more explanatorily robust than Humean regularities but still ultimately unexplained.
 
-If dispositional essentialism is correct, psychophysical laws are grounded in the natures of phenomenal properties themselves. This provides the deepest explanation: consciousness interacts with physics because that's what consciousness *is*—a set of dispositions that include physical effects. The price is strong metaphysical commitment to the essential nature of phenomenal properties, combined with the tension between dispositional necessity and zombie-world contingency.
+If dispositional essentialism is correct, psychophysical laws are grounded in the natures of phenomenal properties themselves. This provides the deepest explanation of *why consciousness has the specific causal profile it does*: consciousness interacts with physics because that's what consciousness *is*—a set of dispositions that include physical effects. But as the zombie-world disanalogy reveals, this depth comes with a gap: dispositional essentialism explains what consciousness does given that it exists, but not why it exists at all. The strong metaphysical commitment to essential phenomenal natures may ultimately need supplementation by governing-law-style brute facts about when and where consciousness arises.
 
 A broader observation: none of the three accounts fully explains even purely physical laws. Humean regularities provide no mechanism. Governing laws face a regress—what grounds the governing laws themselves? Dispositional essences raise questions about why properties have the natures they do. If we cannot fully explain *why* charge obeys Coulomb's law on any account, our inability to fully explain why neural configurations produce experiences is less a special indictment of dualism and more a general feature of metaphysical inquiry. The difficulty of psychophysical laws is partly inherited from the difficulty of *all* laws.
 
@@ -109,7 +115,7 @@ The Map does not need to settle the metaphysics of laws to maintain its core com
 
 The Map's [tenets](/tenets/) have differential affinities with each account of laws.
 
-**[Dualism](/tenets/#dualism)** is compatible with all three views, but dispositional essentialism provides the most natural grounding. If phenomenal properties have essential causal natures, their irreducibility is built into the metaphysics rather than being an awkward addition to a physical ontology.
+**[Dualism](/tenets/#dualism)** is compatible with all three views. Dispositional essentialism grounds irreducibility in essential natures, though the zombie-world disanalogy limits how fully phenomenal dispositions can be assimilated to physical ones. The governing laws view may provide a cleaner framework for cross-domain legislation between ontologically distinct kinds.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** receives strongest support from the governing laws view (laws genuinely prescribe, including psychophysical ones) and dispositional essentialism (consciousness has essential powers to affect physics). Humeanism can accommodate bidirectional regularities but struggles to ground genuine causation as opposed to constant conjunction.
 
@@ -147,3 +153,18 @@ Lewis, D. (1973). *Counterfactuals*. Harvard University Press.
 Lewis, D. (1994). "Humean Supervenience Debugged." *Mind* 103(412): 473-490.
 
 Tooley, M. (1977). "The Nature of Laws." *Canadian Journal of Philosophy* 7(4): 667-698.
+
+<!-- AI REFINEMENT LOG - 2026-03-14
+Changes made:
+- Developed the conditional necessity argument more rigorously: explained why the charge/consciousness analogy breaks down (phenomenal properties are contingent relative to complete physical facts, unlike charge)
+- Added analysis of the deeper consequence: if phenomenal properties aren't fundamental in the same sense, their dispositional natures can't ground psychophysical laws the way charge grounds Coulomb's law
+- Acknowledged that this tension genuinely favours the governing laws view for cross-domain legislation
+- Added the dispositional essentialist's response (trade-off, not decisive refutation) and the Map's compatibility with both views
+- Updated "Why This Matters" section to reflect the nuanced position (dispositional essentialism explains causal profile but not existence)
+- Updated Relation to Site Perspective to present governing laws as potentially cleaner for cross-domain cases
+
+Based on pessimistic review (2026-03-14) finding medium-severity issue with underdeveloped conditional necessity resolution.
+Key improvements: rigorous treatment of zombie-world disanalogy and honest acknowledgment of governing laws' advantages.
+
+This log should be removed after human review.
+-->

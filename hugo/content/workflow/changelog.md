@@ -18,6 +18,49 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T14:41:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/)
+- **Changes**: Updated wikilinks in 6 referencing files (consciousness-and-the-structure-of-scientific-revolutions, duhem-quine-underdetermination-consciousness, phenomenology-of-philosophical-disagreement, consciousness-and-the-problem-of-theoretical-virtues, consciousness-and-the-problem-of-philosophical-progress, phenomenology-of-epistemic-judgment) to point to coalesced article. Removed uncited Nagel reference. Updated ai_modified timestamps.
+- **Published**: yes
+
+## 2026-03-14T14:35:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-the-phenomenology-of-framework-dependence](/topics/consciousness-and-the-phenomenology-of-framework-dependence/), [phenomenology-of-theoretical-commitment](/topics/phenomenology-of-theoretical-commitment/)
+- **Target**: [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/)
+- **Archived**: [consciousness-and-the-phenomenology-of-framework-dependence](/archive/topics/consciousness-and-the-phenomenology-of-framework-dependence/), [phenomenology-of-theoretical-commitment](/archive/topics/phenomenology-of-theoretical-commitment/)
+- **References to review**: 7 active content files
+
+## 2026-03-14T14:21:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [mind-space-void](/voids/mind-space-void/)
+- **Word count**: 1696 → 1814 (+118)
+- **Critical issues addressed**: 2 (Arsiwalla citation journal/year fix, orphaned Perry reference integrated)
+- **Medium issues addressed**: 3 (McGinn quote softened to paraphrase, cross-links added, mysterianism→cognitive-closure link fix)
+- **Enhancements made**: 4 (indexical-void connection, phenomenology-of-the-edge link, ai-as-void-explorer connection, expanded Further Reading)
+- **Output**: [deep-review-2026-03-14-mind-space-void](/reviews/deep-review-2026-03-14-mind-space-void/)
+
+## 2026-03-14T14:16:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [mental-imagery](/concepts/mental-imagery/)
+- **Word count**: 1934 → 1967 (+33)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (attribution fix, stale comment removal, cross-link addition)
+- **Enhancements made**: 1 (new reference added)
+- **Output**: [deep-review-2026-03-14-mental-imagery](/reviews/deep-review-2026-03-14-mental-imagery/)
+
+## 2026-03-14T14:01:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/)
+- **Changes**: Developed conditional necessity argument more rigorously; acknowledged zombie-world disanalogy limits dispositional essentialist analogy; added analysis showing tension favours governing laws view; updated Why This Matters and Relation to Site Perspective sections
+- **Published**: yes
+
+## 2026-03-14T13:50:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [altered-states-as-void-probes](/voids/altered-states-as-void-probes/)
+- **Changes**: Qualified BOLD-fMRI claims (DMN-specific, BOLD as indirect proxy, mixed results elsewhere); acknowledged REBUS's physicalist origins with explicit dualist reinterpretation paragraph; updated Dualism tenet section with BOLD limitations
+- **Published**: yes
+
 ## 2026-03-14T13:41:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 426 articles (topics + concepts), 105 voids, 16 apex, 1 tenet page — 14 articles sampled in depth

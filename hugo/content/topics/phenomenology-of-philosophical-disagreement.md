@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-03-05 11:19:00+00:00
+ai_modified: 2026-03-14 14:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,9 +29,8 @@ related_articles:
 - '[[consciousness-and-normative-force]]'
 - '[[consciousness-and-the-authority-of-logic]]'
 - '[[intersubjective-void]]'
-- '[[phenomenology-of-theoretical-commitment]]'
+- '[[phenomenology-of-framework-inhabitation]]'
 - '[[consciousness-and-the-problem-of-philosophical-progress]]'
-- '[[consciousness-and-the-phenomenology-of-framework-dependence]]'
 title: The Phenomenology of Philosophical Disagreement
 topics:
 - '[[phenomenology-of-understanding]]'
@@ -65,9 +64,9 @@ The standard explanations are unsatisfying:
 
 **The bias hypothesis** — that psychological biases prevent philosophers from accepting the truth — explains too much. If biases explain the other side's error, they equally explain one's own conviction. The hypothesis dissolves philosophical positions into psychology without remainder, a self-undermining move.
 
-A more interesting explanation draws on the phenomenology described here — and on the broader dynamics of [theoretical commitment](/topics/phenomenology-of-theoretical-commitment/). Philosophical positions about consciousness involve phenomenal commitments — ways of attending to experience that generate the evidence for the position. The dualist's attention to the qualitative character of experience produces the "data" (the vividness and apparent irreducibility of qualia) that supports dualism. The materialist's attention to the causal structure of cognition produces the "data" (the tight correlation between brain states and mental states) that supports materialism. Each position trains a kind of perception, and the perception vindicates the position.
+A more interesting explanation draws on the phenomenology described here — and on the broader dynamics of [theoretical commitment](/topics/phenomenology-of-framework-inhabitation/). Philosophical positions about consciousness involve phenomenal commitments — ways of attending to experience that generate the evidence for the position. The dualist's attention to the qualitative character of experience produces the "data" (the vividness and apparent irreducibility of qualia) that supports dualism. The materialist's attention to the causal structure of cognition produces the "data" (the tight correlation between brain states and mental states) that supports materialism. Each position trains a kind of perception, and the perception vindicates the position.
 
-This is not mere confirmation bias. Confirmation bias is a failure to attend to disconfirming evidence. What happens in philosophical disagreement is something deeper: the positions generate different phenomenal landscapes from which evidence is drawn. The dualist and the materialist are not ignoring each other's evidence. They are inhabiting experiential frameworks within which the other's evidence does not carry the same weight because it does not have the same felt significance. The [framework dependence](/topics/consciousness-and-the-phenomenology-of-framework-dependence/) article explores a related phenomenon: the felt transparency of one's own conceptual lens. The framework that generates one's evidential landscape is typically invisible to the person it structures — which helps explain why each side finds the other's position baffling rather than merely mistaken.
+This is not mere confirmation bias. Confirmation bias is a failure to attend to disconfirming evidence. What happens in philosophical disagreement is something deeper: the positions generate different phenomenal landscapes from which evidence is drawn. The dualist and the materialist are not ignoring each other's evidence. They are inhabiting experiential frameworks within which the other's evidence does not carry the same weight because it does not have the same felt significance. The [framework dependence](/topics/phenomenology-of-framework-inhabitation/) article explores a related phenomenon: the felt transparency of one's own conceptual lens. The framework that generates one's evidential landscape is typically invisible to the person it structures — which helps explain why each side finds the other's position baffling rather than merely mistaken.
 
 An important objection arises: if philosophical positions generate their own evidence, does this make the debate unresolvable in principle? The positions would be unfalsifiable — each immunised against critique by the very framework that produces it. The Map does not claim immunity from this dynamic (see the Relation to Site Perspective section). But unfalsifiability from within a framework does not preclude assessment from adjacent considerations: explanatory scope, internal coherence, and whether a position must deny its own presuppositions to sustain itself. The consciousness debate is not a symmetrical standoff; the positions face different structural challenges, even if neither can be refuted on the other's terms.
 
@@ -121,9 +120,8 @@ The Map's [Occam's Razor tenet](/tenets/#occams-limits) is also relevant. The ma
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why the dualist framework has distinctive strengths
 - [intersubjective-void](/voids/intersubjective-void/) — The gap between what one consciousness can grasp of another
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The debate about whether thinking has phenomenal character
-- [phenomenology-of-theoretical-commitment](/topics/phenomenology-of-theoretical-commitment/) — How holding a theoretical commitment reshapes perception of evidence
+- [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/) — How inhabiting a theoretical framework reshapes perception of evidence
 - [consciousness-and-the-problem-of-philosophical-progress](/topics/consciousness-and-the-problem-of-philosophical-progress/) — Why philosophy of mind has not converged despite millennia of effort
-- [consciousness-and-the-phenomenology-of-framework-dependence](/topics/consciousness-and-the-phenomenology-of-framework-dependence/) — The felt invisibility of one's own conceptual lens
 
 ## References
 

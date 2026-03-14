@@ -50,7 +50,7 @@ topics: []
 - Added two new entries to Further Reading and frontmatter topics
 
 ### Cross-links Added
-- [consciousness-and-the-phenomenology-of-framework-dependence](/topics/consciousness-and-the-phenomenology-of-framework-dependence/)
+- [consciousness-and-the-phenomenology-of-framework-dependence](/topics/phenomenology-of-framework-inhabitation/)
 - [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/)
 
 ## Remaining Items

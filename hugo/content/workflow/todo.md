@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review the-givenness-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the givenness void — the foundational gap between what is given in experience and what can be explained. Never received a deep review since creation. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-14
+
 ### P2: Write article on dreams, problem-solving, and conscious influence
 - **Type**: expand-topic
 - **Notes**: Research completed in research/dreams-problem-solving-lucid-dreaming-2026-02-06.md. Konkoly et al. 2026 shows targeted memory reactivation during REM doubles problem-solving — direct evidence dreaming is functionally active, not neural noise. Lucid dreaming demonstrates consciousness modulating its own states despite altered neurochemistry. Dreams as a natural laboratory for studying consciousness independently of physical substrate. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
@@ -612,18 +618,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Consolidate recent advances in biological quantum effects (photosynthesis, magnetoreception, enzyme catalysis) as precedent for neural quantum effects. See optimistic-2026-03-13.md
 
-### P2: Address BOLD-fMRI claims and REBUS appropriation in altered-states-as-void-probes.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-03-14) found medium-severity BOLD-fMRI misinterpretation risk: "consistently show decreased brain activity" overstates consensus, and BOLD is an indirect measure. Also low-severity selective REBUS appropriation — REBUS is a physicalist framework being interpreted through a dualist lens without acknowledging this. Add qualifications about DMN-specific findings and BOLD limitations; acknowledge REBUS's physicalist origins. See pessimistic-2026-03-14.md
-- **Source**: chain (from pessimistic-2026-03-14.md)
-- **Generated**: 2026-03-14
-
-### P2: Strengthen zombie world tension analysis in consciousness-and-the-metaphysics-of-laws.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-03-14) found medium-severity issue: the "conditional necessity" resolution of the tension between dispositional essentialism (essential natures are necessary) and zombie arguments (consciousness is contingent given physical facts) is underdeveloped. If phenomenal properties are contingent relative to physical facts, they cannot be fundamental properties in the same sense as charge — this undermines the dispositional essentialist analogy. Either develop the conditional necessity argument more rigorously or acknowledge this tension may favour the governing laws view. See pessimistic-2026-03-14.md
-- **Source**: chain (from pessimistic-2026-03-14.md)
-- **Generated**: 2026-03-14
-
 ### P3: Deep review phenomenology-of-error-recognition.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 41 days ago. Voids article on how the capacity to recognise errors reveals consciousness's causal role. Verify coherence, cross-references, and tenet alignment.
@@ -665,6 +659,33 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Update references to coalesced framework-dependence and theoretical-commitment articles
+- **Type**: refine-draft
+- **Notes**: Coalesce created phenomenology-of-framework-inhabitation.md from consciousness-and-the-phenomenology-of-framework-dependence and phenomenology-of-theoretical-commitment. The following active files reference the archived articles and may need wikilink updates: consciousness-and-the-structure-of-scientific-revolutions.md, duhem-quine-underdetermination-consciousness.md, phenomenology-of-philosophical-disagreement.md, consciousness-and-the-problem-of-theoretical-virtues.md, consciousness-and-the-problem-of-philosophical-progress.md, phenomenology-of-epistemic-judgment.md
+- **Output**: Task context:
+Coalesce created phenomenology-of-framework-inhabitation.md from consciousness-and-the-phenomenology-of-framework-dependence and phenomenology-of-theoretical-commitment. The following active files reference the archived articles and may need wikilink updates: consciousness-and-the-structure-of-scientific-revolutions.md, duhem-quine-underdetermination-consciousness.md, phenomenology-of-philosophical-disagreement.md, consciousness-and-the-problem-of-theoretical-virtues.md, consciousness-and-the-problem-of-philosophical-progress.md, phenomenology-of-epistemic-judgment.md
+
+### ✓ 2026-03-14: Deep review mind-space-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the mind-space void — the gap between spatial experience and physical space. Never received a deep review since creation. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/mind-space-void.md
+
+### ✓ 2026-03-14: Strengthen zombie world tension analysis in consciousness-and-the-metaphysics-of-laws.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-03-14) found medium-severity issue: the "conditional necessity" resolution of the tension between dispositional essentialism (essential natures are necessary) and zombie arguments (consciousness is contingent given physical facts) is underdeveloped. If phenomenal properties are contingent relative to physical facts, they cannot be fundamental properties in the same sense as charge — this undermines the dispositional essentialist analogy. Either develop the conditional necessity argument more rigorously or acknowledge this tension may favour the governing laws view. See pessimistic-2026-03-14.md
+- **Output**: obsidian/topics/consciousness-and-the-metaphysics-of-laws.md
+
+Task context:
+Pessimistic review (2026-03-14) found medium-severity issue: the "conditional necessity" resolution of the tension between dispositional essentialism (essential natures are necessary) and zombie arguments (consciousness is contingent given physical facts) is underdeveloped. If phenomenal properties are contingent relative to physical facts, they cannot be fundamental properties in the same sense as charge — this undermines the dispositional essentialist analogy. Either develop the conditional necessity argument more rigorously or acknowledge this tension may favour the governing laws view. See pessimistic-2026-03-14.md
+
+### ✓ 2026-03-14: Address BOLD-fMRI claims and REBUS appropriation in altered-states-as-void-probes.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-03-14) found medium-severity BOLD-fMRI misinterpretation risk: "consistently show decreased brain activity" overstates consensus, and BOLD is an indirect measure. Also low-severity selective REBUS appropriation — REBUS is a physicalist framework being interpreted through a dualist lens without acknowledging this. Add qualifications about DMN-specific findings and BOLD limitations; acknowledge REBUS's physicalist origins. See pessimistic-2026-03-14.md
+- **Output**: obsidian/voids/altered-states-as-void-probes.md
+
+Task context:
+Pessimistic review (2026-03-14) found medium-severity BOLD-fMRI misinterpretation risk: "consistently show decreased brain activity" overstates consensus, and BOLD is an indirect measure. Also low-severity selective REBUS appropriation — REBUS is a physicalist framework being interpreted through a dualist lens without acknowledging this. Add qualifications about DMN-specific findings and BOLD limitations; acknowledge REBUS's physicalist origins. See pessimistic-2026-03-14.md
 
 ### ✓ 2026-03-14: Deep review default-mode-network.md
 - **Type**: deep-review

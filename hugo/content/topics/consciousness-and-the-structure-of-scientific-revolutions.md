@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-11 21:17:00+00:00
+ai_modified: 2026-03-14 14:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ related_articles:
 - '[[philosophy-of-science-under-dualism]]'
 - '[[consciousness-and-the-problem-of-theoretical-virtues]]'
 - '[[phenomenology-of-conceptual-change]]'
-- '[[consciousness-and-the-phenomenology-of-framework-dependence]]'
+- '[[phenomenology-of-framework-inhabitation]]'
 title: Consciousness and the Structure of Scientific Revolutions
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -101,7 +101,7 @@ The Unfinishable Map interprets Kuhn's framework as illuminating rather than res
 - [consciousness-and-the-problem-of-philosophical-progress](/topics/consciousness-and-the-problem-of-philosophical-progress/)
 - [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
-- [Consciousness and the Phenomenology of Framework Dependence](/topics/consciousness-and-the-phenomenology-of-framework-dependence/)
+- [The Phenomenology of Framework Inhabitation](/topics/phenomenology-of-framework-inhabitation/)
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)
 
 ## References

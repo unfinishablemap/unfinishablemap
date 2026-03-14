@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-03-11 21:17:00+00:00
+ai_modified: 2026-03-14 14:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,7 +30,7 @@ title: Consciousness and the Problem of Theoretical Virtues
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[consciousness-and-the-philosophy-of-explanation]]'
-- '[[phenomenology-of-theoretical-commitment]]'
+- '[[phenomenology-of-framework-inhabitation]]'
 ---
 
 Theoretical virtues — the properties that make one theory preferable to another — are the engine of rational theory choice in science. Simplicity, explanatory power, empirical adequacy, fertility, scope, elegance, and unificatory strength normally help scientists navigate between competing hypotheses. The Unfinishable Map argues that consciousness breaks the machinery of theoretical virtues in distinctive and underappreciated ways. Not just parsimony (addressed separately in [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)), but the entire suite of virtues malfunctions when the target phenomenon is subjective experience. This systematic failure may itself be diagnostic of something about consciousness's nature — though interpreting it requires care, as the article explores.
@@ -97,7 +97,7 @@ Mathematical elegance and formal beauty have guided major discoveries in physics
 
 For consciousness, elegance is a trap. The "elegant" theory — the one that most satisfies the aesthetic sense of unification and formal beauty — varies entirely with the theorist's priors. To a functionalist, the elegant theory is one that integrates consciousness seamlessly into the computational structure of cognition. To a dualist, elegance lies in a clean ontological distinction that respects the manifest difference between the physical and the experiential. To a panpsychist, elegance is a universe where experience is fundamental rather than emergent.
 
-More troublingly, the sense of elegance is itself a [phenomenal state](/concepts/epistemic-emotions/) — a species of aesthetic experience. When theorists use elegance as a guide to theories *about* phenomenal experience, the circularity should be evident. The conscious sense of what is beautiful shapes the selection of theories about consciousness. The [phenomenology-of-theoretical-commitment](/topics/phenomenology-of-theoretical-commitment/) that makes one framework feel elegant is part of the phenomenon under investigation.
+More troublingly, the sense of elegance is itself a [phenomenal state](/concepts/epistemic-emotions/) — a species of aesthetic experience. When theorists use elegance as a guide to theories *about* phenomenal experience, the circularity should be evident. The conscious sense of what is beautiful shapes the selection of theories about consciousness. The [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/) that makes one framework feel elegant is part of the phenomenon under investigation.
 
 ### Unificatory Strength and the Unity Trap
 
@@ -133,7 +133,7 @@ The Map does not claim that theoretical virtues are useless. In their home domai
 - [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) — Why explanation itself breaks down for consciousness
 - [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-limits-of-explanation/) — Why science's explanatory apparatus fails for consciousness
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — Multiple independent arguments converging on irreducibility
-- [phenomenology-of-theoretical-commitment](/topics/phenomenology-of-theoretical-commitment/) — How holding a theory reshapes conscious experience
+- [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/) — How holding a theory reshapes conscious experience
 - [explanatory-gap](/concepts/explanatory-gap/) — The structural deficit between physical and phenomenal
 - [dualism](/concepts/dualism/) — The converging positive arguments for dualism
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure as one response to the systematic failure

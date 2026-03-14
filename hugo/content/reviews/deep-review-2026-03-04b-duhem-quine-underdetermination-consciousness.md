@@ -27,7 +27,7 @@ Reviewed against:
 - [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
 - [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/)
 - [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/)
-- [consciousness-and-the-phenomenology-of-framework-dependence](/topics/consciousness-and-the-phenomenology-of-framework-dependence/)
+- [consciousness-and-the-phenomenology-of-framework-dependence](/topics/phenomenology-of-framework-inhabitation/)
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [explanatory-gap](/concepts/explanatory-gap/)
@@ -74,7 +74,7 @@ Reviewed against:
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) → duhem-quine
 - [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) → duhem-quine
 - [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/) → duhem-quine
-- [consciousness-and-the-phenomenology-of-framework-dependence](/topics/consciousness-and-the-phenomenology-of-framework-dependence/) → duhem-quine
+- [consciousness-and-the-phenomenology-of-framework-dependence](/topics/phenomenology-of-framework-inhabitation/) → duhem-quine
 - [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) → duhem-quine
 
 ## Remaining Items
