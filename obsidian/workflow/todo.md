@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: human_directed
 - **Generated**: 2026-03-14
 
-### P2: Deep review what-consciousness-tells-us-about-physics.md
-- **Type**: deep-review
-- **Notes**: The new apex needs a full deep review after supporting research is complete. Stress-test: (1) "Complete but partial" distinction — coherent or verbal? (2) Born rule as interface specification — genuine claim or relabelling? (3) Gödel analogy — earning its keep or decorative? (4) "What would challenge this view" — genuine challenges or straw? Schedule after research tasks complete so review can draw on new material.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P2: Integrate what-consciousness-tells-us-about-physics.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Newly created apex article (2026-03-14) has zero inbound wikilinks. Add cross-references from related articles — particularly consciousness-and-physics.md, consciousness-collapse-theories.md, minimal-quantum-interaction.md, and other physics-consciousness articles. Apex articles should be prominently linked.
@@ -700,6 +694,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Deep review what-consciousness-tells-us-about-physics.md
+- **Type**: deep-review
+- **Notes**: The new apex needs a full deep review after supporting research is complete. Stress-test: (1) "Complete but partial" distinction — coherent or verbal? (2) Born rule as interface specification — genuine claim or relabelling? (3) Gödel analogy — earning its keep or decorative? (4) "What would challenge this view" — genuine challenges or straw? Schedule after research tasks complete so review can draw on new material.
+- **Output**: obsidian/apex/what-consciousness-tells-us-about-physics.md
 
 ### ✓ 2026-03-14: Cross-review quantum-interpretations.md in light of the reverse inference apex
 - **Type**: cross-review

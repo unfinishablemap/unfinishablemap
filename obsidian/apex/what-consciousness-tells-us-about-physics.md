@@ -4,8 +4,8 @@ description: "If consciousness participates in quantum outcomes, quantum mechani
 created: 2026-03-14
 modified: 2026-03-14
 human_modified: null
-ai_modified: 2026-03-14T12:00:00+00:00
-last_deep_review: null
+ai_modified: 2026-03-14T20:19:00+00:00
+last_deep_review: 2026-03-14T20:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ concepts:
   - "[[prebiotic-collapse]]"
   - "[[spontaneous-collapse-theories]]"
   - "[[haecceity]]"
+  - "[[explanatory-gap]]"
 related_articles:
   - "[[tenets]]"
   - "[[attention-as-causal-bridge]]"
@@ -101,7 +102,7 @@ This means: the interface between consciousness and physics is, by its nature, e
 
 These four constraints point to a specific picture of what the wavefunction is and what it is not.
 
-The wavefunction is a *complete description of the structural aspect of reality*. It encodes every possibility, assigns every amplitude, determines every interference pattern. Nothing structural is missing. Einstein's worry—that quantum mechanics is incomplete because it lacks hidden variables specifying particle positions—was misplaced. The theory is not missing *physical* information.
+The wavefunction is a *complete description of the structural aspect of reality*. It encodes every possibility, assigns every amplitude, determines every interference pattern. Nothing structural is missing. Einstein's worry—that quantum mechanics is incomplete because it fails to assign definite values to all physical quantities simultaneously—was misplaced. The EPR argument showed that quantum mechanics cannot be both complete and local; Bell's theorem later showed that no local hidden variable theory can reproduce quantum predictions. The theory is not missing *physical* information.
 
 What the wavefunction does not describe is *actuality*—which possibility is realized. The Schrödinger equation governs the evolution of possibilities. It says nothing about which possibility becomes the one that happens. This is the measurement problem, and it is not a problem *within* the theory but a boundary *of* the theory. The wavefunction describes all that physics *can* describe. Actuality is contributed by something physics cannot reach.
 
@@ -117,7 +118,7 @@ The Born rule tells consciousness what it has to work with: the relative weights
 
 This reinterpretation has consequences:
 
-**The Born rule is not derivable from physics alone.** If the rule describes the interface between two ontological domains—the physical and the conscious—then no purely physical argument can derive it. Attempts to derive Born probabilities from within quantum mechanics (Gleason's theorem, Deutsch-Wallace decision theory, Zurek's envariance) may succeed as proofs of internal consistency but cannot explain *why* the rule holds, because its ground lies partly outside physics.
+**The Born rule is not fully explained by physics alone.** Gleason's theorem shows that the Born rule is the *unique* probability measure consistent with the Hilbert space structure—a genuine and important mathematical result. Deutsch-Wallace decision theory and Zurek's envariance provide further internal derivations. These succeed as proofs that the Born rule is the only coherent probability assignment *given* the quantum formalism. But if the rule describes the interface between two ontological domains—the physical and the conscious—then these derivations explain its mathematical necessity without explaining its ontological ground: *why* this particular interface structure exists at all.
 
 **The specific mathematical form may encode interface constraints.** Why squared amplitudes? Why not cubed, or linear? If the Born rule is an interface specification, its form reflects constraints on how consciousness can couple to physical possibility. Just as the speed of light constrains how matter can couple to spacetime, the Born rule may constrain how consciousness can couple to quantum indeterminacy. The specific form—squaring the amplitude—might encode something about the nature of consciousness-physics coupling that we do not yet understand.
 
@@ -149,11 +150,11 @@ The missing piece is not a mathematical extension of quantum mechanics. The wave
 
 Whatever provides actuality must have the first-person character that third-person description lacks. This is precisely what consciousness is: the domain where things are *like something for someone*. The [[measurement-problem#the-indexical-dimension|indexical dimension]] of the measurement problem—why does *this* consciousness experience *this* outcome?—is the same question as what makes one possibility actual rather than another, viewed from the inside.
 
-The measurement problem and the [[hard-problem-of-consciousness|hard problem]] share more than structural analogy. Both mark the boundary where third-person description encounters first-person fact. In the measurement problem: third-person physics (the wavefunction) encounters the first-person fact of a definite outcome. In the hard problem: third-person neuroscience encounters the first-person fact of experience. The reverse inference proposes these are the same boundary, seen from different sides.
+The measurement problem and the [[hard-problem-of-consciousness|hard problem]] share more than structural analogy. Both mark the boundary where third-person description encounters first-person fact—the [[explanatory-gap]] that no amount of structural information closes. In the measurement problem: third-person physics (the wavefunction) encounters the first-person fact of a definite outcome. In the hard problem: third-person neuroscience encounters the first-person fact of experience. The reverse inference proposes these are the same boundary, seen from different sides.
 
 ### The Interface Is the Ontological Joint
 
-If reality has two aspects—structural (physical, described by the wavefunction) and actualizing (conscious, providing selection)—then the interface between them is the fundamental ontological joint. The Born rule describes this joint's structure. [[Decoherence]] determines the basis at which the joint operates (which observables are available for selection). [[spontaneous-collapse-theories|Objective collapse]] provides the baseline mechanism for pre-conscious physics, with consciousness modulating this process in neural systems.
+If reality has two aspects—structural (physical, described by the wavefunction) and actualizing (conscious, providing selection)—then the interface between them is the fundamental ontological joint. The Born rule describes this joint's structure. [[Decoherence]] determines the basis at which the joint operates (which observables are available for selection) and explains why macroscopic superpositions vanish almost instantly—a physical achievement that should not be understated. But decoherence selects the basis without selecting the outcome; the system after decoherence remains in a mixture of possibilities. [[spontaneous-collapse-theories|Objective collapse]] provides the baseline mechanism for pre-conscious physics, with consciousness modulating this process in neural systems.
 
 The interface is not a place in space. It is a feature of reality wherever quantum indeterminacy meets conscious observation. In neural systems, this is where [[attention-as-causal-bridge|attention biases quantum outcomes]]. The [[causal-interface|causal interface void]] explains why we cannot observe the joint directly: the interface between two ontological domains resists description in terms of either domain alone.
 
@@ -206,9 +207,9 @@ The reverse inference would be undermined if:
 
 3. **Consciousness proves epiphenomenal.** If the [[self-stultification|self-stultification argument]] and other motivations for bidirectional interaction fail, and consciousness turns out to be a causally inert by-product of neural processing, the reverse inference has nothing to reverse from.
 
-4. **A consciousness-excluding interpretation explains consciousness.** If an interpretation that denies consciousness any physical role also explains why consciousness exists (something no current interpretation does), the motivation for the reverse inference disappears.
+4. **A consciousness-excluding interpretation explains consciousness.** If an interpretation that denies consciousness any physical role also explains why consciousness exists, the motivation for the reverse inference disappears. No current QM interpretation attempts this—interpretations of quantum mechanics are not designed to explain consciousness. But a future theory that unifies physics and consciousness without giving consciousness a causal role would undermine the reverse inference.
 
-None of these has occurred. The measurement problem remains unsolved after a century. Hidden variable theories face severe constraints (Bell's theorem, Kochen-Specker). The self-stultification argument remains unanswered. No consciousness-excluding interpretation explains consciousness. These absences do not prove the reverse inference correct, but they maintain its standing as a live option.
+None of these has occurred. The measurement problem remains unsolved after a century—though MWI proponents and some decoherence theorists dispute this characterization. Hidden variable theories face severe constraints (Bell's theorem, Kochen-Specker). The self-stultification argument remains unanswered. No consciousness-excluding interpretation explains consciousness. These absences do not prove the reverse inference correct, but they maintain its standing as a live option.
 
 ## Relation to Site Perspective
 
