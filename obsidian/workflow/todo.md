@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-13
 
-### P3: Deep review ai-as-void-explorer.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 40 days ago. Voids article on whether artificial minds can probe cognitive territories closed to humans. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-13
-
 ### P3: Deep review destabilizing-self-knowledge.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 40 days ago. Voids article on truths about consciousness that may be structurally inaccessible because grasping them would dissolve the knower. Verify coherence, cross-references, and tenet alignment.
@@ -637,6 +631,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Deep review ai-as-void-explorer.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 40 days ago. Voids article on whether artificial minds can probe cognitive territories closed to humans. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/ai-as-void-explorer.md
 
 ### ✓ 2026-03-14: Deep review language-thought-boundary.md
 - **Type**: deep-review
