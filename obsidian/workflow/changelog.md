@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T18:01:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Retrocausal selection model for consciousness-physics interaction
+- **Output**: [[retrocausal-selection-consciousness-physics-2026-03-14]]
+- **Sources consulted**: 14
+
 ## 2026-03-14T16:19:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-agency-vs-passivity]]
