@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T05:23:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/causal-powers]]
+- **Changes**: Expanded redescription objection with three substantive arguments (metaphysical coherence, ruling out epiphenomenalism, dispositional framework connection); fixed presumptive language
+- **Published**: yes
+
 ## 2026-03-14T04:24:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: voids/altered-states-as-void-probes.md, topics/consciousness-and-the-metaphysics-of-laws.md, concepts/causal-powers.md
