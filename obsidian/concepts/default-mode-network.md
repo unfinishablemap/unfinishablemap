@@ -4,8 +4,8 @@ description: "The brain's self-referential system, active at rest. DMN may const
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-03-01T08:15:00+00:00
-last_deep_review: 2026-03-01T08:15:00+00:00
+ai_modified: 2026-03-14T09:25:00+00:00
+last_deep_review: 2026-03-14T09:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,7 @@ concepts:
   - "[[predictive-processing]]"
 related_articles:
   - "[[tenets]]"
+  - "[[psychedelics-and-the-filter-model]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -98,13 +99,13 @@ Neuroimaging of psychedelic states provides an important test case. Psilocybin, 
 - Expanded awareness—feeling of accessing more than ordinary consciousness
 - Interconnection—dissolution of self-world boundaries
 
-Both production and filter models predict that DMN suppression would alter self-experience rather than eliminate it—the DMN is one component of a distributed neural system, and no serious account treats it as the sole generator of self-awareness. The question is whether the *character* of the alteration is more naturally explained by one model or the other. Production models account for the change straightforwardly: disrupt one subsystem and the overall output shifts. Filter theory offers a different reading: reduce the constraint, and consciousness accesses wider phenomenal territory. Reports of expansion, unity, and depth during psychedelic states are consistent with both interpretations, though they are also introspective reports about altered processing—not direct measurements of "wider access."
+Both production and filter models predict that DMN suppression would alter self-experience rather than eliminate it—the DMN is one component of a distributed neural system, and no serious account treats it as the sole generator of self-awareness. The question is whether the *character* of the alteration is more naturally explained by one model or the other. Production models account for the change straightforwardly: disrupt one subsystem and the overall output shifts. Filter theory offers a different reading: reduce the constraint, and consciousness accesses wider phenomenal territory. Reports of expansion, unity, and depth during psychedelic states are consistent with both interpretations, though they remain introspective reports—not direct measurements of "wider access."
 
 Carhart-Harris's REBUS model (Relaxed Beliefs Under Psychedelics) frames this as belief relaxation—the DMN maintains the prior beliefs that constitute the self-model, and psychedelics relax these constraints. Carhart-Harris himself interprets REBUS within a physicalist framework, where "relaxed beliefs" means altered neural prediction rather than expanded non-physical awareness. The filter interpretation reads the same evidence differently: reduced constraint, expanded access. Neither reading is forced by the data alone.
 
 ### Meditation and DMN Suppression
 
-Experienced meditators show reduced DMN activity during practice, and long-term practitioners show structural changes in DMN regions (Fox et al., 2014). This correlates with their phenomenological reports:
+Experienced meditators show reduced DMN activity during practice, and long-term practitioners show structural changes in brain regions overlapping the DMN (Fox et al., 2014). This correlates with their phenomenological reports:
 
 - Decreased mental chatter and self-referential thinking
 - Increased present-moment awareness
@@ -207,6 +208,7 @@ Current evidence does not meet these conditions, but they define the space of po
 - [[filter-theory]] — The framework interpreting DMN as constraint rather than generator
 - [[meditation-and-consciousness-modes]] — Contemplative practices that suppress DMN
 - [[altered-states-of-consciousness]] — States involving DMN modulation
+- [[psychedelics-and-the-filter-model]] — Pharmacological evidence for filter theory via DMN suppression
 - [[witness-consciousness]] — The awareness that persists when DMN quiets
 - [[self-and-consciousness]] — The relationship between self-models and phenomenal experience
 - [[global-workspace-theory]] — How DMN interacts with workspace access
