@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T14:41:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-framework-inhabitation]]
+- **Changes**: Updated wikilinks in 6 referencing files (consciousness-and-the-structure-of-scientific-revolutions, duhem-quine-underdetermination-consciousness, phenomenology-of-philosophical-disagreement, consciousness-and-the-problem-of-theoretical-virtues, consciousness-and-the-problem-of-philosophical-progress, phenomenology-of-epistemic-judgment) to point to coalesced article. Removed uncited Nagel reference. Updated ai_modified timestamps.
+- **Published**: yes
+
 ## 2026-03-14T14:35:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[topics/consciousness-and-the-phenomenology-of-framework-dependence]], [[topics/phenomenology-of-theoretical-commitment]]

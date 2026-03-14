@@ -4,12 +4,12 @@ description: "Why philosophy of mind has not converged on answers despite millen
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-03-11T14:58:00+00:00
+ai_modified: 2026-03-14T14:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-the-philosophy-of-explanation]]"
-  - "[[phenomenology-of-theoretical-commitment]]"
+  - "[[phenomenology-of-framework-inhabitation]]"
 concepts:
   - "[[explanatory-gap]]"
   - "[[concepts/materialism]]"
@@ -99,7 +99,7 @@ The Map itself embodies the kind of progress available in this domain: not conve
 - [[consciousness-and-the-philosophy-of-explanation]]
 - [[the-convergence-argument-for-dualism]]
 - [[epistemic-advantages-of-dualism]]
-- [[phenomenology-of-theoretical-commitment]]
+- [[phenomenology-of-framework-inhabitation]]
 - [[phenomenology-of-philosophical-disagreement]]
 - [[epistemology-of-convergence-arguments]]
 - [[hard-problem-of-consciousness]]

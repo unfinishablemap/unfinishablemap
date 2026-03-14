@@ -4,7 +4,7 @@ description: "How weighing evidence and changing beliefs feel from the inside—
 created: 2026-02-01
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-05T16:47:00+00:00
+ai_modified: 2026-03-14T14:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ related_articles:
   - "[[argument-from-reason]]"
   - "[[phenomenology-of-conceptual-change]]"
   - "[[phenomenology-of-philosophical-disagreement]]"
-  - "[[phenomenology-of-theoretical-commitment]]"
+  - "[[phenomenology-of-framework-inhabitation]]"
   - "[[phenomenal-conservatism-and-introspective-evidence]]"
 ai_contribution: 100
 author:
@@ -125,7 +125,7 @@ The Unfinishable Map's [[tenets]] find substantial support in epistemic phenomen
 - [[phenomenology-of-choice]]
 - [[phenomenology-of-conceptual-change]]
 - [[phenomenology-of-philosophical-disagreement]]
-- [[phenomenology-of-theoretical-commitment]]
+- [[phenomenology-of-framework-inhabitation]]
 - [[epistemic-emotions]]
 - [[cognitive-phenomenology]]
 - [[contemplative-epistemology]]

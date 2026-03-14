@@ -4,14 +4,14 @@ description: "No experiment can isolate a consciousness theory for testing. Huma
 created: 2026-03-04
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-05T16:47:00+00:00
+ai_modified: 2026-03-14T14:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-scientific-methodology]]"
   - "[[consciousness-and-the-limits-of-explanation]]"
   - "[[consciousness-and-the-problem-of-theoretical-virtues]]"
-  - "[[consciousness-and-the-phenomenology-of-framework-dependence]]"
+  - "[[phenomenology-of-framework-inhabitation]]"
 concepts:
   - "[[philosophy-of-science-under-dualism]]"
   - "[[integrated-information-theory]]"
@@ -45,7 +45,7 @@ Underdetermination afflicts all sciences—string theory versus loop quantum gra
 
 This creates a layered underdetermination:
 
-1. **Theory-ladenness of neural data.** What counts as a "neural correlate of consciousness" depends on which theory defines the relevant contrast. IIT looks for integrated information in posterior cortex; GWT looks for global broadcast to prefrontal areas. The same brain scan supports different claims depending on which theoretical lens interprets it. This is an instance of the broader [[consciousness-and-the-phenomenology-of-framework-dependence|framework dependence]] that pervades consciousness research—frameworks do not merely organise evidence but determine what counts as evidence.
+1. **Theory-ladenness of neural data.** What counts as a "neural correlate of consciousness" depends on which theory defines the relevant contrast. IIT looks for integrated information in posterior cortex; GWT looks for global broadcast to prefrontal areas. The same brain scan supports different claims depending on which theoretical lens interprets it. This is an instance of the broader [[phenomenology-of-framework-inhabitation|framework dependence]] that pervades consciousness research—frameworks do not merely organise evidence but determine what counts as evidence.
 
 2. **Theory-ladenness of first-person reports.** Introspective reports are not raw data—they are shaped by training, context, and theoretical expectations. The collapse of 19th-century introspectionist psychology, when rival schools could not agree on what subjects experienced under controlled conditions, illustrates this problem historically.
 
@@ -91,7 +91,7 @@ The strategy faces difficulties. It must explain why phenomenal concepts are spe
 
 ## Framework Dependence and Convergence
 
-The underdetermination described here has a phenomenological dimension explored in the Map's analysis of [[consciousness-and-the-phenomenology-of-framework-dependence|framework dependence]]. Each theoretical framework presents itself as transparent rather than as a lens. A physicalist reading dualist arguments experiences "false fluency"—the sense of understanding that comes from unconsciously translating the argument into physicalist terms, stripping away what made it compelling. This is not mere disagreement but lossy translation: enough meaning survives to sustain the illusion of engagement while the distinctive content is lost. Davidson's (1974) challenge—that the very idea of incommensurable conceptual schemes may be incoherent—is met by this distinction between full incommensurability and lossy translation. The frameworks are not mutually unintelligible, but neither is translation between them lossless.
+The underdetermination described here has a phenomenological dimension explored in the Map's analysis of [[phenomenology-of-framework-inhabitation|framework dependence]]. Each theoretical framework presents itself as transparent rather than as a lens. A physicalist reading dualist arguments experiences "false fluency"—the sense of understanding that comes from unconsciously translating the argument into physicalist terms, stripping away what made it compelling. This is not mere disagreement but lossy translation: enough meaning survives to sustain the illusion of engagement while the distinctive content is lost. Davidson's (1974) challenge—that the very idea of incommensurable conceptual schemes may be incoherent—is met by this distinction between full incommensurability and lossy translation. The frameworks are not mutually unintelligible, but neither is translation between them lossless.
 
 Against the suggestion that underdetermination leaves us with no rational basis for theory preference, the [[explanatory-gap|explanatory gap]] literature offers a convergence response. Multiple independent lines of argument—the conceivability argument, the knowledge argument, Nagel's subjectivity argument, Kripke's modal argument—converge on the conclusion that physical description does not entail phenomenal experience. When independent arguments converge, the probability that they are all mistaken decreases, even if no individual argument is decisive. This convergence does not resolve the underdetermination—physicalists can attempt to defuse each argument separately—but it means dualism is not in the weak epistemic position of a theory that merely fits the data post hoc.
 
@@ -113,7 +113,7 @@ The Map's honest assessment: underdetermination cuts both ways. It undermines ph
 - [[philosophy-of-science-under-dualism]]
 - [[epistemological-limits-of-occams-razor]]
 - [[consciousness-and-the-problem-of-theoretical-virtues]]
-- [[consciousness-and-the-phenomenology-of-framework-dependence]]
+- [[phenomenology-of-framework-inhabitation]]
 - [[integrated-information-theory]]
 - [[global-workspace-theory]]
 - [[neural-correlates-of-consciousness]]

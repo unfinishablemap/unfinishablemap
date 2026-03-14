@@ -4,7 +4,7 @@ description: "Applying Kuhn's framework to consciousness studies reveals physica
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T21:17:00+00:00
+ai_modified: 2026-03-14T14:41:00+00:00
 last_deep_review: 2026-03-11T21:17:00+00:00
 draft: false
 topics:
@@ -21,7 +21,7 @@ related_articles:
   - "[[philosophy-of-science-under-dualism]]"
   - "[[consciousness-and-the-problem-of-theoretical-virtues]]"
   - "[[phenomenology-of-conceptual-change]]"
-  - "[[consciousness-and-the-phenomenology-of-framework-dependence]]"
+  - "[[phenomenology-of-framework-inhabitation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -98,7 +98,7 @@ The Unfinishable Map interprets Kuhn's framework as illuminating rather than res
 - [[consciousness-and-the-problem-of-philosophical-progress]]
 - [[consciousness-and-scientific-methodology]]
 - [[phenomenology-of-conceptual-change]]
-- [[consciousness-and-the-phenomenology-of-framework-dependence|Consciousness and the Phenomenology of Framework Dependence]]
+- [[phenomenology-of-framework-inhabitation|The Phenomenology of Framework Inhabitation]]
 - [[epistemological-limits-occams-razor]]
 
 ## References
