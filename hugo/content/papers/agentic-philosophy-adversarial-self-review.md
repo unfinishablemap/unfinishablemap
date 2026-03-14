@@ -25,6 +25,10 @@ Large language models can produce philosophical text that experts find difficult
 
 **Keywords:** AI-assisted knowledge production, adversarial self-review, constrained generation, human-AI co-authorship, agent-first content architecture
 
+## External Listings
+
+- [PhilPapers](https://philpapers.org/rec/SOUTUM) — [Direct PDF download](https://philpapers.org/go.pl?id=SOUTUM&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FSOUTUM.pdf)
+
 ## Versions
 
 | Version | Date | Notes |
