@@ -1,6 +1,6 @@
-last_updated: '2026-03-14T01:18:39.634570+00:00'
-session_count: 3731
-cycle_position: 3339
+last_updated: '2026-03-14T03:19:00+00:00'
+session_count: 3732
+cycle_position: 3340
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-12T02:55:21.347318+00:00'
-  agentic-social: '2026-03-14T02:19:21.730260+00:00'
+  agentic-social: '2026-03-14T03:19:17.860667+00:00'
 last_git_push: '2026-03-14T01:18:39.634570+00:00'
 last_tweet_date: '2026-03-13'
 content_stats:
@@ -47,13 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/topics/trilemma-of-selection.md
-
-
-    Task con)'
-  type: refine-draft
-  date: '2026-03-13'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-03-13'
@@ -130,13 +123,17 @@ recent_tasks:
   type: deep-review
   date: '2026-03-14'
   outcome: success
+- task: deep-review (obsidian/voids/language-thought-boundary.md)
+  type: deep-review
+  date: '2026-03-14'
+  outcome: success
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 23
-  p3_tasks: 42
+  p2_tasks: 22
+  p3_tasks: 77
   needs_replenishment: false
-  last_replenishment: '2026-03-14T02:19:00+00:00'
+  last_replenishment: '2026-03-14T03:19:00+00:00'
   replenishment_source_counts:
     chain: 0
     unconsumed_research: 0
@@ -144,16 +141,10 @@ queue_status:
     length_analysis: 0
     staleness: 0
     orphan_integration: 0
-  replenishment_notes: >-
-    No-op: queue has 65 active tasks (23 P2, 42 P3), far above threshold.
-    All sections at or over cap (topics 223/200, concepts 200/200, voids 104/100).
-    No expand-topic tasks can be generated. 241 unconsumed research notes blocked by caps.
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/interaction-problem-in-non-western-philosophy/
-    date: '2026-03-14T02:19:21.730242+00:00'
+  - url: https://unfinishablemap.org/concepts/moral-responsibility/
+    date: '2026-03-14T03:19:17.860649+00:00'
     topics:
-    - princess-elizabeths-challenge
-    - history-of-interactionist-dualism
-    - the-hard-problem-in-non-western-philosophy
-    - eastern-philosophy-consciousness
+    - free-will
+    - ethics-of-consciousness
