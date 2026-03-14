@@ -4,7 +4,7 @@ description: "Huemer's principle—trust appearances unless defeated—provides 
 created: 2026-02-09
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-14T23:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-02-13T19:34:00+00:00
+last_deep_review: 2026-03-14T23:55:00+00:00
 ---
 
 Phenomenal conservatism holds that if it seems to you that something is the case, you have at least prima facie justification for believing it—unless you have specific reasons to doubt. The Unfinishable Map argues that this principle, developed by Michael Huemer as a general epistemological framework, has profound implications for consciousness science. When experience presents itself as qualitative, unified, and subjective, phenomenal conservatism says these presentations deserve default trust as evidence. This secures the data that dualist arguments depend on: the reality of qualitative character cannot be dismissed as mere intuition without positive reasons. The question becomes not whether introspective evidence can earn its keep, but whether materialists have adequate defeaters for what consciousness presents.
@@ -76,7 +76,7 @@ Until such an explanation succeeds, PC says the phenomenal seemings stand as evi
 
 ### Crazy Seemings
 
-Peter Markie objects that PC is too permissive. If a tree seems to have been planted on 24 April 1914—a seeming that comes "completely out of the blue"—PC apparently grants prima facie justification for this bizarre belief. Surely not all seemings should be trusted.
+Peter Markie objects that PC is too permissive. If a walnut tree seems to have been planted on 24 April 1914—a seeming that comes "completely out of the blue"—PC apparently grants prima facie justification for this bizarre belief. Surely not all seemings should be trusted.
 
 Huemer responds that genuine seemings must be distinguished from mere inclinations to believe. The walnut tree case involves a stray thought, not a genuine appearance with the distinctive phenomenal force that characterises perceptual or introspective seemings. But even granting that some seemingly unmotivated impressions qualify, they are easily defeated by background knowledge. Nobody acts on such impressions because defeaters are immediately available.
 
@@ -151,18 +151,3 @@ What PC rules out is treating the qualitative presentations of consciousness as 
 1. Schwitzgebel, E. (2008). The unreliability of naive introspection. *Philosophical Review*, 117(2), 245-273.
 1. Siegel, S. (2012). Cognitive penetrability and perceptual justification. *Noûs*, 46(2), 201-222.
 
-<!-- AI REFINEMENT LOG - 2026-02-09
-Changes made:
-1. Fixed core conflation: distinguished phenomenal acquaintance (being in a state) from metaphysical insight (judging ontological status). The article previously slid from "consciousness presents qualitative character" to "consciousness presents itself as irreducible" without marking the inferential gap. Now explicitly acknowledges that PC secures the evidential base (qualitative presentations) while the step to irreducibility requires additional philosophical arguments (hard problem, conceivability, knowledge argument).
-1. Rewrote burden-shifting section to make the acquaintance/metaphysics distinction explicit and clarify PC's more circumscribed role.
-1. Added nuance to cognitive penetration response: acquaintance-level seemings are immune, but irreducibility claims may involve theory-laden interpretation.
-1. Fixed Gertler/acquaintance response to Schwitzgebel: now explicitly limits acquaintance to phenomenal character, not metaphysical status.
-1. Removed mischaracterised Fox et al. 2012 citation (studied meditation effects on interoception, not cross-cultural stability of seemings).
-1. Updated Relation to Site Perspective to reflect the refined understanding of PC's role.
-1. Systematically replaced "consciousness presents itself as irreducible" language throughout with "consciousness presents qualitative character" to maintain the distinction consistently.
-
-Based on pessimistic review (2026-02-09b), Issue 2 (High severity) and unsupported claims table.
-Key improvements: Philosophical precision on acquaintance vs. metaphysical insight, citation accuracy.
-
-This log should be removed after human review.
--->
