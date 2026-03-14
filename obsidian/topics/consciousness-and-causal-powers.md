@@ -4,7 +4,7 @@ description: "What kind of causal powers does consciousness possess? Examining t
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-14T21:03:00+00:00
 last_deep_review: 2026-03-06T01:41:00+00:00
 draft: false
 topics:
@@ -29,6 +29,7 @@ concepts:
   - "[[pain-asymbolia]]"
 related_articles:
   - "[[tenets]]"
+  - "[[epiphenomenalism-argument]]"
   - "[[evolutionary-case-for-mental-causation]]"
   - "[[conservation-laws-and-mental-causation]]"
   - "[[topics/phenomenal-value-realism]]"

@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: human_directed
 - **Generated**: 2026-03-14
 
-### P2: Integrate epiphenomenalism-argument.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Arguments article (created 2026-01-15) has zero inbound wikilinks despite being a core argument page. Add cross-references from epiphenomenalism.md, the-epiphenomenalist-threat.md, mental-causation.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-14
-
 ### P2: Write article on dreams, problem-solving, and conscious influence
 - **Type**: expand-topic
 - **Notes**: Research completed in research/dreams-problem-solving-lucid-dreaming-2026-02-06.md. Konkoly et al. 2026 shows targeted memory reactivation during REM doubles problem-solving — direct evidence dreaming is functionally active, not neural noise. Lucid dreaming demonstrates consciousness modulating its own states despite altered neurochemistry. Dreams as a natural laboratory for studying consciousness independently of physical substrate. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
@@ -724,6 +718,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Integrate epiphenomenalism-argument.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Arguments article (created 2026-01-15) has zero inbound wikilinks despite being a core argument page. Add cross-references from epiphenomenalism.md, the-epiphenomenalist-threat.md, mental-causation.md, and related articles.
+- **Output**: obsidian/arguments/epiphenomenalism-argument.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-14: Integrate what-consciousness-tells-us-about-physics.md into site navigation
 - **Type**: integrate-orphan

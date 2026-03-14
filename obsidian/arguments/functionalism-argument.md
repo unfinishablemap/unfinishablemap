@@ -3,7 +3,7 @@ title: "Against Functionalism"
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-24T17:44:00+00:00
+ai_modified: 2026-03-14T21:03:00+00:00
 draft: false
 description: "Five converging arguments against functionalism—from absent qualia to the explanatory gap—showing consciousness is irreducible to functional organization."
 topics:
@@ -25,6 +25,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[concepts/materialism]]"
+  - "[[epiphenomenalism-argument]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

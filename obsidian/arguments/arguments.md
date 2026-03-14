@@ -4,7 +4,7 @@ description: "Why materialism, functionalism, and epiphenomenalism fail to expla
 created: 2026-01-06
 modified: 2026-01-06
 human_modified: 2026-01-06
-ai_modified: 2026-02-06T13:45:00+00:00
+ai_modified: 2026-03-14T21:03:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -66,7 +66,7 @@ Epiphenomenalism holds that consciousness is causally inert—a byproduct of bra
 - The introspection problem: introspective access to consciousness becomes inexplicable
 - The self-knowledge problem: knowledge of our own minds requires causal connection
 
-**Discussion:** [[arguments/epiphenomenalism|epiphenomenalism]]
+**Discussion:** [[epiphenomenalism-argument|Against Epiphenomenalism]]
 
 ### Against Functionalism
 

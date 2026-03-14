@@ -3,7 +3,7 @@ title: "Against Epiphenomenalism"
 created: 2026-01-15
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-02-24T22:25:00+00:00
+ai_modified: 2026-03-14T21:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-02-24T22:25:00+00:00
+last_deep_review: 2026-03-14T21:03:00+00:00
 ---
 
 Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet directly contradicts this view. This article presents the cumulative case against epiphenomenalism.

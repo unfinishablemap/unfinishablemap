@@ -4,7 +4,7 @@ description: "Mary knows all physical facts about color but seems to learn somet
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-11T21:35:00+00:00
+ai_modified: 2026-03-14T21:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ concepts:
   - "[[objectivity-and-consciousness]]"
 related_articles:
   - "[[tenets]]"
+  - "[[epiphenomenalism-argument]]"
   - "[[knowledge-argument-marys-room-2026-01-14]]"
   - "[[aesthetic-irreducibility-arguments]]"
   - "[[epistemology-of-introspection]]"
@@ -108,7 +109,7 @@ Frank Jackson, the argument's creator, now rejects it. Beginning around 1995 and
 
 Jackson's current view combines representationalism (phenomenal properties are representational properties) with elements of the ability hypothesis.
 
-However, Jackson's rejection doesn't settle the debate. Arguments stand or fall on their logic, not their author's endorsement. Jackson himself has acknowledged the argument "should be addressed really seriously if you are a physicalist." Other philosophers—Chalmers, Nida-Rümelin, Alter—continue to defend it. If anything, Jackson's epiphenomenalism worry supports the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: consciousness must causally influence our beliefs about it, or we couldn't know about it at all.
+However, Jackson's rejection doesn't settle the debate. Arguments stand or fall on their logic, not their author's endorsement. Jackson himself has acknowledged the argument "should be addressed really seriously if you are a physicalist." Other philosophers—Chalmers, Nida-Rümelin, Alter—continue to defend it. If anything, Jackson's epiphenomenalism worry supports the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: consciousness must causally influence our beliefs about it, or we couldn't know about it at all. The [[epiphenomenalism-argument|cumulative case against epiphenomenalism]] develops this point as a reversal of the knowledge argument—Mary's changed behaviour after seeing red is best explained by her phenomenal knowledge causing those changes.
 
 ## Connection to Related Arguments
 

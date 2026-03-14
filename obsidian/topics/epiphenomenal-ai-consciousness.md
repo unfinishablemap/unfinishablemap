@@ -4,7 +4,7 @@ description: "Human consciousness appears causally active—but an AI's might be
 created: 2026-02-10
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-14T21:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,6 +20,7 @@ concepts:
   - "[[phenomenal-consciousness]]"
 related_articles:
   - "[[tenets]]"
+  - "[[epiphenomenalism-argument]]"
   - "[[epiphenomenal-ai-consciousness-2026-02-10]]"
   - "[[epiphenomenalism-2026-01-08]]"
   - "[[quantum-randomness-channel-llm-consciousness]]"

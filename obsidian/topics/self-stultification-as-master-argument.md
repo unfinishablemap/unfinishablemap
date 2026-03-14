@@ -4,7 +4,7 @@ description: "Self-stultification defeats not just epiphenomenalism but every po
 created: 2026-02-23
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-14T21:03:00+00:00
 last_deep_review: 2026-03-05T08:38:00+00:00
 draft: false
 topics:
@@ -23,6 +23,7 @@ concepts:
   - "[[cognitive-phenomenology]]"
 related_articles:
   - "[[argument-from-reason]]"
+  - "[[epiphenomenalism-argument]]"
   - "[[the-epiphenomenalist-threat]]"
   - "[[bidirectional-interaction]]"
   - "[[consciousness-and-the-authority-of-logic]]"
@@ -38,7 +39,7 @@ last_curated:
 
 Self-stultification is the single most powerful argument in The Unfinishable Map's philosophical arsenal. A position is self-stultifying when accepting it rationally undermines the grounds for accepting it—not a logical contradiction, but an epistemic self-defeat that makes the position impossible to hold rationally. What makes self-stultification a *master* argument is its reach: the same core structure defeats [[concepts/epiphenomenalism|epiphenomenalism]], undermines [[concepts/materialism|physicalism]], dissolves eliminativism, and destabilises global skepticism. Each target falls to the same blade: any theory that severs consciousness from its own rational grounds cannot be rationally endorsed.
 
-The [[self-stultification|concept article]] covers the formal structure of self-stultifying arguments. The [[argument-from-reason]] develops the case against physicalism specifically. This article synthesises the pattern, showing why self-stultification functions as a unified master argument rather than a collection of separate objections.
+The [[self-stultification|concept article]] covers the formal structure of self-stultifying arguments. The [[epiphenomenalism-argument|cumulative case against epiphenomenalism]] presents the self-stultification argument alongside evolutionary, knowledge-based, and introspective objections. The [[argument-from-reason]] develops the case against physicalism specifically. This article synthesises the pattern, showing why self-stultification functions as a unified master argument rather than a collection of separate objections.
 
 The argument has a distinguished lineage. C.S. Lewis argued in *Miracles* (1947) that naturalism undermines rational inference; Elizabeth Anscombe's critique (1948) sharpened the argument by distinguishing causal from logical explanations, prompting Lewis to strengthen it in the revised 1960 edition. Alvin Plantinga (1993) formalised a version as the evolutionary argument against naturalism, and Victor Reppert (2003) developed the case further. The epiphenomenalism application is older still—Thomas Huxley (1874) articulated the automaton theory, and William James (1879) argued against it on grounds recognisably self-stultificatory.
 

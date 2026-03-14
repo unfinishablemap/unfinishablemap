@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-14T20:43:00+00:00
+ai_modified: 2026-03-14T21:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -86,7 +86,7 @@ René Descartes established the classic formulation: mind (res cogitans) and bod
 
 Yet recent work demonstrates this objection rests on misunderstandings. Conservation is *local* and *conditional*—it holds given certain assumptions. The objection begs the question: expecting conservation to hold in the brain assumes interactionism is false. Notably, non-Western traditions independently developed [[interaction-solutions-across-traditions|the same structural types of solution]]—from contact mechanisms to non-contact selection—centuries before Leibniz posed the conservation challenge. See [[conservation-laws-and-mental-causation]] for why the conservation objection fails and how the "selection not injection" framework provides a positive account of mental causation.
 
-Meanwhile, [[concepts/epiphenomenalism]] faces its own devastating objection: if consciousness causes nothing, how can we know anything about consciousness? The [[mental-causation|self-stultification argument]] shows that denying mental causation is epistemically self-defeating—your belief that you're in pain must be caused by your pain.
+Meanwhile, [[concepts/epiphenomenalism]] faces its own devastating objection: if consciousness causes nothing, how can we know anything about consciousness? The [[epiphenomenalism-argument|cumulative case against epiphenomenalism]] presents four independent arguments—self-stultification, evolutionary, knowledge-based, and introspective—showing that denying mental causation is epistemically self-defeating. Your belief that you're in pain must be caused by your pain.
 
 ## The Cumulative Case for Interactionism
 

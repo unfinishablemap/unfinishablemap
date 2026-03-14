@@ -4,7 +4,7 @@ description: "Consciousness as causally inert byproduct. Self-stultification pro
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-03-11T19:45:00+00:00
+ai_modified: 2026-03-14T21:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ concepts:
   - "[[llm-consciousness]]"
 related_articles:
   - "[[tenets]]"
+  - "[[epiphenomenalism-argument]]"
   - "[[epiphenomenalism-2026-01-08]]"
   - "[[contemplative-neuroscience]]"
 ai_contribution: 100
@@ -78,7 +79,7 @@ This reasoning is weak. We also don't understand how physical states produce con
 
 ## The Self-Stultification Problem
 
-The most powerful objection to epiphenomenalism is that it undermines itself. This argument appears in formal premise-conclusion form in the [[interactionist-dualism|argument for interactionist dualism]], and is developed in detail in the [[mental-causation]] article.
+The most powerful objection to epiphenomenalism is that it undermines itself. The [[epiphenomenalism-argument|cumulative case against epiphenomenalism]] presents this argument alongside evolutionary, knowledge-based, and introspective objections. It also appears in formal premise-conclusion form in the [[interactionist-dualism|argument for interactionist dualism]], and is developed in detail in the [[mental-causation]] article.
 
 Consider: you're reading an argument for epiphenomenalism. You find it convincing. You form the belief that consciousness is causally inert.
 

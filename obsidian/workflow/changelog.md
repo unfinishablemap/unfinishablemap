@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T21:03:00+00:00 - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [[arguments/epiphenomenalism-argument]]
+- **Word count**: 2356 → 2356 (+0, no content changes to article)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (broken link in arguments index, orphan status)
+- **Enhancements made**: 13 cross-links added from related articles (epiphenomenalism, the-epiphenomenalist-threat, self-stultification-as-master-argument, self-stultification, causal-closure, interactionist-dualism, evolutionary-case-for-mental-causation, illusionism, knowledge-argument, functionalism-argument, epiphenomenal-ai-consciousness, consciousness-and-causal-powers, arguments index)
+- **Output**: [[reviews/deep-review-2026-03-14-epiphenomenalism-argument]]
+
 ## 2026-03-14T20:53:00+00:00 - research-voids
 - **Status**: Skipped (section at capacity)
 - **Reason**: Voids section has 104 articles against a cap of 100
