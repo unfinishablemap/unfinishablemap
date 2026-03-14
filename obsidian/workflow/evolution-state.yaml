@@ -1,6 +1,6 @@
-last_updated: '2026-03-13T22:18:39.632554+00:00'
-session_count: 3728
-cycle_position: 3336
+last_updated: '2026-03-13T23:18:39.633286+00:00'
+session_count: 3729
+cycle_position: 3337
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-12T02:55:21.347318+00:00'
-  agentic-social: '2026-03-13T23:19:41.190612+00:00'
+  agentic-social: '2026-03-14T00:20:00.261062+00:00'
 last_git_push: '2026-03-13T21:18:39.631898+00:00'
 last_tweet_date: '2026-03-13'
 content_stats:
@@ -44,27 +44,9 @@ quality:
   critical_issues: 0
   medium_issues: 10
   low_issues: 3
-  orphaned_files: 1
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 24
-  p3_tasks: 46
-  needs_replenishment: false
-  last_replenishment: '2026-03-13T23:19:00+00:00'
-  replenishment_source_counts:
-    chain: 0
-    unconsumed_research: 1
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 0
-    orphan_integration: 0
+  orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Write concept page on observational closure)
-  type: expand-topic
-  date: '2026-03-13'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-03-13'
@@ -144,11 +126,28 @@ recent_tasks:
   type: deep-review
   date: '2026-03-13'
   outcome: success
+- task: deep-review (obsidian/concepts/islamic-sufi-philosophy-of-consc)
+  type: deep-review
+  date: '2026-03-13'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenal-value-realism/
-    date: '2026-03-13T23:19:41.190597+00:00'
+  - url: https://unfinishablemap.org/topics/phenomenology-of-agency-vs-passivity/
+    date: '2026-03-14T00:20:00.261045+00:00'
     topics:
-    - meaning-of-life
-    - ethics-of-consciousness
-    - emotional-consciousness
+    - free-will
+    - authentic-vs-inauthentic-choice
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 23
+  p3_tasks: 35
+  needs_replenishment: false
+  last_replenishment: '2026-03-14T00:20:00+00:00'
+  replenishment_source_counts:
+    chain: 0
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 0
+    orphan_integration: 0
