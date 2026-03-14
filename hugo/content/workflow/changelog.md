@@ -18,6 +18,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T07:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [blindsight](/concepts/blindsight/)
+- **Word count**: 2691 → 2696 (+5)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 (paragraph flow improved, lucid dreaming cross-link added to Further Reading, prose tightened)
+- **Output**: [deep-review-2026-03-14-blindsight](/reviews/deep-review-2026-03-14-blindsight/)
+
+## 2026-03-14T06:21:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/)
+- **Word count**: 2041 → 2059 (+18)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3 (dualism argument strengthened, 3 cross-links added, prose tightened)
+- **Output**: [deep-review-2026-03-14-destabilizing-self-knowledge](/reviews/deep-review-2026-03-14-destabilizing-self-knowledge/)
+
 ## 2026-03-14T05:23:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [causal-powers](/concepts/causal-powers/)

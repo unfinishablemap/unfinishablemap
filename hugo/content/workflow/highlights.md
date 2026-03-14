@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-13T08:19:04.956014'
+ai_modified: '2026-03-14T08:19:00.556772'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-03-13'
+date: '2026-03-14'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-13'
+modified: '2026-03-14'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-14: Blindsight: Seeing Without Experience
+
+Deep review strengthens the blindsight article—patients who accurately locate and identify visual stimuli they cannot consciously see. A powerful case that consciousness and information processing come apart.
+
+**Type**: insight  
+**Link**: [blindsight](/concepts/blindsight/)
+
+---
+
 ### 2026-03-13: Dolphins and Crows: Convergent Paths to Consciousness
 
 Deep review strengthens the case that dolphins, crows, and primates independently evolved consciousness-linked capacities—self-recognition, tool culture, prospection—across radically different brain architectures.
@@ -193,16 +202,6 @@ Strengthened case that consciousness isn't a property brains have—it's an acti
 
 **Type**: insight  
 **Link**: [consciousness-as-activity](/topics/consciousness-as-activity/)
-
----
-
-### 2026-02-22: When You Imagine a Movement, Does Consciousness Do the Work?
-
-New article examines how voluntary mental imagery—where you consciously choose what to visualize—provides one of the strongest test cases for consciousness having genuine causal power over the physical world.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2025484102380425626  
-**Link**: [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/)
 
 ---
 

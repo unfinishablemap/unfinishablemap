@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-10 16:09:00+00:00
+ai_modified: 2026-03-14 07:20:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Blindsight patients discriminate visual stimuli they cannot conscio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-07 05:57:00+00:00
+last_deep_review: 2026-03-14 07:20:00+00:00
 modified: *id001
 related_articles:
 - '[[baseline-cognition]]'
@@ -36,7 +36,7 @@ topics: []
 
 Blindsight patients have damage to primary visual cortex (V1) that eliminates conscious visual experience in portions of their visual field—they report seeing nothing. Yet when forced to guess about stimuli presented in the blind region, they perform significantly above chance on discrimination tasks: identifying location, motion direction, color, and even emotional expressions. The phenomenon demonstrates that sophisticated visual processing can proceed without phenomenal awareness, providing strong evidence for consciousness-processing dissociation—one of several [perceptual dissociations](/topics/perception-and-conscious-experience/) that sharpen the hard problem.
 
-The discovery matters because it reveals what unconscious perception can and cannot do. Blindsight patients succeed at forced-choice discrimination (choosing between presented options) but perform poorly on detection (reporting whether anything appeared at all). The visual information guides action and influences decision-making but doesn't enter awareness for reasoning about. This pattern fits the [baseline cognition pattern](#baseline-cognition-pattern) (explained below): unconscious systems handle procedural tasks reliably but cannot support flexible reasoning or explicit knowledge.
+The discovery matters because it reveals what unconscious perception can and cannot do. Blindsight patients succeed at forced-choice discrimination (choosing between presented options) but fail at detection (reporting whether anything appeared at all). Visual information guides action but doesn't enter awareness for reasoning. This pattern fits the [baseline cognition pattern](#baseline-cognition-pattern) (explained below): unconscious systems handle procedural tasks reliably but cannot support flexible reasoning or explicit knowledge.
 
 ## The Discovery and Core Findings
 
@@ -66,7 +66,9 @@ This interpretation supports property dualism. If functionally similar visual pr
 
 Some theorists propose that blindsight involves preserved but degraded visual consciousness rather than its complete absence. Lau and Passingham (2006) demonstrated "relative blindsight" in normal observers using metacontrast masking—showing that subjective awareness can vary even when objective discrimination is matched. Persaud et al. (2011) found awareness-related prefrontal and parietal activity in blindsight patient GY even when discrimination performance was controlled. These findings suggest the dissociation may be between levels of awareness rather than presence versus absence.
 
-Phillips (2021) offers the strongest version of this challenge, arguing that blindsight patients have qualitatively degraded conscious vision and that their denials of seeing reflect conservative response criteria rather than absent phenomenology. On this view, patients set a high threshold for reporting "I see something" and their genuine but degraded visual experience falls below that threshold. The [blur paradox](/topics/perceptual-failure-and-the-interface/) extends Phillips's insight: if consciousness degrades smoothly from vivid clarity through blur to blindsight, the boundary between seeing and not-seeing dissolves into a continuum that threshold-emergence models struggle to explain. Type 2 blindsight patients (as opposed to Type 1) do report vague "feelings" or "awareness of something" without clear visual experience (Weiskrantz, 1998), blurring the line between absent consciousness and present-but-inaccessible consciousness.
+Phillips (2021) offers the strongest version of this challenge, arguing that blindsight patients have qualitatively degraded conscious vision and that their denials of seeing reflect conservative response criteria rather than absent phenomenology. On this view, patients set a high threshold for reporting "I see something" and their genuine but degraded visual experience falls below that threshold. Type 2 blindsight patients (as opposed to Type 1) do report vague "feelings" or "awareness of something" without clear visual experience (Weiskrantz, 1998), blurring the line between absent consciousness and present-but-inaccessible consciousness.
+
+The [blur paradox](/topics/perceptual-failure-and-the-interface/) extends Phillips's insight: if consciousness degrades smoothly from vivid clarity through blur to blindsight, the boundary between seeing and not-seeing dissolves into a continuum that threshold-emergence models struggle to explain.
 
 **3. Residual islands of spared V1**
 
@@ -186,6 +188,7 @@ Blindsight demonstrates that sophisticated visual processing can occur without c
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Neural mechanisms of conscious access
 - [illusionism](/concepts/illusionism/) — The view that phenomenal consciousness is an illusion
 - [voluntary attention](/concepts/attention-as-interface/) — Top-down selection and the V1 pathway
+- [Lucid dreaming](/topics/lucid-dreaming-as-capability-evidence/) — Phenomenal experience without sensory input (converse dissociation)
 - [mind-brain-separation](/concepts/mind-brain-separation/) — Evidence for consciousness-brain dissociation
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Blindsight as an empirical partial-zombie case
 - [higher-order-theories](/concepts/higher-order-theories/) — Physicalist framework for the blindsight dissociation
