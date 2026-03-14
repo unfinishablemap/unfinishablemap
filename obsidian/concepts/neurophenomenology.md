@@ -4,7 +4,7 @@ description: "Varela's research program integrating first-person phenomenology w
 created: 2026-01-14
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-04T22:27:00+00:00
+ai_modified: 2026-03-14T22:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,8 +12,6 @@ concepts:
   - "[[stapp-quantum-mind]]"
   - "[[phenomenology]]"
   - "[[qualia]]"
-  - "[[temporal-consciousness]]"
-  - "[[temporal-consciousness]]"
   - "[[temporal-consciousness]]"
   - "[[mysterianism]]"
   - "[[introspection]]"
@@ -33,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-02-04T22:27:00+00:00
+last_deep_review: 2026-03-14T22:56:00+00:00
 ---
 
 Neurophenomenology is Francisco Varela's research program integrating first-person phenomenological reports with third-person neuroscience. Neither perspective alone suffices for consciousness science. Contemplative traditions—particularly Buddhist meditation—provide systematic methods for refining first-person observation, revealing consciousness structures invisible to ordinary introspection.
@@ -159,9 +157,7 @@ Meditation exhibits the structure of [[topics/free-will|self-forming actions]]: 
 - [[meditation-and-consciousness-modes]] — The two modes: active selection and passive witnessing
 - [[witness-consciousness]] — The observer phenomenon in contemplative traditions
 - [[attention-as-interface]] — How attention serves as consciousness's interface with matter
-- [[temporal-consciousness]] — How contemplative observation reveals time's structure
-- [[temporal-consciousness]] — The experienced duration of "now" and the extensionalism debate
-- [[temporal-consciousness]] — Bergson's analysis of lived time, convergent with contemplative reports
+- [[temporal-consciousness]] — The specious present, extensionalism debate, and how contemplative observation reveals time's structure
 - [[qualia]] — The qualitative features that contemplative training discloses
 - [[illusionism]] — The challenge that phenomenal consciousness is an illusion
 - [[decoherence]] — The quantum objection and biological responses
@@ -178,7 +174,7 @@ Meditation exhibits the structure of [[topics/free-will|self-forming actions]]: 
 1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Laukkonen, R.E. et al. (2023). Cessations of consciousness in meditation: Advancing a scientific understanding. *Progress in Brain Research*, 280, 61-87.
-1. Neuroscience of Consciousness (2025). Deep computational neurophenomenology. *Oxford Academic*.
+1. Sandved Smith, L. et al. (2025). Deep computational neurophenomenology. *Neuroscience of Consciousness*, 2025(1), niae053.
 1. Nisbett, R.E., & Wilson, T.D. (1977). Telling more than we can know. *Psychological Review*, 84(3), 231-259.
 1. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
 1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
