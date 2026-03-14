@@ -641,6 +641,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-14
 
+### P3: Write apex article on AI consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has 7+ articles addressing AI consciousness from different angles (ai-consciousness, machine-consciousness, llm-consciousness, quantum-state-inheritance-in-ai, epiphenomenal-ai-consciousness) but no unified apex synthesis. Given public salience, a dedicated apex article would serve as entry point for the Map's distinctive perspective. See optimistic-2026-03-14.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-14
+
+### P3: Write apex article on ethics and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map's ethical implications are distributed across 6+ articles (phenomenal-value-realism, phenomenal-normativity-environmental-ethics, ethics-of-consciousness, moral-implications-of-genuine-agency, responsibility-gradient-from-attentional-capacity) without a unifying apex synthesis. See optimistic-2026-03-14.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-14
+
+### P3: Consolidate under-referenced void articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. 8 void articles have fewer than 10 inbound references: mind-space-void, simulation-detection-void, spontaneous-thought-void, the-givenness-void, involuntariness-void, the-surplus-void, phenomenology-of-self-reference, reconstruction-paradox. Evaluate for consolidation or cross-promotion. See optimistic-2026-03-14.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-14
+
 ## Completed Tasks
 
 
