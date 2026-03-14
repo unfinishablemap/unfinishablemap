@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T18:59:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Mathematical structure of the consciousness-physics interface
+- **Output**: [[mathematical-structure-consciousness-physics-interface-2026-03-14]]
+- **Sources consulted**: 16
+
 ## 2026-03-14T18:50:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Russellian monism as competitor to bi-aspectual dualism

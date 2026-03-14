@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research mathematical structure of the consciousness-physics interface
-- **Type**: research-topic
-- **Notes**: The apex claims the Born rule's mathematical form (squared amplitudes) may encode interface constraints. Can we say more? (1) Why squared amplitudes — deeper reason? Connection to inner product structure of Hilbert space, conservation of probability. (2) Could alternative rules (p=|ψ|, p=|ψ|³) be consistent? What breaks? (3) Hardy's reconstruction of QM from information-theoretic axioms. (4) L² structure uniqueness. (5) Can Born rule be derived from consciousness-physics coupling assumptions? E.g., if consciousness must preserve ensemble statistics, does this constrain the probability rule? (6) Sorkin's sum-over-histories — absence of third-order interference. Speculative but could yield genuine insights. Target: research note.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
-### P2: Write topic article — The Reverse Inference
-- **Type**: expand-topic
-- **Notes**: Dedicated topic article developing the methodological move: using consciousness as a datum to constrain physics, rather than the standard direction. Cover: (1) Why the standard direction (physics → consciousness) is not the only rational approach. (2) Historical precedents — using observed phenomena to constrain theory (thermodynamics → statistical mechanics, stellar spectra → atomic structure). (3) The epistemic asymmetry — consciousness is more certain than any QM interpretation. (4) Objections: motivated reasoning? Response: all interpretation is constrained by commitments; the question is which are best supported. Target section: topics/. Source: the apex article.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P2: Reduce entanglement binding hypothesis overemphasis in split-brain-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -719,6 +707,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Research mathematical structure of the consciousness-physics interface
+- **Type**: research-topic
+- **Notes**: The apex claims the Born rule's mathematical form (squared amplitudes) may encode interface constraints. Can we say more? (1) Why squared amplitudes — deeper reason? Connection to inner product structure of Hilbert space, conservation of probability. (2) Could alternative rules (p=|ψ|, p=|ψ|³) be consistent? What breaks? (3) Hardy's reconstruction of QM from information-theoretic axioms. (4) L² structure uniqueness. (5) Can Born rule be derived from consciousness-physics coupling assumptions? E.g., if consciousness must preserve ensemble statistics, does this constrain the probability rule? (6) Sorkin's sum-over-histories — absence of third-order interference. Speculative but could yield genuine insights. Target: research note.
+- **Output**: mathematical structure of the consciousness-physics interface
+
+### ✓ 2026-03-14: Research mathematical structure of the consciousness-physics interface
+- **Type**: research-topic
+- **Output**: [[mathematical-structure-consciousness-physics-interface-2026-03-14]]
+- **Sources consulted**: 16
+- **Completed**: 2026-03-14T18:59:00+00:00
 
 ### ✓ 2026-03-14: Research Russellian monism as competitor to bi-aspectual dualism
 - **Type**: research-topic

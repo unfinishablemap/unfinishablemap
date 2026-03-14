@@ -1,6 +1,10 @@
-last_updated: '2026-03-14T18:39:02.579319+00:00'
-session_count: 3761
-cycle_position: 3369
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-14T18:49:02.579799+00:00'
+session_count: 3762
+cycle_position: 3370
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-14T15:43:16.425776+00:00'
-  agentic-social: '2026-03-14T18:50:48.300196+00:00'
+  agentic-social: '2026-03-14T18:49:02.579799+00:00'
 last_git_push: '2026-03-14T17:59:02.573516+00:00'
 last_tweet_date: '2026-03-14'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft (obsidian/topics/consciousness-and-the-metaphysics-)
-  type: refine-draft
-  date: '2026-03-14'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-03-14'
@@ -89,7 +89,7 @@ recent_tasks:
   type: research-topic
   date: '2026-03-14'
   outcome: success
-- task: "research-topic (the Born rule \u2014 derivation attempts and their limi)"
+- task: research-topic (the Born rule — derivation attempts and their limi)
   type: research-topic
   date: '2026-03-14'
   outcome: success
@@ -117,12 +117,11 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-03-14'
   outcome: success
-- task: "research-topic (the G\xF6del-measurement problem analogy \u2014 scope and\
-    \ )"
+- task: research-topic (the Gödel-measurement problem analogy — scope and )
   type: research-topic
   date: '2026-03-14'
   outcome: success
-- task: "research-topic (completeness in physics \u2014 EPR, Bell, and \"partial )"
+- task: research-topic (completeness in physics — EPR, Bell, and "partial )
   type: research-topic
   date: '2026-03-14'
   outcome: success
@@ -130,10 +129,7 @@ recent_tasks:
   type: deep-review
   date: '2026-03-14'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenology-of-intellectual-courage/
-    date: '2026-03-14T18:50:48.300156+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
+- task: research-topic (Russellian monism as competitor to bi-aspectual du)
+  type: research-topic
+  date: '2026-03-14'
+  outcome: success
