@@ -61,12 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-13
 
-### P3: Deep review contemplative-path.md
-- **Type**: deep-review
-- **Notes**: AI-generated apex article (ai_contribution: 100) last reviewed 2026-02-03 — 39 days ago. Major synthesis article on contemplative practice as philosophical evidence. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-14
-
 ### P3: Deep review time-symmetric-physics.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-04 — 38 days ago. Concept page on time-symmetric physics relevant to the Map's treatment of retrocausality and temporal consciousness. Verify coherence, cross-references, and tenet alignment.
@@ -700,6 +694,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Deep review contemplative-path.md
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) last reviewed 2026-02-03 — 39 days ago. Major synthesis article on contemplative practice as philosophical evidence. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/apex/contemplative-path.md
 
 ### ✓ 2026-03-14: Integrate non-retrocausal-conscious-selection.md into site navigation
 - **Type**: integrate-orphan
