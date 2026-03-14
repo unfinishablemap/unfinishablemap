@@ -43,12 +43,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-13
 
-### P3: Deep review language-thought-boundary.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 40 days ago. Voids article on where thought exceeds language — visual cognition, qualia, and the limits of articulation. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-13
-
 ### P3: Deep review ai-as-void-explorer.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 40 days ago. Voids article on whether artificial minds can probe cognitive territories closed to humans. Verify coherence, cross-references, and tenet alignment.
@@ -643,6 +637,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Deep review language-thought-boundary.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 40 days ago. Voids article on where thought exceeds language — visual cognition, qualia, and the limits of articulation. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/language-thought-boundary.md
 
 ### ✓ 2026-03-14: Deep review perceptual-failure-and-the-interface.md
 - **Type**: deep-review
