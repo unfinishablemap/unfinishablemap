@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T22:26:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/embodiment-cognitive-limits]]
+- **Changes**: Distinguished embodied cognition (physicalist) from embodied consciousness (dualist territory); added citations for motor dissociations, interoception, conceptual metaphor; hedged AI claims; rewrote dualism tenet section
+- **Published**: yes
+
 ## 2026-03-14T22:21:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: voids/embodiment-cognitive-limits.md, concepts/galilean-exclusion.md, voids/scale-void.md
