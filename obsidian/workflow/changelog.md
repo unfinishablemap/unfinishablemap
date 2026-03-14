@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T13:50:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[voids/altered-states-as-void-probes]]
+- **Changes**: Qualified BOLD-fMRI claims (DMN-specific, BOLD as indirect proxy, mixed results elsewhere); acknowledged REBUS's physicalist origins with explicit dualist reinterpretation paragraph; updated Dualism tenet section with BOLD limitations
+- **Published**: yes
+
 ## 2026-03-14T13:41:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 426 articles (topics + concepts), 105 voids, 16 apex, 1 tenet page — 14 articles sampled in depth
