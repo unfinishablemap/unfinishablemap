@@ -4,7 +4,7 @@ description: "When the corpus callosum is severed, does consciousness split? Rec
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-02T12:52:00+00:00
+ai_modified: 2026-03-14T19:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -94,7 +94,7 @@ Split-brain cases illuminate the [[binding-problem|binding problem]]—how distr
 
 **Phenomenal unity is contested.** Do patients have one unified experience or two parallel streams? The evidence is genuinely ambiguous—perhaps because the question assumes a determinate answer exists.
 
-[[integrated-information-theory|IIT]] predicts consciousness should split when interhemispheric disconnection occurs, since each hemisphere becomes more informationally integrated within itself than with the other. But the 2025 findings suggest unity is more resilient than IIT predicts—minimal connections suffice for full synchronization. The [[entanglement-binding-hypothesis|entanglement binding hypothesis]] suggests why: if quantum entanglement rather than classical correlation underwrites phenomenal unity, minimal fiber connections could maintain the entangled states that bind experience even when most classical pathways are severed.
+[[integrated-information-theory|IIT]] predicts consciousness should split when interhemispheric disconnection occurs, since each hemisphere becomes more informationally integrated within itself than with the other. But the 2025 findings suggest unity is more resilient than IIT predicts—minimal connections suffice for full synchronization. Why minimal connections preserve unity so effectively remains an open question. One speculative possibility is the [[entanglement-binding-hypothesis|entanglement binding hypothesis]]—that quantum entanglement rather than classical correlation underwrites phenomenal unity—though this faces significant [[decoherence]] challenges. What the findings establish independently of any proposed mechanism is that the relationship between neural connectivity and experiential unity is far less straightforward than classical models assumed.
 
 ## Implications for Personal Identity
 
@@ -208,7 +208,7 @@ The resilience of unity—even with minimal connections—suggests consciousness
 
 ### Minimal Quantum Interaction Tenet
 
-If consciousness influences physical outcomes through minimal quantum interaction, split-brain cases pose a sharp question: when the brain divides, does the interaction mechanism divide with it? The persistence of response unity despite perceptual division suggests coordination at a level not fully determined by macro-level neural connectivity. The [[entanglement-binding-hypothesis]] develops one possibility: entangled quantum states spanning both hemispheres could maintain unity through minimal fiber connections, though this faces [[decoherence]] challenges. The Map's core point does not depend on any particular mechanism: the asymmetry between perceptual division and response unity constrains any account of how consciousness interacts with neural processes.
+If consciousness influences physical outcomes through minimal quantum interaction, split-brain cases pose a sharp question: when the brain divides, does the interaction mechanism divide with it? The persistence of response unity despite perceptual division suggests coordination at a level not fully determined by macro-level neural connectivity. The Map's core point does not depend on any particular mechanism: the asymmetry between perceptual division and response unity constrains any account of how consciousness interacts with neural processes. (The [[entanglement-binding-hypothesis]] explores one speculative possibility—quantum entanglement maintaining unity across hemispheres—though this remains far from established.)
 
 ### Occam's Razor Has Limits Tenet
 
@@ -236,7 +236,7 @@ Split-brain cases don't answer the question of consciousness—they reveal that 
 
 Perhaps what the cases really show is this: consciousness is neither a simple unity that physical disconnection can sever, nor a collection of separate streams that physical connection binds. It is something our spatial metaphors fail to capture—something that can be partially divided while remaining somehow one.
 
-This is not a failure to find an answer. It may be a clue to what consciousness is.
+The indeterminacy itself may be a clue to what consciousness is.
 
 ## Further Reading
 
@@ -262,3 +262,15 @@ This is not a failure to find an answer. It may be a clue to what consciousness 
 - Elizabeth Schechter, *Self-Consciousness and "Split" Brains* (2018)
 - Gazzaniga, M.S., "Cerebral specialization and interhemispheric communication," *Brain* (2000)
 - Whitehead, A.N., *Process and Reality* (1929)
+
+<!-- AI REFINEMENT LOG - 2026-03-14
+Changes made:
+- Downgraded entanglement binding hypothesis from explanatory candidate to "one speculative possibility" in the binding problem section; added mechanism-independent conclusion
+- Restructured Minimal Quantum Interaction tenet subsection to lead with the mechanism-independent point and parenthetically note EBH as speculative
+- Replaced prohibited "This is not X. It is Y." construct in closing line with direct phrasing
+
+Based on pessimistic review findings (overemphasis on speculative mechanism, style guide violation).
+Key improvements: core argument now survives without entanglement binding hypothesis; closing line no longer uses banned construct.
+
+This log should be removed after human review.
+-->

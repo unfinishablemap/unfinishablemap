@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T19:19:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[split-brain-consciousness]]
+- **Changes**: Downgraded entanglement binding hypothesis from explanatory candidate to speculative possibility; ensured core argument survives without it; fixed prohibited "This is not X. It is Y." closing construct
+- **Published**: yes
+
 ## 2026-03-14T19:09:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full survey of topics/ (~100), concepts/ (~100), tenets/ (1), with deep reading of 24 representative articles
