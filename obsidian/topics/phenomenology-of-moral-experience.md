@@ -4,7 +4,7 @@ description: "How moral properties appear in conscious experience—what wrongne
 created: 2026-02-08
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-02-27T17:46:00+00:00
+ai_modified: 2026-03-14T19:40:00+00:00
 draft: false
 topics:
   - "[[ethics-of-consciousness]]"
@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-08
 last_curated:
-last_deep_review: 2026-02-09T02:14:00+00:00
+last_deep_review: 2026-03-14T19:40:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-moral-experience/"
   - "/topics/phenomenology-of-moral-perception/"
@@ -69,7 +69,7 @@ Moral perception has a characteristic temporal profile that distinguishes it fro
 
 **Affective consolidation.** The emotional dimensions of moral perception—outrage, compassion, indignation—typically consolidate *after* the initial moral apprehension rather than constituting it. Prinz has argued that emotions constitute moral perception, and this has merit for the full perceptual episode. But the temporal phenomenology suggests that the pre-reflective moral strike comes first, with emotional response stabilising and elaborating the initial apprehension. You perceive wrongness and then feel outraged, not the reverse—though the boundary is often too fast to introspect cleanly.
 
-This temporal structure matters for the debate between perceptual and inferential models of moral cognition. If moral properties register pre-reflectively and then deepen through attention, the process resembles perception's temporal profile (immediate registration followed by attentional elaboration) rather than inference's profile (premise assembly followed by conclusion).
+This temporal profile—immediate registration followed by attentional elaboration—matches perception rather than inference, which assembles premises before reaching a conclusion.
 
 ## Moral Intentionality
 
@@ -79,7 +79,7 @@ Standard sensory intentionality targets features like colour, shape, and sound. 
 
 Consider the difference between perceiving a person sleeping on a park bench and perceiving a homeless person sleeping on a park bench. In the second case, a moral dimension enters the perception—vulnerability, social failure, perhaps obligation—that does not merely add information but reorganises the entire perceptual field. The bench is no longer just furniture; it is an inadequate shelter. The person's posture is no longer relaxed; it is exposed. Moral intentionality transforms the scene's meaning.
 
-This transformation is what McDowell describes as "seeing situations in the light of values." The morally perceptive person does not see the same neutral facts as the morally blind person and then add a moral interpretation. They see a differently structured situation. The moral properties are part of the intentional content of the perception, not an overlay applied afterward.
+This transformation reflects what McDowell, in "Virtue and Reason," characterises as a perceptual capacity: the morally perceptive person does not see the same neutral facts as the morally blind person and then add a moral interpretation. They see a differently structured situation. The moral properties are part of the intentional content of the perception, not an overlay applied afterward.
 
 ## The Phenomenology of Obligation, Admiration, and Guilt
 
@@ -157,7 +157,7 @@ Three responses apply from the general case, with specific moral relevance:
 
 Buddhist *satipaṭṭhāna* (foundations of mindfulness) trains precisely the sustained, receptive, ego-diminished attention that moral perception requires. Christian contemplative traditions describe a similar structure. Weil's concept of *attention* as the essence of moral perception locates morality in a quality of consciousness rather than in rule-following or consequence-calculation.
 
-These reports do not prove phenomenal value realism. But they provide independent evidence that moral experience has depth accessible through training, in the same way that perceptual skills have depth accessible through practice. If moral properties were mere projections, extended contemplative attention should reveal the projection mechanism. Contemplatives report the opposite: deeper attention reveals more moral reality, not less.
+These reports do not prove phenomenal value realism. But they provide independent evidence that moral experience has depth accessible through training, in the same way that perceptual skills have depth accessible through practice. A projectivist might respond that contemplative training deepens the projection itself rather than revealing independent reality. But practitioners report features characteristic of perception rather than construction: encountering resistance, surprise, and correction from the object of attention. Sustained moral attention does not reveal a projection mechanism; it reveals more moral structure.
 
 ## What Would Challenge This View?
 
