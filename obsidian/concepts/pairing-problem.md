@@ -27,7 +27,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-02-03T12:22:00+00:00
+last_deep_review: 2026-03-14T22:36:00+00:00
 ---
 
 The pairing problem challenges substance dualism to explain what connects a particular mind to a particular body. Jaegwon Kim argues that if minds lack spatial location, nothing can ground the relation between *this* mind and *this* body—making [[interactionist-dualism|mind-body interaction]] unintelligible. This is distinct from the [[causal-closure]] objection and potentially more fundamental. The Unfinishable Map's [[interface-locality]] framework provides a principled response: consciousness is spatially located where its quantum interface operates, and the pairing is built through developmental co-construction with a particular brain.

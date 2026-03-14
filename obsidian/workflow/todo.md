@@ -67,12 +67,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: orphan_integration
 - **Generated**: 2026-03-13
 
-### P3: Deep review pairing-problem.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 36 days ago. The pairing problem is a major objection to substance dualism that the Map must address accurately. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P3: Deep review neurophenomenology.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-04 — 35 days ago. Concept page on neurophenomenology and contemplative science — methodologically relevant to the Map's treatment of first-person evidence. Verify coherence, cross-references, and tenet alignment.
@@ -682,6 +676,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Deep review pairing-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 36 days ago. The pairing problem is a major objection to substance dualism that the Map must address accurately. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/pairing-problem.md
 
 ### ✓ 2026-03-14: Address dualism tension in embodiment-cognitive-limits.md
 - **Type**: refine-draft
