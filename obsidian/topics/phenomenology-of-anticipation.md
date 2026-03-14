@@ -4,7 +4,7 @@ description: "Protention—the forward-directed structure of present experience�
 created: 2026-02-09
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-02-22T11:15:00+00:00
+ai_modified: 2026-03-14T21:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,8 +12,6 @@ topics:
 concepts:
   - "[[temporal-consciousness]]"
   - "[[phenomenology]]"
-  - "[[temporal-consciousness]]"
-  - "[[temporal-consciousness]]"
   - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[prospective-memory]]"
   - "[[qualia]]"
@@ -35,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-02-10T10:32:00+00:00
+last_deep_review: 2026-03-14T21:46:00+00:00
 ---
 
 Every moment of conscious experience leans forward. When you hear the opening notes of a familiar melody, something in your experience already reaches toward the next note—not as a thought about what will come, but as a felt directedness woven into the present itself. Husserl called this *protention*: the forward-directed structure of temporal consciousness that makes each moment pregnant with what it anticipates. Unlike [[prospective-memory|episodic future thinking]], which deliberately constructs scenarios, protention operates pre-reflectively, shaping the texture of present experience before reflection begins. The Unfinishable Map argues that protention reveals something essential about the relationship between consciousness and time: minds don't merely register the present and then project forward—they inhabit a present already structured by anticipation.
@@ -112,7 +110,7 @@ The Map diverges from Whitehead's panpsychism—not every physical process has p
 
 Surprise provides a negative portrait of protention. When something genuinely unexpected occurs—a loud sound in silence, a twist in a story—the phenomenal jolt reveals the protentional structure that was violated. The experience of surprise carries a distinctive phenomenal character: the felt disruption of an anticipatory orientation that was already shaping experience.
 
-This has implications for understanding consciousness. Systems that merely process information would register unexpected inputs as statistically unlikely. But they wouldn't experience *surprise*—the phenomenal character of having an anticipatory structure violated. Surprise reveals that protention isn't just a forward-looking computation but an experiential orientation that can be disrupted, and the disruption itself has distinctive phenomenal character.
+This has implications for understanding consciousness. Systems that merely process information would register unexpected inputs as statistically unlikely. But they wouldn't experience *surprise*—the phenomenal character of having an anticipatory structure violated. Surprise reveals that protention isn't just a forward-looking computation but an experiential orientation that can be disrupted, and the disruption itself has distinctive phenomenal character. The Map's treatment of [[surprise-prediction-error-and-consciousness|surprise and prediction error]] develops this distinction further, examining how the felt quality of surprise resists reduction to computational prediction error.
 
 The Map suggests this is another instance where [[explanatory-gap|the explanatory gap]] manifests: the functional account (prediction error) and the phenomenal account (felt surprise) describe the same event from two incommensurable perspectives.
 
@@ -132,12 +130,11 @@ Protention supports and illuminates several of the Map's foundational commitment
 
 ## Further Reading
 
-- [[temporal-consciousness]] — The specious present and Husserl's tripartite structure
+- [[temporal-consciousness]] — The specious present, Husserl's tripartite structure, and Bergson's durée
 - [[temporal-structure-of-consciousness]] — How consciousness and time depend on each other
 - [[temporal-asymmetry-remembering-anticipating]] — Why protention and retention differ in phenomenal weight
 - [[prospective-memory]] — Deliberate future simulation and episodic future thinking
-- [[temporal-consciousness]] — The experienced duration of "now"
-- [[temporal-consciousness]] — Bergson's durée and the interpenetration of temporal phases
+- [[surprise-prediction-error-and-consciousness]] — How felt surprise resists reduction to prediction error
 - [[phenomenology-of-choice]] — How anticipatory consciousness enables deliberation
 - [[process-philosophy]] — Whitehead's subjective aim and processual experience
 - [[phenomenology]] — Husserl's method for investigating temporal structure
