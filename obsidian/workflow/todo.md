@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research completeness in physics — EPR, Bell, and "partial but complete"
-- **Type**: research-topic
-- **Notes**: The apex distinguishes Einstein's "incomplete" (missing hidden variables) from the Map's "partial" (complete about structure, silent about actuality). Ground this technically: (1) EPR's completeness criterion. (2) Bell's theorem on local hidden variables. (3) Kochen-Specker on contextuality. (4) PBR theorem — wavefunction is ontic. How does this support "partial but complete"? (5) Fine's prism models. (6) Precise coherence of "complete but partial" — a theory complete for its domain acknowledging its domain is not all of reality. Precedent: Newtonian mechanics was complete-but-partial. Target: research note.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P2: Research Russellian monism as competitor to bi-aspectual dualism
 - **Type**: research-topic
 - **Notes**: Russellian monism (Chalmers 2015, Alter & Nagasawa 2015) is the closest competitor — both say physics describes structure while consciousness is "missing." Key differences to clarify: (1) Russellian monism is neutral monism (one substance, two aspects); the Map commits to genuine dualism. (2) Russellian monism typically implies panpsychism; the Map rejects it. (3) The combination problem hits Russellian monism hard; the Map's quantum-interface model may avoid it. (4) Does Russellian monism handle the measurement problem? Research Chalmers' "The Combination Problem for Panpsychism," Goff's "Consciousness and Fundamental Reality," Stoljar's "Ignorance and Imagination." Critical positioning work. Target: research note.
@@ -731,6 +725,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Research completeness in physics — EPR, Bell, and "partial but complete"
+- **Type**: research-topic
+- **Notes**: The apex distinguishes Einstein's "incomplete" (missing hidden variables) from the Map's "partial" (complete about structure, silent about actuality). Ground this technically: (1) EPR's completeness criterion. (2) Bell's theorem on local hidden variables. (3) Kochen-Specker on contextuality. (4) PBR theorem — wavefunction is ontic. How does this support "partial but complete"? (5) Fine's prism models. (6) Precise coherence of "complete but partial" — a theory complete for its domain acknowledging its domain is not all of reality. Precedent: Newtonian mechanics was complete-but-partial. Target: research note.
+- **Output**: completeness in physics — EPR, Bell, and "partial but complete"
 
 ### ✓ 2026-03-14: Research the Gödel-measurement problem analogy — scope and limits
 - **Type**: research-topic

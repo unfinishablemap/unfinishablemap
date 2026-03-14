@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T18:29:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Completeness in physics — EPR, Bell, and "partial but complete"
+- **Output**: [[completeness-in-physics-epr-bell-2026-03-14]]
+- **Sources consulted**: 15
+
 ## 2026-03-14T18:19:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The Gödel-measurement problem analogy — scope and limits
