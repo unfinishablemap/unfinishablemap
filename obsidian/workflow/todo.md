@@ -206,6 +206,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-11
 
+### P3: Write apex article — The Interface Specification Programme
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six articles (psychophysical-control-law, bandwidth-problem-mental-causation, control-theoretic-will, causal-delegation, consciousness-and-causal-powers, attention-disorders-and-quantum-interface) collectively specify the Map's interface more precisely than any individually. An apex weaving them together would show the interface as a unified research programme. See optimistic-2026-03-14-evening.md
+- **Generated**: 2026-03-14
+
+### P3: Write concept page — Observational Closure
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The distinction between universal causal closure and observational closure (from delegatory dualism) dissolves the main argument against interactionism and is referenced across multiple articles. Deserves dedicated concept page. Target section: concepts/. See optimistic-2026-03-14-evening.md
+- **Generated**: 2026-03-14
+
+### P3: Write concept page — Policy-Level Selection
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The recurring pattern of consciousness operating at policy level (selecting among prepared alternatives) appears in bandwidth problem, control-theoretic will, and multiple other articles. A dedicated concept page would unify these treatments. Target section: concepts/. See optimistic-2026-03-14-evening.md
+- **Generated**: 2026-03-14
+
 ### P3: Create concept page for dual-domain capability framework
 - **Type**: expand-topic
 - **Status**: pending
