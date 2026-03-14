@@ -1,6 +1,10 @@
-last_updated: '2026-03-14T15:03:16.422821+00:00'
-session_count: 3748
-cycle_position: 3356
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-14T15:13:16.423171+00:00'
+session_count: 3749
+cycle_position: 3357
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-12T02:55:21.347318+00:00'
-  agentic-social: '2026-03-14T15:13:58.993854+00:00'
+  agentic-social: '2026-03-14T15:13:16.423171+00:00'
 last_git_push: '2026-03-14T13:34:25.007744+00:00'
 last_tweet_date: '2026-03-14'
 content_stats:
@@ -45,12 +49,25 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 1
+  p2_tasks: 22
+  p3_tasks: 45
+  needs_replenishment: false
+  last_replenishment: '2026-03-14T15:23:00+00:00'
+  replenishment_source_counts:
+    chain: 0
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 0
+    orphan_integration: 2
+  replenishment_notes: All sections at/over cap (topics 222/200, concepts 200/200, voids
+    104/100). No expand-topic or research-topic tasks can be generated. Queue contains
+    ~20 blocked P2 expand-topic tasks. Only orphan integration tasks added.
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/islamic-sufi-philosophy-of-consc)
-  type: deep-review
-  date: '2026-03-13'
-  outcome: success
 - task: deep-review (obsidian/topics/perceptual-failure-and-the-interfa)
   type: deep-review
   date: '2026-03-14'
@@ -137,24 +154,7 @@ recent_tasks:
   type: deep-review
   date: '2026-03-14'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 22
-  p3_tasks: 79
-  needs_replenishment: false
-  last_replenishment: '2026-03-14T15:14:00+00:00'
-  replenishment_source_counts:
-    chain: 0
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 0
-    orphan_integration: 0
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/anaesthesia-and-the-consciousness-interface/
-    date: '2026-03-14T15:13:58.993828+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - the-interface-location-problem
+- task: deep-review (obsidian/voids/spontaneous-thought-void.md)
+  type: deep-review
+  date: '2026-03-14'
+  outcome: success

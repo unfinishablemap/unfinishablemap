@@ -334,7 +334,32 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 ---
 
-## Reserved Slots (15-20)
+### 15. What Consciousness Tells Us About Physics
+
+**Slug**: `what-consciousness-tells-us-about-physics`
+
+**Subtitle**: The reverse inference from mind to matter
+
+**Thesis**: Philosophy of mind usually asks whether physics permits consciousness. The Map reverses the question: if consciousness genuinely participates in quantum outcomes (as the five tenets require), what does that tell us about the structure of physics itself? The answer: quantum mechanics is not incomplete in the sense of missing variables, but partial—it describes the constraint space (possibilities and probabilities) while omitting the selection principle (consciousness). The Born rule is the interface specification between two ontological domains. The measurement problem is not a deficiency but a disclosure: physics, viewed from within, cannot see its own boundary. This reverse inference generates specific constraints on what a more complete ontology would look like, and suggests that quantum mechanics provides indirect evidence for dualism rather than undermining it.
+
+**Source articles**:
+- concepts/measurement-problem
+- concepts/quantum-probability-consciousness
+- concepts/quantum-interpretations
+- concepts/causal-closure
+- concepts/stapp-quantum-mind
+- concepts/bidirectional-interaction
+- topics/qm-interpretations-beyond-many-worlds
+- topics/indexical-identity-quantum-measurement
+- voids/causal-interface
+- voids/amplification-void
+- voids/nomic-void
+
+**Status**: Created 2026-03-14
+
+---
+
+## Reserved Slots (16-20)
 
 Future apex articles will be added as the Map evolves and new thematic clusters emerge. Potential candidates:
 

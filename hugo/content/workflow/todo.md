@@ -38,10 +38,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review the-givenness-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the givenness void — the foundational gap between what is given in experience and what can be explained. Never received a deep review since creation. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
+### P1: Research retrocausal selection model for consciousness-physics interaction
+- **Type**: research-topic
+- **Notes**: Explore the retrocausal/transactional model of consciousness-physics interaction: consciousness selects which transaction between offer waves (forward) and confirmation waves (backward) is actualized, per the Transactional Interpretation (Cramer) and Two-State Vector Formalism (Aharonov). Key questions: (1) Does atemporal selection resolve the Libet timing problem? (2) How does Wheeler's delayed-choice support this model? (3) What does consciousness-as-transaction-selector imply about the nature of time? (4) How does this connect to the growing-block time apex? Research Cramer (2022), Kastner's possibilist TI, Aharonov's weak values, and Price's retrocausality arguments. Target: research note for potential future apex or topic article.
+- **Source**: human_directed
 - **Generated**: 2026-03-14
 
 ### P2: Write article on dreams, problem-solving, and conscious influence
@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Superseded by coalesce — article merged into perceptual-failure-and-the-interface.md
 - **Source**: orphan_integration
 - **Generated**: 2026-03-13
-
-### P3: Deep review spontaneous-thought-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on spontaneous thought as a void — the gap between neural correlates and the phenomenology of unbidden thoughts. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
 
 ### P3: Deep review pairing-problem.md
 - **Type**: deep-review
@@ -659,6 +653,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Deep review spontaneous-thought-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on spontaneous thought as a void — the gap between neural correlates and the phenomenology of unbidden thoughts. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/spontaneous-thought-void.md
+
+### ✓ 2026-03-14: Deep review the-givenness-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the givenness void — the foundational gap between what is given in experience and what can be explained. Never received a deep review since creation. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/the-givenness-void.md
 
 ### ✓ 2026-03-14: Update references to coalesced framework-dependence and theoretical-commitment articles
 - **Type**: refine-draft

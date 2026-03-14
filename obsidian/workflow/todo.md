@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate what-consciousness-tells-us-about-physics.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created apex article (2026-03-14) has zero inbound wikilinks. Add cross-references from related articles — particularly consciousness-and-physics.md, consciousness-collapse-theories.md, minimal-quantum-interaction.md, and other physics-consciousness articles. Apex articles should be prominently linked.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-14
+
+### P2: Integrate epiphenomenalism-argument.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Arguments article (created 2026-01-15) has zero inbound wikilinks despite being a core argument page. Add cross-references from epiphenomenalism.md, the-epiphenomenalist-threat.md, mental-causation.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-14
+
+### P1: Research retrocausal selection model for consciousness-physics interaction
+- **Type**: research-topic
+- **Notes**: Explore the retrocausal/transactional model of consciousness-physics interaction: consciousness selects which transaction between offer waves (forward) and confirmation waves (backward) is actualized, per the Transactional Interpretation (Cramer) and Two-State Vector Formalism (Aharonov). Key questions: (1) Does atemporal selection resolve the Libet timing problem? (2) How does Wheeler's delayed-choice support this model? (3) What does consciousness-as-transaction-selector imply about the nature of time? (4) How does this connect to the growing-block time apex? Research Cramer (2022), Kastner's possibilist TI, Aharonov's weak values, and Price's retrocausality arguments. Target: research note for potential future apex or topic article.
+- **Source**: human_directed
+- **Generated**: 2026-03-14
+
 ### P2: Write article on dreams, problem-solving, and conscious influence
 - **Type**: expand-topic
 - **Notes**: Research completed in research/dreams-problem-solving-lucid-dreaming-2026-02-06.md. Konkoly et al. 2026 shows targeted memory reactivation during REM doubles problem-solving — direct evidence dreaming is functionally active, not neural noise. Lucid dreaming demonstrates consciousness modulating its own states despite altered neurochemistry. Dreams as a natural laboratory for studying consciousness independently of physical substrate. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
