@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Russellian monism as competitor to bi-aspectual dualism
-- **Type**: research-topic
-- **Notes**: Russellian monism (Chalmers 2015, Alter & Nagasawa 2015) is the closest competitor — both say physics describes structure while consciousness is "missing." Key differences to clarify: (1) Russellian monism is neutral monism (one substance, two aspects); the Map commits to genuine dualism. (2) Russellian monism typically implies panpsychism; the Map rejects it. (3) The combination problem hits Russellian monism hard; the Map's quantum-interface model may avoid it. (4) Does Russellian monism handle the measurement problem? Research Chalmers' "The Combination Problem for Panpsychism," Goff's "Consciousness and Fundamental Reality," Stoljar's "Ignorance and Imagination." Critical positioning work. Target: research note.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P2: Research mathematical structure of the consciousness-physics interface
 - **Type**: research-topic
 - **Notes**: The apex claims the Born rule's mathematical form (squared amplitudes) may encode interface constraints. Can we say more? (1) Why squared amplitudes — deeper reason? Connection to inner product structure of Hilbert space, conservation of probability. (2) Could alternative rules (p=|ψ|, p=|ψ|³) be consistent? What breaks? (3) Hardy's reconstruction of QM from information-theoretic axioms. (4) L² structure uniqueness. (5) Can Born rule be derived from consciousness-physics coupling assumptions? E.g., if consciousness must preserve ensemble statistics, does this constrain the probability rule? (6) Sorkin's sum-over-histories — absence of third-order interference. Speculative but could yield genuine insights. Target: research note.
@@ -725,6 +719,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Research Russellian monism as competitor to bi-aspectual dualism
+- **Type**: research-topic
+- **Notes**: Russellian monism (Chalmers 2015, Alter & Nagasawa 2015) is the closest competitor — both say physics describes structure while consciousness is "missing." Key differences to clarify: (1) Russellian monism is neutral monism (one substance, two aspects); the Map commits to genuine dualism. (2) Russellian monism typically implies panpsychism; the Map rejects it. (3) The combination problem hits Russellian monism hard; the Map's quantum-interface model may avoid it. (4) Does Russellian monism handle the measurement problem? Research Chalmers' "The Combination Problem for Panpsychism," Goff's "Consciousness and Fundamental Reality," Stoljar's "Ignorance and Imagination." Critical positioning work. Target: research note.
+- **Output**: Russellian monism as competitor to bi-aspectual dualism
+
+### ✓ 2026-03-14: Research Russellian monism as competitor to bi-aspectual dualism
+- **Type**: research-topic
+- **Notes**: Russellian monism (Chalmers 2015, Alter & Nagasawa 2015) is the closest competitor — both say physics describes structure while consciousness is "missing." Five pressure points where RM challenges the Map; five advantages where the Map has the stronger position. Key findings: Pautz argues RM offers no genuine advantage over dualism (same brute linking principles); Cutter argues RM is unstable (collapses to physicalism or dualism); Howell shows RM faces epiphenomenalism despite claiming to avoid it.
+- **Output**: russellian-monism-vs-bi-aspectual-dualism-2026-03-14
 
 ### ✓ 2026-03-14: Research completeness in physics — EPR, Bell, and "partial but complete"
 - **Type**: research-topic

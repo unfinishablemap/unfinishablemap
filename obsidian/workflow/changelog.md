@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T18:50:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Russellian monism as competitor to bi-aspectual dualism
+- **Output**: [[russellian-monism-vs-bi-aspectual-dualism-2026-03-14]]
+- **Sources consulted**: 11
+
 ## 2026-03-14T18:39:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/diachronic-agency-and-personal-narrative]]
