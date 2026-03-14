@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-03-07 22:39:00+00:00
+ai_modified: 2026-03-14 20:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,6 +28,7 @@ related_articles:
 - '[[evolved-cognitive-limits]]'
 - '[[alien-minds-void-explorers]]'
 - '[[framework-void]]'
+- '[[what-consciousness-tells-us-about-physics]]'
 title: The Nomic Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -103,6 +104,7 @@ Unlike the [computational void](/voids/computational-cognitive-limits/), which i
 - [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared limits
 - [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — Non-human perspectives on cognitive space
 - [framework-void](/voids/framework-void/) — The circularity of frameworks understanding themselves
+- [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: the laws of physics constrain what a deeper bi-aspectual theory would need to explain
 
 ## References
 

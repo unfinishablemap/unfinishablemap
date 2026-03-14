@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-11 23:13:00+00:00
+ai_modified: 2026-03-14 19:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -31,7 +31,7 @@ related_articles:
 - '[[animal-consciousness-2026-01-14]]'
 - '[[emergence-consciousness-philosophy-2026-01-15]]'
 - '[[consciousness-evolution-problem]]'
-- '[[evolution-of-consciousness-dualist-perspective]]'
+- '[[evolution-under-dualism]]'
 title: Evolution of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -218,7 +218,7 @@ Scientific humility requires specifying what would count against one's view.
 ## Further Reading
 
 - [consciousness-evolution-problem](/topics/consciousness-evolution-problem/) — Why evolution makes consciousness puzzling across all frameworks
-- [evolution-of-consciousness-dualist-perspective](/topics/evolution-of-consciousness-dualist-perspective/) — Three models of what "evolution of consciousness" means under dualism
+- [evolution-under-dualism](/topics/evolution-under-dualism/) — Three models of what "evolution of consciousness" means under dualism
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The argument that consciousness must be causally efficacious to be selected
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies cognitive capacity
 - [minimal-consciousness](/concepts/minimal-consciousness/) — How little neural complexity can support consciousness?

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-03-12 05:32:00+00:00
+ai_modified: 2026-03-14 20:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,12 +29,13 @@ description: Survey of quantum interpretations and their consciousness implicati
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-06 09:12:00+00:00
+last_deep_review: 2026-03-14 20:09:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[qm-interpretations-beyond-many-worlds]]'
 - '[[quantum-probability-consciousness]]'
+- '[[what-consciousness-tells-us-about-physics]]'
 title: Interpretations of Quantum Mechanics
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -142,7 +143,7 @@ See [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) fo
 
 Each interpretation must account for the Born rule—the squared amplitude giving measurement probabilities. The [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) article examines this in depth, [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) details why MWI's attempts to recover the Born rule through decision theory, self-locating uncertainty, and envariance all face serious objections, taxonomising these into distinct failure modes.
 
-The key insight: all standard views share a blind spot—they don't address what probability means *for this consciousness*. What does 50% mean for *you* about to measure spin? The first-person perspective is precisely what probability seems to be about, yet appears in none of these accounts.
+The key insight: all standard views share a blind spot—they don't address what probability means *for this consciousness*, the first-person perspective that seems central to what probability is about.
 
 The Map proposes that Born probabilities describe the objective structure of the consciousness-quantum interface—neither purely subjective beliefs (QBism) nor features independent of consciousness (standard views). Rather, probability reflects the conditions under which consciousness actualises one possibility among many.
 
@@ -183,7 +184,7 @@ The deepest conflict: MWI provides no role for consciousness in physics. The [Bi
 
 ## Implications for the Map's Framework
 
-The interpretive landscape remains genuinely open—see [Quantum Interpretations Beyond Many-Worlds](/topics/qm-interpretations-beyond-many-worlds/) for detailed evaluation of each interpretation's compatibility with the Map's tenets. This gives the Map's position—consciousness participates in determining quantum outcomes—legitimate standing. The question is not whether physics rules this out (it doesn't) but which interpretation best explains both quantum phenomena and the existence of consciousness.
+The interpretive landscape remains genuinely open—see [Quantum Interpretations Beyond Many-Worlds](/topics/qm-interpretations-beyond-many-worlds/) for detailed evaluation of each interpretation's compatibility with the Map's tenets. This gives the Map's position legitimate standing. The question is not whether physics rules out consciousness-participation (it doesn't) but which interpretation best explains both quantum phenomena and consciousness. The [reverse inference](/apex/what-consciousness-tells-us-about-physics/) develops this further: if consciousness genuinely selects among quantum possibilities, quantum mechanics is structurally partial—complete about possibilities, silent about actuality.
 
 Interpretations that eliminate consciousness (Bohmian mechanics, MWI) or treat it as purely epistemic (QBism) don't explain why consciousness exists. The Map's framework takes consciousness as explanatory target, not philosophical afterthought.
 
@@ -261,6 +262,9 @@ The choice of quantum interpretation bears directly on all five [tenets](/tenets
 - [witness-consciousness](/concepts/witness-consciousness/) — First-person observation capacity
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Contemplative perspectives on self and consciousness
 - [tenets](/tenets/) — Foundational commitments including No Many Worlds
+
+### Related Apex Articles
+- [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — The reverse inference: what consciousness, taken as datum, reveals about the structure of physics
 
 ## References
 

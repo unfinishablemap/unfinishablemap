@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-12 13:23:00+00:00
+ai_modified: 2026-03-14 20:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,6 +33,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[collapse-before-minds-early-universe-2026-01-16]]'
+- '[[what-consciousness-tells-us-about-physics]]'
 title: 'Prebiotic Collapse: What Selected Outcomes Before Minds?'
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -226,6 +227,7 @@ The Map's commitment is to the *framework* (real collapse + consciousness modula
 - [haecceity](/concepts/haecceity/) — Why indexical identity matters for rejecting Many Worlds
 - [combination-problem](/concepts/combination-problem/) — The challenge facing panpsychist responses
 - [many-worlds](/concepts/many-worlds/) — Detailed arguments against the many-worlds interpretation
+- [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: prebiotic collapse as constraint on deeper theory
 
 ## References
 

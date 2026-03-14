@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-11 22:37:00+00:00
+ai_modified: 2026-03-14 21:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -51,6 +51,7 @@ related_articles:
 - '[[objections-to-interactionist-dualism-2026-01-15]]'
 - '[[concepts/materialism]]'
 - '[[duhem-quine-underdetermination-consciousness]]'
+- '[[what-consciousness-tells-us-about-physics]]'
 title: Interactionist Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -87,7 +88,7 @@ René Descartes established the classic formulation: mind (res cogitans) and bod
 
 Yet recent work demonstrates this objection rests on misunderstandings. Conservation is *local* and *conditional*—it holds given certain assumptions. The objection begs the question: expecting conservation to hold in the brain assumes interactionism is false. Notably, non-Western traditions independently developed [the same structural types of solution](/topics/interaction-solutions-across-traditions/)—from contact mechanisms to non-contact selection—centuries before Leibniz posed the conservation challenge. See [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) for why the conservation objection fails and how the "selection not injection" framework provides a positive account of mental causation.
 
-Meanwhile, [epiphenomenalism](/concepts/epiphenomenalism/) faces its own devastating objection: if consciousness causes nothing, how can we know anything about consciousness? The [self-stultification argument](/concepts/mental-causation/) shows that denying mental causation is epistemically self-defeating—your belief that you're in pain must be caused by your pain.
+Meanwhile, [epiphenomenalism](/concepts/epiphenomenalism/) faces its own devastating objection: if consciousness causes nothing, how can we know anything about consciousness? The [cumulative case against epiphenomenalism](/arguments/epiphenomenalism-argument/) presents four independent arguments—self-stultification, evolutionary, knowledge-based, and introspective—showing that denying mental causation is epistemically self-defeating. Your belief that you're in pain must be caused by your pain.
 
 ## The Cumulative Case for Interactionism
 
@@ -225,6 +226,9 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 **Epistemology:**
 - [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) — What kind of knowledge about the interface is epistemically available
+
+**Apex synthesis:**
+- [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — The reverse inference: if the tenets are correct, quantum mechanics is structurally partial
 
 **Related topics:**
 - [mental-causation](/concepts/mental-causation/), [agent-causation](/concepts/agent-causation/), [emergence](/concepts/emergence/), [epiphenomenalism](/concepts/epiphenomenalism/), [evolution-of-consciousness](/concepts/evolution-of-consciousness/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/), [delegatory-dualism](/topics/delegatory-dualism/), [causal-interface](/voids/causal-interface/), [interaction-solutions-across-traditions](/topics/interaction-solutions-across-traditions/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-28
-ai_modified: 2026-03-10 18:24:00+00:00
+ai_modified: 2026-03-14 20:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,6 +28,7 @@ related_articles:
 - '[[nomic-void]]'
 - '[[observation-void]]'
 - '[[defended-territory]]'
+- '[[what-consciousness-tells-us-about-physics]]'
 title: The Amplification Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -111,6 +112,7 @@ The amplification void is both **Unexplorable** and potentially **Occluded** in 
 - [nomic-void](/voids/nomic-void/) — Cognitive limits imposed by the laws of physics
 - [observation-void](/voids/observation-void/) — How studying consciousness transforms what is studied
 - [defended-territory](/voids/defended-territory/) — Could some limits be actively maintained?
+- [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: a deeper theory would derive the amplification void's opacity as a consequence of minimality
 
 ## References
 

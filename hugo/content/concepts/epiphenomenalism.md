@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-03-11 19:45:00+00:00
+ai_modified: 2026-03-14 21:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -31,6 +31,7 @@ last_deep_review: 2026-03-01 09:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[epiphenomenalism-argument]]'
 - '[[epiphenomenalism-2026-01-08]]'
 - '[[contemplative-neuroscience]]'
 title: Epiphenomenalism
@@ -80,7 +81,7 @@ This reasoning is weak. We also don't understand how physical states produce con
 
 ## The Self-Stultification Problem
 
-The most powerful objection to epiphenomenalism is that it undermines itself. This argument appears in formal premise-conclusion form in the [argument for interactionist dualism](/concepts/interactionist-dualism/), and is developed in detail in the [mental-causation](/concepts/mental-causation/) article.
+The most powerful objection to epiphenomenalism is that it undermines itself. The [cumulative case against epiphenomenalism](/arguments/epiphenomenalism-argument/) presents this argument alongside evolutionary, knowledge-based, and introspective objections. It also appears in formal premise-conclusion form in the [argument for interactionist dualism](/concepts/interactionist-dualism/), and is developed in detail in the [mental-causation](/concepts/mental-causation/) article.
 
 Consider: you're reading an argument for epiphenomenalism. You find it convincing. You form the belief that consciousness is causally inert.
 

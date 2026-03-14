@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-11 21:35:00+00:00
+ai_modified: 2026-03-14 21:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,6 +28,7 @@ last_deep_review: 2026-02-28 03:46:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[epiphenomenalism-argument]]'
 - '[[knowledge-argument-marys-room-2026-01-14]]'
 - '[[aesthetic-irreducibility-arguments]]'
 - '[[epistemology-of-introspection]]'
@@ -110,7 +111,7 @@ Frank Jackson, the argument's creator, now rejects it. Beginning around 1995 and
 
 Jackson's current view combines representationalism (phenomenal properties are representational properties) with elements of the ability hypothesis.
 
-However, Jackson's rejection doesn't settle the debate. Arguments stand or fall on their logic, not their author's endorsement. Jackson himself has acknowledged the argument "should be addressed really seriously if you are a physicalist." Other philosophers—Chalmers, Nida-Rümelin, Alter—continue to defend it. If anything, Jackson's epiphenomenalism worry supports the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness must causally influence our beliefs about it, or we couldn't know about it at all.
+However, Jackson's rejection doesn't settle the debate. Arguments stand or fall on their logic, not their author's endorsement. Jackson himself has acknowledged the argument "should be addressed really seriously if you are a physicalist." Other philosophers—Chalmers, Nida-Rümelin, Alter—continue to defend it. If anything, Jackson's epiphenomenalism worry supports the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness must causally influence our beliefs about it, or we couldn't know about it at all. The [cumulative case against epiphenomenalism](/arguments/epiphenomenalism-argument/) develops this point as a reversal of the knowledge argument—Mary's changed behaviour after seeing red is best explained by her phenomenal knowledge causing those changes.
 
 ## Connection to Related Arguments
 

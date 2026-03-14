@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-02-25 10:07:00+00:00
+ai_modified: 2026-03-14 20:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[mysterianism]]'
 - '[[intrinsic-nature-void]]'
+- '[[what-consciousness-tells-us-about-physics]]'
 title: The Causal Interface Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -171,6 +172,7 @@ This void appears in the [tenet-generated voids](/voids/tenet-generated-voids/) 
 - [Free Will](/topics/free-will/) — The broader context for questions of agency
 - [Agent Causation](/concepts/agent-causation/) — The philosophical concept of the self as cause
 - [Epistemology of Mechanism at the Interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) — What inferential methods remain when direct observation fails
+- [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: why the interface between consciousness and physics resists description in terms of either domain
 
 ## References
 

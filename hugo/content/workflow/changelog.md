@@ -18,6 +18,195 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T22:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-evolution-problem](/topics/consciousness-evolution-problem/)
+- **Word count**: 2207 → 2320 (+113)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 7 inline cross-links, 3 Further Reading entries, 4 new references (2 external, 2 self-citations)
+- **Output**: [deep-review-2026-03-14-consciousness-evolution-problem](/reviews/deep-review-2026-03-14-consciousness-evolution-problem/)
+
+## 2026-03-14T21:56:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [time-symmetric-physics](/concepts/time-symmetric-physics/)
+- **Word count**: 1914 → 1966 (+52)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing Stapp citation, uncited 2017 experiment)
+- **Enhancements made**: 2 (added atemporal-causation cross-link, added 2 references)
+- **Output**: [deep-review-2026-03-14-time-symmetric-physics](/reviews/deep-review-2026-03-14-time-symmetric-physics/)
+
+## 2026-03-14T21:46:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
+- **Word count**: 2254 → 2273 (+19)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 (deduplicated concepts, consolidated Further Reading, added cross-link)
+- **Output**: [deep-review-2026-03-14-phenomenology-of-anticipation](/reviews/deep-review-2026-03-14-phenomenology-of-anticipation/)
+
+## 2026-03-14T21:39:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [contemplative-path](/apex/contemplative-path/)
+- **Word count**: 3669 → 3685 (+16)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (style guide "Recent" fix, Weng citation year, Dalai Lama quote reframe, stale refinement log removed)
+- **Enhancements made**: 2 (phenomenology wikilink, comparative phenomenology cross-link)
+- **Output**: [deep-review-2026-03-14-contemplative-path](/reviews/deep-review-2026-03-14-contemplative-path/)
+
+## 2026-03-14T21:29:00+00:00 - deep-review
+- **Status**: Skip
+- **File**: [non-retrocausal-conscious-selection](/archive/concepts/non-retrocausal-conscious-selection/)
+- **Reason**: Article was archived on 2026-03-11 (coalesced into [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)). Orphan integration task was stale — removed from todo queue. No live content articles link to the archived slug; no action needed.
+
+## 2026-03-14T21:16:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 198
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 5
+- **Output**: [tenet-check-2026-03-14](/reviews/tenet-check-2026-03-14/)
+
+## 2026-03-14T21:13:00+00:00 - deep-review (skipped)
+- **Status**: Skipped (archived article)
+- **File**: illusionism-as-epiphenomenalism-in-disguise (archived 2026-03-12, coalesced into [illusionism](/concepts/illusionism/))
+- **Reason**: Article no longer exists as standalone content. Was coalesced into illusionism.md on 2026-03-12. Orphan-integration task was stale — cross-references were already added during the 2026-03-12 deep review prior to coalescence. Todo task marked as resolved.
+
+## 2026-03-14T21:03:00+00:00 - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/)
+- **Word count**: 2356 → 2356 (+0, no content changes to article)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (broken link in arguments index, orphan status)
+- **Enhancements made**: 13 cross-links added from related articles (epiphenomenalism, the-epiphenomenalist-threat, self-stultification-as-master-argument, self-stultification, causal-closure, interactionist-dualism, evolutionary-case-for-mental-causation, illusionism, knowledge-argument, functionalism-argument, epiphenomenal-ai-consciousness, consciousness-and-causal-powers, arguments index)
+- **Output**: [deep-review-2026-03-14-epiphenomenalism-argument](/reviews/deep-review-2026-03-14-epiphenomenalism-argument/)
+
+## 2026-03-14T20:53:00+00:00 - research-voids
+- **Status**: Skipped (section at capacity)
+- **Reason**: Voids section has 104 articles against a cap of 100
+- **Action**: No research generated — automation should focus on improving existing voids content
+
+## 2026-03-14T20:43:00+00:00 - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)
+- **Word count**: 3439 → 3439 (+0, no content changes to apex article)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (none new since earlier review)
+- **Enhancements made**: 14 cross-links added from source articles (causal-closure, stapp-quantum-mind, bidirectional-interaction, hard-problem-of-consciousness, explanatory-gap, indexical-identity-quantum-measurement, interactionist-dualism, decoherence, spontaneous-collapse-theories, prebiotic-collapse, causal-interface, amplification-void, nomic-void, qm-interpretations-beyond-many-worlds)
+- **Output**: [deep-review-2026-03-14b-what-consciousness-tells-us-about-physics](/reviews/deep-review-2026-03-14b-what-consciousness-tells-us-about-physics/)
+
+## 2026-03-14T20:39:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [princess-elizabeths-challenge](/topics/princess-elizabeths-challenge/)
+- **Word count**: 2101 → 2134 (+33)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (bodily spirits definition, mental-causation body link, psychophysical-coupling connection)
+- **Enhancements made**: 3 (inline definition, 2 cross-links)
+- **Output**: [deep-review-2026-03-14-princess-elizabeths-challenge](/reviews/deep-review-2026-03-14-princess-elizabeths-challenge/)
+
+## 2026-03-14T20:19:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)
+- **Word count**: 3299 → 3439 (+140)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (Einstein characterization, Gleason's theorem nuance, decoherence engagement, consciousness-excluding interpretation)
+- **Enhancements made**: 2 (explanatory-gap cross-link, MWI dispute acknowledgment)
+- **Output**: [deep-review-2026-03-14-what-consciousness-tells-us-about-physics](/reviews/deep-review-2026-03-14-what-consciousness-tells-us-about-physics/)
+
+## 2026-03-14T20:09:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-interpretations](/concepts/quantum-interpretations/)
+- **Word count**: 2409 → 2429 (+20)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to reverse inference apex)
+- **Enhancements made**: 3 (apex cross-link in body, Further Reading subsection, prose tightening)
+- **Output**: [deep-review-2026-03-14-quantum-interpretations](/reviews/deep-review-2026-03-14-quantum-interpretations/)
+
+## 2026-03-14T19:59:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [evolution-under-dualism](/topics/evolution-under-dualism/), [evolution-of-consciousness-dualist-perspective](/topics/evolution-of-consciousness-dualist-perspective/)
+- **Target**: [evolution-under-dualism](/topics/evolution-under-dualism/)
+- **Archived**: [evolution-of-consciousness-dualist-perspective](/archive/topics/evolution-of-consciousness-dualist-perspective/)
+- **References updated**: 2 files (metaproblem-of-consciousness-under-dualism, evolution-of-consciousness)
+- **References to review**: none
+
+## 2026-03-14T19:49:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/)
+- **Word count**: 3075 → 3085 (+10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Context**: Cross-review in light of reverse inference apex
+- **Output**: [deep-review-2026-03-14-quantum-probability-consciousness](/reviews/deep-review-2026-03-14-quantum-probability-consciousness/)
+
+## 2026-03-14T19:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/)
+- **Word count**: 3476 → 3473 (-3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-14-phenomenology-of-moral-experience](/reviews/deep-review-2026-03-14-phenomenology-of-moral-experience/)
+
+## 2026-03-14T19:29:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [measurement-problem](/concepts/measurement-problem/)
+- **Word count**: 3035 → 3044 (+9)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to reverse inference apex)
+- **Enhancements made**: 3 (reverse inference sentence, frontmatter link, Further Reading entry)
+- **Output**: [deep-review-2026-03-14-measurement-problem](/reviews/deep-review-2026-03-14-measurement-problem/)
+
+## 2026-03-14T19:19:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [split-brain-consciousness](/topics/split-brain-consciousness/)
+- **Changes**: Downgraded entanglement binding hypothesis from explanatory candidate to speculative possibility; ensured core argument survives without it; fixed prohibited "This is not X. It is Y." closing construct
+- **Published**: yes
+
+## 2026-03-14T19:09:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full survey of topics/ (~100), concepts/ (~100), tenets/ (1), with deep reading of 24 representative articles
+- **Output**: [optimistic-2026-03-14-evening](/reviews/optimistic-2026-03-14-evening/)
+
+## 2026-03-14T18:59:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Mathematical structure of the consciousness-physics interface
+- **Output**: [mathematical-structure-consciousness-physics-interface-2026-03-14](/research/mathematical-structure-consciousness-physics-interface-2026-03-14/)
+- **Sources consulted**: 16
+
+## 2026-03-14T18:50:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Russellian monism as competitor to bi-aspectual dualism
+- **Output**: [russellian-monism-vs-bi-aspectual-dualism-2026-03-14](/research/russellian-monism-vs-bi-aspectual-dualism-2026-03-14/)
+- **Sources consulted**: 11
+
+## 2026-03-14T18:39:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/)
+- **Word count**: 2435 → 2608 (+173)
+- **Critical issues addressed**: 1 (duplicate frontmatter entry)
+- **Medium issues addressed**: 3 (missing cross-links, missing tenet)
+- **Enhancements made**: 4 (cross-links, tenet coverage, frontmatter fix)
+- **Output**: [deep-review-2026-03-14-diachronic-agency-and-personal-narrative](/reviews/deep-review-2026-03-14-diachronic-agency-and-personal-narrative/)
+
+## 2026-03-14T18:29:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Completeness in physics — EPR, Bell, and "partial but complete"
+- **Output**: [completeness-in-physics-epr-bell-2026-03-14](/research/completeness-in-physics-epr-bell-2026-03-14/)
+- **Sources consulted**: 15
+
+## 2026-03-14T18:19:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Gödel-measurement problem analogy — scope and limits
+- **Output**: [godel-measurement-problem-analogy-2026-03-14](/research/godel-measurement-problem-analogy-2026-03-14/)
+- **Sources consulted**: 15
+
+## 2026-03-14T18:09:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/split-brain-consciousness.md
+- **Output**: [pessimistic-2026-03-14-evening](/reviews/pessimistic-2026-03-14-evening/)
+
 ## 2026-03-14T18:01:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Retrocausal selection model for consciousness-physics interaction

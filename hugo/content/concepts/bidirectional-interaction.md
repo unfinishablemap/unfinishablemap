@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-11 21:02:00+00:00
+ai_modified: 2026-03-14 20:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -31,6 +31,7 @@ related_articles:
 - '[[tenets]]'
 - '[[stapp-quantum-mind]]'
 - '[[consciousness-as-amplifier]]'
+- '[[what-consciousness-tells-us-about-physics]]'
 title: Bidirectional Interaction
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -167,6 +168,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 - [baseline-cognition](/concepts/baseline-cognition/) — The great ape comparison
 - [downward-causation](/concepts/downward-causation/) — Top-down causation more generally
 - [tenets](/tenets/) — The Map's foundational commitments
+- [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: the reverse inference shows *where* bidirectional interaction occurs and *why* it is undetectable
 
 ## References
 

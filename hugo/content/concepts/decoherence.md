@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-02 15:52:00+00:00
+ai_modified: 2026-03-14 20:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -47,6 +47,7 @@ related_articles:
 - '[[decoherence-macroscopic-superposition-2026-01-14]]'
 - '[[quantum-superposition-brain-consciousness-2026-01-18]]'
 - '[[quantum-decoherence-objection-responses-2026-01-15]]'
+- '[[what-consciousness-tells-us-about-physics]]'
 title: Decoherence and the Quantum Consciousness Objection
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -256,6 +257,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is direct
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for mental effort
 - [many-worlds](/concepts/many-worlds/) — The interpretation that dissolves the measurement problem differently
 - [tenets](/tenets/) — the Map's foundational commitments
+- [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: decoherence selects the basis but not the outcome—what lies behind the wavefunction
 
 ## References
 

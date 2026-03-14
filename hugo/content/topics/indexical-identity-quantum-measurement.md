@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-12 04:17:00+00:00
+ai_modified: 2026-03-14 20:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,6 +27,7 @@ related_articles:
 - '[[qm-interpretations-beyond-many-worlds]]'
 - '[[quantum-measurement-subjective-probability-2026-01-23]]'
 - '[[the-measurement-problem-as-philosophical-problem]]'
+- '[[what-consciousness-tells-us-about-physics]]'
 title: Indexical Identity and Quantum Measurement
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -177,6 +178,7 @@ This topic intersects all five tenets:
 - [free-will](/topics/free-will/) - If consciousness grounds indexical determination at quantum measurement, the self may be genuinely causal in a libertarian sense
 - [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — The measurement problem as a species of the hard problem
 - [indexical-void](/voids/indexical-void/) — The unchartable territory of why *this* consciousness exists
+- [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: the indexical dimension as part of the reverse inference from consciousness to physics
 
 ## References
 

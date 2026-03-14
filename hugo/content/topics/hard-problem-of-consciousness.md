@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-03-12 00:03:00+00:00
+ai_modified: 2026-03-14 20:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -71,6 +71,7 @@ related_articles:
 - '[[objectivity-and-consciousness]]'
 - '[[bandwidth-of-consciousness]]'
 - '[[duhem-quine-underdetermination-consciousness]]'
+- '[[what-consciousness-tells-us-about-physics]]'
 title: The Hard Problem of Consciousness
 topics: []
 ---
@@ -295,6 +296,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — How Buddhist philosophy engages with dualist frameworks
 - [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — How interactionism turns the metaproblem from threat to vindication
 - [tenets](/tenets/) — The foundational commitments of the Map
+- [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: the reverse inference from consciousness to physics—arguing the hard problem and measurement problem are the same boundary seen from different sides
 
 ### External Resources
 - [Consciousness (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/consciousness/)

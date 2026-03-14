@@ -60,7 +60,7 @@ topics: []
 - [self-stultification](/concepts/self-stultification/) — Added Further Reading entry
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Added Further Reading entry
 - [argument-from-reason](/topics/argument-from-reason/) — Added Further Reading entry
-- [evolution-of-consciousness-dualist-perspective](/topics/evolution-of-consciousness-dualist-perspective/) — Added Further Reading entry
+- [evolution-of-consciousness-dualist-perspective](/topics/evolution-under-dualism/) — Added Further Reading entry
 - [attention-schema-theory](/concepts/attention-schema-theory/) — Added Further Reading entry
 
 ## Remaining Items

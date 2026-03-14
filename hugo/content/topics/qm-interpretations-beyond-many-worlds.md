@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-12 05:32:00+00:00
+ai_modified: 2026-03-14 20:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,6 +33,7 @@ related_articles:
 - '[[collapse-and-time]]'
 - '[[prebiotic-collapse]]'
 - '[[quantum-measurement-and-subjective-probability]]'
+- '[[what-consciousness-tells-us-about-physics]]'
 title: Quantum Interpretations Beyond Many-Worlds
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -148,6 +149,7 @@ No interpretation is proven. The Map does not claim to know which is correct. Wh
 - [process-philosophy](/concepts/process-philosophy/) — How actual occasions relate to quantum becoming
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Specific mechanisms for consciousness-quantum interaction
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness is the explanatory target
+- [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: what interpretive choice means for the reverse inference from consciousness to physics
 
 ## References
 

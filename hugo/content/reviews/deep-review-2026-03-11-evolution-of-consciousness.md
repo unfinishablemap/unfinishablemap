@@ -71,7 +71,7 @@ All previously identified counterarguments remain at bedrock philosophical stand
 
 ### Cross-links Added
 - [consciousness-evolution-problem](/topics/consciousness-evolution-problem/)
-- [evolution-of-consciousness-dualist-perspective](/topics/evolution-of-consciousness-dualist-perspective/)
+- [evolution-of-consciousness-dualist-perspective](/topics/evolution-under-dualism/)
 
 ## Word Count Change
 - Before: 3117 words (125% of 2500 target)

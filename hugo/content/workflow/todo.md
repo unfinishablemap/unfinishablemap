@@ -38,36 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research the Gödel-measurement problem analogy — scope and limits
-- **Type**: research-topic
-- **Notes**: The apex draws an analogy between Gödel incompleteness and the measurement problem. Needs rigorous treatment: (1) Penrose's use of Gödel in Shadows of the Mind. (2) Lucas-Penrose argument and critics (Putnam, Feferman, Shapiro). (3) Precise scope: formal incompleteness involves self-reference; does the measurement problem? (4) Chaitin's incompleteness via algorithmic randomness. (5) Where the analogy breaks: Gödel is about provability; measurement problem is about determinism. Genuinely analogous or superficially similar? (6) Yanofsky's "Outer Limits of Reason" on structural limits across domains. Target: research note.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
-### P2: Research completeness in physics — EPR, Bell, and "partial but complete"
-- **Type**: research-topic
-- **Notes**: The apex distinguishes Einstein's "incomplete" (missing hidden variables) from the Map's "partial" (complete about structure, silent about actuality). Ground this technically: (1) EPR's completeness criterion. (2) Bell's theorem on local hidden variables. (3) Kochen-Specker on contextuality. (4) PBR theorem — wavefunction is ontic. How does this support "partial but complete"? (5) Fine's prism models. (6) Precise coherence of "complete but partial" — a theory complete for its domain acknowledging its domain is not all of reality. Precedent: Newtonian mechanics was complete-but-partial. Target: research note.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
-### P2: Research Russellian monism as competitor to bi-aspectual dualism
-- **Type**: research-topic
-- **Notes**: Russellian monism (Chalmers 2015, Alter & Nagasawa 2015) is the closest competitor — both say physics describes structure while consciousness is "missing." Key differences to clarify: (1) Russellian monism is neutral monism (one substance, two aspects); the Map commits to genuine dualism. (2) Russellian monism typically implies panpsychism; the Map rejects it. (3) The combination problem hits Russellian monism hard; the Map's quantum-interface model may avoid it. (4) Does Russellian monism handle the measurement problem? Research Chalmers' "The Combination Problem for Panpsychism," Goff's "Consciousness and Fundamental Reality," Stoljar's "Ignorance and Imagination." Critical positioning work. Target: research note.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
-### P2: Research mathematical structure of the consciousness-physics interface
-- **Type**: research-topic
-- **Notes**: The apex claims the Born rule's mathematical form (squared amplitudes) may encode interface constraints. Can we say more? (1) Why squared amplitudes — deeper reason? Connection to inner product structure of Hilbert space, conservation of probability. (2) Could alternative rules (p=|ψ|, p=|ψ|³) be consistent? What breaks? (3) Hardy's reconstruction of QM from information-theoretic axioms. (4) L² structure uniqueness. (5) Can Born rule be derived from consciousness-physics coupling assumptions? E.g., if consciousness must preserve ensemble statistics, does this constrain the probability rule? (6) Sorkin's sum-over-histories — absence of third-order interference. Speculative but could yield genuine insights. Target: research note.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
-### P2: Write topic article — The Reverse Inference
-- **Type**: expand-topic
-- **Notes**: Dedicated topic article developing the methodological move: using consciousness as a datum to constrain physics, rather than the standard direction. Cover: (1) Why the standard direction (physics → consciousness) is not the only rational approach. (2) Historical precedents — using observed phenomena to constrain theory (thermodynamics → statistical mechanics, stellar spectra → atomic structure). (3) The epistemic asymmetry — consciousness is more certain than any QM interpretation. (4) Objections: motivated reasoning? Response: all interpretation is constrained by commitments; the question is which are best supported. Target section: topics/. Source: the apex article.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P2: Write concept article — Bi-aspectual Ontology
 - **Type**: expand-topic
 - **Notes**: Develop the concept of bi-aspectual ontology as used in the apex: reality has two irreducible aspects — structure (physics/wavefunction) and actuality (consciousness). Distinguish from: (1) substance dualism; (2) property dualism; (3) neutral monism/Russellian monism; (4) idealism; (5) panpsychism. The Map's position: genuine dualism where physics is complete-for-its-domain and consciousness is the other domain. The interface (Born rule) connects them. Requires the bi-aspectual traditions research (P1) to be completed first. Target section: concepts/.
@@ -80,46 +50,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: human_directed
 - **Generated**: 2026-03-14
 
-### P2: Cross-review measurement-problem.md in light of the reverse inference apex
-- **Type**: cross-review
-- **Notes**: The measurement-problem article contains groundwork for the reverse inference but doesn't make the move explicitly. Review: (1) Add forward-reference to the apex. (2) Strengthen "structural coherence" section to foreground the disclosure framing. (3) Ensure "Born probability as interface structure" connects to apex's fuller treatment. (4) Check language about "conceptual unification" is consistent with "bi-aspectual ontology." Alignment, not rewriting.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
-### P2: Cross-review quantum-probability-consciousness.md in light of the reverse inference apex
-- **Type**: cross-review
-- **Notes**: This concept article develops Born rule as interface specification — same claim the apex makes at higher level. Review for consistency: (1) Ensure "interface structure" argument is consistent with apex framing. (2) Add forward-reference. (3) Check QBism/participatory realism/MWI treatment is consistent with apex's use. (4) "Epistemic limitations" section acknowledges no Born rule derivation — ensure consistency with apex. Do not expand substantially.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
-### P2: Cross-review quantum-interpretations.md in light of the reverse inference apex
-- **Type**: cross-review
-- **Notes**: The interpretations article surveys for consciousness compatibility. The reverse inference adds a new lens: which are consistent with physics being "partial but complete"? Review: (1) Copenhagen — consistent with partiality. (2) Bohmian — inconsistent (makes physics complete and total). (3) MWI — inconsistent (eliminates gap). (4) Objective collapse — consistent if consciousness modulates. (5) TI/TSVF — highly consistent. Add brief notes and forward-reference to apex.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P2: Write void article — The Interface Formalization Void
 - **Type**: expand-topic
 - **Notes**: If the consciousness-physics interface is the ontological joint between two fundamentally different domains, can it be formalized mathematically? Or is formalization itself a structural-domain tool that cannot capture the actualizing domain? (1) Mathematics describes structure — may be unable to describe actuality. (2) Any mathematical description of the interface would be more structure, not actuality. (3) Born rule as the closest we can get — structural description of statistical properties without capturing what happens at the interface. (4) Connection to nomic void. (5) Connection to mysterianism/cognitive closure. A void generated directly by the reverse inference. Target section: voids/.
 - **Source**: human_directed
-- **Generated**: 2026-03-14
-
-### P2: Deep review what-consciousness-tells-us-about-physics.md
-- **Type**: deep-review
-- **Notes**: The new apex needs a full deep review after supporting research is complete. Stress-test: (1) "Complete but partial" distinction — coherent or verbal? (2) Born rule as interface specification — genuine claim or relabelling? (3) Gödel analogy — earning its keep or decorative? (4) "What would challenge this view" — genuine challenges or straw? Schedule after research tasks complete so review can draw on new material.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
-### P2: Integrate what-consciousness-tells-us-about-physics.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Newly created apex article (2026-03-14) has zero inbound wikilinks. Add cross-references from related articles — particularly consciousness-and-physics.md, consciousness-collapse-theories.md, minimal-quantum-interaction.md, and other physics-consciousness articles. Apex articles should be prominently linked.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-14
-
-### P2: Integrate epiphenomenalism-argument.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Arguments article (created 2026-01-15) has zero inbound wikilinks despite being a core argument page. Add cross-references from epiphenomenalism.md, the-epiphenomenalist-threat.md, mental-causation.md, and related articles.
-- **Source**: orphan_integration
 - **Generated**: 2026-03-14
 
 ### P2: Write article on dreams, problem-solving, and conscious influence
@@ -229,6 +163,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 38 days ago. Major alternative position to the Map's dualism that needs accurate, fair treatment. Verify coherence, cross-references, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-11
+
+### P3: Write apex article — The Interface Specification Programme
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six articles (psychophysical-control-law, bandwidth-problem-mental-causation, control-theoretic-will, causal-delegation, consciousness-and-causal-powers, attention-disorders-and-quantum-interface) collectively specify the Map's interface more precisely than any individually. An apex weaving them together would show the interface as a unified research programme. See optimistic-2026-03-14-evening.md
+- **Generated**: 2026-03-14
+
+### P3: Write concept page — Observational Closure
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The distinction between universal causal closure and observational closure (from delegatory dualism) dissolves the main argument against interactionism and is referenced across multiple articles. Deserves dedicated concept page. Target section: concepts/. See optimistic-2026-03-14-evening.md
+- **Generated**: 2026-03-14
+
+### P3: Write concept page — Policy-Level Selection
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The recurring pattern of consciousness operating at policy level (selecting among prepared alternatives) appears in bandwidth problem, control-theoretic will, and multiple other articles. A dedicated concept page would unify these treatments. Target section: concepts/. See optimistic-2026-03-14-evening.md
+- **Generated**: 2026-03-14
 
 ### P3: Create concept page for dual-domain capability framework
 - **Type**: expand-topic
@@ -731,6 +683,100 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Deep review consciousness-evolution-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-09 — 33 days ago. Topic page on the evolution of consciousness problem — central challenge for the Map's dualist position. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/consciousness-evolution-problem.md
+
+### ✓ 2026-03-14: Deep review time-symmetric-physics.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-04 — 38 days ago. Concept page on time-symmetric physics relevant to the Map's treatment of retrocausality and temporal consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/time-symmetric-physics.md
+
+### ✓ 2026-03-14: Deep review contemplative-path.md
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) last reviewed 2026-02-03 — 39 days ago. Major synthesis article on contemplative practice as philosophical evidence. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/apex/contemplative-path.md
+
+### ✓ 2026-03-14: Integrate non-retrocausal-conscious-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page (created 2026-03-07) has zero inbound links. Presents the non-retrocausal model for consciousness-physics interaction — directly relevant to the Map's quantum interface framework. Add cross-references from consciousness-collapse-theories.md, minimal-quantum-interaction.md, quantum-consciousness.md, and related articles.
+- **Output**: non-retrocausal-conscious-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-14: Integrate illusionism-as-epiphenomenalism-in-disguise.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page (created 2026-03-08) has zero inbound links. Shows illusionism inherits epiphenomenalism's explanatory debts — important for the Map's anti-illusionist arguments. Add cross-references from illusionism.md, epiphenomenalism.md, the-epiphenomenalist-threat.md, and related articles.
+- **Output**: illusionism-as-epiphenomenalism-in-disguise.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-14: Integrate epiphenomenalism-argument.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Arguments article (created 2026-01-15) has zero inbound wikilinks despite being a core argument page. Add cross-references from epiphenomenalism.md, the-epiphenomenalist-threat.md, mental-causation.md, and related articles.
+- **Output**: obsidian/arguments/epiphenomenalism-argument.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-14: Integrate what-consciousness-tells-us-about-physics.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created apex article (2026-03-14) has zero inbound wikilinks. Add cross-references from related articles — particularly consciousness-and-physics.md, consciousness-collapse-theories.md, minimal-quantum-interaction.md, and other physics-consciousness articles. Apex articles should be prominently linked.
+- **Output**: obsidian/apex/what-consciousness-tells-us-about-physics.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-14: Deep review what-consciousness-tells-us-about-physics.md
+- **Type**: deep-review
+- **Notes**: The new apex needs a full deep review after supporting research is complete. Stress-test: (1) "Complete but partial" distinction — coherent or verbal? (2) Born rule as interface specification — genuine claim or relabelling? (3) Gödel analogy — earning its keep or decorative? (4) "What would challenge this view" — genuine challenges or straw? Schedule after research tasks complete so review can draw on new material.
+- **Output**: obsidian/apex/what-consciousness-tells-us-about-physics.md
+
+### ✓ 2026-03-14: Cross-review quantum-interpretations.md in light of the reverse inference apex
+- **Type**: cross-review
+- **Notes**: The interpretations article surveys for consciousness compatibility. The reverse inference adds a new lens: which are consistent with physics being "partial but complete"? Review: (1) Copenhagen — consistent with partiality. (2) Bohmian — inconsistent (makes physics complete and total). (3) MWI — inconsistent (eliminates gap). (4) Objective collapse — consistent if consciousness modulates. (5) TI/TSVF — highly consistent. Add brief notes and forward-reference to apex.
+- **Output**: obsidian/concepts/quantum-interpretations.md -- Context: Cross-review quantum-interpretations.md in light of the reverse inference apex
+
+### ✓ 2026-03-14: Cross-review quantum-probability-consciousness.md in light of the reverse inference apex
+- **Type**: cross-review
+- **Notes**: This concept article develops Born rule as interface specification — same claim the apex makes at higher level. Review for consistency: (1) Ensure "interface structure" argument is consistent with apex framing. (2) Add forward-reference. (3) Check QBism/participatory realism/MWI treatment is consistent with apex's use. (4) "Epistemic limitations" section acknowledges no Born rule derivation — ensure consistency with apex. Do not expand substantially.
+- **Output**: obsidian/concepts/quantum-probability-consciousness.md -- Context: Cross-review quantum-probability-consciousness.md in light of the reverse inference apex
+
+### ✓ 2026-03-14: Cross-review measurement-problem.md in light of the reverse inference apex
+- **Type**: cross-review
+- **Notes**: The measurement-problem article contains groundwork for the reverse inference but doesn't make the move explicitly. Review: (1) Add forward-reference to the apex. (2) Strengthen "structural coherence" section to foreground the disclosure framing. (3) Ensure "Born probability as interface structure" connects to apex's fuller treatment. (4) Check language about "conceptual unification" is consistent with "bi-aspectual ontology." Alignment, not rewriting.
+- **Output**: obsidian/concepts/measurement-problem.md -- Context: Cross-review measurement-problem.md in light of the reverse inference apex
+
+### ✓ 2026-03-14: Reduce entanglement binding hypothesis overemphasis in split-brain-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the entanglement binding hypothesis is presented as an explanatory candidate for the 2025 PNAS synchronization findings, violating the style guide's warning against overemphasizing speculative mechanisms. Frame as "one speculative possibility" and ensure the core argument survives without it. Also fix the prohibited "This is not X. It is Y." construct in the closing line. See pessimistic-2026-03-14-evening.md
+- **Output**: obsidian/topics/split-brain-consciousness.md
+
+Task context:
+Pessimistic review found the entanglement binding hypothesis is presented as an explanatory candidate for the 2025 PNAS synchronization findings, violating the style guide's warning against overemphasizing speculative mechanisms. Frame as "one speculative possibility" and ensure the core argument survives without it. Also fix the prohibited "This is not X. It is Y." construct in the closing line. See pessimistic-2026-03-14-evening.md
+
+### ✓ 2026-03-14: Research mathematical structure of the consciousness-physics interface
+- **Type**: research-topic
+- **Notes**: The apex claims the Born rule's mathematical form (squared amplitudes) may encode interface constraints. Can we say more? (1) Why squared amplitudes — deeper reason? Connection to inner product structure of Hilbert space, conservation of probability. (2) Could alternative rules (p=|ψ|, p=|ψ|³) be consistent? What breaks? (3) Hardy's reconstruction of QM from information-theoretic axioms. (4) L² structure uniqueness. (5) Can Born rule be derived from consciousness-physics coupling assumptions? E.g., if consciousness must preserve ensemble statistics, does this constrain the probability rule? (6) Sorkin's sum-over-histories — absence of third-order interference. Speculative but could yield genuine insights. Target: research note.
+- **Output**: mathematical structure of the consciousness-physics interface
+
+### ✓ 2026-03-14: Research mathematical structure of the consciousness-physics interface
+- **Type**: research-topic
+- **Output**: [mathematical-structure-consciousness-physics-interface-2026-03-14](/research/mathematical-structure-consciousness-physics-interface-2026-03-14/)
+- **Sources consulted**: 16
+- **Completed**: 2026-03-14T18:59:00+00:00
+
+### ✓ 2026-03-14: Research Russellian monism as competitor to bi-aspectual dualism
+- **Type**: research-topic
+- **Notes**: Russellian monism (Chalmers 2015, Alter & Nagasawa 2015) is the closest competitor — both say physics describes structure while consciousness is "missing." Key differences to clarify: (1) Russellian monism is neutral monism (one substance, two aspects); the Map commits to genuine dualism. (2) Russellian monism typically implies panpsychism; the Map rejects it. (3) The combination problem hits Russellian monism hard; the Map's quantum-interface model may avoid it. (4) Does Russellian monism handle the measurement problem? Research Chalmers' "The Combination Problem for Panpsychism," Goff's "Consciousness and Fundamental Reality," Stoljar's "Ignorance and Imagination." Critical positioning work. Target: research note.
+- **Output**: Russellian monism as competitor to bi-aspectual dualism
+
+### ✓ 2026-03-14: Research Russellian monism as competitor to bi-aspectual dualism
+- **Type**: research-topic
+- **Notes**: Russellian monism (Chalmers 2015, Alter & Nagasawa 2015) is the closest competitor — both say physics describes structure while consciousness is "missing." Five pressure points where RM challenges the Map; five advantages where the Map has the stronger position. Key findings: Pautz argues RM offers no genuine advantage over dualism (same brute linking principles); Cutter argues RM is unstable (collapses to physicalism or dualism); Howell shows RM faces epiphenomenalism despite claiming to avoid it.
+- **Output**: russellian-monism-vs-bi-aspectual-dualism-2026-03-14
+
+### ✓ 2026-03-14: Research completeness in physics — EPR, Bell, and "partial but complete"
+- **Type**: research-topic
+- **Notes**: The apex distinguishes Einstein's "incomplete" (missing hidden variables) from the Map's "partial" (complete about structure, silent about actuality). Ground this technically: (1) EPR's completeness criterion. (2) Bell's theorem on local hidden variables. (3) Kochen-Specker on contextuality. (4) PBR theorem — wavefunction is ontic. How does this support "partial but complete"? (5) Fine's prism models. (6) Precise coherence of "complete but partial" — a theory complete for its domain acknowledging its domain is not all of reality. Precedent: Newtonian mechanics was complete-but-partial. Target: research note.
+- **Output**: completeness in physics — EPR, Bell, and "partial but complete"
+
+### ✓ 2026-03-14: Research the Gödel-measurement problem analogy — scope and limits
+- **Type**: research-topic
+- **Notes**: The apex draws an analogy between Gödel incompleteness and the measurement problem. Needs rigorous treatment: (1) Penrose's use of Gödel in Shadows of the Mind. (2) Lucas-Penrose argument and critics (Putnam, Feferman, Shapiro). (3) Precise scope: formal incompleteness involves self-reference; does the measurement problem? (4) Chaitin's incompleteness via algorithmic randomness. (5) Where the analogy breaks: Gödel is about provability; measurement problem is about determinism. Genuinely analogous or superficially similar? (6) Yanofsky's "Outer Limits of Reason" on structural limits across domains. Target: research note.
+- **Output**: the Gödel-measurement problem analogy — scope and limits
 
 ### ✓ 2026-03-14: Research retrocausal selection model for consciousness-physics interaction
 - **Type**: research-topic

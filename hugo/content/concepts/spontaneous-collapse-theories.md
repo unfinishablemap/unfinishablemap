@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-12 05:32:00+00:00
+ai_modified: 2026-03-14 20:43:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -31,6 +31,7 @@ related_articles:
 - '[[stapp-quantum-mind]]'
 - '[[causal-closure]]'
 - '[[argument-from-reason]]'
+- '[[what-consciousness-tells-us-about-physics]]'
 title: Spontaneous Collapse Theories
 topics: []
 ---
@@ -203,6 +204,7 @@ The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or sim
 - [illusionism](/concepts/illusionism/) - the eliminativist challenge this framework must address
 - [mysterianism](/concepts/mysterianism/) - cognitive limits on understanding the consciousness-collapse interface
 - [argument-from-reason](/topics/argument-from-reason/) - why consciousness must be causally efficacious
+- [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: spontaneous collapse as baseline within the reverse inference framework
 
 ## References
 

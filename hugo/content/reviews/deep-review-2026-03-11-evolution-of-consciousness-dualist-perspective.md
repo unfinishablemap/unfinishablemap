@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [The Evolution of Consciousness from a Dualist Perspective](/topics/evolution-of-consciousness-dualist-perspective/)
+**Article**: [The Evolution of Consciousness from a Dualist Perspective](/topics/evolution-under-dualism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

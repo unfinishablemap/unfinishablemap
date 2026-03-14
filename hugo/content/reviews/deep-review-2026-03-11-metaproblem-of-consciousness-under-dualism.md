@@ -56,7 +56,7 @@ topics: []
 
 ### Cross-links Added
 - [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) (inline differentiation)
-- [evolution-of-consciousness-dualist-perspective](/topics/evolution-of-consciousness-dualist-perspective/) (body text + Further Reading)
+- [evolution-of-consciousness-dualist-perspective](/topics/evolution-under-dualism/) (body text + Further Reading)
 - [argument-from-reason](/topics/argument-from-reason/) (Further Reading)
 
 ## Remaining Items

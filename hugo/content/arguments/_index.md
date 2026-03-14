@@ -1,7 +1,7 @@
 ---
 ai_contribution: 90
 ai_generated_date: null
-ai_modified: 2026-02-06 13:45:00+00:00
+ai_modified: 2026-03-14 21:03:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -68,7 +68,7 @@ Epiphenomenalism holds that consciousness is causally inert—a byproduct of bra
 - The introspection problem: introspective access to consciousness becomes inexplicable
 - The self-knowledge problem: knowledge of our own minds requires causal connection
 
-**Discussion:** [epiphenomenalism](/arguments/epiphenomenalism/)
+**Discussion:** [Against Epiphenomenalism](/arguments/epiphenomenalism-argument/)
 
 ### Against Functionalism
 

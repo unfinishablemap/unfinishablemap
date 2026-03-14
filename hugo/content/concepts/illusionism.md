@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-12 15:19:00+00:00
+ai_modified: 2026-03-14 21:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -36,6 +36,7 @@ last_deep_review: 2026-03-04 22:32:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[epiphenomenalism-argument]]'
 - '[[the-epiphenomenalist-threat]]'
 - '[[self-stultification-as-master-argument]]'
 - '[[metaproblem-of-consciousness-under-dualism]]'
