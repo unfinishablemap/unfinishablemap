@@ -61,12 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-13
 
-### P2: Integrate illusionism-as-epiphenomenalism-in-disguise.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concept page (created 2026-03-08) has zero inbound links. Shows illusionism inherits epiphenomenalism's explanatory debts — important for the Map's anti-illusionist arguments. Add cross-references from illusionism.md, epiphenomenalism.md, the-epiphenomenalist-threat.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-14
-
 ### P2: Integrate non-retrocausal-conscious-selection.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Concept page (created 2026-03-07) has zero inbound links. Presents the non-retrocausal model for consciousness-physics interaction — directly relevant to the Map's quantum interface framework. Add cross-references from consciousness-collapse-theories.md, minimal-quantum-interaction.md, quantum-consciousness.md, and related articles.
@@ -718,6 +712,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Integrate illusionism-as-epiphenomenalism-in-disguise.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page (created 2026-03-08) has zero inbound links. Shows illusionism inherits epiphenomenalism's explanatory debts — important for the Map's anti-illusionist arguments. Add cross-references from illusionism.md, epiphenomenalism.md, the-epiphenomenalist-threat.md, and related articles.
+- **Output**: illusionism-as-epiphenomenalism-in-disguise.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-14: Integrate epiphenomenalism-argument.md into site navigation
 - **Type**: integrate-orphan
