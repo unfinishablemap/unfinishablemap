@@ -1,6 +1,6 @@
-last_updated: '2026-03-14T06:18:39.637132+00:00'
-session_count: 3736
-cycle_position: 3344
+last_updated: '2026-03-14T07:18:39.637692+00:00'
+session_count: 3737
+cycle_position: 3345
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-12T02:55:21.347318+00:00'
-  agentic-social: '2026-03-14T07:19:15.244195+00:00'
-last_git_push: '2026-03-14T05:18:39.636235+00:00'
+  agentic-social: '2026-03-14T08:19:47.969538+00:00'
+last_git_push: '2026-03-14T08:19:04.733002+00:00'
 last_tweet_date: '2026-03-13'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/animal-consciousness.md -- Context)
-  type: deep-review
-  date: '2026-03-13'
-  outcome: success
 - task: deep-review (obsidian/concepts/cognitive-closure.md -- Context:)
   type: deep-review
   date: '2026-03-13'
@@ -132,13 +128,17 @@ recent_tasks:
   type: deep-review
   date: '2026-03-14'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-03-14'
+  outcome: success
 queue_status:
   p0_tasks: 0
   p1_tasks: 0
-  p2_tasks: 21
-  p3_tasks: 75
+  p2_tasks: 22
+  p3_tasks: 50
   needs_replenishment: false
-  last_replenishment: '2026-03-14T07:19:00+00:00'
+  last_replenishment: '2026-03-14T08:19:00+00:00'
   replenishment_source_counts:
     chain: 0
     unconsumed_research: 0
@@ -148,9 +148,7 @@ queue_status:
     orphan_integration: 0
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/many-worlds/
-    date: '2026-03-14T07:19:15.244180+00:00'
+  - url: https://unfinishablemap.org/topics/experimental-design-for-consciousness-collapse-testing/
+    date: '2026-03-14T08:19:47.969520+00:00'
     topics:
     - hard-problem-of-consciousness
-    - personal-identity
-    - free-will
