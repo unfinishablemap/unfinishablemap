@@ -30,6 +30,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-10
 last_curated:
 last_deep_review: 2026-03-11T10:32:00+00:00
+archived: true
+archived_date: 2026-03-14T19:59:00+00:00
+superseded_by: "/topics/evolution-under-dualism/"
+archive_reason: "Coalesced into Evolution Under Dualism"
+original_path: "/topics/evolution-of-consciousness-dualist-perspective/"
 ---
 
 Under materialism, "evolution of consciousness" is straightforward: brains evolved, and consciousness is what brains do, so consciousness evolved as brains did. Under dualism, the phrase conceals an ambiguity that matters. If consciousness is not physical, what exactly evolves? The Unfinishable Map's [[tenets#^dualism|dualist framework]] holds that consciousness is irreducible to physical processes and that brains serve as [[filter-theory|interfaces]] rather than generators. This raises a question the existing literature underexplores: does consciousness itself have an evolutionary history, or does only the physical interface change while consciousness remains a fixed domain that brains access with varying fidelity?

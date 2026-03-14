@@ -4,11 +4,11 @@ description: "How interactionist dualism turns the metaproblem from threat to vi
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T11:10:00+00:00
+ai_modified: 2026-03-14T19:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[evolution-of-consciousness-dualist-perspective]]"
+  - "[[evolution-under-dualism]]"
 concepts:
   - "[[meta-problem-of-consciousness]]"
   - "[[interactionist-dualism]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[attention-schema-theory]]"
   - "[[consciousness-and-causal-powers]]"
   - "[[argument-from-reason]]"
-  - "[[evolution-of-consciousness-dualist-perspective]]"
+  - "[[evolution-under-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -112,7 +112,7 @@ The [[tenets#^dualism|Dualism]] tenet provides the face-value solution: problem 
 
 The metaproblem also strengthens the Map's case against [[concepts/epiphenomenalism|epiphenomenalism]]. Epiphenomenal dualism accepts that consciousness is real but denies it causal efficacy—leaving it vulnerable to the debunking argument in exactly the way interactionism is not. The metaproblem provides another reason, alongside [[self-stultification]] and the [[consciousness-and-causal-powers|argument from causal powers]], to prefer interactionist over epiphenomenal dualism.
 
-The evolutionary dimension deepens this point. If consciousness was selected because it contributes to adaptive reasoning—as [[evolution-of-consciousness-dualist-perspective|the evolutionary case for dualism]] argues—then its contribution to philosophical reasoning about itself is a specific instance of a general pattern: consciousness improves cognitive processes by providing information that purely physical mechanisms lack.
+The evolutionary dimension deepens this point. If consciousness was selected because it contributes to adaptive reasoning—as [[evolution-under-dualism|the evolutionary case for dualism]] argues—then its contribution to philosophical reasoning about itself is a specific instance of a general pattern: consciousness improves cognitive processes by providing information that purely physical mechanisms lack.
 
 ## Further Reading
 
@@ -121,7 +121,7 @@ The evolutionary dimension deepens this point. If consciousness was selected bec
 - [[illusionism]] — The position most challenged by the metaproblem
 - [[self-stultification]] — The broader argument that epiphenomenalism is self-undermining
 - [[consciousness-and-causal-powers]] — How consciousness does causal work
-- [[evolution-of-consciousness-dualist-perspective]] — The evolutionary case for consciousness having causal efficacy
+- [[evolution-under-dualism]] — The evolutionary case for consciousness having causal efficacy
 - [[philosophical-zombies]] — The thought experiment sharpening the zombie divergence prediction
 - [[argument-from-reason]] — The broader self-defeat challenge: if reasoning isn't caused by consciousness, it isn't rational
 - [[phenomenal-concepts-strategy]] — Physicalism's attempt to explain problem intuitions

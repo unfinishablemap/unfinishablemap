@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T19:59:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[topics/evolution-under-dualism]], [[topics/evolution-of-consciousness-dualist-perspective]]
+- **Target**: [[topics/evolution-under-dualism]]
+- **Archived**: [[archive/topics/evolution-of-consciousness-dualist-perspective]]
+- **References updated**: 2 files (metaproblem-of-consciousness-under-dualism, evolution-of-consciousness)
+- **References to review**: none
+
 ## 2026-03-14T19:49:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-probability-consciousness]]

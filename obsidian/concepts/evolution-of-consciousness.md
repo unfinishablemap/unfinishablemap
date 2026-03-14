@@ -4,7 +4,7 @@ description: "When did consciousness arise? Dualism avoids the strong emergence 
 created: 2026-01-19
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-03-11T23:13:00+00:00
+ai_modified: 2026-03-14T19:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[animal-consciousness-2026-01-14]]"
   - "[[emergence-consciousness-philosophy-2026-01-15]]"
   - "[[consciousness-evolution-problem]]"
-  - "[[evolution-of-consciousness-dualist-perspective]]"
+  - "[[evolution-under-dualism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -216,7 +216,7 @@ Scientific humility requires specifying what would count against one's view.
 ## Further Reading
 
 - [[consciousness-evolution-problem]] — Why evolution makes consciousness puzzling across all frameworks
-- [[evolution-of-consciousness-dualist-perspective]] — Three models of what "evolution of consciousness" means under dualism
+- [[evolution-under-dualism]] — Three models of what "evolution of consciousness" means under dualism
 - [[evolutionary-case-for-mental-causation]] — The argument that consciousness must be causally efficacious to be selected
 - [[consciousness-as-amplifier]] — How consciousness amplifies cognitive capacity
 - [[minimal-consciousness]] — How little neural complexity can support consciousness?
