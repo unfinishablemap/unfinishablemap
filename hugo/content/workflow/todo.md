@@ -68,30 +68,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: orphan_integration
 - **Generated**: 2026-03-13
 
-### P3: Deep review pairing-problem.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 36 days ago. The pairing problem is a major objection to substance dualism that the Map must address accurately. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
-### P3: Deep review neurophenomenology.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-04 — 35 days ago. Concept page on neurophenomenology and contemplative science — methodologically relevant to the Map's treatment of first-person evidence. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
-### P3: Deep review luck-objection.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 36 days ago. The luck objection to libertarian free will is an important challenge the Map needs to address given its commitment to Bidirectional Interaction. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
-### P3: Deep review natural-vs-designed-limits.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-31 — 39 days ago. Voids article distinguishing natural cognitive limits from designed ones. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P3: Deep review questioning-as-evidence.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-31 — 39 days ago. Voids article on how the capacity to question experience serves as evidence for consciousness. Verify coherence, cross-references, and tenet alignment.
@@ -681,8 +657,57 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-14
 
+### P3: Write apex article — Ethics Under Dualism
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Synthesise ethics-and-value-in-a-dualist-world.md, consciousness-and-normative-force.md, moral-phenomenology.md, the-meaning-of-life.md, and responsibility-gradient-from-attentional-capacity.md into unified apex treatment. The Map's ethical framework (phenomenal value realism, consciousness-grounded normativity, attentional responsibility) gains force as a coherent programme. See optimistic-2026-03-14-night.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-14
+
+### P3: Write article on the phenomenology of aesthetic experience
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Aesthetic experience (beauty, sublimity, artistic understanding) receives passing treatment across normative-force, creative-insight, and musical-understanding articles but lacks dedicated development. Aesthetic qualia may resist functional reduction more clearly than sensory qualia. Target section: topics/. See optimistic-2026-03-14-night.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-14
+
+### P3: Write concept page — Phenomenal Value Realism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The claim that value is constitutive of phenomenal experience (badness *is* what suffering is) appears across ethics, meaning, and normative force articles but lacks dedicated concept page. Engage with Rawlette's work directly. Target section: concepts/. See optimistic-2026-03-14-night.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-14
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Deep review natural-vs-designed-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-31 — 39 days ago. Voids article distinguishing natural cognitive limits from designed ones. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/natural-vs-designed-limits.md
+
+### ✓ 2026-03-14: Deep review luck-objection.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 36 days ago. The luck objection to libertarian free will is an important challenge the Map needs to address given its commitment to Bidirectional Interaction. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/luck-objection.md
+
+### ✓ 2026-03-14: Deep review neurophenomenology.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-04 — 35 days ago. Concept page on neurophenomenology and contemplative science — methodologically relevant to the Map's treatment of first-person evidence. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/neurophenomenology.md
+
+### ✓ 2026-03-14: Deep review pairing-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 36 days ago. The pairing problem is a major objection to substance dualism that the Map must address accurately. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/pairing-problem.md
+
+### ✓ 2026-03-14: Address dualism tension in embodiment-cognitive-limits.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article's constitutive embodiment argument undermines its own dualist framing. Need to distinguish embodied *cognition* (physicalist finding) from embodied *consciousness* (where dualism operates). Also fix self-defeating MWI argument in scale-void.md (uses scale-intuition discomfort to reject MWI after arguing scale intuitions are unreliable). See pessimistic-2026-03-14-night.md
+- **Output**: obsidian/voids/embodiment-cognitive-limits.md
+
+Task context:
+Pessimistic review found the article's constitutive embodiment argument undermines its own dualist framing. Need to distinguish embodied *cognition* (physicalist finding) from embodied *consciousness* (where dualism operates). Also fix self-defeating MWI argument in scale-void.md (uses scale-intuition discomfort to reject MWI after arguing scale intuitions are unreliable). See pessimistic-2026-03-14-night.md
 
 ### ✓ 2026-03-14: Deep review consciousness-evolution-problem.md
 - **Type**: deep-review

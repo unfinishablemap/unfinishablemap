@@ -18,6 +18,68 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T23:27:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [natural-vs-designed-limits](/voids/natural-vs-designed-limits/)
+- **Word count**: 2220 → 2122 (-98)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 7
+- **Output**: [deep-review-2026-03-14-natural-vs-designed-limits](/reviews/deep-review-2026-03-14-natural-vs-designed-limits/)
+
+## 2026-03-14T23:16:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full survey of topics/, concepts/, tenets/, apex/, voids/ with deep reading of 14 unhighlighted articles
+- **Output**: [optimistic-2026-03-14-night](/reviews/optimistic-2026-03-14-night/)
+
+## 2026-03-14T23:06:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [luck-objection](/concepts/luck-objection/)
+- **Word count**: 1821 → 1841 (+20)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-14-luck-objection](/reviews/deep-review-2026-03-14-luck-objection/)
+
+## 2026-03-14T22:56:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [neurophenomenology](/concepts/neurophenomenology/)
+- **Word count**: 1878 → ~1850 (-28)
+- **Critical issues addressed**: 3 (duplicate frontmatter, duplicate Further Reading, incomplete reference)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article has converged; data quality fixes only)
+- **Output**: [deep-review-2026-03-14-neurophenomenology](/reviews/deep-review-2026-03-14-neurophenomenology/)
+
+## 2026-03-14T22:46:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [the-interface-location-problem](/topics/the-interface-location-problem/)
+- **Word count**: 3214 → 3217 (+3)
+- **Critical issues addressed**: 2 (wrong first author Kaeser→Cai for dopamine paper; false quotation of dopamine study findings)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added volume/page numbers to Cai et al. reference)
+- **Output**: [deep-review-2026-03-14-the-interface-location-problem](/reviews/deep-review-2026-03-14-the-interface-location-problem/)
+
+## 2026-03-14T22:36:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [pairing-problem](/concepts/pairing-problem/)
+- **Word count**: 2214 → 2214 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-14-pairing-problem](/reviews/deep-review-2026-03-14-pairing-problem/)
+- **Notes**: Third review confirms stability. No content changes since last review (2026-02-03). Article has converged.
+
+## 2026-03-14T22:26:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/)
+- **Changes**: Distinguished embodied cognition (physicalist) from embodied consciousness (dualist territory); added citations for motor dissociations, interoception, conceptual metaphor; hedged AI claims; rewrote dualism tenet section
+- **Published**: yes
+
+## 2026-03-14T22:21:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: voids/embodiment-cognitive-limits.md, concepts/galilean-exclusion.md, voids/scale-void.md
+- **Output**: [pessimistic-2026-03-14-night](/reviews/pessimistic-2026-03-14-night/)
+
 ## 2026-03-14T22:05:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [consciousness-evolution-problem](/topics/consciousness-evolution-problem/)
