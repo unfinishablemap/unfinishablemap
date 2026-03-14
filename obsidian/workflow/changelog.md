@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T00:24:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/perceptual-failure-and-the-interface]]
+- **Word count**: 2767 → 2774 (+7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 2
+- **Output**: [[reviews/deep-review-2026-03-14-perceptual-failure-and-the-interface]]
+
 ## 2026-03-13T23:30:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/islamic-sufi-philosophy-of-consciousness]]

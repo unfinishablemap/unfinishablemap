@@ -608,12 +608,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-12
 
-### P2: Deep review perceptual-failure-and-the-interface.md
-- **Type**: deep-review
-- **Notes**: Created by coalesce on 2026-03-13 (merged perceptual-degradation + perceptual-fidelity). Never reviewed as a unified article. Topics article on how perceptual failures reveal the consciousness-brain interface architecture. Verify coherence after merge, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-13
-
 ### P3: Deep review brain-specialness-boundary.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on what makes brains special as sites for consciousness-matter interaction — directly relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence, cross-references, and tenet alignment.
@@ -649,6 +643,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Deep review perceptual-failure-and-the-interface.md
+- **Type**: deep-review
+- **Notes**: Created by coalesce on 2026-03-13 (merged perceptual-degradation + perceptual-fidelity). Never reviewed as a unified article. Topics article on how perceptual failures reveal the consciousness-brain interface architecture. Verify coherence after merge, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/perceptual-failure-and-the-interface.md
 
 ### ✓ 2026-03-13: Integrate islamic-sufi-philosophy-of-consciousness.md into site navigation
 - **Type**: integrate-orphan
