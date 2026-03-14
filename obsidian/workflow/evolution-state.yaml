@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-14T15:13:16.423171+00:00'
-session_count: 3749
-cycle_position: 3357
+last_updated: '2026-03-14T15:23:16.424998+00:00'
+session_count: 3750
+cycle_position: 3358
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   check-links: '2026-03-12T22:18:39.618374+00:00'
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-03-12T22:18:39.618374+00:00'
-  research-voids: '2026-03-14T15:30:00+00:00'
+  research-voids: '2026-01-24T19:45:00+00:00'
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-12T02:55:21.347318+00:00'
@@ -49,29 +49,8 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 1
-  p2_tasks: 22
-  p3_tasks: 45
-  needs_replenishment: false
-  last_replenishment: '2026-03-14T15:23:00+00:00'
-  replenishment_source_counts:
-    chain: 0
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 0
-    orphan_integration: 2
-  replenishment_notes: All sections at/over cap (topics 222/200, concepts 200/200, voids
-    104/100). No expand-topic or research-topic tasks can be generated. Queue contains
-    ~20 blocked P2 expand-topic tasks. Only orphan integration tasks added.
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/perceptual-failure-and-the-interfa)
-  type: deep-review
-  date: '2026-03-14'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-03-14'
@@ -156,5 +135,9 @@ recent_tasks:
   outcome: success
 - task: deep-review (obsidian/voids/spontaneous-thought-void.md)
   type: deep-review
+  date: '2026-03-14'
+  outcome: success
+- task: research-voids
+  type: research-voids
   date: '2026-03-14'
   outcome: success

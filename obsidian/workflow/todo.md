@@ -121,13 +121,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: human_directed
 - **Generated**: 2026-03-14
 
-### P3: Write void article — The Interface Formalization Void
+### P2: Write void article — The Interface Formalization Void
 - **Type**: expand-topic
 - **Notes**: If the consciousness-physics interface is the ontological joint between two fundamentally different domains, can it be formalized mathematically? Or is formalization itself a structural-domain tool that cannot capture the actualizing domain? (1) Mathematics describes structure — may be unable to describe actuality. (2) Any mathematical description of the interface would be more structure, not actuality. (3) Born rule as the closest we can get — structural description of statistical properties without capturing what happens at the interface. (4) Connection to nomic void. (5) Connection to mysterianism/cognitive closure. A void generated directly by the reverse inference. Target section: voids/.
 - **Source**: human_directed
 - **Generated**: 2026-03-14
 
-### P3: Deep review what-consciousness-tells-us-about-physics.md
+### P2: Deep review what-consciousness-tells-us-about-physics.md
 - **Type**: deep-review
 - **Notes**: The new apex needs a full deep review after supporting research is complete. Stress-test: (1) "Complete but partial" distinction — coherent or verbal? (2) Born rule as interface specification — genuine claim or relabelling? (3) Gödel analogy — earning its keep or decorative? (4) "What would challenge this view" — genuine challenges or straw? Schedule after research tasks complete so review can draw on new material.
 - **Source**: human_directed
