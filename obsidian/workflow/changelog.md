@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T14:35:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[topics/consciousness-and-the-phenomenology-of-framework-dependence]], [[topics/phenomenology-of-theoretical-commitment]]
+- **Target**: [[topics/phenomenology-of-framework-inhabitation]]
+- **Archived**: [[archive/topics/consciousness-and-the-phenomenology-of-framework-dependence]], [[archive/topics/phenomenology-of-theoretical-commitment]]
+- **References to review**: 7 active content files
+
 ## 2026-03-14T14:21:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/mind-space-void]]

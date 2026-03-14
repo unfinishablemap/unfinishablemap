@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced framework-dependence and theoretical-commitment articles
+- **Type**: refine-draft
+- **Notes**: Coalesce created phenomenology-of-framework-inhabitation.md from consciousness-and-the-phenomenology-of-framework-dependence and phenomenology-of-theoretical-commitment. The following active files reference the archived articles and may need wikilink updates: consciousness-and-the-structure-of-scientific-revolutions.md, duhem-quine-underdetermination-consciousness.md, phenomenology-of-philosophical-disagreement.md, consciousness-and-the-problem-of-theoretical-virtues.md, consciousness-and-the-problem-of-philosophical-progress.md, phenomenology-of-epistemic-judgment.md
+- **Source**: coalesce
+- **Generated**: 2026-03-14
+
 ### P2: Deep review the-surplus-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the surplus void — experiential content that exceeds what physical processes predict. Never received a deep review since creation. Verify coherence, cross-references, and tenet alignment.

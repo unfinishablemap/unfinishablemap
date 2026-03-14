@@ -6,6 +6,11 @@ modified: 2026-02-21
 human_modified:
 ai_modified: 2026-03-05T11:19:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-14T14:35:00+00:00
+superseded_by: "/topics/phenomenology-of-framework-inhabitation/"
+archive_reason: "Coalesced into The Phenomenology of Framework Inhabitation"
+original_path: "/topics/phenomenology-of-theoretical-commitment/"
 topics:
   - "[[phenomenology-of-conceptual-change]]"
   - "[[phenomenology-of-epistemic-judgment]]"

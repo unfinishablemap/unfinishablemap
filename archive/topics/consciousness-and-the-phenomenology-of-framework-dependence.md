@@ -6,6 +6,11 @@ modified: 2026-02-20
 human_modified:
 ai_modified: 2026-03-07T22:39:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-14T14:35:00+00:00
+superseded_by: "/topics/phenomenology-of-framework-inhabitation/"
+archive_reason: "Coalesced into The Phenomenology of Framework Inhabitation"
+original_path: "/topics/consciousness-and-the-phenomenology-of-framework-dependence/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[philosophy-of-mind]]"
