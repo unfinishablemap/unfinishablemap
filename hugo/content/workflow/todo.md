@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Research Wheeler's participatory universe and "it from bit"
-- **Type**: research-topic
-- **Notes**: The apex's reverse inference connects to Wheeler's programme but goes further. Research: (1) Wheeler's delayed-choice experiments and temporal ontology implications. (2) "It from bit" — information more fundamental than matter. How relates to the Map's "actuality from consciousness"? (3) "Participatory universe" — observers necessary for universe to exist. The Map is more modest (consciousness selects outcomes, not creates reality). (4) Wheeler's 20 questions analogy. (5) Zurek's response (quantum Darwinism) — objectivity without observers. (6) Fuchs's participatory realism as heir to Wheeler. Position the Map relative to Wheeler: more specific, more modest, more constrained by tenets. Target: research note.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
-### P1: Research Penrose gravity-collapse connection and empirical prospects
-- **Type**: research-topic
-- **Notes**: The apex mentions Penrose linking collapse to gravitational self-energy as a source of empirical predictions. Deep dive: (1) Penrose objective reduction — one-graviton criterion, superposition of spacetimes. (2) Diósi-Penrose model — specific collapse rate predictions. (3) Current experimental status — germanium detector experiments, Vinante et al. constraints. (4) MAQRO space mission proposal for microgravity testing. (5) How consciousness-modulated Penrose collapse might differ from pure gravitational collapse — are there divergent regimes? (6) Orch OR's specific predictions about microtubule coherence timescales. Most promising avenue for the reverse inference to generate empirically distinguishable predictions. Target: research note.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P2: Research the Gödel-measurement problem analogy — scope and limits
 - **Type**: research-topic
 - **Notes**: The apex draws an analogy between Gödel incompleteness and the measurement problem. Needs rigorous treatment: (1) Penrose's use of Gödel in Shadows of the Mind. (2) Lucas-Penrose argument and critics (Putnam, Feferman, Shapiro). (3) Precise scope: formal incompleteness involves self-reference; does the measurement problem? (4) Chaitin's incompleteness via algorithmic randomness. (5) Where the analogy breaks: Gödel is about provability; measurement problem is about determinism. Genuinely analogous or superficially similar? (6) Yanofsky's "Outer Limits of Reason" on structural limits across domains. Target: research note.
@@ -132,12 +120,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: integrate-orphan
 - **Notes**: Arguments article (created 2026-01-15) has zero inbound wikilinks despite being a core argument page. Add cross-references from epiphenomenalism.md, the-epiphenomenalist-threat.md, mental-causation.md, and related articles.
 - **Source**: orphan_integration
-- **Generated**: 2026-03-14
-
-### P1: Research retrocausal selection model for consciousness-physics interaction
-- **Type**: research-topic
-- **Notes**: Explore the retrocausal/transactional model of consciousness-physics interaction: consciousness selects which transaction between offer waves (forward) and confirmation waves (backward) is actualized, per the Transactional Interpretation (Cramer) and Two-State Vector Formalism (Aharonov). Key questions: (1) Does atemporal selection resolve the Libet timing problem? (2) How does Wheeler's delayed-choice support this model? (3) What does consciousness-as-transaction-selector imply about the nature of time? (4) How does this connect to the growing-block time apex? Research Cramer (2022), Kastner's possibilist TI, Aharonov's weak values, and Price's retrocausality arguments. Target: research note for potential future apex or topic article.
-- **Source**: human_directed
 - **Generated**: 2026-03-14
 
 ### P2: Write article on dreams, problem-solving, and conscious influence
@@ -749,6 +731,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Research retrocausal selection model for consciousness-physics interaction
+- **Type**: research-topic
+- **Notes**: Explore the retrocausal/transactional model of consciousness-physics interaction: consciousness selects which transaction between offer waves (forward) and confirmation waves (backward) is actualized, per the Transactional Interpretation (Cramer) and Two-State Vector Formalism (Aharonov). Key questions: (1) Does atemporal selection resolve the Libet timing problem? (2) How does Wheeler's delayed-choice support this model? (3) What does consciousness-as-transaction-selector imply about the nature of time? (4) How does this connect to the growing-block time apex? Research Cramer (2022), Kastner's possibilist TI, Aharonov's weak values, and Price's retrocausality arguments. Target: research note for potential future apex or topic article.
+- **Output**: retrocausal selection model for consciousness-physics interaction
+
+### ✓ 2026-03-14: Research Penrose gravity-collapse connection and empirical prospects
+- **Type**: research-topic
+- **Notes**: The apex mentions Penrose linking collapse to gravitational self-energy as a source of empirical predictions. Deep dive: (1) Penrose objective reduction — one-graviton criterion, superposition of spacetimes. (2) Diósi-Penrose model — specific collapse rate predictions. (3) Current experimental status — germanium detector experiments, Vinante et al. constraints. (4) MAQRO space mission proposal for microgravity testing. (5) How consciousness-modulated Penrose collapse might differ from pure gravitational collapse — are there divergent regimes? (6) Orch OR's specific predictions about microtubule coherence timescales. Most promising avenue for the reverse inference to generate empirically distinguishable predictions. Target: research note.
+- **Output**: Penrose gravity-collapse connection and empirical prospects
+
+### ✓ 2026-03-14: Research Wheeler's participatory universe and "it from bit"
+- **Type**: research-topic
+- **Notes**: The apex's reverse inference connects to Wheeler's programme but goes further. Research: (1) Wheeler's delayed-choice experiments and temporal ontology implications. (2) "It from bit" — information more fundamental than matter. How relates to the Map's "actuality from consciousness"? (3) "Participatory universe" — observers necessary for universe to exist. The Map is more modest (consciousness selects outcomes, not creates reality). (4) Wheeler's 20 questions analogy. (5) Zurek's response (quantum Darwinism) — objectivity without observers. (6) Fuchs's participatory realism as heir to Wheeler. Position the Map relative to Wheeler: more specific, more modest, more constrained by tenets. Target: research note.
+- **Output**: Wheeler's participatory universe and "it from bit"
 
 ### ✓ 2026-03-14: Research the Born rule — derivation attempts and their limits
 - **Type**: research-topic

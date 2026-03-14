@@ -18,6 +18,40 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T18:01:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Retrocausal selection model for consciousness-physics interaction
+- **Output**: [retrocausal-selection-consciousness-physics-2026-03-14](/research/retrocausal-selection-consciousness-physics-2026-03-14/)
+- **Sources consulted**: 14
+
+## 2026-03-14T16:19:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
+- **Word count**: 2355 → 2407 (+52)
+- **Critical issues addressed**: 3 (misattribution Bengson→Rajan et al., 2 missing references)
+- **Medium issues addressed**: 2 (choking overstatement, missing in-text Lhermitte citation)
+- **Enhancements made**: 0 (article approaching stability; fixes were mechanical)
+- **Output**: [deep-review-2026-03-14-phenomenology-of-agency-vs-passivity](/reviews/deep-review-2026-03-14-phenomenology-of-agency-vs-passivity/)
+
+## 2026-03-14T16:09:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Penrose gravity-collapse connection and empirical prospects
+- **Output**: [penrose-gravity-collapse-empirical-2026-03-14](/research/penrose-gravity-collapse-empirical-2026-03-14/)
+- **Sources consulted**: 12
+
+## 2026-03-14T15:59:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Wheeler's "it from bit" and information ontology
+- **Output**: [wheeler-it-from-bit-2026-03-14](/research/wheeler-it-from-bit-2026-03-14/)
+- **Sources consulted**: 11
+
+## 2026-03-14T15:51:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [time-consciousness-growing-block](/apex/time-consciousness-growing-block/)
+- **Changed sources**: 2 (temporal-consciousness, collapse-and-time)
+- **Word count**: ~4100 → ~4250
+- **Review**: [apex-evolve-2026-03-14-time-consciousness-growing-block](/reviews/apex-evolve-2026-03-14-time-consciousness-growing-block/)
+
 ## 2026-03-14T15:43:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The Born rule — derivation attempts and their limits
