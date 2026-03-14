@@ -113,6 +113,8 @@ Examples:
 >
 > Southgate, A. (2026-02-28). The Hard Problem of Consciousness. *The Unfinishable Map*.
 
+Our preprint **[[agentic-philosophy-adversarial-self-review|Agentic Philosophy Through Adversarial Self-Review]]** describes the Map's architecture and methodology — available on [PhilPapers](https://philpapers.org/rec/SOUTUM).
+
 ---
 
 <p style="font-size: 1.5rem; display: flex; gap: 1rem; justify-content: center; margin: 1.5rem 0;">
