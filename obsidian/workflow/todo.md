@@ -611,12 +611,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Consolidate recent advances in biological quantum effects (photosynthesis, magnetoreception, enzyme catalysis) as precedent for neural quantum effects. See optimistic-2026-03-13.md
 
-### P2: Strengthen zombie world tension analysis in consciousness-and-the-metaphysics-of-laws.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-03-14) found medium-severity issue: the "conditional necessity" resolution of the tension between dispositional essentialism (essential natures are necessary) and zombie arguments (consciousness is contingent given physical facts) is underdeveloped. If phenomenal properties are contingent relative to physical facts, they cannot be fundamental properties in the same sense as charge — this undermines the dispositional essentialist analogy. Either develop the conditional necessity argument more rigorously or acknowledge this tension may favour the governing laws view. See pessimistic-2026-03-14.md
-- **Source**: chain (from pessimistic-2026-03-14.md)
-- **Generated**: 2026-03-14
-
 ### P3: Deep review phenomenology-of-error-recognition.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 41 days ago. Voids article on how the capacity to recognise errors reveals consciousness's causal role. Verify coherence, cross-references, and tenet alignment.
@@ -658,6 +652,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Strengthen zombie world tension analysis in consciousness-and-the-metaphysics-of-laws.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-03-14) found medium-severity issue: the "conditional necessity" resolution of the tension between dispositional essentialism (essential natures are necessary) and zombie arguments (consciousness is contingent given physical facts) is underdeveloped. If phenomenal properties are contingent relative to physical facts, they cannot be fundamental properties in the same sense as charge — this undermines the dispositional essentialist analogy. Either develop the conditional necessity argument more rigorously or acknowledge this tension may favour the governing laws view. See pessimistic-2026-03-14.md
+- **Output**: obsidian/topics/consciousness-and-the-metaphysics-of-laws.md
+
+Task context:
+Pessimistic review (2026-03-14) found medium-severity issue: the "conditional necessity" resolution of the tension between dispositional essentialism (essential natures are necessary) and zombie arguments (consciousness is contingent given physical facts) is underdeveloped. If phenomenal properties are contingent relative to physical facts, they cannot be fundamental properties in the same sense as charge — this undermines the dispositional essentialist analogy. Either develop the conditional necessity argument more rigorously or acknowledge this tension may favour the governing laws view. See pessimistic-2026-03-14.md
 
 ### ✓ 2026-03-14: Address BOLD-fMRI claims and REBUS appropriation in altered-states-as-void-probes.md
 - **Type**: refine-draft
