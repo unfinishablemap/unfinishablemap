@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T15:51:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/time-consciousness-growing-block]]
+- **Changed sources**: 2 (temporal-consciousness, collapse-and-time)
+- **Word count**: ~4100 → ~4250
+- **Review**: [[reviews/apex-evolve-2026-03-14-time-consciousness-growing-block]]
+
 ## 2026-03-14T15:43:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: The Born rule — derivation attempts and their limits
