@@ -4,7 +4,7 @@ description: "Why indeterminism seems to threaten free will as much as determini
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-03-12T00:44:00+00:00
+ai_modified: 2026-03-14T23:06:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-03-12T00:44:00+00:00
+last_deep_review: 2026-03-14T23:06:00+00:00
 ---
 
 The luck objection is the most persistent challenge to libertarian [[concept-of-free-will|free will]]. While much philosophical debate focuses on whether determinism threatens freedom, a long line of philosophers argue that *indeterminism* is equally fatal. If choices aren't causally predetermined, they must be random—and random choices aren't more "free" than determined ones. They're just arbitrary.
@@ -96,7 +96,7 @@ The [[mental-effort|phenomenology of effort]] supports selection. If choices wer
 
 ### The Zombie Objection
 
-A critic might object that a [[philosophical-zombies|philosophical zombie]] would report the same "felt effort" without actual phenomenology. But this is question-begging against the Map's framework. The [[tenets#^dualism|Dualism]] tenet rejects that zombies are possible—if consciousness is irreducible to physical processes, beings physically identical to us cannot lack experience. The zombie objection requires assuming physicalism, the very view the Map rejects. Given dualist commitments grounded in the [[hard-problem-of-consciousness|hard problem]] and [[knowledge-argument|knowledge argument]], phenomenology *is* evidential.
+A critic might object that a [[philosophical-zombies|philosophical zombie]] would report the same "felt effort" without actual phenomenology. But this is question-begging against the Map's framework. Under the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, consciousness causally shapes physical processes—our neural states are partly caused by consciousness, so a being with identical neural states but no consciousness is not genuinely possible. The zombie objection assumes consciousness is epiphenomenal, the very position the Map rejects. We know by direct acquaintance that our phenomenology is real, grounded in the [[hard-problem-of-consciousness|hard problem]] and [[knowledge-argument|knowledge argument]]—and given [[tenets#^dualism|dualist]] commitments, phenomenology *is* evidential.
 
 ### Reasons-Guided Selection
 
