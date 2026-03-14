@@ -67,12 +67,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: orphan_integration
 - **Generated**: 2026-03-13
 
-### P3: Deep review questioning-as-evidence.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-31 — 39 days ago. Voids article on how the capacity to question experience serves as evidence for consciousness. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P3: Deep review continual-learning-argument.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-02 — 37 days ago. Concept page on the continual learning argument for consciousness, relevant to AI consciousness cluster. Verify coherence, cross-references, and tenet alignment.
@@ -679,6 +673,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Deep review questioning-as-evidence.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-31 — 39 days ago. Voids article on how the capacity to question experience serves as evidence for consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/questioning-as-evidence.md
 
 ### ✓ 2026-03-14: Deep review natural-vs-designed-limits.md
 - **Type**: deep-review
