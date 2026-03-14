@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T15:43:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Born rule — derivation attempts and their limits
+- **Output**: [[born-rule-derivation-attempts-2026-03-14]]
+- **Sources consulted**: 17
+
 ## 2026-03-14T15:33:00+00:00 - research-topic
 - **Status**: Success
 - **Topic**: Bi-aspectual ontology and dual-aspect traditions

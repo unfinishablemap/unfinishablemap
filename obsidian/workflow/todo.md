@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Research the Born rule — derivation attempts and their limits
-- **Type**: research-topic
-- **Notes**: The apex claims the Born rule is an interface specification not derivable from physics alone. Research major derivation attempts and their structural limits: (1) Gleason's theorem — assumptions, does it presuppose measurement? (2) Deutsch-Wallace decision-theoretic derivation within MWI — circularity objections. (3) Zurek's envariance — presupposes Born probabilities via decoherence? (4) Caves-Fuchs-Schack (QBism) from Dutch-book coherence — what does it prove? (5) Masanes-Müller information-theoretic axioms. (6) Saunders on probability in MWI. For each: what achieved, what assumed, does it address the first-person probability gap from quantum-probability-consciousness? Directly supports the apex's core claim. Target: research note.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P1: Research Wheeler's participatory universe and "it from bit"
 - **Type**: research-topic
 - **Notes**: The apex's reverse inference connects to Wheeler's programme but goes further. Research: (1) Wheeler's delayed-choice experiments and temporal ontology implications. (2) "It from bit" — information more fundamental than matter. How relates to the Map's "actuality from consciousness"? (3) "Participatory universe" — observers necessary for universe to exist. The Map is more modest (consciousness selects outcomes, not creates reality). (4) Wheeler's 20 questions analogy. (5) Zurek's response (quantum Darwinism) — objectivity without observers. (6) Fuchs's participatory realism as heir to Wheeler. Position the Map relative to Wheeler: more specific, more modest, more constrained by tenets. Target: research note.
@@ -754,6 +748,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Research the Born rule — derivation attempts and their limits
+- **Type**: research-topic
+- **Notes**: The apex claims the Born rule is an interface specification not derivable from physics alone. Research major derivation attempts and their structural limits: (1) Gleason's theorem — assumptions, does it presuppose measurement? (2) Deutsch-Wallace decision-theoretic derivation within MWI — circularity objections. (3) Zurek's envariance — presupposes Born probabilities via decoherence? (4) Caves-Fuchs-Schack (QBism) from Dutch-book coherence — what does it prove? (5) Masanes-Müller information-theoretic axioms. (6) Saunders on probability in MWI. For each: what achieved, what assumed, does it address the first-person probability gap from quantum-probability-consciousness? Directly supports the apex's core claim. Target: research note.
+- **Output**: the Born rule — derivation attempts and their limits
 
 ### ✓ 2026-03-14: Research bi-aspectual ontology and dual-aspect traditions
 - **Type**: research-topic
