@@ -44,18 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-13
 
-### P3: Deep review language-thought-boundary.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 40 days ago. Voids article on where thought exceeds language — visual cognition, qualia, and the limits of articulation. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-13
-
-### P3: Deep review ai-as-void-explorer.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 40 days ago. Voids article on whether artificial minds can probe cognitive territories closed to humans. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-13
-
 ### P3: Deep review destabilizing-self-knowledge.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 40 days ago. Voids article on truths about consciousness that may be structurally inaccessible because grasping them would dissolve the knower. Verify coherence, cross-references, and tenet alignment.
@@ -644,6 +632,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Address "powers as redescription" gap in causal-powers.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the article acknowledges causal powers may "merely redescribe" consciousness affecting the brain, but never establishes what the concept adds beyond redescription. Needs explicit argument for what powers realism contributes (metaphysical coherence, ruling out epiphenomenalism, connecting to dispositional framework). See pessimistic-2026-03-14.md, Issue 3.
+- **Output**: obsidian/concepts/causal-powers.md
+
+Task context:
+Pessimistic review found that the article acknowledges causal powers may "merely redescribe" consciousness affecting the brain, but never establishes what the concept adds beyond redescription. Needs explicit argument for what powers realism contributes (metaphysical coherence, ruling out epiphenomenalism, connecting to dispositional framework). See pessimistic-2026-03-14.md, Issue 3.
+
+### ✓ 2026-03-14: Deep review ai-as-void-explorer.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 40 days ago. Voids article on whether artificial minds can probe cognitive territories closed to humans. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/ai-as-void-explorer.md
+
+### ✓ 2026-03-14: Deep review language-thought-boundary.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 40 days ago. Voids article on where thought exceeds language — visual cognition, qualia, and the limits of articulation. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/language-thought-boundary.md
 
 ### ✓ 2026-03-14: Deep review perceptual-failure-and-the-interface.md
 - **Type**: deep-review

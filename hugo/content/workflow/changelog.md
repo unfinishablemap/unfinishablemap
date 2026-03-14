@@ -18,6 +18,35 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T05:23:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [causal-powers](/concepts/causal-powers/)
+- **Changes**: Expanded redescription objection with three substantive arguments (metaphysical coherence, ruling out epiphenomenalism, dispositional framework connection); fixed presumptive language
+- **Published**: yes
+
+## 2026-03-14T04:24:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: voids/altered-states-as-void-probes.md, topics/consciousness-and-the-metaphysics-of-laws.md, concepts/causal-powers.md
+- **Output**: [pessimistic-2026-03-14](/reviews/pessimistic-2026-03-14/)
+
+## 2026-03-14T03:21:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [ai-as-void-explorer](/voids/ai-as-void-explorer/)
+- **Word count**: 2062 → 2055 (-7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-14-ai-as-void-explorer](/reviews/deep-review-2026-03-14-ai-as-void-explorer/)
+
+## 2026-03-14T02:23:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [language-thought-boundary](/voids/language-thought-boundary/)
+- **Word count**: 2071 → 2069 (-2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-14-language-thought-boundary](/reviews/deep-review-2026-03-14-language-thought-boundary/)
+
 ## 2026-03-14T01:22:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [phenomenological-evidence](/concepts/phenomenological-evidence/)

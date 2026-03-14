@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-02-25 20:55:00+00:00
+ai_modified: 2026-03-14 05:23:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -40,7 +40,7 @@ One central debate distinguishes two kinds of properties:
 
 **Causal powers** (or dispositional properties) are essentially directed toward their manifestations. Fragility isn't just "whatever breaks under pressure"—it's the intrinsic tendency *to* break under pressure. The power contains reference to its effect within its nature. Solubility is the disposition to dissolve in water; charge is the power to attract or repel other charged objects.
 
-**Powers realism** holds that at least some fundamental properties are dispositional—causal powers all the way down. **Categoricalism** holds that fundamental properties are categorical, with causal structure imposed by laws. **Neutral monism about properties** (or the identity theory of properties) holds that fundamental properties are neither purely categorical nor purely dispositional but have both aspects—a qualitative nature and a causal role simultaneously. Martin and Heil call these "powerful qualities." While this view has appeal, the Map favours powers realism because the mind-body problem requires that phenomenal properties make a genuine causal contribution: the question is not whether consciousness has a qualitative character (it obviously does) but whether that character comes with irreducible causal power. See [the ontology of dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) for how each position in this debate generates different accounts of where consciousness fits.
+**Powers realism** holds that at least some fundamental properties are dispositional—causal powers all the way down. **Categoricalism** holds that fundamental properties are categorical, with causal structure imposed by laws. **Neutral monism about properties** (or the identity theory of properties) holds that fundamental properties are neither purely categorical nor purely dispositional but have both aspects—a qualitative nature and a causal role simultaneously. Martin and Heil call these "powerful qualities." While this view has appeal, the Map favours powers realism because its commitments entail that phenomenal properties make a genuine causal contribution: the question is not whether consciousness has a qualitative character (it obviously does) but whether that character comes with irreducible causal power. See [the ontology of dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) for how each position in this debate generates different accounts of where consciousness fits.
 
 This debate matters for the mind-body problem. If consciousness has causal powers, are those powers fundamental dispositions (irreducible capacities to affect neural processes) or derivative patterns grounded in more basic categorical facts? The Unfinishable Map's commitment to [interactionist-dualism](/concepts/interactionist-dualism/) suggests treating phenomenal states as possessing genuine causal powers rather than merely accompanying physical dispositions.
 
@@ -80,7 +80,15 @@ The [minimal quantum interaction tenet](/tenets/#minimal-quantum-interaction) sp
 
 The dispositional essentialist framework fits the Map's approach: if phenomenal properties have essential dispositional natures, then consciousness necessarily possesses certain causal powers. The [psychophysical-laws](/concepts/psychophysical-laws/) governing mental-physical interaction would express the essential natures of phenomenal properties rather than being contingent add-ons. This grounds the causal efficacy of consciousness in the intrinsic nature of experience itself.
 
-A fair objection: does attributing "causal powers" to consciousness genuinely explain anything, or merely redescribe the claim that consciousness affects the brain? For physical properties like charge, powers talk is substantive because the powers are empirically characterised—Coulomb's law specifies exactly how charge behaves. Consciousness's powers lack this precision. The Map acknowledges this gap. The powers framework does not by itself explain *how* consciousness biases quantum outcomes; it provides the metaphysical category under which such influence falls (see [causal-closure](/concepts/causal-closure/) on how quantum indeterminacy makes room for this). The empirical characterisation of mental causal powers remains an open challenge—one that the Map addresses through the constraints developed in [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/).
+A fair objection: does attributing "causal powers" to consciousness genuinely explain anything, or merely redescribe the claim that consciousness affects the brain? The objection has force, but powers realism does substantive work that bare redescription does not.
+
+First, it provides **metaphysical coherence**. Without a powers framework, interactionism faces the question: *in virtue of what* does consciousness affect neural processes? Saying "it just does" is brute; saying "consciousness possesses dispositional properties directed toward neural manifestations" locates mental causation within a well-developed metaphysical category that already handles causation elsewhere in nature. The claim becomes structurally continuous with how charge attracts, how mass gravitates—not identical in empirical precision, but the same kind of metaphysical relation.
+
+Second, powers realism **rules out epiphenomenalism as a coherent option**. If phenomenal properties are genuine causal powers—dispositional properties essentially directed toward effects—then a conscious state that produces no effects is metaphysically impossible, not merely empirically unlikely. Epiphenomenalism requires that consciousness be a categorical property or a mere accompaniment to physical dispositions. Powers realism denies this: to *be* a phenomenal property is to *have* certain causal capacities. This is a substantive metaphysical commitment, not a restatement of the conclusion.
+
+Third, it **connects consciousness to the broader dispositional framework** that grounds all natural causation. If fundamental physical properties are powers (as dispositional essentialism holds), then phenomenal powers are not a special exception bolted onto an otherwise categorical world. Consciousness participates in the same ontological structure as everything else that causes anything. This matters because the strongest objection to interactionism has always been that mental causation is *sui generis*—unlike anything else in nature. Powers realism dissolves that objection by showing it is not.
+
+The Map acknowledges what powers realism does *not* do: it does not by itself specify *how* consciousness biases quantum outcomes, nor does it provide the empirical precision of Coulomb's law for charge. The empirical characterisation of mental causal powers remains an open challenge—one that the Map addresses through the constraints developed in [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) and the account of quantum indeterminacy in [causal-closure](/concepts/causal-closure/).
 
 For the broader question of mental causation, see [mental-causation](/concepts/mental-causation/) and [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/). For how causal powers ground agent-causal accounts, see [agent-causation](/concepts/agent-causation/).
 
@@ -104,3 +112,13 @@ Ellis, B. (2001). *Scientific Essentialism*. Cambridge University Press.
 Lewis, D. (1997). "Finkish Dispositions." *The Philosophical Quarterly* 47(187): 143-158.
 
 Martin, C.B. (1994). "Dispositions and Conditionals." *The Philosophical Quarterly* 44(174): 1-8.
+
+<!-- AI REFINEMENT LOG - 2026-03-14
+Changes made:
+- Expanded redescription objection response (Relation to Site Perspective) with three substantive arguments: metaphysical coherence, ruling out epiphenomenalism, connecting to dispositional framework
+- Fixed language: "mind-body problem requires" → "its commitments entail" (less presumptive phrasing)
+
+Addressed pessimistic review Issue 3 (High severity): article acknowledged powers may "merely redescribe" but never argued for what they add.
+
+This log should be removed after human review.
+-->

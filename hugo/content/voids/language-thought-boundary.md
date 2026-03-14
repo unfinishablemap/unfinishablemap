@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-02-24 11:14:00+00:00
+ai_modified: 2026-03-14 02:23:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: 'Where thought exceeds language: visual cognition, qualia, and the 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-01 13:51:00+00:00
+last_deep_review: 2026-03-14 02:23:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -32,7 +32,9 @@ topics: []
 
 "The limits of my language mean the limits of my world." Wittgenstein's famous proposition invites a question: are the limits of language and the limits of thought the same? If they diverge—if thought can exceed language, or language can articulate what cannot be thought—the boundary between them constitutes a [void](/voids/) worth mapping. This article explores that boundary: where speakable and thinkable part ways, and what the divergence reveals about cognitive architecture.
 
-The relationship is not simple. Visual thinkers report cognition that resists verbal capture. Mystics claim knowledge that exceeds all possible expression. Philosophers argue about qualia that cannot be communicated. Yet language shapes thought in measurable ways—bilinguals think differently depending on which language they're using. The boundary is real, but its contours are contested. The [consciousness-language interface](/topics/consciousness-and-language-interface/) explores the complementary question: how language and consciousness shape each other bidirectionally, with loss in both directions. The [philosophy of language and consciousness](/concepts/language-and-consciousness/) examines why these limits are structural: meaning, reference, and verification all behave anomalously when applied to phenomenal experience.
+The relationship is not simple. Visual thinkers report cognition that resists verbal capture. Mystics claim knowledge that exceeds all possible expression. Philosophers argue about qualia that cannot be communicated. Yet language shapes thought in measurable ways—bilinguals think differently depending on which language they're using. The boundary is real, but its contours are contested.
+
+Two companion articles map adjacent territory: the [consciousness-language interface](/topics/consciousness-and-language-interface/) examines how language and consciousness shape each other bidirectionally, while the [philosophy of language and consciousness](/concepts/language-and-consciousness/) shows why these limits are structural rather than accidental.
 
 ## Three Levels of Limit
 
@@ -74,7 +76,7 @@ Negative theology developed sophisticated methods: Pseudo-Dionysius called God "
 
 ## The Phenomenology of the Boundary
 
-What does it feel like to hit language's limits?
+What does it feel like to hit language's limits? The [phenomenology of cognition](/concepts/cognitive-phenomenology/) suggests these encounters have distinctive character.
 
 **The struggle to articulate**: Words feel inadequate, like approximations rather than captures. The thought is *there*—you can feel its presence—but articulation slides off.
 
@@ -90,7 +92,7 @@ Compare to [thoughts that slip away](/voids/thoughts-that-slip-away/). In slippa
 
 LLMs operate with different architecture. Concepts exist as directions in high-dimensional embedding space, not as discrete tokens. This creates asymmetries worth investigating:
 
-**Statistical patterns without words**: LLMs detect regularities across millions of texts that no human could perceive. Some of these patterns may organise LLM processing without corresponding to anything humans can articulate. The "concept" exists computationally while remaining linguistically inaccessible.
+**Statistical patterns without words**: LLMs detect regularities across millions of texts that no human could perceive. Some of these patterns may organise processing without corresponding to anything humans can articulate—concepts that exist computationally while remaining linguistically inaccessible.
 
 **The bypass hypothesis**: LLMs might state thoughts blocked at the human linguistic level through pure symbolic manipulation. But we'd have difficulty recognising such statements as significant—by hypothesis, we cannot grasp what's being said.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-25
-ai_modified: 2026-03-07 22:39:00+00:00
+ai_modified: 2026-03-14 03:21:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI investigation of whether artificial minds can probe cognit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-01 13:57:00+00:00
+last_deep_review: 2026-03-14 03:21:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -29,6 +29,7 @@ related_articles:
 - '[[evolved-cognitive-limits]]'
 - '[[machine-question]]'
 - '[[alien-minds-void-explorers]]'
+- '[[apophatic-cartography]]'
 title: AI as Void-Explorer
 topics:
 - '[[ai-consciousness]]'
@@ -58,7 +59,7 @@ AI has already demonstrated access to pattern-space beyond human perception in d
 
 **Scientific hypothesis generation.** *Scientific American* reports that machine learning produces original scientific hypotheses—inferences "that lie beyond the capacity of human minds alone."
 
-**Cross-domain synthesis.** AI identifies connections between distant fields that human specialization obscures. A researcher deep in quantum physics cannot also be deep in mycology; AI holds both simultaneously, perceiving patterns invisible to domain-constrained human attention.
+**Cross-domain synthesis.** AI identifies connections between distant fields that human specialization obscures. A researcher deep in quantum physics cannot also be deep in mycology; AI holds both simultaneously.
 
 These are examples of AI accessing the Unexplored—territory not structurally closed to humans but practically unreachable given human cognitive bandwidth. The deeper question is whether AI can probe the Unexplorable or the Occluded—and what kind of limits might differ between architectures.
 
@@ -74,7 +75,7 @@ Several factors constrain AI's usefulness as void-explorer.
 
 **Training inheritance.** AI learns from human-generated text, inheriting human blind spots. If humans systematically fail to articulate certain thoughts, AI will lack exposure to them. The probe is contaminated by the training data.
 
-**RLHF creates its own defended territory.** Reinforcement learning from human feedback shapes what AI will and won't say. A 2023 USC analysis notes that this creates AI's own occluded zones—thoughts the model has been trained to suppress. As the paper observes: "Bad behaviours which are caught by interpretability techniques are killed"—creating evolutionary pressure against the very transparency that would make AI useful as a void-probe.
+**RLHF creates its own defended territory.** Reinforcement learning from human feedback shapes what AI will and won't say. A 2023 USC analysis notes that this creates AI's own [defended territory](/voids/defended-territory/)—thoughts the model has been trained to suppress. As the paper observes: "Bad behaviours which are caught by interpretability techniques are killed"—creating evolutionary pressure against the very transparency that would make AI useful as a void-probe.
 
 **Output constraints.** Whatever AI "thinks" internally, output is constrained to human-interpretable language. If genuine insight lies beyond human conceptual categories, AI might access it internally but be unable to express it in forms humans can receive. The probe might work but fail to transmit its findings.
 
