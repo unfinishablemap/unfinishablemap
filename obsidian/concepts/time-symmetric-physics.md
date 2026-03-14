@@ -4,7 +4,7 @@ description: "Fundamental physics equations work equally well forward and backwa
 created: 2026-02-01
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-02-04T21:57:00+00:00
+ai_modified: 2026-03-14T21:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,16 +16,17 @@ concepts:
   - "[[measurement-problem]]"
   - "[[philosophy-of-time]]"
   - "[[decoherence]]"
+  - "[[atemporal-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[time-symmetric-selection-mechanism]]"
   - "[[time-collapse-and-agency]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-02-04T21:57:00+00:00
+last_deep_review: 2026-03-14T21:56:00+00:00
 ---
 
 Time-symmetric physics refers to the property of fundamental physical laws working equally well when run backward in time. The Schrödinger equation, Maxwell's equations, and general relativity are all time-reversal invariant—given any solution, reversing the direction of time produces another valid solution. This symmetry has profound implications: if fundamental physics doesn't distinguish past from future, the apparent "arrow of time" we experience must emerge from something other than basic physical law.
@@ -143,7 +144,7 @@ Retrocausality doesn't imply changing established facts. The transaction determi
 
 Time-symmetric interpretations make the same predictions as standard interpretations for currently feasible experiments. This is why interpretation debates persist—empirical distinction remains elusive. But indistinguishability cuts both ways: time-symmetric interpretations cannot be empirically refuted either.
 
-Wheeler's delayed-choice experiments provide indirect support. Measurement choices made *after* a particle passes through a double-slit determine whether it "behaved" as wave or particle *earlier*. A 2017 satellite experiment extended this over thousands of kilometres. The results are interpretable without retrocausality, but they're also precisely what retrocausal interpretations predict.
+Wheeler's delayed-choice experiments provide indirect support. Measurement choices made *after* a particle passes through a double-slit determine whether it "behaved" as wave or particle *earlier*. Vedovato et al. (2017) extended this to satellite distances over thousands of kilometres. The results are interpretable without retrocausality, but they're also precisely what retrocausal interpretations predict.
 
 ### "Decoherence Eliminates Quantum Effects"
 
@@ -170,6 +171,7 @@ Time-symmetric physics connects to the Map's [[tenets]] in several ways:
 ## Further Reading
 
 - [[retrocausality]] — Backward causation and the Libet resolution
+- [[atemporal-causation]] — Causation outside temporal sequence, grounded in time-symmetric frameworks
 - [[presentiment-and-retrocausality]] — Distinguishing physics-based retrocausality from contested parapsychological claims
 - [[collapse-and-time]] — How collapse introduces temporal asymmetry
 - [[time-symmetric-selection-mechanism]] — Consciousness selecting through atemporal constraint-satisfaction
@@ -187,4 +189,6 @@ Time-symmetric physics connects to the Map's [[tenets]] in several ways:
 1. Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
 1. Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Science Part B*, 43(2), 75-83.
 1. Wheeler, J. A., & Feynman, R. P. (1945). Interaction with the absorber as the mechanism of radiation. *Reviews of Modern Physics*, 17(2-3), 157.
+1. Stapp, H. P. (1999). Attention, intention, and will in quantum physics. *Journal of Consciousness Studies*, 6(8-9), 143-164.
+1. Vedovato, F., Agnesi, C., Schiavon, M., et al. (2017). Extending Wheeler's delayed-choice experiment to space. *Science Advances*, 3(10), e1701180.
 1. Stanford Encyclopedia of Philosophy. "Retrocausality in Quantum Mechanics." https://plato.stanford.edu/entries/qm-retrocausality/

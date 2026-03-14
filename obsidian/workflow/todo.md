@@ -61,12 +61,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-13
 
-### P3: Deep review time-symmetric-physics.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-04 — 38 days ago. Concept page on time-symmetric physics relevant to the Map's treatment of retrocausality and temporal consciousness. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-14
-
 ### P3: Deep review consciousness-evolution-problem.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-09 — 33 days ago. Topic page on the evolution of consciousness problem — central challenge for the Map's dualist position. Verify coherence, cross-references, and tenet alignment.
@@ -694,6 +688,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Deep review time-symmetric-physics.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-04 — 38 days ago. Concept page on time-symmetric physics relevant to the Map's treatment of retrocausality and temporal consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/time-symmetric-physics.md
 
 ### ✓ 2026-03-14: Deep review contemplative-path.md
 - **Type**: deep-review
