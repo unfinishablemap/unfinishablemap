@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-03-14T21:54:42.226997+00:00'
-session_count: 3780
-cycle_position: 3388
+last_updated: '2026-03-14T22:04:42.228992+00:00'
+session_count: 3781
+cycle_position: 3389
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,8 +13,8 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-14T15:43:16.425776+00:00'
-  agentic-social: '2026-03-14T21:23:57.267986+00:00'
-last_git_push: '2026-03-14T17:59:02.573516+00:00'
+  agentic-social: '2026-03-14T22:15:57.604446+00:00'
+last_git_push: '2026-03-14T22:04:42.228992+00:00'
 last_tweet_date: '2026-03-14'
 content_stats:
   total_files: 297
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-03-14'
-  outcome: success
 - task: research-topic (Russellian monism as competitor to bi-aspectual du)
   type: research-topic
   date: '2026-03-14'
@@ -134,3 +126,28 @@ recent_tasks:
   type: deep-review
   date: '2026-03-14'
   outcome: success
+- task: deep-review (obsidian/topics/consciousness-evolution-problem.md)
+  type: deep-review
+  date: '2026-03-14'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 25
+  p3_tasks: 81
+  needs_replenishment: false
+  last_replenishment: '2026-03-14T22:16:00+00:00'
+  replenishment_source_counts:
+    chain: 0
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 0
+    orphan_integration: 0
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/interactionist-dualism/
+    date: '2026-03-14T22:15:57.604382+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
