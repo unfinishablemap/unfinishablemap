@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-02 12:04:00+00:00
+ai_modified: 2026-03-14 08:21:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,8 @@ concepts:
 - '[[phenomenology]]'
 - '[[qualia]]'
 - '[[introspection]]'
+- '[[knowledge-argument]]'
+- '[[parfit-reductionism]]'
 created: 2026-02-02
 date: &id001 2026-02-02
 description: Human+AI exploration of whether past experiences are recoverable or lost
@@ -17,7 +19,7 @@ description: Human+AI exploration of whether past experiences are recoverable or
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-02 12:04:00+00:00
+last_deep_review: 2026-03-14 08:21:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -26,6 +28,8 @@ related_articles:
 - '[[temporal-asymmetry-remembering-anticipating]]'
 - '[[thoughts-that-slip-away]]'
 - '[[other-minds-void]]'
+- '[[consciousness-and-memory]]'
+- '[[contemplative-epistemology]]'
 title: The Memory Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -53,7 +57,7 @@ On this view, the void is fundamental. Original qualia are lost the moment exper
 
 ### The Parfitian Extension
 
-Parfit's analysis of personal identity extends the void in a different direction. Psychological continuity comes in degrees; direct memory connections weaken over time. If the past self who had the original experience no longer exists in any meaningful sense, then even if the experience somehow persisted, there is no continuous subject to access it.
+[Parfit's reductionist analysis](/concepts/parfit-reductionism/) of personal identity extends the void in a different direction. Psychological continuity comes in degrees; direct memory connections weaken over time. If the past self who had the original experience no longer exists in any meaningful sense, then even if the experience somehow persisted, there is no continuous subject to access it.
 
 On this view, the question "can I access my past experience?" becomes "can I access someone else's experience?"—and we know from the [other-minds void](/voids/other-minds-void/) that other minds are inaccessible. The void is not just epistemic (we cannot know) but ontological (the experiencer is gone).
 
@@ -111,7 +115,7 @@ Yet an occluded dimension remains possible. If past experience does persist (in 
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)** heightens the stakes. If qualia are irreducible to information, then preserving information about past experience cannot preserve the experience itself. The memory void follows from taking qualia seriously: something is lost when experience ends that no storage of information can retain. Conversely, if qualia could be fully captured in physical traces, the void might be closeable in principle—perfect storage would preserve experience. The persistence of the void despite detailed memory traces is evidence that experience exceeds information.
+**[Dualism](/tenets/#dualism)** heightens the stakes. If qualia are irreducible to information—as the [knowledge-argument](/concepts/knowledge-argument/) demonstrates for present experience—then preserving information about past experience cannot preserve the experience itself. The memory void follows from taking qualia seriously: something is lost when experience ends that no storage of information can retain. Conversely, if qualia could be fully captured in physical traces, the void might be closeable in principle—perfect storage would preserve experience. The persistence of the void despite detailed memory traces is evidence that experience exceeds information.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** applies directly. The simple assumption—that memory is a window to the past, that vivid remembering means genuine access—is almost certainly wrong. The reconstructive picture is less elegant but better supported. Our intuitive model of memory systematically misleads us about what we can access.
 
@@ -127,7 +131,7 @@ The memory void thesis would require revision if:
 
 2. **Involuntary memory proved phenomenologically distinct.** If careful study showed the Proustian moment involves different processes than ordinary recall—not just more vivid simulation—the void might be more permeable than it appears.
 
-3. **Contemplatives reported stable access.** If long-term meditators consistently reported genuinely re-entering past states (as distinct from vivid reconstruction), the structural claim would weaken.
+3. **Contemplatives reported stable access.** If long-term meditators—whose trained introspective capacities are taken seriously by [contemplative-epistemology](/concepts/contemplative-epistemology/)—consistently reported genuinely re-entering past states (as distinct from vivid reconstruction), the structural claim would weaken.
 
 4. **Qualia proved reducible to information.** If the hard problem were solved by showing experience is just information, then preserving information would preserve experience, and the void would be merely technical.
 
@@ -142,6 +146,7 @@ None of these conditions has been met. Current evidence supports the reconstruct
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Related phenomenology of cognitive limitation
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that stores experienced events
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The self-knowing awareness that enables "mental time travel"
+- [consciousness-and-memory](/topics/consciousness-and-memory/) — How memory systems map onto levels of consciousness
 
 ## References
 
@@ -152,7 +157,6 @@ None of these conditions has been met. Current evidence supports the reconstruct
 1. Michaelian, K. (2016). *Mental Time Travel: Episodic Memory and Our Knowledge of the Personal Past*. MIT Press.
 1. Parfit, D. (1984). *Reasons and Persons*. Oxford University Press.
 1. Proust, M. (1913-1927). *In Search of Lost Time*. Grasset/Gallimard.
-1. Ricœur, P. (2004). *Memory, History, Forgetting*. University of Chicago Press.
 1. Schacter, D. L. (2001). *The Seven Sins of Memory*. Houghton Mifflin.
 1. Stanford Encyclopedia of Philosophy. Epistemological Problems of Memory. https://plato.stanford.edu/entries/memory-episprob/
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
