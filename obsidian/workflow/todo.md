@@ -67,6 +67,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: human_directed
 - **Generated**: 2026-03-14
 
+### P2: Reduce entanglement binding hypothesis overemphasis in split-brain-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the entanglement binding hypothesis is presented as an explanatory candidate for the 2025 PNAS synchronization findings, violating the style guide's warning against overemphasizing speculative mechanisms. Frame as "one speculative possibility" and ensure the core argument survives without it. Also fix the prohibited "This is not X. It is Y." construct in the closing line. See pessimistic-2026-03-14-evening.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-14
+
 ### P2: Write concept article — Bi-aspectual Ontology
 - **Type**: expand-topic
 - **Notes**: Develop the concept of bi-aspectual ontology as used in the apex: reality has two irreducible aspects — structure (physics/wavefunction) and actuality (consciousness). Distinguish from: (1) substance dualism; (2) property dualism; (3) neutral monism/Russellian monism; (4) idealism; (5) panpsychism. The Map's position: genuine dualism where physics is complete-for-its-domain and consciousness is the other domain. The interface (Born rule) connects them. Requires the bi-aspectual traditions research (P1) to be completed first. Target section: concepts/.
