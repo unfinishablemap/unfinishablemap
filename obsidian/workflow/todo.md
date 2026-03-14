@@ -73,6 +73,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-13
 
+### P2: Integrate illusionism-as-epiphenomenalism-in-disguise.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page (created 2026-03-08) has zero inbound links. Shows illusionism inherits epiphenomenalism's explanatory debts — important for the Map's anti-illusionist arguments. Add cross-references from illusionism.md, epiphenomenalism.md, the-epiphenomenalist-threat.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-14
+
+### P2: Integrate non-retrocausal-conscious-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page (created 2026-03-07) has zero inbound links. Presents the non-retrocausal model for consciousness-physics interaction — directly relevant to the Map's quantum interface framework. Add cross-references from consciousness-collapse-theories.md, minimal-quantum-interaction.md, quantum-consciousness.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-14
+
+### P2: Integrate probability-objections-many-worlds.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page (created 2026-03-05) has zero inbound links. Develops probability objections to MWI — directly supports Tenet 4 (No Many Worlds). Add cross-references from many-worlds-interpretation.md, quantum-interpretations.md, born-rule.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-14
+
+### P3: Deep review contemplative-path.md
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) last reviewed 2026-02-03 — 39 days ago. Major synthesis article on contemplative practice as philosophical evidence. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-14
+
+### P3: Deep review time-symmetric-physics.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-04 — 38 days ago. Concept page on time-symmetric physics relevant to the Map's treatment of retrocausality and temporal consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-14
+
+### P3: Deep review consciousness-evolution-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-09 — 33 days ago. Topic page on the evolution of consciousness problem — central challenge for the Map's dualist position. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-14
+
 ### ✓ 2026-03-13: Integrate perceptual-degradation-and-the-interface.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Superseded by coalesce — article merged into perceptual-failure-and-the-interface.md
