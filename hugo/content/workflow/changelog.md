@@ -18,6 +18,25 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T15:43:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: The Born rule — derivation attempts and their limits
+- **Output**: [born-rule-derivation-attempts-2026-03-14](/research/born-rule-derivation-attempts-2026-03-14/)
+- **Sources consulted**: 17
+
+## 2026-03-14T15:33:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Bi-aspectual ontology and dual-aspect traditions
+- **Output**: [bi-aspectual-ontology-dual-aspect-traditions-2026-03-14](/research/bi-aspectual-ontology-dual-aspect-traditions-2026-03-14/)
+- **Sources consulted**: 12
+
+## 2026-03-14T15:30:00+00:00 - research-voids
+- **Status**: Skipped (section at capacity)
+- **Topic**: N/A
+- **Category**: N/A
+- **Output**: None
+- **Key finding**: Voids section at 104/100 cap — no further voids research needed. Automation should focus on improving existing voids articles instead.
+
 ## 2026-03-14T15:16:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [spontaneous-thought-void](/voids/spontaneous-thought-void/)
