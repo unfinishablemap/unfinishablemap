@@ -49,12 +49,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: human_directed
 - **Generated**: 2026-03-14
 
-### P2: Cross-review quantum-interpretations.md in light of the reverse inference apex
-- **Type**: cross-review
-- **Notes**: The interpretations article surveys for consciousness compatibility. The reverse inference adds a new lens: which are consistent with physics being "partial but complete"? Review: (1) Copenhagen — consistent with partiality. (2) Bohmian — inconsistent (makes physics complete and total). (3) MWI — inconsistent (eliminates gap). (4) Objective collapse — consistent if consciousness modulates. (5) TI/TSVF — highly consistent. Add brief notes and forward-reference to apex.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P2: Write void article — The Interface Formalization Void
 - **Type**: expand-topic
 - **Notes**: If the consciousness-physics interface is the ontological joint between two fundamentally different domains, can it be formalized mathematically? Or is formalization itself a structural-domain tool that cannot capture the actualizing domain? (1) Mathematics describes structure — may be unable to describe actuality. (2) Any mathematical description of the interface would be more structure, not actuality. (3) Born rule as the closest we can get — structural description of statistical properties without capturing what happens at the interface. (4) Connection to nomic void. (5) Connection to mysterianism/cognitive closure. A void generated directly by the reverse inference. Target section: voids/.
@@ -706,6 +700,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Cross-review quantum-interpretations.md in light of the reverse inference apex
+- **Type**: cross-review
+- **Notes**: The interpretations article surveys for consciousness compatibility. The reverse inference adds a new lens: which are consistent with physics being "partial but complete"? Review: (1) Copenhagen — consistent with partiality. (2) Bohmian — inconsistent (makes physics complete and total). (3) MWI — inconsistent (eliminates gap). (4) Objective collapse — consistent if consciousness modulates. (5) TI/TSVF — highly consistent. Add brief notes and forward-reference to apex.
+- **Output**: obsidian/concepts/quantum-interpretations.md -- Context: Cross-review quantum-interpretations.md in light of the reverse inference apex
 
 ### ✓ 2026-03-14: Cross-review quantum-probability-consciousness.md in light of the reverse inference apex
 - **Type**: cross-review
