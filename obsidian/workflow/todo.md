@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review mind-space-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the mind-space void — the gap between spatial experience and physical space. Never received a deep review since creation. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-14
-
 ### P2: Deep review the-surplus-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the surplus void — experiential content that exceeds what physical processes predict. Never received a deep review since creation. Verify coherence, cross-references, and tenet alignment.
@@ -670,6 +664,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-14: Deep review mind-space-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the mind-space void — the gap between spatial experience and physical space. Never received a deep review since creation. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/mind-space-void.md
 
 ### ✓ 2026-03-14: Strengthen zombie world tension analysis in consciousness-and-the-metaphysics-of-laws.md
 - **Type**: refine-draft
