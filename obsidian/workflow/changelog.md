@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T06:21:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/destabilizing-self-knowledge]]
+- **Word count**: 2041 → 2059 (+18)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3 (dualism argument strengthened, 3 cross-links added, prose tightened)
+- **Output**: [[reviews/deep-review-2026-03-14-destabilizing-self-knowledge]]
+
 ## 2026-03-14T05:23:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/causal-powers]]
