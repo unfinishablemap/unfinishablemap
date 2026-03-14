@@ -4,7 +4,7 @@ description: "First-person experience reports are genuine evidence for conscious
 created: 2026-02-01
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-02-24T12:14:00+00:00
+ai_modified: 2026-03-14T01:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,8 @@ concepts:
   - "[[contemplative-neuroscience]]"
   - "[[cognitive-phenomenology]]"
   - "[[altered-states-of-consciousness]]"
+  - "[[phenomenal-acquaintance]]"
+  - "[[contemplative-epistemology]]"
 related_articles:
   - "[[tenets]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
@@ -34,7 +36,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-06
 last_curated:
-last_deep_review: 2026-02-06T18:39:00+00:00
+last_deep_review: 2026-03-14T01:22:00+00:00
 coalesced_from:
   - "/concepts/phenomenological-evidence/"
   - "/topics/phenomenological-evidence-methodology/"
@@ -56,7 +58,7 @@ What phenomenological evidence is *not*:
 - **Neural correlates**: Which brain regions activate during experience (third-person)
 - **Theoretical interpretation**: Claims about *why* experience has certain features (goes beyond evidence to explanation)
 
-The key characteristic: phenomenological evidence is accessed through first-person acquaintance, not through observation of external indicators.
+The key characteristic: phenomenological evidence is accessed through [[phenomenal-acquaintance|first-person acquaintance]], not through observation of external indicators.
 
 ## The Evidential Status Problem
 
@@ -85,7 +87,7 @@ Francisco Varela's [[neurophenomenology]] established explicit standards for phe
 
 Varela's mutual constraint principle gives phenomenological evidence its scientific traction: phenomenological reports gain evidential weight when they predict neural correlates, and neural findings validate phenomenological distinctions. Neither domain dominates; both contribute evidence. This bidirectional constraint prevents phenomenology from floating free of physical reality while preventing neuroscience from ignoring the phenomena it aims to explain.
 
-Convergence across contemplative traditions further strengthens evidential claims. Buddhist vipassana, Hindu dhyana (as systematised in Patanjali's Yoga Sutras), and secular mindfulness practitioners converge on similar descriptions—impermanence of mental contents, constructed nature of self, refined temporal awareness. This cross-traditional convergence—also documented in research on [[altered-states-of-consciousness]]—suggests the structures discovered are features of consciousness itself, not artefacts of particular training methods.
+Convergence across contemplative traditions further strengthens evidential claims—a point [[contemplative-epistemology]] develops in detail. Buddhist vipassana, Hindu dhyana (as systematised in Patanjali's Yoga Sutras), and secular mindfulness practitioners converge on similar descriptions—impermanence of mental contents, constructed nature of self, refined temporal awareness. This cross-traditional convergence—also documented in research on [[altered-states-of-consciousness]]—suggests the structures discovered are features of consciousness itself, not artefacts of particular training methods.
 
 ### Microphenomenology
 
@@ -174,6 +176,8 @@ Phenomenological evidence provides the data that any adequate theory of consciou
 - [[neurophenomenology]] — Integration of phenomenological evidence with neuroscience
 - [[introspection]] — The reliability debate and trained first-person methods
 - [[epistemology-of-introspection]] — The epistemological models and the case for sui generis introspective knowledge
+- [[phenomenal-acquaintance]] — The direct, non-inferential relation grounding first-person evidence
+- [[contemplative-epistemology]] — Systematic contemplative practice as a knowledge source about consciousness
 - [[heterophenomenology]] — The third-person alternative approach
 - [[intersubjectivity]] — How first-person evidence achieves intersubjective validation
 - [[contemplative-practice-as-philosophical-evidence]] — How meditation findings bear on consciousness debates
