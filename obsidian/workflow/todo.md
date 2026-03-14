@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address dualism tension in embodiment-cognitive-limits.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the article's constitutive embodiment argument undermines its own dualist framing. Need to distinguish embodied *cognition* (physicalist finding) from embodied *consciousness* (where dualism operates). Also fix self-defeating MWI argument in scale-void.md (uses scale-intuition discomfort to reject MWI after arguing scale intuitions are unreliable). See pessimistic-2026-03-14-night.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-14
+
 ### P2: Write concept article — Bi-aspectual Ontology
 - **Type**: expand-topic
 - **Notes**: Develop the concept of bi-aspectual ontology as used in the apex: reality has two irreducible aspects — structure (physics/wavefunction) and actuality (consciousness). Distinguish from: (1) substance dualism; (2) property dualism; (3) neutral monism/Russellian monism; (4) idealism; (5) panpsychism. The Map's position: genuine dualism where physics is complete-for-its-domain and consciousness is the other domain. The interface (Born rule) connects them. Requires the bi-aspectual traditions research (P1) to be completed first. Target section: concepts/.
