@@ -4,8 +4,8 @@ description: "Agency extended across time requires narrative structure—not as 
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-02-27T17:46:00+00:00
-last_deep_review: 2026-02-09T17:01:00+00:00
+ai_modified: 2026-03-14T18:39:00+00:00
+last_deep_review: 2026-03-14T18:39:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[haecceity]]"
   - "[[phenomenology-of-choice]]"
   - "[[temporal-consciousness]]"
-  - "[[temporal-consciousness]]"
+  - "[[narrative-coherence]]"
   - "[[moral-responsibility]]"
   - "[[parfit-reductionism]]"
   - "[[witness-consciousness]]"
@@ -46,7 +46,7 @@ This is diachronic agency: the capacity to act as a unified agent across time, o
 
 ## Narrative as the Structure of Diachronic Agency
 
-What provides this coherence? The Map's answer: personal narrative. Not narrative in the literary sense—not a polished autobiography—but the pre-reflective temporal structure through which an agent understands their choices as forming a connected pattern.
+What provides this coherence? The Map's answer: personal narrative. Not narrative in the literary sense—not a polished autobiography—but the pre-reflective temporal structure through which an agent understands their choices as forming a connected pattern. This is what the Map calls [[narrative-coherence]]—the intelligible organisation of experience into a unified temporal whole.
 
 When you decide to keep working on a difficult project rather than abandon it, you are not making a bare synchronic choice. You are interpreting your present situation through a narrative that connects your past commitment to your current effort to your anticipated completion. The past commitment gives the present effort its meaning. The anticipated future gives both their point. Remove the narrative and the synchronic choice—"keep going or stop?"—loses the context that makes it the choice it is.
 
@@ -100,7 +100,7 @@ These breakdowns confirm that diachronic agency requires narrative structure as 
 
 ## Moral Responsibility Across Time
 
-Diachronic agency grounds a distinctive form of [[moral-responsibility|moral responsibility]]. You are responsible not only for individual choices but for the projects those choices compose. The person who builds a career on exploitation is responsible not just for each exploitative act but for sustaining the pattern. The person who cultivates a virtue over decades deserves credit not just for each virtuous act but for the diachronic commitment that produced them.
+Diachronic agency grounds a distinctive form of [[moral-responsibility|moral responsibility]], with implications explored further in [[moral-implications-of-genuine-agency]]. You are responsible not only for individual choices but for the projects those choices compose. The person who builds a career on exploitation is responsible not just for each exploitative act but for sustaining the pattern. The person who cultivates a virtue over decades deserves credit not just for each virtuous act but for the diachronic commitment that produced them.
 
 This creates an asymmetry that purely synchronic accounts of responsibility miss. A single generous act by someone with no pattern of generosity differs morally from the same act performed as part of a lifelong commitment to giving. The acts may be identical in their synchronic properties—same amount donated, same beneficiary, same proximate motivation—but they differ in their narrative context, and this context is morally relevant.
 
@@ -113,6 +113,8 @@ Diachronic agency connects the Map's commitments in a distinctive way, linking t
 **[[tenets#^dualism|Dualism]]**: If consciousness were reducible to physical processes, diachronic agency would be nothing more than a complex pattern of neural events—a story the brain tells itself. The narrative would have no author, only a mechanism. The Map's dualism provides the substantial self whose irreducibility grounds the claim that narrative organises genuine agency rather than decorating a deterministic sequence.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Diachronic agency is bidirectional interaction extended across time. Each choice in a sustained project is an instance of consciousness selecting among physical possibilities. The project *as a whole*—the pattern of selections sustained across months or years—represents a higher-order exercise of causal influence that no single selection contains. Narrative is the structure through which consciousness maintains this higher-order influence.
+
+**[[tenets#^minimal-interaction|Minimal Quantum Interaction]]**: The minimality constraint matters for diachronic agency because it clarifies the *scale* of consciousness's involvement. Each individual choice requires only a tiny quantum-level influence—a selection among physically permitted outcomes. The impressive temporal coherence of diachronic agency emerges not from massive interventions but from sustained sequences of minimal selections, organised by narrative structure into patterns no single selection contains.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Many-worlds eliminates diachronic agency. If every choice branches into all alternatives equally realised, then no agent sustains a project—every project is equally sustained and equally abandoned across branches. The coherence of a life, the meaning of perseverance, the moral weight of sustained commitment—all dissolve into branch-counting. The Map's rejection of many-worlds preserves the singular temporal trajectory within which diachronic agency operates.
 
