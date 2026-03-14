@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-14T15:33:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Bi-aspectual ontology and dual-aspect traditions
+- **Output**: [[bi-aspectual-ontology-dual-aspect-traditions-2026-03-14]]
+- **Sources consulted**: 12
+
 ## 2026-03-14T15:30:00+00:00 - research-voids
 - **Status**: Skipped (section at capacity)
 - **Topic**: N/A
