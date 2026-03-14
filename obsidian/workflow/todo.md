@@ -662,6 +662,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-14
 
+### P3: Write apex article — Ethics Under Dualism
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Synthesise ethics-and-value-in-a-dualist-world.md, consciousness-and-normative-force.md, moral-phenomenology.md, the-meaning-of-life.md, and responsibility-gradient-from-attentional-capacity.md into unified apex treatment. The Map's ethical framework (phenomenal value realism, consciousness-grounded normativity, attentional responsibility) gains force as a coherent programme. See optimistic-2026-03-14-night.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-14
+
+### P3: Write article on the phenomenology of aesthetic experience
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Aesthetic experience (beauty, sublimity, artistic understanding) receives passing treatment across normative-force, creative-insight, and musical-understanding articles but lacks dedicated development. Aesthetic qualia may resist functional reduction more clearly than sensory qualia. Target section: topics/. See optimistic-2026-03-14-night.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-14
+
+### P3: Write concept page — Phenomenal Value Realism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The claim that value is constitutive of phenomenal experience (badness *is* what suffering is) appears across ethics, meaning, and normative force articles but lacks dedicated concept page. Engage with Rawlette's work directly. Target section: concepts/. See optimistic-2026-03-14-night.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-14
+
 ## Completed Tasks
 
 
