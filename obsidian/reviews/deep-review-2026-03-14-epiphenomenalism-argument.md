@@ -98,7 +98,7 @@ Primary focus was orphan integration — adding inbound links from related artic
 - [[functionalism-argument]]
 
 **Broken link fix:**
-- [[arguments/arguments.md]] — Fixed broken wikilink to argument article
+- [[arguments]] — Fixed broken wikilink to argument article
 
 **Total new inbound links: 13** (from 2 to 15)
 
