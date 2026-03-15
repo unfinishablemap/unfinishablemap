@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Coalesce aesthetics articles in topics/ (4 articles → 1)
+- **Type**: coalesce
+- **Notes**: Topics section is 20 over its 200-article cap, blocking all expand-topic tasks. Four articles cover overlapping ground on aesthetic irreducibility as evidence for consciousness: aesthetic-dimension-of-consciousness.md (3776 words), aesthetic-irreducibility-arguments.md (2687 words), consciousness-and-aesthetic-creation.md (2662 words), binding-and-beauty.md (2165 words). Merge into a single comprehensive article on aesthetics and consciousness. Saves 3 article slots.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-15
+
+### P1: Coalesce emotion/dualism articles in topics/ (4 articles → 1)
+- **Type**: coalesce
+- **Notes**: Topics section is 20 over its 200-article cap. Four articles overlap on emotional consciousness as evidence for dualism: emotional-consciousness.md (3618 words), emotion-as-evidence-for-dualism.md (2270 words), philosophy-of-emotion-under-dualism.md (2757 words), void-of-self-knowledge-in-emotion.md (2184 words). Merge into a unified article on emotion, valence irreducibility, and dualist implications. Saves 3 article slots.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-15
+
+### P1: Coalesce attention/interface articles in topics/ (4 articles → 1-2)
+- **Type**: coalesce
+- **Notes**: Topics section is 20 over its 200-article cap. Four articles cover attention as consciousness's interface mechanism: attention-as-selection-interface.md (3306 words), attention-consciousness-dissociation.md (2599 words), attention-schema-theory-critique.md (2887 words), attention-disorders-and-quantum-interface.md (2255 words). Merge into a comprehensive treatment of attention as the selection interface with dissociation evidence, AST critique, and clinical cases. Saves 2-3 article slots.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-15
+
+### P2: Integrate retrocausal selection research into existing collapse/measurement articles
+- **Type**: refine-draft
+- **Notes**: Research completed in research/retrocausal-selection-consciousness-physics-2026-03-14.md (4474 words). Sections are at cap so no new article can be created. Instead, integrate key findings (Stapp's retrocausal framework, transactional interpretation, Aharonov two-state formalism) into existing articles such as collapse-and-time.md, consciousness-collapse-arrow-of-time.md, or measurement-problem.md. This consumes the research without adding article count.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-15
+
+### P2: Integrate probability/decision-theory objections to MWI into existing many-worlds articles
+- **Type**: refine-draft
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Sections are at cap so no new article can be created. Instead, integrate key findings (incoherence problem, measure problem, Deutsch-Wallace decision-theory circularity, self-locating uncertainty) into existing articles such as probability-objections-many-worlds.md or many-worlds-interpretation.md. Strengthens Tenet 4 (No Many Worlds) coverage without adding article count.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-15
+
 ### P3: Add cross-references between bi-aspectual-ontology.md and temporal-consciousness.md
 - **Type**: refine-draft
 - **Notes**: Optimistic review (optimistic-2026-03-15.md) identified that temporal thickness is an instance of the actuality dimension in bi-aspectual ontology. Add bidirectional cross-links connecting these frameworks. Also link binding-and-beauty.md to bi-aspectual-ontology.md (aesthetic unity as actuality that resists structural decomposition) and vertiginous-question.md to bi-aspectual-ontology.md (indexical identity as actuality aspect).
