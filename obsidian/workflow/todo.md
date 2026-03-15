@@ -55,6 +55,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
+### P3: Create concept page for token-level determination
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The token vs. type-level causation distinction is referenced across quantum consciousness, motor control, and normative force articles but has no anchor page. Core to Tenets 2 and 3. See optimistic-2026-03-15.md
+- **Generated**: 2026-03-15
+
+### P3: Create concept page for developmental integration
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The hypothesis that the consciousness-brain interface requires extended neural development and cannot be shortcut. Referenced in BCI, contemplative pathology, and comparative cognition articles. Would unify several independent lines of evidence. See optimistic-2026-03-15.md
+- **Generated**: 2026-03-15
+
+### P3: Write article on mathematical necessity and normative demand
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Both consciousness-and-mathematical-knowledge and consciousness-and-normative-force identify "forcing"/"demand" quality in phenomenal experience but the structural parallel is never explicit. Short cross-cutting synthesis. See optimistic-2026-03-15.md
+- **Generated**: 2026-03-15
+
 ### P3: Deep review intersubjective-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the intersubjective void — the impossibility of fully sharing or verifying another's experience. Verify coherence, cross-references, and tenet alignment.
