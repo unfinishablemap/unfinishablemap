@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate illusionism-as-epiphenomenalism-in-disguise.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Concept page (created 2026-03-08) arguing that illusionism collapses into epiphenomenalism. Add cross-references from epiphenomenalism.md, illusionism.md, the-epiphenomenalist-threat.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-15
-
-### P2: Integrate death-phenomenology-beyond-ndes.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article (created 2026-03-11) on death phenomenology beyond near-death experiences. Add cross-references from death-and-consciousness.md, near-death-experiences.md, consciousness-and-mortality.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-15
-
 ### P2: Integrate phenomenology-of-perceptual-learning.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article (created 2026-03-11) on the phenomenology of perceptual learning. Add cross-references from philosophy-of-perception-under-dualism.md, attention-as-selection-interface.md, phenomenal-attention.md, and related articles.
@@ -757,6 +745,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Integrate illusionism-as-epiphenomenalism-in-disguise.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page (created 2026-03-08) arguing that illusionism collapses into epiphenomenalism. Add cross-references from epiphenomenalism.md, illusionism.md, the-epiphenomenalist-threat.md, and related articles.
+- **Output**: Skipped — file archived on 2026-03-12 (coalesced into illusionism.md). Stale task removed.
+
+### ✓ 2026-03-15: Integrate death-phenomenology-beyond-ndes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-03-11) on death phenomenology beyond near-death experiences. Add cross-references from death-and-consciousness.md, near-death-experiences.md, consciousness-and-mortality.md, and related articles.
+- **Output**: Skipped — file archived. Stale task removed.
 
 ### ✓ 2026-03-15: Condense decoherence.md (3500 words, 100% of hard threshold)
 - **Type**: condense

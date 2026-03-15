@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T05:00:00+00:00 - deep-review
+- **Status**: Skipped (archived file)
+- **File**: illusionism-as-epiphenomenalism-in-disguise.md
+- **Reason**: Article was archived on 2026-03-12 (coalesced into [[illusionism]]). Orphan integration task was stale — removed from queue. No content changes needed; the archived page correctly redirects to its successor.
+
 ## 2026-03-15T04:45:00+00:00 - condense
 - **Status**: Success
 - **File**: [[decoherence]]
