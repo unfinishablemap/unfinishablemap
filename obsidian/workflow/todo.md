@@ -73,12 +73,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Both mathematical-knowledge-and-insight and consciousness-and-normative-force identify "forcing"/"demand" quality in phenomenal experience but the structural parallel is never explicit. Short cross-cutting synthesis. See optimistic-2026-03-15.md
 - **Generated**: 2026-03-15
 
-### P3: Deep review intersubjective-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the intersubjective void — the impossibility of fully sharing or verifying another's experience. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-15
-
 ### P3: Deep review probability-intuition-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the probability intuition void — how probability resists full intuitive grasp. Relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence, cross-references, and tenet alignment.
@@ -755,6 +749,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Deep review intersubjective-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the intersubjective void — the impossibility of fully sharing or verifying another's experience. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/intersubjective-void.md
 
 ### ✓ 2026-03-15: Write concept page for Fitness-Beats-Truth theorem
 - **Type**: expand-topic
