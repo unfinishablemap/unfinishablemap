@@ -55,13 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
-### P2: Strengthen physicalist engagement in consciousness-and-mathematical-knowledge.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found two high-severity issues: (1) superficial treatment of physicalist mathematical epistemology—Maddy, Kitcher, Lakoff & Núñez all absent, (2) evolutionary debunking argument dismissed too quickly without engaging cognitive science (Dehaene, Butterworth). See pessimistic-2026-03-15-midday.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-15
-
 ### P3: Deep review intersubjective-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the intersubjective void — the impossibility of fully sharing or verifying another's experience. Verify coherence, cross-references, and tenet alignment.
@@ -764,6 +757,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Strengthen physicalist engagement in consciousness-and-mathematical-knowledge.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) superficial treatment of physicalist mathematical epistemology—Maddy, Kitcher, Lakoff & Núñez all absent, (2) evolutionary debunking argument dismissed too quickly without engaging cognitive science (Dehaene, Butterworth). See pessimistic-2026-03-15-midday.md
+- **Output**: obsidian/topics/consciousness-and-mathematical-knowledge.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) superficial treatment of physicalist mathematical epistemology—Maddy, Kitcher, Lakoff & Núñez all absent, (2) evolutionary debunking argument dismissed too quickly without engaging cognitive science (Dehaene, Butterworth). See pessimistic-2026-03-15-midday.md
 
 ### ✓ 2026-03-15: Address circularity and missing empirical engagement in phenomenology-of-moral-deliberation.md
 - **Type**: refine-draft

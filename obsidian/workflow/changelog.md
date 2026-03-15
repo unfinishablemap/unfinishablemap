@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T11:29:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[consciousness-and-mathematical-knowledge]]
+- **Changes**: Added Maddy, Kitcher, Lakoff & Núñez to physicalist epistemology section; expanded evolutionary debunking with Dehaene and Butterworth cognitive science; identified necessity/scope/convergence gaps in continuity narrative; added 5 references
+- **Published**: yes
+
 ## 2026-03-15T11:19:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[phenomenology-of-moral-deliberation]]
