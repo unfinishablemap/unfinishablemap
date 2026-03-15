@@ -4,7 +4,7 @@ description: "Distinguishing physics-based retrocausality from contested parapsy
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-03-12T05:32:00+00:00
+ai_modified: 2026-03-15T06:11:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -108,6 +108,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] applies here too. D
 
 ## Further Reading
 
+- [[collapse-and-time]] — How collapse introduces temporal asymmetry, and time-symmetric interpretations of collapse
 - [[retrocausality]] — Physics-based retrocausality and its application to consciousness
 - [[time-symmetric-physics]] — The mathematical foundation for time-symmetric quantum mechanics
 - [[time-symmetric-selection-mechanism]] — How time-symmetric physics enables conscious selection

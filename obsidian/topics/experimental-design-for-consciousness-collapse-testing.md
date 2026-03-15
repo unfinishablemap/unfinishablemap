@@ -4,7 +4,7 @@ description: "How would you test whether consciousness participates in wavefunct
 created: 2026-02-19
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-22T17:24:00+00:00
+ai_modified: 2026-03-15T06:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -137,6 +137,7 @@ The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is directly r
 
 ## Further Reading
 
+- [[collapse-and-time]] — How collapse connects to temporal asymmetry and why collapse realism matters for testability
 - [[quantum-measurement-consciousness-interface]]
 - [[consciousness-in-smeared-quantum-states]]
 - [[comparing-quantum-consciousness-mechanisms]]

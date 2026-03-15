@@ -779,12 +779,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-03-15
 
-### P2: Integrate consciousness-collapse-arrow-of-time.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Concept page (created 2026-02-24) on the relationship between consciousness-collapse and the arrow of time. Add cross-references from consciousness-collapse-theories.md, time-symmetric-physics.md, temporal-consciousness.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-15
-
 ### P2: Integrate specious-present-temporal-experience.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Concept page (created 2026-02-22) on the specious present — the duration of experienced "now." Add cross-references from temporal-consciousness.md, bergson-and-duration.md, philosophy-of-time.md, and related articles.
@@ -811,6 +805,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Integrate consciousness-collapse-arrow-of-time.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page (created 2026-02-24) on the relationship between consciousness-collapse and the arrow of time. Add cross-references from consciousness-collapse-theories.md, time-symmetric-physics.md, temporal-consciousness.md, and related articles.
+- **Output**: consciousness-collapse-arrow-of-time.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-15: Condense quantum-probability-consciousness.md (3500 words, 100% of hard threshold)
 - **Type**: condense

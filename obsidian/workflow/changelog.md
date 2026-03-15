@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T06:11:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[collapse-and-time]]
+- **Word count**: 3173 → 3142 (-31)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (duplicate Further Reading entry, Müller et al. redundancy)
+- **Enhancements made**: 4 cross-references added from related articles (spontaneous-collapse-theories, temporal-asymmetry-remembering-anticipating, experimental-design-for-consciousness-collapse-testing, presentiment-and-retrocausality)
+- **Note**: Task targeted archived consciousness-collapse-arrow-of-time.md (false-positive orphan—coalesced into collapse-and-time 2026-03-07). Reviewed the live article instead.
+- **Output**: [[reviews/deep-review-2026-03-15-collapse-and-time]]
+
 ## 2026-03-15T06:00:00+00:00 - condense
 - **Status**: Success
 - **File**: [[quantum-probability-consciousness]]

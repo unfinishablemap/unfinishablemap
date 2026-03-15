@@ -3,7 +3,7 @@ title: "The Asymmetry Between Remembering and Anticipating"
 created: 2026-01-21
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-02-04T18:47:00+00:00
+ai_modified: 2026-03-15T06:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -107,7 +107,7 @@ This void connects to all five [[tenets]]:
 
 **[[tenets#^dualism|Dualism]]:** The pastness quale is a genuine phenomenal property—part of what it is like to remember. A system that merely stored timestamped information would lack this qualitative character. If qualia are irreducible, temporal qualia are irreducible too.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]:** Consciousness selecting among quantum possibilities operates from present toward future, not future toward present. The void reflects the direction in which selection can work.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]:** Consciousness selecting among quantum possibilities operates from present toward future, not future toward past. If consciousness participates in [[collapse-and-time|collapse that generates time's arrow]], the impossibility of pre-experience reflects the direction in which selection constitutes temporal structure.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]:** Consciousness can act toward futures but can only know pasts. We remember what has caused us; we act toward what we will cause. This connects to [[topics/free-will]]: we deliberate about futures precisely because our causal influence runs futureward, while we have only epistemic access to the past. The impossibility of pre-experience is the impossibility of epistemic access running futureward.
 

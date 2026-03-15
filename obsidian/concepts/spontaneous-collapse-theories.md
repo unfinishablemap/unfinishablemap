@@ -4,7 +4,7 @@ description: "GRW, CSL, and Penrose OR: physical collapse mechanisms that solve 
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-03-15T01:27:00+00:00
+ai_modified: 2026-03-15T06:11:00+00:00
 draft: false
 last_deep_review: 2026-03-15T01:27:00+00:00
 topics: []
@@ -181,7 +181,7 @@ The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or sim
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Modulating collapse rate, location, or outcome provides concrete mechanism for consciousness causally influencing the physical world. See [[psychophysical-coupling]] for specification of coupling laws.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Objective collapse theories explicitly reject branching. Wave function collapse is real, non-reversible, and creates definite outcomes. Indexical identity matters.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Objective collapse theories explicitly reject branching. Wave function collapse is real, non-reversible, and creates definite outcomes—introducing [[collapse-and-time|temporal asymmetry]] that may constitute an independent arrow of time. Indexical identity matters.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The measurement problem cannot be solved by simplicity-worship. Spontaneous collapse theories modify quantum mechanics, adding complexity, but gain falsifiability and explanatory power. Experimental accountability demonstrates this is science, not metaphysical speculation.
 
@@ -189,6 +189,7 @@ The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or sim
 
 ## Further Reading
 
+- [[collapse-and-time]] — how collapse introduces temporal asymmetry and connects consciousness to the arrow of time
 - [[measurement-problem]] - the crisis spontaneous collapse theories address
 - [[the-measurement-problem-as-philosophical-problem]] — the philosophical dimensions of measurement: why the problem resists physical solution
 - [[prebiotic-collapse]] - dedicated treatment of what collapsed before consciousness
