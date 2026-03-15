@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T00:25:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Bi-aspectual Ontology
+- **Output**: [[concepts/bi-aspectual-ontology]]
+- **Word count**: 1875
+- **Based on research**: yes, [[bi-aspectual-ontology-dual-aspect-traditions-2026-03-14]], [[russellian-monism-vs-bi-aspectual-dualism-2026-03-14]]
+
 ## 2026-03-15T00:13:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[concepts/temporal-thickness]], [[concepts/protention]]
