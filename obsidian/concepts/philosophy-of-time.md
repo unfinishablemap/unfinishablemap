@@ -4,7 +4,7 @@ description: "A-theory versus B-theory, presentism, eternalism, and the growing 
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-01-30T20:35:00+00:00
+ai_modified: 2026-03-15T17:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,14 +13,12 @@ concepts:
   - "[[collapse-and-time]]"
   - "[[retrocausality]]"
   - "[[temporal-consciousness]]"
-  - "[[temporal-consciousness]]"
   - "[[quantum-consciousness]]"
   - "[[illusionism]]"
   - "[[introspection]]"
   - "[[decoherence]]"
   - "[[witness-consciousness]]"
   - "[[haecceity]]"
-  - "[[temporal-consciousness]]"
   - "[[neurophenomenology]]"
 related_articles:
   - "[[tenets]]"
@@ -28,10 +26,10 @@ related_articles:
   - "[[time-collapse-and-agency]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-01-30T20:35:00+00:00
+last_deep_review: 2026-03-15T17:39:00+00:00
 ---
 
 Philosophy of time asks fundamental questions about time's nature: Does the past exist? Is there an objective present? Does time flow, or is "flow" an illusion? These questions matter for consciousness because the relationship between subjective temporal experience and physical time remains deeply puzzling. If consciousness participates in [[collapse-and-time|quantum collapse]]—and collapse introduces time's arrow—then consciousness may be implicated in the structure of time itself, not merely a passenger traveling through it.
@@ -142,7 +140,7 @@ Any framework connecting consciousness to quantum collapse—and thereby to temp
 
 Three responses preserve the framework:
 
-**First, decoherence doesn't solve the measurement problem.** Decoherence explains why we don't observe macroscopic superpositions—interference effects wash out through environmental entanglement. But it doesn't explain why we see *definite* outcomes rather than superpositions of ourselves observing different results. As a 2025 review notes: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." The selector problem remains—and consciousness remains a candidate selector, acting after decoherence has selected preferred bases.
+**First, decoherence doesn't solve the measurement problem.** Decoherence explains why we don't observe macroscopic superpositions—interference effects wash out through environmental entanglement. But it doesn't explain why we see *definite* outcomes rather than superpositions of ourselves observing different results. As Tomaz, Mattos, and Barbatti (2025) note: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." The selector problem remains—and consciousness remains a candidate selector, acting after decoherence has selected preferred bases.
 
 **Second, biological quantum effects demonstrate evolution's capacity.** Avian magnetoreception relies on quantum spin coherence persisting for microseconds—a million times longer than molecular decoherence in solution. Enzyme catalysis exploits quantum tunnelling. If evolution can optimise quantum effects for navigation and chemistry, it might optimise them for consciousness. The categorical objection ("warm systems cannot exhibit quantum behaviour") has been empirically falsified.
 
@@ -234,9 +232,7 @@ Philosophy of time connects to all five tenets, with the connection running deep
 - [[time-collapse-and-agency]] — the Map's full treatment of time, collapse, and conscious agency
 - [[collapse-and-time]] — How collapse introduces temporal asymmetry
 - [[retrocausality]] — Time-symmetric physics and backward causation
-- [[temporal-consciousness]] — The specious present and phenomenology of time
-- [[temporal-consciousness]] — The experienced duration of "now"
-- [[temporal-consciousness]] — Bergson's qualitative lived time
+- [[temporal-consciousness]] — The specious present, experienced duration, and Bergson's qualitative lived time
 - [[measurement-problem]] — Why collapse remains unexplained
 - [[illusionism]] — The eliminativist challenge and the Map's response
 - [[introspection]] — First-person methods and their epistemic status
@@ -257,6 +253,7 @@ Philosophy of time connects to all five tenets, with the connection running deep
 1. Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Fox, K.C.R. et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Varela, F.J. (1999). The Specious Present: A Neurophenomenology of Time Consciousness.
+1. Tomaz, A.A., Mattos, R.S. & Barbatti, M. (2025). The quantum measurement problem: A review of recent trends. *Philosophical Magazine C*. DOI: 10.1080/14786435.2025.2601922.
 1. Stanford Encyclopedia of Philosophy. "Time." https://plato.stanford.edu/entries/time/
 1. Stanford Encyclopedia of Philosophy. "Temporal Consciousness." https://plato.stanford.edu/entries/consciousness-temporal/
 1. Internet Encyclopedia of Philosophy. "Eternalism." https://iep.utm.edu/eternalism/

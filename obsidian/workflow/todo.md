@@ -98,12 +98,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: orphan_integration
 - **Generated**: 2026-03-13
 
-### P3: Deep review philosophy-of-time.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 40 days ago. Core concept page on philosophy of time, relevant to temporal consciousness cluster. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P3: Deep review panpsychism.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 38 days ago. Major alternative position to the Map's dualism that needs accurate, fair treatment. Verify coherence, cross-references, and tenet alignment.
@@ -665,6 +659,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Deep review philosophy-of-time.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 40 days ago. Core concept page on philosophy of time, relevant to temporal consciousness cluster. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/philosophy-of-time.md
 
 ### ✓ 2026-03-15: Reduce quantum overemphasis in continual-learning-argument.md
 - **Type**: refine-draft
