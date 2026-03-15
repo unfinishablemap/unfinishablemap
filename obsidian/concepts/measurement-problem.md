@@ -4,7 +4,7 @@ description: "Quantum mechanics' central puzzle: why measurement yields definite
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-15T05:35:00+00:00
+ai_modified: 2026-03-15T06:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -153,7 +153,7 @@ Conscious observation precipitates collapse. Von Neumann's formalism permits pla
 
 #### Stapp's Quantum Zeno Framework
 
-Henry Stapp developed the most detailed consciousness-based approach within orthodox quantum mechanics. His key insight: [[mental-effort]] protracts desired neural assemblies through the quantum Zeno effect—rapid, repeated observation preventing state evolution. This is consciousness *selecting* among quantum possibilities—the orthodox "Heisenberg choice" in von Neumann's formalism—not causing collapse from outside physics.
+Henry Stapp developed the most detailed consciousness-based approach within orthodox quantum mechanics. His key insight: [[mental-effort]] protracts desired neural assemblies through the quantum Zeno effect—rapid, repeated observation preventing state evolution. This is consciousness *selecting* among quantum possibilities—the orthodox "Heisenberg choice" in von Neumann's formalism—not causing collapse from outside physics. Stapp's framework has an implicitly [[retrocausality|retrocausal]] aspect: the Zeno effect operates by repeatedly projecting a state, effectively selecting a trajectory the system would not have followed under free evolution. The selected trajectory includes the neural preparation that precedes conscious awareness—so the framework is compatible with [[retrocausality#The Atemporal Selection Model|atemporal selection]], where consciousness determines which history becomes actual rather than acting at a single moment.
 
 **Decoherence challenge**: Tegmark (2000) calculated neural quantum coherence times at ~10^-13 seconds—far shorter than neural timescales (~10^-3 seconds), creating a [[timing-gap-problem|twelve-order-of-magnitude timing gap]]. Most physicists consider this decisive. Stapp responds that Zeno effects require rapid *observation events*, not persistent coherence—but what generates such rapid observations in a warm, decoherent brain? This mechanism remains unspecified, leaving a significant gap in the proposal.
 
@@ -273,5 +273,14 @@ Changes made:
 5. Added 4 new references: Cubitt et al. (2015), Dourdent (2020), Franzén (2005), Landsman (2020)
 
 Based on research in godel-measurement-problem-analogy-2026-03-14.md.
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-03-15 (refine-draft, integrating retrocausal selection research)
+Changes made:
+1. Added implicit retrocausal dimension to Stapp's Quantum Zeno section: Zeno effect selects trajectories the system would not have followed under free evolution, compatible with atemporal selection
+2. Cross-referenced retrocausality.md atemporal selection model
+
+Based on research in retrocausal-selection-consciousness-physics-2026-03-14.md.
 This log should be removed after human review.
 -->

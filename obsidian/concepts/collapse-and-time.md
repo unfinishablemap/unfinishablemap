@@ -4,7 +4,7 @@ description: "Wavefunction collapse introduces temporal asymmetry into physics. 
 created: 2026-01-14
 modified: 2026-03-07
 human_modified: null
-ai_modified: 2026-03-15T06:11:00+00:00
+ai_modified: 2026-03-15T06:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -66,11 +66,17 @@ But decoherence doesn't solve the [[measurement-problem|measurement problem]]. I
 
 ### Time-Symmetric Interpretations: Atemporal Collapse
 
-A third approach preserves fundamental [[time-symmetric-physics|time-symmetry]]. Aharonov's Two-State Vector Formalism (TSVF), Cramer's transactional interpretation, and related frameworks describe quantum systems with boundary conditions at both past and future. Complete specification of a quantum state requires both a forward-evolving and backward-evolving wave.
+A third approach preserves fundamental [[time-symmetric-physics|time-symmetry]]. Several frameworks describe quantum systems with boundary conditions at both past and future, treating "collapse" as constraint satisfaction across time rather than a moment when superposition ends.
 
-In these views, "collapse" isn't a moment when superposition ends. It's the satisfaction of constraints across time—a transaction confirmed when future and past conditions align. The apparent arrow emerges perspectivally, from observers embedded within the temporal structure.
+**Cramer's transactional interpretation** (1986) models quantum events as "handshakes" between forward-propagating offer waves and backward-propagating confirmation waves. Collapse is explicitly atemporal: it "does not happen at any specific point in time, but occurs along the whole transaction" (Cramer 1986). Ruth Kastner's possibilist extension (PTI) relocates these waves to a pre-spacetime realm of possibilities—spacetime itself *emerges* from actualized transactions. If consciousness selects which transaction completes, PTI provides a natural ontological home: consciousness operates in the pre-spacetime realm, selecting which possibilities become actual spacetime events.
 
-For consciousness, this opens a striking possibility. If [[retrocausality|retrocausal]] influence is real, consciousness's role in collapse needn't be temporally located. Consciousness might select *which transaction completes* through [[atemporal-causation|atemporal causation]], determining which correlations hold between past preparation and future measurement. The flow of time would emerge from the pattern of such selections, not precede them.
+**Aharonov's Two-State Vector Formalism** (TSVF) describes quantum systems using both a forward-evolving state from past preparation and a backward-evolving state from future post-selection. The complete quantum description requires both vectors. Weak measurements—experimentally confirmed predictions of TSVF—reveal "weak values" outside the standard eigenvalue spectrum, suggesting reality is richer than standard quantum mechanics assumes. TSVF makes [[retrocausality]] mathematically explicit: future boundary conditions partially determine present quantum states. Consciousness could function as the source of the post-selection condition in neural systems—what provides the future boundary that completes the two-state description.
+
+**Wharton and Price's all-at-once framework** takes a different route. Measurements are physical constraints on Hamilton's action integral, and solutions emerge *en bloc* from two-time boundary-value problems. Consciousness, on this view, would function as a constraint on the Lagrangian—selecting among solutions rather than causing events at moments. This is an especially minimal form of interaction: consciousness as boundary condition rather than force, aligning with the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet. Price argues that if fundamental laws are CPT-invariant (time-symmetric), retrocausality follows as the default assumption rather than an exotic addition (Price 2012; Leifer & Pusey 2017).
+
+These frameworks share a core insight: what appears as "collapse at a moment" is the satisfaction of constraints across time. The apparent arrow emerges perspectivally, from observers embedded within the temporal structure. For consciousness, this opens a striking possibility. If [[retrocausality|retrocausal]] influence is real, consciousness's role in collapse needn't be temporally located. Consciousness might select *which transaction completes* through [[atemporal-causation|atemporal causation]], determining which correlations hold between past preparation and future measurement. The flow of time would emerge from the pattern of such selections, not precede them.
+
+Crucially, Aharonov, Cohen, and Elitzur (2015) have shown that retrocausality is compatible with libertarian free will: quantum indeterminism masks future states from present access, so an already-existing future does not imply fatalism. This addresses a key concern for the Map's framework—if retrocausal selection implied a fixed future, it would undermine consciousness-as-selector.
 
 ## How Consciousness Relates to Time's Arrow
 
@@ -104,7 +110,11 @@ The debate over collapse maps onto traditional [[philosophy-of-time|philosophy o
 
 The Map's framework proposes a **modified growing block**. Past and present exist; the future doesn't yet. The "growth" of the block *is* collapse—the resolution of quantum superposition into definite history. Consciousness participates in this growth through its role in collapse. The present is where superpositions resolve; the past is accumulated collapsed structure; the future awaits selection.
 
-Why prefer the growing block over presentism or eternalism? Presentism (only the present exists) struggles with retrocausal constraints—time-symmetric physics requires past states to exert real influence, which is difficult if they no longer exist. Eternalism (all times exist equally) has no room for genuine collapse; if all moments are equally real, the transition from superposition to definite outcome is perspectival, not ontological. The growing block preserves the reality of past states (supporting retrocausal influence) while maintaining that the future is genuinely open (supporting real collapse). This is a philosophical preference, not a proof—the rate-of-passage problem (what determines the "speed" at which the block grows?) remains unresolved, as it does for all A-theoretic positions.
+Why prefer the growing block over presentism or eternalism? Presentism (only the present exists) struggles with retrocausal constraints—time-symmetric physics requires past states to exert real influence, which is difficult if they no longer exist. Eternalism (all times exist equally) has no room for genuine collapse; if all moments are equally real, the transition from superposition to definite outcome is perspectival, not ontological. The growing block preserves the reality of past states (supporting retrocausal influence) while maintaining that the future is genuinely open (supporting real collapse).
+
+Kastner's possibilist transactional interpretation offers a resolution to the apparent tension between retrocausality and the growing block. On PTI, offer and confirmation waves exist in a pre-spacetime realm of possibilities that is itself timeless. Actualized transactions establish empirical spacetime events—so spacetime *grows* through transaction completion (the growing block), while the pre-spacetime realm provides the atemporal structure retrocausal models require. The "future" that participates in transactions is the possibility space of potential absorbers, not ontologically existing future facts. This allows the Map to maintain both real collapse (possibilities genuinely eliminated at actualization) and time-symmetric physics (the pre-spacetime realm treats past and future constraints on equal footing).
+
+This is a philosophical preference, not a proof—the rate-of-passage problem (what determines the "speed" at which the block grows?) remains unresolved, as it does for all A-theoretic positions.
 
 This isn't growth *in* time but the *constitution of* time. The flow we experience is what time-constitution feels like from within. The [[temporal-consciousness|specious present]]—the experienced duration of "now"—may be the phenomenological manifestation of consciousness's constitutive role, not merely a neural representation of external time. The [[temporal-phenomenology-quantum-selection|temporal phenomenology of quantum selection]] develops this idea: the felt structure of time—retention, primal impression, protention—may be the experiential signature of consciousness selecting quantum outcomes.
 
@@ -199,10 +209,26 @@ The triad of consciousness, collapse, and time's arrow engages all five [[tenets
 ## References
 
 1. Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*, 134(6B), B1410.
+1. Aharonov, Y., Cohen, E., & Elitzur, A. C. (2015). Accommodating retrocausality with free will. *arXiv:1512.06689*.
 1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
 1. Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470.
+1. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
+1. Leifer, M. S. & Pusey, M. F. (2017). Is a time symmetric interpretation of quantum theory possible without retrocausality? *Proceedings of the Royal Society A*, 473, 20160607.
 1. Müller, S. et al. (2021). Quantum measurement arrow of time and fluctuation relations. *Nature Communications*, 12(1), 1-8.
 1. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
 1. Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
+1. Price, H. (2012). Does time-symmetry imply retrocausality? *Studies in History and Philosophy of Modern Physics*, 43, 75-83.
+1. Wharton, K. & Price, H. (2013). Dispelling the quantum spooks—a clue that Einstein missed? *arXiv:1307.7744*.
 1. Stanford Encyclopedia of Philosophy. "Retrocausality in Quantum Mechanics." https://plato.stanford.edu/entries/qm-retrocausality/
 1. Stanford Encyclopedia of Philosophy. "Thermodynamic Asymmetry in Time." https://plato.stanford.edu/entries/time-thermo/
+
+<!-- AI REFINEMENT LOG - 2026-03-15 (refine-draft, integrating retrocausal selection research)
+Changes made:
+1. Expanded "Time-Symmetric Interpretations: Atemporal Collapse" section from a brief overview into detailed treatment of three major frameworks: Cramer/Kastner transactional interpretation (with PTI's pre-spacetime ontology), Aharonov's TSVF (with weak values and post-selection), and Wharton/Price all-at-once Lagrangian models
+2. Added Aharonov et al. (2015) on retrocausality-free will compatibility
+3. Strengthened growing-block section with Kastner's PTI resolution: pre-spacetime realm is timeless while actualized spacetime grows
+4. Added 5 new references: Aharonov et al. (2015), Kastner (2012), Leifer & Pusey (2017), Price (2012), Wharton & Price (2013)
+
+Based on research in retrocausal-selection-consciousness-physics-2026-03-14.md.
+This log should be removed after human review.
+-->

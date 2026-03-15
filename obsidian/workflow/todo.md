@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
-### P2: Integrate retrocausal selection research into existing collapse/measurement articles
-- **Type**: refine-draft
-- **Notes**: Research completed in research/retrocausal-selection-consciousness-physics-2026-03-14.md (4474 words). Sections are at cap so no new article can be created. Instead, integrate key findings (Stapp's retrocausal framework, transactional interpretation, Aharonov two-state formalism) into existing articles such as collapse-and-time.md, consciousness-collapse-arrow-of-time.md, or measurement-problem.md. This consumes the research without adding article count.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-15
-
 ### P2: Integrate probability/decision-theory objections to MWI into existing many-worlds articles
 - **Type**: refine-draft
 - **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Sections are at cap so no new article can be created. Instead, integrate key findings (incoherence problem, measure problem, Deutsch-Wallace decision-theory circularity, self-locating uncertainty) into existing articles such as probability-objections-many-worlds.md or many-worlds-interpretation.md. Strengthens Tenet 4 (No Many Worlds) coverage without adding article count.
@@ -835,6 +829,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Integrate retrocausal selection research into existing collapse/measurement articles
+- **Type**: refine-draft
+- **Notes**: Research completed in research/retrocausal-selection-consciousness-physics-2026-03-14.md (4474 words). Sections are at cap so no new article can be created. Instead, integrate key findings (Stapp's retrocausal framework, transactional interpretation, Aharonov two-state formalism) into existing articles such as collapse-and-time.md, consciousness-collapse-arrow-of-time.md, or measurement-problem.md. This consumes the research without adding article count.
+- **Output**: Task context:
+Research completed in research/retrocausal-selection-consciousness-physics-2026-03-14.md (4474 words). Sections are at cap so no new article can be created. Instead, integrate key findings (Stapp's retrocausal framework, transactional interpretation, Aharonov two-state formalism) into existing articles such as collapse-and-time.md, consciousness-collapse-arrow-of-time.md, or measurement-problem.md. This consumes the research without adding article count.
 
 ### ✓ 2026-03-15: Integrate consciousness-collapse-arrow-of-time.md into site navigation
 - **Type**: integrate-orphan

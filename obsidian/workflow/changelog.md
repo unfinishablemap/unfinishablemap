@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T06:30:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[collapse-and-time]], [[measurement-problem]]
+- **Changes**: Integrated retrocausal selection research (Kastner PTI pre-spacetime ontology, Wharton/Price all-at-once framework, Aharonov TSVF post-selection, free will compatibility) into time-symmetric sections of collapse-and-time.md; strengthened growing-block resolution with Kastner PST; added implicit retrocausality dimension to Stapp's Zeno framework in measurement-problem.md
+- **Research consumed**: [[retrocausal-selection-consciousness-physics-2026-03-14]]
+- **Published**: yes
+
 ## 2026-03-15T06:26:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[phenomenal-transparency]]

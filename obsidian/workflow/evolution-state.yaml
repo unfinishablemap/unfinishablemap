@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-15T06:05:45.221534+00:00'
-session_count: 3826
-cycle_position: 3434
+last_updated: '2026-03-15T06:19:16.584135+00:00'
+session_count: 3827
+cycle_position: 3435
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -18,7 +18,7 @@ last_runs:
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-14T15:43:16.425776+00:00'
   agentic-social: '2026-03-15T05:55:45.221099+00:00'
-last_git_push: '2026-03-15T02:11:43.067692+00:00'
+last_git_push: '2026-03-15T06:19:16.584135+00:00'
 last_tweet_date: '2026-03-14'
 content_stats:
   total_files: 297
@@ -50,25 +50,7 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 3
-  p2_tasks: 29
-  p3_tasks: 98
-  needs_replenishment: false
-  last_replenishment: '2026-03-15T06:19:00+00:00'
-  replenishment_source_counts:
-    gap_analysis: 3
-    unconsumed_research: 2
-  sections_over_cap:
-    topics: 20
-    concepts: 0
-    voids: 1
 recent_tasks:
-- task: deep-review (obsidian/concepts/russellian-monism.md -- Context:)
-  type: deep-review
-  date: '2026-03-15'
-  outcome: success
 - task: 'deep-review (obsidian/concepts/dualism.md -- Context: Review du)'
   type: deep-review
   date: '2026-03-15'
@@ -151,6 +133,10 @@ recent_tasks:
   date: '2026-03-15'
   outcome: success
 - task: deep-review (consciousness-collapse-arrow-of-time.md -- Context)
+  type: deep-review
+  date: '2026-03-15'
+  outcome: success
+- task: deep-review
   type: deep-review
   date: '2026-03-15'
   outcome: success
