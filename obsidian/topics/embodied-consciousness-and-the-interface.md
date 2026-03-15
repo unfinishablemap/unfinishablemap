@@ -2,9 +2,9 @@
 title: "Embodied Consciousness and the Interface"
 description: "The body shapes how consciousness engages matter without producing it. Embodied cognition reveals the interface rather than eliminating the soul."
 created: 2026-02-09
-modified: 2026-02-13
+modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-01T21:52:00+00:00
+ai_modified: 2026-03-15T04:13:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-02-13T13:34:00+00:00
+last_deep_review: 2026-03-15T04:13:00+00:00
 ---
 
 Embodied cognition argues that the mind depends on the body—that cognition is shaped by bodily structure, situated in environmental context, and enacted through physical engagement. This is widely taken as a refutation of dualism: if mind and body are inseparable, there is nothing for a soul to be. The Unfinishable Map argues the opposite. Embodied cognition reveals the *interface* through which consciousness engages matter. The tighter the integration between mind and body, the more precisely we can characterize what the body contributes—and what it cannot explain.
@@ -88,7 +88,7 @@ The novice requires constant conscious monitoring. Every movement is explicitly 
 
 The expert has trained the interface. Procedural systems handle execution; consciousness withdraws to oversight. The [[embodied-cognition|embodied cognition]] article describes this as consciousness "delegating" to procedural systems while retaining the ability to re-engage.
 
-[[embodied-cognition#Choking Under Pressure: The Bidirectional Evidence|Choking under pressure]] reveals something crucial about this arrangement. When experts consciously monitor automated skills, performance degrades. This proves bidirectional causation: conscious attention genuinely affects bodily performance. An [[concepts/epiphenomenalism|epiphenomenal]] consciousness—one that merely accompanies physical processes—could not systematically interfere with motor execution.
+[[embodied-cognition#Choking Under Pressure: The Bidirectional Evidence|Choking under pressure]] reveals something crucial about this arrangement. When experts consciously monitor automated skills, performance degrades. This proves [[mental-causation|bidirectional causation]]: conscious attention genuinely affects bodily performance. An [[concepts/epiphenomenalism|epiphenomenal]] consciousness—one that merely accompanies physical processes—could not systematically interfere with motor execution.
 
 The interface reading explains the phenomenon precisely. Consciousness and procedural systems are distinct but coupled. Skilled performance requires the right division of labor across the interface. When consciousness re-engages execution-level processes it had delegated, it disrupts optimized patterns—like a manager micromanaging tasks they delegated to specialists. The disruption proves the manager has real causal power; the improvement after withdrawal proves the specialists can operate with appropriate autonomy.
 
@@ -130,13 +130,13 @@ There is also a deeper question the interface reading cannot answer: even if emb
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: Embodied cognition refutes Cartesian substance dualism—the ghost-in-the-machine picture. It does not refute property dualism. The phenomenological tradition that inspired embodied cognition treats experience as irreducible. The Map agrees with embodied cognition that mind and body are tightly integrated; it disagrees that integration implies identity. The interface reading preserves integration while maintaining irreducibility.
+**[[tenets#^dualism|Dualism]]**: Embodied cognition refutes Cartesian substance dualism—the ghost-in-the-machine picture. It does not refute property dualism. The phenomenological tradition that inspired embodied cognition treats experience as irreducible. The Map agrees with embodied cognition that mind and body are tightly integrated; it disagrees that integration implies identity. [[interactionist-dualism|Interactionist dualism]] holds that tight coupling is exactly what interaction requires. The interface reading preserves integration while maintaining irreducibility.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Choking under pressure demonstrates that consciousness causally influences bodily performance. Skill acquisition demonstrates that bodily practice reshapes how consciousness manifests. The interaction flows both ways through the interface. Enactivism's emphasis on "autonomous agency"—the organism actively bringing forth its world—fits a framework where consciousness is not passive recipient but active participant.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The attention-motor convergence locates the interface precisely: where [[concepts/consciousness-selecting-neural-patterns|consciousness selects among competing neural options]]. The body provides the action repertoire; attention selects within it. If this selection operates through quantum mechanisms at ion channels or microtubules, the embodied interface is where those mechanisms function. Consciousness doesn't override physics; it biases indeterminate outcomes within the structured interface the body provides.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Embodied action achieves definite outcomes. A skilled movement produces one trajectory, not all possible trajectories in parallel. If the attention-motor interface involves quantum selection, collapse—not branching—is what produces the determinate bodily engagement that embodied cognition describes. Many-worlds would make every action branch into all alternatives, undermining the very definiteness that makes skilled performance possible.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Embodied action achieves definite outcomes. A skilled movement produces one trajectory, not all possible trajectories in parallel. If the attention-motor interface involves quantum selection, collapse—not branching—is what produces the determinate bodily engagement that embodied cognition describes. Many-worlds claims all alternatives are equally realized in other branches, which dissolves the indexical fact that *this* consciousness executed *this* movement. Skilled performance depends on the agent's identity persisting through a single trajectory of action—branching undermines the very indexical continuity that makes expertise, learning, and responsibility possible.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The apparently "simpler" reading—embodiment proves materialism—assumes that showing cognitive dependence on the body resolves the hard problem. It does not. Adding more detail about how the body structures cognition does not explain why structured cognition is experienced. Parsimony cannot resolve a question it does not address.
 
