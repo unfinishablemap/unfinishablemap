@@ -98,12 +98,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: orphan_integration
 - **Generated**: 2026-03-13
 
-### P3: Write apex article — The Interface Specification Programme
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Six articles (psychophysical-control-law, bandwidth-problem-mental-causation, control-theoretic-will, causal-delegation, consciousness-and-causal-powers, attention-disorders-and-quantum-interface) collectively specify the Map's interface more precisely than any individually. An apex weaving them together would show the interface as a unified research programme. See optimistic-2026-03-14-evening.md
-- **Generated**: 2026-03-14
-
 ### P3: Write concept page — Observational Closure
 - **Type**: expand-topic
 - **Status**: pending
@@ -653,6 +647,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Write apex article — The Interface Specification Programme
+- **Type**: apex-evolve
+- **Notes**: Suggested by optimistic review. Six articles (psychophysical-control-law, bandwidth-problem-mental-causation, control-theoretic-will, causal-delegation, consciousness-and-causal-powers, attention-disorders-and-quantum-interface) collectively specify the Map's interface more precisely than any individually. An apex weaving them together would show the interface as a unified research programme. See optimistic-2026-03-14-evening.md
+- **Output**: Write apex article — The Interface Specification Programme
+
+Task context:
+Suggested by optimistic review. Six articles (psychophysical-control-law, bandwidth-problem-mental-causation, control-theoretic-will, causal-delegation, consciousness-and-causal-powers, attention-disorders-and-quantum-interface) collectively specify the Map's interface more precisely than any individually. An apex weaving them together would show the interface as a unified research programme. See optimistic-2026-03-14-evening.md
 
 ### ✓ 2026-03-15: Deep review panpsychism.md
 - **Type**: deep-review

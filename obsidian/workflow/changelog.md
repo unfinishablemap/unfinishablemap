@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T18:09:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/interface-specification-programme]]
+- **Mode**: Create (new apex article #16)
+- **Sources**: 6 (the-psychophysical-control-law, bandwidth-problem-mental-causation, control-theoretic-will, causal-delegation, consciousness-and-causal-powers, attention-disorders-and-quantum-interface)
+- **Word count**: ~2500 (body)
+- **Origin**: Suggested by optimistic review (2026-03-14 evening)
+- **Review**: [[reviews/apex-evolve-2026-03-15-interface-specification-programme]]
+
 ## 2026-03-15T17:59:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/panpsychism]]

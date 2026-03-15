@@ -357,7 +357,27 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 ---
 
-## Reserved Slots (16-20)
+### 16. The Interface Specification Programme
+
+**Slug**: `interface-specification-programme`
+
+**Subtitle**: Six converging lines of inquiry into how consciousness meets matter
+
+**Thesis**: The Unfinishable Map is not merely asserting that consciousness influences the physical world—it is developing a precise specification of how. Six lines of inquiry (the psychophysical control law, the bandwidth problem, control-theoretic will, causal delegation, the nature of consciousness's causal powers, and attention disorders as interface dysfunction) converge on a unified research programme that specifies the architecture, constraints, causal structure, and failure modes of the mind-matter interface with more precision than any individual treatment achieves.
+
+**Source articles**:
+- topics/the-psychophysical-control-law
+- concepts/bandwidth-problem-mental-causation
+- concepts/control-theoretic-will
+- concepts/causal-delegation
+- topics/consciousness-and-causal-powers
+- topics/attention-disorders-and-quantum-interface
+
+**Status**: Created 2026-03-15
+
+---
+
+## Reserved Slots (17-20)
 
 Future apex articles will be added as the Map evolves and new thematic clusters emerge. Potential candidates:
 
