@@ -4,7 +4,7 @@ description: "Why the Map rejects MWI: it raises unanswerable questions about in
 created: 2026-01-19
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-03-12T03:33:00+00:00
+ai_modified: 2026-03-15T06:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -66,11 +66,11 @@ MWI defenders invoke self-locating uncertainty: you should be uncertain which br
 
 ### 3. The Probability Problem
 
-Quantum mechanics predicts that outcomes occur with specific probabilities given by the Born rule. On MWI, all outcomes occur. This generates two distinct challenges (Wallace 2003): the **incoherence problem**—whether probability is even meaningful when nothing fails to happen—and the **quantitative problem**—why probabilities should follow the Born rule rather than simple branch-counting, which generically contradicts it (Graham 1973). See [[probability-problem-in-many-worlds]] for the full case against all three recovery strategies.
+Quantum mechanics predicts that outcomes occur with specific probabilities given by the Born rule. On MWI, all outcomes occur. This generates two distinct challenges (Wallace 2003): the **incoherence problem**—whether probability is even meaningful when nothing fails to happen—and the **quantitative problem**—why probabilities should follow the Born rule rather than simple branch-counting, which generically contradicts it (Graham 1973).
 
-Three strategies attempt to recover probability: decision-theoretic derivations (Deutsch-Wallace), self-locating uncertainty (Sebens-Carroll), and environment-assisted invariance (Zurek). None has succeeded without circularity. Decision-theoretic axioms are contested as encoding optional metaphysical attitudes rather than requirements of rationality. Self-locating uncertainty struggles because the uncertainty is either spurious or wrongly placed. Envariance derivations assume the connection between quantum states and probabilities that they claim to establish.
+Three strategies attempt to recover probability: decision-theoretic derivations (Deutsch-Wallace), self-locating uncertainty (Sebens-Carroll), and environment-assisted invariance (Zurek). None has succeeded without circularity. Decision-theoretic axioms are contested as encoding optional metaphysical attitudes rather than requirements of rationality (Kent 2010). Self-locating uncertainty struggles because the uncertainty is either spurious or wrongly placed (Lewis 2007). Envariance derivations assume the connection between quantum states and probabilities that they claim to establish.
 
-A deeper structural problem cuts across all three strategies: well-defined branches require [[decoherence]], but decoherence is described using the Born-rule norm, so the branch structure presupposes the probability rule it claims to ground (Baker 2007, Price 2010). See [[probability-problem-in-many-worlds]] for the full case against all three recovery strategies, including a detailed analysis of why the decision-theoretic program fails on its own terms.
+A deeper structural problem cuts across all three strategies: well-defined branches require [[decoherence]], but decoherence is described using the Born-rule norm, so the branch structure presupposes the probability rule it claims to ground (Baker 2007, Price 2010). This problem has persisted from Everett's original 1957 thesis through Short's 2023 contribution to *Quantum*—nearly seven decades without resolution. See [[probability-problem-in-many-worlds]] for the full case against all three recovery strategies, including a detailed analysis of why the decision-theoretic program fails on its own terms.
 
 ### 4. The Preferred Basis Problem
 
@@ -192,5 +192,19 @@ Alternative interpretations—particularly [[collapse-and-time|time-symmetric]] 
 1. Price, H. (2010). Decisions, decisions, decisions: can Savage salvage Everettian probability? In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*.
+1. Lewis, P.J. (2007). Uncertainty and probability for branching selves. *Studies in History and Philosophy of Modern Physics*, 38, 1-14.
 1. Saunders, S. et al. eds. (2010). *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press.
 1. Schlosshauer, M. et al. (2013). A Snapshot of Foundational Attitudes Toward Quantum Mechanics. *Studies in History and Philosophy of Science Part B*, 44(3), 222-230.
+1. Short, A.J. (2023). Probability in many-worlds theories. *Quantum*, 7, 971.
+
+<!-- AI REFINEMENT LOG - 2026-03-15
+Changes made:
+- Fixed duplicate "See [[probability-problem-in-many-worlds]]" reference in probability section
+- Added Kent (2010) and Lewis (2007) inline citations to probability section for specificity
+- Added historical persistence detail (Everett 1957 through Short 2023)
+- Added Lewis (2007) and Short (2023) to References section
+
+Key improvements: Probability section now gives specific attribution for key objections and emphasizes the nearly seven-decade persistence of the problem.
+
+This log should be removed after human review.
+-->

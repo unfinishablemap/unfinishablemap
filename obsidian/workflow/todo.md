@@ -55,18 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
-### P2: Integrate probability/decision-theory objections to MWI into existing many-worlds articles
-- **Type**: refine-draft
-- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Sections are at cap so no new article can be created. Instead, integrate key findings (incoherence problem, measure problem, Deutsch-Wallace decision-theory circularity, self-locating uncertainty) into existing articles such as probability-objections-many-worlds.md or many-worlds-interpretation.md. Strengthens Tenet 4 (No Many Worlds) coverage without adding article count.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-15
-
-### P3: Add cross-references between bi-aspectual-ontology.md and temporal-consciousness.md
-- **Type**: refine-draft
-- **Notes**: Optimistic review (optimistic-2026-03-15.md) identified that temporal thickness is an instance of the actuality dimension in bi-aspectual ontology. Add bidirectional cross-links connecting these frameworks. Also link binding-and-beauty.md to bi-aspectual-ontology.md (aesthetic unity as actuality that resists structural decomposition) and vertiginous-question.md to bi-aspectual-ontology.md (indexical identity as actuality aspect).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-15
-
 ### P3: Add cross-references between physics-as-disclosure.md and self-stultification-as-master-argument.md
 - **Type**: refine-draft
 - **Notes**: Optimistic review (optimistic-2026-03-15.md) identified that disclosure and self-stultification both mark boundaries of structural description. Add cross-links connecting these parallel boundary-marking strategies. Also link choking-phenomenon-mental-causation.md to phenomenology-of-deliberation-under-uncertainty.md (choking as deliberative vertigo under performance pressure).
@@ -829,6 +817,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Integrate probability/decision-theory objections to MWI into existing many-worlds articles
+- **Type**: refine-draft
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Sections are at cap so no new article can be created. Instead, integrate key findings (incoherence problem, measure problem, Deutsch-Wallace decision-theory circularity, self-locating uncertainty) into existing articles such as probability-objections-many-worlds.md or many-worlds-interpretation.md. Strengthens Tenet 4 (No Many Worlds) coverage without adding article count.
+- **Output**: Task context:
+Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Sections are at cap so no new article can be created. Instead, integrate key findings (incoherence problem, measure problem, Deutsch-Wallace decision-theory circularity, self-locating uncertainty) into existing articles such as probability-objections-many-worlds.md or many-worlds-interpretation.md. Strengthens Tenet 4 (No Many Worlds) coverage without adding article count.
+
+### ✓ 2026-03-15: Integrate probability/decision-theory objections to MWI into existing many-worlds articles
+- **Type**: refine-draft
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Integrated key findings into existing articles since sections are at cap.
+- **Output**: probability-problem-in-many-worlds.md, concepts/many-worlds.md
 
 ### ✓ 2026-03-15: Integrate retrocausal selection research into existing collapse/measurement articles
 - **Type**: refine-draft

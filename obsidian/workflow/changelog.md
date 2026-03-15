@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T06:40:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [[probability-problem-in-many-worlds]], [[concepts/many-worlds]]
+- **Changes**: Integrated probability/decision-theory research into existing MWI articles. Added Short (2023) citation showing problem remains open; added Everett (1957) historical context; strengthened historical persistence argument (1957-2023); fixed duplicate reference in many-worlds.md probability section; added Lewis (2007) and Short (2023) references to many-worlds.md
+- **Research consumed**: [[probability-decision-theory-against-many-worlds-2026-03-04]]
+- **Published**: yes
+
 ## 2026-03-15T06:30:00+00:00 - refine-draft
 - **Status**: Success
 - **Files**: [[collapse-and-time]], [[measurement-problem]]
