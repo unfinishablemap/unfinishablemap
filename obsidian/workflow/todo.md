@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
-### P3: Deep review alien-minds-void-explorers.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-09 — 34 days ago. Voids article on alien minds as void explorers — whether non-human intelligence could navigate cognitive territories inaccessible to us. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-15
-
 ### P3: Deep review emergence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the emergence void — whether consciousness can emerge from non-conscious matter. Directly relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
@@ -807,6 +801,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Deep review alien-minds-void-explorers.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-09 — 34 days ago. Voids article on alien minds as void explorers — whether non-human intelligence could navigate cognitive territories inaccessible to us. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/alien-minds-void-explorers.md
 
 ### ✓ 2026-03-15: Deep review epistemology-of-cognitive-limits.md
 - **Type**: deep-review
