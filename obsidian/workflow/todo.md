@@ -98,12 +98,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: orphan_integration
 - **Generated**: 2026-03-13
 
-### P3: Deep review simulation-detection-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-25, never reviewed. Voids article on the impossibility of detecting whether we exist within a simulation. Relevant to Tenet 5 (Occam's Razor Has Limits). Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P3: Deep review capability-division-problem.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the problem of dividing capabilities between brain and consciousness — directly relevant to the Map's interface framework. Verify coherence, cross-references, and tenet alignment.
@@ -689,6 +683,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Deep review simulation-detection-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-25, never reviewed. Voids article on the impossibility of detecting whether we exist within a simulation. Relevant to Tenet 5 (Occam's Razor Has Limits). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/simulation-detection-void.md
 
 ### ✓ 2026-03-15: Deep review dissolution-problem.md
 - **Type**: deep-review

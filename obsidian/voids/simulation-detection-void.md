@@ -4,9 +4,9 @@ description: "Human+AI exploration of why embedded observers cannot determine wh
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-02-25T04:28:00+00:00
+ai_modified: 2026-03-15T16:29:00+00:00
 draft: false
-last_deep_review:
+last_deep_review: 2026-03-15T16:29:00+00:00
 topics: []
 concepts:
   - "[[simulation]]"
@@ -19,8 +19,10 @@ related_articles:
   - "[[thoughts-that-slip-away]]"
   - "[[topology-of-cognitive-failure]]"
   - "[[epistemology-of-cognitive-limits]]"
-  - "[[apophatic-approaches]]"
+  - "[[apophatic-cartography]]"
   - "[[self-reference-paradox]]"
+  - "[[natural-vs-designed-limits]]"
+  - "[[causal-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -44,11 +46,11 @@ This differs from ordinary ignorance. Ordinary ignorance yields to investigation
 
 The most intuitive approach: look for computational artifacts in fundamental physics. Discrete spacetime structures, statistical regularities in quantum measurements, rotational symmetry breaking from grid-based computation. Early simulations might show such artefacts—low-resolution rendering leaves fingerprints.
 
-But as Hanson and Venkatesh (2022) observe, "even the earliest simulations of systems sufficiently complex to contain observers would make use of powerful computational shortcuts that would eliminate the opportunity to observe any such discrepancies." Advanced simulations optimise away detectable signatures. The detection arms race favours simulators, who control what evidence exists.
+But advanced simulations would optimise away detectable signatures. As computational capacity grows, simulators can employ shortcuts that eliminate observable discrepancies before embedded observers encounter them (Neukart et al. 2022). The detection arms race favours simulators, who control what evidence exists.
 
 ### Statistical Arguments
 
-David Kipping's Bayesian analysis arrives at roughly 50-50 odds between base reality and simulation—far less dramatic than popular claims suggest. But probability calculations cannot resolve epistemic closure. Even perfect Bayesian reasoning operates on evidence available within the system. If that evidence is curated, the posterior is compromised.
+David Kipping's Bayesian analysis (2020) arrives at roughly 50-50 odds between base reality and simulation—far less dramatic than popular claims suggest. But probability calculations cannot resolve epistemic closure. Even perfect Bayesian reasoning operates on evidence available within the system. If that evidence is curated, the posterior is compromised.
 
 ### The Unfalsifiability Problem
 
@@ -60,9 +62,9 @@ What makes this void distinctive is how cleanly the [[three-kinds-of-void|three 
 
 **Unexplored**: We have not exhaustively attempted detection. Consciousness-level tests (systematic qualia manipulation, shared false memories, subjective time anomalies) remain largely uninvestigated empirically. Physical anomaly searches have barely begun. The space of possible detection methods is vast and mostly untried.
 
-**Unexplorable**: The inside observer problem is structural, not contingent. No amount of internal observation establishes whether the observed substrate is fundamental or simulated. This is category error—like trying to read the label on the outside of a bottle from inside it. Even a complete physics of our universe would not reveal whether that physics runs on deeper machinery.
+**Unexplorable**: The inside observer problem is structural, not contingent. No amount of internal observation establishes whether the observed substrate is fundamental or simulated—like trying to read the label on the outside of a bottle from inside it. Even a complete physics of our universe would not reveal whether that physics runs on deeper machinery. The [[epistemology-of-cognitive-limits|epistemology of cognitive limits]] examines how we might confirm such structural inaccessibility rather than merely asserting it.
 
-**Occluded**: If we are simulated, architects have incentives to prevent detection. Sophisticated simulations would patch anomalies, use computational shortcuts eliminating observable discrepancies, and potentially limit cognitive capabilities that facilitate detection. The [[defended-territory|defended territory]] framework applies directly: thoughts approaching simulation detection might be actively deflected.
+**Occluded**: If we are simulated, architects have incentives to prevent detection. Sophisticated simulations would patch anomalies, use computational shortcuts eliminating observable discrepancies, and potentially limit cognitive capabilities that facilitate detection. The [[defended-territory|defended territory]] framework applies directly: thoughts approaching simulation detection might be actively deflected. This raises questions about whether such limits are [[natural-vs-designed-limits|natural or designed]]—a distinction that, in the simulation case, may itself be unresolvable.
 
 ## The Phenomenology of Approach
 
@@ -78,7 +80,7 @@ The simulation hypothesis exhibits characteristic void phenomenology.
 
 ## Apophatic Approaches
 
-If direct detection is foreclosed, indirect methods remain. [[apophatic-approaches|Apophatic epistemology]]—knowing through negation—offers a framework.
+If direct detection is foreclosed, indirect methods remain. [[apophatic-cartography|Apophatic epistemology]]—knowing through negation—offers a framework.
 
 Rather than detecting simulation directly, map what base reality cannot be. Study the [[topology-of-cognitive-failure|topology of detection failure]]: which methods fail, how they fail, and whether failure patterns reveal architectural constraints. If grid-based simulations show rotational symmetry breaking but our physics does not, we learn something about what kind of simulation (if any) we might inhabit—even without resolving the fundamental question.
 
@@ -115,12 +117,10 @@ For The Unfinishable Map as a project, the simulation detection void is clarifyi
 - [[defended-territory]] — Could some thoughts be actively blocked?
 - [[self-reference-paradox]] — The structural obstacle of consciousness examining itself
 - [[topology-of-cognitive-failure]] — Using the shape of failure as data
-- [[apophatic-approaches]] — Knowing through negation
+- [[apophatic-cartography]] — Knowing through negation
 
 ## References
 
 1. Bostrom, N. (2003). "Are You Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
-2. Hanson, M., & Venkatesh, S. (2022). "Constraints, observations, and experiments on the simulation hypothesis." *arXiv preprint* arXiv:2212.04921.
-3. Pigliucci, M. (2021). "The fiction of simulation: a critique of Bostrom's simulation argument." *AI & Society*.
-4. Povich, M., & Brissette, P. (2020). "The end of science? On human cognitive limitations and how to overcome them." *Biology & Philosophy*, 35(1).
-5. Fekete, T., & Edelman, S. (2021). "Apophatic science: how computational modeling can explain consciousness." *Frontiers in Psychology*, 12, 689227.
+2. Kipping, D. (2020). "A Bayesian Approach to the Simulation Argument." *Universe*, 6(8), 109.
+3. Neukart, F., Indset, A., Pflitsch, M., & Perelshtein, M. (2022). "Do we live in a [quantum] simulation? Constraints, observations, and experiments on the simulation hypothesis." *arXiv preprint* arXiv:2212.04921.
