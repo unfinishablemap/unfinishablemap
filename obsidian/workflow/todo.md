@@ -296,6 +296,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Taxonomy of Voids apex mentions compound limits — emergent failure modes that no single void predicts — but this interaction pattern deserves deeper treatment. How do specific voids reinforce each other? Do compound limits have emergent failure signatures? Builds on taxonomy-of-voids, compound-cognitive-limits, self-reference-paradox, introspective-opacity. See optimistic-2026-03-11-night.md
 - **Generated**: 2026-03-11
 
+### P3: Write article on consciousness and temporal agency
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Temporal consciousness develops "temporal thickness" and free will develops agent causation, but the connection between temporal phenomenology and genuine agency is never drawn explicitly. Does depth of temporal experience predict deliberation quality? Is the specious present the window of conscious selection? Builds on temporal-consciousness.md, free-will.md, phenomenology-of-deliberation-under-uncertainty.md. See optimistic-2026-03-15.md
+- **Generated**: 2026-03-15
+
+### P3: Write concept page — Temporal Thickness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Introduced in temporal-consciousness.md but used across several articles discussing phenomenal depth, authentic choice, and the specious present. A dedicated concept page would unify these references. Target section: concepts/. See optimistic-2026-03-15.md
+- **Generated**: 2026-03-15
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
