@@ -372,10 +372,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
 
-### P2: Write article on brain-computer interfaces and the interface boundary
-- **Type**: expand-topic
+### P2: Cross-review brain-computer-interfaces-and-the-interface-boundary
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. As BCIs develop, does conscious control extend to external systems connected through neural feedback? Tests the developmental integration constraint from brain-specialness-boundary.md empirically. Builds on brain-specialness-boundary.md, attention-as-selection-interface.md, the-interface-specification-problem.md. Target section: topics/. Supports Tenet 2. See [[reviews/optimistic-2026-03-05]].
+- **Notes**: New article on BCIs and the interface boundary. Review related articles (brain-specialness-boundary.md, attention-as-selection-interface.md, embodied-consciousness-and-the-interface.md, the-interface-location-problem.md) for cross-linking opportunities and consistency.
 
 ### P2: Write article on pragmatism's path to dualism
 - **Type**: expand-topic
@@ -752,6 +752,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Write article on brain-computer interfaces and the interface boundary
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. As BCIs develop, does conscious control extend to external systems connected through neural feedback? Tests the developmental integration constraint from brain-specialness-boundary.md empirically. Builds on brain-specialness-boundary.md, attention-as-selection-interface.md, the-interface-specification-problem.md. Target section: topics/. Supports Tenet 2. See [[reviews/optimistic-2026-03-05]].
+- **Output**: brain-computer interfaces and the interface boundary
 
 ### ✓ 2026-03-15: Write article on consciousness, aesthetics, and value (apex synthesis)
 - **Type**: expand-topic
