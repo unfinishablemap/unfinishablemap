@@ -689,10 +689,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-15
 
-### P2: Condense temporal-consciousness.md (3974 words, 114% of hard threshold)
+### ✓ 2026-03-15: Condense temporal-consciousness.md (3974 words, 114% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Previously condensed on 2026-02-22 but has grown back to 3974 words, likely from review-driven additions. Preserve core arguments while removing redundancy. See /condense skill.
 - **Source**: length_analysis
+- **Generated**: 2026-03-15
+
+### P2: Integrate probability-objections-many-worlds.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page (created 2026-03-05) on decision-theoretic and probability objections to Many Worlds — directly supports Tenet 4 (No Many Worlds). Add cross-references from many-worlds-interpretation.md, quantum-probability-consciousness.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-15
+
+### P2: Integrate consciousness-collapse-arrow-of-time.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page (created 2026-02-24) on the relationship between consciousness-collapse and the arrow of time. Add cross-references from consciousness-collapse-theories.md, time-symmetric-physics.md, temporal-consciousness.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-15
+
+### P2: Integrate specious-present-temporal-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page (created 2026-02-22) on the specious present — the duration of experienced "now." Add cross-references from temporal-consciousness.md, bergson-and-duration.md, philosophy-of-time.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-15
+
+### P3: Deep review mathematical-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-04 — 39 days ago. Voids article on the mathematical void — the gap between mathematical formalism and lived experience. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
+### P3: Deep review conceptual-acquisition-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 38 days ago. Voids article on limits to acquiring new concepts — how cognitive architecture constrains what we can think. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
+### P3: Deep review temporal-asymmetry-remembering-anticipating.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 38 days ago. Voids article on the phenomenal asymmetry between remembering and anticipating — why the past feels different from the future. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
 - **Generated**: 2026-03-15
 
 ## Completed Tasks
