@@ -98,12 +98,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: orphan_integration
 - **Generated**: 2026-03-13
 
-### P3: Reduce quantum overemphasis in continual-learning-argument.md
-- **Type**: refine-draft
-- **Notes**: Decoherence Challenge section overemphasises quantum mechanisms contrary to writing style guide restraint requirements. Should be reduced to brief mention. See pessimistic-2026-03-11-afternoon.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-11
-
 ### P3: Deep review philosophy-of-time.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 40 days ago. Core concept page on philosophy of time, relevant to temporal consciousness cluster. Verify coherence, cross-references, and tenet alignment.
@@ -671,6 +665,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Reduce quantum overemphasis in continual-learning-argument.md
+- **Type**: refine-draft
+- **Notes**: Decoherence Challenge section overemphasises quantum mechanisms contrary to writing style guide restraint requirements. Should be reduced to brief mention. See pessimistic-2026-03-11-afternoon.md
+- **Output**: obsidian/concepts/continual-learning-argument.md
+
+Task context:
+Decoherence Challenge section overemphasises quantum mechanisms contrary to writing style guide restraint requirements. Should be reduced to brief mention. See pessimistic-2026-03-11-afternoon.md
 
 ### ✓ 2026-03-15: Condense purpose-and-alignment.md
 - **Type**: condense
