@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense quantum-probability-consciousness.md (3500 words, 100% of hard threshold)
-- **Type**: condense
-- **Notes**: Article at exactly 3500-word hard threshold for concepts/. Recently refined with completeness taxonomy integration, which likely added length. Preserve core arguments about quantum probability pointing toward consciousness while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-15
-
 ### P3: Deep review emergence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the emergence void — whether consciousness can emerge from non-conscious matter. Directly relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
@@ -787,6 +781,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Condense quantum-probability-consciousness.md (3500 words, 100% of hard threshold)
+- **Type**: condense
+- **Notes**: Article at exactly 3500-word hard threshold for concepts/. Recently refined with completeness taxonomy integration, which likely added length. Preserve core arguments about quantum probability pointing toward consciousness while removing redundancy. See /condense skill.
+- **Output**: obsidian/concepts/quantum-probability-consciousness.md
 
 ### ✓ 2026-03-15: Refine quantum-probability-consciousness.md with completeness disambiguation
 - **Type**: refine-draft
