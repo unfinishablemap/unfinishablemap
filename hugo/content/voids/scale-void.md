@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-03 02:27:00+00:00
+ai_modified: 2026-03-15 02:21:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[mysterianism]]'
+- '[[cognitive-closure]]'
 - '[[simulation]]'
 - '[[phenomenology]]'
 created: 2026-02-02
@@ -15,7 +16,7 @@ description: Human+AI exploration of why cosmic distances, deep time, and large 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 02:27:00+00:00
+last_deep_review: 2026-03-15 02:21:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -37,9 +38,9 @@ The scale void is a mixed void in the [taxonomy](/voids/three-kinds-of-void/)—
 
 Roughly fifty percent of educated adults, when asked to place one million on a number line between one thousand and one billion, put it somewhere in the middle. The correct position is almost touching one thousand—a billion is a thousand millions. This is not failure of mathematical education. It reveals that beyond a certain point, the brain processes large numbers as categories rather than quantities. "Million" and "billion" become markers meaning "very big" rather than graspable magnitudes with a thousandfold difference between them.
 
-Research suggests this categorical processing is hardwired (Resnick et al. 2017). Elizabeth Toomarian, a cognitive neuroscientist studying numerical cognition, observes: "Our brains are evolutionarily very old and we are pushing them to do things that we've only just recently conceptualized" (Toomarian & Hubbard 2018). The problem is not that we lack the right metaphors but that the brain's number-processing systems evolved for counting prey animals, tracking tribal alliances, and estimating distances we could walk in a day. Billions of years, light-years, and trillions of dollars fall so far outside the ancestral problem-space that our intuitions offer no purchase.
+Research suggests this categorical processing is hardwired (Resnick et al. 2017). Elizabeth Toomarian, a cognitive neuroscientist studying numerical cognition, observes: "Our brains are evolutionarily very old and we are pushing them to do things that we've only just recently conceptualized" (Toomarian & Hubbard 2018). The problem is not that we lack the right metaphors but that the brain's number-processing systems evolved for counting prey animals, tracking tribal alliances, and estimating distances we could walk in a day—an [evolutionary mismatch](/voids/evolved-cognitive-limits/) (Li, van Vugt & Colarelli 2018). Billions of years, light-years, and trillions of dollars fall so far outside the ancestral problem-space that our intuitions offer no purchase.
 
-Deep time presents a particularly stark example. Despite over a century of geological knowledge, popular intuition about Earth's 4.5-billion-year age remains systematically distorted. This is not merely a failure of science communication. Temporal experience itself resists extension. Husserl's phenomenological analysis reveals that the "subjective present"—the window of temporal experience—extends over only a few hundred milliseconds to a few seconds. We cannot *experience* an hour as a unified whole, only conceptualize it. Deep time is not merely too large to imagine; it is categorically different from experienced time.
+Deep time presents a particularly stark example. Despite over a century of geological knowledge, popular intuition about Earth's 4.5-billion-year age remains systematically distorted. This is not merely a failure of science communication. Temporal experience itself resists extension. Husserl's phenomenological analysis (1991) reveals that the "subjective present"—the window of temporal experience—extends over only a few hundred milliseconds to a few seconds. We cannot *experience* an hour as a unified whole, only conceptualize it. Deep time is not merely too large to imagine; it is categorically different from experienced time.
 
 ## Kant and the Sublime
 
@@ -75,7 +76,7 @@ The scale void spans multiple categories in the [voids taxonomy](/voids/three-ki
 
 ## What the Failure Reveals
 
-Colin McGinn's [cognitive closure](/concepts/mysterianism/) framework illuminates why scale-limits might be structural rather than merely educational. McGinn argues that minds can be *cognitively closed* with respect to certain properties—the properties exist, but the mind's concept-forming procedures cannot extend to grasp them. A rat is cognitively closed to calculus not because it lacks sufficient intelligence within its domain but because the conceptual apparatus simply isn't there.
+Colin McGinn's [cognitive closure](/concepts/cognitive-closure/) framework illuminates why scale-limits might be structural rather than merely educational. McGinn argues that minds can be *cognitively closed* with respect to certain properties—the properties exist, but the mind's concept-forming procedures cannot extend to grasp them. A rat is cognitively closed to calculus not because it lacks sufficient intelligence within its domain but because the conceptual apparatus simply isn't there.
 
 The scale void suggests humans may be cognitively closed to magnitudes beyond our evolutionary niche. Not closed to *representing* them—we can manipulate the symbols—but closed to *comprehending* them. The symbols work; the intuition is absent. We have the pointer without the referent.
 
@@ -100,6 +101,8 @@ The scale void connects to the Map's [tenets](/tenets/) in several ways.
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
 - [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) — What concepts can minds form?
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
+- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Species-level architectural constraints on cognition
+- [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Capacity limits on phenomenological resolution
 
 ## References
 
@@ -108,5 +111,4 @@ The scale void connects to the Map's [tenets](/tenets/) in several ways.
 3. Resnick, I., et al. (2017). "Dealing with Big Numbers: Representation and Understanding of Magnitudes Outside of Human Experience." *Cognitive Science*, 41(4), 1020-1041.
 4. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 5. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time*. Trans. John Brough. Kluwer.
-6. Stanford Encyclopedia of Philosophy. "Infinity." https://plato.stanford.edu/entries/infinity/
-7. Toomarian, E. Y., & Hubbard, E. M. (2018). "On the genesis of spatial-numerical associations: Evolutionary and cultural factors co-construct the mental number line." *Neuroscience & Biobehavioral Reviews*, 90, 59-78.
+6. Toomarian, E. Y., & Hubbard, E. M. (2018). "On the genesis of spatial-numerical associations: Evolutionary and cultural factors co-construct the mental number line." *Neuroscience & Biobehavioral Reviews*, 90, 59-78.

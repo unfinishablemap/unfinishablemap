@@ -59,7 +59,7 @@ related_articles:
   - "[[consciousness-time-perception-2026-01-14]]"
   - "[[process-and-consciousness]]"
   - "[[temporal-structure-of-consciousness]]"
-  - "[[consciousness-and-temporal-becoming]]"
+  - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
   - "[[continuity-void]]"
   - "[[choking-phenomenon-mental-causation]]"
   - "[[consciousness-as-activity]]"
@@ -127,7 +127,7 @@ Protention is Husserl's term for the forward-directed dimension of every conscio
 
 Protention differs from prediction. Predictive processing models (Clark, Friston) capture the computational dimension of anticipation but leave untouched the phenomenological one. Protention is a feature of *experience*—the felt incompleteness of the present moment, its qualitative directedness toward a continuation consciousness cannot yet inhabit but already reaches toward.
 
-Protention and retention are phenomenologically asymmetric. Retention preserves what has actually been experienced—fading in what Husserl called *Abklang*. Protention opens toward what has not been experienced, carrying only a directional structure shaped by what has been retained. This asymmetry connects to the [[consciousness-and-temporal-becoming|impossibility of pre-experience]]. Without protention, the specious present would be a trailing smear of fading past; protention gives it forward momentum.
+Protention and retention are phenomenologically asymmetric. Retention preserves what has actually been experienced—fading in what Husserl called *Abklang*. Protention opens toward what has not been experienced, carrying only a directional structure shaped by what has been retained. This asymmetry connects to the [[consciousness-and-the-ontology-of-temporal-becoming|impossibility of pre-experience]]. Without protention, the specious present would be a trailing smear of fading past; protention gives it forward momentum.
 
 Protention connects to the [[phenomenology-of-choice|phenomenology of choice]]: deliberation requires protentional inhabitation of possible futures, connecting to [[agent-causation|agent-causal]] accounts of free will and the Map's claim that consciousness selects among quantum possibilities. Unlike [[prospective-memory]] (deliberate future simulation), protention is the anticipatory structure that makes deliberation possible.
 

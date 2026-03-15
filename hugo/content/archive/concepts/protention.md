@@ -65,7 +65,7 @@ Retention preserves what has actually been experienced. The just-heard note ling
 
 Protention opens toward what has not been experienced. It carries no fulfilled content from actual events — only a directional structure shaped by what has been retained. The next note in a melody is anticipated not as pure blankness but as a structured opening conditioned by the tonal and rhythmic context of what preceded it. Where retention is thick with traces, protention is empty yet shaped, like an open question rather than a fading answer.
 
-This asymmetry connects to the deeper [impossibility of pre-experience](/topics/consciousness-and-temporal-becoming/). Retention works because past events have causally affected the conscious subject. Protention works differently: it projects the structural implications of present experience forward. The melody's next note is anticipated not because the future has reached back but because the present is structured in a way that implies continuation.
+This asymmetry connects to the deeper [impossibility of pre-experience](/topics/consciousness-and-the-ontology-of-temporal-becoming/). Retention works because past events have causally affected the conscious subject. Protention works differently: it projects the structural implications of present experience forward. The melody's next note is anticipated not because the future has reached back but because the present is structured in a way that implies continuation.
 
 ## Protention and the Specious Present
 
@@ -106,7 +106,7 @@ Protention supports the Map's foundational commitments at multiple points.
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — Extended exploration of protention, surprise, and anticipatory consciousness
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and Husserl's tripartite structure
 - [temporal-thickness](/concepts/temporal-consciousness/) — How protentional reach contributes to moment density
-- [consciousness-and-temporal-becoming](/topics/consciousness-and-temporal-becoming/) — Why protention and retention differ in phenomenal weight
+- [consciousness-and-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — Why protention and retention differ in phenomenal weight
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — How anticipatory consciousness enables deliberation
 - [prospective-memory](/concepts/prospective-memory/) — Deliberate future simulation vs. pre-reflective protention
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's subjective aim and processual experience

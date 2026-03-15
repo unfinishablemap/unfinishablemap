@@ -29,7 +29,7 @@ last_deep_review: 2026-03-05 01:04:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[temporal-ontology-and-consciousness]]'
+- '[[consciousness-and-the-ontology-of-temporal-becoming]]'
 title: Time, Collapse, and Agency
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -236,7 +236,7 @@ This synthesis strengthens and deepens each of the five tenets:
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Durée, the specious present, and the phenomenology of temporal experience
 - [temporal-phenomenology-quantum-selection](/concepts/temporal-consciousness/) — Retention, primal impression, and protention as the experiential signature of quantum selection
 - [philosophy-of-time](/concepts/philosophy-of-time/) — Presentism, eternalism, and the growing block
-- [temporal-ontology-and-consciousness](/topics/temporal-ontology-and-consciousness/) — How temporal ontology and consciousness theories form natural pairings
+- [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology constrains consciousness theory, and why consciousness constitutes time's felt direction
 - [free-will](/topics/free-will/) — The Map's account of libertarian agency
 - [agent-causation](/concepts/agent-causation/) — The agent as ultimate source of action
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse remains unexplained

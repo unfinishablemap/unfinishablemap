@@ -18,6 +18,108 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T04:37:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [temporal-ontology-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/), [consciousness-and-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
+- **Target**: [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
+- **Archived**: archive/topics/temporal-ontology-and-consciousness.md, archive/topics/consciousness-and-temporal-becoming.md
+- **References updated**: 8 files (philosophy-of-time, bergson-and-duration, growing-block-universe-and-consciousness, temporal-structure-of-consciousness, time-collapse-and-agency, temporal-consciousness, temporal-void, phenomenology-of-temporal-attention)
+- **References to review**: none
+
+## 2026-03-15T04:22:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [probability-objections-many-worlds](/archive/concepts/probability-objections-many-worlds/) (archived)
+- **Word count**: 1285 → 1273 (-12)
+- **Critical issues addressed**: 3 (duplicate topic, duplicate Further Reading, duplicate reference)
+- **Medium issues addressed**: 1 (orphan integration via cross-link from measurement-problem.md)
+- **Enhancements made**: 1 (cross-link added to successor article)
+- **Output**: [deep-review-2026-03-15-probability-objections-many-worlds](/reviews/deep-review-2026-03-15-probability-objections-many-worlds/)
+- **Note**: Archived file, superseded by probability-problem-in-many-worlds. Orphan status expected.
+
+## 2026-03-15T04:13:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/)
+- **Word count**: 2310 → 2350 (+40)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (MWI definiteness argument reframed around indexical identity)
+- **Enhancements made**: 3 (MWI reframe, 2 inline cross-links added)
+- **Output**: [deep-review-2026-03-15-embodied-consciousness-and-the-interface](/reviews/deep-review-2026-03-15-embodied-consciousness-and-the-interface/)
+
+## 2026-03-15T04:08:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [russellian-monism](/concepts/russellian-monism/)
+- **Changes**: Restructured critique section with Pautz parity, Cutter instability, and Howell epiphenomenalism arguments; sharpened opening summary; added 6 references; cross-referenced bi-aspectual ontology
+- **Published**: yes
+
+## 2026-03-15T03:44:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/)
+- **Changes**: Rewrote actuality section to acknowledge posited role vs mechanism; added IIT and QBism competitor sections; strengthened aspects objection response; fixed language issues
+- **Published**: yes
+
+## 2026-03-15T03:34:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft content in topics/ (~222 files), concepts/ (~201 files), tenets/ (1 file)
+- **Output**: [optimistic-2026-03-15](/reviews/optimistic-2026-03-15/)
+
+## 2026-03-15T03:25:00+00:00 - condense
+- **Status**: Success
+- **File**: [temporal-consciousness](/concepts/temporal-consciousness/)
+- **Before**: 3974
+- **After**: 2676
+- **Reduction**: 33%
+- **Technique**: Removed redundant Process Philosophy and Metaphysical Framework sections (covered elsewhere), merged Phenomenological Method with Temporal Binding, trimmed contemplative traditions detail, tightened protention/retention exposition, condensed machine consciousness and sleep sections, pruned Further Reading
+
+## 2026-03-15T03:14:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [measurement-problem](/concepts/measurement-problem/)
+- **Word count**: 3044 → 3050 (+6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-15-measurement-problem](/reviews/deep-review-2026-03-15-measurement-problem/)
+
+## 2026-03-15T03:04:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
+- **Word count**: 2565 → 2572 (+7)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 2
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-15-phenomenology-of-deliberation-under-uncertainty](/reviews/deep-review-2026-03-15-phenomenology-of-deliberation-under-uncertainty/)
+
+## 2026-03-15T02:54:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [dualism](/concepts/dualism/)
+- **Word count**: 2206 → 2277 (+71)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing bi-aspectual ontology connection, missing concept cross-link, missing from Further Reading)
+- **Enhancements made**: 1 (bi-aspectual ontology integration in Relation to Site Perspective)
+- **Output**: [deep-review-2026-03-15-dualism](/reviews/deep-review-2026-03-15-dualism/)
+
+## 2026-03-15T02:44:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [russellian-monism](/concepts/russellian-monism/)
+- **Word count**: 2832 → 2836 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-03-15-russellian-monism](/reviews/deep-review-2026-03-15-russellian-monism/)
+
+## 2026-03-15T02:39:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/bi-aspectual-ontology.md, concepts/physics-as-disclosure.md
+- **Output**: [pessimistic-2026-03-15](/reviews/pessimistic-2026-03-15/)
+
+## 2026-03-15T02:21:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [scale-void](/voids/scale-void/)
+- **Word count**: 1630 → 1649 (+19)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-03-15-scale-void](/reviews/deep-review-2026-03-15-scale-void/)
+
 ## 2026-03-15T02:11:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [normative-void](/voids/normative-void/)

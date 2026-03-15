@@ -146,7 +146,7 @@ Temporal asymmetry connects to all five [tenets](/tenets/):
 - [duration](/concepts/temporal-consciousness/) — Bergson's qualitative lived time
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — The phenomenological structure of future-directed experience
 - [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) — How remembering constitutes the temporally extended self
-- [temporal-ontology-and-consciousness](/topics/temporal-ontology-and-consciousness/) — How temporal ontology and consciousness theories form natural pairings
+- [temporal-ontology-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology and consciousness theories form natural pairings
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and temporal ontology
 
 ## References

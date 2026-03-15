@@ -24,7 +24,7 @@ related_articles:
 - '[[attention-as-selection-interface]]'
 - '[[time-collapse-and-agency]]'
 - '[[consciousness-and-skilled-performance]]'
-- '[[consciousness-and-temporal-becoming]]'
+- '[[consciousness-and-the-ontology-of-temporal-becoming]]'
 - '[[phenomenology-of-anticipation]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 title: The Phenomenology of Temporal Attention
@@ -91,7 +91,7 @@ Attention relates differently to past and future. We can attend to anticipated e
 
 This asymmetry in temporal attention mirrors time's arrow—the experienced difference between past and future. If the Map's framework is correct that [consciousness participates in collapse and collapse creates irreversibility](/topics/time-collapse-and-agency/), then temporal attention may be the phenomenological manifestation of that participation. Attending forward feels open because outcomes are genuinely undetermined. Attending backward feels closed because collapse has already occurred. On this reading, the asymmetry of temporal attention is not an illusion imposed on a symmetric physical substrate but a direct experience of the process through which time acquires its direction.
 
-This interpretation is contested. Many-worlds defenders explain temporal asymmetry through decoherence and branching structure without invoking conscious collapse. The Map's claim is that the *qualitative character* of protention versus retention—their felt difference, not merely their direction—resists this dissolution. The openness of anticipation is not merely epistemic uncertainty about which branch one occupies; it carries a phenomenal texture that the branching account leaves unexplained. This connects to [temporal creativity](/topics/consciousness-and-temporal-becoming/): consciousness does not merely observe the future arriving but participates in its constitution, and the [growing block](/topics/growing-block-universe-and-consciousness/) framework explains why the past feels closed in a way the future does not.
+This interpretation is contested. Many-worlds defenders explain temporal asymmetry through decoherence and branching structure without invoking conscious collapse. The Map's claim is that the *qualitative character* of protention versus retention—their felt difference, not merely their direction—resists this dissolution. The openness of anticipation is not merely epistemic uncertainty about which branch one occupies; it carries a phenomenal texture that the branching account leaves unexplained. This connects to [temporal creativity](/topics/consciousness-and-the-ontology-of-temporal-becoming/): consciousness does not merely observe the future arriving but participates in its constitution, and the [growing block](/topics/growing-block-universe-and-consciousness/) framework explains why the past feels closed in a way the future does not.
 
 ## Relation to Site Perspective
 
@@ -115,7 +115,7 @@ The phenomenology of temporal attention aligns with several of the Map's [tenets
 - [attention-as-selection-interface](/topics/attention-as-selection-interface/)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/)
 - [phenomenology of flow states](/topics/consciousness-and-skilled-performance/)
-- [consciousness-and-temporal-becoming](/topics/consciousness-and-temporal-becoming/)
+- [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
 - [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)

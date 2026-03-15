@@ -23,10 +23,9 @@ last_deep_review: 2026-02-15 14:24:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[temporal-ontology-and-consciousness]]'
+- '[[consciousness-and-the-ontology-of-temporal-becoming]]'
 - '[[time-collapse-and-agency]]'
 - '[[temporal-structure-of-consciousness]]'
-- '[[consciousness-and-temporal-becoming]]'
 title: The Growing Block Universe and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -122,9 +121,8 @@ The growing block connects to all five of the Map's [tenets](/tenets/):
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The experienced duration of the present moment
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's qualitative lived time
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's actual occasions and concrescence
-- [consciousness-and-temporal-becoming](/topics/consciousness-and-temporal-becoming/) — Why consciousness constitutes time's felt direction
+- [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology constrains consciousness theory, and why consciousness constitutes time's felt direction
 - [retrocausality](/concepts/retrocausality/) — How consciousness might select outcomes atemporally at collapse
-- [temporal-ontology-and-consciousness](/topics/temporal-ontology-and-consciousness/) — How temporal ontology and consciousness theories form natural pairings
 - [time-consciousness-growing-block](/apex/time-consciousness-growing-block/) — Apex synthesis of time and consciousness
 
 ## References

@@ -72,7 +72,7 @@ The [cartography-problem](/voids/cartography-problem/) proof — that a complete
 ### High Priority
 
 #### The Temporal Structure of Consciousness
-- **Builds on**: [consciousness-and-temporal-becoming](/topics/consciousness-and-temporal-becoming/), [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/), [smoothness-problem](/voids/smoothness-problem/), scattered temporal references across 30+ articles
+- **Builds on**: [consciousness-and-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/), [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/), [smoothness-problem](/voids/smoothness-problem/), scattered temporal references across 30+ articles
 - **Would address**: The Map repeatedly identifies temporal structure — protention-retention, durational unity, irreversibility of experience, the specious present — as irreducible to neural timing. A dedicated treatment would unify these scattered observations into a coherent argument that temporal phenomenology is the *primary* evidence for consciousness's non-physical character
 - **Estimated scope**: Long article (2500-3000 words)
 - **Tenet alignment**: Supports Dualism (temporal unity transcends neural computation), Bidirectional Interaction (conscious temporal structuring of action), No Many Worlds (temporal irreversibility requires definite outcomes)
@@ -112,7 +112,7 @@ The [cartography-problem](/voids/cartography-problem/) proof — that a complete
 | [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) | [capability-division-problem](/voids/capability-division-problem/) | Anaesthetic pharmacology reveals which components are brain-side (receptor-dependent) and which are mind-side (consciousness-dependent) |
 | [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) | [binding-problem](/concepts/binding-problem/) | The combination problem IS the binding problem generalised — same structure, different scope |
 | [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/) | [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) | The former provides the metaphysical foundations the latter needs |
-| [smoothness-problem](/voids/smoothness-problem/) | [consciousness-and-temporal-becoming](/topics/consciousness-and-temporal-becoming/) | Neural discreteness vs experiential continuity IS the temporal becoming problem at perceptual timescales |
+| [smoothness-problem](/voids/smoothness-problem/) | [consciousness-and-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) | Neural discreteness vs experiential continuity IS the temporal becoming problem at perceptual timescales |
 | [cartography-problem](/voids/cartography-problem/) | [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) | Both address structural limits on knowledge — connect the void framework to Tenet 5 |
 
 ## New Concept Pages Needed

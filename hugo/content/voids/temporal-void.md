@@ -36,7 +36,7 @@ related_articles:
 - '[[scale-void]]'
 - '[[continuity-void]]'
 - '[[resolution-void]]'
-- '[[consciousness-and-temporal-becoming]]'
+- '[[consciousness-and-the-ontology-of-temporal-becoming]]'
 - '[[binding-void]]'
 title: The Temporal Void
 topics:
@@ -168,7 +168,7 @@ The Map speculates that the temporal void may be partly occluded rather than mer
 - [continuity-void](/voids/continuity-void/) — Whether consciousness has gaps
 - [resolution-void](/voids/resolution-void/) — The temporal resolution limit of conscious access
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How time structures conscious experience
-- [consciousness-and-temporal-becoming](/topics/consciousness-and-temporal-becoming/) — Why temporal passage may require consciousness
+- [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology constrains consciousness theory, and why consciousness constitutes time's felt direction
 - [philosophy-of-time](/concepts/philosophy-of-time/) — McTaggart's A/B series, presentism, and eternalism
 
 ## References

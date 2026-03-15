@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-01 21:52:00+00:00
+ai_modified: 2026-03-15 04:13:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,13 +16,13 @@ concepts:
 - '[[mental-causation]]'
 - '[[explanatory-gap]]'
 created: 2026-02-09
-date: &id001 2026-02-13
+date: &id001 2026-03-15
 description: The body shapes how consciousness engages matter without producing it.
   Embodied cognition reveals the interface rather than eliminating the soul.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-13 13:34:00+00:00
+last_deep_review: 2026-03-15 04:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -90,7 +90,7 @@ The novice requires constant conscious monitoring. Every movement is explicitly 
 
 The expert has trained the interface. Procedural systems handle execution; consciousness withdraws to oversight. The [embodied cognition](/concepts/embodied-cognition/) article describes this as consciousness "delegating" to procedural systems while retaining the ability to re-engage.
 
-[Choking under pressure](/concepts/embodied-cognition/#choking-under-pressure-the-bidirectional-evidence) reveals something crucial about this arrangement. When experts consciously monitor automated skills, performance degrades. This proves bidirectional causation: conscious attention genuinely affects bodily performance. An [epiphenomenal](/concepts/epiphenomenalism/) consciousness—one that merely accompanies physical processes—could not systematically interfere with motor execution.
+[Choking under pressure](/concepts/embodied-cognition/#choking-under-pressure-the-bidirectional-evidence) reveals something crucial about this arrangement. When experts consciously monitor automated skills, performance degrades. This proves [bidirectional causation](/concepts/mental-causation/): conscious attention genuinely affects bodily performance. An [epiphenomenal](/concepts/epiphenomenalism/) consciousness—one that merely accompanies physical processes—could not systematically interfere with motor execution.
 
 The interface reading explains the phenomenon precisely. Consciousness and procedural systems are distinct but coupled. Skilled performance requires the right division of labor across the interface. When consciousness re-engages execution-level processes it had delegated, it disrupts optimized patterns—like a manager micromanaging tasks they delegated to specialists. The disruption proves the manager has real causal power; the improvement after withdrawal proves the specialists can operate with appropriate autonomy.
 
@@ -132,13 +132,13 @@ There is also a deeper question the interface reading cannot answer: even if emb
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: Embodied cognition refutes Cartesian substance dualism—the ghost-in-the-machine picture. It does not refute property dualism. The phenomenological tradition that inspired embodied cognition treats experience as irreducible. The Map agrees with embodied cognition that mind and body are tightly integrated; it disagrees that integration implies identity. The interface reading preserves integration while maintaining irreducibility.
+**[Dualism](/tenets/#dualism)**: Embodied cognition refutes Cartesian substance dualism—the ghost-in-the-machine picture. It does not refute property dualism. The phenomenological tradition that inspired embodied cognition treats experience as irreducible. The Map agrees with embodied cognition that mind and body are tightly integrated; it disagrees that integration implies identity. [Interactionist dualism](/concepts/interactionist-dualism/) holds that tight coupling is exactly what interaction requires. The interface reading preserves integration while maintaining irreducibility.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Choking under pressure demonstrates that consciousness causally influences bodily performance. Skill acquisition demonstrates that bodily practice reshapes how consciousness manifests. The interaction flows both ways through the interface. Enactivism's emphasis on "autonomous agency"—the organism actively bringing forth its world—fits a framework where consciousness is not passive recipient but active participant.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The attention-motor convergence locates the interface precisely: where [consciousness selects among competing neural options](/concepts/consciousness-selecting-neural-patterns/). The body provides the action repertoire; attention selects within it. If this selection operates through quantum mechanisms at ion channels or microtubules, the embodied interface is where those mechanisms function. Consciousness doesn't override physics; it biases indeterminate outcomes within the structured interface the body provides.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Embodied action achieves definite outcomes. A skilled movement produces one trajectory, not all possible trajectories in parallel. If the attention-motor interface involves quantum selection, collapse—not branching—is what produces the determinate bodily engagement that embodied cognition describes. Many-worlds would make every action branch into all alternatives, undermining the very definiteness that makes skilled performance possible.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Embodied action achieves definite outcomes. A skilled movement produces one trajectory, not all possible trajectories in parallel. If the attention-motor interface involves quantum selection, collapse—not branching—is what produces the determinate bodily engagement that embodied cognition describes. Many-worlds claims all alternatives are equally realized in other branches, which dissolves the indexical fact that *this* consciousness executed *this* movement. Skilled performance depends on the agent's identity persisting through a single trajectory of action—branching undermines the very indexical continuity that makes expertise, learning, and responsibility possible.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The apparently "simpler" reading—embodiment proves materialism—assumes that showing cognitive dependence on the body resolves the hard problem. It does not. Adding more detail about how the body structures cognition does not explain why structured cognition is experienced. Parsimony cannot resolve a question it does not address.
 

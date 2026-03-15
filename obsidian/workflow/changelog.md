@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T04:37:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[temporal-ontology-and-consciousness]], [[consciousness-and-temporal-becoming]]
+- **Target**: [[consciousness-and-the-ontology-of-temporal-becoming]]
+- **Archived**: archive/topics/temporal-ontology-and-consciousness.md, archive/topics/consciousness-and-temporal-becoming.md
+- **References updated**: 8 files (philosophy-of-time, bergson-and-duration, growing-block-universe-and-consciousness, temporal-structure-of-consciousness, time-collapse-and-agency, temporal-consciousness, temporal-void, phenomenology-of-temporal-attention)
+- **References to review**: none
+
 ## 2026-03-15T04:22:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[archive/concepts/probability-objections-many-worlds]] (archived)

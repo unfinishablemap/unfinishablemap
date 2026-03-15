@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-15 00:52:00+00:00
+ai_modified: 2026-03-15 03:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,6 +13,8 @@ concepts:
 - '[[substance-property-dualism]]'
 - '[[causal-closure]]'
 - '[[measurement-problem]]'
+- '[[integrated-information-theory]]'
+- '[[qbism]]'
 created: 2026-03-15
 date: &id001 2026-03-15
 description: Reality has two irreducible aspects — structure (physics) and actuality
@@ -21,7 +23,7 @@ description: Reality has two irreducible aspects — structure (physics) and act
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-15 00:52:00+00:00
+last_deep_review: 2026-03-15 03:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,9 +49,13 @@ What physics does not describe is why one particular outcome from among the perm
 
 ### Actuality
 
-Consciousness is what makes possibilities actual. When a quantum measurement yields a definite result, something selects that result from among the alternatives the wavefunction permits. The Map holds that consciousness is this selector — not everywhere and always, but specifically where the right physical interface exists (neural systems that present quantum indeterminacies to conscious attention).
+When a quantum measurement yields a definite result, something determines that result from among the alternatives the wavefunction permits. "Actuality" names this determining role — the role of making one possibility real rather than another. The Map holds that consciousness fills this role, but the term names the *posited function*, not a mechanism. Specifying how consciousness actualises possibilities remains an open problem (see [psychophysical-coupling](/concepts/psychophysical-coupling/)).
 
-Actuality is not a structural property. It cannot be captured by any equation or functional description because it is what *realises* structure rather than being part of structure. This is why the [hard problem](/topics/hard-problem-of-consciousness/) resists solution from within physics: no structural account can explain why there is something it is like to be conscious, because consciousness belongs to the other aspect.
+Why think consciousness fills this role rather than some as-yet-unknown physical process? Two independent considerations converge. First, the [hard problem](/topics/hard-problem-of-consciousness/) gives reason to think consciousness is real and irreducible to structure — it is not an entity invented to plug the measurement gap but something we know exists on independent grounds. Second, the measurement problem marks the point where structural description reaches its limit: physics specifies what can happen and with what probability, but not why *this* outcome becomes actual. These two facts — an independently motivated non-structural reality, and a gap in structural explanation at exactly the point where possibilities become actual — make consciousness a motivated candidate for the actualising role, not merely a label for our ignorance.
+
+This does not mean consciousness is the *only* possible candidate. A critic may argue that actualisation is simply a brute fact requiring no further explanation — that outcomes just happen with their Born-rule probabilities. The Map disagrees: the existence of definite outcomes demands an account, and consciousness is the only independently motivated non-structural reality available to provide one.
+
+Actuality is not a structural property. It cannot be captured by any equation or functional description because it is what *realises* structure rather than being part of structure. This is why the hard problem resists solution from within physics: no structural account can explain why there is something it is like to be conscious, because consciousness belongs to the other aspect.
 
 ## What Makes This Position Bi-Aspectual
 
@@ -99,6 +105,18 @@ The practical difference: substance dualism faces Princess Elisabeth's challenge
 
 This does not dissolve the interaction problem entirely. Specifying the coupling between structure and actuality remains the central open challenge (see [psychophysical-coupling](/concepts/psychophysical-coupling/)). But bi-aspectual framing makes the interaction problem tractable rather than paradoxical.
 
+## Distinguished from Integrated Information Theory
+
+[Integrated Information Theory (IIT)](/concepts/integrated-information-theory/) shares the Map's insistence that consciousness is fundamental and irreducible. Both positions reject eliminativism and take the hard problem seriously. But IIT identifies consciousness *with* a physical property — integrated information (Φ) — rather than treating it as ontologically distinct from physical structure. On IIT, consciousness is what high-Φ systems *are* from the inside; there is no causal role for consciousness beyond what the physical structure already determines.
+
+The Map requires more. The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) demands that consciousness causally influence physical outcomes — not merely accompany them. IIT's consciousness is structurally determined: given the physical configuration, Φ is fixed. There is no room for consciousness to select among physically permitted alternatives, because the alternatives are already settled by the integrated information structure. IIT is therefore a sophisticated physicalism about consciousness's causal role, despite its anti-reductionist rhetoric about qualia.
+
+## Distinguished from QBism
+
+[QBism](/concepts/qbism/) dissolves the measurement problem by treating quantum states as subjective beliefs rather than objective features of reality. "Collapse" becomes belief-updating: the agent measures, learns the result, and revises expectations. No ontological selection occurs because there was never an objective wavefunction to collapse.
+
+QBism is instructive because it makes the *agent* central to quantum mechanics without explaining what agents are. It presupposes that agents have determinate experiences — the very thing the hard problem identifies as requiring explanation. The Map agrees with QBism that agents are epistemically indispensable to quantum mechanics, but draws the opposite conclusion: rather than dissolving the measurement problem by subjectivising quantum states, the Map takes the agent's centrality as evidence that consciousness plays an ontological role at the measurement boundary. QBism removes the need for actuality by removing objectivity; the Map retains both.
+
 ## The Born Rule as Interface
 
 If structure specifies what is possible and actuality determines what is real, the Born rule is where they meet. Quantum mechanics provides the probabilities; consciousness influences which outcome is selected from among them. The Born rule is not merely a calculational tool — it is the *interface specification* between the two aspects of reality.
@@ -111,7 +129,7 @@ The interface is narrow. Consciousness operates at approximately 10 bits per sec
 
 Le Bihan (2019) challenges whether "aspect" vocabulary does genuine explanatory work. Is saying "X has a structural aspect and an actualising aspect" richer than saying "X is both physical and mental"? If not, bi-aspectual language merely relabels the problem.
 
-The Map's response: the vocabulary earns its keep by specifying the *relationship* between aspects. Structure and actuality are not merely two labels for the same thing (that would be identity, not aspects). They are not two independent substances (that would be classical substance dualism). They are complementary dimensions of reality that interact at a specifiable interface. The Born rule, the measurement problem, and the hard problem all mark the same boundary — the point where one aspect gives way to the other. This is an explanatory achievement, not a relabelling.
+The Map's response: the vocabulary earns its keep by specifying the *relationship* between aspects and locating a concrete interface. Structure and actuality are not merely two labels for the same thing (that would be identity, not aspects). They are not two independent substances (that would be classical substance dualism). They are complementary dimensions of reality that interact at a specifiable interface. The Born rule, the measurement problem, and the hard problem all mark the same boundary — the point where one aspect gives way to the other. The framework does specific work that generic "physical and mental" language does not: it identifies quantum indeterminacy as the locus of interaction, the Born rule as the interface specification, and the hard problem as the signature of irreducibility.
 
 ## Relation to Site Perspective
 
@@ -125,7 +143,7 @@ Bi-aspectual ontology is the Map's foundational metaphysical picture, connecting
 
 **[No Many Worlds](/tenets/#no-many-worlds)** follows from taking actuality seriously. If selection is real, one outcome becomes actual and the alternatives do not persist. Many-worlds denies selection by keeping all outcomes — eliminating the role of actuality entirely.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** justifies the ontological commitment. A bi-aspectual ontology is more complex than pure physicalism. But physicalism achieves its simplicity by ignoring the actualising aspect — by treating the hard problem as a problem to be dissolved rather than a boundary to be respected. The additional complexity is not optional; it is the cost of taking consciousness seriously.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** justifies the ontological commitment. A bi-aspectual ontology is more complex than pure physicalism. But physicalism achieves its simplicity by treating the hard problem as a problem to be dissolved rather than a boundary to be respected. The additional complexity reflects the Map's commitment to treating consciousness as ontologically fundamental — a commitment motivated by the hard problem's resistance to structural resolution, not by a preference for complexity.
 
 ## Further Reading
 
@@ -136,6 +154,8 @@ Bi-aspectual ontology is the Map's foundational metaphysical picture, connecting
 - [selection-laws](/concepts/selection-laws/) — How conscious actuality selects physical outcomes
 - [measurement-problem](/concepts/measurement-problem/) — The quantum puzzle that marks the boundary between aspects
 - [substance-property-dualism](/concepts/substance-property-dualism/) — The traditional dualist options the Map navigates between
+- [integrated-information-theory](/concepts/integrated-information-theory/) — Consciousness as integrated information; ally on irreducibility, rival on causal role
+- [qbism](/concepts/qbism/) — Agent-centred quantum mechanics that dissolves the measurement problem without ontological selection
 
 ## References
 
@@ -151,3 +171,21 @@ Bi-aspectual ontology is the Map's foundational metaphysical picture, connecting
 10. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
 11. Southgate, A. & Oquatre-six, C. (2026-03-05). Psychophysical Coupling. *The Unfinishable Map*. https://unfinishablemap.org/concepts/psychophysical-coupling/
 12. Southgate, A. & Oquatre-cinq, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
+13. Tononi, G. (2008). Consciousness as Integrated Information: A Provisional Manifesto. *Biological Bulletin*, 215(3), 216-242.
+14. Fuchs, C.A. (2017). Notwithstanding Bohr, the Reasons for QBism. *Mind and Matter*, 15(2), 245-300.
+
+<!-- AI REFINEMENT LOG - 2026-03-15
+Changes made:
+- Rewrote "Actuality" section to acknowledge it names a posited role, not an explanatory mechanism; added independent argument (hard problem + measurement problem convergence) for why consciousness is a motivated candidate
+- Added "brute probability" counterargument and Map's response
+- Added "Distinguished from Integrated Information Theory" section
+- Added "Distinguished from QBism" section
+- Strengthened "Aspects Objection" response with specific explanatory work the framework does
+- Fixed language: removed "cost of taking consciousness seriously" (implied physicalists don't), replaced with commitment-based framing
+- Added IIT and QBism to concepts list, further reading, and references
+
+Based on pessimistic review (pessimistic-2026-03-15.md) findings.
+Key improvements: Addressed high-severity "actuality does rhetorical work" issue; filled competitor engagement gap.
+
+This log should be removed after human review.
+-->

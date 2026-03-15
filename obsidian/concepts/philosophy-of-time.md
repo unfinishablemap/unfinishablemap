@@ -24,7 +24,7 @@ concepts:
   - "[[neurophenomenology]]"
 related_articles:
   - "[[tenets]]"
-  - "[[temporal-ontology-and-consciousness]]"
+  - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
   - "[[time-collapse-and-agency]]"
 ai_contribution: 100
 author: null
@@ -230,7 +230,7 @@ Philosophy of time connects to all five tenets, with the connection running deep
 
 ## Further Reading
 
-- [[temporal-ontology-and-consciousness]] — How temporal ontology and consciousness theories form natural pairings
+- [[consciousness-and-the-ontology-of-temporal-becoming]] — How temporal ontology constrains consciousness theory, and why consciousness constitutes time's felt direction
 - [[time-collapse-and-agency]] — the Map's full treatment of time, collapse, and conscious agency
 - [[collapse-and-time]] — How collapse introduces temporal asymmetry
 - [[retrocausality]] — Time-symmetric physics and backward causation

@@ -47,7 +47,7 @@ last_deep_review: 2026-02-23 15:50:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[temporal-ontology-and-consciousness]]'
+- '[[consciousness-and-the-ontology-of-temporal-becoming]]'
 - '[[time-collapse-and-agency]]'
 - '[[temporal-structure-consciousness-2026-01-14]]'
 - '[[specious-present-temporal-experience-2026-01-16]]'
@@ -237,7 +237,7 @@ The temporal structure of consciousness connects to all five [tenets](/tenets/):
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader challenge of explaining experience
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — What it's like to choose, including temporal aspects
 - [neurophenomenology](/concepts/neurophenomenology/) — Integrating first-person methods with neuroscience
-- [temporal-ontology-and-consciousness](/topics/temporal-ontology-and-consciousness/) — How eternalism, presentism, and the growing block pair with consciousness theories
+- [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology constrains consciousness theory, and why consciousness constitutes time's felt direction
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework where experience is fundamental
 - [integrated-information-theory](/concepts/integrated-information-theory/) — Leading materialist theory and its temporal limitations
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Information availability theory and temporal gaps

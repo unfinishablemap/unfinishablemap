@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-27
-**Article**: [Consciousness and Temporal Becoming](/topics/consciousness-and-temporal-becoming/)
+**Article**: [Consciousness and Temporal Becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
 **Previous review**: Never (first review; article created by coalesce earlier today)
 
 ## Pessimistic Analysis Summary
@@ -70,7 +70,7 @@ Updated stale references to archived articles (`consciousness-and-temporal-asymm
 - [protention](/concepts/temporal-consciousness/) (frontmatter + body text + Further Reading)
 - [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-attention/) (frontmatter + body text + Further Reading)
 - [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) (frontmatter + Further Reading)
-- [temporal-ontology-and-consciousness](/topics/temporal-ontology-and-consciousness/) (frontmatter + Further Reading)
+- [temporal-ontology-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/) (frontmatter + Further Reading)
 - Highlights page link updated
 - Completed cross-review todo task (removed from queue)
 

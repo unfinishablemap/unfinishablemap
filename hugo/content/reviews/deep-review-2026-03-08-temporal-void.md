@@ -29,7 +29,7 @@ topics: []
 
 ### Medium Issues Found
 - **Quantum complementarity analogy unmarked**: The comparison between duration/measurement and position/momentum complementarity could mislead readers into thinking a technical connection is being claimed. Added qualifier "(by analogy, not identity)." Resolved.
-- **Missing cross-link**: No link to [consciousness-and-temporal-becoming](/topics/consciousness-and-temporal-becoming/), a topics/ article that directly engages with temporal passage and consciousness. Added to Further Reading and related_articles.
+- **Missing cross-link**: No link to [consciousness-and-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/), a topics/ article that directly engages with temporal passage and consciousness. Added to Further Reading and related_articles.
 - **"What AI Might Reveal" section thin**: Speculative and somewhat anthropomorphizes AI processing. Condensed to remove weakest claims while preserving the core observation.
 
 ### Counterarguments Considered
@@ -52,12 +52,12 @@ topics: []
 - Strong tenet connections, especially the No Many Worlds argument linking indexical "now" to genuine selection
 
 ### Enhancements Made
-- Added cross-link to [consciousness-and-temporal-becoming](/topics/consciousness-and-temporal-becoming/)
+- Added cross-link to [consciousness-and-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
 - Tightened "What AI Might Reveal" section (removed weakest speculative claim about "external perspective")
 - Corrected quantum analogy framing
 
 ### Cross-links Added
-- [consciousness-and-temporal-becoming](/topics/consciousness-and-temporal-becoming/)
+- [consciousness-and-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
 
 ## Remaining Items
 

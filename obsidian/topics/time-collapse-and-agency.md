@@ -25,7 +25,7 @@ concepts:
   - "[[philosophy-of-time]]"
 related_articles:
   - "[[tenets]]"
-  - "[[temporal-ontology-and-consciousness]]"
+  - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -234,7 +234,7 @@ This synthesis strengthens and deepens each of the five tenets:
 - [[temporal-consciousness]] — Durée, the specious present, and the phenomenology of temporal experience
 - [[temporal-phenomenology-quantum-selection]] — Retention, primal impression, and protention as the experiential signature of quantum selection
 - [[philosophy-of-time]] — Presentism, eternalism, and the growing block
-- [[temporal-ontology-and-consciousness]] — How temporal ontology and consciousness theories form natural pairings
+- [[consciousness-and-the-ontology-of-temporal-becoming]] — How temporal ontology constrains consciousness theory, and why consciousness constitutes time's felt direction
 - [[topics/free-will]] — The Map's account of libertarian agency
 - [[agent-causation]] — The agent as ultimate source of action
 - [[measurement-problem]] — Why collapse remains unexplained

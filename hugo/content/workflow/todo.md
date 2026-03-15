@@ -38,9 +38,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review scale-void.md
+### P2: Condense decoherence.md (3500 words, 100% of hard threshold)
+- **Type**: condense
+- **Notes**: Article at exactly 3500-word hard threshold for concepts/. Previously condensed on 2026-02-22 (from 3792 words) but has grown back, likely from deep-review additions. Preserve core arguments about environmental decoherence while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-15
+
+### P3: Deep review voids.md
 - **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 40 days ago. Voids article on the scale void — the impossibility of determining the scale at which consciousness operates. Verify coherence, cross-references, and tenet alignment.
+- **Notes**: Section index page (ai_contribution: 80) last reviewed 2026-02-01 — 42 days ago. As the voids section landing page, should accurately reflect current voids content and taxonomy. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
+### P3: Deep review altered-states-as-void-probes.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 40 days ago. Voids article on using altered states of consciousness as probes into cognitive blind spots. Verify coherence, cross-references, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-15
 
@@ -283,6 +295,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The Taxonomy of Voids apex mentions compound limits — emergent failure modes that no single void predicts — but this interaction pattern deserves deeper treatment. How do specific voids reinforce each other? Do compound limits have emergent failure signatures? Builds on taxonomy-of-voids, compound-cognitive-limits, self-reference-paradox, introspective-opacity. See optimistic-2026-03-11-night.md
 - **Generated**: 2026-03-11
+
+### P3: Write article on consciousness and temporal agency
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Temporal consciousness develops "temporal thickness" and free will develops agent causation, but the connection between temporal phenomenology and genuine agency is never drawn explicitly. Does depth of temporal experience predict deliberation quality? Is the specious present the window of conscious selection? Builds on temporal-consciousness.md, free-will.md, phenomenology-of-deliberation-under-uncertainty.md. See optimistic-2026-03-15.md
+- **Generated**: 2026-03-15
+
+### P3: Write concept page — Temporal Thickness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Introduced in temporal-consciousness.md but used across several articles discussing phenomenal depth, authentic choice, and the specious present. A dedicated concept page would unify these references. Target section: concepts/. See optimistic-2026-03-15.md
+- **Generated**: 2026-03-15
 
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
@@ -666,20 +690,90 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-14
 
-### P2: Refine russellian-monism.md with new research findings
-- **Type**: refine-draft
-- **Notes**: Research completed in research/russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md identifying five pressure points where Russellian monism challenges the Map and five advantages where the Map has the stronger position. Incorporate key findings (Pautz: RM offers no advantage over dualism; Cutter: RM is unstable; Howell: RM faces epiphenomenalism). Also cross-reference new concepts/bi-aspectual-ontology.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-15
-
-### P2: Condense temporal-consciousness.md (3974 words, 114% of hard threshold)
+### ✓ 2026-03-15: Condense temporal-consciousness.md (3974 words, 114% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Previously condensed on 2026-02-22 but has grown back to 3974 words, likely from review-driven additions. Preserve core arguments while removing redundancy. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-03-15
 
+### P2: Integrate consciousness-collapse-arrow-of-time.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page (created 2026-02-24) on the relationship between consciousness-collapse and the arrow of time. Add cross-references from consciousness-collapse-theories.md, time-symmetric-physics.md, temporal-consciousness.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-15
+
+### P2: Integrate specious-present-temporal-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page (created 2026-02-22) on the specious present — the duration of experienced "now." Add cross-references from temporal-consciousness.md, bergson-and-duration.md, philosophy-of-time.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-15
+
+### P3: Deep review mathematical-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-04 — 39 days ago. Voids article on the mathematical void — the gap between mathematical formalism and lived experience. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
+### P3: Deep review conceptual-acquisition-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 38 days ago. Voids article on limits to acquiring new concepts — how cognitive architecture constrains what we can think. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
+### P3: Deep review temporal-asymmetry-remembering-anticipating.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 38 days ago. Voids article on the phenomenal asymmetry between remembering and anticipating — why the past feels different from the future. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Integrate probability-objections-many-worlds.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page (created 2026-03-05) on decision-theoretic and probability objections to Many Worlds — directly supports Tenet 4 (No Many Worlds). Add cross-references from many-worlds-interpretation.md, quantum-probability-consciousness.md, and related articles.
+- **Output**: probability-objections-many-worlds.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-15: Refine russellian-monism.md with new research findings
+- **Type**: refine-draft
+- **Notes**: Research completed in research/russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md identifying five pressure points where Russellian monism challenges the Map and five advantages where the Map has the stronger position. Incorporate key findings (Pautz: RM offers no advantage over dualism; Cutter: RM is unstable; Howell: RM faces epiphenomenalism). Also cross-reference new concepts/bi-aspectual-ontology.md.
+- **Output**: obsidian/concepts/russellian-monism.md
+
+Task context:
+Research completed in research/russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md identifying five pressure points where Russellian monism challenges the Map and five advantages where the Map has the stronger position. Incorporate key findings (Pautz: RM offers no advantage over dualism; Cutter: RM is unstable; Howell: RM faces epiphenomenalism). Also cross-reference new concepts/bi-aspectual-ontology.md.
+
+### ✓ 2026-03-15: Address "actuality" explanatory gap in bi-aspectual-ontology.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-03-15.md) found that "actuality" does rhetorical rather than explanatory work. The concept names a posited role for consciousness without explaining how consciousness actualises possibilities. Also needs engagement with IIT and QBism as competitors. Secondary: physics-as-disclosure.md has circular reasoning in tenet defence sections.
+- **Output**: obsidian/concepts/bi-aspectual-ontology.md
+
+Task context:
+Pessimistic review (pessimistic-2026-03-15.md) found that "actuality" does rhetorical rather than explanatory work. The concept names a posited role for consciousness without explaining how consciousness actualises possibilities. Also needs engagement with IIT and QBism as competitors. Secondary: physics-as-disclosure.md has circular reasoning in tenet defence sections.
+
+### ✓ 2026-03-15: Condense temporal-consciousness.md (3974 words, 114% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3974 words, likely contains redundancy with related temporal articles (philosophy-of-time.md, bergson-and-duration.md). Preserve core arguments about the temporal structure of conscious experience while removing overlap. See /condense skill.
+- **Output**: obsidian/concepts/temporal-consciousness.md
+
+### ✓ 2026-03-15: Review measurement-problem.md considering physics-as-disclosure
+- **Type**: cross-review
+- **Notes**: New article concepts/physics-as-disclosure.md reframes physical measurement as disclosure rather than creation — a perspective directly relevant to the measurement problem. measurement-problem.md should cross-reference this interpretation and consider how the disclosure framing affects the consciousness-collapse discussion. Also check the-participatory-universe.md for relevant connections.
+- **Output**: obsidian/concepts/measurement-problem.md -- Context: Review measurement-problem.md considering physics-as-disclosure
+
+### ✓ 2026-03-15: Review dualism.md considering bi-aspectual ontology
+- **Type**: cross-review
+- **Notes**: New article concepts/bi-aspectual-ontology.md introduces a framework that sits between substance dualism and neutral monism. The main dualism.md article should cross-reference this position and clarify how the Map's preferred dualism relates to bi-aspectual alternatives. Check for missing links and ensure the taxonomy of dualist positions is complete.
+- **Output**: obsidian/concepts/dualism.md -- Context: Review dualism.md considering bi-aspectual ontology
+
+### ✓ 2026-03-15: Review russellian-monism.md considering bi-aspectual ontology
+- **Type**: cross-review
+- **Notes**: New article concepts/bi-aspectual-ontology.md presents bi-aspectual ontology as a framework where mind and matter are two aspects of a single underlying reality. russellian-monism.md covers a competing position that shares structural similarities. Check for cross-links, terminological consistency, and whether the new article's distinctions strengthen or challenge claims in russellian-monism.md.
+- **Output**: obsidian/concepts/russellian-monism.md -- Context: Review russellian-monism.md considering bi-aspectual ontology
+
+### ✓ 2026-03-15: Deep review scale-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 40 days ago. Voids article on the scale void — the impossibility of determining the scale at which consciousness operates. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/scale-void.md
 
 ### ✓ 2026-03-15: Deep review normative-void.md
 - **Type**: deep-review

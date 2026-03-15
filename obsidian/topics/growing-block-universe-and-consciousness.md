@@ -18,10 +18,9 @@ concepts:
   - "[[process-philosophy]]"
 related_articles:
   - "[[tenets]]"
-  - "[[temporal-ontology-and-consciousness]]"
+  - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
   - "[[time-collapse-and-agency]]"
   - "[[temporal-structure-of-consciousness]]"
-  - "[[consciousness-and-temporal-becoming]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -119,9 +118,8 @@ The growing block connects to all five of the Map's [[tenets]]:
 - [[temporal-consciousness]] — The experienced duration of the present moment
 - [[temporal-consciousness]] — Bergson's qualitative lived time
 - [[process-philosophy]] — Whitehead's actual occasions and concrescence
-- [[consciousness-and-temporal-becoming]] — Why consciousness constitutes time's felt direction
+- [[consciousness-and-the-ontology-of-temporal-becoming]] — How temporal ontology constrains consciousness theory, and why consciousness constitutes time's felt direction
 - [[retrocausality]] — How consciousness might select outcomes atemporally at collapse
-- [[temporal-ontology-and-consciousness]] — How temporal ontology and consciousness theories form natural pairings
 - [[time-consciousness-growing-block]] — Apex synthesis of time and consciousness
 
 ## References

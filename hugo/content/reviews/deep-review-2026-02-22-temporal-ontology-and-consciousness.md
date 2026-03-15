@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-22
-**Article**: [Temporal Ontology and Consciousness](/topics/temporal-ontology-and-consciousness/)
+**Article**: [Temporal Ontology and Consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
 **Previous review**: Never
 **Word count**: 2311 → ~2340 (+29, minor additions)
 
@@ -61,7 +61,7 @@ None identified. All philosopher attributions verified:
 - Strengthened circularity acknowledgment with epistemological analogy
 
 ### Cross-links Added (Primary Focus — Orphan Integration)
-Added `[temporal-ontology-and-consciousness](/topics/temporal-ontology-and-consciousness/)` to both `related_articles` frontmatter and Further Reading sections of:
+Added `[temporal-ontology-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/)` to both `related_articles` frontmatter and Further Reading sections of:
 - [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/)
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
 - [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-becoming/)
