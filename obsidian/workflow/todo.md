@@ -390,11 +390,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
 
-### P2: Write concept page for Fitness-Beats-Truth theorem
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Hoffman, Singh & Prakash's formal proof that fitness-tuned perception dominates truth-tuned perception. Currently discussed in evolved-cognitive-limits.md but deserves standalone concept page given implications for parsimony arguments, perceptual reliability, and Occam's Razor. Target section: concepts/ (1 slot remaining). Supports Tenet 5 (Occam's Razor Has Limits). See [[reviews/optimistic-2026-03-05-afternoon]].
-
 ### P2: Write article on phenomenology of cognitive limit types
 - **Type**: expand-topic
 - **Status**: pending
@@ -760,6 +755,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Write concept page for Fitness-Beats-Truth theorem
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Hoffman, Singh & Prakash's formal proof that fitness-tuned perception dominates truth-tuned perception. Currently discussed in evolved-cognitive-limits.md but deserves standalone concept page given implications for parsimony arguments, perceptual reliability, and Occam's Razor. Target section: concepts/ (1 slot remaining). Supports Tenet 5 (Occam's Razor Has Limits). See [[reviews/optimistic-2026-03-05-afternoon]].
+- **Output**: Write concept page for Fitness-Beats-Truth theorem
 
 ### ✓ 2026-03-15: Write article on pragmatism's path to dualism
 - **Type**: expand-topic
