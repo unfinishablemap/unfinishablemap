@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review dualism.md considering bi-aspectual ontology
-- **Type**: cross-review
-- **Notes**: New article concepts/bi-aspectual-ontology.md introduces a framework that sits between substance dualism and neutral monism. The main dualism.md article should cross-reference this position and clarify how the Map's preferred dualism relates to bi-aspectual alternatives. Check for missing links and ensure the taxonomy of dualist positions is complete.
-- **Source**: chain (from bi-aspectual-ontology.md)
-- **Generated**: 2026-03-15
-
 ### P2: Review measurement-problem.md considering physics-as-disclosure
 - **Type**: cross-review
 - **Notes**: New article concepts/physics-as-disclosure.md reframes physical measurement as disclosure rather than creation — a perspective directly relevant to the measurement problem. measurement-problem.md should cross-reference this interpretation and consider how the disclosure framing affects the consciousness-collapse discussion. Also check the-participatory-universe.md for relevant connections.
@@ -710,6 +704,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Review dualism.md considering bi-aspectual ontology
+- **Type**: cross-review
+- **Notes**: New article concepts/bi-aspectual-ontology.md introduces a framework that sits between substance dualism and neutral monism. The main dualism.md article should cross-reference this position and clarify how the Map's preferred dualism relates to bi-aspectual alternatives. Check for missing links and ensure the taxonomy of dualist positions is complete.
+- **Output**: obsidian/concepts/dualism.md -- Context: Review dualism.md considering bi-aspectual ontology
 
 ### ✓ 2026-03-15: Review russellian-monism.md considering bi-aspectual ontology
 - **Type**: cross-review

@@ -4,7 +4,7 @@ description: "Dualism holds that consciousness is distinct from physical matter.
 created: 2026-01-14
 modified: 2026-03-11
 human_modified: null
-ai_modified: 2026-03-11T09:47:00+00:00
+ai_modified: 2026-03-15T02:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,6 +36,7 @@ concepts:
   - "[[intentionality]]"
   - "[[binding-problem]]"
   - "[[mental-causation]]"
+  - "[[bi-aspectual-ontology]]"
   - "[[objections-to-interactionism]]"
   - "[[phenomenal-concepts-strategy]]"
   - "[[phenomenal-consciousness]]"
@@ -54,7 +55,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-03-10T18:08:00+00:00
+last_deep_review: 2026-03-15T02:54:00+00:00
 coalesced_from:
   - "/concepts/the-case-for-dualism/"
   - "/concepts/arguments-against-materialism/"
@@ -187,6 +188,8 @@ This commitment is grounded in the convergence of arguments: from different star
 
 Dualism's most consequential implication may be ethical: if consciousness is irreducible, then [[topics/phenomenal-value-realism|phenomenal value]]—the felt badness of suffering, the felt goodness of joy—is irreducible too. Value resides in consciousness because consciousness is not decomposable into value-neutral physical facts.
 
+The Map's [[bi-aspectual-ontology]] gives this commitment concrete metaphysical content: reality has two irreducible aspects — *structure* (what physics describes: relations, dispositions, probabilities) and *actuality* (what consciousness provides: the selection that makes one quantum outcome real rather than another). Neither aspect reduces to the other, yet they interact at quantum indeterminacies. This framework distinguishes the Map from dual-aspect monisms (Spinoza, Pauli-Jung) that use similar vocabulary but deny causal interaction between aspects.
+
 Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, the Map holds [[interactionist-dualism]]—consciousness is distinct *and* causally efficacious. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies the interface: quantum indeterminacies where physics leaves outcomes undetermined.
 
 ## Further Reading
@@ -195,7 +198,7 @@ Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]
 
 **Materialist responses:** [[concepts/materialism]], [[illusionism]], [[phenomenal-concepts-strategy]], [[heterophenomenology]], [[mysterianism]]
 
-**The Map's framework:** [[interactionist-dualism]], [[quantum-consciousness]], [[objections-to-interactionism]], [[epistemic-advantages-of-dualism]], [[epistemological-limits-occams-razor]], [[causal-closure]], [[mental-causation]], [[topics/free-will]]
+**The Map's framework:** [[bi-aspectual-ontology]], [[interactionist-dualism]], [[quantum-consciousness]], [[objections-to-interactionism]], [[epistemic-advantages-of-dualism]], [[epistemological-limits-occams-razor]], [[causal-closure]], [[mental-causation]], [[topics/free-will]]
 
 **Varieties and context:** [[substance-property-dualism]], [[intuitive-dualism]], [[cognitive-science-of-dualism]], [[buddhism-and-dualism]]
 
