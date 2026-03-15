@@ -4,8 +4,8 @@ description: "Possibility, necessity, and conceivability reveal that phenomenal 
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-11T21:35:00+00:00
-last_deep_review: 2026-02-15T07:27:00+00:00
+ai_modified: 2026-03-15T08:50:00+00:00
+last_deep_review: 2026-03-15T08:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,8 @@ concepts:
   - "[[concepts/functionalism]]"
   - "[[dualism]]"
   - "[[conceivability-possibility-inference]]"
+  - "[[phenomenal-acquaintance]]"
+  - "[[zombie-master-argument]]"
 related_articles:
   - "[[tenets]]"
   - "[[aesthetic-irreducibility-arguments]]"
@@ -55,9 +57,9 @@ Saul Kripke's argument in *Naming and Necessity* (1972) identified a critical as
 
 "Water = H₂O" *seems* contingent before you know chemistry — you can imagine a world where the clear, drinkable liquid in rivers isn't H₂O. But this appearance of contingency is explained away by the discovery that "water" rigidly designates H₂O. Your imagined scenario wasn't really about water at all — it was about some other liquid that merely resembles water superficially.
 
-"Pain = C-fibre activation" also seems contingent. But here the explaining-away strategy fails. With water, the appearance of contingency dissolves because we were ignorant of water's hidden nature. Pain has no hidden nature. We know pain through direct acquaintance with its phenomenal character. When we conceive of pain without C-fibre activation, we are not confusing pain with something that merely resembles it — we are conceiving of the very thing we know most intimately occurring without its supposed physical identity.
+"Pain = C-fibre activation" also seems contingent. But here the explaining-away strategy fails. With water, the appearance of contingency dissolves because we were ignorant of water's hidden nature. Pain has no hidden nature. We know pain through direct [[phenomenal-acquaintance|acquaintance]] with its phenomenal character. When we conceive of pain without C-fibre activation, we are not confusing pain with something that merely resembles it — we are conceiving of the very thing we know most intimately occurring without its supposed physical identity.
 
-This asymmetry exposes something about phenomenal properties that sets them apart from every physical natural kind. Physical kinds have hidden essences discovered empirically. Phenomenal properties are fully present in experience — their nature is exhausted by how they appear. The painfulness of pain is not a label for some underlying process we might later discover to be identical with C-fibre activation; it is the thing itself, given to us in its entirety through acquaintance. There is nothing about pain waiting to be discovered by neuroscience that would make its apparent separability from C-fibres dissolve, because there is no gap between how pain appears and what pain is.
+This asymmetry exposes something about phenomenal properties that sets them apart from every physical natural kind. Physical kinds have hidden essences discovered empirically. Phenomenal properties are fully present in experience — their nature is exhausted by how they appear. The painfulness of pain is not a label for some underlying process we might later discover to be identical with C-fibre activation; it is the thing itself, given to us in its entirety through [[phenomenal-acquaintance|acquaintance]]. There is nothing about pain waiting to be discovered by neuroscience that would make its apparent separability from C-fibres dissolve, because there is no gap between how pain appears and what pain is.
 
 ## The Convergence Pattern
 
@@ -70,7 +72,7 @@ Each modal argument against materialism exploits a different modal relationship:
 | [[knowledge-argument\|Mary's Room]] | Phenomenal knowledge possibly absent | Epistemic state | Physical knowledge |
 | Kripke | Psychophysical identity possibly false | Phenomenal-physical connection | Rigid designation |
 
-These are not four ways of making the same point. They target different aspects of the phenomenal-physical relationship: existence, character, epistemic access, and identity. The fact that phenomenal properties permit detachment along every one of these dimensions — when no physical property permits detachment along *any* of them — constitutes a convergence that demands explanation.
+These are not four ways of making the same point. They target different aspects of the phenomenal-physical relationship: existence, character, epistemic access, and identity. (The [[zombie-master-argument]] shows how the conceivability argument subsumes several of these as special cases within a single logical structure.) The fact that phenomenal properties permit detachment along every one of these dimensions — when no physical property permits detachment along *any* of them — constitutes a convergence that demands explanation.
 
 The physicalist must explain why phenomenal properties exhibit this systematic modal independence without conceding that they are genuinely different in kind from physical properties. The available strategies — denying conceivability, blocking the move from conceivability to possibility, or relocating the gap into our concepts — each face difficulties explored in the relevant articles.
 
@@ -124,6 +126,8 @@ The modal structure of phenomenal properties provides some of the strongest supp
 - [[conceivability-possibility-inference]] — The bridge from conceivability to metaphysical possibility
 - [[haecceity]] — Irreducible particularity in consciousness
 - [[vertiginous-question]] — Why *this* experience rather than another
+- [[zombie-master-argument]] — How the conceivability argument subsumes multiple modal arguments
+- [[phenomenal-acquaintance]] — The direct epistemic relation that grounds Kripke's asymmetry
 - [[qualia]] — The phenomenal properties whose modal structure this article examines
 - [[explanatory-gap]] — The chasm between physical description and experience
 - [[aesthetic-irreducibility-arguments]] — Aesthetic properties as a domain where modal independence is especially vivid
