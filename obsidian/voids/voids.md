@@ -4,9 +4,9 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-02-02
 human_modified: 2026-01-08
-ai_modified: 2026-03-11T21:46:00+00:00
+ai_modified: 2026-03-15T14:29:00+00:00
 draft: false
-last_deep_review: 2026-02-01T14:46:00+00:00
+last_deep_review: 2026-03-15T14:29:00+00:00
 topics: []
 concepts:
   - "[[simulation]]"
@@ -20,7 +20,7 @@ related_articles:
   - "[[origin-of-consciousness]]"
 ai_contribution: 80
 author: Andy Southgate
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-08
 last_curated: null
 ---
@@ -62,6 +62,11 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[topology-of-cognitive-failure|The Topology of Cognitive Failure]] — Using the structure of failure as data
 - [[whether-real|Whether the Voids Are Real]] — Can we determine if limits are permanent?
 - [[convergence-of-the-void-catalogue|Convergence of the Void Catalogue]] — How independently catalogued voids converge into five families
+- [[cartography-problem|The Cartography Problem]] — Whether a map of cognitive voids can map its own incompleteness
+- [[dissolution-problem|The Dissolution Problem]] — Why we cannot predict which cognitive limits will prove permanent
+- [[epistemology-of-cognitive-limits|The Epistemology of Cognitive Limits]] — How we can know our cognitive limits from within a limited mind
+- [[evidential-weight-of-voids|The Evidential Weight of Voids]] — Whether the pattern of cognitive voids constitutes an argument for dualism
+- [[void-as-ground-of-meaning|The Void as Ground of Meaning]] — Why cognitive limits are preconditions for meaning, not merely obstacles
 
 ### Specific Voids
 
@@ -99,6 +104,20 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[minimal-consciousness-void|The Minimal Consciousness Void]] — Why consciousness cannot investigate its own lower bound
 - [[amplification-void|The Amplification Void]] — Why the chain from quantum influence to neural effect cannot be traced
 - [[transition-void|The Transition Void]] — Why consciousness cannot witness its own state transitions
+- [[agency-verification-void|The Agency Verification Void]] — Why consciousness cannot verify its own causal powers
+- [[continuity-void|The Continuity Void]] — Whether experience flows continuously or arrives in discrete drops
+- [[counterfactual-void|The Counterfactual Void]] — How counterfactual thinking is trapped near actuality
+- [[explanatory-void|The Explanatory Void]] — Why explanation cannot explain itself
+- [[imagination-void|The Imagination Void]] — Where imagination's structural failures reveal the architecture of mind
+- [[indexical-void|The Indexical Void]] — Why first-person identity resists explanation
+- [[involuntariness-void|The Involuntariness Void]] — Why consciousness cannot opt out of itself
+- [[mind-space-void|The Mind-Space Void]] — Why we cannot locate ourselves in the space of possible minds
+- [[narrative-void|The Narrative Void]] — Why consciousness cannot observe its own storytelling
+- [[ownership-void|The Ownership Void]] — Why we cannot introspect how experiences become ours
+- [[plurality-void|The Plurality Void]] — Why we cannot conceive being multiple subjects at once
+- [[resolution-void|The Resolution Void]] — The six-order-of-magnitude compression between available and accessed information
+- [[spontaneous-thought-void|The Spontaneous Thought Void]] — Why consciousness cannot observe generation of unbidden thoughts
+- [[transparency-void|The Transparency Void]] — Why consciousness cannot verify its own accuracy
 
 ### Phenomenology of Limits
 
@@ -111,6 +130,14 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[appetitive-void|The Appetitive Void]] — How desire constitutes cognition rather than merely distorting it
 - [[destabilizing-self-knowledge|Destabilizing Self-Knowledge]] — Knowledge that undermines its own conditions
 - [[phenomenology-of-error-recognition|The Phenomenology of Error Recognition]] — Detecting one's own mistakes
+- [[altered-states-as-void-probes|Altered States as Void Probes]] — Whether altered states reveal cognitive limits or simulate transcendence
+- [[attention-disorders-and-consciousness|Consciousness and Attention Disorders]] — When consciousness's own instrument is disordered
+- [[introspective-opacity|Introspective Opacity]] — Why we access mental contents but never the mechanisms that produce them
+- [[phenomenology-of-self-reference|The Phenomenology of Self-Reference]] — Felt inversion, vertigo, and oscillation when consciousness refers to itself
+- [[reality-feeling-void|The Reality-Feeling Void]] — The mechanism that stamps experience with realness, visible only when it fails
+- [[the-givenness-void|The Givenness Void]] — Why experience's immediate thereness resists examination
+- [[the-silence-void|The Silence Void]] — Whether cognitive silence accesses truths that reasoning cannot reach
+- [[the-surplus-void|The Surplus Void]] — Why experience delivers richness far beyond survival requirements
 
 ### Types of Cognitive Limits
 
@@ -123,6 +150,14 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[nomic-void|The Nomic Void]] — Cognitive limits imposed by the laws of physics themselves
 - [[language-thought-boundary|The Language-Thought Boundary]] — What cannot be said
 - [[pre-conceptual-knowing|Pre-Conceptual Knowing]] — Knowledge before and beyond concepts
+- [[capability-division-problem|The Capability Division Problem]] — Where brain-side capabilities end and mind-side begins
+- [[compound-cognitive-limits|Compound Cognitive Limits]] — How individual limits interact superadditively
+- [[epistemological-limits-occams-razor|The Parsimony Void]] — Why Occam's Razor may be a cognitive bias masquerading as epistemic principle
+- [[framework-void|The Framework Void]] — How conceptual frameworks exclude what they cannot represent
+- [[probability-intuition-void|The Probability Intuition Void]] — Why genuine randomness resists intuitive comprehension
+- [[quantification-void|The Quantification Void]] — Why consciousness resists measurement at every level
+- [[reconstruction-paradox|The Reconstruction Paradox]] — Why the brain silently corrects some errors but delivers others
+- [[smoothness-problem|The Smoothness Problem]] — The gap between neural discreteness and experiential continuity
 
 ### Comparative Perspectives
 
@@ -130,6 +165,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[collective-cognitive-limits|Collective Cognitive Limits]] — What groups cannot think
 - [[natural-vs-designed-limits|Natural vs. Designed Cognitive Limits]] — Evolved versus engineered constraints
 - [[tenet-generated-voids|Tenet-Generated Voids]] — Limits implied by the Map's commitments
+- [[historical-consciousness-void|The Historical Consciousness Void]] — Whether consciousness itself has changed over historical time
 
 ### Methods and Probes
 
