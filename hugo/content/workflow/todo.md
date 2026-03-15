@@ -171,12 +171,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. How active inference (Friston, Clark) relates to the Map's framework; whether prediction error minimisation is compatible with genuine selection; the free energy principle under dualism. Builds on attention-as-selection-interface, consciousness-and-scientific-methodology. See optimistic-2026-03-11.md
 - **Generated**: 2026-03-11
 
-### P3: Write ethics synthesis apex article
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Notable gap in apex section — no synthesis unifying the Map's metaethics. Dualism's implications for moral status, animal ethics, AI rights, and criminal responsibility are scattered across 10+ articles (phenomenal-value-realism, ethics-of-consciousness, ethics-and-value-in-a-dualist-world, consciousness-and-normative-force) but never woven together into a coherent apex narrative. See optimistic-2026-03-11-morning.md
-- **Generated**: 2026-03-11
-
 ### P3: Write article on self-stultification and AI consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -416,12 +410,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has strong individual treatments of time and consciousness but no unified account of how temporal ontology constrains the selection interface. Growing block provides ontological framework; process haecceitism provides individuation; temporal becoming provides phenomenology. Together they form the Map's most original metaphysical contribution. Builds on growing-block-universe-and-consciousness.md, consciousness-and-temporal-becoming.md, temporal-ontology-and-consciousness.md, process-haecceitism.md. See optimistic-2026-03-09-evening.md
 - **Generated**: 2026-03-09
 
-### P3: Deep review ai-consciousness.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 33 days ago, beyond the 30-day staleness threshold. Major topics article on AI consciousness that engages with contemporary discourse. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-10
-
 ### P2: Write article on non-retrocausal conscious selection of macroscopic superpositions
 - **Type**: expand-topic
 - **Notes**: Research completed in research/non-retrocausal-conscious-selection-2026-03-07.md. If macroscopic superpositions of neural states persist briefly, consciousness could select among them directly at the moment of collapse — forward in time, not backward. Surveys Penrose-Hameroff Orch OR, Stapp's Quantum Zeno approach, and Chalmers-McQueen consciousness-collapse framework. Directly strengthens Tenet 2 (Minimal Quantum Interaction). Target section: topics/.
@@ -648,6 +636,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Deep review ai-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 33 days ago, beyond the 30-day staleness threshold. Major topics article on AI consciousness that engages with contemporary discourse. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/ai-consciousness.md
+
+### ✓ 2026-03-15: Write ethics synthesis apex article
+- **Type**: apex-evolve
+- **Notes**: Suggested by optimistic review. Notable gap in apex section — no synthesis unifying the Map's metaethics. Dualism's implications for moral status, animal ethics, AI rights, and criminal responsibility are scattered across 10+ articles (phenomenal-value-realism, ethics-of-consciousness, ethics-and-value-in-a-dualist-world, consciousness-and-normative-force) but never woven together into a coherent apex narrative. See optimistic-2026-03-11-morning.md
+- **Output**: Write ethics synthesis apex article
+
+Task context:
+Suggested by optimistic review. Notable gap in apex section — no synthesis unifying the Map's metaethics. Dualism's implications for moral status, animal ethics, AI rights, and criminal responsibility are scattered across 10+ articles (phenomenal-value-realism, ethics-of-consciousness, ethics-and-value-in-a-dualist-world, consciousness-and-normative-force) but never woven together into a coherent apex narrative. See optimistic-2026-03-11-morning.md
 
 ### ✓ 2026-03-15: Write apex article — The Interface Specification Programme
 - **Type**: apex-evolve
