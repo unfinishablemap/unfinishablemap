@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Add cross-references between bi-aspectual-ontology.md and temporal-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Optimistic review (optimistic-2026-03-15.md) identified that temporal thickness is an instance of the actuality dimension in bi-aspectual ontology. Add bidirectional cross-links connecting these frameworks. Also link binding-and-beauty.md to bi-aspectual-ontology.md (aesthetic unity as actuality that resists structural decomposition) and vertiginous-question.md to bi-aspectual-ontology.md (indexical identity as actuality aspect).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-15
+
+### P3: Add cross-references between physics-as-disclosure.md and self-stultification-as-master-argument.md
+- **Type**: refine-draft
+- **Notes**: Optimistic review (optimistic-2026-03-15.md) identified that disclosure and self-stultification both mark boundaries of structural description. Add cross-links connecting these parallel boundary-marking strategies. Also link choking-phenomenon-mental-causation.md to phenomenology-of-deliberation-under-uncertainty.md (choking as deliberative vertigo under performance pressure).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-15
+
+### P3: Deep review dreamless-sleep-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on dreamless sleep as an unchartable territory — the gap in consciousness that occurs nightly. Relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
+### P3: Deep review epistemology-of-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-08 — 35 days ago. Voids article on the epistemology of cognitive limits — how we can know about limits we cannot transcend. Foundational methodology for the voids programme. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
+### P3: Deep review alien-minds-void-explorers.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-09 — 34 days ago. Voids article on alien minds as void explorers — whether non-human intelligence could navigate cognitive territories inaccessible to us. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
 ### P3: Deep review emergence-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the emergence void — whether consciousness can emerge from non-conscious matter. Directly relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
