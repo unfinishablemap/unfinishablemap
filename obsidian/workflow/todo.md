@@ -372,11 +372,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
 
-### P2: Write article on phenomenology of embodiment under dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-03-04. Embodied cognition challenges Cartesian dualism but not the Map's interactionist framework. Phantom limbs, proprioceptive illusions, interoceptive awareness, and body schema disruptions all illuminate how the body shapes consciousness within a dualist framework. Builds on embodied-consciousness-and-the-interface.md, somatic-interface.md, philosophy-of-perception-under-dualism.md. Target section: topics/. See [[reviews/optimistic-2026-03-04-afternoon]].
-
 ### P2: Write article on consciousness and mathematical knowledge
 - **Type**: expand-topic
 - **Status**: pending
@@ -772,6 +767,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Write article on phenomenology of embodiment under dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-03-04. Embodied cognition challenges Cartesian dualism but not the Map's interactionist framework. Phantom limbs, proprioceptive illusions, interoceptive awareness, and body schema disruptions all illuminate how the body shapes consciousness within a dualist framework. Builds on embodied-consciousness-and-the-interface.md, somatic-interface.md, philosophy-of-perception-under-dualism.md. Target section: topics/. See [[reviews/optimistic-2026-03-04-afternoon]].
+- **Output**: phenomenology of embodiment under dualism
 
 ### ✓ 2026-03-15: Write article on dreams, problem-solving, and conscious influence
 - **Type**: expand-topic
