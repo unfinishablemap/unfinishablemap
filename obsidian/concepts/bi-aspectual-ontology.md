@@ -4,7 +4,7 @@ description: "Reality has two irreducible aspects — structure (physics) and ac
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-15T00:25:00+00:00
+ai_modified: 2026-03-15T00:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-15
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-15T00:52:00+00:00
 ---
 
 The Unfinishable Map's ontology is *bi-aspectual*: reality has two irreducible aspects — **structure** (what physics describes) and **actuality** (what consciousness provides). Physics captures every structural and dispositional fact about the world. Consciousness supplies the actuality that determines which physically permitted outcomes become real. Neither aspect reduces to the other, and they interact causally at quantum indeterminacies. This position borrows the "two aspects" vocabulary from a long philosophical tradition — Spinoza, Russell, Pauli-Jung — but breaks decisively with that tradition by insisting on genuine causal interaction between the aspects.
@@ -38,7 +38,7 @@ The Unfinishable Map's ontology is *bi-aspectual*: reality has two irreducible a
 
 ### Structure
 
-Physics describes the world's structure: spatial relationships, causal dispositions, dynamical evolution, conservation laws, symmetries. Quantum mechanics specifies which outcomes are possible and with what probabilities. This structural description is *complete for its domain* — no hidden physical variables are missing, and no within-physics supplement will close the [[measurement-problem|measurement problem]]. The wavefunction encodes all structural facts about a system.
+Physics describes the world's structure: spatial relationships, causal dispositions, dynamical evolution, conservation laws, symmetries. Quantum mechanics specifies which outcomes are possible and with what probabilities. This structural description is *complete for its domain* — no hidden physical variables are missing. The wavefunction encodes all structural facts about a system. Some approaches (decoherence-based interpretations, QBism, consistent histories) attempt to resolve the [[measurement-problem|measurement problem]] within physics alone, but none has achieved consensus, and the Map holds that the problem marks a genuine ontological boundary rather than a gap in formalism.
 
 What physics does not describe is why one particular outcome from among the permitted alternatives becomes actual. The Born rule gives probabilities; it does not explain selection. This is not a deficiency in physics but a boundary — the point where structural description reaches its limit and a different kind of account is needed.
 
@@ -64,9 +64,9 @@ The Map's position sounds similar to dual-aspect monism but differs on a point t
 
 ### Spinozist Parallelism
 
-Spinoza held that Thought and Extension are two attributes of a single substance (God/Nature), and that they are "explanatorily self-contained" with a conceptual barrier between them (Spinoza 1677). Mental events track physical events not because they interact but because both express the same underlying substance. There is no causal interaction between attributes — by design.
+Spinoza held that Thought and Extension are two attributes of a single substance (God/Nature). Scholars characterise these attributes as "explanatorily self-contained" with a conceptual barrier between them — physical changes must be explained by physical items, ideas by other ideas (Spinoza 1677; cf. Della Rocca 2008). Mental events track physical events not because they interact but because both express the same underlying substance. There is no causal interaction between attributes — by design.
 
-The Map rejects this parallelism. The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] requires that consciousness causally select among physical outcomes. If mental and physical aspects merely run in parallel without interaction, consciousness becomes [[concepts/epiphenomenalism|epiphenomenal]] — unable to account for our ability to discuss and report on our own experience.
+The Map rejects this parallelism. The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] requires that consciousness causally select among physical outcomes. If mental and physical aspects merely run in parallel without interaction, consciousness becomes [[concepts/epiphenomenalism|epiphenomenal]] — unable to account for our ability to discuss and report on our own experience. The Map rejects [[causal-closure|causal closure]] at quantum indeterminacies precisely to avoid this outcome.
 
 ### Pauli-Jung Complementarity
 
@@ -82,7 +82,7 @@ Velmans (2009) treats conscious experience and brain processes as complementary 
 
 [[russellian-monism|Russellian monism]] agrees with the Map that physics describes only structure. But it draws a different conclusion: consciousness *is* the intrinsic nature of matter — what physical entities are "from the inside." The structural/intrinsic distinction maps onto the physical/mental distinction, and there is only one kind of stuff viewed from two angles.
 
-The Map parts company at the crucial juncture. If consciousness simply *is* the intrinsic nature of physical entities, there is no room for consciousness to causally select among physical outcomes — it is already identical with the physical at the fundamental level. Russellian monism provides no mechanism for downward causation because there is no "down" and no separate domain to cause from.
+The Map parts company at the crucial juncture. If consciousness simply *is* the intrinsic nature of physical entities, there is no room for consciousness to causally select among physical outcomes — it is already identical with the physical at the fundamental level. In its [[panpsychism|panpsychist]] variant, Russellian monism faces the additional combination problem: how do micro-experiences in fundamental particles combine into unified macro-consciousness? The framework provides no mechanism for downward causation because there is no "down" and no separate domain to cause from.
 
 The Map holds instead that consciousness is ontologically distinct from physical structure and interacts with it at quantum indeterminacies. Physics is structurally complete but *ontologically incomplete* — it describes all structure but not all of reality. Consciousness is the missing ontology, not the missing intrinsic nature of the ontology physics already describes.
 
@@ -100,7 +100,7 @@ This does not dissolve the interaction problem entirely. Specifying the coupling
 
 If structure specifies what is possible and actuality determines what is real, the Born rule is where they meet. Quantum mechanics provides the probabilities; consciousness influences which outcome is selected from among them. The Born rule is not merely a calculational tool — it is the *interface specification* between the two aspects of reality.
 
-This reading explains a persistent puzzle: why the Born rule works but resists derivation from the rest of quantum mechanics. Gleason's theorem (1957) shows that the Born rule is the *unique* probability measure consistent with quantum structure — there is no alternative. If the Map is right, this uniqueness reflects a deep fact: there is exactly one way for the structural aspect to interface with the actualising aspect.
+This reading explains a persistent puzzle: why the Born rule works but resists derivation from the rest of quantum mechanics. Gleason's theorem (1957) shows that the Born rule is the *unique* probability measure consistent with quantum structure — there is no alternative. The Map reads this uniqueness as reflecting a deep fact: if consciousness interfaces with quantum structure at all, the Born rule is the only way that interface can be specified. This is the Map's interpretation, not a direct consequence of Gleason's result, but the mathematical uniqueness is suggestive.
 
 The interface is narrow. Consciousness operates at approximately 10 bits per second (Zheng & Meister 2025), while the brain processes billions. Selection is coarse-grained — action patterns and attentional focus, not individual quantum events. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] constrains the interface to the smallest deviation from standard quantum mechanics that permits genuine mental causation.
 
@@ -137,13 +137,14 @@ Bi-aspectual ontology is the Map's foundational metaphysical picture, connecting
 ## References
 
 1. Spinoza, B. (1677). *Ethics*. Published posthumously.
-2. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-3. Atmanspacher, H. & Rickles, D. (2022). *Dual-Aspect Monism and the Deep Structure of Meaning*. Routledge.
-4. Velmans, M. (2009). Reflexive Monism. *Journal of Consciousness Studies*, 16(2-3), 209-236.
-5. Pautz, A. (2017). The Significance Problem. In T. Alter & Y. Nagasawa (Eds.), *Russellian Monism*. Oxford University Press.
-6. Cutter, B. (2020). The Instability of Russellian Monism. *Philosophical Perspectives*, 34, 28-53.
-7. Le Bihan, B. (2019). Aspects in Dual-Aspect Monism and Panpsychism: A Rejoinder to Benovsky. *Philosophical Investigations*, 42(2).
-8. Gleason, A.M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(6), 885-893.
-9. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
-10. Southgate, A. & Oquatre-six, C. (2026-03-05). Psychophysical Coupling. *The Unfinishable Map*. https://unfinishablemap.org/concepts/psychophysical-coupling/
-11. Southgate, A. & Oquatre-cinq, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
+2. Della Rocca, M. (2008). *Spinoza*. Routledge.
+3. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+4. Atmanspacher, H. & Rickles, D. (2022). *Dual-Aspect Monism and the Deep Structure of Meaning*. Routledge.
+5. Velmans, M. (2009). Reflexive Monism. *Journal of Consciousness Studies*, 16(2-3), 209-236.
+6. Pautz, A. (2017). The Significance Problem. In T. Alter & Y. Nagasawa (Eds.), *Russellian Monism*. Oxford University Press.
+7. Cutter, B. (2020). The Instability of Russellian Monism. *Philosophical Perspectives*, 34, 28-53.
+8. Le Bihan, B. (2019). Aspects in Dual-Aspect Monism and Panpsychism: A Rejoinder to Benovsky. *Philosophical Investigations*, 42(2).
+9. Gleason, A.M. (1957). Measures on the Closed Subspaces of a Hilbert Space. *Journal of Mathematics and Mechanics*, 6(6), 885-893.
+10. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
+11. Southgate, A. & Oquatre-six, C. (2026-03-05). Psychophysical Coupling. *The Unfinishable Map*. https://unfinishablemap.org/concepts/psychophysical-coupling/
+12. Southgate, A. & Oquatre-cinq, C. (2026-01-15). Russellian Monism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/russellian-monism/
