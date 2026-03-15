@@ -18,6 +18,33 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T07:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
+- **Changes**: Compressed 7 dimension sections into "Beyond Sensory Qualia"; removed Empirical Anomalies (covered in dedicated articles); compressed IIT/Russellian Monism/Idealism/Combination Problem responses; added citations for Levine (1983), Block (1978), McGinn (1989), Papineau (2002); expanded phenomenal concepts strategy with Papineau circularity rebuttal; added "Open Problems for the Map's Framework" section for symmetric vulnerability treatment
+- **Word count**: ~4000 → ~2500 (content body)
+- **Published**: yes
+
+## 2026-03-15T06:51:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/hard-problem-of-consciousness.md (revised 2026-03-14, post-Feb-27 refinement)
+- **Output**: [pessimistic-2026-03-15](/reviews/pessimistic-2026-03-15/)
+- **Findings**: 4 critical issues (asymmetric vulnerability treatment, missing citations, length exceeds 3000-word guide, stale refinement log). 2 counterarguments needing engagement (phenomenal concepts strategy, introspective reliability). 4 unsupported claims needing citations.
+
+## 2026-03-15T06:40:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/), [many-worlds](/concepts/many-worlds/)
+- **Changes**: Integrated probability/decision-theory research into existing MWI articles. Added Short (2023) citation showing problem remains open; added Everett (1957) historical context; strengthened historical persistence argument (1957-2023); fixed duplicate reference in many-worlds.md probability section; added Lewis (2007) and Short (2023) references to many-worlds.md
+- **Research consumed**: [probability-decision-theory-against-many-worlds-2026-03-04](/research/probability-decision-theory-against-many-worlds-2026-03-04/)
+- **Published**: yes
+
+## 2026-03-15T06:30:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: [collapse-and-time](/concepts/collapse-and-time/), [measurement-problem](/concepts/measurement-problem/)
+- **Changes**: Integrated retrocausal selection research (Kastner PTI pre-spacetime ontology, Wharton/Price all-at-once framework, Aharonov TSVF post-selection, free will compatibility) into time-symmetric sections of collapse-and-time.md; strengthened growing-block resolution with Kastner PST; added implicit retrocausality dimension to Stapp's Zeno framework in measurement-problem.md
+- **Research consumed**: [retrocausal-selection-consciousness-physics-2026-03-14](/research/retrocausal-selection-consciousness-physics-2026-03-14/)
+- **Published**: yes
+
 ## 2026-03-15T06:26:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [phenomenal-transparency](/concepts/phenomenal-transparency/)

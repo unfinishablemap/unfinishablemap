@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
-### P2: Address gaps in hard-problem-of-consciousness.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (pessimistic-2026-03-15.md) found: (1) asymmetric vulnerability treatment—materialist positions get detailed objections but the Map's own open problems aren't acknowledged; (2) missing citations for Levine (1983), Block (1978), McGinn (1989); (3) phenomenal concepts strategy needs fuller engagement with Papineau's (2002) circularity rebuttal; (4) article at ~4000 words exceeds 3000-word style guide max—compress subsections with dedicated articles.
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-15
-
 ### P3: Add cross-references between physics-as-disclosure.md and self-stultification-as-master-argument.md
 - **Type**: refine-draft
 - **Notes**: Optimistic review (optimistic-2026-03-15.md) identified that disclosure and self-stultification both mark boundaries of structural description. Add cross-links connecting these parallel boundary-marking strategies. Also link choking-phenomenon-mental-causation.md to phenomenology-of-deliberation-under-uncertainty.md (choking as deliberative vertigo under performance pressure).
@@ -823,6 +817,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Address gaps in hard-problem-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-03-15.md) found: (1) asymmetric vulnerability treatment—materialist positions get detailed objections but the Map's own open problems aren't acknowledged; (2) missing citations for Levine (1983), Block (1978), McGinn (1989); (3) phenomenal concepts strategy needs fuller engagement with Papineau's (2002) circularity rebuttal; (4) article at ~4000 words exceeds 3000-word style guide max—compress subsections with dedicated articles.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md
+
+Task context:
+Pessimistic review (pessimistic-2026-03-15.md) found: (1) asymmetric vulnerability treatment—materialist positions get detailed objections but the Map's own open problems aren't acknowledged; (2) missing citations for Levine (1983), Block (1978), McGinn (1989); (3) phenomenal concepts strategy needs fuller engagement with Papineau's (2002) circularity rebuttal; (4) article at ~4000 words exceeds 3000-word style guide max—compress subsections with dedicated articles.
 
 ### ✓ 2026-03-15: Integrate probability/decision-theory objections to MWI into existing many-worlds articles
 - **Type**: refine-draft

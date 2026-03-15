@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T07:00:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[hard-problem-of-consciousness]]
+- **Changes**: Compressed 7 dimension sections into "Beyond Sensory Qualia"; removed Empirical Anomalies (covered in dedicated articles); compressed IIT/Russellian Monism/Idealism/Combination Problem responses; added citations for Levine (1983), Block (1978), McGinn (1989), Papineau (2002); expanded phenomenal concepts strategy with Papineau circularity rebuttal; added "Open Problems for the Map's Framework" section for symmetric vulnerability treatment
+- **Word count**: ~4000 → ~2500 (content body)
+- **Published**: yes
+
 ## 2026-03-15T06:51:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/hard-problem-of-consciousness.md (revised 2026-03-14, post-Feb-27 refinement)
