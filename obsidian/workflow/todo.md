@@ -170,12 +170,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. How active inference (Friston, Clark) relates to the Map's framework; whether prediction error minimisation is compatible with genuine selection; the free energy principle under dualism. Builds on attention-as-selection-interface, consciousness-and-scientific-methodology. See optimistic-2026-03-11.md
 - **Generated**: 2026-03-11
 
-### P3: Write ethics synthesis apex article
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Notable gap in apex section — no synthesis unifying the Map's metaethics. Dualism's implications for moral status, animal ethics, AI rights, and criminal responsibility are scattered across 10+ articles (phenomenal-value-realism, ethics-of-consciousness, ethics-and-value-in-a-dualist-world, consciousness-and-normative-force) but never woven together into a coherent apex narrative. See optimistic-2026-03-11-morning.md
-- **Generated**: 2026-03-11
-
 ### P3: Write article on self-stultification and AI consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -647,6 +641,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Write ethics synthesis apex article
+- **Type**: apex-evolve
+- **Notes**: Suggested by optimistic review. Notable gap in apex section — no synthesis unifying the Map's metaethics. Dualism's implications for moral status, animal ethics, AI rights, and criminal responsibility are scattered across 10+ articles (phenomenal-value-realism, ethics-of-consciousness, ethics-and-value-in-a-dualist-world, consciousness-and-normative-force) but never woven together into a coherent apex narrative. See optimistic-2026-03-11-morning.md
+- **Output**: Write ethics synthesis apex article
+
+Task context:
+Suggested by optimistic review. Notable gap in apex section — no synthesis unifying the Map's metaethics. Dualism's implications for moral status, animal ethics, AI rights, and criminal responsibility are scattered across 10+ articles (phenomenal-value-realism, ethics-of-consciousness, ethics-and-value-in-a-dualist-world, consciousness-and-normative-force) but never woven together into a coherent apex narrative. See optimistic-2026-03-11-morning.md
 
 ### ✓ 2026-03-15: Write apex article — The Interface Specification Programme
 - **Type**: apex-evolve

@@ -379,7 +379,31 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 ---
 
-## Reserved Slots (17-20)
+### 17. The Moral Architecture of Consciousness
+
+**Slug**: `moral-architecture-of-consciousness`
+
+**Subtitle**: How irreducible consciousness unifies value, agency, normativity, and moral perception
+
+**Thesis**: If consciousness is irreducible and causally efficacious, it provides a unified moral architecture—grounding what has value, who bears responsibility, why moral claims bind, and how moral properties are perceived—that materialist ethics cannot achieve. This unity has concrete consequences for animal welfare, AI ethics, criminal justice, and the open question of whether value itself participates in the mechanism through which consciousness acts on the physical world.
+
+**Source articles**:
+- topics/phenomenal-value-realism
+- topics/ethics-of-consciousness
+- topics/ethics-and-value-in-a-dualist-world
+- topics/consciousness-and-normative-force
+- topics/moral-implications-of-genuine-agency
+- topics/responsibility-gradient-from-attentional-capacity
+- topics/phenomenology-of-moral-experience
+- concepts/moral-responsibility
+- topics/animal-consciousness
+- topics/value-blind-vs-value-sensitive-selection
+
+**Status**: Created 2026-03-15
+
+---
+
+## Reserved Slots (18-20)
 
 Future apex articles will be added as the Map evolves and new thematic clusters emerge. Potential candidates:
 

@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T18:21:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/moral-architecture-of-consciousness]]
+- **Mode**: Create (new apex article #17)
+- **Sources**: 10 (phenomenal-value-realism, ethics-of-consciousness, ethics-and-value-in-a-dualist-world, consciousness-and-normative-force, moral-implications-of-genuine-agency, responsibility-gradient-from-attentional-capacity, phenomenology-of-moral-experience, moral-responsibility, animal-consciousness, value-blind-vs-value-sensitive-selection)
+- **Word count**: ~3400 (body)
+- **Origin**: Suggested by optimistic review (2026-03-11 morning)
+- **Review**: [[reviews/apex-evolve-2026-03-15-moral-architecture-of-consciousness]]
+
 ## 2026-03-15T18:09:00+00:00 - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/interface-specification-programme]]
