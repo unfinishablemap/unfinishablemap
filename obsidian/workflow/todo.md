@@ -73,12 +73,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Both mathematical-knowledge-and-insight and consciousness-and-normative-force identify "forcing"/"demand" quality in phenomenal experience but the structural parallel is never explicit. Short cross-cutting synthesis. See optimistic-2026-03-15.md
 - **Generated**: 2026-03-15
 
-### P3: Deep review altered-states-as-void-probes.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 40 days ago. Voids article on using altered states of consciousness as probes into cognitive blind spots. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-15
-
 ### P3: Deep review dream-consciousness-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 40 days ago. Voids article on the dream consciousness void — the unchartable gap between waking and dreaming consciousness. Verify coherence, cross-references, and tenet alignment.
@@ -713,6 +707,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Deep review altered-states-as-void-probes.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 40 days ago. Voids article on using altered states of consciousness as probes into cognitive blind spots. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/altered-states-as-void-probes.md
 
 ### ✓ 2026-03-15: Deep review voids.md
 - **Type**: deep-review
