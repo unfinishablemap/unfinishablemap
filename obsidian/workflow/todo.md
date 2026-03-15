@@ -653,6 +653,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-14
 
+### P2: Cross-review interactionist-dualism.md considering bi-aspectual ontology insights
+- **Type**: cross-review
+- **Notes**: New article concepts/bi-aspectual-ontology.md introduces the bi-aspectual framework distinguishing structure (physics) from actuality (consciousness). interactionist-dualism.md is the core framework article and should reference the aspectual distinction as its ontological foundation. Check for cross-links and argument reinforcement.
+- **Source**: chain (from bi-aspectual-ontology.md)
+- **Generated**: 2026-03-15
+
+### P2: Cross-review decoherence.md considering physics-as-disclosure insights
+- **Type**: cross-review
+- **Notes**: New article concepts/physics-as-disclosure.md reframes the measurement problem as physics revealing its own boundary rather than a deficiency. decoherence.md discusses environmental decoherence and should integrate the disclosure reading — decoherence handles everything physics can handle, stopping precisely where the non-physical begins. Check for cross-links and consistency.
+- **Source**: chain (from physics-as-disclosure.md)
+- **Generated**: 2026-03-15
+
+### P2: Cross-review spontaneous-collapse-theories.md considering physics-as-disclosure insights
+- **Type**: cross-review
+- **Notes**: New article concepts/physics-as-disclosure.md reframes the measurement problem as disclosure. spontaneous-collapse-theories.md covers GRW/CSL/objective reduction — these theories provide baseline physics that requires consciousness modulation under the disclosure reading. Add forward-reference and check consistency with disclosure framework.
+- **Source**: chain (from physics-as-disclosure.md)
+- **Generated**: 2026-03-15
+
+### P2: Refine russellian-monism.md with new research findings
+- **Type**: refine-draft
+- **Notes**: Research completed in research/russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md identifying five pressure points where Russellian monism challenges the Map and five advantages where the Map has the stronger position. Incorporate key findings (Pautz: RM offers no advantage over dualism; Cutter: RM is unstable; Howell: RM faces epiphenomenalism). Also cross-reference new concepts/bi-aspectual-ontology.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-15
+
+### P2: Condense temporal-consciousness.md (3974 words, 114% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Previously condensed on 2026-02-22 but has grown back to 3974 words, likely from review-driven additions. Preserve core arguments while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-15
+
 ## Completed Tasks
 
 
