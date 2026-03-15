@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-15 05:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -33,6 +33,7 @@ related_articles:
 - '[[mental-causation]]'
 - '[[downward-causation]]'
 - '[[evolutionary-case-for-mental-causation]]'
+- '[[consciousness-as-perceptual-architect]]'
 title: Consciousness and the Neuroscience of Deliberate Practice
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -114,6 +115,7 @@ What the data do constrain is the epiphenomenalist position. If the phenomenal q
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Meditation as a parallel case of deliberate practice
 - [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/) — What it feels like as skills withdraw from conscious control and capacity frees up
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The broader argument that consciousness must do something
+- [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — How perception itself transforms through sustained conscious engagement
 - [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/) — How error signals and conscious correction relate to prediction
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-15 04:37:00+00:00
+ai_modified: 2026-03-15 05:07:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ description: Why your theory of time constrains your theory of mind, and how con
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-15 05:07:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,7 +46,7 @@ related_articles:
 - '[[phenomenology-of-memory-and-the-self]]'
 - '[[consciousness-and-creative-distinctiveness]]'
 - '[[incubation-effect-and-unconscious-processing]]'
-- '[[personal-identity]]'
+- '[[topics/personal-identity]]'
 title: Consciousness and the Ontology of Temporal Becoming
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -76,7 +76,7 @@ The [philosophy of time](/concepts/philosophy-of-time/) offers three major posit
 
 ### Eternalism and Its Costs
 
-Eternalism is the default assumption in modern physics. Relativity treats time as a dimension, and the relativity of simultaneity means there is no universal "now." But if all times are equally real, temporal flow is not a feature of fundamental ontology.
+Eternalism is the default assumption in modern physics. Weyl (1949) captured it starkly: "the objective world simply *is*, it does not *happen*." Relativity treats time as a dimension, and the relativity of simultaneity means there is no universal "now." But if all times are equally real, temporal flow is not a feature of fundamental ontology.
 
 Sophisticated B-theorists have developed nuanced positions. Prosser argues temporal experience is veridical about local ordering and change while non-veridical only about the metaphysical status of "passage" itself. Hoerl distinguishes between *feeling that time passes* and time *actually passing*. These positions are more sophisticated than crude illusionism—the Map takes them seriously. But they still concede a significant point: the most phenomenologically salient feature of temporal experience—the sense of the present moment being constitutively different from past and future—is not tracking a real feature of temporal ontology.
 
@@ -92,7 +92,7 @@ Presentism also struggles with [collapse and time's arrow](/concepts/collapse-an
 
 The [growing block](/topics/growing-block-universe-and-consciousness/) preserves what the other ontologies sacrifice. The past exists (unlike presentism), so retention and causal inheritance are genuine relations to real things. The future doesn't yet exist (unlike eternalism), so temporal passage and openness are real.
 
-This ontology pairs naturally with the Map's framework. Temporal experience is veridical—flow is real because reality is genuinely accumulating. Consciousness operates at the ontological frontier, participating in [collapse](/concepts/collapse-and-time/)—the process by which quantum superposition becomes definite outcome. Past collapsed states constrain present possibilities; consciousness selects among remaining open possibilities; the selection becomes a new definite fact.
+This ontology pairs naturally with the Map's framework. Temporal experience is veridical—flow is real because reality is genuinely accumulating. Consciousness operates at the ontological frontier, participating in [collapse](/concepts/collapse-and-time/)—the process by which quantum superposition becomes definite outcome. Objective collapse theories (GRW, Penrose) hold that collapse occurs through physical mechanisms alone; the Map's position is that consciousness *modulates* collapse in neural systems specifically, biasing outcomes without replacing the physical mechanism. Past collapsed states constrain present possibilities; consciousness selects among remaining open possibilities; the selection becomes a new definite fact.
 
 The hard problem deepens productively: physical processes occur within temporal structure; temporal structure is partly constituted by consciousness; therefore consciousness cannot be fully explained by the physical processes it helps make possible. A critic may charge circularity—assuming dualist interactionism to motivate the growing block, then using the growing block to argue for dualist interactionism. The Map accepts this as characteristic of metaphysical reasoning: the best metaphysical packages are those whose components reinforce each other, and coherence arguments are the primary tool for evaluating competing frameworks.
 
@@ -102,7 +102,7 @@ Two claims must be distinguished. The **physical asymmetry claim** is that colla
 
 The **phenomenological constitution claim** is different and stronger. The *experienced directionality* of time—felt passage from open future to settled past, the qualitative distinction between memory and anticipation, the sense of becoming—is partly constituted by consciousness and cannot be reduced to the physical asymmetry alone.
 
-Why does participation in collapse amount to *constituting* the phenomenological arrow rather than merely causing something that produces it? Because when consciousness participates in collapse (as the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes), the collapse is experienced as the narrowing of possibility to actuality. The felt transition from open to settled is not a representation of collapse—it is what collapse is like from the inside. Constitution, not causation.
+Why does participation in collapse amount to *constituting* the phenomenological arrow rather than merely causing something that produces it? Three considerations support the constitution reading. First, when consciousness participates in collapse (as the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes), the collapse is experienced as the narrowing of possibility to actuality. The felt transition from open to settled is not a representation of collapse—it is what collapse is like from the inside. Second, removing consciousness from this picture doesn't leave an impoverished phenomenological arrow—it leaves *no* phenomenological arrow at all. Physical asymmetry persists, but experienced passage vanishes entirely. This is a mark of constitution rather than causation: a cause can be absent while the effect is merely diminished, but a constitutive element's absence eliminates the constituted phenomenon. Third, the phenomenological arrow exhibits features—[qualitative character](/concepts/qualia/), [intentional directedness](/concepts/phenomenology/), unity across the specious present—that have no physical correlate in the thermodynamic or causal arrows. These features belong to consciousness, and they are what make the phenomenological arrow phenomenological.
 
 This resolves the prebiotic collapse problem. Before conscious beings, collapse occurred and physical asymmetry obtained. But there was no phenomenological arrow—no experienced becoming. The physical arrow is necessary but not sufficient for the phenomenological one.
 
@@ -112,13 +112,13 @@ Bergson's [durée](/concepts/temporal-consciousness/) captures what temporal bec
 
 Three features of durée make it not merely temporal but generative. **Interpenetration**: successive states mutually modify each other—meeting a colleague changes the significance of earlier correspondence. **Indivisibility**: durée cannot be decomposed into atomic instants without destruction. **Irreversibility**: you cannot live a moment twice because the second living incorporates the first.
 
-Consciousness also experiences a structured asymmetry. Remembered events feel *actual*—Tulving's [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) describes self-knowing awareness when remembering. Anticipated events feel *possible* rather than actual, even confident predictions lacking memory's settledness. Each present slides into pastness through Husserl's retention-protention structure. And we prefer good experiences in our future and bad ones in our past—an emotional bias that, if consciousness constitutes the phenomenological arrow, tracks a genuine metaphysical distinction.
+Consciousness also experiences a structured asymmetry. Remembered events feel *actual*—Tulving's [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) describes self-knowing awareness when remembering. Anticipated events feel *possible* rather than actual, even confident predictions lacking memory's settledness. Each present slides into pastness through Husserl's retention-protention structure. And we prefer good experiences in our future and bad ones in our past—a temporal bias that Greene and Sullivan (2015) argue is irrational on eternalist grounds, but that, if consciousness constitutes the phenomenological arrow, tracks a genuine metaphysical distinction.
 
 ## From Temporal Becoming to Creativity
 
 If the phenomenological arrow is constituted by consciousness, and if its structure is characterised by durée's accumulative interpenetration, then temporal becoming should generate something atemporal processes cannot: genuine novelty.
 
-Standard computation treats time as a parameter—a sorting algorithm takes time to execute, but time adds nothing to the result. Conscious experience treats time differently. Each moment of awareness inherits its entire history. Three features of actual creativity resist reduction to timeless recombination: **context-dependence of meaning** (juxtaposing "consciousness" and "quantum mechanics" in 1920 is a category error; after decades of measurement problem debates, it is a research programme); **generation of new primitives** (relativistic spacetime was not a recombination of Newtonian concepts); and **irreversibility of insight** (once you grasp a proof, the theorem cannot become uncertain again).
+Standard computation treats time as a parameter—a sorting algorithm takes time to execute, but time adds nothing to the result. Conscious experience treats time differently. Each moment of awareness inherits its entire history. Three features of actual creativity resist reduction to timeless recombination: **context-dependence of meaning** (juxtaposing "consciousness" and "quantum mechanics" in 1920 is a category error; after decades of measurement problem debates, it is a research programme); **generation of new primitives** (relativistic spacetime was not a recombination of Newtonian concepts); and **irreversibility of insight** (once you grasp a proof, the theorem cannot become uncertain again). Computational systems can produce novel outputs—unexpected combinations, solutions to constrained problems—but these operate over fixed representational primitives. The generation of *new* primitives, ones that restructure the representational space itself, appears to require the kind of accumulated temporal context that durée provides. This connects directly to [free will](/topics/free-will/): if temporal becoming is real and consciousness constitutes it, then conscious agents genuinely face open futures rather than traversing predetermined paths.
 
 Whitehead's [process metaphysics](/concepts/process-philosophy/) provides a framework where temporal asymmetry and creativity are structural. Each "actual occasion" [prehends](/concepts/prehension/) its predecessors—inheriting their actuality as settled fact. The past is available for prehension because it has become definite. The succession of occasions *is* temporal order. The Map reads this as compatible with the collapse account: collapse creates definiteness, making an occasion actual and available for prehension.
 

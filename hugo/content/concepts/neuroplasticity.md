@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-03-06 06:57:00+00:00
+ai_modified: 2026-03-15 05:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,6 +24,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
+- '[[consciousness-as-perceptual-architect]]'
 title: Neuroplasticity
 topics:
 - '[[topics/free-will]]'
@@ -159,6 +160,7 @@ Neuroplasticity provides empirical support for several of The Unfinishable Map's
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical framework for consciousness-matter causation
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates between consciousness and neural systems
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Meditation research as evidence for consciousness theories
+- [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — How sustained attention reshapes perception itself through learning and constancy
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness doesn't cause anything
 
 ## References

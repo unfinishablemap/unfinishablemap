@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-14 19:49:00+00:00
+ai_modified: 2026-03-15 05:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -28,12 +28,13 @@ description: 'Born probabilities describe the consciousness-quantum interface: n
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-14 19:49:00+00:00
+last_deep_review: 2026-03-15 05:45:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[quantum-measurement-subjective-probability-2026-01-23]]'
 - '[[what-consciousness-tells-us-about-physics]]'
+- '[[completeness-in-physics-epr-bell-2026-03-14]]'
 title: Quantum Probability and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -113,7 +114,26 @@ The first-person perspective—the fact that *I* will experience *one* definite 
 
 ## Born Probability as Interface Structure
 
-The Unfinishable Map proposes that Born probabilities describe the objective structure of the consciousness-quantum interface—that quantum mechanics is not incomplete (missing hidden variables) but *structurally partial*, complete about possibilities yet silent about actuality. The [reverse inference](/apex/what-consciousness-tells-us-about-physics/) develops this into a full argument about what consciousness reveals about the structure of physics. The interface view differs from existing views:
+The Unfinishable Map proposes that Born probabilities describe the objective structure of the consciousness-quantum interface—that quantum mechanics is *structurally partial*, complete about possibilities yet silent about actuality. The [reverse inference](/apex/what-consciousness-tells-us-about-physics/) develops this into a full argument about what consciousness reveals about the structure of physics.
+
+### Which Sense of "Complete"?
+
+The claim that quantum mechanics is "partial but complete" requires precision. Adan, Barbosa, and Pieczarelli (2023) identify six distinct senses of "completeness" conflated in quantum foundations, and equivocation between them has fuelled eighty years of talking past one another:
+
+- **Theory completeness**: Every element of physical reality has a counterpart in the theory (EPR's original criterion)
+- **Bijective completeness**: A one-to-one mapping between theoretical descriptions and physical states
+- **Born completeness**: Individual systems receive non-probabilistic descriptions (Einstein's later concern—probabilistic descriptions are inherently incomplete)
+- **Schrödinger completeness**: The wave function provides a complete catalogue of expectations for all possible measurements
+- **ψ-completeness**: The ontic state of a system is fully specified by its quantum state (no hidden variables needed)
+- **Predictable completeness**: The theory predicts all measurement outcomes with certainty
+
+The Map's position threads through these distinctions precisely. Quantum mechanics is ψ-complete: the PBR theorem (2012) establishes that the wave function is ontic—a genuine feature of reality, not an epistemic shorthand for deeper physics. It is Schrödinger-complete: it exhaustively catalogues measurement expectations. And Bell's theorem closes the local-hidden-variable route to theory completeness—there are no missing local physical variables to find.
+
+But quantum mechanics is Born-incomplete: it gives only probabilities for individual outcomes, never specifying which result becomes actual. And it fails predictable completeness for the same reason. Einstein was right that probabilistic descriptions of individual systems indicate the theory doesn't capture everything—he was wrong about *what* is missing. He wanted more physics (hidden variables). The Map says what is missing is not physics-shaped but consciousness-shaped: the role of the experiencing subject in actualising one possibility among many.
+
+The no-go theorems constrain the space of possible completions. Bell eliminates local hidden variables. Kochen-Specker eliminates non-contextual value assignments—values do not pre-exist measurement but emerge through measurement context, precisely where consciousness might participate. PBR establishes the wave function as real, not merely a bookkeeping device. Together these results show that quantum mechanics is not an incomplete sketch awaiting better physics. It is a complete description of physical structure that reaches a boundary at the point of actualisation—and that boundary is where the interface view locates consciousness.
+
+The interface view differs from existing views:
 
 **Unlike the standard view:** Probability isn't a feature of physics independent of consciousness. The Born rule describes conditions at the interface where consciousness meets indeterminacy—the statistical structure of how consciousness actualises possibilities.
 
@@ -256,3 +276,22 @@ The question of quantum probability's nature connects to all five tenets:
 13. "Relational Quantum Mechanics." *Stanford Encyclopedia of Philosophy*.
 
 14. "Quantum-Bayesian and Pragmatist Views of Quantum Theory." *Stanford Encyclopedia of Philosophy*.
+
+15. Adan, E., Barbosa, R. S., & Pieczarelli, L. (2023). "Notions of Completeness in the EPR Discussion." *Entropy*, 25(4), 690.
+
+16. Pusey, M. F., Barrett, J., & Rudolph, T. (2012). "On the reality of the quantum state." *Nature Physics*, 8(6), 475-478.
+
+17. Kochen, S. & Specker, E. P. (1967). "The Problem of Hidden Variables in Quantum Mechanics." *Journal of Mathematics and Mechanics*, 17(1), 59-87.
+
+<!-- AI REFINEMENT LOG - 2026-03-15
+Changes made:
+1. Added "Which Sense of 'Complete'?" subsection disambiguating six senses of completeness (Adan et al. 2023) to prevent equivocation in the consciousness-collapse argument
+2. Integrated no-go theorems (Bell, Kochen-Specker, PBR) to show QM is ψ-complete and Schrödinger-complete but Born-incomplete — the gap is consciousness-shaped, not physics-shaped
+3. Strengthened "structurally partial" claim with precise completeness vocabulary
+4. Added 3 new references: Adan et al. (2023), Pusey et al. (2012), Kochen & Specker (1967)
+5. Added completeness research to related_articles
+
+Based on research in completeness-in-physics-epr-bell-2026-03-14.md.
+Key improvement: The article now explicitly names which senses of completeness QM satisfies and which it fails, preventing the equivocation that has plagued the EPR debate for decades.
+This log should be removed after human review.
+-->

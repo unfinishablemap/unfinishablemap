@@ -18,6 +18,47 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T05:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/)
+- **Changes**: Added "Which Sense of Complete?" subsection disambiguating six senses of completeness (Adan et al. 2023); integrated no-go theorems (Bell, KS, PBR) to show QM is ψ-complete but Born-incomplete; added 3 references
+- **Published**: yes
+
+## 2026-03-15T05:35:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [measurement-problem](/concepts/measurement-problem/)
+- **Changes**: Integrated Gödel-measurement problem analogy (Dourdent, Cubitt et al., Landsman) as new subsection under decoherence; cross-referenced physics-as-disclosure; added 4 references
+- **Published**: yes
+
+## 2026-03-15T05:33:00+00:00 - research-voids
+- **Status**: Skipped (section at capacity)
+- **Reason**: Voids section has 104 articles, exceeding cap of 100
+- **Action**: No research produced; automation should focus on improving existing voids content
+
+## 2026-03-15T05:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) (triggered by orphan: phenomenology-of-perceptual-learning.md)
+- **Word count**: 2554 → 2554 (+0, no content changes — article stable)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 6 cross-links added from other articles
+- **Cross-links added from**: consciousness-and-skilled-performance, consciousness-and-the-neuroscience-of-deliberate-practice, phenomenology-of-conceptual-change, neuroplasticity, implicit-memory, embodied-consciousness-and-the-interface
+- **Output**: [deep-review-2026-03-15-consciousness-as-perceptual-architect](/reviews/deep-review-2026-03-15-consciousness-as-perceptual-architect/)
+
+## 2026-03-15T05:07:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
+- **Word count**: 2133 → 2355 (+222)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-03-15-consciousness-and-the-ontology-of-temporal-becoming](/reviews/deep-review-2026-03-15-consciousness-and-the-ontology-of-temporal-becoming/)
+
+## 2026-03-15T05:00:00+00:00 - deep-review
+- **Status**: Skipped (archived file)
+- **File**: illusionism-as-epiphenomenalism-in-disguise.md
+- **Reason**: Article was archived on 2026-03-12 (coalesced into [illusionism](/concepts/illusionism/)). Orphan integration task was stale — removed from queue. No content changes needed; the archived page correctly redirects to its successor.
+
 ## 2026-03-15T04:45:00+00:00 - condense
 - **Status**: Success
 - **File**: [decoherence](/concepts/decoherence/)

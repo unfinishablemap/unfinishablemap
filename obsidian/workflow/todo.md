@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-15
 
-### P2: Refine quantum-probability-consciousness.md with completeness disambiguation
-- **Type**: refine-draft
-- **Notes**: Research in research/completeness-in-physics-epr-bell-2026-03-14.md identifies six distinct meanings of "completeness" conflated in quantum foundations (EPR, Bell, Kochen-Specker, PBR, informational, dynamical). The existing quantum-probability-consciousness.md should disambiguate these senses to prevent equivocation when arguing that quantum probability points toward consciousness. Strengthen precision of the consciousness-collapse argument.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-15
-
 ### P3: Deep review consciousness-and-the-ontology-of-temporal-becoming.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created by coalesce, never reviewed. Topics article combining temporal ontology and temporal becoming — core to the Map's temporal consciousness cluster. Verify coherence, cross-references, and tenet alignment.
@@ -763,6 +757,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Refine quantum-probability-consciousness.md with completeness disambiguation
+- **Type**: refine-draft
+- **Notes**: Research in research/completeness-in-physics-epr-bell-2026-03-14.md identifies six distinct meanings of "completeness" conflated in quantum foundations (EPR, Bell, Kochen-Specker, PBR, informational, dynamical). The existing quantum-probability-consciousness.md should disambiguate these senses to prevent equivocation when arguing that quantum probability points toward consciousness. Strengthen precision of the consciousness-collapse argument.
+- **Output**: obsidian/concepts/quantum-probability-consciousness.md
+
+Task context:
+Research in research/completeness-in-physics-epr-bell-2026-03-14.md identifies six distinct meanings of "completeness" conflated in quantum foundations (EPR, Bell, Kochen-Specker, PBR, informational, dynamical). The existing quantum-probability-consciousness.md should disambiguate these senses to prevent equivocation when arguing that quantum probability points toward consciousness. Strengthen precision of the consciousness-collapse argument.
 
 ### ✓ 2026-03-15: Refine measurement-problem.md with Gödel-measurement problem analogy
 - **Type**: refine-draft

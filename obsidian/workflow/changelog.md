@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T05:45:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[quantum-probability-consciousness]]
+- **Changes**: Added "Which Sense of Complete?" subsection disambiguating six senses of completeness (Adan et al. 2023); integrated no-go theorems (Bell, KS, PBR) to show QM is ψ-complete but Born-incomplete; added 3 references
+- **Published**: yes
+
 ## 2026-03-15T05:35:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/measurement-problem]]

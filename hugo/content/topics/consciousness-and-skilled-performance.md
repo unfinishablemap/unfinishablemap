@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-11 06:32:00+00:00
+ai_modified: 2026-03-15 05:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -50,6 +50,7 @@ related_articles:
 - '[[habituation-void]]'
 - '[[conscious-vs-unconscious-processing]]'
 - '[[sensorimotor-contingencies-and-the-interface]]'
+- '[[consciousness-as-perceptual-architect]]'
 - '[[phenomenology-of-conceptual-change]]'
 - '[[phenomenology-of-epistemic-judgment]]'
 - '[[phenomenology-of-returning-attention]]'
@@ -73,7 +74,7 @@ Skill acquisition follows a characteristic arc from rule-following to perception
 
 **The competent stage** marks a transition. Rules cluster into larger units—"check mirror, then signal" fuses into a single preparatory gesture. Situational awareness emerges. The body begins to cooperate as new movements gradually acquire the felt quality of naturalness.
 
-**The expert stage** brings a qualitative transformation. Dreyfus emphasised that experts do not apply rules faster—they perceive situations differently. The expert driver doesn't calculate stopping distances; they *see* the gap as passable or not. Perception and action couple in what Merleau-Ponty called the "intentional arc"—the unity of sensory, motor, and affective life that grounds the skilled body's pre-reflective directedness.
+**The expert stage** brings a qualitative transformation. Dreyfus emphasised that experts do not apply rules faster—they perceive situations differently. The expert driver doesn't calculate stopping distances; they *see* the gap as passable or not. This perceptual transformation — where training restructures what consciousness receives — is the territory of [perceptual architecture](/topics/consciousness-as-perceptual-architect/). Perception and action couple in what Merleau-Ponty called the "intentional arc"—the unity of sensory, motor, and affective life that grounds the skilled body's pre-reflective directedness.
 
 ## Conscious Scaffolding and Its Withdrawal
 
@@ -169,6 +170,7 @@ The strongest physicalist counterargument is that executive attention networks a
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The felt difference between authored and discovered action
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/) — The cognitive parallel to motor skill transition
+- [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — How perception itself transforms through learning and constancy
 - [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-the-neuroscience-of-deliberate-practice/) — The neural evidence for practice quality mattering
 - [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/) — What it is like as processes become automatic and capacity frees up
 - [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) — The causal argument from motor imagery to consciousness's efficacy

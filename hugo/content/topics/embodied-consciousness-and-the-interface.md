@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-15 04:13:00+00:00
+ai_modified: 2026-03-15 05:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,6 +31,7 @@ related_articles:
 - '[[attention-motor-planning-quantum-interface-2026-01-23]]'
 - '[[choking-phenomenon-mental-causation]]'
 - '[[consciousness-and-skilled-performance]]'
+- '[[consciousness-as-perceptual-architect]]'
 title: Embodied Consciousness and the Interface
 topics:
 - '[[hard-problem-of-consciousness]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-03-09 22:26:00+00:00
+ai_modified: 2026-03-15 05:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[tenets]]'
 - '[[implicit-memory-consciousness-2026-01-18]]'
 - '[[choking-phenomenon-mental-causation]]'
+- '[[consciousness-as-perceptual-architect]]'
 title: Implicit Memory and Anoetic Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -200,6 +201,7 @@ Eliminating consciousness from accounts of skill acquisition can't explain choki
 
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) - Extended analysis of choking as evidence for mental causation
 - [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/) - How consciousness shapes skill acquisition, flow, and performance restructuring
+- [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — The "perceptual ratchet" concept: how perceptual learning creates irreversible implicit knowledge encoded in perceptual structure
 - [voluntary attention](/concepts/attention-as-interface/) - Why choking involves willed attention specifically, and the neural signatures distinguishing it from stimulus-driven capture
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Tulving's tripartite hierarchy of consciousness levels
 - [semantic-memory](/concepts/semantic-memory/) - Noetic consciousness and the phenomenology of knowing without re-experiencing

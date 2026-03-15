@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-03-11 21:17:00+00:00
+ai_modified: 2026-03-15 05:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,6 +27,7 @@ related_articles:
 - '[[phenomenology-of-error-recognition]]'
 - '[[destabilizing-self-knowledge]]'
 - '[[phenomenology-of-the-edge]]'
+- '[[consciousness-as-perceptual-architect]]'
 title: The Phenomenology of Conceptual Change
 topics:
 - '[[phenomenology-of-understanding]]'
@@ -77,7 +78,7 @@ The phenomenal signature of the gestalt shift includes:
 - **Totality.** The shift is not piecemeal. You do not revise one concept and then another. The entire framework reorganises at once, like a crystal lattice reforming rather than individual atoms relocating.
 - **Irreversibility felt as liberation.** After a genuine conceptual shift, the old framework becomes difficult to inhabit. You can remember thinking that way but can no longer *think* that way. This has a felt quality of having emerged from something — not escape from error but expansion beyond limitation.
 - **Retroactive reinterpretation.** The past looks different. Previous confusions now appear as symptoms of the old framework's inadequacy. Anomalies that resisted categorisation now slot cleanly into the new framework. This retroactive illumination extends the [temporal structure of understanding](/concepts/temporal-structure-of-understanding/) into the biographical past.
-- **Perceptual transformation.** After conceptual change, the world genuinely looks different. The student who grasps evolutionary thinking sees design where they once saw intention. The physicist who absorbs quantum mechanics sees probability where they once saw deterministic trajectory. These are not metaphors — the perceptual experience transforms because the concepts organising perception have changed.
+- **Perceptual transformation.** After conceptual change, the world genuinely looks different. The student who grasps evolutionary thinking sees design where they once saw intention. The physicist who absorbs quantum mechanics sees probability where they once saw deterministic trajectory. These are not metaphors — the perceptual experience transforms because the concepts organising perception have changed. This overlap with [perceptual learning](/topics/consciousness-as-perceptual-architect/) is instructive: conceptual change alters the *categories* organising perception, while perceptual learning alters *what arrives* at perception. Both demonstrate consciousness as architect rather than passive receiver.
 
 ### Consolidation and Residual Dissonance
 
@@ -135,6 +136,7 @@ The Unfinishable Map's tenets illuminate conceptual change from several directio
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/)
+- [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — The perceptual parallel: how perception itself transforms through learning and constancy
 - [epistemic-emotions](/concepts/epistemic-emotions/)
 
 ## References
