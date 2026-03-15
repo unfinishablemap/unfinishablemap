@@ -797,6 +797,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-15
 
+### P3: Write article on the phenomenology of interface opacity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Phenomenal transparency explains why we can't see the representational medium; embodied-consciousness shows the interface extends beyond the brain. This article would systematically develop interface opacity — the specific ways consciousness fails to detect its own point of contact with matter — as distinct from both phenomenal transparency and general mysterianism. See optimistic-2026-03-15-morning.md
+- **Source**: optimistic_review
+- **Generated**: 2026-03-15
+
+### P3: Write article on temporal becoming and mathematical creativity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The temporal becoming article argues genuine creativity requires accumulated temporal context (durée) for generating new representational primitives. Mathematical creativity — where insight can be checked against objective truth — provides the strongest test case. Connects the temporal creativity thesis to the Map's strongest empirical anchor for phenomenological claims. See optimistic-2026-03-15-morning.md
+- **Source**: optimistic_review
+- **Generated**: 2026-03-15
+
 ## Completed Tasks
 
 
