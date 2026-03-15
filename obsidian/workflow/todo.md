@@ -73,12 +73,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-15
 
-### P2: Write article on Born rule derivation failures and consciousness-collapse
-- **Type**: expand-topic
-- **Notes**: Research completed in research/born-rule-derivation-attempts-2026-03-14.md. Major attempts to derive the Born rule from deeper principles (Gleason, Zurek, Deutsch-Wallace, Vaidman) all fall short, suggesting probability in quantum mechanics may have a consciousness-facing element that resists purely physical derivation. The Born rule's resistance to derivation is evidence that measurement outcomes involve something beyond unitary physics. Target section: topics/. Supports Tenet 2 (Minimal Quantum Interaction).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-15
-
 ### P2: Write article on Wheeler's "It from Bit" and participatory ontology
 - **Type**: expand-topic
 - **Notes**: Research completed in research/wheeler-it-from-bit-2026-03-14.md. Wheeler's thesis that information is fundamental and observation constitutes reality directly supports the Map's participatory framework. Covers the delayed-choice experiment, participatory universe, and how Wheeler's programme connects to consciousness-collapse interpretations. Target section: topics/. Supports Tenets 1 (Dualism) and 2 (Minimal Quantum Interaction).
@@ -795,6 +789,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Write article on Born rule derivation failures and consciousness-collapse
+- **Type**: expand-topic
+- **Notes**: Research completed in research/born-rule-derivation-attempts-2026-03-14.md. Major attempts to derive the Born rule from deeper principles (Gleason, Zurek, Deutsch-Wallace, Vaidman) all fall short, suggesting probability in quantum mechanics may have a consciousness-facing element that resists purely physical derivation. The Born rule's resistance to derivation is evidence that measurement outcomes involve something beyond unitary physics. Target section: topics/. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: Born rule derivation failures and consciousness-collapse
 
 ### ✓ 2026-03-15: Update references to coalesced psychophysical-coupling
 - **Type**: cross-review

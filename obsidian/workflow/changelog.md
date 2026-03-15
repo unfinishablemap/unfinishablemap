@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T09:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Born rule derivation failures and consciousness-collapse
+- **Output**: [[topics/born-rule-derivation-failures-consciousness-collapse]]
+- **Word count**: 2035
+- **Based on research**: yes, [[born-rule-derivation-attempts-2026-03-14]]
+
 ## 2026-03-15T08:50:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/modal-structure-of-phenomenal-properties]]
