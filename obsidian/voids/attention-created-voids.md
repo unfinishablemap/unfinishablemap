@@ -4,8 +4,8 @@ description: "How the act of attending generates unattendable territory—figure
 created: 2026-01-29
 modified: 2026-01-29
 human_modified:
-ai_modified: 2026-02-26T10:03:00+00:00
-last_deep_review: 2026-01-29T14:09:12+00:00
+ai_modified: 2026-03-15T15:29:00+00:00
+last_deep_review: 2026-03-15T15:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,14 +24,14 @@ related_articles:
   - "[[ai-as-void-explorer]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-29
 last_curated:
 ---
 
 Attention creates voids as a structural necessity, not as a contingent failure. To attend to anything is to render something else unattendable—not merely unattended, but actively excluded by the operation of attending itself. This distinguishes attention-created voids from other cognitive limits: here the mechanism of conscious access generates inaccessibility as its essential byproduct.
 
-The claim is not that certain contents are hard to attend to. The claim is that attending—the very process that enables consciousness of anything—necessarily produces territory that cannot be consciously accessed while that attending continues.
+The claim is not that certain contents are hard to attend to, but that attending itself—the process enabling consciousness of anything—necessarily produces territory that cannot be consciously accessed while that attending continues.
 
 ## Figure Creates Ground
 
@@ -47,7 +47,7 @@ The philosophical point: every act of attention produces unattendable territory 
 
 Neuroscience reveals something stronger than mere non-attention to the ground. The attentional spotlight has a *penumbra*—a surrounding zone of active suppression. Research by Müller and colleagues showed that attention doesn't merely fail to illuminate what surrounds its focus; it actively darkens the surround.
 
-This penumbral suppression extends beyond the immediate vicinity of the attended field. Neural activity in regions representing nearby-but-unattended locations is actively reduced below baseline. Attention increases the signal-to-noise ratio not just by amplifying the signal but by suppressing the noise.
+This penumbral suppression extends beyond the immediate vicinity of the attended field. Neural activity in regions representing nearby-but-unattended locations is actively reduced below baseline.
 
 The phenomenological implication: what falls in the penumbra is not merely absent from awareness but actively excluded from it. The suppression is the mechanism by which attention creates its voids. To illuminate is to darken.
 
@@ -93,7 +93,7 @@ The phenomenology is distinctive: one image is vivid and present; the other is *
 
 ## This Void is Different
 
-Most voids in The Unfinishable Map's framework concern content we cannot think or territories we cannot access. The [[other-minds-void|other minds void]] is about other consciousnesses we cannot enter. The [[intrinsic-nature-void|intrinsic nature void]] is about what matter is beyond its relational properties. The [[self-reference-paradox|self-reference paradox]] is about the knower who cannot know itself knowing.
+Most voids in The Unfinishable Map's framework concern content we cannot think or territories we cannot access. The [[other-minds-void|other minds void]] is about other consciousnesses we cannot enter. The [[intrinsic-nature-void|intrinsic nature void]] is about what matter is beyond its relational properties. The [[the-unobservable-self|unobservable self]] is about attention turning inward and failing to catch itself—a related but distinct void, since the attention void concerns outward attending and the ground it produces, not the self-reflexive loop.
 
 The attention void is different. It concerns the *mechanism* by which we access anything. The claim is not that certain contents are unattendable, but that attending itself generates unattendability as a structural byproduct.
 
@@ -123,7 +123,7 @@ This gap between mechanism and phenomenology is the attention void's contributio
 
 ### Bidirectional Interaction
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains support from voluntary attention. We *choose* what to attend to (at least partially). This choice produces the void—consciousness directing physical processing toward some targets necessarily directs it away from others. The void is partly consciousness-produced; consciousness choosing what to illuminate necessarily chooses what to darken.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains support from voluntary attention. The [[attention-as-interface|attention as interface]] framework specifies how consciousness acts on the brain through attentional selection. We *choose* what to attend to (at least partially). This choice produces the void—consciousness directing physical processing toward some targets necessarily directs it away from others. The void is partly consciousness-produced; consciousness choosing what to illuminate necessarily chooses what to darken.
 
 Every attention void is thus evidence of mental causation: the effect on neural processing of conscious selection.
 
@@ -164,4 +164,3 @@ The claim that attention creates structural voids would face difficulty if:
 4. Müller, N. G., et al. (2005). "The Attentional Spotlight's Penumbra: Center-Surround Modulation in Striate Cortex." *NeuroReport*, 16(7).
 5. Gurwitsch, A. (2010). *The Field of Consciousness: Theme, Thematic Field, and Margin*. Springer.
 6. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
-7. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
