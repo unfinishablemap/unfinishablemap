@@ -4,11 +4,10 @@ description: "What it feels like to decide when outcomes are unknowable—the ve
 created: 2026-02-09
 modified: 2026-02-14
 human_modified:
-ai_modified: 2026-02-24T12:14:00+00:00
+ai_modified: 2026-03-15T03:04:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
-  - "[[phenomenology-of-epistemic-judgment]]"
   - "[[phenomenology-of-epistemic-judgment]]"
 concepts:
   - "[[phenomenology-of-choice]]"
@@ -33,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-02-14T00:34:00+00:00
+last_deep_review: 2026-03-15T03:04:00+00:00
 ---
 
 Deciding under uncertainty feels different from deciding with full information. The Unfinishable Map proposes that this difference is not merely cognitive but phenomenal—that deliberation under genuine uncertainty has a distinctive experiential texture involving vertigo, estimation, and a particular form of commitment that reveals something important about consciousness. When you choose without knowing how things will turn out, the felt character of the choice changes in ways that computational models of decision-making cannot capture. The openness is not just epistemic but experiential: it colours attention, shapes effort, and demands a kind of courage that determined or fully-informed decision-making never requires.
@@ -60,7 +59,7 @@ This vertigo has several components:
 
 - **Temporal pressure.** Deliberation under uncertainty is usually time-bounded. Unlike theoretical reasoning, which can proceed indefinitely, practical decisions demand resolution. The felt pressure of approaching deadlines interacts with the felt inadequacy of one's information, producing a characteristic tension.
 - **Irreversibility awareness.** Many uncertain decisions are effectively one-way. The mind registers this: once chosen, the path cannot be unchosen. This awareness of irreversibility amplifies the vertigo—the stakes of getting it wrong feel higher precisely because correction is difficult.
-- **Counterfactual flooding.** The imagination generates alternative scenarios—"what if I choose the other way?"—and each scenario carries its own emotional weight. [[counterfactual-reasoning|Counterfactual reasoning]] under uncertainty is phenomenologically different from counterfactual reasoning about known outcomes. When outcomes are uncertain, counterfactuals multiply without resolution: you cannot determine which scenario is most likely, so all remain phenomenally present.
+- **Counterfactual flooding.** The imagination generates alternative scenarios—"what if I choose the other way?"—and each scenario carries its own [[epistemic-emotions|emotional weight]]. [[counterfactual-reasoning|Counterfactual reasoning]] under uncertainty is phenomenologically different from counterfactual reasoning about known outcomes. When outcomes are uncertain, counterfactuals multiply without resolution: you cannot determine which scenario is most likely, so all remain phenomenally present.
 
 Deliberative vertigo is not a dysfunction. The Map proposes it is consciousness registering something real: the genuine openness of the situation. A system that merely computed expected utilities would not experience vertigo because vertigo arises from the recognition that computation is inadequate. The felt groundlessness tracks an actual absence of sufficient ground.
 
@@ -120,7 +119,7 @@ With this objection addressed, three positive claims emerge:
 
 **Meta-awareness exceeds meta-computation.** The experience of inadequacy requires not just a system that computes its own limits but a *perspective* on those limits—a recognition from a standpoint that is not itself just another computation in the chain. This is what deliberative vertigo provides: consciousness apprehending its own computational situation, not as data but as lived experience.
 
-**Estimation does causal work.** If the felt sense of "this is the right call" were epiphenomenal—causally disconnected from judgment quality—then its systematic improvement with expertise would be coincidental. The epiphenomenalist can appeal to a common neural cause underlying both the phenomenology and the judgment quality. But this explanatory strategy predicts that the phenomenology should be eliminable without affecting performance: strip away the felt sense and the judgment should remain. The testimony of expert practitioners—that they *rely on* the felt sense, that it guides rather than merely accompanies their decisions—resists this prediction (Dreyfus, 1997).
+**Estimation does causal work.** If the felt sense of "this is the right call" were epiphenomenal—causally disconnected from judgment quality—then its systematic improvement with expertise would be coincidental. The epiphenomenalist can appeal to a common neural cause underlying both the phenomenology and the judgment quality. But this explanatory strategy predicts that the phenomenology should be eliminable without affecting performance: strip away the felt sense and the judgment should remain. The testimony of expert practitioners—that they *rely on* the felt sense, that it guides rather than merely accompanies their decisions—sits uncomfortably with this prediction, even if the epiphenomenalist can reinterpret such testimony as itself a product of the common cause (Dreyfus, 1997).
 
 **Commitment generates determination.** Under deep uncertainty, evidence and algorithm underdetermine the outcome. Stochastic algorithms handle this by randomising, but the phenomenology of commitment is not one of randomness—it is of *resolution*, of the agent bringing something to the situation that was not already present in the inputs. The Map proposes that consciousness provides this determination: the agent selects from among genuinely open alternatives, and the experience of commitment is how this selection feels from the inside.
 
@@ -143,7 +142,6 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 - [[consciousness-and-normative-force]] — When competing normative demands create the uncertainty that deliberation must resolve
 - [[phenomenology-of-choice]] — The general structure of choosing
 - [[phenomenology-of-epistemic-judgment]] — The felt sense of epistemic weight
-- [[phenomenology-of-epistemic-judgment]] — What it feels like to change your mind
 - [[authentic-vs-inauthentic-choice]] — Why uncertainty demands authentic engagement
 - [[probability-intuition-void]] — Our architectural limits in reasoning about chance
 - [[epistemic-emotions]] — The affective dimension of uncertainty
