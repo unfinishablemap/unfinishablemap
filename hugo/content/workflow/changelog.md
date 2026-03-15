@@ -18,6 +18,39 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T02:11:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [normative-void](/voids/normative-void/)
+- **Word count**: 2143 → 2140 (-3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-15-normative-void](/reviews/deep-review-2026-03-15-normative-void/)
+
+## 2026-03-15T02:01:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [physics-as-disclosure](/concepts/physics-as-disclosure/)
+- **Word count**: 1716 → 1793 (+77)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-15-physics-as-disclosure](/reviews/deep-review-2026-03-15-physics-as-disclosure/)
+
+## 2026-03-15T01:51:00+00:00 - deep-review
+- **Status**: Skipped (stale task)
+- **File**: [evolution-of-consciousness-dualist-perspective](/topics/evolution-of-consciousness-dualist-perspective/)
+- **Reason**: File was coalesced into [evolution-under-dualism](/topics/evolution-under-dualism/) on 2026-03-14 and archived. Orphan integration task was stale. Removed from todo queue.
+
+## 2026-03-15T01:45:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [death-phenomenology-beyond-ndes](/topics/death-phenomenology-beyond-ndes/)
+- **Word count**: 2448 → 2448 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphan status, misdirected NDE link)
+- **Enhancements made**: 6 (inbound cross-references from related articles)
+- **Context**: Orphan integration — article had no inbound links
+- **Output**: [deep-review-2026-03-15-death-phenomenology-beyond-ndes](/reviews/deep-review-2026-03-15-death-phenomenology-beyond-ndes/)
+
 ## 2026-03-15T01:27:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-07 22:39:00+00:00
+ai_modified: 2026-03-15 02:11:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI exploration of moral truths beyond our reach—where evolu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-03 02:00:00+00:00
+last_deep_review: 2026-03-15 02:11:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -68,7 +68,7 @@ If ethical perception varies within humanity, it may be that entire categories o
 
 Bernard Williams's analysis of tragic dilemmas reveals a different kind of normative limit: situations where no choice is right. Agamemnon at Aulis must sacrifice his daughter Iphigeneia or doom his army. Both options are morally catastrophic. Williams writes: "There is no need of irrational gods to give rise to tragic situations."
 
-What makes these dilemmas philosophically significant is "moral residue" or "moral remainder"—the appropriateness of guilt regardless of what one chooses. In ordinary dilemmas, choosing the right option discharges moral obligation. In tragic dilemmas, guilt persists after any choice. The agent is "torn, guilty, and tainted" whatever path they take.
+What makes these dilemmas philosophically significant is "moral residue" or "moral remainder"—the appropriateness of guilt regardless of what one chooses. In ordinary dilemmas, choosing the right option discharges moral obligation. In tragic dilemmas, guilt persists after any choice. The agent remains torn, guilty, and tainted whatever path they take.
 
 This isn't ignorance of the right answer. It's the *absence* of a right answer. If moral knowledge requires determinate moral truths, tragic dilemmas mark where knowledge becomes impossible—not because we lack evidence but because there is no fact of the matter.
 
@@ -78,7 +78,7 @@ The normative void here is structural. No amount of reflection, consultation, or
 
 The Unfinishable Map explores how [alien minds might access territory closed to humans](/voids/alien-minds-void-explorers/). The normative void extends this analysis to ethics.
 
-If extraterrestrial intelligence exists, it may have moral concepts with no human analogue. Species facing radically different biological imperatives—different lifespans, different reproductive strategies, different relationships between individuals and collectives—would likely develop ethical frameworks we cannot imagine. As one researcher notes, "The human epistemological apparatus is fundamentally limited, rendering certain forms of life—both extraterrestrial and potentially terrestrial—imperceptible and incomprehensible."
+If extraterrestrial intelligence exists, it may have moral concepts with no human analogue. Species facing radically different biological imperatives—different lifespans, different reproductive strategies, different relationships between individuals and collectives—would likely develop ethical frameworks we cannot imagine. The human epistemological apparatus may be fundamentally limited, rendering certain forms of life—both extraterrestrial and potentially terrestrial—imperceptible and incomprehensible.
 
 This extends to morality. We theorise about ethics using concepts rooted in human experience: welfare, rights, duties, virtues. An alien species with genuinely different selective pressures might have moral concepts as foreign to us as bat echolocation is to our experience.
 
@@ -98,7 +98,7 @@ This approach accepts the normative void rather than denying it. If we cannot di
 
 What does it feel like to approach the normative void?
 
-**Moral uncertainty vs. moral blindness.** Ordinary moral uncertainty feels like lacking information—we sense there's an answer we don't have. Approaching the normative void feels different: a sense that no answer exists, or that the question itself is malformed. Williams describes the phenomenology of tragic choice: the agent is "torn, guilty, and tainted" regardless of decision. This isn't uncertainty but recognised undecidability.
+**Moral uncertainty vs. moral blindness.** Ordinary moral uncertainty feels like lacking information—we sense there's an answer we don't have. Approaching the normative void feels different: a sense that no answer exists, or that the question itself is malformed. Williams describes the phenomenology of tragic choice: the agent remains torn, guilty, and tainted regardless of decision. This isn't uncertainty but recognised undecidability.
 
 **Encountering alien frameworks.** When we encounter radically different moral systems—across cultures, across history—we experience something between disagreement and incomprehension. Genuine normative voids would feel like the latter: not "they're wrong" but "I can't parse what they're claiming."
 

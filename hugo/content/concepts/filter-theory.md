@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-10 18:38:00+00:00
+ai_modified: 2026-03-15 01:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -224,6 +224,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The proposed mechanism for mind-brain interface
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — Sleep-onset phenomenology as real-time filter loosening
 - [habituation-void](/voids/habituation-void/) — Habituation as a filtering mechanism that screens out the familiar
+- [death-phenomenology-beyond-ndes](/topics/death-and-consciousness/) — Broader dying phenomenology as evidence for filter loosening near death
 
 ## References
 

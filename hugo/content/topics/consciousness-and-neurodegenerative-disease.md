@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-01 18:52:00+00:00
+ai_modified: 2026-03-15 01:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -143,6 +143,7 @@ The Unfinishable Map's [tenets](/tenets/) converge on neurodegenerative disease 
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — Interface degradation through practice versus disease
 - [identity-across-transformations](/apex/identity-across-transformations/) — How indexical identity persists through radical change
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares the selection interface that Parkinson's disease disrupts
+- [death-phenomenology-beyond-ndes](/topics/death-and-consciousness/) — Deathbed visions, shared death experiences, and nearing death awareness alongside terminal lucidity
 
 ## References
 

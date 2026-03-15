@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-02-25 03:23:00+00:00
+ai_modified: 2026-03-15 01:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -160,6 +160,7 @@ The death void connects directly to the Map's [foundational commitments](/tenets
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [past-self-void](/voids/past-self-void/) — The discontinuity of personal identity over time
 - [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/) — Why the death void is not merely a limit but a precondition for temporal meaning
+- [death-phenomenology-beyond-ndes](/topics/death-and-consciousness/) — Empirical phenomenology of dying: deathbed visions, terminal lucidity, and shared death experiences
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-15 00:35:00+00:00
+ai_modified: 2026-03-15 02:01:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: The measurement problem is not a deficiency in quantum mechanics bu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-15 02:01:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -37,9 +37,9 @@ The Unfinishable Map reads the [measurement problem](/concepts/measurement-probl
 
 The conventional reading treats the measurement problem as physics falling short. The Schrödinger equation governs quantum systems deterministically, producing superpositions of all possible states. Measurement yields a single definite outcome. The gap between continuous evolution and discontinuous collapse looks like a bug — an unfinished theory awaiting completion.
 
-On this reading, physics *should* describe collapse but doesn't yet. The search for a solution drives interpretation: Many-Worlds eliminates collapse by keeping all outcomes; Bohmian mechanics adds hidden variables to predetermine results; GRW and CSL introduce spontaneous collapse as a new physical process. Each strategy assumes the measurement problem is a hole in the theory that more physics can fill.
+On this reading, physics *should* describe collapse but doesn't yet. The search for a solution drives interpretation: Many-Worlds eliminates collapse by keeping all outcomes; Bohmian mechanics adds hidden variables to predetermine results; [GRW and CSL](/concepts/spontaneous-collapse-theories/) introduce spontaneous collapse as a new physical process. Each strategy assumes the measurement problem is a hole in the theory that more physics can fill.
 
-This framing has been productive — it generated a century of important physics. But the Map argues it rests on an assumption worth questioning: that everything real must be describable in physical terms. If that assumption fails, the measurement problem is not a hole but a *window*.
+This framing has been productive — it generated a century of important physics. But the Map argues it rests on an assumption worth questioning: that everything real must be describable in physical terms — a commitment closely related to [causal closure](/concepts/causal-closure/). If that assumption fails, the measurement problem is not a hole but a *window*.
 
 ## The Disclosure View: Boundary Reached
 
@@ -47,7 +47,7 @@ The disclosure reading begins from a different premise. If reality is [bi-aspect
 
 Physics describes the structural aspect completely. The wavefunction encodes every possibility, assigns every amplitude, determines every interference pattern. Nothing structural is missing. What the wavefunction cannot describe is which possibility becomes actual, because actuality is contributed by the other aspect. The theory reaches its boundary — and discloses that boundary — precisely where it should: at the point where structure meets something structure cannot capture.
 
-"Disclosure" here carries its phenomenological weight: *aletheia*, unconcealment, the act of revealing what was previously hidden. The measurement problem unconceals the limit of structural description. It shows that physical theory, however complete within its domain, leaves something out — not because of a gap in the theory but because of a boundary in reality.
+"Disclosure" here carries its phenomenological weight: *aletheia* (unconcealment), the act of revealing what was previously hidden. The measurement problem unconceals the limit of structural description. It shows that physical theory, however complete within its domain, leaves something out — not because of a gap in the theory but because of a boundary in reality.
 
 ## Historical Precedents — and Where the Analogy Breaks
 
@@ -87,13 +87,13 @@ How could one distinguish between the two readings? Both are consistent with cur
 
 Several considerations favour the disclosure reading from the Map's perspective:
 
-1. **Duration of the problem.** A century without resolution is unusual for physics. Most foundational puzzles are resolved or clearly dissolved within decades. The measurement problem's persistence is expected on the disclosure reading, anomalous on the deficiency reading.
+1. **Duration of the problem.** A century without resolution is unusual for physics. Most foundational puzzles — Mercury's precession, ultraviolet catastrophe, the aether — were resolved or clearly dissolved within decades. One could argue the measurement problem is merely interpretational rather than empirical, which would explain the delay without invoking disclosure. But the measurement problem is not purely interpretational: it concerns the physical process by which one outcome obtains. Its persistence is expected on the disclosure reading, anomalous on the deficiency reading.
 
 2. **Structural parallel with the hard problem.** Both the measurement problem and the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) mark points where third-person description fails to capture first-person facts. If this parallel is not coincidental — if both disclose the same boundary — the measurement problem is philosophical rather than physical. See [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) for the full argument.
 
 3. **Decoherence's clean partition.** Decoherence's ability to handle all structural aspects while leaving the actuality question untouched is predicted by disclosure, not expected on deficiency.
 
-4. **The completeness of quantum mechanics within its domain.** No-hidden-variables theorems (Bell, Kochen-Specker) show that quantum mechanics is not missing physical information. If the theory is structurally complete, what it fails to describe is not more structure.
+4. **Constraints on hidden completions.** No-hidden-variables theorems (Bell, Kochen-Specker) severely constrain what additional physical information could look like — ruling out local and noncontextual hidden variables. While nonlocal completions like Bohmian mechanics remain possible, the theorems show that any "missing physics" must be radically unlike familiar physics. The more exotic the required completion, the less the deficiency reading resembles a straightforward gap.
 
 None of these is individually decisive. The deficiency reading remains viable — it is possible that a physical collapse mechanism will be discovered, or that a reconceptualisation of "physical" will dissolve the boundary. The Map holds that the evidence favours disclosure but maintains [epistemic humility](/tenets/#occams-limits) about the conclusion.
 
@@ -105,7 +105,7 @@ None of these is individually decisive. The deficiency reading remains viable �
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Disclosure explains why the interaction is minimal. Consciousness operates at the boundary physics discloses — within the Born probabilities, not against them. The interaction is invisible from within physics because physics ends where the interaction occurs.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The disclosed boundary is the site of interaction. Structure presents possibilities; consciousness selects actuality. The disclosure is the point where bidirectional causation occurs.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The disclosed boundary is the site of [interaction](/concepts/interactionist-dualism/). Structure presents possibilities; consciousness selects actuality. The disclosure is the point where bidirectional causation occurs.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Many-Worlds eliminates disclosure by declaring that no selection happens — all possibilities are actual. The disclosure reading requires that selection is real, which is what rejecting Many-Worlds preserves.
 
