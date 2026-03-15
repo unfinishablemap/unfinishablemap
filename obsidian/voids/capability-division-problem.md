@@ -2,9 +2,9 @@
 title: "The Capability Division Problem"
 description: "Interactionist dualism must specify which capabilities belong to the brain and which to the mind. This boundary may resist precise drawing—a void at the heart of dualism."
 created: 2026-03-09
-modified: 2026-03-09
+modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-09T12:31:00+00:00
+ai_modified: 2026-03-15T16:49:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,18 +16,20 @@ concepts:
   - "[[baseline-cognition]]"
   - "[[epiphenomenalism]]"
 related_articles:
-  - "[[consciousness-independent-baseline-cognition]]"
   - "[[perception-and-conscious-experience]]"
   - "[[smoothness-problem]]"
   - "[[memory-as-dual-domain-capability]]"
   - "[[dream-consciousness]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
+  - "[[binding-void]]"
+  - "[[interface-formalization-void]]"
+  - "[[causal-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-09
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-15T16:49:00+00:00
 ---
 
 If dualism is true — if the mind is genuinely distinct from the brain — then a question follows that dualists rarely answer precisely: which capabilities belong to which domain? The brain extracts visual features, detects motion, guides reaching movements. The mind contributes phenomenal experience, perceptual ownership, flexible reasoning about what is seen. But where exactly does brain-side processing end and mind-side contribution begin? The Unfinishable Map calls this the **capability division problem**, and it may represent not merely an unsolved question but a genuine [[voids|void]] — a boundary that resists precise specification.
@@ -36,11 +38,11 @@ If dualism is true — if the mind is genuinely distinct from the brain — then
 
 Neuroscience has mapped extensive visual processing that proceeds without conscious awareness. Subliminal stimuli activate feature extraction, categorisation, and even emotional evaluation before any phenomenal experience arises. The brain's visual system performs sophisticated computation in the dark.
 
-[[blindsight|Blindsight]] sharpens the picture. Patients with damage to primary visual cortex discriminate stimuli they report not seeing — correctly guessing orientation, colour, and motion direction at rates far above chance. They can reach accurately toward objects they deny perceiving. Yet their performance is systematically limited: they fail detection tasks, cannot spontaneously report visual content, and — most strikingly — "don't take ownership of their capacity to see" (Overgaard et al., 2022). Blindsight reveals what vision looks like when the brain operates alone.
+[[blindsight|Blindsight]] sharpens the picture. Patients with damage to primary visual cortex discriminate stimuli they report not seeing — correctly guessing orientation, colour, and motion direction at rates far above chance. They can reach accurately toward objects they deny perceiving. Yet their performance is systematically limited: they fail detection tasks, cannot spontaneously report visual content, and lack ownership of their visual capacity (Derrien et al., 2022). Blindsight reveals what vision looks like when the brain operates alone.
 
 The two-streams hypothesis (Milner & Goodale, 1992) provides neuroanatomical grounding. The dorsal stream ("where/how pathway") guides real-time action — hand orientation, obstacle avoidance — with minimal dependence on conscious awareness. The ventral stream ("what pathway") handles object recognition and conscious perception. Patient DF, with visual-form agnosia, could orient her hand to a mail slot she could not consciously perceive — dorsal processing intact, ventral processing impaired. The dissociation suggests that visual capabilities fall naturally into two classes: those that require consciousness and those that do not.
 
-Fahrenfort et al. (2023) identified a candidate transition point: perceptual organisation. Feature extraction and categorisation occur during perceptual invisibility. Grouping, figure-ground segregation, and binding into coherent objects mark the transition to conscious seeing. Consciousness may enter vision not at the level of individual features but at the level of unified percepts.
+Research on perceptual invisibility identifies a candidate transition point: perceptual organisation. Feature extraction and categorisation occur without awareness. Grouping, figure-ground segregation, and [[binding-void|binding]] into coherent objects mark the transition to conscious seeing (Fahrenfort et al., 2017). Consciousness may enter vision not at the level of individual features but at the level of unified percepts.
 
 ## Why the Division Resists Specification
 
@@ -50,7 +52,7 @@ The empirical evidence sketches a rough boundary. The brain handles computationa
 
 **Consciousness may not add discrete capabilities.** Rather than contributing specific functions — binding, ownership, flexibility — consciousness may transform the character of all visual processing it touches. A conscious percept of a red apple is not feature-detection plus something extra; it is a qualitatively different kind of state. Trying to list what consciousness "adds" may misframe the contribution, like trying to specify what wetness adds to individual water molecules.
 
-**The interface itself may be cognitively inaccessible.** If the mind-brain interaction occurs at the quantum level — as the Map's [[interactionist-dualism|interactionist framework]] proposes — then the division operates below the resolution of both introspection and current neuroscience. We observe the inputs (neural computation) and outputs (conscious experience) but the interface between them resists direct examination from either side.
+**The interface itself may be cognitively inaccessible.** If the mind-brain interaction occurs at the quantum level — as the Map's [[interactionist-dualism|interactionist framework]] proposes — then the division operates below the resolution of both introspection and current neuroscience. We observe the inputs (neural computation) and outputs (conscious experience) but the [[causal-interface|interface]] between them resists direct examination from either side. The [[interface-formalization-void]] compounds the difficulty: even if we could observe the boundary, we may lack the formal tools to describe it.
 
 ## The Epiphenomenalist Trap
 
@@ -86,7 +88,7 @@ This does not make the capability division problem meaningless. It makes it a bo
 
 ## Relation to Site Perspective
 
-The Map's tenets frame the capability division problem as productive rather than devastating. Tenet 1 ([[tenets#^dualism|Dualism]]) establishes that consciousness is irreducible to physical processes — so the boundary between brain-side and mind-side capabilities is real, not merely epistemic. Tenet 3 ([[tenets#^bidirectional-interaction|Bidirectional Interaction]]) insists that consciousness causally contributes — it is not merely along for the ride, so the mind-side of the division is not empty. Tenet 2 ([[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]) locates the interface at quantum indeterminacy, explaining why the boundary resists direct observation.
+The Map's tenets frame the capability division problem as productive rather than devastating. Tenet 1 ([[tenets#^dualism|Dualism]]) establishes that consciousness is irreducible to physical processes — so the boundary between brain-side and mind-side capabilities is real, not merely epistemic. Tenet 3 ([[tenets#^bidirectional-interaction|Bidirectional Interaction]]) insists that consciousness causally contributes — it is not merely along for the ride, so the mind-side of the division is not empty. Tenet 2 ([[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]) locates the interface at quantum indeterminacy, explaining why the boundary resists direct observation. Tenet 5 ([[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]]) warns against the physicalist impulse to dissolve the boundary by reducing everything to neural computation — the simpler explanation is not necessarily correct when one domain of reality (phenomenal experience) remains fundamentally unlike the other.
 
 The Map interprets the capability division problem as evidence that dualism requires a different kind of explanatory framework than physicalism provides. Physicalism explains vision entirely in neural terms and treats consciousness as something to be explained away. Dualism accepts two domains and faces the more tractable question of how they collaborate. The empirical evidence — blindsight, the two-streams dissociation, the perceptual organisation threshold — provides genuine constraints on the answer, even if the full specification remains a void.
 
@@ -105,13 +107,16 @@ The Map speculates that the capability division may ultimately prove asymmetric:
 - [[interactionist-dualism]]
 - [[epiphenomenalism]]
 - [[philosophy-of-perception-under-dualism]]
+- [[binding-void]] — The perceptual binding problem as a void
+- [[causal-interface]] — The mind-brain interface itself
+- [[interface-formalization-void]] — Why formalising the interface may be impossible
 - [[voids]]
 
 ## References
 
-1. Fahrenfort, J. J. et al. (2023). "The functions of consciousness in visual processing." *Neuroscience of Consciousness*, 2023(1), niac018.
-2. Milner, A. D. & Goodale, M. A. (1992). "Separate visual pathways for perception and action." *Trends in Neurosciences*, 15(1), 20-25.
-3. Overgaard, M. et al. (2022). "The nature of blindsight: implications for current theories of consciousness." *Neuroscience of Consciousness*, 2022(1), niab043.
+1. Derrien, D., Garric, C., Sergent, C. & Chokron, S. (2022). "The nature of blindsight: implications for current theories of consciousness." *Neuroscience of Consciousness*, 2022(1), niab043.
+2. Fahrenfort, J. J. et al. (2017). "Perceptual integration without conscious access." *Proceedings of the National Academy of Sciences*, 114(14), 3744-3749.
+3. Milner, A. D. & Goodale, M. A. (1992). "Separate visual pathways for perception and action." *Trends in Neurosciences*, 15(1), 20-25.
 4. Phillips, I. (2021). "Blindsight Is Qualitatively Degraded Conscious Vision." *Psychological Review*, 128(3), 558-584.
 5. Weiskrantz, L. (1986). *Blindsight: A Case Study and Implications*. Oxford University Press.
 6. Southgate, A. & Oquatre-cinq, C. (2026-01-22). Baseline Cognition. *The Unfinishable Map*. https://unfinishablemap.org/concepts/baseline-cognition/

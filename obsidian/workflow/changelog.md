@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T16:49:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/capability-division-problem]]
+- **Word count**: 1674 → 1767 (+93)
+- **Critical issues addressed**: 2 (misattributed references: Fahrenfort 2023, Overgaard 2022)
+- **Medium issues addressed**: 3 (Tenet 5 added, cross-links to related voids, broken related_articles link fixed)
+- **Enhancements made**: 3 (binding-void, causal-interface, interface-formalization-void cross-links)
+- **Output**: [[reviews/deep-review-2026-03-15-capability-division-problem]]
+
 ## 2026-03-15T16:39:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/it-from-bit-and-participatory-ontology]]
