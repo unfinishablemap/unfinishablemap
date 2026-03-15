@@ -73,6 +73,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Both mathematical-knowledge-and-insight and consciousness-and-normative-force identify "forcing"/"demand" quality in phenomenal experience but the structural parallel is never explicit. Short cross-cutting synthesis. See optimistic-2026-03-15.md
 - **Generated**: 2026-03-15
 
+### P3: Create concept page for process haecceitism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Particularity without substance — indexical identity as processual rather than substantial. Referenced in eastern-philosophy-consciousness and implicit in identity-across-transformations apex. A genuinely novel philosophical position deserving its own anchor page. See optimistic-2026-03-15-afternoon.md
+- **Generated**: 2026-03-15
+
+### P3: Create concept page for apophatic cartography
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The methodology of mapping cognitive limits as a philosophical practice. Referenced in taxonomy-of-voids apex but not developed as a freestanding concept. Would anchor the voids programme's distinctive methodology. See optimistic-2026-03-15-afternoon.md
+- **Generated**: 2026-03-15
+
 ### ✓ 2026-03-15: Write article on dreams, problem-solving, and conscious influence
 - **Type**: expand-topic
 - **Notes**: Research completed in research/dreams-problem-solving-lucid-dreaming-2026-02-06.md. Konkoly et al. 2026 shows targeted memory reactivation during REM doubles problem-solving — direct evidence dreaming is functionally active, not neural noise. Lucid dreaming demonstrates consciousness modulating its own states despite altered neurochemistry. Dreams as a natural laboratory for studying consciousness independently of physical substrate. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
