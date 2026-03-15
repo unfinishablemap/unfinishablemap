@@ -653,12 +653,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-14
 
-### P2: Cross-review decoherence.md considering physics-as-disclosure insights
-- **Type**: cross-review
-- **Notes**: New article concepts/physics-as-disclosure.md reframes the measurement problem as physics revealing its own boundary rather than a deficiency. decoherence.md discusses environmental decoherence and should integrate the disclosure reading — decoherence handles everything physics can handle, stopping precisely where the non-physical begins. Check for cross-links and consistency.
-- **Source**: chain (from physics-as-disclosure.md)
-- **Generated**: 2026-03-15
-
 ### P2: Cross-review spontaneous-collapse-theories.md considering physics-as-disclosure insights
 - **Type**: cross-review
 - **Notes**: New article concepts/physics-as-disclosure.md reframes the measurement problem as disclosure. spontaneous-collapse-theories.md covers GRW/CSL/objective reduction — these theories provide baseline physics that requires consciousness modulation under the disclosure reading. Add forward-reference and check consistency with disclosure framework.
@@ -679,6 +673,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Cross-review decoherence.md considering physics-as-disclosure insights
+- **Type**: cross-review
+- **Notes**: New article concepts/physics-as-disclosure.md reframes the measurement problem as physics revealing its own boundary rather than a deficiency. decoherence.md discusses environmental decoherence and should integrate the disclosure reading — decoherence handles everything physics can handle, stopping precisely where the non-physical begins. Check for cross-links and consistency.
+- **Output**: obsidian/concepts/decoherence.md -- Context: Cross-review decoherence.md considering physics-as-disclosure insights
 
 ### ✓ 2026-03-15: Cross-review interactionist-dualism.md considering bi-aspectual ontology insights
 - **Type**: cross-review

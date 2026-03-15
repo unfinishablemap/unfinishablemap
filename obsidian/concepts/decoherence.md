@@ -4,7 +4,7 @@ description: "The decoherence objection bundles three independent claims. Five r
 created: 2026-01-14
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-03-14T20:43:00+00:00
+ai_modified: 2026-03-15T01:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,8 @@ concepts:
   - "[[quantum-neural-mechanisms]]"
   - "[[quantum-neural-mechanisms-and-coherence]]"
   - "[[quantum-biology]]"
+  - "[[physics-as-disclosure]]"
+  - "[[bi-aspectual-ontology]]"
   - "[[mysterianism]]"
   - "[[topics/free-will]]"
   - "[[agent-causation]]"
@@ -44,7 +46,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-02T15:52:00+00:00
+last_deep_review: 2026-03-15T01:17:00+00:00
 coalesced_from:
   - "/concepts/quantum-decoherence-objection/"
   - "/concepts/quantum-decoherence-objection-responses/"
@@ -91,11 +93,13 @@ Decoherence explains why we don't observe superpositions—interference effects 
 
 As the Stanford Encyclopedia of Philosophy states: "Decoherence as such does not provide a solution to the measurement problem, at least not unless it is combined with an appropriate foundational approach." The [[measurement-problem|measurement problem article]] explores why The Unfinishable Map rejects Many-Worlds while remaining open to consciousness-based approaches.
 
-The distinction between **basis selection** (which basis becomes preferred) and **outcome selection** (which particular outcome actualizes) is crucial. Decoherence explains why we observe position eigenstates rather than momentum eigenstates, but not why we observe *this particular position* rather than that one. See [[quantum-measurement-consciousness-interface]] for extended analysis, including why both the measurement problem and hard problem concern where first-person facts enter third-person descriptions.
+The distinction between **basis selection** (which basis becomes preferred) and **outcome selection** (which particular outcome actualizes) is crucial. Decoherence explains why we observe position eigenstates rather than momentum eigenstates, but not why we observe *this particular position* rather than that one. See [[quantum-measurement-consciousness-interface]] for extended analysis.
+
+The [[physics-as-disclosure]] framework strengthens this point: decoherence's clean partition—handling all structural work while leaving actuality untouched—is not a temporary gap but evidence that physics correctly reaches the boundary where structural description ends and conscious actuality begins. Decoherence does everything a [[bi-aspectual-ontology|bi-aspectual]] reality predicts physics *can* do, then stops exactly where the actuality question—which outcome becomes real—requires something beyond structure.
 
 This matters for the Map's perspective. If decoherence fully explained measurements, consciousness would have no role. But decoherence merely establishes preferred bases—it doesn't collapse them. Something must select which outcome occurs. The [[tenets#^no-many-worlds|No Many Worlds]] tenet holds that outcomes are genuinely selected, not merely experienced in branching universes. Consciousness remains a candidate for what does the selecting.
 
-A physicalist might object that definite outcomes require no "selector"—they are simply stochastic events, like radioactive decay. But this response merely relabels the problem. Saying outcomes are "random" describes the statistics; it does not explain why *this* particular outcome occurs rather than another. The measurement problem persists as a question about what determines individual actualisation, not about whether the probabilities are correct.
+A physicalist might object that definite outcomes are simply stochastic events requiring no "selector." But this relabels the problem: saying outcomes are "random" describes the statistics without explaining why *this* particular outcome occurs. The measurement problem concerns what determines individual actualisation, not whether the probabilities are correct.
 
 This response alone is sufficient to keep quantum consciousness viable regardless of decoherence timescales, provided one takes the measurement problem seriously—as any collapse or objective-reduction interpretation does.
 
@@ -204,7 +208,7 @@ More directly: the decoherence debate is independent of the illusionism debate. 
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's [[process-philosophy]] offers a complementary framework. For Whitehead, "actual occasions"—the fundamental units of reality—have both physical and experiential aspects. Experience is not something that emerges from non-experiential matter and could thus be eliminated by decoherence. Rather, experience pervades reality at every level.
+Alfred North Whitehead's [[process-philosophy]] offers a complementary framework. For Whitehead, "actual occasions"—the fundamental units of reality—have both physical and experiential aspects. Experience pervades reality at every level rather than emerging from non-experiential matter.
 
 On this view, the question shifts from "how can quantum effects survive long enough for consciousness to interact?" to "how do micro-experiences (each actual occasion's subjective aspect) combine into unified consciousness?" The [[combination-problem]] replaces the decoherence problem as the central challenge.
 
@@ -236,7 +240,7 @@ The Map's position on decoherence would face serious difficulty if:
 
 The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness influences quantum outcomes without injecting energy. The decoherence objection has historically been treated as the principal scientific challenge to this tenet. The five responses show the objection is serious but not the conversation-stopper it is often portrayed as.
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet depends on a physical mechanism for consciousness to influence the world. The five responses preserve this space: the measurement-problem opening works regardless of decoherence timescales, while discrete-event mechanisms sidestep decoherence timing entirely. The neural decision windows (280–300ms) are precisely where [[topics/free-will]] and [[agent-causation]] would need to operate. The [[argument-from-reason]] strengthens the case: if rational thought requires consciousness to influence neural activity, some mechanism for mind-brain interaction must exist. Quantum indeterminacy provides a candidate. The [[prebiotic-collapse|prebiotic collapse problem]] sharpens this: objective reduction must handle outcome selection in the early universe, with consciousness modulating collapse only where neural architecture provides the interface.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet depends on a physical mechanism for consciousness to influence the world. The five responses preserve this space: the measurement-problem opening works regardless of decoherence timescales, while discrete-event mechanisms sidestep decoherence timing entirely. The neural decision windows (280–300ms) are precisely where [[topics/free-will]] and [[agent-causation]] would need to operate. The [[argument-from-reason]] strengthens the case: if rational thought requires consciousness to influence neural activity, some mechanism for mind-brain interaction must exist. Quantum indeterminacy provides a candidate.
 
 The [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]] tenet is directly relevant. The decoherence objection was taken as decisive partly because dismissing quantum consciousness seemed simpler than investigating whether biology might manage decoherence. The discovery of [[quantum-biology|quantum biology]]—magnetoreception, enzyme tunnelling—shows that nature's strategies are more resourceful than our assumptions predicted. The categorical claim that biological systems are "too warm" for quantum effects was treated as settled for decades before quantum biology overturned it empirically.
 
@@ -249,6 +253,7 @@ The [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]] tenet is direct
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-physics interaction
 - [[quantum-biology]] — Comprehensive coverage of biological quantum effects
 - [[comparing-quantum-consciousness-mechanisms]] — Which mechanisms face which constraints
+- [[physics-as-disclosure]] — Why decoherence's clean partition supports the disclosure reading of quantum mechanics
 - [[decoherence-and-macroscopic-superposition]] — The receding quantum-classical boundary
 - [[attention-as-interface]] — How attention relates to the quantum Zeno mechanism
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism for mental effort
