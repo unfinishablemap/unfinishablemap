@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenology-of-perceptual-learning.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article (created 2026-03-11) on the phenomenology of perceptual learning. Add cross-references from philosophy-of-perception-under-dualism.md, attention-as-selection-interface.md, phenomenal-attention.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-15
-
 ### P3: Deep review consciousness-and-the-ontology-of-temporal-becoming.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created by coalesce, never reviewed. Topics article combining temporal ontology and temporal becoming — core to the Map's temporal consciousness cluster. Verify coherence, cross-references, and tenet alignment.
@@ -745,6 +739,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Integrate phenomenology-of-perceptual-learning.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-03-11) on the phenomenology of perceptual learning. Add cross-references from philosophy-of-perception-under-dualism.md, attention-as-selection-interface.md, phenomenal-attention.md, and related articles.
+- **Output**: phenomenology-of-perceptual-learning.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-15: Integrate illusionism-as-epiphenomenalism-in-disguise.md into site navigation
 - **Type**: integrate-orphan

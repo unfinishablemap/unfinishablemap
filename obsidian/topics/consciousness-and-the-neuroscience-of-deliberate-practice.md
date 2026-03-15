@@ -4,7 +4,7 @@ description: "Neuroscience reveals that conscious engagement during practice act
 created: 2026-02-19
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-15T05:15:00+00:00
 last_deep_review: 2026-02-22T02:54:00+00:00
 draft: false
 topics:
@@ -29,6 +29,7 @@ related_articles:
   - "[[mental-causation]]"
   - "[[downward-causation]]"
   - "[[evolutionary-case-for-mental-causation]]"
+  - "[[consciousness-as-perceptual-architect]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -111,6 +112,7 @@ What the data do constrain is the epiphenomenalist position. If the phenomenal q
 - [[contemplative-practice-as-philosophical-evidence]] — Meditation as a parallel case of deliberate practice
 - [[phenomenology-of-cognitive-capacity]] — What it feels like as skills withdraw from conscious control and capacity frees up
 - [[evolutionary-case-for-mental-causation]] — The broader argument that consciousness must do something
+- [[consciousness-as-perceptual-architect]] — How perception itself transforms through sustained conscious engagement
 - [[surprise-prediction-error-and-consciousness]] — How error signals and conscious correction relate to prediction
 
 ## References

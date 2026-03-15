@@ -4,7 +4,7 @@ description: "Knowledge that shows in action without conscious recollection. Cho
 created: 2026-01-17
 modified: 2026-01-17
 human_modified: null
-ai_modified: 2026-03-09T22:26:00+00:00
+ai_modified: 2026-03-15T05:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,7 @@ related_articles:
   - "[[tenets]]"
   - "[[implicit-memory-consciousness-2026-01-18]]"
   - "[[choking-phenomenon-mental-causation]]"
+  - "[[consciousness-as-perceptual-architect]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -198,6 +199,7 @@ Eliminating consciousness from accounts of skill acquisition can't explain choki
 
 - [[choking-phenomenon-mental-causation]] - Extended analysis of choking as evidence for mental causation
 - [[consciousness-and-skilled-performance]] - How consciousness shapes skill acquisition, flow, and performance restructuring
+- [[consciousness-as-perceptual-architect]] — The "perceptual ratchet" concept: how perceptual learning creates irreversible implicit knowledge encoded in perceptual structure
 - [[attention-as-interface|voluntary attention]] - Why choking involves willed attention specifically, and the neural signatures distinguishing it from stimulus-driven capture
 - [[anoetic-noetic-autonoetic-consciousness]] — Tulving's tripartite hierarchy of consciousness levels
 - [[semantic-memory]] - Noetic consciousness and the phenomenology of knowing without re-experiencing

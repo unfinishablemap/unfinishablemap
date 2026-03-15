@@ -4,7 +4,7 @@ description: "The body shapes how consciousness engages matter without producing
 created: 2026-02-09
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-15T04:13:00+00:00
+ai_modified: 2026-03-15T05:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,7 @@ related_articles:
   - "[[attention-motor-planning-quantum-interface-2026-01-23]]"
   - "[[choking-phenomenon-mental-causation]]"
   - "[[consciousness-and-skilled-performance]]"
+  - "[[consciousness-as-perceptual-architect]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

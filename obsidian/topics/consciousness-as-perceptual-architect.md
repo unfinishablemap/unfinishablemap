@@ -43,7 +43,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
-last_deep_review: 2026-03-12T02:10:00+00:00
+last_deep_review: 2026-03-15T05:15:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-perceptual-constancy/"
   - "/topics/phenomenology-of-perceptual-learning/"
