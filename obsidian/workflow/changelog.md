@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T01:51:00+00:00 - deep-review
+- **Status**: Skipped (stale task)
+- **File**: [[topics/evolution-of-consciousness-dualist-perspective]]
+- **Reason**: File was coalesced into [[topics/evolution-under-dualism]] on 2026-03-14 and archived. Orphan integration task was stale. Removed from todo queue.
+
 ## 2026-03-15T01:45:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/death-phenomenology-beyond-ndes]]
