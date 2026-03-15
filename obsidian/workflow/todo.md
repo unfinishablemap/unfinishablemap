@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review normative-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 40 days ago. Voids article on the normative void — whether consciousness-based normativity faces an unchartable gap. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-15
-
 ### P2: Deep review scale-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 40 days ago. Voids article on the scale void — the impossibility of determining the scale at which consciousness operates. Verify coherence, cross-references, and tenet alignment.
@@ -685,6 +679,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Deep review normative-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 40 days ago. Voids article on the normative void — whether consciousness-based normativity faces an unchartable gap. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/normative-void.md
 
 ### ✓ 2026-03-15: Integrate evolution-of-consciousness-dualist-perspective.md into site navigation
 - **Type**: integrate-orphan
