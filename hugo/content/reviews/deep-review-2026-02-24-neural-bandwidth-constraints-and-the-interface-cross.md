@@ -29,7 +29,7 @@ None. This is the third review. All critical issues were resolved in the first r
 
 ### Medium Issues Found
 
-- **Stale concept link to archived article**: `[psychophysical-coupling](/concepts/psychophysical-coupling/)` in concepts frontmatter pointed to an archived article superseded by `psychophysical-laws`. **Resolution**: Updated to `[psychophysical-laws](/concepts/psychophysical-laws/)`.
+- **Stale concept link to archived article**: `[psychophysical-coupling](/concepts/psychophysical-laws/)` in concepts frontmatter pointed to an archived article superseded by `psychophysical-laws`. **Resolution**: Updated to `[psychophysical-laws](/concepts/psychophysical-laws/)`.
 
 - **Connecting paragraph missed format dimension of bandwidth problem**: The companion article (bandwidth-problem-mental-causation) distinguishes three dimensions of the challenge: capacity, grain, and format. The topic article's connecting paragraph mentioned only "specificity," omitting the format translation problem (how intentional content maps to physical mechanisms). **Resolution**: Rewrote the connecting paragraph to explicitly name all three dimensions, note which the hierarchical selection architecture addresses (capacity, grain) and which remains open (format), with a cross-link to psychophysical-laws for the coupling problem.
 

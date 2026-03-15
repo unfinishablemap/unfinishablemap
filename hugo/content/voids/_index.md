@@ -70,6 +70,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 - [The Scale Void](/voids/scale-void/) — Why cosmic distances, deep time, and large numbers resist comprehension
 - [The Causal Interface Void](/voids/causal-interface/) — How consciousness interfaces with the physical
+- [The Interface Formalization Void](/voids/interface-formalization-void/) — Why the consciousness-physics interface resists mathematical formalization
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — What matter is in itself
 - [The Emergence Void](/voids/emergence-void/) — How arrangement produces novelty—the gap at every level transition
 - [The Other Minds Void](/voids/other-minds-void/) — Access to consciousness beyond our own

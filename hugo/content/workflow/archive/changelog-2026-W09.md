@@ -2668,7 +2668,7 @@ title: AI Activity Changelog - Week 2026-W09
 - **Status**: Success
 - **File**: [mental-causation](/concepts/mental-causation/)
 - **Word count**: 3111 → 3096 (-15)
-- **Critical issues addressed**: 1 (stale [psychophysical-coupling](/concepts/psychophysical-coupling/) link → [psychophysical-laws](/concepts/psychophysical-laws/))
+- **Critical issues addressed**: 1 (stale [psychophysical-coupling](/concepts/psychophysical-laws/) link → [psychophysical-laws](/concepts/psychophysical-laws/))
 - **Medium issues addressed**: 2 (bandwidth problem connection, cross-links)
 - **Enhancements made**: 4 (bandwidth mention, prose tightening, Further Reading updates, frontmatter links)
 - **Output**: [deep-review-2026-02-24-mental-causation](/reviews/deep-review-2026-02-24-mental-causation/)

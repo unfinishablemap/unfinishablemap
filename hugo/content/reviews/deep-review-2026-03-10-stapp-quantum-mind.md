@@ -31,7 +31,7 @@ topics: []
 
 1. **Link to archived content (attention-interface-mechanisms)**: Line 42 referenced `[attention-interface-mechanisms](/topics/attention-as-selection-interface/)` which was archived 2026-02-12. **Resolution**: Replaced with `[quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)` which covers the same neural sites and timing constraints.
 
-2. **Link to archived content (psychophysical-coupling-mechanisms)**: Line 61 referenced `[psychophysical-coupling-mechanisms](/concepts/psychophysical-laws/)` which was archived. **Resolution**: Replaced with `[psychophysical-coupling](/concepts/psychophysical-coupling/)` which is the live article covering coupling mechanisms.
+2. **Link to archived content (psychophysical-coupling-mechanisms)**: Line 61 referenced `[psychophysical-coupling-mechanisms](/concepts/psychophysical-laws/)` which was archived. **Resolution**: Replaced with `[psychophysical-coupling](/concepts/psychophysical-laws/)` which is the live article covering coupling mechanisms.
 
 3. **Duplicate Further Reading entries**: Two entries for `attention-as-interface` with different display text. **Resolution**: Consolidated into single entry.
 

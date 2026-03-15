@@ -264,7 +264,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 - [phenomenal-attention](/concepts/phenomenal-attention/) — The felt experience of attending, distinct from computational attention
 - [structure-of-attention](/topics/structure-of-attention/) — Willed, instructed, and exogenous attention
 - [voluntary attention](/concepts/attention-as-interface/) — Neural signatures of willed attention
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — Constraints on what consciousness can influence
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — Constraints on what consciousness can influence
 - [free-will](/topics/free-will/) — How timing constraints relate to libertarian free will
 - [agent-causation](/concepts/agent-causation/) — The selection model as agent causation
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis of readiness potential experiments

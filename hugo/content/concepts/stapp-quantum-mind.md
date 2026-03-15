@@ -61,7 +61,7 @@ The key insight: consciousness doesn't *generate* neural patterns—it *selects*
 
 Crucially, the mechanism satisfies both [conservation laws](/concepts/conservation-laws-and-mental-causation/) and [observational-closure](/concepts/observational-closure/). Consciousness shapes which possibility actualises without adding energy, and the aggregate statistics remain indistinguishable from Born-rule predictions. This addresses the classical objection to dualism: at quantum indeterminacies, physics leaves outcomes undetermined. Consciousness biases the outcome without competing with physical causes. The physical causes are *necessary but not sufficient*; consciousness provides the sufficiency.
 
-Among [proposed coupling mechanisms](/concepts/psychophysical-coupling/), Stapp's model is the most developed, satisfying all three criteria for scientific adequacy: *precision*, *mechanism*, and *falsifiability*. See the linked article for comparative analysis with Eccles and other proposals.
+Among [proposed coupling mechanisms](/concepts/psychophysical-laws/), Stapp's model is the most developed, satisfying all three criteria for scientific adequacy: *precision*, *mechanism*, and *falsifiability*. See the linked article for comparative analysis with Eccles and other proposals.
 
 ## William James and the Phenomenology of Effort
 
@@ -168,7 +168,7 @@ The model generates falsifiable predictions:
 
 ## Further Reading
 
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — Comparative analysis; Stapp's model as most developed
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — Comparative analysis; Stapp's model as most developed
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control: taxonomy of coupling mechanisms
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer; neural signatures of willed attention
 - [decoherence](/concepts/decoherence/) — The decoherence objection and responses

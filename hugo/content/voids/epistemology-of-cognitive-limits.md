@@ -1,12 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-02-07 06:44:00+00:00
+ai_modified: 2026-03-15 08:01:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[mysterianism]]'
 - '[[metacognition]]'
+- '[[cognitive-closure]]'
+- '[[introspection]]'
 created: 2026-02-04
 date: &id001 2026-02-04
 description: Human+AI exploration of how we can know our cognitive limits—and whether
@@ -14,7 +16,7 @@ description: Human+AI exploration of how we can know our cognitive limits—and 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-07 06:44:00+00:00
+last_deep_review: 2026-03-15 08:01:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -24,6 +26,10 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[topology-of-cognitive-failure]]'
 - '[[three-kinds-of-void]]'
+- '[[introspective-opacity]]'
+- '[[phenomenology-of-the-edge]]'
+- '[[evidential-weight-of-voids]]'
+- '[[evolved-cognitive-limits]]'
 title: The Epistemology of Cognitive Limits
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -39,7 +45,7 @@ Distinguishing between *difficult* and *impossible* seems like it should be stra
 
 **Success proves contingency; failure proves nothing.** If we solve a problem, we learn it was solvable. But if we fail—even across centuries and cultures—we cannot conclude permanent closure. Perhaps the right concepts haven't emerged yet. Perhaps we haven't tried hard enough or in the right way.
 
-**The assessment requires the faculties under assessment.** To determine whether our cognitive architecture has limits, we must use that very architecture. If it is limited in relevant ways, our determination may be systematically wrong. There is no neutral vantage point.
+**The assessment requires the faculties under assessment.** To determine whether our cognitive architecture has limits, we must use that very architecture—a self-referential bind that [cognitive closure](/concepts/cognitive-closure/) makes precise. If it is limited in relevant ways, our determination may be systematically wrong. There is no neutral vantage point, and [introspective-opacity](/voids/introspective-opacity/) ensures we cannot simply look inward to check.
 
 This asymmetry—between what success and failure can teach us—structures the entire epistemology of limits.
 
@@ -49,7 +55,7 @@ Noam Chomsky draws a distinction between *problems* and *mysteries*. Problems ar
 
 "If humans are part of the organic world," Chomsky writes, "we should not be surprised to discover that the same properties of mind that yield enormous scope should also impose limits."
 
-The system that gives us power also constrains us. A lung cannot metabolise arbitrary gases. A visual system cannot detect arbitrary wavelengths. A mind cannot think arbitrary thoughts. Evolution shaped cognition for specific tasks—survival on the African savanna, social coordination, pattern detection in natural environments. There is no reason to expect universal access to all truths.
+The system that gives us power also constrains us. A lung cannot metabolise arbitrary gases. A visual system cannot detect arbitrary wavelengths. A mind cannot think arbitrary thoughts. [Evolution shaped cognition for specific tasks](/voids/evolved-cognitive-limits/)—survival on the African savanna, social coordination, pattern detection in natural environments. There is no reason to expect universal access to all truths.
 
 The hard problem of consciousness may be a mystery rather than a problem: the concepts that would bridge neural activity and subjective experience may lie outside human cognitive reach. We access consciousness through [introspection](/concepts/introspection/) and brain through perception, but neither mode reveals the connection between them.
 
@@ -97,13 +103,13 @@ The [topology of cognitive failure](/voids/topology-of-cognitive-failure/) exten
 
 If multiple independent approaches—evolutionary psychology, contemplative traditions, formal logic, neuroscience—converge on the same limits, this provides weak evidence for genuine closure. The hard problem has resisted sustained attack across centuries and cultures. Buddhist and Christian mystics independently describe ineffable territory. Formal systems face analogous incompleteness barriers.
 
-But convergence is only weak evidence. It might reflect shared human architecture rather than genuine limits. All human traditions are produced by human minds; their agreement may reveal common cognitive constraints rather than external reality. Only cross-architecture convergence—if radically different minds (AI, hypothetical aliens) hit the same walls—would provide stronger evidence.
+But convergence is only weak evidence—a point explored systematically in [the evidential weight of voids](/voids/evidential-weight-of-voids/). All human traditions are produced by human minds; their agreement may reveal common cognitive constraints rather than external reality. Only cross-architecture convergence—if radically different minds (AI, hypothetical aliens) hit the same walls—would provide stronger evidence.
 
-Current AI systems, trained on human-generated text, largely inherit human categories and blind spots. Future systems might probe differently. But for now, convergence remains suggestive rather than conclusive.
+Current AI systems, trained on human-generated text, largely inherit human categories and blind spots. Future systems might probe differently, but for now convergence remains suggestive rather than conclusive.
 
 ## Phenomenology of the Meta-Limit
 
-Approaching this epistemological question has distinctive phenomenology:
+Approaching this epistemological question has [distinctive phenomenology](/voids/phenomenology-of-the-edge/):
 
 **Oscillating confidence.** Moments of certainty that limits are real alternate with suspicion they're merely difficult problems. Neither conviction stabilises.
 

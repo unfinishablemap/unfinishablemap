@@ -153,7 +153,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Why mechanism choice matters for libertarian free will
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — What collapsed before conscious observers
 - [coupling-modes](/concepts/coupling-modes/) — How consciousness might couple to quantum systems
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — What a coupling law must specify
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — What a coupling law must specify
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves outcomes undetermined
 
 ## References

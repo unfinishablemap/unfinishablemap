@@ -69,7 +69,7 @@ GRW theory is compatible with at least two ontologies. The **flash ontology** (p
 
 These ontologies carry different implications for consciousness. On the flash ontology, a conscious brain is a pattern of localization events—sparks of definiteness in a sea of indeterminacy. Consciousness modulating collapse would mean consciousness influencing the pattern of flashes, directly shaping what physically exists. On the matter density ontology, consciousness modulating collapse sharpens the mass distribution of neural tissue, pulling diffuse quantum probability toward definite configurations.
 
-Neither ontology is obviously more hospitable to the Map's dualism. But the choice matters for how we understand the [interface](/concepts/psychophysical-coupling/) between consciousness and collapse. If reality consists of flashes, consciousness selects *which events occur*. If reality is a density field, consciousness selects *where density concentrates*. Both are forms of [bidirectional interaction](/tenets/#bidirectional-interaction), but they describe different kinds of causal influence.
+Neither ontology is obviously more hospitable to the Map's dualism. But the choice matters for how we understand the [interface](/concepts/psychophysical-laws/) between consciousness and collapse. If reality consists of flashes, consciousness selects *which events occur*. If reality is a density field, consciousness selects *where density concentrates*. Both are forms of [bidirectional interaction](/tenets/#bidirectional-interaction), but they describe different kinds of causal influence.
 
 ## Why Penrose Objective Reduction Is Different
 
@@ -118,7 +118,7 @@ The model also faces honest difficulties. IIT's measure of integrated informatio
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — what collapsed before consciousness existed
 - [collapse-and-time](/concepts/collapse-and-time/) — collapse, irreversibility, and the arrow of time
 - [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/) — how to test consciousness-collapse hypotheses
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — how consciousness interfaces with collapse parameters
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — how consciousness interfaces with collapse parameters
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — alternative: consciousness via quantum Zeno effect
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — when multiple minds observe the same system
 - [free-will](/topics/free-will/) — how stochastic collapse enables libertarian free will

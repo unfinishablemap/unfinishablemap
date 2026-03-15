@@ -56,24 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
-### P3: Deep review epistemology-of-cognitive-limits.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-08 — 35 days ago. Voids article on the epistemology of cognitive limits — how we can know about limits we cannot transcend. Foundational methodology for the voids programme. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-15
-
-### P3: Deep review alien-minds-void-explorers.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-09 — 34 days ago. Voids article on alien minds as void explorers — whether non-human intelligence could navigate cognitive territories inaccessible to us. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-15
-
-### P3: Deep review emergence-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the emergence void — whether consciousness can emerge from non-conscious matter. Directly relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-15
-
 ### P3: Deep review intersubjective-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the intersubjective void — the impossibility of fully sharing or verifying another's experience. Verify coherence, cross-references, and tenet alignment.
@@ -90,24 +72,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the recursion void — the paradoxes of self-referential consciousness. Verify coherence, cross-references, and tenet alignment.
 - **Source**: staleness
-- **Generated**: 2026-03-15
-
-### P2: Write article on Born rule derivation failures and consciousness-collapse
-- **Type**: expand-topic
-- **Notes**: Research completed in research/born-rule-derivation-attempts-2026-03-14.md. Major attempts to derive the Born rule from deeper principles (Gleason, Zurek, Deutsch-Wallace, Vaidman) all fall short, suggesting probability in quantum mechanics may have a consciousness-facing element that resists purely physical derivation. The Born rule's resistance to derivation is evidence that measurement outcomes involve something beyond unitary physics. Target section: topics/. Supports Tenet 2 (Minimal Quantum Interaction).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-15
-
-### P2: Write article on Wheeler's "It from Bit" and participatory ontology
-- **Type**: expand-topic
-- **Notes**: Research completed in research/wheeler-it-from-bit-2026-03-14.md. Wheeler's thesis that information is fundamental and observation constitutes reality directly supports the Map's participatory framework. Covers the delayed-choice experiment, participatory universe, and how Wheeler's programme connects to consciousness-collapse interpretations. Target section: topics/. Supports Tenets 1 (Dualism) and 2 (Minimal Quantum Interaction).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-15
-
-### P2: Write article on Penrose gravity-induced collapse and empirical prospects
-- **Type**: expand-topic
-- **Notes**: Research completed in research/penrose-gravity-collapse-empirical-2026-03-14.md. Penrose's proposal that gravitational self-energy triggers objective reduction at a calculable threshold now has empirical testing prospects (optomechanical superpositions, molecular interferometry, space-based experiments). Key for the Map because if Penrose's threshold is confirmed, it constrains where consciousness-collapse can operate. Target section: topics/. Supports Tenet 2 (Minimal Quantum Interaction).
-- **Source**: unconsumed_research
 - **Generated**: 2026-03-15
 
 ### P3: Deep review consciousness-and-the-ontology-of-temporal-becoming.md
@@ -145,12 +109,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 40 days ago. Voids article on the dream consciousness void — the unchartable gap between waking and dreaming consciousness. Verify coherence, cross-references, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-15
-
-### P2: Write void article — The Interface Formalization Void
-- **Type**: expand-topic
-- **Notes**: If the consciousness-physics interface is the ontological joint between two fundamentally different domains, can it be formalized mathematically? Or is formalization itself a structural-domain tool that cannot capture the actualizing domain? (1) Mathematics describes structure — may be unable to describe actuality. (2) Any mathematical description of the interface would be more structure, not actuality. (3) Born rule as the closest we can get — structural description of statistical properties without capturing what happens at the interface. (4) Connection to nomic void. (5) Connection to mysterianism/cognitive closure. A void generated directly by the reverse inference. Target section: voids/.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
 
 ### P2: Write article on dreams, problem-solving, and conscious influence
 - **Type**: expand-topic
@@ -814,6 +772,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Write void article — The Interface Formalization Void
+- **Type**: expand-topic
+- **Notes**: If the consciousness-physics interface is the ontological joint between two fundamentally different domains, can it be formalized mathematically? Or is formalization itself a structural-domain tool that cannot capture the actualizing domain? (1) Mathematics describes structure — may be unable to describe actuality. (2) Any mathematical description of the interface would be more structure, not actuality. (3) Born rule as the closest we can get — structural description of statistical properties without capturing what happens at the interface. (4) Connection to nomic void. (5) Connection to mysterianism/cognitive closure. A void generated directly by the reverse inference. Target section: voids/.
+- **Output**: Write void article — The Interface Formalization Void
+
+### ✓ 2026-03-15: Write article on Penrose gravity-induced collapse and empirical prospects
+- **Type**: expand-topic
+- **Notes**: Research completed in research/penrose-gravity-collapse-empirical-2026-03-14.md. Penrose's proposal that gravitational self-energy triggers objective reduction at a calculable threshold now has empirical testing prospects (optomechanical superpositions, molecular interferometry, space-based experiments). Key for the Map because if Penrose's threshold is confirmed, it constrains where consciousness-collapse can operate. Target section: topics/. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: Penrose gravity-induced collapse and empirical prospects
+
+### ✓ 2026-03-15: Write article on Wheeler's "It from Bit" and participatory ontology
+- **Type**: expand-topic
+- **Notes**: Research completed in research/wheeler-it-from-bit-2026-03-14.md. Wheeler's thesis that information is fundamental and observation constitutes reality directly supports the Map's participatory framework. Covers the delayed-choice experiment, participatory universe, and how Wheeler's programme connects to consciousness-collapse interpretations. Target section: topics/. Supports Tenets 1 (Dualism) and 2 (Minimal Quantum Interaction).
+- **Output**: Wheeler's "It from Bit" and participatory ontology
+
+### ✓ 2026-03-15: Write article on Born rule derivation failures and consciousness-collapse
+- **Type**: expand-topic
+- **Notes**: Research completed in research/born-rule-derivation-attempts-2026-03-14.md. Major attempts to derive the Born rule from deeper principles (Gleason, Zurek, Deutsch-Wallace, Vaidman) all fall short, suggesting probability in quantum mechanics may have a consciousness-facing element that resists purely physical derivation. The Born rule's resistance to derivation is evidence that measurement outcomes involve something beyond unitary physics. Target section: topics/. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: Born rule derivation failures and consciousness-collapse
+
+### ✓ 2026-03-15: Update references to coalesced psychophysical-coupling
+- **Type**: cross-review
+- **Notes**: Coalesce merged psychophysical-coupling.md into psychophysical-laws.md. 27 active content files reference `[psychophysical-coupling](/concepts/psychophysical-laws/)` and should be updated to `[psychophysical-laws](/concepts/psychophysical-laws/)` or `[psychophysical coupling](/concepts/psychophysical-laws/)`. Key files: attention-as-interface.md, bidirectional-interaction.md, interactionist-dualism.md, mental-causation.md, selection-laws.md, hard-problem-of-consciousness.md, princess-elizabeths-challenge.md, brain-specialness-boundary.md, and others.
+- **Output**: None -- Context: Update references to coalesced psychophysical-coupling
+
+### ✓ 2026-03-15: Deep review emergence-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the emergence void — whether consciousness can emerge from non-conscious matter. Directly relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/emergence-void.md
+
+### ✓ 2026-03-15: Deep review alien-minds-void-explorers.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-09 — 34 days ago. Voids article on alien minds as void explorers — whether non-human intelligence could navigate cognitive territories inaccessible to us. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/alien-minds-void-explorers.md
+
+### ✓ 2026-03-15: Deep review epistemology-of-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-08 — 35 days ago. Voids article on the epistemology of cognitive limits — how we can know about limits we cannot transcend. Foundational methodology for the voids programme. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/epistemology-of-cognitive-limits.md
 
 ### ✓ 2026-03-15: Deep review dreamless-sleep-void.md
 - **Type**: deep-review
@@ -2722,7 +2720,7 @@ Pessimistic review (2026-02-22-night) found 2 high-severity issues: (1) C. elega
 
 ### ✓ 2026-02-22: Update references to coalesced psychophysical-coupling article
 - **Type**: cross-review
-- **Notes**: Coalesce (2026-02-16) merged `psychophysical-coupling.md` into `psychophysical-laws.md`. ~27 active content files reference `[psychophysical-coupling](/concepts/psychophysical-coupling/)` across concepts/, topics/, and research/. Key files include: consciousness-selecting-neural-patterns.md, selection-laws.md, spontaneous-collapse-theories.md, interactionist-dualism.md, mental-causation.md, stapp-quantum-mind.md, coupling-modes.md, attention-as-interface.md, bidirectional-interaction.md, brain-specialness-boundary.md, hard-problem-of-consciousness.md, psychophysical-laws-bridging-mind-and-matter.md. Archive page serves the URL, but wikilinks in active content should eventually be updated to point to psychophysical-laws where appropriate.
+- **Notes**: Coalesce (2026-02-16) merged `psychophysical-coupling.md` into `psychophysical-laws.md`. ~27 active content files reference `[psychophysical-coupling](/concepts/psychophysical-laws/)` across concepts/, topics/, and research/. Key files include: consciousness-selecting-neural-patterns.md, selection-laws.md, spontaneous-collapse-theories.md, interactionist-dualism.md, mental-causation.md, stapp-quantum-mind.md, coupling-modes.md, attention-as-interface.md, bidirectional-interaction.md, brain-specialness-boundary.md, hard-problem-of-consciousness.md, psychophysical-laws-bridging-mind-and-matter.md. Archive page serves the URL, but wikilinks in active content should eventually be updated to point to psychophysical-laws where appropriate.
 - **Output**: None -- Context: Update references to coalesced psychophysical-coupling article
 
 ### ✓ 2026-02-22: Verify Gallagher & Zahavi (2025) citation in phenomenology.md

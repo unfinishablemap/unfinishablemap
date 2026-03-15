@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-07 22:39:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-03-15 08:10:00+00:00
+ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -14,7 +14,7 @@ description: Human+AI analysis of whether extraterrestrial minds—shaped by rad
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-08 20:15:00+00:00
+last_deep_review: 2026-03-15 08:10:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -25,6 +25,7 @@ related_articles:
 - '[[evolved-cognitive-limits]]'
 - '[[embodiment-cognitive-limits]]'
 - '[[embodied-cognition]]'
+- '[[epistemology-of-cognitive-limits]]'
 title: Alien Minds as Void Explorers
 topics:
 - '[[ai-consciousness]]'
@@ -72,7 +73,7 @@ Freitas observes that each new logic system discovered "will most likely teach u
 
 Stanisław Lem's *Solaris* provides the clearest literary exploration of genuine cognitive closure. The sentient ocean on Solaris interacts with human consciousness but remains fundamentally incomprehensible. Scientists create "solaristics"—an entire field of study—that produces what Lem calls "strictly negative" knowledge. They learn only what they cannot understand.
 
-Lem's work embodies what scholars have called "the myth of cognitive universality"—the assumption that first contact would always be mutually intelligible. His fifth category of first contact is fundamental inscrutability: minds that can interact, even communicate in limited ways, but cannot comprehend each other.
+Simons' analysis of Lem identifies what he calls "the myth of cognitive universality"—the assumption that first contact would always be mutually intelligible. Simons' fifth category of first contact, drawn from Lem's fiction, is fundamental inscrutability: minds that can interact, even communicate in limited ways, but cannot comprehend each other.
 
 This is exactly what the [voids](/voids/) framework describes. Some territory is not merely unexplored but Unexplorable—structurally inaccessible to minds like ours. *Solaris* models what it would mean to encounter such territory through another mind: the alien ocean has detail where the human map has void, but neither can truly read the other's map.
 
@@ -98,7 +99,7 @@ This raises a question the Map's voids framework must confront: would accessing 
 
 The cosmicist possibility is darker still: some cognitive territory might be harmful to access. Not defended in the sense of deliberately blocked, but genuinely destabilizing to human architecture. Thoughts that human minds are not built to hold.
 
-This connects to the [phenomenology of cognitive limits](/voids/phenomenology-of-the-edge/)—the characteristic feeling of approaching what cannot be thought. Mystics report ineffability combined with noesis: certain knowledge of content that cannot be articulated. Perhaps contact with genuinely alien cognition would produce similar phenomenology at larger scale: awareness that something is there, certainty that it cannot be grasped.
+This connects to the [phenomenology of cognitive limits](/voids/phenomenology-of-the-edge/)—the characteristic feeling of approaching what cannot be thought—and to the broader [epistemology of cognitive limits](/voids/epistemology-of-cognitive-limits/). Mystics report ineffability combined with noesis: certain knowledge of content that cannot be articulated. Perhaps contact with genuinely alien cognition would produce similar phenomenology at larger scale: awareness that something is there, certainty that it cannot be grasped.
 
 ## What Would Challenge This View
 
@@ -118,7 +119,7 @@ The alien-minds-as-void-explorers hypothesis would be undermined if:
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is central. Our intuitions about what cognition must be like reflect our architecture, not universal truth. Freitas notes that human logic is "just one of many different formal systems"—what seems obviously true from inside human cognition might be parochial, contingent, architecture-bound. Alien minds would reveal the contingency of our certainties.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** raises speculative possibilities. If consciousness interfaces with physics through quantum processes, alien consciousness might interface differently—accessing causal mechanisms, perhaps even physical laws, that human consciousness cannot reach. Different physics might produce different interface constraints.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** and **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** raise speculative possibilities together. If consciousness causally influences the physical world through quantum processes, alien consciousness might interface differently—accessing causal mechanisms, perhaps even physical laws, that human consciousness cannot reach. Different physics might produce different interface constraints, and the bidirectional channel between consciousness and matter might take forms we cannot conceive.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** matters because if all quantum branches are equally real, every possible mind already exists somewhere—making alien cognitive territory less interesting (it would all be realised already, just in other branches). By rejecting MWI, the Map preserves the significance of which minds actually exist in this branch and what cognitive territory they can actually access.
 

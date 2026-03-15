@@ -73,7 +73,7 @@ This connects to the [Minimal Quantum Interaction](/tenets/#minimal-quantum-inte
 
 ## Candidate Selection Laws
 
-The [psychophysical-coupling](/concepts/psychophysical-coupling/) article evaluates five candidate mechanisms. Two have developed implementations:
+The [psychophysical-coupling](/concepts/psychophysical-laws/) article evaluates five candidate mechanisms. Two have developed implementations:
 
 ### Attention as Observation Rate (Stapp)
 
@@ -150,7 +150,7 @@ None of these currently succeeds, but they mark conditions under which the frame
 ## Further Reading
 
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The broader framework including supervenience laws
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — The coupling law problem and candidate mechanisms
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — The coupling law problem and candidate mechanisms
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Integrated overview of the framework
 - [mental-causation](/concepts/mental-causation/) — How consciousness affects physical outcomes
 - [downward-causation](/concepts/downward-causation/) — The general framework for higher-level causes affecting lower-level processes

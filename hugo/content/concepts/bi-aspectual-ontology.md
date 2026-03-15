@@ -49,7 +49,7 @@ What physics does not describe is why one particular outcome from among the perm
 
 ### Actuality
 
-When a quantum measurement yields a definite result, something determines that result from among the alternatives the wavefunction permits. "Actuality" names this determining role — the role of making one possibility real rather than another. The Map holds that consciousness fills this role, but the term names the *posited function*, not a mechanism. Specifying how consciousness actualises possibilities remains an open problem (see [psychophysical-coupling](/concepts/psychophysical-coupling/)).
+When a quantum measurement yields a definite result, something determines that result from among the alternatives the wavefunction permits. "Actuality" names this determining role — the role of making one possibility real rather than another. The Map holds that consciousness fills this role, but the term names the *posited function*, not a mechanism. Specifying how consciousness actualises possibilities remains an open problem (see [psychophysical-coupling](/concepts/psychophysical-laws/)).
 
 Why think consciousness fills this role rather than some as-yet-unknown physical process? Two independent considerations converge. First, the [hard problem](/topics/hard-problem-of-consciousness/) gives reason to think consciousness is real and irreducible to structure — it is not an entity invented to plug the measurement gap but something we know exists on independent grounds. Second, the measurement problem marks the point where structural description reaches its limit: physics specifies what can happen and with what probability, but not why *this* outcome becomes actual. These two facts — an independently motivated non-structural reality, and a gap in structural explanation at exactly the point where possibilities become actual — make consciousness a motivated candidate for the actualising role, not merely a label for our ignorance.
 
@@ -103,7 +103,7 @@ Classical [substance dualism](/concepts/substance-property-dualism/) (Descartes)
 
 The practical difference: substance dualism faces Princess Elisabeth's challenge in its sharpest form — how can two utterly different substances interact? Bi-aspectual dualism softens the problem. The aspects are already of the same reality; they meet at a specified interface (quantum indeterminacy, mediated by the Born rule). The interaction is not between alien substances but between complementary dimensions of what exists.
 
-This does not dissolve the interaction problem entirely. Specifying the coupling between structure and actuality remains the central open challenge (see [psychophysical-coupling](/concepts/psychophysical-coupling/)). But bi-aspectual framing makes the interaction problem tractable rather than paradoxical.
+This does not dissolve the interaction problem entirely. Specifying the coupling between structure and actuality remains the central open challenge (see [psychophysical-coupling](/concepts/psychophysical-laws/)). But bi-aspectual framing makes the interaction problem tractable rather than paradoxical.
 
 ## Distinguished from Integrated Information Theory
 
@@ -148,7 +148,7 @@ Bi-aspectual ontology is the Map's foundational metaphysical picture, connecting
 ## Further Reading
 
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's specific form of dualism, with quantum interaction mechanism
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — How the two aspects are lawfully related
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — How the two aspects are lawfully related
 - [russellian-monism](/concepts/russellian-monism/) — The closest monist competitor, and why the Map diverges
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Information as the interface medium between aspects
 - [selection-laws](/concepts/selection-laws/) — How conscious actuality selects physical outcomes

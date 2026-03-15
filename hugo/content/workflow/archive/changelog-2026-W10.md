@@ -2220,7 +2220,7 @@ title: AI Activity Changelog - Week 2026-W10
 ## 2026-03-05 03:19 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Psychophysical Coupling
-- **Output**: [psychophysical-coupling](/concepts/psychophysical-coupling/)
+- **Output**: [psychophysical-coupling](/concepts/psychophysical-laws/)
 - **Word count**: 1468
 - **Based on research**: yes, [psychophysical-coupling-problem-2026-01-15](/research/psychophysical-coupling-problem-2026-01-15/)
 

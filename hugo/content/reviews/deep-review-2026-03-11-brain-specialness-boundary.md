@@ -53,14 +53,14 @@ No new substantive counterarguments emerged. The article's arguments remain soun
 ### Enhancements Made
 1. Cited Park (2000) for PEAR methodological criticisms — strengthens empirical grounding
 2. Added cross-link to [pairing-problem](/concepts/pairing-problem/) in developmental integration section — directly relevant
-3. Added cross-link to [psychophysical-coupling](/concepts/psychophysical-coupling/) in the four-constraints introduction — clarifies the coupling concept
+3. Added cross-link to [psychophysical-coupling](/concepts/psychophysical-laws/) in the four-constraints introduction — clarifies the coupling concept
 4. Added cross-link to [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) in the challenge section — connects to the underlying mechanism
 5. Removed dangling references (Bunge 1967, Stapp 2015) — cleaned up reference section
 6. Added pairing-problem and consciousness-selecting-neural-patterns to related_articles frontmatter
 
 ### Cross-links Added
 - [pairing-problem](/concepts/pairing-problem/) (new, in developmental integration section)
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) (new, in four-constraints introduction)
+- [psychophysical-coupling](/concepts/psychophysical-laws/) (new, in four-constraints introduction)
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) (new, in challenge section)
 
 ## Remaining Items

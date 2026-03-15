@@ -172,7 +172,7 @@ The Map's framework is one of the few that provides all three elements needed to
 - [panpsychism](/concepts/panpsychism/) — An alternative that faces its own version of the threat
 - [decoherence](/concepts/decoherence/) — The decoherence objection to quantum consciousness: three claims, five responses, and the evidence
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's positive framework
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — What coupling between mind and matter requires
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — What coupling between mind and matter requires
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why evolution requires consciousness to be causally efficacious
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain as the hardest case for epiphenomenalism: felt awfulness inseparable from motivation
 - [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — The systematic mapping between meaning and physical effect that epiphenomenalism cannot explain

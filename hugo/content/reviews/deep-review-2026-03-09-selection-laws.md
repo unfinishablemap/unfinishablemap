@@ -34,7 +34,7 @@ None. The article remains internally consistent, factually accurate, and well-st
 
 ### Counterarguments Considered
 - **Functionalist account of mental reports**: Previously addressed in the 2026-02-02 review. The current engagement (paragraphs on functional tracking vs. phenomenal causation) remains solid. No changes needed.
-- **Decoherence challenge**: Briefly mentioned with cross-link to [decoherence](/concepts/decoherence/); detailed treatment in [psychophysical-coupling](/concepts/psychophysical-coupling/). Adequate as-is.
+- **Decoherence challenge**: Briefly mentioned with cross-link to [decoherence](/concepts/decoherence/); detailed treatment in [psychophysical-coupling](/concepts/psychophysical-laws/). Adequate as-is.
 
 ### Attribution Accuracy Check
 - Chalmers' three principles (structural coherence, organizational invariance, double-aspect information): Correctly attributed to "Facing Up" (1995). ✓

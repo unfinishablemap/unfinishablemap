@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-05
-**Article**: [Psychophysical Coupling](/concepts/psychophysical-coupling/)
+**Article**: [Psychophysical Coupling](/concepts/psychophysical-laws/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -28,7 +28,7 @@ None. The article is well-constructed with accurate attributions.
 ### Medium Issues Found
 - [Missing cross-links]: Article lacked connections to several related articles (princess-elizabeths-challenge, the-epiphenomenalist-threat, bandwidth-problem-mental-causation, the-interface-specification-problem, downward-causation). **Resolution**: Added cross-links in natural context throughout the article.
 - ["Born statistics" undefined]: Technical term used without explanation. **Resolution**: Added inline definition ("the quantum-mechanical rule that measurement outcome probabilities equal the squared amplitudes of the wave function").
-- [Orphan claim investigated]: Task described the article as orphaned with no inbound links. Investigation found 22 other files already linking to [psychophysical-coupling](/concepts/psychophysical-coupling/) via wikilinks. The article was well-integrated. Additional cross-references were added from 3 articles that discuss coupling without linking.
+- [Orphan claim investigated]: Task described the article as orphaned with no inbound links. Investigation found 22 other files already linking to [psychophysical-coupling](/concepts/psychophysical-laws/) via wikilinks. The article was well-integrated. Additional cross-references were added from 3 articles that discuss coupling without linking.
 
 ### Counterarguments Considered
 - Eliminative materialist: "The hard problem begs the question" — bedrock disagreement, article's commitment to dualism is tenet-level.
@@ -60,9 +60,9 @@ None. The article is well-constructed with accurate attributions.
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) (in article body + related_articles)
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/) (in related_articles)
 - [downward-causation](/concepts/downward-causation/) (in article body)
-- Added [psychophysical-coupling](/concepts/psychophysical-coupling/) to further reading of: the-epiphenomenalist-threat, princess-elizabeths-challenge
-- Added [psychophysical-coupling](/concepts/psychophysical-coupling/) wikilink in psychophysical-laws.md body text
-- Added [psychophysical-coupling](/concepts/psychophysical-coupling/) to concepts frontmatter of bandwidth-problem-mental-causation.md
+- Added [psychophysical-coupling](/concepts/psychophysical-laws/) to further reading of: the-epiphenomenalist-threat, princess-elizabeths-challenge
+- Added [psychophysical-coupling](/concepts/psychophysical-laws/) wikilink in psychophysical-laws.md body text
+- Added [psychophysical-coupling](/concepts/psychophysical-laws/) to concepts frontmatter of bandwidth-problem-mental-causation.md
 
 ## Remaining Items
 

@@ -59,7 +59,7 @@ New inbound links added to 6 articles:
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — "the mechanism satisfies conservation laws" → wikilinked
 - [quantum-consciousness](/concepts/quantum-consciousness/) — "No energy violation" point → wikilinked
 - [downward-causation](/concepts/downward-causation/) — "No energy injection" feature → wikilinked
-- [psychophysical-coupling](/concepts/psychophysical-coupling/) — minimality constraint → wikilinked
+- [psychophysical-coupling](/concepts/psychophysical-laws/) — minimality constraint → wikilinked
 - [coupling-modes](/concepts/coupling-modes/) — conservation concerns for probability control → wikilinked
 - [selection-laws](/concepts/selection-laws/) — "without violating conservation laws" → wikilinked
 

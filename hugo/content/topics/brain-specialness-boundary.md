@@ -51,7 +51,7 @@ If the Map's mechanism permits any external influence, these claims become unexp
 
 The boundary between brain-internal and brain-external selection isn't an ad hoc restriction added to avoid embarrassment. It follows from the structure of the proposed mechanism itself.
 
-Four constraints converge on the same conclusion: consciousness can only influence quantum systems already integrated into its [coupling](/concepts/psychophysical-coupling/) with a particular brain.
+Four constraints converge on the same conclusion: consciousness can only influence quantum systems already integrated into its [coupling](/concepts/psychophysical-laws/) with a particular brain.
 
 ### Interface Locality
 
