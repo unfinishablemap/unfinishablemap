@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-15
 
-### P2: Refine measurement-problem.md with Gödel-measurement problem analogy
-- **Type**: refine-draft
-- **Notes**: Research in research/godel-measurement-problem-analogy-2026-03-14.md identifies a principled analogy between Gödel's incompleteness and the measurement problem — both reveal structural limits where a formal system cannot fully describe itself. The analogy has scope and limits worth integrating into the existing measurement-problem.md concept page to strengthen the "physics discloses its own boundary" argument. Also cross-reference physics-as-disclosure.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-15
-
 ### P2: Refine quantum-probability-consciousness.md with completeness disambiguation
 - **Type**: refine-draft
 - **Notes**: Research in research/completeness-in-physics-epr-bell-2026-03-14.md identifies six distinct meanings of "completeness" conflated in quantum foundations (EPR, Bell, Kochen-Specker, PBR, informational, dynamical). The existing quantum-probability-consciousness.md should disambiguate these senses to prevent equivocation when arguing that quantum probability points toward consciousness. Strengthen precision of the consciousness-collapse argument.
@@ -769,6 +763,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Refine measurement-problem.md with Gödel-measurement problem analogy
+- **Type**: refine-draft
+- **Notes**: Research in research/godel-measurement-problem-analogy-2026-03-14.md identifies a principled analogy between Gödel's incompleteness and the measurement problem — both reveal structural limits where a formal system cannot fully describe itself. The analogy has scope and limits worth integrating into the existing measurement-problem.md concept page to strengthen the "physics discloses its own boundary" argument. Also cross-reference physics-as-disclosure.md.
+- **Output**: obsidian/concepts/measurement-problem.md
+
+Task context:
+Research in research/godel-measurement-problem-analogy-2026-03-14.md identifies a principled analogy between Gödel's incompleteness and the measurement problem — both reveal structural limits where a formal system cannot fully describe itself. The analogy has scope and limits worth integrating into the existing measurement-problem.md concept page to strengthen the "physics discloses its own boundary" argument. Also cross-reference physics-as-disclosure.md.
 
 ### ✓ 2026-03-15: Integrate phenomenology-of-perceptual-learning.md into site navigation
 - **Type**: integrate-orphan

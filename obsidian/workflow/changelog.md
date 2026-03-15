@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T05:35:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/measurement-problem]]
+- **Changes**: Integrated Gödel-measurement problem analogy (Dourdent, Cubitt et al., Landsman) as new subsection under decoherence; cross-referenced physics-as-disclosure; added 4 references
+- **Published**: yes
+
 ## 2026-03-15T05:33:00+00:00 - research-voids
 - **Status**: Skipped (section at capacity)
 - **Reason**: Voids section has 104 articles, exceeding cap of 100
