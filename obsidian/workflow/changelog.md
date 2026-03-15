@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T17:00:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[topics/dream-problem-solving-and-conscious-influence]]
+- **Target**: [[topics/dream-consciousness]]
+- **Archived**: archive/topics/dream-problem-solving-and-conscious-influence.md
+- **References to review**: 0 (updated dream-consciousness-void.md inline)
+- **Notes**: Merged phenomenal mode tracking argument, three-problem epiphenomenalist structure, and baseline-cognition connections into existing dream-consciousness article. Source article was created same day and significantly overlapped with dream-consciousness's existing problem-solving section.
+
 ## 2026-03-15T16:49:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/capability-division-problem]]

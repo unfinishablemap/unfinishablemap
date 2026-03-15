@@ -26,7 +26,6 @@ related_articles:
   - "[[the-unobservable-self]]"
   - "[[altered-states-of-consciousness]]"
   - "[[sleep-and-consciousness]]"
-  - "[[dream-problem-solving-and-conscious-influence]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -125,7 +124,7 @@ The dream consciousness void has implications for understanding cognitive limits
 
 **Memory is a poor bridge.** We access dreams primarily through waking memory of them, but memory transforms in translation. What we remember about dreams is already waking-shaped, not the dream itself. The bridge alters what crosses it.
 
-**The void may be productive.** If dreams access territories waking cannot reach—creative solutions, unconscious integration—then the inaccessibility from waking may be functional. [[dream-problem-solving-and-conscious-influence|Dream problem-solving research]] suggests that cognitive outcomes track the phenomenal mode of processing: creative breakthroughs specifically require dreaming consciousness, not merely offline neural computation. Some processes may require the absence of waking oversight to operate. The void protects rather than merely obstructs.
+**The void may be productive.** If dreams access territories waking cannot reach—creative solutions, unconscious integration—then the inaccessibility from waking may be functional. [[dream-consciousness#The Phenomenal Mode Tracking Pattern|Dream problem-solving research]] suggests that cognitive outcomes track the phenomenal mode of processing: creative breakthroughs specifically require dreaming consciousness, not merely offline neural computation. Some processes may require the absence of waking oversight to operate. The void protects rather than merely obstructs.
 
 ## Relation to Site Perspective
 
@@ -157,7 +156,6 @@ The evidence currently favors genuine bidirectional inaccessibility. But the voi
 - [[three-kinds-of-void|Three Kinds of Void]] — The unexplored, unexplorable, and occluded
 - [[dreamless-sleep-void|The Dreamless Sleep Void]] — The companion void: where consciousness goes during deep sleep
 - [[dream-consciousness|Dreams and Consciousness]] — How dreams illuminate the consciousness-brain relationship
-- [[dream-problem-solving-and-conscious-influence|Dream Problem-Solving and Conscious Influence]] — Evidence that cognitive outcomes track phenomenal mode
 - [[observation-void|The Observation Void]] — Why observing consciousness transforms what is observed
 - [[altered-states-as-void-probes|Altered States as Void Probes]] — Whether altered states reveal or simulate transcendence of cognitive limits
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Mechanisms of cognitive slippage

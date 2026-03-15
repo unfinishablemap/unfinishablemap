@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-03-15T15:39:00+00:00
 last_deep_review: 2026-03-15T15:39:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-15T17:00:00+00:00
+superseded_by: "/topics/dream-consciousness/"
+archive_reason: "Coalesced into Dream Consciousness"
+original_path: "/topics/dream-problem-solving-and-conscious-influence/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[dream-consciousness]]"
