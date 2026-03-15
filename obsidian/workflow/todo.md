@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Review russellian-monism.md considering bi-aspectual ontology
+- **Type**: cross-review
+- **Notes**: New article concepts/bi-aspectual-ontology.md presents bi-aspectual ontology as a framework where mind and matter are two aspects of a single underlying reality. russellian-monism.md covers a competing position that shares structural similarities. Check for cross-links, terminological consistency, and whether the new article's distinctions strengthen or challenge claims in russellian-monism.md.
+- **Source**: chain (from bi-aspectual-ontology.md)
+- **Generated**: 2026-03-15
+
+### P2: Review dualism.md considering bi-aspectual ontology
+- **Type**: cross-review
+- **Notes**: New article concepts/bi-aspectual-ontology.md introduces a framework that sits between substance dualism and neutral monism. The main dualism.md article should cross-reference this position and clarify how the Map's preferred dualism relates to bi-aspectual alternatives. Check for missing links and ensure the taxonomy of dualist positions is complete.
+- **Source**: chain (from bi-aspectual-ontology.md)
+- **Generated**: 2026-03-15
+
+### P2: Review measurement-problem.md considering physics-as-disclosure
+- **Type**: cross-review
+- **Notes**: New article concepts/physics-as-disclosure.md reframes physical measurement as disclosure rather than creation — a perspective directly relevant to the measurement problem. measurement-problem.md should cross-reference this interpretation and consider how the disclosure framing affects the consciousness-collapse discussion. Also check the-participatory-universe.md for relevant connections.
+- **Source**: chain (from physics-as-disclosure.md)
+- **Generated**: 2026-03-15
+
+### P2: Condense temporal-consciousness.md (3974 words, 114% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3974 words, likely contains redundancy with related temporal articles (philosophy-of-time.md, bergson-and-duration.md). Preserve core arguments about the temporal structure of conscious experience while removing overlap. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-15
+
+### P3: Deep review voids.md
+- **Type**: deep-review
+- **Notes**: Section index page (ai_contribution: 80) last reviewed 2026-02-01 — 42 days ago. As the voids section landing page, should accurately reflect current voids content and taxonomy. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
+### P3: Deep review altered-states-as-void-probes.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 40 days ago. Voids article on using altered states of consciousness as probes into cognitive blind spots. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
 ### P3: Deep review dream-consciousness-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 40 days ago. Voids article on the dream consciousness void — the unchartable gap between waking and dreaming consciousness. Verify coherence, cross-references, and tenet alignment.
