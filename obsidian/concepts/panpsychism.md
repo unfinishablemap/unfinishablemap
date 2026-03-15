@@ -4,7 +4,7 @@ description: "The view that consciousness is fundamental and ubiquitous in natur
 created: 2026-01-08
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-11T17:46:00+00:00
+ai_modified: 2026-03-15T17:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,6 +20,7 @@ concepts:
   - "[[intrinsic-nature-void]]"
   - "[[process-philosophy]]"
   - "[[consciousness-in-simple-organisms]]"
+  - "[[bi-aspectual-ontology]]"
 related_articles:
   - "[[tenets]]"
   - "[[panpsychism-consciousness-2026-01-08]]"
@@ -28,10 +29,10 @@ related_articles:
   - "[[origin-of-consciousness]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-08
 last_curated: null
-last_deep_review: 2026-03-11T17:46:00+00:00
+last_deep_review: 2026-03-15T17:59:00+00:00
 ---
 
 Panpsychism holds that consciousness is a fundamental and ubiquitous feature of reality—all matter has some experiential quality. An electron doesn't merely have mass and charge; it has something it's like to be that electron. This view has experienced a resurgence in contemporary philosophy of mind, championed by thinkers like Galen Strawson and Philip Goff.
@@ -108,7 +109,7 @@ The Map agrees with panpsychism's diagnosis (emergence from non-conscious matter
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes this happens at the quantum level—consciousness biases otherwise indeterminate outcomes.
 
-This avoids the combination problem. There's no need to explain how micro-experiences combine because matter doesn't have micro-experiences. Consciousness is a distinct ontological category that interacts with matter rather than constituting it.
+This avoids the combination problem. There's no need to explain how micro-experiences combine because matter doesn't have micro-experiences. Consciousness is a distinct ontological category that interacts with matter rather than constituting it. The Map's [[bi-aspectual-ontology]] develops this further: reality has two irreducible aspects (structure and actuality) that interact at quantum indeterminacies rather than being identical.
 
 ## Key Differences
 
@@ -187,6 +188,7 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 - [[minimal-consciousness]] — Empirical cases (C. elegans, Hydra, slime molds) that test panpsychist predictions
 - [[evolution-of-consciousness]] — How panpsychism addresses the evolutionary emergence question
 - [[combination-problem]] — The central challenge facing panpsychism
+- [[panpsychisms-combination-problem]] — In-depth treatment of the combination problem's variants and responses
 - [[russellian-monism]] — The most developed theoretical framework for panpsychism
 - [[process-philosophy]] — Whitehead's framework where experience is fundamental to actuality
 - [[idealism]] — Broader treatment of idealist positions, including analytic idealism as an alternative that claims to avoid the combination problem
