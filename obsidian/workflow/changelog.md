@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T17:09:00+00:00 - condense
+- **Status**: Success
+- **File**: [[topics/purpose-and-alignment]]
+- **Before**: 3603 words
+- **After**: 2447 words
+- **Reduction**: 32%
+- **Technique**: Removed duplicate "Relation to Site Perspective" section (consolidated into expanded version), cut Process Philosophy section (tangential Whitehead material), cut standalone Contemplative Evidence section (overlapped illusionist subsection), tightened prose throughout
+
 ## 2026-03-15T17:00:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[topics/dream-problem-solving-and-conscious-influence]]

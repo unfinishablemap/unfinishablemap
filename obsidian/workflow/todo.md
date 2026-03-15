@@ -98,12 +98,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: orphan_integration
 - **Generated**: 2026-03-13
 
-### P3: Condense purpose-and-alignment.md
-- **Type**: condense
-- **Notes**: At ~4,800 words, far exceeds 2,000-3,000 word guideline. Has duplicate "Relation to Site Perspective" sections. Process philosophy and contemplative evidence sections restate core insight in different vocabularies. See pessimistic-2026-03-11-afternoon.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-11
-
 ### P3: Reduce quantum overemphasis in continual-learning-argument.md
 - **Type**: refine-draft
 - **Notes**: Decoherence Challenge section overemphasises quantum mechanisms contrary to writing style guide restraint requirements. Should be reduced to brief mention. See pessimistic-2026-03-11-afternoon.md
@@ -677,6 +671,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Condense purpose-and-alignment.md
+- **Type**: condense
+- **Notes**: At ~4,800 words, far exceeds 2,000-3,000 word guideline. Has duplicate "Relation to Site Perspective" sections. Process philosophy and contemplative evidence sections restate core insight in different vocabularies. See pessimistic-2026-03-11-afternoon.md
+- **Output**: obsidian/topics/purpose-and-alignment.md
 
 ### ✓ 2026-03-15: Deep review capability-division-problem.md
 - **Type**: deep-review
