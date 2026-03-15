@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-14T21:03:00+00:00
+ai_modified: 2026-03-15T01:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,6 +36,7 @@ concepts:
   - "[[delegatory-dualism]]"
   - "[[causal-interface]]"
   - "[[observational-closure]]"
+  - "[[bi-aspectual-ontology]]"
   - "[[amplification-void]]"
 related_articles:
   - "[[tenets]]"
@@ -51,7 +52,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-11T22:37:00+00:00
+last_deep_review: 2026-03-15T01:03:00+00:00
 coalesced_from:
   - "/arguments/interactionist-dualism/"
 ---
@@ -168,7 +169,7 @@ Interactionism is compatible with different dualist ontologies (see [[substance-
 
 **Property dualism**: Mental properties are distinct from physical properties, but don't require separate substances. However, property dualism risks sliding toward [[concepts/epiphenomenalism]]—if mental properties are merely properties of physical systems, they may seem causally redundant.
 
-The Map is compatible with either formulation. What matters is irreducibility (Dualism tenet) and causal efficacy (Bidirectional Interaction tenet), not the precise metaphysical structure underlying them.
+The Map's [[bi-aspectual-ontology|bi-aspectual ontology]] navigates between these options: reality has two irreducible aspects—structure (what physics describes) and actuality (what consciousness provides)—that interact at quantum indeterminacies. This is dualism without substances, aspects rather than stuffs. What matters is irreducibility (Dualism tenet) and causal efficacy (Bidirectional Interaction tenet).
 
 ## Objections and Responses
 
@@ -208,6 +209,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 
 **Core framework:**
 - [[dualism]] — Foundational overview: varieties, arguments, relation to tenets
+- [[bi-aspectual-ontology]] — The Map's ontology: structure and actuality as irreducible aspects
 - [[tenets]] — The Map's foundational commitments
 - [[psychophysical-laws]] — Chalmers' framework and where the Map diverges
 

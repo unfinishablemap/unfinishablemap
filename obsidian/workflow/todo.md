@@ -653,12 +653,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-14
 
-### P2: Cross-review interactionist-dualism.md considering bi-aspectual ontology insights
-- **Type**: cross-review
-- **Notes**: New article concepts/bi-aspectual-ontology.md introduces the bi-aspectual framework distinguishing structure (physics) from actuality (consciousness). interactionist-dualism.md is the core framework article and should reference the aspectual distinction as its ontological foundation. Check for cross-links and argument reinforcement.
-- **Source**: chain (from bi-aspectual-ontology.md)
-- **Generated**: 2026-03-15
-
 ### P2: Cross-review decoherence.md considering physics-as-disclosure insights
 - **Type**: cross-review
 - **Notes**: New article concepts/physics-as-disclosure.md reframes the measurement problem as physics revealing its own boundary rather than a deficiency. decoherence.md discusses environmental decoherence and should integrate the disclosure reading — decoherence handles everything physics can handle, stopping precisely where the non-physical begins. Check for cross-links and consistency.
@@ -685,6 +679,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Cross-review interactionist-dualism.md considering bi-aspectual ontology insights
+- **Type**: cross-review
+- **Notes**: New article concepts/bi-aspectual-ontology.md introduces the bi-aspectual framework distinguishing structure (physics) from actuality (consciousness). interactionist-dualism.md is the core framework article and should reference the aspectual distinction as its ontological foundation. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/concepts/interactionist-dualism.md -- Context: Cross-review interactionist-dualism.md considering bi-aspectual ontology insights
 
 ### ✓ 2026-03-15: Write concept article — Physics as Disclosure
 - **Type**: expand-topic
