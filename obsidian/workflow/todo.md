@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review russellian-monism.md considering bi-aspectual ontology
-- **Type**: cross-review
-- **Notes**: New article concepts/bi-aspectual-ontology.md presents bi-aspectual ontology as a framework where mind and matter are two aspects of a single underlying reality. russellian-monism.md covers a competing position that shares structural similarities. Check for cross-links, terminological consistency, and whether the new article's distinctions strengthen or challenge claims in russellian-monism.md.
-- **Source**: chain (from bi-aspectual-ontology.md)
-- **Generated**: 2026-03-15
-
 ### P2: Review dualism.md considering bi-aspectual ontology
 - **Type**: cross-review
 - **Notes**: New article concepts/bi-aspectual-ontology.md introduces a framework that sits between substance dualism and neutral monism. The main dualism.md article should cross-reference this position and clarify how the Map's preferred dualism relates to bi-aspectual alternatives. Check for missing links and ensure the taxonomy of dualist positions is complete.
@@ -716,6 +710,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Review russellian-monism.md considering bi-aspectual ontology
+- **Type**: cross-review
+- **Notes**: New article concepts/bi-aspectual-ontology.md presents bi-aspectual ontology as a framework where mind and matter are two aspects of a single underlying reality. russellian-monism.md covers a competing position that shares structural similarities. Check for cross-links, terminological consistency, and whether the new article's distinctions strengthen or challenge claims in russellian-monism.md.
+- **Output**: obsidian/concepts/russellian-monism.md -- Context: Review russellian-monism.md considering bi-aspectual ontology
 
 ### ✓ 2026-03-15: Deep review scale-void.md
 - **Type**: deep-review

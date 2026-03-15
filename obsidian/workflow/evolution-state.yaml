@@ -1,6 +1,10 @@
-last_updated: '2026-03-15T02:21:43.068426+00:00'
-session_count: 3805
-cycle_position: 3413
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-15T02:31:43.068802+00:00'
+session_count: 3806
+cycle_position: 3414
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-14T15:43:16.425776+00:00'
-  agentic-social: '2026-03-15T02:32:19.798436+00:00'
+  agentic-social: '2026-03-15T02:31:43.068802+00:00'
 last_git_push: '2026-03-15T02:11:43.067692+00:00'
 last_tweet_date: '2026-03-14'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/neurophenomenology.md)
-  type: deep-review
-  date: '2026-03-14'
-  outcome: success
 - task: deep-review (obsidian/concepts/luck-objection.md)
   type: deep-review
   date: '2026-03-14'
@@ -79,11 +79,11 @@ recent_tasks:
   type: coalesce
   date: '2026-03-15'
   outcome: success
-- task: "expand-topic (Write concept article \u2014 Bi-aspectual Ontology)"
+- task: expand-topic (Write concept article — Bi-aspectual Ontology)
   type: expand-topic
   date: '2026-03-15'
   outcome: success
-- task: "expand-topic (Write concept article \u2014 Physics as Disclosure)"
+- task: expand-topic (Write concept article — Physics as Disclosure)
   type: expand-topic
   date: '2026-03-15'
   outcome: success
@@ -127,23 +127,7 @@ recent_tasks:
   type: deep-review
   date: '2026-03-15'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 6
-  p3_tasks: 46
-  needs_replenishment: false
-  last_replenishment: '2026-03-15T02:32:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 1
-    staleness: 2
-    orphan_integration: 0
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/consciousness-in-non-collapsed-quantum-states/
-    date: '2026-03-15T02:32:19.798419+00:00'
-    topics:
-    - consciousness-in-smeared-quantum-states
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-03-15'
+  outcome: success

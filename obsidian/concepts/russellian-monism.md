@@ -4,7 +4,7 @@ description: "The view that physics describes only structure while intrinsic qui
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-25T20:55:00+00:00
+ai_modified: 2026-03-15T02:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,6 +12,7 @@ concepts:
   - "[[panpsychism]]"
   - "[[concepts/materialism]]"
   - "[[substance-property-dualism]]"
+  - "[[bi-aspectual-ontology]]"
   - "[[qualia]]"
   - "[[combination-problem]]"
   - "[[illusionism]]"
@@ -29,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-02-25T13:56:00+00:00
+last_deep_review: 2026-03-15T02:44:00+00:00
 ---
 
 Russellian monism holds that physics describes only the relational structure of matter—what things do to each other—leaving their intrinsic nature unexplained. These intrinsic properties, called *quiddities*, allegedly account for consciousness. The view attempts a middle path: avoiding [[concepts/materialism|physicalism's]] hard problem (by denying that structure alone determines experience) while avoiding [[interactionist-dualism|dualism's]] interaction problem (by integrating consciousness into physical causation). Yet the combination problem—how micro-level quiddities constitute unified conscious experience—remains unsolved, and critics argue Russellian monism inherits dualism's costs under a different name.
@@ -86,7 +87,7 @@ But Adam Pautz and other critics argue this is illusory. Russellian monism requi
 
 If Russellian monism is dualism under another name, the Map's explicit [[interactionist-dualism]] is preferable:
 
-**Clearer ontology**: Dualism forthrightly posits mental substances or properties distinct from physical ones. Russellian monism obscures this behind the notion of "quiddities" that are somehow both physical and phenomenal. The [[consciousness-and-the-ontology-of-dispositions|ontology of dispositions]] clarifies the options: if properties are "powerful qualities" (simultaneously qualitative and dispositional), consciousness could be the paradigmatic case—known from the inside—without requiring micro-level quiddities that must combine.
+**Clearer ontology**: The Map's [[bi-aspectual-ontology|bi-aspectual ontology]] distinguishes structure (what physics describes) from actuality (what consciousness provides)—two irreducible aspects of reality that interact at quantum indeterminacies. Russellian monism obscures the distinction by treating quiddities as somehow both physical and phenomenal. The [[consciousness-and-the-ontology-of-dispositions|ontology of dispositions]] further clarifies: if properties are "powerful qualities" (simultaneously qualitative and dispositional), consciousness could be the paradigmatic case—known from the inside—without requiring micro-level quiddities that must combine.
 
 **Avoids combination**: By positing unified mental subjects rather than combinations of micro-subjects, [[substance-property-dualism|substance dualism]] sidesteps the combination problem entirely. There's no question of how many experiences become one—the unified subject is fundamental.
 
@@ -118,11 +119,11 @@ The difference: the Map's quantum mechanism provides a *locus* for interaction (
 
 Alfred North Whitehead's process philosophy offers a sophisticated framework for understanding what quiddities might be. In *Process and Reality* (1929), Whitehead proposed that reality consists of "actual occasions"—momentary experiential events. Each occasion involves "prehension" (a primitive form of experience) by which it takes account of its predecessors. The physical and experiential are two aspects of the same process.
 
-Whitehead shared Russell's recognition that physics captures structure rather than intrinsic natures, though Whitehead's emphasis was different: where Russell focused on the relational character of physical descriptions, Whitehead argued that reality is fundamentally processual—"the flux of things" is the ultimate generalization. Whitehead went further: intrinsic nature is *temporal experience*, the process of becoming. An actual occasion doesn't *have* experience as a property; it *is* an instance of experiencing. This reframes quiddities: they are not static phenomenal properties but dynamic experiential events.
+Like Russell, Whitehead recognised that physics captures structure rather than intrinsic natures. But where Russell stopped at the relational character of physical descriptions, Whitehead went further: intrinsic nature is *temporal experience*, the process of becoming. An actual occasion doesn't *have* experience as a property; it *is* an instance of experiencing. This reframes quiddities: they are not static phenomenal properties but dynamic experiential events.
 
 This process interpretation has implications for the combination problem. Static quiddities face subject-summing difficulties—how do many micro-subjects merge into one macro-subject? But Whitehead's actual occasions don't merge; they *perish* and are *prehended* by successors. The continuity of consciousness becomes a matter of experiential inheritance rather than subject-combination. Each new occasion synthesizes past occasions into a novel unity.
 
-Whether this solves or merely relocates the combination problem is contested. Critics note that "prehension" names the phenomenon without explaining it—why should one occasion's experience enter another's? Defenders respond that temporal succession of experience is more fundamental than spatial composition; we understand our own conscious continuity through lived experience of becoming.
+Whether this solves or merely relocates the combination problem is contested. Critics note that "prehension" names the phenomenon without explaining it. Defenders respond that temporal succession of experience is more fundamental than spatial composition; we understand conscious continuity through lived experience of becoming.
 
 For the Map's framework, Whitehead's insight matters: if experience is fundamental process rather than emergent property, the question shifts from "how does consciousness arise?" to "how is consciousness structured?" the Map proposes consciousness *interfaces with* physics at quantum indeterminacies; a Whiteheadian might say quantum events just *are* occasions of micro-experience. Both reject emergence from non-experiential matter.
 
@@ -140,7 +141,7 @@ Despite these criticisms, Russellian monism captures important insights the Map 
 
 ## Relation to the Map's Perspective
 
-**Dualism**: Russellian monism is officially a form of monism—one kind of stuff with different aspects. But its commitment to phenomenal properties irreducible to structure makes it closer to property dualism in practice. The Map's explicit dualism is cleaner.
+**Dualism**: Russellian monism is officially a form of monism—one kind of stuff with different aspects. But its commitment to phenomenal properties irreducible to structure makes it closer to property dualism in practice. The Map's [[bi-aspectual-ontology|bi-aspectual dualism]]—structure and actuality as irreducible aspects that interact causally—is cleaner.
 
 **Minimal Quantum Interaction**: the Map proposes consciousness influences quantum outcomes. Russellian monism doesn't specify a mechanism—quiddities are simply "part of" physical reality. The quantum proposal gives concrete content to the mind-matter interface.
 
@@ -168,6 +169,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 
 ## Further Reading
 
+- [[bi-aspectual-ontology]] — The Map's foundational ontology: structure and actuality as irreducible interacting aspects
 - [[consciousness-and-the-ontology-of-dispositions]] — How the powerful qualities framework offers an alternative to quiddities
 - [[intrinsic-nature-void]] — Why physics cannot capture intrinsic nature
 - [[substance-property-dualism]] — The broader dualist framework
