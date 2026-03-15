@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-03-11 06:32:00+00:00
+ai_modified: 2026-03-15 07:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,6 +22,7 @@ concepts:
 - '[[binding-problem]]'
 - '[[attention-as-interface]]'
 - '[[neural-binding-mechanisms]]'
+- '[[temporal-consciousness]]'
 created: 2026-02-08
 date: &id001 2026-02-09
 description: Memory is not storage but structured re-experiencing—and the hierarchy
@@ -75,7 +76,7 @@ If memory were pure information processing, certain asymmetries would not exist.
 
 ### The Encoding-Consolidation Split
 
-Memory formation divides into a conscious phase (encoding) and an unconscious phase (consolidation). During encoding, attention determines what enters memory—[working memory](/concepts/working-memory/) serves as the interface, holding information in an experienced present lasting roughly 100 milliseconds to 5 seconds. Without conscious attention, encoding fails—inattentional blindness prevents encoding of unattended stimuli even in fully awake subjects, and deep anaesthesia blocks new episodic memory formation entirely.
+Memory formation divides into a conscious phase (encoding) and an unconscious phase (consolidation). During encoding, attention determines what enters memory—[working memory](/concepts/working-memory/) serves as the interface, holding information in the [specious present](/concepts/temporal-consciousness/) — an experienced duration lasting roughly 100 milliseconds to 5 seconds. Without conscious attention, encoding fails—inattentional blindness prevents encoding of unattended stimuli even in fully awake subjects, and deep anaesthesia blocks new episodic memory formation entirely.
 
 During NREM slow-wave sleep, the hippocampus replays recent experiences through sharp-wave ripples (100–250 Hz) coordinated with thalamocortical sleep spindles (10–16 Hz) and cortical slow oscillations (less than 1 Hz), gradually transferring memory traces to long-term cortical storage. A 2023 *Nature Neuroscience* study (Geva-Sagiv et al.) provided causal evidence for this coordination: augmenting hippocampal-prefrontal synchrony during sleep through closed-loop stimulation enhanced consolidation measurably. Multiple memory traces replay simultaneously—unlike the [serial bottleneck](/topics/bandwidth-of-consciousness/) of human behavioural throughput, estimated at roughly 10 bits per second (Zheng & Meister 2025). Cross-memory linking strengthens thematic connections. New memories integrate with existing cortical schemas. All of this without the phenomenal unity, temporal ordering, or attentional selection that characterise waking thought.
 
@@ -157,6 +158,7 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [memory-void](/voids/memory-void/)
 - [past-self-void](/voids/past-self-void/)
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
+- [temporal-consciousness](/concepts/temporal-consciousness/)
 - [consciousness-independent-baseline-cognition](/concepts/baseline-cognition/)
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/)
 - [binding-problem](/concepts/binding-problem/)

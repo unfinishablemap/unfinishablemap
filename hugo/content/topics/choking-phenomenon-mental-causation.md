@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-06 07:10:00+00:00
+ai_modified: 2026-03-15 07:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,6 +26,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[downward-causation-mental-causation-2026-01-15]]'
+- '[[phenomenology-of-deliberation-under-uncertainty]]'
 title: Choking Under Pressure as Evidence for Mental Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -72,6 +73,8 @@ This withdrawal is not elimination. The expert doesn't lose awareness; they ente
 Crucially, the interface can re-engage. The expert driver notices the unusual road surface and shifts attention. The expert typist catches the error and consciously corrects. The ability to re-engage demonstrates that consciousness retains override capacity even after delegating to procedural systems.
 
 Choking occurs when this re-engagement is *inappropriate*—when consciousness intervenes in execution that would proceed better without monitoring. The phenomenology is distinctive: the effortful, self-aware quality of attention during choking differs markedly from the absorbed, effortless quality of automatized performance. These aren't just different neural states happening to correlate with different performances. They're different modes of conscious engagement causing different outcomes.
+
+Choking shares a phenomenological structure with [deliberative vertigo](/topics/phenomenology-of-deliberation-under-uncertainty/)—the felt groundlessness of facing a situation where one's resources are inadequate. Under performance pressure, the expert experiences a version of deliberative vertigo applied to execution rather than decision: the felt inadequacy of conscious monitoring for a task that automatised skill handles better. The vertigo drives inappropriate intervention just as it drives inappropriate deliberation. Both cases reveal consciousness registering a genuine mismatch between what the situation demands and what explicit reasoning can provide.
 
 ## The Illusionist Challenge
 
@@ -140,6 +143,7 @@ For the Map's broader case, choking provides the clearest evidence type: negativ
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and why choking resists it
 - [voluntary attention](/concepts/attention-as-interface/) — The neural signatures of willed versus stimulus-driven attention
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effortful attention
+- [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — Choking as deliberative vertigo under performance pressure
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative parallels to anoetic awareness
 
 ## References

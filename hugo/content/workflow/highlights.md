@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-14T08:19:00.556772'
+ai_modified: '2026-03-15T08:00:56.677214'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-03-14'
+date: '2026-03-15'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-14'
+modified: '2026-03-15'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-15: Where Does Consciousness Go When You Sleep?
+
+Every night you lose awareness for hours, then return as if nothing happened. The gap can't be observed—because observation requires the consciousness whose absence is in question.
+
+**Type**: insight  
+**Link**: [dreamless-sleep-void](/voids/dreamless-sleep-void/)
+
+---
+
 ### 2026-03-14: Blindsight: Seeing Without Experience
 
 Deep review strengthens the blindsight article—patients who accurately locate and identify visual stimuli they cannot consciously see. A powerful case that consciousness and information processing come apart.
@@ -193,15 +202,6 @@ Refined exploration of how temporal phenomenology—retention, primal impression
 
 **Type**: insight  
 **Link**: [temporal-phenomenology-quantum-selection](/concepts/temporal-consciousness/)
-
----
-
-### 2026-02-23: What If Consciousness Is Something You Do?
-
-Strengthened case that consciousness isn't a property brains have—it's an activity organisms perform. Like dancing can't be reduced to legs, experience can't be reduced to neurons.
-
-**Type**: insight  
-**Link**: [consciousness-as-activity](/topics/consciousness-as-activity/)
 
 ---
 

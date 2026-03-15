@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-14 21:03:00+00:00
+ai_modified: 2026-03-15 07:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -30,6 +30,7 @@ related_articles:
 - '[[the-epiphenomenalist-threat]]'
 - '[[consciousness-and-causal-powers]]'
 - '[[bidirectional-interaction]]'
+- '[[physics-as-disclosure]]'
 - '[[tenets]]'
 title: The Self-Stultification Argument
 topics:
@@ -144,6 +145,8 @@ Self-stultification establishes *that* consciousness must be causally efficaciou
 
 The [master argument](/topics/self-stultification-as-master-argument/) develops the full scope of self-stultification across four targets—epiphenomenalism, physicalism, eliminativism, and global skepticism—showing that the pattern recurs because each position severs a different strand connecting consciousness to rational justification. Together, these five lines of argument form a unified case whose cumulative force exceeds what any single strand provides.
 
+Self-stultification operates as a boundary-marker in the same register as [physics-as-disclosure](/concepts/physics-as-disclosure/). Where disclosure reveals the point at which structural description reaches its limit and actuality begins, self-stultification reveals the point at which purely structural explanation undermines the rational standing it needs to be believed. Both strategies converge: structural description is complete within its domain but cannot be the whole story.
+
 ## Relation to Site Perspective
 
 The self-stultification argument provides decisive support for the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If consciousness couldn't cause anything—if it were truly epiphenomenal—then we could not know it was epiphenomenal. The very fact that we discuss consciousness, form theories about it, and revise those theories based on introspective evidence suggests that consciousness causally influences our beliefs and reports.
@@ -166,6 +169,7 @@ The argument also supports the [Occam's Razor Has Limits](/tenets/#occams-limits
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The irreducible phenomenal character of understanding
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The Map's tenet that consciousness causes things
 - [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — How the metaproblem provides another route to the same conclusion: consciousness must causally contribute to problem reports
+- [physics-as-disclosure](/concepts/physics-as-disclosure/) — A parallel boundary-marker: physics reaching the limit of structural description
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework that escapes self-stultification
 - [free-will](/topics/free-will/) — Self-stultification extends to libertarian free will: choices disconnected from reasons aren't rationally authored
 - [dualism](/concepts/dualism/) — Multiple arguments converging on irreducibility

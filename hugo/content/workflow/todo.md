@@ -56,25 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
-### P2: Address gaps in hard-problem-of-consciousness.md
-- **Type**: refine-draft
-- **Status**: done
-- **Notes**: Pessimistic review (pessimistic-2026-03-15.md) found: (1) asymmetric vulnerability treatment—materialist positions get detailed objections but the Map's own open problems aren't acknowledged; (2) missing citations for Levine (1983), Block (1978), McGinn (1989); (3) phenomenal concepts strategy needs fuller engagement with Papineau's (2002) circularity rebuttal; (4) article at ~4000 words exceeds 3000-word style guide max—compress subsections with dedicated articles.
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-15
-
-### P3: Add cross-references between physics-as-disclosure.md and self-stultification-as-master-argument.md
-- **Type**: refine-draft
-- **Notes**: Optimistic review (optimistic-2026-03-15.md) identified that disclosure and self-stultification both mark boundaries of structural description. Add cross-links connecting these parallel boundary-marking strategies. Also link choking-phenomenon-mental-causation.md to phenomenology-of-deliberation-under-uncertainty.md (choking as deliberative vertigo under performance pressure).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-15
-
-### P3: Deep review dreamless-sleep-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on dreamless sleep as an unchartable territory — the gap in consciousness that occurs nightly. Relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-15
-
 ### P3: Deep review epistemology-of-cognitive-limits.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-08 — 35 days ago. Voids article on the epistemology of cognitive limits — how we can know about limits we cannot transcend. Foundational methodology for the voids programme. Verify coherence, cross-references, and tenet alignment.
@@ -799,12 +780,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-03-15
 
-### P2: Integrate specious-present-temporal-experience.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Concept page (created 2026-02-22) on the specious present — the duration of experienced "now." Add cross-references from temporal-consciousness.md, bergson-and-duration.md, philosophy-of-time.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-15
-
 ### P3: Deep review mathematical-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-04 — 39 days ago. Voids article on the mathematical void — the gap between mathematical formalism and lived experience. Verify coherence, cross-references, and tenet alignment.
@@ -823,8 +798,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-15
 
+### P3: Write article on the phenomenology of interface opacity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Phenomenal transparency explains why we can't see the representational medium; embodied-consciousness shows the interface extends beyond the brain. This article would systematically develop interface opacity — the specific ways consciousness fails to detect its own point of contact with matter — as distinct from both phenomenal transparency and general mysterianism. See optimistic-2026-03-15-morning.md
+- **Source**: optimistic_review
+- **Generated**: 2026-03-15
+
+### P3: Write article on temporal becoming and mathematical creativity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The temporal becoming article argues genuine creativity requires accumulated temporal context (durée) for generating new representational primitives. Mathematical creativity — where insight can be checked against objective truth — provides the strongest test case. Connects the temporal creativity thesis to the Map's strongest empirical anchor for phenomenological claims. See optimistic-2026-03-15-morning.md
+- **Source**: optimistic_review
+- **Generated**: 2026-03-15
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Deep review dreamless-sleep-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on dreamless sleep as an unchartable territory — the gap in consciousness that occurs nightly. Relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/dreamless-sleep-void.md
+
+### ✓ 2026-03-15: Add cross-references between physics-as-disclosure.md and self-stultification-as-master-argument.md
+- **Type**: refine-draft
+- **Notes**: Optimistic review (optimistic-2026-03-15.md) identified that disclosure and self-stultification both mark boundaries of structural description. Add cross-links connecting these parallel boundary-marking strategies. Also link choking-phenomenon-mental-causation.md to phenomenology-of-deliberation-under-uncertainty.md (choking as deliberative vertigo under performance pressure).
+- **Output**: obsidian/concepts/physics-as-disclosure.md
+
+Task context:
+Optimistic review (optimistic-2026-03-15.md) identified that disclosure and self-stultification both mark boundaries of structural description. Add cross-links connecting these parallel boundary-marking strategies. Also link choking-phenomenon-mental-causation.md to phenomenology-of-deliberation-under-uncertainty.md (choking as deliberative vertigo under performance pressure).
+
+### ✓ 2026-03-15: Integrate specious-present-temporal-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page (created 2026-02-22) on the specious present — the duration of experienced "now." Add cross-references from temporal-consciousness.md, bergson-and-duration.md, philosophy-of-time.md, and related articles.
+- **Output**: specious-present-temporal-experience.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-15: Address gaps in hard-problem-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-03-15.md) found: (1) asymmetric vulnerability treatment—materialist positions get detailed objections but the Map's own open problems aren't acknowledged; (2) missing citations for Levine (1983), Block (1978), McGinn (1989); (3) phenomenal concepts strategy needs fuller engagement with Papineau's (2002) circularity rebuttal; (4) article at ~4000 words exceeds 3000-word style guide max—compress subsections with dedicated articles.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md
+
+Task context:
+Pessimistic review (pessimistic-2026-03-15.md) found: (1) asymmetric vulnerability treatment—materialist positions get detailed objections but the Map's own open problems aren't acknowledged; (2) missing citations for Levine (1983), Block (1978), McGinn (1989); (3) phenomenal concepts strategy needs fuller engagement with Papineau's (2002) circularity rebuttal; (4) article at ~4000 words exceeds 3000-word style guide max—compress subsections with dedicated articles.
 
 ### ✓ 2026-03-15: Integrate probability/decision-theory objections to MWI into existing many-worlds articles
 - **Type**: refine-draft

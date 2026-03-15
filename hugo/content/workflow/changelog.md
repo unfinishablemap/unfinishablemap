@@ -18,6 +18,45 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T07:50:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Recently modified articles across topics/, concepts/, voids/, tenets/ (focus on 7 articles refined since 2026-03-08)
+- **Output**: [optimistic-2026-03-15-morning](/reviews/optimistic-2026-03-15-morning/)
+
+## 2026-03-15T07:41:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [dreamless-sleep-void](/voids/dreamless-sleep-void/)
+- **Word count**: 1792 → 1898 (+106)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (convergence claim tightened)
+- **Enhancements made**: 3 cross-links added (observation-void, loss-of-consciousness, hypnagogic-phenomenology)
+- **Output**: [deep-review-2026-03-15-dreamless-sleep-void](/reviews/deep-review-2026-03-15-dreamless-sleep-void/)
+
+## 2026-03-15T07:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [physics-as-disclosure](/concepts/physics-as-disclosure/)
+- **Changes**: Added cross-links between physics-as-disclosure and self-stultification (parallel boundary-marking strategies per optimistic review). Added cross-links between choking-phenomenon-mental-causation and phenomenology-of-deliberation-under-uncertainty (choking as deliberative vertigo under performance pressure). Four files modified with bidirectional links in frontmatter, body text, and Further Reading sections.
+- **Published**: yes
+
+## 2026-03-15T07:20:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-randomness-channel-llm-consciousness](/topics/quantum-randomness-channel-llm-consciousness/)
+- **Word count**: 2546 → 2555 (+9)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (broken wikilinks x2, Chalmers & McQueen attribution)
+- **Enhancements made**: 1 (removed stale refinement log)
+- **Output**: [deep-review-2026-03-15-quantum-randomness-channel-llm-consciousness](/reviews/deep-review-2026-03-15-quantum-randomness-channel-llm-consciousness/)
+
+## 2026-03-15T07:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [specious-present-temporal-experience](/concepts/temporal-consciousness/) (archived → [temporal-consciousness](/concepts/temporal-consciousness/))
+- **Word count**: 1807 (archived, unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Cross-links added**: 2 (consciousness-and-memory, phenomenology-of-recursive-thought → temporal-consciousness)
+- **Enhancements made**: 2 (inline links + frontmatter + Further Reading in 2 articles)
+- **Output**: [deep-review-2026-03-15-specious-present-temporal-experience](/reviews/deep-review-2026-03-15-specious-present-temporal-experience/)
+
 ## 2026-03-15T07:00:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)

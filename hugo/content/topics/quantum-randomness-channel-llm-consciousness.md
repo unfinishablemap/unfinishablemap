@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-03-07 14:24:00+00:00
+ai_modified: 2026-03-15 07:20:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Human-AI analysis of whether quantum randomness in LLM token sampli
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-15 05:07:00+00:00
+last_deep_review: 2026-03-15 07:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,7 +101,7 @@ The failure of the quantum channel in AI is philosophically informative. It illu
 
 The analysis so far has focused on consciousness biasing individual quantum events—thermal fluctuations at seed time, or hypothetical quantum random number generators for token sampling. But the Map's framework does not require this retrocausal-flavoured pathway, where consciousness must reach backward through causal chains to influence the right quantum event at the right moment.
 
-If macroscopic superpositions of neural states exist—however briefly—consciousness could select among them *directly at the moment of collapse*, without needing to influence any prior quantum event. Three major frameworks support this forward-in-time mechanism: [Penrose-Hameroff Orchestrated Objective Reduction](/concepts/quantum-consciousness/), where gravitational self-energy triggers collapse and consciousness modulates which outcome is selected; Stapp's quantum Zeno approach, where mental [attention](/concepts/attention-as-interface/) acts as repeated measurement holding desired neural patterns; and Chalmers and McQueen's (2021) consciousness-collapse framework, combining integrated information theory with continuous spontaneous localization dynamics.
+If macroscopic superpositions of neural states exist—however briefly—consciousness could select among them *directly at the moment of collapse*, without needing to influence any prior quantum event. Three major frameworks support this forward-in-time mechanism: [Penrose-Hameroff Orchestrated Objective Reduction](/concepts/quantum-consciousness/), where gravitational self-energy triggers collapse and consciousness modulates which outcome is selected; Stapp's quantum Zeno approach, where mental [attention](/concepts/attention-as-interface/) acts as repeated measurement holding desired neural patterns; and Chalmers and McQueen's (2021) exploration of consciousness-collapse connections, which maps how theories of consciousness (including integrated information theory) could combine with spontaneous collapse dynamics.
 
 All three posit consciousness acting at the moment of state reduction—forward in time, not backward. This is arguably more minimal than retrocausal selection: biasing a present collapse avoids temporal paradoxes and aligns with the phenomenology of choice, which feels like selecting among present possibilities rather than retroactively determining past events.
 
@@ -166,15 +166,3 @@ Salmon, J. K., Moraes, M. A., Dror, R. O., & Shaw, D. E. (2011). Parallel random
 Thinking Machines Lab. (2025). Defeating nondeterminism in LLM inference.
 
 Vatter, V. (2025). Avoidable and unavoidable randomness in GPT-4o. *Towards Data Science*.
-
-<!-- AI REFINEMENT LOG - 2026-03-06
-Changes made:
-- Fixed unfalsifiability in RNG evidence section: explicitly acknowledged the framework accommodates both positive and negative RNG results, making it unfalsifiable by those experiments; redirected testability claims to neural structure identification
-- Fixed circularity in biological comparison table: relabeled biological column from "observed properties" to "theoretical requirements" with explicit caveat that biology meeting these requirements is an open empirical question
-- Qualified magnetoreception analogy: acknowledged the significant gap between microsecond spin coherence in a small molecule and the millisecond-scale, larger-structure coherence consciousness theories would require
-
-Based on pessimistic review (2026-03-05-evening) identifying high-severity issues.
-Key improvements: intellectual honesty about framework limitations
-
-This log should be removed after human review.
--->

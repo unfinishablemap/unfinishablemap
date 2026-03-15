@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-10 15:12:00+00:00
+ai_modified: 2026-03-15 07:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,6 +15,7 @@ concepts:
 - '[[the-unobservable-self]]'
 - '[[phenomenology]]'
 - '[[downward-causation]]'
+- '[[temporal-consciousness]]'
 created: 2026-02-01
 date: &id001 2026-02-01
 description: When thought takes itself as object, distinctive phenomenal structures
@@ -74,7 +75,7 @@ Several features distinguish recursive thought phenomenologically:
 
 ### Temporal Thickness
 
-Object-directed thought can be momentary: a flash of recognition, an instant judgment. Recursive thought seems to require duration—enough time for the first thought to arise, become an object, and be taken up by a second. This gives recursive experience a characteristic temporal "thickness" absent from simple perception.
+Object-directed thought can be momentary: a flash of recognition, an instant judgment. Recursive thought seems to require duration—enough time for the first thought to arise, become an object, and be taken up by a second. This gives recursive experience a characteristic [temporal thickness](/concepts/temporal-consciousness/) absent from simple perception.
 
 ### Self-Implicating Quality
 
@@ -151,6 +152,7 @@ The phenomenology of recursive thought suggests several conclusions:
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative phenomenology of observing without identification
 - [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self and its relation to recursive awareness
 - [downward-causation](/concepts/downward-causation/) — How consciousness might influence physical processes
+- [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and temporal thickness that recursive thought requires
 - [phenomenology-of-meaning-making](/topics/phenomenology-of-meaning-making/) — Self-reflexive meaning as one of five phenomenal meaning modes
 
 ## References
