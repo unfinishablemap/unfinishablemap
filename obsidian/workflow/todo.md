@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on Born rule derivation failures and consciousness-collapse
+- **Type**: expand-topic
+- **Notes**: Research completed in research/born-rule-derivation-attempts-2026-03-14.md. Major attempts to derive the Born rule from deeper principles (Gleason, Zurek, Deutsch-Wallace, Vaidman) all fall short, suggesting probability in quantum mechanics may have a consciousness-facing element that resists purely physical derivation. The Born rule's resistance to derivation is evidence that measurement outcomes involve something beyond unitary physics. Target section: topics/. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-15
+
+### P2: Write article on Wheeler's "It from Bit" and participatory ontology
+- **Type**: expand-topic
+- **Notes**: Research completed in research/wheeler-it-from-bit-2026-03-14.md. Wheeler's thesis that information is fundamental and observation constitutes reality directly supports the Map's participatory framework. Covers the delayed-choice experiment, participatory universe, and how Wheeler's programme connects to consciousness-collapse interpretations. Target section: topics/. Supports Tenets 1 (Dualism) and 2 (Minimal Quantum Interaction).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-15
+
+### P2: Write article on Penrose gravity-induced collapse and empirical prospects
+- **Type**: expand-topic
+- **Notes**: Research completed in research/penrose-gravity-collapse-empirical-2026-03-14.md. Penrose's proposal that gravitational self-energy triggers objective reduction at a calculable threshold now has empirical testing prospects (optomechanical superpositions, molecular interferometry, space-based experiments). Key for the Map because if Penrose's threshold is confirmed, it constrains where consciousness-collapse can operate. Target section: topics/. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-15
+
+### P2: Refine measurement-problem.md with Gödel-measurement problem analogy
+- **Type**: refine-draft
+- **Notes**: Research in research/godel-measurement-problem-analogy-2026-03-14.md identifies a principled analogy between Gödel's incompleteness and the measurement problem — both reveal structural limits where a formal system cannot fully describe itself. The analogy has scope and limits worth integrating into the existing measurement-problem.md concept page to strengthen the "physics discloses its own boundary" argument. Also cross-reference physics-as-disclosure.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-15
+
+### P2: Refine quantum-probability-consciousness.md with completeness disambiguation
+- **Type**: refine-draft
+- **Notes**: Research in research/completeness-in-physics-epr-bell-2026-03-14.md identifies six distinct meanings of "completeness" conflated in quantum foundations (EPR, Bell, Kochen-Specker, PBR, informational, dynamical). The existing quantum-probability-consciousness.md should disambiguate these senses to prevent equivocation when arguing that quantum probability points toward consciousness. Strengthen precision of the consciousness-collapse argument.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-15
+
 ### P3: Deep review consciousness-and-the-ontology-of-temporal-becoming.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created by coalesce, never reviewed. Topics article combining temporal ontology and temporal becoming — core to the Map's temporal consciousness cluster. Verify coherence, cross-references, and tenet alignment.
