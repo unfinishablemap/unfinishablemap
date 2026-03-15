@@ -689,12 +689,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-03-15
 
-### P2: Integrate probability-objections-many-worlds.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Concept page (created 2026-03-05) on decision-theoretic and probability objections to Many Worlds — directly supports Tenet 4 (No Many Worlds). Add cross-references from many-worlds-interpretation.md, quantum-probability-consciousness.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-15
-
 ### P2: Integrate consciousness-collapse-arrow-of-time.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Concept page (created 2026-02-24) on the relationship between consciousness-collapse and the arrow of time. Add cross-references from consciousness-collapse-theories.md, time-symmetric-physics.md, temporal-consciousness.md, and related articles.
@@ -727,6 +721,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Integrate probability-objections-many-worlds.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page (created 2026-03-05) on decision-theoretic and probability objections to Many Worlds — directly supports Tenet 4 (No Many Worlds). Add cross-references from many-worlds-interpretation.md, quantum-probability-consciousness.md, and related articles.
+- **Output**: probability-objections-many-worlds.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-15: Refine russellian-monism.md with new research findings
 - **Type**: refine-draft

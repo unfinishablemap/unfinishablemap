@@ -4,7 +4,7 @@ description: "Quantum mechanics' central puzzle: why measurement yields definite
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-15T03:14:00+00:00
+ai_modified: 2026-03-15T04:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -114,7 +114,7 @@ The original pragmatic approach: collapse is a rule for predictions, not a physi
 
 All outcomes occur. The universe branches at every quantum event, all branches equally real—no collapse, just its appearance from within each branch.
 
-**Relation to site tenets:** **Directly rejected** by [[tenets#^no-many-worlds|No Many Worlds]]. See [[concepts/many-worlds]] for detailed arguments. Key objections: (1) indexical—why am I *this* branch?; (2) probability—what does "70% probable" mean if all outcomes occur?; (3) eliminates [[mental-causation]] entirely—consciousness makes no causal difference if all outcomes occur regardless.
+**Relation to site tenets:** **Directly rejected** by [[tenets#^no-many-worlds|No Many Worlds]]. See [[concepts/many-worlds]] for detailed arguments. Key objections: (1) indexical—why am I *this* branch?; (2) [[probability-problem-in-many-worlds|probability]]—what does "70% probable" mean if all outcomes occur?; (3) eliminates [[mental-causation]] entirely—consciousness makes no causal difference if all outcomes occur regardless.
 
 MWI has sophisticated responses. Wallace derives Born probabilities from decision-theoretic coherence, showing what rational betting requires—not what probabilities mean when all outcomes occur.
 
