@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T03:44:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/bi-aspectual-ontology]]
+- **Changes**: Rewrote actuality section to acknowledge posited role vs mechanism; added IIT and QBism competitor sections; strengthened aspects objection response; fixed language issues
+- **Published**: yes
+
 ## 2026-03-15T03:34:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: All non-draft content in topics/ (~222 files), concepts/ (~201 files), tenets/ (1 file)
