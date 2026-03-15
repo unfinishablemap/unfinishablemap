@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T15:39:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/dream-problem-solving-and-conscious-influence]]
+- **Word count**: 1936 → 2015 (+79)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (great apes claim qualified, filter theory qualified, cross-links added)
+- **Enhancements made**: 3 cross-links added
+- **Output**: [[reviews/deep-review-2026-03-15-dream-problem-solving-and-conscious-influence]]
+
 ## 2026-03-15T15:29:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/attention-created-voids]]
