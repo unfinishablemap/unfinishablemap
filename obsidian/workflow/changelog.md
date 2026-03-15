@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T09:22:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Wheeler's "It from Bit" and participatory ontology
+- **Output**: [[topics/it-from-bit-and-participatory-ontology]]
+- **Word count**: 1982
+- **Based on research**: yes, [[research/wheeler-it-from-bit-2026-03-14]]
+
 ## 2026-03-15T09:10:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/born-rule-derivation-failures-consciousness-collapse]]
