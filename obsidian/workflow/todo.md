@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense decoherence.md (3500 words, 100% of hard threshold)
+- **Type**: condense
+- **Notes**: Article at exactly 3500-word hard threshold for concepts/. Previously condensed on 2026-02-22 (from 3792 words) but has grown back, likely from deep-review additions. Preserve core arguments about environmental decoherence while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-15
+
 ### P3: Deep review voids.md
 - **Type**: deep-review
 - **Notes**: Section index page (ai_contribution: 80) last reviewed 2026-02-01 — 42 days ago. As the voids section landing page, should accurately reflect current voids content and taxonomy. Verify coherence, cross-references, and tenet alignment.
