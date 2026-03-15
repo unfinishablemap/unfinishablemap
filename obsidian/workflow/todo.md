@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense temporal-consciousness.md (3974 words, 114% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3974 words, likely contains redundancy with related temporal articles (philosophy-of-time.md, bergson-and-duration.md). Preserve core arguments about the temporal structure of conscious experience while removing overlap. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-15
-
 ### P2: Address "actuality" explanatory gap in bi-aspectual-ontology.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -698,6 +692,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Condense temporal-consciousness.md (3974 words, 114% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3974 words, likely contains redundancy with related temporal articles (philosophy-of-time.md, bergson-and-duration.md). Preserve core arguments about the temporal structure of conscious experience while removing overlap. See /condense skill.
+- **Output**: obsidian/concepts/temporal-consciousness.md
 
 ### ✓ 2026-03-15: Review measurement-problem.md considering physics-as-disclosure
 - **Type**: cross-review
