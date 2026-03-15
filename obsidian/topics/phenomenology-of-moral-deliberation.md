@@ -4,7 +4,8 @@ description: "What moral deliberation feels like from the inside—weighing comp
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-15T11:19:00+00:00
+ai_modified: 2026-03-15T11:39:00+00:00
+last_deep_review: 2026-03-15T11:39:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-moral-experience]]"
@@ -46,7 +47,7 @@ Consider the parent deciding whether to attend their child's school performance 
 
 This qualitative distinctness is philosophically significant. Utilitarian calculation assumes that competing moral demands can be placed on a single scale. The phenomenology suggests otherwise. The parent does not experience "3.7 units of obligation to the child versus 4.2 units to the relative." They experience two incommensurable demands, each presenting its own case in its own register. Ruth Chang's work on incommensurability resonates here: when values cannot be ranked on a single scale, the choice between them requires something beyond weighing—it requires the agent to *commit*.
 
-The experience of competing claims also has a spatial metaphor that recurs across descriptions: moral demands pull in different *directions*. This is not merely a linguistic convenience. The felt directionality of moral claims—each orienting the deliberator toward a different action—structures the deliberative experience as a tension between forces rather than a comparison between options.
+The experience of competing claims also has a felt directionality—moral demands pull in different *directions*, structuring deliberation as a tension between forces rather than a comparison between options. This directional quality, studied within [[moral-phenomenology]], is not merely a linguistic convenience but a structural feature of the deliberative experience.
 
 ## Deliberative Attention and Its Oscillation
 
@@ -124,7 +125,7 @@ The [[tenets#^dualism|dualism tenet]] finds resonance in the irreducibility of d
 
 The [[tenets#^bidirectional-interaction|bidirectional interaction tenet]] is the most directly relevant. Moral deliberation presents itself as a process in which consciousness actively participates. As discussed in the sections on circularity and dual-process psychology, this self-presentation cannot be taken at face value—some of it may be post-hoc narrative, and dual-process research shows that intuitive processing handles more of the work than the deliberative surface suggests. The argument is therefore inferential: across the full range of deliberative experience—including extended real-world cases where positions genuinely shift over time—the pattern is better explained by conscious participation than by systematic epiphenomenal coincidence.
 
-The [[tenets#^no-many-worlds|rejection of many-worlds]] finds phenomenological support in the felt gravity of moral decision. The experience of moral deliberation is constituted by the sense that *this* choice is the one that will obtain—not one actualisation among infinitely many. If every moral choice branched into all its alternatives, the phenomenal weight of deliberation would be systematically misleading about the structure of reality.
+The [[tenets#^no-many-worlds|rejection of many-worlds]] finds phenomenological support in the indexical structure of moral deliberation. The deliberator experiences themselves as the single locus of a choice that will determine one outcome. Under many-worlds, every option is actualised by some successor, and the question "what should *I* do?" loses its grip when every answer obtains. The phenomenology of moral gravity presupposes that outcomes are genuinely selected, not merely branched into.
 
 The [[tenets#^occams-limits|Occam's Razor tenet]] applies to accounts that dismiss deliberative phenomenology as mere neural computation dressed in experiential clothing. The "simpler" account—consciousness plays no role in decision-making—achieves its simplicity by ignoring the primary data. When the data is the felt character of one's own moral reasoning, dismissing it requires stronger grounds than parsimony alone can provide.
 
