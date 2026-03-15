@@ -4,7 +4,8 @@ description: "Penrose argues spacetime instability causes quantum collapse—a t
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-15T09:40:00+00:00
+ai_modified: 2026-03-15T13:29:00+00:00
+last_deep_review: 2026-03-15T13:29:00+00:00
 draft: false
 topics:
   - "[[philosophical-stakes-of-spontaneous-collapse]]"
@@ -74,6 +75,16 @@ Orch OR faces serious challenges. Tegmark calculated decoherence times in microt
 
 Crucially, Penrose himself is not a dualist. He seeks consciousness within physics—through new physical laws governing objective reduction—rather than positing anything beyond the physical. The Map can adopt the gravitational collapse mechanism while diverging from Penrose's ontological commitments, treating OR as the physical side of a mind-matter interface rather than as the whole explanation.
 
+Orch OR's requirement for macroscopic quantum coherence across microtubule networks also sits uneasily with the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet, which demands the *smallest possible* non-physical influence. Penrose's suggestion that each OR event carries proto-conscious experience implies a panpsychism the Map does not endorse. The [[comparing-quantum-consciousness-mechanisms|comparative evaluation of quantum consciousness mechanisms]] examines this tension in detail.
+
+## From Collapse Mechanism to Consciousness Modulation
+
+A conceptual gap separates Penrose's proposal from the Map's use of it. Gravitational OR determines *when* collapse occurs—the timescale τ ≈ ℏ/E_Δ is fixed by physics. But it does not determine *which outcome* collapse selects. When a superposition resolves, the specific result (which position, which configuration) remains probabilistic. This is where consciousness could operate: not by triggering or delaying collapse, but by biasing which of the allowed outcomes becomes actual.
+
+The Map's framework treats gravitational OR as providing the *occasion* for collapse while consciousness, in neural systems, influences the *selection* among outcomes permitted by the Born rule. This parallels how [[spontaneous-collapse-theories|GRW and CSL]] provide baseline collapse that consciousness modulates rather than creates. The crucial point: consciousness need not intervene in the gravity-determined threshold. It operates downstream, at the moment of outcome selection, where quantum mechanics leaves the result genuinely open.
+
+Whether this selection operates through attentional observation (as [[stapp-quantum-mind|Stapp's Zeno model]] proposes) or through modulation of collapse parameters in high-Φ systems (as the [[comparing-quantum-consciousness-mechanisms|CSL-IIT hybrid]] suggests) remains an open question. What gravitational OR contributes is a physically motivated *reason* for collapse to occur at all—removing the need for consciousness to create collapse from nothing.
+
 ## Relation to Site Perspective
 
 Penrose's gravitational OR aligns with the Map's tenets in specific and important ways.
@@ -93,6 +104,9 @@ The partial falsification of the parameter-free DP model is instructive. It show
 - [[spontaneous-collapse-theories]]
 - [[philosophical-stakes-of-spontaneous-collapse]]
 - [[prebiotic-collapse]]
+- [[comparing-quantum-consciousness-mechanisms]] — head-to-head evaluation of Orch OR, Stapp, Fisher, and CSL-IIT against shared criteria
+- [[consciousness-and-mathematical-cognition]] — Penrose's Gödelian argument for non-computable consciousness
+- [[quantum-biology-and-the-consciousness-debate]] — quantum effects in biological systems, shifting the burden of proof
 - [[qm-interpretations-beyond-many-worlds]]
 - [[what-consciousness-tells-us-about-physics]]
 - [[decoherence-and-macroscopic-superposition]]
