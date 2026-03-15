@@ -1,10 +1,10 @@
 ---
-title: "Psychophysical Laws"
-description: "Fundamental principles connecting conscious experience to physical processes. Chalmers' framework for bridging the explanatory gap, plus the coupling mechanisms interactionist dualism requires."
+title: "Psychophysical Laws and Coupling"
+description: "Fundamental principles connecting conscious experience to physical processes. Chalmers' framework, the coupling that bridges mind and matter, constraints on any adequate coupling, and candidate mechanisms."
 created: 2026-01-16
-modified: 2026-02-16
+modified: 2026-03-15
 human_modified: null
-ai_modified: 2026-03-05T05:18:00+00:00
+ai_modified: 2026-03-15T08:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,8 @@ concepts:
   - "[[phenomenal-consciousness]]"
   - "[[binding-problem]]"
   - "[[coupling-modes]]"
+  - "[[bidirectional-interaction]]"
+  - "[[neural-correlates-of-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[psychophysical-laws-bridging-mind-and-matter]]"
@@ -38,6 +40,10 @@ related_articles:
   - "[[psychophysical-coupling-problem-2026-01-15]]"
   - "[[brain-specialness-boundary-2026-01-15]]"
   - "[[concepts/epiphenomenalism]]"
+  - "[[princess-elizabeths-challenge]]"
+  - "[[the-epiphenomenalist-threat]]"
+  - "[[bandwidth-problem-mental-causation]]"
+  - "[[the-interface-specification-problem]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -47,11 +53,12 @@ last_deep_review: 2026-03-05T05:18:00+00:00
 coalesced_from:
   - "/concepts/psychophysical-laws/"
   - "/concepts/psychophysical-coupling/"
+  - "/concepts/psychophysical-coupling/"
 ---
 
-Psychophysical laws are fundamental principles connecting conscious experience to physical processes. If consciousness is ontologically distinct from physics—as The Unfinishable Map's [[tenets#^dualism|Dualism tenet]] holds—then no purely physical explanation can account for why particular brain states are accompanied by particular experiences. New laws are needed: laws relating phenomenal properties to physical properties at the most basic level. But specifying that such laws are needed is not enough. [[interactionist-dualism|Interactionist dualism]] faces a specification problem: *which* phenomenal properties map to *which* physical selections with enough precision to generate falsifiable predictions?
+Psychophysical laws are fundamental principles connecting conscious experience to physical processes. Psychophysical coupling is the lawful relationship those laws describe — the bridge binding conscious states to physical parameters. If consciousness is ontologically distinct from physics — as The Unfinishable Map's [[tenets#^dualism|Dualism tenet]] holds — then no purely physical explanation can account for why particular brain states are accompanied by particular experiences. New laws are needed: laws relating phenomenal properties to physical properties at the most basic level. As Chalmers put it: "Where we have new fundamental properties, we also have new fundamental laws" (Chalmers 1995). But specifying that such laws are needed is not enough. [[interactionist-dualism|Interactionist dualism]] faces a specification problem: *which* phenomenal properties map to *which* physical selections with enough precision to generate falsifiable predictions?
 
-David Chalmers developed the most influential framework for psychophysical laws, arguing that consciousness requires extending our fundamental ontology. The Map builds on Chalmers while making different choices at key junctions—most critically, insisting on *downward* causation (phenomenal → physical selection) where Chalmers emphasizes *upward* laws (physical → phenomenal). This article covers both the framework (why psychophysical laws are needed and what structure they must have) and the coupling problem (what specific laws and mechanisms might look like). For an integrated overview, see [[psychophysical-laws-bridging-mind-and-matter]].
+David Chalmers developed the most influential framework for psychophysical laws, arguing that consciousness requires extending our fundamental ontology. The Map builds on Chalmers while making different choices at key junctions — most critically, insisting on *downward* causation (phenomenal → physical selection) where Chalmers emphasises *upward* laws (physical → phenomenal). This article covers the framework (why psychophysical laws are needed and what structure they must have), the coupling that those laws describe (what connects mind to matter, and the constraints any adequate coupling must satisfy), and candidate mechanisms. For an integrated overview, see [[psychophysical-laws-bridging-mind-and-matter]].
 
 ## Why Physics Alone Fails
 
@@ -99,14 +106,36 @@ The Map builds on Chalmers' framework but makes different choices at key junctio
 
 ## The Coupling Problem
 
-Without specifying *which* phenomenal properties map to *which* physical selections, "consciousness selects" remains a metaphor rather than a research program. [[psychophysical-coupling|Psychophysical coupling]] — the lawful relationship between conscious states and physical processes — names the bridge that any adequate theory must provide. A psychophysical coupling law would specify:
+Without specifying *which* phenomenal properties map to *which* physical selections, "consciousness selects" remains a metaphor rather than a research program. Psychophysical coupling — the lawful relationship between conscious states and physical processes — names the bridge that any adequate theory must provide. This is the modern form of [[princess-elizabeths-challenge|Princess Elisabeth's challenge]] to Descartes: how can something non-physical causally relate to something physical? The relationship cannot be identity (materialist reduction), because the [[hard-problem-of-consciousness|hard problem]] shows phenomenal properties resist identification with physical properties. It cannot be mere coincidence, because the correlations are lawful and stable. So coupling must be a *sui generis* lawful relationship — a fundamental feature of reality that connects two irreducible domains.
+
+A psychophysical coupling law would specify:
 
 1. **Variables on the mental side**: What aspects of conscious experience map to selection? Attention? Intention? Valence? Effort?
 2. **Variables on the physical side**: What quantum degrees of freedom are targetable? Individual outcomes? Probability weights? Basis choice?
 3. **Bandwidth**: How much information can consciousness inject per unit time?
 4. **Scope constraints**: What is *not* selectable?
 
-What Schaffer calls the "t-shirt problem"—the lack of a compact systematization of psychophysical correlations—remains unsolved.
+What Schaffer calls the "t-shirt problem"—the lack of a compact systematization of psychophysical correlations—remains unsolved. The [[the-interface-specification-problem|interface specification problem]] develops this challenge further — specifying not just *that* coupling exists but *how* the mapping between phenomenal and physical variables works in detail.
+
+### Constraints on Coupling
+
+Any adequate psychophysical coupling must satisfy several constraints simultaneously:
+
+**Lawfulness.** Coupling must be stable and systematic, not arbitrary. The same mental state in the same physical context must produce the same result. Otherwise, coupling would be indistinguishable from noise.
+
+**Minimality.** The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] demands that coupling alter physics as little as possible. Consciousness biases otherwise indeterminate quantum outcomes without injecting energy or violating [[conservation-laws-and-mental-causation|conservation laws]].
+
+**Bandwidth limits.** Conscious processing operates at approximately 10 bits per second (Zheng & Meister 2025) — five million times slower than unconscious sensory processing. Coupling must respect this bottleneck. Selection is coarse-grained: action patterns and attentional focus, not individual neurons. The [[bandwidth-problem-mental-causation|bandwidth problem in mental causation]] develops this constraint in detail.
+
+**Scope restriction.** Coupling appears limited to the subject's own brain. You cannot select quantum outcomes in someone else's neural system or in external physical apparatus. This follows from coupling operating through attention, which is neurally implemented and first-personal.
+
+**Physical compatibility.** Coupling must not produce empirically detectable violations of established physics. The [[coupling-modes|basis and timing control modes]] favoured by the Map preserve Born statistics, making coupling consistent with all precision experiments to date.
+
+### Coupling vs. Correlation
+
+Psychophysical coupling is not the same as the [[neural-correlates-of-consciousness|neural correlates of consciousness]] (NCCs). NCCs catalogue which brain states accompany which experiences — they map correlations. Coupling specifies *why* those correlations hold and, critically, whether they support causal influence in both directions.
+
+An NCC programme is compatible with [[concepts/epiphenomenalism|epiphenomenalism]]: correlations can be one-way. The coupling concept commits to something stronger — that the relationship between mind and matter is genuinely causal in both directions, governed by fundamental laws, and in principle specifiable. As [[the-epiphenomenalist-threat|the epiphenomenalist threat]] analysis shows, most theories of consciousness default to epiphenomenalism unless they provide a specific downward coupling mechanism.
 
 ## Candidate Coupling Laws
 
@@ -201,11 +230,17 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - [[psychophysical-laws-bridging-mind-and-matter]] — Integrated overview: Chalmers' framework, upward-downward asymmetry, and coupling mechanisms
 - [[selection-laws]] — The downward direction: how conscious states select physical outcomes
 - [[coupling-modes]] — Taxonomy of coupling: basis, timing, or probability control
+- [[bidirectional-interaction]] — Why coupling must run in both directions
+- [[attention-as-interface]] — The primary candidate for coupling's mental variable
 - [[stapp-quantum-mind]] — Detailed treatment of attention-observation mechanism
 - [[mental-causation]] — How consciousness causes physical effects
 - [[quantum-consciousness]] — Major theories of quantum-consciousness interface
 - [[decoherence]] — The decoherence challenge and biological quantum effects
 - [[concepts/epiphenomenalism]] — The view Chalmers tends toward (and the Map rejects)
+- [[the-epiphenomenalist-threat]] — Why most theories default to epiphenomenalism without explicit coupling
+- [[princess-elizabeths-challenge]] — The historical form of the coupling problem
+- [[bandwidth-problem-mental-causation]] — The bandwidth constraint on conscious selection
+- [[the-interface-specification-problem]] — The challenge of specifying the mind-matter mapping
 - [[concepts/functionalism]] — The view the Map rejects
 - [[haecceity]] — Why organizational invariance is rejected
 - [[chalmers-psychophysical-laws-2026-01-17]] — Research notes on Chalmers' framework

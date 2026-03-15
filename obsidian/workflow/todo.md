@@ -55,6 +55,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
+### P2: Update references to coalesced psychophysical-coupling
+- **Type**: cross-review
+- **Notes**: Coalesce merged psychophysical-coupling.md into psychophysical-laws.md. 27 active content files reference `[[psychophysical-coupling]]` and should be updated to `[[psychophysical-laws]]` or `[[psychophysical-laws|psychophysical coupling]]`. Key files: attention-as-interface.md, bidirectional-interaction.md, interactionist-dualism.md, mental-causation.md, selection-laws.md, hard-problem-of-consciousness.md, princess-elizabeths-challenge.md, brain-specialness-boundary.md, and others.
+- **Source**: coalesce
+- **Generated**: 2026-03-15
+
 ### P3: Deep review intersubjective-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the intersubjective void — the impossibility of fully sharing or verifying another's experience. Verify coherence, cross-references, and tenet alignment.

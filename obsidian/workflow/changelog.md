@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T08:40:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[psychophysical-coupling]], [[psychophysical-laws]]
+- **Target**: [[psychophysical-laws]] (enhanced with coupling content)
+- **Archived**: [[archive/concepts/psychophysical-coupling-2]]
+- **References to review**: 27 files reference `[[psychophysical-coupling]]` and may need updating
+
 ## 2026-03-15T08:32:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/emergence-void]]
