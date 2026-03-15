@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T13:49:00+00:00 - research-voids
+- **Status**: Skipped (section at capacity)
+- **Reason**: Voids section has 105 articles, exceeding cap of 100
+- **Action**: No new research generated. Automation should focus on improving existing voids articles (reviews, condensing, coalescing).
+
 ## 2026-03-15T13:40:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/recursion-void]]
