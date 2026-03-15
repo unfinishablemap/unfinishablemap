@@ -73,12 +73,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-15
 
-### P2: Write article on Penrose gravity-induced collapse and empirical prospects
-- **Type**: expand-topic
-- **Notes**: Research completed in research/penrose-gravity-collapse-empirical-2026-03-14.md. Penrose's proposal that gravitational self-energy triggers objective reduction at a calculable threshold now has empirical testing prospects (optomechanical superpositions, molecular interferometry, space-based experiments). Key for the Map because if Penrose's threshold is confirmed, it constrains where consciousness-collapse can operate. Target section: topics/. Supports Tenet 2 (Minimal Quantum Interaction).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-15
-
 ### P3: Deep review consciousness-and-the-ontology-of-temporal-becoming.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created by coalesce, never reviewed. Topics article combining temporal ontology and temporal becoming — core to the Map's temporal consciousness cluster. Verify coherence, cross-references, and tenet alignment.
@@ -783,6 +777,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Write article on Penrose gravity-induced collapse and empirical prospects
+- **Type**: expand-topic
+- **Notes**: Research completed in research/penrose-gravity-collapse-empirical-2026-03-14.md. Penrose's proposal that gravitational self-energy triggers objective reduction at a calculable threshold now has empirical testing prospects (optomechanical superpositions, molecular interferometry, space-based experiments). Key for the Map because if Penrose's threshold is confirmed, it constrains where consciousness-collapse can operate. Target section: topics/. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: Penrose gravity-induced collapse and empirical prospects
 
 ### ✓ 2026-03-15: Write article on Wheeler's "It from Bit" and participatory ontology
 - **Type**: expand-topic
