@@ -4,7 +4,7 @@ description: "The measurement problem is not a deficiency in quantum mechanics b
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-15T02:01:00+00:00
+ai_modified: 2026-03-15T07:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,6 +15,7 @@ concepts:
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
   - "[[spontaneous-collapse-theories]]"
+  - "[[self-stultification]]"
 related_articles:
   - "[[tenets]]"
   - "[[what-consciousness-tells-us-about-physics]]"
@@ -86,7 +87,7 @@ Several considerations favour the disclosure reading from the Map's perspective:
 
 1. **Duration of the problem.** A century without resolution is unusual for physics. Most foundational puzzles — Mercury's precession, ultraviolet catastrophe, the aether — were resolved or clearly dissolved within decades. One could argue the measurement problem is merely interpretational rather than empirical, which would explain the delay without invoking disclosure. But the measurement problem is not purely interpretational: it concerns the physical process by which one outcome obtains. Its persistence is expected on the disclosure reading, anomalous on the deficiency reading.
 
-2. **Structural parallel with the hard problem.** Both the measurement problem and the [[hard-problem-of-consciousness]] mark points where third-person description fails to capture first-person facts. If this parallel is not coincidental — if both disclose the same boundary — the measurement problem is philosophical rather than physical. See [[the-measurement-problem-as-philosophical-problem]] for the full argument.
+2. **Structural parallel with the hard problem.** Both the measurement problem and the [[hard-problem-of-consciousness]] mark points where third-person description fails to capture first-person facts. If this parallel is not coincidental — if both disclose the same boundary — the measurement problem is philosophical rather than physical. See [[the-measurement-problem-as-philosophical-problem]] for the full argument. The [[self-stultification]] argument operates as a parallel boundary-marker: just as disclosure reveals where structural description ends and actuality begins, self-stultification reveals where purely physical explanation undermines its own rational credentials. Both strategies converge on the same conclusion — that structural description, however complete within its domain, cannot be the whole story.
 
 3. **Decoherence's clean partition.** Decoherence's ability to handle all structural aspects while leaving the actuality question untouched is predicted by disclosure, not expected on deficiency.
 
@@ -115,6 +116,7 @@ None of these is individually decisive. The deficiency reading remains viable �
 - [[what-consciousness-tells-us-about-physics]] — The reverse inference that disclosure grounds
 - [[decoherence]] — Why decoherence supports rather than undermines the disclosure reading
 - [[the-measurement-problem-as-philosophical-problem]] — The structural parallel with the hard problem
+- [[self-stultification]] — A parallel boundary-marker: structural explanation undermining its own rational credentials
 - [[quantum-probability-consciousness]] — Born probabilities as interface specification
 
 ## References
@@ -125,3 +127,16 @@ None of these is individually decisive. The deficiency reading remains viable �
 4. Newton, I. (1693). Letter to Richard Bentley, 25 February 1693.
 5. Southgate, A. & Oquatre-six, C. (2026-03-15). Bi-Aspectual Ontology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bi-aspectual-ontology/
 6. Southgate, A. & Oquatre-six, C. (2026-03-14). What Consciousness Tells Us About Physics. *The Unfinishable Map*. https://unfinishablemap.org/apex/what-consciousness-tells-us-about-physics/
+
+<!-- AI REFINEMENT LOG - 2026-03-15
+Changes made:
+- Added cross-link to self-stultification as a parallel boundary-marking strategy (frontmatter, body, Further Reading)
+- Added reciprocal link from self-stultification back to physics-as-disclosure
+- Added cross-link from choking-phenomenon-mental-causation to phenomenology-of-deliberation-under-uncertainty (choking as deliberative vertigo)
+- Added reciprocal link from phenomenology-of-deliberation-under-uncertainty to choking
+
+Based on optimistic review (optimistic-2026-03-15.md) cross-linking suggestions.
+Key improvements: Four files now connected via bidirectional links highlighting parallel structures.
+
+This log should be removed after human review.
+-->

@@ -4,7 +4,7 @@ description: "What it feels like to decide when outcomes are unknowable—the ve
 created: 2026-02-09
 modified: 2026-02-14
 human_modified:
-ai_modified: 2026-03-15T03:04:00+00:00
+ai_modified: 2026-03-15T07:30:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -27,6 +27,7 @@ related_articles:
   - "[[phenomenology-of-intellectual-effort]]"
   - "[[tenets]]"
   - "[[spontaneous-intentional-action]]"
+  - "[[choking-phenomenon-mental-causation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -62,6 +63,8 @@ This vertigo has several components:
 - **Counterfactual flooding.** The imagination generates alternative scenarios—"what if I choose the other way?"—and each scenario carries its own [[epistemic-emotions|emotional weight]]. [[counterfactual-reasoning|Counterfactual reasoning]] under uncertainty is phenomenologically different from counterfactual reasoning about known outcomes. When outcomes are uncertain, counterfactuals multiply without resolution: you cannot determine which scenario is most likely, so all remain phenomenally present.
 
 Deliberative vertigo is not a dysfunction. The Map proposes it is consciousness registering something real: the genuine openness of the situation. A system that merely computed expected utilities would not experience vertigo because vertigo arises from the recognition that computation is inadequate. The felt groundlessness tracks an actual absence of sufficient ground.
+
+The same structure appears in [[choking-phenomenon-mental-causation|choking under pressure]]: expert performers experience a version of deliberative vertigo directed at execution rather than decision. Under performance anxiety, consciousness registers a mismatch between what explicit monitoring can provide and what the task demands, producing inappropriate self-focused intervention that degrades automatised skill. Choking demonstrates that deliberative vertigo is not confined to choice — it arises wherever consciousness confronts the limits of its own explicit resources.
 
 ## Estimation as Phenomenal Achievement
 
@@ -149,6 +152,7 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 - [[introspective-opacity|volitional opacity]] — Why we cannot observe our own deciding
 - [[subjective-aim]] — The process-philosophical structure of commitment
 - [[temporal-consciousness]] — Why some moments are denser with experience than others
+- [[choking-phenomenon-mental-causation]] — Deliberative vertigo applied to skilled execution under pressure
 - [[spontaneous-intentional-action]] — When commitment arrives without extended deliberation
 
 ## References

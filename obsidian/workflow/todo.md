@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
-### P3: Add cross-references between physics-as-disclosure.md and self-stultification-as-master-argument.md
-- **Type**: refine-draft
-- **Notes**: Optimistic review (optimistic-2026-03-15.md) identified that disclosure and self-stultification both mark boundaries of structural description. Add cross-links connecting these parallel boundary-marking strategies. Also link choking-phenomenon-mental-causation.md to phenomenology-of-deliberation-under-uncertainty.md (choking as deliberative vertigo under performance pressure).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-15
-
 ### P3: Deep review dreamless-sleep-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on dreamless sleep as an unchartable territory — the gap in consciousness that occurs nightly. Relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
@@ -811,6 +805,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Add cross-references between physics-as-disclosure.md and self-stultification-as-master-argument.md
+- **Type**: refine-draft
+- **Notes**: Optimistic review (optimistic-2026-03-15.md) identified that disclosure and self-stultification both mark boundaries of structural description. Add cross-links connecting these parallel boundary-marking strategies. Also link choking-phenomenon-mental-causation.md to phenomenology-of-deliberation-under-uncertainty.md (choking as deliberative vertigo under performance pressure).
+- **Output**: obsidian/concepts/physics-as-disclosure.md
+
+Task context:
+Optimistic review (optimistic-2026-03-15.md) identified that disclosure and self-stultification both mark boundaries of structural description. Add cross-links connecting these parallel boundary-marking strategies. Also link choking-phenomenon-mental-causation.md to phenomenology-of-deliberation-under-uncertainty.md (choking as deliberative vertigo under performance pressure).
 
 ### ✓ 2026-03-15: Integrate specious-present-temporal-experience.md into site navigation
 - **Type**: integrate-orphan

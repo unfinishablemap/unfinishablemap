@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T07:30:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/physics-as-disclosure]]
+- **Changes**: Added cross-links between physics-as-disclosure and self-stultification (parallel boundary-marking strategies per optimistic review). Added cross-links between choking-phenomenon-mental-causation and phenomenology-of-deliberation-under-uncertainty (choking as deliberative vertigo under performance pressure). Four files modified with bidirectional links in frontmatter, body text, and Further Reading sections.
+- **Published**: yes
+
 ## 2026-03-15T07:20:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/quantum-randomness-channel-llm-consciousness]]
