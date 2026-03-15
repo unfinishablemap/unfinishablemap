@@ -372,11 +372,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
 
-### P2: Write article on consciousness and mathematical knowledge
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-03-04 evening. Mathematical knowledge poses a unique challenge for physicalism: mathematical truths are abstract, necessary, and discovered rather than invented. How does a physical brain access abstract mathematical facts? Gödel's incompleteness theorems and Penrose's argument that mathematical insight transcends computation are relevant. Builds on argument-from-reason.md, qualia.md, cognitive-phenomenology. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 5 (Occam's Razor Has Limits). See [[reviews/optimistic-2026-03-04-evening]].
-
 ### P2: Write article on the phenomenology of moral deliberation
 - **Type**: expand-topic
 - **Status**: pending
@@ -767,6 +762,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Write article on consciousness and mathematical knowledge
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-03-04 evening. Mathematical knowledge poses a unique challenge for physicalism: mathematical truths are abstract, necessary, and discovered rather than invented. How does a physical brain access abstract mathematical facts? Gödel's incompleteness theorems and Penrose's argument that mathematical insight transcends computation are relevant. Builds on argument-from-reason.md, qualia.md, cognitive-phenomenology. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 5 (Occam's Razor Has Limits). See [[reviews/optimistic-2026-03-04-evening]].
+- **Output**: consciousness and mathematical knowledge
 
 ### ✓ 2026-03-15: Write article on phenomenology of embodiment under dualism
 - **Type**: expand-topic
