@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-15 01:27:00+00:00
+ai_modified: 2026-03-15 06:11:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -183,7 +183,7 @@ The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or sim
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Modulating collapse rate, location, or outcome provides concrete mechanism for consciousness causally influencing the physical world. See [psychophysical-coupling](/concepts/psychophysical-coupling/) for specification of coupling laws.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Objective collapse theories explicitly reject branching. Wave function collapse is real, non-reversible, and creates definite outcomes. Indexical identity matters.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Objective collapse theories explicitly reject branching. Wave function collapse is real, non-reversible, and creates definite outcomes—introducing [temporal asymmetry](/concepts/collapse-and-time/) that may constitute an independent arrow of time. Indexical identity matters.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The measurement problem cannot be solved by simplicity-worship. Spontaneous collapse theories modify quantum mechanics, adding complexity, but gain falsifiability and explanatory power. Experimental accountability demonstrates this is science, not metaphysical speculation.
 
@@ -191,6 +191,7 @@ The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or sim
 
 ## Further Reading
 
+- [collapse-and-time](/concepts/collapse-and-time/) — how collapse introduces temporal asymmetry and connects consciousness to the arrow of time
 - [measurement-problem](/concepts/measurement-problem/) - the crisis spontaneous collapse theories address
 - [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — the philosophical dimensions of measurement: why the problem resists physical solution
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) - dedicated treatment of what collapsed before consciousness

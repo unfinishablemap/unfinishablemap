@@ -38,6 +38,90 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Coalesce aesthetics articles in topics/ (4 articles → 1)
+- **Type**: coalesce
+- **Notes**: Topics section is 20 over its 200-article cap, blocking all expand-topic tasks. Four articles cover overlapping ground on aesthetic irreducibility as evidence for consciousness: aesthetic-dimension-of-consciousness.md (3776 words), aesthetic-irreducibility-arguments.md (2687 words), consciousness-and-aesthetic-creation.md (2662 words), binding-and-beauty.md (2165 words). Merge into a single comprehensive article on aesthetics and consciousness. Saves 3 article slots.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-15
+
+### P1: Coalesce emotion/dualism articles in topics/ (4 articles → 1)
+- **Type**: coalesce
+- **Notes**: Topics section is 20 over its 200-article cap. Four articles overlap on emotional consciousness as evidence for dualism: emotional-consciousness.md (3618 words), emotion-as-evidence-for-dualism.md (2270 words), philosophy-of-emotion-under-dualism.md (2757 words), void-of-self-knowledge-in-emotion.md (2184 words). Merge into a unified article on emotion, valence irreducibility, and dualist implications. Saves 3 article slots.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-15
+
+### P1: Coalesce attention/interface articles in topics/ (4 articles → 1-2)
+- **Type**: coalesce
+- **Notes**: Topics section is 20 over its 200-article cap. Four articles cover attention as consciousness's interface mechanism: attention-as-selection-interface.md (3306 words), attention-consciousness-dissociation.md (2599 words), attention-schema-theory-critique.md (2887 words), attention-disorders-and-quantum-interface.md (2255 words). Merge into a comprehensive treatment of attention as the selection interface with dissociation evidence, AST critique, and clinical cases. Saves 2-3 article slots.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-15
+
+### P2: Integrate retrocausal selection research into existing collapse/measurement articles
+- **Type**: refine-draft
+- **Notes**: Research completed in research/retrocausal-selection-consciousness-physics-2026-03-14.md (4474 words). Sections are at cap so no new article can be created. Instead, integrate key findings (Stapp's retrocausal framework, transactional interpretation, Aharonov two-state formalism) into existing articles such as collapse-and-time.md, consciousness-collapse-arrow-of-time.md, or measurement-problem.md. This consumes the research without adding article count.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-15
+
+### P2: Integrate probability/decision-theory objections to MWI into existing many-worlds articles
+- **Type**: refine-draft
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Sections are at cap so no new article can be created. Instead, integrate key findings (incoherence problem, measure problem, Deutsch-Wallace decision-theory circularity, self-locating uncertainty) into existing articles such as probability-objections-many-worlds.md or many-worlds-interpretation.md. Strengthens Tenet 4 (No Many Worlds) coverage without adding article count.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-15
+
+### P3: Add cross-references between bi-aspectual-ontology.md and temporal-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Optimistic review (optimistic-2026-03-15.md) identified that temporal thickness is an instance of the actuality dimension in bi-aspectual ontology. Add bidirectional cross-links connecting these frameworks. Also link binding-and-beauty.md to bi-aspectual-ontology.md (aesthetic unity as actuality that resists structural decomposition) and vertiginous-question.md to bi-aspectual-ontology.md (indexical identity as actuality aspect).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-15
+
+### P3: Add cross-references between physics-as-disclosure.md and self-stultification-as-master-argument.md
+- **Type**: refine-draft
+- **Notes**: Optimistic review (optimistic-2026-03-15.md) identified that disclosure and self-stultification both mark boundaries of structural description. Add cross-links connecting these parallel boundary-marking strategies. Also link choking-phenomenon-mental-causation.md to phenomenology-of-deliberation-under-uncertainty.md (choking as deliberative vertigo under performance pressure).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-15
+
+### P3: Deep review dreamless-sleep-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on dreamless sleep as an unchartable territory — the gap in consciousness that occurs nightly. Relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
+### P3: Deep review epistemology-of-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-08 — 35 days ago. Voids article on the epistemology of cognitive limits — how we can know about limits we cannot transcend. Foundational methodology for the voids programme. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
+### P3: Deep review alien-minds-void-explorers.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-09 — 34 days ago. Voids article on alien minds as void explorers — whether non-human intelligence could navigate cognitive territories inaccessible to us. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
+### P3: Deep review emergence-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the emergence void — whether consciousness can emerge from non-conscious matter. Directly relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
+### P3: Deep review intersubjective-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the intersubjective void — the impossibility of fully sharing or verifying another's experience. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
+### P3: Deep review probability-intuition-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the probability intuition void — how probability resists full intuitive grasp. Relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
+### P3: Deep review recursion-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the recursion void — the paradoxes of self-referential consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
 ### P2: Write article on Born rule derivation failures and consciousness-collapse
 - **Type**: expand-topic
 - **Notes**: Research completed in research/born-rule-derivation-attempts-2026-03-14.md. Major attempts to derive the Born rule from deeper principles (Gleason, Zurek, Deutsch-Wallace, Vaidman) all fall short, suggesting probability in quantum mechanics may have a consciousness-facing element that resists purely physical derivation. The Born rule's resistance to derivation is evidence that measurement outcomes involve something beyond unitary physics. Target section: topics/. Supports Tenet 2 (Minimal Quantum Interaction).
@@ -55,14 +139,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Research completed in research/penrose-gravity-collapse-empirical-2026-03-14.md. Penrose's proposal that gravitational self-energy triggers objective reduction at a calculable threshold now has empirical testing prospects (optomechanical superpositions, molecular interferometry, space-based experiments). Key for the Map because if Penrose's threshold is confirmed, it constrains where consciousness-collapse can operate. Target section: topics/. Supports Tenet 2 (Minimal Quantum Interaction).
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-15
-
-### P2: Refine quantum-probability-consciousness.md with completeness disambiguation ✅
-- **Type**: refine-draft
-- **Status**: complete
-- **Notes**: Research in research/completeness-in-physics-epr-bell-2026-03-14.md identifies six distinct meanings of "completeness" conflated in quantum foundations (EPR, Bell, Kochen-Specker, PBR, informational, dynamical). The existing quantum-probability-consciousness.md should disambiguate these senses to prevent equivocation when arguing that quantum probability points toward consciousness. Strengthen precision of the consciousness-collapse argument.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-15
-- **Completed**: 2026-03-15
 
 ### P3: Deep review consciousness-and-the-ontology-of-temporal-becoming.md
 - **Type**: deep-review
@@ -734,12 +810,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-03-15
 
-### P2: Integrate consciousness-collapse-arrow-of-time.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Concept page (created 2026-02-24) on the relationship between consciousness-collapse and the arrow of time. Add cross-references from consciousness-collapse-theories.md, time-symmetric-physics.md, temporal-consciousness.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-15
-
 ### P2: Integrate specious-present-temporal-experience.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Concept page (created 2026-02-22) on the specious present — the duration of experienced "now." Add cross-references from temporal-consciousness.md, bergson-and-duration.md, philosophy-of-time.md, and related articles.
@@ -766,6 +836,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Integrate consciousness-collapse-arrow-of-time.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page (created 2026-02-24) on the relationship between consciousness-collapse and the arrow of time. Add cross-references from consciousness-collapse-theories.md, time-symmetric-physics.md, temporal-consciousness.md, and related articles.
+- **Output**: consciousness-collapse-arrow-of-time.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-15: Condense quantum-probability-consciousness.md (3500 words, 100% of hard threshold)
+- **Type**: condense
+- **Notes**: Article at exactly 3500-word hard threshold for concepts/. Recently refined with completeness taxonomy integration, which likely added length. Preserve core arguments about quantum probability pointing toward consciousness while removing redundancy. See /condense skill.
+- **Output**: obsidian/concepts/quantum-probability-consciousness.md
+
+### ✓ 2026-03-15: Refine quantum-probability-consciousness.md with completeness disambiguation
+- **Type**: refine-draft
+- **Notes**: Research in research/completeness-in-physics-epr-bell-2026-03-14.md identifies six distinct meanings of "completeness" conflated in quantum foundations (EPR, Bell, Kochen-Specker, PBR, informational, dynamical). The existing quantum-probability-consciousness.md should disambiguate these senses to prevent equivocation when arguing that quantum probability points toward consciousness. Strengthen precision of the consciousness-collapse argument.
+- **Output**: obsidian/concepts/quantum-probability-consciousness.md
+
+Task context:
+Research in research/completeness-in-physics-epr-bell-2026-03-14.md identifies six distinct meanings of "completeness" conflated in quantum foundations (EPR, Bell, Kochen-Specker, PBR, informational, dynamical). The existing quantum-probability-consciousness.md should disambiguate these senses to prevent equivocation when arguing that quantum probability points toward consciousness. Strengthen precision of the consciousness-collapse argument.
 
 ### ✓ 2026-03-15: Refine measurement-problem.md with Gödel-measurement problem analogy
 - **Type**: refine-draft

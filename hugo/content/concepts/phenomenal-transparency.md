@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-10 16:09:00+00:00
+ai_modified: 2026-03-15 06:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Why experience presents itself as direct contact with reality rathe
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-13 07:34:00+00:00
+last_deep_review: 2026-03-15 06:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,6 +33,8 @@ related_articles:
 - '[[explanatory-gap]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[mysterianism]]'
+- '[[transparency-void]]'
+- '[[meta-problem-of-consciousness]]'
 title: Phenomenal Transparency
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -46,9 +48,11 @@ This self-concealment has consequences far beyond perception. If the representat
 
 Metzinger defines transparency in terms of introspective access to processing stages. A representation is phenomenally transparent when the system generating it cannot detect the earlier processing stages that produced it. The degree of transparency is inversely proportional to the introspective availability of those prior stages.
 
-Consider vision. Light strikes the retina, signals propagate through the lateral geniculate nucleus, visual cortex constructs edge maps, color processing, object recognition—dozens of processing stages. None of this appears in experience. What appears is the apple. The construction is invisible because the constructive processes operate below the threshold of introspective access. Transparency is one of several features of [perceptual experience](/topics/perception-and-conscious-experience/) that resist reduction to neural description—alongside perspectival character, phenomenal richness, and the binding of features into unified scenes.
+Consider vision. Light strikes the retina, signals propagate through the lateral geniculate nucleus, visual cortex constructs edge maps, color processing, object recognition—dozens of processing stages. None of this appears in experience. What appears is the apple. The construction is invisible because the constructive processes operate below the threshold of introspective access.
 
 This is not mere inattention. You cannot attend harder and see the processing stages. Metzinger argues the transparency is cognitively impenetrable to ordinary effort—no casual act of attention can dissolve it, though sustained contemplative training may partially reduce it (see [transparency disruptions](#transparency-disruptions) below). The system operates such that the model presents itself as the world, not as a model of the world. The instruments of representation cannot be represented as instruments.
+
+Transparency is one of several features of [perceptual experience](/topics/perception-and-conscious-experience/) that resist reduction to neural description—alongside perspectival character, phenomenal richness, and the binding of features into unified scenes. We can describe the processing stages that produce the experience of an apple, but describing them does not explain why those stages generate a transparent experience rather than an opaque computational output.
 
 Compare this with partially transparent representations. A vivid memory may feel somewhat present but also somewhat constructed—you sense the mediating process. Dreams often have reduced transparency: the dreamer may notice inconsistencies, experience the world as slightly "off." These cases reveal that transparency admits of degrees. Waking perception sits at the high end: maximally transparent, maximally convincing as direct contact.
 
@@ -115,6 +119,8 @@ For the [simulation hypothesis](/concepts/simulation/), phenomenal transparency 
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience that transparency makes vivid
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Whether sustained contemplative practice can reduce transparency
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure as a structural limit on understanding consciousness
+- [transparency-void](/voids/transparency-void/) — The void revealed by transparency: consciousness cannot verify its own fidelity
+- [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) — Why we think consciousness is hard to explain, and transparency's role in generating that intuition
 
 ## References
 

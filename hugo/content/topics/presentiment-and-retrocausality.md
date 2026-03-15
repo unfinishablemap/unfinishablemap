@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-12 05:32:00+00:00
+ai_modified: 2026-03-15 06:11:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -110,6 +110,7 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) applies here too. D
 
 ## Further Reading
 
+- [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry, and time-symmetric interpretations of collapse
 - [retrocausality](/concepts/retrocausality/) — Physics-based retrocausality and its application to consciousness
 - [time-symmetric-physics](/concepts/time-symmetric-physics/) — The mathematical foundation for time-symmetric quantum mechanics
 - [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) — How time-symmetric physics enables conscious selection

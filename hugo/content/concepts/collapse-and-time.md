@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-07 14:08:00+00:00
+ai_modified: 2026-03-15 06:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ description: Wavefunction collapse introduces temporal asymmetry into physics. I
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-24 21:07:00+00:00
+last_deep_review: 2026-03-15 06:11:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -133,9 +133,9 @@ Recent experiments with weak measurements show a form of probabilistic "uncollap
 
 ## Empirical Anchors
 
-**Measurement asymmetry is quantifiable.** The Müller et al. (2021) experiments demonstrate a "strictly positive average arrow of time for the measurement process." The ratio of forward-to-backward transition probabilities defines a quantum arrow distinct from thermodynamic entropy. As the Stanford Encyclopedia notes, GRW-style collapse theories "would ground a temporally asymmetric probabilistic tendency" independent of thermodynamics.
+**Measurement asymmetry is quantifiable.** As discussed in the un-collapse section, Müller et al. (2021) established a measurable quantum arrow of time through forward-to-backward transition ratios. GRW-style collapse theories "would ground a temporally asymmetric probabilistic tendency" independent of thermodynamics (Stanford Encyclopedia). If consciousness participates in collapse, it participates in the process that generates this measurable asymmetry.
 
-**Biological quantum effects exist.** Avian magnetoreception relies on quantum spin coherence persisting in warm biological tissue. This doesn't prove quantum effects operate in brains, but it refutes the categorical claim that warm biology excludes quantum coherence. The decoherence objection to consciousness-collapse interaction—that thermal noise destroys quantum effects in biological systems—is weakened by these precedents, though demonstrating quantum coherence in neural computation would require evidence beyond what magnetoreception provides.
+**Biological quantum effects exist.** Avian magnetoreception relies on quantum spin coherence persisting in warm biological tissue. This doesn't prove quantum effects operate in brains, but it refutes the categorical claim that warm biology excludes quantum coherence, though demonstrating quantum coherence in neural computation would require evidence beyond what magnetoreception provides.
 
 ## Why Many-Worlds Avoids the Question
 
@@ -199,8 +199,6 @@ The triad of consciousness, collapse, and time's arrow engages all five [tenets]
 - [many-worlds](/concepts/many-worlds/) — Detailed arguments against the Many-Worlds interpretation
 - [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — The measurement problem as a philosophical problem about observation and first-person fact
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — What collapsed wavefunctions before conscious observers?
-- [temporal-consciousness](/concepts/temporal-consciousness/) — The experienced duration of "now" and its connection to collapse timing
-
 ## References
 
 1. Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*, 134(6B), B1410.

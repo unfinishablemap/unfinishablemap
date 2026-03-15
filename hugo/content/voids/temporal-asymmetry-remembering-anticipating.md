@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-02-04 18:47:00+00:00
+ai_modified: 2026-03-15 06:11:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -109,7 +109,7 @@ This void connects to all five [tenets](/tenets/):
 
 **[Dualism](/tenets/#dualism):** The pastness quale is a genuine phenomenal property—part of what it is like to remember. A system that merely stored timestamped information would lack this qualitative character. If qualia are irreducible, temporal qualia are irreducible too.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction):** Consciousness selecting among quantum possibilities operates from present toward future, not future toward present. The void reflects the direction in which selection can work.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction):** Consciousness selecting among quantum possibilities operates from present toward future, not future toward past. If consciousness participates in [collapse that generates time's arrow](/concepts/collapse-and-time/), the impossibility of pre-experience reflects the direction in which selection constitutes temporal structure.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction):** Consciousness can act toward futures but can only know pasts. We remember what has caused us; we act toward what we will cause. This connects to [free-will](/topics/free-will/): we deliberate about futures precisely because our causal influence runs futureward, while we have only epistemic access to the past. The impossibility of pre-experience is the impossibility of epistemic access running futureward.
 

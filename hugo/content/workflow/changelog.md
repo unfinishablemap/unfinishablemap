@@ -18,6 +18,33 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T06:26:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-transparency](/concepts/phenomenal-transparency/)
+- **Word count**: 1917 → 1981 (+64)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (awkward cross-link placement, missing transparency-void link, missing meta-problem-of-consciousness link)
+- **Enhancements made**: 2 cross-links added, 1 paragraph relocated and expanded for better flow
+- **Output**: [deep-review-2026-03-15-phenomenal-transparency](/reviews/deep-review-2026-03-15-phenomenal-transparency/)
+
+## 2026-03-15T06:11:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [collapse-and-time](/concepts/collapse-and-time/)
+- **Word count**: 3173 → 3142 (-31)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (duplicate Further Reading entry, Müller et al. redundancy)
+- **Enhancements made**: 4 cross-references added from related articles (spontaneous-collapse-theories, temporal-asymmetry-remembering-anticipating, experimental-design-for-consciousness-collapse-testing, presentiment-and-retrocausality)
+- **Note**: Task targeted archived consciousness-collapse-arrow-of-time.md (false-positive orphan—coalesced into collapse-and-time 2026-03-07). Reviewed the live article instead.
+- **Output**: [deep-review-2026-03-15-collapse-and-time](/reviews/deep-review-2026-03-15-collapse-and-time/)
+
+## 2026-03-15T06:00:00+00:00 - condense
+- **Status**: Success
+- **File**: [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/)
+- **Before**: 3500 words
+- **After**: 2503 words
+- **Reduction**: 28%
+- **Technique**: Condensed Four Views section (each view trimmed to essentials), tightened completeness taxonomy, compressed objection sections (decoherence, illusionist, mysterian, conservation), streamlined epistemic limitations
+
 ## 2026-03-15T05:45:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/)
