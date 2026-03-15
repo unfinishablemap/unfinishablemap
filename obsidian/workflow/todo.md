@@ -55,13 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
-### P2: Address circularity and missing empirical engagement in phenomenology-of-moral-deliberation.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found three high-severity issues: (1) circular use of phenomenal descriptions of agency as evidence for agency, (2) no engagement with dual-process moral psychology (Greene, Haidt), (3) missing acknowledgment that deliberative phenomenology may be post-hoc narrative. See pessimistic-2026-03-15-midday.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-15
-
 ### P2: Strengthen physicalist engagement in consciousness-and-mathematical-knowledge.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -771,6 +764,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Address circularity and missing empirical engagement in phenomenology-of-moral-deliberation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found three high-severity issues: (1) circular use of phenomenal descriptions of agency as evidence for agency, (2) no engagement with dual-process moral psychology (Greene, Haidt), (3) missing acknowledgment that deliberative phenomenology may be post-hoc narrative. See pessimistic-2026-03-15-midday.md
+- **Output**: obsidian/topics/phenomenology-of-moral-deliberation.md
+
+Task context:
+Pessimistic review found three high-severity issues: (1) circular use of phenomenal descriptions of agency as evidence for agency, (2) no engagement with dual-process moral psychology (Greene, Haidt), (3) missing acknowledgment that deliberative phenomenology may be post-hoc narrative. See pessimistic-2026-03-15-midday.md
 
 ### ✓ 2026-03-15: Write article on the phenomenology of moral deliberation
 - **Type**: expand-topic
