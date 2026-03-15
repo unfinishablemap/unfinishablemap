@@ -4,7 +4,8 @@ description: "Human+AI exploration of what embodiment feels like from the first 
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-15T10:29:00+00:00
+ai_modified: 2026-03-15T10:39:00+00:00
+last_deep_review: 2026-03-15T10:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -72,13 +73,13 @@ But the body reappears when something goes wrong. Pain, fatigue, illness, injury
 
 This rhythm of absence and reappearance illuminates the interface. When the body is functioning well, consciousness flows through it without friction—the interface is transparent. When the body malfunctions, the interface becomes visible precisely because it has degraded. The analogy with the Map's radio-antenna model is direct: you notice the antenna only when reception fails.
 
-Bodily absence also challenges simple identity theories of mind and body. If consciousness *is* the body, it should not be possible for the body to vanish from experience while consciousness persists. A state cannot be absent from itself. That consciousness can lose awareness of the body while remaining fully conscious—absorbed in music, thought, or action—suggests consciousness and body are distinguishable even when tightly coupled.
+Bodily absence also creates difficulties for identity theories. The standard identity theorist might respond that consciousness is identical to certain *brain states*, not the body as a whole, so losing awareness of one's knee is unremarkable. But the challenge runs deeper. During absorbed activity, the entire bodily dimension of experience vanishes—not just peripheral limbs but posture, breathing, weight, muscular tension. What remains is pure intentional engagement with the task. If consciousness were constituted by neural processes that necessarily include somatic monitoring and interoceptive processing, this wholesale disappearance of the bodily dimension would be puzzling. That consciousness can shed its bodily character entirely while remaining richly present—absorbed in music, thought, or action—suggests that bodily experience is something consciousness *receives through* an interface rather than something it *is*.
 
 ## Pain and the Phenomenological Argument
 
 Pain provides the sharpest phenomenological case for dualism. The [[somatic-interface#Nociception and Pleasure|somatic interface]] article documents the clinical evidence: pain asymbolia shows that nociceptive detection and the felt awfulness of pain dissociate. But the phenomenological argument goes beyond clinical dissociation.
 
-Pain has a quality that no functional description captures. Describing pain as "tissue-damage signalling that motivates avoidance behaviour" is accurate as far as it goes, but it omits everything that matters about pain from the inside. The *awfulness*—the felt quality that makes pain bad rather than merely informative—is not a function. It is a phenomenal property that accompanies the function without being entailed by it. A system could detect tissue damage and produce avoidance behaviour without anything hurting. That something does hurt—that there is a *what it is like* to be in pain—is precisely what the [[hard-problem-of-consciousness|hard problem]] identifies as unexplained by physical mechanism.
+Pain has a [[qualia|qualitative character]] that no functional description captures. Describing pain as "tissue-damage signalling that motivates avoidance behaviour" is accurate as far as it goes, but it omits everything that matters about pain from the inside. The *awfulness*—the felt quality that makes pain bad rather than merely informative—is not a function. It is a phenomenal property that accompanies the function without being entailed by it. A system could detect tissue damage and produce avoidance behaviour without anything hurting. That something does hurt—that there is a *what it is like* to be in pain—is precisely what the [[hard-problem-of-consciousness|hard problem]] identifies as unexplained by physical mechanism.
 
 Embodied pain makes this especially vivid because pain is so obviously *located*. It is in my knee, my lower back, my tooth. The phenomenal quality is spatially embedded in the lived body. This creates a puzzle for materialism: if pain is identical to a neural state, it is in the brain, not the knee. But pain is experienced in the knee. The standard materialist response—that the brain *represents* pain as located in the knee—concedes the phenomenological point: the felt location and the neural location diverge. The Map interprets this divergence as expected on an interface model: the somatic interface maps the body for consciousness, and consciousness experiences through that map.
 
@@ -88,7 +89,7 @@ Embodied phenomenology extends beyond solitary experience. Merleau-Ponty argued 
 
 This pre-inferential bodily empathy complicates both materialism and Cartesian dualism. Against the Cartesian picture, we do not first observe a body and then infer a mind behind it. Against materialism, the *felt resonance*—the way another's pain can make your own body tense—involves phenomenal qualities that exceed the neural mirroring that mirror neurons provide. Mirror neurons explain *how* resonance occurs mechanically. They do not explain *why* observing another's pain produces a felt echo rather than merely triggering motor preparation.
 
-The Map reads intercorporeality as evidence that embodied consciousness operates through a shared phenomenal field structured by bodily similarity. Consciousness interfaces with bodies, and because human bodies share a common form, human consciousnesses can partially resonate through that shared structure. This is not mystical communion—it is structured through observable bodily expression—but the phenomenal dimension of the resonance exceeds its physical mechanism.
+The Map reads intercorporeality as suggestive of consciousness interfacing with bodies through a common structure. Because human bodies share a common form, the interface channels through which one consciousness inhabits its body are structurally similar to those of another. This structural similarity may explain why bodily resonance carries phenomenal content—why observing pain produces a felt echo rather than merely triggering motor preparation. The resonance is not mystical communion; it operates through observable bodily expression. But its phenomenal dimension—the felt quality of the echo—exceeds what the physical mechanism of mirroring provides.
 
 ## Relation to Site Perspective
 
