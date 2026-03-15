@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate illusionism-as-epiphenomenalism-in-disguise.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page (created 2026-03-08) arguing that illusionism collapses into epiphenomenalism. Add cross-references from epiphenomenalism.md, illusionism.md, the-epiphenomenalist-threat.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-15
+
+### P2: Integrate death-phenomenology-beyond-ndes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-03-11) on death phenomenology beyond near-death experiences. Add cross-references from death-and-consciousness.md, near-death-experiences.md, consciousness-and-mortality.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-15
+
+### P2: Integrate phenomenology-of-perceptual-learning.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-03-11) on the phenomenology of perceptual learning. Add cross-references from philosophy-of-perception-under-dualism.md, attention-as-selection-interface.md, phenomenal-attention.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-15
+
+### P3: Deep review consciousness-and-the-ontology-of-temporal-becoming.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created by coalesce, never reviewed. Topics article combining temporal ontology and temporal becoming — core to the Map's temporal consciousness cluster. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
+### P3: Deep review process-and-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-08 — 35 days ago. Apex article on process philosophy and consciousness — synthesis piece that should accurately represent current content. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
+### P3: Deep review intentionality-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 38 days ago. Voids article on the intentionality void — how aboutness resists reductive explanation. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
 ### P3: Deep review voids.md
 - **Type**: deep-review
 - **Notes**: Section index page (ai_contribution: 80) last reviewed 2026-02-01 — 42 days ago. As the voids section landing page, should accurately reflect current voids content and taxonomy. Verify coherence, cross-references, and tenet alignment.

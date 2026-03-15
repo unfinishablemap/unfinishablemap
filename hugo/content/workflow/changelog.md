@@ -18,6 +18,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T04:45:00+00:00 - condense
+- **Status**: Success
+- **File**: [decoherence](/concepts/decoherence/)
+- **Before**: 3500 words
+- **After**: 2528 words
+- **Reduction**: 28%
+- **Technique**: Cut background LLMs know (decoherence basics), consolidated Tegmark-Hameroff subsections, merged illusionist/process-philosophy/mysterian sections into compact "Competing Perspectives", tightened "What Would Challenge" to essentials, compressed quantum biology examples
+
 ## 2026-03-15T04:37:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [temporal-ontology-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/), [consciousness-and-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
