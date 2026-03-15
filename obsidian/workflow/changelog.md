@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T00:35:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Physics as Disclosure
+- **Output**: [[physics-as-disclosure]]
+- **Word count**: 1716
+- **Based on research**: No (draws on apex article [[what-consciousness-tells-us-about-physics]])
+
 ## 2026-03-15T00:25:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Bi-aspectual Ontology
