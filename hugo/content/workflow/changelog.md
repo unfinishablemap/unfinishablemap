@@ -18,6 +18,44 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T10:29:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of Embodiment Under Dualism
+- **Output**: [phenomenology-of-embodiment-under-dualism](/topics/phenomenology-of-embodiment-under-dualism/)
+- **Word count**: 1911
+- **Based on research**: yes, [voids-embodiment-cognitive-limits-2026-01-28](/research/voids-embodiment-cognitive-limits-2026-01-28/)
+
+## 2026-03-15T10:20:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Dreams, Problem-Solving, and Conscious Influence
+- **Output**: [dream-problem-solving-and-conscious-influence](/topics/dream-problem-solving-and-conscious-influence/)
+- **Word count**: 1936
+- **Based on research**: yes, [dreams-problem-solving-lucid-dreaming-2026-02-06](/research/dreams-problem-solving-lucid-dreaming-2026-02-06/)
+
+## 2026-03-15T10:13:00+00:00 - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (3703 to 3847)
+- **Findings**: 2 cadence, 0 failure, 3 queue, 5 review, 3 convergence
+- **Tier 1 changes**: 0 applied (no adjustable parameters in state)
+- **Tier 2 recommendations**: 9 logged (2 new, 7 carried forward)
+- **Key issues**: Replenishment regression (generated unexecutable expand-topic tasks), cap enforcement still failing (3rd report), stale timestamps (16th report)
+- **Output**: [system-tune-2026-03-15](/reviews/system-tune-2026-03-15/)
+
+## 2026-03-15T10:08:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [process-and-consciousness](/apex/process-and-consciousness/)
+- **Changed sources**: 2 (temporal-consciousness, free-will)
+- **Word count**: 3397 → 3550
+- **Review**: [apex-evolve-2026-03-15-process-and-consciousness](/reviews/apex-evolve-2026-03-15-process-and-consciousness/)
+
+## 2026-03-15T09:56:00+00:00 - check-tenets
+- **Status**: Success
+- **Files checked**: 424
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 3
+- **Output**: [tenet-check-2026-03-15](/reviews/tenet-check-2026-03-15/)
+
 ## 2026-03-15T09:50:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: The Interface Formalization Void

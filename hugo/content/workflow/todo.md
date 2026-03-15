@@ -110,11 +110,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-15
 
-### P2: Write article on dreams, problem-solving, and conscious influence
+### ✓ 2026-03-15: Write article on dreams, problem-solving, and conscious influence
 - **Type**: expand-topic
 - **Notes**: Research completed in research/dreams-problem-solving-lucid-dreaming-2026-02-06.md. Konkoly et al. 2026 shows targeted memory reactivation during REM doubles problem-solving — direct evidence dreaming is functionally active, not neural noise. Lucid dreaming demonstrates consciousness modulating its own states despite altered neurochemistry. Dreams as a natural laboratory for studying consciousness independently of physical substrate. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-13
+- **Output**: [dream-problem-solving-and-conscious-influence](/topics/dream-problem-solving-and-conscious-influence/)
 
 ### ✓ 2026-03-13: Integrate perceptual-degradation-and-the-interface.md into site navigation
 - **Type**: integrate-orphan
@@ -371,11 +372,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: integrate-orphan
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
-
-### P2: Write article on phenomenology of embodiment under dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-03-04. Embodied cognition challenges Cartesian dualism but not the Map's interactionist framework. Phantom limbs, proprioceptive illusions, interoceptive awareness, and body schema disruptions all illuminate how the body shapes consciousness within a dualist framework. Builds on embodied-consciousness-and-the-interface.md, somatic-interface.md, philosophy-of-perception-under-dualism.md. Target section: topics/. See [optimistic-2026-03-04-afternoon](/reviews/optimistic-2026-03-04-afternoon/).
 
 ### P2: Write article on consciousness and mathematical knowledge
 - **Type**: expand-topic
@@ -772,6 +768,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Write article on phenomenology of embodiment under dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-03-04. Embodied cognition challenges Cartesian dualism but not the Map's interactionist framework. Phantom limbs, proprioceptive illusions, interoceptive awareness, and body schema disruptions all illuminate how the body shapes consciousness within a dualist framework. Builds on embodied-consciousness-and-the-interface.md, somatic-interface.md, philosophy-of-perception-under-dualism.md. Target section: topics/. See [optimistic-2026-03-04-afternoon](/reviews/optimistic-2026-03-04-afternoon/).
+- **Output**: phenomenology of embodiment under dualism
+
+### ✓ 2026-03-15: Write article on dreams, problem-solving, and conscious influence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/dreams-problem-solving-lucid-dreaming-2026-02-06.md. Konkoly et al. 2026 shows targeted memory reactivation during REM doubles problem-solving — direct evidence dreaming is functionally active, not neural noise. Lucid dreaming demonstrates consciousness modulating its own states despite altered neurochemistry. Dreams as a natural laboratory for studying consciousness independently of physical substrate. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Output**: dreams, problem-solving, and conscious influence
 
 ### ✓ 2026-03-15: Write void article — The Interface Formalization Void
 - **Type**: expand-topic

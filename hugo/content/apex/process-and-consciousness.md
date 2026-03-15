@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-02-25 02:29:00+00:00
-ai_system: claude-opus-4-5-20251101
-apex_last_synthesis: 2026-02-25 02:29:00+00:00
+ai_modified: 2026-03-15 10:08:00+00:00
+ai_system: claude-opus-4-6
+apex_last_synthesis: 2026-03-15 10:08:00+00:00
 apex_sources:
 - concepts/process-philosophy
 - concepts/duration
@@ -18,7 +18,6 @@ apex_thesis: Process philosophy—reality as dynamic becoming rather than static
 author: null
 concepts:
 - '[[process-philosophy]]'
-- '[[temporal-consciousness]]'
 - '[[temporal-consciousness]]'
 - '[[panpsychism]]'
 - '[[combination-problem]]'
@@ -55,7 +54,9 @@ This shift matters for consciousness. If reality is fundamentally processual, ex
 
 Bergson's [durée](/concepts/temporal-consciousness/) captures what process philosophy describes from a different angle. Clock time spatializes—treating moments as points on a line, discrete and interchangeable. Lived duration interpenetrates—each moment permeated by the past and reaching toward the future. When you hear a melody, you don't experience a sequence of separate tones; you experience the phrase as a whole, with each note colored by what came before and what is anticipated. This is qualitative multiplicity: unity-in-difference without juxtaposition.
 
-Both thinkers reject the view that time is a container in which static states are arranged. Time is creative, bringing genuine novelty. Bergson: "Time is invention or it is nothing at all." Whitehead: creativity is "the ultimate category"—each moment adds something to reality that did not exist before. This creativity is not random but structured: each actual occasion inherits from its predecessors while contributing its own synthesis.
+Durée also varies in depth. Two moments of identical clock length can differ radically in [temporal thickness](/concepts/temporal-consciousness/)—the qualitative density of experienced time. A musician improvising inhabits a present dense with harmonic memory and anticipatory tension; someone passively overhearing the same music inhabits a thinner present. This variation matters philosophically: if [consciousness is an activity](/topics/consciousness-as-activity/) rather than a property, temporal extension is constitutive—an activity exists only in its unfolding, and the depth of that unfolding reflects the degree of conscious engagement. Temporal thickness is what Whitehead's concrescence looks like from the inside: some occasions synthesize their inheritance richly, others merely repeat it.
+
+Both thinkers reject the view that time is a container in which static states are arranged. Time is creative, bringing genuine novelty. Bergson: "Time is invention or it is nothing at all." Whitehead: creativity is "the ultimate category"—each moment adds something to reality that did not exist before. Husserl's [protention](/concepts/temporal-consciousness/)—the forward-directed anticipation structuring every conscious moment—reveals that this creativity is not retrospective but constitutive of the present. Each moment already reaches toward what comes next, carrying directional openness that mere physical succession lacks. This creativity is not random but structured: each actual occasion inherits from its predecessors while contributing its own synthesis.
 
 ## Dualism Through Process
 
@@ -87,7 +88,7 @@ The Map's commitment to *minimal* interaction finds resonance in Whitehead's acc
 
 There is a further connection here to [phenomenal unity](/concepts/unity-of-consciousness/). Quantum entanglement is the one domain in physics where genuinely non-separable states exist—entangled particles form a whole whose properties cannot be decomposed into individual states. If consciousness interacts with the brain at the quantum level, entanglement provides a physical correlate whose structure mirrors how unified experience resists decomposition into separate parts. Classical coordination relates distinct parts; entanglement produces states that are intrinsically unified. Process philosophy's concrescence—where the occasion synthesises its data into one definite experience—describes metaphysically what entanglement exhibits physically.
 
-Bergson's duration points to the same structure from the phenomenological side. The creative novelty he attributes to lived time—the way each moment brings something genuinely new—requires an opening in deterministic closure. If the future were fixed by the past, time would be mere rearrangement, not invention. Bergson argued that determinism rests on spatializing time—treating mental states as discrete causes producing discrete effects, like billiard balls. But if mental states interpenetrate in qualitative multiplicity, this model fails. The whole of one's past converges in each moment, not as a sum of separate influences but as an indivisible movement. Freedom—and creative causation—emerges from this convergence.
+Bergson's duration points to the same structure from the phenomenological side. The creative novelty he attributes to lived time—the way each moment brings something genuinely new—requires an opening in deterministic closure. If the future were fixed by the past, time would be mere rearrangement, not invention. Bergson argued that determinism rests on spatializing time—treating mental states as discrete causes producing discrete effects, like billiard balls. But if mental states interpenetrate in qualitative multiplicity, this model fails. The whole of one's past converges in each moment, not as a sum of separate influences but as an indivisible movement. Freedom—and creative causation—emerges from this convergence. Temporal thickness clarifies the link: [authentic choice](/topics/authentic-vs-inauthentic-choice/) unfolds in durée, the decision emerging from one's whole history as creative expression, while inauthentic choice lacks temporal depth—reactive compression where horizons collapse to near-zero. Randomness at a temporally thin moment is mere noise; indeterminacy at a temporally thick moment, where consciousness selects from possibilities saturated with personal history, is agency.
 
 ## Bidirectional Causation and Subjective Aim
 
@@ -131,7 +132,7 @@ A note on testability: process philosophy is primarily a metaphysical framework 
 
 ## Synthesis: What Process Philosophy Offers the Map
 
-Individual source articles establish separate components: [process-philosophy](/concepts/process-philosophy/) explains Whitehead's framework; [temporal-consciousness](/concepts/temporal-consciousness/) presents Bergson's account of lived time; [temporal-consciousness](/concepts/temporal-consciousness/) examines the neuroscience and phenomenology of time experience; [panpsychism](/concepts/panpsychism/) explores the view that experience is ubiquitous; [phenomenal unity](/concepts/unity-of-consciousness/) analyses the subsumptive character of unified experience. What emerges from synthesis is a unified perspective that individual treatments cannot provide.
+Individual source articles establish separate components: [process-philosophy](/concepts/process-philosophy/) explains Whitehead's framework; [temporal-consciousness](/concepts/temporal-consciousness/) presents Bergson's durée alongside the neuroscience of temporal binding and the specious present; [panpsychism](/concepts/panpsychism/) explores the view that experience is ubiquitous; [phenomenal unity](/concepts/unity-of-consciousness/) analyses the subsumptive character of unified experience. What emerges from synthesis is a unified perspective that individual treatments cannot provide.
 
 Process philosophy offers the Map conceptual resources without ontological commitment. The Map need not say that rocks have experience (as panpsychism claims) to benefit from Whitehead's account of how experience relates to time, creativity, and causation. The Map need not accept that reality is *only* process to draw on Bergson's demonstration that lived duration cannot be reduced to sequences of static states.
 
@@ -139,7 +140,7 @@ The resources run deeper than individual arguments. Process philosophy explains 
 
 This framework also illuminates creative causation. Whitehead's subjective aim and Bergson's creative duration provide models for how consciousness could be causally efficacious without violating physical law. Causation-from-the-whole-self working with inherited constraints—this is what the Map means by consciousness selecting among quantum possibilities. And the connection runs both ways: quantum entanglement mirrors the non-separability of phenomenal unity, providing a physical correlate for what process philosophy describes metaphysically as the indivisible character of concrescence.
 
-The Map remains distinct from process philosophy. It maintains consciousness and matter are genuinely distinct rather than aspects of underlying process. It proposes specific quantum mechanisms for mind-matter interaction that Whitehead didn't address. It rejects the panpsychist implication that rocks have experience—and in doing so avoids the combination problem that phenomenal unity's requirement of conjoint phenomenology makes especially acute. But it recognizes process philosophy as a fellow traveler—a tradition that takes consciousness seriously, rejects reductive materialism, and provides conceptual tools for thinking about time, causation, and experience that the Map can deploy within its own framework.
+The Map draws on process philosophy without adopting its ontology. By maintaining genuine mind-matter distinction, it avoids the combination problem that phenomenal unity's requirement of conjoint phenomenology makes especially acute for panpsychism. But it recognizes process philosophy as a fellow traveler—a tradition that takes consciousness seriously, rejects reductive materialism, and provides conceptual tools for thinking about time, causation, and experience that the Map deploys within its own dualist framework.
 
 What process philosophy ultimately offers is a vision of reality where consciousness fits. Not as an anomaly to be explained away, not as an embarrassment to scientific naturalism, but as paradigmatic of what reality fundamentally involves: becoming, creativity, experience, time. The Map charts different territory, but it travels through a landscape that process philosophy helped to reveal.
 
@@ -161,8 +162,7 @@ This apex article draws on all five tenets:
 
 This apex article synthesizes:
 - [Process Philosophy](/concepts/process-philosophy/) — Whitehead's framework of actual occasions, prehension, and concrescence
-- [Duration (Durée)](/concepts/temporal-consciousness/) — Bergson's account of qualitative, interpenetrating lived time
-- [Temporal Consciousness](/concepts/temporal-consciousness/) — The specious present, durée, temporal unity and its disruption, and the quantum connection
+- [Temporal Consciousness](/concepts/temporal-consciousness/) — Bergson's durée, the specious present, temporal thickness, protention, and the quantum connection
 - [Panpsychism](/concepts/panpsychism/) — The view that experience is ubiquitous, and its combination problem
 - [The Combination Problem](/concepts/combination-problem/) — How micro-experiences might combine into unified consciousness
 - [Phenomenal Unity](/concepts/unity-of-consciousness/) — Subsumptive unity, conjoint phenomenology, and the argument for irreducibility
