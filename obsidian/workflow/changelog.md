@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T04:08:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[concepts/russellian-monism]]
+- **Changes**: Restructured critique section with Pautz parity, Cutter instability, and Howell epiphenomenalism arguments; sharpened opening summary; added 6 references; cross-referenced bi-aspectual ontology
+- **Published**: yes
+
 ## 2026-03-15T03:44:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/bi-aspectual-ontology]]

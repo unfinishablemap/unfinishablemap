@@ -4,7 +4,7 @@ description: "The view that physics describes only structure while intrinsic qui
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-15T02:44:00+00:00
+ai_modified: 2026-03-15T04:08:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,6 +20,8 @@ concepts:
   - "[[introspection]]"
   - "[[decoherence]]"
   - "[[explanatory-gap]]"
+  - "[[concepts/epiphenomenalism]]"
+  - "[[philosophical-zombies]]"
 related_articles:
   - "[[tenets]]"
   - "[[interactionist-dualism]]"
@@ -33,9 +35,9 @@ last_curated: null
 last_deep_review: 2026-03-15T02:44:00+00:00
 ---
 
-Russellian monism holds that physics describes only the relational structure of matter—what things do to each other—leaving their intrinsic nature unexplained. These intrinsic properties, called *quiddities*, allegedly account for consciousness. The view attempts a middle path: avoiding [[concepts/materialism|physicalism's]] hard problem (by denying that structure alone determines experience) while avoiding [[interactionist-dualism|dualism's]] interaction problem (by integrating consciousness into physical causation). Yet the combination problem—how micro-level quiddities constitute unified conscious experience—remains unsolved, and critics argue Russellian monism inherits dualism's costs under a different name.
+Russellian monism holds that physics describes only the relational structure of matter—what things do to each other—leaving their intrinsic nature unexplained. These intrinsic properties, called *quiddities*, allegedly account for consciousness. The view attempts a middle path: avoiding [[concepts/materialism|physicalism's]] hard problem (by denying that structure alone determines experience) while avoiding [[interactionist-dualism|dualism's]] interaction problem (by integrating consciousness into physical causation). Yet the combination problem—how micro-level quiddities constitute unified conscious experience—remains unsolved. And recent work by Pautz (2017), Cutter (2019), and Howell (2014) argues that the middle path is illusory: Russellian monism requires the same brute linking principles as dualism, is unstable between physicalism and dualism, and faces the same epiphenomenalism threat it was designed to avoid.
 
-The Unfinishable Map shares Russellian monism's insight that physics is silent on intrinsic nature. But the Map's explicit [[tenets#^dualism|dualist]] framework, particularly the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] mechanism, provides cleaner solutions than monism's attempt to dissolve the mind-body distinction.
+The Unfinishable Map shares Russellian monism's insight that physics is silent on intrinsic nature. But the Map's explicit [[tenets#^dualism|dualist]] framework—particularly its [[bi-aspectual-ontology|bi-aspectual ontology]] and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] mechanism—provides cleaner solutions than monism's attempt to dissolve the mind-body distinction.
 
 ## The Core Insight: Physics Is Structural
 
@@ -81,17 +83,29 @@ Philip Goff proposed "phenomenal bonding"—a primitive relation that combines e
 
 ## Why the Map Prefers Explicit Dualism
 
-Russellian monism claims to avoid dualism's costs—particularly the interaction problem (how do non-physical minds causally affect physical brains?). By making quiddities part of physical reality's fundamental structure, consciousness is automatically integrated into physical causation.
+Russellian monism claims to avoid dualism's costs—particularly the interaction problem (how do non-physical minds causally affect physical brains?). By making quiddities part of physical reality's fundamental structure, consciousness is automatically integrated into physical causation. Three lines of recent criticism challenge this advantage.
 
-But Adam Pautz and other critics argue this is illusory. Russellian monism requires "grounding laws" connecting quiddities to consciousness—brute, fundamental laws specifying which quiddity configurations yield which experiences. These laws are no better than the brute psychophysical laws dualism posits. Pautz: "Though called a physicalist view, it seems to have many of the vices of dualism."
+### The Parity Problem
 
-If Russellian monism is dualism under another name, the Map's explicit [[interactionist-dualism]] is preferable:
+Adam Pautz (2017, 2019) argues that Russellian monism requires the same "swarm of extra-logical principles" as dualism—brute laws specifying which quiddity configurations yield which experiences. The only difference is modal status: Russellian monists hold these linking principles are necessary; dualists hold they are contingent. Since we have no evidence bearing on modal status, there is no simplicity-based reason to prefer one framework over the other. On both views, experiences are distinct from neural-functional states and correlated with some brain states and not others. Pautz concludes that Russellian monism offers no genuine advantage over dualism.
+
+### The Instability Argument
+
+Brian Cutter (2019) presses further: Russellian monism is not merely equivalent to dualism but *unstable* between physicalism and dualism. The same epistemic arguments that motivate rejecting physicalism—the conceivability of [[philosophical-zombies|zombies]], the knowledge argument—apply equally to Russellian monism. If structural-functional duplicates could lack consciousness (against physicalism), then quiddity-structural duplicates could also lack consciousness (against Russellian monism). "Russellian monism does not offer a comfortable resting place—one must turn back or else march on to dualism." The Map embraces the stable endpoint.
+
+### The Epiphenomenalism Return
+
+Russellian monism was motivated partly by avoiding [[concepts/epiphenomenalism|epiphenomenalism]]—if quiddities ground physical dispositions, consciousness is causally relevant. But Howell (2014) and Robinson (2018) identify a fatal weakness: the *contingency thesis*. If quiddity Q1 grounds negative charge in the actual world but a distinct quiddity Q2 could ground the same disposition in another possible world, quiddities make no distinctive causal contribution *in virtue of their phenomenal character*. As Howell puts it, "The best Russellian monism can hope for is that phenomenal properties are causally relevant, but not in virtue of their phenomenality." Epiphenomenalism returns under monist vocabulary.
+
+### The Map's Advantages
+
+If Russellian monism inherits dualism's costs under a different name, the Map's explicit [[interactionist-dualism]] is preferable:
 
 **Clearer ontology**: The Map's [[bi-aspectual-ontology|bi-aspectual ontology]] distinguishes structure (what physics describes) from actuality (what consciousness provides)—two irreducible aspects of reality that interact at quantum indeterminacies. Russellian monism obscures the distinction by treating quiddities as somehow both physical and phenomenal. The [[consciousness-and-the-ontology-of-dispositions|ontology of dispositions]] further clarifies: if properties are "powerful qualities" (simultaneously qualitative and dispositional), consciousness could be the paradigmatic case—known from the inside—without requiring micro-level quiddities that must combine.
 
 **Avoids combination**: By positing unified mental subjects rather than combinations of micro-subjects, [[substance-property-dualism|substance dualism]] sidesteps the combination problem entirely. There's no question of how many experiences become one—the unified subject is fundamental.
 
-**Interaction mechanism**: the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] proposal addresses how consciousness interfaces with physics at the quantum level—selection among quantum outcomes. Russellian monism claims consciousness is already integrated but doesn't specify *how* the integration works in physical terms.
+**Interaction mechanism**: the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] proposal addresses how consciousness interfaces with physics at the quantum level—selection among quantum outcomes. This gives consciousness genuine causal work—selecting among undetermined outcomes—rather than claiming it *grounds* physical dispositions (which the contingency thesis undermines). Russellian monism claims consciousness is already integrated but doesn't specify *how* the integration works in physical terms.
 
 ## The Illusionist Challenge
 
@@ -141,7 +155,7 @@ Despite these criticisms, Russellian monism captures important insights the Map 
 
 ## Relation to the Map's Perspective
 
-**Dualism**: Russellian monism is officially a form of monism—one kind of stuff with different aspects. But its commitment to phenomenal properties irreducible to structure makes it closer to property dualism in practice. The Map's [[bi-aspectual-ontology|bi-aspectual dualism]]—structure and actuality as irreducible aspects that interact causally—is cleaner.
+**Dualism**: Russellian monism is officially a form of monism—one kind of stuff with different aspects. But its commitment to phenomenal properties irreducible to structure makes it closer to property dualism in practice. Cutter's instability argument makes this explicit: anyone who accepts the anti-physicalist arguments that motivate Russellian monism should accept dualism outright. The Map's [[bi-aspectual-ontology|bi-aspectual dualism]]—structure and actuality as irreducible aspects that interact causally—is the stable endpoint.
 
 **Minimal Quantum Interaction**: the Map proposes consciousness influences quantum outcomes. Russellian monism doesn't specify a mechanism—quiddities are simply "part of" physical reality. The quantum proposal gives concrete content to the mind-matter interface.
 
@@ -187,16 +201,36 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 
 ## References
 
+1. Alter, T. & Coleman, S. (2020). Russellian monism and mental causation. *Noûs*, 54(2), 306-337.
 1. Alter, T. & Nagasawa, Y. (Eds.). (2015). *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.
 1. Chalmers, D.J. (2013). Panpsychism and panprotopsychism. *Amherst Lecture in Philosophy*, 8.
+1. Cutter, B. (2019). Against the middle ground: Why Russellian monism is unstable. *Analytic Philosophy*, 60(2), 109-130.
 1. Eddington, A. (1928). *The Nature of the Physical World*. Cambridge University Press.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
+1. Howell, R.J. (2014). The Russellian monist's problems with mental causation. *The Philosophical Quarterly*, 65(258), 22-39.
 1. Kerskens, C.M. & Pérez, D.L. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6, 105001.
 1. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
-1. Pautz, A. (2019). A dilemma for Russellian monists about consciousness. *Philosophical Studies*.
+1. Pautz, A. (2017). How is constitutive Russellian monism (or panpsychism) better than dualism? In T. Alter & Y. Nagasawa (Eds.), *Russellian Monism*. Oxford University Press.
+1. Pautz, A. (2019). A dilemma for Russellian monists about consciousness. *Philosophical Studies*, 176, 2921-2946.
+1. Robinson, W.S. (2018). Russellian monism and epiphenomenalism. *Pacific Philosophical Quarterly*, 99(S1), 100-117.
 1. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
 1. Strawson, G. (2006). Realistic monism: Why physicalism entails panpsychism. *Journal of Consciousness Studies*, 13(10-11).
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Wiest, M.C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
+
+<!-- AI REFINEMENT LOG - 2026-03-15
+Changes made:
+- Restructured "Why the Map Prefers Explicit Dualism" into four subsections: Parity Problem (Pautz), Instability Argument (Cutter), Epiphenomenalism Return (Howell/Robinson), and Map's Advantages
+- Sharpened opening summary to front-load the three key critiques (Pautz, Cutter, Howell) and cross-reference bi-aspectual ontology
+- Added Cutter's instability argument to Relation to Site Perspective (Dualism entry)
+- Strengthened interaction mechanism subsection with contingency thesis contrast
+- Added 6 new references: Alter & Coleman 2020, Cutter 2019, Howell 2014, Pautz 2017, Robinson 2018; expanded Pautz 2019 citation
+- Added epiphenomenalism and philosophical-zombies to concepts list
+
+Based on research in russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md.
+Key improvements: Incorporated three major critiques that strengthen the Map's case for explicit dualism over Russellian monism.
+
+This log should be removed after human review.
+-->

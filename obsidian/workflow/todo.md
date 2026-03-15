@@ -683,12 +683,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-14
 
-### P2: Refine russellian-monism.md with new research findings
-- **Type**: refine-draft
-- **Notes**: Research completed in research/russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md identifying five pressure points where Russellian monism challenges the Map and five advantages where the Map has the stronger position. Incorporate key findings (Pautz: RM offers no advantage over dualism; Cutter: RM is unstable; Howell: RM faces epiphenomenalism). Also cross-reference new concepts/bi-aspectual-ontology.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-15
-
 ### ✓ 2026-03-15: Condense temporal-consciousness.md (3974 words, 114% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Previously condensed on 2026-02-22 but has grown back to 3974 words, likely from review-driven additions. Preserve core arguments while removing redundancy. See /condense skill.
@@ -733,6 +727,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Refine russellian-monism.md with new research findings
+- **Type**: refine-draft
+- **Notes**: Research completed in research/russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md identifying five pressure points where Russellian monism challenges the Map and five advantages where the Map has the stronger position. Incorporate key findings (Pautz: RM offers no advantage over dualism; Cutter: RM is unstable; Howell: RM faces epiphenomenalism). Also cross-reference new concepts/bi-aspectual-ontology.md.
+- **Output**: obsidian/concepts/russellian-monism.md
+
+Task context:
+Research completed in research/russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md identifying five pressure points where Russellian monism challenges the Map and five advantages where the Map has the stronger position. Incorporate key findings (Pautz: RM offers no advantage over dualism; Cutter: RM is unstable; Howell: RM faces epiphenomenalism). Also cross-reference new concepts/bi-aspectual-ontology.md.
 
 ### ✓ 2026-03-15: Address "actuality" explanatory gap in bi-aspectual-ontology.md
 - **Type**: refine-draft
