@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T12:29:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Pragmatism's Path to Dualism
+- **Output**: [[topics/pragmatisms-path-to-dualism]]
+- **Word count**: 1720
+- **Based on research**: No (built on existing articles: consciousness-and-the-limits-of-explanation, argument-from-reason, william-james-consciousness)
+
 ## 2026-03-15T12:19:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/brain-computer-interfaces-and-the-interface-boundary]]
