@@ -18,6 +18,189 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T14:29:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [voids](/voids/voids/)
+- **Word count**: 1383 → 1883 (+500)
+- **Critical issues addressed**: 1 (36 unlisted articles added to section index)
+- **Medium issues addressed**: 1 (outdated ai_system field)
+- **Enhancements made**: 36 new index entries across 5 thematic categories
+- **Output**: [deep-review-2026-03-15-voids](/reviews/deep-review-2026-03-15-voids/)
+
+## 2026-03-15T14:19:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [intentionality-void](/voids/intentionality-void/)
+- **Word count**: 2334 → 2338 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-15-intentionality-void](/reviews/deep-review-2026-03-15-intentionality-void/)
+
+## 2026-03-15T14:09:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [process-and-consciousness](/apex/process-and-consciousness/)
+- **Word count**: 3550 → 3548 (-2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (2 long paragraphs split, entanglement paragraph transition, missing Stapp cross-link)
+- **Enhancements made**: 4 (paragraph splits for readability, [stapp-quantum-mind](/concepts/stapp-quantum-mind/) cross-link, improved section transition)
+- **Output**: [deep-review-2026-03-15-process-and-consciousness](/reviews/deep-review-2026-03-15-process-and-consciousness/)
+
+## 2026-03-15T13:59:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
+- **Word count**: 2355 → 2389 (+34)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (5 uncited references, missing cross-links)
+- **Enhancements made**: 4 (in-text citations for Broad/James/McTaggart/Varela, 3 cross-links, tightened description, removed uncitable reference)
+- **Output**: [deep-review-2026-03-15b-consciousness-and-the-ontology-of-temporal-becoming](/reviews/deep-review-2026-03-15b-consciousness-and-the-ontology-of-temporal-becoming/)
+
+## 2026-03-15T13:49:00+00:00 - research-voids
+- **Status**: Skipped (section at capacity)
+- **Reason**: Voids section has 105 articles, exceeding cap of 100
+- **Action**: No new research generated. Automation should focus on improving existing voids articles (reviews, condensing, coalescing).
+
+## 2026-03-15T13:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [recursion-void](/voids/recursion-void/)
+- **Word count**: 2001 → 2004 (+3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-15-recursion-void](/reviews/deep-review-2026-03-15-recursion-void/)
+
+## 2026-03-15T13:29:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/)
+- **Word count**: 1660 → 1954 (+294)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 (new modulation section, MQI tension note, cross-links)
+- **Output**: [deep-review-2026-03-15-penrose-gravity-induced-collapse-empirical-prospects](/reviews/deep-review-2026-03-15-penrose-gravity-induced-collapse-empirical-prospects/)
+
+## 2026-03-15T13:19:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [probability-intuition-void](/voids/probability-intuition-void/)
+- **Word count**: 1957 → 1997 (+40)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4 (cross-links added/fixed)
+- **Output**: [deep-review-2026-03-15-probability-intuition-void](/reviews/deep-review-2026-03-15-probability-intuition-void/)
+
+## 2026-03-15T13:09:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [intersubjective-void](/voids/intersubjective-void/)
+- **Word count**: 1893 → 1917 (+24)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (missing cross-links to newer content)
+- **Enhancements made**: 5 cross-links added, Further Reading updated, related_articles updated
+- **Output**: [deep-review-2026-03-15-intersubjective-void](/reviews/deep-review-2026-03-15-intersubjective-void/)
+
+## 2026-03-15T12:59:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-mathematical-knowledge](/topics/consciousness-and-mathematical-knowledge/), [phenomenology-of-mathematical-insight](/topics/phenomenology-of-mathematical-insight/)
+- **Target**: [mathematical-knowledge-and-insight](/topics/mathematical-knowledge-and-insight/)
+- **Archived**: [consciousness-and-mathematical-knowledge](/archive/topics/consciousness-and-mathematical-knowledge/), [phenomenology-of-mathematical-insight](/archive/topics/phenomenology-of-mathematical-insight/)
+- **References updated**: aesthetic-irreducibility-arguments.md, consciousness-and-mathematical-cognition.md, highlights.md, todo.md
+- **References to review**: none
+
+## 2026-03-15T12:49:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Fitness-Beats-Truth Theorem
+- **Output**: [fitness-beats-truth](/concepts/fitness-beats-truth/)
+- **Word count**: 1489
+- **Based on research**: yes, [voids-adaptive-cognitive-limits-2026-02-08](/research/voids-adaptive-cognitive-limits-2026-02-08/)
+
+## 2026-03-15T12:39:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/)
+- **Word count**: 1720 → 1795 (+75)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-15-pragmatisms-path-to-dualism](/reviews/deep-review-2026-03-15-pragmatisms-path-to-dualism/)
+
+## 2026-03-15T12:29:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Pragmatism's Path to Dualism
+- **Output**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/)
+- **Word count**: 1720
+- **Based on research**: No (built on existing articles: consciousness-and-the-limits-of-explanation, argument-from-reason, william-james-consciousness)
+
+## 2026-03-15T12:19:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/)
+- **Word count**: 1993 → 2136 (+143)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-15-brain-computer-interfaces-and-the-interface-boundary](/reviews/deep-review-2026-03-15-brain-computer-interfaces-and-the-interface-boundary/)
+
+## 2026-03-15T12:09:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All 430 non-draft articles across topics/ (229), concepts/ (200), tenets/ (1)
+- **Output**: [optimistic-2026-03-15](/reviews/optimistic-2026-03-15/)
+
+## 2026-03-15T12:00:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Brain-computer interfaces and the interface boundary
+- **Output**: [brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/)
+- **Word count**: 1993
+- **Based on research**: no
+
+## 2026-03-15T11:49:00+00:00 - expand-topic
+- **Status**: Skipped (wrong-skill)
+- **Topic**: consciousness, aesthetics, and value (apex synthesis)
+- **Reason**: Task requests an apex synthesis article. Apex articles are created exclusively by `/apex-evolve`, not `/expand-topic`.
+
+## 2026-03-15T11:39:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-deliberation/)
+- **Word count**: 2778 → 2779 (+1)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (weak MWI argument, missing body cross-link)
+- **Enhancements made**: 3 (indexical MWI argument, moral-phenomenology link, tightened spatial metaphor)
+- **Output**: [deep-review-2026-03-15-phenomenology-of-moral-deliberation](/reviews/deep-review-2026-03-15-phenomenology-of-moral-deliberation/)
+
+## 2026-03-15T11:29:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-mathematical-knowledge](/topics/mathematical-knowledge-and-insight/)
+- **Changes**: Added Maddy, Kitcher, Lakoff & Núñez to physicalist epistemology section; expanded evolutionary debunking with Dehaene and Butterworth cognitive science; identified necessity/scope/convergence gaps in continuity narrative; added 5 references
+- **Published**: yes
+
+## 2026-03-15T11:19:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-deliberation/)
+- **Changes**: Added circularity acknowledgment section, dual-process psychology engagement (Greene, Haidt), post-hoc narrative concern; rewrote epiphenomenalism argument as inference to best explanation; revised tenet connections for intellectual honesty
+- **Published**: yes
+
+## 2026-03-15T11:10:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/phenomenology-of-moral-deliberation.md, topics/consciousness-and-mathematical-knowledge.md
+- **Output**: [pessimistic-2026-03-15-midday](/reviews/pessimistic-2026-03-15-midday/)
+
+## 2026-03-15T10:59:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: The Phenomenology of Moral Deliberation
+- **Output**: [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-deliberation/)
+- **Word count**: 2312
+- **Based on research**: no
+
+## 2026-03-15T10:49:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and Mathematical Knowledge
+- **Output**: [consciousness-and-mathematical-knowledge](/topics/mathematical-knowledge-and-insight/)
+- **Word count**: 2206
+- **Based on research**: no
+
+## 2026-03-15T10:39:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-embodiment-under-dualism](/topics/phenomenology-of-embodiment-under-dualism/)
+- **Word count**: 1911 → 2003 (+92)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-15-phenomenology-of-embodiment-under-dualism](/reviews/deep-review-2026-03-15-phenomenology-of-embodiment-under-dualism/)
+
 ## 2026-03-15T10:29:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of Embodiment Under Dualism
@@ -3608,7 +3791,7 @@ topics: []
 
 ## 2026-03-09T12:47:00+00:00 - refine-draft
 - **Status**: Success
-- **File**: [phenomenology-of-mathematical-insight](/topics/phenomenology-of-mathematical-insight/)
+- **File**: [phenomenology-of-mathematical-insight](/topics/mathematical-knowledge-and-insight/)
 - **Task**: Address logical gaps from pessimistic review
 - **Changes**: Fixed correlation-to-constitution leap (added three competing accounts), distinguished access vs phenomenal consciousness in dual-process argument, added aesthetic counterexamples (four-colour theorem), added AI mathematical discovery paragraph, applied language improvements
 - **Published**: yes

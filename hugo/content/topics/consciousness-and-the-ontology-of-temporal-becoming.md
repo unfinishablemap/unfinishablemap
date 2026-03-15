@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-15 05:07:00+00:00
+ai_modified: 2026-03-15 13:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -23,15 +23,17 @@ concepts:
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[agent-causation]]'
 - '[[mental-causation]]'
+- '[[causal-closure]]'
+- '[[conservation-laws-and-mental-causation]]'
+- '[[downward-causation]]'
 created: 2026-02-15
 date: &id001 2026-03-15
-description: Why your theory of time constrains your theory of mind, and how consciousness
-  constitutes the phenomenological arrow—the experienced direction of time—enabling
-  genuine creativity that no atemporal process can replicate.
+description: How temporal ontology constrains consciousness theory, and why consciousness
+  constitutes the phenomenological arrow—felt passage enabling genuine creativity.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-15 05:07:00+00:00
+last_deep_review: 2026-03-15 13:59:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +74,7 @@ These arrows typically align but are conceptually distinct. The Map proposes tha
 
 ## Temporal Ontology Constrains Consciousness Theory
 
-The [philosophy of time](/concepts/philosophy-of-time/) offers three major positions. **Eternalism** (the block universe) holds that past, present, and future are equally real. **Presentism** holds that only the present moment exists. The **growing block** holds that past and present exist but the future does not yet. Each makes temporal experience either central, peripheral, or illusory—and that shapes what consciousness can plausibly be.
+The [philosophy of time](/concepts/philosophy-of-time/)—structured since McTaggart (1908) around whether temporal passage is real—offers three major positions. **Eternalism** (the block universe) holds that past, present, and future are equally real. **Presentism** holds that only the present moment exists. The **growing block** (Broad 1923) holds that past and present exist but the future does not yet. Each makes temporal experience either central, peripheral, or illusory—and that shapes what consciousness can plausibly be.
 
 ### Eternalism and Its Costs
 
@@ -84,7 +86,7 @@ The most natural pairing remains eternalism with [functionalism](/concepts/funct
 
 ### Presentism and the Causal Gap
 
-Presentism takes temporal experience at face value but creates a different problem. If only the present exists, causation is puzzling—causes no longer exist when effects occur. For consciousness this is devastating: the [specious present](/concepts/temporal-consciousness/) requires the just-past to be retained within the present. Husserl's retention preserves the past note while the current note sounds. But if the past literally doesn't exist, retention becomes a representation of nothing.
+Presentism takes temporal experience at face value but creates a different problem. If only the present exists, causation is puzzling—causes no longer exist when effects occur. For consciousness this is devastating: the [specious present](/concepts/temporal-consciousness/) (James 1890) requires the just-past to be retained within the present. Husserl's retention—explored neurophenomenologically by Varela (1999)—preserves the past note while the current note sounds. But if the past literally doesn't exist, retention becomes a representation of nothing.
 
 Presentism also struggles with [collapse and time's arrow](/concepts/collapse-and-time/). If collapse creates irreversibility, the collapsed past must exist in some sense. Its definiteness distinguishes it from the still-open future. Presentism, by abolishing the past, loses the asymmetry that makes collapse meaningful.
 
@@ -92,9 +94,9 @@ Presentism also struggles with [collapse and time's arrow](/concepts/collapse-an
 
 The [growing block](/topics/growing-block-universe-and-consciousness/) preserves what the other ontologies sacrifice. The past exists (unlike presentism), so retention and causal inheritance are genuine relations to real things. The future doesn't yet exist (unlike eternalism), so temporal passage and openness are real.
 
-This ontology pairs naturally with the Map's framework. Temporal experience is veridical—flow is real because reality is genuinely accumulating. Consciousness operates at the ontological frontier, participating in [collapse](/concepts/collapse-and-time/)—the process by which quantum superposition becomes definite outcome. Objective collapse theories (GRW, Penrose) hold that collapse occurs through physical mechanisms alone; the Map's position is that consciousness *modulates* collapse in neural systems specifically, biasing outcomes without replacing the physical mechanism. Past collapsed states constrain present possibilities; consciousness selects among remaining open possibilities; the selection becomes a new definite fact.
+This ontology pairs naturally with the Map's framework. Temporal experience is veridical—flow is real because reality is genuinely accumulating. Consciousness operates at the ontological frontier, participating in [collapse](/concepts/collapse-and-time/)—the process by which quantum superposition becomes definite outcome. Objective collapse theories (GRW, Penrose) hold that collapse occurs through physical mechanisms alone; the Map's position is that consciousness *modulates* collapse in neural systems specifically, biasing outcomes without replacing the physical mechanism—a form of [downward causation](/concepts/downward-causation/) compatible with [conservation laws](/concepts/conservation-laws-and-mental-causation/). Past collapsed states constrain present possibilities; consciousness selects among remaining open possibilities; the selection becomes a new definite fact.
 
-The hard problem deepens productively: physical processes occur within temporal structure; temporal structure is partly constituted by consciousness; therefore consciousness cannot be fully explained by the physical processes it helps make possible. A critic may charge circularity—assuming dualist interactionism to motivate the growing block, then using the growing block to argue for dualist interactionism. The Map accepts this as characteristic of metaphysical reasoning: the best metaphysical packages are those whose components reinforce each other, and coherence arguments are the primary tool for evaluating competing frameworks.
+The hard problem deepens productively: physical processes occur within temporal structure; temporal structure is partly constituted by consciousness; therefore consciousness cannot be fully explained by the physical processes it helps make possible. [Causal closure](/concepts/causal-closure/) fails here not as an empirical claim but as a structural feature of the relationship between consciousness and temporal ontology. A critic may charge circularity—assuming dualist interactionism to motivate the growing block, then using the growing block to argue for dualist interactionism. The Map accepts this as characteristic of metaphysical reasoning: the best metaphysical packages are those whose components reinforce each other, and coherence arguments are the primary tool for evaluating competing frameworks.
 
 ## Consciousness as Constitutive of the Phenomenological Arrow
 
@@ -174,7 +176,6 @@ Whitehead's [process metaphysics](/concepts/process-philosophy/) provides a fram
 1. McTaggart, J.M.E. (1908). The Unreality of Time. *Mind*, 17(68), 457-474.
 1. Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
 1. Prosser, S. (2016). *Experiencing Time*. Oxford University Press.
-1. Tooley, M. (1997). *Time, Tense, and Causation*. Oxford University Press.
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
 1. Varela, F.J. (1999). The Specious Present: A Neurophenomenology of Time Consciousness. In *Naturalizing Phenomenology*. Stanford University Press.
 1. Weyl, H. (1949). *Philosophy of Mathematics and Natural Science*. Princeton University Press.

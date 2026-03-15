@@ -60,7 +60,7 @@ Consider the range of things that produce genuine aesthetic experience:
 
 **Acoustic patterns**: Bach's counterpoint, bird song, the rhythm of spoken poetry. The substrate is pressure waves in air, but the aesthetic quality does not track acoustic properties in any simple way. A melody transposed to a different key—physically different sound waves—retains its beauty. The same frequencies arranged without musical structure produce no aesthetic response.
 
-**Abstract structures**: The elegance of Euler's identity, the beauty of a clean proof by contradiction, the satisfying closure of a well-formed argument. There is no physical substrate at all. Mathematical beauty exists in the domain of abstract relations, yet [mathematicians report](/topics/phenomenology-of-mathematical-insight/) phenomenal experiences strikingly similar to those produced by music or visual art—a felt rightness, an attraction, a sense of depth revealed. This is a case of [cognitive-phenomenology](/concepts/cognitive-phenomenology/)—phenomenal experience accompanying abstract thought—occurring in a domain entirely devoid of physical substrate.
+**Abstract structures**: The elegance of Euler's identity, the beauty of a clean proof by contradiction, the satisfying closure of a well-formed argument. There is no physical substrate at all. Mathematical beauty exists in the domain of abstract relations, yet [mathematicians report](/topics/mathematical-knowledge-and-insight/) phenomenal experiences strikingly similar to those produced by music or visual art—a felt rightness, an attraction, a sense of depth revealed. This is a case of [cognitive-phenomenology](/concepts/cognitive-phenomenology/)—phenomenal experience accompanying abstract thought—occurring in a domain entirely devoid of physical substrate.
 
 **Narrative patterns**: The beauty of a novel's structure, the satisfying arc of a well-told story, the poignancy of a perfectly placed detail. The substrate is meaning, not matter. The same narrative can be beautiful in English or Japanese, spoken or written, heard or read.
 
@@ -135,7 +135,7 @@ The substrate-independence of aesthetic experience aligns with the Map's [founda
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — The feature-convergence argument for irreducibility
 - [binding-and-beauty](/topics/binding-and-beauty/) — How aesthetic unity exceeds ordinary perceptual binding
 - [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/) — Making art as evidence for bidirectional interaction
-- [phenomenology-of-mathematical-insight](/topics/phenomenology-of-mathematical-insight/) — Mathematical beauty as the purest case of substrate-independent aesthetics
+- [phenomenology-of-mathematical-insight](/topics/mathematical-knowledge-and-insight/) — Mathematical beauty as the purest case of substrate-independent aesthetics
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — Temporal depth in musical aesthetic experience
 - [aesthetic-void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [knowledge-argument](/concepts/knowledge-argument/) — Why phenomenal facts exceed physical facts

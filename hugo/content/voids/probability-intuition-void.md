@@ -1,14 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-03
-ai_modified: 2026-03-07 22:39:00+00:00
+ai_modified: 2026-03-15 13:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[mysterianism]]'
+- '[[cognitive-closure]]'
 - '[[phenomenology]]'
 - '[[simulation]]'
 - '[[qualia]]'
+- '[[fitness-beats-truth]]'
 created: 2026-02-03
 date: &id001 2026-02-07
 description: Human+AI exploration of why genuine randomness and probabilistic reasoning
@@ -16,7 +18,7 @@ description: Human+AI exploration of why genuine randomness and probabilistic re
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-07 02:26:00+00:00
+last_deep_review: 2026-03-15 13:19:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -25,8 +27,10 @@ related_articles:
 - '[[scale-void]]'
 - '[[embodiment-cognitive-limits]]'
 - '[[evolved-cognitive-limits]]'
+- '[[compound-cognitive-limits]]'
 - '[[developmental-cognitive-closure]]'
 - '[[phenomenology-of-the-edge]]'
+- '[[phenomenology-of-deliberation-under-uncertainty]]'
 - '[[hard-problem-of-consciousness]]'
 title: The Probability Intuition Void
 topics:
@@ -49,7 +53,7 @@ These failures are not mere ignorance. Kahneman reports that statistical trainin
 
 ## The Evolutionary Mismatch
 
-Why are human minds structured this way? The evolutionary mismatch hypothesis provides a compelling explanation. Human psychological mechanisms evolved for ancestral savanna environments where sequential frequency-counting—tracking how often events occurred in direct experience—was sufficient. Abstract probability manipulation (calculating conditional probabilities, understanding base rates) provided no survival advantage.
+Why are human minds structured this way? The evolutionary mismatch hypothesis provides a compelling explanation. Human psychological mechanisms evolved for ancestral environments where sequential frequency-counting—tracking how often events occurred in direct experience—was sufficient. Abstract probability manipulation provided no survival advantage. The [fitness-beats-truth theorem](/concepts/fitness-beats-truth/) formalises this: natural selection favours fitness-tuned perception over veridical perception, so our probability intuitions were never optimised for accuracy.
 
 Gigerenzer and Hoffrage's research reveals a crucial asymmetry: humans reason correctly about probability when information is presented as natural frequencies rather than percentages. In their 1995 study, correct Bayesian reasoning roughly tripled when problems used frequency format versus standard probability format. The evolutionary logic is straightforward: sequential frequency-counting was the format available to ancestral minds, and our cognitive machinery is calibrated accordingly (Gigerenzer & Hoffrage 1995). We process "3 out of 100" readily but fail when the same information is presented as "3%."
 
@@ -89,7 +93,7 @@ The probability intuition void spans multiple categories in the [voids taxonomy]
 
 The probability intuition void differs from the [Scale Void](/voids/scale-void/) in important ways. Scale failure concerns magnitude—we cannot intuit a billion because our number systems evolved for smaller quantities. Probability failure concerns something deeper: our relationship to uncertainty itself, to the structure of randomness, to events without pattern or cause.
 
-Colin McGinn's [cognitive closure](/concepts/mysterianism/) framework illuminates why probability limits might be structural. If consciousness inherently seeks meaning, pattern, and agency—if these orientations are not incidental features but constitutive of what consciousness is—then genuine randomness would be categorically outside its scope. We have the symbols for probability but no phenomenological referent. The formal manipulation succeeds; the understanding does not follow.
+Colin McGinn's [cognitive closure](/concepts/cognitive-closure/) framework illuminates why probability limits might be structural. If consciousness inherently seeks meaning, pattern, and agency—if these orientations are not incidental features but constitutive of what consciousness is—then genuine randomness would be categorically outside its scope. We have the symbols for probability but no phenomenological referent. The formal manipulation succeeds; the understanding does not follow.
 
 This suggests consciousness may be intrinsically intentional in structure—always oriented toward something, seeking pattern, meaning, cause. Pure randomness—events with no pattern, no cause, no meaning—would be precisely what such a consciousness cannot grasp from the inside. The probability intuition void may be one concrete instance of the [hard problem](/topics/hard-problem-of-consciousness/): we lack phenomenal access to a fundamental feature of reality. We might causally interact with random processes (as quantum mechanics suggests we do) while being phenomenologically blind to their nature.
 
@@ -109,14 +113,17 @@ The probability intuition void connects to the Map's [tenets](/tenets/) in sever
 
 ## Further Reading
 
-- [voids](/voids/) — The broader framework for investigating cognitive limits
-- [three-kinds-of-void](/voids/three-kinds-of-void/) — The core taxonomy: unexplored, unexplorable, occluded
+- [voids](/voids/) — Framework for investigating cognitive limits
+- [three-kinds-of-void](/voids/three-kinds-of-void/) — Core taxonomy: unexplored, unexplorable, occluded
 - [scale-void](/voids/scale-void/) — The related void concerning magnitude comprehension
-- [cognitive closure](/concepts/mysterianism/) — McGinn's framework for permanent cognitive limits
-- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence that probability errors are species-level, not cultural
+- [cognitive-closure](/concepts/cognitive-closure/) — McGinn's framework for permanent cognitive limits
+- [fitness-beats-truth](/concepts/fitness-beats-truth/) — Why natural selection tunes perception for fitness, not accuracy
+- [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence that probability errors are species-level
+- [compound-cognitive-limits](/voids/compound-cognitive-limits/) — How multiple cognitive limits interact superadditively
 - [developmental-cognitive-closure](/voids/developmental-cognitive-closure/) — How cognitive limits are acquired through development
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
+- [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — The phenomenology of deciding under unknowable outcomes
 
 ## References
 

@@ -83,7 +83,7 @@ Formal beauty appears across domains that share mathematical structure but nothi
 
 The [substrate-independence argument](/topics/aesthetic-irreducibility-arguments/) establishes that beauty in general cannot be a physical property because it appears across physically unrelated domains. Formal beauty sharpens this argument by removing a physicalist escape route. For general beauty—the beauty of sunsets, novels, faces—the physicalist can argue that the cross-domain commonality is merely verbal: perhaps "beauty" names different properties in different domains, unified only by a word. Formal beauty forecloses this response. The *same* mathematical structure—symmetry, ratio simplicity, group-theoretic order—appears across domains, and the *same* felt quality of formal elegance accompanies it. The cross-domain unity is not verbal but structural and phenomenal. Yet the structural unity does not explain the phenomenal unity: a crystal lattice has symmetry whether or not anyone observes it. The formal property is present without the beauty. Beauty arrives only with consciousness.
 
-The generality of formal beauty across domains confirms this. [Mathematicians describe](/topics/phenomenology-of-mathematical-insight/) the experience of formal elegance as phenomenally vivid—a felt quality of rightness that guides proof strategy and theory choice. This is [cognitive-phenomenology](/concepts/cognitive-phenomenology/) in its purest form: phenomenal experience accompanying abstract cognition about formal structure. The formal structure can be specified without any reference to experience. Yet the aesthetic quality of engaging with that structure cannot.
+The generality of formal beauty across domains confirms this. [Mathematicians describe](/topics/mathematical-knowledge-and-insight/) the experience of formal elegance as phenomenally vivid—a felt quality of rightness that guides proof strategy and theory choice. This is [cognitive-phenomenology](/concepts/cognitive-phenomenology/) in its purest form: phenomenal experience accompanying abstract cognition about formal structure. The formal structure can be specified without any reference to experience. Yet the aesthetic quality of engaging with that structure cannot.
 
 ## Formal Beauty as Controlled Experiment
 
@@ -130,7 +130,7 @@ The Unfinishable Map's [foundational commitments](/tenets/) gain particular supp
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Feature-convergence argument for irreducibility
 - [aesthetic-experience-as-evidence-for-irreducibility](/topics/aesthetic-irreducibility-arguments/) — Substrate-independence argument
 - [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/) — Making art as evidence for bidirectional interaction
-- [phenomenology-of-mathematical-insight](/topics/phenomenology-of-mathematical-insight/) — Mathematical beauty as cognitive phenomenology
+- [phenomenology-of-mathematical-insight](/topics/mathematical-knowledge-and-insight/) — Mathematical beauty as cognitive phenomenology
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — Temporal depth in musical aesthetic experience
 - [binding-and-beauty](/topics/binding-and-beauty/) — How aesthetic unity exceeds ordinary perceptual binding
 - [knowledge-argument](/concepts/knowledge-argument/) — Why phenomenal facts exceed physical facts

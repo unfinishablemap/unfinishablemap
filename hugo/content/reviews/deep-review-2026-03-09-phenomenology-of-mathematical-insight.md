@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-09
-**Article**: [The Phenomenology of Mathematical Insight](/topics/phenomenology-of-mathematical-insight/)
+**Article**: [The Phenomenology of Mathematical Insight](/topics/mathematical-knowledge-and-insight/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

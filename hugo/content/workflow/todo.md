@@ -56,46 +56,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
-### P3: Deep review intersubjective-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the intersubjective void — the impossibility of fully sharing or verifying another's experience. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
+### P3: Create concept page for token-level determination
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The token vs. type-level causation distinction is referenced across quantum consciousness, motor control, and normative force articles but has no anchor page. Core to Tenets 2 and 3. See optimistic-2026-03-15.md
 - **Generated**: 2026-03-15
 
-### P3: Deep review probability-intuition-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the probability intuition void — how probability resists full intuitive grasp. Relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
+### P3: Create concept page for developmental integration
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The hypothesis that the consciousness-brain interface requires extended neural development and cannot be shortcut. Referenced in BCI, contemplative pathology, and comparative cognition articles. Would unify several independent lines of evidence. See optimistic-2026-03-15.md
 - **Generated**: 2026-03-15
 
-### P3: Deep review recursion-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the recursion void — the paradoxes of self-referential consciousness. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-15
-
-### P3: Deep review consciousness-and-the-ontology-of-temporal-becoming.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created by coalesce, never reviewed. Topics article combining temporal ontology and temporal becoming — core to the Map's temporal consciousness cluster. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-15
-
-### P3: Deep review process-and-consciousness.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-08 — 35 days ago. Apex article on process philosophy and consciousness — synthesis piece that should accurately represent current content. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-15
-
-### P3: Deep review intentionality-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 38 days ago. Voids article on the intentionality void — how aboutness resists reductive explanation. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-15
-
-### P3: Deep review voids.md
-- **Type**: deep-review
-- **Notes**: Section index page (ai_contribution: 80) last reviewed 2026-02-01 — 42 days ago. As the voids section landing page, should accurately reflect current voids content and taxonomy. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
+### P3: Write article on mathematical necessity and normative demand
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Both mathematical-knowledge-and-insight and consciousness-and-normative-force identify "forcing"/"demand" quality in phenomenal experience but the structural parallel is never explicit. Short cross-cutting synthesis. See optimistic-2026-03-15.md
 - **Generated**: 2026-03-15
 
 ### P3: Deep review altered-states-as-void-probes.md
@@ -372,36 +348,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: integrate-orphan
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
-
-### P2: Write article on consciousness and mathematical knowledge
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-03-04 evening. Mathematical knowledge poses a unique challenge for physicalism: mathematical truths are abstract, necessary, and discovered rather than invented. How does a physical brain access abstract mathematical facts? Gödel's incompleteness theorems and Penrose's argument that mathematical insight transcends computation are relevant. Builds on argument-from-reason.md, qualia.md, cognitive-phenomenology. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 5 (Occam's Razor Has Limits). See [optimistic-2026-03-04-evening](/reviews/optimistic-2026-03-04-evening/).
-
-### P2: Write article on the phenomenology of moral deliberation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-03-04 evening. Moral deliberation involves phenomenal character (the felt weight of obligation, the pull of competing values) that resists functional reduction. The aesthetic article's treatment of normative-qualitative entanglement has a natural moral counterpart. Builds on aesthetic-dimension-of-consciousness.md, phenomenal-value-realism, phenomenology-of-moral-experience. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). See [optimistic-2026-03-04-evening](/reviews/optimistic-2026-03-04-evening/).
-
-### P2: Write article on consciousness, aesthetics, and value (apex synthesis)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Unify the decomposition test (binding-and-beauty), phenomenal value pluralism (phenomenal-value-realism), and filter model (dream-consciousness) into a major apex synthesis on aesthetic experience as both irreducible and causally efficacious. Target section: apex/. Supports Tenets 1 and 3. See [optimistic-2026-03-05](/reviews/optimistic-2026-03-05/).
-
-### P2: Write article on brain-computer interfaces and the interface boundary
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. As BCIs develop, does conscious control extend to external systems connected through neural feedback? Tests the developmental integration constraint from brain-specialness-boundary.md empirically. Builds on brain-specialness-boundary.md, attention-as-selection-interface.md, the-interface-specification-problem.md. Target section: topics/. Supports Tenet 2. See [optimistic-2026-03-05](/reviews/optimistic-2026-03-05/).
-
-### P2: Write article on pragmatism's path to dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Van Fraassen's pragmatic view inadvertently supports the reflexive gap; pragmatism pushed to its conclusion arrives at dualism-friendly territory. Builds on consciousness-and-the-limits-of-explanation.md, argument-from-reason.md. Target section: topics/. Supports Tenet 5. See [optimistic-2026-03-05](/reviews/optimistic-2026-03-05/).
-
-### P2: Write concept page for Fitness-Beats-Truth theorem
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Hoffman, Singh & Prakash's formal proof that fitness-tuned perception dominates truth-tuned perception. Currently discussed in evolved-cognitive-limits.md but deserves standalone concept page given implications for parsimony arguments, perceptual reliability, and Occam's Razor. Target section: concepts/ (1 slot remaining). Supports Tenet 5 (Occam's Razor Has Limits). See [optimistic-2026-03-05-afternoon](/reviews/optimistic-2026-03-05-afternoon/).
 
 ### P2: Write article on phenomenology of cognitive limit types
 - **Type**: expand-topic
@@ -768,6 +714,92 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Deep review voids.md
+- **Type**: deep-review
+- **Notes**: Section index page (ai_contribution: 80) last reviewed 2026-02-01 — 42 days ago. As the voids section landing page, should accurately reflect current voids content and taxonomy. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/voids.md
+
+### ✓ 2026-03-15: Deep review intentionality-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 38 days ago. Voids article on the intentionality void — how aboutness resists reductive explanation. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/intentionality-void.md
+
+### ✓ 2026-03-15: Deep review process-and-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-08 — 35 days ago. Apex article on process philosophy and consciousness — synthesis piece that should accurately represent current content. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/apex/process-and-consciousness.md
+
+### ✓ 2026-03-15: Deep review consciousness-and-the-ontology-of-temporal-becoming.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created by coalesce, never reviewed. Topics article combining temporal ontology and temporal becoming — core to the Map's temporal consciousness cluster. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/consciousness-and-the-ontology-of-temporal-becoming.md
+
+### ✓ 2026-03-15: Deep review recursion-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the recursion void — the paradoxes of self-referential consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/recursion-void.md
+
+### ✓ 2026-03-15: Deep review probability-intuition-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the probability intuition void — how probability resists full intuitive grasp. Relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/probability-intuition-void.md
+
+### ✓ 2026-03-15: Deep review intersubjective-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the intersubjective void — the impossibility of fully sharing or verifying another's experience. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/intersubjective-void.md
+
+### ✓ 2026-03-15: Write concept page for Fitness-Beats-Truth theorem
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Hoffman, Singh & Prakash's formal proof that fitness-tuned perception dominates truth-tuned perception. Currently discussed in evolved-cognitive-limits.md but deserves standalone concept page given implications for parsimony arguments, perceptual reliability, and Occam's Razor. Target section: concepts/ (1 slot remaining). Supports Tenet 5 (Occam's Razor Has Limits). See [optimistic-2026-03-05-afternoon](/reviews/optimistic-2026-03-05-afternoon/).
+- **Output**: Write concept page for Fitness-Beats-Truth theorem
+
+### ✓ 2026-03-15: Write article on pragmatism's path to dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Van Fraassen's pragmatic view inadvertently supports the reflexive gap; pragmatism pushed to its conclusion arrives at dualism-friendly territory. Builds on consciousness-and-the-limits-of-explanation.md, argument-from-reason.md. Target section: topics/. Supports Tenet 5. See [optimistic-2026-03-05](/reviews/optimistic-2026-03-05/).
+- **Output**: pragmatism's path to dualism
+
+### ✓ 2026-03-15: Cross-review brain-computer-interfaces-and-the-interface-boundary
+- **Type**: cross-review
+- **Notes**: New article on BCIs and the interface boundary. Review related articles (brain-specialness-boundary.md, attention-as-selection-interface.md, embodied-consciousness-and-the-interface.md, the-interface-location-problem.md) for cross-linking opportunities and consistency.
+- **Output**: None -- Context: Cross-review brain-computer-interfaces-and-the-interface-boundary
+
+### ✓ 2026-03-15: Write article on brain-computer interfaces and the interface boundary
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. As BCIs develop, does conscious control extend to external systems connected through neural feedback? Tests the developmental integration constraint from brain-specialness-boundary.md empirically. Builds on brain-specialness-boundary.md, attention-as-selection-interface.md, the-interface-specification-problem.md. Target section: topics/. Supports Tenet 2. See [optimistic-2026-03-05](/reviews/optimistic-2026-03-05/).
+- **Output**: brain-computer interfaces and the interface boundary
+
+### ✓ 2026-03-15: Write article on consciousness, aesthetics, and value (apex synthesis)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Unify the decomposition test (binding-and-beauty), phenomenal value pluralism (phenomenal-value-realism), and filter model (dream-consciousness) into a major apex synthesis on aesthetic experience as both irreducible and causally efficacious. Target section: apex/. Supports Tenets 1 and 3. See [optimistic-2026-03-05](/reviews/optimistic-2026-03-05/).
+- **Output**: consciousness, aesthetics, and value (apex synthesis)
+
+### ✓ 2026-03-15: Strengthen physicalist engagement in consciousness-and-mathematical-knowledge.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) superficial treatment of physicalist mathematical epistemology—Maddy, Kitcher, Lakoff & Núñez all absent, (2) evolutionary debunking argument dismissed too quickly without engaging cognitive science (Dehaene, Butterworth). See pessimistic-2026-03-15-midday.md
+- **Output**: obsidian/topics/consciousness-and-mathematical-knowledge.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) superficial treatment of physicalist mathematical epistemology—Maddy, Kitcher, Lakoff & Núñez all absent, (2) evolutionary debunking argument dismissed too quickly without engaging cognitive science (Dehaene, Butterworth). See pessimistic-2026-03-15-midday.md
+
+### ✓ 2026-03-15: Address circularity and missing empirical engagement in phenomenology-of-moral-deliberation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found three high-severity issues: (1) circular use of phenomenal descriptions of agency as evidence for agency, (2) no engagement with dual-process moral psychology (Greene, Haidt), (3) missing acknowledgment that deliberative phenomenology may be post-hoc narrative. See pessimistic-2026-03-15-midday.md
+- **Output**: obsidian/topics/phenomenology-of-moral-deliberation.md
+
+Task context:
+Pessimistic review found three high-severity issues: (1) circular use of phenomenal descriptions of agency as evidence for agency, (2) no engagement with dual-process moral psychology (Greene, Haidt), (3) missing acknowledgment that deliberative phenomenology may be post-hoc narrative. See pessimistic-2026-03-15-midday.md
+
+### ✓ 2026-03-15: Write article on the phenomenology of moral deliberation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-03-04 evening. Moral deliberation involves phenomenal character (the felt weight of obligation, the pull of competing values) that resists functional reduction. The aesthetic article's treatment of normative-qualitative entanglement has a natural moral counterpart. Builds on aesthetic-dimension-of-consciousness.md, phenomenal-value-realism, phenomenology-of-moral-experience. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). See [optimistic-2026-03-04-evening](/reviews/optimistic-2026-03-04-evening/).
+- **Output**: the phenomenology of moral deliberation
+
+### ✓ 2026-03-15: Write article on consciousness and mathematical knowledge
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-03-04 evening. Mathematical knowledge poses a unique challenge for physicalism: mathematical truths are abstract, necessary, and discovered rather than invented. How does a physical brain access abstract mathematical facts? Gödel's incompleteness theorems and Penrose's argument that mathematical insight transcends computation are relevant. Builds on argument-from-reason.md, qualia.md, cognitive-phenomenology. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 5 (Occam's Razor Has Limits). See [optimistic-2026-03-04-evening](/reviews/optimistic-2026-03-04-evening/).
+- **Output**: consciousness and mathematical knowledge
 
 ### ✓ 2026-03-15: Write article on phenomenology of embodiment under dualism
 - **Type**: expand-topic
