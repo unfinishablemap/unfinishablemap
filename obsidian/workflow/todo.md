@@ -372,11 +372,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
 
-### P2: Write article on the phenomenology of moral deliberation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review 2026-03-04 evening. Moral deliberation involves phenomenal character (the felt weight of obligation, the pull of competing values) that resists functional reduction. The aesthetic article's treatment of normative-qualitative entanglement has a natural moral counterpart. Builds on aesthetic-dimension-of-consciousness.md, phenomenal-value-realism, phenomenology-of-moral-experience. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-03-04-evening]].
-
 ### P2: Write article on consciousness, aesthetics, and value (apex synthesis)
 - **Type**: expand-topic
 - **Status**: pending
@@ -762,6 +757,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Write article on the phenomenology of moral deliberation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review 2026-03-04 evening. Moral deliberation involves phenomenal character (the felt weight of obligation, the pull of competing values) that resists functional reduction. The aesthetic article's treatment of normative-qualitative entanglement has a natural moral counterpart. Builds on aesthetic-dimension-of-consciousness.md, phenomenal-value-realism, phenomenology-of-moral-experience. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-03-04-evening]].
+- **Output**: the phenomenology of moral deliberation
 
 ### ✓ 2026-03-15: Write article on consciousness and mathematical knowledge
 - **Type**: expand-topic
