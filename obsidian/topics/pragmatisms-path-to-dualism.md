@@ -4,7 +4,7 @@ description: "Pragmatism—the philosophy that evaluates ideas by practical cons
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-15T12:29:00+00:00
+ai_modified: 2026-03-15T12:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,6 +16,8 @@ concepts:
   - "[[reductionism]]"
   - "[[phenomenal-consciousness]]"
   - "[[cognitive-phenomenology]]"
+  - "[[phenomenal-normativity]]"
+  - "[[functionalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[william-james-consciousness]]"
@@ -28,12 +30,12 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-15
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-15T12:39:00+00:00
 ---
 
 Pragmatism evaluates ideas by their practical consequences — what difference does believing this make? The Unfinishable Map argues that when pragmatism is applied reflexively to consciousness, it arrives at dualism. Not because dualism is simpler or more elegant, but because materialism about consciousness fails pragmatism's own test: it cannot account for the evaluative capacity on which pragmatic assessment depends. The path runs through three stages — James's original pragmatic openness to dualism, van Fraassen's pragmatic theory of explanation that inadvertently reveals consciousness at the foundation, and the reflexive argument that pragmatic evaluation itself presupposes irreducible phenomenal experience.
 
-This is not a historical survey of pragmatist philosophy. It is an argument that pragmatism, taken seriously on its own terms, leads where many pragmatists have been reluctant to follow.
+The argument runs through three stages — and pragmatism, taken seriously on its own terms, leads where many pragmatists have been reluctant to follow.
 
 ## James's Pragmatic Opening
 
@@ -59,11 +61,11 @@ The Map's article on [[consciousness-and-the-limits-of-explanation|consciousness
 
 The pragmatic path to dualism reaches its strongest form when applied to pragmatism itself. Pragmatism evaluates beliefs by their practical consequences. But evaluation is a conscious activity. Assessing whether a belief "works" — whether it resolves difficulties, opens productive inquiries, coheres with experience — requires phenomenal experience: the felt sense that things fit together, the recognition that one framework illuminates while another obscures. This is [[cognitive-phenomenology]] in action.
 
-If consciousness reduces to physical processes, then evaluation reduces to physical processes too. But then "what works" becomes merely "what physical processes happen to produce" — and the pragmatic criterion collapses into a description of what brains do rather than a norm for what we should believe. The pragmatist who adopts materialism about consciousness eliminates the evaluative standpoint that pragmatism requires.
+If consciousness reduces to physical processes, then evaluation reduces to physical processes too. But then "what works" becomes merely "what physical processes happen to produce" — and the pragmatic criterion collapses into a description of what brains do rather than a norm for what we should believe. This is [[phenomenal-normativity]] at stake: the felt sense that one framework illuminates while another obscures carries intrinsic normative force that no purely physical description can ground. The pragmatist who adopts materialism about consciousness eliminates the evaluative standpoint that pragmatism requires.
 
 This parallels the [[argument-from-reason]]: if beliefs are fully explained by physical causes, no belief is rationally justified, including physicalism. The pragmatic version makes the same structural move in different terms. If evaluation is fully explained by physical causes, no evaluation has normative force — including the evaluation that materialism works better than dualism.
 
-A materialist pragmatist might respond: evaluation just *is* a certain kind of information processing, and physical systems can perform it without irreducible phenomenal experience. But this response concedes what it denies. To claim that information processing constitutes evaluation, you must evaluate that claim — and the evaluation must be something beyond the information processing it describes, or the justification is circular. The pragmatic criterion cannot validate itself from within a framework that reduces it to mechanism.
+A materialist pragmatist might respond: evaluation just *is* a certain kind of information processing, and physical systems can perform it without irreducible phenomenal experience. This is the [[functionalism|functionalist]] move — identifying mental states with computational roles rather than phenomenal character. But this response concedes what it denies. To claim that information processing constitutes evaluation, you must evaluate that claim — and the evaluation must be something beyond the information processing it describes, or the justification is circular. Pragmatism specifically grounds justification in whether beliefs *feel* productive, whether frameworks *seem* illuminating — in the phenomenal character of cognitive satisfaction. A functionalist account of evaluation strips away precisely the felt dimension that gives pragmatic assessment its normative bite. The pragmatic criterion cannot validate itself from within a framework that reduces it to mechanism.
 
 ## Putnam's Pragmatic Realism
 
