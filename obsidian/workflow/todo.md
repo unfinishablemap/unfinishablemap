@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate death-phenomenology-beyond-ndes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on death phenomenology beyond NDEs (created 2026-03-11). Add cross-references from related articles (death-and-consciousness.md, near-death-experiences.md, contemplative-evidence-for-consciousness.md) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-15
+
+### P2: Integrate evolution-of-consciousness-dualist-perspective.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the evolution of consciousness from a dualist perspective (created 2026-03-10). Add cross-references from related articles (consciousness-evolution-problem.md, evolution-under-dualism.md, animal-consciousness.md) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-15
+
+### P2: Integrate illusionism-as-epiphenomenalism-in-disguise.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concepts article arguing illusionism reduces to epiphenomenalism (created 2026-03-08). Add cross-references from related articles (illusionism.md, epiphenomenalism.md, the-epiphenomenalist-threat.md) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-15
+
+### P2: Deep review normative-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 40 days ago. Voids article on the normative void — whether consciousness-based normativity faces an unchartable gap. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
+### P2: Deep review scale-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 40 days ago. Voids article on the scale void — the impossibility of determining the scale at which consciousness operates. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
+### P3: Deep review dream-consciousness-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 40 days ago. Voids article on the dream consciousness void — the unchartable gap between waking and dreaming consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
 ### P2: Write void article — The Interface Formalization Void
 - **Type**: expand-topic
 - **Notes**: If the consciousness-physics interface is the ontological joint between two fundamentally different domains, can it be formalized mathematically? Or is formalization itself a structural-domain tool that cannot capture the actualizing domain? (1) Mathematics describes structure — may be unable to describe actuality. (2) Any mathematical description of the interface would be more structure, not actuality. (3) Born rule as the closest we can get — structural description of statistical properties without capturing what happens at the interface. (4) Connection to nomic void. (5) Connection to mysterianism/cognitive closure. A void generated directly by the reverse inference. Target section: voids/.
