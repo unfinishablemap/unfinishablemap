@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense quantum-probability-consciousness.md (3500 words, 100% of hard threshold)
+- **Type**: condense
+- **Notes**: Article at exactly 3500-word hard threshold for concepts/. Recently refined with completeness taxonomy integration, which likely added length. Preserve core arguments about quantum probability pointing toward consciousness while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-15
+
+### P3: Deep review emergence-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the emergence void — whether consciousness can emerge from non-conscious matter. Directly relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
+### P3: Deep review intersubjective-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the intersubjective void — the impossibility of fully sharing or verifying another's experience. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
+### P3: Deep review probability-intuition-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the probability intuition void — how probability resists full intuitive grasp. Relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
+### P3: Deep review recursion-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-07 — 36 days ago. Voids article on the recursion void — the paradoxes of self-referential consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-15
+
 ### P2: Write article on Born rule derivation failures and consciousness-collapse
 - **Type**: expand-topic
 - **Notes**: Research completed in research/born-rule-derivation-attempts-2026-03-14.md. Major attempts to derive the Born rule from deeper principles (Gleason, Zurek, Deutsch-Wallace, Vaidman) all fall short, suggesting probability in quantum mechanics may have a consciousness-facing element that resists purely physical derivation. The Born rule's resistance to derivation is evidence that measurement outcomes involve something beyond unitary physics. Target section: topics/. Supports Tenet 2 (Minimal Quantum Interaction).
