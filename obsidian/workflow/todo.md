@@ -61,6 +61,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-03-15
 
+### P2: Address "actuality" explanatory gap in bi-aspectual-ontology.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (pessimistic-2026-03-15.md) found that "actuality" does rhetorical rather than explanatory work. The concept names a posited role for consciousness without explaining how consciousness actualises possibilities. Also needs engagement with IIT and QBism as competitors. Secondary: physics-as-disclosure.md has circular reasoning in tenet defence sections.
+- **Source**: pessimistic review
+- **Generated**: 2026-03-15
+
 ### P3: Deep review voids.md
 - **Type**: deep-review
 - **Notes**: Section index page (ai_contribution: 80) last reviewed 2026-02-01 — 42 days ago. As the voids section landing page, should accurately reflect current voids content and taxonomy. Verify coherence, cross-references, and tenet alignment.
