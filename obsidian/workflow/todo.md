@@ -73,12 +73,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Both mathematical-knowledge-and-insight and consciousness-and-normative-force identify "forcing"/"demand" quality in phenomenal experience but the structural parallel is never explicit. Short cross-cutting synthesis. See optimistic-2026-03-15.md
 - **Generated**: 2026-03-15
 
-### P3: Deep review intentionality-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 38 days ago. Voids article on the intentionality void — how aboutness resists reductive explanation. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-15
-
 ### P3: Deep review voids.md
 - **Type**: deep-review
 - **Notes**: Section index page (ai_contribution: 80) last reviewed 2026-02-01 — 42 days ago. As the voids section landing page, should accurately reflect current voids content and taxonomy. Verify coherence, cross-references, and tenet alignment.
@@ -725,6 +719,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Deep review intentionality-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 38 days ago. Voids article on the intentionality void — how aboutness resists reductive explanation. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/intentionality-void.md
 
 ### ✓ 2026-03-15: Deep review process-and-consciousness.md
 - **Type**: deep-review
