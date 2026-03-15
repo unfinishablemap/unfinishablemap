@@ -124,10 +124,10 @@ def find_hugo_server() -> str | None:
     for port in ports:
         url = f"http://localhost:{port}/"
         try:
-            with urlopen(url, timeout=2) as response:
+            with urlopen(url, timeout=10) as response:
                 if response.status == 200:
                     return url
-        except (HTTPError, URLError):
+        except (HTTPError, URLError, TimeoutError, OSError):
             continue
     return None
 

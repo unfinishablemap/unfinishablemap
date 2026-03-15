@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-03-11 17:46:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-03-15 17:59:00+00:00
+ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[minimal-consciousness]]'
@@ -16,6 +16,7 @@ concepts:
 - '[[intrinsic-nature-void]]'
 - '[[process-philosophy]]'
 - '[[consciousness-in-simple-organisms]]'
+- '[[bi-aspectual-ontology]]'
 created: 2026-01-08
 date: &id001 2026-01-27
 description: The view that consciousness is fundamental and ubiquitous in nature.
@@ -23,7 +24,7 @@ description: The view that consciousness is fundamental and ubiquitous in nature
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 17:46:00+00:00
+last_deep_review: 2026-03-15 17:59:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -110,7 +111,7 @@ The Map agrees with panpsychism's diagnosis (emergence from non-conscious matter
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes this happens at the quantum level—consciousness biases otherwise indeterminate outcomes.
 
-This avoids the combination problem. There's no need to explain how micro-experiences combine because matter doesn't have micro-experiences. Consciousness is a distinct ontological category that interacts with matter rather than constituting it.
+This avoids the combination problem. There's no need to explain how micro-experiences combine because matter doesn't have micro-experiences. Consciousness is a distinct ontological category that interacts with matter rather than constituting it. The Map's [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) develops this further: reality has two irreducible aspects (structure and actuality) that interact at quantum indeterminacies rather than being identical.
 
 ## Key Differences
 
@@ -189,6 +190,7 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Empirical cases (C. elegans, Hydra, slime molds) that test panpsychist predictions
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — How panpsychism addresses the evolutionary emergence question
 - [combination-problem](/concepts/combination-problem/) — The central challenge facing panpsychism
+- [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) — In-depth treatment of the combination problem's variants and responses
 - [russellian-monism](/concepts/russellian-monism/) — The most developed theoretical framework for panpsychism
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework where experience is fundamental to actuality
 - [idealism](/concepts/idealism/) — Broader treatment of idealist positions, including analytic idealism as an alternative that claims to avoid the combination problem

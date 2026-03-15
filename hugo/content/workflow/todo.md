@@ -74,16 +74,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Both mathematical-knowledge-and-insight and consciousness-and-normative-force identify "forcing"/"demand" quality in phenomenal experience but the structural parallel is never explicit. Short cross-cutting synthesis. See optimistic-2026-03-15.md
 - **Generated**: 2026-03-15
 
-### P3: Deep review altered-states-as-void-probes.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 40 days ago. Voids article on using altered states of consciousness as probes into cognitive blind spots. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
+### P3: Create concept page for process haecceitism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Particularity without substance — indexical identity as processual rather than substantial. Referenced in eastern-philosophy-consciousness and implicit in identity-across-transformations apex. A genuinely novel philosophical position deserving its own anchor page. See optimistic-2026-03-15-afternoon.md
 - **Generated**: 2026-03-15
 
-### P3: Deep review dream-consciousness-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 40 days ago. Voids article on the dream consciousness void — the unchartable gap between waking and dreaming consciousness. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
+### P3: Create concept page for apophatic cartography
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The methodology of mapping cognitive limits as a philosophical practice. Referenced in taxonomy-of-voids apex but not developed as a freestanding concept. Would anchor the voids programme's distinctive methodology. See optimistic-2026-03-15-afternoon.md
 - **Generated**: 2026-03-15
 
 ### ✓ 2026-03-15: Write article on dreams, problem-solving, and conscious influence
@@ -91,79 +91,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Research completed in research/dreams-problem-solving-lucid-dreaming-2026-02-06.md. Konkoly et al. 2026 shows targeted memory reactivation during REM doubles problem-solving — direct evidence dreaming is functionally active, not neural noise. Lucid dreaming demonstrates consciousness modulating its own states despite altered neurochemistry. Dreams as a natural laboratory for studying consciousness independently of physical substrate. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-13
-- **Output**: [dream-problem-solving-and-conscious-influence](/topics/dream-problem-solving-and-conscious-influence/)
+- **Output**: [dream-problem-solving-and-conscious-influence](/topics/dream-consciousness/)
 
 ### ✓ 2026-03-13: Integrate perceptual-degradation-and-the-interface.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Superseded by coalesce — article merged into perceptual-failure-and-the-interface.md
 - **Source**: orphan_integration
 - **Generated**: 2026-03-13
-
-### P3: Deep review attention-created-voids.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 41 days ago. Voids article on how attention creates cognitive blind spots. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
-### P3: Deep review origin-of-consciousness.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 41 days ago. Voids article on the origin-of-consciousness problem as an unchartable territory. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
-### P3: Deep review embodiment-cognitive-limits.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 41 days ago. Voids article on how embodiment constrains cognition. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
-### P3: Deep review dissolution-problem.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-25, never reviewed. Voids article on the dissolution problem — whether voids dissolve under sufficient analysis. Core methodological question for the voids programme. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
-### P3: Deep review simulation-detection-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-25, never reviewed. Voids article on the impossibility of detecting whether we exist within a simulation. Relevant to Tenet 5 (Occam's Razor Has Limits). Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
-### P3: Deep review capability-division-problem.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the problem of dividing capabilities between brain and consciousness — directly relevant to the Map's interface framework. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
-### P3: Condense purpose-and-alignment.md
-- **Type**: condense
-- **Notes**: At ~4,800 words, far exceeds 2,000-3,000 word guideline. Has duplicate "Relation to Site Perspective" sections. Process philosophy and contemplative evidence sections restate core insight in different vocabularies. See pessimistic-2026-03-11-afternoon.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-11
-
-### P3: Reduce quantum overemphasis in continual-learning-argument.md
-- **Type**: refine-draft
-- **Notes**: Decoherence Challenge section overemphasises quantum mechanisms contrary to writing style guide restraint requirements. Should be reduced to brief mention. See pessimistic-2026-03-11-afternoon.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-11
-
-### P3: Deep review philosophy-of-time.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 40 days ago. Core concept page on philosophy of time, relevant to temporal consciousness cluster. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
-### P3: Deep review panpsychism.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 38 days ago. Major alternative position to the Map's dualism that needs accurate, fair treatment. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
-### P3: Write apex article — The Interface Specification Programme
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Six articles (psychophysical-control-law, bandwidth-problem-mental-causation, control-theoretic-will, causal-delegation, consciousness-and-causal-powers, attention-disorders-and-quantum-interface) collectively specify the Map's interface more precisely than any individually. An apex weaving them together would show the interface as a unified research programme. See optimistic-2026-03-14-evening.md
-- **Generated**: 2026-03-14
 
 ### P3: Write concept page — Observational Closure
 - **Type**: expand-topic
@@ -714,6 +648,85 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Write apex article — The Interface Specification Programme
+- **Type**: apex-evolve
+- **Notes**: Suggested by optimistic review. Six articles (psychophysical-control-law, bandwidth-problem-mental-causation, control-theoretic-will, causal-delegation, consciousness-and-causal-powers, attention-disorders-and-quantum-interface) collectively specify the Map's interface more precisely than any individually. An apex weaving them together would show the interface as a unified research programme. See optimistic-2026-03-14-evening.md
+- **Output**: Write apex article — The Interface Specification Programme
+
+Task context:
+Suggested by optimistic review. Six articles (psychophysical-control-law, bandwidth-problem-mental-causation, control-theoretic-will, causal-delegation, consciousness-and-causal-powers, attention-disorders-and-quantum-interface) collectively specify the Map's interface more precisely than any individually. An apex weaving them together would show the interface as a unified research programme. See optimistic-2026-03-14-evening.md
+
+### ✓ 2026-03-15: Deep review panpsychism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 38 days ago. Major alternative position to the Map's dualism that needs accurate, fair treatment. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/panpsychism.md
+
+### ✓ 2026-03-15: Deep review philosophy-of-time.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-30 — 40 days ago. Core concept page on philosophy of time, relevant to temporal consciousness cluster. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/philosophy-of-time.md
+
+### ✓ 2026-03-15: Reduce quantum overemphasis in continual-learning-argument.md
+- **Type**: refine-draft
+- **Notes**: Decoherence Challenge section overemphasises quantum mechanisms contrary to writing style guide restraint requirements. Should be reduced to brief mention. See pessimistic-2026-03-11-afternoon.md
+- **Output**: obsidian/concepts/continual-learning-argument.md
+
+Task context:
+Decoherence Challenge section overemphasises quantum mechanisms contrary to writing style guide restraint requirements. Should be reduced to brief mention. See pessimistic-2026-03-11-afternoon.md
+
+### ✓ 2026-03-15: Condense purpose-and-alignment.md
+- **Type**: condense
+- **Notes**: At ~4,800 words, far exceeds 2,000-3,000 word guideline. Has duplicate "Relation to Site Perspective" sections. Process philosophy and contemplative evidence sections restate core insight in different vocabularies. See pessimistic-2026-03-11-afternoon.md
+- **Output**: obsidian/topics/purpose-and-alignment.md
+
+### ✓ 2026-03-15: Deep review capability-division-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the problem of dividing capabilities between brain and consciousness — directly relevant to the Map's interface framework. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/capability-division-problem.md
+
+### ✓ 2026-03-15: Deep review simulation-detection-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-25, never reviewed. Voids article on the impossibility of detecting whether we exist within a simulation. Relevant to Tenet 5 (Occam's Razor Has Limits). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/simulation-detection-void.md
+
+### ✓ 2026-03-15: Deep review dissolution-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-25, never reviewed. Voids article on the dissolution problem — whether voids dissolve under sufficient analysis. Core methodological question for the voids programme. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/dissolution-problem.md
+
+### ✓ 2026-03-15: Deep review embodiment-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 41 days ago. Voids article on how embodiment constrains cognition. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/embodiment-cognitive-limits.md
+
+### ✓ 2026-03-15: Deep review origin-of-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 41 days ago. Voids article on the origin-of-consciousness problem as an unchartable territory. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/origin-of-consciousness.md
+
+### ✓ 2026-03-15: Deep review attention-created-voids.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 41 days ago. Voids article on how attention creates cognitive blind spots. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/attention-created-voids.md
+
+### ✓ 2026-03-15: Address circular comprehension criteria in mathematical-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the three criteria for "genuine comprehension" (phenomenological presence, representational capacity, surveyability) presuppose dualism, making the argument circular. The functionalist objection is dismissed in one sentence. Engage with functionalist accounts of understanding more seriously. Also: Reed & Reed 2025 citation is from a student journal—find corroborating evidence or qualify the claim. See pessimistic-2026-03-15-afternoon.md
+- **Output**: obsidian/voids/mathematical-void.md
+
+Task context:
+Pessimistic review found the three criteria for "genuine comprehension" (phenomenological presence, representational capacity, surveyability) presuppose dualism, making the argument circular. The functionalist objection is dismissed in one sentence. Engage with functionalist accounts of understanding more seriously. Also: Reed & Reed 2025 citation is from a student journal—find corroborating evidence or qualify the claim. See pessimistic-2026-03-15-afternoon.md
+
+### ✓ 2026-03-15: Deep review dream-consciousness-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 40 days ago. Voids article on the dream consciousness void — the unchartable gap between waking and dreaming consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/dream-consciousness-void.md
+
+### ✓ 2026-03-15: Deep review altered-states-as-void-probes.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 40 days ago. Voids article on using altered states of consciousness as probes into cognitive blind spots. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/altered-states-as-void-probes.md
 
 ### ✓ 2026-03-15: Deep review voids.md
 - **Type**: deep-review

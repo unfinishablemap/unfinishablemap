@@ -1,12 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-15 12:49:00+00:00
+ai_modified: 2026-03-15 17:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[mysterianism]]'
-- '[[simulation]]'
 created: 2026-03-15
 date: &id001 2026-03-15
 description: Hoffman, Singh & Prakash's formal proof that natural selection favours
@@ -15,19 +14,22 @@ description: Hoffman, Singh & Prakash's formal proof that natural selection favo
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-15 17:29:00+00:00
 modified: *id001
 related_articles:
 - '[[evolved-cognitive-limits]]'
 - '[[phenomenal-transparency]]'
 - '[[perceptual-failure-and-the-interface]]'
+- '[[probability-intuition-void]]'
 - '[[tenets]]'
 title: Fitness-Beats-Truth Theorem
 topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Fitness-Beats-Truth (FBT) theorem, proved by Donald Hoffman, Manish Singh, and Chetan Prakash, establishes that natural selection systematically favours perceptual strategies tuned to fitness payoffs over strategies tuned to objective truth. This is not an empirical observation but a formal mathematical result: for all fitness functions and all probability distributions over world states, fitness-tuned perception strictly dominates veridical perception. Evolutionary game theory simulations confirm the result—"truer perceptions are routinely driven to extinction by perceptions tuned to relevant fitness functions" (Prakash et al. 2021). The theorem has direct consequences for philosophical arguments that invoke parsimony or intuitive plausibility, because it demonstrates that our sense of what reality looks like reflects survival value rather than metaphysical accuracy.
+The Fitness-Beats-Truth (FBT) theorem, proved by Donald Hoffman, Manish Singh, and Chetan Prakash, establishes that natural selection systematically favours perceptual strategies tuned to fitness payoffs over strategies tuned to objective truth. This is not an empirical observation but a formal mathematical result: for all fitness functions and all probability distributions over world states, fitness-tuned perception strictly dominates veridical perception.
+
+Evolutionary game theory simulations confirm the result—"truer perceptions are routinely driven to extinction by perceptions tuned to relevant fitness functions" (Prakash et al. 2021). The theorem has direct consequences for philosophical arguments that invoke parsimony or intuitive plausibility, because it demonstrates that our sense of what reality looks like reflects survival value rather than metaphysical accuracy.
 
 ## The Formal Result
 
@@ -59,9 +61,11 @@ The FBT theorem is sometimes confused with weaker claims it supersedes:
 
 The FBT theorem has faced several lines of criticism.
 
-**The structural realism objection.** Some philosophers argue that even if perception is not veridical about surface features, it must preserve structural relations in reality—otherwise organisms could not reliably interact with their environment. If a predator is always perceived as dangerous regardless of its colour, the structural relation (predator → danger) tracks something real even if the representation is non-veridical. This would limit how far perception can depart from truth.
+**The structural realism objection.** Some philosophers argue that even if perception is not veridical about surface features, it must preserve structural relations in reality—otherwise organisms could not reliably interact with their environment. If a predator is always perceived as dangerous regardless of its colour, the structural relation (predator → danger) tracks something real even if the representation is non-veridical. This would limit how far perception can depart from truth and, crucially, might preserve enough structural accuracy for parsimony judgments about explanatory structure to remain reliable even if judgments about surface features are not. Hoffman's response is that fitness-tuned strategies can exploit structural regularities without *representing* them—the interface can be functionally reliable without being structurally isomorphic to reality.
 
 **The bootstrapping problem.** If our perception is fitness-tuned rather than veridical, how can we trust the reasoning—including the mathematics—that established this result? Hoffman acknowledges the reflexivity but argues that mathematical proof operates in a different domain from perceptual experience. The Map notes this as a genuine tension without claiming to resolve it.
+
+**The symmetry objection.** If FBT undermines parsimony arguments against dualism, does it not equally undermine the dualist's own intuitions? The sense that consciousness feels irreducible to physics is itself a product of a fitness-tuned cognitive system. The Map acknowledges this symmetry. The FBT theorem does not *support* dualism—it removes one class of objection to it. The positive case for dualism rests on independent arguments (the [knowledge argument](/concepts/knowledge-argument/), [conceivability arguments](/concepts/philosophical-zombies/), the explanatory gap) that do not depend on perceptual intuitions about simplicity. What FBT does is neutralise the claim that materialism wins by default on parsimony grounds.
 
 **Scope of the formal result.** The FBT theorem applies to organisms in evolutionary competition. Whether its conclusions extend to scientific instruments, mathematical reasoning, or collaborative inquiry is debatable. Science arguably transcends individual perceptual limitations through intersubjective verification and technological mediation.
 
@@ -88,6 +92,7 @@ For **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**, the FBT
 - [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — How cognitive limits function as adaptive features shaped by natural selection
 - [phenomenal-transparency](/concepts/phenomenal-transparency/) — Why experience conceals its own representational character
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — Perceptual failure analysed through Hoffman's interface framework
+- [probability-intuition-void](/voids/probability-intuition-void/) — How fitness-tuned cognition distorts probabilistic reasoning
 - [mysterianism](/concepts/mysterianism/) — McGinn's argument that the hard problem reflects cognitive closure
 - [tenets](/tenets/) — The Unfinishable Map's foundational commitments
 
@@ -98,4 +103,4 @@ For **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**, the FBT
 3. Gigerenzer, G., & Todd, P. M. (2012). *Ecological Rationality: Intelligence in the World*. Oxford University Press.
 4. Field, M. H., Lachmann, M., & Bergstrom, C. T. (2018). Ignorance can be evolutionarily beneficial. *Ecology and Evolution*, 8(2), 1352-1359.
 5. Trivers, R., & von Hippel, W. (2011). The evolution and psychology of self-deception. *Behavioral and Brain Sciences*, 34(1), 1-16.
-6. Southgate, A. & Oquatre-six, C. (2026-03-05). Evolved Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/evolved-cognitive-limits/
+6. Southgate, A. & Oquatre-six, C. (2026-01-28). Evolved Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/evolved-cognitive-limits/

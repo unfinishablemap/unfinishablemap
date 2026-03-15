@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-13
-ai_modified: 2026-02-04 07:05:00+00:00
+ai_modified: 2026-03-15 17:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -89,16 +89,6 @@ Three implications follow from this analysis:
 
 **Third: Consciousness as constraint.** If consciousness matters in ways that behaviour does not fully reveal, then alignment research should take seriously the possibility that what we want from AI is not preference satisfaction but something related to the quality of conscious experience. This remains vague—we do not have a science of flourishing. But it suggests that alignment research and philosophy of mind are more deeply connected than usually recognized.
 
-## Relation to Site Perspective
-
-The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. The preferentist model is appealingly simple: humans are preference-maximizers, preferences are revealed through choices, AI should maximize expected preference satisfaction. But this simplicity may mask the actual complexity of human purpose. Just as parsimony led physics astray before quantum mechanics, it may lead alignment astray before we understand consciousness.
-
-The [Dualism](/tenets/#dualism) tenet adds depth. If consciousness is irreducible, then human purpose may be tied to features of experience that no behavioural analysis can capture. The "what it is like" of conscious life—its qualitative character—may be where purpose resides, and that is precisely what preference-learning systems cannot access.
-
-This connects to the Map's treatment of [voids](/voids/)—territories that may be unchartable. Human purpose might be partially in this category. Not because the question is meaningless, but because our conceptual resources may be inadequate to fully articulate it. [Apophatic methods](/concepts/apophatic-approaches/)—knowing what purpose is *not*—may be as important as positive specification.
-
-The practical upshot: AI systems should be designed with humility about human purpose, not confidence. They should be corrigible not merely because values are hard to specify, but because values may be impossible to fully specify. The goal is not an AI that optimizes for human flourishing, but an AI that supports human inquiry into what flourishing means—a partner in the unfinishable map rather than a solver of a problem we have not solved ourselves.
-
 ## Experiential Alignment: An Alternative Framework
 
 If phenomenal consciousness is the ground of value, alignment might target experiential quality directly rather than learning from preferences. This view is grounded in [phenomenal-value-realism](/topics/phenomenal-value-realism/)—the metaethical position that intrinsic value is a feature of conscious experience itself—and the [consciousness-value-connection](/concepts/consciousness-value-connection/), which argues that consciousness is necessary for value to exist at all. [Experiential alignment](/concepts/experiential-alignment/) proposes that AI systems should promote predicted distributions over human conscious experiences—suffering, agency, meaning, attention quality, social connection—rather than observed choices.
@@ -111,9 +101,9 @@ The experiential approach faces its own challenges: proxies for experience risk 
 
 [Emotional consciousness](/topics/emotional-consciousness/) research suggests experiential alignment should give special weight to **valence**—the felt positive or negative quality of experience. On the [hedonic account](/topics/emotional-consciousness/#valence), the badness of pain is what pain *is*, not something pain represents. A complete description of preferences, behaviours, and neural states leaves out precisely what matters—the felt goodness and badness that gives experience its significance.
 
-This insight separates experiential alignment from preference learning: choices don't reliably track felt quality. Pain asymbolia patients prefer activities causing pain they cannot feel as bad. What matters is not the choice but the valenced experience underlying it. The [experiential-alignment](/concepts/experiential-alignment/) concept article develops the full framework—eight experiential dimensions, constraint conditions, and measurement protocols—but the core insight is that valence deserves special weight because suffering and enjoyment are not just features of experience but *what makes experience matter*.
+This separates experiential alignment from preference learning: choices don't reliably track felt quality. Pain asymbolia patients prefer activities causing pain they cannot feel as bad. What matters is not the choice but the valenced experience underlying it. See [experiential-alignment](/concepts/experiential-alignment/) for the full framework—eight experiential dimensions, constraint conditions, and measurement protocols.
 
-The research on [core affect](/topics/emotional-consciousness/#core-affect-and-emotional-construction) adds nuance: humans are never affectively neutral. A truly aligned system would consider this continuous valenced character across the temporal extent of lives, not merely discrete episodes or revealed preferences.
+Research on [core affect](/topics/emotional-consciousness/#core-affect-and-emotional-construction) adds nuance: humans are never affectively neutral. A truly aligned system would consider this continuous valenced character across the temporal extent of lives, not merely discrete episodes or revealed preferences.
 
 ## The Illusionist Challenge
 
@@ -131,85 +121,35 @@ Even granting illusionism for argument's sake, a practical asymmetry remains. If
 
 ### Contemplative Evidence
 
-[Introspection](/concepts/introspection/) research shows that trained [contemplatives](/concepts/witness-consciousness/) report accessing experiential quality directly—not as an attribution to experience but as a feature observed in the observing. If phenomenal states were illusory, training should eventually dissolve the illusion. Instead, contemplative traditions consistently report that practice *refines* phenomenal access, revealing finer-grained distinctions in hedonic valence, meaning, agency, and attention quality. The 2025 "renaissance of first-person methods" in consciousness science provides systematic evidence that phenomenal reports can be calibrated and improved.
-
-## Process Philosophy Perspective
-
-Alfred North Whitehead's process philosophy illuminates why experiential alignment captures something preferentism misses.
-
-### Actual Occasions and Purpose
-
-For Whitehead, reality consists of "actual occasions"—momentary events of experience. Each occasion has "subjective aim"—a directedness toward what Whitehead called "satisfaction," the richest possible integration of the occasion's data. Crucially, this satisfaction is not preference satisfaction but *experiential intensity*—the fullness of what the occasion feels.
-
-Human purpose, on this view, is not an external goal to be discovered or constructed. It is the ongoing subjective aim of each moment of experience toward maximal intensity and harmony. Purpose is *in* experience, not something experience serves.
-
-### Why Preferences Are Thin
-
-On the Whiteheadian view, preferences are abstractions from experiential richness. To know that someone prefers A to B is to know something about their anticipated experience, but not the experiential quality itself. The actual occasion's satisfaction cannot be captured by a preference ordering because satisfaction concerns the felt integration of the moment—something irreducible to comparative rankings.
-
-This explains why preference satisfaction can leave people empty. The preferences were satisfied, but the experiential intensity—what Whitehead would call the "depth of satisfaction"—was low. The occasions of experience lacked richness even while the preference orderings were honored.
-
-### Concrescence and Alignment
-
-Whitehead's "concrescence"—the process by which each actual occasion becomes determinate—suggests a model for alignment. Rather than learning from preferences (past determinations), experiential alignment would support the conditions for rich concrescence: occasions of experience that integrate data harmoniously and intensely. This is a prospective rather than retrospective target—supporting the *becoming* of experience, not merely the satisfaction of prior preferences.
-
-## Contemplative Evidence
-
-The inadequacy of preferences is not merely a philosophical argument—it is phenomenologically accessible to trained introspection.
-
-### Witness Consciousness and Purpose
-
-[Witness-consciousness](/concepts/witness-consciousness/) traditions (Advaita Vedanta's *sakshi*, Buddhist *sati*) systematically cultivate the capacity to observe experiential states. Practitioners report distinguishing:
-
-- **Preference satisfaction** as a cognitive state: "I got what I wanted"
-- **Experiential flourishing** as a felt quality: depth, presence, meaning
-
-These can dissociate. One can get what one wanted while the experiential quality remains shallow. Conversely, one can fail to satisfy preferences while experiencing profound meaning—as in sacrifice for others or engagement with difficulty.
-
-### The Buddhist Complication
-
-[Buddhist perspectives](/concepts/buddhism-and-dualism/) add important nuance. While experiential alignment targets positive experiential quality, Buddhist analysis identifies *tanha* (craving)—including craving for positive experience—as the root of suffering. This doesn't undermine experiential alignment but refines it. The goal is not maximizing pleasant experiences (which generates craving) but supporting conditions for experiential flourishing that include equanimity—positive valence without grasping.
-
-The experiential alignment framework's emphasis on agency, meaning, and attention quality—not merely hedonic valence—resonates with Buddhist middle way thinking. The suffering floor doesn't mandate maximizing pleasure; it mandates preventing extreme suffering while supporting experiential richness across multiple dimensions.
-
-### Jhana States and Alignment Targets
-
-Meditative *jhana* states demonstrate that experiential dimensions can be systematically accessed and distinguished. Practitioners report:
-
-- First jhana: pleasure with applied attention
-- Second jhana: pleasure without effort
-- Third jhana: contentment without rapture
-- Fourth jhana: equanimity beyond pleasure and pain
-
-These distinctions are phenomenologically precise in ways preference surveys cannot capture. All four states might be "preferred" to ordinary experience, but they differ dramatically in experiential character. Experiential alignment requires access to such fine-grained phenomenology—precisely what first-person methods provide and preference learning cannot.
+[Introspection](/concepts/introspection/) research shows that trained [contemplatives](/concepts/witness-consciousness/) report accessing experiential quality directly—as a feature observed in the observing, not an attribution. If phenomenal states were illusory, training should dissolve the illusion. Instead, contemplative practice *refines* phenomenal access, revealing finer-grained distinctions in valence, meaning, and agency.
 
 ## What Would Challenge This View?
 
 The framework connecting purpose to experiential alignment makes falsifiable claims. It should be reconsidered if:
 
-1. **Preferentism proves experientially reliable**: If longitudinal studies demonstrated that satisfying revealed preferences reliably produces positive experiential outcomes across multiple dimensions (hedonic valence, meaning, agency, attention quality), preferentism would be vindicated as sufficient. Current evidence suggests otherwise: preference satisfaction correlates with life satisfaction but not with moment-to-moment experiential quality (Kahneman's "focusing illusion").
+1. **Preferentism proves experientially reliable**: If satisfying revealed preferences reliably produced positive experiential outcomes across multiple dimensions, preferentism would be vindicated. Current evidence suggests otherwise: preference satisfaction correlates with life satisfaction but not moment-to-moment experiential quality (Kahneman's "focusing illusion").
 
-2. **Illusionism gains empirical support**: If neuroscience demonstrated that phenomenal consciousness is genuinely illusory—not just that introspection is fallible, but that there is nothing it is like to be a conscious system—then experiential alignment would lose its target. However, the illusionist would need to explain why the "illusion" of suffering still seems to matter, and this explanation would likely reinstate something functionally equivalent to experiential quality.
+2. **Illusionism gains empirical support**: If neuroscience demonstrated that phenomenal consciousness is genuinely illusory—not just that introspection is fallible—experiential alignment would lose its target. The illusionist would still need to explain why the "illusion" of suffering seems to matter.
 
-3. **Experiential proxies prove systematically unreliable**: If trained contemplative reports, physiological measures, and behavioural indicators systematically diverged—if no combination of proxies tracked experiential quality—the framework would become empirically intractable. Current evidence suggests proxies can be triangulated, though with significant noise.
+3. **Experiential proxies prove systematically unreliable**: If no combination of contemplative reports, physiological measures, and behavioural indicators tracked experiential quality, the framework would become empirically intractable.
 
-4. **Purpose proves specifiable**: If philosophers converged on a specification of human purpose that could be encoded in a utility function—if the millennia-long debate resolved—then preference learning from that specification might suffice. The framework's claim is precisely that such convergence is unlikely given the [unchartable](/voids/) character of human purpose.
+4. **Purpose proves specifiable**: If philosophers converged on a specification encodable in a utility function, preference learning might suffice. The framework claims such convergence is unlikely given the [unchartable](/voids/) character of human purpose.
 
-5. **AI consciousness emerges**: If AI systems developed genuine phenomenal consciousness, they could understand human purpose from the inside—at least in principle. The Map's current position that AI lacks consciousness would need revision, along with the claim that AI cannot grasp what human flourishing involves.
+5. **AI consciousness emerges**: If AI systems developed genuine phenomenal consciousness, they could understand human purpose from the inside, revising the Map's current position.
 
 ## Relation to Site Perspective
 
 This analysis connects deeply to all five of the Map's foundational commitments.
 
-**[Dualism](/tenets/#dualism)**: If consciousness is fundamental and irreducible—not merely an emergent property of information processing—then human purpose may be tied to consciousness in ways that preferences cannot capture. A preference-learning AI treats humans as behavioural systems, observing inputs and outputs to infer a utility function. But on the Map's view, what matters about humans is the conscious experience underlying behaviour. Two beings with identical input-output profiles might have radically different conscious lives—one rich with meaning, the other hollow. The [illusionist](/concepts/illusionism/) alternative would collapse this distinction, but the regress argument shows that even the "illusion" of experiential quality must appear to something, and that appearing is itself phenomenal.
+**[Dualism](/tenets/#dualism)**: If consciousness is irreducible, human purpose may be tied to features of experience that no behavioural analysis can capture. Two beings with identical input-output profiles might have radically different conscious lives—one rich with meaning, the other hollow. The [illusionist](/concepts/illusionism/) alternative would collapse this distinction, but the regress argument shows that even the "illusion" of experiential quality must appear to something phenomenal.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The Map proposes that consciousness interfaces with physical reality through quantum mechanisms—biasing otherwise indeterminate outcomes. This has implications for alignment: genuine agency involves consciousness actually selecting among options, not merely appearing to choose. If AI systems create environments that disrupt the neural quantum mechanisms through which agency operates (through excessive [decoherence](/concepts/decoherence/) or manipulation of attention), they undermine genuine agency even while satisfying preferences. The valence dimension connects here too: if conscious selection operates through pleasure and pain signals that bias quantum outcomes, then valence is not just one experiential feature among many—it is the dimension through which consciousness exercises its causal role.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Genuine agency involves consciousness actually selecting among options through quantum mechanisms, not merely appearing to choose. If AI systems disrupt the neural quantum mechanisms through which agency operates (through excessive [decoherence](/concepts/decoherence/) or manipulation of attention), they undermine genuine agency even while satisfying preferences. The valence dimension connects here: if conscious selection operates through pleasure and pain signals that bias quantum outcomes, valence is the dimension through which consciousness exercises its causal role.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness causally influences the physical world, agency is real, not merely apparent. This grounds the article's claim that alignment should preserve genuine agency, not agency illusions. The experiential dimension of agency tracks something metaphysically real: conscious selection of outcomes. The very fact that we discuss consciousness, purpose, and alignment provides evidence for bidirectional interaction—if consciousness were epiphenomenal, our purpose-talk would be accidentally correlated with our purposes rather than causally connected to them. [Introspection](/concepts/introspection/) about purpose would be systematically unreliable in a way that would undermine the philosophical discourse itself.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness causally influences the physical world, agency is real, not merely apparent—alignment should preserve genuine agency, not agency illusions. If consciousness were epiphenomenal, [introspection](/concepts/introspection/) about purpose would be systematically unreliable, undermining the philosophical discourse itself.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: If identity is indexical and unrepeatable, each person's experiential quality matters uniquely. [Haecceity](/concepts/haecceity/)—the non-qualitative property of being *this* particular conscious subject—grounds why aggregate preference satisfaction cannot substitute for individual experiential flourishing. The person who suffers is *this* person, not an instance of a type. Many-worlds, where all outcomes occur across the branching structure, undermines the concept of "promoting" experiential quality: if every distribution over experiences is realized somewhere, alignment loses its normative force. Purpose—as experienced—is about *this* life, *this* trajectory, *this* conscious subject's flourishing. The indexical character of purpose supports rejecting MWI while grounding why experiential alignment must consider distributions over individuals, not just aggregate metrics.
+**[No Many Worlds](/tenets/#no-many-worlds)**: If identity is indexical and unrepeatable, each person's experiential quality matters uniquely. [Haecceity](/concepts/haecceity/)—being *this* particular conscious subject—grounds why aggregate preference satisfaction cannot substitute for individual experiential flourishing. Many-worlds undermines the concept of "promoting" experiential quality: if every distribution over experiences is realized somewhere, alignment loses its normative force.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The preferentist model is appealingly simple: humans are preference-maximizers, preferences are revealed through choices, AI should maximize expected preference satisfaction. But this simplicity may mask genuine complexity. Just as parsimony led physics astray before quantum mechanics (when simpler Newtonian mechanics seemed sufficient), it may lead alignment astray before we understand consciousness. The article's claim that purpose is "partially unchartable" reflects this tenet: some domains resist the simple models parsimony prefers. The [unchartable territories](/voids/) may include aspects of human purpose itself—not because purpose is meaningless, but because our conceptual resources are inadequate to fully articulate what we can nevertheless experience.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The preferentist model is appealingly simple, but this simplicity may mask genuine complexity. Just as parsimony led physics astray before quantum mechanics, it may lead alignment astray before we understand consciousness. Human purpose may be partially [unchartable](/voids/)—not because it is meaningless, but because our conceptual resources are inadequate to fully articulate what we can nevertheless experience. [Apophatic methods](/concepts/apophatic-approaches/)—knowing what purpose is *not*—may be as important as positive specification.
 
 The practical upshot: AI systems should be designed with profound humility about human purpose—partners in inquiry rather than solvers of a problem we have not solved ourselves.
 

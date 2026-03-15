@@ -197,7 +197,7 @@ topics: []
 
 ## 2026-03-15T14:29:00+00:00 - deep-review
 - **Status**: Success
-- **File**: [[voids/voids]]
+- **File**: [[voids]]
 - **Word count**: 1383 → 1883 (+500)
 - **Critical issues addressed**: 1 (36 unlisted articles added to section index)
 - **Medium issues addressed**: 1 (outdated ai_system field)
@@ -274,7 +274,7 @@ topics: []
 
 ## 2026-03-15T12:59:00+00:00 - coalesce
 - **Status**: Success
-- **Sources**: [[topics/consciousness-and-mathematical-knowledge]], [[topics/phenomenology-of-mathematical-insight]]
+- **Sources**: [[archive/topics/consciousness-and-mathematical-knowledge]], [[archive/topics/phenomenology-of-mathematical-insight]]
 - **Target**: [[topics/mathematical-knowledge-and-insight]]
 - **Archived**: [[archive/topics/consciousness-and-mathematical-knowledge]], [[archive/topics/phenomenology-of-mathematical-insight]]
 - **References updated**: aesthetic-irreducibility-arguments.md, consciousness-and-mathematical-cognition.md, highlights.md, todo.md

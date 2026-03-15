@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-12 06:32:00+00:00
+ai_modified: 2026-03-15 17:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -10,6 +10,7 @@ coalesced_from:
 - /topics/dream-consciousness-and-the-filter-model/
 - /topics/dreams-as-consciousness-laboratory/
 - /concepts/dreams-and-consciousness/
+- /topics/dream-problem-solving-and-conscious-influence/
 concepts:
 - '[[filter-theory]]'
 - '[[metacognition]]'
@@ -36,6 +37,7 @@ concepts:
 - '[[consciousness-as-amplifier]]'
 - '[[philosophical-zombies]]'
 - '[[haecceity]]'
+- '[[baseline-cognition]]'
 created: 2026-01-21
 date: &id001 2026-02-23
 description: 'Dreams provide the most accessible everyday evidence for the filter
@@ -44,7 +46,7 @@ description: 'Dreams provide the most accessible everyday evidence for the filte
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-12 06:32:00+00:00
+last_deep_review: 2026-03-15 17:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,6 +60,8 @@ related_articles:
 - '[[memory-as-dual-domain-capability]]'
 - '[[lucid-dreaming-as-capability-evidence]]'
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
+- '[[incubation-effect-and-unconscious-processing]]'
+- '[[consciousness-and-intelligence]]'
 title: Dream Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -151,6 +155,22 @@ Filter theory explains this: with certain constraints removed, consciousness acc
 
 The Konkoly et al. (2021) two-way communication study adds a further dimension. Across four independent laboratories, experimenters communicated with lucid dreamers during verified REM sleep. Dreamers perceived novel questions, performed arithmetic, and responded using pre-arranged eye movements and facial muscle contractions. Dreaming consciousness is not a degraded remnant of waking cognition—it receives, processes, and responds to information while the body is paralysed and the sensorium largely offline.
 
+## The Phenomenal Mode Tracking Pattern
+
+The problem-solving evidence, taken together with the filter model and lucid dreaming findings, reveals a graded relationship between phenomenal mode and cognitive outcome. Creative problem-solving during sleep is not a uniform phenomenon — it depends on the *kind* of experience occurring. The gradient runs from dreamless sleep (no creative benefit) through non-lucid dreaming (creative benefit, enhanced by content incorporation) to lucid dreaming (deliberate information processing):
+
+| Mode | Phenomenal Character | Cognitive Outcome |
+|------|---------------------|-------------------|
+| NREM dreamless sleep | Minimal or absent | Consolidation but no creative benefit (Cai et al. 2009) |
+| Non-lucid REM | Vivid, associative | Creative enhancement via associative priming |
+| Content-incorporating dreams | Problem appears in experience | More than double solving rate (42% vs 17%, Konkoly 2026) |
+| Hypnagogic N1 | Loosely directed, maximally creative | Tripled mathematical insight (Lacaux et al. 2021) |
+| Lucid REM | Metacognitive, partially controlled | Deliberate information processing, two-way communication |
+
+Cognitive outcomes track this phenomenal gradient, not simply whether the brain is "processing." NREM slow-wave sleep involves substantial brain activity — including coordinated hippocampal-cortical replay, the neural consolidation processes many neuroscientists consider the primary mechanism of sleep-dependent memory integration. If unconscious neural consolidation were sufficient for creative problem-solving, NREM should be at least as effective as REM. Instead, REM — the sleep stage defined by vivid conscious experience — specifically enhances creative outcomes while NREM does not.
+
+The [consciousness and intelligence](/topics/consciousness-and-intelligence/) debate often focuses on waking cognition. The dream evidence adds a different dimension: consciousness contributes to cognition not just through focused attention and deliberate reasoning but through the *mode shifts* it undergoes during sleep. The creative cycle — conscious preparation, phenomenal mode shift during sleep, conscious recognition upon waking — suggests consciousness operates across multiple processing modes, each contributing differently. This is consistent with the filter model: different brain states during sleep represent different filter configurations, with REM loosening the filter in ways that allow associative, creative processing. The [incubation effect](/topics/incubation-effect-and-unconscious-processing/) explores the complementary waking side of this creative cycle.
+
 ## Challenges: Illusionism and Epiphenomenalism
 
 ### The Illusionist Challenge
@@ -165,13 +185,15 @@ The zombie dreamer sharpens the point. Consider a [zombie](/concepts/philosophic
 
 ### The Epiphenomenalist Challenge
 
-A committed epiphenomenalist could argue that dream problem-solving is entirely neural—the dream is merely the phenomenal shadow of processing that contributes nothing. Three features of the evidence create difficulty for this interpretation, though none is individually decisive.
+A committed epiphenomenalist could argue that dream problem-solving is entirely neural—the dream is merely the phenomenal shadow of processing that contributes nothing. The phenomenal mode tracking pattern creates three specific difficulties for this position, though none is individually decisive.
 
-**The incorporation effect.** Konkoly found that puzzle-incorporation into dream content predicted solving success. If dreams were epiphenomenal, incorporation should be irrelevant. However, a committed epiphenomenalist can respond that the neural processes generating dream content and solving problems are the *same* processes—the incorporation correlation alone cannot distinguish the interactionist from the epiphenomenalist reading.
+**The specificity problem.** If dreams are epiphenomenal, dream *content* should be irrelevant to problem-solving outcomes. Konkoly found that puzzle-incorporation into dream content predicted solving success (42% versus 17%). The epiphenomenalist can respond that the neural processes generating dream content and solving problems are the *same* processes — the incorporation correlation reflects a third variable causing both. But this requires explaining why neural computation that happens to produce dream imagery about a puzzle is more than twice as effective as neural computation that does not, while insisting the representations contribute nothing.
 
-**The lucid dreaming evidence.** Two-way communication requires integrating novel external information with ongoing dream content—a function that [empirical evidence](/concepts/conscious-vs-unconscious-processing/) associates specifically with conscious access. Suggestive but not definitive.
+**The mode problem.** The REM-versus-NREM dissociation poses a sharper difficulty. Both REM and NREM involve substantial brain activity, and NREM slow-wave sleep involves the coordinated hippocampal-cortical replay that many neuroscientists consider the primary mechanism of sleep-dependent memory integration. If unconscious neural consolidation were sufficient for creative problem-solving, NREM should be at least as effective as REM. Instead, the sleep stage defined by vivid conscious experience specifically enhances creative outcomes (Cai et al. 2009). The epiphenomenalist must explain why the neural architecture that produces vivid experience also produces creative benefits, while insisting the experience contributes nothing. This is logically available but increasingly strained as each architectural feature distinguishing REM from NREM happens to be one that produces phenomenal experience.
 
-**The incubation specificity.** Dream incubation works for problems requiring creative, associative solutions—not for logical analysis (Cai et al. 2009). The phenomenal character of dreaming matches the cognitive profile of the problems it solves. This is the most intriguing consideration, though it remains consistent with a view where neural mode rather than phenomenal experience determines both dream character and problem type.
+**The gradient problem.** The graded relationship — dreamless sleep < non-lucid dreaming < content-incorporating dreams < lucid dreaming — maps directly onto a gradient of phenomenal richness and metacognitive engagement. On the epiphenomenalist account, this gradient is entirely neural: more metacognitive processing produces both richer experience *and* better problem-solving, with no causal connection between the two. But the tight coupling between phenomenal and cognitive gradients is more naturally explained by the interactionist view that experience contributes to cognition than by the epiphenomenalist view that they merely co-vary.
+
+A sophisticated physicalist can respond without endorsing epiphenomenalism. Type-B physicalists accept that phenomenal properties are identical to neural properties, in which case "tracking phenomenal mode" just *is* tracking neural mode under a different description. This identity response has force, but faces the standard challenges: if phenomenal properties are identical to neural properties, we should be able to deduce what dreaming is like from a complete neural description of REM sleep. We cannot. The [explanatory gap](/concepts/explanatory-gap/) between neural description and phenomenal reality remains unbridged.
 
 ## Contemplative Connections
 
@@ -222,6 +244,8 @@ The Map's interpretation of dream consciousness would face difficulty if:
 - [capability-division-problem](/voids/capability-division-problem/) — Which capabilities belong to the brain and which to consciousness
 - [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) — Memory as a dual-domain capability requiring both physical and non-physical contributions
 - [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/) — Lucid dreaming as evidence for the capability division between brain and mind
+- [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — The creative cycle and consciousness's role in incubation
+- [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) — The broader case for consciousness enabling human-level cognition
 
 ## References
 
