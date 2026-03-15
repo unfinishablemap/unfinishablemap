@@ -791,12 +791,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-03-15
 
-### P2: Integrate specious-present-temporal-experience.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Concept page (created 2026-02-22) on the specious present — the duration of experienced "now." Add cross-references from temporal-consciousness.md, bergson-and-duration.md, philosophy-of-time.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-15
-
 ### P3: Deep review mathematical-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-04 — 39 days ago. Voids article on the mathematical void — the gap between mathematical formalism and lived experience. Verify coherence, cross-references, and tenet alignment.
@@ -817,6 +811,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Integrate specious-present-temporal-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page (created 2026-02-22) on the specious present — the duration of experienced "now." Add cross-references from temporal-consciousness.md, bergson-and-duration.md, philosophy-of-time.md, and related articles.
+- **Output**: specious-present-temporal-experience.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-15: Address gaps in hard-problem-of-consciousness.md
 - **Type**: refine-draft

@@ -4,7 +4,7 @@ description: "When thought takes itself as object, distinctive phenomenal struct
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-03-10T15:12:00+00:00
+ai_modified: 2026-03-15T07:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +19,7 @@ concepts:
   - "[[the-unobservable-self]]"
   - "[[phenomenology]]"
   - "[[downward-causation]]"
+  - "[[temporal-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[cognitive-phenomenology-thinking-experience-2026-01-17]]"
@@ -72,7 +73,7 @@ Several features distinguish recursive thought phenomenologically:
 
 ### Temporal Thickness
 
-Object-directed thought can be momentary: a flash of recognition, an instant judgment. Recursive thought seems to require duration—enough time for the first thought to arise, become an object, and be taken up by a second. This gives recursive experience a characteristic temporal "thickness" absent from simple perception.
+Object-directed thought can be momentary: a flash of recognition, an instant judgment. Recursive thought seems to require duration—enough time for the first thought to arise, become an object, and be taken up by a second. This gives recursive experience a characteristic [[temporal-consciousness|temporal thickness]] absent from simple perception.
 
 ### Self-Implicating Quality
 
@@ -149,6 +150,7 @@ The phenomenology of recursive thought suggests several conclusions:
 - [[witness-consciousness]] — Contemplative phenomenology of observing without identification
 - [[self-and-consciousness]] — The minimal self and its relation to recursive awareness
 - [[downward-causation]] — How consciousness might influence physical processes
+- [[temporal-consciousness]] — The specious present and temporal thickness that recursive thought requires
 - [[phenomenology-of-meaning-making]] — Self-reflexive meaning as one of five phenomenal meaning modes
 
 ## References
