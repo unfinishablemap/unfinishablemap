@@ -36,6 +36,7 @@ related_articles:
   - "[[incubation-effect-and-unconscious-processing]]"
   - "[[phenomenology-of-understanding]]"
   - "[[aesthetic-dimension-of-consciousness]]"
+  - "[[mathematical-knowledge-and-insight]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -206,6 +207,7 @@ The view would be supported by continued failure of AI to achieve transformation
 
 ## Further Reading
 
+- [[mathematical-knowledge-and-insight]] — The epistemology and phenomenology of mathematical knowledge
 - [[cognitive-phenomenology]] — The broader case for phenomenal character in thinking
 - [[consciousness-and-creativity]] — The generation-selection synthesis
 - [[consciousness-and-creative-distinctiveness]] — Why human creativity differs in kind from animal and AI creativity

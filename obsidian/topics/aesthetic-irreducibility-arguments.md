@@ -27,7 +27,7 @@ related_articles:
   - "[[binding-and-beauty]]"
   - "[[consciousness-and-aesthetic-creation]]"
   - "[[aesthetic-void]]"
-  - "[[phenomenology-of-mathematical-insight]]"
+  - "[[mathematical-knowledge-and-insight]]"
   - "[[phenomenology-of-musical-understanding]]"
   - "[[knowledge-argument]]"
   - "[[modal-structure-of-phenomenal-properties]]"
@@ -56,7 +56,7 @@ Consider the range of things that produce genuine aesthetic experience:
 
 **Acoustic patterns**: Bach's counterpoint, bird song, the rhythm of spoken poetry. A melody transposed to a different key — physically different sound waves — retains its beauty. The same frequencies arranged without musical structure produce no aesthetic response.
 
-**Abstract structures**: The elegance of Euler's identity, the beauty of a clean proof by contradiction, the satisfying closure of a well-formed argument. There is no physical substrate at all. Mathematical beauty exists in the domain of abstract relations, yet [[phenomenology-of-mathematical-insight|mathematicians report]] phenomenal experiences strikingly similar to those produced by music or visual art — a felt rightness, an attraction, a sense of depth revealed. This is [[cognitive-phenomenology]] in a domain entirely devoid of physical substrate.
+**Abstract structures**: The elegance of Euler's identity, the beauty of a clean proof by contradiction, the satisfying closure of a well-formed argument. There is no physical substrate at all. Mathematical beauty exists in the domain of abstract relations, yet [[mathematical-knowledge-and-insight|mathematicians report]] phenomenal experiences strikingly similar to those produced by music or visual art — a felt rightness, an attraction, a sense of depth revealed. This is [[cognitive-phenomenology]] in a domain entirely devoid of physical substrate.
 
 **Narrative patterns**: The beauty of a novel's structure, the poignancy of a perfectly placed detail. The same narrative can be beautiful in English or Japanese, spoken or written, heard or read.
 
@@ -153,7 +153,7 @@ The aesthetic irreducibility arguments would weaken if:
 - [[aesthetic-dimension-of-consciousness]] — Feature-convergence argument for irreducibility
 - [[binding-and-beauty]] — How aesthetic unity exceeds ordinary perceptual binding
 - [[consciousness-and-aesthetic-creation]] — Making art as evidence for bidirectional interaction
-- [[phenomenology-of-mathematical-insight]] — Mathematical beauty as cognitive phenomenology
+- [[mathematical-knowledge-and-insight]] — Mathematical beauty as cognitive phenomenology
 - [[phenomenology-of-musical-understanding]] — Temporal depth in musical aesthetic experience
 - [[aesthetic-void]] — Where articulation fails at beauty and sublimity
 - [[knowledge-argument]] — Why phenomenal facts exceed physical facts

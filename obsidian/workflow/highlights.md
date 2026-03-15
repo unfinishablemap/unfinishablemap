@@ -72,7 +72,7 @@ Deep review strengthened our case that dualist ethics resolves a problem materia
 Deep review sharpens the argument: felt necessity, aesthetic conviction, and AI's ability to verify without understanding all converge on consciousness doing causal work in mathematics.
 
 **Type**: insight  
-**Link**: [[phenomenology-of-mathematical-insight]]
+**Link**: [[mathematical-knowledge-and-insight]]
 
 ---
 

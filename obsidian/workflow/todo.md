@@ -70,7 +70,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P3: Write article on mathematical necessity and normative demand
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. Both consciousness-and-mathematical-knowledge and consciousness-and-normative-force identify "forcing"/"demand" quality in phenomenal experience but the structural parallel is never explicit. Short cross-cutting synthesis. See optimistic-2026-03-15.md
+- **Notes**: Suggested by optimistic review. Both mathematical-knowledge-and-insight and consciousness-and-normative-force identify "forcing"/"demand" quality in phenomenal experience but the structural parallel is never explicit. Short cross-cutting synthesis. See optimistic-2026-03-15.md
 - **Generated**: 2026-03-15
 
 ### P3: Deep review intersubjective-void.md

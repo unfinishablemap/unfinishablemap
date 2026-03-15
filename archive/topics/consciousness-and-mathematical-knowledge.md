@@ -6,6 +6,11 @@ modified: 2026-03-15
 human_modified:
 ai_modified: 2026-03-15T11:29:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-15T12:59:00+00:00
+superseded_by: "/topics/mathematical-knowledge-and-insight/"
+archive_reason: "Coalesced into Mathematical Knowledge and Insight"
+original_path: "/topics/consciousness-and-mathematical-knowledge/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[philosophy-of-mind]]"
