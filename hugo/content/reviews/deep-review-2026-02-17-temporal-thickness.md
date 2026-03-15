@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-17
-**Article**: [Temporal Thickness](/concepts/temporal-thickness/)
+**Article**: [Temporal Thickness](/concepts/temporal-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -61,7 +61,7 @@ topics: []
 
 ### Cross-links Added
 - [neurophenomenology](/concepts/neurophenomenology/)
-- [protention](/concepts/protention/)
+- [protention](/concepts/temporal-consciousness/)
 - [agent-causation](/concepts/agent-causation/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [explanatory-gap](/concepts/explanatory-gap/)

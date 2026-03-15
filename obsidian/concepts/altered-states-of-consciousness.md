@@ -4,7 +4,7 @@ description: "Altered states reveal consciousness's range through meditation, ps
 created: 2026-01-18
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-03-13T23:30:00+00:00
+ai_modified: 2026-03-15T01:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -153,6 +153,7 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 - [[anaesthesia-and-the-consciousness-interface]] — How anaesthetic agents reconfigure the consciousness interface
 - [[contemplative-practice-as-philosophical-evidence]] — Contemplative practices as evidence for irreducible consciousness
 - [[phenomenological-psychiatry-and-altered-experience]] — How psychiatric conditions reveal the hidden architecture of consciousness
+- [[death-phenomenology-beyond-ndes]] — Death-related altered states: deathbed visions, terminal lucidity, and nearing death awareness
 
 ## References
 

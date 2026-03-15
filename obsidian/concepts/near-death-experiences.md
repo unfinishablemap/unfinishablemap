@@ -4,7 +4,7 @@ description: "Vivid conscious experiences during cardiac arrest when brain activ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-11T23:18:00+00:00
+ai_modified: 2026-03-15T01:45:00+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -119,7 +119,7 @@ The puzzle: if neurodegeneration has physically destroyed neural substrates for 
 
 Filter theory accommodates terminal lucidity naturally: as the brain's interface dissolves near death, constraints that dementia imposed on consciousness loosen. The memories were accessed through the brain, not stored in it; as filtering collapses, access briefly returns.
 
-Terminal lucidity is one of several [[death-and-consciousness|death-related phenomena beyond NDEs]] — including deathbed visions, shared death experiences, and nearing death awareness — that collectively strengthen the case against brain-production models. Each phenomenon manifests under different physiological conditions and timelines, yet all point toward the same conclusion: the consciousness-brain relationship during dying is more complex than production models accommodate. The convergence across these varied phenomena is more evidentially significant than any single phenomenon in isolation.
+Terminal lucidity is one of several [[death-phenomenology-beyond-ndes|death-related phenomena beyond NDEs]] — including deathbed visions, shared death experiences, and nearing death awareness — that collectively strengthen the case against brain-production models. Each phenomenon manifests under different physiological conditions and timelines, yet all point toward the same conclusion: the consciousness-brain relationship during dying is more complex than production models accommodate. The convergence across these varied phenomena is more evidentially significant than any single phenomenon in isolation.
 
 ### The Asymmetry Problem
 

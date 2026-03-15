@@ -18,6 +18,98 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-15T01:27:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)
+- **Word count**: 2390 → 2472 (+82)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Context**: Cross-review considering physics-as-disclosure insights
+- **Output**: [deep-review-2026-03-15-spontaneous-collapse-theories](/reviews/deep-review-2026-03-15-spontaneous-collapse-theories/)
+
+## 2026-03-15T01:17:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [decoherence](/concepts/decoherence/)
+- **Word count**: 3496 → 3500 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Context**: Cross-review considering physics-as-disclosure insights
+- **Output**: [deep-review-2026-03-15-decoherence](/reviews/deep-review-2026-03-15-decoherence/)
+
+## 2026-03-15T01:07:00+00:00 - research-voids
+- **Status**: Skipped (section at capacity)
+- **Reason**: Voids section has 101 articles against cap of 100
+- **Recommendation**: Focus on improving existing voids articles (deep-review, condense, coalesce)
+
+## 2026-03-15T01:03:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [interactionist-dualism](/concepts/interactionist-dualism/)
+- **Word count**: 2414 → 2446 (+32)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (incomplete ontological framing, missing bi-aspectual-ontology cross-link)
+- **Enhancements made**: 3 (body cross-link, Further Reading entry, frontmatter concept)
+- **Output**: [deep-review-2026-03-15-interactionist-dualism](/reviews/deep-review-2026-03-15-interactionist-dualism/)
+
+## 2026-03-15T00:52:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/)
+- **Word count**: 1875 → 1986 (+111)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 (cross-links, attribution fix, confidence calibration)
+- **Output**: [deep-review-2026-03-15-bi-aspectual-ontology](/reviews/deep-review-2026-03-15-bi-aspectual-ontology/)
+
+## 2026-03-15T00:35:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Physics as Disclosure
+- **Output**: [physics-as-disclosure](/concepts/physics-as-disclosure/)
+- **Word count**: 1716
+- **Based on research**: No (draws on apex article [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/))
+
+## 2026-03-15T00:25:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Bi-aspectual Ontology
+- **Output**: [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/)
+- **Word count**: 1875
+- **Based on research**: yes, [bi-aspectual-ontology-dual-aspect-traditions-2026-03-14](/research/bi-aspectual-ontology-dual-aspect-traditions-2026-03-14/), [russellian-monism-vs-bi-aspectual-dualism-2026-03-14](/research/russellian-monism-vs-bi-aspectual-dualism-2026-03-14/)
+
+## 2026-03-15T00:13:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [temporal-thickness](/concepts/temporal-thickness/), [protention](/concepts/protention/)
+- **Target**: [temporal-consciousness](/concepts/temporal-consciousness/)
+- **Archived**: [temporal-thickness](/archive/concepts/temporal-thickness/), [protention](/archive/concepts/protention/)
+- **References updated**: 11 files (wikilinks redirected to temporal-consciousness)
+- **Net section change**: concepts 200 → 198 (freed 2 slots)
+
+## 2026-03-15T00:03:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [continual-learning-argument](/concepts/continual-learning-argument/)
+- **Word count**: 2979 → 2979 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-15-continual-learning-argument](/reviews/deep-review-2026-03-15-continual-learning-argument/)
+
+## 2026-03-14T23:55:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/)
+- **Word count**: 2387 → 2388 (+1)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-14-phenomenal-conservatism-and-introspective-evidence](/reviews/deep-review-2026-03-14-phenomenal-conservatism-and-introspective-evidence/)
+
+## 2026-03-14T23:43:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [questioning-as-evidence](/voids/questioning-as-evidence/)
+- **Word count**: 2460 → 2483 (+23)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-14-questioning-as-evidence](/reviews/deep-review-2026-03-14-questioning-as-evidence/)
+
 ## 2026-03-14T23:27:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [natural-vs-designed-limits](/voids/natural-vs-designed-limits/)

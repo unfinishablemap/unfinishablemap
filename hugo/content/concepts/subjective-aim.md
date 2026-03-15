@@ -14,7 +14,7 @@ concepts:
 - '[[combination-problem]]'
 - '[[panpsychism]]'
 - '[[agent-teleology]]'
-- '[[protention]]'
+- '[[temporal-consciousness]]'
 - '[[downward-causation]]'
 created: 2026-02-13
 date: &id001 2026-02-13
@@ -110,7 +110,7 @@ Subjective aim intersects with the Map's tenets in illuminating but also tension
 - [combination-problem](/concepts/combination-problem/) — How simple aims might compose into complex consciousness
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — Purpose as ongoing subjective aim toward experiential richness
 - [agent-teleology](/concepts/agent-teleology/) — How conscious beings introduce genuine purpose; subjective aim as metaphysical grounding
-- [protention](/concepts/protention/) — Husserl's forward-directedness of experience, structurally close to subjective aim
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Husserl's forward-directedness of experience, structurally close to subjective aim
 - [downward-causation](/concepts/downward-causation/) — Subjective aim as a form of top-down causal influence within Whitehead's framework
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Creative advance and the generation-through-selection synthesis
 

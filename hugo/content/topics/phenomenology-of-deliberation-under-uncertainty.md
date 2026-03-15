@@ -13,7 +13,7 @@ concepts:
 - '[[metacognition]]'
 - '[[introspection]]'
 - '[[subjective-aim]]'
-- '[[temporal-thickness]]'
+- '[[temporal-consciousness]]'
 created: 2026-02-09
 date: &id001 2026-02-14
 description: What it feels like to decide when outcomes are unknowable—the vertigo,
@@ -104,7 +104,7 @@ This means uncertainty forces individuated response. You must decide *as yoursel
 
 This connection between uncertainty and authenticity runs deep. Heidegger's analysis of anxiety (*Angst*) describes the collapse of familiar frameworks—the moment when *das Man* ("the They," the impersonal social norm) stops covering the situation. Genuine uncertainty creates precisely this condition. When you cannot know what will happen, you cannot rely on what "they" say to do. You are thrown back on your own resources, and the choice that follows is authentically yours in a way that convention-following never is.
 
-Decisions under deep uncertainty are also self-forming. Choosing to trust under uncertainty makes you a more trusting person; choosing a career without knowing the outcome shapes your values and capabilities for all future decisions. The deliberation is [temporally thick](/concepts/temporal-thickness/)—dense with retained experience, active with reaching toward possible futures—and what emerges from it is not just a decision but a modified decider. This recursive quality, where uncertainty-driven choices constitute the self that will face future uncertainties, suggests that deliberation under uncertainty is not merely an episode but a process of becoming.
+Decisions under deep uncertainty are also self-forming. Choosing to trust under uncertainty makes you a more trusting person; choosing a career without knowing the outcome shapes your values and capabilities for all future decisions. The deliberation is [temporally thick](/concepts/temporal-consciousness/)—dense with retained experience, active with reaching toward possible futures—and what emerges from it is not just a decision but a modified decider. This recursive quality, where uncertainty-driven choices constitute the self that will face future uncertainties, suggests that deliberation under uncertainty is not merely an episode but a process of becoming.
 
 ## What Deliberative Phenomenology Reveals
 
@@ -152,7 +152,7 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Imagining alternative outcomes
 - [volitional opacity](/voids/introspective-opacity/) — Why we cannot observe our own deciding
 - [subjective-aim](/concepts/subjective-aim/) — The process-philosophical structure of commitment
-- [temporal-thickness](/concepts/temporal-thickness/) — Why some moments are denser with experience than others
+- [temporal-consciousness](/concepts/temporal-consciousness/) — Why some moments are denser with experience than others
 - [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/) — When commitment arrives without extended deliberation
 
 ## References

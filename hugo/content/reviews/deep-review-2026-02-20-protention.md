@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-20
-**Article**: [Protention](/concepts/protention/)
+**Article**: [Protention](/concepts/temporal-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

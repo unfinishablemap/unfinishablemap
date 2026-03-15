@@ -1255,7 +1255,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-13 22:34 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Temporal Thickness
-- **Output**: [temporal-thickness](/concepts/temporal-thickness/)
+- **Output**: [temporal-thickness](/concepts/temporal-consciousness/)
 - **Word count**: 1526
 - **Based on research**: yes, [specious-present-temporal-experience-2026-01-16](/research/specious-present-temporal-experience-2026-01-16/)
 

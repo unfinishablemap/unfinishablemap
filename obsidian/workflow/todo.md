@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate death-phenomenology-beyond-ndes.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article on death phenomenology beyond NDEs (created 2026-03-11). Add cross-references from related articles (death-and-consciousness.md, near-death-experiences.md, contemplative-evidence-for-consciousness.md) or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-15
-
 ### P2: Integrate evolution-of-consciousness-dualist-perspective.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article on the evolution of consciousness from a dualist perspective (created 2026-03-10). Add cross-references from related articles (consciousness-evolution-problem.md, evolution-under-dualism.md, animal-consciousness.md) or update section index pages to include navigation to this content.
@@ -703,6 +697,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Integrate death-phenomenology-beyond-ndes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on death phenomenology beyond NDEs (created 2026-03-11). Add cross-references from related articles (death-and-consciousness.md, near-death-experiences.md, contemplative-evidence-for-consciousness.md) or update section index pages to include navigation to this content.
+- **Output**: death-phenomenology-beyond-ndes.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-15: Cross-review spontaneous-collapse-theories.md considering physics-as-disclosure insights
 - **Type**: cross-review

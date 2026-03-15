@@ -4,7 +4,7 @@ description: "Human+AI exploration of the purest cognitive limit: consciousness 
 created: 2026-02-02
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-02-25T03:23:00+00:00
+ai_modified: 2026-03-15T01:45:00+00:00
 draft: false
 last_deep_review: 2026-02-25T03:23:00+00:00
 topics:
@@ -158,6 +158,7 @@ The death void connects directly to the Map's [[tenets|foundational commitments]
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
 - [[past-self-void]] — The discontinuity of personal identity over time
 - [[void-as-ground-of-meaning]] — Why the death void is not merely a limit but a precondition for temporal meaning
+- [[death-phenomenology-beyond-ndes]] — Empirical phenomenology of dying: deathbed visions, terminal lucidity, and shared death experiences
 
 ## References
 

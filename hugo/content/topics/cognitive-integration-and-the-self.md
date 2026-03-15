@@ -59,7 +59,7 @@ Across time, consciousness integrates:
 - **Prospective planning**: Extending agency into anticipated futures
 - **Narrative continuity**: The sense that "I" am the same person who existed yesterday
 
-[Temporal consciousness](/concepts/temporal-consciousness/) provides the phenomenal structure for this integration. The specious present—the experiential "now" that extends across roughly one to three seconds—bridges discrete moments into continuous flow. Retention (experienced pastness) and [protention](/concepts/protention/) (experienced futurity) ensure that consciousness is not confined to instantaneous slices but reaches across time.
+[Temporal consciousness](/concepts/temporal-consciousness/) provides the phenomenal structure for this integration. The specious present—the experiential "now" that extends across roughly one to three seconds—bridges discrete moments into continuous flow. Retention (experienced pastness) and [protention](/concepts/temporal-consciousness/) (experienced futurity) ensure that consciousness is not confined to instantaneous slices but reaches across time.
 
 ## The Self as Integrative Process {#self-as-process}
 

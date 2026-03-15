@@ -42,7 +42,7 @@ topics: []
 
 5. **"Temporal bias" research uncited**: Empirical claim about temporal bias lacked specific references. **Resolution**: Added Greene & Sullivan (2015) and Parfit (1984) citations.
 
-6. **Missing cross-links**: Several existing site articles on related topics were not linked. **Resolution**: Added inline links to `[prehension](/concepts/prehension/)`, `[protention](/concepts/protention/)`, `[phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)`, and Further Reading entries for `[phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)` and `[phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)`.
+6. **Missing cross-links**: Several existing site articles on related topics were not linked. **Resolution**: Added inline links to `[prehension](/concepts/prehension/)`, `[protention](/concepts/temporal-consciousness/)`, `[phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)`, and Further Reading entries for `[phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)` and `[phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)`.
 
 ### Counterarguments Considered
 
@@ -75,7 +75,7 @@ topics: []
 - Separated Price attribution from Map interpretation
 - Separated Tulving attribution from Map interpretation
 - Added temporal bias research citations
-- Added inline cross-links to `[prehension](/concepts/prehension/)`, `[protention](/concepts/protention/)`, `[phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)`
+- Added inline cross-links to `[prehension](/concepts/prehension/)`, `[protention](/concepts/temporal-consciousness/)`, `[phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)`
 - Added Further Reading entries
 - Removed stale AI refinement log comment
 - Added `last_deep_review` frontmatter field
@@ -84,7 +84,7 @@ topics: []
 
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) (fixed from broken [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/))
 - [prehension](/concepts/prehension/)
-- [protention](/concepts/protention/)
+- [protention](/concepts/temporal-consciousness/)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
 - [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
 

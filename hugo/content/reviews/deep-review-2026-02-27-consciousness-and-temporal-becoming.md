@@ -67,7 +67,7 @@ All attributions verified:
 Updated stale references to archived articles (`consciousness-and-temporal-asymmetry` and `consciousness-and-temporal-creativity`) in 6 content files + highlights:
 - [temporal-phenomenology-quantum-selection](/concepts/temporal-consciousness/) (frontmatter + Further Reading)
 - [temporal-consciousness](/concepts/temporal-consciousness/) (frontmatter)
-- [protention](/concepts/protention/) (frontmatter + body text + Further Reading)
+- [protention](/concepts/temporal-consciousness/) (frontmatter + body text + Further Reading)
 - [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-attention/) (frontmatter + body text + Further Reading)
 - [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) (frontmatter + Further Reading)
 - [temporal-ontology-and-consciousness](/topics/temporal-ontology-and-consciousness/) (frontmatter + Further Reading)

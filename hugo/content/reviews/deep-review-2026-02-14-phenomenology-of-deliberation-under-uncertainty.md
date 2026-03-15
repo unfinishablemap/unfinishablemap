@@ -39,7 +39,7 @@ topics: []
 - **Missing cross-link to `[metacognition](/concepts/metacognition/)`**: Now linked inline in the metacognitive monitoring subsection.
 - **Missing gloss for "das Man"**: Added inline explanation: "*das Man* ('the They,' the impersonal social norm)".
 - **Grammar: "determined or fully-informed decision"**: Fixed to "decision-making".
-- **Missing cross-links to related content**: Added `[subjective-aim](/concepts/subjective-aim/)`, `[temporal-thickness](/concepts/temporal-thickness/)`, `[spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)` to frontmatter, body text, and Further Reading.
+- **Missing cross-links to related content**: Added `[subjective-aim](/concepts/subjective-aim/)`, `[temporal-thickness](/concepts/temporal-consciousness/)`, `[spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)` to frontmatter, body text, and Further Reading.
 
 ### Counterarguments Considered
 
@@ -65,7 +65,7 @@ topics: []
 - Added engagement with metacognitive monitoring objection (strongest computational alternative)
 - Added self-forming dimension to "Uncertainty and Authentic Choice" section — decisions under uncertainty constitute the self
 - Added process-philosophical grounding via `[subjective-aim](/concepts/subjective-aim/)` for the commitment concept
-- Added `[temporal-thickness](/concepts/temporal-thickness/)` connection for the experiential density of uncertain deliberation
+- Added `[temporal-thickness](/concepts/temporal-consciousness/)` connection for the experiential density of uncertain deliberation
 - Added `[spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)` as complement (commitment without extended deliberation)
 - Restructured "What Deliberative Phenomenology Reveals" into objection-then-response format
 - Cited previously uncited references (Dreyfus, Gigerenzer, Kahneman & Tversky) and added Simon
@@ -74,7 +74,7 @@ topics: []
 
 - [metacognition](/concepts/metacognition/) (inline, body text)
 - [subjective-aim](/concepts/subjective-aim/) (frontmatter concepts, body text, Further Reading)
-- [temporal-thickness](/concepts/temporal-thickness/) (frontmatter concepts, body text, Further Reading)
+- [temporal-thickness](/concepts/temporal-consciousness/) (frontmatter concepts, body text, Further Reading)
 - [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/) (frontmatter related_articles, Further Reading)
 - [attention-as-interface](/concepts/attention-as-interface/) (replaced archived [voluntary-attention](/concepts/attention-as-interface/))
 

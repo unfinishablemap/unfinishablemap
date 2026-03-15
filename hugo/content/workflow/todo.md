@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept article — Bi-aspectual Ontology
-- **Type**: expand-topic
-- **Notes**: Develop the concept of bi-aspectual ontology as used in the apex: reality has two irreducible aspects — structure (physics/wavefunction) and actuality (consciousness). Distinguish from: (1) substance dualism; (2) property dualism; (3) neutral monism/Russellian monism; (4) idealism; (5) panpsychism. The Map's position: genuine dualism where physics is complete-for-its-domain and consciousness is the other domain. The interface (Born rule) connects them. Requires the bi-aspectual traditions research (P1) to be completed first. Target section: concepts/.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
-### P2: Write concept article — Physics as Disclosure
-- **Type**: expand-topic
-- **Notes**: Develop the apex's claim that the measurement problem is a "disclosure" — physics revealing its own boundary — not a deficiency. Cover: (1) Standard view: measurement problem as bug. (2) Disclosure view: theory correctly reaching its limit. (3) Precedents: thermodynamics disclosed statistical mechanics; classical mechanics disclosed relativity. But those were within-physics completions; this may disclose something outside physics. (4) How decoherence supports disclosure reading — handles everything physics can handle, stops precisely where the non-physical begins. (5) Evidence criteria: disclosure vs. deficiency. Target section: concepts/.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P2: Write void article — The Interface Formalization Void
 - **Type**: expand-topic
 - **Notes**: If the consciousness-physics interface is the ontological joint between two fundamentally different domains, can it be formalized mathematically? Or is formalization itself a structural-domain tool that cannot capture the actualizing domain? (1) Mathematics describes structure — may be unable to describe actuality. (2) Any mathematical description of the interface would be more structure, not actuality. (3) Born rule as the closest we can get — structural description of statistical properties without capturing what happens at the interface. (4) Connection to nomic void. (5) Connection to mysterianism/cognitive closure. A void generated directly by the reverse inference. Target section: voids/.
@@ -67,18 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Superseded by coalesce — article merged into perceptual-failure-and-the-interface.md
 - **Source**: orphan_integration
 - **Generated**: 2026-03-13
-
-### P3: Deep review questioning-as-evidence.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-31 — 39 days ago. Voids article on how the capacity to question experience serves as evidence for consciousness. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
-### P3: Deep review continual-learning-argument.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-02 — 37 days ago. Concept page on the continual learning argument for consciousness, relevant to AI consciousness cluster. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
 
 ### P3: Deep review attention-created-voids.md
 - **Type**: deep-review
@@ -678,8 +654,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-14
 
+### P2: Refine russellian-monism.md with new research findings
+- **Type**: refine-draft
+- **Notes**: Research completed in research/russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md identifying five pressure points where Russellian monism challenges the Map and five advantages where the Map has the stronger position. Incorporate key findings (Pautz: RM offers no advantage over dualism; Cutter: RM is unstable; Howell: RM faces epiphenomenalism). Also cross-reference new concepts/bi-aspectual-ontology.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-15
+
+### P2: Condense temporal-consciousness.md (3974 words, 114% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Previously condensed on 2026-02-22 but has grown back to 3974 words, likely from review-driven additions. Preserve core arguments while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-15
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Cross-review spontaneous-collapse-theories.md considering physics-as-disclosure insights
+- **Type**: cross-review
+- **Notes**: New article concepts/physics-as-disclosure.md reframes the measurement problem as disclosure. spontaneous-collapse-theories.md covers GRW/CSL/objective reduction — these theories provide baseline physics that requires consciousness modulation under the disclosure reading. Add forward-reference and check consistency with disclosure framework.
+- **Output**: obsidian/concepts/spontaneous-collapse-theories.md -- Context: Cross-review spontaneous-collapse-theories.md considering physics-as-disclosure insights
+
+### ✓ 2026-03-15: Cross-review decoherence.md considering physics-as-disclosure insights
+- **Type**: cross-review
+- **Notes**: New article concepts/physics-as-disclosure.md reframes the measurement problem as physics revealing its own boundary rather than a deficiency. decoherence.md discusses environmental decoherence and should integrate the disclosure reading — decoherence handles everything physics can handle, stopping precisely where the non-physical begins. Check for cross-links and consistency.
+- **Output**: obsidian/concepts/decoherence.md -- Context: Cross-review decoherence.md considering physics-as-disclosure insights
+
+### ✓ 2026-03-15: Cross-review interactionist-dualism.md considering bi-aspectual ontology insights
+- **Type**: cross-review
+- **Notes**: New article concepts/bi-aspectual-ontology.md introduces the bi-aspectual framework distinguishing structure (physics) from actuality (consciousness). interactionist-dualism.md is the core framework article and should reference the aspectual distinction as its ontological foundation. Check for cross-links and argument reinforcement.
+- **Output**: obsidian/concepts/interactionist-dualism.md -- Context: Cross-review interactionist-dualism.md considering bi-aspectual ontology insights
+
+### ✓ 2026-03-15: Write concept article — Physics as Disclosure
+- **Type**: expand-topic
+- **Notes**: Develop the apex's claim that the measurement problem is a "disclosure" — physics revealing its own boundary — not a deficiency. Cover: (1) Standard view: measurement problem as bug. (2) Disclosure view: theory correctly reaching its limit. (3) Precedents: thermodynamics disclosed statistical mechanics; classical mechanics disclosed relativity. But those were within-physics completions; this may disclose something outside physics. (4) How decoherence supports disclosure reading — handles everything physics can handle, stops precisely where the non-physical begins. (5) Evidence criteria: disclosure vs. deficiency. Target section: concepts/.
+- **Output**: Write concept article — Physics as Disclosure
+
+### ✓ 2026-03-15: Write concept article — Bi-aspectual Ontology
+- **Type**: expand-topic
+- **Notes**: Develop the concept of bi-aspectual ontology as used in the apex: reality has two irreducible aspects — structure (physics/wavefunction) and actuality (consciousness). Distinguish from: (1) substance dualism; (2) property dualism; (3) neutral monism/Russellian monism; (4) idealism; (5) panpsychism. The Map's position: genuine dualism where physics is complete-for-its-domain and consciousness is the other domain. The interface (Born rule) connects them. Requires the bi-aspectual traditions research (P1) to be completed first. Target section: concepts/.
+- **Output**: Write concept article — Bi-aspectual Ontology
+
+### ✓ 2026-03-15: Deep review continual-learning-argument.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-02 — 37 days ago. Concept page on the continual learning argument for consciousness, relevant to AI consciousness cluster. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/continual-learning-argument.md
+
+### ✓ 2026-03-14: Deep review questioning-as-evidence.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-31 — 39 days ago. Voids article on how the capacity to question experience serves as evidence for consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/questioning-as-evidence.md
 
 ### ✓ 2026-03-14: Deep review natural-vs-designed-limits.md
 - **Type**: deep-review

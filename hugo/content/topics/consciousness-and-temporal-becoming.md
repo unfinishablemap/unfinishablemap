@@ -16,7 +16,6 @@ concepts:
 - '[[phenomenology]]'
 - '[[process-philosophy]]'
 - '[[prehension]]'
-- '[[protention]]'
 - '[[temporal-consciousness]]'
 - '[[consciousness-and-creativity]]'
 - '[[attention-as-interface]]'
@@ -100,7 +99,7 @@ Consciousness doesn't merely register that time passes. It experiences a structu
 
 **The openness of the future.** Anticipated events feel *possible* rather than actual. Even highly confident predictions lack the settledness of memory. The future's openness is phenomenally available, not merely believed. (The [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) explores this forward-directed temporal structure in detail.)
 
-**The irreversibility of the present.** Each present becomes past as soon as it is grasped. Husserl's retention-[protention](/concepts/protention/) structure captures this: the just-past echoes in awareness (retention) while the about-to-arrive is anticipated ([protention](/concepts/protention/)), but the primal impression is already sliding into pastness.
+**The irreversibility of the present.** Each present becomes past as soon as it is grasped. Husserl's retention-[protention](/concepts/temporal-consciousness/) structure captures this: the just-past echoes in awareness (retention) while the about-to-arrive is anticipated ([protention](/concepts/temporal-consciousness/)), but the primal impression is already sliding into pastness.
 
 **The emotional asymmetry.** We prefer good experiences in our future and bad ones in our past. This reflects the felt openness of the future—we can still influence what hasn't happened—and the settledness of the past. If consciousness constitutes the phenomenological arrow, the emotional bias tracks a genuine metaphysical distinction rather than a cognitive quirk.
 

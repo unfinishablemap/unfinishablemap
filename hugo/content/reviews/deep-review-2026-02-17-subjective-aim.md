@@ -74,7 +74,7 @@ topics: []
 ### Cross-links Added
 
 - [agent-teleology](/concepts/agent-teleology/) — metaphysical grounding for agent teleology
-- [protention](/concepts/protention/) — Husserl's forward-directedness, structurally close to subjective aim
+- [protention](/concepts/temporal-consciousness/) — Husserl's forward-directedness, structurally close to subjective aim
 - [downward-causation](/concepts/downward-causation/) — subjective aim as top-down causal influence
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — creative advance and generation-through-selection
 

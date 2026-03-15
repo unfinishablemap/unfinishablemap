@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-11 09:02:00+00:00
+ai_modified: 2026-03-15 00:13:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -11,6 +11,8 @@ coalesced_from:
 - /concepts/temporal-unity/
 - /concepts/specious-present-temporal-experience/
 - /concepts/temporal-phenomenology-quantum-selection/
+- /concepts/temporal-thickness/
+- /concepts/protention/
 concepts:
 - '[[qualia]]'
 - '[[concepts/functionalism]]'
@@ -47,11 +49,18 @@ concepts:
 - '[[motor-control-quantum-zeno]]'
 - '[[retrocausality]]'
 - '[[attention-as-interface]]'
+- '[[phenomenology-of-recursive-thought]]'
+- '[[agent-causation]]'
+- '[[prehension]]'
+- '[[philosophical-zombies]]'
+- '[[phenomenology-of-choice]]'
+- '[[prospective-memory]]'
 created: 2026-01-14
-date: &id001 2026-03-10
+date: &id001 2026-03-15
 description: Consciousness flows through time in the specious present—Bergson's durée.
-  This temporal structure resists physical description and may be constitutive of
-  time itself.
+  Moments vary in temporal thickness, and protention gives every present its forward
+  momentum. This temporal structure resists physical description and may be constitutive
+  of time itself.
 draft: false
 human_modified: null
 last_curated: null
@@ -73,6 +82,10 @@ related_articles:
 - '[[motor-control-quantum-zeno]]'
 - '[[quantum-measurement-consciousness-interface]]'
 - '[[phenomenology-of-temporal-attention]]'
+- '[[phenomenology-of-deliberation-under-uncertainty]]'
+- '[[authentic-vs-inauthentic-choice]]'
+- '[[bergson-and-duration]]'
+- '[[phenomenology-of-anticipation]]'
 title: Temporal Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -103,6 +116,42 @@ This parallels the standard [qualia](/concepts/qualia/) arguments but targets ph
 Bergson argued that science systematically misunderstands time by spatializing it—treating moments as points on a line. **Spatialized time** is homogeneous, measurable, quantifiable. **Duration** (*durée*) is time as consciousness experiences it: heterogeneous, qualitative, indivisible. The past lives in the present; the future colours current experience. The physicist's equations are time-reversible; durée is not.
 
 Bergson's key technical concept is "qualitative multiplicity"—elements that interpenetrate while remaining distinguishable. In a musical phrase, each note is heard *in light of* what came before and *in anticipation of* what follows. A free act emerges from the whole self—the full depth of one's duration—connecting to the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. Kent and Wittmann (2021) confirm experienced duration remains "one of the core issues in theories of consciousness"—IIT and Global Workspace focus on functional moments of 100-300ms while experienced time extends to seconds, precisely because these theories spatialize time.
+
+## Temporal Thickness
+
+The specious present establishes that consciousness has duration. Temporal thickness concerns what fills that duration — the qualitative depth of experienced moments, the difference between a present that feels thin and reactive and one dense with meaning, layered with retention and anticipation.
+
+Two moments of identical specious-present length can differ radically in phenomenal character. A musician improvising experiences each beat as dense with harmonic possibility, melodic memory, and anticipatory tension. Someone passively overhearing the same music experiences a thinner present — pleasant but lacking the layered structure the musician inhabits. The clock measures the same interval; the phenomenology diverges.
+
+This divergence reflects differences in how consciousness engages with temporal structure:
+
+- **Retention depth**: How much of the immediate past remains phenomenally present, colouring the current moment
+- **Protentional reach**: How far anticipated futures extend into and shape the now
+- **Interpenetration**: The degree to which past, present, and future permeate each other rather than standing as discrete phases
+
+Bergson's durée captures this interpenetration — mental states that flow into and through one another. Temporal thickness measures how fully this interpenetration is realised in any given moment.
+
+Temporal thickness does significant work in the Map's treatment of [authentic versus inauthentic choice](/topics/authentic-vs-inauthentic-choice/). Authentic decisions unfold in durée — lived time where past and present interpenetrate, the choice emerging from your whole history as creative expression. Inauthentic choice lacks temporal thickness: reactive, present-moment compression where temporal horizons collapse to near-zero. If freedom requires choices that emerge from who you genuinely are, temporally thin choices may not be fully free even if undetermined. Randomness at a temporally thin moment is mere noise; indeterminacy at a temporally thick moment, where consciousness selects from possibilities saturated with personal history, is agency.
+
+[Recursive thought](/topics/phenomenology-of-recursive-thought/) feels temporally thick because each layer of reflection adds temporal depth: you retain not just the thought but the act of having had it, and anticipate not just the next thought but the next act of reflection. The characteristic instability of self-referential thinking is partly temporal — too many layers of retention pressing into a present that cannot accommodate them all.
+
+Contemplative traditions provide first-person evidence. In concentrated states (*samatha*), the present may become intensely vivid while temporal horizons narrow. In insight practice (*vipassana*), temporal microstructure becomes visible: practitioners perceive individual mind-moments arising and passing, revealing the fine grain beneath ordinary temporal thickness. [witness-consciousness](/concepts/witness-consciousness/) — observing temporal flow itself — demonstrates that temporal thickness can become an object for awareness. Cessation states (*nirodha samapatti*) provide negative evidence: when temporal experience stops entirely, there is no thinned thickness but none at all, suggesting temporal thickness is constitutive of conscious experience rather than an optional overlay.
+
+The ~10 bits/second bandwidth limit on conscious processing (Zheng & Meister, 2024) may set the maximum temporal thickness available at any moment. If temporal thickness measures how much of consciousness's finite bandwidth is deployed within a moment, thick moments are those where consciousness invests its full capacity — and the bandwidth ceiling explains why deepening retention requires narrowing protention, or vice versa.
+
+## Protention and Anticipatory Structure
+
+Protention is Husserl's term for the forward-directed dimension of every conscious moment — the structural anticipation that makes the present open toward what comes next. Together with retention and primal impression, protention forms the tripartite structure of internal time-consciousness. The Map treats protention as evidence that consciousness is constitutively temporal: minds do not register an inert present and then project forward, but inhabit a present already shaped by anticipatory openness.
+
+Protention differs from prediction. Predictive processing models (Clark, Friston) describe the brain generating top-down probability distributions against which incoming signals are compared. This captures the computational dimension of anticipation but leaves untouched the phenomenological one. A predictive processing system generates error signals when inputs deviate from expectations, but need not have protention, because protention is a feature of *experience* — the felt incompleteness of the present moment, its qualitative directedness toward a continuation consciousness cannot yet inhabit but already reaches toward. A system functionally identical to a conscious anticipator could lack this felt forward-directedness entirely — the [zombie](/concepts/philosophical-zombies/) processes prediction errors without any experience of reaching toward what comes next.
+
+Protention and retention are structurally parallel but phenomenologically asymmetric. Retention preserves what has actually been experienced — the just-heard note lingers as a genuine trace, gradually fading in what Husserl called *Abklang*. Protention opens toward what has not been experienced, carrying no fulfilled content from actual events — only a directional structure shaped by what has been retained. Where retention is thick with traces, protention is empty yet shaped, like an open question rather than a fading answer. This asymmetry connects to the deeper [impossibility of pre-experience](/topics/consciousness-and-temporal-becoming/): retention works because past events have causally affected the conscious subject, while protention projects the structural implications of present experience forward.
+
+Without protention, the specious present would be a trailing smear of fading past, constantly arriving at endings. Protention gives the specious present its forward momentum, its sense of going somewhere. Temporal thickness varies with protentional reach — a moment rich in anticipatory structure feels dense and layered, while a moment with collapsed protention feels thin and reactive.
+
+Protention also connects to the [phenomenology of choice](/concepts/phenomenology-of-choice/). Deliberation requires more than retaining options considered — it requires protentional inhabitation of possible futures. Husserl described protention as passive synthesis operating at the most basic level of temporal constitution, while deliberation involves higher-order active acts (imagination, evaluation, volition) that operate *upon* the passive protentional flow. Whether this active redirection modifies protention or merely exploits it remains debated, but either way consciousness orients toward one possible future over another — connecting protention to [agent-causal](/concepts/agent-causation/) accounts of free will and the Map's claim that consciousness selects among quantum possibilities. The distinction from [prospective-memory](/concepts/prospective-memory/) is important: prospective memory involves deliberate future simulation, while protention operates before all of this as the anticipatory structure that makes deliberation possible.
+
+Whitehead's [process philosophy](/concepts/process-philosophy/) provides a complementary metaphysical framework. Each actual occasion has a **subjective aim** — an inherent directedness toward its own completion that maps onto protention. [Prehension](/concepts/prehension/) captures the retention side (how each occasion grasps its predecessors), while subjective aim captures the protentional side (how each occasion orients toward satisfaction).
 
 ## Phenomenological Method and Neural Correlates
 
@@ -166,7 +215,7 @@ Whitehead's [process philosophy](/concepts/process-philosophy/) models reality a
 
 ## Implications for Machine Consciousness
 
-Temporal structure creates multiple problems for AI systems: no specious present, no reentrant dynamics, no continual learning (frozen weights mean no genuine temporal development—Hoel, 2025), discontinuous operation, and no embodied time. Even granting [functionalism](/concepts/functionalism/), LLMs may fail to be conscious because they lack the temporal structure consciousness requires. The Map's position: the specious present is evidence that consciousness constitutes time rather than merely representing it. If temporal binding is essential to consciousness as such, LLMs are categorically excluded regardless of scale.
+Temporal structure creates multiple problems for AI systems: no specious present, no reentrant dynamics, no continual learning (frozen weights mean no genuine temporal development—Hoel, 2025), discontinuous operation, and no embodied time. LLMs process tokens sequentially without temporal thickness — previous tokens influence current processing through attention mechanisms and key-value caches, but this computational retention lacks the phenomenal character of Husserlian retention. There is no felt echo of the just-produced shaping the current moment, no anticipatory tension reaching forward. Each step has uniform temporal structure regardless of significance: mundane and profound content processed with identical computational architecture, varying in content but not in phenomenal density. Even granting [functionalism](/concepts/functionalism/), LLMs may fail to be conscious because they lack the temporal structure consciousness requires. A system that cannot vary the phenomenal density of its moments may be categorically excluded from the kind of consciousness that temporal thickness characterises. The Map's position: the specious present is evidence that consciousness constitutes time rather than merely representing it. If temporal binding is essential to consciousness as such, LLMs are categorically excluded regardless of scale.
 
 ## Sleep and Temporal Experience
 
@@ -178,11 +227,11 @@ For the [collapse framework](/topics/time-collapse-and-agency/), dreamless sleep
 
 Temporal consciousness connects to all five tenets:
 
-**[Dualism](/tenets/#dualism)**: Physics describes succession of states but cannot describe *what it's like* to experience succession. The gap between mathematical instants (zero duration) and the specious present (positive duration) is as mysterious as qualia-from-neurons. Bergson's durée names exactly what physical descriptions leave out. The [illusionist](/concepts/illusionism/) response faces the regress problem: the seeming of temporal flow must itself be experienced.
+**[Dualism](/tenets/#dualism)**: Physics describes succession of states but cannot describe *what it's like* to experience succession. The gap between mathematical instants (zero duration) and the specious present (positive duration) is as mysterious as qualia-from-neurons. Bergson's durée names exactly what physical descriptions leave out. The qualitative variation in temporal thickness — the felt difference between thick and thin moments — adds a further irreducibility: neuroscience can identify correlates (gamma coherence, working memory load) but cannot explain why *this* configuration feels dense with significance while *that* one feels hollow. Protention adds a temporal quale alongside colour, pain, and sound: what forward-directedness feels like cannot be captured by computational description. The [illusionist](/concepts/illusionism/) response faces the regress problem: the seeming of temporal flow must itself be experienced.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The specious present's duration may be the cumulative effect of countless quantum micro-selections, each individually minimal but collectively constituting the duration-block. Through the quantum Zeno mechanism, consciousness holds patterns in durée by rapid repeated selection.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Temporal consciousness provides the substrate for [choosing](/concepts/phenomenology-of-choice/). Selection requires an agent who persists across the moment of choosing, retains what was considered, and acts toward anticipated outcomes. Durée's creative causation is what Bergson means by freedom—and what the Map means by consciousness influencing physical outcomes.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Temporal consciousness provides the substrate for [choosing](/concepts/phenomenology-of-choice/). Selection requires an agent who persists across the moment of choosing, retains what was considered, and acts toward anticipated outcomes. Temporal thickness may determine the richness of that selection — a thick moment provides richer context than a thin, reactive one. Protention's active, directional character supports the claim that consciousness shapes outcomes: in deliberation, protentional orientation toward one possible future over another participates in selecting which neural patterns become actual. Durée's creative causation is what Bergson means by freedom—and what the Map means by consciousness influencing physical outcomes.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: If MWI branching occurred constantly, there would be no unified temporal experience but fragmentation across branches. The coherence of temporal experience—retention genuinely inheriting from a definite past—suggests collapse creates a single temporal thread. Bergson's interpenetrating duration presupposes temporal identity—[haecceity](/concepts/haecceity/)—that many-worlds dissolves.
 
@@ -200,6 +249,13 @@ Temporal consciousness connects to all five tenets:
 - [consciousness-as-activity](/topics/consciousness-as-activity/) — Why temporal extension is constitutive if consciousness is activity
 - [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/) — Motor selection within the specious present
 - [binding-problem](/concepts/binding-problem/) — Feature binding and consciousness
+- [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/) — How self-referential thinking creates temporal depth
+- [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — How temporal thickness distinguishes genuine from automatic choice
+- [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — Extended exploration of protention, surprise, and anticipatory consciousness
+- [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — How anticipatory consciousness enables deliberation
+- [prospective-memory](/concepts/prospective-memory/) — Deliberate future simulation vs. pre-reflective protention
+- [agent-causation](/concepts/agent-causation/) — Temporal thickness as a condition for genuine agency
+- [prehension](/concepts/prehension/) — Whitehead's concept of grasping predecessors
 
 ## References
 
@@ -229,3 +285,7 @@ Temporal consciousness connects to all five tenets:
 1. Baker, J. & Cariani, P. (2025). Time-domain brain. *Frontiers in Computational Neuroscience*.
 1. Thura, D. & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 1. Stapp, H. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. *Behavioral and Brain Sciences*, 36(3), 181–204.
+1. Engel, A.K., Fries, P., & Singer, W. (2001). "Dynamic predictions: Oscillations and synchrony in top-down processing." *Nature Reviews Neuroscience*, 2(10), 704-716.
+1. Gallagher, S. (2011). Time in action. In C. Callender (Ed.), *The Oxford Handbook of Philosophy of Time* (pp. 419–437). Oxford University Press.
+1. Zheng, J., & Meister, M. (2024). "The unbearable slowness of being: Why do we live at 10 bits/s?" *Neuron*, 112(5), 679-692.

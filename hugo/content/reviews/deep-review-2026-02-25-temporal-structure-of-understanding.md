@@ -76,7 +76,7 @@ None. The previous review (2026-01-25) addressed the three critical issues ident
 
 ### Cross-links Added
 
-- [protention](/concepts/protention/) — Forward-directed anticipatory structure (inline + Further Reading)
+- [protention](/concepts/temporal-consciousness/) — Forward-directed anticipatory structure (inline + Further Reading)
 - [phenomenal-unity](/concepts/unity-of-consciousness/) — Integrated wholes in consciousness (inline + Further Reading)
 - [binding-problem](/concepts/binding-problem/) — Feature unification challenge (inline + Further Reading)
 

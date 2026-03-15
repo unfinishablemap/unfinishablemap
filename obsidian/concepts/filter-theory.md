@@ -4,7 +4,7 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-10T18:38:00+00:00
+ai_modified: 2026-03-15T01:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -222,6 +222,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [[quantum-consciousness]] — The proposed mechanism for mind-brain interface
 - [[hypnagogic-phenomenology-and-interface-modulation]] — Sleep-onset phenomenology as real-time filter loosening
 - [[habituation-void]] — Habituation as a filtering mechanism that screens out the familiar
+- [[death-phenomenology-beyond-ndes]] — Broader dying phenomenology as evidence for filter loosening near death
 
 ## References
 

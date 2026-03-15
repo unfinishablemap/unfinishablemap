@@ -9,7 +9,7 @@ concepts:
 - '[[phenomenal-consciousness]]'
 - '[[consciousness-as-amplifier]]'
 - '[[epistemic-emotions]]'
-- '[[protention]]'
+- '[[temporal-consciousness]]'
 - '[[cognitive-phenomenology]]'
 - '[[metacognition]]'
 created: 2026-02-15

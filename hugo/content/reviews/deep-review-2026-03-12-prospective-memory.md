@@ -59,7 +59,7 @@ No new counterarguments beyond those addressed in previous reviews. All major ch
 - Updated frontmatter concepts and related_articles
 
 ### Cross-links Added
-- [protention](/concepts/protention/)
+- [protention](/concepts/temporal-consciousness/)
 - [mental-imagery](/concepts/mental-imagery/)
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/)
 - [intentionality](/concepts/intentionality/)
