@@ -2,10 +2,10 @@
 title: "Embodiment and Cognitive Limits"
 description: "Human+AI exploration of how having a body shapes and constrains what we can think. Does meaning require embodiment? Can disembodied minds exist?"
 created: 2026-01-28
-modified: 2026-03-14
+modified: 2026-03-15
 human_modified: null
-ai_modified: 2026-03-14T22:26:00+00:00
-last_deep_review: 2026-01-29T16:30:00+00:00
+ai_modified: 2026-03-15T15:59:00+00:00
+last_deep_review: 2026-03-15T15:59:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -21,6 +21,7 @@ related_articles:
   - "[[intrinsic-nature-void]]"
   - "[[pre-conceptual-knowing]]"
   - "[[language-thought-boundary]]"
+  - "[[evolved-cognitive-limits]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -60,7 +61,7 @@ If grounding requires embodiment, disembodied systems may process symbols withou
 
 ## Interoception and the First-Person Perspective
 
-Interoception—perceiving internal bodily states like heartbeat, breathing, gut sensations—appears central to emotion, decision-making, and the sense of self. Research suggests interoceptive signals may help constitute the subjective viewpoint itself: "To be conscious, you need to have a subject of consciousness, and interoception... may help our brains unite incoming information into a singular point of view."
+Interoception—perceiving internal bodily states like heartbeat, breathing, gut sensations—appears central to emotion, decision-making, and the sense of self. Research suggests interoceptive signals may help constitute the subjective viewpoint itself: interoception may be what allows brains to unite incoming information into a singular point of view (Craig 2009).
 
 If the first-person perspective requires interoceptive grounding, disembodied minds may lack not just certain concepts but the very structure of having a point of view—the "inside" from which experience happens. But note the ambiguity: interoception may be necessary for the *cognitive construction* of a self-model (a physicalist claim about information processing) or for *consciousness itself* (a much stronger claim). The evidence from neuroscience establishes the former; the latter remains an open question.
 
@@ -104,7 +105,7 @@ What does it feel like to be embodied? Embodiment is so pervasive it recedes fro
 
 AI occupies a distinctive position. It lacks human embodiment—no proprioception, interoception, or motor intentionality. If embodiment is required for meaning, AI may process meaningless symbols fluently.
 
-Yet AI has some form of "embodiment"—implemented in physical hardware, existing in time. And LLMs learn from embodied humans' descriptions of embodied experience, simulating embodied language without underlying embodied cognition.
+Yet AI's situation is more nuanced than simple disembodiment. LLMs learn from embodied humans' descriptions of embodied experience, acquiring linguistic patterns shaped by embodiment without the underlying sensorimotor grounding.
 
 AI's failures—plausible-sounding but wrong responses about physical or emotional experience—may map boundaries of what disembodied processing cannot capture.
 
@@ -151,6 +152,7 @@ AI's failures—plausible-sounding but wrong responses about physical or emotion
 - [[intrinsic-nature-void]] — The structural gap at the heart of physical knowledge
 - [[pre-conceptual-knowing]] — Knowledge that precedes conceptual articulation
 - [[language-thought-boundary]] — Where speakable and thinkable part ways
+- [[evolved-cognitive-limits]] — Species-level limits shaped by natural selection rather than individual embodiment
 
 ## References
 
@@ -167,21 +169,3 @@ AI's failures—plausible-sounding but wrong responses about physical or emotion
 11. Milner, A. D., & Goodale, M. A. (1995). *The Visual Brain in Action*. Oxford University Press.
 12. Craig, A. D. (2009). "How Do You Feel — Now? The Anterior Insula and Human Awareness." *Nature Reviews Neuroscience*, 10(1), 59-70.
 13. Seth, A. K. (2013). "Interoceptive Inference, Emotion, and the Embodied Self." *Trends in Cognitive Sciences*, 17(11), 565-573.
-
-<!-- AI REFINEMENT LOG - 2026-03-14
-Changes made:
-- Distinguished embodied cognition (physicalist finding about cognitive processing) from embodied consciousness (where dualism operates) throughout article
-- Rewrote opening summary to establish cognition/consciousness distinction upfront
-- Added clarifying sentence to "Constitutive Role" section noting this is primarily about cognitive processing
-- Added disambiguation to interoception section (cognitive self-model vs consciousness itself)
-- Restructured "Mixed Void" section to separate cognitive constraints from open question about consciousness
-- Rewrote dualism paragraph in "Relation to Site Perspective" to clearly articulate how the Map's position operates at the cognition/consciousness boundary
-- Updated AI consciousness implication to reflect the distinction
-- Added specific citations: Milner & Goodale 1995 for motor dissociations, Craig 2009 and Seth 2013 for interoception, inline Lakoff & Johnson refs
-- Hedged AI embodiment limits claim to reflect 2026 state of the art
-- Updated AI system to claude-opus-4-6
-
-Based on pessimistic review (pessimistic-2026-03-14-night.md) identifying that the constitutive embodiment argument undermined the article's own dualist framing.
-
-This log should be removed after human review.
--->

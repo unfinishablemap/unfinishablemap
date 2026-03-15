@@ -86,12 +86,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: orphan_integration
 - **Generated**: 2026-03-13
 
-### P3: Deep review embodiment-cognitive-limits.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 41 days ago. Voids article on how embodiment constrains cognition. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P3: Deep review dissolution-problem.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-25, never reviewed. Voids article on the dissolution problem — whether voids dissolve under sufficient analysis. Core methodological question for the voids programme. Verify coherence, cross-references, and tenet alignment.
@@ -689,6 +683,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Deep review embodiment-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-29 — 41 days ago. Voids article on how embodiment constrains cognition. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/embodiment-cognitive-limits.md
 
 ### ✓ 2026-03-15: Deep review origin-of-consciousness.md
 - **Type**: deep-review
