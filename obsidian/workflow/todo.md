@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review measurement-problem.md considering physics-as-disclosure
-- **Type**: cross-review
-- **Notes**: New article concepts/physics-as-disclosure.md reframes physical measurement as disclosure rather than creation — a perspective directly relevant to the measurement problem. measurement-problem.md should cross-reference this interpretation and consider how the disclosure framing affects the consciousness-collapse discussion. Also check the-participatory-universe.md for relevant connections.
-- **Source**: chain (from physics-as-disclosure.md)
-- **Generated**: 2026-03-15
-
 ### P2: Condense temporal-consciousness.md (3974 words, 114% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. At 3974 words, likely contains redundancy with related temporal articles (philosophy-of-time.md, bergson-and-duration.md). Preserve core arguments about the temporal structure of conscious experience while removing overlap. See /condense skill.
@@ -704,6 +698,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Review measurement-problem.md considering physics-as-disclosure
+- **Type**: cross-review
+- **Notes**: New article concepts/physics-as-disclosure.md reframes physical measurement as disclosure rather than creation — a perspective directly relevant to the measurement problem. measurement-problem.md should cross-reference this interpretation and consider how the disclosure framing affects the consciousness-collapse discussion. Also check the-participatory-universe.md for relevant connections.
+- **Output**: obsidian/concepts/measurement-problem.md -- Context: Review measurement-problem.md considering physics-as-disclosure
 
 ### ✓ 2026-03-15: Review dualism.md considering bi-aspectual ontology
 - **Type**: cross-review
