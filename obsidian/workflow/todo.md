@@ -67,12 +67,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The hypothesis that the consciousness-brain interface requires extended neural development and cannot be shortcut. Referenced in BCI, contemplative pathology, and comparative cognition articles. Would unify several independent lines of evidence. See optimistic-2026-03-15.md
 - **Generated**: 2026-03-15
 
-### P2: Address circular comprehension criteria in mathematical-void.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the three criteria for "genuine comprehension" (phenomenological presence, representational capacity, surveyability) presuppose dualism, making the argument circular. The functionalist objection is dismissed in one sentence. Engage with functionalist accounts of understanding more seriously. Also: Reed & Reed 2025 citation is from a student journal—find corroborating evidence or qualify the claim. See pessimistic-2026-03-15-afternoon.md
-- **Generated**: 2026-03-15
-
 ### P3: Write article on mathematical necessity and normative demand
 - **Type**: expand-topic
 - **Status**: pending
@@ -707,6 +701,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Address circular comprehension criteria in mathematical-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the three criteria for "genuine comprehension" (phenomenological presence, representational capacity, surveyability) presuppose dualism, making the argument circular. The functionalist objection is dismissed in one sentence. Engage with functionalist accounts of understanding more seriously. Also: Reed & Reed 2025 citation is from a student journal—find corroborating evidence or qualify the claim. See pessimistic-2026-03-15-afternoon.md
+- **Output**: obsidian/voids/mathematical-void.md
+
+Task context:
+Pessimistic review found the three criteria for "genuine comprehension" (phenomenological presence, representational capacity, surveyability) presuppose dualism, making the argument circular. The functionalist objection is dismissed in one sentence. Engage with functionalist accounts of understanding more seriously. Also: Reed & Reed 2025 citation is from a student journal—find corroborating evidence or qualify the claim. See pessimistic-2026-03-15-afternoon.md
 
 ### ✓ 2026-03-15: Deep review dream-consciousness-void.md
 - **Type**: deep-review
