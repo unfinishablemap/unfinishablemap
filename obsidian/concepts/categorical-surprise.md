@@ -14,7 +14,7 @@ concepts:
   - "[[phenomenal-consciousness]]"
   - "[[consciousness-as-amplifier]]"
   - "[[epistemic-emotions]]"
-  - "[[protention]]"
+  - "[[temporal-consciousness]]"
   - "[[cognitive-phenomenology]]"
   - "[[metacognition]]"
 related_articles:

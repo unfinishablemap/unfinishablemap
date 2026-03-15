@@ -60,7 +60,7 @@ The standard empiricist picture of perception has difficulty with absence-percep
 
 **The counterfactual account.** Absence-perception involves implicit counterfactual reasoning: "the picture *would be* here if it hadn't been removed." On this view, you perceive the wall as it is and simultaneously represent how it should be. The experience of absence is the felt discrepancy between actual and expected. This account is plausible for reflective absences but struggles with the immediacy of perceptual absence. When you scan the café for Pierre, you do not seem to be running counterfactuals — you seem to *see* his absence directly.
 
-**The expectation-violation account.** The brain maintains predictive models and absence is experienced when prediction and input diverge. Predictive processing frameworks support this: the brain is constantly generating expectations, and prediction errors signal mismatches. Absence-perception is a specific kind of prediction error — one where the predicted input fails to arrive. The [[phenomenology-of-anticipation|phenomenology of anticipation]] explores the experiential side of this: [[protention]] — Husserl's forward-directed structure of present experience — creates the expectational field against which absence registers.
+**The expectation-violation account.** The brain maintains predictive models and absence is experienced when prediction and input diverge. Predictive processing frameworks support this: the brain is constantly generating expectations, and prediction errors signal mismatches. Absence-perception is a specific kind of prediction error — one where the predicted input fails to arrive. The [[phenomenology-of-anticipation|phenomenology of anticipation]] explores the experiential side of this: [[temporal-consciousness|protention]] — Husserl's forward-directed structure of present experience — creates the expectational field against which absence registers.
 
 This account has empirical support. The mismatch negativity (MMN) in auditory processing occurs when an expected sound fails to appear, even without conscious attention (Näätänen et al., 2007). The brain registers the absence before consciousness does. But the account leaves open why prediction errors for absent stimuli feel *like that* — why the missing clock-tick has the phenomenal character of silence-where-sound-should-be rather than simply triggering an alert.
 
@@ -80,7 +80,7 @@ A functionalist might reply that a predictive processing system *does* represent
 
 Attention to absence reveals structural features of consciousness that purely presence-directed attention does not.
 
-**Consciousness is constitutively temporal.** Absence-perception depends on retention (what was there before) and [[protention]] (what is expected). The missing clock-tick requires a retained auditory pattern and a protended continuation. This Husserlian [[temporal-consciousness|time-consciousness]] is not an optional addition to perception but a condition of experiencing absence at all. A purely momentary consciousness — if such were possible — could not experience absence.
+**Consciousness is constitutively temporal.** Absence-perception depends on retention (what was there before) and [[temporal-consciousness|protention]] (what is expected). The missing clock-tick requires a retained auditory pattern and a protended continuation. This Husserlian [[temporal-consciousness|time-consciousness]] is not an optional addition to perception but a condition of experiencing absence at all. A purely momentary consciousness — if such were possible — could not experience absence.
 
 **Consciousness is norm-governed.** To experience absence is to experience something as *wrong* or *missing* relative to a normative structure. The gap in the bookshelf is not merely different from the expected state; it violates the expected state. This normative dimension — things should be a certain way and aren't — is intrinsic to the phenomenology of absence. It suggests that consciousness is not a passive mirror of inputs but an evaluative engagement with the world.
 
@@ -103,7 +103,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is implicated becau
 - [[thoughts-that-slip-away]] — The phenomenology of cognitive absence
 - [[structure-of-attention]] — The architecture of attentional control
 - [[intentionality]] — The directedness of consciousness toward objects
-- [[protention]] — Husserl's forward-directed structure of present experience
+- [[temporal-consciousness]] — The specious present, retention, and protention
 - [[consciousness-and-the-phenomenology-of-place]] — How places are partly constituted by what is missing from them
 - [[phenomenology-of-the-edge]] — What consciousness encounters at its limits
 

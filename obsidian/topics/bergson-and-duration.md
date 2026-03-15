@@ -16,7 +16,6 @@ concepts:
   - "[[agent-causation]]"
   - "[[phenomenology-of-choice]]"
   - "[[philosophy-of-time]]"
-  - "[[temporal-thickness]]"
   - "[[consciousness-and-creativity]]"
   - "[[prehension]]"
   - "[[contemplative-epistemology]]"
@@ -78,7 +77,7 @@ In *Matter and Memory*, Bergson developed a striking ontology of the past. The p
 
 This "cone of memory" model has implications for the Map's framework. If the past persists virtually rather than being reconstructed from neural traces, then memory is not a computational process but an ontological relation between present consciousness and its own history. The brain serves as a filter—selecting, constraining, and channelling what the past offers—rather than generating experience from neural activity alone. This aligns with [[filter-theory|filter theory]]: the brain as constraining rather than producing consciousness.
 
-Bergson's model also illuminates [[temporal-thickness]]—the degree to which experience at a given moment is pervaded by its temporal context. Deep absorption draws on the full depth of duration; distracted attention skims the surface. The qualitative richness of experience reflects how much of one's accumulated past enters the present moment.
+Bergson's model also illuminates [[temporal-consciousness|temporal thickness]]—the degree to which experience at a given moment is pervaded by its temporal context. Deep absorption draws on the full depth of duration; distracted attention skims the surface. The qualitative richness of experience reflects how much of one's accumulated past enters the present moment.
 
 ## Creative Evolution and the Élan Vital
 
@@ -134,7 +133,6 @@ Bergson's philosophy aligns with the Map's framework at multiple points while di
 - [[topics/free-will]] — The Map's defence of agent-causal libertarian free will
 - [[agent-causation]] — The self as originator of action in durée
 - [[phenomenology-of-choice]] — The lived experience of deliberation and decision
-- [[temporal-thickness]] — How much of one's past enters each present moment
 - [[temporal-ontology-and-consciousness]] — How temporal ontology and consciousness theories form natural pairings
 - [[consciousness-and-creativity]] — Duration's creative novelty and the generation-selection model
 - [[prehension]] — Whitehead's concept of experiential inheritance

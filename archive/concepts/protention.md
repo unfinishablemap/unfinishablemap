@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-02-27T22:45:00+00:00
 last_deep_review: 2026-02-20T06:06:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-15T00:13:00+00:00
+superseded_by: "/concepts/temporal-consciousness/"
+archive_reason: "Coalesced into Temporal Consciousness"
+original_path: "/concepts/protention/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[phenomenology-of-anticipation]]"

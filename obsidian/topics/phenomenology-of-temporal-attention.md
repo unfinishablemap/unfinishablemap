@@ -11,7 +11,6 @@ topics:
   - "[[attention-consciousness-dissociation]]"
 concepts:
   - "[[temporal-consciousness]]"
-  - "[[temporal-thickness]]"
   - "[[attention-as-interface]]"
   - "[[mental-effort]]"
 related_articles:
@@ -37,7 +36,7 @@ Attention does not merely select *what* we experience—it shapes *when* and *ho
 
 Standard accounts of attention treat it as a spatial or object-based filter: attention selects *which* information reaches consciousness. But attention also operates along the temporal axis. Consider three familiar cases:
 
-**Concentrated focus** compresses experienced duration. An hour of absorbed problem-solving passes "in minutes." The [[temporal-thickness|temporal thickness]]—the sense of richness or density within a given moment—increases, packing more content per unit of experienced time while the overall span of experienced time shrinks. Musicians describe this during improvisation: individual notes feel expanded, rich with detail, while the passage collapses.
+**Concentrated focus** compresses experienced duration. An hour of absorbed problem-solving passes "in minutes." The [[temporal-consciousness|temporal thickness]]—the sense of richness or density within a given moment—increases, packing more content per unit of experienced time while the overall span of experienced time shrinks. Musicians describe this during improvisation: individual notes feel expanded, rich with detail, while the passage collapses.
 
 **Anxious waiting** stretches duration. Ten minutes in a dentist's chair feels interminable. Here attention monitors time itself, and each moment thins out—less content, more bare awareness of passage. The present empties precisely because attention fills it with expectation rather than engagement.
 
@@ -108,7 +107,7 @@ The phenomenology of temporal attention aligns with several of the Map's [[tenet
 ## Further Reading
 
 - [[temporal-structure-of-consciousness]]
-- [[temporal-thickness]]
+- [[temporal-consciousness]]
 - [[phenomenology-of-returning-attention]]
 - [[attention-as-selection-interface]]
 - [[time-collapse-and-agency]]

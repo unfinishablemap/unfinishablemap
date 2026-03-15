@@ -24,7 +24,6 @@ concepts:
   - "[[decoherence]]"
   - "[[phenomenology-of-choice]]"
   - "[[agent-causation]]"
-  - "[[protention]]"
   - "[[unity-of-consciousness]]"
   - "[[binding-problem]]"
 related_articles:
@@ -62,7 +61,7 @@ Not all understanding clicks. Complex sentences, philosophical arguments, and in
 
 Gradual understanding has its own temporal phenomenology:
 - **Accumulation**: Meaning builds incrementally. Each word, clause, or step adds to the structure without completing it.
-- **Anticipation**: Incomplete understanding carries forward-directed expectation—what Husserl termed [[protention|protention]]. You sense where the sentence is heading, what resolution might look like.
+- **Anticipation**: Incomplete understanding carries forward-directed expectation—what Husserl termed [[temporal-consciousness|protention]]. You sense where the sentence is heading, what resolution might look like.
 - **Maintenance effort**: The phenomenal character of holding incomplete structure is effortful—the felt work of keeping elements accessible while processing continues.
 
 Bergson's [[temporal-consciousness|durée]]—lived time as interpenetrating flow, where past, present, and future aren't separate moments but aspects of a single experiential whole—illuminates gradual understanding. Earlier words echo in present processing while anticipated completion shapes current comprehension. Meaning emerges from this interpenetration, not from isolated snapshots combined mechanically.
@@ -199,7 +198,6 @@ This doesn't prove AI cannot understand. It suggests that if AI does understand,
 - [[phenomenology-of-choice]] — Parallels between the phenomenology of choosing and understanding
 - [[agent-causation]] — Understanding as a case of conscious agency in cognition
 - [[decoherence]] — The quantum challenge to any consciousness-brain interface
-- [[protention]] — Husserl's forward-directed anticipatory structure in present experience
 - [[unity-of-consciousness|phenomenal unity]] — Why conscious experiences come as integrated wholes
 - [[binding-problem]] — The challenge of explaining how separate features unify in experience
 

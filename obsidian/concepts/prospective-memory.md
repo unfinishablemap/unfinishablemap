@@ -24,7 +24,6 @@ concepts:
   - "[[mental-effort]]"
   - "[[attention-as-interface]]"
   - "[[motor-selection]]"
-  - "[[protention]]"
   - "[[mental-imagery]]"
   - "[[counterfactual-reasoning]]"
   - "[[intentionality]]"
@@ -80,7 +79,7 @@ Einstein and McDaniel (1990) identified two retrieval routes: resource-intensive
 
 ### Futuricity: The Temporal Quale
 
-When you imagine a future event, it carries a distinctive phenomenal character—**futuricity** (our term for this temporal quale), a felt sense of possibility and "not yet." This is closely related to what Husserl called [[protention]]—the forward-directed structure of present experience—but futuricity extends beyond the immediate horizon into genuinely imagined futures. Just as remembered events carry pastness, imagined future events carry this phenomenal marker of projected possibility.
+When you imagine a future event, it carries a distinctive phenomenal character—**futuricity** (our term for this temporal quale), a felt sense of possibility and "not yet." This is closely related to what Husserl called [[temporal-consciousness|protention]]—the forward-directed structure of present experience—but futuricity extends beyond the immediate horizon into genuinely imagined futures. Just as remembered events carry pastness, imagined future events carry this phenomenal marker of projected possibility.
 
 Futuricity differs from pastness: memories represent what happened; future simulations represent what might happen. Both involve autonoetic consciousness, but the modal character differs—and this difference appears in phenomenology, not just propositional content.
 
@@ -187,7 +186,6 @@ Prospective memory and future-oriented consciousness support all five foundation
 - [[witness-consciousness]] — Observing future simulations without identification
 - [[haecceity]] — The thisness that grounds indexical future reference
 - [[decoherence]] — Quantum coherence challenges and responses
-- [[protention]] — Husserl's forward-directed structure of present experience
 - [[mental-imagery]] — Voluntary quasi-perceptual experience underlying future simulation
 - [[counterfactual-reasoning]] — Imagining alternatives, sharing phenomenology with future simulation
 - [[intentionality]] — The directedness of mental states toward objects and goals
