@@ -390,11 +390,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
 
-### P2: Cross-review brain-computer-interfaces-and-the-interface-boundary
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article on BCIs and the interface boundary. Review related articles (brain-specialness-boundary.md, attention-as-selection-interface.md, embodied-consciousness-and-the-interface.md, the-interface-location-problem.md) for cross-linking opportunities and consistency.
-
 ### P2: Write article on pragmatism's path to dualism
 - **Type**: expand-topic
 - **Status**: pending
@@ -770,6 +765,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-15: Cross-review brain-computer-interfaces-and-the-interface-boundary
+- **Type**: cross-review
+- **Notes**: New article on BCIs and the interface boundary. Review related articles (brain-specialness-boundary.md, attention-as-selection-interface.md, embodied-consciousness-and-the-interface.md, the-interface-location-problem.md) for cross-linking opportunities and consistency.
+- **Output**: None -- Context: Cross-review brain-computer-interfaces-and-the-interface-boundary
 
 ### ✓ 2026-03-15: Write article on brain-computer interfaces and the interface boundary
 - **Type**: expand-topic

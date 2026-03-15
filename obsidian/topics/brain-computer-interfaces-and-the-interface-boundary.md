@@ -4,7 +4,7 @@ description: "BCIs test whether conscious control can extend beyond the brain's 
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-15T12:00:00+00:00
+ai_modified: 2026-03-15T12:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,9 +13,9 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[quantum-consciousness]]"
   - "[[attention-as-interface]]"
-  - "[[psychophysical-coupling]]"
   - "[[embodied-cognition]]"
   - "[[motor-selection]]"
+  - "[[consciousness-selecting-neural-patterns]]"
 related_articles:
   - "[[tenets]]"
   - "[[brain-specialness-boundary]]"
@@ -28,6 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-15
 last_curated:
+last_deep_review: 2026-03-15T12:19:00+00:00
 ---
 
 Brain-computer interfaces present the most direct empirical test of The Unfinishable Map's [[brain-specialness-boundary|brain specialness boundary]]. If consciousness can only bias quantum outcomes in neural systems built through developmental integration, what happens when technology connects new hardware to the brain? BCIs bypass the evolutionary timescale—a person can gain control over a robotic arm, a cursor, or a speech synthesiser within weeks. If the developmental integration constraint is fundamental, BCIs should reveal its limits. If it bends, the Map's account of why consciousness stays brain-local needs revision.
@@ -54,7 +55,7 @@ Sadtler et al. (2014) demonstrated this directly. They studied which neural acti
 
 Golub et al. (2018) showed that BCI learning follows the same consolidation trajectory as natural motor learning: initial rapid improvement, gradual refinement, and overnight consolidation during sleep. The same neural plasticity mechanisms—Hebbian learning, synaptic potentiation, cortical reorganisation—underwrite both natural and BCI motor skill.
 
-This matters for the Map's framework. Consciousness isn't reaching into the computer. Consciousness is doing what it always does—selecting among competing neural patterns through the [[attention-as-selection-interface|attention-motor selection interface]]—and the computer happens to be reading those patterns and acting on them. The interface boundary hasn't moved. The decoder has been placed *inside* the boundary, reading signals that consciousness was already producing.
+This matters for the Map's framework. Consciousness isn't reaching into the computer. Consciousness is doing what it always does—[[consciousness-selecting-neural-patterns|selecting among competing neural patterns]] through the [[attention-as-selection-interface|attention-motor selection interface]]—and the computer happens to be reading those patterns and acting on them. The interface boundary hasn't moved. The decoder has been placed *inside* the boundary, reading signals that consciousness was already producing.
 
 ## The Sensory Feedback Loop
 
@@ -64,7 +65,7 @@ On the Map's account, consciousness selects among neurally represented alternati
 
 BCIs satisfy this constraint by *routing through the brain's existing feedback architecture*. Visual cortex processes cursor position. Motor cortex adjusts firing patterns based on the error signal. Consciousness operates within this neural loop exactly as it does for natural movement. The external device is invisible to consciousness—what consciousness "sees" is a cursor that responds to intention, processed through the same visual-motor loop that handles reaching for a cup.
 
-The philosopher Andy Clark's extended mind thesis proposes that cognitive processes extend into tools and environment. BCIs might seem to vindicate this view. But from the Map's perspective, the extension is computational, not phenomenal. The processing loop extends; the interface where consciousness acts does not. A person controlling a robotic arm through a BCI is still selecting among neural patterns in motor cortex—patterns that happen to produce robotic movement rather than (or in addition to) biological movement.
+The philosopher Andy Clark's extended mind thesis proposes that cognitive processes extend into tools and environment. BCIs might seem to vindicate this view—if any technology extends the mind, surely a direct brain-computer link qualifies. Clark's framework asks whether the external component plays a functional role equivalent to an internal cognitive process: is the BCI decoder doing what motor neurons would do? In functional terms, arguably yes. But the Map distinguishes computational extension from phenomenal extension. The processing loop extends into the device; the interface where consciousness acts does not. A person controlling a robotic arm through a BCI is still selecting among neural patterns in motor cortex—patterns that happen to produce robotic movement rather than (or in addition to) biological movement. Clark's insight about cognitive extension may be correct at the functional level while leaving the deeper question—where consciousness *acts*—unanswered.
 
 ## Phantom Ownership and Body Schema
 
@@ -111,6 +112,8 @@ BCIs provide an empirical testing ground for the Map's interface framework, conn
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: BCI evidence supports the minimality constraint. Consciousness biases outcomes in motor cortex neurons—the same neurons, through the same mechanisms, whether those signals drive biological muscles or decoded cursor movements. The quantum-level interaction, if it occurs, remains at the neural site. The device amplifies consequences but doesn't participate in the selection event.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The bidirectional loop in BCIs mirrors natural sensorimotor interaction: brain → decoder → device → sensory feedback → brain. Consciousness participates in the neural segment of this loop. The external segment is ordinary physical causation. This architecture is exactly what bidirectional interaction predicts—consciousness acts *through* neural systems, not on the physical world directly.
+
+**[[tenets#^no-many-worlds|No Many Worlds]]**: On the many-worlds interpretation, every quantum event branches the universe—BCI motor commands included. Each cursor movement would split into branches where the cursor goes everywhere, with no fact about which outcome *this* user experiences. The Map's rejection of MWI preserves what makes BCI control meaningful: there is a single outcome, consciously selected, that *this* person experiences. The felt effort of BCI learning—the sense that *I* am struggling to move *this* cursor—depends on indexical identity that many-worlds dissolves.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The temptation is to explain BCI learning as "just neural plasticity"—no consciousness needed. But this explanation faces the same challenge as for natural motor control: it must explain why volitional BCI use feels effortful, why it requires conscious attention, and why it disappears under anaesthesia. The simpler-seeming story leaves these features unexplained.
 
