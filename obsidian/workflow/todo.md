@@ -545,6 +545,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic_review
 - **Generated**: 2026-03-16
 
+### P3: Write article on ritual structure in mental causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Placebo response, contemplative practice, and therapeutic ritual share a common structure: repeated intentional actions with symbolic significance producing measurable physiological change. Unifies currently separate threads in placebo-effect-and-mental-causation, contemplative-epistemology, and contemplative-pathology-and-interface-malfunction. See optimistic-2026-03-16-morning.md
+- **Source**: optimistic_review
+- **Generated**: 2026-03-16
+
+### P3: Write article on consciousness and the authority of mathematical proof
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Mathematical proof requires grasping *why* a proof works, not merely checking steps. Engages the Lucas-Penrose argument with Putnam's and Feferman's objections. Builds on consciousness-and-the-authority-of-formal-systems, argument-from-reason. See optimistic-2026-03-16-morning.md
+- **Source**: optimistic_review
+- **Generated**: 2026-03-16
+
+### P3: Write concept page for non-propositional mental causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Open-label placebos, motor intention, and emotional regulation all suggest consciousness acts through something other than propositional attitudes. Currently referenced but never defined as a concept. See optimistic-2026-03-16-morning.md
+- **Source**: optimistic_review
+- **Generated**: 2026-03-16
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
