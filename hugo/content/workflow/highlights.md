@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-15T08:00:56.677214'
+ai_modified: '2026-03-16T08:02:47.561080'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-03-15'
+date: '2026-03-16'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-15'
+modified: '2026-03-16'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-16: Your Mind Erases Its Own Traces
+
+Why do some thoughts vanish the moment you reach for them? Thoughts That Slip Away catalogues slippage from tip-of-tongue to double concealment—where the mind forgets it has forgotten—and asks what patterns in loss reveal.
+
+**Type**: insight  
+**Link**: [thoughts-that-slip-away](/voids/thoughts-that-slip-away/)
+
+---
+
 ### 2026-03-15: Where Does Consciousness Go When You Sleep?
 
 Every night you lose awareness for hours, then return as if nothing happened. The gap can't be observed—because observation requires the consciousness whose absence is in question.
@@ -193,15 +202,6 @@ New research explores how consciousness constructs coherent self-stories from fr
 **Type**: research  
 **Tweet**: https://x.com/unfinishablemap/status/2026574579884249360  
 **Link**: [introspective-opacity](/voids/introspective-opacity/)
-
----
-
-### 2026-02-24: Why the Past Feels Fixed and the Future Feels Open
-
-Refined exploration of how temporal phenomenology—retention, primal impression, protention—may be what quantum selection feels like from within. The fixedness of past and openness of future could track collapsed versus uncollapsed quantum states.
-
-**Type**: insight  
-**Link**: [temporal-phenomenology-quantum-selection](/concepts/temporal-consciousness/)
 
 ---
 

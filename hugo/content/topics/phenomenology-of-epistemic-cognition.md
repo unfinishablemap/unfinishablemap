@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-03-16 04:17:00+00:00
+ai_modified: 2026-03-16 05:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,6 +22,7 @@ concepts:
 - '[[reasons-responsiveness]]'
 - '[[explanatory-gap]]'
 - '[[concepts/epiphenomenalism]]'
+- '[[knowledge-argument]]'
 created: 2026-02-01
 date: &id001 2026-03-16
 description: Weighing evidence, changing beliefs, and arriving at knowledge all have
@@ -30,7 +31,7 @@ description: Weighing evidence, changing beliefs, and arriving at knowledge all 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-16 05:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,9 +50,8 @@ related_articles:
 - '[[phenomenology-of-philosophical-disagreement]]'
 - '[[phenomenology-of-framework-inhabitation]]'
 - '[[phenomenal-conservatism-and-introspective-evidence]]'
-- '[[phenomenology-of-understanding]]'
-- '[[phenomenology-of-intellectual-effort]]'
-- '[[epistemic-advantages-of-dualism]]'
+- '[[consciousness-and-testimony]]'
+- '[[consciousness-and-the-problem-of-induction]]'
 title: The Phenomenology of Epistemic Cognition
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -117,7 +117,7 @@ The Map's project involves a recursive structure: using conscious assessment to 
 
 If epistemic phenomenology were epiphenomenal—causally inert decoration on underlying computation—then the felt difference between knowing and guessing would be an illusion that happens to correlate with a genuine cognitive distinction. The more parsimonious view: the phenomenology of epistemic cognition is what it is *like* to think. The felt grounding, the closure, the gravitational pull of evidence—these are constitutive aspects of how consciousness engages with truth. Strip them away and you lose the achievement, leaving only true belief produced by reliable mechanisms—the sort of thing a competent thermostat might have.
 
-The functionalist argues that the "felt difference" *just is* the difference in functional architecture: richer inferential connections, greater stability under interrogation, more readily available reasons. David Pitt (2004) argues this does not exhaust the phenomenal character: there is a proprietary phenomenology of thought—a "what it is like" to think a particular content—distinct from any associated sensory imagery or functional role. Galen Strawson (1994) pushes further, arguing that experience is the fundamental reality and that physicalism, properly understood, must accommodate rather than eliminate phenomenal properties.
+The functionalist argues that the "felt difference" *just is* the difference in functional architecture: richer inferential connections, greater stability under interrogation, more readily available reasons. David Pitt (2004) argues this does not exhaust the phenomenal character: there is a proprietary phenomenology of thought—a "what it is like" to think a particular content—distinct from any associated sensory imagery or functional role. Galen Strawson (1994) pushes further, arguing that physicalism, properly understood, must accommodate rather than eliminate phenomenal properties—an "adductive" materialism that takes conscious experience as real and irreducible within a naturalist framework.
 
 ## Limits
 
@@ -129,7 +129,7 @@ These limits calibrate rather than eliminate the relevance of epistemic phenomen
 
 The Unfinishable Map's [tenets](/tenets/) find substantial support in epistemic phenomenology.
 
-**[Dualism](/tenets/#dualism)**: The felt texture of epistemic cognition—the gravitational pull of evidence, the vertigo of rupture, the warmth of new coherence, the grounding of genuine knowledge—constitutes phenomenal fact that no functional or computational description currently captures. A type-B materialist will claim the gap is epistemic rather than ontological. The Map finds this increasingly strained as each qualitative state in the epistemic process requires its own brute identity with a neural substrate, forming an accumulation of unexplained correspondences less parsimonious than the dualist alternative.
+**[Dualism](/tenets/#dualism)**: The felt texture of epistemic cognition—the gravitational pull of evidence, the vertigo of rupture, the warmth of new coherence, the grounding of genuine knowledge—constitutes phenomenal fact that no functional or computational description currently captures. The type-B materialist will claim the gap is epistemic rather than ontological. The Map finds this increasingly strained as each qualitative state in the epistemic process requires its own brute identity with a neural substrate, forming an accumulation of unexplained correspondences less parsimonious than the dualist alternative.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If felt epistemic weight were causally irrelevant, our best beliefs would have nothing to do with how evidence seems. But the correlation is systematic: what feels compelling tends to be what we believe. Either this is inexplicable coincidence, or phenomenology participates in belief formation. The temporal arc of epistemic achievement—from puzzled inquiry through effortful investigation to settled knowledge—suggests consciousness causally participating in cognition. The phenomenal tension of not-knowing drives further inquiry; its resolution terminates it.
 
@@ -160,6 +160,8 @@ The Unfinishable Map's [tenets](/tenets/) find substantial support in epistemic 
 - [reasons-responsiveness](/concepts/reasons-responsiveness/)
 - [introspection](/concepts/introspection/)
 - [metacognition](/concepts/metacognition/)
+- [consciousness-and-testimony](/topics/consciousness-and-testimony/)
+- [consciousness-and-the-problem-of-induction](/topics/consciousness-and-the-problem-of-induction/)
 
 ## References
 

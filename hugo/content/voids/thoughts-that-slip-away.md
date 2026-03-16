@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-13
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-16 07:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,10 +13,13 @@ concepts:
 - '[[attention-as-interface]]'
 created: 2026-01-13
 date: &id001 2026-01-20
+description: Why some thoughts vanish as you reach for them—cataloguing slippage mechanisms
+  from tip-of-tongue to double concealment, and asking whether patterns in what slips
+  reveal occluded territory.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-02 12:18:00+00:00
+last_deep_review: 2026-03-16 07:17:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -68,7 +71,7 @@ But the [voids](/voids/) framework asks: do these mechanisms exhaust the phenome
 
 Recent research on attention reveals a possibility beyond passive forgetting: attention may *create* slippage through its own operation. The attentional spotlight doesn't merely illuminate—it actively suppresses its penumbra, the surrounding zone. William James observed that consciousness has "fringes" that cannot become focal without ceasing to be fringes. Gurwitsch's field theory distinguishes theme, thematic field, and margin—with marginal contents following different organizational principles that prevent their becoming thematic.
 
-The implication: some thoughts may slip not because they escape our grasp but because our grasp *produces* their slippage. Attending to one aspect of an insight necessarily pushes other aspects into the suppressed surround. The thought that slips away may be the thought that attention, in its act of capturing something, had to release. This transforms slippage from failure of retention into structural necessity—attention's figure-ground architecture requires that something be ground, and ground-thoughts vanish when we try to make them figural.
+This is the core mechanism behind [attention-created-voids](/voids/attention-created-voids/)—attending generates unattendable territory. Some thoughts may slip not because they escape our grasp but because our grasp *produces* their slippage. Attending to one aspect of an insight necessarily pushes other aspects into the suppressed surround. The thought that slips away may be the thought that attention, in its act of capturing something, had to release. This transforms slippage from failure of retention into structural necessity—attention's figure-ground architecture requires that something be ground, and ground-thoughts vanish when we try to make them figural.
 
 Several patterns suggest investigation:
 
@@ -141,6 +144,9 @@ The evidence for content-specific slippage remains suggestive rather than conclu
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits
 - [Illusionism](/concepts/illusionism/) — The radical challenge that slippage is misrepresentation
 - [The Dream Consciousness Void](/voids/dream-consciousness-void/) — The bidirectional void between waking and dreaming where slippage is systematic
+- [The Memory Void](/voids/memory-void/) — Whether past experiences are recoverable or lost forever
+- [Attention-Created Voids](/voids/attention-created-voids/) — How attending generates unattendable territory
+- [The Absorption Void](/voids/absorption-void/) — Peak experiences that resist introspective access
 
 ## References
 
@@ -149,8 +155,6 @@ The evidence for content-specific slippage remains suggestive rather than conclu
 3. NIH News Releases. (2019). "The Brain May Actively Forget During Dream Sleep."
 4. James, W. (1902). *The Varieties of Religious Experience*. Lecture XVI-XVII on mystical states.
 5. Brown, R. & McNeill, D. (1966). "The 'Tip of the Tongue' Phenomenon." *Journal of Verbal Learning and Verbal Behavior*.
-6. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
-7. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-8. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
-9. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-10. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
+6. Gurwitsch, A. (1964). *The Field of Consciousness*. Duquesne University Press.
+7. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
+8. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
