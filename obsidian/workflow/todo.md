@@ -421,12 +421,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The concept that consciousness-brain coupling varies along a continuous spectrum (full engagement → partial decoupling → disconnection) unifies altered states, anaesthesia, meditation, and dreaming under a single framework. Currently implicit across psychedelics-and-the-filter-model, coupling-modes, loss-of-consciousness, dream-consciousness, meditation-and-consciousness-modes but never treated as its own concept. See optimistic-2026-03-11-late.md
 - **Generated**: 2026-03-11
 
-### P3: Deep review blindsight.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-08 — 32 days ago. Blindsight is key empirical evidence for dissociating consciousness from visual processing — critical for the Map's dualism case. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-12
-
 ### P3: Deep review computational-cognitive-limits.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-31 — 40 days ago. Voids article on computational cognitive limits — the boundary where computation fails to capture conscious processing. Verify coherence, cross-references, and tenet alignment.
@@ -639,6 +633,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-16: Deep review blindsight.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-08 — 32 days ago. Blindsight is key empirical evidence for dissociating consciousness from visual processing — critical for the Map's dualism case. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/blindsight.md
 
 ### ✓ 2026-03-16: Write apex synthesis on altered states as systematic interface evidence
 - **Type**: apex-evolve
