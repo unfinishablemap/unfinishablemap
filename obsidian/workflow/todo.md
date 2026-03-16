@@ -421,12 +421,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The concept that consciousness-brain coupling varies along a continuous spectrum (full engagement → partial decoupling → disconnection) unifies altered states, anaesthesia, meditation, and dreaming under a single framework. Currently implicit across psychedelics-and-the-filter-model, coupling-modes, loss-of-consciousness, dream-consciousness, meditation-and-consciousness-modes but never treated as its own concept. See optimistic-2026-03-11-late.md
 - **Generated**: 2026-03-11
 
-### P3: Deep review time-symmetric-physics.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 35 days ago. Concept page on time-symmetric physics relevant to Tenet 2 (Minimal Quantum Interaction) and the Map's treatment of temporal consciousness. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-12
-
 ### P3: Write convergence meta-argument as central thesis (apex candidate)
 - **Type**: expand-topic
 - **Status**: pending
@@ -615,6 +609,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-16: Deep review time-symmetric-physics.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 35 days ago. Concept page on time-symmetric physics relevant to Tenet 2 (Minimal Quantum Interaction) and the Map's treatment of temporal consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/time-symmetric-physics.md
 
 ### ✓ 2026-03-16: Deep review psychophysical-laws-bridging-mind-and-matter.md
 - **Type**: deep-review

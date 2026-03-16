@@ -4,7 +4,7 @@ description: "Fundamental physics equations work equally well forward and backwa
 created: 2026-02-01
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-03-14T21:56:00+00:00
+ai_modified: 2026-03-16T04:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,12 +21,14 @@ related_articles:
   - "[[tenets]]"
   - "[[time-symmetric-selection-mechanism]]"
   - "[[time-collapse-and-agency]]"
+  - "[[growing-block-universe-and-consciousness]]"
+  - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-03-14T21:56:00+00:00
+last_deep_review: 2026-03-16T04:47:00+00:00
 ---
 
 Time-symmetric physics refers to the property of fundamental physical laws working equally well when run backward in time. The Schrödinger equation, Maxwell's equations, and general relativity are all time-reversal invariant—given any solution, reversing the direction of time produces another valid solution. This symmetry has profound implications: if fundamental physics doesn't distinguish past from future, the apparent "arrow of time" we experience must emerge from something other than basic physical law.
@@ -126,7 +128,7 @@ Henry Stapp's [[quantum-consciousness|quantum Zeno mechanism]] proposes that men
 
 ### The Modified Growing Block
 
-The Map's [[time-collapse-and-agency|temporal framework]] proposes a modified growing block: past and present exist; the future doesn't yet. Collapse grows the block. Time-symmetric physics operates *within* the possibility structure that collapse resolves. The "future" participating in transactions is quantum possibility, not ontologically existing future fact. Once collapse occurs, the selected history is simply history—irreversible because definiteness replaces superposition.
+The Map's [[time-collapse-and-agency|temporal framework]] proposes a modified [[growing-block-universe-and-consciousness|growing block]]: past and present exist; the future doesn't yet. Collapse grows the block. Time-symmetric physics operates *within* the possibility structure that collapse resolves. The "future" participating in transactions is quantum possibility, not ontologically existing future fact. Once collapse occurs, the selected history is simply history—irreversible because definiteness replaces superposition.
 
 This reconciles time-symmetry with real temporal becoming: symmetry holds at the level of possibility; asymmetry emerges through collapse into actuality.
 
@@ -177,6 +179,8 @@ Time-symmetric physics connects to the Map's [[tenets]] in several ways:
 - [[time-symmetric-selection-mechanism]] — Consciousness selecting through atemporal constraint-satisfaction
 - [[quantum-interpretations]] — Survey including transactional and TSVF frameworks
 - [[measurement-problem]] — Why collapse remains unexplained
+- [[growing-block-universe-and-consciousness]] — Why the growing block is the natural home for consciousness
+- [[consciousness-and-the-ontology-of-temporal-becoming]] — How temporal ontology constrains consciousness theory
 - [[philosophy-of-time]] — A-theory, B-theory, and growing block
 - [[time-collapse-and-agency]] — Full synthesis of time, collapse, and agency
 - [[tenets]] — The Map's foundational commitments
