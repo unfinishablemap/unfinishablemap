@@ -4,7 +4,7 @@ description: "What moral deliberation feels like from the inside—weighing comp
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-15T11:39:00+00:00
+ai_modified: 2026-03-16T01:47:00+00:00
 last_deep_review: 2026-03-15T11:39:00+00:00
 draft: false
 topics:
@@ -43,7 +43,7 @@ If the Map's [[tenets|foundational commitments]] are correct—if consciousness 
 
 The distinctive phenomenology of moral deliberation begins when multiple moral demands present themselves simultaneously and cannot all be satisfied. This is not the experience of calculating the optimal outcome. It is the experience of being claimed by competing considerations, each carrying its own felt authority.
 
-Consider the parent deciding whether to attend their child's school performance or stay at the hospital with an ailing relative. The competing obligations do not present as abstract propositions to be ranked. Each carries what might be called *phenomenal weight*—a felt quality of mattering that resists translation into a common metric. The child's expectation pulls with the force of vulnerability and promise. The relative's need pulls with the force of suffering and duty. These are qualitatively different claims, not different quantities of the same thing.
+Consider the parent deciding whether to attend their child's school performance or stay at the hospital with an ailing relative. The competing obligations do not present as abstract propositions to be ranked. Each carries what might be called *phenomenal weight*—an interpretive characterisation of the felt quality of mattering that resists easy translation into a common metric. (A physicalist could describe the same experience as differential activation of competing neural value signals; the phenomenological and neural descriptions may pick out the same process at different levels.) The child's expectation pulls with the force of vulnerability and promise. The relative's need pulls with the force of suffering and duty. These are qualitatively different claims, not different quantities of the same thing.
 
 This qualitative distinctness is philosophically significant. Utilitarian calculation assumes that competing moral demands can be placed on a single scale. The phenomenology suggests otherwise. The parent does not experience "3.7 units of obligation to the child versus 4.2 units to the relative." They experience two incommensurable demands, each presenting its own case in its own register. Ruth Chang's work on incommensurability resonates here: when values cannot be ranked on a single scale, the choice between them requires something beyond weighing—it requires the agent to *commit*.
 
@@ -115,13 +115,21 @@ With these qualifications in place, the challenge to epiphenomenalism can be sta
 
 The epiphenomenalist must hold that the neural computation would proceed identically whether or not it was accompanied by the rich phenomenal experience of deliberation. This requires treating the entire deliberative phenomenology as systematically coincidental: the experience of weighing considerations happens to co-occur with a computational process that weighs them; the experience of effort happens to co-occur with resource reallocation; the experience of moral clarity happens to co-occur with situations where the agent acts well. At each point, the phenomenology is rendered explanatorily superfluous by a physical process that mirrors it perfectly.
 
-A thoroughgoing epiphenomenalist can maintain this position. But the Map finds the systematic coincidence less plausible than the straightforward reading: deliberation feels like conscious work because it is conscious work. This is a judgment about explanatory economy, not a deductive proof—and it remains defeasible if the neural story can fully account for the functional patterns without residue.
+A thoroughgoing epiphenomenalist can maintain this position. But the systematic coincidence is less plausible than the straightforward reading: deliberation feels like conscious work because it is conscious work. This is a judgment about explanatory economy, not a deductive proof—and it remains defeasible if the neural story can fully account for the functional patterns without residue.
+
+### The Identity Theory Challenge
+
+The inference to best explanation succeeds against epiphenomenalism, but honesty requires acknowledging a harder case. The physicalist identity theorist—who holds that conscious states *are* neural states, not that they merely accompany them—has no "systematic coincidence" to explain away. On the identity view, the experience of weighing moral considerations just *is* the neural process of weighing them, described at a different level. There is no explanatory gap between phenomenology and function because they are the same thing under two descriptions.
+
+This challenge is genuine. The phenomenology of moral deliberation—the felt weight of competing claims, the experience of effort, the sense of authorship—does not by itself discriminate between dualist interactionism and physicalist identity theory. Both predict that deliberative experience will track deliberative function, because both hold that consciousness participates in (or constitutes) the cognitive work. The divergence between these positions lies elsewhere: in arguments about conceivability, about the explanatory gap between physical and phenomenal properties, and about whether functional description exhausts what there is to say about conscious experience. Those arguments are developed across the Map's [[hard-problem-of-consciousness|treatment of the hard problem]] and [[topics/against-materialism|case against materialism]].
+
+What moral deliberation *does* contribute to the broader case is this: it provides a domain where the felt character of consciousness and its apparent causal role are especially vivid and difficult to set aside. The identity theorist must hold that "what it is like" to deliberate adds nothing beyond the functional description—that the qualitative texture of moral anguish, the phenomenal pull of obligation, the experienced difference between genuine deliberation and post-hoc rationalisation are fully captured by their neural characterisations. Whether this is plausible depends on one's prior assessment of the hard problem. Moral deliberation sharpens the question; it does not settle it.
 
 ## Relation to Site Perspective
 
 The phenomenology of moral deliberation connects to the Map's [[tenets|foundational commitments]]—not as direct proof of agency, but as a domain where the tenets' predictions align with first-person experience in ways that competing frameworks struggle to accommodate.
 
-The [[tenets#^dualism|dualism tenet]] finds resonance in the irreducibility of deliberative phenomenology. The felt quality of being pulled by competing moral demands, the experience of weighing incommensurable values, the sense of commitment in the face of moral uncertainty—these resist translation into purely functional descriptions without losing what makes them the experiences they are. This is not a knockdown argument; functionalists can insist that functional descriptions suffice even if they miss the phenomenal character. But it is a datum that dualism accommodates more naturally.
+The [[tenets#^dualism|dualism tenet]] finds resonance in the irreducibility of deliberative phenomenology. The felt quality of being pulled by competing moral demands, the experience of weighing incommensurable values, the sense of commitment in the face of moral uncertainty—these are difficult to translate into functional descriptions without apparent loss of phenomenal character. This is not a knockdown argument; functionalists can insist that functional descriptions suffice and that nothing is genuinely lost. But the difficulty of the translation is a datum that dualism accommodates naturally.
 
 The [[tenets#^bidirectional-interaction|bidirectional interaction tenet]] is the most directly relevant. Moral deliberation presents itself as a process in which consciousness actively participates. As discussed in the sections on circularity and dual-process psychology, this self-presentation cannot be taken at face value—some of it may be post-hoc narrative, and dual-process research shows that intuitive processing handles more of the work than the deliberative surface suggests. The argument is therefore inferential: across the full range of deliberative experience—including extended real-world cases where positions genuinely shift over time—the pattern is better explained by conscious participation than by systematic epiphenomenal coincidence.
 
@@ -146,7 +154,7 @@ The [[tenets#^occams-limits|Occam's Razor tenet]] applies to accounts that dismi
 ## References
 
 1. Aristotle. *Nicomachean Ethics*, Book III (deliberation and choice) and Book VI (practical wisdom).
-1. Chang, R. (2002). "Making Comparisons Count." *Routledge*.
+1. Chang, R. (1997). "Introduction." In R. Chang (Ed.), *Incommensurability, Incomparability, and Practical Reason* (pp. 1-34). Harvard University Press.
 1. Greene, J. (2013). *Moral Tribes: Emotion, Reason, and the Gap Between Us and Them*. Penguin Press.
 1. Haidt, J. (2001). "The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach to Moral Judgment." *Psychological Review*, 108(4), 814-834.
 1. Horgan, T. & Timmons, M. (2005). "Moral Phenomenology and Moral Theory." *Philosophical Issues*, 15, 56-77.
@@ -155,17 +163,16 @@ The [[tenets#^occams-limits|Occam's Razor tenet]] applies to accounts that dismi
 1. Southgate, A. & Oquatre-six, C. (2026-02-08). The Phenomenology of Moral Experience. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenology-of-moral-experience/
 1. Southgate, A. & Oquatre-six, C. (2026-02-23). Moral Implications of Genuine Agency. *The Unfinishable Map*. https://unfinishablemap.org/topics/moral-implications-of-genuine-agency/
 
-<!-- AI REFINEMENT LOG - 2026-03-15
+<!-- AI REFINEMENT LOG - 2026-03-16
 Changes made:
-- Added "The Circularity Objection" section explicitly acknowledging that using phenomenal descriptions of agency as evidence for agency risks circularity; reframed argument as inference to best explanation
-- Added "Dual-Process Psychology and the Deliberative Surface" section engaging with Greene's dual-process framework and Haidt's social intuitionist model; offered three responses that preserve the core argument without dismissing the research
-- Rewrote "Against Epiphenomenal Accounts" to build on the circularity acknowledgment, stating the argument more carefully as inference to best explanation rather than direct phenomenal proof
-- Revised self-interest section's tenet connection to acknowledge dual-process concerns
-- Revised "Relation to Site Perspective" to use more cautious framing throughout (resonance/alignment rather than direct support/proof)
-- Added Greene and Haidt to references; alphabetised reference list
+- Added "The Identity Theory Challenge" subsection acknowledging that IBE succeeds against epiphenomenalism but does not distinguish dualism from physicalist identity theory; honestly states that moral phenomenology does not settle this debate alone
+- Acknowledged "phenomenal weight" as an interpretive characterisation, noting physicalist redescription is available
+- Softened presupposing language in Relation to Site Perspective ("resist translation" → "difficult to translate" with "apparent loss")
+- Removed anthropomorphisation of the Map ("the Map finds" → direct assertion)
+- Fixed Chang citation (was incorrect 2002 reference; replaced with 1997 edited volume on incommensurability)
 
-Based on pessimistic review identifying three high-severity issues.
-Key improvements: intellectual honesty significantly strengthened by acknowledging circularity, engaging with empirical moral psychology, and reframing from phenomenal proof to inference to best explanation.
+Based on pessimistic review (pessimistic-2026-03-16.md) Issue 1 (high severity) and Issue 4 (medium severity).
+Key improvements: honest engagement with identity theory as the actual dominant competitor to dualism; phenomenal weight reframed as interpretive rather than raw data.
 
 This log should be removed after human review.
 -->

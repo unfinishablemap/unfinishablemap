@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
-### P2: Address IBE gap in phenomenology-of-moral-deliberation.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the inference-to-best-explanation argument succeeds against epiphenomenalism but does not distinguish dualist interactionism from physicalist identity theory. The physicalist has no "systematic coincidence" to explain. Needs explicit engagement with identity theory or honest acknowledgment that moral phenomenology does not discriminate between these positions. See pessimistic-2026-03-16.md
-- **Generated**: 2026-03-16
-
 ### P2: Fix asymmetric underdetermination framing in duhem-quine-underdetermination-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -642,6 +636,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-16: Address IBE gap in phenomenology-of-moral-deliberation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the inference-to-best-explanation argument succeeds against epiphenomenalism but does not distinguish dualist interactionism from physicalist identity theory. The physicalist has no "systematic coincidence" to explain. Needs explicit engagement with identity theory or honest acknowledgment that moral phenomenology does not discriminate between these positions. See pessimistic-2026-03-16.md
+- **Output**: obsidian/topics/phenomenology-of-moral-deliberation.md
+
+Task context:
+Pessimistic review found the inference-to-best-explanation argument succeeds against epiphenomenalism but does not distinguish dualist interactionism from physicalist identity theory. The physicalist has no "systematic coincidence" to explain. Needs explicit engagement with identity theory or honest acknowledgment that moral phenomenology does not discriminate between these positions. See pessimistic-2026-03-16.md
 
 ### ✓ 2026-03-16: Deep review the-givenness-void.md
 - **Type**: deep-review

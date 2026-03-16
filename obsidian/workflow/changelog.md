@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16T01:47:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-moral-deliberation]]
+- **Changes**: Added identity theory engagement subsection; acknowledged phenomenal weight as interpretive; softened presupposing language; fixed Chang citation
+- **Published**: yes
+
 ## 2026-03-16T01:33:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: phenomenology-of-moral-deliberation.md, evolutionary-case-for-mental-causation.md, duhem-quine-underdetermination-consciousness.md
