@@ -485,12 +485,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-03-15
 
-### P3: Deep review conceptual-acquisition-limits.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 38 days ago. Voids article on limits to acquiring new concepts — how cognitive architecture constrains what we can think. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-15
-
 ### P3: Deep review temporal-asymmetry-remembering-anticipating.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 38 days ago. Voids article on the phenomenal asymmetry between remembering and anticipating — why the past feels different from the future. Verify coherence, cross-references, and tenet alignment.
@@ -562,6 +556,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-16: Deep review conceptual-acquisition-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 38 days ago. Voids article on limits to acquiring new concepts — how cognitive architecture constrains what we can think. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/conceptual-acquisition-limits.md
 
 ### ✓ 2026-03-16: Deep review mathematical-void.md
 - **Type**: deep-review
