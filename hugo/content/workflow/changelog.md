@@ -18,6 +18,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16T04:47:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [time-symmetric-physics](/concepts/time-symmetric-physics/)
+- **Word count**: 1966 → 1990 (+24)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-links to new articles)
+- **Enhancements made**: 3 (cross-links to growing-block-universe-and-consciousness, consciousness-and-the-ontology-of-temporal-becoming)
+- **Output**: [deep-review-2026-03-16-time-symmetric-physics](/reviews/deep-review-2026-03-16-time-symmetric-physics/)
+
+## 2026-03-16T04:33:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/)
+- **Word count**: 3344 → 3370 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing Hameroff citation)
+- **Enhancements made**: 1 (cross-link to phenomenology-of-intellectual-effort)
+- **Output**: [deep-review-2026-03-16-psychophysical-laws-bridging-mind-and-matter](/reviews/deep-review-2026-03-16-psychophysical-laws-bridging-mind-and-matter/)
+
 ## 2026-03-16T04:17:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-cognition/), [phenomenology-of-epistemic-achievement](/topics/phenomenology-of-epistemic-cognition/)

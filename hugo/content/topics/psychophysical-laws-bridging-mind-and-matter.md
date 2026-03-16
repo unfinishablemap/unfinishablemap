@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-07
-ai_modified: 2026-03-12 18:20:00+00:00
+ai_modified: 2026-03-16 04:33:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ description: If consciousness is distinct from physics, fundamental laws must co
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-12 18:20:00+00:00
+last_deep_review: 2026-03-16 04:33:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -136,7 +136,7 @@ The most detailed proposal. Henry Stapp builds on von Neumann's formulation, whi
 
 The quantum Zeno effect provides amplification: rapid repeated observation prevents a quantum system from evolving away from its current state. Conscious attention corresponds to high-frequency Process 1 actions—attending to a neural pattern means repeatedly "asking" whether that pattern obtains, holding it in place against competing alternatives.
 
-**Phenomenal variable**: Intensity and focus of attention, experienced as mental effort. William James treated volitional effort as central to the will (*The Principles of Psychology*, 1890). Stapp identifies this phenomenology with the rapidity of Process 1 actions: effort feels like work because it *is* work—maintaining high observation frequency.
+**Phenomenal variable**: Intensity and focus of attention, experienced as [mental effort](/topics/phenomenology-of-intellectual-effort/). William James treated volitional effort as central to the will (*The Principles of Psychology*, 1890). Stapp identifies this phenomenology with the rapidity of Process 1 actions: effort feels like work because it *is* work—maintaining high observation frequency.
 
 **Physical variable**: Rate of quantum observations on neural firing patterns.
 
@@ -170,7 +170,7 @@ John Eccles (1994), with quantum mechanics developed alongside Friedrich Beck, p
 
 Any quantum approach faces the objection that warm biological systems destroy quantum coherence in femtoseconds—far too fast for neural processes at millisecond timescales. Three considerations moderate this concern:
 
-**Disputed timescales.** Tegmark's (2000) influential calculations remain accepted by most physicists. However, Hameroff's group challenged specific assumptions—arguing Tegmark modelled the wrong physical system and used unrealistic thermal parameters, obtaining coherence times several orders of magnitude longer. The debate is ongoing; categorical dismissal is premature.
+**Disputed timescales.** Tegmark's (2000) influential calculations remain accepted by most physicists. However, Hagan, Hameroff and Tuszyński (2002) challenged specific assumptions—arguing Tegmark modelled the wrong physical system and used unrealistic thermal parameters, obtaining coherence times several orders of magnitude longer. The debate is ongoing; categorical dismissal is premature.
 
 **Biological quantum effects exist.** Avian magnetoreception maintains spin coherence for microseconds in warm tissue. Photosynthesis exploits quantum coherence for energy transfer. Evolution has found ways to harness quantum effects in biology.
 
@@ -262,8 +262,9 @@ The framework would face serious difficulty if:
 6. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
 7. Georgiev, D.D. (2015). "Monte Carlo simulation of quantum Zeno effect in the brain." *International Journal of Modern Physics B* 29(7), 1550039. arXiv:1412.4741.
 8. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
-9. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
-10. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2), 192-204.
-11. Kerskens, C.M. & Pérez, D.L. (2022). "Experimental indications of non-classical brain functions." *Journal of Physics Communications* 6(10).
-12. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.
-13. Tononi, G. et al. (2016). "Integrated Information Theory." *Nature Reviews Neuroscience*, 17, 450-461.
+9. Hagan, S., Hameroff, S.R. & Tuszyński, J.A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E* 65(6), 061901.
+10. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
+11. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2), 192-204.
+12. Kerskens, C.M. & Pérez, D.L. (2022). "Experimental indications of non-classical brain functions." *Journal of Physics Communications* 6(10).
+13. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.
+14. Tononi, G. et al. (2016). "Integrated Information Theory." *Nature Reviews Neuroscience*, 17, 450-461.
