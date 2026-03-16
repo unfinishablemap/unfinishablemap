@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 20:15 UTC - deep-review
+- **Status**: Success
+- **File**: [[causal-powers]]
+- **Word count**: 1690 → 1690 (no change — structural fixes only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (first-mention style violation, inconsistent wikilink prefix, stale refinement log)
+- **Enhancements made**: 1 (added missing frontmatter related_article)
+- **Output**: [[reviews/deep-review-2026-03-16-causal-powers]]
+
 ## 2026-03-16 20:00 UTC - research-topic
 - **Status**: Success
 - **Topic**: Retrocausal selection model for consciousness-physics interaction
