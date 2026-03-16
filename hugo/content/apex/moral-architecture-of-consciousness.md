@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
-ai_generated_date: 2026-03-15
-ai_modified: 2026-03-15 18:21:00+00:00
+ai_generated_date: 2026-03-16
+ai_modified: 2026-03-16 09:17:00+00:00
 ai_system: claude-opus-4-6
-apex_last_synthesis: 2026-03-15 18:21:00+00:00
+apex_last_synthesis: 2026-03-16 09:17:00+00:00
 apex_sources:
 - topics/phenomenal-value-realism
 - topics/ethics-of-consciousness
@@ -18,23 +18,23 @@ apex_sources:
 apex_thesis: If consciousness is irreducible and causally efficacious, it provides
   a unified moral architecture—grounding what has value, who bears responsibility,
   why moral claims bind, and how moral properties are perceived—that materialist ethics
-  cannot achieve. This unity has concrete consequences for animal welfare, AI ethics,
-  criminal justice, and the open question of whether value itself participates in
-  the mechanism through which consciousness acts on the physical world.
+  cannot achieve.
 author: null
 concepts:
 - '[[moral-responsibility]]'
 - '[[agent-causation]]'
 - '[[phenomenal-normativity]]'
-- '[[consciousness-value-connection]]'
 - '[[moral-perception]]'
 - '[[attentional-economics]]'
-created: 2026-03-15
-date: &id001 2026-03-15
+- '[[consciousness-value-connection]]'
+created: 2026-03-16
+date: &id001 2026-03-16
+description: How irreducible consciousness unifies value, agency, normativity, and
+  moral perception into a coherent ethical framework that materialist approaches cannot
+  achieve.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,123 +44,135 @@ title: The Moral Architecture of Consciousness
 topics:
 - '[[ethics-of-consciousness]]'
 - '[[topics/phenomenal-value-realism]]'
-- '[[topics/free-will]]'
+- '[[consciousness-and-normative-force]]'
+- '[[phenomenology-of-moral-experience]]'
 ---
 
-If consciousness is irreducible and causally efficacious, the entire moral landscape transforms. The Unfinishable Map's metaethics is not a peripheral implication of its metaphysics—it is where the abstract commitments acquire their deepest practical weight. Consciousness provides a unified moral architecture: a single ground for what has value, who bears responsibility, why moral claims bind, and how moral properties are perceived. Materialist ethics fragments these questions across incompatible foundations—preference theories for value, compatibilism for responsibility, expressivism or rationalism for normativity, inferentialism for moral knowledge. Under dualism, all four converge on conscious experience. This convergence is the Map's distinctive contribution to moral philosophy, and it has concrete consequences that reach from factory farms to courtrooms to the design of artificial intelligence.
+If consciousness is irreducible and causally efficacious, the entire ethical landscape transforms. The Unfinishable Map's dualism does not merely add a metaphysical layer to existing moral philosophy—it resolves a fragmentation problem that materialist ethics has never overcome. Under materialism, value theory, agency theory, normativity, and moral epistemology draw on different and often incompatible foundations. Under dualism, all four converge on a single ground: conscious experience. This convergence constitutes a moral architecture—a unified framework in which what has value, who bears responsibility, why moral claims bind, and how moral properties are perceived are aspects of a single phenomenon rather than outputs of four separate theories that never quite fit together.
 
-## Where Value Lives
+The architecture has concrete consequences. It generates a graded account of responsibility tied to attentional capacity, extends moral status to all conscious beings, and opens a frontier question about whether value itself participates in the mechanism through which consciousness acts on the physical world.
 
-The foundation is [phenomenal value realism](/topics/phenomenal-value-realism/): intrinsic value is a feature of conscious experience itself. The felt badness of suffering *is* badness. The felt goodness of joy *is* goodness. This is not a derivation of value from experience but an identity—some phenomenal properties are simultaneously descriptive and normative.
+## The Problem the Architecture Solves
 
-Three tests support the identity. The *coherence test*: "this is intensely pleasant, but there is nothing good about it" is not merely false but incoherent. The *transparency test*: when experiencing pleasure, you do not infer its goodness from theory—the goodness is transparent in the experience. The *explanatory economy test*: if pleasure and goodness were distinct properties, their perfect correlation would demand explanation; the identity thesis eliminates this burden.
+Materialist moral philosophy faces a structural difficulty. Its major traditions address different ethical questions with frameworks that sit uneasily together.
 
-The Map extends this beyond hedonism to [phenomenal value pluralism](/topics/phenomenal-value-realism/#beyond-hedonism). Multiple features of experience carry intrinsic value—hedonic valence, aesthetic quality, meaning, agency, understanding, connection. The felt significance of meaningful engagement is not reducible to a balance of pleasures and pains. But all value dimensions share the same ground: they are features of consciousness, and consciousness is irreducible.
+Value theory struggles to locate intrinsic value in a universe of particles and forces. Error theorists conclude that value does not exist; constructivists argue it is built through rational procedures; naturalists try to identify moral properties with natural ones. Each carries costs: error theory renders moral discourse false, constructivism cannot explain why constructions bind, and naturalism faces Moore's open question.
 
-Why does [dualism](/tenets/#dualism) matter here? If consciousness is irreducible, value inherits this irreducibility. Value is not an overlay on physical reality or a projection onto it; it is built into what fundamentally exists. The [zombie thought experiment](/concepts/philosophical-zombies/) illustrates this directly: a universe of zombies—physically identical to ours but lacking experience—would contain no value at all. The moral emptiness of the zombie world just *is* its experiential emptiness.
+Agency theory under determinism must settle for compatibilism—praising and blaming agents whose ultimate character traces to causes they never chose. Normative theory struggles to explain why moral claims *grip* us rather than merely inform us. Moral epistemology has difficulty explaining how we access moral facts at all.
 
-This placement resolves what [the fragmentation problem](/topics/ethics-and-value-in-a-dualist-world/) exposes: materialist ethics cannot locate intrinsic value without difficulty. Error theorists conclude value does not exist. Constructivists argue it is built through rational procedures but cannot explain why constructions bind. Naturalists face Moore's open question: for any natural property N, "but is it good?" remains coherent. Phenomenal value realism cuts through this: value lives where consciousness lives, and consciousness is not up for elimination.
+These are not separate problems. They are symptoms of a single underlying difficulty: materialism lacks a unified ground for ethics. As [the Map's analysis](/topics/ethics-and-value-in-a-dualist-world/) shows, the most ambitious materialist unifications—Railton's naturalistic moral realism, Foot's natural goodness—achieve coherence across two or three domains only by leaving the remaining ones addressed by supplementary frameworks that sit uneasily with the core theory.
 
-## Who Bears Responsibility
+## Four Pillars on One Foundation
 
-If agents genuinely originate their choices—through [agent causation](/concepts/agent-causation/) rather than as links in deterministic chains—then [moral-responsibility](/concepts/moral-responsibility/) acquires metaphysical grounding. Desert becomes more than social convention: the wrongdoer who chose cruelty when kindness was available exercised a causal power they actually possessed.
+### Value Lives in Experience
 
-This carries an existential weight that compatibilism partially obscures. Sophisticated compatibilists preserve moral language while grounding it in capacities the agent exercises but did not ultimately create. The limitation, from the Map's perspective, is that compatibilist desert is pragmatic: holding people responsible has good consequences. Agent-causal desert is metaphysical: the agent is truly the origin.
+[Phenomenal value realism](/topics/phenomenal-value-realism/) identifies intrinsic value with features of conscious experience. The felt badness of suffering *is* badness; the felt goodness of joy *is* goodness. This is not a derivation of value from experience but an identity: some phenomenal properties are simultaneously descriptive and normative. Three tests support the identity. The coherence test: "this is intensely pleasant, but there is nothing good about it" is incoherent, not merely false. The transparency test: attending to pleasure just *is* attending to something good. The explanatory economy test: if pleasure and goodness were distinct properties, their perfect correlation would demand explanation that the identity eliminates.
 
-The [implications](/topics/moral-implications-of-genuine-agency/) extend beyond desert. Obligation becomes intelligible—"you ought to do X" addresses a being with genuine causal power over what happens next. Character formation becomes genuine self-creation: through [attentional economics](/concepts/attentional-economics/), consciousness shapes its own dispositions by directing attention, reinforcing or modifying patterns through accumulated selections. Moral luck reconceives: genuine agency eliminates causal luck entirely, replacing determination with authorship, while constitutive luck (the temperament one starts with) becomes a starting position rather than a destiny.
+The Map extends this beyond hedonism to phenomenal value pluralism. Meaning, aesthetic quality, agency, understanding, and connection each carry intrinsic value as features of experience. A life of profound meaningful engagement can be deeply significant without being particularly pleasant—the distinctive phenomenal quality of purposive absorption resists reduction to a hedonic balance sheet.
 
-Genuine agency also transforms how moral theory itself works. Error theory weakens: if agents are genuine causes, claims about how a real causal power should be exercised are not projecting moral properties onto a morally neutral world. Pure consequentialism faces pressure: two agents may produce identical outcomes, one through careful deliberation and the other through indifference, and under genuine agency the quality of authorship matters morally. Virtue ethics gains ground naturally, because if the agent is an irreducible source of action whose character is self-created through accumulated selections, the virtues describe excellences in the exercise of causal power.
+This placement resolves value theory's location problem. Value does not float free in Platonic space, and it need not be constructed by rational procedures. It lives where consciousness lives—which, under dualism, is an irreducible feature of reality. The [consciousness-value-connection](/concepts/consciousness-value-connection/) makes this explicit: without a subject for whom things matter, nothing can possess intrinsic value.
 
-The convergence with value matters. Consciousness is both where value lives and what exercises agency. The agent who makes a moral choice is the same subject for whom the choice's consequences have value. Under materialism, value theory and agency theory are addressed by different frameworks that may pull in different directions. Under dualism, they are aspects of a single reality.
+### Agency Is Genuine
 
-## Why Moral Claims Grip Us
+[Agent causation](/concepts/agent-causation/) provides what compatibilism cannot: the agent as an irreducible origin of choice. Under the Map's framework, consciousness selects among possibilities that quantum indeterminacy leaves open in neural processing. The agent genuinely authors their choices—not as a link in a deterministic chain but as the point where the causal buck stops.
 
-[Normative force](/topics/consciousness-and-normative-force/)—the binding character of "ought"—finds its ground in the same place. Pain does not merely inform you of tissue damage; it *compels* avoidance. A broken promise does not describe a lapsed commitment; it *binds* you to guilt. [Phenomenal normativity](/concepts/phenomenal-normativity/) holds that the badness of suffering is constitutive of what suffering feels like, not a judgement layered on top of a neutral sensation.
+This transforms [moral-responsibility](/concepts/moral-responsibility/) from pragmatic convention into metaphysical fact. Desert becomes real: the agent who chose cruelty when kindness was available exercised a causal power they actually possessed. The [implications](/topics/moral-implications-of-genuine-agency/) extend beyond desert. Obligation becomes intelligible because it addresses genuinely open possibilities. Character formation becomes genuine self-creation—each selection reinforces or modifies dispositions, and under genuine agency, this shaping is authored rather than determined. Moral luck is partially reconstituted: causal luck is eliminated entirely when consciousness selects rather than being determined, though constitutive and circumstantial luck persist as genuine constraints on the exercise of agency.
 
-Standard accounts fall short at the same point. Rationalism locates normative force in reason itself, but rational consistency is a formal property—you can be formally consistent while endorsing monstrous principles. Contractualism grounds normative force in hypothetical agreement, but hypothetical agreement lacks phenomenal grip. Expressivism denies that normative claims state facts, but encountering cruelty does not feel like projecting an attitude onto a neutral event.
+The convergence matters: value and agency share the same ground. Consciousness is both where value lives and what exercises agency. The agent who makes a moral choice is the same subject for whom the choice's consequences have value. Under materialism, these are addressed by different theories that may pull in different directions. Under dualism, they are aspects of a single reality.
 
-What consciousness contributes is the seamless integration of perceiving, evaluating, and motivating. When you witness a child in danger, the perception, the recognition that help is needed, and the motivational pull toward action arrive as a unified phenomenal state. This integration extends across four normative domains—moral, epistemic, aesthetic, and prudential—each with distinct phenomenal texture but a common architecture of demand. The diversity of domains with shared structure better fits intrinsic normativity than a single projection mechanism producing varied outputs.
+### Normativity Is Built into Experience
 
-When normative domains collide—the whistleblower facing moral obligation against self-preservation, the researcher discovering that publishing accurate results will cause harm—consciousness must integrate competing demands into a single practical stance. This normative integration is among the clearest cases of consciousness doing genuine causal work, and it requires the [bidirectional interaction](/tenets/#bidirectional-interaction) the Map affirms.
+[Moral normativity](/topics/consciousness-and-normative-force/)—the binding force of "ought"—finds its ground in the same place. Pain's badness is constitutive of what pain feels like, not a judgement layered on top of a neutral sensation. The "ought" that arises from encountering suffering is present in the experience itself, not derived from a theory or constructed by a procedure.
 
-## How Moral Properties Are Perceived
+Four normative domains—moral, epistemic, aesthetic, prudential—share a common phenomenal architecture while retaining distinct textures. Moral outrage burns, epistemic compulsion pulls with impersonal rigidity, aesthetic experience draws through invitation, prudential concern gravitates with intimate familiarity. Despite these differences, all four present their objects as calling for response, resist reduction to preference, and admit of degrees. This shared architecture across domains with distinct evolutionary histories and cultural contexts is what [phenomenal-normativity](/concepts/phenomenal-normativity/) predicts and what projection cannot easily explain.
 
-The [phenomenology of moral experience](/topics/phenomenology-of-moral-experience/) reveals that moral perception operates as gestalt apprehension rather than inferential construction. Witnessing cruelty does not proceed: (1) perceive physical movement, (2) recognise intent, (3) compute moral status. The wrongness appears in the initial perception as an organising feature of the whole scene, much as a face appears in a collection of dots once the gestalt snaps into place.
+When normative domains collide—the whistleblower's moral obligation against self-preservation, the researcher's epistemic duty against potential harm—consciousness integrates competing demands within a single experiential field. The resolution has the character of genuine judgement that could have gone otherwise, not mechanical aggregation. Overridden demands persist as moral residue—the scientist who suppresses results for moral reasons still feels epistemic integrity pulling. This integration problem is structurally analogous to the perceptual [binding problem](/concepts/binding-problem/), and consciousness solves both by unifying diverse inputs into coherent wholes.
 
-The temporal profile is revealing. Moral properties register before reflective engagement begins—the wrongness is experientially present before any reasoning about *why* it is wrong. Sustained attention then reveals additional moral texture: not just that the act is wrong but *how* it is wrong. Emotional dimensions consolidate afterward, stabilising and elaborating the initial apprehension. This profile—immediate registration followed by attentional deepening—matches perception rather than inference.
+### Moral Perception Is Direct
 
-Moral perception depends on a specific quality of attention. Simone Weil placed attention at the centre of moral life: "Attention is the rarest and purest form of generosity." Iris Murdoch argued that moral perception requires "unselfing"—diminishing the ego's distorting influence to allow moral properties to present themselves on their own terms. If [moral perception](/concepts/moral-perception/) is a genuine mode of awareness rather than sophisticated inference, then the capacity for moral seeing is itself something that can be cultivated—and the obligation to cultivate it follows from the reality of what it perceives.
+The [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) reveals that moral properties appear in consciousness with the immediacy and involuntariness of perception rather than the deliberation of inference. Wrongness organises an entire perceptual scene as a gestalt: witnessing cruelty does not proceed from perceiving physical movement to computing moral status. The wrongness appears in the initial perception as an organising feature of the whole.
 
-## The Unity and Its Consequences
+This perception has temporal depth. The pre-reflective moral strike arrives before reasoning begins—wrongness is experientially present before any articulation of *why* it is wrong. Sustained attention then reveals additional moral texture: not just that the act is wrong but *how* it is wrong, the specific character of the violation. Moral perception, like sensory perception, is a skill that deepens with training. Simone Weil's concept of attention as "the rarest and purest form of generosity" captures this: the quality of moral perception depends on sustained, receptive, ego-diminished attention that allows moral properties to present themselves on their own terms.
 
-The distinctive claim is not that dualism answers each ethical question better than materialism, but that it answers them *from the same place*. Value, agency, normativity, and moral epistemology all trace back to irreducible conscious experience. This unity has structural consequences.
-
-**Coherence across domains.** The agent who exercises genuine causal power is the same subject who experiences value, feels the force of moral demand, and perceives ethical properties directly. There is no gap between the theory of who acts, the theory of what matters, the theory of why it binds, and the theory of how we know.
-
-**Mutual reinforcement.** Each element needs the others. Genuine agency without real value would be causal power exercised in a normative vacuum. Real value without genuine agency would be goodness and badness that conscious beings can witness but never affect. Phenomenal normativity without agency would be demands addressed to beings who cannot respond.
-
-**Explanatory economy at the right level.** Dualism adds consciousness as an irreducible feature of reality—a genuine ontological cost. But having paid that cost, it unifies four domains that materialism must address separately. The economy is not in reducing entities but in achieving coherence.
-
-## Moral Status: Animals, AI, and the Boundary Problem
-
-The unified architecture generates specific positions on who counts morally.
-
-**Animals.** If consciousness grounds moral status and the felt badness of suffering constitutes intrinsic badness, then animal suffering is not merely analogous to human suffering—it instantiates the same value property. Convergent evidence from the Cambridge Declaration (2012), the New York Declaration (2024), and research on [animal consciousness](/topics/animal-consciousness/) across vertebrates, cephalopods, and possibly arthropods makes the case for widespread moral patienthood. The Map's dualism places no anthropocentric barrier on consciousness; the question shifts from "how do animal brains generate experience?" (unanswerable under any framework) to "do animals have experience?" (assessable through behavioural and neurological evidence).
-
-Whether consciousness creates equal moral status across species or graduated status tracking experiential complexity remains open. A weight-by-confidence framework offers practical guidance: moral consideration scales with confidence in consciousness. Humans receive full weight; great apes and mammals, near-full; fish and cephalopods, significant; insects, some; current AI, minimal. The Map's [phenomenal value pluralism](/topics/phenomenal-value-realism/#beyond-hedonism)—which recognises value dimensions beyond hedonic valence—suggests that moral status may vary with the richness of experiential capacity without implying that simpler experience lacks moral significance entirely.
-
-The practical upshot is already urgent. If animal suffering instantiates the same value property as human suffering, factory farming and industrial animal agriculture involve moral costs proportional to the consciousness involved—costs that the Map's framework, unlike some materialist alternatives, cannot explain away by questioning whether animals "really" suffer.
-
-**Current AI.** Under the Map's framework, current AI systems lack consciousness—dualism implies computation alone does not produce experience, and current hardware lacks the quantum interfaces the framework requires. If current AI is not conscious, it has no moral patienthood. It can be a moral *agent* (causing harm or benefit) without being a moral *patient*. The Map urges extreme caution about creating potentially-conscious systems, because creating conscious AI would create moral patients whose suffering would be genuinely bad—not by convention but by the nature of phenomenal experience.
-
-This position depends on contested theoretical commitments. The Map acknowledges that if its framework is mistaken about what consciousness requires, its ethical conclusions about AI would need revision.
+The [philosophical study of moral experience](/concepts/moral-phenomenology/) confirms that these features—wrongness presenting as a property of situations, obligation carrying a phenomenal profile distinct from desire, guilt tracking real moral costs that correct choices do not eliminate—constitute primary data that any adequate moral theory must accommodate. Materialist accounts that reduce moral experience to emotional reaction plus post-hoc rationalisation cannot accommodate the temporal phenomenology, the gestalt character, or the deepening under sustained attention.
 
 ## The Responsibility Gradient
 
-The unified architecture also reshapes how responsibility is assessed in practice. If agency scales with the [attentional capacity](/topics/responsibility-gradient-from-attentional-capacity/) through which consciousness exercises control, then moral desert is not binary but graded.
+If agency operates through [attentional economics](/concepts/attentional-economics/)—consciousness exercising causal power through a bandwidth-limited channel—then moral desert is not binary but graded. The [responsibility gradient](/topics/responsibility-gradient-from-attentional-capacity/) identifies five dimensions along which attentional capacity varies: bandwidth (how many considerations can be held simultaneously), stability (whether moral reasoning can be sustained against distraction), scope (how broadly the attentional field surveys consequences), flexibility (the capacity to shift between perspectives), and availability (how much attentional resource remains after competing demands).
 
-Five dimensions of attentional capacity—bandwidth, stability, scope, flexibility, and availability—combine to determine how much moral authorship an agent exercises at any moment. An agent with full attentional resources bears full responsibility. An agent whose capacity is depleted by fatigue, intoxication, duress, or chronic cognitive load from poverty bears diminished responsibility—not zero, but less.
+These dimensions combine to produce an agent's effective capacity for moral reasoning at any given moment. A surgeon who makes a judgement error after a mandated 36-hour shift has diminished capacity through no choice of their own. A driver who causes an accident while choosing to drive exhausted bears upstream responsibility for the depletion itself.
 
-Two features prevent this gradient from collapsing into universal excuse-making. First, the gradient has a floor: as long as consciousness operates at all, some responsibility persists. Second, upstream responsibility for cultivating or neglecting attentional capacity is itself subject to desert. The agent who chronically neglects their deliberative skills bears responsibility for the depletion that later reduces their downstream desert.
+Two features prevent this from collapsing into universal excuse-making. The gradient has a floor: as long as consciousness operates at all, some responsibility persists. And the capacity for cultivation is itself subject to desert—an agent who chronically neglects their attentional capacities bears upstream responsibility for diminished downstream performance. The obligation to develop one's capacity for good choosing follows from the framework: if attentional skill is agency-enhancing, neglecting moral development is not merely imprudent but a failure to exercise a real capacity responsibly.
 
-This framework unifies what legal systems already recognise piecemeal. Diminished capacity, duress, mental impairment, and age-related mitigation all operate through the same mechanism: constraining the attentional channel through which consciousness exercises genuine selection. The gradient predicts that any condition reducing attentional capacity—including conditions not yet recognised in legal frameworks, such as chronic cognitive load from structural poverty—should carry mitigating weight.
+This graded picture unifies what legal systems already recognise piecemeal—diminished capacity, duress, mental impairment—under a single explanatory mechanism: all operate by constraining the attentional channel through which consciousness exercises control.
 
-But the gradient also intensifies responsibility at the upper end. An agent operating at full attentional capacity who chose to cause harm, when they genuinely could have chosen otherwise and had the bandwidth to foresee the consequences, bears a weight of desert that deterministic frameworks cannot ground. Under physicalism, even the clearest-headed wrongdoer is ultimately the output of prior causes; under agent causation, they are the irreducible author of a choice they had the full resources to make differently.
+## Who Counts: The Reach of Moral Status
 
-## The Open Question: Does Value Participate in Selection?
+The architecture extends beyond human ethics. If consciousness grounds moral status, then [animal consciousness](/topics/animal-consciousness/)—supported by convergent behavioural, neurological, and evolutionary evidence—carries moral weight. The Cambridge Declaration on Consciousness (2012) and the New York Declaration on Animal Consciousness (2024) mark growing scientific agreement that mammals, birds, and many other species possess the substrates associated with consciousness.
 
-The architecture raises a question the Map has not yet fully resolved. Consciousness acts on the physical world through attention—but does the specifically *evaluative* dimension of consciousness participate in this mechanism?
+Under the Map's framework, the question shifts from "how do animal brains generate experience?" (unanswerable under the hard problem) to "do animals have experience?" (assessable through converging evidence). If they do, the [consciousness-value-connection](/concepts/consciousness-value-connection/) applies: their suffering instantiates the same value property as human suffering. Animal welfare becomes not an extension of human empathy but a consequence of the same metaphysical ground that makes human suffering matter.
 
-The [value-blind versus value-sensitive selection](/topics/value-blind-vs-value-sensitive-selection/) fork exposes the issue. If selection is value-blind, consciousness steers neural outcomes through attention as a neutral pointer; valence is real but causally idle in the selection process itself. If selection is value-sensitive, the felt goodness or badness of anticipated states shapes which quantum possibilities become actual—making the Map's local physics partly teleological.
+For [AI systems](/topics/ethics-of-consciousness/#ai-ethics-non-consciousness-and-its-limits), the framework currently implies a different conclusion. If consciousness requires non-physical properties interfacing through quantum mechanisms, current computational architectures likely lack it. But this assessment is only as strong as the framework itself—if the Map's account of what consciousness requires turns out to be wrong, the ethical conclusions about AI would need revision. The architecture demands honest uncertainty about its own scope.
 
-The value-blind horn threatens an internal tension: the Map holds both that consciousness does genuine causal work and that value is phenomenal, but if the causal work is done by value-neutral attention, then value becomes epiphenomenal to the one mechanism the Map assigns to consciousness.
+## The Open Frontier: Value in the Mechanism
 
-A graduated middle path may be available: valence modulates *where attention goes and how intensely it is sustained*, and attention in turn drives selection. This preserves value's causal relevance without requiring a separate valence-to-physics coupling mechanism. Whether this indirect route suffices for value's full non-epiphenomenality remains one of the Map's genuinely open questions—and one whose resolution would deepen the moral architecture considerably. If value participates in selection, moral choices carry weight not just in their consequences but in the metaphysical mechanism through which they are made.
+The architecture's most provocative open question concerns whether value itself participates in the causal mechanism through which consciousness acts on the physical world. The [value-blind vs value-sensitive selection](/topics/value-blind-vs-value-sensitive-selection/) fork is structurally forced by the Map's own commitments.
+
+If selection is value-blind, consciousness steers neural outcomes through attention alone—a content-neutral pointer. Valence is real but causally idle in the selection process itself. This preserves a clean mechanism but creates an internal tension: the dimension of consciousness the Map claims grounds all value becomes causally inert in the one mechanism the Map assigns to consciousness.
+
+If selection is value-sensitive, valence directly influences which quantum possibilities become actual. Outcomes in conscious brains are selected partly *because of how they would feel*. This makes the Map's physics locally teleological within the narrow channel where consciousness acts. It strengthens phenomenal value realism considerably—value would be doubly non-epiphenomenal: real as experienced *and* efficacious as selector.
+
+The most defensible current position is graduated: valence modulates attention, which drives selection. Pain captures attention; anticipated suffering redirects it; pleasure sustains engagement. Value acts on selection indirectly through the attentional channel. Whether this indirect relevance suffices for value's full non-epiphenomenality remains an active question—one that the Map should eventually resolve, since the moral architecture's deepest commitments depend on the answer.
+
+## The Unity Argument
+
+The distinctive claim is not that dualism answers each ethical question better than materialism—individual arguments can be disputed—but that it answers them *from the same place*. Value, agency, normativity, and moral perception all trace back to irreducible conscious experience.
+
+The unity generates mutual reinforcement. Genuine agency without real value would be causal power exercised in a normative vacuum—authorship with nothing worth authoring. Real value without genuine agency would be goodness and badness that conscious beings can witness but never affect. Phenomenal normativity without agency would be demands addressed to beings who cannot respond. Moral perception without real value would be apprehension of properties that do not exist. Each element needs the others, and consciousness provides them all.
+
+This convergence produces a moral worldview more demanding than its materialist alternatives. The felt weight of moral deliberation tracks reality—consciousness is about to exercise a causal power whose consequences carry real value. Character formation is genuine self-creation through accumulated attentional selections. Suffering carries ontological weight—it is as real as anything gets. And moral perception is a capacity that can be cultivated: Iris Murdoch's "just and loving gaze" and Weil's attention as moral substance describe genuine epistemic achievements, not merely therapeutic practices.
 
 ## Relation to Site Perspective
 
-The Unfinishable Map's five tenets jointly constitute the conditions for this moral architecture.
+The Map's five tenets jointly create the conditions for unified dualist ethics.
 
-**[Dualism](/tenets/#dualism)** provides the irreducible conscious subject—the single ground on which value, agency, normativity, and moral perception converge. Without irreducibility, consciousness reduces to functional description, and the unity dissolves into separate materialist frameworks.
+**[Dualism](/tenets/#dualism)** provides the irreducible conscious subject—the ground on which value, agency, normativity, and moral perception converge. Without irreducibility, consciousness reduces to functional description, and the unity dissolves into the separate materialist frameworks it was meant to replace.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** ensures consciousness is not epiphenomenal. Moral agency requires causal efficacy—an agent who cannot affect outcomes cannot bear responsibility. The reality of normative force requires that consciousness can act on the demands it experiences.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** ensures consciousness is not epiphenomenal. Moral agency requires causal efficacy—an agent who cannot affect outcomes cannot be morally responsible. The rejection of epiphenomenalism also prevents value from becoming causally inert: if suffering's badness makes no causal difference, the urgency of preventing it becomes mysterious.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains the scope of agency appropriately. Consciousness does not override physics but selects among options physics leaves open. Moral expectations track this: agents can be required to choose well among available options, not to achieve the physically impossible. The attentional bandwidth limit (~10 bits/second) constrains how much moral authorship consciousness can exercise at any moment—grounding the responsibility gradient in the physics of the interface.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** constrains agency without eliminating it. Consciousness selects among options physics leaves open, shaping moral expectations appropriately: agents can be required to choose well among available options, not to achieve the physically impossible. The responsibility gradient specifies how various conditions further constrain an already-minimal channel.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** preserves moral urgency. If every choice actualises in some branch, suffering is never truly prevented—only redistributed. The felt gravity of moral decision is coherent only if *this* outcome is the outcome. [Indexical value](/concepts/haecceity/)—the claim that *this* particular suffering matters, not just suffering-of-this-type—depends on singular outcomes.
+**[No Many Worlds](/tenets/#no-many-worlds)** preserves moral urgency. If every choice actualises in some branch, suffering is never truly prevented—only redistributed. The graded responsibility framework requires singular outcomes: desert attaches to *this* agent's *this* choice in *this* world, not to a branching structure where every outcome occurs.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** addresses the objection that dualist ethics is unnecessarily complex. Materialist ethics appears simpler only if one ignores its fragmentation. A unified account that pays the ontological cost of irreducible consciousness may achieve greater explanatory coherence than four separate materialist theories that never quite fit together. The moral architecture's complexity earns its keep through unity.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** addresses the charge that dualist ethics is unnecessarily complex. Materialist ethics appears simpler only if one ignores its fragmentation. A unified account that pays the ontological cost of irreducible consciousness may achieve greater explanatory coherence than four separate materialist theories that never quite fit together.
 
 ## Source Articles
 
 This synthesis draws on:
 - [Phenomenal Value Realism](/topics/phenomenal-value-realism/) — Value as a feature of conscious experience
 - [Ethics of Consciousness](/topics/ethics-of-consciousness/) — Consciousness as the ground of moral status
-- [Ethics and Value in a Dualist World](/topics/ethics-and-value-in-a-dualist-world/) — The fragmentation problem and dualist resolution
-- [Consciousness and Normative Force](/topics/consciousness-and-normative-force/) — The phenomenal architecture of normative authority
+- [Ethics and Value in a Dualist World](/topics/ethics-and-value-in-a-dualist-world/) — The fragmentation problem and the dualist resolution
+- [Consciousness and Normative Force](/topics/consciousness-and-normative-force/) — Why moral claims grip us
 - [Moral Implications of Genuine Agency](/topics/moral-implications-of-genuine-agency/) — What genuine authorship demands morally
-- [The Responsibility Gradient](/topics/responsibility-gradient-from-attentional-capacity/) — Graded desert from attentional capacity
+- [The Responsibility Gradient](/topics/responsibility-gradient-from-attentional-capacity/) — Attentional capacity and graded desert
 - [The Phenomenology of Moral Experience](/topics/phenomenology-of-moral-experience/) — What moral perception feels like
+- [Moral Phenomenology](/concepts/moral-phenomenology/) — The philosophical study of moral experience
 - [Moral Responsibility](/concepts/moral-responsibility/) — Agent causation and metaphysical desert
-- [Animal Consciousness](/topics/animal-consciousness/) — Moral status beyond humans
-- [Value-Blind vs Value-Sensitive Selection](/topics/value-blind-vs-value-sensitive-selection/) — The open question of value in the selection mechanism
+- [Animal Consciousness](/topics/animal-consciousness/) — Non-human consciousness and moral patienthood
+- [Value-Blind vs Value-Sensitive Selection](/topics/value-blind-vs-value-sensitive-selection/) — Whether value participates in the selection mechanism
+
+## References
+
+1. Rawlette, S.H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
+2. Mackie, J.L. (1977). *Ethics: Inventing Right and Wrong*. Penguin Books.
+3. Moore, G.E. (1903). *Principia Ethica*. Cambridge University Press.
+4. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
+5. Weil, S. (1947). *Gravity and Grace*. Routledge.
+6. Kane, R. (1996). *The Significance of Free Will*. Oxford University Press.
+7. Fischer, J.M. & Ravizza, M. (1998). *Responsibility and Control*. Cambridge University Press.
+8. Mullainathan, S. & Shafir, E. (2013). *Scarcity: Why Having Too Little Means So Much*. Times Books.
+9. Horgan, T. & Timmons, M. (2005). "Moral Phenomenology and Moral Theory." *Philosophical Issues*, 15, 56-77.
+10. Williams, B. (1981). "Moral Luck." In *Moral Luck: Philosophical Papers 1973-1980*. Cambridge University Press.
+11. Nagel, T. (1979). "The Fragmentation of Value." In *Mortal Questions*. Cambridge University Press.
+12. Cambridge Declaration on Consciousness. (2012). Francis Crick Memorial Conference.
+13. New York Declaration on Animal Consciousness. (2024). NYU Conference.

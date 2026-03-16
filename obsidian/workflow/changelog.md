@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 09:17 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/moral-architecture-of-consciousness]]
+- **Mode**: Create
+- **Word count**: ~2750
+- **Sources**: 10 articles (phenomenal-value-realism, ethics-of-consciousness, ethics-and-value-in-a-dualist-world, consciousness-and-normative-force, moral-implications-of-genuine-agency, responsibility-gradient-from-attentional-capacity, phenomenology-of-moral-experience, moral-responsibility, animal-consciousness, value-blind-vs-value-sensitive-selection)
+- **Thesis**: If consciousness is irreducible and causally efficacious, it provides a unified moral architecture—grounding what has value, who bears responsibility, why moral claims bind, and how moral properties are perceived—that materialist ethics cannot achieve.
+
 ## 2026-03-16 09:03 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full survey of topics (103), concepts (173), tenets (1), apex (20), voids (100). Deep reading of 16 articles across topics/concepts plus 6 apex/voids articles.

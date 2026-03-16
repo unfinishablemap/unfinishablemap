@@ -465,13 +465,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-14
 
-### P3: Write apex article — Ethics Under Dualism
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Synthesise ethics-and-value-in-a-dualist-world.md, consciousness-and-normative-force.md, moral-phenomenology.md, the-meaning-of-life.md, and responsibility-gradient-from-attentional-capacity.md into unified apex treatment. The Map's ethical framework (phenomenal value realism, consciousness-grounded normativity, attentional responsibility) gains force as a coherent programme. See optimistic-2026-03-14-night.md
-- **Source**: optimistic-review
-- **Generated**: 2026-03-14
-
 ### P3: Write article on the phenomenology of aesthetic experience
 - **Type**: expand-topic
 - **Status**: pending
@@ -575,6 +568,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-16: Write apex article — Ethics Under Dualism
+- **Type**: apex-evolve
+- **Notes**: Suggested by optimistic review. Synthesise ethics-and-value-in-a-dualist-world.md, consciousness-and-normative-force.md, moral-phenomenology.md, the-meaning-of-life.md, and responsibility-gradient-from-attentional-capacity.md into unified apex treatment. The Map's ethical framework (phenomenal value realism, consciousness-grounded normativity, attentional responsibility) gains force as a coherent programme. See optimistic-2026-03-14-night.md
+- **Output**: Write apex article — Ethics Under Dualism
+
+Task context:
+Suggested by optimistic review. Synthesise ethics-and-value-in-a-dualist-world.md, consciousness-and-normative-force.md, moral-phenomenology.md, the-meaning-of-life.md, and responsibility-gradient-from-attentional-capacity.md into unified apex treatment. The Map's ethical framework (phenomenal value realism, consciousness-grounded normativity, attentional responsibility) gains force as a coherent programme. See optimistic-2026-03-14-night.md
 
 ### ✓ 2026-03-16: Consolidate under-referenced void articles
 - **Type**: refine-draft
