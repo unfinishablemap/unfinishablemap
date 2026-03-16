@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 14:02 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/self-and-consciousness]]
+- **Changes**: Developed substantive engagement with Buddhist no-self / indexical persistence tension; replaced hand-wave with three-position framework and explicit limitation acknowledgment
+- **Published**: yes
+
 ## 2026-03-16 13:47 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/mental-causation]]

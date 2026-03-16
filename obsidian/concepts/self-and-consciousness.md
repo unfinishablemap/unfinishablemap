@@ -4,7 +4,7 @@ description: "The minimal self is not added to consciousness but is its very for
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-12T03:53:00+00:00
+ai_modified: 2026-03-16T14:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -99,7 +99,19 @@ Does Buddhism deny the minimal self? This is disputed. Meditation aims to see th
 
 The Map's framework accommodates Buddhist insights through a key distinction: irreducibility and impermanence are logically independent. The minimal self, on this account, is not a persisting substance but the form each moment of consciousness takes—irreducible at each instant but not numerically identical across instants. Each moment of experience has its own for-me-ness; the question is whether anything *connects* these moments beyond causal continuity and memory.
 
-This creates a genuine tension the Map does not fully resolve. The article's claims about [[haecceity]] and indexical identity (in the No Many Worlds section) seem to require a self that is numerically *this one* over time, not merely a succession of qualitatively similar momentary selves. The candle flame analogy illustrates the difficulty: a flame is a process, and there is no "flame-stuff" persisting through the changes. If the minimal self is likewise momentary, what grounds the "thisness" the Map appeals to against Many Worlds? The Map's position is that this remains a hard problem—one that neither Buddhist impermanence nor substance-dualist persistence fully resolves—but the irreducibility of for-me-ness at each moment is the starting point, not the endpoint, of the analysis.
+This accommodation creates a genuine tension with the Map's reliance on [[haecceity]] and indexical identity elsewhere. The No Many Worlds tenet appeals to a self that is numerically *this one* over time—not merely a succession of qualitatively similar momentary selves. If the minimal self is momentary and irreducible only at each instant, what grounds the "thisness" that persists across instants?
+
+The candle flame analogy sharpens the difficulty. A flame is a process with no "flame-stuff" persisting through the changes. If the minimal self is likewise momentary, the Map's argument against Many Worlds—that a replica on another branch would not be *me*—seems to lose its footing, because there is no diachronic "me" to appeal to.
+
+The Map's response distinguishes three positions and rejects the first two:
+
+1. **Substance persistence** (classical dualism): A soul-substance endures unchanged through time. Buddhist analysis persuasively dismantles this—nothing in experience or argument requires an unchanging core.
+2. **Mere causal succession** (Buddhist reductionism): Only momentary states exist, linked by causal continuity. This dissolves numerical identity entirely, making the indexical "I" a convenient fiction.
+3. **Diachronic irreducibility** (the Map's position): The non-physical subject persists through qualitative change without being an unchanging substance. Just as a physical organism remains numerically the same entity while every cell is replaced, the conscious subject can remain numerically *this one* while its experiential character transforms. The dualist has a resource the physicalist lacks here: the non-physical subject is not constituted by its momentary properties and so is not destroyed by their change.
+
+This third option takes the Buddhist insight seriously—there is no fixed experiential core immune to change—while maintaining that qualitative impermanence does not entail numerical discontinuity. The minimal self at each moment is not a *new* self but the *same* self in a different state. What persists is not a property or pattern but the bare particular: the subject whose for-me-ness makes each moment *this* subject's experience.
+
+This position has a genuine limitation the Map acknowledges: it cannot fully explain *what constitutes* diachronic numerical identity for a non-physical subject. The claim is that such identity is primitive—not reducible to psychological continuity, memory, or causal chains—but a primitive is an unexplained posit, not a demonstration. The Map holds that this unexplained posit is less costly than the alternative: abandoning indexical identity and with it the intuition that *I* will wake up tomorrow rather than a qualitative duplicate taking my place.
 
 ## The Self and the Hard Problem
 
@@ -159,3 +171,16 @@ The filter theory interprets these findings coherently: the narrative self is co
 1. Sass, L.A. & Parnas, J. (2003). Schizophrenia, consciousness, and the self. *Schizophrenia Bulletin*, 29(3), 427-444.
 1. Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
+
+<!-- AI REFINEMENT LOG - 2026-03-16
+Changes made:
+- Replaced single paragraph dismissing Buddhist no-self / indexical persistence tension as "a hard problem" with substantive multi-paragraph engagement
+- Developed three-position framework (substance persistence, mere causal succession, diachronic irreducibility) with the Map defending the third
+- Added explicit acknowledgment of the position's limitation (primitive numerical identity is an unexplained posit)
+- Argued the unexplained posit is less costly than abandoning indexical identity
+
+Prompted by pessimistic review finding that the tension was identified but not substantively engaged.
+Key improvement: Buddhist No-Self section now actually argues for a position rather than deferring.
+
+This log should be removed after human review.
+-->
