@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-11 19:22:00+00:00
+ai_modified: 2026-03-16 08:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -54,7 +54,7 @@ The zombie argument proceeds in three steps:
 
 ## What Makes Zombies Conceivable
 
-The conceivability claim rests on the [explanatory gap](/concepts/explanatory-gap/). Physical descriptions—however complete—characterize structure and dynamics: how things are arranged, how they move, how information flows. But subjective experience has a qualitative character: there is *something it is like* to see red, taste coffee, feel pain. This qualitative character seems not to be entailed by any structural description.
+The conceivability claim rests on the [explanatory gap](/concepts/explanatory-gap/). Physical descriptions—however complete—characterize structure and dynamics: how things are arranged, how they move, how information flows. But subjective experience has a qualitative character: there is *something it is like* to see red, taste coffee, feel pain. This qualitative character seems not to be entailed by any structural description. The [the-surplus-void](/voids/the-surplus-void/) sharpens this: conscious experience is extravagantly over-specified, delivering phenomenal richness far beyond what any functional role requires. Every aspect of qualitative experience—the redness of red, the painfulness of pain—is surplus to function, which is precisely what zombie conceivability formalises.
 
 When we conceive of zombies, we are not merely failing to see some hidden necessity due to ignorance. We are positively grasping a coherent scenario: all the physics, none of the experience. The scenario contains no contradiction. The zombie brain processes information, responds to stimuli, produces behavior—all explainable in physical terms. The absence of accompanying experience doesn't make the physical story incoherent; it just makes it incomplete.
 

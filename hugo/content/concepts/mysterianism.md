@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-12 11:21:00+00:00
+ai_modified: 2026-03-16 08:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -88,7 +88,7 @@ This enriches the concept: cognitive closure is not only species-wide and fixed 
 
 Thomas Nagel anticipated mysterianism in his 1974 paper "What Is It Like to Be a Bat?" Understanding bat consciousness would require grasping what echolocation is *like* from the inside—but we cannot. Imagining hanging upside down or navigating by sound gives us *our* experiences wearing bat costumes.
 
-Nagel's broader point: objective scientific methods cannot capture subjective experience without loss. Understanding consciousness objectively requires abstracting away from viewpoints—but viewpoints are precisely what we're trying to understand. The gap is structural, not merely current ignorance.
+Nagel's broader point: objective scientific methods cannot capture subjective experience without loss. Understanding consciousness objectively requires abstracting away from viewpoints—but viewpoints are precisely what we're trying to understand. The gap is structural, not merely current ignorance. If we cannot grasp what it is like to be a bat—a creature on our own planet—the [mind-space-void](/voids/mind-space-void/) looms: we occupy a single point in the space of possible minds with no way to survey the landscape or even determine whether our form of consciousness is typical or exotic.
 
 ## Simple Minds and Complete Knowledge
 

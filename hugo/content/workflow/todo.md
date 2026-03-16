@@ -56,12 +56,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
-### P2: Fix phenomenology.md duplicate frontmatter and MWI argument
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found: (1) `temporal-consciousness` appears 3 times in concepts list—remove duplicates. (2) The No Many Worlds tenet argument is a non-sequitur—claiming the "minimal self is singular" doesn't engage with MWI's response that every branch-observer experiences singularity. Strengthen or soften the argument. See pessimistic-2026-03-16-morning.md Issues #3, #5.
-- **Generated**: 2026-03-16
-
 ### P3: Create concept page for token-level determination
 - **Type**: expand-topic
 - **Status**: pending
@@ -458,12 +452,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Consolidate recent advances in biological quantum effects (photosynthesis, magnetoreception, enzyme catalysis) as precedent for neural quantum effects. See optimistic-2026-03-13.md
 
-### P3: Deep review habituation-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 39 days ago. Voids article on how habituation creates cognitive blind spots where familiarity replaces genuine awareness. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-14
-
 ### P3: Write apex article on AI consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -475,13 +463,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The Map's ethical implications are distributed across 6+ articles (phenomenal-value-realism, phenomenal-normativity-environmental-ethics, ethics-of-consciousness, moral-implications-of-genuine-agency, responsibility-gradient-from-attentional-capacity) without a unifying apex synthesis. See optimistic-2026-03-14.md
-- **Source**: optimistic-review
-- **Generated**: 2026-03-14
-
-### P3: Consolidate under-referenced void articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. 8 void articles have fewer than 10 inbound references: mind-space-void, simulation-detection-void, spontaneous-thought-void, the-givenness-void, involuntariness-void, the-surplus-void, phenomenology-of-self-reference, reconstruction-paradox. Evaluate for consolidation or cross-promotion. See optimistic-2026-03-14.md
 - **Source**: optimistic-review
 - **Generated**: 2026-03-14
 
@@ -574,6 +555,25 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-16: Consolidate under-referenced void articles
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review. 8 void articles have fewer than 10 inbound references: mind-space-void, simulation-detection-void, spontaneous-thought-void, the-givenness-void, involuntariness-void, the-surplus-void, phenomenology-of-self-reference, reconstruction-paradox. Evaluate for consolidation or cross-promotion. See optimistic-2026-03-14.md
+- **Output**: Task context:
+Suggested by optimistic review. 8 void articles have fewer than 10 inbound references: mind-space-void, simulation-detection-void, spontaneous-thought-void, the-givenness-void, involuntariness-void, the-surplus-void, phenomenology-of-self-reference, reconstruction-paradox. Evaluate for consolidation or cross-promotion. See optimistic-2026-03-14.md
+
+### ✓ 2026-03-16: Deep review habituation-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 39 days ago. Voids article on how habituation creates cognitive blind spots where familiarity replaces genuine awareness. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/habituation-void.md
+
+### ✓ 2026-03-16: Fix phenomenology.md duplicate frontmatter and MWI argument
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) `temporal-consciousness` appears 3 times in concepts list—remove duplicates. (2) The No Many Worlds tenet argument is a non-sequitur—claiming the "minimal self is singular" doesn't engage with MWI's response that every branch-observer experiences singularity. Strengthen or soften the argument. See pessimistic-2026-03-16-morning.md Issues #3, #5.
+- **Output**: obsidian/concepts/phenomenology.md
+
+Task context:
+Pessimistic review found: (1) `temporal-consciousness` appears 3 times in concepts list—remove duplicates. (2) The No Many Worlds tenet argument is a non-sequitur—claiming the "minimal self is singular" doesn't engage with MWI's response that every branch-observer experiences singularity. Strengthen or soften the argument. See pessimistic-2026-03-16-morning.md Issues #3, #5.
 
 ### ✓ 2026-03-16: Restructure mental-effort.md to reduce Quantum Zeno overemphasis
 - **Type**: refine-draft

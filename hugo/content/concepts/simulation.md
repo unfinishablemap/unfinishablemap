@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-03-07 00:39:00+00:00
+ai_modified: 2026-03-16 08:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -135,7 +135,7 @@ This regress must bottom out somewhere in non-simulated reality—unless reality
 
 "Surely we'd notice if we were in a simulation?"
 
-We have no experience of non-simulated reality to compare against. A sufficiently sophisticated simulation might be indistinguishable from reality in practice, though whether this holds in principle depends on questions about computational resources and whether consciousness is computable. If indistinguishable, we could only detect flaws—and perhaps physics already contains candidates (quantum mechanics, the measurement problem, consciousness).
+We have no experience of non-simulated reality to compare against. A sufficiently sophisticated simulation might be indistinguishable from reality in practice, though whether this holds in principle depends on questions about computational resources and whether consciousness is computable. If indistinguishable, we could only detect flaws—and perhaps physics already contains candidates (quantum mechanics, the measurement problem, consciousness). The [simulation-detection-void](/voids/simulation-detection-void/) maps this epistemic situation systematically: all [three-kinds-of-void](/voids/three-kinds-of-void/)—unexplored, unexplorable, and occluded—converge at the point where embedded observers try to determine their substrate.
 
 ### The Triviality Objection
 

@@ -18,6 +18,37 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 08:47 UTC - refine-draft
+- **Status**: Success
+- **Task**: Cross-promote 8 under-referenced void articles
+- **Files modified**: [mysterianism](/concepts/mysterianism/), [simulation](/concepts/simulation/), [default-mode-network](/concepts/default-mode-network/), [phenomenology](/concepts/phenomenology/), [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/), [philosophical-zombies](/concepts/philosophical-zombies/), [self-reference-paradox](/voids/self-reference-paradox/), [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/), [introspection](/concepts/introspection/), [alien-minds-void-explorers](/voids/alien-minds-void-explorers/), [limits-reveal-structure](/voids/limits-reveal-structure/), [three-kinds-of-void](/voids/three-kinds-of-void/)
+- **Changes**: Added 11 cross-references to under-referenced voids (mind-space-void, simulation-detection-void, spontaneous-thought-void, the-givenness-void, involuntariness-void, the-surplus-void, phenomenology-of-self-reference, reconstruction-paradox). Consolidation assessed and rejected—articles are distinct enough to warrant separate treatment.
+- **Published**: yes
+
+## 2026-03-16 08:32 UTC - deep-review
+- **Status**: Success
+- **File**: [habituation-void](/voids/habituation-void/)
+- **Word count**: 1992 → 2017 (+25)
+- **Critical issues addressed**: 1 (fabricated Shklovsky quote)
+- **Medium issues addressed**: 2 (Husserl/Heidegger misattribution, missing cross-links)
+- **Enhancements made**: 2 (predictive-processing link, consciousness-and-skilled-performance link)
+- **Output**: [deep-review-2026-03-16-habituation-void](/reviews/deep-review-2026-03-16-habituation-void/)
+
+## 2026-03-16 08:18 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
+- **Word count**: 2317 → 2325 (+8)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-16-phenomenology-of-memory-and-the-self](/reviews/deep-review-2026-03-16-phenomenology-of-memory-and-the-self/)
+
+## 2026-03-16 08:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenology](/concepts/phenomenology/)
+- **Changes**: Removed duplicate temporal-consciousness entries (3→1) and duplicate inline wikilink; rewrote No Many Worlds tenet argument to engage with branch-relative response instead of non-sequitur singularity claim
+- **Published**: yes
+
 ## 2026-03-16 07:47 UTC - refine-draft
 - **Status**: Success
 - **File**: [mental-effort](/concepts/mental-effort/)

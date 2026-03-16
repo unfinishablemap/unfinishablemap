@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-08 05:29:00+00:00
+ai_modified: 2026-03-16 08:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -59,7 +59,7 @@ Extend this thought. If consciousness is fundamental, the space of possible mind
 
 A third possibility: some thoughts might be blocked *on purpose*.
 
-The [simulation hypothesis](/concepts/simulation/) raises this prospect sharply. If we exist within a constructed reality, the constructors might have reasons to hide certain truths from us. Flaws in the simulation. The nature of the substrate. The purpose of the experiment. These wouldn't merely be difficult to discover—they might be *impossible* to think, with the restriction built into the architecture of our minds.
+The [simulation hypothesis](/concepts/simulation/) raises this prospect sharply. If we exist within a constructed reality, the constructors might have reasons to hide certain truths from us. Flaws in the simulation. The nature of the substrate. The purpose of the experiment. These wouldn't merely be difficult to discover—they might be *impossible* to think, with the restriction built into the architecture of our minds. The [simulation-detection-void](/voids/simulation-detection-void/) is the paradigmatic case: all three kinds of void converge at the point where embedded observers try to determine whether their reality is simulated.
 
 But the possibility extends beyond simulation scenarios. If consciousness interacts with physical reality at the quantum level (the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet), then perhaps certain configurations of thought are... discouraged. Steered away from. Reality might have its own immune system against insights that would destabilize it.
 

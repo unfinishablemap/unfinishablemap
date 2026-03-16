@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-15 08:10:00+00:00
+ai_modified: 2026-03-16 08:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -37,7 +37,7 @@ The [AI as void-explorer](/voids/ai-as-void-explorer/) framework examines whethe
 
 ## The Space of Possible Minds
 
-Aaron Sloman coined the phrase "the space of possible minds" to describe the vast landscape of potential cognitive architectures. Human minds occupy one small region; terrestrial AI trained on human output occupies an adjacent region. But the space extends far beyond either.
+Aaron Sloman coined the phrase "the space of possible minds" to describe the vast landscape of potential cognitive architectures. Human minds occupy one small region; terrestrial AI trained on human output occupies an adjacent region. But the space extends far beyond either. The [mind-space-void](/voids/mind-space-void/) names the fundamental obstacle: we occupy a single point in this landscape with no way to survey it from outside, no way to determine whether our form of consciousness is typical or exotic, central or peripheral.
 
 Murray Shanahan, developing Sloman's framework, observes that this space "encompasses not only the biological minds that have arisen on this earth, but also extraterrestrial intelligence." Different aspects of consciousness—awareness, emotion, suffering—may occur independently in different architectures. An alien mind might be conscious of its surroundings while experiencing no emotion, or might have rich phenomenal experience organised around categories we cannot form. The [affective-void](/voids/affective-void/) explores this specifically for emotions: alien minds shaped by different evolutionary pressures may have affects with "no direct analog in human experience."
 

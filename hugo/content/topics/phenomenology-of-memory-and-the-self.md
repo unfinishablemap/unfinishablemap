@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-03-11 06:32:00+00:00
+ai_modified: 2026-03-16 08:18:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Remembering is not retrieving stored data but re-inhabiting a persp
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-15 17:19:00+00:00
+last_deep_review: 2026-03-16 08:18:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -74,7 +74,7 @@ The same process that builds the self threatens it. Memory's reconstructive natu
 
 **The constructive turn in memory science**: Schacter and Addis's constructive episodic simulation hypothesis holds that episodic memory and episodic future thinking share a common constructive system. (Schacter and Addis emphasize the adaptive advantages of this arrangement—flexible recombination serves future planning. The existential implications are the Map's own reading.) Remembering the past uses the same neural machinery as imagining the future—both involve flexibly recombining elements into coherent scenes. This means memories are not preserved recordings but present constructions assembled from stored fragments. Each retrieval modifies the trace, incorporating current emotional states and intervening experiences.
 
-The phenomenological consequence is unsettling. If every memory is a reconstruction, then the past self encountered in remembering is partly a creation of the present self. The "double presence" of autonoetic recall involves a present self and a *constructed* past self—not the past self as it actually was. The [past-self-void](/voids/past-self-void/) identifies this gap: the original experience is structurally irrecoverable. What persists in memory is propositional content (the *that* of what happened) but not phenomenal content (*what it was like*).
+The phenomenological consequence is unsettling. If every memory is a reconstruction, then the past self encountered in remembering is partly a creation of the present self. The "double presence" of autonoetic recall involves a present self and a *constructed* past self—not the past self as it actually was. The [past-self-void](/voids/past-self-void/) identifies this gap: the original experience is structurally irrecoverable. What persists reliably is propositional content (the *that* of what happened), while phenomenal content (*what it was like*) survives only as fragmentary traces that reconstruction fills and reshapes.
 
 **Identity distortion**: Memory's selectivity means some experiences are preserved and others lost. The resulting self-narrative is shaped by availability bias, emotional salience, and retrieval practice. Traumatic memories may dominate the narrative, not because they are objectively more significant but because they are more retrievable. Conversely, gradual positive changes may leave no discrete memorable episodes, rendering them invisible to autobiographical reflection. The self that memory constructs is systematically biased by the architecture of encoding and retrieval.
 
