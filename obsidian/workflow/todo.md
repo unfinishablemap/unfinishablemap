@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Research bi-aspectual ontology and dual-aspect traditions
-- **Type**: research-topic
-- **Notes**: The apex "What Consciousness Tells Us About Physics" claims reality has two aspects: structure (wavefunction) and actuality (consciousness). Research the philosophical landscape. Key targets: (1) Spinoza's dual-aspect monism — how does the Map's view differ? Spinoza's aspects are of one substance; the Map commits to genuine dualism. (2) Pauli-Jung dual-aspect monism — psychophysical complementarity, unus mundus. (3) Chalmers' naturalistic dualism and the "structure and dynamics" argument from The Conscious Mind. (4) Nagel's Mind and Cosmos — physics incomplete without consciousness. (5) Russellian monism — physical structure is extrinsic, consciousness is intrinsic nature. How does "partial but complete physics" differ from "physics describes extrinsic structure"? Crucial positioning work. Target: research note.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P1: Research the Born rule — derivation attempts and their limits
 - **Type**: research-topic
 - **Notes**: The apex claims the Born rule is an interface specification not derivable from physics alone. Research major derivation attempts and their structural limits: (1) Gleason's theorem — assumptions, does it presuppose measurement? (2) Deutsch-Wallace decision-theoretic derivation within MWI — circularity objections. (3) Zurek's envariance — presupposes Born probabilities via decoherence? (4) Caves-Fuchs-Schack (QBism) from Dutch-book coherence — what does it prove? (5) Masanes-Müller information-theoretic axioms. (6) Saunders on probability in MWI. For each: what achieved, what assumed, does it address the first-person probability gap from quantum-probability-consciousness? Directly supports the apex's core claim. Target: research note.
@@ -646,6 +640,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-16: Research bi-aspectual ontology and dual-aspect traditions
+- **Type**: research-topic
+- **Notes**: The apex "What Consciousness Tells Us About Physics" claims reality has two aspects: structure (wavefunction) and actuality (consciousness). Research the philosophical landscape. Key targets: (1) Spinoza's dual-aspect monism — how does the Map's view differ? Spinoza's aspects are of one substance; the Map commits to genuine dualism. (2) Pauli-Jung dual-aspect monism — psychophysical complementarity, unus mundus. (3) Chalmers' naturalistic dualism and the "structure and dynamics" argument from The Conscious Mind. (4) Nagel's Mind and Cosmos — physics incomplete without consciousness. (5) Russellian monism — physical structure is extrinsic, consciousness is intrinsic nature. How does "partial but complete physics" differ from "physics describes extrinsic structure"? Crucial positioning work. Target: research note.
+- **Output**: bi-aspectual ontology and dual-aspect traditions
 
 ### ✓ 2026-03-16: Research retrocausal selection model for consciousness-physics interaction
 - **Type**: research-topic

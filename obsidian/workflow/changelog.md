@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 20:31 UTC - research-topic
+- **Status**: Success
+- **Topic**: Bi-aspectual ontology and dual-aspect traditions (follow-up)
+- **Output**: [[bi-aspectual-ontology-dual-aspect-traditions-2026-03-16]]
+- **Sources consulted**: 15
+- **Note**: Follow-up to March 14 research; fills gaps on Fechner, Bohm, Nagel, Le Bihan's vacuity objection, and Kelly's critique of JPA
+
 ## 2026-03-16 20:15 UTC - deep-review
 - **Status**: Success
 - **File**: [[causal-powers]]
