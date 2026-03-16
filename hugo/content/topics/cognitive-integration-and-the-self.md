@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-03-16 12:48:00+00:00
+ai_modified: 2026-03-16 15:17:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -75,7 +75,7 @@ Key features:
 - **Necessary**: Cannot be absent while consciousness persists
 - **Non-narrative**: Does not depend on autobiographical stories
 
-The minimal self is disclosed through phenomenological attention to experience itself—an essential feature of every experience, given in first-personal mode rather than observed from outside.
+The [self and consciousness](/concepts/self-and-consciousness/) article develops the minimal self's philosophical significance in depth—arguing that for-me-ness is not added to consciousness but is its very form, and engaging with Buddhist no-self, Metzinger's eliminativism, and the hard problem. The minimal self is disclosed through phenomenological attention to experience itself—an essential feature of every experience, given in first-personal mode rather than observed from outside.
 
 ### The Narrative Self
 

@@ -66,7 +66,7 @@ This last feature is philosophically significant. Belief revision often has a pa
 
 ## Reorganisation and the New Coherence
 
-After rupture comes reorganisation. The new belief does not simply slot into the old framework—it restructures neighbouring beliefs, reweights evidence, and generates a new pattern of coherence. This reorganisation has its own phenomenology, closely related to what the Map explores as the [phenomenology of understanding](/topics/phenomenology-of-understanding/).
+After rupture comes reorganisation. The new belief does not simply slot into the old framework—it restructures neighbouring beliefs, reweights evidence, and generates a new pattern of coherence. This reorganisation has its own phenomenology, closely related to what the Map explores as the [phenomenology of understanding](/topics/phenomenology-of-understanding-and-meaning/).
 
 The experience of reorganisation typically involves:
 
@@ -111,7 +111,7 @@ The bootstrap problem for belief revision also connects to the Map's [tenet on O
 ## Further Reading
 
 - [phenomenology-of-evidence-assessment](/topics/phenomenology-of-epistemic-judgment/)
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/)
+- [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
 - [phenomenology-of-error-recognition](/voids/phenomenology-of-error-recognition/)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)

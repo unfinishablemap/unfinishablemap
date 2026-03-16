@@ -47,7 +47,7 @@ This matters for the philosophy of mind because epistemic achievement sits at th
 
 ### From Inquiry to Resolution
 
-Epistemic achievement has a temporal arc. It begins with a state of not-knowing—puzzlement, curiosity, or active inquiry—and terminates in a state that feels qualitatively different: settled knowledge. This arc is not merely the accumulation of evidence (explored in [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-cognition/)) or the click of comprehension (explored in [phenomenology-of-understanding](/topics/phenomenology-of-understanding/)). It is the experience of *having arrived*—the sense that inquiry on this question is complete because you now possess something epistemically secure.
+Epistemic achievement has a temporal arc. It begins with a state of not-knowing—puzzlement, curiosity, or active inquiry—and terminates in a state that feels qualitatively different: settled knowledge. This arc is not merely the accumulation of evidence (explored in [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-cognition/)) or the click of comprehension (explored in [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)). It is the experience of *having arrived*—the sense that inquiry on this question is complete because you now possess something epistemically secure.
 
 The transition has characteristic features:
 
@@ -139,7 +139,7 @@ The Unfinishable Map's [tenets](/tenets/) illuminate this topic from several dir
 
 ## Further Reading
 
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/)
+- [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
 - [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-cognition/)
 - [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-cognition/)

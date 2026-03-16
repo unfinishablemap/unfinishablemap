@@ -32,7 +32,7 @@ None. The article contains no factual errors, misattributions, internal contradi
 
 - **Functionalist objection unaddressed**: The article assumed understanding is phenomenal without engaging the functionalist response that understanding is purely functional/computational. **Resolution**: Added a paragraph in the reflexive gap section acknowledging the functionalist response and explaining why the reflexive gap re-emerges even on functional accounts — the question of what makes processing *explanatory* rather than merely computational leads back to phenomenal character.
 
-- **Missing cross-links**: The article lacked connections to closely related content. **Resolution**: Added cross-links to [argument-from-reason](/topics/argument-from-reason/) (parallel self-referential argument structure), [cognitive-phenomenology](/concepts/cognitive-phenomenology/) (whether understanding has irreducible phenomenal character), and [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) (detailed treatment of comprehension as phenomenal).
+- **Missing cross-links**: The article lacked connections to closely related content. **Resolution**: Added cross-links to [argument-from-reason](/topics/argument-from-reason/) (parallel self-referential argument structure), [cognitive-phenomenology](/concepts/cognitive-phenomenology/) (whether understanding has irreducible phenomenal character), and [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) (detailed treatment of comprehension as phenomenal).
 
 ### Counterarguments Considered
 
@@ -72,7 +72,7 @@ None. The article contains no factual errors, misattributions, internal contradi
 
 - [argument-from-reason](/topics/argument-from-reason/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/)
+- [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)
 
 ## Remaining Items
 

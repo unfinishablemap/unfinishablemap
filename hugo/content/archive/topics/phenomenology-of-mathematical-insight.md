@@ -130,7 +130,7 @@ Several features of mathematical phenomenology converge on the same conclusion: 
 - [mathematical-void](/voids/mathematical-void/) — Cognitive limits on mathematical comprehension
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why beauty in mathematics matters philosophically
 - [aesthetic-irreducibility-arguments](/topics/aesthetic-irreducibility-arguments/) — Mathematical beauty as the strongest case of substrate-independent aesthetic experience
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — The felt difference between verification and comprehension
+- [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) — The felt difference between verification and comprehension
 - [argument-from-reason](/topics/argument-from-reason/) — Why reasoning itself implies consciousness
 
 ## References

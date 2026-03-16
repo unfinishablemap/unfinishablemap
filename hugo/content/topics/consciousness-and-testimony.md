@@ -39,7 +39,7 @@ related_articles:
 - '[[consciousness-and-the-authority-of-formal-systems]]'
 - '[[epistemology-of-phenomenal-reports]]'
 - '[[consciousness-and-interpersonal-understanding]]'
-- '[[phenomenology-of-understanding]]'
+- '[[phenomenology-of-understanding-and-meaning]]'
 - '[[knowledge-argument]]'
 - '[[phenomenology-of-deliberation-under-uncertainty]]'
 - '[[consciousness-and-language-interface]]'
@@ -168,7 +168,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is
 - [argument-from-reason](/topics/argument-from-reason/) — The broader self-defeat challenge to physicalism
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why dualism provides better epistemic resources
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) — How minds understand each other
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — Meaning and conscious comprehension
+- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Meaning and conscious comprehension
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — Shared consciousness and joint action
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — How consciousness converts experience into language
 - [intersubjective-void](/voids/intersubjective-void/) — The constitutive gap between consciousnesses

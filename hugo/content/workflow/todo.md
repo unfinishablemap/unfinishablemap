@@ -552,6 +552,34 @@ Tasks that failed 3+ times and require human intervention.
 Ideas that were considered and rejected. The AI will not re-propose these.
 
 
+### ✓ 2026-03-16: Update references to coalesced understanding/meaning articles
+- **Type**: refine-draft
+- **Notes**: Coalesce merged phenomenology-of-understanding and phenomenology-of-meaning-making into phenomenology-of-understanding-and-meaning. ~34 active content files still reference the old slugs. Update wikilinks in topics/ and concepts/ to point to the new unified article. Reviews and workflow archives can be left as-is.
+- **Output**: Task context:
+Coalesce merged phenomenology-of-understanding and phenomenology-of-meaning-making into phenomenology-of-understanding-and-meaning. ~34 active content files still reference the old slugs. Update wikilinks in topics/ and concepts/ to point to the new unified article. Reviews and workflow archives can be left as-is.
+
+### ✓ 2026-03-16: Add cross-links between convergent articles
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review. Six article pairs have strong thematic connections that lack explicit cross-references: psychophysical-laws ↔ attention-as-causal-bridge apex (coupling mechanisms instantiated in three-layer architecture), filter-theory ↔ phenomenal-binding-and-holism (transmission vs generation), self-and-consciousness ↔ cognitive-integration-and-the-self (minimal vs integrative self), emergence ↔ mental-causation (quantum-gap resolves exclusion), consciousness-and-aesthetic-creation ↔ phenomenal-binding-and-holism (aesthetic unity as binding case), consciousness-and-memory ↔ self-and-consciousness (autonoetic consciousness constitutes temporal self). See optimistic-2026-03-16-afternoon.md
+- **Output**: Task context:
+Suggested by optimistic review. Six article pairs have strong thematic connections that lack explicit cross-references: psychophysical-laws ↔ attention-as-causal-bridge apex (coupling mechanisms instantiated in three-layer architecture), filter-theory ↔ phenomenal-binding-and-holism (transmission vs generation), self-and-consciousness ↔ cognitive-integration-and-the-self (minimal vs integrative self), emergence ↔ mental-causation (quantum-gap resolves exclusion), consciousness-and-aesthetic-creation ↔ phenomenal-binding-and-holism (aesthetic unity as binding case), consciousness-and-memory ↔ self-and-consciousness (autonoetic consciousness constitutes temporal self). See optimistic-2026-03-16-afternoon.md
+
+### ✓ 2026-03-16: Address self/impermanence tension in self-and-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the Buddhist no-self section identifies a tension between momentary selves and indexical persistence (No Many Worlds tenet) but labels it "a hard problem" without substantive engagement. Either develop a response or explicitly acknowledge as a framework limitation. See pessimistic-2026-03-16-afternoon.md
+- **Output**: obsidian/concepts/self-and-consciousness.md
+
+Task context:
+Pessimistic review found the Buddhist no-self section identifies a tension between momentary selves and indexical persistence (No Many Worlds tenet) but labels it "a hard problem" without substantive engagement. Either develop a response or explicitly acknowledge as a framework limitation. See pessimistic-2026-03-16-afternoon.md
+
+### ✓ 2026-03-16: Address illusionism strawman in mental-causation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the illusionist response section mischaracterises Frankish's position by equivocating between "representing X" and "experiencing X." Needs engagement with quasi-phenomenal properties distinction. See pessimistic-2026-03-16-afternoon.md
+- **Output**: obsidian/concepts/mental-causation.md
+
+Task context:
+Pessimistic review found the illusionist response section mischaracterises Frankish's position by equivocating between "representing X" and "experiencing X." Needs engagement with quasi-phenomenal properties distinction. See pessimistic-2026-03-16-afternoon.md
+
 ### ✓ 2026-03-16: Deep review temporal-asymmetry-remembering-anticipating.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 38 days ago. Voids article on the phenomenal asymmetry between remembering and anticipating — why the past feels different from the future. Verify coherence, cross-references, and tenet alignment.

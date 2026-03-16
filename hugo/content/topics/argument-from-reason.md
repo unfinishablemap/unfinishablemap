@@ -31,7 +31,7 @@ related_articles:
 - '[[agent-causation]]'
 - '[[bidirectional-interaction]]'
 - '[[objectivity-and-consciousness]]'
-- '[[phenomenology-of-understanding]]'
+- '[[phenomenology-of-understanding-and-meaning]]'
 - '[[introspection]]'
 title: The Argument from Reason
 topics:
@@ -81,7 +81,7 @@ The argument from reason focuses on rationality rather than phenomenology, but c
 
 Physical systems can instantiate correlations (this neural pattern regularly co-occurs with this environmental feature). But correlation isn't representation, and co-occurrence isn't aboutness. For a system to genuinely *reason*, it must recognize logical relationships as such—seeing that the conclusion follows *because* the premises entail it, not merely that the conclusion regularly occurs when the premises do.
 
-This "seeing as" requires [phenomenal-consciousness](/concepts/phenomenal-consciousness/): the subjective awareness of reasons *qua* reasons. The [phenomenal intentionality thesis](/concepts/intentionality/#phenomenal-intentionality-theory) sharpens this point: genuine [intentionality](/concepts/intentionality/)—the "aboutness" of mental states—derives from phenomenal consciousness. Recognizing that premises *entail* a conclusion is itself a form of intentional directedness, and if intentionality requires phenomenal character, then grasping logical relationships cannot be a purely physical achievement. An entirely unconscious system might implement reliable truth-tracking mechanisms (as a thermostat reliably tracks temperature), but it couldn't engage in rational inference—appreciating *why* the conclusion follows, recognizing *good* reasons as good. [Cognitive phenomenology](/concepts/cognitive-phenomenology/) provides the experiential evidence: [understanding has irreducible phenomenal character](/topics/phenomenology-of-understanding/) beyond sensory accompaniments, and this character is what distinguishes genuine comprehension from mere pattern-matching.
+This "seeing as" requires [phenomenal-consciousness](/concepts/phenomenal-consciousness/): the subjective awareness of reasons *qua* reasons. The [phenomenal intentionality thesis](/concepts/intentionality/#phenomenal-intentionality-theory) sharpens this point: genuine [intentionality](/concepts/intentionality/)—the "aboutness" of mental states—derives from phenomenal consciousness. Recognizing that premises *entail* a conclusion is itself a form of intentional directedness, and if intentionality requires phenomenal character, then grasping logical relationships cannot be a purely physical achievement. An entirely unconscious system might implement reliable truth-tracking mechanisms (as a thermostat reliably tracks temperature), but it couldn't engage in rational inference—appreciating *why* the conclusion follows, recognizing *good* reasons as good. [Cognitive phenomenology](/concepts/cognitive-phenomenology/) provides the experiential evidence: [understanding has irreducible phenomenal character](/topics/phenomenology-of-understanding-and-meaning/) beyond sensory accompaniments, and this character is what distinguishes genuine comprehension from mere pattern-matching.
 
 This connects to Thomas Nagel's analysis in [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/): objective knowledge requires a subject capable of distinguishing how things appear from how they are. But that very distinction presupposes phenomenal consciousness—the capacity to recognize that appearances can mislead. The argument from reason shows this capacity has causal efficacy: our reasoning *about* the objective/subjective distinction influences what we believe. If consciousness were epiphenomenal, the coincidence between what's logically warranted and what we believe would be inexplicable.
 
@@ -153,7 +153,7 @@ The physicalist might respond: "What's the difference? If the outputs match corr
 - [mysterianism](/concepts/mysterianism/) - Whether the mechanism of normative awareness may exceed our comprehension
 - [intentionality](/concepts/intentionality/) - Why genuine aboutness requires phenomenal consciousness (phenomenal intentionality thesis)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) - The irreducible phenomenal character of understanding and reasoning
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) - The felt character of comprehension, inference, and meaning integration
+- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) - The felt character of comprehension, inference, and meaning integration
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) - Nagel's analysis of how subjectivity enables objectivity
 - [introspection](/concepts/introspection/) - The reliability of self-knowledge and its connection to self-stultification
 - [motor-selection](/concepts/motor-selection/) - How attention selects among motor possibilities, paralleling intellectual selection

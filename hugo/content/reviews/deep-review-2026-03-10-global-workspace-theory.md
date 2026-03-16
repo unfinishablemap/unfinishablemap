@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink**: `[consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)` in Further Reading — file was archived and superseded by `phenomenology-of-understanding`. **Resolution**: Updated link to `[phenomenology-of-understanding](/topics/phenomenology-of-understanding/)`.
+- **Broken wikilink**: `[consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)` in Further Reading — file was archived and superseded by `phenomenology-of-understanding`. **Resolution**: Updated link to `[phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)`.
 - **Duplicate frontmatter entry**: `[metacognition](/concepts/metacognition/)` appeared twice in the `concepts` list. **Resolution**: Removed duplicate.
 
 ### Medium Issues Found
@@ -55,7 +55,7 @@ topics: []
 - Improved description for better search/social presentation
 
 ### Cross-links Added
-- Updated `[consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)` → `[phenomenology-of-understanding](/topics/phenomenology-of-understanding/)` (replacement article)
+- Updated `[consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)` → `[phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)` (replacement article)
 
 ## Remaining Items
 

@@ -118,7 +118,7 @@ The phenomenology of creative problem-solving supports several of the Map's [ten
 - [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/)
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/)
+- [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/)
 - [agent-causation](/concepts/agent-causation/)
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/)

@@ -133,7 +133,7 @@ This claim invites an obvious objection: if consciousness is the ground of expla
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room: physical knowledge without experiential understanding
 - [illusionism](/concepts/illusionism/) — The strongest physicalist response to the explanatory gap
 - [consciousness-and-the-meta-problem-of-scientific-explanation](/topics/consciousness-and-the-limits-of-explanation/) — Why science cannot explain why it explains anything
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — The phenomenal character of comprehension that explanation presupposes
+- [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) — The phenomenal character of comprehension that explanation presupposes
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has phenomenal character
 - [argument-from-reason](/topics/argument-from-reason/) — A parallel self-referential argument against physicalism
 - [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) — The Galilean exclusion that created science's blind spot

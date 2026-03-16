@@ -54,7 +54,7 @@ No new counterarguments emerged.
 None needed. Since the last review, other articles' reviews added valuable cross-links:
 - [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-cognition/) (doubt and belief revision)
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) (theoretical vertigo)
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) (three modes of insight)
+- [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) (three modes of insight)
 
 These cross-links were verified for accuracy.
 

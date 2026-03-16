@@ -36,7 +36,7 @@ related_articles:
 - '[[mathematical-void]]'
 - '[[argument-from-reason]]'
 - '[[epistemic-advantages-of-dualism]]'
-- '[[phenomenology-of-understanding]]'
+- '[[phenomenology-of-understanding-and-meaning]]'
 - '[[aesthetic-irreducibility-arguments]]'
 - '[[phenomenology-of-creative-insight]]'
 - '[[phenomenology-of-intellectual-effort]]'
@@ -147,7 +147,7 @@ These limits are themselves informative. They suggest consciousness accesses mat
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Broader epistemic benefits of the dualist framework
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The case for phenomenal character in thinking
 - [aesthetic-irreducibility-arguments](/topics/aesthetic-irreducibility-arguments/) — Mathematical beauty as substrate-independent aesthetic experience
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — The felt difference between verification and comprehension
+- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The felt difference between verification and comprehension
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — The general phenomenology of creative insight across domains
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Why understanding may require phenomenal awareness
 

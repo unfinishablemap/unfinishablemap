@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-03-03 15:41:00+00:00
-ai_system: claude-sonnet-4-5-20250929
+ai_modified: 2026-03-16 15:17:00+00:00
+ai_system: claude-opus-4-6
 author: null
 coalesced_from:
 - /concepts/phenomenal-unity/
@@ -31,7 +31,7 @@ description: Why conscious experience comes as unified wholes rather than separa
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-15 12:04:00+00:00
+last_deep_review: 2026-03-16 14:18:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -63,7 +63,7 @@ Most neuroscience research targets BP1. But BP2 persists because phenomenal unit
 
 ## Conjoint Phenomenology
 
-When you experience seeing-and-hearing-simultaneously, there is "something it is like" to have both experiences together that goes beyond having each separately. Bayne and Chalmers call this **conjoint phenomenology**—a phenomenology of simultaneity that subsumes the individual phenomenologies. The unified experience has a phenomenal character of its own, not reducible to the sum of its components. This is what makes phenomenal binding distinct from mere co-occurrence: the whole of experience is qualitatively different from its parts.
+When you experience seeing-and-hearing-simultaneously, there is "something it is like" to have both experiences together that goes beyond having each separately. Bayne and Chalmers call this **conjoint phenomenology**—a phenomenology of simultaneity that subsumes the individual phenomenologies. The unified experience has a phenomenal character of its own, not reducible to the sum of its components. This is what makes phenomenal binding distinct from mere co-occurrence: the whole of experience is qualitatively different from its parts. [Aesthetic creation](/topics/consciousness-and-aesthetic-creation/) provides a vivid case: the artist holding an accumulating work in phenomenal awareness—sensing how each addition shifts the whole—exemplifies binding in action, where the unified phenomenal field actively guides material production.
 
 Cross-modal binding makes this gap vivid. Different sensory modalities process information in spatially separate cortical regions at different speeds (vision ~50ms, audition ~10ms, touch ~15ms), using different neural codes. Yet when these modalities refer to the same external event, you experience phenomenal simultaneity and unity—a single multimodal percept, not three separate experiences you then combine. The gap between neural integration mechanisms and phenomenal unity reveals BP2 in its starkest form.
 
@@ -75,9 +75,9 @@ Neuroscience has identified mechanisms that address BP1: gamma-band synchrony ta
 
 Classical physics describes reality as fundamentally separate particles interacting through local forces. All large-scale phenomena reduce to arrangements of parts—there are no genuine wholes, only coordinated pluralities. This creates a structural mismatch with phenomenal unity. Experience comes as irreducible wholes: the redness of the apple and its shape are aspects of one unified experience from the start, not separate quale-atoms assembled after the fact.
 
-A symphony orchestra coordinates hundreds of instruments with exquisite precision. Yet the instruments remain separate, making separate sounds that happen to be coordinated. If the coordination itself creates genuine unity rather than merely correlated plurality, then the orchestra analogy supports the functionalist. If it doesn't—if something more than coordination is needed—then the analogy illustrates exactly what classical binding lacks. The Map holds the latter: coordination is not identity. No matter how tightly synchronized, two events remain two events.
+A symphony orchestra coordinates hundreds of instruments with exquisite precision. Yet the instruments remain separate, making separate sounds that happen to be coordinated. If the coordination itself creates genuine unity rather than merely correlated plurality, then the orchestra analogy supports the functionalist. If it doesn't—if something more than coordination is needed—then the analogy illustrates exactly what classical binding lacks. The Map holds the latter: coordination is not identity. No matter how tightly synchronized, two events remain two events. [Filter theory](/concepts/filter-theory/) draws the same conclusion from a different angle: if the brain transmits rather than generates consciousness, phenomenal unity originates in consciousness itself, not in neural coordination. The binding problem becomes a question about what the brain's interface constrains, not what it creates.
 
-For the full philosophical argument that this failure is in principle, not merely a gap in current knowledge, see [Why Phenomenal Unity Resists Physical Explanation](/topics/quantum-holism-and-phenomenal-unity/).
+For the full philosophical argument that this failure is in principle, not merely a gap in current knowledge, see [Quantum Holism and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/).
 
 ### The Zero-Lag Synchrony Problem
 
@@ -127,7 +127,7 @@ The quantum unity hypothesis makes testable commitments. It would be undermined 
 
 ## Evidence from Disrupted Unity
 
-Cases where unity breaks down reveal what unity requires. [Split-brain patients](/topics/split-brain-consciousness/) show that even complete callosal disconnection produces partial rather than total division—Nagel's "too much unity to say 'two', yet too much separation to say 'one'"—suggesting mechanisms beyond local neural correlation (Pinto et al., 2025). General anesthesia and dreamless sleep dissociate computational from phenomenal binding: the brain coordinates without producing unified experience. Research on [organisms at consciousness boundaries](/concepts/minimal-consciousness/) (Hydra, C. elegans, slime molds) shows classical integration in systems that lack behavioral markers of unified consciousness, consistent with phenomenal unity requiring something beyond information integration.
+Cases where unity breaks down reveal what unity requires. [Split-brain patients](/topics/split-brain-consciousness/) show that even complete callosal disconnection produces partial rather than total division—what Nagel (1971) described as too much unity to say there are two minds, yet too much separation to say there is one—suggesting mechanisms beyond local neural correlation (Pinto et al., 2025). General anesthesia and dreamless sleep dissociate computational from phenomenal binding: the brain coordinates without producing unified experience. Research on [organisms at consciousness boundaries](/concepts/minimal-consciousness/) (Hydra, C. elegans, slime molds) shows classical integration in systems that lack behavioral markers of unified consciousness, consistent with phenomenal unity requiring something beyond information integration.
 
 ## Relation to Site Perspective
 
@@ -151,6 +151,8 @@ Phenomenal binding illuminates why the Map's [tenets](/tenets/) take the positio
 - [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) — Experimental support for quantum binding mechanisms
 - [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — Cross-modal binding as the hardest case: temporal recalibration, inverse effectiveness, and the phenomenology of place
 - [perception-and-conscious-experience](/topics/perception-and-conscious-experience/) — Perceptual experience as the paradigm case of binding, including cross-modal unity
+- [filter-theory](/concepts/filter-theory/) — If the brain transmits rather than generates consciousness, unity is intrinsic to what is transmitted
+- [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/) — Aesthetic creation as a demanding case of phenomenal binding across temporal development
 - [binding-problem](/concepts/binding-problem/) — The neural challenge and historical formulation
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-quantum interface

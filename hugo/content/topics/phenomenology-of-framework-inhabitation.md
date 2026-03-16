@@ -36,7 +36,7 @@ related_articles:
 - '[[duhem-quine-underdetermination-consciousness]]'
 - '[[phenomenology-of-intellectual-courage]]'
 - '[[phenomenology-of-intellectual-effort]]'
-- '[[phenomenology-of-understanding]]'
+- '[[phenomenology-of-understanding-and-meaning]]'
 - '[[phenomenology-of-philosophical-disagreement]]'
 - '[[epistemological-limits-occams-razor]]'
 - '[[argument-from-reason]]'
@@ -185,7 +185,7 @@ The Map's analysis also resonates with [mysterianism](/concepts/mysterianism/). 
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — The felt weight of evidence under evaluation
 - [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/) — Holding position when frameworks clash
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The work of reasoning within a framework
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — What it is like when the framework delivers comprehension
+- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — What it is like when the framework delivers comprehension
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why simplicity is framework-relative
 - [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/) — Underdetermination as the structural basis for framework dependence
 - [argument-from-reason](/topics/argument-from-reason/) — Why genuine reasoning requires irreducible consciousness

@@ -79,7 +79,7 @@ topics: []
 - [philosophical-zombies](/concepts/philosophical-zombies/) — in "Why Dualism Matters Here" section
 - [free-will](/topics/free-will/) — in "Beyond Hedonism" (agency discussion)
 - [agent-causation](/concepts/agent-causation/) — in "Beyond Hedonism" (agency discussion)
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — in "Beyond Hedonism" (understanding discussion)
+- [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) — in "Beyond Hedonism" (understanding discussion)
 - [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) — in "The Hardest Objection" (contemplative response)
 - [explanatory-gap](/concepts/explanatory-gap/) — in "Relation to Site Perspective" (dualism paragraph)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — in "Relation to Site Perspective" (dualism paragraph)

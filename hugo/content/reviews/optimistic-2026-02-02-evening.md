@@ -112,7 +112,7 @@ The contemplative neuroscience integration article acknowledges what remains une
 
 #### Phenomenology of Surprise and Prediction Error
 
-- **Builds on**: [predictive-processing](/concepts/predictive-processing/), [phenomenology-of-understanding](/topics/phenomenology-of-understanding/), [epistemic-emotions](/concepts/epistemic-emotions/)
+- **Builds on**: [predictive-processing](/concepts/predictive-processing/), [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/), [epistemic-emotions](/concepts/epistemic-emotions/)
 - **Would address**: How the felt quality of surprise—violated expectation—relates to prediction error. If predictive processing describes the mechanism, what's the phenomenology? Does genuine surprise require consciousness, or can unconscious systems be "surprised"? Connects to Bidirectional Interaction: if surprise triggers learning and memory consolidation, and surprise is phenomenally real, consciousness does causal work.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Dualism (phenomenal character of surprise irreducible), Bidirectional Interaction (surprise causes downstream effects)
@@ -167,7 +167,7 @@ The contemplative neuroscience integration article acknowledges what remains une
 
 | From | To | Reason |
 |------|-----|--------|
-| [predictive-processing](/concepts/predictive-processing/) | [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) | Both address how expectations shape experience |
+| [predictive-processing](/concepts/predictive-processing/) | [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) | Both address how expectations shape experience |
 | [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) | [attention-interface-mechanisms](/topics/attention-as-selection-interface/) | Specific mechanisms should cross-reference |
 | [combination-problem](/concepts/combination-problem/) | [binding-problem](/concepts/binding-problem/) | Structurally parallel problems deserve explicit connection |
 | [existentialism](/concepts/existentialism/) | [phenomenology-of-choice](/concepts/phenomenology-of-choice/) | Sartre's analysis of choice directly relevant |

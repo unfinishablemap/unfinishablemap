@@ -69,7 +69,7 @@ topics: []
 
 - [emotional-consciousness](/topics/emotional-consciousness/) — emotional persistence in neurodegeneration
 - [witness-consciousness](/concepts/witness-consciousness/) — basic awareness stripped of cognitive content
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — the phenomenal character of comprehension that dementia strips away
+- [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) — the phenomenal character of comprehension that dementia strips away
 - [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — pain phenomenology and its persistence in severe dementia
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — interface degradation through practice versus disease
 - [identity-across-transformations](/apex/identity-across-transformations/) — how indexical identity persists through radical change

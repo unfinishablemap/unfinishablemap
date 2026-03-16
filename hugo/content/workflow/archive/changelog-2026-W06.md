@@ -4787,7 +4787,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 04:14 UTC - deep-review
 - **Status**: Success
-- **File**: [phenomenology-of-understanding](/topics/phenomenology-of-understanding/)
+- **File**: [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)
 - **Word count**: 2903 → 2991 (+88)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3

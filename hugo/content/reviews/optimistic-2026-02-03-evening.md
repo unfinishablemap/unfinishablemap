@@ -100,7 +100,7 @@ The "folk error" accusation receives careful treatment: "cognitive naturalness d
 ### High Priority
 
 #### The Phenomenology of Epistemic Achievement
-- **Builds on**: [phenomenology-of-understanding](/topics/phenomenology-of-understanding/), [cognitive-phenomenology](/concepts/cognitive-phenomenology/), [epistemic-emotions](/concepts/epistemic-emotions/)
+- **Builds on**: [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/), [cognitive-phenomenology](/concepts/cognitive-phenomenology/), [epistemic-emotions](/concepts/epistemic-emotions/)
 - **Would address**: What it's like to *grasp* something—the "click" of understanding, the "settling" of conviction. This phenomenology supports the argument from reason: genuine understanding involves normative relations (recognizing that P supports Q) that physical causation alone cannot instantiate
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism by showing that understanding has irreducible phenomenal character that functional description cannot capture

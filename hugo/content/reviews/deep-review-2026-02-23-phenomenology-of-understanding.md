@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-23
-**Article**: [The Phenomenology of Understanding](/topics/phenomenology-of-understanding/)
+**Article**: [The Phenomenology of Understanding](/topics/phenomenology-of-understanding-and-meaning/)
 **Previous review**: [2026-02-08](/reviews/deep-review-2026-02-08-phenomenology-of-understanding/)
 
 ## Context

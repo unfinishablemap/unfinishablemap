@@ -85,7 +85,7 @@ The Map navigates the space between cognitive closure and defeatism with unusual
 ### High Priority
 
 #### The Phenomenology of Surprise and Categorical Novelty
-- **Builds on**: [phenomenology-of-understanding](/topics/phenomenology-of-understanding/), [categorical-surprise](/concepts/categorical-surprise/), [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/)
+- **Builds on**: [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/), [categorical-surprise](/concepts/categorical-surprise/), [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/)
 - **Would address**: Surprise involves the collapse of expectation frameworks—a direct phenomenological analogue of quantum superposition collapse. The moment something is genuinely unexpected, the experiential structure involves a transition from openness to definiteness that mirrors the selection mechanism. Currently underdeveloped despite the categorical-surprise concept page existing.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Bidirectional Interaction (surprise restructures attention involuntarily), No Many Worlds (surprise requires one outcome to have occurred)
@@ -99,7 +99,7 @@ The Map navigates the space between cognitive closure and defeatism with unusual
 ### Medium Priority
 
 #### Consciousness and the Philosophy of Mathematics
-- **Builds on**: [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/), [argument-from-reason](/topics/argument-from-reason/), [phenomenology-of-understanding](/topics/phenomenology-of-understanding/)
+- **Builds on**: [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/), [argument-from-reason](/topics/argument-from-reason/), [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)
 - **Would address**: Mathematical platonism provides a structural parallel to consciousness dualism—abstract objects irreducible to physical processes. Gödel's incompleteness as constraint on mechanism, Penrose's use of Gödel (and Lucas before him) as argument against strong AI, and the phenomenology of mathematical proof as evidence for non-computational consciousness. The Map touches these themes across articles but lacks unified treatment.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Dualism (abstract objects as non-physical), Bidirectional Interaction (mathematical understanding requires consciousness engaging with formal structure)

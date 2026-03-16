@@ -157,7 +157,7 @@ The [illusionist](/concepts/illusionism/) challenge also applies: if phenomenal 
 - [incompleteness-void](/voids/incompleteness-void/) — The boundary Gödel's theorems reveal
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — The empirical evidence for unconscious creative processing
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why aesthetic experience matters philosophically
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — The felt difference between mechanical verification and genuine comprehension
+- [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) — The felt difference between mechanical verification and genuine comprehension
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thinking
 - Duration — Bergson's lived time as inherently creative
 

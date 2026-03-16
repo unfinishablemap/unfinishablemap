@@ -66,7 +66,7 @@ All attribution checks passed:
 
 ### Cross-links Updated
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — replaced archived [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/)
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — replaced archived [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)
+- [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) — replaced archived [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)
 
 ## Remaining Items
 

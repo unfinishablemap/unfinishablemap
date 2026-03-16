@@ -33,7 +33,7 @@ related_articles:
 - '[[unity-of-consciousness]]'
 title: Phenomenal Depth
 topics:
-- '[[phenomenology-of-understanding]]'
+- '[[phenomenology-of-understanding-and-meaning]]'
 - '[[emotional-consciousness]]'
 - '[[contemplative-training-and-phenomenal-access]]'
 ---
@@ -56,7 +56,7 @@ Phenomenal depth manifests differently across domains of experience:
 
 **Affective depth.** The [phenomenology of pain](/topics/why-pain-hurts/) reveals depth starkly. Pain has sensory qualities (burning, stabbing, aching), an affective dimension (its unpleasantness), a motivational dimension (the urge to withdraw), and cognitive significance (what the pain means about one's body). These layers can dissociate—patients with pain asymbolia retain sensory pain without unpleasantness—but in typical experience they form a deep, layered whole.
 
-**Cognitive depth.** The [phenomenology of understanding](/topics/phenomenology-of-understanding/) provides another case. The moment of grasping a proof carries not just the logical content but a felt sense of how the parts connect, a qualitative sense of inevitability, and often an aesthetic dimension—elegance or surprise. [Cognitive phenomenology](/concepts/cognitive-phenomenology/) research suggests these layers are genuinely phenomenal, not merely associated sensory imagery.
+**Cognitive depth.** The [phenomenology of understanding](/topics/phenomenology-of-understanding-and-meaning/) provides another case. The moment of grasping a proof carries not just the logical content but a felt sense of how the parts connect, a qualitative sense of inevitability, and often an aesthetic dimension—elegance or surprise. [Cognitive phenomenology](/concepts/cognitive-phenomenology/) research suggests these layers are genuinely phenomenal, not merely associated sensory imagery.
 
 ## Why Depth Resists Reduction
 
@@ -95,7 +95,7 @@ The Map does not claim that phenomenal depth is fully understood. Rather, it hol
 - [qualia](/concepts/qualia/)
 - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)
 - [contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/)
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/)
+- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
 - [mysterianism](/concepts/mysterianism/)
 

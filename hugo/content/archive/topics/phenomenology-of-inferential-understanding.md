@@ -44,7 +44,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-When one proposition follows from another, something happens experientially. The conclusion does not simply appear — it arrives with a felt sense of *necessity*, a qualitative character of being compelled by the premises rather than merely associated with them. The Unfinishable Map holds that this phenomenology of inference — the experience of seeing *why* something follows — is irreducible to computation and provides distinctive evidence for consciousness as non-physical. While [understanding in general](/topics/phenomenology-of-understanding/) has its own phenomenology (the click, the warmth, the light), and [intellectual effort](/topics/phenomenology-of-intellectual-effort/) has the character of strain and work, inferential understanding has something further: the visibility of the *because*.
+When one proposition follows from another, something happens experientially. The conclusion does not simply appear — it arrives with a felt sense of *necessity*, a qualitative character of being compelled by the premises rather than merely associated with them. The Unfinishable Map holds that this phenomenology of inference — the experience of seeing *why* something follows — is irreducible to computation and provides distinctive evidence for consciousness as non-physical. While [understanding in general](/topics/phenomenology-of-understanding-and-meaning/) has its own phenomenology (the click, the warmth, the light), and [intellectual effort](/topics/phenomenology-of-intellectual-effort/) has the character of strain and work, inferential understanding has something further: the visibility of the *because*.
 
 ## The Experience of Following
 
@@ -92,7 +92,7 @@ Consider following a five-step proof. At step three, you must hold the results o
 
 This binding problem is inferential, not just temporal. The challenge is not merely holding several items in [working-memory](/concepts/working-memory/) simultaneously (as in remembering a phone number) but holding them *in their logical relations* — step one as supporting step two, step two as enabling step three. The phenomenology of multi-step inference involves experiencing these dependency relations, not just the individual propositions. This is an instance of the broader challenge of [phenomenal binding](/concepts/phenomenal-binding-and-holism/): how discrete conscious states combine into structured wholes. But the inferential case is especially demanding because what must be bound is not sensory features but *logical dependency* — a relation with no obvious physical correlate.
 
-When binding succeeds, there is a characteristic experience of the whole argument "coming together" — related to but distinct from the [click of understanding](/topics/phenomenology-of-understanding/#the-click-of-comprehension). The click marks the moment of grasping; the binding experience is the sustained architecture of logical relationship across multiple steps. Long proofs have a large-scale phenomenal structure — a sense of building, of accumulated support, of the conclusion resting on a scaffolding that becomes more stable with each step confirmed.
+When binding succeeds, there is a characteristic experience of the whole argument "coming together" — related to but distinct from the [click of understanding](/topics/phenomenology-of-understanding-and-meaning/#the-click-of-comprehension). The click marks the moment of grasping; the binding experience is the sustained architecture of logical relationship across multiple steps. Long proofs have a large-scale phenomenal structure — a sense of building, of accumulated support, of the conclusion resting on a scaffolding that becomes more stable with each step confirmed.
 
 When binding fails — when you lose track of how earlier steps support later ones — the characteristic experience is not just confusion but a specific sense of structural collapse. You still remember the individual propositions but lose the felt connections between them. The proof disintegrates into a list of claims. Reassembling it requires re-establishing the phenomenal binding — experiencing the *because* at each transition again.
 
@@ -136,7 +136,7 @@ It is worth noting, in the spirit of [mysterian](/concepts/mysterianism/) honest
 
 ## Further Reading
 
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — The broader phenomenology of grasping meaning
+- [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) — The broader phenomenology of grasping meaning
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The experience of reasoning as work
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The debate over whether thinking has phenomenal character
 - [phenomenal-intentionality](/concepts/intentionality/) — How phenomenal consciousness grounds aboutness

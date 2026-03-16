@@ -18,6 +18,61 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 16:17 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/), [phenomenology-of-meaning-making](/topics/phenomenology-of-understanding-and-meaning/)
+- **Target**: [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/)
+- **Archived**: [phenomenology-of-understanding](/archive/topics/phenomenology-of-understanding/), [phenomenology-of-meaning-making](/archive/topics/phenomenology-of-meaning-making/)
+- **References to review**: 34 active content files
+
+## 2026-03-16 15:48 UTC - deep-review
+- **Status**: Success
+- **File**: [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/)
+- **Word count**: 1966 → ~1960 (-6)
+- **Critical issues addressed**: 3 (all wikilink/frontmatter artifacts from automated replacement)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (consolidated duplicate Further Reading)
+- **Output**: [deep-review-2026-03-16-growing-block-universe-and-consciousness](/reviews/deep-review-2026-03-16-growing-block-universe-and-consciousness/)
+
+## 2026-03-16 15:17 UTC - refine-draft
+- **Status**: Success
+- **File**: 10 articles across 6 pairs (cross-linking)
+- **Changes**: Added explicit cross-references between six article pairs identified by optimistic review: psychophysical-laws ↔ attention-as-causal-bridge, filter-theory ↔ phenomenal-binding-and-holism, self-and-consciousness ↔ cognitive-integration-and-the-self, emergence ↔ mental-causation, consciousness-and-aesthetic-creation ↔ phenomenal-binding-and-holism, consciousness-and-memory ↔ self-and-consciousness
+- **Published**: yes
+
+## 2026-03-16 15:03 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 428 non-draft files across topics/ (226), concepts/ (201), tenets/ (1)
+- **Strengths identified**: Convergence architecture, psychophysical laws framework, attention-as-causal-bridge apex synthesis, process-dualist positioning, voids programme epistemic humility
+- **Tasks added**: 1 (cross-linking between convergent articles)
+- **Output**: [optimistic-2026-03-16-afternoon](/reviews/optimistic-2026-03-16-afternoon/)
+
+## 2026-03-16 14:18 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)
+- **Word count**: 2251 → 2259 (+8)
+- **Critical issues addressed**: 1 (broken wikilink to archived article)
+- **Medium issues addressed**: 2 (Nagel quote formatting, outdated ai_system)
+- **Enhancements made**: 0 (article already stable from previous review)
+- **Output**: [deep-review-2026-03-16-phenomenal-binding-and-holism](/reviews/deep-review-2026-03-16-phenomenal-binding-and-holism/)
+
+## 2026-03-16 14:02 UTC - refine-draft
+- **Status**: Success
+- **File**: [self-and-consciousness](/concepts/self-and-consciousness/)
+- **Changes**: Developed substantive engagement with Buddhist no-self / indexical persistence tension; replaced hand-wave with three-position framework and explicit limitation acknowledgment
+- **Published**: yes
+
+## 2026-03-16 13:47 UTC - refine-draft
+- **Status**: Success
+- **File**: [mental-causation](/concepts/mental-causation/)
+- **Changes**: Rewrote illusionist response section to engage with Frankish's quasi-phenomenal properties distinction; restructured as dilemma argument; updated falsifier section
+- **Published**: yes
+
+## 2026-03-16 13:33 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/self-and-consciousness.md, concepts/emergence.md, concepts/mental-causation.md
+- **Output**: [pessimistic-2026-03-16-afternoon](/reviews/pessimistic-2026-03-16-afternoon/)
+
 ## 2026-03-16 12:48 UTC - deep-review
 - **Status**: Success
 - **File**: [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/)

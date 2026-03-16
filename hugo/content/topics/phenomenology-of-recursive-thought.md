@@ -153,7 +153,7 @@ The phenomenology of recursive thought suggests several conclusions:
 - [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self and its relation to recursive awareness
 - [downward-causation](/concepts/downward-causation/) — How consciousness might influence physical processes
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and temporal thickness that recursive thought requires
-- [phenomenology-of-meaning-making](/topics/phenomenology-of-meaning-making/) — Self-reflexive meaning as one of five phenomenal meaning modes
+- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Self-reflexive meaning as one of five phenomenal meaning modes
 
 ## References
 

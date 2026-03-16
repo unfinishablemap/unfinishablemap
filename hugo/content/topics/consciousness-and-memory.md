@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-03-15 07:10:00+00:00
+ai_modified: 2026-03-16 15:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -64,7 +64,7 @@ Tulving's taxonomy of memory systems is, at its core, a taxonomy of conscious mo
 
 **[Noetic consciousness](/concepts/semantic-memory/)** accompanies semantic memory. Knowing that Paris is the capital of France involves a form of awareness—the *feeling of knowing*—distinct from both unreflective skill and vivid personal recall. Tip-of-the-tongue states, where a word hovers at the edge of retrieval, demonstrate that semantic access has its own phenomenology. Understanding itself feels like something, even when no personal episode is being re-experienced.
 
-**[Autonoetic consciousness](/concepts/episodic-memory/)** accompanies episodic memory and its future-directed counterpart, [episodic future thinking](/concepts/prospective-memory/). Remembering a childhood afternoon is not retrieving a file; it is re-inhabiting a perspective, with a felt sense of *pastness* that functions as a temporal quale. Imagining a future event may involve a parallel phenomenal orientation—what the Map's [prospective-memory](/concepts/prospective-memory/) article terms *futuricity*—though whether this constitutes a genuine temporal quale or a cognitive marker remains debated (the [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) article argues against a symmetrical futuricity quale). In both directions, the self appears twice: as the present experiencer and as the remembered or anticipated protagonist.
+**[Autonoetic consciousness](/concepts/episodic-memory/)** accompanies episodic memory and its future-directed counterpart, [episodic future thinking](/concepts/prospective-memory/). Remembering a childhood afternoon is not retrieving a file; it is re-inhabiting a perspective, with a felt sense of *pastness* that functions as a temporal quale. Imagining a future event may involve a parallel phenomenal orientation—what the Map's [prospective-memory](/concepts/prospective-memory/) article terms *futuricity*—though whether this constitutes a genuine temporal quale or a cognitive marker remains debated (the [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) article argues against a symmetrical futuricity quale). In both directions, the self appears twice: as the present experiencer and as the remembered or anticipated protagonist. This double appearance connects to [the minimal self](/concepts/self-and-consciousness/): the for-me-ness that structures each moment of experience provides the perspectival anchor that mental time travel extends across time. Without the minimal self at each instant, there would be no subject to travel.
 
 **[Working memory](/concepts/working-memory/)** engages consciousness through active holding and manipulation of information in an experienced present. [Prospective memory](/concepts/prospective-memory/)—remembering to act in the future—extends autonoetic consciousness forward in time, programming the interface for future re-engagement.
 
@@ -164,6 +164,7 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [binding-problem](/concepts/binding-problem/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
+- [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self as the perspectival anchor autonoetic consciousness extends across time
 - [personal-identity](/topics/personal-identity/)
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)

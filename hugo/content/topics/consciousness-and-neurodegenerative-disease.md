@@ -29,7 +29,7 @@ related_articles:
 - '[[disorders-of-consciousness-as-test-cases]]'
 - '[[emotional-consciousness]]'
 - '[[pain-consciousness-and-causal-power]]'
-- '[[phenomenology-of-understanding]]'
+- '[[phenomenology-of-understanding-and-meaning]]'
 - '[[contemplative-pathology-and-interface-malfunction]]'
 - '[[identity-across-transformations]]'
 title: Consciousness and Neurodegenerative Disease
@@ -138,7 +138,7 @@ The Unfinishable Map's [tenets](/tenets/) converge on neurodegenerative disease 
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The anoetic-noetic-autonoetic hierarchy that dementia degrades in order
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Why correlations don't settle the production debate
 - [emotional-consciousness](/topics/emotional-consciousness/) — Why emotional responsiveness persists through cognitive devastation
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — The phenomenal character of comprehension that dementia strips away
+- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The phenomenal character of comprehension that dementia strips away
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain phenomenology and its persistence in severe dementia
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — Interface degradation through practice versus disease
 - [identity-across-transformations](/apex/identity-across-transformations/) — How indexical identity persists through radical change

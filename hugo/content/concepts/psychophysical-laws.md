@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-15 08:40:00+00:00
+ai_modified: 2026-03-16 15:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -148,7 +148,7 @@ Four families of coupling laws emerge, operating through different [coupling-mod
 
 **Attention selects what it attends to.** Directed attention determines which neural representation becomes actual among quantum-superposed alternatives. Bandwidth: ~10 bits/second. Scope: only neural systems in the subject's attention loop. [Empirical evidence](/topics/attention-consciousness-dissociation/) that attention and consciousness dissociate means coupling operates through *directed* attention specifically (the [interface](/concepts/attention-as-interface/) through which consciousness engages matter).
 
-Stapp's quantum Zeno model provides the most developed mechanism: attending to a neural pattern increases observation rate, "freezing" the pattern via the Zeno effect. OCD patients using mindful attention showed measurable changes in caudate nucleus activation (Schwartz et al., 1996)—though this is compatible with physicalist neuroplasticity accounts. **Main objection**: Georgiev (2015) showed the Zeno effect breaks down for timescales exceeding brain decoherence time.
+Stapp's quantum Zeno model provides the most developed mechanism: attending to a neural pattern increases observation rate, "freezing" the pattern via the Zeno effect. OCD patients using mindful attention showed measurable changes in caudate nucleus activation (Schwartz et al., 1996)—though this is compatible with physicalist neuroplasticity accounts. The [Attention as the Causal Bridge](/apex/attention-as-causal-bridge/) apex article develops this coupling into a full three-layer architecture—neural computation, dopamine threshold, conscious selection—showing how the abstract coupling mechanism translates into a testable neuroscientific model. **Main objection**: Georgiev (2015) showed the Zeno effect breaks down for timescales exceeding brain decoherence time.
 
 ### Law Family 2: Policy-Level Selection {#intention}
 
@@ -236,6 +236,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — Why coupling must run in both directions
 - [attention-as-interface](/concepts/attention-as-interface/) — The primary candidate for coupling's mental variable
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of attention-observation mechanism
+- [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) — Apex synthesis: the three-layer architecture that instantiates attention-bounded and policy-level coupling
 - [mental-causation](/concepts/mental-causation/) — How consciousness causes physical effects
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Major theories of quantum-consciousness interface
 - [decoherence](/concepts/decoherence/) — The decoherence challenge and biological quantum effects

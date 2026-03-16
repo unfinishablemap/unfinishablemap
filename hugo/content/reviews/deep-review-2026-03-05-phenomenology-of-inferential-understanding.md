@@ -22,7 +22,7 @@ topics: []
 
 ## Context: Archived Article
 
-This article was **archived on 2026-02-22** and coalesced into [The Phenomenology of Understanding](/topics/phenomenology-of-understanding/). The archive metadata is correct (`archive/topics/phenomenology-of-inferential-understanding.md`), but a stale copy remained in `hugo/content/topics/` without an obsidian source file, causing it to appear as an orphan with no inbound links.
+This article was **archived on 2026-02-22** and coalesced into [The Phenomenology of Understanding](/topics/phenomenology-of-understanding-and-meaning/). The archive metadata is correct (`archive/topics/phenomenology-of-inferential-understanding.md`), but a stale copy remained in `hugo/content/topics/` without an obsidian source file, causing it to appear as an orphan with no inbound links.
 
 This review focused on cleanup rather than content analysis, since the article content now lives within the parent article.
 
@@ -59,7 +59,7 @@ This review focused on cleanup rather than content analysis, since the article c
 | `phenomenology-of-philosophical-disagreement.md` | Removed from `related_articles` (parent already in `topics`). |
 
 ### Cross-links Added
-- [argument-from-reason](/topics/argument-from-reason/) now links to [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) (frontmatter, inline, Further Reading)
+- [argument-from-reason](/topics/argument-from-reason/) now links to [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) (frontmatter, inline, Further Reading)
 
 ## Remaining Items
 

@@ -75,8 +75,8 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-22 17:51 UTC - coalesce
 - **Status**: Success
-- **Sources**: [phenomenology-of-understanding](/topics/phenomenology-of-understanding/), [phenomenology-of-inferential-understanding](/topics/phenomenology-of-understanding/), [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)
-- **Target**: [phenomenology-of-understanding](/topics/phenomenology-of-understanding/)
+- **Sources**: [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/), [phenomenology-of-inferential-understanding](/topics/phenomenology-of-understanding/), [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)
+- **Target**: [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)
 - **Archived**: [phenomenology-of-inferential-understanding](/archive/topics/phenomenology-of-inferential-understanding/), [consciousness-and-semantic-understanding](/archive/topics/consciousness-and-semantic-understanding/)
 - **References to review**: ~30 files reference archived articles
 

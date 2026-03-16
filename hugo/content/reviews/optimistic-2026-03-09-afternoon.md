@@ -30,7 +30,7 @@ The Map's treatment of the consciousness-quantum interface is the most philosoph
 
 ### The Phenomenologist (Nagel)
 
-The Map's phenomenological work is its most distinctive contribution. [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) identifies three stages of understanding (sudden clarity, inferential visibility, integrated binding) with the precision Nagel demands. The foreign-language argument—same sound, different understanding, different phenomenology independent of sensory input—is exactly the kind of first-person datum that resists third-person explanation. [perceptual-fidelity-and-the-interface](/topics/perceptual-failure-and-the-interface/) performs an elegant reversal: conditions of perceptual failure reveal the interface itself, because blur is interoceptive rather than exteroceptive. [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/) contributes the rendering dilemma: if the brain generates vivid dream imagery during sleep, why doesn't it correct waking sensory degradation? This is a genuinely novel phenomenological puzzle that centres first-person experience as evidence.
+The Map's phenomenological work is its most distinctive contribution. [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) identifies three stages of understanding (sudden clarity, inferential visibility, integrated binding) with the precision Nagel demands. The foreign-language argument—same sound, different understanding, different phenomenology independent of sensory input—is exactly the kind of first-person datum that resists third-person explanation. [perceptual-fidelity-and-the-interface](/topics/perceptual-failure-and-the-interface/) performs an elegant reversal: conditions of perceptual failure reveal the interface itself, because blur is interoceptive rather than exteroceptive. [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/) contributes the rendering dilemma: if the brain generates vivid dream imagery during sleep, why doesn't it correct waking sensory degradation? This is a genuinely novel phenomenological puzzle that centres first-person experience as evidence.
 
 ### The Process Philosopher (Whitehead)
 
@@ -107,7 +107,7 @@ The Map practices epistemic humility without surrendering to it. [selection-laws
 - **Tenet alignment**: All five tenets—each generates specific testable predictions
 
 #### Aesthetic Experience as Window on Irreducibility
-- **Builds on**: [binding-and-beauty](/topics/binding-and-beauty/), [phenomenal-normativity](/concepts/phenomenal-normativity/), [phenomenology-of-understanding](/topics/phenomenology-of-understanding/)
+- **Builds on**: [binding-and-beauty](/topics/binding-and-beauty/), [phenomenal-normativity](/concepts/phenomenal-normativity/), [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)
 - **Would address**: Beauty, elegance, and aesthetic satisfaction resist functional reduction as strongly as pain and colour. Systematic treatment of aesthetic phenomenology could provide independent evidence for irreducibility from a domain less contested than qualia
 - **Estimated scope**: Medium article (1000-1500 words)
 - **Tenet alignment**: Dualism (aesthetic properties are not physical properties), Bidirectional Interaction (aesthetic judgements causally influence creative output)
@@ -129,7 +129,7 @@ The Map practices epistemic humility without surrendering to it. [selection-laws
 | [perceptual-fidelity-and-the-interface](/topics/perceptual-failure-and-the-interface/) | [interface-friction](/concepts/interface-friction/) | Blur is a specific instance of interface friction made visible |
 | [selection-laws](/concepts/selection-laws/) | [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) | Valence as candidate currency for selection laws |
 | [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) | [binding-problem](/concepts/binding-problem/) | Spatial binding is a specific instance of the general binding problem |
-| [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) | [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) | Mathematical insight as paradigm case of understanding-phenomenology |
+| [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) | [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) | Mathematical insight as paradigm case of understanding-phenomenology |
 
 ## New Concept Pages Needed
 

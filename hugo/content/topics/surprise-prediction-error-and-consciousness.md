@@ -44,7 +44,7 @@ related_articles:
 - '[[structure-of-attention]]'
 - '[[emotional-consciousness]]'
 - '[[choking-phenomenon-mental-causation]]'
-- '[[phenomenology-of-understanding]]'
+- '[[phenomenology-of-understanding-and-meaning]]'
 - '[[phenomenology-of-error-recognition]]'
 - '[[phenomenology-of-epistemic-cognition]]'
 - '[[consciousness-and-creative-distinctiveness]]'
@@ -96,7 +96,7 @@ When prediction error crosses the threshold into conscious experience, it unfold
 
 **Reorientation** is where consciousness becomes most visibly active. Attention swivels toward the source of surprise. The experiential field restructures: what was background becomes foreground; irrelevant details become potentially significant. The [epistemic-emotions](/concepts/epistemic-emotions/) engaged here—curiosity, alarm, fascination, dread—are not decorations on the search but constitutive of how it unfolds. The *flavour* of the search depends on the flavour of the surprise.
 
-**Integration** is the final phase: incorporating the surprising event into a revised model of the situation. When integration succeeds, there is a felt click—the experience of the new information finding its place, connecting to the [phenomenology of understanding](/topics/phenomenology-of-understanding/). When it fails, the surprise remains unresolved, lingering as an experiential residue of unfinished processing—a nagging quality, a background sense that something does not fit, which can persist for hours or days.
+**Integration** is the final phase: incorporating the surprising event into a revised model of the situation. When integration succeeds, there is a felt click—the experience of the new information finding its place, connecting to the [phenomenology of understanding](/topics/phenomenology-of-understanding-and-meaning/). When it fails, the surprise remains unresolved, lingering as an experiential residue of unfinished processing—a nagging quality, a background sense that something does not fit, which can persist for hours or days.
 
 ## Why Surprise Requires Consciousness
 
@@ -216,7 +216,7 @@ Surprise connects to The Unfinishable Map's [tenets](/tenets/) at multiple point
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Curiosity, wonder, and other knowledge-directed affects
 - [structure-of-attention](/topics/structure-of-attention/) — How attention allocates cognitive resources
 - [emotional-consciousness](/topics/emotional-consciousness/) — The felt quality of affective states
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — The click of successful integration
+- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The click of successful integration
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — The felt texture of changing one's mind
 - [phenomenology-of-error-recognition](/voids/phenomenology-of-error-recognition/) — How minds catch their own mistakes
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The "what it's like" quality presupposed by the entire prediction error spectrum

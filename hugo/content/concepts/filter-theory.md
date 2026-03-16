@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-15 01:45:00+00:00
+ai_modified: 2026-03-16 15:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -138,7 +138,7 @@ This explains:
 - **Why brain damage produces specific deficits**: Damage motion processing and movement becomes jerky—rendering failures, not consciousness failures. The [blur paradox](/topics/perceptual-failure-and-the-interface/) reveals that when rendering degrades, the interface itself becomes visible.
 - **Why qualia seem irreducible**: The rendering engine processes vectors and matrices; the *experience* of color and motion exceeds the processing that enables it.
 - **Why dreams can construct perceptual worlds**: Consciousness uses the engine's capabilities without being bound by sensory input.
-- **The binding problem**: Unity is in consciousness itself; the brain renders aspects of unified experience through separate channels.
+- **The binding problem**: Unity is in consciousness itself; the brain renders aspects of unified experience through separate channels. The [phenomenal binding](/concepts/phenomenal-binding-and-holism/) article develops this point: classical neural mechanisms coordinate processing but cannot produce genuine phenomenal unity. If the brain transmits rather than generates consciousness, unity is a feature of what is transmitted—not something the brain constructs from parts.
 
 ## Objections and Responses
 
@@ -219,6 +219,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [near-death-experiences](/concepts/near-death-experiences/) — Enhanced experience during brain compromise
 - [dream-consciousness](/topics/dream-consciousness/) — Consciousness without sensory input
 - [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/) — The rendering dilemma: what lucid dreaming reveals about brain-mind capability division
+- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — Why classical binding fails and quantum holism may succeed—complementary to the filter claim that unity originates in consciousness
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Why correlates don't prove production
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The broader framework
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The proposed mechanism for mind-brain interface

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [The Phenomenology of Meaning-Making](/topics/phenomenology-of-meaning-making/)
+**Article**: [The Phenomenology of Meaning-Making](/topics/phenomenology-of-understanding-and-meaning/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

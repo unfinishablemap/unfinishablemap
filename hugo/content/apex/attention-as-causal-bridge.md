@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-03-11 16:13:00+00:00
+ai_modified: 2026-03-16 15:17:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-11 16:13:00+00:00
 apex_sources:
@@ -39,6 +39,7 @@ related_articles:
 - '[[consciousness-and-agency]]'
 - '[[contemplative-path]]'
 - '[[testing-the-map-from-inside]]'
+- '[[psychophysical-laws]]'
 title: Attention as the Causal Bridge
 topics:
 - '[[structure-of-attention]]'
@@ -93,7 +94,7 @@ The clinical and neuroscientific evidence converges on an architecture with thre
 2. **Dopamine** sets the selection threshold—marking options as salient and modulating how easily they become actions
 3. **Consciousness** determines which option crosses threshold—biasing the competition through sustained attentional engagement
 
-A 2024 *Nature* study demonstrated this layering directly: dopamine-deficient mice retain motor capacity but lose goal-directed initiative—they "can move" but "won't move." Dopamine modulates the *decision threshold*, not motor capacity itself. Desmurget (2009) found that parietal stimulation produces conscious intention to move—even false belief of having moved—without any muscle activity, while premotor stimulation produces movement without awareness. Intention and execution are neurally separable, with consciousness contributing at the policy level.
+A 2024 *Nature* study demonstrated this layering directly: dopamine-deficient mice retain motor capacity but lose goal-directed initiative—they "can move" but "won't move." Dopamine modulates the *decision threshold*, not motor capacity itself. Desmurget (2009) found that parietal stimulation produces conscious intention to move—even false belief of having moved—without any muscle activity, while premotor stimulation produces movement without awareness. Intention and execution are neurally separable, with consciousness contributing at the policy level. The [psychophysical laws](/concepts/psychophysical-laws/) article identifies five candidate coupling mechanisms for this contribution—attention-bounded selection, policy-level selection, basis-choice, indexical selection, and valence-driven motivation—of which the three-layer architecture instantiates the first two: attention as observation rate and intention as policy-level selection.
 
 ## The Economics of Agency
 

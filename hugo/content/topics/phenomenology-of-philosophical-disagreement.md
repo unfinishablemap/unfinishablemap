@@ -33,7 +33,7 @@ related_articles:
 - '[[consciousness-and-methodological-failure]]'
 title: The Phenomenology of Philosophical Disagreement
 topics:
-- '[[phenomenology-of-understanding]]'
+- '[[phenomenology-of-understanding-and-meaning]]'
 - '[[phenomenology-of-epistemic-cognition]]'
 - '[[consciousness-and-interpersonal-understanding]]'
 - '[[epistemic-advantages-of-dualism]]'
@@ -112,7 +112,7 @@ The Map's [Occam's Razor tenet](/tenets/#occams-limits) is also relevant. The ma
 
 ## Further Reading
 
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — The phenomenal character of comprehension and insight
+- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The phenomenal character of comprehension and insight
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — What it feels like to change your mind
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) — What genuine understanding of another person requires
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/) — The phenomenology of accepting or resisting another's claims

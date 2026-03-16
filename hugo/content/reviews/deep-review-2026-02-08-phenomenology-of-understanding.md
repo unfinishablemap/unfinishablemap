@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-08
-**Article**: [The Phenomenology of Understanding](/topics/phenomenology-of-understanding/)
+**Article**: [The Phenomenology of Understanding](/topics/phenomenology-of-understanding-and-meaning/)
 **Previous review**: [2026-02-02](/reviews/deep-review-2026-02-02-phenomenology-of-understanding/)
 
 ## Pessimistic Analysis Summary

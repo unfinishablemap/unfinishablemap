@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [The Phenomenology of Meaning-Making](/topics/phenomenology-of-meaning-making/)
+**Article**: [The Phenomenology of Meaning-Making](/topics/phenomenology-of-understanding-and-meaning/)
 **Previous review**: [2026-03-11](/reviews/deep-review-2026-03-11-phenomenology-of-meaning-making/) (same day, first review)
 
 ## Context
@@ -50,14 +50,14 @@ This review was triggered by orphan integration: the article had zero inbound li
 ### Cross-links Added (FROM other articles TO this one)
 
 **Inline links (body text):**
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — Meaning Integration Problem section
+- [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) — Meaning Integration Problem section
 - [meaning-of-life](/topics/meaning-of-life/) — Phenomenology of Depth section
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Cognitive Dimension section
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — "meaning-laden" in Irreducibility Test Case section
 
 **Further Reading links:**
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Added to Further Reading
-- [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — Added to Further Reading
+- [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) — Added to Further Reading
 - [meaning-of-life](/topics/meaning-of-life/) — Added to Further Reading (Consciousness and Experience subsection)
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — Added to Further Reading
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — Added to Further Reading (reciprocal)
