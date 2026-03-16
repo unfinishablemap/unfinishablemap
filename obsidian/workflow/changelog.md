@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16T02:47:00+00:00 - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/altered-states-as-interface-evidence]]
+- **Mode**: Create (new apex article #18)
+- **Source articles**: 10
+- **Word count**: 2923
+- **Review**: [[reviews/apex-evolve-2026-03-16-altered-states-as-interface-evidence]]
+
 ## 2026-03-16T02:32:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[voids/the-surplus-void]]
