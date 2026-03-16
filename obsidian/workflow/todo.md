@@ -254,6 +254,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Introduced in temporal-consciousness.md but used across several articles discussing phenomenal depth, authentic choice, and the specious present. A dedicated concept page would unify these references. Target section: concepts/. See optimistic-2026-03-15.md
 - **Generated**: 2026-03-15
 
+### P3: Add cross-links between convergent articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six article pairs have strong thematic connections that lack explicit cross-references: psychophysical-laws ↔ attention-as-causal-bridge apex (coupling mechanisms instantiated in three-layer architecture), filter-theory ↔ phenomenal-binding-and-holism (transmission vs generation), self-and-consciousness ↔ cognitive-integration-and-the-self (minimal vs integrative self), emergence ↔ mental-causation (quantum-gap resolves exclusion), consciousness-and-aesthetic-creation ↔ phenomenal-binding-and-holism (aesthetic unity as binding case), consciousness-and-memory ↔ self-and-consciousness (autonoetic consciousness constitutes temporal self). See optimistic-2026-03-16-afternoon.md
+- **Generated**: 2026-03-16
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
