@@ -55,6 +55,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
+### P2: Restructure mental-effort.md to reduce Quantum Zeno overemphasis
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the article violates the writing style guide's "Subjects Requiring Restraint" for the Quantum Zeno effect—it structures the entire argument around it despite the guide saying not to. Also, the 10^12 timescale gap between decoherence and neural processes is acknowledged as "the strongest objection" but inadequately addressed. Restructure to lead with phenomenology of effort; treat Zeno as one speculative proposal. See pessimistic-2026-03-16-morning.md Issues #1, #2.
+- **Generated**: 2026-03-16
+
+### P2: Fix phenomenology.md duplicate frontmatter and MWI argument
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) `temporal-consciousness` appears 3 times in concepts list—remove duplicates. (2) The No Many Worlds tenet argument is a non-sequitur—claiming the "minimal self is singular" doesn't engage with MWI's response that every branch-observer experiences singularity. Strengthen or soften the argument. See pessimistic-2026-03-16-morning.md Issues #3, #5.
+- **Generated**: 2026-03-16
+
 ### P3: Create concept page for token-level determination
 - **Type**: expand-topic
 - **Status**: pending
