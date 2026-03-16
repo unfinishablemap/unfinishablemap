@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 19:47 UTC - refine-draft
+- **Status**: Success
+- **File**: [[consciousness-and-counterfactual-reasoning]]
+- **Changes**: Reframed central argument around dual-status awareness (not hard problem restatement); corrected false claim about physical systems and actuality; softened overstated great ape claims; updated working memory figure to 4±1 (Cowan 2001)
+- **Published**: yes
+
 ## 2026-03-16 19:33 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[consciousness-and-counterfactual-reasoning]]
