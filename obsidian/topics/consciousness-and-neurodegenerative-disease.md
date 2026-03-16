@@ -27,7 +27,7 @@ related_articles:
   - "[[disorders-of-consciousness-as-test-cases]]"
   - "[[emotional-consciousness]]"
   - "[[pain-consciousness-and-causal-power]]"
-  - "[[phenomenology-of-understanding]]"
+  - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[contemplative-pathology-and-interface-malfunction]]"
   - "[[identity-across-transformations]]"
 ai_contribution: 100
@@ -135,7 +135,7 @@ The Unfinishable Map's [[tenets]] converge on neurodegenerative disease as a dom
 - [[anoetic-noetic-autonoetic-consciousness]] — The anoetic-noetic-autonoetic hierarchy that dementia degrades in order
 - [[neural-correlates-of-consciousness]] — Why correlations don't settle the production debate
 - [[emotional-consciousness]] — Why emotional responsiveness persists through cognitive devastation
-- [[phenomenology-of-understanding]] — The phenomenal character of comprehension that dementia strips away
+- [[phenomenology-of-understanding-and-meaning]] — The phenomenal character of comprehension that dementia strips away
 - [[pain-consciousness-and-causal-power]] — Pain phenomenology and its persistence in severe dementia
 - [[contemplative-pathology-and-interface-malfunction]] — Interface degradation through practice versus disease
 - [[identity-across-transformations]] — How indexical identity persists through radical change

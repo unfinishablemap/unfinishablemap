@@ -141,7 +141,7 @@ Protention supports and illuminates several of the Map's foundational commitment
 - [[topics/free-will]] — How anticipatory consciousness enables genuine freedom
 - [[time-collapse-and-agency]] — The Map's framework connecting consciousness, collapse, and agency
 - [[agent-causation]] — Why protention's active character supports agent-causal accounts
-- [[phenomenology-of-meaning-making]] — Temporal meaning as one of five phenomenal meaning modes
+- [[phenomenology-of-understanding-and-meaning]] — Temporal meaning as one of five phenomenal meaning modes
 
 ## References
 

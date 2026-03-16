@@ -172,7 +172,7 @@ The tension remains: is grounding meaning in consciousness itself another form o
 - [[witness-consciousness]] — Pure awareness in contemplative traditions
 - [[contemplative-practice-as-philosophical-evidence]] — The case for meditation as philosophical methodology
 - [[personal-identity]] — Western debates on selfhood that Buddhist no-self challenges
-- [[phenomenology-of-meaning-making]] — How consciousness generates meaning through five phenomenal modes
+- [[phenomenology-of-understanding-and-meaning]] — How consciousness generates meaning through five phenomenal modes
 - [[buddhist-perspectives-meaning-2026-01-06]] — Research notes
 
 ## References

@@ -125,7 +125,7 @@ Musical understanding connects to the Map's framework through several tenets.
 - [[topics/phenomenal-value-realism]] — Intrinsic value in conscious experience
 - [[consciousness-and-semantic-understanding]] — Phenomenal consciousness and meaning
 - [[phenomenal-binding-and-holism]] — The binding of experience into unified wholes
-- [[phenomenology-of-meaning-making]] — Unified account of five phenomenal meaning modes, including aesthetic meaning through music
+- [[phenomenology-of-understanding-and-meaning]] — Unified account of five phenomenal meaning modes, including aesthetic meaning through music
 
 ## References
 

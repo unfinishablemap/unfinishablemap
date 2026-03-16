@@ -248,7 +248,7 @@ This methodological constraint cuts both ways. GWT proponents can claim any appa
 - [[higher-order-theories]] — Competitor theory requiring higher-order representation
 - [[predictive-processing]] — Prediction-error framework integratable with GWT
 - [[attention-as-interface]] — Attention as the gateway to the workspace and the Map's proposed mind-matter interface
-- [[phenomenology-of-understanding]] — Why availability isn't integration: the unity of understanding
+- [[phenomenology-of-understanding-and-meaning]] — Why availability isn't integration: the unity of understanding
 - [[working-memory]] — The cognitive system implementing the workspace architecture
 - [[episodic-memory]] — Autonoetic consciousness requiring full workspace ignition
 - [[semantic-memory]] — Noetic consciousness with intermediate workspace access

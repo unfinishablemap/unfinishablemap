@@ -8,7 +8,7 @@ ai_modified: 2026-03-05T06:39:57+00:00
 draft: false
 topics:
   - "[[topics/consciousness-and-social-cognition]]"
-  - "[[phenomenology-of-understanding]]"
+  - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[emotional-consciousness]]"
   - "[[first-person-third-person-methodology]]"
 concepts:
@@ -68,7 +68,7 @@ A system without phenomenal consciousness could track the *concept* of phenomena
 
 ## The Phenomenology of Understanding a Person
 
-The [[phenomenology-of-understanding|phenomenology of understanding]] article describes the click of comprehension, the warmth of grasping, the light of insight in cognitive contexts. Understanding a person involves analogous but distinctive phenomenal transitions.
+The [[phenomenology-of-understanding-and-meaning|phenomenology of understanding]] article describes the click of comprehension, the warmth of grasping, the light of insight in cognitive contexts. Understanding a person involves analogous but distinctive phenomenal transitions.
 
 **The moment of recognition.** Sometimes understanding arrives suddenly. Someone describes an experience — a particular kind of loneliness, a specific shade of ambivalence — and you *recognise* it. The recognition has the quality of the "click" described in cognitive understanding, but it is directed at a subject rather than a proposition. You are not grasping a truth but meeting a perspective.
 
@@ -116,7 +116,7 @@ None of these would refute dualism directly, but they would weaken the case that
 
 - [[topics/consciousness-and-social-cognition]] — The cognitive machinery enabling social life: metarepresentation, theory of mind, institutional reality
 - [[consciousness-and-semantic-understanding]] — Whether genuine comprehension of meaning requires consciousness
-- [[phenomenology-of-understanding]] — The phenomenal character of understanding in cognitive contexts
+- [[phenomenology-of-understanding-and-meaning]] — The phenomenal character of understanding in cognitive contexts
 - [[other-minds-void]] — The structural privacy of consciousness and how we navigate it
 - [[intersubjective-void]] — Whether experiences can be genuinely shared
 - [[consciousness-only-territories]] — Experiential regions that may be permanently beyond external access

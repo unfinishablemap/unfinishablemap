@@ -61,7 +61,7 @@ When you understand a sentence, there's often inner speech (hearing the words in
 
 ### The Understanding Experience
 
-Galen Strawson's foreign language argument: A monolingual English speaker and a monolingual French speaker both hear news in French. Their auditory experiences are identical—same sounds. But only the French speaker *understands*. The phenomenal contrast between understanding and not understanding cannot be explained by sensory differences. The same acoustic input produces different phenomenal states. The best explanation: understanding has its own phenomenal character. The [[phenomenology-of-understanding|phenomenology of understanding]] examines this in depth—the "click" of comprehension, the warmth of gradual grasping, the light of sudden insight—each with distinctive qualitative character. The [[consciousness-and-language-interface|consciousness-language interface]] explores the bidirectional relationship: language shapes what can be experienced while conscious states generate pressure toward articulation. The [[language-and-consciousness|philosophy of language and consciousness]] examines the deeper question: what Grice, Wittgenstein, and the failure of logical positivism reveal about why consciousness resists linguistic reduction.
+Galen Strawson's foreign language argument: A monolingual English speaker and a monolingual French speaker both hear news in French. Their auditory experiences are identical—same sounds. But only the French speaker *understands*. The phenomenal contrast between understanding and not understanding cannot be explained by sensory differences. The same acoustic input produces different phenomenal states. The best explanation: understanding has its own phenomenal character. The [[phenomenology-of-understanding-and-meaning|phenomenology of understanding]] examines this in depth—the "click" of comprehension, the warmth of gradual grasping, the light of sudden insight—each with distinctive qualitative character. The [[consciousness-and-language-interface|consciousness-language interface]] explores the bidirectional relationship: language shapes what can be experienced while conscious states generate pressure toward articulation. The [[language-and-consciousness|philosophy of language and consciousness]] examines the deeper question: what Grice, Wittgenstein, and the failure of logical positivism reveal about why consciousness resists linguistic reduction.
 
 ### Self-Knowledge
 
@@ -256,7 +256,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 
 ## Further Reading
 
-- [[phenomenology-of-meaning-making]] — Five modes of phenomenal meaning: semantic, aesthetic, temporal, self-reflexive, evaluative
+- [[phenomenology-of-understanding-and-meaning]] — Five modes of phenomenal meaning: semantic, aesthetic, temporal, self-reflexive, evaluative
 - [[consciousness-and-semantic-understanding]] — How consciousness weaves meanings into unified understanding
 - [[consciousness-and-language-interface]] — The bidirectional, lossy interface between consciousness and language
 - [[temporal-structure-of-understanding]] — Understanding's temporal phenomenology

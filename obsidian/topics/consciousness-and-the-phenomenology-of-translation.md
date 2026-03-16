@@ -20,7 +20,7 @@ related_articles:
   - "[[consciousness-and-language-interface]]"
   - "[[language-thought-boundary]]"
   - "[[consciousness-and-semantic-understanding]]"
-  - "[[phenomenology-of-understanding]]"
+  - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[intersubjective-void]]"
   - "[[consciousness-and-interpersonal-understanding]]"
   - "[[tenets]]"
@@ -48,7 +48,7 @@ The split is not between two strings of words but between two *ways of meaning*.
 
 ### The Moment of Semantic Grasp
 
-Before translation can begin, the source text must be *understood* — not just parsed but phenomenally grasped. This is the experience the [[phenomenology-of-understanding|phenomenology of understanding]] describes: the "click" when meaning crystallises, the shift from processing words to holding a meaning.
+Before translation can begin, the source text must be *understood* — not just parsed but phenomenally grasped. This is the experience the [[phenomenology-of-understanding-and-meaning|phenomenology of understanding]] describes: the "click" when meaning crystallises, the shift from processing words to holding a meaning.
 
 In translation, this moment is distinctive because the translator must grasp the meaning *as something to be re-expressed*. Ordinary reading allows understanding to settle into memory. The translator must keep the meaning actively present, holding it in what might be called a pre-linguistic form — or at least a form loosened from its original linguistic shape — so that it can be re-clothed in another language.
 
@@ -122,7 +122,7 @@ The phenomenology of translation connects to the Map's [[tenets]] at several poi
 - [[language-thought-boundary]] — Where thought exceeds what language can capture
 - [[cognitive-phenomenology]] — Whether thinking has phenomenal character beyond sensory accompaniments
 - [[consciousness-and-semantic-understanding]] — How consciousness constitutes semantic grasp
-- [[phenomenology-of-understanding]] — The felt quality of comprehension
+- [[phenomenology-of-understanding-and-meaning]] — The felt quality of comprehension
 - [[intersubjective-void]] — The gap between minds that translation attempts to bridge
 - [[consciousness-and-interpersonal-understanding]] — Phenomenal engagement with other minds
 

@@ -31,7 +31,7 @@ related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-recursive-thought]]"
   - "[[phenomenology-of-anticipation]]"
-  - "[[phenomenology-of-understanding]]"
+  - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[consciousness-and-aesthetic-creation]]"
   - "[[consciousness-and-creative-distinctiveness]]"
   - "[[incubation-effect-and-unconscious-processing]]"
@@ -114,7 +114,7 @@ Imagination bears on several of the Map's [[tenets]] in distinctive ways.
 - [[phenomenology-of-recursive-thought]] — When imagination takes itself as object
 - [[phenomenology-of-anticipation]] — Forward-directed imagination and temporal experience
 - [[consciousness-and-aesthetic-creation]] — Imagination in artistic creation
-- [[phenomenology-of-understanding]] — The felt quality of grasping meaning
+- [[phenomenology-of-understanding-and-meaning]] — The felt quality of grasping meaning
 - [[dream-consciousness]] — Dreams as involuntary imagination
 - [[phenomenology-of-moral-experience]] — Moral imagination and the felt quality of ethical perception
 - [[creativity-void]] — The opacity of consciousness's generative processes

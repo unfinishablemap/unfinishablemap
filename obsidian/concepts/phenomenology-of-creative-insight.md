@@ -27,7 +27,7 @@ related_articles:
   - "[[consciousness-and-skilled-performance]]"
   - "[[incubation-effect-and-unconscious-processing]]"
   - "[[consciousness-and-creative-distinctiveness]]"
-  - "[[phenomenology-of-understanding]]"
+  - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[phenomenology-of-intellectual-effort]]"
   - "[[consciousness-creativity-novelty-generation-2026-01-19]]"
   - "[[agent-causation]]"
@@ -144,7 +144,7 @@ The phenomenology of creative insight supports several of the Map's [[tenets]].
 - [[consciousness-and-skilled-performance|phenomenology of flow states]]
 - [[incubation-effect-and-unconscious-processing]]
 - [[phenomenology-of-intellectual-effort]]
-- [[phenomenology-of-understanding]]
+- [[phenomenology-of-understanding-and-meaning]]
 - [[consciousness-and-creative-distinctiveness]]
 - [[agent-causation]]
 - [[phenomenology-of-choice]]

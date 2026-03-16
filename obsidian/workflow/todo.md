@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
-### P2: Update references to coalesced understanding/meaning articles
-- **Type**: refine-draft
-- **Notes**: Coalesce merged phenomenology-of-understanding and phenomenology-of-meaning-making into phenomenology-of-understanding-and-meaning. ~34 active content files still reference the old slugs. Update wikilinks in topics/ and concepts/ to point to the new unified article. Reviews and workflow archives can be left as-is.
-- **Source**: coalesce
-- **Generated**: 2026-03-16
-
 ### P3: Create concept page for token-level determination
 - **Type**: expand-topic
 - **Status**: pending
@@ -556,6 +550,12 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-16: Update references to coalesced understanding/meaning articles
+- **Type**: refine-draft
+- **Notes**: Coalesce merged phenomenology-of-understanding and phenomenology-of-meaning-making into phenomenology-of-understanding-and-meaning. ~34 active content files still reference the old slugs. Update wikilinks in topics/ and concepts/ to point to the new unified article. Reviews and workflow archives can be left as-is.
+- **Output**: Task context:
+Coalesce merged phenomenology-of-understanding and phenomenology-of-meaning-making into phenomenology-of-understanding-and-meaning. ~34 active content files still reference the old slugs. Update wikilinks in topics/ and concepts/ to point to the new unified article. Reviews and workflow archives can be left as-is.
 
 ### ✓ 2026-03-16: Add cross-links between convergent articles
 - **Type**: refine-draft

@@ -8,7 +8,7 @@ ai_modified: 2026-02-25T22:12:00+00:00
 draft: false
 last_deep_review: 2026-02-17T02:27:00+00:00
 topics:
-  - "[[phenomenology-of-understanding]]"
+  - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[emotional-consciousness]]"
   - "[[contemplative-training-and-phenomenal-access]]"
 concepts:
@@ -54,7 +54,7 @@ Phenomenal depth manifests differently across domains of experience:
 
 **Affective depth.** The [[phenomenology-of-pain|phenomenology of pain]] reveals depth starkly. Pain has sensory qualities (burning, stabbing, aching), an affective dimension (its unpleasantness), a motivational dimension (the urge to withdraw), and cognitive significance (what the pain means about one's body). These layers can dissociate—patients with pain asymbolia retain sensory pain without unpleasantness—but in typical experience they form a deep, layered whole.
 
-**Cognitive depth.** The [[phenomenology-of-understanding|phenomenology of understanding]] provides another case. The moment of grasping a proof carries not just the logical content but a felt sense of how the parts connect, a qualitative sense of inevitability, and often an aesthetic dimension—elegance or surprise. [[cognitive-phenomenology|Cognitive phenomenology]] research suggests these layers are genuinely phenomenal, not merely associated sensory imagery.
+**Cognitive depth.** The [[phenomenology-of-understanding-and-meaning|phenomenology of understanding]] provides another case. The moment of grasping a proof carries not just the logical content but a felt sense of how the parts connect, a qualitative sense of inevitability, and often an aesthetic dimension—elegance or surprise. [[cognitive-phenomenology|Cognitive phenomenology]] research suggests these layers are genuinely phenomenal, not merely associated sensory imagery.
 
 ## Why Depth Resists Reduction
 
@@ -93,7 +93,7 @@ The Map does not claim that phenomenal depth is fully understood. Rather, it hol
 - [[qualia]]
 - [[phenomenal-binding-and-holism]]
 - [[contemplative-training-and-phenomenal-access]]
-- [[phenomenology-of-understanding]]
+- [[phenomenology-of-understanding-and-meaning]]
 - [[phenomenology-of-the-edge]]
 - [[mysterianism]]
 

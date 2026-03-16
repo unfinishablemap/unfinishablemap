@@ -29,7 +29,7 @@ related_articles:
   - "[[first-person-third-person-methodology]]"
   - "[[argument-from-reason]]"
   - "[[duhem-quine-underdetermination-consciousness]]"
-  - "[[phenomenology-of-understanding]]"
+  - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[knowledge-argument]]"
   - "[[why-phenomenal-unity-resists-explanation]]"
   - "[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]"
@@ -177,7 +177,7 @@ The Map holds that this failure may ultimately be more revealing than the hard p
 - [[argument-from-reason]] — A parallel self-referential argument against physicalism
 - [[knowledge-argument]] — What testimony cannot convey about phenomenal experience
 - [[cognitive-phenomenology]] — Whether the act of understanding has irreducible phenomenal character
-- [[phenomenology-of-understanding]] — The felt character of comprehension that explanation depends upon
+- [[phenomenology-of-understanding-and-meaning]] — The felt character of comprehension that explanation depends upon
 - [[illusionism]] — The strongest physicalist response to the explanatory gap
 - [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — Alternative epistemic strategies when mechanistic explanation faces categorical limits
 - [[contemplative-practice-as-philosophical-evidence]] — First-person methods that address the reflexive gap from within experience

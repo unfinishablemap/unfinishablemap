@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
-  - "[[phenomenology-of-understanding]]"
+  - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[language-recursion-and-consciousness]]"
   - "[[machine-consciousness]]"
 concepts:
@@ -142,7 +142,7 @@ The symbol grounding problem connects to all five tenets:
 
 - [[language-and-consciousness]] — How philosophy of language reveals that meaning depends on consciousness
 - [[intentionality]] — The aboutness of mental states and phenomenal intentionality
-- [[phenomenology-of-understanding]] — Why meaning is constitutively phenomenal
+- [[phenomenology-of-understanding-and-meaning]] — Why meaning is constitutively phenomenal
 - [[language-recursion-and-consciousness]] — How recursive language requires conscious processing
 - [[working-memory]] — The maintenance/manipulation distinction and conscious access
 - [[concepts/functionalism]] — The view that mental states are defined by functional roles
