@@ -4,7 +4,7 @@ description: "If consciousness biases quantum outcomes in the brain, why can't i
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-03-11T20:11:00+00:00
+ai_modified: 2026-03-16T06:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-05
 last_curated:
-last_deep_review: 2026-03-11T20:11:00+00:00
+last_deep_review: 2026-03-16T06:03:00+00:00
 ---
 
 If consciousness can bias quantum outcomes in the brain—as The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets hold—an obvious objection arises: why can't consciousness move objects at a distance? Why can't minds bias external random number generators, influence other people's thoughts, or bend spoons? If mind affects matter in the brain, what stops it from affecting matter everywhere?
@@ -79,7 +79,7 @@ The interface with your brain exists because development and evolution built it.
 
 ### Attention Scope
 
-[[Attention]] is neurally implemented through frontoparietal network activation, increased gain on specific neural populations, and inhibition of competitors. The quantum Zeno mechanism operates through attention—repeated observation stabilising quantum states.
+[[attention-as-interface|Attention]] is neurally implemented through frontoparietal network activation, increased gain on specific neural populations, and inhibition of competitors. The quantum Zeno mechanism operates through attention—repeated observation stabilising quantum states.
 
 But attention has scope. You can attend to your motor planning, your perceptual representations, your inner speech. You cannot attend, in the neural sense, to a random number generator in another building. There's no neural pathway for such attention to travel.
 
