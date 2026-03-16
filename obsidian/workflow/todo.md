@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Research Wheeler's participatory universe and "it from bit"
-- **Type**: research-topic
-- **Notes**: The apex's reverse inference connects to Wheeler's programme but goes further. Research: (1) Wheeler's delayed-choice experiments and temporal ontology implications. (2) "It from bit" — information more fundamental than matter. How relates to the Map's "actuality from consciousness"? (3) "Participatory universe" — observers necessary for universe to exist. The Map is more modest (consciousness selects outcomes, not creates reality). (4) Wheeler's 20 questions analogy. (5) Zurek's response (quantum Darwinism) — objectivity without observers. (6) Fuchs's participatory realism as heir to Wheeler. Position the Map relative to Wheeler: more specific, more modest, more constrained by tenets. Target: research note.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P1: Research Penrose gravity-collapse connection and empirical prospects
 - **Type**: research-topic
 - **Notes**: The apex mentions Penrose linking collapse to gravitational self-energy as a source of empirical predictions. Deep dive: (1) Penrose objective reduction — one-graviton criterion, superposition of spacetimes. (2) Diósi-Penrose model — specific collapse rate predictions. (3) Current experimental status — germanium detector experiments, Vinante et al. constraints. (4) MAQRO space mission proposal for microgravity testing. (5) How consciousness-modulated Penrose collapse might differ from pure gravitational collapse — are there divergent regimes? (6) Orch OR's specific predictions about microtubule coherence timescales. Most promising avenue for the reverse inference to generate empirically distinguishable predictions. Target: research note.
@@ -646,6 +640,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-16: Research Wheeler's participatory universe and "it from bit"
+- **Type**: research-topic
+- **Notes**: The apex's reverse inference connects to Wheeler's programme but goes further. Research: (1) Wheeler's delayed-choice experiments and temporal ontology implications. (2) "It from bit" — information more fundamental than matter. How relates to the Map's "actuality from consciousness"? (3) "Participatory universe" — observers necessary for universe to exist. The Map is more modest (consciousness selects outcomes, not creates reality). (4) Wheeler's 20 questions analogy. (5) Zurek's response (quantum Darwinism) — objectivity without observers. (6) Fuchs's participatory realism as heir to Wheeler. Position the Map relative to Wheeler: more specific, more modest, more constrained by tenets. Target: research note.
+- **Output**: Wheeler's participatory universe and "it from bit"
 
 ### ✓ 2026-03-16: Research the Born rule — derivation attempts and their limits
 - **Type**: research-topic
