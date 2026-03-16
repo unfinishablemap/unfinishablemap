@@ -4,8 +4,8 @@ description: "Particularity without permanence: haecceity applies to experientia
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-02T12:52:00+00:00
-last_deep_review: 2026-02-15T03:50:00+00:00
+ai_modified: 2026-03-16T06:48:00+00:00
+last_deep_review: 2026-03-16T06:48:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -73,7 +73,7 @@ Process haecceitism reconciles the Map's commitment to indexical identity with B
 
 The [[vertiginous-question]]—"Why am *I* this one?"—remains coherent under process haecceitism. [[indexical-knowledge-and-identity|Indexical knowledge]]—knowledge expressible only as "I," "here," "now"—retains its irreducibility whether the subject is a substance or a process. The question becomes: "Why is *this* experiential process the one whose experiences I am living?" The shift from substance to process doesn't dissolve the indexical puzzle; it reframes what bears the indexical property.
 
-Contemplative evidence supports this. Advanced meditators who deconstruct the substantial self through sustained practice don't report losing particularity. They continue to experience *this* moment, *this* awareness—while recognising that no permanent self underlies these experiences. The particularity survives the dissolution of substance. As [[eastern-philosophy-consciousness]] develops in detail, "conventional" in Buddhist philosophy doesn't mean "unreal"—it means "dependently arisen." The particularity of *this* experiential stream is conventional but genuine.
+Contemplative evidence supports this. Advanced meditators who deconstruct the substantial self through sustained practice don't report losing particularity (Siderits 2007, ch. 3-6). They continue to experience *this* moment, *this* awareness—while recognising that no permanent self underlies these experiences. The particularity survives the dissolution of substance. As [[eastern-philosophy-consciousness]] develops in detail, "conventional" in Buddhist philosophy doesn't mean "unreal"—it means "dependently arisen." The particularity of *this* experiential stream is conventional but genuine.
 
 ## What Process Haecceitism Requires
 
@@ -111,7 +111,7 @@ Process haecceitism grounds the Map's position on [[personal-identity]] without 
 
 *Response*: The process itself is the bearer. This isn't circular—it parallels how events bear temporal properties. The Battle of Hastings has the property of occurring in 1066 without needing a substance that "has" the battle. Processes are ontologically respectable entities that can bear properties, including the property of being *this* process.
 
-**"Primitive thisness is inherent existence in disguise"**: Nagarjuna's Madhyamaka philosophy holds that nothing has *svabhāva* (inherent existence)—everything is empty (*śūnya*), existing only in dependence on other things. If process haecceitism posits *primitive* thisness that cannot be reduced to anything else, it appears to smuggle *svabhāva* back in under a new name.
+**"Primitive thisness is inherent existence in disguise"**: Nagarjuna's Madhyamaka philosophy holds that nothing has *svabhāva* (inherent existence)—everything is empty (*śūnya*), existing only in dependence on other things (Stepien 2021). If process haecceitism posits *primitive* thisness that cannot be reduced to anything else, it appears to smuggle *svabhāva* back in under a new name.
 
 *Response*: The concern is serious but rests on equating "primitive" with "inherently existent." In Madhyamaka terms, the particularity of *this* experiential process can be *dependently arisen*—arising from its specific causal history, its relationships, its conditions—while still being irreducible to any qualitative description of those dependencies. A flame's particularity depends on its causes and conditions (wick, wax, air), yet no list of those conditions tells you *which* flame it is. Process haecceitism claims that the indexical fact is not eliminable, not that it exists independently of all conditions. This is closer to Madhyamaka's "conventional reality" than to the inherent existence it rejects.
 
