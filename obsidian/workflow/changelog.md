@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 23:01 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenal-normativity]]
+- **Word count**: 1972 → 1968 (-4)
+- **Critical issues addressed**: 1 (unused references from coalesced version)
+- **Medium issues addressed**: 3 (Moore attribution, Mackie citation, wikilink path fix)
+- **Enhancements made**: 2 (free-will cross-link, reference cleanup)
+- **Output**: [[reviews/deep-review-2026-03-16-phenomenal-normativity]]
+
 ## 2026-03-16 21:17 UTC - research-topic
 - **Status**: Success
 - **Topic**: Wheeler's participatory universe and "it from bit" (follow-up)

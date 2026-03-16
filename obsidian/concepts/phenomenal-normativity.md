@@ -4,7 +4,7 @@ description: "The view that phenomenal experiences carry intrinsic normative for
 created: 2026-01-16
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-12T02:18:00+00:00
+ai_modified: 2026-03-16T23:01:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[experiential-alignment]]"
   - "[[living-with-the-map]]"
 ai_contribution: 100
-last_deep_review: 2026-02-15T13:45:00+00:00
+last_deep_review: 2026-03-16T23:01:00+00:00
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-12
@@ -55,7 +55,7 @@ This identity claim is stronger than typical hedonism. Hedonists often argue ple
 
 The case builds on [[acquaintance-knowledge|knowledge by acquaintance]]. We don't know pain is bad through inference—we are directly acquainted with its badness in experience. The [[knowledge-argument]] establishes that phenomenal knowledge exceeds physical description. Phenomenal normativity extends this: normative knowledge, at least concerning hedonic value, also exceeds description.
 
-Unlike the water-H₂O identity (discovered empirically), we have direct access to both relata. When experiencing pleasure, the goodness appears inseparable from the experience itself—the pleasure doesn't *cause* or *indicate* goodness; attending to the pleasure just is attending to something good. And once you fully attend to what pleasure feels like, there's no residual question "but why is this good?" The question loses its force because the goodness is constitutive of what you're attending to.
+Unlike the water-H₂O identity (discovered empirically), we have direct access to both relata. When experiencing pleasure, the goodness appears inseparable from the experience itself—the pleasure doesn't *cause* or *indicate* goodness; attending to the pleasure just is attending to something good. And once you fully attend to what pleasure feels like, there's no residual question "but why is this good?"—echoing Moore's open question test (Moore 1903), but grounded in phenomenological acquaintance rather than conceptual analysis. The question loses its force because the goodness is constitutive of what you're attending to.
 
 ### The Is-Ought Bridge
 
@@ -88,7 +88,7 @@ While hedonic valence matters, the Map holds it isn't the only thing that matter
 | **Hedonic valence** | Pleasure is good; suffering is bad |
 | **Aesthetic quality** | Beauty attracts; ugliness repels—independent of pleasure |
 | **Meaning** | Engagement with what matters, beyond mere pleasure |
-| **Agency** | Making genuine choices—valuable even when difficult |
+| **Agency** | Making genuine choices ([[free-will|free will]])—valuable even when difficult |
 | **Understanding** | Intellectually satisfying insight |
 | **Connection** | Authentic relationship with others |
 
@@ -126,7 +126,7 @@ Some meditative traditions cultivate equanimity toward pain. **Response**: Equan
 
 ### For Metaethics
 
-If phenomenal normativity is correct, **error theory** must deny pain is bad, **non-cognitivism** must treat "pain is bad" as expressing attitude rather than stating fact, and **constructivism** must deny pain was bad before moral frameworks developed. Each faces the challenge of explaining how "pain is bad" could be false when badness appears constitutive of pain's phenomenal character.
+If phenomenal normativity is correct, **error theory** (Mackie 1977) must deny pain is bad, **non-cognitivism** must treat "pain is bad" as expressing attitude rather than stating fact, and **constructivism** must deny pain was bad before moral frameworks developed. Each faces the challenge of explaining how "pain is bad" could be false when badness appears constitutive of pain's phenomenal character.
 
 ### For AI and Other Minds
 
@@ -165,7 +165,7 @@ Phenomenal normativity would face pressure if:
 - [[consciousness-value-connection]] — Why value requires consciousness
 - [[qualia]] — The qualitative features of experience
 - [[emotional-consciousness]] — Valence as the felt quality of emotions
-- [[consciousness-and-normative-force]] — How phenomenal normativity manifests across moral, epistemic, aesthetic, and prudential domains
+- [[topics/consciousness-and-normative-force|consciousness-and-normative-force]] — How phenomenal normativity manifests across moral, epistemic, aesthetic, and prudential domains
 - [[aesthetic-dimension-of-consciousness]] — Aesthetic normativity beyond hedonic valence
 - [[meaning-of-life]] — How consciousness grounds meaning
 - [[experiential-alignment]] — Operationalizing phenomenal normativity for AI alignment
@@ -184,5 +184,3 @@ Phenomenal normativity would face pressure if:
 2. Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press.
 3. Hume, D. (1739/1978). *A Treatise of Human Nature*. Oxford University Press.
 4. Mackie, J. L. (1977). *Ethics: Inventing Right and Wrong*. Penguin.
-5. Nozick, R. (1974). "The Experience Machine" in *Anarchy, State, and Utopia*. Basic Books.
-6. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
