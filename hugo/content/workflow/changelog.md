@@ -18,6 +18,38 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 12:48 UTC - deep-review
+- **Status**: Success
+- **File**: [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/)
+- **Word count**: 2427 → 2450 (+23)
+- **Critical issues addressed**: 1 (broken wikilinks to archived why-phenomenal-unity-resists-explanation)
+- **Medium issues addressed**: 3 (Crick & Koch frequency range, Gazzaniga citation added, stale refinement log removed)
+- **Enhancements made**: 1 (autonoetic consciousness cross-link)
+- **Output**: [deep-review-2026-03-16-cognitive-integration-and-the-self](/reviews/deep-review-2026-03-16-cognitive-integration-and-the-self/)
+
+## 2026-03-16 11:32 UTC - research-voids
+- **Status**: Skipped (section at capacity)
+- **Reason**: Voids section has 105 articles, exceeding cap of 100
+- **Recommendation**: Focus on improving existing voids content (deep-review, condense, coalesce)
+
+## 2026-03-16 11:02 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-methodological-failure](/topics/consciousness-and-methodological-failure/)
+- **Word count**: 2248 → 2270 (+22)
+- **Critical issues addressed**: 2 (broken wikilink to archived article, Chalmers date inconsistency)
+- **Medium issues addressed**: 3 (orphaned reference, missing Kuhn 1962 citation, missing body cross-link)
+- **Enhancements made**: 2 (cross-link to phenomenology-of-philosophical-disagreement, related_articles updated)
+- **Output**: [deep-review-2026-03-16-consciousness-and-methodological-failure](/reviews/deep-review-2026-03-16-consciousness-and-methodological-failure/)
+
+## 2026-03-16 10:34 UTC - deep-review
+- **Status**: Success
+- **File**: [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/)
+- **Word count**: 1919 → 1966 (+47)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (loose neuroimaging citation)
+- **Enhancements made**: 2 (specific citation added, cross-link to collapse-and-time)
+- **Output**: [deep-review-2026-03-16-temporal-asymmetry-remembering-anticipating](/reviews/deep-review-2026-03-16-temporal-asymmetry-remembering-anticipating/)
+
 ## 2026-03-16 10:17 UTC - coalesce
 - **Status**: Success
 - **Sources**: [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/), [consciousness-and-the-problem-of-philosophical-progress](/topics/consciousness-and-methodological-failure/)

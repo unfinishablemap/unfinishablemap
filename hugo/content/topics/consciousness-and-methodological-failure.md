@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-16 10:17:00+00:00
+ai_modified: 2026-03-16 11:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ description: Why theoretical virtues, operational definitions, and convergence m
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-16 11:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,10 +33,12 @@ related_articles:
 - '[[duhem-quine-underdetermination-consciousness]]'
 - '[[epistemic-advantages-of-dualism]]'
 - '[[consciousness-and-the-structure-of-scientific-revolutions]]'
+- '[[consciousness-and-the-limits-of-explanation]]'
+- '[[phenomenology-of-philosophical-disagreement]]'
 title: Consciousness and the Failure of Standard Methodology
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[consciousness-and-the-philosophy-of-explanation]]'
+- '[[consciousness-and-the-limits-of-explanation]]'
 - '[[phenomenology-of-framework-inhabitation]]'
 ---
 
@@ -46,9 +48,9 @@ Philosophy of mind has debated consciousness for over two thousand years without
 
 Science makes cumulative progress. Newtonian mechanics yielded to relativity, which yielded to quantum field theory. Each framework preserved earlier successes while resolving anomalies. Nobody seriously defends phlogiston or the luminiferous aether.
 
-Philosophy of mind shows a different pattern. [Materialism](/concepts/materialism/), dualism, [panpsychism](/concepts/panpsychism/), [idealism](/concepts/idealism/), neutral monism, and [mysterianism](/concepts/mysterianism/) all have sophisticated contemporary defenders. The [explanatory-gap](/concepts/explanatory-gap/) identified by Joseph Levine in 1983 had analogues in Leibniz's mill argument of 1714. The [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), named by David Chalmers in 1994, restated difficulties that Locke and Leibniz recognised. Arguments recur rather than resolve.
+Philosophy of mind shows a different pattern. [Materialism](/concepts/materialism/), dualism, [panpsychism](/concepts/panpsychism/), [idealism](/concepts/idealism/), neutral monism, and [mysterianism](/concepts/mysterianism/) all have sophisticated contemporary defenders. The [explanatory-gap](/concepts/explanatory-gap/) identified by Joseph Levine in 1983 had analogues in Leibniz's mill argument of 1714. The [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), named by David Chalmers in 1995, restated difficulties that Locke and Leibniz recognised. Arguments recur rather than resolve.
 
-This asymmetry demands explanation. As the Map's [Kuhnian analysis](/topics/consciousness-and-the-structure-of-scientific-revolutions/) argues, the pattern resembles what Thomas Kuhn described as paradigm crisis: anomalies accumulating, competing theories proliferating, and no successor framework consolidating. Three candidate explanations present themselves, and they carry different implications for what consciousness is.
+This asymmetry demands explanation. As the Map's [Kuhnian analysis](/topics/consciousness-and-the-structure-of-scientific-revolutions/) argues, the pattern resembles what Thomas Kuhn described as paradigm crisis (Kuhn 1962): anomalies accumulating, competing theories proliferating, and no successor framework consolidating. Three candidate explanations present themselves, and they carry different implications for what consciousness is.
 
 ## Candidate Explanations for Non-Convergence
 
@@ -84,7 +86,7 @@ Beyond these general preconditions, the specific criteria scientists use to choo
 
 **Empirical adequacy cannot discriminate.** Physicalist theories predict neural activations, reaction times, and verbal reports with impressive accuracy. But everything they predict could hold true in a system with no experience at all. The [zombie argument](/concepts/philosophical-zombies/) exploits precisely this gap. Physicalism and property dualism both accommodate the third-person data. The virtue cannot do its normal work because the phenomenon — what it is like — is not the kind of thing third-person empirical adequacy captures.
 
-**Explanatory power is circular.** Explanatory power is assessed by whether a theory produces *understanding* — and understanding is a phenomenal state. As [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) examines, every major model of scientific explanation (deductive-nomological, causal-mechanical, unificationist) breaks down when applied to consciousness. Physicalism offers no explanatory connection between neural processes and phenomenal character; Joseph Levine's [explanatory-gap](/concepts/explanatory-gap/) (1983) identifies this as a structural deficit, not a temporary one. Dualism takes consciousness as fundamental — a standard theoretical move (physics takes charge and mass as fundamental without explaining why they exist) but one that scores no better on conventional explanatory power. Neither position can appeal to this virtue for adjudication.
+**Explanatory power is circular.** Explanatory power is assessed by whether a theory produces *understanding* — and understanding is a phenomenal state. As the Map's [analysis of explanation's limits](/topics/consciousness-and-the-limits-of-explanation/) examines, every major model of scientific explanation (deductive-nomological, causal-mechanical, unificationist) breaks down when applied to consciousness. Physicalism offers no explanatory connection between neural processes and phenomenal character; Joseph Levine's [explanatory-gap](/concepts/explanatory-gap/) (1983) identifies this as a structural deficit, not a temporary one. Dualism takes consciousness as fundamental — a standard theoretical move (physics takes charge and mass as fundamental without explaining why they exist) but one that scores no better on conventional explanatory power. Neither position can appeal to this virtue for adjudication.
 
 **Simplicity lacks a metric.** Even setting aside the [parsimony arguments](/voids/epistemological-limits-occams-razor/), simplicity requires a shared metric. Physicalism is ontologically simpler (one substance). Dualism may be explanatorily simpler (fewer brute identities). Panpsychism is structurally simpler (no emergence from the non-experiential). Each scores as "simplest" on its own preferred dimension. Without a domain-appropriate simplicity metric — and no one has proposed one — the virtue is underdetermined.
 
@@ -108,7 +110,7 @@ A crucial distinction underlies the Map's position. The first-order claim — th
 
 ## Progress Through Honest Framework Choice
 
-If convergence through neutral methodology is impossible for consciousness, philosophical progress takes a different form: the honest adoption of frameworks and the rigorous exploration of their consequences.
+If convergence through neutral methodology is impossible for consciousness — a situation that produces the [distinctive phenomenology of intractable disagreement](/topics/phenomenology-of-philosophical-disagreement/) — philosophical progress takes a different form: the honest adoption of frameworks and the rigorous exploration of their consequences.
 
 The Map takes this approach explicitly. Its [tenets](/tenets/) are not proven conclusions but chosen starting points — commitments that shape inquiry rather than results that inquiry has produced. Every philosopher of mind begins with commitments, whether acknowledged or not. The materialist who insists on third-person methods has already committed to a framework in which consciousness must be the kind of thing those methods can capture.
 
@@ -125,7 +127,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet gains 
 ## Further Reading
 
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — The parsimony argument examined in detail
-- [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) — Why explanation itself breaks down for consciousness
+- [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) — Why explanation itself breaks down for consciousness
 - [consciousness-and-the-structure-of-scientific-revolutions](/topics/consciousness-and-the-structure-of-scientific-revolutions/) — Kuhnian analysis of the consciousness debate
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — Multiple independent arguments converging on irreducibility
 - [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/) — How holding a theory reshapes conscious experience
@@ -140,8 +142,8 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet gains 
 
 1. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200–219.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
+1. Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
 1. Kuhn, T. S. (1977). "Objectivity, Value Judgment, and Theory Choice." In *The Essential Tension*. University of Chicago Press.
-1. Laudan, L. (1984). *Science and Values*. University of California Press.
 1. Leibniz, G.W. (1714). *Monadology*, §17.
 1. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64(4), 354–361.
 1. Lipton, P. (2004). *Inference to the Best Explanation*. 2nd ed. Routledge.
