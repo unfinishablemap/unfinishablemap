@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 10:34 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/temporal-asymmetry-remembering-anticipating]]
+- **Word count**: 1919 → 1966 (+47)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (loose neuroimaging citation)
+- **Enhancements made**: 2 (specific citation added, cross-link to collapse-and-time)
+- **Output**: [[reviews/deep-review-2026-03-16-temporal-asymmetry-remembering-anticipating]]
+
 ## 2026-03-16 10:17 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[consciousness-and-the-problem-of-theoretical-virtues]], [[consciousness-and-the-problem-of-philosophical-progress]]

@@ -3,7 +3,7 @@ title: "The Asymmetry Between Remembering and Anticipating"
 created: 2026-01-21
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-15T06:11:00+00:00
+ai_modified: 2026-03-16T10:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,12 +29,13 @@ related_articles:
   - "[[apophatic-approaches]]"
   - "[[topics/free-will]]"
   - "[[concepts/functionalism]]"
+  - "[[collapse-and-time]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-21
 last_curated: null
-last_deep_review: 2026-02-04T18:47:00+00:00
+last_deep_review: 2026-03-16T10:34:00+00:00
 ---
 
 We can re-experience the past but only imagine the future. When you remember yesterday's conversation, you don't merely retrieve information—you inhabit the scene, feel its texture, re-live what happened. But when you think about tomorrow's meeting, however vividly, you construct a simulation that lacks something memories possess. This asymmetry is so familiar we barely notice it, yet it may mark a fundamental void in cognition. We can only directly know what has causally affected us. The future, by definition, has not.
@@ -47,7 +48,7 @@ Memory and future simulation share neural substrate—hippocampus, medial prefro
 
 [[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]]—Tulving's term for the awareness accompanying episodic memory—includes a distinctive phenomenal marker: the felt sense of pastness. When you remember your wedding day, it arrives tagged as having-happened. This isn't inferred but immediately present—a quale, directly given. De Brigard (2020) analyzes this as an "epistemic feeling"—a metacognitive state that tracks source and reliability. Functionalists will note this framing is compatible with their view: the feeling of pastness could be a cognitive marker rather than an irreducible quale. The Map's dualist perspective maintains that even if the feeling *functions* as a marker, its phenomenal character—what it is like to experience pastness—remains irreducible to the marking function.
 
-Future simulation differs categorically. The imagined future feels *constructed* rather than *contacted*. Even vivid future simulation—detailed imagery, emotional engagement—lacks the quality of having-been-there. Neuroimaging confirms this: future simulation produces greater hippocampal activation than memory retrieval. The extra constructive work is phenomenologically manifest.
+Future simulation differs categorically. The imagined future feels *constructed* rather than *contacted*. Even vivid future simulation—detailed imagery, emotional engagement—lacks the quality of having-been-there. Neuroimaging confirms this: future simulation produces greater hippocampal activation than memory retrieval (Addis, Wong & Schacter, 2007). The extra constructive work is phenomenologically manifest.
 
 | Feature | Memory | Future Simulation |
 |---------|--------|-------------------|
@@ -127,6 +128,7 @@ Several findings would require revision: genuine pre-experience (the pastness qu
 - [[episodic-memory]] — The memory system that preserves experienced events
 - [[prospective-memory]] — Future-directed memory and its phenomenology
 - [[temporal-consciousness]] — How time structures conscious experience
+- [[collapse-and-time]] — How consciousness might participate in collapse that generates time's arrow
 - [[philosophy-of-time]] — McTaggart's A/B series, presentism, and the growing block
 - [[phenomenology-of-the-edge]] — What happens when consciousness approaches limits
 - [[thoughts-that-slip-away]] — Related phenomenology of cognitive limitation
@@ -140,6 +142,7 @@ Several findings would require revision: genuine pre-experience (the pastness qu
 
 ## References
 
+1. Addis, D.R., Wong, A.T. & Schacter, D.L. (2007). Remembering the past and imagining the future: Common and distinct neural substrates during event construction and elaboration. *Neuropsychologia*, 45(7), 1363-1377.
 1. De Brigard, F. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
 1. Hoerl, C. (2018). Remembering past experiences. In K. Michaelian et al. (eds.), *New Directions in the Philosophy of Memory*. Routledge.
 1. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time* (trans. Brough). Kluwer.
