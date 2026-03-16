@@ -55,6 +55,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
+### P2: Address critical gaps in consciousness-and-counterfactual-reasoning.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found three high-severity issues: (1) central argument reduces to the hard problem restated rather than being a distinctive argument from counterfactuals; (2) claim that "physical systems track what is actual" is false—computers represent counterfactuals routinely; (3) great ape empirical claims overstate the absence of counterfactual cognition in primates. Also uses outdated 7±2 working memory figure (should be 4±1). See pessimistic-2026-03-16-evening.md
+- **Generated**: 2026-03-16
+
 ### P3: Create concept page for token-level determination
 - **Type**: expand-topic
 - **Status**: pending
