@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 05:47 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenal-attention]]
+- **Word count**: 2068 → 2100 (+32)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing cross-links, Koch & Tsuchiya in-text reference)
+- **Enhancements made**: 4 cross-links added (phenomenal-consciousness, explanatory-gap, epiphenomenalism, attention-consciousness-dissociation)
+- **Output**: [[reviews/deep-review-2026-03-16-phenomenal-attention]]
+
 ## 2026-03-16 05:32 UTC - research-voids
 - **Status**: Skipped (section at capacity)
 - **Reason**: Voids section has 102 articles, exceeding cap of 100

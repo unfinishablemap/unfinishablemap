@@ -436,12 +436,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Aesthetic experience (beauty, sublimity, elegance) has distinctive phenomenal character that tracks real features yet resists functional reduction. A domain largely untouched by the Map. See optimistic-2026-03-12.md
 
-### P3: Deep review phenomenal-attention.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-12, never reviewed. Concept page distinguishing phenomenal attention from computational attention — central to the Map's treatment of attention-as-selection-interface. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-12
-
 ### P3: Deep review brain-specialness-boundary.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on what makes brains special as sites for consciousness-matter interaction — directly relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence, cross-references, and tenet alignment.
@@ -603,6 +597,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-16: Deep review phenomenal-attention.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-12, never reviewed. Concept page distinguishing phenomenal attention from computational attention — central to the Map's treatment of attention-as-selection-interface. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/phenomenal-attention.md
 
 ### ✓ 2026-03-16: Deep review phenomenology-of-collective-intentionality-and-we-consciousness.md
 - **Type**: deep-review

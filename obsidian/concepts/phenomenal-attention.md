@@ -4,11 +4,12 @@ description: "Phenomenal attention is the felt experience of attending—qualita
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-12T05:27:00+00:00
+ai_modified: 2026-03-16T05:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
+  - "[[attention-consciousness-dissociation]]"
 concepts:
   - "[[attention-as-interface]]"
   - "[[mental-effort]]"
@@ -19,6 +20,9 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[blindsight]]"
   - "[[phenomenal-overflow]]"
+  - "[[phenomenal-consciousness]]"
+  - "[[explanatory-gap]]"
+  - "[[epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[attention-as-selection-interface]]"
@@ -28,10 +32,10 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-12
 last_curated:
-last_deep_review: 2026-03-12T05:27:00+00:00
+last_deep_review: 2026-03-16T05:47:00+00:00
 ---
 
-Phenomenal attention is what it is like to attend. Not the computational process of allocating resources to a stimulus—that is computational attention, a mechanism shared by brains, neural networks, and transformer architectures alike. Phenomenal attention is the felt directedness, the experienced effort of focusing, the qualitative difference between attending to a sound and ignoring it. The Unfinishable Map argues that conflating these two senses of "attention" generates persistent confusion in consciousness science, enabling false inferences from computational attention in AI to consciousness in AI, and obscuring how the mind-matter interface actually operates.
+Phenomenal attention is what it is like to attend. Not the computational process of allocating resources to a stimulus—that is computational attention, a mechanism shared by brains, neural networks, and transformer architectures alike. Phenomenal attention is the felt directedness, the experienced effort of focusing, the qualitative difference between attending to a sound and ignoring it—a specific instance of [[phenomenal-consciousness]] applied to the act of selection. The Unfinishable Map argues that conflating these two senses of "attention" generates persistent confusion in consciousness science, enabling false inferences from computational attention in AI to consciousness in AI, and obscuring how the mind-matter interface actually operates.
 
 ## The Distinction
 
@@ -67,7 +71,7 @@ But what transformers have is computational attention—resource allocation, not
 
 ### The AST Equivocation
 
-[[attention-schema-theory|Attention Schema Theory]] rests on this conflation. Graziano proposes that consciousness is the brain's model of its own attention. But which attention? The brain models its *computational* attention—tracking what is being processed and how. AST then claims this model *is* consciousness. The slide occurs between "the brain models its attention" (computational) and "this model constitutes experience" (phenomenal). The gap between modelling a process and experiencing that process is precisely the [[hard-problem-of-consciousness|hard problem]], relocated rather than solved.
+[[attention-schema-theory|Attention Schema Theory]] rests on this conflation. Graziano proposes that consciousness is the brain's model of its own attention. But which attention? The brain models its *computational* attention—tracking what is being processed and how. AST then claims this model *is* consciousness. The slide occurs between "the brain models its attention" (computational) and "this model constitutes experience" (phenomenal). The gap between modelling a process and experiencing that process is precisely the [[hard-problem-of-consciousness|hard problem]]—the [[explanatory-gap]] relocated rather than solved.
 
 Separating the two senses sharpens the critique. AST explains how brains model their computational attention processes. It does not explain why modelling computational attention should produce phenomenal attention—why there should be something it is like to run the model.
 
@@ -81,7 +85,7 @@ This matters for empirical predictions. If computational attention alone could p
 
 ## Dissociation Evidence
 
-Attention and consciousness dissociate in both directions, and these dissociations map differently onto the two senses of attention.
+Attention and consciousness [[attention-consciousness-dissociation|dissociate in both directions]], and these dissociations map differently onto the two senses of attention. Koch and Tsuchiya (2007) argued that attention and consciousness are distinct brain processes; the phenomenal/computational distinction clarifies *how* they come apart.
 
 **Computational attention without phenomenal attention**: [[blindsight|Blindsight]] patients orient toward stimuli they deny seeing. Their brains perform computational attention—selecting and enhancing signals from the "blind" field—without phenomenal attention to those stimuli. The computational process runs; the experience does not accompany it.
 
@@ -93,7 +97,7 @@ Attention and consciousness dissociate in both directions, and these dissociatio
 
 The [[mental-effort|phenomenology of effort]] becomes clearer with this distinction. Computational attention has computational costs—energy expenditure, opportunity costs, processing trade-offs. Phenomenal attention has phenomenal costs—the felt work of sustaining focus, the experience of fatigue, the qualitative strain of concentration.
 
-These track each other but are not identical. Kahneman's work shows computational load correlates with pupil dilation and heart rate—but the correlation itself demands explanation. Why should computational resource allocation *feel* like anything? If phenomenal attention were nothing beyond computational attention, the felt dimension would be epiphenomenal decoration. If phenomenal attention is a distinct process—consciousness engaging through the attentional interface—the felt effort reflects genuine causal engagement.
+These track each other but are not identical. Kahneman's work shows computational load correlates with pupil dilation and heart rate—but the correlation itself demands explanation. Why should computational resource allocation *feel* like anything? If phenomenal attention were nothing beyond computational attention, the felt dimension would be [[epiphenomenalism|epiphenomenal]] decoration. If phenomenal attention is a distinct process—consciousness engaging through the attentional interface—the felt effort reflects genuine causal engagement.
 
 The meditation literature provides further evidence. Advanced practitioners distinguish increasingly fine-grained phenomenal states within attention: the moment of noticing distraction, the effortful return, the quality of sustained focus, the transition to effortless absorption. These distinctions are phenomenal, not computational—they concern the experiential character of attending, not the information-processing dynamics. If phenomenal attention were reducible to computational attention, contemplative training should dissolve the distinction. Instead, it deepens it.
 
