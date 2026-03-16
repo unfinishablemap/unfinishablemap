@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [Consciousness and the Problem of Philosophical Progress](/topics/consciousness-and-the-problem-of-philosophical-progress/)
+**Article**: [Consciousness and the Problem of Philosophical Progress](/topics/consciousness-and-methodological-failure/)
 **Previous review**: [2026-02-22](/reviews/deep-review-2026-02-22-consciousness-and-the-problem-of-philosophical-progress/)
 **Context**: Cross-review triggered by creation of [Consciousness and the Structure of Scientific Revolutions](/topics/consciousness-and-the-structure-of-scientific-revolutions/)
 

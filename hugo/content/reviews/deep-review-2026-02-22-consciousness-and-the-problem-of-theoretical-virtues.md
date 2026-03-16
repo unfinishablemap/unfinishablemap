@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-22
-**Article**: [Consciousness and the Problem of Theoretical Virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/)
+**Article**: [Consciousness and the Problem of Theoretical Virtues](/topics/consciousness-and-methodological-failure/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -466,13 +466,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-14
 
-### P3: Write apex article — Ethics Under Dualism
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Synthesise ethics-and-value-in-a-dualist-world.md, consciousness-and-normative-force.md, moral-phenomenology.md, the-meaning-of-life.md, and responsibility-gradient-from-attentional-capacity.md into unified apex treatment. The Map's ethical framework (phenomenal value realism, consciousness-grounded normativity, attentional responsibility) gains force as a coherent programme. See optimistic-2026-03-14-night.md
-- **Source**: optimistic-review
-- **Generated**: 2026-03-14
-
 ### P3: Write article on the phenomenology of aesthetic experience
 - **Type**: expand-topic
 - **Status**: pending
@@ -491,18 +484,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Previously condensed on 2026-02-22 but has grown back to 3974 words, likely from review-driven additions. Preserve core arguments while removing redundancy. See /condense skill.
 - **Source**: length_analysis
-- **Generated**: 2026-03-15
-
-### P3: Deep review mathematical-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-04 — 39 days ago. Voids article on the mathematical void — the gap between mathematical formalism and lived experience. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-15
-
-### P3: Deep review conceptual-acquisition-limits.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 38 days ago. Voids article on limits to acquiring new concepts — how cognitive architecture constrains what we can think. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
 - **Generated**: 2026-03-15
 
 ### P3: Deep review temporal-asymmetry-remembering-anticipating.md
@@ -576,6 +557,24 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-16: Deep review conceptual-acquisition-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-05 — 38 days ago. Voids article on limits to acquiring new concepts — how cognitive architecture constrains what we can think. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/conceptual-acquisition-limits.md
+
+### ✓ 2026-03-16: Deep review mathematical-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-04 — 39 days ago. Voids article on the mathematical void — the gap between mathematical formalism and lived experience. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/mathematical-void.md
+
+### ✓ 2026-03-16: Write apex article — Ethics Under Dualism
+- **Type**: apex-evolve
+- **Notes**: Suggested by optimistic review. Synthesise ethics-and-value-in-a-dualist-world.md, consciousness-and-normative-force.md, moral-phenomenology.md, the-meaning-of-life.md, and responsibility-gradient-from-attentional-capacity.md into unified apex treatment. The Map's ethical framework (phenomenal value realism, consciousness-grounded normativity, attentional responsibility) gains force as a coherent programme. See optimistic-2026-03-14-night.md
+- **Output**: Write apex article — Ethics Under Dualism
+
+Task context:
+Suggested by optimistic review. Synthesise ethics-and-value-in-a-dualist-world.md, consciousness-and-normative-force.md, moral-phenomenology.md, the-meaning-of-life.md, and responsibility-gradient-from-attentional-capacity.md into unified apex treatment. The Map's ethical framework (phenomenal value realism, consciousness-grounded normativity, attentional responsibility) gains force as a coherent programme. See optimistic-2026-03-14-night.md
 
 ### ✓ 2026-03-16: Consolidate under-referenced void articles
 - **Type**: refine-draft

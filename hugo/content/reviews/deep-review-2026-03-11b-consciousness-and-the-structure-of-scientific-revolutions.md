@@ -48,7 +48,7 @@ topics: []
 
 1. [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/) — In theory choice section (Kuhn's insight) and Lakatos assessment section
 2. [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) — In "The Deeper Implication" section
-3. [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/) — In standard account section (Kuhn reference)
+3. [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/) — In standard account section (Kuhn reference)
 4. [arguments-against-materialism](/topics/arguments-against-materialism/) — In "Misplaced Confidence in Future Science" section
 5. [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — In "Why the Asymmetry Matters" section
 6. [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/) — In Kuhn reference (conceptual change vs paradigm shift)
@@ -56,7 +56,7 @@ topics: []
 8. [materialism](/concepts/materialism/) — In "Future Science" materialist response section
 9. [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — In "Why This Matters" section
 
-Note: [consciousness-and-the-problem-of-philosophical-progress](/topics/consciousness-and-the-problem-of-philosophical-progress/) already had an inbound link from an earlier review.
+Note: [consciousness-and-the-problem-of-philosophical-progress](/topics/consciousness-and-methodological-failure/) already had an inbound link from an earlier review.
 
 ## Remaining Items
 

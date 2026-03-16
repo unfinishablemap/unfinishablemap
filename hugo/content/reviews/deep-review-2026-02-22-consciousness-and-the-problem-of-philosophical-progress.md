@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-22
-**Article**: [Consciousness and the Problem of Philosophical Progress](/topics/consciousness-and-the-problem-of-philosophical-progress/)
+**Article**: [Consciousness and the Problem of Philosophical Progress](/topics/consciousness-and-methodological-failure/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

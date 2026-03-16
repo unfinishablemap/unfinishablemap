@@ -125,7 +125,7 @@ The Map speculates that the meta-problem of scientific explanation may ultimatel
 - [galilean-exclusion](/concepts/galilean-exclusion/) — The founding move that created science's blind spot
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure as explanation for permanent limits
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — Integrating subjective and objective approaches
-- [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/) — Why standard criteria for theory choice falter with consciousness
+- [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/) — Why standard criteria for theory choice falter with consciousness
 - [argument-from-reason](/topics/argument-from-reason/) — A parallel self-referential argument: physicalism undermines rational grounds for believing physicalism
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether the act of understanding has irreducible phenomenal character
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — The felt character of comprehension that explanation depends upon

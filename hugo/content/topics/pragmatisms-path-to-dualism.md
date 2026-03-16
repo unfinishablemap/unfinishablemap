@@ -28,7 +28,7 @@ related_articles:
 - '[[argument-from-reason]]'
 - '[[consciousness-and-the-limits-of-explanation]]'
 - '[[epistemic-advantages-of-dualism]]'
-- '[[consciousness-and-the-problem-of-theoretical-virtues]]'
+- '[[consciousness-and-methodological-failure]]'
 title: Pragmatism's Path to Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -106,7 +106,7 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 - [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) — The reflexive gap between explanation and understanding
 - [argument-from-reason](/topics/argument-from-reason/) — The parallel self-defeat argument from rationality
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why maintaining dualism is epistemically responsible
-- [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/) — Why standard theory-choice criteria falter with consciousness
+- [consciousness-and-methodological-failure](/topics/consciousness-and-methodological-failure/) — Why standard theory-choice criteria falter with consciousness
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The irreducible phenomenal character of thought and evaluation
 
 ## References

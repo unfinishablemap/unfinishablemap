@@ -8,7 +8,7 @@ ai_modified: 2026-03-12T00:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[consciousness-and-the-problem-of-theoretical-virtues]]"
+  - "[[consciousness-and-methodological-failure]]"
 concepts:
   - "[[reductionism]]"
   - "[[concepts/materialism]]"

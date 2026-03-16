@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-16 09:48:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: The moment attention returns from wandering reveals a micro-structu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-15 09:46:00+00:00
+last_deep_review: 2026-03-16 09:48:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -45,7 +45,7 @@ Careful introspective observation, particularly as trained in focused-attention 
 
 Attention drifts from its intended object. In meditation, you set out to watch the breath, and at some point you are instead rehearsing a conversation or planning dinner. The crucial feature of this phase is *absence of awareness of the drift itself*. You do not experience the transition from focused to wandering — it simply happens without being noticed, a case of [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) in miniature and a micro-instance of the [transition-void](/voids/transition-void/): the cognitive stance required to observe the departure is the focused attention whose loss constitutes the departure.
 
-This is phenomenologically significant. During wandering, there is still experience — you are thinking, imagining, worrying — but [meta-awareness](/concepts/witness-consciousness/) is absent. You are absorbed in the content without monitoring whether the content is what you intended to attend to. The [default-mode-network](/concepts/default-mode-network/) is active, generating self-referential narratives, but the oversight function has disengaged.
+This is phenomenologically significant. During wandering, there is still experience — you are thinking, imagining, worrying — but [meta-awareness](/concepts/witness-consciousness/) is absent. You are absorbed in the content without monitoring whether the content is what you intended to attend to — a micro-instance of the [absorption-void](/voids/absorption-void/), where the immersive character of experience blocks the very stance needed to observe it. The [default-mode-network](/concepts/default-mode-network/) is active, generating self-referential narratives, but the oversight function has disengaged. Schooler (2002) calls this the dissociation between experience and *meta-consciousness*: you are conscious, but not conscious *of* being conscious in the relevant monitoring sense.
 
 ### Phase Two: Noticing
 
@@ -81,7 +81,7 @@ The Map favours the selection account. It preserves consciousness as genuinely i
 
 Meditation training progressively transforms all three phases. This transformation provides evidence that the phenomenology of returning attention is not fixed neural output but something that responds to conscious practice.
 
-**Shortening the gap**: Experienced meditators report that the wandering phase grows shorter with practice. The interval between losing and noticing diminishes. Hasenkamp et al. (2012) confirmed this: experienced meditators showed faster re-engagement of executive networks after mind-wandering episodes. The meta-awareness function becomes more responsive, as though practice strengthens the background monitoring.
+**Shortening the gap**: Experienced meditators report that the wandering phase grows shorter with practice. The interval between losing and noticing diminishes. Hasenkamp et al. (2012) found that meditators' attention cycles could be tracked in real time via fMRI, with experienced practitioners tending toward shorter wandering episodes and faster transitions back to focused attention. The meta-awareness function becomes more responsive, as though practice strengthens the background monitoring.
 
 **Softening the noticing**: Beginners often experience noticing with self-criticism — "I wandered again, I'm doing this wrong." Advanced practitioners describe noticing without judgement, a bare registering that attention has moved. The emotional charge diminishes while the clarity of recognition increases. This parallels the development of [witness consciousness](/concepts/witness-consciousness/): a capacity to observe without evaluating.
 
@@ -107,7 +107,7 @@ The phrase "returning attention" conceals an ambiguity. What exactly returns? Se
 - **Effort**: The phenomenal sense of trying reappears
 - **Temporal orientation**: Experience shifts from absorption in content (timeless wandering) to directed engagement (future-oriented attending)
 
-The bundled character of returning — all these aspects shifting together rather than sequentially — suggests that what returns is not a single faculty but an entire mode of consciousness. A purely mechanistic account might predict that focus, meta-awareness, intention, and effort could be independently manipulated and would decouple under unusual conditions. That they reliably co-occur in the return event points to a unified shift in how consciousness relates to the brain, not just a change in what is being processed.
+The bundled character of returning — all these aspects shifting together rather than sequentially — suggests that what returns is not a single faculty but an entire mode of consciousness. A mechanistic account can explain some of this bundling: executive control re-engagement naturally recruits multiple cognitive functions simultaneously. But the bundling extends beyond what a single network predicts. Meta-awareness, phenomenal effort, and temporal reorientation are not all executive-control functions, yet they shift in concert. This points to a unified transition in how consciousness relates to the brain, not just a change in which network is active.
 
 This connects to the [two-mode framework](/concepts/meditation-and-consciousness-modes/). Wandering is a partial version of passive mode — consciousness absorbed in content without active selection. Returning is the re-engagement of active selection mode. Each return in meditation is a micro-instance of the fundamental transition between witnessing and selecting.
 
@@ -124,7 +124,7 @@ Lutz et al. (2008) proposed a four-phase model of focused attention meditation t
 
 The value of this cycle is not the sustained focus at the end — that is unstable and temporary. The value is in the return itself. Each return exercises the full circuit of meta-awareness, agency, and voluntary control. The meditator's skill is not the ability to never wander but the ability to return efficiently, gently, and without self-recrimination.
 
-This has implications for the [contemplative epistemology](/concepts/contemplative-epistemology/) the Map endorses. Trained meditators become expert at observing through [introspection](/concepts/introspection/) the micro-structure of their own attention. Their reports about the three phases — the absence of meta-awareness during wandering, the surprise of noticing, the effort of returning — converge across traditions and cultures. This convergence, increasingly supported by [neurophenomenological](/concepts/neurophenomenology/) research, suggests they are reporting real phenomenological structure rather than culturally constructed narratives — though shared neural architecture may also contribute to the consistency.
+This has implications for the [contemplative epistemology](/concepts/contemplative-epistemology/) the Map endorses. Trained meditators become expert at observing through [introspection](/concepts/introspection/) the micro-structure of their own attention. Their reports about the three phases — the absence of meta-awareness during wandering, the surprise of noticing, the effort of returning — converge across traditions and cultures (a pattern consistent with the broader cross-cultural findings on mind-wandering reviewed by Smallwood & Schooler, 2015). This convergence, increasingly supported by [neurophenomenological](/concepts/neurophenomenology/) research, suggests they are reporting real phenomenological structure rather than culturally constructed narratives — though shared neural architecture may also contribute to the consistency.
 
 ## Relation to Site Perspective
 
@@ -140,10 +140,9 @@ This has implications for the [contemplative epistemology](/concepts/contemplati
 
 ## Further Reading
 
-- [voluntary attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from automatic attention
+- [attention-as-interface](/concepts/attention-as-interface/) — Why attention is the privileged interface between mind and brain, including neural signatures distinguishing willed from automatic attention
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — The two modes of consciousness and their neural correlates
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The felt contrast between doing and undergoing
-- [attention-as-interface](/concepts/attention-as-interface/) — Why attention is the privileged interface between mind and brain
 - [mental-effort](/concepts/mental-effort/) — The phenomenology and mechanism of effortful attention
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer capacity that underlies meta-awareness
 - [structure-of-attention](/topics/structure-of-attention/) — Three-mode architecture of attentional control

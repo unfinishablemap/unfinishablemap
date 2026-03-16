@@ -28,6 +28,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-20
 last_curated:
 last_deep_review: 2026-02-22T07:02:00+00:00
+archived: true
+archived_date: 2026-03-16T10:17:00+00:00
+superseded_by: "/topics/consciousness-and-methodological-failure/"
+archive_reason: "Coalesced into Consciousness and the Failure of Standard Methodology"
+original_path: "/topics/consciousness-and-the-problem-of-theoretical-virtues/"
 ---
 
 Theoretical virtues — the properties that make one theory preferable to another — are the engine of rational theory choice in science. Simplicity, explanatory power, empirical adequacy, fertility, scope, elegance, and unificatory strength normally help scientists navigate between competing hypotheses. The Unfinishable Map argues that consciousness breaks the machinery of theoretical virtues in distinctive and underappreciated ways. Not just parsimony (addressed separately in [[epistemological-limits-occams-razor]]), but the entire suite of virtues malfunctions when the target phenomenon is subjective experience. This systematic failure may itself be diagnostic of something about consciousness's nature — though interpreting it requires care, as the article explores.

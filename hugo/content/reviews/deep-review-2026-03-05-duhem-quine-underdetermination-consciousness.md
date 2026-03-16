@@ -63,7 +63,7 @@ topics: []
 ### Pre-existing Cross-links (from prior review)
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) → duhem-quine
 - [consciousness-and-the-limits-of-explanation](/topics/consciousness-and-the-limits-of-explanation/) → duhem-quine
-- [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/) → duhem-quine
+- [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/) → duhem-quine
 - [consciousness-and-the-phenomenology-of-framework-dependence](/topics/phenomenology-of-framework-inhabitation/) → duhem-quine
 - [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) → duhem-quine
 

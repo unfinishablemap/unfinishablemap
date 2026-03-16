@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 10:17 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[consciousness-and-the-problem-of-theoretical-virtues]], [[consciousness-and-the-problem-of-philosophical-progress]]
+- **Target**: [[consciousness-and-methodological-failure]]
+- **Archived**: archive/topics/consciousness-and-the-problem-of-theoretical-virtues.md, archive/topics/consciousness-and-the-problem-of-philosophical-progress.md
+- **References updated**: 13 files (wikilinks in active content updated to new slug)
+- **References to review**: none (all active content wikilinks updated)
+
 ## 2026-03-16 10:02 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/conceptual-acquisition-limits]]

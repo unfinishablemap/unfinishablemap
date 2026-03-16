@@ -51,7 +51,7 @@ topics: []
 
 ### Cross-links Added
 - [consciousness-and-the-phenomenology-of-framework-dependence](/topics/phenomenology-of-framework-inhabitation/)
-- [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/)
+- [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/)
 
 ## Remaining Items
 

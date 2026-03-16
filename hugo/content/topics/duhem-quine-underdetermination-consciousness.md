@@ -30,7 +30,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[consciousness-and-scientific-methodology]]'
 - '[[consciousness-and-the-limits-of-explanation]]'
-- '[[consciousness-and-the-problem-of-theoretical-virtues]]'
+- '[[consciousness-and-methodological-failure]]'
 - '[[phenomenology-of-framework-inhabitation]]'
 ---
 
@@ -82,7 +82,7 @@ When evidence underdetermines theory choice, what guides scientists? The [phenom
 
 This has direct implications for consciousness science. Physicalist theories are often preferred on grounds of simplicity—they do not posit entities beyond the physical. But as the Map's analysis of [Occam's Razor](/arguments/epistemological-limits-of-occams-razor/) shows, simplicity is unreliable when knowledge is incomplete. The apparent parsimony of physicalism may reflect conceptual poverty rather than ontological insight.
 
-The problem runs deeper than parsimony alone. The Map's examination of [theoretical virtues in consciousness science](/topics/consciousness-and-the-problem-of-theoretical-virtues/) shows that the entire suite of Kuhnian values—empirical adequacy, explanatory power, simplicity, scope, fertility, elegance—systematically malfunctions when applied to consciousness. Empirical adequacy cannot discriminate between physicalism and property dualism because both accommodate third-person data while the target explanandum (phenomenal experience) is invisible to third-person methods. Elegance and fertility are assessed through phenomenal states—aesthetic response, sense of understanding—which are part of the phenomenon under investigation, creating a circularity that undermines their neutrality. These virtues were calibrated in domains where the observer plays no constitutive role; they cannot be assumed to function reliably where the observer is constitutive of the subject matter.
+The problem runs deeper than parsimony alone. The Map's examination of [theoretical virtues in consciousness science](/topics/consciousness-and-methodological-failure/) shows that the entire suite of Kuhnian values—empirical adequacy, explanatory power, simplicity, scope, fertility, elegance—systematically malfunctions when applied to consciousness. Empirical adequacy cannot discriminate between physicalism and property dualism because both accommodate third-person data while the target explanandum (phenomenal experience) is invisible to third-person methods. Elegance and fertility are assessed through phenomenal states—aesthetic response, sense of understanding—which are part of the phenomenon under investigation, creating a circularity that undermines their neutrality. These virtues were calibrated in domains where the observer plays no constitutive role; they cannot be assumed to function reliably where the observer is constitutive of the subject matter.
 
 If Kuhnian values legitimately influence theory choice but cannot function as neutral arbiters in this domain, then metaphysical commitments—including dualism—are not illegitimate intrusions into science but recognised components of rational theory selection.
 
@@ -115,7 +115,7 @@ The Map's honest assessment: underdetermination cuts both ways. It undermines ph
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)
 - [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)
-- [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/)
+- [consciousness-and-methodological-failure](/topics/consciousness-and-methodological-failure/)
 - [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/)
 - [integrated-information-theory](/concepts/integrated-information-theory/)
 - [global-workspace-theory](/concepts/global-workspace-theory/)

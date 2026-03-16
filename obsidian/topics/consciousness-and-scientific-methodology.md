@@ -33,7 +33,7 @@ related_articles:
   - "[[duhem-quine-underdetermination-consciousness]]"
   - "[[consciousness-and-the-problem-of-measurement-standards]]"
   - "[[philosophy-of-science-under-dualism]]"
-  - "[[consciousness-and-the-problem-of-theoretical-virtues]]"
+  - "[[consciousness-and-methodological-failure]]"
   - "[[phenomenology-of-creative-insight]]"
 ai_contribution: 100
 author:
@@ -102,7 +102,7 @@ If standard scientific methodology is structurally mismatched with consciousness
 
 **[[heterophenomenology|Heterophenomenology]]** (Dennett's approach) denies the problem altogether. It treats first-person reports as third-person data — verbal behaviour to be catalogued and explained without granting them privileged epistemic status. This keeps the existing scientific framework intact, but at a cost the Map finds unacceptable: it treats the subject's experience as a text to be interpreted rather than a phenomenon to be explained, effectively dissolving the hard problem by refusing to pose it.
 
-None of these fully resolves the methodological problem. The first three manage it productively, while heterophenomenology denies it exists. The choice between them is itself underdetermined by evidence — each presupposes different answers to the question of how first-person and third-person data relate, which is the very question at stake. As the Map's analysis of [[consciousness-and-the-problem-of-theoretical-virtues|theoretical virtues]] shows, the standard criteria scientists use to choose between theories (simplicity, scope, fruitfulness) systematically malfunction when applied to consciousness, because the observer is constitutive of the subject matter. The underlying tension — a perspective-independent method applied to a perspective-dependent phenomenon — persists for anyone who takes phenomenal consciousness seriously.
+None of these fully resolves the methodological problem. The first three manage it productively, while heterophenomenology denies it exists. The choice between them is itself underdetermined by evidence — each presupposes different answers to the question of how first-person and third-person data relate, which is the very question at stake. As the Map's analysis of [[consciousness-and-methodological-failure|theoretical virtues]] shows, the standard criteria scientists use to choose between theories (simplicity, scope, fruitfulness) systematically malfunction when applied to consciousness, because the observer is constitutive of the subject matter. The underlying tension — a perspective-independent method applied to a perspective-dependent phenomenon — persists for anyone who takes phenomenal consciousness seriously.
 
 ## The Deeper Implication
 
@@ -141,7 +141,7 @@ The broader implications for [[philosophy-of-science-under-dualism|doing science
 - [[philosophical-zombies]] — The conceivability argument that flows from excluding subjectivity
 - [[duhem-quine-underdetermination-consciousness]] — Why underdetermination runs deeper in consciousness science than elsewhere
 - [[philosophy-of-science-under-dualism]] — What scientific practice looks like under dualist commitments
-- [[consciousness-and-the-problem-of-theoretical-virtues]] — Why standard theory-choice criteria malfunction for consciousness
+- [[consciousness-and-methodological-failure]] — Why standard theory-choice criteria malfunction for consciousness
 - [[phenomenology-of-creative-insight]] — The irreducibly phenomenal character of scientific practice itself
 
 ## References

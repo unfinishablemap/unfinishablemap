@@ -9,7 +9,7 @@ last_deep_review: 2026-03-11T21:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[consciousness-and-the-problem-of-philosophical-progress]]"
+  - "[[consciousness-and-methodological-failure]]"
   - "[[consciousness-and-scientific-methodology]]"
 concepts:
   - "[[concepts/materialism]]"
@@ -19,7 +19,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[philosophy-of-science-under-dualism]]"
-  - "[[consciousness-and-the-problem-of-theoretical-virtues]]"
+  - "[[consciousness-and-methodological-failure]]"
   - "[[phenomenology-of-conceptual-change]]"
   - "[[phenomenology-of-framework-inhabitation]]"
 ai_contribution: 100
@@ -51,7 +51,7 @@ Kuhn argued that paradigms enter crisis when anomalies accumulate — results th
 
 **Conceivability arguments survive.** [[philosophical-zombies|Zombie arguments]] and [[knowledge-argument|knowledge arguments]] (Mary's Room) continue to generate philosophical work because physicalism has not found a way to defuse them that satisfies both sides. Physicalists argue that conceivability does not entail possibility; dualists argue that systematic conceivability of a physical duplicate without experience reveals something about the relationship between the physical and the phenomenal. The stalemate itself is diagnostic. In normal science, anomalies get absorbed or explained away. These have not been.
 
-**The [[consciousness-and-the-problem-of-theoretical-virtues|failure of theoretical virtues]].** The standard criteria scientists use to choose between theories — simplicity, scope, fertility, elegance, explanatory power — systematically malfunction when applied to consciousness. This is not a problem with any individual virtue but a pattern: the entire toolkit calibrated for selecting between physical theories loses its grip when the phenomenon is subjective experience.
+**The [[consciousness-and-methodological-failure|failure of theoretical virtues]].** The standard criteria scientists use to choose between theories — simplicity, scope, fertility, elegance, explanatory power — systematically malfunction when applied to consciousness. This is not a problem with any individual virtue but a pattern: the entire toolkit calibrated for selecting between physical theories loses its grip when the phenomenon is subjective experience.
 
 ## The Structure of Crisis
 
@@ -69,7 +69,7 @@ If physicalism is a paradigm in crisis, why has no revolution occurred? Kuhn was
 
 This explains the current impasse. [[interactionist-dualism|Dualism]], the most prominent alternative, lacks what Kuhn called an exemplary solution — a worked example showing how the new paradigm resolves a key anomaly in detail. The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet gestures toward such a solution, proposing that consciousness biases quantum indeterminacy in neural systems. But this remains programmatic rather than fully developed. Panpsychism faces the [[combination-problem|combination problem]]. Mysterianism denies that any solution is humanly accessible. None has produced the decisive anomaly resolution that triggers revolution.
 
-The consciousness debate therefore occupies what Kuhn described as an extended crisis: the old paradigm is weakening, alternatives are proliferating, but no candidate has achieved the consolidation needed to replace the incumbent. The Map's analysis of [[consciousness-and-the-problem-of-philosophical-progress|philosophical non-convergence]] reinforces this diagnosis — philosophy of mind has debated these questions for millennia without converging, a pattern consistent with pre-revolutionary crisis rather than normal cumulative progress.
+The consciousness debate therefore occupies what Kuhn described as an extended crisis: the old paradigm is weakening, alternatives are proliferating, but no candidate has achieved the consolidation needed to replace the incumbent. The Map's analysis of [[consciousness-and-methodological-failure|philosophical non-convergence]] reinforces this diagnosis — philosophy of mind has debated these questions for millennia without converging, a pattern consistent with pre-revolutionary crisis rather than normal cumulative progress.
 
 ## What Makes Consciousness Distinctive {#what-makes-consciousness-distinctive}
 
@@ -94,8 +94,8 @@ The Unfinishable Map interprets Kuhn's framework as illuminating rather than res
 ## Further Reading
 
 - [[philosophy-of-science-under-dualism]]
-- [[consciousness-and-the-problem-of-theoretical-virtues]]
-- [[consciousness-and-the-problem-of-philosophical-progress]]
+- [[consciousness-and-methodological-failure]]
+- [[consciousness-and-methodological-failure]]
 - [[consciousness-and-scientific-methodology]]
 - [[phenomenology-of-conceptual-change]]
 - [[phenomenology-of-framework-inhabitation|The Phenomenology of Framework Inhabitation]]

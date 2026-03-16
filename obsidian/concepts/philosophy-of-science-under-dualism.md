@@ -22,7 +22,7 @@ related_articles:
   - "[[psychophysical-laws-bridging-mind-and-matter]]"
   - "[[evolution-under-dualism]]"
   - "[[reductionism-and-consciousness]]"
-  - "[[consciousness-and-the-problem-of-theoretical-virtues]]"
+  - "[[consciousness-and-methodological-failure]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -69,7 +69,7 @@ More precisely, parsimony as a theory-choice criterion is domain-relative. Withi
 
 Kuhn's insight is relevant here — as the Map's [[consciousness-and-the-structure-of-scientific-revolutions|Kuhnian analysis]] develops, physicalism exhibits the hallmarks of a paradigm in crisis: anomalies accumulating, competing theories proliferating, and no successor framework consolidating. Theory choice is not algorithmic. Scientists weigh virtues differently depending on disciplinary norms and background assumptions. The Map's analysis of the [[phenomenology-of-creative-insight|phenomenology of creative insight]] adds a further dimension: scientists report that aesthetic experience — the felt sense of a theory's elegance or "rightness" — causally guides their choices, suggesting that phenomenal consciousness plays an irreducible role in theory selection. Materialist philosophy of mind weights parsimony heavily because it treats the physical as a settled baseline. Dualist philosophy of mind weights explanatory adequacy — the capacity to account for phenomenal experience — more heavily because it treats consciousness as the most certain datum we have.
 
-Neither weighting is irrational. They reflect different judgments about what we know most securely and where the burden of explanation falls. The Map explores this tension more fully in [[consciousness-and-the-problem-of-theoretical-virtues|its treatment of theoretical virtues and consciousness]].
+Neither weighting is irrational. They reflect different judgments about what we know most securely and where the burden of explanation falls. The Map explores this tension more fully in [[consciousness-and-methodological-failure|its treatment of theoretical virtues and consciousness]].
 
 ## Scientific Realism and the Consciousness Problem
 
@@ -110,7 +110,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet pr
 - [[consciousness-and-scientific-explanation]] — How non-reductive explanation works under dualism
 - [[consciousness-and-scientific-methodology]] — Why the scientific method structurally excludes subjectivity
 - [[consciousness-and-the-limits-of-explanation]] — Why every major theory of scientific explanation fails with consciousness
-- [[consciousness-and-the-problem-of-theoretical-virtues]] — How theoretical virtues conflict when applied to consciousness
+- [[consciousness-and-methodological-failure]] — How theoretical virtues conflict when applied to consciousness
 - [[psychophysical-laws-bridging-mind-and-matter]] — Bridge laws as the positive alternative to reduction
 - [[reductionism-and-consciousness]] — Why reductive strategies fail for consciousness
 - [[evolution-under-dualism]] — How evolutionary biology operates under dualist assumptions

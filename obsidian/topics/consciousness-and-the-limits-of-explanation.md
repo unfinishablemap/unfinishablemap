@@ -24,8 +24,8 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[dualism]]"
-  - "[[consciousness-and-the-problem-of-theoretical-virtues]]"
-  - "[[consciousness-and-the-problem-of-philosophical-progress]]"
+  - "[[consciousness-and-methodological-failure]]"
+  - "[[consciousness-and-methodological-failure]]"
   - "[[first-person-third-person-methodology]]"
   - "[[argument-from-reason]]"
   - "[[duhem-quine-underdetermination-consciousness]]"
@@ -172,8 +172,8 @@ The Map holds that this failure may ultimately be more revealing than the hard p
 - [[mysterianism]] — Cognitive closure as explanation for permanent limits
 - [[first-person-third-person-methodology]] — Integrating subjective and objective approaches
 - [[consciousness-and-scientific-methodology]] — The Galilean exclusion and its consequences
-- [[consciousness-and-the-problem-of-theoretical-virtues]] — Why standard criteria for theory choice falter with consciousness
-- [[consciousness-and-the-problem-of-philosophical-progress]] — Whether philosophy can make progress on consciousness
+- [[consciousness-and-methodological-failure]] — Why standard criteria for theory choice falter with consciousness
+- [[consciousness-and-methodological-failure]] — Whether philosophy can make progress on consciousness
 - [[argument-from-reason]] — A parallel self-referential argument against physicalism
 - [[knowledge-argument]] — What testimony cannot convey about phenomenal experience
 - [[cognitive-phenomenology]] — Whether the act of understanding has irreducible phenomenal character

@@ -18,6 +18,41 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 10:17 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/), [consciousness-and-the-problem-of-philosophical-progress](/topics/consciousness-and-methodological-failure/)
+- **Target**: [consciousness-and-methodological-failure](/topics/consciousness-and-methodological-failure/)
+- **Archived**: archive/topics/consciousness-and-the-problem-of-theoretical-virtues.md, archive/topics/consciousness-and-the-problem-of-philosophical-progress.md
+- **References updated**: 13 files (wikilinks in active content updated to new slug)
+- **References to review**: none (all active content wikilinks updated)
+
+## 2026-03-16 10:02 UTC - deep-review
+- **Status**: Success
+- **File**: [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/)
+- **Word count**: 2100 → 2118 (+18)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-16-conceptual-acquisition-limits](/reviews/deep-review-2026-03-16-conceptual-acquisition-limits/)
+
+## 2026-03-16 09:48 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
+- **Word count**: 2281 → 2368 (+87)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (duplicate Further Reading link, uncited references, overstated Hasenkamp claim, weak bundling argument)
+- **Enhancements made**: 3 (absorption-void cross-link, Schooler/Smallwood inline citations, strengthened "What Returns?" reasoning)
+- **Output**: [deep-review-2026-03-16-phenomenology-of-returning-attention](/reviews/deep-review-2026-03-16-phenomenology-of-returning-attention/)
+
+## 2026-03-16 09:32 UTC - deep-review
+- **Status**: Success
+- **File**: [mathematical-void](/voids/mathematical-void/)
+- **Word count**: 2601 → 2610 (+9)
+- **Critical issues addressed**: 1 (Kant quote — possibly fabricated direct quote converted to accurate paraphrase)
+- **Medium issues addressed**: 2 (removed stale AI refinement log, added cross-links)
+- **Enhancements made**: 2 (added cognitive-closure and mathematical-knowledge-and-insight to related_articles)
+- **Output**: [deep-review-2026-03-16-mathematical-void](/reviews/deep-review-2026-03-16-mathematical-void/)
+
 ## 2026-03-16 09:17 UTC - apex-evolve
 - **Status**: Complete
 - **Article**: [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/)

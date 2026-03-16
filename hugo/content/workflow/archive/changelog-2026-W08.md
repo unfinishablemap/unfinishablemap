@@ -1914,7 +1914,7 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-20 13:51 UTC - refine-draft
 - **Status**: Success
-- **File**: [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/)
+- **File**: [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/)
 - **Changes**: Fixed self-undermining meta-argument (virtue-failure claimed to support dualism while arguing virtues are broken); introduced first-order/second-order distinction; engaged mysterianism as genuine competitor; softened evidential overclaims
 - **Published**: yes
 
@@ -2144,7 +2144,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-20 02:51 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and the Problem of Theoretical Virtues
-- **Output**: [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/)
+- **Output**: [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/)
 - **Word count**: 2134
 - **Based on research**: No
 

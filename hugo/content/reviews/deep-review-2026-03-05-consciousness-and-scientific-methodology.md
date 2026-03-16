@@ -57,7 +57,7 @@ None. The previous review addressed all critical issues (LLM cliché violation, 
 ### Cross-links Added
 - [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/) (inline, was only in related_articles)
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/) (inline + Further Reading + related_articles)
-- [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/) (inline + Further Reading + related_articles)
+- [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/) (inline + Further Reading + related_articles)
 
 ## Remaining Items
 

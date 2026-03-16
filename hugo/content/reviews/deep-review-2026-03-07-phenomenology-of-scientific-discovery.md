@@ -71,7 +71,7 @@ topics: []
 - [functionalism](/concepts/functionalism/)
 - [epiphenomenalism](/concepts/epiphenomenalism/)
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)
-- [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/)
+- [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/)
 
 ## Remaining Items
 

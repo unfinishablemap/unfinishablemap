@@ -54,7 +54,7 @@ topics: []
 
 ### Cross-links Added
 - [phenomenology-of-theoretical-commitment](/topics/phenomenology-of-framework-inhabitation/) — linked in "Why Philosophical Disagreement Persists" section
-- [consciousness-and-the-problem-of-philosophical-progress](/topics/consciousness-and-the-problem-of-philosophical-progress/) — linked in "What Disagreement Reveals" section
+- [consciousness-and-the-problem-of-philosophical-progress](/topics/consciousness-and-methodological-failure/) — linked in "What Disagreement Reveals" section
 - [consciousness-and-the-phenomenology-of-framework-dependence](/topics/phenomenology-of-framework-inhabitation/) — linked in "Why Philosophical Disagreement Persists" section
 - [phenomenal-intentionality](/concepts/intentionality/) — linked in "Felt Texture" section (was in frontmatter but absent from body)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — linked in "What Disagreement Reveals" section

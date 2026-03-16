@@ -8,7 +8,7 @@ ai_modified: 2026-03-11T10:02:00+00:00
 draft: false
 topics:
   - "[[the-convergence-argument-for-dualism]]"
-  - "[[consciousness-and-the-problem-of-philosophical-progress]]"
+  - "[[consciousness-and-methodological-failure]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[eastern-philosophy-consciousness]]"
 concepts:

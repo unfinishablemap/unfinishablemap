@@ -29,6 +29,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
 last_deep_review: 2026-03-11T14:58:00+00:00
+archived: true
+archived_date: 2026-03-16T10:17:00+00:00
+superseded_by: "/topics/consciousness-and-methodological-failure/"
+archive_reason: "Coalesced into Consciousness and the Failure of Standard Methodology"
+original_path: "/topics/consciousness-and-the-problem-of-philosophical-progress/"
 ---
 
 Philosophy of mind has debated consciousness for over two thousand years without converging on basic answers. Is experience physical or non-physical? Does it cause anything? Could it be absent from a [[philosophical-zombies|functional duplicate]] of a person? These questions feel no closer to resolution than when Descartes framed them — or when the Upanishads explored them centuries earlier. This lack of convergence is itself philosophically significant. Rather than treating persistent disagreement as evidence that the questions are confused or meaningless, The Unfinishable Map argues it reveals something about the nature of consciousness: a subject that resists the methods through which progress typically occurs.

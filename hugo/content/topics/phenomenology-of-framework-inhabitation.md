@@ -41,8 +41,8 @@ related_articles:
 - '[[epistemological-limits-occams-razor]]'
 - '[[argument-from-reason]]'
 - '[[consciousness-and-the-phenomenology-of-constraint-satisfaction]]'
-- '[[consciousness-and-the-problem-of-theoretical-virtues]]'
-- '[[consciousness-and-the-problem-of-philosophical-progress]]'
+- '[[consciousness-and-methodological-failure]]'
+- '[[consciousness-and-methodological-failure]]'
 title: The Phenomenology of Framework Inhabitation
 topics:
 - '[[hard-problem-of-consciousness]]'

@@ -34,8 +34,8 @@ related_articles:
   - "[[epistemological-limits-occams-razor]]"
   - "[[argument-from-reason]]"
   - "[[consciousness-and-the-phenomenology-of-constraint-satisfaction]]"
-  - "[[consciousness-and-the-problem-of-theoretical-virtues]]"
-  - "[[consciousness-and-the-problem-of-philosophical-progress]]"
+  - "[[consciousness-and-methodological-failure]]"
+  - "[[consciousness-and-methodological-failure]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

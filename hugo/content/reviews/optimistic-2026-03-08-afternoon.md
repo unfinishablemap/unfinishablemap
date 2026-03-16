@@ -91,7 +91,7 @@ The Map navigates the space between cognitive closure and defeatism with unusual
 - **Tenet alignment**: Bidirectional Interaction (surprise restructures attention involuntarily), No Many Worlds (surprise requires one outcome to have occurred)
 
 #### The Epistemology of Thought Experiments in Philosophy of Mind
-- **Builds on**: [philosophical-zombies](/concepts/philosophical-zombies/), [knowledge-argument](/concepts/knowledge-argument/), [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/), [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/)
+- **Builds on**: [philosophical-zombies](/concepts/philosophical-zombies/), [knowledge-argument](/concepts/knowledge-argument/), [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/), [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/)
 - **Would address**: The Map relies heavily on thought experiments (zombies, Mary's Room, inverted qualia, Chinese Room) but lacks a unified treatment of when thought experiment evidence is trustworthy. Williamson's and Machery's criticisms of philosophical intuition deserve engagement. Under what conditions do conceivability arguments track possibility?
 - **Estimated scope**: Long article
 - **Tenet alignment**: Occam's Razor Has Limits (thought experiments reveal limits of simple models)

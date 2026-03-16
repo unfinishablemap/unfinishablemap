@@ -112,7 +112,7 @@ The phenomenology of scientific discovery connects to several of the Map's [tene
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)
 - [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/)
 - [categorical-surprise](/concepts/categorical-surprise/)
-- [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-the-problem-of-theoretical-virtues/)
+- [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/)
 
 ## References
 
