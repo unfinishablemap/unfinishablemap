@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 13:47 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/mental-causation]]
+- **Changes**: Rewrote illusionist response section to engage with Frankish's quasi-phenomenal properties distinction; restructured as dilemma argument; updated falsifier section
+- **Published**: yes
+
 ## 2026-03-16 13:33 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/self-and-consciousness.md, concepts/emergence.md, concepts/mental-causation.md

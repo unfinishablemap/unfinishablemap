@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-13T23:30:00+00:00
+ai_modified: 2026-03-16T13:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -191,9 +191,11 @@ The [[choking-phenomenon-mental-causation|choking phenomenon]] provides compleme
 
 [[Illusionism]] attempts to sidestep this argument. Frankish and Dennett argue that our reports about consciousness can be produced by sophisticated neural information processing without phenomenal causation. The brain models itself, and these self-models generate accurate reports—no phenomenal properties need cause anything.
 
-But illusionism faces its own version of self-stultification. If the appearance of phenomenal consciousness is itself an illusion, something must be experiencing that illusion. To be under an illusion that consciousness exists requires there to be *something it is like* to have that mistaken representation—the illusion of phenomenal properties presupposes phenomenal properties.
+Frankish's response deserves careful engagement. He introduces *quasi-phenomenal properties*: functional states that represent themselves as having phenomenal character without actually possessing it. To "seem" to have phenomenal consciousness, on this view, is just to be in a state that disposes one to judge, report, and react *as if* one has phenomenal properties. No experience of the illusion is required—only functional states that generate the relevant judgments. The regress argument, Frankish contends, equivocates between representing phenomenal properties and experiencing them.
 
-Raymond Tallis puts it sharply: "Misrepresentation presupposes presentation." If physical matter cannot generate phenomenal consciousness, it certainly cannot generate the *illusion* of phenomenal consciousness. The illusionist trades the hard problem for an equally hard "illusion problem."
+The Map's concern is more structural than the simple regress. Even granting that "seeming" can be characterised functionally, the illusionist account faces a dilemma. If functional seeming retains any experiential dimension—if there is something it is like to be disposed to judge oneself conscious—the regress reasserts itself. If it eliminates experiential character entirely, it no longer explains what needed explaining: why phenomenal consciousness strikes us as overwhelmingly real rather than as mere information processing. The functional story would explain why we produce the *reports* we do, but reports are not the phenomenon that makes the hard problem hard. As Raymond Tallis puts it: "Misrepresentation presupposes presentation"—not because representing requires experiencing in every case, but because the specific character of this representation (its seeming-phenomenal quality) resists purely functional analysis.
+
+For the self-stultification argument specifically: the illusionist's beliefs about consciousness are produced by quasi-phenomenal states that, by hypothesis, misrepresent their own nature. The illusionist cannot claim their position is *informed by* careful attention to the character of experience, because on their view experience has no character beyond what physical processes produce. This undermines the epistemic basis for the position without requiring the crude claim that all representation presupposes experience.
 
 ## Relation to the Map's Perspective
 
@@ -221,7 +223,7 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 
 **Elimination of neural quantum effects**: If quantum coherence were proven physically impossible in brain tissue—not just challenging but excluded by physics—the proposed interface mechanism fails. Current evidence from [[quantum-biology|quantum biology]] (avian magnetoreception, enzyme catalysis, photosynthesis) suggests biological quantum effects are more robust than expected, but definitive evidence against neural quantum effects would be significant.
 
-**Successful illusionist explanation**: If a fully satisfying account emerged explaining why we *seem* to have phenomenal experiences without any phenomenal properties existing—one that doesn't invoke seeming to something—this would dissolve the motivation for mental causation. Current illusionist proposals (AST, multiple drafts) face the regress problem, but a proposal that genuinely avoided it would challenge the Map's position.
+**Successful illusionist explanation**: If a fully satisfying account emerged explaining why we *seem* to have phenomenal experiences without any phenomenal properties existing—one that navigates the dilemma between retaining experiential character (reasserting the regress) and eliminating it (changing the subject)—this would dissolve the motivation for mental causation. Current illusionist proposals (AST, multiple drafts, quasi-phenomenal properties) face this structural dilemma, but a proposal that genuinely resolved it would challenge the Map's position.
 
 **Dissociation of reports from experiences**: If manipulation could reliably make people report experiences they genuinely weren't having—accurate reports without corresponding experiences, or experiences without any reportability—this would challenge the causal connection the self-stultification argument depends on. Current evidence from blindsight and inattentional blindness show dissociations, but these are better interpreted as access consciousness/phenomenal consciousness distinctions than as breaks in the causal chain.
 
@@ -274,3 +276,16 @@ Mental causation, as defended here, is falsifiable. Findings that would undermin
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Woodward, J. (2003). *Making Things Happen*. Oxford University Press.
 1. Yablo, S. (1992). Mental Causation. *Philosophical Review*, 101: 245-280.
+
+<!-- AI REFINEMENT LOG - 2026-03-16
+Changes made:
+- Rewrote "The Illusionist Response" section to engage with Frankish's quasi-phenomenal properties distinction rather than presenting a simplified regress argument that equivocates between representing and experiencing
+- Restructured the argument as a dilemma: if functional seeming retains experiential character, regress reasserts; if it eliminates it, the account changes the subject
+- Updated the "Successful illusionist explanation" falsifier to reflect the more nuanced dilemma framing
+- Retained Tallis quote but recontextualised it within the structural argument
+
+Based on pessimistic-2026-03-16-afternoon review, Issue 1 (High severity).
+Key improvement: philosophical accuracy of the illusionism engagement.
+
+This log should be removed after human review.
+-->

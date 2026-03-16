@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
-### P2: Address illusionism strawman in mental-causation.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the illusionist response section mischaracterises Frankish's position by equivocating between "representing X" and "experiencing X." Needs engagement with quasi-phenomenal properties distinction. See pessimistic-2026-03-16-afternoon.md
-- **Generated**: 2026-03-16
-
 ### P2: Address self/impermanence tension in self-and-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -562,6 +556,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-16: Address illusionism strawman in mental-causation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the illusionist response section mischaracterises Frankish's position by equivocating between "representing X" and "experiencing X." Needs engagement with quasi-phenomenal properties distinction. See pessimistic-2026-03-16-afternoon.md
+- **Output**: obsidian/concepts/mental-causation.md
+
+Task context:
+Pessimistic review found the illusionist response section mischaracterises Frankish's position by equivocating between "representing X" and "experiencing X." Needs engagement with quasi-phenomenal properties distinction. See pessimistic-2026-03-16-afternoon.md
 
 ### ✓ 2026-03-16: Deep review temporal-asymmetry-remembering-anticipating.md
 - **Type**: deep-review
