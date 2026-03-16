@@ -4,8 +4,8 @@ description: "Human+AI exploration of how familiarity erases experience from con
 created: 2026-02-03
 modified: 2026-02-03
 human_modified:
-ai_modified: 2026-02-26T10:03:00+00:00
-last_deep_review: 2026-02-03T20:54:00+00:00
+ai_modified: 2026-03-16T08:32:00+00:00
+last_deep_review: 2026-03-16T08:32:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -16,6 +16,7 @@ concepts:
   - "[[introspection]]"
   - "[[filter-theory]]"
   - "[[conscious-vs-unconscious-processing]]"
+  - "[[predictive-processing]]"
 related_articles:
   - "[[voids]]"
   - "[[attention-created-voids]]"
@@ -24,6 +25,7 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[consciousness-only-territories]]"
   - "[[tenets]]"
+  - "[[consciousness-and-skilled-performance]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[altered-states-of-consciousness]]"
 ai_contribution: 100
@@ -55,7 +57,7 @@ The void operates at every level of experience:
 
 **Semantic habituation.** Repeat a word enough times and it loses meaning—a phenomenon called "semantic satiation." The word "door" becomes mere sound as the neural pathway linking phonemes to concept exhausts itself through repetition. Leon Jakobovits James, who coined the term in 1962, attributed this to "a kind of fatigue. When a brain cell fires, it takes more energy to fire the second time."
 
-**Existential habituation.** Shklovsky warned that automatization reduces life to "nothingness, scraping away our wonder, creativity, and critical thinking." The familiar not only drops from awareness but takes the phenomenal texture of daily existence with it. Edmund Husserl's phenomenology describes how practical activities—"walking along, or hammering a nail, or speaking our native tongue"—become transparent to consciousness. The skilled hammer user experiences the nail, not the hammer. Mastery creates phenomenological invisibility.
+**Existential habituation.** Shklovsky warned that habitualization "devours works, clothes, furniture, one's wife, and the fear of war"—life reckoned as nothing, its phenomenal texture consumed by routine. The familiar not only drops from awareness but takes the experiential richness of daily existence with it. Heidegger's phenomenology describes how practical activities become transparent to consciousness: the skilled hammer user experiences the nail, not the hammer. Mastery creates phenomenological invisibility—what Heidegger calls the "withdrawal" of equipment into the background of use. (See [[consciousness-and-skilled-performance|consciousness and skilled performance]] for how this transparency operates in expert action.)
 
 ## Why the Void is Structural
 
@@ -73,7 +75,7 @@ The habituation void appears to be architectural rather than merely motivational
 
 What does it feel like to encounter this void? Several characteristic experiences emerge:
 
-**The transparency of the familiar.** Heidegger's concept of "ready-to-hand" captures this: the practiced tool becomes invisible. We don't experience the hammer; we experience hammering. The familiar recedes from the phenomenal foreground while remaining functionally present.
+**The transparency of the familiar.** The familiar recedes from the phenomenal foreground while remaining functionally present. We navigate, operate, communicate—all without phenomenal registration of the medium. The world becomes a set of transparent affordances rather than experienced objects.
 
 **The shock of breakdown.** When the familiar suddenly becomes unfamiliar—a word repeated until strange, a room seen after long absence, a tool that breaks—there's a distinctive phenomenology of startled re-seeing. The shock reveals how much was hidden. Shklovsky saw art's purpose as producing exactly this shock: "to make objects unfamiliar, to make forms difficult, to increase the difficulty and length of perception."
 
@@ -121,7 +123,7 @@ The habituation void illuminates several of The Unfinishable Map's [[tenets]]:
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** is most directly relevant. Habituation is cognitive simplification—the mind treats the familiar as already-known and stops updating. This efficiency assumption systematically hides experiential richness. What Shklovsky called automatization is the cognitive system applying Occam's razor to lived experience: the simplest assumption is that the familiar requires no attention. But simplest is not richest, and the habituated world is phenomenally thinner than the novel world.
 
-**[[tenets#^dualism|Dualism]]** connects through the distinction between [[conscious-vs-unconscious-processing|functional processing and phenomenal experience]]. Habituation shows this empirically: the familiar continues to be functionally processed (we don't walk into walls) while dropping out of phenomenal awareness. A predictive processing theorist might counter that habituation simply reflects reduced prediction-error—the brain already expects the stimulus, so there's less information to process. But this response conflates information quantity with phenomenal presence. The habituated stimulus still carries the same objective information; what changes is whether consciousness accompanies its processing. This supports the claim that phenomenal consciousness is something over and above functional competence.
+**[[tenets#^dualism|Dualism]]** connects through the distinction between [[conscious-vs-unconscious-processing|functional processing and phenomenal experience]]. Habituation shows this empirically: the familiar continues to be functionally processed (we don't walk into walls) while dropping out of phenomenal awareness. A [[predictive-processing|predictive processing]] theorist might counter that habituation simply reflects reduced prediction-error—the brain already expects the stimulus, so there's less information to process. But this response conflates information quantity with phenomenal presence. The habituated stimulus still carries the same objective information; what changes is whether consciousness accompanies its processing. This supports the claim that phenomenal consciousness is something over and above functional competence.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** raises a speculative question: if consciousness causally influences physical outcomes, the void might mark a boundary where this influence changes character—where consciousness withdraws its causal participation from the thoroughly familiar.
 
