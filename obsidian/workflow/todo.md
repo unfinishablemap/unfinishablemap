@@ -609,6 +609,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic_review
 - **Generated**: 2026-03-15
 
+### P3: Write article on feminist philosophy of mind and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Feminist phenomenology (Beauvoir, Young, Ahmed) enriches the Map's treatment of embodiment, situated consciousness, and agency. A significant gap in tradition coverage given the Map's emphasis on phenomenological evidence and lived experience. See optimistic-2026-03-16.md
+- **Source**: optimistic_review
+- **Generated**: 2026-03-16
+
+### P3: Write article on the measurement problem and hard problem structural parallel
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The parallel between "why this outcome?" (measurement) and "why this experience?" (consciousness) surfaces across quantum articles but deserves dedicated treatment. Both involve gaps between what physics describes and what actually obtains. See optimistic-2026-03-16.md
+- **Source**: optimistic_review
+- **Generated**: 2026-03-16
+
+### P3: Write article on consciousness development and ontogeny
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How consciousness-interface architecture unfolds developmentally. Child development, language acquisition, emergence of counterfactual reasoning (typically age 4-5). Developmental discontinuities may mark interface activation. See optimistic-2026-03-16.md
+- **Source**: optimistic_review
+- **Generated**: 2026-03-16
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
