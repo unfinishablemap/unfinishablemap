@@ -4,7 +4,7 @@ description: "The minimal self is not added to consciousness but is its very for
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-16T14:02:00+00:00
+ai_modified: 2026-03-16T15:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,13 +49,13 @@ Shaun Gallagher and Dan Zahavi distinguish two forms of selfhood. The **minimal 
 
 The **narrative self** is constructed through self-interpretation—the story we tell about who we are. Unlike the minimal self, it's shaped by culture and memory, providing continuity across a lifetime.
 
-The narrative self presupposes the minimal self. One cannot construct a life story without a basic experiential core having the experiences.
+The narrative self presupposes the minimal self. One cannot construct a life story without a basic experiential core having the experiences. [[cognitive-integration-and-the-self|Cognitive integration and the self]] develops the complementary perspective: how consciousness actively binds information across time and modality to constitute the unified self. Where this article focuses on the minimal self as structural feature, the integration account shows how that structure is sustained through ongoing phenomenal binding.
 
 ## Autonoetic Consciousness and the Temporal Self
 
 Between the minimal self and narrative self lies [[anoetic-noetic-autonoetic-consciousness|autonoetic consciousness]]—the ability to mentally travel through time. When you remember *your trip* to Paris, you don't just access facts; you re-inhabit the experience from a first-person perspective.
 
-This capacity may be constitutive of the temporally extended self. The minimal self provides "for-me-ness" in each moment, but what connects these moments into a person extended through time? Not mere memory storage—when you remember your first day of school, you *re-live* it. The self spanning a lifetime is phenomenologically constituted through mental time travel.
+This capacity may be constitutive of the temporally extended self. The minimal self provides "for-me-ness" in each moment, but what connects these moments into a person extended through time? Not mere memory storage—when you remember your first day of school, you *re-live* it. The self spanning a lifetime is phenomenologically constituted through mental time travel. The [[consciousness-and-memory|consciousness and memory]] article examines this connection in detail: Tulving's hierarchy maps three forms of consciousness onto three memory systems, with autonoetic consciousness—the form required for episodic memory—constituting the temporally extended self that connects momentary instances of for-me-ness into a person.
 
 Children don't develop full autonoetic consciousness until age 4-5, explaining childhood amnesia. Buddhist meditation traditions observe that when mental time travel ceases, only the bare minimal self remains—awareness present without temporal extension. See [[anoetic-noetic-autonoetic-consciousness]] for detailed treatment.
 
@@ -149,8 +149,10 @@ The filter theory interprets these findings coherently: the narrative self is co
 
 - [[the-unobservable-self]] — Why the observing self cannot observe itself observing
 - [[jourdain-hypothesis]] — Having mental states vs knowing you have them
+- [[cognitive-integration-and-the-self]] — How consciousness binds information across time and modality to constitute the integrative self
 - [[buddhism-and-dualism]] — Buddhist no-self and the Map's irreducibility thesis
 - [[witness-consciousness]] — Observing without identifying
+- [[consciousness-and-memory]] — Tulving's hierarchy: how memory systems map onto levels of consciousness
 - [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel and the temporally extended self
 - [[metacognition]] — Monitoring one's own mental states
 - [[binding-problem]] — Unity of experience and its relation to selfhood

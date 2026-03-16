@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-16T13:47:00+00:00
+ai_modified: 2026-03-16T15:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -93,7 +93,7 @@ Mental properties might "inherit" causal powers from physical realizers through 
 
 ### Strong Emergence
 
-[[emergence|Strong emergentism]] holds that mental properties have genuinely novel causal powers not present in physical constituents. O'Connor and Wong propose "structural triggering conditions"—latent powers manifesting when components organize appropriately. This requires denying causal closure, but without specifying *how* emergent causation works, it names the problem more than solves it.
+[[emergence|Strong emergentism]] holds that mental properties have genuinely novel causal powers not present in physical constituents. O'Connor and Wong propose "structural triggering conditions"—latent powers manifesting when components organize appropriately. This requires denying causal closure, but without specifying *how* emergent causation works, it names the problem more than solves it. The [[emergence]] article traces how the Map advances beyond this classical emergentism: consciousness is the paradigm case of strong emergence, and the quantum opening provides the locus that Broad and Alexander could only accept with "natural piety."
 
 ### Delegatory Dualism
 

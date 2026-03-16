@@ -4,7 +4,7 @@ description: "The act of making art requires phenomenal consciousness in ways th
 created: 2026-02-15
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-03-11T21:35:00+00:00
+ai_modified: 2026-03-16T15:17:00+00:00
 last_deep_review: 2026-02-17T16:12:00+00:00
 draft: false
 topics:
@@ -93,7 +93,7 @@ Aesthetic creation unfolds in [[temporal-consciousness|durée]]—Bergson's live
 
 ### Accumulative Meaning
 
-As a work progresses, each new element changes the meaning of everything that came before. The third chapter reframes the first. The recapitulation transforms the exposition. The final brushstroke alters the entire painting. The creator must hold the entire accumulating work in phenomenal awareness, sensing how each addition shifts the whole.
+As a work progresses, each new element changes the meaning of everything that came before. The third chapter reframes the first. The recapitulation transforms the exposition. The final brushstroke alters the entire painting. The creator must hold the entire accumulating work in phenomenal awareness, sensing how each addition shifts the whole. This accumulative awareness is a case of [[phenomenal-binding-and-holism|phenomenal binding]] in its most demanding form: the artist must maintain not merely synchronic unity across sensory modalities but diachronic unity across the work's temporal development, experiencing the whole as genuinely more than the sum of its sequential parts.
 
 This accumulative awareness requires a form of temporal consciousness that exceeds moment-by-moment processing. The creator experiences the work not as a sequence of discrete states but as a developing entity with momentum, direction, and felt trajectory. The phenomenal sense of *where the work is going*—distinct from any explicit plan—guides decisions that no frame-by-frame analysis could replicate.
 
@@ -151,6 +151,7 @@ The claim that aesthetic creation requires phenomenal consciousness would weaken
 - [[consciousness-and-mathematical-creativity]] — Mathematical creativity as the sharpest case for consciousness as causal force
 - [[aesthetic-void]] — Cognitive limits revealed by profound aesthetic encounter
 - [[creativity-void]] — The inaccessibility of creative origins
+- [[phenomenal-binding-and-holism]] — Why phenomenal unity resists classical binding—aesthetic creation as a vivid case
 - [[consciousness-and-creativity]] — The concept page on consciousness and creativity
 - [[temporal-consciousness]] — Bergson's lived time as creative becoming
 - [[mental-imagery]] — Phenomenal imagination and its role in creative exploration

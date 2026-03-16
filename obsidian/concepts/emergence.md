@@ -4,7 +4,7 @@ description: "Consciousness is the paradigm case of strong emergence: genuinely 
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-12T00:03:00+00:00
+ai_modified: 2026-03-16T15:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -105,7 +105,7 @@ The Map advances beyond this—but honestly, not as far as one might wish. The [
 
 This identifies a *locus* (quantum indeterminacy) and a *mode* (probability bias), not a fully specified mechanism. The choice of locus is not arbitrary—the [[the-measurement-problem-as-philosophical-problem|measurement problem as philosophical problem]] reveals that measurement is where consciousness and physics have always been entangled, where the observer's role becomes formally unavoidable. A complete mechanism would specify which physical variable consciousness couples to, how coupling strength is determined, and what testable predictions follow. The [[psychophysical-laws|psychophysical laws]] article surveys five candidate coupling mechanisms—attention as observation rate (Stapp), intention as probability weighting (Eccles), and three less developed proposals—but the Map does not yet endorse one. The coupling problem remains open.
 
-What the Map *does* provide that classical emergentism lacked is a principled answer to Kim's exclusion argument: mental causation operates where physics is genuinely incomplete. No physical law is violated because no physical law determines which quantum outcome occurs. This is a genuine advance over "natural piety," even if the full coupling law remains unspecified.
+What the Map *does* provide that classical emergentism lacked is a principled answer to Kim's exclusion argument: mental causation operates where physics is genuinely incomplete. No physical law is violated because no physical law determines which quantum outcome occurs. This is a genuine advance over "natural piety," even if the full coupling law remains unspecified. The [[mental-causation]] article develops this resolution against the full range of objections—conservation challenges, decoherence timescales, specification demands, and the many-worlds alternative—and shows why each fails to close the quantum opening.
 
 | Position | Emergence Type | Interaction Specified? | Causal Closure? |
 |----------|---------------|------------|-----------------|
