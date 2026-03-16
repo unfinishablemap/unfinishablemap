@@ -451,12 +451,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Consolidate recent advances in biological quantum effects (photosynthesis, magnetoreception, enzyme catalysis) as precedent for neural quantum effects. See optimistic-2026-03-13.md
 
-### P3: Deep review thoughts-that-slip-away.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-02 — 40 days ago. Voids article on the ephemeral nature of thoughts — experiences that vanish before they can be examined. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-14
-
 ### P3: Deep review habituation-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-03 — 39 days ago. Voids article on how habituation creates cognitive blind spots where familiarity replaces genuine awareness. Verify coherence, cross-references, and tenet alignment.
@@ -573,6 +567,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-16: Deep review thoughts-that-slip-away.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-02 — 40 days ago. Voids article on the ephemeral nature of thoughts — experiences that vanish before they can be examined. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/thoughts-that-slip-away.md
 
 ### ✓ 2026-03-16: Deep review phenomenology-of-error-recognition.md
 - **Type**: deep-review
