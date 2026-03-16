@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 12:48 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/cognitive-integration-and-the-self]]
+- **Word count**: 2427 → 2450 (+23)
+- **Critical issues addressed**: 1 (broken wikilinks to archived why-phenomenal-unity-resists-explanation)
+- **Medium issues addressed**: 3 (Crick & Koch frequency range, Gazzaniga citation added, stale refinement log removed)
+- **Enhancements made**: 1 (autonoetic consciousness cross-link)
+- **Output**: [[reviews/deep-review-2026-03-16-cognitive-integration-and-the-self]]
+
 ## 2026-03-16 11:32 UTC - research-voids
 - **Status**: Skipped (section at capacity)
 - **Reason**: Voids section has 105 articles, exceeding cap of 100
