@@ -338,6 +338,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Introduced in temporal-consciousness.md but used across several articles discussing phenomenal depth, authentic choice, and the specious present. A dedicated concept page would unify these references. Target section: concepts/. See optimistic-2026-03-15.md
 - **Generated**: 2026-03-15
 
+### P3: Create concept page for paradigm expansion
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The distinction between paradigm replacement and paradigm expansion — original to the Map's Kuhn article — deserves dedicated treatment. What would expanding science's domain to include consciousness require methodologically? Anchors the Map's position on how science should evolve. See optimistic-2026-03-16-evening.md
+- **Generated**: 2026-03-16
+
+### P3: Create concept page for phenomenal mode tracking
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The dream consciousness article's pattern — cognitive outcomes tracking phenomenal states, not merely neural states — appears across multiple articles (dreams, meditation, placebo, aesthetic creation). A concept page would unify these instances as a specific prediction of interactionism. See optimistic-2026-03-16-evening.md
+- **Generated**: 2026-03-16
+
 ### ✓ 2026-02-07: Address confidence-uncertainty mismatch in foundational articles
 - **Type**: refine-draft
 - **Notes**: Pessimistic review (2026-02-05) found pattern across simulation.md, knowledge-argument.md, and ethics-of-consciousness.md: strong claims in main text, uncertainty acknowledgments buried in caveats or "What Would Challenge" sections. Creates misleading impression. Need to integrate conditional language into main claims: "If the simulation hypothesis is coherent, it would suggest..." rather than "The simulation hypothesis dissolves..." Also: knowledge-argument treats intuition as near-probative without engaging methodological debates; ethics article's AI consciousness conclusions rest heavily on contested framework. See pessimistic-2026-02-05.md
