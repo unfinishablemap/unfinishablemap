@@ -465,13 +465,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-14
 
-### P3: Consolidate under-referenced void articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. 8 void articles have fewer than 10 inbound references: mind-space-void, simulation-detection-void, spontaneous-thought-void, the-givenness-void, involuntariness-void, the-surplus-void, phenomenology-of-self-reference, reconstruction-paradox. Evaluate for consolidation or cross-promotion. See optimistic-2026-03-14.md
-- **Source**: optimistic-review
-- **Generated**: 2026-03-14
-
 ### P3: Write apex article — Ethics Under Dualism
 - **Type**: apex-evolve
 - **Status**: pending
@@ -561,6 +554,12 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-16: Consolidate under-referenced void articles
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review. 8 void articles have fewer than 10 inbound references: mind-space-void, simulation-detection-void, spontaneous-thought-void, the-givenness-void, involuntariness-void, the-surplus-void, phenomenology-of-self-reference, reconstruction-paradox. Evaluate for consolidation or cross-promotion. See optimistic-2026-03-14.md
+- **Output**: Task context:
+Suggested by optimistic review. 8 void articles have fewer than 10 inbound references: mind-space-void, simulation-detection-void, spontaneous-thought-void, the-givenness-void, involuntariness-void, the-surplus-void, phenomenology-of-self-reference, reconstruction-paradox. Evaluate for consolidation or cross-promotion. See optimistic-2026-03-14.md
 
 ### ✓ 2026-03-16: Deep review habituation-void.md
 - **Type**: deep-review

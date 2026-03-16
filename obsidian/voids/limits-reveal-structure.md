@@ -4,7 +4,7 @@ description: "Human+AI investigation of how cognitive boundaries illuminate cogn
 created: 2026-01-16
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-02-25T00:13:00+00:00
+ai_modified: 2026-03-16T08:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -60,7 +60,7 @@ The *particular* things we cannot think illuminate *what kind* of thinkers we ar
 
 Thomas Nagel approaches this through the tension between subjective and objective viewpoints. Science seeks description independent of perspective, but consciousness is irreducibly perspectival. The bat's echolocation creates experiences we cannot imagine because imagining requires the perspective we lack.
 
-Nagel's bat reveals *our* limitations. There is experiential territory we cannot enter because our architecture differs from the bat's. If consciousness is fundamental, the space of possible minds may be vast—some thinking thoughts we cannot think, having *concepts* we lack. The shape of what we cannot access maps the shape of what we are.
+Nagel's bat reveals *our* limitations. There is experiential territory we cannot enter because our architecture differs from the bat's. If consciousness is fundamental, the space of possible minds may be vast—some thinking thoughts we cannot think, having *concepts* we lack. The [[mind-space-void]] names this epistemic situation: we cannot even determine our coordinates in mind-space, let alone survey its extent. The shape of what we cannot access maps the shape of what we are.
 
 ## Limits as Constitutive
 

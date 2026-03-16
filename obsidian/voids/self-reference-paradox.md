@@ -4,7 +4,7 @@ description: "Consciousness examining itself encounters persistent obstacles—f
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-02-25T02:54:00+00:00
+ai_modified: 2026-03-16T08:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -66,7 +66,7 @@ The problem of [[intentionality]] sharpens this. When we think *about* thinking,
 
 ## Strange Loops
 
-Douglas Hofstadter's *I Am a Strange Loop* offers another perspective: the "I" is a self-referential loop with downward causation. The self cannot fully model itself because any complete model would need to include the model, ad infinitum. The [[phenomenology-of-recursive-thought|phenomenology of recursive thought]] explores what this feels like from the inside—the instability when thought takes thought as object, and why higher levels of self-reference collapse rather than extending indefinitely. The [[recursion-void|recursion void]] maps the empirical boundary: mentalizing capacity terminates around fifth-order intentionality, suggesting the collapse point is remarkably shallow.
+Douglas Hofstadter's *I Am a Strange Loop* offers another perspective: the "I" is a self-referential loop with downward causation. The self cannot fully model itself because any complete model would need to include the model, ad infinitum. The [[phenomenology-of-self-reference]] maps what self-referential consciousness actually feels like: a felt inversion when the intentional arrow curves back on its origin, semantic vertigo as meaning oscillates between sense and hollowness, and a characteristic flickering between the subjective and quasi-objective positions. The [[phenomenology-of-recursive-thought|phenomenology of recursive thought]] explores the layered structure—the instability when thought takes thought as object, and why higher levels of self-reference collapse rather than extending indefinitely. The [[recursion-void|recursion void]] maps the empirical boundary: mentalizing capacity terminates around fifth-order intentionality, suggesting the collapse point is remarkably shallow.
 
 Hofstadter and Penrose agree on the void—consciousness cannot fully understand itself—but disagree on implications. Penrose takes Gödelian limits as evidence consciousness exceeds computation. Hofstadter takes them as features of any self-referential system. Perhaps this disagreement is itself undecidable.
 

@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 08:47 UTC - refine-draft
+- **Status**: Success
+- **Task**: Cross-promote 8 under-referenced void articles
+- **Files modified**: [[mysterianism]], [[simulation]], [[default-mode-network]], [[phenomenology]], [[pain-consciousness-and-causal-power]], [[philosophical-zombies]], [[self-reference-paradox]], [[predictive-processing-and-the-maps-framework]], [[introspection]], [[alien-minds-void-explorers]], [[limits-reveal-structure]], [[three-kinds-of-void]]
+- **Changes**: Added 11 cross-references to under-referenced voids (mind-space-void, simulation-detection-void, spontaneous-thought-void, the-givenness-void, involuntariness-void, the-surplus-void, phenomenology-of-self-reference, reconstruction-paradox). Consolidation assessed and rejected—articles are distinct enough to warrant separate treatment.
+- **Published**: yes
+
 ## 2026-03-16 08:32 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/habituation-void]]

@@ -4,7 +4,7 @@ description: "The brain's self-referential system, active at rest. DMN may const
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-03-14T09:25:00+00:00
+ai_modified: 2026-03-16T08:47:00+00:00
 last_deep_review: 2026-03-14T09:25:00+00:00
 draft: false
 topics:
@@ -134,7 +134,7 @@ Schizophrenia shows disrupted DMN connectivity and altered anticorrelation with 
 
 ## The Wandering Mind
 
-Mind-wandering—spontaneous, task-unrelated thought—activates the DMN. This has been interpreted negatively (distraction, rumination) and positively (creativity, future planning, consolidation).
+Mind-wandering—spontaneous, task-unrelated thought—activates the DMN. This has been interpreted negatively (distraction, rumination) and positively (creativity, future planning, consolidation). The [[spontaneous-thought-void]] maps the deeper puzzle: the DMN's structured-yet-opaque activity means we experience the *products* of spontaneous thought—memories surfacing, associations presenting themselves—but never the *production*. The most pervasive activity of consciousness is also the most opaque.
 
 ### The Cost of Mind-Wandering
 

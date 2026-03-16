@@ -4,7 +4,7 @@ description: "The unexplored, the unexplorable, and the occluded—a taxonomy of
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-08T05:29:00+00:00
+ai_modified: 2026-03-16T08:47:00+00:00
 draft: false
 last_deep_review: 2026-02-24T18:44:00+00:00
 topics: []
@@ -57,7 +57,7 @@ Extend this thought. If consciousness is fundamental, the space of possible mind
 
 A third possibility: some thoughts might be blocked *on purpose*.
 
-The [[simulation|simulation hypothesis]] raises this prospect sharply. If we exist within a constructed reality, the constructors might have reasons to hide certain truths from us. Flaws in the simulation. The nature of the substrate. The purpose of the experiment. These wouldn't merely be difficult to discover—they might be *impossible* to think, with the restriction built into the architecture of our minds.
+The [[simulation|simulation hypothesis]] raises this prospect sharply. If we exist within a constructed reality, the constructors might have reasons to hide certain truths from us. Flaws in the simulation. The nature of the substrate. The purpose of the experiment. These wouldn't merely be difficult to discover—they might be *impossible* to think, with the restriction built into the architecture of our minds. The [[simulation-detection-void]] is the paradigmatic case: all three kinds of void converge at the point where embedded observers try to determine whether their reality is simulated.
 
 But the possibility extends beyond simulation scenarios. If consciousness interacts with physical reality at the quantum level (the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet), then perhaps certain configurations of thought are... discouraged. Steered away from. Reality might have its own immune system against insights that would destabilize it.
 

@@ -4,7 +4,7 @@ description: "How predictive processing—the brain's prediction-error-minimizin
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-04T13:38:00+00:00
+ai_modified: 2026-03-16T08:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -79,7 +79,7 @@ This inversion matters. PP treats the organism's actions as themselves predicted
 
 The Map does not reject PP. It accepts the framework's contributions while arguing they are incomplete:
 
-**Perception is constructive.** The brain genuinely builds models rather than passively receiving data. This aligns with the Map's position that consciousness works *through* neural mechanisms rather than bypassing them.
+**Perception is constructive.** The brain genuinely builds models rather than passively receiving data. This aligns with the Map's position that consciousness works *through* neural mechanisms rather than bypassing them. The [[reconstruction-paradox]] sharpens the picture: the brain sometimes edits perception silently (filling in the blind spot, suppressing saccadic blur) and sometimes transmits raw data faithfully (optical blur, tinnitus, the Müller-Lyer illusion). This two-mode operation—curation versus transmission—implies a functionally distinct recipient whose experience the curation shapes.
 
 **Attention is central.** PP places precision weighting — functionally, attention — at the heart of cognition. This supports the Map's claim that [[attention-as-interface|attention]] is the primary interface between consciousness and the physical world.
 

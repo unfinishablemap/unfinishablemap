@@ -4,7 +4,7 @@ description: "The philosophical method of investigating consciousness through sy
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-16T08:05:00+00:00
+ai_modified: 2026-03-16T08:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ Phenomenology begins with the *epoché*—a methodological suspension of assumpt
 
 The epoché reveals that consciousness is never empty. It is always consciousness *of* something—directed toward objects, meanings, or states of affairs. This directedness is [[intentionality]], which Husserl's teacher Franz Brentano identified as "the mark of the mental."
 
-The *phenomenological reduction* extends the epoché, revealing how subjectivity constitutes the world as meaningful. When I perceive a table, I don't receive raw sensory data; I experience a unified, meaningful object. The reduction discloses how consciousness actively synthesizes this unity from the flow of experience—a [[constitutive-exclusion|constitutive contribution]] that cannot be subtracted to reveal a "pre-conscious" reality.
+The *phenomenological reduction* extends the epoché, revealing how subjectivity constitutes the world as meaningful. When I perceive a table, I don't receive raw sensory data; I experience a unified, meaningful object. The reduction discloses how consciousness actively synthesizes this unity from the flow of experience—a [[constitutive-exclusion|constitutive contribution]] that cannot be subtracted to reveal a "pre-conscious" reality. The [[the-givenness-void]] names the structural limit this reveals: investigating how experience acquires its immediate "thereness" must itself operate within givenness, creating a circularity that over a century of phenomenological work has confirmed rather than resolved.
 
 ## The Major Figures
 
