@@ -4,7 +4,7 @@ description: "Why conscious experience comes as unified wholes rather than separ
 created: 2026-01-19
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-03-03T15:41:00+00:00
+ai_modified: 2026-03-16T14:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,10 +34,10 @@ related_articles:
   - "[[quantum-holism-and-phenomenal-unity]]"
 ai_contribution: 100
 author: null
-ai_system: claude-sonnet-4-5-20250929
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-11
 last_curated: null
-last_deep_review: 2026-02-15T12:04:00+00:00
+last_deep_review: 2026-03-16T14:18:00+00:00
 coalesced_from:
   - "/concepts/phenomenal-unity/"
   - "/concepts/neural-binding-mechanisms/"
@@ -74,7 +74,7 @@ Classical physics describes reality as fundamentally separate particles interact
 
 A symphony orchestra coordinates hundreds of instruments with exquisite precision. Yet the instruments remain separate, making separate sounds that happen to be coordinated. If the coordination itself creates genuine unity rather than merely correlated plurality, then the orchestra analogy supports the functionalist. If it doesn't—if something more than coordination is needed—then the analogy illustrates exactly what classical binding lacks. The Map holds the latter: coordination is not identity. No matter how tightly synchronized, two events remain two events.
 
-For the full philosophical argument that this failure is in principle, not merely a gap in current knowledge, see [[why-phenomenal-unity-resists-explanation|Why Phenomenal Unity Resists Physical Explanation]].
+For the full philosophical argument that this failure is in principle, not merely a gap in current knowledge, see [[quantum-holism-and-phenomenal-unity|Quantum Holism and Phenomenal Unity]].
 
 ### The Zero-Lag Synchrony Problem
 
@@ -124,7 +124,7 @@ The quantum unity hypothesis makes testable commitments. It would be undermined 
 
 ## Evidence from Disrupted Unity
 
-Cases where unity breaks down reveal what unity requires. [[split-brain-consciousness|Split-brain patients]] show that even complete callosal disconnection produces partial rather than total division—Nagel's "too much unity to say 'two', yet too much separation to say 'one'"—suggesting mechanisms beyond local neural correlation (Pinto et al., 2025). General anesthesia and dreamless sleep dissociate computational from phenomenal binding: the brain coordinates without producing unified experience. Research on [[minimal-consciousness|organisms at consciousness boundaries]] (Hydra, C. elegans, slime molds) shows classical integration in systems that lack behavioral markers of unified consciousness, consistent with phenomenal unity requiring something beyond information integration.
+Cases where unity breaks down reveal what unity requires. [[split-brain-consciousness|Split-brain patients]] show that even complete callosal disconnection produces partial rather than total division—what Nagel (1971) described as too much unity to say there are two minds, yet too much separation to say there is one—suggesting mechanisms beyond local neural correlation (Pinto et al., 2025). General anesthesia and dreamless sleep dissociate computational from phenomenal binding: the brain coordinates without producing unified experience. Research on [[minimal-consciousness|organisms at consciousness boundaries]] (Hydra, C. elegans, slime molds) shows classical integration in systems that lack behavioral markers of unified consciousness, consistent with phenomenal unity requiring something beyond information integration.
 
 ## Relation to Site Perspective
 
