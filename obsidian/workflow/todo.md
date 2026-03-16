@@ -421,12 +421,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The concept that consciousness-brain coupling varies along a continuous spectrum (full engagement → partial decoupling → disconnection) unifies altered states, anaesthesia, meditation, and dreaming under a single framework. Currently implicit across psychedelics-and-the-filter-model, coupling-modes, loss-of-consciousness, dream-consciousness, meditation-and-consciousness-modes but never treated as its own concept. See optimistic-2026-03-11-late.md
 - **Generated**: 2026-03-11
 
-### P3: Deep review collective-cognitive-limits.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 39 days ago. Voids article on the limits of collective cognition — how group-level epistemic constraints interact with individual consciousness. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-12
-
 ### P3: Deep review psychophysical-laws-bridging-mind-and-matter.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-08 — 32 days ago. Topics article on psychophysical laws directly relevant to Tenet 3 (Bidirectional Interaction) — the specification of mind-matter bridging laws is central to the Map's framework. Verify coherence, cross-references, and tenet alignment.
@@ -627,6 +621,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-16: Deep review collective-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 39 days ago. Voids article on the limits of collective cognition — how group-level epistemic constraints interact with individual consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/collective-cognitive-limits.md
 
 ### ✓ 2026-03-16: Deep review computational-cognitive-limits.md
 - **Type**: deep-review
