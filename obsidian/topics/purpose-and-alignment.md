@@ -4,13 +4,13 @@ description: "AI alignment assumes human values can be learned from behavior. Bu
 created: 2026-01-13
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-03-15T17:09:00+00:00
+ai_modified: 2026-03-16T00:48:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
   - "[[ai-consciousness]]"
 concepts:
-  - "[[nihilism]]"
+  - "[[nihilism-and-existentialism]]"
   - "[[existentialism]]"
   - "[[experiential-alignment]]"
   - "[[neurophenomenology]]"
@@ -33,7 +33,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-13
 last_curated: null
-last_deep_review: 2026-02-04T07:05:00+00:00
+last_deep_review: 2026-03-16T00:48:00+00:00
 tag: diversion
 ---
 
@@ -155,8 +155,7 @@ The practical upshot: AI systems should be designed with profound humility about
 
 - [[emotional-consciousness]] — The phenomenology of valence and why felt quality matters for alignment
 - [[experiential-alignment]] — The alternative framework targeting experiential quality
-- [[topics/phenomenal-value-realism]] — The metaethical grounding for consciousness-based value
-- [[topics/phenomenal-value-realism|Phenomenal Value Realism (Topic)]] — How phenomenal value pluralism addresses the measurement problem and metaethical challenges
+- [[topics/phenomenal-value-realism]] — The metaethical grounding for consciousness-based value and how phenomenal value pluralism addresses the measurement problem
 - [[ethics-of-consciousness]] — The broader ethical framework for consciousness
 - [[meaning-of-life]] — the Map's treatment of philosophical approaches to life's meaning
 - [[ai-consciousness]] — Why the Map holds that AI systems lack consciousness
