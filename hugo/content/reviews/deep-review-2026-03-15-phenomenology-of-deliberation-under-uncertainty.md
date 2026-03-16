@@ -24,8 +24,8 @@ topics: []
 
 ### Critical Issues Found
 
-- **Duplicate frontmatter topic**: `[phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/)` listed twice in `topics:` array. Removed duplicate.
-- **Duplicate Further Reading entry**: `[phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/)` appeared twice with different descriptions ("The felt sense of epistemic weight" and "What it feels like to change your mind"). No separate belief-revision article exists; the epistemic judgment article covers both. Removed duplicate.
+- **Duplicate frontmatter topic**: `[phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-cognition/)` listed twice in `topics:` array. Removed duplicate.
+- **Duplicate Further Reading entry**: `[phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-cognition/)` appeared twice with different descriptions ("The felt sense of epistemic weight" and "What it feels like to change your mind"). No separate belief-revision article exists; the epistemic judgment article covers both. Removed duplicate.
 
 ### Medium Issues Found
 

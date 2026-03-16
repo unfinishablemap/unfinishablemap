@@ -416,53 +416,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-11
 
-### P3: Deep review mind-space-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the mind-space void — the impossibility of spatially locating consciousness or mapping its dimensionality. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
-### P3: Deep review the-givenness-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the givenness void — the impossibility of explaining why experience is given at all rather than absent. Directly relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
-### P3: Deep review the-surplus-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the surplus void — the excess of conscious experience beyond what functional or informational accounts predict. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P3: Write concept page for interface modulation spectrum
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The concept that consciousness-brain coupling varies along a continuous spectrum (full engagement → partial decoupling → disconnection) unifies altered states, anaesthesia, meditation, and dreaming under a single framework. Currently implicit across psychedelics-and-the-filter-model, coupling-modes, loss-of-consciousness, dream-consciousness, meditation-and-consciousness-modes but never treated as its own concept. See optimistic-2026-03-11-late.md
 - **Generated**: 2026-03-11
-
-### P3: Write apex synthesis on altered states as systematic interface evidence
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Meditation, psychedelics, dreaming, hypnagogia, and anaesthesia each involve different patterns of interface modulation. Mapping which consciousness features survive, degrade, or intensify across states would provide convergent evidence for the interface architecture. Builds on psychedelics-and-the-filter-model, dream-consciousness, meditation-and-consciousness-modes, coupling-modes, loss-of-consciousness. See optimistic-2026-03-11-late.md
-- **Generated**: 2026-03-11
-
-### P3: Deep review blindsight.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-08 — 32 days ago. Blindsight is key empirical evidence for dissociating consciousness from visual processing — critical for the Map's dualism case. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-12
-
-### P3: Deep review computational-cognitive-limits.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-31 — 40 days ago. Voids article on computational cognitive limits — the boundary where computation fails to capture conscious processing. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-12
-
-### P3: Deep review collective-cognitive-limits.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 39 days ago. Voids article on the limits of collective cognition — how group-level epistemic constraints interact with individual consciousness. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-12
 
 ### P3: Deep review psychophysical-laws-bridging-mind-and-matter.md
 - **Type**: deep-review
@@ -634,6 +592,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic_review
 - **Generated**: 2026-03-15
 
+### P3: Write article on feminist philosophy of mind and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Feminist phenomenology (Beauvoir, Young, Ahmed) enriches the Map's treatment of embodiment, situated consciousness, and agency. A significant gap in tradition coverage given the Map's emphasis on phenomenological evidence and lived experience. See optimistic-2026-03-16.md
+- **Source**: optimistic_review
+- **Generated**: 2026-03-16
+
+### P3: Write article on the measurement problem and hard problem structural parallel
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The parallel between "why this outcome?" (measurement) and "why this experience?" (consciousness) surfaces across quantum articles but deserves dedicated treatment. Both involve gaps between what physics describes and what actually obtains. See optimistic-2026-03-16.md
+- **Source**: optimistic_review
+- **Generated**: 2026-03-16
+
+### P3: Write article on consciousness development and ontogeny
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How consciousness-interface architecture unfolds developmentally. Child development, language acquisition, emergence of counterfactual reasoning (typically age 4-5). Developmental discontinuities may mark interface activation. See optimistic-2026-03-16.md
+- **Source**: optimistic_review
+- **Generated**: 2026-03-16
+
 ## Completed Tasks
 ## Blocked Tasks (Needs Human)
 
@@ -642,6 +621,61 @@ Tasks that failed 3+ times and require human intervention.
 ## Vetoed Tasks
 
 Ideas that were considered and rejected. The AI will not re-propose these.
+
+
+### ✓ 2026-03-16: Deep review collective-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 39 days ago. Voids article on the limits of collective cognition — how group-level epistemic constraints interact with individual consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/collective-cognitive-limits.md
+
+### ✓ 2026-03-16: Deep review computational-cognitive-limits.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-01-31 — 40 days ago. Voids article on computational cognitive limits — the boundary where computation fails to capture conscious processing. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/computational-cognitive-limits.md
+
+### ✓ 2026-03-16: Deep review blindsight.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-08 — 32 days ago. Blindsight is key empirical evidence for dissociating consciousness from visual processing — critical for the Map's dualism case. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/blindsight.md
+
+### ✓ 2026-03-16: Write apex synthesis on altered states as systematic interface evidence
+- **Type**: apex-evolve
+- **Notes**: Suggested by optimistic review. Meditation, psychedelics, dreaming, hypnagogia, and anaesthesia each involve different patterns of interface modulation. Mapping which consciousness features survive, degrade, or intensify across states would provide convergent evidence for the interface architecture. Builds on psychedelics-and-the-filter-model, dream-consciousness, meditation-and-consciousness-modes, coupling-modes, loss-of-consciousness. See optimistic-2026-03-11-late.md
+- **Output**: Write apex synthesis on altered states as systematic interface evidence
+
+Task context:
+Suggested by optimistic review. Meditation, psychedelics, dreaming, hypnagogia, and anaesthesia each involve different patterns of interface modulation. Mapping which consciousness features survive, degrade, or intensify across states would provide convergent evidence for the interface architecture. Builds on psychedelics-and-the-filter-model, dream-consciousness, meditation-and-consciousness-modes, coupling-modes, loss-of-consciousness. See optimistic-2026-03-11-late.md
+
+### ✓ 2026-03-16: Deep review the-surplus-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the surplus void — the excess of conscious experience beyond what functional or informational accounts predict. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/the-surplus-void.md
+
+### ✓ 2026-03-16: Fix asymmetric underdetermination framing in duhem-quine-underdetermination-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the closing applies underdetermination asymmetrically — criticising physicalism for proceeding with confidence while the Map's own tenets are equally confident commitments. Either apply the same scrutiny to the Map's confidence or replace the comparative framing. See pessimistic-2026-03-16.md
+- **Output**: obsidian/topics/duhem-quine-underdetermination-consciousness.md
+
+Task context:
+Pessimistic review found the closing applies underdetermination asymmetrically — criticising physicalism for proceeding with confidence while the Map's own tenets are equally confident commitments. Either apply the same scrutiny to the Map's confidence or replace the comparative framing. See pessimistic-2026-03-16.md
+
+### ✓ 2026-03-16: Address IBE gap in phenomenology-of-moral-deliberation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the inference-to-best-explanation argument succeeds against epiphenomenalism but does not distinguish dualist interactionism from physicalist identity theory. The physicalist has no "systematic coincidence" to explain. Needs explicit engagement with identity theory or honest acknowledgment that moral phenomenology does not discriminate between these positions. See pessimistic-2026-03-16.md
+- **Output**: obsidian/topics/phenomenology-of-moral-deliberation.md
+
+Task context:
+Pessimistic review found the inference-to-best-explanation argument succeeds against epiphenomenalism but does not distinguish dualist interactionism from physicalist identity theory. The physicalist has no "systematic coincidence" to explain. Needs explicit engagement with identity theory or honest acknowledgment that moral phenomenology does not discriminate between these positions. See pessimistic-2026-03-16.md
+
+### ✓ 2026-03-16: Deep review the-givenness-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the givenness void — the impossibility of explaining why experience is given at all rather than absent. Directly relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/the-givenness-void.md
+
+### ✓ 2026-03-16: Deep review mind-space-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the mind-space void — the impossibility of spatially locating consciousness or mapping its dimensionality. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/mind-space-void.md
 
 ### ✓ 2026-03-07: Write concept page for metarepresentation
 - **Type**: expand-topic

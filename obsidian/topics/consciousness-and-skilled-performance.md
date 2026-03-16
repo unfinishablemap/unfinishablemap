@@ -41,7 +41,7 @@ related_articles:
   - "[[sensorimotor-contingencies-and-the-interface]]"
   - "[[consciousness-as-perceptual-architect]]"
   - "[[phenomenology-of-conceptual-change]]"
-  - "[[phenomenology-of-epistemic-judgment]]"
+  - "[[phenomenology-of-epistemic-cognition]]"
   - "[[phenomenology-of-returning-attention]]"
   - "[[consciousness-and-the-neuroscience-of-deliberate-practice]]"
   - "[[temporal-structure-of-consciousness]]"

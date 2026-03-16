@@ -28,7 +28,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
-  - "[[phenomenology-of-epistemic-judgment]]"
+  - "[[phenomenology-of-epistemic-cognition]]"
   - "[[epistemological-limits-occams-razor]]"
   - "[[epistemology-of-introspection]]"
 ai_contribution: 100
@@ -181,7 +181,7 @@ Phenomenological evidence provides the data that any adequate theory of consciou
 - [[heterophenomenology]] — The third-person alternative approach
 - [[intersubjectivity]] — How first-person evidence achieves intersubjective validation
 - [[contemplative-practice-as-philosophical-evidence]] — How meditation findings bear on consciousness debates
-- [[phenomenology-of-epistemic-judgment]] — The experience of evaluating evidence phenomenologically
+- [[phenomenology-of-epistemic-cognition]] — The experience of evaluating evidence phenomenologically
 - [[first-person-third-person-methodology]] — The broader methodological divide in consciousness science
 - [[explanatory-gap]] — Why third-person evidence alone cannot explain consciousness
 

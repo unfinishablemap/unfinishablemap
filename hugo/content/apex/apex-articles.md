@@ -403,7 +403,31 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 ---
 
-## Reserved Slots (18-20)
+### 18. Altered States as Systematic Interface Evidence
+
+**Slug**: `altered-states-as-interface-evidence`
+
+**Subtitle**: What meditation, psychedelics, dreaming, hypnagogia, and anaesthesia jointly reveal about the consciousness-brain interface
+
+**Thesis**: Altered states of consciousness constitute a systematic dataset that maps the architecture of the consciousness-brain interface: each state modulates specific interface components in predictable ways, and the pattern of which consciousness features survive, degrade, or intensify across states provides convergent evidence that consciousness operates through a multi-channel, configurable interface rather than being produced by neural activity.
+
+**Source articles**:
+- topics/psychedelics-and-the-filter-model
+- topics/dream-consciousness
+- concepts/meditation-and-consciousness-modes
+- concepts/coupling-modes
+- topics/loss-of-consciousness
+- topics/hypnagogic-phenomenology-and-interface-modulation
+- topics/anaesthesia-and-the-consciousness-interface
+- concepts/altered-states-of-consciousness
+- concepts/filter-theory
+- concepts/sleep-and-consciousness
+
+**Status**: Created 2026-03-16
+
+---
+
+## Reserved Slots (19-20)
 
 Future apex articles will be added as the Map evolves and new thematic clusters emerge. Potential candidates:
 

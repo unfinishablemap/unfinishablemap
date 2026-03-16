@@ -35,7 +35,7 @@ related_articles:
   - "[[phenomenology-of-conceptual-change]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[categorical-surprise]]"
-  - "[[phenomenology-of-epistemic-achievement]]"
+  - "[[phenomenology-of-epistemic-cognition]]"
   - "[[philosophy-of-science-under-dualism]]"
   - "[[aesthetic-dimension-of-consciousness]]"
 ai_contribution: 100
@@ -151,7 +151,7 @@ The phenomenology of creative insight supports several of the Map's [[tenets]].
 - [[phenomenology-of-conceptual-change]]
 - [[phenomenology-of-agency-vs-passivity]]
 - [[categorical-surprise]]
-- [[phenomenology-of-epistemic-achievement]]
+- [[phenomenology-of-epistemic-cognition]]
 - [[consciousness-and-scientific-explanation]]
 - [[philosophy-of-science-under-dualism]]
 - [[aesthetic-dimension-of-consciousness]]

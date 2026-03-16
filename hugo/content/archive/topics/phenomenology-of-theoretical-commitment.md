@@ -74,7 +74,7 @@ The deepest feature of theoretical commitment is that it becomes a *perspective*
 
 This inhabited quality explains why theoretical debates so often feel like failures of mutual comprehension rather than disagreements about specific claims. Two theorists committed to rival frameworks may share all the same data and still talk past each other, because the data appears differently from within each inhabited perspective — a dynamic explored in the [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/). The experience is not "I believe P and you believe not-P" but something closer to "I see this landscape and you see a different one."
 
-The inhabited character of commitment also explains the distinctive discomfort of encountering a powerful argument against one's framework. The threat is not merely to a proposition but to an entire mode of perceiving. This is why [belief revision](/topics/phenomenology-of-epistemic-judgment/) for core theoretical commitments involves a phenomenology closer to existential crisis than to updating a spreadsheet. The commitment is not a detachable opinion; it is part of the structure through which opinions are formed.
+The inhabited character of commitment also explains the distinctive discomfort of encountering a powerful argument against one's framework. The threat is not merely to a proposition but to an entire mode of perceiving. This is why [belief revision](/topics/phenomenology-of-epistemic-cognition/) for core theoretical commitments involves a phenomenology closer to existential crisis than to updating a spreadsheet. The commitment is not a detachable opinion; it is part of the structure through which opinions are formed.
 
 ## The Temporal Phenomenology of Commitment
 
@@ -103,8 +103,8 @@ This connects to the Map's tenet of [bidirectional interaction](/tenets/#bidirec
 ## Further Reading
 
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
-- [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/)
-- [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/)
+- [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-cognition/)
+- [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-cognition/)
 - [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/)
 - [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/)
 - [consciousness-and-the-phenomenology-of-framework-dependence](/topics/phenomenology-of-framework-inhabitation/)

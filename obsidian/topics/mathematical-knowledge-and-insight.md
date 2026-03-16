@@ -33,7 +33,7 @@ related_articles:
   - "[[aesthetic-irreducibility-arguments]]"
   - "[[phenomenology-of-creative-insight]]"
   - "[[phenomenology-of-intellectual-effort]]"
-  - "[[phenomenology-of-epistemic-achievement]]"
+  - "[[phenomenology-of-epistemic-cognition]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

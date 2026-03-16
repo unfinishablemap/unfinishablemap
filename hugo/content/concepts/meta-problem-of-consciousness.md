@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-11 19:22:00+00:00
+ai_modified: 2026-03-16 02:18:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: Why do we think consciousness is hard to explain? Chalmers' meta-pr
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-15 01:55:00+00:00
+last_deep_review: 2026-03-16 02:18:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -68,7 +68,7 @@ If the illusionist's meta-problem solution is too simple, it doesn't explain the
 
 For dualists, the meta-problem has a straightforward answer: we report that consciousness is puzzling because it genuinely *is* puzzling. Problem intuitions accurately track a real feature of the world—the irreducibility of experience to physical processes. We say zombies are conceivable because the physical and the phenomenal really are separable. We report that Mary learns something because she genuinely acquires a new kind of knowledge.
 
-This "face-value" solution has a simplicity that illusionist alternatives lack. The problem intuitions are reliable because they reflect facts about the relationship between consciousness and physics. There is no illusion to explain, no systematic misrepresentation to account for. The meta-problem resolves naturally. The [interactionist development](/topics/metaproblem-of-consciousness-under-dualism/) of this argument goes further: realizationism—the view that consciousness causally contributes to problem intuitions—follows directly from the Bidirectional Interaction tenet, converting the metaproblem from a challenge into evidence for dualism.
+This "face-value" solution has a simplicity that illusionist alternatives lack. The problem intuitions are reliable because they reflect facts about the relationship between consciousness and physics. There is no illusion to explain, no systematic misrepresentation to account for. The meta-problem resolves naturally. The [interactionist development](/topics/metaproblem-of-consciousness-under-dualism/) of this argument goes further: realizationism—the view that consciousness causally contributes to problem intuitions—follows directly from the Bidirectional Interaction tenet, converting the meta-problem from a challenge into evidence for dualism.
 
 Chalmers himself noted this asymmetry. If the hard problem is real, the meta-problem is expected—of course we'd report difficulty explaining something that genuinely resists explanation. If the hard problem is illusory, the meta-problem becomes urgent—why do we so persistently misrepresent our own minds?
 
@@ -96,7 +96,7 @@ This response does require that consciousness can influence physical outcomes wi
 
 ## The Phenomenal Transparency Connection
 
-[Phenomenal transparency](/concepts/phenomenal-transparency/)—the property by which experience conceals its own representational nature—adds another dimension to the meta-problem. If we cannot introspectively detect the processing stages that produce our experiences, our problem intuitions may partly reflect this blindness. We report that consciousness is mysterious because we literally cannot see the mechanism from the inside.
+[Phenomenal transparency](/concepts/phenomenal-transparency/)—the property by which experience conceals its own representational nature—adds another dimension to the meta-problem. If we cannot introspectively detect the processing stages that produce our experiences, our problem intuitions may partly reflect this blindness. Thomas Metzinger's account of the phenomenal self-model develops this idea: the transparency of self-representation means we cannot experience the representational process *as* representation, which generates the conviction that consciousness is fundamentally unlike anything physical. We report that consciousness is mysterious because we literally cannot see the mechanism from the inside.
 
 This cuts both ways. Physicalists can argue transparency explains *why* consciousness seems irreducible—we can't see the physical machinery, so we conclude none exists. Dualists can argue transparency explains *why* the hard problem is so persistently overlooked—the invisibility of the representational medium means we chronically underestimate how strange consciousness is.
 

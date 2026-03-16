@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-24
-**Article**: [The Phenomenology of Epistemic Judgment](/topics/phenomenology-of-epistemic-judgment/)
+**Article**: [The Phenomenology of Epistemic Judgment](/topics/phenomenology-of-epistemic-cognition/)
 **Previous review**: Never (first review; newly coalesced from phenomenology-of-belief-revision + phenomenology-of-evidence-assessment)
 
 ## Pessimistic Analysis Summary

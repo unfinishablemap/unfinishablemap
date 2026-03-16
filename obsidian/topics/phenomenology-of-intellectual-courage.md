@@ -19,8 +19,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-intellectual-effort]]"
-  - "[[phenomenology-of-epistemic-achievement]]"
-  - "[[phenomenology-of-epistemic-judgment]]"
+  - "[[phenomenology-of-epistemic-cognition]]"
   - "[[phenomenology-of-philosophical-disagreement]]"
   - "[[epistemic-advantages-of-dualism]]"
   - "[[argument-from-reason]]"
@@ -55,7 +54,7 @@ Holding a minority position carries phenomenal weight. This is not merely metaph
 
 What distinguishes intellectual courage from mere obstinacy is the quality of the conviction being maintained. Courageous belief has distinctive phenomenal markers:
 
-**Evidence-grounded confidence.** The belief feels anchored to reasons, not to identity or emotion. When challenged, the phenomenal response is not defensive heat but something cooler — a return to the grounds, a re-examination that confirms rather than merely reasserts. The [[phenomenology-of-epistemic-achievement|achievement phenomenology]] — the felt grounding and transparency of genuine knowledge — persists under pressure.
+**Evidence-grounded confidence.** The belief feels anchored to reasons, not to identity or emotion. When challenged, the phenomenal response is not defensive heat but something cooler — a return to the grounds, a re-examination that confirms rather than merely reasserts. The [[phenomenology-of-epistemic-cognition|achievement phenomenology]] — the felt grounding and transparency of genuine knowledge — persists under pressure.
 
 **Openness within firmness.** Intellectual courage includes a paradoxical phenomenal quality: firm commitment combined with genuine willingness to be shown wrong. The courageous thinker does not experience challenges as threats but as tests — occasions to verify that the grounds still hold. This is phenomenologically distinct from both dogmatic rigidity (which experiences challenges as attacks) and anxious uncertainty (which experiences every objection as potentially devastating).
 
@@ -154,9 +153,8 @@ The claim that intellectual courage has irreducible phenomenal character would f
 ## Further Reading
 
 - [[phenomenology-of-intellectual-effort]] — The felt work of reasoning itself
-- [[phenomenology-of-epistemic-achievement]] — What it is like to arrive at knowledge
+- [[phenomenology-of-epistemic-cognition]] — What it is like to arrive at knowledge and change your mind
 - [[phenomenology-of-philosophical-disagreement]] — The experience of clashing views
-- [[phenomenology-of-epistemic-judgment]] — The experience of changing your mind
 - [[epistemic-advantages-of-dualism]] — Why keeping dualism as a live option is epistemically responsible
 - [[argument-from-reason]] — Why genuine reasoning requires irreducible consciousness
 - [[epistemic-emotions]] — The feelings that accompany intellectual life

@@ -47,7 +47,7 @@ title: The Phenomenology of Framework Inhabitation
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[phenomenology-of-conceptual-change]]'
-- '[[phenomenology-of-epistemic-judgment]]'
+- '[[phenomenology-of-epistemic-cognition]]'
 ---
 
 Every conscious being thinks from within a conceptual framework — a system of categories, assumptions, and inferential habits that structures experience before reflection begins. The Unfinishable Map argues that this framework is not held like luggage but *inhabited* like a dwelling. The committed theorist does not carry the theory around; they look through it like a lens. And the most striking phenomenological fact about this inhabitation is that the lens presents itself not as a lens but as clear sight. This phenomenal transparency — the felt absence of the framework even as it shapes every thought — combined with the gravitational pull that commitment exerts on inquiry, constitutes irreducible evidence that consciousness does epistemic work no computational model captures.
@@ -182,7 +182,7 @@ The Map's analysis also resonates with [mysterianism](/concepts/mysterianism/). 
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — How the Map's own commitments create framework-specific blind spots
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/) — What happens when inhabited frameworks collide
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/) — The phenomenology of framework revision
-- [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/) — The felt weight of evidence under evaluation
+- [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — The felt weight of evidence under evaluation
 - [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/) — Holding position when frameworks clash
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The work of reasoning within a framework
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — What it is like when the framework delivers comprehension

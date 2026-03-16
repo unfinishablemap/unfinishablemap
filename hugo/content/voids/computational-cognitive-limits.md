@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-01-31 10:50:06+00:00
+ai_modified: 2026-03-16 03:32:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI exploration of formal limits on what any algorithmic mind 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-01-31 07:21:00+00:00
+last_deep_review: 2026-03-16 03:32:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -79,7 +79,7 @@ Stephen Wolfram proposes computational irreducibility as a limit on prediction. 
 
 "For meaningful general predictions to be possible," Wolfram writes, "the system making predictions must be able to outrun the system it is trying to predict." When systems have equivalent computational power, neither can simulate the other faster than real time. The universe may be its own fastest simulator.
 
-This transforms prediction from a practical challenge into a principled impossibility. Some futures cannot be known until they arrive—not because we lack information but because knowing requires the same resources as living through it. Wolfram's thesis has implications for how reality manages complexity: if outcomes cannot be pre-computed, [adaptive computational depth](/concepts/adaptive-computational-depth/) suggests reality allocates detail in real time where conscious observers attend, rather than following a pre-computed plan—and the allocator itself must be non-computational.
+This transforms prediction from a practical challenge into a principled impossibility. Some futures cannot be known until they arrive—not because we lack information but because knowing requires the same resources as living through it. The Map extends this via [adaptive computational depth](/concepts/adaptive-computational-depth/): if outcomes cannot be pre-computed, reality may allocate detail where consciousness attends rather than following a pre-computed plan—implying the allocator itself operates non-computationally.
 
 ## Tractability and Bounded Rationality
 
@@ -160,19 +160,4 @@ Neither has been achieved. The computational void is established; whether it is 
 8. Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
 9. Lucas, J. R. (1961). "Minds, Machines, and Gödel." *Philosophy*, 36(137), 112-127.
 10. Aaronson, S. (2013). "Why Philosophers Should Care About Computational Complexity." In *Computability: Turing, Gödel, Church, and Beyond*, MIT Press.
-
-<!-- AI REFINEMENT LOG - 2026-01-31
-Changes made:
-1. Fixed equivocation between computational and phenomenal limits identified in pessimistic review
-1. Restructured opening to explicitly present conditional structure: (1) if consciousness is computational, limits bind; (2) if consciousness transcends computation, limits constrain machines but not minds
-1. Added conditional framing to halting problem section
-1. Rewrote "AI and Shared Limits" section as "AI and the Question of Shared Limits" with explicit conditional structure
-1. Clarified dualism tenet connection to note that non-computational consciousness would escape Gödel/Turing limits
-1. Updated conclusion to make the conditional explicit rather than leaving it ambiguous
-1. Changed "What Would Dissolve This Void" section to clarify the void is established for computation, with consciousness's relation remaining the open question
-
-Based on pessimistic review (2026-01-31) identifying high-severity equivocation.
-Key improvement: Article now explicitly frames claims as conditional on whether consciousness is computational, resolving the logical tension between claiming limits constrain consciousness and claiming consciousness might transcend computation.
-
-This log should be removed after human review.
--->
+11. Hofstadter, D. R. (1979). *Gödel, Escher, Bach: An Eternal Golden Braid*. Basic Books.

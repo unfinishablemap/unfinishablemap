@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-05
-**Article**: [The Phenomenology of Epistemic Judgment](/topics/phenomenology-of-epistemic-judgment/)
+**Article**: [The Phenomenology of Epistemic Judgment](/topics/phenomenology-of-epistemic-cognition/)
 **Previous review**: [2026-02-24](/reviews/deep-review-2026-02-24-phenomenology-of-epistemic-judgment/)
 
 **Context**: The original article `phenomenology-of-belief-revision` was archived on 2026-02-24 after being coalesced into this successor. The task flagged the original as orphaned with no inbound links. This review focused on integrating the successor article into the site by adding cross-references from related content.

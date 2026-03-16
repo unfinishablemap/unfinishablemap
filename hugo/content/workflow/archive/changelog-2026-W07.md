@@ -1529,7 +1529,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-11 19:19 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of Epistemic Achievement
-- **Output**: [phenomenology-of-epistemic-achievement](/topics/phenomenology-of-epistemic-achievement/)
+- **Output**: [phenomenology-of-epistemic-achievement](/topics/phenomenology-of-epistemic-cognition/)
 - **Word count**: 1663
 - **Based on research**: No (drew on existing research notes for cognitive phenomenology and error recognition)
 

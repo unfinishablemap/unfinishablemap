@@ -6,6 +6,11 @@ modified: 2026-02-24
 human_modified:
 ai_modified: 2026-03-14T14:41:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-16T04:17:00+00:00
+superseded_by: "/topics/phenomenology-of-epistemic-cognition/"
+archive_reason: "Coalesced into The Phenomenology of Epistemic Cognition"
+original_path: "/topics/phenomenology-of-epistemic-judgment/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[epistemic-advantages-of-dualism]]"

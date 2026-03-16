@@ -69,7 +69,7 @@ Epistemic norms—the demands of rationality, evidence, and logical consistency�
 
 The experience of being compelled by evidence has what might be called phenomenal rigidity. A valid argument doesn't merely suggest its conclusion—it seems to necessitate it. This phenomenal necessity is distinct from physical necessity (feeling the impact of a collision) and moral necessity (feeling obligated to help). It belongs to [cognitive phenomenology](/concepts/cognitive-phenomenology/): the felt character of thinking itself.
 
-When evidence contradicts a held belief, the clash registers as epistemic tension—a characteristic restlessness, the sense that the mind's current configuration is unstable. [Belief revision](/topics/phenomenology-of-epistemic-judgment/) proceeds partly through this felt instability.
+When evidence contradicts a held belief, the clash registers as epistemic tension—a characteristic restlessness, the sense that the mind's current configuration is unstable. [Belief revision](/topics/phenomenology-of-epistemic-cognition/) proceeds partly through this felt instability.
 
 ### Aesthetic Normativity
 

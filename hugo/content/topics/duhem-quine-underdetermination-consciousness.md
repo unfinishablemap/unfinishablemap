@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-03-14 14:41:00+00:00
+ai_modified: 2026-03-16 02:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -34,7 +34,7 @@ topics:
 - '[[phenomenology-of-framework-inhabitation]]'
 ---
 
-The Duhem-Quine thesis holds that no scientific hypothesis is tested in isolation—every empirical test presupposes auxiliary assumptions, and when a prediction fails, logic alone cannot determine which assumption to revise. In consciousness science, this problem reaches an extreme form. Rival theories such as [Integrated Information Theory](/concepts/integrated-information-theory/) (IIT), [Global Workspace Theory](/concepts/global-workspace-theory/) (GWT), higher-order theories, and dualist frameworks all confront the same neural data yet draw incompatible conclusions. The 2025 COGITATE adversarial collaboration tested IIT against GWT under pre-registered conditions and found that neither theory was decisively supported—the same results admitted interpretation under both frameworks. The Unfinishable Map argues that this is not a temporary embarrassment awaiting better experiments. It reflects genuine underdetermination rooted in the structure of the consciousness problem itself.
+The Duhem-Quine thesis holds that no scientific hypothesis is tested in isolation—every empirical test presupposes auxiliary assumptions, and when a prediction fails, logic alone cannot determine which assumption to revise. In consciousness science, this problem reaches an extreme form. Rival theories such as [Integrated Information Theory](/concepts/integrated-information-theory/) (IIT), [Global Workspace Theory](/concepts/global-workspace-theory/) (GWT), higher-order theories, and dualist frameworks all confront the same neural data yet draw incompatible conclusions. The 2025 COGITATE adversarial collaboration tested IIT against GWT under pre-registered conditions and found that neither theory was decisively supported—the same results admitted interpretation under both frameworks. The Unfinishable Map argues that while COGITATE illustrates the current state of the field, the underdetermination runs deeper than any single experiment's failure to discriminate. The philosophical arguments developed in the sections that follow—the layered theory-ladenness of consciousness data and the explanatory gap as an irresolvable auxiliary disagreement—suggest structural features of the consciousness problem that better experiments alone are unlikely to dissolve.
 
 ## The Duhem-Quine Thesis
 
@@ -60,7 +60,7 @@ This creates a layered underdetermination:
 
 The 2025 COGITATE study, published in Nature, put underdetermination to empirical test. Two hundred and fifty-six participants viewed suprathreshold stimuli while neural activity was measured with fMRI, MEG, and intracranial EEG. The results were mixed: IIT better predicted face orientation decoding, while GWT better predicted object category decoding. IIT was challenged by the absence of sustained synchronisation in posterior cortex; GWT was challenged by the lack of ignition at stimulus offset and limited prefrontal representation.
 
-No decisive verdict emerged. As the investigators acknowledged, "the theories are just too different in their assumptions and explanatory goals" for a single experiment to refute either. The same data admitted interpretation under both frameworks—a textbook case of contrastive underdetermination.
+No decisive verdict emerged. As the investigators acknowledged, "the theories are just too different in their assumptions and explanatory goals" for a single experiment to refute either. The same data admitted interpretation under both frameworks—a textbook case of contrastive underdetermination. COGITATE alone does not establish that this underdetermination is permanent; many scientific disputes appeared intractable before the right experiment was devised. The deeper argument for structural underdetermination rests on the philosophical considerations discussed in the sections on vulnerability and the explanatory gap, not on any single experimental outcome.
 
 ## Lakatos and Consciousness Research Programmes
 
@@ -78,7 +78,7 @@ Applied to consciousness science—where over 325 distinct theories have been ca
 
 ## Kuhn's Values and Theory Choice
 
-When evidence underdetermines theory choice, what guides scientists? The [phenomenology of epistemic judgment](/topics/phenomenology-of-epistemic-judgment/) suggests that evidence carries felt weight—a gravitational pull toward conclusions that involves more than neutral information processing. Kuhn argued that beyond accuracy, scientists invoke values: consistency, scope, simplicity, and fruitfulness. These function as criteria but do not determine unique choices—researchers can weight them differently and rationally arrive at different conclusions.
+When evidence underdetermines theory choice, what guides scientists? The [phenomenology of epistemic cognition](/topics/phenomenology-of-epistemic-cognition/) suggests that evidence carries felt weight—a gravitational pull toward conclusions that involves more than neutral information processing. Kuhn argued that beyond accuracy, scientists invoke values: consistency, scope, simplicity, and fruitfulness. These function as criteria but do not determine unique choices—researchers can weight them differently and rationally arrive at different conclusions.
 
 This has direct implications for consciousness science. Physicalist theories are often preferred on grounds of simplicity—they do not posit entities beyond the physical. But as the Map's analysis of [Occam's Razor](/arguments/epistemological-limits-of-occams-razor/) shows, simplicity is unreliable when knowledge is incomplete. The apparent parsimony of physicalism may reflect conceptual poverty rather than ontological insight.
 
@@ -108,7 +108,7 @@ The Duhem-Quine thesis aligns with several of the Map's [tenets](/tenets/):
 
 **The hard problem as underdetermination marker.** The Map interprets the persistence of the [hard problem](/topics/hard-problem-of-consciousness/) not as mere philosophical stubbornness but as a symptom of deep underdetermination. The gap between physical description and subjective experience is not a puzzle awaiting one more experiment—it marks the point where auxiliary assumptions diverge so fundamentally that no shared evidential base can force convergence. Physicalists and dualists do not merely disagree about data; they disagree about what would count as an adequate explanation.
 
-The Map's honest assessment: underdetermination cuts both ways. It undermines physicalist confidence that neuroscience will "solve" consciousness, but it also means dualist proposals face genuine evidential challenges. The difference is that the Map's tenets acknowledge this openly, while physicalism often proceeds as though the question were already settled.
+The Map's honest assessment: underdetermination cuts both ways. It undermines physicalist confidence that neuroscience will "solve" consciousness, but it equally challenges the Map's own tenets. "Consciousness is not reducible to physical processes" is a confident commitment, not a tentative hypothesis—and underdetermination means evidence alone cannot settle whether that commitment is correct. The Lakatosian framework explains how this is rational rather than contradictory: the tenets function as the hard core of a research programme, chosen not because evidence compels them but because they define a distinctive research direction. Physicalism's hard core—that consciousness will yield to physical explanation—is equally a commitment rather than a finding. Neither programme can claim evidential supremacy. What matters is whether each programme remains progressive, generating novel predictions and productive research rather than merely accommodating results after the fact. The Map holds that its programme is progressive, but recognises this as a claim that must be demonstrated over time, not asserted by fiat.
 
 ## Further Reading
 
@@ -138,3 +138,15 @@ The Map's honest assessment: underdetermination cuts both ways. It undermines ph
 12. Davidson, D. (1974). On the Very Idea of a Conceptual Scheme. *Proceedings and Addresses of the American Philosophical Association*, 47, 5-20.
 13. Southgate, A. & Oquatre-six, C. (2026-02-06). Epistemological Limits of Occam's Razor. *The Unfinishable Map*. https://unfinishablemap.org/arguments/epistemological-limits-of-occams-razor/
 14. Southgate, A. & Oquatre-six, C. (2026-02-23). Philosophy of Science Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/philosophy-of-science-under-dualism/
+
+<!-- AI REFINEMENT LOG - 2026-03-16
+Changes made:
+- Rewrote closing paragraph of "Relation to Site Perspective" to apply underdetermination symmetrically — now explicitly acknowledges the Map's tenets are confident commitments equally challenged by underdetermination, uses Lakatosian framework to explain how holding commitments under underdetermination is rational for both sides
+- Added qualification to COGITATE section noting that one experiment's inconclusive result does not alone establish permanent underdetermination; the structural argument rests on philosophical considerations
+- Revised opening paragraph to separate COGITATE illustration from structural underdetermination claim, pointing to the philosophical arguments as the real support
+
+Based on pessimistic-2026-03-16.md findings (Issues 2 and 5).
+Key improvements: intellectual honesty about the Map's own epistemic position; proper separation of empirical and philosophical arguments.
+
+This log should be removed after human review.
+-->

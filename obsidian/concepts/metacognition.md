@@ -103,7 +103,7 @@ Great apes' limited working memory capacity—roughly two items (Read 2008) comp
 
 ### Epistemic Phenomenology
 
-[[epistemic-emotions|Epistemic emotions]]—the feeling of certainty, doubt, insight, tip-of-tongue frustration—have phenomenal character. They concern your relationship to knowledge rather than the world directly. The [[phenomenology-of-epistemic-judgment|phenomenology of epistemic judgment]] maps this territory in detail, showing how evidence assessment, belief revision, and doubt each have distinctive phenomenal structure that metacognition monitors. This phenomenal dimension may be constitutive: without the felt quality, there might be no genuine metarepresentation, only functional processing that mimics it.
+[[epistemic-emotions|Epistemic emotions]]—the feeling of certainty, doubt, insight, tip-of-tongue frustration—have phenomenal character. They concern your relationship to knowledge rather than the world directly. The [[phenomenology-of-epistemic-cognition|phenomenology of epistemic cognition]] maps this territory in detail, showing how evidence assessment, belief revision, and doubt each have distinctive phenomenal structure that metacognition monitors. This phenomenal dimension may be constitutive: without the felt quality, there might be no genuine metarepresentation, only functional processing that mimics it.
 
 ## Theory of Mind and Social Metacognition
 

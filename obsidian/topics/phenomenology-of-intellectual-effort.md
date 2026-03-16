@@ -23,7 +23,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[argument-from-reason]]"
-  - "[[phenomenology-of-epistemic-judgment]]"
+  - "[[phenomenology-of-epistemic-cognition]]"
   - "[[stapp-mental-effort-mind-matter-2026-01-14]]"
   - "[[cognitive-phenomenology-thinking-experience-2026-01-17]]"
 ai_contribution: 100
@@ -106,7 +106,7 @@ The distinction between compelling and forced resists physical reduction, even i
 
 ### Weighing as Work
 
-[[phenomenology-of-epistemic-judgment|Evaluating evidence]] is not passive reception. There is phenomenal work in weighing:
+[[phenomenology-of-epistemic-cognition|Evaluating evidence]] is not passive reception. There is phenomenal work in weighing:
 
 **Holding options open.** Before settling, you maintain alternatives in awareness. This is effortful—the default is to collapse to one view, and maintaining genuine uncertainty requires work.
 
@@ -213,7 +213,7 @@ What does it feel like to reason? It feels like work—meaningful, directed, con
 - [[argument-from-reason]] — The structural case that reasoning requires irreducible consciousness
 - [[mental-effort]] — Attentional effort and the quantum Zeno mechanism
 - [[phenomenology-of-choice]] — The experience of deciding
-- [[phenomenology-of-epistemic-judgment]] — The experience of evaluating evidence
+- [[phenomenology-of-epistemic-cognition]] — The experience of evaluating evidence
 - [[epistemic-emotions]] — Feelings directed at knowledge: curiosity, certainty, doubt
 - [[cognitive-phenomenology]] — Whether thinking itself has experiential character
 - [[working-memory]] — Where intellectual capacity meets consciousness

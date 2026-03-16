@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-15
-**Article**: [The Phenomenology of Epistemic Achievement](/topics/phenomenology-of-epistemic-achievement/)
+**Article**: [The Phenomenology of Epistemic Achievement](/topics/phenomenology-of-epistemic-cognition/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -24,7 +24,7 @@ last_deep_review: 2026-02-21 06:06:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[phenomenology-of-epistemic-judgment]]'
+- '[[phenomenology-of-epistemic-cognition]]'
 - '[[consciousness-and-testimony]]'
 - '[[consciousness-and-normative-force]]'
 - '[[consciousness-and-the-authority-of-logic]]'
@@ -34,7 +34,7 @@ related_articles:
 title: The Phenomenology of Philosophical Disagreement
 topics:
 - '[[phenomenology-of-understanding]]'
-- '[[phenomenology-of-epistemic-judgment]]'
+- '[[phenomenology-of-epistemic-cognition]]'
 - '[[consciousness-and-interpersonal-understanding]]'
 - '[[epistemic-advantages-of-dualism]]'
 - '[[hard-problem-of-consciousness]]'
@@ -84,11 +84,11 @@ Three characteristic experiences stand out:
 
 ## Disagreement as Evidence
 
-The [phenomenology of evidence assessment](/topics/phenomenology-of-epistemic-judgment/) examines how evidence feels when encountered. Philosophical disagreement reveals a meta-level version of this: the phenomenology of discovering that what counts as evidence is itself under dispute.
+The [phenomenology of evidence assessment](/topics/phenomenology-of-epistemic-cognition/) examines how evidence feels when encountered. Philosophical disagreement reveals a meta-level version of this: the phenomenology of discovering that what counts as evidence is itself under dispute.
 
 When a dualist points to the explanatory gap and the materialist responds that the gap is merely epistemic (reflecting our current ignorance rather than an ontological divide), the disagreement is not about a shared body of evidence. It is about what constitutes evidence in the first place. The felt quality of the explanatory gap — the sense that physical description leaves something out — is itself evidential for the dualist. For the materialist, this felt quality is a misleading intuition to be explained away.
 
-This meta-level disagreement has distinctive phenomenal character: the vertigo of discovering that one's epistemic foundations are not shared. The experience resembles what the [belief revision](/topics/phenomenology-of-epistemic-judgment/) article describes as epistemic vertigo — but here the vertigo is chronic rather than transitional. In belief revision, vertigo resolves into a new framework. In philosophical disagreement about consciousness, the vertigo can persist indefinitely because the frameworks themselves are what is at stake.
+This meta-level disagreement has distinctive phenomenal character: the vertigo of discovering that one's epistemic foundations are not shared. The experience resembles what the [belief revision](/topics/phenomenology-of-epistemic-cognition/) article describes as epistemic vertigo — but here the vertigo is chronic rather than transitional. In belief revision, vertigo resolves into a new framework. In philosophical disagreement about consciousness, the vertigo can persist indefinitely because the frameworks themselves are what is at stake.
 
 ## What Disagreement Reveals About Consciousness
 
@@ -113,9 +113,8 @@ The Map's [Occam's Razor tenet](/tenets/#occams-limits) is also relevant. The ma
 ## Further Reading
 
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding/) — The phenomenal character of comprehension and insight
-- [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/) — What it feels like to change your mind
+- [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — What it feels like to change your mind
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/) — What genuine understanding of another person requires
-- [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/) — How evidence carries phenomenal weight
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/) — The phenomenology of accepting or resisting another's claims
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why the dualist framework has distinctive strengths
 - [intersubjective-void](/voids/intersubjective-void/) — The gap between what one consciousness can grasp of another

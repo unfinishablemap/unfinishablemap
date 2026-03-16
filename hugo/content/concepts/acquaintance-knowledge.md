@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-11 21:35:00+00:00
+ai_modified: 2026-03-16 03:48:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[indexical-knowledge]]'
 - '[[introspection]]'
 - '[[explanatory-gap]]'
-- symbol-grounding
+- '[[symbol-grounding-problem]]'
 created: 2026-02-09
 date: &id001 2026-02-09
 description: Knowledge by acquaintance—direct experiential contact with phenomenal
@@ -20,7 +20,7 @@ description: Knowledge by acquaintance—direct experiential contact with phenom
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-15 03:20:00+00:00
+last_deep_review: 2026-03-16 03:48:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -96,7 +96,7 @@ Mary's gap is indexical as well as qualitative: she lacks not just knowledge of 
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: If acquaintance knowledge is genuinely irreducible to propositional knowledge, and propositional knowledge exhausts what physical description can provide, then reality contains more than physical description captures. Acquaintance reveals the qualitative character of experience—what the Map holds is irreducible to physical processes. The knowledge argument's force depends on this irreducibility.
+**[Dualism](/tenets/#dualism)**: If acquaintance knowledge is genuinely irreducible to propositional knowledge, and propositional knowledge exhausts what physical description can provide, then reality contains more than physical description captures. Acquaintance reveals the qualitative character of experience—which the Map maintains is irreducible to physical processes. The knowledge argument's force depends on this irreducibility.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Mary reports that she has learned something new. This report is a physical event—neural activity producing speech. If her acquaintance with redness were [epiphenomenal](/concepts/epiphenomenalism/), her report would be causally disconnected from the acquaintance itself—accidentally right at best. That acquaintance reliably produces accurate reports suggests consciousness causally influences physical outcomes.
 
@@ -127,4 +127,3 @@ Mary's gap is indexical as well as qualitative: she lacks not just knowledge of 
 1. Loar, B. (1997). "Phenomenal States (Second Version)." In N. Block et al. (eds.), *The Nature of Consciousness*.
 1. Kelly, S. (1998). "The Non-Conceptual Content of Perceptual Experience." *Electronic Journal of Analytic Philosophy*.
 1. Chalmers, D. J. (2009). "The Two-Dimensional Argument Against Materialism." In *The Character of Consciousness*. Oxford University Press.
-1. Tye, M. (2009). *Consciousness Revisited*. MIT Press.

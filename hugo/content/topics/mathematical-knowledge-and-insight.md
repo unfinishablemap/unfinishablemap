@@ -40,7 +40,7 @@ related_articles:
 - '[[aesthetic-irreducibility-arguments]]'
 - '[[phenomenology-of-creative-insight]]'
 - '[[phenomenology-of-intellectual-effort]]'
-- '[[phenomenology-of-epistemic-achievement]]'
+- '[[phenomenology-of-epistemic-cognition]]'
 title: Mathematical Knowledge and Insight
 topics:
 - '[[hard-problem-of-consciousness]]'

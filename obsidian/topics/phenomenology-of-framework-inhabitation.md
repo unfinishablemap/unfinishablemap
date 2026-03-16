@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[phenomenology-of-conceptual-change]]"
-  - "[[phenomenology-of-epistemic-judgment]]"
+  - "[[phenomenology-of-epistemic-cognition]]"
 concepts:
   - "[[phenomenology]]"
   - "[[introspection]]"
@@ -179,7 +179,7 @@ The Map's analysis also resonates with [[mysterianism]]. If frameworks constrain
 - [[tenet-generated-voids]] — How the Map's own commitments create framework-specific blind spots
 - [[phenomenology-of-philosophical-disagreement]] — What happens when inhabited frameworks collide
 - [[phenomenology-of-conceptual-change]] — The phenomenology of framework revision
-- [[phenomenology-of-epistemic-judgment]] — The felt weight of evidence under evaluation
+- [[phenomenology-of-epistemic-cognition]] — The felt weight of evidence under evaluation
 - [[phenomenology-of-intellectual-courage]] — Holding position when frameworks clash
 - [[phenomenology-of-intellectual-effort]] — The work of reasoning within a framework
 - [[phenomenology-of-understanding]] — What it is like when the framework delivers comprehension

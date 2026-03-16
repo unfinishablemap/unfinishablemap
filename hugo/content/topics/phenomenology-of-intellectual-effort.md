@@ -28,7 +28,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[argument-from-reason]]'
-- '[[phenomenology-of-epistemic-judgment]]'
+- '[[phenomenology-of-epistemic-cognition]]'
 - '[[stapp-mental-effort-mind-matter-2026-01-14]]'
 - '[[cognitive-phenomenology-thinking-experience-2026-01-17]]'
 title: The Phenomenology of Intellectual Effort
@@ -109,7 +109,7 @@ The distinction between compelling and forced resists physical reduction, even i
 
 ### Weighing as Work
 
-[Evaluating evidence](/topics/phenomenology-of-epistemic-judgment/) is not passive reception. There is phenomenal work in weighing:
+[Evaluating evidence](/topics/phenomenology-of-epistemic-cognition/) is not passive reception. There is phenomenal work in weighing:
 
 **Holding options open.** Before settling, you maintain alternatives in awareness. This is effortful—the default is to collapse to one view, and maintaining genuine uncertainty requires work.
 
@@ -216,7 +216,7 @@ What does it feel like to reason? It feels like work—meaningful, directed, con
 - [argument-from-reason](/topics/argument-from-reason/) — The structural case that reasoning requires irreducible consciousness
 - [mental-effort](/concepts/mental-effort/) — Attentional effort and the quantum Zeno mechanism
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The experience of deciding
-- [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-judgment/) — The experience of evaluating evidence
+- [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — The experience of evaluating evidence
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge: curiosity, certainty, doubt
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has experiential character
 - [working-memory](/concepts/working-memory/) — Where intellectual capacity meets consciousness

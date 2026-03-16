@@ -36,11 +36,10 @@ related_articles:
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[consciousness-and-the-authority-of-logic]]"
   - "[[consciousness-and-counterfactual-reasoning]]"
-  - "[[phenomenology-of-epistemic-judgment]]"
+  - "[[phenomenology-of-epistemic-cognition]]"
   - "[[argument-from-reason]]"
   - "[[explanatory-gap]]"
   - "[[phenomenology-of-intellectual-effort]]"
-  - "[[phenomenology-of-epistemic-judgment]]"
   - "[[phenomenal-binding-and-holism]]"
   - "[[language-recursion-and-consciousness]]"
   - "[[phenomenal-normativity]]"
@@ -203,7 +202,7 @@ Several findings would weaken PCT:
 - [[epistemic-emotions]] — Feelings directed at knowledge itself
 - [[consciousness-and-the-authority-of-logic]] — Why logical relationships carry normative force
 - [[phenomenology-of-intellectual-effort]] — The experience of reasoning as work
-- [[phenomenology-of-epistemic-judgment]] — The felt weight of reasons
+- [[phenomenology-of-epistemic-cognition]] — The felt weight of reasons
 - [[argument-from-reason]] — Why genuine reasoning requires consciousness
 - [[explanatory-gap]] — The gap between physical description and phenomenal experience
 - [[phenomenal-binding-and-holism]] — How discrete conscious states combine into structured wholes
@@ -219,7 +218,6 @@ Several findings would weaken PCT:
 - [[meaning-of-life]] — Consciousness-grounded meaning and existential significance
 - [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel and narrative integration
 - [[consciousness-and-counterfactual-reasoning]] — Inference about non-actual scenarios
-- [[phenomenology-of-epistemic-judgment]] — When inference changes what you believe
 - [[phenomenal-normativity]] — Logical compulsion as one species of normative phenomenal property
 
 ## References
