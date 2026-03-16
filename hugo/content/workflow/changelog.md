@@ -18,6 +18,111 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 07:47 UTC - refine-draft
+- **Status**: Success
+- **File**: [mental-effort](/concepts/mental-effort/)
+- **Changes**: Restructured to lead with phenomenology; removed Quantum Zeno from title; moved Zeno into "Proposed Mechanisms" as one speculative option; addressed 10^12 decoherence gap honestly; decoupled neuroplasticity evidence from Zeno; rewrote Relation to Site Perspective grounded in phenomenology
+- **Published**: yes
+
+## 2026-03-16 07:33 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/mental-effort.md, concepts/neural-correlates-of-consciousness.md, concepts/phenomenology.md
+- **Output**: [pessimistic-2026-03-16-morning](/reviews/pessimistic-2026-03-16-morning/)
+
+## 2026-03-16 07:17 UTC - deep-review
+- **Status**: Success
+- **File**: [thoughts-that-slip-away](/voids/thoughts-that-slip-away/)
+- **Word count**: 1844 → 1861 (+17)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (missing description, 3 orphaned references, missing Gurwitsch reference, missing cross-links)
+- **Enhancements made**: 3 (description, reference cleanup, cross-links to 3 related voids)
+- **Output**: [deep-review-2026-03-16-thoughts-that-slip-away](/reviews/deep-review-2026-03-16-thoughts-that-slip-away/)
+
+## 2026-03-16 07:02 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-error-recognition](/voids/phenomenology-of-error-recognition/)
+- **Word count**: 1714 → 1763 (+49)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (uncited Plato quotes, unused reference, missing cross-links)
+- **Enhancements made**: 4 (cross-links to introspective-opacity, calibration-void, cognitive-closure, phenomenology-of-the-edge)
+- **Output**: [deep-review-2026-03-16-phenomenology-of-error-recognition](/reviews/deep-review-2026-03-16-phenomenology-of-error-recognition/)
+
+## 2026-03-16 06:48 UTC - deep-review
+- **Status**: Success
+- **File**: [process-haecceitism](/concepts/process-haecceitism/)
+- **Word count**: 1872 → 1878 (+6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2 (citation connections to Stepien and Siderits)
+- **Output**: [deep-review-2026-03-16-process-haecceitism](/reviews/deep-review-2026-03-16-process-haecceitism/)
+
+## 2026-03-16 06:32 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/)
+- **Word count**: 1773 → 1834 (+61)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing references, misleading link, cross-link gaps)
+- **Enhancements made**: 6 (2 references, 1 link fix, 3 cross-links)
+- **Output**: [deep-review-2026-03-16-consciousness-in-smeared-quantum-states](/reviews/deep-review-2026-03-16-consciousness-in-smeared-quantum-states/)
+
+## 2026-03-16 06:17 UTC - deep-review
+- **Status**: Success
+- **File**: [bergson-and-duration](/topics/bergson-and-duration/)
+- **Word count**: 2276 → 2303 (+27)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2 (cross-links added)
+- **Output**: [deep-review-2026-03-16-bergson-and-duration](/reviews/deep-review-2026-03-16-bergson-and-duration/)
+
+## 2026-03-16 06:07 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 426
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 4
+- **Output**: [tenet-check-2026-03-16](/reviews/tenet-check-2026-03-16/)
+
+## 2026-03-16 06:03 UTC - deep-review
+- **Status**: Success
+- **File**: [brain-specialness-boundary](/topics/brain-specialness-boundary/)
+- **Word count**: 1752 → 1752 (no change)
+- **Critical issues addressed**: 1 (broken `[Attention](/concepts/attention-as-interface/)` wikilink)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (wikilink fix)
+- **Output**: [deep-review-2026-03-16-brain-specialness-boundary](/reviews/deep-review-2026-03-16-brain-specialness-boundary/)
+
+## 2026-03-16 05:47 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-attention](/concepts/phenomenal-attention/)
+- **Word count**: 2068 → 2100 (+32)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing cross-links, Koch & Tsuchiya in-text reference)
+- **Enhancements made**: 4 cross-links added (phenomenal-consciousness, explanatory-gap, epiphenomenalism, attention-consciousness-dissociation)
+- **Output**: [deep-review-2026-03-16-phenomenal-attention](/reviews/deep-review-2026-03-16-phenomenal-attention/)
+
+## 2026-03-16 05:32 UTC - research-voids
+- **Status**: Skipped (section at capacity)
+- **Reason**: Voids section has 102 articles, exceeding cap of 100
+- **Recommendation**: Focus on improving existing voids articles (deep-review, condense, coalesce)
+
+## 2026-03-16 05:18 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/)
+- **Word count**: 2225 → 2282 (+57)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-links)
+- **Enhancements made**: 3 cross-links added (childhood-development-and-the-interface, problem-of-other-minds, cross-cultural-phenomenology-of-agency)
+- **Output**: [deep-review-2026-03-16-phenomenology-of-collective-intentionality-and-we-consciousness](/reviews/deep-review-2026-03-16-phenomenology-of-collective-intentionality-and-we-consciousness/)
+
+## 2026-03-16T05:02:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/)
+- **Word count**: 2386 → 2397 (+11)
+- **Critical issues addressed**: 2 (Strawson mischaracterization, duplicate frontmatter entries)
+- **Medium issues addressed**: 3 (type-B materialist links, knowledge-argument concept, cross-links)
+- **Enhancements made**: 4 (cross-links to consciousness-and-testimony, consciousness-and-the-problem-of-induction, type-b-materialism, knowledge-argument)
+- **Output**: [deep-review-2026-03-16-phenomenology-of-epistemic-cognition](/reviews/deep-review-2026-03-16-phenomenology-of-epistemic-cognition/)
+
 ## 2026-03-16T04:47:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [time-symmetric-physics](/concepts/time-symmetric-physics/)

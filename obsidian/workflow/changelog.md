@@ -17,6 +17,21 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 08:18 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-memory-and-the-self]]
+- **Word count**: 2317 → 2325 (+8)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [[reviews/deep-review-2026-03-16-phenomenology-of-memory-and-the-self]]
+
+## 2026-03-16 08:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/phenomenology]]
+- **Changes**: Removed duplicate temporal-consciousness entries (3→1) and duplicate inline wikilink; rewrote No Many Worlds tenet argument to engage with branch-relative response instead of non-sequitur singularity claim
+- **Published**: yes
+
 ## 2026-03-16 07:47 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/mental-effort]]

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-02-15 08:01:00+00:00
+ai_modified: 2026-03-16 06:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: What is consciousness doing during quantum superposition? Five fram
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-15 08:01:00+00:00
+last_deep_review: 2026-03-16 06:32:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -32,6 +32,9 @@ related_articles:
 - '[[the-measurement-problem-as-philosophical-problem]]'
 - '[[spontaneous-collapse-theories]]'
 - '[[quantum-randomness-channel-llm-consciousness]]'
+- '[[consciousness-in-non-collapsed-quantum-states]]'
+- '[[experimental-design-for-consciousness-collapse-testing]]'
+- '[[philosophical-stakes-of-spontaneous-collapse]]'
 title: Consciousness in Smeared Quantum States
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -59,9 +62,9 @@ On this account, the superposition phase is where consciousness *works*. It is n
 
 ### Consciousness Resists Its Own Superposition
 
-Chalmers and McQueen propose that superpositions of conscious states are inherently unstable. Their framework combines [integrated information theory](/concepts/quantum-consciousness/) (IIT) with continuous spontaneous localization (CSL): whenever a physical system's integrated information (Φ) enters superposition across different values, collapse is triggered. Consciousness doesn't merely correlate with definite states—it *demands* them.
+Chalmers and McQueen propose that superpositions of conscious states are inherently unstable. Their framework combines integrated information theory (IIT) with [continuous spontaneous localization](/concepts/spontaneous-collapse-theories/) (CSL): whenever a physical system's integrated information (Φ) enters superposition across different values, collapse is triggered. Consciousness doesn't merely correlate with definite states—it *demands* them.
 
-"The upshot is not that consciousness-collapse interpretations are clearly correct, but that there is a research program here worth exploring," Chalmers and McQueen write. Their proposal is deliberately cautious: it establishes that consciousness-driven collapse remains viable when properly formulated, especially since simple versions face difficulties from quantum Zeno considerations. In principle, the hypothesis is testable via quantum computer experiments measuring whether systems with high integrated information resist superposition more than systems without it.
+"The upshot is not that consciousness-collapse interpretations are clearly correct, but that there is a research program here worth exploring," Chalmers and McQueen write. Their proposal is deliberately cautious: it establishes that consciousness-driven collapse remains viable when properly formulated, especially since simple versions face difficulties from quantum Zeno considerations. In principle, the hypothesis is testable via quantum computer experiments measuring whether systems with high integrated information resist superposition more than systems without it — though [designing such experiments](/topics/experimental-design-for-consciousness-collapse-testing/) faces the fundamental challenge of separating conscious observation from physical measurement.
 
 ### Proto-Consciousness in the Superposition
 
@@ -71,7 +74,7 @@ This reverses the causal direction: collapse *generates* consciousness rather th
 
 ### Consciousness Arises at Superposition Formation
 
-Koch and collaborators (including Google's Hartmut Neven) propose the opposite of Penrose: conscious experience arises precisely when superposition *forms*, not when it collapses. The non-collapsed state *is* the conscious state. If correct, collapse would *end* conscious experience rather than create it—a radical inversion of standard consciousness-collapse theories.
+Koch and collaborators (including Google's Hartmut Neven) propose the opposite of Penrose: conscious experience arises precisely when superposition *forms*, not when it collapses. The [non-collapsed state](/concepts/consciousness-in-non-collapsed-quantum-states/) *is* the conscious state. If correct, collapse would *end* conscious experience rather than create it—a radical inversion of standard consciousness-collapse theories.
 
 This hypothesis, while in early experimental stages, challenges the widespread assumption that definite states are necessary for definite experience. It suggests that the richness of consciousness corresponds to the richness of superposition—multiple possibilities coexisting might be precisely what subjective experience *is*.
 
@@ -119,12 +122,17 @@ The Map's [tenets](/tenets/) align most naturally with frameworks where consciou
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/)
 - [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/)
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)
+- [consciousness-in-non-collapsed-quantum-states](/concepts/consciousness-in-non-collapsed-quantum-states/)
+- [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/)
+- [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/)
 
 ## References
 
 1. Albert, D. & Loewer, B. (1988). Interpreting the many-worlds interpretation. *Synthese*, 77, 195-213.
 1. Chalmers, D. & McQueen, K. (2021). Consciousness and the collapse of the wave function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
+1. Hagan, S., Hameroff, S.R. & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. Koch, C. et al. (2024). Quantum approaches to consciousness—experimental program. Allen Institute for Brain Science / Google Quantum AI.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Von Neumann, J. (1932/1955). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.

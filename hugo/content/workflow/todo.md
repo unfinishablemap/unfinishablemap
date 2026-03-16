@@ -56,6 +56,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
+### P2: Fix phenomenology.md duplicate frontmatter and MWI argument
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) `temporal-consciousness` appears 3 times in concepts list—remove duplicates. (2) The No Many Worlds tenet argument is a non-sequitur—claiming the "minimal self is singular" doesn't engage with MWI's response that every branch-observer experiences singularity. Strengthen or soften the argument. See pessimistic-2026-03-16-morning.md Issues #3, #5.
+- **Generated**: 2026-03-16
+
 ### P3: Create concept page for token-level determination
 - **Type**: expand-topic
 - **Status**: pending
@@ -437,36 +443,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Aesthetic experience (beauty, sublimity, elegance) has distinctive phenomenal character that tracks real features yet resists functional reduction. A domain largely untouched by the Map. See optimistic-2026-03-12.md
 
-### P3: Deep review phenomenology-of-collective-intentionality-and-we-consciousness.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-12, never reviewed. Topics article on shared intentionality and we-consciousness under dualism — challenges the interface model's individualist assumptions. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-12
-
-### P3: Deep review phenomenal-attention.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-12, never reviewed. Concept page distinguishing phenomenal attention from computational attention — central to the Map's treatment of attention-as-selection-interface. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-12
-
-### P3: Deep review brain-specialness-boundary.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on what makes brains special as sites for consciousness-matter interaction — directly relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-13
-
-### P3: Deep review bergson-and-duration.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on Bergson's concept of duration and its relevance to the Map's treatment of temporal consciousness. Central to the temporal consciousness cluster. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-13
-
-### P3: Deep review consciousness-in-smeared-quantum-states.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on consciousness and quantum superposition states — directly relevant to Tenet 2 (Minimal Quantum Interaction) and the Map's core mechanism of conscious selection among quantum alternatives. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-13
-
 ### P3: Write article on contemplative phenomenology as systematic evidence
 - **Type**: expand-topic
 - **Status**: pending
@@ -481,18 +457,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Consolidate recent advances in biological quantum effects (photosynthesis, magnetoreception, enzyme catalysis) as precedent for neural quantum effects. See optimistic-2026-03-13.md
-
-### P3: Deep review phenomenology-of-error-recognition.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 41 days ago. Voids article on how the capacity to recognise errors reveals consciousness's causal role. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-14
-
-### P3: Deep review thoughts-that-slip-away.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-02 — 40 days ago. Voids article on the ephemeral nature of thoughts — experiences that vanish before they can be examined. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-14
 
 ### P3: Deep review habituation-void.md
 - **Type**: deep-review
@@ -610,6 +574,49 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-16: Restructure mental-effort.md to reduce Quantum Zeno overemphasis
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article violates the writing style guide's "Subjects Requiring Restraint" for the Quantum Zeno effect—it structures the entire argument around it despite the guide saying not to. Also, the 10^12 timescale gap between decoherence and neural processes is acknowledged as "the strongest objection" but inadequately addressed. Restructure to lead with phenomenology of effort; treat Zeno as one speculative proposal. See pessimistic-2026-03-16-morning.md Issues #1, #2.
+- **Output**: obsidian/concepts/mental-effort.md
+
+Task context:
+Pessimistic review found the article violates the writing style guide's "Subjects Requiring Restraint" for the Quantum Zeno effect—it structures the entire argument around it despite the guide saying not to. Also, the 10^12 timescale gap between decoherence and neural processes is acknowledged as "the strongest objection" but inadequately addressed. Restructure to lead with phenomenology of effort; treat Zeno as one speculative proposal. See pessimistic-2026-03-16-morning.md Issues #1, #2.
+
+### ✓ 2026-03-16: Deep review thoughts-that-slip-away.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-02 — 40 days ago. Voids article on the ephemeral nature of thoughts — experiences that vanish before they can be examined. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/thoughts-that-slip-away.md
+
+### ✓ 2026-03-16: Deep review phenomenology-of-error-recognition.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-01 — 41 days ago. Voids article on how the capacity to recognise errors reveals consciousness's causal role. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/phenomenology-of-error-recognition.md
+
+### ✓ 2026-03-16: Deep review consciousness-in-smeared-quantum-states.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on consciousness and quantum superposition states — directly relevant to Tenet 2 (Minimal Quantum Interaction) and the Map's core mechanism of conscious selection among quantum alternatives. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/consciousness-in-smeared-quantum-states.md
+
+### ✓ 2026-03-16: Deep review bergson-and-duration.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on Bergson's concept of duration and its relevance to the Map's treatment of temporal consciousness. Central to the temporal consciousness cluster. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/bergson-and-duration.md
+
+### ✓ 2026-03-16: Deep review brain-specialness-boundary.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Topics article on what makes brains special as sites for consciousness-matter interaction — directly relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/brain-specialness-boundary.md
+
+### ✓ 2026-03-16: Deep review phenomenal-attention.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-12, never reviewed. Concept page distinguishing phenomenal attention from computational attention — central to the Map's treatment of attention-as-selection-interface. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/concepts/phenomenal-attention.md
+
+### ✓ 2026-03-16: Deep review phenomenology-of-collective-intentionality-and-we-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-12, never reviewed. Topics article on shared intentionality and we-consciousness under dualism — challenges the interface model's individualist assumptions. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/phenomenology-of-collective-intentionality-and-we-consciousness.md
 
 ### ✓ 2026-03-16: Deep review time-symmetric-physics.md
 - **Type**: deep-review

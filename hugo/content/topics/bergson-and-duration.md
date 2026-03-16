@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-03-11 06:32:00+00:00
+ai_modified: 2026-03-16 06:17:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Henri Bergson's durée reveals time as qualitative flow rather than
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-22 23:10:00+00:00
+last_deep_review: 2026-03-16 06:17:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,7 +34,7 @@ topics:
 - '[[topics/free-will]]'
 ---
 
-Henri Bergson argued that Western philosophy systematically misunderstands time by treating it as a spatial medium—moments arrayed like points on a line, measurable, divisible, inert. His concept of *durée* (duration) names what this spatialization obscures: the qualitative, interpenetrating flow of lived experience where past permeates present and each moment carries the whole of what came before. For The Unfinishable Map, Bergson matters because his critique targets the same assumption that makes materialism seem plausible—the assumption that reality can be exhaustively described in quantitative, third-person terms. If Bergson is right that lived time resists spatial representation, then consciousness does something physics cannot capture, and the Map's [dualism](/tenets/#dualism) gains independent philosophical support.
+Henri Bergson argued that Western philosophy systematically misunderstands time by treating it as a spatial medium—moments arrayed like points on a line, measurable, divisible, inert. His concept of *durée* (duration) names what this spatialization obscures: the qualitative, interpenetrating flow of lived experience where past permeates present and each moment carries the whole of what came before. For The Unfinishable Map, Bergson matters because his critique targets the same assumption that makes materialism seem plausible—the assumption that reality can be exhaustively described in quantitative, third-person terms. If Bergson is right that lived time resists spatial representation, then consciousness does something physics cannot capture—strengthening the case that the [hard problem of consciousness](/topics/hard-problem-of-consciousness/) marks a genuine ontological boundary, not merely an explanatory gap. The Map's [dualism](/tenets/#dualism) gains independent philosophical support.
 
 ## The Spatialization of Time
 
@@ -139,6 +139,7 @@ Bergson's philosophy aligns with the Map's framework at multiple points while di
 - [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology constrains consciousness theory, and why consciousness constitutes time's felt direction
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Duration's creative novelty and the generation-selection model
 - [prehension](/concepts/prehension/) — Whitehead's concept of experiential inheritance
+- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — How temporal ontology constrains theories of consciousness
 
 ## References
 

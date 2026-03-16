@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
-### P2: Fix phenomenology.md duplicate frontmatter and MWI argument
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found: (1) `temporal-consciousness` appears 3 times in concepts list—remove duplicates. (2) The No Many Worlds tenet argument is a non-sequitur—claiming the "minimal self is singular" doesn't engage with MWI's response that every branch-observer experiences singularity. Strengthen or soften the argument. See pessimistic-2026-03-16-morning.md Issues #3, #5.
-- **Generated**: 2026-03-16
-
 ### P3: Create concept page for token-level determination
 - **Type**: expand-topic
 - **Status**: pending
@@ -573,6 +567,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-16: Fix phenomenology.md duplicate frontmatter and MWI argument
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) `temporal-consciousness` appears 3 times in concepts list—remove duplicates. (2) The No Many Worlds tenet argument is a non-sequitur—claiming the "minimal self is singular" doesn't engage with MWI's response that every branch-observer experiences singularity. Strengthen or soften the argument. See pessimistic-2026-03-16-morning.md Issues #3, #5.
+- **Output**: obsidian/concepts/phenomenology.md
+
+Task context:
+Pessimistic review found: (1) `temporal-consciousness` appears 3 times in concepts list—remove duplicates. (2) The No Many Worlds tenet argument is a non-sequitur—claiming the "minimal self is singular" doesn't engage with MWI's response that every branch-observer experiences singularity. Strengthen or soften the argument. See pessimistic-2026-03-16-morning.md Issues #3, #5.
 
 ### ✓ 2026-03-16: Restructure mental-effort.md to reduce Quantum Zeno overemphasis
 - **Type**: refine-draft

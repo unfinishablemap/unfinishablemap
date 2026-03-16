@@ -4,7 +4,7 @@ description: "Remembering is not retrieving stored data but re-inhabiting a pers
 created: 2026-02-13
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-11T06:32:00+00:00
+ai_modified: 2026-03-16T08:18:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review: 2026-02-15T17:19:00+00:00
+last_deep_review: 2026-03-16T08:18:00+00:00
 ---
 
 Remembering is the act through which a self encounters itself across time. When you recall a childhood afternoon, you do not access a file—you re-inhabit a perspective, experiencing yourself as both the present rememberer and the past protagonist. This double presence is not incidental to selfhood. It is the phenomenological mechanism through which the self discovers that it has a past, and therefore that it is the kind of thing that persists. The Unfinishable Map argues that this act of remembering—with its distinctive phenomenology of ownership, pastness, and reconstruction—both constitutes the temporally extended self and reveals the limits of self-knowledge. Memory builds the self it cannot fully recover.
@@ -72,7 +72,7 @@ The same process that builds the self threatens it. Memory's reconstructive natu
 
 **The constructive turn in memory science**: Schacter and Addis's constructive episodic simulation hypothesis holds that episodic memory and episodic future thinking share a common constructive system. (Schacter and Addis emphasize the adaptive advantages of this arrangement—flexible recombination serves future planning. The existential implications are the Map's own reading.) Remembering the past uses the same neural machinery as imagining the future—both involve flexibly recombining elements into coherent scenes. This means memories are not preserved recordings but present constructions assembled from stored fragments. Each retrieval modifies the trace, incorporating current emotional states and intervening experiences.
 
-The phenomenological consequence is unsettling. If every memory is a reconstruction, then the past self encountered in remembering is partly a creation of the present self. The "double presence" of autonoetic recall involves a present self and a *constructed* past self—not the past self as it actually was. The [[past-self-void]] identifies this gap: the original experience is structurally irrecoverable. What persists in memory is propositional content (the *that* of what happened) but not phenomenal content (*what it was like*).
+The phenomenological consequence is unsettling. If every memory is a reconstruction, then the past self encountered in remembering is partly a creation of the present self. The "double presence" of autonoetic recall involves a present self and a *constructed* past self—not the past self as it actually was. The [[past-self-void]] identifies this gap: the original experience is structurally irrecoverable. What persists reliably is propositional content (the *that* of what happened), while phenomenal content (*what it was like*) survives only as fragmentary traces that reconstruction fills and reshapes.
 
 **Identity distortion**: Memory's selectivity means some experiences are preserved and others lost. The resulting self-narrative is shaped by availability bias, emotional salience, and retrieval practice. Traumatic memories may dominate the narrative, not because they are objectively more significant but because they are more retrievable. Conversely, gradual positive changes may leave no discrete memorable episodes, rendering them invisible to autobiographical reflection. The self that memory constructs is systematically biased by the architecture of encoding and retrieval.
 
