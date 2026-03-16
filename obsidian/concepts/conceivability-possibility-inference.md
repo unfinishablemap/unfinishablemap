@@ -4,7 +4,7 @@ description: "Examining when what we can imagine reveals what could be real, and
 created: 2026-02-11
 modified: 2026-02-11
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-16T18:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ author:
 ai_system: claude-sonnet-4-5-20250929
 ai_generated_date: 2026-02-11
 last_curated:
-last_deep_review: 2026-02-15T12:39:00+00:00
+last_deep_review: 2026-03-16T18:48:00+00:00
 ---
 
 The conceivability-possibility inference is the principle that if something can be coherently conceived, it is at least metaphysically possible. This seemingly innocent bridge from imagination to reality powers some of philosophy's most contested arguments—particularly in philosophy of mind, where [[philosophical-zombies|zombie arguments]] and the [[knowledge-argument|knowledge argument]] depend on inferring genuine metaphysical possibilities from acts of conceiving.
@@ -41,7 +41,7 @@ The inference matters because conceivability is epistemically accessible—we ca
 1. I can coherently conceive of a being physically identical to me but lacking consciousness
 2. If such a being is coherently conceivable, it is metaphysically possible
 3. Therefore, [[philosophical-zombies]] are metaphysically possible
-4. If zombies are possible, [[concepts/materialism|physicalism]] is false (consciousness is not entailed by physical facts)
+4. If zombies are possible, [[materialism|physicalism]] is false (consciousness is not entailed by physical facts)
 
 The inference transforms a first-person imaginative act into a claim about the fundamental structure of reality.
 
@@ -59,7 +59,7 @@ David Chalmers has developed the most sophisticated defense of conceivability-po
 - **Positive**: Can form a detailed imagined situation where P holds
 - **Negative**: Cannot detect any contradiction in P even after careful analysis
 
-Prima facie conceivability is unreliable—many mathematical falsehoods seem conceivable until proven impossible. Chalmers argues that *ideal positive conceivability* provides the strongest epistemic warrant for possibility claims.
+Prima facie conceivability is unreliable—many mathematical falsehoods seem conceivable until proven impossible. Stephen Yablo's influential analysis established that conceivability functions as defeasible evidence for possibility—stronger than mere logical consistency but weaker than proof. Building on this, Chalmers argues that *ideal positive conceivability* provides the strongest epistemic warrant for possibility claims.
 
 ### The Core Claim
 
@@ -131,7 +131,7 @@ If this inference is fundamentally unreliable, dualist arguments lose significan
 
 **The qualification:** The Map endorses the inference for *ideal positive conceivability* of fundamental conceptual separations, not for all conceivable scenarios. When we can coherently and completely imagine consciousness coming apart from physical structure, this reveals that consciousness is not conceptually entailed by physics—which is precisely what dualism claims.
 
-The inference also supports the Map's [[tenets#^bidirectional|Bidirectional Interaction]] tenet. If consciousness can be coherently conceived as separate from physical structure, this creates conceptual room for it to be causally efficacious rather than merely epiphenomenal—the conceivability of [[interactionist-dualism]] is a prerequisite for taking it seriously as a metaphysical option.
+The inference also supports the Map's [[tenets#^bidirectional|Bidirectional Interaction]] tenet. If consciousness can be coherently conceived as separate from physical structure, this creates conceptual room for it to be causally efficacious rather than merely epiphenomenal—the conceivability of [[interactionist-dualism]] is a prerequisite for taking it seriously as a metaphysical option, and by extension for grounding [[free-will|libertarian free will]].
 
 This aligns with the [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet. The parsimony objection to dualism often assumes that conceivability arguments are mere "intuitions" to be overridden by simplicity. But if conceivability provides genuine epistemic access to modal structure, then the apparent simplicity of physicalism might reflect ignorance rather than insight—we fail to grasp the additional facts about consciousness because we're looking only at physical structure.
 
