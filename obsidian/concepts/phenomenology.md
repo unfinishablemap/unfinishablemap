@@ -4,7 +4,7 @@ description: "The philosophical method of investigating consciousness through sy
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-01T21:52:00+00:00
+ai_modified: 2026-03-16T08:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,6 @@ concepts:
   - "[[intentionality]]"
   - "[[qualia]]"
   - "[[temporal-consciousness]]"
-  - "[[temporal-consciousness]]"
   - "[[mysterianism]]"
   - "[[self-and-consciousness]]"
   - "[[introspection]]"
@@ -27,7 +26,6 @@ concepts:
   - "[[eastern-philosophy-consciousness]]"
   - "[[illusionism]]"
   - "[[existentialism]]"
-  - "[[temporal-consciousness]]"
   - "[[pre-conceptual-knowing]]"
   - "[[attention-as-interface]]"
   - "[[intuitive-dualism]]"
@@ -78,7 +76,7 @@ Husserl's analysis of temporal experience reveals consciousness's synthetic acti
 
 Physical time is a sequence of instants. Experienced time is structured by meaning, anticipation, and memory interpenetrating in the living present. The "specious present" extends beyond the mathematical instant.
 
-This analysis connects to the Map's [[temporal-consciousness]] and [[temporal-consciousness]] articles. Bergson's *durée* and Husserl's time-consciousness converge: experienced time cannot be reconstructed from sequences of instantaneous states. Time as lived differs from time as measured.
+This analysis connects to the Map's [[temporal-consciousness]] article. Bergson's *durée* and Husserl's time-consciousness converge: experienced time cannot be reconstructed from sequences of instantaneous states. Time as lived differs from time as measured.
 
 ## Merleau-Ponty and the Body
 
@@ -168,7 +166,7 @@ Phenomenology supports all five of the Map's foundational commitments:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Phenomenology's disclosure of temporal microstructure connects to the Map's quantum framework. Husserl's analysis of the specious present—the extended "now" with retention and protention—addresses the same timescale at which consciousness interfaces with neural decision processes. Research on [[quantum-neural-timing-constraints|quantum neural timing]] shows that motor commitment (~280ms) and willed attention deployment (~300ms) operate within the phenomenologically disclosed specious present window. The [[temporal-consciousness|specious present]] debate between extensionalism and retentionalism concerns whether experience is genuinely temporally extended; the Quantum Zeno mechanism operates through repeated observations at precisely these neural timescales, suggesting that the experienced temporal thickness of the present may reflect the interval over which consciousness exercises its selection function.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Phenomenology's emphasis on indexical identity supports the rejection of Many-Worlds. The phenomenological reduction reveals a first-person perspective that is irreducibly *this* perspective—not one among countless copies in branching universes. The question "why am I *this* observer rather than another?" is not dissolved by phenomenological investigation; it is sharpened. The minimal self disclosed by the epoché is singular, not multiplied. This makes the Many-Worlds interpretation's evasion of selection through multiplication philosophically suspect: phenomenology reveals exactly the kind of indexical fact that MWI cannot accommodate.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Phenomenology sharpens a question that Many-Worlds cannot answer. The MWI defender will correctly note that every branch-observer experiences singularity—the feeling of being one perspective is predicted by MWI, not challenged by it. Phenomenology's contribution is not the bare fact of singularity but what the epoché reveals *about* it: first-person perspective is not just experienced as singular but as *indexical*—irreducibly *this* perspective, *this* stream of retention and protention, *this* body's motor intentionality. The phenomenological reduction generates the question "why am I *this* observer?" with full force, and MWI's answer—that every branch-copy asks the same question—does not dissolve it. It multiplies the mystery. Each branch contains an indexical fact (this-ness) that the universal wave function, which treats all branches symmetrically, has no resources to ground. Phenomenology does not refute MWI empirically; it reveals the indexical structure of experience that MWI must treat as brute and unexplained across every branch.
 
 Phenomenology doesn't definitively prove dualism. But it provides methodological tools for taking consciousness seriously—for attending to what experience discloses rather than assuming in advance that physics will explain it.
 
@@ -209,3 +207,15 @@ Phenomenology doesn't definitively prove dualism. But it provides methodological
 1. Varela, F. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
+
+<!-- AI REFINEMENT LOG - 2026-03-16
+Changes made:
+- Removed duplicate temporal-consciousness entries from concepts list (appeared 3 times, now 1)
+- Fixed duplicate temporal-consciousness inline wikilink reference in Husserl time-consciousness section
+- Rewrote No Many Worlds tenet argument to engage with MWI's branch-relative response rather than asserting singularity as a non-sequitur; argument now centers on indexical identity that MWI cannot ground
+
+Based on pessimistic-2026-03-16-morning.md Issues #3, #5.
+Key improvements: data quality fix + substantive argument strengthening
+
+This log should be removed after human review.
+-->
