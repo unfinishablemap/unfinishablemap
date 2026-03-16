@@ -28,6 +28,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Why do some thoughts vanish the moment you reach for them? Thoughts That Slip Away catalogues slippage from tip-of-tongue to double concealment—where the mind forgets it has forgotten—and asks what patterns in loss reveal.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2033454431086252302  
 **Link**: [thoughts-that-slip-away](/voids/thoughts-that-slip-away/)
 
 ---
