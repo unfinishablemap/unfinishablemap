@@ -4,7 +4,7 @@ description: "Weighing evidence, changing beliefs, and arriving at knowledge all
 created: 2026-02-01
 modified: 2026-03-16
 human_modified:
-ai_modified: 2026-03-16T04:17:00+00:00
+ai_modified: 2026-03-16T05:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,8 @@ concepts:
   - "[[reasons-responsiveness]]"
   - "[[explanatory-gap]]"
   - "[[concepts/epiphenomenalism]]"
+  - "[[knowledge-argument]]"
+  - "[[type-b-materialism]]"
 related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-intellectual-effort]]"
@@ -40,15 +42,14 @@ related_articles:
   - "[[phenomenology-of-philosophical-disagreement]]"
   - "[[phenomenology-of-framework-inhabitation]]"
   - "[[phenomenal-conservatism-and-introspective-evidence]]"
-  - "[[phenomenology-of-understanding]]"
-  - "[[phenomenology-of-intellectual-effort]]"
-  - "[[epistemic-advantages-of-dualism]]"
+  - "[[consciousness-and-testimony]]"
+  - "[[consciousness-and-the-problem-of-induction]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-16
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-16T05:02:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-epistemic-judgment/"
   - "/topics/phenomenology-of-epistemic-achievement/"
@@ -108,13 +109,13 @@ Virtue epistemologists argue that knowledge involves a cognitive *achievement*�
 
 Belief revision creates a distinctive epistemic puzzle. To revise a belief, you evaluate it against standards. But your standards are themselves beliefs subject to revision. The phenomenology suggests that conscious experience provides resources here that pure computation does not. When evaluating competing frameworks, we attend to the felt quality of coherence—the way a framework either generates or fails to generate the experience of things hanging together. This felt coherence is not reducible to logical consistency and is not captured by formal models such as the AGM framework (Alchourrón, Gärdenfors, and Makinson, 1985). [[phenomenal-conservatism-and-introspective-evidence|Phenomenal conservatism]] provides a framework for taking these seemings seriously as defeasible evidence.
 
-The Map's project involves a recursive structure: using conscious assessment to evaluate arguments about consciousness. The type-B materialist will grant that there is qualitative character to conviction while insisting this character is identical to a physical process. But the recursive structure creates distinctive pressure: each qualitative nuance of the assessment process demands its own brute psychophysical identity. The assessment generates new phenomenal data faster than the identity theory can absorb it. The [[questioning-as-evidence|question as evidence]] applies: that there is something it is like to find an argument compelling is a fact requiring explanation. This is the [[self-stultification-as-master-argument|self-stultification]] structure applied to epistemic phenomenology.
+The Map's project involves a recursive structure: using conscious assessment to evaluate arguments about consciousness. The [[type-b-materialism|type-B materialist]] will grant that there is qualitative character to conviction while insisting this character is identical to a physical process. But the recursive structure creates distinctive pressure: each qualitative nuance of the assessment process demands its own brute psychophysical identity. The assessment generates new phenomenal data faster than the identity theory can absorb it. The [[questioning-as-evidence|question as evidence]] applies: that there is something it is like to find an argument compelling is a fact requiring explanation. This is the [[self-stultification-as-master-argument|self-stultification]] structure applied to epistemic phenomenology.
 
 ## Against Epiphenomenalism and Functionalism
 
 If epistemic phenomenology were epiphenomenal—causally inert decoration on underlying computation—then the felt difference between knowing and guessing would be an illusion that happens to correlate with a genuine cognitive distinction. The more parsimonious view: the phenomenology of epistemic cognition is what it is *like* to think. The felt grounding, the closure, the gravitational pull of evidence—these are constitutive aspects of how consciousness engages with truth. Strip them away and you lose the achievement, leaving only true belief produced by reliable mechanisms—the sort of thing a competent thermostat might have.
 
-The functionalist argues that the "felt difference" *just is* the difference in functional architecture: richer inferential connections, greater stability under interrogation, more readily available reasons. David Pitt (2004) argues this does not exhaust the phenomenal character: there is a proprietary phenomenology of thought—a "what it is like" to think a particular content—distinct from any associated sensory imagery or functional role. Galen Strawson (1994) pushes further, arguing that experience is the fundamental reality and that physicalism, properly understood, must accommodate rather than eliminate phenomenal properties.
+The functionalist argues that the "felt difference" *just is* the difference in functional architecture: richer inferential connections, greater stability under interrogation, more readily available reasons. David Pitt (2004) argues this does not exhaust the phenomenal character: there is a proprietary phenomenology of thought—a "what it is like" to think a particular content—distinct from any associated sensory imagery or functional role. Galen Strawson (1994) pushes further, arguing that physicalism, properly understood, must accommodate rather than eliminate phenomenal properties—an "adductive" materialism that takes conscious experience as real and irreducible within a naturalist framework.
 
 ## Limits
 
@@ -126,7 +127,7 @@ These limits calibrate rather than eliminate the relevance of epistemic phenomen
 
 The Unfinishable Map's [[tenets]] find substantial support in epistemic phenomenology.
 
-**[[tenets#^dualism|Dualism]]**: The felt texture of epistemic cognition—the gravitational pull of evidence, the vertigo of rupture, the warmth of new coherence, the grounding of genuine knowledge—constitutes phenomenal fact that no functional or computational description currently captures. A type-B materialist will claim the gap is epistemic rather than ontological. The Map finds this increasingly strained as each qualitative state in the epistemic process requires its own brute identity with a neural substrate, forming an accumulation of unexplained correspondences less parsimonious than the dualist alternative.
+**[[tenets#^dualism|Dualism]]**: The felt texture of epistemic cognition—the gravitational pull of evidence, the vertigo of rupture, the warmth of new coherence, the grounding of genuine knowledge—constitutes phenomenal fact that no functional or computational description currently captures. The [[type-b-materialism|type-B materialist]] will claim the gap is epistemic rather than ontological. The Map finds this increasingly strained as each qualitative state in the epistemic process requires its own brute identity with a neural substrate, forming an accumulation of unexplained correspondences less parsimonious than the dualist alternative.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If felt epistemic weight were causally irrelevant, our best beliefs would have nothing to do with how evidence seems. But the correlation is systematic: what feels compelling tends to be what we believe. Either this is inexplicable coincidence, or phenomenology participates in belief formation. The temporal arc of epistemic achievement—from puzzled inquiry through effortful investigation to settled knowledge—suggests consciousness causally participating in cognition. The phenomenal tension of not-knowing drives further inquiry; its resolution terminates it.
 
@@ -157,6 +158,8 @@ The Unfinishable Map's [[tenets]] find substantial support in epistemic phenomen
 - [[reasons-responsiveness]]
 - [[introspection]]
 - [[metacognition]]
+- [[consciousness-and-testimony]]
+- [[consciousness-and-the-problem-of-induction]]
 
 ## References
 
