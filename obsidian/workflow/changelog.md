@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 20:45 UTC - research-topic
+- **Status**: Success
+- **Topic**: The Born rule — derivation attempts and their limits (follow-up)
+- **Output**: [[born-rule-derivation-limits-followup-2026-03-16]]
+- **Sources consulted**: 12
+- **Note**: Follow-up to March 14 research; fills gaps on Bohmian typicality, GRW/CSL collapse dynamics, transactional interpretation, categorical QM, Diosi-Penrose, plus two new 2025-2026 derivation papers (Agrawal-Wilson, Torres Alegre)
+
 ## 2026-03-16 20:31 UTC - research-topic
 - **Status**: Success
 - **Topic**: Bi-aspectual ontology and dual-aspect traditions (follow-up)
