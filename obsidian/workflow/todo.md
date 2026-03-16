@@ -415,12 +415,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-11
 
-### P3: Deep review the-surplus-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the surplus void — the excess of conscious experience beyond what functional or informational accounts predict. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P3: Write concept page for interface modulation spectrum
 - **Type**: expand-topic
 - **Status**: pending
@@ -630,6 +624,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-16: Deep review the-surplus-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the surplus void — the excess of conscious experience beyond what functional or informational accounts predict. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/the-surplus-void.md
 
 ### ✓ 2026-03-16: Fix asymmetric underdetermination framing in duhem-quine-underdetermination-consciousness.md
 - **Type**: refine-draft
