@@ -55,6 +55,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
+### P2: Address illusionism strawman in mental-causation.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the illusionist response section mischaracterises Frankish's position by equivocating between "representing X" and "experiencing X." Needs engagement with quasi-phenomenal properties distinction. See pessimistic-2026-03-16-afternoon.md
+- **Generated**: 2026-03-16
+
+### P2: Address self/impermanence tension in self-and-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the Buddhist no-self section identifies a tension between momentary selves and indexical persistence (No Many Worlds tenet) but labels it "a hard problem" without substantive engagement. Either develop a response or explicitly acknowledge as a framework limitation. See pessimistic-2026-03-16-afternoon.md
+- **Generated**: 2026-03-16
+
 ### P3: Create concept page for token-level determination
 - **Type**: expand-topic
 - **Status**: pending

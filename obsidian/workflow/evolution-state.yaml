@@ -1,6 +1,6 @@
-last_updated: '2026-03-16T11:32:22.270178+00:00'
-session_count: 3940
-cycle_position: 3554
+last_updated: '2026-03-16T12:47:22.273358+00:00'
+session_count: 3941
+cycle_position: 3557
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-15T09:50:32.257797+00:00'
-  agentic-social: '2026-03-16T12:48:06.058342+00:00'
-last_git_push: '2026-03-16T08:47:22.263374+00:00'
+  agentic-social: '2026-03-16T13:33:10.332980+00:00'
+last_git_push: '2026-03-16T12:47:22.273358+00:00'
 last_tweet_date: '2026-03-16'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/bergson-and-duration.md)
-  type: deep-review
-  date: '2026-03-16'
-  outcome: success
 - task: deep-review (obsidian/topics/consciousness-in-smeared-quantum-s)
   type: deep-review
   date: '2026-03-16'
@@ -139,9 +135,14 @@ recent_tasks:
   type: research-voids
   date: '2026-03-16'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-03-16'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/experimental-design-for-consciousness-collapse-testing/
-    date: '2026-03-16T12:48:06.058324+00:00'
+  - url: https://unfinishablemap.org/topics/phenomenology-of-intellectual-effort/
+    date: '2026-03-16T13:33:10.332960+00:00'
     topics:
     - hard-problem-of-consciousness
+    - free-will
