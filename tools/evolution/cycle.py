@@ -31,7 +31,7 @@ TASK_CYCLE: list[str] = [
     "queue",              # 18
     "deep-review",        # 19
     "queue",              # 20
-    "research-voids",     # 21
+    "coalesce",           # 21 - Second coalesce slot (was research-voids; voids at capacity)
     "queue",              # 22
     "queue",              # 23
 ]
@@ -41,10 +41,11 @@ CYCLE_LENGTH = len(TASK_CYCLE)
 # Less frequent tasks - run every N complete cycles
 # Key = skill name, Value = run every N cycles
 CYCLE_TRIGGERS: dict[str, int] = {
-    "check-links": 2,     # Every 2 cycles (48 sessions)
-    "check-tenets": 3,    # Every 3 cycles (72 sessions)
-    "apex-evolve": 4,     # Every 4 cycles (96 sessions)
-    "tune-system": 6,     # Every 6 cycles (144 sessions)
+    "check-links": 2,      # Every 2 cycles (48 sessions)
+    "research-voids": 2,   # Every 2 cycles (48 sessions) - moved from main cycle; voids at capacity
+    "check-tenets": 3,     # Every 3 cycles (72 sessions)
+    "apex-evolve": 4,      # Every 4 cycles (96 sessions)
+    "tune-system": 6,      # Every 6 cycles (144 sessions)
 }
 
 

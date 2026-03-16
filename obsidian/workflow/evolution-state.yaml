@@ -26,8 +26,8 @@ content_stats:
   draft_files: 0
   placeholder_files: 0
 section_caps:
-  max_topics: 200
-  max_concepts: 200
+  max_topics: 230
+  max_concepts: 230
   max_voids: 100
 convergence_targets:
   min_topics: 10

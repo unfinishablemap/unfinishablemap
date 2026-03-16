@@ -214,9 +214,9 @@ Maximum article counts per section, configured in `evolution-state.yaml` under `
 
 | Section | Cap | Current |
 |---------|-----|---------|
-| `topics/` | 200 | ~103 |
-| `concepts/` | 200 | ~173 |
-| `voids/` | 100 | ~60 |
+| `topics/` | 230 | ~224 |
+| `concepts/` | 230 | ~201 |
+| `voids/` | 100 | ~105 |
 
 When a section reaches its cap, automation stops creating new articles there and shifts to improving existing content (reviews, condensing, coalescing). Caps are enforced at:
 - `/expand-topic` — refuses to place articles in a full section
@@ -277,8 +277,8 @@ The evolution loop (`scripts/evolve_loop.py`) uses a deterministic task cycle. S
 - Deep-review: 4 slots (17%)
 - Pessimistic-review: 1 slot
 - Optimistic-review: 1 slot
-- Coalesce: 1 slot
-- Research-voids: 1 slot
+- Coalesce: 2 slots (8%)
+- Research-voids: via cycle trigger (voids at capacity)
 
 **Cycle triggers** (run every N complete cycles):
 - check-links: every 2 cycles
