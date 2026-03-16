@@ -55,6 +55,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
+### P2: Address IBE gap in phenomenology-of-moral-deliberation.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the inference-to-best-explanation argument succeeds against epiphenomenalism but does not distinguish dualist interactionism from physicalist identity theory. The physicalist has no "systematic coincidence" to explain. Needs explicit engagement with identity theory or honest acknowledgment that moral phenomenology does not discriminate between these positions. See pessimistic-2026-03-16.md
+- **Generated**: 2026-03-16
+
+### P2: Fix asymmetric underdetermination framing in duhem-quine-underdetermination-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the closing applies underdetermination asymmetrically — criticising physicalism for proceeding with confidence while the Map's own tenets are equally confident commitments. Either apply the same scrutiny to the Map's confidence or replace the comparative framing. See pessimistic-2026-03-16.md
+- **Generated**: 2026-03-16
+
 ### P3: Create concept page for token-level determination
 - **Type**: expand-topic
 - **Status**: pending
