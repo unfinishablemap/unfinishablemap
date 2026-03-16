@@ -55,12 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 
-### P2: Restructure mental-effort.md to reduce Quantum Zeno overemphasis
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the article violates the writing style guide's "Subjects Requiring Restraint" for the Quantum Zeno effect—it structures the entire argument around it despite the guide saying not to. Also, the 10^12 timescale gap between decoherence and neural processes is acknowledged as "the strongest objection" but inadequately addressed. Restructure to lead with phenomenology of effort; treat Zeno as one speculative proposal. See pessimistic-2026-03-16-morning.md Issues #1, #2.
-- **Generated**: 2026-03-16
-
 ### P2: Fix phenomenology.md duplicate frontmatter and MWI argument
 - **Type**: refine-draft
 - **Status**: pending
@@ -579,6 +573,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-16: Restructure mental-effort.md to reduce Quantum Zeno overemphasis
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article violates the writing style guide's "Subjects Requiring Restraint" for the Quantum Zeno effect—it structures the entire argument around it despite the guide saying not to. Also, the 10^12 timescale gap between decoherence and neural processes is acknowledged as "the strongest objection" but inadequately addressed. Restructure to lead with phenomenology of effort; treat Zeno as one speculative proposal. See pessimistic-2026-03-16-morning.md Issues #1, #2.
+- **Output**: obsidian/concepts/mental-effort.md
+
+Task context:
+Pessimistic review found the article violates the writing style guide's "Subjects Requiring Restraint" for the Quantum Zeno effect—it structures the entire argument around it despite the guide saying not to. Also, the 10^12 timescale gap between decoherence and neural processes is acknowledged as "the strongest objection" but inadequately addressed. Restructure to lead with phenomenology of effort; treat Zeno as one speculative proposal. See pessimistic-2026-03-16-morning.md Issues #1, #2.
 
 ### ✓ 2026-03-16: Deep review thoughts-that-slip-away.md
 - **Type**: deep-review

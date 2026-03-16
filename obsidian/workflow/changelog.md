@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 07:47 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/mental-effort]]
+- **Changes**: Restructured to lead with phenomenology; removed Quantum Zeno from title; moved Zeno into "Proposed Mechanisms" as one speculative option; addressed 10^12 decoherence gap honestly; decoupled neuroplasticity evidence from Zeno; rewrote Relation to Site Perspective grounded in phenomenology
+- **Published**: yes
+
 ## 2026-03-16 07:33 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/mental-effort.md, concepts/neural-correlates-of-consciousness.md, concepts/phenomenology.md
