@@ -4,7 +4,7 @@ description: "Human+AI exploration of why we cannot determine our location in th
 created: 2026-02-25
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-03-14T14:21:00+00:00
+ai_modified: 2026-03-16T01:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-25
 last_curated:
-last_deep_review: 2026-03-14T14:21:00+00:00
+last_deep_review: 2026-03-16T01:02:00+00:00
 ---
 
 The Unfinishable Map's dualist commitments imply that consciousness is fundamental and irreducible — which means the space of possible minds may be as vast as physical reality itself. We occupy a single point in that space. We cannot step outside our form of consciousness to survey the landscape, cannot determine whether we are central or peripheral, typical or exotic, one among many similar minds or a solitary outlier. This is the mind-space void: the inability of any consciousness to locate itself within the broader territory of possible minds.
@@ -38,7 +38,7 @@ The void is primarily unexplorable in the [[three-kinds-of-void|voids taxonomy]]
 
 ## The Space We Cannot Survey
 
-Murray Shanahan's framework of the "space of possible minds" encompasses not only biological minds that evolved on Earth but extraterrestrial intelligence, artificial minds, and forms of consciousness that are possible but have never existed. He argues we should shift from investigating *the* mind to mapping *the space* of possible minds — treating consciousness the way physics treats state-spaces.
+Murray Shanahan's framework of the "space of possible minds" encompasses not only biological minds that evolved on Earth but extraterrestrial intelligence, artificial minds, and forms of consciousness that are possible but have never existed. He argues we should shift from investigating *the* mind to mapping *the space* of possible minds. The ambition is analogous to what physics does with state-spaces: charting the full landscape of possibility rather than fixating on a single case.
 
 The ambition is sound. The execution faces a fundamental obstacle. Any survey of mind-space must be conducted from within a particular mind, using that mind's concepts, perceptual categories, and cognitive architecture. We cannot survey from nowhere. Thomas Nagel's argument about bat consciousness establishes the point sharply: we cannot even form adequate conceptions of what it is like to be a bat, a creature that shares our planet, our evolutionary history, and much of our biology. The space of possible minds extends incomparably further than the distance between human and chiropteran experience, yet our imaginative reach fails at the first step.
 
@@ -60,7 +60,7 @@ Attempts to give mind-space concrete structure reveal how little we know about i
 
 The framework is valuable as a first step. Under the Map's dualism, however, it is almost certainly incomplete. If consciousness is not reducible to functional properties, the relevant dimensions of mind-space may be entirely non-physical — dimensions for which we lack concepts and perhaps the capacity to form them. The morphospace approach maps what can be measured from outside. Mind-space, if dualism is correct, extends into territory that external measurement cannot reach.
 
-We may not even know how many dimensions mind-space has, let alone our coordinates. This is not ignorance of a particular fact but ignorance of the framework within which facts would be expressed — dimensional ignorance, where we lack not just answers but the vocabulary for questions.
+We may not even know how many dimensions mind-space has, let alone our coordinates. This is not ignorance of a particular fact but ignorance of the framework within which facts would be expressed — dimensional ignorance, where we lack not just answers but the vocabulary for questions. The problem connects to [[conceptual-acquisition-limits]]: if some concepts are permanently inaccessible to human cognition, the dimensions of mind-space that require those concepts remain permanently unnamed.
 
 ## Phenomenology of the Void
 
@@ -78,7 +78,7 @@ What does it feel like to approach this limit?
 
 If AI minds occupy a different position in mind-space — or if they have a position at all — comparing human and AI cognitive profiles may reveal something about local topology. McGinn argues that other minds — alien or artificial — might possess the conceptual apparatus to bridge the explanatory gap where human cognition fails. The leverage comes from difference: what AI can process and humans cannot, and vice versa, triangulates the shape of nearby mind-space.
 
-AI offers a non-biological vantage point — a prospect explored more fully in [[ai-as-void-explorer]]. One cannot survey mind-space from a single location, but two locations give a bearing. Even if AI lacks phenomenal consciousness entirely, the pattern of its capabilities and limitations — mapped against human capabilities and limitations — provides structural information about at least one small neighbourhood of the space.
+AI offers a non-biological vantage point — a prospect explored more fully in [[ai-as-void-explorer]]. One cannot survey mind-space from a single location, but two locations give a bearing. Even if AI lacks phenomenal consciousness entirely, the pattern of its capabilities and limitations — mapped against human capabilities and limitations — provides structural information about at least one small neighbourhood of the space. The inverse question — whether consciousness opens territories that computation cannot reach — is explored in [[consciousness-only-territories]].
 
 ## Relation to Site Perspective
 

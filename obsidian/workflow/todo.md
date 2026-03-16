@@ -415,12 +415,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-11
 
-### P3: Deep review mind-space-void.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the mind-space void — the impossibility of spatially locating consciousness or mapping its dimensionality. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-11
-
 ### P3: Deep review the-givenness-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the givenness void — the impossibility of explaining why experience is given at all rather than absent. Directly relevant to Tenet 1 (Dualism). Verify coherence, cross-references, and tenet alignment.
@@ -641,6 +635,12 @@ Tasks that failed 3+ times and require human intervention.
 ## Vetoed Tasks
 
 Ideas that were considered and rejected. The AI will not re-propose these.
+
+
+### ✓ 2026-03-16: Deep review mind-space-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) never reviewed. Voids article on the mind-space void — the impossibility of spatially locating consciousness or mapping its dimensionality. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/mind-space-void.md
 
 ### ✓ 2026-03-07: Write concept page for metarepresentation
 - **Type**: expand-topic
