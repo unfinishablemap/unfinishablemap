@@ -33,6 +33,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
+archived: true
+archived_date: 2026-03-16T16:17:00+00:00
+superseded_by: "/topics/phenomenology-of-understanding-and-meaning/"
+archive_reason: "Coalesced into The Phenomenology of Understanding and Meaning"
+original_path: "/topics/phenomenology-of-meaning-making/"
 ---
 
 Meaning is not found; it is made. And the making has a phenomenology—a distinctive felt quality that varies with what kind of meaning consciousness produces. When you grasp a mathematical proof, hear a melody resolve, recognise someone's suffering as mattering, or catch yourself in the act of thinking, each involves a different phenomenal texture of significance. The Unfinishable Map argues that these are not decorative accompaniments to information processing but the very substance of meaning itself. Meaning is a phenomenal achievement: something consciousness *does*, and what it is like to do it constitutes what meaning is.

@@ -54,6 +54,11 @@ coalesced_from:
   - "/topics/phenomenology-of-understanding/"
   - "/topics/phenomenology-of-inferential-understanding/"
   - "/topics/consciousness-and-semantic-understanding/"
+archived: true
+archived_date: 2026-03-16T16:17:00+00:00
+superseded_by: "/topics/phenomenology-of-understanding-and-meaning/"
+archive_reason: "Coalesced into The Phenomenology of Understanding and Meaning"
+original_path: "/topics/phenomenology-of-understanding/"
 ---
 
 Understanding has irreducible phenomenal character. The "click" when a proof resolves, the dawning comprehension when a difficult sentence yields its meaning, the felt *necessity* when one proposition follows from another — each resists reduction to information processing. The Unfinishable Map holds a Phenomenal Constitution Thesis (PCT): to grasp a meaning *is* to have a certain kind of experience. Meaning is constitutively phenomenal — the experience of understanding constitutes rather than merely accompanies the cognitive achievement.
