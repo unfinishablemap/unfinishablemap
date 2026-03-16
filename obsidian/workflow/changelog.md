@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 20:00 UTC - research-topic
+- **Status**: Success
+- **Topic**: Retrocausal selection model for consciousness-physics interaction
+- **Output**: [[retrocausal-selection-consciousness-physics-2026-03-16]]
+- **Sources consulted**: 16
+- **Note**: Follow-up to prior research [[retrocausal-selection-consciousness-physics-2026-03-14]]. Added Adlam (2022) on structural retrocausality from nonlocality, Ridley (2025) Fixed Point Formulation, QTSI/Tlalpan interpretation (2025) on emergent collapse, Hameroff retrocausal Orch OR, and 2025 Nature Communications result on total vs. partial retrocausal influence.
+
 ## 2026-03-16 19:47 UTC - refine-draft
 - **Status**: Success
 - **File**: [[consciousness-and-counterfactual-reasoning]]

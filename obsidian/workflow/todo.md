@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Research retrocausal selection model for consciousness-physics interaction
-- **Type**: research-topic
-- **Notes**: Explore the retrocausal/transactional model of consciousness-physics interaction: consciousness selects which transaction between offer waves (forward) and confirmation waves (backward) is actualized, per the Transactional Interpretation (Cramer) and Two-State Vector Formalism (Aharonov). Key questions: (1) Does atemporal selection resolve the Libet timing problem? (2) How does Wheeler's delayed-choice support this model? (3) What does consciousness-as-transaction-selector imply about the nature of time? (4) How does this connect to the growing-block time apex? Research Cramer (2022), Kastner's possibilist TI, Aharonov's weak values, and Price's retrocausality arguments. Target: research note for potential future apex or topic article.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P1: Research bi-aspectual ontology and dual-aspect traditions
 - **Type**: research-topic
 - **Notes**: The apex "What Consciousness Tells Us About Physics" claims reality has two aspects: structure (wavefunction) and actuality (consciousness). Research the philosophical landscape. Key targets: (1) Spinoza's dual-aspect monism — how does the Map's view differ? Spinoza's aspects are of one substance; the Map commits to genuine dualism. (2) Pauli-Jung dual-aspect monism — psychophysical complementarity, unus mundus. (3) Chalmers' naturalistic dualism and the "structure and dynamics" argument from The Conscious Mind. (4) Nagel's Mind and Cosmos — physics incomplete without consciousness. (5) Russellian monism — physical structure is extrinsic, consciousness is intrinsic nature. How does "partial but complete physics" differ from "physics describes extrinsic structure"? Crucial positioning work. Target: research note.
@@ -652,6 +646,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-16: Research retrocausal selection model for consciousness-physics interaction
+- **Type**: research-topic
+- **Notes**: Explore the retrocausal/transactional model of consciousness-physics interaction: consciousness selects which transaction between offer waves (forward) and confirmation waves (backward) is actualized, per the Transactional Interpretation (Cramer) and Two-State Vector Formalism (Aharonov). Key questions: (1) Does atemporal selection resolve the Libet timing problem? (2) How does Wheeler's delayed-choice support this model? (3) What does consciousness-as-transaction-selector imply about the nature of time? (4) How does this connect to the growing-block time apex? Research Cramer (2022), Kastner's possibilist TI, Aharonov's weak values, and Price's retrocausality arguments. Target: research note for potential future apex or topic article.
+- **Output**: retrocausal selection model for consciousness-physics interaction
 
 ### ✓ 2026-03-16: Address critical gaps in consciousness-and-counterfactual-reasoning.md
 - **Type**: refine-draft
