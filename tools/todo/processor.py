@@ -32,6 +32,7 @@ class TaskType(Enum):
     DEEP_REVIEW = "deep-review"
     CROSS_REVIEW = "cross-review"
     CONDENSE = "condense"
+    COALESCE = "coalesce"
     INTEGRATE_ORPHAN = "integrate-orphan"
     APEX_EVOLVE = "apex-evolve"
     OTHER = "other"

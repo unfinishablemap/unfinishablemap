@@ -80,6 +80,7 @@ EXECUTABLE_TASK_TYPES = {
     TaskType.PESSIMISTIC_REVIEW,
     TaskType.OPTIMISTIC_REVIEW,
     TaskType.CONDENSE,
+    TaskType.COALESCE,
     TaskType.CROSS_REVIEW,
     TaskType.INTEGRATE_ORPHAN,
     TaskType.APEX_EVOLVE,
@@ -186,6 +187,15 @@ def task_to_skill(task: Task) -> SkillInvocation:
         # Extract file path from title like "Condense free-will.md"
         file_path = _extract_file_path(task.title, task.notes)
         return SkillInvocation("condense", file_path)
+
+    elif task_type == TaskType.COALESCE:
+        # Coalesce: merge related articles into one unified piece
+        # Title like "Coalesce aesthetics articles in topics/ (4 articles → 1)"
+        # Pass full title + notes as context for the coalesce skill
+        args = task.title
+        if task.notes:
+            args = f"{args}\n\nTask context:\n{task.notes}"
+        return SkillInvocation("coalesce", args)
 
     elif task_type == TaskType.CROSS_REVIEW:
         # Cross-review: review a file considering insights from new content

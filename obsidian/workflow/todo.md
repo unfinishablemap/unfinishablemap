@@ -37,6 +37,108 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Research retrocausal selection model for consciousness-physics interaction
+- **Type**: research-topic
+- **Notes**: Explore the retrocausal/transactional model of consciousness-physics interaction: consciousness selects which transaction between offer waves (forward) and confirmation waves (backward) is actualized, per the Transactional Interpretation (Cramer) and Two-State Vector Formalism (Aharonov). Key questions: (1) Does atemporal selection resolve the Libet timing problem? (2) How does Wheeler's delayed-choice support this model? (3) What does consciousness-as-transaction-selector imply about the nature of time? (4) How does this connect to the growing-block time apex? Research Cramer (2022), Kastner's possibilist TI, Aharonov's weak values, and Price's retrocausality arguments. Target: research note for potential future apex or topic article.
+- **Source**: human_directed
+- **Generated**: 2026-03-14
+
+### P1: Research bi-aspectual ontology and dual-aspect traditions
+- **Type**: research-topic
+- **Notes**: The apex "What Consciousness Tells Us About Physics" claims reality has two aspects: structure (wavefunction) and actuality (consciousness). Research the philosophical landscape. Key targets: (1) Spinoza's dual-aspect monism — how does the Map's view differ? Spinoza's aspects are of one substance; the Map commits to genuine dualism. (2) Pauli-Jung dual-aspect monism — psychophysical complementarity, unus mundus. (3) Chalmers' naturalistic dualism and the "structure and dynamics" argument from The Conscious Mind. (4) Nagel's Mind and Cosmos — physics incomplete without consciousness. (5) Russellian monism — physical structure is extrinsic, consciousness is intrinsic nature. How does "partial but complete physics" differ from "physics describes extrinsic structure"? Crucial positioning work. Target: research note.
+- **Source**: human_directed
+- **Generated**: 2026-03-14
+
+### P1: Research the Born rule — derivation attempts and their limits
+- **Type**: research-topic
+- **Notes**: The apex claims the Born rule is an interface specification not derivable from physics alone. Research major derivation attempts and their structural limits: (1) Gleason's theorem — assumptions, does it presuppose measurement? (2) Deutsch-Wallace decision-theoretic derivation within MWI — circularity objections. (3) Zurek's envariance — presupposes Born probabilities via decoherence? (4) Caves-Fuchs-Schack (QBism) from Dutch-book coherence — what does it prove? (5) Masanes-Müller information-theoretic axioms. (6) Saunders on probability in MWI. For each: what achieved, what assumed, does it address the first-person probability gap from quantum-probability-consciousness? Directly supports the apex's core claim. Target: research note.
+- **Source**: human_directed
+- **Generated**: 2026-03-14
+
+### P1: Research Wheeler's participatory universe and "it from bit"
+- **Type**: research-topic
+- **Notes**: The apex's reverse inference connects to Wheeler's programme but goes further. Research: (1) Wheeler's delayed-choice experiments and temporal ontology implications. (2) "It from bit" — information more fundamental than matter. How relates to the Map's "actuality from consciousness"? (3) "Participatory universe" — observers necessary for universe to exist. The Map is more modest (consciousness selects outcomes, not creates reality). (4) Wheeler's 20 questions analogy. (5) Zurek's response (quantum Darwinism) — objectivity without observers. (6) Fuchs's participatory realism as heir to Wheeler. Position the Map relative to Wheeler: more specific, more modest, more constrained by tenets. Target: research note.
+- **Source**: human_directed
+- **Generated**: 2026-03-14
+
+### P1: Research Penrose gravity-collapse connection and empirical prospects
+- **Type**: research-topic
+- **Notes**: The apex mentions Penrose linking collapse to gravitational self-energy as a source of empirical predictions. Deep dive: (1) Penrose objective reduction — one-graviton criterion, superposition of spacetimes. (2) Diósi-Penrose model — specific collapse rate predictions. (3) Current experimental status — germanium detector experiments, Vinante et al. constraints. (4) MAQRO space mission proposal for microgravity testing. (5) How consciousness-modulated Penrose collapse might differ from pure gravitational collapse — are there divergent regimes? (6) Orch OR's specific predictions about microtubule coherence timescales. Most promising avenue for the reverse inference to generate empirically distinguishable predictions. Target: research note.
+- **Source**: human_directed
+- **Generated**: 2026-03-14
+
+### P2: Research the Gödel-measurement problem analogy — scope and limits
+- **Type**: research-topic
+- **Notes**: The apex draws an analogy between Gödel incompleteness and the measurement problem. Needs rigorous treatment: (1) Penrose's use of Gödel in Shadows of the Mind. (2) Lucas-Penrose argument and critics (Putnam, Feferman, Shapiro). (3) Precise scope: formal incompleteness involves self-reference; does the measurement problem? (4) Chaitin's incompleteness via algorithmic randomness. (5) Where the analogy breaks: Gödel is about provability; measurement problem is about determinism. Genuinely analogous or superficially similar? (6) Yanofsky's "Outer Limits of Reason" on structural limits across domains. Target: research note.
+- **Source**: human_directed
+- **Generated**: 2026-03-14
+
+### P2: Research completeness in physics — EPR, Bell, and "partial but complete"
+- **Type**: research-topic
+- **Notes**: The apex distinguishes Einstein's "incomplete" (missing hidden variables) from the Map's "partial" (complete about structure, silent about actuality). Ground this technically: (1) EPR's completeness criterion. (2) Bell's theorem on local hidden variables. (3) Kochen-Specker on contextuality. (4) PBR theorem — wavefunction is ontic. How does this support "partial but complete"? (5) Fine's prism models. (6) Precise coherence of "complete but partial" — a theory complete for its domain acknowledging its domain is not all of reality. Precedent: Newtonian mechanics was complete-but-partial. Target: research note.
+- **Source**: human_directed
+- **Generated**: 2026-03-14
+
+### P2: Research Russellian monism as competitor to bi-aspectual dualism
+- **Type**: research-topic
+- **Notes**: Russellian monism (Chalmers 2015, Alter & Nagasawa 2015) is the closest competitor — both say physics describes structure while consciousness is "missing." Key differences to clarify: (1) Russellian monism is neutral monism (one substance, two aspects); the Map commits to genuine dualism. (2) Russellian monism typically implies panpsychism; the Map rejects it. (3) The combination problem hits Russellian monism hard; the Map's quantum-interface model may avoid it. (4) Does Russellian monism handle the measurement problem? Research Chalmers' "The Combination Problem for Panpsychism," Goff's "Consciousness and Fundamental Reality," Stoljar's "Ignorance and Imagination." Critical positioning work. Target: research note.
+- **Source**: human_directed
+- **Generated**: 2026-03-14
+
+### P2: Research mathematical structure of the consciousness-physics interface
+- **Type**: research-topic
+- **Notes**: The apex claims the Born rule's mathematical form (squared amplitudes) may encode interface constraints. Can we say more? (1) Why squared amplitudes — deeper reason? Connection to inner product structure of Hilbert space, conservation of probability. (2) Could alternative rules (p=|ψ|, p=|ψ|³) be consistent? What breaks? (3) Hardy's reconstruction of QM from information-theoretic axioms. (4) L² structure uniqueness. (5) Can Born rule be derived from consciousness-physics coupling assumptions? E.g., if consciousness must preserve ensemble statistics, does this constrain the probability rule? (6) Sorkin's sum-over-histories — absence of third-order interference. Speculative but could yield genuine insights. Target: research note.
+- **Source**: human_directed
+- **Generated**: 2026-03-14
+
+### P2: Write topic article — The Reverse Inference
+- **Type**: expand-topic
+- **Notes**: Dedicated topic article developing the methodological move: using consciousness as a datum to constrain physics, rather than the standard direction. Cover: (1) Why the standard direction (physics → consciousness) is not the only rational approach. (2) Historical precedents — using observed phenomena to constrain theory (thermodynamics → statistical mechanics, stellar spectra → atomic structure). (3) The epistemic asymmetry — consciousness is more certain than any QM interpretation. (4) Objections: motivated reasoning? Response: all interpretation is constrained by commitments; the question is which are best supported. Target section: topics/. Source: the apex article.
+- **Source**: human_directed
+- **Generated**: 2026-03-14
+
+### P2: Write concept article — Bi-aspectual Ontology
+- **Type**: expand-topic
+- **Notes**: Develop the concept of bi-aspectual ontology as used in the apex: reality has two irreducible aspects — structure (physics/wavefunction) and actuality (consciousness). Distinguish from: (1) substance dualism; (2) property dualism; (3) neutral monism/Russellian monism; (4) idealism; (5) panpsychism. The Map's position: genuine dualism where physics is complete-for-its-domain and consciousness is the other domain. The interface (Born rule) connects them. Requires the bi-aspectual traditions research (P1) to be completed first. Target section: concepts/.
+- **Source**: human_directed
+- **Generated**: 2026-03-14
+
+### P2: Write concept article — Physics as Disclosure
+- **Type**: expand-topic
+- **Notes**: Develop the apex's claim that the measurement problem is a "disclosure" — physics revealing its own boundary — not a deficiency. Cover: (1) Standard view: measurement problem as bug. (2) Disclosure view: theory correctly reaching its limit. (3) Precedents: thermodynamics disclosed statistical mechanics; classical mechanics disclosed relativity. But those were within-physics completions; this may disclose something outside physics. (4) How decoherence supports disclosure reading — handles everything physics can handle, stops precisely where the non-physical begins. (5) Evidence criteria: disclosure vs. deficiency. Target section: concepts/.
+- **Source**: human_directed
+- **Generated**: 2026-03-14
+
+### P2: Cross-review measurement-problem.md in light of the reverse inference apex
+- **Type**: cross-review
+- **Notes**: The measurement-problem article contains groundwork for the reverse inference but doesn't make the move explicitly. Review: (1) Add forward-reference to the apex. (2) Strengthen "structural coherence" section to foreground the disclosure framing. (3) Ensure "Born probability as interface structure" connects to apex's fuller treatment. (4) Check language about "conceptual unification" is consistent with "bi-aspectual ontology." Alignment, not rewriting.
+- **Source**: human_directed
+- **Generated**: 2026-03-14
+
+### P2: Cross-review quantum-probability-consciousness.md in light of the reverse inference apex
+- **Type**: cross-review
+- **Notes**: This concept article develops Born rule as interface specification — same claim the apex makes at higher level. Review for consistency: (1) Ensure "interface structure" argument is consistent with apex framing. (2) Add forward-reference. (3) Check QBism/participatory realism/MWI treatment is consistent with apex's use. (4) "Epistemic limitations" section acknowledges no Born rule derivation — ensure consistency with apex. Do not expand substantially.
+- **Source**: human_directed
+- **Generated**: 2026-03-14
+
+### P2: Cross-review quantum-interpretations.md in light of the reverse inference apex
+- **Type**: cross-review
+- **Notes**: The interpretations article surveys for consciousness compatibility. The reverse inference adds a new lens: which are consistent with physics being "partial but complete"? Review: (1) Copenhagen — consistent with partiality. (2) Bohmian — inconsistent (makes physics complete and total). (3) MWI — inconsistent (eliminates gap). (4) Objective collapse — consistent if consciousness modulates. (5) TI/TSVF — highly consistent. Add brief notes and forward-reference to apex.
+- **Source**: human_directed
+- **Generated**: 2026-03-14
+
+### P2: Write void article — The Interface Formalization Void
+- **Type**: expand-topic
+- **Notes**: If the consciousness-physics interface is the ontological joint between two fundamentally different domains, can it be formalized mathematically? Or is formalization itself a structural-domain tool that cannot capture the actualizing domain? (1) Mathematics describes structure — may be unable to describe actuality. (2) Any mathematical description of the interface would be more structure, not actuality. (3) Born rule as the closest we can get — structural description of statistical properties without capturing what happens at the interface. (4) Connection to nomic void. (5) Connection to mysterianism/cognitive closure. A void generated directly by the reverse inference. Target section: voids/.
+- **Source**: human_directed
+- **Generated**: 2026-03-14
+
+### P2: Deep review what-consciousness-tells-us-about-physics.md
+- **Type**: deep-review
+- **Notes**: The new apex needs a full deep review after supporting research is complete. Stress-test: (1) "Complete but partial" distinction — coherent or verbal? (2) Born rule as interface specification — genuine claim or relabelling? (3) Gödel analogy — earning its keep or decorative? (4) "What would challenge this view" — genuine challenges or straw? Schedule after research tasks complete so review can draw on new material.
+- **Source**: human_directed
+- **Generated**: 2026-03-14
+
 ### P1: Coalesce aesthetics articles in topics/ (4 articles → 1)
 - **Type**: coalesce
 - **Notes**: Topics section is 20 over its 200-article cap, blocking all expand-topic tasks. Four articles cover overlapping ground on aesthetic irreducibility as evidence for consciousness: aesthetic-dimension-of-consciousness.md (3776 words), aesthetic-irreducibility-arguments.md (2687 words), consciousness-and-aesthetic-creation.md (2662 words), binding-and-beauty.md (2165 words). Merge into a single comprehensive article on aesthetics and consciousness. Saves 3 article slots.
