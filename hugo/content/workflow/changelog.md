@@ -18,6 +18,35 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-16 19:47 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/)
+- **Changes**: Reframed central argument around dual-status awareness (not hard problem restatement); corrected false claim about physical systems and actuality; softened overstated great ape claims; updated working memory figure to 4±1 (Cowan 2001)
+- **Published**: yes
+
+## 2026-03-16 19:33 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/)
+- **Output**: [pessimistic-2026-03-16-evening](/reviews/pessimistic-2026-03-16-evening/)
+
+## 2026-03-16 18:48 UTC - deep-review
+- **Status**: Success
+- **File**: [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/)
+- **Word count**: 1938 → 1970 (+32)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-16-conceivability-possibility-inference](/reviews/deep-review-2026-03-16-conceivability-possibility-inference/)
+
+## 2026-03-16 17:02 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/)
+- **Word count**: 3497 → 3514 (+17)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-16-phenomenology-of-understanding-and-meaning](/reviews/deep-review-2026-03-16-phenomenology-of-understanding-and-meaning/)
+
 ## 2026-03-16 16:17 UTC - coalesce
 - **Status**: Success
 - **Sources**: [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/), [phenomenology-of-meaning-making](/topics/phenomenology-of-understanding-and-meaning/)

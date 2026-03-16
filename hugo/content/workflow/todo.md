@@ -552,6 +552,14 @@ Tasks that failed 3+ times and require human intervention.
 Ideas that were considered and rejected. The AI will not re-propose these.
 
 
+### ✓ 2026-03-16: Address critical gaps in consciousness-and-counterfactual-reasoning.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found three high-severity issues: (1) central argument reduces to the hard problem restated rather than being a distinctive argument from counterfactuals; (2) claim that "physical systems track what is actual" is false—computers represent counterfactuals routinely; (3) great ape empirical claims overstate the absence of counterfactual cognition in primates. Also uses outdated 7±2 working memory figure (should be 4±1). See pessimistic-2026-03-16-evening.md
+- **Output**: obsidian/topics/consciousness-and-counterfactual-reasoning.md
+
+Task context:
+Pessimistic review found three high-severity issues: (1) central argument reduces to the hard problem restated rather than being a distinctive argument from counterfactuals; (2) claim that "physical systems track what is actual" is false—computers represent counterfactuals routinely; (3) great ape empirical claims overstate the absence of counterfactual cognition in primates. Also uses outdated 7±2 working memory figure (should be 4±1). See pessimistic-2026-03-16-evening.md
+
 ### ✓ 2026-03-16: Update references to coalesced understanding/meaning articles
 - **Type**: refine-draft
 - **Notes**: Coalesce merged phenomenology-of-understanding and phenomenology-of-meaning-making into phenomenology-of-understanding-and-meaning. ~34 active content files still reference the old slugs. Update wikilinks in topics/ and concepts/ to point to the new unified article. Reviews and workflow archives can be left as-is.
