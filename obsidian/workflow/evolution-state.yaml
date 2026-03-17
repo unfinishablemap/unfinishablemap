@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-17T18:14:56.506747+00:00'
-session_count: 4034
-cycle_position: 3662
+last_updated: '2026-03-17T18:29:56.508989+00:00'
+session_count: 4035
+cycle_position: 3663
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/apex/altered-states-as-interface-evidence)
-  type: deep-review
-  date: '2026-03-17'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-03-17'
@@ -135,5 +131,9 @@ recent_tasks:
   outcome: success
 - task: expand-topic (the capability division problem in vision)
   type: expand-topic
+  date: '2026-03-17'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-03-17'
   outcome: success

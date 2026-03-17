@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the reconstruction paradox
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. When the brain corrects perceptual input (filling blind spots, stabilising saccades) vs when it faithfully transmits degradation (blur, scotomas). The selectivity of correction is evidence for an interface model — the brain corrects what it can handle autonomously but transmits what requires conscious evaluation. Target section: concepts/. Supports Tenet 3 (Bidirectional Interaction).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-17
-
 ### P2: Integrate interface-heterogeneity.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -555,6 +548,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Write article on the reconstruction paradox
+- **Type**: expand-topic
+- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. When the brain corrects perceptual input (filling blind spots, stabilising saccades) vs when it faithfully transmits degradation (blur, scotomas). The selectivity of correction is evidence for an interface model — the brain corrects what it can handle autonomously but transmits what requires conscious evaluation. Target section: concepts/. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: the reconstruction paradox
 
 ### ✓ 2026-03-17: Write article on the capability division problem in vision
 - **Type**: expand-topic

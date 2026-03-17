@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 18:44 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Reconstruction Paradox
+- **Output**: [[concepts/selective-perceptual-correction]]
+- **Word count**: 1064
+- **Based on research**: yes, [[research/reconstruction-paradox-brain-correction-2026-03-09]]
+
 ## 2026-03-17 18:29 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/temporal-constitution-and-consciousness]]
