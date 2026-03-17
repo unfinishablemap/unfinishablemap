@@ -143,6 +143,7 @@ The graded-interface interpretation of hypnagogia would face difficulty if:
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Why interface loosening reveals consciousness-brain coupling through contrast
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Hypnagogia as part of the broader spectrum of interface configurations
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence for consciousness persisting while interface components disengage
+- [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: hypnagogia's sequential dissolution compared systematically with four other altered states
 
 ## References
 

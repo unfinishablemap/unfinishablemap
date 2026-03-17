@@ -25,6 +25,7 @@ related_articles:
 - '[[tenets]]'
 - '[[living-with-the-map]]'
 - '[[meaning-of-life]]'
+- '[[moral-architecture-of-consciousness]]'
 title: Ethics and Value in a Dualist World
 topics:
 - '[[ethics-of-consciousness]]'
@@ -152,6 +153,7 @@ The Unfinishable Map's five tenets jointly create the conditions for unified dua
 - [moral-perception](/concepts/moral-perception/) — Direct apprehension of ethical properties
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Normativity built into phenomenal character
 - [living-with-the-map](/apex/living-with-the-map/) — From metaphysics to practical guidance
+- [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis: unified moral architecture from value, agency, normativity, and moral perception
 - [free-will](/topics/free-will/) — The debate over genuine origination versus compatibilism
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why materialism cannot explain consciousness
 - [tenets](/tenets/) — The Map's foundational commitments

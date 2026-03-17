@@ -143,6 +143,7 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why brains specifically serve as consciousness interfaces
 - [binding-problem](/concepts/binding-problem/) — Temporal and spatial binding challenges relevant to anaesthetic disruption
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the mechanism through which consciousness acts
+- [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: anaesthetic dissociations compared with four other altered states in a convergence matrix
 
 ## References
 

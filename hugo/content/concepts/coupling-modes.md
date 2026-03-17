@@ -168,6 +168,7 @@ The taxonomy tightens the Map's framework by replacing vague "selection" languag
 - [attention-as-interface](/concepts/attention-as-interface/) — The phenomenal variable most tied to coupling; voluntary attention as the mind-matter interface
 - [mental-effort](/concepts/mental-effort/) — Effort as timing/observation rate control
 - [agent-causation](/concepts/agent-causation/) — The free will implications of conscious selection
+- [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — How coupling modes map onto altered-state phenomenology: basis control as the most fragile component across states
 
 ## References
 

@@ -156,6 +156,7 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Contemplative practices as evidence for irreducible consciousness
 - [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) — How psychiatric conditions reveal the hidden architecture of consciousness
 - [death-phenomenology-beyond-ndes](/topics/death-and-consciousness/) — Death-related altered states: deathbed visions, terminal lucidity, and nearing death awareness
+- [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: systematic comparison of five altered states mapping the multi-channel interface architecture
 
 ## References
 

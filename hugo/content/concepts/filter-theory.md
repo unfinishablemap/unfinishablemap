@@ -226,6 +226,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — Sleep-onset phenomenology as real-time filter loosening
 - [habituation-void](/voids/habituation-void/) — Habituation as a filtering mechanism that screens out the familiar
 - [death-phenomenology-beyond-ndes](/topics/death-and-consciousness/) — Broader dying phenomenology as evidence for filter loosening near death
+- [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: how five altered states converge on the same multi-channel filter architecture
 
 ## References
 

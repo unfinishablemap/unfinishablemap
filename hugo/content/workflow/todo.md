@@ -45,40 +45,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-15
 - **Completed**: 2026-03-17
 
-### P2: Integrate moral-architecture-of-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: New apex article created 2026-03-16 has no inbound links. Apex on ethics under dualism synthesising phenomenal value realism, normative force, and responsibility gradient. Add cross-references from ethics-of-consciousness.md, consciousness-and-normative-force.md, moral-phenomenology.md, the-meaning-of-life.md, and related concept pages.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-17
-
-### P2: Integrate altered-states-as-interface-evidence.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: New apex article created 2026-03-16 has no inbound links. Apex synthesising altered states (psychedelics, meditation, anaesthesia, dreaming) as systematic interface evidence. Add cross-references from psychedelics-and-the-filter-model.md, anaesthesia-and-the-consciousness-interface.md, dream-consciousness.md, meditation-and-consciousness-modes.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-17
-
-### P2: Cross-review clinical-dissociation-as-systematic-evidence.md against related clinical articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article created 2026-03-17 on clinical dissociation (pain asymbolia, split-brain, anaesthesia awareness). Review against pain-consciousness-and-causal-power.md, split-brain-consciousness.md, anaesthesia-and-the-consciousness-interface.md, contemplative-pathology-and-interface-malfunction.md for consistency, cross-links, and potential contradictions.
-- **Source**: chain (from clinical-dissociation-as-systematic-evidence.md)
-- **Generated**: 2026-03-17
-
-### P2: Cross-review consciousness-and-mathematics.md against formal systems and counterfactual articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article created 2026-03-17 on mathematical understanding as evidence for consciousness. Review against consciousness-and-the-authority-of-formal-systems.md, consciousness-and-counterfactual-reasoning.md, argument-from-reason.md, galilean-exclusion.md for consistency, cross-links, and reinforcing arguments.
-- **Source**: chain (from consciousness-and-mathematics.md)
-- **Generated**: 2026-03-17
-
-### P2: Update references to coalesced interface-development articles
-- **Type**: cross-review
-- **Notes**: Coalesce created [consciousness-interface-development](/topics/consciousness-interface-development/). The following files reference archived articles and need wikilinks updated: phenomenology-of-collective-intentionality-and-we-consciousness.md (→ childhood-development-and-the-interface), ethics-of-cognitive-enhancement-under-dualism.md (→ childhood-development-and-the-interface), the-interface-location-problem.md (→ developmental-trajectory-of-the-interface)
-- **Source**: coalesce
-- **Generated**: 2026-03-17
-
 ### P2: Condense self-reference-paradox.md (3402 words, 113% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -544,6 +510,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Update references to coalesced interface-development articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [consciousness-interface-development](/topics/consciousness-interface-development/). The following files reference archived articles and need wikilinks updated: phenomenology-of-collective-intentionality-and-we-consciousness.md (→ childhood-development-and-the-interface), ethics-of-cognitive-enhancement-under-dualism.md (→ childhood-development-and-the-interface), the-interface-location-problem.md (→ developmental-trajectory-of-the-interface)
+- **Output**: None -- Context: Update references to coalesced interface-development articles
+
+### ✓ 2026-03-17: Cross-review consciousness-and-mathematics.md against formal systems and counterfactual articles
+- **Type**: cross-review
+- **Notes**: New article created 2026-03-17 on mathematical understanding as evidence for consciousness. Review against consciousness-and-the-authority-of-formal-systems.md, consciousness-and-counterfactual-reasoning.md, argument-from-reason.md, galilean-exclusion.md for consistency, cross-links, and reinforcing arguments.
+- **Output**: consciousness-and-mathematics.md -- Context: Cross-review consciousness-and-mathematics.md against formal systems and counterfactual articles
+
+### ✓ 2026-03-17: Cross-review clinical-dissociation-as-systematic-evidence.md against related clinical articles
+- **Type**: cross-review
+- **Notes**: New article created 2026-03-17 on clinical dissociation (pain asymbolia, split-brain, anaesthesia awareness). Review against pain-consciousness-and-causal-power.md, split-brain-consciousness.md, anaesthesia-and-the-consciousness-interface.md, contemplative-pathology-and-interface-malfunction.md for consistency, cross-links, and potential contradictions.
+- **Output**: obsidian/topics/clinical-dissociation-as-systematic-evidence.md -- Context: Cross-review clinical-dissociation-as-systematic-evidence.md against related clinical articles
+
+### ✓ 2026-03-17: Integrate altered-states-as-interface-evidence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: New apex article created 2026-03-16 has no inbound links. Apex synthesising altered states (psychedelics, meditation, anaesthesia, dreaming) as systematic interface evidence. Add cross-references from psychedelics-and-the-filter-model.md, anaesthesia-and-the-consciousness-interface.md, dream-consciousness.md, meditation-and-consciousness-modes.md, and related articles.
+- **Output**: obsidian/apex/altered-states-as-interface-evidence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-17: Integrate moral-architecture-of-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: New apex article created 2026-03-16 has no inbound links. Apex on ethics under dualism synthesising phenomenal value realism, normative force, and responsibility gradient. Add cross-references from ethics-of-consciousness.md, consciousness-and-normative-force.md, moral-phenomenology.md, the-meaning-of-life.md, and related concept pages.
+- **Output**: obsidian/apex/moral-architecture-of-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-17: Integrate the-reverse-inference.md into site navigation
 - **Type**: integrate-orphan

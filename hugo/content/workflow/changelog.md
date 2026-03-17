@@ -18,6 +18,65 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 14:43 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-temporal-selection](/topics/phenomenology-of-temporal-selection/)
+- **Word count**: 1717 → 2016 (+299)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (computational strawman strengthened, quantum speculation grounded, empirical references added)
+- **Enhancements made**: 6 (5 cross-links added, MWI counter-argument strengthened)
+- **Output**: [deep-review-2026-03-17-phenomenology-of-temporal-selection](/reviews/deep-review-2026-03-17-phenomenology-of-temporal-selection/)
+
+## 2026-03-17 14:29 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)
+- **Word count**: 3537 → 3532 (-5)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing cross-links to formal systems and counterfactual articles)
+- **Enhancements made**: 2 (cross-links added, prose tightened in 4 locations)
+- **Output**: [deep-review-2026-03-17-consciousness-and-mathematical-cognition](/reviews/deep-review-2026-03-17-consciousness-and-mathematical-cognition/)
+
+## 2026-03-17 14:13 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Reason**: Searched voids (102/100, over cap), topics (221/230, 96%), and concepts (202/230, 88%) across 5+ rounds. All candidate pairs examined are well-differentiated. Prior coalescing has already merged obvious overlaps.
+- **Sections checked**: cognitive-limits cluster (6 voids), self-reference cluster (3 voids), moral phenomenology pair, temporal phenomenology pair, epistemic phenomenology cluster (4 topics), acquaintance pair (2 concepts), quantum consciousness pair (2 concepts)
+
+## 2026-03-17 13:58 UTC - deep-review
+- **Status**: Success
+- **File**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
+- **Word count**: 2310 → 2428 (+118)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (orphan reference, missing cross-links, convergence third pathway)
+- **Enhancements made**: 6 (Brown citation, fragmented-consciousness link, anaesthesia link, apex link, contemplative convergence, cleaned refinement log)
+- **Output**: [deep-review-2026-03-17b-clinical-dissociation-as-systematic-evidence](/reviews/deep-review-2026-03-17b-clinical-dissociation-as-systematic-evidence/)
+
+## 2026-03-17 13:44 UTC - deep-review
+- **Status**: Success
+- **File**: [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/)
+- **Word count**: 2046 → 2218 (+172)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4 (bidirectional tenet, brute randomness objection, attribution clarity, cross-links)
+- **Output**: [deep-review-2026-03-17-self-reference-and-the-limits-of-physical-description](/reviews/deep-review-2026-03-17-self-reference-and-the-limits-of-physical-description/)
+
+## 2026-03-17 13:28 UTC - deep-review
+- **Status**: Success
+- **File**: [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/)
+- **Word count**: 2771 → 2902 (+131)
+- **Critical issues addressed**: 1 (missing description field)
+- **Medium issues addressed**: 4 (witness consciousness gap, no Further Reading, orphaned article, missing timestamp)
+- **Enhancements made**: 13 inbound cross-links added from source and related articles
+- **Output**: [deep-review-2026-03-17-altered-states-as-interface-evidence](/reviews/deep-review-2026-03-17-altered-states-as-interface-evidence/)
+
+## 2026-03-17 13:13 UTC - deep-review
+- **Status**: Success
+- **File**: [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/)
+- **Word count**: 2619 → 2841 (+222)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (opening overlap with source, coherence test weakness, orphaned with no inbound links)
+- **Enhancements made**: 4 (differentiated opening, pleasure counterexample response, "What Would Challenge" section, 12 cross-links added from source/sibling articles)
+- **Output**: [deep-review-2026-03-17-moral-architecture-of-consciousness](/reviews/deep-review-2026-03-17-moral-architecture-of-consciousness/)
+
 ## 2026-03-17 12:59 UTC - coalesce
 - **Status**: Success
 - **Sources**: [childhood-development-and-the-interface](/topics/consciousness-interface-development/), [developmental-trajectory-of-the-interface](/topics/consciousness-interface-development/), [interface-across-development](/topics/consciousness-interface-development/)

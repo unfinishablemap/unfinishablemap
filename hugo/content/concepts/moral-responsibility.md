@@ -187,6 +187,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Responsibility without permanent selfhood
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — Beyond desert: how genuine agency transforms obligation, character, and moral theory
 - [tenets](/tenets/) — The foundational commitments grounding this view
+- [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis: moral responsibility within a unified framework of value, agency, normativity, and perception
 
 ## References
 

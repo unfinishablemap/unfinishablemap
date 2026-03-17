@@ -40,6 +40,7 @@ last_deep_review: 2026-03-12 01:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[moral-architecture-of-consciousness]]'
 title: Living with the Map
 topics:
 - '[[meaning-of-life]]'

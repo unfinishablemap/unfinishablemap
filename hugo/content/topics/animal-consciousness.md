@@ -222,6 +222,7 @@ Whether animal nervous systems provide the right conditions for quantum consciou
 
 ### Apex Synthesis
 - [minds-without-words](/apex/minds-without-words/) — Integrated perspective on non-linguistic consciousness across species
+- [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — How consciousness-grounded moral status extends to all conscious beings
 
 ## References
 

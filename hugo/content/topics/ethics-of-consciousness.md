@@ -35,6 +35,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[purpose-and-alignment]]'
+- '[[moral-architecture-of-consciousness]]'
 title: Ethics of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -214,6 +215,7 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 - [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) — Moral responsibility when agency is constrained
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge—ethical truths beyond human reach
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — Beyond desert: obligation, character formation, and what genuine agency demands
+- [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis: how value, agency, normativity, and moral perception unify under consciousness
 - [tenets](/tenets/) — the Map's foundational commitments
 
 ## References

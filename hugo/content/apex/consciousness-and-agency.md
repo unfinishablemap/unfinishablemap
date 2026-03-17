@@ -36,6 +36,7 @@ related_articles:
 - '[[phenomenology-of-consciousness-doing-work]]'
 - '[[testing-the-map-from-inside]]'
 - '[[counterfactual-void]]'
+- '[[moral-architecture-of-consciousness]]'
 title: Consciousness and Agency
 topics:
 - '[[topics/free-will]]'

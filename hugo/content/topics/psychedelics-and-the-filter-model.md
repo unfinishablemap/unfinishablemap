@@ -118,6 +118,7 @@ Psychedelics illuminate several of the Map's [tenets](/tenets/):
 - [dream-consciousness](/topics/dream-consciousness/) — Another state where reduced filtering yields expanded experience
 - [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/) — Lucid dreaming as non-pharmacological evidence for the same filter-loosening pattern
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — The complementary case: increased filtering eliminates experience
+- [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis placing psychedelic evidence within the convergence matrix of five altered states
 
 ## References
 

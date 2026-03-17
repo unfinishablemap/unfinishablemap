@@ -37,6 +37,7 @@ related_articles:
 - '[[phenomenology-of-moral-experience]]'
 - '[[phenomenal-value-realism-metaethics-2026-01-16]]'
 - '[[alignment-in-objective-experiential-terms]]'
+- '[[moral-architecture-of-consciousness]]'
 title: Phenomenal Value Realism
 topics:
 - '[[meaning-of-life]]'
@@ -266,6 +267,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Evaluative meaning as one of five phenomenal meaning modes
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How genuine agency transforms moral categories from useful fictions into responses to metaphysical fact
+- [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis: how phenomenal value realism integrates with agency, normativity, and moral perception
 
 ## References
 
