@@ -283,11 +283,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
 
-### P2: Write topic on consciousness and memory consolidation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The role of consciousness in sleep-dependent memory consolidation and dreaming. Builds on anaesthesia-and-the-consciousness-interface, conscious-vs-unconscious-processing, contemplative-neuroscience. Target section: topics/. Supports Tenets 1 and 3. See [[reviews/optimistic-2026-03-06]].
-
 ### P2: Write concept page on phenomenal contrast method
 - **Type**: expand-topic
 - **Status**: pending
@@ -520,6 +515,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Write topic on consciousness and memory consolidation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The role of consciousness in sleep-dependent memory consolidation and dreaming. Builds on anaesthesia-and-the-consciousness-interface, conscious-vs-unconscious-processing, contemplative-neuroscience. Target section: topics/. Supports Tenets 1 and 3. See [[reviews/optimistic-2026-03-06]].
+- **Output**: Write topic on consciousness and memory consolidation
 
 ### ✓ 2026-03-17: Write topic on the interface across development
 - **Type**: expand-topic
