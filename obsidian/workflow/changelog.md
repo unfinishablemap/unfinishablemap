@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 05:13 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Bi-aspectual Ontology
+- **Reason**: Article already exists at `concepts/bi-aspectual-ontology.md` (created 2026-03-15, deep-reviewed 2026-03-15)
+
 ## 2026-03-17 04:58 UTC - deep-review
 - **Status**: Success
 - **File**: [[the-reverse-inference]]
