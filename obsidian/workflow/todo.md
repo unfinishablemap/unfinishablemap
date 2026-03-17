@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-15
 - **Completed**: 2026-03-17
 
-### P2: Condense self-reference-paradox.md (3402 words, 113% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3000-word hard threshold for voids/. Result of coalesce merging the-unobservable-self into this article. Preserve core arguments about self-reference as cognitive limit while removing redundancy from the merge. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-17
-
 ### P3: Create concept page for token-level determination
 - **Type**: expand-topic
 - **Status**: pending
@@ -509,6 +502,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Condense self-reference-paradox.md (3402 words, 113% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Result of coalesce merging the-unobservable-self into this article. Preserve core arguments about self-reference as cognitive limit while removing redundancy from the merge. See /condense skill.
+- **Output**: obsidian/voids/self-reference-paradox.md
 
 ### ✓ 2026-03-17: Update references to coalesced interface-development articles
 - **Type**: cross-review
