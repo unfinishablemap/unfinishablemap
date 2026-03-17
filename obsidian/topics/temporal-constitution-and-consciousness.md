@@ -4,7 +4,7 @@ description: "Four independent lines of evidence converge: consciousness constit
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T18:29:00+00:00
+ai_modified: 2026-03-17T20:01:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-03-17T18:29:00+00:00
+last_deep_review: 2026-03-17T20:01:00+00:00
 ---
 
 Consciousness does not merely exist within time. It constitutes temporal structure—binding discrete moments into melodies, threading premises into arguments, weaving remembered episodes into a self that persists across years. The Unfinishable Map's articles on [[the-binding-problem-a-systematic-treatment|binding]], [[phenomenology-of-intellectual-effort|intellectual effort]], [[phenomenology-of-memory-and-the-self|memory]], and [[bergson-and-duration|duration]] each independently reach this conclusion. Taken together, they form a convergent case: temporal constitution is not one feature of consciousness among many but a defining capacity that physical processes cannot replicate.

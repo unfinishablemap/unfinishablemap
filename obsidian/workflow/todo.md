@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate temporal-constitution-and-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links from any content article. Created 2026-03-17. Add cross-references from related articles (e.g., temporal-consciousness, consciousness-and-the-ontology-of-temporal-becoming, growing-block-time apex) or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-17
-
 ### P2: Integrate ethics-of-possible-ai-consciousness.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -541,6 +534,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Integrate temporal-constitution-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links from any content article. Created 2026-03-17. Add cross-references from related articles (e.g., temporal-consciousness, consciousness-and-the-ontology-of-temporal-becoming, growing-block-time apex) or update section index pages to include navigation to this content.
+- **Output**: obsidian/topics/temporal-constitution-and-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-17: Integrate interface-heterogeneity.md into site navigation
 - **Type**: integrate-orphan

@@ -4,7 +4,7 @@ description: "A comprehensive taxonomy of binding problems—perceptual, tempora
 created: 2026-02-14
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-03-12T03:20:00+00:00
+ai_modified: 2026-03-17T20:01:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -81,7 +81,7 @@ Experience extends across time. The present moment is not a durationless instant
 
 **BP1 progress**: Working memory maintains representations across seconds. Hippocampal replay compresses temporal sequences. Oscillatory dynamics create temporal windows within which events are treated as co-occurring. The brain can retroactively adjust the perceived timing of events — later processing adjusts timestamps to construct phenomenal simultaneity.
 
-**BP2 gap**: Temporal binding raises a distinctive puzzle. At any physical instant, only the current state exists — past states have ceased, future states have not begun. Yet consciousness encompasses temporal extension. The heard melody is not a sequence of separate "now-experiences" strung together retrospectively; it is experienced as a temporal arc. What makes a temporal sequence a *unified temporal experience* rather than a series of disconnected moments? Neural mechanisms that maintain information across time (working memory, hippocampal replay) explain how the brain retains past content but not why retained content is experienced as temporally extended rather than merely stored.
+**BP2 gap**: Temporal binding raises a distinctive puzzle. At any physical instant, only the current state exists — past states have ceased, future states have not begun. Yet consciousness encompasses temporal extension. The heard melody is not a sequence of separate "now-experiences" strung together retrospectively; it is experienced as a temporal arc. What makes a temporal sequence a *unified temporal experience* rather than a series of disconnected moments? Neural mechanisms that maintain information across time (working memory, hippocampal replay) explain how the brain retains past content but not why retained content is experienced as temporally extended rather than merely stored. The Map's [[temporal-constitution-and-consciousness|temporal constitution thesis]] argues that consciousness actively constitutes these temporal wholes — the melody, the argument, the remembered life — from elements that physically do not coexist.
 
 [[episodic-memory|Autonoetic consciousness]] — the capacity to re-experience one's own past — reveals temporal binding in its most demanding form. When you remember a childhood event, "pastness" is phenomenally bound to the content. You are simultaneously present as rememberer (now) and protagonist (then). Two temporal perspectives are unified in a single experience without collapsing into one.
 

@@ -4,7 +4,7 @@ description: "Henri Bergson's durée reveals time as qualitative flow rather tha
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-03-16T06:17:00+00:00
+ai_modified: 2026-03-17T20:01:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
   - "[[temporal-structure-of-consciousness]]"
+  - "[[temporal-constitution-and-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -47,7 +48,7 @@ Duration (*durée*) is Bergson's name for time as directly experienced. Its feat
 
 **Heterogeneity.** Each moment of duration differs qualitatively from every other. An hour of grief has nothing in common with an hour of joy except the clock reading. Spatialized time is homogeneous by construction—one second equals any other second. Duration is heterogeneous by nature.
 
-**Interpenetration.** States in duration don't sit beside each other like objects on a shelf. They flow into one another, each coloured by the others. Hearing a melody illustrates this: the current note sounds as it does only because of what preceded it and what is anticipated. Remove the context and the same physical vibration produces a different experience. Bergson calls this "qualitative multiplicity"—unity in difference without juxtaposition.
+**Interpenetration.** States in duration don't sit beside each other like objects on a shelf. They flow into one another, each coloured by the others. Hearing a melody illustrates this: the current note sounds as it does only because of what preceded it and what is anticipated. Remove the context and the same physical vibration produces a different experience. Bergson calls this "qualitative multiplicity"—unity in difference without juxtaposition. The Map's [[temporal-constitution-and-consciousness|temporal constitution thesis]] develops this insight systematically, arguing that consciousness constitutes these temporal wholes from elements that physically do not coexist.
 
 **Indivisibility.** You can divide a spatial line into segments without altering what you're dividing. But dividing a melody into individual notes destroys the melody. Duration can be analytically distinguished into phases but cannot be actually divided without changing its nature. The whole is present in every part.
 
