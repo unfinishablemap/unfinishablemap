@@ -4,7 +4,8 @@ description: "The reverse inference uses consciousness—our most certain datum�
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T04:44:00+00:00
+ai_modified: 2026-03-17T04:58:00+00:00
+last_deep_review: 2026-03-17T04:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +38,7 @@ The default methodology in philosophy of mind treats physics as the fixed frame.
 
 This framing concedes an assumption that deserves scrutiny: that physics is the more secure starting point. Yet quantum mechanics has spent a century demonstrating otherwise. The [[measurement-problem|measurement problem]] remains unsolved. No interpretation commands consensus. Physicists are scattered across half a dozen incompatible views of what their own theory means. The physical world—at its most fundamental level—is the thing we understand least.
 
-The standard direction also inherits a specific bias. Starting from physics and working toward consciousness makes materialism the default: consciousness must earn its place in a physical world. Any role for consciousness beyond passive byproduct requires extraordinary justification. The reverse inference challenges this by noting that the justificatory asymmetry points the wrong way.
+The standard direction also inherits a specific bias. Starting from physics and working toward consciousness makes materialism the default: consciousness must earn its place in a physical world. Any role for consciousness beyond passive byproduct—any departure from [[epiphenomenalism]]—requires extraordinary justification. The assumption of [[causal-closure]] seals the case before the argument begins. The reverse inference challenges this by noting that the justificatory asymmetry points the wrong way.
 
 ## The Epistemic Asymmetry
 
@@ -89,6 +90,14 @@ A harder objection: if consciousness operates within Born probabilities, the rev
 
 The response is twofold. First, empirical equivalence at the level of quantum statistics does not mean empirical irrelevance. The reverse inference constrains which interpretations are viable, which matters for the direction of research. Second, the framework may eventually generate predictions—particularly in regimes where gravitational self-energy intersects with collapse (Penrose-style objective reduction), where consciousness-modulated collapse might diverge from purely physical collapse in detectable ways. The framework is not permanently untestable; it is currently untested.
 
+### Private Datum, Public Science
+
+The historical analogies—thermodynamics, spectra, general covariance—all involved publicly measurable phenomena. Consciousness is private. How can a private datum constrain a public science?
+
+The response: the *existence* of consciousness is not private in the relevant sense. That conscious experience exists is intersubjectively confirmed—every neurologically typical human reports it, and its absence (in anaesthesia, coma) is clinically detectable. What is private is the *qualitative character* of experience, but the reverse inference does not require access to qualitative character. It requires only the premise that consciousness exists and is irreducible—a premise supported by the [[hard-problem-of-consciousness|hard problem]], the [[explanatory-gap]], and the failure of physicalist reduction. The constraining work is done by the existence claim, not by any particular quale.
+
+Moreover, the objection proves too much. If private phenomena cannot constrain theory, then the hard problem itself is illegitimate—but the hard problem's force is precisely that it identifies something real (experience) that resists physical explanation. Denying that consciousness can constrain physics requires denying it is a genuine phenomenon, which collapses into eliminativism—a position with its own severe costs.
+
 ### Why Not Panpsychism?
 
 If consciousness is needed for actualization, why posit it only in complex organisms? Why not accept panpsychism—consciousness all the way down?
@@ -123,6 +132,5 @@ The reverse inference is one of the Map's central methodological moves. It conne
 
 1. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 2. Descartes, R. (1641). *Meditations on First Philosophy*.
-3. Einstein, A., Podolsky, B., & Rosen, N. (1935). "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?" *Physical Review*, 47(10), 777-780.
-4. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-5. Southgate, A. & Oquatre-six, C. (2026-03-14). What Consciousness Tells Us About Physics. *The Unfinishable Map*. https://unfinishablemap.org/apex/what-consciousness-tells-us-about-physics/
+3. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+4. Southgate, A. & Oquatre-six, C. (2026-03-14). What Consciousness Tells Us About Physics. *The Unfinishable Map*. https://unfinishablemap.org/apex/what-consciousness-tells-us-about-physics/
