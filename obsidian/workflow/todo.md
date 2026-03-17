@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address decoherence omission in quantum-completeness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found that the article's central claim (Process 1 is undetermined by physics) ignores the decoherence objection entirely. Add a section engaging with decoherence and quantum Darwinism, arguing that decoherence explains the pointer basis but not specific outcome selection. Also fix the many-worlds mischaracterisation (MWI removes structure, doesn't add it). See pessimistic-2026-03-17-night.md
+- **Generated**: 2026-03-17
+
+### P2: Address circularity in neural-refresh-rates smoothness argument
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the smoothness argument is circular—it assumes the hard problem to generate the smoothness problem, then presents smoothness as evidence for the hard problem. The functionalist middle ground (functional organisation constitutes experience) is not addressed. Also remove or substantially caveat the speculative quantum paragraph in the tenet section. See pessimistic-2026-03-17-night.md
+- **Generated**: 2026-03-17
+
 ### P2: Cross-review temporal-structure-of-consciousness considering neural-refresh-rates-and-the-smoothness-problem
 - **Type**: cross-review
 - **Status**: pending
