@@ -30,6 +30,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[purpose-and-alignment]]"
+  - "[[moral-architecture-of-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -211,6 +212,7 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 - [[consciousness-and-moral-agency-under-duress]] — Moral responsibility when agency is constrained
 - [[normative-void]] — Cognitive limits on moral knowledge—ethical truths beyond human reach
 - [[moral-implications-of-genuine-agency]] — Beyond desert: obligation, character formation, and what genuine agency demands
+- [[moral-architecture-of-consciousness]] — Apex synthesis: how value, agency, normativity, and moral perception unify under consciousness
 - [[tenets]] — the Map's foundational commitments
 
 ## References

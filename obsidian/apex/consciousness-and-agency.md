@@ -21,6 +21,7 @@ related_articles:
   - "[[phenomenology-of-consciousness-doing-work]]"
   - "[[testing-the-map-from-inside]]"
   - "[[counterfactual-void]]"
+  - "[[moral-architecture-of-consciousness]]"
 
 ai_contribution: 100
 author: null

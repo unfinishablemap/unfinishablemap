@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-15
 - **Completed**: 2026-03-17
 
-### P2: Integrate moral-architecture-of-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: New apex article created 2026-03-16 has no inbound links. Apex on ethics under dualism synthesising phenomenal value realism, normative force, and responsibility gradient. Add cross-references from ethics-of-consciousness.md, consciousness-and-normative-force.md, moral-phenomenology.md, the-meaning-of-life.md, and related concept pages.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-17
-
 ### P2: Integrate altered-states-as-interface-evidence.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -543,6 +536,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Integrate moral-architecture-of-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: New apex article created 2026-03-16 has no inbound links. Apex on ethics under dualism synthesising phenomenal value realism, normative force, and responsibility gradient. Add cross-references from ethics-of-consciousness.md, consciousness-and-normative-force.md, moral-phenomenology.md, the-meaning-of-life.md, and related concept pages.
+- **Output**: obsidian/apex/moral-architecture-of-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-17: Integrate the-reverse-inference.md into site navigation
 - **Type**: integrate-orphan

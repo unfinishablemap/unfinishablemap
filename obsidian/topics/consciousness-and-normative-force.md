@@ -178,6 +178,7 @@ The consciousness-based account would face pressure if:
 - [[consciousness-and-moral-agency-under-duress]] — Moral agency when normative demands are extreme
 - [[phenomenal-normativity-environmental-ethics]] — Extending phenomenal normativity to environmental obligations
 - [[phenomenal-depth]] — Layers of phenomenal experience accessible through attention
+- [[moral-architecture-of-consciousness]] — Apex synthesis: normativity as one of four pillars in a unified moral framework
 
 ## References
 

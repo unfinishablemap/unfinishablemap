@@ -137,6 +137,7 @@ Additionally, if Buddhist or compatibilist philosophy demonstrated that every mo
 - [[diachronic-agency-and-personal-narrative]]
 - [[attentional-economics]]
 - [[responsibility-gradient-from-attentional-capacity]]
+- [[moral-architecture-of-consciousness]] — Apex synthesis: how genuine agency integrates with value, normativity, and moral perception
 
 ## References
 

@@ -22,6 +22,7 @@ concepts:
   - "[[temporal-consciousness]]"
 related_articles:
   - "[[tenets]]"
+  - "[[moral-architecture-of-consciousness]]"
 
 ai_contribution: 100
 author: null

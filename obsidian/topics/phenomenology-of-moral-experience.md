@@ -209,6 +209,7 @@ The phenomenology of moral experience connects to the Map's [[tenets|foundationa
 - [[phenomenology-of-trust]] — The felt character of interpersonal trust, vulnerability, and betrayal
 - [[phenomenology-of-epistemic-cognition]] — How moral perception shifts under new evidence
 - [[moral-implications-of-genuine-agency]] — How moral seriousness gains metaphysical weight under genuine agency
+- [[moral-architecture-of-consciousness]] — Apex synthesis: moral perception as one of four pillars in unified dualist ethics
 
 ## References
 

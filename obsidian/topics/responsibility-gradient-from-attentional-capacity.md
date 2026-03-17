@@ -174,6 +174,7 @@ The moral implications extend in both directions. Where most discussions of grad
 - [[consciousness-and-causal-powers]] — Why consciousness must be causally efficacious, grounding the gradient's moral weight
 - [[moral-implications-of-genuine-agency]] — The broader moral landscape when agency is genuine
 - [[topics/free-will]] — The broader framework of agency and determinism
+- [[moral-architecture-of-consciousness]] — Apex synthesis: the responsibility gradient within a unified moral framework
 
 ## References
 

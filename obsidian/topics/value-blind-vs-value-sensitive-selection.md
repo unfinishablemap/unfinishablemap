@@ -155,6 +155,7 @@ The Map should eventually take a position on this fork. The graduated middle pat
 - [[attention-as-interface]] — The interface through which consciousness acts
 - [[pain-consciousness-and-causal-power]] — Pain asymbolia as evidence that valence does causal work in selection
 - [[valence-as-selection-currency]] — Develops the value-sensitive horn: valence as common evaluative metric for selection
+- [[moral-architecture-of-consciousness]] — Apex synthesis: the value-sensitivity question within a unified moral framework
 
 ## References
 
