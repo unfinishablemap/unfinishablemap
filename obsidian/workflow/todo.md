@@ -283,11 +283,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
 
-### P2: Write article on the phenomenology of error recognition
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. What does it feel like to be wrong — and to recognise it? Error detection involves the interface recognising misalignment between expected and actual outcomes. Builds on phenomenology-of-scientific-discovery, consciousness-and-the-phenomenology-of-constraint-satisfaction, epistemic-emotions. Target section: topics/. Supports Tenet 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-03-07-night]].
-
 ### P2: Write concept page for interface heterogeneity
 - **Type**: expand-topic
 - **Status**: pending
@@ -505,6 +500,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Write article on the phenomenology of error recognition
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. What does it feel like to be wrong — and to recognise it? Error detection involves the interface recognising misalignment between expected and actual outcomes. Builds on phenomenology-of-scientific-discovery, consciousness-and-the-phenomenology-of-constraint-satisfaction, epistemic-emotions. Target section: topics/. Supports Tenet 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-03-07-night]].
+- **Output**: the phenomenology of error recognition
 
 ### ✓ 2026-03-17: Write article on the ethics of possible AI consciousness
 - **Type**: expand-topic
