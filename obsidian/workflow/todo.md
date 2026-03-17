@@ -94,6 +94,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: orphan_integration
 - **Generated**: 2026-03-13
 
+### P3: Write article on phenomenology of creativity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Creative insight phenomenology is used as evidence across multiple articles (consciousness-and-mathematical-cognition, consciousness-as-amplifier) but never given independent treatment. The recursive quality — creativity applied to the conditions of creativity itself — deserves systematic exploration as a paradigm case of consciousness doing something computation cannot. Target section: topics/. See optimistic-2026-03-17-evening.md
+- **Generated**: 2026-03-17
+
+### P3: Write article on the automation paradox — AI as real-time test of baseline cognition
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. As AI automates more cognitive tasks, the residual human contribution increasingly looks like consciousness-requiring capacities. Current AI achievements and failures provide a real-time empirical test of the baseline cognition hypothesis. Builds on baseline-cognition, consciousness-as-amplifier, consciousness-and-intelligence. Target section: topics/. See optimistic-2026-03-17-evening.md
+- **Generated**: 2026-03-17
+
+### P3: Create concept page for phenomenal forcing
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The quality of felt demand or necessity in conscious experience — present in mathematical insight, moral perception, aesthetic appreciation, and deliberation. Multiple articles describe this quality independently; a concept page would reveal the common structure and strengthen the case for consciousness as causally efficacious. Target section: concepts/. See optimistic-2026-03-17-evening.md
+- **Generated**: 2026-03-17
+
 ### P3: Write concept page — Observational Closure
 - **Type**: expand-topic
 - **Status**: pending
