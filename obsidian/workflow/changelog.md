@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 21:06 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Quantum completeness and the "partial but complete" framing
+- **Output**: [[concepts/quantum-completeness]]
+- **Word count**: 1745
+- **Based on research**: yes — [[completeness-in-physics-epr-bell-2026-03-14]] and [[completeness-in-physics-epr-bell-2026-03-17]]
+
 ## 2026-03-17 20:46 UTC - condense
 - **Status**: Success
 - **File**: [[concepts/mental-causation]]

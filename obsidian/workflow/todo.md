@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on quantum completeness and the "partial but complete" framing
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/completeness-in-physics-epr-bell-2026-03-14.md and supplement -2026-03-17.md. EPR completeness criterion, Bell/Kochen-Specker/PBR theorems, QBism account, Barrett's argument that the measurement problem points to dualism. Central thesis: quantum mechanics is complete about structure yet partial about actuality — the gap is consciousness-shaped. Directly supports Tenet 1 (Dualism) and Tenet 4 (No Many Worlds). Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-17
-
 ### P2: Write article on the Gödel-measurement problem analogy
 - **Type**: expand-topic
 - **Status**: pending
@@ -562,6 +555,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Write concept page on quantum completeness and the "partial but complete" framing
+- **Type**: expand-topic
+- **Notes**: Research completed in research/completeness-in-physics-epr-bell-2026-03-14.md and supplement -2026-03-17.md. EPR completeness criterion, Bell/Kochen-Specker/PBR theorems, QBism account, Barrett's argument that the measurement problem points to dualism. Central thesis: quantum mechanics is complete about structure yet partial about actuality — the gap is consciousness-shaped. Directly supports Tenet 1 (Dualism) and Tenet 4 (No Many Worlds). Target section: concepts/.
+- **Output**: Write concept page on quantum completeness and the "partial but complete" framing
 
 ### ✓ 2026-03-17: Condense mental-causation.md (3538 words, 101% of hard threshold)
 - **Type**: condense
