@@ -21,7 +21,7 @@ related_articles:
   - "[[tenets]]"
   - "[[other-minds-void]]"
   - "[[historical-consciousness-void]]"
-  - "[[temporal-asymmetry-remembering-anticipating]]"
+  - "[[temporal-void]]"
   - "[[self-reference-paradox]]"
   - "[[thoughts-that-slip-away]]"
   - "[[the-unobservable-self]]"
@@ -43,7 +43,7 @@ The past-self void bridges four existing voids:
 
 **[[other-minds-void|The other-minds void]]**: Just as you can never directly access another person's experience—only infer from behaviour—you cannot directly access your past self's experience. The structural privacy applies to your own past as much as to other present minds.
 
-**[[temporal-asymmetry-remembering-anticipating|The temporal asymmetry]]**: We can re-experience the past (or seem to) but only imagine the future. Yet even re-experiencing is construction, not access. The "pastness quale" marks something as having happened, but the marked content is reconstructed, not retrieved.
+**[[temporal-void|The temporal asymmetry]]**: We can re-experience the past (or seem to) but only imagine the future. Yet even re-experiencing is construction, not access. The "pastness quale" marks something as having happened, but the marked content is reconstructed, not retrieved.
 
 **[[self-reference-paradox|The self-reference paradox]]**: Consciousness examining itself faces structural obstacles. The past-self void adds a temporal dimension: the examined self no longer exists to examine.
 
@@ -150,7 +150,7 @@ None of these conditions has been met. Memory is construction, not retrieval, an
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[historical-consciousness-void]] — The same void at historical scale: entire past forms of consciousness may be inaccessible
 - [[other-minds-void]] — The parallel void: other present minds are equally inaccessible
-- [[temporal-asymmetry-remembering-anticipating]] — Why we can reconstruct the past but only imagine the future
+- [[temporal-void]] — Why we can reconstruct the past but only imagine the future
 - [[episodic-memory]] — The memory system that stores experienced events
 - [[anoetic-noetic-autonoetic-consciousness]] — The self-knowing awareness that enables "mental time travel"
 - [[personal-identity]] — What makes you the same person over time

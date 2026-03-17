@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-memory]]"
 concepts:
-  - "[[temporal-asymmetry-remembering-anticipating]]"
+  - "[[temporal-void]]"
   - "[[semantic-memory]]"
   - "[[implicit-memory]]"
   - "[[prospective-memory]]"
@@ -38,7 +38,7 @@ concepts:
   - "[[phenomenology-of-choice]]"
 related_articles:
   - "[[tenets]]"
-  - "[[temporal-asymmetry-remembering-anticipating]]"
+  - "[[temporal-void]]"
   - "[[episodic-memory-consciousness-2026-01-16]]"
   - "[[past-self-void]]"
   - "[[memory-void]]"
@@ -76,7 +76,7 @@ The concept of mental time travel captures what autonoetic consciousness enables
 
 Crucially, mental time travel works in both directions. Schacter and Addis (2007) proposed that episodic memory and [[prospective-memory|episodic future thinking]] share a common constructive system. The same core neural network—hippocampus, medial prefrontal cortex, posterior cingulate—activates for both remembering and imagining, though the hippocampus shows greater activation during future simulation, reflecting additional constructive demands.
 
-The bidirectionality is not symmetric. When you remember, you *re-experience*—the pastness quale marks genuine causal contact with what happened. When you imagine the future, you *construct*—there is no analogous "futuricity" quale marking contact with future reality. This [[temporal-asymmetry-remembering-anticipating|asymmetry]] is conceptually necessary: the pastness quale marks causal contact, since the remembered event shaped your brain, leaving traces that can be reactivated. Future events haven't caused anything yet.
+The bidirectionality is not symmetric. When you remember, you *re-experience*—the pastness quale marks genuine causal contact with what happened. When you imagine the future, you *construct*—there is no analogous "futuricity" quale marking contact with future reality. This [[temporal-void|asymmetry]] is conceptually necessary: the pastness quale marks causal contact, since the remembered event shaped your brain, leaving traces that can be reactivated. Future events haven't caused anything yet.
 
 ### Clinical Evidence
 
@@ -194,7 +194,7 @@ Episodic memory supports all five foundational commitments.
 
 ## Further Reading
 
-- [[temporal-asymmetry-remembering-anticipating]] — Why we can re-experience the past but only imagine the future
+- [[temporal-void]] — Why we can re-experience the past but only imagine the future
 - [[jourdain-hypothesis]] — The procedural/declarative distinction illuminating remember/know
 - [[baseline-cognition]] — Cognition without autonoetic metarepresentation
 - [[consciousness-as-amplifier]] — Working memory manipulation and consciousness

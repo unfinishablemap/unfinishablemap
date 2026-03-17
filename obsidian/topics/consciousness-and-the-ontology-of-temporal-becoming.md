@@ -36,7 +36,7 @@ related_articles:
   - "[[time-collapse-and-agency]]"
   - "[[bergson-and-duration]]"
   - "[[non-temporal-consciousness]]"
-  - "[[temporal-asymmetry-remembering-anticipating]]"
+  - "[[temporal-void]]"
   - "[[temporal-void]]"
   - "[[phenomenology-of-anticipation]]"
   - "[[phenomenology-of-memory-and-the-self]]"
@@ -150,7 +150,7 @@ Whitehead's [[process-philosophy|process metaphysics]] provides a framework wher
 - [[growing-block-universe-and-consciousness]] — The growing block as temporal metaphysics for consciousness
 - [[time-collapse-and-agency]] — Collapse, free will, and time's arrow
 - [[bergson-and-duration]] — Durée as irreducible temporal phenomenology
-- [[temporal-asymmetry-remembering-anticipating]] — The specific void of memory versus anticipation
+- [[temporal-void]] — The specific void of memory versus anticipation
 - [[temporal-void]] — Why consciousness cannot escape the present
 - [[non-temporal-consciousness]] — Whether the deepest level of mind transcends time
 - [[collapse-and-time]] — How collapse introduces irreversibility

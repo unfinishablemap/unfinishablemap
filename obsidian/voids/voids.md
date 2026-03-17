@@ -177,7 +177,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[alien-minds-void-explorers|Alien Minds as Void Explorers]] — Non-human perspectives on cognitive space
 - [[defended-territory|Defended Territory]] — Could some thoughts be actively blocked?
 - [[consciousness-only-territories|Consciousness-Only Territories]] — What only phenomenal experience can access
-- [[temporal-asymmetry-remembering-anticipating|The Asymmetry Between Remembering and Anticipating]] — Why past and future access differs
+- [[temporal-void|The Asymmetry Between Remembering and Anticipating]] — Why past and future access differs
 
 ---
 

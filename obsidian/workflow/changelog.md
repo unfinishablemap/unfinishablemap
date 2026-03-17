@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 02:30 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/attention-and-the-consciousness-interface]]
+- **Word count**: 4397 → 3998 (-399)
+- **Critical issues addressed**: 2 (stale wikilinks to archived concepts, hard length warning)
+- **Medium issues addressed**: 3 (oversized Further Reading, research notes in frontmatter, prose redundancy)
+- **Enhancements made**: 5 (prose tightening, frontmatter cleanup, Further Reading trimmed, subsection condensation, Orch OR restraint)
+- **Additional**: Fixed 8 files with stale temporal-asymmetry-remembering-anticipating wikilinks (coalesced → temporal-void)
+- **Output**: [[reviews/deep-review-2026-03-17-attention-and-the-consciousness-interface]]
+
 ## 2026-03-17 02:17 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[attention-as-selection-interface]], [[attention-consciousness-dissociation]], [[attention-schema-theory-critique]], [[attention-disorders-and-quantum-interface]]

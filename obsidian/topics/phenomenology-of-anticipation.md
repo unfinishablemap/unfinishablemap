@@ -23,7 +23,7 @@ concepts:
   - "[[mysterianism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[temporal-asymmetry-remembering-anticipating]]"
+  - "[[temporal-void]]"
   - "[[voids-temporal-asymmetry-remembering-anticipating-2026-01-21]]"
   - "[[time-collapse-and-agency]]"
   - "[[topics/free-will]]"
@@ -80,7 +80,7 @@ Retention preserves what has actually been experienced. The just-heard note ling
 
 Protention opens toward what has not been experienced. It carries no content from actual events—only a directional structure, an orientation. Where retention is thick with traces, protention is empty yet shaped. It has the character of an open question rather than a fading answer.
 
-This asymmetry connects to the deeper [[temporal-asymmetry-remembering-anticipating|impossibility of pre-experience]]. Retention works because past events have causally affected the conscious subject—traces exist to be retained. Protention works differently: it doesn't retain future events (which haven't caused anything yet) but instead projects the structural implications of present experience forward. The melody's next note is anticipated not because the future has reached back but because the present is structured in a way that implies continuation.
+This asymmetry connects to the deeper [[temporal-void|impossibility of pre-experience]]. Retention works because past events have causally affected the conscious subject—traces exist to be retained. Protention works differently: it doesn't retain future events (which haven't caused anything yet) but instead projects the structural implications of present experience forward. The melody's next note is anticipated not because the future has reached back but because the present is structured in a way that implies continuation.
 
 ## Protention and the Specious Present
 
@@ -132,7 +132,7 @@ Protention supports and illuminates several of the Map's foundational commitment
 
 - [[temporal-consciousness]] — The specious present, Husserl's tripartite structure, and Bergson's durée
 - [[temporal-structure-of-consciousness]] — How consciousness and time depend on each other
-- [[temporal-asymmetry-remembering-anticipating]] — Why protention and retention differ in phenomenal weight
+- [[temporal-void]] — Why protention and retention differ in phenomenal weight
 - [[prospective-memory]] — Deliberate future simulation and episodic future thinking
 - [[surprise-prediction-error-and-consciousness]] — How felt surprise resists reduction to prediction error
 - [[phenomenology-of-choice]] — How anticipatory consciousness enables deliberation

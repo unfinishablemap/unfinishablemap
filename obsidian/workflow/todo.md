@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced temporal-asymmetry article
-- **Type**: cross-review
-- **Notes**: Coalesce merged temporal-asymmetry-remembering-anticipating into temporal-void. The following active files reference the archived article and may need wikilink updates: consciousness-and-the-ontology-of-temporal-becoming, phenomenology-of-anticipation, prospective-memory, temporal-consciousness, voids-memory-void research, past-self-void, episodic-memory, memory-void, voids index, and several other research/review files.
-- **Source**: coalesce
-- **Generated**: 2026-03-17
-
 ### P2: Research the Gödel-measurement problem analogy — scope and limits
 - **Type**: research-topic
 - **Notes**: The apex draws an analogy between Gödel incompleteness and the measurement problem. Needs rigorous treatment: (1) Penrose's use of Gödel in Shadows of the Mind. (2) Lucas-Penrose argument and critics (Putnam, Feferman, Shapiro). (3) Precise scope: formal incompleteness involves self-reference; does the measurement problem? (4) Chaitin's incompleteness via algorithmic randomness. (5) Where the analogy breaks: Gödel is about provability; measurement problem is about determinism. Genuinely analogous or superficially similar? (6) Yanofsky's "Outer Limits of Reason" on structural limits across domains. Target: research note.
@@ -635,6 +629,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-17: Update references to coalesced temporal-asymmetry article
+- **Type**: cross-review
+- **Notes**: Coalesce merged temporal-asymmetry-remembering-anticipating into temporal-void. The following active files reference the archived article and may need wikilink updates: consciousness-and-the-ontology-of-temporal-becoming, phenomenology-of-anticipation, prospective-memory, temporal-consciousness, voids-memory-void research, past-self-void, episodic-memory, memory-void, voids index, and several other research/review files.
+- **Output**: None -- Context: Update references to coalesced temporal-asymmetry article
 
 ### ✓ 2026-03-17: Coalesce attention/interface articles in topics/ (4 articles → 1-2)
 - **Type**: coalesce

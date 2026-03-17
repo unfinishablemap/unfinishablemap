@@ -53,7 +53,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[temporal-structure-consciousness-2026-01-14]]"
-  - "[[temporal-asymmetry-remembering-anticipating]]"
+  - "[[temporal-void]]"
   - "[[specious-present-temporal-experience-2026-01-16]]"
   - "[[consciousness-working-memory-2026-01-17]]"
   - "[[consciousness-time-perception-2026-01-14]]"
@@ -139,7 +139,7 @@ Temporal perception is distributed and multi-scale: the SMA, prefrontal cortex, 
 
 ## Mental Time Travel and the Extended Self
 
-[[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]] extends temporal phenomenology beyond the specious present. Memory carries a "feeling of pastness"—a genuine temporal quale—while future simulation lacks equivalent phenomenal weight. This [[temporal-asymmetry-remembering-anticipating|asymmetry]] may be conceptually necessary, since pre-experience would require the pastness quale applied to something that hasn't happened. [[prospective-memory|Prospective memory]] extends this into the future—conscious simulation of possible futures causally shapes present decisions, supporting [[tenets#^bidirectional-interaction|Bidirectional Interaction]].
+[[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]] extends temporal phenomenology beyond the specious present. Memory carries a "feeling of pastness"—a genuine temporal quale—while future simulation lacks equivalent phenomenal weight. This [[temporal-void|asymmetry]] may be conceptually necessary, since pre-experience would require the pastness quale applied to something that hasn't happened. [[prospective-memory|Prospective memory]] extends this into the future—conscious simulation of possible futures causally shapes present decisions, supporting [[tenets#^bidirectional-interaction|Bidirectional Interaction]].
 
 ## Temporal Unity and Its Disruption
 

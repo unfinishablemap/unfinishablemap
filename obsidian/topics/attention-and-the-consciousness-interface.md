@@ -4,7 +4,7 @@ description: "A comprehensive treatment of attention as consciousness's interfac
 created: 2026-02-01
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T02:17:00+00:00
+ai_modified: 2026-03-17T02:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,15 +12,14 @@ topics:
   - "[[ai-consciousness]]"
 concepts:
   - "[[attention-as-interface]]"
-  - "[[attention-motor-quantum-interface]]"
   - "[[motor-selection]]"
   - "[[stapp-quantum-mind]]"
-  - "[[dopamine-selection-interface]]"
+  - "[[dopamine-and-the-unified-interface]]"
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
   - "[[decoherence]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
-  - "[[psychophysical-coupling]]"
+  - "[[psychophysical-laws]]"
   - "[[interactionist-dualism]]"
   - "[[agent-causation]]"
   - "[[concepts/functionalism]]"
@@ -35,12 +34,6 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[bandwidth-of-consciousness]]"
-  - "[[attention-as-interface-hypothesis-2026-01-16]]"
-  - "[[attention-motor-planning-quantum-interface-2026-01-23]]"
-  - "[[attention-consciousness-mechanisms-2026-01-15]]"
-  - "[[dopamine-attention-motor-quantum-interface-2026-01-24]]"
-  - "[[motor-control-quantum-zeno-2026-01-18]]"
-  - "[[attention-consciousness-relationship-2026-01-15]]"
   - "[[neurological-dissociations-as-interface-architecture]]"
   - "[[attention-as-causal-bridge]]"
   - "[[attention-disorders-and-consciousness]]"
@@ -50,7 +43,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-17T02:30:00+00:00
 coalesced_from:
   - "/topics/attention-as-selection-interface/"
   - "/topics/attention-consciousness-dissociation/"
@@ -64,16 +57,14 @@ Attention and motor planning share neural substrates. The premotor theory of att
 
 ### Rizzolatti's Premotor Theory
 
-Giacomo Rizzolatti's premotor theory of attention (PMTA) challenges the assumption that attention and motor control are distinct systems. Selective attention and movement planning use the same neural substrates—there is no independent attention system.
-
-The evidence is substantial:
+Giacomo Rizzolatti's premotor theory of attention (PMTA) challenges the assumption that attention and motor control are distinct systems. Selective attention and movement planning use the same neural substrates—there is no independent attention system. The evidence is substantial:
 
 - The same fronto-parietal networks activate during spatial attention shifts and motor preparation
 - Preparing an eye movement to a location improves visual processing there—attention is the motor preparation
 - Microstimulation of motor regions enhances visual processing at the target location
 - Attempts to identify attention regions independent of motor planning consistently fail
 
-The strong form of PMTA remains debated, but shared circuitry between attention and motor preparation is robust. Wise and Murray (2022) extended this, arguing "the entirety of the prefrontal cortex can be seen as fundamentally premotor in nature." What appears to be "executive function" is motor preparation at varying levels of abstraction—from concrete commands to "what should I think about?"
+The strong form of PMTA remains debated, but shared circuitry is robust. Wise and Murray (2022) extended this, arguing "the entirety of the prefrontal cortex can be seen as fundamentally premotor in nature." What appears to be "executive function" is motor preparation at varying levels of abstraction—from concrete commands to "what should I think about?"
 
 ### Shared Neural Signatures
 
@@ -99,7 +90,7 @@ Under the Map's framework, consciousness doesn't passively receive perceptual in
 
 The brain doesn't compute single decisions serially. Paul Cisek's research demonstrates that when faced with choices, the motor system represents multiple options simultaneously. In premotor cortex, 43% of task-related neurons fired for either of two potential reach targets—encoding both before selection occurred.
 
-Neural competition resolves through threshold crossing. Competing representations accumulate support until one reaches threshold, triggering winner-take-all dynamics. The basal ganglia tonically inhibit motor programs; selection means releasing the brake on one option while maintaining inhibition on competitors.
+Neural competition resolves through threshold crossing. Competing representations accumulate support until one reaches threshold, triggering winner-take-all dynamics. The basal ganglia tonically inhibit motor programs; selection means releasing the brake on one option while maintaining inhibition on others.
 
 Either the competition is deterministic—one option was always going to win—or it involves genuine indeterminacy. The [[trilemma-of-selection|trilemma of selection]] makes this exhaustive: determinism, randomness, or mental causation—only the third preserves authorship. The Map proposes consciousness fills this role—biasing which option wins at the threshold crossing moment. This satisfies the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: the smallest possible influence at the point of genuine indeterminacy.
 
@@ -130,15 +121,13 @@ If consciousness were identical to attention, the dissociation cases would be in
 
 ### Why This Dissociation Is Different
 
-Double dissociation is the standard tool for identifying distinct physical processes. Face recognition and object recognition dissociate; working memory and long-term memory dissociate. In every other case, both sides of the dissociation are third-person observable processes. The consciousness-attention case differs because one side—phenomenal experience—resists third-person characterisation entirely. This asymmetry is what the [[hard-problem-of-consciousness|hard problem]] identifies.
+Double dissociation normally identifies distinct physical processes—face recognition and object recognition dissociate, working memory and long-term memory dissociate. In every other case, both sides are third-person observable. The consciousness-attention case differs because one side—phenomenal experience—resists third-person characterisation entirely. This asymmetry is what the [[hard-problem-of-consciousness|hard problem]] identifies.
 
-When attention operates without consciousness (blindsight), the puzzle is not just "two circuits are separate"—it is that the circuit associated with phenomenal experience can go silent while information processing continues. The dissociation evidence is more constraining for theories of consciousness than for theories of face recognition, precisely because the hard problem makes the explanatory gap qualitatively different.
+When attention operates without consciousness (blindsight), the puzzle is not just "two circuits are separate"—phenomenal experience can go silent while information processing continues. The dissociation evidence is more constraining for theories of consciousness than for other cognitive dissociations, precisely because the hard problem makes the explanatory gap qualitatively different.
 
 ### The Overflow Debate
 
-Ned Block's overflow argument provides the most contested case. In iconic memory experiments, subjects briefly see arrays of 12 letters and report seeing all of them clearly, but can only name 3-4. Block's interpretation: all 12 were phenomenally conscious (P-consciousness), but only 3-4 were cognitively accessed (A-consciousness). If attention is what makes content accessible, consciousness overflows what attention captures.
-
-If Block is right, consciousness has a scope exceeding any functional mechanism—creating severe problems for [[concepts/functionalism|functionalist]] theories. If Block is wrong, the "seeming" of rich experience still requires explanation. Kim and Chong (2024) propose visual experience is "not rich, but not sparse"—intermediate between positions. The question remains open.
+Ned Block's overflow argument provides the most contested case. In iconic memory experiments, subjects briefly see arrays of 12 letters and report seeing all clearly, but can only name 3-4. Block's interpretation: all 12 were phenomenally conscious (P-consciousness), but only 3-4 were cognitively accessed (A-consciousness). If consciousness overflows what attention captures, its scope exceeds any functional mechanism—creating severe problems for [[concepts/functionalism|functionalist]] theories. Kim and Chong (2024) propose visual experience is "not rich, but not sparse." The question remains open.
 
 ### Constraints on Theory
 
@@ -182,15 +171,15 @@ Research distinguishes willed, instructed, and exogenous attention. Willed atten
 
 ### What AST Gets Right
 
-Attention schemas probably exist—the brain plausibly maintains simplified models of attention for control purposes. AST correctly identifies the intimate connection between attention and consciousness, and it explains access consciousness well: why we report experiences, why we can introspect on attention. The failure is in the jump from access to phenomenal consciousness. AST explains the functional role of consciousness in cognition without explaining why there is something it is like to occupy that functional role.
+Attention schemas probably exist, and AST correctly identifies the intimate link between attention and consciousness. It explains access consciousness well—why we report experiences, why we can introspect. The failure is in the jump from access to phenomenal consciousness: AST explains the functional role without explaining why there is something it is like to occupy that role.
 
 ## Clinical Evidence: What Disorders Reveal
 
-If attention serves as consciousness's interface, attention disorders should reveal something about that interface. They do. ADHD, attention fatigue, and meditation difficulties each illuminate different interface components. Rather than undermining the interface hypothesis, these conditions show what happens when specific components are compromised.
+If attention serves as consciousness's interface, attention disorders should reveal something about that interface. ADHD, attention fatigue, and meditation difficulties each illuminate different interface components—showing what happens when specific components are compromised.
 
 ### ADHD: Threshold Dysregulation
 
-ADHD is strongly associated with dopamine system dysfunction. The most effective treatments—stimulant medications—increase dopamine availability, which modulates decision thresholds rather than generating motor capacity directly.
+ADHD is strongly associated with dopamine dysfunction. The most effective treatments—stimulants—increase dopamine availability, modulating decision thresholds rather than generating motor capacity.
 
 ADHD doesn't eliminate attention; it disrupts *voluntary* attention while leaving *captured* attention intact or enhanced:
 
@@ -204,13 +193,7 @@ People with ADHD report normal subjective experience—consciousness remains. Th
 
 ### Attention Fatigue: Resource Depletion
 
-Sustained attention depletes. The [[mental-effort|phenomenology of effort]] intensifies with fatigue: maintaining the same level of focus requires subjectively more effort as time passes. Several features are informative:
-
-- **Recovery requires time, not just rest.** Sleep restores attentional capacity more effectively than passive waking rest.
-- **Motivation can temporarily override fatigue.** Sufficiently high stakes can restore attention even when fatigued—the resource isn't absolutely exhausted but is being rationed.
-- **The fatigue curve is predictable.** Computers don't experience fatigue from sustained processing. The biological character of attention fatigue suggests dependence on physical mechanisms with real costs.
-
-Attention fatigue suggests the consciousness-brain interface has biological costs. The Map doesn't claim consciousness *is* physical—but it does claim consciousness acts *through* physical mechanisms that require maintenance.
+Sustained attention depletes. The [[mental-effort|phenomenology of effort]] intensifies with fatigue, and recovery requires sleep rather than passive rest. Motivation can temporarily override fatigue—the resource is rationed, not absolutely exhausted. Computers don't fatigue from sustained processing; the biological character of attention fatigue suggests dependence on physical mechanisms with real costs. The Map doesn't claim consciousness *is* physical—but it does claim consciousness acts *through* physical mechanisms that require maintenance.
 
 ### OCD: Schwartz's Evidence
 
@@ -220,31 +203,31 @@ Schwartz explicitly interprets this as evidence for the quantum Zeno mechanism: 
 
 ### Meditation: Training the Interface
 
-Beginning meditators report enormous difficulty sustaining attention on even simple objects. With practice, sustained attention duration increases, meta-awareness improves, recovery from distraction accelerates, and effort requirements decrease. Long-term meditators show structural and functional differences in attention networks, consistent with Schwartz's evidence that directed attention produces lasting brain changes.
+Beginning meditators report enormous difficulty sustaining attention on even simple objects. With practice, sustained attention duration increases, meta-awareness improves, and effort requirements decrease. Long-term meditators show structural and functional differences in attention networks, consistent with Schwartz's evidence that directed attention produces lasting brain changes.
 
 Some contemplative traditions report [[witness-consciousness]]—awareness that observes mental contents without identifying with them. If AST were correct, intensive practice should reveal the schematic nature of consciousness. Instead, practice typically deepens the sense that awareness itself is prior to its contents. This poses a challenge for eliminativist accounts while fitting naturally with the interface model: consciousness disengages from active selection while maintaining awareness.
 
 ## What Effort Tells Us
 
-Sustaining voluntary attention feels effortful. Sustaining motor intention feels effortful in the same way. This is [[phenomenal-attention]]—the felt experience of attending, distinct from the computational resource allocation that brains and machines both perform. If the phenomenology tracks nothing real—if effort is epiphenomenal—its systematic correlation with task difficulty is unexplained.
+Sustaining voluntary attention feels effortful. Sustaining motor intention feels effortful in the same way. This is [[phenomenal-attention]]—the felt experience of attending, distinct from computational resource allocation. If the phenomenology tracks nothing real—if effort is epiphenomenal—its systematic correlation with task difficulty is unexplained.
 
-If consciousness contributes to selection, the correlation has a natural explanation: more difficult selections require greater conscious engagement to stabilise the desired pattern against competing alternatives. William James observed that "volition is nothing but attention" and "the free will question relates solely to the amount of effort of attention." The convergence vindicates James: if attention and motor selection share a mechanism, then the felt effort of choosing what to do and the felt effort of choosing what to attend to have the same source.
+If consciousness contributes to selection, the correlation has a natural explanation: harder selections require greater conscious engagement. William James observed that "volition is nothing but attention" and "the free will question relates solely to the amount of effort of attention." The convergence vindicates James: if attention and motor selection share a mechanism, the felt effort of choosing what to do and choosing what to attend to have the same source.
 
 ## The Libet Challenge Dissolved
 
-Benjamin Libet's 1983 experiments appeared to show the brain "decides" before consciousness knows. Schurger's 2012 stochastic accumulator model reinterprets the readiness potential as averaged neural noise, not unconscious decision. Sjöberg (2024) provides surgical evidence: patients with the supplementary motor area resected retain the subjective sense of willing while losing voluntary movement execution. If the readiness potential reflected the *conscious decision* to act, removing its source should impair the experience of willing. It does not.
+Benjamin Libet's 1983 experiments appeared to show the brain "decides" before consciousness knows. Schurger's 2012 stochastic accumulator model reinterprets the readiness potential as averaged neural noise, not unconscious decision. Sjöberg (2024) provides surgical evidence: patients with the supplementary motor area resected retain the subjective sense of willing while losing voluntary movement execution—if the readiness potential reflected the *conscious decision* to act, removing its source should impair the experience of willing.
 
 On the convergence model, consciousness contributes selection, not initiation from nothing. Neural computation generates options and builds them toward threshold. Consciousness biases which option crosses first—at the commitment point approximately 280ms before movement.
 
 ## Candidate Neural Sites
 
-Research identifies several loci where consciousness might bias outcomes. The Map doesn't commit to a specific mechanism—what matters is the framework: consciousness acts through attention at sites where quantum indeterminacy leaves room.
+Research identifies several loci where consciousness might bias outcomes. The Map doesn't commit to a specific mechanism—what matters is that consciousness acts through attention at sites where quantum indeterminacy leaves room.
 
-**Ion channels (Stapp):** Henry Stapp proposes consciousness interfaces at ion channels in synaptic walls. At their narrowest points (<1 nanometre), the quantum uncertainty principle governs ion behaviour. Mental effort acts as rapid observation, holding desired neural patterns stable through the quantum Zeno effect. Evidence includes Schwartz's OCD research showing directed attention produces measurable brain changes. Challenges include Georgiev's Monte Carlo simulations suggesting Zeno effect breakdown.
+**Ion channels (Stapp):** Henry Stapp proposes consciousness interfaces at ion channels in synaptic walls, where quantum uncertainty governs ion behaviour at sub-nanometre scales. Mental effort holds desired neural patterns stable through the quantum Zeno effect—supported by Schwartz's OCD research, though challenged by Georgiev's simulations suggesting Zeno effect breakdown.
 
-**Microtubules (Orch OR):** The Penrose-Hameroff hypothesis locates quantum effects in microtubules. A 2025 study found room-temperature quantum effects in microtubules, and coherence time estimates have been revised upward. Challenges remain: even revised estimates are controversial, and the gravitational self-reduction mechanism is untested.
+**Microtubules (Orch OR):** The Penrose-Hameroff hypothesis locates quantum effects in microtubules, with 2025 evidence of room-temperature quantum effects. Challenges remain: coherence time estimates are controversial and the gravitational self-reduction mechanism is untested.
 
-**The posterior-frontal junction:** The 2025 COGITATE testing found conscious content tracked with posterior cortex (the "hot zone") while attention control operates through frontoparietal networks. Selection might occur where these systems meet.
+**The posterior-frontal junction:** The 2025 COGITATE results found conscious content tracked with posterior cortex while attention control operates through frontoparietal networks. Selection might occur where these systems meet.
 
 ### The Bandwidth Constraint
 
@@ -256,13 +239,11 @@ The interface hypothesis generates empirical predictions:
 
 **Quantum coherence at selection sites.** Regions where willed attention shows distinctive signatures should show quantum effects absent in automatic processing.
 
-**Effort correlates with pattern persistence.** Higher attentional effort should produce longer neural pattern maintenance—measurable through EEG/MEG pattern stability as a function of reported effort.
+**Effort correlates with pattern persistence.** Higher attentional effort should produce longer neural pattern maintenance, measurable through EEG/MEG pattern stability as a function of reported effort.
 
-**Attention disruption eliminates selection.** Agents that disrupt attention (without eliminating consciousness) should eliminate conscious influence on outcomes.
+**Differential neuroplasticity.** Effortful attention should produce different neuroplastic outcomes than passive observation—as Schwartz's OCD research already suggests.
 
-**Differential neuroplasticity.** Effortful attention should produce different neuroplastic outcomes than passive observation of the same neural patterns. Schwartz's OCD research supports this—directed attention produces brain changes that passive processing doesn't.
-
-**Interface dysfunction predicts selective impairment.** Disorders affecting different interface components (dopamine modulation, resource availability, control capacity) should produce distinct impairment profiles—as ADHD, fatigue, and depression empirically demonstrate.
+**Interface dysfunction predicts selective impairment.** Disorders affecting different interface components should produce distinct impairment profiles—as ADHD, fatigue, and depression empirically demonstrate.
 
 ## What Would Falsify the Hypothesis?
 
@@ -278,19 +259,15 @@ The framework would face serious challenge if:
 
 ### Dualism
 
-The convergence supports the [[tenets#^dualism|Dualism]] tenet through multiple channels. Phenomenologically: both attention and motor selection feel like *you* doing something. Neurally: parietal intention dissociates from premotor execution, indicating what initiates selection is not identical to the execution machinery. The dissociation evidence reinforces this: if consciousness *were* any functional mechanism, it couldn't dissociate from that mechanism's operation. Clinical evidence adds further weight: people with attention disorders don't report diminished consciousness—they report difficulty directing it.
+The convergence supports the [[tenets#^dualism|Dualism]] tenet through multiple channels. Phenomenologically: both attention and motor selection feel like *you* doing something. Neurally: parietal intention dissociates from premotor execution, indicating what initiates selection is not identical to the execution machinery. The dissociation evidence reinforces this: if consciousness *were* any functional mechanism, it couldn't dissociate from that mechanism's operation. People with attention disorders don't report diminished consciousness—they report difficulty directing it.
 
 ### Minimal Quantum Interaction
 
-The selection architecture satisfies [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] precisely. Consciousness neither generates motor force nor creates options—the brain handles both. What consciousness contributes is bias at the moment of resolution: tilting indeterminate outcomes at sites where physics leaves room. Conservation laws are preserved because the energy for any selected action comes from ordinary metabolic processes. Even when the interface malfunctions (ADHD, fatigue), consciousness doesn't inject energy—threshold dysregulation and resource depletion are physical phenomena.
+The selection architecture satisfies [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] precisely. Consciousness neither generates motor force nor creates options—the brain handles both. What consciousness contributes is bias at the moment of resolution: tilting indeterminate outcomes at sites where physics leaves room. Conservation laws are preserved because energy for any selected action comes from ordinary metabolic processes.
 
 ### Bidirectional Interaction
 
-The interface hypothesis *is* the specification of how [[tenets#^bidirectional-interaction|bidirectional interaction]] works mechanistically:
-- **Consciousness → Brain**: Through selection among competing neural options
-- **Brain → Consciousness**: Through presentation of options to select among
-
-Schwartz's OCD evidence directly supports this: directed attention produces brain changes that passive processing does not. If consciousness were epiphenomenal, directed attention couldn't produce differential neuroplastic outcomes. The epiphenomenalist must explain why evolution built a unified attention-motor system with distinctive "willed" signatures that does nothing.
+The interface hypothesis specifies how [[tenets#^bidirectional-interaction|bidirectional interaction]] works mechanistically: consciousness selects among competing neural options (mind → brain), while the brain presents options to select among (brain → mind). Schwartz's OCD evidence directly supports this: directed attention produces brain changes that passive processing does not. The epiphenomenalist must explain why evolution built a unified attention-motor system with distinctive "willed" signatures that does nothing.
 
 ### No Many Worlds
 
@@ -298,44 +275,35 @@ Under [[tenets#^no-many-worlds|many-worlds]], all competing motor programs execu
 
 ### Occam's Razor Has Limits
 
-The 2025 adversarial testing found neither Global Workspace Theory nor Integrated Information Theory fully explains consciousness. AST explains reports about consciousness but not consciousness itself. The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies: apparent simplicity may reflect incomplete understanding rather than genuine parsimony. Eliminating the explanandum isn't explaining it.
+The 2025 adversarial testing found neither GWT nor IIT fully explains consciousness. AST explains reports about consciousness but not consciousness itself. The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies: eliminating the explanandum isn't explaining it.
 
 ## Honest Limitations
 
 The convergence argument identifies *where* consciousness might influence brain states and *when* selection occurs. It does not explain *how* a non-physical consciousness biases physical outcomes. The psychophysical interface is located, not illuminated.
 
-The quantum Zeno mechanism remains contested. Decoherence objections, while weakened by revised estimates and biological quantum effects research, have not been definitively answered. The convergence of attention and motor planning is well-established neuroscience; the extension to quantum selection is philosophical interpretation of that neuroscience.
+The quantum Zeno mechanism remains contested. Decoherence objections, while weakened by revised estimates, have not been definitively answered. The convergence of attention and motor planning is well-established neuroscience; the extension to quantum selection is the Map's philosophical interpretation.
 
-Attention disorders are consistent with the interface model but also consistent with purely computational accounts. The Map's distinctive contribution lies not in predicting disorders but in interpreting them as interface dysfunction rather than consciousness dysfunction. A deeper epistemological problem lurks: the [[attention-disorders-and-consciousness|void at the heart of attention disorders]] is that we cannot determine, from inside an attention disorder, whether consciousness is unchanged behind a degraded interface or is itself altered in ways the degraded interface prevents us from recognising.
+Attention disorders are consistent with the interface model but also with purely computational accounts. A deeper epistemological problem lurks: the [[attention-disorders-and-consciousness|void at the heart of attention disorders]] is that we cannot determine whether consciousness is unchanged behind a degraded interface or is itself altered in ways the degraded interface prevents us from recognising.
 
 The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengson, Schurger, Schwartz, Graziano—who would not all endorse the dualist framework applied to their work. The empirical convergence is their discovery; the philosophical interpretation is the Map's.
 
 ## Further Reading
 
 - [[attention-as-interface]] — The interface hypothesis stated and developed
-- [[attention-motor-quantum-interface]] — Detailed concept treatment of the unified interface
 - [[motor-selection]] — Motor selection and premotor theory in depth
 - [[bandwidth-of-consciousness]] — The 100-million-fold inbound/outbound bandwidth asymmetry
 - [[structure-of-attention]] — Willed, instructed, and exogenous attention
-- [[phenomenal-attention]] — The felt experience of attending, distinct from computational attention
+- [[phenomenal-attention]] — The felt experience of attending
 - [[dopamine-and-the-unified-interface]] — Dopamine's dual role in attention and motor planning
 - [[stapp-quantum-mind]] — Stapp's quantum Zeno mechanism
-- [[quantum-consciousness]] — Overview of quantum approaches
-- [[decoherence]] — The decoherence objection and responses
 - [[mental-effort]] — Phenomenology of attentional effort
-- [[psychophysical-coupling]] — Constraints on what consciousness can influence
 - [[topics/free-will]] — How timing constraints relate to libertarian free will
-- [[agent-causation]] — The selection model as agent causation
 - [[libet-experiments]] — Detailed analysis of readiness potential experiments
 - [[attention-schema-theory]] — Graziano's theory introduced
-- [[illusionism]] — The philosophical framework AST instantiates
-- [[witness-consciousness]] — Contemplative evidence challenging AST
 - [[hard-problem-of-consciousness]] — What AST claims to dissolve
-- [[haecceity]] — The indexical identity problem AST cannot address
 - [[neurological-dissociations-as-interface-architecture]] — How dissociations reveal interface architecture
 - [[attention-as-causal-bridge]] — Apex synthesis: attention as the bridge between consciousness and matter
 - [[attention-disorders-and-consciousness]] — The epistemological void of attention disorders
-- [[concepts/consciousness-selecting-neural-patterns]] — How consciousness might select among neural options
 
 ## References
 

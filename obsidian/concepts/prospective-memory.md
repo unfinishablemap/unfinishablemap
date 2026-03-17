@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[temporal-consciousness]]"
-  - "[[temporal-asymmetry-remembering-anticipating]]"
+  - "[[temporal-void]]"
   - "[[working-memory]]"
   - "[[agent-causation]]"
   - "[[episodic-memory]]"
@@ -29,7 +29,7 @@ concepts:
   - "[[intentionality]]"
 related_articles:
   - "[[tenets]]"
-  - "[[temporal-asymmetry-remembering-anticipating]]"
+  - "[[temporal-void]]"
   - "[[prospective-memory-consciousness-2026-01-17]]"
   - "[[topics/phenomenology-of-anticipation]]"
   - "[[topics/diachronic-agency-and-personal-narrative]]"
@@ -85,7 +85,7 @@ Futuricity differs from pastness: memories represent what happened; future simul
 
 ### The Impossibility of Anticipatory Qualia
 
-The [[temporal-asymmetry-remembering-anticipating|asymmetry between remembering and anticipating]] runs deeper than phenomenological difference—it may mark a conceptual impossibility. The pastness quale tracks *causal contact*: when you remember your wedding, the feeling of having-been-there arises because that event actually caused your present brain states. The future, having caused nothing yet, leaves no traces to contact.
+The [[temporal-void|asymmetry between remembering and anticipating]] runs deeper than phenomenological difference—it may mark a conceptual impossibility. The pastness quale tracks *causal contact*: when you remember your wedding, the feeling of having-been-there arises because that event actually caused your present brain states. The future, having caused nothing yet, leaves no traces to contact.
 
 This explains why the "pop" of prospective retrieval differs from episodic re-experiencing. When "buy milk" surfaces as you pass the shop, you don't *re-experience* forming that plan—it's reminding, not reliving.
 
@@ -171,7 +171,7 @@ Prospective memory and future-oriented consciousness support all five foundation
 
 ## Further Reading
 
-- [[temporal-asymmetry-remembering-anticipating]] — The void at the boundary between memory and anticipation
+- [[temporal-void]] — The void at the boundary between memory and anticipation
 - [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel in both directions
 - [[episodic-memory]] — Pastward mental time travel and the pastness quale
 - [[working-memory]] — The cognitive workspace for future simulation
