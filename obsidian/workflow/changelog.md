@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 20:46 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/mental-causation]]
+- **Before**: 3538 words
+- **After**: 2264 words
+- **Reduction**: 36%
+- **Technique**: Cut redundancy (merged overdetermination into Kim's section), trimmed delegatory dualism and specification challenge (defer to linked articles), compressed illusionist response and process philosophy, tightened falsifiability section, pruned further reading descriptions
+
 ## 2026-03-17 20:29 UTC - deep-review (orphan integration)
 - **Status**: Success
 - **File**: [[topics/ethics-of-possible-ai-consciousness]]
