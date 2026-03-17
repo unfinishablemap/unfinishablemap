@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 19:01 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/calibration-void]], [[voids/quantification-void]]
+- **Target**: [[voids/measurement-void]]
+- **Archived**: [[archive/voids/calibration-void]], [[archive/voids/quantification-void]]
+- **References to review**: ~15 active content files
+
 ## 2026-03-17 18:44 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Reconstruction Paradox

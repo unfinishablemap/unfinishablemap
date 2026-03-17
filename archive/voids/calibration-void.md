@@ -31,6 +31,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-25
 last_curated:
+archived: true
+archived_date: 2026-03-17T19:01:00+00:00
+superseded_by: "/voids/measurement-void/"
+archive_reason: "Coalesced into The Measurement Void"
+original_path: "/voids/calibration-void/"
 ---
 
 Every scientific instrument requires calibration against a known standard. A thermometer is checked against the freezing point of water. A clock is synchronised to an atomic reference. But introspection—the only instrument that detects consciousness directly—cannot be calibrated. There is no independent standard of phenomenal accuracy. No reference experience against which to verify that what introspection reports matches what consciousness actually contains. This structural gap is the calibration void: the point where consciousness studies rests on an instrument whose fidelity cannot be assessed.

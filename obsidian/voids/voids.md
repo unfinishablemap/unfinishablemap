@@ -98,7 +98,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[observation-void|The Observation Void]] — Every method of studying consciousness transforms what it studies
 - [[binding-void|The Binding Void]] — Why unified experience from disparate sensations resists explanation
 - [[substrate-void|The Substrate Void]] — What consciousness is made of, when every answer collapses into negation or circularity
-- [[calibration-void|The Calibration Void]] — Why introspection cannot be verified against any independent standard of phenomenal accuracy
+- [[measurement-void|The Measurement Void]] — Why consciousness resists measurement at every level—no units, no instruments, no calibration standards
 - [[simulation-detection-void|The Simulation Detection Void]] — Why embedded observers cannot determine whether their reality is simulated
 - [[acquaintance-void|The Acquaintance Void]] — Modes of direct phenomenal contact structurally inaccessible to minds like ours
 - [[minimal-consciousness-void|The Minimal Consciousness Void]] — Why consciousness cannot investigate its own lower bound
@@ -154,7 +154,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[epistemological-limits-occams-razor|The Parsimony Void]] — Why Occam's Razor may be a cognitive bias masquerading as epistemic principle
 - [[framework-void|The Framework Void]] — How conceptual frameworks exclude what they cannot represent
 - [[probability-intuition-void|The Probability Intuition Void]] — Why genuine randomness resists intuitive comprehension
-- [[quantification-void|The Quantification Void]] — Why consciousness resists measurement at every level
 - [[reconstruction-paradox|The Reconstruction Paradox]] — Why the brain silently corrects some errors but delivers others
 - [[smoothness-problem|The Smoothness Problem]] — The gap between neural discreteness and experiential continuity
 

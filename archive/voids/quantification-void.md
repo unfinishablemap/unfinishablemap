@@ -33,6 +33,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-27
 last_curated:
 last_deep_review: 2026-03-11T21:59:00+00:00
+archived: true
+archived_date: 2026-03-17T19:01:00+00:00
+superseded_by: "/voids/measurement-void/"
+archive_reason: "Coalesced into The Measurement Void"
+original_path: "/voids/quantification-void/"
 ---
 
 Phenomenal experience resists quantification at every level. There are no units of consciousness, no scales for qualia, and no instruments that measure experience rather than its physical correlates. This is not a temporary limitation of neuroscience awaiting better technology. It is a structural feature of what consciousness is: the medium through which all measurement occurs cannot itself be placed on the other side of a measuring instrument.
