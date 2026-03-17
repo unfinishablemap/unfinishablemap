@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 08:43 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Clinical dissociation as systematic evidence
+- **Output**: [[topics/clinical-dissociation-as-systematic-evidence]]
+- **Word count**: 1887
+- **Based on research**: Partially (used non-temporal-fragmented-consciousness-2026-02-10 for background; no dedicated research note)
+
 ## 2026-03-17 08:30 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Temporal constitution and consciousness
