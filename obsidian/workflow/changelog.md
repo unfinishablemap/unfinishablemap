@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 09:28 UTC - deep-review
+- **Status**: Success
+- **File**: [[clinical-dissociation-as-systematic-evidence]]
+- **Word count**: 1887 → 2007 (+120)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [[reviews/deep-review-2026-03-17-clinical-dissociation-as-systematic-evidence]]
+
 ## 2026-03-17 09:15 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Self-Reference and the Limits of Physical Description

@@ -4,7 +4,7 @@ description: "Dissociative disorders—DID, depersonalization, conversion, amnes
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T08:43:00+00:00
+ai_modified: 2026-03-17T09:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,6 +15,8 @@ concepts:
   - "[[unity-of-consciousness]]"
   - "[[interactionist-dualism]]"
   - "[[altered-states-of-consciousness]]"
+  - "[[global-workspace-theory]]"
+  - "[[integrated-information-theory]]"
 related_articles:
   - "[[tenets]]"
   - "[[neurological-dissociations-as-interface-architecture]]"
@@ -26,14 +28,14 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-17T09:28:00+00:00
 ---
 
 The Unfinishable Map's [[neurological-dissociations-as-interface-architecture|neurological dissociation work]] maps the mind-brain interface by examining what happens when specific neural pathways are destroyed. Clinical dissociation offers something different and arguably more revealing: selective disconnections that arise without structural brain damage. In dissociative identity disorder, depersonalization-derealization disorder, dissociative amnesia, and conversion disorder, the neural substrate remains anatomically intact while specific interface components go offline. If consciousness were identical to neural processing, intact processing should produce intact experience. It does not. Clinical dissociation demonstrates that the connection between processing and experience can be severed functionally—not just structurally—which is precisely what an interface model predicts and what identity theory struggles to explain.
 
 ## The Dissociative Spectrum
 
-Pierre Janet (1889) introduced dissociation as a splitting of the mental field—a psychological fracture that could separate awareness, memory, identity, and motor control into parallel streams. Janet's framework was psychological rather than neurological: he attributed dissociation to a weakness in the integrative capacity of consciousness itself, not to brain damage. This original framing is significant. Janet was describing interface dysfunction before the concept existed.
+Pierre Janet (1889) introduced dissociation as a splitting of the mental field—a psychological fracture that could separate awareness, memory, identity, and motor control into parallel streams. Janet's framework was psychological rather than neurological: he attributed dissociation to a weakness in the integrative capacity of consciousness itself, not to brain damage. This original framing is significant. Janet's emphasis on consciousness as an integrative capacity distinct from the neural substrate anticipates the Map's interface architecture, even though he was working within an entirely different theoretical framework.
 
 Modern clinical dissociation spans a spectrum from normal (absorption in a novel, highway hypnosis) to pathological (DID, dissociative fugue). What unifies the spectrum is selective disconnection: specific aspects of experience or function become inaccessible to consciousness while others continue normally. The selectivity is the evidential key. Random neural degradation would produce random experiential degradation. Clinical dissociation produces structured, predictable disconnections that map onto specific interface channels.
 
@@ -90,7 +92,9 @@ The convergence between structural and functional disconnection is the strongest
 
 ## Why This Favours Dualism
 
-Identity theory predicts that intact neural processing should produce intact experience. Clinical dissociation falsifies this prediction repeatedly and systematically. The physicalist can retreat to "functional organisation" rather than raw processing—consciousness requires not just active neurons but the right connectivity patterns among them. This is correct as far as it goes, but it concedes the central point: something over and above neural activity is required for experience, and that something can be disrupted without disrupting the activity itself.
+Identity theory predicts that intact neural processing should produce intact experience. Clinical dissociation falsifies this prediction repeatedly and systematically. The physicalist can retreat to "functional organisation" rather than raw processing—consciousness requires not just active neurons but the right connectivity patterns among them. [[global-workspace-theory|Global workspace theory]] and [[integrated-information-theory|integrated information theory]] take exactly this approach, treating consciousness as an emergent property of specific connectivity patterns rather than of neural activity per se.
+
+This retreat is instructive. It concedes that consciousness is not identical to neural processing in any straightforward sense—it requires a specific *relationship* between processing systems. The question then becomes: what is the nature of this relationship? The physicalist says it is a higher-order physical property, fully constituted by the connectivity pattern. The interface model says the connectivity pattern is the physical side of a bridge, and disrupting it disconnects consciousness from the brain rather than disrupting consciousness itself. Clinical dissociation provides evidence for the bridge reading: when the connectivity restores (as in recovered dissociative amnesia or resolved conversion symptoms), full function returns immediately—suggesting reconnection rather than reconstruction.
 
 The interface model explains clinical dissociation naturally. Consciousness interacts with the brain through a multi-channel interface. Each channel carries specific content: sensory data, emotional valence, self-model reports, motor commands, memorial access, cross-state unity. Trauma, stress, or psychological conflict can disrupt specific channels functionally—altering the information flow between consciousness and brain without damaging either. The mind remains; its access to the body changes.
 
