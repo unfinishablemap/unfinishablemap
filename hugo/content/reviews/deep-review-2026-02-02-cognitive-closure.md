@@ -68,7 +68,7 @@ None. The article is well-constructed with accurate McGinn attribution and appro
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — Added link in "Species-Specific Closure" section
 - [explanatory-gap](/concepts/explanatory-gap/) — Added link in "The Mysterian Alternative" section
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Added link in "Mysterianism" section
-- [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) — Added link in opening paragraph
+- [conceptual-acquisition-limits](/voids/architecture-of-cognitive-closure/) — Added link in opening paragraph
 - [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Added link in "The explanatory gap" subsection
 
 ## Word Count

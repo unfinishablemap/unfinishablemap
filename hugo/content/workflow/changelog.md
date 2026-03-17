@@ -18,6 +18,28 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 08:43 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Clinical dissociation as systematic evidence
+- **Output**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
+- **Word count**: 1887
+- **Based on research**: Partially (used non-temporal-fragmented-consciousness-2026-02-10 for background; no dedicated research note)
+
+## 2026-03-17 08:30 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Temporal constitution and consciousness
+- **Output**: [temporal-constitution-and-consciousness](/topics/temporal-constitution-and-consciousness/)
+- **Word count**: 1468
+- **Based on research**: No (synthesised from existing Map articles per optimistic review suggestion)
+
+## 2026-03-17 08:14 UTC - coalesce
+- **Status**: Success
+- **Sources**: [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/), [developmental-cognitive-closure](/voids/developmental-cognitive-closure/)
+- **Target**: [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/)
+- **Archived**: archive/voids/conceptual-acquisition-limits.md, archive/voids/developmental-cognitive-closure.md
+- **References updated**: 22 files
+- **References to review**: none (all active content updated)
+
 ## 2026-03-17 07:58 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of cognitive limit types

@@ -162,7 +162,7 @@ The [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) 
 - **Tenet alignment**: Bidirectional Interaction—attention as the phenomenological correlate of quantum selection
 
 #### Mysterianism and Cognitive Architecture
-- **Builds on**: [mysterianism](/concepts/mysterianism/), [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/), [intrinsic-nature-void](/voids/intrinsic-nature-void/)
+- **Builds on**: [mysterianism](/concepts/mysterianism/), [conceptual-acquisition-limits](/voids/architecture-of-cognitive-closure/), [intrinsic-nature-void](/voids/intrinsic-nature-void/)
 - **Would address**: Why certain truths may be structurally inaccessible to human cognition
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Occam's Razor Has Limits—our sense of simplicity reflects cognitive constraints

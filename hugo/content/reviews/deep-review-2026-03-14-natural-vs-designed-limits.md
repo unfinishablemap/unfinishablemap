@@ -72,12 +72,12 @@ None. The article is well-constructed and the previous review addressed the majo
 - Tightened Detection Problem and "What Would Distinguish Them" intros
 - Sharpened No Many Worlds tenet reasoning
 - Condensed practical implications for natural/designed limits
-- Added cross-link to [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) in purpose-specificity discussion
+- Added cross-link to [conceptual-acquisition-limits](/voids/architecture-of-cognitive-closure/) in purpose-specificity discussion
 - Removed redundant sentence from cross-cultural convergence paragraph
 
 ### Cross-links Added
 
-- [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) (in "What Would Distinguish Them" section)
+- [conceptual-acquisition-limits](/voids/architecture-of-cognitive-closure/) (in "What Would Distinguish Them" section)
 
 ## Word Count Change
 

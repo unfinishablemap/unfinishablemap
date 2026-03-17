@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-16
-**Article**: [The Limits of Conceptual Acquisition](/voids/conceptual-acquisition-limits/)
+**Article**: [The Limits of Conceptual Acquisition](/voids/architecture-of-cognitive-closure/)
 **Previous review**: [2026-02-04](/reviews/deep-review-2026-02-04-conceptual-acquisition-limits/)
 **Word count**: 2100 → 2118 (+18 words)
 

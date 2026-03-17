@@ -97,7 +97,7 @@ The bootstrapping problem remains: if our philosophical intuitions are fitness-s
 - [convergent-cognitive-limits](/voids/evolved-cognitive-limits/)
 - [limits-reveal-structure](/voids/limits-reveal-structure/)
 - [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/)
-- [developmental-cognitive-closure](/voids/developmental-cognitive-closure/)
+- [developmental-cognitive-closure](/voids/architecture-of-cognitive-closure/)
 
 ## References
 

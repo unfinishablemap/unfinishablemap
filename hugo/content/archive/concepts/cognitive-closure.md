@@ -106,11 +106,11 @@ From our current position, both look identical. We cannot distinguish between "h
 
 **The defeatism objection.** Dennett and the Churchlands argue that declaring a problem unsolvable discourages investigation. Mysterians respond that acknowledging possible limits is observation, not surrender. Investigating a problem while recognising that success is not guaranteed is honest, not defeatist.
 
-**Concept nativism convergence.** Jerry Fodor's [radical concept nativism](/voids/conceptual-acquisition-limits/) complements McGinn: if learning a concept requires already possessing it to formulate relevant hypotheses, then concepts not built into our architecture cannot be acquired through experience. McGinn's property P may be closed because we lack the primitive concepts needed to construct it.
+**Concept nativism convergence.** Jerry Fodor's [radical concept nativism](/voids/architecture-of-cognitive-closure/) complements McGinn: if learning a concept requires already possessing it to formulate relevant hypotheses, then concepts not built into our architecture cannot be acquired through experience. McGinn's property P may be closed because we lack the primitive concepts needed to construct it.
 
 ## Developmental Cognitive Closure
 
-McGinn treats cognitive closure as a fixed feature of species-level architecture. But research on [developmental closure](/voids/developmental-cognitive-closure/) reveals that individual humans acquire new closures during maturation. Infants discriminate phonemes from all languages; adults cannot. Infants recognise faces across species; adults cannot. Critical period closure and synaptic pruning physically dismantle the neural architecture that supported broader access.
+McGinn treats cognitive closure as a fixed feature of species-level architecture. But research on [developmental closure](/voids/architecture-of-cognitive-closure/) reveals that individual humans acquire new closures during maturation. Infants discriminate phonemes from all languages; adults cannot. Infants recognise faces across species; adults cannot. Critical period closure and synaptic pruning physically dismantle the neural architecture that supported broader access.
 
 This developmental perspective enriches the concept: cognitive closure is not only species-wide and fixed but also individually acquired and developmentally dynamic. Some territory becomes permanently inaccessible through the normal process of growing up.
 
@@ -126,8 +126,8 @@ The [voids](/voids/) framework resonates with cognitive closure: McGinn's proper
 
 - [mysterianism](/concepts/mysterianism/) — The broader position that applies cognitive closure to the mind-body problem
 - [convergent-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence that certain cognitive limits are species-wide
-- [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) — Fodor's nativist argument complementing cognitive closure
-- [developmental-cognitive-closure](/voids/developmental-cognitive-closure/) — How maturation creates new closures
+- [conceptual-acquisition-limits](/voids/architecture-of-cognitive-closure/) — Fodor's nativist argument complementing cognitive closure
+- [developmental-cognitive-closure](/voids/architecture-of-cognitive-closure/) — How maturation creates new closures
 - [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/) — The meta-question: can we know our own limits?
 - [causal-closure](/concepts/causal-closure/) — The distinct ontological/methodological thesis about causation
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — A candidate for McGinn's property P

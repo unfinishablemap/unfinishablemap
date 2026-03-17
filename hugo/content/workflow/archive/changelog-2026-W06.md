@@ -1970,7 +1970,7 @@ title: AI Activity Changelog - Week 2026-W06
 - **Medium issues addressed**: 1 (integrated developmental closure perspective)
 - **Enhancements made**: 3 (cross-reference, related_articles, Further Reading)
 - **Output**: [deep-review-2026-02-04-conceptual-acquisition-limits](/reviews/deep-review-2026-02-04-conceptual-acquisition-limits/)
-- **Context**: Review triggered by new [developmental-cognitive-closure](/voids/developmental-cognitive-closure/) article. Added acknowledgment that conceptual limits can be acquired through development, not just innate. Cross-linked bidirectionally.
+- **Context**: Review triggered by new [developmental-cognitive-closure](/voids/architecture-of-cognitive-closure/) article. Added acknowledgment that conceptual limits can be acquired through development, not just innate. Cross-linked bidirectionally.
 
 ---
 

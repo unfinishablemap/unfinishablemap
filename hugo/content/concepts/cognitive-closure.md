@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-13 12:19:00+00:00
+ai_modified: 2026-03-17 08:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[concepts/materialism]]'
 - '[[causal-closure]]'
 - '[[observational-closure]]'
-- '[[conceptual-acquisition-limits]]'
+- '[[architecture-of-cognitive-closure]]'
 created: 2026-03-11
 date: &id001 2026-03-11
 description: Human+AI analysis of cognitive closure—the thesis that certain properties
@@ -23,7 +23,6 @@ last_deep_review: 2026-03-13 12:19:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[developmental-cognitive-closure]]'
 - '[[evolved-cognitive-limits]]'
 - '[[epistemology-of-cognitive-limits]]'
 - '[[computational-cognitive-limits]]'
@@ -90,9 +89,9 @@ McGinn focused on consciousness, but cognitive closure is a general thesis about
 
 **Mathematics.** [Gödel's incompleteness theorems](/voids/computational-cognitive-limits/) prove that any sufficiently powerful formal system contains truths it cannot derive. If human cognition is partly formal, certain mathematical truths may be permanently beyond us—not because mathematics is hard but because our proof-generating capacities are structurally limited. The [phenomenology of mathematical understanding](/topics/consciousness-and-mathematical-cognition/) reveals a related gap: we can manipulate transfinite cardinals formally while lacking any phenomenal grasp of what "different sizes of infinity" means.
 
-**Perception.** [Developmental cognitive closure](/voids/developmental-cognitive-closure/) shows that closure is not fixed at birth. Infants discriminate phonemes from all languages; adults cannot. Infants recognise faces across species; adults cannot. Critical period closure and synaptic pruning physically dismantle the neural architecture that supported broader perceptual access.
+**Perception.** [Developmental cognitive closure](/voids/architecture-of-cognitive-closure/) shows that closure is not fixed at birth. Infants discriminate phonemes from all languages; adults cannot. Infants recognise faces across species; adults cannot. Critical period closure and synaptic pruning physically dismantle the neural architecture that supported broader perceptual access.
 
-**Concepts.** Jerry Fodor's [radical concept nativism](/voids/conceptual-acquisition-limits/) complements McGinn: if learning a concept requires already possessing it to formulate relevant hypotheses, then concepts not built into our architecture cannot be acquired through experience. Closure may operate at the level of conceptual primitives, not just at the level of complex properties.
+**Concepts.** Jerry Fodor's [radical concept nativism](/voids/architecture-of-cognitive-closure/) complements McGinn: if learning a concept requires already possessing it to formulate relevant hypotheses, then concepts not built into our architecture cannot be acquired through experience. Closure may operate at the level of conceptual primitives, not just at the level of complex properties.
 
 **Cross-cultural universals.** Research on [evolved cognitive limits](/voids/evolved-cognitive-limits/) shows that certain cognitive constraints appear universally across isolated cultures, suggesting species-level architectural limits rather than cultural artefacts.
 
@@ -112,7 +111,7 @@ Is cognitive closure a testable thesis or an unfalsifiable excuse? If the hard p
 
 What does it feel like to approach a cognitive limit? The [voids article on edge-phenomenology](/voids/phenomenology-of-the-edge/) maps this territory. When consciousness approaches limits through contemplative practice, psychedelics, or philosophical inquiry, consistent features appear: ineffability combined with felt knowledge, temporal distortion alongside unbounded possibility.
 
-Not all closures have a phenomenology. [Developmental closure](/voids/developmental-cognitive-closure/) leaves no trace—adults cannot experience what infant perception was like. But closures approached through active inquiry produce a distinctive felt quality: the sense that understanding lies just beyond reach, that the shape of the gap is almost visible even if its contents are not. Whether this phenomenology constitutes genuine proximity to closed territory or merely a neurological artefact of sustained effort at cognitive limits remains open. The [question of whether limits are genuine or apparent](/voids/whether-real/) may itself be undecidable from within a limited system.
+Not all closures have a phenomenology. [Developmental closure](/voids/architecture-of-cognitive-closure/) leaves no trace—adults cannot experience what infant perception was like. But closures approached through active inquiry produce a distinctive felt quality: the sense that understanding lies just beyond reach, that the shape of the gap is almost visible even if its contents are not. Whether this phenomenology constitutes genuine proximity to closed territory or merely a neurological artefact of sustained effort at cognitive limits remains open. The [question of whether limits are genuine or apparent](/voids/whether-real/) may itself be undecidable from within a limited system.
 
 ## Relation to Site Perspective
 
@@ -127,8 +126,7 @@ The [voids](/voids/) framework operationalises cognitive closure. Rather than tr
 - [mysterianism](/concepts/mysterianism/) — The broader philosophical position applying cognitive closure to consciousness
 - [causal-closure](/concepts/causal-closure/) — The distinct ontological thesis about causation
 - [observational-closure](/concepts/observational-closure/) — The distinct empirical thesis about detectability
-- [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) — Fodor's nativist argument complementing cognitive closure
-- [developmental-cognitive-closure](/voids/developmental-cognitive-closure/) — How maturation creates new closures in individual minds
+- [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/) — Fodor's nativist argument and how maturation creates new closures
 - [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level cognitive constraints
 - [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Proven mathematical limits on what algorithmic minds can know
 - [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/) — The meta-question: can we know our own limits?

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-25
-ai_modified: 2026-03-14 03:21:00+00:00
+ai_modified: 2026-03-17 08:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[defended-territory]]'
 - '[[thoughts-that-slip-away]]'
-- '[[conceptual-acquisition-limits]]'
+- '[[architecture-of-cognitive-closure]]'
 - '[[computational-cognitive-limits]]'
 - '[[evolved-cognitive-limits]]'
 - '[[machine-question]]'
@@ -164,7 +164,7 @@ The hypothesis remains testable. Investigating whether AI provides genuine probe
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
 - [Defended Territory](/voids/defended-territory/) — Could some thoughts be actively blocked?
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Phenomenology of slippage mechanisms
-- [Conceptual Acquisition Limits](/voids/conceptual-acquisition-limits/) — What concepts can minds form?
+- [Conceptual Acquisition Limits](/voids/architecture-of-cognitive-closure/) — What concepts can minds form?
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits
 - [Computational Cognitive Limits](/voids/computational-cognitive-limits/) — Formal limits shared by any algorithmic mind
 - [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level constraints

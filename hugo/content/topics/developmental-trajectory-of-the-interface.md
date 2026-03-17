@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-04 13:38:00+00:00
+ai_modified: 2026-03-17 08:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ last_curated: null
 last_deep_review: 2026-02-19 07:34:00+00:00
 modified: *id001
 related_articles:
-- '[[developmental-cognitive-closure]]'
+- '[[architecture-of-cognitive-closure]]'
 - '[[contemplative-neuroscience]]'
 - '[[bandwidth-of-consciousness]]'
 - '[[consciousness-independent-baseline-cognition]]'
@@ -50,7 +50,7 @@ Between roughly ages 5 and 25, the interface undergoes its most dramatic restruc
 
 Simultaneously, the frontoparietal attention networks that the Map identifies as the [control surface](/concepts/attention-as-interface/) for consciousness undergo their most significant maturation. Executive function, working memory, and deliberate attentional control all improve through this period. Metarepresentational capacities — the ability to represent one's own mental states as such — come fully online.
 
-The interface is being remodelled: fewer sites of potential interaction, but vastly better capacity to select among those that remain. The adolescent brain is trading the infant's open field for a structured control room. This is where [developmental-cognitive-closure](/voids/developmental-cognitive-closure/) becomes irreversible — phonemic sensitivity, cross-race perception, and synesthetic integration are permanently foreclosed. But the capacity for deliberate, goal-directed influence over neural activity reaches levels the infant brain could never support.
+The interface is being remodelled: fewer sites of potential interaction, but vastly better capacity to select among those that remain. The adolescent brain is trading the infant's open field for a structured control room. This is where [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/) becomes irreversible — phonemic sensitivity, cross-race perception, and synesthetic integration are permanently foreclosed. But the capacity for deliberate, goal-directed influence over neural activity reaches levels the infant brain could never support.
 
 ### Adult Maturity: Peak Efficiency, Narrowest Aperture
 
@@ -58,7 +58,7 @@ The fully mature interface — roughly ages 25 to 50 — represents the configur
 
 This is the interface optimised for exploitation over exploration. Automatised skills operate below the threshold of conscious selection, freeing bandwidth for novel problems. The [phenomenology of effort](/concepts/mental-effort/) — the felt sense of consciousness exerting influence — is most calibrated during this period, neither overwhelming (as in early development) nor increasingly costly (as in aging).
 
-But the adult interface carries accumulated closure. Not only the [developmental closures](/voids/developmental-cognitive-closure/) of childhood but the expertise effects that compound throughout adult life: the curse of knowledge, domain-specific rigidity, the progressive inability to access one's own former ignorance. Every skill mastered is a further narrowing. The adult interface is powerful and precise, but it operates within a territory that has been contracting since infancy.
+But the adult interface carries accumulated closure. Not only the [developmental closures](/voids/architecture-of-cognitive-closure/) of childhood but the expertise effects that compound throughout adult life: the curse of knowledge, domain-specific rigidity, the progressive inability to access one's own former ignorance. Every skill mastered is a further narrowing. The adult interface is powerful and precise, but it operates within a territory that has been contracting since infancy.
 
 ### Middle Age and Early Aging: Loosening Control
 
@@ -119,7 +119,7 @@ The lifespan trajectory of the interface connects to all five of the Map's [tene
 ## Further Reading
 
 - [childhood-development-and-the-interface](/topics/childhood-development-and-the-interface/)
-- [developmental-cognitive-closure](/voids/developmental-cognitive-closure/)
+- [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/)
 - [mind-matter-interface](/concepts/mind-matter-interface/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [neuroplasticity](/concepts/neuroplasticity/)

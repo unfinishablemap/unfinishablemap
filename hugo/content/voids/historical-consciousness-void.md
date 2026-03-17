@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-01
-ai_modified: 2026-03-11 02:38:00+00:00
+ai_modified: 2026-03-17 08:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,7 +26,7 @@ related_articles:
 - '[[other-minds-void]]'
 - '[[calibration-void]]'
 - '[[evolved-cognitive-limits]]'
-- '[[conceptual-acquisition-limits]]'
+- '[[architecture-of-cognitive-closure]]'
 - '[[three-kinds-of-void]]'
 title: The Historical Consciousness Void
 topics:
@@ -113,7 +113,7 @@ The Map's own framework is itself historically situated. The Unfinishable Map's 
 - [other-minds-void](/voids/other-minds-void/) — Access to consciousness beyond our own
 - [calibration-void](/voids/calibration-void/) — Why introspection cannot verify its own accuracy
 - [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared cognitive limits
-- [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) — What concepts can minds form?
+- [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/) — What concepts can minds form?
 - [cognitive-aversion](/voids/cognitive-aversion/) — Thoughts we systematically flee
 
 ## References

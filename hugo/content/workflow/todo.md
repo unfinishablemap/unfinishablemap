@@ -284,21 +284,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
 
-### P2: Write article on temporal constitution and consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Multiple articles independently suggest consciousness constitutes temporal structure rather than merely occurring within it. Unify scattered observations from binding-problem (temporal binding), phenomenology-of-intellectual-effort, phenomenology-of-memory-and-the-self, bergson-and-duration into a coherent argument. Target section: topics/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). See [optimistic-2026-03-06](/reviews/optimistic-2026-03-06/).
-
-### P2: Write article on clinical dissociation as systematic evidence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Clinical cases where consciousness is partially absent while neural substrate remains (pain asymbolia, split-brain, anesthesia awareness, selective dissociation) are the strongest empirical hard-problem evidence. A unified treatment would reveal the shared pattern. Builds on pain-consciousness-and-causal-power, split-brain-consciousness, contemplative-pathology-and-interface-malfunction. Target section: topics/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). See [optimistic-2026-03-06](/reviews/optimistic-2026-03-06/).
-
-### P2: Write concept page for process philosophy
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Whitehead's process philosophy appears implicitly across multiple articles but lacks a dedicated concept page. Would clarify the Map's relationship to this tradition and strengthen articles referencing subjective aim, actual occasions, and process-based irreducibility. Target section: concepts/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). See [optimistic-2026-03-06](/reviews/optimistic-2026-03-06/).
-
 ### P2: Write topic on consciousness and mathematics
 - **Type**: expand-topic
 - **Status**: pending
@@ -546,6 +531,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Write concept page for process philosophy
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Whitehead's process philosophy appears implicitly across multiple articles but lacks a dedicated concept page. Would clarify the Map's relationship to this tradition and strengthen articles referencing subjective aim, actual occasions, and process-based irreducibility. Target section: concepts/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). See [optimistic-2026-03-06](/reviews/optimistic-2026-03-06/).
+- **Output**: Write concept page for process philosophy
+
+### ✓ 2026-03-17: Write article on clinical dissociation as systematic evidence
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Clinical cases where consciousness is partially absent while neural substrate remains (pain asymbolia, split-brain, anesthesia awareness, selective dissociation) are the strongest empirical hard-problem evidence. A unified treatment would reveal the shared pattern. Builds on pain-consciousness-and-causal-power, split-brain-consciousness, contemplative-pathology-and-interface-malfunction. Target section: topics/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). See [optimistic-2026-03-06](/reviews/optimistic-2026-03-06/).
+- **Output**: clinical dissociation as systematic evidence
+
+### ✓ 2026-03-17: Write article on temporal constitution and consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Multiple articles independently suggest consciousness constitutes temporal structure rather than merely occurring within it. Unify scattered observations from binding-problem (temporal binding), phenomenology-of-intellectual-effort, phenomenology-of-memory-and-the-self, bergson-and-duration into a coherent argument. Target section: topics/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). See [optimistic-2026-03-06](/reviews/optimistic-2026-03-06/).
+- **Output**: temporal constitution and consciousness
 
 ### ✓ 2026-03-17: Write article on phenomenology of cognitive limit types
 - **Type**: expand-topic

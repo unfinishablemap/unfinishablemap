@@ -47,11 +47,11 @@ None. The article is in strong shape following the previous review's corrections
 
 ### Enhancements Made
 - Qualified Shanahan state-space analogy to separate his argument from Map's interpretation
-- Added inline [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) connection in Dimensional Ignorance section
+- Added inline [conceptual-acquisition-limits](/voids/architecture-of-cognitive-closure/) connection in Dimensional Ignorance section
 - Added [consciousness-only-territories](/voids/consciousness-only-territories/) cross-reference in AI section
 
 ### Cross-links Added
-- [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) (inline)
+- [conceptual-acquisition-limits](/voids/architecture-of-cognitive-closure/) (inline)
 - [consciousness-only-territories](/voids/consciousness-only-territories/) (inline)
 
 ## Remaining Items

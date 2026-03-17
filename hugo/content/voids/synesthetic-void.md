@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-03-10 17:23:00+00:00
+ai_modified: 2026-03-17 08:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,10 +21,9 @@ related_articles:
 - '[[tenets]]'
 - '[[affective-void]]'
 - '[[other-minds-void]]'
-- '[[conceptual-acquisition-limits]]'
+- '[[architecture-of-cognitive-closure]]'
 - '[[consciousness-only-territories]]'
 - '[[intersubjective-void]]'
-- '[[developmental-cognitive-closure]]'
 - '[[intrinsic-nature-void]]'
 - '[[inverted-qualia]]'
 - '[[explanatory-gap]]'
@@ -106,8 +105,7 @@ The synesthetic void connects directly to the Map's [foundational commitments](/
 - [other-minds-void](/voids/other-minds-void/) — The privacy of consciousness and its implications
 - [intersubjective-void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
-- [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) — What concepts can minds form?
-- [developmental-cognitive-closure](/voids/developmental-cognitive-closure/) — Voids created through maturation
+- [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/) — What concepts can minds form, and voids created through maturation
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself, beyond structural description
 
 ## References

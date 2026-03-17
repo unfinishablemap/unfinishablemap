@@ -17,10 +17,10 @@ topics: []
 ---
 
 **Date**: 2026-02-04
-**Article**: [The Limits of Conceptual Acquisition](/voids/conceptual-acquisition-limits/)
+**Article**: [The Limits of Conceptual Acquisition](/voids/architecture-of-cognitive-closure/)
 **Previous review**: [2026-01-26](/reviews/deep-review-2026-01-26-conceptual-acquisition-limits/)
 **Word count**: 2027 → 2100 (+73 words)
-**Context**: Review triggered by new [developmental-cognitive-closure](/voids/developmental-cognitive-closure/) article requiring integration
+**Context**: Review triggered by new [developmental-cognitive-closure](/voids/architecture-of-cognitive-closure/) article requiring integration
 
 ## Pessimistic Analysis Summary
 
@@ -28,7 +28,7 @@ topics: []
 None. The article has all required sections, no factual errors, no internal contradictions, and no broken links. Attribution accuracy verified for Fodor, McGinn, Rescher, and Chomsky.
 
 ### Medium Issues Found
-1. **Gap in scope**: Article focused exclusively on *innate* architectural limits (Fodor's nativism) without acknowledging *acquired* developmental limits. The new [developmental-cognitive-closure](/voids/developmental-cognitive-closure/) article demonstrates that infants have broader perceptual/conceptual access than adults, and that neural pruning closes territory during maturation. This was a genuine omission.
+1. **Gap in scope**: Article focused exclusively on *innate* architectural limits (Fodor's nativism) without acknowledging *acquired* developmental limits. The new [developmental-cognitive-closure](/voids/architecture-of-cognitive-closure/) article demonstrates that infants have broader perceptual/conceptual access than adults, and that neural pruning closes territory during maturation. This was a genuine omission.
    - **Resolution**: Added "Developmental evidence for closure" paragraph connecting the two perspectives and establishing that nativist and developmental limits compound.
 
 ### Previously Resolved Issues (Not Re-flagged)
@@ -66,12 +66,12 @@ All six adversarial personas were applied; findings consistent with previous rev
 
 ### Enhancements Made
 1. **Added developmental closure cross-reference**: New paragraph in "Evidence for Limits" section acknowledging that not all limits are innate—some are acquired through maturation
-2. **Added [developmental-cognitive-closure](/voids/developmental-cognitive-closure/) to related_articles**: Establishes bidirectional linking
-3. **Added to Further Reading**: "[The Developmental Void](/voids/developmental-cognitive-closure/) — Limits acquired through maturation"
+2. **Added [developmental-cognitive-closure](/voids/architecture-of-cognitive-closure/) to related_articles**: Establishes bidirectional linking
+3. **Added to Further Reading**: "[The Developmental Void](/voids/architecture-of-cognitive-closure/) — Limits acquired through maturation"
 4. **Condensed "Triggering evidence" paragraph**: Offset word count increase by tightening existing content
 
 ### Cross-links Added
-- [developmental-cognitive-closure](/voids/developmental-cognitive-closure/) (in text, related_articles, and Further Reading)
+- [developmental-cognitive-closure](/voids/architecture-of-cognitive-closure/) (in text, related_articles, and Further Reading)
 
 ## Remaining Items
 

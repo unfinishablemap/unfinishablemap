@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-10 20:38:00+00:00
+ai_modified: 2026-03-17 08:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ related_articles:
 - '[[scale-void]]'
 - '[[pre-conceptual-knowing]]'
 - '[[consciousness-only-territories]]'
-- '[[conceptual-acquisition-limits]]'
+- '[[architecture-of-cognitive-closure]]'
 - '[[appetitive-void]]'
 - '[[voids-imagination-void-2026-02-25]]'
 title: The Imagination Void
@@ -97,7 +97,7 @@ The aphantasia-hyperphantasia spectrum—ranging from complete absence of mental
 
 The dissociation matters for the void. If imagination's limits derive from the neural machinery of perceptual simulation—visual cortex running in reverse—then aphantasics, who lack this machinery, should have *different* limits. And they do: aphantasics cannot perform mental rotation tasks but can still reason about spatial relationships. They approach the same territory through different cognitive routes, with different failure patterns.
 
-This raises a question the [conceptual acquisition limits](/voids/conceptual-acquisition-limits/) article explores from another angle: are imagination's limits fixed by individual neural architecture, or are they species-level constraints? If different brains have different imaginative horizons, the void is not uniform but varies across the population. Some minds may have access to imaginative territories closed to others—not different *content* (everyone imagines their own experiences) but different *capacities* for manipulation, combination, and extrapolation.
+This raises a question the [conceptual acquisition limits](/voids/architecture-of-cognitive-closure/) article explores from another angle: are imagination's limits fixed by individual neural architecture, or are they species-level constraints? If different brains have different imaginative horizons, the void is not uniform but varies across the population. Some minds may have access to imaginative territories closed to others—not different *content* (everyone imagines their own experiences) but different *capacities* for manipulation, combination, and extrapolation.
 
 ## What AI Reveals
 
@@ -125,7 +125,7 @@ From a dualist perspective, the question is whether AI has *any* imaginative acc
 - [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — Whether radically different minds can probe our void
 - [scale-void](/voids/scale-void/) — Where cognitive architecture fails at extreme magnitudes
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — Modes of knowing that conceptual thought cannot access
-- [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) — Whether some concepts are permanently inaccessible
+- [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/) — Whether some concepts are permanently inaccessible
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Experiential terrain that resists third-person description
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where language constrains or enables thought
 - [appetitive-void](/voids/appetitive-void/) — How desire constitutively shapes the cognitive field

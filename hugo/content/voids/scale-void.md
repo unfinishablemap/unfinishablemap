@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-15 02:21:00+00:00
+ai_modified: 2026-03-17 08:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ related_articles:
 - '[[tenets]]'
 - '[[three-kinds-of-void]]'
 - '[[embodiment-cognitive-limits]]'
-- '[[conceptual-acquisition-limits]]'
+- '[[architecture-of-cognitive-closure]]'
 - '[[phenomenology-of-the-edge]]'
 title: The Scale Void
 topics:
@@ -99,7 +99,7 @@ The scale void connects to the Map's [tenets](/tenets/) in several ways.
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The core taxonomy: unexplored, unexplorable, occluded
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
-- [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) — What concepts can minds form?
+- [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/) — What concepts can minds form?
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 - [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Species-level architectural constraints on cognition
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Capacity limits on phenomenological resolution

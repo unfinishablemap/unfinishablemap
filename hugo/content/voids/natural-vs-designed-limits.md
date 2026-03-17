@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-03-14 23:27:00+00:00
+ai_modified: 2026-03-17 08:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,7 +27,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[tenet-generated-voids]]'
 - '[[evolved-cognitive-limits]]'
-- '[[conceptual-acquisition-limits]]'
+- '[[architecture-of-cognitive-closure]]'
 title: Natural vs. Designed Cognitive Limits
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -91,7 +91,7 @@ The void's phenomenology is distinctive: vertigo rather than frustration. Other 
 
 Despite the detection problem, we can articulate what we would look for—conditional on our capacity to look being trustworthy:
 
-**Purpose-specificity**: Natural limits should be *general*—following from the structure of computation, information, or mind itself. Designed limits might be *specific*—blocking particular content while leaving structurally similar content accessible. If humans can reason about abstract mathematics but specifically cannot grasp what consciousness is, the specificity suggests design rather than general structural limitation—a pattern related to the broader question of [conceptual acquisition limits](/voids/conceptual-acquisition-limits/).
+**Purpose-specificity**: Natural limits should be *general*—following from the structure of computation, information, or mind itself. Designed limits might be *specific*—blocking particular content while leaving structurally similar content accessible. If humans can reason about abstract mathematics but specifically cannot grasp what consciousness is, the specificity suggests design rather than general structural limitation—a pattern related to the broader question of [conceptual acquisition limits](/voids/architecture-of-cognitive-closure/).
 
 **Cross-cultural convergence**: The [convergent cognitive limits](/voids/evolved-cognitive-limits/) research shows certain limitations appear universally across isolated cultures—the bias blind spot, mystical ineffability, the explanatory gap. This convergence suggests species-level architecture rather than cultural construction. But species-level architecture could be either natural (evolved) or designed (engineered).
 

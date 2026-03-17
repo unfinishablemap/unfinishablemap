@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-07
-**Article**: [The Developmental Void](/voids/developmental-cognitive-closure/)
+**Article**: [The Developmental Void](/voids/architecture-of-cognitive-closure/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

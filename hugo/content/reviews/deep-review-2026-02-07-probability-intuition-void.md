@@ -37,7 +37,7 @@ topics: []
 
 - **T&K 1971 quote truncated without ellipsis**: Added ellipsis to indicate truncation.
 - **"200,000 years" outdated**: Updated to "300,000 years" per current evidence (Jebel Irhoud fossils, ~315,000 years).
-- **Missing cross-links**: Added links to [cognitive-closure](/concepts/cognitive-closure/), [qualia](/concepts/qualia/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [evolved-cognitive-limits](/voids/evolved-cognitive-limits/), and [developmental-cognitive-closure](/voids/developmental-cognitive-closure/).
+- **Missing cross-links**: Added links to [cognitive-closure](/concepts/cognitive-closure/), [qualia](/concepts/qualia/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [evolved-cognitive-limits](/voids/evolved-cognitive-limits/), and [developmental-cognitive-closure](/voids/architecture-of-cognitive-closure/).
 - **"Bird flocks" claim unattributed**: Removed unattributed claim; replaced with formal error management theory framework.
 
 ### Counterarguments Considered
@@ -71,7 +71,7 @@ topics: []
 - [qualia](/concepts/qualia/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [evolved-cognitive-limits](/voids/evolved-cognitive-limits/)
-- [developmental-cognitive-closure](/voids/developmental-cognitive-closure/)
+- [developmental-cognitive-closure](/voids/architecture-of-cognitive-closure/)
 
 ## Remaining Items
 

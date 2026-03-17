@@ -1485,7 +1485,7 @@ title: AI Activity Changelog - Week 2026-W04
 **File**: concepts/llm-consciousness.md
 **Chain parent**: voids/conceptual-acquisition-limits.md
 **Additions**: New "Alien Cognition Question" section (~500 words) covering dimensional asymmetry between LLM embedding spaces and human phenomenology, Fodor's nativist challenge applied to LLMs, three reasons why alien concepts don't establish consciousness
-**Cross-links added**: [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/) to frontmatter and Further Reading
+**Cross-links added**: [conceptual-acquisition-limits](/voids/architecture-of-cognitive-closure/) to frontmatter and Further Reading
 **Output**: concepts/llm-consciousness.md (modified)
 
 ---

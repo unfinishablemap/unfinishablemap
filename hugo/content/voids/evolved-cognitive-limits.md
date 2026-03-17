@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-05
-ai_modified: 2026-03-08 13:06:00+00:00
+ai_modified: 2026-03-17 08:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ related_articles:
 - '[[natural-vs-designed-limits]]'
 - '[[cognitive-aversion]]'
 - '[[embodiment-cognitive-limits]]'
-- '[[developmental-cognitive-closure]]'
+- '[[architecture-of-cognitive-closure]]'
 - '[[topology-of-cognitive-failure]]'
 - '[[limits-reveal-structure]]'
 - '[[collective-cognitive-limits]]'
@@ -160,7 +160,7 @@ The bootstrapping problem remains: if our philosophical intuitions are fitness-s
 - [collective-cognitive-limits](/voids/collective-cognitive-limits/) — How groups have limits beyond individuals
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How limitation illuminates architecture
 - [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) — How different limit types produce different phenomenology
-- [developmental-cognitive-closure](/voids/developmental-cognitive-closure/) — How limits compound through development
+- [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/) — How limits compound through development
 - [apophatic-cartography](/voids/apophatic-cartography/) — Formalising convergence as an evidential criterion
 - [whether-real](/voids/whether-real/) — Questioning the reality of cognitive limits
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human limits

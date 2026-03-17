@@ -75,7 +75,7 @@ topics: []
 
 ### Cross-links Added
 - [mysterianism](/concepts/mysterianism/)
-- [conceptual-acquisition-limits](/voids/conceptual-acquisition-limits/)
+- [conceptual-acquisition-limits](/voids/architecture-of-cognitive-closure/)
 - [argument-from-reason](/topics/argument-from-reason/)
 - [free-will](/topics/free-will/)
 - [agent-causation](/concepts/agent-causation/)
