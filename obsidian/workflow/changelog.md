@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 00:46 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/self-reference-paradox]], [[voids/the-unobservable-self]]
+- **Target**: [[voids/self-reference-paradox]]
+- **Archived**: [[archive/voids/the-unobservable-self]]
+- **References to review**: 39 active content files (follow-up task created)
+
 ## 2026-03-16 23:01 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenal-normativity]]

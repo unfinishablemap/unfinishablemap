@@ -7,6 +7,11 @@ ai_modified: 2026-02-25T15:22:00+00:00
 draft: false
 last_deep_review: 2026-02-25T14:41:00+00:00
 description: "When attention turns inward seeking the observer, it finds only more observing—a structural limit that illuminates why consciousness resists explanation."
+archived: true
+archived_date: 2026-03-17T00:46:00+00:00
+superseded_by: "/voids/self-reference-paradox/"
+archive_reason: "Coalesced into The Self-Reference Paradox"
+original_path: "/voids/the-unobservable-self/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
