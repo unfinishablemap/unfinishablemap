@@ -214,6 +214,7 @@ This is not "god of the gaps" reasoning. Physics *describes* a gap—between qua
 - [[concepts/materialism]] — The worldview closure supports
 - [[explanatory-gap]] — Why physical knowledge leaves phenomenal experience unexplained
 - [[metaphysics-of-information-under-dualism]] — Information's ontological status and the syntax-semantics divide in causal selection
+- [[the-reverse-inference]] — The epistemic asymmetry: consciousness is a more secure datum than quantum interpretation, so it should constrain physics
 - [[what-consciousness-tells-us-about-physics]] — Apex synthesis: if consciousness selects quantum outcomes, physics is structurally partial—the reverse inference from mind to matter
 
 ## References

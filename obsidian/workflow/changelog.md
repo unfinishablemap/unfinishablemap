@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 12:43 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/the-reverse-inference]]
+- **Word count**: 1671 → 1689 (+18)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing physics-as-disclosure cross-link, orphan status)
+- **Enhancements made**: 9 (1 outbound cross-link added, 8 inbound links from related articles)
+- **Output**: [[reviews/deep-review-2026-03-17b-the-reverse-inference]]
+
 ## 2026-03-17 12:34 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/ethics-of-possible-ai-consciousness]]

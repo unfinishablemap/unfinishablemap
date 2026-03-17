@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-15
 - **Completed**: 2026-03-17
 
-### P2: Integrate the-reverse-inference.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: New topic article created 2026-03-17 has no inbound links. The reverse inference is a central methodological concept for the Map — add cross-references from measurement-problem.md, quantum-probability-consciousness.md, physics-as-disclosure.md, bi-aspectual-ontology.md, and relevant apex articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-17
-
 ### P2: Integrate moral-architecture-of-consciousness.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -544,6 +537,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Integrate the-reverse-inference.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: New topic article created 2026-03-17 has no inbound links. The reverse inference is a central methodological concept for the Map — add cross-references from measurement-problem.md, quantum-probability-consciousness.md, physics-as-disclosure.md, bi-aspectual-ontology.md, and relevant apex articles.
+- **Output**: obsidian/topics/the-reverse-inference.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-17: Write article on the phenomenology of temporal agency
 - **Type**: expand-topic

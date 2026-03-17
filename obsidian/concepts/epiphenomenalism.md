@@ -185,6 +185,7 @@ The self-stultification problem remains the strongest objection for human consci
 - [[illusionism#Structural Convergence with Epiphenomenalism|Illusionism as Epiphenomenalism]] — Why illusionism inherits epiphenomenalism's structural problems
 - [[causal-closure]] — The principle that motivates epiphenomenalism
 - [[metaproblem-of-consciousness-under-dualism]] — The metaproblem as another route to rejecting epiphenomenalism
+- [[the-reverse-inference]] — The reverse direction: using consciousness as secure datum to constrain physics, rather than dismissing it as epiphenomenal
 - [[interactionist-dualism]] — The Map's alternative framework
 - [[language-and-consciousness]] — Grice's theory of meaning strengthens the case against epiphenomenalism
 - [[value-blind-vs-value-sensitive-selection]] — Value-blind selection risks making the evaluative dimension of consciousness epiphenomenal

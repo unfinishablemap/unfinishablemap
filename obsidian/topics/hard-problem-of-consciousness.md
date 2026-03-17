@@ -245,6 +245,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [[buddhism-and-dualism]] — How Buddhist philosophy engages with dualist frameworks
 - [[metaproblem-of-consciousness-under-dualism]] — How interactionism turns the metaproblem from threat to vindication
 - [[tenets]] — The foundational commitments of the Map
+- [[the-reverse-inference]] — Why consciousness—the hard problem's datum—should constrain physics rather than the reverse
 - [[what-consciousness-tells-us-about-physics]] — Apex synthesis: the reverse inference from consciousness to physics—arguing the hard problem and measurement problem are the same boundary seen from different sides
 
 ### External Resources

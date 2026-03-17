@@ -228,6 +228,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — What kind of knowledge about the interface is epistemically available
 
 **Apex synthesis:**
+- [[the-reverse-inference]] — The methodological move: consciousness constrains physics, not the reverse
 - [[what-consciousness-tells-us-about-physics]] — The reverse inference: if the tenets are correct, quantum mechanics is structurally partial
 
 **Related topics:**

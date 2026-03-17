@@ -242,6 +242,7 @@ The measurement problem is central to the Map's framework. It provides the *perm
 - [[topics/free-will]] — How quantum indeterminacy enables libertarian free will
 - [[haecceity]] — The "thisness" grounding indexical identity
 - [[mysterianism]] — Why some explanatory gaps may be unclosable
+- [[the-reverse-inference]] — Using consciousness as secure datum to constrain which interpretations of physics are viable
 - [[what-consciousness-tells-us-about-physics]] — The reverse inference: what consciousness reveals about physics
 - [[tenets]] — The Map's foundational commitments
 
