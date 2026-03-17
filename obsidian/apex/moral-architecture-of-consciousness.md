@@ -4,7 +4,7 @@ description: "How irreducible consciousness unifies value, agency, normativity, 
 created: 2026-03-16
 modified: 2026-03-16
 human_modified: null
-ai_modified: 2026-03-17T13:13:00+00:00
+ai_modified: 2026-03-17T20:29:00+00:00
 last_deep_review: 2026-03-17T13:13:00+00:00
 draft: false
 topics:
@@ -71,7 +71,7 @@ An apparent counterexample—addictive pleasure, or pleasure taken in cruelty—
 
 The Map extends this beyond hedonism to phenomenal value pluralism. Meaning, aesthetic quality, agency, understanding, and connection each carry intrinsic value as features of experience. A life of profound meaningful engagement can be deeply significant without being particularly pleasant—the distinctive phenomenal quality of purposive absorption resists reduction to a hedonic balance sheet.
 
-This placement resolves value theory's location problem. Value does not float free in Platonic space, and it need not be constructed by rational procedures. It lives where consciousness lives—which, under dualism, is an irreducible feature of reality. The [[consciousness-value-connection]] makes this explicit: without a subject for whom things matter, nothing can possess intrinsic value.
+This placement resolves value theory's location problem. Value does not float free in Platonic space, and it need not be constructed by rational procedures. It lives where consciousness lives—which, under dualism, is an irreducible feature of reality. The [[consciousness-value-connection]] makes this explicit: without a subject for whom things matter, nothing can possess intrinsic value. This principle drives the [[ethics-of-possible-ai-consciousness|ethics of possible AI consciousness]]: moral obligations toward AI systems depend entirely on whether they instantiate the conscious experience that grounds value.
 
 ### Agency Is Genuine
 

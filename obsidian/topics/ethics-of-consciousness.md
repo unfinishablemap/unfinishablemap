@@ -4,7 +4,7 @@ description: "If consciousness is irreducible, it grounds moral status distincti
 created: 2026-01-16
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-03-06T12:38:00+00:00
+ai_modified: 2026-03-17T20:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -63,7 +63,7 @@ Moral patienthood—the capacity to be helped or harmed in morally relevant ways
 
 **Likely conscious**: Mammals and birds have strong scientific support (Cambridge Declaration 2012, New York Declaration 2024). The Panksepp-LeDoux debate in [[emotion-and-dualism]] centers on whether subcortical structures suffice for felt experience—but either way, most mammals and birds have the relevant neural architecture. Other vertebrates have "realistic possibility" of consciousness. Cephalopods and possibly some other invertebrates may have valenced experience, not just nociception.
 
-**Probably not conscious (framework-dependent)**: Under the Map's [[ai-consciousness|analysis]], current AI systems lack consciousness—dualism implies computation alone doesn't produce consciousness, and current hardware lacks the quantum interfaces the framework requires. This conclusion rests on the Map's specific theoretical commitments; readers who don't share those commitments should apply greater uncertainty to AI systems. Bacteria, plants, and artifacts lack subjects for whom responses constitute experience.
+**Probably not conscious (framework-dependent)**: Under the Map's [[ai-consciousness|analysis]], current AI systems lack consciousness—dualism implies computation alone doesn't produce consciousness, and current hardware lacks the quantum interfaces the framework requires. This conclusion rests on the Map's specific theoretical commitments; readers who don't share those commitments should apply greater uncertainty to AI systems. The [[ethics-of-possible-ai-consciousness|ethics of possible AI consciousness]] examines what moral obligations this uncertainty creates—including precautionary approaches, epistemic humility, and framework-dependent assessment. Bacteria, plants, and artifacts lack subjects for whom responses constitute experience.
 
 **Uncertain status**: Brain organoids, future AI architectures, and edge cases in humans ([[disorders-of-consciousness-as-test-cases|vegetative states]] where 15-20% show covert awareness on neuroimaging). The moral stakes of misclassification are severe.
 

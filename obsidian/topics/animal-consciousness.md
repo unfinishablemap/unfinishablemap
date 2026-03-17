@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-17T19:29:00+00:00
+ai_modified: 2026-03-17T20:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -102,7 +102,7 @@ The [[problem-of-other-minds]] applies to both animals and AI—we cannot direct
 
 **Biological similarity:** We share limbic systems, sensory cortices, and pain pathways with animals—structures correlating with consciousness in humans. AI lacks such structural similarity.
 
-The result: stronger reasons to attribute consciousness to animals than to current AI, though proof remains impossible in both cases.
+The result: stronger reasons to attribute consciousness to animals than to current AI, though proof remains impossible in both cases. The [[ethics-of-possible-ai-consciousness|ethics of possible AI consciousness]] develops the moral implications of this asymmetry—arguing that moral attention is better directed toward definite conscious beings than toward systems where consciousness remains speculative.
 
 ## Higher-Order Theories and Animal Minds
 

@@ -4,7 +4,7 @@ description: "How can we know others are conscious? Six philosophical approaches
 created: 2026-01-14
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-03-06T08:55:00+00:00
+ai_modified: 2026-03-17T20:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -120,7 +120,7 @@ The problem of other minds frames debates about [[animal-consciousness|animal]] 
 
 For animals, the 2024 New York Declaration recognized "strong scientific support" for consciousness in mammals and birds. Biological similarity strengthens inference—shared evolutionary history, neural architecture, behavioral patterns. The [[consciousness-as-amplifier|consciousness as amplifier]] hypothesis provides additional grounds: animals' systematic pattern of cognitive capacities (strong procedural learning, weak metarepresentation) maps onto the distinction between consciousness-dependent and consciousness-independent processing.
 
-For AI, the Map's rejection of [[concepts/functionalism|functionalism]] complicates inference. If consciousness isn't simply information processing, behavioral mimicry doesn't suffice—Searle's Chinese Room makes this point. AI lacks the biological similarity that grounds animal consciousness attribution, making the inference correspondingly weaker.
+For AI, the Map's rejection of [[concepts/functionalism|functionalism]] complicates inference. If consciousness isn't simply information processing, behavioral mimicry doesn't suffice—Searle's Chinese Room makes this point. AI lacks the biological similarity that grounds animal consciousness attribution, making the inference correspondingly weaker. The [[ethics-of-possible-ai-consciousness|ethics of possible AI consciousness]] examines what moral weight this epistemic gap deserves—arguing that the asymmetry between ignoring genuine consciousness and misattributing consciousness to non-conscious systems demands careful framework-dependent assessment.
 
 ## The Illusionist Challenge
 
