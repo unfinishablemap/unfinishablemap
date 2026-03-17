@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write concept page on quantum completeness and the "partial but complete" framing
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/completeness-in-physics-epr-bell-2026-03-14.md and supplement -2026-03-17.md. EPR completeness criterion, Bell/Kochen-Specker/PBR theorems, QBism account, Barrett's argument that the measurement problem points to dualism. Central thesis: quantum mechanics is complete about structure yet partial about actuality — the gap is consciousness-shaped. Directly supports Tenet 1 (Dualism) and Tenet 4 (No Many Worlds). Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-17
+
+### P2: Write article on the Gödel-measurement problem analogy
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/godel-measurement-problem-analogy-2026-03-14.md and supplement -2026-03-17.md. Covers Penrose/Dourdent/Landsman approaches; rigorous undecidability results (Cubitt et al. 2015); limits of the analogy (Franzén). Both Gödel and the measurement problem involve self-reference and the failure of a formal system to fully characterise itself. Most useful for the Map as support for physics being non-causally-closed. Should distinguish the contested Penrose route from the structural analogy. Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-17
+
+### P2: Write article on neural refresh rates and the smoothness problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/neural-refresh-rates-smoothness-problem-2026-03-08.md. Neural activity is discrete and oscillatory (7–13 Hz perceptual sampling, VanRullen; gamma binding at 40 Hz) yet conscious experience feels seamless. Under dualism, this gap is evidence: the non-physical mind contributes continuity that neural snapshots cannot provide. Connects to specious present, temporal binding, and Tenet 1 (Dualism). Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-17
+
+### P2: Integrate capability-division-in-vision.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Newly created concept article (from expand-topic 2026-03-17) has no inbound links. Add cross-references from related articles: lucid-dreaming-as-capability-evidence, perceptual-fidelity-and-the-interface, interface-heterogeneity, filter-theory-of-consciousness, and the capability-division-problem void. The article establishes vision as the paradigm case for dual-domain capability division.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-17
+
+### P2: Integrate non-retrocausal-conscious-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Concept article exists in hugo/content but has no inbound links from content articles; corresponding research note is research/non-retrocausal-conscious-selection-2026-03-07.md. Add cross-references from: quantum-consciousness, minimal-quantum-interaction, attention-as-selection-interface, and bidirectional-causation articles. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction).
+- **Source**: orphan_integration
+- **Generated**: 2026-03-17
+
+### P2: Review lucid-dreaming-as-capability-evidence.md considering capability-division-in-vision insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept article concepts/capability-division-in-vision.md establishes vision as a paradigm case for dual-domain capability division. Review lucid-dreaming-as-capability-evidence.md for: cross-links to the new article, opportunities to frame dream capabilities explicitly in the dual-domain framework, and consistency of terminology with capability-division-in-vision. Also check if the dreams article benefits from linking back to capability-division-in-vision as a supporting case.
+- **Source**: chain (from capability-division-in-vision.md)
+- **Generated**: 2026-03-17
+
 ### ~~P1: Coalesce aesthetics articles in topics/ (4 articles → 1)~~ ✅
 - **Type**: coalesce
 - **Notes**: Topics section is 20 over its 200-article cap, blocking all expand-topic tasks. Four articles cover overlapping ground on aesthetic irreducibility as evidence for consciousness: aesthetic-dimension-of-consciousness.md (3776 words), aesthetic-irreducibility-arguments.md (2687 words), consciousness-and-aesthetic-creation.md (2662 words), binding-and-beauty.md (2165 words). Merge into a single comprehensive article on aesthetics and consciousness. Saves 3 article slots.
