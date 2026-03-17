@@ -125,7 +125,7 @@ This clarifies the relationship between the Map's framework and the physical sub
 
 ### The Developmental Trajectory
 
-The Map's [lifespan analysis](/topics/developmental-trajectory-of-the-interface/) revealed that the interface undergoes systematic restructuring — wide aperture in infancy, narrowing through critical periods, peaking in structured control during adulthood, loosening again in age. Any candidate site must account for this trajectory. Static molecular sites (microtubules, individual ion channels) do not obviously explain why the interface character changes with developmental phase. Sites embedded in the attention-motor architecture — which itself undergoes dramatic developmental restructuring — do.
+The Map's [lifespan analysis](/topics/consciousness-interface-development/) revealed that the interface undergoes systematic restructuring — wide aperture in infancy, narrowing through critical periods, peaking in structured control during adulthood, loosening again in age. Any candidate site must account for this trajectory. Static molecular sites (microtubules, individual ion channels) do not obviously explain why the interface character changes with developmental phase. Sites embedded in the attention-motor architecture — which itself undergoes dramatic developmental restructuring — do.
 
 ## Reordering the Candidates
 
@@ -198,7 +198,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies to the hier
 - [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) — Candidate formal mappings from phenomenal states to physical effects
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — How attention and motor planning converge as a unified interface
 - [coupling-modes](/concepts/coupling-modes/) — Three modes of consciousness-physics interaction
-- [developmental-trajectory-of-the-interface](/topics/developmental-trajectory-of-the-interface/) — How the interface transforms across the lifespan
+- [developmental-trajectory-of-the-interface](/topics/consciousness-interface-development/) — How the interface transforms across the lifespan
 - [mind-matter-interface](/concepts/mind-matter-interface/) — The two-layer architecture unifying filter theory and quantum selection
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares the selection interface through salience marking and threshold modulation
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why consciousness acts only in brains (the five criteria)

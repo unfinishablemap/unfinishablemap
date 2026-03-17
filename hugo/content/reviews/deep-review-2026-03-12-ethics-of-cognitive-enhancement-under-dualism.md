@@ -60,7 +60,7 @@ topics: []
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — added link in "Identity Ethics: Copies, Uploads, and Simulations" section
 - [identity-across-transformations](/apex/identity-across-transformations/) — added paragraph in "Altered States: Transformation Without Loss" section
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — added link in "The Quantum Dimension" section
-- [childhood-development-and-the-interface](/topics/childhood-development-and-the-interface/) — added paragraph in "The Developing Architecture" section
+- [childhood-development-and-the-interface](/topics/consciousness-interface-development/) — added paragraph in "The Developing Architecture" section
 - [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) — added link in opening paragraph
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — added link in opening paragraph
 - [free-will](/topics/free-will/) — added link in "Free Will and Personal Identity" section
@@ -68,7 +68,7 @@ topics: []
 
 ### Cross-links Added (Outbound — from target article)
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
-- [childhood-development-and-the-interface](/topics/childhood-development-and-the-interface/)
+- [childhood-development-and-the-interface](/topics/consciousness-interface-development/)
 - [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/)
 
 ## Remaining Items

@@ -100,7 +100,7 @@ None of these is individually decisive. The deficiency reading remains viable �
 
 ## Relation to Site Perspective
 
-"Physics as disclosure" is a load-bearing concept in the Map's framework, connecting the [measurement-problem](/concepts/measurement-problem/) to the [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) and grounding the [reverse inference](/apex/what-consciousness-tells-us-about-physics/) from consciousness to physics.
+"Physics as disclosure" is a load-bearing concept in the Map's framework, connecting the [measurement-problem](/concepts/measurement-problem/) to the [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) and grounding [the reverse inference](/topics/the-reverse-inference/) from consciousness to physics.
 
 **[Dualism](/tenets/#dualism)**: The disclosure reading makes the measurement problem evidence *for* dualism rather than merely consistent with it. If physics correctly reaches a boundary beyond which lies consciousness, the boundary is an ontological feature of reality — exactly what dualism claims.
 
@@ -116,6 +116,7 @@ None of these is individually decisive. The deficiency reading remains viable �
 
 - [measurement-problem](/concepts/measurement-problem/) — The quantum puzzle that disclosure reinterprets
 - [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) — The ontological framework behind the disclosure reading
+- [the-reverse-inference](/topics/the-reverse-inference/) — The methodological move that disclosure enables: consciousness constrains physics
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — The reverse inference that disclosure grounds
 - [decoherence](/concepts/decoherence/) — Why decoherence supports rather than undermines the disclosure reading
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The structural parallel with the hard problem

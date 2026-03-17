@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-19
-**Article**: [Childhood Development and the Interface](/topics/childhood-development-and-the-interface/)
+**Article**: [Childhood Development and the Interface](/topics/consciousness-interface-development/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -72,7 +72,7 @@ topics: []
 - Added cross-link to `[interface-friction](/concepts/interface-friction/)` in critical periods section
 - Added cross-link to `[neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/)` in bandwidth section
 - Added cross-link to `[dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)` replacing archived concept
-- Added `[developmental-trajectory-of-the-interface](/topics/developmental-trajectory-of-the-interface/)` to Further Reading and related_articles
+- Added `[developmental-trajectory-of-the-interface](/topics/consciousness-interface-development/)` to Further Reading and related_articles
 - Updated Further Reading to include all active cross-references
 - Clarified Map-internal attribution of baseline cognition framework
 
@@ -81,7 +81,7 @@ topics: []
 - [neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/)
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)
 - [interface-friction](/concepts/interface-friction/)
-- [developmental-trajectory-of-the-interface](/topics/developmental-trajectory-of-the-interface/)
+- [developmental-trajectory-of-the-interface](/topics/consciousness-interface-development/)
 - [baseline-cognition](/concepts/baseline-cognition/)
 
 ## Remaining Items

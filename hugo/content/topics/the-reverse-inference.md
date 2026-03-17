@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-17 04:58:00+00:00
+ai_modified: 2026-03-17 12:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,13 +19,14 @@ description: The reverse inference uses consciousness—our most certain datum�
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-17 04:58:00+00:00
+last_deep_review: 2026-03-17 12:43:00+00:00
 modified: *id001
 related_articles:
 - '[[what-consciousness-tells-us-about-physics]]'
 - '[[tenets]]'
 - '[[stapp-quantum-mind]]'
 - '[[bidirectional-interaction]]'
+- '[[physics-as-disclosure]]'
 title: The Reverse Inference
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -73,7 +74,7 @@ When consciousness is taken as a datum and the Map's tenets are accepted as cons
 
 **The Born rule is an interface specification.** [Born probabilities](/concepts/quantum-probability-consciousness/) describe the terms on which consciousness meets quantum indeterminacy—the constraint space within which selection operates. The rule specifies the menu, not the order.
 
-**The measurement problem is a boundary marker.** The point where the Schrödinger equation meets collapse is not a deficiency in the theory but the boundary between two ontological domains: the structural (described by the wavefunction) and the actualizing (contributed by consciousness). Physics cannot describe this boundary from within, just as a formal system cannot prove its own consistency.
+**The measurement problem is a boundary marker.** The point where the Schrödinger equation meets collapse is not a deficiency in the theory but the boundary between two ontological domains: the structural (described by the wavefunction) and the actualizing (contributed by consciousness). The Map's [disclosure reading](/concepts/physics-as-disclosure/) holds that physics cannot describe this boundary from within, just as a formal system cannot prove its own consistency.
 
 These are not arbitrary consequences. They form a coherent picture: quantum mechanics is *partial*—complete about the structure of possibilities, silent about what makes one possibility actual. The [apex treatment](/apex/what-consciousness-tells-us-about-physics/) develops this picture into a full bi-aspectual ontology.
 
@@ -127,6 +128,7 @@ The reverse inference is one of the Map's central methodological moves. It conne
 - [measurement-problem](/concepts/measurement-problem/) — The problem the reverse inference reinterprets as disclosure
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Born probabilities as interface structure
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness is the secure datum
+- [physics-as-disclosure](/concepts/physics-as-disclosure/) — The measurement problem as boundary disclosure, not theoretical deficiency
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Why interpretive choice matters for consciousness
 - [self-stultification](/concepts/self-stultification/) — The argument motivating bidirectional interaction
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — How collapse works without consciousness

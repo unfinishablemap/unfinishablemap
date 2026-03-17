@@ -43,7 +43,7 @@ topics:
 - '[[attention-as-selection-interface]]'
 ---
 
-The Unfinishable Map's [original treatment](/topics/the-interface-location-problem/) of the interface location problem surveyed four candidate sites — microtubules, ion channels, cortical microcolumns, and attention networks — and argued for principled agnosticism. That agnosticism was appropriate at the time: the candidates appeared roughly co-viable and the Map lacked the internal framework to discriminate among them. Since then, several lines of development have changed the situation. The Map now has a [coupling mode taxonomy](/concepts/coupling-modes/), a detailed [attention-motor convergence](/topics/attention-and-the-consciousness-interface/) account, a [developmental trajectory](/topics/developmental-trajectory-of-the-interface/), dopamine research clarifying the selection-threshold architecture, and a sharper understanding of what the [specification problem](/topics/the-interface-specification-problem/) demands. These developments do not resolve the location problem. They do constrain it — replacing open agnosticism with what might be called *constrained pluralism*, where the viable candidates and their relationships become clearer.
+The Unfinishable Map's [original treatment](/topics/the-interface-location-problem/) of the interface location problem surveyed four candidate sites — microtubules, ion channels, cortical microcolumns, and attention networks — and argued for principled agnosticism. That agnosticism was appropriate at the time: the candidates appeared roughly co-viable and the Map lacked the internal framework to discriminate among them. Since then, several lines of development have changed the situation. The Map now has a [coupling mode taxonomy](/concepts/coupling-modes/), a detailed [attention-motor convergence](/topics/attention-and-the-consciousness-interface/) account, a [developmental trajectory](/topics/consciousness-interface-development/), dopamine research clarifying the selection-threshold architecture, and a sharper understanding of what the [specification problem](/topics/the-interface-specification-problem/) demands. These developments do not resolve the location problem. They do constrain it — replacing open agnosticism with what might be called *constrained pluralism*, where the viable candidates and their relationships become clearer.
 
 ## What Has Changed
 
@@ -63,7 +63,7 @@ This clarifies the relationship between the Map's framework and the physical sub
 
 ### The Developmental Trajectory
 
-The Map's [lifespan analysis](/topics/developmental-trajectory-of-the-interface/) revealed that the interface undergoes systematic restructuring — wide aperture in infancy, narrowing through critical periods, peaking in structured control during adulthood, loosening again in age. Any candidate site must account for this trajectory. Static molecular sites (microtubules, individual ion channels) do not obviously explain why the interface character changes with developmental phase. Sites embedded in the attention-motor architecture — which itself undergoes dramatic developmental restructuring — do.
+The Map's [lifespan analysis](/topics/consciousness-interface-development/) revealed that the interface undergoes systematic restructuring — wide aperture in infancy, narrowing through critical periods, peaking in structured control during adulthood, loosening again in age. Any candidate site must account for this trajectory. Static molecular sites (microtubules, individual ion channels) do not obviously explain why the interface character changes with developmental phase. Sites embedded in the attention-motor architecture — which itself undergoes dramatic developmental restructuring — do.
 
 ## Constraining the Candidates
 
@@ -146,7 +146,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies to the hier
 - [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) — Candidate formal mappings from phenomenal states to physical effects
 - [attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/) — How attention and motor planning converge as a unified interface
 - [coupling-modes](/concepts/coupling-modes/) — Three modes of consciousness-physics interaction
-- [developmental-trajectory-of-the-interface](/topics/developmental-trajectory-of-the-interface/) — How the interface transforms across the lifespan
+- [developmental-trajectory-of-the-interface](/topics/consciousness-interface-development/) — How the interface transforms across the lifespan
 - [mind-matter-interface](/concepts/mind-matter-interface/) — The two-layer architecture unifying filter theory and quantum selection
 
 ## References

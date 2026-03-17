@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-19
-**Article**: [The Developmental Trajectory of the Interface Across the Lifespan](/topics/developmental-trajectory-of-the-interface/)
+**Article**: [The Developmental Trajectory of the Interface Across the Lifespan](/topics/consciousness-interface-development/)
 **Previous review**: Never
 **Word count**: 1865 → 2209 (+344)
 

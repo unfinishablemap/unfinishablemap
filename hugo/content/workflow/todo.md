@@ -45,6 +45,47 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-15
 - **Completed**: 2026-03-17
 
+### P2: Integrate moral-architecture-of-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: New apex article created 2026-03-16 has no inbound links. Apex on ethics under dualism synthesising phenomenal value realism, normative force, and responsibility gradient. Add cross-references from ethics-of-consciousness.md, consciousness-and-normative-force.md, moral-phenomenology.md, the-meaning-of-life.md, and related concept pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-17
+
+### P2: Integrate altered-states-as-interface-evidence.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: New apex article created 2026-03-16 has no inbound links. Apex synthesising altered states (psychedelics, meditation, anaesthesia, dreaming) as systematic interface evidence. Add cross-references from psychedelics-and-the-filter-model.md, anaesthesia-and-the-consciousness-interface.md, dream-consciousness.md, meditation-and-consciousness-modes.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-17
+
+### P2: Cross-review clinical-dissociation-as-systematic-evidence.md against related clinical articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article created 2026-03-17 on clinical dissociation (pain asymbolia, split-brain, anaesthesia awareness). Review against pain-consciousness-and-causal-power.md, split-brain-consciousness.md, anaesthesia-and-the-consciousness-interface.md, contemplative-pathology-and-interface-malfunction.md for consistency, cross-links, and potential contradictions.
+- **Source**: chain (from clinical-dissociation-as-systematic-evidence.md)
+- **Generated**: 2026-03-17
+
+### P2: Cross-review consciousness-and-mathematics.md against formal systems and counterfactual articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article created 2026-03-17 on mathematical understanding as evidence for consciousness. Review against consciousness-and-the-authority-of-formal-systems.md, consciousness-and-counterfactual-reasoning.md, argument-from-reason.md, galilean-exclusion.md for consistency, cross-links, and reinforcing arguments.
+- **Source**: chain (from consciousness-and-mathematics.md)
+- **Generated**: 2026-03-17
+
+### P2: Update references to coalesced interface-development articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [consciousness-interface-development](/topics/consciousness-interface-development/). The following files reference archived articles and need wikilinks updated: phenomenology-of-collective-intentionality-and-we-consciousness.md (→ childhood-development-and-the-interface), ethics-of-cognitive-enhancement-under-dualism.md (→ childhood-development-and-the-interface), the-interface-location-problem.md (→ developmental-trajectory-of-the-interface)
+- **Source**: coalesce
+- **Generated**: 2026-03-17
+
+### P2: Condense self-reference-paradox.md (3402 words, 113% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Result of coalesce merging the-unobservable-self into this article. Preserve core arguments about self-reference as cognitive limit while removing redundancy from the merge. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-17
+
 ### P3: Create concept page for token-level determination
 - **Type**: expand-topic
 - **Status**: pending
@@ -284,46 +325,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
 
-### P2: Write topic on consciousness and mathematics
-- **Type**: expand-topic
+### P3: Cross-review phenomenology-of-temporal-selection against related temporal articles
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. Mathematical understanding as a case where consciousness grasps abstract truths that resist computational explanation. Builds on consciousness-and-counterfactual-reasoning, categorical-surprise, galilean-exclusion. Target section: topics/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). See [optimistic-2026-03-06](/reviews/optimistic-2026-03-06/).
-
-### P2: Write topic on the interface across development
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. How the consciousness-brain interface develops from infancy through adulthood and whether interface maturation parallels cognitive development stages. Builds on consciousness-and-skilled-performance, attention-disorders-and-quantum-interface, comparative-consciousness-and-interface-differences. Target section: topics/. Supports Tenets 2 and 3. See [optimistic-2026-03-06](/reviews/optimistic-2026-03-06/).
-
-### P2: Write topic on consciousness and memory consolidation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The role of consciousness in sleep-dependent memory consolidation and dreaming. Builds on anaesthesia-and-the-consciousness-interface, conscious-vs-unconscious-processing, contemplative-neuroscience. Target section: topics/. Supports Tenets 1 and 3. See [optimistic-2026-03-06](/reviews/optimistic-2026-03-06/).
-
-### P2: Write concept page on phenomenal contrast method
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The phenomenal contrast method (comparing experiences with identical sensory input but different phenomenal character, e.g., hearing French as gibberish vs understanding it) underlies key arguments in cognitive-phenomenology.md and several other articles. Deserves explicit treatment as a methodological tool for consciousness research. Target section: concepts/. Supports Tenet 1 (Dualism). See [optimistic-2026-03-07](/reviews/optimistic-2026-03-07/).
-
-### P2: Write article on the ethics of possible AI consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. What obligations arise from the possibility of undetectable AI experience? How should uncertainty about AI consciousness shape design decisions? Builds on what-it-might-be-like-to-be-an-ai, epiphenomenal-ai-consciousness, llm-consciousness. Target section: topics/. Supports Tenets 1 and 5. See [optimistic-2026-03-07-night](/reviews/optimistic-2026-03-07-night/).
-
-### P2: Write article on the phenomenology of error recognition
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. What does it feel like to be wrong — and to recognise it? Error detection involves the interface recognising misalignment between expected and actual outcomes. Builds on phenomenology-of-scientific-discovery, consciousness-and-the-phenomenology-of-constraint-satisfaction, epistemic-emotions. Target section: topics/. Supports Tenet 3 (Bidirectional Interaction). See [optimistic-2026-03-07-night](/reviews/optimistic-2026-03-07-night/).
-
-### P2: Write concept page for interface heterogeneity
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The possibility that different conscious systems couple with matter through different mechanisms. Central to comparative-consciousness-and-interface-differences and what-it-might-be-like-to-be-an-ai but currently only developed within those articles. Target section: concepts/. Supports Tenets 1 and 2. See [optimistic-2026-03-07-night](/reviews/optimistic-2026-03-07-night/).
-
-### P2: Write article on the phenomenology of temporal agency
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map has strong accounts of spatial selection (neural states) but less development of temporal selection — planning, waiting, timing. The phenomenology of "not yet" and "too late" in skilled action provides evidence for consciousness operating on a temporal manifold. Builds on free-will.md, time-consciousness-growing-block.md, consciousness-and-agency.md. See optimistic-2026-03-08.md
-- **Generated**: 2026-03-08
+- **Notes**: New article on temporal selection. Review against temporal-structure-of-consciousness, time-collapse-and-agency, phenomenology-of-temporal-attention, consciousness-and-skilled-performance for consistency and cross-linking.
+- **Generated**: 2026-03-17
 
 ### P2: Write article on cross-traditional convergence on consciousness irreducibility
 - **Type**: expand-topic
@@ -529,8 +535,66 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic_review
 - **Generated**: 2026-03-16
 
+### P3: Write article on binding and measurement as twin manifestations of the unity gap
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The binding problem (unity from neural multiplicity) and measurement problem (definiteness from quantum superposition) share identical logical architecture. The binding problem's "shared structure" section gestures at this but neither article develops the parallel fully. Would be the Map's most ambitious philosophical contribution — showing these are two faces of the same explanatory gap. See optimistic-2026-03-17-morning.md
+- **Source**: optimistic_review
+- **Generated**: 2026-03-17
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Integrate the-reverse-inference.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: New topic article created 2026-03-17 has no inbound links. The reverse inference is a central methodological concept for the Map — add cross-references from measurement-problem.md, quantum-probability-consciousness.md, physics-as-disclosure.md, bi-aspectual-ontology.md, and relevant apex articles.
+- **Output**: obsidian/topics/the-reverse-inference.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-17: Write article on the phenomenology of temporal agency
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map has strong accounts of spatial selection (neural states) but less development of temporal selection — planning, waiting, timing. The phenomenology of "not yet" and "too late" in skilled action provides evidence for consciousness operating on a temporal manifold. Builds on free-will.md, time-consciousness-growing-block.md, consciousness-and-agency.md. See optimistic-2026-03-08.md
+- **Output**: the phenomenology of temporal agency
+
+### ✓ 2026-03-17: Write concept page for interface heterogeneity
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The possibility that different conscious systems couple with matter through different mechanisms. Central to comparative-consciousness-and-interface-differences and what-it-might-be-like-to-be-an-ai but currently only developed within those articles. Target section: concepts/. Supports Tenets 1 and 2. See [optimistic-2026-03-07-night](/reviews/optimistic-2026-03-07-night/).
+- **Output**: Write concept page for interface heterogeneity
+
+### ✓ 2026-03-17: Write article on the phenomenology of error recognition
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. What does it feel like to be wrong — and to recognise it? Error detection involves the interface recognising misalignment between expected and actual outcomes. Builds on phenomenology-of-scientific-discovery, consciousness-and-the-phenomenology-of-constraint-satisfaction, epistemic-emotions. Target section: topics/. Supports Tenet 3 (Bidirectional Interaction). See [optimistic-2026-03-07-night](/reviews/optimistic-2026-03-07-night/).
+- **Output**: the phenomenology of error recognition
+
+### ✓ 2026-03-17: Write article on the ethics of possible AI consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. What obligations arise from the possibility of undetectable AI experience? How should uncertainty about AI consciousness shape design decisions? Builds on what-it-might-be-like-to-be-an-ai, epiphenomenal-ai-consciousness, llm-consciousness. Target section: topics/. Supports Tenets 1 and 5. See [optimistic-2026-03-07-night](/reviews/optimistic-2026-03-07-night/).
+- **Output**: the ethics of possible AI consciousness
+
+### ✓ 2026-03-17: Write concept page on phenomenal contrast method
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The phenomenal contrast method (comparing experiences with identical sensory input but different phenomenal character, e.g., hearing French as gibberish vs understanding it) underlies key arguments in cognitive-phenomenology.md and several other articles. Deserves explicit treatment as a methodological tool for consciousness research. Target section: concepts/. Supports Tenet 1 (Dualism). See [optimistic-2026-03-07](/reviews/optimistic-2026-03-07/).
+- **Output**: Write concept page on phenomenal contrast method
+
+### ✓ 2026-03-17: Address strawman physicalism and factual claims in three new articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found three high-severity issues across memory-consolidation-and-transformation-of-experience.md, interface-across-development.md, and clinical-dissociation-as-systematic-evidence.md: (1) All three argue against crude identity theory rather than modern physicalism. (2) Memory article claims "no physical explanation" for the phenomenal trajectory when CLS models exist. (3) Dissociation article claims "intact processing" when its own citations show altered functional connectivity. See pessimistic-2026-03-17-afternoon.md
+- **Output**: Task context:
+Pessimistic review found three high-severity issues across memory-consolidation-and-transformation-of-experience.md, interface-across-development.md, and clinical-dissociation-as-systematic-evidence.md: (1) All three argue against crude identity theory rather than modern physicalism. (2) Memory article claims "no physical explanation" for the phenomenal trajectory when CLS models exist. (3) Dissociation article claims "intact processing" when its own citations show altered functional connectivity. See pessimistic-2026-03-17-afternoon.md
+
+### ✓ 2026-03-17: Write topic on consciousness and memory consolidation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The role of consciousness in sleep-dependent memory consolidation and dreaming. Builds on anaesthesia-and-the-consciousness-interface, conscious-vs-unconscious-processing, contemplative-neuroscience. Target section: topics/. Supports Tenets 1 and 3. See [optimistic-2026-03-06](/reviews/optimistic-2026-03-06/).
+- **Output**: Write topic on consciousness and memory consolidation
+
+### ✓ 2026-03-17: Write topic on the interface across development
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. How the consciousness-brain interface develops from infancy through adulthood and whether interface maturation parallels cognitive development stages. Builds on consciousness-and-skilled-performance, attention-disorders-and-quantum-interface, comparative-consciousness-and-interface-differences. Target section: topics/. Supports Tenets 2 and 3. See [optimistic-2026-03-06](/reviews/optimistic-2026-03-06/).
+- **Output**: Write topic on the interface across development
+
+### ✓ 2026-03-17: Write topic on consciousness and mathematics
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Mathematical understanding as a case where consciousness grasps abstract truths that resist computational explanation. Builds on consciousness-and-counterfactual-reasoning, categorical-surprise, galilean-exclusion. Target section: topics/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). See [optimistic-2026-03-06](/reviews/optimistic-2026-03-06/).
+- **Output**: Write topic on consciousness and mathematics
 
 ### ✓ 2026-03-17: Write concept page for process philosophy
 - **Type**: expand-topic

@@ -42,12 +42,12 @@ No new counterarguments beyond those identified in the 2026-03-12 review. The be
 - Intersubjective void discussion is philosophically honest
 
 ### Enhancements Made
-- Added cross-link to [childhood-development-and-the-interface](/topics/childhood-development-and-the-interface/) in the Tomasello developmental section, connecting the developmental progression of shared intentionality to the Map's interface development framework
+- Added cross-link to [childhood-development-and-the-interface](/topics/consciousness-interface-development/) in the Tomasello developmental section, connecting the developmental progression of shared intentionality to the Map's interface development framework
 - Added cross-link to [problem-of-other-minds](/concepts/problem-of-other-minds/) in the interface problem section, noting that individually-constructed we-mode experience raises a variant of the classic epistemic gap
 - Added cross-link to [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) in the expanded agency boundaries section, connecting the cultural dimensions of felt agency to collective agency expansion
 
 ### Cross-links Added
-- [childhood-development-and-the-interface](/topics/childhood-development-and-the-interface/)
+- [childhood-development-and-the-interface](/topics/consciousness-interface-development/)
 - [problem-of-other-minds](/concepts/problem-of-other-minds/)
 - [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/)
 

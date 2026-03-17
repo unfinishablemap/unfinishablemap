@@ -265,6 +265,7 @@ The choice of quantum interpretation bears directly on all five [tenets](/tenets
 - [tenets](/tenets/) — Foundational commitments including No Many Worlds
 
 ### Related Apex Articles
+- [the-reverse-inference](/topics/the-reverse-inference/) — The methodological move: using consciousness as secure datum to constrain physics
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — The reverse inference: what consciousness, taken as datum, reveals about the structure of physics
 - [interface-specification-programme](/apex/interface-specification-programme/) — How the Map specifies the mechanism of consciousness-physics interaction
 

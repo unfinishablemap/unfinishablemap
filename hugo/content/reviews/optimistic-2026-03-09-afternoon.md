@@ -87,7 +87,7 @@ The Map practices epistemic humility without surrendering to it. [selection-laws
 - **Tenet alignment**: Dualism (consciousness is not reducible to neural activity—implications for treatment), Bidirectional Interaction (placebo effects, psychosomatic phenomena)
 
 #### Developmental Phenomenology: How the Interface Matures
-- **Builds on**: [childhood-development-and-the-interface](/topics/childhood-development-and-the-interface/), [developmental-trajectory-of-the-interface](/topics/developmental-trajectory-of-the-interface/), [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-threshold-in-cognitive-evolution/)
+- **Builds on**: [childhood-development-and-the-interface](/topics/consciousness-interface-development/), [developmental-trajectory-of-the-interface](/topics/consciousness-interface-development/), [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-threshold-in-cognitive-evolution/)
 - **Would address**: The Map discusses interface development in children but lacks a systematic treatment of how phenomenal experience changes across the lifespan—infant consciousness, adolescent self-awareness, cognitive decline in aging
 - **Estimated scope**: Medium article (1000-1500 words)
 - **Tenet alignment**: Bidirectional Interaction (developing interface increases causal efficacy), Minimal Quantum Interaction (interface maturation as tuning process)

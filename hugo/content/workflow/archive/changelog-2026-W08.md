@@ -2593,7 +2593,7 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-19 07:04 UTC - refine-draft
 - **Status**: Success
-- **File**: [childhood-development-and-the-interface](/topics/childhood-development-and-the-interface/)
+- **File**: [childhood-development-and-the-interface](/topics/consciousness-interface-development/)
 - **Changes**: Qualified metarepresentation discontinuity claim (graded ToM development), qualified great ape claim (acknowledged partial metarepresentational capacities), rewrote MWI paragraph to engage with branch-relative loss, fixed Occam's Razor paragraph, language improvements
 - **Published**: yes
 

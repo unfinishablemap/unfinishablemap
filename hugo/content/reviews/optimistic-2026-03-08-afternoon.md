@@ -105,7 +105,7 @@ The Map navigates the space between cognitive closure and defeatism with unusual
 - **Tenet alignment**: Dualism (abstract objects as non-physical), Bidirectional Interaction (mathematical understanding requires consciousness engaging with formal structure)
 
 #### The Interface in Developmental Perspective
-- **Builds on**: [childhood-development-and-the-interface](/topics/childhood-development-and-the-interface/), [developmental-trajectory-of-the-interface](/topics/developmental-trajectory-of-the-interface/)
+- **Builds on**: [childhood-development-and-the-interface](/topics/consciousness-interface-development/), [developmental-trajectory-of-the-interface](/topics/consciousness-interface-development/)
 - **Would address**: How does the consciousness-brain interface develop ontogenetically? Infant consciousness research (preferential looking, violation-of-expectation) provides data on when and how consciousness begins engaging with neural systems. The developmental trajectory could illuminate what the interface requires versus what it merely uses.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Minimal Quantum Interaction (developing interface suggests gradual coupling), Dualism (consciousness present before full neural maturity?)

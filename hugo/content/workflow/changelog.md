@@ -18,6 +18,115 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 12:59 UTC - coalesce
+- **Status**: Success
+- **Sources**: [childhood-development-and-the-interface](/topics/consciousness-interface-development/), [developmental-trajectory-of-the-interface](/topics/consciousness-interface-development/), [interface-across-development](/topics/consciousness-interface-development/)
+- **Target**: [consciousness-interface-development](/topics/consciousness-interface-development/)
+- **Archived**: archive/topics/childhood-development-and-the-interface.md, archive/topics/developmental-trajectory-of-the-interface.md, archive/topics/interface-across-development.md
+- **References to review**: 3 (phenomenology-of-collective-intentionality-and-we-consciousness, ethics-of-cognitive-enhancement-under-dualism, the-interface-location-problem)
+
+## 2026-03-17 12:43 UTC - deep-review
+- **Status**: Success
+- **File**: [the-reverse-inference](/topics/the-reverse-inference/)
+- **Word count**: 1671 → 1689 (+18)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing physics-as-disclosure cross-link, orphan status)
+- **Enhancements made**: 9 (1 outbound cross-link added, 8 inbound links from related articles)
+- **Output**: [deep-review-2026-03-17b-the-reverse-inference](/reviews/deep-review-2026-03-17b-the-reverse-inference/)
+
+## 2026-03-17 12:34 UTC - deep-review
+- **Status**: Success
+- **File**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
+- **Word count**: 1875 → 1964 (+89)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing No Many Worlds tenet, missing cross-links)
+- **Enhancements made**: 4 (3 cross-links added, 1 tenet paragraph added)
+- **Output**: [deep-review-2026-03-17-ethics-of-possible-ai-consciousness](/reviews/deep-review-2026-03-17-ethics-of-possible-ai-consciousness/)
+
+## 2026-03-17 12:14 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Phenomenology of Temporal Selection
+- **Output**: [phenomenology-of-temporal-selection](/topics/phenomenology-of-temporal-selection/)
+- **Word count**: 1717
+- **Based on research**: No (developed from task notes identifying gap in temporal selection coverage; builds on temporal-structure-of-consciousness, time-collapse-and-agency, consciousness-and-skilled-performance)
+
+## 2026-03-17 11:58 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Interface Heterogeneity
+- **Output**: [interface-heterogeneity](/concepts/interface-heterogeneity/)
+- **Word count**: 1464
+- **Based on research**: No (synthesised from existing articles: comparative-consciousness-and-interface-differences, what-it-might-be-like-to-be-an-ai)
+
+## 2026-03-17 11:43 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 424+ non-draft articles across topics (~224), concepts (~202), tenets (1). Deep reading of 10 articles focusing on the Map's argumentative backbone.
+- **Output**: [optimistic-2026-03-17-morning](/reviews/optimistic-2026-03-17-morning/)
+
+## 2026-03-17 11:13 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Ethics of Possible AI Consciousness
+- **Output**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
+- **Word count**: 1875
+- **Based on research**: no (drew on existing research in epiphenomenal-ai-consciousness-2026-02-10.md)
+
+## 2026-03-17 10:58 UTC - deep-review
+- **Status**: Success
+- **File**: [memory-consolidation-and-transformation-of-experience](/topics/memory-consolidation-and-transformation-of-experience/)
+- **Word count**: 2086 → 2223 (+137)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-17-memory-consolidation-and-transformation-of-experience](/reviews/deep-review-2026-03-17-memory-consolidation-and-transformation-of-experience/)
+
+## 2026-03-17 10:47 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal Contrast Method
+- **Output**: [phenomenal-contrast-method](/concepts/phenomenal-contrast-method/)
+- **Word count**: 1234
+- **Based on research**: no
+- **Published**: yes
+
+## 2026-03-17 10:28 UTC - refine-draft
+- **Status**: Success
+- **Files**: [memory-consolidation-and-transformation-of-experience](/topics/memory-consolidation-and-transformation-of-experience/), [interface-across-development](/topics/consciousness-interface-development/), [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
+- **Changes**: Addressed 3 high-severity pessimistic review findings: (1) all three articles now engage modern physicalism (functionalism, GWT, IIT, predictive processing) rather than crude identity theory; (2) memory article acknowledges CLS models while preserving phenomenal gap argument; (3) dissociation article replaces "intact processing" claims with precise "selective connectivity disruption" language consistent with its own Vuilleumier citation
+- **Published**: yes
+
+## 2026-03-17 10:13 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: memory-consolidation-and-transformation-of-experience.md, interface-across-development.md, clinical-dissociation-as-systematic-evidence.md
+- **Output**: [pessimistic-2026-03-17-afternoon](/reviews/pessimistic-2026-03-17-afternoon/)
+
+## 2026-03-17 09:59 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Memory Consolidation and the Transformation of Experience
+- **Output**: [memory-consolidation-and-transformation-of-experience](/topics/memory-consolidation-and-transformation-of-experience/)
+- **Word count**: 1950
+- **Based on research**: yes ([sleep-memory-consolidation-consciousness-2026-01-18](/research/sleep-memory-consolidation-consciousness-2026-01-18/))
+
+## 2026-03-17 09:43 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Interface Across Development
+- **Output**: [interface-across-development](/topics/consciousness-interface-development/)
+- **Word count**: 2206
+- **Based on research**: no
+
+## 2026-03-17 09:28 UTC - deep-review
+- **Status**: Success
+- **File**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
+- **Word count**: 1887 → 2007 (+120)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-17-clinical-dissociation-as-systematic-evidence](/reviews/deep-review-2026-03-17-clinical-dissociation-as-systematic-evidence/)
+
+## 2026-03-17 09:15 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Self-Reference and the Limits of Physical Description
+- **Output**: [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/)
+- **Word count**: 2046
+- **Based on research**: yes, [godel-measurement-problem-analogy-2026-03-14](/research/godel-measurement-problem-analogy-2026-03-14/) and [mathematical-structure-consciousness-physics-interface-2026-03-14](/research/mathematical-structure-consciousness-physics-interface-2026-03-14/)
+
 ## 2026-03-17 08:43 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Clinical dissociation as systematic evidence
