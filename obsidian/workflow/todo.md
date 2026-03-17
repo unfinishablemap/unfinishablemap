@@ -283,11 +283,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
 
-### P2: Write article on the phenomenology of temporal agency
-- **Type**: expand-topic
+### P3: Cross-review phenomenology-of-temporal-selection against related temporal articles
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map has strong accounts of spatial selection (neural states) but less development of temporal selection — planning, waiting, timing. The phenomenology of "not yet" and "too late" in skilled action provides evidence for consciousness operating on a temporal manifold. Builds on free-will.md, time-consciousness-growing-block.md, consciousness-and-agency.md. See optimistic-2026-03-08.md
-- **Generated**: 2026-03-08
+- **Notes**: New article on temporal selection. Review against temporal-structure-of-consciousness, time-collapse-and-agency, phenomenology-of-temporal-attention, consciousness-and-skilled-performance for consistency and cross-linking.
+- **Generated**: 2026-03-17
 
 ### P2: Write article on cross-traditional convergence on consciousness irreducibility
 - **Type**: expand-topic
@@ -502,6 +502,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Write article on the phenomenology of temporal agency
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The Map has strong accounts of spatial selection (neural states) but less development of temporal selection — planning, waiting, timing. The phenomenology of "not yet" and "too late" in skilled action provides evidence for consciousness operating on a temporal manifold. Builds on free-will.md, time-consciousness-growing-block.md, consciousness-and-agency.md. See optimistic-2026-03-08.md
+- **Output**: the phenomenology of temporal agency
 
 ### ✓ 2026-03-17: Write concept page for interface heterogeneity
 - **Type**: expand-topic
