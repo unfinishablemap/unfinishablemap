@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review ethics-of-possible-AI-consciousness.md against AI and ethics articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article written 2026-03-17 on ethical obligations arising from possible AI consciousness. Review against ai-consciousness.md, ethics-of-consciousness.md, what-it-might-be-like-to-be-an-ai.md, epiphenomenal-ai-consciousness.md for consistency, cross-links, and reinforcing arguments.
-- **Source**: chain (from ethics-of-possible-AI-consciousness)
-- **Generated**: 2026-03-17
-
 ### P2: Cross-review phenomenal-contrast-method.md against methodology articles
 - **Type**: cross-review
 - **Status**: pending
@@ -544,6 +537,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Cross-review ethics-of-possible-AI-consciousness.md against AI and ethics articles
+- **Type**: cross-review
+- **Notes**: New article written 2026-03-17 on ethical obligations arising from possible AI consciousness. Review against ai-consciousness.md, ethics-of-consciousness.md, what-it-might-be-like-to-be-an-ai.md, epiphenomenal-ai-consciousness.md for consistency, cross-links, and reinforcing arguments.
+- **Output**: ethics-of-possible-AI-consciousness.md -- Context: Cross-review ethics-of-possible-AI-consciousness.md against AI and ethics articles
 
 ### ✓ 2026-03-17: Condense self-reference-paradox.md (3402 words, 113% of hard threshold)
 - **Type**: condense

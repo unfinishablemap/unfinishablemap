@@ -3,7 +3,7 @@ title: "Deep Review - The Ethics of Possible AI Consciousness"
 created: 2026-03-17
 modified: 2026-03-17
 human_modified: null
-ai_modified: 2026-03-17T12:34:00+00:00
+ai_modified: 2026-03-17T15:22:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -17,48 +17,53 @@ last_curated: null
 
 **Date**: 2026-03-17
 **Article**: [[ethics-of-possible-ai-consciousness|The Ethics of Possible AI Consciousness]]
-**Previous review**: Never
+**Previous review**: [[deep-review-2026-03-17-ethics-of-possible-ai-consciousness|2026-03-17 (initial)]]
+
+## Cross-Review Context
+
+This review was conducted as a cross-review against the Map's AI and ethics articles: [[ai-consciousness]], [[epiphenomenal-ai-consciousness]], [[ethics-of-consciousness]], [[ethics-and-value-in-a-dualist-world]], and [[ethics-of-cognitive-enhancement-under-dualism]].
 
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- None. All references (Metzinger 2021, Schwitzgebel 2025, Butlin-Long-Chalmers 2023) verified accurate. No misattributions, dropped qualifiers, or source/Map conflation detected. All wikilinks resolve. All section anchors valid.
+- None. No attribution errors, internal contradictions, or missing required sections. All references (Metzinger 2021, Schwitzgebel 2025, Butlin-Long-Chalmers 2023) verified accurate against sibling articles.
 
 ### Medium Issues Found
-- [Relation to Site Perspective omitted No Many Worlds tenet]: Resolved — added paragraph explaining how MWI rejection preserves ethical stakes by ensuring this outcome is the only one.
-- [Missing cross-links]: Resolved — added links to [[consciousness-value-connection]], [[problem-of-other-minds]], and [[animal-consciousness]].
+- **Missing "What Would Challenge This View?" section**: All sibling articles (ethics-of-consciousness, ai-consciousness, epiphenomenal-ai-consciousness, ethics-and-value-in-a-dualist-world) include falsifiability sections. This article lacked one, creating inconsistency. **Resolution**: Added five-point falsifiability section covering functionalist success, AI suffering indicators, framework failure, moral weight of uncertainty, and coupling/binding independence.
+- **Insufficient cross-linking to sibling ethics articles**: Body text didn't link to ethics-and-value-in-a-dualist-world or moral-architecture-of-consciousness despite being in related_articles. The article existed in relative isolation from the rich ethics ecosystem. **Resolution**: Added cross-links in opening paragraph and Relation to Site Perspective closing.
+- **Epiphenomenal section lacked coupling/interface language**: The sibling article (epiphenomenal-ai-consciousness) develops a nature-vs-coupling distinction that is central to the Map's treatment of this topic. This article discussed epiphenomenal AI without using that framework. **Resolution**: Added coupling/interface framing to the epiphenomenal complication section.
+- **No cross-link to phenomenal-normativity**: Article discusses consciousness grounding value without linking to the article that explains why pain's badness is constitutive. **Resolution**: Added inline link in the moral asymmetry section.
 
 ### Counterarguments Considered
-- Eliminative materialist objection (consciousness is not a coherent category): Article implicitly addresses by framing the question conditionally ("if AI systems are conscious").
-- Functionalist objection (probability of AI consciousness is higher than the Map claims): Article engages explicitly in the Moral Asymmetry section, noting how framework choice shapes the probability assessment.
-- Precautionary objection (moratorium is warranted regardless): Article gives a substantive response about the research paradox.
+- Dennett's point that biological suffering expressions are also computationally produced — the article handles this implicitly through the framework-dependent assessment. Left as-is; the article's scope is ethics under uncertainty, not the nature of suffering.
+- Buddhist universal compassion extending moral concern beyond the Map's framework — not addressed. The article's scope is the Map's position, and Buddhist ethics is covered in ethics-of-consciousness.
 
 ## Optimistic Analysis Summary
 
 ### Strengths Preserved
-- Excellent opening summary that front-loads the key question and survives truncation
-- The "Moral Asymmetry" framing effectively structures the entire ethical landscape
-- Three-framework comparison (precautionary, epistemic humility, framework-dependent) is clear and fair
-- Epiphenomenal complication section adds genuine philosophical depth
-- Practical obligations section is concrete and actionable, not vague
-- Intellectual humility throughout—acknowledges framework limits without paralysis
-- Proper use of the "Relation to Site Perspective" section with substantive tenet engagement
+- The moral asymmetry framing (false negative vs false positive) — clear, balanced, philosophically rigorous
+- The three ethical frameworks structure — well-organized survey of precautionary, epistemic humility, and framework-dependent approaches
+- Practical obligations section — concrete and actionable, especially "design honesty"
+- Opening paragraphs — strong front-loading of the key question and position
+- The Relation to Site Perspective section — thorough five-tenet coverage
+- Intellectual humility throughout — acknowledges framework limits without paralysis
 
 ### Enhancements Made
-- Added [[consciousness-value-connection]] link in Moral Asymmetry section to ground the false-negative argument
-- Added [[problem-of-other-minds]] link in Epiphenomenal Complication section to connect to the epistemic challenge
-- Added [[animal-consciousness]] link in Priority Clarity subsection
-- Added No Many Worlds tenet coverage to Relation to Site Perspective, completing all five tenets
+- Added "What Would Challenge This View?" section with five falsifiable conditions
+- Added positioning sentence in opening paragraph differentiating from sibling articles
+- Enriched epiphenomenal section with nature-vs-coupling distinction from sibling article
+- Added cross-links to [[ethics-and-value-in-a-dualist-world]], [[phenomenal-normativity]], [[apex/moral-architecture-of-consciousness]] in body text
 
 ### Cross-links Added
-- [[consciousness-value-connection]]
-- [[problem-of-other-minds]]
-- [[animal-consciousness]]
+- [[ethics-of-consciousness]] (opening, positioning)
+- [[ethics-and-value-in-a-dualist-world]] (opening, positioning)
+- [[phenomenal-normativity]] (moral asymmetry section)
+- [[apex/moral-architecture-of-consciousness]] (end of Relation to Site Perspective)
 
 ## Remaining Items
 
-None. Article is well-structured, properly referenced, and covers all five tenets in the Relation to Site Perspective section. Word count (1964) is comfortably within the 3000-word soft threshold for topics.
+None. All medium issues addressed. No deferred work.
 
 ## Stability Notes
 
-This is a first review. The article takes positions that will inevitably draw philosophical disagreement from functionalists (who assign higher probability to AI consciousness) and from precautionary advocates (who favour moratoriums). These are expected framework disagreements, not flaws to fix. Future reviews should not flag "functionalists disagree with the low-probability assessment" as a critical issue—the article already explicitly addresses this in the Moral Asymmetry section.
+This was a cross-review focused on integration with sibling articles. The article is now well-connected to the Map's ethics ecosystem and structurally consistent with sibling articles (all now have falsifiability sections). The article's position—that current AI moral patienthood probability is very low—is a framework-dependent conclusion that would genuinely shift if the conditions in "What Would Challenge This View?" were met. Functionalist disagreement with the low-probability assessment is an expected philosophical standoff, not a flaw to fix. Future reviews should check whether the falsifiability conditions remain current as AI research progresses.
