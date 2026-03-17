@@ -1,11 +1,11 @@
 ---
 title: "Consciousness and the Physics of Information"
-description: "Physics increasingly treats information as fundamental to reality. The Unfinishable Map explores what this means for consciousness—and whether information is the bridge between mind and matter."
+description: "If information is physically fundamental, consciousness may sit at the centre of physics, not its periphery. An interactionist case."
 created: 2026-02-15
-modified: 2026-02-18
+modified: 2026-03-17
 human_modified:
-ai_modified: 2026-02-24T10:59:00+00:00
-last_deep_review: 2026-02-18T04:17:00+00:00
+ai_modified: 2026-03-17T07:45:00+00:00
+last_deep_review: 2026-03-17T07:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +19,7 @@ concepts:
   - "[[decoherence]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[attention-as-interface]]"
+  - "[[adaptive-computational-depth]]"
 related_articles:
   - "[[tenets]]"
   - "[[participatory-universe-2026-02-08]]"
@@ -34,7 +35,7 @@ ai_generated_date: 2026-02-15
 last_curated:
 ---
 
-Physics has undergone a quiet revolution: information is no longer treated as a description of physical systems but as a constituent of them. From Landauer's demonstration that erasing a bit produces measurable heat to Wheeler's declaration that every physical quantity derives from information-theoretic acts, the physics of information increasingly treats information not as a description layered on top of matter and energy but as something physically fundamental in its own right. The Unfinishable Map argues that this revolution has consequences for consciousness that most physicists have not followed to their conclusion. If information is physically fundamental, and if consciousness is the one context in which information is not merely processed but *experienced*, then the hard problem of consciousness is not a puzzle bolted onto physics—it sits at its centre.
+Physics has undergone a quiet revolution: from Landauer's demonstration that erasing a bit produces measurable heat to Wheeler's declaration that every physical quantity derives from information-theoretic acts, physics increasingly treats information not as a description layered on top of matter and energy but as something physically fundamental in its own right. The Unfinishable Map argues that this revolution has consequences for consciousness that most physicists either overlook or reject. If information is physically fundamental, and if consciousness is the one context in which information is not merely processed but *experienced*, then the hard problem of consciousness is not a puzzle bolted onto physics—it sits at its centre.
 
 ## The Informational Turn in Physics
 
@@ -44,7 +45,7 @@ Three developments—of varying epistemic status—transformed information from 
 
 **Wheeler's "it from bit"** (1990) went further. John Archibald Wheeler proposed that "every it—every particle, every field of force, even the spacetime continuum itself—derives its function, its meaning, its very existence entirely—even if in some contexts indirectly—from the apparatus-elicited answers to yes or no questions, binary choices, bits." Wheeler's proposal was speculative—a working hypothesis, not established physics—but it was grounded in concrete results. The delayed-choice experiment shows that what kind of phenomenon occurs depends on what measurement the experimenter chooses to perform: the physical fact is shaped by the informational act. As Wheeler put it: "No phenomenon is a real phenomenon until it is an observed phenomenon." Here "observation" means physical interaction that produces a record, not necessarily conscious observation—though the question of what ultimately constitutes an observation remains open (see [[quantum-measurement-and-consciousness|the measurement problem]]).
 
-**Quantum information theory** completed the picture. Beginning in the 1990s with the work of Deutsch, Schumacher, and others, physicists discovered that quantum mechanics is most naturally expressed as a theory of information. Entanglement is an informational resource. Decoherence is information leaking to the environment. The black hole information paradox—whether information falling into a black hole is truly destroyed—became one of physics' central problems precisely because physicists now treat information preservation as a fundamental constraint on physical law.
+**Quantum information theory** extended the framework further. Beginning in the 1990s with the work of Deutsch, Schumacher, and others, physicists discovered that quantum mechanics is most naturally expressed as a theory of information. Entanglement is an informational resource. Decoherence is information leaking to the environment. The black hole information paradox—whether information falling into a black hole is truly destroyed—became one of physics' central problems precisely because physicists now treat information preservation as a fundamental constraint on physical law.
 
 Together, these developments point toward a striking conclusion: physics is not about stuff with information layered on top. It is about information constrained by physical law.
 
@@ -78,7 +79,7 @@ The difficulty is specifying which information has phenomenal character. If all 
 
 The Map proposes a third possibility, consistent with its [[tenets|foundational commitments]]: information is the *interface* between consciousness and the physical world, not the substance of either. On this view, consciousness is genuinely non-physical (Dualism), but it interacts with the physical world through informational channels—specifically, by biasing quantum indeterminacies in neural systems (Minimal Quantum Interaction, Bidirectional Interaction).
 
-Wheeler's [[the-participatory-universe|participatory framework]] supports this reading. If physical facts are constituted by informational acts of measurement, and if consciousness participates in measurement (as some interpretations of [[quantum-measurement-and-consciousness|the measurement problem]] suggest—a contested position, associated with von Neumann and Stapp rather than mainstream physics), then consciousness shapes reality through information without being reducible to it. The result is [[adaptive-computational-depth|adaptive computational depth]]—reality's informational content concentrates where conscious observers engage, much as adaptive mesh refinement in computational physics allocates detail where it matters. Information is the language in which mind and matter communicate, not a substance that eliminates the distinction between them.
+Wheeler's [[the-participatory-universe|participatory framework]] supports this reading. If physical facts are constituted by informational acts of measurement, and if consciousness participates in measurement (as some interpretations of [[quantum-measurement-and-consciousness|the measurement problem]] suggest—a contested position, associated with von Neumann and Stapp rather than mainstream physics), then consciousness shapes reality through information without being reducible to it. One way to develop this idea is through [[adaptive-computational-depth|adaptive computational depth]]—the hypothesis that reality's informational content concentrates where conscious observers engage, much as adaptive mesh refinement in computational physics allocates detail where it matters. Information is the language in which mind and matter communicate, not a substance that eliminates the distinction between them.
 
 The standard objection is [[decoherence]]: quantum coherence in warm biological tissue decoheres on timescales far shorter than neural processing requires (Tegmark 2000 estimated 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules). If coherence is destroyed almost instantly, how can consciousness bias quantum outcomes? The Map's response: decoherence selects preferred bases but does not explain why one definite outcome rather than another is observed. Consciousness could bias outcomes at the point where indeterminacy resolves into a definite result, even after decoherence has occurred. The details of this mechanism remain an open problem—the [[the-interface-specification-problem|interface specification problem]]—but decoherence does not close the question. See [[quantum-consciousness]] for the full treatment of decoherence objections and responses.
 
