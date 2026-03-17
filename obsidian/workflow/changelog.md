@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 06:28 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-moral-agency-under-duress]]
+- **Word count**: 2028 → 2067 (+39)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing related_articles, missing cross-link to new content, minor prose)
+- **Enhancements made**: 1 (cross-link to phenomenology-of-moral-deliberation)
+- **Output**: [[reviews/deep-review-2026-03-17-consciousness-and-moral-agency-under-duress]]
+
 ## 2026-03-17 06:15 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-probability-consciousness]]
