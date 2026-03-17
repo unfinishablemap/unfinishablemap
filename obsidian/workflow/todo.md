@@ -283,11 +283,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
 
-### P2: Write topic on the interface across development
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. How the consciousness-brain interface develops from infancy through adulthood and whether interface maturation parallels cognitive development stages. Builds on consciousness-and-skilled-performance, attention-disorders-and-quantum-interface, comparative-consciousness-and-interface-differences. Target section: topics/. Supports Tenets 2 and 3. See [[reviews/optimistic-2026-03-06]].
-
 ### P2: Write topic on consciousness and memory consolidation
 - **Type**: expand-topic
 - **Status**: pending
@@ -525,6 +520,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Write topic on the interface across development
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. How the consciousness-brain interface develops from infancy through adulthood and whether interface maturation parallels cognitive development stages. Builds on consciousness-and-skilled-performance, attention-disorders-and-quantum-interface, comparative-consciousness-and-interface-differences. Target section: topics/. Supports Tenets 2 and 3. See [[reviews/optimistic-2026-03-06]].
+- **Output**: Write topic on the interface across development
 
 ### ✓ 2026-03-17: Write topic on consciousness and mathematics
 - **Type**: expand-topic
