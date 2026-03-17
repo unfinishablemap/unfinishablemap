@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense temporal-void.md (3120 words, 104% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3000-word hard threshold for voids/. Result of coalesce merging temporal-asymmetry-remembering-anticipating into this article. Preserve core arguments while removing redundancy from the merge. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-17
-
 ### ~~P1: Coalesce aesthetics articles in topics/ (4 articles → 1)~~ ✅
 - **Type**: coalesce
 - **Notes**: Topics section is 20 over its 200-article cap, blocking all expand-topic tasks. Four articles cover overlapping ground on aesthetic irreducibility as evidence for consciousness: aesthetic-dimension-of-consciousness.md (3776 words), aesthetic-irreducibility-arguments.md (2687 words), consciousness-and-aesthetic-creation.md (2662 words), binding-and-beauty.md (2165 words). Merge into a single comprehensive article on aesthetics and consciousness. Saves 3 article slots.
@@ -527,6 +520,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Condense temporal-void.md (3120 words, 104% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Result of coalesce merging temporal-asymmetry-remembering-anticipating into this article. Preserve core arguments while removing redundancy from the merge. See /condense skill.
+- **Output**: obsidian/voids/temporal-void.md
 
 ### ✓ 2026-03-17: Condense collapse-and-time.md (3646 words, 104% of hard threshold)
 - **Type**: condense
