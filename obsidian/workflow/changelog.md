@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 03:58 UTC - research-topic
+- **Status**: Success
+- **Topic**: Russellian monism as competitor to bi-aspectual dualism (supplement)
+- **Output**: [[russellian-monism-bi-aspectual-dualism-supplement-2026-03-17]]
+- **Sources consulted**: 12
+- **Notes**: Supplements existing research from 2026-03-14. Covers five identified gaps: cosmopsychism/decombination, quantum Russellian monism (Lockwood), many-worlds compatibility, recent 2024–2025 developments (Hashemi, Brown), and Kind's collapse thesis. Key finding: Hashemi (2024) argues RM is best read as dual-aspect monism, directly challenging the Map's bi-aspectual distinctiveness.
+
 ## 2026-03-17 03:43 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenal-depth]]
