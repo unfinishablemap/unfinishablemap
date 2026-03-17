@@ -26,6 +26,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-02-19T06:04:00+00:00
+archived: true
+archived_date: 2026-03-17T12:59:00+00:00
+superseded_by: "/topics/consciousness-interface-development/"
+archive_reason: "Coalesced into The Consciousness-Brain Interface Across Development"
+original_path: "/topics/childhood-development-and-the-interface/"
 ---
 
 The Unfinishable Map's [[mind-matter-interface|interface model]] treats the brain as a structured surface through which consciousness engages the physical world. But this interface is not delivered whole at birth. It develops — and the developmental trajectory reveals something important about how consciousness and neural architecture shape each other. Critical periods close off perceptual territories permanently. Metarepresentational capacities emerge only after specific neural infrastructure matures. The interface that an infant consciousness works through differs substantially from an adult's, and the transition between them is neither smooth nor reversible.

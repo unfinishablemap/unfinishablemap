@@ -27,6 +27,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-02-19T07:34:00+00:00
+archived: true
+archived_date: 2026-03-17T12:59:00+00:00
+superseded_by: "/topics/consciousness-interface-development/"
+archive_reason: "Coalesced into The Consciousness-Brain Interface Across Development"
+original_path: "/topics/developmental-trajectory-of-the-interface/"
 ---
 
 The Unfinishable Map's [[mind-matter-interface|interface model]] holds that consciousness engages the physical world through the brain's neural architecture. What is often overlooked is that this interface undergoes continuous transformation across an entire human lifespan — not as steady improvement but as a sequence of restructurings, each with characteristic gains and losses. The infant's wide-aperture interface narrows into the focused efficiency of adulthood, then loosens again in old age through a process that is neither simple decline nor return. Each stage presents consciousness with a different set of possibilities and constraints. No single phase represents the interface "working properly." The trajectory itself is the phenomenon that demands explanation.

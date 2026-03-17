@@ -72,6 +72,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from consciousness-and-mathematics.md)
 - **Generated**: 2026-03-17
 
+### P2: Update references to coalesced interface-development articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [[consciousness-interface-development]]. The following files reference archived articles and need wikilinks updated: phenomenology-of-collective-intentionality-and-we-consciousness.md (→ childhood-development-and-the-interface), ethics-of-cognitive-enhancement-under-dualism.md (→ childhood-development-and-the-interface), the-interface-location-problem.md (→ developmental-trajectory-of-the-interface)
+- **Source**: coalesce
+- **Generated**: 2026-03-17
+
 ### P2: Condense self-reference-paradox.md (3402 words, 113% of hard threshold)
 - **Type**: condense
 - **Status**: pending

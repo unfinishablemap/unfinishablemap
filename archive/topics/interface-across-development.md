@@ -32,6 +32,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
 last_deep_review:
+archived: true
+archived_date: 2026-03-17T12:59:00+00:00
+superseded_by: "/topics/consciousness-interface-development/"
+archive_reason: "Coalesced into The Consciousness-Brain Interface Across Development"
+original_path: "/topics/interface-across-development/"
 ---
 
 The Unfinishable Map's [[mind-matter-interface|interface model]] treats the brain as a structured surface through which consciousness engages the physical world. The [[developmental-trajectory-of-the-interface|lifespan trajectory]] of this interface and its [[childhood-development-and-the-interface|childhood mechanics]] are explored elsewhere. What has received less attention is how recognised stages of cognitive development — the transitions that developmental psychology has documented for over a century — correspond to qualitatively different modes of interface operation. Sensorimotor, preoperational, concrete operational, and formal operational thought are not merely cognitive labels. On the Map's framework, they describe an interface progressively gaining the structural complexity needed for consciousness to exercise increasingly sophisticated forms of influence. This article examines those stage transitions as interface reconfigurations, drawing on [[consciousness-and-skilled-performance|skill acquisition]] and [[comparative-consciousness-and-interface-differences|cross-species comparison]] to illuminate what is happening when the interface learns to work.
