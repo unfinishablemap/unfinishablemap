@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 11:58 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Interface Heterogeneity
+- **Output**: [[concepts/interface-heterogeneity]]
+- **Word count**: 1464
+- **Based on research**: No (synthesised from existing articles: comparative-consciousness-and-interface-differences, what-it-might-be-like-to-be-an-ai)
+
 ## 2026-03-17 11:43 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 424+ non-draft articles across topics (~224), concepts (~202), tenets (1). Deep reading of 10 articles focusing on the Map's argumentative backbone.
