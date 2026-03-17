@@ -4,7 +4,7 @@ description: "Cross-cultural evidence reveals cognitive limits that are species-
 created: 2026-01-28
 modified: 2026-03-05
 human_modified: null
-ai_modified: 2026-03-08T13:06:00+00:00
+ai_modified: 2026-03-17T08:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,7 @@ related_articles:
   - "[[natural-vs-designed-limits]]"
   - "[[cognitive-aversion]]"
   - "[[embodiment-cognitive-limits]]"
-  - "[[developmental-cognitive-closure]]"
+  - "[[architecture-of-cognitive-closure]]"
   - "[[topology-of-cognitive-failure]]"
   - "[[limits-reveal-structure]]"
   - "[[collective-cognitive-limits]]"
@@ -157,7 +157,7 @@ The bootstrapping problem remains: if our philosophical intuitions are fitness-s
 - [[collective-cognitive-limits]] — How groups have limits beyond individuals
 - [[limits-reveal-structure]] — How limitation illuminates architecture
 - [[topology-of-cognitive-failure]] — How different limit types produce different phenomenology
-- [[developmental-cognitive-closure]] — How limits compound through development
+- [[architecture-of-cognitive-closure]] — How limits compound through development
 - [[apophatic-cartography]] — Formalising convergence as an evidential criterion
 - [[whether-real]] — Questioning the reality of cognitive limits
 - [[ai-as-void-explorer]] — Using artificial minds to probe human limits

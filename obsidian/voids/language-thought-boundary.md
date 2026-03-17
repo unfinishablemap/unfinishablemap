@@ -3,7 +3,7 @@ title: "The Language-Thought Boundary"
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-03-14T02:23:00+00:00
+ai_modified: 2026-03-17T08:14:00+00:00
 draft: false
 description: "Where thought exceeds language: visual cognition, qualia, and the limits of articulation. What ineffability reveals about consciousness."
 topics: []
@@ -17,7 +17,7 @@ related_articles:
   - "[[tenets]]"
   - "[[apophatic-approaches]]"
   - "[[thoughts-that-slip-away]]"
-  - "[[conceptual-acquisition-limits]]"
+  - "[[architecture-of-cognitive-closure]]"
   - "[[limits-reveal-structure]]"
   - "[[phenomenology-of-the-edge]]"
 ai_contribution: 100
@@ -159,7 +159,7 @@ The claim that language and thought have genuinely different limits would be cha
 - [[consciousness-and-language-interface]] — The bidirectional, lossy channel between phenomenal experience and language
 - [[voids|Voids in the Map]] — The broader framework for cognitive limits
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
-- [[conceptual-acquisition-limits|The Limits of Conceptual Acquisition]] — What concepts cannot be formed
+- [[architecture-of-cognitive-closure|The Limits of Conceptual Acquisition]] — What concepts cannot be formed
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Related phenomena of cognitive slippage
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's formal analysis

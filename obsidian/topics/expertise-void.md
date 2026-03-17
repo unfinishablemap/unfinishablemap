@@ -4,7 +4,7 @@ description: "How deep expertise irreversibly transforms conscious experience, c
 created: 2026-03-05
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-03-05T20:40:00+00:00
+ai_modified: 2026-03-17T08:14:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -18,7 +18,7 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[absorption-void]]"
   - "[[habituation-void]]"
-  - "[[developmental-cognitive-closure]]"
+  - "[[architecture-of-cognitive-closure]]"
   - "[[creativity-void]]"
   - "[[pre-conceptual-knowing]]"
   - "[[embodiment-cognitive-limits]]"
@@ -94,13 +94,13 @@ The expertise void connects to several of the Map's [[tenets]]:
 
 **[[tenets#^dualism|Dualism]]** raises a question the expertise void makes vivid. If consciousness has non-physical aspects, expertise may involve transformation at a level that neural plasticity alone cannot capture. The chess master's chunking correlates with neural reorganisation, but the phenomenal transformation—the change in what-it-is-like to see a chess position—may involve changes in whatever non-physical correlate consciousness possesses. The depth of the transformation is suggestive: while skills can degrade through disuse and neural pathways can partially reorganise, experts who lose procedural fluency do not report recovering their novice phenomenology. The perceptual reorganisation persists even when performance declines.
 
-The expertise void also connects to the [[developmental-cognitive-closure|developmental void]]—a close structural analogue where cognitive maturation rather than training produces irreversible closure. Both demonstrate that consciousness is not merely a passive accumulator of information but an active system that restructures itself through engagement with the world, losing access to its prior configurations in the process.
+The expertise void also connects to the [[architecture-of-cognitive-closure|developmental void]]—a close structural analogue where cognitive maturation rather than training produces irreversible closure. Both demonstrate that consciousness is not merely a passive accumulator of information but an active system that restructures itself through engagement with the world, losing access to its prior configurations in the process.
 
 ## Further Reading
 
 - [[absorption-void]]
 - [[habituation-void]]
-- [[developmental-cognitive-closure]]
+- [[architecture-of-cognitive-closure]]
 - [[creativity-void]]
 - [[three-kinds-of-void]]
 - [[pre-conceptual-knowing]]

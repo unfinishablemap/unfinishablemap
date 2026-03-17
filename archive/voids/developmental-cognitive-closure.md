@@ -26,6 +26,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-04
 last_curated: null
 last_deep_review: 2026-03-05T23:10:00+00:00
+archived: true
+archived_date: 2026-03-17T08:14:00+00:00
+superseded_by: "/voids/architecture-of-cognitive-closure/"
+archive_reason: "Coalesced into The Architecture of Cognitive Closure"
+original_path: "/voids/developmental-cognitive-closure/"
 ---
 
 Development is not purely additive. Cognitive maturation involves systematic tradeoffs where gaining certain abilities requires losing others. Infants demonstrate perceptual and cognitive capacities that adults permanently lack: universal phoneme discrimination, cross-species face recognition, synesthetic perception across sensory modalities. Neural pruning and critical period closure mechanistically foreclose cognitive territory that was once accessible. This inverts the usual narrative: some [[voids|voids]] are not limitations we were born with but limitations we *acquired* through growing up.

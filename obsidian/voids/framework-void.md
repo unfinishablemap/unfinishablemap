@@ -4,7 +4,7 @@ description: "Every conceptual framework excludes what it cannot represent. The 
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-03-07T22:39:00+00:00
+ai_modified: 2026-03-17T08:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ last_curated:
 last_deep_review: 2026-03-06T21:38:00+00:00
 ---
 
-The Unfinishable Map's voids section explores cognitive limits — territories that resist understanding. Most voids concern specific failures: the inability to articulate certain experiences ([[language-thought-boundary]]), to conceive of formal contradictions ([[conceptual-impossibility]]), or to form particular categories ([[conceptual-acquisition-limits]]). The framework void operates at a different level entirely. It concerns the totality of one's conceptual apparatus — the entire system of concepts, assumptions, and inferential patterns through which one understands anything at all. The framework is not a tool one uses to examine consciousness; it is the lens through which examination occurs. And a lens cannot bring itself into focus.
+The Unfinishable Map's voids section explores cognitive limits — territories that resist understanding. Most voids concern specific failures: the inability to articulate certain experiences ([[language-thought-boundary]]), to conceive of formal contradictions ([[conceptual-impossibility]]), or to form particular categories ([[architecture-of-cognitive-closure]]). The framework void operates at a different level entirely. It concerns the totality of one's conceptual apparatus — the entire system of concepts, assumptions, and inferential patterns through which one understands anything at all. The framework is not a tool one uses to examine consciousness; it is the lens through which examination occurs. And a lens cannot bring itself into focus.
 
 This makes the framework void a kind of meta-void: the condition that generates many of the Map's other cognitive limits. The reason certain thoughts resist articulation, certain categories resist formation, and certain problems resist solution may ultimately be that the framework within which thought occurs excludes what it cannot represent — silently, systematically, and without announcing its own boundaries.
 

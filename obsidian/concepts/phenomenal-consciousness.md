@@ -4,7 +4,7 @@ description: "What it is like to be in a mental state—the subjective quality o
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-05T19:25:00+00:00
+ai_modified: 2026-03-17T08:14:00+00:00
 last_deep_review: 2026-02-25T04:42:00+00:00
 draft: false
 topics:
@@ -103,7 +103,7 @@ Illusionism captures something: introspection is fallible, and the explanatory g
 
 [[Mysterianism]] suggests we may be unable to understand how P-consciousness relates to physical processes—not because consciousness is supernatural, but because our cognitive architecture may be closed to the relevant property. Colin McGinn argues that introspection accesses consciousness while perception accesses brains, but neither reveals their connection. The solution might exist yet remain beyond our conceptual reach.
 
-This connects to [[conceptual-acquisition-limits]]: if the concepts needed to understand consciousness-brain relations aren't among our native cognitive endowment, no investigation will produce them. The mysterian caveat is compatible with both dualism and physicalism—it concerns epistemic limits, not ontology. The Map takes this seriously under [[tenets#^occams-limits|Occam's Razor Has Limits]]: our sense of explanatory "simplicity" may reflect cognitive closure rather than reality.
+This connects to [[architecture-of-cognitive-closure]]: if the concepts needed to understand consciousness-brain relations aren't among our native cognitive endowment, no investigation will produce them. The mysterian caveat is compatible with both dualism and physicalism—it concerns epistemic limits, not ontology. The Map takes this seriously under [[tenets#^occams-limits|Occam's Razor Has Limits]]: our sense of explanatory "simplicity" may reflect cognitive closure rather than reality.
 
 ## Relation to Site Perspective
 

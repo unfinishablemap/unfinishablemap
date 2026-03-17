@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-02-02
 human_modified: 2026-01-08
-ai_modified: 2026-03-15T14:29:00+00:00
+ai_modified: 2026-03-17T08:14:00+00:00
 draft: false
 last_deep_review: 2026-03-15T14:29:00+00:00
 topics: []
@@ -141,8 +141,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 ### Types of Cognitive Limits
 
-- [[conceptual-acquisition-limits|The Limits of Conceptual Acquisition]] — What concepts can minds form?
-- [[developmental-cognitive-closure|The Developmental Void]] — Voids we acquire through maturation
+- [[architecture-of-cognitive-closure|The Architecture of Cognitive Closure]] — What concepts can minds form, and voids we acquire through maturation
 - [[conceptual-impossibility|Conceptual Impossibility]] — Thoughts that cannot be thought
 - [[computational-cognitive-limits|Computational Cognitive Limits]] — Formal limits on any algorithmic mind
 - [[mathematical-void|The Mathematical Void]] — Where formal manipulation succeeds but understanding fails

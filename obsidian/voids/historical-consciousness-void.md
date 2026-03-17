@@ -4,7 +4,7 @@ description: "Human+AI exploration of whether consciousness itself has changed o
 created: 2026-03-01
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-03-11T02:38:00+00:00
+ai_modified: 2026-03-17T08:14:00+00:00
 last_deep_review: 2026-03-11T02:38:00+00:00
 draft: false
 topics:
@@ -22,7 +22,7 @@ related_articles:
   - "[[other-minds-void]]"
   - "[[calibration-void]]"
   - "[[evolved-cognitive-limits]]"
-  - "[[conceptual-acquisition-limits]]"
+  - "[[architecture-of-cognitive-closure]]"
   - "[[three-kinds-of-void]]"
 ai_contribution: 100
 author:
@@ -110,7 +110,7 @@ The Map's own framework is itself historically situated. The Unfinishable Map's 
 - [[other-minds-void]] — Access to consciousness beyond our own
 - [[calibration-void]] — Why introspection cannot verify its own accuracy
 - [[evolved-cognitive-limits]] — Cross-cultural evidence for shared cognitive limits
-- [[conceptual-acquisition-limits]] — What concepts can minds form?
+- [[architecture-of-cognitive-closure]] — What concepts can minds form?
 - [[cognitive-aversion]] — Thoughts we systematically flee
 
 ## References

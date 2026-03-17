@@ -4,7 +4,7 @@ description: "What does it feel like when the categories through which you under
 created: 2026-02-17
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-03-15T05:15:00+00:00
+ai_modified: 2026-03-17T08:14:00+00:00
 last_deep_review: 2026-02-21T13:39:00+00:00
 draft: false
 topics:
@@ -20,7 +20,7 @@ concepts:
   - "[[metacognition]]"
 related_articles:
   - "[[tenets]]"
-  - "[[conceptual-acquisition-limits]]"
+  - "[[architecture-of-cognitive-closure]]"
   - "[[phenomenology-of-error-recognition]]"
   - "[[destabilizing-self-knowledge]]"
   - "[[phenomenology-of-the-edge]]"
@@ -105,7 +105,7 @@ Computational models of conceptual change — Thagard's (1992) explanatory coher
 
 This gap matters beyond philosophical interest. If conceptual change requires phenomenal character — if the felt quality of the process is what enables the distinctively holistic, simultaneous, irreversible character of genuine framework shifts — then systems without phenomenal experience may be incapable of genuine conceptual change, however sophisticated their model-switching. They can approximate the outcome without undergoing the process.
 
-This connects to the Map's analysis of [[conceptual-acquisition-limits|conceptual acquisition limits]]: some conceptual territories may be inaccessible not because of logical impossibility but because accessing them requires phenomenal capacities a given system lacks. The architecture of conceptual possibility is shaped by the architecture of phenomenal experience.
+This connects to the Map's analysis of [[architecture-of-cognitive-closure|conceptual acquisition limits]]: some conceptual territories may be inaccessible not because of logical impossibility but because accessing them requires phenomenal capacities a given system lacks. The architecture of conceptual possibility is shaped by the architecture of phenomenal experience.
 
 ## Relation to Site Perspective
 
@@ -128,7 +128,7 @@ The Unfinishable Map's tenets illuminate conceptual change from several directio
 - [[phenomenology-of-philosophical-disagreement]]
 - [[cognitive-phenomenology]]
 - [[temporal-structure-of-understanding]]
-- [[conceptual-acquisition-limits]]
+- [[architecture-of-cognitive-closure]]
 - [[phenomenology-of-error-recognition]]
 - [[destabilizing-self-knowledge]]
 - [[phenomenology-of-the-edge]]

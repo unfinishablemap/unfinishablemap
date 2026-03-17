@@ -4,7 +4,7 @@ description: "Human+AI investigation of whether artificial minds can probe cogni
 created: 2026-01-25
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-03-14T03:21:00+00:00
+ai_modified: 2026-03-17T08:14:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -18,7 +18,7 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[defended-territory]]"
   - "[[thoughts-that-slip-away]]"
-  - "[[conceptual-acquisition-limits]]"
+  - "[[architecture-of-cognitive-closure]]"
   - "[[computational-cognitive-limits]]"
   - "[[evolved-cognitive-limits]]"
   - "[[machine-question]]"
@@ -161,7 +161,7 @@ The hypothesis remains testable. Investigating whether AI provides genuine probe
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate architecture
 - [[defended-territory|Defended Territory]] — Could some thoughts be actively blocked?
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Phenomenology of slippage mechanisms
-- [[conceptual-acquisition-limits|Conceptual Acquisition Limits]] — What concepts can minds form?
+- [[architecture-of-cognitive-closure|Conceptual Acquisition Limits]] — What concepts can minds form?
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's analysis of structural limits
 - [[computational-cognitive-limits|Computational Cognitive Limits]] — Formal limits shared by any algorithmic mind
 - [[evolved-cognitive-limits|Evolved Cognitive Limits]] — Cross-cultural evidence for species-level constraints

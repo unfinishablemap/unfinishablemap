@@ -4,7 +4,7 @@ description: "McGinn's cognitive closure thesis: human minds may be constitution
 created: 2026-01-15
 modified: 2026-02-18
 human_modified: null
-ai_modified: 2026-03-16T08:47:00+00:00
+ai_modified: 2026-03-17T08:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,12 +19,11 @@ concepts:
   - "[[introspection]]"
   - "[[decoherence]]"
   - "[[consciousness-and-mathematical-understanding]]"
-  - "[[conceptual-acquisition-limits]]"
+  - "[[architecture-of-cognitive-closure]]"
   - "[[computational-cognitive-limits]]"
   - "[[evolved-cognitive-limits]]"
   - "[[cognitive-science-of-dualism]]"
   - "[[causal-closure]]"
-  - "[[developmental-cognitive-closure]]"
 related_articles:
   - "[[tenets]]"
   - "[[mysterianism-cognitive-closure-2026-01-14]]"
@@ -78,7 +77,7 @@ They may interact—if the consciousness-physics interface involves properties w
 
 ## Developmental Cognitive Closure
 
-McGinn treats cognitive closure as a fixed feature of species-level architecture. But research on [[developmental-cognitive-closure|developmental closure]] reveals that individual humans acquire new closures during maturation. Infants discriminate phonemes from all languages; adults cannot. Critical period closure and synaptic pruning physically dismantle the neural architecture that supported broader access.
+McGinn treats cognitive closure as a fixed feature of species-level architecture. But research on [[architecture-of-cognitive-closure|developmental closure]] reveals that individual humans acquire new closures during maturation. Infants discriminate phonemes from all languages; adults cannot. Critical period closure and synaptic pruning physically dismantle the neural architecture that supported broader access.
 
 This enriches the concept: cognitive closure is not only species-wide and fixed but also individually acquired and developmentally dynamic. Some territory becomes permanently inaccessible through the normal process of growing up.
 
@@ -102,7 +101,7 @@ Consciousness might be such a mystery. The [[explanatory-gap]] persists despite 
 
 ## Concept Nativism and Cognitive Closure
 
-Jerry Fodor's [[conceptual-acquisition-limits|radical concept nativism]] complements McGinn: while McGinn argues we cannot *conceive* certain properties, Fodor argues we cannot *acquire* certain concepts at all. Learning requires already possessing the concept to formulate hypotheses—if it isn't built in, experience cannot produce it.
+Jerry Fodor's [[architecture-of-cognitive-closure|radical concept nativism]] complements McGinn: while McGinn argues we cannot *conceive* certain properties, Fodor argues we cannot *acquire* certain concepts at all. Learning requires already possessing the concept to formulate hypotheses—if it isn't built in, experience cannot produce it.
 
 McGinn's "property P" may be closed because we lack the primitive concepts required to build toward it. This convergence—Fodor on acquisition, McGinn on conception, Rescher's "agnoseology" on unknowability—suggests any mind powerful enough to think some thoughts is thereby prevented from thinking others. The [[intentionality-void|intentionality void]] illustrates this concretely: we cannot introspect how thoughts achieve their specific reference because introspecting *is* constructing new reference, placing the mechanism permanently outside observation.
 
@@ -224,7 +223,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [[evolved-cognitive-limits]] — Cross-cultural evidence that certain cognitive limits are species-wide
 - [[collective-cognitive-limits]] — How cognitive closure extends to groups through paradigm blindness
 - [[computational-cognitive-limits]] — Proven mathematical limits on what any algorithmic mind can know
-- [[conceptual-acquisition-limits]] — Fodor's nativist argument that concepts must be innate or inaccessible
+- [[architecture-of-cognitive-closure]] — Fodor's nativist argument and how maturation creates new closures
 - [[consciousness-and-mathematical-understanding]] — Mathematical insight as evidence for cognitive limits
 - [[minimal-consciousness]] — Complete neural mapping yet unknowable experience
 - [[phenomenology-of-the-edge]] — What cognitive closure feels like from the inside
@@ -234,7 +233,6 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [[whether-real]] — Can we know if the voids are genuinely permanent?
 - [[epistemological-limits-occams-razor]] — Why parsimony cannot settle the consciousness debate
 - [[causal-closure]] — The distinct ontological thesis about causation (not to be confused with cognitive closure)
-- [[developmental-cognitive-closure]] — How maturation creates new closures in individual minds
 - [[hard-problem-of-consciousness]] — The problem mysterians think is unsolvable
 - [[explanatory-gap]] — The conceptual gap that may reflect cognitive closure
 - [[illusionism]] — The rival view that consciousness isn't real

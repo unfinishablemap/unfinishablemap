@@ -4,7 +4,7 @@ description: "Human+AI exploration of why cosmic distances, deep time, and large
 created: 2026-02-02
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-03-15T02:21:00+00:00
+ai_modified: 2026-03-17T08:14:00+00:00
 last_deep_review: 2026-03-15T02:21:00+00:00
 draft: false
 topics:
@@ -19,7 +19,7 @@ related_articles:
   - "[[tenets]]"
   - "[[three-kinds-of-void]]"
   - "[[embodiment-cognitive-limits]]"
-  - "[[conceptual-acquisition-limits]]"
+  - "[[architecture-of-cognitive-closure]]"
   - "[[phenomenology-of-the-edge]]"
 ai_contribution: 100
 author: null
@@ -97,7 +97,7 @@ The scale void connects to the Map's [[tenets]] in several ways.
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[three-kinds-of-void]] — The core taxonomy: unexplored, unexplorable, occluded
 - [[embodiment-cognitive-limits]] — How bodies constrain thought
-- [[conceptual-acquisition-limits]] — What concepts can minds form?
+- [[architecture-of-cognitive-closure]] — What concepts can minds form?
 - [[phenomenology-of-the-edge]] — What approaching limits feels like
 - [[evolved-cognitive-limits]] — Species-level architectural constraints on cognition
 - [[bandwidth-of-consciousness]] — Capacity limits on phenomenological resolution

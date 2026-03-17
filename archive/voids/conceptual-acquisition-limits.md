@@ -28,6 +28,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-24
 last_curated: null
 last_deep_review: 2026-03-16T10:02:00+00:00
+archived: true
+archived_date: 2026-03-17T08:14:00+00:00
+superseded_by: "/voids/architecture-of-cognitive-closure/"
+archive_reason: "Coalesced into The Architecture of Cognitive Closure"
+original_path: "/voids/conceptual-acquisition-limits/"
 ---
 
 Are there concepts human minds cannot acquire—not merely unthought but unthinkable in principle? Jerry Fodor's radical concept nativism argues that all primitive concepts are innate; if true, any concept not built into our cognitive architecture at birth is permanently inaccessible. Colin McGinn's [[cognitive-closure|cognitive closure]] formalises this: some properties cannot be grasped by minds with our structure. Nicholas Rescher's "agnoseology" (theory of unknowability) maps different categories of inaccessibility. Most provocatively, the emergence of AI operating in thousands of dimensions suggests "alien cognition" that might access concept-territories closed to human minds.
