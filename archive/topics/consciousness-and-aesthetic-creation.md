@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-03-16T15:17:00+00:00
 last_deep_review: 2026-02-17T16:12:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-17T01:15:00+00:00
+superseded_by: "/topics/aesthetics-and-consciousness/"
+archive_reason: "Coalesced into Aesthetics and Consciousness"
+original_path: "/topics/consciousness-and-aesthetic-creation/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
