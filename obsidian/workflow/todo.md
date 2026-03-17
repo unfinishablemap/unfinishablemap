@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum-probability-consciousness.md in light of the reverse inference apex
-- **Type**: cross-review
-- **Notes**: This concept article develops Born rule as interface specification — same claim the apex makes at higher level. Review for consistency: (1) Ensure "interface structure" argument is consistent with apex framing. (2) Add forward-reference. (3) Check QBism/participatory realism/MWI treatment is consistent with apex's use. (4) "Epistemic limitations" section acknowledges no Born rule derivation — ensure consistency with apex. Do not expand substantially.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P2: Cross-review quantum-interpretations.md in light of the reverse inference apex
 - **Type**: cross-review
 - **Notes**: The interpretations article surveys for consciousness compatibility. The reverse inference adds a new lens: which are consistent with physics being "partial but complete"? Review: (1) Copenhagen — consistent with partiality. (2) Bohmian — inconsistent (makes physics complete and total). (3) MWI — inconsistent (eliminates gap). (4) Objective collapse — consistent if consciousness modulates. (5) TI/TSVF — highly consistent. Add brief notes and forward-reference to apex.
@@ -574,6 +568,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Cross-review quantum-probability-consciousness.md in light of the reverse inference apex
+- **Type**: cross-review
+- **Notes**: This concept article develops Born rule as interface specification — same claim the apex makes at higher level. Review for consistency: (1) Ensure "interface structure" argument is consistent with apex framing. (2) Add forward-reference. (3) Check QBism/participatory realism/MWI treatment is consistent with apex's use. (4) "Epistemic limitations" section acknowledges no Born rule derivation — ensure consistency with apex. Do not expand substantially.
+- **Output**: obsidian/concepts/quantum-probability-consciousness.md -- Context: Cross-review quantum-probability-consciousness.md in light of the reverse inference apex
 
 ### ✓ 2026-03-17: Cross-review measurement-problem.md in light of the reverse inference apex
 - **Type**: cross-review
