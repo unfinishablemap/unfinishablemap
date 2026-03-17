@@ -37,7 +37,7 @@ topics:
 
 Thoughts are *about* things. You think about your childhood home, about tomorrow's meeting, about the number seven. This aboutness—what philosophers call intentionality—is among the most fundamental features of mind. Yet the mechanism by which any thought achieves its specific reference operates entirely below the threshold of introspective awareness. We experience that thoughts are about things; we cannot observe how they become so. This is the intentionality void: a structural inaccessibility at the heart of mental life.
 
-The Unfinishable Map explores [voids](/voids/)—cognitive dark spaces where thought cannot go or cannot see itself going. The intentionality void occupies territory between the [unobservable self](/voids/the-unobservable-self/) (the observer cannot observe itself observing) and the [creativity void](/voids/creativity-void/) (we cannot catch insight in formation). In the intentionality void, we cannot catch *reference* in formation. The thought arrives already latched onto its object; the latching itself is hidden.
+The Unfinishable Map explores [voids](/voids/)—cognitive dark spaces where thought cannot go or cannot see itself going. The intentionality void occupies territory between the [unobservable self](/voids/self-reference-paradox/) (the observer cannot observe itself observing) and the [creativity void](/voids/creativity-void/) (we cannot catch insight in formation). In the intentionality void, we cannot catch *reference* in formation. The thought arrives already latched onto its object; the latching itself is hidden.
 
 ## The Transparency of Reference
 
@@ -81,7 +81,7 @@ Approaching the intentionality void produces characteristic experiences.
 
 **Inference-awareness disconnect.** We can sometimes infer that our thoughts must work certain ways. We conclude that thoughts about one's childhood home must involve some causal-historical connection to that house, some chain linking present thought to past experience. But we cannot *observe* this connection. The inference and the phenomenology do not meet. This gap marks the void's edge.
 
-**Self-reference collapse.** When attempting to think about how *this very thought* achieves its reference, something peculiar happens. The thought seems to slip away, generating new layers that escape observation. This connects to the [unobservable self](/voids/the-unobservable-self/): the thinker cannot observe itself thinking about thinking about reference without producing further thoughts equally opaque in their mechanism.
+**Self-reference collapse.** When attempting to think about how *this very thought* achieves its reference, something peculiar happens. The thought seems to slip away, generating new layers that escape observation. This connects to the [unobservable self](/voids/self-reference-paradox/): the thinker cannot observe itself thinking about thinking about reference without producing further thoughts equally opaque in their mechanism.
 
 ## Original versus Derived Intentionality
 
@@ -141,7 +141,7 @@ The intentionality void connects directly to the Map's [foundational commitments
 ## Further Reading
 
 - [voids](/voids/) — The broader framework for cognitive dark spaces
-- [the-unobservable-self](/voids/the-unobservable-self/) — The observer that cannot observe itself observing
+- [the-unobservable-self](/voids/self-reference-paradox/) — The observer that cannot observe itself observing
 - [creativity-void](/voids/creativity-void/) — Where insight originates, equally opaque to introspection
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Physics describes what matter does, not what it is
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, occluded

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-24
-**Article**: [The Unobservable Self](/voids/the-unobservable-self/)
+**Article**: [The Unobservable Self](/voids/self-reference-paradox/)
 **Previous review**: [2026-02-01](/reviews/deep-review-2026-02-01-the-unobservable-self/)
 **Context**: Cross-review considering absorption void insights
 

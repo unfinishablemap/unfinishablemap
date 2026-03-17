@@ -162,7 +162,7 @@ The Map speculates that the temporal void may be partly occluded rather than mer
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why we can re-experience the past but only imagine the future
 - [memory-void](/voids/memory-void/) — Whether past qualia can be recovered
 - [death-void](/voids/death-void/) — Consciousness cannot represent its own absence
-- [the-unobservable-self](/voids/the-unobservable-self/) — The subject that cannot be its own object
+- [the-unobservable-self](/voids/self-reference-paradox/) — The subject that cannot be its own object
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [scale-void](/voids/scale-void/) — Consciousness trapped between scales it cannot inhabit
 - [continuity-void](/voids/continuity-void/) — Whether consciousness has gaps

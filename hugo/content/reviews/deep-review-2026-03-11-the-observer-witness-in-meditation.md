@@ -33,7 +33,7 @@ None. No attribution errors, factual errors, misattributions, or missing require
    - Resolution: Rewrote to clearly state each position independently—Map claims genuine observer; Buddhism denies this at the ultimate level
 
 3. **Missing cross-links to relevant existing content**: Several closely related articles existed without links from the body text.
-   - Resolution: Added cross-links to [buddhism-and-dualism](/concepts/buddhism-and-dualism/), [the-unobservable-self](/voids/the-unobservable-self/), [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
+   - Resolution: Added cross-links to [buddhism-and-dualism](/concepts/buddhism-and-dualism/), [the-unobservable-self](/voids/self-reference-paradox/), [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
 
 ### Low Issues Found
 1. **Stale AI refinement log comment**: HTML comment from 2026-02-07 still present, marked "should be removed after human review."
@@ -63,14 +63,14 @@ No new counterarguments identified that aren't already covered.
 ### Enhancements Made
 1. Clarified table column as "Proposed Mechanism" for appropriate epistemic humility
 2. Rewrote Buddhist two-truths passage for clarity — each position now stated independently
-3. Added cross-link to [the-unobservable-self](/voids/the-unobservable-self/) in self-as-construction discussion
+3. Added cross-link to [the-unobservable-self](/voids/self-reference-paradox/) in self-as-construction discussion
 4. Added cross-link to [buddhism-and-dualism](/concepts/buddhism-and-dualism/) in Eastern Philosophy section
 5. Added cross-link to [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) in Practical Significance
 6. Tightened Eastern Philosophy closing paragraph to offset cross-link additions
 7. Removed stale AI refinement log comment
 
 ### Cross-links Added
-- [the-unobservable-self](/voids/the-unobservable-self/) — self-as-construction connects to this void
+- [the-unobservable-self](/voids/self-reference-paradox/) — self-as-construction connects to this void
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhism section's tension with Map's dualism
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — meditation as philosophical data
 

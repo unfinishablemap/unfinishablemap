@@ -128,7 +128,7 @@ The sui generis model yields clear epistemological conclusions about what intros
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Huemer's principle as epistemological grounding
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation underlying the acquaintance model
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Russell's distinction and its role in the knowledge argument
-- [the-unobservable-self](/voids/the-unobservable-self/) — The structural impossibility of observing the observer
+- [the-unobservable-self](/voids/self-reference-paradox/) — The structural impossibility of observing the observer
 - [introspective-opacity](/voids/introspective-opacity/) — Where introspective access fails structurally
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as knowledge source
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/) — The methodological divide in consciousness science

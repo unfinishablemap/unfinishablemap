@@ -103,7 +103,7 @@ The plurality void connects to the Map's [foundational commitments](/tenets/) at
 - [indexical-void](/voids/indexical-void/) — Why first-person identity resists explanation
 - [emergence-void](/voids/emergence-void/) — The cognitive gap at every level transition
 - [self-reference-paradox](/voids/self-reference-paradox/) — Why consciousness cannot fully examine itself
-- [the-unobservable-self](/voids/the-unobservable-self/) — The subject that cannot become its own object
+- [the-unobservable-self](/voids/self-reference-paradox/) — The subject that cannot become its own object
 - [intersubjective-void](/voids/intersubjective-void/) — Where shared understanding breaks down
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's deepest difficulty, closely related
 

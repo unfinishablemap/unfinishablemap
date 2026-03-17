@@ -101,7 +101,7 @@ The narrative void also illustrates the Map's [tenet that Occam's Razor has limi
 
 - [introspective-opacity](/voids/introspective-opacity/)
 - [past-self-void](/voids/past-self-void/)
-- [the-unobservable-self](/voids/the-unobservable-self/)
+- [the-unobservable-self](/voids/self-reference-paradox/)
 - [creativity-void](/voids/creativity-void/)
 - [cognitive-aversion](/voids/cognitive-aversion/)
 - [narrative-coherence](/concepts/narrative-coherence/)

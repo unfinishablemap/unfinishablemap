@@ -164,7 +164,7 @@ The Map's voids framework recognises that we are beings who can conceive of thei
 - [whether-real](/voids/whether-real/) — Distinguishing genuine from apparent limits
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — The texture of approaching cognitive boundaries
 - [phenomenology-of-self-reference](/voids/phenomenology-of-self-reference/) — The felt quality of thought examining itself
-- [the-unobservable-self](/voids/the-unobservable-self/) — Why the observer cannot observe itself observing
+- [the-unobservable-self](/voids/self-reference-paradox/) — Why the observer cannot observe itself observing
 
 ## References
 

@@ -107,7 +107,7 @@ Self-consciousness connects to the Map's foundational commitments at multiple po
 - [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self as structural feature of consciousness
 - [introspection](/concepts/introspection/) — The practice of attending to one's own mental states
 - [metacognition](/concepts/metacognition/) — Monitoring cognition vs knowing that one monitors
-- [the-unobservable-self](/voids/the-unobservable-self/) — Why the observer cannot catch itself observing
+- [the-unobservable-self](/voids/self-reference-paradox/) — Why the observer cannot catch itself observing
 - [The Ownership Void](/voids/ownership-void/) — Why the for-me-ness of experience hides its own ground
 - [phenomenology-of-self-reference](/voids/phenomenology-of-self-reference/) — What self-reference feels like from the inside
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having mental states vs knowing you have them

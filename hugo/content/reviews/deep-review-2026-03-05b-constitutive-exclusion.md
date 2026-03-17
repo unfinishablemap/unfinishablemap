@@ -56,7 +56,7 @@ topics: []
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — body: Nagel's view from nowhere sharpened by constitutive exclusion
 - [phenomenology](/concepts/phenomenology/) — body: phenomenological reduction reveals constitutive contribution
 - [the-subject-object-distinction-as-philosophical-discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/) — body: Husserl's constitutive role of subject
-- [the-unobservable-self](/voids/the-unobservable-self/) — body: unobservable self as reflexive instance of constitutive exclusion
+- [the-unobservable-self](/voids/self-reference-paradox/) — body: unobservable self as reflexive instance of constitutive exclusion
 
 Previously linking: [observation-void](/voids/observation-void/) (already linked before this review)
 

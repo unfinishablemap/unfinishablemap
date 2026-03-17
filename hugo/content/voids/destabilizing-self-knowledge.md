@@ -180,7 +180,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for cognitive limits
-- [The Unobservable Self](/voids/the-unobservable-self/) — The observer that cannot observe itself
+- [The Unobservable Self](/voids/self-reference-paradox/) — The observer that cannot observe itself
 - [The Self-Reference Paradox](/voids/self-reference-paradox/) — Formal limits on self-understanding
 - [Defended Territory](/voids/defended-territory/) — Active blocking of cognitive access
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — The phenomenology of slippage

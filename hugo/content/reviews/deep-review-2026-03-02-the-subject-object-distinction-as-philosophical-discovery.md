@@ -56,7 +56,7 @@ None. All issues from the previous review remain correctly resolved. Attribution
 The primary focus of this review was resolving the article's orphan status (zero inbound links). Added inbound links from 8 related articles:
 
 1. **[witness-consciousness](/concepts/witness-consciousness/)** — "Subject-Object Structure" section: linked the structural feature to the discovery article
-2. **[the-unobservable-self](/voids/the-unobservable-self/)** — "What This Void Reveals" section: connected subject-structure claim to the discovery
+2. **[the-unobservable-self](/voids/self-reference-paradox/)** — "What This Void Reveals" section: connected subject-structure claim to the discovery
 3. **[phenomenology](/concepts/phenomenology/)** — "Phenomenology of Selfhood" section: linked Husserl's epoché to the subject-object discovery
 4. **[self-and-consciousness](/concepts/self-and-consciousness/)** — Opening section: grounded for-me-ness in the subject-object distinction
 5. **[first-person-third-person-methodology](/topics/first-person-third-person-methodology/)** — Opening section: traced the methodological divide to the subject-object distinction

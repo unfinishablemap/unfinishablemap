@@ -56,7 +56,7 @@ None. The article is philosophically coherent within its framework.
 - Tightened prose throughout to maintain length-neutral edits
 
 ### Cross-links Added
-No new cross-links needed—existing links to [mysterianism](/concepts/mysterianism/), [the-unobservable-self](/voids/the-unobservable-self/), [self-reference-paradox](/voids/self-reference-paradox/), [defended-territory](/voids/defended-territory/), [thoughts-that-slip-away](/voids/thoughts-that-slip-away/), [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) are appropriate and comprehensive.
+No new cross-links needed—existing links to [mysterianism](/concepts/mysterianism/), [the-unobservable-self](/voids/self-reference-paradox/), [self-reference-paradox](/voids/self-reference-paradox/), [defended-territory](/voids/defended-territory/), [thoughts-that-slip-away](/voids/thoughts-that-slip-away/), [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) are appropriate and comprehensive.
 
 ## Remaining Items
 

@@ -74,11 +74,11 @@ This affective divergence matters. The same structural void—the absence of the
 
 ## The Peculiar Recursion
 
-Attempting to introspect ownership produces a distinctive recursion. Unlike the [unobservable self](/voids/the-unobservable-self/), where the observer generates new layers of observation, the ownership void traps attention in a different way: the attending itself is "mine," which means ownership is present in the very act of looking for it. It cannot be isolated because isolation would require a vantage point outside ownership—an experience that is not "for anyone"—and such a vantage point would not be experience at all.
+Attempting to introspect ownership produces a distinctive recursion. Unlike the [unobservable self](/voids/self-reference-paradox/), where the observer generates new layers of observation, the ownership void traps attention in a different way: the attending itself is "mine," which means ownership is present in the very act of looking for it. It cannot be isolated because isolation would require a vantage point outside ownership—an experience that is not "for anyone"—and such a vantage point would not be experience at all.
 
 This distinguishes the ownership void from neighbouring voids:
 
-- The **[unobservable self](/voids/the-unobservable-self/)** concerns the subject that cannot become its own object. The ownership void asks why any experience feels appropriated by a subject.
+- The **[unobservable self](/voids/self-reference-paradox/)** concerns the subject that cannot become its own object. The ownership void asks why any experience feels appropriated by a subject.
 - **[introspective-opacity](/voids/introspective-opacity/)** concerns hidden cognitive processes. The ownership void concerns a specific phenomenal feature—mineness—that is normally present but whose ground is hidden.
 - The **[self-reference-paradox](/voids/self-reference-paradox/)** concerns logical structure. The ownership void is phenomenological: about felt belonging, not formal reflexivity.
 
@@ -105,7 +105,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies. Predictive
 ## Further Reading
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
-- [the-unobservable-self](/voids/the-unobservable-self/) — The observer that cannot observe itself observing
+- [the-unobservable-self](/voids/self-reference-paradox/) — The observer that cannot observe itself observing
 - [introspective-opacity](/voids/introspective-opacity/) — Why cognitive processes hide from introspection
 - [transparency-void](/voids/transparency-void/) — When cognitive mechanisms become invisible through transparency
 - [other-minds-void](/voids/other-minds-void/) — The impossibility of accessing another subject's ownership

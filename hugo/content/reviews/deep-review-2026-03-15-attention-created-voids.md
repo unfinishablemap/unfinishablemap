@@ -48,13 +48,13 @@ No new counterarguments beyond those addressed in the previous review. The mater
 
 ### Enhancements Made
 1. Tightened opening paragraph 2 (reduced redundancy with paragraph 1)
-2. Added [the-unobservable-self](/voids/the-unobservable-self/) distinction in "This Void is Different" section — clarifies relationship between outward-attending void and self-reflexive void
+2. Added [the-unobservable-self](/voids/self-reference-paradox/) distinction in "This Void is Different" section — clarifies relationship between outward-attending void and self-reflexive void
 3. Added [attention-as-interface](/concepts/attention-as-interface/) cross-link in Bidirectional Interaction subsection
 4. Removed uncited Merleau-Ponty reference
 
 ### Cross-links Added
 - [attention-as-interface](/concepts/attention-as-interface/) (body text, Bidirectional Interaction subsection)
-- [the-unobservable-self](/voids/the-unobservable-self/) (body text, This Void is Different section — replacing self-reference-paradox mention)
+- [the-unobservable-self](/voids/self-reference-paradox/) (body text, This Void is Different section — replacing self-reference-paradox mention)
 
 ## Remaining Items
 

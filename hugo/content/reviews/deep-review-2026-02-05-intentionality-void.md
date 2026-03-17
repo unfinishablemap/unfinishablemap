@@ -60,7 +60,7 @@ topics: []
 - [voids](/voids/) — Added to Specific Voids listing
 - [intentionality](/concepts/intentionality/) — Added in naturalization failure section + Further Reading
 - [mysterianism](/concepts/mysterianism/) — Added as example of cognitive closure alongside creativity void + Further Reading
-- [the-unobservable-self](/voids/the-unobservable-self/) — Added alongside creativity void in "What This Void Reveals" section
+- [the-unobservable-self](/voids/self-reference-paradox/) — Added alongside creativity void in "What This Void Reveals" section
 - [creativity-void](/voids/creativity-void/) — Added in "What the Void Reveals" section
 - [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) — Added as example in Introspective Failure section
 - [introspection](/concepts/introspection/) — Added in process/content distinction section

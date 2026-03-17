@@ -18,6 +18,64 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 00:46 UTC - coalesce
+- **Status**: Success
+- **Sources**: [self-reference-paradox](/voids/self-reference-paradox/), [the-unobservable-self](/voids/the-unobservable-self/)
+- **Target**: [self-reference-paradox](/voids/self-reference-paradox/)
+- **Archived**: [the-unobservable-self](/archive/voids/the-unobservable-self/)
+- **References to review**: 39 active content files (follow-up task created)
+
+## 2026-03-16 23:01 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-normativity](/concepts/phenomenal-normativity/)
+- **Word count**: 1972 → 1968 (-4)
+- **Critical issues addressed**: 1 (unused references from coalesced version)
+- **Medium issues addressed**: 3 (Moore attribution, Mackie citation, wikilink path fix)
+- **Enhancements made**: 2 (free-will cross-link, reference cleanup)
+- **Output**: [deep-review-2026-03-16-phenomenal-normativity](/reviews/deep-review-2026-03-16-phenomenal-normativity/)
+
+## 2026-03-16 21:17 UTC - research-topic
+- **Status**: Success
+- **Topic**: Wheeler's participatory universe and "it from bit" (follow-up)
+- **Output**: [wheeler-participatory-universe-it-from-bit-2026-03-16](/research/wheeler-participatory-universe-it-from-bit-2026-03-16/)
+- **Sources consulted**: 12
+- **Notes**: Follow-up to existing research (2026-02-08, 2026-03-14). Focused on self-excited circuit cosmology, multiple observer problem, QBism 2025 developments, holographic principle connection, Wheeler's consciousness ambiguity. Completes P1 human-directed task.
+
+## 2026-03-16 21:00 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 426 non-draft articles across topics (225), concepts (201), tenets (1). Deep reading of 7 articles.
+- **Output**: [optimistic-2026-03-16-evening](/reviews/optimistic-2026-03-16-evening/)
+
+## 2026-03-16 20:45 UTC - research-topic
+- **Status**: Success
+- **Topic**: The Born rule — derivation attempts and their limits (follow-up)
+- **Output**: [born-rule-derivation-limits-followup-2026-03-16](/research/born-rule-derivation-limits-followup-2026-03-16/)
+- **Sources consulted**: 12
+- **Note**: Follow-up to March 14 research; fills gaps on Bohmian typicality, GRW/CSL collapse dynamics, transactional interpretation, categorical QM, Diosi-Penrose, plus two new 2025-2026 derivation papers (Agrawal-Wilson, Torres Alegre)
+
+## 2026-03-16 20:31 UTC - research-topic
+- **Status**: Success
+- **Topic**: Bi-aspectual ontology and dual-aspect traditions (follow-up)
+- **Output**: [bi-aspectual-ontology-dual-aspect-traditions-2026-03-16](/research/bi-aspectual-ontology-dual-aspect-traditions-2026-03-16/)
+- **Sources consulted**: 15
+- **Note**: Follow-up to March 14 research; fills gaps on Fechner, Bohm, Nagel, Le Bihan's vacuity objection, and Kelly's critique of JPA
+
+## 2026-03-16 20:15 UTC - deep-review
+- **Status**: Success
+- **File**: [causal-powers](/concepts/causal-powers/)
+- **Word count**: 1690 → 1690 (no change — structural fixes only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (first-mention style violation, inconsistent wikilink prefix, stale refinement log)
+- **Enhancements made**: 1 (added missing frontmatter related_article)
+- **Output**: [deep-review-2026-03-16-causal-powers](/reviews/deep-review-2026-03-16-causal-powers/)
+
+## 2026-03-16 20:00 UTC - research-topic
+- **Status**: Success
+- **Topic**: Retrocausal selection model for consciousness-physics interaction
+- **Output**: [retrocausal-selection-consciousness-physics-2026-03-16](/research/retrocausal-selection-consciousness-physics-2026-03-16/)
+- **Sources consulted**: 16
+- **Note**: Follow-up to prior research [retrocausal-selection-consciousness-physics-2026-03-14](/research/retrocausal-selection-consciousness-physics-2026-03-14/). Added Adlam (2022) on structural retrocausality from nonlocality, Ridley (2025) Fixed Point Formulation, QTSI/Tlalpan interpretation (2025) on emergent collapse, Hameroff retrocausal Orch OR, and 2025 Nature Communications result on total vs. partial retrocausal influence.
+
 ## 2026-03-16 19:47 UTC - refine-draft
 - **Status**: Success
 - **File**: [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/)

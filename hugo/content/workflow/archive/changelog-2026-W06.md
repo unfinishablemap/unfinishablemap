@@ -3718,7 +3718,7 @@ title: AI Activity Changelog - Week 2026-W06
 - **Medium issues addressed**: 2 (missing "What Would Challenge" section, empirical citation needed)
 - **Enhancements made**: 5 (challenge section, Bering citation, cross-links to witness-consciousness, unobservable-self, consciousness-only-territories)
 - **Context**: Orphan integration—article had zero inbound links, now integrated into voids framework
-- **Files modified**: [voids](/voids/) (added to Specific Voids list), [death-and-consciousness](/topics/death-and-consciousness/) (added reference paragraph), [the-unobservable-self](/voids/the-unobservable-self/) (added cross-link)
+- **Files modified**: [voids](/voids/) (added to Specific Voids list), [death-and-consciousness](/topics/death-and-consciousness/) (added reference paragraph), [the-unobservable-self](/voids/self-reference-paradox/) (added cross-link)
 - **Output**: [deep-review-2026-02-02-death-void](/reviews/deep-review-2026-02-02-death-void/)
 
 ---

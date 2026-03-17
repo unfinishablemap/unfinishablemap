@@ -108,7 +108,7 @@ The void is also [tenet-generated](/voids/tenet-generated-voids/). Because the M
 - [Volitional Opacity](/voids/introspective-opacity/) — The opacity of *how* we decide
 - [The Causal Interface Void](/voids/causal-interface/) — The opacity of *how* consciousness connects to physics
 - [The Self-Reference Paradox](/voids/self-reference-paradox/) — Why consciousness cannot fully model itself
-- [The Unobservable Self](/voids/the-unobservable-self/) — The observer that eludes observation
+- [The Unobservable Self](/voids/self-reference-paradox/) — The observer that eludes observation
 - [Defended Territory](/voids/defended-territory/) — Could some limits be actively imposed?
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — How each tenet generates its characteristic void
 - [Free Will](/topics/free-will/) — The broader context for questions of agency

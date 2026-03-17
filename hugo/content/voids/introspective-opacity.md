@@ -52,7 +52,7 @@ We have access to our mental contents—thoughts, images, feelings—but not to 
 
 This opacity extends from general cognition to the specific case of willing. We know *that* we decided, felt, or believed—but not *how*. And in the domain of agency, where the stakes are highest, the opacity is deepest: we experience choosing, deciding, and acting, but the process by which these experiences arise, and whether they genuinely cause our actions, remains hidden from introspection.
 
-This void differs from the [unobservable self](/voids/the-unobservable-self/), which concerns the observer itself eluding observation, and from the [ownership void](/voids/ownership-void/), which concerns a specific phenomenal feature—mineness—whose ground is hidden rather than cognitive processes in general. Introspective opacity concerns the *processes* of cognition—how thoughts arise, connect, and transform—remaining hidden even as their products become conscious.
+This void differs from the [unobservable self](/voids/self-reference-paradox/), which concerns the observer itself eluding observation, and from the [ownership void](/voids/ownership-void/), which concerns a specific phenomenal feature—mineness—whose ground is hidden rather than cognitive processes in general. Introspective opacity concerns the *processes* of cognition—how thoughts arise, connect, and transform—remaining hidden even as their products become conscious.
 
 ## The Contents/Process Distinction
 
@@ -213,7 +213,7 @@ None of these conditions has been met. Introspective opacity persists across cul
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
-- [The Unobservable Self](/voids/the-unobservable-self/) — The observer that cannot observe itself observing
+- [The Unobservable Self](/voids/self-reference-paradox/) — The observer that cannot observe itself observing
 - [The Narrative Void](/voids/narrative-void/) — How consciousness constructs self-stories it cannot audit
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Mechanisms of cognitive slippage
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like

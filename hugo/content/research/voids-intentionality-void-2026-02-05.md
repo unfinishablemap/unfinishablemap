@@ -37,7 +37,7 @@ topics:
 
 ## Executive Summary
 
-This research investigates the *Intentionality Void*—the structural inaccessibility of how mental states achieve their "aboutness." We experience that our thoughts are *about* things, but we have no phenomenal access to *how* this aboutness is achieved. The mechanism by which a thought comes to refer to Paris rather than London, or to dogs rather than undetached-dog-parts, operates entirely below the threshold of introspective awareness. This void occupies territory between the [unobservable self](/voids/the-unobservable-self/) (the observer cannot observe itself) and the [creativity void](/voids/creativity-void/) (we cannot catch insight in formation): in the intentionality void, we cannot catch *reference* in formation. The research suggests this may be a structural feature of consciousness rather than a contingent limitation.
+This research investigates the *Intentionality Void*—the structural inaccessibility of how mental states achieve their "aboutness." We experience that our thoughts are *about* things, but we have no phenomenal access to *how* this aboutness is achieved. The mechanism by which a thought comes to refer to Paris rather than London, or to dogs rather than undetached-dog-parts, operates entirely below the threshold of introspective awareness. This void occupies territory between the [unobservable self](/voids/self-reference-paradox/) (the observer cannot observe itself) and the [creativity void](/voids/creativity-void/) (we cannot catch insight in formation): in the intentionality void, we cannot catch *reference* in formation. The research suggests this may be a structural feature of consciousness rather than a contingent limitation.
 
 ## Key Sources
 
@@ -173,7 +173,7 @@ What does it feel like to approach this void?
 
 **Inference-awareness disconnect**: We can sometimes infer that our thoughts must work certain ways (tracking causal history, perhaps), but we cannot *observe* this. The inference and the phenomenology don't connect. This gap marks the void's edge.
 
-**Self-reference collapse**: When attempting to think about how this very thought achieves its reference, something peculiar happens—the thought seems to slip away, like trying to see one's own eye without a mirror. This connects to the [unobservable self](/voids/the-unobservable-self/): the thinker cannot observe itself thinking about thinking about reference without generating new layers that escape.
+**Self-reference collapse**: When attempting to think about how this very thought achieves its reference, something peculiar happens—the thought seems to slip away, like trying to see one's own eye without a mirror. This connects to the [unobservable self](/voids/self-reference-paradox/): the thinker cannot observe itself thinking about thinking about reference without generating new layers that escape.
 
 ## Approaches to the Edge
 

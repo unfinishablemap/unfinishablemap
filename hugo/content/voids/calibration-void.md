@@ -99,7 +99,7 @@ The calibration void is adjacent to but distinct from the [observation-void](/vo
 ## Further Reading
 
 - [observation-void](/voids/observation-void/) — How every method of studying consciousness transforms what it studies
-- [the-unobservable-self](/voids/the-unobservable-self/) — The subject that cannot become its own object
+- [the-unobservable-self](/voids/self-reference-paradox/) — The subject that cannot become its own object
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Knowledge accessible only through phenomenal experience
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) — Knowledge that undermines its own conditions
 - [whether-real](/voids/whether-real/) — Can we determine if cognitive limits are permanent?

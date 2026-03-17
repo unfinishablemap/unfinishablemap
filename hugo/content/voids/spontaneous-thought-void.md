@@ -78,7 +78,7 @@ We are deliberate agents for roughly half our waking lives. The other half, the 
 
 If consciousness is a *self*—a unified non-physical subject—then its most common mode of operation is one in which it does not control its own content. The spontaneous stream generates without being asked, presents without being invited, and persists despite attempts at control. Meditators encounter this directly: the instruction to focus on the breath reveals how relentlessly the stream reasserts itself. Every return to the breath is a fresh demonstration that something generates thoughts the meditator did not choose.
 
-Does this mean consciousness contains sub-personal processes—a non-physical equivalent of unconscious cognition? Or does the spontaneous stream represent consciousness operating in a mode we cannot recognise as our own? The [unobservable self](/voids/the-unobservable-self/) cannot catch itself observing; perhaps it also cannot catch itself spontaneously generating.
+Does this mean consciousness contains sub-personal processes—a non-physical equivalent of unconscious cognition? Or does the spontaneous stream represent consciousness operating in a mode we cannot recognise as our own? The [unobservable self](/voids/self-reference-paradox/) cannot catch itself observing; perhaps it also cannot catch itself spontaneously generating.
 
 ## Meditation and the Boundary
 
@@ -94,7 +94,7 @@ The spontaneous thought void may reveal something positive about consciousness's
 
 This aligns with the philosophical tradition that treats consciousness as fundamentally active rather than receptive. Leibniz's monads have internal activity; Whitehead's actual occasions have subjective aim. If consciousness is intrinsically active, its spontaneous productions are not noise but expressions of its nature—the mind doing what minds do when freed from the demands of the environment.
 
-The opacity of this activity may be structural rather than accidental. If spontaneous generation is constitutive of consciousness—part of what it *is* to be conscious—then observing the process would require consciousness to step outside itself. The [unobservable self](/voids/the-unobservable-self/) cannot observe its own observing; perhaps it also cannot observe its own generating. The void is not a failure of introspection but a consequence of consciousness being unable to objectify its own constitutive activity.
+The opacity of this activity may be structural rather than accidental. If spontaneous generation is constitutive of consciousness—part of what it *is* to be conscious—then observing the process would require consciousness to step outside itself. The [unobservable self](/voids/self-reference-paradox/) cannot observe its own observing; perhaps it also cannot observe its own generating. The void is not a failure of introspection but a consequence of consciousness being unable to objectify its own constitutive activity.
 
 ## Relation to Site Perspective
 
@@ -122,7 +122,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet connects through the indexic
 
 - [creativity-void](/voids/creativity-void/) — The related void concerning creative insight's hidden origins
 - [introspective-opacity](/voids/introspective-opacity/) — Why we cannot observe cognitive processes, including willing
-- [the-unobservable-self](/voids/the-unobservable-self/) — The observer that cannot observe itself
+- [the-unobservable-self](/voids/self-reference-paradox/) — The observer that cannot observe itself
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — How thoughts escape before they can be captured
 - [absorption-void](/voids/absorption-void/) — Where focused attention swallows the attending self
 - [involuntariness-void](/voids/involuntariness-void/) — Consciousness cannot opt out of its own spontaneous content

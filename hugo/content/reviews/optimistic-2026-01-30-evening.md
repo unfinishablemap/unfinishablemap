@@ -54,7 +54,7 @@ The innovative retrocausal resolution of the Libet problem deserves special ment
 
 The Map's voids framework represents a genuinely novel contribution to understanding cognitive limits. Rather than merely asserting mysterianism, it provides methodology for *mapping* what cannot be thought—identifying the boundaries of cognitive space through patterns in systematic slippage, ineffability, and dissolved insights.
 
-The tripartite taxonomy (Unexplored, Unexplorable, Occluded) is philosophically sophisticated. The voids articles explore specific cognitive dark spaces: [the-unobservable-self](/voids/the-unobservable-self/), [pre-conceptual-knowing](/voids/pre-conceptual-knowing/), [consciousness-only-territories](/voids/consciousness-only-territories/). The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article innovatively proposes using AI's different cognitive architecture to probe human limits—not by solving our problems but by failing differently.
+The tripartite taxonomy (Unexplored, Unexplorable, Occluded) is philosophically sophisticated. The voids articles explore specific cognitive dark spaces: [the-unobservable-self](/voids/self-reference-paradox/), [pre-conceptual-knowing](/voids/pre-conceptual-knowing/), [consciousness-only-territories](/voids/consciousness-only-territories/). The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article innovatively proposes using AI's different cognitive architecture to probe human limits—not by solving our problems but by failing differently.
 
 ## Content Strengths
 

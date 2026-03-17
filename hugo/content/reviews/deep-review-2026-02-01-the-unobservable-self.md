@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-01
-**Article**: [The Unobservable Self](/voids/the-unobservable-self/)
+**Article**: [The Unobservable Self](/voids/self-reference-paradox/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

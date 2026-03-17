@@ -63,7 +63,7 @@ None. The article contains no factual errors, attribution errors, or internal co
 **Inbound links added FROM other articles:**
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Added paragraph connecting to creativity void and Further Reading link
 - [creativity-and-novel-combination](/topics/creativity-consciousness-and-novel-thought/) — Added inline link in Bergson section and Further Reading link
-- [the-unobservable-self](/voids/the-unobservable-self/) — Added inline link noting structural parallel
+- [the-unobservable-self](/voids/self-reference-paradox/) — Added inline link noting structural parallel
 - [voids](/voids/) — Added to "Specific Voids" navigation section
 - [free-will](/topics/free-will/) — Added inline link in creativity section
 - [mysterianism](/concepts/mysterianism/) — Added inline link in concept nativism section

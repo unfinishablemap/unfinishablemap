@@ -49,11 +49,11 @@ None. The article is logically coherent and properly structured.
 ### Enhancements Made
 - Added "What Would Challenge This View" section (standard void article format)
 - Added Jesse Bering citation for developmental evidence
-- Added cross-references to [the-unobservable-self](/voids/the-unobservable-self/), [witness-consciousness](/concepts/witness-consciousness/), [consciousness-only-territories](/voids/consciousness-only-territories/)
+- Added cross-references to [the-unobservable-self](/voids/self-reference-paradox/), [witness-consciousness](/concepts/witness-consciousness/), [consciousness-only-territories](/voids/consciousness-only-territories/)
 
 ### Cross-links Added
 **To death-void.md:**
-- [the-unobservable-self](/voids/the-unobservable-self/) — parallel structure of self-representation limits
+- [the-unobservable-self](/voids/self-reference-paradox/) — parallel structure of self-representation limits
 - [witness-consciousness](/concepts/witness-consciousness/) — spectator phenomenology
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — death as first-person territory
 - [death-and-consciousness](/topics/death-and-consciousness/) — in related_articles
@@ -61,7 +61,7 @@ None. The article is logically coherent and properly structured.
 **From other articles to death-void (orphan fix):**
 - [voids](/voids/) — added to Specific Voids list
 - [death-and-consciousness](/topics/death-and-consciousness/) — added paragraph referencing the death void
-- [the-unobservable-self](/voids/the-unobservable-self/) — added cross-reference to death void
+- [the-unobservable-self](/voids/self-reference-paradox/) — added cross-reference to death void
 
 ## Word Count
 - Before: 1711 words

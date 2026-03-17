@@ -58,7 +58,7 @@ topics: []
 
 ### Cross-links Added (inbound to recursion-void from other articles)
 - [self-reference-paradox](/voids/self-reference-paradox/) — in Strange Loops section
-- [the-unobservable-self](/voids/the-unobservable-self/) — in Regression of Attention section
+- [the-unobservable-self](/voids/self-reference-paradox/) — in Regression of Attention section
 - [introspective-opacity](/voids/introspective-opacity/) — in Mechanism Opacity section
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — in Multiple Edges section
 - [metacognition](/concepts/metacognition/) — in Social Metacognition section

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-03-12 02:18:00+00:00
+ai_modified: 2026-03-16 23:01:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ description: The view that phenomenal experiences carry intrinsic normative forc
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-15 13:45:00+00:00
+last_deep_review: 2026-03-16 23:01:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-value-connection]]'
@@ -58,7 +58,7 @@ This identity claim is stronger than typical hedonism. Hedonists often argue ple
 
 The case builds on [knowledge by acquaintance](/concepts/acquaintance-knowledge/). We don't know pain is bad through inference—we are directly acquainted with its badness in experience. The [knowledge-argument](/concepts/knowledge-argument/) establishes that phenomenal knowledge exceeds physical description. Phenomenal normativity extends this: normative knowledge, at least concerning hedonic value, also exceeds description.
 
-Unlike the water-H₂O identity (discovered empirically), we have direct access to both relata. When experiencing pleasure, the goodness appears inseparable from the experience itself—the pleasure doesn't *cause* or *indicate* goodness; attending to the pleasure just is attending to something good. And once you fully attend to what pleasure feels like, there's no residual question "but why is this good?" The question loses its force because the goodness is constitutive of what you're attending to.
+Unlike the water-H₂O identity (discovered empirically), we have direct access to both relata. When experiencing pleasure, the goodness appears inseparable from the experience itself—the pleasure doesn't *cause* or *indicate* goodness; attending to the pleasure just is attending to something good. And once you fully attend to what pleasure feels like, there's no residual question "but why is this good?"—echoing Moore's open question test (Moore 1903), but grounded in phenomenological acquaintance rather than conceptual analysis. The question loses its force because the goodness is constitutive of what you're attending to.
 
 ### The Is-Ought Bridge
 
@@ -91,7 +91,7 @@ While hedonic valence matters, the Map holds it isn't the only thing that matter
 | **Hedonic valence** | Pleasure is good; suffering is bad |
 | **Aesthetic quality** | Beauty attracts; ugliness repels—independent of pleasure |
 | **Meaning** | Engagement with what matters, beyond mere pleasure |
-| **Agency** | Making genuine choices—valuable even when difficult |
+| **Agency** | Making genuine choices ([free will](/topics/free-will/))—valuable even when difficult |
 | **Understanding** | Intellectually satisfying insight |
 | **Connection** | Authentic relationship with others |
 
@@ -129,7 +129,7 @@ Some meditative traditions cultivate equanimity toward pain. **Response**: Equan
 
 ### For Metaethics
 
-If phenomenal normativity is correct, **error theory** must deny pain is bad, **non-cognitivism** must treat "pain is bad" as expressing attitude rather than stating fact, and **constructivism** must deny pain was bad before moral frameworks developed. Each faces the challenge of explaining how "pain is bad" could be false when badness appears constitutive of pain's phenomenal character.
+If phenomenal normativity is correct, **error theory** (Mackie 1977) must deny pain is bad, **non-cognitivism** must treat "pain is bad" as expressing attitude rather than stating fact, and **constructivism** must deny pain was bad before moral frameworks developed. Each faces the challenge of explaining how "pain is bad" could be false when badness appears constitutive of pain's phenomenal character.
 
 ### For AI and Other Minds
 
@@ -187,5 +187,3 @@ Phenomenal normativity would face pressure if:
 2. Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press.
 3. Hume, D. (1739/1978). *A Treatise of Human Nature*. Oxford University Press.
 4. Mackie, J. L. (1977). *Ethics: Inventing Right and Wrong*. Penguin.
-5. Nozick, R. (1974). "The Experience Machine" in *Anarchy, State, and Utopia*. Basic Books.
-6. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.

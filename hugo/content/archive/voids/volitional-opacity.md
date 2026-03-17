@@ -156,7 +156,7 @@ None of these conditions has been met. The persistence across four centuries of 
 - [Voids in the Map](/voids/) — The broader framework for cognitive limits
 - [The Causal Interface Void](/voids/causal-interface/) — How consciousness interfaces with the physical
 - [Introspective Opacity](/voids/introspective-opacity/) — Why we cannot observe cognitive processes in general
-- [The Unobservable Self](/voids/the-unobservable-self/) — The observer that eludes observation
+- [The Unobservable Self](/voids/self-reference-paradox/) — The observer that eludes observation
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, and occluded
 - [Free Will](/topics/free-will/) — The broader context for questions of agency
 - [Agent Causation](/concepts/agent-causation/) — The philosophical concept of the self as cause

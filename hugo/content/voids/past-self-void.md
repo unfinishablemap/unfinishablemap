@@ -156,7 +156,7 @@ None of these conditions has been met. Memory is construction, not retrieval, an
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that stores experienced events
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The self-knowing awareness that enables "mental time travel"
 - [personal-identity](/topics/personal-identity/) — What makes you the same person over time
-- [the-unobservable-self](/voids/the-unobservable-self/) — The present self is also elusive
+- [the-unobservable-self](/voids/self-reference-paradox/) — The present self is also elusive
 - [self-reference-paradox](/voids/self-reference-paradox/) — Structural limits on self-understanding
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Related phenomenology of cognitive limitation
 

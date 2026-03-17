@@ -129,7 +129,7 @@ A related challenge comes from [phenomenological psychiatry](/topics/phenomenolo
 
 ## The Unobservable Self Complication
 
-[The unobservable self](/voids/the-unobservable-self/) presents a genuine difficulty. When attention turns toward the observer, it finds only more observation—never the observer itself. The subject investigating consciousness is precisely what resists investigation. Hume looked inward and found only perceptions, never a perceiver.
+[The unobservable self](/voids/self-reference-paradox/) presents a genuine difficulty. When attention turns toward the observer, it finds only more observation—never the observer itself. The subject investigating consciousness is precisely what resists investigation. Hume looked inward and found only perceptions, never a perceiver.
 
 This does not refute the substantial self; it characterises it. The substantial self is unobservable *to itself* not because it is unreal but because observation requires a distinction between observer and observed, and the self cannot stand on both sides of that distinction simultaneously. The window cannot see itself because it is the medium through which seeing occurs.
 
@@ -159,7 +159,7 @@ The three-layered self connects directly to the Map's foundational commitments.
 - [personal-identity](/topics/personal-identity/) — What makes you persist over time
 - [haecceity](/concepts/haecceity/) — Primitive thisness and why qualitative identity isn't enough
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The Map's critique of identity-as-pattern
-- [the-unobservable-self](/voids/the-unobservable-self/) — Why the observing self cannot observe itself observing
+- [the-unobservable-self](/voids/self-reference-paradox/) — Why the observing self cannot observe itself observing
 - [witness-consciousness](/concepts/witness-consciousness/) — Observing without identifying
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporally extended self
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist no-self and the Map's irreducibility thesis

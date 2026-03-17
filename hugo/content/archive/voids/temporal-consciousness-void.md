@@ -141,7 +141,7 @@ This void connects to the Map's [tenets](/tenets/):
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why we can re-experience the past but only imagine the future
 - [memory-void](/voids/memory-void/) — Whether past qualia can be recovered
 - [death-void](/voids/death-void/) — Consciousness cannot represent its own absence
-- [the-unobservable-self](/voids/the-unobservable-self/) — The subject that cannot be its own object
+- [the-unobservable-self](/voids/self-reference-paradox/) — The subject that cannot be its own object
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How time structures conscious experience
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The experienced duration of the present moment

@@ -86,7 +86,7 @@ Yoga nidra practitioners aim to maintain awareness through the sleep transition�
 
 Why is the dreamless sleep void unexplorable rather than merely unexplored?
 
-**The observer paradox.** To observe dreamless sleep from within, consciousness must be present. But the question concerns whether consciousness is absent. The moment consciousness examines its own cessation, it has already returned. This parallels [the unobservable self](/voids/the-unobservable-self/)—the subject that cannot become its own object—and is a specific instance of the general [observation-void](/voids/observation-void/).
+**The observer paradox.** To observe dreamless sleep from within, consciousness must be present. But the question concerns whether consciousness is absent. The moment consciousness examines its own cessation, it has already returned. This parallels [the unobservable self](/voids/self-reference-paradox/)—the subject that cannot become its own object—and is a specific instance of the general [observation-void](/voids/observation-void/).
 
 **The memory paradox.** To remember having no experience seems to require having had an experience of no experience. Either there was experience (not truly dreamless) or there wasn't (nothing to remember).
 
@@ -137,7 +137,7 @@ None of these conditions has been met. The dreamless sleep void remains: a gap w
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy: unexplored, unexplorable, occluded
 - [dream-consciousness-void](/voids/dream-consciousness-void/) — The related void: bidirectional inaccessibility between waking and dreaming
-- [the-unobservable-self](/voids/the-unobservable-self/) — The subject that cannot be its own object
+- [the-unobservable-self](/voids/self-reference-paradox/) — The subject that cannot be its own object
 - [memory-void](/voids/memory-void/) — Whether past qualia can be recovered or are lost forever
 - [death-void](/voids/death-void/) — The related void: consciousness cannot represent its own permanent cessation
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
