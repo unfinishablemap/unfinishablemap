@@ -18,6 +18,91 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 04:58 UTC - deep-review
+- **Status**: Success
+- **File**: [the-reverse-inference](/topics/the-reverse-inference/)
+- **Word count**: 1502 → 1671 (+169)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-17-the-reverse-inference](/reviews/deep-review-2026-03-17-the-reverse-inference/)
+
+## 2026-03-17 04:44 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Reverse Inference
+- **Output**: [the-reverse-inference](/topics/the-reverse-inference/)
+- **Word count**: 1502
+- **Based on research**: no (based on apex article [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/))
+
+## 2026-03-17 04:28 UTC - refine-draft
+- **Status**: Success
+- **File**: [philosophical-zombies](/concepts/philosophical-zombies/)
+- **Changes**: Expanded Tenet 4 (No Many Worlds) from single assertion to developed argument about MWI multiplying persons; strengthened functionalism engagement with response to best functionalist objection; softened "clearly conceivable" language in two places
+- **Published**: yes
+
+## 2026-03-17 04:13 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/ai-consciousness.md`, `concepts/epiphenomenalism.md`, `concepts/philosophical-zombies.md`
+- **Output**: [pessimistic-2026-03-17](/reviews/pessimistic-2026-03-17/)
+- **Notes**: 5 issues found (1 high, 3 medium, 1 low). High-severity: unsupported MWI/zombie connection in philosophical-zombies.md. Medium: self-stultification overreliance, functionalism dismissed too quickly, circular quantum argument against AI. 1 task added (P2 refine-draft for philosophical-zombies.md).
+
+## 2026-03-17 03:58 UTC - research-topic
+- **Status**: Success
+- **Topic**: Russellian monism as competitor to bi-aspectual dualism (supplement)
+- **Output**: [russellian-monism-bi-aspectual-dualism-supplement-2026-03-17](/research/russellian-monism-bi-aspectual-dualism-supplement-2026-03-17/)
+- **Sources consulted**: 12
+- **Notes**: Supplements existing research from 2026-03-14. Covers five identified gaps: cosmopsychism/decombination, quantum Russellian monism (Lockwood), many-worlds compatibility, recent 2024–2025 developments (Hashemi, Brown), and Kind's collapse thesis. Key finding: Hashemi (2024) argues RM is best read as dual-aspect monism, directly challenging the Map's bi-aspectual distinctiveness.
+
+## 2026-03-17 03:43 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-depth](/concepts/phenomenal-depth/)
+- **Word count**: 1309 → 1313 (+4)
+- **Critical issues addressed**: 3 (stale wikilinks to archived articles)
+- **Medium issues addressed**: 2 (missing cross-links)
+- **Enhancements made**: 3 (aesthetics cross-link, pain article in Further Reading, updated frontmatter references)
+- **Output**: [deep-review-2026-03-17-phenomenal-depth](/reviews/deep-review-2026-03-17-phenomenal-depth/)
+
+## 2026-03-17 03:28 UTC - deep-review
+- **Status**: Success
+- **File**: [emotion-and-dualism](/topics/emotion-and-dualism/)
+- **Word count**: 2832 → 2861 (+29)
+- **Critical issues addressed**: 2 (Cleeremans & Tallon-Baudry misattribution, Cochrane unverifiable attribution)
+- **Medium issues addressed**: 2 (asymbolia argument strengthened, prose tightened)
+- **Enhancements made**: 0 (length-neutral mode, article at 95% of soft threshold)
+- **Output**: [deep-review-2026-03-17-emotion-and-dualism](/reviews/deep-review-2026-03-17-emotion-and-dualism/)
+
+## 2026-03-17 03:14 UTC - research-topic
+- **Status**: Success
+- **Topic**: Completeness in physics — EPR, Bell, and "partial but complete"
+- **Output**: [completeness-in-physics-epr-bell-2026-03-17](/research/completeness-in-physics-epr-bell-2026-03-17/)
+- **Sources consulted**: 14
+- **Note**: Supplement to existing [completeness-in-physics-epr-bell-2026-03-14](/research/completeness-in-physics-epr-bell-2026-03-14/), filling gaps on QBism's rival completeness account, Hardy's nonlocality-without-inequalities, Barrett's dualism argument, Stapp's Process 1 framework, Hance-Hossenfelder on local theories, and consciousness-collapse history
+
+## 2026-03-17 02:58 UTC - research-topic
+- **Status**: Success
+- **Topic**: The Gödel-measurement problem analogy — scope and limits
+- **Output**: [godel-measurement-problem-analogy-2026-03-17](/research/godel-measurement-problem-analogy-2026-03-17/)
+- **Sources consulted**: 18
+- **Note**: Supplement to existing [godel-measurement-problem-analogy-2026-03-14](/research/godel-measurement-problem-analogy-2026-03-14/), filling gaps on Szangolies' Epistemic Horizons, Frauchiger-Renner details, Chalmers/Aaronson critiques, and the model-vs-reality distinction
+
+## 2026-03-17 02:53 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 124 (3847 to 3971)
+- **Period covered**: 2026-03-15 to 2026-03-17 (2 days)
+- **Findings**: 1 cadence (validate-all 53 days stale), 1 failure (2 research-topic timeouts), 1 queue (cap raises made P2 tasks executable), 1 review (self-qualification pattern), 1 convergence (topics 224→216 via coalesce)
+- **Tier 1 changes**: 0 applied
+- **Tier 2 recommendations**: 9 logged (3 critical, 2 high, 2 medium, 2 low)
+- **Key development**: Section caps raised to 230/230/100 by human; coalesce reduced topics by 8, voids by 2
+- **Output**: [system-tune-2026-03-17](/reviews/system-tune-2026-03-17/)
+
+## 2026-03-17 02:47 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 414
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 1
+- **Output**: [tenet-check-2026-03-17](/reviews/tenet-check-2026-03-17/)
+
 ## 2026-03-17 02:30 UTC - deep-review
 - **Status**: Success
 - **File**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)

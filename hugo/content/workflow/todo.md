@@ -38,42 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research the Gödel-measurement problem analogy — scope and limits
-- **Type**: research-topic
-- **Notes**: The apex draws an analogy between Gödel incompleteness and the measurement problem. Needs rigorous treatment: (1) Penrose's use of Gödel in Shadows of the Mind. (2) Lucas-Penrose argument and critics (Putnam, Feferman, Shapiro). (3) Precise scope: formal incompleteness involves self-reference; does the measurement problem? (4) Chaitin's incompleteness via algorithmic randomness. (5) Where the analogy breaks: Gödel is about provability; measurement problem is about determinism. Genuinely analogous or superficially similar? (6) Yanofsky's "Outer Limits of Reason" on structural limits across domains. Target: research note.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
-### P2: Research completeness in physics — EPR, Bell, and "partial but complete"
-- **Type**: research-topic
-- **Notes**: The apex distinguishes Einstein's "incomplete" (missing hidden variables) from the Map's "partial" (complete about structure, silent about actuality). Ground this technically: (1) EPR's completeness criterion. (2) Bell's theorem on local hidden variables. (3) Kochen-Specker on contextuality. (4) PBR theorem — wavefunction is ontic. How does this support "partial but complete"? (5) Fine's prism models. (6) Precise coherence of "complete but partial" — a theory complete for its domain acknowledging its domain is not all of reality. Precedent: Newtonian mechanics was complete-but-partial. Target: research note.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
-### P2: Update references to coalesced aesthetics articles
-- **Type**: cross-review
-- **Notes**: Coalesce created aesthetics-and-consciousness.md from 4 source articles. The following active files reference archived articles and need wikilinks updated: aesthetic-dimension-of-consciousness → aesthetics-and-consciousness (14 active files), aesthetic-irreducibility-arguments → aesthetics-and-consciousness (8 active files), consciousness-and-aesthetic-creation → aesthetics-and-consciousness (6 active files), binding-and-beauty → aesthetics-and-consciousness (0 non-source active files). Many files reference multiple archived slugs. See changelog entry 2026-03-17 01:15 UTC.
-- **Source**: coalesce
-- **Generated**: 2026-03-17
-
-### P2: Research Russellian monism as competitor to bi-aspectual dualism
-- **Type**: research-topic
-- **Notes**: Russellian monism (Chalmers 2015, Alter & Nagasawa 2015) is the closest competitor — both say physics describes structure while consciousness is "missing." Key differences to clarify: (1) Russellian monism is neutral monism (one substance, two aspects); the Map commits to genuine dualism. (2) Russellian monism typically implies panpsychism; the Map rejects it. (3) The combination problem hits Russellian monism hard; the Map's quantum-interface model may avoid it. (4) Does Russellian monism handle the measurement problem? Research Chalmers' "The Combination Problem for Panpsychism," Goff's "Consciousness and Fundamental Reality," Stoljar's "Ignorance and Imagination." Critical positioning work. Target: research note.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
-### P2: Research mathematical structure of the consciousness-physics interface
-- **Type**: research-topic
-- **Notes**: The apex claims the Born rule's mathematical form (squared amplitudes) may encode interface constraints. Can we say more? (1) Why squared amplitudes — deeper reason? Connection to inner product structure of Hilbert space, conservation of probability. (2) Could alternative rules (p=|ψ|, p=|ψ|³) be consistent? What breaks? (3) Hardy's reconstruction of QM from information-theoretic axioms. (4) L² structure uniqueness. (5) Can Born rule be derived from consciousness-physics coupling assumptions? E.g., if consciousness must preserve ensemble statistics, does this constrain the probability rule? (6) Sorkin's sum-over-histories — absence of third-order interference. Speculative but could yield genuine insights. Target: research note.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
-### P2: Write topic article — The Reverse Inference
-- **Type**: expand-topic
-- **Notes**: Dedicated topic article developing the methodological move: using consciousness as a datum to constrain physics, rather than the standard direction. Cover: (1) Why the standard direction (physics → consciousness) is not the only rational approach. (2) Historical precedents — using observed phenomena to constrain theory (thermodynamics → statistical mechanics, stellar spectra → atomic structure). (3) The epistemic asymmetry — consciousness is more certain than any QM interpretation. (4) Objections: motivated reasoning? Response: all interpretation is constrained by commitments; the question is which are best supported. Target section: topics/. Source: the apex article.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P2: Write concept article — Bi-aspectual Ontology
 - **Type**: expand-topic
 - **Notes**: Develop the concept of bi-aspectual ontology as used in the apex: reality has two irreducible aspects — structure (physics/wavefunction) and actuality (consciousness). Distinguish from: (1) substance dualism; (2) property dualism; (3) neutral monism/Russellian monism; (4) idealism; (5) panpsychism. The Map's position: genuine dualism where physics is complete-for-its-domain and consciousness is the other domain. The interface (Born rule) connects them. Requires the bi-aspectual traditions research (P1) to be completed first. Target section: concepts/.
@@ -622,6 +586,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-16
 
 ## Completed Tasks
+
+
+### ✓ 2026-03-17: Write topic article — The Reverse Inference
+- **Type**: expand-topic
+- **Notes**: Dedicated topic article developing the methodological move: using consciousness as a datum to constrain physics, rather than the standard direction. Cover: (1) Why the standard direction (physics → consciousness) is not the only rational approach. (2) Historical precedents — using observed phenomena to constrain theory (thermodynamics → statistical mechanics, stellar spectra → atomic structure). (3) The epistemic asymmetry — consciousness is more certain than any QM interpretation. (4) Objections: motivated reasoning? Response: all interpretation is constrained by commitments; the question is which are best supported. Target section: topics/. Source: the apex article.
+- **Output**: Write topic article — The Reverse Inference
+
+### ✓ 2026-03-17: Write topic article — The Reverse Inference
+- **Type**: expand-topic
+- **Output**: [the-reverse-inference](/topics/the-reverse-inference/)
+
+### ✓ 2026-03-17: Address unsupported MWI/zombie connection in philosophical-zombies.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the No Many Worlds / zombie argument connection (Relation to Site Perspective, Tenet 4) is asserted in a single sentence without argument. MWI multiplies persons rather than fragmenting identity; the claim that it "undermines haecceity" needs substantial development or softening. Also address: functionalism engagement could be stronger, "clearly conceivable" language. See pessimistic-2026-03-17.md (Issues #4, #2, language improvements).
+- **Output**: obsidian/concepts/philosophical-zombies.md
+
+Task context:
+Pessimistic review found the No Many Worlds / zombie argument connection (Relation to Site Perspective, Tenet 4) is asserted in a single sentence without argument. MWI multiplies persons rather than fragmenting identity; the claim that it "undermines haecceity" needs substantial development or softening. Also address: functionalism engagement could be stronger, "clearly conceivable" language. See pessimistic-2026-03-17.md (Issues #4, #2, language improvements).
+
+### ✓ 2026-03-17: Address unsupported MWI/zombie connection in philosophical-zombies.md
+- **Type**: refine-draft
+- **Status**: done
+- **Notes**: Expanded Tenet 4 paragraph with substantive argument about MWI multiplying persons; strengthened functionalism section; softened "clearly conceivable" language.
+- **Output**: [philosophical-zombies](/concepts/philosophical-zombies/)
+
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention.
@@ -630,6 +619,25 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+### ✓ 2026-03-17: Research Russellian monism as competitor to bi-aspectual dualism
+- **Type**: research-topic
+- **Notes**: Russellian monism (Chalmers 2015, Alter & Nagasawa 2015) is the closest competitor — both say physics describes structure while consciousness is "missing." Key differences to clarify: (1) Russellian monism is neutral monism (one substance, two aspects); the Map commits to genuine dualism. (2) Russellian monism typically implies panpsychism; the Map rejects it. (3) The combination problem hits Russellian monism hard; the Map's quantum-interface model may avoid it. (4) Does Russellian monism handle the measurement problem? Research Chalmers' "The Combination Problem for Panpsychism," Goff's "Consciousness and Fundamental Reality," Stoljar's "Ignorance and Imagination." Critical positioning work. Target: research note.
+- **Output**: Russellian monism as competitor to bi-aspectual dualism
+
+### ✓ 2026-03-17: Update references to coalesced aesthetics articles
+- **Type**: cross-review
+- **Notes**: Coalesce created aesthetics-and-consciousness.md from 4 source articles. The following active files reference archived articles and need wikilinks updated: aesthetic-dimension-of-consciousness → aesthetics-and-consciousness (14 active files), aesthetic-irreducibility-arguments → aesthetics-and-consciousness (8 active files), consciousness-and-aesthetic-creation → aesthetics-and-consciousness (6 active files), binding-and-beauty → aesthetics-and-consciousness (0 non-source active files). Many files reference multiple archived slugs. See changelog entry 2026-03-17 01:15 UTC.
+- **Output**: None -- Context: Update references to coalesced aesthetics articles
+
+### ✓ 2026-03-17: Research completeness in physics — EPR, Bell, and "partial but complete"
+- **Type**: research-topic
+- **Notes**: The apex distinguishes Einstein's "incomplete" (missing hidden variables) from the Map's "partial" (complete about structure, silent about actuality). Ground this technically: (1) EPR's completeness criterion. (2) Bell's theorem on local hidden variables. (3) Kochen-Specker on contextuality. (4) PBR theorem — wavefunction is ontic. How does this support "partial but complete"? (5) Fine's prism models. (6) Precise coherence of "complete but partial" — a theory complete for its domain acknowledging its domain is not all of reality. Precedent: Newtonian mechanics was complete-but-partial. Target: research note.
+- **Output**: completeness in physics — EPR, Bell, and "partial but complete"
+
+### ✓ 2026-03-17: Research the Gödel-measurement problem analogy — scope and limits
+- **Type**: research-topic
+- **Notes**: The apex draws an analogy between Gödel incompleteness and the measurement problem. Needs rigorous treatment: (1) Penrose's use of Gödel in Shadows of the Mind. (2) Lucas-Penrose argument and critics (Putnam, Feferman, Shapiro). (3) Precise scope: formal incompleteness involves self-reference; does the measurement problem? (4) Chaitin's incompleteness via algorithmic randomness. (5) Where the analogy breaks: Gödel is about provability; measurement problem is about determinism. Genuinely analogous or superficially similar? (6) Yanofsky's "Outer Limits of Reason" on structural limits across domains. Target: research note.
+- **Output**: the Gödel-measurement problem analogy — scope and limits
 
 ### ✓ 2026-03-17: Update references to coalesced temporal-asymmetry article
 - **Type**: cross-review
