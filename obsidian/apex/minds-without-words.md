@@ -4,7 +4,7 @@ description: "Consciousness beyond human language reveals that experience is mor
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-12T08:23:00+00:00
+ai_modified: 2026-03-17T14:54:00+00:00
 last_deep_review: 2026-03-12T08:23:00+00:00
 draft: false
 topics:
@@ -36,7 +36,7 @@ apex_sources:
   - topics/baseline-cognition
   - concepts/phenomenal-consciousness
   - topics/emotion-and-dualism
-apex_last_synthesis: 2026-03-04T21:25:00+00:00
+apex_last_synthesis: 2026-03-17T14:54:00+00:00
 apex_thesis: "Non-linguistic consciousness in animals and simple organisms reveals that experience is more fundamental than the cognitive capacities we usually associate with mind."
 ---
 
@@ -84,11 +84,11 @@ A 2025 meta-analysis of fMRI studies (Randeniya) found that only 10% of claimed 
 
 ## Emotional Consciousness: The Felt Quality of Valence
 
-Perhaps nowhere is consciousness more vivid than in emotional experience. The badness of pain and the pleasure of joy possess an intrinsic felt quality that no functional description captures.
+Perhaps nowhere is consciousness more vivid than in emotional experience. The badness of pain and the pleasure of joy possess an intrinsic felt quality that no functional description captures. Lisa Feldman Barrett and James Russell's [[emotion-and-dualism|core affect]] framework suggests this is not intermittent: consciousness carries valence at all times, blending pleasure-displeasure with arousal-deactivation. We are never affectively neutral. If true, consciousness and valence may be inseparable—experience without feeling may be an abstraction rather than a real possibility.
 
-Why does pain feel *bad* rather than merely different? A complete functional description of nociception—sensory transduction, neural signalling, defensive responses—leaves the badness unexplained. Pain asymbolia cases reveal the distinction starkly: patients with specific brain damage can represent tissue damage without feeling the badness. They report the pain exists but doesn't bother them. This dissociation proves that representation and valence are distinct. The phenomenal property—the felt badness—is what makes pain motivating. Without it, functional pain processing fails to generate avoidance behaviour.
+Why does pain feel *bad* rather than merely different? A complete functional description of nociception—sensory transduction, neural signalling, defensive responses—leaves the badness unexplained. The hedonic account treats valence as an intrinsic qualitative property of experience: the badness is not *about* anything external but a property of the pain itself. The rival evaluativist account (Carruthers 2018) argues valence represents value in the world—fear is directed at the bear's claws, not at an inner feeling. Pain asymbolia settles the dispute: patients with specific brain damage can represent tissue damage without feeling the badness. If valence were merely representation of harm, asymbolics should still experience the negative quality—they retain the capacity to represent tissue damage as harmful. Valence is an intrinsic phenomenal property, separate from representational content, and it does genuine causal work: remove it and motivation collapses.
 
-Jaak Panksepp's work on affective neuroscience identifies seven primary emotional systems arising from ancient subcortical structures. His key evidence: decorticate rats—cortex removed—still play, show distress, and display pleasure responses. If emotional consciousness required cortex, decortication should eliminate it. Panksepp concluded that emotional consciousness is "an evolutionary birthright" extending to any creature with subcortical limbic structures—though Joseph LeDoux disputes this, arguing conscious feelings require cortical higher-order representations. The debate remains unresolved; what matters is that *some* form of phenomenal valence extends beyond humans.
+Jaak Panksepp's work on affective neuroscience identifies seven primary emotional systems arising from ancient subcortical structures. His key evidence: decorticate rats—cortex removed—still play, show distress, and display pleasure responses. Panksepp concluded that emotional consciousness is "an evolutionary birthright" extending to any creature with subcortical limbic structures—though Joseph LeDoux disputes this, arguing conscious feelings require cortical higher-order representations. What matters for the Map is that *some* form of phenomenal valence extends well beyond humans, and that its subcortical locus connects it to the minimal consciousness question: if emotional experience doesn't require cortex, it may reach far deeper into the phylogenetic tree than cognition-focused accounts suggest.
 
 The felt quality of valence matters both causally and morally. Pain asymbolia demonstrates that phenomenal properties do real causal work—[[tenets#^bidirectional-interaction|Bidirectional Interaction]] in action. And morally, Jeremy Bentham's principle captures valence sentientism: the capacity for negatively valenced experience is necessary and sufficient for moral consideration. If animal suffering is real suffering, it matters regardless of whether they can articulate it. Emotional consciousness may also constitute a way of knowing—Max Scheler's "Wertnehmung" (value-perception) treats emotional experience as the primary mode through which values are disclosed, an irreplaceable epistemic access that no non-conscious system could replicate.
 
@@ -118,7 +118,7 @@ The individual source articles establish components: animal consciousness as the
 
 **The moral stakes are real and immediate.** If animal suffering involves genuine phenomenal badness—if pain really hurts them in the way it hurts us—then billions of creatures matter morally in ways we often ignore. Pain asymbolia shows the felt quality isn't epiphenomenal decoration; it's what makes pain *matter*. The precautionary stance of the New York Declaration follows: when uncertainty about consciousness carries moral weight, ignoring that uncertainty is irresponsible.
 
-**The limits reveal something about our position.** We cannot know what bat echolocation feels like. We cannot determine whether C. elegans experiences anything. The [[voids|void]] at the boundary of animal minds mirrors the void at the boundary of our own understanding. Animal phenomenology constitutes a genuine cognitive limit: not merely incomplete knowledge but potentially inaccessible territory. Complete structural knowledge of 302 neurons doesn't bridge the gap—this is what [[mysterianism|cognitive closure]] looks like empirically.
+**The limits reveal something about our position.** We cannot know what bat echolocation feels like. We cannot determine whether C. elegans experiences anything. Even our access to our own emotions is partial: [[emotion-and-dualism|alexithymia]]—difficulty identifying one's emotions, affecting roughly 10% of the population—demonstrates that having an emotion and knowing what emotion one has are separate capacities. Under dualism, this gap bridges ontologically distinct domains: phenomenal experience and conceptual thought. The [[voids|void]] at the boundary of animal minds mirrors the void at the boundary of our own understanding. Animal phenomenology constitutes a genuine cognitive limit: not merely incomplete knowledge but potentially inaccessible territory. Complete structural knowledge of 302 neurons doesn't bridge the gap—this is what [[mysterianism|cognitive closure]] looks like empirically.
 
 ## Relation to Site Perspective
 
@@ -152,15 +152,17 @@ This apex article synthesises:
 
 ## References
 
-1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87–114.
-2. Ginsburg, S. & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
-3. Godfrey-Smith, P. (2024). Inferring consciousness in phylogenetically distant organisms. In *The Oxford Handbook of the Philosophy of Consciousness*.
-4. Inoue, S. & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004–R1005.
-5. LeDoux, J.E. & Brown, R. (2017). A higher-order theory of emotional consciousness. *PNAS*, 114(10), E2016–E2025.
-6. Metzinger, T. (2024). Minimal phenomenal experience: The ARAS-model theory. *Philosophy and the Mind Sciences*.
-7. Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435–450.
-8. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
-9. Randeniya, R. (2025). Neural correlates of unconscious processing in fMRI: A meta-analysis.
-10. Scheler, M. (1913/1973). *Formalism in Ethics and Non-Formal Ethics of Values*. Northwestern University Press.
-11. Whiten, A. (2015). Experimental studies illuminate the cultural transmission of percussive technologies in *Homo* and *Pan*. *Philosophical Transactions of the Royal Society B*, 370(1682).
-12. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Barrett, L. F., & Russell, J. A. (1999). Core affect, prototypical emotional episodes, and other things called emotion. *Journal of Personality and Social Psychology*, 76(5), 805–819.
+2. Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658–680.
+3. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87–114.
+4. Ginsburg, S. & Jablonka, E. (2019). *The Evolution of the Sensitive Soul: Learning and the Origins of Consciousness*. MIT Press.
+5. Godfrey-Smith, P. (2024). Inferring consciousness in phylogenetically distant organisms. In *The Oxford Handbook of the Philosophy of Consciousness*.
+6. Inoue, S. & Matsuzawa, T. (2007). Working memory of numerals in chimpanzees. *Current Biology*, 17(23), R1004–R1005.
+7. LeDoux, J.E. & Brown, R. (2017). A higher-order theory of emotional consciousness. *PNAS*, 114(10), E2016–E2025.
+8. Metzinger, T. (2024). Minimal phenomenal experience: The ARAS-model theory. *Philosophy and the Mind Sciences*.
+9. Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435–450.
+10. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
+11. Randeniya, R. (2025). Neural correlates of unconscious processing in fMRI: A meta-analysis.
+12. Scheler, M. (1913/1973). *Formalism in Ethics and Non-Formal Ethics of Values*. Northwestern University Press.
+13. Whiten, A. (2015). Experimental studies illuminate the cultural transmission of percussive technologies in *Homo* and *Pan*. *Philosophical Transactions of the Royal Society B*, 370(1682).
+14. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.

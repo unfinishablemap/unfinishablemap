@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 14:54 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[minds-without-words]]
+- **Changed sources**: 1 (emotion-and-dualism, coalesced and updated 2026-03-17)
+- **Word count**: ~3400 → ~3600
+- **Review**: [[reviews/apex-evolve-2026-03-17-minds-without-words]]
+
 ## 2026-03-17 14:43 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-temporal-selection]]
