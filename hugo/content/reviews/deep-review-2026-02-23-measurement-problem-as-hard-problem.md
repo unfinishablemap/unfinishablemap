@@ -75,8 +75,8 @@ All six personas engaged. No new counterarguments surfaced beyond those already 
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — added to `related_articles`; updated body link from archived `consciousness-and-quantum-measurement` to `measurement-problem-as-hard-problem`
 - [measurement-problem](/concepts/measurement-problem/) — added to `related_articles`; added body mention in indexical dimension section
 - [explanatory-gap](/concepts/explanatory-gap/) — added to `related_articles`; added to Further Reading
-- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/) — added to `related_articles`; added to Further Reading
-- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — added to `related_articles`; added to Further Reading
+- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/) — added to `related_articles`; added to Further Reading
+- [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/) — added to `related_articles`; added to Further Reading
 
 ## Remaining Items
 

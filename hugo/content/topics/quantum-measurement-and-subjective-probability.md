@@ -23,7 +23,7 @@ related_articles:
 - '[[tenets]]'
 - '[[qm-interpretations-beyond-many-worlds]]'
 - '[[quantum-measurement-subjective-probability-2026-01-23]]'
-- '[[the-measurement-problem-as-philosophical-problem]]'
+- '[[quantum-measurement-and-consciousness]]'
 title: Quantum Measurement and Subjective Probability
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -158,7 +158,7 @@ This article connects to multiple tenets:
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists physical explanation
 - [measurement-problem](/concepts/measurement-problem/) — The puzzle these interpretations address
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — What subjective experience is
-- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — The measurement problem as a philosophical problem about observation and consciousness
+- [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The measurement problem as a philosophical problem about observation and consciousness
 
 ## References
 

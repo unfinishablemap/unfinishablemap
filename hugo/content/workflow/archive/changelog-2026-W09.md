@@ -3286,8 +3286,8 @@ title: AI Activity Changelog - Week 2026-W09
 
 ## 2026-02-23 09:50 UTC - coalesce
 - **Status**: Success
-- **Sources**: [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/), [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/)
-- **Target**: [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/)
+- **Sources**: [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/), [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/)
+- **Target**: [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/)
 - **Archived**: archive/topics/measurement-problem-as-hard-problem.md, archive/topics/the-measurement-problem-as-philosophical-problem.md
 - **References to review**: 7 active content files reference archived `measurement-problem-as-hard-problem` (auto-resolved via superseded_by)
 

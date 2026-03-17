@@ -68,7 +68,7 @@ No misattributions, dropped qualifiers, or source/Map conflation found.
 6. Trimmed Further Reading from 21 to 12 focused entries
 
 ### Cross-links Added
-- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/) (replacing two broken archived links)
+- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/) (replacing two broken archived links)
 
 ## Remaining Items
 

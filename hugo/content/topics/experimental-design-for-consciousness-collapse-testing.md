@@ -25,7 +25,7 @@ last_deep_review: 2026-02-22 02:12:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[quantum-measurement-consciousness-interface]]'
+- '[[quantum-measurement-and-consciousness]]'
 - '[[consciousness-in-smeared-quantum-states]]'
 - '[[comparing-quantum-consciousness-mechanisms]]'
 - '[[consciousness-and-scientific-methodology]]'
@@ -141,7 +141,7 @@ The Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is directly r
 ## Further Reading
 
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse connects to temporal asymmetry and why collapse realism matters for testability
-- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/)
+- [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
 - [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/)
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
 - [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)

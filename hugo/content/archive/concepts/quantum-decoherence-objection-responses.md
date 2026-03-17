@@ -65,7 +65,7 @@ This is the strongest response and the most frequently overlooked. [decoherence]
 
 The Stanford Encyclopedia of Philosophy states this directly: "Decoherence as such does not provide a solution to the [measurement-problem](/concepts/measurement-problem/), at least not unless it is combined with an appropriate foundational approach to the theory."
 
-This point is frequently missed because scientists often conflate decoherence (loss of interference) with collapse (selection of a definite outcome). These are distinct processes. Decoherence explains why superpositions become unobservable; collapse—or whatever replaces it—explains why one outcome becomes actual. Treating decoherence as if it resolves the measurement problem implicitly adopts an interpretation where no selection is needed, such as Many-Worlds. Under the Map's [No Many Worlds tenet](/tenets/#no-many-worlds), this move is unavailable: outcomes are genuinely selected, and decoherence does not do the selecting. The [measurement problem as philosophical problem](/topics/the-measurement-problem-as-philosophical-problem/) and [explanatory gap](/concepts/explanatory-gap/) articles develop this structural parallel.
+This point is frequently missed because scientists often conflate decoherence (loss of interference) with collapse (selection of a definite outcome). These are distinct processes. Decoherence explains why superpositions become unobservable; collapse—or whatever replaces it—explains why one outcome becomes actual. Treating decoherence as if it resolves the measurement problem implicitly adopts an interpretation where no selection is needed, such as Many-Worlds. Under the Map's [No Many Worlds tenet](/tenets/#no-many-worlds), this move is unavailable: outcomes are genuinely selected, and decoherence does not do the selecting. The [measurement problem as philosophical problem](/topics/quantum-measurement-and-consciousness/) and [explanatory gap](/concepts/explanatory-gap/) articles develop this structural parallel.
 
 A physicalist might object that definite outcomes require no "selector"—they are simply stochastic events, like radioactive decay. But this response merely relabels the problem. Saying outcomes are "random" describes the statistics; it does not explain why *this* particular outcome occurs rather than another. The measurement problem persists as a question about what determines individual actualisation, not about whether the probabilities are correct.
 
@@ -166,7 +166,7 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-razor-has-limits) is also d
 
 - [decoherence](/concepts/decoherence/) — Comprehensive treatment of the objection and detailed evidence
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't determine outcomes
-- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — The measurement problem as a philosophical, not merely technical, challenge
+- [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/) — The measurement problem as a philosophical, not merely technical, challenge
 - [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Five proposed neural quantum mechanisms and coherence protection
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The discrete observation mechanism
 - [quantum-biology](/concepts/quantum-biology/) — Established biological quantum effects

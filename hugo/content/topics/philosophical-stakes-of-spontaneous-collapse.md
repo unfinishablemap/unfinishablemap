@@ -29,7 +29,7 @@ related_articles:
 - '[[agent-causation]]'
 - '[[collapse-and-time]]'
 - '[[multi-mind-collapse-problem]]'
-- '[[the-measurement-problem-as-philosophical-problem]]'
+- '[[quantum-measurement-and-consciousness]]'
 title: The Philosophical Stakes of Spontaneous Collapse
 topics:
 - '[[experimental-design-for-consciousness-collapse-testing]]'
@@ -123,7 +123,7 @@ The model also faces honest difficulties. IIT's measure of integrated informatio
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — when multiple minds observe the same system
 - [free-will](/topics/free-will/) — how stochastic collapse enables libertarian free will
 - [agent-causation](/concepts/agent-causation/) — the causal power consciousness exercises at quantum events
-- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — why the measurement problem is philosophical, not merely technical
+- [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — why the measurement problem is philosophical, not merely technical
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — comparative survey of interpretations and consciousness compatibility
 
 ## References

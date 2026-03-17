@@ -44,8 +44,7 @@ related_articles:
 - '[[interactionist-dualism]]'
 - '[[decoherence-and-macroscopic-superposition]]'
 - '[[comparing-quantum-consciousness-mechanisms]]'
-- '[[the-measurement-problem-as-philosophical-problem]]'
-- '[[quantum-measurement-consciousness-interface]]'
+- '[[quantum-measurement-and-consciousness]]'
 - '[[decoherence-macroscopic-superposition-2026-01-14]]'
 - '[[quantum-superposition-brain-consciousness-2026-01-18]]'
 - '[[quantum-decoherence-objection-responses-2026-01-15]]'
@@ -83,7 +82,7 @@ The standard decoherence objection needs all three claims to succeed. Defeating 
 
 **Decoherence does not solve the [measurement problem](/concepts/measurement-problem/).** It explains why we don't observe superpositions, but not why we see *definite* outcomes. After decoherence, standard quantum mechanics still describes the total system as a vast entangled superposition. The appearance of definite outcomes requires something more.
 
-The distinction between **basis selection** (which basis becomes preferred) and **outcome selection** (which particular outcome actualizes) is crucial. Decoherence explains why we observe position eigenstates rather than momentum eigenstates, but not why we observe *this particular position*. See [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/) for extended analysis.
+The distinction between **basis selection** (which basis becomes preferred) and **outcome selection** (which particular outcome actualizes) is crucial. Decoherence explains why we observe position eigenstates rather than momentum eigenstates, but not why we observe *this particular position*. See [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) for extended analysis.
 
 The [physics-as-disclosure](/concepts/physics-as-disclosure/) framework strengthens this: decoherence's clean partition—handling all structural work while leaving actuality untouched—is evidence that physics reaches the boundary where structural description ends and conscious actuality begins. Decoherence does everything a [bi-aspectual](/concepts/bi-aspectual-ontology/) reality predicts physics *can* do, then stops exactly where the actuality question requires something beyond structure.
 
@@ -193,7 +192,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is direct
 
 ## Further Reading
 
-- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/) — The measurement problem and hard problem as two aspects of the same interface
+- [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The measurement problem and hard problem as two aspects of the same interface
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing hierarchy from femtosecond decoherence to 300ms decision windows
 - [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/) — Quantum neural mechanisms and coherence protection
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve the measurement problem

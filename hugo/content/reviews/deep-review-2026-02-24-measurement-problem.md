@@ -43,9 +43,9 @@ None. Article remains factually accurate with no misattributions or internal con
    - *Resolution*: Merged into a single argument. Changed "None of these arguments" to "Neither argument."
 
 5. **Three wikilinks pointed to archived articles** (Issue #5):
-   - `[consciousness-and-quantum-measurement](/topics/quantum-measurement-consciousness-interface/)` → `[quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/)`
-   - `[quantum-measurement-and-definite-outcomes](/topics/quantum-measurement-consciousness-interface/)` → `[quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/)`
-   - `[measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/)` → `[the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/)`
+   - `[consciousness-and-quantum-measurement](/topics/quantum-measurement-consciousness-interface/)` → `[quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/)`
+   - `[quantum-measurement-and-definite-outcomes](/topics/quantum-measurement-consciousness-interface/)` → `[quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/)`
+   - `[measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/)` → `[the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/)`
    - *Resolution*: All updated to active replacements.
 
 ### Counterarguments Considered

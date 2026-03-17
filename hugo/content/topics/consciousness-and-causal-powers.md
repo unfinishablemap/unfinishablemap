@@ -36,7 +36,7 @@ related_articles:
 - '[[evolutionary-case-for-mental-causation]]'
 - '[[conservation-laws-and-mental-causation]]'
 - '[[topics/phenomenal-value-realism]]'
-- '[[quantum-measurement-consciousness-interface]]'
+- '[[quantum-measurement-and-consciousness]]'
 - '[[the-interface-location-problem]]'
 - '[[metaphysics-of-information-under-dualism]]'
 - '[[value-blind-vs-value-sensitive-selection]]'
@@ -209,7 +209,7 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [free-will](/topics/free-will/) — How causal powers relate to freedom and responsibility
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why mental causation need not violate physical conservation
 - [the-interface-location-problem](/topics/the-interface-location-problem/) — Where and why consciousness interfaces with the physical
-- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/) — The measurement problem as window for mental causation
+- [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The measurement problem as window for mental causation
 - [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) — Whether consciousness is a disposition, has dispositions, or transcends dispositional ontology
 - [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/) — Apex synthesis: how the phenomenology of effort, selection, and holding constitutes evidence for causal powers
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — The syntax-semantics divide in causal selection: syntactic physics, semantic consciousness

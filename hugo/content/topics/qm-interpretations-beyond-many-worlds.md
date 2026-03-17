@@ -37,7 +37,7 @@ related_articles:
 title: Quantum Interpretations Beyond Many-Worlds
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[the-measurement-problem-as-philosophical-problem]]'
+- '[[quantum-measurement-and-consciousness]]'
 - '[[philosophical-stakes-of-spontaneous-collapse]]'
 - '[[topics/free-will]]'
 ---
@@ -50,7 +50,7 @@ The Unfinishable Map [rejects many-worlds](/concepts/many-worlds/) because unive
 
 The original Copenhagen interpretation treats the wave function as a calculational tool representing knowledge, not reality. Measurement causes collapse, but "measurement" is never defined. A classical apparatus is simply presumed to exist.
 
-This ambiguity is both Copenhagen's weakness and its philosophical opening. By leaving the [measurement problem](/concepts/measurement-problem/) unsolved, Copenhagen creates logical space for consciousness-based accounts. Von Neumann's chain analysis showed that the quantum-classical boundary can be pushed arbitrarily far toward the observer, and Wigner later suggested consciousness itself might be the collapse trigger. The Map argues that [the measurement problem and the hard problem share identical logical structure](/topics/the-measurement-problem-as-philosophical-problem/)—both involve a complete third-person description that fails to determine a first-person fact—and Copenhagen's unresolved measurement concept is precisely where this structural parallel becomes visible.
+This ambiguity is both Copenhagen's weakness and its philosophical opening. By leaving the [measurement problem](/concepts/measurement-problem/) unsolved, Copenhagen creates logical space for consciousness-based accounts. Von Neumann's chain analysis showed that the quantum-classical boundary can be pushed arbitrarily far toward the observer, and Wigner later suggested consciousness itself might be the collapse trigger. The Map argues that [the measurement problem and the hard problem share identical logical structure](/topics/quantum-measurement-and-consciousness/)—both involve a complete third-person description that fails to determine a first-person fact—and Copenhagen's unresolved measurement concept is precisely where this structural parallel becomes visible.
 
 Copenhagen's instrumentalism, however, conflicts with the Map's realist commitments. Treating quantum states as mere bookkeeping devices sidesteps the question the Map cares most about: what is actually happening when a measurement occurs, and what role does the observer's experience play in determining outcomes?
 
@@ -140,7 +140,7 @@ No interpretation is proven. The Map does not claim to know which is correct. Wh
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Why MWI cannot recover the Born rule
 - [QBism (Quantum Bayesianism)](/concepts/qbism/)
 - [The Philosophical Stakes of Spontaneous Collapse](/topics/philosophical-stakes-of-spontaneous-collapse/)
-- [The Measurement Problem as Philosophical Problem](/topics/the-measurement-problem-as-philosophical-problem/)
+- [The Measurement Problem as Philosophical Problem](/topics/quantum-measurement-and-consciousness/)
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — Why subjective probability interpretations fail phenomenologically
 - [collapse-and-time](/concepts/collapse-and-time/)
 - [prebiotic-collapse](/concepts/prebiotic-collapse/)

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-10
-**Article**: [Quantum Measurement and the Consciousness Interface](/topics/quantum-measurement-consciousness-interface/)
+**Article**: [Quantum Measurement and the Consciousness Interface](/topics/quantum-measurement-and-consciousness/)
 **Previous review**: [2026-02-05](/reviews/deep-review-2026-02-05-quantum-measurement-consciousness-interface/)
 
 ## Pessimistic Analysis Summary
@@ -73,7 +73,7 @@ No misattributions, dropped qualifiers, or source/Map conflation found.
 ### Cross-links Verified
 
 All wikilinks in the article body now resolve to existing files:
-- [measurement-problem](/concepts/measurement-problem/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [decoherence](/concepts/decoherence/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/), [interactionist-dualism](/concepts/interactionist-dualism/), [knowledge-argument](/concepts/knowledge-argument/), [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/), [prebiotic-collapse](/concepts/prebiotic-collapse/), [many-worlds](/concepts/many-worlds/), [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/), [quantum-consciousness](/concepts/quantum-consciousness/), [qbism](/concepts/qbism/), [libet-experiments](/concepts/libet-experiments/), [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/), [collapse-and-time](/concepts/collapse-and-time/), [epiphenomenalism](/concepts/epiphenomenalism/), [free-will](/topics/free-will/), [consciousness-and-agency](/apex/consciousness-and-agency/), [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/), [tenets](/tenets/)
+- [measurement-problem](/concepts/measurement-problem/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [decoherence](/concepts/decoherence/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/), [interactionist-dualism](/concepts/interactionist-dualism/), [knowledge-argument](/concepts/knowledge-argument/), [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/), [prebiotic-collapse](/concepts/prebiotic-collapse/), [many-worlds](/concepts/many-worlds/), [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/), [quantum-consciousness](/concepts/quantum-consciousness/), [qbism](/concepts/qbism/), [libet-experiments](/concepts/libet-experiments/), [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/), [collapse-and-time](/concepts/collapse-and-time/), [epiphenomenalism](/concepts/epiphenomenalism/), [free-will](/topics/free-will/), [consciousness-and-agency](/apex/consciousness-and-agency/), [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/), [tenets](/tenets/)
 
 ## Remaining Items
 

@@ -65,7 +65,7 @@ None. The article remains factually sound, properly structured, and honest about
 
 ### Cross-links Added
 - [measurement-problem](/concepts/measurement-problem/) — body text (Kim's Exclusion section, causal closure loophole), Further Reading, frontmatter concepts
-- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — body text (Map's Position section), Further Reading, frontmatter related_articles
+- [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/) — body text (Map's Position section), Further Reading, frontmatter related_articles
 
 ## Word Count
 

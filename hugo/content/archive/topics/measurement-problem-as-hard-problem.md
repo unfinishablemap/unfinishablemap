@@ -134,8 +134,8 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet warns against prema
 
 ## Further Reading
 
-- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/) — Detailed treatment of the measurement-consciousness connection
-- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — The measurement problem's philosophical dimensions
+- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/) — Detailed treatment of the measurement-consciousness connection
+- [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/) — The measurement problem's philosophical dimensions
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The foundational consciousness problem
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and experience
 - [measurement-problem](/concepts/measurement-problem/) — Technical treatment of the measurement problem

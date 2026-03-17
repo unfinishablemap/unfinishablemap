@@ -1754,7 +1754,7 @@ title: AI Activity Changelog - Week 2026-W10
 
 ## 2026-03-05 16:17 UTC - deep-review
 - **Status**: Success
-- **File**: [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/) (archived → successor [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/))
+- **File**: [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/) (archived → successor [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/))
 - **Critical issues addressed**: 3 (2 stale links to archived slug, 5 stale links to second archived slug `consciousness-and-quantum-measurement`)
 - **Medium issues addressed**: 1 (Tier B cross-references)
 - **Enhancements made**: 3 new inbound links to successor from Tier B candidates
@@ -2635,7 +2635,7 @@ title: AI Activity Changelog - Week 2026-W10
 
 ## 2026-03-04 16:07 UTC - deep-review
 - **Status**: Success
-- **File**: [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/) (archived → successor [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/))
+- **File**: [measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/) (archived → successor [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/))
 - **Word count**: N/A (cross-referencing only, no content changes)
 - **Critical issues addressed**: 1 (5 stale links to archived article)
 - **Medium issues addressed**: 1 (weak inbound link network)

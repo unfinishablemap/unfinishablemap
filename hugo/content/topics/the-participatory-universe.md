@@ -33,7 +33,7 @@ topics:
 - '[[quantum-measurement-and-subjective-probability]]'
 - '[[indexical-identity-quantum-measurement]]'
 - '[[presentiment-and-retrocausality]]'
-- '[[quantum-measurement-consciousness-interface]]'
+- '[[quantum-measurement-and-consciousness]]'
 ---
 
 The Unfinishable Map's commitment to [interactionist-dualism](/concepts/interactionist-dualism/) — consciousness causally influencing physical outcomes at the quantum level — finds one of its most important precursors in John Archibald Wheeler's participatory universe. Wheeler argued that observers do not passively witness a pre-existing reality but actively participate in constituting it through acts of measurement. "The universe does not exist 'out there' independent of all acts of observation," he wrote. "It is in some strange sense a participatory universe." This vision entails the [constitutive-exclusion](/topics/constitutive-exclusion/): if observers participate in constituting reality, they can never access reality independent of their own contribution. The thesis, crystallised in the slogan "it from bit," remains one of the strongest arguments from within physics itself that mind cannot be peripheral to nature.
@@ -124,7 +124,7 @@ The participatory universe framework would face serious challenge from:
 
 ## Further Reading
 
-- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/)
+- [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
 - [prebiotic-collapse](/concepts/prebiotic-collapse/)
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
 - [retrocausality](/concepts/retrocausality/)

@@ -1039,7 +1039,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-05 19:11 UTC - deep-review
 - **Status**: Success
-- **File**: [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/)
+- **File**: [quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/)
 - **Word count**: 3001 → 2967 (-34)
 - **Critical issues addressed**: 4 (equi-energetic oversimplification, Wigner attribution qualifier, causal closure as fact, structural parallel equivocation)
 - **Medium issues addressed**: 4 (Libet resolution overstated, QBism unfair treatment, missing conservation-laws cross-link, "the one place" overstatement)
@@ -1073,7 +1073,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-05 18:28 UTC - coalesce
 - **Status**: Success
 - **Sources**: Consciousness And Quantum Measurement, Quantum Measurement And Definite Outcomes
-- **Target**: [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/)
+- **Target**: [quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/)
 - **Archived**: Consciousness And Quantum Measurement, Quantum Measurement And Definite Outcomes
 - **Word count**: ~5,900 (source 1: ~3,200) + (source 2: ~2,700) → ~4,200 unified (redundancy removed)
 - **References to review**: 23 files contain links to archived articles

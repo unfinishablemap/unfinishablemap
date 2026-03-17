@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 - **Observer terminology**: The article repeatedly claims "the observer" is presupposed by every derivation but did not engage with the standard physicist's response that "observer" means "measuring apparatus," not "conscious entity." **Resolution**: Added a paragraph at the start of "The Observer in Every Derivation" acknowledging this standard response while explaining why the explanatory gap persists regardless of terminology.
-- **Missing cross-links**: GRW/CSL mentioned without linking to existing concept page; MWI mentioned without linking to many-worlds concept; quantum-measurement-consciousness-interface shares the observer-dependence argument but wasn't linked. **Resolution**: Added wikilinks to [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/), [many-worlds](/concepts/many-worlds/), and [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/).
+- **Missing cross-links**: GRW/CSL mentioned without linking to existing concept page; MWI mentioned without linking to many-worlds concept; quantum-measurement-consciousness-interface shares the observer-dependence argument but wasn't linked. **Resolution**: Added wikilinks to [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/), [many-worlds](/concepts/many-worlds/), and [quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/).
 
 ### Counterarguments Considered
 - **Eliminative Materialist**: "Not yet derived" ≠ "underivable" — Article already addresses this in "What This Does Not Establish" section. No change needed.
@@ -51,12 +51,12 @@ topics: []
 - Added engagement with physicist's standard "observer = apparatus" response
 - Added cross-link to [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) in caveats section
 - Added cross-link to [many-worlds](/concepts/many-worlds/) in tenet connections
-- Added [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/) to Further Reading
+- Added [quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/) to Further Reading
 
 ### Cross-links Added
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)
 - [many-worlds](/concepts/many-worlds/)
-- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/)
+- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/)
 
 ## Remaining Items
 

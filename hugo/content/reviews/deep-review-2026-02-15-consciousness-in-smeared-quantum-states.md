@@ -58,13 +58,13 @@ topics: []
 - Strengthened Albert-Loewer engagement with substantive argument about indexical identity
 - Added decoherence timescale discussion addressing the most obvious scientific objection
 - Tightened LLM token sampling paragraph with clearer motivation
-- Added inline cross-link to [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/)
+- Added inline cross-link to [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/)
 - Added inline cross-link to [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
 
 ### Cross-links Added
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/)
-- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/)
+- [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/)
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) (inline, Albert-Loewer section)
 

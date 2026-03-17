@@ -25,7 +25,7 @@ last_deep_review: 2026-02-22 09:50:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[quantum-measurement-consciousness-interface]]'
+- '[[quantum-measurement-and-consciousness]]'
 title: Disorders of Consciousness as Test Cases
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -120,7 +120,7 @@ The Unfinishable Map's [tenets](/tenets/) converge on DoC cases as among the mos
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The 40% misdiagnosis rate for UWS is a cautionary tale for parsimony. The "simpler" assumption—behaviourally unresponsive patients are unconscious—turned out to be wrong in a substantial minority of cases. Theoretical parsimony led clinicians to undercounted consciousness for decades. The simplest explanation is not always right, particularly when the phenomenon resists third-person observation by its very nature.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: DoC cases constrain where quantum-level consciousness-brain interaction might occur. If CMD patients retain consciousness despite widespread cortical damage, the quantum interface need not be distributed across the whole cortex. Evidence from multiple studies pointing toward a posterior cortical hot zone for consciousness narrows the candidate region for [minimal quantum interaction](/topics/quantum-measurement-consciousness-interface/).
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: DoC cases constrain where quantum-level consciousness-brain interaction might occur. If CMD patients retain consciousness despite widespread cortical damage, the quantum interface need not be distributed across the whole cortex. Evidence from multiple studies pointing toward a posterior cortical hot zone for consciousness narrows the candidate region for [minimal quantum interaction](/topics/quantum-measurement-and-consciousness/).
 
 ## Further Reading
 
@@ -129,7 +129,7 @@ The Unfinishable Map's [tenets](/tenets/) converge on DoC cases as among the mos
 - [filter-theory](/concepts/filter-theory/) — The transmission model of brain-consciousness relation
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — DoC within the broader spectrum of consciousness variation
 - [integrated-information-theory](/concepts/integrated-information-theory/) — The Φ framework and its predictions for DoC
-- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/) — Where consciousness meets quantum indeterminacy
+- [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — Where consciousness meets quantum indeterminacy
 - [near-death-experiences](/concepts/near-death-experiences/) — Heightened consciousness during minimal brain function
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that DoC cases illuminate
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain asymbolia and pain's inseparable phenomenal-causal character as a test case

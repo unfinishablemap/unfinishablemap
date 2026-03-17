@@ -26,7 +26,7 @@ related_articles:
 - '[[tenets]]'
 - '[[qm-interpretations-beyond-many-worlds]]'
 - '[[quantum-measurement-subjective-probability-2026-01-23]]'
-- '[[the-measurement-problem-as-philosophical-problem]]'
+- '[[quantum-measurement-and-consciousness]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 title: Indexical Identity and Quantum Measurement
 topics:
@@ -176,7 +176,7 @@ This topic intersects all five tenets:
 - [mind-matter-interface](/concepts/mind-matter-interface/) - How consciousness meets matter
 - [interactionist-dualism](/concepts/interactionist-dualism/) - Causal connection between mind and body
 - [free-will](/topics/free-will/) - If consciousness grounds indexical determination at quantum measurement, the self may be genuinely causal in a libertarian sense
-- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — The measurement problem as a species of the hard problem
+- [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The measurement problem as a species of the hard problem
 - [indexical-void](/voids/indexical-void/) — The unchartable territory of why *this* consciousness exists
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: the indexical dimension as part of the reverse inference from consciousness to physics
 

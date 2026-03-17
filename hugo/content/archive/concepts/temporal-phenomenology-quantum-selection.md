@@ -131,7 +131,7 @@ What would challenge the framework: evidence that temporal phenomenology is full
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Full framework on time, collapse, and agency
 - [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-attention/) — How attention shapes temporal experience
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno model of consciousness-brain interaction
-- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/) — The measurement problem and consciousness
+- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/) — The measurement problem and consciousness
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — What it is like to choose
 - [mental-effort](/concepts/mental-effort/) — The felt cost of sustained attention
 - [consciousness-and-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — Why past and future feel different

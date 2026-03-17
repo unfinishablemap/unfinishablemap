@@ -50,7 +50,7 @@ No source/Map conflation. No internal contradictions. No dropped qualifiers.
 
 ### Medium Issues Found
 - **Stale wikilink to archived `observational-closure`** (coalesced into causal-closure): [Resolution: Updated link to `[observational closure](/concepts/causal-closure/)`]
-- **Stale wikilink to archived `quantum-measurement-and-definite-outcomes`** (coalesced into quantum-measurement-consciousness-interface): [Resolution: Updated link to `[definite outcomes problem](/topics/quantum-measurement-consciousness-interface/)`]
+- **Stale wikilink to archived `quantum-measurement-and-definite-outcomes`** (coalesced into quantum-measurement-consciousness-interface): [Resolution: Updated link to `[definite outcomes problem](/topics/quantum-measurement-and-consciousness/)`]
 - **AI Refinement Log still present as HTML comment** (from 2026-02-21, marked "should be removed after human review"): [Resolution: Removed]
 
 ### Counterarguments Considered

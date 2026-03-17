@@ -31,7 +31,7 @@ related_articles:
 title: The Interface Formalization Void
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[the-measurement-problem-as-philosophical-problem]]'
+- '[[quantum-measurement-and-consciousness]]'
 ---
 
 The Unfinishable Map holds that consciousness causally influences the physical world through a minimal quantum interface. But can this interface be described mathematically? Mathematics is the language of structure—relations, symmetries, magnitudes, transformations. The interface, if the Map's [dualism](/tenets/#dualism) is correct, is where structure meets something that is not structure: the actuality of conscious experience. Any mathematical description of this meeting point produces more structure. It cannot produce the actuality it aims to capture. The interface formalization void is this systematic inability: not a gap in our current mathematics awaiting a better formalism, but a principled mismatch between what mathematics can express and what the interface is.

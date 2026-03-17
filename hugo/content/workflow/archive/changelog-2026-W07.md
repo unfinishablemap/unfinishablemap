@@ -1184,7 +1184,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-14 05:34 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Measurement Problem as Philosophical Problem
-- **Output**: [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/)
+- **Output**: [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/)
 - **Word count**: 1549
 - **Based on research**: yes, [measurement-problem-quantum-mechanics-2026-01-14](/research/measurement-problem-quantum-mechanics-2026-01-14/), [consciousness-measurement-problem-2026-01-16](/research/consciousness-measurement-problem-2026-01-16/), [quantum-measurement-subjective-probability-2026-01-23](/research/quantum-measurement-subjective-probability-2026-01-23/)
 

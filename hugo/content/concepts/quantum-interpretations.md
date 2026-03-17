@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-03-14 20:09:00+00:00
+ai_modified: 2026-03-17 06:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,13 +29,14 @@ description: Survey of quantum interpretations and their consciousness implicati
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-14 20:09:00+00:00
+last_deep_review: 2026-03-17 06:43:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[qm-interpretations-beyond-many-worlds]]'
 - '[[quantum-probability-consciousness]]'
 - '[[what-consciousness-tells-us-about-physics]]'
+- '[[interface-specification-programme]]'
 title: Interpretations of Quantum Mechanics
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -265,6 +266,7 @@ The choice of quantum interpretation bears directly on all five [tenets](/tenets
 
 ### Related Apex Articles
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — The reverse inference: what consciousness, taken as datum, reveals about the structure of physics
+- [interface-specification-programme](/apex/interface-specification-programme/) — How the Map specifies the mechanism of consciousness-physics interaction
 
 ## References
 

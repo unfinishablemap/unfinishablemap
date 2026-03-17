@@ -81,7 +81,7 @@ topics: []
 ### Cross-links Added
 
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
-- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/)
+- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/)
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)
 
 ## Remaining Items

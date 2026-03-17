@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-23
-**Article**: [The Measurement Problem as Philosophical Problem](/topics/the-measurement-problem-as-philosophical-problem/)
+**Article**: [The Measurement Problem as Philosophical Problem](/topics/quantum-measurement-and-consciousness/)
 **Previous review**: [2026-02-17](/reviews/deep-review-2026-02-17-the-measurement-problem-as-philosophical-problem/) (pre-coalescence version)
 
 ## Pessimistic Analysis Summary

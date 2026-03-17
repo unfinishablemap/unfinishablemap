@@ -32,7 +32,7 @@ related_articles:
 title: Born Rule Derivation Failures and Consciousness-Collapse
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[the-measurement-problem-as-philosophical-problem]]'
+- '[[quantum-measurement-and-consciousness]]'
 ---
 
 Every major attempt to derive the Born rule — quantum mechanics' prescription that measurement probabilities equal squared amplitudes — either smuggles in probabilistic assumptions or presupposes an observer. A March 2026 analysis by Zhang et al. demonstrates that all five leading derivations depend irreducibly on an additivity assumption that cannot itself be derived from non-probabilistic postulates. The Unfinishable Map argues this persistent failure is not a technical shortcoming awaiting a clever proof but a structural disclosure: the Born rule encodes something about the consciousness-physics interface that physics alone cannot generate. If the rule governs how consciousness encounters quantum indeterminacy rather than being a consequence of the formalism, its underivability from physics is exactly what we should expect.
@@ -106,8 +106,7 @@ The persistent failure to derive the Born rule connects to all five of the Map's
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — The Born rule as interface structure
 - [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — Why consciousness is probability's prerequisite yet its worst reasoner
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Why the Born rule is especially problematic in MWI
-- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — The measurement problem as a philosophical question
-- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/) — The structural parallel between measurement and the hard problem
+- [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The measurement problem and the structural parallel with the hard problem
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — Why indexical identity matters at measurement
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — The reverse inference from mind to matter
 

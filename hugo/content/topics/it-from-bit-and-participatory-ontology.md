@@ -27,7 +27,7 @@ title: It from Bit and Participatory Ontology
 topics:
 - '[[the-participatory-universe]]'
 - '[[consciousness-and-the-physics-of-information]]'
-- '[[the-measurement-problem-as-philosophical-problem]]'
+- '[[quantum-measurement-and-consciousness]]'
 ---
 
 John Archibald Wheeler's "it from bit" is one of the strongest claims ever made by a mainstream physicist about the relationship between mind and matter. "Every it — every particle, every field of force, even the spacetime continuum itself — derives its function, its meaning, its very existence entirely — even if in some contexts indirectly — from the apparatus-elicited answers to yes or no questions, binary choices, bits" (Wheeler 1990). This is not merely the claim that physics requires measurement — it is the claim that information-theoretic acts are ontologically prior to physical reality.
@@ -99,7 +99,7 @@ The Map speculates that the deepest significance of "it from bit" may be what th
 - [the-participatory-universe](/topics/the-participatory-universe/) — Wheeler's participatory framework in full
 - [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/) — The informational turn in physics and its implications for consciousness
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Where information sits in a dualist ontology
-- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — Why the measurement problem matters philosophically
+- [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — Why the measurement problem matters philosophically
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The causal efficacy of consciousness
 
 ## References

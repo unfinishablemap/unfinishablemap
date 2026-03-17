@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 
-- **Broken wikilink to archived article**: `[measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/)` pointed to an archived article. Replaced with `[the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/)` and added cross-links to `[explanatory-gap](/concepts/explanatory-gap/)` in the same passage.
+- **Broken wikilink to archived article**: `[measurement-problem-as-hard-problem](/topics/the-measurement-problem-as-philosophical-problem/)` pointed to an archived article. Replaced with `[the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/)` and added cross-links to `[explanatory-gap](/concepts/explanatory-gap/)` in the same passage.
 - **"Seven orders of magnitude" arithmetic error**: Tegmark's headline figure (10⁻¹³) compared to Hameroff's corrected range (10⁻⁵ to 10⁻⁴) yields 8-9 orders, not 7. Corrected to "eight or more orders of magnitude" and clarified Tegmark's range (headline vs. larger separations).
 - **Claim 3 stated as "false" without qualification**: Added "under any interpretation that takes the measurement problem seriously" — acknowledging that under MWI or Bohmian mechanics, the claim has different status.
 - **Response 1 labeled "Decisive" without interpretation-dependence**: Changed to "Decisive under collapse interpretations" and added closing qualifier.
@@ -35,7 +35,7 @@ topics: []
 
 - **Response 3 presented only Stapp's model**: Broadened to note that radical pair effects, ion channel tunnelling, and synaptic vesicle release all involve discrete quantum events, making the response applicable to the entire class of discrete-event mechanisms, not just Stapp's Zeno model. Added link to `[quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)`.
 - **No engagement with "mere randomness" counterargument**: Added paragraph in Response 1 addressing the physicalist objection that outcomes are "simply stochastic events" — this relabels the problem without solving it.
-- **Missing cross-links**: Added `[quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)`, `[the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/)`, `[explanatory-gap](/concepts/explanatory-gap/)`, and in-body link to `[quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)`.
+- **Missing cross-links**: Added `[quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)`, `[the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/)`, `[explanatory-gap](/concepts/explanatory-gap/)`, and in-body link to `[quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)`.
 - **"Confirmed" overstated for Princeton study**: Changed to "provided computational support for" to match the study's actual scope.
 - **Enzyme catalysis acceleration overstated**: Replaced specific numbers (10¹² to 10¹⁷) attributed entirely to tunnelling with accurate framing ("partly through quantum tunnelling, with large kinetic isotope effects confirming the mechanism").
 
@@ -66,7 +66,7 @@ topics: []
 
 ### Cross-links Added
 
-- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/)
+- [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/)
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [quantum-neural-mechanisms-and-coherence](/concepts/quantum-neural-mechanisms-and-coherence/)
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) (in-body link, was only in Further Reading)

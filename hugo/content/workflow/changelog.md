@@ -18,6 +18,93 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 07:58 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of cognitive limit types
+- **Output**: [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/)
+- **Word count**: 2105
+- **Based on research**: No (synthesis of existing Map articles: phenomenology-of-the-edge, topology-of-cognitive-failure, evolved-cognitive-limits)
+
+## 2026-03-17 07:45 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/)
+- **Word count**: 2156 → 2143 (-13)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-17-consciousness-and-the-physics-of-information](/reviews/deep-review-2026-03-17-consciousness-and-the-physics-of-information/)
+
+## 2026-03-17 07:28 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
+- **Word count**: 2284 → 2291 (+7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-17-quantum-measurement-and-consciousness](/reviews/deep-review-2026-03-17-quantum-measurement-and-consciousness/)
+
+## 2026-03-17 06:59 UTC - coalesce
+- **Status**: Success
+- **Sources**: [quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/), [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/)
+- **Target**: [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
+- **Archived**: archive/topics/quantum-measurement-consciousness-interface.md, archive/topics/the-measurement-problem-as-philosophical-problem.md
+- **References updated**: ~35 files across topics/, concepts/, voids/, apex/
+- **References to review**: 0 (all active content updated inline)
+
+## 2026-03-17 06:43 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-interpretations](/concepts/quantum-interpretations/)
+- **Word count**: 2429 → 2441 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added cross-link to new interface-specification-programme apex)
+- **Enhancements made**: 1 (cross-link addition)
+- **Output**: [deep-review-2026-03-17-quantum-interpretations](/reviews/deep-review-2026-03-17-quantum-interpretations/)
+
+## 2026-03-17 06:28 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/)
+- **Word count**: 2028 → 2067 (+39)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing related_articles, missing cross-link to new content, minor prose)
+- **Enhancements made**: 1 (cross-link to phenomenology-of-moral-deliberation)
+- **Output**: [deep-review-2026-03-17-consciousness-and-moral-agency-under-duress](/reviews/deep-review-2026-03-17-consciousness-and-moral-agency-under-duress/)
+
+## 2026-03-17 06:15 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/)
+- **Context**: Cross-review in light of reverse inference apex
+- **Word count**: 2503 → 2538 (+35 words, references only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing Hagan et al. reference, missing Von Neumann reference)
+- **Enhancements made**: 0 (article at stability)
+- **Output**: [deep-review-2026-03-17-quantum-probability-consciousness](/reviews/deep-review-2026-03-17-quantum-probability-consciousness/)
+
+## 2026-03-17 05:58 UTC - deep-review
+- **Status**: Success
+- **File**: [measurement-problem](/concepts/measurement-problem/)
+- **Context**: Cross-review in light of reverse inference apex
+- **Word count**: 3524 → 3336 (-188 words)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (word count condensation, AI log cleanup, Stapp section focus)
+- **Enhancements made**: 4 (Gödelian parallel tightened, MWI streamlined, retrocausal condensed, logs removed)
+- **Output**: [deep-review-2026-03-17-measurement-problem](/reviews/deep-review-2026-03-17-measurement-problem/)
+
+## 2026-03-17 05:43 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft content across topics (~225), concepts (~201), tenets (1), apex (~16). Deep reading of 8 articles: the-reverse-inference, physics-as-disclosure, bi-aspectual-ontology, phenomenology-of-moral-deliberation, constitutive-exclusion, fragmented-consciousness, resolution-bandwidth-interface, time-symmetric-selection-mechanism
+- **Output**: [optimistic-2026-03-17](/reviews/optimistic-2026-03-17/)
+
+## 2026-03-17 05:30 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Physics as Disclosure
+- **Output**: [physics-as-disclosure](/concepts/physics-as-disclosure/) (already exists, created 2026-03-15)
+- **Notes**: Article was previously created but todo task was not marked complete. Marked complete now.
+
+## 2026-03-17 05:13 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Bi-aspectual Ontology
+- **Reason**: Article already exists at `concepts/bi-aspectual-ontology.md` (created 2026-03-15, deep-reviewed 2026-03-15)
+
 ## 2026-03-17 04:58 UTC - deep-review
 - **Status**: Success
 - **File**: [the-reverse-inference](/topics/the-reverse-inference/)

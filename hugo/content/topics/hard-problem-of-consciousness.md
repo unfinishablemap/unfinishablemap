@@ -66,7 +66,7 @@ related_articles:
 - '[[origin-of-consciousness]]'
 - '[[process-and-consciousness]]'
 - '[[emergence-void]]'
-- '[[the-measurement-problem-as-philosophical-problem]]'
+- '[[quantum-measurement-and-consciousness]]'
 - '[[phenomenological-psychiatry-and-altered-experience]]'
 - '[[objectivity-and-consciousness]]'
 - '[[bandwidth-of-consciousness]]'
@@ -123,7 +123,7 @@ The explanatory gap extends well beyond simple sensory experience into every dim
 - **The witnessing subject.** [Witness consciousness](/concepts/witness-consciousness/) reveals an observing subject that retreats beyond every attempt at objectification—mental contents become objects, but what witnesses them is not itself a thought or sensation.
 - **Temporal flow.** Consciousness flows—retention, primal impression, protention. No neural description explains why this temporal structure feels like anything. If consciousness constitutes time rather than merely occurring within it, physical description becomes circular (see [temporal-consciousness](/concepts/temporal-consciousness/), [collapse-and-time](/concepts/collapse-and-time/)).
 - **Cognitive experience.** Even "cold" knowledge retrieval has phenomenal character—the tip-of-the-tongue state, the *aha* of understanding. If [cognitive-phenomenology](/concepts/cognitive-phenomenology/) is real, the gap pervades all mentality, not just sensation.
-- **Unity.** The [binding-problem](/concepts/binding-problem/) asks why separately processed features—colour, shape, motion—are experienced as one unified scene. Interaction mechanisms do not explain why combination *feels* unified, a point where [quantum approaches](/concepts/quantum-consciousness/) and the [structural parallel with the measurement problem](/topics/the-measurement-problem-as-philosophical-problem/) may become relevant.
+- **Unity.** The [binding-problem](/concepts/binding-problem/) asks why separately processed features—colour, shape, motion—are experienced as one unified scene. Interaction mechanisms do not explain why combination *feels* unified, a point where [quantum approaches](/concepts/quantum-consciousness/) and the [structural parallel with the measurement problem](/topics/quantum-measurement-and-consciousness/) may become relevant.
 - **Pairing and intentionality.** Kim's [pairing-problem](/concepts/pairing-problem/) asks what connects *this* mind to *this* body. [Intentionality](/concepts/intentionality/)—the aboutness of mental states—resists physical explanation; [Phenomenal Intentionality Theory](/concepts/intentionality/#phenomenal-intentionality-theory) argues it derives from phenomenal consciousness itself.
 
 ## The Zombie Thought Experiment

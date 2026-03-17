@@ -56,7 +56,7 @@ Inbound links added from 8 articles to de-orphan this content:
 9. **[presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/)** — Added to Further Reading
 
 Previously existing inbound links (already present before this review):
-- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) (frontmatter)
+- [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/) (frontmatter)
 - [many-worlds](/concepts/many-worlds/) (frontmatter)
 
 ## Remaining Items

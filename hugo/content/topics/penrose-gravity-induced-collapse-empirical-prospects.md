@@ -20,12 +20,11 @@ last_deep_review: 2026-03-15 13:29:00+00:00
 modified: *id001
 related_articles:
 - '[[what-consciousness-tells-us-about-physics]]'
-- '[[the-measurement-problem-as-philosophical-problem]]'
 title: Penrose Gravity-Induced Collapse and Empirical Prospects
 topics:
 - '[[philosophical-stakes-of-spontaneous-collapse]]'
 - '[[qm-interpretations-beyond-many-worlds]]'
-- '[[quantum-measurement-consciousness-interface]]'
+- '[[quantum-measurement-and-consciousness]]'
 - '[[decoherence-and-macroscopic-superposition]]'
 ---
 

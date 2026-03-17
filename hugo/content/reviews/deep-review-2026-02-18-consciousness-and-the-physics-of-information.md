@@ -50,7 +50,7 @@ topics: []
 - **Observer equivocation**: Now flagged explicitly.
 - **Vitalism parallel**: Not added—would require significant expansion; the article's treatment of the hard problem via information theory is a different argumentative structure than generic gap-closing.
 - **Deflationary accounts (Dennett, Frankish)**: Not added—these are general challenges to the hard problem addressed in [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), not specific to the information-theoretic framing. Adding them here would risk the article becoming a general defense of the hard problem rather than staying on topic.
-- **Everettian programme**: Partially addressed via the Wheeler/MWI nuance. Full treatment of decoherence-based apparent collapse is in [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/).
+- **Everettian programme**: Partially addressed via the Wheeler/MWI nuance. Full treatment of decoherence-based apparent collapse is in [quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/).
 
 ## Optimistic Analysis Summary
 

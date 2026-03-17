@@ -30,7 +30,7 @@ related_articles:
 - '[[decoherence]]'
 - '[[prebiotic-collapse]]'
 - '[[coupling-modes]]'
-- '[[quantum-measurement-consciousness-interface]]'
+- '[[quantum-measurement-and-consciousness]]'
 - '[[quantum-indeterminacy-free-will]]'
 - '[[quantum-neural-timing-constraints]]'
 - '[[philosophical-stakes-of-spontaneous-collapse]]'
@@ -149,7 +149,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [decoherence](/concepts/decoherence/) — The decoherence challenge in detail
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Decoherence and timing considerations for neural quantum effects
 - [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Detailed evidence hierarchy for each proposed mechanism
-- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/) — How consciousness relates to quantum measurement
+- [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — How consciousness relates to quantum measurement
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Why mechanism choice matters for libertarian free will
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — What collapsed before conscious observers
 - [coupling-modes](/concepts/coupling-modes/) — How consciousness might couple to quantum systems

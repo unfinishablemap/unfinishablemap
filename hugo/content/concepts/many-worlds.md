@@ -166,7 +166,7 @@ Alternative interpretations—particularly [time-symmetric](/concepts/collapse-a
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Overview of interpretation families
 - [haecceity](/concepts/haecceity/) — Why indexical identity matters
 - [measurement-problem](/concepts/measurement-problem/) — What all interpretations must solve
-- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — Why measurement resists physical solution: the hard-problem parallel
+- [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — Why measurement resists physical solution: the hard-problem parallel
 - [collapse-and-time](/concepts/collapse-and-time/) — Time-symmetric alternatives and retrocausal solutions
 - [free-will](/topics/free-will/) — Why genuine selection requires collapse
 - [Against Many-Worlds](/arguments/many-worlds-argument/) — The formal argument structure with premises and conclusions

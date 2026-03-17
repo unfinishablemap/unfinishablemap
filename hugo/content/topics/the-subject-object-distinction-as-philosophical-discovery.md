@@ -27,7 +27,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[first-person-third-person-methodology]]'
-- '[[the-measurement-problem-as-philosophical-problem]]'
+- '[[quantum-measurement-and-consciousness]]'
 - '[[the-unobservable-self]]'
 title: The Subject-Object Distinction as Philosophical Discovery
 topics:
@@ -99,7 +99,7 @@ Currently, none of these conditions has been met. Cross-cultural convergence con
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [phenomenology](/concepts/phenomenology/)
 - [first-person-third-person-methodology](/topics/first-person-third-person-methodology/)
-- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/)
+- [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
 - [knowledge-argument](/concepts/knowledge-argument/)
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
 - [self-stultification](/concepts/self-stultification/)

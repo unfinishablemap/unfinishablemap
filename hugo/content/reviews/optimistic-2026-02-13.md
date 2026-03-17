@@ -127,7 +127,7 @@ The [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-an
 - **Tenet alignment**: Bidirectional interaction (consciousness causing novel aesthetic objects), dualism (aesthetic inspiration as phenomenally irreducible)
 
 #### The Measurement Problem as Hard Problem (topics)
-- **Builds on**: [measurement-problem](/concepts/measurement-problem/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/)
+- **Builds on**: [measurement-problem](/concepts/measurement-problem/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/)
 - **Would address**: The deep structural parallel between why there is a definite measurement outcome and why there is something it is like to be conscious. The Map references this connection but no single article develops the parallel fully as its central thesis.
 - **Estimated scope**: Medium article (1000-1500 words)
 - **Tenet alignment**: Central to tenets 1-4; would be a signature piece connecting physics and philosophy of mind

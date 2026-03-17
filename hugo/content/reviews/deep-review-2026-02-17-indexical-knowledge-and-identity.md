@@ -30,7 +30,7 @@ topics: []
 - **MWI critique imprecision**: "you end up in *all* branches" slightly mischaracterizes the Everettian fission view. **Fixed**: Rewrote to address fission explicitly — "branching produces multiple successors" rather than one person persisting across all branches.
 - **Three Grades framework provenance**: Presented as if an established taxonomy but appears to be the Map's own analytical schema. **Fixed**: Added "Drawing on the distinctions in the literature" to signal this is a synthesis rather than a standard taxonomy.
 - **Bidirectional Interaction argument weakness**: Did not address the functionalist response that physical states with indexical representational content could explain first-person reports. **Fixed**: Added explicit engagement with the functionalist response and argued that tracking indexical facts concedes the point.
-- **Missing cross-links**: Article referenced explanatory gap and measurement problem concepts without linking to existing articles. **Fixed**: Added links to [explanatory-gap](/concepts/explanatory-gap/), [agent-causation](/concepts/agent-causation/), [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/).
+- **Missing cross-links**: Article referenced explanatory gap and measurement problem concepts without linking to existing articles. **Fixed**: Added links to [explanatory-gap](/concepts/explanatory-gap/), [agent-causation](/concepts/agent-causation/), [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/).
 
 ### Counterarguments Considered
 - **Functionalist account of indexical motivation**: Perry's case can be explained by computational/functional architecture — indexical representations are directly linked to motor outputs. The article now addresses this in the Bidirectional Interaction section by arguing that whatever explains the reliability must track the indexical fact itself.
@@ -58,7 +58,7 @@ topics: []
 ### Cross-links Added
 - [explanatory-gap](/concepts/explanatory-gap/) — in the metaphysical thesis arguments
 - [agent-causation](/concepts/agent-causation/) — in the Bidirectional Interaction tenet section
-- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — in the MWI section
+- [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/) — in the MWI section
 
 ## Remaining Items
 

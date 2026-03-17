@@ -62,7 +62,7 @@ topics: []
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — probabilistic constraint
 - [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) — microtubule controversy
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — effort phenomenology
-- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/) — in Further Reading
+- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/) — in Further Reading
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — added to frontmatter concepts
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — added to frontmatter related articles
 

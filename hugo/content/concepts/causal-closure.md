@@ -142,7 +142,7 @@ Once quantum indeterminacy is recognized as genuine ontological openness rather 
 
 **The [decoherence challenge](/concepts/decoherence/)** is serious: critics object that quantum coherence cannot survive in warm biological systems. But decoherence timescales remain disputed, [decoherence doesn't solve the measurement problem](/concepts/decoherence/) (something must still select which outcome becomes actual), and the quantum Zeno effect may *sustain* coherence through repeated measurement. See [decoherence](/concepts/decoherence/) for detailed treatment, including five responses targeting different premises of the objection.
 
-This argument appears in formal premise-conclusion form in the [argument for interactionist dualism](/concepts/interactionist-dualism/). The [connection between the measurement problem and the hard problem](/topics/quantum-measurement-consciousness-interface/) develops it further: both share a structure where third-person descriptions fail to capture first-person facts.
+This argument appears in formal premise-conclusion form in the [argument for interactionist dualism](/concepts/interactionist-dualism/). The [connection between the measurement problem and the hard problem](/topics/quantum-measurement-and-consciousness/) develops it further: both share a structure where third-person descriptions fail to capture first-person facts.
 
 ### The Emergentist Response
 

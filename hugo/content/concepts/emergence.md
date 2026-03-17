@@ -32,7 +32,7 @@ last_deep_review: 2026-02-27 18:46:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[the-measurement-problem-as-philosophical-problem]]'
+- '[[quantum-measurement-and-consciousness]]'
 - '[[explanatory-void]]'
 title: Emergence
 topics:
@@ -105,7 +105,7 @@ Classical British emergentists like Broad and Alexander affirmed strong emergenc
 
 The Map advances beyond this—but honestly, not as far as one might wish. The [quantum framework](/concepts/interactionist-dualism/) identifies *where* non-physical causation could operate without violating conservation laws: at quantum indeterminacies, where physics specifies probabilities but not which outcome actualizes. The Minimal Quantum Interaction tenet locates consciousness's influence here—biasing probabilities rather than injecting energy.
 
-This identifies a *locus* (quantum indeterminacy) and a *mode* (probability bias), not a fully specified mechanism. The choice of locus is not arbitrary—the [measurement problem as philosophical problem](/topics/the-measurement-problem-as-philosophical-problem/) reveals that measurement is where consciousness and physics have always been entangled, where the observer's role becomes formally unavoidable. A complete mechanism would specify which physical variable consciousness couples to, how coupling strength is determined, and what testable predictions follow. The [psychophysical laws](/concepts/psychophysical-laws/) article surveys five candidate coupling mechanisms—attention as observation rate (Stapp), intention as probability weighting (Eccles), and three less developed proposals—but the Map does not yet endorse one. The coupling problem remains open.
+This identifies a *locus* (quantum indeterminacy) and a *mode* (probability bias), not a fully specified mechanism. The choice of locus is not arbitrary—the [measurement problem as philosophical problem](/topics/quantum-measurement-and-consciousness/) reveals that measurement is where consciousness and physics have always been entangled, where the observer's role becomes formally unavoidable. A complete mechanism would specify which physical variable consciousness couples to, how coupling strength is determined, and what testable predictions follow. The [psychophysical laws](/concepts/psychophysical-laws/) article surveys five candidate coupling mechanisms—attention as observation rate (Stapp), intention as probability weighting (Eccles), and three less developed proposals—but the Map does not yet endorse one. The coupling problem remains open.
 
 What the Map *does* provide that classical emergentism lacked is a principled answer to Kim's exclusion argument: mental causation operates where physics is genuinely incomplete. No physical law is violated because no physical law determines which quantum outcome occurs. This is a genuine advance over "natural piety," even if the full coupling law remains unspecified. The [mental-causation](/concepts/mental-causation/) article develops this resolution against the full range of objections—conservation challenges, decoherence timescales, specification demands, and the many-worlds alternative—and shows why each fails to close the quantum opening.
 
@@ -183,7 +183,7 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 - [interactionist-dualism](/concepts/interactionist-dualism/) — the Map's framework as strong emergentism at the quantum opening
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Candidate coupling mechanisms for how consciousness interacts with quantum systems
 - [measurement-problem](/concepts/measurement-problem/) — The central puzzle creating logical space for consciousness at quantum indeterminacy
-- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — Why measurement is philosophically special, not just a physics puzzle
+- [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — Why measurement is philosophically special, not just a physics puzzle
 - [causal-closure](/concepts/causal-closure/) — The principle strong emergentism must deny
 - [downward-causation](/concepts/downward-causation/) — How emergent properties causally influence lower levels
 - [explanatory-gap](/concepts/explanatory-gap/) — The chasm between physical descriptions and conscious experience

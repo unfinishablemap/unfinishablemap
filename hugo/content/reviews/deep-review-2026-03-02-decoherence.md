@@ -34,7 +34,7 @@ topics: []
    - **Resolution**: Added `[decoherence](/concepts/decoherence/)` cross-references in interactionist-dualism.md, bidirectional-interaction.md, causal-closure.md, selection-laws.md, history-of-interactionist-dualism.md, and apex/attention-as-causal-bridge.md.
 
 2. **Broken link in causal-closure.md**: `[consciousness-and-quantum-measurement](/topics/quantum-measurement-consciousness-interface/)` pointed to an archived article.
-   - **Resolution**: Updated to `[quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/)`.
+   - **Resolution**: Updated to `[quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/)`.
 
 3. **Stale link in causal-closure.md and bidirectional-interaction.md**: Both linked to `[quantum-consciousness](/concepts/quantum-consciousness/#the-decoherence-objection)` section anchor, but the comprehensive decoherence response content now lives in the decoherence concept article.
    - **Resolution**: Updated links to point to `[decoherence](/concepts/decoherence/)` directly.

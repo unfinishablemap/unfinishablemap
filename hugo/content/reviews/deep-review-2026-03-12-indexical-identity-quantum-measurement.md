@@ -73,10 +73,10 @@ All six personas engaged. No new issues beyond those identified in previous revi
 - [many-worlds](/concepts/many-worlds/) (frontmatter)
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) (inline + frontmatter)
 - [haecceity](/concepts/haecceity/) (inline)
-- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-consciousness-interface/) (frontmatter)
+- [quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/) (frontmatter)
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) (inline)
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) (inline + frontmatter)
-- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) (inline)
+- [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/) (inline)
 - [vertiginous-question](/topics/vertiginous-question/) (inline)
 
 ## Word Count

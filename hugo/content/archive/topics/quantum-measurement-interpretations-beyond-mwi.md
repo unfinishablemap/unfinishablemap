@@ -131,7 +131,7 @@ Finally, rejecting Bohmian determinism preserves the phenomenological legitimacy
 - [process-philosophy](/concepts/process-philosophy/) — How actual occasions relate to quantum becoming
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness is the explanatory target
 - [mysterianism](/concepts/mysterianism/) — Why some gaps may be permanently open
-- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — The measurement problem as a species of the hard problem
+- [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/) — The measurement problem as a species of the hard problem
 
 ## References
 

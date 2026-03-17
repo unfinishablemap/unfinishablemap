@@ -28,7 +28,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[time-collapse-and-agency]]'
-- '[[the-measurement-problem-as-philosophical-problem]]'
+- '[[quantum-measurement-and-consciousness]]'
 - '[[consciousness-collapse-arrow-of-time-2026-01-14]]'
 - '[[atemporal-causation]]'
 - '[[temporal-phenomenology-quantum-selection]]'
@@ -207,7 +207,7 @@ The triad of consciousness, collapse, and time's arrow engages all five [tenets]
 - [decoherence](/concepts/decoherence/) — What environmental interaction does and doesn't do
 - [agent-causation](/concepts/agent-causation/) — How agents serve as ultimate sources of action
 - [many-worlds](/concepts/many-worlds/) — Detailed arguments against the Many-Worlds interpretation
-- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) — The measurement problem as a philosophical problem about observation and first-person fact
+- [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The measurement problem as a philosophical problem about observation and first-person fact
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — What collapsed wavefunctions before conscious observers?
 ## References
 

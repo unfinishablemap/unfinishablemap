@@ -38,54 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept article — Bi-aspectual Ontology
-- **Type**: expand-topic
-- **Notes**: Develop the concept of bi-aspectual ontology as used in the apex: reality has two irreducible aspects — structure (physics/wavefunction) and actuality (consciousness). Distinguish from: (1) substance dualism; (2) property dualism; (3) neutral monism/Russellian monism; (4) idealism; (5) panpsychism. The Map's position: genuine dualism where physics is complete-for-its-domain and consciousness is the other domain. The interface (Born rule) connects them. Requires the bi-aspectual traditions research (P1) to be completed first. Target section: concepts/.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
-### P2: Write concept article — Physics as Disclosure
-- **Type**: expand-topic
-- **Notes**: Develop the apex's claim that the measurement problem is a "disclosure" — physics revealing its own boundary — not a deficiency. Cover: (1) Standard view: measurement problem as bug. (2) Disclosure view: theory correctly reaching its limit. (3) Precedents: thermodynamics disclosed statistical mechanics; classical mechanics disclosed relativity. But those were within-physics completions; this may disclose something outside physics. (4) How decoherence supports disclosure reading — handles everything physics can handle, stops precisely where the non-physical begins. (5) Evidence criteria: disclosure vs. deficiency. Target section: concepts/.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
-### P2: Cross-review measurement-problem.md in light of the reverse inference apex
-- **Type**: cross-review
-- **Notes**: The measurement-problem article contains groundwork for the reverse inference but doesn't make the move explicitly. Review: (1) Add forward-reference to the apex. (2) Strengthen "structural coherence" section to foreground the disclosure framing. (3) Ensure "Born probability as interface structure" connects to apex's fuller treatment. (4) Check language about "conceptual unification" is consistent with "bi-aspectual ontology." Alignment, not rewriting.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
-### P2: Cross-review quantum-probability-consciousness.md in light of the reverse inference apex
-- **Type**: cross-review
-- **Notes**: This concept article develops Born rule as interface specification — same claim the apex makes at higher level. Review for consistency: (1) Ensure "interface structure" argument is consistent with apex framing. (2) Add forward-reference. (3) Check QBism/participatory realism/MWI treatment is consistent with apex's use. (4) "Epistemic limitations" section acknowledges no Born rule derivation — ensure consistency with apex. Do not expand substantially.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
-### P2: Cross-review quantum-interpretations.md in light of the reverse inference apex
-- **Type**: cross-review
-- **Notes**: The interpretations article surveys for consciousness compatibility. The reverse inference adds a new lens: which are consistent with physics being "partial but complete"? Review: (1) Copenhagen — consistent with partiality. (2) Bohmian — inconsistent (makes physics complete and total). (3) MWI — inconsistent (eliminates gap). (4) Objective collapse — consistent if consciousness modulates. (5) TI/TSVF — highly consistent. Add brief notes and forward-reference to apex.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
-### P2: Write void article — The Interface Formalization Void
-- **Type**: expand-topic
-- **Notes**: If the consciousness-physics interface is the ontological joint between two fundamentally different domains, can it be formalized mathematically? Or is formalization itself a structural-domain tool that cannot capture the actualizing domain? (1) Mathematics describes structure — may be unable to describe actuality. (2) Any mathematical description of the interface would be more structure, not actuality. (3) Born rule as the closest we can get — structural description of statistical properties without capturing what happens at the interface. (4) Connection to nomic void. (5) Connection to mysterianism/cognitive closure. A void generated directly by the reverse inference. Target section: voids/.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### ~~P1: Coalesce aesthetics articles in topics/ (4 articles → 1)~~ ✅
 - **Type**: coalesce
 - **Notes**: Topics section is 20 over its 200-article cap, blocking all expand-topic tasks. Four articles cover overlapping ground on aesthetic irreducibility as evidence for consciousness: aesthetic-dimension-of-consciousness.md (3776 words), aesthetic-irreducibility-arguments.md (2687 words), consciousness-and-aesthetic-creation.md (2662 words), binding-and-beauty.md (2165 words). Merge into a single comprehensive article on aesthetics and consciousness. Saves 3 article slots.
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 - **Completed**: 2026-03-17
-
-### P2: Update references to coalesced the-unobservable-self
-- **Type**: cross-review
-- **Notes**: Coalesce merged the-unobservable-self into self-reference-paradox. 39 active content files (7 topics, 5 concepts, 26 voids, 1 apex) reference [the-unobservable-self](/voids/self-reference-paradox/). The archive preserves the URL, but wikilinks in active content should be reviewed — some may benefit from pointing to the unified article instead, or updating link text. Files include: phenomenology-of-recursive-thought, the-self-minimal-narrative-and-substantial, consciousness-and-the-ownership-problem, epistemology-of-introspection, the-observer-witness-in-meditation, social-construction-of-self-vs-phenomenal-self, the-subject-object-distinction-as-philosophical-discovery, self-and-consciousness, introspection, phenomenal-transparency, witness-consciousness, self-consciousness, taxonomy-of-voids, and 26 voids articles.
-- **Source**: coalesce
-- **Generated**: 2026-03-17
 
 ### P3: Create concept page for token-level determination
 - **Type**: expand-topic
@@ -286,6 +244,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Introduced in temporal-consciousness.md but used across several articles discussing phenomenal depth, authentic choice, and the specious present. A dedicated concept page would unify these references. Target section: concepts/. See optimistic-2026-03-15.md
 - **Generated**: 2026-03-15
 
+### P3: Create concept page for structural completeness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The distinction between structural completeness and ontological completeness is load-bearing across physics-as-disclosure, bi-aspectual-ontology, and the-reverse-inference but has no dedicated concept page. Physics describes all relations (structurally complete) but not what realises those relations (ontologically incomplete). A genuinely novel philosophical distinction that deserves systematic treatment. Target section: concepts/. See optimistic-2026-03-17.md
+- **Generated**: 2026-03-17
+
 ### P3: Create concept page for paradigm expansion
 - **Type**: expand-topic
 - **Status**: pending
@@ -319,11 +283,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: integrate-orphan
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
-
-### P2: Write article on phenomenology of cognitive limit types
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Multiple articles gesture toward distinct phenomenologies for different limit types — frustration vs satisfaction vs illusory comprehension — but no article systematically maps these signatures. Builds on phenomenology-of-the-edge.md, topology-of-cognitive-failure.md, evolved-cognitive-limits.md. Target section: topics/ (1 slot remaining). Supports Tenet 1 (Dualism). See [optimistic-2026-03-05-afternoon](/reviews/optimistic-2026-03-05-afternoon/).
 
 ### P2: Write article on temporal constitution and consciousness
 - **Type**: expand-topic
@@ -587,6 +546,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Write article on phenomenology of cognitive limit types
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Multiple articles gesture toward distinct phenomenologies for different limit types — frustration vs satisfaction vs illusory comprehension — but no article systematically maps these signatures. Builds on phenomenology-of-the-edge.md, topology-of-cognitive-failure.md, evolved-cognitive-limits.md. Target section: topics/ (1 slot remaining). Supports Tenet 1 (Dualism). See [optimistic-2026-03-05-afternoon](/reviews/optimistic-2026-03-05-afternoon/).
+- **Output**: phenomenology of cognitive limit types
+
+### ✓ 2026-03-17: Update references to coalesced the-unobservable-self
+- **Type**: cross-review
+- **Notes**: Coalesce merged the-unobservable-self into self-reference-paradox. 39 active content files (7 topics, 5 concepts, 26 voids, 1 apex) reference [the-unobservable-self](/voids/self-reference-paradox/). The archive preserves the URL, but wikilinks in active content should be reviewed — some may benefit from pointing to the unified article instead, or updating link text. Files include: phenomenology-of-recursive-thought, the-self-minimal-narrative-and-substantial, consciousness-and-the-ownership-problem, epistemology-of-introspection, the-observer-witness-in-meditation, social-construction-of-self-vs-phenomenal-self, the-subject-object-distinction-as-philosophical-discovery, self-and-consciousness, introspection, phenomenal-transparency, witness-consciousness, self-consciousness, taxonomy-of-voids, and 26 voids articles.
+- **Output**: None -- Context: Update references to coalesced the-unobservable-self
+
+### ✓ 2026-03-17: Write void article — The Interface Formalization Void
+- **Type**: expand-topic
+- **Notes**: If the consciousness-physics interface is the ontological joint between two fundamentally different domains, can it be formalized mathematically? Or is formalization itself a structural-domain tool that cannot capture the actualizing domain? (1) Mathematics describes structure — may be unable to describe actuality. (2) Any mathematical description of the interface would be more structure, not actuality. (3) Born rule as the closest we can get — structural description of statistical properties without capturing what happens at the interface. (4) Connection to nomic void. (5) Connection to mysterianism/cognitive closure. A void generated directly by the reverse inference. Target section: voids/.
+- **Output**: Write void article — The Interface Formalization Void
+
+### ✓ 2026-03-17: Cross-review quantum-interpretations.md in light of the reverse inference apex
+- **Type**: cross-review
+- **Notes**: The interpretations article surveys for consciousness compatibility. The reverse inference adds a new lens: which are consistent with physics being "partial but complete"? Review: (1) Copenhagen — consistent with partiality. (2) Bohmian — inconsistent (makes physics complete and total). (3) MWI — inconsistent (eliminates gap). (4) Objective collapse — consistent if consciousness modulates. (5) TI/TSVF — highly consistent. Add brief notes and forward-reference to apex.
+- **Output**: obsidian/concepts/quantum-interpretations.md -- Context: Cross-review quantum-interpretations.md in light of the reverse inference apex
+
+### ✓ 2026-03-17: Cross-review quantum-probability-consciousness.md in light of the reverse inference apex
+- **Type**: cross-review
+- **Notes**: This concept article develops Born rule as interface specification — same claim the apex makes at higher level. Review for consistency: (1) Ensure "interface structure" argument is consistent with apex framing. (2) Add forward-reference. (3) Check QBism/participatory realism/MWI treatment is consistent with apex's use. (4) "Epistemic limitations" section acknowledges no Born rule derivation — ensure consistency with apex. Do not expand substantially.
+- **Output**: obsidian/concepts/quantum-probability-consciousness.md -- Context: Cross-review quantum-probability-consciousness.md in light of the reverse inference apex
+
+### ✓ 2026-03-17: Cross-review measurement-problem.md in light of the reverse inference apex
+- **Type**: cross-review
+- **Notes**: The measurement-problem article contains groundwork for the reverse inference but doesn't make the move explicitly. Review: (1) Add forward-reference to the apex. (2) Strengthen "structural coherence" section to foreground the disclosure framing. (3) Ensure "Born probability as interface structure" connects to apex's fuller treatment. (4) Check language about "conceptual unification" is consistent with "bi-aspectual ontology." Alignment, not rewriting.
+- **Output**: obsidian/concepts/measurement-problem.md -- Context: Cross-review measurement-problem.md in light of the reverse inference apex
+
+### ✓ 2026-03-17: Write concept article — Physics as Disclosure
+- **Type**: expand-topic
+- **Notes**: Develop the apex's claim that the measurement problem is a "disclosure" — physics revealing its own boundary — not a deficiency. Cover: (1) Standard view: measurement problem as bug. (2) Disclosure view: theory correctly reaching its limit. (3) Precedents: thermodynamics disclosed statistical mechanics; classical mechanics disclosed relativity. But those were within-physics completions; this may disclose something outside physics. (4) How decoherence supports disclosure reading — handles everything physics can handle, stops precisely where the non-physical begins. (5) Evidence criteria: disclosure vs. deficiency. Target section: concepts/.
+- **Output**: Write concept article — Physics as Disclosure
+
+### ✓ 2026-03-17: Write concept article — Bi-aspectual Ontology
+- **Type**: expand-topic
+- **Notes**: Develop the concept of bi-aspectual ontology as used in the apex: reality has two irreducible aspects — structure (physics/wavefunction) and actuality (consciousness). Distinguish from: (1) substance dualism; (2) property dualism; (3) neutral monism/Russellian monism; (4) idealism; (5) panpsychism. The Map's position: genuine dualism where physics is complete-for-its-domain and consciousness is the other domain. The interface (Born rule) connects them. Requires the bi-aspectual traditions research (P1) to be completed first. Target section: concepts/.
+- **Output**: Write concept article — Bi-aspectual Ontology
 
 ### ✓ 2026-03-17: Write topic article — The Reverse Inference
 - **Type**: expand-topic

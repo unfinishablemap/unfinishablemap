@@ -58,7 +58,7 @@ topics: []
 - Expanded references from 6 to 12, covering all major claims
 
 ### Cross-links Added
-- [the-measurement-problem-as-philosophical-problem](/topics/the-measurement-problem-as-philosophical-problem/) (Copenhagen section)
+- [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/) (Copenhagen section)
 - [retrocausality](/concepts/retrocausality/) (TI/TSVF section, for Maudlin debate details)
 
 ## Remaining Items
