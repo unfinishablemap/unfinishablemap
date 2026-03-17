@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-15
 - **Completed**: 2026-03-17
 
-### P2: Cross-review clinical-dissociation-as-systematic-evidence.md against related clinical articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article created 2026-03-17 on clinical dissociation (pain asymbolia, split-brain, anaesthesia awareness). Review against pain-consciousness-and-causal-power.md, split-brain-consciousness.md, anaesthesia-and-the-consciousness-interface.md, contemplative-pathology-and-interface-malfunction.md for consistency, cross-links, and potential contradictions.
-- **Source**: chain (from clinical-dissociation-as-systematic-evidence.md)
-- **Generated**: 2026-03-17
-
 ### P2: Cross-review consciousness-and-mathematics.md against formal systems and counterfactual articles
 - **Type**: cross-review
 - **Status**: pending
@@ -529,6 +522,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Cross-review clinical-dissociation-as-systematic-evidence.md against related clinical articles
+- **Type**: cross-review
+- **Notes**: New article created 2026-03-17 on clinical dissociation (pain asymbolia, split-brain, anaesthesia awareness). Review against pain-consciousness-and-causal-power.md, split-brain-consciousness.md, anaesthesia-and-the-consciousness-interface.md, contemplative-pathology-and-interface-malfunction.md for consistency, cross-links, and potential contradictions.
+- **Output**: obsidian/topics/clinical-dissociation-as-systematic-evidence.md -- Context: Cross-review clinical-dissociation-as-systematic-evidence.md against related clinical articles
 
 ### ✓ 2026-03-17: Integrate altered-states-as-interface-evidence.md into site navigation
 - **Type**: integrate-orphan

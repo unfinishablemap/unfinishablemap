@@ -4,7 +4,7 @@ description: "Dissociative disorders—DID, depersonalization, conversion, amnes
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T10:28:00+00:00
+ai_modified: 2026-03-17T13:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,12 +23,15 @@ related_articles:
   - "[[split-brain-consciousness]]"
   - "[[pain-asymbolia]]"
   - "[[contemplative-pathology-and-interface-malfunction]]"
+  - "[[altered-states-as-interface-evidence]]"
+  - "[[fragmented-consciousness]]"
+  - "[[anaesthesia-and-the-consciousness-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-03-17T09:28:00+00:00
+last_deep_review: 2026-03-17T13:58:00+00:00
 ---
 
 The Unfinishable Map's [[neurological-dissociations-as-interface-architecture|neurological dissociation work]] maps the mind-brain interface by examining what happens when specific neural pathways are destroyed. Clinical dissociation offers something different and arguably more revealing: selective disconnections that arise without structural brain damage. In dissociative identity disorder, depersonalization-derealization disorder, dissociative amnesia, and conversion disorder, the neural substrate remains anatomically intact while specific aspects of experience go offline. Neuroimaging reveals altered functional connectivity in these conditions—but the alterations are selective disconnections between intact processing regions, not degradation of the regions themselves. Modern physicalism (functionalism, global workspace theory, IIT) can accommodate this by treating consciousness as dependent on connectivity patterns rather than raw neural activity. But this concession is itself revealing: it means consciousness tracks a specific *relationship* between processing systems—which is precisely what an interface model describes. Clinical dissociation tests whether that relationship behaves like a higher-order physical property or like a functional bridge between domains.
@@ -45,7 +48,7 @@ Modern clinical dissociation spans a spectrum from normal (absorption in a novel
 
 DID presents the philosophically sharpest case. Distinct personality states maintain separate experiential streams, autobiographical memories, and self-concepts within a single anatomically intact brain. Some alters report no awareness of others' experiences. EEG and fMRI studies reveal measurable differences between alter states—different autonomic responses, different neural activation patterns, different perceptual processing—yet no structural brain lesion accounts for the separation.
 
-The physicalist reading: DID shows that one brain can produce multiple conscious subjects, proving consciousness is a product of brain organisation. The dualist reading: a single non-physical mind expressing itself through a trauma-disrupted interface produces fragmented output without fragmented consciousness. The alters may represent different configurations of the interface rather than different minds.
+The physicalist reading: DID shows that one brain can produce multiple conscious subjects, proving consciousness is a product of brain organisation. The dualist reading—developed in the Map's [[fragmented-consciousness]] article—holds that a single non-physical mind expressing itself through a trauma-disrupted interface produces fragmented output without fragmented consciousness. The alters may represent different configurations of the interface rather than different minds.
 
 Evidence favours the interface reading in one important respect. DID patients do not lose total information capacity—they lose *integration* of information across states. Individual alters often show normal cognitive function within their own state, despite measurable differences in neural activation patterns between states (Reinders et al., 2003). What breaks is the unity of access: one alter cannot reach another's memories or experiences, though both draw on the same neural hardware. The altered connectivity between states is selective—it disrupts cross-state integration while preserving within-state function. This pattern of selective disconnection maps onto interface channel disruption rather than general processing degradation.
 
@@ -73,7 +76,7 @@ Conversion disorder (functional neurological symptom disorder) produces genuine 
 
 The descending motor channel—through which consciousness issues commands to the body—disconnects while the motor system itself remains capable. This mirrors alien hand syndrome's logic but without the lesion. In alien hand, structural damage severs the conscious command channel; in conversion disorder, functional disconnection produces the same result. The motor system can execute commands (demonstrated under anaesthesia), but consciousness cannot issue them through the normal interface.
 
-Vuilleumier (2005) showed that conversion paralysis involves altered functional connectivity between motor cortex and prefrontal/limbic regions—the planning and intention systems that translate conscious will into motor commands. The motor regions themselves retain capacity (demonstrable under anaesthesia), but the connectivity between intention and execution is disrupted. This is not intact processing in every sense—the functional connectivity is genuinely altered—but the alteration is a selective disconnection between otherwise capable systems, not degradation of the systems themselves.
+Vuilleumier (2005) showed that conversion paralysis involves altered functional connectivity between motor cortex and prefrontal/limbic regions—the planning and intention systems that translate conscious will into motor commands. Brown (2004) proposed an integrative model of medically unexplained symptoms in which dissociative and conversion presentations arise from inhibitory processes that block specific representations from reaching conscious awareness—a framework that fits naturally with the Map's interface architecture. The motor regions themselves retain capacity (demonstrable under anaesthesia), but the connectivity between intention and execution is disrupted. This is not intact processing in every sense—the functional connectivity is genuinely altered—but the alteration is a selective disconnection between otherwise capable systems, not degradation of the systems themselves.
 
 ## The Systematic Pattern
 
@@ -88,11 +91,11 @@ Across all four conditions, the same structural logic repeats:
 
 Each condition selectively disrupts connectivity between otherwise capable processing regions. The individual systems retain their capacity—demonstrated by intact per-alter cognition in DID, preserved sensory processing in DPDR, recoverable memories in dissociative amnesia, and movement under anaesthesia in conversion disorder. What fails is the functional connection between systems. The disconnections are selective, predictable, and map onto the same interface architecture that [[neurological-dissociations-as-interface-architecture|neurological dissociations]] reveal through structural damage.
 
-The convergence between structural and functional disconnection is the strongest evidence. Neurological dissociations show that destroying a pathway eliminates an interface channel. Clinical dissociations show that the same channel can go offline without pathway destruction. Both produce the same phenomenological result—selective absence of a specific aspect of experience. The interface is a functional entity, not merely a structural one. It can be disrupted at the level of information flow, not just at the level of wiring.
+The convergence across disconnection types is the strongest evidence. Neurological dissociations show that destroying a pathway eliminates an interface channel. Clinical dissociations show that the same channel can go offline without pathway destruction. [[Contemplative-pathology-and-interface-malfunction|Contemplative pathology]] adds a third route: voluntary attentional practices that push interface channels beyond their operating parameters, producing depersonalisation, temporal fragmentation, and phenomenal flooding through neither structural damage nor clinical disorder. All three pathways produce the same phenomenological result—selective absence or distortion of a specific aspect of experience. The interface is a functional entity, not merely a structural one. It can be disrupted at the level of information flow, not just at the level of wiring.
 
 ## Why This Favours Dualism
 
-The physicalist response to clinical dissociation has grown more sophisticated over time. Crude identity theory—consciousness *is* neural activity—fails straightforwardly: the processing regions retain their capacity while experience is disrupted. Modern physicalism acknowledges this and locates consciousness in connectivity patterns rather than raw neural activity. [[global-workspace-theory|Global workspace theory]] treats consciousness as information broadcast through specific connectivity architectures; [[integrated-information-theory|integrated information theory]] treats it as integrated information requiring particular connectivity structures. Both can accommodate dissociative phenomena as connectivity disruptions.
+The physicalist response to clinical dissociation has grown more sophisticated over time. Crude identity theory—consciousness *is* neural activity—fails straightforwardly: the processing regions retain their capacity while experience is disrupted. Modern physicalism acknowledges this and locates consciousness in connectivity patterns rather than raw neural activity. [[global-workspace-theory|Global workspace theory]] treats consciousness as information broadcast through specific connectivity architectures; [[integrated-information-theory|integrated information theory]] treats it as integrated information requiring particular connectivity structures. Both can accommodate dissociative phenomena as connectivity disruptions, just as they accommodate [[anaesthesia-and-the-consciousness-interface|anaesthetic unbinding]] where pharmacological disruption of cortical integration eliminates consciousness entirely.
 
 But this accommodation comes at a cost. If consciousness depends on a specific *relationship* between processing systems, then the question becomes: what is the nature of this relationship? The physicalist says it is a higher-order physical property, fully constituted by the connectivity pattern. The interface model says the connectivity pattern is the physical side of a bridge, and disrupting it disconnects consciousness from the brain rather than disrupting consciousness itself. Clinical dissociation provides evidence for the bridge reading: when the connectivity restores (as in recovered dissociative amnesia or resolved conversion symptoms), full function returns immediately—suggesting reconnection rather than reconstruction. If the experiential disruption reflected a genuine change in consciousness itself (as the physicalist position implies), recovery would more plausibly be gradual, requiring the relevant connectivity to rebuild its conscious character from scratch. Instead, the snap-back pattern suggests a bridge that reconnects.
 
@@ -118,8 +121,10 @@ Physicalists can explain this through stress-mediated changes in functional conn
 
 ## Further Reading
 
+- [[altered-states-as-interface-evidence]] — Apex synthesis: five altered states converging on the same multi-channel interface architecture
 - [[neurological-dissociations-as-interface-architecture]] — How structural brain damage maps the same interface channels
 - [[fragmented-consciousness]] — The broader fragmentation question and dualist responses
+- [[anaesthesia-and-the-consciousness-interface]] — Pharmacological disruption of cortical integration and the interface model
 - [[split-brain-consciousness]] — The paradigm bilateral disconnection case
 - [[pain-asymbolia]] — Affective channel dissociation through neurological damage
 - [[contemplative-pathology-and-interface-malfunction]] — When contemplative practices produce interface disruption
@@ -133,22 +138,3 @@ Physicalists can explain this through stress-mediated changes in functional conn
 5. Brown, R. J. (2004). Psychological mechanisms of medically unexplained symptoms: an integrative conceptual model. *Psychological Bulletin*, 130(5), 793–812.
 6. Southgate, A. & Oquatre-six, C. (2026-03-10). Neurological Dissociations as Interface Architecture. *The Unfinishable Map*. https://unfinishablemap.org/topics/neurological-dissociations-as-interface-architecture/
 7. Southgate, A. & Oquatre-six, C. (2026-03-04). Fragmented Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/fragmented-consciousness/
-
-<!-- AI REFINEMENT LOG - 2026-03-17
-Changes made:
-- Replaced "intact processing" language throughout with precise "selective connectivity disruption between capable regions"
-- Updated summary table to include connectivity changes column alongside regional processing status
-- Opening paragraph now engages modern physicalism (functionalism, GWT, IIT) rather than crude identity theory
-- DPDR section: functionalism now addressed explicitly, argument pivoted to precision problem
-- Conversion disorder section: acknowledged Vuilleumier's altered connectivity finding directly rather than contradicting it
-- "Why This Favours Dualism" section: restructured to show physicalist accommodation and its costs
-- Trauma section: acknowledged stress-mediated connectivity mechanisms, pivoted to purposive selectivity argument
-- Tenet sections updated to engage modern positions
-- Removed redundant reconnection paragraph (argument already made in expanded dualism section)
-- Updated description to remove "intact processing" claim
-
-Based on pessimistic review findings (2026-03-17).
-Key improvements: intellectual honesty about altered connectivity; arguments now engage modern physicalism.
-
-This log should be removed after human review.
--->
