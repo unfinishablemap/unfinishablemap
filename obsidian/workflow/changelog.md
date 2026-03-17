@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 17:30 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/collapse-and-time]]
+- **Before**: 3646
+- **After**: 1996
+- **Reduction**: 45%
+- **Technique**: Condensed time-symmetric interpretations (removed extended Cramer/TSVF/Wharton detail, kept core insights), trimmed Philosophy of Time (compressed A/B-theory mapping, shortened growing block and PTI paragraphs), cut un-collapse thought experiment to essentials, shortened Many-Worlds section (defers to dedicated page), tightened Quantum Arrow Problem, Triad, and Falsifiability sections, removed AI refinement log comment
+
 ## 2026-03-17 17:14 UTC - condense
 - **Status**: Success
 - **File**: [[topics/dream-consciousness]]

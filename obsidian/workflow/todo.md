@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense collapse-and-time.md (3646 words, 104% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the relationship between quantum collapse and temporal ontology while removing redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-17
-
 ### P2: Condense temporal-void.md (3120 words, 104% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -516,6 +509,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Condense collapse-and-time.md (3646 words, 104% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the relationship between quantum collapse and temporal ontology while removing redundancy. See /condense skill.
+- **Output**: obsidian/concepts/collapse-and-time.md
 
 ### ✓ 2026-03-17: Condense dream-consciousness.md (4212 words, 105% of hard threshold)
 - **Type**: condense
