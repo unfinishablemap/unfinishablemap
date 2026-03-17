@@ -40,7 +40,7 @@ title: Perception and Conscious Experience
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[philosophy-of-perception-under-dualism]]'
-- '[[attention-as-selection-interface]]'
+- '[[attention-and-the-consciousness-interface]]'
 ---
 
 Perception dominates philosophical discussions of consciousness because it provides the clearest, most vivid examples of what physical description leaves out. The Unfinishable Map holds that this is no accident. Perceptual experience has features—qualitative richness, perspectival structure, phenomenal overflow, transparent directedness toward objects—that resist reduction to neural processing in ways that illuminate the nature of consciousness itself. Studying perception does not merely illustrate the [hard problem](/topics/hard-problem-of-consciousness/); it sharpens it, by showing exactly where and how physical description falls short.
@@ -140,7 +140,7 @@ The Unfinishable Map's [tenets](/tenets/) find their sharpest expression in perc
 - [intentionality](/concepts/intentionality/)
 - [knowledge-argument](/concepts/knowledge-argument/)
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
-- [attention-as-selection-interface](/topics/attention-as-selection-interface/)
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
 - [capability-division-problem](/voids/capability-division-problem/)
 - [baseline-cognition](/concepts/baseline-cognition/)
 

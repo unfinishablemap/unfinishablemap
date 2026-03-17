@@ -175,7 +175,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 ## Further Reading
 
 - [asymmetric-bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The inbound-outbound bandwidth ratio and what the asymmetry reveals about the interface
-- [attention-as-selection-interface](/topics/attention-as-selection-interface/) — How the interface operates through attention and motor planning
+- [attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/) — How the interface operates through attention and motor planning
 - [attentional-economics](/concepts/attentional-economics/) — Agency as allocation of the scarce conscious resource
 - [psychophysical-coupling](/concepts/psychophysical-laws/) — The coupling law connecting conscious states to physical selections
 - [filter-theory](/concepts/filter-theory/) — The filter/transmission model and the bandwidth as filter parameter

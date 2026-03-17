@@ -32,7 +32,7 @@ None. The previous review (earlier today) addressed all critical issues includin
 
 2. **Orphaned article with zero inbound links**: Despite being well-linked *outward* (16 wikilinks to existing content), no other article linked back to this one. For an article treating what it calls "the binding problem's sharpest test case," this isolation undermined its integration into the site. **Resolution**: Added inbound links from 8 existing articles (see cross-links section).
 
-3. **Missing attention cross-link in Bidirectional Interaction tenet**: The tenet section discusses voluntary attentional control over multimodal binding but didn't link to the dedicated attention article. **Resolution**: Added link to `[attention-as-selection-interface](/topics/attention-as-selection-interface/)`.
+3. **Missing attention cross-link in Bidirectional Interaction tenet**: The tenet section discusses voluntary attentional control over multimodal binding but didn't link to the dedicated attention article. **Resolution**: Added link to `[attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/)`.
 
 ### Counterarguments Considered
 
@@ -53,7 +53,7 @@ All six adversarial personas engaged in the previous review. This review confirm
 ### Enhancements Made
 
 - Added "What Would Challenge This View?" section (3 specific falsifiability criteria)
-- Added `[attention-as-selection-interface](/topics/attention-as-selection-interface/)` cross-link in Bidirectional Interaction tenet
+- Added `[attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/)` cross-link in Bidirectional Interaction tenet
 - Added inbound links from 8 existing articles:
   - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) (cross-modal section + Further Reading)
   - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) (Further Reading)

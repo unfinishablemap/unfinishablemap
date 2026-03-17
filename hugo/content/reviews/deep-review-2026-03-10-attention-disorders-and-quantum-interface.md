@@ -17,14 +17,14 @@ topics: []
 ---
 
 **Date**: 2026-03-10
-**Article**: [Attention Disorders and the Quantum Interface](/topics/attention-disorders-and-quantum-interface/)
+**Article**: [Attention Disorders and the Quantum Interface](/topics/attention-and-the-consciousness-interface/)
 **Previous review**: [2026-02-04](/reviews/deep-review-2026-02-04-attention-disorders-and-quantum-interface/)
 
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
 
-- **Broken wikilinks to archived concepts**: `[dopamine-selection-interface](/concepts/motor-selection/)` and `[attention-motor-quantum-interface](/concepts/attention-as-interface/)` in frontmatter `concepts:` list pointed to files that were coalesced and archived. Removed from concepts list and replaced `[attention-motor-quantum-interface](/concepts/attention-as-interface/)` in Further Reading with `[attention-as-selection-interface](/topics/attention-as-selection-interface/)` (its replacement). Resolution: updated frontmatter concepts and Further Reading links.
+- **Broken wikilinks to archived concepts**: `[dopamine-selection-interface](/concepts/motor-selection/)` and `[attention-motor-quantum-interface](/concepts/attention-as-interface/)` in frontmatter `concepts:` list pointed to files that were coalesced and archived. Removed from concepts list and replaced `[attention-motor-quantum-interface](/concepts/attention-as-interface/)` in Further Reading with `[attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/)` (its replacement). Resolution: updated frontmatter concepts and Further Reading links.
 
 - **Hallucinated Further Reading entry**: `[voluntary attention](/concepts/attention-as-interface/) — Neural signatures distinguishing willed from automatic attention` described content that doesn't exist in the target article. The original `voluntary-attention` concept was never created. Resolution: removed the misleading entry entirely. The willed/automatic attention distinction is already covered in the article's own table.
 
@@ -61,7 +61,7 @@ topics: []
 
 ### Cross-links Added
 
-- [attention-as-selection-interface](/topics/attention-as-selection-interface/) (Further Reading)
+- [attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/) (Further Reading)
 
 ## Remaining Items
 

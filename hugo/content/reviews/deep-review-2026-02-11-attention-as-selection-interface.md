@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-11
-**Article**: [Attention as the Selection Interface](/topics/attention-as-selection-interface/)
+**Article**: [Attention as the Selection Interface](/topics/attention-and-the-consciousness-interface/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -59,7 +59,7 @@ topics: []
 ### Cross-links Added
 - [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-the-neuroscience-of-deliberate-practice/) (related_articles + inline + Further Reading)
 - [consciousness-and-the-phenomenology-of-constraint-satisfaction](/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/) (related_articles)
-- [attention-as-selection-interface](/topics/attention-as-selection-interface/) (related_articles + inline + Further Reading)
+- [attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/) (related_articles + inline + Further Reading)
 - [neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/) (inline + Further Reading)
 
 ## Remaining Items

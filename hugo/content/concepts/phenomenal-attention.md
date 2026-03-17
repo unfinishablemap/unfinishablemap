@@ -29,13 +29,13 @@ last_deep_review: 2026-03-16 05:47:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[attention-as-selection-interface]]'
+- '[[attention-and-the-consciousness-interface]]'
 - '[[bandwidth-of-consciousness]]'
 title: Phenomenal Attention
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[ai-consciousness]]'
-- '[[attention-consciousness-dissociation]]'
+- '[[attention-and-the-consciousness-interface]]'
 ---
 
 Phenomenal attention is what it is like to attend. Not the computational process of allocating resources to a stimulus—that is computational attention, a mechanism shared by brains, neural networks, and transformer architectures alike. Phenomenal attention is the felt directedness, the experienced effort of focusing, the qualitative difference between attending to a sound and ignoring it—a specific instance of [phenomenal-consciousness](/concepts/phenomenal-consciousness/) applied to the act of selection. The Unfinishable Map argues that conflating these two senses of "attention" generates persistent confusion in consciousness science, enabling false inferences from computational attention in AI to consciousness in AI, and obscuring how the mind-matter interface actually operates.
@@ -88,7 +88,7 @@ This matters for empirical predictions. If computational attention alone could p
 
 ## Dissociation Evidence
 
-Attention and consciousness [dissociate in both directions](/topics/attention-consciousness-dissociation/), and these dissociations map differently onto the two senses of attention. Koch and Tsuchiya (2007) argued that attention and consciousness are distinct brain processes; the phenomenal/computational distinction clarifies *how* they come apart.
+Attention and consciousness [dissociate in both directions](/topics/attention-and-the-consciousness-interface/), and these dissociations map differently onto the two senses of attention. Koch and Tsuchiya (2007) argued that attention and consciousness are distinct brain processes; the phenomenal/computational distinction clarifies *how* they come apart.
 
 **Computational attention without phenomenal attention**: [Blindsight](/concepts/blindsight/) patients orient toward stimuli they deny seeing. Their brains perform computational attention—selecting and enhancing signals from the "blind" field—without phenomenal attention to those stimuli. The computational process runs; the experience does not accompany it.
 
@@ -143,7 +143,7 @@ The phenomenal/computational attention distinction is an instance of the Map's f
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis: attention mediates consciousness's causal influence
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effortful attention and the quantum Zeno mechanism
 - [attention-schema-theory](/concepts/attention-schema-theory/) — AST's claim that consciousness is an attention model—and why it equivocates
-- [attention-as-selection-interface](/topics/attention-as-selection-interface/) — Neural sites and timing constraints for attention-mediated selection
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — Neural sites, timing constraints, dissociation evidence, and AST critique
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The 100-million-fold asymmetry between computational and phenomenal bandwidth
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge to phenomenal properties
 - [qualia](/concepts/qualia/) — The broader case for irreducible experiential properties

@@ -26,7 +26,7 @@ related_articles:
 - '[[developmental-trajectory-of-the-interface]]'
 title: Childhood Development and the Interface
 topics:
-- '[[attention-as-selection-interface]]'
+- '[[attention-and-the-consciousness-interface]]'
 - '[[the-interface-location-problem]]'
 - '[[embodied-consciousness-and-the-interface]]'
 ---
@@ -96,7 +96,7 @@ The developmental interface also highlights the limits of **Occam's Razor**. A p
 - [cumulative-culture](/concepts/cumulative-culture/)
 - [baseline-cognition](/concepts/baseline-cognition/)
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
-- [attention-as-selection-interface](/topics/attention-as-selection-interface/)
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
 - [the-interface-location-problem](/topics/the-interface-location-problem/)
 
 ## References

@@ -18,6 +18,30 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 02:30 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
+- **Word count**: 4397 → 3998 (-399)
+- **Critical issues addressed**: 2 (stale wikilinks to archived concepts, hard length warning)
+- **Medium issues addressed**: 3 (oversized Further Reading, research notes in frontmatter, prose redundancy)
+- **Enhancements made**: 5 (prose tightening, frontmatter cleanup, Further Reading trimmed, subsection condensation, Orch OR restraint)
+- **Additional**: Fixed 8 files with stale temporal-asymmetry-remembering-anticipating wikilinks (coalesced → temporal-void)
+- **Output**: [deep-review-2026-03-17-attention-and-the-consciousness-interface](/reviews/deep-review-2026-03-17-attention-and-the-consciousness-interface/)
+
+## 2026-03-17 02:17 UTC - coalesce
+- **Status**: Success
+- **Sources**: [attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/), [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/), [attention-schema-theory-critique](/topics/attention-and-the-consciousness-interface/), [attention-disorders-and-quantum-interface](/topics/attention-and-the-consciousness-interface/)
+- **Target**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
+- **Archived**: archive/topics/attention-as-selection-interface.md, archive/topics/attention-consciousness-dissociation.md, archive/topics/attention-schema-theory-critique.md, archive/topics/attention-disorders-and-quantum-interface.md
+- **References updated**: 36 files (17 topics, 11 concepts, 1 void, 2 apex)
+
+## 2026-03-17 02:00 UTC - coalesce
+- **Status**: Success
+- **Sources**: [temporal-asymmetry-remembering-anticipating](/voids/temporal-void/)
+- **Target**: [temporal-void](/voids/temporal-void/)
+- **Archived**: archive/voids/temporal-asymmetry-remembering-anticipating.md
+- **References to review**: 16 active files (topics, concepts, voids, research)
+
 ## 2026-03-17 01:45 UTC - coalesce
 - **Status**: Success
 - **Sources**: [emotional-consciousness](/topics/emotion-and-dualism/), [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/), [philosophy-of-emotion-under-dualism](/topics/emotion-and-dualism/), [void-of-self-knowledge-in-emotion](/topics/emotion-and-dualism/)

@@ -9,7 +9,7 @@ last_deep_review: 2026-03-05T22:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[against-materialism]]"
+  - "[[arguments-against-materialism]]"
 concepts:
   - "[[phenomenology]]"
   - "[[simulation]]"

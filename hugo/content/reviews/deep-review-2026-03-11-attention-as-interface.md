@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 
-- **Three broken wikilinks to archived content**: `[interface-locality](/concepts/brain-interface-boundary/)`, `[attention-interface-mechanisms](/topics/attention-as-selection-interface/)`, and `[dopamine-selection-interface](/concepts/motor-selection/)` all pointed to articles that were coalesced into other pages. These appeared in frontmatter concepts, inline text, and Further Reading. **Resolved** — Updated to their coalesced replacements: `[brain-interface-boundary](/concepts/brain-interface-boundary/)`, `[attention-as-selection-interface](/topics/attention-as-selection-interface/)`, and `[dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)` / `[motor-selection](/concepts/motor-selection/)` respectively.
+- **Three broken wikilinks to archived content**: `[interface-locality](/concepts/brain-interface-boundary/)`, `[attention-interface-mechanisms](/topics/attention-as-selection-interface/)`, and `[dopamine-selection-interface](/concepts/motor-selection/)` all pointed to articles that were coalesced into other pages. These appeared in frontmatter concepts, inline text, and Further Reading. **Resolved** — Updated to their coalesced replacements: `[brain-interface-boundary](/concepts/brain-interface-boundary/)`, `[attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/)`, and `[dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)` / `[motor-selection](/concepts/motor-selection/)` respectively.
 
 ### Medium Issues Found
 
@@ -67,7 +67,7 @@ All six adversarial personas engaged. No new substantive objections beyond those
 ### Cross-links Added
 
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) (replacing archived [interface-locality](/concepts/brain-interface-boundary/))
-- [attention-as-selection-interface](/topics/attention-as-selection-interface/) (replacing archived [attention-interface-mechanisms](/topics/attention-as-selection-interface/))
+- [attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/) (replacing archived [attention-interface-mechanisms](/topics/attention-as-selection-interface/))
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) (replacing archived [dopamine-selection-interface](/concepts/motor-selection/))
 
 ## Remaining Items

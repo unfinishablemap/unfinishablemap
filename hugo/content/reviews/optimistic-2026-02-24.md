@@ -108,7 +108,7 @@ The [consciousness-only-territories](/voids/consciousness-only-territories/) voi
 - **Tenet alignment**: Bidirectional Interaction (consciousness causally contributes to scientific cognition), Dualism (phenomenal character of discovery is irreducible)
 
 #### Consciousness and the Structure of Attention Disorders
-- **Builds on**: [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/), [structure-of-attention](/topics/structure-of-attention/), [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/)
+- **Builds on**: [attention-disorders-and-quantum-interface](/topics/attention-and-the-consciousness-interface/), [structure-of-attention](/topics/structure-of-attention/), [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/)
 - **Would address**: ADHD, attentional neglect, and other attention disorders as natural experiments on the consciousness-brain interface. If attention is the selection channel, disorders that alter attentional bandwidth or control should produce predictable changes in conscious experience and agency—providing testable predictions for the Map's framework.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Bidirectional Interaction (attention as causal bridge), Minimal Quantum Interaction (disorders may affect the selection mechanism's efficiency)

@@ -67,7 +67,7 @@ All six adversarial personas engaged. No new counterarguments beyond those alrea
 
 All remaining cross-links point to existing articles:
 - [attention-as-interface](/concepts/attention-as-interface/)
-- [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/)
+- [attention-disorders-and-quantum-interface](/topics/attention-and-the-consciousness-interface/)
 - [mental-effort](/concepts/mental-effort/)
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)
 - [motor-selection](/concepts/motor-selection/)

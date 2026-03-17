@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 - Epiphenomenalism mentioned ("epiphenomenal decoration") but not linked to existing [epiphenomenalism](/concepts/epiphenomenalism/) concept: resolved (added wikilink)
-- Missing cross-links to closely related concepts ([phenomenal-consciousness](/concepts/phenomenal-consciousness/), [explanatory-gap](/concepts/explanatory-gap/), [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/)): resolved (added wikilinks)
+- Missing cross-links to closely related concepts ([phenomenal-consciousness](/concepts/phenomenal-consciousness/), [explanatory-gap](/concepts/explanatory-gap/), [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/)): resolved (added wikilinks)
 - Koch & Tsuchiya (2007) cited in references but never referenced in text despite direct relevance to dissociation evidence section: resolved (added in-text reference)
 
 ### Counterarguments Considered
@@ -47,14 +47,14 @@ topics: []
 - Added [phenomenal-consciousness](/concepts/phenomenal-consciousness/) link in opening paragraph, clarifying phenomenal attention as a specific instance
 - Added [explanatory-gap](/concepts/explanatory-gap/) link in AST section, making the conceptual connection explicit
 - Added [epiphenomenalism](/concepts/epiphenomenalism/) link where epiphenomenal decoration is discussed
-- Added [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) link in dissociation evidence section with Koch & Tsuchiya in-text reference
+- Added [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/) link in dissociation evidence section with Koch & Tsuchiya in-text reference
 - Updated frontmatter concepts and topics to reflect new cross-links
 
 ### Cross-links Added
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [epiphenomenalism](/concepts/epiphenomenalism/)
-- [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/)
+- [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/)
 
 ## Remaining Items
 

@@ -28,7 +28,7 @@ last_deep_review: 2026-02-20 21:06:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[attention-as-selection-interface]]'
+- '[[attention-and-the-consciousness-interface]]'
 - '[[psychophysical-laws-bridging-mind-and-matter]]'
 - '[[bandwidth-of-consciousness]]'
 title: The Interface Specification Problem
@@ -39,7 +39,7 @@ topics:
 
 If consciousness influences the physical world by biasing quantum outcomes in the brain, exactly which conscious states bias which outcomes, through what mechanism, and by how much? This is the interface specification problem—the most significant open challenge facing The Unfinishable Map's interactionist framework.
 
-The Map can say *that* consciousness acts on matter (the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet), *where* it acts (at quantum indeterminacies, per [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)), and *through what neural architecture* it acts (the unified [attention-motor interface](/topics/attention-as-selection-interface/)). What remains unspecified is the lawful mapping from phenomenal properties to physical selections—what Chalmers (1996, p. 214) calls the "t-shirt problem": the absence of psychophysical laws compact and precise enough to fit on a t-shirt, as F=ma can. The problem is a descendant of [Princess Elisabeth's original challenge](/topics/princess-elizabeths-challenge/) to Descartes: if mind and body are distinct, how do they interact?
+The Map can say *that* consciousness acts on matter (the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet), *where* it acts (at quantum indeterminacies, per [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)), and *through what neural architecture* it acts (the unified [attention-motor interface](/topics/attention-and-the-consciousness-interface/)). What remains unspecified is the lawful mapping from phenomenal properties to physical selections—what Chalmers (1996, p. 214) calls the "t-shirt problem": the absence of psychophysical laws compact and precise enough to fit on a t-shirt, as F=ma can. The problem is a descendant of [Princess Elisabeth's original challenge](/topics/princess-elizabeths-challenge/) to Descartes: if mind and body are distinct, how do they interact?
 
 This article examines what the specification problem demands, what partial answers exist, why it remains unsolved, and whether its difficulty is a temporary embarrassment or a permanent feature.
 
@@ -182,7 +182,7 @@ The specification problem is the Map's most significant open challenge. Acknowle
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Fundamental principles connecting conscious experience to physical processes
 - [coupling-modes](/concepts/coupling-modes/) — Taxonomy of how consciousness couples: basis, timing, or probability control
 - [mental-causation](/concepts/mental-causation/) — The broader case for consciousness causing physical effects
-- [attention-as-selection-interface](/topics/attention-as-selection-interface/) — The unified attention-motor interface where selection occurs
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — The unified attention-motor interface where selection occurs
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Integrated overview of psychophysical laws
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The ~10 bits/second constraint on conscious selection
 - [pairing-problem](/concepts/pairing-problem/) — What connects a particular mind to a particular body

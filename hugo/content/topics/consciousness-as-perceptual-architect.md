@@ -29,7 +29,7 @@ last_deep_review: 2026-03-15 05:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[attention-as-selection-interface]]'
+- '[[attention-and-the-consciousness-interface]]'
 - '[[philosophy-of-perception-under-dualism]]'
 - '[[perception-and-conscious-experience]]'
 - '[[temporal-structure-of-consciousness]]'
@@ -88,7 +88,7 @@ This matters because it shows that perceptual constancy is not a post-processing
 
 Perceptual constancy can be disrupted, enhanced, or selectively applied through attentional engagement. Painters learn to "break" colour constancy by attending to proximal qualities — squinting at a white wall under candlelight until it yields its actual orange cast. The experience of constancy *breaking* is phenomenologically distinctive: the world briefly appears unstable, colours shift toward their proximal values, and objects lose their familiar solidity. That this breakdown requires effort and that the default reasserts itself when attention relaxes suggests constancy is actively maintained rather than passively computed.
 
-In the Map's [capability division framework](/voids/capability-division-problem/), computational constancy — chromatic adaptation, illuminant estimation — belongs to brain-side processing. The phenomenal dimension — the felt sameness of yellow, the experienced stability — is a mind-side contribution that computation occasions but does not constitute. If [attention is the interface](/topics/attention-as-selection-interface/) where consciousness selects among competing perceptual options, perceptual constancy may represent one of its most basic operations: selecting the stable distal interpretation over the fluctuating proximal signal.
+In the Map's [capability division framework](/voids/capability-division-problem/), computational constancy — chromatic adaptation, illuminant estimation — belongs to brain-side processing. The phenomenal dimension — the felt sameness of yellow, the experienced stability — is a mind-side contribution that computation occasions but does not constitute. If [attention is the interface](/topics/attention-and-the-consciousness-interface/) where consciousness selects among competing perceptual options, perceptual constancy may represent one of its most basic operations: selecting the stable distal interpretation over the fluctuating proximal signal.
 
 ## Perceptual Learning: Transforming What Arrives
 
@@ -152,7 +152,7 @@ And both face the same explanatory gap. Predictive processing frameworks describ
 
 - [perception-and-conscious-experience](/topics/perception-and-conscious-experience/) — Broader treatment of perception and consciousness
 - [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/) — Systematic perceptual philosophy from the Map's perspective
-- [attention-as-selection-interface](/topics/attention-as-selection-interface/) — How attention mediates consciousness and neural processing
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — How attention mediates consciousness and neural processing
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — The broader problem of phenomenal unity
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Temporal integration in experience
 - [consciousness-and-skilled-performance](/topics/consciousness-and-skilled-performance/) — Motor dimension of skill acquisition

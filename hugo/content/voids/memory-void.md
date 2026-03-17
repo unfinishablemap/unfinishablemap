@@ -25,7 +25,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[past-self-void]]'
-- '[[temporal-asymmetry-remembering-anticipating]]'
+- '[[temporal-void]]'
 - '[[thoughts-that-slip-away]]'
 - '[[other-minds-void]]'
 - '[[consciousness-and-memory]]'
@@ -35,7 +35,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-When you remember yesterday's sunset, do you access the original experience or construct a new one? The Unfinishable Map's other temporal voids—the [past-self void](/voids/past-self-void/) concerning identity over time, the [temporal asymmetry](/voids/temporal-asymmetry-remembering-anticipating/) concerning the structural difference between memory and anticipation—both presuppose that past experience is inaccessible. This article examines a more fundamental question: do past qualia still exist somewhere to be accessed, or are they gone the instant experience passes? The memory void concerns the fate of phenomenal content itself.
+When you remember yesterday's sunset, do you access the original experience or construct a new one? The Unfinishable Map's other temporal voids—the [past-self void](/voids/past-self-void/) concerning identity over time, the [temporal asymmetry](/voids/temporal-void/) concerning the structural difference between memory and anticipation—both presuppose that past experience is inaccessible. This article examines a more fundamental question: do past qualia still exist somewhere to be accessed, or are they gone the instant experience passes? The memory void concerns the fate of phenomenal content itself.
 
 This matters because memory is how we preserve our conscious lives. If memory provides genuine contact with past experience, the self persists as a continuous experiential thread. If memory only constructs simulations using traces, then each moment of consciousness is irretrievably lost—we are not remembering but reimagining, and the experiential past is a void we cannot enter.
 
@@ -141,7 +141,7 @@ None of these conditions has been met. Current evidence supports the reconstruct
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [past-self-void](/voids/past-self-void/) — The related void concerning personal identity over time
-- [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why we can reconstruct the past but only imagine the future
+- [temporal-void](/voids/temporal-void/) — Why we can reconstruct the past but only imagine the future
 - [other-minds-void](/voids/other-minds-void/) — The structural inaccessibility of other present minds
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Related phenomenology of cognitive limitation
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that stores experienced events

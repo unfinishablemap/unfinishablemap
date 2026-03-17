@@ -21,7 +21,7 @@ topics: []
 **Date**: 2026-02-06
 **Article**: [Psychophysical Coupling](/concepts/psychophysical-laws/)
 **Previous review**: [2026-02-06](/reviews/deep-review-2026-02-06-psychophysical-coupling/) (earlier same day)
-**Cross-review context**: [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) (insights from dissociation evidence)
+**Cross-review context**: [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/) (insights from dissociation evidence)
 
 ## Pessimistic Analysis Summary
 
@@ -33,7 +33,7 @@ None. Previous review resolved all citation and attribution errors.
 
 - **Attention-consciousness dissociation gap**: Law Family 1 (Attention-Bounded Selection) presented attention as the coupling mechanism without acknowledging the Map's own dissociation evidence showing consciousness can exist without attention (peripheral awareness, gist perception). If coupling operates through attention but consciousness can exist without attention, the article needed to clarify that coupling operates through *directed* attention specifically—the interface mode—not through consciousness as such. **Resolution**: Added "dissociation constraint" paragraph to Law Family 1 explaining that coupling requires active attentional engagement (the interface), while peripheral awareness represents reception without selection.
 
-- **Missing cross-link to dissociation article**: No link to [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) despite direct relevance to Law Family 1 and the attention-based coupling mechanism. **Resolution**: Added to Further Reading and added [attention-as-interface](/concepts/attention-as-interface/) to frontmatter concepts.
+- **Missing cross-link to dissociation article**: No link to [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/) despite direct relevance to Law Family 1 and the attention-based coupling mechanism. **Resolution**: Added to Further Reading and added [attention-as-interface](/concepts/attention-as-interface/) to frontmatter concepts.
 
 ### Counterarguments Considered
 
@@ -61,14 +61,14 @@ All attributions verified accurate. Previous review corrected Georgiev and Zheng
 ### Enhancements Made
 
 - Added dissociation constraint paragraph to Law Family 1, integrating insights from the attention-consciousness-dissociation article
-- Added cross-link to [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) in Further Reading
+- Added cross-link to [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/) in Further Reading
 - Added [attention-as-interface](/concepts/attention-as-interface/) to frontmatter concepts
 - Compressed Chalmers three principles subsection (detailed treatment available in dedicated [psychophysical-laws](/concepts/psychophysical-laws/) article)
 - Tightened Chalmers-McQueen position and bandwidth intro for length neutrality
 
 ### Cross-links Added
 
-- [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) (Further Reading)
+- [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/) (Further Reading)
 - [attention-as-interface](/concepts/attention-as-interface/) (frontmatter concepts)
 
 ## Word Count

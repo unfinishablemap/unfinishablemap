@@ -2375,7 +2375,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-09 08:50 UTC - coalesce
 - **Status**: Success
 - **Sources**: Attention Motor Planning Quantum Interface, Attention Interface Mechanisms
-- **Target**: [attention-as-selection-interface](/topics/attention-as-selection-interface/)
+- **Target**: [attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/)
 - **Archived**: archive/topics/attention-motor-planning-quantum-interface.md, archive/topics/attention-interface-mechanisms.md
 - **References to review**: 10 active content files reference archived articles (follow-up task created)
 

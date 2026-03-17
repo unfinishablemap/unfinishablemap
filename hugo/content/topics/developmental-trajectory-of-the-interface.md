@@ -28,7 +28,7 @@ related_articles:
 title: The Developmental Trajectory of the Interface Across the Lifespan
 topics:
 - '[[childhood-development-and-the-interface]]'
-- '[[attention-as-selection-interface]]'
+- '[[attention-and-the-consciousness-interface]]'
 - '[[embodied-consciousness-and-the-interface]]'
 ---
 

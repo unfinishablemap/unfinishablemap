@@ -70,7 +70,7 @@ Fundamental physics provides no arrow. The laws of motion, electromagnetism, and
 
 **The causal arrow.** Causes precede effects. Huw Price argues that this asymmetry is perspectival—an anthropocentric projection arising from our nature as deliberating agents. The Map draws a different lesson: if agents' temporal orientation shapes how causation appears, consciousness may play a constitutive role in temporal asymmetry more broadly.
 
-**The epistemic arrow.** We know the past through traces and can only predict the future. This asymmetry grounds the [felt difference between remembering and anticipating](/voids/temporal-asymmetry-remembering-anticipating/).
+**The epistemic arrow.** We know the past through traces and can only predict the future. This asymmetry grounds the [felt difference between remembering and anticipating](/voids/temporal-void/).
 
 **The phenomenological arrow.** Experience flows. The present arrives, becomes past, and is replaced by a new present. This felt flow is so fundamental that imagining its absence is nearly impossible—even the attempt occurs within temporal flow.
 
@@ -194,7 +194,7 @@ A materialist can claim temporal flow is an outright illusion—a cognitive arti
 ## Further Reading
 
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — How consciousness and time depend on each other
-- [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — The specific void of memory versus anticipation
+- [temporal-asymmetry-remembering-anticipating](/voids/temporal-void/) — The specific void of memory versus anticipation
 - [temporal-void](/voids/temporal-void/) — Why consciousness cannot escape the present
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Collapse, free will, and time's arrow
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/) — Whether the deepest level of mind transcends time

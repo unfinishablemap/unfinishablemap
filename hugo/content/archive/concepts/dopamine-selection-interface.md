@@ -257,7 +257,7 @@ The quantum selection framework gains explanatory purchase where the simpler vie
 
 - [attention-motor-quantum-interface](/concepts/attention-as-interface/) — The broader framework integrating attention and motor selection
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Comprehensive topics treatment: salience bridge, tonic/phasic modes, theta oscillations
-- [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — ADHD as threshold dysregulation—concrete example of dopamine-interface dysfunction
+- [attention-disorders-and-quantum-interface](/topics/attention-and-the-consciousness-interface/) — ADHD as threshold dysregulation—concrete example of dopamine-interface dysfunction
 - [motor-selection](/concepts/motor-selection/) — Motor selection mechanisms in detail
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for consciousness-brain interaction
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical framework

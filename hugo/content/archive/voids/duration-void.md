@@ -97,7 +97,7 @@ The Map speculates that the duration void may be partly occluded rather than mer
 
 - [voids](/voids/) — The voids framework: unexplored, unexplorable, occluded
 - [temporal-consciousness-void](/voids/temporal-void/) — Why consciousness is confined to a moving present
-- [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why past and future access differs
+- [temporal-asymmetry-remembering-anticipating](/voids/temporal-void/) — Why past and future access differs
 - [absorption-void](/voids/absorption-void/) — Peak engagement as peak self-opacity
 - [the-unobservable-self](/voids/self-reference-paradox/) — The subject that cannot be its own object
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's concept of lived time as qualitative multiplicity

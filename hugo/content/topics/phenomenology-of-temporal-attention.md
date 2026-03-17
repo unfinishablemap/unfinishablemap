@@ -21,7 +21,7 @@ modified: *id001
 related_articles:
 - '[[phenomenology-of-returning-attention]]'
 - '[[structure-of-attention]]'
-- '[[attention-as-selection-interface]]'
+- '[[attention-and-the-consciousness-interface]]'
 - '[[time-collapse-and-agency]]'
 - '[[consciousness-and-skilled-performance]]'
 - '[[consciousness-and-the-ontology-of-temporal-becoming]]'
@@ -30,7 +30,7 @@ related_articles:
 title: The Phenomenology of Temporal Attention
 topics:
 - '[[temporal-structure-of-consciousness]]'
-- '[[attention-consciousness-dissociation]]'
+- '[[attention-and-the-consciousness-interface]]'
 ---
 
 Attention does not merely select *what* we experience—it shapes *when* and *how long* we experience it. The Unfinishable Map argues that temporal attention, the directing of awareness through time, reveals something fundamental about consciousness: it is not a passive recipient of an externally clocked present but an active structurer of temporal experience. The felt duration of a moment, the depth of the present, and the rhythm of conscious life all vary with how attention engages time. This variation resists physical reduction. No clock runs faster when you concentrate or slower when you are bored. The distortion is phenomenal, not physical—and that gap between objective and experienced time reopens the hard problem at the temporal level, where it proves especially resistant to materialist dissolution.
@@ -112,7 +112,7 @@ The phenomenology of temporal attention aligns with several of the Map's [tenets
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
 - [temporal-consciousness](/concepts/temporal-consciousness/)
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
-- [attention-as-selection-interface](/topics/attention-as-selection-interface/)
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/)
 - [phenomenology of flow states](/topics/consciousness-and-skilled-performance/)
 - [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)

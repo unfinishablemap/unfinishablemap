@@ -17,13 +17,13 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [The Attention-Consciousness Dissociation](/topics/attention-consciousness-dissociation/)
+**Article**: [The Attention-Consciousness Dissociation](/topics/attention-and-the-consciousness-interface/)
 **Previous review**: [2026-02-05](/reviews/deep-review-2026-02-05-attention-consciousness-dissociation/)
 
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink**: `[attention-as-selection-interface](/topics/attention-as-selection-interface/)` in Further Reading pointed to a non-existent file. Removed and replaced with links to existing related articles.
+- **Broken wikilink**: `[attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/)` in Further Reading pointed to a non-existent file. Removed and replaced with links to existing related articles.
 
 ### Medium Issues Found
 - **Quantum Zeno presented without sufficient hedging**: The Effort Question section stated Stapp's quantum Zeno mechanism as if established ("On Stapp's quantum Zeno mechanism, sustained attention requires..."). Per the writing style guide's restraint requirements for quantum Zeno, reframed as "one proposed mechanism" with explicit note that the core argument doesn't depend on any particular quantum mechanism.

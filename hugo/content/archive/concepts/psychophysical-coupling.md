@@ -132,7 +132,7 @@ The law: **Attention selects what it attends to.** The pattern of conscious atte
 
 This is empirically constrained. Selection matches the measured bandwidth of conscious processing. It explains "brain specialness"—you can only select what you can attend to, and you can only attend to what your brain represents.
 
-**The dissociation constraint**: [Empirical evidence](/topics/attention-consciousness-dissociation/) shows attention and consciousness can come apart—peripheral awareness delivers conscious content without focal attention. This means coupling operates specifically through *directed* attention (the [interface](/concepts/attention-as-interface/) through which consciousness engages matter), not through consciousness as such. Peripheral awareness is reception without selection; coupling requires active attentional engagement.
+**The dissociation constraint**: [Empirical evidence](/topics/attention-and-the-consciousness-interface/) shows attention and consciousness can come apart—peripheral awareness delivers conscious content without focal attention. This means coupling operates specifically through *directed* attention (the [interface](/concepts/attention-as-interface/) through which consciousness engages matter), not through consciousness as such. Peripheral awareness is reception without selection; coupling requires active attentional engagement.
 
 ### Law Family 2: Policy-Level Selection
 
@@ -342,7 +342,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - Attention Interface Mechanisms — Candidate neural sites, timing constraints, and testable predictions
 - [mental-effort](/concepts/mental-effort/) — The phenomenology Stapp's mechanism requires
 - [attention](/concepts/attention-as-interface/) — The attention-consciousness relationship
-- [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) — Evidence that attention and consciousness are separable processes
+- [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/) — Evidence that attention and consciousness are separable processes
 - [mental-causation](/concepts/mental-causation/) — How coupling addresses exclusion arguments
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework requiring coupling laws
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of attention-observation mechanism

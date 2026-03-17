@@ -211,7 +211,7 @@ This neural distinctiveness matters philosophically. If consciousness contribute
 ## Further Reading
 
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the causal bridge between consciousness and brain
-- [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — ADHD selectively impairs willed attention while preserving captured attention
+- [attention-disorders-and-quantum-interface](/topics/attention-and-the-consciousness-interface/) — ADHD selectively impairs willed attention while preserving captured attention
 - [attention-motor-quantum-interface](/concepts/attention-as-interface/) — How PMTA unifies attention and motor selection
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from decoherence to neural decisions
 - [motor-selection](/concepts/motor-selection/) — Parallel evidence from voluntary motor control

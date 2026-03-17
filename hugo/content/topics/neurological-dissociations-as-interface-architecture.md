@@ -26,8 +26,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[split-brain-consciousness]]'
-- '[[attention-disorders-and-quantum-interface]]'
-- '[[attention-consciousness-dissociation]]'
+- '[[attention-and-the-consciousness-interface]]'
 - '[[embodied-consciousness-and-the-interface]]'
 - '[[motor-selection]]'
 - '[[reconstruction-paradox-brain-correction-2026-03-09]]'
@@ -188,8 +187,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Bilateral disconnection and unity
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the gating mechanism
 - [motor-selection](/concepts/motor-selection/) — The descending channel in detail
-- [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — What attention pathology reveals
-- [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) — The broader attention-consciousness relationship
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — What attention pathology reveals and the broader attention-consciousness relationship
 - [mind-matter-interface](/concepts/mind-matter-interface/) — The two-layer architecture these dissociations map
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — Body-level interface considerations
 

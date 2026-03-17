@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-01
-**Article**: [Attention Disorders and the Quantum Interface](/topics/attention-disorders-and-quantum-interface/)
+**Article**: [Attention Disorders and the Quantum Interface](/topics/attention-and-the-consciousness-interface/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

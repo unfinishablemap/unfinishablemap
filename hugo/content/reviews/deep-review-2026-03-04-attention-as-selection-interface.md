@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-04
-**Article**: [Attention as the Selection Interface](/topics/attention-as-selection-interface/)
+**Article**: [Attention as the Selection Interface](/topics/attention-and-the-consciousness-interface/)
 **Previous review**: [2026-02-11](/reviews/deep-review-2026-02-11-attention-as-selection-interface/)
 
 ## Review Context

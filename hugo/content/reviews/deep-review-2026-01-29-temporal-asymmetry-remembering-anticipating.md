@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-29
-**Article**: [The Asymmetry Between Remembering and Anticipating](/voids/temporal-asymmetry-remembering-anticipating/)
+**Article**: [The Asymmetry Between Remembering and Anticipating](/voids/temporal-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

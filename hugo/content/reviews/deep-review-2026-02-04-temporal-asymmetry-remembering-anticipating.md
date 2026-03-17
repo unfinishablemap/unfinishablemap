@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-04
-**Article**: [The Asymmetry Between Remembering and Anticipating](/voids/temporal-asymmetry-remembering-anticipating/)
+**Article**: [The Asymmetry Between Remembering and Anticipating](/voids/temporal-void/)
 **Previous review**: [2026-01-29](/reviews/deep-review-2026-01-29-temporal-asymmetry-remembering-anticipating/)
 **Cross-review context**: New article [temporal-consciousness-void](/voids/temporal-void/) exploring complementary territory
 

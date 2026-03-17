@@ -55,7 +55,7 @@ Added `[dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-int
 1. **[attention-motor-quantum-interface](/concepts/attention-as-interface/)** — "Comprehensive treatment of dopamine's preparatory role in conscious selection"
 2. **[dopamine-selection-interface](/concepts/motor-selection/)** — "Comprehensive topics treatment: salience bridge, tonic/phasic modes, theta oscillations"
 3. **[motor-selection](/concepts/motor-selection/)** — "How dopamine prepares the unified attention-motor system for conscious selection"
-4. **[attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/)** — "Salience bridge, tonic/phasic modes, and what Parkinson's reveals about the interface"
+4. **[attention-disorders-and-quantum-interface](/topics/attention-and-the-consciousness-interface/)** — "Salience bridge, tonic/phasic modes, and what Parkinson's reveals about the interface"
 5. **[voluntary-attention](/concepts/attention-as-interface/)** — "Why dopamine serves both attention and motor systems—because they are one"
 6. **[mental-effort](/concepts/mental-effort/)** — "Dopamine prepares the selection interface; theta oscillations provide the timing substrate"
 

@@ -31,7 +31,7 @@ title: The Resolution-Bandwidth Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[topics/free-will]]'
-- '[[attention-as-selection-interface]]'
+- '[[attention-and-the-consciousness-interface]]'
 ---
 
 Consciousness processes roughly ten bits per second. The brain it inhabits processes roughly 10⁹ bits per second — a [100-million-fold asymmetry](/topics/bandwidth-of-consciousness/). The Unfinishable Map has explored both sides of this ratio separately: the [resolution-void](/voids/resolution-void/) quantifies what consciousness cannot access, while the [bandwidth problem in mental causation](/concepts/bandwidth-problem-mental-causation/) formalises the challenge for downward causation. This article unifies both into a single claim. The coarseness of consciousness is not a defect to be explained away but an architectural requirement for its causal role. A ten-bit-per-second controller is a fundamentally different kind of system from a billion-bit-per-second processor, and that difference is precisely what makes conscious selection possible.

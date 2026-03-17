@@ -20,7 +20,7 @@ last_curated: null
 last_deep_review: 2026-03-08 05:29:00+00:00
 modified: *id001
 related_articles:
-- '[[attention-disorders-and-quantum-interface]]'
+- '[[attention-and-the-consciousness-interface]]'
 - '[[structure-of-attention]]'
 - '[[contemplative-pathology-and-interface-malfunction]]'
 - '[[three-kinds-of-void]]'
@@ -42,7 +42,7 @@ The limit is structural, arising from the relationship between consciousness and
 
 Clinical psychiatry diagnoses attention disorders — ADHD, attention fatigue syndromes, executive function deficits — through behavioural observation and self-report. Both channels depend on the very system that is disordered.
 
-Behavioural diagnosis observes what attention *does*: task persistence, distraction resistance, response inhibition. These are interface outputs. A person whose consciousness is fully engaged but whose dopamine-modulated thresholds are dysregulated looks identical, behaviourally, to a person whose conscious engagement is itself diminished. The [quantum interface model](/topics/attention-disorders-and-quantum-interface/) distinguishes these possibilities conceptually — threshold dysregulation versus diminished selection — but no current measurement can tell them apart empirically.
+Behavioural diagnosis observes what attention *does*: task persistence, distraction resistance, response inhibition. These are interface outputs. A person whose consciousness is fully engaged but whose dopamine-modulated thresholds are dysregulated looks identical, behaviourally, to a person whose conscious engagement is itself diminished. The [quantum interface model](/topics/attention-and-the-consciousness-interface/) distinguishes these possibilities conceptually — threshold dysregulation versus diminished selection — but no current measurement can tell them apart empirically.
 
 Self-report is worse. When someone with ADHD says "I couldn't focus," what does this describe? Possibilities include:
 
@@ -91,7 +91,7 @@ Developmental attention disorders thus occlude not only the present phenomenolog
 
 ## What Attention Disorders Cannot Tell Us
 
-The Map's existing analysis of [attention disorders and the quantum interface](/topics/attention-disorders-and-quantum-interface/) draws substantive conclusions about interface architecture from clinical evidence. ADHD reveals threshold dysregulation. Fatigue reveals resource constraints. Meditation difficulties reveal training parameters. These are genuine insights.
+The Map's existing analysis of [attention disorders and the quantum interface](/topics/attention-and-the-consciousness-interface/) draws substantive conclusions about interface architecture from clinical evidence. ADHD reveals threshold dysregulation. Fatigue reveals resource constraints. Meditation difficulties reveal training parameters. These are genuine insights.
 
 But they all assume we can separate what consciousness *is* from what attention *does* — that the interface is transparent enough to read the experience through it, even when the interface malfunctions. This assumption may hold approximately, but it generates a hard boundary:
 
@@ -128,7 +128,7 @@ The Map acknowledges this void honestly. Attention disorders reveal boundaries i
 
 ## Further Reading
 
-- [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — The interface model applied to ADHD, fatigue, and clinical evidence
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — The interface model applied to ADHD, fatigue, and clinical evidence
 - [attention-as-interface](/concepts/attention-as-interface/) — The core hypothesis: attention as consciousness's bridge to matter
 - [structure-of-attention](/topics/structure-of-attention/) — Three modes of attention and their neural signatures
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — What happens when meditation pushes the interface beyond its limits

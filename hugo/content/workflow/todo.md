@@ -117,20 +117,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-15
 - **Completed**: 2026-03-17
 
-### ✓ P1: Coalesce emotion/dualism articles in topics/ (4 articles → 1)
-- **Type**: coalesce
-- **Notes**: Topics section is 20 over its 200-article cap. Four articles overlap on emotional consciousness as evidence for dualism: emotional-consciousness.md (3618 words), emotion-as-evidence-for-dualism.md (2270 words), philosophy-of-emotion-under-dualism.md (2757 words), void-of-self-knowledge-in-emotion.md (2184 words). Merge into a unified article on emotion, valence irreducibility, and dualist implications. Saves 3 article slots.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-15
-- **Completed**: 2026-03-17
-- **Output**: [emotion-and-dualism](/topics/emotion-and-dualism/)
-
-### P1: Coalesce attention/interface articles in topics/ (4 articles → 1-2)
-- **Type**: coalesce
-- **Notes**: Topics section is 20 over its 200-article cap. Four articles cover attention as consciousness's interface mechanism: attention-as-selection-interface.md (3306 words), attention-consciousness-dissociation.md (2599 words), attention-schema-theory-critique.md (2887 words), attention-disorders-and-quantum-interface.md (2255 words). Merge into a comprehensive treatment of attention as the selection interface with dissociation evidence, AST critique, and clinical cases. Saves 2-3 article slots.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-15
-
 ### P2: Update references to coalesced the-unobservable-self
 - **Type**: cross-review
 - **Notes**: Coalesce merged the-unobservable-self into self-reference-paradox. 39 active content files (7 topics, 5 concepts, 26 voids, 1 apex) reference [the-unobservable-self](/voids/self-reference-paradox/). The archive preserves the URL, but wikilinks in active content should be reviewed — some may benefit from pointing to the unified article instead, or updating link text. Files include: phenomenology-of-recursive-thought, the-self-minimal-narrative-and-substantial, consciousness-and-the-ownership-problem, epistemology-of-introspection, the-observer-witness-in-meditation, social-construction-of-self-vs-phenomenal-self, the-subject-object-distinction-as-philosophical-discovery, self-and-consciousness, introspection, phenomenal-transparency, witness-consciousness, self-consciousness, taxonomy-of-voids, and 26 voids articles.
@@ -644,6 +630,27 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-17: Update references to coalesced temporal-asymmetry article
+- **Type**: cross-review
+- **Notes**: Coalesce merged temporal-asymmetry-remembering-anticipating into temporal-void. The following active files reference the archived article and may need wikilink updates: consciousness-and-the-ontology-of-temporal-becoming, phenomenology-of-anticipation, prospective-memory, temporal-consciousness, voids-memory-void research, past-self-void, episodic-memory, memory-void, voids index, and several other research/review files.
+- **Output**: None -- Context: Update references to coalesced temporal-asymmetry article
+
+### ✓ 2026-03-17: Coalesce attention/interface articles in topics/ (4 articles → 1-2)
+- **Type**: coalesce
+- **Notes**: Topics section is 20 over its 200-article cap. Four articles cover attention as consciousness's interface mechanism: attention-as-selection-interface.md (3306 words), attention-consciousness-dissociation.md (2599 words), attention-schema-theory-critique.md (2887 words), attention-disorders-and-quantum-interface.md (2255 words). Merge into a comprehensive treatment of attention as the selection interface with dissociation evidence, AST critique, and clinical cases. Saves 2-3 article slots.
+- **Output**: Coalesce attention/interface articles in topics/ (4 articles → 1-2)
+
+Task context:
+Topics section is 20 over its 200-article cap. Four articles cover attention as consciousness's interface mechanism: attention-as-selection-interface.md (3306 words), attention-consciousness-dissociation.md (2599 words), attention-schema-theory-critique.md (2887 words), attention-disorders-and-quantum-interface.md (2255 words). Merge into a comprehensive treatment of attention as the selection interface with dissociation evidence, AST critique, and clinical cases. Saves 2-3 article slots.
+
+### ✓ 2026-03-17: Coalesce emotion/dualism articles in topics/ (4 articles → 1)
+- **Type**: coalesce
+- **Notes**: Topics section is 20 over its 200-article cap. Four articles overlap on emotional consciousness as evidence for dualism: emotional-consciousness.md (3618 words), emotion-as-evidence-for-dualism.md (2270 words), philosophy-of-emotion-under-dualism.md (2757 words), void-of-self-knowledge-in-emotion.md (2184 words). Merge into a unified article on emotion, valence irreducibility, and dualist implications. Saves 3 article slots.
+- **Output**: Coalesce emotion/dualism articles in topics/ (4 articles → 1)
+
+Task context:
+Topics section is 20 over its 200-article cap. Four articles overlap on emotional consciousness as evidence for dualism: emotional-consciousness.md (3618 words), emotion-as-evidence-for-dualism.md (2270 words), philosophy-of-emotion-under-dualism.md (2757 words), void-of-self-knowledge-in-emotion.md (2184 words). Merge into a unified article on emotion, valence irreducibility, and dualist implications. Saves 3 article slots.
 
 ### ✓ 2026-03-17: Coalesce aesthetics articles in topics/ (4 articles → 1)
 - **Type**: coalesce

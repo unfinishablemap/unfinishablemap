@@ -76,7 +76,7 @@ Verified 6 inbound links exist:
 1. [attention-motor-quantum-interface](/concepts/attention-as-interface/)
 2. [dopamine-selection-interface](/concepts/motor-selection/)
 3. [motor-selection](/concepts/motor-selection/)
-4. [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/)
+4. [attention-disorders-and-quantum-interface](/topics/attention-and-the-consciousness-interface/)
 5. [voluntary-attention](/concepts/attention-as-interface/)
 6. [mental-effort](/concepts/mental-effort/)
 

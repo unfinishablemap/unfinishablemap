@@ -39,7 +39,7 @@ title: Philosophy of Perception Under Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[consciousness-as-perceptual-architect]]'
-- '[[attention-as-selection-interface]]'
+- '[[attention-and-the-consciousness-interface]]'
 - '[[predictive-processing-and-the-maps-framework]]'
 ---
 
@@ -89,7 +89,7 @@ This aligns with [perceptual constancy](/topics/consciousness-as-perceptual-arch
 
 The strongest evidence for this participatory model comes from what happens when perception breaks down. Eigengrau—the dark grey perceived in complete darkness—and phosphenes show the interface generating phenomenal content independently of sensory input. Charles Bonnet hallucinations in visual loss produce detailed imagery when the transmission channel narrows. The [reconstruction-paradox](/voids/reconstruction-paradox/) reveals that the brain operates in two distinct modes: editing some signals (filling the blind spot, suppressing saccadic blur) while faithfully transmitting others (optical blur, tinnitus). Both modes produce qualitatively distinct experiences, implying a conscious recipient whose experience is being shaped—precisely the active participant that dualism predicts.
 
-The [attentional selection](/topics/attention-as-selection-interface/) framework extends this further. Attention determines which sensory signals reach consciousness and in what form. If attention is the interface where consciousness selects among competing neural representations, then the content of perception is partly determined by consciousness itself. The perceiver is not a passive screen on which the world projects images but an active participant in constituting what appears.
+The [attentional selection](/topics/attention-and-the-consciousness-interface/) framework extends this further. Attention determines which sensory signals reach consciousness and in what form. If attention is the interface where consciousness selects among competing neural representations, then the content of perception is partly determined by consciousness itself. The perceiver is not a passive screen on which the world projects images but an active participant in constituting what appears.
 
 ### Blindsight and the Necessity of Consciousness for Perception
 
@@ -132,7 +132,7 @@ The Unfinishable Map's [tenets](/tenets/) reshape the philosophy of perception i
 ## Further Reading
 
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)
-- [attention-as-selection-interface](/topics/attention-as-selection-interface/)
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
 - [blindsight](/concepts/blindsight/)
 - [qualia](/concepts/qualia/)
 - [explanatory-gap](/concepts/explanatory-gap/)

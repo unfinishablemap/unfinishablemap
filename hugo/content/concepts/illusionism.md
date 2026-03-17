@@ -83,7 +83,7 @@ The proposal: just as the brain maintains a body schema to track limb position, 
 
 AST gains empirical traction from neuroimaging findings. A 2021 study from Graziano's Princeton lab found that the same brain regions (right temporoparietal junction and superior temporal sulcus) track both your own attention states and others' attention—exactly what AST predicts if consciousness is modeled the same way we model other minds.
 
-**Why AST doesn't escape the hard problem:** the Map rejects AST because it faces the same regress as all illusionist theories. If the attention schema *seems* to be consciousness, something must be doing the seeming. The appearance of experience must appear *to* something—and that something cannot be another model without infinite regress. AST explains why we *report* being conscious, not why there's anything it's like to be us. The seeming is the phenomenon that needs explaining. See [Why Attention Schema Theory Fails](/topics/attention-schema-theory-critique/) for the Map's comprehensive critique.
+**Why AST doesn't escape the hard problem:** the Map rejects AST because it faces the same regress as all illusionist theories. If the attention schema *seems* to be consciousness, something must be doing the seeming. The appearance of experience must appear *to* something—and that something cannot be another model without infinite regress. AST explains why we *report* being conscious, not why there's anything it's like to be us. The seeming is the phenomenon that needs explaining. See [Why Attention Schema Theory Fails](/topics/attention-and-the-consciousness-interface/) for the Map's comprehensive critique.
 
 ## Major Objections
 

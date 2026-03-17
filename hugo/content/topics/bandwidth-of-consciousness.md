@@ -49,7 +49,7 @@ title: The Bandwidth of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[free-will]]'
-- '[[attention-as-selection-interface]]'
+- '[[attention-and-the-consciousness-interface]]'
 ---
 
 Consciousness sits at the centre of a dramatic information asymmetry. Sensory systems deliver roughly 10⁹ bits per second to the brain—a vivid, moving, three-dimensional world of colour, sound, texture, and emotion. Yet conscious influence on behaviour measures at approximately 10 bits per second. The ratio is 100 million to one. The Unfinishable Map treats this asymmetry as a structural signature of the mind-brain interface: consciousness *receives* vast information passively but *acts* through a channel so narrow it can only select among pre-computed options. The bandwidth constraint is not an incidental limitation. It defines the *shape* of the interface, distinguishing what consciousness does from what the brain does, and exposing why production models of consciousness face a problem that [filter](/concepts/filter-theory/) and [interactionist](/concepts/interactionist-dualism/) models handle naturally.
@@ -195,7 +195,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 ## Further Reading
 
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — Whether 10 bits/second suffices for complex behaviour
-- [attention-as-selection-interface](/topics/attention-as-selection-interface/) — How the interface operates through attention and motor planning
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — How the interface operates through attention and motor planning
 - [attentional-economics](/concepts/attentional-economics/) — Agency as allocation of the scarce conscious resource
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The coupling law connecting conscious states to physical selections
 - [filter-theory](/concepts/filter-theory/) — The filter/transmission model and the bandwidth as filter parameter

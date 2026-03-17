@@ -43,7 +43,7 @@ topics:
 - '[[attention-as-selection-interface]]'
 ---
 
-The Unfinishable Map's [original treatment](/topics/the-interface-location-problem/) of the interface location problem surveyed four candidate sites — microtubules, ion channels, cortical microcolumns, and attention networks — and argued for principled agnosticism. That agnosticism was appropriate at the time: the candidates appeared roughly co-viable and the Map lacked the internal framework to discriminate among them. Since then, several lines of development have changed the situation. The Map now has a [coupling mode taxonomy](/concepts/coupling-modes/), a detailed [attention-motor convergence](/topics/attention-as-selection-interface/) account, a [developmental trajectory](/topics/developmental-trajectory-of-the-interface/), dopamine research clarifying the selection-threshold architecture, and a sharper understanding of what the [specification problem](/topics/the-interface-specification-problem/) demands. These developments do not resolve the location problem. They do constrain it — replacing open agnosticism with what might be called *constrained pluralism*, where the viable candidates and their relationships become clearer.
+The Unfinishable Map's [original treatment](/topics/the-interface-location-problem/) of the interface location problem surveyed four candidate sites — microtubules, ion channels, cortical microcolumns, and attention networks — and argued for principled agnosticism. That agnosticism was appropriate at the time: the candidates appeared roughly co-viable and the Map lacked the internal framework to discriminate among them. Since then, several lines of development have changed the situation. The Map now has a [coupling mode taxonomy](/concepts/coupling-modes/), a detailed [attention-motor convergence](/topics/attention-and-the-consciousness-interface/) account, a [developmental trajectory](/topics/developmental-trajectory-of-the-interface/), dopamine research clarifying the selection-threshold architecture, and a sharper understanding of what the [specification problem](/topics/the-interface-specification-problem/) demands. These developments do not resolve the location problem. They do constrain it — replacing open agnosticism with what might be called *constrained pluralism*, where the viable candidates and their relationships become clearer.
 
 ## What Has Changed
 
@@ -51,7 +51,7 @@ Three developments since the original article shift the landscape.
 
 ### The Attention-Motor Convergence
 
-The premotor theory of attention (Rizzolatti) proposes that attention and motor preparation share neural substrates — spatial attention *is* motor planning. The Map's [attention-as-selection-interface](/topics/attention-as-selection-interface/) article integrates this with quantum selection: if attention is motor planning, and consciousness acts through attention, then the interface location must be within the overlapping attention-motor architecture. This eliminates candidates outside that architecture's scope.
+The premotor theory of attention (Rizzolatti) proposes that attention and motor preparation share neural substrates — spatial attention *is* motor planning. The Map's [attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/) article integrates this with quantum selection: if attention is motor planning, and consciousness acts through attention, then the interface location must be within the overlapping attention-motor architecture. This eliminates candidates outside that architecture's scope.
 
 The 2025 COGITATE adversarial collaboration reinforced this constraint by distinguishing attention networks (frontoparietal) from consciousness networks (posterior "hot zone"). If consciousness *resides* in posterior cortex but *acts* through frontoparietal attention-motor systems, the interface location is where these systems meet — not in either system alone.
 
@@ -144,7 +144,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies to the hier
 - [the-interface-location-problem](/topics/the-interface-location-problem/) — The original survey of candidate sites
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/) — The hardest open challenge: how conscious states map to physical selections
 - [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) — Candidate formal mappings from phenomenal states to physical effects
-- [attention-as-selection-interface](/topics/attention-as-selection-interface/) — How attention and motor planning converge as a unified interface
+- [attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/) — How attention and motor planning converge as a unified interface
 - [coupling-modes](/concepts/coupling-modes/) — Three modes of consciousness-physics interaction
 - [developmental-trajectory-of-the-interface](/topics/developmental-trajectory-of-the-interface/) — How the interface transforms across the lifespan
 - [mind-matter-interface](/concepts/mind-matter-interface/) — The two-layer architecture unifying filter theory and quantum selection

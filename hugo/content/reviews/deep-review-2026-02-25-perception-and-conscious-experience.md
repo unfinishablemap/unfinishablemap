@@ -91,7 +91,7 @@ The article had zero inbound links despite being a natural hub for perception-re
 #### Topics (2):
 - [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/) — Added link in opening paragraph and Further Reading
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Added link in explanatory gap section
-- [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) — Added link in opening referencing perceptual dissociations
+- [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/) — Added link in opening referencing perceptual dissociations
 
 ### Cross-links Added
 

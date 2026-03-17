@@ -207,7 +207,7 @@ The framework would face serious difficulty if:
 ## Further Reading
 
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How selection integrates with imagination's generative role
-- [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — ADHD, OCD, and meditation deficits reveal selection interface dysfunction
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — ADHD, OCD, and meditation deficits reveal selection interface dysfunction
 - [psychophysical-coupling](/concepts/psychophysical-laws/) — Candidate coupling laws and bandwidth constraints
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and Stapp's mechanism
 - [voluntary attention](/concepts/attention-as-interface/) — The willed/instructed distinction

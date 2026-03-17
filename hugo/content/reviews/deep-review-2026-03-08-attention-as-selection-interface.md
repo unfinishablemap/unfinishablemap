@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-08
-**Article**: [Attention as the Selection Interface](/topics/attention-as-selection-interface/)
+**Article**: [Attention as the Selection Interface](/topics/attention-and-the-consciousness-interface/)
 **Previous review**: [2026-03-04](/reviews/deep-review-2026-03-04-attention-as-selection-interface/)
 
 ## Review Context
@@ -53,7 +53,7 @@ All six adversarial personas engaged. No new concerns beyond those identified in
 - Trimmed Dualism tenet section, threshold crossing paragraph, dopamine intro, and Other Proposals for length neutrality
 
 ### Cross-links Added
-- [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) (related_articles + Further Reading)
+- [attention-disorders-and-quantum-interface](/topics/attention-and-the-consciousness-interface/) (related_articles + Further Reading)
 
 ## Remaining Items
 

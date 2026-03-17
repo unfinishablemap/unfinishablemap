@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-10
-**Article**: [Why Attention Schema Theory Fails](/topics/attention-schema-theory-critique/)
+**Article**: [Why Attention Schema Theory Fails](/topics/attention-and-the-consciousness-interface/)
 **Previous review**: [2026-02-04](/reviews/deep-review-2026-02-04-attention-schema-theory-critique/)
 
 ## Pessimistic Analysis Summary

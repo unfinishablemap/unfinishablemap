@@ -84,7 +84,7 @@ All six adversarial personas reviewed. No new issues beyond those documented in 
 ### Cross-links Added (to other articles pointing to collapse-and-time)
 
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — inline link in No Many Worlds tenet section + Further Reading entry
-- [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — inline link in Minimal Quantum Interaction tenet section
+- [temporal-asymmetry-remembering-anticipating](/voids/temporal-void/) — inline link in Minimal Quantum Interaction tenet section
 - [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/) — Further Reading entry
 - [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) — Further Reading entry
 

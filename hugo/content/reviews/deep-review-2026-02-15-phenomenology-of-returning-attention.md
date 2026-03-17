@@ -56,7 +56,7 @@ None. Citations are accurate, no misattributions detected, required sections pre
 - Added empirical testability acknowledgment (three accounts predict similar data)
 - Softened quantum Zeno reference to avoid overemphasis
 - Improved MWI engagement to address within-branch selection argument
-- Added cross-link to [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) in Phase One
+- Added cross-link to [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/) in Phase One
 - Added cross-link to [introspection](/concepts/introspection/) in Meditator's Laboratory section
 - Added cross-link to [neurophenomenology](/concepts/neurophenomenology/) in convergence discussion
 - Qualified "Everyone does it daily" to "Most people do it daily"
@@ -65,7 +65,7 @@ None. Citations are accurate, no misattributions detected, required sections pre
 - Strengthened "What Returns?" inference with reasoning about bundled co-occurrence
 
 ### Cross-links Added
-- [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) — Phase One as case of dissociation in miniature
+- [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/) — Phase One as case of dissociation in miniature
 - [introspection](/concepts/introspection/) — meditators as expert introspective observers
 - [neurophenomenology](/concepts/neurophenomenology/) — supporting evidence for convergent phenomenological reports
 

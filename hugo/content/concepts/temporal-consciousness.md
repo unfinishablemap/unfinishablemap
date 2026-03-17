@@ -67,7 +67,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[temporal-structure-consciousness-2026-01-14]]'
-- '[[temporal-asymmetry-remembering-anticipating]]'
+- '[[temporal-void]]'
 - '[[specious-present-temporal-experience-2026-01-16]]'
 - '[[consciousness-working-memory-2026-01-17]]'
 - '[[consciousness-time-perception-2026-01-14]]'
@@ -143,7 +143,7 @@ Temporal perception is distributed and multi-scale: the SMA, prefrontal cortex, 
 
 ## Mental Time Travel and the Extended Self
 
-[Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) extends temporal phenomenology beyond the specious present. Memory carries a "feeling of pastness"—a genuine temporal quale—while future simulation lacks equivalent phenomenal weight. This [asymmetry](/voids/temporal-asymmetry-remembering-anticipating/) may be conceptually necessary, since pre-experience would require the pastness quale applied to something that hasn't happened. [Prospective memory](/concepts/prospective-memory/) extends this into the future—conscious simulation of possible futures causally shapes present decisions, supporting [Bidirectional Interaction](/tenets/#bidirectional-interaction).
+[Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) extends temporal phenomenology beyond the specious present. Memory carries a "feeling of pastness"—a genuine temporal quale—while future simulation lacks equivalent phenomenal weight. This [asymmetry](/voids/temporal-void/) may be conceptually necessary, since pre-experience would require the pastness quale applied to something that hasn't happened. [Prospective memory](/concepts/prospective-memory/) extends this into the future—conscious simulation of possible futures causally shapes present decisions, supporting [Bidirectional Interaction](/tenets/#bidirectional-interaction).
 
 ## Temporal Unity and Its Disruption
 

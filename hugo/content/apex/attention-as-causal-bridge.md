@@ -10,10 +10,7 @@ apex_sources:
 - concepts/attentional-economics
 - concepts/attention-schema-theory
 - topics/structure-of-attention
-- topics/attention-schema-theory-critique
-- topics/attention-disorders-and-quantum-interface
-- topics/attention-consciousness-dissociation
-- topics/attention-as-selection-interface
+- topics/attention-and-the-consciousness-interface
 - topics/phenomenology-of-returning-attention
 - voids/attention-created-voids
 apex_thesis: Attention is the causal bridge between consciousness and the physical
@@ -43,10 +40,7 @@ related_articles:
 title: Attention as the Causal Bridge
 topics:
 - '[[structure-of-attention]]'
-- '[[attention-consciousness-dissociation]]'
-- '[[attention-as-selection-interface]]'
-- '[[attention-disorders-and-quantum-interface]]'
-- '[[attention-schema-theory-critique]]'
+- '[[attention-and-the-consciousness-interface]]'
 - '[[phenomenology-of-returning-attention]]'
 ---
 
@@ -56,7 +50,7 @@ The argument proceeds through three layers. First, the empirical case: attention
 
 ## Attention Is Not Consciousness
 
-The foundation is a dissociation. [Attention and consciousness come apart](/topics/attention-consciousness-dissociation/) in ways that standard theories struggle to accommodate. Koch and Tsuchiya's (2007) framework identifies four combinations: attention with consciousness (normal focused awareness), attention without consciousness (blindsight, masked priming), consciousness without attention (peripheral phenomenal overflow), and neither (dreamless sleep).
+The foundation is a dissociation. [Attention and consciousness come apart](/topics/attention-and-the-consciousness-interface/) in ways that standard theories struggle to accommodate. Koch and Tsuchiya's (2007) framework identifies four combinations: attention with consciousness (normal focused awareness), attention without consciousness (blindsight, masked priming), consciousness without attention (peripheral phenomenal overflow), and neither (dreamless sleep).
 
 Most cognitive dissociations are interesting but theoretically tame—two brain systems can operate independently. This one is different because one side involves the [hard problem](/topics/hard-problem-of-consciousness/). Consciousness without attention means phenomenal experience persisting beyond the reach of cognitive access—Ned Block's analysis of iconic memory experiments showed subjects seeing all letters in a display though they could report only 3-4. A 2025 *eLife* study (Nartker et al.) strengthened the case: inattentionally blind participants retain visual sensitivity to stimuli they deny noticing. The 2025 adversarial COGITATE study (Melloni et al. 2025) found that neither Global Workspace Theory nor Integrated Information Theory was vindicated by pre-registered empirical tests. The leading materialist frameworks cannot accommodate the full pattern.
 
@@ -72,7 +66,7 @@ The Map's interpretation: consciousness and attention are ontologically distinct
 
 **Willed attention** (~300ms): you decide to focus on a difficult passage, to resist distraction, to hold a complex thought in mind. Three neural markers distinguish this from instructed attention—frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment. The salience network acts as a switch, routing processing between stimulus-driven and endogenous control.
 
-The willed mode is where the Map locates genuine conscious contribution. The 300ms timescale is shared with motor selection—Thura and Cisek's (2014) urgency-gating work shows that attention and action share a common selection architecture. This convergence is not coincidental. [Rizzolatti's premotor theory of attention](/topics/attention-as-selection-interface/) demonstrates that attending and preparing to act share neural substrates—Wise and Murray (2022) argue the entirety of prefrontal cortex is fundamentally premotor. Consciousness doesn't need two separate interfaces for thought and action; it has one unified selection mechanism.
+The willed mode is where the Map locates genuine conscious contribution. The 300ms timescale is shared with motor selection—Thura and Cisek's (2014) urgency-gating work shows that attention and action share a common selection architecture. This convergence is not coincidental. [Rizzolatti's premotor theory of attention](/topics/attention-and-the-consciousness-interface/) demonstrates that attending and preparing to act share neural substrates—Wise and Murray (2022) argue the entirety of prefrontal cortex is fundamentally premotor. Consciousness doesn't need two separate interfaces for thought and action; it has one unified selection mechanism.
 
 ## Why Effort Matters
 
@@ -108,7 +102,7 @@ The witness mode—observing without selecting—represents a distinct economic 
 
 ## Disorders as Component Failures
 
-Clinical evidence illuminates the interface by showing what happens when specific parts break. [ADHD, attention fatigue, depression, and meditation deficits](/topics/attention-disorders-and-quantum-interface/) each reveal different components of the attention-selection system.
+Clinical evidence illuminates the interface by showing what happens when specific parts break. [ADHD, attention fatigue, depression, and meditation deficits](/topics/attention-and-the-consciousness-interface/) each reveal different components of the attention-selection system.
 
 ADHD primarily impairs willed attention while leaving exogenous and instructed attention relatively intact. Stimulant medications recalibrate the dopamine-mediated selection threshold without altering phenomenal experience. The three-layer architecture becomes visible: the person with ADHD is fully conscious but struggling to direct that consciousness effectively—the interface is compromised, not consciousness itself.
 
@@ -134,7 +128,7 @@ The three phases exemplify bidirectional interaction within a single attentional
 
 [Attention Schema Theory](/concepts/attention-schema-theory/) offers the most developed materialist alternative. Graziano proposes that consciousness is the brain's simplified model of its own attention—an "attention schema" analogous to the body schema.
 
-[The Map rejects this](/topics/attention-schema-theory-critique/), and the reasons are structural. The regress problem: if consciousness is a model, what experiences the model? As Tallis puts it, "misrepresentation presupposes presentation." The effort problem: AST must explain not just that effort is *tracked* but that it *feels* costly—a thermostat tracks temperature without feeling hot. The willed-instructed distinction: both involve attention, yet willed attention recruits additional neural resources in ways AST's schema framework doesn't predict. The social cognition reversal: we model others' attention without generating their consciousness, so modeling attention is insufficient for consciousness. The contemplative evidence: [witness consciousness](/concepts/witness-consciousness/)—awareness without attentional engagement—contradicts AST's identification of consciousness with attention modeling.
+[The Map rejects this](/topics/attention-and-the-consciousness-interface/), and the reasons are structural. The regress problem: if consciousness is a model, what experiences the model? As Tallis puts it, "misrepresentation presupposes presentation." The effort problem: AST must explain not just that effort is *tracked* but that it *feels* costly—a thermostat tracks temperature without feeling hot. The willed-instructed distinction: both involve attention, yet willed attention recruits additional neural resources in ways AST's schema framework doesn't predict. The social cognition reversal: we model others' attention without generating their consciousness, so modeling attention is insufficient for consciousness. The contemplative evidence: [witness consciousness](/concepts/witness-consciousness/)—awareness without attentional engagement—contradicts AST's identification of consciousness with attention modeling.
 
 What AST gets right—and the Map acknowledges this—is that the brain almost certainly constructs models of its own attentional processes. These models explain access consciousness and reportability. They do not explain phenomenal consciousness.
 
@@ -191,9 +185,6 @@ This apex article synthesises:
 - [Attentional Economics](/concepts/attentional-economics/) — Agency as the allocation of scarce attentional resources
 - [Attention Schema Theory](/concepts/attention-schema-theory/) — The primary materialist rival, presented and evaluated
 - [The Structure of Attention](/topics/structure-of-attention/) — The three-mode architecture identifying where consciousness contributes
-- [Why Attention Schema Theory Fails](/topics/attention-schema-theory-critique/) — Extended argument against the leading materialist alternative
-- [Attention Disorders and the Quantum Interface](/topics/attention-disorders-and-quantum-interface/) — Clinical evidence illuminating the interface's components
-- [The Attention-Consciousness Dissociation](/topics/attention-consciousness-dissociation/) — Empirical foundation for the distinctness of attention and consciousness
-- [Attention as the Selection Interface](/topics/attention-as-selection-interface/) — Technical detail on the unified attention-motor selection mechanism
+- [Attention and the Consciousness Interface](/topics/attention-and-the-consciousness-interface/) — Dissociation evidence, selection mechanisms, clinical evidence, and the AST critique unified
 - [Phenomenology of Returning Attention](/topics/phenomenology-of-returning-attention/) — Micro-phenomenological analysis of bidirectional interaction
 - [Attention-Created Voids](/voids/attention-created-voids/) — The structural limits of attentional engagement

@@ -1097,7 +1097,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-05 17:58 UTC - deep-review
 - **Status**: Success
-- **File**: [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/)
+- **File**: [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/)
 - **Word count**: 1871 → 1889 (+18)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3
@@ -1109,7 +1109,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-05 17:43 UTC - expand-topic
 - **Status**: Success
 - **Topic**: attention-consciousness mechanisms
-- **Output**: [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/)
+- **Output**: [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/)
 - **Word count**: 1871
 - **Based on research**: Yes — [attention-consciousness-mechanisms-2026-01-15](/research/attention-consciousness-mechanisms-2026-01-15/), [attention-consciousness-relationship-2026-01-15](/research/attention-consciousness-relationship-2026-01-15/), [attention-as-interface-hypothesis-2026-01-16](/research/attention-as-interface-hypothesis-2026-01-16/)
 

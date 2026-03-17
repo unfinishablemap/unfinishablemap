@@ -78,7 +78,7 @@ The [cartography-problem](/voids/cartography-problem/) proof — that a complete
 - **Tenet alignment**: Supports Dualism (temporal unity transcends neural computation), Bidirectional Interaction (conscious temporal structuring of action), No Many Worlds (temporal irreversibility requires definite outcomes)
 
 #### The Dissociation Architecture
-- **Builds on**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/), [blindsight](/concepts/blindsight/), [split-brain-consciousness](/topics/split-brain-consciousness/), [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/), [pain-asymbolia](/concepts/pain-asymbolia/)
+- **Builds on**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/), [blindsight](/concepts/blindsight/), [split-brain-consciousness](/topics/split-brain-consciousness/), [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/), [pain-asymbolia](/concepts/pain-asymbolia/)
 - **Would address**: An apex-level synthesis of what neurological dissociations reveal about interface architecture. Each dissociation disconnects a specific component; taken together, they map the interface's functional anatomy — ascending (sensory), descending (motor/motivational), and bilateral channels
 - **Estimated scope**: Apex article (3000-4000 words)
 - **Tenet alignment**: Supports Dualism and Bidirectional Interaction through empirical evidence

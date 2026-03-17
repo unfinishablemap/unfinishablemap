@@ -130,7 +130,7 @@ If consciousness were [epiphenomenal](/concepts/epiphenomenalism/), flow and non
 
 ### Against Simple Functionalism
 
-Flow challenges accounts that identify consciousness with access or report. During flow, the agent cannot report on their own cognitive processes — the reflective access that supports verbal report has been suspended. A functionalist might respond that consciousness *of the task* is high-access while consciousness *of cognitive processes* is low-access, which is exactly what access-consciousness theory predicts. But the deeper problem is the phenomenal character of the state itself. Flow is not just task-access-conscious — it is among the most *qualitatively vivid* experiences people report. The sheer intensity of the [phenomenal-access dissociation](/topics/attention-consciousness-dissociation/) in flow — maximal experiential richness coinciding with minimal reflective access — strains any account that ties phenomenal consciousness to the functional role of information access.
+Flow challenges accounts that identify consciousness with access or report. During flow, the agent cannot report on their own cognitive processes — the reflective access that supports verbal report has been suspended. A functionalist might respond that consciousness *of the task* is high-access while consciousness *of cognitive processes* is low-access, which is exactly what access-consciousness theory predicts. But the deeper problem is the phenomenal character of the state itself. Flow is not just task-access-conscious — it is among the most *qualitatively vivid* experiences people report. The sheer intensity of the [phenomenal-access dissociation](/topics/attention-and-the-consciousness-interface/) in flow — maximal experiential richness coinciding with minimal reflective access — strains any account that ties phenomenal consciousness to the functional role of information access.
 
 ### For the Selection Framework
 
@@ -152,7 +152,7 @@ Flow fits naturally into the Map's selection framework. Consciousness doesn't ne
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The broader axis between doing and undergoing, where flow occupies a puzzling middle ground
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — What effortful thinking feels like, contrasting with flow's effortlessness
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares the selection interface that flow engages frictionlessly
-- [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) — How attention and consciousness can come apart
+- [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/) — How attention and consciousness can come apart
 - [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — Temporal binding and the structure of the specious present
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — How the body shapes conscious engagement with the world
 - [contemplative-path](/apex/contemplative-path/) — Contemplative practices that cultivate flow-like states

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-04
-**Article**: [Attention Disorders and the Quantum Interface](/topics/attention-disorders-and-quantum-interface/)
+**Article**: [Attention Disorders and the Quantum Interface](/topics/attention-and-the-consciousness-interface/)
 **Previous review**: [2026-02-01](/reviews/deep-review-2026-02-01-attention-disorders-and-quantum-interface/)
 
 ## Review Focus

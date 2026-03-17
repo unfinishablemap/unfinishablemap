@@ -23,7 +23,7 @@ All six source articles were read in full:
 3. [control-theoretic-will](/concepts/control-theoretic-will/) — Will as low-bandwidth control signal
 4. [causal-delegation](/concepts/causal-delegation/) — Physical states delegating causal responsibilities to experiences
 5. [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — Nature and scope of phenomenal influence
-6. [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — Clinical evidence from ADHD, fatigue, OCD, meditation
+6. [attention-disorders-and-quantum-interface](/topics/attention-and-the-consciousness-interface/) — Clinical evidence from ADHD, fatigue, OCD, meditation
 
 ## Origin
 

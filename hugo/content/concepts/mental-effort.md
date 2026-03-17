@@ -108,7 +108,7 @@ The Map does not commit to any particular mechanism. The phenomenological and ne
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) argue there is no phenomenal effort to explain—the "what it's like" of trying is an introspective illusion. Michael Graziano's [Attention Schema Theory](/concepts/attention-schema-theory/) provides a specific mechanism: the brain represents attention as having experiential qualities because that's useful for control. But this faces a regress: if the feeling of effort is an illusion, the *seeming* to feel effort must itself be explained. As Raymond Tallis observes, "misrepresentation presupposes presentation." See [Why Attention Schema Theory Fails](/topics/attention-schema-theory-critique/) for the full argument.
+[Illusionists](/concepts/illusionism/) argue there is no phenomenal effort to explain—the "what it's like" of trying is an introspective illusion. Michael Graziano's [Attention Schema Theory](/concepts/attention-schema-theory/) provides a specific mechanism: the brain represents attention as having experiential qualities because that's useful for control. But this faces a regress: if the feeling of effort is an illusion, the *seeming* to feel effort must itself be explained. As Raymond Tallis observes, "misrepresentation presupposes presentation." See [Why Attention Schema Theory Fails](/topics/attention-and-the-consciousness-interface/) for the full argument.
 
 Contemplative evidence also resists illusionism. If effort were illusory, practice should dissolve it. Instead, meditation *refines* the effort distinction—advanced practitioners report clearer discrimination between effortful and effortless states, not dissolution of the distinction.
 
@@ -152,7 +152,7 @@ The phenomenology of effort provides a datum any account must explain. If contro
 
 - [neuroplasticity](/concepts/neuroplasticity/) — Empirical evidence for consciousness-driven brain change
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Comprehensive treatment of Stapp's quantum Zeno mechanism
-- [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — How ADHD, fatigue, and meditation deficits reveal interface properties
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — How ADHD, fatigue, and meditation deficits reveal interface properties
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Dopamine prepares the selection interface; theta oscillations provide the timing substrate
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer between consciousness and neural systems
 - [structure-of-attention](/topics/structure-of-attention/) — How attention is organized across voluntary, involuntary, and meta-attentional layers

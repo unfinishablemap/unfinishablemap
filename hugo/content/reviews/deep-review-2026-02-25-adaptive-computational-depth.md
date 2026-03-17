@@ -64,7 +64,7 @@ Primary focus: **extended orphan integration**. The previous review added 5 inbo
 1. **[neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/)** — In Policy-Level selection section. Natural connection: coarse-grained selection mirrors adaptive depth.
 2. **[attentional-economics](/concepts/attentional-economics/)** — In bandwidth constraint paragraph. Natural connection: adaptive depth is the flip side of attentional scarcity.
 3. **[phenomenal-depth](/concepts/phenomenal-depth/)** — In Depth, Access, and Training section. Natural connection: trained attention may elicit more phenomenal structure, paralleling adaptive depth's detail-follows-attention principle.
-4. **[attention-as-selection-interface](/topics/attention-as-selection-interface/)** — In Bandwidth Constraint subsection. Natural connection: the selection pattern echoes adaptive computational depth.
+4. **[attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/)** — In Bandwidth Constraint subsection. Natural connection: the selection pattern echoes adaptive computational depth.
 5. **[metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/)** — In Option 4: Information as Interface Medium. Natural connection: informational resolution varies with conscious engagement.
 6. **[machine-consciousness](/topics/machine-consciousness/)** — In Alternative Substrates section. Natural connection: non-computable allocator cannot be replicated computationally.
 

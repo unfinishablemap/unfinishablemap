@@ -27,7 +27,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[evolution-under-dualism]]'
-- '[[attention-as-selection-interface]]'
+- '[[attention-and-the-consciousness-interface]]'
 - '[[dopamine-and-the-unified-interface]]'
 - '[[evolutionary-case-for-mental-causation]]'
 - '[[consciousness-and-the-philosophy-of-biology]]'
@@ -53,7 +53,7 @@ The Map agrees that this account is correct for most of biology. But it identifi
 
 The [evolution under dualism](/topics/evolution-under-dualism/) article introduces [agent-teleology](/concepts/agent-teleology/)—the thesis that conscious beings introduce genuine purpose into nature through their choices. But introducing the concept leaves a crucial question undeveloped: *how* does purpose get realised physically? If consciousness is non-physical, how does genuine intentionality translate into bodily action?
 
-The interface framework answers this. The [attention-as-selection interface](/topics/attention-as-selection-interface/) demonstrates that attention and motor planning share neural substrates. The brain generates competing options in parallel; [dopamine marks](/topics/dopamine-and-the-unified-interface/) which options are salient and modulates the selection threshold; consciousness selects which option crosses threshold and becomes actual. This three-layer architecture—computation, threshold modulation, selection—provides the mechanism through which purpose enters the causal order.
+The interface framework answers this. The [attention-as-selection interface](/topics/attention-and-the-consciousness-interface/) demonstrates that attention and motor planning share neural substrates. The brain generates competing options in parallel; [dopamine marks](/topics/dopamine-and-the-unified-interface/) which options are salient and modulates the selection threshold; consciousness selects which option crosses threshold and becomes actual. This three-layer architecture—computation, threshold modulation, selection—provides the mechanism through which purpose enters the causal order.
 
 Consider the contrast with pure biological function:
 
@@ -110,7 +110,7 @@ The connection between biological teleology and the interface framework draws on
 ## Further Reading
 
 - [evolution-under-dualism](/topics/evolution-under-dualism/) — The broader case for evolutionary compatibility with dualism
-- [attention-as-selection-interface](/topics/attention-as-selection-interface/) — The unified attention-motor selection interface
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — The unified attention-motor selection interface
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares options for conscious selection
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Evidence that consciousness contributes to fitness
 - [consciousness-and-the-philosophy-of-biology](/topics/consciousness-and-the-philosophy-of-biology/) — How biology's conceptual categories interact with consciousness

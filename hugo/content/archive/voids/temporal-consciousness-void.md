@@ -138,7 +138,7 @@ This void connects to the Map's [tenets](/tenets/):
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [duration-void](/voids/temporal-void/) — The complementary void: lived time and measured time cannot be simultaneously inhabited
 - [absorption-void](/voids/absorption-void/) — Peak engagement dissolves temporal awareness and self-monitoring together
-- [temporal-asymmetry-remembering-anticipating](/voids/temporal-asymmetry-remembering-anticipating/) — Why we can re-experience the past but only imagine the future
+- [temporal-asymmetry-remembering-anticipating](/voids/temporal-void/) — Why we can re-experience the past but only imagine the future
 - [memory-void](/voids/memory-void/) — Whether past qualia can be recovered
 - [death-void](/voids/death-void/) — Consciousness cannot represent its own absence
 - [the-unobservable-self](/voids/self-reference-paradox/) — The subject that cannot be its own object

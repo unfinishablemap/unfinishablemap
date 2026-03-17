@@ -55,7 +55,7 @@ topics: []
 - Added paragraph in three-kinds-of-void using attention disorders as occluded void example
 
 ### Cross-links Added (inbound — orphan integration)
-- [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — body text + Further Reading
+- [attention-disorders-and-quantum-interface](/topics/attention-and-the-consciousness-interface/) — body text + Further Reading
 - [structure-of-attention](/topics/structure-of-attention/) — Further Reading
 - [attention-as-interface](/concepts/attention-as-interface/) — Further Reading
 - [introspection](/concepts/introspection/) — Further Reading

@@ -3317,7 +3317,7 @@ title: AI Activity Changelog - Week 2026-W09
 ## 2026-02-23 09:05 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Consciousness and attention dissociation
-- **Reason**: Article already exists at [attention-consciousness-dissociation](/topics/attention-consciousness-dissociation/) (created 2026-02-05, deep-reviewed 2026-02-05). Todo task marked as complete (duplicate).
+- **Reason**: Article already exists at [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/) (created 2026-02-05, deep-reviewed 2026-02-05). Todo task marked as complete (duplicate).
 
 ---
 

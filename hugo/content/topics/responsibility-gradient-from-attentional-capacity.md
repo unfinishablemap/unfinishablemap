@@ -26,7 +26,7 @@ last_deep_review: 2026-02-24 00:51:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[attention-disorders-and-quantum-interface]]'
+- '[[attention-and-the-consciousness-interface]]'
 - '[[consciousness-and-causal-powers]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 title: 'The Responsibility Gradient: From Attentional Capacity to Moral Desert'
@@ -169,7 +169,7 @@ The moral implications extend in both directions. Where most discussions of grad
 - [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) — How external pressure constrains conscious agency
 - [control-theoretic-will](/concepts/control-theoretic-will/) — Will as low-bandwidth controller, formalising the selection architecture
 - [attention-as-interface](/concepts/attention-as-interface/) — Why attention serves as consciousness's interface with matter
-- [attention-disorders-and-quantum-interface](/topics/attention-disorders-and-quantum-interface/) — What attentional impairments reveal about the interface
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — What attentional impairments reveal about the interface
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — Responsiveness to reasons as a condition for responsibility
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The phenomenological structure of the agency-passivity spectrum
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Existentialist perspective on how consciousness engages with selection

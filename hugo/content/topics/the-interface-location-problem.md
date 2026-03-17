@@ -40,7 +40,7 @@ title: The Interface Location Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[topics/free-will]]'
-- '[[attention-as-selection-interface]]'
+- '[[attention-and-the-consciousness-interface]]'
 ---
 
 If consciousness interfaces with the brain at quantum indeterminacies — as The Unfinishable Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds — a natural question follows: *where in the brain* does this interface operate? Multiple candidate sites have been proposed, each with distinct mechanisms, timescales, and empirical support. The interface location problem asks which of these sites actually serves as the point of contact between consciousness and neural activity, and whether the question even has a single answer.
@@ -113,7 +113,7 @@ Three developments have narrowed the field since the initial candidate survey.
 
 ### The Attention-Motor Convergence
 
-The premotor theory of attention (Rizzolatti) proposes that attention and motor preparation share neural substrates — spatial attention *is* motor planning. The Map's [attention-as-selection-interface](/topics/attention-as-selection-interface/) article integrates this with quantum selection: if attention is motor planning, and consciousness acts through attention, then the interface location must be within the overlapping attention-motor architecture. This eliminates candidates outside that architecture's scope.
+The premotor theory of attention (Rizzolatti) proposes that attention and motor preparation share neural substrates — spatial attention *is* motor planning. The Map's [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) article integrates this with quantum selection: if attention is motor planning, and consciousness acts through attention, then the interface location must be within the overlapping attention-motor architecture. This eliminates candidates outside that architecture's scope.
 
 The 2025 COGITATE adversarial collaboration reinforced this constraint by distinguishing attention networks (frontoparietal) from consciousness networks (posterior "hot zone"). If consciousness *resides* in posterior cortex but *acts* through frontoparietal attention-motor systems, the interface location is where these systems meet — not in either system alone.
 
@@ -196,7 +196,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies to the hier
 
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/) — The hardest open challenge: how conscious states map to physical selections
 - [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) — Candidate formal mappings from phenomenal states to physical effects
-- [attention-as-selection-interface](/topics/attention-as-selection-interface/) — How attention and motor planning converge as a unified interface
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — How attention and motor planning converge as a unified interface
 - [coupling-modes](/concepts/coupling-modes/) — Three modes of consciousness-physics interaction
 - [developmental-trajectory-of-the-interface](/topics/developmental-trajectory-of-the-interface/) — How the interface transforms across the lifespan
 - [mind-matter-interface](/concepts/mind-matter-interface/) — The two-layer architecture unifying filter theory and quantum selection

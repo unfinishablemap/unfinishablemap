@@ -31,7 +31,7 @@ related_articles:
 title: The Constitutive Exclusion
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[against-materialism]]'
+- '[[arguments-against-materialism]]'
 ---
 
 When consciousness partly constitutes reality rather than merely observing it, a structural exclusion arises: the observer can never access reality independent of their own constitutive contribution. The Unfinishable Map's [observation-void](/voids/observation-void/) describes how studying consciousness transforms what is studied. The constitutive exclusion cuts deeper. There is no pre-observation state of affairs to recover, because consciousness is already implicated in the existence of what it encounters. The distinction is between "looking changes what you see" and "what you see was never separate from your looking."

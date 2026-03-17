@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-05
-**Article**: [The Attention-Consciousness Dissociation](/topics/attention-consciousness-dissociation/)
+**Article**: [The Attention-Consciousness Dissociation](/topics/attention-and-the-consciousness-interface/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

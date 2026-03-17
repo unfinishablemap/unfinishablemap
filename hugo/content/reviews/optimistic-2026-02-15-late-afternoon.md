@@ -160,5 +160,5 @@ The tenet-generated voids article is the Map's most philosophically sophisticate
 
 - [tenets](/tenets/) — The five foundational commitments
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's core position
-- [attention-as-selection-interface](/topics/attention-as-selection-interface/) — The most developed mechanism article
+- [attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/) — The most developed mechanism article
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — The Map's most philosophically self-aware piece

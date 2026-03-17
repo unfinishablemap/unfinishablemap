@@ -23,7 +23,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[brain-specialness-boundary]]'
-- '[[attention-as-selection-interface]]'
+- '[[attention-and-the-consciousness-interface]]'
 - '[[the-interface-location-problem]]'
 - '[[embodied-consciousness-and-the-interface]]'
 - '[[pairing-problem]]'
@@ -57,7 +57,7 @@ Sadtler et al. (2014) demonstrated this directly. They studied which neural acti
 
 Golub et al. (2018) showed that BCI learning follows the same consolidation trajectory as natural motor learning: initial rapid improvement, gradual refinement, and overnight consolidation during sleep. The same neural plasticity mechanisms—Hebbian learning, synaptic potentiation, cortical reorganisation—underwrite both natural and BCI motor skill.
 
-This matters for the Map's framework. Consciousness isn't reaching into the computer. Consciousness is doing what it always does—[selecting among competing neural patterns](/concepts/consciousness-selecting-neural-patterns/) through the [attention-motor selection interface](/topics/attention-as-selection-interface/)—and the computer happens to be reading those patterns and acting on them. The interface boundary hasn't moved. The decoder has been placed *inside* the boundary, reading signals that consciousness was already producing.
+This matters for the Map's framework. Consciousness isn't reaching into the computer. Consciousness is doing what it always does—[selecting among competing neural patterns](/concepts/consciousness-selecting-neural-patterns/) through the [attention-motor selection interface](/topics/attention-and-the-consciousness-interface/)—and the computer happens to be reading those patterns and acting on them. The interface boundary hasn't moved. The decoder has been placed *inside* the boundary, reading signals that consciousness was already producing.
 
 ## The Sensory Feedback Loop
 
@@ -134,7 +134,7 @@ None of these has been demonstrated. Current BCI evidence is consistent with the
 ## Further Reading
 
 - [brain-specialness-boundary](/topics/brain-specialness-boundary/) — Why consciousness biases outcomes in the brain, not external systems
-- [attention-as-selection-interface](/topics/attention-as-selection-interface/) — The unified attention-motor interface where consciousness acts
+- [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — The unified attention-motor interface where consciousness acts
 - [the-interface-location-problem](/topics/the-interface-location-problem/) — Where in the brain does the interface reside?
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — How embodiment shapes the interface
 - [pairing-problem](/concepts/pairing-problem/) — Why *this* mind pairs with *this* brain
