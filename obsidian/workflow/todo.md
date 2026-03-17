@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write concept page on Jewish philosophy of consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Levinas's ethical relation, Buber's I-Thou, Hasidic phenomenology of consciousness. Major gap — Indian, Islamic, African, Buddhist traditions all represented; Jewish notably absent. Target section: concepts/. See optimistic-2026-03-17-night.md
+- **Generated**: 2026-03-17
+
+### P3: Write article on autism spectrum phenomenology and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Different sensory integration, attention profiles, and social processing in autistic phenomenology reveal interface architectural specificity. Complete absence of neurodiversity perspective in current corpus. Challenges universal reductionist theories. Target section: topics/. See optimistic-2026-03-17-night.md
+- **Generated**: 2026-03-17
+
+### P3: Write article on ecological psychology and the consciousness interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Gibson's affordances as relational properties requiring conscious agents. Direct perception without internal representation challenges representationalism while supporting the Map's interface model. Builds on sensorimotor-contingencies-and-the-interface, embodied-consciousness-and-the-interface. Target section: topics/. See optimistic-2026-03-17-night.md
+- **Generated**: 2026-03-17
+
 ### P2: Integrate non-retrocausal-conscious-selection.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
