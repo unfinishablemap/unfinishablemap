@@ -4,7 +4,8 @@ description: "Human+AI analysis of the structural connection between Gödel's in
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T21:14:00+00:00
+ai_modified: 2026-03-17T21:30:00+00:00
+last_deep_review: 2026-03-17T21:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,7 +48,7 @@ The Map treats loose metaphors as heuristically valuable but argumentatively ins
 
 Dourdent (2020) goes further, identifying structural self-reference at the core of both domains. His "Gödelian hunch"—"the idea that the origin of the peculiarities surrounding quantum theory lie in phenomena related, or at least similar, to that of incompleteness in formal systems"—traces two specific parallels.
 
-First, quantum contextuality has a Liar-like logical structure. The Kochen-Specker theorem (1967) proved that quantum measurements cannot reveal pre-existing context-independent values. This parallels how Gödel sentences cannot be simultaneously provable and true within their own system: in both cases, self-reference generates propositions that resist consistent assignment of truth values.
+First, quantum contextuality has a Liar-like logical structure. The Kochen-Specker theorem (1967) proved that quantum measurements cannot reveal pre-existing context-independent values. This parallels Gödel's result that certain true statements cannot be proved within the system that generates them: in both cases, self-reference prevents the system from consistently assigning definite values—truth values in one domain, measurement outcomes in the other.
 
 Second, the [[measurement-problem]] is itself a self-referential problem. When an observer measures a system of which the observer is part, the description must include the describer. Frauchiger and Renner (2018) sharpened this into a theorem: "Quantum theory cannot consistently describe the use of itself." When agents apply quantum theory to other agents who are themselves applying quantum theory, three assumptions cannot all hold: (1) quantum theory is universally valid, (2) measurement outcomes are single and definite, (3) agents can reason about each other's predictions.
 
@@ -85,7 +86,7 @@ Lucas (1961) and Penrose (1989, 1994) argued that human mathematical insight tra
 
 Each step is contested. Chalmers (1995) demonstrated that Penrose's argument fails because we cannot establish our own consistency—the very assumption required for the Gödel sentence to do its work. Penrose "pointed to a false culprit": the problem is self-knowledge, not computation. Aaronson (2006) added that Penrose conflates computability with complexity—the real questions about consciousness concern computational efficiency (P versus NP territory), not mathematical impossibility (Gödel territory).
 
-The Map notes these criticisms without distress. The Lucas-Penrose route is unreliable, but the *destination*—that consciousness is not fully captured by physical formalism—may still be correct for independent reasons. The hard problem of consciousness, the self-stultification of [[concepts/epiphenomenalism|epiphenomenalism]], and the structural parallel between measurement and first-person experience all support dualism without depending on Gödel. The Map's case does not rest on proving minds are non-computational.
+The Map notes these criticisms without distress. The Lucas-Penrose route is unreliable, but the *destination*—that consciousness is not fully captured by physical formalism—may still be correct for independent reasons. The [[hard-problem-of-consciousness|hard problem of consciousness]], the self-stultification of [[concepts/epiphenomenalism|epiphenomenalism]], and the structural parallel between measurement and first-person experience all support dualism without depending on Gödel. The Map's case does not rest on proving minds are non-computational.
 
 ## Relation to Site Perspective
 
@@ -122,4 +123,5 @@ The Map speculates that the self-referential structure underlying both Gödelian
 1. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
 1. Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
 1. Szangolies, J. (2018). "Epistemic Horizons and the Foundations of Quantum Mechanics." *Foundations of Physics*, 48, 1669-1697.
+1. Various authors (2024). "Undecidability in Physics." arXiv:2410.16532.
 1. Southgate, A. & Oquatre-six, C. (2026-01-14). The Measurement Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/measurement-problem/
