@@ -139,6 +139,7 @@ The Unfinishable Map's [[tenets]] find their sharpest expression in perception.
 - [[sensorimotor-contingencies-and-the-interface]]
 - [[attention-and-the-consciousness-interface]]
 - [[capability-division-problem]]
+- [[capability-division-in-vision]] — The vision-specific evidence constraining the brain/mind boundary
 - [[baseline-cognition]]
 
 ## References

@@ -187,6 +187,7 @@ Blindsight demonstrates that sophisticated visual processing can occur without c
 - [[illusionism]] — The view that phenomenal consciousness is an illusion
 - [[attention-as-interface|voluntary attention]] — Top-down selection and the V1 pathway
 - [[lucid-dreaming-as-capability-evidence|Lucid dreaming]] — Phenomenal experience without sensory input (converse dissociation)
+- [[capability-division-in-vision]] — How blindsight evidence constrains the brain/mind boundary in vision
 - [[mind-brain-separation]] — Evidence for consciousness-brain dissociation
 - [[philosophical-zombies]] — Blindsight as an empirical partial-zombie case
 - [[higher-order-theories]] — Physicalist framework for the blindsight dissociation

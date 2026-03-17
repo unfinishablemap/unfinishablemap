@@ -4,7 +4,7 @@ description: "Vision divides between brain-side computation and mind-side phenom
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T18:25:00+00:00
+ai_modified: 2026-03-17T23:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,12 +21,14 @@ related_articles:
   - "[[binding-void]]"
   - "[[consciousness-as-perceptual-architect]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
+  - "[[neurological-dissociations-as-interface-architecture]]"
+  - "[[conscious-vs-unconscious-processing]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-17T23:29:00+00:00
 ---
 
 Vision is the most data-rich sense and the sharpest test case for interactionist dualism's central operational question: which capabilities belong to the brain and which to the mind? The Unfinishable Map's [[capability-division-problem|capability division problem]] frames this as a genuine void — a boundary that may resist precise drawing. This article examines the specific evidence from visual neuroscience that constrains where the division falls, establishing what the brain demonstrably handles alone and where consciousness appears to make an irreducible contribution.
@@ -55,7 +57,7 @@ If the brain handles so much, what does consciousness contribute? The evidence p
 
 **Perceptual ownership.** Blindsight patients lack ownership of their visual capacity. They do not experience themselves as seeing. Conscious vision is not merely information availability — it is information available *to someone*. This ownership dimension has no obvious neural correlate; it is the subjective pole of the visual process.
 
-**Flexible deployment.** Unconscious visual information guides stereotyped responses: forced-choice discrimination, reflexive reaching, affective priming. Conscious visual information supports open-ended reasoning, novel application, counterfactual thinking about what is seen, and verbal report. The contrast parallels the broader [[baseline-cognition|baseline cognition]] pattern: brain-side processing handles the procedural and automatic, while consciousness enables the flexible and deliberative.
+**Flexible deployment.** Unconscious visual information guides stereotyped responses: forced-choice discrimination, reflexive reaching, affective priming. Conscious visual information supports open-ended reasoning, novel application, counterfactual thinking about what is seen, and verbal report. This maps onto the three [[conscious-vs-unconscious-processing|consciousness-requiring functions]]: durable maintenance (holding visual content for reasoning), novel combinations (applying visual information across contexts), and spontaneous intentional action (reporting or acting on what is seen). The contrast parallels the broader [[baseline-cognition|baseline cognition]] pattern: brain-side processing handles the procedural and automatic, while consciousness enables the flexible and deliberative.
 
 ## The Two-Streams Dissociation as Structural Evidence
 
@@ -63,7 +65,7 @@ The ventral-dorsal dissociation provides the closest thing to a neuroanatomical 
 
 The dissociation is not absolute. The streams interact, and the dorsal stream is not entirely unconscious. But the pattern holds as a first approximation: the brain's action-guidance system (dorsal) can operate with minimal mind-side contribution, while the brain's recognition system (ventral) depends heavily on phenomenal awareness.
 
-For interactionist dualism, this suggests the mind-brain interface is more active in ventral-stream processing — where consciousness contributes the phenomenal unification and ownership that object recognition requires — and less active in dorsal-stream processing, where real-time motor control proceeds on brain-side computation alone.
+For interactionist dualism, this suggests the mind-brain interface is more active in ventral-stream processing — where consciousness contributes the phenomenal unification and ownership that object recognition requires — and less active in dorsal-stream processing, where real-time motor control proceeds on brain-side computation alone. The [[neurological-dissociations-as-interface-architecture|dissociation pattern]] maps this onto specific interface channels: blindsight disconnects the perceptual ascending channel while leaving action-guidance pathways intact.
 
 ## Phillips's Challenge
 
@@ -87,7 +89,7 @@ The Map's tenets constrain how the capability division in vision should be under
 
 The Map interprets the convergent evidence — blindsight limitations, the two-streams dissociation, the perceptual organisation threshold — as sketching the interface's operational profile in the visual domain. Brain-side processing builds a computational representation: features extracted, spatial relations mapped, motor parameters computed. Mind-side contribution transforms this representation into phenomenal experience — visual information that is unified, owned, and flexibly available for reasoning.
 
-The Map speculates that the mind-side contribution in vision may not be an additional processing step but a different mode of existence for information that the brain has already computed. The same visual information that exists as neural activation patterns in the ventral stream exists as phenomenal experience at the interface. This dual existence — computational and phenomenal — may be what interactionist dualism ultimately describes.
+One speculative possibility: the mind-side contribution in vision may not be an additional processing step but a different mode of existence for information that the brain has already computed. The same visual information that exists as neural activation patterns in the ventral stream exists as phenomenal experience at the interface. This dual existence — computational and phenomenal — may be what interactionist dualism ultimately describes.
 
 ## Further Reading
 
@@ -97,6 +99,8 @@ The Map speculates that the mind-side contribution in vision may not be an addit
 - [[baseline-cognition]] — What unconscious processing achieves and where it stops
 - [[perception-and-conscious-experience]] — Vision as paradigm case for consciousness studies
 - [[binding-void]] — Why perceptual binding tracks with conscious awareness
+- [[conscious-vs-unconscious-processing]] — The three functions consciousness enables that vision exemplifies
+- [[neurological-dissociations-as-interface-architecture]] — How vision dissociations map the interface's functional anatomy
 - [[interactionist-dualism]]
 - [[epiphenomenalism]]
 

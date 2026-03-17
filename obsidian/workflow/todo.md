@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate capability-division-in-vision.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Newly created concept article (from expand-topic 2026-03-17) has no inbound links. Add cross-references from related articles: lucid-dreaming-as-capability-evidence, perceptual-fidelity-and-the-interface, interface-heterogeneity, filter-theory-of-consciousness, and the capability-division-problem void. The article establishes vision as the paradigm case for dual-domain capability division.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-17
-
 ### P2: Integrate non-retrocausal-conscious-selection.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -541,6 +534,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Integrate capability-division-in-vision.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created concept article (from expand-topic 2026-03-17) has no inbound links. Add cross-references from related articles: lucid-dreaming-as-capability-evidence, perceptual-fidelity-and-the-interface, interface-heterogeneity, filter-theory-of-consciousness, and the capability-division-problem void. The article establishes vision as the paradigm case for dual-domain capability division.
+- **Output**: obsidian/concepts/capability-division-in-vision.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-17: Cross-review temporal-structure-of-consciousness considering neural-refresh-rates-and-the-smoothness-problem
 - **Type**: cross-review

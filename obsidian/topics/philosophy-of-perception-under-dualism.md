@@ -146,6 +146,7 @@ The Unfinishable Map's [[tenets]] reshape the philosophy of perception in severa
 - [[binding-problem]]
 - [[phenomenal-transparency]]
 - [[perception-and-conscious-experience]]
+- [[capability-division-in-vision]] — The two-streams dissociation and blindsight evidence applied to capability division
 - [[perceptual-failure-and-the-interface]]
 - [[reconstruction-paradox]]
 - [[filter-theory]]
