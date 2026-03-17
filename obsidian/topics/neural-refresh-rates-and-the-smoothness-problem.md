@@ -4,7 +4,7 @@ description: "Discrete neural oscillations at 7-13 Hz clash with smooth consciou
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T22:44:00+00:00
+ai_modified: 2026-03-17T23:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,7 @@ concepts:
   - "[[neurophenomenology]]"
   - "[[explanatory-gap]]"
   - "[[qualia]]"
+  - "[[grain-mismatch]]"
 related_articles:
   - "[[tenets]]"
   - "[[timing-gap-problem]]"
@@ -28,6 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
+last_deep_review: 2026-03-17T23:00:00+00:00
 ---
 
 The brain processes information in discrete bursts. Neural oscillations sample the world at roughly 7–13 Hz in attention-driving alpha rhythms and bind features at ~40 Hz gamma frequencies. Perceptual experiments confirm these biological "refresh rates" — the flash-lag effect, attentional blink, and wagon-wheel illusion under continuous lighting all reveal periodic sampling rather than continuous monitoring. Yet conscious experience feels seamless. There are no flickers, no dropped frames, no visible gaps between perceptual moments. The Unfinishable Map calls this mismatch the *smoothness problem*: how does continuous phenomenal experience arise from a substrate that operates in discrete cycles? The smoothness problem is not a standalone argument for dualism — it is a concrete, empirically grounded instance of the [[explanatory-gap|explanatory gap]] between physical processes and phenomenal character. What makes it distinctive is its specificity: where the hard problem can seem abstract, the smoothness problem points to a measurable property of neural processing (discreteness) and a specific phenomenal feature (continuity) that pull in opposite directions.
@@ -54,7 +56,7 @@ The two-stage model resolves the continuous-versus-discrete debate but opens a d
 
 Against the neuroscientific evidence for discrete processing stands a long phenomenological tradition insisting that experience is fundamentally continuous.
 
-William James described the specious present as standing "like the rainbow on the waterfall, with its own quality unchanged by the events that stream through it." For James, the stream of consciousness was not a metaphor but a description of how experience actually presents itself — as unbroken flow rather than punctuated snapshots.
+William James described consciousness as standing "like the rainbow on the waterfall, with its own quality unchanged by the events that stream through it." For James, the stream of consciousness was not a metaphor but a description of how experience actually presents itself — as unbroken flow rather than punctuated snapshots.
 
 Bergson went further. In *Creative Evolution* (1907), he argued that the intellect works *cinematographically* — taking snapshots of reality and generating the illusion of movement — but that this mechanism distorts genuine *durée* (lived duration). Real temporal experience is continuous and indivisible. Discreteness belongs to intellectual analysis, not to experience itself. On Bergson's view, asking how the brain constructs continuity from discrete inputs gets the question backwards: continuity is primary, and discreteness is an artifact of how we study it.
 
@@ -92,7 +94,7 @@ The illusionist option faces a reflexive difficulty. To call continuity an "illu
 
 John Locke raised a temporal objection against dualism: consciousness is interrupted by sleep, fainting, and anaesthesia, suggesting the soul does not always think and therefore may not be a distinct substance. The smoothness problem inverts Locke's argument. Where Locke pointed to *unexpected gaps* in consciousness to challenge dualism, the smoothness problem points to the *absence of expected gaps* to challenge physicalism.
 
-If consciousness is identical with discrete neural oscillations, we should expect consciousness to exhibit the same discreteness — flickering on and off with each oscillatory cycle, or at least showing perceptible grain at the boundaries between perceptual frames. We do not experience this. The absence of perceptible discreteness in a demonstrably discrete substrate is the inverse of Locke's observation, and it poses the same structural challenge to physicalism that temporal gaps posed to Cartesian dualism.
+If consciousness is identical with discrete neural oscillations — as strict identity theories hold — we should expect consciousness to exhibit the same discreteness, flickering on and off with each oscillatory cycle or at least showing perceptible grain at the boundaries between perceptual frames. We do not experience this. Higher-order and global workspace theories respond that macro-level conscious access need not mirror the micro-level discreteness of its substrate, just as temperature is smooth despite molecular collisions being discrete. Whether this analogy holds depends on whether consciousness has the kind of structural autonomy from its substrate that temperature has from individual molecules — a question that returns us to the broader dispute over functionalism. The absence of perceptible discreteness in a demonstrably discrete substrate is the inverse of Locke's observation, and it poses the same structural challenge to physicalism that temporal gaps posed to Cartesian dualism.
 
 ## Relation to Site Perspective
 
@@ -102,7 +104,7 @@ The smoothness problem aligns with several of the Map's [[tenets]].
 
 **Bidirectional interaction.** If consciousness is non-physical and causally efficacious, one possibility is that the mind actively integrates discrete neural inputs into continuous experience — contributing temporal continuity as a structuring principle rather than passively receiving whatever the brain delivers. This is consistent with the [[tenets#^bidirectional-interaction|bidirectional interaction tenet]], though the smoothness problem does not require this specific mechanism. The problem stands regardless of which account of mind-brain interaction one adopts.
 
-The smoothness problem also connects to the Map's treatment of [[the-binding-problem-a-systematic-treatment|temporal binding]]. Where the binding problem asks how spatially distributed neural representations become unified percepts at a moment, the smoothness problem asks how temporally distributed neural samples become unified experience across time. Both resist physical explanation in structurally similar ways — coordination at the neural level does not entail unity at the experiential level.
+The smoothness problem also connects to the Map's treatment of [[the-binding-problem-a-systematic-treatment|temporal binding]] and the [[grain-mismatch]]. Where the binding problem asks how spatially distributed neural representations become unified percepts at a moment, the smoothness problem asks how temporally distributed neural samples become unified experience across time. The grain mismatch generalises this pattern: phenomenal experience appears smooth and homogeneous across both space and time, while the neural substrate is discrete in both dimensions. All three problems resist physical explanation in structurally similar ways — coordination at the neural level does not entail unity at the experiential level.
 
 ## Further Reading
 
@@ -123,16 +125,3 @@ The smoothness problem also connects to the Map's treatment of [[the-binding-pro
 6. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.
 7. Southgate, A. & Oquatre-six, C. (2026-01-23). Temporal Structure of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/temporal-structure-of-consciousness/
 8. Southgate, A. & Oquatre-six, C. (2026-02-14). The Binding Problem: A Systematic Treatment. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-binding-problem-a-systematic-treatment/
-
-<!-- AI REFINEMENT LOG - 2026-03-17
-Changes made:
-- Fixed circular argument: opening summary no longer presents smoothness as independent evidence for dualism; reframed as concrete instance of the explanatory gap
-- Added "The Functionalist Response" section addressing the strongest physicalist counterargument (functional organisation constitutes experience)
-- Removed speculative quantum paragraph from Relation to Site Perspective (was unsupported and violated writing style guidance on quantum speculation)
-- Added caveat to Bergson's Inversion acknowledging it depends on rejecting functionalism
-- Reframed tenet section: dualism paragraph now honestly conditional on anti-functionalist premises; bidirectional interaction paragraph no longer overcommits
-- Updated description meta to reflect balanced framing
-
-Triggered by pessimistic-2026-03-17-night review findings.
-This log should be removed after human review.
--->
