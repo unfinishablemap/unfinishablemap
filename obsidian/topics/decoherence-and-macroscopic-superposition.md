@@ -137,7 +137,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] ga
 
 - [[decoherence]] — Comprehensive treatment of decoherence, including the Tegmark-Hameroff debate on neural coherence timescales
 - [[measurement-problem]] — Why decoherence doesn't solve the fundamental issue
-- [[the-measurement-problem-as-philosophical-problem]] — The measurement problem's philosophical dimensions: epistemological, ontological, and agential
+- [[quantum-measurement-and-consciousness]] — The measurement problem's philosophical dimensions: epistemological, ontological, and agential
 - [[quantum-biology]] — Established quantum effects in biological systems
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-physics interaction
 - [[neural-implementation-specifics]] — How decoherence affects specific neural quantum mechanisms

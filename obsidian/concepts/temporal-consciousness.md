@@ -64,7 +64,7 @@ related_articles:
   - "[[choking-phenomenon-mental-causation]]"
   - "[[consciousness-as-activity]]"
   - "[[motor-control-quantum-zeno]]"
-  - "[[quantum-measurement-consciousness-interface]]"
+  - "[[quantum-measurement-and-consciousness]]"
   - "[[phenomenology-of-temporal-attention]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
   - "[[authentic-vs-inauthentic-choice]]"

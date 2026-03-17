@@ -20,7 +20,7 @@ concepts:
   - "[[concepts/materialism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[the-measurement-problem-as-philosophical-problem]]"
+  - "[[quantum-measurement-and-consciousness]]"
   - "[[explanatory-void]]"
   - "[[metaphysics-of-information-under-dualism]]"
   - "[[consciousness-and-the-problem-of-measurement-standards]]"
@@ -203,7 +203,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 - [[consciousness-and-the-ontology-of-dispositions]] — The dispositional version of the gap: no catalogue of causal roles entails qualitative character
 - [[tenets]] — How the Map's framework responds to the gap
 - [[topics/phenomenal-value-realism]] — The evaluative dimension of the gap: if phenomenal properties constitute value, physics cannot reach normativity either
-- [[the-measurement-problem-as-philosophical-problem]] — The argument that the measurement problem is an instance of the same explanatory gap
+- [[quantum-measurement-and-consciousness]] — The argument that the measurement problem is an instance of the same explanatory gap
 - [[explanatory-void]] — Why explanation cannot explain itself: the recursive opacity that compounds the gap
 - [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — How the gap constrains what we can know about the consciousness-matter interface
 - [[metaphysics-of-information-under-dualism]] — The syntax-semantics divide as an informational framing of the gap

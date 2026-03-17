@@ -16,11 +16,10 @@ concepts:
   - "[[indexical-knowledge-and-identity]]"
 related_articles:
   - "[[tenets]]"
-  - "[[quantum-measurement-consciousness-interface]]"
+  - "[[quantum-measurement-and-consciousness]]"
   - "[[comparing-quantum-consciousness-mechanisms]]"
   - "[[stapp-quantum-mind]]"
   - "[[spontaneous-collapse-theories]]"
-  - "[[the-measurement-problem-as-philosophical-problem]]"
   - "[[indexical-identity-quantum-measurement]]"
   - "[[consciousness-non-collapsed-quantum-states-2026-02-10]]"
 ai_contribution: 100
@@ -59,7 +58,7 @@ Chalmers and McQueen formalised this intuition: integrated information (Φ) resi
 
 ## Wigner's Friend and Nested Observation
 
-The problem intensifies when observers observe observers. In the [[the-measurement-problem-as-philosophical-problem|Wigner's friend]] scenario, a friend performs a measurement inside a sealed laboratory. From the friend's perspective, collapse occurs and a definite result is obtained. From Wigner's perspective outside the lab, the friend-plus-apparatus remains in superposition. Two conscious observers disagree about whether collapse has happened.
+The problem intensifies when observers observe observers. In the [[quantum-measurement-and-consciousness|Wigner's friend]] scenario, a friend performs a measurement inside a sealed laboratory. From the friend's perspective, collapse occurs and a definite result is obtained. From Wigner's perspective outside the lab, the friend-plus-apparatus remains in superposition. Two conscious observers disagree about whether collapse has happened.
 
 The local friendliness (LF) no-go theorem (Bong et al. 2020) establishes that certain natural assumptions cannot all hold simultaneously: that measurement outcomes are definite for the observer, that they remain superposed for an outside observer, and that the two accounts are compatible. Something must give. If consciousness is what resolves superposition, then the friend's measurement truly collapses the state, and Wigner's description of the friend as superposed is simply wrong — a failure to account for the friend's conscious observation. The definiteness constraint, applied consistently, resolves the paradox by insisting that conscious observation is never merely apparent.
 
@@ -90,11 +89,11 @@ The Map's [[tenets]] commit to consciousness as an active selector among superpo
 ## Further Reading
 
 - [[consciousness-in-smeared-quantum-states]]
-- [[quantum-measurement-consciousness-interface]]
+- [[quantum-measurement-and-consciousness]]
 - [[comparing-quantum-consciousness-mechanisms]]
 - [[stapp-quantum-mind]]
 - [[quantum-consciousness]]
-- [[the-measurement-problem-as-philosophical-problem]]
+- [[quantum-measurement-and-consciousness]]
 - [[spontaneous-collapse-theories]]
 - [[indexical-identity-quantum-measurement]]
 - [[indexical-knowledge-and-identity]]

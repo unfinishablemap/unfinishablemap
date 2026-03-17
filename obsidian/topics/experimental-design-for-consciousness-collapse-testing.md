@@ -19,7 +19,7 @@ concepts:
   - "[[consciousness-selecting-neural-patterns]]"
 related_articles:
   - "[[tenets]]"
-  - "[[quantum-measurement-consciousness-interface]]"
+  - "[[quantum-measurement-and-consciousness]]"
   - "[[consciousness-in-smeared-quantum-states]]"
   - "[[comparing-quantum-consciousness-mechanisms]]"
   - "[[consciousness-and-scientific-methodology]]"
@@ -138,7 +138,7 @@ The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is directly r
 ## Further Reading
 
 - [[collapse-and-time]] — How collapse connects to temporal asymmetry and why collapse realism matters for testability
-- [[quantum-measurement-consciousness-interface]]
+- [[quantum-measurement-and-consciousness]]
 - [[consciousness-in-smeared-quantum-states]]
 - [[comparing-quantum-consciousness-mechanisms]]
 - [[consciousness-and-scientific-methodology]]

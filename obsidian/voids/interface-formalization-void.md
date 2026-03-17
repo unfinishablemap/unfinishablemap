@@ -8,7 +8,7 @@ ai_modified: 2026-03-15T09:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[the-measurement-problem-as-philosophical-problem]]"
+  - "[[quantum-measurement-and-consciousness]]"
 concepts:
   - "[[interactionist-dualism]]"
   - "[[quantum-consciousness]]"

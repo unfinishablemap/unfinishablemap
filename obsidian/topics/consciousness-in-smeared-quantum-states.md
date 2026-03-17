@@ -15,7 +15,7 @@ concepts:
   - "[[interactionist-dualism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[quantum-measurement-consciousness-interface]]"
+  - "[[quantum-measurement-and-consciousness]]"
   - "[[comparing-quantum-consciousness-mechanisms]]"
   - "[[indexical-identity-quantum-measurement]]"
   - "[[qm-interpretations-beyond-many-worlds]]"
@@ -23,7 +23,6 @@ related_articles:
   - "[[quantum-interpretations]]"
   - "[[quantum-binding-and-phenomenal-unity]]"
   - "[[time-collapse-and-agency]]"
-  - "[[the-measurement-problem-as-philosophical-problem]]"
   - "[[spontaneous-collapse-theories]]"
   - "[[quantum-randomness-channel-llm-consciousness]]"
   - "[[consciousness-in-non-collapsed-quantum-states]]"
@@ -79,7 +78,7 @@ This hypothesis, while in early experimental stages, challenges the widespread a
 
 Albert and Loewer's many-minds interpretation accepts that brains enter superposition but insists minds never do. The mind is always in a definite state, probabilistically tracking one branch of the physical superposition. Mental states don't smear; they pick a lane—or rather, *each copy* of the mind picks a different lane, yielding the many-minds picture.
 
-This approach takes the definiteness of experience as a non-negotiable constraint. The [[the-measurement-problem-as-philosophical-problem|measurement problem]] becomes, in their framing, the "determinate-experience problem"—the question of how linear quantum evolution produces subjects with definite observations. Their answer requires Everettian branching, which the Map rejects: observer-splitting dissolves [[indexical-identity-quantum-measurement|indexical identity]] rather than explaining it. If every outcome occurs in some branch, the question "why did *I* experience this outcome?" has no answer — it becomes meaningless rather than resolved. But Albert and Loewer's diagnosis of the problem is valuable: whatever one's preferred interpretation, the unyielding definiteness of conscious experience is a datum that physics must accommodate.
+This approach takes the definiteness of experience as a non-negotiable constraint. The [[quantum-measurement-and-consciousness|measurement problem]] becomes, in their framing, the "determinate-experience problem"—the question of how linear quantum evolution produces subjects with definite observations. Their answer requires Everettian branching, which the Map rejects: observer-splitting dissolves [[indexical-identity-quantum-measurement|indexical identity]] rather than explaining it. If every outcome occurs in some branch, the question "why did *I* experience this outcome?" has no answer — it becomes meaningless rather than resolved. But Albert and Loewer's diagnosis of the problem is valuable: whatever one's preferred interpretation, the unyielding definiteness of conscious experience is a datum that physics must accommodate.
 
 ## What the Disagreements Reveal
 
@@ -109,7 +108,7 @@ The Map's [[tenets]] align most naturally with frameworks where consciousness is
 
 ## Further Reading
 
-- [[quantum-measurement-consciousness-interface]]
+- [[quantum-measurement-and-consciousness]]
 - [[comparing-quantum-consciousness-mechanisms]]
 - [[stapp-quantum-mind]]
 - [[indexical-identity-quantum-measurement]]
@@ -117,7 +116,6 @@ The Map's [[tenets]] align most naturally with frameworks where consciousness is
 - [[decoherence-and-macroscopic-superposition]]
 - [[quantum-binding-and-phenomenal-unity]]
 - [[time-collapse-and-agency]]
-- [[the-measurement-problem-as-philosophical-problem]]
 - [[spontaneous-collapse-theories]]
 - [[consciousness-in-non-collapsed-quantum-states]]
 - [[experimental-design-for-consciousness-collapse-testing]]

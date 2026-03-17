@@ -25,7 +25,7 @@ related_articles:
   - "[[epistemological-limits-occams-razor]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[emotion-and-dualism]]"
-  - "[[the-measurement-problem-as-philosophical-problem]]"
+  - "[[quantum-measurement-and-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -156,7 +156,7 @@ The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects through the [[index
 - [[contemplative-practice-as-philosophical-evidence]] — Convergence across contemplative traditions
 - [[emotion-and-dualism]] — Emotional consciousness as an additional convergence point
 - [[the-strong-emergence-of-consciousness]] — Why consciousness cannot be weakly emergent
-- [[the-measurement-problem-as-philosophical-problem]] — The measurement problem as an instance of the hard problem: convergence from quantum foundations
+- [[quantum-measurement-and-consciousness]] — The measurement problem as an instance of the hard problem: convergence from quantum foundations
 - [[phenomenal-consciousness]] — The target explanandum that resists reduction
 
 ## References

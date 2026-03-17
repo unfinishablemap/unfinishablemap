@@ -10,7 +10,7 @@ draft: false
 topics:
   - "[[the-participatory-universe]]"
   - "[[consciousness-and-the-physics-of-information]]"
-  - "[[the-measurement-problem-as-philosophical-problem]]"
+  - "[[quantum-measurement-and-consciousness]]"
 concepts:
   - "[[quantum-consciousness]]"
   - "[[interactionist-dualism]]"
@@ -96,7 +96,7 @@ The Map speculates that the deepest significance of "it from bit" may be what th
 - [[the-participatory-universe]] — Wheeler's participatory framework in full
 - [[consciousness-and-the-physics-of-information]] — The informational turn in physics and its implications for consciousness
 - [[metaphysics-of-information-under-dualism]] — Where information sits in a dualist ontology
-- [[the-measurement-problem-as-philosophical-problem]] — Why the measurement problem matters philosophically
+- [[quantum-measurement-and-consciousness]] — Why the measurement problem matters philosophically
 - [[consciousness-and-causal-powers]] — The causal efficacy of consciousness
 
 ## References

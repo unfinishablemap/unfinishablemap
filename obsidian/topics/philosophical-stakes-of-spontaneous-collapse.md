@@ -25,7 +25,7 @@ related_articles:
   - "[[agent-causation]]"
   - "[[collapse-and-time]]"
   - "[[multi-mind-collapse-problem]]"
-  - "[[the-measurement-problem-as-philosophical-problem]]"
+  - "[[quantum-measurement-and-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -121,7 +121,7 @@ The model also faces honest difficulties. IIT's measure of integrated informatio
 - [[multi-mind-collapse-problem]] — when multiple minds observe the same system
 - [[topics/free-will]] — how stochastic collapse enables libertarian free will
 - [[agent-causation]] — the causal power consciousness exercises at quantum events
-- [[the-measurement-problem-as-philosophical-problem]] — why the measurement problem is philosophical, not merely technical
+- [[quantum-measurement-and-consciousness]] — why the measurement problem is philosophical, not merely technical
 - [[qm-interpretations-beyond-many-worlds]] — comparative survey of interpretations and consciousness compatibility
 
 ## References

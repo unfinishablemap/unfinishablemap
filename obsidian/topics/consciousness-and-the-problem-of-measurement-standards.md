@@ -24,7 +24,7 @@ related_articles:
   - "[[epistemology-of-phenomenal-reports]]"
   - "[[first-person-third-person-methodology]]"
   - "[[introspection-rehabilitation]]"
-  - "[[the-measurement-problem-as-philosophical-problem]]"
+  - "[[quantum-measurement-and-consciousness]]"
   - "[[knowledge-argument]]"
   - "[[consciousness-and-the-meta-problem-of-scientific-explanation]]"
   - "[[quantification-void]]"
@@ -106,7 +106,7 @@ The [[quantification-void]] traces this same impossibility through five independ
 
 The argument here also parallels the [[knowledge-argument|knowledge argument]]: Mary knows every physical fact about colour vision yet learns something new upon seeing red. The measurement standards problem generalises this insight — it is not just that phenomenal knowledge exceeds physical knowledge, but that the entire apparatus of physical measurement (units, instruments, calibration) cannot be constructed for phenomenal quantities. The knowledge argument shows the gap for a single case; the measurement argument shows it is structural.
 
-As the Map explores in [[consciousness-and-scientific-methodology]], science achieved its power by excluding subjectivity from its descriptions of nature. The measurement standards problem is a precise expression of this exclusion's cost: a science built on observer-independent measurement confronts a phenomenon that is constitutively observer-dependent. The structural parallel with the [[the-measurement-problem-as-philosophical-problem|quantum measurement problem]] is notable: both involve a point where third-person description fails to determine a first-person fact. The response is not to abandon science but to recognise its methodological boundaries — and to develop [[first-person-third-person-methodology|complementary methods]] that take phenomenal experience seriously on its own terms.
+As the Map explores in [[consciousness-and-scientific-methodology]], science achieved its power by excluding subjectivity from its descriptions of nature. The measurement standards problem is a precise expression of this exclusion's cost: a science built on observer-independent measurement confronts a phenomenon that is constitutively observer-dependent. The structural parallel with the [[quantum-measurement-and-consciousness|quantum measurement problem]] is notable: both involve a point where third-person description fails to determine a first-person fact. The response is not to abandon science but to recognise its methodological boundaries — and to develop [[first-person-third-person-methodology|complementary methods]] that take phenomenal experience seriously on its own terms.
 
 ## Further Reading
 
@@ -115,7 +115,7 @@ As the Map explores in [[consciousness-and-scientific-methodology]], science ach
 - [[first-person-third-person-methodology]]
 - [[introspection-rehabilitation]]
 - [[objectivity-and-consciousness]]
-- [[the-measurement-problem-as-philosophical-problem]]
+- [[quantum-measurement-and-consciousness]]
 - [[knowledge-argument]]
 - [[consciousness-and-the-meta-problem-of-scientific-explanation]]
 - [[quantification-void]]

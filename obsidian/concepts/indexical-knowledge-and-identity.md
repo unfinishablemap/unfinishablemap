@@ -118,7 +118,7 @@ The disagreement reveals something about self-locating uncertainty. Beauty doesn
 
 ## Implications for Many-Worlds
 
-The [[concepts/many-worlds]] interpretation holds that every quantum measurement causes branching—all outcomes occur in parallel, each equally real. Indexical knowledge creates problems for this picture, connecting to the [[the-measurement-problem-as-philosophical-problem|measurement problem]] at its core.
+The [[concepts/many-worlds]] interpretation holds that every quantum measurement causes branching—all outcomes occur in parallel, each equally real. Indexical knowledge creates problems for this picture, connecting to the [[quantum-measurement-and-consciousness|measurement problem]] at its core.
 
 Before measurement, there is one observer. After branching, there are multiple successors in different branches. Everettians propose that pre-measurement uncertainty about which outcome you'll see is "self-locating uncertainty"—uncertainty about which branch you're in, analogous to Beauty's uncertainty about which awakening she's experiencing.
 

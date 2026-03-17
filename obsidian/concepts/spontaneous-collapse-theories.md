@@ -191,7 +191,7 @@ The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or sim
 
 - [[collapse-and-time]] — how collapse introduces temporal asymmetry and connects consciousness to the arrow of time
 - [[measurement-problem]] - the crisis spontaneous collapse theories address
-- [[the-measurement-problem-as-philosophical-problem]] — the philosophical dimensions of measurement: why the problem resists physical solution
+- [[quantum-measurement-and-consciousness]] — the philosophical dimensions of measurement: why the problem resists physical solution
 - [[prebiotic-collapse]] - dedicated treatment of what collapsed before consciousness
 - [[quantum-consciousness]] - how consciousness modulates baseline collapse
 - [[quantum-neural-mechanisms]] - neural loci for quantum effects (radical pairs, microtubules, ion tunneling)

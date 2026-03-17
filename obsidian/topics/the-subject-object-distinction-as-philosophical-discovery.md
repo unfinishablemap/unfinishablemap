@@ -22,7 +22,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[first-person-third-person-methodology]]"
-  - "[[the-measurement-problem-as-philosophical-problem]]"
+  - "[[quantum-measurement-and-consciousness]]"
   - "[[the-unobservable-self]]"
 ai_contribution: 100
 author:
@@ -97,7 +97,7 @@ Currently, none of these conditions has been met. Cross-cultural convergence con
 - [[explanatory-gap]]
 - [[phenomenology]]
 - [[first-person-third-person-methodology]]
-- [[the-measurement-problem-as-philosophical-problem]]
+- [[quantum-measurement-and-consciousness]]
 - [[knowledge-argument]]
 - [[objectivity-and-consciousness]]
 - [[self-stultification]]

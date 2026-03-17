@@ -84,7 +84,7 @@ Quantum mechanics offers an instructive parallel. Before quantum theory, measure
 
 Consciousness presents an analogous challenge at the methodological level. [[introspection|Introspection]] — the primary first-person method for studying consciousness — is not passive observation of a pre-existing mental state. The act of attending to an experience may alter it. Reflecting on an emotion changes the emotion. Noticing a thought interrupts the thought's natural flow. The "measurement problem" in consciousness research is not a quantum effect but a structural feature: the instrument (consciousness) and the phenomenon (consciousness) are the same thing.
 
-(The quantum analogy is interpretation-dependent. Under Many-Worlds interpretations, there is no measurement problem — all branches occur, and the observer has no special role. The Unfinishable Map [[tenets#^no-many-worlds|rejects Many-Worlds]], making the analogy available, but readers sympathetic to MWI will find it less compelling. See [[the-measurement-problem-as-philosophical-problem]] for a fuller treatment.)
+(The quantum analogy is interpretation-dependent. Under Many-Worlds interpretations, there is no measurement problem — all branches occur, and the observer has no special role. The Unfinishable Map [[tenets#^no-many-worlds|rejects Many-Worlds]], making the analogy available, but readers sympathetic to MWI will find it less compelling. See [[quantum-measurement-and-consciousness]] for a fuller treatment.)
 
 The [[consciousness-and-the-problem-of-measurement-standards|measurement standards problem]] crystallises this tension: physical science's measurement triad—units, instruments, calibration—requires publicly accessible, observer-independent quantities, but phenomenal consciousness is constitutively first-personal and resists all three.
 
@@ -136,7 +136,7 @@ The broader implications for [[philosophy-of-science-under-dualism|doing science
 - [[objectivity-and-consciousness]] — Nagel's argument that objectivity has structural limits
 - [[explanatory-gap]] — Why physical explanation leaves phenomenal character unexplained
 - [[heterophenomenology]] — Dennett's third-person methodology and why the Map finds it insufficient
-- [[the-measurement-problem-as-philosophical-problem]] — The quantum measurement problem developed as a philosophical issue
+- [[quantum-measurement-and-consciousness]] — The quantum measurement problem developed as a philosophical issue
 - [[mysterianism|cognitive closure]] — McGinn's thesis that some problems may exceed human cognitive reach
 - [[philosophical-zombies]] — The conceivability argument that flows from excluding subjectivity
 - [[duhem-quine-underdetermination-consciousness]] — Why underdetermination runs deeper in consciousness science than elsewhere

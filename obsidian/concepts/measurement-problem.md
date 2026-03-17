@@ -39,7 +39,7 @@ related_articles:
   - "[[measurement-problem-quantum-mechanics-2026-01-14]]"
   - "[[consciousness-measurement-problem-2026-01-16]]"
   - "[[concepts/many-worlds]]"
-  - "[[the-measurement-problem-as-philosophical-problem]]"
+  - "[[quantum-measurement-and-consciousness]]"
   - "[[quantum-measurement-and-subjective-probability]]"
   - "[[what-consciousness-tells-us-about-physics]]"
   - "[[physics-as-disclosure]]"
@@ -83,13 +83,13 @@ Three aspects make this problematic:
 
 The standard measurement problem asks: why does the quantum system exhibit a definite outcome rather than remaining in superposition? But even granting definite outcomes, a deeper question remains: why does *this* consciousness experience *this* particular result?
 
-This [[indexical-identity-quantum-measurement|indexical gap]] connects the measurement problem to the [[hard-problem-of-consciousness]]. Both share a structure: third-person descriptions fail to capture first-person facts—facts about *what it is like* to be a particular experiencing subject, the [[qualia|qualitative character]] that no functional or structural description can convey. See [[quantum-measurement-consciousness-interface]] for extended treatment of this structural parallel and its implications for the Map's framework.
+This [[indexical-identity-quantum-measurement|indexical gap]] connects the measurement problem to the [[hard-problem-of-consciousness]]. Both share a structure: third-person descriptions fail to capture first-person facts—facts about *what it is like* to be a particular experiencing subject, the [[qualia|qualitative character]] that no functional or structural description can convey. See [[quantum-measurement-and-consciousness]] for extended treatment of this structural parallel and its implications for the Map's framework.
 
 Functionalists contest this, holding that "why am I this one?" confuses indexical reference with substantial identity—"I" picks out whoever is asking; no further fact remains. This analysis is correct for the *reference* of "I" but doesn't dissolve the phenomenon. When asking "why am I this one?", we note that *something it is like* to be this experiencer exists, and ask what makes that fact true.
 
 The functionalist can insist no such fact exists beyond functional states, but this denies the explanandum rather than explaining it. The strategy generalizes: if "why am I this one?" collapses into convention, "why does this hurt?" faces the same move. Both concern facts about subjective experience.
 
-The argument that this structural parallel constitutes not just analogy but identity—that the measurement problem is an instance of the hard problem—is developed in [[the-measurement-problem-as-philosophical-problem|The Measurement Problem as Hard Problem]].
+The argument that this structural parallel constitutes not just analogy but identity—that the measurement problem is an instance of the hard problem—is developed in [[quantum-measurement-and-consciousness|The Measurement Problem as Hard Problem]].
 
 This reveals a gap across major interpretations:
 - **[[qbism|QBism]]** dissolves the measurement problem by treating quantum states as subjective beliefs—"collapse" becomes belief-updating. Yet QBism's credences are defined over phenomenal outcomes: consciousness appears on both sides of the probability relation, as the subject assigning credences *and* the content those credences describe. This [[quantum-measurement-and-subjective-probability|structural dependence]] is distinctive—objective interpretations can bracket consciousness without undermining their formalism; QBism cannot
@@ -201,7 +201,7 @@ The loophole has features that make it specifically hospitable to non-physical c
 
 If the loophole only establishes *where* consciousness could act, what supports the claim that it *does*?
 
-- **Structural parallel and explanatory unification**: The measurement problem (why definite outcomes from superposition?) and the [[hard-problem-of-consciousness]] (why subjective experience from physical processes?) share a structure—both mark points where third-person description fails to capture first-person facts. Treating them as manifestations of one underlying puzzle is more parsimonious than treating them as coincidentally similar. This unification is conceptual rather than predictive—it constrains theorizing rather than generating testable predictions. See [[the-measurement-problem-as-philosophical-problem|The Measurement Problem as Hard Problem]] for the full argument.
+- **Structural parallel and explanatory unification**: The measurement problem (why definite outcomes from superposition?) and the [[hard-problem-of-consciousness]] (why subjective experience from physical processes?) share a structure—both mark points where third-person description fails to capture first-person facts. Treating them as manifestations of one underlying puzzle is more parsimonious than treating them as coincidentally similar. This unification is conceptual rather than predictive—it constrains theorizing rather than generating testable predictions. See [[quantum-measurement-and-consciousness|The Measurement Problem as Hard Problem]] for the full argument.
 
 - **[[self-stultification|Self-stultification of epiphenomenalism]]**: If consciousness has no causal role, then our beliefs about consciousness—including the belief that we are conscious—are not caused by consciousness itself. This undermines the epistemic basis for any claim about consciousness, including the denial of mental causation. If consciousness *must* be causally efficacious to be rationally acknowledged, quantum measurement provides the least disruptive locus for that causation.
 
@@ -223,7 +223,7 @@ The measurement problem is central to the Map's framework. It provides the *perm
 
 ## Further Reading
 
-- [[quantum-measurement-consciousness-interface]] — Extended treatment of why definite outcomes occur and where consciousness might participate
+- [[quantum-measurement-and-consciousness]] — Extended treatment of why definite outcomes occur and where consciousness might participate
 - [[indexical-identity-quantum-measurement]] — The indexical gap all interpretations leave untreated
 - [[quantum-measurement-and-subjective-probability]] — QBism's structural dependence on consciousness
 - [[quantum-probability-consciousness]] — Born probabilities as interface structure

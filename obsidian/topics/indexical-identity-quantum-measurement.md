@@ -22,7 +22,7 @@ related_articles:
   - "[[tenets]]"
   - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[quantum-measurement-subjective-probability-2026-01-23]]"
-  - "[[the-measurement-problem-as-philosophical-problem]]"
+  - "[[quantum-measurement-and-consciousness]]"
   - "[[what-consciousness-tells-us-about-physics]]"
 ai_contribution: 100
 author:
@@ -174,7 +174,7 @@ This topic intersects all five tenets:
 - [[mind-matter-interface]] - How consciousness meets matter
 - [[interactionist-dualism]] - Causal connection between mind and body
 - [[topics/free-will]] - If consciousness grounds indexical determination at quantum measurement, the self may be genuinely causal in a libertarian sense
-- [[the-measurement-problem-as-philosophical-problem]] — The measurement problem as a species of the hard problem
+- [[quantum-measurement-and-consciousness]] — The measurement problem as a species of the hard problem
 - [[indexical-void]] — The unchartable territory of why *this* consciousness exists
 - [[what-consciousness-tells-us-about-physics]] — Apex synthesis: the indexical dimension as part of the reverse inference from consciousness to physics
 

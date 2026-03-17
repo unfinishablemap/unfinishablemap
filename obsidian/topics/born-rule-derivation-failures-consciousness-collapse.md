@@ -8,7 +8,7 @@ ai_modified: 2026-03-15T09:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[the-measurement-problem-as-philosophical-problem]]"
+  - "[[quantum-measurement-and-consciousness]]"
 concepts:
   - "[[measurement-problem]]"
   - "[[quantum-probability-consciousness]]"
@@ -103,8 +103,7 @@ The persistent failure to derive the Born rule connects to all five of the Map's
 - [[quantum-probability-consciousness]] — The Born rule as interface structure
 - [[consciousness-and-probability-interpretation]] — Why consciousness is probability's prerequisite yet its worst reasoner
 - [[probability-problem-in-many-worlds]] — Why the Born rule is especially problematic in MWI
-- [[the-measurement-problem-as-philosophical-problem]] — The measurement problem as a philosophical question
-- [[quantum-measurement-consciousness-interface]] — The structural parallel between measurement and the hard problem
+- [[quantum-measurement-and-consciousness]] — The measurement problem and the structural parallel with the hard problem
 - [[indexical-identity-quantum-measurement]] — Why indexical identity matters at measurement
 - [[what-consciousness-tells-us-about-physics]] — The reverse inference from mind to matter
 

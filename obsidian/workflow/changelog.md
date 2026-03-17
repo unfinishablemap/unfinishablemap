@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 06:59 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[quantum-measurement-consciousness-interface]], [[the-measurement-problem-as-philosophical-problem]]
+- **Target**: [[quantum-measurement-and-consciousness]]
+- **Archived**: archive/topics/quantum-measurement-consciousness-interface.md, archive/topics/the-measurement-problem-as-philosophical-problem.md
+- **References updated**: ~35 files across topics/, concepts/, voids/, apex/
+- **References to review**: 0 (all active content updated inline)
+
 ## 2026-03-17 06:43 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-interpretations]]

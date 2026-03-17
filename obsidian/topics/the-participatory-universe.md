@@ -11,7 +11,7 @@ topics:
   - "[[quantum-measurement-and-subjective-probability]]"
   - "[[indexical-identity-quantum-measurement]]"
   - "[[presentiment-and-retrocausality]]"
-  - "[[quantum-measurement-consciousness-interface]]"
+  - "[[quantum-measurement-and-consciousness]]"
 concepts:
   - "[[quantum-consciousness]]"
   - "[[interactionist-dualism]]"
@@ -121,7 +121,7 @@ The participatory universe framework would face serious challenge from:
 
 ## Further Reading
 
-- [[quantum-measurement-consciousness-interface]]
+- [[quantum-measurement-and-consciousness]]
 - [[prebiotic-collapse]]
 - [[comparing-quantum-consciousness-mechanisms]]
 - [[retrocausality]]

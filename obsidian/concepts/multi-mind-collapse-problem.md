@@ -165,7 +165,7 @@ This resolution preserves the Map's commitment to consciousness as causally effi
 
 - [[brain-interface-boundary]] — Why consciousness can only select within its own brain
 - [[prebiotic-collapse]] — What collapsed outcomes before minds existed
-- [[the-measurement-problem-as-philosophical-problem]] — How the measurement problem and hard problem share structural features
+- [[quantum-measurement-and-consciousness]] — How the measurement problem and hard problem share structural features
 - [[quantum-consciousness]] — Mechanisms for consciousness-physics interaction
 - [[decoherence]] — The coherence timescale objection and quantum biology responses
 - [[haecceity]] — Why indexical identity matters for multi-mind questions

@@ -10,7 +10,7 @@ draft: false
 topics:
   - "[[philosophical-stakes-of-spontaneous-collapse]]"
   - "[[qm-interpretations-beyond-many-worlds]]"
-  - "[[quantum-measurement-consciousness-interface]]"
+  - "[[quantum-measurement-and-consciousness]]"
   - "[[decoherence-and-macroscopic-superposition]]"
 concepts:
   - "[[spontaneous-collapse-theories]]"
@@ -19,7 +19,6 @@ concepts:
   - "[[quantum-consciousness]]"
 related_articles:
   - "[[what-consciousness-tells-us-about-physics]]"
-  - "[[the-measurement-problem-as-philosophical-problem]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
