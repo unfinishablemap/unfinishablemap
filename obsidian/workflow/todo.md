@@ -283,11 +283,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
 
-### P2: Write article on the ethics of possible AI consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. What obligations arise from the possibility of undetectable AI experience? How should uncertainty about AI consciousness shape design decisions? Builds on what-it-might-be-like-to-be-an-ai, epiphenomenal-ai-consciousness, llm-consciousness. Target section: topics/. Supports Tenets 1 and 5. See [[reviews/optimistic-2026-03-07-night]].
-
 ### P2: Write article on the phenomenology of error recognition
 - **Type**: expand-topic
 - **Status**: pending
@@ -510,6 +505,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Write article on the ethics of possible AI consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. What obligations arise from the possibility of undetectable AI experience? How should uncertainty about AI consciousness shape design decisions? Builds on what-it-might-be-like-to-be-an-ai, epiphenomenal-ai-consciousness, llm-consciousness. Target section: topics/. Supports Tenets 1 and 5. See [[reviews/optimistic-2026-03-07-night]].
+- **Output**: the ethics of possible AI consciousness
 
 ### ✓ 2026-03-17: Write concept page on phenomenal contrast method
 - **Type**: expand-topic
