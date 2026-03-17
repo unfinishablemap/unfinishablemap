@@ -4,7 +4,7 @@ description: "The measurement problem and the hard problem share an identical lo
 created: 2026-02-01
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T06:59:00+00:00
+ai_modified: 2026-03-17T07:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-17T07:28:00+00:00
 coalesced_from:
   - "/topics/quantum-measurement-consciousness-interface/"
   - "/topics/the-measurement-problem-as-philosophical-problem/"
@@ -104,7 +104,7 @@ The [[causal-closure|causal closure]] principle—every physical event has a suf
 
 **Genuine indeterminacy.** Unlike classical "randomness" (which might be deterministic chaos), [[quantum-indeterminacy-free-will|quantum indeterminacy]] appears fundamental.
 
-This immediately raises a puzzle: what selected outcomes during the 13.8 billion years before consciousness existed? See [[prebiotic-collapse]] for the Map's resolution—objective reduction provides baseline collapse throughout cosmic history; consciousness modulates collapse specifically in neural systems.
+This immediately raises a puzzle: what selected outcomes during the 13.8 billion years before consciousness existed? See [[prebiotic-collapse]] for the Map's resolution—objective reduction provides baseline collapse throughout cosmic history; consciousness modulates collapse specifically in neural systems where [[quantum-indeterminacy-free-will|quantum indeterminacy intersects with agency]].
 
 ## Three Responses to the Gap
 
@@ -114,7 +114,7 @@ The [[concepts/many-worlds|Many-Worlds Interpretation]] denies that one outcome 
 
 ### Accept the Gap: Objective Collapse
 
-[[Spontaneous-collapse-theories|Objective collapse theories]] (GRW, CSL, Penrose) treat collapse as a real physical process governed by modified dynamics. Standard versions give consciousness no role. But consciousness-integrated variants have been proposed: Kremnizer and Ranchin (2015) and Okon and Sebastián (2016) modify CSL so that integrated information affects collapse parameters. This modulation framework aligns with the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]: consciousness nudges existing physical processes rather than overriding them.
+[[Spontaneous-collapse-theories|Objective collapse theories]] (GRW, CSL, Penrose) treat collapse as a real physical process governed by modified dynamics. Standard versions give consciousness no role. But consciousness-integrated variants have been proposed: Kremnizer and Ranchin (2015) propose collapse triggered by integrated information, while Okon and Sebastián (2016) modify CSL so that conscious states affect collapse parameters. This modulation framework aligns with the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]: consciousness nudges existing physical processes rather than overriding them.
 
 ### Exploit the Gap: Consciousness Selection
 
@@ -158,7 +158,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The causal closure loophole provides exactly the opening for minimal consciousness-physics interaction: selecting among undetermined outcomes without violating [[conservation-laws-and-mental-causation|conservation laws]]. The structural parallel transforms this from an isolated hypothesis into a prediction: if the hard problem marks where first-person fact exceeds third-person description, quantum measurement is precisely where consciousness should interface with the physical.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness selects outcomes, conscious choices make a difference to what happens physically. This preserves the causal efficacy that [[concepts/epiphenomenalism]] denies.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness selects outcomes, conscious choices make a difference to what happens physically. This preserves the causal efficacy that [[concepts/epiphenomenalism|epiphenomenalism]] denies.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The framework requires collapse to be real. Many-Worlds eliminates collapse, and with it consciousness's selective role. If the measurement problem is a hard problem instance, denying selection in measurement is structurally parallel to denying the first-person perspective in consciousness.
 

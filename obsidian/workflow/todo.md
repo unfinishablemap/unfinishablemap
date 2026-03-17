@@ -44,12 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-15
 - **Completed**: 2026-03-17
 
-### P2: Update references to coalesced the-unobservable-self
-- **Type**: cross-review
-- **Notes**: Coalesce merged the-unobservable-self into self-reference-paradox. 39 active content files (7 topics, 5 concepts, 26 voids, 1 apex) reference [[the-unobservable-self]]. The archive preserves the URL, but wikilinks in active content should be reviewed — some may benefit from pointing to the unified article instead, or updating link text. Files include: phenomenology-of-recursive-thought, the-self-minimal-narrative-and-substantial, consciousness-and-the-ownership-problem, epistemology-of-introspection, the-observer-witness-in-meditation, social-construction-of-self-vs-phenomenal-self, the-subject-object-distinction-as-philosophical-discovery, self-and-consciousness, introspection, phenomenal-transparency, witness-consciousness, self-consciousness, taxonomy-of-voids, and 26 voids articles.
-- **Source**: coalesce
-- **Generated**: 2026-03-17
-
 ### P3: Create concept page for token-level determination
 - **Type**: expand-topic
 - **Status**: pending
@@ -556,6 +550,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Update references to coalesced the-unobservable-self
+- **Type**: cross-review
+- **Notes**: Coalesce merged the-unobservable-self into self-reference-paradox. 39 active content files (7 topics, 5 concepts, 26 voids, 1 apex) reference [[the-unobservable-self]]. The archive preserves the URL, but wikilinks in active content should be reviewed — some may benefit from pointing to the unified article instead, or updating link text. Files include: phenomenology-of-recursive-thought, the-self-minimal-narrative-and-substantial, consciousness-and-the-ownership-problem, epistemology-of-introspection, the-observer-witness-in-meditation, social-construction-of-self-vs-phenomenal-self, the-subject-object-distinction-as-philosophical-discovery, self-and-consciousness, introspection, phenomenal-transparency, witness-consciousness, self-consciousness, taxonomy-of-voids, and 26 voids articles.
+- **Output**: None -- Context: Update references to coalesced the-unobservable-self
 
 ### ✓ 2026-03-17: Write void article — The Interface Formalization Void
 - **Type**: expand-topic
