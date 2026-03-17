@@ -143,6 +143,10 @@ The interface specification programme serves all five tenets simultaneously.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** addresses the complexity cost. The programme adds a controller, a control law, and a causal delegation structure to the physical story of the brain. But control theory demonstrates that systems without adequate control are unstable, oscillatory, or chaotic. The added complexity produces the stability and purposiveness that characterise conscious behaviour—complexity that earns its keep.
 
+## Related Apex Articles
+
+- [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Empirical mapping of the interface through natural and pharmacological perturbation: a complementary approach to the control-theoretic specification developed here
+
 ## Source Articles
 
 This synthesis draws on:

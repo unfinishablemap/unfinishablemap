@@ -158,6 +158,7 @@ The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects through the [[index
 - [[the-strong-emergence-of-consciousness]] — Why consciousness cannot be weakly emergent
 - [[quantum-measurement-and-consciousness]] — The measurement problem as an instance of the hard problem: convergence from quantum foundations
 - [[phenomenal-consciousness]] — The target explanandum that resists reduction
+- [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Convergence methodology applied to altered states: five independent perturbations revealing the same interface architecture
 
 ## References
 

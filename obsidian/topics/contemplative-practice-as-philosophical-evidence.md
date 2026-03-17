@@ -234,6 +234,7 @@ The distinction between willed and exogenous attention in [[contemplative-neuros
 - [[contemplative-pathology-and-interface-malfunction]] — When contemplative practice destabilises the interface
 - [[phenomenology-of-returning-attention]] — The micro-phenomenology of attentional recovery during practice
 - [[paradox-of-effortless-mastery]] — The developmental arc from effortful practice to effortless mastery
+- [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Meditation as voluntary interface modulation within a systematic comparison of five altered states
 - [[contemplative-training-and-phenomenal-access]] — How practice progressively expands access to phenomenal structure
 - [[contemplative-verification-of-consciousness-theories]] — Can meditation verify philosophical claims?
 - [[consciousness-and-scientific-methodology]] — How consciousness challenges the scientific method itself

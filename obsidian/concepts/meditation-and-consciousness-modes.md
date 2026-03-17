@@ -279,6 +279,7 @@ FA meditation strengthens selection. OM meditation cultivates witnessing. Both a
 - [[meditation-observer-witness-phenomenon-2026-01-18]] — Research notes for this article
 - [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]] — Apex synthesis: how contemplative refinement reveals the four features of working consciousness
 - [[apex/testing-the-map-from-inside|Testing the Map from Inside]] — Apex synthesis: first-person experiments testing both selection and witness modes
+- [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Meditation as voluntary interface modulation compared systematically with four other altered states
 
 ## References
 

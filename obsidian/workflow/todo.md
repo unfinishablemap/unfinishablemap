@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-15
 - **Completed**: 2026-03-17
 
-### P2: Integrate altered-states-as-interface-evidence.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: New apex article created 2026-03-16 has no inbound links. Apex synthesising altered states (psychedelics, meditation, anaesthesia, dreaming) as systematic interface evidence. Add cross-references from psychedelics-and-the-filter-model.md, anaesthesia-and-the-consciousness-interface.md, dream-consciousness.md, meditation-and-consciousness-modes.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-17
-
 ### P2: Cross-review clinical-dissociation-as-systematic-evidence.md against related clinical articles
 - **Type**: cross-review
 - **Status**: pending
@@ -536,6 +529,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Integrate altered-states-as-interface-evidence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: New apex article created 2026-03-16 has no inbound links. Apex synthesising altered states (psychedelics, meditation, anaesthesia, dreaming) as systematic interface evidence. Add cross-references from psychedelics-and-the-filter-model.md, anaesthesia-and-the-consciousness-interface.md, dream-consciousness.md, meditation-and-consciousness-modes.md, and related articles.
+- **Output**: obsidian/apex/altered-states-as-interface-evidence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-17: Integrate moral-architecture-of-consciousness.md into site navigation
 - **Type**: integrate-orphan

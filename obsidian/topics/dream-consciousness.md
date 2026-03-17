@@ -243,6 +243,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 - [[lucid-dreaming-as-capability-evidence]] — Lucid dreaming as evidence for the capability division between brain and mind
 - [[incubation-effect-and-unconscious-processing]] — The creative cycle and consciousness's role in incubation
 - [[consciousness-and-intelligence]] — The broader case for consciousness enabling human-level cognition
+- [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis: dreams as one of five windows into the multi-channel interface architecture
 
 ## References
 

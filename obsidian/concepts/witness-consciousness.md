@@ -202,6 +202,7 @@ What contemplatives discovered through sustained practice, phenomenology articul
 - [[illusionism]] — The eliminativist challenge
 - [[haecceity]] — Why *this* witness cannot be replicated
 - [[meditation-observer-witness-phenomenon-2026-01-18]] — Research notes
+- [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Witness consciousness as the phenomenal mode that persists across altered states when active control is released
 
 ## References
 

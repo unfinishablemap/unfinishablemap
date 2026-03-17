@@ -197,6 +197,7 @@ The Map's [[tenets]] converge on loss of consciousness as a domain where the dua
 - [[decoherence]] — Quantum challenges to the interface hypothesis and why they don't defeat it
 - [[hypnagogic-phenomenology-and-interface-modulation]] — The graded interface transition at sleep onset
 - [[haecceity]] — The indexical identity problem posed by temporal gaps in experience
+- [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis placing loss of consciousness within a convergence matrix of five altered states
 - [[death-phenomenology-beyond-ndes]] — The broader phenomenology of dying beyond NDEs and loss of consciousness
 
 ## References
