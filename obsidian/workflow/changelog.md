@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 14:13 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Reason**: Searched voids (102/100, over cap), topics (221/230, 96%), and concepts (202/230, 88%) across 5+ rounds. All candidate pairs examined are well-differentiated. Prior coalescing has already merged obvious overlaps.
+- **Sections checked**: cognitive-limits cluster (6 voids), self-reference cluster (3 voids), moral phenomenology pair, temporal phenomenology pair, epistemic phenomenology cluster (4 topics), acquaintance pair (2 concepts), quantum consciousness pair (2 concepts)
+
 ## 2026-03-17 13:58 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
