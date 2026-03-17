@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17T22:29:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[quantum-completeness]]
+- **Changes**: Added decoherence objection section (with quantum Darwinism), rewrote many-worlds treatment around indexical identity, softened rhetorical overreach, added PBR independence caveat, 5 new references
+- **Published**: yes
+
 ## 2026-03-17T22:15:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/neural-refresh-rates-and-the-smoothness-problem.md, topics/godel-measurement-problem-analogy.md, concepts/quantum-completeness.md

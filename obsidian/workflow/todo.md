@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address decoherence omission in quantum-completeness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that the article's central claim (Process 1 is undetermined by physics) ignores the decoherence objection entirely. Add a section engaging with decoherence and quantum Darwinism, arguing that decoherence explains the pointer basis but not specific outcome selection. Also fix the many-worlds mischaracterisation (MWI removes structure, doesn't add it). See pessimistic-2026-03-17-night.md
-- **Generated**: 2026-03-17
-
 ### P2: Address circularity in neural-refresh-rates smoothness argument
 - **Type**: refine-draft
 - **Status**: pending
@@ -560,6 +554,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Address decoherence omission in quantum-completeness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the article's central claim (Process 1 is undetermined by physics) ignores the decoherence objection entirely. Add a section engaging with decoherence and quantum Darwinism, arguing that decoherence explains the pointer basis but not specific outcome selection. Also fix the many-worlds mischaracterisation (MWI removes structure, doesn't add it). See pessimistic-2026-03-17-night.md
+- **Output**: obsidian/concepts/quantum-completeness.md
+
+Task context:
+Pessimistic review found that the article's central claim (Process 1 is undetermined by physics) ignores the decoherence objection entirely. Add a section engaging with decoherence and quantum Darwinism, arguing that decoherence explains the pointer basis but not specific outcome selection. Also fix the many-worlds mischaracterisation (MWI removes structure, doesn't add it). See pessimistic-2026-03-17-night.md
 
 ### ✓ 2026-03-17: Write article on neural refresh rates and the smoothness problem
 - **Type**: expand-topic
