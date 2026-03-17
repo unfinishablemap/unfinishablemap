@@ -4,7 +4,7 @@ description: "Survey of quantum interpretations and their consciousness implicat
 created: 2026-01-17
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-03-14T20:09:00+00:00
+ai_modified: 2026-03-17T06:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,12 +32,13 @@ related_articles:
   - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[quantum-probability-consciousness]]"
   - "[[what-consciousness-tells-us-about-physics]]"
+  - "[[interface-specification-programme]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-03-14T20:09:00+00:00
+last_deep_review: 2026-03-17T06:43:00+00:00
 ---
 
 Quantum mechanics is our best physical theory, yet physicists fundamentally disagree about what it means. A 2025 Nature survey found that no single interpretation commands majority support. This matters for consciousness studies: different interpretations have radically different implications for whether consciousness plays any role in physics.
@@ -263,6 +264,7 @@ The choice of quantum interpretation bears directly on all five [[tenets]]:
 
 ### Related Apex Articles
 - [[what-consciousness-tells-us-about-physics]] — The reverse inference: what consciousness, taken as datum, reveals about the structure of physics
+- [[interface-specification-programme]] — How the Map specifies the mechanism of consciousness-physics interaction
 
 ## References
 
