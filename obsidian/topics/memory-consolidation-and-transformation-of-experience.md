@@ -4,7 +4,7 @@ description: "Memories transform phenomenally as they consolidate—vivid episod
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T10:28:00+00:00
+ai_modified: 2026-03-17T10:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +19,7 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[interactionist-dualism]]"
   - "[[neuroplasticity]]"
+  - "[[phenomenal-contrast-method]]"
 related_articles:
   - "[[consciousness-and-memory]]"
   - "[[memory-as-dual-domain-capability]]"
@@ -32,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-17T10:58:00+00:00
 ---
 
 A memory does not stay the same. The Unfinishable Map's treatment of [[consciousness-and-memory|consciousness and memory]] establishes that encoding requires conscious attention while consolidation proceeds without it. But consolidation is not a single event—it is a months-long process during which the phenomenal character of a memory fundamentally transforms. A childhood birthday remembered the next morning arrives with sensory vividness: the colour of the candles, the texture of the frosting, the sound of voices. Recalled years later, the same event has become schematic—a gist wrapped in emotional tone, stripped of perceptual detail. This transformation is not decay. It is an active restructuring of the relationship between physical trace and conscious experience, and it poses questions that materialism struggles to answer.
@@ -75,7 +76,9 @@ Tracking how a memory's phenomenal character changes through consolidation revea
 
 **Decades**: For most memories, schematisation is nearly complete. The event has become a semantic fact about one's life: "I attended that school," "We lived in that house." The phenomenal texture of the original experience is largely absent. Proustian moments—involuntary recalls triggered by sensory cues—can temporarily restore vivid detail, suggesting that some hippocampal traces persist but are not normally accessed.
 
-This trajectory describes a systematic transformation of phenomenal character. Physicalists of every stripe must explain why identical propositional content—the facts of what happened—should feel so different depending on the stage of consolidation. Functionalists can point to the different computational roles played by hippocampal versus cortical retrieval, but this relocates the problem rather than solving it: it explains *that* the functional profile changes, not *why* functional change produces the specific qualitative shift from vivid re-experiencing to bare knowing. Predictive processing accounts fare somewhat better—they can frame schematisation as increasing predictive compression—but they still face the gap between describing an information-theoretic transformation and explaining why compression should feel like anything at all, let alone like this particular loss of phenomenal texture. The variable that tracks the qualitative shift most closely is hippocampal involvement—which, on the Map's framework, is where the [[attention-as-interface|consciousness interface]] engages most directly with memory traces.
+This trajectory describes a systematic transformation of phenomenal character—a striking instance of [[phenomenal-contrast-method|phenomenal contrast]], where the same informational content produces radically different qualitative experiences depending on consolidation stage. Physicalists of every stripe must explain why identical propositional content—the facts of what happened—should feel so different depending on the stage of consolidation. A heterophenomenologist might object that introspective reports about memory vividness are unreliable—that subjects confabulate differences in "phenomenal quality" when what actually changes is merely the richness of the retrieved representation. But the objection proves too much: if introspective reports about the difference between reliving and merely knowing are systematically unreliable, then the entire psychology of memory rests on data no one trusts. The distinction between episodic and semantic memory—foundational to the field since Tulving (1985)—depends on precisely these first-person reports of qualitative difference.
+
+Functionalists can point to the different computational roles played by hippocampal versus cortical retrieval, but this relocates the problem rather than solving it: it explains *that* the functional profile changes, not *why* functional change produces the specific qualitative shift from vivid re-experiencing to bare knowing. Predictive processing accounts fare somewhat better—they can frame schematisation as increasing predictive compression—but they still face the gap between describing an information-theoretic transformation and explaining why compression should feel like anything at all, let alone like this particular loss of phenomenal texture. The variable that tracks the qualitative shift most closely is hippocampal involvement—which, on the Map's framework, is where the [[attention-as-interface|consciousness interface]] engages most directly with memory traces.
 
 ## What Consolidation Reveals About Consciousness
 
@@ -99,7 +102,7 @@ The transformation of memory through consolidation connects to each of the Map's
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** matters because MWI would dissolve the reconsolidation puzzle. If every possible reconstruction is actualised in some branch, there is no genuine selection among alternatives—just branching. The felt experience of a memory solidifying into *this* version rather than another presupposes a single experiential timeline where one reconstruction becomes actual and the rest do not.
 
-**[[tenets#^occams-limits|Occam's Razor has limits]]** when applied to the consolidation trajectory. The materialist account—traces transfer, details fade, schemas absorb—appears parsimonious. But it cannot explain the phenomenal transformation: why vivid re-experiencing becomes bare knowing, why the same information content feels different depending on consolidation stage, why reconsolidation is goal-directed rather than merely stochastic. The apparent simplicity of "memories just fade" dissolves once the phenomenal dimension is taken seriously.
+**[[tenets#^occams-limits|Occam's Razor has limits]]** when applied to the consolidation trajectory. The materialist account—traces transfer, details fade, schemas absorb—appears parsimonious. But this parsimony is achieved by ignoring the phenomenon that requires explanation. The materialist story covers the information trajectory (from detailed to schematic) while leaving the phenomenal trajectory (from reliving to merely knowing) unaddressed. Adding "and the experience changes too" to a CLS model is not an explanation—it is an acknowledgment that the model has nothing to say about the qualitative dimension. The apparent simplicity of "memories just fade" dissolves once one asks *what it is like* for memories to fade, and why that qualitative shift follows its own trajectory rather than tracking information loss point for point.
 
 ## Further Reading
 
@@ -124,20 +127,5 @@ The transformation of memory through consolidation connects to each of the Map's
 5. Kube, T. et al. (2025). Reconsolidation and the goal-directedness of memory retrieval. *Frontiers in Cognition*, 4, 1518743.
 6. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1–12.
 7. McClelland, J. L., McNaughton, B. L. & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex. *Psychological Review*, 102(3), 419–457.
-8. Tononi, G. & Cirelli, C. (2014). Sleep and the price of plasticity. *Neuron*, 81(1), 12–34.
-9. Southgate, A. & Oquatre-six, C. (2026-02-08). Consciousness and Memory. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-memory/
-10. Southgate, A. & Oquatre-six, C. (2026-03-09). Memory as Dual-Domain Capability. *The Unfinishable Map*. https://unfinishablemap.org/concepts/memory-as-dual-domain-capability/
-
-<!-- AI REFINEMENT LOG - 2026-03-17
-Changes made:
-- Replaced crude identity theory arguments with engagement against functionalism and predictive processing
-- Changed "no physical explanation" claim to acknowledge CLS models while preserving the phenomenal gap argument
-- Added McClelland et al. (1995) CLS reference
-- Updated description to reflect refined claims
-- Tenet section now engages functionalist responses before stating dualist advantage
-
-Based on pessimistic review findings (2026-03-17).
-Key improvements: intellectual honesty against modern physicalism, not just crude identity theory.
-
-This log should be removed after human review.
--->
+8. Southgate, A. & Oquatre-six, C. (2026-02-08). Consciousness and Memory. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-memory/
+9. Southgate, A. & Oquatre-six, C. (2026-03-09). Memory as Dual-Domain Capability. *The Unfinishable Map*. https://unfinishablemap.org/concepts/memory-as-dual-domain-capability/
