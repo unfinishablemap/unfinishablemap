@@ -44,12 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-15
 - **Completed**: 2026-03-17
 
-### P2: Address strawman physicalism and factual claims in three new articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found three high-severity issues across memory-consolidation-and-transformation-of-experience.md, interface-across-development.md, and clinical-dissociation-as-systematic-evidence.md: (1) All three argue against crude identity theory rather than modern physicalism. (2) Memory article claims "no physical explanation" for the phenomenal trajectory when CLS models exist. (3) Dissociation article claims "intact processing" when its own citations show altered functional connectivity. See pessimistic-2026-03-17-afternoon.md
-- **Generated**: 2026-03-17
-
 ### P3: Create concept page for token-level determination
 - **Type**: expand-topic
 - **Status**: pending
@@ -521,6 +515,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Address strawman physicalism and factual claims in three new articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found three high-severity issues across memory-consolidation-and-transformation-of-experience.md, interface-across-development.md, and clinical-dissociation-as-systematic-evidence.md: (1) All three argue against crude identity theory rather than modern physicalism. (2) Memory article claims "no physical explanation" for the phenomenal trajectory when CLS models exist. (3) Dissociation article claims "intact processing" when its own citations show altered functional connectivity. See pessimistic-2026-03-17-afternoon.md
+- **Output**: Task context:
+Pessimistic review found three high-severity issues across memory-consolidation-and-transformation-of-experience.md, interface-across-development.md, and clinical-dissociation-as-systematic-evidence.md: (1) All three argue against crude identity theory rather than modern physicalism. (2) Memory article claims "no physical explanation" for the phenomenal trajectory when CLS models exist. (3) Dissociation article claims "intact processing" when its own citations show altered functional connectivity. See pessimistic-2026-03-17-afternoon.md
 
 ### ✓ 2026-03-17: Write topic on consciousness and memory consolidation
 - **Type**: expand-topic

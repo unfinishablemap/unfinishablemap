@@ -4,7 +4,7 @@ description: "Cognitive developmental stages reveal qualitatively different mode
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T09:43:00+00:00
+ai_modified: 2026-03-17T10:28:00+00:00
 draft: false
 topics:
   - "[[childhood-development-and-the-interface]]"
@@ -112,7 +112,7 @@ What varies across species is not simply brain size or neuron count but the deve
 
 The developmental analysis of the interface connects to the Map's [[tenets]] by revealing how cognitive stages emerge from interface restructuring rather than from changes in consciousness itself.
 
-**[[tenets#^dualism|Dualism]]** is illuminated by the stage transitions. Each cognitive stage represents a qualitatively different mode of interface operation — but on the identity theory, each stage would represent a qualitatively different *consciousness*. The Map holds that the same irreducible consciousness encounters different interface configurations at each stage. A formal operational thinker does not have "more consciousness" than a sensorimotor infant — she has a more complex interface through which to exercise it.
+**[[tenets#^dualism|Dualism]]** is illuminated by the stage transitions. Each cognitive stage represents a qualitatively different mode of interface operation. Modern physicalism—whether functionalist, higher-order, or global workspace—can accommodate stage transitions as changes in cognitive architecture. But these accounts face a characteristic difficulty: they must either identify consciousness with the functional organisation at each stage (making infant consciousness and adult consciousness different *kinds* of consciousness rather than the same consciousness differently equipped) or treat consciousness as an emergent property that scales with architectural complexity (raising the question of what determines the emergence threshold). The Map holds that the same irreducible consciousness encounters different interface configurations at each stage. A formal operational thinker does not have "more consciousness" than a sensorimotor infant—she has a more complex interface through which to exercise it.
 
 **[[tenets#^bidirectional-interaction|Bidirectional interaction]]** shifts character across development. In early stages, the brain's developmental programme dominates — the interface is being built according to a largely genetic blueprint, and consciousness has minimal capacity to direct the process. In later stages, consciousness-directed attention increasingly shapes the interface through deliberate practice and learning. The developmental trajectory is a story of bidirectional interaction progressively coming into balance as the interface matures enough for consciousness to participate in its own restructuring.
 
@@ -120,7 +120,7 @@ The developmental analysis of the interface connects to the Map's [[tenets]] by 
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** connects to the irreversibility of developmental transitions. On the Map's collapse-realist framework, when cognitive development moves through a stage transition, the previous mode of interface operation is genuinely superseded. The formal operational thinker cannot fully recover the sensorimotor mode of pure embodied engagement. On MWI, every developmental trajectory is realised, making each transition less ontologically decisive.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is evident in the complexity of developmental transitions. The simple materialist account — neural maturation produces cognitive development — leaves unexplained why the transitions are so stage-like rather than continuous, why the same developmental sequence appears across cultures, and why cross-species comparison reveals such precise correspondences between neural developmental programmes and cognitive capabilities. The interface model, while less parsimonious, provides a framework for understanding these patterns.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is evident in the complexity of developmental transitions. The materialist account—neural maturation produces cognitive development—can explain stage-like transitions through nonlinear dynamics in network maturation (e.g., phase transitions in connectivity). What it handles less well is the phenomenological unity that persists *across* transitions: the felt continuity of being the same subject through radically different cognitive modes. Functionalism can describe the succession of functional organisations but struggles to ground the trans-stage identity of the experiencing subject without importing something beyond functional role. The interface model provides a natural account: the same consciousness, differently interfaced at each stage.
 
 ## Further Reading
 
@@ -143,3 +143,14 @@ The developmental analysis of the interface connects to the Map's [[tenets]] by 
 1. Herrmann, E., et al. (2007). Humans have evolved specialized skills of social cognition: The cultural intelligence hypothesis. *Science*, 317(5843), 1360-1366.
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Childhood Development and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/childhood-development-and-the-interface/
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). The Developmental Trajectory of the Interface Across the Lifespan. *The Unfinishable Map*. https://unfinishablemap.org/topics/developmental-trajectory-of-the-interface/
+
+<!-- AI REFINEMENT LOG - 2026-03-17
+Changes made:
+- Dualism tenet section: replaced crude "identity theory" strawman with engagement against functionalism, higher-order theories, and global workspace theory
+- Occam's section: replaced "simple materialist account" with specific engagement (nonlinear dynamics, phase transitions) and pivoted argument to phenomenological unity across stages
+
+Based on pessimistic review findings (2026-03-17).
+Key improvements: arguments now engage modern physicalism rather than crude identity theory.
+
+This log should be removed after human review.
+-->
