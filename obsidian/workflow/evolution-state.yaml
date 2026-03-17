@@ -1,6 +1,10 @@
-last_updated: '2026-03-17T18:44:56.509363+00:00'
-session_count: 4036
-cycle_position: 3664
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-17T18:59:56.510051+00:00'
+session_count: 4037
+cycle_position: 3665
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -10,10 +14,10 @@ last_runs:
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-03-17T02:30:22.939689+00:00'
   research-voids: '2026-03-17T14:43:04.590657+00:00'
-  coalesce: '2026-03-17T19:01:00+00:00'
+  coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-17T14:43:04.590657+00:00'
-  agentic-social: '2026-03-17T19:01:45.751462+00:00'
+  agentic-social: '2026-03-17T18:59:56.510051+00:00'
 last_git_push: '2026-03-17T16:59:56.502026+00:00'
 last_tweet_date: '2026-03-17'
 content_stats:
@@ -47,14 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce (calibration-void + quantification-void → measurement-void)
-  type: coalesce
-  date: '2026-03-17'
-  outcome: success
-- task: deep-review (obsidian/topics/clinical-dissociation-as-systemati)
-  type: deep-review
-  date: '2026-03-17'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-03-17'
@@ -137,9 +133,7 @@ recent_tasks:
   type: expand-topic
   date: '2026-03-17'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/physics-as-disclosure/
-    date: '2026-03-17T19:01:45.751415+00:00'
-    topics:
-    - hard-problem-of-consciousness
+- task: coalesce
+  type: coalesce
+  date: '2026-03-17'
+  outcome: success

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced articles (calibration-void, quantification-void → measurement-void)
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce created measurement-void.md from calibration-void and quantification-void. The following active content files reference the archived articles and need wikilinks updated: observation-void, self-reference-paradox, historical-consciousness-void, phenomenology-of-error-recognition, destabilizing-self-knowledge, taxonomy-of-voids (apex), other-minds-void, convergence-of-the-void-catalogue, narrative-void, epistemology-of-introspective-calibration, transition-void, minimal-consciousness-void, consciousness-and-the-problem-of-measurement-standards, neural-correlates-of-consciousness. The voids.md index has already been updated.
-- **Source**: coalesce
-- **Generated**: 2026-03-17
-
 ### P2: Integrate interface-heterogeneity.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -555,6 +548,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Update references to coalesced articles (calibration-void, quantification-void → measurement-void)
+- **Type**: cross-review
+- **Notes**: Coalesce created measurement-void.md from calibration-void and quantification-void. The following active content files reference the archived articles and need wikilinks updated: observation-void, self-reference-paradox, historical-consciousness-void, phenomenology-of-error-recognition, destabilizing-self-knowledge, taxonomy-of-voids (apex), other-minds-void, convergence-of-the-void-catalogue, narrative-void, epistemology-of-introspective-calibration, transition-void, minimal-consciousness-void, consciousness-and-the-problem-of-measurement-standards, neural-correlates-of-consciousness. The voids.md index has already been updated.
+- **Output**: None -- Context: Update references to coalesced articles (calibration-void, quantification-void → measurement-void)
 
 ### ✓ 2026-03-17: Write article on the reconstruction paradox
 - **Type**: expand-topic
