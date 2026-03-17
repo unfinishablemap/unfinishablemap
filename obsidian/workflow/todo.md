@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address radio analogy overreliance in loss-of-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the radio/prism analogy is doing too much argumentative work. Needs explicit acknowledgment of analogy limitations, stronger independent arguments from propofol/ketamine and CMD evidence. See pessimistic-2026-03-17b.md
+- **Generated**: 2026-03-17
+
+### P2: Strengthen choking argument in implicit-memory.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found choking evidence is overstated—the standard neural competition interpretation (prefrontal disrupting basal ganglia) is not addressed. Need to distinguish neural event from phenomenal fact. See pessimistic-2026-03-17b.md
+- **Generated**: 2026-03-17
+
 ### P2: Condense dream-consciousness.md (4212 words, 105% of hard threshold)
 - **Type**: condense
 - **Status**: pending
