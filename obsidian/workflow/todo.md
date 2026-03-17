@@ -37,19 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address unsupported MWI/zombie connection in philosophical-zombies.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the No Many Worlds / zombie argument connection (Relation to Site Perspective, Tenet 4) is asserted in a single sentence without argument. MWI multiplies persons rather than fragmenting identity; the claim that it "undermines haecceity" needs substantial development or softening. Also address: functionalism engagement could be stronger, "clearly conceivable" language. See pessimistic-2026-03-17.md (Issues #4, #2, language improvements).
-- **Source**: pessimistic-2026-03-17
-- **Generated**: 2026-03-17
-
-### P2: Research mathematical structure of the consciousness-physics interface
-- **Type**: research-topic
-- **Notes**: The apex claims the Born rule's mathematical form (squared amplitudes) may encode interface constraints. Can we say more? (1) Why squared amplitudes — deeper reason? Connection to inner product structure of Hilbert space, conservation of probability. (2) Could alternative rules (p=|ψ|, p=|ψ|³) be consistent? What breaks? (3) Hardy's reconstruction of QM from information-theoretic axioms. (4) L² structure uniqueness. (5) Can Born rule be derived from consciousness-physics coupling assumptions? E.g., if consciousness must preserve ensemble statistics, does this constrain the probability rule? (6) Sorkin's sum-over-histories — absence of third-order interference. Speculative but could yield genuine insights. Target: research note.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P2: Write topic article — The Reverse Inference
 - **Type**: expand-topic
 - **Notes**: Dedicated topic article developing the methodological move: using consciousness as a datum to constrain physics, rather than the standard direction. Cover: (1) Why the standard direction (physics → consciousness) is not the only rational approach. (2) Historical precedents — using observed phenomena to constrain theory (thermodynamics → statistical mechanics, stellar spectra → atomic structure). (3) The epistemic asymmetry — consciousness is more certain than any QM interpretation. (4) Objections: motivated reasoning? Response: all interpretation is constrained by commitments; the question is which are best supported. Target section: topics/. Source: the apex article.
@@ -604,6 +591,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-16
 
 ## Completed Tasks
+
+
+### ✓ 2026-03-17: Address unsupported MWI/zombie connection in philosophical-zombies.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the No Many Worlds / zombie argument connection (Relation to Site Perspective, Tenet 4) is asserted in a single sentence without argument. MWI multiplies persons rather than fragmenting identity; the claim that it "undermines haecceity" needs substantial development or softening. Also address: functionalism engagement could be stronger, "clearly conceivable" language. See pessimistic-2026-03-17.md (Issues #4, #2, language improvements).
+- **Output**: obsidian/concepts/philosophical-zombies.md
+
+Task context:
+Pessimistic review found the No Many Worlds / zombie argument connection (Relation to Site Perspective, Tenet 4) is asserted in a single sentence without argument. MWI multiplies persons rather than fragmenting identity; the claim that it "undermines haecceity" needs substantial development or softening. Also address: functionalism engagement could be stronger, "clearly conceivable" language. See pessimistic-2026-03-17.md (Issues #4, #2, language improvements).
+
+### ✓ 2026-03-17: Address unsupported MWI/zombie connection in philosophical-zombies.md
+- **Type**: refine-draft
+- **Status**: done
+- **Notes**: Expanded Tenet 4 paragraph with substantive argument about MWI multiplying persons; strengthened functionalism section; softened "clearly conceivable" language.
+- **Output**: [[philosophical-zombies]]
+
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention.
@@ -611,7 +614,6 @@ Tasks that failed 3+ times and require human intervention.
 ## Vetoed Tasks
 
 Ideas that were considered and rejected. The AI will not re-propose these.
-
 
 ### ✓ 2026-03-17: Research Russellian monism as competitor to bi-aspectual dualism
 - **Type**: research-topic

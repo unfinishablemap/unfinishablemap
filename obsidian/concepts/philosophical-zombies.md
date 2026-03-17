@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-16T08:47:00+00:00
+ai_modified: 2026-03-17T04:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -66,7 +66,7 @@ Alfred North Whitehead's process philosophy illuminates the point from a differe
 
 Some physicalists deny that zombies are genuinely conceivable. On this view, anyone who thinks they can conceive of a zombie is confused—perhaps failing to imagine the physical situation in full detail, or confusing conceivability with imaginability.
 
-**Problem:** This response struggles to explain *why* the zombie scenario seems so clearly conceivable to those who consider it. If consciousness just *is* certain physical processes, why does the separation seem coherent? Type-A physicalists must say we are systematically deceived about the nature of our own concepts.
+**Problem:** This response struggles to explain *why* the zombie scenario seems coherently conceivable to those who consider it. If consciousness just *is* certain physical processes, why does the separation seem coherent? Type-A physicalists must say we are systematically deceived about the nature of our own concepts.
 
 ### Type-B Physicalism: Deny the Conceivability-Possibility Link
 
@@ -80,7 +80,7 @@ As Chalmers argues, when we conceive of zombies, we are not merely failing to se
 
 Sophisticated Type-B physicalists invoke two-dimensional semantics, arguing that phenomenal concepts primarily pick out certain physical states; when we conceive of zombies, we're imagining worlds where those physical states don't exist—not worlds where they exist without consciousness.
 
-**Response:** If all truths about consciousness were deducible from physical truths, zombies wouldn't even be "primarily conceivable." But they clearly are—we can coherently imagine the complete physics without any phenomenal facts. There's no conceptual route from physical descriptions to phenomenal truths, regardless of which intension we use.
+**Response:** If all truths about consciousness were deducible from physical truths, zombies wouldn't even be "primarily conceivable." But they appear to be—we can coherently imagine the complete physics without any phenomenal facts. There's no conceptual route from physical descriptions to phenomenal truths, regardless of which intension we use.
 
 ### The Phenomenal Concepts Strategy
 
@@ -92,7 +92,9 @@ Some physicalists argue that phenomenal concepts are "special"—they pick out p
 
 The zombie thought experiment also targets [[concepts/functionalism]]. If a system can be functionally identical to you while lacking experience, then experience is not a matter of functional organization. The [[arguments/functionalism|argument against functionalism]] develops this as the first of five convergent attacks on functionalism.
 
-Block's "China brain" thought experiment makes a similar point: the population of China organized to replicate your brain's functional structure might be functionally equivalent without being conscious—a billion people following rules doesn't add up to unified experience.
+The functionalist's best response is to deny that zombies are conceivable *given* a proper understanding of functional roles—arguing that once you specify every functional relation in sufficient detail, consciousness is analytically entailed. But this amounts to Type-A physicalism about functional states, and faces the same challenge: why does specifying how information flows, which states cause which outputs, and how the system self-monitors not seem to logically require that anything is *experienced*? The functional description, however exhaustive, characterises relations between states without capturing the intrinsic qualitative character of any state. A complete functional blueprint of a pain system specifies what triggers it, what it triggers, and how it interacts with other states—but nothing in that specification entails that the system *hurts*.
+
+Block's "China brain" thought experiment dramatises this: the population of China organised to replicate your brain's functional structure might be functionally equivalent without being conscious—a billion people following rules doesn't add up to unified experience. The force of this example lies not in the implausibility of the scenario but in what it reveals: functional equivalence is substrate-independent by design, yet consciousness seems to resist that independence.
 
 ## Zombies and Inverted Qualia
 
@@ -186,7 +188,7 @@ The zombie argument connects to all five of the Map's tenets.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The zombie argument establishes that something beyond physics is needed; the quantum mechanism specifies where the interaction occurs. At quantum indeterminacies, consciousness selects among possibilities—not by adding energy, but by resolving what physics leaves open. The zombie would lack whatever selects at these points. See [[decoherence]] for why quantum effects in the brain remain viable.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The zombie argument presupposes that personal identity is determinate—*I* am either conscious or not. Many-worlds interpretations fragment this, undermining the [[haecceity]] that makes the zombie scenario coherent. The zombie argument requires definite facts about who's conscious.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The zombie argument requires determinate facts about personal identity—*this* being is either conscious or not. Many-worlds interpretations complicate this by multiplying persons: at every quantum branching, the original splits into equally real successors across diverging branches. If all branches are equally actual, the question "is this person conscious?" has no unique answer—there is no single "this person," only an ever-proliferating ensemble of successors. The zombie thought experiment asks whether a specific physical duplicate lacks experience; under MWI, the notion of a *specific* duplicate dissolves into a branching tree where every quantum outcome is realised. This doesn't refute the zombie argument outright, but it pressures the metaphysical framework the argument relies on: definite identity, definite physical facts, and a single actual world against which we test whether consciousness is entailed. The Map's rejection of many-worlds preserves the conditions under which the zombie argument has its full force.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Physicalists dismiss dualism on grounds of parsimony. The zombie argument challenges this: physical processes *don't* suffice to explain consciousness, and the [[epistemological-limits-of-occams-razor|apparent simplicity of physicalism]] reflects ignorance rather than insight. What seems parsimonious may actually be incomplete.
 
@@ -219,17 +221,14 @@ The zombie argument connects to all five of the Map's tenets.
 - Joseph Levine, "Materialism and Qualia: The Explanatory Gap" (1983)
 - Keith Frankish, "Illusionism as a Theory of Consciousness" (2016)
 
-<!-- AI REFINEMENT LOG - 2026-02-24
+<!-- AI REFINEMENT LOG - 2026-03-17
 Changes made:
-- Expanded Convergence Argument section to acknowledge shared-presupposition vulnerability (pessimistic review Issue #1): arguments share the foundational commitment that phenomenal consciousness is real; if that fails, they fail collectively. Added explanation of why the Map considers this commitment more secure than theories denying it.
-- Qualified conceivability claim ("the more we understand physical processes...") as the dualist position, noting Type-A physicalists dispute it.
-- Integrated Process Philosophy section into conceivability discussion instead of standalone section between Objections and What Would Challenge.
-- Acknowledged that "What Would Challenge" condition 4 (introspective unreliability) is practically difficult to satisfy, and discussed what this means for the argument's epistemic status.
-- Removed colloquial "The lights are on, but nobody's home" from opening.
-- Strengthened "Presumably" to direct assertion in self-stultification section.
+- Substantially expanded Tenet 4 (No Many Worlds) paragraph in Relation to Site Perspective: replaced single unsupported assertion with developed argument explaining how MWI multiplies persons at quantum branchings, dissolving the determinate identity the zombie argument requires. Acknowledged this pressures rather than refutes the argument.
+- Strengthened Zombies and Functionalism section: added engagement with the functionalist's best response (denying conceivability given complete functional specification), explained why functional descriptions characterise relations without capturing intrinsic qualitative character, and added interpretive context for Block's China brain.
+- Softened "clearly conceivable" language in two places: "so clearly conceivable" → "coherently conceivable"; "But they clearly are" → "But they appear to be".
 
-Based on pessimistic review pessimistic-2026-02-24.md (Issues #1, #5, #6, language improvements).
-Key improvements: Intellectual honesty about convergence argument's dependency on foundational commitment; better integration of process philosophy.
+Based on pessimistic review pessimistic-2026-03-17.md (Issues #4, #2, language improvements).
+Key improvements: MWI/zombie connection now argued rather than asserted; functionalism engagement substantive rather than gestural.
 
 This log should be removed after human review.
 -->

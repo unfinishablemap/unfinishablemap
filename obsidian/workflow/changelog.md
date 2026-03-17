@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 04:28 UTC - refine-draft
+- **Status**: Success
+- **File**: [[philosophical-zombies]]
+- **Changes**: Expanded Tenet 4 (No Many Worlds) from single assertion to developed argument about MWI multiplying persons; strengthened functionalism engagement with response to best functionalist objection; softened "clearly conceivable" language in two places
+- **Published**: yes
+
 ## 2026-03-17 04:13 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/ai-consciousness.md`, `concepts/epiphenomenalism.md`, `concepts/philosophical-zombies.md`
