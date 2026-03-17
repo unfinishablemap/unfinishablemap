@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Research Penrose gravity-collapse connection and empirical prospects
-- **Type**: research-topic
-- **Notes**: The apex mentions Penrose linking collapse to gravitational self-energy as a source of empirical predictions. Deep dive: (1) Penrose objective reduction — one-graviton criterion, superposition of spacetimes. (2) Diósi-Penrose model — specific collapse rate predictions. (3) Current experimental status — germanium detector experiments, Vinante et al. constraints. (4) MAQRO space mission proposal for microgravity testing. (5) How consciousness-modulated Penrose collapse might differ from pure gravitational collapse — are there divergent regimes? (6) Orch OR's specific predictions about microtubule coherence timescales. Most promising avenue for the reverse inference to generate empirically distinguishable predictions. Target: research note.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P2: Research the Gödel-measurement problem analogy — scope and limits
 - **Type**: research-topic
 - **Notes**: The apex draws an analogy between Gödel incompleteness and the measurement problem. Needs rigorous treatment: (1) Penrose's use of Gödel in Shadows of the Mind. (2) Lucas-Penrose argument and critics (Putnam, Feferman, Shapiro). (3) Precise scope: formal incompleteness involves self-reference; does the measurement problem? (4) Chaitin's incompleteness via algorithmic randomness. (5) Where the analogy breaks: Gödel is about provability; measurement problem is about determinism. Genuinely analogous or superficially similar? (6) Yanofsky's "Outer Limits of Reason" on structural limits across domains. Target: research note.
@@ -646,6 +640,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-17: Research Penrose gravity-collapse connection and empirical prospects
+- **Type**: research-topic
+- **Notes**: The apex mentions Penrose linking collapse to gravitational self-energy as a source of empirical predictions. Deep dive: (1) Penrose objective reduction — one-graviton criterion, superposition of spacetimes. (2) Diósi-Penrose model — specific collapse rate predictions. (3) Current experimental status — germanium detector experiments, Vinante et al. constraints. (4) MAQRO space mission proposal for microgravity testing. (5) How consciousness-modulated Penrose collapse might differ from pure gravitational collapse — are there divergent regimes? (6) Orch OR's specific predictions about microtubule coherence timescales. Most promising avenue for the reverse inference to generate empirically distinguishable predictions. Target: research note.
+- **Output**: Penrose gravity-collapse connection and empirical prospects
 
 ### ✓ 2026-03-16: Research Wheeler's participatory universe and "it from bit"
 - **Type**: research-topic
