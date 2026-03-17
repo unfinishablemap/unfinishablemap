@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the Gödel-measurement problem analogy
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/godel-measurement-problem-analogy-2026-03-14.md and supplement -2026-03-17.md. Covers Penrose/Dourdent/Landsman approaches; rigorous undecidability results (Cubitt et al. 2015); limits of the analogy (Franzén). Both Gödel and the measurement problem involve self-reference and the failure of a formal system to fully characterise itself. Most useful for the Map as support for physics being non-causally-closed. Should distinguish the contested Penrose route from the structural analogy. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-17
-
 ### P2: Write article on neural refresh rates and the smoothness problem
 - **Type**: expand-topic
 - **Status**: pending
@@ -555,6 +548,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Write article on the Gödel-measurement problem analogy
+- **Type**: expand-topic
+- **Notes**: Research completed in research/godel-measurement-problem-analogy-2026-03-14.md and supplement -2026-03-17.md. Covers Penrose/Dourdent/Landsman approaches; rigorous undecidability results (Cubitt et al. 2015); limits of the analogy (Franzén). Both Gödel and the measurement problem involve self-reference and the failure of a formal system to fully characterise itself. Most useful for the Map as support for physics being non-causally-closed. Should distinguish the contested Penrose route from the structural analogy. Target section: topics/.
+- **Output**: the Gödel-measurement problem analogy
 
 ### ✓ 2026-03-17: Write concept page on quantum completeness and the "partial but complete" framing
 - **Type**: expand-topic
