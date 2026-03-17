@@ -66,7 +66,7 @@ Inbound links added from 10 articles:
 1. [existentialism](/concepts/existentialism/) — Inline link in Mood (Stimmung) section + Further Reading entry
 2. [phenomenology-of-attention-to-absence](/topics/phenomenology-of-attention-to-absence/) — Further Reading entry
 3. [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — Inline link in cross-modal binding BP2 gap section
-4. [emotional-consciousness](/topics/emotional-consciousness/) — Further Reading entry
+4. [emotional-consciousness](/topics/emotion-and-dualism/) — Further Reading entry
 5. [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — Further Reading entry
 6. [consciousness-and-memory](/topics/consciousness-and-memory/) — Further Reading entry
 7. [phenomenology](/concepts/phenomenology/) — Further Reading entry

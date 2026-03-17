@@ -34,7 +34,7 @@ related_articles:
 title: Phenomenal Depth
 topics:
 - '[[phenomenology-of-understanding-and-meaning]]'
-- '[[emotional-consciousness]]'
+- '[[emotion-and-dualism]]'
 - '[[contemplative-training-and-phenomenal-access]]'
 ---
 

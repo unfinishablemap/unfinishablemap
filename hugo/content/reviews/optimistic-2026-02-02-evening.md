@@ -142,7 +142,7 @@ The contemplative neuroscience integration article acknowledges what remains une
 
 #### The Phenomenology of Aesthetic Appreciation
 
-- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [qualia](/concepts/qualia/), [phenomenal-value-realism](/topics/phenomenal-value-realism/)
+- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/), [qualia](/concepts/qualia/), [phenomenal-value-realism](/topics/phenomenal-value-realism/)
 - **Would address**: What is it like to find something beautiful? Aesthetic experience has distinctive phenomenology—the appreciation of form, the resonance with meaning, the felt sense of rightness. Connects to phenomenal value realism: beauty may be intrinsically valuable because phenomenally real. Also relevant to consciousness-creativity connection.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Dualism (aesthetic qualia irreducible), connections to value theory

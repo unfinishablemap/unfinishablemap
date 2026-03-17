@@ -12,7 +12,7 @@ concepts:
   - "[[neurophenomenology]]"
   - "[[neuroplasticity]]"
   - "[[witness-consciousness]]"
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
   - "[[default-mode-network]]"
   - "[[mental-effort]]"
   - "[[mysterianism]]"
@@ -98,7 +98,7 @@ Connection to [[topics/free-will]]: If [[phenomenal-consciousness]] were epiphen
 
 ### Compassion and Emotional Neuroplasticity
 
-Compassion meditation reshapes emotional response networks—brain changes that predict prosocial behavior.[^davidson] This connects to [[emotional-consciousness]]: if phenomenal emotional qualities were causally inert, how could deliberate cultivation of compassion alter emotional responses and behavior?
+Compassion meditation reshapes emotional response networks—brain changes that predict prosocial behavior.[^davidson] This connects to [[emotion-and-dualism]]: if phenomenal emotional qualities were causally inert, how could deliberate cultivation of compassion alter emotional responses and behavior?
 
 The causal pathway runs: phenomenological intention → practice → neural change → behavioral outcome. [[Qualia|Phenomenal character]] isn't epiphenomenal decoration.
 

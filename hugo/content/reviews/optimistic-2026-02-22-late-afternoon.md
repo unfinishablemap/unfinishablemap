@@ -91,7 +91,7 @@ McGinn would appreciate the Map's fifth tenet—Occam's Razor Has Limits—which
 ### High Priority
 
 #### The Phenomenology of Consciousness Doing Work
-- **Builds on**: [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/), [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/), [agent-causation](/concepts/agent-causation/), [attention-as-interface](/concepts/attention-as-interface/)
+- **Builds on**: [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/), [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/), [agent-causation](/concepts/agent-causation/), [attention-as-interface](/concepts/attention-as-interface/)
 - **Would address**: Currently the Map argues powerfully that consciousness has causal efficacy, but the *phenomenological signatures* of that efficacy (valence-driven action, aesthetic-template guidance, creative effort, attentional override) are scattered across separate articles
 - **Estimated scope**: Medium apex article synthesizing empirical, aesthetic, and agentive evidence
 - **Tenet alignment**: Directly supports Bidirectional Interaction with phenomenological specificity
@@ -103,7 +103,7 @@ McGinn would appreciate the Map's fifth tenet—Occam's Razor Has Limits—which
 - **Tenet alignment**: Supports No Many Worlds (creative commitment presupposes singular actualization) and Bidirectional Interaction (temporal accumulation requires active consciousness)
 
 #### Direction-of-Fit as Concept Page
-- **Builds on**: [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/), [agent-causation](/concepts/agent-causation/), [mental-causation](/concepts/mental-causation/)
+- **Builds on**: [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/), [agent-causation](/concepts/agent-causation/), [mental-causation](/concepts/mental-causation/)
 - **Would address**: The distinction between mind-to-world (creation, agency) and world-to-mind (perception, reception) causation is discussed in several articles but has no dedicated concept page
 - **Estimated scope**: Short concept article
 - **Tenet alignment**: Directly articulates how Bidirectional Interaction works in practice
@@ -139,9 +139,9 @@ McGinn would appreciate the Map's fifth tenet—Occam's Razor Has Limits—which
 
 | From | To | Reason |
 |------|-----|--------|
-| [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) | [consciousness-value-connection](/concepts/consciousness-value-connection/) | Valence as intrinsic evaluative property directly grounds the consciousness-value connection |
-| [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Accumulative awareness in creation is a specific form of temporal consciousness |
-| [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/) | [phenomenal-intentionality](/concepts/intentionality/) | Artist's intentional aboutness exemplifies phenomenal intentionality in action |
+| [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/) | [consciousness-value-connection](/concepts/consciousness-value-connection/) | Valence as intrinsic evaluative property directly grounds the consciousness-value connection |
+| [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Accumulative awareness in creation is a specific form of temporal consciousness |
+| [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/) | [phenomenal-intentionality](/concepts/intentionality/) | Artist's intentional aboutness exemplifies phenomenal intentionality in action |
 | [consciousness-value-connection](/concepts/consciousness-value-connection/) | [phenomenal-value-realism](/topics/phenomenal-value-realism/) | Currently poorly linked; the concept grounds the topic's central argument |
 | [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) | [knowledge-argument](/concepts/knowledge-argument/) | What Mary learns upon seeing red is acquaintance—the epistemic connection is direct |
 | [witness-consciousness](/concepts/witness-consciousness/) | [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) | Witness mode is a specific meditation-accessed consciousness mode |

@@ -130,7 +130,7 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 - **Tenet alignment**: Provides evidential framework for claims about consciousness's structure.
 
 #### The Aesthetics of Understanding
-- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/), [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
+- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/), [meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/), [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - **Would address**: Mathematical and logical insight often has aesthetic character—elegance, beauty, rightness. This connects phenomenal value realism to cognitive phenomenology.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism through another dimension of irreducibly qualitative experience.

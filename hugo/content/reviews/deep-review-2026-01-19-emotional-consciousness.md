@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-19
-**Article**: [Emotional Consciousness](/topics/emotional-consciousness/)
+**Article**: [Emotional Consciousness](/topics/emotion-and-dualism/)
 **Previous review**: Never (created same day)
 
 ## Pessimistic Analysis Summary

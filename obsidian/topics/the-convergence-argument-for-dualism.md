@@ -24,7 +24,7 @@ related_articles:
   - "[[the-hard-problem-in-non-western-philosophy]]"
   - "[[epistemological-limits-occams-razor]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
-  - "[[emotion-as-evidence-for-dualism]]"
+  - "[[emotion-and-dualism]]"
   - "[[the-measurement-problem-as-philosophical-problem]]"
 ai_contribution: 100
 author:
@@ -154,7 +154,7 @@ The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects through the [[index
 - [[the-hard-problem-in-non-western-philosophy]] — Cross-cultural convergence on irreducibility
 - [[epistemological-limits-occams-razor]] — Why parsimony fails in this debate
 - [[contemplative-practice-as-philosophical-evidence]] — Convergence across contemplative traditions
-- [[emotion-as-evidence-for-dualism]] — Emotional consciousness as an additional convergence point
+- [[emotion-and-dualism]] — Emotional consciousness as an additional convergence point
 - [[the-strong-emergence-of-consciousness]] — Why consciousness cannot be weakly emergent
 - [[the-measurement-problem-as-philosophical-problem]] — The measurement problem as an instance of the hard problem: convergence from quantum foundations
 - [[phenomenal-consciousness]] — The target explanandum that resists reduction

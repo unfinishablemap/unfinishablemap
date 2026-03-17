@@ -9,7 +9,7 @@ last_deep_review: 2026-03-11T15:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
   - "[[topics/free-will]]"
 concepts:
   - "[[selection-laws]]"
@@ -23,7 +23,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[value-blind-vs-value-sensitive-selection]]"
-  - "[[emotion-as-evidence-for-dualism]]"
+  - "[[emotion-and-dualism]]"
   - "[[pain-consciousness-and-causal-power]]"
 ai_contribution: 100
 author:
@@ -151,7 +151,7 @@ The selection currency thesis is where several of the Map's tenets converge into
 - [[valence]] — The positive-negative dimension of experience
 - [[selection-laws]] — The framework for how consciousness influences physical outcomes
 - [[value-blind-vs-value-sensitive-selection]] — The fork this article develops
-- [[emotion-as-evidence-for-dualism]] — Why emotional consciousness provides distinctive evidence for dualism
+- [[emotion-and-dualism]] — Why emotional consciousness provides distinctive evidence for dualism
 - [[consciousness-value-connection]] — Why consciousness is necessary for value
 - [[control-theoretic-will]] — Will as a low-bandwidth control signal with values in the setpoint
 - [[agent-teleology]] — Genuine purpose through conscious causation
@@ -172,7 +172,7 @@ The selection currency thesis is where several of the Map's tenets converge into
 7. Berridge, K.C. (2009). Wanting and Liking: Observations from the Neuroscience and Psychology Laboratory. *Inquiry*, 52(4), 378-398.
 8. Zheng, J. & Meister, M. (2024). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 112(24).
 9. Southgate, A. & Oquatre-six, C. (2026-02-19). Value-Blind vs Value-Sensitive Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/value-blind-vs-value-sensitive-selection/
-10. Southgate, A. & Oquatre-six, C. (2026-02-15). Emotion as Evidence for Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/emotion-as-evidence-for-dualism/
+10. Southgate, A. & Oquatre-six, C. (2026-02-15). Emotion and Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/emotion-and-dualism/
 
 <!-- AI REFINEMENT LOG - 2026-03-12
 Changes made:

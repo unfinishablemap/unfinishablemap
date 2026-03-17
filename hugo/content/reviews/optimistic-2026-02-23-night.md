@@ -63,7 +63,7 @@ The [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-caus
 
 The [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) concept article builds the positive case with empirical precision. The 10-fold human-ape cognitive gap despite ~1-2% genetic difference; the working memory maintenance/manipulation distinction (unconscious processing can *maintain* but *manipulation* requires consciousness); Lieberman's finding that cognitive load on conscious processes specifically impairs logical reasoning while hampering unconscious systems has no effect—these are not armchair arguments but empirical evidence that consciousness makes a causal difference.
 
-The [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) article's treatment of pain asymbolia is the Map's sharpest empirical argument for mental causation. Patients know tissue damage is occurring but lack motivation to respond because the felt quality is absent. This dissociation—representation and functional machinery intact, valence absent, behaviour changed—is precisely what dualism predicts and what epiphenomenalism cannot accommodate.
+The [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/) article's treatment of pain asymbolia is the Map's sharpest empirical argument for mental causation. Patients know tissue damage is occurring but lack motivation to respond because the felt quality is absent. This dissociation—representation and functional machinery intact, valence absent, behaviour changed—is precisely what dualism predicts and what epiphenomenalism cannot accommodate.
 
 ### The Mysterian (McGinn)
 
@@ -113,7 +113,7 @@ This pattern of honest limitation transforms what could be defensive argumentati
 ### High Priority
 
 #### The Phenomenology of Creative Problem-Solving
-- **Builds on**: [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/), [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/), [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/), [consciousness-and-creativity](/concepts/consciousness-and-creativity/)
+- **Builds on**: [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/), [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/), [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/), [consciousness-and-creativity](/concepts/consciousness-and-creativity/)
 - **Would address**: The incubation effect (solutions arriving during periods of non-attention) provides evidence for both delegatory processing and consciousness-as-selector. When the "aha" moment arrives, what is its phenomenal structure? The sudden gestalt shift—from confusion to clarity—may reveal consciousness recognising a solution that unconscious processing generated, instantiating the bidirectional architecture
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Bidirectional Interaction (consciousness recognises and selects solutions), Dualism (the phenomenal character of insight is irreducible)
@@ -139,7 +139,7 @@ This pattern of honest limitation transforms what could be defensive argumentati
 - **Tenet alignment**: No Many Worlds (requires real collapse), Minimal Quantum Interaction (atemporal selection), Dualism (consciousness constituting rather than tracking time)
 
 #### Aesthetic Experience as Evidence for Irreducibility
-- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/), [phenomenal-value-realism](/topics/phenomenal-value-realism/)
+- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/), [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/), [phenomenal-value-realism](/topics/phenomenal-value-realism/)
 - **Would address**: The experience of beauty—its immediacy, its capacity to arrest attention, its resistance to articulation—shares structural features with other irreducible phenomenal properties. Music appreciation provides a particularly rich case: the felt tension and resolution of harmonic progressions, the anticipation structure, the emotional specificity. If these can be fully explained by pattern recognition, they should be fully replicable; if they cannot, the residue is phenomenal
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Dualism (aesthetic qualia as irreducible), Bidirectional Interaction (aesthetic experience guiding creative action)
@@ -164,7 +164,7 @@ This pattern of honest limitation transforms what could be defensive argumentati
 |------|-----|--------|
 | [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) | [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) | Flow and choking are complementary evidence: flow shows consciousness operating without friction; choking shows consciousness interfering. Together they map the selection interface's modes |
 | [galilean-exclusion](/concepts/galilean-exclusion/) | [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) | Galilean exclusion explains *why* cognitive science operates under methodological materialism—the method was designed to exclude what dualism points to |
-| [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) | [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) | Valence irreducibility (pain asymbolia) plus causal efficacy (amplification) form complementary halves of the same argument |
+| [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/) | [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) | Valence irreducibility (pain asymbolia) plus causal efficacy (amplification) form complementary halves of the same argument |
 | [phenomenal-intentionality](/concepts/intentionality/) | [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) | PIT's claim that meaning requires phenomenal character has direct implications for how language works under dualism |
 | [brain-specialness-boundary](/topics/brain-specialness-boundary/) | [animal-consciousness](/topics/animal-consciousness/) | The four constraints on where consciousness interfaces (locality, control loops, development, attention) should apply across species—testing this would strengthen both articles |
 | [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) | [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-attention/) | Time-symmetric selection proposes atemporal constraint satisfaction; temporal attention phenomenology provides the experiential side of this mechanism |

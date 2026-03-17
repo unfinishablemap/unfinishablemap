@@ -64,7 +64,7 @@ topics: []
 ### Cross-links Added
 - [blindsight](/concepts/blindsight/)
 - [moral-responsibility](/concepts/moral-responsibility/) (inline, not just Further Reading)
-- [emotional-consciousness](/topics/emotional-consciousness/)
+- [emotional-consciousness](/topics/emotion-and-dualism/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [phenomenology-of-moral-perception](/topics/phenomenology-of-moral-experience/)

@@ -14,7 +14,7 @@ concepts:
   - "[[phenomenal-normativity]]"
   - "[[qualia]]"
   - "[[phenomenal-consciousness]]"
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
   - "[[illusionism]]"
   - "[[panpsychism]]"
   - "[[epiphenomenalism]]"
@@ -180,7 +180,7 @@ These conditions do not currently obtain. The connection stands.
 
 - [[topics/phenomenal-value-realism]] — How consciousness-grounded value addresses metaethical challenges, with phenomenal properties constituting value
 - [[meaning-of-life]] — How consciousness-grounded value provides meaning
-- [[emotional-consciousness]] — Valence as the phenomenal dimension of good and bad
+- [[emotion-and-dualism]] — Valence as the phenomenal dimension of good and bad
 - [[ethics-of-consciousness]] — Moral implications of the consciousness-value connection
 - [[experiential-alignment]] — Operationalizing the connection for AI
 - [[purpose-and-alignment]] — Why AI alignment depends on this view

@@ -110,7 +110,7 @@ Many mathematicians report thinking in spatial relationships and vague visual sc
 
 ### The Aesthetic Criterion
 
-Mathematicians consistently report that correct proofs *feel* elegant before they are verified. G.H. Hardy wrote in *A Mathematician's Apology* that "there is no permanent place in the world for ugly mathematics." This [aesthetic sense](/topics/aesthetic-dimension-of-consciousness/) operates through phenomenal consciousness—it requires there to be something it is like to encounter the proof, a felt response that guides evaluation. The aesthetic criterion is not decorative; it is epistemically functional, tracking mathematical depth with striking (though imperfect) reliability. Why felt elegance should correlate with mathematical truth at all remains unexplained—it may represent a case of what [mysterians](/concepts/mysterianism/) call cognitive closure, a connection our minds exploit but cannot fathom.
+Mathematicians consistently report that correct proofs *feel* elegant before they are verified. G.H. Hardy wrote in *A Mathematician's Apology* that "there is no permanent place in the world for ugly mathematics." This [aesthetic sense](/topics/aesthetics-and-consciousness/) operates through phenomenal consciousness—it requires there to be something it is like to encounter the proof, a felt response that guides evaluation. The aesthetic criterion is not decorative; it is epistemically functional, tracking mathematical depth with striking (though imperfect) reliability. Why felt elegance should correlate with mathematical truth at all remains unexplained—it may represent a case of what [mysterians](/concepts/mysterianism/) call cognitive closure, a connection our minds exploit but cannot fathom.
 
 ### The Sense of Discovery
 
@@ -221,7 +221,7 @@ The view would be supported by continued failure of AI to achieve transformation
 - [mathematical-void](/voids/mathematical-void/) — Cognitive limits on mathematical comprehension
 - [incompleteness-void](/voids/incompleteness-void/) — The boundary Gödel's theorems reveal
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — Empirical evidence for unconscious creative processing
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why aesthetic experience matters philosophically
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic experience matters philosophically
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The felt difference between mechanical verification and genuine comprehension
 - [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Formal proofs of what computation cannot do
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — Parallels between choice phenomenology and insight phenomenology

@@ -29,7 +29,7 @@ concepts:
   - "[[voluntary-attention-control-mechanisms]]"
 related_articles:
   - "[[tenets]]"
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
   - "[[cognitive-phenomenology]]"
   - "[[objectivity-and-consciousness]]"
 ai_contribution: 100
@@ -144,7 +144,7 @@ Thomas Nagel's analysis in [[objectivity-and-consciousness]] illuminates why P-c
 - [[phenomenal-concepts-strategy]] - Physicalist response locating gap in concepts
 - [[inverted-qualia]] - Phenomenal inversion without functional difference
 - [[illusionism]] - Denying phenomenal consciousness exists
-- [[emotional-consciousness]] - Valence and emotional phenomenology
+- [[emotion-and-dualism]] - Valence and emotional phenomenology
 - [[pain-consciousness-and-causal-power]] - Pain as the paradigm case for phenomenal causation
 - [[cognitive-phenomenology]] - What it's like to think
 - [[mysterianism]] - Cognitive closure and the limits of understanding consciousness

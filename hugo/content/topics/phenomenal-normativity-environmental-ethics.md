@@ -89,7 +89,7 @@ These instrumental obligations can be more demanding than ecocentrist obligation
 
 ## The Aesthetic Dimension
 
-[Aesthetic experience](/topics/aesthetic-dimension-of-consciousness/) provides a distinct but often overlooked grounding for environmental obligations. The felt beauty of a mountain landscape, the awe evoked by old-growth forest, the contemplative quality of watching ocean waves—these are phenomenal experiences with intrinsic normative character.
+[Aesthetic experience](/topics/aesthetics-and-consciousness/) provides a distinct but often overlooked grounding for environmental obligations. The felt beauty of a mountain landscape, the awe evoked by old-growth forest, the contemplative quality of watching ocean waves—these are phenomenal experiences with intrinsic normative character.
 
 The Map's [phenomenal value pluralism](/topics/phenomenal-value-realism/#the-maps-position-phenomenal-value-pluralism) recognises aesthetic quality as intrinsically valuable alongside hedonic valence, meaning, agency, and understanding. Environmental destruction eliminates not only habitat for conscious animals but also the conditions for profound aesthetic experience in conscious beings who encounter nature.
 
@@ -140,7 +140,7 @@ The Map's tenets shape environmental ethics distinctively:
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of consciousness across beings
 - [animal-consciousness](/topics/animal-consciousness/) — Evidence for and scope of animal experience
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical foundation
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Aesthetic normativity beyond hedonic valence
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Aesthetic normativity beyond hedonic valence
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — How normative demands present in experience across four domains
 - [moral-perception](/concepts/moral-perception/) — Direct apprehension of moral properties
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Why pain's awfulness is constitutive, not correlative

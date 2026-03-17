@@ -28,7 +28,7 @@ topics: []
 ### Medium Issues Found
 - **Hadamard reference unused**: Listed in References but never cited in text. **Resolution**: Integrated Hadamard citation into the Ramanujan section where it naturally fits (documenting similar reception phenomenology from Poincaré and others).
 - **Dirac claim unreferenced**: "Paul Dirac extended this to physics, preferring beauty in equations over empirical fit" lacked citation. **Resolution**: Reframed with his famous quote, presented as reported rather than directly cited from a primary source.
-- **Frontmatter misclassification**: `[aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/)` was listed under `concepts:` but the article exists in `topics/`. **Resolution**: Moved to `topics:` field.
+- **Frontmatter misclassification**: `[aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)` was listed under `concepts:` but the article exists in `topics/`. **Resolution**: Moved to `topics:` field.
 
 ### Counterarguments Considered
 

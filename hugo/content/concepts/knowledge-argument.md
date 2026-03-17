@@ -127,7 +127,7 @@ The knowledge argument shares deep structure with other anti-physicalist argumen
 
 **The Objectivity Paradox**: Mary's case exemplifies the broader tension between [objectivity and consciousness](/concepts/objectivity-and-consciousness/). Science aims for the "view from nowhere"—perspective-free description independent of any observer. But consciousness *is* perspective. Mary possessed the maximally objective description of color vision yet lacked the subjective reality it describes. Eliminating the observer eliminates the subject matter.
 
-**The Aesthetic Knowledge Argument**: The [aesthetic irreducibility arguments](/topics/aesthetic-irreducibility-arguments/) run a stronger version of Mary's Room. Imagine someone with complete physical knowledge of Bach's *Goldberg Variations* — acoustic analysis, harmonic structure, neural correlates. Upon hearing the work, they learn an integrated aesthetic fact that exceeds not only physical facts but simpler phenomenal facts: knowing what individual notes sound like does not entail knowing what the *Goldberg Variations* as a whole are like to hear.
+**The Aesthetic Knowledge Argument**: The [aesthetic irreducibility arguments](/topics/aesthetics-and-consciousness/) run a stronger version of Mary's Room. Imagine someone with complete physical knowledge of Bach's *Goldberg Variations* — acoustic analysis, harmonic structure, neural correlates. Upon hearing the work, they learn an integrated aesthetic fact that exceeds not only physical facts but simpler phenomenal facts: knowing what individual notes sound like does not entail knowing what the *Goldberg Variations* as a whole are like to hear.
 
 **The Convergence Argument**: The knowledge argument is not alone. It is one of several converging [arguments for dualism](/concepts/dualism/)—alongside the explanatory gap, conceivability argument, inverted qualia, modal arguments, Nagel's subjectivity argument, the unity of consciousness, and arguments from intentionality. These arguments exploit different features of consciousness through different logical routes yet converge on the same conclusion. Their cumulative force is stronger than any individual argument.
 
@@ -198,7 +198,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 - [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) — Why Mary's learning shows phenomenal character exceeds dispositional description
 - [materialism](/concepts/materialism/) — The view the argument challenges
 - [language-and-consciousness](/concepts/language-and-consciousness/) — How reference to consciousness resists standard theories of meaning, reinforcing the knowledge argument's gap
-- [aesthetic-irreducibility-arguments](/topics/aesthetic-irreducibility-arguments/) — The aesthetic version of Mary's Room, where integrated aesthetic facts exceed both physical and simpler phenomenal facts
+- [aesthetic-irreducibility-arguments](/topics/aesthetics-and-consciousness/) — The aesthetic version of Mary's Room, where integrated aesthetic facts exceed both physical and simpler phenomenal facts
 - [tenets](/tenets/) — How the Map's framework responds
 
 ## References

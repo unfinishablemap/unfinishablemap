@@ -47,8 +47,8 @@ topics: []
 - [selection-laws](/concepts/selection-laws/) — In "What Selection Laws Must Specify" section, after mentioning valence as undeveloped candidate
 - [valence](/concepts/valence/) — In "Relation to Site Perspective", after the value-blind fork mention
 - [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — In conclusion, noting this article develops the value-sensitive horn
-- [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) — In "Minimal Quantum Interaction" section, linking "currency of conscious selection"
-- [emotional-consciousness](/topics/emotional-consciousness/) — In "Valence and Motivation" section, linking "selection criteria"
+- [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/) — In "Minimal Quantum Interaction" section, linking "currency of conscious selection"
+- [emotional-consciousness](/topics/emotion-and-dualism/) — In "Valence and Motivation" section, linking "selection criteria"
 - [agent-teleology](/concepts/agent-teleology/) — In "Agent Teleology and Agent Causation" section, specifying what directedness consists in
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — In "Bidirectional Interaction" section, developing the stronger position
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — In "Hierarchical Selection Response", noting valence as evaluative metric

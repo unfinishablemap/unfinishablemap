@@ -67,7 +67,7 @@ None. The article is internally consistent, has all required sections, and makes
 ### Cross-links Added
 
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) (inline, betrayal section)
-- [emotional-consciousness](/topics/emotional-consciousness/) (Further Reading + frontmatter)
+- [emotional-consciousness](/topics/emotion-and-dualism/) (Further Reading + frontmatter)
 - [machine-consciousness](/topics/machine-consciousness/) (Further Reading + frontmatter)
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) (Further Reading + frontmatter)
 

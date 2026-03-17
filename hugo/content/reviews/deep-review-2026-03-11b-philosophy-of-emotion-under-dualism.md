@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [Philosophy of Emotion Under Dualism](/topics/philosophy-of-emotion-under-dualism/)
+**Article**: [Philosophy of Emotion Under Dualism](/topics/emotion-and-dualism/)
 **Previous review**: [2026-03-11](/reviews/deep-review-2026-03-11-philosophy-of-emotion-under-dualism/) (earlier today)
 **Context**: Orphan integration — article had no inbound links
 
@@ -49,9 +49,9 @@ No new counterarguments beyond those addressed in the previous review. The artic
 - **Primary focus: Orphan integration.** Added 7 inbound cross-links from related articles:
 
 ### Cross-links Added (FROM other articles TO this article)
-- [emotional-consciousness](/topics/emotional-consciousness/) — Further Reading
-- [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) — Further Reading
-- [void-of-self-knowledge-in-emotion](/topics/void-of-self-knowledge-in-emotion/) — Further Reading
+- [emotional-consciousness](/topics/emotion-and-dualism/) — Further Reading
+- [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/) — Further Reading
+- [void-of-self-knowledge-in-emotion](/topics/emotion-and-dualism/) — Further Reading
 - [emotional-epistemology-void](/voids/emotional-epistemology-void/) — Further Reading
 - [valence-void](/voids/valence-void/) — Further Reading
 - [intentionality](/concepts/intentionality/) — Further Reading (emotional intentionality as sui generis mode)

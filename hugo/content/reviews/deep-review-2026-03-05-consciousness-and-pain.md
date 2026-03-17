@@ -61,7 +61,7 @@ The archived `consciousness-and-pain.md` was not modified. All changes target th
 - **Further Reading**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` entry — "Pain as the hardest case for epiphenomenalism"
 
 ### 8. topics/animal-consciousness.md
-- **Inline**: Replaced `[pain asymbolia](/topics/emotional-consciousness/#valence)` with `[pain asymbolia](/topics/pain-consciousness-and-causal-power/)` in the emotional consciousness section (more specific target)
+- **Inline**: Replaced `[pain asymbolia](/topics/emotion-and-dualism/#valence)` with `[pain asymbolia](/topics/pain-consciousness-and-causal-power/)` in the emotional consciousness section (more specific target)
 - **Further Reading**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` entry under Related Topics
 
 ### 9. topics/disorders-of-consciousness-as-test-cases.md

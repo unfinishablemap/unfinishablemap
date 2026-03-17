@@ -67,7 +67,7 @@ This felt discovery — the experience of uncovering rather than constructing �
 
 ## Aesthetic Experience in Theory Choice
 
-Scientists regularly describe theoretical insight in aesthetic terms — elegance, beauty, simplicity, rightness. The [aesthetic dimension](/topics/aesthetic-dimension-of-consciousness/) of scientific discovery has a genuine phenomenal character that plays a role in theory selection.
+Scientists regularly describe theoretical insight in aesthetic terms — elegance, beauty, simplicity, rightness. The [aesthetic dimension](/topics/aesthetics-and-consciousness/) of scientific discovery has a genuine phenomenal character that plays a role in theory selection.
 
 Dirac's remark that "it is more important to have beauty in one's equations than to have them fit experiment" (Dirac, 1963) expresses an extreme form of a widely shared experience: the felt pull of a mathematically elegant theory, the experienced *rightness* of a formulation that seems to capture something deep about nature's structure. Henri Poincare (1908) argued that mathematical intuition operates through a "special aesthetic sensibility" — a felt sense of harmony that guides the mathematician toward fruitful combinations among the vast space of logical possibilities.
 
@@ -110,7 +110,7 @@ The phenomenology of scientific discovery connects to several of the Map's [tene
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/)
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)
 - [categorical-surprise](/concepts/categorical-surprise/)
 - [consciousness-and-the-problem-of-theoretical-virtues](/topics/consciousness-and-methodological-failure/)
 

@@ -64,7 +64,7 @@ topics: []
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) (fixed from broken `deliberation-under-uncertainty`)
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) (fixed from broken `choking-under-pressure`)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
-- [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/)
+- [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 
 ## Remaining Items

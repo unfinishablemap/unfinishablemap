@@ -13,7 +13,7 @@ concepts:
 - '[[concepts/functionalism]]'
 - '[[higher-order-theories]]'
 - '[[problem-of-other-minds]]'
-- '[[emotional-consciousness]]'
+- '[[emotion-and-dualism]]'
 - '[[illusionism]]'
 - '[[introspection]]'
 - '[[decoherence]]'
@@ -203,7 +203,7 @@ Whether animal nervous systems provide the right conditions for quantum consciou
 ### Core Concepts
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — C. elegans, Hydra, slime molds, the UAL framework, and contemplative evidence for minimal consciousness
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness emerged and phylogenetic distribution
-- [emotional-consciousness](/topics/emotional-consciousness/) — Valence and the Panksepp-LeDoux debate
+- [emotion-and-dualism](/topics/emotion-and-dualism/) — Valence and the Panksepp-LeDoux debate
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemological framework underlying consciousness attribution
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Does the consciousness-matter interface vary across species and states?
 

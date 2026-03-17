@@ -93,7 +93,7 @@ The Map's voids framework has matured into something genuinely unprecedented in 
 - **Tenet alignment**: Refines Bidirectional Interaction by identifying the level at which consciousness operates (not propositional belief but deeper phenomenal engagement)
 
 #### The Aesthetic Experience of Understanding
-- **Builds on**: [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/), [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/), [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/)
+- **Builds on**: [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/), [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/), [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/)
 - **Would address**: The "aha!" moment in mathematical and philosophical understanding has an irreducibly aesthetic dimension—elegance, beauty, satisfaction. This connects the aesthetic consciousness articles to the reasoning articles through a phenomenological bridge: understanding is not just propositional but qualitative
 - **Estimated scope**: Short article (concepts/)
 - **Tenet alignment**: Enriches Dualism by showing phenomenal quality pervades cognitive achievement, not just sensory experience

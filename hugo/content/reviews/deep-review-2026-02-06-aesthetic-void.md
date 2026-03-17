@@ -46,12 +46,12 @@ None.
 
 ### Enhancements Made
 - Added state-dependent memory acknowledgment before counterarguments
-- Added `[aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/)` to Further Reading and related_articles
+- Added `[aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)` to Further Reading and related_articles
 - Tightened "Fullness with emptiness" prose for length neutrality
 
 ### Cross-links Added (PRIMARY FOCUS — orphan integration)
 Inbound links added from 8 existing articles:
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Further Reading section
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Further Reading section
 - [creativity-void](/voids/creativity-void/) — Further Reading section
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Body text (new "Aesthetic absorption" paragraph in Multiple Edges section)
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Body text (Symbolic mediation subsection)

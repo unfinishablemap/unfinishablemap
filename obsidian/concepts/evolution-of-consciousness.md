@@ -228,7 +228,7 @@ Scientific humility requires specifying what would count against one's view.
 - [[panpsychism]] — The view that experience is fundamental
 - [[combination-problem]] — How micro-experiences combine into unified minds
 - [[unity-of-consciousness|phenomenal unity]] — The binding of experience into unified wholes
-- [[emotional-consciousness]] — The felt quality of emotions and its adaptive role
+- [[emotion-and-dualism]] — The felt quality of emotions and its adaptive role
 - [[illusionism]] — The radical physicalist response
 - [[decoherence]] — The quantum coherence challenge and biological precedents
 - [[attention-as-interface]] — How consciousness interfaces with neural quantum processes

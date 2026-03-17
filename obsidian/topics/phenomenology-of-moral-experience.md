@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[topics/phenomenal-value-realism]]"
   - "[[qualia]]"
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
   - "[[moral-responsibility]]"
   - "[[introspection]]"
   - "[[witness-consciousness]]"
@@ -195,7 +195,7 @@ The phenomenology of moral experience connects to the Map's [[tenets|foundationa
 - [[phenomenal-normativity]] — The thesis that phenomenal states carry intrinsic normative force
 - [[consciousness-and-normative-force]] — The shared phenomenal architecture of moral, epistemic, aesthetic, and prudential demands
 - [[normative-phenomenology]] — First-person investigation of normative experience broadly
-- [[emotional-consciousness]] — Valence as the felt quality of emotion
+- [[emotion-and-dualism]] — Valence as the felt quality of emotion
 - [[aesthetic-dimension-of-consciousness]] — Why aesthetic experience resists reduction
 - [[normative-void]] — Cognitive limits on moral knowledge
 - [[moral-responsibility]] — How agent causation grounds moral desert

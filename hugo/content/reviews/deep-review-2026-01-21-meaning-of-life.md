@@ -64,7 +64,7 @@ topics: []
 - [introspection](/concepts/introspection/) - first-person methods
 - [haecceity](/concepts/haecceity/) - indexical identity and unrepeatability
 - [decoherence](/concepts/decoherence/) - quantum objection
-- [emotional-consciousness](/topics/emotional-consciousness/) - valence and felt quality
+- [emotional-consciousness](/topics/emotion-and-dualism/) - valence and felt quality
 - [temporal-consciousness](/concepts/temporal-consciousness/) - Bergson's lived time
 - [illusionism](/concepts/illusionism/) - strengthened existing link with substantive engagement
 

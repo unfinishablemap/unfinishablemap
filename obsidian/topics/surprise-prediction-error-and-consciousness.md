@@ -35,7 +35,7 @@ related_articles:
   - "[[consciousness-as-amplifier]]"
   - "[[evolutionary-case-for-mental-causation]]"
   - "[[structure-of-attention]]"
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
   - "[[choking-phenomenon-mental-causation]]"
   - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[phenomenology-of-error-recognition]]"
@@ -212,7 +212,7 @@ Surprise connects to The Unfinishable Map's [[tenets]] at multiple points.
 - [[creativity-void]] — The boundary of what minds can generate
 - [[epistemic-emotions]] — Curiosity, wonder, and other knowledge-directed affects
 - [[structure-of-attention]] — How attention allocates cognitive resources
-- [[emotional-consciousness]] — The felt quality of affective states
+- [[emotion-and-dualism]] — The felt quality of affective states
 - [[phenomenology-of-understanding-and-meaning]] — The click of successful integration
 - [[phenomenology-of-epistemic-cognition]] — The felt texture of changing one's mind
 - [[phenomenology-of-error-recognition]] — How minds catch their own mistakes

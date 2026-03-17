@@ -129,7 +129,7 @@ The Map's honesty about what remains uncertain—whether specific quantum mechan
 ### Medium Priority
 
 #### The Argument from Beauty
-- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [qualia](/concepts/qualia/), [meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/)
+- **Builds on**: [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/), [qualia](/concepts/qualia/), [meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/)
 - **Would address**: If aesthetic experience is irreducibly qualitative (as suggested in the qualia article's treatment of aesthetic qualia), this provides another argument for dualism distinct from Mary's Room.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Novel support for Dualism through aesthetic phenomenology.
@@ -158,12 +158,12 @@ The Map's honesty about what remains uncertain—whether specific quantum mechan
 
 | From | To | Reason |
 |------|-----|--------|
-| [phenomenal-consciousness](/concepts/phenomenal-consciousness/) | [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) | Aesthetic qualia as strongest case for irreducibility |
+| [phenomenal-consciousness](/concepts/phenomenal-consciousness/) | [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) | Aesthetic qualia as strongest case for irreducibility |
 | [free-will](/topics/free-will/) | [vertiginous-question](/topics/vertiginous-question/) | Indexical identity grounds personal authorship |
 | [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-the-consciousness-debate/) | [voluntary-attention](/concepts/attention-as-interface/) | Cryptochrome Zeno effect parallels attention mechanism |
 | [machine-consciousness](/topics/machine-consciousness/) | [vertiginous-question](/topics/vertiginous-question/) | Haecceity problem central to upload skepticism |
 | [agent-causation](/concepts/agent-causation/) | [consciousness-and-creativity](/concepts/consciousness-and-creativity/) | Generation extends beyond pure selection |
-| [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) | [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) | Aesthetic qualia may resist reduction more than sensory |
+| [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) | [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) | Aesthetic qualia may resist reduction more than sensory |
 
 ## New Concept Pages Needed
 

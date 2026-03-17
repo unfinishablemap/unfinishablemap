@@ -3830,7 +3830,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 14:41 UTC - expand-topic
 - **Status**: Already exists
 - **Topic**: consciousness and emotional valence
-- **Output**: [emotional-consciousness](/topics/emotional-consciousness/) (existing article)
+- **Output**: [emotional-consciousness](/topics/emotion-and-dualism/) (existing article)
 - **Word count**: 3200 (existing)
 - **Based on research**: yes — [emotional-consciousness-valence-2026-01-19](/research/emotional-consciousness-valence-2026-01-19/)
 - **Notes**: Article already exists at topics/emotional-consciousness.md, created 2026-01-19, last deep-reviewed 2026-02-01. Comprehensive treatment covers: the felt quality problem, valence (hedonic vs evaluativist accounts), Panksepp vs LeDoux debate, pain asymbolia evidence, valence and motivation, core affect theory, moral status implications, and full tenet connections. Removed task from queue.

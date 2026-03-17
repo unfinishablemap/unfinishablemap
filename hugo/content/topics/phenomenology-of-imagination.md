@@ -47,7 +47,7 @@ topics:
 - '[[topics/free-will]]'
 - '[[consciousness-and-creative-distinctiveness]]'
 - '[[consciousness-and-counterfactual-reasoning]]'
-- '[[emotional-consciousness]]'
+- '[[emotion-and-dualism]]'
 ---
 
 Imagination occupies a unique phenomenal territory—borrowing from perception, memory, and thought while remaining distinct from each. When you imagine a purple elephant standing in your kitchen, the experience has a specific character: quasi-perceptual vividness without sensory conviction, voluntary directedness without guaranteed compliance, and a felt awareness that the content is self-generated rather than world-given. The Unfinishable Map holds that this distinctive phenomenal profile resists materialist reduction. Imagination reveals consciousness as an active structuring force—assembling novel experiential wholes from components that need never have co-occurred in perception—rather than a passive replay mechanism running on neural hardware.
@@ -82,7 +82,7 @@ This phenomenal inhabitation distinguishes conscious imagination from computatio
 
 ## The Emotional Reality of Imagined Content
 
-Imagined scenarios produce real emotions. Fear arises when imagining a dangerous scenario, sadness when imagining a loss, delight when imagining a reunion. These emotions carry physiological signatures—elevated heart rate, muscle tension, mood shifts—directed at intentional objects that do not exist. This phenomenon is related to what philosophers call the "paradox of fiction" (Radford & Weston, 1975), though self-generated imagination raises a distinct problem: in fiction, the non-existence of the objects is what creates the paradox; in imagination, consciousness generates both the content and the [emotional response](/topics/emotional-consciousness/) to that content from its own resources.
+Imagined scenarios produce real emotions. Fear arises when imagining a dangerous scenario, sadness when imagining a loss, delight when imagining a reunion. These emotions carry physiological signatures—elevated heart rate, muscle tension, mood shifts—directed at intentional objects that do not exist. This phenomenon is related to what philosophers call the "paradox of fiction" (Radford & Weston, 1975), though self-generated imagination raises a distinct problem: in fiction, the non-existence of the objects is what creates the paradox; in imagination, consciousness generates both the content and the [emotional response](/topics/emotion-and-dualism/) to that content from its own resources.
 
 Walton (1990) argued that fiction-directed emotions are *quasi-emotions*—make-believe states that resemble genuine emotions without fully being them. Even if this account holds for fiction, it struggles with self-generated imagination. When you vividly imagine a feared scenario—a loved one in danger, a public humiliation—the resulting anxiety is not make-believe. You are not playing a game of pretend with an external artefact. The emotional response arises from consciousness engaging its own constructions with full phenomenal force.
 
@@ -116,7 +116,7 @@ Imagination bears on several of the Map's [tenets](/tenets/) in distinctive ways
 - [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/) — Why representing non-actuality requires consciousness
 - [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/) — When imagination takes itself as object
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — Forward-directed imagination and temporal experience
-- [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/) — Imagination in artistic creation
+- [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/) — Imagination in artistic creation
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The felt quality of grasping meaning
 - [dream-consciousness](/topics/dream-consciousness/) — Dreams as involuntary imagination
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — Moral imagination and the felt quality of ethical perception

@@ -80,7 +80,7 @@ Three considerations motivate the extension:
 
 **The meaning problem.** Some experiences are deeply meaningful without being particularly pleasant. Completing a difficult creative project can involve frustration, exhaustion, even suffering—yet the engagement feels valuable in itself, not merely instrumentally. Hedonism must either classify such engagement as pleasant (stretching "pleasure" beyond recognition) or deny its intrinsic value (contradicting lived experience).
 
-**The aesthetic problem.** [Beauty and ugliness](/topics/aesthetic-dimension-of-consciousness/) seem intrinsically significant in experience. The sublime—awe-inspiring yet terrifying—can be beautiful without being pleasant. An experience can be pleasant without being beautiful (a warm bath) and beautiful without being pleasant (confronting a masterpiece that disturbs). This suggests aesthetic quality is a distinct value dimension.
+**The aesthetic problem.** [Beauty and ugliness](/topics/aesthetics-and-consciousness/) seem intrinsically significant in experience. The sublime—awe-inspiring yet terrifying—can be beautiful without being pleasant. An experience can be pleasant without being beautiful (a warm bath) and beautiful without being pleasant (confronting a masterpiece that disturbs). This suggests aesthetic quality is a distinct value dimension.
 
 **The agency problem.** Exercising genuine choice feels valuable even when difficult. The experience of authoring one's actions carries significance independent of hedonic payoff. Under the Map's framework of [agent causation](/concepts/agent-causation/), this makes sense: if consciousness genuinely shapes outcomes, the exercise of that capacity is intrinsically significant—not just as means to pleasant outcomes, but as a distinct value.
 
@@ -197,8 +197,8 @@ Phenomenal value realism interacts with all five tenets:
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness grounds meaning
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Ethical implications of consciousness-grounded value
 - [experiential-alignment](/concepts/experiential-alignment/) — Operationalizing phenomenal value for AI alignment
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why aesthetic value resists hedonistic reduction
-- [emotional-consciousness](/topics/emotional-consciousness/) — Valence as felt quality of emotion
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic value resists hedonistic reduction
+- [emotional-consciousness](/topics/emotion-and-dualism/) — Valence as felt quality of emotion
 - [illusionism](/concepts/illusionism/) — The strongest challenge and responses
 - [haecceity](/concepts/haecceity/) — Why indexical identity matters for value
 

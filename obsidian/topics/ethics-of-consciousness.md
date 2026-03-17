@@ -19,7 +19,7 @@ concepts:
   - "[[agent-causation]]"
   - "[[experiential-alignment]]"
   - "[[topics/phenomenal-value-realism]]"
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
   - "[[illusionism]]"
   - "[[introspection]]"
   - "[[decoherence]]"
@@ -60,7 +60,7 @@ Agent causation requires a conscious agent—a subject who experiences alternati
 
 Moral patienthood—the capacity to be helped or harmed in morally relevant ways—extends to all conscious beings, but only to conscious beings. Which systems are conscious?
 
-**Likely conscious**: Mammals and birds have strong scientific support (Cambridge Declaration 2012, New York Declaration 2024). The Panksepp-LeDoux debate in [[emotional-consciousness]] centers on whether subcortical structures suffice for felt experience—but either way, most mammals and birds have the relevant neural architecture. Other vertebrates have "realistic possibility" of consciousness. Cephalopods and possibly some other invertebrates may have valenced experience, not just nociception.
+**Likely conscious**: Mammals and birds have strong scientific support (Cambridge Declaration 2012, New York Declaration 2024). The Panksepp-LeDoux debate in [[emotion-and-dualism]] centers on whether subcortical structures suffice for felt experience—but either way, most mammals and birds have the relevant neural architecture. Other vertebrates have "realistic possibility" of consciousness. Cephalopods and possibly some other invertebrates may have valenced experience, not just nociception.
 
 **Probably not conscious (framework-dependent)**: Under the Map's [[ai-consciousness|analysis]], current AI systems lack consciousness—dualism implies computation alone doesn't produce consciousness, and current hardware lacks the quantum interfaces the framework requires. This conclusion rests on the Map's specific theoretical commitments; readers who don't share those commitments should apply greater uncertainty to AI systems. Bacteria, plants, and artifacts lack subjects for whom responses constitute experience.
 
@@ -204,7 +204,7 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 - [[moral-responsibility]] — How agent causation grounds desert
 - [[experiential-alignment]] — Targeting experience rather than preferences
 - [[topics/phenomenal-value-realism|Phenomenal Value Realism]] — How phenomenal value pluralism extends beyond hedonism to ground experiential value
-- [[emotional-consciousness]] — The felt quality of emotion and its ethical implications
+- [[emotion-and-dualism]] — The felt quality of emotion and its ethical implications
 - [[illusionism]] — The challenge from eliminativism about phenomenal consciousness
 - [[phenomenal-normativity]] — Why pain's badness is built into its phenomenal character
 - [[pain-consciousness-and-causal-power]] — The pain-suffering distinction and the causal work of felt badness

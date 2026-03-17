@@ -155,7 +155,7 @@ Surprise connects to The Unfinishable Map's [tenets](/tenets/) at multiple point
 - [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) — Creative insight and the encounter with genuine novelty
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Curiosity, wonder, and other knowledge-directed affects
 - [structure-of-attention](/topics/structure-of-attention/) — How attention allocates cognitive resources
-- [emotional-consciousness](/topics/emotional-consciousness/) — The felt quality of affective states
+- [emotional-consciousness](/topics/emotion-and-dualism/) — The felt quality of affective states
 
 ## References
 

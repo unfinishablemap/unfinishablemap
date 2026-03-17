@@ -106,13 +106,13 @@ The Dalai Lama has emphasised dream yoga's existential significance, describing 
 
 ### The Aesthetic Dimension
 
-[Contemplative practice reveals consciousness is saturated with aesthetic quality](/topics/aesthetic-dimension-of-consciousness/). Some experiences are beautiful, others jarring; some moments are harmonious, others discordant. This aesthetic dimension pervades experience at every level.
+[Contemplative practice reveals consciousness is saturated with aesthetic quality](/topics/aesthetics-and-consciousness/). Some experiences are beautiful, others jarring; some moments are harmonious, others discordant. This aesthetic dimension pervades experience at every level.
 
 The jhana states themselves have characteristic aesthetic textures—*pīti* (rapture) and *sukha* (happiness) are not merely pleasant but aesthetically distinct. Indian aesthetic theory developed sophisticated accounts of *rasa*—nine fundamental "flavours" that art evokes. These are irreducible qualities, not derivable from physical properties or functional states.
 
 Contemplative investigation intensifies rather than dissolves aesthetic experience. In deep concentration, ordinary objects can appear extraordinarily beautiful—not because judgment changes but because aesthetic qualia intensify. If aesthetics were mere misrepresentation, practice should reveal this. Instead, traditions report that beauty becomes more vivid, more pervasive, more evidently a feature of experience itself.
 
-This matters for the contemplative case specifically. [Aesthetic experience bundles every problematic feature of consciousness into a single phenomenon](/topics/aesthetic-dimension-of-consciousness/)—it is simultaneously qualitative, evaluative, holistic, temporally structured, and meaning-laden. These features are mutually constitutive: remove the evaluative dimension and the qualitative character changes; remove the holism and the normativity collapses. Contemplative practice, by intensifying rather than dissolving this bundled character, provides particularly strong evidence that first-person investigation accesses genuine features of consciousness rather than artefacts of untrained introspection.
+This matters for the contemplative case specifically. [Aesthetic experience bundles every problematic feature of consciousness into a single phenomenon](/topics/aesthetics-and-consciousness/)—it is simultaneously qualitative, evaluative, holistic, temporally structured, and meaning-laden. These features are mutually constitutive: remove the evaluative dimension and the qualitative character changes; remove the holism and the normativity collapses. Contemplative practice, by intensifying rather than dissolving this bundled character, provides particularly strong evidence that first-person investigation accesses genuine features of consciousness rather than artefacts of untrained introspection.
 
 ## Evidence for Theories
 
@@ -209,4 +209,4 @@ This apex article synthesizes:
 - [Meditation and Consciousness Modes](/concepts/meditation-and-consciousness-modes/) — Active selection and passive witnessing as distinct modes
 - [Introspection and First-Person Methods](/concepts/introspection/) — The reliability debate and process/content distinction
 - [Epistemic Advantages of Non-Materialist Theories](/topics/epistemic-advantages-of-dualism/) — Why keeping dualism on the table is epistemically responsible
-- [The Aesthetic Dimension of Consciousness](/topics/aesthetic-dimension-of-consciousness/) — Beauty and aesthetic quality as irreducible phenomenal features
+- [The Aesthetic Dimension of Consciousness](/topics/aesthetics-and-consciousness/) — Beauty and aesthetic quality as irreducible phenomenal features

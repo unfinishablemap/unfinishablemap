@@ -14,7 +14,7 @@ concepts:
   - "[[qualia]]"
   - "[[phenomenology]]"
   - "[[topics/phenomenal-value-realism]]"
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
   - "[[illusionism]]"
   - "[[introspection]]"
   - "[[witness-consciousness]]"
@@ -48,7 +48,7 @@ related_articles:
   - "[[knowledge-argument]]"
   - "[[philosophical-zombies]]"
   - "[[consciousness-and-normative-force]]"
-  - "[[emotion-as-evidence-for-dualism]]"
+  - "[[emotion-and-dualism]]"
   - "[[modal-structure-of-phenomenal-properties]]"
   - "[[consciousness-value-connection]]"
   - "[[acquaintance-knowledge]]"
@@ -80,7 +80,7 @@ Each of these arguments independently troubles physicalism. Their convergence in
 
 ## The Pervasiveness of Aesthetic Quality
 
-Aesthetic experience suffuses ordinary consciousness far beyond art galleries. Colours have aesthetic quality independent of what they represent—a particular blue is *cool* or *warm*, *deep* or *shallow*. Spatial experience carries felt character—a vaulted ceiling creates uplift irreducible to cubic metres. Musical rhythm creates tension and release that are intrinsically aesthetic. Ideas themselves have aesthetic character: a mathematical proof can be *elegant* or *clunky*, an argument *beautiful* or *ugly* independent of its validity. [[emotional-consciousness|Emotions]] are not merely valenced but aesthetically textured—joy can be *radiant* or *quiet*, sadness *poignant* or *heavy*.
+Aesthetic experience suffuses ordinary consciousness far beyond art galleries. Colours have aesthetic quality independent of what they represent—a particular blue is *cool* or *warm*, *deep* or *shallow*. Spatial experience carries felt character—a vaulted ceiling creates uplift irreducible to cubic metres. Musical rhythm creates tension and release that are intrinsically aesthetic. Ideas themselves have aesthetic character: a mathematical proof can be *elegant* or *clunky*, an argument *beautiful* or *ugly* independent of its validity. [[emotion-and-dualism|Emotions]] are not merely valenced but aesthetically textured—joy can be *radiant* or *quiet*, sadness *poignant* or *heavy*.
 
 This pervasiveness matters because it means aesthetic quality is not a special-purpose capacity bolted onto consciousness but a dimension of experience as such. Wherever consciousness operates—sensory perception, abstract thought, emotional life—aesthetic quality follows.
 

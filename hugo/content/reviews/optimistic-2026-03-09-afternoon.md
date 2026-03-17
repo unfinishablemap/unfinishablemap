@@ -81,7 +81,7 @@ The Map practices epistemic humility without surrendering to it. [selection-laws
 ### High Priority
 
 #### Medical Phenomenology Under Dualism
-- **Builds on**: [interface-friction](/concepts/interface-friction/), [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/), [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Builds on**: [interface-friction](/concepts/interface-friction/), [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/), [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
 - **Would address**: The Map has strong theoretical foundations but limited engagement with how consciousness-irreducibility transforms medical practice—pain treatment, anaesthetic depth monitoring, psychiatric diagnosis as interface disorders
 - **Estimated scope**: Long article (2000-3000 words)
 - **Tenet alignment**: Dualism (consciousness is not reducible to neural activity—implications for treatment), Bidirectional Interaction (placebo effects, psychosomatic phenomena)
@@ -107,7 +107,7 @@ The Map practices epistemic humility without surrendering to it. [selection-laws
 - **Tenet alignment**: All five tenets—each generates specific testable predictions
 
 #### Aesthetic Experience as Window on Irreducibility
-- **Builds on**: [binding-and-beauty](/topics/binding-and-beauty/), [phenomenal-normativity](/concepts/phenomenal-normativity/), [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)
+- **Builds on**: [binding-and-beauty](/topics/aesthetics-and-consciousness/), [phenomenal-normativity](/concepts/phenomenal-normativity/), [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)
 - **Would address**: Beauty, elegance, and aesthetic satisfaction resist functional reduction as strongly as pain and colour. Systematic treatment of aesthetic phenomenology could provide independent evidence for irreducibility from a domain less contested than qualia
 - **Estimated scope**: Medium article (1000-1500 words)
 - **Tenet alignment**: Dualism (aesthetic properties are not physical properties), Bidirectional Interaction (aesthetic judgements causally influence creative output)
@@ -127,7 +127,7 @@ The Map practices epistemic humility without surrendering to it. [selection-laws
 | [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/) | [mental-imagery](/concepts/mental-imagery/) | Dream imagery vs. waking imagery—same capability, different interface conditions |
 | [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) | [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) | Amplification operates through memory's dual-domain architecture |
 | [perceptual-fidelity-and-the-interface](/topics/perceptual-failure-and-the-interface/) | [interface-friction](/concepts/interface-friction/) | Blur is a specific instance of interface friction made visible |
-| [selection-laws](/concepts/selection-laws/) | [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) | Valence as candidate currency for selection laws |
+| [selection-laws](/concepts/selection-laws/) | [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/) | Valence as candidate currency for selection laws |
 | [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) | [binding-problem](/concepts/binding-problem/) | Spatial binding is a specific instance of the general binding problem |
 | [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) | [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) | Mathematical insight as paradigm case of understanding-phenomenology |
 

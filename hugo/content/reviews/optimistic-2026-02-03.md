@@ -111,7 +111,7 @@ This combination of philosophical rigor with appropriate humility about limits i
 - **Tenet alignment**: Directly supports Bidirectional Interaction by explaining the metaphysical framework for mental causation
 
 #### The Phenomenology of Moral Experience
-- **Builds on**: [phenomenal-value-realism](/topics/phenomenal-value-realism/), [ethics-of-consciousness](/topics/ethics-of-consciousness/), [emotional-consciousness](/topics/emotional-consciousness/)
+- **Builds on**: [phenomenal-value-realism](/topics/phenomenal-value-realism/), [ethics-of-consciousness](/topics/ethics-of-consciousness/), [emotional-consciousness](/topics/emotion-and-dualism/)
 - **Would address**: What it is like to experience something as wrong or obligatory—the phenomenology underlying moral judgment
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism by showing moral phenomenology has irreducible features

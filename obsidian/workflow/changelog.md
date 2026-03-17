@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 01:45 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[emotional-consciousness]], [[emotion-as-evidence-for-dualism]], [[philosophy-of-emotion-under-dualism]], [[void-of-self-knowledge-in-emotion]]
+- **Target**: [[emotion-and-dualism]]
+- **Archived**: archive/topics/emotional-consciousness.md, archive/topics/emotion-as-evidence-for-dualism.md, archive/topics/philosophy-of-emotion-under-dualism.md, archive/topics/void-of-self-knowledge-in-emotion.md
+- **References updated**: 38 files (19 topics, 15 concepts, 2 voids, 2 apex)
+
 ## 2026-03-17 01:32 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-problem-of-induction]]

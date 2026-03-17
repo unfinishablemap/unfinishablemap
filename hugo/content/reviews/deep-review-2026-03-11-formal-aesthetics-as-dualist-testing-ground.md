@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 - **Uncited references**: Birkhoff (1933), Helmholtz (1863/1954), Livio (2002), and Ramachandran & Hirstein (1999) were listed in References but never cited in text. **Resolution**: Integrated all four into contextually appropriate locations—Birkhoff in the mathematical describability section as a historical attempt at formalization, Helmholtz in the Constitution Gap as sharpening the explanatory gap, Livio in the Generality Gap for golden ratio examples, Ramachandran & Hirstein in variation studies for the asymmetry preference claim.
-- **Missing body cross-links**: [phenomenal-depth](/concepts/phenomenal-depth/), [cognitive-phenomenology](/concepts/cognitive-phenomenology/), [binding-and-beauty](/topics/binding-and-beauty/), [knowledge-argument](/concepts/knowledge-argument/), and [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) appeared in frontmatter/related_articles but were not linked in body text. **Resolution**: Added contextual cross-links for all five.
+- **Missing body cross-links**: [phenomenal-depth](/concepts/phenomenal-depth/), [cognitive-phenomenology](/concepts/cognitive-phenomenology/), [binding-and-beauty](/topics/aesthetics-and-consciousness/), [knowledge-argument](/concepts/knowledge-argument/), and [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) appeared in frontmatter/related_articles but were not linked in body text. **Resolution**: Added contextual cross-links for all five.
 - **Generality Gap overlap with sibling article**: The section largely restated the substrate-independence argument from [aesthetic-experience-as-evidence-for-irreducibility](/topics/aesthetic-irreducibility-arguments/) without differentiating. **Resolution**: Rewrote to explicitly acknowledge the sibling argument and explain how formal beauty sharpens it by foreclosing the "merely verbal unity" escape route.
 - **Unsupported empirical claim**: "Slight asymmetries are often preferred over perfect symmetry" lacked citation. **Resolution**: Added Ramachandran & Hirstein (1999) citation noting peak shift and contrast effects.
 
@@ -51,11 +51,11 @@ topics: []
 - Added Helmholtz citation to sharpen the Constitution Gap—complete physical account doesn't close the gap
 - Sharpened Generality Gap to explicitly differentiate from sibling article's substrate-independence argument
 - Added Ramachandran & Hirstein citation for asymmetry preference empirical claim
-- Added body text cross-links to [phenomenal-depth](/concepts/phenomenal-depth/), [binding-and-beauty](/topics/binding-and-beauty/), [knowledge-argument](/concepts/knowledge-argument/), [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/)
+- Added body text cross-links to [phenomenal-depth](/concepts/phenomenal-depth/), [binding-and-beauty](/topics/aesthetics-and-consciousness/), [knowledge-argument](/concepts/knowledge-argument/), [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/)
 - Connected knowledge argument to the "Why This Matters" section
 
 ### Cross-links Added
-- [binding-and-beauty](/topics/binding-and-beauty/) (cross-modal matching subsection)
+- [binding-and-beauty](/topics/aesthetics-and-consciousness/) (cross-modal matching subsection)
 - [knowledge-argument](/concepts/knowledge-argument/) (Why This Matters section)
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) (training effects subsection)
 - [phenomenal-depth](/concepts/phenomenal-depth/) (already linked, now with richer context)

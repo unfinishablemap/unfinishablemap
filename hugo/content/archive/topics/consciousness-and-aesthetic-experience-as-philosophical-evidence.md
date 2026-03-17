@@ -114,7 +114,7 @@ Aesthetic experience compounds this problem because it is *functionally creative
 
 The [bidirectional interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences the physical world. Aesthetic experience provides suggestive evidence.
 
-Artists report that aesthetic perception guides their creative decisions—a painter adjusts a brushstroke because the canvas *looks wrong*, a composer revises a passage because it *sounds flat* (see [aesthetic creation](/topics/consciousness-and-aesthetic-creation/)). The [epiphenomenalist](/concepts/epiphenomenalism/) would respond that the same neural states producing the aesthetic experience also produce the motor output—the experience accompanies but does not cause the action. But the *systematic correspondence* between aesthetic quality and creative output is what demands explanation. If aesthetic qualia were causally inert accompaniments to neural processing, the tight correlation between what artists experience and what they produce would be a cosmic coincidence—phenomenal beauty would track creative excellence without causing it.
+Artists report that aesthetic perception guides their creative decisions—a painter adjusts a brushstroke because the canvas *looks wrong*, a composer revises a passage because it *sounds flat* (see [aesthetic creation](/topics/aesthetics-and-consciousness/)). The [epiphenomenalist](/concepts/epiphenomenalism/) would respond that the same neural states producing the aesthetic experience also produce the motor output—the experience accompanies but does not cause the action. But the *systematic correspondence* between aesthetic quality and creative output is what demands explanation. If aesthetic qualia were causally inert accompaniments to neural processing, the tight correlation between what artists experience and what they produce would be a cosmic coincidence—phenomenal beauty would track creative excellence without causing it.
 
 The causal efficacy of aesthetic experience is particularly clear in cases where aesthetic judgment overrides functional considerations. An architect chooses a structurally equivalent but more expensive design because it is more beautiful. A mathematician pursues one proof strategy over another because it feels more elegant. These choices show consciousness steering physical outcomes on the basis of aesthetic character specifically—not hedonic reward, not functional advantage, but the qualitative feel of beauty.
 
@@ -148,7 +148,7 @@ Aesthetic experience strengthens the Map's case across multiple tenets.
 
 ## Further Reading
 
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — The broader exploration of aesthetic quality in conscious experience
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — The broader exploration of aesthetic quality in conscious experience
 - [the-case-for-dualism](/concepts/dualism/) — The standard philosophical case, which aesthetic evidence supplements
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what physical information leaves out
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability arguments for dualism
@@ -156,7 +156,7 @@ Aesthetic experience strengthens the Map's case across multiple tenets.
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal character
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — Other experiential evidence for consciousness theories
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt quality of thought, including aesthetic judgment
-- [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) — A parallel treatment of emotional experience as evidence for dualism
+- [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/) — A parallel treatment of emotional experience as evidence for dualism
 - [consciousness-and-aesthetic-value](/topics/aesthetic-dimension-of-consciousness/) — The ontological dependence of aesthetic value on consciousness
 
 ## References

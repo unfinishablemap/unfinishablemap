@@ -42,7 +42,7 @@ related_articles:
 - '[[consciousness-as-amplifier]]'
 - '[[evolutionary-case-for-mental-causation]]'
 - '[[structure-of-attention]]'
-- '[[emotional-consciousness]]'
+- '[[emotion-and-dualism]]'
 - '[[choking-phenomenon-mental-causation]]'
 - '[[phenomenology-of-understanding-and-meaning]]'
 - '[[phenomenology-of-error-recognition]]'
@@ -215,7 +215,7 @@ Surprise connects to The Unfinishable Map's [tenets](/tenets/) at multiple point
 - [creativity-void](/voids/creativity-void/) — The boundary of what minds can generate
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Curiosity, wonder, and other knowledge-directed affects
 - [structure-of-attention](/topics/structure-of-attention/) — How attention allocates cognitive resources
-- [emotional-consciousness](/topics/emotional-consciousness/) — The felt quality of affective states
+- [emotion-and-dualism](/topics/emotion-and-dualism/) — The felt quality of affective states
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The click of successful integration
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — The felt texture of changing one's mind
 - [phenomenology-of-error-recognition](/voids/phenomenology-of-error-recognition/) — How minds catch their own mistakes

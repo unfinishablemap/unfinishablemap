@@ -9,7 +9,7 @@ apex_sources:
 - topics/consciousness-in-simple-organisms
 - topics/baseline-cognition
 - concepts/phenomenal-consciousness
-- topics/emotional-consciousness
+- topics/emotion-and-dualism
 apex_thesis: Non-linguistic consciousness in animals and simple organisms reveals
   that experience is more fundamental than the cognitive capacities we usually associate
   with mind.
@@ -40,7 +40,7 @@ title: Minds Without Words
 topics:
 - '[[animal-consciousness]]'
 - '[[consciousness-in-simple-organisms]]'
-- '[[emotional-consciousness]]'
+- '[[emotion-and-dualism]]'
 ---
 
 A bat navigates by echolocation, building a sonic map of its world that no human can imagine. An octopus solves puzzles with a nervous system distributed across eight arms, each with its own processing centres. A bee rolls a ball for no apparent reward—play behaviour in a creature with a brain the size of a sesame seed. Somewhere beneath all this lies a question we cannot directly answer: what is it like to be these creatures? Is there something it is like at all?
@@ -142,7 +142,7 @@ This apex article synthesises:
 - [Consciousness in Simple Organisms](/topics/consciousness-in-simple-organisms/) — C. elegans, Hydra, slime moulds, and the boundaries of experience
 - [Baseline Cognition](/concepts/baseline-cognition/) — What neural systems achieve without consciousness and the human-ape intelligence gap
 - [Phenomenal Consciousness](/concepts/phenomenal-consciousness/) — The subjective, felt quality of experience that defines consciousness
-- [Emotional Consciousness and Valence](/topics/emotional-consciousness/) — Why feelings feel the way they do, and why this matters morally
+- [Emotion and Dualism](/topics/emotion-and-dualism/) — Why feelings feel the way they do, and why this matters morally
 
 ## Further Reading
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-08
-**Article**: [The Void of Self-Knowledge in Emotion](/topics/void-of-self-knowledge-in-emotion/)
+**Article**: [The Void of Self-Knowledge in Emotion](/topics/emotion-and-dualism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

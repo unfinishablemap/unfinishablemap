@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-03
-**Article**: [Emotion as Evidence for Dualism](/topics/emotion-as-evidence-for-dualism/)
+**Article**: [Emotion as Evidence for Dualism](/topics/emotion-and-dualism/)
 **Previous review**: [2026-02-18](/reviews/deep-review-2026-02-18-emotion-as-evidence-for-dualism/)
 
 ## Review Context

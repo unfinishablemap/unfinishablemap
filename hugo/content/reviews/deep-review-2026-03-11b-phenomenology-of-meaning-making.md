@@ -53,7 +53,7 @@ This review was triggered by orphan integration: the article had zero inbound li
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) — Meaning Integration Problem section
 - [meaning-of-life](/topics/meaning-of-life/) — Phenomenology of Depth section
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Cognitive Dimension section
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — "meaning-laden" in Irreducibility Test Case section
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — "meaning-laden" in Irreducibility Test Case section
 
 **Further Reading links:**
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Added to Further Reading

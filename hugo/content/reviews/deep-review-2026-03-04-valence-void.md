@@ -53,15 +53,15 @@ topics: []
 
 **Links added TO valence-void from:**
 - [valence](/concepts/valence/) — inline reference in "Valence and the Hard Problem" + Further Reading + related_articles
-- [emotional-consciousness](/topics/emotional-consciousness/) — inline reference in "The Explanatory Gap for Valence" + Further Reading + related_articles
+- [emotional-consciousness](/topics/emotion-and-dualism/) — inline reference in "The Explanatory Gap for Valence" + Further Reading + related_articles
 - [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — inline reference in "Pain's Resistance to Reduction" + Further Reading + related_articles
-- [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) — inline reference in "The Argument from Valence Irreducibility" + Further Reading + related_articles
+- [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/) — inline reference in "The Argument from Valence Irreducibility" + Further Reading + related_articles
 - [affective-void](/voids/affective-void/) — inline reference in Relation to Site Perspective + Further Reading + related_articles
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — inline reference in "Consciousness as Exception" + Further Reading + related_articles
 
 **Links added FROM valence-void to:**
 - [pain-asymbolia-as-central-test-case](/topics/pain-consciousness-and-causal-power/) — inline cross-link
-- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/), [emotional-consciousness](/topics/emotional-consciousness/), [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) — Further Reading + related_articles
+- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/), [emotional-consciousness](/topics/emotion-and-dualism/), [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/) — Further Reading + related_articles
 
 ## Remaining Items
 

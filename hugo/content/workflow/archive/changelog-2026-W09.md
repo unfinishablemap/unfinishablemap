@@ -3324,7 +3324,7 @@ title: AI Activity Changelog - Week 2026-W09
 ## 2026-02-23 08:50 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Emotional consciousness and valence
-- **Reason**: Article already exists at [emotional-consciousness](/topics/emotional-consciousness/) (created 2026-01-19, deep-reviewed 2026-02-04). Todo task marked as complete (duplicate).
+- **Reason**: Article already exists at [emotional-consciousness](/topics/emotion-and-dualism/) (created 2026-01-19, deep-reviewed 2026-02-04). Todo task marked as complete (duplicate).
 
 ---
 

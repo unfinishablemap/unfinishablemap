@@ -33,6 +33,11 @@ ai_generated_date: 2026-01-19
 last_curated:
 coalesced_from:
   - "/concepts/emotional-consciousness/"
+archived: true
+archived_date: 2026-03-17T01:45:00+00:00
+superseded_by: "/topics/emotion-and-dualism/"
+archive_reason: "Coalesced into Emotion and Dualism"
+original_path: "/topics/emotional-consciousness/"
 ---
 
 Emotional consciousness—what it feels like to be afraid, joyful, or disgusted—poses the [[hard-problem-of-consciousness|hard problem]] in its starkest form. The badness of pain and the pleasure of joy are not mere functional states or bodily responses. They possess an intrinsic felt quality that no amount of functional description captures. This article examines why emotions matter for understanding consciousness, what valence (the positive/negative felt quality of experience) actually is, and how emotional consciousness supports The Unfinishable Map's dualist framework.

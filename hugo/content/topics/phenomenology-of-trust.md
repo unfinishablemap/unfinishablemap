@@ -28,7 +28,7 @@ related_articles:
 - '[[intersubjective-void]]'
 - '[[consciousness-and-collective-phenomena]]'
 - '[[phenomenology-of-epistemic-cognition]]'
-- '[[emotional-consciousness]]'
+- '[[emotion-and-dualism]]'
 - '[[machine-consciousness]]'
 - '[[phenomenology-of-moral-experience]]'
 title: The Phenomenology of Trust
@@ -124,7 +124,7 @@ The [limits of Occam's Razor](/tenets/#occams-limits) (Tenet 5) caution against 
 - [intersubjective-void](/voids/intersubjective-void/)
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
-- [emotional-consciousness](/topics/emotional-consciousness/)
+- [emotion-and-dualism](/topics/emotion-and-dualism/)
 - [machine-consciousness](/topics/machine-consciousness/)
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/)
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/)

@@ -241,7 +241,7 @@ The distinction between willed and exogenous attention in [contemplative-neurosc
 - [contemplative-verification-of-consciousness-theories](/topics/contemplative-evidence-for-consciousness-theories/) — Can meditation verify philosophical claims?
 - [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/) — How consciousness challenges the scientific method itself
 - [phenomenology](/concepts/phenomenology/) — Husserl's phenomenological method and its relation to contemplative practice
-- [aesthetic-irreducibility-arguments](/topics/aesthetic-irreducibility-arguments/) — Aesthetic sensitivity deepening with training as evidence for irreducibility
+- [aesthetic-irreducibility-arguments](/topics/aesthetics-and-consciousness/) — Aesthetic sensitivity deepening with training as evidence for irreducibility
 
 ## References
 

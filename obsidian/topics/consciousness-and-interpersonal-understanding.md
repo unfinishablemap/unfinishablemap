@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[topics/consciousness-and-social-cognition]]"
   - "[[phenomenology-of-understanding-and-meaning]]"
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
   - "[[first-person-third-person-methodology]]"
 concepts:
   - "[[problem-of-other-minds]]"
@@ -122,7 +122,7 @@ None of these would refute dualism directly, but they would weaken the case that
 - [[consciousness-only-territories]] — Experiential regions that may be permanently beyond external access
 - [[problem-of-other-minds]] — The epistemic puzzle of knowing other minds
 - [[intersubjectivity]] — The shared space between phenomenal subjects
-- [[emotional-consciousness]] — The felt dimension of emotions and empathic understanding
+- [[emotion-and-dualism]] — The felt dimension of emotions and empathic understanding
 - [[inverted-qualia]] — Why phenomenal worlds may diverge undetectably
 - [[philosophical-zombies]] — The thought experiment that sharpens the bypass question
 - [[moral-responsibility]] — How moral accountability depends on understanding agents as subjects

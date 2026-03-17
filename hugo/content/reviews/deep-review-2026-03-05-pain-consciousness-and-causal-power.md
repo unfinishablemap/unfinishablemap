@@ -61,7 +61,7 @@ Files updated (62 link replacements across 26 files):
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) (2)
 - [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) (3)
 - [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/) (2)
-- [emotional-consciousness](/topics/emotional-consciousness/) (2)
+- [emotional-consciousness](/topics/emotion-and-dualism/) (2)
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) (4)
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) (2)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) (2)

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-21
-**Article**: [Binding and Beauty: The Aesthetic Unity Problem](/topics/binding-and-beauty/)
+**Article**: [Binding and Beauty: The Aesthetic Unity Problem](/topics/aesthetics-and-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -56,7 +56,7 @@ None.
 - Phenomenological claim softened with explicit qualifier ("Phenomenologically, these elements...")
 
 ### Cross-links Added
-- [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/)
+- [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/)
 
 ## Remaining Items
 

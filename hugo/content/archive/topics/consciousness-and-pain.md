@@ -43,7 +43,7 @@ topics:
 
 Pain is where the debate about [mental-causation](/concepts/mental-causation/) stops being abstract. Other mental states allow epiphenomenalists to maintain that consciousness merely accompanies physical processes without influencing them. Pain resists this move. The felt awfulness of pain is not a side effect of its motivational force—it is partially constitutive of that force. When pain hurts, the hurting *is* what drives avoidance. The Unfinishable Map holds that pain provides the paradigm case for understanding how consciousness exercises causal power: through phenomenal character that is inseparable from its physical effects.
 
-This article examines what pain reveals about the consciousness-body relationship specifically—not pain's [phenomenology](/topics/why-pain-hurts/) (covered elsewhere) or [valence](/topics/emotional-consciousness/) as a general property of experience, but the tight coupling between what pain feels like and what pain makes us do.
+This article examines what pain reveals about the consciousness-body relationship specifically—not pain's [phenomenology](/topics/why-pain-hurts/) (covered elsewhere) or [valence](/topics/emotion-and-dualism/) as a general property of experience, but the tight coupling between what pain feels like and what pain makes us do.
 
 ## The Inseparability Thesis
 
@@ -110,7 +110,7 @@ The Map holds that the simpler explanation is correct: pain hurts *because* the 
 ## Further Reading
 
 - [phenomenology-of-pain](/topics/why-pain-hurts/) — Pain's phenomenal character and why it resists reduction
-- [emotional-consciousness](/topics/emotional-consciousness/) — Valence as an intrinsic property of experience
+- [emotional-consciousness](/topics/emotion-and-dualism/) — Valence as an intrinsic property of experience
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The nature and scope of consciousness's causal role
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why evolution requires mental causation
 - [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — Content-specific beliefs causing physiological change

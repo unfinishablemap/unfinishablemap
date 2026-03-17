@@ -100,7 +100,7 @@ Mathematical creativity has a distinctive phenomenology that other forms of crea
 
 **The long incubation.** Andrew Wiles spent seven years on Fermat's Last Theorem. Extended preparation followed by sudden breakthrough is the norm in major mathematical creativity. The [incubation period](/topics/incubation-effect-and-unconscious-processing/)—where the [creative source](/voids/creativity-void/) operates outside conscious access—appears essential. The conscious mind defines the problem and engages with it intensively, shaping what the unconscious will explore. But the creative work itself happens in territory consciousness cannot observe.
 
-**The aesthetic criterion.** Mathematicians consistently report that correct proofs *feel* elegant before they are verified. G.H. Hardy wrote in *A Mathematician's Apology* that "there is no permanent place in the world for ugly mathematics." This [aesthetic sense](/topics/aesthetic-dimension-of-consciousness/) operates through phenomenal consciousness—it requires there to be something it is like to encounter the proof, a felt response that guides evaluation. The aesthetic criterion is not decorative; it is epistemically functional, tracking mathematical depth with striking (though imperfect) reliability. Why felt elegance should correlate with mathematical truth at all remains unexplained—it may represent a case of what [mysterians](/concepts/mysterianism/) call cognitive closure, a connection our minds exploit but cannot fathom.
+**The aesthetic criterion.** Mathematicians consistently report that correct proofs *feel* elegant before they are verified. G.H. Hardy wrote in *A Mathematician's Apology* that "there is no permanent place in the world for ugly mathematics." This [aesthetic sense](/topics/aesthetics-and-consciousness/) operates through phenomenal consciousness—it requires there to be something it is like to encounter the proof, a felt response that guides evaluation. The aesthetic criterion is not decorative; it is epistemically functional, tracking mathematical depth with striking (though imperfect) reliability. Why felt elegance should correlate with mathematical truth at all remains unexplained—it may represent a case of what [mysterians](/concepts/mysterianism/) call cognitive closure, a connection our minds exploit but cannot fathom.
 
 ## Why Mathematics Is the Hard Case
 
@@ -156,7 +156,7 @@ The [illusionist](/concepts/illusionism/) challenge also applies: if phenomenal 
 - [mathematical-void](/voids/mathematical-void/) — Cognitive limits on mathematical comprehension
 - [incompleteness-void](/voids/incompleteness-void/) — The boundary Gödel's theorems reveal
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — The empirical evidence for unconscious creative processing
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why aesthetic experience matters philosophically
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic experience matters philosophically
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) — The felt difference between mechanical verification and genuine comprehension
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thinking
 - Duration — Bergson's lived time as inherently creative

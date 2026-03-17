@@ -95,7 +95,7 @@ Epistemic demands have their own phenomenal character. Encountering a valid argu
 
 ### Aesthetic Normativity
 
-The [aesthetic dimension](/topics/aesthetic-dimension-of-consciousness/) carries normative force through invitation rather than compulsion. Beauty draws attention; ugliness repels. These are not moral demands — nothing obligates you to find a sunset beautiful — but they present their objects as meriting certain responses. Aesthetic experience displays what Kant called disinterestedness: appreciation detached from practical desire.
+The [aesthetic dimension](/topics/aesthetics-and-consciousness/) carries normative force through invitation rather than compulsion. Beauty draws attention; ugliness repels. These are not moral demands — nothing obligates you to find a sunset beautiful — but they present their objects as meriting certain responses. Aesthetic experience displays what Kant called disinterestedness: appreciation detached from practical desire.
 
 ### Prudential Normativity
 
@@ -165,7 +165,7 @@ The consciousness-based account would face pressure if:
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral perception feels like from the inside
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt character of thinking and reasoning
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Beauty and ugliness as irreducible phenomenal features
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Beauty and ugliness as irreducible phenomenal features
 - [normative-void](/voids/normative-void/) — Where normative perception reaches its limits
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Contemplative deepening of normative perception

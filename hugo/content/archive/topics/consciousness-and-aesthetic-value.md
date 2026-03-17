@@ -39,7 +39,7 @@ topics:
 
 Aesthetic value does not exist without consciousness. A universe containing every physical arrangement that humans find beautiful—sunsets, crystal lattices, spiral galaxies, the ratio of a nautilus shell—but lacking any conscious experiencer would contain no beauty. It would contain wavelengths, geometry, and thermodynamics. Beauty enters reality only when a subject encounters these arrangements and something in the encounter carries evaluative charge. This ontological dependence of aesthetic value on consciousness is not a problem to be solved but a datum to be understood. It reveals something fundamental about where value sits in the structure of reality.
 
-The Unfinishable Map has explored the [pervasiveness of aesthetic quality in experience](/topics/aesthetic-dimension-of-consciousness/), the [structural requirements for aesthetic for-ness](/topics/aesthetic-dimension-of-consciousness/), and the evidential force of beauty for dualism. This article addresses the ontological question directly: what does the dependence of aesthetic value on consciousness tell us about the nature of value, the nature of consciousness, and the relationship between them?
+The Unfinishable Map has explored the [pervasiveness of aesthetic quality in experience](/topics/aesthetics-and-consciousness/), the [structural requirements for aesthetic for-ness](/topics/aesthetic-dimension-of-consciousness/), and the evidential force of beauty for dualism. This article addresses the ontological question directly: what does the dependence of aesthetic value on consciousness tell us about the nature of value, the nature of consciousness, and the relationship between them?
 
 ## The Ontological Gap
 
@@ -121,10 +121,10 @@ The ontological dependence of aesthetic value on consciousness connects directly
 
 ## Further Reading
 
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — The pervasiveness of aesthetic quality in experience
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — The pervasiveness of aesthetic quality in experience
 - [aesthetics-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Structural requirements for beauty's for-ness
 - Consciousness And Aesthetic Experience As Philosophical Evidence — Beauty as evidence for dualism
-- [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/) — Art-making and bidirectional interaction
+- [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/) — Art-making and bidirectional interaction
 - [aesthetic-void](/voids/aesthetic-void/) — Cognitive limits beauty reveals
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to experience
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — Parallel analysis for moral value

@@ -61,7 +61,7 @@ topics: []
 - Added cross-link to [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) in body text
 - Expanded Further Reading with 4 new entries: [phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/), [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/), [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/), [epistemic-emotions](/concepts/epistemic-emotions/)
 - Added [epistemic-emotions](/concepts/epistemic-emotions/) and [cognitive-phenomenology](/concepts/cognitive-phenomenology/) to concepts frontmatter
-- Added [structure-of-attention](/topics/structure-of-attention/), [emotional-consciousness](/topics/emotional-consciousness/), [phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/), [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) to related_articles frontmatter
+- Added [structure-of-attention](/topics/structure-of-attention/), [emotional-consciousness](/topics/emotion-and-dualism/), [phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/), [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) to related_articles frontmatter
 
 ### Cross-links Added
 - [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) (in body)

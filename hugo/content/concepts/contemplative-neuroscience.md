@@ -11,7 +11,7 @@ concepts:
 - '[[neurophenomenology]]'
 - '[[neuroplasticity]]'
 - '[[witness-consciousness]]'
-- '[[emotional-consciousness]]'
+- '[[emotion-and-dualism]]'
 - '[[default-mode-network]]'
 - '[[mental-effort]]'
 - '[[mysterianism]]'
@@ -101,7 +101,7 @@ Connection to [free-will](/topics/free-will/): If [phenomenal-consciousness](/co
 
 ### Compassion and Emotional Neuroplasticity
 
-Compassion meditation reshapes emotional response networks—brain changes that predict prosocial behavior.[^davidson] This connects to [emotional-consciousness](/topics/emotional-consciousness/): if phenomenal emotional qualities were causally inert, how could deliberate cultivation of compassion alter emotional responses and behavior?
+Compassion meditation reshapes emotional response networks—brain changes that predict prosocial behavior.[^davidson] This connects to [emotion-and-dualism](/topics/emotion-and-dualism/): if phenomenal emotional qualities were causally inert, how could deliberate cultivation of compassion alter emotional responses and behavior?
 
 The causal pathway runs: phenomenological intention → practice → neural change → behavioral outcome. [Phenomenal character](/concepts/qualia/) isn't epiphenomenal decoration.
 
@@ -199,7 +199,7 @@ The more sophisticated our phenomenological categories and neural correlates bec
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/): The two modes: active selection and passive witnessing
 - [temporal-consciousness](/concepts/temporal-consciousness/): How the temporal structure of conscious experience relates to neural binding and gamma synchrony
 - [free-will](/topics/free-will/): How meditation evidence connects to agent causation and libertarian accounts
-- [Emotional-consciousness](/topics/emotional-consciousness/): Phenomenal character of emotions and their role in consciousness
+- [Emotional-consciousness](/topics/emotion-and-dualism/): Phenomenal character of emotions and their role in consciousness
 - [epiphenomenalism](/concepts/epiphenomenalism/): Why contemplative neuroscience challenges the view that consciousness is causally inert
 - [Bidirectional-interaction](/concepts/bidirectional-interaction/): The central tenet that contemplative neuroscience supports empirically
 - [mysterianism](/concepts/mysterianism/): Why the explanatory gap persists even with refined phenomenological and neuroscientific methods

@@ -187,7 +187,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article is genuinely inno
 | [ai-consciousness](/topics/ai-consciousness/) | [continual-learning-argument](/concepts/continual-learning-argument/) | Core argument deserves prominent linking |
 | [meaning-of-life](/topics/meaning-of-life/) | [consciousness-value-connection](/concepts/consciousness-value-connection/) | Both ground value in consciousness |
 | [philosophical-zombies](/concepts/philosophical-zombies/) | [illusionism](/concepts/illusionism/) | Detailed treatment of the illusionist response |
-| [qualia](/concepts/qualia/) | [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) | Aesthetic qualia as resistant to reduction |
+| [qualia](/concepts/qualia/) | [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) | Aesthetic qualia as resistant to reduction |
 | [interactionist-dualism](/concepts/interactionist-dualism/) | [delegatory-dualism](/topics/delegatory-dualism/) | Saad 2025 as alternative to quantum response |
 | [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Temporal dimension of the gap |
 | [free-will](/topics/free-will/) | [volitional-opacity](/voids/introspective-opacity/) | Why we can't observe our own willing |

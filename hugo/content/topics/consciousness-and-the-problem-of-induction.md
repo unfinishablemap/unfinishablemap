@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-11 06:32:00+00:00
+ai_modified: 2026-03-17 01:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,13 +18,13 @@ description: Exploring how consciousness transforms the problem of induction fro
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-17 20:27:00+00:00
+last_deep_review: 2026-03-17 01:32:00+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'
 - '[[phenomenology-of-epistemic-cognition]]'
 - '[[surprise-prediction-error-and-consciousness]]'
-- '[[consciousness-and-semantic-understanding]]'
+- '[[phenomenology-of-understanding-and-meaning]]'
 - '[[temporal-structure-of-consciousness]]'
 - '[[consciousness-and-normative-force]]'
 - '[[contemplative-epistemology]]'
@@ -77,7 +77,7 @@ A deeper point emerges when the relationship between consciousness and induction
 
 Inductive reasoning requires capacities that resist purely physical explanation:
 
-- **[Temporal integration](/topics/temporal-structure-of-consciousness/)**: Holding past instances together with a projected future in a [unified field of awareness](/concepts/unity-of-consciousness/). Recurrent neural networks and memory traces can store and retrieve information, but the inductive reasoner does something more: they grasp that these events *form a sequence leading somewhere*. [Semantic understanding](/topics/phenomenology-of-understanding/) of what a "pattern" means requires more than statistical correlation—it requires a subject for whom the pattern is *about* something.
+- **[Temporal integration](/topics/temporal-structure-of-consciousness/)**: Holding past instances together with a projected future in a [unified field of awareness](/concepts/unity-of-consciousness/). Recurrent neural networks and memory traces can store and retrieve information, but the inductive reasoner does something more: they grasp that these events *form a sequence leading somewhere*. [Semantic understanding](/topics/phenomenology-of-understanding-and-meaning/) of what a "pattern" means requires more than statistical correlation—it requires a subject for whom the pattern is *about* something.
 
 - **[Counterfactual assessment](/topics/consciousness-and-counterfactual-reasoning/)**: Evaluating what *would* happen under conditions that have not been observed. Induction relies not just on what has occurred but on our grasp of what could and could not occur. This modal reasoning—holding actual and merely possible scenarios together in deliberation—appears tied to the kind of conscious evaluation that the [phenomenology of deliberation](/topics/phenomenology-of-deliberation-under-uncertainty/) reveals.
 

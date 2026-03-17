@@ -22,7 +22,7 @@ concepts:
   - "[[introspection]]"
   - "[[haecceity]]"
   - "[[decoherence]]"
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
   - "[[temporal-consciousness]]"
   - "[[normative-void]]"
 related_articles:

@@ -33,7 +33,7 @@ last_deep_review: 2026-02-25 04:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[emotional-consciousness]]'
+- '[[emotion-and-dualism]]'
 - '[[cognitive-phenomenology]]'
 - '[[objectivity-and-consciousness]]'
 title: Phenomenal Consciousness
@@ -146,7 +146,7 @@ Thomas Nagel's analysis in [objectivity-and-consciousness](/concepts/objectivity
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) - Physicalist response locating gap in concepts
 - [inverted-qualia](/concepts/inverted-qualia/) - Phenomenal inversion without functional difference
 - [illusionism](/concepts/illusionism/) - Denying phenomenal consciousness exists
-- [emotional-consciousness](/topics/emotional-consciousness/) - Valence and emotional phenomenology
+- [emotion-and-dualism](/topics/emotion-and-dualism/) - Valence and emotional phenomenology
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) - Pain as the paradigm case for phenomenal causation
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) - What it's like to think
 - [mysterianism](/concepts/mysterianism/) - Cognitive closure and the limits of understanding consciousness

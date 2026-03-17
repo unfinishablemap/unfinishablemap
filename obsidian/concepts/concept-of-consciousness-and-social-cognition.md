@@ -100,7 +100,7 @@ Tomasello's "cultural intelligence hypothesis" proposes that human cognitive uni
 
 Empathy divides into components with escalating consciousness demands. *Emotional contagion*—automatic catching of others' emotions—operates through basic mechanisms without conscious awareness; many animals show it. *Cognitive empathy*—understanding what another feels—requires representing emotional states, not just responding to them. *Empathic concern*—feeling for another because you understand their situation—adds a normative dimension, motivating prosocial behaviour based on understanding rather than mere cues.
 
-The [[emotional-consciousness]] literature suggests that felt emotional states may be required for empathic concern. Understanding without feeling might produce behavioural predictions but not the motivation to help. This connects to the [[consciousness-as-amplifier]] thesis: contagion operates at [[baseline-cognition|baseline]], while empathic concern requires the amplification consciousness provides.
+The [[emotion-and-dualism]] literature suggests that felt emotional states may be required for empathic concern. Understanding without feeling might produce behavioural predictions but not the motivation to help. This connects to the [[consciousness-as-amplifier]] thesis: contagion operates at [[baseline-cognition|baseline]], while empathic concern requires the amplification consciousness provides.
 
 ## Social Cognition in AI
 
@@ -155,7 +155,7 @@ The simpler hypothesis—social cognition is just sophisticated information proc
 - [[ai-consciousness]] — Whether artificial systems could have genuine social understanding
 - [[cumulative-culture]] — How metarepresentational social cognition enables cultural ratcheting
 - [[intentionality]] — The aboutness of mental states and its role in social understanding
-- [[emotional-consciousness]] — The felt dimension of empathic concern
+- [[emotion-and-dualism]] — The felt dimension of empathic concern
 - [[recursion-void]] — Why recursive mindreading depth is bounded around fifth order
 
 ### Research Notes

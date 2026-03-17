@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [Philosophy of Emotion Under Dualism](/topics/philosophy-of-emotion-under-dualism/)
+**Article**: [Philosophy of Emotion Under Dualism](/topics/emotion-and-dualism/)
 **Previous review**: Never
 **Context**: Cross-review following article creation
 

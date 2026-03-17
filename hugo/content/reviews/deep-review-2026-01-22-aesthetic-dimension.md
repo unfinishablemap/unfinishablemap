@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-22
-**Article**: [The Aesthetic Dimension of Consciousness](/topics/aesthetic-dimension-of-consciousness/)
+**Article**: [The Aesthetic Dimension of Consciousness](/topics/aesthetics-and-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -141,7 +141,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 - [somatic-interface](/concepts/somatic-interface/) — Nociception as one channel of the body's interface with consciousness
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) — Pain and phenomenal awareness persisting through neural loss
 - [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/) — Pain's attention-monopolising quality and the bandwidth of consciousness
-- [emotional-consciousness](/topics/emotional-consciousness/) — Valence as an intrinsic property of experience
+- [emotional-consciousness](/topics/emotion-and-dualism/) — Valence as an intrinsic property of experience
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The nature and scope of consciousness's causal role
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why evolution requires mental causation
 - [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — Content-specific beliefs causing physiological change

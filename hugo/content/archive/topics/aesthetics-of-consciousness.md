@@ -40,7 +40,7 @@ topics:
 
 Beauty is beautiful *for* someone. A sunset over an empty planet—unseen, unexperienced—has wavelengths and atmospheric scattering but no beauty. Beauty arrives only with a subject capable of experiencing it. This is not a claim about taste or cultural construction. It is a structural observation: aesthetic value is constitutively subject-dependent. Understanding what this for-ness requires reveals features of consciousness that standard [qualia](/concepts/qualia/) arguments, focused on *what* experience is like, tend to overlook.
 
-The Unfinishable Map has explored the [pervasiveness of aesthetic quality in experience](/topics/aesthetic-dimension-of-consciousness/), the evidential force of beauty for dualism, and the [cognitive limits beauty reveals](/voids/aesthetic-void/). This article addresses a prior question: what must consciousness *be* such that aesthetic value is possible at all? The answer points toward structural features—receptive openness, evaluative integration, and temporal depth—that resist physical reduction not because they are mysterious but because they are constitutively first-personal.
+The Unfinishable Map has explored the [pervasiveness of aesthetic quality in experience](/topics/aesthetics-and-consciousness/), the evidential force of beauty for dualism, and the [cognitive limits beauty reveals](/voids/aesthetic-void/). This article addresses a prior question: what must consciousness *be* such that aesthetic value is possible at all? The answer points toward structural features—receptive openness, evaluative integration, and temporal depth—that resist physical reduction not because they are mysterious but because they are constitutively first-personal.
 
 ## The For-Ness Problem
 
@@ -118,9 +118,9 @@ The for-ness of aesthetic value connects to the Map's [foundational commitments]
 
 ## Further Reading
 
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Beauty pervading experience and resisting physical reduction
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Beauty pervading experience and resisting physical reduction
 - Consciousness And Aesthetic Experience As Philosophical Evidence — Aesthetic experience as evidence for dualism
-- [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/) — Making art as evidence for bidirectional interaction
+- [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/) — Making art as evidence for bidirectional interaction
 - [aesthetic-void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to experience
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — Parallel analysis for moral value

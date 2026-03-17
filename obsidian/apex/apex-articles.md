@@ -140,7 +140,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - topics/consciousness-in-simple-organisms
 - topics/baseline-cognition
 - concepts/phenomenal-consciousness
-- topics/emotional-consciousness
+- topics/emotion-and-dualism
 
 **Status**: Created 2026-01-31
 

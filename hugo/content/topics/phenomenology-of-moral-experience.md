@@ -10,7 +10,7 @@ coalesced_from:
 concepts:
 - '[[topics/phenomenal-value-realism]]'
 - '[[qualia]]'
-- '[[emotional-consciousness]]'
+- '[[emotion-and-dualism]]'
 - '[[moral-responsibility]]'
 - '[[introspection]]'
 - '[[witness-consciousness]]'
@@ -100,7 +100,7 @@ Some moral experiences are positively valenced. Witnessing extraordinary generos
 
 Moral admiration involves perceiving a person's character or action as *exemplary*—not just effective or impressive but good in a way that invites emulation. The experience carries warmth (related to but distinguishable from hedonic pleasure) and what might be called moral luminosity: the act appears to radiate significance beyond itself.
 
-This connects to the [aesthetic dimension of consciousness](/topics/aesthetic-dimension-of-consciousness/). Beauty and moral goodness share phenomenological features—both present their objects as mattering intrinsically, both resist reduction to personal preference—but they are not identical. An action can be morally admirable without being beautiful (a grim sacrifice), and beautiful without being morally significant (a sunset). The existence of distinctly moral positive experiences supports phenomenal value pluralism.
+This connects to the [aesthetic dimension of consciousness](/topics/aesthetics-and-consciousness/). Beauty and moral goodness share phenomenological features—both present their objects as mattering intrinsically, both resist reduction to personal preference—but they are not identical. An action can be morally admirable without being beautiful (a grim sacrifice), and beautiful without being morally significant (a sunset). The existence of distinctly moral positive experiences supports phenomenal value pluralism.
 
 ### Guilt and Moral Remainder
 
@@ -198,8 +198,8 @@ The phenomenology of moral experience connects to the Map's [foundational commit
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — The thesis that phenomenal states carry intrinsic normative force
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — The shared phenomenal architecture of moral, epistemic, aesthetic, and prudential demands
 - [normative-phenomenology](/concepts/normative-phenomenology/) — First-person investigation of normative experience broadly
-- [emotional-consciousness](/topics/emotional-consciousness/) — Valence as the felt quality of emotion
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why aesthetic experience resists reduction
+- [emotion-and-dualism](/topics/emotion-and-dualism/) — Valence as the felt quality of emotion
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic experience resists reduction
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds moral desert
 - [introspection](/concepts/introspection/) — First-person access to phenomenal states

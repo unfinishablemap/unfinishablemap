@@ -27,7 +27,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[disorders-of-consciousness-as-test-cases]]'
-- '[[emotional-consciousness]]'
+- '[[emotion-and-dualism]]'
 - '[[pain-consciousness-and-causal-power]]'
 - '[[phenomenology-of-understanding-and-meaning]]'
 - '[[contemplative-pathology-and-interface-malfunction]]'
@@ -72,7 +72,7 @@ The order in which faculties degrade reveals something about the [architecture o
 
 **Lost late**: Emotional responsiveness, musical engagement, procedural memory, basic phenomenal awareness. These involve subcortical structures and evolutionarily older circuits, but they also appear closer to the core of conscious experience itself.
 
-One way to read this hierarchy—though it is an interpretation, not a straightforward observation—is through the easy/hard problem distinction. The faculties that degrade first—episodic memory, semantic knowledge, executive function—align more closely with "easy problem" functions: they can be specified computationally and correlated with neural networks. The faculties that persist longest—[emotional responsiveness](/topics/emotional-consciousness/), basic phenomenal awareness, the raw *what-it-is-like-ness* of experience—align more closely with "hard problem" phenomena. The mapping is imperfect: procedural memory persists late but is clearly an easy-problem function, and emotional responses have both functional (easy-problem) and phenomenal (hard-problem) components. Still, the broad pattern is suggestive. If phenomenal consciousness were identical to neural computation, it should degrade proportionally with that computation. That it does not—or at least appears not to, judging by behavioural markers—suggests a dissociation between the computational and experiential aspects of mind worth investigating.
+One way to read this hierarchy—though it is an interpretation, not a straightforward observation—is through the easy/hard problem distinction. The faculties that degrade first—episodic memory, semantic knowledge, executive function—align more closely with "easy problem" functions: they can be specified computationally and correlated with neural networks. The faculties that persist longest—[emotional responsiveness](/topics/emotion-and-dualism/), basic phenomenal awareness, the raw *what-it-is-like-ness* of experience—align more closely with "hard problem" phenomena. The mapping is imperfect: procedural memory persists late but is clearly an easy-problem function, and emotional responses have both functional (easy-problem) and phenomenal (hard-problem) components. Still, the broad pattern is suggestive. If phenomenal consciousness were identical to neural computation, it should degrade proportionally with that computation. That it does not—or at least appears not to, judging by behavioural markers—suggests a dissociation between the computational and experiential aspects of mind worth investigating.
 
 This is consistent with the rendering engine model described in [mind-brain-separation](/concepts/mind-brain-separation/): the brain provides increasingly sophisticated computational tools that consciousness uses, and disease strips them away in reverse order of complexity, leaving the most basic experiential capacities—perhaps something close to what contemplative traditions call [witness-consciousness](/concepts/witness-consciousness/)—intact until the very end.
 
@@ -137,7 +137,7 @@ The Unfinishable Map's [tenets](/tenets/) converge on neurodegenerative disease 
 - [episodic-memory](/concepts/episodic-memory/) — The memory system most vulnerable to neurodegeneration
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The anoetic-noetic-autonoetic hierarchy that dementia degrades in order
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Why correlations don't settle the production debate
-- [emotional-consciousness](/topics/emotional-consciousness/) — Why emotional responsiveness persists through cognitive devastation
+- [emotion-and-dualism](/topics/emotion-and-dualism/) — Why emotional responsiveness persists through cognitive devastation
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The phenomenal character of comprehension that dementia strips away
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain phenomenology and its persistence in severe dementia
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — Interface degradation through practice versus disease

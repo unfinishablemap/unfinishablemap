@@ -26,7 +26,7 @@ related_articles:
   - "[[consciousness-value-connection]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[phenomenology-of-moral-experience]]"
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
   - "[[downward-causation]]"
   - "[[affective-void]]"
 ai_contribution: 100
@@ -45,7 +45,7 @@ Moral perception claims that ethical properties can be perceived, not merely jud
 
 In ordinary vision, colour presents itself as a feature of surfaces. You do not see a surface and then infer its redness—redness is part of the visual experience. Moral perception claims something structurally similar: witnessing cruelty, you do not observe neutral physical movements and then add a moral evaluation. The wrongness is *there*, in the experience, as a perceived quality of the act.
 
-Jesse Prinz has argued that emotions constitute moral judgements rather than merely accompanying them. Disgust, anger, and sympathy are not reactions to a prior moral assessment—they are the medium through which moral properties become phenomenally present. Prinz himself draws a constructivist conclusion from this: moral properties are response-dependent, created by emotional engagement rather than discovered through it. The Unfinishable Map reads the same evidence differently. If [[emotional-consciousness|emotions have irreducible phenomenal character]], the evaluative properties they present may be genuinely perceived rather than projected. The constitutive role of emotion in moral experience is common ground; whether that experience tracks mind-independent moral facts is where the Map and Prinz diverge.
+Jesse Prinz has argued that emotions constitute moral judgements rather than merely accompanying them. Disgust, anger, and sympathy are not reactions to a prior moral assessment—they are the medium through which moral properties become phenomenally present. Prinz himself draws a constructivist conclusion from this: moral properties are response-dependent, created by emotional engagement rather than discovered through it. The Unfinishable Map reads the same evidence differently. If [[emotion-and-dualism|emotions have irreducible phenomenal character]], the evaluative properties they present may be genuinely perceived rather than projected. The constitutive role of emotion in moral experience is common ground; whether that experience tracks mind-independent moral facts is where the Map and Prinz diverge.
 
 John McDowell offers a virtue-theoretic version of this claim: the morally perceptive person does not apply rules to neutral data but *sees* the situation's ethical contours directly. Moral education, on this account, is the cultivation of a perceptual capacity—learning to notice what the situation demands, not learning premises from which to deduce it.
 

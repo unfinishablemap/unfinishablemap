@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-03
-**Article**: [Emotional Consciousness and Valence](/topics/emotional-consciousness/)
+**Article**: [Emotional Consciousness and Valence](/topics/emotion-and-dualism/)
 **Previous review**: [2026-02-01](/reviews/deep-review-2026-02-01-emotional-consciousness/)
 **Type**: Cross-review (prompted by emotional epistemology void research)
 

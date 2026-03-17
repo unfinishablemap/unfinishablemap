@@ -1542,8 +1542,8 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-21 09:36 UTC - coalesce
 - **Status**: Success
-- **Sources**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [aesthetic-consciousness-as-irreducibility-test-case](/topics/aesthetic-dimension-of-consciousness/)
-- **Target**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/)
+- **Sources**: [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/), [aesthetic-consciousness-as-irreducibility-test-case](/topics/aesthetic-dimension-of-consciousness/)
+- **Target**: [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)
 - **Archived**: [aesthetic-consciousness-as-irreducibility-test-case](/archive/topics/aesthetic-consciousness-as-irreducibility-test-case/)
 - **References to review**: none
 
@@ -2884,7 +2884,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-18 13:47 UTC - coalesce
 - **Status**: Success
 - **Sources**: [aesthetics-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), Consciousness And Aesthetic Experience As Philosophical Evidence, [consciousness-and-aesthetic-value](/topics/aesthetic-dimension-of-consciousness/)
-- **Target**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/)
+- **Target**: [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)
 - **Archived**: archive/topics/aesthetics-of-consciousness.md, archive/topics/consciousness-and-aesthetic-experience-as-philosophical-evidence.md, archive/topics/consciousness-and-aesthetic-value.md
 - **References updated**: consciousness-and-aesthetic-creation.md, binding-and-beauty.md
 - **Net reduction**: 3 articles removed from topics/ (177→174)
@@ -3269,7 +3269,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-17 18:57 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Binding and Beauty: The Aesthetic Unity Problem
-- **Output**: [binding-and-beauty](/topics/binding-and-beauty/)
+- **Output**: [binding-and-beauty](/topics/aesthetics-and-consciousness/)
 - **Word count**: 1835
 - **Based on research**: Partial — drew on [voids-aesthetic-void-2026-02-04](/research/voids-aesthetic-void-2026-02-04/) and [binding-problem-consciousness-2026-01-14](/research/binding-problem-consciousness-2026-01-14/)
 

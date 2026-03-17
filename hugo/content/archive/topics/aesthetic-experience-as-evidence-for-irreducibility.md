@@ -48,7 +48,7 @@ topics:
 - '[[aesthetic-dimension-of-consciousness]]'
 ---
 
-A sunset, a fugue, a mathematical proof, and a well-turned sentence can all be beautiful. These objects share no physical property. Light waves, pressure waves, abstract structures, and semantic patterns inhabit different ontological categories entirely. Yet the experience of beauty they produce has a recognisable phenomenal unity—the catch of attention, the pull toward the object, the sense that something *matters* here. The Unfinishable Map argues that this substrate-independence of aesthetic quality constitutes a distinct argument for the irreducibility of consciousness, one that complements the [feature-convergence argument](/topics/aesthetic-dimension-of-consciousness/) but operates through a different logical structure.
+A sunset, a fugue, a mathematical proof, and a well-turned sentence can all be beautiful. These objects share no physical property. Light waves, pressure waves, abstract structures, and semantic patterns inhabit different ontological categories entirely. Yet the experience of beauty they produce has a recognisable phenomenal unity—the catch of attention, the pull toward the object, the sense that something *matters* here. The Unfinishable Map argues that this substrate-independence of aesthetic quality constitutes a distinct argument for the irreducibility of consciousness, one that complements the [feature-convergence argument](/topics/aesthetics-and-consciousness/) but operates through a different logical structure.
 
 The argument is straightforward: if beauty were a physical property, it would need a physical home. No physical property is shared across all the domains where beauty appears. Therefore beauty is not a physical property. It is a property of conscious experience—something that arises when consciousness encounters certain patterns, regardless of what those patterns are made of.
 
@@ -106,7 +106,7 @@ A further datum: people make aesthetic comparisons across domains with apparent 
 
 These cross-modal judgments are puzzling if beauty is a domain-specific structural property. What structural property do a painting and a musical composition share? The most natural explanation is that the experiencer recognises a commonality in their own phenomenal response—not in the objects. The stillness is in the experiencing, not in the canvas or the sound waves. Cross-modal aesthetic comparison is evidence that aesthetic quality is a feature of consciousness that can be triggered by diverse stimuli, rather than a feature of stimuli that happens to affect consciousness.
 
-The existence of [aesthetic unity](/topics/binding-and-beauty/)—the phenomenal binding of diverse sensory, emotional, and cognitive elements into a single aesthetic whole—reinforces this point. The unity is in the experience, not in the object. A sunset's beauty binds colour, spatial form, temporal unfolding, emotional resonance, and sometimes existential meaning into one aesthetic moment. No physical property of the sunset has this binding character. Binding is what consciousness does.
+The existence of [aesthetic unity](/topics/aesthetics-and-consciousness/)—the phenomenal binding of diverse sensory, emotional, and cognitive elements into a single aesthetic whole—reinforces this point. The unity is in the experience, not in the object. A sunset's beauty binds colour, spatial form, temporal unfolding, emotional resonance, and sometimes existential meaning into one aesthetic moment. No physical property of the sunset has this binding character. Binding is what consciousness does.
 
 ## What Would Challenge This View?
 
@@ -124,7 +124,7 @@ The substrate-independence argument for irreducibility would weaken if:
 
 The substrate-independence of aesthetic experience aligns with the Map's [foundational commitments](/tenets/) through a distinctive logical route.
 
-**[Dualism](/tenets/#dualism)**: The core argument. Beauty cannot be identical to any physical property because it appears across domains that share no physical properties. It cannot be identical to any structural property because the structure-experience gap persists at every level of abstraction. The most parsimonious explanation is that aesthetic quality is a property of consciousness itself—irreducible to any physical or structural arrangement that occasions it. This substrate-independence argument operates independently of the [feature-convergence argument](/topics/aesthetic-dimension-of-consciousness/) (which shows that aesthetic experience bundles multiple problematic features). Together, they form a two-pronged case: aesthetic experience resists reduction both because of *what it contains* (convergent features) and because of *where it appears* (across all substrates).
+**[Dualism](/tenets/#dualism)**: The core argument. Beauty cannot be identical to any physical property because it appears across domains that share no physical properties. It cannot be identical to any structural property because the structure-experience gap persists at every level of abstraction. The most parsimonious explanation is that aesthetic quality is a property of consciousness itself—irreducible to any physical or structural arrangement that occasions it. This substrate-independence argument operates independently of the [feature-convergence argument](/topics/aesthetics-and-consciousness/) (which shows that aesthetic experience bundles multiple problematic features). Together, they form a two-pronged case: aesthetic experience resists reduction both because of *what it contains* (convergent features) and because of *where it appears* (across all substrates).
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The transformative character of aesthetic experience—its deepening through training and practice—suggests consciousness actively shapes its own aesthetic capacities. The trained musician does not passively receive a signal; their consciousness has been reshaped by prior engagement, and this reshaping changes what beauty is available to them. If aesthetic experience were epiphenomenal, the systematic relationship between training and phenomenal enrichment would be coincidental.
 
@@ -132,9 +132,9 @@ The substrate-independence of aesthetic experience aligns with the Map's [founda
 
 ## Further Reading
 
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — The feature-convergence argument for irreducibility
-- [binding-and-beauty](/topics/binding-and-beauty/) — How aesthetic unity exceeds ordinary perceptual binding
-- [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/) — Making art as evidence for bidirectional interaction
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — The feature-convergence argument for irreducibility
+- [binding-and-beauty](/topics/aesthetics-and-consciousness/) — How aesthetic unity exceeds ordinary perceptual binding
+- [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/) — Making art as evidence for bidirectional interaction
 - [phenomenology-of-mathematical-insight](/topics/mathematical-knowledge-and-insight/) — Mathematical beauty as the purest case of substrate-independent aesthetics
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — Temporal depth in musical aesthetic experience
 - [aesthetic-void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity

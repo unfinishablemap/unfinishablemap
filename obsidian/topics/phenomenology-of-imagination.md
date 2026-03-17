@@ -11,7 +11,7 @@ topics:
   - "[[topics/free-will]]"
   - "[[consciousness-and-creative-distinctiveness]]"
   - "[[consciousness-and-counterfactual-reasoning]]"
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
 concepts:
   - "[[phenomenology]]"
   - "[[mental-imagery]]"
@@ -79,7 +79,7 @@ This phenomenal inhabitation distinguishes conscious imagination from computatio
 
 ## The Emotional Reality of Imagined Content
 
-Imagined scenarios produce real emotions. Fear arises when imagining a dangerous scenario, sadness when imagining a loss, delight when imagining a reunion. These emotions carry physiological signatures—elevated heart rate, muscle tension, mood shifts—directed at intentional objects that do not exist. This phenomenon is related to what philosophers call the "paradox of fiction" (Radford & Weston, 1975), though self-generated imagination raises a distinct problem: in fiction, the non-existence of the objects is what creates the paradox; in imagination, consciousness generates both the content and the [[emotional-consciousness|emotional response]] to that content from its own resources.
+Imagined scenarios produce real emotions. Fear arises when imagining a dangerous scenario, sadness when imagining a loss, delight when imagining a reunion. These emotions carry physiological signatures—elevated heart rate, muscle tension, mood shifts—directed at intentional objects that do not exist. This phenomenon is related to what philosophers call the "paradox of fiction" (Radford & Weston, 1975), though self-generated imagination raises a distinct problem: in fiction, the non-existence of the objects is what creates the paradox; in imagination, consciousness generates both the content and the [[emotion-and-dualism|emotional response]] to that content from its own resources.
 
 Walton (1990) argued that fiction-directed emotions are *quasi-emotions*—make-believe states that resemble genuine emotions without fully being them. Even if this account holds for fiction, it struggles with self-generated imagination. When you vividly imagine a feared scenario—a loved one in danger, a public humiliation—the resulting anxiety is not make-believe. You are not playing a game of pretend with an external artefact. The emotional response arises from consciousness engaging its own constructions with full phenomenal force.
 

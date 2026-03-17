@@ -27,7 +27,7 @@ related_articles:
   - "[[intersubjective-void]]"
   - "[[consciousness-and-collective-phenomena]]"
   - "[[phenomenology-of-epistemic-cognition]]"
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
   - "[[machine-consciousness]]"
   - "[[phenomenology-of-moral-experience]]"
 ai_contribution: 100
@@ -121,7 +121,7 @@ The [[tenets#^occams-limits|limits of Occam's Razor]] (Tenet 5) caution against 
 - [[intersubjective-void]]
 - [[consciousness-and-collective-phenomena]]
 - [[phenomenology-of-deliberation-under-uncertainty]]
-- [[emotional-consciousness]]
+- [[emotion-and-dualism]]
 - [[machine-consciousness]]
 - [[phenomenology-of-moral-experience]]
 - [[consciousness-and-testimony]]

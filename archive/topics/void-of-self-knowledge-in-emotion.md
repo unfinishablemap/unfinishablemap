@@ -29,6 +29,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-08
 last_curated:
+archived: true
+archived_date: 2026-03-17T01:45:00+00:00
+superseded_by: "/topics/emotion-and-dualism/"
+archive_reason: "Coalesced into Emotion and Dualism"
+original_path: "/topics/void-of-self-knowledge-in-emotion/"
 ---
 
 Emotions feel like the most intimate facts about us. Fear grips. Grief overwhelms. Joy floods. Yet this very intimacy conceals a gap: we often cannot say what we feel. The Unfinishable Map identifies this as a void—not the question of whether emotions reveal truths about the world (explored in the [[emotional-epistemology-void]]), but the prior question of whether we can know our own emotional states. The gap between *having* an emotion and *knowing what emotion we have* is narrower than most people assume and wider than most theories acknowledge.

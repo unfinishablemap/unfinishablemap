@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-03-04T05:41:00+00:00
 draft: false
 topics:
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[ethics-of-consciousness]]"
 concepts:
@@ -84,7 +84,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet co
 
 ## Further Reading
 
-- [[emotional-consciousness]] — Extended treatment of emotional consciousness and the valence debate
+- [[emotion-and-dualism]] — Extended treatment of emotional consciousness and the valence debate
 - [[qualia]] — The broader category of intrinsic phenomenal properties
 - [[topics/phenomenal-value-realism]] — How phenomenal properties ground objective value
 - [[phenomenal-consciousness]] — The subjective, felt aspect of mental states

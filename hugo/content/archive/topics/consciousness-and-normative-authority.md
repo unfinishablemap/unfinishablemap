@@ -80,7 +80,7 @@ Aesthetic normativity reveals the same pattern. The claim that a piece of music 
 
 Where does this authority come from? Not from formal properties alone — mathematical symmetry can be aesthetically dead, while asymmetric compositions can be profoundly moving. Not from social consensus — aesthetic disagreement is genuine disagreement, not mere difference in taste.
 
-The authority of aesthetic claims rests on [aesthetic experience](/topics/aesthetic-dimension-of-consciousness/) — what it is like to encounter beauty, sublimity, or expressive depth. The phenomenal character of aesthetic experience carries normative force: it presents its object as worthy of attention, as mattering in a way that demands response. This is not reducible to pleasure, though pleasure may accompany it. Aesthetic experience reveals value in its object, and this revelation is authoritative because it is an encounter with something real in conscious experience.
+The authority of aesthetic claims rests on [aesthetic experience](/topics/aesthetics-and-consciousness/) — what it is like to encounter beauty, sublimity, or expressive depth. The phenomenal character of aesthetic experience carries normative force: it presents its object as worthy of attention, as mattering in a way that demands response. This is not reducible to pleasure, though pleasure may accompany it. Aesthetic experience reveals value in its object, and this revelation is authoritative because it is an encounter with something real in conscious experience.
 
 ## The Eliminativist Challenge
 
@@ -127,7 +127,7 @@ The Map's position yields a distinctive implication: normative authority is not 
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/)
 - [moral-perception](/concepts/moral-perception/)
 - [agent-causation](/concepts/agent-causation/)
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/)
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)
 - [normative-phenomenology](/concepts/normative-phenomenology/)
 - [moral-responsibility](/concepts/moral-responsibility/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)

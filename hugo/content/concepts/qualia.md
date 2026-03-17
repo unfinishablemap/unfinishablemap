@@ -19,7 +19,7 @@ concepts:
 - '[[inverted-qualia]]'
 - '[[semantic-memory]]'
 - '[[cognitive-phenomenology]]'
-- '[[emotional-consciousness]]'
+- '[[emotion-and-dualism]]'
 - '[[explanatory-gap]]'
 - '[[introspection]]'
 - '[[decoherence]]'
@@ -42,7 +42,7 @@ related_articles:
 - '[[tenets]]'
 - '[[concepts/materialism]]'
 - '[[concepts/functionalism]]'
-- '[[emotional-consciousness]]'
+- '[[emotion-and-dualism]]'
 title: Qualia
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -56,7 +56,7 @@ Qualia are closely related to [phenomenal-consciousness](/concepts/phenomenal-co
 
 ## Why Qualia Matter
 
-Qualia sit at the heart of the [hard problem of consciousness](/topics/hard-problem-of-consciousness/). We can explain the neurological processes that detect light wavelengths, but no amount of neurological detail tells us *why* there is something it is like to see red rather than nothing at all. The explanatory gap between physical description and subjective experience remains unbridged. [Emotional valence](/topics/emotional-consciousness/)—the felt badness of pain and goodness of pleasure—provides perhaps the starkest case, and grounds [phenomenal value realism](/concepts/phenomenal-normativity/)'s claim that these felt qualities *constitute* intrinsic value rather than merely indicating it. Pain asymbolia patients prove that functional pain processing without the felt quality loses its motivational force—[pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) develops this as the hardest case for epiphenomenalism. More broadly, [content-specificity](/concepts/content-specificity-of-mental-causation/) demonstrates that specific qualia produce specific causal consequences: different placebo beliefs trigger different neurochemical cascades, and the granularity of the mapping tracks the granularity of phenomenal content.
+Qualia sit at the heart of the [hard problem of consciousness](/topics/hard-problem-of-consciousness/). We can explain the neurological processes that detect light wavelengths, but no amount of neurological detail tells us *why* there is something it is like to see red rather than nothing at all. The explanatory gap between physical description and subjective experience remains unbridged. [Emotional valence](/topics/emotion-and-dualism/)—the felt badness of pain and goodness of pleasure—provides perhaps the starkest case, and grounds [phenomenal value realism](/concepts/phenomenal-normativity/)'s claim that these felt qualities *constitute* intrinsic value rather than merely indicating it. Pain asymbolia patients prove that functional pain processing without the felt quality loses its motivational force—[pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) develops this as the hardest case for epiphenomenalism. More broadly, [content-specificity](/concepts/content-specificity-of-mental-causation/) demonstrates that specific qualia produce specific causal consequences: different placebo beliefs trigger different neurochemical cascades, and the granularity of the mapping tracks the granularity of phenomenal content.
 
 Consider two scenarios:
 1. A neuroscientist gives a complete account of pain—nerve fibers, neurotransmitter release, brain regions activated
@@ -106,9 +106,9 @@ Block's [phenomenal overflow](/voids/pre-conceptual-knowing/#phenomenal-overflow
 
 ### Aesthetic Qualia
 
-[Aesthetic experience](/topics/aesthetic-dimension-of-consciousness/) provides perhaps the strongest case for qualia's resistance to reduction. Colours carry aesthetic character (*warm*, *serene*, *electric*) independent of what they represent. Some rooms feel oppressive; others inviting. Ideas have aesthetic character—Einstein reported general relativity "felt right" before he could prove it.
+[Aesthetic experience](/topics/aesthetics-and-consciousness/) provides perhaps the strongest case for qualia's resistance to reduction. Colours carry aesthetic character (*warm*, *serene*, *electric*) independent of what they represent. Some rooms feel oppressive; others inviting. Ideas have aesthetic character—Einstein reported general relativity "felt right" before he could prove it.
 
-Aesthetic qualia may resist reduction more than sensory qualia: the [inverted spectrum](/concepts/inverted-qualia/) argument faces the objection that colour space has structural asymmetries making inversion detectable. But aesthetic space lacks such asymmetries—someone whose aesthetic qualia are systematically inverted could behave identically to you. Aesthetic qualia also carry intrinsic normativity: beauty *calls for* attention. If qualia were purely functional, this felt imperative would be mysterious. The [aesthetic-void](/voids/aesthetic-void/) explores what this resistance to articulation reveals about cognitive limits. See [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) for detailed treatment.
+Aesthetic qualia may resist reduction more than sensory qualia: the [inverted spectrum](/concepts/inverted-qualia/) argument faces the objection that colour space has structural asymmetries making inversion detectable. But aesthetic space lacks such asymmetries—someone whose aesthetic qualia are systematically inverted could behave identically to you. Aesthetic qualia also carry intrinsic normativity: beauty *calls for* attention. If qualia were purely functional, this felt imperative would be mysterious. The [aesthetic-void](/voids/aesthetic-void/) explores what this resistance to articulation reveals about cognitive limits. See [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) for detailed treatment.
 
 ## Thought Experiments
 
@@ -219,7 +219,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 
 **Extensions:**
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) - Why qualia resist linguistic capture (bidirectional lossy channel)
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) - Aesthetic qualia resistant to reduction
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) - Aesthetic qualia resistant to reduction
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) - Whether thinking has phenomenal character
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) - Why pain's felt quality is inseparable from its causal power
 - [minimal-consciousness](/concepts/minimal-consciousness/) - Qualia in simple organisms

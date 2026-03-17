@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [Aesthetic Irreducibility: From Substrate Independence to Formal Precision](/topics/aesthetic-irreducibility-arguments/)
+**Article**: [Aesthetic Irreducibility: From Substrate Independence to Formal Precision](/topics/aesthetics-and-consciousness/)
 **Previous review**: [2026-03-11](/reviews/deep-review-2026-03-11-aesthetic-irreducibility-arguments/)
 
 ## Pessimistic Analysis Summary

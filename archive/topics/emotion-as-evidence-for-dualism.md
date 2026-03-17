@@ -29,6 +29,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-03-03T18:41:00+00:00
+archived: true
+archived_date: 2026-03-17T01:45:00+00:00
+superseded_by: "/topics/emotion-and-dualism/"
+archive_reason: "Coalesced into Emotion and Dualism"
+original_path: "/topics/emotion-as-evidence-for-dualism/"
 ---
 
 Emotions do not merely illustrate the [[hard-problem-of-consciousness|hard problem]]—they sharpen it into a distinct argument for dualism. The felt badness of pain and the felt goodness of joy are intrinsic phenomenal properties that resist every attempt at functional reduction. Pain asymbolia demonstrates that these properties do genuine causal work: remove the felt quality and motivation collapses, even when all functional machinery remains intact. Emotion therefore provides evidence for dualism that goes beyond the standard arguments from [[qualia]], conceivability, or knowledge—because it reveals not only that phenomenal properties are irreducible, but that they are *causally indispensable*. (For a broader treatment of emotional consciousness and its philosophical implications, see [[emotional-consciousness]].)

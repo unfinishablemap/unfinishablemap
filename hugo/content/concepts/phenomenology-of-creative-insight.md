@@ -157,7 +157,7 @@ The phenomenology of creative insight supports several of the Map's [tenets](/te
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/)
 - [consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/)
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/)
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)
 
 ## References
 

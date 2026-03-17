@@ -47,7 +47,7 @@ topics:
 
 Aesthetic experience is the hardest single case for any reductive theory of consciousness. Not merely hard—strategically devastating. While standard arguments for irreducibility (the [knowledge argument](/concepts/knowledge-argument/), [zombie conceivability](/concepts/philosophical-zombies/), the [explanatory-gap](/concepts/explanatory-gap/)) each target one aspect of consciousness, aesthetic experience bundles every problematic feature into a single phenomenon. It is simultaneously qualitative, evaluative, holistic, temporally extended, and meaning-laden. A theory that reduces aesthetic consciousness must reduce all of these at once—and the combination resists in ways that each feature alone does not.
 
-The Unfinishable Map argues that treating aesthetic consciousness as a focused test case concentrates the irreducibility debate where physicalism is weakest. The existing articles on [the aesthetic dimension](/topics/aesthetic-dimension-of-consciousness/), [aesthetic binding](/topics/binding-and-beauty/), and [aesthetic creation](/topics/consciousness-and-aesthetic-creation/) develop specific aspects of this case. This article steps back to explain why those aspects converge into an argument stronger than the sum of its parts.
+The Unfinishable Map argues that treating aesthetic consciousness as a focused test case concentrates the irreducibility debate where physicalism is weakest. The existing articles on [the aesthetic dimension](/topics/aesthetics-and-consciousness/), [aesthetic binding](/topics/aesthetics-and-consciousness/), and [aesthetic creation](/topics/aesthetics-and-consciousness/) develop specific aspects of this case. This article steps back to explain why those aspects converge into an argument stronger than the sum of its parts.
 
 ## The Convergence Problem
 
@@ -120,15 +120,15 @@ The Unfinishable Map's [foundational commitments](/tenets/) are illuminated by t
 
 **[Dualism](/tenets/#dualism)**: The convergence of qualitative, normative, holistic, temporal, and meaning-laden features in aesthetic experience provides the strongest single case that consciousness exceeds physical description. Each feature independently troubles physicalism; their inseparable fusion in a single phenomenon makes the trouble compounding rather than merely additive. If any single phenomenon demonstrates that consciousness is not reducible to physical processes, aesthetic experience is it.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Aesthetic experience is causally potent. It drives the creation of art, the preservation of landscapes, the design of buildings, the structuring of rituals. The [aesthetic creation](/topics/consciousness-and-aesthetic-creation/) article details how the creative process requires consciousness to do real causal work. Treating aesthetic consciousness as a test case sharpens this: the systematic relationship between what we experience as beautiful and how we reshape the physical world is intelligible only if aesthetic consciousness causally contributes to physical outcomes.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Aesthetic experience is causally potent. It drives the creation of art, the preservation of landscapes, the design of buildings, the structuring of rituals. The [aesthetic creation](/topics/aesthetics-and-consciousness/) article details how the creative process requires consciousness to do real causal work. Treating aesthetic consciousness as a test case sharpens this: the systematic relationship between what we experience as beautiful and how we reshape the physical world is intelligible only if aesthetic consciousness causally contributes to physical outcomes.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The parsimony of "aesthetic experience is just neural processing" purchases simplicity by discarding exactly what needs explaining—the integrated, normative, holistic, meaningful character of beauty. The aesthetic test case reveals that the apparent simplicity of reduction is a product of ignoring the most important features of the phenomenon, not of genuinely explaining them.
 
 ## Further Reading
 
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Pervasiveness, for-ness, and evidential force of aesthetic experience
-- [binding-and-beauty](/topics/binding-and-beauty/) — The aesthetic unity problem as a harder form of binding
-- [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/) — Making art as evidence for bidirectional interaction
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Pervasiveness, for-ness, and evidential force of aesthetic experience
+- [binding-and-beauty](/topics/aesthetics-and-consciousness/) — The aesthetic unity problem as a harder form of binding
+- [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/) — Making art as evidence for bidirectional interaction
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and the limits of physical information
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability and the zombie argument
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to phenomenal character

@@ -17,7 +17,7 @@ concepts:
   - "[[illusionism]]"
   - "[[working-memory]]"
   - "[[attention-as-interface]]"
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
   - "[[philosophical-zombies]]"
 related_articles:
   - "[[tenets]]"
@@ -168,7 +168,7 @@ None of these conditions currently obtains.
 ## Further Reading
 
 - [[phenomenology-of-epistemic-cognition]] — How weighing evidence and changing beliefs feel from the inside
-- [[emotional-consciousness]] — The phenomenology of emotion more broadly
+- [[emotion-and-dualism]] — The phenomenology of emotion more broadly
 - [[metacognition]] — The cognitive capacity enabling epistemic self-monitoring
 - [[introspection]] — First-person access to epistemic states
 - [[cognitive-phenomenology]] — Whether thinking itself has phenomenal character

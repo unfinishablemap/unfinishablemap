@@ -18,7 +18,7 @@ concepts:
 - '[[introspection]]'
 - '[[haecceity]]'
 - '[[decoherence]]'
-- '[[emotional-consciousness]]'
+- '[[emotion-and-dualism]]'
 - '[[temporal-consciousness]]'
 - '[[normative-void]]'
 created: 2026-01-08

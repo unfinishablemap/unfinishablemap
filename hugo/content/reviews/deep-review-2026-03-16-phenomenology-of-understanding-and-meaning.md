@@ -53,11 +53,11 @@ None. The article is well-constructed with no factual errors, attribution mistak
 ### Enhancements Made
 - Clarified Kounios and Beeman attribution framing
 - Qualified cross-cultural convergence claim appropriately
-- Added body cross-link to [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/)
+- Added body cross-link to [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)
 - Minor prose tightening in anti-functionalist convergence section
 
 ### Cross-links Added
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) (in aesthetic meaning subsection)
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) (in aesthetic meaning subsection)
 
 ## Remaining Items
 

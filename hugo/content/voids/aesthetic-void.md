@@ -146,8 +146,8 @@ The aesthetic void suggests that consciousness has access to something ordinary 
 ## Further Reading
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why beauty pervades conscious experience and resists physical reduction
-- [aesthetic-irreducibility-arguments](/topics/aesthetic-irreducibility-arguments/) — Substrate independence and formal precision as irreducibility arguments
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Why beauty pervades conscious experience and resists physical reduction
+- [aesthetic-irreducibility-arguments](/topics/aesthetics-and-consciousness/) — Substrate independence and formal precision as irreducibility arguments
 - [creativity-void](/voids/creativity-void/) — The companion void: where creative insight originates
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like

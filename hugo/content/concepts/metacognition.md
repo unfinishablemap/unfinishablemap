@@ -23,7 +23,7 @@ concepts:
 - '[[baseline-cognition]]'
 - '[[cumulative-culture]]'
 - '[[theory-of-mind]]'
-- '[[emotional-consciousness]]'
+- '[[emotion-and-dualism]]'
 - '[[unity-of-consciousness]]'
 - '[[working-memory]]'
 - '[[cognitive-phenomenology]]'

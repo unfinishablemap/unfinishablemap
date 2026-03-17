@@ -10,7 +10,7 @@ draft: false
 topics:
   - "[[animal-consciousness]]"
   - "[[consciousness-in-simple-organisms]]"
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
 concepts:
   - "[[phenomenal-consciousness]]"
   - "[[baseline-cognition]]"
@@ -35,7 +35,7 @@ apex_sources:
   - topics/consciousness-in-simple-organisms
   - topics/baseline-cognition
   - concepts/phenomenal-consciousness
-  - topics/emotional-consciousness
+  - topics/emotion-and-dualism
 apex_last_synthesis: 2026-03-04T21:25:00+00:00
 apex_thesis: "Non-linguistic consciousness in animals and simple organisms reveals that experience is more fundamental than the cognitive capacities we usually associate with mind."
 ---
@@ -139,7 +139,7 @@ This apex article synthesises:
 - [[consciousness-in-simple-organisms|Consciousness in Simple Organisms]] — C. elegans, Hydra, slime moulds, and the boundaries of experience
 - [[baseline-cognition|Baseline Cognition]] — What neural systems achieve without consciousness and the human-ape intelligence gap
 - [[phenomenal-consciousness|Phenomenal Consciousness]] — The subjective, felt quality of experience that defines consciousness
-- [[emotional-consciousness|Emotional Consciousness and Valence]] — Why feelings feel the way they do, and why this matters morally
+- [[emotion-and-dualism|Emotion and Dualism]] — Why feelings feel the way they do, and why this matters morally
 
 ## Further Reading
 

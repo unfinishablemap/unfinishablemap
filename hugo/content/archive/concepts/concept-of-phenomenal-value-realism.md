@@ -102,7 +102,7 @@ This pluralist move trades metaphysical strength for broader applicability. The 
 
 ### Aesthetic Value as Distinct Category
 
-[The aesthetic dimension of consciousness](/topics/aesthetic-dimension-of-consciousness/) provides evidence for phenomenal value pluralism. Beauty and ugliness are not reducible to pleasure—an experience can be beautiful without being pleasant (sublime terror) and pleasant without being beautiful (a warm bath). Yet aesthetic qualities carry intrinsic normative weight built into the experience itself.
+[The aesthetic dimension of consciousness](/topics/aesthetics-and-consciousness/) provides evidence for phenomenal value pluralism. Beauty and ugliness are not reducible to pleasure—an experience can be beautiful without being pleasant (sublime terror) and pleasant without being beautiful (a warm bath). Yet aesthetic qualities carry intrinsic normative weight built into the experience itself.
 
 The inverted qualia thought experiment sharpens this point for aesthetics. Imagine a being whose aesthetic responses are systematically inverted: what we experience as beautiful, they experience as ugly, and vice versa. If beauty were just a structural or functional property—a pattern of neural activation, say—there would be no fact of the matter about which experience is genuinely beautiful. But we resist this conclusion. The asymmetry between beauty and ugliness seems intrinsic to the phenomenal character, not imposed by convention or function. If that's right, aesthetic value is a feature of experience itself—supporting phenomenal value pluralism over both hedonism and functionalism.
 
@@ -208,12 +208,12 @@ If value is grounded in consciousness: the [hard problem](/topics/hard-problem-o
 
 - [Phenomenal Value Realism (Topic)](/topics/phenomenal-value-realism/) — Comprehensive treatment: queerness objections, the is-ought gap, pluralist extension, and the case for consciousness-grounded value
 - [experiential-alignment](/concepts/experiential-alignment/) — The operationalization of phenomenal value realism for AI alignment
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why experience has aesthetic quality, and why this resists reduction
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Why experience has aesthetic quality, and why this resists reduction
 - [meaning-of-life](/topics/meaning-of-life/) — The case that consciousness grounds meaning
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Ethical implications of consciousness-grounded value
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — Why AI alignment should target experiential quality
 - [qualia](/concepts/qualia/) — The qualitative features of experience
-- [emotional-consciousness](/topics/emotional-consciousness/) — Valence as the felt quality of emotions
+- [emotional-consciousness](/topics/emotion-and-dualism/) — Valence as the felt quality of emotions
 - [tenets](/tenets/) — The foundational commitments that support this view
 - [haecceity](/concepts/haecceity/) — Why *this* experience matters, not just experience-of-this-type
 - [illusionism](/concepts/illusionism/) — The strongest challenge to phenomenal consciousness

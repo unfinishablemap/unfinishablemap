@@ -133,7 +133,7 @@ The modal structure of phenomenal properties provides some of the strongest supp
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation that grounds Kripke's asymmetry
 - [qualia](/concepts/qualia/) — The phenomenal properties whose modal structure this article examines
 - [explanatory-gap](/concepts/explanatory-gap/) — The chasm between physical description and experience
-- [aesthetic-irreducibility-arguments](/topics/aesthetic-irreducibility-arguments/) — Aesthetic properties as a domain where modal independence is especially vivid
+- [aesthetic-irreducibility-arguments](/topics/aesthetics-and-consciousness/) — Aesthetic properties as a domain where modal independence is especially vivid
 - [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) — Why we report that consciousness is puzzling
 
 ## References

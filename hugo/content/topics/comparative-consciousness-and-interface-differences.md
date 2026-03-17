@@ -14,7 +14,7 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[interface-locality]]'
 - '[[neural-correlates-of-consciousness]]'
-- '[[emotional-consciousness]]'
+- '[[emotion-and-dualism]]'
 - '[[altered-states-of-consciousness]]'
 - '[[consciousness-as-amplifier]]'
 created: 2026-02-01
@@ -138,7 +138,7 @@ This reframes the comparative question twice over. Instead of asking only "does 
 
 ### Emotional vs. Cognitive Consciousness
 
-[Emotional consciousness](/topics/emotional-consciousness/) and cognitive consciousness may differ in nature, coupling, or both. Affective neuroscience suggests emotional experience arises from subcortical structures (Panksepp's primary emotional systems) while cognitive consciousness correlates with cortical processing.
+[Emotional consciousness](/topics/emotion-and-dualism/) and cognitive consciousness may differ in nature, coupling, or both. Affective neuroscience suggests emotional experience arises from subcortical structures (Panksepp's primary emotional systems) while cognitive consciousness correlates with cortical processing.
 
 The coupling difference is clear: different neural sites and mechanisms. But the valenced character of emotion—its intrinsic goodness or badness—might reflect a difference in *nature*, not just coupling. The felt quality of pain seems categorically different from the felt quality of visual perception—possibly indicating different types of conscious entity rather than the same consciousness coupled at different neural sites.
 
@@ -227,7 +227,7 @@ Several findings would constrain the nature-vs-coupling question:
 
 ### Types of Consciousness
 - [types-of-consciousness](/concepts/types-of-consciousness/) — Structural taxonomy: phenomenal, access, monitoring, and dissociable features
-- [emotional-consciousness](/topics/emotional-consciousness/) — Valence and the Panksepp-LeDoux debate
+- [emotion-and-dualism](/topics/emotion-and-dualism/) — Valence and the Panksepp-LeDoux debate
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Meditation, psychedelics, sleep
 - [minimal-consciousness](/concepts/minimal-consciousness/) — The lower bound of phenomenal experience
 

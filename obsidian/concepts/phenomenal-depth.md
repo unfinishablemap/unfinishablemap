@@ -9,7 +9,7 @@ draft: false
 last_deep_review: 2026-02-17T02:27:00+00:00
 topics:
   - "[[phenomenology-of-understanding-and-meaning]]"
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
   - "[[contemplative-training-and-phenomenal-access]]"
 concepts:
   - "[[qualia]]"

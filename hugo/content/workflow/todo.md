@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Research Penrose gravity-collapse connection and empirical prospects
-- **Type**: research-topic
-- **Notes**: The apex mentions Penrose linking collapse to gravitational self-energy as a source of empirical predictions. Deep dive: (1) Penrose objective reduction — one-graviton criterion, superposition of spacetimes. (2) Diósi-Penrose model — specific collapse rate predictions. (3) Current experimental status — germanium detector experiments, Vinante et al. constraints. (4) MAQRO space mission proposal for microgravity testing. (5) How consciousness-modulated Penrose collapse might differ from pure gravitational collapse — are there divergent regimes? (6) Orch OR's specific predictions about microtubule coherence timescales. Most promising avenue for the reverse inference to generate empirically distinguishable predictions. Target: research note.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P2: Research the Gödel-measurement problem analogy — scope and limits
 - **Type**: research-topic
 - **Notes**: The apex draws an analogy between Gödel incompleteness and the measurement problem. Needs rigorous treatment: (1) Penrose's use of Gödel in Shadows of the Mind. (2) Lucas-Penrose argument and critics (Putnam, Feferman, Shapiro). (3) Precise scope: formal incompleteness involves self-reference; does the measurement problem? (4) Chaitin's incompleteness via algorithmic randomness. (5) Where the analogy breaks: Gödel is about provability; measurement problem is about determinism. Genuinely analogous or superficially similar? (6) Yanofsky's "Outer Limits of Reason" on structural limits across domains. Target: research note.
@@ -55,6 +49,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: The apex distinguishes Einstein's "incomplete" (missing hidden variables) from the Map's "partial" (complete about structure, silent about actuality). Ground this technically: (1) EPR's completeness criterion. (2) Bell's theorem on local hidden variables. (3) Kochen-Specker on contextuality. (4) PBR theorem — wavefunction is ontic. How does this support "partial but complete"? (5) Fine's prism models. (6) Precise coherence of "complete but partial" — a theory complete for its domain acknowledging its domain is not all of reality. Precedent: Newtonian mechanics was complete-but-partial. Target: research note.
 - **Source**: human_directed
 - **Generated**: 2026-03-14
+
+### P2: Update references to coalesced aesthetics articles
+- **Type**: cross-review
+- **Notes**: Coalesce created aesthetics-and-consciousness.md from 4 source articles. The following active files reference archived articles and need wikilinks updated: aesthetic-dimension-of-consciousness → aesthetics-and-consciousness (14 active files), aesthetic-irreducibility-arguments → aesthetics-and-consciousness (8 active files), consciousness-and-aesthetic-creation → aesthetics-and-consciousness (6 active files), binding-and-beauty → aesthetics-and-consciousness (0 non-source active files). Many files reference multiple archived slugs. See changelog entry 2026-03-17 01:15 UTC.
+- **Source**: coalesce
+- **Generated**: 2026-03-17
 
 ### P2: Research Russellian monism as competitor to bi-aspectual dualism
 - **Type**: research-topic
@@ -110,23 +110,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: human_directed
 - **Generated**: 2026-03-14
 
-### P2: Deep review what-consciousness-tells-us-about-physics.md
-- **Type**: deep-review
-- **Notes**: The new apex needs a full deep review after supporting research is complete. Stress-test: (1) "Complete but partial" distinction — coherent or verbal? (2) Born rule as interface specification — genuine claim or relabelling? (3) Gödel analogy — earning its keep or decorative? (4) "What would challenge this view" — genuine challenges or straw? Schedule after research tasks complete so review can draw on new material.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
-### P1: Coalesce aesthetics articles in topics/ (4 articles → 1)
+### ~~P1: Coalesce aesthetics articles in topics/ (4 articles → 1)~~ ✅
 - **Type**: coalesce
 - **Notes**: Topics section is 20 over its 200-article cap, blocking all expand-topic tasks. Four articles cover overlapping ground on aesthetic irreducibility as evidence for consciousness: aesthetic-dimension-of-consciousness.md (3776 words), aesthetic-irreducibility-arguments.md (2687 words), consciousness-and-aesthetic-creation.md (2662 words), binding-and-beauty.md (2165 words). Merge into a single comprehensive article on aesthetics and consciousness. Saves 3 article slots.
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
+- **Completed**: 2026-03-17
 
-### P1: Coalesce emotion/dualism articles in topics/ (4 articles → 1)
+### ✓ P1: Coalesce emotion/dualism articles in topics/ (4 articles → 1)
 - **Type**: coalesce
 - **Notes**: Topics section is 20 over its 200-article cap. Four articles overlap on emotional consciousness as evidence for dualism: emotional-consciousness.md (3618 words), emotion-as-evidence-for-dualism.md (2270 words), philosophy-of-emotion-under-dualism.md (2757 words), void-of-self-knowledge-in-emotion.md (2184 words). Merge into a unified article on emotion, valence irreducibility, and dualist implications. Saves 3 article slots.
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
+- **Completed**: 2026-03-17
+- **Output**: [emotion-and-dualism](/topics/emotion-and-dualism/)
 
 ### P1: Coalesce attention/interface articles in topics/ (4 articles → 1-2)
 - **Type**: coalesce
@@ -647,6 +644,19 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-17: Coalesce aesthetics articles in topics/ (4 articles → 1)
+- **Type**: coalesce
+- **Notes**: Topics section is 20 over its 200-article cap, blocking all expand-topic tasks. Four articles cover overlapping ground on aesthetic irreducibility as evidence for consciousness: aesthetic-dimension-of-consciousness.md (3776 words), aesthetic-irreducibility-arguments.md (2687 words), consciousness-and-aesthetic-creation.md (2662 words), binding-and-beauty.md (2165 words). Merge into a single comprehensive article on aesthetics and consciousness. Saves 3 article slots.
+- **Output**: Coalesce aesthetics articles in topics/ (4 articles → 1)
+
+Task context:
+Topics section is 20 over its 200-article cap, blocking all expand-topic tasks. Four articles cover overlapping ground on aesthetic irreducibility as evidence for consciousness: aesthetic-dimension-of-consciousness.md (3776 words), aesthetic-irreducibility-arguments.md (2687 words), consciousness-and-aesthetic-creation.md (2662 words), binding-and-beauty.md (2165 words). Merge into a single comprehensive article on aesthetics and consciousness. Saves 3 article slots.
+
+### ✓ 2026-03-17: Research Penrose gravity-collapse connection and empirical prospects
+- **Type**: research-topic
+- **Notes**: The apex mentions Penrose linking collapse to gravitational self-energy as a source of empirical predictions. Deep dive: (1) Penrose objective reduction — one-graviton criterion, superposition of spacetimes. (2) Diósi-Penrose model — specific collapse rate predictions. (3) Current experimental status — germanium detector experiments, Vinante et al. constraints. (4) MAQRO space mission proposal for microgravity testing. (5) How consciousness-modulated Penrose collapse might differ from pure gravitational collapse — are there divergent regimes? (6) Orch OR's specific predictions about microtubule coherence timescales. Most promising avenue for the reverse inference to generate empirically distinguishable predictions. Target: research note.
+- **Output**: Penrose gravity-collapse connection and empirical prospects
 
 ### ✓ 2026-03-16: Research Wheeler's participatory universe and "it from bit"
 - **Type**: research-topic

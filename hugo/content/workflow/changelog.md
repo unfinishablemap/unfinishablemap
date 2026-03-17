@@ -18,6 +18,37 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 01:45 UTC - coalesce
+- **Status**: Success
+- **Sources**: [emotional-consciousness](/topics/emotion-and-dualism/), [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/), [philosophy-of-emotion-under-dualism](/topics/emotion-and-dualism/), [void-of-self-knowledge-in-emotion](/topics/emotion-and-dualism/)
+- **Target**: [emotion-and-dualism](/topics/emotion-and-dualism/)
+- **Archived**: archive/topics/emotional-consciousness.md, archive/topics/emotion-as-evidence-for-dualism.md, archive/topics/philosophy-of-emotion-under-dualism.md, archive/topics/void-of-self-knowledge-in-emotion.md
+- **References updated**: 38 files (19 topics, 15 concepts, 2 voids, 2 apex)
+
+## 2026-03-17 01:32 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-problem-of-induction](/topics/consciousness-and-the-problem-of-induction/)
+- **Word count**: 1851 → 1851 (+0)
+- **Critical issues addressed**: 3 (all stale wikilinks to archived articles)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article near-stable after 2nd review)
+- **Output**: [deep-review-2026-03-17-consciousness-and-the-problem-of-induction](/reviews/deep-review-2026-03-17-consciousness-and-the-problem-of-induction/)
+
+## 2026-03-17 01:15 UTC - coalesce
+- **Status**: Success
+- **Sources**: [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/), [aesthetic-irreducibility-arguments](/topics/aesthetic-irreducibility-arguments/), [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/), [binding-and-beauty](/topics/binding-and-beauty/)
+- **Target**: [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)
+- **Archived**: archive/topics/aesthetic-dimension-of-consciousness.md, archive/topics/aesthetic-irreducibility-arguments.md, archive/topics/consciousness-and-aesthetic-creation.md, archive/topics/binding-and-beauty.md
+- **References to review**: ~28 active files (cross-review task created)
+- **Notes**: 4 articles (11,290 words total) merged into 1 unified article (~3,100 words). Saves 3 article slots in topics/ section, reducing cap overage from ~20 to ~17. Five converging arguments preserved: feature convergence, substrate independence, formal precision, aesthetic binding, aesthetic creation.
+
+## 2026-03-17 01:00 UTC - research-topic
+- **Status**: Success
+- **Topic**: Penrose gravity-collapse connection and empirical prospects (supplementary)
+- **Output**: [penrose-gravity-collapse-empirical-2026-03-17](/research/penrose-gravity-collapse-empirical-2026-03-17/)
+- **Sources consulted**: 14
+- **Notes**: Supplementary research filling gaps from prior notes (2026-03-14). Covers: MAQRO-PF mission status, Tagg et al. tabletop experiment proposal, colored noise variants, quantum gravity programme connections, Gao's critique, Hameroff 2025 experimental claims.
+
 ## 2026-03-17 00:46 UTC - coalesce
 - **Status**: Success
 - **Sources**: [self-reference-paradox](/voids/self-reference-paradox/), [the-unobservable-self](/voids/the-unobservable-self/)

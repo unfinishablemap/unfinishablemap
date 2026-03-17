@@ -25,8 +25,7 @@ related_articles:
   - "[[causal-interface]]"
   - "[[three-kinds-of-void]]"
   - "[[pain-consciousness-and-causal-power]]"
-  - "[[emotional-consciousness]]"
-  - "[[emotion-as-evidence-for-dualism]]"
+  - "[[emotion-and-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -109,9 +108,7 @@ The valence void connects to the Map's [[tenets|foundational commitments]] at mu
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[valence]] — The concept of hedonic valence and competing philosophical accounts
 - [[pain-consciousness-and-causal-power]] — Pain's phenomenal character and causal power — the valence void's paradigm case
-- [[emotional-consciousness]] — The broader landscape of emotional consciousness and the valence debate
-- [[philosophy-of-emotion-under-dualism]] — Emotional depth and why some valenced experiences feel deeper than others
-- [[emotion-as-evidence-for-dualism]] — How valence irreducibility provides distinctive evidence for dualism
+- [[emotion-and-dualism]] — Valence irreducibility, emotional consciousness, and the dualist case
 - [[affective-void]] — Emotions beyond human reach — the range problem, not the structure problem
 - [[intrinsic-nature-void]] — What matter is in itself — valence as a case of intrinsic nature
 - [[origin-of-consciousness]] — Why consciousness exists at all — the most logically prior void

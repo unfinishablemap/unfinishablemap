@@ -10,7 +10,7 @@ coalesced_from:
 concepts:
 - '[[qualia]]'
 - '[[topics/phenomenal-value-realism]]'
-- '[[emotional-consciousness]]'
+- '[[emotion-and-dualism]]'
 - '[[introspection]]'
 - '[[illusionism]]'
 - '[[hard-problem-of-consciousness]]'
@@ -97,7 +97,7 @@ While hedonic valence matters, the Map holds it isn't the only thing that matter
 
 This pluralist move trades metaphysical strength for broader applicability. The hedonic identity thesis has the force of strict identity: one property under two descriptions. Extending value to agency, understanding, and connection weakens this to a genus-species relationship—hedonic valence is one species of experiential value, not identical to value as such. The Map accepts this trade because pure hedonism fails phenomenologically: the value of understanding a proof or choosing courageously is not exhausted by any accompanying pleasure. What survives is the deeper claim that all intrinsic value is constituted by features of conscious experience.
 
-[The aesthetic dimension](/topics/aesthetic-dimension-of-consciousness/) provides direct evidence for pluralism. Beauty and ugliness are not reducible to pleasure—an experience can be beautiful without being pleasant (sublime terror) and pleasant without being beautiful (a warm bath). Yet aesthetic qualities carry intrinsic normative weight built into the experience itself.
+[The aesthetic dimension](/topics/aesthetics-and-consciousness/) provides direct evidence for pluralism. Beauty and ugliness are not reducible to pleasure—an experience can be beautiful without being pleasant (sublime terror) and pleasant without being beautiful (a warm bath). Yet aesthetic qualities carry intrinsic normative weight built into the experience itself.
 
 The Map rejects preference satisfaction as the ground of value. Evolution shaped preferences for survival, not flourishing—you can prefer things that worsen your experience. And "objective list" theories succeed only because the items on the list (knowledge, friendship, virtue) matter *through how they feature in conscious experience*.
 
@@ -167,9 +167,9 @@ Phenomenal normativity would face pressure if:
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Comprehensive treatment of the metaethical position
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why value requires consciousness
 - [qualia](/concepts/qualia/) — The qualitative features of experience
-- [emotional-consciousness](/topics/emotional-consciousness/) — Valence as the felt quality of emotions
+- [emotion-and-dualism](/topics/emotion-and-dualism/) — Valence as the felt quality of emotions
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — How phenomenal normativity manifests across moral, epistemic, aesthetic, and prudential domains
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Aesthetic normativity beyond hedonic valence
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Aesthetic normativity beyond hedonic valence
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness grounds meaning
 - [experiential-alignment](/concepts/experiential-alignment/) — Operationalizing phenomenal normativity for AI alignment
 - [introspection](/concepts/introspection/) — First-person access to phenomenal states

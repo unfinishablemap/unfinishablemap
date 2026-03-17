@@ -249,7 +249,7 @@ Intentionality connects to all five foundational tenets:
 - [[ai-consciousness]] — Why original intentionality matters for AI
 - [[concepts/functionalism]] — A view that PIT challenges
 - [[qualia]] — The phenomenal properties that may ground intentionality
-- [[philosophy-of-emotion-under-dualism]] — Emotional intentionality as a sui generis mode distinct from belief and perception
+- [[emotion-and-dualism]] — Emotional intentionality as a sui generis mode distinct from belief and perception
 - [[binding-problem]] — How distributed processes combine into unified experience; the binding dimension of understanding
 - [[illusionism]] — The radical denial that intentionality and consciousness are real
 - [[introspection]] — How we access intentional states and whether that access is reliable

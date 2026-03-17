@@ -126,7 +126,7 @@ Epistemic norms — what one *ought* to believe — also depend on consciousness
 
 ### Aesthetic Authority
 
-The claim that music is beautiful or a landscape sublime purports to identify something worth attending to — something that merits appreciation. This authority rests not on formal properties alone (mathematical symmetry can be aesthetically dead) nor on social consensus (aesthetic disagreement is genuine disagreement). It rests on [aesthetic experience](/topics/aesthetic-dimension-of-consciousness/) — what it is like to encounter beauty, sublimity, or expressive depth. The phenomenal character of aesthetic experience presents its object as worthy of attention, as mattering in a way that demands response.
+The claim that music is beautiful or a landscape sublime purports to identify something worth attending to — something that merits appreciation. This authority rests not on formal properties alone (mathematical symmetry can be aesthetically dead) nor on social consensus (aesthetic disagreement is genuine disagreement). It rests on [aesthetic experience](/topics/aesthetics-and-consciousness/) — what it is like to encounter beauty, sublimity, or expressive depth. The phenomenal character of aesthetic experience presents its object as worthy of attention, as mattering in a way that demands response.
 
 ### Authority Without Infallibility
 
@@ -218,7 +218,7 @@ The consciousness-based account of normative authority would face pressure if:
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert
 - [moral-perception](/concepts/moral-perception/) — Direct perception of moral properties
 - [agent-causation](/concepts/agent-causation/) — Conscious origination of action
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Beauty, sublimity, and phenomenal experience
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Beauty, sublimity, and phenomenal experience
 - [normative-phenomenology](/concepts/normative-phenomenology/) — The phenomenology of normative experience
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists reductive explanation
 - [free-will](/topics/free-will/) — Genuine choice at the site of normative conflict

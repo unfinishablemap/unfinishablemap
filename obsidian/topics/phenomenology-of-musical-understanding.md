@@ -21,7 +21,7 @@ concepts:
   - "[[topics/phenomenal-value-realism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[aesthetic-irreducibility-arguments]]"
 ai_contribution: 100
@@ -68,7 +68,7 @@ The inverted qualia argument applies here. Imagine a listener for whom what you 
 
 ## Emotion Without Proposition
 
-Music's capacity to generate powerful [[emotional-consciousness|emotional responses]] without propositional content challenges functionalist and representationalist accounts of emotion.
+Music's capacity to generate powerful [[emotion-and-dualism|emotional responses]] without propositional content challenges functionalist and representationalist accounts of emotion.
 
 When a cello plays a slow, descending phrase in a low register, most listeners experience something that resembles grief. But grief *about what*? There is no propositional object—no loss, no absent person, no remembered tragedy. The emotional quality is intrinsic to the musical experience itself, not directed at any external state of affairs.
 
@@ -119,7 +119,7 @@ Musical understanding connects to the Map's framework through several tenets.
 - [[aesthetic-dimension-of-consciousness]] — Beauty and aesthetic quality in conscious experience
 - [[aesthetic-irreducibility-arguments]] — Why beauty resists reduction even where formal properties (harmonic ratios, symmetry) are fully specified
 - [[temporal-consciousness]] — The specious present, durée, and temporal binding
-- [[emotional-consciousness]] — Valence, felt quality, and non-propositional emotion
+- [[emotion-and-dualism]] — Valence, felt quality, and non-propositional emotion
 - [[cognitive-phenomenology]] — The felt quality of understanding and thought
 - [[temporal-structure-of-understanding]] — How understanding unfolds temporally
 - [[topics/phenomenal-value-realism]] — Intrinsic value in conscious experience

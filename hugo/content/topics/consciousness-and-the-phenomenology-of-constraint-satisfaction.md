@@ -110,7 +110,7 @@ The disconnect between computational complexity and phenomenal intensity poses a
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
 - [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
-- [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/)
+- [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 
 ## References

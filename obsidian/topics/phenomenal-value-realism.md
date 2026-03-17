@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[meaning-of-life]]"
   - "[[ethics-of-consciousness]]"
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
 concepts:
   - "[[phenomenal-normativity]]"
   - "[[qualia]]"
@@ -256,7 +256,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [[topics/free-will]] — Agency as intrinsically valuable phenomenal experience
 - [[contemplative-practice-as-philosophical-evidence]] — What contemplative practice reveals about value and consciousness
 - [[aesthetic-dimension-of-consciousness]] — Why aesthetic value resists hedonistic reduction
-- [[emotional-consciousness]] — Valence as the felt quality of emotions
+- [[emotion-and-dualism]] — Valence as the felt quality of emotions
 - [[pain-consciousness-and-causal-power]] — Why pain's phenomenal character is inseparable from its causal and evaluative role
 - [[haecceity]] — Why *this* experience matters, not just experience-of-this-type
 - [[illusionism]] — The strongest challenge to phenomenal consciousness

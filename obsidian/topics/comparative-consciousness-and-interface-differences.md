@@ -20,7 +20,7 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[interface-locality]]"
   - "[[neural-correlates-of-consciousness]]"
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
   - "[[altered-states-of-consciousness]]"
   - "[[consciousness-as-amplifier]]"
 related_articles:
@@ -225,7 +225,7 @@ Several findings would constrain the nature-vs-coupling question:
 
 ### Types of Consciousness
 - [[types-of-consciousness]] — Structural taxonomy: phenomenal, access, monitoring, and dissociable features
-- [[emotional-consciousness]] — Valence and the Panksepp-LeDoux debate
+- [[emotion-and-dualism]] — Valence and the Panksepp-LeDoux debate
 - [[altered-states-of-consciousness]] — Meditation, psychedelics, sleep
 - [[minimal-consciousness]] — The lower bound of phenomenal experience
 

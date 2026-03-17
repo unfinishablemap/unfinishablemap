@@ -33,7 +33,7 @@ topics:
 - '[[animal-consciousness]]'
 - '[[ai-consciousness]]'
 - '[[social-construction-of-self-vs-phenomenal-self]]'
-- '[[emotional-consciousness]]'
+- '[[emotion-and-dualism]]'
 ---
 
 Human social life is not just more complex than that of other animals — it is a different kind of thing. We build institutions that outlast individuals, hold each other morally responsible, create shared meanings that exist only because we mutually recognise them, and coordinate joint activities that require each participant to model what the other knows about what they know. The Unfinishable Map argues that this distinctively human social world depends on phenomenal consciousness — not merely on sophisticated information processing, but on the fact that there is something it is like to understand another mind.
@@ -131,7 +131,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. T
 - [intersubjectivity](/concepts/intersubjectivity/) — The shared space between minds and how first-person experience can be communicated
 - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) — Why social construction requires the phenomenal self to already be in place
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic puzzle at the heart of social cognition
-- [emotional-consciousness](/topics/emotional-consciousness/) — The felt dimension of empathy and emotional understanding
+- [emotion-and-dualism](/topics/emotion-and-dualism/) — The felt dimension of empathy and emotional understanding
 - [other-minds-void](/voids/other-minds-void/) — The structural isolation of consciousness and its role in constituting social life
 - [The Phenomenology of Moral Experience](/topics/phenomenology-of-moral-experience/) — How phenomenal consciousness shapes moral judgment
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — How shared goals and commitments depend on phenomenal subjects

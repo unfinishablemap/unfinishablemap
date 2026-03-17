@@ -92,7 +92,7 @@ This felt necessity admits of degrees. Elementary arithmetic truths carry necess
 
 Mathematicians consistently report that correct results *feel* elegant before full verification. Hardy wrote that "there is no permanent place in the world for ugly mathematics." Poincaré described how the unconscious generates vast combinations but only "harmonious" ones—those satisfying the mathematician's aesthetic sensibility—surface to consciousness.
 
-The [aesthetic phenomenology](/topics/aesthetic-dimension-of-consciousness/) of mathematics is epistemically functional. Mathematical beauty is also the strongest case of [substrate-independent beauty](/topics/aesthetic-irreducibility-arguments/): it exists in a domain entirely devoid of physical substrate yet produces phenomenal experiences strikingly similar to those from music or visual art.
+The [aesthetic phenomenology](/topics/aesthetics-and-consciousness/) of mathematics is epistemically functional. Mathematical beauty is also the strongest case of [substrate-independent beauty](/topics/aesthetics-and-consciousness/): it exists in a domain entirely devoid of physical substrate yet produces phenomenal experiences strikingly similar to those from music or visual art.
 
 The aesthetic criterion is not infallible. The four-colour theorem's computer-assisted proof is mathematically deep but widely regarded as inelegant. Some results initially thought beautiful turn out trivial. The tracking between beauty and depth is real but domain-dependent and imperfect—which sharpens rather than weakens the philosophical puzzle. Why should felt beauty correlate with mathematical truth *at all*? If mathematical insight were purely computational, there would be no reason for it to feel like anything, let alone *beautiful*.
 
@@ -146,7 +146,7 @@ These limits are themselves informative. They suggest consciousness accesses mat
 - [argument-from-reason](/topics/argument-from-reason/) — Why rational thought supports dualism
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Broader epistemic benefits of the dualist framework
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The case for phenomenal character in thinking
-- [aesthetic-irreducibility-arguments](/topics/aesthetic-irreducibility-arguments/) — Mathematical beauty as substrate-independent aesthetic experience
+- [aesthetic-irreducibility-arguments](/topics/aesthetics-and-consciousness/) — Mathematical beauty as substrate-independent aesthetic experience
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The felt difference between verification and comprehension
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — The general phenomenology of creative insight across domains
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Why understanding may require phenomenal awareness

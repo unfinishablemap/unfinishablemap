@@ -67,7 +67,7 @@ topics: []
 
 ### Cross-links Added
 - [categorical-surprise](/concepts/categorical-surprise/)
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/)
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)
 - [functionalism](/concepts/functionalism/)
 - [epiphenomenalism](/concepts/epiphenomenalism/)
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)

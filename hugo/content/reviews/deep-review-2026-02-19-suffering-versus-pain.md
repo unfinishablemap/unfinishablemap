@@ -52,14 +52,14 @@ topics: []
 - "The parsimonious move of eliminating phenomenal suffering in favour of neural description achieves simplicity by ignoring the phenomenon" — fifth tenet as a pointed one-liner
 
 ### Enhancements Made
-- Added cross-link to [emotional-consciousness](/topics/emotional-consciousness/) via the valence concept in the "Suffering Without Pain" section
+- Added cross-link to [emotional-consciousness](/topics/emotion-and-dualism/) via the valence concept in the "Suffering Without Pain" section
 - Strengthened engagement with physicalist objections in two key passages
 - Improved precision of pain asymbolia description
 - Added Buddhist philosophical context for the contemplative dissociation
 - Updated reference base with three new citations
 
 ### Cross-links Added
-- [emotional-consciousness](/topics/emotional-consciousness/) (valence as intrinsic property of experience)
+- [emotional-consciousness](/topics/emotion-and-dualism/) (valence as intrinsic property of experience)
 
 ## Remaining Items
 

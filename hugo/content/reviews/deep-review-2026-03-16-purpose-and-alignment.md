@@ -81,7 +81,7 @@ All cross-links valid after fixes:
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) ✓
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) ✓
 - [neurophenomenology](/concepts/neurophenomenology/) ✓
-- [emotional-consciousness](/topics/emotional-consciousness/) ✓
+- [emotional-consciousness](/topics/emotion-and-dualism/) ✓
 - [illusionism](/concepts/illusionism/) ✓
 - [introspection](/concepts/introspection/) ✓
 - [witness-consciousness](/concepts/witness-consciousness/) ✓

@@ -97,7 +97,7 @@ Among the most philosophically significant aspects is the experience of necessit
 
 ### Aesthetic Meaning
 
-[Musical understanding](/topics/phenomenology-of-musical-understanding/) provides the clearest case of meaning that cannot be stated propositionally — a point explored further in the Map's treatment of the [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/). When a minor key passage sounds, listeners experience something — sadness, darkness, yearning — but the meaning cannot be translated into any assertion. The music generates felt significance directly, without passing through propositional content.
+[Musical understanding](/topics/phenomenology-of-musical-understanding/) provides the clearest case of meaning that cannot be stated propositionally — a point explored further in the Map's treatment of the [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/). When a minor key passage sounds, listeners experience something — sadness, darkness, yearning — but the meaning cannot be translated into any assertion. The music generates felt significance directly, without passing through propositional content.
 
 The meaning of a harmonic resolution is constituted by its phenomenal character — by the felt release of tension, the satisfaction of an anticipated continuation arriving. A system that processed the same harmonic relations without temporal phenomenology — without the specious present that holds preceding notes in retention while protention reaches toward what follows — would process structure without generating meaning. The meaning *is* the experience of the structure, not the structure itself.
 

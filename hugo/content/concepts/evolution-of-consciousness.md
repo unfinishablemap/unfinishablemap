@@ -87,7 +87,7 @@ If consciousness is causally efficacious, several advantages might drive its evo
 
 **Integration**: [Unified conscious experience](/concepts/unity-of-consciousness/) binds information from different senses and cognitive processes into a single coherent representation. This integration might be necessary for planning, counterfactual reasoning, and coordinated action—capacities that confer obvious survival advantages.
 
-**Valenced guidance**: [Emotional consciousness](/topics/emotional-consciousness/) provides intrinsic motivation through pleasure and pain. Rather than needing explicit reward signals, conscious organisms are *motivated* by felt quality. The badness of pain and goodness of pleasure create powerful selection pressure without requiring external specification.
+**Valenced guidance**: [Emotional consciousness](/topics/emotion-and-dualism/) provides intrinsic motivation through pleasure and pain. Rather than needing explicit reward signals, conscious organisms are *motivated* by felt quality. The badness of pain and goodness of pleasure create powerful selection pressure without requiring external specification.
 
 **Self-modelling**: Consciousness enables meta-cognition—thinking about one's own mental states. This self-awareness supports learning from mistakes, anticipating future needs, and modelling other minds (theory of mind). Social species benefit enormously from predicting others' behaviour.
 
@@ -230,7 +230,7 @@ Scientific humility requires specifying what would count against one's view.
 - [panpsychism](/concepts/panpsychism/) — The view that experience is fundamental
 - [combination-problem](/concepts/combination-problem/) — How micro-experiences combine into unified minds
 - [phenomenal unity](/concepts/unity-of-consciousness/) — The binding of experience into unified wholes
-- [emotional-consciousness](/topics/emotional-consciousness/) — The felt quality of emotions and its adaptive role
+- [emotion-and-dualism](/topics/emotion-and-dualism/) — The felt quality of emotions and its adaptive role
 - [illusionism](/concepts/illusionism/) — The radical physicalist response
 - [decoherence](/concepts/decoherence/) — The quantum coherence challenge and biological precedents
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness interfaces with neural quantum processes

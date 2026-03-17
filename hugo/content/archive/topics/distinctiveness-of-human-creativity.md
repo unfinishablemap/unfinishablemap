@@ -96,7 +96,7 @@ AI systems face no temporal horizon. They do not experience deadline pressure, m
 
 ### Aesthetic Experience as Guide
 
-The [aesthetic dimension](/topics/aesthetic-dimension-of-consciousness/) of consciousness plays a direct role in creative work. Aesthetic experience—the felt sense of beauty, elegance, rightness, or wrongness—operates as an evaluative mechanism that guides creation. Mathematicians report that correct proofs *feel* elegant before they are verified. Composers hear when a passage works. Writers sense when prose achieves what they intended.
+The [aesthetic dimension](/topics/aesthetics-and-consciousness/) of consciousness plays a direct role in creative work. Aesthetic experience—the felt sense of beauty, elegance, rightness, or wrongness—operates as an evaluative mechanism that guides creation. Mathematicians report that correct proofs *feel* elegant before they are verified. Composers hear when a passage works. Writers sense when prose achieves what they intended.
 
 This aesthetic guidance is phenomenal through and through. It requires there to be something it is like to encounter the work-in-progress. The aesthetic sense does not operate on formal properties alone—it responds to meaning, context, and the creator's own experiential history. A melody that sounds trite to one composer sounds fresh to another because their aesthetic landscapes differ, shaped by different histories of listening.
 
@@ -156,7 +156,7 @@ None of these conditions currently obtains. AI systems produce formally impressi
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis
 - [creativity-void](/voids/creativity-void/) — Why the creative source remains phenomenologically hidden
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Aesthetic experience as irreducible phenomenal property
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Aesthetic experience as irreducible phenomenal property
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems could possess phenomenal consciousness
 - [duration](/concepts/temporal-consciousness/) — Bergson's lived time as creative becoming
 - [metarepresentation](/concepts/metacognition/) — Representing representations as objects of thought

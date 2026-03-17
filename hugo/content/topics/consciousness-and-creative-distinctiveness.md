@@ -84,7 +84,7 @@ Beyond these functional requirements, several features of human creativity depen
 
 **Temporal stakes.** Human creativity occurs within [durée](/concepts/temporal-consciousness/)—Bergson's lived time, where each moment integrates the entire past and faces an open future. The artist working on what they suspect will be their final painting creates under existential pressure that shapes what they attempt and what standards they hold themselves to. AI systems face no temporal horizon.
 
-**Aesthetic experience as guide.** The [aesthetic dimension](/topics/aesthetic-dimension-of-consciousness/) of consciousness operates as an evaluative mechanism during creation. Mathematicians report that correct proofs *feel* elegant before verification. Composers hear when a passage works. This aesthetic guidance requires there to be something it is like to encounter the work-in-progress—it responds to meaning, context, and the creator's own experiential history.
+**Aesthetic experience as guide.** The [aesthetic dimension](/topics/aesthetics-and-consciousness/) of consciousness operates as an evaluative mechanism during creation. Mathematicians report that correct proofs *feel* elegant before verification. Composers hear when a passage works. This aesthetic guidance requires there to be something it is like to encounter the work-in-progress—it responds to meaning, context, and the creator's own experiential history.
 
 ## The Creative Mechanism
 
@@ -161,9 +161,9 @@ Current evidence does not support any of these conditions.
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's lived time as creative becoming
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for mental causation including creative generation
 - [creativity-void](/voids/creativity-void/) — Why the creative source remains phenomenologically hidden
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Beauty as irreducible phenomenal property
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Beauty as irreducible phenomenal property
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Five modes of phenomenal meaning underlying creative selection
-- [consciousness-and-aesthetic-creation](/topics/consciousness-and-aesthetic-creation/) — Making art as evidence for bidirectional interaction
+- [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/) — Making art as evidence for bidirectional interaction
 - [phenomenology-of-imagination](/topics/phenomenology-of-imagination/) — Phenomenal imagination and creative exploration
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — The role of unconscious incubation in creativity
 

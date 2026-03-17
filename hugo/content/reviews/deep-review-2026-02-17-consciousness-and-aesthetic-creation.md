@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-17
-**Article**: [Consciousness and Aesthetic Creation](/topics/consciousness-and-aesthetic-creation/)
+**Article**: [Consciousness and Aesthetic Creation](/topics/aesthetics-and-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

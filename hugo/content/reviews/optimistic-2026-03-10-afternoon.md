@@ -91,7 +91,7 @@ The voids programme is the Map's most intellectually humble achievement — and 
 - **Tenet alignment**: Supports Dualism (consciousness grounds intentionality, not vice versa) and Bidirectional Interaction (genuine understanding requires phenomenal consciousness)
 
 #### Systematising Clinical Dissociation Evidence
-- **Builds on**: [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) (pain asymbolia), [split-brain-consciousness](/topics/split-brain-consciousness/), [blindsight](/concepts/blindsight/), [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Builds on**: [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/) (pain asymbolia), [split-brain-consciousness](/topics/split-brain-consciousness/), [blindsight](/concepts/blindsight/), [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
 - **Would address**: The Map's strongest empirical case is scattered across multiple articles. Pain asymbolia, blindsight, hemineglect, anosognosia, alien hand syndrome, and prosopagnosia each disconnect a specific interface component. Taken together, the pattern maps the interface's functional anatomy
 - **Estimated scope**: Long article (2500-3000 words)
 - **Tenet alignment**: Supports Dualism and Bidirectional Interaction through empirical evidence of interface architecture
@@ -130,8 +130,8 @@ The voids programme is the Map's most intellectually humble achievement — and 
 | [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) | [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) | Both involve cross-domain synthesis, aesthetic judgment, and temporal structure — explicitly noting the parallel would strengthen both |
 | [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-phenomena/) | [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) | Mathematical truth (Platonism) may require collective intentionality across mathematicians; unexplored connection |
 | [consciousness-and-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) | [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) | Both involve consciousness's relationship to irreversibility; temporal becoming at macro scale, returning attention at micro scale |
-| [interface-friction](/concepts/interface-friction/) | [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/) | Pain asymbolia is a specific instance of interface friction — the ascending channel (damage representation) without the descending channel (felt badness motivating withdrawal) |
-| [binding-and-beauty](/topics/binding-and-beauty/) | [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) | Musical beauty exemplifies precisely the cross-domain aesthetic binding the binding-and-beauty article analyses |
+| [interface-friction](/concepts/interface-friction/) | [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/) | Pain asymbolia is a specific instance of interface friction — the ascending channel (damage representation) without the descending channel (felt badness motivating withdrawal) |
+| [binding-and-beauty](/topics/aesthetics-and-consciousness/) | [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) | Musical beauty exemplifies precisely the cross-domain aesthetic binding the binding-and-beauty article analyses |
 | [hoel-llm-consciousness-continual-learning](/topics/hoel-llm-consciousness-continual-learning/) | [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) | The continual learning criterion and the amplification hypothesis are complementary — continual learning may be what consciousness amplifies |
 
 ## New Concept Pages Needed

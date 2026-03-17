@@ -1240,7 +1240,7 @@ Pessimistic review (2026-02-03) found that autonoetic-consciousness.md, aestheti
 - **Type**: expand-topic
 - **Status**: Already exists
 - **Notes**: Article already exists at topics/emotional-consciousness.md (created 2026-01-19). Comprehensive 3200-word treatment covering: the felt quality problem, valence (hedonic vs evaluativist accounts), Panksepp vs LeDoux debate, pain asymbolia evidence, valence and motivation, core affect theory, moral status implications. Last deep-reviewed 2026-02-01.
-- **Output**: [emotional-consciousness](/topics/emotional-consciousness/) (existing)
+- **Output**: [emotional-consciousness](/topics/emotion-and-dualism/) (existing)
 
 ### ✓ 2026-02-02: Write article on the symbol grounding problem
 - **Type**: expand-topic

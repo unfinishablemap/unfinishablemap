@@ -61,7 +61,7 @@ When evidence contradicts a held belief, the clash registers phenomenally. It is
 
 ### Aesthetic Normativity
 
-The [aesthetic dimension](/topics/aesthetic-dimension-of-consciousness/) of experience carries its own normative force. Beauty demands attention. Ugliness repels. These are not moral demands—nothing obligates you to find a sunset beautiful—but they are normative: they present their objects as meriting or failing to merit certain responses.
+The [aesthetic dimension](/topics/aesthetics-and-consciousness/) of experience carries its own normative force. Beauty demands attention. Ugliness repels. These are not moral demands—nothing obligates you to find a sunset beautiful—but they are normative: they present their objects as meriting or failing to merit certain responses.
 
 Aesthetic normativity has a characteristic receptivity absent from moral and epistemic experience. Moral demands press upon you; epistemic demands constrain you; aesthetic demands invite you. The beautiful draws you in. This invitational quality distinguishes aesthetic from moral phenomenology even when both involve positive valence: moral admiration and aesthetic appreciation feel different because the normative demand has different phenomenal character.
 
@@ -140,7 +140,7 @@ The phenomenology of normative properties connects to the Map's [foundational co
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
 - [moral-perception](/concepts/moral-perception/) — Direct apprehension of ethical properties
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt character of thinking and reasoning
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Beauty and ugliness as irreducible phenomenal features
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Beauty and ugliness as irreducible phenomenal features
 - [normative-void](/voids/normative-void/) — Where normative perception reaches its limits
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — Contemplative deepening of normative perception

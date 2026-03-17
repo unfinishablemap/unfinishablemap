@@ -7307,7 +7307,7 @@ This is the second deep review; article is approaching stability.
 **Before**: 5918 words
 **After**: 2480 words
 **Reduction**: 58%
-**Technique**: Cut redundant content covered in linked articles; condensed minimal neural requirements to link to [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/); condensed human-ape intelligence gap to link to [baseline-cognition](/concepts/baseline-cognition/) and [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/); reduced illusionist challenge and process philosophy sections; trimmed emotional consciousness to link to [emotional-consciousness](/topics/emotional-consciousness/); condensed Further Reading to key categories; preserved opening summary, Nagel bat analysis, multiple origins, and tenet alignment sections
+**Technique**: Cut redundant content covered in linked articles; condensed minimal neural requirements to link to [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/); condensed human-ape intelligence gap to link to [baseline-cognition](/concepts/baseline-cognition/) and [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/); reduced illusionist challenge and process philosophy sections; trimmed emotional consciousness to link to [emotional-consciousness](/topics/emotion-and-dualism/); condensed Further Reading to key categories; preserved opening summary, Nagel bat analysis, multiple origins, and tenet alignment sections
 
 ---
 

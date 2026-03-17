@@ -26,7 +26,7 @@ last_deep_review: 2026-02-21 23:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[emotional-consciousness]]'
+- '[[emotion-and-dualism]]'
 - '[[surprise-prediction-error-and-consciousness]]'
 - '[[aesthetic-irreducibility-arguments]]'
 title: The Phenomenology of Musical Understanding
@@ -47,7 +47,7 @@ This understanding has several distinctive features:
 
 **Non-propositional content.** Music means something, but what it means cannot be fully captured in words. A funeral march communicates grief, but not the proposition "someone has died." A triumphant fanfare communicates exultation without asserting anything. This is not vagueness or imprecision—it is a different *kind* of meaning, one that operates through felt quality rather than representational content.
 
-**Aesthetic normativity.** Musical understanding involves perceiving rightness and wrongness. When a trained listener hears a wrong note in a familiar piece, the wrongness is immediate and involuntary—not a judgment applied after perception but a feature of the perception itself. This normative dimension connects to the broader argument from [aesthetic consciousness](/topics/aesthetic-dimension-of-consciousness/): the rightness of a particular harmonic progression is intrinsic to how it is experienced, not an evaluation layered onto neutral sensory data.
+**Aesthetic normativity.** Musical understanding involves perceiving rightness and wrongness. When a trained listener hears a wrong note in a familiar piece, the wrongness is immediate and involuntary—not a judgment applied after perception but a feature of the perception itself. This normative dimension connects to the broader argument from [aesthetic consciousness](/topics/aesthetics-and-consciousness/): the rightness of a particular harmonic progression is intrinsic to how it is experienced, not an evaluation layered onto neutral sensory data.
 
 ## The Specious Present and Musical Coherence
 
@@ -71,7 +71,7 @@ The inverted qualia argument applies here. Imagine a listener for whom what you 
 
 ## Emotion Without Proposition
 
-Music's capacity to generate powerful [emotional responses](/topics/emotional-consciousness/) without propositional content challenges functionalist and representationalist accounts of emotion.
+Music's capacity to generate powerful [emotional responses](/topics/emotion-and-dualism/) without propositional content challenges functionalist and representationalist accounts of emotion.
 
 When a cello plays a slow, descending phrase in a low register, most listeners experience something that resembles grief. But grief *about what*? There is no propositional object—no loss, no absent person, no remembered tragedy. The emotional quality is intrinsic to the musical experience itself, not directed at any external state of affairs.
 
@@ -119,10 +119,10 @@ Musical understanding connects to the Map's framework through several tenets.
 
 ## Further Reading
 
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Beauty and aesthetic quality in conscious experience
-- [aesthetic-irreducibility-arguments](/topics/aesthetic-irreducibility-arguments/) — Why beauty resists reduction even where formal properties (harmonic ratios, symmetry) are fully specified
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Beauty and aesthetic quality in conscious experience
+- [aesthetic-irreducibility-arguments](/topics/aesthetics-and-consciousness/) — Why beauty resists reduction even where formal properties (harmonic ratios, symmetry) are fully specified
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present, durée, and temporal binding
-- [emotional-consciousness](/topics/emotional-consciousness/) — Valence, felt quality, and non-propositional emotion
+- [emotion-and-dualism](/topics/emotion-and-dualism/) — Valence, felt quality, and non-propositional emotion
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt quality of understanding and thought
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — How understanding unfolds temporally
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Intrinsic value in conscious experience

@@ -11,7 +11,7 @@ topics:
   - "[[animal-consciousness]]"
   - "[[ai-consciousness]]"
   - "[[social-construction-of-self-vs-phenomenal-self]]"
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
 concepts:
   - "[[topics/consciousness-and-social-cognition]]"
   - "[[theory-of-mind]]"
@@ -129,7 +129,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly. T
 - [[intersubjectivity]] — The shared space between minds and how first-person experience can be communicated
 - [[social-construction-of-self-vs-phenomenal-self]] — Why social construction requires the phenomenal self to already be in place
 - [[problem-of-other-minds]] — The epistemic puzzle at the heart of social cognition
-- [[emotional-consciousness]] — The felt dimension of empathy and emotional understanding
+- [[emotion-and-dualism]] — The felt dimension of empathy and emotional understanding
 - [[other-minds-void]] — The structural isolation of consciousness and its role in constituting social life
 - [[phenomenology-of-moral-experience|The Phenomenology of Moral Experience]] — How phenomenal consciousness shapes moral judgment
 - [[consciousness-and-collective-phenomena]] — How shared goals and commitments depend on phenomenal subjects

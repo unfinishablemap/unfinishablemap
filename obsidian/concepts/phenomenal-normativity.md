@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[qualia]]"
   - "[[topics/phenomenal-value-realism]]"
-  - "[[emotional-consciousness]]"
+  - "[[emotion-and-dualism]]"
   - "[[introspection]]"
   - "[[illusionism]]"
   - "[[hard-problem-of-consciousness]]"
@@ -164,7 +164,7 @@ Phenomenal normativity would face pressure if:
 - [[topics/phenomenal-value-realism]] — Comprehensive treatment of the metaethical position
 - [[consciousness-value-connection]] — Why value requires consciousness
 - [[qualia]] — The qualitative features of experience
-- [[emotional-consciousness]] — Valence as the felt quality of emotions
+- [[emotion-and-dualism]] — Valence as the felt quality of emotions
 - [[topics/consciousness-and-normative-force|consciousness-and-normative-force]] — How phenomenal normativity manifests across moral, epistemic, aesthetic, and prudential domains
 - [[aesthetic-dimension-of-consciousness]] — Aesthetic normativity beyond hedonic valence
 - [[meaning-of-life]] — How consciousness grounds meaning

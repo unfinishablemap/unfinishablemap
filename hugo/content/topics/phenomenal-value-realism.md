@@ -41,7 +41,7 @@ title: Phenomenal Value Realism
 topics:
 - '[[meaning-of-life]]'
 - '[[ethics-of-consciousness]]'
-- '[[emotional-consciousness]]'
+- '[[emotion-and-dualism]]'
 ---
 
 Where does value come from? Not instrumental value—the usefulness of a hammer or the market price of a house—but *intrinsic* value, the kind that makes something worth caring about for its own sake. The Unfinishable Map holds that intrinsic value is a feature of conscious experience itself. The felt badness of suffering *is* badness. The felt goodness of joy *is* goodness. This position—[phenomenal-value-realism](/topics/phenomenal-value-realism/)—is where the Map's metaphysics meets the questions that matter most.
@@ -137,7 +137,7 @@ Three considerations motivate the extension:
 
 **The meaning problem.** Some experiences are deeply meaningful without being particularly pleasant. Completing a difficult creative project can involve frustration and exhaustion, yet the engagement feels intrinsically significant. The distinctive phenomenal quality of meaningful activity—absorbing, purposive, connected to something larger—resists reduction to a balance of pleasures over pains.
 
-**The aesthetic problem.** [Beauty and ugliness](/topics/aesthetic-dimension-of-consciousness/) seem intrinsically significant in experience. The sublime—awe-inspiring yet terrifying—can be beautiful without being pleasant. An experience can be pleasant without being beautiful (a warm bath) and beautiful without being pleasant (confronting a masterpiece that disturbs). This suggests aesthetic quality is a distinct value dimension.
+**The aesthetic problem.** [Beauty and ugliness](/topics/aesthetics-and-consciousness/) seem intrinsically significant in experience. The sublime—awe-inspiring yet terrifying—can be beautiful without being pleasant. An experience can be pleasant without being beautiful (a warm bath) and beautiful without being pleasant (confronting a masterpiece that disturbs). This suggests aesthetic quality is a distinct value dimension.
 
 **The agency problem.** Exercising genuine choice feels valuable even when difficult. The experience of authoring one's actions carries significance independent of hedonic payoff. Under the Map's framework of [agent causation](/concepts/agent-causation/), this makes sense: if consciousness genuinely shapes outcomes, the exercise of that capacity is intrinsically significant—not just as means to pleasant outcomes, but as a distinct value.
 
@@ -258,8 +258,8 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The evaluative dimension of the explanatory gap
 - [free-will](/topics/free-will/) — Agency as intrinsically valuable phenomenal experience
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — What contemplative practice reveals about value and consciousness
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/) — Why aesthetic value resists hedonistic reduction
-- [emotional-consciousness](/topics/emotional-consciousness/) — Valence as the felt quality of emotions
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic value resists hedonistic reduction
+- [emotion-and-dualism](/topics/emotion-and-dualism/) — Valence as the felt quality of emotions
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Why pain's phenomenal character is inseparable from its causal and evaluative role
 - [haecceity](/concepts/haecceity/) — Why *this* experience matters, not just experience-of-this-type
 - [illusionism](/concepts/illusionism/) — The strongest challenge to phenomenal consciousness

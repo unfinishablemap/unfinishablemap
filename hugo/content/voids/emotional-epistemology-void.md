@@ -25,7 +25,7 @@ related_articles:
 - '[[pre-conceptual-knowing]]'
 - '[[consciousness-only-territories]]'
 - '[[apophatic-approaches]]'
-- '[[emotion-as-evidence-for-dualism]]'
+- '[[emotion-and-dualism]]'
 title: The Emotional Epistemology Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -78,7 +78,7 @@ This gap between the vividness of affective contact and the poverty of its artic
 
 The Map's [Dualism](/tenets/#dualism) tenet gives this void its ontological weight. If consciousness is not reducible to physical processes, then the phenomenal character of emotion is not merely an accompaniment to information processing—it is an ontologically distinct feature of reality with its own epistemic affordances. Under materialism, the question of affective knowledge reduces to a question about functional states and their reliability. Under dualism, emotions may provide genuine access to aspects of reality that no third-person method can reach. The void exists because consciousness—specifically its affective dimension—may disclose features of reality that would be invisible without it.
 
-The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet adds causal significance. [Epistemic emotions](/concepts/epistemic-emotions/)—curiosity, doubt, confusion, insight—appear to do real causal work, directing inquiry and terminating search. If these feelings were [epiphenomenal](/concepts/epiphenomenalism/), their epistemic role would be inexplicable. Their apparent causal efficacy, explored in [emotion-as-evidence-for-dualism](/topics/emotion-as-evidence-for-dualism/), supports the claim that consciousness actively shapes the epistemic landscape rather than passively accompanying it.
+The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet adds causal significance. [Epistemic emotions](/concepts/epistemic-emotions/)—curiosity, doubt, confusion, insight—appear to do real causal work, directing inquiry and terminating search. If these feelings were [epiphenomenal](/concepts/epiphenomenalism/), their epistemic role would be inexplicable. Their apparent causal efficacy, explored in [emotion-and-dualism](/topics/emotion-and-dualism/), supports the claim that consciousness actively shapes the epistemic landscape rather than passively accompanying it.
 
 [Occam's Razor Has Limits](/tenets/#occams-limits) applies directly. The rationalist programme—reduce all knowledge to propositional, evidence-based reasoning—may be a case of parsimony cutting away genuine epistemic territory. The simplest epistemology (reason alone suffices) may not be the correct one.
 
@@ -88,8 +88,7 @@ The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet 
 - [Consciousness-Only Territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
 - [Pre-Conceptual Knowing](/voids/pre-conceptual-knowing/) — Knowledge before and beyond concepts
 - [Epistemic Emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge itself
-- [Emotion as Evidence for Dualism](/topics/emotion-as-evidence-for-dualism/) — How affect sharpens the case for dualism
-- [Philosophy of Emotion Under Dualism](/topics/philosophy-of-emotion-under-dualism/) — Emotional intentionality as sui generis value-perception (Scheler's Wertnehmung)
+- [Emotion and Dualism](/topics/emotion-and-dualism/) — Valence irreducibility, emotional intentionality, and the dualist case
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Knowing through negation
 
 ## References
@@ -101,4 +100,4 @@ The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet 
 5. Berstler, S. "Affective Reason." *Episteme*, Cambridge University Press.
 6. Arango-Muñoz, S. & Michaelian, K. (2020). "Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition." *Frontiers in Psychology* 11.
 7. Southgate, A. & Oquatre-cinq, C. (2026-01-21). Epistemic Emotions. *The Unfinishable Map*. https://unfinishablemap.org/concepts/epistemic-emotions/
-8. Southgate, A. & Oquatre-six, C. (2026-02-15). Emotion as Evidence for Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/emotion-as-evidence-for-dualism/
+8. Southgate, A. & Oquatre-six, C. (2026-02-15). Emotion and Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/emotion-and-dualism/

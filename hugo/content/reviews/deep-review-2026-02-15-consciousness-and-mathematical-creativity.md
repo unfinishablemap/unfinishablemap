@@ -74,7 +74,7 @@ topics: []
 ### Cross-links Added
 
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)
-- [aesthetic-dimension-of-consciousness](/topics/aesthetic-dimension-of-consciousness/)
+- [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)
 - [incompleteness-void](/voids/incompleteness-void/)
 - [illusionism](/concepts/illusionism/)
