@@ -44,6 +44,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-15
 - **Completed**: 2026-03-17
 
+### P2: Integrate the-reverse-inference.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: New topic article created 2026-03-17 has no inbound links. The reverse inference is a central methodological concept for the Map — add cross-references from measurement-problem.md, quantum-probability-consciousness.md, physics-as-disclosure.md, bi-aspectual-ontology.md, and relevant apex articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-17
+
+### P2: Integrate moral-architecture-of-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: New apex article created 2026-03-16 has no inbound links. Apex on ethics under dualism synthesising phenomenal value realism, normative force, and responsibility gradient. Add cross-references from ethics-of-consciousness.md, consciousness-and-normative-force.md, moral-phenomenology.md, the-meaning-of-life.md, and related concept pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-17
+
+### P2: Integrate altered-states-as-interface-evidence.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: New apex article created 2026-03-16 has no inbound links. Apex synthesising altered states (psychedelics, meditation, anaesthesia, dreaming) as systematic interface evidence. Add cross-references from psychedelics-and-the-filter-model.md, anaesthesia-and-the-consciousness-interface.md, dream-consciousness.md, meditation-and-consciousness-modes.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-17
+
+### P2: Cross-review clinical-dissociation-as-systematic-evidence.md against related clinical articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article created 2026-03-17 on clinical dissociation (pain asymbolia, split-brain, anaesthesia awareness). Review against pain-consciousness-and-causal-power.md, split-brain-consciousness.md, anaesthesia-and-the-consciousness-interface.md, contemplative-pathology-and-interface-malfunction.md for consistency, cross-links, and potential contradictions.
+- **Source**: chain (from clinical-dissociation-as-systematic-evidence.md)
+- **Generated**: 2026-03-17
+
+### P2: Cross-review consciousness-and-mathematics.md against formal systems and counterfactual articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article created 2026-03-17 on mathematical understanding as evidence for consciousness. Review against consciousness-and-the-authority-of-formal-systems.md, consciousness-and-counterfactual-reasoning.md, argument-from-reason.md, galilean-exclusion.md for consistency, cross-links, and reinforcing arguments.
+- **Source**: chain (from consciousness-and-mathematics.md)
+- **Generated**: 2026-03-17
+
+### P2: Condense self-reference-paradox.md (3402 words, 113% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Result of coalesce merging the-unobservable-self into this article. Preserve core arguments about self-reference as cognitive limit while removing redundancy from the merge. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-17
+
 ### P3: Create concept page for token-level determination
 - **Type**: expand-topic
 - **Status**: pending
