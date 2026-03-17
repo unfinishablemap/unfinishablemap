@@ -5,6 +5,11 @@ modified: 2026-01-22
 human_modified: null
 ai_modified: 2026-03-16T10:34:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-17T02:00:00+00:00
+superseded_by: "/voids/temporal-void/"
+archive_reason: "Coalesced into The Temporal Void"
+original_path: "/voids/temporal-asymmetry-remembering-anticipating/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
