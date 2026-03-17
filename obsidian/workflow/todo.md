@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review phenomenal-contrast-method.md against methodology articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page written 2026-03-17 on the phenomenal contrast method. Review against cognitive-phenomenology.md, introspection.md, phenomenal-conservatism.md, consciousness-and-scientific-methodology.md for cross-links and consistency. This method is used implicitly across many articles that should reference the new concept page.
-- **Source**: chain (from phenomenal-contrast-method)
-- **Generated**: 2026-03-17
-
 ### P2: Cross-review process-philosophy.md against process-related articles
 - **Type**: cross-review
 - **Status**: pending
@@ -537,6 +530,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Cross-review phenomenal-contrast-method.md against methodology articles
+- **Type**: cross-review
+- **Notes**: New concept page written 2026-03-17 on the phenomenal contrast method. Review against cognitive-phenomenology.md, introspection.md, phenomenal-conservatism.md, consciousness-and-scientific-methodology.md for cross-links and consistency. This method is used implicitly across many articles that should reference the new concept page.
+- **Output**: obsidian/concepts/phenomenal-contrast-method.md -- Context: Cross-review phenomenal-contrast-method.md against methodology articles
 
 ### ✓ 2026-03-17: Cross-review ethics-of-possible-AI-consciousness.md against AI and ethics articles
 - **Type**: cross-review
