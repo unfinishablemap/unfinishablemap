@@ -498,6 +498,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic_review
 - **Generated**: 2026-03-16
 
+### P3: Write article on binding and measurement as twin manifestations of the unity gap
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The binding problem (unity from neural multiplicity) and measurement problem (definiteness from quantum superposition) share identical logical architecture. The binding problem's "shared structure" section gestures at this but neither article develops the parallel fully. Would be the Map's most ambitious philosophical contribution — showing these are two faces of the same explanatory gap. See optimistic-2026-03-17-morning.md
+- **Source**: optimistic_review
+- **Generated**: 2026-03-17
+
 ## Completed Tasks
 
 
