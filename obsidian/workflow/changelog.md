@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 17:14 UTC - condense
+- **Status**: Success
+- **File**: [[topics/dream-consciousness]]
+- **Before**: 4212
+- **After**: 3068
+- **Reduction**: 27%
+- **Technique**: Cut Predictive Processing and Bandwidth Bottleneck subsections (tangential), removed redundancy between Phenomenal Mode Tracking and Epiphenomenalism sections (REM/NREM argument), trimmed Illusionist Challenge (removed Type-B physicalist paragraph and verbose zombie dreamer setup), tightened Filter Model prose, compressed Convergent Evidence and Relation to Site Perspective
+
 ## 2026-03-17 16:59 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-interface-development]]

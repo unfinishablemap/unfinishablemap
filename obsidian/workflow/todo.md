@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense dream-consciousness.md (4212 words, 105% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about dream phenomenology as evidence for consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-17
-
 ### P2: Condense collapse-and-time.md (3646 words, 104% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -523,6 +516,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Condense dream-consciousness.md (4212 words, 105% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about dream phenomenology as evidence for consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/topics/dream-consciousness.md
 
 ### ✓ 2026-03-17: Strengthen choking argument in implicit-memory.md
 - **Type**: refine-draft
