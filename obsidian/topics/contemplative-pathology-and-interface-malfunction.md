@@ -19,11 +19,10 @@ concepts:
   - "[[contemplative-neuroscience]]"
   - "[[self-and-consciousness]]"
 related_articles:
-  - "[[attention-disorders-and-quantum-interface]]"
+  - "[[attention-and-the-consciousness-interface]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[consciousness-and-neurodegenerative-disease]]"
   - "[[altered-states-as-void-probes]]"
-  - "[[attention-consciousness-dissociation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -97,7 +96,7 @@ The [[tenets#^minimal-quantum-interaction|minimal quantum interaction tenet]] su
 - [[anaesthesia-and-the-consciousness-interface]]
 - [[interface-friction]]
 - [[altered-states-as-void-probes]]
-- [[attention-disorders-and-quantum-interface]]
+- [[attention-and-the-consciousness-interface]]
 - [[attention-disorders-and-consciousness]] — The epistemological void when attention itself is disordered
 
 ## References

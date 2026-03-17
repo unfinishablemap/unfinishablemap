@@ -24,7 +24,7 @@ related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[structure-of-attention]]"
-  - "[[attention-consciousness-dissociation]]"
+  - "[[attention-and-the-consciousness-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -41,7 +41,7 @@ Careful introspective observation, particularly as trained in focused-attention 
 
 ### Phase One: Wandering
 
-Attention drifts from its intended object. In meditation, you set out to watch the breath, and at some point you are instead rehearsing a conversation or planning dinner. The crucial feature of this phase is *absence of awareness of the drift itself*. You do not experience the transition from focused to wandering — it simply happens without being noticed, a case of [[attention-consciousness-dissociation]] in miniature and a micro-instance of the [[transition-void]]: the cognitive stance required to observe the departure is the focused attention whose loss constitutes the departure.
+Attention drifts from its intended object. In meditation, you set out to watch the breath, and at some point you are instead rehearsing a conversation or planning dinner. The crucial feature of this phase is *absence of awareness of the drift itself*. You do not experience the transition from focused to wandering — it simply happens without being noticed, a case of [[attention-and-the-consciousness-interface|attention-consciousness dissociation]] in miniature and a micro-instance of the [[transition-void]]: the cognitive stance required to observe the departure is the focused attention whose loss constitutes the departure.
 
 This is phenomenologically significant. During wandering, there is still experience — you are thinking, imagining, worrying — but [[witness-consciousness|meta-awareness]] is absent. You are absorbed in the content without monitoring whether the content is what you intended to attend to — a micro-instance of the [[absorption-void]], where the immersive character of experience blocks the very stance needed to observe it. The [[default-mode-network]] is active, generating self-referential narratives, but the oversight function has disengaged. Schooler (2002) calls this the dissociation between experience and *meta-consciousness*: you are conscious, but not conscious *of* being conscious in the relevant monitoring sense.
 

@@ -25,6 +25,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-01
 last_curated:
 last_deep_review: 2026-03-10T04:26:00+00:00
+archived: true
+archived_date: 2026-03-17T02:17:00+00:00
+superseded_by: "/topics/attention-and-the-consciousness-interface/"
+archive_reason: "Coalesced into Attention and the Consciousness Interface"
+original_path: "/topics/attention-disorders-and-quantum-interface/"
 ---
 
 If attention serves as consciousness's interface with the brain—as The Unfinishable Map's framework proposes—then attention disorders should reveal something about that interface. They do. ADHD, attention fatigue, and meditation difficulties each illuminate different aspects of how consciousness engages with neural systems. Rather than undermining the interface hypothesis, these conditions support it: they show what happens when specific components of the attention-selection mechanism are compromised.

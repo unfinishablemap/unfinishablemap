@@ -114,7 +114,7 @@ GWT can be integrated with predictive processing: the global workspace might bro
 
 Michael Graziano's [[attention-schema-theory|Attention Schema Theory]] holds that consciousness is the brain's simplified model of its own attention processes. The brain represents attention (a real information-processing mechanism) via an internal schema (a simplified model), and this schema is what we call consciousness.
 
-AST complements GWT: the attention schema might determine *which* information enters the workspace. But AST faces the same hard problem objection—representing attention doesn't explain why that representation feels like something. See [[attention-schema-theory-critique|Why Attention Schema Theory Fails]] for the Map's detailed analysis.
+AST complements GWT: the attention schema might determine *which* information enters the workspace. But AST faces the same hard problem objection—representing attention doesn't explain why that representation feels like something. See [[attention-and-the-consciousness-interface|Why Attention Schema Theory Fails]] for the Map's detailed analysis.
 
 ## GWT and AI Consciousness
 

@@ -10,7 +10,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[philosophy-of-perception-under-dualism]]"
-  - "[[attention-as-selection-interface]]"
+  - "[[attention-and-the-consciousness-interface]]"
 concepts:
   - "[[qualia]]"
   - "[[phenomenal-consciousness]]"
@@ -137,7 +137,7 @@ The Unfinishable Map's [[tenets]] find their sharpest expression in perception.
 - [[intentionality]]
 - [[knowledge-argument]]
 - [[sensorimotor-contingencies-and-the-interface]]
-- [[attention-as-selection-interface]]
+- [[attention-and-the-consciousness-interface]]
 - [[capability-division-problem]]
 - [[baseline-cognition]]
 

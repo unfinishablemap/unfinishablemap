@@ -10,7 +10,7 @@ last_deep_review: 2026-03-14T22:46:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
-  - "[[attention-as-selection-interface]]"
+  - "[[attention-and-the-consciousness-interface]]"
 concepts:
   - "[[quantum-consciousness]]"
   - "[[attention-as-interface]]"
@@ -110,7 +110,7 @@ Three developments have narrowed the field since the initial candidate survey.
 
 ### The Attention-Motor Convergence
 
-The premotor theory of attention (Rizzolatti) proposes that attention and motor preparation share neural substrates — spatial attention *is* motor planning. The Map's [[attention-as-selection-interface]] article integrates this with quantum selection: if attention is motor planning, and consciousness acts through attention, then the interface location must be within the overlapping attention-motor architecture. This eliminates candidates outside that architecture's scope.
+The premotor theory of attention (Rizzolatti) proposes that attention and motor preparation share neural substrates — spatial attention *is* motor planning. The Map's [[attention-and-the-consciousness-interface]] article integrates this with quantum selection: if attention is motor planning, and consciousness acts through attention, then the interface location must be within the overlapping attention-motor architecture. This eliminates candidates outside that architecture's scope.
 
 The 2025 COGITATE adversarial collaboration reinforced this constraint by distinguishing attention networks (frontoparietal) from consciousness networks (posterior "hot zone"). If consciousness *resides* in posterior cortex but *acts* through frontoparietal attention-motor systems, the interface location is where these systems meet — not in either system alone.
 
@@ -193,7 +193,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies to the hier
 
 - [[the-interface-specification-problem]] — The hardest open challenge: how conscious states map to physical selections
 - [[the-psychophysical-control-law]] — Candidate formal mappings from phenomenal states to physical effects
-- [[attention-as-selection-interface]] — How attention and motor planning converge as a unified interface
+- [[attention-and-the-consciousness-interface]] — How attention and motor planning converge as a unified interface
 - [[coupling-modes]] — Three modes of consciousness-physics interaction
 - [[developmental-trajectory-of-the-interface]] — How the interface transforms across the lifespan
 - [[mind-matter-interface]] — The two-layer architecture unifying filter theory and quantum selection

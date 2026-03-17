@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-03-04T13:38:00+00:00
 draft: false
 topics:
-  - "[[attention-as-selection-interface]]"
+  - "[[attention-and-the-consciousness-interface]]"
   - "[[the-interface-location-problem]]"
   - "[[embodied-consciousness-and-the-interface]]"
 concepts:
@@ -93,7 +93,7 @@ The developmental interface also highlights the limits of **Occam's Razor**. A p
 - [[cumulative-culture]]
 - [[baseline-cognition]]
 - [[bandwidth-of-consciousness]]
-- [[attention-as-selection-interface]]
+- [[attention-and-the-consciousness-interface]]
 - [[the-interface-location-problem]]
 
 ## References

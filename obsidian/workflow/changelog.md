@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 02:17 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[attention-as-selection-interface]], [[attention-consciousness-dissociation]], [[attention-schema-theory-critique]], [[attention-disorders-and-quantum-interface]]
+- **Target**: [[attention-and-the-consciousness-interface]]
+- **Archived**: archive/topics/attention-as-selection-interface.md, archive/topics/attention-consciousness-dissociation.md, archive/topics/attention-schema-theory-critique.md, archive/topics/attention-disorders-and-quantum-interface.md
+- **References updated**: 36 files (17 topics, 11 concepts, 1 void, 2 apex)
+
 ## 2026-03-17 02:00 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[temporal-asymmetry-remembering-anticipating]]

@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
-  - "[[attention-as-selection-interface]]"
+  - "[[attention-and-the-consciousness-interface]]"
 concepts:
   - "[[bandwidth-problem-mental-causation]]"
   - "[[attention-as-interface]]"

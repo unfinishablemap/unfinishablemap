@@ -23,7 +23,7 @@ concepts:
   - "[[global-workspace-theory]]"
 related_articles:
   - "[[tenets]]"
-  - "[[attention-schema-theory-critique]]"
+  - "[[attention-and-the-consciousness-interface]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

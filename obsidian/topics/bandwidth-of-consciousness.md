@@ -9,7 +9,7 @@ description: "The 100-million-fold gap between sensory input and conscious outpu
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
-  - "[[attention-as-selection-interface]]"
+  - "[[attention-and-the-consciousness-interface]]"
 concepts:
   - "[[attention-as-interface]]"
   - "[[attentional-economics]]"
@@ -193,7 +193,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 ## Further Reading
 
 - [[bandwidth-problem-mental-causation]] — Whether 10 bits/second suffices for complex behaviour
-- [[attention-as-selection-interface]] — How the interface operates through attention and motor planning
+- [[attention-and-the-consciousness-interface]] — How the interface operates through attention and motor planning
 - [[attentional-economics]] — Agency as allocation of the scarce conscious resource
 - [[psychophysical-laws]] — The coupling law connecting conscious states to physical selections
 - [[filter-theory]] — The filter/transmission model and the bandwidth as filter parameter

@@ -26,7 +26,7 @@ concepts:
   - "[[haecceity]]"
   - "[[concepts/many-worlds]]"
   - "[[introspection]]"
-  - "[[attention-as-selection-interface]]"
+  - "[[attention-and-the-consciousness-interface]]"
   - "[[voluntary-attention-control-mechanisms]]"
   - "[[attention-schema-theory]]"
   - "[[concepts/functionalism]]"
@@ -131,7 +131,7 @@ Where in the brain does the interface operate?
 | **Ion channels (Stapp)** | Sites where quantum effects survive | [[mental-effort|Zeno effect]] via "probing actions" |
 | **Cortical microcolumns** | ~100-neuron coherence domains | Coarse-grained selection matching ~10 bits/s bandwidth |
 
-The 2025 COGITATE adversarial testing suggests attention networks (frontoparietal) may be distinct from consciousness networks (posterior hot zone). Selection might occur where these systems meet. See [[attention-as-selection-interface]] for detailed analysis.
+The 2025 COGITATE adversarial testing suggests attention networks (frontoparietal) may be distinct from consciousness networks (posterior hot zone). Selection might occur where these systems meet. See [[attention-and-the-consciousness-interface]] for detailed analysis.
 
 ## The Bandwidth Constraint
 
@@ -160,7 +160,7 @@ FA practitioners develop stronger concentration; both selection and witnessing a
 
 **Predictive Processing** treats attention as precision weighting. This is a computational description of what attention does functionally, compatible with the interface hypothesis: consciousness biases which precision signals win.
 
-**Attention Schema Theory** proposes consciousness is the brain's model of its own attention. The Map's objection: if consciousness is merely a model, what does the "seeming"? AST explains access to attention states but not phenomenal character. See [[attention-schema-theory-critique|Why AST Fails]].
+**Attention Schema Theory** proposes consciousness is the brain's model of its own attention. The Map's objection: if consciousness is merely a model, what does the "seeming"? AST explains access to attention states but not phenomenal character. See [[attention-and-the-consciousness-interface|Why AST Fails]].
 
 The 2025 COGITATE adversarial testing found neither GWT nor IIT clearly vindicated. Something is missing; the Map's tenets point toward consciousness as an irreducible player using these mechanisms without being identical to them.
 
@@ -196,13 +196,13 @@ The hypothesis would fail if:
 
 ## Further Reading
 
-**Core concepts**: [[mental-effort]], [[concepts/consciousness-selecting-neural-patterns]], [[psychophysical-coupling]], [[brain-interface-boundary]], [[coupling-modes]], [[attentional-economics]], [[attention-disorders-and-quantum-interface|Attention Disorders and the Interface]], [[attention-disorders-and-consciousness|The Epistemological Void of Attention Disorders]], [[epistemology-of-mechanism-at-the-consciousness-matter-interface|Epistemology of Interface Mechanism]]
+**Core concepts**: [[mental-effort]], [[concepts/consciousness-selecting-neural-patterns]], [[psychophysical-coupling]], [[brain-interface-boundary]], [[coupling-modes]], [[attentional-economics]], [[attention-and-the-consciousness-interface|Attention Disorders and the Interface]], [[attention-disorders-and-consciousness|The Epistemological Void of Attention Disorders]], [[epistemology-of-mechanism-at-the-consciousness-matter-interface|Epistemology of Interface Mechanism]]
 
 **Motor convergence**: [[motor-selection]], [[dopamine-and-the-unified-interface]]
 
 **Voluntary control**: [[voluntary-attention-control-mechanisms]] — frontal theta, salience switching, and thalamic gating
 
-**Mechanisms**: [[attention-as-selection-interface]] — candidate neural sites, timing constraints, and testable predictions
+**Mechanisms**: [[attention-and-the-consciousness-interface]] — candidate neural sites, timing constraints, and testable predictions
 
 **Quantum approaches**: [[quantum-consciousness]], [[stapp-quantum-mind]], [[decoherence]], [[quantum-neural-timing-constraints]], [[concepts/many-worlds]]
 

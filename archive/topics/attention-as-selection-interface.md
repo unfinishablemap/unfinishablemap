@@ -44,6 +44,11 @@ last_deep_review: 2026-03-12T04:57:00+00:00
 coalesced_from:
   - "/topics/attention-motor-planning-quantum-interface/"
   - "/topics/attention-interface-mechanisms/"
+archived: true
+archived_date: 2026-03-17T02:17:00+00:00
+superseded_by: "/topics/attention-and-the-consciousness-interface/"
+archive_reason: "Coalesced into Attention and the Consciousness Interface"
+original_path: "/topics/attention-as-selection-interface/"
 ---
 
 Attention and motor planning share neural substrates. The premotor theory of attention demonstrates they use the same fronto-parietal networks—directing attention *is* preparing to act. The Unfinishable Map argues this convergence transforms the mind-body problem: if consciousness influences matter through attention (the [[attention-as-interface|attention-as-interface hypothesis]]), and attention is motor planning, then a single interface connects mind to world. Consciousness selects what to perceive and what to do through the same mechanism, at the same neural sites, on the same timescale. This article examines both the philosophical significance and the candidate mechanisms—where in the brain the interface operates, when selection occurs, and what testable predictions follow.

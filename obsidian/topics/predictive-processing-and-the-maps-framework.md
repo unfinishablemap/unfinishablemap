@@ -22,7 +22,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[predictive-processing-consciousness-2026-01-14]]"
-  - "[[attention-as-selection-interface]]"
+  - "[[attention-and-the-consciousness-interface]]"
   - "[[bandwidth-of-consciousness]]"
   - "[[placebo-effect-and-mental-causation]]"
 ai_contribution: 100
@@ -113,7 +113,7 @@ The Unfinishable Map sees predictive processing as a valuable ally rather than a
 
 - [[predictive-processing]] — The core concept: brain as prediction engine
 - [[attention-as-interface]] — How attention mediates consciousness-matter interaction
-- [[attention-as-selection-interface]] — Attention and motor planning as unified selection
+- [[attention-and-the-consciousness-interface]] — Attention and motor planning as unified selection
 - [[surprise-prediction-error-and-consciousness]] — What prediction error feels like
 - [[categorical-surprise]] — When prediction fails at the framework level
 - [[cognitive-science-of-dualism]] — How cognitive science's findings resist materialist closure

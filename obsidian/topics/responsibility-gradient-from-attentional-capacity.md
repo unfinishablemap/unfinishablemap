@@ -23,7 +23,7 @@ concepts:
   - "[[working-memory]]"
 related_articles:
   - "[[tenets]]"
-  - "[[attention-disorders-and-quantum-interface]]"
+  - "[[attention-and-the-consciousness-interface]]"
   - "[[consciousness-and-causal-powers]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
 ai_contribution: 100
@@ -166,7 +166,7 @@ The moral implications extend in both directions. Where most discussions of grad
 - [[consciousness-and-moral-agency-under-duress]] — How external pressure constrains conscious agency
 - [[control-theoretic-will]] — Will as low-bandwidth controller, formalising the selection architecture
 - [[attention-as-interface]] — Why attention serves as consciousness's interface with matter
-- [[attention-disorders-and-quantum-interface]] — What attentional impairments reveal about the interface
+- [[attention-and-the-consciousness-interface]] — What attentional impairments reveal about the interface
 - [[reasons-responsiveness]] — Responsiveness to reasons as a condition for responsibility
 - [[phenomenology-of-agency-vs-passivity]] — The phenomenological structure of the agency-passivity spectrum
 - [[authentic-vs-inauthentic-choice]] — Existentialist perspective on how consciousness engages with selection

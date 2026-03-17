@@ -29,7 +29,7 @@ related_articles:
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
   - "[[consciousness-and-the-neuroscience-of-deliberate-practice]]"
   - "[[consciousness-and-the-phenomenology-of-constraint-satisfaction]]"
-  - "[[attention-as-selection-interface]]"
+  - "[[attention-and-the-consciousness-interface]]"
   - "[[habituation-void]]"
   - "[[bandwidth-of-consciousness]]"
   - "[[stapp-quantum-mind]]"

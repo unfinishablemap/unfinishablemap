@@ -8,7 +8,7 @@ ai_modified: 2026-03-11T06:32:00+00:00
 draft: false
 topics:
   - "[[temporal-structure-of-consciousness]]"
-  - "[[attention-consciousness-dissociation]]"
+  - "[[attention-and-the-consciousness-interface]]"
 concepts:
   - "[[temporal-consciousness]]"
   - "[[attention-as-interface]]"
@@ -16,7 +16,7 @@ concepts:
 related_articles:
   - "[[phenomenology-of-returning-attention]]"
   - "[[structure-of-attention]]"
-  - "[[attention-as-selection-interface]]"
+  - "[[attention-and-the-consciousness-interface]]"
   - "[[time-collapse-and-agency]]"
   - "[[consciousness-and-skilled-performance]]"
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
@@ -109,7 +109,7 @@ The phenomenology of temporal attention aligns with several of the Map's [[tenet
 - [[temporal-structure-of-consciousness]]
 - [[temporal-consciousness]]
 - [[phenomenology-of-returning-attention]]
-- [[attention-as-selection-interface]]
+- [[attention-and-the-consciousness-interface]]
 - [[time-collapse-and-agency]]
 - [[consciousness-and-skilled-performance|phenomenology of flow states]]
 - [[consciousness-and-the-ontology-of-temporal-becoming]]

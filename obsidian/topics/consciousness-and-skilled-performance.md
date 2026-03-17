@@ -33,7 +33,7 @@ related_articles:
   - "[[choking-phenomenon-mental-causation]]"
   - "[[phenomenology-of-intellectual-effort]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
-  - "[[attention-consciousness-dissociation]]"
+  - "[[attention-and-the-consciousness-interface]]"
   - "[[embodied-consciousness-and-the-interface]]"
   - "[[contemplative-training-and-phenomenal-access]]"
   - "[[habituation-void]]"
@@ -136,7 +136,7 @@ Eventually transition resolves, automaticity returns, and consciousness withdraw
 
 **Against epiphenomenalism.** If consciousness were [[concepts/epiphenomenalism|epiphenomenal]], performance should not depend on *mode* of engagement. Yet the same pianist playing the same passage performs differently when absorbed (flow), self-monitoring (choking), and bored (disengagement) — a precise correlation between phenomenal modes and performance profiles across vastly different domains that the Map explains through genuine conscious selection among neural options.
 
-**Against simple functionalism.** Flow creates a maximal [[attention-consciousness-dissociation|phenomenal-access dissociation]] — the most vivid experience coinciding with minimal reflective access — straining any account that ties phenomenal consciousness to information access.
+**Against simple functionalism.** Flow creates a maximal [[attention-and-the-consciousness-interface|phenomenal-access dissociation]] — the most vivid experience coinciding with minimal reflective access — straining any account that ties phenomenal consciousness to information access.
 
 **For the selection framework.** The full arc — effortful learning, delegated mastery, frictionless flow, painful restructuring — maps naturally onto the Map's framework. Consciousness needs effort only when selection is *difficult*. Flow creates conditions where the right option is nearly determined by well-prepared skill, yet the situation is complex enough that genuine selection occurs. The cycle of building, withdrawing, flowing, and rebuilding captures the full range of consciousness's causal engagement with the physical world.
 
@@ -174,7 +174,7 @@ The strongest physicalist counterargument is that executive attention networks a
 - [[interface-friction]] — The resistance at the mind-brain interface that effort tracks
 - [[anoetic-noetic-autonoetic-consciousness]] — The levels of consciousness that map onto the phases of skill
 - [[dopamine-and-the-unified-interface]] — How dopamine prepares the selection interface that flow engages frictionlessly
-- [[attention-consciousness-dissociation]] — How attention and consciousness can come apart
+- [[attention-and-the-consciousness-interface]] — How attention and consciousness can come apart
 - [[temporal-structure-of-consciousness]] — Temporal binding and the structure of the specious present
 - [[contemplative-path]] — Contemplative practices that cultivate flow-like states
 - [[self-and-consciousness]] — Minimal vs. narrative self and the layers of self-awareness

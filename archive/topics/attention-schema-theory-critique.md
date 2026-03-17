@@ -29,6 +29,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
 last_deep_review: 2026-03-10T10:26:00+00:00
+archived: true
+archived_date: 2026-03-17T02:17:00+00:00
+superseded_by: "/topics/attention-and-the-consciousness-interface/"
+archive_reason: "Coalesced into Attention and the Consciousness Interface"
+original_path: "/topics/attention-schema-theory-critique/"
 ---
 
 Michael Graziano's Attention Schema Theory (AST) proposes that consciousness is the brain's simplified model of its own attention. The theory gains plausibility from a genuine insight: the brain does construct internal models to help manage complex processes. But AST fails where it matters most. It explains why we *report* being conscious without explaining why there is anything it is like to be us. The seeming of experience must appear *to something*, and that something cannot be another model without infinite regress. AST dissolves the hard problem by refusing to address it.

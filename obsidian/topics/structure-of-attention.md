@@ -238,7 +238,7 @@ For the Map's framework, this architecture illuminates the mind-matter interface
 ## Further Reading
 
 - [[attention-as-interface]] — Attention as the causal bridge between consciousness and brain
-- [[attention-disorders-and-quantum-interface]] — ADHD, fatigue, and meditation deficits reveal interface components
+- [[attention-and-the-consciousness-interface]] — ADHD, fatigue, and meditation deficits reveal interface components
 - [[attention-disorders-and-consciousness]] — The epistemological void when attention's own instrument is disordered
 - [[mental-effort]] — The phenomenology and potential mechanism of attentional effort
 - [[meditation-and-consciousness-modes]] — Contemplative evidence on attention's structure

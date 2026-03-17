@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-as-perceptual-architect]]"
-  - "[[attention-as-selection-interface]]"
+  - "[[attention-and-the-consciousness-interface]]"
   - "[[predictive-processing-and-the-maps-framework]]"
 concepts:
   - "[[qualia]]"
@@ -86,7 +86,7 @@ This aligns with [[consciousness-as-perceptual-architect|perceptual constancy]].
 
 The strongest evidence for this participatory model comes from what happens when perception breaks down. Eigengrau—the dark grey perceived in complete darkness—and phosphenes show the interface generating phenomenal content independently of sensory input. Charles Bonnet hallucinations in visual loss produce detailed imagery when the transmission channel narrows. The [[reconstruction-paradox]] reveals that the brain operates in two distinct modes: editing some signals (filling the blind spot, suppressing saccadic blur) while faithfully transmitting others (optical blur, tinnitus). Both modes produce qualitatively distinct experiences, implying a conscious recipient whose experience is being shaped—precisely the active participant that dualism predicts.
 
-The [[attention-as-selection-interface|attentional selection]] framework extends this further. Attention determines which sensory signals reach consciousness and in what form. If attention is the interface where consciousness selects among competing neural representations, then the content of perception is partly determined by consciousness itself. The perceiver is not a passive screen on which the world projects images but an active participant in constituting what appears.
+The [[attention-and-the-consciousness-interface|attentional selection]] framework extends this further. Attention determines which sensory signals reach consciousness and in what form. If attention is the interface where consciousness selects among competing neural representations, then the content of perception is partly determined by consciousness itself. The perceiver is not a passive screen on which the world projects images but an active participant in constituting what appears.
 
 ### Blindsight and the Necessity of Consciousness for Perception
 
@@ -129,7 +129,7 @@ The Unfinishable Map's [[tenets]] reshape the philosophy of perception in severa
 ## Further Reading
 
 - [[consciousness-as-perceptual-architect]]
-- [[attention-as-selection-interface]]
+- [[attention-and-the-consciousness-interface]]
 - [[blindsight]]
 - [[qualia]]
 - [[explanatory-gap]]

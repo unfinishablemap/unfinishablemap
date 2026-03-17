@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
-  - "[[attention-consciousness-dissociation]]"
+  - "[[attention-and-the-consciousness-interface]]"
 concepts:
   - "[[attention-as-interface]]"
   - "[[mental-effort]]"
@@ -25,7 +25,7 @@ concepts:
   - "[[epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[attention-as-selection-interface]]"
+  - "[[attention-and-the-consciousness-interface]]"
   - "[[bandwidth-of-consciousness]]"
 ai_contribution: 100
 author:
@@ -85,7 +85,7 @@ This matters for empirical predictions. If computational attention alone could p
 
 ## Dissociation Evidence
 
-Attention and consciousness [[attention-consciousness-dissociation|dissociate in both directions]], and these dissociations map differently onto the two senses of attention. Koch and Tsuchiya (2007) argued that attention and consciousness are distinct brain processes; the phenomenal/computational distinction clarifies *how* they come apart.
+Attention and consciousness [[attention-and-the-consciousness-interface|dissociate in both directions]], and these dissociations map differently onto the two senses of attention. Koch and Tsuchiya (2007) argued that attention and consciousness are distinct brain processes; the phenomenal/computational distinction clarifies *how* they come apart.
 
 **Computational attention without phenomenal attention**: [[blindsight|Blindsight]] patients orient toward stimuli they deny seeing. Their brains perform computational attention—selecting and enhancing signals from the "blind" field—without phenomenal attention to those stimuli. The computational process runs; the experience does not accompany it.
 
@@ -140,7 +140,7 @@ The phenomenal/computational attention distinction is an instance of the Map's f
 - [[attention-as-interface]] — The interface hypothesis: attention mediates consciousness's causal influence
 - [[mental-effort]] — The phenomenology of effortful attention and the quantum Zeno mechanism
 - [[attention-schema-theory]] — AST's claim that consciousness is an attention model—and why it equivocates
-- [[attention-as-selection-interface]] — Neural sites and timing constraints for attention-mediated selection
+- [[attention-and-the-consciousness-interface]] — Neural sites, timing constraints, dissociation evidence, and AST critique
 - [[bandwidth-of-consciousness]] — The 100-million-fold asymmetry between computational and phenomenal bandwidth
 - [[illusionism]] — The eliminativist challenge to phenomenal properties
 - [[qualia]] — The broader case for irreducible experiential properties

@@ -8,7 +8,7 @@ ai_modified: 2026-03-04T13:38:00+00:00
 draft: false
 topics:
   - "[[childhood-development-and-the-interface]]"
-  - "[[attention-as-selection-interface]]"
+  - "[[attention-and-the-consciousness-interface]]"
   - "[[embodied-consciousness-and-the-interface]]"
 concepts:
   - "[[mind-matter-interface]]"

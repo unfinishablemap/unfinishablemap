@@ -31,12 +31,12 @@ apex_sources:
   - concepts/control-theoretic-will
   - concepts/causal-delegation
   - topics/consciousness-and-causal-powers
-  - topics/attention-disorders-and-quantum-interface
+  - topics/attention-and-the-consciousness-interface
 apex_last_synthesis: 2026-03-15T18:09:00+00:00
 apex_thesis: "Six converging lines of inquiry—the psychophysical control law, the bandwidth problem, control-theoretic will, causal delegation, the nature of causal powers, and attention disorders—collectively specify the mind-matter interface as a unified research programme rather than scattered philosophical speculation."
 ---
 
-The Unfinishable Map does not merely assert that consciousness influences the physical world. It is developing a specification of *how*. Across six distinct lines of inquiry—the [[the-psychophysical-control-law|psychophysical control law]], the [[bandwidth-problem-mental-causation|bandwidth problem]], [[control-theoretic-will|control-theoretic will]], [[causal-delegation|causal delegation]], the nature of [[consciousness-and-causal-powers|consciousness's causal powers]], and what [[attention-disorders-and-quantum-interface|attention disorders reveal about the interface]]—a single architecture emerges. The mind-matter interface is a low-bandwidth, feedback-dependent control channel through which consciousness selects among brain-prepared alternatives without injecting energy or violating conservation laws. Each line of inquiry constrains this picture from a different direction: causal powers define what the interface can do, bandwidth defines how much it can carry, control theory specifies the operations it performs, causal delegation describes its causal structure, the psychophysical control law seeks its formal specification, and attention disorders reveal what happens when it breaks. Together they constitute not scattered observations but a unified research programme—one precise enough to generate predictions and honest enough to mark where specification remains incomplete.
+The Unfinishable Map does not merely assert that consciousness influences the physical world. It is developing a specification of *how*. Across six distinct lines of inquiry—the [[the-psychophysical-control-law|psychophysical control law]], the [[bandwidth-problem-mental-causation|bandwidth problem]], [[control-theoretic-will|control-theoretic will]], [[causal-delegation|causal delegation]], the nature of [[consciousness-and-causal-powers|consciousness's causal powers]], and what [[attention-and-the-consciousness-interface|attention disorders reveal about the interface]]—a single architecture emerges. The mind-matter interface is a low-bandwidth, feedback-dependent control channel through which consciousness selects among brain-prepared alternatives without injecting energy or violating conservation laws. Each line of inquiry constrains this picture from a different direction: causal powers define what the interface can do, bandwidth defines how much it can carry, control theory specifies the operations it performs, causal delegation describes its causal structure, the psychophysical control law seeks its formal specification, and attention disorders reveal what happens when it breaks. Together they constitute not scattered observations but a unified research programme—one precise enough to generate predictions and honest enough to mark where specification remains incomplete.
 
 ## The Problem: From Commitment to Specification
 
@@ -92,7 +92,7 @@ Delegation also integrates naturally with the control-theoretic picture. The con
 
 ## What Breaks: Evidence from Attention Disorders
 
-If the interface has a specific architecture, it should malfunction in specific ways. [[attention-disorders-and-quantum-interface]] confirms this prediction. Different disorders affect different components of the interface, and the pattern of breakdown illuminates the architecture itself.
+If the interface has a specific architecture, it should malfunction in specific ways. [[attention-and-the-consciousness-interface]] confirms this prediction. Different disorders affect different components of the interface, and the pattern of breakdown illuminates the architecture itself.
 
 **ADHD as threshold dysregulation**: The dopamine system modulates how easily neural options cross the threshold for action. In ADHD, this modulation is dysregulated—options become actions too easily (impulsivity) or the system fails to maintain threshold-crossing for intended goals (inattention). Consciousness remains present; people with ADHD report normal subjective experience. What fails is the *control* aspect—the capacity to sustain selection over time. Stimulant treatment restores dopamine modulation; patients report that intentions translate more reliably into sustained action. The interface works better, not differently.
 
@@ -151,7 +151,7 @@ This synthesis draws on:
 - [[control-theoretic-will|Control-Theoretic Will]] — Will as a low-bandwidth control signal governing neural dynamics
 - [[causal-delegation|Causal Delegation]] — How physical states hand off causal responsibilities to conscious experiences
 - [[consciousness-and-causal-powers|Consciousness and Causal Powers]] — The nature and scope of phenomenal influence on physical reality
-- [[attention-disorders-and-quantum-interface|Attention Disorders and the Quantum Interface]] — What ADHD, fatigue, and meditation deficits reveal about the interface
+- [[attention-and-the-consciousness-interface|Attention and the Consciousness Interface]] — What ADHD, fatigue, and meditation deficits reveal about the interface
 
 ## References
 
