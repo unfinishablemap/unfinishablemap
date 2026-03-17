@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 05:30 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Physics as Disclosure
+- **Output**: [[concepts/physics-as-disclosure]] (already exists, created 2026-03-15)
+- **Notes**: Article was previously created but todo task was not marked complete. Marked complete now.
+
 ## 2026-03-17 05:13 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Bi-aspectual Ontology

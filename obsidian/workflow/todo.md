@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept article — Physics as Disclosure
-- **Type**: expand-topic
-- **Notes**: Develop the apex's claim that the measurement problem is a "disclosure" — physics revealing its own boundary — not a deficiency. Cover: (1) Standard view: measurement problem as bug. (2) Disclosure view: theory correctly reaching its limit. (3) Precedents: thermodynamics disclosed statistical mechanics; classical mechanics disclosed relativity. But those were within-physics completions; this may disclose something outside physics. (4) How decoherence supports disclosure reading — handles everything physics can handle, stops precisely where the non-physical begins. (5) Evidence criteria: disclosure vs. deficiency. Target section: concepts/.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P2: Cross-review measurement-problem.md in light of the reverse inference apex
 - **Type**: cross-review
 - **Notes**: The measurement-problem article contains groundwork for the reverse inference but doesn't make the move explicitly. Review: (1) Add forward-reference to the apex. (2) Strengthen "structural coherence" section to foreground the disclosure framing. (3) Ensure "Born probability as interface structure" connects to apex's fuller treatment. (4) Check language about "conceptual unification" is consistent with "bi-aspectual ontology." Alignment, not rewriting.
@@ -580,6 +574,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Write concept article — Physics as Disclosure
+- **Type**: expand-topic
+- **Notes**: Develop the apex's claim that the measurement problem is a "disclosure" — physics revealing its own boundary — not a deficiency. Cover: (1) Standard view: measurement problem as bug. (2) Disclosure view: theory correctly reaching its limit. (3) Precedents: thermodynamics disclosed statistical mechanics; classical mechanics disclosed relativity. But those were within-physics completions; this may disclose something outside physics. (4) How decoherence supports disclosure reading — handles everything physics can handle, stops precisely where the non-physical begins. (5) Evidence criteria: disclosure vs. deficiency. Target section: concepts/.
+- **Output**: Write concept article — Physics as Disclosure
 
 ### ✓ 2026-03-17: Write concept article — Bi-aspectual Ontology
 - **Type**: expand-topic
