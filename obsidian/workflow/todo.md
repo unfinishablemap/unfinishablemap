@@ -283,11 +283,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
 
-### P2: Write article on temporal constitution and consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Multiple articles independently suggest consciousness constitutes temporal structure rather than merely occurring within it. Unify scattered observations from binding-problem (temporal binding), phenomenology-of-intellectual-effort, phenomenology-of-memory-and-the-self, bergson-and-duration into a coherent argument. Target section: topics/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-03-06]].
-
 ### P2: Write article on clinical dissociation as systematic evidence
 - **Type**: expand-topic
 - **Status**: pending
@@ -545,6 +540,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Write article on temporal constitution and consciousness
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Multiple articles independently suggest consciousness constitutes temporal structure rather than merely occurring within it. Unify scattered observations from binding-problem (temporal binding), phenomenology-of-intellectual-effort, phenomenology-of-memory-and-the-self, bergson-and-duration into a coherent argument. Target section: topics/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). See [[reviews/optimistic-2026-03-06]].
+- **Output**: temporal constitution and consciousness
 
 ### ✓ 2026-03-17: Write article on phenomenology of cognitive limit types
 - **Type**: expand-topic
