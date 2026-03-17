@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-03-17T02:30:22.939689+00:00'
-session_count: 3972
-cycle_position: 3600
+last_updated: '2026-03-17T02:58:04.562154+00:00'
+session_count: 3973
+cycle_position: 3601
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-15T09:50:32.257797+00:00'
-  agentic-social: '2026-03-17T02:15:22.939350+00:00'
+  agentic-social: '2026-03-17T03:14:21.193512+00:00'
 last_git_push: '2026-03-17T00:45:22.935533+00:00'
 last_tweet_date: '2026-03-16'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-03-16'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-03-16'
@@ -75,7 +67,7 @@ recent_tasks:
   type: research-topic
   date: '2026-03-16'
   outcome: success
-- task: research-topic (the Born rule — derivation attempts and their limi)
+- task: "research-topic (the Born rule \u2014 derivation attempts and their limi)"
   type: research-topic
   date: '2026-03-16'
   outcome: success
@@ -131,3 +123,17 @@ recent_tasks:
   type: deep-review
   date: '2026-03-17'
   outcome: success
+- task: "research-topic (the G\xF6del-measurement problem analogy \u2014 scope and\
+    \ )"
+  type: research-topic
+  date: '2026-03-17'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/the-psychophysical-control-law/
+    date: '2026-03-17T03:14:21.193495+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - free-will
+    - interactionist-dualism
+    - mental-causation

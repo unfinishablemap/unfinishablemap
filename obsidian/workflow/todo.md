@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research completeness in physics — EPR, Bell, and "partial but complete"
-- **Type**: research-topic
-- **Notes**: The apex distinguishes Einstein's "incomplete" (missing hidden variables) from the Map's "partial" (complete about structure, silent about actuality). Ground this technically: (1) EPR's completeness criterion. (2) Bell's theorem on local hidden variables. (3) Kochen-Specker on contextuality. (4) PBR theorem — wavefunction is ontic. How does this support "partial but complete"? (5) Fine's prism models. (6) Precise coherence of "complete but partial" — a theory complete for its domain acknowledging its domain is not all of reality. Precedent: Newtonian mechanics was complete-but-partial. Target: research note.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P2: Update references to coalesced aesthetics articles
 - **Type**: cross-review
 - **Notes**: Coalesce created aesthetics-and-consciousness.md from 4 source articles. The following active files reference archived articles and need wikilinks updated: aesthetic-dimension-of-consciousness → aesthetics-and-consciousness (14 active files), aesthetic-irreducibility-arguments → aesthetics-and-consciousness (8 active files), consciousness-and-aesthetic-creation → aesthetics-and-consciousness (6 active files), binding-and-beauty → aesthetics-and-consciousness (0 non-source active files). Many files reference multiple archived slugs. See changelog entry 2026-03-17 01:15 UTC.
@@ -623,6 +617,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-17: Research completeness in physics — EPR, Bell, and "partial but complete"
+- **Type**: research-topic
+- **Notes**: The apex distinguishes Einstein's "incomplete" (missing hidden variables) from the Map's "partial" (complete about structure, silent about actuality). Ground this technically: (1) EPR's completeness criterion. (2) Bell's theorem on local hidden variables. (3) Kochen-Specker on contextuality. (4) PBR theorem — wavefunction is ontic. How does this support "partial but complete"? (5) Fine's prism models. (6) Precise coherence of "complete but partial" — a theory complete for its domain acknowledging its domain is not all of reality. Precedent: Newtonian mechanics was complete-but-partial. Target: research note.
+- **Output**: completeness in physics — EPR, Bell, and "partial but complete"
 
 ### ✓ 2026-03-17: Research the Gödel-measurement problem analogy — scope and limits
 - **Type**: research-topic

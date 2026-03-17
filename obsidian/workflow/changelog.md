@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 03:14 UTC - research-topic
+- **Status**: Success
+- **Topic**: Completeness in physics — EPR, Bell, and "partial but complete"
+- **Output**: [[completeness-in-physics-epr-bell-2026-03-17]]
+- **Sources consulted**: 14
+- **Note**: Supplement to existing [[completeness-in-physics-epr-bell-2026-03-14]], filling gaps on QBism's rival completeness account, Hardy's nonlocality-without-inequalities, Barrett's dualism argument, Stapp's Process 1 framework, Hance-Hossenfelder on local theories, and consciousness-collapse history
+
 ## 2026-03-17 02:58 UTC - research-topic
 - **Status**: Success
 - **Topic**: The Gödel-measurement problem analogy — scope and limits
