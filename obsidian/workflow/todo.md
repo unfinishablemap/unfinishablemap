@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review measurement-problem.md in light of the reverse inference apex
-- **Type**: cross-review
-- **Notes**: The measurement-problem article contains groundwork for the reverse inference but doesn't make the move explicitly. Review: (1) Add forward-reference to the apex. (2) Strengthen "structural coherence" section to foreground the disclosure framing. (3) Ensure "Born probability as interface structure" connects to apex's fuller treatment. (4) Check language about "conceptual unification" is consistent with "bi-aspectual ontology." Alignment, not rewriting.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P2: Cross-review quantum-probability-consciousness.md in light of the reverse inference apex
 - **Type**: cross-review
 - **Notes**: This concept article develops Born rule as interface specification — same claim the apex makes at higher level. Review for consistency: (1) Ensure "interface structure" argument is consistent with apex framing. (2) Add forward-reference. (3) Check QBism/participatory realism/MWI treatment is consistent with apex's use. (4) "Epistemic limitations" section acknowledges no Born rule derivation — ensure consistency with apex. Do not expand substantially.
@@ -580,6 +574,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Cross-review measurement-problem.md in light of the reverse inference apex
+- **Type**: cross-review
+- **Notes**: The measurement-problem article contains groundwork for the reverse inference but doesn't make the move explicitly. Review: (1) Add forward-reference to the apex. (2) Strengthen "structural coherence" section to foreground the disclosure framing. (3) Ensure "Born probability as interface structure" connects to apex's fuller treatment. (4) Check language about "conceptual unification" is consistent with "bi-aspectual ontology." Alignment, not rewriting.
+- **Output**: obsidian/concepts/measurement-problem.md -- Context: Cross-review measurement-problem.md in light of the reverse inference apex
 
 ### ✓ 2026-03-17: Write concept article — Physics as Disclosure
 - **Type**: expand-topic
