@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 18:25 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The capability division problem in vision
+- **Output**: [[capability-division-in-vision]]
+- **Word count**: 1544
+- **Based on research**: yes, [[capability-division-vision-2026-03-08]]
+
 ## 2026-03-17 17:59 UTC - condense
 - **Status**: Success
 - **File**: [[temporal-void]]

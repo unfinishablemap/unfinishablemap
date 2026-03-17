@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the capability division problem in vision
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/capability-division-vision-2026-03-08.md. How does dualism divide visual processing between brain-side and mind-side capabilities? The brain handles low-level feature extraction while consciousness handles binding, recognition, and interpretation. Vision is the most data-rich sense, making it the strongest test case for the capability division framework. Target section: concepts/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-17
-
 ### P2: Write article on the reconstruction paradox
 - **Type**: expand-topic
 - **Status**: pending
@@ -562,6 +555,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Write article on the capability division problem in vision
+- **Type**: expand-topic
+- **Notes**: Research completed in research/capability-division-vision-2026-03-08.md. How does dualism divide visual processing between brain-side and mind-side capabilities? The brain handles low-level feature extraction while consciousness handles binding, recognition, and interpretation. Vision is the most data-rich sense, making it the strongest test case for the capability division framework. Target section: concepts/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction).
+- **Output**: the capability division problem in vision
 
 ### ✓ 2026-03-17: Condense temporal-void.md (3120 words, 104% of hard threshold)
 - **Type**: condense
