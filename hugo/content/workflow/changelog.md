@@ -18,6 +18,83 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 16:59 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-interface-development](/topics/consciousness-interface-development/)
+- **Word count**: 3193 → 3197 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing cross-links, weak No Many Worlds argument, verbose prose)
+- **Enhancements made**: 5 cross-links added, No Many Worlds tenet connection strengthened
+- **Output**: [deep-review-2026-03-17-consciousness-interface-development](/reviews/deep-review-2026-03-17-consciousness-interface-development/)
+
+## 2026-03-17 16:47 UTC - refine-draft
+- **Status**: Success
+- **File**: [implicit-memory](/concepts/implicit-memory/)
+- **Changes**: Acknowledged neural competition interpretation throughout choking argument, distinguished neural event from phenomenal fact, softened "direct evidence" to "evidence consistent with", added hedging to quantum mechanism claims, qualified Buddhist samskara reference, updated challenge #2 to acknowledge arousal-based accounts
+- **Published**: yes
+
+## 2026-03-17 16:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [loss-of-consciousness](/topics/loss-of-consciousness/)
+- **Changes**: Added explicit analogy limitation acknowledgment, strengthened propofol/ketamine section with independent argumentation, strengthened CMD section with independent evidence, rewrote Dualism tenet subsection to lead with evidence rather than analogy
+- **Published**: yes
+
+## 2026-03-17 16:14 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/implicit-memory.md, topics/loss-of-consciousness.md, concepts/objections-to-interactionism.md, concepts/higher-order-theories.md
+- **Output**: [pessimistic-2026-03-17b](/reviews/pessimistic-2026-03-17b/)
+
+## 2026-03-17 16:00 UTC - deep-review
+- **Status**: Success
+- **File**: [process-philosophy](/concepts/process-philosophy/)
+- **Word count**: 2118 → 2115 (-3)
+- **Critical issues addressed**: 3 (broken link to archived `duration`, duplicate frontmatter entry, duplicate Further Reading entry)
+- **Medium issues addressed**: 2 (missing bergson-and-duration cross-link, improved Further Reading description)
+- **Enhancements made**: 1 (cross-link to bergson-and-duration in Bergson section)
+- **Output**: [deep-review-2026-03-17-process-philosophy](/reviews/deep-review-2026-03-17-process-philosophy/)
+
+## 2026-03-17 15:44 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-contrast-method](/concepts/phenomenal-contrast-method/)
+- **Word count**: 1234 → 1482 (+248)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-17-phenomenal-contrast-method](/reviews/deep-review-2026-03-17-phenomenal-contrast-method/)
+
+## 2026-03-17 15:29 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/)
+- **Word count**: 2105 → 2234 (+129)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-17-phenomenology-of-cognitive-limit-types](/reviews/deep-review-2026-03-17-phenomenology-of-cognitive-limit-types/)
+
+## 2026-03-17 15:22 UTC - deep-review
+- **Status**: Success
+- **File**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
+- **Word count**: 1964 → 2386 (+422)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (missing falsifiability section, insufficient cross-linking, missing coupling/interface language, missing phenomenal-normativity link)
+- **Enhancements made**: 4 (falsifiability section, opening positioning, coupling framing, cross-links)
+- **Output**: [deep-review-2026-03-17-ethics-of-possible-ai-consciousness](/reviews/deep-review-2026-03-17-ethics-of-possible-ai-consciousness/)
+
+## 2026-03-17 14:59 UTC - condense
+- **Status**: Success
+- **File**: [self-reference-paradox](/voids/self-reference-paradox/)
+- **Before**: 3402 words
+- **After**: 1923 words
+- **Reduction**: 43%
+- **Technique**: Cut Process Philosophy and What AI Might See sections entirely; merged Strange Loops into Gödelian Analogy; trimmed Buddhist Analysis, Calibration Problem, Illusionist Challenge, and What Would Challenge sections; condensed What This Void Reveals bullet points; trimmed Further Reading from 23 to 10 entries; tightened prose throughout
+
+## 2026-03-17 14:54 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [minds-without-words](/apex/minds-without-words/)
+- **Changed sources**: 1 (emotion-and-dualism, coalesced and updated 2026-03-17)
+- **Word count**: ~3400 → ~3600
+- **Review**: [apex-evolve-2026-03-17-minds-without-words](/reviews/apex-evolve-2026-03-17-minds-without-words/)
+
 ## 2026-03-17 14:43 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenology-of-temporal-selection](/topics/phenomenology-of-temporal-selection/)

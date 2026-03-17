@@ -38,19 +38,33 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense dream-consciousness.md (4212 words, 105% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about dream phenomenology as evidence for consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-17
+
+### P2: Condense collapse-and-time.md (3646 words, 104% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the relationship between quantum collapse and temporal ontology while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-17
+
+### P2: Condense temporal-void.md (3120 words, 104% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Result of coalesce merging temporal-asymmetry-remembering-anticipating into this article. Preserve core arguments while removing redundancy from the merge. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-17
+
 ### ~~P1: Coalesce aesthetics articles in topics/ (4 articles → 1)~~ ✅
 - **Type**: coalesce
 - **Notes**: Topics section is 20 over its 200-article cap, blocking all expand-topic tasks. Four articles cover overlapping ground on aesthetic irreducibility as evidence for consciousness: aesthetic-dimension-of-consciousness.md (3776 words), aesthetic-irreducibility-arguments.md (2687 words), consciousness-and-aesthetic-creation.md (2662 words), binding-and-beauty.md (2165 words). Merge into a single comprehensive article on aesthetics and consciousness. Saves 3 article slots.
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 - **Completed**: 2026-03-17
-
-### P2: Condense self-reference-paradox.md (3402 words, 113% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3000-word hard threshold for voids/. Result of coalesce merging the-unobservable-self into this article. Preserve core arguments about self-reference as cognitive limit while removing redundancy from the merge. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-17
 
 ### P3: Create concept page for token-level determination
 - **Type**: expand-topic
@@ -510,6 +524,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Strengthen choking argument in implicit-memory.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found choking evidence is overstated—the standard neural competition interpretation (prefrontal disrupting basal ganglia) is not addressed. Need to distinguish neural event from phenomenal fact. See pessimistic-2026-03-17b.md
+- **Output**: obsidian/concepts/implicit-memory.md
+
+Task context:
+Pessimistic review found choking evidence is overstated—the standard neural competition interpretation (prefrontal disrupting basal ganglia) is not addressed. Need to distinguish neural event from phenomenal fact. See pessimistic-2026-03-17b.md
+
+### ✓ 2026-03-17: Address radio analogy overreliance in loss-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the radio/prism analogy is doing too much argumentative work. Needs explicit acknowledgment of analogy limitations, stronger independent arguments from propofol/ketamine and CMD evidence. See pessimistic-2026-03-17b.md
+- **Output**: obsidian/topics/loss-of-consciousness.md
+
+Task context:
+Pessimistic review found the radio/prism analogy is doing too much argumentative work. Needs explicit acknowledgment of analogy limitations, stronger independent arguments from propofol/ketamine and CMD evidence. See pessimistic-2026-03-17b.md
+
+### ✓ 2026-03-17: Cross-review process-philosophy.md against process-related articles
+- **Type**: cross-review
+- **Notes**: New concept page written 2026-03-17 on Whitehead's process philosophy. Review against growing-block-universe-and-consciousness.md, consciousness-and-temporal-becoming.md, temporal-ontology-and-consciousness.md, bergson-and-duration.md for cross-links and consistency. Many articles reference process concepts without linking to the new page.
+- **Output**: obsidian/concepts/process-philosophy.md -- Context: Cross-review process-philosophy.md against process-related articles
+
+### ✓ 2026-03-17: Cross-review phenomenal-contrast-method.md against methodology articles
+- **Type**: cross-review
+- **Notes**: New concept page written 2026-03-17 on the phenomenal contrast method. Review against cognitive-phenomenology.md, introspection.md, phenomenal-conservatism.md, consciousness-and-scientific-methodology.md for cross-links and consistency. This method is used implicitly across many articles that should reference the new concept page.
+- **Output**: obsidian/concepts/phenomenal-contrast-method.md -- Context: Cross-review phenomenal-contrast-method.md against methodology articles
+
+### ✓ 2026-03-17: Cross-review ethics-of-possible-AI-consciousness.md against AI and ethics articles
+- **Type**: cross-review
+- **Notes**: New article written 2026-03-17 on ethical obligations arising from possible AI consciousness. Review against ai-consciousness.md, ethics-of-consciousness.md, what-it-might-be-like-to-be-an-ai.md, epiphenomenal-ai-consciousness.md for consistency, cross-links, and reinforcing arguments.
+- **Output**: ethics-of-possible-AI-consciousness.md -- Context: Cross-review ethics-of-possible-AI-consciousness.md against AI and ethics articles
+
+### ✓ 2026-03-17: Condense self-reference-paradox.md (3402 words, 113% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Result of coalesce merging the-unobservable-self into this article. Preserve core arguments about self-reference as cognitive limit while removing redundancy from the merge. See /condense skill.
+- **Output**: obsidian/voids/self-reference-paradox.md
 
 ### ✓ 2026-03-17: Update references to coalesced interface-development articles
 - **Type**: cross-review
