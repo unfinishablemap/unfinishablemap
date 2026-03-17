@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 16:00 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/process-philosophy]]
+- **Word count**: 2118 → 2115 (-3)
+- **Critical issues addressed**: 3 (broken link to archived `duration`, duplicate frontmatter entry, duplicate Further Reading entry)
+- **Medium issues addressed**: 2 (missing bergson-and-duration cross-link, improved Further Reading description)
+- **Enhancements made**: 1 (cross-link to bergson-and-duration in Bergson section)
+- **Output**: [[reviews/deep-review-2026-03-17-process-philosophy]]
+
 ## 2026-03-17 15:44 UTC - deep-review
 - **Status**: Success
 - **File**: [[phenomenal-contrast-method]]

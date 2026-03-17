@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review process-philosophy.md against process-related articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page written 2026-03-17 on Whitehead's process philosophy. Review against growing-block-universe-and-consciousness.md, consciousness-and-temporal-becoming.md, temporal-ontology-and-consciousness.md, bergson-and-duration.md for cross-links and consistency. Many articles reference process concepts without linking to the new page.
-- **Source**: chain (from process-philosophy)
-- **Generated**: 2026-03-17
-
 ### P2: Condense dream-consciousness.md (4212 words, 105% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -530,6 +523,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Cross-review process-philosophy.md against process-related articles
+- **Type**: cross-review
+- **Notes**: New concept page written 2026-03-17 on Whitehead's process philosophy. Review against growing-block-universe-and-consciousness.md, consciousness-and-temporal-becoming.md, temporal-ontology-and-consciousness.md, bergson-and-duration.md for cross-links and consistency. Many articles reference process concepts without linking to the new page.
+- **Output**: obsidian/concepts/process-philosophy.md -- Context: Cross-review process-philosophy.md against process-related articles
 
 ### ✓ 2026-03-17: Cross-review phenomenal-contrast-method.md against methodology articles
 - **Type**: cross-review

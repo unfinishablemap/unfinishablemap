@@ -4,7 +4,7 @@ description: "A metaphysical tradition treating reality as fundamentally dynamic
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-13T23:30:00+00:00
+ai_modified: 2026-03-17T16:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,7 +13,6 @@ concepts:
   - "[[panpsychism]]"
   - "[[emergence]]"
   - "[[unity-of-consciousness]]"
-  - "[[temporal-consciousness]]"
   - "[[dualism]]"
   - "[[combination-problem]]"
   - "[[downward-causation]]"
@@ -27,7 +26,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated: null
-last_deep_review: 2026-02-26T19:46:00+00:00
+last_deep_review: 2026-03-17T16:00:00+00:00
 ---
 
 Process philosophy holds that reality is fundamentally dynamic—constituted by events, processes, and becoming rather than static substances or objects. Where traditional metaphysics asks "What things exist?", process philosophy asks "What is happening?" The shift matters for consciousness studies: if experience is intrinsically temporal and flowing, perhaps the universe is too.
@@ -58,7 +57,7 @@ This rhythm of becoming-perishing-becoming is creativity itself. Whitehead calls
 
 ## Bergson and Duration
 
-Henri Bergson's philosophy of [[temporal-consciousness]] shares process philosophy's rejection of static metaphysics. His *durée* names the qualitative, interpenetrating flow of lived time—fundamentally different from the spatialized time of physics where moments are discrete points on a line.
+Henri Bergson's philosophy of [[temporal-consciousness]] shares process philosophy's rejection of static metaphysics. His *durée* names the qualitative, interpenetrating flow of lived time—fundamentally different from the spatialized time of physics where moments are discrete points on a line. (See [[bergson-and-duration]] for a fuller treatment.)
 
 Key parallels with Whitehead:
 
@@ -102,7 +101,7 @@ Process metaphysics also illuminates the [[haecceity|haecceity]] question. If ha
 
 ### Temporal Structure
 
-The [[duration#The "Missing Link" in Consciousness Theories|missing link]] in consciousness theories—their failure to explain experienced duration—finds natural treatment in process philosophy. If reality *is* temporal process, then conscious experience doesn't mysteriously add temporality to static matter. The flow of experience reflects the flow of reality.
+The [[bergson-and-duration|"missing link"]] in consciousness theories—their failure to explain experienced duration—finds natural treatment in process philosophy. If reality *is* temporal process, then conscious experience doesn't mysteriously add temporality to static matter. The flow of experience reflects the flow of reality.
 
 The [[time-consciousness-growing-block|Time, Consciousness, and the Growing Block]] apex synthesis develops this connection: Whitehead's concrescence—where indeterminate potentiality resolves into definite actuality—parallels quantum collapse. The mental pole's contribution resembles consciousness's contribution to collapse. Process philosophy provides vocabulary for what collapse-constituted time involves: prehension as retrocausal inheritance, concrescence as collapse, creativity as the novel contribution consciousness makes to each moment.
 
@@ -174,13 +173,12 @@ This isn't unique to process philosophy; the same applies to substance metaphysi
 - [[process-haecceitism]] — How haecceity applies to processes rather than substances
 - [[prehension]] — Whitehead's concept of how each moment grasps its predecessors
 - [[subjective-aim]] — Whitehead's goal-directedness in actual occasions
-- [[temporal-consciousness]] — Bergson's durée and its connection to Whiteheadian process
-- [[bergson-and-duration]] — Broader exploration of Bergson's temporal philosophy
+- [[temporal-consciousness]] — Time experience and its connection to Whiteheadian process
+- [[bergson-and-duration]] — Bergson's temporal philosophy and the "missing link" in consciousness theories
 - [[panpsychism]] — The view that experience is ubiquitous; process philosophy's natural ally
 - [[combination-problem]] — The central challenge for panpsychist and process approaches
 - [[emergence]] — What process philosophy says about how complexity arises
 - [[unity-of-consciousness|phenomenal unity]] — How many experiences become one
-- [[temporal-consciousness]] — The neuroscience of time experience
 - [[downward-causation]] — How higher-level processes influence lower-level ones
 - [[agent-causation]] — The self as originator of action
 - [[hard-problem-of-consciousness]] — The puzzle process philosophy claims to dissolve
