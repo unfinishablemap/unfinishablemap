@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17T21:59:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Neural Refresh Rates and the Smoothness Problem
+- **Output**: [[neural-refresh-rates-and-the-smoothness-problem]]
+- **Word count**: 1763
+- **Based on research**: yes, [[neural-refresh-rates-smoothness-problem-2026-03-08]]
+
 ## 2026-03-17 21:30 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/godel-measurement-problem-analogy]]

@@ -37,11 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on neural refresh rates and the smoothness problem
-- **Type**: expand-topic
+### P2: Cross-review temporal-structure-of-consciousness considering neural-refresh-rates-and-the-smoothness-problem
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Research completed in research/neural-refresh-rates-smoothness-problem-2026-03-08.md. Neural activity is discrete and oscillatory (7–13 Hz perceptual sampling, VanRullen; gamma binding at 40 Hz) yet conscious experience feels seamless. Under dualism, this gap is evidence: the non-physical mind contributes continuity that neural snapshots cannot provide. Connects to specious present, temporal binding, and Tenet 1 (Dualism). Target section: topics/.
-- **Source**: unconsumed_research
+- **Notes**: New article topics/neural-refresh-rates-and-the-smoothness-problem.md covers the discrete-to-continuous gap (VanRullen's perceptual cycles, Herzog's two-stage model, Bergson's durée) and argues smoothness is a non-physical feature. Review temporal-structure-of-consciousness.md for: cross-links to the new article, consistency of claims about discrete vs continuous processing, and whether temporal-structure benefits from referencing the smoothness problem as a specific instance of the broader temporal challenge.
+- **Source**: chain (from neural-refresh-rates-and-the-smoothness-problem.md)
 - **Generated**: 2026-03-17
 
 ### P2: Integrate capability-division-in-vision.md into site navigation
@@ -548,6 +548,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Write article on neural refresh rates and the smoothness problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-refresh-rates-smoothness-problem-2026-03-08.md. Neural activity is discrete and oscillatory (7–13 Hz perceptual sampling, VanRullen; gamma binding at 40 Hz) yet conscious experience feels seamless. Under dualism, this gap is evidence: the non-physical mind contributes continuity that neural snapshots cannot provide. Connects to specious present, temporal binding, and Tenet 1 (Dualism). Target section: topics/.
+- **Output**: neural refresh rates and the smoothness problem
 
 ### ✓ 2026-03-17: Write article on the Gödel-measurement problem analogy
 - **Type**: expand-topic
