@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Strengthen choking argument in implicit-memory.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found choking evidence is overstated—the standard neural competition interpretation (prefrontal disrupting basal ganglia) is not addressed. Need to distinguish neural event from phenomenal fact. See pessimistic-2026-03-17b.md
-- **Generated**: 2026-03-17
-
 ### P2: Condense dream-consciousness.md (4212 words, 105% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -529,6 +523,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Strengthen choking argument in implicit-memory.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found choking evidence is overstated—the standard neural competition interpretation (prefrontal disrupting basal ganglia) is not addressed. Need to distinguish neural event from phenomenal fact. See pessimistic-2026-03-17b.md
+- **Output**: obsidian/concepts/implicit-memory.md
+
+Task context:
+Pessimistic review found choking evidence is overstated—the standard neural competition interpretation (prefrontal disrupting basal ganglia) is not addressed. Need to distinguish neural event from phenomenal fact. See pessimistic-2026-03-17b.md
 
 ### ✓ 2026-03-17: Address radio analogy overreliance in loss-of-consciousness.md
 - **Type**: refine-draft

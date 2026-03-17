@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 16:47 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/implicit-memory]]
+- **Changes**: Acknowledged neural competition interpretation throughout choking argument, distinguished neural event from phenomenal fact, softened "direct evidence" to "evidence consistent with", added hedging to quantum mechanism claims, qualified Buddhist samskara reference, updated challenge #2 to acknowledge arousal-based accounts
+- **Published**: yes
+
 ## 2026-03-17 16:29 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/loss-of-consciousness]]
