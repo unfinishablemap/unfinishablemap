@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address unsupported MWI/zombie connection in philosophical-zombies.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the No Many Worlds / zombie argument connection (Relation to Site Perspective, Tenet 4) is asserted in a single sentence without argument. MWI multiplies persons rather than fragmenting identity; the claim that it "undermines haecceity" needs substantial development or softening. Also address: functionalism engagement could be stronger, "clearly conceivable" language. See pessimistic-2026-03-17.md (Issues #4, #2, language improvements).
+- **Source**: pessimistic-2026-03-17
+- **Generated**: 2026-03-17
+
 ### P2: Research mathematical structure of the consciousness-physics interface
 - **Type**: research-topic
 - **Notes**: The apex claims the Born rule's mathematical form (squared amplitudes) may encode interface constraints. Can we say more? (1) Why squared amplitudes — deeper reason? Connection to inner product structure of Hilbert space, conservation of probability. (2) Could alternative rules (p=|ψ|, p=|ψ|³) be consistent? What breaks? (3) Hardy's reconstruction of QM from information-theoretic axioms. (4) L² structure uniqueness. (5) Can Born rule be derived from consciousness-physics coupling assumptions? E.g., if consciousness must preserve ensemble statistics, does this constrain the probability rule? (6) Sorkin's sum-over-histories — absence of third-order interference. Speculative but could yield genuine insights. Target: research note.
