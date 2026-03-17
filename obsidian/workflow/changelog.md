@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17T22:44:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[neural-refresh-rates-and-the-smoothness-problem]]
+- **Changes**: Fixed circular argument (smoothness no longer presented as independent evidence for hard problem), added functionalist response section, removed speculative quantum paragraph from tenet section, added caveats to Bergson's Inversion section
+- **Published**: yes
+
 ## 2026-03-17T22:29:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[quantum-completeness]]

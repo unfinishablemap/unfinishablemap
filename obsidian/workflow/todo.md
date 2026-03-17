@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address circularity in neural-refresh-rates smoothness argument
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the smoothness argument is circular—it assumes the hard problem to generate the smoothness problem, then presents smoothness as evidence for the hard problem. The functionalist middle ground (functional organisation constitutes experience) is not addressed. Also remove or substantially caveat the speculative quantum paragraph in the tenet section. See pessimistic-2026-03-17-night.md
-- **Generated**: 2026-03-17
-
 ### P2: Cross-review temporal-structure-of-consciousness considering neural-refresh-rates-and-the-smoothness-problem
 - **Type**: cross-review
 - **Status**: pending
@@ -554,6 +548,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Address circularity in neural-refresh-rates smoothness argument
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the smoothness argument is circular—it assumes the hard problem to generate the smoothness problem, then presents smoothness as evidence for the hard problem. The functionalist middle ground (functional organisation constitutes experience) is not addressed. Also remove or substantially caveat the speculative quantum paragraph in the tenet section. See pessimistic-2026-03-17-night.md
+- **Output**: Task context:
+Pessimistic review found the smoothness argument is circular—it assumes the hard problem to generate the smoothness problem, then presents smoothness as evidence for the hard problem. The functionalist middle ground (functional organisation constitutes experience) is not addressed. Also remove or substantially caveat the speculative quantum paragraph in the tenet section. See pessimistic-2026-03-17-night.md
 
 ### ✓ 2026-03-17: Address decoherence omission in quantum-completeness.md
 - **Type**: refine-draft
