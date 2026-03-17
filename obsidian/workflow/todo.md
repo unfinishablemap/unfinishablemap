@@ -273,6 +273,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Introduced in temporal-consciousness.md but used across several articles discussing phenomenal depth, authentic choice, and the specious present. A dedicated concept page would unify these references. Target section: concepts/. See optimistic-2026-03-15.md
 - **Generated**: 2026-03-15
 
+### P3: Create concept page for structural completeness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The distinction between structural completeness and ontological completeness is load-bearing across physics-as-disclosure, bi-aspectual-ontology, and the-reverse-inference but has no dedicated concept page. Physics describes all relations (structurally complete) but not what realises those relations (ontologically incomplete). A genuinely novel philosophical distinction that deserves systematic treatment. Target section: concepts/. See optimistic-2026-03-17.md
+- **Generated**: 2026-03-17
+
 ### P3: Create concept page for paradigm expansion
 - **Type**: expand-topic
 - **Status**: pending
