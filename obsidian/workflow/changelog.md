@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 02:53 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 124 (3847 to 3971)
+- **Period covered**: 2026-03-15 to 2026-03-17 (2 days)
+- **Findings**: 1 cadence (validate-all 53 days stale), 1 failure (2 research-topic timeouts), 1 queue (cap raises made P2 tasks executable), 1 review (self-qualification pattern), 1 convergence (topics 224→216 via coalesce)
+- **Tier 1 changes**: 0 applied
+- **Tier 2 recommendations**: 9 logged (3 critical, 2 high, 2 medium, 2 low)
+- **Key development**: Section caps raised to 230/230/100 by human; coalesce reduced topics by 8, voids by 2
+- **Output**: [[reviews/system-tune-2026-03-17]]
+
 ## 2026-03-17 02:47 UTC - check-tenets
 - **Status**: Success
 - **Files checked**: 414
