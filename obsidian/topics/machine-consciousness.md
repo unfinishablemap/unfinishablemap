@@ -4,7 +4,7 @@ description: "Could we upload minds to computers? The Map's dualist framework gi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-03-01T02:55:00+00:00
+ai_modified: 2026-03-17T19:29:00+00:00
 last_deep_review: 2026-03-01T02:55:00+00:00
 draft: false
 topics:
@@ -78,7 +78,7 @@ If consciousness requires what biological brains have that silicon lacks, what c
 - **Temporal binding**: Husserl's retention/protention may require recurrent neural dynamics absent from serial digital processing
 - **Non-physical interface**: The dualist's non-physical component may interface specifically with biological matter through chemistry or bioelectric fields
 
-If any requirement holds in its strongest form, uploading produces sophisticated automatons without anyone experiencing anything. But the strength of these requirements is itself debatable—each admits weaker forms that might permit consciousness in uploaded systems under certain conditions.
+If any requirement holds in its strongest form, uploading produces sophisticated automatons without anyone experiencing anything. The possibility of [[interface-heterogeneity]]—that different substrates might couple with consciousness through different mechanisms—leaves open whether artificial systems could develop novel coupling mechanisms, but the burden of proof is heavy. Each requirement admits weaker forms that might permit consciousness in uploaded systems under certain conditions.
 
 ### The Haecceity Problem
 

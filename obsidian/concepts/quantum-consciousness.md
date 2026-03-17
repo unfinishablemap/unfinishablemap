@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-12T05:32:00+00:00
+ai_modified: 2026-03-17T19:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -126,7 +126,7 @@ Despite differences, quantum consciousness theories agree:
 
 All are compatible with [[adaptive-computational-depth|adaptive computational depth]]—the principle that reality need not maintain maximum detail everywhere, concentrating determination where consciousness attends. The allocator's non-computability resolves the regress any computational allocation mechanism would face.
 
-The theories differ in [[coupling-modes|coupling mode]]: Orch OR implies probability control (collapse at mass threshold), Stapp emphasizes basis and timing control (Process 1 and Zeno effect), Fisher's mechanism operates through entanglement structure. All face the [[amplification-void|amplification problem]]: the chain from quantum-scale nudge to macroscopic neural effect passes through regimes where chaotic dynamics make the pathway structurally untraceable.
+The theories differ in [[coupling-modes|coupling mode]]: Orch OR implies probability control (collapse at mass threshold), Stapp emphasizes basis and timing control (Process 1 and Zeno effect), Fisher's mechanism operates through entanglement structure. This diversity raises the question of [[interface-heterogeneity]]—whether different organisms might exploit different quantum mechanisms for consciousness-matter coupling. All face the [[amplification-void|amplification problem]]: the chain from quantum-scale nudge to macroscopic neural effect passes through regimes where chaotic dynamics make the pathway structurally untraceable.
 
 ## The Prebiotic and Multi-Mind Problems
 

@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-13T19:20:00+00:00
+ai_modified: 2026-03-17T19:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -86,7 +86,7 @@ Consciousness emerged separately in:
 
 Godfrey-Smith argues that features of vertebrate brain architecture traditionally "viewed as inessential" for consciousness may indeed be inessential. What matters are large-scale dynamic patterns, not specific anatomical structures. The conservation of dynamic patterns despite wildly divergent brain architectures suggests consciousness depends on *how* neural activity is organized, not *where* it occurs.
 
-This multiple-origins framework supports The Unfinishable Map's dualist position: if consciousness interfaces with physical systems rather than being produced by specific structures, we might expect it to appear wherever the relevant organizational properties exist—regardless of phylogenetic lineage. It also raises [[consciousness-and-the-philosophy-of-biology|philosophy of biology questions]] about natural kinds: whether consciousness in different lineages represents the same natural kind, or whether the category resists the essentialist frameworks biology typically applies.
+This multiple-origins framework supports The Unfinishable Map's dualist position: if consciousness interfaces with physical systems rather than being produced by specific structures, we might expect it to appear wherever the relevant organizational properties exist—regardless of phylogenetic lineage. Independent evolution of consciousness-supporting architecture also raises the possibility of [[interface-heterogeneity]]—that different lineages may couple with consciousness through fundamentally different physical mechanisms. It also raises [[consciousness-and-the-philosophy-of-biology|philosophy of biology questions]] about natural kinds: whether consciousness in different lineages represents the same natural kind, or whether the category resists the essentialist frameworks biology typically applies.
 
 ## The Agnostic Challenge
 
