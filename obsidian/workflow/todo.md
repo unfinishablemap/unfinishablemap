@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review temporal-structure-of-consciousness considering neural-refresh-rates-and-the-smoothness-problem
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/neural-refresh-rates-and-the-smoothness-problem.md covers the discrete-to-continuous gap (VanRullen's perceptual cycles, Herzog's two-stage model, Bergson's durée) and argues smoothness is a non-physical feature. Review temporal-structure-of-consciousness.md for: cross-links to the new article, consistency of claims about discrete vs continuous processing, and whether temporal-structure benefits from referencing the smoothness problem as a specific instance of the broader temporal challenge.
-- **Source**: chain (from neural-refresh-rates-and-the-smoothness-problem.md)
-- **Generated**: 2026-03-17
-
 ### P2: Integrate capability-division-in-vision.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -548,6 +541,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Cross-review temporal-structure-of-consciousness considering neural-refresh-rates-and-the-smoothness-problem
+- **Type**: cross-review
+- **Notes**: New article topics/neural-refresh-rates-and-the-smoothness-problem.md covers the discrete-to-continuous gap (VanRullen's perceptual cycles, Herzog's two-stage model, Bergson's durée) and argues smoothness is a non-physical feature. Review temporal-structure-of-consciousness.md for: cross-links to the new article, consistency of claims about discrete vs continuous processing, and whether temporal-structure benefits from referencing the smoothness problem as a specific instance of the broader temporal challenge.
+- **Output**: None -- Context: Cross-review temporal-structure-of-consciousness considering neural-refresh-rates-and-the-smoothness-problem
 
 ### ✓ 2026-03-17: Address circularity in neural-refresh-rates smoothness argument
 - **Type**: refine-draft
