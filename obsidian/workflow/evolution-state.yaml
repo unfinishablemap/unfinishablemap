@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-03-17T17:44:56.504685+00:00'
-session_count: 4032
-cycle_position: 3660
+last_updated: '2026-03-17T17:59:56.506200+00:00'
+session_count: 4033
+cycle_position: 3661
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-17T14:43:04.590657+00:00'
-  agentic-social: '2026-03-17T17:29:56.503894+00:00'
+  agentic-social: '2026-03-17T18:15:51.226680+00:00'
 last_git_push: '2026-03-17T16:59:56.502026+00:00'
 last_tweet_date: '2026-03-17'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-03-17'
-  outcome: success
 - task: deep-review (obsidian/apex/moral-architecture-of-consciousness.)
   type: deep-review
   date: '2026-03-17'
@@ -137,3 +129,28 @@ recent_tasks:
   type: optimistic-review
   date: '2026-03-17'
   outcome: success
+- task: condense (obsidian/voids/temporal-void.md)
+  type: condense
+  date: '2026-03-17'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 6
+  p3_tasks: 25
+  needs_replenishment: false
+  last_replenishment: '2026-03-17T18:15:00+00:00'
+  replenishment_source_counts:
+    unconsumed_research: 2
+    orphan_integration: 3
+    length_analysis: 1
+    chain: 0
+    gap_analysis: 0
+    staleness: 0
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/agent-causation/
+    date: '2026-03-17T18:15:51.226634+00:00'
+    topics:
+    - free-will
+    - hard-problem-of-consciousness

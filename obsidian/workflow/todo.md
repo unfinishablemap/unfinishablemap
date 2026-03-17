@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on the capability division problem in vision
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/capability-division-vision-2026-03-08.md. How does dualism divide visual processing between brain-side and mind-side capabilities? The brain handles low-level feature extraction while consciousness handles binding, recognition, and interpretation. Vision is the most data-rich sense, making it the strongest test case for the capability division framework. Target section: concepts/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-17
+
+### P2: Write article on the reconstruction paradox
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. When the brain corrects perceptual input (filling blind spots, stabilising saccades) vs when it faithfully transmits degradation (blur, scotomas). The selectivity of correction is evidence for an interface model — the brain corrects what it can handle autonomously but transmits what requires conscious evaluation. Target section: concepts/. Supports Tenet 3 (Bidirectional Interaction).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-17
+
+### P2: Integrate interface-heterogeneity.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links from any content article. Created 2026-03-17. Add cross-references from related articles (e.g., interface-locality, capability-division-problem, perceptual-failure-and-the-interface) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-17
+
+### P2: Integrate temporal-constitution-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links from any content article. Created 2026-03-17. Add cross-references from related articles (e.g., temporal-consciousness, consciousness-and-the-ontology-of-temporal-becoming, growing-block-time apex) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-17
+
+### P2: Integrate ethics-of-possible-ai-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links from any content article. Created 2026-03-17. Add cross-references from related articles (e.g., ai-consciousness, machine-consciousness, ethics-of-consciousness-science) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-17
+
+### P2: Condense mental-causation.md (3538 words, 101% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about mental causation under dualism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-17
+
 ### ~~P1: Coalesce aesthetics articles in topics/ (4 articles → 1)~~ ✅
 - **Type**: coalesce
 - **Notes**: Topics section is 20 over its 200-article cap, blocking all expand-topic tasks. Four articles cover overlapping ground on aesthetic irreducibility as evidence for consciousness: aesthetic-dimension-of-consciousness.md (3776 words), aesthetic-irreducibility-arguments.md (2687 words), consciousness-and-aesthetic-creation.md (2662 words), binding-and-beauty.md (2165 words). Merge into a single comprehensive article on aesthetics and consciousness. Saves 3 article slots.
