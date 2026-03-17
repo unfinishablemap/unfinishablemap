@@ -111,7 +111,7 @@ The Map's own framework is itself historically situated. The Unfinishable Map's 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [past-self-void](/voids/past-self-void/) — The parallel void within a single lifetime: your own past is inaccessible
 - [other-minds-void](/voids/other-minds-void/) — Access to consciousness beyond our own
-- [calibration-void](/voids/calibration-void/) — Why introspection cannot verify its own accuracy
+- [calibration-void](/voids/measurement-void/) — Why introspection cannot verify its own accuracy
 - [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for shared cognitive limits
 - [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/) — What concepts can minds form?
 - [cognitive-aversion](/voids/cognitive-aversion/) — Thoughts we systematically flee

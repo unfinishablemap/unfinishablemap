@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-13
-ai_modified: 2026-03-13 16:19:00+00:00
+ai_modified: 2026-03-17 19:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -110,7 +110,7 @@ Whether great apes possess limited cumulative culture remains debated—some res
 
 This gradient matters. If consciousness were binary—present or absent—we'd expect a sharp boundary between species with amplified capacities and those without. Instead, we observe a spectrum consistent with consciousness admitting of degrees, kinds, or varying interface bandwidth. Corvids may possess a form of metarepresentation that enables tool culture without supporting the full recursive mindreading that human consciousness enables. Dolphins may have self-awareness sufficient for mirror recognition without the declarative metacognition that supports cumulative culture.
 
-The [interface differences](/topics/comparative-consciousness-and-interface-differences/) framework proposes that consciousness interacts with different neural architectures through different interface configurations, producing qualitatively different cognitive profiles. Cetaceans and corvids exemplify this: same amplifying factor, different substrates, partially overlapping but distinct cognitive outcomes.
+The [interface differences](/topics/comparative-consciousness-and-interface-differences/) framework proposes that consciousness interacts with different neural architectures through different interface configurations, producing qualitatively different cognitive profiles. [Interface heterogeneity](/concepts/interface-heterogeneity/)—the possibility that different organisms couple with consciousness through fundamentally different mechanisms—would explain why cetaceans and corvids achieve partially overlapping but distinct cognitive outcomes: same amplifying factor, different substrates, different coupling.
 
 ## The Neural Architecture Challenge
 

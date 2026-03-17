@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-14 19:59:00+00:00
+ai_modified: 2026-03-17 19:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -125,7 +125,7 @@ For materialists, this is a problem. Strong emergence looks like magic—new pro
 
 Dualism doesn't require explaining how matter *produces* consciousness—it holds that consciousness isn't produced by matter at all. Instead, consciousness and matter are both fundamental, with lawful relationships between them (see [psychophysical-laws](/concepts/psychophysical-laws/)).
 
-On this view, the evolution of consciousness is the evolution of *interfaces* between mind and matter. Brains don't generate consciousness; they channel it, shape it, provide its content. What evolved was not consciousness itself but increasingly sophisticated consciousness-brain coupling.
+On this view, the evolution of consciousness is the evolution of *interfaces* between mind and matter. Brains don't generate consciousness; they channel it, shape it, provide its content. What evolved was not consciousness itself but increasingly sophisticated consciousness-brain coupling. If different lineages evolved these interfaces independently, the coupling mechanisms themselves may differ—a possibility explored in [interface-heterogeneity](/concepts/interface-heterogeneity/).
 
 ### The Prebiotic Connection
 

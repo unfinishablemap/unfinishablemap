@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-16
-ai_modified: 2026-03-17 13:13:00+00:00
+ai_modified: 2026-03-17 20:29:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-16 09:17:00+00:00
 apex_sources:
@@ -75,7 +75,7 @@ An apparent counterexample—addictive pleasure, or pleasure taken in cruelty—
 
 The Map extends this beyond hedonism to phenomenal value pluralism. Meaning, aesthetic quality, agency, understanding, and connection each carry intrinsic value as features of experience. A life of profound meaningful engagement can be deeply significant without being particularly pleasant—the distinctive phenomenal quality of purposive absorption resists reduction to a hedonic balance sheet.
 
-This placement resolves value theory's location problem. Value does not float free in Platonic space, and it need not be constructed by rational procedures. It lives where consciousness lives—which, under dualism, is an irreducible feature of reality. The [consciousness-value-connection](/concepts/consciousness-value-connection/) makes this explicit: without a subject for whom things matter, nothing can possess intrinsic value.
+This placement resolves value theory's location problem. Value does not float free in Platonic space, and it need not be constructed by rational procedures. It lives where consciousness lives—which, under dualism, is an irreducible feature of reality. The [consciousness-value-connection](/concepts/consciousness-value-connection/) makes this explicit: without a subject for whom things matter, nothing can possess intrinsic value. This principle drives the [ethics of possible AI consciousness](/topics/ethics-of-possible-ai-consciousness/): moral obligations toward AI systems depend entirely on whether they instantiate the conscious experience that grounds value.
 
 ### Agency Is Genuine
 

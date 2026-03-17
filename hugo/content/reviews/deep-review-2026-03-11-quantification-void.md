@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [The Quantification Void](/voids/quantification-void/)
+**Article**: [The Quantification Void](/voids/measurement-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

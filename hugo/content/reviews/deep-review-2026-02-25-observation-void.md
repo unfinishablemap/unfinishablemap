@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-02-25
 **Article**: [The Observation Void](/voids/observation-void/)
 **Previous review**: Never
-**Cross-review context**: [The Calibration Void](/voids/calibration-void/) (newly created sibling article)
+**Cross-review context**: [The Calibration Void](/voids/measurement-void/) (newly created sibling article)
 
 ## Pessimistic Analysis Summary
 
@@ -55,7 +55,7 @@ None.
 - Updated frontmatter related_articles with calibration-void and phenomenology-of-the-edge
 
 ### Cross-links Added
-- [calibration-void](/voids/calibration-void/) (meta-methodological layer, Relation to Site Perspective, Further Reading, frontmatter)
+- [calibration-void](/voids/measurement-void/) (meta-methodological layer, Relation to Site Perspective, Further Reading, frontmatter)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) (Further Reading, frontmatter)
 
 ## Remaining Items

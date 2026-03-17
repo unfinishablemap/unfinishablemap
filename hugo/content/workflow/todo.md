@@ -38,25 +38,39 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense dream-consciousness.md (4212 words, 105% of hard threshold)
-- **Type**: condense
+### P2: Write article on the Gödel-measurement problem analogy
+- **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about dream phenomenology as evidence for consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
+- **Notes**: Research completed in research/godel-measurement-problem-analogy-2026-03-14.md and supplement -2026-03-17.md. Covers Penrose/Dourdent/Landsman approaches; rigorous undecidability results (Cubitt et al. 2015); limits of the analogy (Franzén). Both Gödel and the measurement problem involve self-reference and the failure of a formal system to fully characterise itself. Most useful for the Map as support for physics being non-causally-closed. Should distinguish the contested Penrose route from the structural analogy. Target section: topics/.
+- **Source**: unconsumed_research
 - **Generated**: 2026-03-17
 
-### P2: Condense collapse-and-time.md (3646 words, 104% of hard threshold)
-- **Type**: condense
+### P2: Write article on neural refresh rates and the smoothness problem
+- **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the relationship between quantum collapse and temporal ontology while removing redundancy. See /condense skill.
-- **Source**: length_analysis
+- **Notes**: Research completed in research/neural-refresh-rates-smoothness-problem-2026-03-08.md. Neural activity is discrete and oscillatory (7–13 Hz perceptual sampling, VanRullen; gamma binding at 40 Hz) yet conscious experience feels seamless. Under dualism, this gap is evidence: the non-physical mind contributes continuity that neural snapshots cannot provide. Connects to specious present, temporal binding, and Tenet 1 (Dualism). Target section: topics/.
+- **Source**: unconsumed_research
 - **Generated**: 2026-03-17
 
-### P2: Condense temporal-void.md (3120 words, 104% of hard threshold)
-- **Type**: condense
+### P2: Integrate capability-division-in-vision.md into site navigation
+- **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: Article exceeds 3000-word hard threshold for voids/. Result of coalesce merging temporal-asymmetry-remembering-anticipating into this article. Preserve core arguments while removing redundancy from the merge. See /condense skill.
-- **Source**: length_analysis
+- **Notes**: Newly created concept article (from expand-topic 2026-03-17) has no inbound links. Add cross-references from related articles: lucid-dreaming-as-capability-evidence, perceptual-fidelity-and-the-interface, interface-heterogeneity, filter-theory-of-consciousness, and the capability-division-problem void. The article establishes vision as the paradigm case for dual-domain capability division.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-17
+
+### P2: Integrate non-retrocausal-conscious-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Concept article exists in hugo/content but has no inbound links from content articles; corresponding research note is research/non-retrocausal-conscious-selection-2026-03-07.md. Add cross-references from: quantum-consciousness, minimal-quantum-interaction, attention-as-selection-interface, and bidirectional-causation articles. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction).
+- **Source**: orphan_integration
+- **Generated**: 2026-03-17
+
+### P2: Review lucid-dreaming-as-capability-evidence.md considering capability-division-in-vision insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept article concepts/capability-division-in-vision.md establishes vision as a paradigm case for dual-domain capability division. Review lucid-dreaming-as-capability-evidence.md for: cross-links to the new article, opportunities to frame dream capabilities explicitly in the dual-domain framework, and consistency of terminology with capability-division-in-vision. Also check if the dreams article benefits from linking back to capability-division-in-vision as a supporting case.
+- **Source**: chain (from capability-division-in-vision.md)
 - **Generated**: 2026-03-17
 
 ### ~~P1: Coalesce aesthetics articles in topics/ (4 articles → 1)~~ ✅
@@ -108,6 +122,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Superseded by coalesce — article merged into perceptual-failure-and-the-interface.md
 - **Source**: orphan_integration
 - **Generated**: 2026-03-13
+
+### P3: Write article on phenomenology of creativity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Creative insight phenomenology is used as evidence across multiple articles (consciousness-and-mathematical-cognition, consciousness-as-amplifier) but never given independent treatment. The recursive quality — creativity applied to the conditions of creativity itself — deserves systematic exploration as a paradigm case of consciousness doing something computation cannot. Target section: topics/. See optimistic-2026-03-17-evening.md
+- **Generated**: 2026-03-17
+
+### P3: Write article on the automation paradox — AI as real-time test of baseline cognition
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. As AI automates more cognitive tasks, the residual human contribution increasingly looks like consciousness-requiring capacities. Current AI achievements and failures provide a real-time empirical test of the baseline cognition hypothesis. Builds on baseline-cognition, consciousness-as-amplifier, consciousness-and-intelligence. Target section: topics/. See optimistic-2026-03-17-evening.md
+- **Generated**: 2026-03-17
+
+### P3: Create concept page for phenomenal forcing
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The quality of felt demand or necessity in conscious experience — present in mathematical insight, moral perception, aesthetic appreciation, and deliberation. Multiple articles describe this quality independently; a concept page would reveal the common structure and strengthen the case for consciousness as causally efficacious. Target section: concepts/. See optimistic-2026-03-17-evening.md
+- **Generated**: 2026-03-17
 
 ### P3: Write concept page — Observational Closure
 - **Type**: expand-topic
@@ -524,6 +556,61 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Write concept page on quantum completeness and the "partial but complete" framing
+- **Type**: expand-topic
+- **Notes**: Research completed in research/completeness-in-physics-epr-bell-2026-03-14.md and supplement -2026-03-17.md. EPR completeness criterion, Bell/Kochen-Specker/PBR theorems, QBism account, Barrett's argument that the measurement problem points to dualism. Central thesis: quantum mechanics is complete about structure yet partial about actuality — the gap is consciousness-shaped. Directly supports Tenet 1 (Dualism) and Tenet 4 (No Many Worlds). Target section: concepts/.
+- **Output**: Write concept page on quantum completeness and the "partial but complete" framing
+
+### ✓ 2026-03-17: Condense mental-causation.md (3538 words, 101% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about mental causation under dualism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/mental-causation.md
+
+### ✓ 2026-03-17: Integrate ethics-of-possible-ai-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links from any content article. Created 2026-03-17. Add cross-references from related articles (e.g., ai-consciousness, machine-consciousness, ethics-of-consciousness-science) or update section index pages to include navigation to this content.
+- **Output**: obsidian/topics/ethics-of-possible-ai-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-17: Integrate temporal-constitution-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links from any content article. Created 2026-03-17. Add cross-references from related articles (e.g., temporal-consciousness, consciousness-and-the-ontology-of-temporal-becoming, growing-block-time apex) or update section index pages to include navigation to this content.
+- **Output**: obsidian/topics/temporal-constitution-and-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-17: Integrate interface-heterogeneity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links from any content article. Created 2026-03-17. Add cross-references from related articles (e.g., interface-locality, capability-division-problem, perceptual-failure-and-the-interface) or update section index pages to include navigation to this content.
+- **Output**: obsidian/concepts/interface-heterogeneity.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-17: Update references to coalesced articles (calibration-void, quantification-void → measurement-void)
+- **Type**: cross-review
+- **Notes**: Coalesce created measurement-void.md from calibration-void and quantification-void. The following active content files reference the archived articles and need wikilinks updated: observation-void, self-reference-paradox, historical-consciousness-void, phenomenology-of-error-recognition, destabilizing-self-knowledge, taxonomy-of-voids (apex), other-minds-void, convergence-of-the-void-catalogue, narrative-void, epistemology-of-introspective-calibration, transition-void, minimal-consciousness-void, consciousness-and-the-problem-of-measurement-standards, neural-correlates-of-consciousness. The voids.md index has already been updated.
+- **Output**: None -- Context: Update references to coalesced articles (calibration-void, quantification-void → measurement-void)
+
+### ✓ 2026-03-17: Write article on the reconstruction paradox
+- **Type**: expand-topic
+- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. When the brain corrects perceptual input (filling blind spots, stabilising saccades) vs when it faithfully transmits degradation (blur, scotomas). The selectivity of correction is evidence for an interface model — the brain corrects what it can handle autonomously but transmits what requires conscious evaluation. Target section: concepts/. Supports Tenet 3 (Bidirectional Interaction).
+- **Output**: the reconstruction paradox
+
+### ✓ 2026-03-17: Write article on the capability division problem in vision
+- **Type**: expand-topic
+- **Notes**: Research completed in research/capability-division-vision-2026-03-08.md. How does dualism divide visual processing between brain-side and mind-side capabilities? The brain handles low-level feature extraction while consciousness handles binding, recognition, and interpretation. Vision is the most data-rich sense, making it the strongest test case for the capability division framework. Target section: concepts/. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction).
+- **Output**: the capability division problem in vision
+
+### ✓ 2026-03-17: Condense temporal-void.md (3120 words, 104% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Result of coalesce merging temporal-asymmetry-remembering-anticipating into this article. Preserve core arguments while removing redundancy from the merge. See /condense skill.
+- **Output**: obsidian/voids/temporal-void.md
+
+### ✓ 2026-03-17: Condense collapse-and-time.md (3646 words, 104% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about the relationship between quantum collapse and temporal ontology while removing redundancy. See /condense skill.
+- **Output**: obsidian/concepts/collapse-and-time.md
+
+### ✓ 2026-03-17: Condense dream-consciousness.md (4212 words, 105% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about dream phenomenology as evidence for consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/topics/dream-consciousness.md
 
 ### ✓ 2026-03-17: Strengthen choking argument in implicit-memory.md
 - **Type**: refine-draft

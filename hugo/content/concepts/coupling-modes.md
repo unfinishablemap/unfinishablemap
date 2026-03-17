@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-08 13:01:00+00:00
+ai_modified: 2026-03-17 19:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -132,6 +132,8 @@ The most promising synthesis: **basis control sets the alternatives; timing cont
 ## Open Questions
 
 **Can modes combine?** Perhaps basis control is primary and timing control modulates it—attention selects alternatives (basis) and effort sustains them (timing). Probability control might be negligible or absent.
+
+**Do different organisms use different modes?** [Interface heterogeneity](/concepts/interface-heterogeneity/) raises the possibility that different species couple through different primary modes—mammals through centralised basis control, cephalopods through distributed timing control, for example. If so, the coupling mode taxonomy applies not just within organisms but across them.
 
 **Does brain specialness resolve the detection problem?** If coupling is restricted to attention-integrated neural systems, probability control might be locally significant yet globally undetectable. But "locally significant" still means some measurable effect should exist in brain tissue under the right conditions.
 

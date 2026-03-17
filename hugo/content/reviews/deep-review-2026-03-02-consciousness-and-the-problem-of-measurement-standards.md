@@ -58,20 +58,20 @@ No attribution errors, dropped qualifiers, source/Map conflation, or self-contra
 - Front-loaded opening summary — survives truncation well
 
 ### Enhancements Made
-- Added cross-reference to [quantification-void](/voids/quantification-void/) (created after last review, closely related)
+- Added cross-reference to [quantification-void](/voids/measurement-void/) (created after last review, closely related)
 - Added quantification-void to related_articles and Further Reading
 
 ### Cross-links Added (Inbound — Orphan Integration)
 
 This was the primary focus of this review. The article had zero inbound links. Added cross-references from 8 related articles:
 
-1. **[quantification-void](/voids/quantification-void/)** — Added inline link in "No Units of Experience" section and to related_articles
+1. **[quantification-void](/voids/measurement-void/)** — Added inline link in "No Units of Experience" section and to related_articles
 2. **[neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)** — Added inline link in "The Philosophical Boundary" section and to related_articles
 3. **[consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)** — Added inline link in "The Measurement Problem Analogy" section and to related_articles
 4. **[heterophenomenology](/concepts/heterophenomenology/)** — Added inline link in "Limited Methodological Utility" section and to related_articles
 5. **[first-person-third-person-methodology](/topics/first-person-third-person-methodology/)** — Added to Further Reading and related_articles
 6. **[objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)** — Added inline link in "The Objectivity Paradox" section and to related_articles
-7. **[calibration-void](/voids/calibration-void/)** — Added inline link in "The Formal Problem" section and to related_articles
+7. **[calibration-void](/voids/measurement-void/)** — Added inline link in "The Formal Problem" section and to related_articles
 8. **[explanatory-gap](/concepts/explanatory-gap/)** — Added to Further Reading and related_articles
 
 ## Remaining Items

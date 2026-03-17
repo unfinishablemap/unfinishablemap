@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-10
-**Article**: [The Calibration Void](/voids/calibration-void/)
+**Article**: [The Calibration Void](/voids/measurement-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

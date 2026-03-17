@@ -58,7 +58,7 @@ topics: []
 ### Cross-links Added
 - [narrative-coherence](/concepts/narrative-coherence/)
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/)
-- [calibration-void](/voids/calibration-void/)
+- [calibration-void](/voids/measurement-void/)
 - [transparency-void](/voids/transparency-void/)
 
 ## Word Count

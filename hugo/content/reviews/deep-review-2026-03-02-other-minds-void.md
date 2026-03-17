@@ -31,7 +31,7 @@ None. Previous review's resolutions remain solid. No attribution errors, no fact
 
 2. **Missing "What Would Challenge This View?" section**: The past-self-void has one; this article lacked it. Weakens intellectual honesty and parallel structure across void articles. **Resolution**: Added concise section before "Relation to Site Perspective".
 
-3. **Missing cross-links**: No links to [historical-consciousness-void](/voids/historical-consciousness-void/), [past-self-void](/voids/past-self-void/), or [calibration-void](/voids/calibration-void/) despite strong thematic connections. **Resolution**: Added all three to Further Reading and related_articles frontmatter.
+3. **Missing cross-links**: No links to [historical-consciousness-void](/voids/historical-consciousness-void/), [past-self-void](/voids/past-self-void/), or [calibration-void](/voids/measurement-void/) despite strong thematic connections. **Resolution**: Added all three to Further Reading and related_articles frontmatter.
 
 ### Low Issues Found
 1. **Stale AI refinement log**: The HTML comment at the end said "This log should be removed after human review" and had been through a review cycle. **Resolution**: Removed.
@@ -72,7 +72,7 @@ No attribution errors found.
 ### Cross-links Added
 - [historical-consciousness-void](/voids/historical-consciousness-void/) — temporal dimension of other minds
 - [past-self-void](/voids/past-self-void/) — parallel void within a single lifetime
-- [calibration-void](/voids/calibration-void/) — self-access is itself uncalibratable
+- [calibration-void](/voids/measurement-void/) — self-access is itself uncalibratable
 
 ## Length Management
 

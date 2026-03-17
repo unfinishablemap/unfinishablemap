@@ -50,7 +50,7 @@ The Dunning-Kruger research deepens this. Those lacking competence in a domain a
 
 ## The Bootstrap Problem
 
-When we do recognise errors—and we clearly do—how? The puzzle echoes the Münchhausen trilemma. To recognise that belief B is wrong requires standard S against which B is judged. But S is itself produced by the same cognitive system that produced B. What validates S? This is the [calibration-void](/voids/calibration-void/) in its starkest form.
+When we do recognise errors—and we clearly do—how? The puzzle echoes the Münchhausen trilemma. To recognise that belief B is wrong requires standard S against which B is judged. But S is itself produced by the same cognitive system that produced B. What validates S? This is the [calibration-void](/voids/measurement-void/) in its starkest form.
 
 Several mechanisms partially resolve this: **external feedback** (others revealing contradictions, reality providing feedback when predictions fail); **formal methods** (logic and science providing content-independent consistency-checking); **redundancy** (different cognitive subsystems checking each other). But none eliminates circularity. Interpreting feedback still requires the same cognitive system. Applying formal methods still depends on the systems being corrected. The functionalist might respond: this is just recursive neural monitoring, nothing mysterious—one brain circuit checks another. Yet this explains the *mechanism* while leaving untouched the question of why there is *something it is like* to catch yourself in error.
 
@@ -134,7 +134,7 @@ None currently obtains. Error-blindness persists despite millennia of attention.
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and structural limits
 - [cognitive-closure](/concepts/cognitive-closure/) — The structural impossibility of knowing what you cannot know
 - [introspective-opacity](/voids/introspective-opacity/) — Why the mechanism of self-correction remains hidden
-- [calibration-void](/voids/calibration-void/) — The bootstrap problem for introspection itself
+- [calibration-void](/voids/measurement-void/) — The bootstrap problem for introspection itself
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Consciousness at cognitive boundaries
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Other forms of cognitive slippage
 - [voids](/voids/) — The framework for investigating cognitive limits

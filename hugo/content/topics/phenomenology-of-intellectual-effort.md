@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-08 12:23:00+00:00
+ai_modified: 2026-03-17 20:01:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -141,7 +141,7 @@ The [argument-from-reason](/topics/argument-from-reason/) emphasises that graspi
 
 **Owned activity.** The reasoning is yours—not events happening in you but something you do. The effort of thinking is experienced as *my* effort; the conclusions are *my* conclusions. This first-personal character is phenomenally manifest.
 
-**Continuous identity through reasoning.** A long derivation requires that the same thinker who grasped premise 1 also grasps premise 7 and the conclusion. This continuity is experienced—you are *the one* who has been following the argument, not a succession of time-slices.
+**Continuous identity through reasoning.** A long derivation requires that the same thinker who grasped premise 1 also grasps premise 7 and the conclusion. This continuity is experienced—you are *the one* who has been following the argument, not a succession of time-slices. The Map's [temporal constitution thesis](/topics/temporal-constitution-and-consciousness/) identifies this as a key instance of consciousness constituting temporal structure: binding the stages of inference into a single intellectual act.
 
 This [phenomenal unity](/concepts/unity-of-consciousness/) is difficult for materialist accounts. If reasoning is distributed neural activity, what provides the viewpoint? If the thinker is a sequence of brain states, what makes it *one* thinker across time? This is the [binding-problem](/concepts/binding-problem/) applied to reasoning: how do separate neural processes constitute a single act of inference? The phenomenology of intellectual effort suggests irreducible unity: consciousness as the subject that holds things together.
 

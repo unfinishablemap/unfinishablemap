@@ -86,7 +86,7 @@ Several implications follow:
 
 **Consciousness may have no natural minimum.** If Nagel is right that consciousness extends broadly across the animal kingdom and IIT is right that Φ > 0 suffices, then ever-simpler experiences may extend below any threshold we can examine. The void is not a wall but an asymptote.
 
-**Investigation of consciousness is self-limiting.** The enrichment problem is not contingent (like lacking the right instruments) but structural (the instrument modifies the measurement). This places the minimal consciousness void alongside the [calibration-void](/voids/calibration-void/) and the [observation-void](/voids/observation-void/) as evidence that consciousness has a constitutive relationship with opacity—it functions in part because certain aspects of its operation remain invisible to itself.
+**Investigation of consciousness is self-limiting.** The enrichment problem is not contingent (like lacking the right instruments) but structural (the instrument modifies the measurement). This places the minimal consciousness void alongside the [calibration-void](/voids/measurement-void/) and the [observation-void](/voids/observation-void/) as evidence that consciousness has a constitutive relationship with opacity—it functions in part because certain aspects of its operation remain invisible to itself.
 
 ## Relation to Site Perspective
 
@@ -102,7 +102,7 @@ The minimal consciousness void aligns with the Map's [tenets](/tenets/) in sever
 
 - [minimal-consciousness](/concepts/minimal-consciousness/) — The concept of bare phenomenal experience at its simplest
 - [observation-void](/voids/observation-void/) — How every method of studying consciousness transforms what it studies
-- [calibration-void](/voids/calibration-void/) — Why introspection cannot be verified against any independent standard
+- [calibration-void](/voids/measurement-void/) — Why introspection cannot be verified against any independent standard
 - [introspective-opacity](/voids/introspective-opacity/) — Why we access mental contents but never the mechanisms producing them
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its cognitive boundaries
 - [acquaintance-void](/voids/acquaintance-void/) — Modes of direct phenomenal contact structurally inaccessible to minds like ours

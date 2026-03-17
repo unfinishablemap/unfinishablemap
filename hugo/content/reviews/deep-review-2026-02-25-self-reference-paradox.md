@@ -22,7 +22,7 @@ topics: []
 
 ## Cross-Review Context
 
-This review was prompted by the newly published [compound-cognitive-limits](/voids/compound-cognitive-limits/) article (2026-02-24), which discusses how individual cognitive limits—including the self-reference paradox—interact superadditively. The review focused on integrating these compound-limits insights and connecting to the new [calibration-void](/voids/calibration-void/) article.
+This review was prompted by the newly published [compound-cognitive-limits](/voids/compound-cognitive-limits/) article (2026-02-24), which discusses how individual cognitive limits—including the self-reference paradox—interact superadditively. The review focused on integrating these compound-limits insights and connecting to the new [calibration-void](/voids/measurement-void/) article.
 
 ## Pessimistic Analysis Summary
 
@@ -72,7 +72,7 @@ None. The article has been through two prior deep reviews (2026-01-20, 2026-01-2
 ### Cross-links Added
 
 - [compound-cognitive-limits](/voids/compound-cognitive-limits/)
-- [calibration-void](/voids/calibration-void/)
+- [calibration-void](/voids/measurement-void/)
 
 ## Length Analysis
 

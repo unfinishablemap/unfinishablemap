@@ -101,7 +101,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Observation Void](/voids/observation-void/) — Every method of studying consciousness transforms what it studies
 - [The Binding Void](/voids/binding-void/) — Why unified experience from disparate sensations resists explanation
 - [The Substrate Void](/voids/substrate-void/) — What consciousness is made of, when every answer collapses into negation or circularity
-- [The Calibration Void](/voids/calibration-void/) — Why introspection cannot be verified against any independent standard of phenomenal accuracy
+- [The Measurement Void](/voids/measurement-void/) — Why consciousness resists measurement at every level—no units, no instruments, no calibration standards
 - [The Simulation Detection Void](/voids/simulation-detection-void/) — Why embedded observers cannot determine whether their reality is simulated
 - [The Acquaintance Void](/voids/acquaintance-void/) — Modes of direct phenomenal contact structurally inaccessible to minds like ours
 - [The Minimal Consciousness Void](/voids/minimal-consciousness-void/) — Why consciousness cannot investigate its own lower bound
@@ -157,7 +157,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Parsimony Void](/voids/epistemological-limits-occams-razor/) — Why Occam's Razor may be a cognitive bias masquerading as epistemic principle
 - [The Framework Void](/voids/framework-void/) — How conceptual frameworks exclude what they cannot represent
 - [The Probability Intuition Void](/voids/probability-intuition-void/) — Why genuine randomness resists intuitive comprehension
-- [The Quantification Void](/voids/quantification-void/) — Why consciousness resists measurement at every level
 - [The Reconstruction Paradox](/voids/reconstruction-paradox/) — Why the brain silently corrects some errors but delivers others
 - [The Smoothness Problem](/voids/smoothness-problem/) — The gap between neural discreteness and experiential continuity
 

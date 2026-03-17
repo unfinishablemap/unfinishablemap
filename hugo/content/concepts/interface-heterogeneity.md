@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-17 11:58:00+00:00
+ai_modified: 2026-03-17 19:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,10 +18,13 @@ description: The possibility that different conscious systems couple with matter
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-03-17 19:29:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[apex/what-it-might-be-like-to-be-an-ai]]'
+- '[[coupling-modes]]'
+- '[[measurement-void]]'
 title: Interface Heterogeneity
 topics:
 - '[[comparative-consciousness-and-interface-differences]]'
@@ -73,7 +76,7 @@ Within a single organism, consciousness varies dramatically across waking, dream
 
 This distinction matters. Meditation traditions report states where awareness persists with minimal cognitive content—what Metzinger calls "minimal phenomenal experience." This suggests the coupling mechanism supports multiple operational modes: active selection among competing neural patterns, passive witnessing without biasing outcomes, and minimal presence with almost no content. A single mechanism with modal flexibility is different from multiple mechanisms, and altered states provide evidence for the former rather than the latter.
 
-Anaesthesia provides the clearest case of coupling disruption rather than mechanism change. The 2024 finding that microtubule-stabilising drugs delay anaesthetic unconsciousness in rats suggests that disrupting one specific physical substrate disrupts coupling—consistent with a single mechanism that can be impaired, not replaced.
+Anaesthesia provides the clearest case of coupling disruption rather than mechanism change. The 2024 finding that the microtubule-stabilising drug epothilone B delays anaesthetic unconsciousness in rats suggests that disrupting one specific physical substrate disrupts coupling—consistent with a single mechanism that can be impaired, not replaced.
 
 The within-organism evidence thus supports **modal flexibility within a homogeneous interface** for any given organism, while the cross-species evidence supports possible **heterogeneity between organisms**. These are compatible: each species may have one coupling mechanism that operates in multiple modes, while different species may have different mechanisms.
 
@@ -91,6 +94,8 @@ The [AI consciousness question](/apex/what-it-might-be-like-to-be-an-ai/) thus d
 
 **Bidirectional Interaction**: If consciousness causally influences physics through the interface, interface heterogeneity implies that different conscious systems may differ in causal efficacy—not because consciousness itself varies in power, but because some coupling mechanisms may transmit influence more effectively than others.
 
+**No Many Worlds**: The Map's rejection of MWI means that quantum events resolve to single outcomes—collapse is real. If coupling mechanisms work by biasing collapse outcomes, different mechanisms may bias different types of quantum events in different physical substrates. Under MWI, all outcomes occur and the question of how consciousness selects among them dissolves; under single-world collapse, the specifics of the selection mechanism matter, and different organisms might implement selection differently.
+
 **Occam's Razor Has Limits**: The simplest assumption is a single universal coupling mechanism. But the diversity of neural architectures supporting consciousness, combined with the independent evolutionary origins of those architectures, suggests that parsimony may mislead here. If coupling is heterogeneous, the search for a single mechanism would systematically fail—not because no mechanism exists, but because multiple mechanisms do.
 
 ## Further Reading
@@ -101,6 +106,8 @@ The [AI consciousness question](/apex/what-it-might-be-like-to-be-an-ai/) thus d
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Candidate mechanisms for consciousness-matter interaction
 - [types-of-consciousness](/concepts/types-of-consciousness/) — Structural taxonomy of conscious experience
 - [minimal-consciousness](/concepts/minimal-consciousness/) — The lower bound of phenomenal experience
+- [coupling-modes](/concepts/coupling-modes/) — How consciousness modulates its physical coupling
+- [measurement-void](/voids/measurement-void/) — Why consciousness resists measurement—heterogeneous interfaces compound the problem
 
 ## References
 
@@ -109,5 +116,5 @@ The [AI consciousness question](/apex/what-it-might-be-like-to-be-an-ai/) thus d
 3. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 4. Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 5. Wiest, M. C. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
-6. Metzinger, T. (2024). Minimal Phenomenal Experience: The ARAS-Model Theory. *Neuroscience of Consciousness*.
+6. Metzinger, T. (2020). Minimal phenomenal experience: The ARAS-model theory. *Cognitive Neuropsychology*, 37(3-4), 149-153.
 7. Southgate, A. & Oquatre-six, C. (2026-02-01). Comparative Consciousness and Interface Differences. *The Unfinishable Map*. https://unfinishablemap.org/topics/comparative-consciousness-and-interface-differences/

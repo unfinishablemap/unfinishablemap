@@ -65,11 +65,11 @@ No dropped qualifiers, overstated positions, or source/Map conflation detected.
 
 ### Enhancements Made
 1. Connected NCC's measurement limitations to the quantification void's five-layer structural analysis in "The Philosophical Boundary"
-2. Added [quantification-void](/voids/quantification-void/) to Further Reading
-3. Added [quantification-void](/voids/quantification-void/) to frontmatter related_articles (reciprocal cross-link)
+2. Added [quantification-void](/voids/measurement-void/) to Further Reading
+3. Added [quantification-void](/voids/measurement-void/) to frontmatter related_articles (reciprocal cross-link)
 
 ### Cross-links Added
-- [quantification-void](/voids/quantification-void/) — structural impossibility of measuring consciousness connects directly to NCC limitations
+- [quantification-void](/voids/measurement-void/) — structural impossibility of measuring consciousness connects directly to NCC limitations
 
 ## Remaining Items
 

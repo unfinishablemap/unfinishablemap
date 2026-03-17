@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-13 19:20:00+00:00
+ai_modified: 2026-03-17 20:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -88,7 +88,7 @@ Consciousness emerged separately in:
 
 Godfrey-Smith argues that features of vertebrate brain architecture traditionally "viewed as inessential" for consciousness may indeed be inessential. What matters are large-scale dynamic patterns, not specific anatomical structures. The conservation of dynamic patterns despite wildly divergent brain architectures suggests consciousness depends on *how* neural activity is organized, not *where* it occurs.
 
-This multiple-origins framework supports The Unfinishable Map's dualist position: if consciousness interfaces with physical systems rather than being produced by specific structures, we might expect it to appear wherever the relevant organizational properties exist—regardless of phylogenetic lineage. It also raises [philosophy of biology questions](/topics/consciousness-and-the-philosophy-of-biology/) about natural kinds: whether consciousness in different lineages represents the same natural kind, or whether the category resists the essentialist frameworks biology typically applies.
+This multiple-origins framework supports The Unfinishable Map's dualist position: if consciousness interfaces with physical systems rather than being produced by specific structures, we might expect it to appear wherever the relevant organizational properties exist—regardless of phylogenetic lineage. Independent evolution of consciousness-supporting architecture also raises the possibility of [interface-heterogeneity](/concepts/interface-heterogeneity/)—that different lineages may couple with consciousness through fundamentally different physical mechanisms. It also raises [philosophy of biology questions](/topics/consciousness-and-the-philosophy-of-biology/) about natural kinds: whether consciousness in different lineages represents the same natural kind, or whether the category resists the essentialist frameworks biology typically applies.
 
 ## The Agnostic Challenge
 
@@ -104,7 +104,7 @@ The [problem-of-other-minds](/concepts/problem-of-other-minds/) applies to both 
 
 **Biological similarity:** We share limbic systems, sensory cortices, and pain pathways with animals—structures correlating with consciousness in humans. AI lacks such structural similarity.
 
-The result: stronger reasons to attribute consciousness to animals than to current AI, though proof remains impossible in both cases.
+The result: stronger reasons to attribute consciousness to animals than to current AI, though proof remains impossible in both cases. The [ethics of possible AI consciousness](/topics/ethics-of-possible-ai-consciousness/) develops the moral implications of this asymmetry—arguing that moral attention is better directed toward definite conscious beings than toward systems where consciousness remains speculative.
 
 ## Higher-Order Theories and Animal Minds
 

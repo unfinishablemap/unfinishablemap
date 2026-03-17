@@ -158,7 +158,7 @@ This is not uncomfortable compromise but honest assessment. Certainty about exte
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
 - [past-self-void](/voids/past-self-void/) — The parallel void within a single lifetime: your own past consciousness is inaccessible
 - [historical-consciousness-void](/voids/historical-consciousness-void/) — Whether consciousness itself has changed across historical time
-- [calibration-void](/voids/calibration-void/) — Why even direct self-access cannot verify its own accuracy
+- [calibration-void](/voids/measurement-void/) — Why even direct self-access cannot verify its own accuracy
 - [mysterianism](/concepts/mysterianism/) — McGinn's analysis of structural cognitive closure
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — What draws the boundaries between discrete conscious subjects
 - [indexical-void](/voids/indexical-void/) — Why first-person identity resists explanation

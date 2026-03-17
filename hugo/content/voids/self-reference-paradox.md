@@ -76,7 +76,7 @@ Thomas Metzinger argues consciousness is the content of a "transparent self-mode
 
 ## The Calibration Problem
 
-How reliable is [introspection](/concepts/introspection/)? Nisbett and Wilson showed subjects systematically misidentify factors influencing their decisions—confabulation dressed as self-knowledge. But evaluating introspection's reliability requires using introspection. The [calibration-void](/voids/calibration-void/) explores whether this circularity is structural or methodological. The [narrative-void](/voids/narrative-void/) complicates matters further: introspective accounts pass through confabulation-prone narrative construction, so even the phenomenology of "searching for the self" may be partly narrated.
+How reliable is [introspection](/concepts/introspection/)? Nisbett and Wilson showed subjects systematically misidentify factors influencing their decisions—confabulation dressed as self-knowledge. But evaluating introspection's reliability requires using introspection. The [calibration-void](/voids/measurement-void/) explores whether this circularity is structural or methodological. The [narrative-void](/voids/narrative-void/) complicates matters further: introspective accounts pass through confabulation-prone narrative construction, so even the phenomenology of "searching for the self" may be partly narrated.
 
 ## Why the Hard Problem Is Hard
 
@@ -141,7 +141,7 @@ The self-reference paradox may be the prototype void: territory consciousness st
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — The puzzle that may be permanently in the void
 - [Witness Consciousness](/concepts/witness-consciousness/) — The observer mode in contemplative traditions
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
-- [The Calibration Void](/voids/calibration-void/) — Why introspection cannot verify its own reliability
+- [The Calibration Void](/voids/measurement-void/) — Why introspection cannot verify its own reliability
 - [The Constitutive Exclusion](/topics/constitutive-exclusion/) — The broader structural limit of which self-reference is a special case
 - [Compound Cognitive Limits](/voids/compound-cognitive-limits/) — How individual cognitive limits interact superadditively
 

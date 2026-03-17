@@ -125,7 +125,7 @@ The transition void connects to several of the Map's [tenets](/tenets/).
 - [dream-consciousness-void](/voids/dream-consciousness-void/) — Bidirectional inaccessibility between waking and dreaming
 - [absorption-void](/voids/absorption-void/) — Peak engagement is peak self-opacity
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
-- [calibration-void](/voids/calibration-void/) — Why introspection cannot be verified against any independent standard
+- [calibration-void](/voids/measurement-void/) — Why introspection cannot be verified against any independent standard
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — The micro-structure of attention shifts, where departure is never witnessed
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Husserl's retention-protention structure and why temporal smoothing conceals transitions
 - [phenomenology of flow states](/topics/consciousness-and-skilled-performance/) — Flow entry and exit as paradigm cases of unobserved transition

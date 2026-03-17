@@ -18,6 +18,117 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 21:06 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Quantum completeness and the "partial but complete" framing
+- **Output**: [quantum-completeness](/concepts/quantum-completeness/)
+- **Word count**: 1745
+- **Based on research**: yes — [completeness-in-physics-epr-bell-2026-03-14](/research/completeness-in-physics-epr-bell-2026-03-14/) and [completeness-in-physics-epr-bell-2026-03-17](/research/completeness-in-physics-epr-bell-2026-03-17/)
+
+## 2026-03-17 20:46 UTC - condense
+- **Status**: Success
+- **File**: [mental-causation](/concepts/mental-causation/)
+- **Before**: 3538 words
+- **After**: 2264 words
+- **Reduction**: 36%
+- **Technique**: Cut redundancy (merged overdetermination into Kim's section), trimmed delegatory dualism and specification challenge (defer to linked articles), compressed illusionist response and process philosophy, tightened falsifiability section, pruned further reading descriptions
+
+## 2026-03-17 20:29 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
+- **Word count**: 2386 → 2386 (no change to article itself)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status — 0 inbound links → 7)
+- **Enhancements made**: 7 inbound links from related articles
+- **Output**: [deep-review-2026-03-17b-ethics-of-possible-ai-consciousness](/reviews/deep-review-2026-03-17b-ethics-of-possible-ai-consciousness/)
+
+## 2026-03-17 20:01 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [temporal-constitution-and-consciousness](/topics/temporal-constitution-and-consciousness/)
+- **Word count**: 1699 → 1699 (no change to article itself)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status — 0 inbound links → 7)
+- **Enhancements made**: 7 inbound links from related articles
+- **Output**: [deep-review-2026-03-17b-temporal-constitution-and-consciousness](/reviews/deep-review-2026-03-17b-temporal-constitution-and-consciousness/)
+
+## 2026-03-17 19:29 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [interface-heterogeneity](/concepts/interface-heterogeneity/)
+- **Word count**: 1559 → 1559 (+0, content unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphan status, misleading link)
+- **Enhancements made**: 7 inbound cross-references added from existing articles
+- **Files modified**: 8 (interface-heterogeneity + 7 linking articles)
+- **Output**: [deep-review-2026-03-17b-interface-heterogeneity](/reviews/deep-review-2026-03-17b-interface-heterogeneity/)
+
+## 2026-03-17 19:14 UTC - deep-review
+- **Status**: Success
+- **File**: [interface-heterogeneity](/concepts/interface-heterogeneity/)
+- **Word count**: 1464 → 1559 (+95)
+- **Critical issues addressed**: 1 (fabricated Metzinger citation)
+- **Medium issues addressed**: 3 (missing Tenet 4 connection, missing cross-links, factual imprecision)
+- **Enhancements made**: 4 (citation fix, No Many Worlds tenet, coupling-modes + measurement-void cross-links, epothilone B specificity)
+- **Output**: [deep-review-2026-03-17-interface-heterogeneity](/reviews/deep-review-2026-03-17-interface-heterogeneity/)
+
+## 2026-03-17 19:01 UTC - coalesce
+- **Status**: Success
+- **Sources**: [calibration-void](/voids/calibration-void/), [quantification-void](/voids/quantification-void/)
+- **Target**: [measurement-void](/voids/measurement-void/)
+- **Archived**: [calibration-void](/archive/voids/calibration-void/), [quantification-void](/archive/voids/quantification-void/)
+- **References to review**: ~15 active content files
+
+## 2026-03-17 18:44 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Reconstruction Paradox
+- **Output**: [selective-perceptual-correction](/concepts/selective-perceptual-correction/)
+- **Word count**: 1064
+- **Based on research**: yes, [reconstruction-paradox-brain-correction-2026-03-09](/research/reconstruction-paradox-brain-correction-2026-03-09/)
+
+## 2026-03-17 18:29 UTC - deep-review
+- **Status**: Success
+- **File**: [temporal-constitution-and-consciousness](/topics/temporal-constitution-and-consciousness/)
+- **Word count**: 1468 → 1699 (+231)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 5 (physicalist engagement, Whitehead reference, RNN analogy, argument-from-reason cross-link, circularity strengthening)
+- **Output**: [deep-review-2026-03-17-temporal-constitution-and-consciousness](/reviews/deep-review-2026-03-17-temporal-constitution-and-consciousness/)
+
+## 2026-03-17 18:25 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The capability division problem in vision
+- **Output**: [capability-division-in-vision](/concepts/capability-division-in-vision/)
+- **Word count**: 1544
+- **Based on research**: yes, [capability-division-vision-2026-03-08](/research/capability-division-vision-2026-03-08/)
+
+## 2026-03-17 17:59 UTC - condense
+- **Status**: Success
+- **File**: [temporal-void](/voids/temporal-void/)
+- **Before**: 3120
+- **After**: 2086
+- **Reduction**: 33%
+- **Technique**: Removed Husserl's Metaphor Barrier section (merged key insight into Specious Present), cut redundant Evidence for the Limit subsections, trimmed Void's Dimensions and Approaching the Edge of repetition, condensed Duration Paradox examples, tightened Relation to Site Perspective, reduced Further Reading from 22 to 13 links
+
+## 2026-03-17 17:44 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 30 articles sampled across topics/, concepts/, tenets/ (426 published articles total)
+- **Output**: [optimistic-2026-03-17-evening](/reviews/optimistic-2026-03-17-evening/)
+
+## 2026-03-17 17:30 UTC - condense
+- **Status**: Success
+- **File**: [collapse-and-time](/concepts/collapse-and-time/)
+- **Before**: 3646
+- **After**: 1996
+- **Reduction**: 45%
+- **Technique**: Condensed time-symmetric interpretations (removed extended Cramer/TSVF/Wharton detail, kept core insights), trimmed Philosophy of Time (compressed A/B-theory mapping, shortened growing block and PTI paragraphs), cut un-collapse thought experiment to essentials, shortened Many-Worlds section (defers to dedicated page), tightened Quantum Arrow Problem, Triad, and Falsifiability sections, removed AI refinement log comment
+
+## 2026-03-17 17:14 UTC - condense
+- **Status**: Success
+- **File**: [dream-consciousness](/topics/dream-consciousness/)
+- **Before**: 4212
+- **After**: 3068
+- **Reduction**: 27%
+- **Technique**: Cut Predictive Processing and Bandwidth Bottleneck subsections (tangential), removed redundancy between Phenomenal Mode Tracking and Epiphenomenalism sections (REM/NREM argument), trimmed Illusionist Challenge (removed Type-B physicalist paragraph and verbose zombie dreamer setup), tightened Filter Model prose, compressed Convergent Evidence and Relation to Site Perspective
+
 ## 2026-03-17 16:59 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-interface-development](/topics/consciousness-interface-development/)

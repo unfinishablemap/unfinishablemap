@@ -56,7 +56,7 @@ None. Article remains well-constructed with proper citations and no factual erro
 
 ### Cross-links Added
 - [introspective-opacity](/voids/introspective-opacity/) — inline in Error-Blindness section
-- [calibration-void](/voids/calibration-void/) — inline in Bootstrap Problem section
+- [calibration-void](/voids/measurement-void/) — inline in Bootstrap Problem section
 - [cognitive-closure](/concepts/cognitive-closure/) — inline in Mysterianism tenet connection
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — inline in Mysterianism tenet connection
 

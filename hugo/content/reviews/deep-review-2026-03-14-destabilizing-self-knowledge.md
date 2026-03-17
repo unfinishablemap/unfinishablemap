@@ -53,7 +53,7 @@ None. Article remains philosophically coherent within its framework.
 
 ### Cross-links Added
 - [transparency-void](/voids/transparency-void/) — consciousness cannot verify its own representations
-- [calibration-void](/voids/calibration-void/) — introspection lacks independent calibration standards
+- [calibration-void](/voids/measurement-void/) — introspection lacks independent calibration standards
 - [transition-void](/voids/transition-void/) — consciousness cannot witness its own state transitions
 
 ## Remaining Items

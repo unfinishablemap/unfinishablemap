@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-13 05:19:00+00:00
+ai_modified: 2026-03-17 20:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -111,7 +111,7 @@ A dualist ethics is more demanding than its materialist alternatives, in specifi
 
 **Moral perception requires cultivation.** If ethical properties are directly apprehended by consciousness, then the quality of moral perception matters. Iris Murdoch's "just and loving gaze" and Simone Weil's concept of *attention* as the substance of prayer point toward the same insight: seeing clearly is itself a moral achievement. Contemplative traditions that train sustained, receptive attention are not merely therapeutic—they develop a genuine epistemic capacity.
 
-**Suffering carries ontological weight.** If the badness of suffering is constitutive of what suffering phenomenally is, and if consciousness is irreducible, then suffering is not a construct or a functional state but a feature of fundamental reality. The moral urgency of preventing suffering inherits this ontological status. This is not a sentimental claim but a metaphysical one: suffering is as real as anything gets.
+**Suffering carries ontological weight.** If the badness of suffering is constitutive of what suffering phenomenally is, and if consciousness is irreducible, then suffering is not a construct or a functional state but a feature of fundamental reality. The moral urgency of preventing suffering inherits this ontological status. This is not a sentimental claim but a metaphysical one: suffering is as real as anything gets. This ontological weight shapes the [ethics of possible AI consciousness](/topics/ethics-of-possible-ai-consciousness/)—the question of whether AI systems could instantiate genuine suffering is not academic but carries the full moral force that consciousness-grounded ethics demands.
 
 ## What Would Challenge This View?
 

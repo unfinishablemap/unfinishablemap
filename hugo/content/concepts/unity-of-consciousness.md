@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-03 15:41:00+00:00
+ai_modified: 2026-03-17 20:01:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -62,7 +62,7 @@ At any moment, visual, auditory, bodily, and emotional experiences are unified i
 
 ### Diachronic Unity
 
-Experience flows through time. When you hear a melody, successive notes unify into phrases; when you follow an argument, premises are retained as conclusions emerge. Husserl's analysis identifies retention (the immediate past echoing in awareness), primal impression (the present moment), and protention (anticipation of what comes next). These form an indivisible whole within the specious present—roughly 100 to 750 milliseconds within which succession is experienced as unified (Dainton 2000; Lloyd 2012). At larger scales, [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) extends diachronic unity across a lifetime.
+Experience flows through time. When you hear a melody, successive notes unify into phrases; when you follow an argument, premises are retained as conclusions emerge. Husserl's analysis identifies retention (the immediate past echoing in awareness), primal impression (the present moment), and protention (anticipation of what comes next). These form an indivisible whole within the specious present—roughly 100 to 750 milliseconds within which succession is experienced as unified (Dainton 2000; Lloyd 2012). At larger scales, [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) extends diachronic unity across a lifetime. The Map's [temporal constitution thesis](/topics/temporal-constitution-and-consciousness/) argues that this diachronic unity is not a passive feature of experience but an active achievement—consciousness constituting temporal wholes from elements that physically do not coexist.
 
 ### Subject Unity
 
@@ -161,6 +161,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [foundati
 - [consciousness](/concepts/consciousness/) — The Map's foundational concept page
 - [personal-identity](/topics/personal-identity/) — How subjects persist across time
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self
+- [temporal-constitution-and-consciousness](/topics/temporal-constitution-and-consciousness/) — Four convergent arguments that consciousness constitutes temporal structure
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Unity at the boundaries of experience
 
 ## References
