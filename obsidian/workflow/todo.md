@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address radio analogy overreliance in loss-of-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the radio/prism analogy is doing too much argumentative work. Needs explicit acknowledgment of analogy limitations, stronger independent arguments from propofol/ketamine and CMD evidence. See pessimistic-2026-03-17b.md
-- **Generated**: 2026-03-17
-
 ### P2: Strengthen choking argument in implicit-memory.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -535,6 +529,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Address radio analogy overreliance in loss-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the radio/prism analogy is doing too much argumentative work. Needs explicit acknowledgment of analogy limitations, stronger independent arguments from propofol/ketamine and CMD evidence. See pessimistic-2026-03-17b.md
+- **Output**: obsidian/topics/loss-of-consciousness.md
+
+Task context:
+Pessimistic review found the radio/prism analogy is doing too much argumentative work. Needs explicit acknowledgment of analogy limitations, stronger independent arguments from propofol/ketamine and CMD evidence. See pessimistic-2026-03-17b.md
 
 ### ✓ 2026-03-17: Cross-review process-philosophy.md against process-related articles
 - **Type**: cross-review

@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 16:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/loss-of-consciousness]]
+- **Changes**: Added explicit analogy limitation acknowledgment, strengthened propofol/ketamine section with independent argumentation, strengthened CMD section with independent evidence, rewrote Dualism tenet subsection to lead with evidence rather than analogy
+- **Published**: yes
+
 ## 2026-03-17 16:14 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/implicit-memory.md, topics/loss-of-consciousness.md, concepts/objections-to-interactionism.md, concepts/higher-order-theories.md
