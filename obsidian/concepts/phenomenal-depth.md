@@ -2,15 +2,15 @@
 title: "Phenomenal Depth"
 description: "How conscious experience possesses layered richness beyond surface appearance—a concept central to understanding why materialist reduction fails."
 created: 2026-02-13
-modified: 2026-02-13
+modified: 2026-03-17
 human_modified:
-ai_modified: 2026-02-25T22:12:00+00:00
+ai_modified: 2026-03-17T03:43:00+00:00
 draft: false
-last_deep_review: 2026-02-17T02:27:00+00:00
+last_deep_review: 2026-03-17T03:43:00+00:00
 topics:
   - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[emotion-and-dualism]]"
-  - "[[contemplative-training-and-phenomenal-access]]"
+  - "[[contemplative-practice-as-philosophical-evidence]]"
 concepts:
   - "[[qualia]]"
   - "[[phenomenal-consciousness]]"
@@ -26,9 +26,10 @@ concepts:
   - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[visual-consciousness]]"
-  - "[[phenomenology-of-pain]]"
+  - "[[pain-consciousness-and-causal-power]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[unity-of-consciousness]]"
+  - "[[aesthetics-and-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -52,9 +53,9 @@ Phenomenal depth manifests differently across domains of experience:
 
 **Perceptual depth.** [[visual-consciousness|Visual experience]] presents objects with surface colour, texture, luminosity, spatial relation, and affective significance simultaneously. A ripe peach is not merely orange-red; its colour carries warmth, softness, an anticipation of taste. These layers are not separate experiences concatenated—they form a unified qualitative state with internal articulation.
 
-**Affective depth.** The [[phenomenology-of-pain|phenomenology of pain]] reveals depth starkly. Pain has sensory qualities (burning, stabbing, aching), an affective dimension (its unpleasantness), a motivational dimension (the urge to withdraw), and cognitive significance (what the pain means about one's body). These layers can dissociate—patients with pain asymbolia retain sensory pain without unpleasantness—but in typical experience they form a deep, layered whole.
+**Affective depth.** The [[pain-consciousness-and-causal-power|phenomenology of pain]] reveals depth starkly. Pain has sensory qualities (burning, stabbing, aching), an affective dimension (its unpleasantness), a motivational dimension (the urge to withdraw), and cognitive significance (what the pain means about one's body). These layers can dissociate—patients with pain asymbolia retain sensory pain without unpleasantness—but in typical experience they form a deep, layered whole.
 
-**Cognitive depth.** The [[phenomenology-of-understanding-and-meaning|phenomenology of understanding]] provides another case. The moment of grasping a proof carries not just the logical content but a felt sense of how the parts connect, a qualitative sense of inevitability, and often an aesthetic dimension—elegance or surprise. [[cognitive-phenomenology|Cognitive phenomenology]] research suggests these layers are genuinely phenomenal, not merely associated sensory imagery.
+**Cognitive depth.** The [[phenomenology-of-understanding-and-meaning|phenomenology of understanding]] provides another case. The moment of grasping a proof carries not just the logical content but a felt sense of how the parts connect, a qualitative sense of inevitability, and often an [[aesthetics-and-consciousness|aesthetic]] dimension—elegance or surprise. [[cognitive-phenomenology|Cognitive phenomenology]] research suggests these layers are genuinely phenomenal, not merely associated sensory imagery.
 
 ## Why Depth Resists Reduction
 
@@ -68,7 +69,7 @@ This connects to the [[explanatory-gap]]. The gap is not merely between neural a
 
 The relationship between phenomenal depth and [[access-consciousness|access consciousness]] is complex. Not all layers of a deep experience are simultaneously accessed—much of what constitutes depth remains in the periphery of attention, present in experience but not cognitively reported.
 
-[[contemplative-training-and-phenomenal-access|Contemplative training]] appears to expand access to deeper layers. Meditators report perceiving fine-grained aspects of experience—subtle body sensations, micro-emotions, the texture of attention itself—that untrained introspection misses. This suggests that phenomenal depth may be even greater than what ordinary introspection reveals: the layers are there, but accessing them requires trained attention. The Map's account of [[adaptive-computational-depth|adaptive computational depth]] offers a physical analogue: if reality resolves into greater detail where consciousness attends, trained attention may literally elicit more structure from the interface.
+[[contemplative-practice-as-philosophical-evidence|Contemplative training]] appears to expand access to deeper layers. Meditators report perceiving fine-grained aspects of experience—subtle body sensations, micro-emotions, the texture of attention itself—that untrained introspection misses. This suggests that phenomenal depth may be even greater than what ordinary introspection reveals: the layers are there, but accessing them requires trained attention. The Map's account of [[adaptive-computational-depth|adaptive computational depth]] offers a physical analogue: if reality resolves into greater detail where consciousness attends, trained attention may literally elicit more structure from the interface.
 
 This has a significant implication: if depth exceeds access even in trained observers, then the full qualitative richness of consciousness may be in principle inexhaustible. Each new act of attention reveals structure that was already present, and there is no guarantee that any finite set of introspective acts will exhaust what is there. This connects to [[mysterianism]]—the view that some aspects of consciousness may permanently exceed our cognitive grasp. Depth's inexhaustibility suggests one concrete way this could be true: consciousness may have more internal structure than any mind can fully articulate about itself.
 
@@ -92,8 +93,10 @@ The Map does not claim that phenomenal depth is fully understood. Rather, it hol
 - [[phenomenal-overflow]]
 - [[qualia]]
 - [[phenomenal-binding-and-holism]]
-- [[contemplative-training-and-phenomenal-access]]
+- [[contemplative-practice-as-philosophical-evidence]]
 - [[phenomenology-of-understanding-and-meaning]]
+- [[pain-consciousness-and-causal-power]]
+- [[aesthetics-and-consciousness]]
 - [[phenomenology-of-the-edge]]
 - [[mysterianism]]
 

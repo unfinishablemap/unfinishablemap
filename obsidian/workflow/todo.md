@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced aesthetics articles
-- **Type**: cross-review
-- **Notes**: Coalesce created aesthetics-and-consciousness.md from 4 source articles. The following active files reference archived articles and need wikilinks updated: aesthetic-dimension-of-consciousness → aesthetics-and-consciousness (14 active files), aesthetic-irreducibility-arguments → aesthetics-and-consciousness (8 active files), consciousness-and-aesthetic-creation → aesthetics-and-consciousness (6 active files), binding-and-beauty → aesthetics-and-consciousness (0 non-source active files). Many files reference multiple archived slugs. See changelog entry 2026-03-17 01:15 UTC.
-- **Source**: coalesce
-- **Generated**: 2026-03-17
-
 ### P2: Research Russellian monism as competitor to bi-aspectual dualism
 - **Type**: research-topic
 - **Notes**: Russellian monism (Chalmers 2015, Alter & Nagasawa 2015) is the closest competitor — both say physics describes structure while consciousness is "missing." Key differences to clarify: (1) Russellian monism is neutral monism (one substance, two aspects); the Map commits to genuine dualism. (2) Russellian monism typically implies panpsychism; the Map rejects it. (3) The combination problem hits Russellian monism hard; the Map's quantum-interface model may avoid it. (4) Does Russellian monism handle the measurement problem? Research Chalmers' "The Combination Problem for Panpsychism," Goff's "Consciousness and Fundamental Reality," Stoljar's "Ignorance and Imagination." Critical positioning work. Target: research note.
@@ -617,6 +611,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-03-17: Update references to coalesced aesthetics articles
+- **Type**: cross-review
+- **Notes**: Coalesce created aesthetics-and-consciousness.md from 4 source articles. The following active files reference archived articles and need wikilinks updated: aesthetic-dimension-of-consciousness → aesthetics-and-consciousness (14 active files), aesthetic-irreducibility-arguments → aesthetics-and-consciousness (8 active files), consciousness-and-aesthetic-creation → aesthetics-and-consciousness (6 active files), binding-and-beauty → aesthetics-and-consciousness (0 non-source active files). Many files reference multiple archived slugs. See changelog entry 2026-03-17 01:15 UTC.
+- **Output**: None -- Context: Update references to coalesced aesthetics articles
 
 ### ✓ 2026-03-17: Research completeness in physics — EPR, Bell, and "partial but complete"
 - **Type**: research-topic
