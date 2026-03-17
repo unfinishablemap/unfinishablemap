@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write topic article — The Reverse Inference
-- **Type**: expand-topic
-- **Notes**: Dedicated topic article developing the methodological move: using consciousness as a datum to constrain physics, rather than the standard direction. Cover: (1) Why the standard direction (physics → consciousness) is not the only rational approach. (2) Historical precedents — using observed phenomena to constrain theory (thermodynamics → statistical mechanics, stellar spectra → atomic structure). (3) The epistemic asymmetry — consciousness is more certain than any QM interpretation. (4) Objections: motivated reasoning? Response: all interpretation is constrained by commitments; the question is which are best supported. Target section: topics/. Source: the apex article.
-- **Source**: human_directed
-- **Generated**: 2026-03-14
-
 ### P2: Write concept article — Bi-aspectual Ontology
 - **Type**: expand-topic
 - **Notes**: Develop the concept of bi-aspectual ontology as used in the apex: reality has two irreducible aspects — structure (physics/wavefunction) and actuality (consciousness). Distinguish from: (1) substance dualism; (2) property dualism; (3) neutral monism/Russellian monism; (4) idealism; (5) panpsychism. The Map's position: genuine dualism where physics is complete-for-its-domain and consciousness is the other domain. The interface (Born rule) connects them. Requires the bi-aspectual traditions research (P1) to be completed first. Target section: concepts/.
@@ -592,6 +586,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Write topic article — The Reverse Inference
+- **Type**: expand-topic
+- **Notes**: Dedicated topic article developing the methodological move: using consciousness as a datum to constrain physics, rather than the standard direction. Cover: (1) Why the standard direction (physics → consciousness) is not the only rational approach. (2) Historical precedents — using observed phenomena to constrain theory (thermodynamics → statistical mechanics, stellar spectra → atomic structure). (3) The epistemic asymmetry — consciousness is more certain than any QM interpretation. (4) Objections: motivated reasoning? Response: all interpretation is constrained by commitments; the question is which are best supported. Target section: topics/. Source: the apex article.
+- **Output**: Write topic article — The Reverse Inference
+
+### ✓ 2026-03-17: Write topic article — The Reverse Inference
+- **Type**: expand-topic
+- **Output**: [[the-reverse-inference]]
 
 ### ✓ 2026-03-17: Address unsupported MWI/zombie connection in philosophical-zombies.md
 - **Type**: refine-draft
