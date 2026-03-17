@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 07:58 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of cognitive limit types
+- **Output**: [[topics/phenomenology-of-cognitive-limit-types]]
+- **Word count**: 2105
+- **Based on research**: No (synthesis of existing Map articles: phenomenology-of-the-edge, topology-of-cognitive-failure, evolved-cognitive-limits)
+
 ## 2026-03-17 07:45 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-physics-of-information]]

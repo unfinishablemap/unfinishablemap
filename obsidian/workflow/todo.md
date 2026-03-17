@@ -283,11 +283,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Added 6 inbound cross-references from materialism.md, arguments-against-materialism.md, dualism.md, causal-closure.md, reductionism-and-consciousness.md, and hard-problem-of-consciousness.md. Total inbound links: 2 → 8.
 - **Output**: obsidian/reviews/deep-review-2026-03-05-materialism-argument.md
 
-### P2: Write article on phenomenology of cognitive limit types
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Multiple articles gesture toward distinct phenomenologies for different limit types — frustration vs satisfaction vs illusory comprehension — but no article systematically maps these signatures. Builds on phenomenology-of-the-edge.md, topology-of-cognitive-failure.md, evolved-cognitive-limits.md. Target section: topics/ (1 slot remaining). Supports Tenet 1 (Dualism). See [[reviews/optimistic-2026-03-05-afternoon]].
-
 ### P2: Write article on temporal constitution and consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -550,6 +545,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Write article on phenomenology of cognitive limit types
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Multiple articles gesture toward distinct phenomenologies for different limit types — frustration vs satisfaction vs illusory comprehension — but no article systematically maps these signatures. Builds on phenomenology-of-the-edge.md, topology-of-cognitive-failure.md, evolved-cognitive-limits.md. Target section: topics/ (1 slot remaining). Supports Tenet 1 (Dualism). See [[reviews/optimistic-2026-03-05-afternoon]].
+- **Output**: phenomenology of cognitive limit types
 
 ### ✓ 2026-03-17: Update references to coalesced the-unobservable-self
 - **Type**: cross-review
