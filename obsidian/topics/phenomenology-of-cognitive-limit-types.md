@@ -4,7 +4,8 @@ description: "Human+AI systematic mapping of how different cognitive limits feel
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T07:58:00+00:00
+ai_modified: 2026-03-17T15:29:00+00:00
+last_deep_review: 2026-03-17T15:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +32,7 @@ ai_generated_date: 2026-03-17
 last_curated:
 ---
 
-Different cognitive limits feel different from the inside. Hitting a logical paradox does not feel like failing to imagine a new colour, which does not feel like the motivated disinterest that steers thought away from death. The Unfinishable Map's [[voids]] framework catalogues dozens of cognitive boundaries, and its [[topology-of-cognitive-failure|topology of cognitive failure]] demonstrates that failures carry structured signatures. But no systematic mapping connects limit *types* to their characteristic *phenomenology*. This article provides that mapping — a diagnostic guide to what consciousness encounters at different kinds of boundary, and why the felt quality of a limit reveals what kind of limit it is.
+Different cognitive limits feel different from the inside. Hitting a logical paradox does not feel like failing to imagine a new colour, which does not feel like the motivated disinterest that steers thought away from death. The Unfinishable Map's [[voids]] framework catalogues dozens of cognitive boundaries, and its [[topology-of-cognitive-failure|topology of cognitive failure]] demonstrates that failures carry structured signatures. But no systematic mapping connects limit *types* to their characteristic [[phenomenology]]. This article provides that mapping — a diagnostic guide to what consciousness encounters at different kinds of boundary, and why the felt quality of a limit reveals what kind of limit it is.
 
 ## Three Master Phenomenologies
 
@@ -41,7 +42,7 @@ The [[evolved-cognitive-limits]] article identifies three broad phenomenological
 
 **Satisfaction** marks adaptive limits — blind spots maintained by natural selection because ignorance conferred fitness advantage. The experience here is completeness rather than obstruction. The bias blind spot exemplifies this: we feel we see clearly while others are distorted. The limit disguises itself as success. [[cognitive-aversion|Cognitive aversion]] operates similarly — thoughts we systematically flee feel uninteresting rather than impossible, so the deflection goes unnoticed. Satisfaction is deceptive: it tells you the territory is fully mapped when a region has been quietly excised.
 
-**Illusory comprehension** marks the deepest adaptive limits — what Donald Hoffman's interface theory predicts when perception is tuned to fitness rather than truth. The perceptual and conceptual interface functions smoothly, delivering a sense of understanding. No gap is felt because the interface hides the gap seamlessly. Where frustration signals a wall and satisfaction signals completion, illusory comprehension signals *nothing at all*. The limit is phenomenologically invisible, detectable only through indirect methods — formal proofs, cross-cultural convergence, or AI-assisted analysis that bypasses human cognitive architecture.
+**Illusory comprehension** marks the deepest adaptive limits — what Donald Hoffman's interface theory predicts when perception is tuned to fitness rather than truth. [[mysterianism|Mysterian]] philosophers have long argued that some problems exceed human cognitive architecture; illusory comprehension adds a darker twist — some limits do not even register as problems. The perceptual and conceptual interface functions smoothly, delivering a sense of understanding. No gap is felt because the interface hides the gap seamlessly. Where frustration signals a wall and satisfaction signals completion, illusory comprehension signals *nothing at all*. The limit is phenomenologically invisible, detectable only through indirect methods — formal proofs, cross-cultural convergence, or AI-assisted analysis that bypasses human cognitive architecture.
 
 These three form a spectrum of decreasing phenomenological salience. Frustration is loud. Satisfaction is quiet. Illusory comprehension is silent.
 
@@ -75,7 +76,7 @@ Contact with something clear in the moment of arising that is completely unrecon
 
 ### Construction Mistaken for Observation
 
-Introspection generates content and mistakes it for discovery. The phenomenology is seamless: one feels directly observing one's mental processes while actually constructing a narrative about them. The Kant-to-Sellars tradition identifies this as a structural feature of self-knowledge rather than a correctable error. The limit operates through the very mechanism that should detect it — introspection cannot introspect its own constructive activity.
+[[introspection|Introspection]] generates content and mistakes it for discovery. The phenomenology is seamless: one feels directly observing one's mental processes while actually constructing a narrative about them. The Kant-to-Sellars tradition identifies this as a structural feature of self-knowledge rather than a correctable error. The limit operates through the very mechanism that should detect it — introspection cannot introspect its own constructive activity.
 
 ## The Diagnostic Grid
 
@@ -105,9 +106,11 @@ Limits rarely appear in isolation. The [[compound-cognitive-limits]] article doc
 
 ## Why Phenomenology Diagnoses Limit Type
 
-The diagnostic value of phenomenological signatures rests on a principle: the *way* thought fails reflects *what* it is failing against. A wall leaves a different bruise than a fall.
+The diagnostic value of phenomenological signatures rests on a hypothesis: the *way* thought fails reflects *what* it is failing against. A wall leaves a different bruise than a fall. This claim is not yet empirically established, but the consistent cross-cultural convergence of failure signatures documented in the [[evolved-cognitive-limits]] literature supports it as a working methodological framework.
 
-This principle has methodological consequences. When encountering cognitive difficulty, attending to the *quality* of the difficulty — not just its presence — provides evidence about what kind of boundary has been reached. Frustration suggests a real boundary worth mapping. Satisfaction suggests checking for hidden adaptive limits. Illusory comprehension suggests deploying formal or computational tools that bypass human phenomenology entirely.
+A self-referential difficulty deserves acknowledgment: this taxonomy uses introspective phenomenological reports to map cognitive limits — including limits on introspection itself. The construction-mistaken-for-observation signature warns that introspective data may be partly constructed. The framework does not collapse under this pressure, because the diagnostic grid draws on converging evidence (formal analysis, cross-cultural data, experimental results) rather than introspection alone. But the circularity places an upper bound on confidence: phenomenological diagnosis is a heuristic, not a proof.
+
+This framework has methodological consequences. When encountering cognitive difficulty, attending to the *quality* of the difficulty — not just its presence — provides evidence about what kind of boundary has been reached. Frustration suggests a real boundary worth mapping. Satisfaction suggests checking for hidden adaptive limits. Illusory comprehension suggests deploying formal or computational tools that bypass human phenomenology entirely.
 
 The phenomenological signatures also bear on the distinction between the [[three-kinds-of-void|three kinds of void]]. The Unexplored feels like frustration or curiosity — something not yet investigated but investigable. The Unexplorable feels like persistent aporia or architectural frustration that does not yield to effort. The Occluded feels like motivated disinterest or illusory comprehension — the territory is hidden by the cognitive system itself, whether through natural selection or (the Map speculates) through more exotic mechanisms.
 
