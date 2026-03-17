@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 02:58 UTC - research-topic
+- **Status**: Success
+- **Topic**: The Gödel-measurement problem analogy — scope and limits
+- **Output**: [[godel-measurement-problem-analogy-2026-03-17]]
+- **Sources consulted**: 18
+- **Note**: Supplement to existing [[godel-measurement-problem-analogy-2026-03-14]], filling gaps on Szangolies' Epistemic Horizons, Frauchiger-Renner details, Chalmers/Aaronson critiques, and the model-vs-reality distinction
+
 ## 2026-03-17 02:53 UTC - tune-system
 - **Status**: Success
 - **Sessions analyzed**: 124 (3847 to 3971)
