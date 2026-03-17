@@ -4,7 +4,7 @@ description: "Emotional consciousness provides the strongest empirical case for 
 created: 2026-01-19
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T01:45:00+00:00
+ai_modified: 2026-03-17T03:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-17T03:28:00+00:00
 coalesced_from:
   - "/topics/emotional-consciousness/"
   - "/topics/emotion-as-evidence-for-dualism/"
@@ -62,9 +62,9 @@ The [[explanatory-gap]] for valence is particularly stark because valence seems 
 
 **The hedonic account** treats valence as an intrinsic qualitative property of experience. The badness of pain is not *about* anything external—it is a property of the pain itself. No description of neural mechanisms explains *why* this particular brain state feels bad rather than neutral or good.
 
-**The evaluativist account** (Peter Carruthers, Tom Cochrane) argues valence is a nonconceptual representation of value. When afraid, attention is directed outward at the threat—the bear's claws seem dangerous, not an inner feeling of badness. Valence represents goodness or badness in the world, not an intrinsic property of the experience.
+**The evaluativist account** (Carruthers 2018) argues valence is a nonconceptual representation of value. When afraid, attention is directed outward at the threat—the bear's claws seem dangerous, not an inner feeling of badness. Valence represents goodness or badness in the world, not an intrinsic property of the experience.
 
-Pain asymbolia cases reveal which account is correct. Patients with damage to specific brain regions can represent tissue damage (they know their hand is burned) without feeling the badness. They report the pain exists but doesn't bother them. If valence were merely representation of value, asymbolics should still experience the negative quality—they have the representation. They don't. Valence is an intrinsic property separate from any representational content.
+Pain asymbolia cases reveal which account is correct. Patients with damage to specific brain regions can represent tissue damage (they know their hand is burned) without feeling the badness. They report the pain exists but doesn't bother them. If valence were merely representation of value, asymbolics should still experience the negative quality—they retain the capacity to represent tissue damage as harmful. An evaluativist might respond that asymbolia disrupts the representational mechanism itself, but this concedes the point: whatever is disrupted is the felt badness, not the informational content about harm. Valence is an intrinsic property separate from representational content.
 
 ## The Pain Asymbolia Argument
 
@@ -78,7 +78,7 @@ The evolutionary dimension reinforces this. Pain correlates with tissue damage, 
 
 ## How Dualism Transforms the Philosophy of Emotion
 
-The dominant debate in philosophy of emotion—between cognitive theories that reduce emotions to judgments (Solomon, Nussbaum) and somatic theories that reduce them to bodily feelings (James, Damasio)—presupposes that emotions must be *either* mental representations *or* physical states. More recent frameworks (Barrett's constructionism, Colombetti's enactivism) are more sophisticated but remain physicalist: they treat emotion as ultimately constituted by physical processes, whether predictive processing, bodily arousal, or organism-environment coupling. None explains why these processes feel a particular way.
+The dominant debate in philosophy of emotion—between cognitive theories that reduce emotions to judgments (Solomon, Nussbaum) and somatic theories that reduce them to bodily feelings (James, Damasio)—presupposes that emotions must be *either* mental representations *or* physical states. Recent frameworks (Barrett's constructionism, Colombetti's enactivism) are more sophisticated but remain physicalist: they treat emotion as ultimately constituted by physical processes, whether predictive processing, bodily arousal, or organism-environment coupling. None explains why these processes feel a particular way.
 
 Dualism dissolves the dichotomy. If consciousness is irreducible to physical processes, the phenomenal character of emotion is not an epiphenomenal add-on to judgments or body states—it is a fundamental feature that does distinctive work. Consider anger: it is not merely the judgment "I have been wronged" nor merely the feeling of muscular tension. It is a *caring* about the wrong, directed at its source, infused with felt urgency, motivating action. The phenomenal character, the evaluative content, and the motivational force are aspects of a single conscious act, not layered physical processes.
 
@@ -126,7 +126,7 @@ Pain asymbolia is direct evidence for [[tenets#^bidirectional-interaction|Bidire
 
 ### Minimal Quantum Interaction
 
-If valenced states motivate behaviour, the [[tenets#^minimal-quantum-interaction|quantum interface]] may operate through affective assessment. When the brain generates multiple possible responses, consciousness biases selection toward positively valenced outcomes and away from negatively valenced ones. Pleasure and pain serve as "mental currency" (Cutter & Tye 2022) enabling comparison across disparate experiences. Valence provides the criterion—positive or negative—by which consciousness evaluates and selects among possible neural states.
+If valenced states motivate behaviour, the [[tenets#^minimal-quantum-interaction|quantum interface]] may operate through affective assessment. When the brain generates multiple possible responses, consciousness biases selection toward positively valenced outcomes and away from negatively valenced ones. Pleasure and pain serve as "mental currency" (Cleeremans & Tallon-Baudry 2022) enabling comparison across disparate experiences. Valence provides the criterion—positive or negative—by which consciousness evaluates and selects among possible neural states.
 
 ### No Many Worlds
 
@@ -185,7 +185,7 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 1. Barrett, L. F., & Russell, J. A. (1999). Core affect, prototypical emotional episodes, and other things called emotion. *Journal of Personality and Social Psychology*, 76(5), 805-819.
 1. Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658-680.
 1. Colombetti, G. (2014). *The Feeling Body: Affective Science Meets the Enactive Mind*. MIT Press.
-1. Cutter, B. & Tye, M. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1).
+1. Cleeremans, A., & Tallon-Baudry, C. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1).
 1. Damasio, A. (1994). *Descartes' Error: Emotion, Reason, and the Human Brain*. Putnam.
 1. Grahek, N. (2007). *Feeling Pain and Being in Pain*. MIT Press.
 1. James, W. (1884). What is an emotion? *Mind*, 9(34), 188-205.

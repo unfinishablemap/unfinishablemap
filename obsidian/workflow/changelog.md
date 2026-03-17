@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17 03:28 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/emotion-and-dualism]]
+- **Word count**: 2832 → 2861 (+29)
+- **Critical issues addressed**: 2 (Cleeremans & Tallon-Baudry misattribution, Cochrane unverifiable attribution)
+- **Medium issues addressed**: 2 (asymbolia argument strengthened, prose tightened)
+- **Enhancements made**: 0 (length-neutral mode, article at 95% of soft threshold)
+- **Output**: [[reviews/deep-review-2026-03-17-emotion-and-dualism]]
+
 ## 2026-03-17 03:14 UTC - research-topic
 - **Status**: Success
 - **Topic**: Completeness in physics — EPR, Bell, and "partial but complete"
