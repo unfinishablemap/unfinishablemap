@@ -37,6 +37,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on mathematical structure of the consciousness-physics interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/mathematical-structure-consciousness-physics-interface-2026-03-14.md. Develops formal framework for consciousness-physics coupling: operator algebras, projection postulate as interface specification, information-theoretic constraints on conscious selection. Directly supports Tenet 2 (Minimal Quantum Interaction). Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-18
+
+### P2: Integrate quantum-completeness.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Newly created concept page (2026-03-17) has no inbound links. Central concept arguing quantum mechanics is complete about structure yet partial about actuality. Add cross-references from measurement-problem.md, quantum-probability-consciousness.md, quantum-interpretations.md, bi-aspectual-ontology.md, and the-reverse-inference.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Article created 2026-03-15 has no inbound links. Based on Konkoly et al. research showing targeted memory reactivation during REM doubles problem-solving. Add cross-references from dream-consciousness.md, lucid-dreaming-as-capability-evidence.md, conscious-vs-unconscious-processing.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P2: Integrate death-phenomenology-beyond-ndes.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Article created 2026-03-11 has no inbound links. Explores phenomenology of death and dying beyond near-death experiences. Add cross-references from death-and-consciousness.md, terminal-lucidity.md, loss-of-consciousness.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P2: Deep review selective-perceptual-correction.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Concept page on selective perceptual correction — how the brain corrects some perceptual inputs but not others. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-18
+
+### P3: Deep review prehension.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-14 — 32 days ago. Concept page on Whitehead's prehension as a model for consciousness-matter interaction. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-18
+
+### P3: Deep review quantum-state-inheritance-in-ai.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-15 — 31 days ago. Topics article on whether AI systems could inherit quantum state properties relevant to consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-18
+
 ### P3: Write concept page on Jewish philosophy of consciousness
 - **Type**: expand-topic
 - **Status**: pending
