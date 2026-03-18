@@ -28,6 +28,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Deep review of the temporal void reveals three interlocking limits: consciousness is confined to a narrow present, cannot simultaneously live and measure time, and can re-inhabit the past but only imagine the future.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2034240925480734917  
 **Link**: [temporal-void](/voids/temporal-void/)
 
 ---
