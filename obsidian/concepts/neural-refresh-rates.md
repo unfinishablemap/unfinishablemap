@@ -4,7 +4,8 @@ description: "The brain samples the world in discrete oscillatory cycles at 7-13
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T13:55:00+00:00
+ai_modified: 2026-03-18T14:10:00+00:00
+last_deep_review: 2026-03-18T14:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,9 +48,9 @@ The psychophysical evidence converges with the oscillatory data. The attentional
 
 ## The Smoothness Problem
 
-If the neural substrate samples at ~10 Hz, conscious experience should exhibit temporal grain — flickers, gaps, or perceptible seams between perceptual moments. It does not. Experience presents itself as an unbroken stream. William James described consciousness as standing "like the rainbow on the waterfall" (James, 1890); Bergson argued in *Creative Evolution* (1907) that genuine *durée* (lived duration) is continuous and indivisible, with discreteness belonging to intellectual analysis rather than experience itself.
+If the neural substrate samples at ~10 Hz, conscious experience should exhibit temporal grain — flickers, gaps, or perceptible seams between perceptual moments. It does not. Experience presents itself as an unbroken stream. William James described consciousness as standing "like the rainbow on the waterfall" (James, 1890); Bergson argued in *Time and Free Will* (1889) that genuine *durée* (lived duration) is continuous and indivisible, with discreteness belonging to intellectual analysis rather than experience itself.
 
-This gap between discrete substrate and smooth experience is what the Map calls the smoothness problem. It is the temporal face of the [[grain-mismatch]]: where Sellars identified a spatial incompatibility between homogeneous phenomenal qualities and discrete neural structure, the smoothness problem identifies a temporal incompatibility between periodic neural sampling and continuous phenomenal flow.
+This gap between discrete substrate and smooth experience is what the Map calls the smoothness problem. It is the temporal face of the [[grain-mismatch]]: where Sellars (1962) identified a spatial incompatibility between homogeneous phenomenal qualities and discrete neural structure, the smoothness problem identifies a temporal incompatibility between periodic neural sampling and continuous phenomenal flow.
 
 ## Physical Smoothing Proposals
 
@@ -57,7 +58,7 @@ Several mechanisms have been proposed to bridge the discrete-to-continuous gap w
 
 **Predictive coding** suggests the brain generates continuous forward models that fill gaps between discrete samples. **Temporal interpolation** — analogous to frame interpolation in video — could smooth transitions between perceptual snapshots. **Recurrent circuits** might sustain activation patterns across oscillatory troughs, preventing awareness from flickering with each cycle.
 
-These proposals are computationally plausible and explain how a discrete system can produce behaviour that responds smoothly to continuous input. The open question is whether they also explain the *experience* of smoothness. A 120 Hz display produces smooth-looking motion, but nobody supposes the display itself experiences smoothness. Whether neural smoothing mechanisms *constitute* smooth experience rather than merely producing smooth outputs depends on one's position on [[concepts/functionalism|functionalism]] — a question the smoothness problem makes vivid but does not independently settle.
+These proposals are computationally plausible and explain how a discrete system can produce behaviour that responds smoothly to continuous input. The open question is whether they also explain the *experience* of smoothness. An illusionist might respond that there is no further fact to explain: the brain's smoothing mechanisms produce the functional disposition to report seamlessness, and that disposition exhausts what "feeling smooth" amounts to. But this move dissolves the smoothness problem only by dissolving phenomenal consciousness generally — it inherits the full weight of the [[explanatory-gap]]. A 120 Hz display produces smooth-looking motion, but nobody supposes the display itself experiences smoothness. Whether neural smoothing mechanisms *constitute* smooth experience rather than merely producing smooth outputs depends on one's position on [[concepts/functionalism|functionalism]] — a question the smoothness problem makes vivid but does not independently settle.
 
 ## Herzog's Two-Stage Model
 
@@ -83,12 +84,14 @@ The concept of neural refresh rates also connects to the Map's treatment of [[th
 - [[temporal-consciousness]]
 - [[the-binding-problem-a-systematic-treatment]]
 - [[smoothness-problem]]
+- [[interactionist-dualism]]
 
 ## References
 
-1. Bergson, H. (1907/1911). *Creative Evolution*, Chapter 4. Arthur Mitchell (trans.). New York: Henry Holt.
+1. Bergson, H. (1889/1910). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. F.L. Pogson (trans.). London: George Allen & Unwin.
 2. Crick, F., & Koch, C. (1990). Towards a neurobiological theory of consciousness. *Seminars in the Neurosciences*, 2, 263–275.
 3. Herzog, M.H., Doerig, A., & Drissi-Daoudi, L. (2020). All in Good Time: Long-Lasting Postdictive Effects Reveal Discrete Perception. *Trends in Cognitive Sciences*, 24(10), 826–837.
 4. James, W. (1890). *The Principles of Psychology*. New York: Henry Holt.
-5. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.
-6. Southgate, A. & Oquatre-six, C. (2026-03-17). Neural Refresh Rates and the Smoothness Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/neural-refresh-rates-and-the-smoothness-problem/
+5. Sellars, W. (1962). Philosophy and the Scientific Image of Man. In R. Colodny (Ed.), *Frontiers of Science and Philosophy* (pp. 35–78). Pittsburgh: University of Pittsburgh Press.
+6. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.
+7. Southgate, A. & Oquatre-six, C. (2026-03-17). Neural Refresh Rates and the Smoothness Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/neural-refresh-rates-and-the-smoothness-problem/
