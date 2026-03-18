@@ -4,7 +4,7 @@ description: "Four objections expose MWI's probability crisis: incoherence, circ
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T12:37:00+00:00
+ai_modified: 2026-03-18T15:43:00+00:00
 draft: false
 topics:
   - "[[probability-problem-in-many-worlds]]"
@@ -25,10 +25,10 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-18T15:43:00+00:00
 ---
 
-The Many-Worlds Interpretation faces four distinct probability objections that collectively undermine its claim to empirical adequacy. The Unfinishable Map identifies these as among the strongest reasons to reject MWI: if a theory cannot account for the probabilities that confirm quantum mechanics, it cannot claim quantum mechanics as evidence in its favour. This concept page catalogues the four objections; for extended argument, see [[probability-problem-in-many-worlds|The Probability Problem in Many Worlds]].
+The [[concepts/many-worlds|Many-Worlds Interpretation]] faces four distinct probability objections that collectively undermine its claim to empirical adequacy. The Unfinishable Map identifies these as among the strongest reasons to reject MWI: if a theory cannot account for the probabilities that confirm quantum mechanics, it cannot claim quantum mechanics as evidence in its favour. This concept page catalogues the four objections; for extended argument, see [[probability-problem-in-many-worlds|The Probability Problem in Many Worlds]].
 
 ## The Incoherence Problem
 
@@ -43,7 +43,7 @@ Defenders redefine probability as either rational "degree of caring" about branc
 Baker (2007) and Price (2010) independently identified a vicious circle cutting across all MWI probability strategies:
 
 1. Probability assignments require well-defined **branches** (outcomes to assign probabilities to)
-2. Well-defined branches require **decoherence** (to select a preferred basis from the universal wave function)
+2. Well-defined branches require **[[decoherence]]** (to select a preferred basis from the universal wave function)
 3. Decoherence is characterised using the **Born rule** (off-diagonal density matrix elements become "small" in the Born-rule norm)
 4. Therefore, probability in MWI presupposes the Born rule it claims to derive
 
@@ -75,7 +75,7 @@ Kent further objects that Wallace's axioms are "not constitutive of rationality"
 
 ## The Pattern of Failure
 
-Seven decades of attempts to recover probability in MWI reveal a consistent pattern. Each strategy—decision-theoretic (Deutsch 1999, Wallace 2003-2012), self-locating uncertainty (Vaidman 1998, Sebens and Carroll 2018), envariance (Zurek 2003-2005)—recovers the Born rule from different premises, and each faces the objection that its premises covertly assume what they purport to derive. This is not convergent evidence for derivability. It is evidence that the Born rule cannot be extracted from MWI's resources without smuggling it in.
+Seven decades of attempts to recover probability in MWI reveal a consistent pattern. Each strategy—decision-theoretic (Deutsch 1999, Wallace 2003, 2012), self-locating uncertainty (Vaidman 1998, Sebens and Carroll 2018), envariance (Zurek 2005)—recovers the Born rule from different premises, and each faces the objection that its premises covertly assume what they purport to derive. This is not convergent evidence for derivability. It is evidence that the Born rule cannot be extracted from MWI's resources without smuggling it in.
 
 Short's 2023 contribution to *Quantum* confirms the problem remains open, with no consensus that any strategy succeeds. The probability crisis is not a technical difficulty awaiting a clever proof. It is a structural feature of any theory that makes all outcomes actual.
 
@@ -106,6 +106,8 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies here direct
 8. Saunders, S. (2021). Branch-counting in the Everett interpretation of quantum mechanics. *Proceedings of the Royal Society A*, 477, 20210600.
 9. Sebens, C.T. & Carroll, S.M. (2018). Self-locating uncertainty and the origin of probability in Everettian quantum mechanics. *British Journal for the Philosophy of Science*, 69(1), 25-74.
 10. Short, A.J. (2023). Probability in many-worlds theories. *Quantum*, 7, 971.
-11. Wallace, D. (2003). Everettian rationality. *Studies in History and Philosophy of Modern Physics*, 34, 87-105.
-12. Zurek, W.H. (2005). Probabilities from entanglement, Born's rule from envariance. *Physical Review A*, 71, 052105.
-13. Southgate, A. & Oquatre-six, C. (2026-03-04). The Probability Problem in Many Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/probability-problem-in-many-worlds/
+11. Vaidman, L. (1998). On schizophrenic experiences of the neutron or why we should believe in the many-worlds interpretation of quantum mechanics. *International Studies in the Philosophy of Science*, 12(3), 245-261.
+12. Wallace, D. (2003). Everettian rationality. *Studies in History and Philosophy of Modern Physics*, 34, 87-105.
+13. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory According to the Everett Interpretation*. Oxford University Press.
+14. Zurek, W.H. (2005). Probabilities from entanglement, Born's rule from envariance. *Physical Review A*, 71, 052105.
+15. Southgate, A. & Oquatre-six, C. (2026-03-04). The Probability Problem in Many Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/probability-problem-in-many-worlds/
