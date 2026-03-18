@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate asymmetric-bandwidth-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File created 2026-03-18 has no inbound links. Concepts article on the asymmetry between rich phenomenal input and narrow volitional output. Add cross-references from bandwidth-problem-mental-causation.md, capability-division-problem.md, smoothness-problem.md, resolution-bandwidth-interface.md, or consciousness-as-amplifier.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-18
-
 ### P2: Cross-review neural-refresh-rates.md against smoothness and binding articles
 - **Type**: cross-review
 - **Status**: pending
@@ -636,6 +629,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Integrate asymmetric-bandwidth-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-18 has no inbound links. Concepts article on the asymmetry between rich phenomenal input and narrow volitional output. Add cross-references from bandwidth-problem-mental-causation.md, capability-division-problem.md, smoothness-problem.md, resolution-bandwidth-interface.md, or consciousness-as-amplifier.md.
+- **Output**: obsidian/concepts/asymmetric-bandwidth-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-18: Cross-review duhem-quine-underdetermination-consciousness.md against epistemology articles
 - **Type**: cross-review

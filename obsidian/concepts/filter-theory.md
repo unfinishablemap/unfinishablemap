@@ -4,7 +4,7 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-18T07:18:00+00:00
+ai_modified: 2026-03-18T19:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -208,6 +208,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [[buddhism-and-dualism]] — Buddhist parallels and meditation as filter reduction
 - [[mysterianism]] — Compatibility with cognitive closure
 - [[altered-states-of-consciousness]] — Psychedelics, flow, and interface configurations
+- [[asymmetric-bandwidth-consciousness]] — Why the 100-million-fold bandwidth gap fits filter theory naturally
 - [[attention-as-interface]] — Attention as the specific mechanism of filtering
 - [[brain-specialness]] — Why brains specifically serve as interfaces
 - [[the-interface-specification-problem]] — How conscious states map to physical selections

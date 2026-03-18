@@ -4,7 +4,7 @@ description: "Even granting that consciousness can influence the brain, does the
 created: 2026-02-23
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-03-18T14:40:00+00:00
+ai_modified: 2026-03-18T19:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +19,7 @@ concepts:
   - "[[psychophysical-coupling]]"
   - "[[attention-as-interface]]"
   - "[[selection-laws]]"
+  - "[[asymmetric-bandwidth-consciousness]]"
   - "[[epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
@@ -61,7 +62,7 @@ This gives the bandwidth problem its force: the mismatch between the information
 
 The Map's [[resolution-void|resolution void]] formalises the broader context: consciousness discards 99.9999% of available sensory information, operating at a resolution orders of magnitude coarser than the brain's processing grain. The bandwidth problem is the downward-direction consequence of this gap — the challenge of using a low-resolution selection channel to influence a high-resolution execution system.
 
-The [[bandwidth-of-consciousness|asymmetric bandwidth of consciousness]] sharpens the puzzle further. The same interface that delivers ~10⁹ bits per second of sensory experience transmits only ~10 bits per second of volitional influence — a ratio of 100 million to one. This eight-order-of-magnitude gap suggests the outbound channel is not a degraded version of the inbound channel but a fundamentally different kind of operation. A system that *computed* its outputs should scale throughput with its processing resources; a system that *selects* among pre-computed options needs only enough bandwidth to make choices.
+The [[asymmetric-bandwidth-consciousness|asymmetric bandwidth of consciousness]] sharpens the puzzle further. The same interface that delivers ~10⁹ bits per second of sensory experience transmits only ~10 bits per second of volitional influence — a ratio of 100 million to one. This eight-order-of-magnitude gap suggests the outbound channel is not a degraded version of the inbound channel but a fundamentally different kind of operation. A system that *computed* its outputs should scale throughput with its processing resources; a system that *selects* among pre-computed options needs only enough bandwidth to make choices.
 
 ## Two Failed Responses
 

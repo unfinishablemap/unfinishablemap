@@ -4,7 +4,7 @@ description: "Consciousness's coarseness is not a defect but an architectural re
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-12T01:20:00+00:00
+ai_modified: 2026-03-18T19:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,6 +12,7 @@ topics:
   - "[[attention-and-the-consciousness-interface]]"
 concepts:
   - "[[bandwidth-problem-mental-causation]]"
+  - "[[asymmetric-bandwidth-consciousness]]"
   - "[[attention-as-interface]]"
   - "[[consciousness-selecting-neural-patterns]]"
   - "[[interactionist-dualism]]"
@@ -53,7 +54,7 @@ The resolution void creates this abstraction. By compressing eleven million bits
 
 ## The Division of Labour
 
-The [[bandwidth-of-consciousness|bandwidth asymmetry]] — 10⁹ bits per second inbound, 10¹ outbound — defines a division of labour between brain and consciousness that the Map's interactionist framework requires.
+The [[asymmetric-bandwidth-consciousness|bandwidth asymmetry]] — 10⁹ bits per second inbound, 10¹ outbound — defines a division of labour between brain and consciousness that the Map's interactionist framework requires.
 
 The brain's role: generate, evaluate, and prepare candidate action sequences at full computational bandwidth. Translate goals into motor plans. Compute sensory predictions. Maintain homeostasis. Execute overlearned skills. All of this proceeds at billions of bits per second, unconsciously.
 

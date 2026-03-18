@@ -3,7 +3,7 @@ title: "The Bandwidth of Consciousness"
 created: 2026-02-09
 modified: 2026-03-04
 human_modified: null
-ai_modified: 2026-03-10T16:09:00+00:00
+ai_modified: 2026-03-18T19:05:00+00:00
 draft: false
 description: "The 100-million-fold gap between sensory input and conscious output reveals the shape of the mind-brain interface—a selection channel, not a production line."
 topics:
@@ -25,6 +25,7 @@ concepts:
   - "[[downward-causation]]"
   - "[[phenomenal-overflow]]"
   - "[[access-consciousness]]"
+  - "[[asymmetric-bandwidth-consciousness]]"
   - "[[global-workspace-theory]]"
   - "[[causal-closure]]"
   - "[[libet-experiments]]"
@@ -192,6 +193,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 
 ## Further Reading
 
+- [[asymmetric-bandwidth-consciousness]] — The 100-million-fold inbound/outbound asymmetry as a defining interface feature
 - [[bandwidth-problem-mental-causation]] — Whether 10 bits/second suffices for complex behaviour
 - [[attention-and-the-consciousness-interface]] — How the interface operates through attention and motor planning
 - [[attentional-economics]] — Agency as allocation of the scarce conscious resource

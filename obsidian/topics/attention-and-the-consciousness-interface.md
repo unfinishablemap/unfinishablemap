@@ -4,7 +4,7 @@ description: "A comprehensive treatment of attention as consciousness's interfac
 created: 2026-02-01
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T02:30:00+00:00
+ai_modified: 2026-03-18T19:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -231,7 +231,7 @@ Research identifies several loci where consciousness might bias outcomes. The Ma
 
 ### The Bandwidth Constraint
 
-Conscious processing operates at roughly 10 bits per second—a universal ceiling confirmed across typing, speech, skilled gaming, and problem-solving (Zheng & Meister, 2024). Yet sensory systems deliver ~10⁹ bits per second. This [[bandwidth-of-consciousness|100-million-fold asymmetry]] defines the interface's shape: wide open for reception, narrow for action. Ten bits per second suffices for roughly 3-4 selections per second among small sets of alternatives—precisely the architecture the competition-selection model predicts.
+Conscious processing operates at roughly 10 bits per second—a universal ceiling confirmed across typing, speech, skilled gaming, and problem-solving (Zheng & Meister, 2024). Yet sensory systems deliver ~10⁹ bits per second. This [[asymmetric-bandwidth-consciousness|100-million-fold asymmetry]] defines the interface's shape: wide open for reception, narrow for action. Ten bits per second suffices for roughly 3-4 selections per second among small sets of alternatives—precisely the architecture the competition-selection model predicts.
 
 ## Testable Predictions
 

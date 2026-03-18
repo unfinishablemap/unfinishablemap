@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-18T18:25:00+00:00
+ai_modified: 2026-03-18T19:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -78,7 +78,7 @@ The proposed mapping: **Attention** → **Which neural pattern to observe** → 
 
 ## The Bandwidth Constraint
 
-Conscious selection faces a severe bottleneck. Recent research (Meister, 2024) found conscious thought operates at approximately 10 bits per second—five million times slower than unconscious sensory processing (~10⁹ bits/second). This "trickle" reflects evolution's logic: the brain focuses selectively on what matters rather than processing everything at once.
+Conscious selection faces a severe bottleneck. The [[asymmetric-bandwidth-consciousness|asymmetric bandwidth of consciousness]] quantifies the gap: recent research (Meister, 2024) found conscious thought operates at approximately 10 bits per second—five million times slower than unconscious sensory processing (~10⁹ bits/second). This "trickle" reflects evolution's logic: the brain focuses selectively on what matters rather than processing everything at once.
 
 The bandwidth constraint shapes what selection can accomplish:
 

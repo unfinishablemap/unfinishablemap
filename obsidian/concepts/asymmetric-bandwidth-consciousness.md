@@ -4,8 +4,8 @@ description: "The consciousness-brain interface transmits vast sensory informati
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T18:39:00+00:00
-last_deep_review: 2026-03-18T18:39:00+00:00
+ai_modified: 2026-03-18T19:05:00+00:00
+last_deep_review: 2026-03-18T19:05:00+00:00
 draft: false
 topics:
   - "[[bandwidth-of-consciousness]]"

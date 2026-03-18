@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T19:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/asymmetric-bandwidth-consciousness]]
+- **Word count**: 1649 → 1649 (+0, content unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (zero inbound links, misattributed link target)
+- **Enhancements made**: 6 inbound cross-links added from related articles
+- **Files modified**: bandwidth-problem-mental-causation, bandwidth-of-consciousness, resolution-bandwidth-interface, consciousness-selecting-neural-patterns, attention-and-the-consciousness-interface, filter-theory
+- **Output**: [[reviews/deep-review-2026-03-18b-asymmetric-bandwidth-consciousness]]
+
 ## 2026-03-18T18:54:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[phenomenology-of-error-recognition]], [[phenomenology-of-self-reference]]
