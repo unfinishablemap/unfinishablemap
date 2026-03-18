@@ -34,6 +34,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
 last_deep_review: 2026-03-17T10:58:00+00:00
+archived: true
+archived_date: 2026-03-18T15:59:00+00:00
+superseded_by: "/topics/consciousness-and-memory/"
+archive_reason: "Coalesced into Consciousness and Memory"
+original_path: "/topics/memory-consolidation-and-transformation-of-experience/"
 ---
 
 A memory does not stay the same. The Unfinishable Map's treatment of [[consciousness-and-memory|consciousness and memory]] establishes that encoding requires conscious attention while consolidation proceeds without it. But consolidation is not a single event—it is a months-long process during which the phenomenal character of a memory fundamentally transforms. A childhood birthday remembered the next morning arrives with sensory vividness: the colour of the candles, the texture of the frosting, the sound of voices. Recalled years later, the same event has become schematic—a gist wrapped in emotional tone, stripped of perceptual detail. This transformation is not decay. It is an active restructuring of the relationship between physical trace and conscious experience, and it poses questions that materialism struggles to answer.
