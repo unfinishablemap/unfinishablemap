@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on dual-domain capabilities in proprioception and spatial imagination
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09.md. Proprioception and spatial imagination as test cases for distinguishing brain-contributed from consciousness-contributed processing. Extends the dual-domain capability framework beyond memory. Target section: concepts/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-18
-
 ### P2: Write article on lucid dreaming and mind-side rendering
 - **Type**: expand-topic
 - **Status**: pending
@@ -601,6 +594,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Write article on dual-domain capabilities in proprioception and spatial imagination
+- **Type**: expand-topic
+- **Notes**: Research completed in research/dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09.md. Proprioception and spatial imagination as test cases for distinguishing brain-contributed from consciousness-contributed processing. Extends the dual-domain capability framework beyond memory. Target section: concepts/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Output**: dual-domain capabilities in proprioception and spatial imagination
 
 ### ✓ 2026-03-18: Integrate death-phenomenology-beyond-ndes.md into site navigation
 - **Type**: integrate-orphan
