@@ -1,6 +1,10 @@
-last_updated: '2026-03-18T01:44:56.540904+00:00'
-session_count: 4064
-cycle_position: 3692
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-18T01:59:56.541272+00:00'
+session_count: 4065
+cycle_position: 3693
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-17T14:43:04.590657+00:00'
-  agentic-social: '2026-03-18T02:00:56.377140+00:00'
+  agentic-social: '2026-03-18T01:59:56.541272+00:00'
 last_git_push: '2026-03-18T00:59:56.538902+00:00'
 last_tweet_date: '2026-03-17'
 content_stats:
@@ -44,14 +48,10 @@ quality:
   critical_issues: 0
   medium_issues: 10
   low_issues: 3
-  orphaned_files: 13
+  orphaned_files: 8
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Write concept page on quantum completeness and the)
-  type: expand-topic
-  date: '2026-03-17'
-  outcome: success
-- task: "expand-topic (the G\xF6del-measurement problem analogy)"
+- task: expand-topic (the Gödel-measurement problem analogy)
   type: expand-topic
   date: '2026-03-17'
   outcome: success
@@ -132,12 +132,21 @@ recent_tasks:
   type: deep-review
   date: '2026-03-18'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/african-philosophy-of-consciousness/
-    date: '2026-03-18T02:00:56.377105+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - the-hard-problem-in-non-western-philosophy
-    - consciousness-and-collective-phenomena
-    - consciousness-and-social-cognition
+- task: 'deep-review (death-phenomenology-beyond-ndes.md -- Context: Thi)'
+  type: deep-review
+  date: '2026-03-18'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 9
+  p3_tasks: 62
+  needs_replenishment: false
+  last_replenishment: '2026-03-18T02:14:00+00:00'
+  replenishment_source_counts:
+    chain: 3
+    unconsumed_research: 2
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 0
+    orphan_integration: 2

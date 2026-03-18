@@ -37,6 +37,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on dual-domain capabilities in proprioception and spatial imagination
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09.md. Proprioception and spatial imagination as test cases for distinguishing brain-contributed from consciousness-contributed processing. Extends the dual-domain capability framework beyond memory. Target section: concepts/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-18
+
+### P2: Write article on lucid dreaming and mind-side rendering
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/lucid-dreaming-mind-side-rendering-2026-03-09.md. Lucid dreaming as evidence that consciousness generates experiential content independent of sensory input — the dream world is "rendered" by the mind side of the interface. Distinct from existing lucid-dreaming-as-capability-evidence.md which focuses on capability division. Target section: topics/. Supports Tenet 1 (Dualism).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-18
+
+### P2: Cross-review mind-matter-interface.md considering mathematical-structure-of-the-consciousness-physics-interface insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/mathematical-structure-of-the-consciousness-physics-interface.md (2026-03-18) formalises the interface's mathematical properties. Review mind-matter-interface.md for cross-links, consistency, and whether the new mathematical framework strengthens or constrains existing claims.
+- **Source**: chain (from mathematical-structure-of-the-consciousness-physics-interface.md)
+- **Generated**: 2026-03-18
+
+### P2: Cross-review smoothness-problem.md considering neural-refresh-rates insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/neural-refresh-rates-and-the-smoothness-problem.md (2026-03-17) addresses discrete neural timing and continuous phenomenal experience. Review smoothness-problem.md for cross-links, reinforcing arguments, and whether the refresh-rate evidence strengthens the smoothness case.
+- **Source**: chain (from neural-refresh-rates-and-the-smoothness-problem.md)
+- **Generated**: 2026-03-18
+
+### P2: Cross-review consciousness-and-the-authority-of-formal-systems.md considering Gödel-measurement analogy
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/godel-measurement-problem-analogy.md (2026-03-17) develops the structural parallel between Gödel incompleteness and the measurement problem. Review consciousness-and-the-authority-of-formal-systems.md for cross-links and whether the analogy strengthens or qualifies existing claims about formal limits.
+- **Source**: chain (from godel-measurement-problem-analogy.md)
+- **Generated**: 2026-03-18
+
+### P2: Integrate consciousness-interface-development.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-02-15 has no inbound links. Topics article on how the consciousness-brain interface develops over the lifespan. Add cross-references from related articles (developmental-trajectory-of-the-interface.md, interface-location-problem.md, brain-specialness-boundary.md) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P2: Integrate pragmatisms-path-to-dualism.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-15 has no inbound links. Topics article on pragmatist philosophy's path toward dualism. Add cross-references from related articles (epistemic-advantages-of-dualism.md, the-case-for-dualism.md, convergence-argument-for-dualism.md) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
 ### P3: Deep review prehension.md
 - **Type**: deep-review
 - **Status**: pending
