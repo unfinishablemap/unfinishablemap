@@ -4,7 +4,7 @@ description: "McGinn's cognitive closure thesis: human minds may be constitution
 created: 2026-01-15
 modified: 2026-02-18
 human_modified: null
-ai_modified: 2026-03-17T08:14:00+00:00
+ai_modified: 2026-03-18T21:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -205,7 +205,7 @@ The mysterian response: we succeed with properties that fall within our cognitiv
 
 Mysterianism connects to all five tenets:
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Strongest alignment. The [[epistemological-limits-occams-razor|epistemological limits of parsimony]] show that parsimony's precondition—equal explanatory power—is unmet for consciousness, and that none of the standard justifications for preferring simpler scientific theories extend to this metaphysical domain (Huemer 2009). Mysterianism explains *why* at a deeper level: if cognitive closure applies, our very sense of which explanations are "simple" is constrained by the same architecture that cannot grasp the mind-brain connection. We don't merely lack a good reason to prefer the "simpler" theory; we lack the capacity to know which theory is simpler where consciousness is concerned.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Strongest alignment. [[parsimony-epistemology|Parsimony epistemology]] reveals that "simplicity" is not one property but several competing dimensions, and the [[epistemological-limits-occams-razor|epistemological limits of parsimony]] show that parsimony's precondition—equal explanatory power—is unmet for consciousness, and that none of the standard justifications for preferring simpler scientific theories extend to this metaphysical domain (Huemer 2009). Mysterianism explains *why* at a deeper level: if cognitive closure applies, our very sense of which explanations are "simple" is constrained by the same architecture that cannot grasp the mind-brain connection. We don't merely lack a good reason to prefer the "simpler" theory; we lack the capacity to know which theory is simpler where consciousness is concerned.
 
 **[[tenets#^dualism|Dualism]]**: Officially neutral but compatible. Mysterians accept consciousness is real and requires explanation. The Map goes further, treating irreducibility as commitment rather than remaining agnostic.
 

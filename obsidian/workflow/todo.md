@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate parsimony-epistemology.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File created 2026-03-18 has no inbound links. Concept page on the epistemological limits of parsimony, supporting Tenet 5. Add cross-references from related articles (occams-razor, epistemic-advantages-of-dualism, parsimony-and-consciousness, consciousness-and-scientific-methodology) to integrate into the site's link network.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-18
-
 ### P2: Cross-review methodology articles considering Duhem-Quine underdetermination insights
 - **Type**: cross-review
 - **Status**: pending
@@ -650,6 +643,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Integrate parsimony-epistemology.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-18 has no inbound links. Concept page on the epistemological limits of parsimony, supporting Tenet 5. Add cross-references from related articles (occams-razor, epistemic-advantages-of-dualism, parsimony-and-consciousness, consciousness-and-scientific-methodology) to integrate into the site's link network.
+- **Output**: obsidian/concepts/parsimony-epistemology.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-18: Integrate memory-consolidation-and-transformation-of-experience.md into site navigation
 - **Type**: integrate-orphan

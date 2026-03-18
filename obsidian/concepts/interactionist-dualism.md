@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-15T01:03:00+00:00
+ai_modified: 2026-03-18T21:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -178,7 +178,7 @@ For comprehensive treatment, see [[objections-to-interactionism]]. Key responses
 - **Pairing**: Minds have spatial location—in the brain where they interact
 - **Conservation**: Consciousness selects among equal-energy outcomes; no energy added ([[conservation-laws-and-mental-causation]])
 - **Exclusion**: At quantum indeterminacies, no sufficient physical cause exists to exclude
-- **Parsimony**: A theory explaining nothing (physicalism on experience) is not parsimonious—see [[epistemological-limits-of-occams-razor|Epistemological Limits of Occam's Razor]]
+- **Parsimony**: A theory explaining nothing (physicalism on experience) is not parsimonious—see [[parsimony-epistemology]] and [[epistemological-limits-of-occams-razor|Epistemological Limits of Occam's Razor]]
 - **Evolutionary**: Phenomenal valence tracking fitness *supports* interactionism
 - **[[decoherence|Decoherence]]**: Doesn't solve the measurement problem; consciousness may bias outcomes post-decoherence
 - **Eliminativism**: Consciousness refers to what we know most directly; eliminativism about *that* is incoherent

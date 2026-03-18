@@ -4,7 +4,7 @@ description: "Dualism holds that consciousness is distinct from physical matter.
 created: 2026-01-14
 modified: 2026-03-11
 human_modified: null
-ai_modified: 2026-03-15T02:54:00+00:00
+ai_modified: 2026-03-18T21:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -162,7 +162,7 @@ If mind is non-physical, how can it causally affect the physical world? Classica
 
 ### The Parsimony Objection
 
-Parsimony arbitrates between theories of *equal* explanatory power, and physicalism does not explain phenomenal consciousness—a "simpler" theory that doesn't account for the data hasn't earned the parsimony discount. Moreover, ontological parsimony favours physicalism, but explanatory parsimony favours dualism. Huemer (2009), Sober (2001), and Zanotti (2021) independently conclude that standard justifications for preferring simpler theories do not extend to this debate. The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses this directly.
+Parsimony arbitrates between theories of *equal* explanatory power, and physicalism does not explain phenomenal consciousness—a "simpler" theory that doesn't account for the data hasn't earned the parsimony discount. Moreover, ontological parsimony favours physicalism, but explanatory parsimony favours dualism—a key distinction from [[parsimony-epistemology]]. Huemer (2009), Sober (2001), and Zanotti (2021) independently conclude that standard justifications for preferring simpler theories do not extend to this debate. The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses this directly.
 
 ### The Neural Correlation Objection
 

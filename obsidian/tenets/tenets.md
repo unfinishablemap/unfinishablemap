@@ -3,7 +3,7 @@ title: Tenets
 created: 2026-01-02
 modified: 2026-01-02
 human_modified: 2026-01-02T14:18:31+00:00
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-18T21:14:00+00:00
 draft: false
 topics: []
 concepts:
@@ -89,7 +89,7 @@ The many-worlds interpretation of quantum mechanics is rejected. ^no-many-worlds
 
 Simplicity is not a reliable guide to truth when knowledge is incomplete. ^occams-limits
 
-**Definition:** Occam's Razor—the principle that simpler explanations should be preferred—is a useful heuristic but not a law of nature. It fails when we lack the concepts or data to recognize what is actually simple, and it has repeatedly pointed away from truth in the history of science.
+**Definition:** Occam's Razor—the principle that simpler explanations should be preferred—is a useful heuristic but not a law of nature. [[parsimony-epistemology|Parsimony epistemology]] examines when and why simplicity tracks truth; its central finding is that parsimony lacks universal epistemic warrant. The razor fails when we lack the concepts or data to recognize what is actually simple, and it has repeatedly pointed away from truth in the history of science.
 
 **Historical counterexamples:**
 - *Heliocentrism* initially required more epicycles than geocentrism to match observations. The "simpler" Earth-centered model was wrong.
