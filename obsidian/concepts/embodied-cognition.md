@@ -4,7 +4,7 @@ description: "Cognition depends on the body and extends into the environment. Th
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-10T01:11:00+00:00
+ai_modified: 2026-03-18T22:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -201,6 +201,7 @@ The key point: embodied cognition challenges a specific historical position (Car
 - [[consciousness-and-skilled-performance|phenomenology of flow states]] — Flow as transformed consciousness, not diminished consciousness
 - [[symbol-grounding-problem]] — Why disembodied symbol manipulation lacks semantic grounding
 - [[consciousness-and-the-phenomenology-of-place]] — Embodied spatial engagement and the atmosphere of places
+- [[phenomenology-of-embodiment-under-dualism]] — What embodiment feels like from the first person: ownership, agency, absence, and pain
 
 ## References
 

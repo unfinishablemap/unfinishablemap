@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18 22:42 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-embodiment-under-dualism]]
+- **Word count**: 2003 → 2020 (+17)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphan integration, missing wikilinks)
+- **Enhancements made**: 8 inbound cross-links added from existing articles
+- **Output**: [[reviews/deep-review-2026-03-18-phenomenology-of-embodiment-under-dualism]]
+
 ## 2026-03-18 22:32 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[selection-laws]]

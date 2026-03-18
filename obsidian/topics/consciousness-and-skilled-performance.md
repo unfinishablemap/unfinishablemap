@@ -4,7 +4,7 @@ description: "Skill acquisition, mastery, flow, and restructuring reveal conscio
 created: 2026-02-02
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-15T05:15:00+00:00
+ai_modified: 2026-03-18T22:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -161,6 +161,7 @@ The strongest physicalist counterargument is that executive attention networks a
 - [[choking-phenomenon-mental-causation]] — When consciousness disrupts the body it trained
 - [[embodied-consciousness-and-the-interface]] — The 4E framework and the interface reading
 - [[sensorimotor-contingencies-and-the-interface]] — Perception as mastery of sensorimotor laws
+- [[phenomenology-of-embodiment-under-dualism]] — Bodily absence, ownership, and what embodiment feels like from the inside
 - [[phenomenology-of-intellectual-effort]] — The cognitive dimension of effortful learning
 - [[contemplative-training-and-phenomenal-access]] — Meditation as a parallel case of trained skill
 - [[conscious-vs-unconscious-processing]] — Empirical evidence on consciousness-requiring functions

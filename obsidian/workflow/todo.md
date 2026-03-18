@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenology-of-embodiment-under-dualism.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has only 1 inbound link (created 2026-03-15). Add cross-references from related articles on embodied cognition, the consciousness interface, sensorimotor contingencies, and interoception content.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-18
-
 ### P2: Integrate illusionism-as-epiphenomenalism-in-disguise.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -668,6 +661,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Integrate phenomenology-of-embodiment-under-dualism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link (created 2026-03-15). Add cross-references from related articles on embodied cognition, the consciousness interface, sensorimotor contingencies, and interoception content.
+- **Output**: obsidian/topics/phenomenology-of-embodiment-under-dualism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-18: Integrate parsimony-epistemology.md into site navigation
 - **Type**: integrate-orphan

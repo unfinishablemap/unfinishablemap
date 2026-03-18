@@ -4,7 +4,7 @@ description: "Proprioception and spatial imagination each require contributions 
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T07:18:00+00:00
+ai_modified: 2026-03-18T22:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -113,6 +113,7 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 - [[three-dimensional-world-representation-problem]] — The puzzle of phenomenal spatial experience
 - [[lucid-dreaming-and-dualist-rendering]] — Dreams as evidence for consciousness-generated spatial content
 - [[phenomenal-binding-and-multimodal-integration]] — How separate modalities unify into spatial experience
+- [[phenomenology-of-embodiment-under-dualism]] — The phenomenology of lived embodiment: ownership, agency, bodily absence, and the Leib/Körper distinction
 
 ## References
 

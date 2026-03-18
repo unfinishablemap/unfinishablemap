@@ -4,7 +4,7 @@ description: "The body shapes how consciousness engages matter without producing
 created: 2026-02-09
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-18T16:06:00+00:00
+ai_modified: 2026-03-18T22:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -157,6 +157,7 @@ There is also a deeper question the interface reading cannot answer: even if emb
 - [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]] — Proprioception and spatial imagination as dual-domain capabilities supporting the interface reading
 - [[somatic-interface]] — The body's internal sensing channels as structured interface substrate
 - [[consciousness-and-the-phenomenology-of-place]] — How the interface manifests in the felt character of being in a place
+- [[phenomenology-of-embodiment-under-dualism]] — The first-person phenomenology of bodily experience: ownership, agency, absence, and pain
 
 ## References
 
