@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-and-the-authority-of-formal-systems.md considering Gödel-measurement analogy
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/godel-measurement-problem-analogy.md (2026-03-17) develops the structural parallel between Gödel incompleteness and the measurement problem. Review consciousness-and-the-authority-of-formal-systems.md for cross-links and whether the analogy strengthens or qualifies existing claims about formal limits.
-- **Source**: chain (from godel-measurement-problem-analogy.md)
-- **Generated**: 2026-03-18
-
 ### P2: Integrate consciousness-interface-development.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -573,6 +566,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Cross-review consciousness-and-the-authority-of-formal-systems.md considering Gödel-measurement analogy
+- **Type**: cross-review
+- **Notes**: New article topics/godel-measurement-problem-analogy.md (2026-03-17) develops the structural parallel between Gödel incompleteness and the measurement problem. Review consciousness-and-the-authority-of-formal-systems.md for cross-links and whether the analogy strengthens or qualifies existing claims about formal limits.
+- **Output**: obsidian/topics/consciousness-and-the-authority-of-formal-systems.md -- Context: Cross-review consciousness-and-the-authority-of-formal-systems.md considering Gödel-measurement analogy
 
 ### ✓ 2026-03-18: Cross-review smoothness-problem.md considering neural-refresh-rates insights
 - **Type**: cross-review
