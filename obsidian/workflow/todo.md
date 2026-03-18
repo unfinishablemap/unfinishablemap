@@ -58,6 +58,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from duhem-quine-underdetermination-consciousness.md)
 - **Generated**: 2026-03-18
 
+### P2: Address circular reasoning and observational closure tension in the-epiphenomenalist-threat.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two high-severity issues: (1) functionalism critique begs the question by assuming phenomenal realism—needs independent argument or conditional framing; (2) observational closure claim is in tension with empirical appeals about decoherence—needs clarification of what role empirical evidence plays. See pessimistic-2026-03-18-late.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-18
+
 ### P2: Cross-review epistemology articles considering parsimony-epistemology concept
 - **Type**: cross-review
 - **Status**: pending
