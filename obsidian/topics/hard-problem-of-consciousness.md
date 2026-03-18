@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-03-15T07:00:00+00:00
+ai_modified: 2026-03-18T15:35:00+00:00
 draft: false
 topics: []
 concepts:
@@ -49,6 +49,8 @@ concepts:
   - "[[working-memory]]"
   - "[[intrinsic-nature-void]]"
   - "[[emergence-void]]"
+  - "[[meta-problem-of-consciousness]]"
+  - "[[phenomenal-concepts-strategy]]"
 related_articles:
   - "[[tenets]]"
   - "[[mysterianism]]"
@@ -71,7 +73,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-06
 last_curated:
-last_deep_review: 2026-03-03T17:41:00+00:00
+last_deep_review: 2026-03-18T15:35:00+00:00
 ---
 
 Why is there something it is like to be you?
@@ -148,9 +150,9 @@ Research on [[neural-correlates-of-consciousness|neural correlates of consciousn
 
 **Eliminativism** (Churchland) argues not that we lack brain states, but that "phenomenal consciousness" *misdescribes* them—our folk-psychological concept of experience is confused, much as "phlogiston" misdescribed combustion. The challenge: the analogy is asymmetric. Phlogiston was inferred from observable behaviour, while experience is what observation itself is *like*. The eliminativist must use experiential concepts to argue those concepts are empty—a potentially self-undermining move, though eliminativists dispute this characterisation.
 
-**[[illusionism|Illusionism]]** (Frankish, Dennett) claims phenomenal consciousness is a "user illusion"—the brain represents itself as having rich qualitative states that don't exist as such. This trades the hard problem for an illusion problem: explaining why the brain generates this meta-representation requires accounting for the *seeming*, and seeming is itself experiential. Illusionism may not eliminate the explanatory gap but relocate it.
+**[[illusionism|Illusionism]]** (Frankish, Dennett) claims phenomenal consciousness is a "user illusion"—the brain represents itself as having rich qualitative states that don't exist as such. This trades the hard problem for an illusion problem: explaining why the brain generates this meta-representation requires accounting for the *seeming*, and seeming is itself experiential. The [[meta-problem-of-consciousness|metaproblem of consciousness]] sharpens this critique: illusionism must explain why problem intuitions precisely track the explanatory gap—an escalating burden that [[metaproblem-of-consciousness-under-dualism|interactionism dissolves]], since consciousness causally informs the very reasoning that generates those intuitions.
 
-**The phenomenal concepts strategy** (Loar 1990, Papineau 2002, Balog) is arguably the strongest physicalist response. Consciousness *is* brain activity, but we possess distinctive recognitional concepts for experience that make true psychophysical identities *feel* contingent—generating an *appearance* of an explanatory gap where none exists in nature. Papineau (2002) argues these concepts are demonstrative—"that type of experience"—and their special character derives from referential directness, not from irreducible phenomenal properties. The dualist rejoinder: the demonstrative "that" must pick out its referent somehow, and if what it picks out *is* a phenomenal property, the explanation presupposes what it seeks to reduce. The circularity worry resurfaces at the level of reference itself—the strategy needs a non-circular account of how phenomenal concepts acquire their distinctive character, and no such account has been provided without implicitly appealing to phenomenal experience.
+**The [[phenomenal-concepts-strategy]]** (Loar 1990, Papineau 2002, Balog) is arguably the strongest physicalist response. Consciousness *is* brain activity, but we possess distinctive recognitional concepts for experience that make true psychophysical identities *feel* contingent—generating an *appearance* of an explanatory gap where none exists in nature. Papineau (2002) argues these concepts are demonstrative—"that type of experience"—and their special character derives from referential directness, not from irreducible phenomenal properties. The dualist rejoinder: the demonstrative "that" must pick out its referent somehow, and if what it picks out *is* a phenomenal property, the explanation presupposes what it seeks to reduce. No account of how phenomenal concepts acquire their distinctive character avoids implicitly appealing to phenomenal experience.
 
 **[[reductionism|Reductive physicalism]]** claims consciousness *is* brain activity, as water is H₂O. Unlike water=H₂O, the identity seems not to explain: we understand why H₂O has water's macroscopic properties through structural derivation, but no analogous derivation bridges neural activity and felt quality.
 
