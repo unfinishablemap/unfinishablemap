@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-14 21:03:00+00:00
+ai_modified: 2026-03-18 19:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,7 +29,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[concepts/materialism]]'
-- '[[epiphenomenalism-argument]]'
+- '[[epiphenomenalism]]'
 title: Against Functionalism
 topics:
 - '[[hard-problem-of-consciousness]]'

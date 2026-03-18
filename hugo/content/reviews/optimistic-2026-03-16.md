@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_system: claude-opus-4-6
 concepts: []
 created: 2026-03-16
-date: '2026-03-16'
+date: '2026-03-18'
 draft: false
 related_articles: []
 title: Optimistic Review - 2026-03-16
@@ -124,7 +124,7 @@ The voids section is the Map's most distinctive contribution to intellectual hum
 | [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/) | [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-deliberation/) | Moral deliberation involves counterfactual evaluation of alternative actions—the counterfactual workspace is the cognitive infrastructure for moral reasoning |
 | [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) | [transparency-void](/voids/transparency-void/) | Phenomenal transparency (experience conceals its representational nature) is directly relevant to why we find consciousness mysterious |
 | temporal-consciousness-and-the-specious-present | [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/) | Counterfactual reasoning requires temporal integration (holding what-is and what-might-have-been simultaneously)—temporal consciousness provides the workspace |
-| [decoherence](/concepts/decoherence/) | [many-worlds-argument](/arguments/many-worlds-argument/) | Decoherence's failure to solve the measurement problem directly motivates rejection of many-worlds (which claims decoherence is all that's needed) |
+| [decoherence](/concepts/decoherence/) | [many-worlds](/concepts/many-worlds/) | Decoherence's failure to solve the measurement problem directly motivates rejection of many-worlds (which claims decoherence is all that's needed) |
 | [knowledge-argument](/concepts/knowledge-argument/) | [mathematical-void](/voids/mathematical-void/) | Mary's Room is an instance of the broader pattern: formal knowledge cannot capture experiential knowledge. The mathematical void extends this to mathematical intuition |
 | [consciousness-independent-baseline-cognition](/concepts/baseline-cognition/) | [phenomenology-of-moral-deliberation](/topics/phenomenology-of-moral-deliberation/) | Great ape cognition lacks moral deliberation—another capacity requiring conscious workspace, supporting the same baseline/consciousness distinction |
 

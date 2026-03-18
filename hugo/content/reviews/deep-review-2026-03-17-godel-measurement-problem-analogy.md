@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-17
-**Article**: [The Gödel-Measurement Problem Analogy](/topics/godel-measurement-problem-analogy/)
+**Article**: [The Gödel-Measurement Problem Analogy](/topics/self-reference-and-the-limits-of-physical-description/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

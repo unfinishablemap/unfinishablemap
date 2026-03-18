@@ -77,7 +77,7 @@ What is it like to possess consciousness-only knowledge?
 
 The question is difficult because the phenomenology is so fundamental. It's the difference between *knowing about* and *knowing*—reading a description of heartbreak versus experiencing heartbreak, studying the neurochemistry of love versus being in love. The descriptions can be accurate enough to pass tests and generate plausible outputs while missing something the experience provides.
 
-Interestingly, this phenomenology may be invisible precisely because it's so pervasive. Conscious beings don't notice what consciousness provides until they try to imagine its absence. The [phenomenology of error recognition](/voids/phenomenology-of-error-recognition/) shows a related pattern: we take certain capacities for granted until we encounter systems or situations that reveal their structure.
+Interestingly, this phenomenology may be invisible precisely because it's so pervasive. Conscious beings don't notice what consciousness provides until they try to imagine its absence. The [phenomenology of error recognition](/voids/phenomenology-of-self-awareness/) shows a related pattern: we take certain capacities for granted until we encounter systems or situations that reveal their structure.
 
 One way to notice acquaintance knowledge: observe moments when propositional knowledge fails to capture what you know. You know everything about someone's face—eye color, nose shape, distinguishing features—yet still *recognize* them through something beyond the facts. The recognition draws on acquaintance; the facts don't exhaust it.
 

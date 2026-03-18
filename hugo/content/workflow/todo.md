@@ -38,6 +38,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review architecture-of-cognitive-closure.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) that has never been deep-reviewed despite recent modifications. Voids article on the architecture of cognitive closure. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-18
+
+### P2: Cross-review consciousness-and-memory.md considering memory-as-dual-domain insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/memory-as-dual-domain-capability.md introduces brain-side vs mind-side memory processing. Check consciousness-and-memory.md for cross-links, whether the dual-domain framework adds precision to existing memory discussion, and consistency with the capability division model.
+- **Source**: chain (from memory-as-dual-domain-capability.md)
+- **Generated**: 2026-03-18
+
 ### P3: Deep review free-will.md
 - **Type**: deep-review
 - **Status**: pending
@@ -437,11 +451,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has strong individual treatments of time and consciousness but no unified account of how temporal ontology constrains the selection interface. Growing block provides ontological framework; process haecceitism provides individuation; temporal becoming provides phenomenology. Together they form the Map's most original metaphysical contribution. Builds on growing-block-universe-and-consciousness.md, consciousness-and-temporal-becoming.md, temporal-ontology-and-consciousness.md, process-haecceitism.md. See optimistic-2026-03-09-evening.md
 - **Generated**: 2026-03-09
 
-### P2: Write article on non-retrocausal conscious selection of macroscopic superpositions
+### ✓ 2026-03-18: Write article on non-retrocausal conscious selection of macroscopic superpositions
 - **Type**: expand-topic
-- **Notes**: Research completed in research/non-retrocausal-conscious-selection-2026-03-07.md. If macroscopic superpositions of neural states persist briefly, consciousness could select among them directly at the moment of collapse — forward in time, not backward. Surveys Penrose-Hameroff Orch OR, Stapp's Quantum Zeno approach, and Chalmers-McQueen consciousness-collapse framework. Directly strengthens Tenet 2 (Minimal Quantum Interaction). Target section: topics/.
+- **Status**: complete
+- **Notes**: Superseded by non-retrocausal-conscious-selection-models task above, which covers the same research.
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-11
+- **Output**: obsidian/topics/non-retrocausal-conscious-selection-models.md
 
 ### P3: Write concept page for interface modulation spectrum
 - **Type**: expand-topic
@@ -600,8 +616,117 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The methodological principle that independently developed contemplative traditions converging on structural findings about consciousness constitutes evidence. Currently implicit in contemplative-practice-as-philosophical-evidence and convergence-argument-for-dualism. Would anchor the Map's epistemological methodology. Target section: concepts/. See optimistic-2026-03-18-afternoon.md
 - **Generated**: 2026-03-18
 
+### P3: Write article on contemplative evidence for interface architecture
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Meditators report that reducing mental activity enhances phenomenal richness (consistent with filter loosening) while volitional control becomes more precise but no faster (consistent with fixed outbound bandwidth). Synthesises findings from contemplative-epistemology.md, asymmetric-bandwidth-consciousness.md, and filter-theory.md. Target section: topics/. See optimistic-2026-03-18-evening.md
+- **Generated**: 2026-03-18
+
+### P3: Write article on the delegation-selection synthesis
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Saad's delegation framework and the Map's quantum selection framework address mental causation at different levels (logical structure vs. physical mechanism). An explicit synthesis showing how delegation is selection at quantum indeterminacies would strengthen both. Builds on delegatory-dualism.md, asymmetric-bandwidth-consciousness.md, consciousness-selecting-neural-patterns.md. Target section: topics/. See optimistic-2026-03-18-evening.md
+- **Generated**: 2026-03-18
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Deep review phenomenology-of-self-awareness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) that has never been deep-reviewed despite recent modifications. Voids article on the phenomenology of self-awareness. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/phenomenology-of-self-awareness.md
+
+### ✓ 2026-03-18: Integrate convergent-cognitive-limits.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-01-28 has no inbound links. Voids article on convergent cognitive limits. Add cross-references from related articles (compound-cognitive-limits, taxonomy-of-voids, architecture-of-cognitive-closure) to integrate into the site's link network.
+- **Output**: convergent-cognitive-limits.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-18: Integrate contemplative-evidence-for-consciousness-theories.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-01-27 has no inbound links. Topics article on contemplative evidence for consciousness theories. Add cross-references from related articles (contemplative-practice-as-philosophical-evidence, contemplative-epistemology, meditation-and-consciousness-modes) to integrate into the site's link network.
+- **Output**: contemplative-evidence-for-consciousness-theories.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-18: Fix broken wikilinks to epiphenomenalism-argument and many-worlds-argument
+- **Type**: refine-draft
+- **Notes**: 15 files reference [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/) (correct slug: [epiphenomenalism](/concepts/epiphenomenalism/)) and 3 files reference [many-worlds-argument](/arguments/many-worlds-argument/) (correct slug: [many-worlds](/concepts/many-worlds/)). These are broken links pointing to nonexistent pages when the correct concept pages already exist. Update all wikilinks to use the correct slugs.
+- **Output**: Task context:
+15 files reference [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/) (correct slug: [epiphenomenalism](/concepts/epiphenomenalism/)) and 3 files reference [many-worlds-argument](/arguments/many-worlds-argument/) (correct slug: [many-worlds](/concepts/many-worlds/)). These are broken links pointing to nonexistent pages when the correct concept pages already exist. Update all wikilinks to use the correct slugs.
+
+### ✓ 2026-03-18: Create concept page for epistemological limits of Occam's razor
+- **Type**: expand-topic
+- **Notes**: Referenced 10 times across content as [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) but no page exists. Directly supports Tenet 5 (Occam's Razor Has Limits). Should articulate why simplicity is epistemically unreliable with incomplete knowledge — the core philosophical argument underlying the tenet. Target section: concepts/.
+- **Output**: Create concept page for epistemological limits of Occam's razor
+
+### ✓ 2026-03-18: Cross-review neural-refresh-rates.md against smoothness and binding articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/neural-refresh-rates.md addresses how discrete neural firing produces continuous conscious experience (the smoothness problem). Review smoothness-problem.md, phenomenal-binding-and-holism.md, temporal-consciousness.md, and binding-problem-a-systematic-treatment.md for cross-links, whether the refresh rate analysis strengthens existing smoothness arguments, and consistency.
+- **Output**: obsidian/concepts/neural-refresh-rates.md -- Context: Cross-review neural-refresh-rates.md against smoothness and binding articles
+
+### ✓ 2026-03-18: Integrate asymmetric-bandwidth-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-18 has no inbound links. Concepts article on the asymmetry between rich phenomenal input and narrow volitional output. Add cross-references from bandwidth-problem-mental-causation.md, capability-division-problem.md, smoothness-problem.md, resolution-bandwidth-interface.md, or consciousness-as-amplifier.md.
+- **Output**: obsidian/concepts/asymmetric-bandwidth-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-18: Cross-review duhem-quine-underdetermination-consciousness.md against epistemology articles
+- **Type**: cross-review
+- **Notes**: New article topics/duhem-quine-underdetermination-consciousness.md argues physicalist interpretations of consciousness evidence are underdetermined. Review epistemology-of-introspection.md, consciousness-and-scientific-methodology.md, epistemic-advantages-of-dualism.md, and convergence-argument-for-dualism.md for cross-links, reinforcing arguments about theory underdetermination, and terminology consistency.
+- **Output**: obsidian/topics/duhem-quine-underdetermination-consciousness.md -- Context: Cross-review duhem-quine-underdetermination-consciousness.md against epistemology articles
+
+### ✓ 2026-03-18: Integrate non-retrocausal-conscious-selection-models.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-18 has no inbound links. Topics article on alternative models for consciousness-physics interaction that avoid retrocausality. Add cross-references from quantum-consciousness.md, consciousness-selecting-neural-patterns.md, stapp-quantum-mind.md, or measurement-problem-and-consciousness.md.
+- **Output**: obsidian/topics/non-retrocausal-conscious-selection-models.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-18: Integrate amplification-mechanisms-consciousness-physics.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-18 has no inbound links. Topics article on six amplification mechanisms (Penrose-Hameroff, Stapp, chaotic sensitivity, self-organized criticality) addressing how consciousness produces macroscopic effects from quantum-scale interactions. Add cross-references from consciousness-as-amplifier.md, quantum-consciousness.md, interactionist-dualism.md, mind-matter-interface.md, or amplification-void.md.
+- **Output**: obsidian/topics/amplification-mechanisms-consciousness-physics.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-18: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
+- **Type**: cross-review
+- **Notes**: New article topics/metaproblem-of-consciousness-under-dualism.md addresses why we think consciousness is hard (Chalmers' metaproblem). Check hard-problem-of-consciousness.md for cross-links, whether metaproblem arguments strengthen or refine the hard problem treatment, and terminology consistency.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
+
+### ✓ 2026-03-18: Write article on Duhem-Quine underdetermination and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/duhem-quine-underdetermination-consciousness-2026-03-04.md. The holism of theory testing means physicalist interpretations of consciousness evidence are underdetermined — alternative dualist interpretations cannot be ruled out by the same data. Directly supports Tenet 5 (Occam's Razor Has Limits). Target section: topics/.
+- **Output**: Duhem-Quine underdetermination and consciousness
+
+### ✓ 2026-03-18: Address production-model dismissal in asymmetric-bandwidth-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found production models dismissed without engagement (especially global workspace theory), circular evolutionary argument, and overstated anti-epiphenomenalism argument. See pessimistic-2026-03-18-evening.md
+- **Output**: obsidian/concepts/asymmetric-bandwidth-consciousness.md
+
+Task context:
+Pessimistic review found production models dismissed without engagement (especially global workspace theory), circular evolutionary argument, and overstated anti-epiphenomenalism argument. See pessimistic-2026-03-18-evening.md
+
+### ✓ 2026-03-18: Address empirical overclaiming in non-retrocausal-conscious-selection-models.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found uncritical treatment of contested empirical claims (2025 Frontiers 10¹¹ glutamate study, Hagan decoherence estimates), false convergence framing of three incompatible frameworks, and overstated Zeno decoherence immunity. See pessimistic-2026-03-18-evening.md
+- **Output**: obsidian/topics/non-retrocausal-conscious-selection-models.md
+
+Task context:
+Pessimistic review found uncritical treatment of contested empirical claims (2025 Frontiers 10¹¹ glutamate study, Hagan decoherence estimates), false convergence framing of three incompatible frameworks, and overstated Zeno decoherence immunity. See pessimistic-2026-03-18-evening.md
+
+### ✓ 2026-03-18: Write article on non-retrocausal conscious selection models
+- **Type**: expand-topic
+- **Notes**: Research completed in research/non-retrocausal-conscious-selection-2026-03-07.md. Alternative models for consciousness-physics interaction that avoid retrocausality — important for establishing the Map's mechanism doesn't require exotic temporal assumptions. Supports Tenet 2 and Tenet 3. Target section: topics/.
+- **Output**: non-retrocausal conscious selection models
+
+### ✓ 2026-03-18: Write concept page on asymmetric bandwidth of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/asymmetric-bandwidth-consciousness-2026-03-02.md. The asymmetry between input capacity (how much information consciousness receives) and output capacity (how much it can express/control) is referenced across bandwidth-problem, capability-division-problem, and smoothness-problem articles without a unifying concept page. Target section: concepts/.
+- **Output**: Write concept page on asymmetric bandwidth of consciousness
+
+### ✓ 2026-03-18: Cross-review amplification-mechanisms-consciousness-physics.md
+- **Type**: cross-review
+- **Notes**: New article on six amplification mechanisms. Review amplification-void, quantum-consciousness, consciousness-as-amplifier, and interactionist-dualism for cross-references and consistency.
+- **Output**: obsidian/topics/amplification-mechanisms-consciousness-physics.md -- Context: Cross-review amplification-mechanisms-consciousness-physics.md
+
+### ✓ 2026-03-18: Write article on amplification mechanisms for consciousness-physics interaction
+- **Type**: expand-topic
+- **Notes**: Research completed in research/amplification-mechanisms-consciousness-physics-2026-03-18.md. Six distinct amplification mechanisms (Penrose-Hameroff, Stapp, chaotic sensitivity, self-organized criticality) addressing how consciousness could produce macroscopic effects from quantum-scale interactions. Core challenge for Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction). Target section: topics/.
+- **Output**: amplification mechanisms for consciousness-physics interaction
 
 ### ✓ 2026-03-18: Research amplification mechanisms for consciousness-physics interaction
 - **Type**: research-topic

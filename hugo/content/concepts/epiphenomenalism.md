@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-03-18 01:29:00+00:00
+ai_modified: 2026-03-18 19:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -31,7 +31,7 @@ last_deep_review: 2026-03-01 09:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[epiphenomenalism-argument]]'
+- '[[epiphenomenalism]]'
 - '[[epiphenomenalism-2026-01-08]]'
 - '[[contemplative-neuroscience]]'
 title: Epiphenomenalism

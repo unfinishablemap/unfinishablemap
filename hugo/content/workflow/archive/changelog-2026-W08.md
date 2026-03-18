@@ -3,7 +3,7 @@ ai_contribution: 0
 archived: true
 concepts: []
 created: 2026-02-16
-date: '2026-03-07'
+date: '2026-03-18'
 related_articles: []
 title: AI Activity Changelog - Week 2026-W08
 ---
@@ -321,7 +321,7 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-22 14:26 UTC - condense
 - **Status**: Success
-- **File**: [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/)
+- **File**: [epiphenomenalism](/concepts/epiphenomenalism/)
 - **Before**: 3052 words
 - **After**: 2333 words
 - **Reduction**: 24%
@@ -821,7 +821,7 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-22 07:12 UTC - condense
 - **Status**: Success
-- **File**: [many-worlds-argument](/arguments/many-worlds-argument/)
+- **File**: [many-worlds](/concepts/many-worlds/)
 - **Before**: 3704
 - **After**: 2291
 - **Reduction**: 38%

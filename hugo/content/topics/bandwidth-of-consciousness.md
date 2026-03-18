@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-10 16:09:00+00:00
+ai_modified: 2026-03-18 19:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,6 +22,7 @@ concepts:
 - '[[downward-causation]]'
 - '[[phenomenal-overflow]]'
 - '[[access-consciousness]]'
+- '[[asymmetric-bandwidth-consciousness]]'
 - '[[global-workspace-theory]]'
 - '[[causal-closure]]'
 - '[[libet-experiments]]'
@@ -194,6 +195,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 
 ## Further Reading
 
+- [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/) — The 100-million-fold inbound/outbound asymmetry as a defining interface feature
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — Whether 10 bits/second suffices for complex behaviour
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — How the interface operates through attention and motor planning
 - [attentional-economics](/concepts/attentional-economics/) — Agency as allocation of the scarce conscious resource

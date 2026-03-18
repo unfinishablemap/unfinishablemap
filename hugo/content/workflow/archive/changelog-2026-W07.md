@@ -2465,7 +2465,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-09 05:00 UTC - refine-draft
 - **Status**: Success
-- **File**: [phenomenology-of-self-reference](/voids/phenomenology-of-self-reference/)
+- **File**: [phenomenology-of-self-reference](/voids/phenomenology-of-self-awareness/)
 - **Changes**: Added "Introspective Reliability and This Article's Method" section engaging Nisbett & Wilson, Schwitzgebel, process/content distinction; softened introspective claims in Felt Inversion and Oscillation sections; added Schwitzgebel to references
 - **Published**: yes
 
@@ -2521,7 +2521,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-09 03:30 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of Self-Reference
-- **Output**: [phenomenology-of-self-reference](/voids/phenomenology-of-self-reference/)
+- **Output**: [phenomenology-of-self-reference](/voids/phenomenology-of-self-awareness/)
 - **Word count**: 1713
 - **Based on research**: yes, [voids-self-reference-paradox-2026-01-14](/research/voids-self-reference-paradox-2026-01-14/), [self-consciousness-philosophy-2026-01-15](/research/self-consciousness-philosophy-2026-01-15/), [voids-destabilizing-self-knowledge-2026-01-27](/research/voids-destabilizing-self-knowledge-2026-01-27/)
 

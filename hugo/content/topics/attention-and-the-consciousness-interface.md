@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-17 02:30:00+00:00
+ai_modified: 2026-03-18 19:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -234,7 +234,7 @@ Research identifies several loci where consciousness might bias outcomes. The Ma
 
 ### The Bandwidth Constraint
 
-Conscious processing operates at roughly 10 bits per second—a universal ceiling confirmed across typing, speech, skilled gaming, and problem-solving (Zheng & Meister, 2024). Yet sensory systems deliver ~10⁹ bits per second. This [100-million-fold asymmetry](/topics/bandwidth-of-consciousness/) defines the interface's shape: wide open for reception, narrow for action. Ten bits per second suffices for roughly 3-4 selections per second among small sets of alternatives—precisely the architecture the competition-selection model predicts.
+Conscious processing operates at roughly 10 bits per second—a universal ceiling confirmed across typing, speech, skilled gaming, and problem-solving (Zheng & Meister, 2024). Yet sensory systems deliver ~10⁹ bits per second. This [100-million-fold asymmetry](/concepts/asymmetric-bandwidth-consciousness/) defines the interface's shape: wide open for reception, narrow for action. Ten bits per second suffices for roughly 3-4 selections per second among small sets of alternatives—precisely the architecture the competition-selection model predicts.
 
 ## Testable Predictions
 

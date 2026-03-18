@@ -28,8 +28,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[limits-reveal-structure]]'
 - '[[compound-cognitive-limits]]'
-- '[[phenomenology-of-error-recognition]]'
-- '[[phenomenology-of-self-reference]]'
+- '[[phenomenology-of-self-awareness]]'
 title: The Phenomenology of Cognitive Limit Types
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -55,7 +54,7 @@ Within these master categories, the [topology-of-cognitive-failure](/voids/topol
 
 ### Self-Refutation
 
-The proposition that would express the limit undermines itself. Wittgenstein's *Tractatus* generates statements that, if true, must be nonsense. The phenomenology is distinctive: a sense of ascending through thoughts that work *until they don't*, of climbing a ladder that dissolves beneath you at the top. Self-refutation signals that consciousness is approaching a boundary that cannot be drawn from the inside — the very act of articulation crosses into incoherence. This signature appears at logical and self-referential limits, including the [felt vertigo](/voids/phenomenology-of-self-reference/) when consciousness attempts to refer to itself.
+The proposition that would express the limit undermines itself. Wittgenstein's *Tractatus* generates statements that, if true, must be nonsense. The phenomenology is distinctive: a sense of ascending through thoughts that work *until they don't*, of climbing a ladder that dissolves beneath you at the top. Self-refutation signals that consciousness is approaching a boundary that cannot be drawn from the inside — the very act of articulation crosses into incoherence. This signature appears at logical and self-referential limits, including the [felt vertigo](/voids/phenomenology-of-self-awareness/) when consciousness attempts to refer to itself.
 
 ### Aporia
 
@@ -125,7 +124,7 @@ The systematic mapping of limit phenomenologies connects to the Map's [tenets](/
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** gains precision from the illusory-comprehension category. If adaptive limits are phenomenologically invisible — if the simplest-seeming explanation feels right precisely because the cognitive system was tuned by evolution to make it feel right — then parsimony judgments cannot be taken at face value. The Map's resistance to materialist parsimony arguments is supported by the finding that our sense of what is "simple" may itself be an adaptive construction rather than a reliable guide to ontology.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects to introspective opacity. The mechanism by which consciousness influences physical processes would be, if real, a prime candidate for adaptive concealment — Trivers' framework predicts that causal processes are hidden from consciousness when transparency would compromise function. The phenomenological signature here would be construction-mistaken-for-observation: we feel we understand our own agency while actually constructing a narrative that omits the actual causal interface. The [phenomenology of error recognition](/voids/phenomenology-of-error-recognition/) suggests that errors at the introspective level are the hardest to detect because the detection mechanism is itself implicated.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects to introspective opacity. The mechanism by which consciousness influences physical processes would be, if real, a prime candidate for adaptive concealment — Trivers' framework predicts that causal processes are hidden from consciousness when transparency would compromise function. The phenomenological signature here would be construction-mistaken-for-observation: we feel we understand our own agency while actually constructing a narrative that omits the actual causal interface. The [phenomenology of error recognition](/voids/phenomenology-of-self-awareness/) suggests that errors at the introspective level are the hardest to detect because the detection mechanism is itself implicated.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** relates to the illusory comprehension surrounding physical causation. We experience a world of macroscopic causes and effects, feeling we understand how things work. Quantum indeterminacy — where the Map locates the consciousness-physics interface — is phenomenologically invisible to ordinary cognition. The smooth interface of everyday causal understanding may hide the very junction where consciousness acts.
 
@@ -138,8 +137,7 @@ The systematic mapping of limit phenomenologies connects to the Map's [tenets](/
 - [Compound Cognitive Limits](/voids/compound-cognitive-limits/) — How individual limits interact superadditively
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — The fundamental void taxonomy
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
-- [The Phenomenology of Error Recognition](/voids/phenomenology-of-error-recognition/) — Detecting one's own mistakes
-- [The Phenomenology of Self-Reference](/voids/phenomenology-of-self-reference/) — Felt signatures of self-referential thought
+- [The Phenomenology of Self-Awareness](/voids/phenomenology-of-self-awareness/) — Detecting one's own mistakes and felt signatures of self-referential thought
 - [Voids in the Map](/voids/) — The broader framework for cognitive dark spaces
 
 ## References

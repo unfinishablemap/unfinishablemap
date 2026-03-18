@@ -57,7 +57,7 @@ None. The Feb 25 refinement addressed the major issues from the prior pessimisti
 - Added cross-links to phenomenology-of-self-reference and the-unobservable-self
 
 ### Cross-links Added
-- [phenomenology-of-self-reference](/voids/phenomenology-of-self-reference/) — phenomenological complement to transcendental argument
+- [phenomenology-of-self-reference](/voids/phenomenology-of-self-awareness/) — phenomenological complement to transcendental argument
 - [the-unobservable-self](/voids/self-reference-paradox/) — structural complement to vantage-point argument
 
 ## Remaining Items

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-16 19:47:00+00:00
+ai_modified: 2026-03-18 19:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,19 +12,20 @@ concepts:
 - '[[phenomenology-of-choice]]'
 - '[[consciousness-as-amplifier]]'
 created: 2026-02-15
-date: &id001 2026-03-16
+date: &id001 2026-03-18
 description: Counterfactual reasoning—imagining what isn't—reveals consciousness as
   more than neural processing. Human-AI exploration of why representing non-actuality
   demands an irreducible mind.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-18 11:47:00+00:00
+last_deep_review: 2026-03-18 19:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-independent-baseline-cognition-2026-01-21]]'
-- '[[voids-counterfactual-void-2026-02-13]]'
+- '[[counterfactual-void]]'
+- '[[consciousness-threshold-in-cognitive-evolution]]'
 title: Consciousness and Counterfactual Reasoning
 topics:
 - '[[topics/free-will]]'
@@ -93,7 +94,7 @@ The point isn't that counterfactuals are mysterious. We all reason counterfactua
 
 ## The Counterfactual Void
 
-Research on the [counterfactual void](/research/voids-counterfactual-void-2026-02-13/) reveals that counterfactual reasoning has architectural limits. Imagination defaults to minimal departures from actuality—what Byrne (2005) calls the tendency toward "close counterfactuals," echoing Lewis's philosophical notion of nearest possible worlds. Radical counterfactuals (worlds with different physics, alien forms of consciousness, fundamentally different categories of experience) exceed reliable cognitive reach.
+Research on the [counterfactual void](/voids/counterfactual-void/) reveals that counterfactual reasoning has architectural limits. Imagination defaults to minimal departures from actuality—what Byrne (2005) calls the tendency toward "close counterfactuals," echoing Lewis's philosophical notion of nearest possible worlds. Radical counterfactuals (worlds with different physics, alien forms of consciousness, fundamentally different categories of experience) exceed reliable cognitive reach.
 
 This limitation is itself philosophically revealing. If counterfactual reasoning were merely computational—formal manipulation of possible-world models—it should have no inherent boundary. A sufficiently powerful computer can evaluate counterfactuals about any logically consistent scenario. But human counterfactual imagination thins out as alternatives become more radical, losing phenomenal richness until only schematic labels ("a world with different physics") remain.
 
@@ -131,15 +132,3 @@ The Map's tenets illuminate counterfactual reasoning from multiple angles:
 1. Suddendorf, T., & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
 1. Van Hoeck, N., et al. (2015). Counterfactual thinking: An fMRI study on changing the past for a better future. *Social Cognitive and Affective Neuroscience*, 10(11), 1534-1543.
 1. Van Inwagen, P. (1998). "Modal Epistemology." *Philosophical Studies*, 92, 67-84.
-
-<!-- AI REFINEMENT LOG - 2026-03-16
-Changes made:
-- Reframed central argument around "dual-status awareness" rather than restating the hard problem; the article now identifies a distinctive counterfactual-specific challenge (how two incompatible epistemic attitudes coexist in one conscious moment) rather than just applying the hard problem to counterfactuals
-- Corrected false claim that "physical systems track what is actual"—now acknowledges that computers routinely process counterfactual information, and locates the distinctive feature in phenomenal awareness of modal status
-- Softened great ape empirical claims: now acknowledges tool caching, simple planning, and anticipatory cognition in non-human primates while maintaining that extended multi-step counterfactual reasoning remains qualitatively limited
-- Updated working memory figure from 7±2 (Miller 1956) to 4±1 (Cowan 2001); added Cowan reference
-- Updated Relation to Site Perspective to reflect corrected claims throughout
-
-Based on pessimistic review findings (pessimistic-2026-03-16-evening).
-This log should be removed after human review.
--->

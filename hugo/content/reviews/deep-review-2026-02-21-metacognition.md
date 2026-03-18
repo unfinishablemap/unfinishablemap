@@ -26,7 +26,7 @@ topics: []
 None.
 
 ### Medium Issues Found
-- **Broken wikilink**: `[phenomenology-of-error-recognition](/voids/phenomenology-of-error-recognition/)` referenced 3 times (frontmatter concepts, body text, Further Reading) but the target file does not exist. → Removed wikilink from all locations; Schulz citation now inline with parenthetical reference.
+- **Broken wikilink**: `[phenomenology-of-error-recognition](/voids/phenomenology-of-self-awareness/)` referenced 3 times (frontmatter concepts, body text, Further Reading) but the target file does not exist. → Removed wikilink from all locations; Schulz citation now inline with parenthetical reference.
 - **Missing tACS citation**: "A 2025 study" referenced without authors or full citation in References section. → Added Kapetaniou et al. (2025) attribution in body text and full citation in References.
 
 ### Low Issues Found
@@ -65,7 +65,7 @@ No misattributions, dropped qualifiers, source/Map conflation, or self-contradic
 - All five tenets addressed in Relation to Site Perspective with substantive engagement
 
 ### Enhancements Made
-1. Replaced broken `[phenomenology-of-error-recognition](/voids/phenomenology-of-error-recognition/)` wikilink with inline Schulz (2010) citation
+1. Replaced broken `[phenomenology-of-error-recognition](/voids/phenomenology-of-self-awareness/)` wikilink with inline Schulz (2010) citation
 2. Added proper attribution: "Kapetaniou et al. (2025)" replacing anonymous "A 2025 study"
 3. Added full citation to References: Kapetaniou, G.E., et al. (2025). *Human Brain Mapping*, 46(2), e70146.
 4. Removed non-existent concept from frontmatter concepts list

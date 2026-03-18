@@ -17,7 +17,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[thoughts-that-slip-away]]'
-- '[[phenomenology-of-error-recognition]]'
+- '[[phenomenology-of-self-awareness]]'
 target_section: voids
 title: 'Research Notes - Voids: Conceptual Impossibility'
 topics: []

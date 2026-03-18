@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-11 10:02:00+00:00
+ai_modified: 2026-03-18 18:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -63,7 +63,7 @@ Five distinct [quantum mechanisms](/concepts/quantum-neural-mechanisms-and-coher
 
 These mechanisms vary in evidential support. Radical pair biology is well-established outside neural contexts. Microtubule research has accelerated since 2024, with anesthetic studies suggesting quantum effects correlate with consciousness. Ion tunnelling and SNARE protein mechanisms remain primarily theoretical. Posner molecules await experimental validation.
 
-The point is not that any specific mechanism is confirmed, but that multiple independent pathways exist for quantum effects in neural tissue. The assumption of purely classical brain computation is no longer unchallenged.
+The point is not that any specific mechanism is confirmed, but that multiple independent pathways exist for quantum effects in neural tissue. The assumption of purely classical brain computation is no longer unchallenged. See [amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/) for how these quantum effects might scale from molecular events to macroscopic neural outcomes.
 
 ## Why Does This Matter for Consciousness?
 
@@ -71,7 +71,7 @@ The relevance to consciousness isn't automatic. Quantum biology in enzymes doesn
 
 The connection runs through the [measurement-problem](/concepts/measurement-problem/). Every quantum system eventually produces definite outcomes—one electron spin, one pathway taken, one reaction product. Physics provides probabilities; something determines which outcome becomes actual. Orthodox quantum mechanics is silent on what that something is.
 
-The Map's position: consciousness is a candidate. Where physics leaves outcomes genuinely undetermined, consciousness might bias selection without violating [conservation laws](/concepts/conservation-laws-and-mental-causation/) or injecting energy. This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet—not that consciousness creates physical effects ex nihilo, but that it selects among possibilities physics already allows.
+The Map's position: consciousness is a candidate. Where physics leaves outcomes genuinely undetermined, consciousness might bias selection without violating [conservation laws](/concepts/conservation-laws-and-mental-causation/) or injecting energy — acting forward in time as [non-retrocausal conscious selection](/topics/non-retrocausal-conscious-selection-models/) frameworks propose. This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet—not that consciousness creates physical effects ex nihilo, but that it selects among possibilities physics already allows.
 
 Quantum biology matters because it establishes the substrate. If brains were purely classical, there would be no indeterminate outcomes for consciousness to influence. Quantum biology demonstrates that warm biological systems regularly involve quantum indeterminacy. The question becomes whether neural systems specifically involve such indeterminacy at functionally relevant points—and whether consciousness interfaces there.
 

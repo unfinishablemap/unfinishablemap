@@ -64,7 +64,7 @@ topics: []
 - [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/) — inline link in No Many Worlds tenet section
 - [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — inline link in No Many Worlds tenet section
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — inline link in No Many Worlds section
-- [many-worlds-argument](/arguments/many-worlds-argument/) — inline link in Argument 3 (The Probability Problem)
+- [many-worlds](/concepts/many-worlds/) — inline link in Argument 3 (The Probability Problem)
 
 **Outbound (FROM this article, new):**
 - [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — Further Reading entry

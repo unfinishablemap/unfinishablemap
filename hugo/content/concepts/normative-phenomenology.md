@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-03-18 15:28:00+00:00
+ai_modified: 2026-03-18 17:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Systematic first-person investigation of how obligation, beauty, an
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-16 16:29:00+00:00
+last_deep_review: 2026-03-18 17:06:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,7 +77,7 @@ Normative salience—the capacity of normative properties to capture [attention]
 
 Normative phenomenology intersects with several related concepts on the Map but is distinct from each.
 
-**[phenomenal-normativity](/concepts/phenomenal-normativity/)** is the metaphysical thesis that certain phenomenal states carry intrinsic normative force. Normative phenomenology is the method for investigating whether and how this thesis is borne out in experience. Phenomenal normativity is a claim; normative phenomenology is the investigation that produces evidence for or against it.
+**[phenomenal-normativity](/concepts/phenomenal-normativity/)** is the metaphysical thesis that certain phenomenal states carry intrinsic normative force. Normative phenomenology is the method for investigating whether and how this thesis is borne out in experience. Phenomenal normativity is a claim; normative phenomenology is the investigation that produces evidence for or against it. Rawlette (2016) develops the most sustained version of this thesis, arguing that phenomenal consciousness grounds moral realism through the intrinsic value character of felt experience.
 
 **[Moral perception](/concepts/moral-phenomenology-and-perception/)** is the capacity to directly apprehend ethical properties. Normative phenomenology is the broader methodological programme within which moral perception is studied—alongside epistemic, aesthetic, and prudential perception.
 
@@ -91,7 +91,7 @@ Normative phenomenology intersects with several related concepts on the Map but 
 
 Investigating normative experience risks corrupting the data. Attending to one's moral reactions may alter them. The meditator observing anger may dissolve it; the philosopher analysing obligation may intellectualise it beyond recognition. Normative phenomenology must navigate between two failures: too little attention (yielding unreliable reports) and too much (altering the phenomenon under study).
 
-[Microphenomenological](/concepts/neurophenomenology/) techniques address this partly by using present-tense re-enactment rather than retrospective analysis. But the tension between observation and alteration remains a genuine limitation, parallel to challenges in [phenomenological evidence](/concepts/phenomenological-evidence/) generally.
+[Microphenomenological](/concepts/neurophenomenology/) techniques (Petitmengin 2006) address this partly by using present-tense re-enactment rather than retrospective analysis. But the tension between observation and alteration remains a genuine limitation, parallel to challenges in [phenomenological evidence](/concepts/phenomenological-evidence/) generally.
 
 ### Cultural Saturation
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-11 08:47:00+00:00
+ai_modified: 2026-03-18 19:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -65,7 +65,7 @@ The brain offers several candidate "selection sites" where quantum effects might
 
 **Consciousness-collapse with CSL dynamics** (Chalmers-McQueen): Collapse rate depends on integrated information—systems with more integrated information trigger faster collapse. Their key insight is the "super-resistance" problem: if consciousness triggers collapse, the Zeno effect would prevent transitions between conscious states. Their solution uses gradual CSL collapse rather than instantaneous projection, avoiding Zeno freezing while preserving consciousness's role as collapse trigger.
 
-These aren't mutually exclusive—selection might operate at multiple levels simultaneously.
+These aren't mutually exclusive—selection might operate at multiple levels simultaneously. See [amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/) for how quantum-level selection at any of these sites could scale to macroscopic neural effects.
 
 ### How Selection Works
 
@@ -82,7 +82,7 @@ The proposed mapping: **Attention** → **Which neural pattern to observe** → 
 
 ## The Bandwidth Constraint
 
-Conscious selection faces a severe bottleneck. Recent research (Meister, 2024) found conscious thought operates at approximately 10 bits per second—five million times slower than unconscious sensory processing (~10⁹ bits/second). This "trickle" reflects evolution's logic: the brain focuses selectively on what matters rather than processing everything at once.
+Conscious selection faces a severe bottleneck. The [asymmetric bandwidth of consciousness](/concepts/asymmetric-bandwidth-consciousness/) quantifies the gap: recent research (Meister, 2024) found conscious thought operates at approximately 10 bits per second—five million times slower than unconscious sensory processing (~10⁹ bits/second). This "trickle" reflects evolution's logic: the brain focuses selectively on what matters rather than processing everything at once.
 
 The bandwidth constraint shapes what selection can accomplish:
 
@@ -190,7 +190,7 @@ Five considerations favour the non-retrocausal pathway:
 
 ### How the Frameworks Differ on Consciousness's Role
 
-Though Penrose-Hameroff, Stapp, and Chalmers-McQueen all posit forward-in-time selection, they assign consciousness different causal roles. In Penrose-Hameroff, consciousness *results from* collapse — the orchestrated reduction event *is* the conscious moment. In Stapp, consciousness *causes* collapse — mental attention actively projects onto desired states. In Chalmers-McQueen, consciousness *triggers* collapse — integrated information determines the collapse rate. Stapp and Chalmers-McQueen place consciousness in the causal driver's seat, while Penrose-Hameroff makes consciousness emergent from the collapse process. All three support the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet.
+Though Penrose-Hameroff, Stapp, and Chalmers-McQueen all posit forward-in-time selection (see [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/) for detailed comparison), they assign consciousness different causal roles. In Penrose-Hameroff, consciousness *results from* collapse — the orchestrated reduction event *is* the conscious moment. In Stapp, consciousness *causes* collapse — mental attention actively projects onto desired states. In Chalmers-McQueen, consciousness *triggers* collapse — integrated information determines the collapse rate. Stapp and Chalmers-McQueen place consciousness in the causal driver's seat, while Penrose-Hameroff makes consciousness emergent from the collapse process. All three support the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet.
 
 ## What Would Challenge This View?
 

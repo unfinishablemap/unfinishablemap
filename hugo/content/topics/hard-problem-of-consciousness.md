@@ -55,7 +55,7 @@ description: Why is there something it is like to be conscious? Physical descrip
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-18 15:35:00+00:00
+last_deep_review: 2026-03-18 18:06:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

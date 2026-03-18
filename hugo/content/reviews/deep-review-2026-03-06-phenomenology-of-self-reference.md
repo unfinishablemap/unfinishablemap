@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-06
-**Article**: [The Phenomenology of Self-Reference](/voids/phenomenology-of-self-reference/)
+**Article**: [The Phenomenology of Self-Reference](/voids/phenomenology-of-self-awareness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

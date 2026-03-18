@@ -27,7 +27,7 @@ topics: []
 - None. All issues from the 2026-02-24 review remain resolved. Attribution checks pass — Russell paraphrased (not quoted), Sellars/McDowell correctly attributed, Nagel's *The Last Word* correctly cited. No source/Map conflation or self-contradictions.
 
 ### Medium Issues Found
-- **Missing cross-link to Gödel-measurement analogy article**: The Gödel paragraph in "Authority Without Sovereignty" discussed incompleteness as an internal limit but didn't connect to the deeper structural parallel (self-reference as common root of both Gödelian incompleteness and quantum measurement) now developed in the dedicated article. Resolution: Added paragraph connecting to Szangolies (2018) / Lawvere's fixed-point theorem and linking to [godel-measurement-problem-analogy](/topics/godel-measurement-problem-analogy/).
+- **Missing cross-link to Gödel-measurement analogy article**: The Gödel paragraph in "Authority Without Sovereignty" discussed incompleteness as an internal limit but didn't connect to the deeper structural parallel (self-reference as common root of both Gödelian incompleteness and quantum measurement) now developed in the dedicated article. Resolution: Added paragraph connecting to Szangolies (2018) / Lawvere's fixed-point theorem and linking to [godel-measurement-problem-analogy](/topics/self-reference-and-the-limits-of-physical-description/).
 - **Unmade Frauchiger-Renner connection**: The article's key tension (consciousness interfacing with formally described quantum mechanics) relates to Frauchiger-Renner's result that quantum theory cannot consistently describe its own use. Resolution: Addressed implicitly through the new paragraph's reference to self-referential obstruction preventing measurement-outcome determination.
 
 ### Counterarguments Considered
@@ -47,11 +47,11 @@ topics: []
 ### Enhancements Made
 - Added paragraph connecting Gödel's incompleteness to quantum measurement via Szangolies/Lawvere category-theoretic unification
 - Strengthened the authority/sovereignty argument by showing self-reference sets the boundary where formal sovereignty fails
-- Added [godel-measurement-problem-analogy](/topics/godel-measurement-problem-analogy/) to related_articles and Further Reading
+- Added [godel-measurement-problem-analogy](/topics/self-reference-and-the-limits-of-physical-description/) to related_articles and Further Reading
 - Added Szangolies (2018) to References
 
 ### Cross-links Added
-- [godel-measurement-problem-analogy](/topics/godel-measurement-problem-analogy/) — in related_articles, body text, and Further Reading
+- [godel-measurement-problem-analogy](/topics/self-reference-and-the-limits-of-physical-description/) — in related_articles, body text, and Further Reading
 
 ## Remaining Items
 

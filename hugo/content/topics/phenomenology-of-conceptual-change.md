@@ -24,7 +24,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[architecture-of-cognitive-closure]]'
-- '[[phenomenology-of-error-recognition]]'
+- '[[phenomenology-of-self-awareness]]'
 - '[[destabilizing-self-knowledge]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[consciousness-as-perceptual-architect]]'
@@ -132,7 +132,7 @@ The Unfinishable Map's tenets illuminate conceptual change from several directio
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/)
 - [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/)
-- [phenomenology-of-error-recognition](/voids/phenomenology-of-error-recognition/)
+- [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/)
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/)

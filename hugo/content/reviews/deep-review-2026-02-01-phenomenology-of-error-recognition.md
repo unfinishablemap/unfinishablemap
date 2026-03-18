@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-01
-**Article**: [The Phenomenology of Error Recognition](/voids/phenomenology-of-error-recognition/)
+**Article**: [The Phenomenology of Error Recognition](/voids/phenomenology-of-self-awareness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

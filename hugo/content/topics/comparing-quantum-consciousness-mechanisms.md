@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-03 02:44:00+00:00
+ai_modified: 2026-03-18 18:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -134,7 +134,7 @@ The Unfinishable Map's [tenets](/tenets/) do not commit to any single quantum co
 
 The Map's framework does, however, constrain the space of acceptable mechanisms. [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) rules against proposals requiring macroscopic quantum coherence or panpsychist commitments — a tension Orch OR must address. [Bidirectional Interaction](/tenets/#bidirectional-interaction) requires that consciousness genuinely causes physical effects — ruling out proposals where consciousness is merely correlated with quantum processes. [No Many Worlds](/tenets/#no-many-worlds) requires that collapse is real, not apparent.
 
-Within these constraints, Stapp's Zeno model and consciousness-modulated spontaneous collapse emerge as the most tenet-compatible approaches. Stapp provides the phenomenological depth; CSL hybrids provide the physical framework. These are not competitors but potentially complementary: Stapp's mechanism could describe *how* consciousness modulates collapse (through attentional observation), while CSL provides the baseline collapse dynamics that consciousness modulates. The [coupling-modes](/concepts/coupling-modes/) framework — basis control, timing control, probability control — provides vocabulary for specifying what such integration would require.
+Within these constraints, Stapp's Zeno model and consciousness-modulated spontaneous collapse emerge as the most tenet-compatible approaches — both [non-retrocausal conscious selection](/topics/non-retrocausal-conscious-selection-models/) frameworks that act forward in time. Stapp provides the phenomenological depth; CSL hybrids provide the physical framework. These are not competitors but potentially complementary: Stapp's mechanism could describe *how* consciousness modulates collapse (through attentional observation), while CSL provides the baseline collapse dynamics that consciousness modulates. The [coupling-modes](/concepts/coupling-modes/) framework — basis control, timing control, probability control — provides vocabulary for specifying what such integration would require.
 
 The Map's position is that *some* quantum consciousness mechanism exists, constrained by the tenets. Which mechanism is correct — or whether the correct mechanism has yet to be proposed — remains genuinely open.
 
@@ -154,6 +154,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — What collapsed before conscious observers
 - [coupling-modes](/concepts/coupling-modes/) — How consciousness might couple to quantum systems
 - [psychophysical-coupling](/concepts/psychophysical-laws/) — What a coupling law must specify
+- [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Six proposed mechanisms for scaling quantum effects to neural outcomes
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves outcomes undetermined
 
 ## References

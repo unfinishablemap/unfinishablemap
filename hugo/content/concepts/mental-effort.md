@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-16 07:47:00+00:00
+ai_modified: 2026-03-18 18:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -104,7 +104,7 @@ However, the proposal faces a serious objection. Neural quantum states [decohere
 
 Other proposed mechanisms include: quantum selection at the measurement stage, where consciousness biases which definite outcome obtains even after decoherence has eliminated superposition; top-down causal influence through emergent properties of complex neural organisation; and various forms of psychophysical law connecting conscious states to physical states without specifying a micro-level mechanism. See [quantum-consciousness](/concepts/quantum-consciousness/) for a broader survey.
 
-The Map does not commit to any particular mechanism. The phenomenological and neuroplasticity evidence for consciousness influencing matter stands regardless of *how* the interaction is physically mediated. Identifying the mechanism is an open empirical question.
+The Map does not commit to any particular mechanism. The phenomenological and neuroplasticity evidence for consciousness influencing matter stands regardless of *how* the interaction is physically mediated. See [amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/) for a systematic survey of six proposed pathways from quantum-level influence to macroscopic neural effects. Identifying the mechanism is an open empirical question.
 
 ## The Illusionist Challenge
 

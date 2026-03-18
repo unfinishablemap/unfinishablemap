@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-02-26 10:03:00+00:00
+ai_modified: 2026-03-18 18:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -278,6 +278,7 @@ The assumption that warm biology must be classical turned out false. [Quantum bi
 - [illusionism](/concepts/illusionism/) — The challenge that phenomenal consciousness may be illusory
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and limits of human understanding
 - [free-will](/topics/free-will/) — How quantum indeterminacy relates to libertarian free will
+- [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Six mechanisms bridging quantum effects to macroscopic neural outcomes
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Side-by-side comparison of Orch OR, QBIT, Stapp, Fisher, and others
 - [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/) — The experimental case for consciousness selecting among quantum outcomes
 - [agent-causation](/concepts/agent-causation/) — Consciousness as cause at the quantum level

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-17 20:46:00+00:00
+ai_modified: 2026-03-18 18:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -101,13 +101,15 @@ This differs crucially from overdetermination: preemption has one cause *operati
 
 The Map's response: deny causal closure at quantum indeterminacies.
 
-Quantum mechanics specifies probabilities but not which outcome actualizes. Causal closure fails at these points. If consciousness acts at these indeterminacies — selecting among outcomes physics leaves undetermined — it causes physical events without competing with physical causes. No overdetermination occurs because physics provides necessary but not sufficient causes. The [prebiotic collapse problem](/concepts/prebiotic-collapse/) shows this framework is cosmologically consistent.
+Quantum mechanics specifies probabilities but not which outcome actualizes. Causal closure fails at these points. If consciousness acts at these indeterminacies — selecting among outcomes physics leaves undetermined, as [non-retrocausal conscious selection](/topics/non-retrocausal-conscious-selection-models/) frameworks propose — it causes physical events without competing with physical causes. No overdetermination occurs because physics provides necessary but not sufficient causes. The [prebiotic collapse problem](/concepts/prebiotic-collapse/) shows this framework is cosmologically consistent.
 
 This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness biases quantum outcomes where the physical story runs out.
 
 ### The Decoherence Challenge
 
 The main physics-based objection: warm neural tissue decoheres quantum superpositions in ~10^-13 seconds (Tegmark 2000), far too fast for consciousness to exploit. But [decoherence](/concepts/decoherence/) doesn't eliminate quantum indeterminacy — it explains why interference effects wash out, but outcomes still require determination. Recent calculations incorporating biological protective mechanisms extend coherence estimates by many orders of magnitude. Consciousness could bias outcomes at the point of measurement even after decoherence has occurred.
+
+Even granting the quantum opening, consciousness must still bridge the gap between quantum-scale effects and macroscopic neural outcomes. Six distinct [amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/) have been proposed — from microtubule collapse to self-organized criticality — each addressing a different segment of this quantum-to-macroscopic chain.
 
 ### The Conservation Objection
 

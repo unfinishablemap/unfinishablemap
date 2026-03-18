@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-12 01:20:00+00:00
+ai_modified: 2026-03-18 19:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[bandwidth-problem-mental-causation]]'
+- '[[asymmetric-bandwidth-consciousness]]'
 - '[[attention-as-interface]]'
 - '[[consciousness-selecting-neural-patterns]]'
 - '[[interactionist-dualism]]'
@@ -56,7 +57,7 @@ The resolution void creates this abstraction. By compressing eleven million bits
 
 ## The Division of Labour
 
-The [bandwidth asymmetry](/topics/bandwidth-of-consciousness/) — 10⁹ bits per second inbound, 10¹ outbound — defines a division of labour between brain and consciousness that the Map's interactionist framework requires.
+The [bandwidth asymmetry](/concepts/asymmetric-bandwidth-consciousness/) — 10⁹ bits per second inbound, 10¹ outbound — defines a division of labour between brain and consciousness that the Map's interactionist framework requires.
 
 The brain's role: generate, evaluate, and prepare candidate action sequences at full computational bandwidth. Translate goals into motor plans. Compute sensory predictions. Maintain homeostasis. Execute overlearned skills. All of this proceeds at billions of bits per second, unconsciously.
 

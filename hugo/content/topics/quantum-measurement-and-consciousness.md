@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-17 07:28:00+00:00
+ai_modified: 2026-03-18 18:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -122,7 +122,7 @@ The [Many-Worlds Interpretation](/concepts/many-worlds/) denies that one outcome
 
 ### Exploit the Gap: Consciousness Selection
 
-A third approach takes the gap seriously: consciousness determines outcomes *within* the probabilistic constraints physics provides. This aligns with [Stapp's quantum Zeno framework](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp)—mental attention biases which neural patterns become actual using orthodox quantum mechanics. Consciousness operates *within* physics, not overriding it.
+A third approach takes the gap seriously: consciousness determines outcomes *within* the probabilistic constraints physics provides. This aligns with [non-retrocausal conscious selection](/topics/non-retrocausal-conscious-selection-models/) frameworks like [Stapp's quantum Zeno model](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) and Chalmers-McQueen's CSL-IIT — mental attention biases which neural patterns become actual using orthodox or minimally modified quantum mechanics. Consciousness operates *within* physics, not overriding it.
 
 The strength: consciousness is causally efficacious—[Bidirectional Interaction](/tenets/#bidirectional-interaction) is preserved. The weakness: the mechanism by which mental attention generates observation events in a warm, decoherent brain remains unspecified.
 
@@ -182,6 +182,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and experience
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's concrescence as metaphysical counterpart to outcome determination
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — A concrete mechanism for consciousness at quantum measurement
+- [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Six mechanisms bridging quantum selection to macroscopic neural effects
 - [free-will](/topics/free-will/) — How the selection gap connects to agent causation
 - [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) — What consciousness does during superposition
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — How this structural parallel contributes to the cumulative case for dualism

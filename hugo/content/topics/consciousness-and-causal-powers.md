@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-03-14 21:03:00+00:00
+ai_modified: 2026-03-18 19:57:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -32,7 +32,7 @@ last_deep_review: 2026-03-06 01:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[epiphenomenalism-argument]]'
+- '[[epiphenomenalism]]'
 - '[[evolutionary-case-for-mental-causation]]'
 - '[[conservation-laws-and-mental-causation]]'
 - '[[topics/phenomenal-value-realism]]'

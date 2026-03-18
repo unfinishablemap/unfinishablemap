@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-18 07:18:00+00:00
+ai_modified: 2026-03-18 19:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -210,6 +210,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist parallels and meditation as filter reduction
 - [mysterianism](/concepts/mysterianism/) — Compatibility with cognitive closure
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Psychedelics, flow, and interface configurations
+- [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/) — Why the 100-million-fold bandwidth gap fits filter theory naturally
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the specific mechanism of filtering
 - [brain-specialness](/concepts/brain-interface-boundary/) — Why brains specifically serve as interfaces
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/) — How conscious states map to physical selections

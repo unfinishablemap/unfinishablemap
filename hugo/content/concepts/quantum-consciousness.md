@@ -48,7 +48,7 @@ topics:
 
 Several scientific proposals explain how consciousness might interact with physics at the quantum level—not "quantum mysticism" but rigorous theories proposing mechanisms by which consciousness could influence brain activity without violating physical law.
 
-The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet aligns with these approaches: consciousness operates at quantum indeterminacies, biasing undetermined outcomes without injecting energy. For how these mechanisms fit into the Map's broader research programme, see [Comparing Quantum Consciousness Mechanisms](/topics/comparing-quantum-consciousness-mechanisms/).
+The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet aligns with these approaches: consciousness operates at quantum indeterminacies, biasing undetermined outcomes without injecting energy. The Map favours [non-retrocausal conscious selection](/topics/non-retrocausal-conscious-selection-models/) — forward-in-time frameworks that avoid the metaphysical costs of backward causation. For how these mechanisms fit into the Map's broader research programme, see [Comparing Quantum Consciousness Mechanisms](/topics/comparing-quantum-consciousness-mechanisms/).
 
 ## The Quantum Opening
 

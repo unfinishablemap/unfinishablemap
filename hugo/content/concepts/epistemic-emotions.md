@@ -8,7 +8,7 @@ concepts:
 - '[[metacognition]]'
 - '[[introspection]]'
 - '[[cognitive-phenomenology]]'
-- '[[phenomenology-of-error-recognition]]'
+- '[[phenomenology-of-self-awareness]]'
 - '[[phenomenology-of-choice]]'
 - '[[illusionism]]'
 - '[[working-memory]]'
@@ -51,7 +51,7 @@ Doubt is certainty's shadow—the sense that a belief might be wrong. It ranges 
 - **Bifurcation.** The mind holds both the belief and its negation in tension, unable to fully commit to either.
 - **Motivational pressure.** Doubt is uncomfortable. It drives either toward resolution (seeking evidence) or avoidance (motivated reasoning).
 
-The relationship between doubt and [error recognition](/voids/phenomenology-of-error-recognition/) is complex. Error-blindness—the inability to perceive current errors—means that doubt is our primary warning system. We cannot feel that we are wrong, but we can feel that we might be wrong. Doubt is metacognitive monitoring detecting instability in the belief system.
+The relationship between doubt and [error recognition](/voids/phenomenology-of-self-awareness/) is complex. Error-blindness—the inability to perceive current errors—means that doubt is our primary warning system. We cannot feel that we are wrong, but we can feel that we might be wrong. Doubt is metacognitive monitoring detecting instability in the belief system.
 
 Descartes made methodological doubt the foundation of philosophy, seeking beliefs that could withstand maximal scepticism. Yet doubt has limits. Doubting doubt generates paradox; doubting experience denies its own ground. The phenomenology of doubt reveals that some commitments—including commitment to phenomenal consciousness itself—resist dissolution.
 
@@ -71,7 +71,7 @@ Educationally, confusion is double-edged: it signals that learning is occurring,
 
 ### Surprise: The Violation of Expectation
 
-Surprise is the epistemic emotion of prediction error. It arrives suddenly, with intensity proportional to expectation, and captures attention toward the unexpected. The relationship to [error recognition](/voids/phenomenology-of-error-recognition/) is illuminating: since we cannot detect current errors directly, surprise provides indirect detection—when a confident prediction fails, surprise signals that some belief was wrong.
+Surprise is the epistemic emotion of prediction error. It arrives suddenly, with intensity proportional to expectation, and captures attention toward the unexpected. The relationship to [error recognition](/voids/phenomenology-of-self-awareness/) is illuminating: since we cannot detect current errors directly, surprise provides indirect detection—when a confident prediction fails, surprise signals that some belief was wrong.
 
 Predictive processing frameworks interpret surprise as the phenomenal correlate of prediction error. The [phenomenology of creative insight](/concepts/phenomenology-of-creative-insight/) reveals a specific epistemic emotion associated with anomalous data — what that article calls *theoretical vertigo* — where the entire interpretive framework destabilises rather than a single prediction failing. But this functional account leaves the phenomenal character unexplained. Why should prediction error *feel* like anything? The irreducibility of surprise's phenomenology supports the view that consciousness is not merely computational.
 
@@ -174,7 +174,7 @@ None of these conditions currently obtains.
 - [metacognition](/concepts/metacognition/) — The cognitive capacity enabling epistemic self-monitoring
 - [introspection](/concepts/introspection/) — First-person access to epistemic states
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has phenomenal character
-- [phenomenology-of-error-recognition](/voids/phenomenology-of-error-recognition/) — Why error has no distinctive feeling
+- [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/) — Why error has no distinctive feeling
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — The felt quality of deciding
 - [working-memory](/concepts/working-memory/) — Where epistemic emotions interface with cognitive capacity
 - [illusionism](/concepts/illusionism/) — The challenge that epistemic phenomenology is illusion

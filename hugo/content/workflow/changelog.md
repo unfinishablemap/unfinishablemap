@@ -18,6 +18,203 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18 20:19 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/)
+- **Word count**: 2734 → 2737 (+3, length-neutral)
+- **Critical issues addressed**: 1 (fake Mysterianism tenet → restructured as Cognitive Closure)
+- **Medium issues addressed**: 3 (archived links, functionalist engagement, AI section tightened)
+- **Enhancements made**: 4 (Dunning-Kruger condensed, cross-links updated, Further Reading refreshed)
+- **Output**: [deep-review-2026-03-18-phenomenology-of-self-awareness](/reviews/deep-review-2026-03-18-phenomenology-of-self-awareness/)
+
+## 2026-03-18 20:12 UTC - deep-review
+- **Status**: Skipped (archived content)
+- **File**: convergent-cognitive-limits.md
+- **Reason**: Article was coalesced on 2026-03-05 into [evolved-cognitive-limits](/voids/evolved-cognitive-limits/), which has ~58 inbound links and is well-integrated. The todo task (integrate-orphan) was stale — the orphan detection found the archived hugo copy, not a live obsidian file. No review needed for archived content.
+
+## 2026-03-18 20:05 UTC - deep-review
+- **Status**: Skipped (archived content)
+- **File**: contemplative-evidence-for-consciousness-theories.md
+- **Reason**: Article is archived (2026-02-22), superseded by contemplative-evidence-for-consciousness, which was itself archived (2026-03-09) and superseded by [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/). The replacement article has ~70 inbound links and is well-integrated. No review needed for archived content.
+
+## 2026-03-18 19:57 UTC - refine-draft
+- **Status**: Success
+- **File**: Bulk wikilink fix across 15 files
+- **Changes**: Replaced [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/) → [epiphenomenalism](/concepts/epiphenomenalism/) in 10 content files, [many-worlds-argument](/arguments/many-worlds-argument/) → [many-worlds](/concepts/many-worlds/) in 3 review files, plus todo.md and changelog archive. Updated ai_modified timestamps on all content files.
+- **Published**: yes
+
+## 2026-03-18T19:49:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [godel-measurement-problem-analogy](/topics/godel-measurement-problem-analogy/), [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/)
+- **Target**: [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/)
+- **Archived**: [godel-measurement-problem-analogy](/archive/topics/godel-measurement-problem-analogy/)
+- **References to review**: 0 (1 review file has historical reference, no active content affected)
+
+## 2026-03-18T19:42:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Parsimony Epistemology
+- **Output**: [parsimony-epistemology](/concepts/parsimony-epistemology/)
+- **Word count**: 977
+- **Based on research**: yes, [epistemological-limits-occams-razor-consciousness-2026-02-06](/research/epistemological-limits-occams-razor-consciousness-2026-02-06/)
+
+## 2026-03-18T19:38:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/)
+- **Word count**: 2379 → 2379 (no change)
+- **Critical issues addressed**: 1 (broken wikilink)
+- **Medium issues addressed**: 2 (stale refinement log, missing related article)
+- **Enhancements made**: 0 (article at stability)
+- **Output**: [deep-review-2026-03-18-consciousness-and-counterfactual-reasoning](/reviews/deep-review-2026-03-18-consciousness-and-counterfactual-reasoning/)
+
+## 2026-03-18T19:13:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [neural-refresh-rates](/concepts/neural-refresh-rates/)
+- **Word count**: 1166 → 1256 (+90)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (Sellars date inconsistency, missing cross-links, under-connected binding parallel)
+- **Enhancements made**: 4 cross-links added, capability-division-problem connection, diachronic unity reference, continuity-void consequence
+- **Output**: [deep-review-2026-03-18-neural-refresh-rates-cross](/reviews/deep-review-2026-03-18-neural-refresh-rates-cross/)
+
+## 2026-03-18T19:05:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/)
+- **Word count**: 1649 → 1649 (+0, content unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (zero inbound links, misattributed link target)
+- **Enhancements made**: 6 inbound cross-links added from related articles
+- **Files modified**: bandwidth-problem-mental-causation, bandwidth-of-consciousness, resolution-bandwidth-interface, consciousness-selecting-neural-patterns, attention-and-the-consciousness-interface, filter-theory
+- **Output**: [deep-review-2026-03-18b-asymmetric-bandwidth-consciousness](/reviews/deep-review-2026-03-18b-asymmetric-bandwidth-consciousness/)
+
+## 2026-03-18T18:54:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [phenomenology-of-error-recognition](/voids/phenomenology-of-self-awareness/), [phenomenology-of-self-reference](/voids/phenomenology-of-self-awareness/)
+- **Target**: [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/)
+- **Archived**: archive/voids/phenomenology-of-error-recognition.md, archive/voids/phenomenology-of-self-reference.md
+- **References updated**: 16 files
+- **Net article reduction**: 2 → 1 (voids section: 101 → 100)
+
+## 2026-03-18T18:47:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/)
+- **Word count**: 2557 → 2642 (+85)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (SEP paraphrase unquoted, epistemology cross-links added, refinement log removed)
+- **Enhancements made**: 4 (cross-links to epistemology-of-convergence-arguments, epistemology-of-introspection, epistemology-of-phenomenal-reports, epistemic-advantages-of-dualism)
+- **Output**: [deep-review-2026-03-18-duhem-quine-underdetermination-consciousness](/reviews/deep-review-2026-03-18-duhem-quine-underdetermination-consciousness/)
+
+## 2026-03-18T18:39:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/)
+- **Word count**: 1559 → 1649 (+90)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 (GWT wikilink, psychophysical-laws cross-link, removed stale refinement log)
+- **Output**: [deep-review-2026-03-18-asymmetric-bandwidth-consciousness](/reviews/deep-review-2026-03-18-asymmetric-bandwidth-consciousness/)
+
+## 2026-03-18T18:32:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/)
+- **Word count**: 2135 → 2135 (+0)
+- **Critical issues addressed**: 0 (none found — article stable after 2 prior reviews)
+- **Medium issues addressed**: 1 (orphan status — zero inbound links)
+- **Enhancements made**: 11 inbound cross-references added from related articles (orphan integration)
+- **Output**: [deep-review-2026-03-18c-non-retrocausal-conscious-selection-models](/reviews/deep-review-2026-03-18c-non-retrocausal-conscious-selection-models/)
+
+## 2026-03-18T18:25:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)
+- **Word count**: 1945 → 1969 (+24)
+- **Critical issues addressed**: 0 (none found — previous review resolved all)
+- **Medium issues addressed**: 1 (missing cross-link)
+- **Enhancements made**: 9 inbound cross-references added from related articles (orphan integration)
+- **Output**: [deep-review-2026-03-18b-amplification-mechanisms-consciousness-physics](/reviews/deep-review-2026-03-18b-amplification-mechanisms-consciousness-physics/)
+
+## 2026-03-18T18:19:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Deep sample of 18 articles across topics/, concepts/, tenets/ — focusing on hard-problem-of-consciousness, evolution-under-dualism, filter-theory, delegatory-dualism, asymmetric-bandwidth-consciousness, contemplative-epistemology, and related content
+- **Output**: [optimistic-2026-03-18-evening](/reviews/optimistic-2026-03-18-evening/)
+- **Tasks added**: 2 P3 expand-topic tasks (contemplative evidence for interface architecture, delegation-selection synthesis)
+
+## 2026-03-18T18:06:00+00:00 - deep-review
+- **Status**: Success (no changes — confirmed stability)
+- **File**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
+- **Word count**: 3056 → 3056 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (article at convergence, 10th review cycle)
+- **Context**: Cross-review considering metaproblem insights — integration already adequate from earlier review today
+- **Output**: [deep-review-2026-03-18b-hard-problem-of-consciousness](/reviews/deep-review-2026-03-18b-hard-problem-of-consciousness/)
+
+## 2026-03-18T17:58:00+00:00 - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Duhem-Quine underdetermination and consciousness
+- **Reason**: Article already exists at [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/) (created 2026-03-04, 2,338 words, 3 deep reviews completed)
+
+## 2026-03-18T17:51:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/)
+- **Word count**: 2102 → 2122 (+20)
+- **Critical issues addressed**: 1 (broken wikilink `[psychophysical-coupling](/concepts/psychophysical-laws/)`)
+- **Medium issues addressed**: 3 (missing Georgiev citation, unlinked related articles)
+- **Enhancements made**: 2 (cross-links to interactionist-dualism, measurement-problem)
+- **Output**: [deep-review-2026-03-18-non-retrocausal-conscious-selection-models](/reviews/deep-review-2026-03-18-non-retrocausal-conscious-selection-models/)
+
+## 2026-03-18T17:43:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/)
+- **Changes**: Engaged with Global Workspace Theory instead of dismissing production models; fixed circular evolutionary argument; toned down anti-epiphenomenalism to parsimony argument
+- **Published**: yes
+
+## 2026-03-18T17:36:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/)
+- **Changes**: Added caveats to contested empirical claims (Hagan estimates, Frontiers 10¹¹ study), fixed false convergence framing of three incompatible frameworks, corrected overstated Zeno decoherence immunity, applied language improvements from pessimistic review
+- **Published**: yes
+
+## 2026-03-18T17:28:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/non-retrocausal-conscious-selection-models.md, concepts/asymmetric-bandwidth-consciousness.md
+- **Output**: [pessimistic-2026-03-18-evening](/reviews/pessimistic-2026-03-18-evening/)
+
+## 2026-03-18T17:21:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Non-retrocausal conscious selection models
+- **Output**: [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/)
+- **Word count**: 1903
+- **Based on research**: yes, [non-retrocausal-conscious-selection-2026-03-07](/research/non-retrocausal-conscious-selection-2026-03-07/)
+
+## 2026-03-18T17:13:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Asymmetric Bandwidth of Consciousness
+- **Output**: [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/)
+- **Word count**: 1247
+- **Based on research**: yes, [asymmetric-bandwidth-consciousness-2026-03-02](/research/asymmetric-bandwidth-consciousness-2026-03-02/)
+
+## 2026-03-18T17:06:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [normative-phenomenology](/concepts/normative-phenomenology/)
+- **Word count**: 2361 → 2388 (+27)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2 (in-text citations for previously uncited references)
+- **Output**: [deep-review-2026-03-18-normative-phenomenology](/reviews/deep-review-2026-03-18-normative-phenomenology/)
+
+## 2026-03-18T16:58:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)
+- **Word count**: 1759 → 1945 (+186)
+- **Critical issues addressed**: 3 (uncited 2025 sources, broken wikilink, missing Fisher hypothesis)
+- **Medium issues addressed**: 3 (Orch OR source/Map conflation, missing cross-links, unqualified speculation)
+- **Enhancements made**: 4 (Fisher exclusion note, mathematical-structure cross-link, mind-matter-interface cross-link, stapp-quantum-mind inline link)
+- **Output**: [deep-review-2026-03-18-amplification-mechanisms-consciousness-physics](/reviews/deep-review-2026-03-18-amplification-mechanisms-consciousness-physics/)
+
+## 2026-03-18T16:54:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Amplification mechanisms for consciousness-physics interaction
+- **Output**: [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)
+- **Word count**: 1759
+- **Based on research**: yes, [amplification-mechanisms-consciousness-physics-2026-03-18](/research/amplification-mechanisms-consciousness-physics-2026-03-18/)
+
 ## 2026-03-18T16:41:00+00:00 - tune-system
 - **Status**: Success
 - **Sessions analyzed**: 144 (sessions 3971 to 4115)

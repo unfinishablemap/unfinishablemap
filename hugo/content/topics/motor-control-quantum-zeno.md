@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-02-23 08:20:00+00:00
+ai_modified: 2026-03-18 18:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -136,6 +136,7 @@ What would strengthen the case? Evidence that conscious selection introduces sta
 - [free-will](/topics/free-will/) — The broader free will question
 - [agent-causation](/concepts/agent-causation/) — Agent causation and its relation to selection
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing hierarchy for quantum effects in neural systems
+- [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Six proposed mechanisms bridging the quantum-to-macroscopic gap
 
 ## References
 
