@@ -118,7 +118,7 @@ The [[concepts/many-worlds|Many-Worlds Interpretation]] denies that one outcome 
 
 ### Exploit the Gap: Consciousness Selection
 
-A third approach takes the gap seriously: consciousness determines outcomes *within* the probabilistic constraints physics provides. This aligns with [[quantum-consciousness#quantum-zeno-effect-stapp|Stapp's quantum Zeno framework]]—mental attention biases which neural patterns become actual using orthodox quantum mechanics. Consciousness operates *within* physics, not overriding it.
+A third approach takes the gap seriously: consciousness determines outcomes *within* the probabilistic constraints physics provides. This aligns with [[non-retrocausal-conscious-selection-models|non-retrocausal conscious selection]] frameworks like [[quantum-consciousness#quantum-zeno-effect-stapp|Stapp's quantum Zeno model]] and Chalmers-McQueen's CSL-IIT — mental attention biases which neural patterns become actual using orthodox or minimally modified quantum mechanics. Consciousness operates *within* physics, not overriding it.
 
 The strength: consciousness is causally efficacious—[[tenets#^bidirectional-interaction|Bidirectional Interaction]] is preserved. The weakness: the mechanism by which mental attention generates observation events in a warm, decoherent brain remains unspecified.
 

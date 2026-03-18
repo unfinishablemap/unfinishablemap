@@ -99,7 +99,7 @@ This differs crucially from overdetermination: preemption has one cause *operati
 
 The Map's response: deny causal closure at quantum indeterminacies.
 
-Quantum mechanics specifies probabilities but not which outcome actualizes. Causal closure fails at these points. If consciousness acts at these indeterminacies — selecting among outcomes physics leaves undetermined — it causes physical events without competing with physical causes. No overdetermination occurs because physics provides necessary but not sufficient causes. The [[prebiotic-collapse|prebiotic collapse problem]] shows this framework is cosmologically consistent.
+Quantum mechanics specifies probabilities but not which outcome actualizes. Causal closure fails at these points. If consciousness acts at these indeterminacies — selecting among outcomes physics leaves undetermined, as [[non-retrocausal-conscious-selection-models|non-retrocausal conscious selection]] frameworks propose — it causes physical events without competing with physical causes. No overdetermination occurs because physics provides necessary but not sufficient causes. The [[prebiotic-collapse|prebiotic collapse problem]] shows this framework is cosmologically consistent.
 
 This is the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness biases quantum outcomes where the physical story runs out.
 

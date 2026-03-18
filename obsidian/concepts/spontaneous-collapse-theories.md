@@ -109,7 +109,7 @@ Stuart Hameroff extends Penrose OR by proposing that consciousness arises when *
 - Requires large-scale quantum effects (microtubule-level), not minimal interaction
 - Experimental tests (germanium detectors, matter-wave interference) increasingly constrain Orch OR parameter space
 
-Orch OR aligns with [[tenets#^dualism|Dualism]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] but conflicts with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] by requiring macroscopic quantum coherence. The Map's framework favors smaller-scale quantum selection (see [[stapp-quantum-mind]]) or hybrid CSL-IIT models. For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [[quantum-neural-mechanisms-and-coherence|quantum neural mechanisms]].
+Orch OR aligns with [[tenets#^dualism|Dualism]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] but conflicts with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] by requiring macroscopic quantum coherence. The Map's framework favors smaller-scale quantum selection (see [[stapp-quantum-mind]]) or hybrid CSL-IIT models — both examples of [[non-retrocausal-conscious-selection-models|non-retrocausal conscious selection]]. For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [[quantum-neural-mechanisms-and-coherence|quantum neural mechanisms]].
 
 ## Experimental Status
 

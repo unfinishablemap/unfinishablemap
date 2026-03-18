@@ -96,7 +96,7 @@ As the Map's [[amplification-void]] article observes, this reframing deepens the
 
 The six mechanisms are not mutually exclusive. They operate at different points in the amplification chain and could function in concert:
 
-- **Microtubule collapse** and **Zeno stabilization** address the quantum end—how consciousness selects or sustains quantum states
+- **Microtubule collapse** and **Zeno stabilization** address the quantum end—how consciousness selects or sustains quantum states (both [[non-retrocausal-conscious-selection-models|non-retrocausal]] mechanisms acting forward in time)
 - **Synaptic tunneling** bridges quantum-to-molecular scales
 - **Chaotic sensitivity** and **SOC** bridge molecular-to-network scales
 - **Stochastic resonance** operates across all scales as a general amplification principle

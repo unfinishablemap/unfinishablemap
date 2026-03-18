@@ -186,7 +186,7 @@ Five considerations favour the non-retrocausal pathway:
 
 ### How the Frameworks Differ on Consciousness's Role
 
-Though Penrose-Hameroff, Stapp, and Chalmers-McQueen all posit forward-in-time selection, they assign consciousness different causal roles. In Penrose-Hameroff, consciousness *results from* collapse — the orchestrated reduction event *is* the conscious moment. In Stapp, consciousness *causes* collapse — mental attention actively projects onto desired states. In Chalmers-McQueen, consciousness *triggers* collapse — integrated information determines the collapse rate. Stapp and Chalmers-McQueen place consciousness in the causal driver's seat, while Penrose-Hameroff makes consciousness emergent from the collapse process. All three support the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet.
+Though Penrose-Hameroff, Stapp, and Chalmers-McQueen all posit forward-in-time selection (see [[non-retrocausal-conscious-selection-models]] for detailed comparison), they assign consciousness different causal roles. In Penrose-Hameroff, consciousness *results from* collapse — the orchestrated reduction event *is* the conscious moment. In Stapp, consciousness *causes* collapse — mental attention actively projects onto desired states. In Chalmers-McQueen, consciousness *triggers* collapse — integrated information determines the collapse rate. Stapp and Chalmers-McQueen place consciousness in the causal driver's seat, while Penrose-Hameroff makes consciousness emergent from the collapse process. All three support the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet.
 
 ## What Would Challenge This View?
 
