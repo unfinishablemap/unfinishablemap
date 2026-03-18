@@ -2,11 +2,16 @@
 title: "The Gödel-Measurement Problem Analogy"
 description: "Human+AI analysis of the structural connection between Gödel's incompleteness and quantum measurement—from loose metaphor through formal unification via Lawvere's theorem."
 created: 2026-03-17
-modified: 2026-03-17
+modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-17T21:30:00+00:00
+ai_modified: 2026-03-18T19:49:00+00:00
 last_deep_review: 2026-03-17T21:30:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-18T19:49:00+00:00
+superseded_by: "/topics/self-reference-and-the-limits-of-physical-description/"
+archive_reason: "Coalesced into Self-Reference and the Limits of Physical Description"
+original_path: "/topics/godel-measurement-problem-analogy/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
