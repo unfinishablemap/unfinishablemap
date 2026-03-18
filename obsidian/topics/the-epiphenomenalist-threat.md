@@ -4,7 +4,7 @@ description: "Epiphenomenalism isn't just one view among many—it's the default
 created: 2026-02-22
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-14T21:03:00+00:00
+ai_modified: 2026-03-18T19:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ concepts:
   - "[[agent-causation]]"
 related_articles:
   - "[[tenets]]"
-  - "[[epiphenomenalism-argument]]"
+  - "[[epiphenomenalism]]"
   - "[[epiphenomenalism-2026-01-08]]"
   - "[[epiphenomenal-ai-consciousness-2026-02-10]]"
   - "[[consciousness-and-causal-powers]]"

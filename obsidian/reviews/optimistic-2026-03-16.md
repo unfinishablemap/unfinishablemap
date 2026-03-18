@@ -121,7 +121,7 @@ The voids section is the Map's most distinctive contribution to intellectual hum
 | [[consciousness-and-counterfactual-reasoning]] | [[phenomenology-of-moral-deliberation]] | Moral deliberation involves counterfactual evaluation of alternative actions—the counterfactual workspace is the cognitive infrastructure for moral reasoning |
 | [[meta-problem-of-consciousness]] | [[transparency-void]] | Phenomenal transparency (experience conceals its representational nature) is directly relevant to why we find consciousness mysterious |
 | [[temporal-consciousness-and-the-specious-present]] | [[consciousness-and-counterfactual-reasoning]] | Counterfactual reasoning requires temporal integration (holding what-is and what-might-have-been simultaneously)—temporal consciousness provides the workspace |
-| [[decoherence]] | [[many-worlds-argument]] | Decoherence's failure to solve the measurement problem directly motivates rejection of many-worlds (which claims decoherence is all that's needed) |
+| [[decoherence]] | [[many-worlds]] | Decoherence's failure to solve the measurement problem directly motivates rejection of many-worlds (which claims decoherence is all that's needed) |
 | [[knowledge-argument]] | [[mathematical-void]] | Mary's Room is an instance of the broader pattern: formal knowledge cannot capture experiential knowledge. The mathematical void extends this to mathematical intuition |
 | [[consciousness-independent-baseline-cognition]] | [[phenomenology-of-moral-deliberation]] | Great ape cognition lacks moral deliberation—another capacity requiring conscious workspace, supporting the same baseline/consciousness distinction |
 

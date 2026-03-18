@@ -4,7 +4,7 @@ description: "Consciousness as causally inert byproduct. Self-stultification pro
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-03-18T01:29:00+00:00
+ai_modified: 2026-03-18T19:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ concepts:
   - "[[llm-consciousness]]"
 related_articles:
   - "[[tenets]]"
-  - "[[epiphenomenalism-argument]]"
+  - "[[epiphenomenalism]]"
   - "[[epiphenomenalism-2026-01-08]]"
   - "[[contemplative-neuroscience]]"
 ai_contribution: 100

@@ -63,7 +63,7 @@ last_curated: null
 - [[philosophical-stakes-of-spontaneous-collapse]] — inline link in No Many Worlds tenet section
 - [[consciousness-and-probability-interpretation]] — inline link in No Many Worlds tenet section
 - [[quantum-measurement-and-subjective-probability]] — inline link in No Many Worlds section
-- [[many-worlds-argument]] — inline link in Argument 3 (The Probability Problem)
+- [[many-worlds]] — inline link in Argument 3 (The Probability Problem)
 
 **Outbound (FROM this article, new):**
 - [[consciousness-and-probability-interpretation]] — Further Reading entry

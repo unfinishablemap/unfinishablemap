@@ -4,7 +4,7 @@ description: "Mary knows all physical facts about color but seems to learn somet
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-14T21:03:00+00:00
+ai_modified: 2026-03-18T19:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ concepts:
   - "[[objectivity-and-consciousness]]"
 related_articles:
   - "[[tenets]]"
-  - "[[epiphenomenalism-argument]]"
+  - "[[epiphenomenalism]]"
   - "[[knowledge-argument-marys-room-2026-01-14]]"
   - "[[aesthetic-irreducibility-arguments]]"
   - "[[epistemology-of-introspection]]"

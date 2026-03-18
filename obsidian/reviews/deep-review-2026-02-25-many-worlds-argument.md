@@ -76,7 +76,7 @@ All major counterarguments from the previous review remain well-addressed:
 - Added `description` frontmatter field
 - Fixed style guide violation ("This page" → "This article")
 - Added cross-reference to `[[concepts/many-worlds]]` in Further Reading
-- **Orphan integration**: Added 4 inbound `[[many-worlds-argument]]` cross-references from:
+- **Orphan integration**: Added 4 inbound `[[many-worlds]]` cross-references from:
   - [[arguments|Arguments]] section index — Discussion link now includes the argument page
   - [[tenets|Tenets]] — No Many Worlds rationale now links to the argument page
   - [[concepts/quantum-interpretations|Interpretations of Quantum Mechanics]] — "Why the Map Rejects MWI" section

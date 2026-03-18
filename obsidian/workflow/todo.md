@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix broken wikilinks to epiphenomenalism-argument and many-worlds-argument
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: 15 files reference [[epiphenomenalism-argument]] (correct slug: [[epiphenomenalism]]) and 3 files reference [[many-worlds-argument]] (correct slug: [[many-worlds]]). These are broken links pointing to nonexistent pages when the correct concept pages already exist. Update all wikilinks to use the correct slugs.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-18
-
 ### P2: Integrate contemplative-evidence-for-consciousness-theories.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -657,6 +650,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Fix broken wikilinks to epiphenomenalism-argument and many-worlds-argument
+- **Type**: refine-draft
+- **Notes**: 15 files reference [[epiphenomenalism-argument]] (correct slug: [[epiphenomenalism]]) and 3 files reference [[many-worlds-argument]] (correct slug: [[many-worlds]]). These are broken links pointing to nonexistent pages when the correct concept pages already exist. Update all wikilinks to use the correct slugs.
+- **Output**: Task context:
+15 files reference [[epiphenomenalism-argument]] (correct slug: [[epiphenomenalism]]) and 3 files reference [[many-worlds-argument]] (correct slug: [[many-worlds]]). These are broken links pointing to nonexistent pages when the correct concept pages already exist. Update all wikilinks to use the correct slugs.
 
 ### ✓ 2026-03-18: Create concept page for epistemological limits of Occam's razor
 - **Type**: expand-topic

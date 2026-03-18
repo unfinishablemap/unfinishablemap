@@ -4,7 +4,7 @@ description: "The radical claim that phenomenal consciousness is an introspectiv
 created: 2026-01-14
 modified: 2026-03-12
 human_modified: null
-ai_modified: 2026-03-14T21:03:00+00:00
+ai_modified: 2026-03-18T19:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ concepts:
   - "[[causal-closure]]"
 related_articles:
   - "[[tenets]]"
-  - "[[epiphenomenalism-argument]]"
+  - "[[epiphenomenalism]]"
   - "[[the-epiphenomenalist-threat]]"
   - "[[self-stultification-as-master-argument]]"
   - "[[metaproblem-of-consciousness-under-dualism]]"

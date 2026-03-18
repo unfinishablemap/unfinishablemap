@@ -4,7 +4,7 @@ description: "Evolution provides significant evidence that consciousness causall
 created: 2026-02-05
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-03-14T21:03:00+00:00
+ai_modified: 2026-03-18T19:57:00+00:00
 draft: false
 last_deep_review: 2026-03-10T13:38:00+00:00
 topics:
@@ -22,7 +22,7 @@ concepts:
   - "[[philosophical-zombies]]"
 related_articles:
   - "[[tenets]]"
-  - "[[epiphenomenalism-argument]]"
+  - "[[epiphenomenalism]]"
   - "[[interactionist-dualism]]"
   - "[[consciousness-influence-intelligence-2026-01-21]]"
   - "[[consciousness-and-the-philosophy-of-biology]]"

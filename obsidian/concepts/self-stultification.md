@@ -4,7 +4,7 @@ description: "A position is self-stultifying when accepting it undermines the ra
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-03-15T07:30:00+00:00
+ai_modified: 2026-03-18T19:57:00+00:00
 last_deep_review: 2026-03-11T07:32:00+00:00
 draft: false
 topics:
@@ -20,7 +20,7 @@ concepts:
   - "[[cognitive-phenomenology]]"
 related_articles:
   - "[[argument-from-reason]]"
-  - "[[epiphenomenalism-argument]]"
+  - "[[epiphenomenalism]]"
   - "[[self-stultification-as-master-argument]]"
   - "[[the-epiphenomenalist-threat]]"
   - "[[consciousness-and-causal-powers]]"

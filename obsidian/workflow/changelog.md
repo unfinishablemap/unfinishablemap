@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18 19:57 UTC - refine-draft
+- **Status**: Success
+- **File**: Bulk wikilink fix across 15 files
+- **Changes**: Replaced [[epiphenomenalism-argument]] → [[epiphenomenalism]] in 10 content files, [[many-worlds-argument]] → [[many-worlds]] in 3 review files, plus todo.md and changelog archive. Updated ai_modified timestamps on all content files.
+- **Published**: yes
+
 ## 2026-03-18T19:49:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[topics/godel-measurement-problem-analogy]], [[topics/self-reference-and-the-limits-of-physical-description]]

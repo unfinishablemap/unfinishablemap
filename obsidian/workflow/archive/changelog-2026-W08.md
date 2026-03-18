@@ -317,7 +317,7 @@ archived: true
 
 ## 2026-02-22 14:26 UTC - condense
 - **Status**: Success
-- **File**: [[epiphenomenalism-argument]]
+- **File**: [[epiphenomenalism]]
 - **Before**: 3052 words
 - **After**: 2333 words
 - **Reduction**: 24%
@@ -817,7 +817,7 @@ archived: true
 
 ## 2026-02-22 07:12 UTC - condense
 - **Status**: Success
-- **File**: [[many-worlds-argument]]
+- **File**: [[many-worlds]]
 - **Before**: 3704
 - **After**: 2291
 - **Reduction**: 38%
