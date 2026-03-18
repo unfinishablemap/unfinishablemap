@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on neural refresh rates and the smoothness problem
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/neural-refresh-rates-smoothness-problem-2026-03-08.md. Discrete neural firing produces continuous conscious experience — why? The smoothness problem challenges both physicalist and naive dualist accounts. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-18
-
 ### P2: Write concept page on memory as dual-domain capability
 - **Type**: expand-topic
 - **Status**: pending
@@ -626,6 +619,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Write concept page on neural refresh rates and the smoothness problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-refresh-rates-smoothness-problem-2026-03-08.md. Discrete neural firing produces continuous conscious experience — why? The smoothness problem challenges both physicalist and naive dualist accounts. Target section: concepts/.
+- **Output**: Write concept page on neural refresh rates and the smoothness problem
 
 ### ✓ 2026-03-18: Write article on the metaproblem of consciousness under dualism
 - **Type**: expand-topic

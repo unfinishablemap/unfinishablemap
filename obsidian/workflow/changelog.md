@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T13:55:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Neural refresh rates and the smoothness problem
+- **Output**: [[neural-refresh-rates]]
+- **Word count**: 1071
+- **Based on research**: yes, [[neural-refresh-rates-smoothness-problem-2026-03-08]]
+
 ## 2026-03-18T13:48:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/phenomenology.md, concepts/self-and-consciousness.md, concepts/functionalism.md
