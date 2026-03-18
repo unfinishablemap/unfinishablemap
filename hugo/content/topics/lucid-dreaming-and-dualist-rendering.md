@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-03-18 06:59:00+00:00
+ai_modified: 2026-03-18 12:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ description: Lucid dreaming reveals that consciousness renders phenomenal worlds
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-18 12:21:00+00:00
 modified: *id001
 related_articles:
 - '[[capability-division-problem]]'
@@ -77,7 +77,7 @@ A key distinction emerges from dream phenomenology: the brain provides rendering
 
 The [rendering engine analogy](/concepts/mind-brain-separation/) captures this division. The brain is the hardware and software pipeline — visual cortex processes visual representations, parietal regions maintain spatial frameworks, limbic structures generate emotional tone. Consciousness is the user, directing what the engine renders. During waking, the user's input is heavily filtered through sensory constraint. During dreaming, the user operates the engine with fewer restrictions.
 
-## Five Capability Signatures
+## Four Capability Signatures
 
 Lucid dreaming reveals specific capabilities that illuminate the division between brain-side and mind-side contributions. Each signature maps onto the [dual-domain framework](/concepts/memory-as-dual-domain-capability/): the brain provides representational infrastructure and architectural constraints, while consciousness contributes phenomenal rendering, intentional direction, and selective guidance.
 
@@ -105,13 +105,13 @@ The vision evidence sharpens this point. In waking vision, consciousness enters 
 
 ### Metacognitive Sovereignty
 
-The transition from non-lucid to lucid dreaming demonstrates that consciousness can reactivate its own metacognitive capacity during sleep. The dreamer recognises "I am dreaming" — a judgment about the status of ongoing experience — while the neural conditions that normally support such judgments (full prefrontal activation, aminergic neurochemistry) are largely absent. Frequent lucid dreamers show increased anterior prefrontal cortex volume and enhanced functional connectivity with temporoparietal regions (Baird et al., 2018), suggesting that practice in deploying this capability reshapes neural structure. The physicalist reads this as neuroplasticity: practice changes the brain, which improves metacognition. But the dualist notes what initiates the practice: the dreamer's *recognition* that the current experience is a dream — a judgment about phenomenal status that occurs when the neural conditions normally supporting such judgments are largely absent. The structural changes follow from a capability that was exercised before the neural accommodation existed.
+The transition from non-lucid to lucid dreaming demonstrates that consciousness can reactivate its own metacognitive capacity during sleep. The dreamer recognises "I am dreaming" — a judgment about the status of ongoing experience — while the neural conditions that normally support such judgments (full prefrontal activation, aminergic neurochemistry) are largely absent. Frequent lucid dreamers show enhanced functional connectivity between frontopolar cortex and temporoparietal association areas (Baird et al., 2018), suggesting that practice in deploying this capability reshapes neural structure. The physicalist reads this as neuroplasticity: practice changes the brain, which improves metacognition. But the dualist notes what initiates the practice: the dreamer's *recognition* that the current experience is a dream — a judgment about phenomenal status that occurs when the neural conditions normally supporting such judgments are largely absent. The structural changes follow from a capability that was exercised before the neural accommodation existed.
 
 ## The Degradation Asymmetry
 
 The most philosophically pointed version of the rendering dilemma concerns degradation. If the brain can generate vivid visual scenes during sleep, why does waking perception degrade so directly with sensory organ deterioration?
 
-Cataracts produce blurred vision. Cochlear damage produces hearing loss. Retinal degeneration produces scotomas. In each case, the brain passively transmits degraded input rather than compensating with its demonstrated rendering capability. Charles Bonnet syndrome — vivid visual hallucinations in people with significant vision loss — shows the brain *can* generate compensatory imagery, but only sporadically and involuntarily. The rendering capability is present but not reliably deployed.
+Cataracts produce blurred vision. Cochlear damage produces hearing loss. Retinal degeneration produces scotomas. In each case, the brain passively transmits degraded input rather than compensating with its demonstrated rendering capability. Charles Bonnet syndrome — vivid visual hallucinations in people with significant vision loss (Ffytche et al., 1998) — shows the brain *can* generate compensatory imagery, but only sporadically and involuntarily. The rendering capability is present but not reliably deployed.
 
 The filter model has a cleaner account. During waking, consciousness accesses sensory reality *through* the filter. If the filter's input channel degrades (damaged retina, impaired cochlea), the transmitted signal degrades accordingly — just as a radio with a damaged antenna receives a degraded signal even though the broadcast is intact. During dreaming, the filter shifts mode: sensory constraint is lifted, and consciousness renders through the brain's architecture using its own resources. The asymmetry is predicted, not anomalous.
 
@@ -156,4 +156,5 @@ The Konkoly et al. (2026) study adds further pressure. Puzzle-incorporation into
 1. Konkoly, K. R., Appel, K., Chabani, E., et al. (2021). Real-time dialogue between experimenters and dreamers during REM sleep. *Current Biology*, 31(7), 1417-1427.
 1. Konkoly, K. R., et al. (2026). Creative problem-solving after experimentally provoking dreams of unsolved puzzles during REM sleep. *Neuroscience of Consciousness*, 2026(1), niaf067.
 1. Metzinger, T. (2009). *The Ego Tunnel: The Science of the Mind and the Myth of the Self*. Basic Books.
+1. Ffytche, D. H., Howard, R. J., Brammer, M. J., David, A., Woodruff, P., & Williams, S. (1998). The anatomy of conscious vision: an fMRI study of visual hallucinations. *Nature Neuroscience*, 1(8), 738-742.
 1. Revonsuo, A. (2000). The reinterpretation of dreams: An evolutionary hypothesis of the function of dreaming. *Behavioral and Brain Sciences*, 23(6), 877-901.
