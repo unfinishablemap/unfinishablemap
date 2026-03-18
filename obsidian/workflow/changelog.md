@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18 20:12 UTC - deep-review
+- **Status**: Skipped (archived content)
+- **File**: convergent-cognitive-limits.md
+- **Reason**: Article was coalesced on 2026-03-05 into [[voids/evolved-cognitive-limits]], which has ~58 inbound links and is well-integrated. The todo task (integrate-orphan) was stale — the orphan detection found the archived hugo copy, not a live obsidian file. No review needed for archived content.
+
 ## 2026-03-18 20:05 UTC - deep-review
 - **Status**: Skipped (archived content)
 - **File**: contemplative-evidence-for-consciousness-theories.md
