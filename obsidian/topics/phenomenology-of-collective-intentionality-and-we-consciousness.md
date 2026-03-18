@@ -4,7 +4,7 @@ description: "What it is like to think as 'we' rather than 'I'—the distinctive
 created: 2026-03-12
 modified: 2026-03-16
 human_modified:
-ai_modified: 2026-03-16T05:18:00+00:00
+ai_modified: 2026-03-18T04:44:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-collective-phenomena]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[phenomenology-of-musical-understanding]]"
   - "[[phenomenal-attention]]"
   - "[[animal-consciousness]]"
-  - "[[childhood-development-and-the-interface]]"
+  - "[[consciousness-interface-development]]"
   - "[[cross-cultural-phenomenology-of-agency]]"
   - "[[problem-of-other-minds]]"
 ai_contribution: 100
@@ -71,7 +71,7 @@ This matters philosophically because it challenges the assumption — common to 
 
 Tomasello's research on shared intentionality provides empirical grounding for these phenomenological observations. Human infants develop capacities for joint attention, shared goals, and collaborative activity in a sequence that has no clear parallel in great apes.
 
-At nine months, infants engage in joint attention — following gaze, pointing, and engaging in triadic interactions. By twelve to fourteen months, they participate in shared cooperative activities with complementary roles. By three years, they enforce norms on others — telling peers that a game "should" be played a certain way. This progression — which the Map's treatment of [[childhood-development-and-the-interface|childhood development]] examines from the interface perspective — builds from basic shared awareness to full-blown collective intentionality with normative structure.
+At nine months, infants engage in joint attention — following gaze, pointing, and engaging in triadic interactions. By twelve to fourteen months, they participate in shared cooperative activities with complementary roles. By three years, they enforce norms on others — telling peers that a game "should" be played a certain way. This progression — which the Map's treatment of [[consciousness-interface-development|childhood development]] examines from the interface perspective — builds from basic shared awareness to full-blown collective intentionality with normative structure.
 
 The phenomenological dimension of this developmental sequence is often underappreciated. What changes as the infant matures is not just the complexity of their social behaviour but the character of their experience. Joint attention is not merely looking where someone else looks; it involves experiencing the attended object *as jointly attended*. The "as" marks a phenomenal transformation. The toy that mother and child attend to together is experienced differently from the toy attended to alone — it carries an intersubjective significance that is part of how it appears, not an interpretation layered over a private perception.
 

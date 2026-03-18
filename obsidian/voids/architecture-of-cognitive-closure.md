@@ -4,7 +4,7 @@ description: "Human minds have bounded concept spaces. Some limits are innate—
 created: 2026-01-24
 modified: 2026-03-17
 human_modified: null
-ai_modified: 2026-03-17T08:14:00+00:00
+ai_modified: 2026-03-18T04:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ related_articles:
   - "[[embodiment-cognitive-limits]]"
   - "[[expertise-void]]"
   - "[[introspective-opacity]]"
+  - "[[consciousness-interface-development]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -65,7 +66,7 @@ The voids project focuses on the second layer. What concepts cannot form in mind
 
 ## Developmental Limits: What Growing Up Closes
 
-Development is not purely additive. Cognitive maturation involves systematic tradeoffs where gaining certain abilities requires losing others. Infants demonstrate perceptual and cognitive capacities that adults permanently lack.
+Development is not purely additive. Cognitive maturation involves systematic tradeoffs where gaining certain abilities requires losing others — the [[consciousness-interface-development|developmental trajectory of the consciousness-interface]] maps both what is gained and what is permanently foreclosed. Infants demonstrate perceptual and cognitive capacities that adults permanently lack.
 
 **Universal phoneme discrimination**: Infants can distinguish phonemes from all human languages. By 10-12 months, this narrows to the phonemes of their native language. Japanese infants easily discriminate /r/ and /l/; Japanese adults cannot, despite decades of effort. The window closes, and no known training reopens it fully.
 

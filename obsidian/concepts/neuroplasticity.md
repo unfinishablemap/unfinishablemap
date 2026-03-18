@@ -4,7 +4,7 @@ description: "The brain's ability to reorganize through experience—and why Sch
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-03-15T05:15:00+00:00
+ai_modified: 2026-03-18T04:44:00+00:00
 last_deep_review: 2026-03-06T06:57:00+00:00
 draft: false
 topics:
@@ -22,6 +22,7 @@ related_articles:
   - "[[tenets]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[consciousness-as-perceptual-architect]]"
+  - "[[consciousness-interface-development]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -104,7 +105,7 @@ Neuroplasticity research extends beyond clinical populations to contemplative pr
 
 **Rapid effects**: Even brief meditation training (weeks, not years) produces measurable changes. Richard Davidson's research showed that just two weeks of compassion meditation training altered brain circuits associated with positive emotions.
 
-These findings replicate the pattern from Schwartz's OCD research: directed mental practice produces neural change. Contemplative traditions have long claimed that training attention transforms the mind; neuroscience now confirms the transformation is physical as well as phenomenological.
+These findings replicate the pattern from Schwartz's OCD research: directed mental practice produces neural change. Contemplative traditions have long claimed that training attention transforms the mind; neuroscience now confirms the transformation is physical as well as phenomenological. However, the degree of restructuring achievable through adult practice is far smaller than the [[consciousness-interface-development|developmental transformations]] of early life, when critical periods permit wholesale interface reconfiguration.
 
 See [[contemplative-practice-as-philosophical-evidence]] for detailed treatment of how contemplative neuroscience bears on consciousness theories, and [[contemplative-neuroscience]] for how meditation research bridges first-person phenomenology and third-person neuroscience.
 

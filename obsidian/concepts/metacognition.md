@@ -4,7 +4,7 @@ description: "Metacognition and metarepresentation are cognitive tools conscious
 created: 2026-01-18
 modified: 2026-02-21
 human_modified: null
-ai_modified: 2026-03-05T16:47:00+00:00
+ai_modified: 2026-03-18T04:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,6 +42,7 @@ related_articles:
   - "[[metacognition-consciousness-2026-01-18]]"
   - "[[consciousness-independent-baseline-cognition-2026-01-21]]"
   - "[[dream-consciousness]]"
+  - "[[consciousness-interface-development]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -162,7 +163,7 @@ Uncertainty monitoring has been demonstrated in rats, primates, and dolphins (Te
 
 ## Comparative Development
 
-Metarepresentational capacities develop gradually in human children: joint attention (18-24 months), false-belief understanding (3-4 years), explicit understanding that beliefs can be false (4-5 years), understanding knowledge as representation (6-7 years). This trajectory mirrors the emergence of explicit consciousness—children become explicitly aware of their own minds. The developmental data suggest metarepresentation is built on consciousness rather than constituting it.
+Metarepresentational capacities develop gradually in human children: joint attention (18-24 months), false-belief understanding (3-4 years), explicit understanding that beliefs can be false (4-5 years), understanding knowledge as representation (6-7 years). This trajectory mirrors the emergence of explicit consciousness—children become explicitly aware of their own minds. The [[consciousness-interface-development|developmental transformation of the consciousness-interface]] examines how each stage depends on neural infrastructure maturing on a biological timetable. The developmental data suggest metarepresentation is built on consciousness rather than constituting it.
 
 ## Relation to Site Perspective
 

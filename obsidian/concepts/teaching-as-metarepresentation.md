@@ -4,7 +4,7 @@ description: "Teaching requires knowing that you know and that others don't. Gre
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-11T22:32:00+00:00
+ai_modified: 2026-03-18T04:44:00+00:00
 draft: false
 last_deep_review: 2026-03-11T22:32:00+00:00
 topics:
@@ -22,6 +22,7 @@ concepts:
   - "[[topics/free-will]]"
 related_articles:
   - "[[tenets]]"
+  - "[[consciousness-interface-development]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -141,7 +142,7 @@ Human teaching capacities emerge developmentally alongside metarepresentational 
 
 **Ages 5-7**: Teaching becomes elaborate. Children explain, scaffold, check comprehension, adjust to learner level. These behaviours require representing the learner's developing understanding and modifying pedagogical strategy accordingly.
 
-This developmental trajectory parallels the emergence of [[metacognition|metarepresentation]]. Teaching sophistication tracks metarepresentational capacity, consistent with the claim that teaching requires the metarepresentational operations consciousness enables.
+This developmental trajectory parallels the emergence of [[metacognition|metarepresentation]] and exemplifies the broader [[consciousness-interface-development|transformation of the consciousness-interface across childhood]]. Teaching sophistication tracks metarepresentational capacity, consistent with the claim that teaching requires the metarepresentational operations consciousness enables.
 
 ## AI and Teaching
 

@@ -4,7 +4,7 @@ description: "If the brain is an interface rather than the seat of mind, cogniti
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-03-12T06:07:00+00:00
+ai_modified: 2026-03-18T04:44:00+00:00
 draft: false
 topics:
   - "[[ethics-of-consciousness]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[identity-across-transformations]]"
   - "[[psychedelics-and-the-filter-model]]"
   - "[[consciousness-and-moral-agency-under-duress]]"
-  - "[[childhood-development-and-the-interface]]"
+  - "[[consciousness-interface-development]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -69,7 +69,7 @@ Enhancement technologies raise distinctive consent issues under dualism. If a de
 
 This concern exists under any metaphysics, but dualism sharpens it. If consciousness is not produced by the brain but uses it as an interface, then prenatal cognitive enhancement is analogous to building a custom instrument for a musician who has not yet been consulted about what kind of music they want to play. The interface shapes what consciousness can readily express, perceive, and engage with. Choosing that interface for another person is choosing the parameters of their experiential life.
 
-The counterargument is that all parents already make this choice through genetics, environment, nutrition, and education. Enhancement merely makes the choice more deliberate. Under dualism, though, the stakes feel different: you are not just shaping a brain, you are configuring the channel through which an irreducible conscious subject will engage with reality. The Map's analysis of [[childhood-development-and-the-interface|childhood interface development]] sharpens this further: the developing brain already undergoes critical periods where synaptic pruning permanently forecloses perceptual territories. Enhancement during these windows would interact with natural developmental processes in ways that could permanently alter the interface's configuration—not merely adding capacity but reshaping which territories consciousness can access.
+The counterargument is that all parents already make this choice through genetics, environment, nutrition, and education. Enhancement merely makes the choice more deliberate. Under dualism, though, the stakes feel different: you are not just shaping a brain, you are configuring the channel through which an irreducible conscious subject will engage with reality. The Map's analysis of [[consciousness-interface-development|childhood interface development]] sharpens this further: the developing brain already undergoes critical periods where synaptic pruning permanently forecloses perceptual territories. Enhancement during these windows would interact with natural developmental processes in ways that could permanently alter the interface's configuration—not merely adding capacity but reshaping which territories consciousness can access.
 
 ## Enhancement and the Quantum Interface
 
@@ -120,7 +120,7 @@ The Map's dualist commitments reshape cognitive enhancement ethics in several wa
 - [[mind-matter-interface]] — The interface model that reframes enhancement
 - [[moral-responsibility]] — How agent causation grounds desert
 - [[consciousness-and-moral-agency-under-duress]] — Parallel case: agency under constrained conditions
-- [[childhood-development-and-the-interface]] — How the interface develops and why enhancement timing matters
+- [[consciousness-interface-development]] — How the interface develops and why enhancement timing matters
 - [[altered-states-of-consciousness]] — Other modes of interface reconfiguration
 - [[consciousness-and-agency]]
 - [[psychedelics-and-the-filter-model]] — Pharmacological evidence for filter loosening

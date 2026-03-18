@@ -4,7 +4,7 @@ description: "Where does consciousness meet the brain? Four candidate sites exis
 created: 2026-02-09
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-03-14T22:46:00+00:00
+ai_modified: 2026-03-18T04:44:00+00:00
 draft: false
 last_deep_review: 2026-03-14T22:46:00+00:00
 topics:
@@ -28,7 +28,7 @@ related_articles:
   - "[[mind-matter-interface]]"
   - "[[the-interface-specification-problem]]"
   - "[[the-psychophysical-control-law]]"
-  - "[[developmental-trajectory-of-the-interface]]"
+  - "[[consciousness-interface-development]]"
   - "[[attention-motor-planning-quantum-interface-2026-01-23]]"
 ai_contribution: 100
 author:
@@ -122,7 +122,7 @@ This clarifies the relationship between the Map's framework and the physical sub
 
 ### The Developmental Trajectory
 
-The Map's [[developmental-trajectory-of-the-interface|lifespan analysis]] revealed that the interface undergoes systematic restructuring — wide aperture in infancy, narrowing through critical periods, peaking in structured control during adulthood, loosening again in age. Any candidate site must account for this trajectory. Static molecular sites (microtubules, individual ion channels) do not obviously explain why the interface character changes with developmental phase. Sites embedded in the attention-motor architecture — which itself undergoes dramatic developmental restructuring — do.
+The Map's [[consciousness-interface-development|lifespan analysis]] revealed that the interface undergoes systematic restructuring — wide aperture in infancy, narrowing through critical periods, peaking in structured control during adulthood, loosening again in age. Any candidate site must account for this trajectory. Static molecular sites (microtubules, individual ion channels) do not obviously explain why the interface character changes with developmental phase. Sites embedded in the attention-motor architecture — which itself undergoes dramatic developmental restructuring — do.
 
 ## Reordering the Candidates
 
@@ -195,7 +195,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies to the hier
 - [[the-psychophysical-control-law]] — Candidate formal mappings from phenomenal states to physical effects
 - [[attention-and-the-consciousness-interface]] — How attention and motor planning converge as a unified interface
 - [[coupling-modes]] — Three modes of consciousness-physics interaction
-- [[developmental-trajectory-of-the-interface]] — How the interface transforms across the lifespan
+- [[consciousness-interface-development]] — How the interface transforms across the lifespan
 - [[mind-matter-interface]] — The two-layer architecture unifying filter theory and quantum selection
 - [[dopamine-and-the-unified-interface]] — How dopamine prepares the selection interface through salience marking and threshold modulation
 - [[brain-interface-boundary]] — Why consciousness acts only in brains (the five criteria)
