@@ -4,7 +4,7 @@ description: "Lucid dreaming reveals which cognitive capabilities depend on sens
 created: 2026-03-09
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-10T15:53:00+00:00
+ai_modified: 2026-03-18T00:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,6 +20,7 @@ concepts:
   - "[[memory-as-dual-domain-capability]]"
 related_articles:
   - "[[capability-division-problem]]"
+  - "[[capability-division-in-vision]]"
   - "[[perception-and-conscious-experience]]"
   - "[[consciousness-independent-baseline-cognition]]"
   - "[[consciousness-and-memory]]"
@@ -29,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-09
 last_curated:
-last_deep_review: 2026-03-10T15:53:00+00:00
+last_deep_review: 2026-03-18T00:14:00+00:00
 ---
 
 Lucid dreaming is a natural experiment in capability division. During a lucid dream, sensory input is suppressed, the prefrontal cortex partially reactivates, and neurochemistry is fundamentally altered — yet the dreamer navigates [[three-dimensional-world-representation-problem|three-dimensional space]], recognises objects, exercises deliberate agency, and experiences phenomenally vivid perception. The Unfinishable Map's [[capability-division-problem|capability division problem]] asks which cognitive capabilities belong to the brain and which to consciousness. Lucid dreaming provides unusually clean evidence: it strips away sensory input while preserving conscious experience, revealing what consciousness can do when the brain's normal informational channel is closed.
@@ -52,6 +53,8 @@ This interpretation explains a feature the brain-side account struggles with: wh
 
 Lucid dreaming reveals specific capabilities that illuminate the division between brain-side and mind-side contributions. Each signature maps onto the [[memory-as-dual-domain-capability|dual-domain framework]]: the brain provides representational infrastructure and architectural constraints, while consciousness contributes phenomenal rendering, intentional direction, and selective guidance. Dreaming makes this division visible because the brain's normal informational channel — sensory input — is closed.
 
+The [[capability-division-in-vision|capability division in waking vision]] identifies the same boundary from the opposite direction. In vision, consciousness enters at the point of perceptual organisation — binding features into unified percepts, providing perceptual ownership, enabling flexible deployment across novel contexts. Lucid dreaming shows these same consciousness-requiring functions operating when sensory input is entirely absent, confirming they are not downstream consequences of sensory processing but contributions consciousness makes through neural architecture.
+
 ### Intention-Responsiveness
 
 In lucid dreams, beliefs and expectations directly shape the dream world. Baird et al. (2019) note that "because dream experience is not constrained by sensory input or other limits of waking experience, beliefs and expectations play a key role in determining the form of and behavior occurring within a lucid dream." The lucid dreamer who decides to fly experiences the dream environment reconfiguring in response to intention.
@@ -62,7 +65,7 @@ This is mental causation in miniature. Will alters phenomenal reality — not by
 
 Lucid dreamers routinely violate physical law — flight, teleportation, object transformation — without disrupting the coherence of the dream world. Architectural constraints persist (spatial relationships, visual processing characteristics transfer from waking), but content constraints dissolve. The [[dream-consciousness|dream consciousness]] article interprets this as a two-layer phenomenon: the brain's rendering architecture imposes structural constraints because consciousness operates *through* these systems, while physical law dissolves because it was enforced by sensory reality and executive oversight, not by the architecture itself.
 
-For the capability division, this dissociation is revealing. The brain contributes architectural constraints — the processing characteristics of visual cortex, the spatial framework of parietal regions. Consciousness contributes the content that fills this architecture and can override physical plausibility when sensory reality is not enforcing it.
+For the capability division, this dissociation is revealing. The brain contributes architectural constraints — the processing characteristics of visual cortex, the spatial framework of parietal regions — paralleling the [[capability-division-in-vision|two-streams dissociation]] where dorsal-stream spatial processing operates with minimal consciousness while ventral-stream object recognition depends heavily on phenomenal awareness. In dreams, the dorsal-like spatial framework persists (dreamers navigate three-dimensional environments) while consciousness generates the ventral-like phenomenal content that fills this architecture, free from sensory constraint.
 
 ### Vividness Surplus
 
@@ -71,6 +74,8 @@ Dream experience is often more emotionally vivid and perceptually immersive than
 ### Phenomenal Completeness
 
 Dreams include integrated multisensory experience (vision, audition, touch, proprioception, emotion) without any corresponding sensory transduction. The rendering system produces the full qualitative spectrum autonomously. [[Blindsight]] demonstrates that the brain can process visual information without phenomenal experience; dreams demonstrate the converse — phenomenal experience without visual input. This double dissociation supports the view that phenomenal rendering is a distinct capability, not an automatic consequence of information processing.
+
+The vision evidence sharpens this point. In waking vision, consciousness enters at [[capability-division-in-vision#Where Consciousness Enters|perceptual organisation]] — the binding of features into coherent objects, the segregation of figure from ground. These operations correlate with phenomenal awareness and fail in blindsight. In dreams, the same perceptual organisation occurs without any feature extraction from external stimuli. The dreamer perceives unified objects in coherent spatial arrangements — exactly the operations that waking vision research identifies as consciousness-dependent — generated entirely from mind-side resources.
 
 ### Metacognitive Sovereignty
 

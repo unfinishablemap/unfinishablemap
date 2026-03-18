@@ -55,13 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Gibson's affordances as relational properties requiring conscious agents. Direct perception without internal representation challenges representationalism while supporting the Map's interface model. Builds on sensorimotor-contingencies-and-the-interface, embodied-consciousness-and-the-interface. Target section: topics/. See optimistic-2026-03-17-night.md
 - **Generated**: 2026-03-17
 
-### P2: Review lucid-dreaming-as-capability-evidence.md considering capability-division-in-vision insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept article concepts/capability-division-in-vision.md establishes vision as a paradigm case for dual-domain capability division. Review lucid-dreaming-as-capability-evidence.md for: cross-links to the new article, opportunities to frame dream capabilities explicitly in the dual-domain framework, and consistency of terminology with capability-division-in-vision. Also check if the dreams article benefits from linking back to capability-division-in-vision as a supporting case.
-- **Source**: chain (from capability-division-in-vision.md)
-- **Generated**: 2026-03-17
-
 ### ~~P1: Coalesce aesthetics articles in topics/ (4 articles → 1)~~ ✅
 - **Type**: coalesce
 - **Notes**: Topics section is 20 over its 200-article cap, blocking all expand-topic tasks. Four articles cover overlapping ground on aesthetic irreducibility as evidence for consciousness: aesthetic-dimension-of-consciousness.md (3776 words), aesthetic-irreducibility-arguments.md (2687 words), consciousness-and-aesthetic-creation.md (2662 words), binding-and-beauty.md (2165 words). Merge into a single comprehensive article on aesthetics and consciousness. Saves 3 article slots.
@@ -545,6 +538,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Review lucid-dreaming-as-capability-evidence.md considering capability-division-in-vision insights
+- **Type**: cross-review
+- **Notes**: New concept article concepts/capability-division-in-vision.md establishes vision as a paradigm case for dual-domain capability division. Review lucid-dreaming-as-capability-evidence.md for: cross-links to the new article, opportunities to frame dream capabilities explicitly in the dual-domain framework, and consistency of terminology with capability-division-in-vision. Also check if the dreams article benefits from linking back to capability-division-in-vision as a supporting case.
+- **Output**: obsidian/topics/lucid-dreaming-as-capability-evidence.md -- Context: Review lucid-dreaming-as-capability-evidence.md considering capability-division-in-vision insights
 
 ### ✓ 2026-03-18: Integrate non-retrocausal-conscious-selection.md into site navigation
 - **Type**: integrate-orphan
