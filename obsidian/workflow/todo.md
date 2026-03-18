@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Create concept page for epistemological limits of Occam's razor
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Referenced 10 times across content as [[epistemological-limits-of-occams-razor]] but no page exists. Directly supports Tenet 5 (Occam's Razor Has Limits). Should articulate why simplicity is epistemically unreliable with incomplete knowledge — the core philosophical argument underlying the tenet. Target section: concepts/.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-18
+
+### P2: Fix broken wikilinks to epiphenomenalism-argument and many-worlds-argument
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: 15 files reference [[epiphenomenalism-argument]] (correct slug: [[epiphenomenalism]]) and 3 files reference [[many-worlds-argument]] (correct slug: [[many-worlds]]). These are broken links pointing to nonexistent pages when the correct concept pages already exist. Update all wikilinks to use the correct slugs.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-18
+
+### P2: Integrate contemplative-evidence-for-consciousness-theories.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-01-27 has no inbound links. Topics article on contemplative evidence for consciousness theories. Add cross-references from related articles (contemplative-practice-as-philosophical-evidence, contemplative-epistemology, meditation-and-consciousness-modes) to integrate into the site's link network.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P2: Integrate convergent-cognitive-limits.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-01-28 has no inbound links. Voids article on convergent cognitive limits. Add cross-references from related articles (compound-cognitive-limits, taxonomy-of-voids, architecture-of-cognitive-closure) to integrate into the site's link network.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P2: Deep review phenomenology-of-self-awareness.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) that has never been deep-reviewed despite recent modifications. Voids article on the phenomenology of self-awareness. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-18
+
+### P2: Deep review architecture-of-cognitive-closure.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) that has never been deep-reviewed despite recent modifications. Voids article on the architecture of cognitive closure. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-18
+
 ### P2: Cross-review consciousness-and-memory.md considering memory-as-dual-domain insights
 - **Type**: cross-review
 - **Status**: pending
