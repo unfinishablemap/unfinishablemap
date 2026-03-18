@@ -4,7 +4,7 @@ description: "Why normative claims grip us: the shared phenomenal architecture o
 created: 2026-02-13
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-04T07:40:00+00:00
+ai_modified: 2026-03-18T15:28:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-moral-experience]]"
@@ -14,7 +14,7 @@ topics:
 concepts:
   - "[[phenomenal-normativity]]"
   - "[[topics/phenomenal-value-realism]]"
-  - "[[moral-perception]]"
+  - "[[moral-phenomenology-and-perception]]"
   - "[[qualia]]"
   - "[[phenomenology]]"
   - "[[cognitive-phenomenology]]"
@@ -170,7 +170,7 @@ The consciousness-based account would face pressure if:
 - [[authentic-vs-inauthentic-choice]] — When choice engages consciousness's selection function
 - [[phenomenology-of-deliberation-under-uncertainty]] — The felt character of deciding without full information
 - [[explanatory-gap]] — The gap between physical description and phenomenal experience
-- [[moral-perception]] — Direct perception of moral properties
+- [[moral-phenomenology-and-perception|Moral Phenomenology and Perception]] — Direct perception of moral properties
 - [[agent-causation]] — Conscious origination of action
 - [[normative-phenomenology]] — The phenomenology of normative experience
 - [[hard-problem-of-consciousness]] — Why consciousness resists reductive explanation

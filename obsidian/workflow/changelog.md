@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T15:28:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/moral-phenomenology-and-perception]]
+- **Word count**: 2396 → 2396 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (vague display text, 23 stale wikilinks across 10 files)
+- **Enhancements made**: 1 (merged duplicate Further Reading entries)
+- **Output**: [[reviews/deep-review-2026-03-18-moral-phenomenology-and-perception]]
+
 ## 2026-03-18T15:20:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[moral-perception]], [[moral-phenomenology]]

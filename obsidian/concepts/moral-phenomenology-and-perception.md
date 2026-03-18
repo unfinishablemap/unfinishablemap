@@ -4,7 +4,7 @@ description: "What moral experience feels like from the inside and whether ethic
 created: 2026-02-12
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T15:20:00+00:00
+ai_modified: 2026-03-18T15:28:00+00:00
 draft: false
 topics:
   - "[[ethics-of-consciousness]]"
@@ -36,7 +36,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-18T15:28:00+00:00
 coalesced_from:
   - "/concepts/moral-perception/"
   - "/concepts/moral-phenomenology/"
@@ -74,7 +74,7 @@ Kant characterised this as reason's authority over inclination. Moral phenomenol
 
 ### Moral Admiration
 
-Witnessing integrity under pressure produces moral admiration — a state distinguishable from aesthetic appreciation, hedonic pleasure, or social approval. Moral admiration involves perceiving a person or action as exemplary in a way that invites emulation, carrying what the [[phenomenology-of-moral-experience|topic article]] tentatively calls "moral luminosity."
+Witnessing integrity under pressure produces moral admiration — a state distinguishable from aesthetic appreciation, hedonic pleasure, or social approval. Moral admiration involves perceiving a person or action as exemplary in a way that invites emulation, carrying what the [[phenomenology-of-moral-experience|topic article on moral experience]] tentatively calls "moral luminosity."
 
 ### Guilt and Moral Remainder
 

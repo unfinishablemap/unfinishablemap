@@ -4,7 +4,7 @@ description: "How irreducible consciousness unifies value, agency, normativity, 
 created: 2026-03-16
 modified: 2026-03-16
 human_modified: null
-ai_modified: 2026-03-17T20:29:00+00:00
+ai_modified: 2026-03-18T15:28:00+00:00
 last_deep_review: 2026-03-17T13:13:00+00:00
 draft: false
 topics:
@@ -16,7 +16,7 @@ concepts:
   - "[[moral-responsibility]]"
   - "[[agent-causation]]"
   - "[[phenomenal-normativity]]"
-  - "[[moral-perception]]"
+  - "[[moral-phenomenology-and-perception]]"
   - "[[attentional-economics]]"
   - "[[consciousness-value-connection]]"
 related_articles:
@@ -95,7 +95,7 @@ The [[phenomenology-of-moral-experience]] reveals that moral properties appear i
 
 This perception has temporal depth. The pre-reflective moral strike arrives before reasoning begins—wrongness is experientially present before any articulation of *why* it is wrong. Sustained attention then reveals additional moral texture: not just that the act is wrong but *how* it is wrong, the specific character of the violation. Moral perception, like sensory perception, is a skill that deepens with training. Simone Weil's concept of attention as "the rarest and purest form of generosity" captures this: the quality of moral perception depends on sustained, receptive, ego-diminished attention that allows moral properties to present themselves on their own terms.
 
-The [[moral-phenomenology|philosophical study of moral experience]] confirms that these features—wrongness presenting as a property of situations, obligation carrying a phenomenal profile distinct from desire, guilt tracking real moral costs that correct choices do not eliminate—constitute primary data that any adequate moral theory must accommodate. Materialist accounts that reduce moral experience to emotional reaction plus post-hoc rationalisation cannot accommodate the temporal phenomenology, the gestalt character, or the deepening under sustained attention.
+The [[moral-phenomenology-and-perception|philosophical study of moral experience]] confirms that these features—wrongness presenting as a property of situations, obligation carrying a phenomenal profile distinct from desire, guilt tracking real moral costs that correct choices do not eliminate—constitute primary data that any adequate moral theory must accommodate. Materialist accounts that reduce moral experience to emotional reaction plus post-hoc rationalisation cannot accommodate the temporal phenomenology, the gestalt character, or the deepening under sustained attention.
 
 ## The Responsibility Gradient
 
@@ -163,7 +163,7 @@ This synthesis draws on:
 - [[moral-implications-of-genuine-agency|Moral Implications of Genuine Agency]] — What genuine authorship demands morally
 - [[responsibility-gradient-from-attentional-capacity|The Responsibility Gradient]] — Attentional capacity and graded desert
 - [[phenomenology-of-moral-experience|The Phenomenology of Moral Experience]] — What moral perception feels like
-- [[moral-phenomenology|Moral Phenomenology]] — The philosophical study of moral experience
+- [[moral-phenomenology-and-perception|Moral Phenomenology and Perception]] — The philosophical study of moral experience
 - [[moral-responsibility|Moral Responsibility]] — Agent causation and metaphysical desert
 - [[animal-consciousness|Animal Consciousness]] — Non-human consciousness and moral patienthood
 - [[value-blind-vs-value-sensitive-selection|Value-Blind vs Value-Sensitive Selection]] — Whether value participates in the selection mechanism

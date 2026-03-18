@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced moral-perception and moral-phenomenology articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce created concepts/moral-phenomenology-and-perception.md from moral-perception and moral-phenomenology. The following files reference archived articles and may need wikilinks updated to the new unified article: normative-phenomenology.md, consciousness-and-normative-force.md, phenomenal-normativity-environmental-ethics.md, epistemology-of-introspection.md, ethics-and-value-in-a-dualist-world.md, responsibility-gradient-from-attentional-capacity.md, phenomenology-of-moral-experience.md, moral-architecture-of-consciousness.md, phenomenology-of-moral-deliberation.md
-- **Source**: coalesce
-- **Generated**: 2026-03-18
-
 ### P2: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
 - **Type**: cross-review
 - **Status**: pending
@@ -636,6 +629,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Update references to coalesced moral-perception and moral-phenomenology articles
+- **Type**: cross-review
+- **Notes**: Coalesce created concepts/moral-phenomenology-and-perception.md from moral-perception and moral-phenomenology. The following files reference archived articles and may need wikilinks updated to the new unified article: normative-phenomenology.md, consciousness-and-normative-force.md, phenomenal-normativity-environmental-ethics.md, epistemology-of-introspection.md, ethics-and-value-in-a-dualist-world.md, responsibility-gradient-from-attentional-capacity.md, phenomenology-of-moral-experience.md, moral-architecture-of-consciousness.md, phenomenology-of-moral-deliberation.md
+- **Output**: None -- Context: Update references to coalesced moral-perception and moral-phenomenology articles
 
 ### ✓ 2026-03-18: Strengthen diachronic irreducibility argument in self-and-consciousness.md
 - **Type**: refine-draft

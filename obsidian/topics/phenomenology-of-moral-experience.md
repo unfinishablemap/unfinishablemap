@@ -4,7 +4,7 @@ description: "How moral properties appear in conscious experience—what wrongne
 created: 2026-02-08
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-03-14T19:40:00+00:00
+ai_modified: 2026-03-18T15:28:00+00:00
 draft: false
 topics:
   - "[[ethics-of-consciousness]]"
@@ -19,7 +19,7 @@ concepts:
   - "[[phenomenology]]"
   - "[[illusionism]]"
   - "[[aesthetic-dimension-of-consciousness]]"
-  - "[[moral-perception]]"
+  - "[[moral-phenomenology-and-perception]]"
   - "[[phenomenal-normativity]]"
   - "[[normative-phenomenology]]"
 related_articles:
@@ -30,7 +30,7 @@ related_articles:
   - "[[topics/free-will]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[eastern-philosophy-consciousness]]"
-  - "[[moral-phenomenology]]"
+  - "[[moral-phenomenology-and-perception]]"
   - "[[alignment-in-objective-experiential-terms]]"
 ai_contribution: 100
 author:
@@ -190,8 +190,7 @@ The phenomenology of moral experience connects to the Map's [[tenets|foundationa
 - [[topics/phenomenal-value-realism]] — The metaethical framework: phenomenal properties constitute value
 - [[consciousness-value-connection]] — Why consciousness is necessary for value to exist
 - [[ethics-of-consciousness]] — Ethical implications of consciousness-grounded value
-- [[moral-perception]] — The capacity to perceive ethical properties directly
-- [[moral-phenomenology]] — The philosophical study of moral experience's felt character
+- [[moral-phenomenology-and-perception|Moral Phenomenology and Perception]] — What moral experience feels like and whether ethical properties can be directly perceived
 - [[phenomenal-normativity]] — The thesis that phenomenal states carry intrinsic normative force
 - [[consciousness-and-normative-force]] — The shared phenomenal architecture of moral, epistemic, aesthetic, and prudential demands
 - [[normative-phenomenology]] — First-person investigation of normative experience broadly
