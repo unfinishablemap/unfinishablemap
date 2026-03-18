@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-03-16 05:18:00+00:00
+ai_modified: 2026-03-18 04:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,7 +31,7 @@ related_articles:
 - '[[phenomenology-of-musical-understanding]]'
 - '[[phenomenal-attention]]'
 - '[[animal-consciousness]]'
-- '[[childhood-development-and-the-interface]]'
+- '[[consciousness-interface-development]]'
 - '[[cross-cultural-phenomenology-of-agency]]'
 - '[[problem-of-other-minds]]'
 title: Phenomenology of Collective Intentionality and We-Consciousness

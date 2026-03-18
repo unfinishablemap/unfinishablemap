@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-11 22:32:00+00:00
+ai_modified: 2026-03-18 04:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,6 +25,7 @@ last_deep_review: 2026-03-11 22:32:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[consciousness-interface-development]]'
 title: Teaching as Metarepresentational Achievement
 topics:
 - '[[animal-consciousness]]'
@@ -143,7 +144,7 @@ Human teaching capacities emerge developmentally alongside metarepresentational 
 
 **Ages 5-7**: Teaching becomes elaborate. Children explain, scaffold, check comprehension, adjust to learner level. These behaviours require representing the learner's developing understanding and modifying pedagogical strategy accordingly.
 
-This developmental trajectory parallels the emergence of [metarepresentation](/concepts/metacognition/). Teaching sophistication tracks metarepresentational capacity, consistent with the claim that teaching requires the metarepresentational operations consciousness enables.
+This developmental trajectory parallels the emergence of [metarepresentation](/concepts/metacognition/) and exemplifies the broader [transformation of the consciousness-interface across childhood](/topics/consciousness-interface-development/). Teaching sophistication tracks metarepresentational capacity, consistent with the claim that teaching requires the metarepresentational operations consciousness enables.
 
 ## AI and Teaching
 

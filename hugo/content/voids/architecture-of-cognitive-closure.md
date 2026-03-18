@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-17 08:14:00+00:00
+ai_modified: 2026-03-18 04:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,6 +35,7 @@ related_articles:
 - '[[embodiment-cognitive-limits]]'
 - '[[expertise-void]]'
 - '[[introspective-opacity]]'
+- '[[consciousness-interface-development]]'
 title: The Architecture of Cognitive Closure
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -68,7 +69,7 @@ The voids project focuses on the second layer. What concepts cannot form in mind
 
 ## Developmental Limits: What Growing Up Closes
 
-Development is not purely additive. Cognitive maturation involves systematic tradeoffs where gaining certain abilities requires losing others. Infants demonstrate perceptual and cognitive capacities that adults permanently lack.
+Development is not purely additive. Cognitive maturation involves systematic tradeoffs where gaining certain abilities requires losing others — the [developmental trajectory of the consciousness-interface](/topics/consciousness-interface-development/) maps both what is gained and what is permanently foreclosed. Infants demonstrate perceptual and cognitive capacities that adults permanently lack.
 
 **Universal phoneme discrimination**: Infants can distinguish phonemes from all human languages. By 10-12 months, this narrows to the phonemes of their native language. Japanese infants easily discriminate /r/ and /l/; Japanese adults cannot, despite decades of effort. The window closes, and no known training reopens it fully.
 

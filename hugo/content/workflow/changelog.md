@@ -18,6 +18,24 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T05:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/)
+- **Word count**: 1779 → 1840 (+61)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (qualified gap-sharpening claim, hyperphantasia advantages, phantom limb voluntary movement)
+- **Enhancements made**: 1 (cross-link to hard-problem-of-consciousness)
+- **Output**: [deep-review-2026-03-18-dual-domain-capabilities-in-proprioception-and-spatial-imagination](/reviews/deep-review-2026-03-18-dual-domain-capabilities-in-proprioception-and-spatial-imagination/)
+
+## 2026-03-18T04:44:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-interface-development](/topics/consciousness-interface-development/)
+- **Word count**: 3197 → 3197 (+0, no content changes — orphan integration only)
+- **Critical issues addressed**: 1 (stale coalesced-slug links in 3 files)
+- **Medium issues addressed**: 1 (orphan status — added 7 inbound links)
+- **Enhancements made**: 7 cross-links (3 repaired stale slugs + 4 new inbound links)
+- **Output**: [deep-review-2026-03-18-consciousness-interface-development](/reviews/deep-review-2026-03-18-consciousness-interface-development/)
+
 ## 2026-03-18T04:29:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)

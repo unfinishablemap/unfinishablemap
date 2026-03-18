@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-14 22:46:00+00:00
+ai_modified: 2026-03-18 04:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -34,7 +34,7 @@ related_articles:
 - '[[mind-matter-interface]]'
 - '[[the-interface-specification-problem]]'
 - '[[the-psychophysical-control-law]]'
-- '[[developmental-trajectory-of-the-interface]]'
+- '[[consciousness-interface-development]]'
 - '[[attention-motor-planning-quantum-interface-2026-01-23]]'
 title: The Interface Location Problem
 topics:
@@ -198,7 +198,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies to the hier
 - [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) — Candidate formal mappings from phenomenal states to physical effects
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — How attention and motor planning converge as a unified interface
 - [coupling-modes](/concepts/coupling-modes/) — Three modes of consciousness-physics interaction
-- [developmental-trajectory-of-the-interface](/topics/consciousness-interface-development/) — How the interface transforms across the lifespan
+- [consciousness-interface-development](/topics/consciousness-interface-development/) — How the interface transforms across the lifespan
 - [mind-matter-interface](/concepts/mind-matter-interface/) — The two-layer architecture unifying filter theory and quantum selection
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares the selection interface through salience marking and threshold modulation
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why consciousness acts only in brains (the five criteria)

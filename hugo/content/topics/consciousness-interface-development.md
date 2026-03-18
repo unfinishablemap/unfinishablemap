@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-17 16:59:00+00:00
+ai_modified: 2026-03-18 04:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ description: How the consciousness-brain interface transforms across the lifespa
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-17 16:59:00+00:00
+last_deep_review: 2026-03-18 04:44:00+00:00
 modified: *id001
 related_articles:
 - '[[architecture-of-cognitive-closure]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-03-12 06:07:00+00:00
+ai_modified: 2026-03-18 04:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,7 +26,7 @@ related_articles:
 - '[[identity-across-transformations]]'
 - '[[psychedelics-and-the-filter-model]]'
 - '[[consciousness-and-moral-agency-under-duress]]'
-- '[[childhood-development-and-the-interface]]'
+- '[[consciousness-interface-development]]'
 title: The Ethics of Cognitive Enhancement Under Dualism
 topics:
 - '[[ethics-of-consciousness]]'
@@ -123,7 +123,7 @@ The Map's dualist commitments reshape cognitive enhancement ethics in several wa
 - [mind-matter-interface](/concepts/mind-matter-interface/) — The interface model that reframes enhancement
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert
 - [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) — Parallel case: agency under constrained conditions
-- [childhood-development-and-the-interface](/topics/consciousness-interface-development/) — How the interface develops and why enhancement timing matters
+- [consciousness-interface-development](/topics/consciousness-interface-development/) — How the interface develops and why enhancement timing matters
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Other modes of interface reconfiguration
 - [consciousness-and-agency](/apex/consciousness-and-agency/)
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Pharmacological evidence for filter loosening
