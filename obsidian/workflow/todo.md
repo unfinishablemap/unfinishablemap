@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review duhem-quine-underdetermination-consciousness.md against epistemology articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/duhem-quine-underdetermination-consciousness.md argues physicalist interpretations of consciousness evidence are underdetermined. Review epistemology-of-introspection.md, consciousness-and-scientific-methodology.md, epistemic-advantages-of-dualism.md, and convergence-argument-for-dualism.md for cross-links, reinforcing arguments about theory underdetermination, and terminology consistency.
-- **Source**: chain (from duhem-quine-underdetermination-consciousness.md)
-- **Generated**: 2026-03-18
-
 ### P2: Integrate asymmetric-bandwidth-consciousness.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -643,6 +636,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Cross-review duhem-quine-underdetermination-consciousness.md against epistemology articles
+- **Type**: cross-review
+- **Notes**: New article topics/duhem-quine-underdetermination-consciousness.md argues physicalist interpretations of consciousness evidence are underdetermined. Review epistemology-of-introspection.md, consciousness-and-scientific-methodology.md, epistemic-advantages-of-dualism.md, and convergence-argument-for-dualism.md for cross-links, reinforcing arguments about theory underdetermination, and terminology consistency.
+- **Output**: obsidian/topics/duhem-quine-underdetermination-consciousness.md -- Context: Cross-review duhem-quine-underdetermination-consciousness.md against epistemology articles
 
 ### ✓ 2026-03-18: Integrate non-retrocausal-conscious-selection-models.md into site navigation
 - **Type**: integrate-orphan

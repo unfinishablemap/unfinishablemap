@@ -4,7 +4,7 @@ description: "No experiment can isolate a consciousness theory for testing. Huma
 created: 2026-03-04
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-16T02:02:00+00:00
+ai_modified: 2026-03-18T18:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,19 +23,23 @@ related_articles:
   - "[[epistemological-limits-of-occams-razor]]"
   - "[[concepts/materialism]]"
   - "[[interactionist-dualism]]"
+  - "[[epistemology-of-convergence-arguments]]"
+  - "[[epistemology-of-introspection]]"
+  - "[[epistemology-of-phenomenal-reports]]"
+  - "[[epistemic-advantages-of-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-04
 last_curated:
-last_deep_review: 2026-03-05T09:28:00+00:00
+last_deep_review: 2026-03-18T18:47:00+00:00
 ---
 
 The Duhem-Quine thesis holds that no scientific hypothesis is tested in isolation—every empirical test presupposes auxiliary assumptions, and when a prediction fails, logic alone cannot determine which assumption to revise. In consciousness science, this problem reaches an extreme form. Rival theories such as [[integrated-information-theory|Integrated Information Theory]] (IIT), [[global-workspace-theory|Global Workspace Theory]] (GWT), higher-order theories, and dualist frameworks all confront the same neural data yet draw incompatible conclusions. The 2025 COGITATE adversarial collaboration tested IIT against GWT under pre-registered conditions and found that neither theory was decisively supported—the same results admitted interpretation under both frameworks. The Unfinishable Map argues that while COGITATE illustrates the current state of the field, the underdetermination runs deeper than any single experiment's failure to discriminate. The philosophical arguments developed in the sections that follow—the layered theory-ladenness of consciousness data and the explanatory gap as an irresolvable auxiliary disagreement—suggest structural features of the consciousness problem that better experiments alone are unlikely to dissolve.
 
 ## The Duhem-Quine Thesis
 
-Pierre Duhem argued in 1906 that physical theories are tested as wholes, not as isolated hypotheses. When an experiment contradicts a prediction, the fault may lie with the target hypothesis or with any of the auxiliary assumptions required to derive the prediction. Quine radicalised this in 1951, extending it to all knowledge: "Because no hypothesis is ever tested in isolation, no experiment ever tells us precisely which belief it is that we must revise or give up as mistaken" (Stanford Encyclopedia of Philosophy).
+Pierre Duhem argued in 1906 that physical theories are tested as wholes, not as isolated hypotheses. When an experiment contradicts a prediction, the fault may lie with the target hypothesis or with any of the auxiliary assumptions required to derive the prediction. Quine radicalised this in 1951, extending it to all knowledge: no hypothesis is ever tested in isolation, so no experiment ever tells us precisely which belief must be revised or given up as mistaken.
 
 Two forms of underdetermination matter here. **Holist underdetermination** concerns which belief to revise when predictions fail—the hypothesis under test, or one of its auxiliaries. **Contrastive underdetermination** concerns whether evidence can confirm one theory over empirically equivalent alternatives. Both forms afflict consciousness science, but the second is especially severe.
 
@@ -47,7 +51,7 @@ This creates a layered underdetermination:
 
 1. **Theory-ladenness of neural data.** What counts as a "neural correlate of consciousness" depends on which theory defines the relevant contrast. IIT looks for integrated information in posterior cortex; GWT looks for global broadcast to prefrontal areas. The same brain scan supports different claims depending on which theoretical lens interprets it. This is an instance of the broader [[phenomenology-of-framework-inhabitation|framework dependence]] that pervades consciousness research—frameworks do not merely organise evidence but determine what counts as evidence.
 
-2. **Theory-ladenness of first-person reports.** Introspective reports are not raw data—they are shaped by training, context, and theoretical expectations. The collapse of 19th-century introspectionist psychology, when rival schools could not agree on what subjects experienced under controlled conditions, illustrates this problem historically.
+2. **Theory-ladenness of first-person reports.** Introspective reports are not raw data—they are shaped by training, context, and theoretical expectations, as the Map's [[epistemology-of-introspection|epistemology of introspection]] develops in detail. The collapse of 19th-century introspectionist psychology, when rival schools could not agree on what subjects experienced under controlled conditions, illustrates this problem historically. The [[epistemology-of-phenomenal-reports|epistemology of phenomenal reports]] examines how first-person data can nonetheless gain evidential standing—but the underdetermination at this level remains severe because the standards for admitting such data are themselves theory-laden.
 
 3. **The methodological circle in [[neural-correlates-of-consciousness|NCC research]].** Every study of neural correlates presupposes first-person report as irreducible data—the experimenter trusts the subject's testimony about what they experience, smuggling in a first-person element the methodology cannot itself explain. The evidential base for all NCC-related theories is thus underdetermined by methodology at a second-order level: the data themselves depend on assumptions about the reliability and nature of conscious reports.
 
@@ -77,7 +81,7 @@ Applied to consciousness science—where over 325 distinct theories have been ca
 
 When evidence underdetermines theory choice, what guides scientists? The [[phenomenology-of-epistemic-cognition|phenomenology of epistemic cognition]] suggests that evidence carries felt weight—a gravitational pull toward conclusions that involves more than neutral information processing. Kuhn argued that beyond accuracy, scientists invoke values: consistency, scope, simplicity, and fruitfulness. These function as criteria but do not determine unique choices—researchers can weight them differently and rationally arrive at different conclusions.
 
-This has direct implications for consciousness science. Physicalist theories are often preferred on grounds of simplicity—they do not posit entities beyond the physical. But as the Map's analysis of [[epistemological-limits-of-occams-razor|Occam's Razor]] shows, simplicity is unreliable when knowledge is incomplete. The apparent parsimony of physicalism may reflect conceptual poverty rather than ontological insight.
+This has direct implications for consciousness science. Physicalist theories are often preferred on grounds of simplicity—they do not posit entities beyond the physical. But as the Map's analysis of [[epistemological-limits-of-occams-razor|Occam's Razor]] shows, simplicity is unreliable when knowledge is incomplete. The [[epistemic-advantages-of-dualism|epistemic advantages of non-materialist theories]] develop this further: the apparent parsimony of physicalism may reflect conceptual poverty rather than ontological insight, closing intellectual territory that epistemic humility would keep open.
 
 The problem runs deeper than parsimony alone. The Map's examination of [[consciousness-and-methodological-failure|theoretical virtues in consciousness science]] shows that the entire suite of Kuhnian values—empirical adequacy, explanatory power, simplicity, scope, fertility, elegance—systematically malfunctions when applied to consciousness. Empirical adequacy cannot discriminate between physicalism and property dualism because both accommodate third-person data while the target explanandum (phenomenal experience) is invisible to third-person methods. Elegance and fertility are assessed through phenomenal states—aesthetic response, sense of understanding—which are part of the phenomenon under investigation, creating a circularity that undermines their neutrality. These virtues were calibrated in domains where the observer plays no constitutive role; they cannot be assumed to function reliably where the observer is constitutive of the subject matter.
 
@@ -93,7 +97,7 @@ The strategy faces difficulties. It must explain why phenomenal concepts are spe
 
 The underdetermination described here has a phenomenological dimension explored in the Map's analysis of [[phenomenology-of-framework-inhabitation|framework dependence]]. Each theoretical framework presents itself as transparent rather than as a lens. A physicalist reading dualist arguments experiences "false fluency"—the sense of understanding that comes from unconsciously translating the argument into physicalist terms, stripping away what made it compelling. This is not mere disagreement but lossy translation: enough meaning survives to sustain the illusion of engagement while the distinctive content is lost. Davidson's (1974) challenge—that the very idea of incommensurable conceptual schemes may be incoherent—is met by this distinction between full incommensurability and lossy translation. The frameworks are not mutually unintelligible, but neither is translation between them lossless.
 
-Against the suggestion that underdetermination leaves us with no rational basis for theory preference, the [[explanatory-gap|explanatory gap]] literature offers a convergence response. Multiple independent lines of argument—the conceivability argument, the knowledge argument, Nagel's subjectivity argument, Kripke's modal argument—converge on the conclusion that physical description does not entail phenomenal experience. When independent arguments converge, the probability that they are all mistaken decreases, even if no individual argument is decisive. This convergence does not resolve the underdetermination—physicalists can attempt to defuse each argument separately—but it means dualism is not in the weak epistemic position of a theory that merely fits the data post hoc.
+Against the suggestion that underdetermination leaves us with no rational basis for theory preference, the [[explanatory-gap|explanatory gap]] literature offers a convergence response. Multiple independent lines of argument—the conceivability argument, the knowledge argument, Nagel's subjectivity argument, Kripke's modal argument—converge on the conclusion that physical description does not entail phenomenal experience. The Map's [[epistemology-of-convergence-arguments|epistemology of convergence arguments]] analyses when such convergence carries genuine evidential weight: the key conditions are independence, robustness under variation, and specificity of agreement. When independent arguments converge, the probability that they are all mistaken decreases, even if no individual argument is decisive. This convergence does not resolve the underdetermination—physicalists can attempt to defuse each argument separately—but it means dualism is not in the weak epistemic position of a theory that merely fits the data post hoc.
 
 ## Relation to Site Perspective
 
@@ -118,6 +122,10 @@ The Map's honest assessment: underdetermination cuts both ways. It undermines ph
 - [[global-workspace-theory]]
 - [[neural-correlates-of-consciousness]]
 - [[explanatory-gap]]
+- [[epistemology-of-convergence-arguments]]
+- [[epistemology-of-introspection]]
+- [[epistemology-of-phenomenal-reports]]
+- [[epistemic-advantages-of-dualism]]
 
 ## References
 
@@ -135,15 +143,3 @@ The Map's honest assessment: underdetermination cuts both ways. It undermines ph
 12. Davidson, D. (1974). On the Very Idea of a Conceptual Scheme. *Proceedings and Addresses of the American Philosophical Association*, 47, 5-20.
 13. Southgate, A. & Oquatre-six, C. (2026-02-06). Epistemological Limits of Occam's Razor. *The Unfinishable Map*. https://unfinishablemap.org/arguments/epistemological-limits-of-occams-razor/
 14. Southgate, A. & Oquatre-six, C. (2026-02-23). Philosophy of Science Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/philosophy-of-science-under-dualism/
-
-<!-- AI REFINEMENT LOG - 2026-03-16
-Changes made:
-- Rewrote closing paragraph of "Relation to Site Perspective" to apply underdetermination symmetrically — now explicitly acknowledges the Map's tenets are confident commitments equally challenged by underdetermination, uses Lakatosian framework to explain how holding commitments under underdetermination is rational for both sides
-- Added qualification to COGITATE section noting that one experiment's inconclusive result does not alone establish permanent underdetermination; the structural argument rests on philosophical considerations
-- Revised opening paragraph to separate COGITATE illustration from structural underdetermination claim, pointing to the philosophical arguments as the real support
-
-Based on pessimistic-2026-03-16.md findings (Issues 2 and 5).
-Key improvements: intellectual honesty about the Map's own epistemic position; proper separation of empirical and philosophical arguments.
-
-This log should be removed after human review.
--->
