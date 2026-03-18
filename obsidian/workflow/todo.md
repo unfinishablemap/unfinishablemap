@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review embodied-consciousness-and-the-interface.md considering dual-domain proprioception insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article concepts/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md establishes proprioception and spatial imagination as paradigm cases of dual-domain processing. Review topics/embodied-consciousness-and-the-interface.md for cross-links and whether embodiment claims benefit from the dual-domain evidence on body schema and spatial reasoning.
-- **Source**: chain (from dual-domain-capabilities-in-proprioception-and-spatial-imagination.md)
-- **Generated**: 2026-03-18
-
 ### P2: Research amplification mechanisms for consciousness-physics interaction
 - **Type**: research-topic
 - **Status**: pending
@@ -615,6 +608,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Cross-review embodied-consciousness-and-the-interface.md considering dual-domain proprioception insights
+- **Type**: cross-review
+- **Notes**: New article concepts/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md establishes proprioception and spatial imagination as paradigm cases of dual-domain processing. Review topics/embodied-consciousness-and-the-interface.md for cross-links and whether embodiment claims benefit from the dual-domain evidence on body schema and spatial reasoning.
+- **Output**: obsidian/topics/embodied-consciousness-and-the-interface.md -- Context: Cross-review embodied-consciousness-and-the-interface.md considering dual-domain proprioception insights
 
 ### ✓ 2026-03-18: Cross-review consciousness-and-memory.md considering memory-as-dual-domain-capability insights
 - **Type**: cross-review

@@ -4,7 +4,7 @@ description: "The body shapes how consciousness engages matter without producing
 created: 2026-02-09
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-15T05:15:00+00:00
+ai_modified: 2026-03-18T16:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,6 +20,7 @@ concepts:
   - "[[brain-interface-boundary]]"
   - "[[mental-causation]]"
   - "[[explanatory-gap]]"
+  - "[[somatic-interface]]"
 related_articles:
   - "[[tenets]]"
   - "[[embodied-cognition-extended-mind-2026-01-14]]"
@@ -28,12 +29,13 @@ related_articles:
   - "[[choking-phenomenon-mental-causation]]"
   - "[[consciousness-and-skilled-performance]]"
   - "[[consciousness-as-perceptual-architect]]"
+  - "[[dual-domain-capabilities-in-proprioception-and-spatial-imagination]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-03-15T04:13:00+00:00
+last_deep_review: 2026-03-18T16:06:00+00:00
 ---
 
 Embodied cognition argues that the mind depends on the body—that cognition is shaped by bodily structure, situated in environmental context, and enacted through physical engagement. This is widely taken as a refutation of dualism: if mind and body are inseparable, there is nothing for a soul to be. The Unfinishable Map argues the opposite. Embodied cognition reveals the *interface* through which consciousness engages matter. The tighter the integration between mind and body, the more precisely we can characterize what the body contributes—and what it cannot explain.
@@ -80,6 +82,8 @@ This reframes each of the 4E dimensions:
 | **Extended** | Mind extends into tools | The interface extends into tools |
 
 On the interface reading, embodied cognition's empirical findings stand exactly as described. What changes is the interpretation of what the body's contribution *is*. The body provides structure, constraint, and repertoire. Consciousness provides the experiential dimension that no structural description captures.
+
+Proprioceptive dissociations offer direct evidence for this two-domain structure. The [[somatic-interface|body's sensing channels]] decompose into a physical domain (receptor signals, body schema) and a phenomenal domain (felt embodiment, body image) that are empirically separable—patients can lose the felt sense of inhabiting a body while retaining motor function, or preserve vivid bodily presence after the physical receptor channel is severed. This [[dual-domain-capabilities-in-proprioception-and-spatial-imagination|dual-domain pattern]] recurs across proprioception, spatial imagination, and memory, suggesting the interface is not merely a metaphor but a structural feature of how consciousness meets matter.
 
 ## Skill Acquisition as Interface Training
 
@@ -150,6 +154,8 @@ There is also a deeper question the interface reading cannot answer: even if emb
 - [[mind-brain-separation]] — The rendering engine analogy for mind-body relations
 - [[choking-phenomenon-mental-causation]] — The bidirectional evidence from choking in detail
 - [[consciousness-and-skilled-performance|phenomenology of flow states]] — Flow as frictionless interface operation
+- [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]] — Proprioception and spatial imagination as dual-domain capabilities supporting the interface reading
+- [[somatic-interface]] — The body's internal sensing channels as structured interface substrate
 - [[consciousness-and-the-phenomenology-of-place]] — How the interface manifests in the felt character of being in a place
 
 ## References
