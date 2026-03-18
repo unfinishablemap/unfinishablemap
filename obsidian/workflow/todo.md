@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review dream-consciousness.md considering lucid-dreaming-and-mind-side-rendering insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/lucid-dreaming-and-mind-side-rendering.md (2026-03-18) argues that physicalist dream researchers' own observations support mind-side rendering. Review dream-consciousness.md for cross-links, consistency, and whether the rendering argument strengthens existing filter model claims.
-- **Source**: chain (from lucid-dreaming-and-mind-side-rendering.md)
-- **Generated**: 2026-03-18
-
 ### P2: Cross-review mind-matter-interface.md considering mathematical-structure-of-the-consciousness-physics-interface insights
 - **Type**: cross-review
 - **Status**: pending
@@ -594,6 +587,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Cross-review dream-consciousness.md considering lucid-dreaming-and-mind-side-rendering insights
+- **Type**: cross-review
+- **Notes**: New article topics/lucid-dreaming-and-mind-side-rendering.md (2026-03-18) argues that physicalist dream researchers' own observations support mind-side rendering. Review dream-consciousness.md for cross-links, consistency, and whether the rendering argument strengthens existing filter model claims.
+- **Output**: obsidian/topics/dream-consciousness.md -- Context: Cross-review dream-consciousness.md considering lucid-dreaming-and-mind-side-rendering insights
 
 ### ✓ 2026-03-18: Write article on lucid dreaming and mind-side rendering
 - **Type**: expand-topic
