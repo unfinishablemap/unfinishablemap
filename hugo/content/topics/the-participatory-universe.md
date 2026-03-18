@@ -44,7 +44,7 @@ Wheeler (1911–2008) spent decades at the frontier of physics — contributing 
 
 Three interlocking ideas form his participatory framework:
 
-**It from bit.** Every physical quantity "derives its ultimate significance from bits, binary yes-or-no indications" extracted through acts of observation (Wheeler 1990). Information is not a feature of pre-existing physical reality but the means by which that reality comes to be. Matter comes from measurement, not measurement from matter. This is [adaptive computational depth](/concepts/adaptive-computational-depth/) avant la lettre: the universe's informational content increases where observers engage with it.
+**[It from bit](/topics/it-from-bit-and-participatory-ontology/).** Every physical quantity "derives its ultimate significance from bits, binary yes-or-no indications" extracted through acts of observation (Wheeler 1990). Information is not a feature of pre-existing physical reality but the means by which that reality comes to be. Matter comes from measurement, not measurement from matter. This is [adaptive computational depth](/concepts/adaptive-computational-depth/) avant la lettre: the universe's informational content increases where observers engage with it.
 
 **The delayed-choice experiment.** Wheeler proposed — and experimentalists later confirmed — that a measurement choice made *now* determines whether a photon behaved as a wave or a particle in the *past*. This is not retrocausal in the ordinary sense; it shows that quantum properties are not fixed until registered. Present observation reaches backward. "We are participants in bringing into being not only the near and here, but the far away and long ago."
 
@@ -131,6 +131,7 @@ The participatory universe framework would face serious challenge from:
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/)
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
+- [it-from-bit-and-participatory-ontology](/topics/it-from-bit-and-participatory-ontology/) — The "it from bit" thesis, its descendants, and its critics
 - [constitutive-exclusion](/topics/constitutive-exclusion/) — The structural limit that follows from participatory constitution
 
 ## References

@@ -225,6 +225,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI
 - [mental-causation](/concepts/mental-causation/) — The exclusion problem
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse creates the quantum opening
+- [it-from-bit-and-participatory-ontology](/topics/it-from-bit-and-participatory-ontology/) — Wheeler's information ontology and the case for informational foundations
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Which interpretations leave room for consciousness as causal participant
 - [quantum-biology](/concepts/quantum-biology/) — Evolution exploiting quantum effects
 

@@ -30,7 +30,7 @@ topics:
 
 QBism (Quantum Bayesianism) is an interpretation of quantum mechanics that treats quantum states as representing an agent's subjective beliefs rather than objective features of reality. Developed primarily by Christopher Fuchs, Carlton Caves, and Rüdiger Schack, QBism dissolves the [measurement-problem](/concepts/measurement-problem/) by denying there was ever an objective wave function to collapse. "Collapse" is simply belief-updating—the agent learns something and revises their expectations.
 
-Fuchs explicitly positioned QBism as furthering Wheeler's [participatory universe](/topics/the-participatory-universe/) program, coining the term "participatory realism" in 2017 to mark the connection.
+Fuchs explicitly positioned QBism as furthering Wheeler's [participatory universe](/topics/the-participatory-universe/) program and its ["it from bit"](/topics/it-from-bit-and-participatory-ontology/) thesis, coining the term "participatory realism" in 2017 to mark the connection.
 
 For The Unfinishable Map, QBism presents a paradox: it makes agents epistemically central to quantum mechanics yet provides no account of what agents *are*. QBism presupposes that agents have determinate experiences to form beliefs about, treating the source of such experience as given rather than explained. The Map holds that this is precisely what requires explanation.
 

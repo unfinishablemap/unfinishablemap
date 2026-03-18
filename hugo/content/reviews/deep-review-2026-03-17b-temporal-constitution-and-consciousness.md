@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-17
-**Article**: [Temporal Constitution and Consciousness](/topics/temporal-constitution-and-consciousness/)
+**Article**: [Temporal Constitution and Consciousness](/topics/temporal-structure-of-consciousness/)
 **Previous review**: [2026-03-17](/reviews/deep-review-2026-03-17-temporal-constitution-and-consciousness/) (earlier today)
 
 ## Pessimistic Analysis Summary

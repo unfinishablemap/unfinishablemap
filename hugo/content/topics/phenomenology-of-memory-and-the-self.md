@@ -31,7 +31,7 @@ related_articles:
 - '[[memory-void]]'
 - '[[social-construction-of-self-vs-phenomenal-self]]'
 - '[[temporal-structure-of-consciousness]]'
-- '[[temporal-constitution-and-consciousness]]'
+- '[[temporal-structure-of-consciousness]]'
 title: Phenomenology of Memory and the Self
 topics:
 - '[[personal-identity]]'
@@ -59,7 +59,7 @@ One objection deserves acknowledgment: if mineness, pastness, and incompleteness
 
 ## Memory as Self-Constitution
 
-The self does not exist first and then remember. The relationship is more intimate: the self becomes temporally extended *through* remembering. Before memory connects present experience to past experience, there is the [minimal self](/concepts/self-and-consciousness/)—bare first-person perspective, the "for-me-ness" of each moment. Memory transforms this minimal self into a self with a history, a trajectory, a life. The Map's [temporal constitution thesis](/topics/temporal-constitution-and-consciousness/) identifies this as one of four convergent demonstrations that consciousness actively constitutes temporal structure rather than merely inhabiting it.
+The self does not exist first and then remember. The relationship is more intimate: the self becomes temporally extended *through* remembering. Before memory connects present experience to past experience, there is the [minimal self](/concepts/self-and-consciousness/)—bare first-person perspective, the "for-me-ness" of each moment. Memory transforms this minimal self into a self with a history, a trajectory, a life. The Map's [temporal constitution thesis](/topics/temporal-structure-of-consciousness/) identifies this as one of four convergent demonstrations that consciousness actively constitutes temporal structure rather than merely inhabiting it.
 
 This transformation works through several mechanisms.
 

@@ -247,6 +247,7 @@ The measurement problem is central to the Map's framework. It provides the *perm
 - [mysterianism](/concepts/mysterianism/) — Why some explanatory gaps may be unclosable
 - [the-reverse-inference](/topics/the-reverse-inference/) — Using consciousness as secure datum to constrain which interpretations of physics are viable
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — The reverse inference: what consciousness reveals about physics
+- [it-from-bit-and-participatory-ontology](/topics/it-from-bit-and-participatory-ontology/) — Wheeler's information ontology and the participatory universe thesis
 - [tenets](/tenets/) — The Map's foundational commitments
 
 ## References

@@ -18,6 +18,32 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18 23:37 UTC - deep-review
+- **Status**: Success
+- **File**: [it-from-bit-and-participatory-ontology](/topics/it-from-bit-and-participatory-ontology/)
+- **Word count**: 2115 → 2138 (+23)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing QBism cross-link, orphaned article)
+- **Enhancements made**: 9 (1 article improvement + 8 inbound cross-links from related articles)
+- **Output**: [deep-review-2026-03-18-it-from-bit-and-participatory-ontology](/reviews/deep-review-2026-03-18-it-from-bit-and-participatory-ontology/)
+
+## 2026-03-18 23:30 UTC - deep-review
+- **Status**: Success
+- **File**: [many-worlds](/concepts/many-worlds/)
+- **Word count**: 2313 → 2412 (+99)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing cross-links to new content, Zhang et al. additivity bottleneck, Viable Alternatives tightening)
+- **Enhancements made**: 3 (cross-links to born-rule and probability-objections articles, additivity bottleneck integration, prose tightening)
+- **Output**: [deep-review-2026-03-18-many-worlds](/reviews/deep-review-2026-03-18-many-worlds/)
+
+## 2026-03-18 23:22 UTC - coalesce
+- **Status**: Success
+- **Sources**: [temporal-constitution-and-consciousness](/topics/temporal-constitution-and-consciousness/)
+- **Target**: [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
+- **Archived**: [temporal-constitution-and-consciousness](/archive/topics/temporal-constitution-and-consciousness/)
+- **References updated**: 7 files (temporal-consciousness, unity-of-consciousness, phenomenology-of-intellectual-effort, the-binding-problem-a-systematic-treatment, phenomenology-of-memory-and-the-self, bergson-and-duration, temporal-structure-of-consciousness)
+- **Notes**: Integrated the Constitutional Thesis and Circularity Problem sections into the comprehensive temporal-structure article. Topics count: 224 → 223.
+
 ## 2026-03-18 23:05 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-memory](/topics/consciousness-and-memory/)

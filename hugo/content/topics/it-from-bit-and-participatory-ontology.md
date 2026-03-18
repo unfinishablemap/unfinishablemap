@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-15 16:39:00+00:00
+ai_modified: 2026-03-18 23:37:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Wheeler's 'it from bit' thesis — that physical reality derives fr
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-15 16:39:00+00:00
+last_deep_review: 2026-03-18 23:37:00+00:00
 modified: *id001
 related_articles:
 - '[[wheeler-it-from-bit-2026-03-14]]'
@@ -44,7 +44,7 @@ Wheeler arrived at this position through three intellectual phases, as John Horg
 
 ## Three Descendant Programmes
 
-"It from bit" spawned three distinct research programmes that share vocabulary but diverge in commitments. The Map's framework — explored more fully in [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/) — is compatible with some and incompatible with others. The shared language of "information" tends to obscure these divergences.
+"It from bit" spawned three distinct research programmes that share vocabulary but diverge in commitments. The Map's framework — explored more fully in [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/) — is compatible with some and incompatible with others. A fourth heir, [QBism](/concepts/qbism/), carries forward Wheeler's participatory emphasis while remaining agnostic about information ontology. The shared language of "information" tends to obscure these divergences.
 
 ### Quantum Information Foundations
 
@@ -100,6 +100,7 @@ The Map speculates that the deepest significance of "it from bit" may be what th
 - [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/) — The informational turn in physics and its implications for consciousness
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Where information sits in a dualist ontology
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — Why the measurement problem matters philosophically
+- [qbism](/concepts/qbism/) — QBism as a contemporary heir to Wheeler's participatory realism
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The causal efficacy of consciousness
 
 ## References
