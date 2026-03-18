@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18 21:36 UTC - refine-draft
+- **Status**: Success
+- **File**: [[the-epiphenomenalist-threat]]
+- **Changes**: Reframed functionalism critique as conditional on phenomenal realism; clarified observational closure vs empirical evidence roles; added explicit decoherence numbers and acknowledged remaining quantitative gap
+- **Published**: yes
+
 ## 2026-03-18 21:29 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-social-cognition]]

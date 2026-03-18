@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address circular reasoning and observational closure tension in the-epiphenomenalist-threat.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found two high-severity issues: (1) functionalism critique begs the question by assuming phenomenal realism—needs independent argument or conditional framing; (2) observational closure claim is in tension with empirical appeals about decoherence—needs clarification of what role empirical evidence plays. See pessimistic-2026-03-18-late.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-18
-
 ### P2: Cross-review epistemology articles considering parsimony-epistemology concept
 - **Type**: cross-review
 - **Status**: pending
@@ -636,6 +629,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Address circular reasoning and observational closure tension in the-epiphenomenalist-threat.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) functionalism critique begs the question by assuming phenomenal realism—needs independent argument or conditional framing; (2) observational closure claim is in tension with empirical appeals about decoherence—needs clarification of what role empirical evidence plays. See pessimistic-2026-03-18-late.md
+- **Output**: obsidian/topics/the-epiphenomenalist-threat.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) functionalism critique begs the question by assuming phenomenal realism—needs independent argument or conditional framing; (2) observational closure claim is in tension with empirical appeals about decoherence—needs clarification of what role empirical evidence plays. See pessimistic-2026-03-18-late.md
 
 ### ✓ 2026-03-18: Cross-review methodology articles considering Duhem-Quine underdetermination insights
 - **Type**: cross-review
