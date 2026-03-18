@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on the metaproblem of consciousness under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/metaproblem-consciousness-dualism-2026-03-06.md. Why do we have the intuitions that drive the hard problem? Dualism must explain phenomenal concepts and zombie intuitions without functionalist machinery. Directly supports Tenet 1 (Dualism). Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-18
+
+### P2: Write concept page on neural refresh rates and the smoothness problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/neural-refresh-rates-smoothness-problem-2026-03-08.md. Discrete neural firing produces continuous conscious experience — why? The smoothness problem challenges both physicalist and naive dualist accounts. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-18
+
+### P2: Write concept page on memory as dual-domain capability
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/memory-dual-domain-capability-2026-03-09.md. Memory operates in both brain-side (encoding/consolidation) and mind-side (phenomenal recall, episodic re-experiencing) domains. Key evidence for the dual-domain capability framework. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-18
+
+### P2: Review probability-problem-in-many-worlds.md considering probability-objections-many-worlds insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/probability-objections-many-worlds.md systematises decision-theoretic and frequency objections to MWI probability. Check topics/probability-problem-in-many-worlds.md for cross-links, reinforcing arguments, or redundancy. Also check concepts/quantum-probability-consciousness.md.
+- **Source**: chain (from concepts/probability-objections-many-worlds.md)
+- **Generated**: 2026-03-18
+
+### P2: Review perception-and-conscious-experience.md considering perceptual-reconstruction-selection insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/perceptual-reconstruction-selection.md adds a selection-from-reconstructions model of perception. Check topics/perception-and-conscious-experience.md for cross-links and coherence. Also check concepts/consciousness-selecting-neural-patterns.md for consistency.
+- **Source**: chain (from concepts/perceptual-reconstruction-selection.md)
+- **Generated**: 2026-03-18
+
+### P2: Review bandwidth-problem-mental-causation.md considering asymmetric-bandwidth insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article on asymmetric bandwidth of consciousness adds directional analysis to the bandwidth constraint. Check concepts/bandwidth-problem-mental-causation.md for cross-links and reinforcing arguments. Also check topics/resolution-bandwidth-interface.md for coherence.
+- **Source**: chain (from topics/asymmetric-bandwidth-of-consciousness.md)
+- **Generated**: 2026-03-18
+
 ### P3: Deep review free-will.md
 - **Type**: deep-review
 - **Status**: pending
