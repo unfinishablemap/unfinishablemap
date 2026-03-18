@@ -4,8 +4,8 @@ description: "Why perception is the paradigm case for understanding consciousnes
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-18T07:18:00+00:00
-last_deep_review: 2026-03-09T10:46:00+00:00
+ai_modified: 2026-03-18T14:26:00+00:00
+last_deep_review: 2026-03-18T14:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,6 +33,7 @@ related_articles:
   - "[[embodied-cognition]]"
   - "[[capability-division-problem]]"
   - "[[baseline-cognition]]"
+  - "[[perceptual-reconstruction-selection]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -61,6 +62,8 @@ The most revealing evidence comes from cases where perceptual processing occurs 
 **Subliminal perception** extends the pattern further. Masked priming experiments show that words presented below the threshold of conscious detection can influence reaction times, semantic processing, and even emotional responses (Marcel, 1983). The brain processes the stimulus; the person has no experience of it.
 
 Each dissociation separates the same two things: the physical processing of sensory information and the conscious experience of perceiving. The inverse dissociation is equally revealing: [[lucid-dreaming-and-dualist-rendering|lucid dreaming]] demonstrates phenomenally complete perception—vivid visual scenes, spatial navigation, emotional affect—without any sensory input at all. Together, blindsight (processing without experience) and lucid dreaming (experience without input) establish that phenomenal rendering and information processing are separable capabilities. The Map's [[capability-division-problem|capability division framework]] systematises this separation. Brain-side processing handles feature extraction, categorisation, and action guidance—capabilities that [[blindsight]] and subliminal perception demonstrate can operate without consciousness. Mind-side contribution includes phenomenal rendering, perceptual ownership, and the flexible deployment of visual information in novel contexts. The dissociations reveal not just that processing and experience can come apart, but that they constitute different *kinds* of capability operating in different domains. [[baseline-cognition|Baseline cognition]]—the sophisticated but bounded processing available without consciousness—marks the brain-side boundary.
+
+A third case complements these dissociations. [[perceptual-reconstruction-selection|Bistable percepts]]—the Necker cube, binocular rivalry—present the brain with ambiguous input that generates multiple valid reconstructions. Consciousness alternates between interpretations in patterns that voluntary attention can bias but neural dynamics alone do not fully determine. Where blindsight shows consciousness absent from intact processing, and lucid dreaming shows consciousness present without sensory input, bistable perception shows consciousness *actively participating* in settling which reconstruction becomes experience. This strengthens the case for bidirectional interaction: consciousness is not merely separable from processing but contributes to its resolution.
 
 A physicalist might respond that consciousness is not identical to processing *in general*, but to a specific type—global broadcasting, higher-order representation, or recurrent activity. On such views, blindsight and subliminal perception involve processing *without* the particular mode that constitutes consciousness.
 
@@ -116,7 +119,7 @@ The Unfinishable Map's [[tenets]] find their sharpest expression in perception.
 
 **Dualism** holds that consciousness is not reducible to physical processes. Perceptual dissociations—blindsight, inattentional blindness, subliminal processing—demonstrate that physical processing and conscious experience are separable. If they can come apart, they are not the same thing. The richness, perspectival character, and intentional structure of perceptual experience each resist reduction to neural description, providing converging evidence that consciousness involves something beyond the physical.
 
-**Bidirectional interaction** predicts that consciousness contributes to perception, not merely accompanies it. The binding of perceptual features into unified scenes, the maintenance of perceptual constancies, and the role of attention in determining what becomes conscious all suggest that consciousness shapes the perceptual field rather than passively receiving it. The [[capability-division-problem|capability division framework]] sharpens this prediction: mind-side capabilities in perception—phenomenal binding, experiential ownership, flexible reasoning about perceptual content—are not redundant additions to brain-side processing but qualitatively different contributions that the neural system alone cannot produce.
+**Bidirectional interaction** predicts that consciousness contributes to perception, not merely accompanies it. The binding of perceptual features into unified scenes, the maintenance of perceptual constancies, [[perceptual-reconstruction-selection|the selection among competing reconstructions in bistable perception]], and the role of attention in determining what becomes conscious all suggest that consciousness shapes the perceptual field rather than passively receiving it. The [[capability-division-problem|capability division framework]] sharpens this prediction: mind-side capabilities in perception—phenomenal binding, experiential ownership, flexible reasoning about perceptual content—are not redundant additions to brain-side processing but qualitatively different contributions that the neural system alone cannot produce.
 
 **Minimal quantum interaction** remains speculative as applied to perception, but the Map holds that a candidate mechanism exists for how consciousness participates in neural processes without violating conservation laws—biasing quantum indeterminacies where perception reaches points of genuine ambiguity.
 
@@ -141,6 +144,7 @@ The Unfinishable Map's [[tenets]] find their sharpest expression in perception.
 - [[capability-division-problem]]
 - [[capability-division-in-vision]] — The vision-specific evidence constraining the brain/mind boundary
 - [[baseline-cognition]]
+- [[perceptual-reconstruction-selection]] — Bistable percepts as evidence of consciousness selecting among competing neural reconstructions
 
 ## References
 

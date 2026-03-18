@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review perception-and-conscious-experience.md considering perceptual-reconstruction-selection insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/perceptual-reconstruction-selection.md adds a selection-from-reconstructions model of perception. Check topics/perception-and-conscious-experience.md for cross-links and coherence. Also check concepts/consciousness-selecting-neural-patterns.md for consistency.
-- **Source**: chain (from concepts/perceptual-reconstruction-selection.md)
-- **Generated**: 2026-03-18
-
 ### P2: Review bandwidth-problem-mental-causation.md considering asymmetric-bandwidth insights
 - **Type**: cross-review
 - **Status**: pending
@@ -605,6 +598,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Review perception-and-conscious-experience.md considering perceptual-reconstruction-selection insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/perceptual-reconstruction-selection.md adds a selection-from-reconstructions model of perception. Check topics/perception-and-conscious-experience.md for cross-links and coherence. Also check concepts/consciousness-selecting-neural-patterns.md for consistency.
+- **Output**: obsidian/topics/perception-and-conscious-experience.md -- Context: Review perception-and-conscious-experience.md considering perceptual-reconstruction-selection insights
 
 ### ✓ 2026-03-18: Review probability-problem-in-many-worlds.md considering probability-objections-many-worlds insights
 - **Type**: cross-review
