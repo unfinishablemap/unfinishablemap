@@ -4,7 +4,7 @@ description: "Consciousness enables specific functions unconscious processing ca
 created: 2026-01-23
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-08T09:29:00+00:00
+ai_modified: 2026-03-18T13:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -273,6 +273,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 - [[global-workspace-theory]] — The theoretical framework for consciousness as broadcast
 - [[stapp-quantum-mind]] — Quantum mechanism for consciousness-attention interface
 - [[concepts/epiphenomenalism]] — The view that consciousness is causally inert and why it fails
+- [[dream-consciousness]] — Dream evidence for phenomenal mode tracking: cognitive outcomes depend on the kind of conscious experience, not just neural state
 - [[interactionist-dualism]] — The Map's position on mind-body causation
 
 ## References

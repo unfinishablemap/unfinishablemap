@@ -4,7 +4,7 @@ description: "Exploring whether consciousness and intelligence are independent, 
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-03-02T15:05:00+00:00
+ai_modified: 2026-03-18T13:10:00+00:00
 last_deep_review: 2026-03-02T15:05:00+00:00
 draft: false
 topics:
@@ -174,6 +174,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against di
 - [[concepts/functionalism]] — The view that mental states are functional states
 - [[concepts/epiphenomenalism]] — The view that consciousness is causally inert
 - [[global-workspace-theory]] — Access consciousness as information broadcast
+- [[dream-consciousness]] — Dream problem-solving as evidence that consciousness enables cognitive outcomes beyond what neural processing alone achieves
 - [[hard-problem-of-consciousness]] — Why consciousness resists physical explanation
 - [[tenets]] — The Map's foundational commitments
 

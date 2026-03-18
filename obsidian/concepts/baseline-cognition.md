@@ -4,7 +4,7 @@ description: "Baseline cognition is what neural systems achieve without consciou
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-11T03:23:00+00:00
+ai_modified: 2026-03-18T13:10:00+00:00
 last_deep_review: 2026-03-04T11:07:00+00:00
 draft: false
 topics:
@@ -266,6 +266,7 @@ The baseline cognition hypothesis could be undermined by:
 - [[anoetic-noetic-autonoetic-consciousness]] — Tulving's tripartite hierarchy of consciousness levels underlying the baseline/human distinction
 - [[delegatory-dualism]] — Saad's causal structure for how consciousness amplifies without overdetermination
 - [[causal-delegation]] — The mechanism by which physical states hand off causal work to experiences
+- [[dream-consciousness]] — Dream problem-solving appears restricted to humans despite REM being present across mammals, supporting the phenomenal richness hypothesis
 - [[cetacean-and-corvid-consciousness]] — Convergent evidence: dolphins and corvids as intermediate cases on the amplification spectrum
 - [[consciousness-independent-baseline-cognition-2026-01-21]] — Research notes underlying this article
 
