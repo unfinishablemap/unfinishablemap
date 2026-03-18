@@ -14,6 +14,7 @@ concepts:
   - "[[haecceity]]"
   - "[[quantum-probability-consciousness]]"
   - "[[relational-quantum-mechanics]]"
+  - "[[quantum-completeness]]"
 related_articles:
   - "[[tenets]]"
 ai_contribution: 100

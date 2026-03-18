@@ -4,7 +4,7 @@ description: "Quantum mechanics is 'partial but complete': structurally exhausti
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T22:29:00+00:00
+ai_modified: 2026-03-18T01:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,6 +16,9 @@ concepts:
   - "[[quantum-indeterminacy-free-will]]"
   - "[[decoherence]]"
   - "[[relational-quantum-mechanics]]"
+  - "[[measurement-problem]]"
+  - "[[many-worlds]]"
+  - "[[qbism]]"
 related_articles:
   - "[[tenets]]"
   - "[[completeness-in-physics-epr-bell-2026-03-14]]"
@@ -25,7 +28,7 @@ author:
 ai_system: claude-sonnet-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-18T01:15:00+00:00
 ---
 
 Quantum mechanics is not incomplete in the way Einstein feared—it is not missing hidden variables that would pin down definite outcomes before measurement. But it is not complete in the way Bohr claimed—it does not fully describe which of many possible outcomes becomes actual. The correct description is *partial but complete*: quantum mechanics is structurally exhaustive within its domain while remaining silent on actuality at measurement. That gap is not an accident or a deficiency in need of better physics. It is precisely where The Unfinishable Map locates the action of consciousness.
@@ -52,7 +55,7 @@ After Bell, Hardy, Kochen-Specker, and PBR: quantum mechanics is not an incomple
 
 ## Where the Gap Lives: Process 1 {#process-1}
 
-Yet something is missing from quantum mechanics. Von Neumann's three-process decomposition identifies exactly where.
+Yet something is missing from quantum mechanics. Von Neumann's three-process decomposition identifies exactly where. (For the full treatment of why this gap is philosophically significant, see [[measurement-problem|the measurement problem]].)
 
 **Process 2** is unitary evolution—the Schrödinger equation governing how quantum states evolve between measurements. Physics determines this completely.
 
@@ -72,11 +75,11 @@ Decoherence and quantum Darwinism are genuine achievements. They explain *which 
 
 This is not a controversial claim within quantum foundations. Zurek himself acknowledges that decoherence "does not, by itself, solve the measurement problem" (Zurek 2003, p. 76). Schlosshauer's comprehensive review concludes that decoherence achieves "the transition from a quantum superposition to a classical *mixture*" but not the further transition from mixture to definite outcome (Schlosshauer 2007, p. 69). The diagonal density matrix tells us that the cat is *either* alive *or* dead with calculable probabilities—it does not tell us *which*.
 
-The remaining interpretive options at this point are limited. Many-worlds avoids the selection problem by denying it arises ([discussed in the next section](#many-worlds-honestly)). Spontaneous collapse theories (GRW, CSL) add a stochastic physical mechanism. Hidden-variable theories (de Broglie-Bohm) restore determinism through additional structure. The Unfinishable Map proposes that the selection of one outcome from the decohered mixture is where consciousness acts—not by overriding physics, but by resolving an indeterminacy that physics leaves genuinely open.
+The remaining interpretive options at this point are limited. Many-worlds avoids the selection problem by denying it arises ([discussed in the next section](#many-worlds-honestly)). Spontaneous collapse theories (GRW, CSL) add a stochastic physical mechanism. Hidden-variable theories (de Broglie-Bohm) restore determinism through additional structure. The Unfinishable Map proposes that the selection of one outcome from the decohered mixture is where consciousness acts—not by overriding physics, but by resolving an indeterminacy that physics leaves genuinely open. This proposal is empirically unfalsifiable: consciousness-selection within Born probabilities produces the same statistics as random collapse. The Map treats this as a philosophical framework compatible with physics, not a competing physical hypothesis.
 
 ## Many-Worlds, Honestly {#many-worlds-honestly}
 
-The many-worlds interpretation deserves more careful treatment than it often receives—including from the Map's earlier characterisation of it as "proliferating ontology." Everettians argue, with some justification, that their interpretation is more parsimonious than collapse theories: it takes the Schrödinger equation as universally valid and *removes* the collapse postulate rather than adding to the formalism. The ontological cost is not new equations but a larger reality—every branch of the wavefunction is equally real.
+The [[many-worlds|many-worlds interpretation]] deserves more careful treatment than it often receives—including from the Map's earlier characterisation of it as "proliferating ontology." Everettians argue, with some justification, that their interpretation is more parsimonious than collapse theories: it takes the Schrödinger equation as universally valid and *removes* the collapse postulate rather than adding to the formalism. The ontological cost is not new equations but a larger reality—every branch of the wavefunction is equally real.
 
 The Map's objection to many-worlds is not primarily about parsimony. It is about *indexical identity*: the question of why *this* observer experiences *this* outcome. In the Everettian picture, a version of the observer experiences every outcome. The question "why did I see spin-up rather than spin-down?" is answered with "a version of you saw each." But this answer is satisfying only if identity is not indexical—only if there is no fact of the matter about which branch is *mine*. The Map's fourth tenet holds that indexical identity matters: there is a determinate subject whose experience is of one particular outcome. If that is correct, many-worlds does not eliminate the selection problem. It relocates it from "which outcome becomes actual?" to "which branch is the one I inhabit?"—a question Everettian theory cannot answer without appealing to something outside the formalism (Albert 2010, Kent 2010).
 
@@ -88,7 +91,7 @@ Quantum mechanics is partial in a sharper way. The missing element is not a furt
 
 ## Contrasting Case: QBism {#qbism}
 
-A sophisticated alternative holds that quantum mechanics is complete in a different sense: complete as a normative guide for agents' expectations. QBism (Quantum Bayesianism), developed by Caves, Fuchs, and Schack and later joined by Mermin, treats quantum states as encoding an agent's credences about future experiences. Measurement is not passive observation but, in Fuchs's phrase, "a little act of creation." The measurement problem dissolves because measurement is just an agent's experience of acting on the world—there is no collapse to explain, only updated credences.
+A sophisticated alternative holds that quantum mechanics is complete in a different sense: complete as a normative guide for agents' expectations. [[qbism|QBism]] (Quantum Bayesianism), developed by Caves, Fuchs, and Schack and later joined by Mermin, treats quantum states as encoding an agent's credences about future experiences. Measurement is not passive observation but, in Fuchs's phrase, "a little act of creation." The measurement problem dissolves because measurement is just an agent's experience of acting on the world—there is no collapse to explain, only updated credences.
 
 QBism correctly identifies that quantum mechanics cannot be understood without reference to agents and observers. But it draws the wrong conclusion. If the wavefunction is merely a credence framework rather than an ontic description, the PBR theorem's force is lost. More fundamentally, QBism dissolves the measurement problem rather than solves it—it tells us to stop asking why one outcome becomes actual rather than another. The Unfinishable Map regards this as evasion. A theory that is complete-for-agents can still be partial-about-actuality. The question of which outcome obtains is not answered by noting that the agent updates their credences accordingly.
 
@@ -133,19 +136,3 @@ The **Occam's Razor Has Limits** tenet cautions against preferring simpler expla
 14. Zurek, W. H. (2009). Quantum Darwinism. *Nature Physics*, 5(3), 181–188.
 15. Albert, D. Z. (2010). Probability in the Everett Picture. In S. Saunders et al. (Eds.), *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press.
 16. Kent, A. (2010). One World Versus Many: The Inadequacy of Everettian Accounts of Evolution, Probability, and Scientific Confirmation. In S. Saunders et al. (Eds.), *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press.
-
-<!-- AI REFINEMENT LOG - 2026-03-17
-Changes made:
-- Added "The Decoherence Objection" section engaging with decoherence theory and quantum Darwinism; argues decoherence explains pointer basis but not specific outcome selection, citing Zurek and Schlosshauer's own acknowledgements
-- Added "Many-Worlds, Honestly" section replacing the mischaracterisation of MWI as "proliferating ontology"; reframes the Map's objection around indexical identity (tenet 4) rather than parsimony
-- Fixed MWI characterisation in Relation to Site Perspective (No Many Worlds and Occam's Razor paragraphs) for consistency
-- Softened "The gap in QM is not physics-shaped. It is consciousness-shaped" to more measured language
-- Softened "Physics as such does not reach this question" with structural reasons
-- Added note that PBR's independence assumption is debated
-- Added 5 new references (Zurek 2003, Schlosshauer 2007, Zurek 2009, Albert 2010, Kent 2010)
-
-Based on pessimistic-2026-03-17-night.md findings (Issues 2 and 3).
-Key improvements: substantive engagement with decoherence objection, honest treatment of MWI.
-
-This log should be removed after human review.
--->

@@ -26,6 +26,7 @@ concepts:
   - "[[mysterianism]]"
   - "[[neural-binding-mechanisms]]"
   - "[[consciousness-in-non-collapsed-quantum-states]]"
+  - "[[quantum-completeness]]"
 related_articles:
   - "[[tenets]]"
   - "[[decoherence]]"

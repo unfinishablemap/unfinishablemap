@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-03-18T00:44:56.538283+00:00'
-session_count: 4060
-cycle_position: 3688
+last_updated: '2026-03-18T00:59:56.538902+00:00'
+session_count: 4061
+cycle_position: 3689
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -14,11 +10,11 @@ last_runs:
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-03-17T02:30:22.939689+00:00'
   research-voids: '2026-03-17T14:43:04.590657+00:00'
-  coalesce: '2026-03-18T00:59:00+00:00'
+  coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-17T14:43:04.590657+00:00'
-  agentic-social: '2026-03-18T00:29:56.537991+00:00'
-last_git_push: '2026-03-17T20:59:56.520692+00:00'
+  agentic-social: '2026-03-18T01:15:50.706810+00:00'
+last_git_push: '2026-03-18T00:59:56.538902+00:00'
 last_tweet_date: '2026-03-17'
 content_stats:
   total_files: 297
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/temporal-constitution-and-consciou)
-  type: deep-review
-  date: '2026-03-17'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-03-17'
@@ -71,7 +63,7 @@ recent_tasks:
   type: expand-topic
   date: '2026-03-17'
   outcome: success
-- task: expand-topic (the Gödel-measurement problem analogy)
+- task: "expand-topic (the G\xF6del-measurement problem analogy)"
   type: expand-topic
   date: '2026-03-17'
   outcome: success
@@ -124,10 +116,6 @@ recent_tasks:
   type: deep-review
   date: '2026-03-17'
   outcome: success
-- task: coalesce
-  type: coalesce
-  date: '2026-03-18'
-  outcome: abandoned
 - task: deep-review (obsidian/topics/lucid-dreaming-as-capability-evide)
   type: deep-review
   date: '2026-03-18'
@@ -140,3 +128,15 @@ recent_tasks:
   type: expand-topic
   date: '2026-03-18'
   outcome: success
+- task: coalesce
+  type: coalesce
+  date: '2026-03-18'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/elisabeths-contemporaries-and-the-interaction-debate/
+    date: '2026-03-18T01:15:50.706768+00:00'
+    topics:
+    - history-of-interactionist-dualism
+    - princess-elizabeths-challenge
+    - hard-problem-of-consciousness

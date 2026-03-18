@@ -31,6 +31,7 @@ concepts:
   - "[[self-stultification]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[consciousness-in-non-collapsed-quantum-states]]"
+  - "[[quantum-completeness]]"
 related_articles:
   - "[[tenets]]"
   - "[[godel-measurement-problem-analogy-2026-03-14]]"

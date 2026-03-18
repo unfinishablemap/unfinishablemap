@@ -25,6 +25,7 @@ concepts:
   - "[[meditation-and-consciousness-modes]]"
   - "[[witness-consciousness]]"
   - "[[illusionism]]"
+  - "[[quantum-completeness]]"
 related_articles:
   - "[[tenets]]"
   - "[[stapp-mental-effort-mind-matter-2026-01-14]]"

@@ -20,6 +20,7 @@ concepts:
   - "[[decoherence]]"
   - "[[introspection]]"
   - "[[mental-causation]]"
+  - "[[quantum-completeness]]"
 related_articles:
   - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[probability-problem-in-many-worlds]]"

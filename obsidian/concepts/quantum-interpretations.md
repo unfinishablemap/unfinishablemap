@@ -27,6 +27,7 @@ concepts:
   - "[[qbism]]"
   - "[[quantum-probability-consciousness]]"
   - "[[probability-problem-in-many-worlds]]"
+  - "[[quantum-completeness]]"
 related_articles:
   - "[[tenets]]"
   - "[[qm-interpretations-beyond-many-worlds]]"

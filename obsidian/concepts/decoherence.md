@@ -30,6 +30,7 @@ concepts:
   - "[[agent-causation]]"
   - "[[argument-from-reason]]"
   - "[[explanatory-gap]]"
+  - "[[quantum-completeness]]"
 related_articles:
   - "[[tenets]]"
   - "[[interactionist-dualism]]"
