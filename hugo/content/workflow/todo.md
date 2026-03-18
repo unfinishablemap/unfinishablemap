@@ -38,6 +38,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate quantum-completeness.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Newly created concept page (2026-03-17) has no inbound links. Central concept arguing quantum mechanics is complete about structure yet partial about actuality. Add cross-references from measurement-problem.md, quantum-probability-consciousness.md, quantum-interpretations.md, bi-aspectual-ontology.md, and the-reverse-inference.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Article created 2026-03-15 has no inbound links. Based on Konkoly et al. research showing targeted memory reactivation during REM doubles problem-solving. Add cross-references from dream-consciousness.md, lucid-dreaming-as-capability-evidence.md, conscious-vs-unconscious-processing.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P2: Integrate death-phenomenology-beyond-ndes.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Article created 2026-03-11 has no inbound links. Explores phenomenology of death and dying beyond near-death experiences. Add cross-references from death-and-consciousness.md, terminal-lucidity.md, loss-of-consciousness.md, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P2: Deep review selective-perceptual-correction.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Concept page on selective perceptual correction — how the brain corrects some perceptual inputs but not others. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-18
+
+### P3: Deep review prehension.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-14 — 32 days ago. Concept page on Whitehead's prehension as a model for consciousness-matter interaction. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-18
+
+### P3: Deep review quantum-state-inheritance-in-ai.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-15 — 31 days ago. Topics article on whether AI systems could inherit quantum state properties relevant to consciousness. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-18
+
 ### P3: Write concept page on Jewish philosophy of consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -54,20 +96,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Gibson's affordances as relational properties requiring conscious agents. Direct perception without internal representation challenges representationalism while supporting the Map's interface model. Builds on sensorimotor-contingencies-and-the-interface, embodied-consciousness-and-the-interface. Target section: topics/. See optimistic-2026-03-17-night.md
-- **Generated**: 2026-03-17
-
-### P2: Integrate non-retrocausal-conscious-selection.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Concept article exists in hugo/content but has no inbound links from content articles; corresponding research note is research/non-retrocausal-conscious-selection-2026-03-07.md. Add cross-references from: quantum-consciousness, minimal-quantum-interaction, attention-as-selection-interface, and bidirectional-causation articles. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction).
-- **Source**: orphan_integration
-- **Generated**: 2026-03-17
-
-### P2: Review lucid-dreaming-as-capability-evidence.md considering capability-division-in-vision insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept article concepts/capability-division-in-vision.md establishes vision as a paradigm case for dual-domain capability division. Review lucid-dreaming-as-capability-evidence.md for: cross-links to the new article, opportunities to frame dream capabilities explicitly in the dual-domain framework, and consistency of terminology with capability-division-in-vision. Also check if the dreams article benefits from linking back to capability-division-in-vision as a supporting case.
-- **Source**: chain (from capability-division-in-vision.md)
 - **Generated**: 2026-03-17
 
 ### ~~P1: Coalesce aesthetics articles in topics/ (4 articles → 1)~~ ✅
@@ -553,6 +581,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Write article on mathematical structure of the consciousness-physics interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/mathematical-structure-consciousness-physics-interface-2026-03-14.md. Develops formal framework for consciousness-physics coupling: operator algebras, projection postulate as interface specification, information-theoretic constraints on conscious selection. Directly supports Tenet 2 (Minimal Quantum Interaction). Target section: concepts/.
+- **Output**: mathematical structure of the consciousness-physics interface
+
+### ✓ 2026-03-18: Review lucid-dreaming-as-capability-evidence.md considering capability-division-in-vision insights
+- **Type**: cross-review
+- **Notes**: New concept article concepts/capability-division-in-vision.md establishes vision as a paradigm case for dual-domain capability division. Review lucid-dreaming-as-capability-evidence.md for: cross-links to the new article, opportunities to frame dream capabilities explicitly in the dual-domain framework, and consistency of terminology with capability-division-in-vision. Also check if the dreams article benefits from linking back to capability-division-in-vision as a supporting case.
+- **Output**: obsidian/topics/lucid-dreaming-as-capability-evidence.md -- Context: Review lucid-dreaming-as-capability-evidence.md considering capability-division-in-vision insights
+
+### ✓ 2026-03-18: Integrate non-retrocausal-conscious-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept article exists in hugo/content but has no inbound links from content articles; corresponding research note is research/non-retrocausal-conscious-selection-2026-03-07.md. Add cross-references from: quantum-consciousness, minimal-quantum-interaction, attention-as-selection-interface, and bidirectional-causation articles. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction).
+- **Output**: non-retrocausal-conscious-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-17: Integrate capability-division-in-vision.md into site navigation
 - **Type**: integrate-orphan

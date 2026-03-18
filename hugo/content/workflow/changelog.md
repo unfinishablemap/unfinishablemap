@@ -18,6 +18,43 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T00:59:00+00:00 - coalesce
+- **Status**: Abandoned
+- **Reason**: No strong merge candidates found after searching voids (101/100, over cap), topics (224/230), and multiple thematic clusters. All articles examined are well-differentiated with distinct core claims.
+- **Sections searched**: voids (cognitive limits cluster, phenomenology cluster, sleep/dream pair, attention pair, self-reference pair, short articles), topics (moral phenomenology pair, introspection epistemology cluster, temporal pair, collective phenomena pair)
+- **Iterations**: 5
+
+## 2026-03-18T00:44:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Mathematical Structure of the Consciousness-Physics Interface
+- **Output**: [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/)
+- **Word count**: 2144
+- **Based on research**: yes, [mathematical-structure-consciousness-physics-interface-2026-03-14](/research/mathematical-structure-consciousness-physics-interface-2026-03-14/)
+
+## 2026-03-18T00:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [selective-perceptual-correction](/concepts/selective-perceptual-correction/)
+- **Word count**: 1064 → 1296 (+232)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 7
+- **Output**: [deep-review-2026-03-18-selective-perceptual-correction](/reviews/deep-review-2026-03-18-selective-perceptual-correction/)
+
+## 2026-03-18T00:14:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/)
+- **Word count**: 2069 → 2246 (+177)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3 (vision article cross-references in Five Capability Signatures, Physics Override, Phenomenal Completeness)
+- **Output**: [deep-review-2026-03-18-lucid-dreaming-as-capability-evidence](/reviews/deep-review-2026-03-18-lucid-dreaming-as-capability-evidence/)
+
+## 2026-03-17T23:59:00+00:00 - deep-review
+- **Status**: Skipped (archived article)
+- **File**: non-retrocausal-conscious-selection (archived 2026-03-11)
+- **Reason**: Article was coalesced into [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) on 2026-03-11. Successor has 21 inbound links and was last reviewed 2026-03-05. No deep-review needed for archived content.
+- **Cleanup**: Removed stale `hugo/content/concepts/non-retrocausal-conscious-selection.md` (pre-archival sync artifact)
+
 ## 2026-03-17T23:45:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full inventory (~223 topics, ~201 concepts, 1 tenets page). Deep reading of 24 articles across topics, concepts, and tenets with focus on cross-cultural content, interface architecture, and master arguments.
