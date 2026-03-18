@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-18 has no inbound links. Topics article on lucid dreaming as evidence for mind-side rendering capability. Add cross-references from related articles (dream-problem-solving-and-conscious-influence, filter-theory, lucid-dreaming-as-capability-evidence, consciousness-and-dreaming) to integrate into the site's link network.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P2: Integrate memory-consolidation-and-transformation-of-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-17 has no inbound links. Topics article on memory consolidation and experience transformation. Add cross-references from related articles (consciousness-and-memory, memory-as-dual-domain-capability, episodic-memory, temporal-consciousness) to integrate into the site's link network.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P2: Integrate parsimony-epistemology.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-18 has no inbound links. Concept page on the epistemological limits of parsimony, supporting Tenet 5. Add cross-references from related articles (occams-razor, epistemic-advantages-of-dualism, parsimony-and-consciousness, consciousness-and-scientific-methodology) to integrate into the site's link network.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P2: Cross-review methodology articles considering Duhem-Quine underdetermination insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/duhem-quine-underdetermination-consciousness.md created 2026-03-18 on theory underdetermination in consciousness science. Review consciousness-and-scientific-methodology.md and consciousness-and-the-limits-of-explanation.md for cross-links, whether Duhem-Quine framework strengthens existing methodology arguments, and consistency with claims about empirical evidence for consciousness.
+- **Source**: chain (from duhem-quine-underdetermination-consciousness.md)
+- **Generated**: 2026-03-18
+
+### P2: Cross-review epistemology articles considering parsimony-epistemology concept
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/parsimony-epistemology.md created 2026-03-18 on the epistemological limits of Occam's Razor. Review occams-razor-has-limits.md and epistemic-advantages-of-dualism.md for cross-links, whether the new concept page sharpens existing arguments about parsimony's limitations, and consistency with Tenet 5 framing.
+- **Source**: chain (from parsimony-epistemology.md)
+- **Generated**: 2026-03-18
+
 ### P2: Cross-review consciousness-and-memory.md considering memory-as-dual-domain insights
 - **Type**: cross-review
 - **Status**: pending
