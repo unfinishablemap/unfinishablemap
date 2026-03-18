@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18 22:13 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Probability and decision-theory objections to many worlds
+- **Reason**: Content already exists in [[topics/probability-problem-in-many-worlds]] (coalesced 3000+ word article covering all four objections) and [[concepts/probability-objections-many-worlds]] (concept reference page created same day). No new article needed.
+
 ## 2026-03-18 21:51 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/predictive-processing-and-the-maps-framework]]

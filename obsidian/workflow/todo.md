@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on probability and decision-theory objections to many worlds
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Systematic treatment of how probability and decision theory create problems for MWI — self-locating uncertainty, branch-counting vs. amplitude-weighting, and the incoherence of rational betting in a deterministic multiverse. Directly supports Tenet 4 (No Many Worlds). Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-18
-
 ### P2: Integrate parsimony-epistemology.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -676,6 +669,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Write article on probability and decision-theory objections to many worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Systematic treatment of how probability and decision theory create problems for MWI — self-locating uncertainty, branch-counting vs. amplitude-weighting, and the incoherence of rational betting in a deterministic multiverse. Directly supports Tenet 4 (No Many Worlds). Target section: topics/.
+- **Output**: probability and decision-theory objections to many worlds
 
 ### ✓ 2026-03-18: Cross-review epistemology articles considering parsimony-epistemology concept
 - **Type**: cross-review
