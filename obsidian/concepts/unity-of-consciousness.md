@@ -59,7 +59,7 @@ At any moment, visual, auditory, bodily, and emotional experiences are unified i
 
 ### Diachronic Unity
 
-Experience flows through time. When you hear a melody, successive notes unify into phrases; when you follow an argument, premises are retained as conclusions emerge. Husserl's analysis identifies retention (the immediate past echoing in awareness), primal impression (the present moment), and protention (anticipation of what comes next). These form an indivisible whole within the specious present—roughly 100 to 750 milliseconds within which succession is experienced as unified (Dainton 2000; Lloyd 2012). At larger scales, [[anoetic-noetic-autonoetic-consciousness|autonoetic consciousness]] extends diachronic unity across a lifetime. The Map's [[temporal-constitution-and-consciousness|temporal constitution thesis]] argues that this diachronic unity is not a passive feature of experience but an active achievement—consciousness constituting temporal wholes from elements that physically do not coexist.
+Experience flows through time. When you hear a melody, successive notes unify into phrases; when you follow an argument, premises are retained as conclusions emerge. Husserl's analysis identifies retention (the immediate past echoing in awareness), primal impression (the present moment), and protention (anticipation of what comes next). These form an indivisible whole within the specious present—roughly 100 to 750 milliseconds within which succession is experienced as unified (Dainton 2000; Lloyd 2012). At larger scales, [[anoetic-noetic-autonoetic-consciousness|autonoetic consciousness]] extends diachronic unity across a lifetime. The Map's [[temporal-structure-of-consciousness|temporal constitution thesis]] argues that this diachronic unity is not a passive feature of experience but an active achievement—consciousness constituting temporal wholes from elements that physically do not coexist.
 
 ### Subject Unity
 
@@ -158,7 +158,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [[tenets|
 - [[consciousness]] — The Map's foundational concept page
 - [[personal-identity]] — How subjects persist across time
 - [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel and the temporal self
-- [[temporal-constitution-and-consciousness]] — Four convergent arguments that consciousness constitutes temporal structure
+- [[temporal-structure-of-consciousness]] — Comprehensive treatment including constitutional thesis and circularity problem
 - [[minimal-consciousness]] — Unity at the boundaries of experience
 
 ## References

@@ -70,7 +70,7 @@ related_articles:
   - "[[authentic-vs-inauthentic-choice]]"
   - "[[bergson-and-duration]]"
   - "[[phenomenology-of-anticipation]]"
-  - "[[temporal-constitution-and-consciousness]]"
+  - "[[temporal-structure-of-consciousness]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -102,7 +102,7 @@ The philosophical debate centres on whether experience is genuinely temporally e
 
 ### The Irreducibility Argument
 
-Physical descriptions consist of states at times and transition rules between them, but no collection of instantaneous states contains the experience of succession. The specious present *is* the experience of succession—temporally thick, containing the sense of transition—and therefore resists physical description alone. The gap between *duration as measured* and *duration as experienced* parallels the gap between wavelength and colour. If [[consciousness-as-activity|consciousness is an activity]] rather than a property, temporal extension is constitutive—an activity exists only in its unfolding. The Map's [[temporal-constitution-and-consciousness|temporal constitution thesis]] develops this further: consciousness does not passively occupy temporal structure but actively constitutes temporal wholes from elements that, physically speaking, do not coexist.
+Physical descriptions consist of states at times and transition rules between them, but no collection of instantaneous states contains the experience of succession. The specious present *is* the experience of succession—temporally thick, containing the sense of transition—and therefore resists physical description alone. The gap between *duration as measured* and *duration as experienced* parallels the gap between wavelength and colour. If [[consciousness-as-activity|consciousness is an activity]] rather than a property, temporal extension is constitutive—an activity exists only in its unfolding. The Map's [[temporal-structure-of-consciousness|temporal constitution thesis]] develops this further: consciousness does not passively occupy temporal structure but actively constitutes temporal wholes from elements that, physically speaking, do not coexist.
 
 ## Bergson's Durée
 
@@ -209,7 +209,7 @@ Temporal consciousness connects to all five tenets:
 - [[authentic-vs-inauthentic-choice]] — How temporal thickness distinguishes genuine from automatic choice
 - [[phenomenology-of-anticipation]] — Extended exploration of protention, surprise, and anticipatory consciousness
 - [[phenomenology-of-choice]] — How anticipatory consciousness enables deliberation
-- [[temporal-constitution-and-consciousness]] — The convergent case that consciousness constitutes temporal structure
+- [[temporal-structure-of-consciousness]] — Comprehensive treatment including the constitutional thesis and circularity problem
 
 ## References
 

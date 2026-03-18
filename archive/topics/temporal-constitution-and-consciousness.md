@@ -6,6 +6,11 @@ modified: 2026-03-17
 human_modified:
 ai_modified: 2026-03-17T20:01:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-18T23:22:00+00:00
+superseded_by: "/topics/temporal-structure-of-consciousness/"
+archive_reason: "Coalesced into Temporal Structure of Consciousness"
+original_path: "/topics/temporal-constitution-and-consciousness/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[temporal-structure-of-consciousness]]"
