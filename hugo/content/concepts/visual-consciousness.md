@@ -92,7 +92,7 @@ Key visual NCC findings:
 - **Motion area MT/V5 correlates with motion consciousness**: Damage impairs motion perception specifically
 - **Lateral occipital cortex correlates with object consciousness**: The "what" stream's endpoint
 
-These correlations map visual consciousness onto neural architecture but don't explain why this activity feels like seeing. The posterior hot zone might be where consciousness *interfaces* with visual processing rather than where it's generated—compatible with both materialist and interactionist interpretations. The [capability division framework](/voids/capability-division-problem/) suggests that NCC research maps the brain-side boundary: it identifies where neural processing reaches the interface with mind-side contributions like phenomenal rendering and experiential ownership.
+These correlations map visual consciousness onto neural architecture but don't explain why this activity feels like seeing. The posterior hot zone might be where consciousness *interfaces* with visual processing rather than where it's generated—compatible with both materialist and interactionist interpretations. The [capability division framework](/voids/capability-division-problem/) suggests that NCC research maps the brain-side boundary: it identifies where neural processing reaches the interface with mind-side contributions like phenomenal rendering and experiential ownership. [Capability division in vision](/concepts/capability-division-in-vision/) examines the specific evidence — blindsight limitations, the two-streams dissociation, the perceptual organisation threshold — that constrains where this boundary falls.
 
 ## The Problem Visual Consciousness Poses
 
@@ -137,6 +137,7 @@ The sheer complexity of visual consciousness—spatial layout, colour qualia, te
 - [phenomenal-overflow](/concepts/phenomenal-overflow/) — Whether visual phenomenology exceeds visual access
 - [knowledge-argument](/concepts/knowledge-argument/) — Why physical facts don't capture what seeing is like
 - [capability-division-problem](/voids/capability-division-problem/) — Which visual capabilities belong to the brain and which to consciousness
+- [capability-division-in-vision](/concepts/capability-division-in-vision/) — The specific evidence from blindsight, two-streams, and perceptual organisation constraining the division
 
 ## References
 

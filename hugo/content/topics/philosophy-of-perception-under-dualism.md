@@ -149,6 +149,7 @@ The Unfinishable Map's [tenets](/tenets/) reshape the philosophy of perception i
 - [binding-problem](/concepts/binding-problem/)
 - [phenomenal-transparency](/concepts/phenomenal-transparency/)
 - [perception-and-conscious-experience](/topics/perception-and-conscious-experience/)
+- [capability-division-in-vision](/concepts/capability-division-in-vision/) — The two-streams dissociation and blindsight evidence applied to capability division
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)
 - [reconstruction-paradox](/voids/reconstruction-paradox/)
 - [filter-theory](/concepts/filter-theory/)

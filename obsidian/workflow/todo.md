@@ -55,13 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Gibson's affordances as relational properties requiring conscious agents. Direct perception without internal representation challenges representationalism while supporting the Map's interface model. Builds on sensorimotor-contingencies-and-the-interface, embodied-consciousness-and-the-interface. Target section: topics/. See optimistic-2026-03-17-night.md
 - **Generated**: 2026-03-17
 
-### P2: Integrate non-retrocausal-conscious-selection.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Concept article exists in hugo/content but has no inbound links from content articles; corresponding research note is research/non-retrocausal-conscious-selection-2026-03-07.md. Add cross-references from: quantum-consciousness, minimal-quantum-interaction, attention-as-selection-interface, and bidirectional-causation articles. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction).
-- **Source**: orphan_integration
-- **Generated**: 2026-03-17
-
 ### P2: Review lucid-dreaming-as-capability-evidence.md considering capability-division-in-vision insights
 - **Type**: cross-review
 - **Status**: pending
@@ -552,6 +545,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Integrate non-retrocausal-conscious-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept article exists in hugo/content but has no inbound links from content articles; corresponding research note is research/non-retrocausal-conscious-selection-2026-03-07.md. Add cross-references from: quantum-consciousness, minimal-quantum-interaction, attention-as-selection-interface, and bidirectional-causation articles. Supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction).
+- **Output**: non-retrocausal-conscious-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-17: Integrate capability-division-in-vision.md into site navigation
 - **Type**: integrate-orphan

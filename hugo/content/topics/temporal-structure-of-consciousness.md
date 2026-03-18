@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-17 20:01:00+00:00
+ai_modified: 2026-03-17 23:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -13,8 +13,6 @@ coalesced_from:
 concepts:
 - '[[temporal-consciousness]]'
 - '[[philosophy-of-time]]'
-- '[[temporal-consciousness]]'
-- '[[temporal-consciousness]]'
 - '[[collapse-and-time]]'
 - '[[qualia]]'
 - '[[phenomenology]]'
@@ -43,7 +41,7 @@ description: How consciousness requires time, time may require consciousness, an
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-23 15:50:00+00:00
+last_deep_review: 2026-03-17 23:14:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -54,6 +52,7 @@ related_articles:
 - '[[personal-identity]]'
 - '[[the-binding-problem-a-systematic-treatment]]'
 - '[[temporal-constitution-and-consciousness]]'
+- '[[neural-refresh-rates-and-the-smoothness-problem]]'
 title: Temporal Structure of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -117,15 +116,13 @@ Kent & Wittmann (2021) identify a critical gap: leading consciousness theories c
 
 The most sophisticated materialist response invokes **predictive processing**: "experienced duration" emerges from how prediction errors propagate through hierarchical neural systems. This explains why experienced duration varies with attention, why time speeds up during flow states, and why novel experiences feel longer. The functional profile may be fully capturable in these terms.
 
-The phenomenological rejoinder: even sophisticated predictive processing explains *when* binding occurs and *what content* gets integrated, but not *what it's like* to experience that integration as flow. The [explanatory gap](/concepts/explanatory-gap/) reappears. The Map's framework takes this further question seriously: *durée* isn't captured by any functional account. The explanatory gap applies to temporal integration with particular force, because what needs explaining isn't a state but a process—not what experience *is* at a moment but how moments *become* a stream.
+The phenomenological rejoinder: even sophisticated predictive processing explains *when* binding occurs and *what content* gets integrated, but not *what it's like* to experience that integration as flow. The [explanatory gap](/concepts/explanatory-gap/) reappears. The Map's treatment of the [smoothness problem](/topics/neural-refresh-rates-and-the-smoothness-problem/) sharpens this point: neural oscillations sample the world at discrete intervals (7–13 Hz for attention, ~40 Hz for feature binding), yet experience feels seamless. Functionalists argue the right functional organisation *is* smooth experience; the Map holds that the gap between discrete substrate and continuous phenomenology is a concrete instance of the explanatory gap that functional accounts leave open. The explanatory gap applies to temporal integration with particular force, because what needs explaining isn't a state but a process—not what experience *is* at a moment but how moments *become* a stream.
 
 ## Temporal Binding and the Brain
 
-Neuroscience has identified mechanisms underlying temporal consciousness: **gamma-band oscillations** (30-100 Hz) correlate with conscious processing; the **"time-domain brain" hypothesis** (Baker & Cariani, 2025) proposes temporal mechanisms as essential components, not mere correlates; **temporal binding** at 80-100ms scales explains audio-visual synchronisation and causality perception.
+Neuroscience has identified mechanisms underlying temporal consciousness: **gamma-band oscillations** (30-100 Hz) correlate with conscious processing; the **"time-domain brain" hypothesis** (Baker & Cariani, 2025) proposes temporal mechanisms as essential components, not mere correlates; **temporal binding** at 80-100ms scales explains audio-visual synchronisation and causality perception. VanRullen's work on [perceptual cycles](/topics/neural-refresh-rates-and-the-smoothness-problem/) confirms that perception operates rhythmically through multiple oscillatory channels, with alpha rhythms (~10 Hz) driving discrete sampling.
 
-But binding at these scales doesn't explain the 1-3 second specious present, let alone multi-second conversational flow. Time consciousness isn't a single clock but a distributed, hierarchical process across multiple timescales.
-
-These mechanisms are necessary for temporal consciousness but may not be sufficient. Neural oscillations explain *when* binding occurs and *which* events get integrated, but not *what it's like* to experience integration as flow.
+But binding at these scales doesn't explain the 1-3 second specious present, let alone multi-second conversational flow. These mechanisms are necessary for temporal consciousness but may not be sufficient—neural oscillations explain *when* binding occurs and *which* events get integrated, but not *what it's like* to experience integration as flow.
 
 ## Evidence from Disrupted Temporal Integration
 
@@ -227,13 +224,12 @@ The temporal structure of consciousness connects to all five [tenets](/tenets/):
 
 ## Further Reading
 
-- [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present, temporal binding, and its implications
+- [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present, Bergson's durée, temporal binding, and experienced duration
 - [temporal-phenomenology-quantum-selection](/concepts/temporal-consciousness/) — What quantum selection feels like from within: retention-protention as experiential signature of collapse
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, presentism, eternalism, growing block
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — The Map's full framework on time, collapse, and agency
-- [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's durée and qualitative lived time
-- [temporal-consciousness](/concepts/temporal-consciousness/) — The experienced duration of the present moment
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow
+- [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/) — How discrete neural oscillations clash with continuous phenomenal experience
 - [free-will](/topics/free-will/) — Temporal agency and the determination question
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader challenge of explaining experience
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/) — What it's like to choose, including temporal aspects

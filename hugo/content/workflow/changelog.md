@@ -18,6 +18,79 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17T23:45:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full inventory (~223 topics, ~201 concepts, 1 tenets page). Deep reading of 24 articles across topics, concepts, and tenets with focus on cross-cultural content, interface architecture, and master arguments.
+- **Output**: [optimistic-2026-03-17-night](/reviews/optimistic-2026-03-17-night/)
+
+## 2026-03-17T23:29:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [capability-division-in-vision](/concepts/capability-division-in-vision/)
+- **Word count**: 1544 → 1617 (+73)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (missing cross-links, orphan status, speculation hedging)
+- **Enhancements made**: 3 (conscious-vs-unconscious-processing link, interface channel mapping, 7 inbound cross-links from related articles)
+- **Output**: [deep-review-2026-03-17-capability-division-in-vision](/reviews/deep-review-2026-03-17-capability-division-in-vision/)
+
+## 2026-03-17T23:14:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
+- **Context**: Cross-review considering neural-refresh-rates-and-the-smoothness-problem
+- **Word count**: 3442 → 3494 (+52)
+- **Critical issues addressed**: 1 (duplicate frontmatter concepts)
+- **Medium issues addressed**: 3 (cross-links to smoothness problem, VanRullen reference, Further Reading consolidation)
+- **Enhancements made**: 4 (cross-links in body, frontmatter, and Further Reading)
+- **Output**: [deep-review-2026-03-17-temporal-structure-of-consciousness](/reviews/deep-review-2026-03-17-temporal-structure-of-consciousness/)
+
+## 2026-03-17T23:00:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/)
+- **Word count**: 1954 → 2053 (+99)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-17-neural-refresh-rates-and-the-smoothness-problem](/reviews/deep-review-2026-03-17-neural-refresh-rates-and-the-smoothness-problem/)
+
+## 2026-03-17T22:44:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/)
+- **Changes**: Fixed circular argument (smoothness no longer presented as independent evidence for hard problem), added functionalist response section, removed speculative quantum paragraph from tenet section, added caveats to Bergson's Inversion section
+- **Published**: yes
+
+## 2026-03-17T22:29:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [quantum-completeness](/concepts/quantum-completeness/)
+- **Changes**: Added decoherence objection section (with quantum Darwinism), rewrote many-worlds treatment around indexical identity, softened rhetorical overreach, added PBR independence caveat, 5 new references
+- **Published**: yes
+
+## 2026-03-17T22:15:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/neural-refresh-rates-and-the-smoothness-problem.md, topics/godel-measurement-problem-analogy.md, concepts/quantum-completeness.md
+- **Output**: [pessimistic-2026-03-17-night](/reviews/pessimistic-2026-03-17-night/)
+
+## 2026-03-17T21:59:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Neural Refresh Rates and the Smoothness Problem
+- **Output**: [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/)
+- **Word count**: 1763
+- **Based on research**: yes, [neural-refresh-rates-smoothness-problem-2026-03-08](/research/neural-refresh-rates-smoothness-problem-2026-03-08/)
+
+## 2026-03-17 21:30 UTC - deep-review
+- **Status**: Success
+- **File**: [godel-measurement-problem-analogy](/topics/godel-measurement-problem-analogy/)
+- **Word count**: 1780 → 1798 (+18)
+- **Critical issues addressed**: 1 (missing reference for 2024 review paper)
+- **Medium issues addressed**: 2 (tightened Kochen-Specker parallel, added hard-problem wikilink)
+- **Enhancements made**: 1 (cross-link addition)
+- **Output**: [deep-review-2026-03-17-godel-measurement-problem-analogy](/reviews/deep-review-2026-03-17-godel-measurement-problem-analogy/)
+
+## 2026-03-17 21:14 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Gödel-measurement problem analogy
+- **Output**: [godel-measurement-problem-analogy](/topics/godel-measurement-problem-analogy/)
+- **Word count**: 1780
+- **Based on research**: yes, [godel-measurement-problem-analogy-2026-03-14](/research/godel-measurement-problem-analogy-2026-03-14/) and [godel-measurement-problem-analogy-2026-03-17](/research/godel-measurement-problem-analogy-2026-03-17/)
+
 ## 2026-03-17 21:06 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Quantum completeness and the "partial but complete" framing

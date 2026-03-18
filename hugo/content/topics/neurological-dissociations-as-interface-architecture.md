@@ -183,6 +183,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 
 - [interface-friction](/concepts/interface-friction/) — How resistance at the interface reveals its structure
 - [blindsight](/concepts/blindsight/) — The paradigm ascending dissociation
+- [capability-division-in-vision](/concepts/capability-division-in-vision/) — How the two-streams dissociation maps brain-side vs mind-side visual capabilities
 - [pain-asymbolia](/concepts/pain-asymbolia/) — Affective channel dissociation
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Bilateral disconnection and unity
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the gating mechanism

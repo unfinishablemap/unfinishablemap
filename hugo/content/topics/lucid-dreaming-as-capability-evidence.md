@@ -111,6 +111,7 @@ The filter model has a cleaner account. During waking, consciousness accesses se
 
 - [dream-consciousness](/topics/dream-consciousness/) — Comprehensive treatment of consciousness during dreaming
 - [capability-division-problem](/voids/capability-division-problem/) — The void at the heart of interactionist dualism
+- [capability-division-in-vision](/concepts/capability-division-in-vision/) — How waking vision evidence constrains the same division lucid dreaming illuminates from the other side
 - [filter-theory](/concepts/filter-theory/) — The filter/transmission model of consciousness
 - [perception-and-conscious-experience](/topics/perception-and-conscious-experience/) — How perception reveals the limits of physical description
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy

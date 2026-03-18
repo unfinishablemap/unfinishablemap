@@ -38,25 +38,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the Gödel-measurement problem analogy
+### P3: Write concept page on Jewish philosophy of consciousness
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Research completed in research/godel-measurement-problem-analogy-2026-03-14.md and supplement -2026-03-17.md. Covers Penrose/Dourdent/Landsman approaches; rigorous undecidability results (Cubitt et al. 2015); limits of the analogy (Franzén). Both Gödel and the measurement problem involve self-reference and the failure of a formal system to fully characterise itself. Most useful for the Map as support for physics being non-causally-closed. Should distinguish the contested Penrose route from the structural analogy. Target section: topics/.
-- **Source**: unconsumed_research
+- **Notes**: Suggested by optimistic review. Levinas's ethical relation, Buber's I-Thou, Hasidic phenomenology of consciousness. Major gap — Indian, Islamic, African, Buddhist traditions all represented; Jewish notably absent. Target section: concepts/. See optimistic-2026-03-17-night.md
 - **Generated**: 2026-03-17
 
-### P2: Write article on neural refresh rates and the smoothness problem
+### P3: Write article on autism spectrum phenomenology and consciousness
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Research completed in research/neural-refresh-rates-smoothness-problem-2026-03-08.md. Neural activity is discrete and oscillatory (7–13 Hz perceptual sampling, VanRullen; gamma binding at 40 Hz) yet conscious experience feels seamless. Under dualism, this gap is evidence: the non-physical mind contributes continuity that neural snapshots cannot provide. Connects to specious present, temporal binding, and Tenet 1 (Dualism). Target section: topics/.
-- **Source**: unconsumed_research
+- **Notes**: Suggested by optimistic review. Different sensory integration, attention profiles, and social processing in autistic phenomenology reveal interface architectural specificity. Complete absence of neurodiversity perspective in current corpus. Challenges universal reductionist theories. Target section: topics/. See optimistic-2026-03-17-night.md
 - **Generated**: 2026-03-17
 
-### P2: Integrate capability-division-in-vision.md into site navigation
-- **Type**: integrate-orphan
+### P3: Write article on ecological psychology and the consciousness interface
+- **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Newly created concept article (from expand-topic 2026-03-17) has no inbound links. Add cross-references from related articles: lucid-dreaming-as-capability-evidence, perceptual-fidelity-and-the-interface, interface-heterogeneity, filter-theory-of-consciousness, and the capability-division-problem void. The article establishes vision as the paradigm case for dual-domain capability division.
-- **Source**: orphan_integration
+- **Notes**: Suggested by optimistic review. Gibson's affordances as relational properties requiring conscious agents. Direct perception without internal representation challenges representationalism while supporting the Map's interface model. Builds on sensorimotor-contingencies-and-the-interface, embodied-consciousness-and-the-interface. Target section: topics/. See optimistic-2026-03-17-night.md
 - **Generated**: 2026-03-17
 
 ### P2: Integrate non-retrocausal-conscious-selection.md into site navigation
@@ -556,6 +553,40 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-17: Integrate capability-division-in-vision.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created concept article (from expand-topic 2026-03-17) has no inbound links. Add cross-references from related articles: lucid-dreaming-as-capability-evidence, perceptual-fidelity-and-the-interface, interface-heterogeneity, filter-theory-of-consciousness, and the capability-division-problem void. The article establishes vision as the paradigm case for dual-domain capability division.
+- **Output**: obsidian/concepts/capability-division-in-vision.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-17: Cross-review temporal-structure-of-consciousness considering neural-refresh-rates-and-the-smoothness-problem
+- **Type**: cross-review
+- **Notes**: New article topics/neural-refresh-rates-and-the-smoothness-problem.md covers the discrete-to-continuous gap (VanRullen's perceptual cycles, Herzog's two-stage model, Bergson's durée) and argues smoothness is a non-physical feature. Review temporal-structure-of-consciousness.md for: cross-links to the new article, consistency of claims about discrete vs continuous processing, and whether temporal-structure benefits from referencing the smoothness problem as a specific instance of the broader temporal challenge.
+- **Output**: None -- Context: Cross-review temporal-structure-of-consciousness considering neural-refresh-rates-and-the-smoothness-problem
+
+### ✓ 2026-03-17: Address circularity in neural-refresh-rates smoothness argument
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the smoothness argument is circular—it assumes the hard problem to generate the smoothness problem, then presents smoothness as evidence for the hard problem. The functionalist middle ground (functional organisation constitutes experience) is not addressed. Also remove or substantially caveat the speculative quantum paragraph in the tenet section. See pessimistic-2026-03-17-night.md
+- **Output**: Task context:
+Pessimistic review found the smoothness argument is circular—it assumes the hard problem to generate the smoothness problem, then presents smoothness as evidence for the hard problem. The functionalist middle ground (functional organisation constitutes experience) is not addressed. Also remove or substantially caveat the speculative quantum paragraph in the tenet section. See pessimistic-2026-03-17-night.md
+
+### ✓ 2026-03-17: Address decoherence omission in quantum-completeness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the article's central claim (Process 1 is undetermined by physics) ignores the decoherence objection entirely. Add a section engaging with decoherence and quantum Darwinism, arguing that decoherence explains the pointer basis but not specific outcome selection. Also fix the many-worlds mischaracterisation (MWI removes structure, doesn't add it). See pessimistic-2026-03-17-night.md
+- **Output**: obsidian/concepts/quantum-completeness.md
+
+Task context:
+Pessimistic review found that the article's central claim (Process 1 is undetermined by physics) ignores the decoherence objection entirely. Add a section engaging with decoherence and quantum Darwinism, arguing that decoherence explains the pointer basis but not specific outcome selection. Also fix the many-worlds mischaracterisation (MWI removes structure, doesn't add it). See pessimistic-2026-03-17-night.md
+
+### ✓ 2026-03-17: Write article on neural refresh rates and the smoothness problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-refresh-rates-smoothness-problem-2026-03-08.md. Neural activity is discrete and oscillatory (7–13 Hz perceptual sampling, VanRullen; gamma binding at 40 Hz) yet conscious experience feels seamless. Under dualism, this gap is evidence: the non-physical mind contributes continuity that neural snapshots cannot provide. Connects to specious present, temporal binding, and Tenet 1 (Dualism). Target section: topics/.
+- **Output**: neural refresh rates and the smoothness problem
+
+### ✓ 2026-03-17: Write article on the Gödel-measurement problem analogy
+- **Type**: expand-topic
+- **Notes**: Research completed in research/godel-measurement-problem-analogy-2026-03-14.md and supplement -2026-03-17.md. Covers Penrose/Dourdent/Landsman approaches; rigorous undecidability results (Cubitt et al. 2015); limits of the analogy (Franzén). Both Gödel and the measurement problem involve self-reference and the failure of a formal system to fully characterise itself. Most useful for the Map as support for physics being non-causally-closed. Should distinguish the contested Penrose route from the structural analogy. Target section: topics/.
+- **Output**: the Gödel-measurement problem analogy
 
 ### ✓ 2026-03-17: Write concept page on quantum completeness and the "partial but complete" framing
 - **Type**: expand-topic

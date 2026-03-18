@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-17T23:59:00+00:00 - deep-review
+- **Status**: Skipped (archived article)
+- **File**: non-retrocausal-conscious-selection (archived 2026-03-11)
+- **Reason**: Article was coalesced into [[concepts/consciousness-selecting-neural-patterns]] on 2026-03-11. Successor has 21 inbound links and was last reviewed 2026-03-05. No deep-review needed for archived content.
+- **Cleanup**: Removed stale `hugo/content/concepts/non-retrocausal-conscious-selection.md` (pre-archival sync artifact)
+
 ## 2026-03-17T23:45:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full inventory (~223 topics, ~201 concepts, 1 tenets page). Deep reading of 24 articles across topics, concepts, and tenets with focus on cross-cultural content, interface architecture, and master arguments.

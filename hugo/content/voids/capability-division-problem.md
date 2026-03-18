@@ -43,7 +43,7 @@ Neuroscience has mapped extensive visual processing that proceeds without consci
 
 [Blindsight](/concepts/blindsight/) sharpens the picture. Patients with damage to primary visual cortex discriminate stimuli they report not seeing — correctly guessing orientation, colour, and motion direction at rates far above chance. They can reach accurately toward objects they deny perceiving. Yet their performance is systematically limited: they fail detection tasks, cannot spontaneously report visual content, and lack ownership of their visual capacity (Derrien et al., 2022). Blindsight reveals what vision looks like when the brain operates alone.
 
-The two-streams hypothesis (Milner & Goodale, 1992) provides neuroanatomical grounding. The dorsal stream ("where/how pathway") guides real-time action — hand orientation, obstacle avoidance — with minimal dependence on conscious awareness. The ventral stream ("what pathway") handles object recognition and conscious perception. Patient DF, with visual-form agnosia, could orient her hand to a mail slot she could not consciously perceive — dorsal processing intact, ventral processing impaired. The dissociation suggests that visual capabilities fall naturally into two classes: those that require consciousness and those that do not.
+The two-streams hypothesis (Milner & Goodale, 1992) provides neuroanatomical grounding. The dorsal stream ("where/how pathway") guides real-time action — hand orientation, obstacle avoidance — with minimal dependence on conscious awareness. The ventral stream ("what pathway") handles object recognition and conscious perception. [Capability division in vision](/concepts/capability-division-in-vision/) examines the full evidence from visual neuroscience constraining where this boundary falls. Patient DF, with visual-form agnosia, could orient her hand to a mail slot she could not consciously perceive — dorsal processing intact, ventral processing impaired. The dissociation suggests that visual capabilities fall naturally into two classes: those that require consciousness and those that do not.
 
 Research on perceptual invisibility identifies a candidate transition point: perceptual organisation. Feature extraction and categorisation occur without awareness. Grouping, figure-ground segregation, and [binding](/voids/binding-void/) into coherent objects mark the transition to conscious seeing (Fahrenfort et al., 2017). Consciousness may enter vision not at the level of individual features but at the level of unified percepts.
 
@@ -109,6 +109,7 @@ The Map speculates that the capability division may ultimately prove asymmetric:
 - [baseline-cognition](/concepts/baseline-cognition/)
 - [interactionist-dualism](/concepts/interactionist-dualism/)
 - [epiphenomenalism](/concepts/epiphenomenalism/)
+- [capability-division-in-vision](/concepts/capability-division-in-vision/) — The vision-specific case study applying this framework
 - [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/)
 - [binding-void](/voids/binding-void/) — The perceptual binding problem as a void
 - [causal-interface](/voids/causal-interface/) — The mind-brain interface itself

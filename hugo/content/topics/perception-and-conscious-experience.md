@@ -142,6 +142,7 @@ The Unfinishable Map's [tenets](/tenets/) find their sharpest expression in perc
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
 - [capability-division-problem](/voids/capability-division-problem/)
+- [capability-division-in-vision](/concepts/capability-division-in-vision/) — The vision-specific evidence constraining the brain/mind boundary
 - [baseline-cognition](/concepts/baseline-cognition/)
 
 ## References
