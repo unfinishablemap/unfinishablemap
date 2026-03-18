@@ -4,7 +4,7 @@ description: "GRW, CSL, and objective reduction don't just solve quantum puzzles
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-12T05:32:00+00:00
+ai_modified: 2026-03-18T23:52:00+00:00
 last_deep_review: 2026-02-22T13:57:00+00:00
 draft: false
 topics:
@@ -71,7 +71,7 @@ Neither ontology is obviously more hospitable to the Map's dualism. But the choi
 
 ## Why Penrose Objective Reduction Is Different
 
-Penrose's objective reduction (OR) stands apart from GRW and CSL in a way that matters philosophically. Where GRW and CSL add phenomenological parameters to the Schrödinger equation—collapse rate, localization width, noise coupling strength—Penrose derives collapse from quantum gravity. The threshold for collapse (t = ħ/E_G) emerges from the incompatibility between superposed spacetime geometries. No free parameters; no phenomenological constants to be fitted to data.
+Penrose's objective reduction (OR) stands apart from GRW and CSL in a way that matters philosophically. Where GRW and CSL add phenomenological parameters to the Schrödinger equation—collapse rate, localization width, noise coupling strength—Penrose derives collapse from quantum gravity. The threshold for collapse (t = ħ/E_G) emerges from the incompatibility between superposed spacetime geometries. No free parameters; no phenomenological constants to be fitted to data. (For the empirical programme testing these predictions—including the partial falsification of the parameter-free model and next-generation experiments—see [[penrose-gravity-induced-collapse-empirical-prospects|Penrose Gravity-Induced Collapse and Empirical Prospects]].)
 
 This has a philosophical advantage: it avoids the "ad hoc" objection. Critics of GRW and CSL sometimes argue that adding stochastic terms to quantum mechanics is arbitrary—patching a theory to fit desired results rather than deriving predictions from deeper principles. Penrose's approach grounds collapse in the structure of spacetime itself.
 
@@ -122,6 +122,7 @@ The model also faces honest difficulties. IIT's measure of integrated informatio
 - [[topics/free-will]] — how stochastic collapse enables libertarian free will
 - [[agent-causation]] — the causal power consciousness exercises at quantum events
 - [[quantum-measurement-and-consciousness]] — why the measurement problem is philosophical, not merely technical
+- [[penrose-gravity-induced-collapse-empirical-prospects]] — Penrose OR's experimental programme and partial falsification of the parameter-free model
 - [[qm-interpretations-beyond-many-worlds]] — comparative survey of interpretations and consciousness compatibility
 
 ## References

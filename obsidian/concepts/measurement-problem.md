@@ -4,7 +4,7 @@ description: "Quantum mechanics' central puzzle: why measurement yields definite
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-17T05:58:00+00:00
+ai_modified: 2026-03-18T23:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -132,7 +132,7 @@ MWI has sophisticated responses. Wallace derives Born probabilities from decisio
 
 ### Objective Collapse Theories (GRW, CSL, Penrose)
 
-The wave function undergoes real, physical collapse according to modified dynamics. GRW and CSL introduce collapse as a random physical process; Penrose links it to gravitational self-energy. See [[spontaneous-collapse-theories]] for detailed treatment.
+The wave function undergoes real, physical collapse according to modified dynamics. GRW and CSL introduce collapse as a random physical process; Penrose links it to gravitational self-energy. See [[spontaneous-collapse-theories]] for detailed treatment and [[penrose-gravity-induced-collapse-empirical-prospects|Penrose's empirical prospects]] for the experimental programme testing gravity-induced collapse.
 
 **Relation to site tenets:** These theories solve the [[prebiotic-collapse|prebiotic collapse problem]]: wave functions collapsed for billions of years before consciousness evolved. GRW/CSL provide *baseline* collapse—objective reduction happens whether or not anyone observes. Consciousness then *modulates* this existing process in neural systems rather than initiating collapse universally.
 

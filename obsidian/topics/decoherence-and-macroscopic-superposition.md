@@ -4,7 +4,7 @@ description: "The quantum-classical boundary keeps receding. Hot cat states, nan
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-03-06T10:25:00+00:00
+ai_modified: 2026-03-18T23:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -143,6 +143,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] ga
 - [[neural-implementation-specifics]] — How decoherence affects specific neural quantum mechanisms
 - [[consciousness-in-smeared-quantum-states]] — What consciousness does during quantum superposition
 - [[spontaneous-collapse-theories]] — Physical mechanisms for objective collapse (GRW, Penrose)
+- [[penrose-gravity-induced-collapse-empirical-prospects]] — Experimental tests of gravity-induced collapse, including nanoparticle interferometry and the MAQRO space mission
 - [[topics/free-will]] — How quantum indeterminacy relates to agent causation
 - [[tenets]] — The Map's foundational commitments
 

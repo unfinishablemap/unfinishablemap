@@ -4,7 +4,7 @@ description: "Mathematical insight—grasping why proofs work, inventing new fra
 created: 2026-01-21
 modified: 2026-02-20
 human_modified: null
-ai_modified: 2026-03-17T14:29:00+00:00
+ai_modified: 2026-03-18T23:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -56,7 +56,7 @@ This matters because mathematics is often taken as the paradigm of what computat
 
 ## Penrose's Gödelian Argument
 
-Penrose's argument, developed in *The Emperor's New Mind* (1989) and *Shadows of the Mind* (1994), uses Gödel's incompleteness theorems to establish limits on what algorithms can do. Gödel showed that any sufficiently powerful formal system contains truths it cannot prove within its own rules. Penrose's claim: mathematicians can *see* these truths that formal systems cannot prove, demonstrating that mathematical understanding transcends computation.
+Penrose's argument, developed in *The Emperor's New Mind* (1989) and *Shadows of the Mind* (1994), uses Gödel's incompleteness theorems to establish limits on what algorithms can do. (For Penrose's separate proposal that gravity causes quantum collapse—and how the Map uses it—see [[penrose-gravity-induced-collapse-empirical-prospects|Penrose Gravity-Induced Collapse and Empirical Prospects]].) Gödel showed that any sufficiently powerful formal system contains truths it cannot prove within its own rules. Penrose's claim: mathematicians can *see* these truths that formal systems cannot prove, demonstrating that mathematical understanding transcends computation.
 
 The argument runs roughly:
 

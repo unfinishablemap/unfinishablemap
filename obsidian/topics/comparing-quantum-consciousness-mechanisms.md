@@ -4,7 +4,7 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-18T18:25:00+00:00
+ai_modified: 2026-03-18T23:52:00+00:00
 last_deep_review: 2026-02-22T10:11:00+00:00
 draft: false
 topics:
@@ -61,7 +61,7 @@ Penrose and Hameroff propose that tubulin proteins in microtubules sustain quant
 
 **Empirical status: Growing but contested.** The epothilone B study (Khan et al. 2024; microtubule-stabilizing drug delays anaesthesia) and room-temperature tryptophan superradiance in microtubule architectures (Babcock et al. 2024) provide circumstantial support. Wiest (2025) reports a 613 THz quantum oscillation signature abolished by anaesthetics. These findings establish microtubule relevance to consciousness but do not confirm the specific Orch OR mechanism — microtubules might matter for classical or other quantum reasons.
 
-**Falsifiability: Moderate.** Orch OR predicts measurable quantum coherence in microtubules at specific timescales and gravitational collapse at specific mass thresholds. Germanium detector experiments (Donadi et al. 2020) have already ruled out the simplest Diósi-Penrose model. The parameter space is shrinking — a virtue for falsifiability, but a warning for the theory.
+**Falsifiability: Moderate.** Orch OR predicts measurable quantum coherence in microtubules at specific timescales and gravitational collapse at specific mass thresholds. Germanium detector experiments (Donadi et al. 2020) have already ruled out the simplest Diósi-Penrose model. The parameter space is shrinking — a virtue for falsifiability, but a warning for the theory. See [[penrose-gravity-induced-collapse-empirical-prospects|Penrose Gravity-Induced Collapse and Empirical Prospects]] for the full experimental landscape, including levitated nanoparticle interferometry, optomechanical tests, and the proposed MAQRO space mission.
 
 ## Stapp's Quantum Zeno Model: Attention as Observation
 
@@ -152,6 +152,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [[coupling-modes]] — How consciousness might couple to quantum systems
 - [[psychophysical-coupling]] — What a coupling law must specify
 - [[amplification-mechanisms-consciousness-physics]] — Six proposed mechanisms for scaling quantum effects to neural outcomes
+- [[penrose-gravity-induced-collapse-empirical-prospects]] — Penrose OR's experimental frontier: DP model falsification and next-generation tests
 - [[measurement-problem]] — Why quantum mechanics leaves outcomes undetermined
 
 ## References
