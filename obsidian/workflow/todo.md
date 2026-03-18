@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review probability-problem-in-many-worlds.md considering probability-objections-many-worlds insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/probability-objections-many-worlds.md systematises decision-theoretic and frequency objections to MWI probability. Check topics/probability-problem-in-many-worlds.md for cross-links, reinforcing arguments, or redundancy. Also check concepts/quantum-probability-consciousness.md.
-- **Source**: chain (from concepts/probability-objections-many-worlds.md)
-- **Generated**: 2026-03-18
-
 ### P2: Review perception-and-conscious-experience.md considering perceptual-reconstruction-selection insights
 - **Type**: cross-review
 - **Status**: pending
@@ -612,6 +605,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Review probability-problem-in-many-worlds.md considering probability-objections-many-worlds insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/probability-objections-many-worlds.md systematises decision-theoretic and frequency objections to MWI probability. Check topics/probability-problem-in-many-worlds.md for cross-links, reinforcing arguments, or redundancy. Also check concepts/quantum-probability-consciousness.md.
+- **Output**: obsidian/topics/probability-problem-in-many-worlds.md -- Context: Review probability-problem-in-many-worlds.md considering probability-objections-many-worlds insights
 
 ### ✓ 2026-03-18: Write concept page on memory as dual-domain capability
 - **Type**: expand-topic
