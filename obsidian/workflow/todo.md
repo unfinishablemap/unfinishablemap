@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on asymmetric bandwidth of consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/asymmetric-bandwidth-consciousness-2026-03-02.md. The consciousness-brain interface has dramatically asymmetric bandwidth — rich phenomenal input, narrow volitional output. This asymmetry constrains interface models and distinguishes the Map's framework from simple interactionism. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-18
-
 ### P2: Write concept page on the reconstruction paradox
 - **Type**: expand-topic
 - **Status**: pending
@@ -612,6 +605,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Write article on asymmetric bandwidth of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/asymmetric-bandwidth-consciousness-2026-03-02.md. The consciousness-brain interface has dramatically asymmetric bandwidth — rich phenomenal input, narrow volitional output. This asymmetry constrains interface models and distinguishes the Map's framework from simple interactionism. Target section: topics/.
+- **Output**: asymmetric bandwidth of consciousness
 
 ### ✓ 2026-03-18: Write concept page on probability and decision-theory objections to many worlds
 - **Type**: expand-topic

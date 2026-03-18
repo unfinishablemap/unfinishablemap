@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T12:59:00+00:00 - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Asymmetric bandwidth of consciousness
+- **Reason**: Research in research/asymmetric-bandwidth-consciousness-2026-03-02.md was already consumed to create topics/asymmetric-bandwidth-of-consciousness, which was subsequently coalesced into [[bandwidth-of-consciousness]]. No new article needed.
+
 ## 2026-03-18T12:45:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [[interaction-problem-in-non-western-philosophy]], [[interaction-solutions-across-traditions]]
