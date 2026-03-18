@@ -4,8 +4,8 @@ description: "Neural activity is discrete—oscillations, spikes, time slices—
 created: 2026-03-09
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T17:48:00+00:00
-last_deep_review: 2026-03-11T17:48:00+00:00
+ai_modified: 2026-03-18T03:44:00+00:00
+last_deep_review: 2026-03-18T03:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,12 +19,14 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[unity-of-consciousness]]"
   - "[[illusionism]]"
+  - "[[grain-mismatch]]"
 related_articles:
   - "[[tenets]]"
   - "[[voids]]"
   - "[[capability-division-problem]]"
   - "[[memory-as-dual-domain-capability]]"
   - "[[continuity-void]]"
+  - "[[neural-refresh-rates-and-the-smoothness-problem]]"
   - "[[neural-refresh-rates-smoothness-problem-2026-03-08]]"
 ai_contribution: 100
 author:
@@ -63,7 +65,7 @@ Physicalist responses typically invoke computational smoothing—predictive codi
 
 The analogy breaks down at a critical point. A display has a viewer separate from the display itself. The viewer's visual system does the smoothing. In the brain, there is no separate viewer. If the neural substrate *is* the experience (as physicalism maintains), then discrete processing should produce discrete experience. The smoothness has nowhere to come from within the system.
 
-Predictive coding can explain why we *respond* to stimuli as if the world were continuous. It cannot explain why experience *feels* continuous. The explanatory gap between functional smoothing and phenomenal smoothness is a specific instance of the [[explanatory-gap|general explanatory gap]]—physical description captures the processing but not what it is like.
+Predictive coding can explain why we *respond* to stimuli as if the world were continuous. It cannot explain why experience *feels* continuous. Functionalism offers a deeper response: if experience is constituted by functional organisation rather than substrate properties, then the right pattern of temporal integration *just is* smooth experience. This is the strongest physicalist answer, and the Map's [[neural-refresh-rates-and-the-smoothness-problem|full treatment of the smoothness problem]] engages it at length. The Map rejects it for reasons developed across its treatment of [[qualia]] and the [[hard-problem-of-consciousness|hard problem]]—functional organisation specifies what a system does but not what it is like. If that rejection holds, the explanatory gap between functional smoothing and phenomenal smoothness remains a specific instance of the [[explanatory-gap|general explanatory gap]].
 
 ## The Void
 
@@ -85,7 +87,9 @@ The Map interprets the smoothness problem as positive evidence for [[tenets#^dua
 
 This aligns with the [[tenets#^bidirectional-interaction|bidirectional interaction]] tenet. Consciousness does not passively receive discrete snapshots and somehow smooth them computationally. Rather, continuous [[temporal-consciousness|temporal experience]] may be a primitive property of the non-physical mind—what Bergson called *durée*—and neural discreteness marks the resolution limit of the brain-side of the interface, not of experience itself.
 
-The Map speculates that the smoothness problem and the [[binding-problem|binding problem]] may share a common resolution: phenomenal unity—both across space and across time—is a property of consciousness itself, not of any physical mechanism. Neural mechanisms provide the *content* that consciousness unifies, but the unification is the mind's contribution. This resonates with [[process-philosophy|Whitehead's process philosophy]], where "actual occasions" prehend their predecessors and create genuine temporal thickness—a metaphysical framework in which experiential continuity is primitive rather than derived from discrete substrates.
+The Map speculates that the smoothness problem and the [[binding-problem|binding problem]] may share a common resolution: phenomenal unity—both across space and across time—is a property of consciousness itself, not of any physical mechanism. Neural mechanisms provide the *content* that consciousness unifies, but the unification is the mind's contribution. The [[grain-mismatch]] generalises this pattern: phenomenal experience appears smooth and homogeneous across both space and time, while the neural substrate is discrete in both dimensions. The smoothness problem is the temporal face of this structural incompatibility; the grain mismatch is its spatial face. Both resist physical explanation in structurally similar ways—coordination at the neural level does not entail unity at the experiential level.
+
+This resonates with [[process-philosophy|Whitehead's process philosophy]], where "actual occasions" prehend their predecessors and create genuine temporal thickness—a metaphysical framework in which experiential continuity is primitive rather than derived from discrete substrates.
 
 ## Further Reading
 
@@ -93,6 +97,8 @@ The Map speculates that the smoothness problem and the [[binding-problem|binding
 - [[memory-as-dual-domain-capability]] — The memory instance of capability division
 - [[temporal-consciousness]] — The specious present, durée, and temporal phenomenology
 - [[binding-problem]] — Spatial cousin of the smoothness problem
+- [[grain-mismatch]] — The spatial face of the same structural incompatibility between phenomenal smoothness and neural discreteness
+- [[neural-refresh-rates-and-the-smoothness-problem]] — Full treatment of the smoothness problem as a concrete instance of the explanatory gap
 - [[continuity-void]] — Why consciousness cannot determine its own temporal grain
 - [[unity-of-consciousness]] — Temporal unity as the diachronic dimension of conscious unity
 - [[temporal-structure-of-consciousness]]

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review smoothness-problem.md considering neural-refresh-rates insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/neural-refresh-rates-and-the-smoothness-problem.md (2026-03-17) addresses discrete neural timing and continuous phenomenal experience. Review smoothness-problem.md for cross-links, reinforcing arguments, and whether the refresh-rate evidence strengthens the smoothness case.
-- **Source**: chain (from neural-refresh-rates-and-the-smoothness-problem.md)
-- **Generated**: 2026-03-18
-
 ### P2: Cross-review consciousness-and-the-authority-of-formal-systems.md considering Gödel-measurement analogy
 - **Type**: cross-review
 - **Status**: pending
@@ -580,6 +573,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Cross-review smoothness-problem.md considering neural-refresh-rates insights
+- **Type**: cross-review
+- **Notes**: New article topics/neural-refresh-rates-and-the-smoothness-problem.md (2026-03-17) addresses discrete neural timing and continuous phenomenal experience. Review smoothness-problem.md for cross-links, reinforcing arguments, and whether the refresh-rate evidence strengthens the smoothness case.
+- **Output**: obsidian/voids/smoothness-problem.md -- Context: Cross-review smoothness-problem.md considering neural-refresh-rates insights
 
 ### ✓ 2026-03-18: Cross-review mind-matter-interface.md considering mathematical-structure-of-the-consciousness-physics-interface insights
 - **Type**: cross-review
