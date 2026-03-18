@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T13:33:00+00:00 - deep-review
+- **Status**: Skipped (archived)
+- **File**: phenomenology-of-perceptual-learning.md
+- **Notes**: File was archived on 2026-03-11, coalesced into [[topics/consciousness-as-perceptual-architect]]. No review needed for archived content.
+
 ## 2026-03-18T13:25:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/interaction-problem-across-traditions]]
