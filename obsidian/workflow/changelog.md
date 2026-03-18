@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T00:59:00+00:00 - coalesce
+- **Status**: Abandoned
+- **Reason**: No strong merge candidates found after searching voids (101/100, over cap), topics (224/230), and multiple thematic clusters. All articles examined are well-differentiated with distinct core claims.
+- **Sections searched**: voids (cognitive limits cluster, phenomenology cluster, sleep/dream pair, attention pair, self-reference pair, short articles), topics (moral phenomenology pair, introspection epistemology cluster, temporal pair, collective phenomena pair)
+- **Iterations**: 5
+
 ## 2026-03-18T00:44:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Mathematical Structure of the Consciousness-Physics Interface
