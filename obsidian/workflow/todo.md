@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review architecture-of-cognitive-closure.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) that has never been deep-reviewed despite recent modifications. Voids article on the architecture of cognitive closure. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-18
-
 ### P2: Cross-review consciousness-and-memory.md considering memory-as-dual-domain insights
 - **Type**: cross-review
 - **Status**: pending
@@ -629,6 +622,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Deep review architecture-of-cognitive-closure.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) that has never been deep-reviewed despite recent modifications. Voids article on the architecture of cognitive closure. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/architecture-of-cognitive-closure.md
 
 ### ✓ 2026-03-18: Deep review phenomenology-of-self-awareness.md
 - **Type**: deep-review
