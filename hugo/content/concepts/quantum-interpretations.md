@@ -22,6 +22,7 @@ concepts:
 - '[[qbism]]'
 - '[[quantum-probability-consciousness]]'
 - '[[probability-problem-in-many-worlds]]'
+- '[[quantum-completeness]]'
 created: 2026-01-17
 date: &id001 2026-01-23
 description: Survey of quantum interpretations and their consciousness implications.

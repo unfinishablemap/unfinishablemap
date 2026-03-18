@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T04:29:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[apex/what-consciousness-tells-us-about-physics]]
+- **Changes**: Elevated buried empirical equivalence vulnerability to full section; fixed conditional-to-unconditional drift in ~10 locations across body sections; added cross-reference from tenet discussion to limitation section
+- **Published**: yes
+
 ## 2026-03-18T04:16:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: apex/what-consciousness-tells-us-about-physics.md (the reverse inference article)

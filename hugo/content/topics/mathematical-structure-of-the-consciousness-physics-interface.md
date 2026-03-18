@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-03-18 00:44:00+00:00
+ai_modified: 2026-03-18 01:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Quantum mechanics' mathematical form—Hilbert space, the Born rule
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-18 01:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -69,7 +69,7 @@ Together, these three results define the mathematical corridor: consciousness ca
 
 Tonetto's analysis of causal closure provides the conceptual foundation for understanding where consciousness fits within this mathematical structure. Classical mechanics provides deterministic closure: given initial conditions, the equations uniquely determine all future states. Quantum mechanics replaces this with what Tonetto calls "statistical closure with outcome-level openness"—the Born rule fixes probability distributions, but which specific outcome actualises from the distribution is not determined by the formalism.
 
-This is a structural gap, not merely incomplete knowledge. Restoring deterministic closure requires additional metaphysical commitments—Bohmian hidden variables, many-worlds branching—that are "purchased through metaphysical commitment, not empirical discovery." The gap is precisely where the Map locates consciousness's causal role: selecting among outcomes whose probabilities are already fixed by physics. Consciousness does not compete with physics for explanatory territory; it operates in the space physics leaves structurally open.
+This is a structural gap, not merely incomplete knowledge. Restoring deterministic closure requires additional metaphysical commitments—Bohmian hidden variables, many-worlds branching—that are "purchased through metaphysical commitment, not empirical discovery." The gap is precisely where the Map locates consciousness's causal role: selecting among outcomes whose probabilities are already fixed by physics. Consciousness does not compete with physics for explanatory territory; it operates in the space physics leaves structurally open. The alternative—that this gap is filled by brute randomness with no selecting agent—is logically available but explanatorily inert: it names the gap without illuminating it, and leaves the correlation between conscious intention and physical outcome as a cosmic coincidence.
 
 Tonetto identifies an "interpretive asymmetry" in how this gap is treated: consciousness-involving interpretations face a burden of skepticism that hidden-variable and many-worlds interpretations avoid, despite all three being empirically equivalent responses to the same mathematical structure. The Map's [fifth tenet](/tenets/#occams-limits) addresses this directly—simplicity-based preferences between empirically equivalent interpretations reflect methodological habit, not evidential superiority.
 
@@ -81,7 +81,7 @@ Several mathematical frameworks attempt to specify how consciousness and physics
 
 Von Neumann's Process 1/Process 2 distinction—collapse versus unitary evolution—remains the simplest formal framework. Stapp extends it by identifying Process 1 (the "probing action") with conscious attention. The mathematical structure is standard quantum mechanics with no modifications: the probing action is an orthogonal projection operator, and mental effort increases the observation rate, holding neural patterns stable through the quantum Zeno effect.
 
-The framework's strength is parsimony: it adds no new mathematics, only an interpretational claim about what Process 1 represents. Its weakness is that the connection between conscious attention and observation rate is postulated rather than derived from any deeper mathematical structure. The transfer function—how much attention produces how much Zeno stabilisation—remains unspecified.
+The framework's strength is parsimony: it adds no new mathematics, only an interpretational claim about what Process 1 represents. Its weakness is twofold. First, the connection between conscious attention and observation rate is postulated rather than derived from any deeper mathematical structure—the transfer function remains unspecified. Second, the [decoherence objection](/concepts/decoherence/) applies with particular force: maintaining quantum coherence in warm neural tissue long enough for Zeno stabilisation to operate is physically demanding, and the framework does not specify how coherence survives long enough for conscious attention to exploit it. (See [stapp-quantum-mind](/concepts/stapp-quantum-mind/) for Stapp's responses to this challenge.)
 
 ### Chalmers-McQueen: IIT Meets Dynamical Collapse
 
@@ -89,7 +89,7 @@ Chalmers and McQueen combine integrated information theory (IIT) with continuous
 
 The "super-resistance" model proposes that consciousness does not absolutely prevent superposition (which would freeze quantum evolution through the Zeno effect) but continuously biases toward localisation proportionally to Φ. This yields a specific mathematical prediction: CSL dynamics with a Φ-dependent collapse rate. The framework is in principle testable—quantum computer experiments could probe whether systems with different integration structures exhibit different collapse behaviour.
 
-The limitation is the mathematical relationship between IIT's information-theoretic structure and quantum Hilbert space structure. IIT computes Φ over cause-effect repertoires defined on discrete classical systems. Embedding this within quantum dynamics requires bridging two mathematical frameworks that were not designed to connect, and the bridge remains underspecified.
+The limitation is the mathematical relationship between IIT's information-theoretic structure and quantum Hilbert space structure. IIT computes Φ over cause-effect repertoires defined on discrete classical systems. Embedding this within quantum dynamics requires bridging two mathematical frameworks that were not designed to connect, and the bridge remains underspecified. The framework also inherits the open questions of [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)—whether CSL dynamics can be made fully relativistic, and whether the collapse rate parameters are independently motivated or tuned to fit.
 
 ### Kleiner: Experience Space Formalism
 
@@ -105,7 +105,7 @@ Atmanspacher and Filk propose that mental processes exhibit non-commutative alge
 
 The mathematical apparatus is familiar from quantum mechanics—C*-algebras, Hilbert space models, non-Boolean logic—but applied to cognitive variables rather than physical observables. The provocative claim is "quantum mind without quantum brain": mental descriptions can exhibit quantum-like formal properties through epistemic partitioning of classical neural dynamics, without requiring literal quantum processes.
 
-This framework partially supports the Map's dualism tenet—the mental domain has its own irreducible algebraic structure that cannot be captured by classical descriptions. But it is in tension with the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet, because it shows consciousness can have quantum-like formal properties *without* actual quantum-level coupling. The Map must argue that the formal similarity between mental and quantum structures is not coincidental but reflects a genuine physical interaction—that the "quantum mind" requires a "quantum brain" connection even if the algebraic structure can be abstractly separated.
+This framework partially supports the Map's dualism tenet—the mental domain has its own irreducible algebraic structure that cannot be captured by classical descriptions. But it is in tension with the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet, because it shows consciousness can have quantum-like formal properties *without* actual quantum-level coupling. The Map's response is that formal similarity between mental and quantum algebras is evidence *for* a deeper connection, not against it: if consciousness and quantum mechanics independently exhibit non-commutative structure, the most parsimonious explanation is a shared origin—namely, that the "quantum mind" connects to a "quantum brain" and the algebraic structure is not coincidental but inherited. The alternative—that two domains happen to share the same formal structure by accident—is the less economical hypothesis. (For a broader comparison of how these mechanisms relate, see [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/).)
 
 ## What the Mathematics Cannot Yet Express
 

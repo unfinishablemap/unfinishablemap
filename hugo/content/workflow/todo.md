@@ -38,32 +38,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate quantum-completeness.md into site navigation
+### P2: Address empirical equivalence underselling in what-consciousness-tells-us-about-physics.md
+- **Type**: refine-draft
+- **Status**: done
+- **Notes**: Pessimistic review found the article buries its most serious vulnerability (empirical equivalence with standard QM) in a parenthetical bullet point. Should be elevated to its own section or full paragraph with honest assessment of scientific vs philosophical status. Also fix conditional-to-unconditional drift throughout body sections. See pessimistic-2026-03-18.md
+- **Generated**: 2026-03-18
+- **Completed**: 2026-03-18T04:29:00+00:00
+
+### P2: Integrate consciousness-interface-development.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: Newly created concept page (2026-03-17) has no inbound links. Central concept arguing quantum mechanics is complete about structure yet partial about actuality. Add cross-references from measurement-problem.md, quantum-probability-consciousness.md, quantum-interpretations.md, bi-aspectual-ontology.md, and the-reverse-inference.md.
+- **Notes**: File created 2026-02-15 has no inbound links. Topics article on how the consciousness-brain interface develops over the lifespan. Add cross-references from related articles (developmental-trajectory-of-the-interface.md, interface-location-problem.md, brain-specialness-boundary.md) or update section index pages.
 - **Source**: orphan_integration
 - **Generated**: 2026-03-18
 
-### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+### P2: Integrate pragmatisms-path-to-dualism.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: Article created 2026-03-15 has no inbound links. Based on Konkoly et al. research showing targeted memory reactivation during REM doubles problem-solving. Add cross-references from dream-consciousness.md, lucid-dreaming-as-capability-evidence.md, conscious-vs-unconscious-processing.md, and related articles.
+- **Notes**: File created 2026-03-15 has no inbound links. Topics article on pragmatist philosophy's path toward dualism. Add cross-references from related articles (epistemic-advantages-of-dualism.md, the-case-for-dualism.md, convergence-argument-for-dualism.md) or update section index pages.
 - **Source**: orphan_integration
-- **Generated**: 2026-03-18
-
-### P2: Integrate death-phenomenology-beyond-ndes.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Article created 2026-03-11 has no inbound links. Explores phenomenology of death and dying beyond near-death experiences. Add cross-references from death-and-consciousness.md, terminal-lucidity.md, loss-of-consciousness.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-18
-
-### P2: Deep review selective-perceptual-correction.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Concept page on selective perceptual correction — how the brain corrects some perceptual inputs but not others. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
 - **Generated**: 2026-03-18
 
 ### P3: Deep review prehension.md
@@ -581,6 +574,51 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Cross-review consciousness-and-the-authority-of-formal-systems.md considering Gödel-measurement analogy
+- **Type**: cross-review
+- **Notes**: New article topics/godel-measurement-problem-analogy.md (2026-03-17) develops the structural parallel between Gödel incompleteness and the measurement problem. Review consciousness-and-the-authority-of-formal-systems.md for cross-links and whether the analogy strengthens or qualifies existing claims about formal limits.
+- **Output**: obsidian/topics/consciousness-and-the-authority-of-formal-systems.md -- Context: Cross-review consciousness-and-the-authority-of-formal-systems.md considering Gödel-measurement analogy
+
+### ✓ 2026-03-18: Cross-review smoothness-problem.md considering neural-refresh-rates insights
+- **Type**: cross-review
+- **Notes**: New article topics/neural-refresh-rates-and-the-smoothness-problem.md (2026-03-17) addresses discrete neural timing and continuous phenomenal experience. Review smoothness-problem.md for cross-links, reinforcing arguments, and whether the refresh-rate evidence strengthens the smoothness case.
+- **Output**: obsidian/voids/smoothness-problem.md -- Context: Cross-review smoothness-problem.md considering neural-refresh-rates insights
+
+### ✓ 2026-03-18: Cross-review mind-matter-interface.md considering mathematical-structure-of-the-consciousness-physics-interface insights
+- **Type**: cross-review
+- **Notes**: New article topics/mathematical-structure-of-the-consciousness-physics-interface.md (2026-03-18) formalises the interface's mathematical properties. Review mind-matter-interface.md for cross-links, consistency, and whether the new mathematical framework strengthens or constrains existing claims.
+- **Output**: obsidian/concepts/mind-matter-interface.md -- Context: Cross-review mind-matter-interface.md considering mathematical-structure-of-the-consciousness-physics-interface insights
+
+### ✓ 2026-03-18: Cross-review dream-consciousness.md considering lucid-dreaming-and-mind-side-rendering insights
+- **Type**: cross-review
+- **Notes**: New article topics/lucid-dreaming-and-mind-side-rendering.md (2026-03-18) argues that physicalist dream researchers' own observations support mind-side rendering. Review dream-consciousness.md for cross-links, consistency, and whether the rendering argument strengthens existing filter model claims.
+- **Output**: obsidian/topics/dream-consciousness.md -- Context: Cross-review dream-consciousness.md considering lucid-dreaming-and-mind-side-rendering insights
+
+### ✓ 2026-03-18: Write article on lucid dreaming and mind-side rendering
+- **Type**: expand-topic
+- **Notes**: Research completed in research/lucid-dreaming-mind-side-rendering-2026-03-09.md. Lucid dreaming as evidence that consciousness generates experiential content independent of sensory input — the dream world is "rendered" by the mind side of the interface. Distinct from existing lucid-dreaming-as-capability-evidence.md which focuses on capability division. Target section: topics/. Supports Tenet 1 (Dualism).
+- **Output**: lucid dreaming and mind-side rendering
+
+### ✓ 2026-03-18: Write article on dual-domain capabilities in proprioception and spatial imagination
+- **Type**: expand-topic
+- **Notes**: Research completed in research/dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09.md. Proprioception and spatial imagination as test cases for distinguishing brain-contributed from consciousness-contributed processing. Extends the dual-domain capability framework beyond memory. Target section: concepts/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Output**: dual-domain capabilities in proprioception and spatial imagination
+
+### ✓ 2026-03-18: Integrate death-phenomenology-beyond-ndes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Article created 2026-03-11 has no inbound links. Explores phenomenology of death and dying beyond near-death experiences. Add cross-references from death-and-consciousness.md, terminal-lucidity.md, loss-of-consciousness.md, and related articles.
+- **Output**: death-phenomenology-beyond-ndes.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-18: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Article created 2026-03-15 has no inbound links. Based on Konkoly et al. research showing targeted memory reactivation during REM doubles problem-solving. Add cross-references from dream-consciousness.md, lucid-dreaming-as-capability-evidence.md, conscious-vs-unconscious-processing.md, and related articles.
+- **Output**: dream-problem-solving-and-conscious-influence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-18: Integrate quantum-completeness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Newly created concept page (2026-03-17) has no inbound links. Central concept arguing quantum mechanics is complete about structure yet partial about actuality. Add cross-references from measurement-problem.md, quantum-probability-consciousness.md, quantum-interpretations.md, bi-aspectual-ontology.md, and the-reverse-inference.md.
+- **Output**: obsidian/concepts/quantum-completeness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-18: Write article on mathematical structure of the consciousness-physics interface
 - **Type**: expand-topic

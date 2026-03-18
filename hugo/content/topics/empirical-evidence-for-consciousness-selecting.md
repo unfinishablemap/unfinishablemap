@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-03-11 10:02:00+00:00
+ai_modified: 2026-03-18 01:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -160,6 +160,7 @@ The empirical convergence supports all five of the Map's [tenets](/tenets/):
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — What kind of causation consciousness exercises
 - [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without consciousness
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — First-person evidence from trained observation
+- [dream-consciousness](/topics/dream-consciousness/) — Dream problem-solving tracks phenomenal mode, supporting consciousness-selecting over epiphenomenalism
 
 ## References
 

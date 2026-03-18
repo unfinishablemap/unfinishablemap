@@ -14,6 +14,7 @@ concepts:
 - '[[decoherence]]'
 - '[[introspection]]'
 - '[[mental-causation]]'
+- '[[quantum-completeness]]'
 created: 2026-01-19
 date: &id001 2026-01-23
 description: 'Why the Map rejects MWI: it raises unanswerable questions about indexical

@@ -29,6 +29,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[argument-from-reason]]'
 - '[[explanatory-gap]]'
+- '[[quantum-completeness]]'
 created: 2026-01-14
 date: &id001 2026-03-01
 description: The decoherence objection bundles three independent claims. Five responses

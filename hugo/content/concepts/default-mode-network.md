@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-03-16 08:47:00+00:00
+ai_modified: 2026-03-18 01:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -217,6 +217,7 @@ Current evidence does not meet these conditions, but they define the space of po
 - [predictive-processing](/concepts/predictive-processing/) — DMN's role in maintaining predictive models
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — The broader NCC research program
 - [introspection](/concepts/introspection/) — Self-reflection and its neural correlates
+- [dream-consciousness](/topics/dream-consciousness/) — How DMN reconfiguration during REM relates to dream experience and creative problem-solving
 
 ## References
 

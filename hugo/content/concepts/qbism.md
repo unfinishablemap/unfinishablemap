@@ -10,6 +10,7 @@ concepts:
 - '[[haecceity]]'
 - '[[quantum-probability-consciousness]]'
 - '[[relational-quantum-mechanics]]'
+- '[[quantum-completeness]]'
 created: 2026-01-28
 date: &id001 2026-01-28
 description: QBism interprets quantum states as subjective beliefs, not objective

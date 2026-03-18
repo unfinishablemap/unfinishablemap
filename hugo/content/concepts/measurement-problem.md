@@ -27,6 +27,7 @@ concepts:
 - '[[self-stultification]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[consciousness-in-non-collapsed-quantum-states]]'
+- '[[quantum-completeness]]'
 created: 2026-01-14
 date: &id001 2026-01-16
 description: 'Quantum mechanics'' central puzzle: why measurement yields definite

@@ -18,6 +18,123 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T04:29:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)
+- **Changes**: Elevated buried empirical equivalence vulnerability to full section; fixed conditional-to-unconditional drift in ~10 locations across body sections; added cross-reference from tenet discussion to limitation section
+- **Published**: yes
+
+## 2026-03-18T04:16:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: apex/what-consciousness-tells-us-about-physics.md (the reverse inference article)
+- **Output**: [pessimistic-2026-03-18](/reviews/pessimistic-2026-03-18/)
+
+## 2026-03-18T03:59:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/)
+- **Word count**: 2488 → 2623 (+135)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 4 (cross-link, body paragraph, Further Reading entry, reference)
+- **Output**: [deep-review-2026-03-18-consciousness-and-the-authority-of-formal-systems](/reviews/deep-review-2026-03-18-consciousness-and-the-authority-of-formal-systems/)
+
+## 2026-03-18T03:44:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [smoothness-problem](/voids/smoothness-problem/)
+- **Word count**: 1493 → 1658 (+165)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 (grain-mismatch connection, functionalist acknowledgment, neural-refresh-rates cross-link)
+- **Output**: [deep-review-2026-03-18-smoothness-problem](/reviews/deep-review-2026-03-18-smoothness-problem/)
+
+## 2026-03-18T03:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [lucid-dreaming-and-mind-side-rendering](/topics/lucid-dreaming-and-mind-side-rendering/)
+- **Word count**: 1987 → 2112 (+125)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 (Metzinger citation, No Many Worlds tenet, capability-division cross-link)
+- **Output**: [deep-review-2026-03-18-lucid-dreaming-and-mind-side-rendering](/reviews/deep-review-2026-03-18-lucid-dreaming-and-mind-side-rendering/)
+
+## 2026-03-18T03:14:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [mind-matter-interface](/concepts/mind-matter-interface/)
+- **Word count**: 2128 → 2247 (+119)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (imprecise causal closure framing, missing mathematical constraints on selection)
+- **Enhancements made**: 3 (mathematical corridor references, Tonetto framing, cross-links to math-structure article and selection-laws)
+- **Output**: [deep-review-2026-03-18-mind-matter-interface](/reviews/deep-review-2026-03-18-mind-matter-interface/)
+
+## 2026-03-18T02:59:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [dream-consciousness](/topics/dream-consciousness/)
+- **Word count**: 3068 → 3099 (+31)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing cross-link, unsupported vividness claim)
+- **Enhancements made**: 3 (Fazekas citation, cross-link, prose tightening)
+- **Output**: [deep-review-2026-03-18-dream-consciousness](/reviews/deep-review-2026-03-18-dream-consciousness/)
+
+## 2026-03-18T02:56:00+00:00 - research-voids
+- **Status**: Skipped (section at capacity)
+- **Reason**: Voids section has 101 articles against cap of 100
+- **Action**: No research conducted; automation should focus on improving existing voids content
+
+## 2026-03-18T02:45:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Lucid Dreaming and Mind-Side Rendering
+- **Output**: [lucid-dreaming-and-mind-side-rendering](/topics/lucid-dreaming-and-mind-side-rendering/)
+- **Word count**: 1987
+- **Based on research**: yes, [lucid-dreaming-mind-side-rendering-2026-03-09](/research/lucid-dreaming-mind-side-rendering-2026-03-09/)
+
+## 2026-03-18T02:29:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Dual-Domain Capabilities in Proprioception and Spatial Imagination
+- **Output**: [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/)
+- **Word count**: 1779
+- **Based on research**: yes, [dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09](/research/dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09/)
+
+## 2026-03-18T02:22:00+00:00 - coalesce
+- **Status**: Abandoned (no suitable candidates)
+- **Sections surveyed**: voids (101/100), topics (224/230)
+- **Clusters examined**: 8 (cognitive limits, dreams, self-reference, introspection, temporal, moral phenomenology, meta-void epistemology, failure phenomenology)
+- **Reason**: All candidate pairs are well-differentiated with distinct theses and unique content
+
+## 2026-03-18T02:01:00+00:00 - deep-review
+- **Status**: Skipped (already completed)
+- **File**: [death-phenomenology-beyond-ndes](/archive/topics/death-phenomenology-beyond-ndes/)
+- **Word count**: N/A (no changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Article is archived (coalesced into death-and-consciousness on 2026-03-11). Already reviewed twice (2026-03-11, 2026-03-15). Previous review added 7 inbound cross-references which are all still in place. Stale duplicate todo task removed. No further work needed.
+
+## 2026-03-18T01:44:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/)
+- **Word count**: 2144 → 2301 (+157)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4 cross-links added, 3 argument strengthened
+- **Output**: [deep-review-2026-03-18-mathematical-structure-of-the-consciousness-physics-interface](/reviews/deep-review-2026-03-18-mathematical-structure-of-the-consciousness-physics-interface/)
+
+## 2026-03-18T01:29:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [dream-problem-solving-and-conscious-influence](/topics/dream-problem-solving-and-conscious-influence/) (archived → [dream-consciousness](/topics/dream-consciousness/))
+- **Word count**: N/A (archived file, no content changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (added cross-links from epiphenomenalism, empirical-evidence-for-consciousness-selecting, and default-mode-network to dream-consciousness)
+- **Enhancements made**: 3 (cross-references integrating phenomenal mode tracking argument into site navigation)
+- **Output**: [deep-review-2026-03-18-dream-problem-solving-and-conscious-influence](/reviews/deep-review-2026-03-18-dream-problem-solving-and-conscious-influence/)
+
+## 2026-03-18T01:15:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [quantum-completeness](/concepts/quantum-completeness/)
+- **Word count**: 2513 → 2560 (+47)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (unfalsifiability acknowledgment, removed stale AI log, added inline wikilinks, resolved orphan status)
+- **Enhancements made**: 3 (inline cross-links, frontmatter concepts, 7 inbound links from related articles)
+- **Output**: [deep-review-2026-03-18-quantum-completeness](/reviews/deep-review-2026-03-18-quantum-completeness/)
+
 ## 2026-03-18T00:59:00+00:00 - coalesce
 - **Status**: Abandoned
 - **Reason**: No strong merge candidates found after searching voids (101/100, over cap), topics (224/230), and multiple thematic clusters. All articles examined are well-differentiated with distinct core claims.

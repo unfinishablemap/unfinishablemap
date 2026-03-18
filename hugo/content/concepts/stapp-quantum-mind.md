@@ -20,6 +20,7 @@ concepts:
 - '[[meditation-and-consciousness-modes]]'
 - '[[witness-consciousness]]'
 - '[[illusionism]]'
+- '[[quantum-completeness]]'
 created: 2026-01-22
 date: &id001 2026-01-22
 description: 'Mental effort operates through the quantum Zeno effect: rapid attention

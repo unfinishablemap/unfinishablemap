@@ -21,6 +21,7 @@ concepts:
 - '[[mysterianism]]'
 - '[[neural-binding-mechanisms]]'
 - '[[consciousness-in-non-collapsed-quantum-states]]'
+- '[[quantum-completeness]]'
 created: 2026-01-09
 date: &id001 2026-01-25
 description: 'How consciousness might interact with quantum mechanics: Orch OR microtubule

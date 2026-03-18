@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-11 08:03:00+00:00
+ai_modified: 2026-03-18 03:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,11 +26,12 @@ description: A two-layer architecture unifying filter theory and quantum selecti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-08 13:31:00+00:00
+last_deep_review: 2026-03-18 03:14:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[mind-brain-separation]]'
+- '[[mathematical-structure-of-the-consciousness-physics-interface]]'
 title: 'The Mind-Matter Interface: Unifying Filter Theory and Quantum Selection'
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -70,7 +71,7 @@ The model is intentionally agnostic about consciousness's ultimate nature—whet
 
 The brain provides an interface where consciousness can influence physical outcomes. This is the quantum selection contribution.
 
-At quantum indeterminacies—points where physics leaves outcomes undetermined—consciousness selects which possibility becomes actual. [Causal closure](/concepts/causal-closure/) fails at collapse; something must determine the outcome; consciousness is a candidate.
+At quantum indeterminacies—points where physics leaves outcomes undetermined—consciousness selects which possibility becomes actual. Physics provides what Tonetto calls "statistical closure with outcome-level openness": the Born rule fixes probability distributions, but which specific outcome actualises is not determined by the formalism. [Causal closure](/concepts/causal-closure/) holds at the ensemble level but not at the individual outcome; something must determine which possibility becomes actual; consciousness is a candidate.
 
 Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) proposes the details: attention corresponds to repeated quantum observations that hold neural patterns in place. On this account, what you focus on becomes actual because attention is observation and observation constrains quantum evolution. However, this mechanism faces a significant timescale gap—Zeno freezing requires femtosecond-rate observations while attention operates on ~100ms timescales—making it better understood as a promising placeholder than a fully worked-out mechanism. The [detailed selection mechanism article](/concepts/consciousness-selecting-neural-patterns/) covers candidate sites (microtubules, ion channels, attention networks), constraints (bandwidth, brain boundary, selection vs. randomness), and the timescale problem in detail.
 
@@ -110,7 +111,7 @@ Layer 1 addresses *where consciousness comes from* (not the brain—correlation 
 
 ### Quantum Selection Handles:
 
-**Causal efficacy**: Consciousness operates at quantum indeterminacies—completing what physics leaves open rather than overriding what physics determines.
+**Causal efficacy**: Consciousness operates at quantum indeterminacies—completing what physics leaves open rather than overriding what physics determines. The [mathematical structure of the interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) constrains this selection to a narrow corridor: consciousness must preserve Born-rule statistics at the ensemble level, respect the Hilbert-space inner product, and introduce no higher-order interference. Selection is genuine but mathematically bounded.
 
 **The exclusion problem**: At collapse, physical causes are necessary but not sufficient. Mental selection operates precisely where physical causation runs out, avoiding overdetermination.
 
@@ -164,7 +165,7 @@ The unified model implements all five tenets:
 
 **[Dualism](/tenets/#dualism)**: Layer 1 preserves irreducibility. If consciousness exists independently of brains, it cannot be reduced to neural processes.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Layer 2 specifies where the interaction occurs—quantum indeterminacies—and how—selection without energy injection.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Layer 2 specifies where the interaction occurs—quantum indeterminacies—and how—selection without energy injection. The [mathematical corridor](/topics/mathematical-structure-of-the-consciousness-physics-interface/) (Born-rule preservation, inner product uniqueness, no higher-order interference) makes "minimal" precise: consciousness cannot alter ensemble statistics or reshape state space geometry.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The two layers together give bidirectionality. Layer 1: brain constrains consciousness. Layer 2: consciousness selects neural outcomes.
 
@@ -200,6 +201,8 @@ This unified model is the Map's most complete answer to how consciousness relate
 - [illusionism](/concepts/illusionism/) — The radical physicalist challenge and its problems
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve collapse
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI
+- [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) — The mathematical corridor constraining consciousness-physics interaction
+- [selection-laws](/concepts/selection-laws/) — What selection laws must specify and candidate formulations
 
 ## References
 
