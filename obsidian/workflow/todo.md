@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for epistemological limits of Occam's razor
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Referenced 10 times across content as [[epistemological-limits-of-occams-razor]] but no page exists. Directly supports Tenet 5 (Occam's Razor Has Limits). Should articulate why simplicity is epistemically unreliable with incomplete knowledge — the core philosophical argument underlying the tenet. Target section: concepts/.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-18
-
 ### P2: Fix broken wikilinks to epiphenomenalism-argument and many-worlds-argument
 - **Type**: refine-draft
 - **Status**: pending
@@ -664,6 +657,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Create concept page for epistemological limits of Occam's razor
+- **Type**: expand-topic
+- **Notes**: Referenced 10 times across content as [[epistemological-limits-of-occams-razor]] but no page exists. Directly supports Tenet 5 (Occam's Razor Has Limits). Should articulate why simplicity is epistemically unreliable with incomplete knowledge — the core philosophical argument underlying the tenet. Target section: concepts/.
+- **Output**: Create concept page for epistemological limits of Occam's razor
 
 ### ✓ 2026-03-18: Cross-review neural-refresh-rates.md against smoothness and binding articles
 - **Type**: cross-review
