@@ -4,7 +4,7 @@ description: "How attention shapes the lived experience of time—stretching, co
 created: 2026-02-15
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-03-11T06:32:00+00:00
+ai_modified: 2026-03-18T22:57:00+00:00
 draft: false
 topics:
   - "[[temporal-structure-of-consciousness]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-02-19T16:21:00+00:00
+last_deep_review: 2026-03-18T22:57:00+00:00
 ---
 
 Attention does not merely select *what* we experience—it shapes *when* and *how long* we experience it. The Unfinishable Map argues that temporal attention, the directing of awareness through time, reveals something fundamental about consciousness: it is not a passive recipient of an externally clocked present but an active structurer of temporal experience. The felt duration of a moment, the depth of the present, and the rhythm of conscious life all vary with how attention engages time. This variation resists physical reduction. No clock runs faster when you concentrate or slower when you are bored. The distortion is phenomenal, not physical—and that gap between objective and experienced time reopens the hard problem at the temporal level, where it proves especially resistant to materialist dissolution.
@@ -54,7 +54,7 @@ Husserl's tripartite structure of temporal consciousness describes the architect
 - **Distracted attention** weakens all three components. Retention fades quickly, protention collapses to mere reactivity, and primal impression thins. The present becomes a narrow, shallow instant.
 - **Meditative attention** reveals the microstructure of all three. [[contemplative-practice-as-philosophical-evidence|Contemplative traditions]] report that sustained attention to the present moment discloses rapid arising and passing—what the Buddhist phenomenological tradition calls *khaṇika* (momentariness)—normally blurred by ordinary attention. (The Buddhist analysis also challenges the assumption of a stable attender: *khaṇika* reveals momentariness in the act of attending itself. The Map acknowledges this tension while maintaining that the experiential subject, however impermanent moment-to-moment, is irreducible to physical process.)
 
-Francisco Varela's neurophenomenological research programme proposed that trained meditators should access temporal structure at scales below ordinary threshold—a hypothesis consistent with subsequent experimental work on meditation and attentional processing (Slagter et al., 2007). The specious present is not a given but an attentional achievement—its depth and span reflect how consciousness directs itself through time.
+Francisco Varela's [[neurophenomenology|neurophenomenological]] research programme proposed that trained meditators should access temporal structure at scales below ordinary threshold—a hypothesis consistent with subsequent experimental work on meditation and attentional processing (Slagter et al., 2007). The specious present is not a given but an attentional achievement—its depth and span reflect how consciousness directs itself through time.
 
 ## Temporal Attention and the Hard Problem
 
@@ -68,7 +68,7 @@ The hard problem reappears at the temporal level: we can correlate attentional s
 
 ## Temporal Selection and the Interface
 
-The Map proposes that [[attention-as-interface|attention serves as the interface]] through which consciousness influences the physical brain. Temporal attention adds a dimension to this proposal: consciousness does not merely select among spatially arrayed options but selects *when* to engage and *how long* to sustain engagement. The [[temporal-phenomenology-quantum-selection|temporal phenomenology of quantum selection]] develops a complementary argument: the specious present may function as a "selection window" whose expansion and contraction under attention reflects modulation of the scope of conscious quantum selection.
+The Map proposes that [[attention-as-interface|attention serves as the interface]] through which consciousness influences the physical brain. Temporal attention adds a dimension to this proposal: consciousness does not merely select among spatially arrayed options but selects *when* to engage and *how long* to sustain engagement. The [[temporal-consciousness|temporal phenomenology of quantum selection]] develops a complementary argument: the specious present may function as a "selection window" whose expansion and contraction under attention reflects modulation of the scope of conscious quantum selection.
 
 This temporal selection has consequences for how the interface might work. One speculative possibility—[[stapp-quantum-mind|Stapp's quantum Zeno framework]]—suggests that sustained attention stabilises desired neural patterns through repeated observation, with the *duration* of attention determining stabilisation strength. But regardless of the specific mechanism, the phenomenology of [[mental-effort|mental effort]] is clear: maintaining focus feels like work. Consciousness sustains its temporal engagement against the tendency of neural activity to shift—and the longer the sustaining, the greater the felt effort. This phenomenological datum stands independently of any particular physical mechanism proposed to explain it.
 
