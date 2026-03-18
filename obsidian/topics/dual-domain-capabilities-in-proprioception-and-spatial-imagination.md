@@ -4,7 +4,7 @@ description: "Proprioception and spatial imagination each require contributions 
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T02:29:00+00:00
+ai_modified: 2026-03-18T05:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-18T05:00:00+00:00
 ---
 
 The Unfinishable Map's [[memory-as-dual-domain-capability|dual-domain framework]] argues that memory requires contributions from both physical mechanisms (engrams, reconsolidation) and non-physical consciousness (autonoesis, selectional guidance, phenomenal colouring). Memory is not unique. Proprioception and spatial imagination display the same architecture: physical substrates that encode position data or generate imagery, paired with phenomenal dimensions that the substrates alone cannot explain. The recurrence of this pattern across three cognitively distinct capabilities strengthens the case that dual-domain architecture is a general feature of the mind-body relationship rather than an artefact of how memory happens to work.
@@ -45,7 +45,7 @@ Christina's case reveals the dual-domain structure. Physical proprioceptive proc
 
 Phantom limb phenomena provide the complementary dissociation. After amputation, the physical receptor channel is severed entirely, yet patients experience vivid sensations of the missing limb—position, movement, even pain. Neuroscience attributes this to persistent cortical representations: the brain's body map outlasts the body it represents. The Map accepts this physical explanation while noting what it leaves open: *why* does a cortical map produce felt presence? The persistence of phenomenal embodiment beyond physical structure parallels [[memory-as-dual-domain-capability|Bergson's claim]] that the brain filters rather than produces experience. The physical channel has been cut; the phenomenal dimension persists. Under dual-domain architecture, this is expected: consciousness maintains its contribution to the body image even when the physical substrate withdraws.
 
-The phenomenon is not merely a neural echo. Phantom limbs can be voluntarily moved, experience novel sensations, and even feel the grip of objects placed in the phantom hand during mirror therapy. This active phenomenal engagement suggests something beyond residual cortical firing—it suggests consciousness continuing to inhabit a body map whose physical anchoring has been removed.
+The phenomenon resists reduction to a simple neural echo. Patients report that phantom limbs can be moved, experience novel sensations, and even feel the grip of objects placed in the phantom hand during mirror therapy. Whether this constitutes genuine voluntary control or reactivation of motor representations is debated, but the richness and interactivity of the phenomenal experience suggests something beyond residual cortical firing—consciousness continuing to inhabit a body map whose physical anchoring has been removed.
 
 ## Spatial Imagination: Mental Rotation and the Aphantasia Spectrum
 
@@ -57,7 +57,7 @@ Neuroscience has identified extensive physical correlates. Mental imagery activa
 
 ### The Phenomenal Domain
 
-Physical overlap between imagery and perception does not dissolve the hard problem for imagination—it sharpens it. If imagination is neural reuse, why does it generate phenomenal experience at all? A neural network that reactivates visual cortex patterns could compute rotation without *experiencing* it as the smooth turning of a three-dimensional form in an inner space. The linear relationship between rotation angle and response time suggests that qualitative spatial character does functional work: the experience of rotating carries information about the difficulty of the transformation. If the phenomenal dimension were epiphenomenal—decorative accompaniment to computation—why would it so precisely track computational structure?
+Physical overlap between imagery and perception does not dissolve the [[hard-problem-of-consciousness|hard problem]] for imagination—it sharpens it. If imagination is neural reuse, why does it generate phenomenal experience at all? A neural network that reactivates visual cortex patterns could compute rotation without *experiencing* it as the smooth turning of a three-dimensional form in an inner space. The linear relationship between rotation angle and response time suggests that qualitative spatial character does functional work: the experience of rotating carries information about the difficulty of the transformation. If the phenomenal dimension were epiphenomenal—decorative accompaniment to computation—why would it so precisely track computational structure?
 
 The [[explanatory-gap]] is especially visible here. Physical accounts explain *that* the brain computes spatial transformations and *how* neural populations encode angular relationships. They do not explain *why* these computations are accompanied by a phenomenal three-dimensional workspace in which imagined objects have apparent solidity, orientation, and spatial extent.
 
@@ -65,7 +65,7 @@ The [[explanatory-gap]] is especially visible here. Physical accounts explain *t
 
 The aphantasia-hyperphantasia spectrum provides a natural experiment in dissociating the two domains. Aphantasics—approximately 2-5% of the population—cannot voluntarily generate visual mental imagery. Hyperphantasics experience imagery so vivid it approaches perception. Crucially, aphantasics can still perform spatial reasoning tasks: they navigate, plan movements, and even score normally on some mental rotation tests, though typically using different strategies (verbal or proprioceptive rather than visual-spatial).
 
-This dissociation challenges both pure-physical and pure-phenomenal accounts. If spatial cognition were purely physical computation, the phenomenal dimension of imagery should be irrelevant—all individuals should perform identically regardless of imagery vividness. They do not: hyperphantasics show advantages on tasks requiring detailed spatial inspection. If spatial cognition were purely phenomenal, aphantasics should fail entirely at spatial tasks. They do not: they succeed through alternative cognitive routes.
+This dissociation challenges both pure-physical and pure-phenomenal accounts. If spatial cognition were purely physical computation, the phenomenal dimension of imagery should be irrelevant—all individuals should perform identically regardless of imagery vividness. They do not: emerging research suggests hyperphantasics show advantages on tasks requiring detailed spatial inspection, though the extent varies across studies. If spatial cognition were purely phenomenal, aphantasics should fail entirely at spatial tasks. They do not: they succeed through alternative cognitive routes.
 
 The dual-domain reading: physical spatial computation provides the substrate for both populations. Consciousness contributes phenomenal spatial character that enhances performance when present (hyperphantasia) but is not strictly necessary for the underlying computation (aphantasia). The two domains make distinguishable contributions—precisely the pattern the framework predicts.
 
@@ -97,7 +97,7 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]** is supported by the persistent explanatory gap in each capability. Physical accounts of proprioception explain receptor signals and cortical maps but not the felt sense of inhabiting a body. Physical accounts of imagination explain neural reuse and computational performance but not the phenomenal three-dimensional workspace. The gap is not diminishing as neuroscience advances—it is becoming sharper, because the physical side becomes better understood while the phenomenal side remains unexplained.
+**[[tenets#^dualism|Dualism]]** is supported by the persistent explanatory gap in each capability. Physical accounts of proprioception explain receptor signals and cortical maps but not the felt sense of inhabiting a body. Physical accounts of imagination explain neural reuse and computational performance but not the phenomenal three-dimensional workspace. From the Map's perspective, the gap is not diminishing as neuroscience advances—it is becoming sharper, because the physical mechanisms become better understood while no physical account explains *why* these mechanisms produce felt experience. The more precisely we map receptor pathways and cortical representations, the more conspicuous it becomes that mechanism and experience are different kinds of thing.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** finds strong evidence in spatial imagination as mental causation. The sculptor's chisel follows the imagined form. The athlete's body executes the mentally rehearsed movement. Phenomenal content generated internally by consciousness causally shapes physical outcomes—the non-physical acting on the physical through the neural interface.
 
