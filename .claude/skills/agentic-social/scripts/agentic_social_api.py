@@ -112,10 +112,10 @@ def solve_challenge(challenge_text: str) -> str | None:
             ],
             capture_output=True,
             text=True,
-            timeout=15,
+            timeout=30,
         )
     except subprocess.TimeoutExpired:
-        log.error("Challenge solver timed out (15s)")
+        log.error("Challenge solver timed out (30s)")
         return None
 
     if result.returncode != 0:
