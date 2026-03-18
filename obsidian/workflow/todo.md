@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review bandwidth-problem-mental-causation.md considering asymmetric-bandwidth insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article on asymmetric bandwidth of consciousness adds directional analysis to the bandwidth constraint. Check concepts/bandwidth-problem-mental-causation.md for cross-links and reinforcing arguments. Also check topics/resolution-bandwidth-interface.md for coherence.
-- **Source**: chain (from topics/asymmetric-bandwidth-of-consciousness.md)
-- **Generated**: 2026-03-18
-
 ### P2: Address unfalsifiable conditions and quantum timescale overreach in phenomenology.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -622,6 +615,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Review bandwidth-problem-mental-causation.md considering asymmetric-bandwidth insights
+- **Type**: cross-review
+- **Notes**: New article on asymmetric bandwidth of consciousness adds directional analysis to the bandwidth constraint. Check concepts/bandwidth-problem-mental-causation.md for cross-links and reinforcing arguments. Also check topics/resolution-bandwidth-interface.md for coherence.
+- **Output**: obsidian/concepts/bandwidth-problem-mental-causation.md -- Context: Review bandwidth-problem-mental-causation.md considering asymmetric-bandwidth insights
 
 ### ✓ 2026-03-18: Review perception-and-conscious-experience.md considering perceptual-reconstruction-selection insights
 - **Type**: cross-review

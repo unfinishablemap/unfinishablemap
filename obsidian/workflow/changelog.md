@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T14:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/bandwidth-problem-mental-causation]]
+- **Word count**: 1782 → 2000 (+218)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 3 (asymmetric-bandwidth argument, capacity-ceiling anti-epiphenomenalism, Mandik control phenomenology)
+- **Output**: [[reviews/deep-review-2026-03-18-bandwidth-problem-mental-causation]]
+
 ## 2026-03-18T14:33:00+00:00 - optimistic-review
 - **Status**: Success
 - **Content reviewed**: All non-draft content in topics/ (~225), concepts/ (~281), tenets/ (5 tenets)
