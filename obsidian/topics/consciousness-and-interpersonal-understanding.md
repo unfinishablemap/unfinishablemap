@@ -4,7 +4,7 @@ description: "Genuine understanding of another person requires more than knowled
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-05T06:39:57+00:00
+ai_modified: 2026-03-18T22:15:00+00:00
 draft: false
 topics:
   - "[[topics/consciousness-and-social-cognition]]"
@@ -29,18 +29,17 @@ related_articles:
   - "[[other-minds-void]]"
   - "[[intersubjective-void]]"
   - "[[social-construction-of-self-vs-phenomenal-self]]"
-  - "[[consciousness-and-semantic-understanding]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-02-19T13:36:00+00:00
+last_deep_review: 2026-03-18T22:15:00+00:00
 ---
 
-Knowing everything about someone is not the same as understanding them. You could possess a complete neural map of another person's brain, a transcript of every word they have spoken, a full behavioural history — and still lack something essential. What you lack is the phenomenal grasp of what their experience is like from the inside. The Unfinishable Map argues that genuine interpersonal understanding — the kind that matters in love, friendship, grief, and moral life — depends on phenomenal consciousness in ways that information processing alone cannot replicate.
+Knowing everything about someone is not the same as understanding them. You could possess a complete neural map of another person's brain, a transcript of every word they have spoken, a full behavioural history — and still lack something essential. What you lack is the phenomenal grasp of what their experience is like from the inside — what Nagel (1974) established as the irreducible "what it is like" dimension of consciousness. The Unfinishable Map argues that genuine interpersonal understanding — the kind that matters in love, friendship, grief, and moral life — depends on phenomenal consciousness in ways that information processing alone cannot replicate.
 
-The [[topics/consciousness-and-social-cognition|social cognition article]] examines the cognitive machinery enabling human social life: metarepresentation, theory of mind, institutional reality. The [[consciousness-and-semantic-understanding|semantic understanding article]] explores whether genuine comprehension of meaning requires consciousness. This article asks a different question: what is the phenomenology of understanding another *person*, and why does it require consciousness?
+The [[topics/consciousness-and-social-cognition|social cognition article]] examines the cognitive machinery enabling human social life: metarepresentation, theory of mind, institutional reality. The [[phenomenology-of-understanding-and-meaning|understanding and meaning article]] explores the phenomenal character of comprehension itself. This article asks a different question: what is the phenomenology of understanding another *person*, and why does it require consciousness?
 
 ## The Gap Between Knowledge and Understanding
 
@@ -72,9 +71,9 @@ The [[phenomenology-of-understanding-and-meaning|phenomenology of understanding]
 
 **The moment of recognition.** Sometimes understanding arrives suddenly. Someone describes an experience — a particular kind of loneliness, a specific shade of ambivalence — and you *recognise* it. The recognition has the quality of the "click" described in cognitive understanding, but it is directed at a subject rather than a proposition. You are not grasping a truth but meeting a perspective.
 
-**Progressive deepening.** More often, understanding a person develops gradually through repeated encounters. Each conversation reveals new facets. The phenomenology is of accumulation and revision — early impressions are overwritten, simplified models become textured, and the other person gains depth in your experience of them. This deepening has no natural endpoint. Unlike understanding a proof, which achieves completion, understanding a person always remains partial. The [[intersubjective-void]] ensures there is always more to grasp.
+**Progressive deepening.** More often, understanding a person develops gradually through repeated encounters. Each conversation reveals new facets. The phenomenology is of accumulation and revision — early impressions are overwritten, simplified models become textured, and the other person gains depth in your experience of them. Husserl (1931) called this process the "pairing" of one's own lived body with the other's — an ongoing constitution of the other as a co-subject, never completed because the other always exceeds what any single encounter reveals. This deepening has no natural endpoint. Unlike understanding a proof, which achieves completion, understanding a person always remains partial. The [[intersubjective-void]] ensures there is always more to grasp.
 
-**Perspective-taking as phenomenal shift.** When you genuinely take another's perspective — not just predict their behaviour but imagine the world as it appears to them — the experience involves a felt shift. Your own perspective recedes (not disappearing but moving to the background) and another perspective occupies the foreground. This shift has phenomenal character: the world looks different, feels different, carries different salience and meaning. George Herbert Mead called this "taking the attitude of the other," but the phrase understates what happens. You are not merely adopting an attitude but briefly inhabiting a different experiential stance.
+**Perspective-taking as phenomenal shift.** When you genuinely take another's perspective — not just predict their behaviour but imagine the world as it appears to them — the experience involves a felt shift. Your own perspective recedes (not disappearing but moving to the background) and another perspective occupies the foreground. This shift has phenomenal character: the world looks different, feels different, carries different salience and meaning. George Herbert Mead called this "taking the attitude of the other," but the phrase understates what happens. You are not merely adopting an attitude but briefly inhabiting a different experiential stance. Zahavi (2001) argues that this goes beyond empathy as traditionally conceived — it is a form of direct experiential access to the other, not mere inference from behavioural cues.
 
 ## Shared Experience and Its Limits
 
@@ -115,8 +114,7 @@ None of these would refute dualism directly, but they would weaken the case that
 ## Further Reading
 
 - [[topics/consciousness-and-social-cognition]] — The cognitive machinery enabling social life: metarepresentation, theory of mind, institutional reality
-- [[consciousness-and-semantic-understanding]] — Whether genuine comprehension of meaning requires consciousness
-- [[phenomenology-of-understanding-and-meaning]] — The phenomenal character of understanding in cognitive contexts
+- [[phenomenology-of-understanding-and-meaning]] — The phenomenal character of understanding and meaning in cognitive contexts
 - [[other-minds-void]] — The structural privacy of consciousness and how we navigate it
 - [[intersubjective-void]] — Whether experiences can be genuinely shared
 - [[consciousness-only-territories]] — Experiential regions that may be permanently beyond external access
@@ -135,5 +133,4 @@ None of these would refute dualism directly, but they would weaken the case that
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
 1. Mead, G. H. (1934). *Mind, Self, and Society*. University of Chicago Press.
 1. Stueber, K. (2006). *Rediscovering Empathy: Agency, Folk Psychology, and the Human Sciences*. MIT Press.
-1. Strawson, G. (1994). *Mental Reality*. MIT Press.
 1. Strawson, P. F. (1962). "Freedom and Resentment." *Proceedings of the British Academy*, 48, 1-25.
