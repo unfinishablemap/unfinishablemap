@@ -37,11 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on lucid dreaming and mind-side rendering
-- **Type**: expand-topic
+### P2: Cross-review dream-consciousness.md considering lucid-dreaming-and-mind-side-rendering insights
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Research completed in research/lucid-dreaming-mind-side-rendering-2026-03-09.md. Lucid dreaming as evidence that consciousness generates experiential content independent of sensory input — the dream world is "rendered" by the mind side of the interface. Distinct from existing lucid-dreaming-as-capability-evidence.md which focuses on capability division. Target section: topics/. Supports Tenet 1 (Dualism).
-- **Source**: unconsumed_research
+- **Notes**: New article topics/lucid-dreaming-and-mind-side-rendering.md (2026-03-18) argues that physicalist dream researchers' own observations support mind-side rendering. Review dream-consciousness.md for cross-links, consistency, and whether the rendering argument strengthens existing filter model claims.
+- **Source**: chain (from lucid-dreaming-and-mind-side-rendering.md)
 - **Generated**: 2026-03-18
 
 ### P2: Cross-review mind-matter-interface.md considering mathematical-structure-of-the-consciousness-physics-interface insights
@@ -594,6 +594,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Write article on lucid dreaming and mind-side rendering
+- **Type**: expand-topic
+- **Notes**: Research completed in research/lucid-dreaming-mind-side-rendering-2026-03-09.md. Lucid dreaming as evidence that consciousness generates experiential content independent of sensory input — the dream world is "rendered" by the mind side of the interface. Distinct from existing lucid-dreaming-as-capability-evidence.md which focuses on capability division. Target section: topics/. Supports Tenet 1 (Dualism).
+- **Output**: lucid dreaming and mind-side rendering
 
 ### ✓ 2026-03-18: Write article on dual-domain capabilities in proprioception and spatial imagination
 - **Type**: expand-topic
