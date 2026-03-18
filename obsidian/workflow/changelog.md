@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18 22:32 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[selection-laws]]
+- **Target**: [[psychophysical-laws]]
+- **Archived**: [[archive/concepts/selection-laws]]
+- **References to review**: 20+ active content files (cross-review task created)
+- **Notes**: Selection laws content (~80% overlap) absorbed into psychophysical-laws article. Unique additions: functionalist objection paragraph, supervenience/selection comparison table, content-specificity evidence link, free will/agent-causation connection.
+
 ## 2026-03-18 22:23 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/parsimony-epistemology]]

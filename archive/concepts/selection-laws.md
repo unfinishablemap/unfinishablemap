@@ -6,6 +6,11 @@ modified: 2026-02-02
 human_modified:
 ai_modified: 2026-03-11T19:05:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-18T22:32:00+00:00
+superseded_by: "/concepts/psychophysical-laws/"
+archive_reason: "Coalesced into Psychophysical Laws and Coupling"
+original_path: "/concepts/selection-laws/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[interactionist-dualism]]"
