@@ -596,6 +596,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic_review
 - **Generated**: 2026-03-17
 
+### P3: Write article on philosophy of evidence for subjective phenomena
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map implicitly operates with a theory of what counts as evidence when the phenomenon is irreducibly subjective, but has never articulated this explicitly. What standards govern phenomenological evidence? When does convergence across contemplative traditions constitute evidence? How does phenomenological evidence interact with neuroscientific evidence? Builds on contemplative-practice-as-philosophical-evidence, epistemology-of-introspection, consciousness-and-scientific-methodology. Target section: topics/. See optimistic-2026-03-18-afternoon.md
+- **Generated**: 2026-03-18
+
+### P3: Write article on consciousness and the philosophy of mathematics
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Mathematical Platonism and consciousness share a structural problem — access to abstract objects parallels the interaction problem. The Map has articles on mathematical cognition but hasn't developed the deep analogy between mathematical and phenomenal realism. Strengthens Tenet 1 (dualism) and Tenet 5 (Occam's limits). Builds on consciousness-and-mathematical-cognition, mathematical-knowledge-and-insight, consciousness-and-the-authority-of-formal-systems. Target section: topics/. See optimistic-2026-03-18-afternoon.md
+- **Generated**: 2026-03-18
+
+### P3: Write article on the normativity gap — from selection to reasons
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map establishes that consciousness selects using valence and that rational endorsement requires consciousness. But the bridge between felt value and normative reasons — why valence-guided selection counts as reasoning rather than sophisticated tropism — needs explicit development. Builds on valence-as-selection-currency, consciousness-and-normative-force, self-stultification-as-master-argument. Target section: topics/. See optimistic-2026-03-18-afternoon.md
+- **Generated**: 2026-03-18
+
+### P3: Write concept page for phenomenological convergence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The methodological principle that independently developed contemplative traditions converging on structural findings about consciousness constitutes evidence. Currently implicit in contemplative-practice-as-philosophical-evidence and convergence-argument-for-dualism. Would anchor the Map's epistemological methodology. Target section: concepts/. See optimistic-2026-03-18-afternoon.md
+- **Generated**: 2026-03-18
+
 ## Completed Tasks
 
 
