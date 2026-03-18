@@ -132,6 +132,7 @@ The metaphysics of information connects to each of the Map's tenets.
 - [[consciousness-and-causal-powers]] — The causal efficacy of consciousness
 - [[decoherence]] — The quantum process that challenges and constrains neural-scale interaction models
 - [[attention-as-causal-bridge]] — How attention serves as the mechanism through which semantic information reaches physical processes
+- [[it-from-bit-and-participatory-ontology]] — Wheeler's "it from bit" and its descendant programmes on information ontology
 
 ## References
 

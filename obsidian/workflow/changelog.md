@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18 23:37 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/it-from-bit-and-participatory-ontology]]
+- **Word count**: 2115 → 2138 (+23)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing QBism cross-link, orphaned article)
+- **Enhancements made**: 9 (1 article improvement + 8 inbound cross-links from related articles)
+- **Output**: [[reviews/deep-review-2026-03-18-it-from-bit-and-participatory-ontology]]
+
 ## 2026-03-18 23:30 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/many-worlds]]

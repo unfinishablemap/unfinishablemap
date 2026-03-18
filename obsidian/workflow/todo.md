@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate it-from-bit-and-participatory-ontology.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links from other content articles. Topics article on Wheeler's participatory universe and "it from bit" thesis under the Map's framework. Add cross-references from related articles such as measurement-problem-and-consciousness.md, quantum-consciousness.md, consciousness-selecting-neural-patterns.md, or physics-as-disclosure-not-as-production.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-18
-
 ### P2: Integrate penrose-gravity-induced-collapse-empirical-prospects.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -668,6 +661,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Integrate it-from-bit-and-participatory-ontology.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links from other content articles. Topics article on Wheeler's participatory universe and "it from bit" thesis under the Map's framework. Add cross-references from related articles such as measurement-problem-and-consciousness.md, quantum-consciousness.md, consciousness-selecting-neural-patterns.md, or physics-as-disclosure-not-as-production.md.
+- **Output**: obsidian/topics/it-from-bit-and-participatory-ontology.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-18: Cross-review many-worlds.md and born-rule articles considering new probability/decision-theory objections
 - **Type**: cross-review

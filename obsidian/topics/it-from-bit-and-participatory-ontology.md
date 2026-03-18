@@ -4,8 +4,8 @@ description: "Wheeler's 'it from bit' thesis — that physical reality derives f
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-15T16:39:00+00:00
-last_deep_review: 2026-03-15T16:39:00+00:00
+ai_modified: 2026-03-18T23:37:00+00:00
+last_deep_review: 2026-03-18T23:37:00+00:00
 draft: false
 topics:
   - "[[the-participatory-universe]]"
@@ -41,7 +41,7 @@ Wheeler arrived at this position through three intellectual phases, as John Horg
 
 ## Three Descendant Programmes
 
-"It from bit" spawned three distinct research programmes that share vocabulary but diverge in commitments. The Map's framework — explored more fully in [[consciousness-and-the-physics-of-information]] — is compatible with some and incompatible with others. The shared language of "information" tends to obscure these divergences.
+"It from bit" spawned three distinct research programmes that share vocabulary but diverge in commitments. The Map's framework — explored more fully in [[consciousness-and-the-physics-of-information]] — is compatible with some and incompatible with others. A fourth heir, [[qbism|QBism]], carries forward Wheeler's participatory emphasis while remaining agnostic about information ontology. The shared language of "information" tends to obscure these divergences.
 
 ### Quantum Information Foundations
 
@@ -97,6 +97,7 @@ The Map speculates that the deepest significance of "it from bit" may be what th
 - [[consciousness-and-the-physics-of-information]] — The informational turn in physics and its implications for consciousness
 - [[metaphysics-of-information-under-dualism]] — Where information sits in a dualist ontology
 - [[quantum-measurement-and-consciousness]] — Why the measurement problem matters philosophically
+- [[qbism]] — QBism as a contemporary heir to Wheeler's participatory realism
 - [[consciousness-and-causal-powers]] — The causal efficacy of consciousness
 
 ## References
