@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on mathematical structure of the consciousness-physics interface
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/mathematical-structure-consciousness-physics-interface-2026-03-14.md. Develops formal framework for consciousness-physics coupling: operator algebras, projection postulate as interface specification, information-theoretic constraints on conscious selection. Directly supports Tenet 2 (Minimal Quantum Interaction). Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-18
-
 ### P2: Integrate quantum-completeness.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -587,6 +580,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Write article on mathematical structure of the consciousness-physics interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/mathematical-structure-consciousness-physics-interface-2026-03-14.md. Develops formal framework for consciousness-physics coupling: operator algebras, projection postulate as interface specification, information-theoretic constraints on conscious selection. Directly supports Tenet 2 (Minimal Quantum Interaction). Target section: concepts/.
+- **Output**: mathematical structure of the consciousness-physics interface
 
 ### ✓ 2026-03-18: Review lucid-dreaming-as-capability-evidence.md considering capability-division-in-vision insights
 - **Type**: cross-review
