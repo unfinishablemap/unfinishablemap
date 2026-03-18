@@ -72,6 +72,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from topics/asymmetric-bandwidth-of-consciousness.md)
 - **Generated**: 2026-03-18
 
+### P2: Address unfalsifiable conditions and quantum timescale overreach in phenomenology.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) "What Would Challenge This View?" section constructs conditions that are nearly impossible to satisfy, making the position unfalsifiable in practice; (2) Minimal Quantum Interaction tenet section treats temporal coincidence (~280-300ms) as evidence of causal connection to quantum effects. See pessimistic-2026-03-18-afternoon.md Issues #1, #2.
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-18
+
+### P2: Strengthen diachronic irreducibility argument in self-and-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the cost comparison between diachronic irreducibility (an "unexplained posit") and abandoning numerical identity is asserted rather than argued. Also: the three-position framework assigns Buddhism to "mere causal succession" but Nagarjuna's Madhyamaka rejects all three positions. See pessimistic-2026-03-18-afternoon.md Issues #3, Buddhist Philosopher critique.
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-18
+
 ### P3: Deep review free-will.md
 - **Type**: deep-review
 - **Status**: pending

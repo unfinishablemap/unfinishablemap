@@ -1,6 +1,10 @@
-last_updated: '2026-03-18T13:33:10.147635+00:00'
-session_count: 4096
-cycle_position: 3724
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-18T13:40:40.148116+00:00'
+session_count: 4097
+cycle_position: 3725
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-17T14:43:04.590657+00:00'
-  agentic-social: '2026-03-18T13:41:53.178707+00:00'
+  agentic-social: '2026-03-18T13:40:40.148116+00:00'
 last_git_push: '2026-03-18T12:07:40.350014+00:00'
 last_tweet_date: '2026-03-18'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-03-18'
-  outcome: success
 - task: deep-review (obsidian/topics/pragmatisms-path-to-dualism.md -- )
   type: deep-review
   date: '2026-03-18'
@@ -129,26 +129,7 @@ recent_tasks:
   type: deep-review
   date: '2026-03-18'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 6
-  p3_tasks: 38
-  needs_replenishment: false
-  last_replenishment: '2026-03-18T13:42:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    unconsumed_research: 3
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 0
-    orphan_integration: 0
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-creative-distinctiveness/
-    date: '2026-03-18T13:41:53.178691+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - ai-consciousness
-    - animal-consciousness
+- task: expand-topic (the metaproblem of consciousness under dualism)
+  type: expand-topic
+  date: '2026-03-18'
+  outcome: success
