@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T12:37:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Probability and decision-theory objections to many worlds
+- **Output**: [[probability-objections-many-worlds]]
+- **Word count**: 1402
+- **Based on research**: yes, [[probability-decision-theory-against-many-worlds-2026-03-04]]
+
 ## 2026-03-18T12:21:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/lucid-dreaming-and-dualist-rendering]]

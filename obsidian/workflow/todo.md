@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on probability and decision-theory objections to many worlds
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Deutsch-Wallace decision-theoretic derivation circularity, branch-counting vs. amplitude-weighting, Kent's and Albert's probability objections. Directly supports Tenet 4 (No Many Worlds). Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-18
-
 ### P2: Write article on asymmetric bandwidth of consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -619,6 +612,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Write concept page on probability and decision-theory objections to many worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Deutsch-Wallace decision-theoretic derivation circularity, branch-counting vs. amplitude-weighting, Kent's and Albert's probability objections. Directly supports Tenet 4 (No Many Worlds). Target section: concepts/.
+- **Output**: Write concept page on probability and decision-theory objections to many worlds
 
 ### ✓ 2026-03-18: Deep review temporal-void.md
 - **Type**: deep-review
