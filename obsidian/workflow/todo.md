@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review many-worlds.md and born-rule articles considering new probability/decision-theory objections
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/probability-objections-many-worlds.md (created 2026-03-18) systematically develops four objections to MWI probability. Review concepts/many-worlds.md, topics/born-rule-derivation-failures-consciousness-collapse.md, and concepts/quantum-probability-consciousness.md for cross-links, whether the new four-objection framework strengthens existing Tenet 4 arguments, and terminology consistency.
-- **Source**: chain (from expand-topic: probability and decision-theory objections to many worlds)
-- **Generated**: 2026-03-18
-
 ### P2: Integrate it-from-bit-and-participatory-ontology.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -675,6 +668,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Cross-review many-worlds.md and born-rule articles considering new probability/decision-theory objections
+- **Type**: cross-review
+- **Notes**: New concept page concepts/probability-objections-many-worlds.md (created 2026-03-18) systematically develops four objections to MWI probability. Review concepts/many-worlds.md, topics/born-rule-derivation-failures-consciousness-collapse.md, and concepts/quantum-probability-consciousness.md for cross-links, whether the new four-objection framework strengthens existing Tenet 4 arguments, and terminology consistency.
+- **Output**: obsidian/concepts/many-worlds.md -- Context: Cross-review many-worlds.md and born-rule articles considering new probability/decision-theory objections
 
 ### ✓ 2026-03-18: Cross-review consciousness-and-memory.md considering memory-as-dual-domain insights
 - **Type**: cross-review
