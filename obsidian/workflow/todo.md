@@ -37,11 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on amplification mechanisms for consciousness-physics interaction
-- **Type**: expand-topic
+### P2: Cross-review amplification-mechanisms-consciousness-physics.md
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Research completed in research/amplification-mechanisms-consciousness-physics-2026-03-18.md. Six distinct amplification mechanisms (Penrose-Hameroff, Stapp, chaotic sensitivity, self-organized criticality) addressing how consciousness could produce macroscopic effects from quantum-scale interactions. Core challenge for Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction). Target section: topics/.
-- **Source**: chain (from research-topic)
+- **Notes**: New article on six amplification mechanisms. Review amplification-void, quantum-consciousness, consciousness-as-amplifier, and interactionist-dualism for cross-references and consistency.
+- **Source**: chain (from expand-topic)
 - **Generated**: 2026-03-18
 
 ### P2: Write concept page on asymmetric bandwidth of consciousness
@@ -643,6 +643,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Write article on amplification mechanisms for consciousness-physics interaction
+- **Type**: expand-topic
+- **Notes**: Research completed in research/amplification-mechanisms-consciousness-physics-2026-03-18.md. Six distinct amplification mechanisms (Penrose-Hameroff, Stapp, chaotic sensitivity, self-organized criticality) addressing how consciousness could produce macroscopic effects from quantum-scale interactions. Core challenge for Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction). Target section: topics/.
+- **Output**: amplification mechanisms for consciousness-physics interaction
 
 ### ✓ 2026-03-18: Research amplification mechanisms for consciousness-physics interaction
 - **Type**: research-topic
