@@ -4,7 +4,7 @@ description: "What makes you *you* across time? The Map emphasizes indexical ide
 created: 2026-01-08
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-12T03:53:00+00:00
+ai_modified: 2026-03-18T21:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ Three main positions dominate the debate about what makes someone at one time th
 
 Recent phenomenological work distinguishes these from a more basic [[self-and-consciousness|minimal self]]—a pre-reflective first-person perspective present whenever consciousness is present. The minimal self is the "for-me-ness" of experience that persists even when narrative identity fragments. This suggests personal identity may have layers: a narrative layer that changes dramatically, and a minimal layer—the bare perspectival character of experience—that persists throughout.
 
-[[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]]—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *reconstruct* the past with a distinctive phenomenal character that marks the experience as yours. The [[anoetic-noetic-autonoetic-consciousness|constitutive view]] holds that this felt quality *defines* episodic memory—strip it away and what remains is factual knowledge, not genuine remembering. Yet as the [[past-self-void]] reveals, reconstruction can never fully access the original experience—the phenomenal state itself is gone, replaced by present simulation. The "pastness quale" that marks memories as genuinely yours points to something information storage cannot capture.
+[[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]]—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *reconstruct* the past with a distinctive phenomenal character that marks the experience as yours. The [[anoetic-noetic-autonoetic-consciousness|constitutive view]] holds that this felt quality *defines* episodic memory—strip it away and what remains is factual knowledge, not genuine remembering. Yet as the [[past-self-void]] reveals, reconstruction can never fully access the original experience—the phenomenal state itself is gone, replaced by present simulation. Each act of retrieval permanently alters the trace through reconsolidation, making [[consciousness-and-memory|consciousness a causal participant in memory's ongoing transformation]]—the self perpetually rewriting its own history. The "pastness quale" that marks memories as genuinely yours points to something information storage cannot capture.
 
 ## Parfit's Challenge
 

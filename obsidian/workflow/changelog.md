@@ -17,6 +17,19 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18 21:06 UTC - deep-review (orphan integration)
+- **Status**: Redirected — article archived
+- **File**: memory-consolidation-and-transformation-of-experience (archived 2026-03-18, coalesced into [[consciousness-and-memory]])
+- **Action**: Added 6 inbound cross-references to superseding article [[consciousness-and-memory]] from:
+  - [[sleep-and-consciousness]] (body text + related_articles)
+  - [[anoetic-noetic-autonoetic-consciousness]] (body text + related_articles)
+  - [[past-self-void]] (body text + related_articles)
+  - [[semantic-memory]] (body text + related_articles)
+  - [[personal-identity]] (body text)
+  - [[dream-consciousness]] (body text + related_articles)
+  - [[explanatory-gap]] (related_articles)
+- **Notes**: Source file no longer exists in obsidian (archived). Orphan status resolved by integrating superseding article into site navigation.
+
 ## 2026-03-18 20:58 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/the-epiphenomenalist-threat.md

@@ -4,7 +4,7 @@ description: "Dreams provide the most accessible everyday evidence for the filte
 created: 2026-01-21
 modified: 2026-02-23
 human_modified: null
-ai_modified: 2026-03-18T07:18:00+00:00
+ai_modified: 2026-03-18T21:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,6 +50,7 @@ related_articles:
   - "[[hypnagogic-phenomenology-and-interface-modulation]]"
   - "[[incubation-effect-and-unconscious-processing]]"
   - "[[consciousness-and-intelligence]]"
+  - "[[consciousness-and-memory]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -150,7 +151,7 @@ The problem-solving evidence reveals a graded relationship between phenomenal mo
 | Hypnagogic N1 | Loosely directed, maximally creative | Tripled mathematical insight (Lacaux et al. 2021) |
 | Lucid REM | Metacognitive, partially controlled | Deliberate information processing, two-way communication |
 
-Cognitive outcomes track this phenomenal gradient, not simply whether the brain is "processing." NREM slow-wave sleep involves substantial brain activity—including hippocampal-cortical replay—yet REM specifically enhances creative outcomes while NREM does not (Cai et al. 2009). The [[consciousness-and-intelligence|consciousness and intelligence]] debate often focuses on waking cognition; the dream evidence shows consciousness contributes through the *mode shifts* it undergoes during sleep—different filter configurations allowing different cognitive access. The [[incubation-effect-and-unconscious-processing|incubation effect]] explores the complementary waking side of this creative cycle.
+Cognitive outcomes track this phenomenal gradient, not simply whether the brain is "processing." NREM slow-wave sleep involves substantial brain activity—including the hippocampal-cortical replay that drives [[consciousness-and-memory|memory consolidation]]—yet REM specifically enhances creative outcomes while NREM does not (Cai et al. 2009). The [[consciousness-and-intelligence|consciousness and intelligence]] debate often focuses on waking cognition; the dream evidence shows consciousness contributes through the *mode shifts* it undergoes during sleep—different filter configurations allowing different cognitive access. The [[incubation-effect-and-unconscious-processing|incubation effect]] explores the complementary waking side of this creative cycle.
 
 ## Challenges: Illusionism and Epiphenomenalism
 

@@ -4,7 +4,7 @@ description: "Physical descriptions leave unexplained why neural activity feels 
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-14T20:43:00+00:00
+ai_modified: 2026-03-18T21:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ related_articles:
   - "[[consciousness-and-the-problem-of-measurement-standards]]"
   - "[[duhem-quine-underdetermination-consciousness]]"
   - "[[what-consciousness-tells-us-about-physics]]"
+  - "[[consciousness-and-memory]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
