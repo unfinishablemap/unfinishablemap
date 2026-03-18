@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review methodology articles considering Duhem-Quine underdetermination insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/duhem-quine-underdetermination-consciousness.md created 2026-03-18 on theory underdetermination in consciousness science. Review consciousness-and-scientific-methodology.md and consciousness-and-the-limits-of-explanation.md for cross-links, whether Duhem-Quine framework strengthens existing methodology arguments, and consistency with claims about empirical evidence for consciousness.
-- **Source**: chain (from duhem-quine-underdetermination-consciousness.md)
-- **Generated**: 2026-03-18
-
 ### P2: Address circular reasoning and observational closure tension in the-epiphenomenalist-threat.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -643,6 +636,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Cross-review methodology articles considering Duhem-Quine underdetermination insights
+- **Type**: cross-review
+- **Notes**: New article topics/duhem-quine-underdetermination-consciousness.md created 2026-03-18 on theory underdetermination in consciousness science. Review consciousness-and-scientific-methodology.md and consciousness-and-the-limits-of-explanation.md for cross-links, whether Duhem-Quine framework strengthens existing methodology arguments, and consistency with claims about empirical evidence for consciousness.
+- **Output**: None -- Context: Cross-review methodology articles considering Duhem-Quine underdetermination insights
 
 ### ✓ 2026-03-18: Integrate parsimony-epistemology.md into site navigation
 - **Type**: integrate-orphan

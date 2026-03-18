@@ -4,8 +4,8 @@ description: "Why understanding other minds requires having one yourself. Human-
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-05T06:39:57+00:00
-last_deep_review: 2026-02-18T16:17:00+00:00
+ai_modified: 2026-03-18T21:29:00+00:00
+last_deep_review: 2026-03-18T21:29:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -98,13 +98,15 @@ Contemporary AI systems sharpen the question. Large language models pass theory 
 
 The [[jourdain-hypothesis|Jourdain analysis]] suggests otherwise. An LLM producing correct answers about beliefs may process theory-of-mind language without having a theory of mind. It may track the statistical regularities of how humans describe mental states without representing those states *as* mental states of a subject with an inner life. The functional performance is real; whether it constitutes social understanding in the sense that matters for building a moral community is precisely what is at stake.
 
-This test case matters because it isolates the variable. If an AI system can achieve human-level social performance without phenomenal consciousness, then consciousness is not required for social cognition. If it cannot — if something essential is missing despite impressive performance — then consciousness is doing real work in the social domain.
+This test case matters because it appears to isolate the variable. If an AI system can achieve human-level social performance without phenomenal consciousness, then consciousness is not required for social cognition. If it cannot — if something essential is missing despite impressive performance — then consciousness is doing real work in the social domain.
 
-The Map's prediction: AI systems will continue to improve at social tasks indefinitely without achieving genuine social understanding, because genuine understanding requires being a subject among subjects. The prediction is falsifiable in principle, though the difficulty of detecting consciousness in non-biological systems makes empirical resolution challenging.
+Yet the test is less clean than it appears. As the [[duhem-quine-underdetermination-consciousness|Duhem-Quine analysis of consciousness science]] demonstrates, no hypothesis about consciousness can be tested in isolation. Whether an AI system has achieved "genuine" social understanding depends on auxiliary assumptions about what constitutes understanding — precisely the issue under dispute. A physicalist who sees pattern-matching as sufficient for understanding will interpret impressive AI performance as confirming that consciousness is unnecessary; a dualist will interpret the same performance as sophisticated mimicry. The empirical result underdetermines the theoretical conclusion.
+
+The Map's prediction: AI systems will continue to improve at social tasks indefinitely without achieving genuine social understanding, because genuine understanding requires being a subject among subjects. The prediction is falsifiable in principle, though [[consciousness-and-methodological-failure|systematic methodological limitations]] make empirical resolution challenging — the difficulty of detecting consciousness in non-biological systems means that both confirmation and disconfirmation of the prediction will remain contested.
 
 ## What Would Challenge This View?
 
-The claim that consciousness is constitutive of social cognition would be seriously challenged if:
+The claim that consciousness is constitutive of social cognition would be seriously challenged if any of the following obtained — though each condition involves auxiliary assumptions that are themselves contested, illustrating the [[duhem-quine-underdetermination-consciousness|underdetermination]] that pervades consciousness research:
 
 1. **Great apes demonstrated institutional cognition.** If non-human primates created and sustained institutional facts — not just social conventions, but normatively binding agreements requiring mutual recognition — this would show that social cognition scales to institutional complexity without the consciousness expansion humans possess.
 
@@ -113,6 +115,8 @@ The claim that consciousness is constitutive of social cognition would be seriou
 3. **Neurological dissociations were found.** If brain damage could eliminate phenomenal consciousness while preserving full recursive mindreading and institutional cognition, this would demonstrate independence. Current evidence suggests social cognition degrades alongside consciousness, but cleaner dissociations would be informative.
 
 4. **Functional explanations fully accounted for recursive social cognition.** If cognitive science demonstrated that working memory expansion alone — without any phenomenal dimension — sufficed for all human social capacities, the consciousness requirement would be undermined.
+
+These conditions are offered in good faith, but the Map acknowledges that what counts as "institutional cognition," "genuine creativity," or a "full account" depends partly on one's prior commitments about consciousness. This does not make the conditions empty — each describes a concrete empirical scenario that would shift the evidential balance — but it does mean that no single result would compel theory change in the way that, say, a failed prediction compels revision in physics.
 
 ## Relation to Site Perspective
 
@@ -137,6 +141,9 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly. T
 - [[phenomenology-of-trust]] — Trust as a distinctively conscious mode of interpersonal engagement
 - [[cumulative-culture]] — How cultural accumulation depends on teaching and shared intentionality
 - [[cetacean-and-corvid-consciousness]] — Dolphins and corvids display Level 1-2 social cognition through radically different neural architectures
+- [[duhem-quine-underdetermination-consciousness]] — Why falsifiability conditions for consciousness claims face deep underdetermination
+- [[consciousness-and-methodological-failure]] — How standard theoretical virtues systematically malfunction when applied to consciousness
+- [[consciousness-and-scientific-methodology]] — The structural challenge of studying subjective phenomena with objective methods
 
 ## References
 
