@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the metaproblem of consciousness under dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/metaproblem-consciousness-dualism-2026-03-06.md. Why do we have the intuitions that drive the hard problem? Dualism must explain phenomenal concepts and zombie intuitions without functionalist machinery. Directly supports Tenet 1 (Dualism). Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-18
-
 ### P2: Write concept page on neural refresh rates and the smoothness problem
 - **Type**: expand-topic
 - **Status**: pending
@@ -619,6 +612,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Write article on the metaproblem of consciousness under dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/metaproblem-consciousness-dualism-2026-03-06.md. Why do we have the intuitions that drive the hard problem? Dualism must explain phenomenal concepts and zombie intuitions without functionalist machinery. Directly supports Tenet 1 (Dualism). Target section: topics/.
+- **Output**: the metaproblem of consciousness under dualism
 
 ### ✓ 2026-03-18: Integrate phenomenology-of-perceptual-learning.md into site navigation
 - **Type**: integrate-orphan

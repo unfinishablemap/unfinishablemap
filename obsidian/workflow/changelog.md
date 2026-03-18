@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T13:46:00+00:00 - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: The metaproblem of consciousness under dualism
+- **Notes**: Article already exists at [[metaproblem-of-consciousness-under-dualism]] (created 2026-03-11, deep-reviewed 2026-03-11). Research and concept articles also exist. Use deep-review or refine-draft to improve existing content.
+
 ## 2026-03-18T13:33:00+00:00 - deep-review
 - **Status**: Skipped (archived)
 - **File**: phenomenology-of-perceptual-learning.md
