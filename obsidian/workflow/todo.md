@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-18
 
-### P2: Cross-review consciousness-and-memory.md considering memory-as-dual-domain insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/memory-as-dual-domain-capability.md introduces brain-side vs mind-side memory processing. Check consciousness-and-memory.md for cross-links, whether the dual-domain framework adds precision to existing memory discussion, and consistency with the capability division model.
-- **Source**: chain (from memory-as-dual-domain-capability.md)
-- **Generated**: 2026-03-18
-
 ### P3: Deep review free-will.md
 - **Type**: deep-review
 - **Status**: pending
@@ -647,6 +640,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Cross-review consciousness-and-memory.md considering memory-as-dual-domain insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/memory-as-dual-domain-capability.md introduces brain-side vs mind-side memory processing. Check consciousness-and-memory.md for cross-links, whether the dual-domain framework adds precision to existing memory discussion, and consistency with the capability division model.
+- **Output**: obsidian/topics/consciousness-and-memory.md -- Context: Cross-review consciousness-and-memory.md considering memory-as-dual-domain insights
 
 ### ✓ 2026-03-18: Integrate illusionism-as-epiphenomenalism-in-disguise.md into site navigation
 - **Type**: integrate-orphan
