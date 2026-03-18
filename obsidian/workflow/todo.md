@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research amplification mechanisms for consciousness-physics interaction
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: How do minimal quantum-scale biases (Tenet 2) become macroscopic behavioral selection? Survey Stapp's Quantum Zeno amplification, Penrose-Hameroff microtubule cascades, neural avalanche dynamics and criticality, biological signal amplification precedents, and whether quantum selection can exploit neural criticality. Supports queued concept page on the amplification problem and strengthens several existing articles on conscious selection mechanisms. Target section for eventual article: concepts/.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-18
-
 ### P3: Deep review free-will.md
 - **Type**: deep-review
 - **Status**: pending
@@ -608,6 +601,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Research amplification mechanisms for consciousness-physics interaction
+- **Type**: research-topic
+- **Notes**: How do minimal quantum-scale biases (Tenet 2) become macroscopic behavioral selection? Survey Stapp's Quantum Zeno amplification, Penrose-Hameroff microtubule cascades, neural avalanche dynamics and criticality, biological signal amplification precedents, and whether quantum selection can exploit neural criticality. Supports queued concept page on the amplification problem and strengthens several existing articles on conscious selection mechanisms. Target section for eventual article: concepts/.
+- **Output**: amplification mechanisms for consciousness-physics interaction
 
 ### ✓ 2026-03-18: Cross-review embodied-consciousness-and-the-interface.md considering dual-domain proprioception insights
 - **Type**: cross-review

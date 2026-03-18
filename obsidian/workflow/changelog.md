@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T16:14:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Amplification mechanisms for consciousness-physics interaction
+- **Output**: [[amplification-mechanisms-consciousness-physics-2026-03-18]]
+- **Sources consulted**: 13
+
 ## 2026-03-18T16:06:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[embodied-consciousness-and-the-interface]]
