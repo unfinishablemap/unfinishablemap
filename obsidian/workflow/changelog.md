@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T15:20:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[moral-perception]], [[moral-phenomenology]]
+- **Target**: [[moral-phenomenology-and-perception]]
+- **Archived**: [[archive/concepts/moral-perception]], [[archive/concepts/moral-phenomenology]]
+- **References to review**: 11 files reference archived articles (normative-phenomenology, consciousness-and-normative-force, phenomenal-normativity-environmental-ethics, epistemology-of-introspection, ethics-and-value-in-a-dualist-world, responsibility-gradient-from-attentional-capacity, phenomenology-of-moral-experience, moral-architecture-of-consciousness, phenomenology-of-moral-deliberation)
+
 ## 2026-03-18T15:03:00+00:00 - refine-draft
 - **Status**: Success
 - **File**: [[concepts/self-and-consciousness]]

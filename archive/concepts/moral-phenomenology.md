@@ -6,6 +6,11 @@ modified: 2026-02-19
 human_modified:
 ai_modified: 2026-02-19T01:34:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-18T15:20:00+00:00
+superseded_by: "/concepts/moral-phenomenology-and-perception/"
+archive_reason: "Coalesced into Moral Phenomenology and Perception"
+original_path: "/concepts/moral-phenomenology/"
 topics:
   - "[[ethics-of-consciousness]]"
   - "[[phenomenology-of-moral-experience]]"
