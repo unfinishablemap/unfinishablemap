@@ -46,7 +46,7 @@ Bidirectional Interaction is one of The Unfinishable Map's five foundational [te
 
 If consciousness is more than physical processes and yet we can report our experiences, then information about consciousness must enter the physical domain. When you say "I see red" or "that hurts," your words are physical events—air vibrations, written characters, neural impulses driving muscle contractions. If these physical events accurately convey facts about your conscious experience, then consciousness must have causally contributed to producing them.
 
-This seemingly simple observation has radical implications. It means consciousness is not a passive observer but a causal participant in physical reality. The felt quality of pain doesn't merely accompany avoidance behaviour—it causes it. In the Map's framework, [selection laws](/concepts/selection-laws/) specify the downward direction—how conscious states influence which physical outcomes become actual.
+This seemingly simple observation has radical implications. It means consciousness is not a passive observer but a causal participant in physical reality. The felt quality of pain doesn't merely accompany avoidance behaviour—it causes it. In the Map's framework, [selection laws](/concepts/psychophysical-laws/) specify the downward direction—how conscious states influence which physical outcomes become actual.
 
 ## The Self-Stultification Argument
 
@@ -147,7 +147,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 
 - [psychophysical-coupling](/concepts/psychophysical-laws/) — Specification of how phenomenal properties map to physical parameters
 - [coupling-modes](/concepts/coupling-modes/) — Three ways consciousness might influence quantum outcomes: basis, timing, or probability control
-- [selection-laws](/concepts/selection-laws/) — The downward direction of psychophysical laws
+- [selection-laws](/concepts/psychophysical-laws/) — The downward direction of psychophysical laws
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — The timing hierarchy from decoherence to neural decisions
 - [argument-from-reason](/topics/argument-from-reason/) — Complementary self-defeat argument targeting physicalism
 - [voluntary attention](/concepts/attention-as-interface/) — The attention interface with neural evidence

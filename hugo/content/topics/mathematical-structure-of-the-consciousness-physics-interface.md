@@ -97,7 +97,7 @@ Kleiner (2020) proposes the most general mathematical framework. Rather than mod
 
 The framework models consciousness through the product space E × P (experience × physical state space), with dynamical variables as subsets of this product. Crucially, E can instantiate as different mathematical structures depending on which aspect of experience is modelled: a Riemannian manifold for colour qualia (capturing similarity relations), a partial order for inclusion relations, a Hilbert space for the algebraic structure of simultaneous qualia, or a pretopological space for similarity without metrics.
 
-For the Map's dualist framework, Kleiner's approach is significant because it gives the experiential domain its own mathematical autonomy—E is not derived from or reducible to P. The coupling between E and P must be specified by additional mathematical structure, which is exactly the [selection law](/concepts/selection-laws/) the Map seeks. The framework does not itself commit to quantum-level interaction, but the Hilbert-space instantiation of E is naturally compatible with quantum formalism.
+For the Map's dualist framework, Kleiner's approach is significant because it gives the experiential domain its own mathematical autonomy—E is not derived from or reducible to P. The coupling between E and P must be specified by additional mathematical structure, which is exactly the [selection law](/concepts/psychophysical-laws/) the Map seeks. The framework does not itself commit to quantum-level interaction, but the Hilbert-space instantiation of E is naturally compatible with quantum formalism.
 
 ### Atmanspacher: Non-Commutative Operator Algebra
 
@@ -134,7 +134,7 @@ The mathematical structure of the consciousness-physics interface connects direc
 - [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — Why the Born rule's underivability suggests consciousness at the interface
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/) — What a complete specification of the interface must contain
 - [epistemology-of-mechanism-at-the-consciousness-matter-interface](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) — What epistemic methods can reach the interface
-- [selection-laws](/concepts/selection-laws/) — What selection laws must specify and candidate formulations
+- [selection-laws](/concepts/psychophysical-laws/) — What selection laws must specify and candidate formulations
 - [coupling-modes](/concepts/coupling-modes/) — Taxonomy of how consciousness couples: basis, timing, or probability control
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — The reverse inference from mind to matter
 - [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) — What happens to consciousness in unresolved quantum superpositions

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-09 11:31:00+00:00
+ai_modified: 2026-03-18 22:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -51,7 +51,7 @@ O'Regan and Noë identify two main levels of contingency:
 
 ## Merleau-Ponty's Body-Subject
 
-Sensorimotor contingency theory has deep roots in Merleau-Ponty's phenomenology of the *corps propre* — the body-subject. Building on Husserl's distinction between the body as experienced from within (*Leib*) and the body as observed from without (*Körper*), Merleau-Ponty argued that the body-subject is neither a physical object among objects nor a disembodied mind directing a mechanism. It is the medium of engagement with the world, experienced as a field of capacities — what Merleau-Ponty called the "I can" that precedes the "I think."
+Sensorimotor contingency theory has deep roots in Merleau-Ponty's phenomenology of the *corps propre* — the body-subject. Building on Husserl's distinction between the body as experienced from within (*Leib*) and the body as observed from without (*Körper*) — a distinction developed phenomenologically in the Map's [treatment of embodied experience](/topics/phenomenology-of-embodiment-under-dualism/) — Merleau-Ponty argued that the body-subject is neither a physical object among objects nor a disembodied mind directing a mechanism. It is the medium of engagement with the world, experienced as a field of capacities — what Merleau-Ponty called the "I can" that precedes the "I think."
 
 The body schema illustrates this. An experienced driver does not represent the car's dimensions explicitly; the car's boundaries become part of the driver's felt sense of spatial capacity. A blind person's cane is not a perceived object but an extension of tactile reach. Tool incorporation — the body schema expanding to encompass instruments — reveals that the interface between consciousness and world is not fixed at the skin. It is plastic, extending and contracting with skill and equipment.
 

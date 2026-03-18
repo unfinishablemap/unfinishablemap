@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-03-18 12:21:00+00:00
+ai_modified: 2026-03-18 20:50:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ description: Lucid dreaming reveals that consciousness renders phenomenal worlds
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-18 12:21:00+00:00
+last_deep_review: 2026-03-18 20:50:00+00:00
 modified: *id001
 related_articles:
 - '[[capability-division-problem]]'

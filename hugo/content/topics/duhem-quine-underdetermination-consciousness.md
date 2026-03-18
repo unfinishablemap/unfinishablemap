@@ -29,6 +29,7 @@ related_articles:
 - '[[epistemology-of-introspection]]'
 - '[[epistemology-of-phenomenal-reports]]'
 - '[[epistemic-advantages-of-dualism]]'
+- '[[parsimony-epistemology]]'
 title: Duhem-Quine Underdetermination in Consciousness Science
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -84,7 +85,7 @@ Applied to consciousness science—where over 325 distinct theories have been ca
 
 When evidence underdetermines theory choice, what guides scientists? The [phenomenology of epistemic cognition](/topics/phenomenology-of-epistemic-cognition/) suggests that evidence carries felt weight—a gravitational pull toward conclusions that involves more than neutral information processing. Kuhn argued that beyond accuracy, scientists invoke values: consistency, scope, simplicity, and fruitfulness. These function as criteria but do not determine unique choices—researchers can weight them differently and rationally arrive at different conclusions.
 
-This has direct implications for consciousness science. Physicalist theories are often preferred on grounds of simplicity—they do not posit entities beyond the physical. But as the Map's analysis of [Occam's Razor](/arguments/epistemological-limits-of-occams-razor/) shows, simplicity is unreliable when knowledge is incomplete. The [epistemic advantages of non-materialist theories](/topics/epistemic-advantages-of-dualism/) develop this further: the apparent parsimony of physicalism may reflect conceptual poverty rather than ontological insight, closing intellectual territory that epistemic humility would keep open.
+This has direct implications for consciousness science. Physicalist theories are often preferred on grounds of simplicity—they do not posit entities beyond the physical. But as the Map's analysis of [Occam's Razor](/arguments/epistemological-limits-of-occams-razor/) and [the domain-sensitivity of parsimony](/concepts/parsimony-epistemology/) shows, simplicity is unreliable when knowledge is incomplete. The [epistemic advantages of non-materialist theories](/topics/epistemic-advantages-of-dualism/) develop this further: the apparent parsimony of physicalism may reflect conceptual poverty rather than ontological insight, closing intellectual territory that epistemic humility would keep open.
 
 The problem runs deeper than parsimony alone. The Map's examination of [theoretical virtues in consciousness science](/topics/consciousness-and-methodological-failure/) shows that the entire suite of Kuhnian values—empirical adequacy, explanatory power, simplicity, scope, fertility, elegance—systematically malfunctions when applied to consciousness. Empirical adequacy cannot discriminate between physicalism and property dualism because both accommodate third-person data while the target explanandum (phenomenal experience) is invisible to third-person methods. Elegance and fertility are assessed through phenomenal states—aesthetic response, sense of understanding—which are part of the phenomenon under investigation, creating a circularity that undermines their neutrality. These virtues were calibrated in domains where the observer plays no constitutive role; they cannot be assumed to function reliably where the observer is constitutive of the subject matter.
 

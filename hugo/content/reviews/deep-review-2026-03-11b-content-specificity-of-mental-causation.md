@@ -68,7 +68,7 @@ All strengths identified in the first review remain intact:
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) (new subsection + Further Reading)
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) (body text + Further Reading)
 - [qualia](/concepts/qualia/) (body text)
-- [selection-laws](/concepts/selection-laws/) (body text + Further Reading)
+- [selection-laws](/concepts/psychophysical-laws/) (body text + Further Reading)
 - [downward-causation](/concepts/downward-causation/) (Further Reading)
 
 ## Word Count

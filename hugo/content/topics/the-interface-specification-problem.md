@@ -97,7 +97,7 @@ The specification problem is not merely unsolved—it may be structurally diffic
 
 ### The Concept Gap
 
-We may lack the right concepts. Physical laws relate physical quantities to each other—force to mass, energy to frequency. [Selection-laws](/concepts/selection-laws/) would relate phenomenal quantities to physical quantities. But phenomenal quantities resist the kind of measurement and mathematical formalisation that physical quantities permit. How much attention is "twice as much"? Is there a natural unit of effort?
+We may lack the right concepts. Physical laws relate physical quantities to each other—force to mass, energy to frequency. [Selection-laws](/concepts/psychophysical-laws/) would relate phenomenal quantities to physical quantities. But phenomenal quantities resist the kind of measurement and mathematical formalisation that physical quantities permit. How much attention is "twice as much"? Is there a natural unit of effort?
 
 Psychophysics has scaling methods (Stevens' power law relates stimulus intensity to perceived intensity), but these relate physical inputs to behavioural outputs—the phenomenal middleman is inferred, not measured. A genuine selection law would need to quantify phenomenal states *as* phenomenal states, not merely as their physical correlates. We currently have no way to do this.
 
@@ -178,7 +178,7 @@ The specification problem is the Map's most significant open challenge. Acknowle
 
 ## Further Reading
 
-- [selection-laws](/concepts/selection-laws/) — What selection laws must specify and candidate formulations
+- [selection-laws](/concepts/psychophysical-laws/) — What selection laws must specify and candidate formulations
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Fundamental principles connecting conscious experience to physical processes
 - [coupling-modes](/concepts/coupling-modes/) — Taxonomy of how consciousness couples: basis, timing, or probability control
 - [mental-causation](/concepts/mental-causation/) — The broader case for consciousness causing physical effects

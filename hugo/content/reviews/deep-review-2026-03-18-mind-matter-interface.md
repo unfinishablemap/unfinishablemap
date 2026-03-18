@@ -62,13 +62,13 @@ All six pessimistic personas engaged:
 - Added Tonetto's "statistical closure with outcome-level openness" framing to Layer 2, replacing the imprecise "causal closure fails at collapse"
 - Added mathematical corridor constraints (Born rule, inner product, no higher-order interference) to the "Causal efficacy" subsection
 - Strengthened the Minimal Quantum Interaction tenet connection with precise mathematical bounds
-- Added cross-links to [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) and [selection-laws](/concepts/selection-laws/) in Further Reading
+- Added cross-links to [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) and [selection-laws](/concepts/psychophysical-laws/) in Further Reading
 - Added [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) to related_articles frontmatter
 
 ### Cross-links Added
 
 - [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) (in text, Further Reading, and frontmatter)
-- [selection-laws](/concepts/selection-laws/) (Further Reading)
+- [selection-laws](/concepts/psychophysical-laws/) (Further Reading)
 
 ## Remaining Items
 

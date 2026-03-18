@@ -25,6 +25,7 @@ related_articles:
 - '[[consciousness-and-methodological-failure]]'
 - '[[phenomenology-of-conceptual-change]]'
 - '[[phenomenology-of-framework-inhabitation]]'
+- '[[parsimony-epistemology]]'
 title: Consciousness and the Structure of Scientific Revolutions
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -88,7 +89,7 @@ These features suggest that the consciousness debate may demand a different kind
 
 The Unfinishable Map interprets Kuhn's framework as illuminating rather than resolving the consciousness debate.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Kuhn showed that paradigm choice is not determined by simplicity alone. Scientists in different paradigms weight theoretical virtues differently. The preference for physicalism on grounds of parsimony reflects the incumbent paradigm's values, not a neutral assessment. As the Map argues, simplicity is unreliable when knowledge is incomplete — and Kuhn's own work demonstrates that scientists routinely adopt more complex frameworks when simpler ones fail to handle anomalies.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Kuhn showed that paradigm choice is not determined by simplicity alone. Scientists in different paradigms weight theoretical virtues differently. The preference for physicalism on grounds of parsimony reflects the incumbent paradigm's values, not a neutral assessment. [Parsimony epistemology](/concepts/parsimony-epistemology/) shows that simplicity is unreliable when knowledge is incomplete — and Kuhn's own work demonstrates that scientists routinely adopt more complex frameworks when simpler ones fail to handle anomalies.
 
 **[Dualism](/tenets/#dualism)**: The Kuhnian analysis does not prove dualism. It reframes the dialectic. If physicalism is a paradigm in crisis rather than an established truth, then dualism is not a reactionary retreat to pre-scientific thinking but a candidate successor framework responding to genuine anomalies. The explanatory gap, the hard problem, and conceivability arguments are not puzzles awaiting physicalist solutions — they are the anomalies driving crisis.
 

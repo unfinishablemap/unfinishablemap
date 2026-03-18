@@ -30,6 +30,7 @@ related_articles:
 - '[[dualism]]'
 - '[[philosophical-zombies]]'
 - '[[pragmatisms-path-to-dualism]]'
+- '[[parsimony-epistemology]]'
 title: Epistemic Advantages of Non-Materialist Theories
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -94,7 +95,7 @@ The deepest argument for maintaining dualism as a live option is epistemic humil
 
 **We don't know how to solve the hard problem.** After decades of effort, no materialist theory convincingly explains why there is something it is like to be conscious. [Illusionism](/concepts/illusionism/) denies the explanandum; [phenomenal concepts](/concepts/phenomenal-concepts-strategy/) explanations fail to dissolve the mystery. The persistence of the [hard problem](/topics/hard-problem-of-consciousness/) suggests we may be missing something fundamental.
 
-**Historical precedent warns against premature closure.** [Occam's Razor has limits](/tenets/#occams-limits) because apparent simplicity has repeatedly misled us. Materialism's claim to parsimony—one substance instead of two—assumes we understand what parsimony means in domains we don't fully grasp.
+**Historical precedent warns against premature closure.** [Occam's Razor has limits](/tenets/#occams-limits) because apparent simplicity has repeatedly misled us. As [parsimony-epistemology](/concepts/parsimony-epistemology/) details, materialism's claim to parsimony—one substance instead of two—assumes we understand what simplicity means in domains we don't fully grasp.
 
 **The cost of being wrong cuts both ways—but not equally.** If materialists are wrong and consciousness is indeed irreducible, they've foreclosed understanding of potentially vast aspects of reality—and may be committing ongoing moral harms by denying consciousness to beings that have it. If dualists are wrong, the costs are real and should not be minimised: misdirected research funding away from productive neuroscience, irrational policy around AI consciousness and end-of-life decisions, intellectual cover for pseudoscientific movements, and potentially decades of delayed progress on understanding consciousness through the frameworks that actually work.
 

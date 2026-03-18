@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-03-12 05:19:00+00:00
+ai_modified: 2026-03-18 20:50:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -128,6 +128,7 @@ The claim that multimodal binding exposes an irreducible gap would face difficul
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — The atmospheric character of places as multimodal integration
 - [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) — Spatial binding across visual, auditory, proprioceptive, and vestibular modalities
 - [perception-and-conscious-experience](/topics/perception-and-conscious-experience/) — Perceptual experience as the paradigm case of binding
+- [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Multisensory dream experience without sensory input demonstrates phenomenal completeness independent of external stimulation
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Temporal binding and the specious present
 
 ## References

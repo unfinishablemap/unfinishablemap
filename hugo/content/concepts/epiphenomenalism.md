@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-03-18 19:57:00+00:00
+ai_modified: 2026-03-18 20:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -190,6 +190,7 @@ The self-stultification problem remains the strongest objection for human consci
 - [the-reverse-inference](/topics/the-reverse-inference/) — The reverse direction: using consciousness as secure datum to constrain physics, rather than dismissing it as epiphenomenal
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's alternative framework
 - [dream-consciousness](/topics/dream-consciousness/) — Dream problem-solving tracks phenomenal mode, creating empirical difficulties for epiphenomenalism
+- [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Two-way dream communication and puzzle-incorporation studies create specific empirical difficulties for epiphenomenalism
 - [language-and-consciousness](/concepts/language-and-consciousness/) — Grice's theory of meaning strengthens the case against epiphenomenalism
 - [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — Value-blind selection risks making the evaluative dimension of consciousness epiphenomenal
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Consciousness in simple organisms; challenges the tracking coincidence

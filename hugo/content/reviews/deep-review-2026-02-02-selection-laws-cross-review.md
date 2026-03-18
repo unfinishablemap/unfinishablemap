@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Selection Laws](/concepts/selection-laws/)
+**Article**: [Selection Laws](/concepts/psychophysical-laws/)
 **Previous review**: [2026-02-02](/reviews/deep-review-2026-02-02-selection-laws/) (earlier today)
 **Focus**: Orphan integration — adding inbound links from related articles
 
@@ -53,7 +53,7 @@ This review focused on **integration** rather than content enhancement:
 6. `concepts/quantum-consciousness.md` — new sentence connecting selection laws
 
 **Frontmatter updates:**
-- Added `[selection-laws](/concepts/selection-laws/)` to concepts list in all six articles
+- Added `[selection-laws](/concepts/psychophysical-laws/)` to concepts list in all six articles
 - Added to Further Reading sections with consistent description
 
 ### Cross-links Added

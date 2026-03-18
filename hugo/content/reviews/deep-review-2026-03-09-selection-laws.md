@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-09
-**Article**: [Selection Laws](/concepts/selection-laws/)
+**Article**: [Selection Laws](/concepts/psychophysical-laws/)
 **Previous review**: [2026-02-02](/reviews/deep-review-2026-02-02-selection-laws/)
 
 ## Pessimistic Analysis Summary

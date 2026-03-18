@@ -44,7 +44,7 @@ topics: []
 ### Cross-links Added (Inbound to valence-as-selection-currency)
 
 **Inline cross-references** (contextual mentions within article body):
-- [selection-laws](/concepts/selection-laws/) — In "What Selection Laws Must Specify" section, after mentioning valence as undeveloped candidate
+- [selection-laws](/concepts/psychophysical-laws/) — In "What Selection Laws Must Specify" section, after mentioning valence as undeveloped candidate
 - [valence](/concepts/valence/) — In "Relation to Site Perspective", after the value-blind fork mention
 - [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — In conclusion, noting this article develops the value-sensitive horn
 - [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/) — In "Minimal Quantum Interaction" section, linking "currency of conscious selection"
@@ -56,7 +56,7 @@ topics: []
 
 **Further Reading additions**:
 - [valence](/concepts/valence/) — Added to Further Reading
-- [selection-laws](/concepts/selection-laws/) — Added to Further Reading
+- [selection-laws](/concepts/psychophysical-laws/) — Added to Further Reading
 - [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — Added to Further Reading
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Added to Further Reading
 

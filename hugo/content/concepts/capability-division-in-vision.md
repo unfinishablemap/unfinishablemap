@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-17 23:29:00+00:00
+ai_modified: 2026-03-18 20:50:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -104,6 +104,7 @@ One speculative possibility: the mind-side contribution in vision may not be an 
 - [binding-void](/voids/binding-void/) — Why perceptual binding tracks with conscious awareness
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — The three functions consciousness enables that vision exemplifies
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — How vision dissociations map the interface's functional anatomy
+- [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Dreams demonstrate the converse of blindsight: phenomenal experience without visual input, with the same dorsal/ventral division shaping dream imagery
 - [interactionist-dualism](/concepts/interactionist-dualism/)
 - [epiphenomenalism](/concepts/epiphenomenalism/)
 

@@ -43,7 +43,7 @@ This proposal develops the value-sensitive horn of the [value-blind vs value-sen
 
 A currency is a common measure that enables comparison between otherwise incommensurable goods. Money converts the value of bread, labour, and land into a single dimension. Cleeremans and Tallon-Baudry (2022) suggest that phenomenal experience might act as "a mental currency of sorts," enabling conscious agents to compare vastly different experiences in a common subject-centred space—the warmth of sunlight against the satisfaction of solving a problem, the sting of rejection against the ache of a toothache.
 
-The selection currency thesis takes this metaphor literally. If [selection-laws](/concepts/selection-laws/) require consciousness to evaluate competing neural patterns and actualise one, the evaluation needs a common dimension. Individual experiences differ in every qualitative respect—colour, sound, texture, emotion—but they share the valence dimension. As Carruthers (2018) argues, valence is not a mere accompaniment to experience but constitutive of its evaluative character. Every conscious state carries some degree of felt goodness or badness. This universal dimension is what makes selection *commensurable*: consciousness can compare outcomes that differ in kind because they share a metric that differs only in degree.
+The selection currency thesis takes this metaphor literally. If [selection-laws](/concepts/psychophysical-laws/) require consciousness to evaluate competing neural patterns and actualise one, the evaluation needs a common dimension. Individual experiences differ in every qualitative respect—colour, sound, texture, emotion—but they share the valence dimension. As Carruthers (2018) argues, valence is not a mere accompaniment to experience but constitutive of its evaluative character. Every conscious state carries some degree of felt goodness or badness. This universal dimension is what makes selection *commensurable*: consciousness can compare outcomes that differ in kind because they share a metric that differs only in degree.
 
 Without a common currency, selection among qualitatively different outcomes would be impossible. How does consciousness choose between attending to a visual pattern and a motor plan? Not by comparing colours with movements—these are incommensurable. But if each anticipated outcome carries a valence signature—a felt sense of how it would be to actualise that pattern—then comparison becomes possible. The brain presents options; valence denominates them; consciousness selects.
 
@@ -91,7 +91,7 @@ This connects to [phenomenal-value-realism](/topics/phenomenal-value-realism/) i
 
 ## The Psychophysical Law
 
-What would a psychophysical law relating valence to selection look like? The [selection-laws](/concepts/selection-laws/) article identifies the gap: valence is listed as a candidate mental variable but "lacks a developed mechanism specifying how the mental variable connects to physical selection."
+What would a psychophysical law relating valence to selection look like? The [selection-laws](/concepts/psychophysical-laws/) article identifies the gap: valence is listed as a candidate mental variable but "lacks a developed mechanism specifying how the mental variable connects to physical selection."
 
 Two integration strategies are available:
 
@@ -152,7 +152,7 @@ The selection currency thesis is where several of the Map's tenets converge into
 ## Further Reading
 
 - [valence](/concepts/valence/) — The positive-negative dimension of experience
-- [selection-laws](/concepts/selection-laws/) — The framework for how consciousness influences physical outcomes
+- [selection-laws](/concepts/psychophysical-laws/) — The framework for how consciousness influences physical outcomes
 - [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — The fork this article develops
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — Why emotional consciousness provides distinctive evidence for dualism
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value

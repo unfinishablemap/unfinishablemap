@@ -117,7 +117,7 @@ If non-physical consciousness moves matter, doesn't energy appear from nowhere? 
 
 ### The Specification Challenge
 
-Even granting the quantum opening, *which* phenomenal properties map to *which* physical selections? The [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) provides the conceptual structure: Chalmers distinguished *supervenience laws* from what the Map calls *[selection laws](/concepts/selection-laws/)* — laws specifying how consciousness participates in determining physical outcomes.
+Even granting the quantum opening, *which* phenomenal properties map to *which* physical selections? The [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) provides the conceptual structure: Chalmers distinguished *supervenience laws* from what the Map calls *[selection laws](/concepts/psychophysical-laws/)* — laws specifying how consciousness participates in determining physical outcomes.
 
 The [psychophysical-laws](/concepts/psychophysical-laws/) article surveys five candidate mechanisms, of which only two meet basic adequacy standards: attention → observation rate (Stapp) and intention → probability weighting (Eccles). These operate through different [coupling-modes](/concepts/coupling-modes/) with distinct implications for detectability. The related [bandwidth problem](/concepts/bandwidth-problem-mental-causation/) — whether the mind-body channel carries enough information — is resolved by [hierarchical selection](/topics/bandwidth-of-consciousness/): consciousness selects at policy level while unconscious systems supply fine-grained detail.
 
@@ -190,7 +190,7 @@ Mental causation, as defended here, is falsifiable:
 - [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) — Mental imagery as a test case for consciousness's causal efficacy
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The evolutionary argument for consciousness's causal effects
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Framework requiring selection laws for mental causation
-- [selection-laws](/concepts/selection-laws/) — How mental states select physical outcomes
+- [selection-laws](/concepts/psychophysical-laws/) — How mental states select physical outcomes
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Candidate coupling mechanisms
 - [coupling-modes](/concepts/coupling-modes/) — Taxonomy: basis, timing, or probability control
 - [causal-delegation](/concepts/causal-delegation/) — Mechanism by which physical states hand off causal work to experiences

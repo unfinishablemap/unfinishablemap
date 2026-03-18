@@ -134,7 +134,7 @@ The distinction matters for the interface view. Cognitive blindness is a limitat
 - [cognitive closure](/concepts/mysterianism/) — Why some features of mind-body interaction may be permanently inaccessible
 - [probability-intuition-void](/voids/probability-intuition-void/) — The cognitive void at the heart of probabilistic reasoning
 - [narrative-coherence](/concepts/narrative-coherence/) — How narrative structure overrides probabilistic reasoning
-- [selection-laws](/concepts/selection-laws/) — Formalising consciousness's downward selection among quantum outcomes
+- [selection-laws](/concepts/psychophysical-laws/) — Formalising consciousness's downward selection among quantum outcomes
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — What genuine uncertainty feels like from the inside
 
 ## References

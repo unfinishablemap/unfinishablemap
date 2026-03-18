@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-09 11:17:00+00:00
+ai_modified: 2026-03-18 21:06:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -35,6 +35,7 @@ related_articles:
 - '[[capability-division-problem]]'
 - '[[memory-as-dual-domain-capability]]'
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
+- '[[consciousness-and-memory]]'
 title: Sleep and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -97,13 +98,13 @@ The [attention-as-interface](/concepts/attention-as-interface/) hypothesis propo
 
 ## Memory Consolidation Without Consciousness
 
-Memory consolidation involves coordinated interaction between hippocampal sharp-wave ripples, thalamocortical sleep spindles, and cortical slow oscillations. A 2023 Nature Neuroscience study confirmed their causal role by showing that augmenting hippocampal-prefrontal synchrony enhanced consolidation. None of this is experienced—the process is computationally complex but phenomenally silent. This dissociation exemplifies the Map's [capability division problem](/voids/capability-division-problem/): consolidation is a brain-side capability that proceeds autonomously, while the selectional and phenomenal contributions of consciousness—the [mind-side of memory](/concepts/memory-as-dual-domain-capability/)—disengage entirely.
+Memory consolidation involves coordinated interaction between hippocampal sharp-wave ripples, thalamocortical sleep spindles, and cortical slow oscillations. A 2023 Nature Neuroscience study confirmed their causal role by showing that augmenting hippocampal-prefrontal synchrony enhanced consolidation. None of this is experienced—the process is computationally complex but phenomenally silent. This dissociation exemplifies the Map's [capability division problem](/voids/capability-division-problem/): consolidation is a brain-side capability that proceeds autonomously, while the selectional and phenomenal contributions of consciousness—the [mind-side of memory](/concepts/memory-as-dual-domain-capability/)—disengage entirely. The full treatment of how [consciousness and memory](/topics/consciousness-and-memory/) interact—encoding's dependence on attention, consolidation's independence from it, and the reconsolidation cycle where waking retrieval reopens memories to conscious influence—develops these themes comprehensively.
 
 If consciousness were identical to neural computation, this would be mysterious. The [hard problem](/topics/hard-problem-of-consciousness/) sharpens: why does some neural computation produce experience while other computation, equally complex, produces nothing? The interface framework answers: consciousness interfaces with the brain through specific mechanisms ([attention](/concepts/attention-as-interface/), [working memory](/concepts/working-memory/), [global broadcast](/concepts/global-workspace-theory/)). When these are offline, computation proceeds without consciousness.
 
 ## Lucid Dreaming as Interface Reactivation
 
-[Lucid dreaming](/topics/dream-consciousness/) demonstrates that the consciousness interface can reactivate during sleep through training. Prefrontal regions normally quiescent during REM come back online, restoring metacognitive awareness while preserving dream immersion. The 2025 Demirel findings characterized lucid dreaming as a distinct state: beta/gamma resonance, precuneus and insula activation, and coherence between default mode and salience networks.
+[Lucid dreaming](/topics/dream-consciousness/) demonstrates that the consciousness interface can reactivate during sleep through training. Prefrontal regions normally quiescent during REM come back online, restoring metacognitive awareness while preserving dream immersion. The 2025 Demirel findings characterized lucid dreaming as a distinct state: beta/gamma resonance, precuneus and insula activation, and coherence between default mode and salience networks. The [capability signatures visible in lucid dreams](/topics/lucid-dreaming-and-dualist-rendering/)—intention-responsiveness, vividness surplus, phenomenal completeness, and metacognitive sovereignty—map the division between brain-side architecture and mind-side rendering.
 
 This proves the interface is trainable—the boundary between sleep states is plastic. For The Unfinishable Map's framework, this has implications for [meditation](/concepts/meditation-and-consciousness-modes/): if the interface can be reactivated during sleep, the same mechanisms may underlie contemplative development during waking.
 

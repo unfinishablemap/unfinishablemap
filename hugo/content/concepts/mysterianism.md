@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-17 08:14:00+00:00
+ai_modified: 2026-03-18 21:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -207,7 +207,7 @@ The mysterian response: we succeed with properties that fall within our cognitiv
 
 Mysterianism connects to all five tenets:
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Strongest alignment. The [epistemological limits of parsimony](/voids/epistemological-limits-occams-razor/) show that parsimony's precondition—equal explanatory power—is unmet for consciousness, and that none of the standard justifications for preferring simpler scientific theories extend to this metaphysical domain (Huemer 2009). Mysterianism explains *why* at a deeper level: if cognitive closure applies, our very sense of which explanations are "simple" is constrained by the same architecture that cannot grasp the mind-brain connection. We don't merely lack a good reason to prefer the "simpler" theory; we lack the capacity to know which theory is simpler where consciousness is concerned.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Strongest alignment. [Parsimony epistemology](/concepts/parsimony-epistemology/) reveals that "simplicity" is not one property but several competing dimensions, and the [epistemological limits of parsimony](/voids/epistemological-limits-occams-razor/) show that parsimony's precondition—equal explanatory power—is unmet for consciousness, and that none of the standard justifications for preferring simpler scientific theories extend to this metaphysical domain (Huemer 2009). Mysterianism explains *why* at a deeper level: if cognitive closure applies, our very sense of which explanations are "simple" is constrained by the same architecture that cannot grasp the mind-brain connection. We don't merely lack a good reason to prefer the "simpler" theory; we lack the capacity to know which theory is simpler where consciousness is concerned.
 
 **[Dualism](/tenets/#dualism)**: Officially neutral but compatible. Mysterians accept consciousness is real and requires explanation. The Map goes further, treating irreducibility as commitment rather than remaining agnostic.
 

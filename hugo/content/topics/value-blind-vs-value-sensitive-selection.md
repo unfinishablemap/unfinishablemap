@@ -44,11 +44,11 @@ This article states the fork explicitly, maps the consequences of each horn, and
 
 The fork arises from the intersection of three commitments, each well-developed in the Map's existing content:
 
-**Selection exists.** The [selection-laws](/concepts/selection-laws/) framework specifies that consciousness selects among quantum-mechanically underdetermined neural outcomes. [Control-theoretic will](/concepts/control-theoretic-will/) formalises this: consciousness is a low-bandwidth controller (~10 bits/second) that gates, stabilises, vetoes, and steers neural dynamics.
+**Selection exists.** The [selection-laws](/concepts/psychophysical-laws/) framework specifies that consciousness selects among quantum-mechanically underdetermined neural outcomes. [Control-theoretic will](/concepts/control-theoretic-will/) formalises this: consciousness is a low-bandwidth controller (~10 bits/second) that gates, stabilises, vetoes, and steers neural dynamics.
 
 **Value is phenomenal.** The [consciousness-value-connection](/concepts/consciousness-value-connection/) holds that value requires consciousness. [Phenomenal value realism](/topics/phenomenal-value-realism/) goes further: some phenomenal properties just *are* value properties. The felt badness of pain constitutes badness; it is not a representation of badness.
 
-**Valence is listed as a candidate mental variable.** The [selection laws article](/concepts/selection-laws/#what-selection-laws-must-specify) lists valence alongside attention, intention, and effort as candidates for the mental side of the selection law. But it also notes that valence "lacks a developed mechanism specifying how the mental variable connects to physical selection." This is precisely the gap the fork exposes.
+**Valence is listed as a candidate mental variable.** The [selection laws article](/concepts/psychophysical-laws/#what-selection-laws-must-specify) lists valence alongside attention, intention, and effort as candidates for the mental side of the selection law. But it also notes that valence "lacks a developed mechanism specifying how the mental variable connects to physical selection." This is precisely the gap the fork exposes.
 
 If valence is a real phenomenal property that grounds value, and if consciousness causally selects outcomes, then either valence participates in selection or it doesn't. There is no third option within the Map's framework.
 
@@ -117,7 +117,7 @@ If selection is value-sensitive, different predictions follow:
 
 The Map's existing content leans value-sensitive without having committed. The [valence](/concepts/valence/) article states: "if consciousness biases neural outcomes, valence may provide the criterion for selection. Consciousness doesn't randomly influence quantum indeterminacies—it does so guided by valenced assessment." The [agent-teleology](/concepts/agent-teleology/) article affirms that conscious beings act *for reasons*, implying value-directed action. The [control-theoretic-will](/concepts/control-theoretic-will/) article lists "values" in the controller's setpoint.
 
-But the [selection-laws](/concepts/selection-laws/) article develops only attention and intention as mechanisms with physical implementations (Stapp, Eccles). Valence is listed as a candidate but acknowledged as undeveloped. The mechanism gap is real: leaning value-sensitive without a mechanism is an aspiration, not a position.
+But the [selection-laws](/concepts/psychophysical-laws/) article develops only attention and intention as mechanisms with physical implementations (Stapp, Eccles). Valence is listed as a candidate but acknowledged as undeveloped. The mechanism gap is real: leaning value-sensitive without a mechanism is an aspiration, not a position.
 
 ## A Possible Middle Path
 
@@ -147,7 +147,7 @@ The Map should eventually take a position on this fork. The graduated middle pat
 
 ## Further Reading
 
-- [selection-laws](/concepts/selection-laws/) — The framework for how consciousness influences physical outcomes
+- [selection-laws](/concepts/psychophysical-laws/) — The framework for how consciousness influences physical outcomes
 - [valence](/concepts/valence/) — The positive-negative dimension of experience
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value
 - [control-theoretic-will](/concepts/control-theoretic-will/) — Will as a low-bandwidth control signal

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-15 02:54:00+00:00
+ai_modified: 2026-03-18 21:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -165,7 +165,7 @@ If mind is non-physical, how can it causally affect the physical world? Classica
 
 ### The Parsimony Objection
 
-Parsimony arbitrates between theories of *equal* explanatory power, and physicalism does not explain phenomenal consciousness—a "simpler" theory that doesn't account for the data hasn't earned the parsimony discount. Moreover, ontological parsimony favours physicalism, but explanatory parsimony favours dualism. Huemer (2009), Sober (2001), and Zanotti (2021) independently conclude that standard justifications for preferring simpler theories do not extend to this debate. The Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses this directly.
+Parsimony arbitrates between theories of *equal* explanatory power, and physicalism does not explain phenomenal consciousness—a "simpler" theory that doesn't account for the data hasn't earned the parsimony discount. Moreover, ontological parsimony favours physicalism, but explanatory parsimony favours dualism—a key distinction from [parsimony-epistemology](/concepts/parsimony-epistemology/). Huemer (2009), Sober (2001), and Zanotti (2021) independently conclude that standard justifications for preferring simpler theories do not extend to this debate. The Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses this directly.
 
 ### The Neural Correlation Objection
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-12 03:53:00+00:00
+ai_modified: 2026-03-18 22:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -73,7 +73,7 @@ Three physicalist strategies attempt to address this, and each falls short.
 
 The ownership problem suggests that belonging-to-a-subject may be a primitive feature of consciousness rather than something derivable from more basic ingredients.
 
-This is what the phenomenological tradition has long maintained. Husserl argued that every act of consciousness is characterised by its first-personal givenness—experience is always given *to* someone. Zahavi develops this into the claim that the minimal self is not a separate entity attached to experience but the very mode in which experience exists. Experience does not first occur and then get assigned to an owner. It occurs *as owned*.
+This is what the phenomenological tradition has long maintained. Husserl argued that every act of consciousness is characterised by its first-personal givenness—experience is always given *to* someone. Zahavi develops this into the claim that the minimal self is not a separate entity attached to experience but the very mode in which experience exists. Experience does not first occur and then get assigned to an owner. It occurs *as owned*. The [phenomenology of embodiment](/topics/phenomenology-of-embodiment-under-dualism/) provides the bodily dimension of this insight: the feeling that this body is *mine* arises from pre-reflective bodily awareness rather than from inference, and ownership and agency dissociate in ways that reveal their distinct contributions to embodied subjectivity.
 
 [Phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) provides clinical evidence for ownership as primitive. In depersonalization, the sense of mineness is stripped from experience while the experience itself persists — demonstrating that ownership is a separable structural feature, not an artefact of cognitive processing. The ipseity disturbance model of schizophrenia reveals a deeper disruption: Sass and Parnas show that normally tacit self-processes become alien objects of observation (*hyperreflexivity*) while simultaneously ceasing to function as the inhabited medium of selfhood (*diminished self-affection*). What is lost is not merely a feeling of ownership but the pre-reflective structure through which experiences are given as one's own — a finding validated empirically through the Examination of Anomalous Self-Experience (EASE) instrument, which confirms self-disorders as a core feature of the schizophrenia spectrum that predicts future onset in at-risk populations. The [ownership void](/voids/ownership-void/) explores why these disruptions reveal ownership's absence without revealing ownership's ground — the mechanism of appropriation hides from introspection because introspection is itself already owned.
 

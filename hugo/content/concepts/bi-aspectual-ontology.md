@@ -151,7 +151,7 @@ Bi-aspectual ontology is the Map's foundational metaphysical picture, connecting
 - [psychophysical-coupling](/concepts/psychophysical-laws/) — How the two aspects are lawfully related
 - [russellian-monism](/concepts/russellian-monism/) — The closest monist competitor, and why the Map diverges
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Information as the interface medium between aspects
-- [selection-laws](/concepts/selection-laws/) — How conscious actuality selects physical outcomes
+- [selection-laws](/concepts/psychophysical-laws/) — How conscious actuality selects physical outcomes
 - [measurement-problem](/concepts/measurement-problem/) — The quantum puzzle that marks the boundary between aspects
 - [substance-property-dualism](/concepts/substance-property-dualism/) — The traditional dualist options the Map navigates between
 - [integrated-information-theory](/concepts/integrated-information-theory/) — Consciousness as integrated information; ally on irreducibility, rival on causal role

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-03-18 07:18:00+00:00
+ai_modified: 2026-03-18 22:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -116,6 +116,7 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 - [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) — The puzzle of phenomenal spatial experience
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Dreams as evidence for consciousness-generated spatial content
 - [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — How separate modalities unify into spatial experience
+- [phenomenology-of-embodiment-under-dualism](/topics/phenomenology-of-embodiment-under-dualism/) — The phenomenology of lived embodiment: ownership, agency, bodily absence, and the Leib/Körper distinction
 
 ## References
 

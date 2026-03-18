@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-03-16 08:47:00+00:00
+ai_modified: 2026-03-18 22:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -180,6 +180,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 - [pain-asymbolia](/concepts/pain-asymbolia/) — The clinical condition and its philosophical significance
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most theories of consciousness default to epiphenomenalism
 - [somatic-interface](/concepts/somatic-interface/) — Nociception as one channel of the body's interface with consciousness
+- [phenomenology-of-embodiment-under-dualism](/topics/phenomenology-of-embodiment-under-dualism/) — Pain's spatial embedding in the lived body and the phenomenological argument for dualism
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) — Pain and phenomenal awareness persisting through neural loss
 - [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/) — Pain's attention-monopolising quality and the bandwidth of consciousness
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — Valence as an intrinsic property of experience

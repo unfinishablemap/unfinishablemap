@@ -45,7 +45,7 @@ topics:
 
 Psychophysical coupling is the lawful relationship between conscious states and physical processes — the bridge that connects mind to matter. If consciousness is irreducible to physics (as The Unfinishable Map's [Dualism tenet](/tenets/#dualism) holds) and causally efficacious (as the [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) requires), then some structured correspondence must bind phenomenal properties to physical parameters. Psychophysical coupling names that correspondence. Without it, "consciousness selects quantum outcomes" remains a metaphor; with it, the claim becomes a candidate for scientific specification.
 
-The concept is distinct from, but foundational to, several more detailed treatments on the Map. [Psychophysical laws](/concepts/psychophysical-laws/) develop the full framework — Chalmers' principles, the Map's divergences, and candidate law families. [coupling-modes](/concepts/coupling-modes/) taxonomise *how* coupling might operate (basis control, timing control, probability control). [selection-laws](/concepts/selection-laws/) address the *downward* direction specifically. This article defines what coupling itself is, why it's needed, and what any adequate coupling must achieve.
+The concept is distinct from, but foundational to, several more detailed treatments on the Map. [Psychophysical laws](/concepts/psychophysical-laws/) develop the full framework — Chalmers' principles, the Map's divergences, and candidate law families. [coupling-modes](/concepts/coupling-modes/) taxonomise *how* coupling might operate (basis control, timing control, probability control). [selection-laws](/concepts/psychophysical-laws/) address the *downward* direction specifically. This article defines what coupling itself is, why it's needed, and what any adequate coupling must achieve.
 
 ## Why Coupling Is Needed
 
@@ -63,7 +63,7 @@ Coupling runs in two directions, and the Map insists both matter:
 
 **Downward coupling** (phenomenal → physical): Conscious states influence physical outcomes. Intending to raise your arm precedes your arm rising; effortful attention changes neural dynamics. The Map's [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) requires this direction. Without it, consciousness would be [epiphenomenal](/concepts/epiphenomenalism/) — real but causally inert, unable to account for our accurate reports about our own experience. As [the epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) analysis shows, most theories of consciousness default to epiphenomenalism unless they provide a specific downward coupling mechanism.
 
-Most philosophical work has addressed upward coupling. The Map's distinctive contribution is insisting that [downward coupling](/concepts/downward-causation/) demands equal attention, because it is what makes consciousness matter causally. The [selection-laws](/concepts/selection-laws/) that specify downward coupling constitute the core of the Map's research programme.
+Most philosophical work has addressed upward coupling. The Map's distinctive contribution is insisting that [downward coupling](/concepts/downward-causation/) demands equal attention, because it is what makes consciousness matter causally. The [selection-laws](/concepts/psychophysical-laws/) that specify downward coupling constitute the core of the Map's research programme.
 
 ## Constraints on Coupling
 
@@ -126,7 +126,7 @@ Psychophysical coupling is where the Map's tenets make contact with empirical re
 ## Further Reading
 
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Full framework: Chalmers' principles, the Map's divergences, candidate law families
-- [selection-laws](/concepts/selection-laws/) — The downward direction of coupling: how conscious states select physical outcomes
+- [selection-laws](/concepts/psychophysical-laws/) — The downward direction of coupling: how conscious states select physical outcomes
 - [coupling-modes](/concepts/coupling-modes/) — Taxonomy of how coupling operates: basis, timing, or probability control
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — Why coupling must run in both directions
 - [attention-as-interface](/concepts/attention-as-interface/) — The primary candidate for coupling's mental variable

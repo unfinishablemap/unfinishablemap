@@ -61,9 +61,9 @@ Three principles constrain supervenience laws:
 
 **Double-aspect information**: Information has both physical and phenomenal aspects. Where information is processed, some form of experience may be present. This approaches panpsychism through information theory rather than traditional metaphysics.
 
-### [Selection Laws](/concepts/selection-laws/) (Causal Laws)
+### [Selection Laws](/concepts/psychophysical-laws/) (Causal Laws)
 
-[Selection laws](/concepts/selection-laws/) specify how conscious states influence which physical outcomes become actual. They answer the downward question: given this intention or attention state, how does it affect what happens in the brain?
+[Selection laws](/concepts/psychophysical-laws/) specify how conscious states influence which physical outcomes become actual. They answer the downward question: given this intention or attention state, how does it affect what happens in the brain?
 
 The Map requires selection laws because the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet commits to downward causation. Consciousness doesn't merely accompany brain states—it participates in determining which of several physically possible outcomes actually occurs.
 
@@ -204,7 +204,7 @@ The psychophysical laws framework would face serious difficulty if:
 
 - [chalmers-psychophysical-coupling](/topics/psychophysical-laws-bridging-mind-and-matter/) — Chalmers' specific contributions, including his 2022 quantum development with McQueen
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The foundational concept in depth
-- [selection-laws](/concepts/selection-laws/) — The downward direction: how conscious states select physical outcomes
+- [selection-laws](/concepts/psychophysical-laws/) — The downward direction: how conscious states select physical outcomes
 - Psychophysical Coupling — The selection law problem specifically
 - Psychophysical Coupling — Five candidate mechanisms evaluated
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical position requiring bidirectional laws

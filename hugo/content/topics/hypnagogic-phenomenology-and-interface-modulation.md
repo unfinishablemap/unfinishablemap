@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-03-12 04:29:00+00:00
+ai_modified: 2026-03-18 20:50:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -136,6 +136,7 @@ The graded-interface interpretation of hypnagogia would face difficulty if:
 ## Further Reading
 
 - [dream-consciousness](/topics/dream-consciousness/) — What happens after hypnagogia: consciousness during REM and NREM sleep
+- [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — The rendering dilemma and capability signatures visible when the interface fully reconfigures into REM
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — The extreme case: interface disruption through anaesthesia, coma, and injury
 - [attention-as-interface](/concepts/attention-as-interface/) — The primary channel through which consciousness influences neural activity
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control as distinct interface mechanisms

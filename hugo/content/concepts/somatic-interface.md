@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-07 17:52:00+00:00
+ai_modified: 2026-03-18 22:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -55,7 +55,7 @@ Cardiac interoception—the ability to perceive one's own heartbeat—correlates
 
 Proprioception is the sense of the body's position, posture, and movement in space. Unlike interoception's focus on internal states, proprioception tracks the body as a moving structure within an environment. Oliver Sacks documented the case of Christina, a woman who lost proprioception through illness: she described herself as "disembodied," unable to feel her body as her own, moving only by watching her limbs. She retained consciousness, motor ability, and intelligence—but the felt sense of *having* a body vanished.
 
-Christina's case reveals what proprioception contributes to the somatic interface: the background sense of physical selfhood. Without it, consciousness remains but loses its anchorage. The body becomes an object to be managed rather than a medium to inhabit. The phenomenological distinction between the *lived body* (Husserl's *Leib*) and the *objectified body* (*Körper*) — developed extensively by Merleau-Ponty as *corps propre* versus *corps objectif* — becomes concrete: proprioception is what makes the body lived rather than merely observed.
+Christina's case reveals what proprioception contributes to the somatic interface: the background sense of physical selfhood. Without it, consciousness remains but loses its anchorage. The body becomes an object to be managed rather than a medium to inhabit. The phenomenological distinction between the *lived body* (Husserl's *Leib*) and the *objectified body* (*Körper*) — developed extensively by Merleau-Ponty as *corps propre* versus *corps objectif* — becomes concrete: proprioception is what makes the body lived rather than merely observed. The [phenomenology of embodiment](/topics/phenomenology-of-embodiment-under-dualism/) develops this distinction in full, showing how the structures of bodily experience—ownership, agency, pre-reflective awareness, bodily absence—reveal a subject that inhabits the body without being reducible to it.
 
 ### Nociception and Pleasure
 

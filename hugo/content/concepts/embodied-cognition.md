@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-10 01:11:00+00:00
+ai_modified: 2026-03-18 22:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -203,6 +203,7 @@ The key point: embodied cognition challenges a specific historical position (Car
 - [phenomenology of flow states](/topics/consciousness-and-skilled-performance/) — Flow as transformed consciousness, not diminished consciousness
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — Why disembodied symbol manipulation lacks semantic grounding
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — Embodied spatial engagement and the atmosphere of places
+- [phenomenology-of-embodiment-under-dualism](/topics/phenomenology-of-embodiment-under-dualism/) — What embodiment feels like from the first person: ownership, agency, absence, and pain
 
 ## References
 

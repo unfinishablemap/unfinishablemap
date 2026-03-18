@@ -61,7 +61,7 @@ New inbound links added to 6 articles:
 - [downward-causation](/concepts/downward-causation/) — "No energy injection" feature → wikilinked
 - [psychophysical-coupling](/concepts/psychophysical-laws/) — minimality constraint → wikilinked
 - [coupling-modes](/concepts/coupling-modes/) — conservation concerns for probability control → wikilinked
-- [selection-laws](/concepts/selection-laws/) — "without violating conservation laws" → wikilinked
+- [selection-laws](/concepts/psychophysical-laws/) — "without violating conservation laws" → wikilinked
 
 ### Stale Links Fixed
 - [mental-causation](/concepts/mental-causation/) — 2 instances of old slug `conservation-laws-mind-brain-causation` updated to new slug

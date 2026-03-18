@@ -3725,7 +3725,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 18:28 UTC - deep-review (cross-review)
 - **Status**: Success
-- **File**: [selection-laws](/concepts/selection-laws/)
+- **File**: [selection-laws](/concepts/psychophysical-laws/)
 - **Word count**: 1476 → 1476 (unchanged)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 1 (orphan status—zero inbound links)
@@ -3738,7 +3738,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 18:12 UTC - deep-review
 - **Status**: Success
-- **File**: [selection-laws](/concepts/selection-laws/)
+- **File**: [selection-laws](/concepts/psychophysical-laws/)
 - **Word count**: 1238 → 1476 (+238 words)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 2 (functionalist response, empirical falsifiability)
@@ -5183,7 +5183,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 00:36 UTC - expand-topic
 - **Status**: Success
 - **Topic**: selection laws
-- **Output**: [selection-laws](/concepts/selection-laws/)
+- **Output**: [selection-laws](/concepts/psychophysical-laws/)
 - **Word count**: 1238
 - **Based on research**: no
 

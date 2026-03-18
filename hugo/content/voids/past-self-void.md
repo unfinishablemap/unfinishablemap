@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-03-12 03:53:00+00:00
+ai_modified: 2026-03-18 21:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,6 +29,7 @@ related_articles:
 - '[[thoughts-that-slip-away]]'
 - '[[the-unobservable-self]]'
 - '[[indexical-void]]'
+- '[[consciousness-and-memory]]'
 title: The Past-Self Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -55,7 +56,7 @@ The past self occupies a unique position among these: not another subject (like 
 
 ## Memory Is Reconstruction, Not Retrieval
 
-Cognitive science confirms that [episodic memory](/concepts/episodic-memory/) is "scenario construction" rather than playback. The brain doesn't store experiences like recordings; it stores patterns that enable reconstruction. Each retrieval rebuilds the memory anew, using present context as a guide.
+Cognitive science confirms that [episodic memory](/concepts/episodic-memory/) is "scenario construction" rather than playback. The brain doesn't store experiences like recordings; it stores patterns that enable reconstruction. Each retrieval rebuilds the memory anew, using present context as a guide—and through reconsolidation, each retrieval permanently alters the trace, so the "original" is progressively overwritten by the present self's concerns (see [consciousness and memory](/topics/consciousness-and-memory/) for the full consolidation-reconsolidation cycle).
 
 Conway's research on the Self-Memory System shows that the "working self constantly mediates between the opposite requirements of internal coherence and correspondence to reality." The present self doesn't passively access the past self—it actively constructs a version that serves present identity needs. Memory serves identity maintenance, not accurate recording.
 

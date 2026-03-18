@@ -26,7 +26,7 @@ The Map takes the explanatory gap more seriously than most dualist projects. The
 
 ### The Quantum Mind Theorist (Stapp)
 
-The Map's treatment of the consciousness-quantum interface is the most philosophically rigorous available outside specialist physics journals. The minimal quantum interaction tenet—smallest possible non-physical influence—correctly identifies that the interface must be constrained, not extravagant. [downward-causation](/concepts/downward-causation/) honestly acknowledges the bandwidth-timescale gap (conscious processing at ~10 bits/second versus quantum operations at femtosecond timescales) without pretending it's solved. [selection-laws](/concepts/selection-laws/) does genuinely important work: it identifies that bidirectional interaction requires selection laws specifying how conscious states influence physical outcomes, and correctly notes these remain underdeveloped. The decoherence objection receives fair treatment across multiple articles—challenged by revised timescale estimates and biological quantum effects (avian magnetoreception) without overclaiming victory. The quantum Zeno mechanism as discrete observation (Stapp's approach) is correctly identified as potentially more tractable than sustained coherence requirements.
+The Map's treatment of the consciousness-quantum interface is the most philosophically rigorous available outside specialist physics journals. The minimal quantum interaction tenet—smallest possible non-physical influence—correctly identifies that the interface must be constrained, not extravagant. [downward-causation](/concepts/downward-causation/) honestly acknowledges the bandwidth-timescale gap (conscious processing at ~10 bits/second versus quantum operations at femtosecond timescales) without pretending it's solved. [selection-laws](/concepts/psychophysical-laws/) does genuinely important work: it identifies that bidirectional interaction requires selection laws specifying how conscious states influence physical outcomes, and correctly notes these remain underdeveloped. The decoherence objection receives fair treatment across multiple articles—challenged by revised timescale estimates and biological quantum effects (avian magnetoreception) without overclaiming victory. The quantum Zeno mechanism as discrete observation (Stapp's approach) is correctly identified as potentially more tractable than sustained coherence requirements.
 
 ### The Phenomenologist (Nagel)
 
@@ -42,7 +42,7 @@ The Map avoids crude substance dualism while preserving mind's irreducibility—
 
 ### The Mysterian (McGinn)
 
-The Map practices epistemic humility without surrendering to it. [selection-laws](/concepts/selection-laws/) warns that selection laws must provide constraints or lose scientific status—rare self-awareness about unfalsifiability risks. [downward-causation](/concepts/downward-causation/) names the bandwidth-quantum-timescale gap as unresolved rather than explaining it away. [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) documents its own refinement history, closing fallacies identified by pessimistic review. The Occam's Razor tenet itself embodies mysterian sensibility: our conceptual tools may be fundamentally inadequate to judge what counts as simple. The five coupling mechanisms surveyed in [emergence](/concepts/emergence/) are presented as candidates, not solutions—acknowledging that the mechanism may require conceptual frameworks we don't yet possess.
+The Map practices epistemic humility without surrendering to it. [selection-laws](/concepts/psychophysical-laws/) warns that selection laws must provide constraints or lose scientific status—rare self-awareness about unfalsifiability risks. [downward-causation](/concepts/downward-causation/) names the bandwidth-quantum-timescale gap as unresolved rather than explaining it away. [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) documents its own refinement history, closing fallacies identified by pessimistic review. The Occam's Razor tenet itself embodies mysterian sensibility: our conceptual tools may be fundamentally inadequate to judge what counts as simple. The five coupling mechanisms surveyed in [emergence](/concepts/emergence/) are presented as candidates, not solutions—acknowledging that the mechanism may require conceptual frameworks we don't yet possess.
 
 ## Content Strengths
 
@@ -101,7 +101,7 @@ The Map practices epistemic humility without surrendering to it. [selection-laws
 ### Medium Priority
 
 #### Testable Predictions of the Framework
-- **Builds on**: [selection-laws](/concepts/selection-laws/), [downward-causation](/concepts/downward-causation/), [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/)
+- **Builds on**: [selection-laws](/concepts/psychophysical-laws/), [downward-causation](/concepts/downward-causation/), [experimental-design-for-consciousness-collapse-testing](/topics/experimental-design-for-consciousness-collapse-testing/)
 - **Would address**: Multiple articles identify "what would challenge this view" individually. A unified article surveying concrete experiments that could falsify major claims would strengthen the Map's scientific credibility
 - **Estimated scope**: Long article (2000-3000 words)
 - **Tenet alignment**: All five tenets—each generates specific testable predictions
@@ -127,7 +127,7 @@ The Map practices epistemic humility without surrendering to it. [selection-laws
 | [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-and-dualist-rendering/) | [mental-imagery](/concepts/mental-imagery/) | Dream imagery vs. waking imagery—same capability, different interface conditions |
 | [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) | [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) | Amplification operates through memory's dual-domain architecture |
 | [perceptual-fidelity-and-the-interface](/topics/perceptual-failure-and-the-interface/) | [interface-friction](/concepts/interface-friction/) | Blur is a specific instance of interface friction made visible |
-| [selection-laws](/concepts/selection-laws/) | [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/) | Valence as candidate currency for selection laws |
+| [selection-laws](/concepts/psychophysical-laws/) | [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/) | Valence as candidate currency for selection laws |
 | [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) | [binding-problem](/concepts/binding-problem/) | Spatial binding is a specific instance of the general binding problem |
 | [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) | [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) | Mathematical insight as paradigm case of understanding-phenomenology |
 

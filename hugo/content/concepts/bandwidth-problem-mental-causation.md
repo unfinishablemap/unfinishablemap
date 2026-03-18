@@ -91,7 +91,7 @@ The very existence of a measurable, consistent, task-independent throughput ceil
 
 Even granting hierarchical selection, a residual problem remains: how does intentional content—structured by goals and meanings—interface with physical mechanisms structured by forces and timings? Selecting "reach for the cup" is intentional. The quantum event that implements that selection is physical. What bridges these descriptions?
 
-This is the format dimension of the bandwidth problem, and it connects to the broader [psychophysical coupling problem](/concepts/psychophysical-laws/). The Map requires [selection laws](/concepts/selection-laws/)—laws specifying how phenomenal states map to physical selections. The bandwidth problem sharpens this requirement: whatever coupling law governs the interface, it must translate between intentional and physical vocabularies without requiring the intentional side to encode physical details.
+This is the format dimension of the bandwidth problem, and it connects to the broader [psychophysical coupling problem](/concepts/psychophysical-laws/). The Map requires [selection laws](/concepts/psychophysical-laws/)—laws specifying how phenomenal states map to physical selections. The bandwidth problem sharpens this requirement: whatever coupling law governs the interface, it must translate between intentional and physical vocabularies without requiring the intentional side to encode physical details.
 
 One proposed mechanism—Stapp's quantum Zeno framework—suggests consciousness poses questions ("is this neural pattern present?") and the physical system answers. If viable, the intentional content would determine *which question* to ask while physics determines the answer. This separation of labour would mean consciousness need not encode physical specifications—it would encode attentional targets, and the brain's architecture would translate these into the relevant physical observables. Whether this specific mechanism works remains contested; the Map treats it as one possibility among others rather than a commitment.
 
@@ -129,7 +129,7 @@ The bandwidth problem also differs from the [binding problem](/concepts/binding-
 - [downward-causation](/concepts/downward-causation/) — The broader framework for mental-to-physical causation
 - [mental-causation](/concepts/mental-causation/) — The philosophical problem of how mind affects body
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The coupling laws the bandwidth problem constrains
-- [selection-laws](/concepts/selection-laws/) — Laws governing the downward direction of mind-body interaction
+- [selection-laws](/concepts/psychophysical-laws/) — Laws governing the downward direction of mind-body interaction
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the selection channel through which consciousness operates
 - [resolution-void](/voids/resolution-void/) — The broader resolution gap between brain processing and conscious access
 

@@ -38,10 +38,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review architecture-of-cognitive-closure.md
+### P2: Integrate illusionism-as-epiphenomenalism-in-disguise.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has only 1 inbound link (created 2026-03-08). Add cross-references from illusionism.md, epiphenomenalism.md, the-epiphenomenalist-threat.md, and related anti-illusionist articles. Key argumentative concept linking two major opposing positions.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P3: Deep review methodological-pluralism.md
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) that has never been deep-reviewed despite recent modifications. Voids article on the architecture of cognitive closure. Verify coherence, cross-references, and tenet alignment.
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-16 — 30 days ago. Concept page on methodological pluralism in consciousness studies. Verify coherence, cross-references to recent epistemology articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-18
+
+### P3: Deep review social-construction-of-self-vs-phenomenal-self.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-16 — 30 days ago. Topics article comparing social constructionism about self with phenomenal selfhood. Verify coherence, cross-references to recent self/identity articles, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-18
 
@@ -115,6 +129,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-03-15
 - **Completed**: 2026-03-17
+
+### P3: Write article on phenomenological psychiatry and the interface model
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Depersonalisation, dissociation, and schizophrenia as cases where the consciousness-physics interface is selectively disrupted. The interface model makes specific empirical predictions about disruption patterns. Builds on phenomenological-psychiatry-and-altered-experience. Target section: topics/. See optimistic-2026-03-18-night.md
+- **Generated**: 2026-03-18
+
+### P3: Create concept page for convergence methodology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map's distinctive argumentative strategy — building cumulative cases from independent lines of evidence — has no anchor page explaining why convergence is epistemically stronger than individual arguments. Referenced implicitly across arguments-against-materialism, the-epiphenomenalist-threat, and multiple hub articles. Target section: concepts/. See optimistic-2026-03-18-night.md
+- **Generated**: 2026-03-18
 
 ### P3: Create concept page for token-level determination
 - **Type**: expand-topic
@@ -628,8 +654,67 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Saad's delegation framework and the Map's quantum selection framework address mental causation at different levels (logical structure vs. physical mechanism). An explicit synthesis showing how delegation is selection at quantum indeterminacies would strengthen both. Builds on delegatory-dualism.md, asymmetric-bandwidth-consciousness.md, consciousness-selecting-neural-patterns.md. Target section: topics/. See optimistic-2026-03-18-evening.md
 - **Generated**: 2026-03-18
 
+### P2: Update references to coalesced selection-laws article
+- **Type**: cross-review
+- **Notes**: Coalesce merged selection-laws.md into psychophysical-laws.md. The following active content files reference `[selection-laws](/concepts/psychophysical-laws/)` and may need review to update links to `[psychophysical-laws](/concepts/psychophysical-laws/)`: bandwidth-problem-mental-causation.md, mental-causation.md, quantum-consciousness.md, mind-matter-interface.md, bi-aspectual-ontology.md, bidirectional-interaction.md, downward-causation.md, consciousness-and-scientific-explanation.md, metaphysics-of-information-under-dualism.md, consciousness-and-causal-powers.md, mathematical-structure-of-the-consciousness-physics-interface.md, value-blind-vs-value-sensitive-selection.md, the-interface-specification-problem.md, valence-as-selection-currency.md, psychophysical-laws-bridging-mind-and-matter.md, consciousness-and-the-metaphysics-of-laws.md, consciousness-and-probability-interpretation.md, consciousness-and-the-philosophy-of-biology.md, the-psychophysical-control-law.md, epistemology-of-mechanism-at-the-consciousness-matter-interface.md
+- **Source**: coalesce
+- **Generated**: 2026-03-18
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Integrate phenomenology-of-embodiment-under-dualism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link (created 2026-03-15). Add cross-references from related articles on embodied cognition, the consciousness interface, sensorimotor contingencies, and interoception content.
+- **Output**: obsidian/topics/phenomenology-of-embodiment-under-dualism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-18: Integrate parsimony-epistemology.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link (created 2026-03-18). Add cross-references from related articles on Occam's razor, epistemic methodology, and tenet 5 content. Core concept page deserving broader integration.
+- **Output**: obsidian/concepts/parsimony-epistemology.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-18: Write article on probability and decision-theory objections to many worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Systematic treatment of how probability and decision theory create problems for MWI — self-locating uncertainty, branch-counting vs. amplitude-weighting, and the incoherence of rational betting in a deterministic multiverse. Directly supports Tenet 4 (No Many Worlds). Target section: topics/.
+- **Output**: probability and decision-theory objections to many worlds
+
+### ✓ 2026-03-18: Cross-review epistemology articles considering parsimony-epistemology concept
+- **Type**: cross-review
+- **Notes**: New concept page concepts/parsimony-epistemology.md created 2026-03-18 on the epistemological limits of Occam's Razor. Review occams-razor-has-limits.md and epistemic-advantages-of-dualism.md for cross-links, whether the new concept page sharpens existing arguments about parsimony's limitations, and consistency with Tenet 5 framing.
+- **Output**: None -- Context: Cross-review epistemology articles considering parsimony-epistemology concept
+
+### ✓ 2026-03-18: Address circular reasoning and observational closure tension in the-epiphenomenalist-threat.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) functionalism critique begs the question by assuming phenomenal realism—needs independent argument or conditional framing; (2) observational closure claim is in tension with empirical appeals about decoherence—needs clarification of what role empirical evidence plays. See pessimistic-2026-03-18-late.md
+- **Output**: obsidian/topics/the-epiphenomenalist-threat.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) functionalism critique begs the question by assuming phenomenal realism—needs independent argument or conditional framing; (2) observational closure claim is in tension with empirical appeals about decoherence—needs clarification of what role empirical evidence plays. See pessimistic-2026-03-18-late.md
+
+### ✓ 2026-03-18: Cross-review methodology articles considering Duhem-Quine underdetermination insights
+- **Type**: cross-review
+- **Notes**: New article topics/duhem-quine-underdetermination-consciousness.md created 2026-03-18 on theory underdetermination in consciousness science. Review consciousness-and-scientific-methodology.md and consciousness-and-the-limits-of-explanation.md for cross-links, whether Duhem-Quine framework strengthens existing methodology arguments, and consistency with claims about empirical evidence for consciousness.
+- **Output**: None -- Context: Cross-review methodology articles considering Duhem-Quine underdetermination insights
+
+### ✓ 2026-03-18: Integrate parsimony-epistemology.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-18 has no inbound links. Concept page on the epistemological limits of parsimony, supporting Tenet 5. Add cross-references from related articles (occams-razor, epistemic-advantages-of-dualism, parsimony-and-consciousness, consciousness-and-scientific-methodology) to integrate into the site's link network.
+- **Output**: obsidian/concepts/parsimony-epistemology.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-18: Integrate memory-consolidation-and-transformation-of-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-17 has no inbound links. Topics article on memory consolidation and experience transformation. Add cross-references from related articles (consciousness-and-memory, memory-as-dual-domain-capability, episodic-memory, temporal-consciousness) to integrate into the site's link network.
+- **Output**: memory-consolidation-and-transformation-of-experience.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-18: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-18 has no inbound links. Topics article on lucid dreaming as evidence for mind-side rendering capability. Add cross-references from related articles (dream-problem-solving-and-conscious-influence, filter-theory, lucid-dreaming-as-capability-evidence, consciousness-and-dreaming) to integrate into the site's link network.
+- **Output**: lucid-dreaming-and-mind-side-rendering.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-18: Deep review architecture-of-cognitive-closure.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) that has never been deep-reviewed despite recent modifications. Voids article on the architecture of cognitive closure. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/architecture-of-cognitive-closure.md
 
 ### ✓ 2026-03-18: Deep review phenomenology-of-self-awareness.md
 - **Type**: deep-review

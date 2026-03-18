@@ -26,7 +26,7 @@ The Map takes the hard problem with the seriousness it deserves. The [hard-probl
 
 The treatment of IIT in [integrated-information-theory-critique](/topics/integrated-information-theory-critique/) shows sophisticated engagement—consciousness cannot simply be *identified* with integrated information without leaving the qualitative character unexplained. The zombie argument treatment in [philosophical-zombies](/concepts/philosophical-zombies/) correctly identifies the asymmetry between water=H₂O and consciousness=brain states: "With consciousness, we have direct epistemic access to what experience is."
 
-The framework's use of psychophysical laws (acknowledged debt to Chalmers) is honest about what remains unexplained while providing a structure for future theorizing. The distinction between supervenience laws and selection laws in [selection-laws](/concepts/selection-laws/) extends Chalmers' framework in productive directions.
+The framework's use of psychophysical laws (acknowledged debt to Chalmers) is honest about what remains unexplained while providing a structure for future theorizing. The distinction between supervenience laws and selection laws in [selection-laws](/concepts/psychophysical-laws/) extends Chalmers' framework in productive directions.
 
 ### The Quantum Mind Theorist (Stapp)
 

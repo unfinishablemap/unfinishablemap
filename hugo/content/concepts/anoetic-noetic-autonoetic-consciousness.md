@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-11 03:23:00+00:00
+ai_modified: 2026-03-18 21:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -36,6 +36,7 @@ related_articles:
 - '[[tenets]]'
 - '[[anoetic-noetic-autonoetic-consciousness-2026-02-24]]'
 - '[[semantic-memory-consciousness-2026-01-17]]'
+- '[[consciousness-and-memory]]'
 title: Anoetic, Noetic, and Autonoetic Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -99,7 +100,7 @@ These dissociations show that each level depends on distinct neural substrates a
 
 ### The Semanticisation Problem
 
-Episodic memories gradually lose their autonoetic character, retaining content while shedding the phenomenal quality of re-experiencing. You may know you went to a particular school without being able to re-inhabit any specific day there. The information migrates from episodic to semantic storage—from autonoetic to noetic consciousness.
+Episodic memories gradually lose their autonoetic character, retaining content while shedding the phenomenal quality of re-experiencing. You may know you went to a particular school without being able to re-inhabit any specific day there. The information migrates from episodic to semantic storage—from autonoetic to noetic consciousness. The Map's treatment of [consciousness and memory](/topics/consciousness-and-memory/) traces this phenomenal trajectory in detail: vivid re-experiencing within hours of encoding, thinning detail over days, progressive schematisation over months, and near-complete semantic absorption over decades—with the qualitative shift tracking hippocampal involvement rather than information content.
 
 This reveals that the *same propositional content* can be accompanied by qualitatively different forms of awareness. The remember/know paradigm confirms this experimentally: subjects encounter the same item and either "remember" it (with autonoetic re-experiencing) or "know" it (with noetic recognition), demonstrating that phenomenal character varies independently of informational content. [Consciousness](/concepts/consciousness/) adds something beyond the data.
 

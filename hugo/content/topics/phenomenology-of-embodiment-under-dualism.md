@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-15 10:39:00+00:00
+ai_modified: 2026-03-18 22:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Human+AI exploration of what embodiment feels like from the first p
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-15 10:39:00+00:00
+last_deep_review: 2026-03-18 22:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,7 +87,7 @@ Embodied pain makes this especially vivid because pain is so obviously *located*
 
 ## Intercorporeality and the Experience of Others
 
-Embodied phenomenology extends beyond solitary experience. Merleau-Ponty argued that we experience others not as minds hidden behind bodies but as expressive unities—the anger is *in* the clenched fist, the sadness *in* the slumped posture. He called this *intercorporeality*: our bodies resonate with other bodies before any inference about hidden mental states.
+Embodied phenomenology extends beyond solitary experience. Merleau-Ponty argued that we experience others not as minds hidden behind bodies but as expressive unities—the anger is *in* the clenched fist, the sadness *in* the slumped posture. He called this *intercorporeality*: our bodies resonate with other bodies before any inference about hidden mental states. This pre-inferential bodily encounter is central to [social cognition](/topics/consciousness-and-social-cognition/) and [intersubjectivity](/concepts/intersubjectivity/).
 
 This pre-inferential bodily empathy complicates both materialism and Cartesian dualism. Against the Cartesian picture, we do not first observe a body and then infer a mind behind it. Against materialism, the *felt resonance*—the way another's pain can make your own body tense—involves phenomenal qualities that exceed the neural mirroring that mirror neurons provide. Mirror neurons explain *how* resonance occurs mechanically. They do not explain *why* observing another's pain produces a felt echo rather than merely triggering motor preparation.
 

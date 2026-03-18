@@ -112,7 +112,7 @@ The character of conscious experience—what it feels like—might itself contri
 
 Different phenomenal qualities produce different behavioural responses: sharp pain provokes withdrawal, burning pain motivates cooling, aching pain produces protective immobility. This quality-action mapping tracks phenomenal character more transparently than underlying neural patterns, suggesting the quale is part of the causal process itself. Pain anticipation extends this further—imagined future pain alters present behaviour through phenomenal content alone, with no current nociceptive input. See [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) for whether valence enters the selection mechanism.
 
-This requires [selection-laws](/concepts/selection-laws/)—psychophysical laws specifying how phenomenal character maps to action tendencies. The Map speculates that such laws exist, linking the qualitative nature of [qualia](/concepts/qualia/) to their causal role. See [phenomenal-value-realism](/topics/phenomenal-value-realism/) for the ethical implications of treating phenomenal character as causally real.
+This requires [selection-laws](/concepts/psychophysical-laws/)—psychophysical laws specifying how phenomenal character maps to action tendencies. The Map speculates that such laws exist, linking the qualitative nature of [qualia](/concepts/qualia/) to their causal role. See [phenomenal-value-realism](/topics/phenomenal-value-realism/) for the ethical implications of treating phenomenal character as causally real.
 
 ### Volitional Modulation
 
@@ -203,7 +203,7 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) — Voluntary imagery as concrete evidence for consciousness's causal powers
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Evidence from natural selection for causal efficacy
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Formal frameworks for mind-matter interaction
-- [selection-laws](/concepts/selection-laws/) — Laws specifying how mental states select physical outcomes
+- [selection-laws](/concepts/psychophysical-laws/) — Laws specifying how mental states select physical outcomes
 - [agent-causation](/concepts/agent-causation/) — The person as ultimate cause of action
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain as the paradigm case for phenomenal biasing
 - [free-will](/topics/free-will/) — How causal powers relate to freedom and responsibility

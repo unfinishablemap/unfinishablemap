@@ -77,7 +77,7 @@ The difficulty is what might be called the *legislation problem*: who or what le
 
 The governing view does, however, support the Map's bidirectional framework. If laws are genuinely prescriptive—if they *make* things happen rather than summarising what happens—then downward psychophysical laws could prescribe that certain conscious states produce certain physical outcomes. The law doesn't merely record that intention is followed by action; it governs the process by which intention produces action. This gives [psychophysical causation](/concepts/mental-causation/) the same metaphysical status as physical causation: both are law-governed.
 
-This has a further consequence for the quantum measurement problem. If governing laws prescribe physical outcomes, a psychophysical governing law could serve as the missing prescription for *when and how* quantum superpositions resolve in neural contexts. Physics leaves quantum measurement unexplained—no purely physical law specifies which outcome obtains. A psychophysical governing law would fill that gap, not as an ad hoc addition but as a completion of the lawful structure that physics itself requires. The Map's [selection law](/concepts/selection-laws/) framework—where consciousness biases otherwise indeterminate quantum outcomes—is naturally expressed as a governing law prescribing minimal, specific interventions at sites of neural quantum indeterminacy.
+This has a further consequence for the quantum measurement problem. If governing laws prescribe physical outcomes, a psychophysical governing law could serve as the missing prescription for *when and how* quantum superpositions resolve in neural contexts. Physics leaves quantum measurement unexplained—no purely physical law specifies which outcome obtains. A psychophysical governing law would fill that gap, not as an ad hoc addition but as a completion of the lawful structure that physics itself requires. The Map's [selection law](/concepts/psychophysical-laws/) framework—where consciousness biases otherwise indeterminate quantum outcomes—is naturally expressed as a governing law prescribing minimal, specific interventions at sites of neural quantum indeterminacy.
 
 ### Dispositional Essentialism and Phenomenal Powers
 
@@ -131,7 +131,7 @@ The Map's [tenets](/tenets/) have differential affinities with each account of l
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The foundational concept
 - [causal-powers](/concepts/causal-powers/) — How dispositional properties ground the Map's account of mental causation
 - [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) — How pandispositionalism, categoricalism, and the identity theory frame the mind-body problem
-- [selection-laws](/concepts/selection-laws/) — The downward direction: how conscious states select physical outcomes
+- [selection-laws](/concepts/psychophysical-laws/) — The downward direction: how conscious states select physical outcomes
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — Constraints on what consciousness can causally accomplish
 - [causal-closure](/concepts/causal-closure/) — Why physical causal closure is not absolute at quantum indeterminacies
 - [emergence](/concepts/emergence/) — How novel properties and powers arise from physical substrates

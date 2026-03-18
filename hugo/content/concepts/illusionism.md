@@ -35,6 +35,7 @@ last_curated: null
 last_deep_review: 2026-03-04 22:32:00+00:00
 modified: *id001
 related_articles:
+- '[[parsimony-epistemology]]'
 - '[[tenets]]'
 - '[[epiphenomenalism]]'
 - '[[the-epiphenomenalist-threat]]'
@@ -191,7 +192,7 @@ Illusionism directly challenges the Map's [tenets](/tenets/):
 
 **[Bidirectional Interaction](/tenets/#bidirectional)**: The Map's framework treats conscious effort and attention as causally efficacious. Illusionism asks us to deny the very experiences that make mind-matter interaction seem evident. The phenomenology of trying, attending, and deciding—central to the [mental-effort](/concepts/mental-effort/) model—would be mere appearance.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Illusionism might seem parsimonious—no new ontological categories needed. But it achieves only [apparent simplicity](/arguments/epistemological-limits-of-occams-razor/) by refusing to explain what needs explaining. If the illusion problem is as hard as the hard problem, physicalism hasn't progressed. It has only renamed the difficulty.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Illusionism might seem parsimonious—no new ontological categories needed. But [parsimony arbitrates between theories of equal explanatory power](/concepts/parsimony-epistemology/), and illusionism achieves only [apparent simplicity](/arguments/epistemological-limits-of-occams-razor/) by refusing to explain what needs explaining. If the illusion problem is as hard as the hard problem, physicalism hasn't progressed. It has only renamed the difficulty.
 
 The persistence of the illusion problem suggests illusionism doesn't escape the hard problem but relocates it. Something about introspective access to our mental states resists deflationary analysis. Either consciousness is real, or its "illusion" is equally hard to explain in physical terms.
 

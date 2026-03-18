@@ -40,7 +40,7 @@ topics:
 - '[[topics/free-will]]'
 ---
 
-Downward causation is the thesis that higher-level properties can causally influence lower-level processes. When your decision to speak causes neurons to fire, this is downward causation—mental properties affecting physical events. This concept is central to defending The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet against Jaegwon Kim's exclusion argument. Kim contends that physical causes "screen off" higher-level causes, draining all causal efficacy to fundamental physics. The Map's quantum framework provides a response: consciousness causally influences physical outcomes at points where physics is genuinely incomplete. In the terminology of [psychophysical laws](/concepts/psychophysical-laws/), downward causation requires *[selection laws](/concepts/selection-laws/)*—laws specifying how mental states influence which physical outcomes become actual—not merely the supervenience laws that map physical states to experiences.
+Downward causation is the thesis that higher-level properties can causally influence lower-level processes. When your decision to speak causes neurons to fire, this is downward causation—mental properties affecting physical events. This concept is central to defending The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet against Jaegwon Kim's exclusion argument. Kim contends that physical causes "screen off" higher-level causes, draining all causal efficacy to fundamental physics. The Map's quantum framework provides a response: consciousness causally influences physical outcomes at points where physics is genuinely incomplete. In the terminology of [psychophysical laws](/concepts/psychophysical-laws/), downward causation requires *[selection laws](/concepts/psychophysical-laws/)*—laws specifying how mental states influence which physical outcomes become actual—not merely the supervenience laws that map physical states to experiences.
 
 ## The Concept Distinguished
 
@@ -191,7 +191,7 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 
 - [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — Empirical evidence that the meaning of conscious states determines which physical effects occur
 - [mental-causation](/concepts/mental-causation/) — The philosophical problem downward causation addresses
-- [selection-laws](/concepts/selection-laws/) — The downward direction of psychophysical laws
+- [selection-laws](/concepts/psychophysical-laws/) — The downward direction of psychophysical laws
 - [causal-closure](/concepts/causal-closure/) — The principle downward causation challenges
 - [emergence](/concepts/emergence/) — Strong emergence requires downward causation
 - [interactionist-dualism](/concepts/interactionist-dualism/) — the Map's framework defending downward causation

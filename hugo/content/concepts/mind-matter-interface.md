@@ -202,7 +202,7 @@ This unified model is the Map's most complete answer to how consciousness relate
 - [measurement-problem](/concepts/measurement-problem/) — Why decoherence doesn't solve collapse
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI
 - [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) — The mathematical corridor constraining consciousness-physics interaction
-- [selection-laws](/concepts/selection-laws/) — What selection laws must specify and candidate formulations
+- [selection-laws](/concepts/psychophysical-laws/) — What selection laws must specify and candidate formulations
 
 ## References
 

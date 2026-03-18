@@ -53,7 +53,7 @@ topics: []
 - Steel-manning pattern throughout — granting strength to opposing arguments before responding
 
 ### Enhancements Made
-- Added inline wikilinks to [causal-closure](/concepts/causal-closure/), [emergence](/concepts/emergence/), [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/), [selection-laws](/concepts/selection-laws/), [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/), [mysterianism](/concepts/mysterianism/)
+- Added inline wikilinks to [causal-closure](/concepts/causal-closure/), [emergence](/concepts/emergence/), [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/), [selection-laws](/concepts/psychophysical-laws/), [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/), [mysterianism](/concepts/mysterianism/)
 - Added new objection on hard-problem denial/illusionism
 - Added Tenet 4 (No Many Worlds) to Relation to Site Perspective — now all five tenets addressed
 - Honest hedging of quantum testability claim
@@ -64,7 +64,7 @@ topics: []
 - [causal-closure](/concepts/causal-closure/) — woven into "What Neuroscience Explains" section
 - [emergence](/concepts/emergence/) — woven into hard problem discussion
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — linked at direct-acquaintance argument
-- [selection-laws](/concepts/selection-laws/) — linked at downward selection bullet
+- [selection-laws](/concepts/psychophysical-laws/) — linked at downward selection bullet
 - [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) — linked in new illusionism objection
 - [mysterianism](/concepts/mysterianism/) — linked in psychophysical laws section
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/) — added to Further Reading and related_articles

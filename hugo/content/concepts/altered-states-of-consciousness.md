@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-15 01:45:00+00:00
+ai_modified: 2026-03-18 20:50:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -145,6 +145,7 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 - [filter-theory](/concepts/filter-theory/) — The theoretical framework for interpreting ASCs
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Voluntary access to altered states
 - [dream-consciousness](/topics/dream-consciousness/) — Consciousness operating without sensory input
+- [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Lucid dreaming as evidence for mind-side rendering through neural architecture
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — Anesthesia and the filter interpretation
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer that persists across state changes
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Potential mechanisms for mind-brain interface

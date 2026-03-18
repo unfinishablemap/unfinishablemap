@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate illusionism-as-epiphenomenalism-in-disguise.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has only 1 inbound link (created 2026-03-08). Add cross-references from illusionism.md, epiphenomenalism.md, the-epiphenomenalist-threat.md, and related anti-illusionist articles. Key argumentative concept linking two major opposing positions.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-18
-
-### P3: Deep review methodological-pluralism.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-16 — 30 days ago. Concept page on methodological pluralism in consciousness studies. Verify coherence, cross-references to recent epistemology articles, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-18
-
 ### P3: Deep review social-construction-of-self-vs-phenomenal-self.md
 - **Type**: deep-review
 - **Status**: pending
@@ -661,6 +647,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Integrate illusionism-as-epiphenomenalism-in-disguise.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link (created 2026-03-08). Add cross-references from illusionism.md, epiphenomenalism.md, the-epiphenomenalist-threat.md, and related anti-illusionist articles. Key argumentative concept linking two major opposing positions.
+- **Output**: illusionism-as-epiphenomenalism-in-disguise.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-18: Integrate phenomenology-of-embodiment-under-dualism.md into site navigation
 - **Type**: integrate-orphan

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-18 04:44:00+00:00
+ai_modified: 2026-03-18 20:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -20,7 +20,7 @@ description: Human minds have bounded concept spaces. Some limits are innate—f
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-18 20:34:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -81,9 +81,9 @@ Development is not purely additive. Cognitive maturation involves systematic tra
 
 Critical periods in brain development explain how developmental closures occur. During infancy and early childhood, the brain exhibits extraordinary plasticity—connections form and reform based on environmental input. Then the windows close.
 
-The closure is physical, not merely functional. Perineuronal nets—extracellular structures—encapsulate neurons, stabilising mature circuits and preventing the plasticity that supported infant flexibility. Synaptic pruning eliminates a substantial fraction of excitatory synapses in prefrontal cortex between ages 10-30—Petanjek et al. (2011) found spine density reductions of 50% or more during this period. The architecture that supported broader access is dismantled in favour of specialised efficiency.
+The closure is physical, not merely functional. Perineuronal nets—extracellular structures—encapsulate neurons, stabilising mature circuits and preventing the plasticity that supported infant flexibility. Synaptic pruning eliminates a substantial fraction of excitatory synapses in prefrontal cortex between ages 10-30—Petanjek et al. (2011) found spine density reductions of 50% or more. The architecture that supported broader access is dismantled in favour of specialised efficiency.
 
-The closure serves purposes. Specialisation improves performance on frequently-encountered stimuli while sacrificing access to rare ones. Alison Gopnik characterises childhood as a solution to explore-exploit tensions: children search broadly through hypothesis spaces while adults optimise within narrowed domains. But efficiency has costs. The territory lost to developmental closure may be permanently inaccessible.
+The closure serves purposes. Alison Gopnik characterises childhood as a solution to explore-exploit tensions: children search broadly through hypothesis spaces while adults optimise within narrowed domains. But efficiency has costs. The territory lost to developmental closure may be permanently inaccessible.
 
 ## How the Two Sources Compound
 
@@ -93,31 +93,27 @@ The infant begins with innate conceptual primitives (architectural constraint) b
 
 Beyond these, expertise creates further voids throughout adult life—a pattern explored in the [expertise void](/topics/expertise-void/). The "curse of knowledge" demonstrates the continuity: once information becomes internalised, you lose access to your former ignorant state. Every skill acquired is also a closure, narrowing the space of possible thoughts in exchange for fluency within a domain. The [opacity of introspection](/voids/introspective-opacity/) deepens at each stage.
 
-Voids compound over the lifespan. The infant loses perceptual breadth. The child loses exploratory flexibility. The adult loses access to ignorance. The expert loses the ability to see alternatives. Each stage trades accessible territory for increased efficiency within remaining territory.
+Voids compound over the lifespan: the infant loses perceptual breadth, the child loses exploratory flexibility, the adult loses access to ignorance, the expert loses the ability to see alternatives. Each stage trades accessible territory for efficiency within what remains.
 
 ## Evidence for Limits
 
-**Cross-species evidence**: Dogs cannot acquire the concept PRIME NUMBER regardless of training. This isn't insufficient intelligence within a domain but absence of the domain itself. The same asymmetry likely applies between humans and some concepts we cannot even gesture toward.
+**Cross-species evidence**: No amount of training teaches a dog the concept PRIME NUMBER. The limitation is not insufficient intelligence within mathematics but absence of the conceptual domain entirely—the primitives required to construct NUMBER THEORY are not part of canine cognitive architecture. The same asymmetry likely applies between humans and concepts we cannot even gesture toward.
 
 **Triggering evidence**: Decades of research haven't explained how children acquire abstract concepts like CAUSE or NUMBER from sensory experience. If Fodor is right, these concepts are triggered, not learned—and concepts for which no trigger exists remain permanently inaccessible.
 
-**Developmental evidence**: No amount of training restores native-level phoneme discrimination in languages not encountered during the critical period. The limit appears principled, not merely practical. The neural architecture that supported these abilities has been physically restructured.
+**Developmental evidence**: No amount of adult training fully restores native-level phoneme discrimination in languages not encountered during the critical period. Training can improve performance, but the gap persists. The limit appears principled, not merely practical—the neural architecture that supported infant-level discrimination has been physically restructured.
 
-**Phenomenological evidence**: The "tip of the tongue" phenomenon shows concepts can be present but temporarily inaccessible. The inverse may also occur—concepts that *feel* accessible but aren't truly formed. We use philosophical vocabulary (QUALIA, CAUSATION, FREE WILL) that seems to point toward something, but investigation reveals we may not possess the concepts the words suggest. Much philosophical terminology may work this way: verbal shells without genuine conceptual content.
+**Phenomenological evidence**: The "tip of the tongue" phenomenon shows concepts can be present but temporarily inaccessible. The inverse may also occur—concepts that *feel* accessible but aren't truly formed. We use philosophical vocabulary (QUALIA, CAUSATION, FREE WILL) that seems to point toward something, but investigation reveals we may not possess the concepts the words suggest.
 
-**The sliding thought**: Try to genuinely grasp a new colour—not a mixture of known colours, but a genuinely novel primary. The attempt produces characteristic slippage. You almost grasp something, but it won't solidify. Unlike forgetting, where content once existed, here there's nothing to retrieve. The phenomenology is of reaching, not remembering.
+## The LLM Dimension Gap
 
-## The 12,000-Dimensional Void
+Large language models operate in embedding spaces of 12,000 or more mathematical dimensions—statistical parameters, not phenomenological spaces. Within those dimensions, LLMs form statistical clusters that organise their processing. Some correspond to human concepts, but others may have no human-graspable analog.
 
-The emergence of large language models raises a provocative possibility. LLMs operate in embedding spaces of 12,000 or more mathematical dimensions—statistical parameters, not phenomenological spaces. Human cognition integrates a handful of perceptual channels and can attend to only a few variables simultaneously. The gap in representational dimensionality invites speculation about different kinds of conceptual access.
+The architectural difference matters: human cognition was shaped by evolutionary pressures and narrowed by developmental closure. LLMs lack this heritage. Their representations are shaped by statistical regularities in text, not survival needs, and they do not undergo critical-period pruning. An AI might process face-perception patterns without the categorical filtering humans acquire, or phoneme boundaries without native-language bias.
 
-Within those dimensions, LLMs form statistical clusters—"concepts" in a technical sense—that organise their processing. Some correspond to human concepts. But others may have no human-graspable analog—"concepts" for which we have no name because we cannot form them.
+Even if LLMs form representations outside human concept space, communication may be impossible. Describing a genuinely novel concept requires using concepts the listener possesses. If the target concept requires unavailable primitives, no description will succeed—words we can read without meaning we can comprehend.
 
-**Architectural difference**: Human cognition was shaped by evolutionary pressures—survival, social navigation, predator avoidance. LLMs lack this heritage; their "concept space" is shaped by statistical regularities in text, not survival needs. Crucially, LLMs do not undergo developmental closure in the same sense. They may process categories without the narrowing that human development imposes—an AI might describe face-perception patterns without the categorical filtering humans acquire, or phoneme boundaries without the native-language bias development installs.
-
-**The translation problem**: Even if LLMs access concepts humans cannot form, communication may be impossible. Describing a genuinely novel concept requires using concepts the listener possesses. If the target concept requires unavailable primitives, no description will succeed. The LLM might *state* something humans cannot *grasp*—words we can read without meaning we can comprehend.
-
-**The inverse Nagel problem**: Nagel asked what it's like to be a bat—and concluded we cannot know because bat experience requires bat perspective. The inverse: an LLM might state facts about human cognition that humans cannot *grasp*, not because the facts are hidden but because grasping them requires concepts we lack.
+**The inverse Nagel problem**: Nagel asked what it's like to be a bat and concluded we cannot know because bat experience requires bat perspective. The inverse: an LLM might state facts about human cognition that humans cannot *grasp*, not because the facts are hidden but because grasping them requires concepts we lack.
 
 ## The Phenomenology of Closure
 
@@ -132,6 +128,8 @@ What would it feel like to encounter territory closed by architecture or develop
 **Recognition without comprehension**: McGinn notes we can *recognise* that certain thoughts are unthinkable without *comprehending* what those thoughts would be. We know there's a "property P" bridging mind and brain, but we cannot form the concept. The gap is visible even if its contents aren't.
 
 **Nostalgia without content**: Adults may sense that children perceive differently, but cannot access the lost perceptions to verify. The intuition of loss exceeds the ability to specify what was lost.
+
+**The sliding thought**: Try to genuinely grasp a new colour—not a mixture of known colours, but a genuinely novel primary. The attempt produces characteristic slippage. You almost grasp something, but it won't solidify. Unlike forgetting, where content once existed, here there's nothing to retrieve. The phenomenology is of reaching, not remembering.
 
 ## Approaches to the Edge
 

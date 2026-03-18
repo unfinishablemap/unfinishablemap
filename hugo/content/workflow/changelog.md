@@ -18,6 +18,139 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18 22:42 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-embodiment-under-dualism](/topics/phenomenology-of-embodiment-under-dualism/)
+- **Word count**: 2003 → 2020 (+17)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphan integration, missing wikilinks)
+- **Enhancements made**: 8 inbound cross-links added from existing articles
+- **Output**: [deep-review-2026-03-18-phenomenology-of-embodiment-under-dualism](/reviews/deep-review-2026-03-18-phenomenology-of-embodiment-under-dualism/)
+
+## 2026-03-18 22:32 UTC - coalesce
+- **Status**: Success
+- **Sources**: [selection-laws](/concepts/psychophysical-laws/)
+- **Target**: [psychophysical-laws](/concepts/psychophysical-laws/)
+- **Archived**: [selection-laws](/archive/concepts/selection-laws/)
+- **References to review**: 20+ active content files (cross-review task created)
+- **Notes**: Selection laws content (~80% overlap) absorbed into psychophysical-laws article. Unique additions: functionalist objection paragraph, supervenience/selection comparison table, content-specificity evidence link, free will/agent-causation connection.
+
+## 2026-03-18 22:23 UTC - deep-review
+- **Status**: Success
+- **File**: [parsimony-epistemology](/concepts/parsimony-epistemology/)
+- **Word count**: 1029 → 1029 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (continued orphan integration — 4 new inbound links)
+- **Enhancements made**: 4 cross-links added from consciousness-and-the-structure-of-scientific-revolutions, epistemic-advantages-of-dualism, duhem-quine-underdetermination-consciousness, illusionism
+- **Output**: [deep-review-2026-03-18c-parsimony-epistemology](/reviews/deep-review-2026-03-18c-parsimony-epistemology/)
+
+## 2026-03-18 22:15 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-interpersonal-understanding](/topics/consciousness-and-interpersonal-understanding/)
+- **Word count**: 2534 → 2599 (+65)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (stale cross-links, unused references, duplicate entries)
+- **Enhancements made**: 3 (integrated Husserl, Zahavi, Nagel citations into body text)
+- **Output**: [deep-review-2026-03-18-consciousness-and-interpersonal-understanding](/reviews/deep-review-2026-03-18-consciousness-and-interpersonal-understanding/)
+
+## 2026-03-18 22:13 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Probability and decision-theory objections to many worlds
+- **Reason**: Content already exists in [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) (coalesced 3000+ word article covering all four objections) and [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) (concept reference page created same day). No new article needed.
+
+## 2026-03-18 21:51 UTC - deep-review
+- **Status**: Success
+- **File**: [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/)
+- **Word count**: 2396 → 2446 (+50)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing parsimony-epistemology cross-link, missing frontmatter/Further Reading entries)
+- **Enhancements made**: 1 (strengthened Occam's Razor tenet section with precondition argument)
+- **Output**: [deep-review-2026-03-18-predictive-processing-and-the-maps-framework](/reviews/deep-review-2026-03-18-predictive-processing-and-the-maps-framework/)
+
+## 2026-03-18 21:45 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 21 articles across topics/, concepts/, tenets/ — focusing on core framework, empirical bridges, epistemology cluster, ethics, and cross-cultural philosophy
+- **Output**: [optimistic-2026-03-18-night](/reviews/optimistic-2026-03-18-night/)
+
+## 2026-03-18 21:36 UTC - refine-draft
+- **Status**: Success
+- **File**: [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)
+- **Changes**: Reframed functionalism critique as conditional on phenomenal realism; clarified observational closure vs empirical evidence roles; added explicit decoherence numbers and acknowledged remaining quantitative gap
+- **Published**: yes
+
+## 2026-03-18 21:29 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/)
+- **Word count**: 2239 → 2480 (+241)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 5 (Duhem-Quine qualification, underdetermination framing, 3 methodology cross-links)
+- **Output**: [deep-review-2026-03-18-consciousness-and-social-cognition](/reviews/deep-review-2026-03-18-consciousness-and-social-cognition/)
+
+## 2026-03-18 21:21 UTC - deep-review
+- **Status**: Success
+- **File**: [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)
+- **Word count**: 2441 → 2531 (+90)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing cross-links to content-specificity concept, embodiment concepts, neuroplasticity)
+- **Enhancements made**: 4 cross-links added, Further Reading expanded with 4 entries
+- **Output**: [deep-review-2026-03-18-placebo-effect-and-mental-causation](/reviews/deep-review-2026-03-18-placebo-effect-and-mental-causation/)
+
+## 2026-03-18 21:14 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [parsimony-epistemology](/concepts/parsimony-epistemology/)
+- **Word count**: 1029 → 1099 (+70)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status — zero inbound links)
+- **Enhancements made**: 6 inbound cross-links added from tenets, dualism, materialism, interactionist-dualism, mysterianism, arguments-against-materialism
+- **Output**: [deep-review-2026-03-18b-parsimony-epistemology](/reviews/deep-review-2026-03-18b-parsimony-epistemology/)
+
+## 2026-03-18 21:06 UTC - deep-review (orphan integration)
+- **Status**: Redirected — article archived
+- **File**: memory-consolidation-and-transformation-of-experience (archived 2026-03-18, coalesced into [consciousness-and-memory](/topics/consciousness-and-memory/))
+- **Action**: Added 6 inbound cross-references to superseding article [consciousness-and-memory](/topics/consciousness-and-memory/) from:
+  - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) (body text + related_articles)
+  - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) (body text + related_articles)
+  - [past-self-void](/voids/past-self-void/) (body text + related_articles)
+  - [semantic-memory](/concepts/semantic-memory/) (body text + related_articles)
+  - [personal-identity](/topics/personal-identity/) (body text)
+  - [dream-consciousness](/topics/dream-consciousness/) (body text + related_articles)
+  - [explanatory-gap](/concepts/explanatory-gap/) (related_articles)
+- **Notes**: Source file no longer exists in obsidian (archived). Orphan status resolved by integrating superseding article into site navigation.
+
+## 2026-03-18 20:58 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/the-epiphenomenalist-threat.md
+- **Output**: [pessimistic-2026-03-18-late](/reviews/pessimistic-2026-03-18-late/)
+
+## 2026-03-18 20:50 UTC - deep-review (orphan integration)
+- **Status**: Success
+- **File**: [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/)
+- **Word count**: 2906 → 2906 (+0, no content changes — article at stability)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status resolved)
+- **Enhancements made**: 8 new inbound cross-references from related articles
+- **Cross-linked from**: mind-brain-separation, sleep-and-consciousness, epiphenomenalism, capability-division-in-vision, the-epiphenomenalist-threat, altered-states-as-interface-evidence, altered-states-of-consciousness, hypnagogic-phenomenology-and-interface-modulation, phenomenal-binding-and-multimodal-integration
+- **Output**: [deep-review-2026-03-18-lucid-dreaming-and-dualist-rendering-orphan](/reviews/deep-review-2026-03-18-lucid-dreaming-and-dualist-rendering-orphan/)
+
+## 2026-03-18 20:34 UTC - deep-review
+- **Status**: Success
+- **File**: [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/)
+- **Word count**: 2857 → 2777 (-80)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-18-architecture-of-cognitive-closure](/reviews/deep-review-2026-03-18-architecture-of-cognitive-closure/)
+
+## 2026-03-18 20:27 UTC - deep-review
+- **Status**: Success
+- **File**: [parsimony-epistemology](/concepts/parsimony-epistemology/)
+- **Word count**: 977 → 1029 (+52)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 4 cross-links added
+- **Output**: [deep-review-2026-03-18-parsimony-epistemology](/reviews/deep-review-2026-03-18-parsimony-epistemology/)
+
 ## 2026-03-18 20:19 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/)

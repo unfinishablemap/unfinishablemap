@@ -96,7 +96,7 @@ The asymmetry reflects different commitments:
 - **Chalmers**: Consciousness is real and irreducible, but may be causally inert
 - **The Map**: Consciousness is real, irreducible, *and* causally efficacious
 
-Why the focus on quantum selection? Classical physics is deterministic—[causal closure](/concepts/causal-closure/) leaves no room for consciousness to determine outcomes physics already fixes. Quantum mechanics provides probability distributions without determining specific outcomes. That gap is where [selection laws](/concepts/selection-laws/) take hold.
+Why the focus on quantum selection? Classical physics is deterministic—[causal closure](/concepts/causal-closure/) leaves no room for consciousness to determine outcomes physics already fixes. Quantum mechanics provides probability distributions without determining specific outcomes. That gap is where [selection laws](/concepts/psychophysical-laws/) take hold.
 
 Selection laws must specify:
 1. **Variables on the mental side**: What aspects of experience map to selection? Attention? Intention? Effort?
@@ -232,7 +232,7 @@ The framework would face serious difficulty if:
 ## Further Reading
 
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The foundational concept in depth
-- [selection-laws](/concepts/selection-laws/) — The downward direction: how conscious states select physical outcomes
+- [selection-laws](/concepts/psychophysical-laws/) — The downward direction: how conscious states select physical outcomes
 - [psychophysical-coupling](/concepts/psychophysical-laws/) — The coupling law problem and candidate law families
 - [attention-interface-mechanisms](/topics/attention-as-selection-interface/) — Where in the brain coupling might occur
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism in detail

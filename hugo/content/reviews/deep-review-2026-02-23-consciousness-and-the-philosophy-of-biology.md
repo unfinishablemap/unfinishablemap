@@ -70,7 +70,7 @@ Six adversarial personas engaged:
 - Added inline citation of Mossio & Moreno (2010) for organisational closure
 - Added inline reference to Godfrey-Smith (2016) for cephalopod cognition
 - Reframed spandrels passage to clearly distinguish epiphenomenalist reading from Map's position
-- Added cross-links to [mental-causation](/concepts/mental-causation/), [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/), [downward-causation](/concepts/downward-causation/), [selection-laws](/concepts/selection-laws/) in body text
+- Added cross-links to [mental-causation](/concepts/mental-causation/), [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/), [downward-causation](/concepts/downward-causation/), [selection-laws](/concepts/psychophysical-laws/) in body text
 - Added Minimal Quantum Interaction and No Many Worlds paragraphs to Relation to Site Perspective
 - Added [mental-causation](/concepts/mental-causation/), [causal-closure](/concepts/causal-closure/), [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/), [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) to Further Reading
 - Added 7 new entries to related_articles frontmatter
@@ -81,7 +81,7 @@ Six adversarial personas engaged:
 - [explanatory-gap](/concepts/explanatory-gap/) (Biological Function section + related_articles)
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) (Adaptation section + Further Reading + related_articles)
 - [downward-causation](/concepts/downward-causation/) (Adaptation section + related_articles)
-- [selection-laws](/concepts/selection-laws/) (Adaptation section + related_articles)
+- [selection-laws](/concepts/psychophysical-laws/) (Adaptation section + related_articles)
 - [causal-closure](/concepts/causal-closure/) (Further Reading + related_articles)
 - [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) (Further Reading + related_articles)
 

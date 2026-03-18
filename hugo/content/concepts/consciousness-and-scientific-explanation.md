@@ -90,7 +90,7 @@ Psychophysical laws would specify:
 - **Boundary conditions**: what physical conditions are necessary for consciousness to arise or cease
 
 The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet adds a further category:
-- **[Downward selection](/concepts/selection-laws/)**: how conscious states influence which physical outcomes are realised at quantum indeterminacies
+- **[Downward selection](/concepts/psychophysical-laws/)**: how conscious states influence which physical outcomes are realised at quantum indeterminacies
 
 Discovering these laws is an empirical project. It does not require reducing consciousness to physics any more than discovering electromagnetic laws required reducing them to mechanics.
 

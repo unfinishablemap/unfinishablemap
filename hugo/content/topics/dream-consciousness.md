@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-18 07:18:00+00:00
+ai_modified: 2026-03-18 21:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -62,6 +62,7 @@ related_articles:
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
 - '[[incubation-effect-and-unconscious-processing]]'
 - '[[consciousness-and-intelligence]]'
+- '[[consciousness-and-memory]]'
 title: Dream Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -153,7 +154,7 @@ The problem-solving evidence reveals a graded relationship between phenomenal mo
 | Hypnagogic N1 | Loosely directed, maximally creative | Tripled mathematical insight (Lacaux et al. 2021) |
 | Lucid REM | Metacognitive, partially controlled | Deliberate information processing, two-way communication |
 
-Cognitive outcomes track this phenomenal gradient, not simply whether the brain is "processing." NREM slow-wave sleep involves substantial brain activity—including hippocampal-cortical replay—yet REM specifically enhances creative outcomes while NREM does not (Cai et al. 2009). The [consciousness and intelligence](/topics/consciousness-and-intelligence/) debate often focuses on waking cognition; the dream evidence shows consciousness contributes through the *mode shifts* it undergoes during sleep—different filter configurations allowing different cognitive access. The [incubation effect](/topics/incubation-effect-and-unconscious-processing/) explores the complementary waking side of this creative cycle.
+Cognitive outcomes track this phenomenal gradient, not simply whether the brain is "processing." NREM slow-wave sleep involves substantial brain activity—including the hippocampal-cortical replay that drives [memory consolidation](/topics/consciousness-and-memory/)—yet REM specifically enhances creative outcomes while NREM does not (Cai et al. 2009). The [consciousness and intelligence](/topics/consciousness-and-intelligence/) debate often focuses on waking cognition; the dream evidence shows consciousness contributes through the *mode shifts* it undergoes during sleep—different filter configurations allowing different cognitive access. The [incubation effect](/topics/incubation-effect-and-unconscious-processing/) explores the complementary waking side of this creative cycle.
 
 ## Challenges: Illusionism and Epiphenomenalism
 

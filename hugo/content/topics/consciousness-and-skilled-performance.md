@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-15 05:15:00+00:00
+ai_modified: 2026-03-18 22:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -165,6 +165,7 @@ The strongest physicalist counterargument is that executive attention networks a
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — When consciousness disrupts the body it trained
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — The 4E framework and the interface reading
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Perception as mastery of sensorimotor laws
+- [phenomenology-of-embodiment-under-dualism](/topics/phenomenology-of-embodiment-under-dualism/) — Bodily absence, ownership, and what embodiment feels like from the inside
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The cognitive dimension of effortful learning
 - [contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/) — Meditation as a parallel case of trained skill
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions

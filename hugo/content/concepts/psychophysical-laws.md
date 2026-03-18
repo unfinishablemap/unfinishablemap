@@ -1,15 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-16 15:17:00+00:00
+ai_modified: 2026-03-18 22:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
 - /concepts/psychophysical-laws/
 - /concepts/psychophysical-coupling/
-- /concepts/psychophysical-coupling/
+- /concepts/selection-laws/
 concepts:
-- '[[selection-laws]]'
 - '[[quantum-consciousness]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[attention-as-interface]]'
@@ -31,7 +30,7 @@ concepts:
 - '[[bidirectional-interaction]]'
 - '[[neural-correlates-of-consciousness]]'
 created: 2026-01-16
-date: &id001 2026-03-15
+date: &id001 2026-03-18
 description: Fundamental principles connecting conscious experience to physical processes.
   Chalmers' framework, the coupling that bridges mind and matter, constraints on any
   adequate coupling, and candidate mechanisms.
@@ -77,7 +76,17 @@ A crucial distinction: psychophysical laws can be *supervenience laws* or *causa
 
 **Supervenience laws** specify which physical states are accompanied by which mental states—the laws run *upward* from physics to phenomenology. Chalmers primarily discusses these, and tends toward [epiphenomenalism](/concepts/epiphenomenalism/): mental states are caused by physical states but don't cause physical states in return.
 
-**Causal laws** (or "[selection laws](/concepts/selection-laws/)" in the Map's terminology) specify how mental states influence which physical states become actual. The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires causal laws—consciousness selects among physically underdetermined alternatives. Chalmers' framework primarily develops the upward direction; the Map needs both, with emphasis on the downward direction (phenomenal → physical selection).
+**Causal laws** (or "selection laws" in the Map's terminology) specify how mental states influence which physical states become actual. The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires causal laws—consciousness selects among physically underdetermined alternatives. Chalmers' framework primarily develops the upward direction; the Map needs both, with emphasis on the downward direction (phenomenal → physical selection).
+
+Functionalists respond that mental reports can track mental states without requiring downward causation—the tracking is mediated by functional organization, not phenomenal properties causing physical effects. But this response faces the hard problem: functional organization doesn't explain *why* there is something it is like to be in these states. If phenomenal properties are real and distinct from functional properties (as the Map holds), and our reports are accurate about those phenomenal properties, then phenomenal properties must causally influence reports. The functionalist can deny the distinctness, but that returns us to the hard problem's core challenge.
+
+| Feature | Supervenience Laws | Selection Laws |
+|---------|-------------------|----------------|
+| Direction | Upward (physics → experience) | Downward (experience → physics) |
+| Input | Physical state | Conscious state |
+| Output | Phenomenal state | Which physical outcome actualizes |
+| Compatible with epiphenomenalism? | Yes | No |
+| Developed by | Chalmers (extensively) | Stapp, Eccles (partially) |
 
 ## Chalmers' Three Principles
 
@@ -117,6 +126,8 @@ A psychophysical coupling law would specify:
 2. **Variables on the physical side**: What quantum degrees of freedom are targetable? Individual outcomes? Probability weights? Basis choice?
 3. **Bandwidth**: How much information can consciousness inject per unit time?
 4. **Scope constraints**: What is *not* selectable?
+
+The [content-specificity](/concepts/content-specificity-of-mental-causation/) evidence constrains what selection laws must accommodate: empirically, the *meaning* of a conscious state determines *which* physical effect occurs with striking granularity—different placebo beliefs produce different neurochemical cascades, and finer distinctions in conscious content produce correspondingly finer distinctions in physiological response.
 
 What Schaffer calls the "t-shirt problem"—the lack of a compact systematization of psychophysical correlations—remains unsolved. The [interface specification problem](/topics/the-interface-specification-problem/) develops this challenge further — specifying not just *that* coupling exists but *how* the mapping between phenomenal and physical variables works in detail.
 
@@ -226,12 +237,13 @@ Psychophysical laws are where the Map's tenets become theoretically precise.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** justifies the ontological expansion psychophysical laws require. A parsimonious theory that explains nothing is not genuinely simpler—it just ignores the explanandum. If consciousness exists and isn't physical, psychophysical laws are not optional additions but necessary completions of our picture of nature.
 
+Selection laws also bear on [free-will](/topics/free-will/). If consciousness selects among physically underdetermined alternatives, this provides a mechanism for [agent-causation](/concepts/agent-causation/)—genuine authorship of choices that isn't mere randomness. The selection isn't arbitrary; it reflects the agent's intentions and attention. This connects the metaphysics of consciousness to the metaphysics of agency.
+
 The Map cannot resolve which coupling law is correct—this is an open empirical and philosophical question. What the Map can do is articulate the problem clearly, specify what any adequate coupling law must accomplish, and evaluate existing proposals against those requirements.
 
 ## Further Reading
 
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Integrated overview: Chalmers' framework, upward-downward asymmetry, and coupling mechanisms
-- [selection-laws](/concepts/selection-laws/) — The downward direction: how conscious states select physical outcomes
 - [coupling-modes](/concepts/coupling-modes/) — Taxonomy of coupling: basis, timing, or probability control
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — Why coupling must run in both directions
 - [attention-as-interface](/concepts/attention-as-interface/) — The primary candidate for coupling's mental variable

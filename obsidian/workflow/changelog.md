@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18 22:50 UTC - deep-review
+- **Status**: Skipped (article archived)
+- **File**: concepts/illusionism-as-epiphenomenalism-in-disguise
+- **Reason**: Article was coalesced into [[illusionism]] on 2026-03-12. Obsidian source no longer exists. Removed stale hugo/content/concepts/ copy that persisted after coalesce. Removed stale integrate-orphan task from todo queue.
+
 ## 2026-03-18 22:42 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-embodiment-under-dualism]]

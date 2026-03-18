@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-18 16:06:00+00:00
+ai_modified: 2026-03-18 22:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -159,6 +159,7 @@ There is also a deeper question the interface reading cannot answer: even if emb
 - [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — Proprioception and spatial imagination as dual-domain capabilities supporting the interface reading
 - [somatic-interface](/concepts/somatic-interface/) — The body's internal sensing channels as structured interface substrate
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — How the interface manifests in the felt character of being in a place
+- [phenomenology-of-embodiment-under-dualism](/topics/phenomenology-of-embodiment-under-dualism/) — The first-person phenomenology of bodily experience: ownership, agency, absence, and pain
 
 ## References
 

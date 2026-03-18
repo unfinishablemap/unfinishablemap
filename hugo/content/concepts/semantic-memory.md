@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-03-08 00:59:00+00:00
+ai_modified: 2026-03-18 21:06:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -31,6 +31,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[semantic-memory-consciousness-2026-01-17]]'
+- '[[consciousness-and-memory]]'
 title: Semantic Memory and Noetic Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -100,7 +101,7 @@ You know these things about yourself, but not through re-experiencing specific l
 
 Electrophysiological research shows personal semantic retrieval produces neural signatures intermediate between general semantics and unique episodes. This suggests a gradient rather than a dichotomy: general facts → autobiographical facts → repeated events → unique events, with increasing autonoetic character as you move right.
 
-The gradient matters because it suggests episodic and semantic memory are less distinct than Tulving originally proposed. They may be different weightings of common processes rather than separate systems. Noetic and autonoetic consciousness would then be poles of a continuum, not separate faculties.
+The gradient matters because it suggests episodic and semantic memory are less distinct than Tulving originally proposed. They may be different weightings of common processes rather than separate systems. Noetic and autonoetic consciousness would then be poles of a continuum, not separate faculties. The Map's treatment of [consciousness and memory](/topics/consciousness-and-memory/) traces the consolidation trajectory through which episodic memories gradually schematise into semantic knowledge—with phenomenal character tracking hippocampal involvement rather than information content, demonstrating that this gradient has irreducible qualitative dimensions.
 
 ## Automatic vs. Conscious Semantic Processing
 
