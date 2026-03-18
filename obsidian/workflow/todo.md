@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate death-phenomenology-beyond-ndes.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File created 2026-03-11 has no inbound links. Topics article on death phenomenology beyond near-death experiences. Add cross-references from related articles (consciousness-and-death.md, terminal-lucidity.md, filter-theory.md) or update section index pages.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-18
-
 ### P2: Integrate phenomenology-of-perceptual-learning.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -591,6 +584,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Integrate death-phenomenology-beyond-ndes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-11 has no inbound links. Topics article on death phenomenology beyond near-death experiences. Add cross-references from related articles (consciousness-and-death.md, terminal-lucidity.md, filter-theory.md) or update section index pages.
+- **Output**: death-phenomenology-beyond-ndes.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-18: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
 - **Type**: integrate-orphan
