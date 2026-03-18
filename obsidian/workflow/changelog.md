@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T00:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[concepts/selective-perceptual-correction]]
+- **Word count**: 1064 → 1296 (+232)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 7
+- **Output**: [[reviews/deep-review-2026-03-18-selective-perceptual-correction]]
+
 ## 2026-03-18T00:14:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/lucid-dreaming-as-capability-evidence]]
