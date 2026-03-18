@@ -4,7 +4,7 @@ description: "Consciousness as causally inert byproduct. Self-stultification pro
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-03-14T21:03:00+00:00
+ai_modified: 2026-03-18T01:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -187,6 +187,7 @@ The self-stultification problem remains the strongest objection for human consci
 - [[metaproblem-of-consciousness-under-dualism]] — The metaproblem as another route to rejecting epiphenomenalism
 - [[the-reverse-inference]] — The reverse direction: using consciousness as secure datum to constrain physics, rather than dismissing it as epiphenomenal
 - [[interactionist-dualism]] — The Map's alternative framework
+- [[dream-consciousness]] — Dream problem-solving tracks phenomenal mode, creating empirical difficulties for epiphenomenalism
 - [[language-and-consciousness]] — Grice's theory of meaning strengthens the case against epiphenomenalism
 - [[value-blind-vs-value-sensitive-selection]] — Value-blind selection risks making the evaluative dimension of consciousness epiphenomenal
 - [[minimal-consciousness]] — Consciousness in simple organisms; challenges the tracking coincidence

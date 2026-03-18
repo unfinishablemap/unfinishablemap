@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T01:29:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/dream-problem-solving-and-conscious-influence]] (archived → [[topics/dream-consciousness]])
+- **Word count**: N/A (archived file, no content changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (added cross-links from epiphenomenalism, empirical-evidence-for-consciousness-selecting, and default-mode-network to dream-consciousness)
+- **Enhancements made**: 3 (cross-references integrating phenomenal mode tracking argument into site navigation)
+- **Output**: [[reviews/deep-review-2026-03-18-dream-problem-solving-and-conscious-influence]]
+
 ## 2026-03-18T01:15:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-completeness]]
