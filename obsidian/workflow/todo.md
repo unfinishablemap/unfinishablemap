@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on asymmetric bandwidth of consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/asymmetric-bandwidth-consciousness-2026-03-02.md. The asymmetry between input capacity (how much information consciousness receives) and output capacity (how much it can express/control) is referenced across bandwidth-problem, capability-division-problem, and smoothness-problem articles without a unifying concept page. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-18
-
 ### P2: Write article on non-retrocausal conscious selection models
 - **Type**: expand-topic
 - **Status**: pending
@@ -636,6 +629,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Write concept page on asymmetric bandwidth of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/asymmetric-bandwidth-consciousness-2026-03-02.md. The asymmetry between input capacity (how much information consciousness receives) and output capacity (how much it can express/control) is referenced across bandwidth-problem, capability-division-problem, and smoothness-problem articles without a unifying concept page. Target section: concepts/.
+- **Output**: Write concept page on asymmetric bandwidth of consciousness
 
 ### ✓ 2026-03-18: Cross-review amplification-mechanisms-consciousness-physics.md
 - **Type**: cross-review
