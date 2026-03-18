@@ -4,7 +4,8 @@ description: "The consciousness-brain interface transmits vast sensory informati
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T17:43:00+00:00
+ai_modified: 2026-03-18T18:39:00+00:00
+last_deep_review: 2026-03-18T18:39:00+00:00
 draft: false
 topics:
   - "[[bandwidth-of-consciousness]]"
@@ -35,15 +36,15 @@ The consciousness-brain interface is dramatically asymmetric. Sensory systems de
 
 ### Inbound: Experience Delivery
 
-The inbound channel carries information from the physical world into conscious experience. The optic nerve alone transmits on the order of 10⁸ bits per second. Nørretranders (1998) estimated aggregate sensory input at roughly 12 million bits per second across all modalities—10 million from vision, 1 million from touch, the rest distributed among hearing, smell, and taste. More recent estimates place total sensory throughput at ~10⁹ bits per second when peripheral neural processing is included.
+The inbound channel carries information from the physical world into conscious experience. The optic nerve alone transmits on the order of 10⁸ bits per second. Nørretranders (1998) estimated aggregate sensory input reaching the brain at roughly 12 million bits per second across all modalities—10 million from vision, 1 million from touch, the rest distributed among hearing, smell, and taste. More recent estimates place total sensory throughput at ~10⁹ bits per second when peripheral neural processing is included—a figure that encompasses pre-conscious processing in the retina and spinal cord, not just signals reaching cortex. The exact inbound figure matters less than the order of magnitude: whether millions or billions, it dwarfs outbound bandwidth by many orders of magnitude.
 
-Whether conscious experience itself is as rich as sensory input remains debated. Block (2011) argues that [[phenomenal-overflow|phenomenal consciousness overflows cognitive access]]—we experience more than we can report. Cohen, Dennett, and Kanwisher (2016) counter that ensemble statistics create the *appearance* of richness from sparser representations. For the asymmetry concept, the precise inbound figure matters less than the order of magnitude: whether millions or billions, inbound bandwidth dwarfs outbound bandwidth by many orders of magnitude.
+Whether conscious experience itself is as rich as sensory input remains debated. Block (2011) argues that [[phenomenal-overflow|phenomenal consciousness overflows cognitive access]]—we experience more than we can report. Cohen, Dennett, and Kanwisher (2016) counter that ensemble statistics create the *appearance* of richness from sparser representations.
 
 ### Outbound: Volitional Selection
 
 The outbound channel carries conscious influence into the physical world. Zheng and Meister's 2025 *Neuron* perspective quantified this across dozens of cognitive tasks—typing, speech, gaming, choice-reaction, memory sports—and found a universal ceiling of approximately 10 bits per second. The figure holds regardless of expertise, training, or task type.
 
-The bottleneck is not motor. Pianists' fingers execute sequences far exceeding 10 bits per second when running automatically. Individual neurons transmit far more. The constraint applies specifically at [[access-consciousness|conscious access]]—the point where information becomes available to the experiencing subject for deliberate use.
+The bottleneck is not motor. Pianists' fingers execute sequences far exceeding 10 bits per second when running automatically. Individual neurons transmit far more. The constraint applies specifically at [[access-consciousness|conscious access]]—the point where information becomes available to the experiencing subject for deliberate use. Strictly, Zheng and Meister measured *behavioural* throughput in tasks requiring conscious engagement. The step from "behavioural ceiling in conscious tasks" to "bandwidth of conscious influence" is an interpretation, not a direct measurement—but it is well motivated by the fact that the ceiling tracks conscious access rather than motor capacity or neural bandwidth.
 
 ## Why the Asymmetry Matters
 
@@ -57,7 +58,7 @@ This distinction separates the asymmetry concept from the simpler observation th
 
 Any account of how consciousness relates to the brain must explain the asymmetry. The constraint eliminates certain models:
 
-**Production models** face a question. If the brain *produces* consciousness, the 10⁸-fold ratio between the machinery's internal bandwidth and its conscious output requires explanation. Global Workspace Theory (Baars 1988, Dehaene & Naccache 2001) offers one: consciousness is a serial broadcast from a "global workspace" that integrates information from parallel unconscious processors. The bottleneck, on this account, is the workspace's serial nature—only one coalition of neural activity can dominate at a time. This genuinely explains *a* bottleneck, but the Map notes two residual puzzles. First, why ~10 bits per second specifically? Serial broadcast could in principle run faster; what sets the ceiling? Second, the asymmetry is not merely between parallel processing and serial output—it is between the *richness of conscious experience* (inbound) and the *poverty of conscious control* (outbound). If consciousness just *is* the workspace broadcast, both directions should share the same bandwidth. The asymmetry between experiential richness and volitional poverty is easier to accommodate if the two directions involve different kinds of process, as the Map proposes.
+**Production models** face a question. If the brain *produces* consciousness, the 10⁸-fold ratio between the machinery's internal bandwidth and its conscious output requires explanation. [[global-workspace-theory|Global Workspace Theory]] (Baars 1988, Dehaene & Naccache 2001) offers one: consciousness is a serial broadcast from a "global workspace" that integrates information from parallel unconscious processors. The bottleneck, on this account, is the workspace's serial nature—only one coalition of neural activity can dominate at a time. This genuinely explains *a* bottleneck, but the Map notes two residual puzzles. First, why ~10 bits per second specifically? Serial broadcast could in principle run faster; what sets the ceiling? Second, the asymmetry is not merely between parallel processing and serial output—it is between the *richness of conscious experience* (inbound) and the *poverty of conscious control* (outbound). If consciousness just *is* the workspace broadcast, both directions should share the same bandwidth. The asymmetry between experiential richness and volitional poverty is easier to accommodate if the two directions involve different kinds of process, as the Map proposes.
 
 **[[filter-theory|Filter models]]** accommodate the asymmetry naturally. If the brain constrains rather than produces consciousness, the outbound bottleneck is the filter itself—the narrow channel through which consciousness acts on the physical world. The inbound channel may represent the brain's capacity to *transmit to* consciousness, while the outbound channel represents consciousness's capacity to *influence* the brain.
 
@@ -71,7 +72,7 @@ If consciousness were [[epiphenomenalism|epiphenomenal]]—causally inert—ther
 
 The asymmetry functions as evidence within the Map's framework in three ways:
 
-**For dualism**: The 10⁸-fold gap resists explanation if consciousness is identical to neural processing. A system operating at 10⁹ bits per second internally but producing conscious throughput at 10 bits per second contains a discontinuity that identity theories must explain away rather than predict.
+**For dualism**: The 10⁸-fold gap sits uncomfortably with identity theories. If consciousness just *is* neural processing, serial-integration architectures can explain *a* bottleneck—but the specific location of the constraint at conscious access, combined with the vast asymmetry between experiential richness and volitional throughput, is more naturally predicted by a view that treats the two directions as different kinds of process.
 
 **For minimal interaction**: The outbound bandwidth empirically confirms what the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet stipulates philosophically. A 10-bit/second channel carries exactly the minimal information required for selection among prepared alternatives—roughly 3–4 choices per second among small sets.
 
@@ -95,6 +96,7 @@ The asymmetric bandwidth concept connects to all five tenets. **[[tenets#^dualis
 - [[filter-theory]] — The filter/transmission model that accommodates the asymmetry naturally
 - [[consciousness-selecting-neural-patterns]] — The selection mechanism operating within the outbound channel
 - [[attention-and-the-consciousness-interface]] — How the interface operates through attention
+- [[psychophysical-laws]] — The coupling principles governing mind-brain interaction
 
 ## References
 
@@ -107,14 +109,3 @@ The asymmetric bandwidth concept connects to all five tenets. **[[tenets#^dualis
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 1. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/
 
-<!-- AI REFINEMENT LOG - 2026-03-18
-Changes made:
-- Engaged with Global Workspace Theory as a production-model explanation for the bottleneck, citing Baars (1988) and Dehaene & Naccache (2001), rather than dismissing production models in one sentence
-- Fixed circular evolutionary argument: now presents the neural-architectural explanation (Zheng & Meister) as genuinely plausible, and frames the Map's interface explanation as an alternative rather than the only option
-- Toned down anti-epiphenomenalism argument: now acknowledges epiphenomenalism can accommodate the data, argues the asymmetry makes it less parsimonious rather than claiming it refutes epiphenomenalism
-
-Based on pessimistic review findings (production models dismissed without engagement, circular evolutionary argument, overstated anti-epiphenomenalism).
-Key improvements: intellectual honesty and fair engagement with competing explanations.
-
-This log should be removed after human review.
--->
