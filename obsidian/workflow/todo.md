@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate amplification-mechanisms-consciousness-physics.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-18 has no inbound links. Topics article on six amplification mechanisms (Penrose-Hameroff, Stapp, chaotic sensitivity, self-organized criticality) addressing how consciousness produces macroscopic effects from quantum-scale interactions. Add cross-references from consciousness-as-amplifier.md, quantum-consciousness.md, interactionist-dualism.md, mind-matter-interface.md, or amplification-void.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P2: Integrate non-retrocausal-conscious-selection-models.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-18 has no inbound links. Topics article on alternative models for consciousness-physics interaction that avoid retrocausality. Add cross-references from quantum-consciousness.md, consciousness-selecting-neural-patterns.md, stapp-quantum-mind.md, or measurement-problem-and-consciousness.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P2: Cross-review duhem-quine-underdetermination-consciousness.md against epistemology articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/duhem-quine-underdetermination-consciousness.md argues physicalist interpretations of consciousness evidence are underdetermined. Review epistemology-of-introspection.md, consciousness-and-scientific-methodology.md, epistemic-advantages-of-dualism.md, and convergence-argument-for-dualism.md for cross-links, reinforcing arguments about theory underdetermination, and terminology consistency.
+- **Source**: chain (from duhem-quine-underdetermination-consciousness.md)
+- **Generated**: 2026-03-18
+
+### P2: Integrate asymmetric-bandwidth-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-18 has no inbound links. Concepts article on the asymmetry between rich phenomenal input and narrow volitional output. Add cross-references from bandwidth-problem-mental-causation.md, capability-division-problem.md, smoothness-problem.md, resolution-bandwidth-interface.md, or consciousness-as-amplifier.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P2: Cross-review neural-refresh-rates.md against smoothness and binding articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/neural-refresh-rates.md addresses how discrete neural firing produces continuous conscious experience (the smoothness problem). Review smoothness-problem.md, phenomenal-binding-and-holism.md, temporal-consciousness.md, and binding-problem-a-systematic-treatment.md for cross-links, whether the refresh rate analysis strengthens existing smoothness arguments, and consistency.
+- **Source**: chain (from neural-refresh-rates.md)
+- **Generated**: 2026-03-18
+
 ### P2: Cross-review consciousness-and-memory.md considering memory-as-dual-domain insights
 - **Type**: cross-review
 - **Status**: pending
