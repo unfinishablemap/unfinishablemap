@@ -4,7 +4,7 @@ description: "Why Occam's Razor lacks universal epistemic warrant—human+AI ana
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T19:42:00+00:00
+ai_modified: 2026-03-18T20:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-18T20:27:00+00:00
 ---
 
 Parsimony epistemology examines whether and when simplicity is a reliable guide to truth. The Unfinishable Map treats this as a foundational concept because the most common objection to [[dualism]]—that [[concepts/materialism|physicalism]] is simpler—depends entirely on parsimony having epistemic warrant in the consciousness domain. If that warrant is limited or absent, the objection collapses. This article defines the concept and its key distinctions; for the detailed case against parsimony in the consciousness debate, see the Map's [[epistemological-limits-of-occams-razor|arguments article]], and for the deeper cognitive dimension, see [[epistemological-limits-occams-razor|The Parsimony Void]].
@@ -43,9 +43,9 @@ A key insight from parsimony epistemology is that "simplicity" is not one proper
 
 **Ontological parsimony** counts entity types. Physicalism posits one substance; dualism posits two. By this measure, physicalism is simpler.
 
-**Syntactic simplicity** counts theoretical principles and mechanisms. Physicalism requires elaborate apparatus—functionalism, higher-order theories, [[illusionism]]—to accommodate consciousness within a single-substance framework. Dualism's account is structurally more direct: consciousness exists because something non-physical exists.
+**Syntactic simplicity** counts theoretical principles and mechanisms. Physicalism has generated multiple competing frameworks—[[functionalism]], higher-order theories, [[illusionism]]—each adding theoretical machinery to accommodate consciousness within a single-substance ontology. No individual physicalist theory is necessarily complex, but the proliferation of incompatible attempts suggests the single-substance constraint forces explanatory contortions. Dualism's account is structurally more direct: consciousness exists because something non-physical exists.
 
-**Explanatory simplicity** counts unexplained brute facts. Physicalism must treat the existence of phenomenal experience as brute—something that *happens* when matter is configured correctly. Dualism offers a reason: there is genuinely something beyond the physical.
+**Explanatory simplicity** counts unexplained brute facts. From the Map's perspective, physicalism treats the existence of [[qualia|phenomenal experience]] as brute—something that *happens* when matter is configured correctly, with no explanation of *why* there is something it is like. Dualism offers a reason: there is genuinely something beyond the physical.
 
 These dimensions yield contradictory verdicts. As W. V. O. Quine's ontology-ideology trade-off formalises, reducing ontological commitments typically inflates theoretical complexity. Parsimony epistemology shows that invoking "simplicity" without specifying which dimension is doing the work is not a rigorous argument.
 
@@ -73,7 +73,7 @@ Parsimony epistemology's most important practical conclusion is that simplicity 
 Where parsimony lacks demonstrated warrant:
 
 - **Metaphysics**: No differential predictions to test; prior assignment is arbitrary
-- **Consciousness studies**: The [[explanatory-gap|explanatory gap]] means physicalism and dualism do not explain the same data equally well—the basic precondition for applying parsimony as a tie-breaker is unmet
+- **Consciousness studies**: The [[explanatory-gap|explanatory gap]] means physicalism and dualism do not explain the same data equally well—the basic precondition for applying parsimony as a tie-breaker is unmet. The [[knowledge-argument]] and [[philosophical-zombies|conceivability arguments]] suggest physicalism leaves out phenomenal facts entirely
 - **Quantum interpretation**: Many-Worlds is axiomatically simpler but ontologically extravagant; Copenhagen is the reverse. Parsimony yields contradictory verdicts depending on which dimension is weighted
 
 The historical record reinforces this. Ernst Mach resisted atomic theory on parsimony grounds. Continuous matter *seemed* simpler. Atoms were real. Heliocentrism initially required more epicycles than geocentrism. Quantum mechanics replaced deterministic simplicity with probability amplitudes. In each case, nature proved more complex than parsimony predicted.
