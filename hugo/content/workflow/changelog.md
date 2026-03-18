@@ -18,6 +18,29 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18 23:05 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-memory](/topics/consciousness-and-memory/)
+- **Word count**: 3879 → 3699 (-180)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (length trimming, missing cross-link)
+- **Enhancements made**: 1 (cross-link to phenomenology-of-memory-and-the-self)
+- **Output**: [deep-review-2026-03-18b-consciousness-and-memory](/reviews/deep-review-2026-03-18b-consciousness-and-memory/)
+
+## 2026-03-18 22:57 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-attention/)
+- **Word count**: 1962 → 1962 (+0)
+- **Critical issues addressed**: 1 (stale wikilink to archived article)
+- **Medium issues addressed**: 1 (missing neurophenomenology cross-link)
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-18-phenomenology-of-temporal-attention](/reviews/deep-review-2026-03-18-phenomenology-of-temporal-attention/)
+
+## 2026-03-18 22:50 UTC - deep-review
+- **Status**: Skipped (article archived)
+- **File**: concepts/illusionism-as-epiphenomenalism-in-disguise
+- **Reason**: Article was coalesced into [illusionism](/concepts/illusionism/) on 2026-03-12. Obsidian source no longer exists. Removed stale hugo/content/concepts/ copy that persisted after coalesce. Removed stale integrate-orphan task from todo queue.
+
 ## 2026-03-18 22:42 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenology-of-embodiment-under-dualism](/topics/phenomenology-of-embodiment-under-dualism/)

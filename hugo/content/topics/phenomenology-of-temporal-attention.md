@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-11 06:32:00+00:00
+ai_modified: 2026-03-18 22:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: How attention shapes the lived experience of time—stretching, com
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-19 16:21:00+00:00
+last_deep_review: 2026-03-18 22:57:00+00:00
 modified: *id001
 related_articles:
 - '[[phenomenology-of-returning-attention]]'
@@ -57,7 +57,7 @@ Husserl's tripartite structure of temporal consciousness describes the architect
 - **Distracted attention** weakens all three components. Retention fades quickly, protention collapses to mere reactivity, and primal impression thins. The present becomes a narrow, shallow instant.
 - **Meditative attention** reveals the microstructure of all three. [Contemplative traditions](/topics/contemplative-practice-as-philosophical-evidence/) report that sustained attention to the present moment discloses rapid arising and passing—what the Buddhist phenomenological tradition calls *khaṇika* (momentariness)—normally blurred by ordinary attention. (The Buddhist analysis also challenges the assumption of a stable attender: *khaṇika* reveals momentariness in the act of attending itself. The Map acknowledges this tension while maintaining that the experiential subject, however impermanent moment-to-moment, is irreducible to physical process.)
 
-Francisco Varela's neurophenomenological research programme proposed that trained meditators should access temporal structure at scales below ordinary threshold—a hypothesis consistent with subsequent experimental work on meditation and attentional processing (Slagter et al., 2007). The specious present is not a given but an attentional achievement—its depth and span reflect how consciousness directs itself through time.
+Francisco Varela's [neurophenomenological](/concepts/neurophenomenology/) research programme proposed that trained meditators should access temporal structure at scales below ordinary threshold—a hypothesis consistent with subsequent experimental work on meditation and attentional processing (Slagter et al., 2007). The specious present is not a given but an attentional achievement—its depth and span reflect how consciousness directs itself through time.
 
 ## Temporal Attention and the Hard Problem
 

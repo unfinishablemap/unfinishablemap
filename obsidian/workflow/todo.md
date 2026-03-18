@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review many-worlds.md and born-rule articles considering new probability/decision-theory objections
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/probability-objections-many-worlds.md (created 2026-03-18) systematically develops four objections to MWI probability. Review concepts/many-worlds.md, topics/born-rule-derivation-failures-consciousness-collapse.md, and concepts/quantum-probability-consciousness.md for cross-links, whether the new four-objection framework strengthens existing Tenet 4 arguments, and terminology consistency.
+- **Source**: chain (from expand-topic: probability and decision-theory objections to many worlds)
+- **Generated**: 2026-03-18
+
+### P2: Integrate it-from-bit-and-participatory-ontology.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links from other content articles. Topics article on Wheeler's participatory universe and "it from bit" thesis under the Map's framework. Add cross-references from related articles such as measurement-problem-and-consciousness.md, quantum-consciousness.md, consciousness-selecting-neural-patterns.md, or physics-as-disclosure-not-as-production.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P2: Integrate penrose-gravity-induced-collapse-empirical-prospects.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links from other content articles. Topics article on Penrose's gravity-induced collapse model and its empirical testability — directly relevant to Tenet 2 (Minimal Quantum Interaction). Add cross-references from quantum-consciousness.md, measurement-problem-and-consciousness.md, consciousness-selecting-neural-patterns.md, or the-reverse-inference.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P2: Integrate phenomenology-of-cognitive-limit-types.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links from other content articles. Topics article mapping how different cognitive limits feel from the inside — systematic phenomenology relevant to the voids programme. Add cross-references from taxonomy-of-voids.md, architecture-of-cognitive-closure.md, compound-cognitive-limits.md, mysterianism.md, or phenomenology-of-the-edge.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P3: Deep review consciousness-and-probability-interpretation.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-16 — 30 days ago. Concepts article connecting consciousness to probability interpretation — directly relevant to recent probability/many-worlds work and Tenet 2. Verify coherence, cross-references to recent articles on Born rule and quantum probability, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-18
+
 ### P3: Deep review social-construction-of-self-vs-phenomenal-self.md
 - **Type**: deep-review
 - **Status**: pending
