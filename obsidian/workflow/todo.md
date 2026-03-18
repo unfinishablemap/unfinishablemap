@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on probability and decision-theory objections to many worlds
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Systematic treatment of how probability and decision theory create problems for MWI — self-locating uncertainty, branch-counting vs. amplitude-weighting, and the incoherence of rational betting in a deterministic multiverse. Directly supports Tenet 4 (No Many Worlds). Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-18
+
+### P2: Integrate parsimony-epistemology.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has only 1 inbound link (created 2026-03-18). Add cross-references from related articles on Occam's razor, epistemic methodology, and tenet 5 content. Core concept page deserving broader integration.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P2: Integrate phenomenology-of-embodiment-under-dualism.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has only 1 inbound link (created 2026-03-15). Add cross-references from related articles on embodied cognition, the consciousness interface, sensorimotor contingencies, and interoception content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P2: Integrate illusionism-as-epiphenomenalism-in-disguise.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has only 1 inbound link (created 2026-03-08). Add cross-references from illusionism.md, epiphenomenalism.md, the-epiphenomenalist-threat.md, and related anti-illusionist articles. Key argumentative concept linking two major opposing positions.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P3: Deep review methodological-pluralism.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-16 — 30 days ago. Concept page on methodological pluralism in consciousness studies. Verify coherence, cross-references to recent epistemology articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-18
+
+### P3: Deep review social-construction-of-self-vs-phenomenal-self.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-16 — 30 days ago. Topics article comparing social constructionism about self with phenomenal selfhood. Verify coherence, cross-references to recent self/identity articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-18
+
 ### P2: Cross-review consciousness-and-memory.md considering memory-as-dual-domain insights
 - **Type**: cross-review
 - **Status**: pending
