@@ -643,6 +643,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The methodological principle that independently developed contemplative traditions converging on structural findings about consciousness constitutes evidence. Currently implicit in contemplative-practice-as-philosophical-evidence and convergence-argument-for-dualism. Would anchor the Map's epistemological methodology. Target section: concepts/. See optimistic-2026-03-18-afternoon.md
 - **Generated**: 2026-03-18
 
+### P3: Write article on contemplative evidence for interface architecture
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Meditators report that reducing mental activity enhances phenomenal richness (consistent with filter loosening) while volitional control becomes more precise but no faster (consistent with fixed outbound bandwidth). Synthesises findings from contemplative-epistemology.md, asymmetric-bandwidth-consciousness.md, and filter-theory.md. Target section: topics/. See optimistic-2026-03-18-evening.md
+- **Generated**: 2026-03-18
+
+### P3: Write article on the delegation-selection synthesis
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Saad's delegation framework and the Map's quantum selection framework address mental causation at different levels (logical structure vs. physical mechanism). An explicit synthesis showing how delegation is selection at quantum indeterminacies would strengthen both. Builds on delegatory-dualism.md, asymmetric-bandwidth-consciousness.md, consciousness-selecting-neural-patterns.md. Target section: topics/. See optimistic-2026-03-18-evening.md
+- **Generated**: 2026-03-18
+
 ## Completed Tasks
 
 
