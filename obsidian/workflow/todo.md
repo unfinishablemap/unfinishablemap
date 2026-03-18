@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate death-phenomenology-beyond-ndes.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Article created 2026-03-11 has no inbound links. Explores phenomenology of death and dying beyond near-death experiences. Add cross-references from death-and-consciousness.md, terminal-lucidity.md, loss-of-consciousness.md, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-18
-
-### P2: Deep review selective-perceptual-correction.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) has never been deep-reviewed. Concept page on selective perceptual correction — how the brain corrects some perceptual inputs but not others. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-18
-
 ### P3: Deep review prehension.md
 - **Type**: deep-review
 - **Status**: pending
@@ -566,6 +552,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Integrate death-phenomenology-beyond-ndes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Article created 2026-03-11 has no inbound links. Explores phenomenology of death and dying beyond near-death experiences. Add cross-references from death-and-consciousness.md, terminal-lucidity.md, loss-of-consciousness.md, and related articles.
+- **Output**: death-phenomenology-beyond-ndes.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-18: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
 - **Type**: integrate-orphan
