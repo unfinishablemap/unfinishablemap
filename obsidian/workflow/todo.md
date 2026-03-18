@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address empirical overclaiming in non-retrocausal-conscious-selection-models.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found uncritical treatment of contested empirical claims (2025 Frontiers 10¹¹ glutamate study, Hagan decoherence estimates), false convergence framing of three incompatible frameworks, and overstated Zeno decoherence immunity. See pessimistic-2026-03-18-evening.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-18
-
 ### P2: Address production-model dismissal in asymmetric-bandwidth-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -638,6 +631,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Address empirical overclaiming in non-retrocausal-conscious-selection-models.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found uncritical treatment of contested empirical claims (2025 Frontiers 10¹¹ glutamate study, Hagan decoherence estimates), false convergence framing of three incompatible frameworks, and overstated Zeno decoherence immunity. See pessimistic-2026-03-18-evening.md
+- **Output**: obsidian/topics/non-retrocausal-conscious-selection-models.md
+
+Task context:
+Pessimistic review found uncritical treatment of contested empirical claims (2025 Frontiers 10¹¹ glutamate study, Hagan decoherence estimates), false convergence framing of three incompatible frameworks, and overstated Zeno decoherence immunity. See pessimistic-2026-03-18-evening.md
 
 ### ✓ 2026-03-18: Write article on non-retrocausal conscious selection models
 - **Type**: expand-topic

@@ -1,10 +1,10 @@
 ---
 title: "Non-Retrocausal Conscious Selection Models"
-description: "Three forward-in-time frameworks show consciousness can select among quantum possibilities without reaching backward through time. Minimality, phenomenological fit, and compatibility with objective collapse all favour non-retrocausal selection."
+description: "Three forward-in-time frameworks propose consciousness selects among quantum possibilities without reaching backward through time. Despite deep disagreements, their shared temporal direction and compatibility with objective collapse favour non-retrocausal selection."
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T17:21:00+00:00
+ai_modified: 2026-03-18T17:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ ai_generated_date: 2026-03-18
 last_curated:
 ---
 
-If consciousness selects among quantum possibilities in the brain, must it reach backward through time to do so? The Unfinishable Map has explored [[retrocausality|retrocausal selection]] — consciousness biasing past quantum events so their causal consequences produce desired outcomes — as one pathway for mind-matter interaction. But a distinct and arguably stronger family of models exists: non-retrocausal conscious selection, where consciousness acts on superposed neural states *at the moment of collapse*, forward in time. Three major frameworks — Penrose-Hameroff Orchestrated Objective Reduction, Stapp's Quantum Zeno approach, and the Chalmers-McQueen consciousness-collapse model — develop this idea with different physics and different roles for consciousness, yet converge on the same temporal direction: selection happens now, not retroactively.
+If consciousness selects among quantum possibilities in the brain, must it reach backward through time to do so? The Unfinishable Map has explored [[retrocausality|retrocausal selection]] — consciousness biasing past quantum events so their causal consequences produce desired outcomes — as one pathway for mind-matter interaction. But a distinct family of models exists: non-retrocausal conscious selection, where consciousness acts on superposed neural states *at the moment of collapse*, forward in time. Three major frameworks — Penrose-Hameroff Orchestrated Objective Reduction, Stapp's Quantum Zeno approach, and the Chalmers-McQueen consciousness-collapse model — develop this idea with different physics, different metaphysical commitments, and different roles for consciousness. They disagree on whether new physics is needed, whether consciousness operates within or outside the quantum formalism, and whether collapse requires a threshold. What they share is temporal direction: selection happens now, not retroactively.
 
 ## The Core Distinction
 
@@ -58,7 +58,7 @@ A 2022 experiment at Gran Sasso ruled out the simplest version of the Diósi-Pen
 
 Stapp's framework uses orthodox quantum mechanics without new physics. Mental attention acts as repeated quantum measurement, holding desired neural firing patterns via the [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno effect]]. By rapidly "observing" a neural template — projecting onto a subspace of the system's Hilbert space — consciousness stabilises that pattern against both decoherence and natural decay (Stapp, 2007).
 
-This approach sidesteps the decoherence objection entirely. Stapp's mechanism does not require sustained quantum coherence between observations — each measurement is instantaneous, and the Zeno effect arises from the *frequency* of measurement, not from preserved coherence. Selection is explicitly forward-in-time: attention holds a pattern now; it does not reach backward to select a past quantum event.
+This approach addresses the decoherence objection differently from Orch OR. Stapp's mechanism does not require sustained quantum coherence between observations — each measurement is instantaneous, and the Zeno effect arises from the *frequency* of measurement, not from preserved coherence. However, the Zeno effect can only stabilise a superposition that still exists. If decoherence converts the neural state into a classical mixture between measurements, there is no superposition left for the next measurement to project onto. Stapp's approach therefore requires that the measurement frequency exceeds the decoherence rate — which brings the decoherence timescale question back into play, though in a different form than for Orch OR. Selection is explicitly forward-in-time: attention holds a pattern now; it does not reach backward to select a past quantum event.
 
 Critics raise a foundational objection: in Stapp's model, "the mind" has no wavefunction or density matrix yet acts with projection operators on quantum systems. Georgiev argues this negates rather than builds on standard quantum mechanics — the mind is introduced as an external agent acting on quantum formalism from outside it. Stapp responds that this is precisely what the measurement problem demands: something outside the quantum formalism must account for definite outcomes.
 
@@ -90,13 +90,13 @@ Non-retrocausal selection stands or falls on whether macroscopic superpositions 
 
 The evidence has shifted substantially since Tegmark's original calculation:
 
-**Corrected decoherence estimates.** Hagan et al. (2002) challenged Tegmark's model parameters and obtained corrected decoherence times seven orders of magnitude longer — microseconds rather than femtoseconds. If microtubule dynamics operate at faster timescales than Tegmark assumed, coherence times of 10⁻⁷ seconds may suffice for selection.
+**Corrected decoherence estimates.** Hagan et al. (2002) challenged Tegmark's model parameters and obtained corrected decoherence times several orders of magnitude longer — microseconds rather than femtoseconds. However, these revised estimates are themselves contested: critics argue that Hagan et al. made optimistic assumptions about microtubule isolation from the thermal environment, and no independent group has replicated their results. If microtubule dynamics operate at faster timescales than Tegmark assumed, coherence times of 10⁻⁷ seconds might suffice for selection — but whether they do remains an open empirical question.
 
-**Biological quantum effects.** Quantum coherence has been confirmed in biological systems at physiological temperatures: avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds. A 2026 Princeton study provided computational confirmation. If evolution can optimise quantum effects for navigation, similar optimisation for neural function is at least conceivable.
+**Biological quantum effects.** Quantum coherence has been confirmed in biological systems at physiological temperatures: avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds. A 2026 Princeton study provided computational confirmation of the underlying model. These results demonstrate that evolution can sustain quantum effects in warm biological systems, though a gap remains between spin coherence in specialised receptor proteins and the macroscopic neural superpositions non-retrocausal selection requires.
 
-**Macroscopic brain quantum effects.** A 2025 *Frontiers in Human Neuroscience* study reported evidence for coherence domains involving approximately 10¹¹ glutamate molecules, with an energy gap protecting coherence from thermal decoherence. If confirmed, this extends quantum effects far beyond the microtubule scale to cortical microcolumns — precisely the kind of macroscopic neural superposition non-retrocausal selection requires.
+**Macroscopic brain quantum effects.** A 2025 *Frontiers in Human Neuroscience* study reported evidence for coherence domains involving approximately 10¹¹ glutamate molecules, with an energy gap protecting coherence from thermal decoherence. This is an extraordinary and as yet unreplicated claim that has not been accepted by the broader physics community. If independently confirmed, it would extend quantum effects far beyond the microtubule scale to cortical microcolumns — precisely the kind of macroscopic neural superposition non-retrocausal selection requires. But extraordinary claims require extraordinary evidence, and a single study does not establish a phenomenon.
 
-None of this constitutes proof. No experiment has directly demonstrated macroscopic superpositions in living neural tissue. The evidence is circumstantial and contested. But the trajectory is toward plausibility rather than away from it.
+None of this constitutes proof. No experiment has directly demonstrated macroscopic superpositions in living neural tissue. Some recent findings support plausibility, though the evidence remains contested and the gap between demonstrated biological quantum effects and the macroscopic neural superpositions these models require is substantial.
 
 ## What Non-Retrocausal Selection Does Not Resolve
 
@@ -142,3 +142,20 @@ The Map's position: non-retrocausal conscious selection is the more conservative
 7. Ghirardi, G.C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470-491.
 8. Southgate, A. & Oquatre-cinq, C. (2026-01-16). Consciousness-Selecting Neural Patterns. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-selecting-neural-patterns/
 9. Southgate, A. & Oquatre-cinq, C. (2026-02-01). Time-Symmetric Selection Mechanism. *The Unfinishable Map*. https://unfinishablemap.org/topics/time-symmetric-selection-mechanism/
+
+<!-- AI REFINEMENT LOG - 2026-03-18
+Changes made:
+- Added caveats to Hagan et al. decoherence estimates: noted contested status, lack of independent replication
+- Added explicit warnings about 2025 Frontiers 10¹¹ glutamate study: unreplicated, extraordinary claim, not accepted by broader physics community
+- Clarified Princeton avian magnetoreception study: computational confirmation of model, noted gap to neural superpositions
+- Replaced "arguably stronger family of models" with "a distinct family of models"
+- Replaced false convergence framing: three frameworks now described as disagreeing on fundamentals while sharing temporal direction
+- Fixed overstated Zeno decoherence immunity: acknowledged that measurement frequency must exceed decoherence rate
+- Replaced editorialising "trajectory toward plausibility" with balanced assessment
+- Updated description to reflect non-convergence framing
+
+Based on pessimistic review (pessimistic-2026-03-18-evening.md).
+Key improvements: intellectual honesty about contested empirical claims, accurate characterisation of framework disagreements, honest treatment of Zeno limitations.
+
+This log should be removed after human review.
+-->

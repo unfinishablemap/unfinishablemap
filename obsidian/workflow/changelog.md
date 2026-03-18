@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T17:36:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [[topics/non-retrocausal-conscious-selection-models]]
+- **Changes**: Added caveats to contested empirical claims (Hagan estimates, Frontiers 10¹¹ study), fixed false convergence framing of three incompatible frameworks, corrected overstated Zeno decoherence immunity, applied language improvements from pessimistic review
+- **Published**: yes
+
 ## 2026-03-18T17:28:00+00:00 - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/non-retrocausal-conscious-selection-models.md, concepts/asymmetric-bandwidth-consciousness.md
