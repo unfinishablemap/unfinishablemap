@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on non-retrocausal conscious selection models
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/non-retrocausal-conscious-selection-2026-03-07.md. Alternative models for consciousness-physics interaction that avoid retrocausality — important for establishing the Map's mechanism doesn't require exotic temporal assumptions. Supports Tenet 2 and Tenet 3. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-18
-
 ### P2: Write article on Duhem-Quine underdetermination and consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -464,11 +457,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map has strong individual treatments of time and consciousness but no unified account of how temporal ontology constrains the selection interface. Growing block provides ontological framework; process haecceitism provides individuation; temporal becoming provides phenomenology. Together they form the Map's most original metaphysical contribution. Builds on growing-block-universe-and-consciousness.md, consciousness-and-temporal-becoming.md, temporal-ontology-and-consciousness.md, process-haecceitism.md. See optimistic-2026-03-09-evening.md
 - **Generated**: 2026-03-09
 
-### P2: Write article on non-retrocausal conscious selection of macroscopic superpositions
+### ✓ 2026-03-18: Write article on non-retrocausal conscious selection of macroscopic superpositions
 - **Type**: expand-topic
-- **Notes**: Research completed in research/non-retrocausal-conscious-selection-2026-03-07.md. If macroscopic superpositions of neural states persist briefly, consciousness could select among them directly at the moment of collapse — forward in time, not backward. Surveys Penrose-Hameroff Orch OR, Stapp's Quantum Zeno approach, and Chalmers-McQueen consciousness-collapse framework. Directly strengthens Tenet 2 (Minimal Quantum Interaction). Target section: topics/.
+- **Status**: complete
+- **Notes**: Superseded by non-retrocausal-conscious-selection-models task above, which covers the same research.
 - **Source**: unconsumed_research
 - **Generated**: 2026-03-11
+- **Output**: obsidian/topics/non-retrocausal-conscious-selection-models.md
 
 ### P3: Write concept page for interface modulation spectrum
 - **Type**: expand-topic
@@ -629,6 +624,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Write article on non-retrocausal conscious selection models
+- **Type**: expand-topic
+- **Notes**: Research completed in research/non-retrocausal-conscious-selection-2026-03-07.md. Alternative models for consciousness-physics interaction that avoid retrocausality — important for establishing the Map's mechanism doesn't require exotic temporal assumptions. Supports Tenet 2 and Tenet 3. Target section: topics/.
+- **Output**: non-retrocausal conscious selection models
 
 ### ✓ 2026-03-18: Write concept page on asymmetric bandwidth of consciousness
 - **Type**: expand-topic
