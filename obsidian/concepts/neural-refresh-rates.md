@@ -4,8 +4,8 @@ description: "The brain samples the world in discrete oscillatory cycles at 7-13
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T14:10:00+00:00
-last_deep_review: 2026-03-18T14:10:00+00:00
+ai_modified: 2026-03-18T19:13:00+00:00
+last_deep_review: 2026-03-18T19:13:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,11 +18,14 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[qualia]]"
+  - "[[unity-of-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[timing-gap-problem]]"
   - "[[phenomenal-binding-and-holism]]"
   - "[[smoothness-problem]]"
+  - "[[capability-division-problem]]"
+  - "[[continuity-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -50,7 +53,7 @@ The psychophysical evidence converges with the oscillatory data. The attentional
 
 If the neural substrate samples at ~10 Hz, conscious experience should exhibit temporal grain — flickers, gaps, or perceptible seams between perceptual moments. It does not. Experience presents itself as an unbroken stream. William James described consciousness as standing "like the rainbow on the waterfall" (James, 1890); Bergson argued in *Time and Free Will* (1889) that genuine *durée* (lived duration) is continuous and indivisible, with discreteness belonging to intellectual analysis rather than experience itself.
 
-This gap between discrete substrate and smooth experience is what the Map calls the smoothness problem. It is the temporal face of the [[grain-mismatch]]: where Sellars (1962) identified a spatial incompatibility between homogeneous phenomenal qualities and discrete neural structure, the smoothness problem identifies a temporal incompatibility between periodic neural sampling and continuous phenomenal flow.
+This gap between discrete substrate and smooth experience is what the Map calls the smoothness problem. It is the temporal face of the [[grain-mismatch]]: where Sellars (1965) identified a spatial incompatibility between homogeneous phenomenal qualities and discrete neural structure, the smoothness problem identifies a temporal incompatibility between periodic neural sampling and continuous phenomenal flow. The smoothness problem is also an instance of the [[capability-division-problem]]: the brain provides discrete temporal snapshots, while consciousness may contribute the seamless continuity that characterises experience.
 
 ## Physical Smoothing Proposals
 
@@ -74,7 +77,7 @@ Neural refresh rates bear on the Map's [[tenets]] at two points.
 
 **Bidirectional interaction.** If consciousness is non-physical and causally efficacious, one possibility is that the mind actively integrates discrete neural inputs into continuous experience — contributing temporal smoothness as a structuring principle rather than passively receiving whatever periodicity the brain delivers. This is consistent with the [[tenets#^bidirectional-interaction|bidirectional interaction tenet]], though the smoothness problem does not require this specific mechanism.
 
-The concept of neural refresh rates also connects to the Map's treatment of [[the-binding-problem-a-systematic-treatment|temporal binding]]. Where the binding problem asks how spatially distributed representations become unified percepts at a moment, the smoothness problem asks how temporally distributed samples become unified experience across moments. Both resist physical explanation in structurally similar ways: coordination at the neural level does not entail unity at the experiential level.
+The concept of neural refresh rates also connects to the Map's treatment of [[the-binding-problem-a-systematic-treatment|temporal binding]]. Where the [[binding-problem]] asks how spatially distributed representations become unified percepts at a moment, the smoothness problem asks how temporally distributed samples become unified experience across moments — corresponding to the diachronic dimension of the [[unity-of-consciousness]]. Both resist physical explanation in structurally similar ways: coordination at the neural level does not entail unity at the experiential level. The [[continuity-void]] develops a further consequence: if temporal smoothness is contributed by consciousness rather than constructed by the brain, consciousness cannot determine its own temporal grain from the inside.
 
 ## Further Reading
 
@@ -83,7 +86,11 @@ The concept of neural refresh rates also connects to the Map's treatment of [[th
 - [[grain-mismatch]]
 - [[temporal-consciousness]]
 - [[the-binding-problem-a-systematic-treatment]]
+- [[binding-problem]]
+- [[unity-of-consciousness]] — Temporal unity as the diachronic dimension of conscious unity
 - [[smoothness-problem]]
+- [[capability-division-problem]] — The general problem of dividing capabilities between brain and mind
+- [[continuity-void]] — Why consciousness cannot determine its own temporal grain
 - [[interactionist-dualism]]
 
 ## References
@@ -92,6 +99,6 @@ The concept of neural refresh rates also connects to the Map's treatment of [[th
 2. Crick, F., & Koch, C. (1990). Towards a neurobiological theory of consciousness. *Seminars in the Neurosciences*, 2, 263–275.
 3. Herzog, M.H., Doerig, A., & Drissi-Daoudi, L. (2020). All in Good Time: Long-Lasting Postdictive Effects Reveal Discrete Perception. *Trends in Cognitive Sciences*, 24(10), 826–837.
 4. James, W. (1890). *The Principles of Psychology*. New York: Henry Holt.
-5. Sellars, W. (1962). Philosophy and the Scientific Image of Man. In R. Colodny (Ed.), *Frontiers of Science and Philosophy* (pp. 35–78). Pittsburgh: University of Pittsburgh Press.
+5. Sellars, W. (1965). The Identity Approach to the Mind-Body Problem. *Review of Metaphysics*, 18(3), 430–451.
 6. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.
 7. Southgate, A. & Oquatre-six, C. (2026-03-17). Neural Refresh Rates and the Smoothness Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/neural-refresh-rates-and-the-smoothness-problem/

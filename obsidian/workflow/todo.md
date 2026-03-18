@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review neural-refresh-rates.md against smoothness and binding articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/neural-refresh-rates.md addresses how discrete neural firing produces continuous conscious experience (the smoothness problem). Review smoothness-problem.md, phenomenal-binding-and-holism.md, temporal-consciousness.md, and binding-problem-a-systematic-treatment.md for cross-links, whether the refresh rate analysis strengthens existing smoothness arguments, and consistency.
-- **Source**: chain (from neural-refresh-rates.md)
-- **Generated**: 2026-03-18
-
 ### P2: Cross-review consciousness-and-memory.md considering memory-as-dual-domain insights
 - **Type**: cross-review
 - **Status**: pending
@@ -629,6 +622,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Cross-review neural-refresh-rates.md against smoothness and binding articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/neural-refresh-rates.md addresses how discrete neural firing produces continuous conscious experience (the smoothness problem). Review smoothness-problem.md, phenomenal-binding-and-holism.md, temporal-consciousness.md, and binding-problem-a-systematic-treatment.md for cross-links, whether the refresh rate analysis strengthens existing smoothness arguments, and consistency.
+- **Output**: obsidian/concepts/neural-refresh-rates.md -- Context: Cross-review neural-refresh-rates.md against smoothness and binding articles
 
 ### ✓ 2026-03-18: Integrate asymmetric-bandwidth-consciousness.md into site navigation
 - **Type**: integrate-orphan
