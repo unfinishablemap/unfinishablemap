@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/metaproblem-of-consciousness-under-dualism.md reframes why we have consciousness intuitions under dualism. Review topics/hard-problem-of-consciousness.md for cross-links to metaproblem treatment, reinforcing arguments about why the hard problem resists dissolution, and consistent terminology between the two articles.
+- **Source**: chain (from metaproblem-of-consciousness-under-dualism.md)
+- **Generated**: 2026-03-18
+
+### P2: Cross-review consciousness-and-memory.md considering memory-as-dual-domain-capability insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/memory-as-dual-domain-capability.md separates brain-side (encoding/consolidation) from mind-side (phenomenal recall, episodic re-experiencing) memory contributions. Review topics/consciousness-and-memory.md for cross-links, opportunities to frame existing claims in dual-domain terms, and consistency with the new capability framework.
+- **Source**: chain (from memory-as-dual-domain-capability.md)
+- **Generated**: 2026-03-18
+
+### P2: Cross-review embodied-consciousness-and-the-interface.md considering dual-domain proprioception insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article concepts/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md establishes proprioception and spatial imagination as paradigm cases of dual-domain processing. Review topics/embodied-consciousness-and-the-interface.md for cross-links and whether embodiment claims benefit from the dual-domain evidence on body schema and spatial reasoning.
+- **Source**: chain (from dual-domain-capabilities-in-proprioception-and-spatial-imagination.md)
+- **Generated**: 2026-03-18
+
+### P2: Research amplification mechanisms for consciousness-physics interaction
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: How do minimal quantum-scale biases (Tenet 2) become macroscopic behavioral selection? Survey Stapp's Quantum Zeno amplification, Penrose-Hameroff microtubule cascades, neural avalanche dynamics and criticality, biological signal amplification precedents, and whether quantum selection can exploit neural criticality. Supports queued concept page on the amplification problem and strengthens several existing articles on conscious selection mechanisms. Target section for eventual article: concepts/.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-18
+
 ### P3: Deep review free-will.md
 - **Type**: deep-review
 - **Status**: pending
