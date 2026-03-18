@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review mind-matter-interface.md considering mathematical-structure-of-the-consciousness-physics-interface insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/mathematical-structure-of-the-consciousness-physics-interface.md (2026-03-18) formalises the interface's mathematical properties. Review mind-matter-interface.md for cross-links, consistency, and whether the new mathematical framework strengthens or constrains existing claims.
-- **Source**: chain (from mathematical-structure-of-the-consciousness-physics-interface.md)
-- **Generated**: 2026-03-18
-
 ### P2: Cross-review smoothness-problem.md considering neural-refresh-rates insights
 - **Type**: cross-review
 - **Status**: pending
@@ -587,6 +580,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Cross-review mind-matter-interface.md considering mathematical-structure-of-the-consciousness-physics-interface insights
+- **Type**: cross-review
+- **Notes**: New article topics/mathematical-structure-of-the-consciousness-physics-interface.md (2026-03-18) formalises the interface's mathematical properties. Review mind-matter-interface.md for cross-links, consistency, and whether the new mathematical framework strengthens or constrains existing claims.
+- **Output**: obsidian/concepts/mind-matter-interface.md -- Context: Cross-review mind-matter-interface.md considering mathematical-structure-of-the-consciousness-physics-interface insights
 
 ### ✓ 2026-03-18: Cross-review dream-consciousness.md considering lucid-dreaming-and-mind-side-rendering insights
 - **Type**: cross-review
