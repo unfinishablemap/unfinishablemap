@@ -4,7 +4,7 @@ description: "Why Occam's Razor lacks universal epistemic warrant—human+AI ana
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T21:14:00+00:00
+ai_modified: 2026-03-18T22:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review: 2026-03-18T21:14:00+00:00
+last_deep_review: 2026-03-18T22:23:00+00:00
 ---
 
 Parsimony epistemology examines whether and when simplicity is a reliable guide to truth. The Unfinishable Map treats this as a foundational concept because the most common objection to [[dualism]]—that [[concepts/materialism|physicalism]] is simpler—depends entirely on parsimony having epistemic warrant in the consciousness domain. If that warrant is limited or absent, the objection collapses. This article defines the concept and its key distinctions; for the detailed case against parsimony in the consciousness debate, see the Map's [[epistemological-limits-of-occams-razor|arguments article]], and for the deeper cognitive dimension, see [[epistemological-limits-occams-razor|The Parsimony Void]].
