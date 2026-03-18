@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/metaproblem-of-consciousness-under-dualism.md addresses why we think consciousness is hard (Chalmers' metaproblem). Check hard-problem-of-consciousness.md for cross-links, whether metaproblem arguments strengthen or refine the hard problem treatment, and terminology consistency.
-- **Source**: chain (from metaproblem-of-consciousness-under-dualism.md)
-- **Generated**: 2026-03-18
-
 ### P2: Cross-review consciousness-and-memory.md considering memory-as-dual-domain insights
 - **Type**: cross-review
 - **Status**: pending
@@ -617,6 +610,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
+- **Type**: cross-review
+- **Notes**: New article topics/metaproblem-of-consciousness-under-dualism.md addresses why we think consciousness is hard (Chalmers' metaproblem). Check hard-problem-of-consciousness.md for cross-links, whether metaproblem arguments strengthen or refine the hard problem treatment, and terminology consistency.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
 
 ### ✓ 2026-03-18: Write article on Duhem-Quine underdetermination and consciousness
 - **Type**: expand-topic
