@@ -37,6 +37,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write concept page on probability and decision-theory objections to many worlds
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Deutsch-Wallace decision-theoretic derivation circularity, branch-counting vs. amplitude-weighting, Kent's and Albert's probability objections. Directly supports Tenet 4 (No Many Worlds). Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-18
+
+### P2: Write article on asymmetric bandwidth of consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/asymmetric-bandwidth-consciousness-2026-03-02.md. The consciousness-brain interface has dramatically asymmetric bandwidth — rich phenomenal input, narrow volitional output. This asymmetry constrains interface models and distinguishes the Map's framework from simple interactionism. Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-18
+
+### P2: Write concept page on the reconstruction paradox
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. When the brain "corrects" perceptual errors or fills in blind spots, is it reconstructing what consciousness should see, or is consciousness selecting among candidate reconstructions? The paradox reveals the interface's bidirectional nature. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-18
+
+### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-15 has no inbound links. Topics article on dream problem-solving as evidence for conscious influence. Add cross-references from related articles (dream-consciousness.md, lucid-dreaming-and-dualist-rendering.md, consciousness-as-amplifier.md) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P2: Integrate death-phenomenology-beyond-ndes.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-11 has no inbound links. Topics article on death phenomenology beyond near-death experiences. Add cross-references from related articles (consciousness-and-death.md, terminal-lucidity.md, filter-theory.md) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P2: Integrate phenomenology-of-perceptual-learning.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-11 has no inbound links. Topics article on how perceptual learning reshapes conscious experience. Add cross-references from related articles (perception-and-conscious-experience.md, attention-as-selection-interface.md, consciousness-interface-development.md) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-18
+
+### P3: Deep review free-will.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) with stale deep review. Core topics article on free will under dualism. Verify coherence, cross-references to recent articles on agency, deliberation, and temporal consciousness, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-18
+
 ### P3: Deep review prehension.md
 - **Type**: deep-review
 - **Status**: pending
