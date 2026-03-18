@@ -31,6 +31,11 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-21
 last_curated: null
+archived: true
+archived_date: 2026-03-18T18:54:00+00:00
+superseded_by: "/voids/phenomenology-of-self-awareness/"
+archive_reason: "Coalesced into The Phenomenology of Self-Awareness"
+original_path: "/voids/phenomenology-of-error-recognition/"
 ---
 
 How does a mind recognise its own errors? The question reveals a peculiar structure: the same cognitive system that produced the mistake must now detect it—but using what standard? Error recognition is a form of self-correction where the corrector and the corrected are the same system. This creates what might be called the **bootstrap problem of self-correction**: you cannot pull yourself up by your own bootstraps, yet minds do exactly this, routinely and successfully. The mystery is how.

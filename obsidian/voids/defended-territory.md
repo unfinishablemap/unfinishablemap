@@ -18,7 +18,7 @@ related_articles:
   - "[[tenets]]"
   - "[[thoughts-that-slip-away]]"
   - "[[whether-real]]"
-  - "[[phenomenology-of-error-recognition]]"
+  - "[[phenomenology-of-self-awareness]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[simulation-detection-void]]"
   - "[[apophatic-approaches]]"
@@ -144,7 +144,7 @@ The hypothesis is speculative. Most slippage has mundane explanations. What dist
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Phenomenology of slippage mechanisms
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at boundaries
 - [[whether-real|Whether the Voids Are Real]] — The question of genuine versus apparent limits
-- [[phenomenology-of-error-recognition|The Phenomenology of Error Recognition]] — How minds detect their own failures
+- [[phenomenology-of-self-awareness|The Phenomenology of Self-Awareness]] — How minds detect their own failures
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's analysis of structural limits
 - [[simulation-detection-void|The Simulation Detection Void]] — Where all three void types converge around defended territory
 - [[simulation|The Simulation Hypothesis]] — Framework raising external occlusion questions

@@ -21,7 +21,7 @@ concepts:
   - "[[galilean-exclusion]]"
 related_articles:
   - "[[tenets]]"
-  - "[[phenomenology-of-self-reference]]"
+  - "[[phenomenology-of-self-awareness]]"
   - "[[phenomenology-of-recursive-thought]]"
   - "[[the-self-minimal-narrative-and-substantial]]"
   - "[[consciousness-and-the-ownership-problem]]"
@@ -77,7 +77,7 @@ The [[jourdain-hypothesis|Jourdain Hypothesis]] illuminates this question. Moli�
 
 The [[baseline-cognition|baseline cognition]] research is revealing. Great apes demonstrate sophisticated cognition — tool use, social learning, procedural metacognition — yet appear to lack the recursive self-reflection that characterises human thought. They monitor their cognitive states (procedural [[metacognition]]) without representing themselves *as beings who have cognitive states*. The gap between procedural metacognition and genuine self-consciousness — between *adjusting behaviour based on uncertainty* and *knowing that one is uncertain* — may be where reflective self-consciousness enters.
 
-This comparative picture suggests self-consciousness has degrees. Pre-reflective self-consciousness may be widespread among conscious creatures. Reflective self-consciousness — the capacity to take one's own awareness as an object of thought — may be far more restricted, perhaps to humans and a handful of other species. Full recursive self-consciousness — thinking about the fact that one is thinking about one's thinking — may be uniquely human, and as the [[phenomenology-of-self-reference|phenomenology of self-reference]] reveals, even human self-consciousness encounters structural limits when it attempts deep recursion.
+This comparative picture suggests self-consciousness has degrees. Pre-reflective self-consciousness may be widespread among conscious creatures. Reflective self-consciousness — the capacity to take one's own awareness as an object of thought — may be far more restricted, perhaps to humans and a handful of other species. Full recursive self-consciousness — thinking about the fact that one is thinking about one's thinking — may be uniquely human, and as the [[phenomenology-of-self-awareness|phenomenology of self-reference]] reveals, even human self-consciousness encounters structural limits when it attempts deep recursion.
 
 ## The Meta-Hard Problem
 
@@ -106,7 +106,7 @@ Self-consciousness connects to the Map's foundational commitments at multiple po
 - [[metacognition]] — Monitoring cognition vs knowing that one monitors
 - [[the-unobservable-self]] — Why the observer cannot catch itself observing
 - [[ownership-void|The Ownership Void]] — Why the for-me-ness of experience hides its own ground
-- [[phenomenology-of-self-reference]] — What self-reference feels like from the inside
+- [[phenomenology-of-self-awareness]] — What self-reference feels like from the inside
 - [[jourdain-hypothesis]] — Having mental states vs knowing you have them
 - [[witness-consciousness]] — Awareness stripped of reflexive identification
 - [[the-self-minimal-narrative-and-substantial]] — Three conceptions of selfhood

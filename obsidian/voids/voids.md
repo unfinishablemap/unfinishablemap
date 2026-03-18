@@ -129,11 +129,10 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[absorption-void|The Absorption Void]] — Peak conscious engagement is peak self-opacity
 - [[appetitive-void|The Appetitive Void]] — How desire constitutes cognition rather than merely distorting it
 - [[destabilizing-self-knowledge|Destabilizing Self-Knowledge]] — Knowledge that undermines its own conditions
-- [[phenomenology-of-error-recognition|The Phenomenology of Error Recognition]] — Detecting one's own mistakes
+- [[phenomenology-of-self-awareness|The Phenomenology of Self-Awareness]] — Self-reference, error-blindness, and the bootstrap problem of self-correction
 - [[altered-states-as-void-probes|Altered States as Void Probes]] — Whether altered states reveal cognitive limits or simulate transcendence
 - [[attention-disorders-and-consciousness|Consciousness and Attention Disorders]] — When consciousness's own instrument is disordered
 - [[introspective-opacity|Introspective Opacity]] — Why we access mental contents but never the mechanisms that produce them
-- [[phenomenology-of-self-reference|The Phenomenology of Self-Reference]] — Felt inversion, vertigo, and oscillation when consciousness refers to itself
 - [[reality-feeling-void|The Reality-Feeling Void]] — The mechanism that stamps experience with realness, visible only when it fails
 - [[the-givenness-void|The Givenness Void]] — Why experience's immediate thereness resists examination
 - [[the-silence-void|The Silence Void]] — Whether cognitive silence accesses truths that reasoning cannot reach

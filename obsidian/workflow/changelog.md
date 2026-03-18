@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T18:54:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[phenomenology-of-error-recognition]], [[phenomenology-of-self-reference]]
+- **Target**: [[phenomenology-of-self-awareness]]
+- **Archived**: archive/voids/phenomenology-of-error-recognition.md, archive/voids/phenomenology-of-self-reference.md
+- **References updated**: 16 files
+- **Net article reduction**: 2 → 1 (voids section: 101 → 100)
+
 ## 2026-03-18T18:47:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/duhem-quine-underdetermination-consciousness]]

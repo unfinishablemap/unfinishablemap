@@ -30,6 +30,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
 last_deep_review: 2026-03-06T22:38:00+00:00
+archived: true
+archived_date: 2026-03-18T18:54:00+00:00
+superseded_by: "/voids/phenomenology-of-self-awareness/"
+archive_reason: "Coalesced into The Phenomenology of Self-Awareness"
+original_path: "/voids/phenomenology-of-self-reference/"
 ---
 
 When you say "I," something happens that does not happen when you say "tree." The word refers, but in referring it curves back toward whatever is doing the referring. This self-referential act has a distinctive phenomenology—a felt quality unlike reference to anything external. The Unfinishable Map's voids framework asks: what does this peculiar experience reveal about the limits of self-knowledge?

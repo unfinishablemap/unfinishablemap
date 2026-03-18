@@ -19,7 +19,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[attention-as-interface]]"
   - "[[decoherence]]"
-  - "[[phenomenology-of-error-recognition]]"
+  - "[[phenomenology-of-self-awareness]]"
   - "[[consciousness-and-mathematical-understanding]]"
   - "[[cognitive-phenomenology]]"
   - "[[the-unobservable-self]]"
@@ -136,11 +136,11 @@ This differs from the process/content distinction. That distinction says we cann
 
 David Hume put it empirically: "I can never catch myself at any time without a perception." When we look for the looker, we find only more looking. [[witness-consciousness|Witness consciousness]] traditions recognise this: the instruction to "look at the looker" exhausts the search rather than finding something.
 
-The implications: the hard problem is structurally hard (understanding subjectivity requires making subjectivity into an object); training reaches a principled limit (meditators report the limit more clearly, not overcome it); and the calibration problem has a structural root (the thing to be calibrated *is* the calibrator). The [[phenomenology-of-self-reference]] documents what this structural difficulty feels like from the inside: the felt inversion, semantic vertigo, and oscillation that arise when consciousness takes itself as referent. See [[the-unobservable-self]] for extended treatment.
+The implications: the hard problem is structurally hard (understanding subjectivity requires making subjectivity into an object); training reaches a principled limit (meditators report the limit more clearly, not overcome it); and the calibration problem has a structural root (the thing to be calibrated *is* the calibrator). The [[phenomenology-of-self-awareness]] documents what this structural difficulty feels like from the inside: the felt inversion, semantic vertigo, and oscillation that arise when consciousness takes itself as referent. See [[the-unobservable-self]] for extended treatment.
 
 ## Error-Blindness: A Structural Limit
 
-The [[phenomenology-of-error-recognition|phenomenology of error recognition]] reveals another structural limit: *being wrong about our introspective reports feels exactly like being right*. There is no distinctive quale for introspective error. This creates a bootstrap problem: introspection is the tool we use to check our introspective reports, but if the tool is producing errors, it cannot detect them.
+The [[phenomenology-of-self-awareness|phenomenology of error recognition]] reveals another structural limit: *being wrong about our introspective reports feels exactly like being right*. There is no distinctive quale for introspective error. This creates a bootstrap problem: introspection is the tool we use to check our introspective reports, but if the tool is producing errors, it cannot detect them.
 
 This refines the training argument. Contemplative traditions don't merely develop *better introspection*—they develop *awareness of introspective limitations*. The expert introspector differs from the novice not only in accuracy but in calibrated uncertainty—knowing what they cannot reliably access.
 
@@ -174,7 +174,7 @@ This matters for consciousness science. If we restricted inquiry to third-person
 - [[contemplative-epistemology]] — First-person observation through contemplative practice as legitimate knowledge
 - [[witness-consciousness]] — The observer phenomenon in contemplative traditions
 - [[apex/testing-the-map-from-inside|Testing the Map from Inside]] — Apex synthesis: phenomenological experiments you can run using your own experience
-- [[phenomenology-of-error-recognition]] — Why introspective error cannot be detected from within
+- [[phenomenology-of-self-awareness]] — Why introspective error cannot be detected from within
 - [[introspective-opacity]] — The void where process access fails structurally, including why we cannot observe our own willing
 - [[attention-disorders-and-consciousness]] — When the attentional basis of introspection is itself disordered
 - [[transition-void|The Transition Void]] — Why consciousness cannot witness its own state transitions—a structural introspective limit
