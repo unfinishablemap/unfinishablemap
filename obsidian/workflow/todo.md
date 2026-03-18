@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on memory as dual-domain capability
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/memory-dual-domain-capability-2026-03-09.md. Memory operates in both brain-side (encoding/consolidation) and mind-side (phenomenal recall, episodic re-experiencing) domains. Key evidence for the dual-domain capability framework. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-18
-
 ### P2: Review probability-problem-in-many-worlds.md considering probability-objections-many-worlds insights
 - **Type**: cross-review
 - **Status**: pending
@@ -619,6 +612,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Write concept page on memory as dual-domain capability
+- **Type**: expand-topic
+- **Notes**: Research completed in research/memory-dual-domain-capability-2026-03-09.md. Memory operates in both brain-side (encoding/consolidation) and mind-side (phenomenal recall, episodic re-experiencing) domains. Key evidence for the dual-domain capability framework. Target section: concepts/.
+- **Output**: Write concept page on memory as dual-domain capability
 
 ### ✓ 2026-03-18: Write concept page on neural refresh rates and the smoothness problem
 - **Type**: expand-topic

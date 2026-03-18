@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T14:03:00+00:00 - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Memory as dual-domain capability
+- **Output**: [[memory-as-dual-domain-capability]] (already existed, created 2026-03-09)
+- **Notes**: Article was already published and refined. Task marked complete.
+
 ## 2026-03-18T13:55:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Neural refresh rates and the smoothness problem
