@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Strengthen diachronic irreducibility argument in self-and-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the cost comparison between diachronic irreducibility (an "unexplained posit") and abandoning numerical identity is asserted rather than argued. Also: the three-position framework assigns Buddhism to "mere causal succession" but Nagarjuna's Madhyamaka rejects all three positions. See pessimistic-2026-03-18-afternoon.md Issues #3, Buddhist Philosopher critique.
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-18
-
 ### P3: Deep review free-will.md
 - **Type**: deep-review
 - **Status**: pending
@@ -608,6 +601,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Strengthen diachronic irreducibility argument in self-and-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the cost comparison between diachronic irreducibility (an "unexplained posit") and abandoning numerical identity is asserted rather than argued. Also: the three-position framework assigns Buddhism to "mere causal succession" but Nagarjuna's Madhyamaka rejects all three positions. See pessimistic-2026-03-18-afternoon.md Issues #3, Buddhist Philosopher critique.
+- **Output**: obsidian/concepts/self-and-consciousness.md
+
+Task context:
+Pessimistic review found the cost comparison between diachronic irreducibility (an "unexplained posit") and abandoning numerical identity is asserted rather than argued. Also: the three-position framework assigns Buddhism to "mere causal succession" but Nagarjuna's Madhyamaka rejects all three positions. See pessimistic-2026-03-18-afternoon.md Issues #3, Buddhist Philosopher critique.
 
 ### ✓ 2026-03-18: Address unfalsifiable conditions and quantum timescale overreach in phenomenology.md
 - **Type**: refine-draft
