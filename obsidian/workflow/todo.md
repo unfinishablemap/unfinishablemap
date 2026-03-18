@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on Duhem-Quine underdetermination and consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/duhem-quine-underdetermination-consciousness-2026-03-04.md. The holism of theory testing means physicalist interpretations of consciousness evidence are underdetermined — alternative dualist interpretations cannot be ruled out by the same data. Directly supports Tenet 5 (Occam's Razor Has Limits). Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-18
-
 ### P2: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
 - **Type**: cross-review
 - **Status**: pending
@@ -624,6 +617,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Write article on Duhem-Quine underdetermination and consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/duhem-quine-underdetermination-consciousness-2026-03-04.md. The holism of theory testing means physicalist interpretations of consciousness evidence are underdetermined — alternative dualist interpretations cannot be ruled out by the same data. Directly supports Tenet 5 (Occam's Razor Has Limits). Target section: topics/.
+- **Output**: Duhem-Quine underdetermination and consciousness
 
 ### ✓ 2026-03-18: Address production-model dismissal in asymmetric-bandwidth-consciousness.md
 - **Type**: refine-draft
