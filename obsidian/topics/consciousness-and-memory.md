@@ -4,7 +4,7 @@ description: "Memory is not storage but structured re-experiencing—and the hie
 created: 2026-02-08
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-16T15:17:00+00:00
+ai_modified: 2026-03-18T15:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-08
 last_curated:
-last_deep_review: 2026-03-09T11:17:00+00:00
+last_deep_review: 2026-03-18T15:50:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-memory/"
   - "/topics/consciousness-and-memory-consolidation/"
@@ -125,7 +125,7 @@ The graduated nature of these modes complicates materialist identification of co
 
 The [[memory-void|memory void]] asks whether past experiences are genuinely recoverable or irrecoverably lost. Evidence overwhelmingly favours the simulationist view: remembering is reconstruction, not retrieval. Each act of recall generates a new experience rather than accessing a stored original. Memories are modified by every retrieval, contaminated by subsequent experience, and shaped by present emotional states.
 
-For dualism, this creates both a challenge and an opportunity. The challenge: if qualia cannot persist as stored traces, what is the relationship between present experience and its physical encoding? Propositional content—the *that* of what happened—survives in neural traces. Phenomenal content—*what it was like*—does not seem to persist as such.
+For dualism, this creates both a challenge and an opportunity. The challenge: if qualia cannot persist as stored traces, what is the relationship between present experience and its physical encoding? Propositional content—the *that* of what happened—survives in neural traces. Phenomenal content—*what it was like*—does not seem to persist as such. This is the temporal dimension of the [[memory-as-dual-domain-capability|dual-domain]] pattern: the physical domain's contribution (propositional content) persists in neural traces across time, while the non-physical domain's contribution (phenomenal character) must be reconstituted at each act of recall.
 
 The opportunity: this is exactly what dualism predicts. If qualia are not identical to physical states, there is no reason to expect them to persist when the physical substrate changes. The information is preserved; the experience is not. Materialists must explain why a supposedly physical phenomenon (conscious experience) fails to persist in the way other physical states do. Dualists have a ready answer: phenomenal properties are not the kind of thing that gets stored in synapses.
 

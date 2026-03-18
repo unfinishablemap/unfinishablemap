@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-and-memory.md considering memory-as-dual-domain-capability insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/memory-as-dual-domain-capability.md separates brain-side (encoding/consolidation) from mind-side (phenomenal recall, episodic re-experiencing) memory contributions. Review topics/consciousness-and-memory.md for cross-links, opportunities to frame existing claims in dual-domain terms, and consistency with the new capability framework.
-- **Source**: chain (from memory-as-dual-domain-capability.md)
-- **Generated**: 2026-03-18
-
 ### P2: Cross-review embodied-consciousness-and-the-interface.md considering dual-domain proprioception insights
 - **Type**: cross-review
 - **Status**: pending
@@ -622,6 +615,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Cross-review consciousness-and-memory.md considering memory-as-dual-domain-capability insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/memory-as-dual-domain-capability.md separates brain-side (encoding/consolidation) from mind-side (phenomenal recall, episodic re-experiencing) memory contributions. Review topics/consciousness-and-memory.md for cross-links, opportunities to frame existing claims in dual-domain terms, and consistency with the new capability framework.
+- **Output**: obsidian/topics/consciousness-and-memory.md -- Context: Cross-review consciousness-and-memory.md considering memory-as-dual-domain-capability insights
 
 ### ✓ 2026-03-18: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
 - **Type**: cross-review
