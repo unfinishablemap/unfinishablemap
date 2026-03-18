@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18 20:05 UTC - deep-review
+- **Status**: Skipped (archived content)
+- **File**: contemplative-evidence-for-consciousness-theories.md
+- **Reason**: Article is archived (2026-02-22), superseded by contemplative-evidence-for-consciousness, which was itself archived (2026-03-09) and superseded by [[topics/contemplative-practice-as-philosophical-evidence]]. The replacement article has ~70 inbound links and is well-integrated. No review needed for archived content.
+
 ## 2026-03-18 19:57 UTC - refine-draft
 - **Status**: Success
 - **File**: Bulk wikilink fix across 15 files
