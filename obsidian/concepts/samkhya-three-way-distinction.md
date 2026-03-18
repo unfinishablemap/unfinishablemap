@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[indian-philosophy-of-mind]]"
   - "[[the-hard-problem-in-non-western-philosophy]]"
-  - "[[interaction-problem-in-non-western-philosophy]]"
+  - "[[interaction-problem-across-traditions]]"
 concepts:
   - "[[dualism]]"
   - "[[interactionist-dualism]]"
@@ -123,7 +123,7 @@ The three-way distinction challenges the Map's framework in productive ways.
 
 - [[indian-philosophy-of-mind]] — Samkhya, Nyaya, and Vedanta compared
 - [[the-hard-problem-in-non-western-philosophy]] — Cross-cultural convergence on irreducibility
-- [[interaction-problem-in-non-western-philosophy]] — Non-Western solutions to mind-body interaction
+- [[interaction-problem-across-traditions]] — Non-Western solutions to mind-body interaction
 - [[witness-consciousness]] — The *sakshi* tradition across Indian philosophy
 - [[filter-theory]] — Brains as filters rather than producers of consciousness
 - [[attention-and-the-consciousness-interface]] — Contemporary evidence for separating attention from awareness

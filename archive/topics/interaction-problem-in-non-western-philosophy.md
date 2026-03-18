@@ -30,6 +30,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-17
 last_curated:
 last_deep_review: 2026-02-21T04:21:00+00:00
+archived: true
+archived_date: 2026-03-18T12:45:00+00:00
+superseded_by: "/topics/interaction-problem-across-traditions/"
+archive_reason: "Coalesced into The Interaction Problem Across Philosophical Traditions"
+original_path: "/topics/interaction-problem-in-non-western-philosophy/"
 ---
 
 The interaction problem—how can mind and body causally affect each other if they are fundamentally distinct?—is usually traced to Princess Elisabeth of Bohemia's 1643 challenge to Descartes. But Indian philosophers posed the same question about Sāṃkhya's Puruṣa-Prakṛti dualism centuries earlier, and Islamic thinkers developed solutions ranging from emanationism to processual ontology long before the Cartesian framework existed. The Unfinishable Map, committed to [[interactionist-dualism]], gains more from engaging these traditions than from treating the interaction problem as exclusively Western. Several non-Western approaches—particularly Sāṃkhya's reflection model and Avicenna's dual-aspect soul—offer resources that contemporary dualists have largely ignored.

@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T12:45:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[interaction-problem-in-non-western-philosophy]], [[interaction-solutions-across-traditions]]
+- **Target**: [[interaction-problem-across-traditions]]
+- **Archived**: archive/topics/interaction-problem-in-non-western-philosophy.md, archive/topics/interaction-solutions-across-traditions.md
+- **References to review**: 0 (all updated inline)
+
 ## 2026-03-18T12:37:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Probability and decision-theory objections to many worlds

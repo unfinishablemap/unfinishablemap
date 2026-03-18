@@ -127,7 +127,7 @@ The exclusion argument assumes event causation — events causing events accordi
 
 E.J. Lowe argued that all causation is fundamentally [[agent-causation#The Metaphysical Foundation: Substance Causation|substance causation]]. The conscious subject causes actions not as one event producing another but as an agent exercising powers. If consciousness is a substance with genuine causal powers operating at quantum indeterminacies, the exclusion argument's framework doesn't apply. The phenomenology of [[mental-effort|mental effort]] supports this: effort feels like *doing* something, not observing correlated events.
 
-Whitehead's process philosophy offers a complementary reframing: "actual occasions" exercise self-determination in constituting themselves from their causal inheritance. If all causation involves experiential self-determination, human mental causation exemplifies what causation fundamentally is. See [[interaction-solutions-across-traditions]] for how process solutions form one of five recurring types across philosophical traditions.
+Whitehead's process philosophy offers a complementary reframing: "actual occasions" exercise self-determination in constituting themselves from their causal inheritance. If all causation involves experiential self-determination, human mental causation exemplifies what causation fundamentally is. See [[interaction-problem-across-traditions]] for how process solutions form one of five recurring types across philosophical traditions.
 
 ### The Interface Question
 

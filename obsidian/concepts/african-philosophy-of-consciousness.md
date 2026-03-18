@@ -19,7 +19,7 @@ concepts:
   - "[[consciousness-value-connection]]"
 related_articles:
   - "[[eastern-philosophy-consciousness]]"
-  - "[[interaction-problem-in-non-western-philosophy]]"
+  - "[[interaction-problem-across-traditions]]"
   - "[[indian-philosophy-of-mind]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[cross-cultural-phenomenology-of-agency]]"
@@ -52,7 +52,7 @@ The Akan people of Ghana developed one of sub-Saharan Africa's most articulated 
 
 This framework is a form of substance [[dualism]] arrived at independently of the Cartesian tradition. The okra is explicitly non-physical: it cannot be detected by the senses, exists before birth, and persists after death. Consciousness, in Akan thought, is grounded in the okra — the body alone does not produce experience.
 
-Critically, Akan philosophy also addresses the [[interaction-problem-in-non-western-philosophy|interaction problem]]. The sunsum mediates between okra and body, functioning as an interface layer. Where Descartes left the pineal gland as an unsatisfying answer to how mind and body interact, the Akan three-part model distributes the interaction across a more graduated ontology. The Map notes a structural parallel — though not a direct connection — with its framework of [[interactionist-dualism]], where consciousness influences physical outcomes at points of quantum indeterminacy. Both posit that something mediates between the conscious and the physical, though the Akan framework predates and is independent of quantum mechanics.
+Critically, Akan philosophy also addresses the [[interaction-problem-across-traditions|interaction problem]]. The sunsum mediates between okra and body, functioning as an interface layer. Where Descartes left the pineal gland as an unsatisfying answer to how mind and body interact, the Akan three-part model distributes the interaction across a more graduated ontology. The Map notes a structural parallel — though not a direct connection — with its framework of [[interactionist-dualism]], where consciousness influences physical outcomes at points of quantum indeterminacy. Both posit that something mediates between the conscious and the physical, though the Akan framework predates and is independent of quantum mechanics.
 
 ## Yoruba Philosophy of Ori
 
@@ -95,7 +95,7 @@ The Map speculates that the Ubuntu tradition's relational ontology may point tow
 ## Further Reading
 
 - [[the-hard-problem-in-non-western-philosophy]]
-- [[interaction-problem-in-non-western-philosophy]]
+- [[interaction-problem-across-traditions]]
 - [[eastern-philosophy-consciousness]]
 - [[cross-cultural-convergence-on-mental-causation]]
 - [[consciousness-and-collective-phenomena]]

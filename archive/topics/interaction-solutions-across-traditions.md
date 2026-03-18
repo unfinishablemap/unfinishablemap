@@ -31,6 +31,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
+archived: true
+archived_date: 2026-03-18T12:45:00+00:00
+superseded_by: "/topics/interaction-problem-across-traditions/"
+archive_reason: "Coalesced into The Interaction Problem Across Philosophical Traditions"
+original_path: "/topics/interaction-solutions-across-traditions/"
 ---
 
 Every philosophical tradition that distinguishes mind from matter eventually confronts the same question: how do they interact? The Unfinishable Map, committed to [[interactionist-dualism]], benefits from seeing that solutions proposed across centuries and continents fall into a surprisingly small number of structural types. Descartes' pineal gland and Nyāya's atomic *manas* are the same kind of answer. Sāṃkhya's reflection model and Avicenna's holistic governance share a logic distinct from both. Mulla Ṣadrā and Whitehead, separated by three centuries and writing in different languages, converge on dissolving the problem through process. These patterns suggest the interaction problem tracks something real about the mind-body relation rather than reflecting any single tradition's conceptual limitations.
