@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-18
-**Article**: [Lucid Dreaming and Mind-Side Rendering](/topics/lucid-dreaming-and-mind-side-rendering/)
+**Article**: [Lucid Dreaming and Mind-Side Rendering](/topics/lucid-dreaming-and-dualist-rendering/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

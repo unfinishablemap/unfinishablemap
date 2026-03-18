@@ -4,7 +4,7 @@ description: "The view that phenomenal experiences carry intrinsic normative for
 created: 2026-01-16
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-16T23:01:00+00:00
+ai_modified: 2026-03-18T05:14:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -30,6 +30,7 @@ related_articles:
   - "[[purpose-and-alignment]]"
   - "[[experiential-alignment]]"
   - "[[living-with-the-map]]"
+  - "[[pragmatisms-path-to-dualism]]"
 ai_contribution: 100
 last_deep_review: 2026-03-16T23:01:00+00:00
 author:
@@ -172,6 +173,7 @@ Phenomenal normativity would face pressure if:
 - [[introspection]] — First-person access to phenomenal states
 - [[witness-consciousness]] — Contemplative access to valence
 - [[hard-problem-of-consciousness]] — The explanatory gap's normative dimension
+- [[pragmatisms-path-to-dualism]] — How phenomenal normativity in evaluation makes pragmatism's own criterion demand dualism
 - [[philosophical-zombies]] — Why normativity requires phenomenal consciousness, not function
 - [[illusionism]] — The challenge that phenomenal consciousness is illusory
 - [[knowledge-argument]] — Phenomenal knowledge exceeds physical description

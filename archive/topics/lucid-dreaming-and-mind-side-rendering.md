@@ -6,6 +6,11 @@ modified: 2026-03-18
 human_modified:
 ai_modified: 2026-03-18T03:30:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-18T06:59:00+00:00
+superseded_by: "/topics/lucid-dreaming-and-dualist-rendering/"
+archive_reason: "Coalesced into Lucid Dreaming and the Evidence for Dualist Rendering"
+original_path: "/topics/lucid-dreaming-and-mind-side-rendering/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[dream-consciousness]]"

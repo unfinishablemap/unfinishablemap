@@ -4,7 +4,7 @@ description: "Hindu, Buddhist, and Taoist traditions converge with dualism on co
 created: 2026-01-09
 modified: 2026-02-06
 human_modified: null
-ai_modified: 2026-03-12T02:05:00+00:00
+ai_modified: 2026-03-18T07:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -105,7 +105,7 @@ Despite different starting points, all three traditions converge on claims that 
 
 **Temporal microstructure**: Buddhist *khaṇika* (momentariness)—experience arising and passing in rapid succession—aligns with Husserl's phenomenological analysis, demonstrating empirical contemplative methods for investigating consciousness.
 
-**Dream yoga**: Tibetan *mi-lam* trains practitioners to maintain awareness during sleep. Demirel et al. (2025) validate this tradition, identifying lucid dreaming as a distinct consciousness state. Dream yoga demonstrates [[tenets#^bidirectional-interaction|Bidirectional Interaction]]—dreamers volitionally control dream contents—and supports filter theory: dreams are what consciousness does when sensory constraints are removed. See [[dream-consciousness]] and [[lucid-dreaming-as-capability-evidence]].
+**Dream yoga**: Tibetan *mi-lam* trains practitioners to maintain awareness during sleep. Demirel et al. (2025) validate this tradition, identifying lucid dreaming as a distinct consciousness state. Dream yoga demonstrates [[tenets#^bidirectional-interaction|Bidirectional Interaction]]—dreamers volitionally control dream contents—and supports filter theory: dreams are what consciousness does when sensory constraints are removed. See [[dream-consciousness]] and [[lucid-dreaming-and-dualist-rendering]].
 
 ## The Illusionist Challenge
 
@@ -176,7 +176,7 @@ Eastern philosophy illuminates all five of the Map's [[tenets]], while raising p
 - [[meditation-and-consciousness-modes]] — Active selection and passive witnessing modes
 - [[phenomenology-of-the-edge]] — Minimal phenomenal experience and the zero-person perspective
 - [[dream-consciousness]] — Dreams, lucid dreaming, and Tibetan dream yoga
-- [[lucid-dreaming-as-capability-evidence]] — What lucid dreaming reveals about consciousness capabilities
+- [[lucid-dreaming-and-dualist-rendering]] — What lucid dreaming reveals about consciousness capabilities
 - [[neurophenomenology]] — The scientific research program bridging contemplative traditions and neuroscience
 - [[contemplative-neuroscience]] — How meditation research bridges first-person phenomenology and third-person neuroscience
 - [[contemplative-practice-as-philosophical-evidence]] — First-person data as empirical test

@@ -58,12 +58,12 @@ None. Article remains stable after four reviews.
 - Comprehensive tenet coverage in Relation to Site Perspective
 
 ### Enhancements Made
-- Added cross-link to [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/) (new article since last review) in dream yoga discussion
+- Added cross-link to [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-and-dualist-rendering/) (new article since last review) in dream yoga discussion
 - Added inline cross-link to [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) in Contemplative Evidence section
-- Added [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/) to Further Reading
+- Added [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-and-dualist-rendering/) to Further Reading
 
 ### Cross-links Added
-- [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/) (body text and Further Reading)
+- [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-and-dualist-rendering/) (body text and Further Reading)
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) (body text)
 
 ## Length Analysis

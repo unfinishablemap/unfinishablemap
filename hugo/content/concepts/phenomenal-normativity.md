@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-03-16 23:01:00+00:00
+ai_modified: 2026-03-18 05:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -38,6 +38,7 @@ related_articles:
 - '[[purpose-and-alignment]]'
 - '[[experiential-alignment]]'
 - '[[living-with-the-map]]'
+- '[[pragmatisms-path-to-dualism]]'
 title: Phenomenal Normativity
 topics:
 - '[[meaning-of-life]]'
@@ -175,6 +176,7 @@ Phenomenal normativity would face pressure if:
 - [introspection](/concepts/introspection/) — First-person access to phenomenal states
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative access to valence
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap's normative dimension
+- [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) — How phenomenal normativity in evaluation makes pragmatism's own criterion demand dualism
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Why normativity requires phenomenal consciousness, not function
 - [illusionism](/concepts/illusionism/) — The challenge that phenomenal consciousness is illusory
 - [knowledge-argument](/concepts/knowledge-argument/) — Phenomenal knowledge exceeds physical description

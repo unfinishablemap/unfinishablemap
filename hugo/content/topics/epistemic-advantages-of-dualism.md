@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-11 10:02:00+00:00
+ai_modified: 2026-03-18 05:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,6 +29,7 @@ related_articles:
 - '[[purpose-and-alignment]]'
 - '[[dualism]]'
 - '[[philosophical-zombies]]'
+- '[[pragmatisms-path-to-dualism]]'
 title: Epistemic Advantages of Non-Materialist Theories
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -193,6 +194,7 @@ The price of this openness is entertaining possibilities that may turn out to be
 - [decoherence](/concepts/decoherence/) — Quantum coherence challenges and responses
 - [witness-consciousness](/concepts/witness-consciousness/) — The contemplative perspective on observing experience
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument in detail
+- [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) — Pragmatism's own criterion, applied reflexively, supports dualism
 - [haecceity](/concepts/haecceity/) — Irreducible "thisness" and indexical identity
 
 ## References

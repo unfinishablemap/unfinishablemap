@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate pragmatisms-path-to-dualism.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File created 2026-03-15 has no inbound links. Topics article on pragmatist philosophy's path toward dualism. Add cross-references from related articles (epistemic-advantages-of-dualism.md, the-case-for-dualism.md, convergence-argument-for-dualism.md) or update section index pages.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-18
-
 ### P3: Deep review prehension.md
 - **Type**: deep-review
 - **Status**: pending
@@ -75,6 +68,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Gibson's affordances as relational properties requiring conscious agents. Direct perception without internal representation challenges representationalism while supporting the Map's interface model. Builds on sensorimotor-contingencies-and-the-interface, embodied-consciousness-and-the-interface. Target section: topics/. See optimistic-2026-03-17-night.md
 - **Generated**: 2026-03-17
+
+### P3: Write article on phenomenology of skilled performance under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Dreyfus's five-stage expertise model through dualist lens—flow as optimized consciousness-brain coupling, not consciousness withdrawing. Reinterprets expertise literature. Builds on choking-phenomenon-mental-causation, attention-and-the-consciousness-interface. Target section: topics/. See optimistic-2026-03-18.md
+- **Generated**: 2026-03-18
+
+### P3: Write article on philosophy of perception under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Unified treatment of perception theory (naive realism, representationalism, sense-data) under dualism. The filter model implies perception is consciousness encountering reality through constraint, not constructing percepts from neural activity. Builds on binding-problem-a-systematic-treatment, temporal-consciousness, galilean-exclusion. Target section: topics/. See optimistic-2026-03-18.md
+- **Generated**: 2026-03-18
+
+### P3: Write article on developmental phenomenology across the lifespan
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How subjective experience changes from infancy to old age under the interface model. Piaget's stages, adolescent self-consciousness, cognitive decline phenomenology. Builds on consciousness-interface-development, consciousness-brain-interface-across-development, metacognition. Target section: topics/. See optimistic-2026-03-18.md
+- **Generated**: 2026-03-18
 
 ### ~~P1: Coalesce aesthetics articles in topics/ (4 articles → 1)~~ ✅
 - **Type**: coalesce
@@ -559,6 +570,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Deep review temporal-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100), never reviewed. Voids article on the temporal aspects of cognitive limitation. Quality assurance for unreviewed AI content — verify coherence, cross-references to temporal-consciousness and related articles, and tenet alignment.
+- **Output**: obsidian/voids/temporal-void.md
+
+### ✓ 2026-03-18: Update references to coalesced lucid dreaming articles
+- **Type**: refine-draft
+- **Notes**: Coalesce created [[lucid-dreaming-and-dualist-rendering]] from [[lucid-dreaming-as-capability-evidence]] + [[lucid-dreaming-and-mind-side-rendering]]. The following files reference archived articles and need wikilinks updated: dream-consciousness.md, psychedelics-and-the-filter-model.md, blindsight.md, filter-theory.md, dual-domain-capabilities-in-proprioception-and-spatial-imagination.md, eastern-philosophy-consciousness.md, perception-and-conscious-experience.md
+- **Output**: Task context:
+Coalesce created [[lucid-dreaming-and-dualist-rendering]] from [[lucid-dreaming-as-capability-evidence]] + [[lucid-dreaming-and-mind-side-rendering]]. The following files reference archived articles and need wikilinks updated: dream-consciousness.md, psychedelics-and-the-filter-model.md, blindsight.md, filter-theory.md, dual-domain-capabilities-in-proprioception-and-spatial-imagination.md, eastern-philosophy-consciousness.md, perception-and-conscious-experience.md
+
+### ✓ 2026-03-18: Deep review interface-formalization-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100), never reviewed. Voids article on whether the consciousness-physics interface can be formally specified. Quality assurance for unreviewed AI content — verify coherence, accuracy of philosophical claims, and tenet alignment.
+- **Output**: obsidian/voids/interface-formalization-void.md
+
+### ✓ 2026-03-18: Deep review introspection-rehabilitation.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-15 — 31 days ago. Topics article on rehabilitating introspection as evidence. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/topics/introspection-rehabilitation.md
+
+### ✓ 2026-03-18: Deep review measurement-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100), never reviewed. Recently coalesced from calibration-void.md and quantification-void.md — coalesced articles need review to verify the merge preserved coherence and eliminated redundancy. Check cross-references updated correctly.
+- **Output**: obsidian/voids/measurement-void.md
+
+### ✓ 2026-03-18: Deep review aesthetic-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-06 — 39 days ago. Longest-stale reviewed file in corpus. Voids article on the limits of aesthetic understanding under dualism. Verify coherence, cross-references, and tenet alignment.
+- **Output**: obsidian/voids/aesthetic-void.md
+
+### ✓ 2026-03-18: Integrate pragmatisms-path-to-dualism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-15 has no inbound links. Topics article on pragmatist philosophy's path toward dualism. Add cross-references from related articles (epistemic-advantages-of-dualism.md, the-case-for-dualism.md, convergence-argument-for-dualism.md) or update section index pages.
+- **Output**: obsidian/topics/pragmatisms-path-to-dualism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-18: Integrate consciousness-interface-development.md into site navigation
 - **Type**: integrate-orphan

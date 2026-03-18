@@ -4,7 +4,7 @@ description: "Proprioception and spatial imagination each require contributions 
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T05:00:00+00:00
+ai_modified: 2026-03-18T07:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +20,7 @@ concepts:
   - "[[explanatory-gap]]"
 related_articles:
   - "[[capability-division-problem]]"
-  - "[[lucid-dreaming-as-capability-evidence]]"
+  - "[[lucid-dreaming-and-dualist-rendering]]"
   - "[[embodied-consciousness-and-the-interface]]"
   - "[[dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09]]"
 ai_contribution: 100
@@ -111,7 +111,7 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 - [[capability-division-problem]] — The general framework for where mind and brain divide
 - [[somatic-interface]] — Detailed treatment of bodily sensing channels
 - [[three-dimensional-world-representation-problem]] — The puzzle of phenomenal spatial experience
-- [[lucid-dreaming-as-capability-evidence]] — Dreams as evidence for consciousness-generated spatial content
+- [[lucid-dreaming-and-dualist-rendering]] — Dreams as evidence for consciousness-generated spatial content
 - [[phenomenal-binding-and-multimodal-integration]] — How separate modalities unify into spatial experience
 
 ## References

@@ -4,7 +4,7 @@ description: "Dreams provide the most accessible everyday evidence for the filte
 created: 2026-01-21
 modified: 2026-02-23
 human_modified: null
-ai_modified: 2026-03-18T02:59:00+00:00
+ai_modified: 2026-03-18T07:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,11 +46,10 @@ related_articles:
   - "[[dreams-lucid-dreaming-consciousness-2026-01-18]]"
   - "[[capability-division-problem]]"
   - "[[memory-as-dual-domain-capability]]"
-  - "[[lucid-dreaming-as-capability-evidence]]"
+  - "[[lucid-dreaming-and-dualist-rendering]]"
   - "[[hypnagogic-phenomenology-and-interface-modulation]]"
   - "[[incubation-effect-and-unconscious-processing]]"
   - "[[consciousness-and-intelligence]]"
-  - "[[lucid-dreaming-and-mind-side-rendering]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -82,7 +81,7 @@ On **production models**, this reorganised activity *generates* dream experience
 
 On the **filter model**, REM reorganisation *changes what the filter transmits*. With sensory gating and prefrontal deactivation removing major constraints, consciousness operates more freely through the brain's representational systems. Dream vividness is predicted, not anomalous.
 
-The divergence is sharpest here: production models explain vividness through disinhibition — prefrontal withdrawal releases imagery circuits from executive suppression — and this mechanism is neurologically straightforward. But disinhibition does not explain why this neural activity should be *experienced* at all, let alone more vividly than when the full apparatus is engaged. Fazekas et al. (2025) found dream imagery significantly more vivid than voluntary waking imagination, especially in emotional and visual content — a [[lucid-dreaming-and-mind-side-rendering|vividness surplus]] that is puzzling if the same neural system produces richer output with fewer resources. Filter theory addresses this: vividness increases because constraints on consciousness decrease—the same pattern seen with psychedelics, where decreased default mode network activity coincides with expanded experience.
+The divergence is sharpest here: production models explain vividness through disinhibition — prefrontal withdrawal releases imagery circuits from executive suppression — and this mechanism is neurologically straightforward. But disinhibition does not explain why this neural activity should be *experienced* at all, let alone more vividly than when the full apparatus is engaged. Fazekas et al. (2025) found dream imagery significantly more vivid than voluntary waking imagination, especially in emotional and visual content — a [[lucid-dreaming-and-dualist-rendering|vividness surplus]] that is puzzling if the same neural system produces richer output with fewer resources. Filter theory addresses this: vividness increases because constraints on consciousness decrease—the same pattern seen with psychedelics, where decreased default mode network activity coincides with expanded experience.
 
 ### Dream Phenomena Under the Filter Lens
 
@@ -109,7 +108,7 @@ Each configuration yields distinct cognitive capabilities—a pattern the Map's 
 
 ## Lucid Dreaming as Distinct State
 
-Lucid dreaming—becoming aware that one is dreaming while the dream continues—represents a distinct state of consciousness. The 2025 Demirel study provided strong evidence: source-level EEG analysis showed lucid dreams have unique neural signatures (gamma power increases in right temporo-occipital regions, distinct interhemispheric connectivity) differing from both ordinary REM and waking. Voss et al. (2014) provided causal evidence: frontal transcranial alternating current stimulation at gamma frequencies (25–40 Hz) during REM selectively induced lucid dreaming, while other frequencies had no effect. The [[lucid-dreaming-as-capability-evidence|capability evidence]] article examines what this reveals about the brain-mind division.
+Lucid dreaming—becoming aware that one is dreaming while the dream continues—represents a distinct state of consciousness. The 2025 Demirel study provided strong evidence: source-level EEG analysis showed lucid dreams have unique neural signatures (gamma power increases in right temporo-occipital regions, distinct interhemispheric connectivity) differing from both ordinary REM and waking. Voss et al. (2014) provided causal evidence: frontal transcranial alternating current stimulation at gamma frequencies (25–40 Hz) during REM selectively induced lucid dreaming, while other frequencies had no effect. The [[lucid-dreaming-and-dualist-rendering|capability evidence]] article examines what this reveals about the brain-mind division.
 
 The transition from non-lucid to lucid REM reveals that [[phenomenal-consciousness|phenomenal]] and [[access-consciousness|access]] consciousness are separable. During ordinary REM, the DLPFC is deactivated—removing neural correlates of cognitive access—yet rich phenomenal experience persists. This dissociation challenges [[higher-order-theories|Higher-Order Thought theory]], which predicts no consciousness without higher-order representation. Non-lucid dreams contradict this: they are unambiguously conscious without the metacognitive overlay. [[Metacognition]] relates to consciousness as a *modulator*, not a *constituter*.
 
@@ -223,10 +222,9 @@ The Map's interpretation of dream consciousness would face difficulty if:
 - [[higher-order-theories]] — Higher-Order Thought theories challenged by non-lucid dream consciousness
 - [[capability-division-problem]] — Which capabilities belong to the brain and which to consciousness
 - [[memory-as-dual-domain-capability]] — Memory as a dual-domain capability requiring both physical and non-physical contributions
-- [[lucid-dreaming-as-capability-evidence]] — Lucid dreaming as evidence for the capability division between brain and mind
+- [[lucid-dreaming-and-dualist-rendering]] — Lucid dreaming as evidence for the capability division and mind-side rendering
 - [[incubation-effect-and-unconscious-processing]] — The creative cycle and consciousness's role in incubation
 - [[consciousness-and-intelligence]] — The broader case for consciousness enabling human-level cognition
-- [[lucid-dreaming-and-mind-side-rendering]] — Physicalist dream researchers inadvertently concede the dualist point about mind-side rendering
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis: dreams as one of five windows into the multi-channel interface architecture
 
 ## References

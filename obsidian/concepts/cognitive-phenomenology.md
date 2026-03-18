@@ -4,7 +4,7 @@ description: "Is there something it's like to think, beyond sensory accompanimen
 created: 2026-01-16
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-03-06T08:40:00+00:00
+ai_modified: 2026-03-18T05:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,6 +35,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[cognitive-phenomenology-thinking-experience-2026-01-16]]"
+  - "[[pragmatisms-path-to-dualism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -266,6 +267,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 - [[intentionality]] — The "aboutness" of mental states
 - [[ai-consciousness]] — Why the Map holds AI systems lack genuine understanding
 - [[symbol-grounding-problem]] — Why representations need grounding in experience
+- [[pragmatisms-path-to-dualism]] — How cognitive phenomenology in evaluation makes pragmatism require dualism
 - [[phenomenology-of-creative-insight]] — Scientific discovery as a case study in cognitive phenomenology
 
 ## References

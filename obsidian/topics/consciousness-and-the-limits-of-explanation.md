@@ -4,7 +4,7 @@ description: "Every major theory of scientific explanation fails with consciousn
 created: 2026-02-18
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-18T05:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,6 +35,7 @@ related_articles:
   - "[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[consciousness-and-neurodegenerative-disease]]"
+  - "[[pragmatisms-path-to-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -106,7 +107,7 @@ Other scientific blind spots do not have this reflexive character. Science canno
 
 Bas van Fraassen's *The Scientific Image* (1980) argues that explanation is not an objective relation between theory and world but a pragmatic relation involving a questioner, a context, and interests. What counts as a good explanation depends on what the questioner already knows, what alternatives they are considering, and what would satisfy their curiosity.
 
-This pragmatic view inadvertently supports the reflexive gap. If explanation is irreducibly tied to the interests and understanding of conscious agents, then explanation is not a feature of the world discovered by science — it is a feature of the interaction between conscious minds and the world. Remove consciousness and explanatory relations do not merely go unrecognised; they cease to exist. Van Fraassen does not draw this dualist conclusion himself, but his analysis leads naturally to it: explanation is not in the territory but in the map-maker.
+This pragmatic view inadvertently supports the reflexive gap. If explanation is irreducibly tied to the interests and understanding of conscious agents, then explanation is not a feature of the world discovered by science — it is a feature of the interaction between conscious minds and the world. Remove consciousness and explanatory relations do not merely go unrecognised; they cease to exist. Van Fraassen does not draw this dualist conclusion himself, but his analysis leads naturally to it: explanation is not in the territory but in the map-maker. The Map's [[pragmatisms-path-to-dualism|pragmatic path to dualism]] develops this further, showing how pragmatism's reflexive application to its own evaluative criterion arrives at dualism through three converging stages — James's pragmatic openness, van Fraassen's pragmatic explanation, and the self-defeat of materialist pragmatism.
 
 ## The Explanatory Regress
 

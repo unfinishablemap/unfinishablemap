@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-09
-**Article**: [Lucid Dreaming as Capability Evidence](/topics/lucid-dreaming-as-capability-evidence/)
+**Article**: [Lucid Dreaming as Capability Evidence](/topics/lucid-dreaming-and-dualist-rendering/)
 **Previous review**: Never
 **Cross-review context**: Reviewed in light of dual-domain capability framework from [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/)
 

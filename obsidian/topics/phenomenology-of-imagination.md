@@ -4,7 +4,7 @@ description: "Imagination's distinctive phenomenal character—voluntary, quasi-
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-18T06:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-02-18T17:47:00+00:00
+last_deep_review: 2026-03-18T06:30:00+00:00
 ---
 
 Imagination occupies a unique phenomenal territory—borrowing from perception, memory, and thought while remaining distinct from each. When you imagine a purple elephant standing in your kitchen, the experience has a specific character: quasi-perceptual vividness without sensory conviction, voluntary directedness without guaranteed compliance, and a felt awareness that the content is self-generated rather than world-given. The Unfinishable Map holds that this distinctive phenomenal profile resists materialist reduction. Imagination reveals consciousness as an active structuring force—assembling novel experiential wholes from components that need never have co-occurred in perception—rather than a passive replay mechanism running on neural hardware.
@@ -65,7 +65,7 @@ The phenomenology of imagination creates problems for [[concepts/functionalism]]
 
 Consider the difference between imagining a sunset and imagining a mathematical proof. Both involve generating novel content. Both can serve planning functions. Yet the phenomenal character differs radically—one is saturated with quasi-visual [[qualia]], the other is an instance of [[cognitive-phenomenology]] that may involve no imagery at all. Aphantasics who cannot voluntarily generate visual imagery can still imagine scenarios, plan, and create—but their imagination has a fundamentally different phenomenal texture. If two states serve identical functional roles yet feel completely different, phenomenal character is not captured by functional role.
 
-The variation across individuals sharpens this point. Hyperphantasics report imagined scenes almost as vivid as perception. Aphantasics report little or no voluntary imagery, relying instead on abstract knowledge of what they are "imagining"—though some retain imagery in other sensory modalities (Zeman et al., 2024). Both groups can perform core imaginative tasks—planning, creative problem-solving, hypothetical reasoning—despite subtle differences in cognitive style. The broad functional overlap persists across enormous phenomenal variation. A sophisticated functionalist might respond that these are not truly identical functional roles, since aphantasics show different cognitive profiles (reduced autobiographical memory, different problem-solving strategies). But this response concedes the point in another way: it acknowledges that phenomenal character and cognitive function co-vary, which is precisely what pure functionalism denies by defining mental states solely through abstract causal roles.
+The variation across individuals sharpens this point. The heterogeneity of imagination (Kind, 2013) ranges from hyperphantasics who report imagined scenes almost as vivid as perception to aphantasics who report little or no voluntary imagery, relying instead on abstract knowledge of what they are "imagining"—though some retain imagery in other sensory modalities (Zeman et al., 2024). Both groups can perform core imaginative tasks—planning, creative problem-solving, hypothetical reasoning—despite subtle differences in cognitive style. The broad functional overlap persists across enormous phenomenal variation. A sophisticated functionalist might respond that these are not truly identical functional roles, since aphantasics show different cognitive profiles (reduced autobiographical memory, different problem-solving strategies). But this response concedes the point in another way: it acknowledges that phenomenal character and cognitive function co-vary, which is precisely what pure functionalism denies by defining mental states solely through abstract causal roles.
 
 ## Imagination as Counterfactual Inhabitation
 
@@ -99,7 +99,7 @@ Beyond its structural limits, imagination also confronts a deeper [[creativity-v
 
 Imagination bears on several of the Map's [[tenets]] in distinctive ways.
 
-**Imagination and dualism.** The phenomenal character of imagining—quasi-perceptual, voluntarily directed, inherently self-aware as non-actual—constitutes a mode of consciousness that resists reduction to neural replay or recombination. The indeterminacy of imagined content (a face without determinate eye colour), the neutrality character (knowing it is self-generated while experiencing it), and the radical variation between aphantasia and hyperphantasia all point to phenomenal properties that functional and neural descriptions fail to capture. The [[explanatory-gap]] between determinate neural states and genuinely indeterminate phenomenal states is especially stark in imagination: neural activations always have specific values, yet an imagined face has no determinate eye colour. The Map's [[tenets#^dualism|Dualism]] tenet finds support in the irreducible phenomenal signature of imagination.
+**Imagination and dualism.** The phenomenal character of imagining—quasi-perceptual, voluntarily directed, inherently self-aware as non-actual—constitutes a mode of consciousness that resists reduction to neural replay or recombination. The indeterminacy of imagined content (a face without determinate eye colour), the neutrality character (knowing it is self-generated while experiencing it), and the radical variation between aphantasia and hyperphantasia all point to phenomenal properties that functional and neural descriptions fail to capture. The [[explanatory-gap]] between determinate neural states and genuinely indeterminate phenomenal states is especially stark in imagination: neural activations always have specific values, yet an imagined face has no determinate eye colour. A physicalist may respond that the representation simply omits eye-colour information—there is no "indeterminate phenomenal state," just an incomplete neural encoding. But this redescription changes the subject. The phenomenal fact is not that information is absent; it is that there is something it is like to experience a face *as indeterminate*—present yet unresolved. An incomplete file has no character at all; an imagined face with indeterminate eyes has a distinctive phenomenal quality that the incompleteness metaphor cannot capture. The Map's [[tenets#^dualism|Dualism]] tenet finds support in the irreducible phenomenal signature of imagination.
 
 **Imagination and bidirectional interaction.** Voluntary imagination exemplifies [[bidirectional-interaction]]. When you deliberately construct an imagined scenario—rotating mental objects, populating scenes, adjusting details—consciousness directs neural activity rather than merely accompanying it. The [[mental-imagery|motor imagery evidence]] shows that imagined movements improve physical performance, which is *consistent with* a causal pathway from conscious imagination to bodily outcome—though the physicalist can respond that neural rehearsal does the work while consciousness merely accompanies it. The phenomenology of [[phenomenology-of-agency-vs-passivity|imaginative effort]]—the felt difference between actively constructing a scene and passively receiving one—remains the stronger evidence that imagination involves genuine [[agent-causation|mental causation]].
 
@@ -108,6 +108,7 @@ Imagination bears on several of the Map's [[tenets]] in distinctive ways.
 ## Further Reading
 
 - [[mental-imagery]] — The neuroscience and philosophy of mental imagery, including aphantasia
+- [[mental-imagery-causal-role-of-consciousness]] — How mental imagery exerts causal influence through conscious processes
 - [[cognitive-phenomenology]] — Non-sensory phenomenal character in thought
 - [[consciousness-and-creative-distinctiveness]] — Imagination's role in creative cognition and why human creativity differs from computational generation
 - [[consciousness-and-counterfactual-reasoning]] — Why representing non-actuality requires consciousness

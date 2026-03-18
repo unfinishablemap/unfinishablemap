@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-16 03:17:00+00:00
+ai_modified: 2026-03-18 07:18:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -50,7 +50,7 @@ Key characteristics of blindsight:
 - **Emotional processing**: Some patients show above-chance discrimination of facial expressions in blind regions (de Gelder et al., 1999), suggesting unconscious affective processing pathways via the superior colliculus and amygdala.
 - **Action guidance**: Patients can reach accurately toward stimuli they claim not to see, though reaching may feel "strange" or guided by intuition rather than vision.
 
-What's missing is not processing power but phenomenal experience—the "what it's like" to see. [Lucid dreaming](/topics/lucid-dreaming-as-capability-evidence/) demonstrates the converse: phenomenally complete multisensory experience—vision, audition, touch, proprioception—without any corresponding sensory input. This double dissociation (blindsight: processing without experience; lucid dreaming: experience without input) supports the view that phenomenal rendering is a distinct capability, not an automatic consequence of information processing.
+What's missing is not processing power but phenomenal experience—the "what it's like" to see. [Lucid dreaming](/topics/lucid-dreaming-and-dualist-rendering/) demonstrates the converse: phenomenally complete multisensory experience—vision, audition, touch, proprioception—without any corresponding sensory input. This double dissociation (blindsight: processing without experience; lucid dreaming: experience without input) supports the view that phenomenal rendering is a distinct capability, not an automatic consequence of information processing.
 
 ## Alternative Interpretations
 
@@ -188,7 +188,7 @@ Blindsight demonstrates that sophisticated visual processing can occur without c
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Neural mechanisms of conscious access
 - [illusionism](/concepts/illusionism/) — The view that phenomenal consciousness is an illusion
 - [voluntary attention](/concepts/attention-as-interface/) — Top-down selection and the V1 pathway
-- [Lucid dreaming](/topics/lucid-dreaming-as-capability-evidence/) — Phenomenal experience without sensory input (converse dissociation)
+- [Lucid dreaming](/topics/lucid-dreaming-and-dualist-rendering/) — Phenomenal experience without sensory input (converse dissociation)
 - [capability-division-in-vision](/concepts/capability-division-in-vision/) — How blindsight evidence constrains the brain/mind boundary in vision
 - [mind-brain-separation](/concepts/mind-brain-separation/) — Evidence for consciousness-brain dissociation
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Blindsight as an empirical partial-zombie case

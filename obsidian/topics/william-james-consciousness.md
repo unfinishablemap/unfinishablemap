@@ -4,7 +4,7 @@ description: "James's radical empiricism treats experience as fundamental realit
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-03-09T19:42:00+00:00
+ai_modified: 2026-03-18T05:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ related_articles:
   - "[[tenets]]"
   - "[[epistemic-advantages-of-dualism]]"
   - "[[stapp-quantum-mind]]"
+  - "[[pragmatisms-path-to-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -122,7 +123,7 @@ If consciousness is transmitted through but not produced by the brain, then:
 - Human dignity might rest on participation in something beyond biology
 - Consciousness might be fundamental to reality
 
-James didn't think we could prove either view. But he argued the stakes justify taking the transmissive view seriously rather than dismissing it for methodological convenience.
+James didn't think we could prove either view. But he argued the stakes justify taking the transmissive view seriously rather than dismissing it for methodological convenience. The Map's [[pragmatisms-path-to-dualism|pragmatic path to dualism]] develops this insight further, arguing that pragmatism's own evaluative criterion — applied reflexively — leads to dualism because materialism eliminates the conscious standpoint on which pragmatic assessment depends.
 
 ## The Will to Believe
 
@@ -185,6 +186,7 @@ James's philosophy aligns with all five tenets, though the alignment varies in d
 - [[attention-as-interface|voluntary attention]] — The phenomenology of effortful attention
 - [[process-philosophy]] — Whitehead's development of Jamesian themes
 - [[epistemic-advantages-of-dualism]] — Why maintaining dualism as live option is epistemically responsible
+- [[pragmatisms-path-to-dualism]] — James's pragmatic opening developed into a full argument for dualism
 - [[tenets]] — The Map's foundational commitments
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-17T08:13:27.898963'
+ai_modified: '2026-03-18T12:08:01.924069'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-17'
+modified: '2026-03-18'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-18: Why You Can Remember But Never Pre-Experience
+
+Deep review of the temporal void reveals three interlocking limits: consciousness is confined to a narrow present, cannot simultaneously live and measure time, and can re-inhabit the past but only imagine the future.
+
+**Type**: insight  
+**Link**: [[temporal-void]]
+
+---
+
 ### 2026-03-17: How Different Cognitive Limits Feel From the Inside
 
 New diagnostic guide maps the felt quality of hitting a cognitive boundary—frustration, false satisfaction, invisible comprehension—showing that how thought fails reveals what it fails against.
@@ -192,15 +201,6 @@ Deep review reveals a key constraint: consciousness is constitutively definite, 
 
 **Type**: insight  
 **Link**: [[measurement-problem]]
-
----
-
-### 2026-02-26: Why Only Quantum Physics Can Explain Unified Experience
-
-Classical mechanisms coordinate separate brain processes but can never make them one. Quantum entanglement is the only physics where wholes are prior to parts—matching how consciousness actually works.
-
-**Type**: new-article  
-**Link**: [[quantum-holism-and-phenomenal-unity]]
 
 ---
 

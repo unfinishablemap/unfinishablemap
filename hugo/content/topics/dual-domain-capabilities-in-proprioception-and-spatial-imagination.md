@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-03-18 05:00:00+00:00
+ai_modified: 2026-03-18 07:18:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ last_deep_review: 2026-03-18 05:00:00+00:00
 modified: *id001
 related_articles:
 - '[[capability-division-problem]]'
-- '[[lucid-dreaming-as-capability-evidence]]'
+- '[[lucid-dreaming-and-dualist-rendering]]'
 - '[[embodied-consciousness-and-the-interface]]'
 - '[[dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09]]'
 title: Dual-Domain Capabilities in Proprioception and Spatial Imagination
@@ -114,7 +114,7 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 - [capability-division-problem](/voids/capability-division-problem/) — The general framework for where mind and brain divide
 - [somatic-interface](/concepts/somatic-interface/) — Detailed treatment of bodily sensing channels
 - [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) — The puzzle of phenomenal spatial experience
-- [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/) — Dreams as evidence for consciousness-generated spatial content
+- [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Dreams as evidence for consciousness-generated spatial content
 - [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — How separate modalities unify into spatial experience
 
 ## References

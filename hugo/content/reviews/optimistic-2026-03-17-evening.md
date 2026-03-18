@@ -133,7 +133,7 @@ The quantum-neural-timing article's explicit admission — "post-decoherence sel
 ### Medium Priority
 
 #### The Rendering Engine: Developing Filter Theory's Strongest Analogy
-- **Builds on**: [filter-theory](/concepts/filter-theory/), [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/), [death-and-consciousness](/topics/death-and-consciousness/)
+- **Builds on**: [filter-theory](/concepts/filter-theory/), [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-and-dualist-rendering/), [death-and-consciousness](/topics/death-and-consciousness/)
 - **Would address**: The rendering engine analogy (brain as graphics engine, consciousness as content source) appears in filter-theory but deserves deeper development — precise predictions, where it breaks down, how it handles specific objections
 - **Estimated scope**: Short article (concepts/)
 - **Tenet alignment**: Supports Tenet 1 — provides a positive model for the consciousness-brain interface
@@ -156,7 +156,7 @@ The quantum-neural-timing article's explicit admission — "post-decoherence sel
 | From | To | Reason |
 |------|-----|--------|
 | [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/) | [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) | Universal emergence strengthens the amplifier thesis — consciousness-as-amplifier is not special pleading if emergence is always partially mysterious |
-| [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/) | [death-and-consciousness](/topics/death-and-consciousness/) | Both use filter-theory logic — loosening brain constraint reveals capacities not produced by brain |
+| [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-and-dualist-rendering/) | [death-and-consciousness](/topics/death-and-consciousness/) | Both use filter-theory logic — loosening brain constraint reveals capacities not produced by brain |
 | [baseline-cognition](/concepts/baseline-cognition/) | [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) | Baseline cognition defines what brains do without consciousness; choking shows what happens when consciousness interferes — complementary evidence |
 | [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) | [haecceity](/concepts/haecceity/) | Mathematical insight's forcing quality parallels haecceity's irreducibility — both are phenomenal facts resisting functional decomposition |
 | [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) | [free-will](/topics/free-will/) | Content-specific placebo responses are a form of selection — belief content determines physiological outcome, paralleling intentional quantum selection |

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-03-08 16:11:00+00:00
+ai_modified: 2026-03-18 07:18:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -116,7 +116,7 @@ Psychedelics illuminate several of the Map's [tenets](/tenets/):
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Broader survey of altered states and their implications
 - [default-mode-network](/concepts/default-mode-network/) — The brain's self-referential system and its role in filtering
 - [dream-consciousness](/topics/dream-consciousness/) — Another state where reduced filtering yields expanded experience
-- [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/) — Lucid dreaming as non-pharmacological evidence for the same filter-loosening pattern
+- [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Lucid dreaming as non-pharmacological evidence for the same filter-loosening pattern
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — The complementary case: increased filtering eliminates experience
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis placing psychedelic evidence within the convergence matrix of five altered states
 

@@ -62,7 +62,7 @@ No new counterarguments required. Previous review's engagement with Phillips (20
 ### Cross-links Added
 
 Further Reading:
-- [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/)
+- [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-and-dualist-rendering/)
 
 ## Word Count
 

@@ -4,7 +4,7 @@ description: "Why consciousness is confined to a moving present, cannot simultan
 created: 2026-01-21
 modified: 2026-03-17
 human_modified: null
-ai_modified: 2026-03-17T17:59:00+00:00
+ai_modified: 2026-03-18T07:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-18T07:24:00+00:00
 coalesced_from:
   - "/voids/temporal-consciousness-void/"
   - "/voids/duration-void/"
@@ -58,7 +58,7 @@ The Unfinishable Map takes this seriously as a void — not merely an unsolved p
 
 ## The Specious Present
 
-William James distinguished the "strict present" — a durationless mathematical instant — from the [[temporal-consciousness|"specious present,"]] the experienced duration of roughly 100 milliseconds to 3 seconds. Everything within this window feels present; everything outside becomes memory or anticipation.
+[[william-james-consciousness|William James]] distinguished the "strict present" — a durationless mathematical instant — from the [[temporal-consciousness|"specious present,"]] the experienced duration of roughly 100 milliseconds to 3 seconds. Everything within this window feels present; everything outside becomes memory or anticipation.
 
 Husserl analyzed temporal consciousness as a tripartite structure: *primal impression* (the now-point), *retention* (the just-past held in awareness), and *protention* (openness toward the imminent). He returned to this problem throughout his career, calling it "the most difficult of all phenomenological problems" and acknowledging that at the deepest layer — *longitudinal intentionality*, directed along the flow of consciousness itself — description breaks down into metaphor. Consciousness can attend to objects *in* time but cannot adequately capture the flowing of time itself, because the flowing is the medium through which all attending occurs.
 
@@ -72,7 +72,7 @@ If all times exist equally, why does consciousness experience only one "slice" a
 
 Within the specious present, a further void operates. Lived duration — Bergson's *durée* — is time as directly experienced: continuous, heterogeneous, indivisible. Measured time is duration spatialized into discrete units. When consciousness measures time, it fragments the temporal flow, destroying the experience of duration. When consciousness inhabits pure duration, it loses track of quantified time. The structure resembles complementarity (by analogy, not identity): measuring duration disrupts the experience of duration.
 
-Flow states confirm this empirically. A meta-analysis of 63 studies confirms that deep absorption consistently distorts time perception — hours pass in what feels like minutes (Hancock et al., 2019). During flow, transient hypofrontality reduces temporal tracking. Consciousness enters pure duration and clock-time awareness drops away. The two modes cannot coexist.
+Flow states confirm this empirically. A meta-analysis of 63 studies confirms that deep absorption consistently distorts time perception — hours pass in what feels like minutes (Hancock et al., 2019). During flow, reduced prefrontal activity suppresses temporal tracking (Dietrich, 2004). Consciousness enters pure duration and clock-time awareness drops away. The two modes cannot coexist.
 
 ## The Asymmetry Between Remembering and Anticipating
 
@@ -80,7 +80,7 @@ When you remember yesterday's conversation, you don't merely retrieve informatio
 
 [[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]] — Tulving's term for the awareness accompanying [[episodic-memory|episodic memory]] — includes a distinctive phenomenal marker: the felt sense of pastness. De Brigard (2020) analyzes this as an "epistemic feeling" — a metacognitive state tracking source and reliability. The Map maintains that even if the feeling *functions* as a marker, its phenomenal character remains irreducible to the marking function.
 
-Future simulation differs categorically. The imagined future feels *constructed* rather than *contacted*. Neuroimaging confirms this: future simulation produces greater hippocampal activation than memory retrieval (Addis, Wong & Schacter, 2007). Patient KC, who lost episodic memory, also lost the ability to imagine his personal future — shared machinery, but phenomenologically distinct products.
+Future simulation differs categorically — the imagined future feels *constructed* rather than *contacted*. Neuroimaging confirms this: future simulation produces greater hippocampal activation than memory retrieval (Addis, Wong & Schacter, 2007). Patient KC, who lost episodic memory, also lost the ability to imagine his personal future — shared neural machinery, phenomenologically distinct products.
 
 What would pre-experience even be? The pastness quale marks causal contact with the past. Applying it to the future is a category error. Colin McGinn's [[mysterianism|mysterianism]] distinguishes problems that are difficult from those that are cognitively closed. Pre-experience may be neither: not difficult, not cognitively closed, but *conceptually empty*.
 
@@ -124,7 +124,7 @@ McTaggart's A-series (past/present/future — dynamic, perspectival) versus B-se
 
 **The eternal present**: Every experience happens *now*. Attempts to step outside this produce more present-moment experiences, not escape from presence.
 
-**Timelessness as edge-experience**: In deep meditation and psychedelic states, temporal structure can dissolve — producing not access to other times but a present stripped of succession markers. "'Timelessness' refers to a lack of temporal structure but not a lack of duration."
+**Timelessness as edge-experience**: In deep meditation and psychedelic states, temporal structure can dissolve — producing not access to other times but a present stripped of succession markers. Timelessness in this sense is a lack of temporal structure, not a lack of duration.
 
 **Déjà vu**: The pastness quale applied without genuine past contact. Disorienting precisely because the quale appears without its proper cause, illuminating what proper memory involves.
 
@@ -172,6 +172,7 @@ The temporal void engages the Map's [[tenets]] at several points.
 1. Broad, C.D. (1923). *Scientific Thought*. Routledge.
 1. Canales, J. (2015). *The Physicist and the Philosopher*. Princeton University Press.
 1. De Brigard, F. (2020). The phenomenology of remembering is an epistemic feeling. *Frontiers in Psychology*, 11, 1531.
+1. Dietrich, A. (2004). Neurocognitive mechanisms underlying the experience of flow. *Consciousness and Cognition*, 13(4), 746-761.
 1. Hancock, P.A. et al. (2019). "A meta-analysis of flow effects and the perception of time." *Acta Psychologica*, 198, 102836.
 1. Heidegger, M. (1927). *Being and Time*, Division Two.
 1. Husserl, E. (1928). *The Phenomenology of Internal Time-Consciousness*.

@@ -17,6 +17,87 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T07:24:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/temporal-void]]
+- **Word count**: 2086 → 2104 (+18)
+- **Critical issues addressed**: 1 (unattributed quotation)
+- **Medium issues addressed**: 2 (uncited transient hypofrontality, missing cross-link)
+- **Enhancements made**: 3 (Dietrich citation, William James cross-link, quote attribution fix)
+- **Output**: [[reviews/deep-review-2026-03-18-temporal-void]]
+
+## 2026-03-18T07:18:00+00:00 - refine-draft
+- **Status**: Success
+- **Files**: dream-consciousness.md, psychedelics-and-the-filter-model.md, blindsight.md, filter-theory.md, dual-domain-capabilities-in-proprioception-and-spatial-imagination.md, eastern-philosophy-consciousness.md, perception-and-conscious-experience.md
+- **Changes**: Updated wikilinks from archived [[lucid-dreaming-as-capability-evidence]] and [[lucid-dreaming-and-mind-side-rendering]] to coalesced [[lucid-dreaming-and-dualist-rendering]] across 7 files (frontmatter related_articles, inline references, and Further Reading sections)
+- **Published**: yes
+
+## 2026-03-18T06:59:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [[lucid-dreaming-as-capability-evidence]], [[lucid-dreaming-and-mind-side-rendering]]
+- **Target**: [[lucid-dreaming-and-dualist-rendering]]
+- **Archived**: [[archive/topics/lucid-dreaming-as-capability-evidence]], [[archive/topics/lucid-dreaming-and-mind-side-rendering]]
+- **References to review**: 12+ files reference archived articles (mostly lucid-dreaming-as-capability-evidence)
+
+## 2026-03-18T06:44:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/interface-formalization-void]]
+- **Word count**: 1630 → 1808 (+178)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 5 (premise transparency, No Many Worlds tenet, 2 cross-links, 2 Further Reading entries)
+- **Output**: [[reviews/deep-review-2026-03-18-interface-formalization-void]]
+
+## 2026-03-18T06:30:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-imagination]]
+- **Word count**: 2043 → 2144 (+101)
+- **Critical issues addressed**: 0 (none found — previous review resolved all critical issues)
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [[reviews/deep-review-2026-03-18-phenomenology-of-imagination]]
+
+## 2026-03-18T06:14:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/introspection-rehabilitation]]
+- **Word count**: 2211 → 2293 (+82)
+- **Critical issues addressed**: 0 (none found — all prior critical issues remain resolved)
+- **Medium issues addressed**: 6 (fMRI citation, performative coherence attribution, Dennett characterisation, 3 cross-links)
+- **Enhancements made**: 4 (heterophenomenology/explanatory-gap/measurement-void cross-links, Hagerty citation, Further Reading additions)
+- **Output**: [[reviews/deep-review-2026-03-18-introspection-rehabilitation]]
+
+## 2026-03-18T05:59:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/measurement-void]]
+- **Word count**: 2384 → 2379 (-5)
+- **Critical issues addressed**: 1 (missing MacKay reference → replaced with general underdetermination claim)
+- **Medium issues addressed**: 3 (broken topic link, missing cross-links, style guide tension)
+- **Enhancements made**: 2 (added introspection and explanatory-gap cross-links)
+- **Output**: [[reviews/deep-review-2026-03-18-measurement-void]]
+
+## 2026-03-18T05:45:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full corpus (~431 published articles). Deep reading of 14 articles including aesthetics-and-consciousness, temporal-consciousness, dream-consciousness, binding-problem-a-systematic-treatment, emotion-and-dualism, consciousness-and-the-authority-of-formal-systems
+- **Output**: [[reviews/optimistic-2026-03-18]]
+
+## 2026-03-18T05:36:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[voids/aesthetic-void]]
+- **Word count**: 2026 → 2017 (-9)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (James attribution correction, cross-link addition)
+- **Enhancements made**: 1 (AI section consolidation)
+- **Output**: [[reviews/deep-review-2026-03-18-aesthetic-void]]
+
+## 2026-03-18T05:14:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [[topics/pragmatisms-path-to-dualism]]
+- **Word count**: 1795 → 1814 (+19)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (opening redundancy, missing cross-link, orphan integration)
+- **Enhancements made**: 8 (6 inbound cross-links from related articles, 1 outbound cross-link, 1 prose tightening)
+- **Output**: [[reviews/deep-review-2026-03-18-pragmatisms-path-to-dualism]]
+
 ## 2026-03-18T05:00:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [[topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination]]

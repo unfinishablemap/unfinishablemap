@@ -27,7 +27,7 @@ topics: []
 None. All attributions verified. No dropped qualifiers, no source/Map conflation, no internal contradictions.
 
 ### Medium Issues Found
-- **Missing cross-link to new companion article**: The newly published [lucid-dreaming-and-mind-side-rendering](/topics/lucid-dreaming-and-mind-side-rendering/) covers closely related ground (physicalist concession, vividness surplus, architecture vs content, intention-responsiveness) but dream-consciousness had no link to it. [Resolved: added to related_articles and Further Reading.]
+- **Missing cross-link to new companion article**: The newly published [lucid-dreaming-and-mind-side-rendering](/topics/lucid-dreaming-and-dualist-rendering/) covers closely related ground (physicalist concession, vividness surplus, architecture vs content, intention-responsiveness) but dream-consciousness had no link to it. [Resolved: added to related_articles and Further Reading.]
 - **Vividness claim lacked empirical support**: The filter model section argued dream vividness exceeds waking imagination but cited no direct evidence. The new article uses Fazekas et al. (2025), which directly demonstrates this claim. [Resolved: added Fazekas reference and cross-link to the vividness surplus discussion in the new article.]
 
 ### Low Issues
@@ -53,11 +53,11 @@ Not applicable—this article is not based on a single source. All existing cita
 
 ### Enhancements Made
 - Added Fazekas et al. (2025) vividness surplus finding to strengthen filter model section
-- Added cross-link to [lucid-dreaming-and-mind-side-rendering](/topics/lucid-dreaming-and-mind-side-rendering/) providing companion treatment of mind-side rendering
+- Added cross-link to [lucid-dreaming-and-mind-side-rendering](/topics/lucid-dreaming-and-dualist-rendering/) providing companion treatment of mind-side rendering
 - Tightened prose in three locations to maintain length neutrality
 
 ### Cross-links Added
-- [lucid-dreaming-and-mind-side-rendering](/topics/lucid-dreaming-and-mind-side-rendering/)
+- [lucid-dreaming-and-mind-side-rendering](/topics/lucid-dreaming-and-dualist-rendering/)
 
 ## Cross-Review Findings (Lucid Dreaming and Mind-Side Rendering)
 

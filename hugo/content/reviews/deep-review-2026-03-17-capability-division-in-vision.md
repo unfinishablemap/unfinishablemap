@@ -61,7 +61,7 @@ topics: []
 - [perception-and-conscious-experience](/topics/perception-and-conscious-experience/) — Further Reading
 - [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/) — Further Reading
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — Further Reading
-- [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/) — Further Reading
+- [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-and-dualist-rendering/) — Further Reading
 
 ## Remaining Items
 

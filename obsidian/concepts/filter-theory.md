@@ -4,7 +4,7 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-16T15:17:00+00:00
+ai_modified: 2026-03-18T07:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -114,7 +114,7 @@ These patients demonstrate the distinction between consciousness and its express
 
 ### Dreams
 
-[[dream-consciousness|Dreams]] show consciousness operating independently of sensory input—fully immersive experiential worlds without external stimulation. On filter models, dreams are consciousness using the brain's representational capacities when sensory constraints are removed. [[lucid-dreaming-as-capability-evidence|Lucid dreaming]] sharpens this into a rendering dilemma: if the brain can generate vivid visual worlds during sleep, its failure to deploy this capability during waking to compensate for sensory degradation demands explanation.
+[[dream-consciousness|Dreams]] show consciousness operating independently of sensory input—fully immersive experiential worlds without external stimulation. On filter models, dreams are consciousness using the brain's representational capacities when sensory constraints are removed. [[lucid-dreaming-and-dualist-rendering|Lucid dreaming]] sharpens this into a rendering dilemma: if the brain can generate vivid visual worlds during sleep, its failure to deploy this capability during waking to compensate for sensory degradation demands explanation.
 
 ### Hemispherectomy
 
@@ -216,7 +216,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [[loss-of-consciousness]] — Anesthesia and covert consciousness
 - [[near-death-experiences]] — Enhanced experience during brain compromise
 - [[dream-consciousness]] — Consciousness without sensory input
-- [[lucid-dreaming-as-capability-evidence]] — The rendering dilemma: what lucid dreaming reveals about brain-mind capability division
+- [[lucid-dreaming-and-dualist-rendering]] — The rendering dilemma: what lucid dreaming reveals about brain-mind capability division
 - [[phenomenal-binding-and-holism]] — Why classical binding fails and quantum holism may succeed—complementary to the filter claim that unity originates in consciousness
 - [[neural-correlates-of-consciousness]] — Why correlates don't prove production
 - [[interactionist-dualism]] — The broader framework

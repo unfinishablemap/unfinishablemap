@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-06 08:40:00+00:00
+ai_modified: 2026-03-18 05:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -42,6 +42,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[cognitive-phenomenology-thinking-experience-2026-01-16]]'
+- '[[pragmatisms-path-to-dualism]]'
 title: Cognitive Phenomenology
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -269,6 +270,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 - [intentionality](/concepts/intentionality/) — The "aboutness" of mental states
 - [ai-consciousness](/topics/ai-consciousness/) — Why the Map holds AI systems lack genuine understanding
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — Why representations need grounding in experience
+- [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) — How cognitive phenomenology in evaluation makes pragmatism require dualism
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — Scientific discovery as a case study in cognitive phenomenology
 
 ## References

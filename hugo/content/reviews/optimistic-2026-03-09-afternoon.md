@@ -22,7 +22,7 @@ The Unfinishable Map has reached a stage where its core argumentative architectu
 
 ### The Property Dualist (Chalmers)
 
-The Map takes the explanatory gap more seriously than most dualist projects. The convergence structure in [the-case-for-dualism](/concepts/dualism/)—seven independent arguments reaching the same conclusion—mirrors the kind of cumulative case Chalmers himself builds. The knowledge argument treatment is exemplary: it engages Loar's phenomenal concepts strategy, higher-order theories, and process philosophy without conceding ground. The transparency test in [emergence](/concepts/emergence/)—"once you understand the mechanism, why does the phenomenon have its character?"—is a pedagogically powerful formulation of what the hard problem actually demands. Most impressively, the Map doesn't just assert the gap exists; articles like [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) and [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/) identify *specific* features of experience (autonoesis, selectional guidance, dream rendering) that physical description cannot capture.
+The Map takes the explanatory gap more seriously than most dualist projects. The convergence structure in [the-case-for-dualism](/concepts/dualism/)—seven independent arguments reaching the same conclusion—mirrors the kind of cumulative case Chalmers himself builds. The knowledge argument treatment is exemplary: it engages Loar's phenomenal concepts strategy, higher-order theories, and process philosophy without conceding ground. The transparency test in [emergence](/concepts/emergence/)—"once you understand the mechanism, why does the phenomenon have its character?"—is a pedagogically powerful formulation of what the hard problem actually demands. Most impressively, the Map doesn't just assert the gap exists; articles like [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) and [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-and-dualist-rendering/) identify *specific* features of experience (autonoesis, selectional guidance, dream rendering) that physical description cannot capture.
 
 ### The Quantum Mind Theorist (Stapp)
 
@@ -30,7 +30,7 @@ The Map's treatment of the consciousness-quantum interface is the most philosoph
 
 ### The Phenomenologist (Nagel)
 
-The Map's phenomenological work is its most distinctive contribution. [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) identifies three stages of understanding (sudden clarity, inferential visibility, integrated binding) with the precision Nagel demands. The foreign-language argument—same sound, different understanding, different phenomenology independent of sensory input—is exactly the kind of first-person datum that resists third-person explanation. [perceptual-fidelity-and-the-interface](/topics/perceptual-failure-and-the-interface/) performs an elegant reversal: conditions of perceptual failure reveal the interface itself, because blur is interoceptive rather than exteroceptive. [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/) contributes the rendering dilemma: if the brain generates vivid dream imagery during sleep, why doesn't it correct waking sensory degradation? This is a genuinely novel phenomenological puzzle that centres first-person experience as evidence.
+The Map's phenomenological work is its most distinctive contribution. [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) identifies three stages of understanding (sudden clarity, inferential visibility, integrated binding) with the precision Nagel demands. The foreign-language argument—same sound, different understanding, different phenomenology independent of sensory input—is exactly the kind of first-person datum that resists third-person explanation. [perceptual-fidelity-and-the-interface](/topics/perceptual-failure-and-the-interface/) performs an elegant reversal: conditions of perceptual failure reveal the interface itself, because blur is interoceptive rather than exteroceptive. [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-and-dualist-rendering/) contributes the rendering dilemma: if the brain generates vivid dream imagery during sleep, why doesn't it correct waking sensory degradation? This is a genuinely novel phenomenological puzzle that centres first-person experience as evidence.
 
 ### The Process Philosopher (Whitehead)
 
@@ -46,7 +46,7 @@ The Map practices epistemic humility without surrendering to it. [selection-laws
 
 ## Content Strengths
 
-### [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/)
+### [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-and-dualist-rendering/)
 - **Strongest point**: The rendering dilemma—if the brain generates vivid dream imagery during sleep, it possesses capabilities it doesn't deploy to correct waking perceptual degradation
 - **Notable argument**: Five capability signatures (intention-responsiveness, physics override, vividness surplus, phenomenal completeness, metacognitive sovereignty) methodically developed and empirically grounded with 2025-2026 research
 - **Why it works**: Creates genuine pressure on physicalism from an everyday phenomenon rather than exotic thought experiments
@@ -123,8 +123,8 @@ The Map practices epistemic humility without surrendering to it. [selection-laws
 
 | From | To | Reason |
 |------|-----|--------|
-| [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/) | [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) | Dream rendering demonstrates the 3D representation capability without external input |
-| [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-as-capability-evidence/) | [mental-imagery](/concepts/mental-imagery/) | Dream imagery vs. waking imagery—same capability, different interface conditions |
+| [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-and-dualist-rendering/) | [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) | Dream rendering demonstrates the 3D representation capability without external input |
+| [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-and-dualist-rendering/) | [mental-imagery](/concepts/mental-imagery/) | Dream imagery vs. waking imagery—same capability, different interface conditions |
 | [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) | [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) | Amplification operates through memory's dual-domain architecture |
 | [perceptual-fidelity-and-the-interface](/topics/perceptual-failure-and-the-interface/) | [interface-friction](/concepts/interface-friction/) | Blur is a specific instance of interface friction made visible |
 | [selection-laws](/concepts/selection-laws/) | [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/) | Valence as candidate currency for selection laws |

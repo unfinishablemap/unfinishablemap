@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-10
-**Article**: [Lucid Dreaming as Capability Evidence](/topics/lucid-dreaming-as-capability-evidence/)
+**Article**: [Lucid Dreaming as Capability Evidence](/topics/lucid-dreaming-and-dualist-rendering/)
 **Previous review**: [2026-03-09](/reviews/deep-review-2026-03-09-lucid-dreaming-as-capability-evidence/)
 
 ## Pessimistic Analysis Summary
