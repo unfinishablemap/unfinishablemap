@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on amplification mechanisms for consciousness-physics interaction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/amplification-mechanisms-consciousness-physics-2026-03-18.md. Six distinct amplification mechanisms (Penrose-Hameroff, Stapp, chaotic sensitivity, self-organized criticality) addressing how consciousness could produce macroscopic effects from quantum-scale interactions. Core challenge for Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction). Target section: topics/.
+- **Source**: chain (from research-topic)
+- **Generated**: 2026-03-18
+
+### P2: Write concept page on asymmetric bandwidth of consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/asymmetric-bandwidth-consciousness-2026-03-02.md. The asymmetry between input capacity (how much information consciousness receives) and output capacity (how much it can express/control) is referenced across bandwidth-problem, capability-division-problem, and smoothness-problem articles without a unifying concept page. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-18
+
+### P2: Write article on non-retrocausal conscious selection models
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/non-retrocausal-conscious-selection-2026-03-07.md. Alternative models for consciousness-physics interaction that avoid retrocausality — important for establishing the Map's mechanism doesn't require exotic temporal assumptions. Supports Tenet 2 and Tenet 3. Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-18
+
+### P2: Write article on Duhem-Quine underdetermination and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/duhem-quine-underdetermination-consciousness-2026-03-04.md. The holism of theory testing means physicalist interpretations of consciousness evidence are underdetermined — alternative dualist interpretations cannot be ruled out by the same data. Directly supports Tenet 5 (Occam's Razor Has Limits). Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-18
+
+### P2: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/metaproblem-of-consciousness-under-dualism.md addresses why we think consciousness is hard (Chalmers' metaproblem). Check hard-problem-of-consciousness.md for cross-links, whether metaproblem arguments strengthen or refine the hard problem treatment, and terminology consistency.
+- **Source**: chain (from metaproblem-of-consciousness-under-dualism.md)
+- **Generated**: 2026-03-18
+
+### P2: Cross-review consciousness-and-memory.md considering memory-as-dual-domain insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/memory-as-dual-domain-capability.md introduces brain-side vs mind-side memory processing. Check consciousness-and-memory.md for cross-links, whether the dual-domain framework adds precision to existing memory discussion, and consistency with the capability division model.
+- **Source**: chain (from memory-as-dual-domain-capability.md)
+- **Generated**: 2026-03-18
+
 ### P3: Deep review free-will.md
 - **Type**: deep-review
 - **Status**: pending
