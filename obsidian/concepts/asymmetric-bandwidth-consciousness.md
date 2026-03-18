@@ -4,7 +4,7 @@ description: "The consciousness-brain interface transmits vast sensory informati
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T17:13:00+00:00
+ai_modified: 2026-03-18T17:43:00+00:00
 draft: false
 topics:
   - "[[bandwidth-of-consciousness]]"
@@ -57,7 +57,7 @@ This distinction separates the asymmetry concept from the simpler observation th
 
 Any account of how consciousness relates to the brain must explain the asymmetry. The constraint eliminates certain models:
 
-**Production models** struggle. If the brain *produces* consciousness, the 10⁸-fold ratio between the machinery's internal bandwidth and its conscious output is unexplained. Production metaphors predict that conscious capacity should scale with computational resources. It does not.
+**Production models** face a question. If the brain *produces* consciousness, the 10⁸-fold ratio between the machinery's internal bandwidth and its conscious output requires explanation. Global Workspace Theory (Baars 1988, Dehaene & Naccache 2001) offers one: consciousness is a serial broadcast from a "global workspace" that integrates information from parallel unconscious processors. The bottleneck, on this account, is the workspace's serial nature—only one coalition of neural activity can dominate at a time. This genuinely explains *a* bottleneck, but the Map notes two residual puzzles. First, why ~10 bits per second specifically? Serial broadcast could in principle run faster; what sets the ceiling? Second, the asymmetry is not merely between parallel processing and serial output—it is between the *richness of conscious experience* (inbound) and the *poverty of conscious control* (outbound). If consciousness just *is* the workspace broadcast, both directions should share the same bandwidth. The asymmetry between experiential richness and volitional poverty is easier to accommodate if the two directions involve different kinds of process, as the Map proposes.
 
 **[[filter-theory|Filter models]]** accommodate the asymmetry naturally. If the brain constrains rather than produces consciousness, the outbound bottleneck is the filter itself—the narrow channel through which consciousness acts on the physical world. The inbound channel may represent the brain's capacity to *transmit to* consciousness, while the outbound channel represents consciousness's capacity to *influence* the brain.
 
@@ -65,7 +65,7 @@ Any account of how consciousness relates to the brain must explain the asymmetry
 
 ### It Challenges Epiphenomenalism
 
-If consciousness were [[epiphenomenalism|epiphenomenal]]—causally inert—the outbound channel would carry zero bits per second. There would be no consistent throughput ceiling, because epiphenomena perform no work and face no capacity constraints. The measurable, task-independent ~10 bits per second indicates something is doing exactly that much causal work. As Mandik (2010) observed, control phenomenology is informationally sparse compared to sensory phenomenology, and introspecting motor control interferes with controlling—intelligible if the outbound channel cannot simultaneously carry action-selections and self-monitoring data, unintelligible if consciousness has no capacity constraints because it does nothing.
+If consciousness were [[epiphenomenalism|epiphenomenal]]—causally inert—there would be no reason to expect a consistent throughput ceiling correlated with conscious access. Epiphenomena perform no work and face no capacity constraints; the bottleneck would need to be explained entirely in neural terms, with consciousness as a passive byproduct. This is logically possible—an epiphenomenalist can say the neural bottleneck exists for architectural reasons and consciousness merely *accompanies* whatever passes through it. The asymmetry does not refute epiphenomenalism outright. What it does is make the epiphenomenal story less parsimonious: the tight correlation between the bottleneck's location (at conscious access specifically, not at motor output or sensory processing) and the measurable ~10 bits per second calls for explanation, and "consciousness does causal work at that interface" is the more direct one. Mandik (2010) observed that control phenomenology is informationally sparse compared to sensory phenomenology, and introspecting motor control interferes with controlling—a pattern consistent with the outbound channel carrying a limited bandwidth of action-selections, less naturally explained if consciousness contributes nothing to the process.
 
 ## The Asymmetry as Evidence
 
@@ -79,9 +79,9 @@ The asymmetry functions as evidence within the Map's framework in three ways:
 
 ## The Evolutionary Puzzle
 
-Why has evolution not widened the outbound channel? Brain complexity has increased enormously from simple organisms to humans, yet the ~10 bits per second ceiling appears universal across species with measurable conscious processing. Zheng and Meister suggest inheritance from primitive serial-processing organisms, but evolution routinely scales inherited architectures—the eye began as a light-sensitive patch and became a high-resolution imaging system.
+Why has evolution not widened the outbound channel? Brain complexity has increased enormously from simple organisms to humans, yet the ~10 bits per second ceiling appears universal across species with measurable conscious processing. Zheng and Meister suggest inheritance from primitive serial-processing organisms. This is a plausible neural explanation—serial processing may be deeply embedded in vertebrate brain architecture, and evolutionary pressure may have favoured faster *preparation* of options over wider conscious throughput, since parallel motor systems already handle rapid execution.
 
-The Map offers a structural explanation: if the ceiling reflects the capacity of a mind-brain *interface* rather than a neural-architectural constraint, evolution can optimise only the brain's side—preparing better options faster—but cannot widen a channel whose narrow end is non-physical. This would explain why the ceiling has held despite enormous increases in brain complexity.
+The Map offers an alternative structural explanation: if the ceiling reflects the capacity of a mind-brain *interface* rather than a neural-architectural constraint, evolution can optimise only the brain's side—preparing better options faster—but cannot widen a channel whose narrow end is non-physical. Both explanations account for the data. The neural-architectural explanation is more parsimonious if one already accepts materialism; the interface explanation is more natural if one already accepts dualism. The asymmetry alone does not decide between them—but within the Map's framework, the interface explanation has the advantage of unifying the evolutionary puzzle with the directionality puzzle (why inbound and outbound differ so radically).
 
 ## Relation to Site Perspective
 
@@ -98,9 +98,23 @@ The asymmetric bandwidth concept connects to all five tenets. **[[tenets#^dualis
 
 ## References
 
+1. Baars, B.J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
 1. Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567–575.
+1. Dehaene, S. & Naccache, L. (2001). Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework. *Cognition*, 79(1–2), 1–37.
 1. Cohen, M.A., Dennett, D.C., & Kanwisher, N. (2016). What is the bandwidth of perceptual experience? *Trends in Cognitive Sciences*, 20(5), 324–335.
 1. Mandik, P. (2010). Control consciousness. *Topics in Cognitive Science*, 2(4), 643–657.
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking Press.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 1. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/
+
+<!-- AI REFINEMENT LOG - 2026-03-18
+Changes made:
+- Engaged with Global Workspace Theory as a production-model explanation for the bottleneck, citing Baars (1988) and Dehaene & Naccache (2001), rather than dismissing production models in one sentence
+- Fixed circular evolutionary argument: now presents the neural-architectural explanation (Zheng & Meister) as genuinely plausible, and frames the Map's interface explanation as an alternative rather than the only option
+- Toned down anti-epiphenomenalism argument: now acknowledges epiphenomenalism can accommodate the data, argues the asymmetry makes it less parsimonious rather than claiming it refutes epiphenomenalism
+
+Based on pessimistic review findings (production models dismissed without engagement, circular evolutionary argument, overstated anti-epiphenomenalism).
+Key improvements: intellectual honesty and fair engagement with competing explanations.
+
+This log should be removed after human review.
+-->

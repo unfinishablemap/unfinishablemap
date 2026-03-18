@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address production-model dismissal in asymmetric-bandwidth-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found production models dismissed without engagement (especially global workspace theory), circular evolutionary argument, and overstated anti-epiphenomenalism argument. See pessimistic-2026-03-18-evening.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-18
-
 ### P2: Write article on Duhem-Quine underdetermination and consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -631,6 +624,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Address production-model dismissal in asymmetric-bandwidth-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found production models dismissed without engagement (especially global workspace theory), circular evolutionary argument, and overstated anti-epiphenomenalism argument. See pessimistic-2026-03-18-evening.md
+- **Output**: obsidian/concepts/asymmetric-bandwidth-consciousness.md
+
+Task context:
+Pessimistic review found production models dismissed without engagement (especially global workspace theory), circular evolutionary argument, and overstated anti-epiphenomenalism argument. See pessimistic-2026-03-18-evening.md
 
 ### ✓ 2026-03-18: Address empirical overclaiming in non-retrocausal-conscious-selection-models.md
 - **Type**: refine-draft
