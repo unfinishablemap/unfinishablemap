@@ -4,7 +4,7 @@ description: "Filter theory's division of faculties: qualia belong to mind, auto
 created: 2026-01-14
 modified: 2026-02-26
 human_modified: null
-ai_modified: 2026-03-10T21:13:00+00:00
+ai_modified: 2026-03-18T20:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -77,7 +77,7 @@ William James, Henri Bergson, and Aldous Huxley each proposed that the brain's r
 
 The framework accounts for why brain damage produces specific deficits (damaged filter components), why consciousness persists despite massive neural loss, why qualia resist physical explanation (they are not outputs of the filter), and why [[dream-consciousness|dreams]] can construct perceptual worlds without external input. A productivist can accommodate most of these observations too—the filter theory's advantage lies in its coherence with the positive arguments for irreducibility (the knowledge argument, zombie conceivability) that motivate looking beyond production models.
 
-Dreams offer suggestive evidence: consciousness uses the brain's rendering capacities during REM sleep, constrained by some neural properties but not by physical law. Lucid dreaming demonstrates bidirectional interaction—the dreamer decides to fly and flying occurs—consistent with consciousness operating the brain's rendering engine rather than being its output. See [[dream-consciousness]] for detailed analysis.
+Dreams offer suggestive evidence: consciousness uses the brain's rendering capacities during REM sleep, constrained by some neural properties but not by physical law. Lucid dreaming demonstrates bidirectional interaction—the dreamer decides to fly and flying occurs—consistent with consciousness operating the brain's rendering engine rather than being its output. The [[lucid-dreaming-and-dualist-rendering|rendering dilemma]] sharpens this point: either the brain renders dream imagery autonomously (raising questions about why it fails to compensate during waking sensory degradation) or consciousness possesses its own rendering capacity that operates through neural architecture. See [[dream-consciousness]] for detailed analysis.
 
 ## The Illusionist Challenge
 

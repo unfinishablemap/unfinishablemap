@@ -4,7 +4,7 @@ description: "Cross-modal binding—unifying vision, hearing, and touch into one
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-12T05:19:00+00:00
+ai_modified: 2026-03-18T20:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -125,6 +125,7 @@ The claim that multimodal binding exposes an irreducible gap would face difficul
 - [[consciousness-and-the-phenomenology-of-place]] — The atmospheric character of places as multimodal integration
 - [[three-dimensional-world-representation-problem]] — Spatial binding across visual, auditory, proprioceptive, and vestibular modalities
 - [[perception-and-conscious-experience]] — Perceptual experience as the paradigm case of binding
+- [[lucid-dreaming-and-dualist-rendering]] — Multisensory dream experience without sensory input demonstrates phenomenal completeness independent of external stimulation
 - [[temporal-consciousness]] — Temporal binding and the specious present
 
 ## References

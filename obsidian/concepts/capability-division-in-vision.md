@@ -4,7 +4,7 @@ description: "Vision divides between brain-side computation and mind-side phenom
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T23:29:00+00:00
+ai_modified: 2026-03-18T20:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -101,6 +101,7 @@ One speculative possibility: the mind-side contribution in vision may not be an 
 - [[binding-void]] — Why perceptual binding tracks with conscious awareness
 - [[conscious-vs-unconscious-processing]] — The three functions consciousness enables that vision exemplifies
 - [[neurological-dissociations-as-interface-architecture]] — How vision dissociations map the interface's functional anatomy
+- [[lucid-dreaming-and-dualist-rendering]] — Dreams demonstrate the converse of blindsight: phenomenal experience without visual input, with the same dorsal/ventral division shaping dream imagery
 - [[interactionist-dualism]]
 - [[epiphenomenalism]]
 

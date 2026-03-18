@@ -4,7 +4,7 @@ description: "Consciousness operates in gradations during sleep. Memory consolid
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-09T11:17:00+00:00
+ai_modified: 2026-03-18T20:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -101,7 +101,7 @@ If consciousness were identical to neural computation, this would be mysterious.
 
 ## Lucid Dreaming as Interface Reactivation
 
-[[dream-consciousness|Lucid dreaming]] demonstrates that the consciousness interface can reactivate during sleep through training. Prefrontal regions normally quiescent during REM come back online, restoring metacognitive awareness while preserving dream immersion. The 2025 Demirel findings characterized lucid dreaming as a distinct state: beta/gamma resonance, precuneus and insula activation, and coherence between default mode and salience networks.
+[[dream-consciousness|Lucid dreaming]] demonstrates that the consciousness interface can reactivate during sleep through training. Prefrontal regions normally quiescent during REM come back online, restoring metacognitive awareness while preserving dream immersion. The 2025 Demirel findings characterized lucid dreaming as a distinct state: beta/gamma resonance, precuneus and insula activation, and coherence between default mode and salience networks. The [[lucid-dreaming-and-dualist-rendering|capability signatures visible in lucid dreams]]—intention-responsiveness, vividness surplus, phenomenal completeness, and metacognitive sovereignty—map the division between brain-side architecture and mind-side rendering.
 
 This proves the interface is trainable—the boundary between sleep states is plastic. For The Unfinishable Map's framework, this has implications for [[meditation-and-consciousness-modes|meditation]]: if the interface can be reactivated during sleep, the same mechanisms may underlie contemplative development during waking.
 

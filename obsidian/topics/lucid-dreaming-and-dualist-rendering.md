@@ -4,7 +4,7 @@ description: "Lucid dreaming reveals that consciousness renders phenomenal world
 created: 2026-03-09
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T12:21:00+00:00
+ai_modified: 2026-03-18T20:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review: 2026-03-18T12:21:00+00:00
+last_deep_review: 2026-03-18T20:50:00+00:00
 coalesced_from:
   - "/topics/lucid-dreaming-as-capability-evidence/"
   - "/topics/lucid-dreaming-and-mind-side-rendering/"

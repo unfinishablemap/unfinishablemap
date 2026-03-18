@@ -4,7 +4,7 @@ description: "The sleep-wake transition reveals consciousness-brain coupling as 
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-12T04:29:00+00:00
+ai_modified: 2026-03-18T20:50:00+00:00
 last_deep_review: 2026-03-12T04:00:00+00:00
 draft: false
 topics:
@@ -133,6 +133,7 @@ The graded-interface interpretation of hypnagogia would face difficulty if:
 ## Further Reading
 
 - [[dream-consciousness]] — What happens after hypnagogia: consciousness during REM and NREM sleep
+- [[lucid-dreaming-and-dualist-rendering]] — The rendering dilemma and capability signatures visible when the interface fully reconfigures into REM
 - [[loss-of-consciousness]] — The extreme case: interface disruption through anaesthesia, coma, and injury
 - [[attention-as-interface]] — The primary channel through which consciousness influences neural activity
 - [[coupling-modes]] — Basis, timing, and probability control as distinct interface mechanisms

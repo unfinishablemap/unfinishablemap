@@ -4,7 +4,7 @@ description: "Epiphenomenalism isn't just one view among many—it's the default
 created: 2026-02-22
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-18T19:57:00+00:00
+ai_modified: 2026-03-18T20:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -174,6 +174,7 @@ The Map's framework is one of the few that provides all three elements needed to
 - [[pain-consciousness-and-causal-power]] — Pain as the hardest case for epiphenomenalism: felt awfulness inseparable from motivation
 - [[content-specificity-of-mental-causation]] — The systematic mapping between meaning and physical effect that epiphenomenalism cannot explain
 - [[illusionism#Structural Convergence with Epiphenomenalism|Illusionism as Epiphenomenalism]] — Why illusionism's denial of qualia doesn't escape the epiphenomenalist structure
+- [[lucid-dreaming-and-dualist-rendering]] — Lucid dream intention-responsiveness and two-way communication studies as empirical evidence against epiphenomenalism
 - [[dualism]] — The broader argument for taking consciousness as irreducible
 
 ## References

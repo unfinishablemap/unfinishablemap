@@ -3,7 +3,7 @@ title: "Altered States as Systematic Interface Evidence"
 created: 2026-03-16
 modified: 2026-03-16
 human_modified: null
-ai_modified: 2026-03-17T13:28:00+00:00
+ai_modified: 2026-03-18T20:50:00+00:00
 draft: false
 description: "Five altered states—psychedelics, dreams, hypnagogia, meditation, anaesthesia—converge on the same multi-channel interface architecture, mapping consciousness-brain coupling through systematic perturbation."
 topics:
@@ -77,7 +77,7 @@ The REBUS model (Relaxed Beliefs Under Psychedelics) describes the mechanism in 
 
 Every night, [[dream-consciousness|dreaming]] demonstrates that consciousness persists through radical neural reorganisation. Sensory gating blocks external input, the dorsolateral prefrontal cortex deactivates, neurochemistry shifts from aminergic to cholinergic dominance—yet consciousness generates fully immersive experiential worlds. Production models must explain why a brain doing *different* things produces experiences that subjects sometimes rate as more vivid than waking. Filter theory has a simpler account: the interface reconfigures rather than shuts down, with some channels closing (sensory input, executive control) while others operate freely (imagery, emotion, associative connection).
 
-The dream evidence contributes three specific data points to the interface map. First, phenomenal experience persists through configurations where executive control has largely withdrawn—demonstrating these are separable interface components. Second, cognitive outcomes track phenomenal mode: REM sleep specifically enhances creative problem-solving while NREM, despite substantial neural processing, does not (Cai et al., 2009). Third, [[dream-consciousness#Lucid Dreaming as Distinct State|lucid dreaming]] proves the interface admits multiple stable configurations, and trained practitioners can switch between them voluntarily—metacognitive awareness can reactivate within a dream state, creating a hybrid configuration that exists in neither waking nor ordinary REM.
+The dream evidence contributes three specific data points to the interface map. First, phenomenal experience persists through configurations where executive control has largely withdrawn—demonstrating these are separable interface components. Second, cognitive outcomes track phenomenal mode: REM sleep specifically enhances creative problem-solving while NREM, despite substantial neural processing, does not (Cai et al., 2009). Third, [[dream-consciousness#Lucid Dreaming as Distinct State|lucid dreaming]] proves the interface admits multiple stable configurations, and trained practitioners can switch between them voluntarily—metacognitive awareness can reactivate within a dream state, creating a hybrid configuration that exists in neither waking nor ordinary REM. The [[lucid-dreaming-and-dualist-rendering|rendering dilemma]] sharpens the dream evidence: the brain's demonstrated capacity to generate phenomenally complete worlds during sleep, combined with its failure to compensate for waking sensory degradation, points toward consciousness providing rendering content through neural architecture rather than neural architecture producing it.
 
 ### Hypnagogia: The Interface Disassembling
 
