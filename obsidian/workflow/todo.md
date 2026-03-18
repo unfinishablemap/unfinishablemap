@@ -115,6 +115,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-15
 - **Completed**: 2026-03-17
 
+### P3: Write article on phenomenological psychiatry and the interface model
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Depersonalisation, dissociation, and schizophrenia as cases where the consciousness-physics interface is selectively disrupted. The interface model makes specific empirical predictions about disruption patterns. Builds on phenomenological-psychiatry-and-altered-experience. Target section: topics/. See optimistic-2026-03-18-night.md
+- **Generated**: 2026-03-18
+
+### P3: Create concept page for convergence methodology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map's distinctive argumentative strategy — building cumulative cases from independent lines of evidence — has no anchor page explaining why convergence is epistemically stronger than individual arguments. Referenced implicitly across arguments-against-materialism, the-epiphenomenalist-threat, and multiple hub articles. Target section: concepts/. See optimistic-2026-03-18-night.md
+- **Generated**: 2026-03-18
+
 ### P3: Create concept page for token-level determination
 - **Type**: expand-topic
 - **Status**: pending
