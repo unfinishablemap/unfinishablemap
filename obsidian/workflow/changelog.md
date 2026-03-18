@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18 21:51 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/predictive-processing-and-the-maps-framework]]
+- **Word count**: 2396 → 2446 (+50)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing parsimony-epistemology cross-link, missing frontmatter/Further Reading entries)
+- **Enhancements made**: 1 (strengthened Occam's Razor tenet section with precondition argument)
+- **Output**: [[reviews/deep-review-2026-03-18-predictive-processing-and-the-maps-framework]]
+
 ## 2026-03-18 21:45 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 21 articles across topics/, concepts/, tenets/ — focusing on core framework, empirical bridges, epistemology cluster, ethics, and cross-cultural philosophy

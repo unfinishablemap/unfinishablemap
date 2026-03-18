@@ -4,7 +4,7 @@ description: "How predictive processing—the brain's prediction-error-minimizin
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-16T08:47:00+00:00
+ai_modified: 2026-03-18T21:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +19,7 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[categorical-surprise]]"
   - "[[qualia]]"
+  - "[[parsimony-epistemology]]"
 related_articles:
   - "[[tenets]]"
   - "[[predictive-processing-consciousness-2026-01-14]]"
@@ -30,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-02-19T15:06:00+00:00
+last_deep_review: 2026-03-18T21:51:00+00:00
 ---
 
 Predictive processing (PP) is one of the most influential computational frameworks in contemporary cognitive science. It describes the brain as a hierarchical prediction engine that minimises surprise by constantly generating and testing expectations against sensory input. The Unfinishable Map argues that PP provides an excellent account of the neural side of mind-body interaction — the computational machinery through which consciousness operates — while leaving entirely open the question of *why* this machinery is conscious at all. Far from threatening dualism, PP is exactly the kind of physical framework that interactionist dualism needs: a detailed account of brain architecture that nonetheless contains an unexplained gap where consciousness enters.
@@ -107,7 +108,7 @@ The Unfinishable Map sees predictive processing as a valuable ally rather than a
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: PP's computational machinery operates within any single branch, and many-worlds proponents like Deutsch and Wallace have argued via decision-theoretic frameworks that probabilities and confirmation function normally branch-locally. The Map's objection to many-worlds therefore does not rest on PP breaking under branching. Rather, the concern is about what PP *reveals* phenomenologically. The felt quality of surprise — the shock of a violated expectation, the recalibration of one's model — presupposes a singular experiencer whose predictions were wrong. Under many-worlds, a copy of you exists in every outcome branch, each experiencing their result as definite. But this raises the indexical question the Map finds unanswerable: why am I the copy who experienced *this* prediction error rather than the one whose prediction was confirmed? Many-worlds treats this question as meaningless, but the phenomenology of surprise — the very thing PP describes so well — suggests it is deeply meaningful. PP sharpens the Map's rejection of many-worlds not because prediction error fails mechanically under branching, but because the lived experience of being wrong about the world implies a singular perspective that branching universes cannot ground.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: PP's elegance — one principle explaining perception, action, learning, and emotion — makes it tempting to think consciousness will eventually reduce to prediction error minimisation. The Map counsels patience. Behaviourism was equally parsimonious and equally wrong about what matters. The simplicity of PP's computational account conceals the unexplained assumption that computation should be conscious.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: PP's elegance — one principle explaining perception, action, learning, and emotion — makes it tempting to think consciousness will eventually reduce to prediction error minimisation. But as [[parsimony-epistemology]] shows, parsimony justifies preferring a simpler theory only when competing accounts explain the data equally well. PP's computational account and the Map's dualist reading do not: PP leaves the hard problem untouched, so the precondition for invoking Occam's Razor is unmet. Behaviourism was equally parsimonious and equally wrong about what matters. The simplicity of PP's computational account conceals the unexplained assumption that computation should be conscious.
 
 ## Further Reading
 
@@ -120,6 +121,7 @@ The Unfinishable Map sees predictive processing as a valuable ally rather than a
 - [[bandwidth-of-consciousness]] — Bandwidth limits and the interface
 - [[placebo-effect-and-mental-causation]] — Expectations as strong priors with measurable outcomes
 - [[concepts/functionalism]] — The philosophical tradition PP inherits
+- [[parsimony-epistemology]] — Why simplicity cannot settle the consciousness debate
 
 ## References
 

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review epistemology articles considering parsimony-epistemology concept
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/parsimony-epistemology.md created 2026-03-18 on the epistemological limits of Occam's Razor. Review occams-razor-has-limits.md and epistemic-advantages-of-dualism.md for cross-links, whether the new concept page sharpens existing arguments about parsimony's limitations, and consistency with Tenet 5 framing.
-- **Source**: chain (from parsimony-epistemology.md)
-- **Generated**: 2026-03-18
-
 ### P2: Cross-review consciousness-and-memory.md considering memory-as-dual-domain insights
 - **Type**: cross-review
 - **Status**: pending
@@ -641,6 +634,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Cross-review epistemology articles considering parsimony-epistemology concept
+- **Type**: cross-review
+- **Notes**: New concept page concepts/parsimony-epistemology.md created 2026-03-18 on the epistemological limits of Occam's Razor. Review occams-razor-has-limits.md and epistemic-advantages-of-dualism.md for cross-links, whether the new concept page sharpens existing arguments about parsimony's limitations, and consistency with Tenet 5 framing.
+- **Output**: None -- Context: Cross-review epistemology articles considering parsimony-epistemology concept
 
 ### ✓ 2026-03-18: Address circular reasoning and observational closure tension in the-epiphenomenalist-threat.md
 - **Type**: refine-draft
