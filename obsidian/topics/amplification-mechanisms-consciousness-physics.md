@@ -4,8 +4,8 @@ description: "Six proposed mechanisms for scaling quantum-level conscious influe
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T16:58:00+00:00
-last_deep_review: 2026-03-18T16:58:00+00:00
+ai_modified: 2026-03-18T18:25:00+00:00
+last_deep_review: 2026-03-18T18:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -124,6 +124,8 @@ The **[[tenets#^no-many-worlds|No Many Worlds]]** tenet constrains which mechani
 - [[consciousness-as-amplifier]] — How consciousness amplifies intelligence through cognitive mechanisms
 - [[interactionist-dualism]] — The broader framework for mind-body causal interaction
 - [[decoherence]] — The decoherence objection and responses
+- [[consciousness-selecting-neural-patterns]] — How consciousness selects which quantum possibilities become actual
+- [[comparing-quantum-consciousness-mechanisms]] — Head-to-head evaluation of Orch OR, Stapp, Fisher, and CSL hybrids
 - [[what-consciousness-tells-us-about-physics]] — Apex synthesis: the reverse inference from consciousness to physics
 
 ## References

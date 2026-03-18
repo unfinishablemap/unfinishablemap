@@ -4,7 +4,7 @@ description: "Why the discovery that warm biology exploits quantum effects shift
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-18T18:25:00+00:00
 draft: false
 last_deep_review: 2026-02-26T08:23:00+00:00
 topics:
@@ -61,7 +61,7 @@ Five distinct [[quantum-neural-mechanisms|quantum mechanisms]] have been propose
 
 These mechanisms vary in evidential support. Radical pair biology is well-established outside neural contexts. Microtubule research has accelerated since 2024, with anesthetic studies suggesting quantum effects correlate with consciousness. Ion tunnelling and SNARE protein mechanisms remain primarily theoretical. Posner molecules await experimental validation.
 
-The point is not that any specific mechanism is confirmed, but that multiple independent pathways exist for quantum effects in neural tissue. The assumption of purely classical brain computation is no longer unchallenged.
+The point is not that any specific mechanism is confirmed, but that multiple independent pathways exist for quantum effects in neural tissue. The assumption of purely classical brain computation is no longer unchallenged. See [[amplification-mechanisms-consciousness-physics|amplification mechanisms]] for how these quantum effects might scale from molecular events to macroscopic neural outcomes.
 
 ## Why Does This Matter for Consciousness?
 

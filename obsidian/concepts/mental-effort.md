@@ -4,7 +4,7 @@ description: "Why controlling attention feels like work—and what this universa
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-16T07:47:00+00:00
+ai_modified: 2026-03-18T18:25:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -102,7 +102,7 @@ However, the proposal faces a serious objection. Neural quantum states [[decoher
 
 Other proposed mechanisms include: quantum selection at the measurement stage, where consciousness biases which definite outcome obtains even after decoherence has eliminated superposition; top-down causal influence through emergent properties of complex neural organisation; and various forms of psychophysical law connecting conscious states to physical states without specifying a micro-level mechanism. See [[quantum-consciousness]] for a broader survey.
 
-The Map does not commit to any particular mechanism. The phenomenological and neuroplasticity evidence for consciousness influencing matter stands regardless of *how* the interaction is physically mediated. Identifying the mechanism is an open empirical question.
+The Map does not commit to any particular mechanism. The phenomenological and neuroplasticity evidence for consciousness influencing matter stands regardless of *how* the interaction is physically mediated. See [[amplification-mechanisms-consciousness-physics|amplification mechanisms]] for a systematic survey of six proposed pathways from quantum-level influence to macroscopic neural effects. Identifying the mechanism is an open empirical question.
 
 ## The Illusionist Challenge
 

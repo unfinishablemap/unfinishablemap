@@ -4,7 +4,7 @@ description: "How consciousness moves the body: the quantum Zeno effect applied 
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-02-23T08:20:00+00:00
+ai_modified: 2026-03-18T18:25:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -133,6 +133,7 @@ What would strengthen the case? Evidence that conscious selection introduces sta
 - [[topics/free-will]] — The broader free will question
 - [[agent-causation]] — Agent causation and its relation to selection
 - [[quantum-neural-timing-constraints]] — Timing hierarchy for quantum effects in neural systems
+- [[amplification-mechanisms-consciousness-physics]] — Six proposed mechanisms bridging the quantum-to-macroscopic gap
 
 ## References
 

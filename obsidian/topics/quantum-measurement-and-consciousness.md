@@ -4,7 +4,7 @@ description: "The measurement problem and the hard problem share an identical lo
 created: 2026-02-01
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T07:28:00+00:00
+ai_modified: 2026-03-18T18:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -178,6 +178,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [[explanatory-gap]] — The gap between physical description and experience
 - [[process-philosophy]] — Whitehead's concrescence as metaphysical counterpart to outcome determination
 - [[stapp-quantum-mind]] — A concrete mechanism for consciousness at quantum measurement
+- [[amplification-mechanisms-consciousness-physics]] — Six mechanisms bridging quantum selection to macroscopic neural effects
 - [[topics/free-will]] — How the selection gap connects to agent causation
 - [[consciousness-in-smeared-quantum-states]] — What consciousness does during superposition
 - [[the-convergence-argument-for-dualism]] — How this structural parallel contributes to the cumulative case for dualism

@@ -4,7 +4,7 @@ description: "Three forward-in-time frameworks propose consciousness selects amo
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T17:51:00+00:00
+ai_modified: 2026-03-18T18:25:00+00:00
 last_deep_review: 2026-03-18T17:51:00+00:00
 draft: false
 topics:
@@ -129,6 +129,7 @@ The Map's position: non-retrocausal conscious selection is the more conservative
 - [[empirical-evidence-for-consciousness-selecting]]
 - [[spontaneous-collapse-theories]]
 - [[presentiment-and-retrocausality]]
+- [[amplification-mechanisms-consciousness-physics]] — Six mechanisms for scaling quantum selection to macroscopic neural effects
 - [[quantum-consciousness]]
 
 ## References

@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-17T20:46:00+00:00
+ai_modified: 2026-03-18T18:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -106,6 +106,8 @@ This is the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] 
 ### The Decoherence Challenge
 
 The main physics-based objection: warm neural tissue decoheres quantum superpositions in ~10^-13 seconds (Tegmark 2000), far too fast for consciousness to exploit. But [[decoherence]] doesn't eliminate quantum indeterminacy — it explains why interference effects wash out, but outcomes still require determination. Recent calculations incorporating biological protective mechanisms extend coherence estimates by many orders of magnitude. Consciousness could bias outcomes at the point of measurement even after decoherence has occurred.
+
+Even granting the quantum opening, consciousness must still bridge the gap between quantum-scale effects and macroscopic neural outcomes. Six distinct [[amplification-mechanisms-consciousness-physics|amplification mechanisms]] have been proposed — from microtubule collapse to self-organized criticality — each addressing a different segment of this quantum-to-macroscopic chain.
 
 ### The Conservation Objection
 

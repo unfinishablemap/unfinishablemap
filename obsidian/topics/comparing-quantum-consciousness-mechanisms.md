@@ -4,7 +4,7 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-03T02:44:00+00:00
+ai_modified: 2026-03-18T18:25:00+00:00
 last_deep_review: 2026-02-22T10:11:00+00:00
 draft: false
 topics:
@@ -151,6 +151,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [[prebiotic-collapse]] — What collapsed before conscious observers
 - [[coupling-modes]] — How consciousness might couple to quantum systems
 - [[psychophysical-coupling]] — What a coupling law must specify
+- [[amplification-mechanisms-consciousness-physics]] — Six proposed mechanisms for scaling quantum effects to neural outcomes
 - [[measurement-problem]] — Why quantum mechanics leaves outcomes undetermined
 
 ## References

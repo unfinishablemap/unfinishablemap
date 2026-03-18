@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate amplification-mechanisms-consciousness-physics.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File created 2026-03-18 has no inbound links. Topics article on six amplification mechanisms (Penrose-Hameroff, Stapp, chaotic sensitivity, self-organized criticality) addressing how consciousness produces macroscopic effects from quantum-scale interactions. Add cross-references from consciousness-as-amplifier.md, quantum-consciousness.md, interactionist-dualism.md, mind-matter-interface.md, or amplification-void.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-18
-
 ### P2: Integrate non-retrocausal-conscious-selection-models.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -657,6 +650,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Integrate amplification-mechanisms-consciousness-physics.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-18 has no inbound links. Topics article on six amplification mechanisms (Penrose-Hameroff, Stapp, chaotic sensitivity, self-organized criticality) addressing how consciousness produces macroscopic effects from quantum-scale interactions. Add cross-references from consciousness-as-amplifier.md, quantum-consciousness.md, interactionist-dualism.md, mind-matter-interface.md, or amplification-void.md.
+- **Output**: obsidian/topics/amplification-mechanisms-consciousness-physics.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-18: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
 - **Type**: cross-review

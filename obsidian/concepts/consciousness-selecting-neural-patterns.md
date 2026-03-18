@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-11T08:47:00+00:00
+ai_modified: 2026-03-18T18:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -61,7 +61,7 @@ The brain offers several candidate "selection sites" where quantum effects might
 
 **Consciousness-collapse with CSL dynamics** (Chalmers-McQueen): Collapse rate depends on integrated information—systems with more integrated information trigger faster collapse. Their key insight is the "super-resistance" problem: if consciousness triggers collapse, the Zeno effect would prevent transitions between conscious states. Their solution uses gradual CSL collapse rather than instantaneous projection, avoiding Zeno freezing while preserving consciousness's role as collapse trigger.
 
-These aren't mutually exclusive—selection might operate at multiple levels simultaneously.
+These aren't mutually exclusive—selection might operate at multiple levels simultaneously. See [[amplification-mechanisms-consciousness-physics|amplification mechanisms]] for how quantum-level selection at any of these sites could scale to macroscopic neural effects.
 
 ### How Selection Works
 

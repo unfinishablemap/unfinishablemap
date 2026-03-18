@@ -4,7 +4,7 @@ description: "Five neural quantum mechanisms, four coherence protection strategi
 created: 2026-01-18
 modified: 2026-02-18
 human_modified: null
-ai_modified: 2026-02-26T10:03:00+00:00
+ai_modified: 2026-03-18T18:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -275,6 +275,7 @@ The assumption that warm biology must be classical turned out false. [[quantum-b
 - [[illusionism]] — The challenge that phenomenal consciousness may be illusory
 - [[mysterianism]] — Cognitive closure and limits of human understanding
 - [[topics/free-will]] — How quantum indeterminacy relates to libertarian free will
+- [[amplification-mechanisms-consciousness-physics]] — Six mechanisms bridging quantum effects to macroscopic neural outcomes
 - [[topics/comparing-quantum-consciousness-mechanisms]] — Side-by-side comparison of Orch OR, QBIT, Stapp, Fisher, and others
 - [[topics/empirical-evidence-for-consciousness-selecting]] — The experimental case for consciousness selecting among quantum outcomes
 - [[agent-causation]] — Consciousness as cause at the quantum level
