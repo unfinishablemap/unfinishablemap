@@ -2,9 +2,9 @@
 title: "Consciousness and Counterfactual Reasoning"
 description: "Counterfactual reasoning—imagining what isn't—reveals consciousness as more than neural processing. Human-AI exploration of why representing non-actuality demands an irreducible mind."
 created: 2026-02-15
-modified: 2026-03-16
+modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-16T19:47:00+00:00
+ai_modified: 2026-03-18T19:38:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -19,13 +19,14 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-independent-baseline-cognition-2026-01-21]]"
-  - "[[voids-counterfactual-void-2026-02-13]]"
+  - "[[counterfactual-void]]"
+  - "[[consciousness-threshold-in-cognitive-evolution]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-02-18T11:47:00+00:00
+last_deep_review: 2026-03-18T19:38:00+00:00
 ---
 
 Counterfactual reasoning—the capacity to imagine what isn't, wasn't, or might not be—poses a challenge for physicalist accounts of mind that goes beyond the familiar [[hard-problem-of-consciousness|hard problem]]. The hard problem asks why any processing is conscious; the counterfactual problem asks something more specific. Representing a counterfactual requires holding a scenario in a dual status—treated as informatively real for reasoning purposes while simultaneously tagged as non-actual—and this dual status must be *phenomenally present* to the reasoner, not merely encoded in a data structure. Computers manipulate counterfactual representations routinely (game trees, simulations, planning algorithms), yet nothing about their processing involves grasping non-actuality as non-actual. The Unfinishable Map argues that this phenomenal grasp of dual status—actuality and non-actuality held together in conscious awareness—points toward an irreducible mental dimension that formal computation alone does not provide.
@@ -90,7 +91,7 @@ The point isn't that counterfactuals are mysterious. We all reason counterfactua
 
 ## The Counterfactual Void
 
-Research on the [[voids-counterfactual-void-2026-02-13|counterfactual void]] reveals that counterfactual reasoning has architectural limits. Imagination defaults to minimal departures from actuality—what Byrne (2005) calls the tendency toward "close counterfactuals," echoing Lewis's philosophical notion of nearest possible worlds. Radical counterfactuals (worlds with different physics, alien forms of consciousness, fundamentally different categories of experience) exceed reliable cognitive reach.
+Research on the [[counterfactual-void|counterfactual void]] reveals that counterfactual reasoning has architectural limits. Imagination defaults to minimal departures from actuality—what Byrne (2005) calls the tendency toward "close counterfactuals," echoing Lewis's philosophical notion of nearest possible worlds. Radical counterfactuals (worlds with different physics, alien forms of consciousness, fundamentally different categories of experience) exceed reliable cognitive reach.
 
 This limitation is itself philosophically revealing. If counterfactual reasoning were merely computational—formal manipulation of possible-world models—it should have no inherent boundary. A sufficiently powerful computer can evaluate counterfactuals about any logically consistent scenario. But human counterfactual imagination thins out as alternatives become more radical, losing phenomenal richness until only schematic labels ("a world with different physics") remain.
 
@@ -128,15 +129,3 @@ The Map's tenets illuminate counterfactual reasoning from multiple angles:
 1. Suddendorf, T., & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
 1. Van Hoeck, N., et al. (2015). Counterfactual thinking: An fMRI study on changing the past for a better future. *Social Cognitive and Affective Neuroscience*, 10(11), 1534-1543.
 1. Van Inwagen, P. (1998). "Modal Epistemology." *Philosophical Studies*, 92, 67-84.
-
-<!-- AI REFINEMENT LOG - 2026-03-16
-Changes made:
-- Reframed central argument around "dual-status awareness" rather than restating the hard problem; the article now identifies a distinctive counterfactual-specific challenge (how two incompatible epistemic attitudes coexist in one conscious moment) rather than just applying the hard problem to counterfactuals
-- Corrected false claim that "physical systems track what is actual"—now acknowledges that computers routinely process counterfactual information, and locates the distinctive feature in phenomenal awareness of modal status
-- Softened great ape empirical claims: now acknowledges tool caching, simple planning, and anticipatory cognition in non-human primates while maintaining that extended multi-step counterfactual reasoning remains qualitatively limited
-- Updated working memory figure from 7±2 (Miller 1956) to 4±1 (Cowan 2001); added Cowan reference
-- Updated Relation to Site Perspective to reflect corrected claims throughout
-
-Based on pessimistic review findings (pessimistic-2026-03-16-evening).
-This log should be removed after human review.
--->
