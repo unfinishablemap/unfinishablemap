@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review amplification-mechanisms-consciousness-physics.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article on six amplification mechanisms. Review amplification-void, quantum-consciousness, consciousness-as-amplifier, and interactionist-dualism for cross-references and consistency.
-- **Source**: chain (from expand-topic)
-- **Generated**: 2026-03-18
-
 ### P2: Write concept page on asymmetric bandwidth of consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -643,6 +636,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Cross-review amplification-mechanisms-consciousness-physics.md
+- **Type**: cross-review
+- **Notes**: New article on six amplification mechanisms. Review amplification-void, quantum-consciousness, consciousness-as-amplifier, and interactionist-dualism for cross-references and consistency.
+- **Output**: obsidian/topics/amplification-mechanisms-consciousness-physics.md -- Context: Cross-review amplification-mechanisms-consciousness-physics.md
 
 ### ✓ 2026-03-18: Write article on amplification mechanisms for consciousness-physics interaction
 - **Type**: expand-topic
