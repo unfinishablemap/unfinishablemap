@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on the reconstruction paradox
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. When the brain "corrects" perceptual errors or fills in blind spots, is it reconstructing what consciousness should see, or is consciousness selecting among candidate reconstructions? The paradox reveals the interface's bidirectional nature. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-18
-
 ### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -605,6 +598,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Write concept page on the reconstruction paradox
+- **Type**: expand-topic
+- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. When the brain "corrects" perceptual errors or fills in blind spots, is it reconstructing what consciousness should see, or is consciousness selecting among candidate reconstructions? The paradox reveals the interface's bidirectional nature. Target section: concepts/.
+- **Output**: Write concept page on the reconstruction paradox
 
 ### ✓ 2026-03-18: Write article on asymmetric bandwidth of consciousness
 - **Type**: expand-topic

@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T13:03:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Perceptual Reconstruction Selection
+- **Output**: [[perceptual-reconstruction-selection]]
+- **Word count**: 1322
+- **Based on research**: yes, [[reconstruction-paradox-brain-correction-2026-03-09]]
+
 ## 2026-03-18T12:59:00+00:00 - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Asymmetric bandwidth of consciousness
