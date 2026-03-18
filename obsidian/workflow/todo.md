@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address empirical equivalence underselling in what-consciousness-tells-us-about-physics.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the article buries its most serious vulnerability (empirical equivalence with standard QM) in a parenthetical bullet point. Should be elevated to its own section or full paragraph with honest assessment of scientific vs philosophical status. Also fix conditional-to-unconditional drift throughout body sections. See pessimistic-2026-03-18.md
+- **Generated**: 2026-03-18
+
 ### P2: Integrate consciousness-interface-development.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
