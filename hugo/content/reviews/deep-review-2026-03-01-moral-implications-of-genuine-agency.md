@@ -78,7 +78,7 @@ No attribution errors found.
 5. [reasons-responsiveness](/concepts/reasons-responsiveness/) — Added to Further Reading
 6. [concept-of-free-will](/concepts/concept-of-free-will/) — Added to Further Reading
 7. [luck-objection](/concepts/luck-objection/) — Added to Further Reading
-8. [moral-phenomenology](/concepts/moral-phenomenology/) — Added to Further Reading
+8. [moral-phenomenology](/concepts/moral-phenomenology-and-perception/) — Added to Further Reading
 9. [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — Added to Further Reading
 10. [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Added to Further Reading (topics)
 11. [meaning-of-life](/topics/meaning-of-life/) — Added to Further Reading

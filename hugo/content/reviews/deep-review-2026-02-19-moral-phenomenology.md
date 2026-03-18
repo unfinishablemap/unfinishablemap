@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-19
-**Article**: [Moral Phenomenology](/concepts/moral-phenomenology/)
+**Article**: [Moral Phenomenology](/concepts/moral-phenomenology-and-perception/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

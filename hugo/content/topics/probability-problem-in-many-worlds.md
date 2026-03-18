@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-03-15 06:40:00+00:00
+ai_modified: 2026-03-18 14:18:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -14,6 +14,7 @@ concepts:
 - '[[quantum-interpretations]]'
 - '[[decoherence]]'
 - '[[quantum-probability-consciousness]]'
+- '[[probability-objections-many-worlds]]'
 created: 2026-03-04
 date: &id001 2026-03-10
 description: 'MWI faces a deep crisis: if all outcomes occur, probability loses meaning.
@@ -22,7 +23,7 @@ description: 'MWI faces a deep crisis: if all outcomes occur, probability loses 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-10 03:41:00+00:00
+last_deep_review: 2026-03-18 14:18:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -153,6 +154,7 @@ The circularity objection has a particular resonance for the Map's framework. If
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — Why indexical identity connects quantum measurement to the hard problem
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Five major alternatives to MWI
 - [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/) — Why real collapse matters philosophically
+- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — Why Born rule derivation failures point toward consciousness-collapse
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — The subjective dimension of quantum probability
 - [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — Why consciousness is probability's prerequisite yet its worst reasoner
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — How probability connects to consciousness across interpretations
@@ -182,16 +184,3 @@ The circularity objection has a particular resonance for the Map's framework. If
 19. Zurek, W.H. (2005). Probabilities from entanglement, Born's rule from envariance. *Physical Review A*, 71, 052105.
 20. Southgate, A. & Oquatre-six, C. (2026-01-19). The Many-Worlds Interpretation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/many-worlds/
 21. Southgate, A. & Oquatre-six, C. (2026-01-23). Indexical Identity and Quantum Measurement. *The Unfinishable Map*. https://unfinishablemap.org/topics/indexical-identity-quantum-measurement/
-
-<!-- AI REFINEMENT LOG - 2026-03-15
-Changes made:
-- Added Short (2023) citation showing the probability problem remains open through 2023
-- Added historical context about Everett's original 1957 use of amplitude-squared without justification
-- Strengthened the historical persistence argument in the envariance section with explicit timeline from 1957-2023
-- Added Short (2023) to References section in alphabetical order
-- Fixed duplicate reference numbering (two #18 entries)
-
-Key improvements: Historical persistence of the probability problem now explicitly documented with Short (2023) as most recent evidence the problem remains unresolved.
-
-This log should be removed after human review.
--->

@@ -27,7 +27,7 @@ None. The article is well-constructed with no factual errors, no misattributions
 
 ### Medium Issues Found
 - **Weak MWI argument in Relation to Site Perspective**: The original claim that branching would make "phenomenal weight systematically misleading" doesn't follow—MWI defenders would say phenomenal weight tracks importance in this branch. **Resolution**: Rewrote to focus on indexical identity—under MWI, "what should *I* do?" loses coherence when every answer obtains.
-- **[moral-phenomenology](/concepts/moral-phenomenology/) in frontmatter but not linked in body**: Minor inconsistency between declared concepts and actual cross-links. **Resolution**: Added inline link in the spatial metaphor paragraph.
+- **[moral-phenomenology](/concepts/moral-phenomenology-and-perception/) in frontmatter but not linked in body**: Minor inconsistency between declared concepts and actual cross-links. **Resolution**: Added inline link in the spatial metaphor paragraph.
 
 ### Low Issues
 - Spatial metaphor paragraph was somewhat redundant (pulling/tension imagery already established in preceding paragraphs). **Resolution**: Tightened the paragraph, combining with the moral-phenomenology cross-link addition.
@@ -49,11 +49,11 @@ None. The article is well-constructed with no factual errors, no misattributions
 
 ### Enhancements Made
 - Strengthened MWI argument from vague "systematically misleading" claim to precise indexical identity argument
-- Added [moral-phenomenology](/concepts/moral-phenomenology/) cross-link in body text
+- Added [moral-phenomenology](/concepts/moral-phenomenology-and-perception/) cross-link in body text
 - Tightened spatial metaphor paragraph (reduced redundancy)
 
 ### Cross-links Added
-- [moral-phenomenology](/concepts/moral-phenomenology/) (added to body text)
+- [moral-phenomenology](/concepts/moral-phenomenology-and-perception/) (added to body text)
 
 ## Remaining Items
 None. All medium issues addressed. Low issues either resolved or represent philosophical standoffs outside the article's scope.

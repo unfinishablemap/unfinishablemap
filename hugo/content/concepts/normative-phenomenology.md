@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-02-16 16:29:00+00:00
+ai_modified: 2026-03-18 15:28:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[phenomenology]]'
 - '[[phenomenal-normativity]]'
-- '[[moral-perception]]'
+- '[[moral-phenomenology-and-perception]]'
 - '[[introspection]]'
 - '[[cognitive-phenomenology]]'
 - '[[phenomenological-evidence]]'
@@ -59,7 +59,7 @@ The most consistent reported structure across normative domains is demand charac
 
 Consider the experience of encountering a valid deductive argument whose conclusion you resist. There is a phenomenal pull toward acceptance—cool, impersonal, insistent. You can refuse the conclusion, but the refusal registers as [effortful resistance](/concepts/mental-effort/) to something, not as the absence of pressure. The demand is experienced as coming from the argument, not from within oneself.
 
-[Moral demands](/concepts/moral-perception/) have a different phenomenal texture—warmer, more urgent, often other-directed. But they share the structural feature: the demand presents itself as appropriate, as warranted by the situation rather than imposed by the subject.
+[Moral demands](/concepts/moral-phenomenology-and-perception/) have a different phenomenal texture—warmer, more urgent, often other-directed. But they share the structural feature: the demand presents itself as appropriate, as warranted by the situation rather than imposed by the subject.
 
 ### Independence from Attitude
 
@@ -79,7 +79,7 @@ Normative phenomenology intersects with several related concepts on the Map but 
 
 **[phenomenal-normativity](/concepts/phenomenal-normativity/)** is the metaphysical thesis that certain phenomenal states carry intrinsic normative force. Normative phenomenology is the method for investigating whether and how this thesis is borne out in experience. Phenomenal normativity is a claim; normative phenomenology is the investigation that produces evidence for or against it.
 
-**[moral-perception](/concepts/moral-perception/)** is the capacity to directly apprehend ethical properties. Normative phenomenology is the broader methodological programme within which moral perception is studied—alongside epistemic, aesthetic, and prudential perception.
+**[Moral perception](/concepts/moral-phenomenology-and-perception/)** is the capacity to directly apprehend ethical properties. Normative phenomenology is the broader methodological programme within which moral perception is studied—alongside epistemic, aesthetic, and prudential perception.
 
 **[phenomenological-evidence](/concepts/phenomenological-evidence/)** provides the epistemological framework: how first-person reports count as evidence. Normative phenomenology generates a specific kind of phenomenological evidence—evidence about the normative dimension of experience.
 
@@ -143,7 +143,7 @@ Normative phenomenology connects to the Map's [foundational commitments](/tenets
 
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — The phenomenal character of normative experience across domains
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — The metaphysical thesis that phenomenal states carry intrinsic normative force
-- [moral-perception](/concepts/moral-perception/) — Direct apprehension of ethical properties in experience
+- [Moral Phenomenology and Perception](/concepts/moral-phenomenology-and-perception/) — Direct apprehension of ethical properties in experience
 - [phenomenology](/concepts/phenomenology/) — The broader phenomenological tradition
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — How first-person reports constitute evidence
 - [heterophenomenology](/concepts/heterophenomenology/) — The third-person alternative that normative phenomenology resists

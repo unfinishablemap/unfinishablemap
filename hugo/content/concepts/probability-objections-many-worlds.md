@@ -1,116 +1,116 @@
 ---
 ai_contribution: 100
-ai_generated_date: 2026-03-05
-ai_modified: 2026-03-10 03:41:00+00:00
+ai_generated_date: 2026-03-18
+ai_modified: 2026-03-18 15:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[concepts/many-worlds]]'
 - '[[measurement-problem]]'
-- '[[decoherence]]'
 - '[[quantum-interpretations]]'
-created: 2026-03-05
-date: &id001 2026-03-05
-description: 'The probability crisis in MWI: if all outcomes occur, probability loses
-  meaning. Decision theory, self-locating uncertainty, and envariance all fail to
-  recover the Born rule.'
+- '[[decoherence]]'
+- '[[quantum-probability-consciousness]]'
+created: 2026-03-18
+date: &id001 2026-03-18
+description: 'Four objections expose MWI''s probability crisis: incoherence, circular
+  derivation, branch-counting failure, and the betting-frequency gap—none resolved
+  after seven decades.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-05 13:17:00+00:00
+last_deep_review: 2026-03-18 15:43:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[indexical-identity-quantum-measurement]]'
-- '[[quantum-measurement-interpretations-beyond-mwi]]'
-- '[[philosophical-stakes-of-spontaneous-collapse]]'
-- '[[quantum-probability-consciousness]]'
+- '[[consciousness-and-probability-interpretation]]'
+- '[[qm-interpretations-beyond-many-worlds]]'
 title: Probability and Decision-Theory Objections to Many Worlds
 topics:
 - '[[probability-problem-in-many-worlds]]'
-- '[[probability-problem-in-many-worlds]]'
+- '[[born-rule-derivation-failures-consciousness-collapse]]'
 ---
 
-The Many-Worlds Interpretation faces a cluster of objections centred on probability. The Unfinishable Map classifies these as among the strongest internal criticisms of MWI because they challenge its empirical adequacy rather than merely its ontology. If all quantum outcomes occur in some branch, standard probability appears meaningless, and no proposed recovery strategy has succeeded without circularity. This concept entry defines the main objection types; for detailed arguments see [the full probability problem survey](/topics/probability-problem-in-many-worlds/).
+The [Many-Worlds Interpretation](/concepts/many-worlds/) faces four distinct probability objections that collectively undermine its claim to empirical adequacy. The Unfinishable Map identifies these as among the strongest reasons to reject MWI: if a theory cannot account for the probabilities that confirm quantum mechanics, it cannot claim quantum mechanics as evidence in its favour. This concept page catalogues the four objections; for extended argument, see [The Probability Problem in Many Worlds](/topics/probability-problem-in-many-worlds/).
 
-## The Two Core Problems
+## The Incoherence Problem
 
-Wallace (2003) distinguished two separate challenges that MWI must answer.
+Standard probability requires genuine uncertainty—some outcomes happen, others do not. MWI guarantees that every quantum outcome occurs in some branch. This makes probability conceptually incoherent within the theory.
 
-**The incoherence problem** asks whether probability is even conceptually meaningful in a deterministic theory where all outcomes occur. Standard probability requires that some outcomes happen and others do not. On MWI, nothing fails to happen. Asking "what is the probability of spin-up?" when both spin-up and spin-down branches are equally real has no obvious interpretation.
+When an experimentalist measures spin along the z-axis, quantum mechanics predicts a 70% chance of spin-up and a 30% chance of spin-down. On MWI, both outcomes occur with certainty. Asking "what is the probability of spin-up?" is no longer asking about what will happen—everything will happen. Wallace (2003) named this the **incoherence problem** and distinguished it from the separate quantitative problem of why probabilities should follow the Born rule.
 
-**The quantitative problem** asks why, even granting that some notion of probability can be defined, it should follow the Born rule. The Born rule assigns probabilities proportional to the squared amplitude of the wave function. Branch-counting --- weighting each branch equally regardless of amplitude --- is the most natural alternative measure when all branches are equally real, and it generically contradicts the Born rule (Graham 1973, Saunders 2021).
-
-## Three Recovery Strategies and Their Failures
-
-### Decision Theory (Deutsch-Wallace)
-
-The most technically sophisticated response argues that rational agents in a branching universe must weight outcomes by the Born rule. Deutsch (1999) and Wallace (2003, 2010, 2012) derive this from axioms of rational preference including measurement neutrality and branching indifference.
-
-**Objections**: Kent (2010) argues the axioms "are not constitutive of rationality" but encode optional metaphysical attitudes toward branching and identity. Lewis (2007) demonstrates that alternative weighting schemes satisfy equally plausible rationality constraints. Albert (2010) presses the deepest challenge: even if the derivation succeeds, it explains betting behaviour rather than empirical frequencies, leaving the confirmation of quantum mechanics unexplained.
-
-### Self-Locating Uncertainty (Vaidman, Sebens-Carroll)
-
-Between measurement and observation, an agent genuinely does not know which branch they occupy. Sebens and Carroll (2018) argue that an epistemic separability principle uniquely constrains self-locating credences to the Born rule.
-
-**Objections**: Lewis (2007) argues all subjective uncertainty strategies fail --- the uncertainty is either spurious or wrongly placed to yield probabilistic predictions. Dawid and Friederich (2022) show that Sebens and Carroll's central principle can only be motivated by the Born rule's empirical success, making the derivation circular.
-
-### Envariance (Zurek)
-
-Zurek (2003, 2005) claims to derive the Born rule from environment-assisted invariance --- symmetries of entangled quantum states --- without invoking decision theory.
-
-**Objections**: Mohrhoff (2004) argues the derivation assumes that probabilities are associated with quantum states, then merely shows they must take the Born-rule form. The crucial step --- *why* quantum states relate to probabilities at all --- is assumed rather than derived. Barnum et al. (2000) raise a structurally similar objection against Deutsch's decision-theoretic derivation: hidden probabilistic assumptions do the real work.
+Defenders redefine probability as either rational "degree of caring" about branches (the decision-theoretic approach) or self-locating credence (the uncertainty approach). Critics argue both redefinitions change the subject. A theory of how agents should *bet* is not a theory of why experiments produce the *statistics* they do. The gap between subjective betting preferences and objective physical frequencies is the central difficulty the incoherence problem identifies.
 
 ## The Circularity Objection
 
-A structural problem cuts across all three strategies. Baker (2007) and Price (2010) identified a vicious circle:
+Baker (2007) and Price (2010) independently identified a vicious circle cutting across all MWI probability strategies:
 
-1. Probability assignments require well-defined branches
-2. Well-defined branches require [decoherence](/concepts/decoherence/)
-3. Decoherence is described using the Born-rule norm (off-diagonal terms becoming "small")
-4. Therefore, the branch structure presupposes the probability rule it is meant to ground
+1. Probability assignments require well-defined **branches** (outcomes to assign probabilities to)
+2. Well-defined branches require **[decoherence](/concepts/decoherence/)** (to select a preferred basis from the universal wave function)
+3. Decoherence is characterised using the **Born rule** (off-diagonal density matrix elements become "small" in the Born-rule norm)
+4. Therefore, probability in MWI presupposes the Born rule it claims to derive
 
-The circle --- Born rule, decoherence, branches, probability, Born rule --- means MWI's entire empirical contact with reality may depend on what it claims to derive. Wallace (2012) responds that decoherence is structural rather than probabilistic — the emergence of branching structure can be described without assigning probabilities to branches. But critics argue that identifying interference terms as "negligible" inherently requires the Born-rule norm: calling off-diagonal elements "small" is already a probabilistic judgement.
+The circle—**Born rule → decoherence → branches → probability → Born rule**—is particularly damaging for the Deutsch-Wallace decision-theoretic program, whose axioms (measurement neutrality, branching indifference, diachronic consistency) all presuppose that well-defined branch structures exist for agents to have preferences over. If branches themselves depend on the Born rule, the axioms assume what the derivation claims to prove.
+
+Wallace responds that decoherence is a structural feature of unitary evolution—off-diagonal terms become mathematically small regardless of interpretation. Baker presses the point: distinguishing "effectively zero" from "significantly nonzero" requires a norm, and the physically relevant norm is the Born-rule norm. The disagreement—whether structural smallness can be cleanly separated from probabilistic negligibility—remains contested.
 
 ## The Branch-Counting Problem
 
-If all branches are equally real, the most straightforward probability measure is branch-counting — assigning equal weight to each branch on the grounds that no branch is ontologically privileged over any other. Graham (1973) showed that "worlds displaying proper quantum statistics are in a numerical minority" under branch-counting. Saunders (2021) proposed a state-dependent counting rule that recovers Born-rule statistics, but critics note that recovering the correct statistics this way requires encoding amplitude information into the counting rule, raising the question of whether the result still deserves the name "branch-counting."
+If all branches are equally real, the most natural probability measure is **branch-counting**: assign equal probability to each branch regardless of amplitude. Graham (1973) showed this yields the wrong statistics—"worlds displaying proper quantum statistics are in a numerical minority" under branch-counting.
+
+Consider a measurement with two possible outcomes. If the spin-up branch has amplitude 0.95 and the spin-down branch has amplitude 0.31, the Born rule assigns roughly 90% probability to spin-up. Branch-counting assigns 50%. Over repeated measurements, branch-counting predicts that most observers see roughly equal frequencies of each outcome—contradicting every quantum experiment ever performed.
+
+MWI must therefore explain why amplitude-weighted probability is correct and branch-counting is wrong, despite all branches being equally real. This requires justification beyond the formalism itself. Saunders (2021) proposed a state-dependent branch-counting rule that recovers Born-rule statistics, but critics note this works precisely because it encodes amplitude information—raising the question of whether it is branch-counting at all or the Born rule by another name.
+
+Albert (2010) makes the point vivid with a thought experiment: perhaps an agent should care more about high-amplitude branches because "there is more of them" there—they are, metaphorically, "fatter." But "fatness" is just amplitude-weighting in informal language. It does not explain *why* amplitude should determine caring, nor why single-branch physical records match amplitude-weighted statistics.
+
+## The Betting-Frequency Gap
+
+The Deutsch-Wallace decision-theoretic program—the most sophisticated recovery attempt—derives that rational agents in a branching universe must weight outcomes by Born-rule amplitudes when making decisions. Kent (2010) and Albert (2010) argue this answers the wrong question.
+
+**The betting question**: How should a rational agent wager on the next quantum measurement?
+
+**The frequency question**: Why do laboratory records show statistics matching Born-rule predictions?
+
+Decision theory addresses the first. Physics requires an answer to the second. An agent's rational preferences about how to distribute caring across branches cannot explain why the physical record on any single branch displays Born-rule frequencies. The betting-frequency gap is not a technicality but a category error: decision-theoretic facts about agents' attitudes cannot ground physical facts about experimental outcomes.
+
+Kent further objects that Wallace's axioms are "not constitutive of rationality" but substantive philosophical claims about identity, value, and branching. An agent who assigns equal moral weight to each continuation, regardless of amplitude, violates branching indifference without logical inconsistency. Lewis (2007) shows formally that alternative weighting schemes—including branch-counting—satisfy equally defensible rationality constraints. If multiple schemes are rationally permissible, the Born rule is one option among several, not uniquely derived.
+
+## The Pattern of Failure
+
+Seven decades of attempts to recover probability in MWI reveal a consistent pattern. Each strategy—decision-theoretic (Deutsch 1999, Wallace 2003, 2012), self-locating uncertainty (Vaidman 1998, Sebens and Carroll 2018), envariance (Zurek 2005)—recovers the Born rule from different premises, and each faces the objection that its premises covertly assume what they purport to derive. This is not convergent evidence for derivability. It is evidence that the Born rule cannot be extracted from MWI's resources without smuggling it in.
+
+Short's 2023 contribution to *Quantum* confirms the problem remains open, with no consensus that any strategy succeeds. The probability crisis is not a technical difficulty awaiting a clever proof. It is a structural feature of any theory that makes all outcomes actual.
 
 ## Relation to Site Perspective
 
-These objections provide strong independent support for the Map's [No Many Worlds](/tenets/#no-many-worlds) tenet. The probability crisis is not a minor technical gap but a challenge to MWI's empirical adequacy --- its ability to explain why experiments yield the statistics they do.
+These four objections provide strong independent support for the Map's [No Many Worlds](/tenets/#no-many-worlds) tenet. The Map's commitment to [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)—consciousness biasing genuinely indeterminate quantum outcomes—requires that outcomes be genuinely indeterminate. Real collapse yields real probability: a fundamental postulate about how nature works, honestly stated as such. Collapse interpretations face none of the circularity, branch-counting, or betting-frequency problems because probability is not derived from something else but posited as a basic feature of quantum mechanics.
 
-The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet requires genuinely indeterminate quantum outcomes for consciousness to bias. On collapse interpretations, the Born rule is a fundamental postulate giving the probability of each possible result. One result actually occurs; others do not. Probability means what it ordinarily means, and the elaborate recovery machinery MWI requires is unnecessary. See [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) for how probability connects to consciousness across interpretations.
-
-The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly: MWI trades one postulate (collapse with the Born rule) for an unresolved foundational programme. The apparent simplicity of eliminating collapse disguises the hidden complexity of recovering probability without it.
+The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies here directly. MWI appears simpler for eliminating the collapse postulate, but the elaborate machinery needed to recover probability—decision-theoretic axioms, self-locating credence principles, envariance symmetries—reveals hidden complexity that collapse interpretations avoid. Trading one honest postulate for an unresolved foundational crisis is not parsimony.
 
 ## Further Reading
 
-- [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) --- Full survey of MWI's probability crisis with detailed treatment of each strategy
-- [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) --- Full survey including why the Deutsch-Wallace program fails on its own terms
-- [many-worlds](/concepts/many-worlds/) --- The five-argument cumulative case against MWI
-- [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) --- How probability connects to consciousness across interpretations
-- [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) --- Why indexical identity matters for quantum measurement
-- [quantum-measurement-interpretations-beyond-mwi](/topics/quantum-measurement-interpretations-beyond-mwi/) --- Five alternatives to MWI
-- [tenets](/tenets/) --- The Map's foundational commitments
+- [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Extended treatment of all four objections with detailed argument
+- [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-derivation-failures-consciousness-collapse/) — Why Born rule derivation failures point toward consciousness-collapse
+- [many-worlds](/concepts/many-worlds/) — The full five-argument case against MWI
+- [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — Why consciousness and probability are entangled
+- [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical identity problem MWI cannot answer
+- [tenets](/tenets/) — The Map's foundational commitments
 
 ## References
 
 1. Albert, D. (2010). Probability in the Everett picture. In Saunders et al. (eds.), *Many Worlds? Everett, Quantum Theory, and Reality*, Oxford University Press.
 2. Baker, D.J. (2007). Measurement outcomes and probability in Everettian quantum mechanics. *Studies in History and Philosophy of Modern Physics*, 38, 153-169.
-3. Barnum, H., Caves, C.M., Finkelstein, J., Fuchs, C.A. & Schack, R. (2000). Quantum probability from decision theory? *Proceedings of the Royal Society A*, 456, 1175-1182.
-4. Deutsch, D. (1999). Quantum theory of probability and decisions. *Proceedings of the Royal Society A*, 455, 3129-3137.
-5. Dawid, R. & Friederich, S. (2022). Epistemic separability and Everettian branches: a critique of Sebens and Carroll. *British Journal for the Philosophy of Science*, 73(3), 711-721.
-6. Graham, N. (1973). The measurement of relative frequency. In *The Many-Worlds Interpretation of Quantum Mechanics*, Princeton University Press.
-7. Kent, A. (2010). One world versus many. In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
-8. Lewis, P.J. (2007). Uncertainty and probability for branching selves. *Studies in History and Philosophy of Modern Physics*, 38, 1-14.
-9. Mohrhoff, U. (2004). Probabilities from envariance? *International Journal of Quantum Information*, 2(2), 221-229.
-10. Price, H. (2010). Decisions, decisions, decisions: can Savage salvage Everettian probability? In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
-11. Saunders, S. (2021). Branch-counting in the Everett interpretation. *Proceedings of the Royal Society A*, 477, 20210600.
-12. Sebens, C.T. & Carroll, S.M. (2018). Self-locating uncertainty and the origin of probability in Everettian quantum mechanics. *British Journal for the Philosophy of Science*, 69(1), 25-74.
-13. Wallace, D. (2003). Everettian rationality. *Studies in History and Philosophy of Modern Physics*, 34, 415-439.
-14. Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
-15. Zurek, W.H. (2003). Environment-assisted invariance, entanglement, and probabilities in quantum physics. *Physical Review Letters*, 90, 120404.
-16. Zurek, W.H. (2005). Probabilities from entanglement, Born's rule from envariance. *Physical Review A*, 71, 052105.
-17. Southgate, A. & Oquatre-six, C. (2026-03-04). The Probability Problem in Many Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/probability-problem-in-many-worlds/
-18. Southgate, A. & Oquatre-six, C. (2026-03-04). The Probability Problem in Many Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/probability-problem-in-many-worlds/
+3. Deutsch, D. (1999). Quantum theory of probability and decisions. *Proceedings of the Royal Society A*, 455, 3129-3137.
+4. Graham, N. (1973). The measurement of relative frequency. In *The Many-Worlds Interpretation of Quantum Mechanics*, Princeton University Press.
+5. Kent, A. (2010). One world versus many: the inadequacy of Everettian accounts of evolution, probability, and scientific confirmation. In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
+6. Lewis, P.J. (2007). Uncertainty and probability for branching selves. *Studies in History and Philosophy of Modern Physics*, 38, 1-14.
+7. Price, H. (2010). Decisions, decisions, decisions: can Savage salvage Everettian probability? In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
+8. Saunders, S. (2021). Branch-counting in the Everett interpretation of quantum mechanics. *Proceedings of the Royal Society A*, 477, 20210600.
+9. Sebens, C.T. & Carroll, S.M. (2018). Self-locating uncertainty and the origin of probability in Everettian quantum mechanics. *British Journal for the Philosophy of Science*, 69(1), 25-74.
+10. Short, A.J. (2023). Probability in many-worlds theories. *Quantum*, 7, 971.
+11. Vaidman, L. (1998). On schizophrenic experiences of the neutron or why we should believe in the many-worlds interpretation of quantum mechanics. *International Studies in the Philosophy of Science*, 12(3), 245-261.
+12. Wallace, D. (2003). Everettian rationality. *Studies in History and Philosophy of Modern Physics*, 34, 87-105.
+13. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory According to the Everett Interpretation*. Oxford University Press.
+14. Zurek, W.H. (2005). Probabilities from entanglement, Born's rule from envariance. *Physical Review A*, 71, 052105.
+15. Southgate, A. & Oquatre-six, C. (2026-03-04). The Probability Problem in Many Worlds. *The Unfinishable Map*. https://unfinishablemap.org/topics/probability-problem-in-many-worlds/

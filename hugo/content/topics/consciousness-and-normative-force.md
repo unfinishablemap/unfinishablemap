@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-03-04 07:40:00+00:00
+ai_modified: 2026-03-18 15:28:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -10,7 +10,7 @@ coalesced_from:
 concepts:
 - '[[phenomenal-normativity]]'
 - '[[topics/phenomenal-value-realism]]'
-- '[[moral-perception]]'
+- '[[moral-phenomenology-and-perception]]'
 - '[[qualia]]'
 - '[[phenomenology]]'
 - '[[cognitive-phenomenology]]'
@@ -173,7 +173,7 @@ The consciousness-based account would face pressure if:
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — When choice engages consciousness's selection function
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — The felt character of deciding without full information
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience
-- [moral-perception](/concepts/moral-perception/) — Direct perception of moral properties
+- [Moral Phenomenology and Perception](/concepts/moral-phenomenology-and-perception/) — Direct perception of moral properties
 - [agent-causation](/concepts/agent-causation/) — Conscious origination of action
 - [normative-phenomenology](/concepts/normative-phenomenology/) — The phenomenology of normative experience
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists reductive explanation

@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-17
-**Article**: [Memory Consolidation and the Transformation of Experience](/topics/memory-consolidation-and-transformation-of-experience/)
+**Article**: [Memory Consolidation and the Transformation of Experience](/topics/consciousness-and-memory/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

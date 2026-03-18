@@ -58,10 +58,10 @@ topics: []
 - Expanded MWI argument with clearer explanation of why branching undermines desert
 
 ### Cross-links Added
-- [moral-perception](/concepts/moral-perception/) (inline, in Flexibility section)
+- [moral-perception](/concepts/moral-phenomenology-and-perception/) (inline, in Flexibility section)
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) (Further Reading)
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) (Further Reading)
-- [moral-perception](/concepts/moral-perception/) (Further Reading)
+- [moral-perception](/concepts/moral-phenomenology-and-perception/) (Further Reading)
 
 ## Remaining Items
 

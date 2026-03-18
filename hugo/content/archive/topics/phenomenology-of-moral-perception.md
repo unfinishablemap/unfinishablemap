@@ -38,9 +38,9 @@ topics:
 - '[[phenomenology-of-moral-experience]]'
 ---
 
-Moral perception—the direct apprehension of ethical properties in situations—has a distinctive phenomenological structure that differs from both sensory perception and moral reasoning. The Unfinishable Map holds that [moral-perception](/concepts/moral-perception/) is genuine: wrongness, obligation, and goodness present themselves as features of situations rather than conclusions derived from neutral facts. This article examines *how* that perceiving unfolds in experience—its temporal structure, attentional demands, gestalt character, and the specific mode of intentionality through which moral properties become phenomenally present.
+Moral perception—the direct apprehension of ethical properties in situations—has a distinctive phenomenological structure that differs from both sensory perception and moral reasoning. The Unfinishable Map holds that [moral-perception](/concepts/moral-phenomenology-and-perception/) is genuine: wrongness, obligation, and goodness present themselves as features of situations rather than conclusions derived from neutral facts. This article examines *how* that perceiving unfolds in experience—its temporal structure, attentional demands, gestalt character, and the specific mode of intentionality through which moral properties become phenomenally present.
 
-The existing [concept article](/concepts/moral-perception/) establishes *that* moral properties can be perceived. The [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) explores what moral experience *feels like*. This article occupies the space between: the phenomenology of the perceptual act itself.
+The existing [concept article](/concepts/moral-phenomenology-and-perception/) establishes *that* moral properties can be perceived. The [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) explores what moral experience *feels like*. This article occupies the space between: the phenomenology of the perceptual act itself.
 
 ## Moral Seeing as Gestalt Apprehension
 
@@ -106,9 +106,9 @@ The phenomenology of moral perception connects to the Map's [foundational commit
 
 ## Further Reading
 
-- [moral-perception](/concepts/moral-perception/) — The capacity to perceive ethical properties directly
+- [moral-perception](/concepts/moral-phenomenology-and-perception/) — The capacity to perceive ethical properties directly
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral experience feels like from the inside
-- [moral-phenomenology](/concepts/moral-phenomenology/) — The philosophical study of moral experience's felt character
+- [moral-phenomenology](/concepts/moral-phenomenology-and-perception/) — The philosophical study of moral experience's felt character
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — The thesis that phenomenal states carry intrinsic normative force
 - [normative-phenomenology](/concepts/normative-phenomenology/) — First-person investigation of normative experience broadly
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical position grounding value in phenomenal properties

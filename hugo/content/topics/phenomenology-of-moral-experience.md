@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-03-14 19:40:00+00:00
+ai_modified: 2026-03-18 15:28:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -17,7 +17,7 @@ concepts:
 - '[[phenomenology]]'
 - '[[illusionism]]'
 - '[[aesthetic-dimension-of-consciousness]]'
-- '[[moral-perception]]'
+- '[[moral-phenomenology-and-perception]]'
 - '[[phenomenal-normativity]]'
 - '[[normative-phenomenology]]'
 created: 2026-02-08
@@ -38,7 +38,7 @@ related_articles:
 - '[[topics/free-will]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[eastern-philosophy-consciousness]]'
-- '[[moral-phenomenology]]'
+- '[[moral-phenomenology-and-perception]]'
 - '[[alignment-in-objective-experiential-terms]]'
 title: The Phenomenology of Moral Experience
 topics:
@@ -193,8 +193,7 @@ The phenomenology of moral experience connects to the Map's [foundational commit
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical framework: phenomenal properties constitute value
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value to exist
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Ethical implications of consciousness-grounded value
-- [moral-perception](/concepts/moral-perception/) — The capacity to perceive ethical properties directly
-- [moral-phenomenology](/concepts/moral-phenomenology/) — The philosophical study of moral experience's felt character
+- [Moral Phenomenology and Perception](/concepts/moral-phenomenology-and-perception/) — What moral experience feels like and whether ethical properties can be directly perceived
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — The thesis that phenomenal states carry intrinsic normative force
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — The shared phenomenal architecture of moral, epistemic, aesthetic, and prudential demands
 - [normative-phenomenology](/concepts/normative-phenomenology/) — First-person investigation of normative experience broadly

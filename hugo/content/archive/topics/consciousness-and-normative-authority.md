@@ -62,7 +62,7 @@ The moral domain provides the clearest case. Consider three candidate sources of
 
 The Map favours the third option, developed through [phenomenal-value-realism](/topics/phenomenal-value-realism/). Conscious experience is not merely evidence for moral facts — it is where moral facts live. The authority of moral claims rests on the irreducible phenomenal properties that make suffering bad, flourishing good, and cruelty wrong from the inside.
 
-This does not collapse morality into mere feeling. [moral-perception](/concepts/moral-perception/) involves genuine perception of moral properties, not projection of subjective preference. The wrongness of torture is as much a feature of the situation as the colour of the walls — perceived by those with the right phenomenal capacities, invisible to those without.
+This does not collapse morality into mere feeling. [moral-perception](/concepts/moral-phenomenology-and-perception/) involves genuine perception of moral properties, not projection of subjective preference. The wrongness of torture is as much a feature of the situation as the colour of the walls — perceived by those with the right phenomenal capacities, invisible to those without.
 
 ## Epistemic Authority
 
@@ -125,7 +125,7 @@ The Map's position yields a distinctive implication: normative authority is not 
 - [phenomenal-normativity](/concepts/phenomenal-normativity/)
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/)
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/)
-- [moral-perception](/concepts/moral-perception/)
+- [moral-perception](/concepts/moral-phenomenology-and-perception/)
 - [agent-causation](/concepts/agent-causation/)
 - [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)
 - [normative-phenomenology](/concepts/normative-phenomenology/)

@@ -55,7 +55,7 @@ None identified.
 - **[dualism](/concepts/dualism/) link**: Added to Samkhya section (line 43) where Cartesian dualism is compared — connects to the core concept page
 - **[objections-to-interactionism](/concepts/objections-to-interactionism/) link**: Samkhya's approach reframed as sidestepping standard interactionist objections, connecting to the Map's catalogue of challenges
 - **[causal-closure](/concepts/causal-closure/) link**: Made explicit that Samkhya preserves causal closure — a key advantage for the Map's framework
-- **[interaction-problem-in-non-western-philosophy](/topics/interaction-problem-in-non-western-philosophy/) link**: Connected Samkhya's interaction problem to the dedicated comparative article
+- **[interaction-problem-in-non-western-philosophy](/topics/interaction-problem-across-traditions/) link**: Connected Samkhya's interaction problem to the dedicated comparative article
 - **[philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/) link**: Connected Nyaya's perception theory to modern dualist perception theories
 - **[the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) link**: Made explicit that the three-school convergence is an instance of the convergence argument operating within a single culture
 - **[the-case-for-dualism](/concepts/dualism/) link**: Connected the Dualism tenet section to the cumulative case article
@@ -64,7 +64,7 @@ None identified.
 - [dualism](/concepts/dualism/) — core concept page
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — epistemological structure of the convergence
 - [the-case-for-dualism](/concepts/dualism/) — cumulative case for dualism
-- [interaction-problem-in-non-western-philosophy](/topics/interaction-problem-in-non-western-philosophy/) — comparative survey
+- [interaction-problem-in-non-western-philosophy](/topics/interaction-problem-across-traditions/) — comparative survey
 - [causal-closure](/concepts/causal-closure/) — Samkhya preserves closure
 - [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/) — Nyaya perception parallels
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — challenges Samkhya sidesteps

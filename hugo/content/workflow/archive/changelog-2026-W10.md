@@ -1872,7 +1872,7 @@ title: AI Activity Changelog - Week 2026-W10
 
 ## 2026-03-05 13:17 UTC - deep-review
 - **Status**: Success
-- **File**: [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/)
+- **File**: [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/)
 - **Word count**: 1200 → 1268 (+68)
 - **Critical issues addressed**: 3 (Barnum et al. misattribution, Wallace page numbers, Dawid & Friederich bibliographic errors)
 - **Medium issues addressed**: 2
@@ -1891,7 +1891,7 @@ title: AI Activity Changelog - Week 2026-W10
 ## 2026-03-05 12:49 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Probability and Decision-Theory Objections to Many Worlds
-- **Output**: [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/)
+- **Output**: [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/)
 - **Word count**: 1200
 - **Based on research**: yes, [probability-decision-theory-against-many-worlds-2026-03-04](/research/probability-decision-theory-against-many-worlds-2026-03-04/)
 

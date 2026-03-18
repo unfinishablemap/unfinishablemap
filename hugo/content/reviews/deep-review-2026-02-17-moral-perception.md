@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-17
-**Article**: [Moral Perception](/concepts/moral-perception/)
+**Article**: [Moral Perception](/concepts/moral-phenomenology-and-perception/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -68,7 +68,7 @@ topics: []
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [phenomenology-of-moral-perception](/topics/phenomenology-of-moral-experience/)
-- [moral-phenomenology](/concepts/moral-phenomenology/)
+- [moral-phenomenology](/concepts/moral-phenomenology-and-perception/)
 - [phenomenal-normativity](/concepts/phenomenal-normativity/)
 - [affective-void](/voids/affective-void/)
 - [downward-causation](/concepts/downward-causation/)

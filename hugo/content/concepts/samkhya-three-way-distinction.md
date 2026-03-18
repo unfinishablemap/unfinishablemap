@@ -33,7 +33,7 @@ title: Samkhya's Three-Way Distinction
 topics:
 - '[[indian-philosophy-of-mind]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'
-- '[[interaction-problem-in-non-western-philosophy]]'
+- '[[interaction-problem-across-traditions]]'
 ---
 
 The Unfinishable Map's [dualism](/concepts/dualism/) follows the Western convention of dividing reality in two: mind on one side, matter on the other. Samkhya, one of India's oldest philosophical schools, divides reality in three—and the third category reframes fundamental assumptions about where consciousness sits. Where Descartes groups consciousness and cognition together as *res cogitans* (thinking substance), Samkhya separates them. Consciousness (*purusha*) stands alone as pure witnessing. Mind, intellect, and ego belong to *prakriti*—the material world. Gross physical matter is also *prakriti*. The result is a three-way distinction—consciousness / mind / gross matter—that Western philosophy has no direct equivalent for, and that exposes assumptions the Map must reckon with.
@@ -126,7 +126,7 @@ The three-way distinction challenges the Map's framework in productive ways.
 
 - [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) — Samkhya, Nyaya, and Vedanta compared
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — Cross-cultural convergence on irreducibility
-- [interaction-problem-in-non-western-philosophy](/topics/interaction-problem-in-non-western-philosophy/) — Non-Western solutions to mind-body interaction
+- [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) — Non-Western solutions to mind-body interaction
 - [witness-consciousness](/concepts/witness-consciousness/) — The *sakshi* tradition across Indian philosophy
 - [filter-theory](/concepts/filter-theory/) — Brains as filters rather than producers of consciousness
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — Contemporary evidence for separating attention from awareness

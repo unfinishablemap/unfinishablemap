@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-21
-**Article**: [The Interaction Problem in Non-Western Philosophy](/topics/interaction-problem-in-non-western-philosophy/)
+**Article**: [The Interaction Problem in Non-Western Philosophy](/topics/interaction-problem-across-traditions/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

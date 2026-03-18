@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [Interaction Solutions Across Philosophical Traditions](/topics/interaction-solutions-across-traditions/)
+**Article**: [Interaction Solutions Across Philosophical Traditions](/topics/interaction-problem-across-traditions/)
 **Previous review**: [2026-03-11](/reviews/deep-review-2026-03-11-interaction-solutions-across-traditions/)
 
 ## Pessimistic Analysis Summary
@@ -49,7 +49,7 @@ No new counterarguments needed. Previous review already addressed functionalist 
 - `[buddhism-and-dualism](/concepts/buddhism-and-dualism/)` cross-reference in Type 3
 
 ### Cross-links Added (Inbound — Primary Focus)
-- **[interaction-problem-in-non-western-philosophy](/topics/interaction-problem-in-non-western-philosophy/)**: Added contextual link in convergence paragraph + Further Reading
+- **[interaction-problem-in-non-western-philosophy](/topics/interaction-problem-across-traditions/)**: Added contextual link in convergence paragraph + Further Reading
 - **[history-of-interactionist-dualism](/topics/history-of-interactionist-dualism/)**: Added contextual link in "Shape of Progress" section + Further Reading
 - **[princess-elizabeths-challenge](/topics/princess-elizabeths-challenge/)**: Added contextual link in "Legacy" section + Further Reading
 - **[interactionist-dualism](/concepts/interactionist-dualism/)**: Added contextual link in "Historical Problem" section + Related topics list

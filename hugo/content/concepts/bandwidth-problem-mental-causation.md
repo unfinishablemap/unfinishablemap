@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-04 13:38:00+00:00
+ai_modified: 2026-03-18 14:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,6 +14,7 @@ concepts:
 - '[[psychophysical-coupling]]'
 - '[[attention-as-interface]]'
 - '[[selection-laws]]'
+- '[[epiphenomenalism]]'
 created: 2026-02-23
 date: &id001 2026-03-01
 description: Even granting that consciousness can influence the brain, does the mind-body
@@ -22,7 +23,7 @@ description: Even granting that consciousness can influence the brain, does the 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-01 01:36:00+00:00
+last_deep_review: 2026-03-18 14:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -63,6 +64,8 @@ This gives the bandwidth problem its force: the mismatch between the information
 
 The Map's [resolution void](/voids/resolution-void/) formalises the broader context: consciousness discards 99.9999% of available sensory information, operating at a resolution orders of magnitude coarser than the brain's processing grain. The bandwidth problem is the downward-direction consequence of this gap — the challenge of using a low-resolution selection channel to influence a high-resolution execution system.
 
+The [asymmetric bandwidth of consciousness](/topics/bandwidth-of-consciousness/) sharpens the puzzle further. The same interface that delivers ~10⁹ bits per second of sensory experience transmits only ~10 bits per second of volitional influence — a ratio of 100 million to one. This eight-order-of-magnitude gap suggests the outbound channel is not a degraded version of the inbound channel but a fundamentally different kind of operation. A system that *computed* its outputs should scale throughput with its processing resources; a system that *selects* among pre-computed options needs only enough bandwidth to make choices.
+
 ## Two Failed Responses
 
 **The homunculus response** posits that consciousness contains hidden complexity—rich internal states that mirror the complexity of physical execution. This simply relocates the problem. If consciousness carries millions of bits of motor-specification, why do we experience intentions as simple? And how did those millions of bits get into consciousness in the first place? The response inflates conscious complexity without explaining how the information is encoded or transmitted.
@@ -79,7 +82,9 @@ On this architecture, the bandwidth problem transforms. The question is no longe
 
 The hierarchical structure addresses the grain problem directly. Consciousness operates at policy level—"reach for the cup," "attend to the speaker," "inhibit the impulse." Each policy-level selection triggers a cascade of progressively finer-grained specifications, all handled by unconscious neural mechanisms. The grain of conscious intention matches the grain of conscious selection. The finer grain is supplied by the brain, not the mind.
 
-This architecture raises a natural concern: if the brain does all the specification work, is consciousness epiphenomenal? The answer depends on whether the alternatives among which consciousness selects are genuinely open. If quantum indeterminacies leave multiple neural configurations physically possible—as the Map's framework maintains—then policy-level selection is real causal work. The brain prepares the options; consciousness determines which option becomes actual—potentially through [valence as a common evaluative metric](/topics/valence-as-selection-currency/) that compresses complex situations into simple better-or-worse comparisons. The narrowness of the channel reflects not causal impotence but appropriate division of labour: consciousness provides direction, the brain provides detail. Most behaviour—habitual actions, reflexes, overlearned skills—bypasses conscious selection entirely, operating within the brain's full bandwidth. The conscious channel handles only what requires deliberate intervention, which is precisely where the bandwidth constraint applies.
+This architecture raises a natural concern: if the brain does all the specification work, is consciousness [epiphenomenal](/concepts/epiphenomenalism/)? The answer depends on whether the alternatives among which consciousness selects are genuinely open. If quantum indeterminacies leave multiple neural configurations physically possible—as the Map's framework maintains—then policy-level selection is real causal work. The brain prepares the options; consciousness determines which option becomes actual, potentially through [valence as a common evaluative metric](/topics/valence-as-selection-currency/) that compresses complex situations into simple better-or-worse comparisons.
+
+The very existence of a measurable, consistent, task-independent throughput ceiling — ~10 bits per second, not zero, not random — is itself evidence that consciousness performs work. [Epiphenomena](/concepts/epiphenomenalism/) have no capacity limits because they process nothing. The narrowness of the channel reflects not causal impotence but appropriate division of labour: consciousness provides direction, the brain provides detail. Most behaviour — habitual actions, reflexes, overlearned skills — bypasses conscious selection entirely, operating within the brain's full bandwidth. The conscious channel handles only what requires deliberate intervention, which is precisely where the bandwidth constraint applies.
 
 ## The Format Translation Problem
 
@@ -88,6 +93,8 @@ Even granting hierarchical selection, a residual problem remains: how does inten
 This is the format dimension of the bandwidth problem, and it connects to the broader [psychophysical coupling problem](/concepts/psychophysical-laws/). The Map requires [selection laws](/concepts/selection-laws/)—laws specifying how phenomenal states map to physical selections. The bandwidth problem sharpens this requirement: whatever coupling law governs the interface, it must translate between intentional and physical vocabularies without requiring the intentional side to encode physical details.
 
 One proposed mechanism—Stapp's quantum Zeno framework—suggests consciousness poses questions ("is this neural pattern present?") and the physical system answers. If viable, the intentional content would determine *which question* to ask while physics determines the answer. This separation of labour would mean consciousness need not encode physical specifications—it would encode attentional targets, and the brain's architecture would translate these into the relevant physical observables. Whether this specific mechanism works remains contested; the Map treats it as one possibility among others rather than a commitment.
+
+Mandik (2010) provides empirical corroboration of this architectural separation. Control phenomenology — the experience of being in control — is informationally sparse compared to sensory phenomenology. Introspecting motor control introduces a "doubling of tasks" that interferes with controlling, because the narrow outbound channel cannot simultaneously carry action-selections and self-monitoring data. This sparseness is intelligible if the outbound channel carries intentional targets rather than physical specifications: the format of conscious control matches the format of selection, not computation.
 
 Whether this candidate fully resolves the format problem is debatable. The question "is pattern P present?" must itself be physically implemented—something must determine which quantum observable corresponds to the intended pattern. The Map treats this as part of the [coupling law](/concepts/psychophysical-laws/) specification problem: the detailed mapping from phenomenal states to physical observables remains to be worked out.
 
@@ -128,6 +135,7 @@ The bandwidth problem also differs from the [binding problem](/concepts/binding-
 ## References
 
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Mandik, P. (2010). Control consciousness. *Topics in Cognitive Science*, 2(4), 643–657.
 1. Norretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
+1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.

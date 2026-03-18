@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-02-26 23:57:00+00:00
+ai_modified: 2026-03-18 15:28:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[topics/phenomenal-value-realism]]'
 - '[[qualia]]'
 - '[[valence]]'
-- '[[moral-perception]]'
+- '[[moral-phenomenology-and-perception]]'
 created: 2026-02-21
 date: &id001 2026-02-21
 description: If value requires consciousness, what grounds environmental obligations?
@@ -105,7 +105,7 @@ The [graduated confidence framework](/topics/ethics-of-consciousness/#moral-unce
 
 This uncertainty creates a practical asymmetry. The cost of treating a conscious being as if it lacks consciousness (ignoring genuine suffering) is far greater than the cost of treating a non-conscious entity as if it might be conscious (unnecessary caution). Environmental policies should err on the side of protecting beings whose consciousness status is uncertain.
 
-The [phenomenology of normative demands](/topics/consciousness-and-normative-force/) is relevant here. When confronted with a suffering animal, most people experience a direct normative demand—a felt obligation to help. This [moral perception](/concepts/moral-perception/) is evidence that consciousness-grounded normativity is at work. We do not infer that the animal's suffering matters through ethical theory; we perceive its mattering directly. Environmental ethics grounded in phenomenal normativity honours this perceptual evidence rather than explaining it away.
+The [phenomenology of normative demands](/topics/consciousness-and-normative-force/) is relevant here. When confronted with a suffering animal, most people experience a direct normative demand—a felt obligation to help. This [moral perception](/concepts/moral-phenomenology-and-perception/) is evidence that consciousness-grounded normativity is at work. We do not infer that the animal's suffering matters through ethical theory; we perceive its mattering directly. Environmental ethics grounded in phenomenal normativity honours this perceptual evidence rather than explaining it away.
 
 ## Practical Implications
 
@@ -142,7 +142,7 @@ The Map's tenets shape environmental ethics distinctively:
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical foundation
 - [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Aesthetic normativity beyond hedonic valence
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — How normative demands present in experience across four domains
-- [moral-perception](/concepts/moral-perception/) — Direct apprehension of moral properties
+- [Moral Phenomenology and Perception](/concepts/moral-phenomenology-and-perception/) — Direct apprehension of moral properties
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Why pain's awfulness is constitutive, not correlative
 - [free-will](/topics/free-will/) — Genuine moral agency and environmental responsibility
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness grounds meaning and value

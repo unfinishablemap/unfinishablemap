@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [Interaction Solutions Across Philosophical Traditions](/topics/interaction-solutions-across-traditions/)
+**Article**: [Interaction Solutions Across Philosophical Traditions](/topics/interaction-problem-across-traditions/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

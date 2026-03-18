@@ -116,7 +116,7 @@ If consciousness grounds normative force in general, it should ground the *autho
 
 The moral domain provides the clearest case. Divine command faces Euthyphro's dilemma; rational principle (even Kant's rich framework invoking dignity and ends-in-themselves) ultimately depends on the conscious experience of rational agency it presupposes; phenomenal encounter — the felt badness of pain, the experiential weight of betraying trust — carries normative force intrinsically. The [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) article develops this further: if agency is real, obligation finds its footing because there is a genuine addressee — a conscious being with causal power over what happens next.
 
-The Map's [phenomenal-value-realism](/topics/phenomenal-value-realism/) develops this: conscious experience is not merely evidence for moral facts but where moral facts live. [Moral perception](/concepts/moral-perception/) involves genuine perception of moral properties, not projection of subjective preference. The wrongness of torture is as much a feature of the situation as any physical property — perceived by those with the right phenomenal capacities, invisible to those without.
+The Map's [phenomenal-value-realism](/topics/phenomenal-value-realism/) develops this: conscious experience is not merely evidence for moral facts but where moral facts live. [Moral perception](/concepts/moral-phenomenology-and-perception/) involves genuine perception of moral properties, not projection of subjective preference. The wrongness of torture is as much a feature of the situation as any physical property — perceived by those with the right phenomenal capacities, invisible to those without.
 
 ### Epistemic Authority
 
@@ -216,7 +216,7 @@ The consciousness-based account of normative authority would face pressure if:
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — How consciousness grounds moral status
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert
-- [moral-perception](/concepts/moral-perception/) — Direct perception of moral properties
+- [moral-perception](/concepts/moral-phenomenology-and-perception/) — Direct perception of moral properties
 - [agent-causation](/concepts/agent-causation/) — Conscious origination of action
 - [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Beauty, sublimity, and phenomenal experience
 - [normative-phenomenology](/concepts/normative-phenomenology/) — The phenomenology of normative experience

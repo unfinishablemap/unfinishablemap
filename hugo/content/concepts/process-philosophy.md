@@ -116,7 +116,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet claims
 
 ## Tensions with the Map's Framework
 
-Process solutions to the interaction problem—including Whitehead's, [Mulla Ṣadrā's](/concepts/islamic-sufi-philosophy-of-consciousness/), and Buddhist dependent origination—form one of [five recurring structural types](/topics/interaction-solutions-across-traditions/) identified across philosophical traditions. Their power lies in dissolving the problem entirely rather than solving it within a dualist framework.
+Process solutions to the interaction problem—including Whitehead's, [Mulla Ṣadrā's](/concepts/islamic-sufi-philosophy-of-consciousness/), and Buddhist dependent origination—form one of [five recurring structural types](/topics/interaction-problem-across-traditions/) identified across philosophical traditions. Their power lies in dissolving the problem entirely rather than solving it within a dualist framework.
 
 Despite affinities, process philosophy sits uneasily with some of the Map's commitments:
 
@@ -185,7 +185,7 @@ This isn't unique to process philosophy; the same applies to substance metaphysi
 - [downward-causation](/concepts/downward-causation/) — How higher-level processes influence lower-level ones
 - [agent-causation](/concepts/agent-causation/) — The self as originator of action
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle process philosophy claims to dissolve
-- [interaction-solutions-across-traditions](/topics/interaction-solutions-across-traditions/) — Process dissolution as one of five recurring solution types
+- [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) — Process dissolution as one of five recurring solution types
 
 ## References
 

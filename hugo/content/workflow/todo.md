@@ -38,48 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on probability and decision-theory objections to many worlds
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Deutsch-Wallace decision-theoretic derivation circularity, branch-counting vs. amplitude-weighting, Kent's and Albert's probability objections. Directly supports Tenet 4 (No Many Worlds). Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-18
-
-### P2: Write article on asymmetric bandwidth of consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/asymmetric-bandwidth-consciousness-2026-03-02.md. The consciousness-brain interface has dramatically asymmetric bandwidth — rich phenomenal input, narrow volitional output. This asymmetry constrains interface models and distinguishes the Map's framework from simple interactionism. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-18
-
-### P2: Write concept page on the reconstruction paradox
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. When the brain "corrects" perceptual errors or fills in blind spots, is it reconstructing what consciousness should see, or is consciousness selecting among candidate reconstructions? The paradox reveals the interface's bidirectional nature. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-18
-
-### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File created 2026-03-15 has no inbound links. Topics article on dream problem-solving as evidence for conscious influence. Add cross-references from related articles (dream-consciousness.md, lucid-dreaming-and-dualist-rendering.md, consciousness-as-amplifier.md) or update section index pages.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-18
-
-### P2: Integrate death-phenomenology-beyond-ndes.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File created 2026-03-11 has no inbound links. Topics article on death phenomenology beyond near-death experiences. Add cross-references from related articles (consciousness-and-death.md, terminal-lucidity.md, filter-theory.md) or update section index pages.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-18
-
-### P2: Integrate phenomenology-of-perceptual-learning.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File created 2026-03-11 has no inbound links. Topics article on how perceptual learning reshapes conscious experience. Add cross-references from related articles (perception-and-conscious-experience.md, attention-as-selection-interface.md, consciousness-interface-development.md) or update section index pages.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-18
-
 ### P3: Deep review free-will.md
 - **Type**: deep-review
 - **Status**: pending
@@ -618,8 +576,133 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic_review
 - **Generated**: 2026-03-17
 
+### P3: Write article on philosophy of evidence for subjective phenomena
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map implicitly operates with a theory of what counts as evidence when the phenomenon is irreducibly subjective, but has never articulated this explicitly. What standards govern phenomenological evidence? When does convergence across contemplative traditions constitute evidence? How does phenomenological evidence interact with neuroscientific evidence? Builds on contemplative-practice-as-philosophical-evidence, epistemology-of-introspection, consciousness-and-scientific-methodology. Target section: topics/. See optimistic-2026-03-18-afternoon.md
+- **Generated**: 2026-03-18
+
+### P3: Write article on consciousness and the philosophy of mathematics
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Mathematical Platonism and consciousness share a structural problem — access to abstract objects parallels the interaction problem. The Map has articles on mathematical cognition but hasn't developed the deep analogy between mathematical and phenomenal realism. Strengthens Tenet 1 (dualism) and Tenet 5 (Occam's limits). Builds on consciousness-and-mathematical-cognition, mathematical-knowledge-and-insight, consciousness-and-the-authority-of-formal-systems. Target section: topics/. See optimistic-2026-03-18-afternoon.md
+- **Generated**: 2026-03-18
+
+### P3: Write article on the normativity gap — from selection to reasons
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map establishes that consciousness selects using valence and that rational endorsement requires consciousness. But the bridge between felt value and normative reasons — why valence-guided selection counts as reasoning rather than sophisticated tropism — needs explicit development. Builds on valence-as-selection-currency, consciousness-and-normative-force, self-stultification-as-master-argument. Target section: topics/. See optimistic-2026-03-18-afternoon.md
+- **Generated**: 2026-03-18
+
+### P3: Write concept page for phenomenological convergence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The methodological principle that independently developed contemplative traditions converging on structural findings about consciousness constitutes evidence. Currently implicit in contemplative-practice-as-philosophical-evidence and convergence-argument-for-dualism. Would anchor the Map's epistemological methodology. Target section: concepts/. See optimistic-2026-03-18-afternoon.md
+- **Generated**: 2026-03-18
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-18: Research amplification mechanisms for consciousness-physics interaction
+- **Type**: research-topic
+- **Notes**: How do minimal quantum-scale biases (Tenet 2) become macroscopic behavioral selection? Survey Stapp's Quantum Zeno amplification, Penrose-Hameroff microtubule cascades, neural avalanche dynamics and criticality, biological signal amplification precedents, and whether quantum selection can exploit neural criticality. Supports queued concept page on the amplification problem and strengthens several existing articles on conscious selection mechanisms. Target section for eventual article: concepts/.
+- **Output**: amplification mechanisms for consciousness-physics interaction
+
+### ✓ 2026-03-18: Cross-review embodied-consciousness-and-the-interface.md considering dual-domain proprioception insights
+- **Type**: cross-review
+- **Notes**: New article concepts/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md establishes proprioception and spatial imagination as paradigm cases of dual-domain processing. Review topics/embodied-consciousness-and-the-interface.md for cross-links and whether embodiment claims benefit from the dual-domain evidence on body schema and spatial reasoning.
+- **Output**: obsidian/topics/embodied-consciousness-and-the-interface.md -- Context: Cross-review embodied-consciousness-and-the-interface.md considering dual-domain proprioception insights
+
+### ✓ 2026-03-18: Cross-review consciousness-and-memory.md considering memory-as-dual-domain-capability insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/memory-as-dual-domain-capability.md separates brain-side (encoding/consolidation) from mind-side (phenomenal recall, episodic re-experiencing) memory contributions. Review topics/consciousness-and-memory.md for cross-links, opportunities to frame existing claims in dual-domain terms, and consistency with the new capability framework.
+- **Output**: obsidian/topics/consciousness-and-memory.md -- Context: Cross-review consciousness-and-memory.md considering memory-as-dual-domain-capability insights
+
+### ✓ 2026-03-18: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
+- **Type**: cross-review
+- **Notes**: New article topics/metaproblem-of-consciousness-under-dualism.md reframes why we have consciousness intuitions under dualism. Review topics/hard-problem-of-consciousness.md for cross-links to metaproblem treatment, reinforcing arguments about why the hard problem resists dissolution, and consistent terminology between the two articles.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
+
+### ✓ 2026-03-18: Update references to coalesced moral-perception and moral-phenomenology articles
+- **Type**: cross-review
+- **Notes**: Coalesce created concepts/moral-phenomenology-and-perception.md from moral-perception and moral-phenomenology. The following files reference archived articles and may need wikilinks updated to the new unified article: normative-phenomenology.md, consciousness-and-normative-force.md, phenomenal-normativity-environmental-ethics.md, epistemology-of-introspection.md, ethics-and-value-in-a-dualist-world.md, responsibility-gradient-from-attentional-capacity.md, phenomenology-of-moral-experience.md, moral-architecture-of-consciousness.md, phenomenology-of-moral-deliberation.md
+- **Output**: None -- Context: Update references to coalesced moral-perception and moral-phenomenology articles
+
+### ✓ 2026-03-18: Strengthen diachronic irreducibility argument in self-and-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the cost comparison between diachronic irreducibility (an "unexplained posit") and abandoning numerical identity is asserted rather than argued. Also: the three-position framework assigns Buddhism to "mere causal succession" but Nagarjuna's Madhyamaka rejects all three positions. See pessimistic-2026-03-18-afternoon.md Issues #3, Buddhist Philosopher critique.
+- **Output**: obsidian/concepts/self-and-consciousness.md
+
+Task context:
+Pessimistic review found the cost comparison between diachronic irreducibility (an "unexplained posit") and abandoning numerical identity is asserted rather than argued. Also: the three-position framework assigns Buddhism to "mere causal succession" but Nagarjuna's Madhyamaka rejects all three positions. See pessimistic-2026-03-18-afternoon.md Issues #3, Buddhist Philosopher critique.
+
+### ✓ 2026-03-18: Address unfalsifiable conditions and quantum timescale overreach in phenomenology.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) "What Would Challenge This View?" section constructs conditions that are nearly impossible to satisfy, making the position unfalsifiable in practice; (2) Minimal Quantum Interaction tenet section treats temporal coincidence (~280-300ms) as evidence of causal connection to quantum effects. See pessimistic-2026-03-18-afternoon.md Issues #1, #2.
+- **Output**: obsidian/concepts/phenomenology.md
+
+Task context:
+Pessimistic review found: (1) "What Would Challenge This View?" section constructs conditions that are nearly impossible to satisfy, making the position unfalsifiable in practice; (2) Minimal Quantum Interaction tenet section treats temporal coincidence (~280-300ms) as evidence of causal connection to quantum effects. See pessimistic-2026-03-18-afternoon.md Issues #1, #2.
+
+### ✓ 2026-03-18: Review bandwidth-problem-mental-causation.md considering asymmetric-bandwidth insights
+- **Type**: cross-review
+- **Notes**: New article on asymmetric bandwidth of consciousness adds directional analysis to the bandwidth constraint. Check concepts/bandwidth-problem-mental-causation.md for cross-links and reinforcing arguments. Also check topics/resolution-bandwidth-interface.md for coherence.
+- **Output**: obsidian/concepts/bandwidth-problem-mental-causation.md -- Context: Review bandwidth-problem-mental-causation.md considering asymmetric-bandwidth insights
+
+### ✓ 2026-03-18: Review perception-and-conscious-experience.md considering perceptual-reconstruction-selection insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/perceptual-reconstruction-selection.md adds a selection-from-reconstructions model of perception. Check topics/perception-and-conscious-experience.md for cross-links and coherence. Also check concepts/consciousness-selecting-neural-patterns.md for consistency.
+- **Output**: obsidian/topics/perception-and-conscious-experience.md -- Context: Review perception-and-conscious-experience.md considering perceptual-reconstruction-selection insights
+
+### ✓ 2026-03-18: Review probability-problem-in-many-worlds.md considering probability-objections-many-worlds insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/probability-objections-many-worlds.md systematises decision-theoretic and frequency objections to MWI probability. Check topics/probability-problem-in-many-worlds.md for cross-links, reinforcing arguments, or redundancy. Also check concepts/quantum-probability-consciousness.md.
+- **Output**: obsidian/topics/probability-problem-in-many-worlds.md -- Context: Review probability-problem-in-many-worlds.md considering probability-objections-many-worlds insights
+
+### ✓ 2026-03-18: Write concept page on memory as dual-domain capability
+- **Type**: expand-topic
+- **Notes**: Research completed in research/memory-dual-domain-capability-2026-03-09.md. Memory operates in both brain-side (encoding/consolidation) and mind-side (phenomenal recall, episodic re-experiencing) domains. Key evidence for the dual-domain capability framework. Target section: concepts/.
+- **Output**: Write concept page on memory as dual-domain capability
+
+### ✓ 2026-03-18: Write concept page on neural refresh rates and the smoothness problem
+- **Type**: expand-topic
+- **Notes**: Research completed in research/neural-refresh-rates-smoothness-problem-2026-03-08.md. Discrete neural firing produces continuous conscious experience — why? The smoothness problem challenges both physicalist and naive dualist accounts. Target section: concepts/.
+- **Output**: Write concept page on neural refresh rates and the smoothness problem
+
+### ✓ 2026-03-18: Write article on the metaproblem of consciousness under dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/metaproblem-consciousness-dualism-2026-03-06.md. Why do we have the intuitions that drive the hard problem? Dualism must explain phenomenal concepts and zombie intuitions without functionalist machinery. Directly supports Tenet 1 (Dualism). Target section: topics/.
+- **Output**: the metaproblem of consciousness under dualism
+
+### ✓ 2026-03-18: Integrate phenomenology-of-perceptual-learning.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-11 has no inbound links. Topics article on how perceptual learning reshapes conscious experience. Add cross-references from related articles (perception-and-conscious-experience.md, attention-as-selection-interface.md, consciousness-interface-development.md) or update section index pages.
+- **Output**: phenomenology-of-perceptual-learning.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-18: Integrate death-phenomenology-beyond-ndes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-11 has no inbound links. Topics article on death phenomenology beyond near-death experiences. Add cross-references from related articles (consciousness-and-death.md, terminal-lucidity.md, filter-theory.md) or update section index pages.
+- **Output**: death-phenomenology-beyond-ndes.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-18: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-15 has no inbound links. Topics article on dream problem-solving as evidence for conscious influence. Add cross-references from related articles (dream-consciousness.md, lucid-dreaming-and-dualist-rendering.md, consciousness-as-amplifier.md) or update section index pages.
+- **Output**: dream-problem-solving-and-conscious-influence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-18: Write concept page on the reconstruction paradox
+- **Type**: expand-topic
+- **Notes**: Research completed in research/reconstruction-paradox-brain-correction-2026-03-09.md. When the brain "corrects" perceptual errors or fills in blind spots, is it reconstructing what consciousness should see, or is consciousness selecting among candidate reconstructions? The paradox reveals the interface's bidirectional nature. Target section: concepts/.
+- **Output**: Write concept page on the reconstruction paradox
+
+### ✓ 2026-03-18: Write article on asymmetric bandwidth of consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/asymmetric-bandwidth-consciousness-2026-03-02.md. The consciousness-brain interface has dramatically asymmetric bandwidth — rich phenomenal input, narrow volitional output. This asymmetry constrains interface models and distinguishes the Map's framework from simple interactionism. Target section: topics/.
+- **Output**: asymmetric bandwidth of consciousness
+
+### ✓ 2026-03-18: Write concept page on probability and decision-theory objections to many worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Deutsch-Wallace decision-theoretic derivation circularity, branch-counting vs. amplitude-weighting, Kent's and Albert's probability objections. Directly supports Tenet 4 (No Many Worlds). Target section: concepts/.
+- **Output**: Write concept page on probability and decision-theory objections to many worlds
 
 ### ✓ 2026-03-18: Deep review temporal-void.md
 - **Type**: deep-review

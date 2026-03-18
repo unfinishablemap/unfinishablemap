@@ -1092,7 +1092,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-15 00:59 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Moral Phenomenology
-- **Output**: [moral-phenomenology](/concepts/moral-phenomenology/)
+- **Output**: [moral-phenomenology](/concepts/moral-phenomenology-and-perception/)
 - **Word count**: 1308
 - **Based on research**: No
 
@@ -1457,7 +1457,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-12 22:34 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Moral Perception
-- **Output**: [moral-perception](/concepts/moral-perception/)
+- **Output**: [moral-perception](/concepts/moral-phenomenology-and-perception/)
 - **Word count**: 1345
 - **Based on research**: no
 

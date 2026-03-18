@@ -65,7 +65,7 @@ Cross-review against process-related articles confirmed:
 - `[prehension](/concepts/prehension/)` links back to `[process-philosophy](/concepts/process-philosophy/)` ✓
 - `[subjective-aim](/concepts/subjective-aim/)` links back to `[process-philosophy](/concepts/process-philosophy/)` ✓
 - `[process-and-consciousness](/apex/process-and-consciousness/)` (apex) synthesises process-philosophy extensively ✓
-- `[interaction-solutions-across-traditions](/topics/interaction-solutions-across-traditions/)` classifies process dissolution as one of five types ✓
+- `[interaction-solutions-across-traditions](/topics/interaction-problem-across-traditions/)` classifies process dissolution as one of five types ✓
 - All expected bidirectional links are in place
 
 ## Remaining Items

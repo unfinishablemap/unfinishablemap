@@ -207,7 +207,7 @@ The exclusion argument receives two complementary responses: quantum insufficien
 - [decoherence](/concepts/decoherence/) — The quantum biology challenge and evidence
 - [interface-locality](/concepts/brain-interface-boundary/) — Why consciousness can only select within its own brain
 - [objections-to-interactionist-dualism-2026-01-15](/research/objections-to-interactionist-dualism-2026-01-15/) — Research notes for this article
-- [interaction-solutions-across-traditions](/topics/interaction-solutions-across-traditions/) — Five solution types across Western and non-Western philosophy
+- [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) — Five solution types across Western and non-Western philosophy
 
 ## References
 

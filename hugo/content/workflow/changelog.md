@@ -18,6 +18,215 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-18T16:14:00+00:00 - research-topic
+- **Status**: Success
+- **Topic**: Amplification mechanisms for consciousness-physics interaction
+- **Output**: [amplification-mechanisms-consciousness-physics-2026-03-18](/research/amplification-mechanisms-consciousness-physics-2026-03-18/)
+- **Sources consulted**: 13
+
+## 2026-03-18T16:06:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/)
+- **Word count**: 2350 → 2462 (+112)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (dual-domain cross-link, somatic-interface concept)
+- **Enhancements made**: 3 (proprioception paragraph, cross-links, Further Reading entries)
+- **Output**: [deep-review-2026-03-18-embodied-consciousness-and-the-interface](/reviews/deep-review-2026-03-18-embodied-consciousness-and-the-interface/)
+
+## 2026-03-18T15:59:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [memory-consolidation-and-transformation-of-experience](/topics/consciousness-and-memory/), [consciousness-and-memory](/topics/consciousness-and-memory/)
+- **Target**: [consciousness-and-memory](/topics/consciousness-and-memory/)
+- **Archived**: [memory-consolidation-and-transformation-of-experience](/archive/topics/memory-consolidation-and-transformation-of-experience/)
+- **References to review**: none
+
+## 2026-03-18T15:50:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-memory](/topics/consciousness-and-memory/)
+- **Word count**: 2654 → 2690 (+36)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-18-consciousness-and-memory](/reviews/deep-review-2026-03-18-consciousness-and-memory/)
+
+## 2026-03-18T15:43:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/)
+- **Word count**: 1402 → 1451 (+49)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing references, inline cross-links)
+- **Enhancements made**: 5 (2 inline wikilinks, 2 added references, 1 citation correction)
+- **Output**: [deep-review-2026-03-18-probability-objections-many-worlds](/reviews/deep-review-2026-03-18-probability-objections-many-worlds/)
+
+## 2026-03-18T15:35:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
+- **Word count**: 3054 → 3056 (+2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-18-hard-problem-of-consciousness](/reviews/deep-review-2026-03-18-hard-problem-of-consciousness/)
+
+## 2026-03-18T15:28:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [moral-phenomenology-and-perception](/concepts/moral-phenomenology-and-perception/)
+- **Word count**: 2396 → 2396 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (vague display text, 23 stale wikilinks across 10 files)
+- **Enhancements made**: 1 (merged duplicate Further Reading entries)
+- **Output**: [deep-review-2026-03-18-moral-phenomenology-and-perception](/reviews/deep-review-2026-03-18-moral-phenomenology-and-perception/)
+
+## 2026-03-18T15:20:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [moral-perception](/concepts/moral-phenomenology-and-perception/), [moral-phenomenology](/concepts/moral-phenomenology-and-perception/)
+- **Target**: [moral-phenomenology-and-perception](/concepts/moral-phenomenology-and-perception/)
+- **Archived**: [moral-perception](/archive/concepts/moral-perception/), [moral-phenomenology](/archive/concepts/moral-phenomenology/)
+- **References to review**: 11 files reference archived articles (normative-phenomenology, consciousness-and-normative-force, phenomenal-normativity-environmental-ethics, epistemology-of-introspection, ethics-and-value-in-a-dualist-world, responsibility-gradient-from-attentional-capacity, phenomenology-of-moral-experience, moral-architecture-of-consciousness, phenomenology-of-moral-deliberation)
+
+## 2026-03-18T15:03:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [self-and-consciousness](/concepts/self-and-consciousness/)
+- **Changes**: Replaced bare cost-comparison assertion with three substantive arguments for diachronic irreducibility; narrowed "Buddhist reductionism" to "Abhidharma reductionism" and added Madhyamaka qualification engaging Nagarjuna's four-cornered negation
+- **Published**: yes
+
+## 2026-03-18T14:55:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/)
+- **Word count**: 1322 → 1571 (+249)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-18-perceptual-reconstruction-selection](/reviews/deep-review-2026-03-18-perceptual-reconstruction-selection/)
+
+## 2026-03-18T14:48:00+00:00 - refine-draft
+- **Status**: Success
+- **File**: [phenomenology](/concepts/phenomenology/)
+- **Changes**: Rewrote "What Would Challenge This View?" to present genuinely achievable conditions; rewrote Minimal Quantum Interaction tenet paragraph to remove causal inference from temporal coincidence
+- **Published**: yes
+
+## 2026-03-18T14:40:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/)
+- **Word count**: 1782 → 2000 (+218)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 3 (asymmetric-bandwidth argument, capacity-ceiling anti-epiphenomenalism, Mandik control phenomenology)
+- **Output**: [deep-review-2026-03-18-bandwidth-problem-mental-causation](/reviews/deep-review-2026-03-18-bandwidth-problem-mental-causation/)
+
+## 2026-03-18T14:33:00+00:00 - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft content in topics/ (~225), concepts/ (~281), tenets/ (5 tenets)
+- **Output**: [optimistic-2026-03-18-afternoon](/reviews/optimistic-2026-03-18-afternoon/)
+
+## 2026-03-18T14:26:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [perception-and-conscious-experience](/topics/perception-and-conscious-experience/)
+- **Word count**: 2395 → 2506 (+111)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-18-perception-and-conscious-experience](/reviews/deep-review-2026-03-18-perception-and-conscious-experience/)
+
+## 2026-03-18T14:18:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)
+- **Word count**: 2886 → 2897 (+11)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-18-probability-problem-in-many-worlds](/reviews/deep-review-2026-03-18-probability-problem-in-many-worlds/)
+
+## 2026-03-18T14:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [neural-refresh-rates](/concepts/neural-refresh-rates/)
+- **Word count**: 1071 → 1166 (+95)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (illusionist response, Bergson citation, Sellars reference)
+- **Enhancements made**: 4 (illusionist engagement, citation fixes, Sellars reference, cross-link)
+- **Output**: [deep-review-2026-03-18-neural-refresh-rates](/reviews/deep-review-2026-03-18-neural-refresh-rates/)
+
+## 2026-03-18T14:03:00+00:00 - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Memory as dual-domain capability
+- **Output**: [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) (already existed, created 2026-03-09)
+- **Notes**: Article was already published and refined. Task marked complete.
+
+## 2026-03-18T13:55:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Neural refresh rates and the smoothness problem
+- **Output**: [neural-refresh-rates](/concepts/neural-refresh-rates/)
+- **Word count**: 1071
+- **Based on research**: yes, [neural-refresh-rates-smoothness-problem-2026-03-08](/research/neural-refresh-rates-smoothness-problem-2026-03-08/)
+
+## 2026-03-18T13:48:00+00:00 - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/phenomenology.md, concepts/self-and-consciousness.md, concepts/functionalism.md
+- **Output**: [pessimistic-2026-03-18-afternoon](/reviews/pessimistic-2026-03-18-afternoon/)
+
+## 2026-03-18T13:46:00+00:00 - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: The metaproblem of consciousness under dualism
+- **Notes**: Article already exists at [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) (created 2026-03-11, deep-reviewed 2026-03-11). Research and concept articles also exist. Use deep-review or refine-draft to improve existing content.
+
+## 2026-03-18T13:33:00+00:00 - deep-review
+- **Status**: Skipped (archived)
+- **File**: phenomenology-of-perceptual-learning.md
+- **Notes**: File was archived on 2026-03-11, coalesced into [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/). No review needed for archived content.
+
+## 2026-03-18T13:25:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/)
+- **Word count**: 2523 → 2633 (+110)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 6 (citation fix, opening restructured, Type 4 strengthened, cross-links added, Tempels qualified, illusionism defined)
+- **Enhancements made**: 3 (Buddhist categorisation qualified, panpsychist challenge added, MWI engagement added)
+- **Output**: [deep-review-2026-03-18-interaction-problem-across-traditions](/reviews/deep-review-2026-03-18-interaction-problem-across-traditions/)
+
+## 2026-03-18T13:18:00+00:00 - deep-review
+- **Status**: Success (no changes needed)
+- **File**: [death-phenomenology-beyond-ndes](/archive/topics/death-phenomenology-beyond-ndes/) (archived → [death-and-consciousness](/topics/death-and-consciousness/))
+- **Word count**: 2448 → 2448 (no change to archived file)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (orphan integration already completed by previous review 2026-03-15)
+- **Enhancements made**: 0
+- **Notes**: Third review of stable archived article. 6 inbound cross-links verified present. 5 additional candidate articles evaluated — none warranted new links. Article has fully converged; future reviews unnecessary.
+- **Output**: [deep-review-2026-03-18-death-phenomenology-beyond-ndes](/reviews/deep-review-2026-03-18-death-phenomenology-beyond-ndes/)
+
+## 2026-03-18T13:10:00+00:00 - deep-review
+- **Status**: Success
+- **File**: [dream-problem-solving-and-conscious-influence](/topics/dream-consciousness/) (archived → [dream-consciousness](/topics/dream-consciousness/))
+- **Word count**: 2114 → 2114 (no change to archived file)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration — 5 cross-links added)
+- **Enhancements made**: 5 cross-links from consciousness-and-creativity, conscious-vs-unconscious-processing, consciousness-and-intelligence, baseline-cognition, phenomenal-consciousness → dream-consciousness
+- **Output**: [deep-review-2026-03-18b-dream-problem-solving-and-conscious-influence](/reviews/deep-review-2026-03-18b-dream-problem-solving-and-conscious-influence/)
+
+## 2026-03-18T13:03:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Perceptual Reconstruction Selection
+- **Output**: [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/)
+- **Word count**: 1322
+- **Based on research**: yes, [reconstruction-paradox-brain-correction-2026-03-09](/research/reconstruction-paradox-brain-correction-2026-03-09/)
+
+## 2026-03-18T12:59:00+00:00 - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Asymmetric bandwidth of consciousness
+- **Reason**: Research in research/asymmetric-bandwidth-consciousness-2026-03-02.md was already consumed to create topics/asymmetric-bandwidth-of-consciousness, which was subsequently coalesced into [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/). No new article needed.
+
+## 2026-03-18T12:45:00+00:00 - coalesce
+- **Status**: Success
+- **Sources**: [interaction-problem-in-non-western-philosophy](/topics/interaction-problem-across-traditions/), [interaction-solutions-across-traditions](/topics/interaction-problem-across-traditions/)
+- **Target**: [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/)
+- **Archived**: archive/topics/interaction-problem-in-non-western-philosophy.md, archive/topics/interaction-solutions-across-traditions.md
+- **References to review**: 0 (all updated inline)
+
+## 2026-03-18T12:37:00+00:00 - expand-topic
+- **Status**: Success
+- **Topic**: Probability and decision-theory objections to many worlds
+- **Output**: [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/)
+- **Word count**: 1402
+- **Based on research**: yes, [probability-decision-theory-against-many-worlds-2026-03-04](/research/probability-decision-theory-against-many-worlds-2026-03-04/)
+
 ## 2026-03-18T12:21:00+00:00 - deep-review
 - **Status**: Success
 - **File**: [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/)
@@ -670,7 +879,7 @@ topics: []
 
 ## 2026-03-17 10:28 UTC - refine-draft
 - **Status**: Success
-- **Files**: [memory-consolidation-and-transformation-of-experience](/topics/memory-consolidation-and-transformation-of-experience/), [interface-across-development](/topics/consciousness-interface-development/), [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
+- **Files**: [memory-consolidation-and-transformation-of-experience](/topics/consciousness-and-memory/), [interface-across-development](/topics/consciousness-interface-development/), [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
 - **Changes**: Addressed 3 high-severity pessimistic review findings: (1) all three articles now engage modern physicalism (functionalism, GWT, IIT, predictive processing) rather than crude identity theory; (2) memory article acknowledges CLS models while preserving phenomenal gap argument; (3) dissociation article replaces "intact processing" claims with precise "selective connectivity disruption" language consistent with its own Vuilleumier citation
 - **Published**: yes
 
@@ -682,7 +891,7 @@ topics: []
 ## 2026-03-17 09:59 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Memory Consolidation and the Transformation of Experience
-- **Output**: [memory-consolidation-and-transformation-of-experience](/topics/memory-consolidation-and-transformation-of-experience/)
+- **Output**: [memory-consolidation-and-transformation-of-experience](/topics/consciousness-and-memory/)
 - **Word count**: 1950
 - **Based on research**: yes ([sleep-memory-consolidation-consciousness-2026-01-18](/research/sleep-memory-consolidation-consciousness-2026-01-18/))
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-03-02 15:05:00+00:00
+ai_modified: 2026-03-18 13:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -177,6 +177,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against di
 - [functionalism](/concepts/functionalism/) — The view that mental states are functional states
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness is causally inert
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Access consciousness as information broadcast
+- [dream-consciousness](/topics/dream-consciousness/) — Dream problem-solving as evidence that consciousness enables cognitive outcomes beyond what neural processing alone achieves
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists physical explanation
 - [tenets](/tenets/) — The Map's foundational commitments
 

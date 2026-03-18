@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-08 09:29:00+00:00
+ai_modified: 2026-03-18 13:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -275,6 +275,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The theoretical framework for consciousness as broadcast
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum mechanism for consciousness-attention interface
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness is causally inert and why it fails
+- [dream-consciousness](/topics/dream-consciousness/) — Dream evidence for phenomenal mode tracking: cognitive outcomes depend on the kind of conscious experience, not just neural state
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's position on mind-body causation
 
 ## References

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-15
-**Article**: [Probability and Decision-Theory Objections to Many Worlds](/topics/probability-problem-in-many-worlds/)
+**Article**: [Probability and Decision-Theory Objections to Many Worlds](/concepts/probability-objections-many-worlds/)
 **Previous review**: [2026-03-05](/reviews/deep-review-2026-03-05-probability-objections-many-worlds/)
 **Note**: This article was archived on 2026-03-10 (coalesced into [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)). Review focused on fixing residual bugs and integrating the orphaned content into the site's link network.
 

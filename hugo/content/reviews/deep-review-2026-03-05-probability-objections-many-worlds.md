@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-05
-**Article**: [Probability and Decision-Theory Objections to Many Worlds](/topics/probability-problem-in-many-worlds/)
+**Article**: [Probability and Decision-Theory Objections to Many Worlds](/concepts/probability-objections-many-worlds/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

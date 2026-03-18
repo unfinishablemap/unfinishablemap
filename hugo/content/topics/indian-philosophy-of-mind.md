@@ -39,7 +39,7 @@ topics:
 - '[[eastern-philosophy-consciousness]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
-- '[[interaction-problem-in-non-western-philosophy]]'
+- '[[interaction-problem-across-traditions]]'
 - '[[the-convergence-argument-for-dualism]]'
 - '[[philosophy-of-perception-under-dualism]]'
 ---
@@ -60,7 +60,7 @@ This means all cognitive processing—perception, reasoning, memory, emotion—b
 
 If *purusha* does nothing, how does unconscious matter evolve purposefully? Samkhya's answers are distinctive. *Purusha* does not act on *prakriti* causally. Its mere *proximity* (*sannidhya*) disturbs *prakriti*'s equilibrium, the way a magnet moves iron filings without physical contact (the tradition's own analogy). Vacaspati Mishra (c. 980 CE) developed a "reflection theory" (*pratibimba-vada*): consciousness is reflected in *buddhi* without entering it, as a face is reflected in a mirror without becoming the mirror.
 
-By placing mind within matter, Samkhya sidesteps the [standard objections to interactionist dualism](/concepts/objections-to-interactionism/). [Causal closure](/concepts/causal-closure/) is preserved: physical causation handles everything in the material domain, which includes all mental activity. Consciousness illuminates without intervening. For a broader comparative survey, see [interaction-problem-in-non-western-philosophy](/topics/interaction-problem-in-non-western-philosophy/).
+By placing mind within matter, Samkhya sidesteps the [standard objections to interactionist dualism](/concepts/objections-to-interactionism/). [Causal closure](/concepts/causal-closure/) is preserved: physical causation handles everything in the material domain, which includes all mental activity. Consciousness illuminates without intervening. For a broader comparative survey, see [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/).
 
 ### Plurality and Liberation
 
@@ -166,7 +166,7 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 - [tenets](/tenets/) — The Map's foundational commitments
 - [dualism](/concepts/dualism/) — The Map's core commitment, independently affirmed by all three schools; the cumulative case to which Indian philosophy contributes
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — The epistemological structure Indian philosophy exemplifies
-- [interaction-problem-in-non-western-philosophy](/topics/interaction-problem-in-non-western-philosophy/) — Broader survey including Samkhya alongside Islamic and Buddhist approaches
+- [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) — Broader survey including Samkhya alongside Islamic and Buddhist approaches
 - [causal-closure](/concepts/causal-closure/) — How Samkhya's framework preserves causal closure
 - [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/) — Dualist theories of perception, with parallels to Nyaya
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Standard challenges that Samkhya's framework sidesteps

@@ -26,7 +26,7 @@ topics: []
 None. Article remains stable after five reviews.
 
 ### Medium Issues Found
-- **Probability section out of alignment with new content**: The new [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) concept article establishes the incoherence/quantitative distinction (Wallace 2003) and covers three recovery strategies plus the circularity objection. The many-worlds article's §3 used a narrower framing (measure/caring problems) and only mentioned Deutsch-Wallace. **Resolution**: Restructured §3 to use the incoherence/quantitative framing, mention all three recovery strategies, add the circularity objection, and cross-link to the new concept article.
+- **Probability section out of alignment with new content**: The new [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) concept article establishes the incoherence/quantitative distinction (Wallace 2003) and covers three recovery strategies plus the circularity objection. The many-worlds article's §3 used a narrower framing (measure/caring problems) and only mentioned Deutsch-Wallace. **Resolution**: Restructured §3 to use the incoherence/quantitative framing, mention all three recovery strategies, add the circularity objection, and cross-link to the new concept article.
 - **Missing cross-link**: No reference to the new `probability-objections-many-worlds` article. **Resolution**: Added to related_articles, Further Reading, and in-text cross-link in §3.
 
 ### Counterarguments Considered
@@ -59,11 +59,11 @@ All six adversarial personas applied:
 - Restructured §3 (The Probability Problem) to use Wallace's incoherence/quantitative distinction
 - Added coverage of all three recovery strategies (decision theory, self-locating uncertainty, envariance)
 - Added the circularity objection (Baker 2007, Price 2010) — branch structure presupposes Born rule via decoherence
-- Cross-linked to new [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) concept article
+- Cross-linked to new [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) concept article
 - Added 3 new references (Wallace 2003, Baker 2007, Price 2010)
 
 ### Cross-links Added
-- [probability-objections-many-worlds](/topics/probability-problem-in-many-worlds/) (in §3, Further Reading, and related_articles)
+- [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) (in §3, Further Reading, and related_articles)
 
 ## Remaining Items
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-17 20:29:00+00:00
+ai_modified: 2026-03-18 15:28:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[moral-responsibility]]'
 - '[[phenomenal-normativity]]'
-- '[[moral-perception]]'
+- '[[moral-phenomenology-and-perception]]'
 - '[[normative-phenomenology]]'
 - '[[interactionist-dualism]]'
 created: 2026-03-11
@@ -87,7 +87,7 @@ Materialist accounts must bridge a gap between descriptive facts and normative f
 
 ### Moral Perception Is Direct
 
-[Moral perception](/concepts/moral-perception/)—the direct apprehension of ethical properties in situations—becomes intelligible under dualism in ways it cannot under materialism. The [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) reveals that wrongness organises an entire perceptual scene, arriving with the speed and involuntariness of sensory perception rather than the deliberation of inference.
+[Moral perception](/concepts/moral-phenomenology-and-perception/)—the direct apprehension of ethical properties in situations—becomes intelligible under dualism in ways it cannot under materialism. The [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) reveals that wrongness organises an entire perceptual scene, arriving with the speed and involuntariness of sensory perception rather than the deliberation of inference.
 
 If consciousness is irreducible, its capacity to apprehend value is not reducible to pattern-matching over sensory inputs. Moral perception is a genuine mode of awareness—consciousness directed toward evaluative properties of situations. The projectivist objection (that we merely project moral properties onto neutral situations) loses force under the framework established above: if evaluative properties genuinely characterise conscious experience—if the badness of suffering is constitutive of what suffering phenomenally is—then moral perception apprehends real features of experience rather than projecting fictional properties onto a value-free world. The ontological reality of consciousness under dualism ensures these evaluative features are irreducible, not artefacts of functional description.
 
@@ -150,7 +150,7 @@ The Unfinishable Map's five tenets jointly create the conditions for unified dua
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral perception feels like from the inside
 - [moral-responsibility](/concepts/moral-responsibility/) — Agent causation and metaphysical desert
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why value requires consciousness
-- [moral-perception](/concepts/moral-perception/) — Direct apprehension of ethical properties
+- [Moral Phenomenology and Perception](/concepts/moral-phenomenology-and-perception/) — Direct apprehension of ethical properties
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Normativity built into phenomenal character
 - [living-with-the-map](/apex/living-with-the-map/) — From metaphysics to practical guidance
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis: unified moral architecture from value, agency, normativity, and moral perception

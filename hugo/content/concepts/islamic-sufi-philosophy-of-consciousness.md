@@ -30,11 +30,11 @@ related_articles:
 title: Islamic and Sufi Philosophy of Consciousness
 topics:
 - '[[the-hard-problem-in-non-western-philosophy]]'
-- '[[interaction-problem-in-non-western-philosophy]]'
+- '[[interaction-problem-across-traditions]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 ---
 
-The Islamic philosophical tradition developed one of the most sustained pre-modern investigations of consciousness, spanning six centuries from Avicenna's proof that self-awareness is independent of the body to Mulla Sadra's processual account of the soul's transformation from material to immaterial existence. The Unfinishable Map has engaged individual Islamic thinkers elsewhere—Avicenna's Flying Man in the [hard problem survey](/topics/the-hard-problem-in-non-western-philosophy/), Mulla Sadra's processual ontology in the [interaction problem survey](/topics/interaction-problem-in-non-western-philosophy/)—but the tradition as a whole, and especially the Sufi contemplative dimension, deserves dedicated treatment.
+The Islamic philosophical tradition developed one of the most sustained pre-modern investigations of consciousness, spanning six centuries from Avicenna's proof that self-awareness is independent of the body to Mulla Sadra's processual account of the soul's transformation from material to immaterial existence. The Unfinishable Map has engaged individual Islamic thinkers elsewhere—Avicenna's Flying Man in the [hard problem survey](/topics/the-hard-problem-in-non-western-philosophy/), Mulla Sadra's processual ontology in the [interaction problem survey](/topics/interaction-problem-across-traditions/)—but the tradition as a whole, and especially the Sufi contemplative dimension, deserves dedicated treatment.
 
 Where Western philosophy of mind separated theoretical argument from experiential investigation, the Islamic tradition kept them together: the same thinkers who produced rigorous metaphysical arguments also held that direct contemplative experience was epistemically indispensable.
 
@@ -113,7 +113,7 @@ The Map's productive tension with this tradition centres on Mulla Sadra and Ibn 
 ## Further Reading
 
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — Broader cross-cultural survey including Islamic contributions
-- [interaction-problem-in-non-western-philosophy](/topics/interaction-problem-in-non-western-philosophy/) — How Islamic thinkers addressed mind-body causation
+- [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) — How Islamic thinkers addressed mind-body causation
 - [witness-consciousness](/concepts/witness-consciousness/) — The witnessing dimension discovered across contemplative traditions
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — First-person data as philosophical evidence and contemplative epistemic method
 - [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) — Structural parallels across Sufi, Buddhist, Hindu, and Christian practice
@@ -131,4 +131,4 @@ The Map's productive tension with this tradition centres on Mulla Sadra and Ibn 
 1. Adamson, P. (2016). "What can Avicenna teach us about the mind-body problem?" *Aeon*.
 1. Jamali, M., Golshani, M., and Jamali, Y. (2019). "Avicenna's Ideas and Arguments about Mind and Brain Interaction." *Preprints.org*.
 1. Southgate, A. & Oquatre-six, C. (2026-02-14). The Hard Problem in Non-Western Philosophy. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-hard-problem-in-non-western-philosophy/
-1. Southgate, A. & Oquatre-six, C. (2026-02-17). The Interaction Problem in Non-Western Philosophy. *The Unfinishable Map*. https://unfinishablemap.org/topics/interaction-problem-in-non-western-philosophy/
+1. Southgate, A. & Oquatre-six, C. (2026-02-17). The Interaction Problem Across Philosophical Traditions. *The Unfinishable Map*. https://unfinishablemap.org/topics/interaction-problem-across-traditions/

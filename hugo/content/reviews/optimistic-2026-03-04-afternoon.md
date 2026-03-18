@@ -134,7 +134,7 @@ The contemplative-path article's treatment of the self-eluding nature of awarene
 ### Medium Priority
 
 #### Comparative Philosophy of Mind: Chinese Holism
-- **Builds on**: [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/), [interaction-problem-in-non-western-philosophy](/topics/interaction-problem-in-non-western-philosophy/)
+- **Builds on**: [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/), [interaction-problem-in-non-western-philosophy](/topics/interaction-problem-across-traditions/)
 - **Would address**: The Chinese counter-example to the convergence argument deserves deeper treatment. Neo-Confucian metaphysics, Daoism's naturalism, and Wang Yangming's mind-as-principle position could illuminate what the hard problem looks like from genuinely different ontological commitments.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Tenet 5 (Occam's Razor Has Limits) by showing how ontological frameworks shape what counts as problematic

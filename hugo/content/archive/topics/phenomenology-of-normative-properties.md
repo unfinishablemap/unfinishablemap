@@ -138,7 +138,7 @@ The phenomenology of normative properties connects to the Map's [foundational co
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-experience/) — What moral experience feels like from the inside
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Intrinsic normative force built into phenomenal character
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
-- [moral-perception](/concepts/moral-perception/) — Direct apprehension of ethical properties
+- [moral-perception](/concepts/moral-phenomenology-and-perception/) — Direct apprehension of ethical properties
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt character of thinking and reasoning
 - [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Beauty and ugliness as irreducible phenomenal features
 - [normative-void](/voids/normative-void/) — Where normative perception reaches its limits
