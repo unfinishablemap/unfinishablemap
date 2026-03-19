@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-03-18 07:18:00+00:00
+ai_modified: 2026-03-19 11:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -24,6 +24,8 @@ concepts:
 - '[[decoherence]]'
 - '[[process-philosophy]]'
 - '[[panpsychism]]'
+- '[[mental-causation]]'
+- '[[interactionist-dualism]]'
 created: 2026-01-09
 date: &id001 2026-02-06
 description: Hindu, Buddhist, and Taoist traditions converge with dualism on consciousness's
@@ -32,13 +34,14 @@ description: Hindu, Buddhist, and Taoist traditions converge with dualism on con
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-12 02:05:00+00:00
+last_deep_review: 2026-03-19 11:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[buddhist-perspectives-meaning-2026-01-06]]'
 - '[[contemplative-path]]'
 - '[[vertiginous-question]]'
+- '[[interaction-problem-across-traditions]]'
 title: Eastern Philosophy and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -74,7 +77,7 @@ Neuroimaging supports this: a 7T fMRI case study of an advanced vipassana practi
 
 ### Yogācāra and Madhyamaka
 
-Yogācāra ("Mind-Only") posits a "storehouse consciousness" (*ālaya-vijñāna*) providing causal continuity without permanent substance—karmic seeds deposited and ripened, consciousness causally efficacious through process rather than thing. Madhyamaka (Nāgārjuna) holds all phenomena "empty" (*śūnyatā*) of inherent existence: everything arises dependently, including consciousness.
+Yogācāra ("Mind-Only") posits a "storehouse consciousness" (*ālaya-vijñāna*) providing causal continuity without permanent substance—karmic seeds deposited and ripened, consciousness causally efficacious through process rather than thing. Yogācāra also offers a radical approach to the [interaction problem](/topics/interaction-problem-across-traditions/): if everything taken to be "external" is a construction of consciousness from karmic seeds, mind-to-body causation becomes mind-to-mind causation, and the interaction problem dissolves. Madhyamaka (Nāgārjuna) holds all phenomena "empty" (*śūnyatā*) of inherent existence: everything arises dependently, including consciousness.
 
 Both remain compatible with the Map. Madhyamaka denies inherent existence, not existence altogether; irreducibility is a relation between descriptions, not a claim about inherent essence. And the Map operates at the conventional level where both frameworks function.
 
@@ -164,7 +167,7 @@ Eastern philosophy illuminates all five of the Map's [tenets](/tenets/), while r
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Buddhist *khaṇika* momentariness reveals consciousness operating at finer timescales than ordinary awareness accesses. Whether this connects to quantum processes remains speculative. Dream yoga's demonstration that consciousness persists without sensory constraint supports filter theory.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Karma doctrine implies mental causation—intentions produce real consequences. Dream yoga goes further: trained dreamers exercise volitional control over dream content. Yogācāra's storehouse consciousness provides causal continuity without permanent substance.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Karma doctrine implies [mental-causation](/concepts/mental-causation/)—intentions produce real consequences. Dream yoga goes further: trained dreamers exercise volitional control over dream content. Yogācāra's storehouse consciousness provides causal continuity without permanent substance. As the [cross-traditional analysis](/topics/interaction-problem-across-traditions/) shows, these Eastern approaches to mind-body causation belong to a family of "non-contact" and "processual" solutions that independently converge on the insight that consciousness shapes outcomes without injecting force—an insight the Map's quantum selection framework inherits.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Eastern traditions uniformly emphasize *this* life, *this* moment, *this* path. Process haecceitism supports this: even without a permanent soul, there is a fact about which experiential process is mine.
 
@@ -184,6 +187,8 @@ Eastern philosophy illuminates all five of the Map's [tenets](/tenets/), while r
 - [contemplative-neuroscience](/concepts/contemplative-neuroscience/) — How meditation research bridges first-person phenomenology and third-person neuroscience
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — First-person data as empirical test
 - [contemplative-path](/apex/contemplative-path/) — Apex article synthesizing contemplative traditions
+- [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) — How five structural solution types recur across Eastern and Western traditions
+- [mental-causation](/concepts/mental-causation/) — The philosophical case for consciousness as causally efficacious
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework and Buddhist parallels
 - [self-and-consciousness](/concepts/self-and-consciousness/) — Minimal self vs. narrative self
 - [personal-identity](/topics/personal-identity/) — What makes you the same person over time

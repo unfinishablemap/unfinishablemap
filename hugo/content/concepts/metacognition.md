@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-03-18 04:44:00+00:00
+ai_modified: 2026-03-19 11:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,9 +29,7 @@ concepts:
 - '[[cognitive-phenomenology]]'
 - '[[minimal-consciousness]]'
 - '[[animal-consciousness]]'
-- '[[semantic-memory]]'
 - '[[phenomenology-of-choice]]'
-- '[[motor-selection]]'
 - '[[binding-problem]]'
 - '[[teaching-as-metarepresentation]]'
 - '[[epistemic-emotions]]'
@@ -43,7 +41,7 @@ description: Metacognition and metarepresentation are cognitive tools consciousn
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-21 09:06:00+00:00
+last_deep_review: 2026-03-19 11:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-18 18:25:00+00:00
+ai_modified: 2026-03-19 10:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,6 +24,7 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[bidirectional-interaction]]'
 - '[[conservation-laws-and-mental-causation]]'
+- '[[mind-matter-interface]]'
 - '[[causal-delegation]]'
 - '[[delegatory-dualism]]'
 - '[[preemption]]'
@@ -37,7 +38,7 @@ description: How mental states cause physical effects despite Kim's exclusion ar
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-04 12:22:00+00:00
+last_deep_review: 2026-03-19 10:59:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -103,7 +104,7 @@ The Map's response: deny causal closure at quantum indeterminacies.
 
 Quantum mechanics specifies probabilities but not which outcome actualizes. Causal closure fails at these points. If consciousness acts at these indeterminacies — selecting among outcomes physics leaves undetermined, as [non-retrocausal conscious selection](/topics/non-retrocausal-conscious-selection-models/) frameworks propose — it causes physical events without competing with physical causes. No overdetermination occurs because physics provides necessary but not sufficient causes. The [prebiotic collapse problem](/concepts/prebiotic-collapse/) shows this framework is cosmologically consistent.
 
-This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness biases quantum outcomes where the physical story runs out.
+The [two-layer architecture](/concepts/mind-matter-interface/) places this quantum mechanism as Layer 2 (Interface/Control), complementing Layer 1's filter theory explanation of why brain-consciousness correlation doesn't entail production. This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness biases quantum outcomes where the physical story runs out.
 
 ### The Decoherence Challenge
 
@@ -213,6 +214,7 @@ Mental causation, as defended here, is falsifiable:
 - [decoherence](/concepts/decoherence/) — The physics challenge and why it doesn't close the quantum opening
 - [interface-locality](/concepts/brain-interface-boundary/) — Why consciousness affects only its own brain
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention implements the consciousness-physics interface
+- [mind-matter-interface](/concepts/mind-matter-interface/) — The unified two-layer architecture integrating filter theory and quantum selection
 
 ## References
 

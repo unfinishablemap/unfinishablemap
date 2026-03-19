@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-03-05 19:25:00+00:00
+ai_modified: 2026-03-19 11:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -79,6 +79,18 @@ Three lines of evidence support genuine agent causation:
 3. **Distinctive neural signatures**: Willed actions show frontal theta oscillations and bidirectional coherence that automatic processes lack. The subjective sense of authorship tracks genuine differences in neural organisation.
 
 A physicalist can accommodate the neural data—different neural modes explain different neural signatures. But the physicalist must then explain why the phenomenological distinction *exists*. If willed action is just a different neural pattern, the felt effort is either identical to that pattern (eliminativism about the phenomenology) or an additional feature riding atop it (epiphenomenalism). Neither captures what the evidence actually shows: a systematic correspondence between felt effort and neural distinctiveness across domains—attention, motor control, reasoning—where the phenomenal character tracks the *degree* of conscious engagement rather than the *type* of neural processing. This cross-domain coherence is what agent causation predicts (the same agent exerts more or less causal effort) and what physicalism struggles to explain without treating the phenomenology as either illusory or idle. The argument is not that neural signatures *prove* dualism, but that the full pattern—phenomenology, reasons-guidance, and neural distinctiveness together—is better explained by genuine agent involvement than by any account that treats consciousness as a by-product.
+
+### Introspective Reliability and the Phenomenology of Effort
+
+An obvious objection: doesn't the argument from phenomenology assume that introspection about agency is reliable—precisely what's at issue? Schwitzgebel (2011) has documented pervasive introspective failures: people misjudge their own emotional states, misreport the character of their imagery, and confabulate reasons for choices. If introspection is generally unreliable, why trust it about something as philosophically loaded as agency?
+
+The concern is legitimate but misdirected. Schwitzgebel's cases of unreliability involve *classifying* or *reporting* on subtle phenomenal states—whether one is currently experiencing an emotion, what colour one's mental imagery is, whether one is thinking in words or images. These require second-order judgements that are genuinely error-prone. But the phenomenological argument for agent causation does not depend on introspective *classification* of the nature of effort. It depends on a *first-order distinction* that even sceptics about introspection accept: choosing feels different from observing. Hard choices feel different from easy ones. Deliberation has a phenomenal character that passive reception lacks.
+
+This distinction is not a theory-laden interpretation—it is the *explanandum* that any adequate theory must address. Dennett, who rejects libertarian free will, still grants that the phenomenology of deciding differs from the phenomenology of perceiving. Wegner (2002), who argues conscious will is an illusion, acknowledges the robust feeling of effort and authorship; his claim is that the feeling *misrepresents its cause*, not that it doesn't exist. The question is what best explains this universal, cross-cultural, cross-domain phenomenological structure.
+
+Three features make agency phenomenology more robust than the introspective judgements Schwitzgebel targets. First, the distinction is *coarse-grained*—choosing versus observing, effortful versus effortless—not a subtle classification of phenomenal qualities. Introspection is most unreliable for fine-grained discriminations, not for gross structural features of experience. Second, the distinction is *behaviourally consequential*: people reliably distinguish willed from automatic actions in experimental settings, and these reports correlate with distinct neural signatures (frontal theta, bidirectional coherence). When introspective reports systematically track objective neural differences across independent measures, this is evidence of reliability, not confabulation. Third, the distinction is *cross-domain stable*—the same effortful quality appears in attention, motor control, reasoning, and creative generation, tracking degree of conscious engagement rather than domain-specific content. Confabulation would predict domain-specific narratives, not a unified phenomenal signature.
+
+The Map's argument does not assume introspection reveals the *metaphysical nature* of agency—that would indeed be circular. It argues that the existence and structure of the effort phenomenology, combined with its neural correlates and cross-domain coherence, is better explained by genuine agent involvement than by any account that treats the phenomenology as systematically misleading.
 
 How does agent causation interface with physics? The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet suggests consciousness operates where physics leaves outcomes undetermined—quantum indeterminacies being one possibility. The philosophical case for agent causation—that irreducible agency best explains the phenomenological and neural evidence—does not depend on any particular physical mechanism. But the [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) shows that *some* mechanism for consciousness-brain interaction is needed to avoid causal impotence at the physical level. The philosophical case establishes *that* agent causation is real; the mechanism question addresses *how* it interfaces with physics. These are distinct questions, and the first can be answered before the second. See [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) for one proposed physical implementation.
 
@@ -186,7 +198,7 @@ If agents genuinely author their choices, [moral responsibility](/concepts/moral
 
 The framework is not unfalsifiable. Key challenges that would undermine it:
 
-- **Decisive neural determinism**: Near-perfect prediction (>95%) of voluntary choices from prior neural states
+- **Decisive neural determinism**: Systematic, reliable prediction of voluntary choices from prior neural states alone—where neural activity consistently determines outcomes before conscious deliberation could contribute. Current prediction accuracy for genuinely free choices (as opposed to arbitrary button-press timing) remains near chance. The threshold is not a fixed number but a theoretical criterion: if prior neural states were shown to be *sufficient* for choice outcomes, leaving no residual variance that conscious deliberation could explain, agent causation would lose its evidential basis
 - **Materialist solution to the hard problem**: Explaining why physical arrangements *feel like something*
 - **Phenomenology-neuroscience dissociation**: Effort feeling easy when neural cost is high, or vice versa
 - **No physical gap for mental causation**: Proof that causal closure holds without exception at all scales
@@ -260,17 +272,19 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 1. Cramer, J. G. (1986). Transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
 1. Read, D. W. (2008). Working memory: A cognitive limit to non-human primate recursive thinking prior to hominid evolution. *Evolutionary Psychology*, 6(4), 676-714.
 1. Suddendorf, T., & Corballis, M. C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
+1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
+1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-14). Interactionist Dualism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interactionist-dualism/
 
-<!-- AI REFINEMENT LOG - 2026-02-25
+<!-- AI REFINEMENT LOG - 2026-03-19
 Changes made:
-1. Integrated counterfactual void insights into the Counterfactual Reasoning subsection: acknowledged architectural limits of modal cognition (Byrne's nearest-world bias, schematic thinning) while arguing these constraints clarify rather than undermine libertarian free will
-1. Condensed Bischof-Köhler exposition (duplicated concept page detail) and replaced with cross-reference to [counterfactual-reasoning](/concepts/counterfactual-reasoning/)
-1. Added cross-link to [counterfactual-void](/voids/counterfactual-void/) in body text, Further Reading, and related_articles frontmatter
-1. Added Byrne (2005) to References
+1. Added new subsection "Introspective Reliability and the Phenomenology of Effort" addressing circularity objection: the argument from phenomenology assumed introspective reliability about agency without engaging with known unreliability concerns
+2. Engaged explicitly with Schwitzgebel (2011) on introspective unreliability and Wegner (2002) on illusory conscious will, explaining why agency phenomenology is more robust than the cases where introspection fails (coarse-grained distinction, behavioural/neural correlation, cross-domain stability)
+3. Replaced arbitrary ">95% prediction" falsification threshold with principled theoretical criterion: neural states must be shown *sufficient* for choice outcomes, leaving no residual variance for conscious contribution
+4. Added Schwitzgebel (2011) and Wegner (2002) to References
 
-Prompted by cross-review of counterfactual-void article insights.
-Key improvement: Article now engages with the limits of counterfactual reasoning, arguing the nearest-world constraint is predicted by Minimal Quantum Interaction rather than ignoring modal architecture constraints.
+Prompted by pessimistic review identifying circularity in phenomenology-of-effort argument and unjustified falsification threshold.
+Key improvements: Article now anticipates the strongest objection to its phenomenological evidence and provides a principled falsification criterion.
 
 This log should be removed after human review.
 -->

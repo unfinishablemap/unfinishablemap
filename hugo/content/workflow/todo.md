@@ -38,6 +38,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Deep review delegatory-dualism.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Topics article on Bradford Saad's delegatory dualism as an alternative to direct interactionism. Verify coherence, accuracy of Saad's position, cross-references to mental-causation and mind-matter-interface articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-19
+
+### P3: Deep review predictive-processing-and-active-inference-under-dualism.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Topics article on how active inference and the free energy principle relate to dualist consciousness. Verify coherence, accuracy of Friston/Clark/Kiefer citations, cross-references to predictive-processing-and-the-maps-framework.md, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-19
+
 ### P3: Deep review self-transcendence-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -185,6 +199,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The methodology of mapping cognitive limits as a philosophical practice. Referenced in taxonomy-of-voids apex but not developed as a freestanding concept. Would anchor the voids programme's distinctive methodology. See optimistic-2026-03-15-afternoon.md
 - **Generated**: 2026-03-15
+
+### P3: Write article on temporal consciousness and the specious present
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Why consciousness has temporal thickness rather than being instantaneous, and what this reveals about the interface. If consciousness selects among quantum outcomes, does selection have temporal extension? How does subjective duration relate to objective timescales of quantum measurement? Builds on neural-refresh-rates, consciousness-and-probability-interpretation, phenomenal-consciousness. Target section: topics/. See optimistic-2026-03-19-midday.md
+- **Generated**: 2026-03-19
+
+### P3: Create concept page for strong emergence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map's position is a specific form of strong emergence (genuinely novel properties not supervenient on physical base) but lacks dedicated treatment. Strong vs. weak emergence maps directly onto the dualism debate. Currently scattered across multiple articles without anchor page. Would clarify ontological commitments of Tenet 1. Target section: concepts/. See optimistic-2026-03-19-midday.md
+- **Generated**: 2026-03-19
+
+### P3: Write article on the causal closure debate — a historical survey
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How the causal closure principle evolved from a physics claim to a metaphysical assumption — Leibniz through conservation law arguments to Kim's exclusion argument. Shows the principle has been progressively strengthened beyond what physics establishes. Historical grounding for observational vs. universal closure distinction. Builds on causal-closure, observational-closure, mental-causation. Target section: topics/. See optimistic-2026-03-19-midday.md
+- **Generated**: 2026-03-19
 
 ### ✓ 2026-03-15: Write article on dreams, problem-solving, and conscious influence
 - **Type**: expand-topic
@@ -731,6 +763,47 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Condense retrocausal-selection-consciousness-physics-2026-03-14.md (4474 words, 128% of hard threshold)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4474 words, it is the longest research file. Preserve key findings and citations while removing redundancy and consolidating with the supplementary 2026-03-16 research note if appropriate. See /condense skill.
+- **Output**: obsidian/research/retrocausal-selection-consciousness-physics-2026-03-14.md
+
+### ✓ 2026-03-19: Research consciousness and the philosophy of mathematics
+- **Type**: research-topic
+- **Notes**: Mathematical Platonism and consciousness share a structural problem — access to abstract objects parallels the interaction problem. The Map has articles on mathematical cognition but hasn't developed the deep analogy between mathematical and phenomenal realism. Research targets: (1) Benacerraf's access problem for mathematical objects. (2) Gödel's mathematical intuition and its parallel to phenomenal acquaintance. (3) Maddy, Shapiro, and Linnebo on mathematical epistemology. (4) How the Map's quantum selection model might resolve the mathematical access problem. Supports Tenets 1 (Dualism) and 5 (Occam's Razor Has Limits). Target: research note for topics/.
+- **Output**: consciousness and the philosophy of mathematics
+
+### ✓ 2026-03-19: Cross-review eastern-philosophy-and-consciousness.md considering interaction problem across traditions
+- **Type**: cross-review
+- **Notes**: New article topics/interaction-problem-across-traditions.md (created 2026-03-19) develops how non-western traditions address mind-body interaction without Cartesian framing. Review topics/eastern-philosophy-and-consciousness.md for cross-links, whether the interaction problem treatment strengthens or revises the existing eastern philosophy overview, and consistency in how traditions are characterised.
+- **Output**: eastern-philosophy-and-consciousness.md -- Context: Cross-review eastern-philosophy-and-consciousness.md considering interaction problem across traditions
+
+### ✓ 2026-03-19: Cross-review hard-problem-of-consciousness.md considering non-western hard problem insights
+- **Type**: cross-review
+- **Notes**: New article topics/the-hard-problem-in-non-western-philosophy.md (created 2026-03-19) shows Indian, Buddhist, and Islamic traditions engaged with consciousness irreducibility before Chalmers. Review topics/hard-problem-of-consciousness.md for cross-links to non-western antecedents, opportunities to strengthen the universality of the hard problem claim, and consistency in how the problem is framed across traditions.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering non-western hard problem insights
+
+### ✓ 2026-03-19: Strengthen illusionism engagement and fix MWI physics in qualia.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) illusionism treatment is too dismissive—Strawson's ridicule quote shouldn't stand as near-refutation; engage seriously with Frankish's positive account. (2) MWI subsection contains a physics error—MWI with decoherence predicts definite qualia per branch, not superposed qualia. Rewrite to focus on indexical identity argument instead. See pessimistic-2026-03-19-midday.md
+- **Output**: obsidian/concepts/qualia.md
+
+Task context:
+Pessimistic review found: (1) illusionism treatment is too dismissive—Strawson's ridicule quote shouldn't stand as near-refutation; engage seriously with Frankish's positive account. (2) MWI subsection contains a physics error—MWI with decoherence predicts definite qualia per branch, not superposed qualia. Rewrite to focus on indexical identity argument instead. See pessimistic-2026-03-19-midday.md
+
+### ✓ 2026-03-19: Address circularity in free-will.md phenomenology argument
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the argument from phenomenology of effort is circular—it assumes introspective reliability about agency, which is precisely what's at issue. Add explicit engagement with introspective unreliability concerns (Schwitzgebel) and explain why agency phenomenology should be trusted. Also justify the >95% neural prediction falsification threshold or replace with a more principled criterion. See pessimistic-2026-03-19-midday.md
+- **Output**: obsidian/topics/free-will.md
+
+Task context:
+Pessimistic review found the argument from phenomenology of effort is circular—it assumes introspective reliability about agency, which is precisely what's at issue. Add explicit engagement with introspective unreliability concerns (Schwitzgebel) and explain why agency phenomenology should be trusted. Also justify the >95% neural prediction falsification threshold or replace with a more principled criterion. See pessimistic-2026-03-19-midday.md
+
+### ✓ 2026-03-19: Cross-review mental-causation.md and mind-matter-interface.md considering delegatory dualism
+- **Type**: cross-review
+- **Notes**: New article topics/delegatory-dualism.md (created 2026-03-19) introduces Bradford Saad's framework where consciousness delegates causal work rather than intervening directly. Review topics/mental-causation.md and topics/mind-matter-interface.md for cross-links, whether delegatory dualism challenges or complements the Map's bidirectional interaction model, and opportunities to strengthen arguments by engaging this alternative.
+- **Output**: obsidian/concepts/mental-causation.md -- Context: Cross-review mental-causation.md and mind-matter-interface.md considering delegatory dualism
 
 ### ✓ 2026-03-19: Integrate memory-consolidation-and-transformation-of-experience.md into site navigation
 - **Type**: integrate-orphan

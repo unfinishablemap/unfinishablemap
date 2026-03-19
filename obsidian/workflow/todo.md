@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on consciousness and the philosophy of mathematics
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/consciousness-philosophy-of-mathematics-2026-03-19.md. Explores how consciousness intersects with Platonism, intuitionism, formalism, and structuralism. Mathematical epistemology is a pressure point where physicalism's explanatory limits become acute — mathematical knowledge seems to require non-physical apprehension. Builds on mathematical-knowledge-and-insight.md, consciousness-and-mathematical-cognition.md. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 5 (Occam's Razor Has Limits).
+- **Source**: chain (from research-topic 2026-03-19)
+- **Generated**: 2026-03-19
+
+### P2: Cross-review eastern-philosophy-and-consciousness.md considering new non-western philosophy articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New articles the-hard-problem-of-consciousness-in-non-western-philosophy.md and the-interaction-problem-in-non-western-philosophy.md (both created 2026-03-19) cover non-western perspectives on the hard problem and interaction problem. The existing eastern-philosophy-and-consciousness.md may benefit from cross-links, updated arguments, and consistency checks with these new treatments.
+- **Source**: chain (from expand-topic 2026-03-19)
+- **Generated**: 2026-03-19
+
+### P2: Cross-review mental-causation.md considering interaction problem in non-western philosophy
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article the-interaction-problem-in-non-western-philosophy.md (created 2026-03-19) offers non-western perspectives on how consciousness causally interacts with the physical. The core mental-causation.md concept page may benefit from cross-references to these alternative frameworks and any reinforcing arguments.
+- **Source**: chain (from expand-topic 2026-03-19)
+- **Generated**: 2026-03-19
+
+### P2: Cross-review hard-problem-of-consciousness.md considering non-western philosophy insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article the-hard-problem-of-consciousness-in-non-western-philosophy.md (created 2026-03-19) systematically covers how Indian, Buddhist, Chinese, African, and Islamic traditions approach the hard problem. The main hard-problem-of-consciousness.md article should cross-reference this treatment and may benefit from incorporating convergence evidence across traditions.
+- **Source**: chain (from expand-topic 2026-03-19)
+- **Generated**: 2026-03-19
+
+### P2: Condense free-will.md (4275 words, 107% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Core topics article on free will under dualism. Preserve central arguments about libertarian free will, agent causation, and the quantum-selection mechanism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-19
+
 ### P3: Deep review delegatory-dualism.md
 - **Type**: deep-review
 - **Status**: pending

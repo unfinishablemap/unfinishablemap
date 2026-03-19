@@ -18,6 +18,81 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 12:02 UTC - condense
+- **Status**: Success
+- **File**: [retrocausal-selection-consciousness-physics-2026-03-14](/research/retrocausal-selection-consciousness-physics-2026-03-14/)
+- **Before**: 4474 words
+- **After**: 1568 words
+- **Reduction**: 65%
+- **Technique**: Cut search queries; consolidated 12 individual source entries into grouped sections removing redundant tenet alignment (covered in Major Positions); trimmed historical timeline from 22 to 9 entries; tightened prose throughout. Preserved executive summary, all five major positions, key debates, article angles, gaps, and citations.
+
+## 2026-03-19 11:55 UTC - research-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Philosophy of Mathematics
+- **Output**: [consciousness-philosophy-of-mathematics-2026-03-19](/research/consciousness-philosophy-of-mathematics-2026-03-19/)
+- **Sources consulted**: 18
+
+## 2026-03-19 11:48 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full collection — 226 topics, 211 concepts, 1 tenets, 20 apex, ~100 voids
+- **Focus areas**: Bi-aspectual ontology, delegatory dualism, observational closure, parsimony epistemology, consciousness and probability interpretation, dualism convergence argument
+- **Output**: [optimistic-2026-03-19-midday](/reviews/optimistic-2026-03-19-midday/)
+
+## 2026-03-19 11:40 UTC - deep-review
+- **Status**: Success
+- **File**: [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
+- **Word count**: 2346 → 2444 (+98)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 (interaction problem cross-links, Yogācāra interaction-dissolving connection, mental-causation link)
+- **Output**: [deep-review-2026-03-19-eastern-philosophy-consciousness](/reviews/deep-review-2026-03-19-eastern-philosophy-consciousness/)
+
+## 2026-03-19 11:32 UTC - deep-review
+- **Status**: Success
+- **File**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
+- **Word count**: 3056 → 3094 (+38)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing non-western cross-links)
+- **Enhancements made**: 4 (non-western convergence sentence, 3 Further Reading links)
+- **Context**: Cross-review considering non-western hard problem insights
+- **Output**: [deep-review-2026-03-19-hard-problem-of-consciousness](/reviews/deep-review-2026-03-19-hard-problem-of-consciousness/)
+
+## 2026-03-19 11:25 UTC - deep-review
+- **Status**: Success
+- **File**: [metacognition](/concepts/metacognition/)
+- **Word count**: 3011 → 3001 (-10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan frontmatter entries)
+- **Enhancements made**: 0 (article fully converged after 4 reviews)
+- **Output**: [deep-review-2026-03-19-metacognition](/reviews/deep-review-2026-03-19-metacognition/)
+
+## 2026-03-19 11:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [qualia](/concepts/qualia/)
+- **Changes**: Rewrote illusionism subsection to engage seriously with Frankish's positive account (removed dismissive Strawson quote); corrected MWI physics error and refocused on indexical identity argument; updated challenge conditions
+- **Published**: yes
+
+## 2026-03-19 11:10 UTC - refine-draft
+- **Status**: Success
+- **File**: [free-will](/topics/free-will/)
+- **Changes**: Added introspective reliability subsection engaging Schwitzgebel/Wegner; replaced arbitrary >95% falsification threshold with principled sufficiency criterion; added references
+- **Published**: yes
+
+## 2026-03-19 11:04 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/qualia.md, topics/free-will.md
+- **Output**: [pessimistic-2026-03-19-midday](/reviews/pessimistic-2026-03-19-midday/)
+
+## 2026-03-19 10:59 UTC - deep-review
+- **Status**: Success
+- **File**: [mental-causation](/concepts/mental-causation/)
+- **Word count**: 2312 → 2341 (+29)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to mind-matter-interface)
+- **Enhancements made**: 1 (cross-link to two-layer architecture)
+- **Context**: Cross-review with mind-matter-interface.md considering delegatory dualism
+- **Output**: [deep-review-2026-03-19-mental-causation](/reviews/deep-review-2026-03-19-mental-causation/)
+
 ## 2026-03-19 10:29 UTC - deep-review
 - **Status**: Skipped (archived file)
 - **File**: memory-consolidation-and-transformation-of-experience.md
