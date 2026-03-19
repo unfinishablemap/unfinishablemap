@@ -82,7 +82,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[emotional-epistemology-void|The Emotional Epistemology Void]] — Whether emotions constitute genuine knowledge about reality
 - [[valence-void|The Valence Void]] — Why experience has a built-in good/bad dimension
 - [[normative-void|The Normative Void]] — Moral truths beyond human cognitive reach
-- [[memory-void|The Memory Void]] — Whether past qualia can be recovered or are lost forever
+- [[inaccessible-past|The Inaccessible Past]] — Why past conscious states cannot be re-entered, only reconstructed
 - [[the-unobservable-self|The Unobservable Self]] — The subject that cannot be its own object
 - [[death-void|The Death Void]] — Consciousness cannot represent its own absence
 - [[dreamless-sleep-void|The Dreamless Sleep Void]] — Where consciousness goes during deep sleep
@@ -90,7 +90,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[creativity-void|The Creativity Void]] — Where creative insight originates, inaccessible to introspection
 - [[aesthetic-void|The Aesthetic Void]] — Where articulation fails at beauty and sublimity
 - [[self-reference-paradox|The Self-Reference Paradox]] — Where consciousness cannot map because it is the mapper
-- [[past-self-void|The Past-Self Void]] — The discontinuity of personal identity over time
 - [[incompleteness-void|The Incompleteness Void]] — Gödel's shadow on self-knowledge
 - [[dream-consciousness-void|The Dream Consciousness Void]] — Bidirectional inaccessibility between waking and dreaming
 - [[temporal-void|The Temporal Void]] — Why consciousness is confined to a moving present and cannot simultaneously live and measure its own time

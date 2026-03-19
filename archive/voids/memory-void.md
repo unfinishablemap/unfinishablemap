@@ -31,6 +31,11 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated: null
+archived: true
+archived_date: 2026-03-19T12:31:00+00:00
+superseded_by: "/voids/inaccessible-past/"
+archive_reason: "Coalesced into The Inaccessible Past"
+original_path: "/voids/memory-void/"
 ---
 
 When you remember yesterday's sunset, do you access the original experience or construct a new one? The Unfinishable Map's other temporal voids—the [[past-self-void|past-self void]] concerning identity over time, the [[temporal-void|temporal asymmetry]] concerning the structural difference between memory and anticipation—both presuppose that past experience is inaccessible. This article examines a more fundamental question: do past qualia still exist somewhere to be accessed, or are they gone the instant experience passes? The memory void concerns the fate of phenomenal content itself.

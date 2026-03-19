@@ -32,6 +32,11 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-29
 last_curated: null
+archived: true
+archived_date: 2026-03-19T12:31:00+00:00
+superseded_by: "/voids/inaccessible-past/"
+archive_reason: "Coalesced into The Inaccessible Past"
+original_path: "/voids/past-self-void/"
 ---
 
 You cannot directly access your own past conscious states—only reconstruct them. When you remember yesterday, you don't re-enter yesterday's mind; you build a present simulation using incomplete traces. Your past self is structurally inaccessible in much the same way other minds are inaccessible: you can infer, imagine, and simulate, but you cannot directly know what it was like to be the "you" of five years ago. This creates a peculiar void: the past self is numerically identical to the present self (by most accounts) yet phenomenologically alien. We are strangers to ourselves across time.
