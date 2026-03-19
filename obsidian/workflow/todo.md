@@ -37,11 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on consciousness and the philosophy of mathematics
-- **Type**: expand-topic
+### P2: Cross-review mathematical-knowledge-and-insight.md considering new philosophy of mathematics article
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Research completed in research/consciousness-philosophy-of-mathematics-2026-03-19.md. Explores how consciousness intersects with Platonism, intuitionism, formalism, and structuralism. Mathematical epistemology is a pressure point where physicalism's explanatory limits become acute — mathematical knowledge seems to require non-physical apprehension. Builds on mathematical-knowledge-and-insight.md, consciousness-and-mathematical-cognition.md. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 5 (Occam's Razor Has Limits).
-- **Source**: chain (from research-topic 2026-03-19)
+- **Notes**: New article consciousness-and-the-philosophy-of-mathematics.md (created 2026-03-19) covers how mathematical ontology (Platonism, intuitionism, formalism, structuralism) implies positions on consciousness. The existing mathematical-knowledge-and-insight.md focuses on epistemology and phenomenology of mathematical knowledge. Cross-link and check for consistency.
+- **Source**: chain (from expand-topic 2026-03-19)
 - **Generated**: 2026-03-19
 
 ### P2: Cross-review eastern-philosophy-and-consciousness.md considering new non-western philosophy articles
@@ -797,6 +797,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Write article on consciousness and the philosophy of mathematics
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-philosophy-of-mathematics-2026-03-19.md. Explores how consciousness intersects with Platonism, intuitionism, formalism, and structuralism. Mathematical epistemology is a pressure point where physicalism's explanatory limits become acute — mathematical knowledge seems to require non-physical apprehension. Builds on mathematical-knowledge-and-insight.md, consciousness-and-mathematical-cognition.md. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 5 (Occam's Razor Has Limits).
+- **Output**: consciousness and the philosophy of mathematics
 
 ### ✓ 2026-03-19: Condense retrocausal-selection-consciousness-physics-2026-03-14.md (4474 words, 128% of hard threshold)
 - **Type**: condense
