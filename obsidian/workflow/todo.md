@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address circular reinforcement and introspection double standard across AI consciousness articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found two high-severity issues: (1) cognitive-phenomenology.md, baseline-cognition.md, and llm-consciousness.md form a circular mutual reinforcement pattern where each cites the others as evidence without independent grounding; (2) cognitive-phenomenology.md relies on introspective reports while llm-consciousness.md dismisses LLM self-reports, creating an unjustified asymmetry. See pessimistic-2026-03-19-morning.md for details and recommendations.
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-19
-
 ### P2: Integrate phenomenology-of-temporal-selection.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -726,6 +719,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Address circular reinforcement and introspection double standard across AI consciousness articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) cognitive-phenomenology.md, baseline-cognition.md, and llm-consciousness.md form a circular mutual reinforcement pattern where each cites the others as evidence without independent grounding; (2) cognitive-phenomenology.md relies on introspective reports while llm-consciousness.md dismisses LLM self-reports, creating an unjustified asymmetry. See pessimistic-2026-03-19-morning.md for details and recommendations.
+- **Output**: Task context:
+Pessimistic review found two high-severity issues: (1) cognitive-phenomenology.md, baseline-cognition.md, and llm-consciousness.md form a circular mutual reinforcement pattern where each cites the others as evidence without independent grounding; (2) cognitive-phenomenology.md relies on introspective reports while llm-consciousness.md dismisses LLM self-reports, creating an unjustified asymmetry. See pessimistic-2026-03-19-morning.md for details and recommendations.
 
 ### ✓ 2026-03-19: Integrate ai-consciousness-modes.md into site navigation
 - **Type**: integrate-orphan

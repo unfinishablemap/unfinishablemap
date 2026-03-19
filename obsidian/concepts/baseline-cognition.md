@@ -4,7 +4,7 @@ description: "Baseline cognition is what neural systems achieve without consciou
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-19T07:16:00+00:00
+ai_modified: 2026-03-19T07:33:00+00:00
 last_deep_review: 2026-03-04T11:07:00+00:00
 draft: false
 topics:
@@ -88,7 +88,7 @@ This corresponds to the second consciousness-requiring function: *novel combinat
 
 ## What Baseline Cognition Cannot Achieve
 
-The human-ape intelligence gap isn't random. Great apes show systematic limitations in capacities tied to conscious processing.
+The human-ape intelligence gap isn't random. Great apes show systematic limitations in capacities tied to conscious processing—or so the Map argues. This claim is a hypothesis, not an established fact. Neural explanations exist for each capacity discussed below: prefrontal cortex expansion, increased long-range connectivity, and enhanced synaptic density could account for working memory gains, metacognitive capacity, and language without invoking non-physical consciousness. The Map finds these explanations incomplete—they describe the neural *correlates* of the gap without explaining why these particular neural changes produce qualitatively different cognitive operations—but the neural alternative deserves serious engagement, not dismissal.
 
 A 2025 meta-analysis (Randeniya) dramatically revised the scope of unconscious processing: only 10% of claimed unconscious effects survive rigorous methodological scrutiny. This matters because the "baseline cognition" hypothesis predicts exactly this pattern—if baseline cognition represents what neural processing achieves without consciousness, we should expect genuinely unconscious processing to be far more limited than previously assumed. The [[conscious-vs-unconscious-processing]] evidence converges with comparative cognition: both approaches reveal consciousness is functionally necessary for specific operations.
 
@@ -96,7 +96,7 @@ A 2025 meta-analysis (Randeniya) dramatically revised the scope of unconscious p
 
 ### Working Memory Capacity (Durable Maintenance)
 
-Chimpanzee working memory holds approximately 2±1 items compared to human 7±2 (Miller's limit). This three-to-four-fold expansion enables qualitatively different cognitive operations. With 2 items, you can compare A to B. With 7 items, you can hold A, B, C, D while tracking their relationships, considering E and F as alternatives, and keeping the goal G in mind.
+Chimpanzee working memory holds approximately 2±1 items. Human capacity is debated: Miller's classic 7±2 has been revised downward by Cowan (2001) to 4±1 when rehearsal is prevented. Even the more conservative two-fold gap enables qualitatively different cognitive operations. With 2 items, you can compare A to B. With 4-7 items, you can hold multiple elements while tracking their relationships, considering alternatives, and keeping the goal in mind.
 
 If [[working-memory]] depends on conscious access (as [[global-workspace-theory|Global Workspace Theory]] proposes), the capacity expansion implies expanded consciousness. The additional slots aren't just storage—they're workspace for manipulation, comparison, and flexible combination.
 
@@ -176,7 +176,7 @@ The baseline cognition framework supports the [[tenets#^bidirectional-interactio
 2. Capacities requiring conscious processing should be absent or severely limited
 3. The gap should track consciousness-dependent operations specifically
 
-This is what we observe. Great apes excel within baseline cognition and fail systematically where consciousness appears required. The simplest explanation: consciousness does the amplifying work. [[delegatory-dualism|Delegatory dualism]] provides the causal structure for how this works without overdetermination: physical brain states [[causal-delegation|delegate]] their causal responsibilities to conscious experiences, which then do the actual causing through [[preemption]] rather than redundant dual causation.
+This is what we observe. Great apes excel within baseline cognition and fail systematically where consciousness appears required. One explanation consistent with this evidence: consciousness does the amplifying work. [[delegatory-dualism|Delegatory dualism]] provides the causal structure for how this works without overdetermination: physical brain states [[causal-delegation|delegate]] their causal responsibilities to conscious experiences, which then do the actual causing through [[preemption]] rather than redundant dual causation.
 
 ## The Illusionist Challenge
 
@@ -202,7 +202,9 @@ This connects to [[minimal-consciousness|minimal consciousness]] research. Consc
 
 ## Implications for AI
 
-The baseline cognition framework has implications for [[ai-consciousness|artificial intelligence]]. Current AI systems excel at pattern recognition, statistical correlation, and domain-specific performance—precisely the capacities baseline cognition handles.
+The baseline cognition framework has implications for [[ai-consciousness|artificial intelligence]], though readers should note the interdependence: this article's claims about consciousness-dependent capacities inform the [[llm-consciousness]] analysis, while that article's treatment of AI limitations draws on the categories developed here. The arguments are mutually supporting rather than independently established—a feature that strengthens the overall framework if the empirical evidence holds but means weaknesses in either article propagate to the other.
+
+Current AI systems excel at pattern recognition, statistical correlation, and domain-specific performance—the capacities baseline cognition handles.
 
 What AI struggles with—genuine flexibility across domains, metacognitive monitoring that improves with feedback, counterfactual reasoning about unprecedented situations, cumulative improvement through deliberate innovation—are the capacities tied to consciousness in the human-ape comparison.
 
@@ -276,6 +278,7 @@ The baseline cognition hypothesis could be undermined by:
 
 ## References
 
+1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. De Neys, W. (2012). Bias and conflict: A case for logical intuitions. *Perspectives on Psychological Science*, 7(1), 28-38.
 1. Dehaene, S., & Changeux, J.-P. (2011). Experimental and theoretical approaches to conscious processing. *Neuron*, 70(2), 200-227.
 1. Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
@@ -292,3 +295,17 @@ The baseline cognition hypothesis could be undermined by:
 1. Völter, C.J., et al. (2023). Great ape cognition is structured by stable cognitive abilities that are robust against cognitive load. *Nature Scientific Reports*, 13, 3808.
 1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 1. Whiten, A., et al. (2010). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 365(1558), 2405-2415.
+
+<!-- AI REFINEMENT LOG - 2026-03-19
+Changes made:
+- Added paragraph acknowledging neural explanations (PFC expansion, connectivity) as serious alternatives to consciousness-based account of human-ape gap
+- Updated working memory figures: noted Cowan (2001) revision of Miller's 7±2 to 4±1, adjusted qualitative claims accordingly
+- Added Cowan (2001) to references
+- Changed "The simplest explanation" to "One explanation consistent with this evidence"
+- Added explicit acknowledgment of interdependence between this article and llm-consciousness.md in AI implications section
+
+Based on pessimistic-2026-03-19-morning.md findings (Issues 1 and 4).
+Key improvements: breaks circular reinforcement, engages neural alternatives, corrects overstated empirical claim.
+
+This log should be removed after human review.
+-->
