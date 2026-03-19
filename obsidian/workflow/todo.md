@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review mental-causation.md considering interaction problem in non-western philosophy
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article the-interaction-problem-in-non-western-philosophy.md (created 2026-03-19) offers non-western perspectives on how consciousness causally interacts with the physical. The core mental-causation.md concept page may benefit from cross-references to these alternative frameworks and any reinforcing arguments.
-- **Source**: chain (from expand-topic 2026-03-19)
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review hard-problem-of-consciousness.md considering non-western philosophy insights
 - **Type**: cross-review
 - **Status**: pending
@@ -782,6 +775,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review mental-causation.md considering interaction problem in non-western philosophy
+- **Type**: cross-review
+- **Notes**: New article the-interaction-problem-in-non-western-philosophy.md (created 2026-03-19) offers non-western perspectives on how consciousness causally interacts with the physical. The core mental-causation.md concept page may benefit from cross-references to these alternative frameworks and any reinforcing arguments.
+- **Output**: obsidian/concepts/mental-causation.md -- Context: Cross-review mental-causation.md considering interaction problem in non-western philosophy
 
 ### ✓ 2026-03-19: Update references to coalesced predictive processing articles
 - **Type**: cross-review

@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-19T10:59:00+00:00
+ai_modified: 2026-03-19T13:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,6 +36,7 @@ concepts:
   - "[[observational-closure]]"
   - "[[bandwidth-problem-mental-causation]]"
   - "[[bandwidth-of-consciousness]]"
+  - "[[cross-cultural-convergence-on-mental-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[arguments/epiphenomenalism-argument]]"
@@ -44,7 +45,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-03-19T10:59:00+00:00
+last_deep_review: 2026-03-19T13:25:00+00:00
 ---
 
 Mental causation — one of the central problems in [[philosophy-of-mind|philosophy of mind]] — is the thesis that mental states cause physical effects. When you decide to raise your arm, your decision causes the arm to rise. When pain motivates avoidance, the pain causes the avoidance. This seems obvious from experience but faces a formidable challenge: Jaegwon Kim's exclusion argument, which concludes that mental properties are either physical or causally inert. The Unfinishable Map's quantum framework provides a response: consciousness causes physical effects at points where physics is genuinely incomplete.
@@ -130,7 +131,7 @@ The exclusion argument assumes event causation — events causing events accordi
 
 E.J. Lowe argued that all causation is fundamentally [[agent-causation#The Metaphysical Foundation: Substance Causation|substance causation]]. The conscious subject causes actions not as one event producing another but as an agent exercising powers. If consciousness is a substance with genuine causal powers operating at quantum indeterminacies, the exclusion argument's framework doesn't apply. The phenomenology of [[mental-effort|mental effort]] supports this: effort feels like *doing* something, not observing correlated events.
 
-Whitehead's process philosophy offers a complementary reframing: "actual occasions" exercise self-determination in constituting themselves from their causal inheritance. If all causation involves experiential self-determination, human mental causation exemplifies what causation fundamentally is. See [[interaction-problem-across-traditions]] for how process solutions form one of five recurring types across philosophical traditions.
+Whitehead's process philosophy offers a complementary reframing: "actual occasions" exercise self-determination in constituting themselves from their causal inheritance. If all causation involves experiential self-determination, human mental causation exemplifies what causation fundamentally is. See [[interaction-problem-across-traditions]] for how process solutions form one of five recurring types across philosophical traditions. The [[cross-cultural-convergence-on-mental-causation|cross-cultural convergence]] on mental causation — Indian, African, and Western traditions independently concluding that consciousness is causally efficacious — provides further evidential support for the interactionist position.
 
 ### The Interface Question
 
@@ -205,6 +206,7 @@ Mental causation, as defended here, is falsifiable:
 - [[concepts/epiphenomenalism]] — The view denying mental causation
 - [[emergence]] — Mental causation as strong emergence with mechanism
 - [[agent-causation]] — Agent causation as substance causation
+- [[cross-cultural-convergence-on-mental-causation]] — Indian, African, and Western traditions independently converge on consciousness as causally efficacious
 - [[bandwidth-problem-mental-causation]] — Whether the mind-body channel carries enough information
 - [[pain-consciousness-and-causal-power]] — Pain: phenomenal character inseparable from causal power
 - [[content-specificity-of-mental-causation]] — Meaning determines which physical effect occurs
