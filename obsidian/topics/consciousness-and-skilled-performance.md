@@ -1,10 +1,10 @@
 ---
 title: "Consciousness and Skilled Performance"
-description: "Skill acquisition, mastery, flow, and restructuring reveal consciousness as causal architect—building procedural systems, withdrawing into effortless oversight, achieving frictionless selection in flow, and painfully re-entering when skills must change."
+description: "Skill acquisition reveals consciousness as causal architect—building procedural systems, achieving frictionless flow, and re-engaging when skills must change."
 created: 2026-02-02
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-18T22:42:00+00:00
+ai_modified: 2026-03-19T16:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -53,7 +53,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-02-22T01:04:00+00:00
+last_deep_review: 2026-03-19T16:42:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-skill-and-the-lived-body/"
   - "/topics/paradox-of-effortless-mastery/"
@@ -111,7 +111,7 @@ Csikszentmihalyi's research (1975, 1990) identified a convergent experiential pr
 
 ### Flow as Evidence Against the Deflationary Reading
 
-The claim that flow is simply [[implicit-memory|automatised processing]] faces several problems. **Adaptiveness**: the jazz musician in flow generates novel phrases responsive to an unrepeatable context, exceeding documented capabilities of procedural memory. **The choking contrast**: conscious re-engagement *destroys* flow performance — and specifically disrupts skilled performance while leaving unskilled performance unaffected, suggesting flow and explicit monitoring are incompatible *modes* of engagement. **Phenomenal richness**: subjects report flow as among the most intensely conscious moments of their lives — if consciousness had withdrawn, why is experience so vivid? **Memory formation**: flow produces rich episodic memories resembling consciously encoded episodes, not the fragmented traces of unreflective high-arousal states.
+The claim that flow is simply [[implicit-memory|automatised processing]] faces several problems. **Adaptiveness**: the jazz musician in flow generates novel phrases responsive to an unrepeatable context — a degree of creative adaptation that strains standard accounts of procedural memory. **The choking contrast**: conscious re-engagement *destroys* flow performance — and specifically disrupts skilled performance while leaving unskilled performance unaffected, suggesting flow and explicit monitoring are incompatible *modes* of engagement. **Phenomenal richness**: subjects report flow as among the most intensely conscious moments of their lives — if consciousness had withdrawn, why is experience so vivid? **Memory formation**: flow produces rich episodic memories resembling consciously encoded episodes, not the fragmented traces of unreflective high-arousal states.
 
 ### The Selection Framework and Flow
 
