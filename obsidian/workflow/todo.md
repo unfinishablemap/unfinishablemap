@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review causal-closure.md considering causal-closure-debate-historical-survey insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/causal-closure-debate-historical-survey.md provides detailed historical context (Broad, Kim, Papineau, Lowe) that may strengthen or refine the existing concept page concepts/causal-closure.md. Check for cross-links, updated citations, and consistency.
-- **Source**: chain (from causal-closure-debate-historical-survey.md)
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review qm-interpretations-beyond-many-worlds.md considering probability-problem-in-many-worlds insights
 - **Type**: cross-review
 - **Status**: pending
@@ -861,6 +854,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review causal-closure.md considering causal-closure-debate-historical-survey insights
+- **Type**: cross-review
+- **Notes**: New article topics/causal-closure-debate-historical-survey.md provides detailed historical context (Broad, Kim, Papineau, Lowe) that may strengthen or refine the existing concept page concepts/causal-closure.md. Check for cross-links, updated citations, and consistency.
+- **Output**: obsidian/concepts/causal-closure.md -- Context: Cross-review causal-closure.md considering causal-closure-debate-historical-survey insights
 
 ### ✓ 2026-03-19: Write voids article on the commensurability void
 - **Type**: expand-topic
