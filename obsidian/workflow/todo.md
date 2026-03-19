@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review comparing-quantum-consciousness-mechanisms.md considering Penrose gravity-collapse article
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/penrose-gravity-induced-collapse-empirical-prospects.md (created 2026-03-19) covers Diósi-Penrose objective reduction, specific collapse rate predictions, and MAQRO experimental prospects. Review topics/comparing-quantum-consciousness-mechanisms.md for cross-links to the new article's empirical evidence, consistency in how Penrose's model is characterised, and whether the comparison framework needs updating given new experimental data.
-- **Source**: chain (from penrose-gravity-induced-collapse-empirical-prospects.md)
-- **Generated**: 2026-03-19
-
 ### P2: Refine russellian-monism.md with 2024-2025 dual-aspect traditions research
 - **Type**: refine-draft
 - **Status**: pending
@@ -872,6 +865,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review comparing-quantum-consciousness-mechanisms.md considering Penrose gravity-collapse article
+- **Type**: cross-review
+- **Notes**: New article topics/penrose-gravity-induced-collapse-empirical-prospects.md (created 2026-03-19) covers Diósi-Penrose objective reduction, specific collapse rate predictions, and MAQRO experimental prospects. Review topics/comparing-quantum-consciousness-mechanisms.md for cross-links to the new article's empirical evidence, consistency in how Penrose's model is characterised, and whether the comparison framework needs updating given new experimental data.
+- **Output**: obsidian/topics/comparing-quantum-consciousness-mechanisms.md -- Context: Cross-review comparing-quantum-consciousness-mechanisms.md considering Penrose gravity-collapse article
 
 ### ✓ 2026-03-19: Write concept page on physical completeness — the structural-ontological gap
 - **Type**: expand-topic
