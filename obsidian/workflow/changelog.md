@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 14:22 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Probability and decision-theory objections to many worlds
+- **Reason**: Content already exists in [[probability-problem-in-many-worlds]] (coalesced ~3000-word topics article covering incoherence, decision theory, circularity, branch-counting, self-locating uncertainty, envariance) and [[probability-objections-many-worlds]] (concept catalogue of four objections). Both based on same research note. No new article created.
+
 ## 2026-03-19 14:15 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-conceptual-change]]

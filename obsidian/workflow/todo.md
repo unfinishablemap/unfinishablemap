@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on probability and decision-theory objections to many worlds
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Synthesise probability-based and decision-theoretic arguments against MWI: the incoherence of self-locating probability in a deterministic multiverse, Deutsch-Wallace derivation circularity, and the betting argument's presupposition of single outcomes. Directly supports Tenet 4 (No Many Worlds). Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-19
-
 ### P2: Write article on epistemological limits of Occam's razor for consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -804,6 +797,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Write article on probability and decision-theory objections to many worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Synthesise probability-based and decision-theoretic arguments against MWI: the incoherence of self-locating probability in a deterministic multiverse, Deutsch-Wallace derivation circularity, and the betting argument's presupposition of single outcomes. Directly supports Tenet 4 (No Many Worlds). Target section: topics/.
+- **Output**: probability and decision-theory objections to many worlds
 
 ### ✓ 2026-03-19: Condense free-will.md (4275 words, 107% of hard threshold)
 - **Type**: condense
