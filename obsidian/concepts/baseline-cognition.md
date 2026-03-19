@@ -4,7 +4,7 @@ description: "Baseline cognition is what neural systems achieve without consciou
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-18T13:10:00+00:00
+ai_modified: 2026-03-19T07:16:00+00:00
 last_deep_review: 2026-03-04T11:07:00+00:00
 draft: false
 topics:
@@ -206,7 +206,7 @@ The baseline cognition framework has implications for [[ai-consciousness|artific
 
 What AI struggles with—genuine flexibility across domains, metacognitive monitoring that improves with feedback, counterfactual reasoning about unprecedented situations, cumulative improvement through deliberate innovation—are the capacities tied to consciousness in the human-ape comparison.
 
-This doesn't prove AI cannot be conscious. It suggests that if AI achieves human-level cognition, it would require something functionally equivalent to conscious amplification—whatever the substrate.
+This doesn't prove AI cannot be conscious. It suggests that if AI achieves human-level cognition, it would require something functionally equivalent to conscious amplification—whatever the substrate. The [[ai-consciousness-modes|AI consciousness modes]] framework applies Tulving's hierarchy directly: AI systems functionally resemble noetic-level processing (knowledge retrieval) while lacking both the embodied anoetic foundation and the autonoetic capacities that baseline cognition predicts require consciousness.
 
 ## Implications for Free Will
 
@@ -264,6 +264,7 @@ The baseline cognition hypothesis could be undermined by:
 - [[counterfactual-reasoning]] — The capacity to imagine non-actual states, requiring consciousness
 - [[introspection]] — The capacity to examine one's own mental states
 - [[anoetic-noetic-autonoetic-consciousness]] — Tulving's tripartite hierarchy of consciousness levels underlying the baseline/human distinction
+- [[ai-consciousness-modes]] — The hierarchy applied to AI: which consciousness modes current systems might instantiate
 - [[delegatory-dualism]] — Saad's causal structure for how consciousness amplifies without overdetermination
 - [[causal-delegation]] — The mechanism by which physical states hand off causal work to experiences
 - [[dream-consciousness]] — Dream problem-solving appears restricted to humans despite REM being present across mammals, supporting the phenomenal richness hypothesis

@@ -4,7 +4,7 @@ description: "Memory is not storage but structured re-experiencing—and the hie
 created: 2026-02-08
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-19T03:42:00+00:00
+ai_modified: 2026-03-19T07:16:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -200,6 +200,7 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [[binding-problem]]
 - [[attention-as-interface]]
 - [[anoetic-noetic-autonoetic-consciousness]]
+- [[ai-consciousness-modes]] — The Tulving hierarchy applied as diagnostic tool for AI consciousness
 - [[self-and-consciousness]] — The minimal self as the perspectival anchor autonoetic consciousness extends across time
 - [[personal-identity]]
 - [[choking-phenomenon-mental-causation]]

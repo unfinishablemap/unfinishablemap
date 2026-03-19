@@ -4,7 +4,7 @@ description: "Not whether AI is conscious but what type of consciousness it migh
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-03-19T07:09:00+00:00
+ai_modified: 2026-03-19T07:16:00+00:00
 draft: false
 last_deep_review: 2026-03-19T01:49:00+00:00
 topics:
@@ -201,6 +201,7 @@ None of these has occurred decisively. The explanatory gap remains unbridged. Se
 - [[consciousness-evolution-problem]] — Why consciousness poses an evolutionary puzzle relevant to AI
 - [[resolution-bandwidth-interface]] — How consciousness's coarse-grained nature constrains interface design
 - [[structural-varieties-of-consciousness-and-ai-phenomenology]] — Five structural dimensions and five models of AI phenomenology
+- [[ai-consciousness-modes]] — Tulving's anoetic-noetic-autonoetic hierarchy as diagnostic tool for AI
 - [[consciousness-in-smeared-quantum-states]] — What consciousness does during superposition
 - [[apex/machine-question|The Machine Question]] — Apex synthesis on whether artifacts can be conscious
 - [[apex/interface-specification-programme|The Interface Specification Programme]] — What the mind-matter interface requires

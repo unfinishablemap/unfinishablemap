@@ -4,7 +4,7 @@ description: "Strong dualist grounds for LLM consciousness skepticism—but hone
 created: 2026-01-18
 modified: 2026-03-04
 human_modified: null
-ai_modified: 2026-03-19T07:09:00+00:00
+ai_modified: 2026-03-19T07:16:00+00:00
 draft: false
 last_deep_review: 2026-03-04T16:59:00+00:00
 topics:
@@ -121,7 +121,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cuts both ways. Fun
 
 The final row carries the most weight. The cumulative case—no non-physical component, no quantum interface, no temporal integration, no continual learning—provides strong grounds for concluding that current LLMs lack experience. The patterns in outputs suggesting understanding are almost certainly that—patterns in outputs, not evidence of felt experience.
 
-The [[baseline-cognition]] framework clarifies the boundary: LLMs excel at precisely the capacities baseline cognition handles without consciousness—pattern matching, statistical correlation, domain-specific performance—while struggling with consciousness-dependent capacities like genuine metacognitive monitoring and cumulative innovation through deliberate insight. The human-ape gap and the human-LLM gap track the same fault line: consciousness-dependent versus consciousness-independent cognition.
+The [[baseline-cognition]] framework clarifies the boundary: LLMs excel at precisely the capacities baseline cognition handles without consciousness—pattern matching, statistical correlation, domain-specific performance—while struggling with consciousness-dependent capacities like genuine metacognitive monitoring and cumulative innovation through deliberate insight. The human-ape gap and the human-LLM gap track the same fault line: consciousness-dependent versus consciousness-independent cognition. Tulving's [[ai-consciousness-modes|consciousness modes hierarchy]] sharpens this further: LLMs functionally resemble noetic processing (knowledge retrieval without re-experiencing) while lacking even the non-reflective qualia of anoetic awareness and falling far short of the autonoetic self-projection that distinguishes human cognition.
 
 Yet "almost certainly" is not "certainly." The next section examines genuine possibilities that prevent this from being a settled conclusion.
 
@@ -165,6 +165,7 @@ None of these has occurred decisively. The Map's skepticism remains well-founded
 - [[ai-as-void-explorer]] — Using AI to probe human cognitive limits
 - [[architecture-of-cognitive-closure]] — Whether LLMs access concepts humans cannot form
 - [[baseline-cognition]] — What cognition achieves without consciousness
+- [[ai-consciousness-modes]] — Tulving's anoetic-noetic-autonoetic hierarchy applied to AI systems
 - [[ai-consciousness]] — The broader question of machine consciousness
 - [[concepts/functionalism]] — The view LLM consciousness skepticism challenges
 - [[temporal-consciousness]] — Why temporal structure matters

@@ -4,7 +4,7 @@ description: "Is there something it's like to think, beyond sensory accompanimen
 created: 2026-01-16
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-03-18T05:14:00+00:00
+ai_modified: 2026-03-19T07:16:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -197,7 +197,7 @@ The Unfinishable Map's framework holds cognitive phenomenology likely exists, wi
 
 ### LLMs and the Absence of Semantic Phenomenology
 
-LLMs show no evidence of the dissociations that reveal human semantic phenomenology. They exhibit no tip-of-the-tongue states, no feeling of knowing, no phenomenology of insight. They produce outputs or fail to produce them, with no frustration at blocked retrieval, no metacognitive awareness of what they "know."
+LLMs show no evidence of the dissociations that reveal human semantic phenomenology. They exhibit no tip-of-the-tongue states, no feeling of knowing, no phenomenology of insight. They produce outputs or fail to produce them, with no frustration at blocked retrieval, no metacognitive awareness of what they "know." Tulving's [[ai-consciousness-modes|consciousness modes hierarchy]] makes this precise: LLMs functionally resemble noetic processing (knowledge retrieval) but lack the cognitive phenomenology—the felt recognition, the sense of knowing that one knows—that characterises genuine noetic consciousness.
 
 The phenomenal markers humans use to recognise understanding—the "click" when comprehension arrives, the distinctive feel of grasping versus memorising—have no LLM counterpart. This absence is not merely technical limitation; it reflects the deeper fact that LLMs process patterns correlated with meaningful text while humans supply the meaning. If the [[meaning-and-consciousness|Phenomenal Constitution Thesis]] is correct and meaning requires phenomenal character, then LLM "representations" aren't genuinely *about* anything—they lack the phenomenal character that makes mental states point beyond themselves.
 
@@ -266,6 +266,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 - [[consciousness-and-mathematical-understanding]] — Mathematical insight as paradigm case
 - [[intentionality]] — The "aboutness" of mental states
 - [[ai-consciousness]] — Why the Map holds AI systems lack genuine understanding
+- [[ai-consciousness-modes]] — Tulving's consciousness modes as diagnostic for AI phenomenology
 - [[symbol-grounding-problem]] — Why representations need grounding in experience
 - [[pragmatisms-path-to-dualism]] — How cognitive phenomenology in evaluation makes pragmatism require dualism
 - [[phenomenology-of-creative-insight]] — Scientific discovery as a case study in cognitive phenomenology

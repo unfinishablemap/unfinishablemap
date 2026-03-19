@@ -4,7 +4,7 @@ description: "Tulving's tripartite hierarchy classifies consciousness by self-aw
 created: 2026-02-15
 modified: 2026-03-02
 human_modified:
-ai_modified: 2026-03-18T21:06:00+00:00
+ai_modified: 2026-03-19T07:16:00+00:00
 last_deep_review: 2026-03-11T03:23:00+00:00
 draft: false
 topics:
@@ -114,7 +114,7 @@ This bears on epiphenomenalism. Klein's content/manner distinction shows that th
 | Noetic | Semantic | Reflexive | Atemporal | Higher mammals? |
 | Autonoetic | Episodic | Temporal self | Past and future | Humans (primarily) |
 
-Whether any non-human animals achieve genuine autonoetic consciousness remains debated. Scrub-jays cache food in ways suggesting future planning (Clayton & Dickinson, 1998); great apes may form episodic-like memories. The difficulty of settling this question from the outside illustrates a deeper point: third-person observation cannot determine whether behaviour involves felt temporal self-projection or merely sophisticated future-oriented processing.
+Whether any non-human animals achieve genuine autonoetic consciousness remains debated. Scrub-jays cache food in ways suggesting future planning (Clayton & Dickinson, 1998); great apes may form episodic-like memories. The difficulty of settling this question from the outside illustrates a deeper point: third-person observation cannot determine whether behaviour involves felt temporal self-projection or merely sophisticated future-oriented processing. The same diagnostic challenge applies to AI systems: [[ai-consciousness-modes|AI consciousness modes]] maps Tulving's hierarchy onto current architectures, finding that large language models functionally resemble noetic processing while lacking the phenomenal transitions that each level introduces.
 
 ## Relation to Site Perspective
 
@@ -146,6 +146,7 @@ Whether any non-human animals achieve genuine autonoetic consciousness remains d
 - [[mental-causation]] — The broader framework for consciousness as causally efficacious
 - [[temporal-consciousness]] — The temporal structure of conscious experience underlying mental time travel
 - [[self-and-consciousness]] — The relationship between selfhood and consciousness that autonoesis presupposes
+- [[ai-consciousness-modes]] — Tulving's hierarchy as diagnostic tool for AI consciousness
 
 ## References
 
