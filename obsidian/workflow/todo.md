@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine russellian-monism.md with 2024-2025 dual-aspect traditions research
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md and supplement research/russellian-monism-vs-bi-aspectual-dualism-2026-03-17.md contains extensive 2024-2025 material on cosmopsychism, quantum Russellian monism (Hashemi), and Brown's "Russellian physicalism" variants that should strengthen the existing concepts/russellian-monism.md page. Update the article to engage with these contemporary developments and sharpen the distinction from the Map's bi-aspectual dualism.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-19
-
 ### P2: Write concept page on mathematical structure of the consciousness-physics interface
 - **Type**: expand-topic
 - **Status**: pending
@@ -865,6 +858,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Refine russellian-monism.md with 2024-2025 dual-aspect traditions research
+- **Type**: refine-draft
+- **Notes**: Research in research/russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md and supplement research/russellian-monism-vs-bi-aspectual-dualism-2026-03-17.md contains extensive 2024-2025 material on cosmopsychism, quantum Russellian monism (Hashemi), and Brown's "Russellian physicalism" variants that should strengthen the existing concepts/russellian-monism.md page. Update the article to engage with these contemporary developments and sharpen the distinction from the Map's bi-aspectual dualism.
+- **Output**: obsidian/concepts/russellian-monism.md
+
+Task context:
+Research in research/russellian-monism-vs-bi-aspectual-dualism-2026-03-14.md and supplement research/russellian-monism-vs-bi-aspectual-dualism-2026-03-17.md contains extensive 2024-2025 material on cosmopsychism, quantum Russellian monism (Hashemi), and Brown's "Russellian physicalism" variants that should strengthen the existing concepts/russellian-monism.md page. Update the article to engage with these contemporary developments and sharpen the distinction from the Map's bi-aspectual dualism.
 
 ### ✓ 2026-03-19: Update references to coalesced IIT articles
 - **Type**: cross-review

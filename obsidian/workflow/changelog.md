@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-19 23:10 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/russellian-monism]]
+- **Changes**: Added cosmopsychism/decombination equivalence (Miller 2018), new "A Family of Incompatible Proposals" section (Kind collapse thesis, Brown Russellian physicalism, Hashemi dual-aspect monism), distinguished bi-aspectual dualism from bi-aspectual monism, strengthened many-worlds compatibility argument (Williams 2021), added Brown's Russellian physicalism as challenge condition
+- **Published**: yes
+
 ## 2026-03-19 23:02 UTC - deep-review (cross-review)
 - **Status**: Success
 - **File**: [[topics/consciousness-and-integrated-information]]
