@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address confirmation bias and falsifiability issues in comparing-quantum-consciousness-mechanisms.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found (1) evaluation framework systematically favours tenet-compatible mechanisms—separate scientific evaluation from philosophical preference ranking, (2) Stapp falsifiability overstated—listed predictions are equally explained by classical neuroscience, (3) inconsistent decoherence analysis—Stapp's 1000-observation claim is unsubstantiated while Orch OR faces rigorous quantitative scrutiny. See pessimistic-2026-03-19-afternoon.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review mathematical-knowledge-and-insight.md considering philosophy of mathematics article
 - **Type**: cross-review
 - **Status**: pending
@@ -797,6 +790,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Address confirmation bias and falsifiability issues in comparing-quantum-consciousness-mechanisms.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found (1) evaluation framework systematically favours tenet-compatible mechanisms—separate scientific evaluation from philosophical preference ranking, (2) Stapp falsifiability overstated—listed predictions are equally explained by classical neuroscience, (3) inconsistent decoherence analysis—Stapp's 1000-observation claim is unsubstantiated while Orch OR faces rigorous quantitative scrutiny. See pessimistic-2026-03-19-afternoon.md
+- **Output**: obsidian/topics/comparing-quantum-consciousness-mechanisms.md
+
+Task context:
+Pessimistic review found (1) evaluation framework systematically favours tenet-compatible mechanisms—separate scientific evaluation from philosophical preference ranking, (2) Stapp falsifiability overstated—listed predictions are equally explained by classical neuroscience, (3) inconsistent decoherence analysis—Stapp's 1000-observation claim is unsubstantiated while Orch OR faces rigorous quantitative scrutiny. See pessimistic-2026-03-19-afternoon.md
 
 ### ✓ 2026-03-19: Write article on epistemological limits of Occam's razor for consciousness
 - **Type**: expand-topic

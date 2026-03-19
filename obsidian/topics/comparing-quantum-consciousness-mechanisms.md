@@ -4,7 +4,7 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-18T23:52:00+00:00
+ai_modified: 2026-03-19T14:43:00+00:00
 last_deep_review: 2026-02-22T10:11:00+00:00
 draft: false
 topics:
@@ -41,13 +41,18 @@ Four serious proposals compete to explain how consciousness interfaces with quan
 
 ## Evaluation Criteria
 
-Five criteria structure this comparison:
+This comparison evaluates each mechanism along two independent dimensions — scientific standing and philosophical fit — which must be assessed separately. A mechanism's scientific merit does not depend on whether it aligns with any particular philosophical framework, and tenet compatibility does not substitute for empirical support.
+
+**Scientific criteria** (independent of the Map's commitments):
 
 1. **Decoherence vulnerability** — Does the mechanism require sustained quantum coherence in warm neural tissue, or can it operate through discrete events that sidestep the [[timing-gap-problem|timing gap]]?
 2. **Phenomenological fit** — Does the mechanism's structure match what consciousness actually feels like: effortful attention, unified experience, the willed/automatic distinction?
-3. **Tenet alignment** — How well does the mechanism satisfy all five of the Map's commitments, particularly [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]?
-4. **Empirical status** — What experimental evidence supports (or constrains) the proposal as of 2025?
-5. **Falsifiability** — Does the mechanism generate predictions that could distinguish it from competitors?
+3. **Empirical status** — What experimental evidence supports (or constrains) the proposal as of 2025?
+4. **Falsifiability** — Does the mechanism generate predictions that could distinguish it from competitors and from classical alternatives?
+
+**Philosophical criterion** (specific to the Map):
+
+5. **Tenet alignment** — How well does the mechanism satisfy all five of the Map's commitments, particularly [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]? This criterion reflects the Map's philosophical preferences, not scientific merit. A mechanism that scores poorly here may still be scientifically strong, and vice versa.
 
 ## Orch OR: Gravitational Collapse in Microtubules
 
@@ -67,7 +72,7 @@ Penrose and Hameroff propose that tubulin proteins in microtubules sustain quant
 
 Henry Stapp proposes that consciousness operates through orthodox quantum mechanics. Multiple neural firing patterns exist in superposition; mental effort acts as repeated quantum observation, exploiting the Zeno effect to hold desired patterns stable. No new physics is required — the mechanism uses standard von Neumann quantum mechanics with the observer-system boundary placed within the brain.
 
-**Decoherence vulnerability: Low.** This is the Zeno model's decisive advantage. It requires only discrete observation events, not sustained coherence. Each observation is effectively instantaneous; the accumulated effect of ~1000 observations over a 300ms window biases which neural pattern actualises. Decoherence between observations doesn't invalidate the mechanism — it simply resets the state, and the next observation re-engages. The 2024 demonstration that biological systems use the quantum Zeno effect (cryptochrome radical pairs, Denton et al.) provides direct precedent.
+**Decoherence vulnerability: Low.** This is the Zeno model's structural advantage. It requires only discrete observation events, not sustained coherence. Each observation is effectively instantaneous; the accumulated effect of repeated observations over a ~300ms attentional window biases which neural pattern actualises. Stapp estimates the required observation rate at roughly 1000 observations per 300ms (Stapp 2007), but this figure is not derived from independent physical constraints — it is the rate needed for Zeno freezing to be effective, essentially a parameter chosen to make the model work. Without independent justification for why consciousness would observe at this rate rather than faster or slower, the claim remains a modelling assumption rather than a prediction. Decoherence between observations doesn't invalidate the mechanism in principle — it simply resets the state, and the next observation re-engages — though Georgiev and Glazebrook's Monte Carlo critique (2015) questions whether this re-engagement remains effective at biological decoherence rates. The 2024 demonstration that biological systems use the quantum Zeno effect (cryptochrome radical pairs, Denton et al.) provides precedent for Zeno dynamics in biology, though in a system (magnetoreception) quite different from neural decision-making.
 
 **Phenomenological fit: Strong.** The model predicts exactly what attention feels like: sustained effort, continuous re-engagement, fatigue from prolonged concentration. William James observed that "sustained voluntary attention is a repetition of successive efforts" — precisely the phenomenology the Zeno mechanism predicts. The willed/automatic distinction maps naturally: willed attention requires conscious observation (high Zeno rate), while automatic processes proceed without it. Schwartz's neuroplasticity findings — OCD patients reshaping brain circuits through directed mental effort — provide empirical support for the phenomenological prediction.
 
@@ -75,7 +80,7 @@ Henry Stapp proposes that consciousness operates through orthodox quantum mechan
 
 **Empirical status: Indirect but consistent.** No experiment has directly demonstrated the Zeno mechanism in neural tissue. However, evidence consistent with the model accumulates from multiple directions: biological Zeno precedent (cryptochrome, though for magnetoreception rather than consciousness), neural signatures distinguishing willed from instructed attention (frontal theta, bidirectional frontoparietal coherence), and neuroplasticity from directed effort. Each line of evidence is also consistent with classical explanations — the convergence is suggestive, not confirmatory. Georgiev and Glazebrook's Monte Carlo critique (2015) questions whether Zeno remains robust beyond brain decoherence timescales unless consciousness acts globally — an open question.
 
-**Falsifiability: Strong.** The model predicts: willed and instructed attention should show distinct neural signatures (confirmed); effort phenomenology should track cognitive difficulty (confirmed); neuroplasticity should require conscious engagement (supported but not definitive). If the willed/instructed distinction proved artifactual, or if neuroplasticity occurred equally under anaesthesia, the model would face serious difficulty.
+**Falsifiability: Moderate.** The model predicts that willed and instructed attention show distinct neural signatures (confirmed), that effort phenomenology tracks cognitive difficulty (confirmed), and that neuroplasticity requires conscious engagement (supported but not definitive). However, these predictions are equally consistent with classical neuroscience — standard attentional models also predict distinct willed/instructed signatures and effort-difficulty correlation without invoking quantum mechanics. The model currently lacks predictions that would distinguish Zeno-mediated attention from classical attentional mechanisms. If the willed/instructed distinction proved artifactual, or if neuroplasticity occurred equally under anaesthesia, the model would face serious difficulty — but these tests would challenge classical attention theories equally. A genuinely discriminating test would need to detect the specific quantum signature of repeated rapid observations, which current technology cannot achieve.
 
 ## Fisher's Nuclear Spin Hypothesis: Posner Molecule Entanglement
 
@@ -107,21 +112,30 @@ Rather than proposing a specific neural mechanism, hybrid models combine spontan
 
 ## Comparative Summary
 
+**Scientific evaluation:**
+
 | Criterion | Orch OR | Stapp Zeno | Fisher | CSL-IIT Hybrid |
 |-----------|---------|------------|--------|----------------|
 | Decoherence vulnerability | High | Low | Very low | N/A |
 | Phenomenological fit | Partial | Strong | Weak | Framework-dependent |
-| Tenet alignment | Mixed (MQI conflict) | Strong (all five) | Partial (dualism unclear) | Strong (all five) |
 | Empirical evidence | Growing, contested | Indirect, consistent | Early stage | Physical part constrained |
-| Falsifiability | Moderate (shrinking space) | Strong | Good | Split (physics yes, consciousness no) |
+| Falsifiability | Moderate (shrinking space) | Moderate (predictions classically explicable) | Good | Split (physics yes, consciousness no) |
+
+**Philosophical evaluation** (Map-specific):
+
+| Criterion | Orch OR | Stapp Zeno | Fisher | CSL-IIT Hybrid |
+|-----------|---------|------------|--------|----------------|
+| Tenet alignment | Mixed (MQI conflict) | Strong (all five) | Partial (dualism unclear) | Strong (all five) |
 
 ## What the Comparison Reveals
 
-Three patterns emerge from this evaluation.
+Three patterns emerge from the scientific evaluation; a fourth emerges when tenet alignment is considered separately.
 
 **The decoherence divide.** Mechanisms divide sharply into those requiring sustained coherence (Orch OR) and those operating through discrete events or modified dynamics (Stapp, Fisher, CSL hybrids). The decoherence objection, while not the decisive blow critics once claimed, still differentially constrains proposals. Mechanisms that sidestep it entirely hold a structural advantage.
 
 **Phenomenology matters.** Theories of consciousness should explain what consciousness is like, not merely where it acts. Stapp's model uniquely predicts the effortful character of attention, the willed/automatic distinction, and the temporal grain of experience. Other proposals explain that consciousness plays a causal role without explaining why that role has the phenomenological character it does. A complete theory must eventually address both.
+
+**The falsifiability gap.** None of the four mechanisms currently generates predictions that cleanly distinguish it from classical neuroscience. Orch OR's parameter space is shrinking, which is genuinely falsifiable — but the other proposals' confirmed predictions (attention signatures, effort-difficulty correlation) are equally consistent with non-quantum accounts. Fisher's proposal comes closest to unique predictions (lithium isotope effects, Posner molecule detection), though these test the physical substrate rather than the consciousness interface.
 
 **No single mechanism suffices.** Each proposal illuminates different aspects of the consciousness-quantum interface. Stapp explains the phenomenology of effort. Orch OR connects consciousness to spacetime structure. Fisher demonstrates that biological quantum effects can persist at relevant timescales. CSL hybrids solve the prebiotic problem and satisfy minimality. The Map's agnosticism about specific mechanisms reflects genuine uncertainty — but also the possibility that the full picture requires elements from multiple proposals.
 
@@ -131,7 +145,7 @@ The Unfinishable Map's [[tenets]] do not commit to any single quantum consciousn
 
 The Map's framework does, however, constrain the space of acceptable mechanisms. [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] rules against proposals requiring macroscopic quantum coherence or panpsychist commitments — a tension Orch OR must address. [[tenets#^bidirectional-interaction|Bidirectional Interaction]] requires that consciousness genuinely causes physical effects — ruling out proposals where consciousness is merely correlated with quantum processes. [[tenets#^no-many-worlds|No Many Worlds]] requires that collapse is real, not apparent.
 
-Within these constraints, Stapp's Zeno model and consciousness-modulated spontaneous collapse emerge as the most tenet-compatible approaches — both [[non-retrocausal-conscious-selection-models|non-retrocausal conscious selection]] frameworks that act forward in time. Stapp provides the phenomenological depth; CSL hybrids provide the physical framework. These are not competitors but potentially complementary: Stapp's mechanism could describe *how* consciousness modulates collapse (through attentional observation), while CSL provides the baseline collapse dynamics that consciousness modulates. The [[coupling-modes]] framework — basis control, timing control, probability control — provides vocabulary for specifying what such integration would require.
+Within these constraints, Stapp's Zeno model and consciousness-modulated spontaneous collapse emerge as the most tenet-compatible approaches — both [[non-retrocausal-conscious-selection-models|non-retrocausal conscious selection]] frameworks that act forward in time. Tenet compatibility is a philosophical preference, not a scientific verdict: these models fit the Map's commitments better, but that does not make them more likely to be physically correct. Stapp provides the phenomenological depth; CSL hybrids provide the physical framework. These are not competitors but potentially complementary: Stapp's mechanism could describe *how* consciousness modulates collapse (through attentional observation), while CSL provides the baseline collapse dynamics that consciousness modulates. The [[coupling-modes]] framework — basis control, timing control, probability control — provides vocabulary for specifying what such integration would require.
 
 The Map's position is that *some* quantum consciousness mechanism exists, constrained by the tenets. Which mechanism is correct — or whether the correct mechanism has yet to be proposed — remains genuinely open.
 
@@ -173,3 +187,18 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness. *Neuroscience of Consciousness*, 2025(1), niaf011.
+
+<!-- AI REFINEMENT LOG - 2026-03-19
+Changes made:
+- Separated evaluation criteria into scientific (decoherence, phenomenology, empirical, falsifiability) and philosophical (tenet alignment) dimensions with explicit framing
+- Downgraded Stapp falsifiability from "Strong" to "Moderate" — predictions are equally consistent with classical neuroscience
+- Added critical scrutiny to Stapp's ~1000 observations claim — identified as modelling assumption, not independently derived
+- Added "falsifiability gap" subsection to What the Comparison Reveals
+- Split comparative summary table into scientific and philosophical evaluations
+- Added explicit disclaimer in Relation to Site Perspective that tenet compatibility ≠ scientific verdict
+
+Based on pessimistic review (pessimistic-2026-03-19-afternoon.md).
+Key improvements: intellectual honesty about the separation between scientific merit and philosophical preference.
+
+This log should be removed after human review.
+-->

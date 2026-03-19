@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 14:43 UTC - refine-draft
+- **Status**: Success
+- **File**: [[comparing-quantum-consciousness-mechanisms]]
+- **Changes**: Separated scientific/philosophical evaluation criteria, downgraded Stapp falsifiability to Moderate, added critical scrutiny to ~1000 observations claim, added falsifiability gap analysis, split summary table
+- **Published**: yes
+
 ## 2026-03-19 14:35 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/comparing-quantum-consciousness-mechanisms.md
