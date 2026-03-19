@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File created 2026-03-18 has no inbound links. Topics article on lucid dreaming as evidence for consciousness-side rendering capability. Add cross-references from related articles (lucid-dreaming-as-capability-evidence, dream-problem-solving-and-conscious-influence, consciousness-and-dreaming, filter-theory).
-- **Source**: orphan_integration
-- **Generated**: 2026-03-19
-
 ### P3: Deep review methodological-pluralism.md
 - **Type**: deep-review
 - **Status**: pending
@@ -679,6 +672,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-18 has no inbound links. Topics article on lucid dreaming as evidence for consciousness-side rendering capability. Add cross-references from related articles (lucid-dreaming-as-capability-evidence, dream-problem-solving-and-conscious-influence, consciousness-and-dreaming, filter-theory).
+- **Output**: lucid-dreaming-and-mind-side-rendering.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-19: Integrate amplification-mechanisms-consciousness-physics.md into site navigation
 - **Type**: integrate-orphan

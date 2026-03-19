@@ -4,7 +4,7 @@ description: "Memory is not storage but structured re-experiencing—and the hie
 created: 2026-02-08
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T23:05:00+00:00
+ai_modified: 2026-03-19T03:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -156,7 +156,7 @@ Sleep consolidation suggests the consciousness-brain interface has distinct mode
 
 **REM mode**: Partial interface re-engagement. Vivid phenomenal experience returns, but without metacognitive control. This may serve emotional memory processing—the interface provides enough engagement for affective colouring without the executive oversight that would interfere with emotional integration.
 
-**Lucid REM mode**: Fuller interface engagement within the sleeping brain. Metacognitive awareness returns; the dreamer can exercise intentional control. This demonstrates the interface is not simply switched on or off by sleep architecture—it can be variably engaged, and its engagement can be trained.
+**Lucid REM mode**: Fuller interface engagement within the sleeping brain. Metacognitive awareness returns; the dreamer can exercise intentional control. [[lucid-dreaming-and-dualist-rendering|Lucid dreaming evidence]] demonstrates the interface is not simply switched on or off by sleep architecture—it can be variably engaged, and its engagement can be trained.
 
 The graduated nature of these modes complicates materialist identification of consciousness with any single neural process. Consciousness modulates continuously, with different components engaging and disengaging independently—suggesting not one thing but a family of capacities, each with its own relationship to the neural substrate.
 

@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-18T21:14:00+00:00
+ai_modified: 2026-03-19T03:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -133,7 +133,7 @@ Quantum mechanics describes systems in superposition until measured. What causes
 
 **Orchestrated Objective Reduction (Orch OR)**: Penrose and Hameroff propose consciousness originates in quantum computations within microtubules, with collapse events constituting conscious experience itself.
 
-Both proposals share what the Map requires: consciousness biasing otherwise indeterminate outcomes without violating physical law.
+Both proposals share what the Map requires: consciousness biasing otherwise indeterminate outcomes without violating physical law. [[lucid-dreaming-and-dualist-rendering|Lucid dreaming]] provides phenomenological evidence for this kind of biasing — the dreamer's conscious intentions reshape neural activity in real time, with the degree of control varying in ways consistent with selection within physical constraints.
 
 ## Selection, Biasing, and Falsifiability
 

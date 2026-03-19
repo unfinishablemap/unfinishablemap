@@ -4,7 +4,7 @@ description: "Memory operates across both physical and non-physical domains—en
 created: 2026-03-09
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-09T14:11:00+00:00
+ai_modified: 2026-03-19T03:42:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-memory]]"
@@ -64,7 +64,7 @@ The constructive memory paradigm—the view that remembering is reconstruction r
 
 The Map reads the evidence differently—but not by simply asserting that "something must do the constructing," since a physicalist can say the same thing with neural mechanisms filling that role. The deeper point is about what *kind* of constructing is involved. Physical reconstruction can reassemble propositional content—the facts of what happened, when, and where. What it cannot straightforwardly produce is the *phenomenal unity* of the reconstructed episode: the way disparate fragments cohere into a single felt experience with temporal depth, emotional texture, and a first-person perspective. A neural network can combine activation patterns; the question is why that combination feels like *re-inhabiting a past moment* rather than merely processing correlated signals.
 
-The constructive nature of memory therefore does not prove dualism on its own—but it opens a space that purely physical accounts struggle to fill. The more active and reconstructive retrieval is, the more the process requires not just information assembly but phenomenal binding: the unification of fragments into a coherent experience. This is where the Map's [[tenets#^bidirectional-interaction|bidirectional interaction]] tenet applies. Consciousness does not merely observe recalled content—it contributes the phenomenal dimension that transforms assembled information into lived recall. The goal-directedness of retrieval, the top-down modulation of reconsolidation, and the phenomenal unification of disparate fragments into a felt episode all suggest a contribution that exceeds what physical recombination provides.
+The constructive nature of memory therefore does not prove dualism on its own—but it opens a space that purely physical accounts struggle to fill. The more active and reconstructive retrieval is, the more the process requires not just information assembly but phenomenal binding: the unification of fragments into a coherent experience. [[lucid-dreaming-and-dualist-rendering|Lucid dreaming]] demonstrates this binding capacity at its most dramatic — consciousness assembles coherent multisensory worlds from neural activation patterns without any sensory input to guide the assembly. This is where the Map's [[tenets#^bidirectional-interaction|bidirectional interaction]] tenet applies. Consciousness does not merely observe recalled content—it contributes the phenomenal dimension that transforms assembled information into lived recall. The goal-directedness of retrieval, the top-down modulation of reconsolidation, and the phenomenal unification of disparate fragments into a felt episode all suggest a contribution that exceeds what physical recombination provides.
 
 ## The Quantum Interface
 

@@ -4,7 +4,7 @@ description: "Interactionist dualism must specify which capabilities belong to t
 created: 2026-03-09
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-15T16:49:00+00:00
+ai_modified: 2026-03-19T03:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -72,7 +72,7 @@ The capability division problem is not confined to visual perception. Wherever t
 
 **Memory.** Physical engrams encode information, but recall involves autonoetic re-experiencing, selectional guidance during reconstruction, and phenomenal colouring that no trace can carry. The [[memory-as-dual-domain-capability|dual-domain capability]] framework makes the division explicit: the brain handles storage and replay; consciousness handles the phenomenal dimension of remembering — the *what it was like* that distinguishes episodic recall from mere data retrieval.
 
-**Dreams.** During REM sleep, consciousness generates immersive experiential worlds while sensory input is suppressed and neural architecture reorganises. [[dream-consciousness|Dream consciousness]] demonstrates that the brain provides representational tools (the rendering engine) while consciousness contributes phenomenal engagement, and the relative contributions shift across waking, non-lucid dreaming, and lucid states.
+**Dreams.** During REM sleep, consciousness generates immersive experiential worlds while sensory input is suppressed and neural architecture reorganises. [[dream-consciousness|Dream consciousness]] demonstrates that the brain provides representational tools (the rendering engine) while consciousness contributes phenomenal engagement, and the relative contributions shift across waking, non-lucid dreaming, and [[lucid-dreaming-and-dualist-rendering|lucid states]].
 
 **Sensorimotor engagement.** [[sensorimotor-contingencies-and-the-interface|Sensorimotor contingency theory]] maps the interface's operational grammar — the lawful patterns linking movement to sensation. Brain-side processing masters these contingencies; mind-side contribution supplies the phenomenal character that accompanies mastery.
 
