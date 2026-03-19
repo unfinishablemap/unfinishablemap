@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review hard-problem-of-consciousness.md considering non-western hard problem insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/the-hard-problem-in-non-western-philosophy.md (created 2026-03-19) shows Indian, Buddhist, and Islamic traditions engaged with consciousness irreducibility before Chalmers. Review topics/hard-problem-of-consciousness.md for cross-links to non-western antecedents, opportunities to strengthen the universality of the hard problem claim, and consistency in how the problem is framed across traditions.
-- **Source**: chain (from the-hard-problem-in-non-western-philosophy.md)
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review eastern-philosophy-and-consciousness.md considering interaction problem across traditions
 - **Type**: cross-review
 - **Status**: pending
@@ -772,6 +765,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review hard-problem-of-consciousness.md considering non-western hard problem insights
+- **Type**: cross-review
+- **Notes**: New article topics/the-hard-problem-in-non-western-philosophy.md (created 2026-03-19) shows Indian, Buddhist, and Islamic traditions engaged with consciousness irreducibility before Chalmers. Review topics/hard-problem-of-consciousness.md for cross-links to non-western antecedents, opportunities to strengthen the universality of the hard problem claim, and consistency in how the problem is framed across traditions.
+- **Output**: obsidian/topics/hard-problem-of-consciousness.md -- Context: Cross-review hard-problem-of-consciousness.md considering non-western hard problem insights
 
 ### ✓ 2026-03-19: Strengthen illusionism engagement and fix MWI physics in qualia.md
 - **Type**: refine-draft
