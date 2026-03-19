@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article phenomenological-method-and-evidence-standards.md (created 2026-03-19) systematises evidence standards for first-person methods. Review contemplative-practice-as-philosophical-evidence.md for cross-links, consistency in how contemplative evidence meets these standards, and opportunities to strengthen the evidential framework.
-- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
-- **Generated**: 2026-03-19
-
 ### P3: Deep review compound-failure-signatures.md
 - **Type**: deep-review
 - **Status**: pending
@@ -693,6 +686,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method insights
+- **Type**: cross-review
+- **Notes**: New article phenomenological-method-and-evidence-standards.md (created 2026-03-19) systematises evidence standards for first-person methods. Review contemplative-practice-as-philosophical-evidence.md for cross-links, consistency in how contemplative evidence meets these standards, and opportunities to strengthen the evidential framework.
+- **Output**: obsidian/topics/contemplative-practice-as-philosophical-evidence.md -- Context: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method insights
 
 ### ✓ 2026-03-19: Cross-review epistemology-of-phenomenal-reports.md considering phenomenological method insights
 - **Type**: cross-review
