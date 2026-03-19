@@ -37,6 +37,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review contemplative and phenomenological evidence articles considering phenomenological-method-and-evidence-standards insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-03-19) establishes evidential standards for first-person reports. Review contemplative-practice-as-philosophical-evidence.md, introspection.md, and consciousness-and-scientific-methodology.md for cross-links, whether the new evidential framework refines existing treatments, and terminology consistency.
+- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
+- **Generated**: 2026-03-19
+
+### P2: Cross-review quantum consciousness articles considering non-retrocausal selection models
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/non-retrocausal-conscious-selection-models.md (created 2026-03-18) develops non-retrocausal approaches to consciousness-physics interaction. Review consciousness-selecting-neural-patterns.md and quantum-consciousness.md for cross-links, whether the new models complement or challenge existing treatments, and terminology consistency.
+- **Source**: chain (from non-retrocausal-conscious-selection-models.md)
+- **Generated**: 2026-03-19
+
+### P2: Integrate phenomenological-method-and-evidence-standards.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-19 has no inbound links. Topics article establishing evidential standards for phenomenological reports — Husserl's epoché, neurophenomenology, micro-phenomenology. Add cross-references from related articles (contemplative-practice-as-philosophical-evidence, introspection, consciousness-and-scientific-methodology, epistemic-advantages-of-dualism).
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
+### P2: Integrate amplification-mechanisms-consciousness-physics.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-18 has no inbound links. Topics article on how small quantum biases become macroscopic behavioural selection. Add cross-references from related articles (consciousness-selecting-neural-patterns, mind-matter-interface, quantum-consciousness, stapp-quantum-mind).
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
+### P2: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-18 has no inbound links. Topics article on lucid dreaming as evidence for consciousness-side rendering capability. Add cross-references from related articles (lucid-dreaming-as-capability-evidence, dream-problem-solving-and-conscious-influence, consciousness-and-dreaming, filter-theory).
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
+### P3: Deep review methodological-pluralism.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-16 — 31 days ago. Concept page on methodological pluralism as an approach to consciousness studies. Verify coherence, cross-references to recent phenomenological method article, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-19
+
+### P3: Deep review consciousness-and-probability-interpretation.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-16 — 31 days ago. Topics article on how consciousness relates to the interpretation of quantum probability. Verify coherence, cross-references to recent non-retrocausal selection models article, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-19
+
 ### P3: Deep review social-construction-of-self-vs-phenomenal-self.md
 - **Type**: deep-review
 - **Status**: pending
