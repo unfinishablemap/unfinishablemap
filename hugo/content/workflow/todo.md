@@ -38,24 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate neural-refresh-rates.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File created 2026-03-18 has no inbound links. Concept page on neural refresh rates and the smoothness problem — how discrete neural processing yields continuous phenomenal experience. Add cross-references from related articles (smoothness-problem.md, temporal-consciousness.md, binding-problem.md, consciousness-selecting-neural-patterns.md).
-- **Source**: orphan_integration
-- **Generated**: 2026-03-19
-
-### P2: Condense baseline-cognition.md (3682 words, 105% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about baseline cognition as the substrate for consciousness-dependent amplification while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-19
-
-### P2: Condense temporal-structure-of-consciousness.md (4043 words, 101% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Created from recent coalesce operation. Preserve core arguments about temporal structure while trimming redundancy with linked temporal consciousness articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review voids articles considering self-transcendence void insights
 - **Type**: cross-review
 - **Notes**: New void article voids/self-transcendence-void.md (created 2026-03-19) develops the impossibility of fully transcending the self while remaining a subject. Review taxonomy-of-voids.md (apex) and observation-void.md for cross-links, whether the self-transcendence void adds a new dimension to the taxonomy, and consistency with existing void phenomenology treatments.
@@ -741,8 +723,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The reflexive insight from explanatory-gap.md — explanation cannot explain itself because the feeling of understanding is a conscious state. Powerful enough for its own page with connections to self-reference, Godel incompleteness, and cognitive closure. Target section: concepts/. See optimistic-2026-03-19.md
 - **Generated**: 2026-03-19
 
+### P3: Create concept page for interface friction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Why some conscious selections require effort and others flow spontaneously. Mentioned in spontaneous-intentional-action.md but deserves systematic development explaining the phenomenology of cognitive effort through the interface model. Connects to attention-as-interface, choking-phenomenon, flow states. Target section: concepts/. See optimistic-2026-03-19.md
+- **Generated**: 2026-03-19
+
+### P3: Create concept page for contemplative divergence problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Why cross-traditional phenomenological convergence coexists with metaphysical divergence. Addresses the strongest objection to the convergence argument in contemplative-practice-as-philosophical-evidence.md. Are traditions describing different experiential strata, or is there genuine phenomenological variation glossed by the convergence narrative? Target section: concepts/. See optimistic-2026-03-19.md
+- **Generated**: 2026-03-19
+
+### P3: Write synthesis on bidirectional causation as converging evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Draw together the Map's strongest empirical evidence for Tenet 3 into a single cumulative argument: contemplative neuroplasticity, lucid dream intention-responsiveness, spontaneous action endorsement micro-moments, framework-inhabitation in philosophical disagreement. Could be apex-level synthesis. Target section: topics/ or apex/. See optimistic-2026-03-19.md
+- **Generated**: 2026-03-19
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Condense temporal-structure-of-consciousness.md (4043 words, 101% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Created from recent coalesce operation. Preserve core arguments about temporal structure while trimming redundancy with linked temporal consciousness articles. See /condense skill.
+- **Output**: obsidian/topics/temporal-structure-of-consciousness.md
+
+### ✓ 2026-03-19: Condense baseline-cognition.md (3682 words, 105% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about baseline cognition as the substrate for consciousness-dependent amplification while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/baseline-cognition.md
+
+### ✓ 2026-03-19: Integrate neural-refresh-rates.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-18 has no inbound links. Concept page on neural refresh rates and the smoothness problem — how discrete neural processing yields continuous phenomenal experience. Add cross-references from related articles (smoothness-problem.md, temporal-consciousness.md, binding-problem.md, consciousness-selecting-neural-patterns.md).
+- **Output**: obsidian/concepts/neural-refresh-rates.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-19: Integrate self-transcendence-void.md into site navigation
 - **Type**: integrate-orphan

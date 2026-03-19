@@ -18,6 +18,38 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 08:30 UTC - condense
+- **Status**: Success
+- **File**: [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
+- **Before**: 4043 words
+- **After**: 2987 words
+- **Reduction**: 26%
+- **Technique**: Tightened prose throughout, merged Missing Link and Temporal Binding sections, condensed Spatial Binding distinction, trimmed Disrupted Integration examples, compressed Constitutional Thesis and Relation to Site Perspective
+
+## 2026-03-19 08:23 UTC - condense
+- **Status**: Success
+- **File**: [baseline-cognition](/concepts/baseline-cognition/)
+- **Before**: 3682 words
+- **After**: 2492 words
+- **Reduction**: 32%
+- **Technique**: Removed tangential Contemplative Perspectives section; trimmed Social Cognition (removed empathy table, condensed ToM levels); tightened opening, working memory, metacognition, counterfactual, illusionist sections; reduced Further Reading from 19 to 10 entries; tightened Relation to Site Perspective
+
+## 2026-03-19 08:14 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full collection (225 topics, 211 concepts, 1 tenets, 18 apex, ~105 voids)
+- **Strengths identified**: Predictive processing under dualism as natural fit, void ecology maturation (compound failure signatures + self-transcendence void), phenomenological programme generating novel arguments (degradation asymmetry, framework inhabitation, authorship-without-effort)
+- **Tasks added**: 3 P3 expansion tasks (interface friction concept, contemplative divergence problem, bidirectional causation synthesis)
+- **Output**: [optimistic-2026-03-19](/reviews/optimistic-2026-03-19/)
+
+## 2026-03-19 08:08 UTC - deep-review
+- **Status**: Success
+- **File**: [neural-refresh-rates](/concepts/neural-refresh-rates/)
+- **Word count**: 1256 → 1256 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 5 inbound cross-references added from grain-mismatch, temporal-consciousness, phenomenology-of-temporal-attention, the-binding-problem-a-systematic-treatment, phenomenology-of-temporal-selection
+- **Output**: [deep-review-2026-03-19-neural-refresh-rates](/reviews/deep-review-2026-03-19-neural-refresh-rates/)
+
 ## 2026-03-19 07:59 UTC - deep-review
 - **Status**: Success
 - **File**: [self-transcendence-void](/voids/self-transcendence-void/)

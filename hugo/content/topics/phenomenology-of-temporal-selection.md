@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-19 07:39:00+00:00
+ai_modified: 2026-03-19 08:08:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -118,6 +118,7 @@ The experience of "too late" may be one of the most direct phenomenal contacts w
 - [motor-selection](/concepts/motor-selection/)
 - [bergson-and-duration](/topics/bergson-and-duration/)
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
+- [neural-refresh-rates](/concepts/neural-refresh-rates/) — The discrete oscillatory cycles within which timing windows operate
 - [timing-gap-problem](/concepts/timing-gap-problem/)
 - [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/)
 

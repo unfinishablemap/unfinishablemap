@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-19 07:33:00+00:00
+ai_modified: 2026-03-19 08:23:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -12,7 +12,6 @@ concepts:
 - '[[topics/consciousness-and-social-cognition]]'
 - '[[consciousness-as-amplifier]]'
 - '[[working-memory]]'
-- '[[metacognition]]'
 - '[[metacognition]]'
 - '[[cumulative-culture]]'
 - '[[global-workspace-theory]]'
@@ -53,11 +52,11 @@ topics:
 - '[[ai-consciousness]]'
 ---
 
-Baseline cognition is what neural systems achieve without substantial conscious contribution—sophisticated information processing that operates within the constraints of modular, domain-specific mechanisms. Great apes exemplify baseline cognition: tool use, social reasoning, emotional complexity, procedural metacognition, and cultural traditions—all without the metarepresentational capacities that distinguish human intelligence. If consciousness were removed from humans, the remaining cognitive architecture might resemble great ape cognition—powerful but bounded.
+Baseline cognition is what neural systems achieve without substantial conscious contribution—sophisticated information processing operating within the constraints of modular, domain-specific mechanisms. Great apes exemplify it: tool use, social reasoning, emotional complexity, procedural metacognition, and cultural traditions—all without the metarepresentational capacities distinguishing human intelligence.
 
-The term "consciousness" here means primarily *phenomenal consciousness*—the subjective, qualitative character of experience, what philosophers call "something it is like" to be in a mental state. The claim is not merely that great apes lack certain information-processing capacities (access consciousness) but that the qualitative dimension of human experience enables cognitive operations that great apes cannot perform. This distinction matters: functionalist accounts might grant apes sophisticated access consciousness while denying the phenomenal amplification this article describes.
+"Consciousness" here means primarily *phenomenal consciousness*—the qualitative character of experience—not merely information-processing capacity ([access-consciousness](/concepts/access-consciousness/)). The claim is that phenomenal experience enables cognitive operations great apes cannot perform, even if functionalist accounts grant apes sophisticated access consciousness.
 
-The Unfinishable Map proposes that consciousness doesn't add computational power (neurons handle computation) but *amplifies* baseline cognition through flexible deployment, metacognitive monitoring, and counterfactual reasoning. This article characterises the starting point; [Consciousness as Intelligence Amplifier](/concepts/consciousness-as-amplifier/) details how consciousness transforms it. Understanding what baseline cognition can and cannot achieve clarifies what consciousness contributes—and provides evidence against [epiphenomenalism](/concepts/epiphenomenalism/), since the human-ape gap tracks precisely those capacities where consciousness appears causally required.
+The Unfinishable Map proposes that consciousness *amplifies* baseline cognition through flexible deployment, metacognitive monitoring, and counterfactual reasoning—without adding computational power. This article characterises the starting point; [Consciousness as Intelligence Amplifier](/concepts/consciousness-as-amplifier/) details the transformation. Understanding what baseline cognition can and cannot achieve clarifies what consciousness contributes—and provides evidence against [epiphenomenalism](/concepts/epiphenomenalism/), since the human-ape gap tracks precisely those capacities where consciousness appears causally required.
 
 ## What Baseline Cognition Achieves
 
@@ -72,7 +71,7 @@ Chimpanzees, bonobos, and gorillas show:
 - **Emotional complexity**: Grief responses, consolation behaviours, apparent empathy, play, and individual personality differences.
 - **Problem-solving**: Insight-like behaviour in novel situations, means-ends reasoning, basic planning for immediate goals.
 
-This isn't "mere" instinct. Great ape cognition is flexible, learned, and varies between individuals and populations. Völter et al. (2023) confirmed that great ape cognition consists of stable, measurable traits robust against cognitive load, while Miyamoto et al. (2023) showed these abilities develop in response to experience—a coherent cognitive architecture, not reflexive responding.
+This isn't "mere" instinct—it is flexible, learned, and varies between individuals and populations. Völter et al. (2023) confirmed stable, measurable cognitive traits robust against cognitive load; Miyamoto et al. (2023) showed these abilities develop in response to experience.
 
 ### Procedural Metacognition
 
@@ -84,39 +83,27 @@ A chimpanzee might *feel* uncertain and look for more information, but (the hypo
 
 Tomasello (2010) characterises ape innovation as occurring within the "zone of latent solutions"—the space of behaviours achievable by recombining existing cognitive resources. Apes can discover uses for tools their species hasn't discovered before, but only if those uses are accessible through trial-and-error exploration without requiring insight that transcends current representations.
 
-Human innovation differs: we generate genuinely novel solutions by explicitly representing problems, considering multiple approaches, and systematically modifying existing methods. This requires metarepresentation—taking our existing solutions as objects of thought to evaluate and improve.
+Human innovation differs: we generate genuinely novel solutions by explicitly representing problems and systematically modifying existing methods—metarepresentation that takes current solutions as objects of thought.
 
-This corresponds to the second consciousness-requiring function: *novel combinations of operations*. [Research on global workspace](/concepts/conscious-vs-unconscious-processing/) shows that conscious access enables information to be broadcast across distant brain regions, allowing multiple specialized processors to be chained in novel sequences. Great apes' restriction to the zone of latent solutions reflects their inability to flexibly recombine learned procedures—precisely what happens when information remains local to individual modules without the global broadcast that consciousness provides.
+This corresponds to the second consciousness-requiring function: *novel combinations of operations*. [Global workspace research](/concepts/conscious-vs-unconscious-processing/) shows conscious access broadcasts information across distant brain regions, allowing specialised processors to chain in novel sequences. Great apes' restriction to the zone of latent solutions reflects their inability to flexibly recombine learned procedures without this global broadcast.
 
 ## What Baseline Cognition Cannot Achieve
 
-The human-ape intelligence gap isn't random. Great apes show systematic limitations in capacities tied to conscious processing—or so the Map argues. This claim is a hypothesis, not an established fact. Neural explanations exist for each capacity discussed below: prefrontal cortex expansion, increased long-range connectivity, and enhanced synaptic density could account for working memory gains, metacognitive capacity, and language without invoking non-physical consciousness. The Map finds these explanations incomplete—they describe the neural *correlates* of the gap without explaining why these particular neural changes produce qualitatively different cognitive operations—but the neural alternative deserves serious engagement, not dismissal.
+The human-ape intelligence gap isn't random. Great apes show systematic limitations in capacities tied to conscious processing. Neural explanations exist—prefrontal cortex expansion, increased long-range connectivity, enhanced synaptic density—but the Map finds these incomplete: they describe neural *correlates* without explaining why these changes produce qualitatively different cognitive operations.
 
-A 2025 meta-analysis (Randeniya) dramatically revised the scope of unconscious processing: only 10% of claimed unconscious effects survive rigorous methodological scrutiny. This matters because the "baseline cognition" hypothesis predicts exactly this pattern—if baseline cognition represents what neural processing achieves without consciousness, we should expect genuinely unconscious processing to be far more limited than previously assumed. The [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) evidence converges with comparative cognition: both approaches reveal consciousness is functionally necessary for specific operations.
+Randeniya's 2025 meta-analysis supports this: only 10% of claimed unconscious effects survive rigorous scrutiny. If baseline cognition represents what neural processing achieves without consciousness, genuinely unconscious processing should be far more limited than previously assumed—which is what the evidence shows.
 
-[Global Workspace Theory research](/concepts/conscious-vs-unconscious-processing/) identifies three functions specifically requiring conscious access: *durable information maintenance*, *novel combinations of operations*, and *spontaneous intentional action*. These three functions map precisely onto the great ape limitations below:
+[Global Workspace Theory research](/concepts/conscious-vs-unconscious-processing/) identifies three functions requiring conscious access: *durable information maintenance*, *novel combinations of operations*, and *spontaneous intentional action*. These map onto the great ape limitations below:
 
 ### Working Memory Capacity (Durable Maintenance)
 
-Chimpanzee working memory holds approximately 2±1 items. Human capacity is debated: Miller's classic 7±2 has been revised downward by Cowan (2001) to 4±1 when rehearsal is prevented. Even the more conservative two-fold gap enables qualitatively different cognitive operations. With 2 items, you can compare A to B. With 4-7 items, you can hold multiple elements while tracking their relationships, considering alternatives, and keeping the goal in mind.
+Chimpanzee working memory holds approximately 2±1 items; human capacity is 4±1 (Cowan 2001, revising Miller's 7±2). Even this conservative two-fold gap enables qualitatively different operations: with 2 items you compare A to B; with 4+ items you track relationships, consider alternatives, and maintain goals simultaneously.
 
-If [working-memory](/concepts/working-memory/) depends on conscious access (as [Global Workspace Theory](/concepts/global-workspace-theory/) proposes), the capacity expansion implies expanded consciousness. The additional slots aren't just storage—they're workspace for manipulation, comparison, and flexible combination.
-
-This connects to the first consciousness-requiring function identified in [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/): *durable information maintenance*. Subliminal priming effects decay within 500ms; consciously perceived information can be maintained for seconds to minutes. Great apes' limited working memory capacity reflects limited conscious maintenance—information fades rapidly, preventing the extended manipulation that human cognition requires.
+If [working-memory](/concepts/working-memory/) depends on conscious access (as [Global Workspace Theory](/concepts/global-workspace-theory/) proposes), the capacity expansion implies expanded consciousness—not just more storage but more workspace for manipulation and flexible combination. This connects to *durable information maintenance*: subliminal priming decays within 500ms, while consciously perceived information persists for seconds to minutes.
 
 ### Declarative Metacognition
 
-The distinction between procedural and declarative metacognition is crucial:
-
-| Type | Description | Great Apes | Humans |
-|------|-------------|------------|--------|
-| **Procedural** | Feelings guiding behaviour | Yes | Yes |
-| **Declarative** | Explicit knowledge of mental states | Limited/Absent | Yes |
-
-Procedural metacognition: "I feel uncertain" → seek more information.
-Declarative metacognition: "I *know* that I don't know" → represents the knowledge state itself.
-
-This distinction parallels the [maintenance/manipulation distinction](/concepts/working-memory/#the-maintenancemanipulation-distinction) in working memory research. Maintaining information can proceed unconsciously (activity-silent short-term memory). But *manipulating* information—using it flexibly—requires conscious reactivation. Declarative metacognition is manipulation of mental states: taking your beliefs as objects of thought to evaluate, modify, and discuss.
+Procedural metacognition ("I feel uncertain" → seek information) is present in great apes. Declarative metacognition ("I *know* that I don't know" → representing the knowledge state itself) is limited or absent. This parallels the [maintenance/manipulation distinction](/concepts/working-memory/#the-maintenancemanipulation-distinction): maintaining information can proceed unconsciously, but *manipulating* it—taking beliefs as objects of thought—requires conscious reactivation.
 
 ### The Jourdain Hypothesis
 
@@ -138,35 +125,17 @@ Unconscious processing excels at pattern recognition and associative learning. B
 
 ### Counterfactual Thinking (Spontaneous Intentional Action)
 
-Humans uniquely imagine situations that don't exist—learning from hypothetical alternatives, planning for future need-states not currently experienced, evaluating actions by their possible consequences. [Counterfactual reasoning](/concepts/counterfactual-reasoning/) requires explicitly representing non-actual states while manipulating those representations to draw conclusions—a capacity demanding the kind of integrated workspace that Global Workspace Theory associates with consciousness.
+[Counterfactual reasoning](/concepts/counterfactual-reasoning/)—imagining non-actual states and drawing conclusions from them—demands the integrated workspace Global Workspace Theory associates with consciousness. The Bischof-Köhler hypothesis proposes that animals cannot act on drive states they don't currently possess: a sated animal won't store food for future hunger. Evidence for great ape foresight exists but remains limited to immediate futures.
 
-The Bischof-Köhler hypothesis proposes that animals cannot act on drive states they don't currently possess: a sated animal won't store food for future hunger because it cannot consciously represent that future need-state. Evidence for great ape foresight exists but remains limited—they may anticipate immediate futures but show little capacity for the extended mental simulation that characterises human planning.
-
-This connects to the third consciousness-requiring function: *spontaneous intentional action*—generating goal-directed behaviour from internal states rather than external triggers. [Blindsight patients](/concepts/conscious-vs-unconscious-processing/#blindsight-the-paradigm-case) cannot spontaneously use blind-field information to initiate self-directed action. Great apes show similar limitations—sophisticated reactive cognition without the self-initiated goal pursuit that requires maintaining future states while selecting appropriate actions.
+This connects to *spontaneous intentional action*—generating goal-directed behaviour from internal states rather than external triggers. [Blindsight patients](/concepts/conscious-vs-unconscious-processing/#blindsight-the-paradigm-case) cannot spontaneously use blind-field information; great apes show similar limitations—sophisticated reactive cognition without self-initiated goal pursuit.
 
 ### Social Cognition: Where the Gap Is Clearest
 
-[Social cognition](/topics/consciousness-and-social-cognition/) provides the clearest domain where the baseline/conscious distinction manifests. Theory of mind admits of levels, and the level structure tracks the procedural/declarative distinction precisely:
+[Social cognition](/topics/consciousness-and-social-cognition/) provides the clearest domain where the baseline/conscious distinction manifests. Theory of mind admits of levels tracking the procedural/declarative distinction: behaviour prediction and perception attribution (levels 0-1) operate within baseline cognition, while recursive mindreading (level 3—"she thinks that I think the food is hidden") demands holding multiple nested representations simultaneously. Belief attribution (level 2) sits at the contested boundary.
 
-- **Levels 0-1** (behaviour prediction, perception attribution): Operate within baseline cognition. Chimpanzees track what others have seen, anticipate behaviour based on goals, and adjust strategy accordingly—all without representing mental states *as* mental states.
+Shared intentionality shows the same pattern. Joint attention requires recursive mutual awareness—I know you're attending, you know I'm attending—a structure requiring [phenomenal binding](/concepts/binding-problem/). Great apes track attention without sharing it in this rich sense. Empathic concern similarly requires metarepresentation: feeling *for* another because you understand their situation, not merely catching their emotion. Great apes show consolation (emotional contagion plus approach) without the understanding-motivated helping that characterises human empathy.
 
-- **Level 2** (belief attribution): Contested territory. Some evidence suggests great apes understand false beliefs in competitive contexts; other evidence finds only behaviour-tracking. The ambiguity reflects the boundary between baseline and conscious cognition.
-
-- **Level 3** (recursive mindreading): Clearly requires consciousness. "She thinks that I think the food is hidden" demands holding multiple nested representations simultaneously while manipulating them—precisely what baseline cognition cannot achieve.
-
-Shared intentionality provides another marker. Joint attention isn't merely two agents attending the same object—it involves recursive mutual awareness: I know you're attending, you know I'm attending, I know you know, and so on. This "common knowledge" structure requires the [phenomenal binding](/concepts/binding-problem/) that conscious integration provides. Great apes show limited evidence of joint attention in this rich sense; they track attention without sharing it.
-
-The empathy hierarchy shows similar stratification:
-
-| Component | Consciousness Required? | Present in Apes? |
-|-----------|------------------------|------------------|
-| Emotional contagion | No—automatic | Yes |
-| Cognitive empathy | Minimal—representing states | Possibly |
-| Empathic concern | Yes—caring *because* you understand | Limited/Absent |
-
-Empathic concern—feeling *for* another because you understand their situation—involves metarepresentation of their emotional state and a felt motivational response. The phenomenal character of concern appears irreducible: you must feel something to care in the way genuine empathy involves. This explains why great apes show consolation behaviour (emotional contagion plus approach) without the systematic helping motivated by understanding that characterises human empathy.
-
-Social cognition thus exemplifies the general pattern: baseline cognition handles sophisticated social tasks through implicit processing, but the metarepresentational operations underlying recursive mindreading, shared intentionality, and empathic concern require conscious amplification.
+Social cognition exemplifies the general pattern: baseline cognition handles sophisticated social tasks implicitly, but recursive mindreading, shared intentionality, and empathic concern require conscious amplification.
 
 ## The Epiphenomenalism Challenge
 
@@ -182,49 +151,31 @@ This is what we observe. Great apes excel within baseline cognition and fail sys
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) might argue that "consciousness-dependent" capacities are really unconscious processes generating the *illusion* of conscious contribution. We experience ourselves as reasoning consciously, but the work happens below awareness.
+[Illusionists](/concepts/illusionism/) might argue that "consciousness-dependent" capacities are really unconscious processes generating the *illusion* of conscious contribution. Several considerations resist this:
 
-Several considerations resist this move:
+**Empirical dissociation**: Cognitive load impairs logical reasoning while unconscious disruption does not (Lieberman et al. 2008); explicit rule-following differs from implicit pattern recognition in ways tracking conscious accessibility (De Neys 2012).
 
-**The empirical evidence**: Lieberman et al. found that cognitive load impairs logical reasoning while unconscious disruption does not—suggesting dissociation, though interpretation depends on whether "logical reasoning" and "consciousness" are measured independently. De Neys (2012) supports the general pattern: explicit rule-following differs from implicit pattern recognition in ways that track conscious accessibility.
+**Systematic pattern**: If consciousness is epiphenomenal, the precise correspondence between consciousness-dependent capacities and the human-ape gap requires explanation.
 
-**The systematic pattern**: If consciousness is epiphenomenal, why does the human-ape gap track consciousness-dependent capacities so precisely? The correlation requires explanation.
+**Training effects**: Metacognitive training (meditation, contemplative practice) improves cognitive performance. If consciousness were illusory, what is being trained?
 
-**The training effects**: Metacognitive training (meditation, contemplative practice) improves cognitive performance. If consciousness were illusory, what is being trained? The training effect requires explanation in terms that don't invoke consciousness—and such explanations remain elusive.
-
-**The regress problem**: Explaining the *appearance* of conscious contribution requires phenomenal vocabulary—effortful reasoning, insight, deliberate manipulation. If these are illusions, something generates them. The illusionist may say brain processes produce introspective representations, but the question resurfaces: what makes these representations feel like anything? Either deny that they do (eliminativism) or explain the phenomenal character of introspection—reinstating the original problem at a higher level.
+**Regress**: Explaining the *appearance* of conscious contribution requires phenomenal vocabulary—effortful reasoning, insight, deliberate manipulation. If these are illusions, something generates them, reinstating the original problem at a higher level.
 
 ## Great Ape Phenomenal Consciousness
 
-The baseline cognition hypothesis doesn't deny great ape consciousness. Great apes likely have genuine phenomenal experience: emotional consciousness, perceptual consciousness, basic social consciousness. The proposal is that human and great ape consciousness differ *qualitatively*—not merely in complexity but in kind.
+The baseline cognition hypothesis doesn't deny great ape consciousness. Great apes likely have genuine phenomenal experience—emotional, perceptual, basic social—but the proposal is that human and great ape consciousness differ *qualitatively*, not merely in complexity. Great apes may experience without experiencing *that* they experience—a distinction central to [introspective](/concepts/introspection/) capacity. Tulving's [tripartite hierarchy](/concepts/anoetic-noetic-autonoetic-consciousness/) maps this: great apes likely operate at anoetic and noetic levels while lacking autonoetic self-awareness.
 
-Great apes may possess access consciousness (information available for behaviour) without the full reflexive consciousness humans possess (consciousness that can take itself as object). They experience without necessarily experiencing that they experience—a distinction central to [introspective](/concepts/introspection/) capacity and the limits thereof. Tulving's [tripartite hierarchy](/concepts/anoetic-noetic-autonoetic-consciousness/) maps this gradient: great apes likely operate at the anoetic and noetic levels while lacking the autonoetic self-awareness that characterises human temporal self-projection.
-
-This connects to [minimal consciousness](/concepts/minimal-consciousness/) research. Consciousness may admit of degrees and kinds. The question isn't "conscious or not?" but "what kind of consciousness, supporting what cognitive operations?"
+The question isn't "conscious or not?" but "what kind of consciousness, supporting what cognitive operations?" See [minimal-consciousness](/concepts/minimal-consciousness/) for further analysis.
 
 ## Implications for AI
 
-The baseline cognition framework has implications for [artificial intelligence](/topics/ai-consciousness/), though readers should note the interdependence: this article's claims about consciousness-dependent capacities inform the [llm-consciousness](/concepts/llm-consciousness/) analysis, while that article's treatment of AI limitations draws on the categories developed here. The arguments are mutually supporting rather than independently established—a feature that strengthens the overall framework if the empirical evidence holds but means weaknesses in either article propagate to the other.
+The baseline cognition framework has implications for [artificial intelligence](/topics/ai-consciousness/). Current AI excels at pattern recognition, statistical correlation, and domain-specific performance—capacities baseline cognition handles. What AI struggles with—genuine cross-domain flexibility, metacognitive monitoring, counterfactual reasoning about unprecedented situations, cumulative deliberate innovation—are the capacities tied to consciousness in the human-ape comparison.
 
-Current AI systems excel at pattern recognition, statistical correlation, and domain-specific performance—the capacities baseline cognition handles.
-
-What AI struggles with—genuine flexibility across domains, metacognitive monitoring that improves with feedback, counterfactual reasoning about unprecedented situations, cumulative improvement through deliberate innovation—are the capacities tied to consciousness in the human-ape comparison.
-
-This doesn't prove AI cannot be conscious. It suggests that if AI achieves human-level cognition, it would require something functionally equivalent to conscious amplification—whatever the substrate. The [AI consciousness modes](/concepts/ai-consciousness-modes/) framework applies Tulving's hierarchy directly: AI systems functionally resemble noetic-level processing (knowledge retrieval) while lacking both the embodied anoetic foundation and the autonoetic capacities that baseline cognition predicts require consciousness.
+This doesn't prove AI cannot be conscious but suggests human-level cognition would require something functionally equivalent to conscious amplification. The [AI consciousness modes](/concepts/ai-consciousness-modes/) framework applies Tulving's hierarchy: AI resembles noetic-level processing while lacking both the embodied anoetic foundation and autonoetic capacities that baseline cognition predicts require consciousness.
 
 ## Implications for Free Will
 
-If consciousness enables counterfactual reasoning and deliberate selection among alternatives—choosing this action after considering others—then the baseline cognition framework supports [libertarian free will](/topics/free-will/). Great apes act; humans deliberate about their actions. The capacity to represent multiple possible futures and select among them is precisely what libertarian accounts of free will describe.
-
-This connection runs deeper than analogy. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet proposes that consciousness selects among superposed neural states. If correct, conscious deliberation is not merely accompanied by neural activity but *intervenes* in it—the mind genuinely choosing which of several possible actions becomes actual. The baseline-to-human transition marks not just expanded cognition but the emergence of genuine agency.
-
-## Contemplative Perspectives
-
-Buddhist psychology distinguishes consciousness (*vijñāna*) from the mental factors (*cetasika*) that accompany it. Consciousness provides awareness; mental factors provide content and cognitive operations. This framework parallels baseline cognition: neural processes provide cognitive operations; consciousness enables rather than performs them.
-
-The Abhidharma analysis identifies mental factors that cannot operate without consciousness as their support. *Vitakka* (applied thought) and *vicāra* (sustained thought) enable deliberate cognitive manipulation—but they require *vijñāna* to function. This maps onto the amplification thesis: certain cognitive operations inherently require conscious support.
-
-Process philosophy offers a complementary framework. Alfred North Whitehead proposes that complex organisms exhibit "high-grade occasions"—unified experiences integrating diverse inputs into coherent wholes. The baseline-to-human transition might involve the emergence of increasingly high-grade occasions capable of greater integration, enabling the binding and manipulation that metarepresentation requires.
+If consciousness enables counterfactual reasoning and deliberate selection among alternatives, the baseline cognition framework supports [libertarian free will](/topics/free-will/). The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet proposes that consciousness selects among superposed neural states—not merely accompanying neural activity but *intervening* in it. The baseline-to-human transition marks not just expanded cognition but the emergence of genuine agency.
 
 ## What Would Challenge This View?
 
@@ -242,37 +193,27 @@ The baseline cognition hypothesis could be undermined by:
 
 ## Relation to Site Perspective
 
-**Dualism**: If consciousness genuinely amplifies baseline cognition—contributing something neural processing alone cannot achieve—then consciousness has causal powers not derivable from physics. The systematic correspondence between consciousness-requiring capacities and the human-ape gap suggests consciousness adds something irreducible.
+**Dualism**: If consciousness amplifies baseline cognition—contributing something neural processing alone cannot achieve—then consciousness has causal powers not derivable from physics.
 
-**Bidirectional Interaction**: The baseline cognition framework specifies *what* consciousness causally contributes: flexible deployment, metacognitive monitoring, metarepresentation, and counterfactual simulation. [Causal delegation](/concepts/causal-delegation/) provides the metaphysical structure for *how* this contribution avoids overdetermination—consciousness takes over causal work that neural states would otherwise perform.
+**Bidirectional Interaction**: The framework specifies *what* consciousness contributes: flexible deployment, metacognitive monitoring, metarepresentation, counterfactual simulation. [Causal delegation](/concepts/causal-delegation/) explains *how* this avoids overdetermination.
 
-**Minimal Quantum Interaction**: If consciousness interfaces with neural states through quantum selection, the amplification might operate at that level—biasing which neural patterns become actual when multiple possibilities exist. But the framework doesn't require quantum mechanisms; classical attention-based selection could produce similar effects.
+**Minimal Quantum Interaction**: Consciousness might bias which neural patterns become actual through quantum selection, though classical attention-based selection could produce similar effects.
 
-**No Many Worlds**: Logical reasoning, counterfactual thinking, and metarepresentation all require determinate outcomes. Many-worlds theorists handle decision-making through self-locating uncertainty and decision-theoretic weighting, but these accounts struggle with the phenomenology of settling—the experience of reaching *this* conclusion rather than merely existing in a branch where "reaching this conclusion" happened. The baseline cognition framework assumes consciousness genuinely selects among possibilities rather than merely observing branch-relative outcomes.
+**No Many Worlds**: Logical reasoning, counterfactual thinking, and metarepresentation require determinate outcomes. Many-worlds accounts struggle with the phenomenology of settling—reaching *this* conclusion rather than merely existing in a branch where it happened.
 
-**Occam's Razor Has Limits**: The simplest hypothesis—great apes lack human intelligence due to neural complexity alone, consciousness is epiphenomenal—fails the evidence. The systematic pattern, the empirical dissociations, the training effects all suggest consciousness causally contributes. Sometimes the parsimonious explanation is wrong.
+**Occam's Razor Has Limits**: The simplest hypothesis—neural complexity alone explains the gap, consciousness is epiphenomenal—fails the systematic pattern, empirical dissociations, and training effects.
 
 ## Further Reading
 
-- [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on what consciousness enables vs what unconscious processing achieves
-- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — Social cognition as paradigm case of the baseline/conscious distinction
-- [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The complementary article on consciousness's amplifying role
+- [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — The complementary article on how consciousness transforms baseline cognition
+- [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on what consciousness enables
+- [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — Social cognition as paradigm case
 - [working-memory](/concepts/working-memory/) — The neural workspace where amplification operates
-- [metacognition](/concepts/metacognition/) — Self-monitoring as consciousness-enabled capacity
-- [metarepresentation](/concepts/metacognition/) — The capacity to represent representations
 - [cumulative-culture](/concepts/cumulative-culture/) — The ratchet effect and why it requires metarepresentation
-- [animal-consciousness](/topics/animal-consciousness/) — The broader context including evolutionary evidence
-- [minimal-consciousness](/concepts/minimal-consciousness/) — Model organisms and the boundaries of consciousness
-- [global-workspace-theory](/concepts/global-workspace-theory/) — The broadcasting account of conscious access
-- [free-will](/topics/free-will/) — How conscious deliberation supports libertarian free will
-- [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — The capacity to imagine non-actual states, requiring consciousness
-- [introspection](/concepts/introspection/) — The capacity to examine one's own mental states
-- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Tulving's tripartite hierarchy of consciousness levels underlying the baseline/human distinction
-- [ai-consciousness-modes](/concepts/ai-consciousness-modes/) — The hierarchy applied to AI: which consciousness modes current systems might instantiate
-- [delegatory-dualism](/topics/delegatory-dualism/) — Saad's causal structure for how consciousness amplifies without overdetermination
-- [causal-delegation](/concepts/causal-delegation/) — The mechanism by which physical states hand off causal work to experiences
-- [dream-consciousness](/topics/dream-consciousness/) — Dream problem-solving appears restricted to humans despite REM being present across mammals, supporting the phenomenal richness hypothesis
-- [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/) — Convergent evidence: dolphins and corvids as intermediate cases on the amplification spectrum
+- [delegatory-dualism](/topics/delegatory-dualism/) — Causal structure for how consciousness amplifies without overdetermination
+- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Tulving's hierarchy underlying the baseline/human distinction
+- [ai-consciousness-modes](/concepts/ai-consciousness-modes/) — The hierarchy applied to AI systems
+- [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/) — Dolphins and corvids as intermediate cases on the amplification spectrum
 - [consciousness-independent-baseline-cognition-2026-01-21](/research/consciousness-independent-baseline-cognition-2026-01-21/) — Research notes underlying this article
 
 ### Apex Synthesis
@@ -298,16 +239,22 @@ The baseline cognition hypothesis could be undermined by:
 1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 1. Whiten, A., et al. (2010). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 365(1558), 2405-2415.
 
-<!-- AI REFINEMENT LOG - 2026-03-19
+<!-- AI REFINEMENT LOG - 2026-03-19 (condense)
 Changes made:
-- Added paragraph acknowledging neural explanations (PFC expansion, connectivity) as serious alternatives to consciousness-based account of human-ape gap
-- Updated working memory figures: noted Cowan (2001) revision of Miller's 7±2 to 4±1, adjusted qualitative claims accordingly
-- Added Cowan (2001) to references
-- Changed "The simplest explanation" to "One explanation consistent with this evidence"
-- Added explicit acknowledgment of interdependence between this article and llm-consciousness.md in AI implications section
+- Condensed from ~3682 to ~2700 words (target: 2500 for concepts/)
+- Removed Contemplative Perspectives section (tangential, Buddhist/Whitehead parallels)
+- Trimmed Social Cognition: removed empathy table, condensed theory-of-mind levels
+- Tightened opening paragraphs, working memory, metacognition, counterfactual sections
+- Condensed Illusionist Challenge to four brief points
+- Trimmed Further Reading from 19 to 10 entries
+- Tightened Relation to Site Perspective prose
+- Removed duplicate [metacognition](/concepts/metacognition/) in frontmatter
+- Previous refinement log (deep-review) preserved below
 
-Based on pessimistic-2026-03-19-morning.md findings (Issues 1 and 4).
-Key improvements: breaks circular reinforcement, engages neural alternatives, corrects overstated empirical claim.
+Previous changes (2026-03-19 deep-review):
+- Added paragraph acknowledging neural explanations as serious alternatives
+- Updated working memory figures with Cowan (2001)
+- Added Cowan (2001) to references
 
 This log should be removed after human review.
 -->

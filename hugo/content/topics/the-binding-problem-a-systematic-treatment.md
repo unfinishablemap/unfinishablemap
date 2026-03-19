@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-03-17 20:01:00+00:00
+ai_modified: 2026-03-19 08:08:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -82,7 +82,7 @@ Different sensory modalities process information in spatially separate cortical 
 
 Experience extends across time. The present moment is not a durationless instant but a "specious present" containing recently past and immediately anticipated events. When you hear a melody, each note arrives sequentially, yet you experience the musical phrase as a temporal whole — the notes are bound into a progression with structure and direction. See [temporal-consciousness](/concepts/temporal-consciousness/) and [episodic-memory](/concepts/episodic-memory/).
 
-**BP1 progress**: Working memory maintains representations across seconds. Hippocampal replay compresses temporal sequences. Oscillatory dynamics create temporal windows within which events are treated as co-occurring. The brain can retroactively adjust the perceived timing of events — later processing adjusts timestamps to construct phenomenal simultaneity.
+**BP1 progress**: Working memory maintains representations across seconds. Hippocampal replay compresses temporal sequences. Oscillatory dynamics — the brain's [neural-refresh-rates](/concepts/neural-refresh-rates/) at alpha (~10 Hz), theta (~6 Hz), and gamma (~40 Hz) — create temporal windows within which events are treated as co-occurring. The brain can retroactively adjust the perceived timing of events — later processing adjusts timestamps to construct phenomenal simultaneity.
 
 **BP2 gap**: Temporal binding raises a distinctive puzzle. At any physical instant, only the current state exists — past states have ceased, future states have not begun. Yet consciousness encompasses temporal extension. The heard melody is not a sequence of separate "now-experiences" strung together retrospectively; it is experienced as a temporal arc. What makes a temporal sequence a *unified temporal experience* rather than a series of disconnected moments? Neural mechanisms that maintain information across time (working memory, hippocampal replay) explain how the brain retains past content but not why retained content is experienced as temporally extended rather than merely stored. The Map's [temporal constitution thesis](/topics/temporal-structure-of-consciousness/) argues that consciousness actively constitutes these temporal wholes — the melody, the argument, the remembered life — from elements that physically do not coexist.
 
@@ -199,6 +199,7 @@ The systematic treatment of binding presented here rests on claims that could be
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — BP1 without BP2 during dreamless sleep
 - [downward-causation](/concepts/downward-causation/) — Top-down causation from phenomenal states to neural coordination
 - [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — Cross-modal binding as the hardest case: temporal recalibration, inverse effectiveness, and the unity of place
+- [neural-refresh-rates](/concepts/neural-refresh-rates/) — Discrete oscillatory sampling rates and the smoothness problem in temporal binding
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's version of the binding puzzle
 
 ## References
