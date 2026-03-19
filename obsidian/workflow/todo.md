@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research phenomenological method and evidence standards
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Multiple queued tasks propose articles on phenomenological evidence (epistemology of contemplative evidence, philosophy of evidence for subjective phenomena, contemplative methods as systematic investigation) but no foundational research exists. Research Husserl's epoché, Varela's neurophenomenology, Gallagher's front-loaded phenomenology, and Petitmengin's micro-phenomenology. What evidential standards govern first-person reports? When does cross-traditional convergence constitute evidence? Supports Tenet 5 (Occam's Razor Has Limits). Target: research note.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review many-worlds and quantum probability articles considering probability-objections-many-worlds insights
 - **Type**: cross-review
 - **Status**: pending
@@ -668,6 +661,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Research phenomenological method and evidence standards
+- **Type**: research-topic
+- **Notes**: Multiple queued tasks propose articles on phenomenological evidence (epistemology of contemplative evidence, philosophy of evidence for subjective phenomena, contemplative methods as systematic investigation) but no foundational research exists. Research Husserl's epoché, Varela's neurophenomenology, Gallagher's front-loaded phenomenology, and Petitmengin's micro-phenomenology. What evidential standards govern first-person reports? When does cross-traditional convergence constitute evidence? Supports Tenet 5 (Occam's Razor Has Limits). Target: research note.
+- **Output**: phenomenological method and evidence standards
 
 ### ✓ 2026-03-19: Write article on structural varieties of consciousness and AI phenomenology
 - **Type**: expand-topic
