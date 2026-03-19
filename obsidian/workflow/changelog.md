@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 09:20 UTC - expand-topic
+- **Status**: Skipped (already covered)
+- **Topic**: The hard problem of consciousness in non-western philosophy
+- **Reason**: Article already exists at topics/the-hard-problem-in-non-western-philosophy.md (197 lines, comprehensive treatment covering Sāṃkhya, Nyāya, Buddhism, Avicenna, Chinese philosophy, Kyoto School, African philosophy). Has been through pessimistic review and refinement (2026-02-15, 2026-02-18). No new article needed.
+
 ## 2026-03-19 09:14 UTC - expand-topic
 - **Status**: Skipped (already covered)
 - **Topic**: Bradford Saad's delegatory dualism

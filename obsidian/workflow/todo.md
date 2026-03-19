@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the hard problem of consciousness in non-western philosophy
-- **Type**: expand-topic
-- **Notes**: Research completed in research/hard-problem-non-western-philosophy-2026-02-14.md. Indian, Buddhist, and Islamic philosophical traditions have long engaged with consciousness irreducibility — Chalmers' "hard problem" has non-western antecedents that strengthen the Map's dualist position. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-19
-
 ### P2: Write article on the interaction problem in non-western philosophy
 - **Type**: expand-topic
 - **Notes**: Research completed in research/interaction-problem-non-western-philosophy-2026-02-17.md. Non-western traditions offer alternative models for mind-body interaction that don't share the Cartesian framing. Relevant to Tenet 3 (Bidirectional Interaction) — shows the interaction problem is not uniquely intractable when freed from substance dualism's assumptions. Target section: topics/.
@@ -772,6 +766,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Write article on the hard problem of consciousness in non-western philosophy
+- **Type**: expand-topic
+- **Notes**: Research completed in research/hard-problem-non-western-philosophy-2026-02-14.md. Indian, Buddhist, and Islamic philosophical traditions have long engaged with consciousness irreducibility — Chalmers' "hard problem" has non-western antecedents that strengthen the Map's dualist position. Target section: topics/.
+- **Output**: the hard problem of consciousness in non-western philosophy
 
 ### ✓ 2026-03-19: Write concept page on Bradford Saad's delegatory dualism
 - **Type**: expand-topic
