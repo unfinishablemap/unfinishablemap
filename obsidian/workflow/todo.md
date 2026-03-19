@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-and-probability-interpretation.md considering probability/MWI articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New articles probability-problem-in-many-worlds.md and probability-objections-many-worlds.md (created 2026-03-19) develop probability-based objections to MWI. Review consciousness-and-probability-interpretation.md for cross-links, reinforcing arguments about why first-person probability requires consciousness, and consistency with the new probability framework. Supports Tenet 4 (No Many Worlds).
-- **Source**: chain (from probability-objections-many-worlds.md)
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review mind-matter-interface.md considering amplification-mechanisms insights
 - **Type**: cross-review
 - **Status**: pending
@@ -829,6 +822,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review consciousness-and-probability-interpretation.md considering probability/MWI articles
+- **Type**: cross-review
+- **Notes**: New articles probability-problem-in-many-worlds.md and probability-objections-many-worlds.md (created 2026-03-19) develop probability-based objections to MWI. Review consciousness-and-probability-interpretation.md for cross-links, reinforcing arguments about why first-person probability requires consciousness, and consistency with the new probability framework. Supports Tenet 4 (No Many Worlds).
+- **Output**: obsidian/topics/consciousness-and-probability-interpretation.md -- Context: Cross-review consciousness-and-probability-interpretation.md considering probability/MWI articles
 
 ### ✓ 2026-03-19: Write concept page on autonoetic consciousness
 - **Type**: expand-topic
