@@ -27,6 +27,7 @@ related_articles:
   - "[[time-collapse-and-agency]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[identity-across-transformations]]"
+  - "[[phenomenology-of-temporal-selection]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -82,7 +83,7 @@ This means diachronic agency has a two-level structure. At the surface level, th
 
 What does diachronic agency feel like from the inside? The [[temporal-consciousness|Bergsonian]] tradition offers resources here. Lived time is not a sequence of discrete moments but a qualitative flow in which the past permeates the present and the future is anticipated. When you are absorbed in a long-term project, you experience what might be called *project-time*: a temporal horizon structured by the project's demands rather than by clock-time.
 
-A musician preparing for a recital experiences the months of practice not as disconnected sessions but as a single unfolding arc. Early technical work, intermediate interpretive exploration, final polishing—each phase colours the next. The phenomenology is distinctively diachronic: the present moment is experienced *as* a phase of a larger temporal whole.
+A musician preparing for a recital experiences the months of practice not as disconnected sessions but as a single unfolding arc. Early technical work, intermediate interpretive exploration, final polishing—each phase colours the next. The phenomenology is distinctively diachronic: the present moment is experienced *as* a phase of a larger temporal whole. These extended temporal horizons are built from sustained sequences of moment-to-moment [[phenomenology-of-temporal-selection|temporal selections]]—each choice of when to advance, when to pause, when to persist becoming part of the diachronic arc. The immediate phenomenology of these decisions, with their kairos moments and felt timing windows, is the micro-structure from which project-time is composed.
 
 This connects—speculatively—to the [[time-collapse-and-agency|consciousness-constituted time]] framework. If consciousness participates in constituting temporal structure through its involvement in quantum collapse, then diachronic agency may not merely *occur within* time but partially *shape* the temporal structure it inhabits. The core argument for diachronic agency does not depend on this quantum hypothesis. But if the hypothesis holds, the agent's sustained intention would do more than fill pre-existing time; it would organise the experienced temporal field around the project's demands, creating the extended "now" within which long-term agency operates.
 

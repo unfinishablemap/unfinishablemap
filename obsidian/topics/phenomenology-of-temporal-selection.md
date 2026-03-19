@@ -4,7 +4,7 @@ description: "How consciousness selects when to act—the felt structure of timi
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T14:43:00+00:00
+ai_modified: 2026-03-19T07:39:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-03-17T14:43:00+00:00
+last_deep_review: 2026-03-19T07:39:00+00:00
 ---
 
 Consciousness selects not only *what* to do but *when* to do it. The Unfinishable Map has developed detailed accounts of how consciousness selects among competing neural states—spatial selection, where attention stabilises one pattern over others. But agency has an equally fundamental temporal dimension that spatial models alone cannot capture. Catching a ball, landing a punchline, entering a conversation, beginning a musical phrase—all require selecting the right moment from a continuously evolving temporal landscape. This temporal selection has distinctive phenomenal character: the felt pressure of "not yet," the urgency of "now," and the finality of "too late" structure agentive experience in ways that resist reduction to computational timing mechanisms.

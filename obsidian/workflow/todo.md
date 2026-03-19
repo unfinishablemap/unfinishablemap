@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenology-of-temporal-selection.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Topics article on the phenomenology of temporal selection. Add cross-references from related articles (temporal-structure-of-consciousness.md, consciousness-and-temporal-becoming.md, time-collapse-and-agency.md, phenomenology-of-temporal-attention.md, consciousness-selecting-neural-patterns.md).
-- **Source**: orphan_integration
-- **Generated**: 2026-03-19
-
 ### P3: Deep review self-transcendence-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -422,8 +415,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Cross-review phenomenology-of-temporal-selection against related temporal articles
 - **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article on temporal selection. Review against temporal-structure-of-consciousness, time-collapse-and-agency, phenomenology-of-temporal-attention, consciousness-and-skilled-performance for consistency and cross-linking.
+- **Status**: done
+- **Notes**: Completed as part of deep-review 2026-03-19. Reviewed against all 10 related articles for consistency and cross-linking. Added inbound links from all 10.
 - **Generated**: 2026-03-17
 
 ### P2: Write article on cross-traditional convergence on consciousness irreducibility
@@ -719,6 +712,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Integrate phenomenology-of-temporal-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the phenomenology of temporal selection. Add cross-references from related articles (temporal-structure-of-consciousness.md, consciousness-and-temporal-becoming.md, time-collapse-and-agency.md, phenomenology-of-temporal-attention.md, consciousness-selecting-neural-patterns.md).
+- **Output**: obsidian/topics/phenomenology-of-temporal-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-19: Address circular reinforcement and introspection double standard across AI consciousness articles
 - **Type**: refine-draft

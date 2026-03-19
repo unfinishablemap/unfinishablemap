@@ -22,6 +22,7 @@ related_articles:
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
   - "[[phenomenology-of-anticipation]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
+  - "[[phenomenology-of-temporal-selection]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -69,6 +70,8 @@ The hard problem reappears at the temporal level: we can correlate attentional s
 ## Temporal Selection and the Interface
 
 The Map proposes that [[attention-as-interface|attention serves as the interface]] through which consciousness influences the physical brain. Temporal attention adds a dimension to this proposal: consciousness does not merely select among spatially arrayed options but selects *when* to engage and *how long* to sustain engagement. The [[temporal-consciousness|temporal phenomenology of quantum selection]] develops a complementary argument: the specious present may function as a "selection window" whose expansion and contraction under attention reflects modulation of the scope of conscious quantum selection.
+
+The [[phenomenology-of-temporal-selection|phenomenology of temporal selection]] develops this further, analysing the distinctive three-phase structure of timing windows—the anticipatory openness of "not yet," the kairos urgency of "now," and the irreversible closure of "too late"—as the agentive dimension of temporal attention.
 
 This temporal selection has consequences for how the interface might work. One speculative possibility—[[stapp-quantum-mind|Stapp's quantum Zeno framework]]—suggests that sustained attention stabilises desired neural patterns through repeated observation, with the *duration* of attention determining stabilisation strength. But regardless of the specific mechanism, the phenomenology of [[mental-effort|mental effort]] is clear: maintaining focus feels like work. Consciousness sustains its temporal engagement against the tendency of neural activity to shift—and the longer the sustaining, the greater the felt effort. This phenomenological datum stands independently of any particular physical mechanism proposed to explain it.
 

@@ -32,6 +32,7 @@ related_articles:
   - "[[choking-phenomenon-mental-causation]]"
   - "[[phenomenology-of-consciousness-doing-work]]"
   - "[[ownership-void]]"
+  - "[[phenomenology-of-temporal-selection]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -116,7 +117,7 @@ The [[illusionism|illusionist]] holds that the phenomenal contrast between agenc
 
 ### For the Selection Framework
 
-The agency-passivity axis maps naturally onto the Map's [[attention-as-interface|selection framework]]. At the agentic pole, consciousness actively selects among options the brain presents—biasing quantum indeterminacies through the [[mental-effort|quantum Zeno mechanism]]. At the passive pole, consciousness observes without selecting, allowing neural processes to unfold according to their own dynamics. The spectrum between reflects degrees of conscious engagement with the physical interface.
+The agency-passivity axis maps naturally onto the Map's [[attention-as-interface|selection framework]]. At the agentic pole, consciousness actively selects among options the brain presents—biasing quantum indeterminacies through the [[mental-effort|quantum Zeno mechanism]]. At the passive pole, consciousness observes without selecting, allowing neural processes to unfold according to their own dynamics. The spectrum between reflects degrees of conscious engagement with the physical interface. Agency operates not only along the spatial axis—selecting *which* action—but along the temporal axis: the [[phenomenology-of-temporal-selection|phenomenology of temporal selection]] reveals that selecting *when* to act carries its own distinctive effort and authorship, from the anticipatory readiness of "not yet" through the committed urgency of the kairos moment.
 
 The [[witness-consciousness|witness mode]] in meditation demonstrates that consciousness can deliberately adopt the passive pole—observing without intervening. This is not unconsciousness but consciousness choosing not to choose. The capacity to move along the agency-passivity axis at will is itself an exercise of agency at a higher level.
 
