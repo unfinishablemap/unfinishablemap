@@ -734,6 +734,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The reflexive insight from explanatory-gap.md — explanation cannot explain itself because the feeling of understanding is a conscious state. Powerful enough for its own page with connections to self-reference, Godel incompleteness, and cognitive closure. Target section: concepts/. See optimistic-2026-03-19.md
 - **Generated**: 2026-03-19
 
+### P3: Create concept page for interface friction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Why some conscious selections require effort and others flow spontaneously. Mentioned in spontaneous-intentional-action.md but deserves systematic development explaining the phenomenology of cognitive effort through the interface model. Connects to attention-as-interface, choking-phenomenon, flow states. Target section: concepts/. See optimistic-2026-03-19.md
+- **Generated**: 2026-03-19
+
+### P3: Create concept page for contemplative divergence problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Why cross-traditional phenomenological convergence coexists with metaphysical divergence. Addresses the strongest objection to the convergence argument in contemplative-practice-as-philosophical-evidence.md. Are traditions describing different experiential strata, or is there genuine phenomenological variation glossed by the convergence narrative? Target section: concepts/. See optimistic-2026-03-19.md
+- **Generated**: 2026-03-19
+
+### P3: Write synthesis on bidirectional causation as converging evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Draw together the Map's strongest empirical evidence for Tenet 3 into a single cumulative argument: contemplative neuroplasticity, lucid dream intention-responsiveness, spontaneous action endorsement micro-moments, framework-inhabitation in philosophical disagreement. Could be apex-level synthesis. Target section: topics/ or apex/. See optimistic-2026-03-19.md
+- **Generated**: 2026-03-19
+
 ## Completed Tasks
 
 
