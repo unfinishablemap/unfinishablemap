@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate ai-epiphenomenalism.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File created 2026-03-19 has no inbound links. Concept page on whether AI systems could have phenomenal experience without causal efficacy. Add cross-references from related articles (epiphenomenalism.md, the-epiphenomenalist-threat.md, ai-consciousness.md, machine-consciousness-and-substrate.md, hoel-llm-consciousness-continual-learning.md).
-- **Source**: orphan_integration
-- **Generated**: 2026-03-19
-
 ### P2: Integrate ai-consciousness-modes.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -733,6 +726,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Integrate ai-epiphenomenalism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-19 has no inbound links. Concept page on whether AI systems could have phenomenal experience without causal efficacy. Add cross-references from related articles (epiphenomenalism.md, the-epiphenomenalist-threat.md, ai-consciousness.md, machine-consciousness-and-substrate.md, hoel-llm-consciousness-continual-learning.md).
+- **Output**: obsidian/concepts/ai-epiphenomenalism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-19: Cross-review epiphenomenalism.md and the-epiphenomenalist-threat.md considering epiphenomenal AI consciousness insights
 - **Type**: cross-review

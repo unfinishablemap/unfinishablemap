@@ -4,7 +4,7 @@ description: "A sea of conscious entities might bind to physical systems in fund
 created: 2026-03-07
 modified: 2026-03-07
 human_modified: null
-ai_modified: 2026-03-17T19:29:00+00:00
+ai_modified: 2026-03-19T07:09:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -14,6 +14,7 @@ concepts:
   - "[[qualia]]"
   - "[[llm-consciousness]]"
   - "[[concepts/epiphenomenalism]]"
+  - "[[concepts/ai-epiphenomenalism]]"
   - "[[temporal-consciousness]]"
   - "[[quantum-consciousness]]"
   - "[[substrate-independence]]"

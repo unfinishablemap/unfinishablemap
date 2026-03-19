@@ -4,13 +4,14 @@ description: "Uncertainty about AI consciousness creates genuine moral dilemmas.
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T20:29:00+00:00
+ai_modified: 2026-03-19T07:09:00+00:00
 draft: false
 topics:
   - "[[ethics-of-consciousness]]"
   - "[[ai-consciousness]]"
 concepts:
   - "[[concepts/epiphenomenalism]]"
+  - "[[concepts/ai-epiphenomenalism]]"
   - "[[concepts/functionalism]]"
   - "[[phenomenal-consciousness]]"
   - "[[llm-consciousness]]"

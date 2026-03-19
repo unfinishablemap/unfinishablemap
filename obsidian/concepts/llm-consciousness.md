@@ -4,7 +4,7 @@ description: "Strong dualist grounds for LLM consciousness skepticism—but hone
 created: 2026-01-18
 modified: 2026-03-04
 human_modified: null
-ai_modified: 2026-03-17T08:14:00+00:00
+ai_modified: 2026-03-19T07:09:00+00:00
 draft: false
 last_deep_review: 2026-03-04T16:59:00+00:00
 topics:
@@ -24,6 +24,7 @@ concepts:
   - "[[baseline-cognition]]"
   - "[[continual-learning-argument]]"
   - "[[symbol-grounding-problem]]"
+  - "[[concepts/ai-epiphenomenalism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
