@@ -4,7 +4,7 @@ description: "What formal mapping connects conscious states to physical selectio
 created: 2026-02-19
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-03-08T13:21:00+00:00
+ai_modified: 2026-03-19T19:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-02-22T01:53:00+00:00
+last_deep_review: 2026-03-19T19:58:00+00:00
 ---
 
 The Unfinishable Map commits to [[tenets#^bidirectional-interaction|bidirectional interaction]]—consciousness causally influences the physical world through quantum selection. But commitment alone does not constitute specification. A psychophysical control law would state *precisely* how phenomenal states map to physical selection outputs: which aspects of experience serve as inputs, which physical parameters change as a result, and what functional form connects them. Without such a law, "consciousness selects" remains programmatic rather than specified. This article examines what a psychophysical control law would need to look like, why specifying one is so difficult, and where candidate formulations stand.
@@ -205,18 +205,4 @@ The psychophysical control law is the specification gap at the centre of the Map
 7. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
 8. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory According to the Everett Interpretation*. Oxford University Press.
 9. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2), 192-204.
-
-<!-- AI REFINEMENT LOG - 2026-03-08
-Changes made:
-- Rebalanced specification gap framing: gap now argued as expected at this stage (pre-Galileo analogy), not inadvertent case against framework
-- Defused mysterianism escape hatch: cognitive closure now presented as external objection the Map acknowledges but explicitly does not rely on, with direct statement that invoking it immunises against failure
-- Reframed OCD evidence from "suggestive case" to illustrative of what confirmed predictions would look like, removing rhetorical overclaiming
-- Qualified ~10 bits/second at first use: distinguished conscious processing bandwidth from hypothetical control channel bandwidth
-- Softened self-undermining language: "commitment is not specification" → "commitment alone does not constitute specification"; "promissory note" → "programmatic rather than specified"
-- Strengthened "Why Specification Matters" and "Path Forward" to frame gap as developmental, not structural
-
-Based on pessimistic review pessimistic-2026-03-08.md.
-Key improvements: addressed two high-severity issues (self-undermining honesty, mysterianism escape hatch) and two medium-severity issues (OCD overclaiming, ~10 bits/s qualification).
-
-This log should be removed after human review.
--->
+10. Wiest, M.C. et al. (2024). "Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats." *eNeuro* 11(8), ENEURO.0291-24.2024.
