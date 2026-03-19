@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on Penrose gravity-collapse connection and empirical prospects
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/penrose-gravity-collapse-empirical-2026-03-14.md and supplement research/penrose-gravity-collapse-empirical-2026-03-17.md. Covers Diósi-Penrose objective reduction model, specific collapse rate predictions, current experimental status (Vinante et al.), and MAQRO space mission. Most promising avenue for empirically testable predictions from the consciousness-physics interface. Supports Tenet 2 (Minimal Quantum Interaction). Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-19
-
 ### P2: Integrate godel-measurement-problem-analogy.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -861,6 +854,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Write article on Penrose gravity-collapse connection and empirical prospects
+- **Type**: expand-topic
+- **Notes**: Research completed in research/penrose-gravity-collapse-empirical-2026-03-14.md and supplement research/penrose-gravity-collapse-empirical-2026-03-17.md. Covers Diósi-Penrose objective reduction model, specific collapse rate predictions, current experimental status (Vinante et al.), and MAQRO space mission. Most promising avenue for empirically testable predictions from the consciousness-physics interface. Supports Tenet 2 (Minimal Quantum Interaction). Target section: topics/.
+- **Output**: Penrose gravity-collapse connection and empirical prospects
 
 ### ✓ 2026-03-19: Write article on probability and decision-theory objections to Many Worlds
 - **Type**: expand-topic

@@ -5,6 +5,11 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-19 19:51 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Penrose gravity-collapse connection and empirical prospects
+- **Reason**: Already covered by [[penrose-gravity-induced-collapse-empirical-prospects]] (created 2026-03-15, deep-reviewed 2026-03-18). The replenish-queue generated this task from unconsumed research, but the research had already been synthesised into the existing article.
+
 ## 2026-03-19 19:43 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Probability and decision-theory objections to Many Worlds
