@@ -4,7 +4,7 @@ description: "Voluntary mental imagery provides a distinctive test case for cons
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-12T06:58:00+00:00
+ai_modified: 2026-03-19T17:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -127,6 +127,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly to
 - [[phenomenology-of-agency-vs-passivity]] — The felt difference between voluntary and passive experience
 - [[consciousness-and-skilled-performance]] — Motor imagery's role in skill acquisition and deliberate practice
 - [[consciousness-and-causal-powers]] — What kind of causation consciousness exercises, with imagery as a test case
+- [[dream-consciousness]] — Dream imagery as involuntary test case where phenomenal mode tracks cognitive outcomes
 
 ## References
 

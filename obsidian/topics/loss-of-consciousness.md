@@ -4,7 +4,7 @@ description: "Anesthesia and coma don't prove brains produce consciousness. Filt
 created: 2026-01-15
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-03-17T16:29:00+00:00
+ai_modified: 2026-03-19T17:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -205,6 +205,7 @@ The Map's [[tenets]] converge on loss of consciousness as a domain where the dua
 - [[haecceity]] — The indexical identity problem posed by temporal gaps in experience
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis placing loss of consciousness within a convergence matrix of five altered states
 - [[death-phenomenology-beyond-ndes]] — The broader phenomenology of dying beyond NDEs and loss of consciousness
+- [[dream-consciousness]] — Dream states as contrast case: consciousness persists during sleep with distinct phenomenal modes and cognitive contributions
 
 ## References
 

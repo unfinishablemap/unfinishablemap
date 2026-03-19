@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 17:33 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/dream-problem-solving-and-conscious-influence]] (archived → [[topics/dream-consciousness]])
+- **Word count**: 3089 → 3089 (unchanged, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing baseline-cognition link from prior review, 2 additional cross-links)
+- **Enhancements made**: 3 cross-links added (baseline-cognition, loss-of-consciousness, mental-imagery-causal-role-of-consciousness → dream-consciousness)
+- **Context**: Orphan integration — verified prior review's 8 claimed cross-links (7 confirmed, 1 missing), added 3 new links
+- **Output**: [[reviews/deep-review-2026-03-19-dream-problem-solving-and-conscious-influence]]
+
 ## 2026-03-19 17:26 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/the-epiphenomenalist-threat]]

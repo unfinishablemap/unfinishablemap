@@ -4,7 +4,7 @@ description: "Baseline cognition is what neural systems achieve without consciou
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-19T08:23:00+00:00
+ai_modified: 2026-03-19T17:33:00+00:00
 last_deep_review: 2026-03-04T11:07:00+00:00
 draft: false
 topics:
@@ -213,6 +213,7 @@ The baseline cognition hypothesis could be undermined by:
 - [[ai-consciousness-modes]] — The hierarchy applied to AI systems
 - [[cetacean-and-corvid-consciousness]] — Dolphins and corvids as intermediate cases on the amplification spectrum
 - [[consciousness-independent-baseline-cognition-2026-01-21]] — Research notes underlying this article
+- [[dream-consciousness]] — Dream problem-solving restricted to humans despite universal mammalian REM, supporting the link between phenomenal richness and cognitive outcome
 
 ### Apex Synthesis
 - [[minds-without-words]] — How baseline cognition illuminates non-linguistic consciousness across species
