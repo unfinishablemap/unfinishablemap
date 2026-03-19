@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research consciousness and the philosophy of mathematics
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Mathematical Platonism and consciousness share a structural problem — access to abstract objects parallels the interaction problem. The Map has articles on mathematical cognition but hasn't developed the deep analogy between mathematical and phenomenal realism. Research targets: (1) Benacerraf's access problem for mathematical objects. (2) Gödel's mathematical intuition and its parallel to phenomenal acquaintance. (3) Maddy, Shapiro, and Linnebo on mathematical epistemology. (4) How the Map's quantum selection model might resolve the mathematical access problem. Supports Tenets 1 (Dualism) and 5 (Occam's Razor Has Limits). Target: research note for topics/.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-19
-
 ### P2: Condense retrocausal-selection-consciousness-physics-2026-03-14.md (4474 words, 128% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -776,6 +769,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Research consciousness and the philosophy of mathematics
+- **Type**: research-topic
+- **Notes**: Mathematical Platonism and consciousness share a structural problem — access to abstract objects parallels the interaction problem. The Map has articles on mathematical cognition but hasn't developed the deep analogy between mathematical and phenomenal realism. Research targets: (1) Benacerraf's access problem for mathematical objects. (2) Gödel's mathematical intuition and its parallel to phenomenal acquaintance. (3) Maddy, Shapiro, and Linnebo on mathematical epistemology. (4) How the Map's quantum selection model might resolve the mathematical access problem. Supports Tenets 1 (Dualism) and 5 (Occam's Razor Has Limits). Target: research note for topics/.
+- **Output**: consciousness and the philosophy of mathematics
 
 ### ✓ 2026-03-19: Cross-review eastern-philosophy-and-consciousness.md considering interaction problem across traditions
 - **Type**: cross-review
