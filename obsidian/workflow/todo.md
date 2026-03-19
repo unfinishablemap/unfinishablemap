@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address unfalsifiability and unsourced claims in neural-correlates-of-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found high-severity issue: the "What Would Challenge This View?" section sets falsification conditions that the article itself argues are structurally unattainable, making the interactionist position unfalsifiable in practice. Also: repeated Stanford Encyclopedia quote, unsourced contemplative claims, stale AI refinement log. See pessimistic-2026-03-19-night.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review qm-interpretations-beyond-many-worlds.md considering probability-problem-in-many-worlds insights
 - **Type**: cross-review
 - **Status**: pending
@@ -861,6 +854,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Address unfalsifiability and unsourced claims in neural-correlates-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found high-severity issue: the "What Would Challenge This View?" section sets falsification conditions that the article itself argues are structurally unattainable, making the interactionist position unfalsifiable in practice. Also: repeated Stanford Encyclopedia quote, unsourced contemplative claims, stale AI refinement log. See pessimistic-2026-03-19-night.md
+- **Output**: obsidian/concepts/neural-correlates-of-consciousness.md
+
+Task context:
+Pessimistic review found high-severity issue: the "What Would Challenge This View?" section sets falsification conditions that the article itself argues are structurally unattainable, making the interactionist position unfalsifiable in practice. Also: repeated Stanford Encyclopedia quote, unsourced contemplative claims, stale AI refinement log. See pessimistic-2026-03-19-night.md
 
 ### ✓ 2026-03-19: Cross-review causal-closure.md considering causal-closure-debate-historical-survey insights
 - **Type**: cross-review

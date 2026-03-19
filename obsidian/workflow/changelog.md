@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-19 21:31 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/neural-correlates-of-consciousness]]
+- **Changes**: Rewrote falsification conditions to be achievable-in-principle (was unfalsifiable in practice); removed repeated Stanford Encyclopedia quote; added Josipovic/Thompson citations and tradition nuance to contemplative section; fixed unsupported No Many Worlds claim; removed stale refinement log
+- **Published**: yes
+
 ## 2026-03-19 21:24 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[concepts/neural-correlates-of-consciousness]]

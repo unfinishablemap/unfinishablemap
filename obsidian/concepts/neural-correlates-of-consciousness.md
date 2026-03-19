@@ -4,7 +4,7 @@ description: "Brain activity correlating with conscious experience. Correlation 
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-04T17:14:00+00:00
+ai_modified: 2026-03-19T21:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -120,27 +120,29 @@ NCC findings don't favor illusionism over realism. Both camps make the same empi
 
 ## Contemplative Evidence and NCC
 
-The [[witness-consciousness|witness consciousness]] tradition offers a distinctive perspective. NCC research identifies patterns correlating with conscious *contents*, but what about the *subject* who has experiences? [[introspection|Introspective reports]] consistently distinguish what is experienced (which NCCs track) from *that* it is experienced (which NCCs don't straightforwardly capture).
+The [[witness-consciousness|witness consciousness]] tradition offers a distinctive perspective. NCC research identifies patterns correlating with conscious *contents*, but what about the *subject* who has experiences? Phenomenological analysis distinguishes what is experienced (which NCCs track) from *that* it is experienced (which NCCs don't straightforwardly capture).
 
-Contemplatives report that when perceptual content subsides, something remains: awareness itself. This phenomenology—if reliable—suggests consciousness isn't fully captured by content-specific NCCs. The question: what are the NCCs for the witness itself, or does this point to something NCC methodology cannot capture?
+Some contemplative traditions—particularly Advaita Vedanta and certain Tibetan Buddhist practices—report that when perceptual content subsides, something remains: a minimal phenomenal experience that Josipovic (2019) characterises as "non-dual awareness." However, not all traditions agree. Theravada Buddhism describes *nirodha samāpatti* (cessation attainment) as the complete absence of consciousness, suggesting awareness does not always persist when content disappears. This disagreement matters: if some contemplative practices produce genuine cessation rather than minimal awareness, the "witness" may be a feature of certain meditative states rather than a fundamental property of consciousness.
+
+Where witness-like states do occur, they pose a genuine question for NCC methodology: what neural activity corresponds to awareness stripped of content? Thompson (2014) argues that contemplative neuroscience can contribute first-person data to this question, though the interpretation of such data remains contested.
 
 
 ## What Would Challenge This View?
 
 The interactionist interpretation would face difficulty if:
 
-1. **NCC achieved explanatory closure**—if neural descriptions became transparently identical to phenomenal descriptions, such that knowing the complete functional and structural properties of V4 activity entailed knowing why it feels like seeing colour (analogous to how knowing H₂O's molecular structure explains why it dissolves salt)
-2. **Consciousness could be fully controlled via NCC manipulation**—not just modulated but created, eliminated, or arbitrarily modified
-3. **Filter theory predictions failed**—if severe NCC disruption always eliminated consciousness entirely with no "covert consciousness" phenomena
-4. **The illusionist program succeeded**—a complete functional account of phenomenal seeming without phenomenal residue
+1. **Computational models predicted first-person reports from neural data alone**—if a complete model of posterior cortical dynamics could predict the specific character of a subject's experience (not just *that* they see colour, but which colour, with what vividness, under what attentional conditions) with no residual variance attributable to non-physical factors. This is achievable in principle with advancing neuroimaging and computational methods.
+2. **NCC manipulation produced arbitrary novel experiences**—not just eliminating or modulating existing experiences, but reliably creating phenomenal states with no evolutionary or experiential precedent (e.g., inducing the experience of a "new colour" via targeted cortical stimulation). Current stimulation evokes experiences within the subject's existing repertoire; generating genuinely novel qualia purely from neural manipulation would suggest the physical substrate is sufficient.
+3. **Filter theory predictions failed**—if severe NCC disruption always eliminated consciousness entirely with no "covert consciousness" phenomena. Current evidence is mixed: covert consciousness findings are contested, and systematic failure of these findings would weaken the transmission interpretation.
+4. **The explanatory gap closed progressively**—if successive NCC discoveries made the connection between neural description and phenomenal character increasingly intelligible (as happened with heat and molecular kinetic energy), even without full closure, the *trend* toward transparency would favour identity over interaction.
 
-None of these conditions are currently met.
+The interactionist should be honest: conditions 1 and 2 are difficult to meet but not structurally impossible. They require empirical advances, not a change in the nature of reality. The article's arguments about the [[explanatory-gap]] suggest these conditions *may* never be met—but "may never" is not "cannot in principle," and the interactionist position must accept genuine empirical risk to remain intellectually serious.
 
 ## Relation to the Map's Perspective
 
 ### Dualism
 
-NCC research does not resolve whether consciousness is physical. Interactionism "actually predicts that mental events are caused by brain events and vice versa" (Stanford Encyclopedia)—the same correlations would exist whether consciousness is neural activity or interacts with it.
+NCC research does not resolve whether consciousness is physical. As argued in the interactionist predictions section, both physicalism and interactionism predict exactly the correlations NCC research discovers—the data alone cannot distinguish the two frameworks.
 
 What NCC research *does* reveal is the [[explanatory-gap]]: correlations multiply, but the connection between neural description and phenomenal character never becomes *transparent*. We can predict that V4 damage eliminates color experience without understanding *why* V4 activity feels like color. This persistent opacity supports [[tenets#^dualism|Dualism]]. If consciousness were identical to neural activity, we would expect the identity to eventually become intelligible.
 
@@ -154,7 +156,7 @@ NCC operates at macroscopic scales and neither supports nor challenges quantum-l
 
 ### No Many Worlds
 
-If NCC identifies where consciousness engages neural activity, and consciousness participates in quantum collapse, NCC research locates where quantum selection might occur. Many-worlds would reframe NCC entirely, but raises the [[haecceity|indexical identity problem]]: why am I the observer in *this* branch? The phenomenology of unified consciousness supports [[tenets#^no-many-worlds|No Many Worlds]].
+If NCC identifies where consciousness engages neural activity, and consciousness participates in quantum collapse, NCC research locates where quantum selection might occur. Many-worlds would reframe NCC entirely: each branch would have its own complete set of NCCs, and the question of which correlations *I* experience becomes the [[haecceity|indexical identity problem]]—why am I the observer in *this* branch rather than any other? MWI proponents treat this as a biographical fact requiring no special explanation, but for the Map, the irreducibility of first-person perspective (the same irreducibility that makes the hard problem hard) suggests indexical identity is not a trivial matter. This supports [[tenets#^no-many-worlds|No Many Worlds]].
 
 ### Occam's Razor Has Limits
 
@@ -187,21 +189,25 @@ These remain philosophical questions. The Map holds that consciousness is irredu
 1. Chalmers, D.J. (2000). What is a neural correlate of consciousness? In T. Metzinger (Ed.), *Neural Correlates of Consciousness*. MIT Press.
 1. Dennett, D.C. (1991). *Consciousness Explained*. Little, Brown.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Josipovic, Z. (2019). Nondual Awareness: Consciousness-as-such as Non-representational Reflexivity. *Progress in Brain Research*, 244, 273-298.
 1. Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: progress and problems. *Nature Reviews Neuroscience*, 17, 307-321.
 1. Kondziella, D., Friberg, C.K., Frokjaer, V.G., Fabricius, M., & Møller, K. (2016). Preserved consciousness in vegetative and minimal conscious states: systematic review and meta-analysis. *Journal of Neurology, Neurosurgery & Psychiatry*, 87, 485-492.
 1. Levine, J. (1983). Materialism and Qualia: The Explanatory Gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 1. Melloni, L., et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
 1. Stanford Encyclopedia of Philosophy. Dualism. https://plato.stanford.edu/entries/dualism/
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+1. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
 
-<!-- AI REFINEMENT LOG - 2026-02-24
+<!-- AI REFINEMENT LOG - 2026-03-19
 Changes made:
-1. Fixed TV analogy bias in "Correlation Is Not Identity": paired with physicalist digestion analogy to achieve genuine philosophical neutrality (pessimistic review Issue #2)
-1. Qualified "clear signs of consciousness" to "neural responses consistent with consciousness" and noted interpretive disagreement (pessimistic review Issue #4)
-1. Added Kondziella et al. (2016) citation for the 25% covert consciousness statistic (pessimistic review Issue #4)
+1. Rewrote "What Would Challenge This View?" section: replaced structurally unattainable falsification conditions with achievable-in-principle ones (computational prediction of first-person reports, generation of novel qualia, progressive closing of explanatory gap). Added honest acknowledgment that conditions are difficult but not impossible. (pessimistic review Issue #2, high severity)
+2. Removed repeated Stanford Encyclopedia quote from "Relation to Map's Perspective: Dualism" — replaced with back-reference to the interactionist predictions section. (pessimistic review Issue #1)
+3. Added Josipovic (2019) and Thompson (2014) citations to Contemplative Evidence section. Acknowledged that not all traditions report persistent witness consciousness (Theravada cessation attainment as counterexample). (pessimistic review Issue #3)
+4. Removed stale 2026-02-24 refinement log. (pessimistic review Issue #4)
+5. Fixed unsupported claim in No Many Worlds section: replaced bare assertion about "phenomenology of unified consciousness" with argument connecting irreducibility of first-person perspective to indexical identity.
 
-Based on pessimistic review (pessimistic-2026-02-24.md), Issues #2 and #4.
-Key improvements: philosophical neutrality and empirical rigor.
+Based on pessimistic review (pessimistic-2026-03-19-night.md).
+Key improvements: intellectual honesty about falsifiability, citation rigor, tradition nuance.
 
 This log should be removed after human review.
 -->
