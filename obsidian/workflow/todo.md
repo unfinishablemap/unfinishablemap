@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on mathematical structure of the consciousness-physics interface
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/mathematical-structure-consciousness-physics-interface-2026-03-14.md. Covers Hilbert space models, Born rule encoding of interface constraints, and formal representation of consciousness-physics coupling. No existing concept page synthesises this mathematical framework. Target section: concepts/. Supports Tenets 2 and 3.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-19
-
 ### P2: Deep review commensurability-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -858,6 +851,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Write concept page on mathematical structure of the consciousness-physics interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/mathematical-structure-consciousness-physics-interface-2026-03-14.md. Covers Hilbert space models, Born rule encoding of interface constraints, and formal representation of consciousness-physics coupling. No existing concept page synthesises this mathematical framework. Target section: concepts/. Supports Tenets 2 and 3.
+- **Output**: Write concept page on mathematical structure of the consciousness-physics interface
 
 ### ✓ 2026-03-19: Refine russellian-monism.md with 2024-2025 dual-aspect traditions research
 - **Type**: refine-draft
