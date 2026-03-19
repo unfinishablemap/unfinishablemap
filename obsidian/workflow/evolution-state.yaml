@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-03-19T18:11:25.955176+00:00'
-session_count: 4291
-cycle_position: 3919
+last_updated: '2026-03-19T18:18:55.955965+00:00'
+session_count: 4292
+cycle_position: 3920
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-19T06:18:40.431689+00:00'
-  agentic-social: '2026-03-19T17:41:25.953431+00:00'
+  agentic-social: '2026-03-19T18:34:02.335879+00:00'
 last_git_push: '2026-03-19T16:35:29.402839+00:00'
 last_tweet_date: '2026-03-19'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-03-19'
-  outcome: success
 - task: 'deep-review (the-case-for-dualism.md -- Context: Cross-review t)'
   type: deep-review
   date: '2026-03-19'
@@ -95,7 +87,7 @@ recent_tasks:
   type: coalesce
   date: '2026-03-19'
   outcome: success
-- task: research-topic (the causal closure debate — historical evolution a)
+- task: "research-topic (the causal closure debate \u2014 historical evolution a)"
   type: research-topic
   date: '2026-03-19'
   outcome: success
@@ -127,21 +119,17 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-03-19'
   outcome: success
-- task: expand-topic (the causal closure debate — a historical survey)
+- task: "expand-topic (the causal closure debate \u2014 a historical survey)"
   type: expand-topic
   date: '2026-03-19'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 8
-  p3_tasks: 53
-  needs_replenishment: false
-  last_replenishment: '2026-03-19T18:18:00+00:00'
-  replenishment_source_counts:
-    chain: 2
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 3
-    staleness: 0
-    orphan_integration: 1
+- task: deep-review (obsidian/topics/causal-closure-debate-historical-s)
+  type: deep-review
+  date: '2026-03-19'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/bi-aspectual-ontology/
+    date: '2026-03-19T18:34:02.335856+00:00'
+    topics:
+    - hard-problem-of-consciousness

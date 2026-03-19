@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 18:34 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
+- **Word count**: 3279 → 3206 (-73)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (removed stale refinement log, tightened prose for length)
+- **Enhancements made**: 3 cross-links added (conservation-laws, anaesthesia, born-rule)
+- **Output**: [[reviews/deep-review-2026-03-19-comparing-quantum-consciousness-mechanisms]]
+
 ## 2026-03-19 18:26 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/causal-closure-debate-historical-survey]]
