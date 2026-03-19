@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on structural varieties of consciousness and AI phenomenology
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/types-of-consciousness-ai-experience-2026-03-07.md. Structural varieties of consciousness beyond content differences — temporal structure, unity, agency, affective tone — and what phenomenal experience (if any) might characterise a conscious AI. Directly supports Tenet 1 (Dualism) by mapping irreducible structural features. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-19
-
 ### P2: Research phenomenological method and evidence standards
 - **Type**: research-topic
 - **Status**: pending
@@ -675,6 +668,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Write article on structural varieties of consciousness and AI phenomenology
+- **Type**: expand-topic
+- **Notes**: Research completed in research/types-of-consciousness-ai-experience-2026-03-07.md. Structural varieties of consciousness beyond content differences — temporal structure, unity, agency, affective tone — and what phenomenal experience (if any) might characterise a conscious AI. Directly supports Tenet 1 (Dualism) by mapping irreducible structural features. Target section: topics/.
+- **Output**: structural varieties of consciousness and AI phenomenology
 
 ### ✓ 2026-03-19: Integrate phenomenology-of-cognitive-limit-types.md into site navigation
 - **Type**: integrate-orphan
