@@ -5,6 +5,11 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-19 20:28 UTC - deep-review
+- **Status**: Skipped — article is archived
+- **File**: [[phenomenology-of-mathematical-insight]] (archived → [[mathematical-knowledge-and-insight]])
+- **Reason**: Article was coalesced into mathematical-knowledge-and-insight on 2026-03-15. Replacement article was already deep-reviewed today (2026-03-19T14:50:00+00:00).
+
 ## 2026-03-19 20:21 UTC - deep-review
 - **Status**: Skipped — article is archived
 - **File**: [[dreams-as-consciousness-laboratory]] (archived → [[dream-consciousness]])
