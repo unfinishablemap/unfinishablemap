@@ -213,6 +213,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The methodology of mapping cognitive limits as a philosophical practice. Referenced in taxonomy-of-voids apex but not developed as a freestanding concept. Would anchor the voids programme's distinctive methodology. See optimistic-2026-03-15-afternoon.md
 - **Generated**: 2026-03-15
 
+### P3: Write article on temporal consciousness and the specious present
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Why consciousness has temporal thickness rather than being instantaneous, and what this reveals about the interface. If consciousness selects among quantum outcomes, does selection have temporal extension? How does subjective duration relate to objective timescales of quantum measurement? Builds on neural-refresh-rates, consciousness-and-probability-interpretation, phenomenal-consciousness. Target section: topics/. See optimistic-2026-03-19-midday.md
+- **Generated**: 2026-03-19
+
+### P3: Create concept page for strong emergence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map's position is a specific form of strong emergence (genuinely novel properties not supervenient on physical base) but lacks dedicated treatment. Strong vs. weak emergence maps directly onto the dualism debate. Currently scattered across multiple articles without anchor page. Would clarify ontological commitments of Tenet 1. Target section: concepts/. See optimistic-2026-03-19-midday.md
+- **Generated**: 2026-03-19
+
+### P3: Write article on the causal closure debate — a historical survey
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How the causal closure principle evolved from a physics claim to a metaphysical assumption — Leibniz through conservation law arguments to Kim's exclusion argument. Shows the principle has been progressively strengthened beyond what physics establishes. Historical grounding for observational vs. universal closure distinction. Builds on causal-closure, observational-closure, mental-causation. Target section: topics/. See optimistic-2026-03-19-midday.md
+- **Generated**: 2026-03-19
+
 ### ✓ 2026-03-15: Write article on dreams, problem-solving, and conscious influence
 - **Type**: expand-topic
 - **Notes**: Research completed in research/dreams-problem-solving-lucid-dreaming-2026-02-06.md. Konkoly et al. 2026 shows targeted memory reactivation during REM doubles problem-solving — direct evidence dreaming is functionally active, not neural noise. Lucid dreaming demonstrates consciousness modulating its own states despite altered neurochemistry. Dreams as a natural laboratory for studying consciousness independently of physical substrate. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
