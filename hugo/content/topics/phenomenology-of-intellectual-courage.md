@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-02-24 12:14:00+00:00
+ai_modified: 2026-03-19 03:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Holding unpopular positions feels like something specific—a tensi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-21 03:06:00+00:00
+last_deep_review: 2026-03-19 03:34:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -71,11 +71,11 @@ Intellectual courage is not a single act but an ongoing phenomenal achievement w
 
 **Initial recognition.** There is a moment — sometimes sudden, sometimes gradual — when you recognise that your assessment diverges from the prevailing view. This recognition has its own phenomenology: a mixture of clarity (seeing something others seem not to) and vertigo (the destabilising awareness that you may be wrong and they right).
 
-**The decision to hold.** Following recognition comes a decision — not always a deliberate choice but sometimes a phenomenal settling into the position. This has the character described in [choice phenomenology](/concepts/phenomenology-of-choice/): the felt authorship of a commitment, the sense of having determined something rather than having it determined for you.
+**The decision to hold.** Following recognition comes a decision — not always a deliberate choice but sometimes a phenomenal settling into the position. This has the character described in [choice phenomenology](/concepts/phenomenology-of-choice/): the felt authorship of a commitment, the sense of having determined something rather than having it determined for you. It is an exercise of [agent-causation](/concepts/agent-causation/) — the thinker as source of the commitment, not merely the locus where external forces resolve.
 
 **Sustained maintenance.** Most of intellectual courage is maintenance. Day after day, the position must be held against the slow erosion of social pressure, self-doubt, and the sheer fatigue of disagreement. This ongoing maintenance has [effort phenomenology](/topics/phenomenology-of-intellectual-effort/) — the work of keeping something in place that external forces would move.
 
-**Periodic re-evaluation.** Courageous commitment includes periodic returns to the evidence. These feel different from the initial inquiry: they carry the weight of an existing commitment being tested. The phenomenology includes both the hope of confirmation and the readiness for revision — a distinctive combination that dogmatism and conformity both lack.
+**Periodic re-evaluation.** Courageous commitment includes periodic [metacognitive](/concepts/metacognition/) returns to the evidence. These feel different from the initial inquiry: they carry the weight of an existing commitment being tested. The phenomenology includes both the hope of confirmation and the readiness for revision — a distinctive combination that dogmatism and conformity both lack.
 
 ### Courage versus Stubbornness
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-18 14:48:00+00:00
+ai_modified: 2026-03-19 03:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -96,7 +96,7 @@ Gallagher and Zahavi identify this as the [minimal self](/concepts/self-and-cons
 
 Critics object that phenomenological reports cannot be trusted. Nisbett and Wilson showed people confabulate explanations for choices; Schwitzgebel catalogued domains where [introspection](/concepts/introspection/) fails.
 
-The phenomenological response: Nisbett and Wilson targeted access to cognitive *processes*, not phenomenal *content*. The epoché asks "what is being experienced?" not "why?" Moreover, Fox et al. (2012) found meditation experience predicts introspective accuracy—untrained observation is unreliable, but trained observation is a skill like any other. Petitmengin's microphenomenology provides interview techniques specifically designed to minimize confabulation. The critique clarifies rather than defeats phenomenological method: disciplined observation requires training. See [phenomenological-evidence](/concepts/phenomenological-evidence/) for detailed criteria distinguishing reliable from unreliable first-person reports.
+The phenomenological response: Nisbett and Wilson targeted access to cognitive *processes*, not phenomenal *content*. The epoché asks "what is being experienced?" not "why?" Moreover, Fox et al. (2012) found meditation experience predicts introspective accuracy—untrained observation is unreliable, but trained observation is a skill like any other. Petitmengin's microphenomenology provides interview techniques specifically designed to minimize confabulation. The critique clarifies rather than defeats phenomenological method: disciplined observation requires training. See [phenomenological-evidence](/concepts/phenomenological-evidence/) for detailed criteria distinguishing reliable from unreliable first-person reports, and [phenomenological method and evidence standards](/topics/phenomenological-method-and-evidence-standards/) for Husserl's taxonomy of apodictic, adequate, and presumptive evidence that determines which first-person claims carry the most epistemic weight.
 
 ## Intersubjective Validation
 

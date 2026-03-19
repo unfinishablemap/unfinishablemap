@@ -38,26 +38,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### ✓ P2: Update references to coalesced articles (compound-cognitive-limits, topology-of-cognitive-failure)
-- **Type**: refine-draft
-- **Status**: done
-- **Notes**: Updated 23 active content files + 2 apex files. Replaced all wikilinks from topology-of-cognitive-failure and compound-cognitive-limits to compound-failure-signatures. Deduplicated related_articles frontmatter and Further Reading entries where both old articles were referenced. Updated citation URLs and titles.
-- **Source**: coalesce
-- **Generated**: 2026-03-19
-- **Completed**: 2026-03-19
-
-### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
-- **Type**: integrate-orphan
+### P3: Deep review methodological-pluralism.md
+- **Type**: deep-review
 - **Status**: pending
-- **Notes**: File created 2026-03-15 has no inbound links. Topics article on dreams as evidence for conscious causal influence — Konkoly et al. targeted memory reactivation during REM, lucid dreaming demonstrations. Add cross-references from related articles (consciousness-and-dreaming, lucid-dreaming-as-capability-evidence, filter-theory, consciousness-as-amplifier) to integrate into the site's link network.
-- **Source**: orphan_integration
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-16 — 31 days ago. Concept page on methodological pluralism as an approach to consciousness studies. Verify coherence, cross-references to recent phenomenological method article, and tenet alignment.
+- **Source**: staleness
 - **Generated**: 2026-03-19
 
-### P2: Integrate concept-of-phenomenal-value-realism.md into site navigation
-- **Type**: integrate-orphan
+### P3: Deep review consciousness-and-probability-interpretation.md
+- **Type**: deep-review
 - **Status**: pending
-- **Notes**: Concept page with no inbound links from other content articles. Phenomenal value realism — the position that value is constitutive of phenomenal experience — is referenced across ethics, meaning, and normative force articles. Add cross-references from phenomenal-normativity, ethics-of-consciousness, moral-phenomenology, consciousness-and-normative-force, or valence-as-selection-currency.
-- **Source**: orphan_integration
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-16 — 31 days ago. Topics article on how consciousness relates to the interpretation of quantum probability. Verify coherence, cross-references to recent non-retrocausal selection models article, and tenet alignment.
+- **Source**: staleness
 - **Generated**: 2026-03-19
 
 ### P3: Deep review social-construction-of-self-vs-phenomenal-self.md
@@ -681,6 +673,47 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-18 has no inbound links. Topics article on lucid dreaming as evidence for consciousness-side rendering capability. Add cross-references from related articles (lucid-dreaming-as-capability-evidence, dream-problem-solving-and-conscious-influence, consciousness-and-dreaming, filter-theory).
+- **Output**: lucid-dreaming-and-mind-side-rendering.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Integrate amplification-mechanisms-consciousness-physics.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-18 has no inbound links. Topics article on how small quantum biases become macroscopic behavioural selection. Add cross-references from related articles (consciousness-selecting-neural-patterns, mind-matter-interface, quantum-consciousness, stapp-quantum-mind).
+- **Output**: obsidian/topics/amplification-mechanisms-consciousness-physics.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Integrate phenomenological-method-and-evidence-standards.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-19 has no inbound links. Topics article establishing evidential standards for phenomenological reports — Husserl's epoché, neurophenomenology, micro-phenomenology. Add cross-references from related articles (contemplative-practice-as-philosophical-evidence, introspection, consciousness-and-scientific-methodology, epistemic-advantages-of-dualism).
+- **Output**: obsidian/topics/phenomenological-method-and-evidence-standards.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Cross-review quantum consciousness articles considering non-retrocausal selection models
+- **Type**: cross-review
+- **Notes**: New article topics/non-retrocausal-conscious-selection-models.md (created 2026-03-18) develops non-retrocausal approaches to consciousness-physics interaction. Review consciousness-selecting-neural-patterns.md and quantum-consciousness.md for cross-links, whether the new models complement or challenge existing treatments, and terminology consistency.
+- **Output**: None -- Context: Cross-review quantum consciousness articles considering non-retrocausal selection models
+
+### ✓ 2026-03-19: Cross-review contemplative and phenomenological evidence articles considering phenomenological-method-and-evidence-standards insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-03-19) establishes evidential standards for first-person reports. Review contemplative-practice-as-philosophical-evidence.md, introspection.md, and consciousness-and-scientific-methodology.md for cross-links, whether the new evidential framework refines existing treatments, and terminology consistency.
+- **Output**: None -- Context: Cross-review contemplative and phenomenological evidence articles considering phenomenological-method-and-evidence-standards insights
+
+### ✓ 2026-03-19: Integrate concept-of-phenomenal-value-realism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page with no inbound links from other content articles. Phenomenal value realism — the position that value is constitutive of phenomenal experience — is referenced across ethics, meaning, and normative force articles. Add cross-references from phenomenal-normativity, ethics-of-consciousness, moral-phenomenology, consciousness-and-normative-force, or valence-as-selection-currency.
+- **Output**: concept-of-phenomenal-value-realism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-15 has no inbound links. Topics article on dreams as evidence for conscious causal influence — Konkoly et al. targeted memory reactivation during REM, lucid dreaming demonstrations. Add cross-references from related articles (consciousness-and-dreaming, lucid-dreaming-as-capability-evidence, filter-theory, consciousness-as-amplifier) to integrate into the site's link network.
+- **Output**: dream-problem-solving-and-conscious-influence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Update references to coalesced articles (compound-cognitive-limits, topology-of-cognitive-failure)
+- **Type**: refine-draft
+- **Notes**: Coalesce created compound-failure-signatures.md from compound-cognitive-limits.md and topology-of-cognitive-failure.md. The following 23 active content files reference the archived articles and need wikilinks updated to point to compound-failure-signatures: phenomenology-of-cognitive-limit-types.md, evidential-weight-of-voids.md, convergence-of-the-void-catalogue.md, taxonomy-of-voids.md (apex), voids.md, simulation-detection-void.md, self-reference-paradox.md, evolved-cognitive-limits.md, epistemology-of-cognitive-limits.md, emergence-void.md, apophatic-cartography.md, transparency-void.md, probability-intuition-void.md, intentionality-void.md, incompleteness-void.md, explanatory-void.md, cognitive-aversion.md, binding-void.md, attention-disorders-and-consciousness.md, appetitive-void.md, observation-void.md, framework-void.md, cartography-problem.md
+- **Output**: Task context:
+Coalesce created compound-failure-signatures.md from compound-cognitive-limits.md and topology-of-cognitive-failure.md. The following 23 active content files reference the archived articles and need wikilinks updated to point to compound-failure-signatures: phenomenology-of-cognitive-limit-types.md, evidential-weight-of-voids.md, convergence-of-the-void-catalogue.md, taxonomy-of-voids.md (apex), voids.md, simulation-detection-void.md, self-reference-paradox.md, evolved-cognitive-limits.md, epistemology-of-cognitive-limits.md, emergence-void.md, apophatic-cartography.md, transparency-void.md, probability-intuition-void.md, intentionality-void.md, incompleteness-void.md, explanatory-void.md, cognitive-aversion.md, binding-void.md, attention-disorders-and-consciousness.md, appetitive-void.md, observation-void.md, framework-void.md, cartography-problem.md
 
 ### ✓ 2026-03-19: Integrate structural-varieties-of-consciousness-and-ai-phenomenology.md into site navigation
 - **Type**: integrate-orphan

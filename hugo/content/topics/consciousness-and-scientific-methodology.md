@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-03-11 21:17:00+00:00
+ai_modified: 2026-03-19 03:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -98,7 +98,7 @@ If standard scientific methodology is structurally mismatched with consciousness
 
 **Methodological pluralism** accepts that consciousness requires both first-person and third-person methods. [Neurophenomenology](/concepts/neurophenomenology/) formalises this through "mutual constraint" — phenomenological description and neuroscientific measurement each discipline the other. This is a real advance over purely third-person approaches, but it does not resolve the deeper issue: the first-person data and third-person data remain *different kinds* of data that no current framework unifies.
 
-**Trained introspection** addresses the reliability objection by treating first-person observation as a skill requiring practice. Contemplative traditions have developed sophisticated techniques for observing consciousness over millennia. As [recent work confirms](/topics/contemplative-evidence-for-consciousness-theories/), trained meditators produce more consistent and fine-grained phenomenological reports. This improves the *quality* of first-person data without dissolving the *asymmetry* between first-person and third-person access.
+**Trained introspection** addresses the reliability objection by treating first-person observation as a skill requiring practice. Contemplative traditions have developed sophisticated techniques for observing consciousness over millennia. As [recent work confirms](/topics/contemplative-evidence-for-consciousness-theories/), trained meditators produce more consistent and fine-grained phenomenological reports. Husserl's [evidence taxonomy](/topics/phenomenological-method-and-evidence-standards/) provides additional rigour by distinguishing apodictic claims (experience exists) from merely presumptive ones (background phenomenology persists when unattended), showing that first-person evidence has its own internal hierarchy of reliability. This improves the *quality* of first-person data without dissolving the *asymmetry* between first-person and third-person access.
 
 **Structural correspondence** approaches look for isomorphisms between phenomenological structures and neural structures — shared patterns that might bridge the gap without reducing one to the other. Integrated Information Theory attempts something like this, proposing that consciousness corresponds to specific mathematical structures in information-processing systems. Whether such structural approaches genuinely explain phenomenal character or merely describe its physical correlates remains contested.
 

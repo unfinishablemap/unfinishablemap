@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-03-10 16:38:00+00:00
+ai_modified: 2026-03-19 03:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -70,7 +70,7 @@ The [unity of consciousness](/concepts/unity-of-consciousness/) is particularly 
 
 The phenomenal 3D world is organised around a point of view. Space radiates outward from a centre—roughly behind the eyes, though the exact location is surprisingly difficult to pin down. This egocentric organisation is not merely a computational convenience. It is a deep feature of spatial experience: the world is always *someone's* world, seen from *somewhere*.
 
-The perspective problem asks why spatial representation has this centred, first-person character. A spatial map—the kind maintained by hippocampal place cells—can represent locations allocentrically, without privileging any particular viewpoint. The brain maintains both egocentric and allocentric representations. But conscious spatial experience is irreducibly perspectival. The felt world has a here, a there, a near, and a far that are defined relative to the experiencing subject.
+The perspective problem asks why spatial representation has this centred, first-person character. A spatial map—the kind maintained by hippocampal place cells—can represent locations allocentrically, without privileging any particular viewpoint. The brain maintains both egocentric and allocentric representations. But conscious spatial experience is irreducibly perspectival. The felt world has a here, a there, a near, and a far that are defined relative to the experiencing subject. [Lucid dreaming](/topics/lucid-dreaming-and-dualist-rendering/) sharpens this point: the dreamer inhabits a fully perspectival three-dimensional world with no external spatial structure to ground it, suggesting that centred perspective is a mind-side contribution rather than a product of sensory geometry.
 
 This connects to broader questions about the self and consciousness. The spatial perspective is arguably the most primitive form of subjectivity—a point from which the world is experienced. If spatial experience were merely computational, there would be no reason for it to be centred on a subject. Maps need not have viewpoints. That the phenomenal world has one suggests something beyond mapping is occurring.
 

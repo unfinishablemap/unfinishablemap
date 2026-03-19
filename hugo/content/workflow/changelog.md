@@ -18,6 +18,98 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 03:42 UTC - deep-review
+- **Status**: Success
+- **File**: [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/)
+- **Word count**: 2906 → 2907 (+1)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (Revonsuo inline citation, orphan cross-references)
+- **Enhancements made**: 5 inbound cross-references added from related articles
+- **Output**: [deep-review-2026-03-19-lucid-dreaming-and-dualist-rendering](/reviews/deep-review-2026-03-19-lucid-dreaming-and-dualist-rendering/)
+
+## 2026-03-19 03:34 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/)
+- **Word count**: 2508 → 2531 (+23)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (missing body cross-links for frontmatter concepts)
+- **Enhancements made**: 2 (added [agent-causation](/concepts/agent-causation/) and [metacognition](/concepts/metacognition/) cross-links in body text)
+- **Output**: [deep-review-2026-03-19-phenomenology-of-intellectual-courage](/reviews/deep-review-2026-03-19-phenomenology-of-intellectual-courage/)
+
+## 2026-03-19 03:27 UTC - deep-review
+- **Status**: Success
+- **File**: [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)
+- **Word count**: 1998 → 1998 (+0, no content changes — article stable)
+- **Critical issues addressed**: 0 (none found; two prior reviews resolved all)
+- **Medium issues addressed**: 1 (incomplete orphan integration)
+- **Enhancements made**: 7 inbound cross-links from related articles (extended orphan integration)
+- **Output**: [deep-review-2026-03-19-amplification-mechanisms-consciousness-physics](/reviews/deep-review-2026-03-19-amplification-mechanisms-consciousness-physics/)
+
+## 2026-03-19 03:19 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)
+- **Word count**: 2019 → 2019 (+0, minor date fix only)
+- **Critical issues addressed**: 0 (none found; previous review resolved all)
+- **Medium issues addressed**: 1 (date inconsistency)
+- **Enhancements made**: 7 inbound cross-links from related articles (orphan integration)
+- **Output**: [deep-review-2026-03-19-phenomenological-method-and-evidence-standards-b](/reviews/deep-review-2026-03-19-phenomenological-method-and-evidence-standards-b/)
+
+## 2026-03-19 03:15 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 433 (225 topics, 208 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 4 (stylistic consistency, no tenet violations)
+- **Output**: [tenet-check-2026-03-19](/reviews/tenet-check-2026-03-19/)
+
+## 2026-03-19 03:11 UTC - deep-review
+- **Status**: Success
+- **File**: [categorical-surprise](/concepts/categorical-surprise/)
+- **Word count**: 1837 → 1856 (+19)
+- **Critical issues addressed**: 1 (duplicate Further Reading entry)
+- **Medium issues addressed**: 2 (quantum interaction cross-link, PP framework cross-link)
+- **Enhancements made**: 3 (non-retrocausal selection cross-link, PP framework link, frontmatter update)
+- **Output**: [deep-review-2026-03-19-categorical-surprise](/reviews/deep-review-2026-03-19-categorical-surprise/)
+
+## 2026-03-19 03:03 UTC - deep-review
+- **Status**: Success
+- **File**: [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
+- **Word count**: 3915 → 3941 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing cross-link to evidence taxonomy, evidence calibration opportunity)
+- **Enhancements made**: 3 (evidence taxonomy integration, cross-links, prose trimming)
+- **Output**: [deep-review-2026-03-19-contemplative-practice-as-philosophical-evidence](/reviews/deep-review-2026-03-19-contemplative-practice-as-philosophical-evidence/)
+
+## 2026-03-19 02:58 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Sections searched**: voids (99/100), topics (225/230)
+- **Iterations**: 5
+- **Clusters evaluated**: Self-reference/introspection voids (4 articles), observation/transition voids (2), skilled performance topics (3), interface problems topics (2), mental causation evidence topics (2), short article candidates (3)
+- **Reason**: All candidate clusters proved well-differentiated on close reading. Many articles have already been through prior coalescence rounds. No genuine redundancy found.
+
+## 2026-03-19 02:43 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-value-realism](/topics/phenomenal-value-realism/)
+- **Word count**: 3789 → 3789 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (fixed 4 misleading cross-links in other articles)
+- **Enhancements made**: 4 wikilinks corrected from `[Phenomenal value realism](/concepts/phenomenal-normativity/)` to `[Phenomenal value realism](/topics/phenomenal-value-realism/)` in qualia.md, consciousness-value-connection.md, animal-consciousness.md, ai-consciousness.md
+- **Output**: [deep-review-2026-03-19-phenomenal-value-realism](/reviews/deep-review-2026-03-19-phenomenal-value-realism/)
+
+## 2026-03-19 02:34 UTC - deep-review
+- **Status**: Success
+- **File**: [the-interface-specification-problem](/topics/the-interface-specification-problem/)
+- **Word count**: 2369 → 2380 (+11)
+- **Critical issues addressed**: 1 (broken `[selection-laws](/concepts/psychophysical-laws/)` wikilink after archival)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (cross-link to epistemology-of-mechanism article)
+- **Output**: [deep-review-2026-03-19-the-interface-specification-problem](/reviews/deep-review-2026-03-19-the-interface-specification-problem/)
+
+## 2026-03-19 02:27 UTC - deep-review
+- **Status**: Skipped (no changes needed)
+- **File**: [dream-problem-solving-and-conscious-influence](/archive/topics/dream-problem-solving-and-conscious-influence/)
+- **Reason**: Archived file coalesced into [dream-consciousness](/topics/dream-consciousness/) on 2026-03-15. Previous review (2026-03-18b) already added 8 cross-links to the successor article and marked the file as terminal stability. The successor has 85+ inbound links. Archived files' orphan status is by design — no action warranted.
+
 ## 2026-03-19 02:21 UTC - refine-draft
 - **Status**: Success
 - **Task**: Update wikilinks from archived articles to coalesced compound-failure-signatures

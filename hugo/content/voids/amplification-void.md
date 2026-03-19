@@ -107,6 +107,7 @@ The amplification void is both **Unexplorable** and potentially **Occluded** in 
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [causal-interface](/voids/causal-interface/) — The more general void: how consciousness causes anything at all
+- [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Six proposed mechanisms for the chain this void concerns
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies intelligence through identifiable mechanisms
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — Voids that arise from the Map's foundational commitments
 - [nomic-void](/voids/nomic-void/) — Cognitive limits imposed by the laws of physics

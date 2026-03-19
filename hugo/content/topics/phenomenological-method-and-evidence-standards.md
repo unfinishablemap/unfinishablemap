@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-19 01:57:00+00:00
+ai_modified: 2026-03-19 03:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: How phenomenology's internal evidence taxonomy—apodictic, adequat
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 01:57:00+00:00
+last_deep_review: 2026-03-19 03:19:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +58,7 @@ The distinctive contribution of Husserlian phenomenology to the evidence questio
 
 **Adequate evidence** involves complete self-givenness—the object is presented without remainder, with nothing hidden or merely anticipated. Husserl initially treated adequate evidence as the gold standard for phenomenological claims but later recognised that even immanent perception involves horizonality. The present moment of experience is adequately given, but its temporal context—what just preceded, what is about to follow—extends into presumptive horizons.
 
-The crucial insight from *Cartesian Meditations* (1929): "adequacy and apodicticity of evidence need not go hand in hand." One can have apodictic certainty that experience exists while lacking adequate (complete) knowledge of its content. The ego's existence is indubitable; its full nature is not transparently given.
+The crucial insight from *Cartesian Meditations* (1931): "adequacy and apodicticity of evidence need not go hand in hand." One can have apodictic certainty that experience exists while lacking adequate (complete) knowledge of its content. The ego's existence is indubitable; its full nature is not transparently given.
 
 **Assertoric evidence** is individual seeing—direct encounter with a particular instance without claims to necessity or completeness. A specific experience of red is assertorically given: one encounters it directly but cannot extrapolate from this instance to necessary truths about colour experience in general.
 

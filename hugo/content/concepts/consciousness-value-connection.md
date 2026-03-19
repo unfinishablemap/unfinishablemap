@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-07 02:38:00+00:00
+ai_modified: 2026-03-19 02:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -72,7 +72,7 @@ Consider love. Is love valuable if it exists only as a brain state no one experi
 
 ### The Phenomenal Value Realism Route
 
-[Phenomenal value realism](/concepts/phenomenal-normativity/) makes a stronger claim: some phenomenal properties just *are* value properties. The felt badness of pain is not correlated with value—it *constitutes* badness. Experiencing pleasure is not instrumentally good; the experience itself is goodness instantiated. This is known through direct [introspective](/concepts/introspection/) access, not inference.
+[Phenomenal value realism](/topics/phenomenal-value-realism/) makes a stronger claim: some phenomenal properties just *are* value properties. The felt badness of pain is not correlated with value—it *constitutes* badness. Experiencing pleasure is not instrumentally good; the experience itself is goodness instantiated. This is known through direct [introspective](/concepts/introspection/) access, not inference.
 
 On this view, the consciousness-value connection is not merely contingent (consciousness happens to be required for value) but necessary (consciousness provides the very stuff of value). Value is a phenomenal property, and phenomenal properties require consciousness.
 

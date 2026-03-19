@@ -1,12 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-03-04 13:38:00+00:00
+ai_modified: 2026-03-19 02:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[mental-causation]]'
-- '[[selection-laws]]'
 - '[[psychophysical-laws]]'
 - '[[interactionist-dualism]]'
 - '[[quantum-consciousness]]'
@@ -24,7 +23,7 @@ description: 'The hardest open challenge for interactionist dualism: specifying 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-20 21:06:00+00:00
+last_deep_review: 2026-03-19 02:34:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -97,7 +96,7 @@ The specification problem is not merely unsolved—it may be structurally diffic
 
 ### The Concept Gap
 
-We may lack the right concepts. Physical laws relate physical quantities to each other—force to mass, energy to frequency. [Selection-laws](/concepts/psychophysical-laws/) would relate phenomenal quantities to physical quantities. But phenomenal quantities resist the kind of measurement and mathematical formalisation that physical quantities permit. How much attention is "twice as much"? Is there a natural unit of effort?
+We may lack the right concepts. Physical laws relate physical quantities to each other—force to mass, energy to frequency. [Selection laws](/concepts/psychophysical-laws/) would relate phenomenal quantities to physical quantities. But phenomenal quantities resist the kind of measurement and mathematical formalisation that physical quantities permit. How much attention is "twice as much"? Is there a natural unit of effort?
 
 Psychophysics has scaling methods (Stevens' power law relates stimulus intensity to perceived intensity), but these relate physical inputs to behavioural outputs—the phenomenal middleman is inferred, not measured. A genuine selection law would need to quantify phenomenal states *as* phenomenal states, not merely as their physical correlates. We currently have no way to do this.
 
@@ -105,7 +104,7 @@ Psychophysics has scaling methods (Stevens' power law relates stimulus intensity
 
 Even if selection laws exist, we may not be able to discover them through normal empirical methods. The laws relate conscious experience to quantum events. We access experience through first-person report and quantum events through third-person measurement, but we have no instrument that simultaneously tracks both with the precision needed. The ~10 bits/second bandwidth of conscious processing means that introspective reports are coarse-grained; quantum measurement is destructive and alters what it measures.
 
-This is not a complaint about current technology. It may reflect a deeper structural constraint: the interface operates at a scale and speed where first-person and third-person methods cannot simultaneously apply with adequate precision.
+This is not a complaint about current technology. It may reflect a deeper structural constraint: the interface operates at a scale and speed where first-person and third-person methods cannot simultaneously apply with adequate precision. The [epistemology of mechanism](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/) explores what methods might reach the interface when direct observation is structurally impossible.
 
 ### The Underdetermination Problem
 
@@ -178,8 +177,7 @@ The specification problem is the Map's most significant open challenge. Acknowle
 
 ## Further Reading
 
-- [selection-laws](/concepts/psychophysical-laws/) — What selection laws must specify and candidate formulations
-- [psychophysical-laws](/concepts/psychophysical-laws/) — Fundamental principles connecting conscious experience to physical processes
+- [psychophysical-laws](/concepts/psychophysical-laws/) — Fundamental principles connecting conscious experience to physical processes, including selection law formulations
 - [coupling-modes](/concepts/coupling-modes/) — Taxonomy of how consciousness couples: basis, timing, or probability control
 - [mental-causation](/concepts/mental-causation/) — The broader case for consciousness causing physical effects
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — The unified attention-motor interface where selection occurs

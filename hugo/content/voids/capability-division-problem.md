@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-03-15 16:49:00+00:00
+ai_modified: 2026-03-19 03:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -75,7 +75,7 @@ The capability division problem is not confined to visual perception. Wherever t
 
 **Memory.** Physical engrams encode information, but recall involves autonoetic re-experiencing, selectional guidance during reconstruction, and phenomenal colouring that no trace can carry. The [dual-domain capability](/concepts/memory-as-dual-domain-capability/) framework makes the division explicit: the brain handles storage and replay; consciousness handles the phenomenal dimension of remembering — the *what it was like* that distinguishes episodic recall from mere data retrieval.
 
-**Dreams.** During REM sleep, consciousness generates immersive experiential worlds while sensory input is suppressed and neural architecture reorganises. [Dream consciousness](/topics/dream-consciousness/) demonstrates that the brain provides representational tools (the rendering engine) while consciousness contributes phenomenal engagement, and the relative contributions shift across waking, non-lucid dreaming, and lucid states.
+**Dreams.** During REM sleep, consciousness generates immersive experiential worlds while sensory input is suppressed and neural architecture reorganises. [Dream consciousness](/topics/dream-consciousness/) demonstrates that the brain provides representational tools (the rendering engine) while consciousness contributes phenomenal engagement, and the relative contributions shift across waking, non-lucid dreaming, and [lucid states](/topics/lucid-dreaming-and-dualist-rendering/).
 
 **Sensorimotor engagement.** [Sensorimotor contingency theory](/topics/sensorimotor-contingencies-and-the-interface/) maps the interface's operational grammar — the lawful patterns linking movement to sensation. Brain-side processing masters these contingencies; mind-side contribution supplies the phenomenal character that accompanies mastery.
 

@@ -152,7 +152,7 @@ More directly: the quasi-phenomenal framework must explain why disrupting quasi-
 
 The [decoherence objection](/concepts/decoherence/) holds that quantum coherence cannot survive in warm, wet brains—destroying superpositions too rapidly for consciousness to exploit.
 
-This challenge applies to the amplification hypothesis only if amplification requires quantum mechanisms. The amplification might operate through attention-based selection regardless of whether quantum processes are involved at the fundamental level. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes one possible mechanism, but the core amplification argument stands independently.
+This challenge applies to the amplification hypothesis only if amplification requires quantum mechanisms. The amplification might operate through attention-based selection regardless of whether quantum processes are involved at the fundamental level. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes one possible mechanism—six distinct [amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/) have been proposed in the literature, from microtubule-mediated collapse to stochastic resonance—but the core amplification argument stands independently.
 
 ## Contemplative Evidence
 

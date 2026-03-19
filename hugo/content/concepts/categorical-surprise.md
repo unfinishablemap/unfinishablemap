@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-22 08:44:00+00:00
+ai_modified: 2026-03-19 03:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: When expectation fails not at the level of prediction but at the le
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-20 03:06:00+00:00
+last_deep_review: 2026-03-19 03:11:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -29,6 +29,7 @@ related_articles:
 - '[[explanatory-gap]]'
 - '[[mysterianism]]'
 - '[[consciousness-and-creativity]]'
+- '[[consciousness-selecting-neural-patterns]]'
 title: Categorical Surprise
 topics:
 - '[[surprise-prediction-error-and-consciousness]]'
@@ -39,7 +40,7 @@ Categorical surprise is the experience of encountering something that falls outs
 
 ## Ordinary Surprise Versus Categorical Surprise
 
-Predictive processing describes the brain as a hierarchical prediction engine. When predictions fail, error signals propagate upward. This handles ordinary surprise well: you predicted one value within a known category, the world delivered another, and the model updates.
+[Predictive processing](/topics/predictive-processing-and-the-maps-framework/) describes the brain as a hierarchical prediction engine. When predictions fail, error signals propagate upward. This handles ordinary surprise well: you predicted one value within a known category, the world delivered another, and the model updates.
 
 Categorical surprise is structurally different. The system confronts a situation where no model in its current repertoire applies. The failure is not within the prediction space but of the prediction space. Three features distinguish it:
 
@@ -95,7 +96,7 @@ Categorical surprise connects to The Unfinishable Map's [tenets](/tenets/) at se
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If categorical surprise merely *accompanied* framework revision without contributing to it, the tight correlation between phenomenal character and cognitive outcome would be a systematic coincidence. The Map's position is that consciousness does the framework-transcending work—it is the capacity that enables recognition of one's own representational limits and the reorganisation that follows.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Categorical surprise is the situation where habitual neural processing fails most completely—where no existing model applies and the system requires genuinely novel reorganisation. If consciousness influences the brain by biasing quantum indeterminacies in neural systems, framework transcendence is where this influence matters most. Routine prediction error can be handled by established neural pathways; categorical surprise demands the kind of novel state-selection that the Map's quantum interaction model describes.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Categorical surprise is the situation where habitual neural processing fails most completely—where no existing model applies and the system requires genuinely novel reorganisation. The Map's [non-retrocausal selection models](/concepts/consciousness-selecting-neural-patterns/) propose that consciousness influences neural outcomes by selecting among quantum possibilities where physics leaves outcomes open. Framework transcendence is where this selection matters most: routine prediction error can be handled by established neural pathways operating within their existing repertoire, but categorical surprise demands genuinely novel state-selection—the kind of intervention that forward-in-time conscious selection provides.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Reducing categorical surprise to "large prediction error" is parsimonious. It is also wrong. The structural difference between updating a parameter and recognising framework inadequacy is not a difference of degree but of kind. Parsimony here purchases simplicity by collapsing a genuine distinction.
 
@@ -105,10 +106,9 @@ The Map's treatment of categorical surprise would be undermined by several possi
 
 ## Further Reading
 
-- [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/) — The parent treatment of surprise and phenomenal consciousness
+- [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/) — The parent treatment of surprise, prediction error, and creative self-surprise
 - [predictive-processing](/concepts/predictive-processing/) — The computational framework that handles ordinary but not categorical surprise
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — Creative insight as framework transcendence
-- [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/) — Including creative self-surprise and why creators astonish themselves
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Consciousness as enabler of cognitive achievements beyond routine processing
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — What it is like to think, understand, and grasp a concept
 - [metacognition](/concepts/metacognition/) — Awareness of one's own cognitive processes and their limits
@@ -116,6 +116,7 @@ The Map's treatment of categorical surprise would be undermined by several possi
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — Protention and the forward-directed structure of experience
 - [epistemic-emotions](/concepts/epistemic-emotions/) — The family of feelings directed at knowledge itself
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — Categorical surprise in the context of scientific anomaly and paradigm shifts
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The non-retrocausal selection mechanism that categorical surprise may activate most intensely
 
 ## References
 

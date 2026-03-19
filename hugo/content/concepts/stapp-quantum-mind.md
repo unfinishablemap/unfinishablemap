@@ -179,6 +179,7 @@ The model generates falsifiable predictions:
 - [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — Whether valence could extend the Zeno mechanism beyond value-neutral attention
 - [stapp-mental-effort-mind-matter-2026-01-14](/research/stapp-mental-effort-mind-matter-2026-01-14/) — Detailed research notes
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — How Stapp's Zeno mechanism fits within the broader interpretive landscape
+- [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Comparative survey: Stapp's Zeno approach alongside five other amplification mechanisms
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: the reverse inference from consciousness to physics, with the Born rule as interface specification
 
 ## References

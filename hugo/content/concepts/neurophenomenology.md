@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-14 22:56:00+00:00
+ai_modified: 2026-03-19 03:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -43,7 +43,7 @@ If advanced meditators can access phenomenal states with no third-person equival
 
 ## Varela's Method
 
-Varela (1946-2001) proposed neurophenomenology as "a methodological remedy for the hard problem." The explanatory gap cannot be closed from the third-person side alone. The method involves:
+Varela (1946-2001) proposed neurophenomenology as "a methodological remedy for the hard problem." The explanatory gap cannot be closed from the third-person side alone. Husserl's [evidence taxonomy](/topics/phenomenological-method-and-evidence-standards/) provides the internal rigour: different phenomenological claims carry different epistemic weight, from apodictic certainty about experience's existence to merely presumptive claims about its fine structure. Varela's method builds on this by adding external constraint:
 
 1. **Phenomenological training**: Subjects learn to observe experience systematically—through meditation or microphenomenological interviews
 2. **Neural measurement**: Brain activity recorded during specific experiential states

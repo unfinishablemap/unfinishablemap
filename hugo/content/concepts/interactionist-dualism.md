@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-18 21:14:00+00:00
+ai_modified: 2026-03-19 03:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -135,7 +135,7 @@ Quantum mechanics describes systems in superposition until measured. What causes
 
 **Orchestrated Objective Reduction (Orch OR)**: Penrose and Hameroff propose consciousness originates in quantum computations within microtubules, with collapse events constituting conscious experience itself.
 
-Both proposals share what the Map requires: consciousness biasing otherwise indeterminate outcomes without violating physical law.
+Both proposals share what the Map requires: consciousness biasing otherwise indeterminate outcomes without violating physical law. [Lucid dreaming](/topics/lucid-dreaming-and-dualist-rendering/) provides phenomenological evidence for this kind of biasing — the dreamer's conscious intentions reshape neural activity in real time, with the degree of control varying in ways consistent with selection within physical constraints.
 
 ## Selection, Biasing, and Falsifiability
 
@@ -219,6 +219,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno mechanism for consciousness-brain interaction
 - [psychophysical-coupling](/concepts/psychophysical-laws/) — How phenomenal properties map to physical selections
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the causal interface
+- [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Six proposed mechanisms for bridging the quantum-to-neural gap
 - [amplification-void](/voids/amplification-void/) — Why the quantum-to-neural chain is structurally untraceable
 
 **Objections and responses:**

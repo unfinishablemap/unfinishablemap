@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-02-21 12:06:00+00:00
+ai_modified: 2026-03-19 03:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -46,7 +46,7 @@ The Unfinishable Map holds that phenomenal reports—verbal or behavioural expre
 
 Every empirical science rests on observations. In physics, chemistry, and biology, observations are publicly accessible: multiple instruments and observers converge on the same measurements. Consciousness appears to break this pattern. A subject reporting "I see red" makes a claim about a [phenomenal state](/concepts/phenomenal-consciousness/) that no external instrument can directly verify. The report is public; the experience is not.
 
-This asymmetry creates a dilemma. If science restricts itself to third-person data—neural imaging, behavioural measures, physiological correlates—it can study the correlates of consciousness but never consciousness itself. The [explanatory-gap](/concepts/explanatory-gap/) between physical description and phenomenal character remains unbridged because the very data that could bridge it has been ruled inadmissible. Yet if science admits first-person reports, it must address their reliability, since [introspection](/concepts/introspection/) is fallible.
+This asymmetry creates a dilemma. If science restricts itself to third-person data—neural imaging, behavioural measures, physiological correlates—it can study the correlates of consciousness but never consciousness itself. Husserl's [evidence taxonomy](/topics/phenomenological-method-and-evidence-standards/)—distinguishing apodictic, adequate, and presumptive evidence—shows that the evidential weight of first-person data varies by type: the existence of experience is apodictically certain, while claims about its fine structure remain revisable. The [explanatory-gap](/concepts/explanatory-gap/) between physical description and phenomenal character remains unbridged because the very data that could bridge it has been ruled inadmissible. Yet if science admits first-person reports, it must address their reliability, since [introspection](/concepts/introspection/) is fallible.
 
 The standard move in much of cognitive science has been to adopt something like [heterophenomenology](/concepts/heterophenomenology/)—Daniel Dennett's proposal to take reports as data about what subjects *believe* about their experience, without committing to whether those beliefs accurately reflect phenomenal reality. This claims methodological neutrality. But the neutrality is illusory: by bracketing phenomenal reality and treating reports only as behavioural data, heterophenomenology excludes the very evidence that could adjudicate the question it professes to leave open. The methodology's consequences are not neutral even if its stated assumptions are.
 
