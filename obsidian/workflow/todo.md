@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on physical completeness — the structural-ontological gap
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/completeness-in-physics-epr-bell-2026-03-14.md and supplement research/completeness-in-physics-epr-bell-2026-03-17.md. Physics describes all structural relations (EPR, Bell) but not what realises them — "partial but complete." This framing dissolves the apparent conflict between physical completeness and dualism. Core to Tenets 1 and 2. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review comparing-quantum-consciousness-mechanisms.md considering Penrose gravity-collapse article
 - **Type**: cross-review
 - **Status**: pending
@@ -879,6 +872,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Write concept page on physical completeness — the structural-ontological gap
+- **Type**: expand-topic
+- **Notes**: Research completed in research/completeness-in-physics-epr-bell-2026-03-14.md and supplement research/completeness-in-physics-epr-bell-2026-03-17.md. Physics describes all structural relations (EPR, Bell) but not what realises them — "partial but complete." This framing dissolves the apparent conflict between physical completeness and dualism. Core to Tenets 1 and 2. Target section: concepts/.
+- **Output**: Write concept page on physical completeness — the structural-ontological gap
 
 ### ✓ 2026-03-19: Integrate evolution-of-consciousness-dualist-perspective.md into site navigation
 - **Type**: integrate-orphan

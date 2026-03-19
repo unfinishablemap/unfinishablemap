@@ -5,6 +5,13 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-19 22:32 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Physical completeness — the structural-ontological gap
+- **Output**: [[concepts/physical-completeness]]
+- **Word count**: 1695
+- **Based on research**: yes ([[completeness-in-physics-epr-bell-2026-03-14]], [[completeness-in-physics-epr-bell-2026-03-17]])
+
 ## 2026-03-19 22:18 UTC - deep-review
 - **Status**: Skipped
 - **File**: evolution-of-consciousness-dualist-perspective.md
