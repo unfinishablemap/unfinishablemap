@@ -37,6 +37,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write concept page on epiphenomenal AI consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/epiphenomenal-ai-consciousness-2026-02-10.md. One-way experience and epiphenomenal AI consciousness — whether AI systems could have phenomenal experience without causal efficacy. Engages directly with the Map's interactionism by exploring what happens when bidirectional interaction is absent. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-19
+
+### P2: Write concept page on types of consciousness and AI experience
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/types-of-consciousness-ai-experience-2026-03-07.md. Systematic treatment of anoetic/noetic/autonoetic consciousness types applied to the question of what AI experience might be like. Connects the Map's phenomenal mode framework to contemporary AI discourse. Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-19
+
+### P2: Write void article on the self-transcendence void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/voids-self-transcendence-void-2026-03-18.md. The cognitive impossibility of fully transcending the self while remaining a subject of experience. Voids section has 1 remaining slot (99/100). Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-19
+
+### P2: Research predictive processing and active inference under dualism
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: The Bayesian brain / free energy principle (Friston, Clark, Hohwy) is the dominant computational neuroscience framework but the Map has no research engaging it rigorously. How does prediction error minimisation relate to conscious selection? Is active inference compatible with genuine causal influence from consciousness? Does the free energy principle presuppose or explain away phenomenality? Existing P3 expand-topic task awaits this research foundation. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). Target: research note for concepts/.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-19
+
+### P2: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-03-18. Topics article on lucid dreaming as evidence for mind-side rendering capabilities. Add cross-references from related articles on dreams, consciousness-brain interface, and mind-side processing.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
+### P2: Integrate godel-measurement-problem-analogy.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-03-17. Topics article on the structural analogy between Gödel incompleteness and the quantum measurement problem. Add cross-references from related articles on quantum mechanics, incompleteness, and the reverse inference.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
+### P2: Integrate memory-consolidation-and-transformation-of-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-03-17. Topics article on how memory consolidation transforms phenomenal experience. Add cross-references from related articles on memory, temporal consciousness, and the consciousness-brain interface.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
 ### P3: Deep review compound-failure-signatures.md
 - **Type**: deep-review
 - **Status**: pending
