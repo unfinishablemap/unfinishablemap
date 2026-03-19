@@ -5,6 +5,11 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-19 19:43 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Probability and decision-theory objections to Many Worlds
+- **Reason**: Already covered comprehensively by [[probability-problem-in-many-worlds]] (coalesced from three articles including "decision-theory-cannot-save-many-worlds"). No distinct angle remains for a new article.
+
 ## 2026-03-19 19:40 UTC - coalesce
 - **Status**: Abandoned (no candidates)
 - **Reason**: Searched topics (226/230, most pressured section) and voids (97/100) across 5 iterations examining phenomenology clusters, epistemology pairs, social cognition, temporal articles, methodology articles, clinical evidence, and cognitive limit voids. Content is well-differentiated; previous coalescence has already merged the most obvious overlaps.

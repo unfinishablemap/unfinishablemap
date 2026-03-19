@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on probability and decision-theory objections to Many Worlds
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Covers Deutsch-Wallace decision-theoretic derivation circularity, Kent's and Albert's objections, the self-locating probability problem, and why MWI cannot ground the Born rule without smuggling in assumptions. Directly supports Tenet 4 (No Many Worlds). Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-19
-
 ### P2: Write article on Penrose gravity-collapse connection and empirical prospects
 - **Type**: expand-topic
 - **Status**: pending
@@ -868,6 +861,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Write article on probability and decision-theory objections to Many Worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Covers Deutsch-Wallace decision-theoretic derivation circularity, Kent's and Albert's objections, the self-locating probability problem, and why MWI cannot ground the Born rule without smuggling in assumptions. Directly supports Tenet 4 (No Many Worlds). Target section: topics/.
+- **Output**: probability and decision-theory objections to Many Worlds
 
 ### ✓ 2026-03-19: Condense wheeler-participatory-universe-it-from-bit-2026-03-16.md (4002 words, 114% of target)
 - **Type**: condense
