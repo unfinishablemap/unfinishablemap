@@ -4,7 +4,7 @@ description: "Why consciousness is necessary for value to exist. Without experie
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-03-07T02:38:00+00:00
+ai_modified: 2026-03-19T02:43:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -70,7 +70,7 @@ Consider love. Is love valuable if it exists only as a brain state no one experi
 
 ### The Phenomenal Value Realism Route
 
-[[phenomenal-normativity|Phenomenal value realism]] makes a stronger claim: some phenomenal properties just *are* value properties. The felt badness of pain is not correlated with value—it *constitutes* badness. Experiencing pleasure is not instrumentally good; the experience itself is goodness instantiated. This is known through direct [[introspection|introspective]] access, not inference.
+[[topics/phenomenal-value-realism|Phenomenal value realism]] makes a stronger claim: some phenomenal properties just *are* value properties. The felt badness of pain is not correlated with value—it *constitutes* badness. Experiencing pleasure is not instrumentally good; the experience itself is goodness instantiated. This is known through direct [[introspection|introspective]] access, not inference.
 
 On this view, the consciousness-value connection is not merely contingent (consciousness happens to be required for value) but necessary (consciousness provides the very stuff of value). Value is a phenomenal property, and phenomenal properties require consciousness.
 

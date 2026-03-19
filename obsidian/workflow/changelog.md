@@ -17,6 +17,15 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 02:43 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenal-value-realism]]
+- **Word count**: 3789 → 3789 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (fixed 4 misleading cross-links in other articles)
+- **Enhancements made**: 4 wikilinks corrected from `[[phenomenal-normativity|Phenomenal value realism]]` to `[[topics/phenomenal-value-realism|Phenomenal value realism]]` in qualia.md, consciousness-value-connection.md, animal-consciousness.md, ai-consciousness.md
+- **Output**: [[reviews/deep-review-2026-03-19-phenomenal-value-realism]]
+
 ## 2026-03-19 02:34 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/the-interface-specification-problem]]

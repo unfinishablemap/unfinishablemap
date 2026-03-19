@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate concept-of-phenomenal-value-realism.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Concept page with no inbound links from other content articles. Phenomenal value realism — the position that value is constitutive of phenomenal experience — is referenced across ethics, meaning, and normative force articles. Add cross-references from phenomenal-normativity, ethics-of-consciousness, moral-phenomenology, consciousness-and-normative-force, or valence-as-selection-currency.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-19
-
 ### P3: Deep review social-construction-of-self-vs-phenomenal-self.md
 - **Type**: deep-review
 - **Status**: pending
@@ -665,6 +658,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Integrate concept-of-phenomenal-value-realism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page with no inbound links from other content articles. Phenomenal value realism — the position that value is constitutive of phenomenal experience — is referenced across ethics, meaning, and normative force articles. Add cross-references from phenomenal-normativity, ethics-of-consciousness, moral-phenomenology, consciousness-and-normative-force, or valence-as-selection-currency.
+- **Output**: concept-of-phenomenal-value-realism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-19: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
 - **Type**: integrate-orphan
