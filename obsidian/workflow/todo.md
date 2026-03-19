@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review mind-matter-interface.md considering amplification-mechanisms insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article amplification-mechanisms-consciousness-physics.md (created 2026-03-19) surveys how small quantum biases become macroscopic effects. Review mind-matter-interface.md — the central article on the consciousness-physics interface — for cross-links to the amplification treatment and consistency with the specific mechanisms discussed. Supports Tenet 2 (Minimal Quantum Interaction).
-- **Source**: chain (from amplification-mechanisms-consciousness-physics.md)
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review hard-problem-of-consciousness.md considering metaproblem insights
 - **Type**: cross-review
 - **Status**: pending
@@ -822,6 +815,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review mind-matter-interface.md considering amplification-mechanisms insights
+- **Type**: cross-review
+- **Notes**: New article amplification-mechanisms-consciousness-physics.md (created 2026-03-19) surveys how small quantum biases become macroscopic effects. Review mind-matter-interface.md — the central article on the consciousness-physics interface — for cross-links to the amplification treatment and consistency with the specific mechanisms discussed. Supports Tenet 2 (Minimal Quantum Interaction).
+- **Output**: obsidian/concepts/mind-matter-interface.md -- Context: Cross-review mind-matter-interface.md considering amplification-mechanisms insights
 
 ### ✓ 2026-03-19: Update references to coalesced sleep void articles
 - **Type**: cross-review
