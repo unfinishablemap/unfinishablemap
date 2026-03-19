@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 06:37 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/testing-the-map-from-inside]]
+- **Changed sources**: 6 (all sources updated since last synthesis)
+- **Word count**: 3156 → 3516
+- **Review**: [[reviews/apex-evolve-2026-03-19-testing-the-map-from-inside]]
+- **Key changes**: Integrated trilemma of selection, willed-instructed distinction, causal interface void, Russell's acquaintance/description distinction, cross-cultural contemplative evidence (Sufi murāqaba), decentering research, microphenomenology techniques, EASE instrument; reframed effort argument to be mechanism-independent
+
 ## 2026-03-19 06:32 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Mutation Void — thoughts that transform upon being thought
