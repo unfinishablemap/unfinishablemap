@@ -5,6 +5,11 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-19 20:21 UTC - deep-review
+- **Status**: Skipped — article is archived
+- **File**: [[dreams-as-consciousness-laboratory]] (archived → [[dream-consciousness]])
+- **Reason**: Article was coalesced into dream-consciousness on 2026-03-05. Deep review should target the replacement article instead.
+
 ## 2026-03-19 20:13 UTC - coalesce
 - **Status**: Abandoned — no merge candidates found
 - **Section searched**: topics/ (226/230, most pressured)
