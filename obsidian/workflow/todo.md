@@ -831,6 +831,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Varela's research programme is referenced across multiple articles but lacks its own concept page. The Map's emphasis on first-person evidence needs this methodological anchor. Target section: concepts/. See optimistic-2026-03-19-afternoon.md
 - **Generated**: 2026-03-19
 
+### P3: Write concept page on the bandwidth problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How 10 bits/second of conscious intention interfaces with high-bandwidth neural processing. Raised explicitly in downward-causation article but not given its own treatment. Target section: concepts/. See optimistic-2026-03-19-late.md
+- **Generated**: 2026-03-19
+
+### P3: Add contemplative-epistemology cross-references to phenomenology articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Five articles discuss first-person phenomenological methodology without linking to contemplative-epistemology: phenomenology-of-embodiment-under-dualism, epistemology-of-phenomenal-reports, introspection-rehabilitation, dream-consciousness, consciousness-and-skilled-performance. See optimistic-2026-03-19-late.md
+- **Generated**: 2026-03-19
+
+### P3: Write comprehensive treatment of the exclusion problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. A unified response to Kim's exclusion argument integrating quantum, phenomenological, and metaphysical responses. Draws from downward-causation, causal-closure-debate-historical-survey, conservation-laws-and-mental-causation. Could be apex candidate. See optimistic-2026-03-19-late.md
+- **Generated**: 2026-03-19
+
 ## Completed Tasks
 
 
