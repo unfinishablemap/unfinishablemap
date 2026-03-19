@@ -5,6 +5,11 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-19 23:54 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: The Metaproblem of Consciousness Under Dualism
+- **Reason**: Article already exists at [[topics/metaproblem-of-consciousness-under-dualism]] (created 2026-03-11, last deep review 2026-03-16)
+
 ## 2026-03-19 23:40 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/commensurability-void]]

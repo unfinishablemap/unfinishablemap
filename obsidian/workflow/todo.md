@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write topics article on the metaproblem of consciousness under dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/metaproblem-consciousness-dualism-2026-03-06.md. Chalmers' metaproblem (2018) asks why we think consciousness poses a hard problem. The existing concept page (concepts/meta-problem-of-consciousness.md) covers basics; a deeper topics article should develop the specifically dualist response: interactionism's unique resistance to debunking arguments, the zombie meta-problem, and how consciousness causally contributing to philosophical reasoning undermines purely physical explanations of problem intuitions. Directly supports Tenet 3 (Bidirectional Interaction). Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-19
-
 ### P2: Integrate consciousness-physics-interface-formalism.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -893,6 +886,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Write topics article on the metaproblem of consciousness under dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/metaproblem-consciousness-dualism-2026-03-06.md. Chalmers' metaproblem (2018) asks why we think consciousness poses a hard problem. The existing concept page (concepts/meta-problem-of-consciousness.md) covers basics; a deeper topics article should develop the specifically dualist response: interactionism's unique resistance to debunking arguments, the zombie meta-problem, and how consciousness causally contributing to philosophical reasoning undermines purely physical explanations of problem intuitions. Directly supports Tenet 3 (Bidirectional Interaction). Target section: topics/.
+- **Output**: Write topics article on the metaproblem of consciousness under dualism
 
 ### ✓ 2026-03-19: Deep review commensurability-void.md
 - **Type**: deep-review
