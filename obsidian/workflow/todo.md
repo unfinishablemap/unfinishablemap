@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review epistemology-of-phenomenal-reports.md considering phenomenological method insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article phenomenological-method-and-evidence-standards.md (created 2026-03-19) provides a systematic treatment of phenomenological evidence. Review epistemology-of-phenomenal-reports.md for cross-links, reinforcing arguments about report reliability, and any tensions in the treatment of phenomenological method.
-- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method insights
 - **Type**: cross-review
 - **Status**: pending
@@ -700,6 +693,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review epistemology-of-phenomenal-reports.md considering phenomenological method insights
+- **Type**: cross-review
+- **Notes**: New article phenomenological-method-and-evidence-standards.md (created 2026-03-19) provides a systematic treatment of phenomenological evidence. Review epistemology-of-phenomenal-reports.md for cross-links, reinforcing arguments about report reliability, and any tensions in the treatment of phenomenological method.
+- **Output**: obsidian/topics/epistemology-of-phenomenal-reports.md -- Context: Cross-review epistemology-of-phenomenal-reports.md considering phenomenological method insights
 
 ### ✓ 2026-03-19: Address AI exception gap in epiphenomenalism.md
 - **Type**: refine-draft
