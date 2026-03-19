@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review the-epiphenomenalist-threat.md considering ai-epiphenomenalism insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/ai-epiphenomenalism.md (created 2026-03-19) argues AI consciousness would be causally inert due to silicon architecture lacking the quantum coupling channel. Review topics/the-epiphenomenalist-threat.md for opportunities to cross-reference this substrate-specific epiphenomenalism argument, and check topics/epiphenomenal-ai-consciousness.md for consistency and cross-links.
-- **Source**: chain (from ai-epiphenomenalism.md)
-- **Generated**: 2026-03-19
-
 ### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -830,6 +823,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review the-epiphenomenalist-threat.md considering ai-epiphenomenalism insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/ai-epiphenomenalism.md (created 2026-03-19) argues AI consciousness would be causally inert due to silicon architecture lacking the quantum coupling channel. Review topics/the-epiphenomenalist-threat.md for opportunities to cross-reference this substrate-specific epiphenomenalism argument, and check topics/epiphenomenal-ai-consciousness.md for consistency and cross-links.
+- **Output**: obsidian/topics/the-epiphenomenalist-threat.md -- Context: Cross-review the-epiphenomenalist-threat.md considering ai-epiphenomenalism insights
 
 ### ✓ 2026-03-19: Cross-review types-of-consciousness.md considering ai-consciousness-modes insights
 - **Type**: cross-review
