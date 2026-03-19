@@ -37,6 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address circularity in free-will.md phenomenology argument
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the argument from phenomenology of effort is circular—it assumes introspective reliability about agency, which is precisely what's at issue. Add explicit engagement with introspective unreliability concerns (Schwitzgebel) and explain why agency phenomenology should be trusted. Also justify the >95% neural prediction falsification threshold or replace with a more principled criterion. See pessimistic-2026-03-19-midday.md
+- **Generated**: 2026-03-19
+
+### P2: Strengthen illusionism engagement and fix MWI physics in qualia.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) illusionism treatment is too dismissive—Strawson's ridicule quote shouldn't stand as near-refutation; engage seriously with Frankish's positive account. (2) MWI subsection contains a physics error—MWI with decoherence predicts definite qualia per branch, not superposed qualia. Rewrite to focus on indexical identity argument instead. See pessimistic-2026-03-19-midday.md
+- **Generated**: 2026-03-19
+
 ### P2: Cross-review hard-problem-of-consciousness.md considering non-western hard problem insights
 - **Type**: cross-review
 - **Status**: pending
