@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 10:29 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: memory-consolidation-and-transformation-of-experience.md
+- **Reason**: Article was archived on 2026-03-18 and coalesced into [[topics/consciousness-and-memory]]. The orphan detection found a stale hugo/content/topics/ file that should be cleaned up by running sync. No review needed — all content is properly absorbed into the parent article.
+- **Todo**: Removed invalid integrate-orphan task
+
 ## 2026-03-19 10:22 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/pain-asymbolia]]

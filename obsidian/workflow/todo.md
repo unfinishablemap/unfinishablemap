@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate memory-consolidation-and-transformation-of-experience.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links (created 2026-03-17). Add cross-references from related articles on memory, temporal consciousness, and experience transformation, or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-19
-
-### P3: Deep review predictive-processing-and-active-inference-under-dualism.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Topics article on how prediction error minimisation and active inference relate to the Map's dualist framework. Cross-reviews completed but no comprehensive deep review yet. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-19
-
 ### P3: Deep review self-transcendence-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -742,6 +730,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Integrate memory-consolidation-and-transformation-of-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-03-17). Add cross-references from related articles on memory, temporal consciousness, and experience transformation, or update section index pages to include navigation to this content.
+- **Output**: memory-consolidation-and-transformation-of-experience.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-19: Integrate godel-measurement-problem-analogy.md into site navigation
 - **Type**: integrate-orphan
