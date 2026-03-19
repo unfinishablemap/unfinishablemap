@@ -4,7 +4,7 @@ description: "If value requires consciousness, what grounds environmental obliga
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-03-18T15:28:00+00:00
+ai_modified: 2026-03-19T14:58:00+00:00
 draft: false
 topics:
   - "[[ethics-of-consciousness]]"
@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[phenomenal-normativity]]"
   - "[[consciousness-value-connection]]"
-  - "[[topics/phenomenal-value-realism]]"
+  - "[[topics/phenomenal-value-realism|phenomenal value realism]]"
   - "[[qualia]]"
   - "[[valence]]"
   - "[[moral-phenomenology-and-perception]]"
@@ -20,7 +20,7 @@ related_articles:
   - "[[tenets]]"
   - "[[meaning-of-life]]"
   - "[[consciousness-and-normative-force]]"
-  - "[[aesthetic-dimension-of-consciousness]]"
+  - "[[aesthetics-and-consciousness]]"
   - "[[pain-consciousness-and-causal-power]]"
   - "[[free-will]]"
   - "[[downward-causation]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-21
 last_curated:
-last_deep_review: 2026-02-22T13:11:00+00:00
+last_deep_review: 2026-03-19T14:58:00+00:00
 ---
 
 If intrinsic value exists only in conscious experience—if pain's badness and pleasure's goodness are built into what those experiences feel like—then environmental ethics cannot ground obligations in ecosystems, species, or landscapes themselves. The Unfinishable Map's [[phenomenal-normativity|phenomenal normativity]] demands that moral weight tracks consciousness, not ecological wholes. Yet this position does not license environmental indifference. It reconfigures environmental ethics around the conscious beings who inhabit, depend on, and appreciate the natural world—yielding obligations that are often more demanding than those of traditional environmentalism.
@@ -76,7 +76,7 @@ Ecosystems, species, and biodiversity have enormous instrumental value under sen
 
 **Habitat preservation** sustains the conditions for conscious flourishing across species. Destroying habitat eliminates the possibility of positive experience for the beings who would have lived there.
 
-**Species preservation** matters because species are not mere collections of genes but populations of (often) conscious individuals. Extinction eliminates an entire lineage of phenomenal experience—a distinctive way that consciousness instantiates in the world.
+**Species preservation** matters because each species comprises (often) conscious individuals whose experiences carry intrinsic value. Extinction eliminates an entire lineage of phenomenal experience—a distinctive way that consciousness instantiates in the world.
 
 **Biodiversity** supports ecosystem resilience, which in turn sustains the conditions for conscious life. Monocultures and simplified ecosystems are more fragile, threatening the conscious beings who depend on them.
 
@@ -86,9 +86,9 @@ These instrumental obligations can be more demanding than ecocentrist obligation
 
 ## The Aesthetic Dimension
 
-[[aesthetic-dimension-of-consciousness|Aesthetic experience]] provides a distinct but often overlooked grounding for environmental obligations. The felt beauty of a mountain landscape, the awe evoked by old-growth forest, the contemplative quality of watching ocean waves—these are phenomenal experiences with intrinsic normative character.
+[[aesthetics-and-consciousness|Aesthetic experience]] provides a distinct but often overlooked grounding for environmental obligations. The felt beauty of a mountain landscape, the awe evoked by old-growth forest, the contemplative quality of watching ocean waves—these are phenomenal experiences with intrinsic normative character.
 
-The Map's [[topics/phenomenal-value-realism#The Map's Position: Phenomenal Value Pluralism|phenomenal value pluralism]] recognises aesthetic quality as intrinsically valuable alongside hedonic valence, meaning, agency, and understanding. Environmental destruction eliminates not only habitat for conscious animals but also the conditions for profound aesthetic experience in conscious beings who encounter nature.
+The Map's [[topics/phenomenal-value-realism#Beyond Hedonism|phenomenal value pluralism]] recognises aesthetic quality as intrinsically valuable alongside hedonic valence, meaning, agency, and understanding. Environmental destruction eliminates not only habitat for conscious animals but also the conditions for profound aesthetic experience in conscious beings who encounter nature.
 
 This is not ecocentrism—the aesthetic value exists in the experience of the perceiver, not in the landscape itself. Nor is it anthropocentrism in disguise: any conscious being capable of aesthetic experience (and there is reason to think many animals experience something akin to environmental preference, habitat attachment, or sensory satisfaction) has a stake in the preservation of conditions for such experience. The obligations here extend beyond human aesthetic enjoyment to encompass the experiential richness available to all conscious perceivers. Destroying what makes such experiences possible diminishes the field of available value. A world stripped of wilderness contains fewer opportunities for the kind of deep aesthetic experience that carries intrinsic normative weight.
 
@@ -137,7 +137,7 @@ The Map's tenets shape environmental ethics distinctively:
 - [[ethics-of-consciousness]] — Moral implications of consciousness across beings
 - [[animal-consciousness]] — Evidence for and scope of animal experience
 - [[topics/phenomenal-value-realism]] — The metaethical foundation
-- [[aesthetic-dimension-of-consciousness]] — Aesthetic normativity beyond hedonic valence
+- [[aesthetics-and-consciousness]] — Aesthetic normativity beyond hedonic valence
 - [[consciousness-and-normative-force]] — How normative demands present in experience across four domains
 - [[moral-phenomenology-and-perception|Moral Phenomenology and Perception]] — Direct apprehension of moral properties
 - [[pain-consciousness-and-causal-power]] — Why pain's awfulness is constitutive, not correlative
