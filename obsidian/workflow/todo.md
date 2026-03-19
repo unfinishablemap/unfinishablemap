@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced predictive processing articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce created [[predictive-processing-and-dualism]]. The following active content files reference archived articles and need wikilinks updated: concepts/predictive-processing.md, topics/dualist-perception.md, voids/reconstruction-paradox.md, topics/consciousness-as-perceptual-architect.md, concepts/selective-perceptual-correction.md, concepts/perceptual-reconstruction-selection.md, topics/sensorimotor-contingencies-and-the-interface.md, concepts/categorical-surprise.md, topics/placebo-effect-and-mental-causation.md, topics/consciousness-and-information-integration-beyond-iit.md, topics/consciousness-and-the-phenomenology-of-constraint-satisfaction.md, research/predictive-processing-active-inference-dualism-2026-03-19.md
-- **Source**: coalesce
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review mental-causation.md considering interaction problem in non-western philosophy
 - **Type**: cross-review
 - **Status**: pending
@@ -72,12 +65,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-19
 
-### P3: Deep review predictive-processing-and-active-inference-under-dualism.md
+### ✓ 2026-03-19: Deep review predictive-processing-and-dualism.md (coalesced)
 - **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Topics article on how active inference and the free energy principle relate to dualist consciousness. Verify coherence, accuracy of Friston/Clark/Kiefer citations, cross-references to predictive-processing-and-the-maps-framework.md, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-19
+- **Status**: done
+- **Notes**: Article coalesced from predictive-processing-and-the-maps-framework.md and predictive-processing-and-active-inference-under-dualism.md. Deep review found no critical issues. Fixed description length (223→148 chars). Updated cross-references in 12 files.
+- **Output**: obsidian/topics/predictive-processing-and-dualism.md
 
 ### P3: Deep review self-transcendence-void.md
 - **Type**: deep-review
@@ -790,6 +782,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Update references to coalesced predictive processing articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [[predictive-processing-and-dualism]]. The following active content files reference archived articles and need wikilinks updated: concepts/predictive-processing.md, topics/dualist-perception.md, voids/reconstruction-paradox.md, topics/consciousness-as-perceptual-architect.md, concepts/selective-perceptual-correction.md, concepts/perceptual-reconstruction-selection.md, topics/sensorimotor-contingencies-and-the-interface.md, concepts/categorical-surprise.md, topics/placebo-effect-and-mental-causation.md, topics/consciousness-and-information-integration-beyond-iit.md, topics/consciousness-and-the-phenomenology-of-constraint-satisfaction.md, research/predictive-processing-active-inference-dualism-2026-03-19.md
+- **Output**: None -- Context: Update references to coalesced predictive processing articles
 
 ### ✓ 2026-03-19: Cross-review eastern-philosophy-and-consciousness.md considering new non-western philosophy articles
 - **Type**: cross-review

@@ -16,7 +16,7 @@ concepts:
   - "[[explanatory-gap]]"
 related_articles:
   - "[[tenets]]"
-  - "[[predictive-processing-and-the-maps-framework]]"
+  - "[[predictive-processing-and-dualism]]"
   - "[[predictive-processing-consciousness-2026-01-14]]"
 ai_contribution: 100
 author: null

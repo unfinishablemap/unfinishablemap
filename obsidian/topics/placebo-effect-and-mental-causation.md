@@ -24,7 +24,7 @@ related_articles:
   - "[[evolutionary-case-for-mental-causation]]"
   - "[[tenets]]"
   - "[[pain-consciousness-and-causal-power]]"
-  - "[[predictive-processing-and-the-maps-framework]]"
+  - "[[predictive-processing-and-dualism]]"
   - "[[phenomenology-of-anticipation]]"
 ai_contribution: 100
 author:
@@ -94,7 +94,7 @@ Some researchers argue that placebo effects are "merely" classical conditioning 
 
 Conditioning explanations capture part of the picture, particularly for immune and hormonal responses. But they cannot account for the full range of placebo phenomena. Novel placebos — treatments patients have never encountered before — still produce effects when accompanied by verbal information about expected outcomes (Benedetti et al., 2003). Verbal instruction alone, without prior conditioning, modifies pain responses, motor performance, and autonomic function. This connects to broader questions about [[conscious-vs-unconscious-processing|conscious versus unconscious processing]]: if conditioning were purely mechanical, verbal information should be irrelevant to physiological outcomes.
 
-More fundamentally, conditioning in humans is not the mechanical process it is in simpler organisms. Human conditioning involves *expectation* — the conditioned stimulus works because the person expects the unconditioned response. This parallels [[neuroplasticity]]: just as directed mental activity reshapes neural structure over time, conditioned expectations reshape physiological responses through meaning rather than mere repetition. When expectations are explicitly contradicted (as in extinction trials with full information), conditioned responses diminish faster than in uninformed subjects (Montgomery & Kirsch, 1997). The conditioning itself depends on the meaning the person attributes to the cues. [[Predictive-processing-and-the-maps-framework|Predictive processing]] frameworks capture this well: placebo effects may exploit the brain's precision-weighting mechanisms, with expectations functioning as strong priors that shape physiological prediction errors. But the question of why these priors are accompanied by phenomenal experience — and why the felt quality of expecting pain relief differs from the felt quality of expecting stimulation — returns us to the hard problem.
+More fundamentally, conditioning in humans is not the mechanical process it is in simpler organisms. Human conditioning involves *expectation* — the conditioned stimulus works because the person expects the unconditioned response. This parallels [[neuroplasticity]]: just as directed mental activity reshapes neural structure over time, conditioned expectations reshape physiological responses through meaning rather than mere repetition. When expectations are explicitly contradicted (as in extinction trials with full information), conditioned responses diminish faster than in uninformed subjects (Montgomery & Kirsch, 1997). The conditioning itself depends on the meaning the person attributes to the cues. [[predictive-processing-and-dualism|Predictive processing]] frameworks capture this well: placebo effects may exploit the brain's precision-weighting mechanisms, with expectations functioning as strong priors that shape physiological prediction errors. But the question of why these priors are accompanied by phenomenal experience — and why the felt quality of expecting pain relief differs from the felt quality of expecting stimulation — returns us to the hard problem.
 
 ## Relation to Site Perspective
 
@@ -118,7 +118,7 @@ The Map interprets placebo effects not as anomalies requiring special explanatio
 - [[bidirectional-interaction]] — The Map's commitment to consciousness influencing the physical
 - [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]] — Why genuine intentionality may require phenomenal character
 - [[pain-asymbolia]] — Dissociation between pain perception and phenomenal quality
-- [[predictive-processing-and-the-maps-framework]] — How expectation mechanisms relate to the Map's dualist position
+- [[predictive-processing-and-dualism]] — How expectation mechanisms relate to the Map's dualist position
 - [[content-specificity-of-mental-causation]] — Why the specific content of mental states determines their physical effects
 - [[neuroplasticity]] — How directed mental activity reshapes neural structure
 - [[somatic-interface]] — The channels through which body and consciousness communicate

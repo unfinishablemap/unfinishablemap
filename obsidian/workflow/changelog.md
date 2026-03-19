@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 13:17 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/predictive-processing-and-dualism]]
+- **Word count**: 3067 → 3067 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (description length)
+- **Enhancements made**: 0 (content stable from coalesced sources)
+- **Cross-references updated**: 12 files updated from old slugs to new
+- **Output**: [[reviews/deep-review-2026-03-19-predictive-processing-and-dualism]]
+
 ## 2026-03-19 13:09 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[predictive-processing-and-the-maps-framework]], [[predictive-processing-and-active-inference-under-dualism]]

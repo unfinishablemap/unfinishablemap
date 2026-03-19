@@ -8,7 +8,7 @@ ai_modified: 2026-03-18T14:55:00+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
-  - "[[predictive-processing-and-the-maps-framework]]"
+  - "[[predictive-processing-and-dualism]]"
 concepts:
   - "[[consciousness-selecting-neural-patterns]]"
   - "[[predictive-processing]]"
@@ -55,7 +55,7 @@ The third category is distinctive because consciousness is neither passive recip
 
 ## Predictive Processing and the Selection Mechanism
 
-The [[predictive-processing-and-the-maps-framework|predictive processing framework]] provides the computational machinery for perceptual reconstruction selection. In PP terms, the brain maintains multiple generative models that could explain the incoming sensory data. Precision weighting determines which model dominates: when one model receives higher precision (more attentional resources, stronger contextual support), it suppresses competitors and becomes the conscious percept.
+The [[predictive-processing-and-dualism|predictive processing framework]] provides the computational machinery for perceptual reconstruction selection. In PP terms, the brain maintains multiple generative models that could explain the incoming sensory data. Precision weighting determines which model dominates: when one model receives higher precision (more attentional resources, stronger contextual support), it suppresses competitors and becomes the conscious percept.
 
 On this account, consciousness selecting a percept corresponds to a shift in precision weighting. The [[attention-as-interface|attention-as-interface]] hypothesis connects this directly to the Map's framework: if attention is the mechanism through which consciousness exerts causal influence on neural processing, then perceptual reconstruction selection is attention operating at the level of competing hypotheses. Consciousness does not construct the candidates — the brain's generative models do that — but consciousness biases which candidate prevails by modulating precision.
 
@@ -81,7 +81,7 @@ The Map speculates that the meditation findings are particularly revealing. If t
 - [[selective-perceptual-correction]] — the mechanism of autonomous brain correction
 - [[reconstruction-paradox]] — the philosophical paradox of asymmetric perceptual editing
 - [[attention-as-interface]] — attention as the mechanism of conscious influence
-- [[predictive-processing-and-the-maps-framework]] — predictive processing and interactionist dualism
+- [[predictive-processing-and-dualism]] — predictive processing and interactionist dualism
 - [[filter-theory]] — the brain as filter rather than generator of consciousness
 - [[cognitive-closure]] — the limits of what consciousness can access about its own mechanisms
 - [[dualist-perception]]

@@ -37,7 +37,7 @@ Categorical surprise is the experience of encountering something that falls outs
 
 ## Ordinary Surprise Versus Categorical Surprise
 
-[[predictive-processing-and-the-maps-framework|Predictive processing]] describes the brain as a hierarchical prediction engine. When predictions fail, error signals propagate upward. This handles ordinary surprise well: you predicted one value within a known category, the world delivered another, and the model updates.
+[[predictive-processing-and-dualism|Predictive processing]] describes the brain as a hierarchical prediction engine. When predictions fail, error signals propagate upward. This handles ordinary surprise well: you predicted one value within a known category, the world delivered another, and the model updates.
 
 Categorical surprise is structurally different. The system confronts a situation where no model in its current repertoire applies. The failure is not within the prediction space but of the prediction space. Three features distinguish it:
 

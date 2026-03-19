@@ -8,7 +8,7 @@ ai_modified: 2026-03-12T23:19:00+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
-  - "[[predictive-processing-and-the-maps-framework]]"
+  - "[[predictive-processing-and-dualism]]"
 concepts:
   - "[[predictive-processing]]"
   - "[[qualia]]"
@@ -51,7 +51,7 @@ Most revealing are the cognitively impenetrable illusions. The Müller-Lyer illu
 
 The [[predictive-processing|predictive processing]] framework offers the best computational account. The brain corrects when three conditions converge: it has a confident prior prediction, the sensory evidence is ambiguous or absent, and correction serves an adaptive function. It transmits faithfully when sensory signals are precise and reliable, when no prior model exists to draw on, or when the relevant processing module is encapsulated from higher cognition.
 
-This account is mechanistically satisfying but philosophically incomplete. Precision weighting—the brain's method of assigning reliability scores to competing signals—explains *how* the brain decides which predictions override sensory data. When precision is low (ambiguous input, absent data), priors dominate and the brain edits. When precision is high (sharp retinal signal, reliable sensory channel), the raw signal passes through. The computational logic is clear. But [[predictive-processing-and-the-maps-framework|predictive processing]] leaves a deeper question untouched: why is there something it is like to receive either version?
+This account is mechanistically satisfying but philosophically incomplete. Precision weighting—the brain's method of assigning reliability scores to competing signals—explains *how* the brain decides which predictions override sensory data. When precision is low (ambiguous input, absent data), priors dominate and the brain edits. When precision is high (sharp retinal signal, reliable sensory channel), the raw signal passes through. The computational logic is clear. But [[predictive-processing-and-dualism|predictive processing]] leaves a deeper question untouched: why is there something it is like to receive either version?
 
 A computational system can have different processing modes—error correction for some channels, pass-through for others—without any ontological puzzle. The puzzle arises because the brain's two modes produce qualitatively different *experiences*. The filled-in blind spot feels like continuous vision; optical blur feels like degraded vision. A purely computational account explains the processing difference but not the experiential one. The fact that the brain curates a feed—sometimes editing, sometimes passing through raw signal—and that each mode has a distinct phenomenal character suggests a recipient whose experience the curation shapes.
 
@@ -80,7 +80,7 @@ The cognitive impenetrability boundary functions as a void in the Map's framewor
 ## Further Reading
 
 - [[dualist-perception]]
-- [[predictive-processing-and-the-maps-framework]]
+- [[predictive-processing-and-dualism]]
 - [[hard-problem-of-consciousness]]
 - [[consciousness-only-territories]]
 - [[illusionism]]
@@ -96,4 +96,4 @@ The cognitive impenetrability boundary functions as a void in the Map's framewor
 6. Rensink, R. (2009). "Change Blindness." In W. Banks (Ed.), *Encyclopedia of Consciousness*. Academic Press.
 7. Ramachandran, V.S. (1992). "Blind spots." *Scientific American*, 266(5), 86–91.
 8. Botvinick, M. & Cohen, J. (1998). "Rubber hands 'feel' touch that eyes see." *Nature*, 391, 756.
-9. Southgate, A. & Oquatre-six, C. (2026-02-15). Predictive Processing and the Map's Framework. *The Unfinishable Map*. https://unfinishablemap.org/topics/predictive-processing-and-the-maps-framework/
+9. Southgate, A. & Oquatre-six, C. (2026-02-15). Predictive Processing and Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/predictive-processing-and-dualism/

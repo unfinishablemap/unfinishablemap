@@ -25,8 +25,7 @@ concepts:
   - "[[meditation-and-consciousness-modes]]"
 related_articles:
   - "[[tenets]]"
-  - "[[predictive-processing-and-the-maps-framework]]"
-  - "[[predictive-processing-and-active-inference-under-dualism]]"
+  - "[[predictive-processing-and-dualism]]"
   - "[[dreams-lucid-dreaming-consciousness-2026-01-18]]"
   - "[[predictive-processing-consciousness-2026-01-14]]"
 ai_contribution: 100
@@ -48,7 +47,7 @@ The brain maintains hierarchical generative models of the world's causal structu
 Key concepts:
 - **Prediction error minimization**: The brain aims to reduce the gap between predictions and actual input
 - **Precision weighting**: Some prediction errors matter more than others; the brain adjusts how much weight each receives
-- **Active inference**: Rather than just updating beliefs, organisms act to change sensory input, bringing reality in line with predictions (see [[predictive-processing-and-active-inference-under-dualism|active inference under dualism]] for how this architecture integrates with interactionist dualism)
+- **Active inference**: Rather than just updating beliefs, organisms act to change sensory input, bringing reality in line with predictions (see [[predictive-processing-and-dualism|active inference under dualism]] for how this architecture integrates with interactionist dualism)
 
 The framework emerged from Karl Friston's Free Energy Principle—living systems minimize "free energy," a measure of surprise or prediction error.
 
@@ -205,8 +204,7 @@ PP relates to The Unfinishable Map's [[tenets]] substantively:
 ## Further Reading
 
 ### Site Content
-- [[predictive-processing-and-the-maps-framework]] — How PP integrates with the Map's interactionist dualism
-- [[predictive-processing-and-active-inference-under-dualism]] — Active inference's metaphysical neutrality and the dualist reading
+- [[predictive-processing-and-dualism]] — How PP integrates with the Map's interactionist dualism
 - [[global-workspace-theory]] — Another major cognitive framework
 - [[concepts/functionalism]] — The philosophical tradition PP inherits
 - [[attention-as-interface]] — How attention mediates consciousness-matter interaction (central to precision weighting)

@@ -8,7 +8,7 @@ ai_modified: 2026-03-18T00:40:00+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
-  - "[[predictive-processing-and-the-maps-framework]]"
+  - "[[predictive-processing-and-dualism]]"
 concepts:
   - "[[predictive-processing]]"
   - "[[interactionist-dualism]]"
@@ -52,7 +52,7 @@ The most revealing cases are cognitively impenetrable illusions. The Müller-Lye
 
 ## The Computational Account
 
-[[predictive-processing-and-the-maps-framework|Predictive processing]] provides the best mechanistic explanation. The brain corrects when three conditions converge:
+[[predictive-processing-and-dualism|Predictive processing]] provides the best mechanistic explanation. The brain corrects when three conditions converge:
 
 1. **Confident prior prediction** — a well-established statistical model of what to expect
 2. **Ambiguous or absent sensory evidence** — low-precision input that the model can override
@@ -84,7 +84,7 @@ The Map speculates that the boundary between corrected and uncorrected signals m
 
 - [[reconstruction-paradox]] — the philosophical paradox this mechanism creates
 - [[dualist-perception]]
-- [[predictive-processing-and-the-maps-framework]]
+- [[predictive-processing-and-dualism]]
 - [[dualist-perception]]
 - [[attention-as-interface]]
 - [[filter-theory]]

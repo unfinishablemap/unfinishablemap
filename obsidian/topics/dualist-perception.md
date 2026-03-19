@@ -11,7 +11,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-as-perceptual-architect]]"
   - "[[attention-and-the-consciousness-interface]]"
-  - "[[predictive-processing-and-the-maps-framework]]"
+  - "[[predictive-processing-and-dualism]]"
 concepts:
   - "[[qualia]]"
   - "[[phenomenal-consciousness]]"
@@ -176,7 +176,7 @@ The Map's [[tenets]] find their sharpest expression in perception.
 - [[binding-problem]] — The challenge of phenomenal unity from dispersed processing
 - [[phenomenal-binding-and-multimodal-integration]] — Cross-modal binding and phenomenal unity
 - [[sensorimotor-contingencies-and-the-interface]] — Enactivist perception and the interface model
-- [[predictive-processing-and-the-maps-framework]] — Predictive processing through a dualist lens
+- [[predictive-processing-and-dualism]] — Predictive processing through a dualist lens
 - [[capability-division-problem]] — Separating brain-side and mind-side capabilities
 - [[capability-division-in-vision]] — Vision-specific evidence constraining the brain/mind boundary
 - [[perceptual-failure-and-the-interface]] — What degraded perception reveals about the interface
