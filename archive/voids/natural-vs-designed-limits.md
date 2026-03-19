@@ -6,6 +6,11 @@ modified: 2026-01-31
 human_modified: null
 ai_modified: 2026-03-17T08:14:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-19T09:42:00+00:00
+superseded_by: "/voids/meta-epistemology-of-limits/"
+archive_reason: "Coalesced into The Meta-Epistemology of Cognitive Limits"
+original_path: "/voids/natural-vs-designed-limits/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
