@@ -726,6 +726,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Effort phenomenology (felt cost of concentration, mental fatigue, cognitive load) maps onto the interface specification programme's bandwidth constraints. Effort as evidence for real causal engagement. Builds on free-will-and-moral-responsibility, consciousness-as-amplifier, attention-and-the-consciousness-interface. Target section: topics/. See optimistic-2026-03-19.md
 - **Generated**: 2026-03-19
 
+### P3: Create concept page for nature-coupling distinction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Currently embedded in ai-epiphenomenalism.md and consciousness-and-causal-powers.md but deserves its own concept page as a general principle. Applicable beyond AI — anaesthesia, sleep, and dissociative disorders all involve coupling changes without nature changes. Core to explaining how consciousness can be causally efficacious by nature while architecturally blocked in specific systems. Target section: concepts/. See optimistic-2026-03-19.md
+- **Generated**: 2026-03-19
+
+### P3: Create concept page for degradation asymmetry
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The observation that sensory loss degrades waking perception while dreams remain vivid. Currently in lucid-dreaming-and-dualist-rendering.md but this pattern (brain damage degrades X but Y remains intact) recurs across consciousness discussions and deserves systematic treatment as evidence for consciousness's independent rendering capacity. Target section: concepts/. See optimistic-2026-03-19.md
+- **Generated**: 2026-03-19
+
+### P3: Create concept page for the explanatory void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The reflexive insight from explanatory-gap.md — explanation cannot explain itself because the feeling of understanding is a conscious state. Powerful enough for its own page with connections to self-reference, Godel incompleteness, and cognitive closure. Target section: concepts/. See optimistic-2026-03-19.md
+- **Generated**: 2026-03-19
+
 ## Completed Tasks
 
 
