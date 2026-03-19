@@ -173,6 +173,7 @@ The Map's framework is one of the few that provides all three elements needed to
 - [[concepts/epiphenomenalism]] — The view itself: what it claims and why it fails
 - [[mental-causation]] — Kim's exclusion argument and the Map's quantum response
 - [[causal-closure]] — The principle that drives most theories toward epiphenomenalism
+- [[causal-closure-debate-historical-survey]] — How causal closure evolved from empirical observation to metaphysical axiom
 - [[consciousness-and-causal-powers]] — What kind of causal influence consciousness exercises
 - [[concepts/functionalism]] — Why functional roles alone may not ground phenomenal causation
 - [[panpsychism]] — An alternative that faces its own version of the threat

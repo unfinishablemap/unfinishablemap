@@ -44,7 +44,7 @@ As the foundational [[dualism]] article explains, within [[philosophy-of-mind|ph
 
 ## The View
 
-Epiphenomenalism emerged in the 19th century as physiology revealed the brain's role in behavior. T.H. Huxley, in his 1874 essay "On the Hypothesis that Animals are Automata," argued that consciousness accompanies certain brain processes but does not cause anything. The brain does all the causal work; mind is just along for the ride. This period—discussed in [[history-of-interactionist-dualism]]—saw interactionism enter eclipse as conservation laws seemed to rule out mental causation.
+Epiphenomenalism emerged in the 19th century as physiology revealed the brain's role in behavior. T.H. Huxley, in his 1874 essay "On the Hypothesis that Animals are Automata," argued that consciousness accompanies certain brain processes but does not cause anything. The brain does all the causal work; mind is just along for the ride. This period—discussed in [[history-of-interactionist-dualism]] and the [[causal-closure-debate-historical-survey|historical survey of the causal closure debate]]—saw interactionism enter eclipse as conservation laws seemed to rule out mental causation.
 
 The view has three components:
 
@@ -195,6 +195,7 @@ The self-stultification problem remains the strongest objection: if epiphenomena
 - [[mental-causation]] — The problem epiphenomenalism claims to solve
 - [[illusionism#Structural Convergence with Epiphenomenalism|Illusionism as Epiphenomenalism]] — Why illusionism inherits epiphenomenalism's structural problems
 - [[causal-closure]] — The principle that motivates epiphenomenalism
+- [[causal-closure-debate-historical-survey]] — How causal closure evolved from empirical observation to metaphysical axiom
 - [[metaproblem-of-consciousness-under-dualism]] — The metaproblem as another route to rejecting epiphenomenalism
 - [[the-reverse-inference]] — The reverse direction: using consciousness as secure datum to constrain physics, rather than dismissing it as epiphenomenal
 - [[interactionist-dualism]] — The Map's alternative framework

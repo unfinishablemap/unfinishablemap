@@ -113,7 +113,7 @@ Mental causation can satisfy observational closure through converging mechanisms
 
 ### Empirical Status
 
-Causal closure is not an empirical finding but a methodological assumption. Science *assumes* every physical event has a sufficient physical cause in order to search for physical causes; it does not *discover* this. The success of physics shows that *many* physical events have physical causes, not that *all* do. As [[reductionism]] details, methodological reductionism does not entail ontological reductionism—methodological success cannot establish that mental causes don't exist, only that scientific method doesn't look for them.
+Causal closure is not an empirical finding but a methodological assumption — a point the [[causal-closure-debate-historical-survey|historical survey of the causal closure debate]] traces from Descartes through Leibniz and Helmholtz to Kim. Science *assumes* every physical event has a sufficient physical cause in order to search for physical causes; it does not *discover* this. The success of physics shows that *many* physical events have physical causes, not that *all* do. As [[reductionism]] details, methodological reductionism does not entail ontological reductionism—methodological success cannot establish that mental causes don't exist, only that scientific method doesn't look for them.
 
 To be clear: the Map's position also involves metaphysical commitments beyond empirical evidence. Both positions extrapolate from evidence to metaphysics. The question is which extrapolation better accounts for the full range of phenomena—including the existence of consciousness itself and its apparent causal efficacy.
 
@@ -204,6 +204,7 @@ This is not "god of the gaps" reasoning. Physics *describes* a gap—between qua
 - [[luck-objection]] — The challenge that undetermined choices are merely random; consciousness-as-selector response
 - [[mysterianism]] — Why the mechanism of mind-matter interaction may exceed human comprehension
 - [[self-reference-and-the-limits-of-physical-description]] — Formal incompleteness arguments (Gödel, Lawvere, Cubitt) undermining the assumption of complete physical explanation
+- [[causal-closure-debate-historical-survey]] — How causal closure evolved from a physics claim into a metaphysical axiom
 - [[reductionism]] — Ontological vs methodological vs epistemic reduction; why conflating them supports closure illicitly
 - [[mental-causation]] — The philosophical problem causal closure creates
 - [[downward-causation]] — Higher-level causation that closure threatens

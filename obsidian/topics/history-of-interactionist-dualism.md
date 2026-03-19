@@ -63,7 +63,7 @@ This argument seemed devastating. Unlike Elizabeth's conceptual worry, Leibniz p
 
 Leibniz's own solution—pre-established harmony—avoided interaction entirely. God arranged from the beginning that mental and physical events would run in parallel, like two clocks synchronized at creation. There is no causation between them; the appearance of interaction is coordinated coincidence.
 
-The conservation argument dominated discussions for two centuries. As physics developed increasingly precise conservation laws (energy as well as momentum), the case against interactionism seemed to strengthen. By the twentieth century, most philosophers treated dualism as historically interesting but scientifically untenable.
+The conservation argument dominated discussions for two centuries. As physics developed increasingly precise conservation laws (energy as well as momentum), the case against interactionism seemed to strengthen — a progression the [[causal-closure-debate-historical-survey|historical survey of the causal closure debate]] traces in detail. By the twentieth century, most philosophers treated dualism as historically interesting but scientifically untenable.
 
 ## The Materialist Eclipse (1900s–1970s)
 
@@ -151,6 +151,7 @@ The history shows that interactionism's fortunes track developments in physics m
 - [[stapp-quantum-mind]] — Contemporary quantum mechanism
 - [[measurement-problem]] — The unsolved puzzle at quantum mechanics' core
 - [[causal-closure]] — The principle and why it fails
+- [[causal-closure-debate-historical-survey]] — How causal closure evolved from empirical observation to metaphysical axiom
 - [[objections-to-interactionism]] — Current challenges and responses
 - [[emergence]] — The British emergentist tradition
 - [[interaction-problem-across-traditions]] — Five solution types recurring across Western and non-Western philosophy

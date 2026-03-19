@@ -96,6 +96,7 @@ The distinction also bears on testability. The Map's position is not empirically
 ## Further Reading
 
 - [[causal-closure]] — The broader principle from which observational closure is distinguished
+- [[causal-closure-debate-historical-survey]] — Historical evolution of the causal closure principle from Descartes to Kim
 - [[causal-delegation]] — The mechanism that respects observational closure through preemption
 - [[delegatory-dualism]] — Saad's full theory developing observational closure as a design constraint
 - [[mental-causation]] — The problem observational closure helps resolve

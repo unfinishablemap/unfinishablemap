@@ -4,7 +4,7 @@ description: "How causal closure evolved from a physics claim into a metaphysica
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-19T18:11:00+00:00
+ai_modified: 2026-03-19T18:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-19T18:26:00+00:00
 ---
 
 The causal closure of the physical — the thesis that every physical event has a sufficient physical cause — is widely treated as an established scientific finding. It is not. The Unfinishable Map traces the principle's evolution from a seventeenth-century puzzle about Cartesian contact to a twentieth-century metaphysical axiom, arguing that what began as an empirical observation about conservation laws was progressively strengthened far beyond what physics establishes. Understanding this history matters because causal closure is the load-bearing premise in virtually every contemporary argument against [[interactionist-dualism]].
@@ -59,7 +59,7 @@ Helmholtz's *On the Conservation of Force* (1847) established energy conservatio
 
 By the 1870s, figures like Tyndall and Huxley were drawing explicitly materialist conclusions. Huxley's famous "conscious automaton" thesis (1874) treated consciousness as [[concepts/epiphenomenalism|epiphenomenal]] — a by-product of brain processes with no causal power. The argument relied implicitly on causal closure: if physics accounts for everything the brain does, consciousness has nothing left to do.
 
-C.D. Broad (1893) made the conservation argument explicit: if energy conservation holds universally, and mental causation would require energy transfer, then mental causation is impossible. This is the first clear formulation of what would become the modern causal closure argument.
+C.D. Broad, in *The Mind and Its Place in Nature* (1925), later made the conservation argument fully explicit: if energy conservation holds universally, and mental causation would require energy transfer, then mental causation is impossible. This was the first systematic formulation of what would become the modern causal closure argument — the capstone of a trajectory that had been implicit in Huxley and Tyndall's materialist conclusions decades earlier.
 
 Yet as [[conservation-laws-and-mental-causation]] demonstrates, the argument from energy conservation to causal closure contains a critical gap. Conservation is *local and conditional* — derived from spatial symmetries via Noether's theorem — and presupposing its universal application to brain processes begs the question against mental causation. A cause that *selects among* energetically equivalent outcomes need not inject energy at all.
 
@@ -86,7 +86,7 @@ Three strands of contemporary philosophical criticism have weakened causal closu
 
 **Montero's definitional challenge.** Barbara Montero (2003) unravelled the multiple principles travelling under the single label "causal closure." She further pressed Hempel's dilemma: if "physical" means what current physics describes, then causal closure is false (current physics is incomplete). If "physical" means what a future completed physics describes, the claim is empty — we cannot know whether that physics will include or exclude mental causation. No available definition of "physical" supports causal closure without circularity or vacuity.
 
-**Lowe's compatibility argument.** E.J. Lowe (2000) showed that standard formulations of causal closure are actually *consistent* with interactionist dualism. If mental causation operates without energy transfer — influencing outcomes rather than injecting forces — then even the strongest plausible closure principles leave room for mind-body interaction. Energy is not conserved in general relativity, in quantum field theory, or in the universe as a whole, so insisting on energy conservation specifically for brain processes requires justification that physicalists have not provided.
+**Lowe's compatibility argument.** E.J. Lowe (2000) showed that standard formulations of causal closure are actually *consistent* with interactionist dualism. If mental causation operates without energy transfer — influencing outcomes rather than injecting forces — then even the strongest plausible closure principles leave room for mind-body interaction. Separately, as Pitts (2022) and Cucu and Pitts (2019) have argued, energy is not straightforwardly conserved in general relativity or in the universe as a whole, so insisting on energy conservation specifically for brain processes requires justification that physicalists have not provided.
 
 ## Contemporary Challenges: Physics
 
@@ -102,7 +102,7 @@ Sophie Gibb (2010) reinforces the physics-based challenge from within the philos
 
 ## An Empirical Claim Hardened into an Axiom
 
-The historical pattern is clear. What began as an observation — conservation of motion (Descartes), conservation of momentum (Leibniz), conservation of energy (Helmholtz) — was progressively transformed into a metaphysical principle: the causal completeness of physics. Each step appeared empirically motivated, but the cumulative effect was to elevate a methodological assumption into an axiom.
+The historical pattern is clear. What began as an observation — conservation of motion (Descartes), conservation of momentum (Leibniz), conservation of energy (Helmholtz) — was progressively transformed into a metaphysical principle: the causal completeness of physics. As Papineau (2001) documents, each step appeared empirically motivated, but the cumulative effect was to elevate a methodological assumption into an axiom.
 
 Science *assumes* that every physical event has a physical explanation in order to search for physical explanations. This methodological commitment is productive and indispensable. But it does not *discover* that the assumption is true. The success of physics within the domains it investigates shows that many physical events have physical causes — not that all do. As [[reductionism]] details, methodological success does not entail ontological completeness.
 

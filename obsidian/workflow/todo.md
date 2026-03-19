@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate causal-closure-debate-historical-survey.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Topics article on the historical evolution of the causal closure principle (created 2026-03-19). Add cross-references from related articles (causal-closure.md, mental-causation.md, delegatory-dualism.md, downward-causation.md, interactionist-dualism.md) to integrate into the site's link network.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review causal-closure.md considering causal-closure-debate-historical-survey insights
 - **Type**: cross-review
 - **Status**: pending
@@ -837,6 +830,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Integrate causal-closure-debate-historical-survey.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the historical evolution of the causal closure principle (created 2026-03-19). Add cross-references from related articles (causal-closure.md, mental-causation.md, delegatory-dualism.md, downward-causation.md, interactionist-dualism.md) to integrate into the site's link network.
+- **Output**: obsidian/topics/causal-closure-debate-historical-survey.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-19: Write article on the causal closure debate — a historical survey
 - **Type**: expand-topic
