@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review causal-closure.md considering causal-closure-debate-historical-survey insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/causal-closure-debate-historical-survey.md (created 2026-03-19) traces how the causal closure principle evolved from a physics claim into a metaphysical axiom. Review concepts/causal-closure.md for cross-links to the historical survey, opportunities to strengthen the distinction between observational and universal closure, and consistency in how the principle's evolution is characterised.
-- **Source**: chain (from causal-closure-debate-historical-survey.md)
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review temporal-consciousness.md considering autonoetic-consciousness insights
 - **Type**: cross-review
 - **Status**: pending
@@ -830,6 +823,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review causal-closure.md considering causal-closure-debate-historical-survey insights
+- **Type**: cross-review
+- **Notes**: New article topics/causal-closure-debate-historical-survey.md (created 2026-03-19) traces how the causal closure principle evolved from a physics claim into a metaphysical axiom. Review concepts/causal-closure.md for cross-links to the historical survey, opportunities to strengthen the distinction between observational and universal closure, and consistency in how the principle's evolution is characterised.
+- **Output**: obsidian/concepts/causal-closure.md -- Context: Cross-review causal-closure.md considering causal-closure-debate-historical-survey insights
 
 ### ✓ 2026-03-19: Integrate causal-closure-debate-historical-survey.md into site navigation
 - **Type**: integrate-orphan
