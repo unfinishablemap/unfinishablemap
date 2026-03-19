@@ -4,7 +4,7 @@ description: "The intrinsic, subjective qualities of conscious experience—the 
 created: 2026-01-07
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-03-19T02:43:00+00:00
+ai_modified: 2026-03-19T10:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -224,6 +224,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 - [[affective-void]] - Emotions and affects beyond human phenomenological reach
 
 **Background:**
+- [[lucid-dreaming-and-dualist-rendering]] - Lucid dream control as evidence that qualia are causally efficacious, not epiphenomenal
 - [[hard-problem-of-consciousness]] - The broader problem qualia exemplify
 - [[explanatory-gap]] - The chasm between physical description and experience
 - [[combination-problem]] - How micro-experiences combine

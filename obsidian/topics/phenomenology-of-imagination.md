@@ -4,7 +4,7 @@ description: "Imagination's distinctive phenomenal character—voluntary, quasi-
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-03-18T06:30:00+00:00
+ai_modified: 2026-03-19T10:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -117,6 +117,7 @@ Imagination bears on several of the Map's [[tenets]] in distinctive ways.
 - [[consciousness-and-aesthetic-creation]] — Imagination in artistic creation
 - [[phenomenology-of-understanding-and-meaning]] — The felt quality of grasping meaning
 - [[dream-consciousness]] — Dreams as involuntary imagination
+- [[lucid-dreaming-and-dualist-rendering]] — Lucid dreaming as voluntary imagination operating with full phenomenal richness during sleep
 - [[phenomenology-of-moral-experience]] — Moral imagination and the felt quality of ethical perception
 - [[creativity-void]] — The opacity of consciousness's generative processes
 

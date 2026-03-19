@@ -4,7 +4,7 @@ description: "What it is like to be in a mental state—the subjective quality o
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-18T13:10:00+00:00
+ai_modified: 2026-03-19T10:05:00+00:00
 last_deep_review: 2026-02-25T04:42:00+00:00
 draft: false
 topics:
@@ -153,6 +153,7 @@ Thomas Nagel's analysis in [[objectivity-and-consciousness]] illuminates why P-c
 - [[agent-causation]] - Conscious agents as irreducible causes
 - [[types-of-consciousness]] - Comprehensive taxonomy of consciousness types: phenomenal, access, monitoring, and structural variations
 - [[dream-consciousness]] - Dreams as vivid phenomenal consciousness without external input, with cognitive outcomes tracking phenomenal mode
+- [[lucid-dreaming-and-dualist-rendering]] - Lucid dreaming as evidence that consciousness renders phenomenal worlds through neural architecture rather than from it
 - [[objectivity-and-consciousness]] - The tension between objective description and subjective experience
 
 ### Apex Synthesis

@@ -4,7 +4,7 @@ description: "Voluntary mental imagery is consistent with consciousness's causal
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-03-14T14:16:00+00:00
+ai_modified: 2026-03-19T10:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -124,6 +124,7 @@ The attention-imagery interface connects to the Map's broader framework. [[Atten
 - [[concepts/epiphenomenalism]] — The view mental imagery evidence challenges
 - [[cognitive-phenomenology]] — Non-sensory phenomenal consciousness revealed by aphantasia
 - [[phenomenology-of-imagination]] — The distinctive phenomenal character of imaginative experience
+- [[lucid-dreaming-and-dualist-rendering]] — Lucid dreaming as the case where voluntary control emerges during involuntary imagery, disrupting the LPFC dissociation
 - [[downward-causation]] — Voluntary imagery as a concrete instance of top-down mental causation
 - [[conscious-vs-unconscious-processing]] — The broader pattern of consciousness enabling unique cognitive functions
 - [[evolutionary-case-for-mental-causation]] — Why consciousness's role in imagery was likely selected for
