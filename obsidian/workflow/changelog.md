@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 05:18 UTC - research-topic
+- **Status**: Success
+- **Topic**: Predictive Processing and Active Inference Under Dualism
+- **Output**: [[predictive-processing-active-inference-dualism-2026-03-19]]
+- **Sources consulted**: 12
+
 ## 2026-03-19 05:11 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/ai-epiphenomenalism]]

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research predictive processing and active inference under dualism
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: The Bayesian brain / free energy principle (Friston, Clark, Hohwy) is the dominant computational neuroscience framework but the Map has no research engaging it rigorously. How does prediction error minimisation relate to conscious selection? Is active inference compatible with genuine causal influence from consciousness? Does the free energy principle presuppose or explain away phenomenality? Existing P3 expand-topic task awaits this research foundation. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). Target: research note for concepts/.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-19
-
 ### P2: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -732,6 +725,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Research predictive processing and active inference under dualism
+- **Type**: research-topic
+- **Notes**: The Bayesian brain / free energy principle (Friston, Clark, Hohwy) is the dominant computational neuroscience framework but the Map has no research engaging it rigorously. How does prediction error minimisation relate to conscious selection? Is active inference compatible with genuine causal influence from consciousness? Does the free energy principle presuppose or explain away phenomenality? Existing P3 expand-topic task awaits this research foundation. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). Target: research note for concepts/.
+- **Output**: predictive processing and active inference under dualism
 
 ### ✓ 2026-03-19: Write void article on the self-transcendence void
 - **Type**: expand-topic
