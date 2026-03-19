@@ -4,7 +4,7 @@ description: "Physics is structurally complete—it captures every relation and 
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-19T22:32:00+00:00
+ai_modified: 2026-03-19T22:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,7 +14,7 @@ concepts:
   - "[[measurement-problem]]"
   - "[[bi-aspectual-ontology]]"
   - "[[interactionist-dualism]]"
-  - "[[structural-realism]]"
+  - "[[conservation-laws-and-mental-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[physics-as-disclosure]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-19T22:40:00+00:00
 ---
 
 Physics is structurally complete. It captures every regularity, every symmetry, every dynamical relation between measurable quantities. Nothing structural is missing. Yet physics is ontologically partial — it does not describe what *instantiates* those structures, what makes one quantum outcome actual rather than another, or why there is something it is like to be a physical system. The Unfinishable Map calls this the **structural-ontological gap**: the space between a complete catalogue of relations and a complete account of reality. This gap is not a deficiency in physics. It is a feature of what physical theory *is* — and it is precisely where consciousness operates.
@@ -59,7 +59,7 @@ Consciousness provides those grounds. The [[hard-problem-of-consciousness|hard p
 
 The measurement problem provides a second ground. Quantum mechanics assigns amplitudes to every possible outcome. Structure determines the probability distribution completely. But which outcome *becomes actual* — which possibility is realised — is not determined by the structural description. As the Map's treatment of [[quantum-completeness#process-1|Process 1]] develops, the selection of actuality from possibility falls outside what von Neumann's Processes 2 and 3 can specify. Physics is silent precisely where actuality is at stake.
 
-These two gaps — between structure and experience, between probability and actuality — may be the same gap viewed from different angles. The [[physics-as-disclosure|disclosure reading]] of the measurement problem makes this connection explicit: physics discloses the boundary of structural description, and what lies beyond is consciousness.
+These two gaps — between structure and experience, between probability and actuality — may be the same gap viewed from different angles. Both involve the transition from a complete formal description to something that formal description does not capture: what it is like in the first case, which outcome becomes actual in the second. The [[physics-as-disclosure|disclosure reading]] of the measurement problem makes this connection explicit: physics discloses the boundary of structural description, and what lies beyond is consciousness.
 
 ## Not a God-of-the-Gaps Argument
 
@@ -67,7 +67,7 @@ The structural-ontological gap is not an appeal to ignorance. It is not "physics
 
 1. Physics describes structure — this is a fact about what physical theories are.
 2. The no-go theorems establish that quantum mechanics is structurally exhaustive — this is a mathematical result.
-3. Consciousness is not a structural property — this follows from the hard problem.
+3. Consciousness is not a structural property — this follows from the [[hard-problem-of-consciousness|hard problem]] (contested by eliminativists and strong functionalists, but defended at length elsewhere on the Map).
 4. Actuality-selection is not a structural determination — this follows from the measurement problem.
 5. Therefore, structural completeness does not entail ontological completeness.
 
@@ -81,7 +81,7 @@ The structural-ontological gap reframes the [[causal-closure|causal closure]] de
 
 But causal closure is typically taken to mean something stronger: that *nothing beyond physics* contributes to physical outcomes. The structural-ontological gap reveals the equivocation. From "every structural change has a structural explanation" it does not follow that "every actual outcome is structurally determined." The gap between probability and actuality is a gap *within* the causal story, not a challenge to the causal story from outside.
 
-When consciousness selects which quantum outcome becomes actual — operating within Born probabilities, [[conservation-laws-and-mental-causation|without injecting energy]] — it does not violate structural completeness. It fills a gap that structural description explicitly leaves open. Structural closure holds. Ontological closure does not.
+When consciousness selects which quantum outcome becomes actual — operating within Born probabilities, [[conservation-laws-and-mental-causation|without injecting energy or violating conservation laws]] — it does not violate structural completeness. It fills a gap that structural description explicitly leaves open. Structural closure holds. Ontological closure does not.
 
 ## Relation to Site Perspective
 
@@ -104,7 +104,7 @@ The structural-ontological gap is a foundational concept for the Map's framework
 - [[causal-closure]] — Why causal closure fails at quantum indeterminacies
 - [[bi-aspectual-ontology]] — Structure and actuality as two irreducible aspects of reality
 - [[measurement-problem]] — The quantum puzzle at the heart of the gap
-- [[structural-realism]] — The philosophical tradition behind the structural character of physics
+- [[conservation-laws-and-mental-causation]] — Why consciousness can act within physics without violating conservation laws
 
 ## References
 
