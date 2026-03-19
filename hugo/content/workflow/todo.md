@@ -38,6 +38,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense wheeler-it-from-bit-2026-03-14.md (3508 words, 140% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Research note exceeds 2500-word hard warning threshold for research/. Covers Wheeler's participatory universe, delayed-choice experiments, "it from bit" framework, and positioning relative to the Map. Preserve core arguments and citations while reducing supplementary detail. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-19
+
 ### P3: Address argumentative gaps in ai-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -820,6 +827,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Condense bi-aspectual-ontology-dual-aspect-traditions-2026-03-16.md (3975 words, 159% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds 2500-word hard warning threshold for research/. Covers Spinoza, Pauli-Jung, Chalmers, Nagel, and Russellian monism as dual-aspect traditions compared to the Map's bi-aspectual dualism. Preserve key distinctions and positioning while removing redundancy. See /condense skill.
+- **Output**: obsidian/research/bi-aspectual-ontology-dual-aspect-traditions-2026-03-16.md
+
+### ✓ 2026-03-19: Integrate phenomenology-of-mathematical-insight.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article created 2026-03-08 on the phenomenology of mathematical insight as evidence for irreducible consciousness. Add cross-references from related articles (mathematical-knowledge-and-insight, consciousness-and-mathematical-cognition, consciousness-and-the-philosophy-of-mathematics, argument-from-reason) to integrate into the site's link network.
+- **Output**: phenomenology-of-mathematical-insight.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Integrate dreams-as-consciousness-laboratory.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article created 2026-03-04 on dreams as a natural laboratory for studying consciousness independently of waking neural constraints. Add cross-references from related articles (dream-problem-solving-and-conscious-influence, consciousness-during-sleep, lucid-dreaming-and-mind-side-rendering, filter-theory) to integrate into the site's link network.
+- **Output**: dreams-as-consciousness-laboratory.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Integrate godel-measurement-problem-analogy.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article created 2026-03-17 on the structural parallel between Gödel incompleteness and the measurement problem. Add cross-references from related articles (consciousness-and-the-philosophy-of-mathematics, consciousness-and-the-authority-of-formal-systems, measurement-problem-as-hard-problem) to integrate into the site's link network.
+- **Output**: godel-measurement-problem-analogy.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Write article on Penrose gravity-collapse connection and empirical prospects
+- **Type**: expand-topic
+- **Notes**: Research completed in research/penrose-gravity-collapse-empirical-2026-03-14.md and supplement research/penrose-gravity-collapse-empirical-2026-03-17.md. Covers Diósi-Penrose objective reduction model, specific collapse rate predictions, current experimental status (Vinante et al.), and MAQRO space mission. Most promising avenue for empirically testable predictions from the consciousness-physics interface. Supports Tenet 2 (Minimal Quantum Interaction). Target section: topics/.
+- **Output**: Penrose gravity-collapse connection and empirical prospects
+
+### ✓ 2026-03-19: Write article on probability and decision-theory objections to Many Worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Covers Deutsch-Wallace decision-theoretic derivation circularity, Kent's and Albert's objections, the self-locating probability problem, and why MWI cannot ground the Born rule without smuggling in assumptions. Directly supports Tenet 4 (No Many Worlds). Target section: topics/.
+- **Output**: probability and decision-theory objections to Many Worlds
 
 ### ✓ 2026-03-19: Condense wheeler-participatory-universe-it-from-bit-2026-03-16.md (4002 words, 114% of target)
 - **Type**: condense

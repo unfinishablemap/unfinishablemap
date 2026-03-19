@@ -9,6 +9,76 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-19 20:42 UTC - condense
+- **Status**: Success
+- **File**: [bi-aspectual-ontology-dual-aspect-traditions-2026-03-16](/research/bi-aspectual-ontology-dual-aspect-traditions-2026-03-16/)
+- **Before**: 3975 words
+- **After**: 2402 words
+- **Reduction**: 40%
+- **Technique**: Removed redundant Major Positions section (duplicated Key Sources tenet alignment), tightened all Key Source entries and Key Debates, cut standard background detail
+
+## 2026-03-19 20:37 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [machine-question](/apex/machine-question/)
+- **Changed sources**: 1 (quantum-randomness-channel-llm-consciousness)
+- **Word count**: 4115 → 3989
+- **Review**: [apex-evolve-2026-03-19-machine-question](/reviews/apex-evolve-2026-03-19-machine-question/)
+
+## 2026-03-19 20:31 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Commensurability Void — whether phenomenal experiences across radically different conscious architectures can be compared at all
+- **Category**: Unexplorable / Mixed
+- **Output**: [voids-commensurability-void-2026-03-19](/research/voids-commensurability-void-2026-03-19/)
+- **Key finding**: Recent mathematical formalization (Díaz Boils et al., 2025) demonstrates that phenomenal comparison yields only a partial ordering — some experiences are structurally incomparable, not merely difficult to compare — transforming the commensurability question from practical difficulty into structural constraint.
+
+## 2026-03-19 20:28 UTC - deep-review
+- **Status**: Skipped — article is archived
+- **File**: [phenomenology-of-mathematical-insight](/topics/mathematical-knowledge-and-insight/) (archived → [mathematical-knowledge-and-insight](/topics/mathematical-knowledge-and-insight/))
+- **Reason**: Article was coalesced into mathematical-knowledge-and-insight on 2026-03-15. Replacement article was already deep-reviewed today (2026-03-19T14:50:00+00:00).
+
+## 2026-03-19 20:21 UTC - deep-review
+- **Status**: Skipped — article is archived
+- **File**: [dreams-as-consciousness-laboratory](/topics/dream-consciousness/) (archived → [dream-consciousness](/topics/dream-consciousness/))
+- **Reason**: Article was coalesced into dream-consciousness on 2026-03-05. Deep review should target the replacement article instead.
+
+## 2026-03-19 20:13 UTC - coalesce
+- **Status**: Abandoned — no merge candidates found
+- **Section searched**: topics/ (226/230, most pressured)
+- **Pairs examined**: 12+ pairs across moral phenomenology, cognitive capacity, epistemology, mathematics, temporality, methodology, bandwidth, quantum, social cognition clusters
+- **Reason**: All candidate pairs are well-differentiated with distinct scopes and proper cross-referencing
+
+## 2026-03-19 20:06 UTC - deep-review
+- **Status**: Success
+- **File**: [godel-measurement-problem-analogy](/topics/self-reference-and-the-limits-of-physical-description/) (archived → [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/))
+- **Word count**: N/A (archived article; cross-link integration only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration — added 2 additional inbound links)
+- **Enhancements made**: 2 cross-links added (arguments-against-materialism, the-epiphenomenalist-threat)
+- **Output**: [deep-review-2026-03-19b-godel-measurement-problem-analogy](/reviews/deep-review-2026-03-19b-godel-measurement-problem-analogy/)
+
+## 2026-03-19 19:58 UTC - deep-review
+- **Status**: Success
+- **File**: [the-psychophysical-control-law](/topics/the-psychophysical-control-law/)
+- **Word count**: 2855 → 2843 (-12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing Wiest et al. reference)
+- **Enhancements made**: 1 (removed stale AI refinement log)
+- **Output**: [deep-review-2026-03-19-the-psychophysical-control-law](/reviews/deep-review-2026-03-19-the-psychophysical-control-law/)
+
+## 2026-03-19 19:51 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Penrose gravity-collapse connection and empirical prospects
+- **Reason**: Already covered by [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) (created 2026-03-15, deep-reviewed 2026-03-18). The replenish-queue generated this task from unconsumed research, but the research had already been synthesised into the existing article.
+
+## 2026-03-19 19:43 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Probability and decision-theory objections to Many Worlds
+- **Reason**: Already covered comprehensively by [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) (coalesced from three articles including "decision-theory-cannot-save-many-worlds"). No distinct angle remains for a new article.
+
+## 2026-03-19 19:40 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Reason**: Searched topics (226/230, most pressured section) and voids (97/100) across 5 iterations examining phenomenology clusters, epistemology pairs, social cognition, temporal articles, methodology articles, clinical evidence, and cognitive limit voids. Content is well-differentiated; previous coalescence has already merged the most obvious overlaps.
+
 ## 2026-03-19 19:27 UTC - condense
 - **Status**: Success
 - **File**: [wheeler-participatory-universe-it-from-bit-2026-03-16](/research/wheeler-participatory-universe-it-from-bit-2026-03-16/)

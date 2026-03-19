@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-27
-ai_modified: 2026-03-18 21:14:00+00:00
+ai_modified: 2026-03-19 20:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -34,6 +34,7 @@ related_articles:
 - '[[epistemological-limits-occams-razor]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[arguments/materialism-argument]]'
+- '[[self-reference-and-the-limits-of-physical-description]]'
 title: Arguments Against Materialism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -59,7 +60,7 @@ For detailed treatment of each argument, see [dualism](/concepts/dualism/). For 
 
 The [explanatory-gap](/concepts/explanatory-gap/) is not just a gap in current understanding. It is a gap in the *kind of explanation* materialism can offer.
 
-Physical science describes structure and dynamics: spatial arrangements, temporal sequences, causal relations, functional roles. It tells us *how* things are configured and *what* they do. Conscious experience has a qualitative character that these descriptions cannot capture. There is something it is *like* to see red—a property that is not spatial, not structural, not functional, not relational. No amount of detailed physical description ever arrives at the qualitative character of experience, because the descriptive tools of physics are not the right tools for the job.
+Physical science describes structure and dynamics: spatial arrangements, temporal sequences, causal relations, functional roles. It tells us *how* things are configured and *what* they do. Conscious experience has a qualitative character that these descriptions cannot capture. There is something it is *like* to see red—a property that is not spatial, not structural, not functional, not relational. No amount of detailed physical description ever arrives at the qualitative character of experience, because the descriptive tools of physics are not the right tools for the job. The [formal incompleteness of physical description](/topics/self-reference-and-the-limits-of-physical-description/)—established through category-theoretic results connecting Gödel's incompleteness to quantum measurement—provides mathematical grounding for this conclusion: self-referential formal systems face principled limits on complete self-description.
 
 This is not a call to abandon science. It is recognition that one mode of explanation has limits. Chemistry cannot explain the Napoleonic wars, not because chemistry is flawed but because the Napoleonic wars are not a chemistry problem. Consciousness may not be a physics problem in any straightforward sense.
 
@@ -131,6 +132,7 @@ The arguments against materialism do not prove that consciousness interfaces wit
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — What dualism explains that materialism cannot
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why parsimony does not favour materialism
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem that started the contemporary debate
+- [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — Formal mathematical case that physical description has principled limits
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's positive framework
 
 ## References
