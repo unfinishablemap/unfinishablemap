@@ -51,13 +51,13 @@ topics: []
 ### Enhancements Made
 - Fixed three attribution errors (Leib/Körper, three-level taxonomy, Bach-y-Rita quote)
 - Added No Many Worlds tenet coverage (all 5 tenets now addressed)
-- Added cross-links: [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/), [mysterianism](/concepts/mysterianism/)
+- Added cross-links: [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-dualism/), [mysterianism](/concepts/mysterianism/)
 - Added [mysterianism](/concepts/mysterianism/) to concepts frontmatter
-- Added [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/) to related_articles frontmatter
+- Added [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-dualism/) to related_articles frontmatter
 - Removed obsolete AI refinement log HTML comment
 
 ### Cross-links Added
-- [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/) — sensorimotor contingencies as structural constraints on predictive processing
+- [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-dualism/) — sensorimotor contingencies as structural constraints on predictive processing
 - [mysterianism](/concepts/mysterianism/) — cognitive closure and the limits of what the grammar metaphor can reveal
 
 ## Remaining Items

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-18
-**Article**: [Predictive Processing and the Map's Framework](/topics/predictive-processing-and-the-maps-framework/)
+**Article**: [Predictive Processing and the Map's Framework](/topics/predictive-processing-and-dualism/)
 **Previous review**: [2026-02-19](/reviews/deep-review-2026-02-19-predictive-processing-and-the-maps-framework/)
 
 ## Pessimistic Analysis Summary

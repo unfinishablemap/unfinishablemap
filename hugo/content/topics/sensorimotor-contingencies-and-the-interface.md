@@ -28,7 +28,7 @@ related_articles:
 - '[[embodied-cognition-extended-mind-2026-01-14]]'
 - '[[embodiment-cognitive-limits]]'
 - '[[choking-phenomenon-mental-causation]]'
-- '[[predictive-processing-and-the-maps-framework]]'
+- '[[predictive-processing-and-dualism]]'
 - '[[capability-division-problem]]'
 title: Sensorimotor Contingencies and the Interface
 topics:
@@ -130,7 +130,7 @@ Both readings accommodate the basic phenomenon, but they frame it differently. O
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — The body-subject's limits as a window into consciousness
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why brains specifically serve as interfaces
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Bidirectional evidence from skilled performance breakdown
-- [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/) — How sensorimotor contingencies relate to prediction error and precision weighting
+- [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — How sensorimotor contingencies relate to prediction error and precision weighting
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — Place-experience as the ultimate multi-modal sensorimotor integration
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and why the interface's grammar may be all we can map
 - [capability-division-problem](/voids/capability-division-problem/) — Which capabilities belong to the brain and which to consciousness

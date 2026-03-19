@@ -95,7 +95,7 @@ topics: []
 - [consciousness-and-pain](/topics/why-pain-hurts/) — Convergent pain phenomena
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — What psychophysical laws must explain
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Conditioning vs. conscious expectation
-- [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/) — Expectation as precision weighting
+- [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-dualism/) — Expectation as precision weighting
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — The felt quality of therapeutic engagement
 
 ## Remaining Items

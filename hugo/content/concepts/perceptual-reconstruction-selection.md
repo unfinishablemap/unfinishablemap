@@ -31,7 +31,7 @@ related_articles:
 title: Perceptual Reconstruction Selection
 topics:
 - '[[dualist-perception]]'
-- '[[predictive-processing-and-the-maps-framework]]'
+- '[[predictive-processing-and-dualism]]'
 ---
 
 Perceptual reconstruction selection is the process by which consciousness settles on one interpretation when the brain generates multiple valid reconstructions of an ambiguous stimulus. Bistable percepts — the Necker cube, Rubin's vase, binocular rivalry displays — present consciousness with two or more stable interpretations of the same sensory input. The brain does not resolve the ambiguity alone. Instead, conscious experience alternates between interpretations in a pattern that resists full explanation by neural dynamics. This makes perceptual reconstruction selection a test case for [the broader claim that consciousness selects among neural possibilities](/concepts/consciousness-selecting-neural-patterns/): if consciousness participates in resolving perceptual ambiguity, the selection mechanism is observable at the level of everyday experience, not only at quantum indeterminacies.
@@ -58,7 +58,7 @@ The third category is distinctive because consciousness is neither passive recip
 
 ## Predictive Processing and the Selection Mechanism
 
-The [predictive processing framework](/topics/predictive-processing-and-the-maps-framework/) provides the computational machinery for perceptual reconstruction selection. In PP terms, the brain maintains multiple generative models that could explain the incoming sensory data. Precision weighting determines which model dominates: when one model receives higher precision (more attentional resources, stronger contextual support), it suppresses competitors and becomes the conscious percept.
+The [predictive processing framework](/topics/predictive-processing-and-dualism/) provides the computational machinery for perceptual reconstruction selection. In PP terms, the brain maintains multiple generative models that could explain the incoming sensory data. Precision weighting determines which model dominates: when one model receives higher precision (more attentional resources, stronger contextual support), it suppresses competitors and becomes the conscious percept.
 
 On this account, consciousness selecting a percept corresponds to a shift in precision weighting. The [attention-as-interface](/concepts/attention-as-interface/) hypothesis connects this directly to the Map's framework: if attention is the mechanism through which consciousness exerts causal influence on neural processing, then perceptual reconstruction selection is attention operating at the level of competing hypotheses. Consciousness does not construct the candidates — the brain's generative models do that — but consciousness biases which candidate prevails by modulating precision.
 
@@ -84,7 +84,7 @@ The Map speculates that the meditation findings are particularly revealing. If t
 - [selective-perceptual-correction](/concepts/selective-perceptual-correction/) — the mechanism of autonomous brain correction
 - [reconstruction-paradox](/voids/reconstruction-paradox/) — the philosophical paradox of asymmetric perceptual editing
 - [attention-as-interface](/concepts/attention-as-interface/) — attention as the mechanism of conscious influence
-- [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/) — predictive processing and interactionist dualism
+- [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — predictive processing and interactionist dualism
 - [filter-theory](/concepts/filter-theory/) — the brain as filter rather than generator of consciousness
 - [cognitive-closure](/concepts/cognitive-closure/) — the limits of what consciousness can access about its own mechanisms
 - [dualist-perception](/topics/dualist-perception/)

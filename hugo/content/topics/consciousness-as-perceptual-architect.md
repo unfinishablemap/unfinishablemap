@@ -41,7 +41,7 @@ related_articles:
 - '[[perceptual-failure-and-the-interface]]'
 - '[[three-dimensional-world-representation-problem]]'
 - '[[consciousness-and-the-phenomenology-of-place]]'
-- '[[predictive-processing-and-the-maps-framework]]'
+- '[[predictive-processing-and-dualism]]'
 - '[[capability-division-problem]]'
 - '[[habituation-void]]'
 title: Consciousness as Perceptual Architect
@@ -65,7 +65,7 @@ These constancies are not occasional corrections. They are the default character
 
 ### Computation and Its Limits
 
-Cognitive science offers computational explanations: chromatic adaptation, illuminant estimation, relational processing, Bayesian inference, and [predictive processing](/topics/predictive-processing-and-the-maps-framework/) frameworks that cast constancy as the brain maintaining stable priors while absorbing variable sensory signals as prediction error (Clark 2013; Hohwy 2013). Land's (1977) retinex theory, for instance, demonstrated that colour perception depends on ratios of reflected light across a scene rather than absolute wavelengths — an elegant computational account. These models are genuinely informative about *which information* the visual system uses and *how* it transforms retinal signals into stable percepts.
+Cognitive science offers computational explanations: chromatic adaptation, illuminant estimation, relational processing, Bayesian inference, and [predictive processing](/topics/predictive-processing-and-dualism/) frameworks that cast constancy as the brain maintaining stable priors while absorbing variable sensory signals as prediction error (Clark 2013; Hohwy 2013). Land's (1977) retinex theory, for instance, demonstrated that colour perception depends on ratios of reflected light across a scene rather than absolute wavelengths — an elegant computational account. These models are genuinely informative about *which information* the visual system uses and *how* it transforms retinal signals into stable percepts.
 
 But the computational account stops at the threshold of the [hard problem](/concepts/phenomenal-consciousness/). A thermostat maintains temperature constancy — sensing, computing, adjusting — without there being something it is like to achieve that stability. The computational account of colour constancy describes analogous mechanisms. What it cannot account for is that perceptual constancy is *experienced from a first-person point of view*. The stability is not just computed; it is undergone.
 
@@ -158,7 +158,7 @@ And both face the same explanatory gap. Predictive processing frameworks describ
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Perception as mastery of sensorimotor laws
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/) — The cognitive parallel: how frameworks transform
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — How faithfully perception tracks reality
-- [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/) — Predictive coding and the Map's framework
+- [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — Predictive coding and the Map's framework
 - [filter-theory](/concepts/filter-theory/) — Consciousness as selective filter
 - [capability-division-problem](/voids/capability-division-problem/) — Brain-side vs. mind-side processing
 

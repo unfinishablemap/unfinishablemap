@@ -51,7 +51,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[consciousness-as-perceptual-architect]]'
 - '[[attention-and-the-consciousness-interface]]'
-- '[[predictive-processing-and-the-maps-framework]]'
+- '[[predictive-processing-and-dualism]]'
 ---
 
 Perception is the place where consciousness meets the world — and where the [hard problem](/topics/hard-problem-of-consciousness/) is sharpest. The Unfinishable Map holds that perceptual experience has features — qualitative richness, perspectival structure, phenomenal overflow, transparent directedness toward objects — that resist reduction to neural processing. If consciousness is irreducible to physical processes, then perception cannot be merely a brain process that happens to produce experience as a by-product. It involves a conscious subject encountering a world through an interface that is partly physical and partly phenomenal, and no account that omits either side can be complete.
@@ -140,7 +140,7 @@ The [attentional selection](/topics/attention-and-the-consciousness-interface/) 
 
 ## Predictive Processing and Dualist Perception
 
-[Predictive processing](/topics/predictive-processing-and-the-maps-framework/) theories describe perception as the brain's best prediction about the causes of sensory input, updated by prediction errors. This framework is often presented in physicalist terms (Clark, 2013), but it sits naturally within dualism. The physicalist reads "the brain predicts" as shorthand for neural mechanisms requiring no experiencing subject. This works as far as the computational story goes. But predictive processing also generates *phenomenal predictions* — the experienced world as the brain's best guess — and here the framework tacitly relies on there being something it is like to have the prediction confirmed or violated. [Prediction error](/topics/surprise-prediction-error-and-consciousness/) feels like something; the smooth confirmation of an expectation feels like something else. Dualism makes this phenomenal dimension explicit.
+[Predictive processing](/topics/predictive-processing-and-dualism/) theories describe perception as the brain's best prediction about the causes of sensory input, updated by prediction errors. This framework is often presented in physicalist terms (Clark, 2013), but it sits naturally within dualism. The physicalist reads "the brain predicts" as shorthand for neural mechanisms requiring no experiencing subject. This works as far as the computational story goes. But predictive processing also generates *phenomenal predictions* — the experienced world as the brain's best guess — and here the framework tacitly relies on there being something it is like to have the prediction confirmed or violated. [Prediction error](/topics/surprise-prediction-error-and-consciousness/) feels like something; the smooth confirmation of an expectation feels like something else. Dualism makes this phenomenal dimension explicit.
 
 The phenomenology of perception supports this reading. Perceptual experience does not feel like passive reception. It feels like engagement — active, directed, attentive. We *look at* things, *listen to* sounds, *attend to* features (Husserl, 1913/1982). This agentive quality is precisely what bidirectional interaction predicts.
 
@@ -179,7 +179,7 @@ The Map's [tenets](/tenets/) find their sharpest expression in perception.
 - [binding-problem](/concepts/binding-problem/) — The challenge of phenomenal unity from dispersed processing
 - [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — Cross-modal binding and phenomenal unity
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Enactivist perception and the interface model
-- [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/) — Predictive processing through a dualist lens
+- [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — Predictive processing through a dualist lens
 - [capability-division-problem](/voids/capability-division-problem/) — Separating brain-side and mind-side capabilities
 - [capability-division-in-vision](/concepts/capability-division-in-vision/) — Vision-specific evidence constraining the brain/mind boundary
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — What degraded perception reveals about the interface

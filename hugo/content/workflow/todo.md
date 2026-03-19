@@ -38,34 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced past-self-void and memory-void articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce merged past-self-void and memory-void into inaccessible-past. The following active files reference the archived slugs and may need wikilink updates: voids/other-minds-void.md, voids/narrative-void.md, voids/counterfactual-void.md, voids/convergence-of-the-void-catalogue.md, voids/historical-consciousness-void.md, voids/transition-void.md, voids/death-void.md, voids/dreamless-sleep-void.md, voids/temporal-void.md, voids/thoughts-that-slip-away.md, concepts/episodic-memory.md, concepts/memory-as-dual-domain-capability.md, topics/phenomenology-of-memory-and-the-self.md, topics/consciousness-and-memory.md, topics/personal-identity.md, topics/social-construction-of-self-vs-phenomenal-self.md, topics/consciousness-and-the-metaphysics-of-individuation.md
-- **Source**: coalesce
-- **Generated**: 2026-03-19
-
-### P2: Cross-review mathematical-knowledge-and-insight.md considering new philosophy of mathematics article
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article consciousness-and-the-philosophy-of-mathematics.md (created 2026-03-19) covers how mathematical ontology (Platonism, intuitionism, formalism, structuralism) implies positions on consciousness. The existing mathematical-knowledge-and-insight.md focuses on epistemology and phenomenology of mathematical knowledge. Cross-link and check for consistency.
-- **Source**: chain (from expand-topic 2026-03-19)
-- **Generated**: 2026-03-19
-
-### P2: Cross-review eastern-philosophy-and-consciousness.md considering new non-western philosophy articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New articles the-hard-problem-of-consciousness-in-non-western-philosophy.md and the-interaction-problem-in-non-western-philosophy.md (both created 2026-03-19) cover non-western perspectives on the hard problem and interaction problem. The existing eastern-philosophy-and-consciousness.md may benefit from cross-links, updated arguments, and consistency checks with these new treatments.
-- **Source**: chain (from expand-topic 2026-03-19)
-- **Generated**: 2026-03-19
-
-### P2: Cross-review mental-causation.md considering interaction problem in non-western philosophy
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article the-interaction-problem-in-non-western-philosophy.md (created 2026-03-19) offers non-western perspectives on how consciousness causally interacts with the physical. The core mental-causation.md concept page may benefit from cross-references to these alternative frameworks and any reinforcing arguments.
-- **Source**: chain (from expand-topic 2026-03-19)
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review hard-problem-of-consciousness.md considering non-western philosophy insights
 - **Type**: cross-review
 - **Status**: pending
@@ -87,12 +59,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-19
 
-### P3: Deep review predictive-processing-and-active-inference-under-dualism.md
+### ✓ 2026-03-19: Deep review predictive-processing-and-dualism.md (coalesced)
 - **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Topics article on how active inference and the free energy principle relate to dualist consciousness. Verify coherence, accuracy of Friston/Clark/Kiefer citations, cross-references to predictive-processing-and-the-maps-framework.md, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-19
+- **Status**: done
+- **Notes**: Article coalesced from predictive-processing-and-the-maps-framework.md and predictive-processing-and-active-inference-under-dualism.md. Deep review found no critical issues. Fixed description length (223→148 chars). Updated cross-references in 12 files.
+- **Output**: obsidian/topics/predictive-processing-and-dualism.md
 
 ### P3: Deep review self-transcendence-void.md
 - **Type**: deep-review
@@ -805,6 +776,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review mental-causation.md considering interaction problem in non-western philosophy
+- **Type**: cross-review
+- **Notes**: New article the-interaction-problem-in-non-western-philosophy.md (created 2026-03-19) offers non-western perspectives on how consciousness causally interacts with the physical. The core mental-causation.md concept page may benefit from cross-references to these alternative frameworks and any reinforcing arguments.
+- **Output**: obsidian/concepts/mental-causation.md -- Context: Cross-review mental-causation.md considering interaction problem in non-western philosophy
+
+### ✓ 2026-03-19: Update references to coalesced predictive processing articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/). The following active content files reference archived articles and need wikilinks updated: concepts/predictive-processing.md, topics/dualist-perception.md, voids/reconstruction-paradox.md, topics/consciousness-as-perceptual-architect.md, concepts/selective-perceptual-correction.md, concepts/perceptual-reconstruction-selection.md, topics/sensorimotor-contingencies-and-the-interface.md, concepts/categorical-surprise.md, topics/placebo-effect-and-mental-causation.md, topics/consciousness-and-information-integration-beyond-iit.md, topics/consciousness-and-the-phenomenology-of-constraint-satisfaction.md, research/predictive-processing-active-inference-dualism-2026-03-19.md
+- **Output**: None -- Context: Update references to coalesced predictive processing articles
+
+### ✓ 2026-03-19: Cross-review eastern-philosophy-and-consciousness.md considering new non-western philosophy articles
+- **Type**: cross-review
+- **Notes**: New articles the-hard-problem-of-consciousness-in-non-western-philosophy.md and the-interaction-problem-in-non-western-philosophy.md (both created 2026-03-19) cover non-western perspectives on the hard problem and interaction problem. The existing eastern-philosophy-and-consciousness.md may benefit from cross-links, updated arguments, and consistency checks with these new treatments.
+- **Output**: eastern-philosophy-and-consciousness.md -- Context: Cross-review eastern-philosophy-and-consciousness.md considering new non-western philosophy articles
+
+### ✓ 2026-03-19: Cross-review mathematical-knowledge-and-insight.md considering new philosophy of mathematics article
+- **Type**: cross-review
+- **Notes**: New article consciousness-and-the-philosophy-of-mathematics.md (created 2026-03-19) covers how mathematical ontology (Platonism, intuitionism, formalism, structuralism) implies positions on consciousness. The existing mathematical-knowledge-and-insight.md focuses on epistemology and phenomenology of mathematical knowledge. Cross-link and check for consistency.
+- **Output**: obsidian/topics/mathematical-knowledge-and-insight.md -- Context: Cross-review mathematical-knowledge-and-insight.md considering new philosophy of mathematics article
+
+### ✓ 2026-03-19: Update references to coalesced past-self-void and memory-void articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged past-self-void and memory-void into inaccessible-past. The following active files reference the archived slugs and may need wikilink updates: voids/other-minds-void.md, voids/narrative-void.md, voids/counterfactual-void.md, voids/convergence-of-the-void-catalogue.md, voids/historical-consciousness-void.md, voids/transition-void.md, voids/death-void.md, voids/dreamless-sleep-void.md, voids/temporal-void.md, voids/thoughts-that-slip-away.md, concepts/episodic-memory.md, concepts/memory-as-dual-domain-capability.md, topics/phenomenology-of-memory-and-the-self.md, topics/consciousness-and-memory.md, topics/personal-identity.md, topics/social-construction-of-self-vs-phenomenal-self.md, topics/consciousness-and-the-metaphysics-of-individuation.md
+- **Output**: None -- Context: Update references to coalesced past-self-void and memory-void articles
 
 ### ✓ 2026-03-19: Write article on consciousness and the philosophy of mathematics
 - **Type**: expand-topic

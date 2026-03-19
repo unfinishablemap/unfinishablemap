@@ -32,7 +32,7 @@ related_articles:
 title: Selective Perceptual Correction
 topics:
 - '[[dualist-perception]]'
-- '[[predictive-processing-and-the-maps-framework]]'
+- '[[predictive-processing-and-dualism]]'
 ---
 
 Selective perceptual correction is the brain's asymmetric processing of sensory signals: it silently repairs some perceptual errors before consciousness encounters them while faithfully delivering others—degraded, illusory, or false—without intervention. The brain fills the blind spot, suppresses visual smear during eye movements, and maintains colour constancy, all without conscious awareness. Yet it transmits optical blur, tinnitus, visual floaters, and persistent illusions to consciousness unchanged, even when the conscious mind knows the signal is wrong. This selectivity is not random. It follows identifiable computational principles that reveal the structure of the mind-body interface.
@@ -55,7 +55,7 @@ The most revealing cases are cognitively impenetrable illusions. The Müller-Lye
 
 ## The Computational Account
 
-[Predictive processing](/topics/predictive-processing-and-the-maps-framework/) provides the best mechanistic explanation. The brain corrects when three conditions converge:
+[Predictive processing](/topics/predictive-processing-and-dualism/) provides the best mechanistic explanation. The brain corrects when three conditions converge:
 
 1. **Confident prior prediction** — a well-established statistical model of what to expect
 2. **Ambiguous or absent sensory evidence** — low-precision input that the model can override
@@ -87,7 +87,7 @@ The Map speculates that the boundary between corrected and uncorrected signals m
 
 - [reconstruction-paradox](/voids/reconstruction-paradox/) — the philosophical paradox this mechanism creates
 - [dualist-perception](/topics/dualist-perception/)
-- [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/)
+- [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)
 - [dualist-perception](/topics/dualist-perception/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [filter-theory](/concepts/filter-theory/)

@@ -114,7 +114,7 @@ This is speculative, and the Map does not claim it as established. But it addres
 
 ## Predictive Processing and Dualist Perception
 
-[Predictive processing](/topics/predictive-processing-and-the-maps-framework/) theories describe perception as the brain's best prediction about the causes of sensory input, updated by prediction errors. The brain does not passively receive sensory data but actively generates predictions, comparing them against incoming signals and revising when mismatches occur.
+[Predictive processing](/topics/predictive-processing-and-dualism/) theories describe perception as the brain's best prediction about the causes of sensory input, updated by prediction errors. The brain does not passively receive sensory data but actively generates predictions, comparing them against incoming signals and revising when mismatches occur.
 
 This framework is often presented in physicalist terms (Clark, 2013), but it is compatible with dualism—and may sit more naturally within it. The physicalist reads "the brain predicts" as shorthand for neural mechanisms that require no experiencing subject. This works as far as the computational story goes. But predictive processing also generates *phenomenal predictions*—the experienced world as the brain's best guess—and here the framework tacitly relies on there being something it is like to have the prediction confirmed or violated. [Prediction error](/topics/surprise-prediction-error-and-consciousness/) feels like something; the smooth confirmation of an expectation feels like something else. Dualism makes this phenomenal dimension explicit rather than leaving it as an unexplained accompaniment to the computation.
 
@@ -145,7 +145,7 @@ The Unfinishable Map's [tenets](/tenets/) reshape the philosophy of perception i
 - [visual-consciousness](/concepts/visual-consciousness/)
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
-- [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/)
+- [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-dualism/)
 - [interactionist-dualism](/concepts/interactionist-dualism/)
 - [knowledge-argument](/concepts/knowledge-argument/)
 - [downward-causation](/concepts/downward-causation/)

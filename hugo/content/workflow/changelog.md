@@ -18,6 +18,68 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 13:25 UTC - deep-review
+- **Status**: Success
+- **File**: [mental-causation](/concepts/mental-causation/)
+- **Word count**: 2349 → 2392 (+43)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to cross-cultural-convergence-on-mental-causation)
+- **Enhancements made**: 1 (cross-cultural convergence cross-link in body, frontmatter, and Further Reading)
+- **Output**: [deep-review-2026-03-19b-mental-causation](/reviews/deep-review-2026-03-19b-mental-causation/)
+
+## 2026-03-19 13:17 UTC - deep-review
+- **Status**: Success
+- **File**: [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)
+- **Word count**: 3067 → 3067 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (description length)
+- **Enhancements made**: 0 (content stable from coalesced sources)
+- **Cross-references updated**: 12 files updated from old slugs to new
+- **Output**: [deep-review-2026-03-19-predictive-processing-and-dualism](/reviews/deep-review-2026-03-19-predictive-processing-and-dualism/)
+
+## 2026-03-19 13:09 UTC - coalesce
+- **Status**: Success
+- **Sources**: [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-dualism/), [predictive-processing-and-active-inference-under-dualism](/topics/predictive-processing-and-dualism/)
+- **Target**: [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)
+- **Archived**: [predictive-processing-and-the-maps-framework](/archive/topics/predictive-processing-and-the-maps-framework/), [predictive-processing-and-active-inference-under-dualism](/archive/topics/predictive-processing-and-active-inference-under-dualism/)
+- **References to review**: 12 active content files
+
+## 2026-03-19 13:02 UTC - deep-review
+- **Status**: Success
+- **File**: [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
+- **Word count**: 2444 → 2599 (+155)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-links to 7 new non-western philosophy articles)
+- **Enhancements made**: 7 cross-links added (body text + Further Reading + frontmatter)
+- **Output**: [deep-review-2026-03-19b-eastern-philosophy-consciousness](/reviews/deep-review-2026-03-19b-eastern-philosophy-consciousness/)
+
+## 2026-03-19 12:54 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-attention-to-absence](/topics/phenomenology-of-attention-to-absence/)
+- **Word count**: 2090 → 2142 (+52)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-19-phenomenology-of-attention-to-absence](/reviews/deep-review-2026-03-19-phenomenology-of-attention-to-absence/)
+
+## 2026-03-19 12:47 UTC - deep-review
+- **Status**: Success
+- **File**: [mathematical-knowledge-and-insight](/topics/mathematical-knowledge-and-insight/)
+- **Word count**: 2335 → 2411 (+76)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing cross-link to new philosophy of mathematics article, Gödel's Husserlian influence unmentioned)
+- **Enhancements made**: 3 (cross-links to new article, Husserl/categorial intuition addition, Husserl reference)
+- **Output**: [deep-review-2026-03-19-mathematical-knowledge-and-insight](/reviews/deep-review-2026-03-19-mathematical-knowledge-and-insight/)
+
+## 2026-03-19 12:40 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-philosophy-of-mathematics](/topics/consciousness-and-the-philosophy-of-mathematics/)
+- **Word count**: 1949 → 2071 (+122)
+- **Critical issues addressed**: 5 (Gödel-Benacerraf chronology, misattributed quote, Brouwer date, broken link, uncited Connes)
+- **Medium issues addressed**: 0 (deferred)
+- **Enhancements made**: 3 (intrinsic-nature-void cross-link, knowledge-argument cross-link, two new references)
+- **Output**: [deep-review-2026-03-19-consciousness-and-the-philosophy-of-mathematics](/reviews/deep-review-2026-03-19-consciousness-and-the-philosophy-of-mathematics/)
+
 ## 2026-03-19 12:31 UTC - coalesce
 - **Status**: Success
 - **Sources**: [past-self-void](/voids/inaccessible-past/), [memory-void](/voids/inaccessible-past/)
@@ -357,7 +419,7 @@ topics: []
 ## 2026-03-19 06:26 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Predictive processing and active inference under dualism
-- **Output**: [predictive-processing-and-active-inference-under-dualism](/topics/predictive-processing-and-active-inference-under-dualism/)
+- **Output**: [predictive-processing-and-active-inference-under-dualism](/topics/predictive-processing-and-dualism/)
 - **Word count**: 2024
 - **Based on research**: yes, [predictive-processing-active-inference-dualism-2026-03-19](/research/predictive-processing-active-inference-dualism-2026-03-19/)
 
@@ -2514,7 +2576,7 @@ topics: []
 ## 2026-03-16 08:47 UTC - refine-draft
 - **Status**: Success
 - **Task**: Cross-promote 8 under-referenced void articles
-- **Files modified**: [mysterianism](/concepts/mysterianism/), [simulation](/concepts/simulation/), [default-mode-network](/concepts/default-mode-network/), [phenomenology](/concepts/phenomenology/), [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/), [philosophical-zombies](/concepts/philosophical-zombies/), [self-reference-paradox](/voids/self-reference-paradox/), [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/), [introspection](/concepts/introspection/), [alien-minds-void-explorers](/voids/alien-minds-void-explorers/), [limits-reveal-structure](/voids/limits-reveal-structure/), [three-kinds-of-void](/voids/three-kinds-of-void/)
+- **Files modified**: [mysterianism](/concepts/mysterianism/), [simulation](/concepts/simulation/), [default-mode-network](/concepts/default-mode-network/), [phenomenology](/concepts/phenomenology/), [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/), [philosophical-zombies](/concepts/philosophical-zombies/), [self-reference-paradox](/voids/self-reference-paradox/), [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-dualism/), [introspection](/concepts/introspection/), [alien-minds-void-explorers](/voids/alien-minds-void-explorers/), [limits-reveal-structure](/voids/limits-reveal-structure/), [three-kinds-of-void](/voids/three-kinds-of-void/)
 - **Changes**: Added 11 cross-references to under-referenced voids (mind-space-void, simulation-detection-void, spontaneous-thought-void, the-givenness-void, involuntariness-void, the-surplus-void, phenomenology-of-self-reference, reconstruction-paradox). Consolidation assessed and rejected—articles are distinct enough to warrant separate treatment.
 - **Published**: yes
 

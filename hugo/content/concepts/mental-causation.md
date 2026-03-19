@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-19 10:59:00+00:00
+ai_modified: 2026-03-19 13:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -31,6 +31,7 @@ concepts:
 - '[[observational-closure]]'
 - '[[bandwidth-problem-mental-causation]]'
 - '[[bandwidth-of-consciousness]]'
+- '[[cross-cultural-convergence-on-mental-causation]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 description: How mental states cause physical effects despite Kim's exclusion argument.
@@ -38,7 +39,7 @@ description: How mental states cause physical effects despite Kim's exclusion ar
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 10:59:00+00:00
+last_deep_review: 2026-03-19 13:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -132,7 +133,7 @@ The exclusion argument assumes event causation — events causing events accordi
 
 E.J. Lowe argued that all causation is fundamentally [substance causation](/concepts/agent-causation/#the-metaphysical-foundation-substance-causation). The conscious subject causes actions not as one event producing another but as an agent exercising powers. If consciousness is a substance with genuine causal powers operating at quantum indeterminacies, the exclusion argument's framework doesn't apply. The phenomenology of [mental effort](/concepts/mental-effort/) supports this: effort feels like *doing* something, not observing correlated events.
 
-Whitehead's process philosophy offers a complementary reframing: "actual occasions" exercise self-determination in constituting themselves from their causal inheritance. If all causation involves experiential self-determination, human mental causation exemplifies what causation fundamentally is. See [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) for how process solutions form one of five recurring types across philosophical traditions.
+Whitehead's process philosophy offers a complementary reframing: "actual occasions" exercise self-determination in constituting themselves from their causal inheritance. If all causation involves experiential self-determination, human mental causation exemplifies what causation fundamentally is. See [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) for how process solutions form one of five recurring types across philosophical traditions. The [cross-cultural convergence](/concepts/cross-cultural-convergence-on-mental-causation/) on mental causation — Indian, African, and Western traditions independently concluding that consciousness is causally efficacious — provides further evidential support for the interactionist position.
 
 ### The Interface Question
 
@@ -207,6 +208,7 @@ Mental causation, as defended here, is falsifiable:
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view denying mental causation
 - [emergence](/concepts/emergence/) — Mental causation as strong emergence with mechanism
 - [agent-causation](/concepts/agent-causation/) — Agent causation as substance causation
+- [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) — Indian, African, and Western traditions independently converge on consciousness as causally efficacious
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — Whether the mind-body channel carries enough information
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain: phenomenal character inseparable from causal power
 - [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — Meaning determines which physical effect occurs

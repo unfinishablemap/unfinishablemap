@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-19
-**Article**: [Predictive Processing and Active Inference Under Dualism](/topics/predictive-processing-and-active-inference-under-dualism/)
+**Article**: [Predictive Processing and Active Inference Under Dualism](/topics/predictive-processing-and-dualism/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

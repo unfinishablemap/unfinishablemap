@@ -2377,7 +2377,7 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-19 15:06 UTC - deep-review
 - **Status**: Success
-- **File**: [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/)
+- **File**: [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-dualism/)
 - **Word count**: 2043 → 2351 (+308)
 - **Critical issues addressed**: 5 (broken links ×2, unverifiable quote, misattributed quote, missing frontmatter field)
 - **Medium issues addressed**: 6 (meta-problem engagement, weather analogy, cross-links, superlative claim, subject-of-prediction expansion, AI log removal)

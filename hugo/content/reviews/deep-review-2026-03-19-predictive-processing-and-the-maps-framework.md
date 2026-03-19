@@ -17,9 +17,9 @@ topics: []
 ---
 
 **Date**: 2026-03-19
-**Article**: [Predictive Processing and the Map's Framework](/topics/predictive-processing-and-the-maps-framework/)
+**Article**: [Predictive Processing and the Map's Framework](/topics/predictive-processing-and-dualism/)
 **Previous review**: [2026-03-18](/reviews/deep-review-2026-03-18-predictive-processing-and-the-maps-framework/)
-**Context**: Cross-review considering new [active inference article](/topics/predictive-processing-and-active-inference-under-dualism/)
+**Context**: Cross-review considering new [active inference article](/topics/predictive-processing-and-dualism/)
 
 ## Pessimistic Analysis Summary
 
@@ -50,12 +50,12 @@ All six adversarial personas engaged. No new arguments beyond those addressed in
 - Parsimony-epistemology integration (added in previous review)
 
 ### Enhancements Made
-- Added cross-reference to [predictive-processing-and-active-inference-under-dualism](/topics/predictive-processing-and-active-inference-under-dualism/) in the active inference section, providing readers a path to the deeper treatment
+- Added cross-reference to [predictive-processing-and-active-inference-under-dualism](/topics/predictive-processing-and-dualism/) in the active inference section, providing readers a path to the deeper treatment
 - Added active inference article to Further Reading with descriptive text
 - Added to related_articles frontmatter
 
 ### Cross-links Added
-- [predictive-processing-and-active-inference-under-dualism](/topics/predictive-processing-and-active-inference-under-dualism/) — in active inference section, Further Reading, and related_articles
+- [predictive-processing-and-active-inference-under-dualism](/topics/predictive-processing-and-dualism/) — in active inference section, Further Reading, and related_articles
 
 ## Remaining Items
 

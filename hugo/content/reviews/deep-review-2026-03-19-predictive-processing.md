@@ -22,7 +22,7 @@ topics: []
 
 ## Review Context
 
-Cross-review triggered by creation of [Predictive Processing and Active Inference Under Dualism](/topics/predictive-processing-and-active-inference-under-dualism/) (2026-03-19). Review focused on whether the concept page properly serves as a hub for the PP article cluster.
+Cross-review triggered by creation of [Predictive Processing and Active Inference Under Dualism](/topics/predictive-processing-and-dualism/) (2026-03-19). Review focused on whether the concept page properly serves as a hub for the PP article cluster.
 
 ## Pessimistic Analysis Summary
 
@@ -30,7 +30,7 @@ Cross-review triggered by creation of [Predictive Processing and Active Inferenc
 - None. Article remains substantively sound — third review confirms stability.
 
 ### Medium Issues Found
-- **Missing cross-links to PP topics articles**: The concept page had no links to either [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/) or the new [predictive-processing-and-active-inference-under-dualism](/topics/predictive-processing-and-active-inference-under-dualism/). As the hub page for predictive processing, this was a significant navigational gap. Resolution: Added both to `related_articles` frontmatter, Further Reading, and inline reference in active inference bullet point.
+- **Missing cross-links to PP topics articles**: The concept page had no links to either [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-dualism/) or the new [predictive-processing-and-active-inference-under-dualism](/topics/predictive-processing-and-dualism/). As the hub page for predictive processing, this was a significant navigational gap. Resolution: Added both to `related_articles` frontmatter, Further Reading, and inline reference in active inference bullet point.
 
 ### Counterarguments Considered
 - All six adversarial personas engaged. No new arguments beyond those addressed in previous two reviews. The illusionist challenge, process philosophy, contemplative evidence, and falsifiability sections remain robust.
@@ -55,8 +55,8 @@ Cross-review triggered by creation of [Predictive Processing and Active Inferenc
 - Updated `related_articles` frontmatter with both topics articles
 
 ### Cross-links Added
-- [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/) — Further Reading, frontmatter
-- [predictive-processing-and-active-inference-under-dualism](/topics/predictive-processing-and-active-inference-under-dualism/) — Further Reading, frontmatter, inline reference
+- [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-dualism/) — Further Reading, frontmatter
+- [predictive-processing-and-active-inference-under-dualism](/topics/predictive-processing-and-dualism/) — Further Reading, frontmatter, inline reference
 
 ## Remaining Items
 

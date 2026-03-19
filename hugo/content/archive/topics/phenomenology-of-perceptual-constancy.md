@@ -53,7 +53,7 @@ These constancies are not occasional corrections. They are the default character
 
 ## The Computational Account and Its Limits
 
-Cognitive science offers computational explanations of constancy. Colour constancy, for instance, is modelled through chromatic adaptation, illuminant estimation, and relational processing—the visual system infers the illuminant and discounts it. Land's retinex theory, Bayesian accounts, and neural adaptation mechanisms all contribute to understanding how the brain computes stable representations from variable input. More recently, [predictive processing](/topics/predictive-processing-and-the-maps-framework/) frameworks (Clark 2013; Hohwy 2013) cast constancy as the brain maintaining stable priors about distal object properties while absorbing variable sensory signals as prediction error—the illumination change is "explained away" rather than passed through to the percept.
+Cognitive science offers computational explanations of constancy. Colour constancy, for instance, is modelled through chromatic adaptation, illuminant estimation, and relational processing—the visual system infers the illuminant and discounts it. Land's retinex theory, Bayesian accounts, and neural adaptation mechanisms all contribute to understanding how the brain computes stable representations from variable input. More recently, [predictive processing](/topics/predictive-processing-and-dualism/) frameworks (Clark 2013; Hohwy 2013) cast constancy as the brain maintaining stable priors about distal object properties while absorbing variable sensory signals as prediction error—the illumination change is "explained away" rather than passed through to the percept.
 
 These accounts are genuinely informative. They explain *which information* the visual system uses and *how* it transforms retinal signals into stable percepts. The Map does not dispute their empirical findings.
 
@@ -112,7 +112,7 @@ More broadly, perceptual constancy illustrates why **Occam's Razor has limits** 
 - [philosophy-of-perception-under-dualism](/topics/dualist-perception/)
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
 - [phenomenal-transparency](/concepts/phenomenal-transparency/)
-- [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/)
+- [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-dualism/)
 - [capability-division-problem](/voids/capability-division-problem/)
 
 ## References

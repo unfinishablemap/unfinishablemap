@@ -18,7 +18,7 @@ last_curated: null
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[predictive-processing-and-the-maps-framework]]'
+- '[[predictive-processing-and-dualism]]'
 - '[[predictive-processing-consciousness-2026-01-14]]'
 title: 'Research: Predictive Processing and Active Inference Under Dualism'
 topics:

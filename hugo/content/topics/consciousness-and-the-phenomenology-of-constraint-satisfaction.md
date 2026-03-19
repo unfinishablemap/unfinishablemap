@@ -20,7 +20,7 @@ last_deep_review: 2026-02-22 09:02:00+00:00
 modified: *id001
 related_articles:
 - '[[bandwidth-of-consciousness]]'
-- '[[predictive-processing-and-the-maps-framework]]'
+- '[[predictive-processing-and-dualism]]'
 - '[[phenomenology-of-deliberation-under-uncertainty]]'
 - '[[choking-phenomenon-mental-causation]]'
 title: Consciousness and the Phenomenology of Constraint Satisfaction
@@ -68,7 +68,7 @@ This response clarifies the materialist position but does not resolve the explan
 
 Similarly, the materialist can note that different constraint types engage different neural subsystems — linguistic areas for grammar, motor cortex for rhythm — and that this explains why they feel different. But this concession is double-edged: it explains the *differentiation* of phenomenal character while deepening the mystery of why there is phenomenal character to differentiate. The constraint phenomenology tracks neural substrate, but tracking does not explain existence.
 
-The [predictive processing framework](/topics/predictive-processing-and-the-maps-framework/) captures part of this: the brain assigns precision weights to prediction errors, determining which signals matter. But the Map argues that consciousness influences precision weighting itself — determining which constraints receive high phenomenal salience. This is selection at the meta-level: not just choosing among options, but choosing which constraints to prioritise when they cannot all be fully satisfied.
+The [predictive processing framework](/topics/predictive-processing-and-dualism/) captures part of this: the brain assigns precision weights to prediction errors, determining which signals matter. But the Map argues that consciousness influences precision weighting itself — determining which constraints receive high phenomenal salience. This is selection at the meta-level: not just choosing among options, but choosing which constraints to prioritise when they cannot all be fully satisfied.
 
 ## The Phenomenology of Partial Satisfaction
 
@@ -108,7 +108,7 @@ The disconnect between computational complexity and phenomenal intensity poses a
 - [control-theoretic-will](/concepts/control-theoretic-will/)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
-- [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/)
+- [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
 - [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
