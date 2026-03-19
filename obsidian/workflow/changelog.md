@@ -5,6 +5,12 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-19 20:13 UTC - coalesce
+- **Status**: Abandoned — no merge candidates found
+- **Section searched**: topics/ (226/230, most pressured)
+- **Pairs examined**: 12+ pairs across moral phenomenology, cognitive capacity, epistemology, mathematics, temporality, methodology, bandwidth, quantum, social cognition clusters
+- **Reason**: All candidate pairs are well-differentiated with distinct scopes and proper cross-referencing
+
 ## 2026-03-19 20:06 UTC - deep-review
 - **Status**: Success
 - **File**: [[godel-measurement-problem-analogy]] (archived → [[self-reference-and-the-limits-of-physical-description]])
