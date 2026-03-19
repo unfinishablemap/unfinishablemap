@@ -3,6 +3,15 @@ ai_contribution: 100
 ai_generated_date: 2026-01-05
 ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
+---
+
+## 2026-03-19 19:12 UTC - condense
+- **Status**: Success
+- **File**: [[born-rule-derivation-attempts-2026-03-14]]
+- **Before**: 4035
+- **After**: 1697
+- **Reduction**: 58%
+- **Technique**: Merged redundant "Key Sources" and "Major Positions" sections into unified "Derivation Approaches"; removed historical timeline (dates preserved inline); trimmed Key Debates
 author: Andy Southgate
 concepts: []
 created: 2026-01-05

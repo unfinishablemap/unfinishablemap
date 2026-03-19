@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense born-rule-derivation-attempts-2026-03-14.md (4035 words, 115% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Research note exceeds 3500-word hard warning threshold for research/. Covers Born rule derivation attempts and their implications for consciousness-collapse interpretations. Preserve core analysis of Gleason, Zurek, and Deutsch-Wallace approaches while reducing supplementary detail. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-19
-
 ### P2: Condense wheeler-participatory-universe-it-from-bit-2026-03-16.md (4002 words, 114% of target)
 - **Type**: condense
 - **Status**: pending
@@ -833,6 +826,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Condense born-rule-derivation-attempts-2026-03-14.md (4035 words, 115% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds 3500-word hard warning threshold for research/. Covers Born rule derivation attempts and their implications for consciousness-collapse interpretations. Preserve core analysis of Gleason, Zurek, and Deutsch-Wallace approaches while reducing supplementary detail. See /condense skill.
+- **Output**: obsidian/research/born-rule-derivation-attempts-2026-03-14.md
 
 ### ✓ 2026-03-19: Condense consciousness-philosophy-of-mathematics-2026-03-19.md (4051 words, 116% of target)
 - **Type**: condense
