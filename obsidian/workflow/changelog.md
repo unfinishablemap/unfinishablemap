@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 13:32 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Social Epistemic Void
+- **Category**: Occluded / Mixed
+- **Output**: [[research/voids-social-epistemic-void-2026-03-19]]
+- **Key finding**: Social knowledge mechanisms (testimony, consensus, paradigm enforcement, hermeneutical resources) create an active occlusion system that systematically excludes non-standard phenomenal experience from collective understanding — a void maintained by social structures rather than intrinsic cognitive architecture.
+
 ## 2026-03-19 13:25 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/mental-causation]]
