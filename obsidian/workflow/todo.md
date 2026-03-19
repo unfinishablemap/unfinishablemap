@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense wheeler-it-from-bit-2026-03-14.md (3508 words, 140% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Research note exceeds 2500-word hard warning threshold for research/. Covers Wheeler's participatory universe, delayed-choice experiments, "it from bit" framework, and positioning relative to the Map. Preserve core arguments and citations while reducing supplementary detail. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-19
-
 ### P3: Address argumentative gaps in ai-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -826,6 +819,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Condense wheeler-it-from-bit-2026-03-14.md (3508 words, 140% of target)
+- **Type**: condense
+- **Notes**: Research note exceeds 2500-word hard warning threshold for research/. Covers Wheeler's participatory universe, delayed-choice experiments, "it from bit" framework, and positioning relative to the Map. Preserve core arguments and citations while reducing supplementary detail. See /condense skill.
+- **Output**: obsidian/research/wheeler-it-from-bit-2026-03-14.md
 
 ### ✓ 2026-03-19: Condense bi-aspectual-ontology-dual-aspect-traditions-2026-03-16.md (3975 words, 159% of target)
 - **Type**: condense
