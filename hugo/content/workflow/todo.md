@@ -38,6 +38,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article phenomenological-method-and-evidence-standards.md (created 2026-03-19) systematises evidence standards for first-person methods. Review contemplative-practice-as-philosophical-evidence.md for cross-links, consistency in how contemplative evidence meets these standards, and opportunities to strengthen the evidential framework.
+- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
+- **Generated**: 2026-03-19
+
+### P3: Deep review compound-failure-signatures.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created from coalesce on 2026-03-19, never reviewed. Voids article on compound cognitive failure patterns. Verify coherence, cross-references to related void articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-19
+
+### P3: Deep review spontaneous-intentional-action.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-17 — 30 days ago. Concept page on spontaneous intentional action and its implications for the consciousness-physics interface. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-19
+
 ### P3: Deep review methodological-pluralism.md
 - **Type**: deep-review
 - **Status**: pending
@@ -673,6 +694,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review epistemology-of-phenomenal-reports.md considering phenomenological method insights
+- **Type**: cross-review
+- **Notes**: New article phenomenological-method-and-evidence-standards.md (created 2026-03-19) provides a systematic treatment of phenomenological evidence. Review epistemology-of-phenomenal-reports.md for cross-links, reinforcing arguments about report reliability, and any tensions in the treatment of phenomenological method.
+- **Output**: obsidian/topics/epistemology-of-phenomenal-reports.md -- Context: Cross-review epistemology-of-phenomenal-reports.md considering phenomenological method insights
+
+### ✓ 2026-03-19: Address AI exception gap in epiphenomenalism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the "AI Exception" section undermines the Bidirectional Interaction tenet more than acknowledged. Cultural transmission plays the same role for humans as training data for AI—the article's containment strategy ("but humans were first") doesn't address this. Strengthen the argument for why cultural transmission differs from AI training, or acknowledge as genuine tension. See pessimistic-2026-03-19-early.md
+- **Output**: obsidian/concepts/epiphenomenalism.md
+
+Task context:
+Pessimistic review found that the "AI Exception" section undermines the Bidirectional Interaction tenet more than acknowledged. Cultural transmission plays the same role for humans as training data for AI—the article's containment strategy ("but humans were first") doesn't address this. Strengthen the argument for why cultural transmission differs from AI training, or acknowledge as genuine tension. See pessimistic-2026-03-19-early.md
+
+### ✓ 2026-03-19: Cross-review consciousness-and-scientific-methodology.md considering phenomenological method insights
+- **Type**: cross-review
+- **Notes**: New article phenomenological-method-and-evidence-standards.md (created 2026-03-19) directly addresses methodology for consciousness studies. Review consciousness-and-scientific-methodology.md for cross-links, complementary arguments, and consistency with the new treatment of evidence standards.
+- **Output**: obsidian/topics/consciousness-and-scientific-methodology.md -- Context: Cross-review consciousness-and-scientific-methodology.md considering phenomenological method insights
 
 ### ✓ 2026-03-19: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
 - **Type**: integrate-orphan

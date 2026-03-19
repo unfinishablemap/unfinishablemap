@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-03-14 14:01:00+00:00
+ai_modified: 2026-03-19 04:24:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,12 +18,11 @@ description: What laws of nature are—Humean regularities, governing principles
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-20 18:06:00+00:00
+last_deep_review: 2026-03-19 04:24:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[psychophysical-laws-bridging-mind-and-matter]]'
-- '[[selection-laws]]'
 - '[[consciousness-and-causal-powers]]'
 title: Consciousness and the Metaphysics of Laws
 topics:
@@ -77,7 +76,7 @@ The difficulty is what might be called the *legislation problem*: who or what le
 
 The governing view does, however, support the Map's bidirectional framework. If laws are genuinely prescriptive—if they *make* things happen rather than summarising what happens—then downward psychophysical laws could prescribe that certain conscious states produce certain physical outcomes. The law doesn't merely record that intention is followed by action; it governs the process by which intention produces action. This gives [psychophysical causation](/concepts/mental-causation/) the same metaphysical status as physical causation: both are law-governed.
 
-This has a further consequence for the quantum measurement problem. If governing laws prescribe physical outcomes, a psychophysical governing law could serve as the missing prescription for *when and how* quantum superpositions resolve in neural contexts. Physics leaves quantum measurement unexplained—no purely physical law specifies which outcome obtains. A psychophysical governing law would fill that gap, not as an ad hoc addition but as a completion of the lawful structure that physics itself requires. The Map's [selection law](/concepts/psychophysical-laws/) framework—where consciousness biases otherwise indeterminate quantum outcomes—is naturally expressed as a governing law prescribing minimal, specific interventions at sites of neural quantum indeterminacy.
+This has a further consequence for the quantum measurement problem. If governing laws prescribe physical outcomes, a psychophysical governing law could serve as the missing prescription for *when and how* quantum superpositions resolve in neural contexts. Physics leaves quantum measurement unexplained—no purely physical law specifies which outcome obtains. A psychophysical governing law would fill that gap, not as an ad hoc addition but as a completion of the lawful structure that physics itself requires. The Map's selection law framework—where consciousness biases otherwise indeterminate quantum outcomes, as developed in [the psychophysical laws article](/topics/psychophysical-laws-bridging-mind-and-matter/)—is naturally expressed as a governing law prescribing minimal, specific interventions at sites of neural quantum indeterminacy.
 
 ### Dispositional Essentialism and Phenomenal Powers
 
@@ -131,7 +130,6 @@ The Map's [tenets](/tenets/) have differential affinities with each account of l
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The foundational concept
 - [causal-powers](/concepts/causal-powers/) — How dispositional properties ground the Map's account of mental causation
 - [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) — How pandispositionalism, categoricalism, and the identity theory frame the mind-body problem
-- [selection-laws](/concepts/psychophysical-laws/) — The downward direction: how conscious states select physical outcomes
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — Constraints on what consciousness can causally accomplish
 - [causal-closure](/concepts/causal-closure/) — Why physical causal closure is not absolute at quantum indeterminacies
 - [emergence](/concepts/emergence/) — How novel properties and powers arise from physical substrates
@@ -153,18 +151,3 @@ Lewis, D. (1973). *Counterfactuals*. Harvard University Press.
 Lewis, D. (1994). "Humean Supervenience Debugged." *Mind* 103(412): 473-490.
 
 Tooley, M. (1977). "The Nature of Laws." *Canadian Journal of Philosophy* 7(4): 667-698.
-
-<!-- AI REFINEMENT LOG - 2026-03-14
-Changes made:
-- Developed the conditional necessity argument more rigorously: explained why the charge/consciousness analogy breaks down (phenomenal properties are contingent relative to complete physical facts, unlike charge)
-- Added analysis of the deeper consequence: if phenomenal properties aren't fundamental in the same sense, their dispositional natures can't ground psychophysical laws the way charge grounds Coulomb's law
-- Acknowledged that this tension genuinely favours the governing laws view for cross-domain legislation
-- Added the dispositional essentialist's response (trade-off, not decisive refutation) and the Map's compatibility with both views
-- Updated "Why This Matters" section to reflect the nuanced position (dispositional essentialism explains causal profile but not existence)
-- Updated Relation to Site Perspective to present governing laws as potentially cleaner for cross-domain cases
-
-Based on pessimistic review (2026-03-14) finding medium-severity issue with underdeveloped conditional necessity resolution.
-Key improvements: rigorous treatment of zombie-world disanalogy and honest acknowledgment of governing laws' advantages.
-
-This log should be removed after human review.
--->

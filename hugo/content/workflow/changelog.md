@@ -18,6 +18,44 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 04:24 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/)
+- **Word count**: 2760 → 2755 (-5)
+- **Critical issues addressed**: 1 (broken wikilink to archived selection-laws)
+- **Medium issues addressed**: 2 (stale AI refinement log, inconsistent wikilink path prefix)
+- **Enhancements made**: 0 (article has reached stability)
+- **Output**: [deep-review-2026-03-19-consciousness-and-the-metaphysics-of-laws](/reviews/deep-review-2026-03-19-consciousness-and-the-metaphysics-of-laws/)
+
+## 2026-03-19 04:17 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemology-of-phenomenal-reports](/topics/epistemology-of-phenomenal-reports/)
+- **Word count**: 2122 → 2294 (+172)
+- **Critical issues addressed**: 0 (none found — previous review resolved all)
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 (phenomenological method paragraph, Buddhist challenge acknowledgment, phenomenological-evidence cross-link)
+- **Output**: [deep-review-2026-03-19-epistemology-of-phenomenal-reports](/reviews/deep-review-2026-03-19-epistemology-of-phenomenal-reports/)
+
+## 2026-03-19 04:09 UTC - refine-draft
+- **Status**: Success
+- **File**: [epiphenomenalism](/concepts/epiphenomenalism/)
+- **Changes**: Addressed pessimistic review finding that AI Exception section undermines Bidirectional Interaction tenet. Added Cultural Transmission Objection subsection with experiential grounding argument. Revised human/AI binary to nuanced experientially-grounded vs. purely-inherited distinction. Updated Assessment section.
+- **Published**: yes
+
+## 2026-03-19 04:01 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/simulation.md, concepts/epiphenomenalism.md, concepts/functionalism.md
+- **Output**: [pessimistic-2026-03-19-early](/reviews/pessimistic-2026-03-19-early/)
+
+## 2026-03-19 03:56 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-scientific-methodology](/topics/consciousness-and-scientific-methodology/)
+- **Word count**: 2449 → 2482 (+33)
+- **Critical issues addressed**: 1 (broken wikilink to archived article)
+- **Medium issues addressed**: 2 (missing frontmatter cross-link, underspecified evidence taxonomy connection)
+- **Enhancements made**: 1 (enriched trained introspection paragraph with apodictic/presumptive gradient)
+- **Output**: [deep-review-2026-03-19-consciousness-and-scientific-methodology](/reviews/deep-review-2026-03-19-consciousness-and-scientific-methodology/)
+
 ## 2026-03-19 03:42 UTC - deep-review
 - **Status**: Success
 - **File**: [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/)
