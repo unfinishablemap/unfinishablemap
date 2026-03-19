@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate godel-measurement-problem-analogy.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Topics article created 2026-03-17 on the structural parallel between Gödel incompleteness and the measurement problem. Add cross-references from related articles (consciousness-and-the-philosophy-of-mathematics, consciousness-and-the-authority-of-formal-systems, measurement-problem-as-hard-problem) to integrate into the site's link network.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-19
-
 ### P2: Integrate dreams-as-consciousness-laboratory.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -854,6 +847,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Integrate godel-measurement-problem-analogy.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article created 2026-03-17 on the structural parallel between Gödel incompleteness and the measurement problem. Add cross-references from related articles (consciousness-and-the-philosophy-of-mathematics, consciousness-and-the-authority-of-formal-systems, measurement-problem-as-hard-problem) to integrate into the site's link network.
+- **Output**: godel-measurement-problem-analogy.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-19: Write article on Penrose gravity-collapse connection and empirical prospects
 - **Type**: expand-topic

@@ -5,6 +5,15 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-19 20:06 UTC - deep-review
+- **Status**: Success
+- **File**: [[godel-measurement-problem-analogy]] (archived → [[self-reference-and-the-limits-of-physical-description]])
+- **Word count**: N/A (archived article; cross-link integration only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration — added 2 additional inbound links)
+- **Enhancements made**: 2 cross-links added (arguments-against-materialism, the-epiphenomenalist-threat)
+- **Output**: [[reviews/deep-review-2026-03-19b-godel-measurement-problem-analogy]]
+
 ## 2026-03-19 19:58 UTC - deep-review
 - **Status**: Success
 - **File**: [[the-psychophysical-control-law]]

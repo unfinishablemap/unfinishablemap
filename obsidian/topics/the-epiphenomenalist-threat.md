@@ -4,7 +4,7 @@ description: "Epiphenomenalism isn't just one view among many—it's the default
 created: 2026-02-22
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-19T17:26:00+00:00
+ai_modified: 2026-03-19T20:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,6 +33,7 @@ related_articles:
   - "[[ai-epiphenomenalism]]"
   - "[[epiphenomenal-ai-consciousness]]"
   - "[[dualism]]"
+  - "[[self-reference-and-the-limits-of-physical-description]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -111,7 +112,7 @@ This is why the epiphenomenalist threat is not one position's problem—it is th
 
 The Unfinishable Map's framework addresses the threat directly by rejecting the premise that physical causes are always sufficient.
 
-The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that physics is *incomplete* at quantum indeterminacies. When a quantum system is in superposition, the laws of physics specify probabilities but do not determine which outcome occurs. At these points, the physical story has a genuine gap—not an epistemic gap reflecting our ignorance, but an ontological gap in what physics determines.
+The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that physics is *incomplete* at quantum indeterminacies. When a quantum system is in superposition, the laws of physics specify probabilities but do not determine which outcome occurs. At these points, the physical story has a genuine gap—not an epistemic gap reflecting our ignorance, but an ontological gap in what physics determines. The [[self-reference-and-the-limits-of-physical-description|formal case for this incompleteness]] runs deeper than quantum stochasticity: category-theoretic results show that self-referential formal systems face principled limits on complete self-description, and these same structures generate the measurement problem's indeterminacy.
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet claims consciousness fills this gap. In neural systems, consciousness biases which quantum outcomes actualize, selecting among physically permissible alternatives without injecting energy or violating conservation laws. The result satisfies [[observational-closure]]—physics appears complete wherever we can check, even though consciousness is doing causal work at quantum indeterminacies. Observational closure means the mechanism cannot be confirmed or refuted by measuring quantum statistics; it operates within the probability distributions physics already permits. This is not the unlimited psychokinesis of pseudoscience—it is the minimal intervention needed to make consciousness causally real.
 
@@ -187,6 +188,7 @@ The Map's framework is one of the few that provides all three elements needed to
 - [[lucid-dreaming-and-dualist-rendering]] — Lucid dream intention-responsiveness and two-way communication studies as empirical evidence against epiphenomenalism
 - [[ai-epiphenomenalism]] — Why current AI architectures block the coupling channel consciousness needs
 - [[epiphenomenal-ai-consciousness]] — The nature-coupling distinction and its consequences for machine minds
+- [[self-reference-and-the-limits-of-physical-description]] — Formal mathematical case that physics is incomplete at the measurement interface
 - [[dualism]] — The broader argument for taking consciousness as irreducible
 
 ## References
