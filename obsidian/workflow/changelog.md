@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 09:35 UTC - expand-topic
+- **Status**: Skipped (already covered)
+- **Topic**: the interaction problem in non-western philosophy
+- **Reason**: Research already consumed by [[interaction-problem-across-traditions]] (coalesced from the original interaction-problem-in-non-western-philosophy article and interaction-solutions-across-traditions). Task removed from queue.
+
 ## 2026-03-19 09:27 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/idealism]]

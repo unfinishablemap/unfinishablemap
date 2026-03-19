@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the interaction problem in non-western philosophy
-- **Type**: expand-topic
-- **Notes**: Research completed in research/interaction-problem-non-western-philosophy-2026-02-17.md. Non-western traditions offer alternative models for mind-body interaction that don't share the Cartesian framing. Relevant to Tenet 3 (Bidirectional Interaction) — shows the interaction problem is not uniquely intractable when freed from substance dualism's assumptions. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review predictive-processing-and-the-maps-framework.md considering active inference article
 - **Type**: cross-review
 - **Notes**: New article predictive-processing-and-active-inference-under-dualism.md (2026-03-19) covers active inference under dualism. The existing predictive-processing-and-the-maps-framework.md may benefit from cross-references to the new treatment, updated arguments, or terminology alignment. Check for reinforcing arguments and potential contradictions.
@@ -766,6 +760,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Write article on the interaction problem in non-western philosophy
+- **Type**: expand-topic
+- **Notes**: Research completed in research/interaction-problem-non-western-philosophy-2026-02-17.md. Non-western traditions offer alternative models for mind-body interaction that don't share the Cartesian framing. Relevant to Tenet 3 (Bidirectional Interaction) — shows the interaction problem is not uniquely intractable when freed from substance dualism's assumptions. Target section: topics/.
+- **Output**: the interaction problem in non-western philosophy
 
 ### ✓ 2026-03-19: Write article on the hard problem of consciousness in non-western philosophy
 - **Type**: expand-topic
