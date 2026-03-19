@@ -4,8 +4,8 @@ description: "A survey of QM interpretations—Copenhagen, Bohmian, QBism, relat
 created: 2026-01-23
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-14T20:43:00+00:00
-last_deep_review: 2026-03-12T05:32:00+00:00
+ai_modified: 2026-03-19T21:39:00+00:00
+last_deep_review: 2026-03-19T21:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ coalesced_from:
   - "/topics/quantum-measurement-interpretations-beyond-mwi/"
 ---
 
-The Unfinishable Map [[concepts/many-worlds|rejects many-worlds]] because universal branching dissolves indexical identity and eliminates the collapse event where consciousness might act. But rejecting one interpretation demands engagement with the alternatives. The interpretive landscape remains genuinely open—surveys of physicists consistently find no interpretation commanding majority support, with significant numbers undecided or uncertain about their preferred reading (Schlosshauer et al. 2013). This article surveys the major alternatives and evaluates which leave room for consciousness as a causal participant in quantum outcomes.
+The Unfinishable Map [[concepts/many-worlds|rejects many-worlds]] because universal branching dissolves indexical identity, eliminates the collapse event where consciousness might act, and faces an [[probability-problem-in-many-worlds|unresolved probability crisis]]. But rejecting one interpretation demands engagement with the alternatives. The interpretive landscape remains genuinely open—surveys of physicists consistently find no interpretation commanding majority support, with significant numbers undecided or uncertain about their preferred reading (Schlosshauer et al. 2013). This article surveys the major alternatives and evaluates which leave room for consciousness as a causal participant in quantum outcomes.
 
 **Honest limitation**: The fact that physics hasn't settled on one interpretation doesn't mean consciousness-based interpretations are well-supported—they remain a minority position among physicists. What it means is that the measurement problem remains genuinely unsolved, and consciousness-collapse proposals haven't been ruled out. The Map treats this as philosophical space to explore, not scientific consensus.
 
@@ -118,6 +118,8 @@ This challenge cuts across interpretations. It applies to von Neumann-Wigner con
 The pattern is clear. Interpretations that eliminate the observer entirely (Bohmian) or treat observation as purely epistemic (QBism) leave the Map's questions unanswered. Interpretations that preserve real collapse and allow consciousness a role—whether as cause, selector, or modulator—provide the framework the Map needs.
 
 **The critical distinction**: Interpretations that "leave room" for consciousness don't thereby *support* consciousness-based theories—they simply don't exclude them. The Map doesn't claim physics has established consciousness's role in collapse; it claims physics hasn't ruled it out.
+
+**The probability advantage of collapse**: Collapse interpretations treat the Born rule as a fundamental law—a postulate about how nature distributes outcomes, honestly stated as such. MWI must instead *derive* probability from a theory where all outcomes occur, and every derivation strategy attempted over seven decades—decision-theoretic, self-locating uncertainty, envariance—has been shown to be circular or question-begging (see [[probability-problem-in-many-worlds]] for the full case). This is not merely a philosophical inconvenience; it threatens MWI's empirical adequacy. Interpretations that preserve real collapse avoid the problem entirely.
 
 **The indexical dimension**: As explored in [[quantum-measurement-and-subjective-probability]], Born probabilities may be fundamentally about what conscious subjects will experience—not "probability that spin-up occurs" but "probability that *I* experience spin-up." If this indexical reading is correct, the first-person perspective isn't an afterthought to quantum mechanics; it's built into the foundations.
 

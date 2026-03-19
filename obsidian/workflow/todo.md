@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review qm-interpretations-beyond-many-worlds.md considering probability-problem-in-many-worlds insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/probability-problem-in-many-worlds.md covers probability and decision-theory objections to MWI. The existing article topics/qm-interpretations-beyond-many-worlds.md should cross-reference these arguments. Check for complementary coverage, cross-links, and consistency.
-- **Source**: chain (from probability-problem-in-many-worlds.md)
-- **Generated**: 2026-03-19
-
 ### P2: Integrate temporal-constitution-and-consciousness.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -854,6 +847,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review qm-interpretations-beyond-many-worlds.md considering probability-problem-in-many-worlds insights
+- **Type**: cross-review
+- **Notes**: New article topics/probability-problem-in-many-worlds.md covers probability and decision-theory objections to MWI. The existing article topics/qm-interpretations-beyond-many-worlds.md should cross-reference these arguments. Check for complementary coverage, cross-links, and consistency.
+- **Output**: obsidian/topics/qm-interpretations-beyond-many-worlds.md -- Context: Cross-review qm-interpretations-beyond-many-worlds.md considering probability-problem-in-many-worlds insights
 
 ### ✓ 2026-03-19: Address unfalsifiability and unsourced claims in neural-correlates-of-consciousness.md
 - **Type**: refine-draft
