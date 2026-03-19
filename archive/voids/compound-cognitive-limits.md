@@ -29,6 +29,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-24
 last_curated:
 last_deep_review: 2026-03-11T20:01:00+00:00
+archived: true
+archived_date: 2026-03-19T02:12:00+00:00
+superseded_by: "/voids/compound-failure-signatures/"
+archive_reason: "Coalesced into Compound Failure Signatures"
+original_path: "/voids/compound-cognitive-limits/"
 ---
 
 The Unfinishable Map catalogues individual [[voids]]—the [[self-reference-paradox]], the [[language-thought-boundary]], the [[recursion-void]], the [[incompleteness-void]]—as if each were an independent obstacle. But cognitive limits do not operate in isolation. Where two or more limits overlap, the hidden territory is not the sum of what each conceals. It is something qualitatively different: an emergent blindness that no single limit predicts and no single investigation can reach.

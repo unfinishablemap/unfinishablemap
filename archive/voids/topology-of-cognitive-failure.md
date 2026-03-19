@@ -31,6 +31,11 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-29
 last_curated: null
+archived: true
+archived_date: 2026-03-19T02:12:00+00:00
+superseded_by: "/voids/compound-failure-signatures/"
+archive_reason: "Coalesced into Compound Failure Signatures"
+original_path: "/voids/topology-of-cognitive-failure/"
 ---
 
 Can we map the voids by studying how thinking fails when it approaches them? The core insight: cognitive failures are not random noise but structured signals. Different kinds of limits produce different kinds of breakdown. The *way* thinking fails reveals something about *what* it is failing against. If failures have characteristic signatures, then careful attention to *how* thought breaks down—not just *that* it breaks down—could serve as an indirect method for mapping void boundaries without requiring direct access to void content.
