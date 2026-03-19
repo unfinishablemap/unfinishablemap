@@ -116,6 +116,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[ownership-void|The Ownership Void]] — Why we cannot introspect how experiences become ours
 - [[plurality-void|The Plurality Void]] — Why we cannot conceive being multiple subjects at once
 - [[resolution-void|The Resolution Void]] — The six-order-of-magnitude compression between available and accessed information
+- [[self-transcendence-void|The Self-Transcendence Void]] — Why consciousness cannot bootstrap itself beyond its own cognitive architecture
 - [[spontaneous-thought-void|The Spontaneous Thought Void]] — Why consciousness cannot observe generation of unbidden thoughts
 - [[transparency-void|The Transparency Void]] — Why consciousness cannot verify its own accuracy
 

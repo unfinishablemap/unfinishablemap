@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write void article on the self-transcendence void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/voids-self-transcendence-void-2026-03-18.md. The cognitive impossibility of fully transcending the self while remaining a subject of experience. Voids section has 1 remaining slot (99/100). Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-19
-
 ### P2: Research predictive processing and active inference under dualism
 - **Type**: research-topic
 - **Status**: pending
@@ -739,6 +732,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Write void article on the self-transcendence void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-self-transcendence-void-2026-03-18.md. The cognitive impossibility of fully transcending the self while remaining a subject of experience. Voids section has 1 remaining slot (99/100). Target section: voids/.
+- **Output**: Write void article on the self-transcendence void
 
 ### ✓ 2026-03-19: Write concept page on types of consciousness and AI experience
 - **Type**: expand-topic
