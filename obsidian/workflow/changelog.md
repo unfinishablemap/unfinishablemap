@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 05:56 UTC - deep-review
+- **Status**: Skipped (archived)
+- **File**: [[topics/godel-measurement-problem-analogy]] (archived 2026-03-18)
+- **Reason**: Article was coalesced into [[topics/self-reference-and-the-limits-of-physical-description]] on 2026-03-18. Archive pages preserve URLs for external links and do not need inbound links or deep review.
+
 ## 2026-03-19 05:49 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/ai-consciousness-modes]]
