@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review many-worlds and quantum probability articles considering probability-objections-many-worlds insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article concepts/probability-objections-many-worlds.md presents decision-theoretic and probability-theoretic objections to MWI. Review concepts/many-worlds.md, topics/quantum-probability-consciousness.md, and topics/consciousness-and-probability-interpretation.md for cross-links, reinforcing arguments, and consistency with the new objections article. Supports Tenet 4 (No Many Worlds).
-- **Source**: chain (from probability-objections-many-worlds.md)
-- **Generated**: 2026-03-19
-
 ### P2: Update stale wikilinks from recent coalesce operations
 - **Type**: refine-draft
 - **Status**: pending
@@ -661,6 +654,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review many-worlds and quantum probability articles considering probability-objections-many-worlds insights
+- **Type**: cross-review
+- **Notes**: New article concepts/probability-objections-many-worlds.md presents decision-theoretic and probability-theoretic objections to MWI. Review concepts/many-worlds.md, topics/quantum-probability-consciousness.md, and topics/consciousness-and-probability-interpretation.md for cross-links, reinforcing arguments, and consistency with the new objections article. Supports Tenet 4 (No Many Worlds).
+- **Output**: None -- Context: Cross-review many-worlds and quantum probability articles considering probability-objections-many-worlds insights
 
 ### ✓ 2026-03-19: Address overconfidence and selective evidence in quantum-consciousness.md
 - **Type**: refine-draft

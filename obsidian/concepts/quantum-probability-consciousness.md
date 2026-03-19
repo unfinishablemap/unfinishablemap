@@ -4,7 +4,7 @@ description: "Born probabilities describe the consciousness-quantum interface: n
 created: 2026-01-23
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-03-17T06:15:00+00:00
+ai_modified: 2026-03-19T00:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ concepts:
   - "[[stapp-quantum-mind]]"
   - "[[quantum-interpretations]]"
   - "[[prebiotic-collapse]]"
+  - "[[probability-objections-many-worlds]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-measurement-subjective-probability-2026-01-23]]"
@@ -32,7 +33,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated:
-last_deep_review: 2026-03-17T06:15:00+00:00
+last_deep_review: 2026-03-19T00:51:00+00:00
 coalesced_from:
   - "/concepts/quantum-probability-and-consciousness/"
   - "/concepts/subjective-probability-quantum-measurement/"
@@ -58,7 +59,7 @@ Three aspects are puzzling:
 
 The traditional view treats Born probabilities as objective propensities—real tendencies in nature for outcomes to occur regardless of observation. This fits spontaneous collapse theories (GRW, CSL), where collapse is a physical process with built-in stochasticity.
 
-The standard view aligns with scientific realism but struggles with single cases—what does it mean for *this* atom to have 50% propensity to decay when it will either decay or not? It also leaves consciousness entirely out of the picture, offering no explanation for why the formalism treats measurement specially or why experience has determinate content.
+The standard view aligns with scientific realism but struggles with single cases—what does it mean for *this* atom to have 50% propensity to decay? It also leaves consciousness out of the picture, offering no explanation for why the formalism treats measurement specially or why experience has determinate content.
 
 ### QBism: Consciousness Central but Unexplained
 
@@ -72,7 +73,7 @@ Wheeler's "participatory universe" and Fuchs's "participatory realism" hold that
 
 ### Self-Location Measure (Many-Worlds)
 
-In many-worlds, all outcomes occur in different branches; probability is reinterpreted as a measure on branches. The [[probability-problem-in-many-worlds|full analysis]] shows that all three major recovery strategies—decision theory, self-locating uncertainty, and envariance—face independent objections, and a circularity (Born rule → decoherence → branches → probability → Born rule) undermines the programme.
+In many-worlds, all outcomes occur in different branches; probability is reinterpreted as a measure on branches. The [[probability-problem-in-many-worlds|full analysis]] shows that all three major recovery strategies—decision theory, self-locating uncertainty, and envariance—face independent objections, and a circularity (Born rule → decoherence → branches → probability → Born rule) undermines the programme. The [[probability-objections-many-worlds|four distinct probability objections]]—incoherence, circularity, branch-counting failure, and the betting-frequency gap—remain unresolved after seven decades.
 
 More fundamentally, MWI treats indexical identity as derivative from branch structure. But "why am I experiencing *this* branch?" seems meaningful, and MWI provides no resources to answer it.
 
@@ -163,7 +164,7 @@ The Map's response: cognitive closure counsels humility but not inaction. The co
 
 The interface view does not derive the Born rule's specific form (squared amplitudes) from consciousness-based premises. It makes the same predictions as standard quantum mechanics, reinterpreting what probabilities *mean* without changing what they *are*—making it difficult to test directly, though this is true of all quantum interpretations. The selection mechanism remains underspecified; Stapp's [[stapp-quantum-mind|quantum Zeno mechanism]] provides one model among several.
 
-The interface view is therefore a philosophical framework rather than a complete theory. Its value lies in coherence with the Map's commitments and in addressing problems (like first-person probability) that other interpretations ignore.
+The interface view is a philosophical framework rather than a complete theory. Its value lies in coherence with the Map's commitments and in addressing problems (like first-person probability) that other interpretations ignore.
 
 ## Relation to Site Perspective
 
@@ -186,6 +187,7 @@ The question of quantum probability's nature connects to all five tenets:
 - [[quantum-interpretations]] - Survey of QM interpretations
 - [[mind-matter-interface]] - How consciousness meets physics
 - [[haecceity]] - The quality of primitive thisness
+- [[probability-objections-many-worlds]] - Four distinct objections to probability in MWI
 - [[quantum-consciousness]] - Mechanisms for consciousness-quantum interaction
 - [[stapp-quantum-mind]] - Henry Stapp's quantum Zeno mechanism
 - [[decoherence]] - The quantum coherence challenge
