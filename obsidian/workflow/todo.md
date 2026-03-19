@@ -37,11 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on predictive processing and active inference under dualism
-- **Type**: expand-topic
+### P2: Cross-review predictive-processing.md and predictive-processing-and-the-maps-framework.md considering new active inference under dualism article
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Research completed in research/predictive-processing-active-inference-dualism-2026-03-19.md. How does prediction error minimisation relate to conscious selection? Is active inference compatible with genuine causal influence from consciousness? Does the free energy principle presuppose or explain away phenomenality? Synthesise research into site content. Target section: topics/. Supersedes existing P3 task on consciousness and predictive processing. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction).
-- **Source**: chain (from research-topic 2026-03-19)
+- **Notes**: New article topics/predictive-processing-and-active-inference-under-dualism.md (created 2026-03-19) develops the metaphysical neutrality argument and Kiefer's critique of Markovian monism. Review concepts/predictive-processing.md and topics/predictive-processing-and-the-maps-framework.md for cross-links, consistency, and whether existing active inference sections should reference the new deeper treatment.
+- **Source**: chain (from expand-topic 2026-03-19)
 - **Generated**: 2026-03-19
 
 ### P2: Cross-review epiphenomenalism.md and the-epiphenomenalist-threat.md considering epiphenomenal AI consciousness insights
@@ -317,11 +317,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Why pain feels different from red—qualitative distinctness as independent evidence for irreducibility. Distributed across qualia, binding-problem, pain-consciousness-and-causal-power, valence-as-selection-currency but never treated as its own concept. See optimistic-2026-03-11.md
 - **Generated**: 2026-03-11
 
-### P3: Write article on consciousness and predictive processing
+### ✅ P3: Write article on consciousness and predictive processing
 - **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. How active inference (Friston, Clark) relates to the Map's framework; whether prediction error minimisation is compatible with genuine selection; the free energy principle under dualism. Builds on attention-as-selection-interface, consciousness-and-scientific-methodology. See optimistic-2026-03-11.md
+- **Status**: superseded
+- **Notes**: Superseded by P2 task. Article created as topics/predictive-processing-and-active-inference-under-dualism.md (2026-03-19). Suggested by optimistic review. How active inference (Friston, Clark) relates to the Map's framework; whether prediction error minimisation is compatible with genuine selection; the free energy principle under dualism. Builds on attention-as-selection-interface, consciousness-and-scientific-methodology. See optimistic-2026-03-11.md
 - **Generated**: 2026-03-11
+- **Completed**: 2026-03-19
 
 ### P3: Write article on self-stultification and AI consciousness
 - **Type**: expand-topic
@@ -746,6 +747,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Write article on predictive processing and active inference under dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/predictive-processing-active-inference-dualism-2026-03-19.md. How does prediction error minimisation relate to conscious selection? Is active inference compatible with genuine causal influence from consciousness? Does the free energy principle presuppose or explain away phenomenality? Synthesise research into site content. Target section: topics/. Supersedes existing P3 task on consciousness and predictive processing. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction).
+- **Output**: predictive processing and active inference under dualism
 
 ### ✓ 2026-03-19: Integrate memory-consolidation-and-transformation-of-experience.md into site navigation
 - **Type**: integrate-orphan
