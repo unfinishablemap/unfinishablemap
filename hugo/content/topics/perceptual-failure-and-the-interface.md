@@ -33,7 +33,7 @@ last_deep_review: 2026-03-14 00:24:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[perception-and-conscious-experience]]'
+- '[[dualist-perception]]'
 - '[[the-interface-specification-problem]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
 - '[[sensorimotor-contingencies-and-the-interface]]'
@@ -45,7 +45,7 @@ related_articles:
 title: Perceptual Failure and the Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[philosophy-of-perception-under-dualism]]'
+- '[[dualist-perception]]'
 ---
 
 The Unfinishable Map holds that consciousness operates through an interface with the physical brain—a structured connection where mind and matter meet. Normal perception conceals this interface: experience feels like direct contact with reality. But when perception fails—through blur, neural damage, or pharmacological disruption—the interface becomes visible. The way perception breaks down is diagnostic: just as stress-testing a bridge reveals its load-bearing architecture, degrading the perceptual system reveals the architecture of the consciousness-brain interface. The patterns of failure—graded rather than binary, selective rather than uniform, compensated rather than passive—point toward a bandwidth-limited transmission channel rather than a simple read-off of neural states. And the failures produce a paradox: the less faithfully experience tracks the external world, the more visible the interface becomes.
@@ -130,7 +130,7 @@ The bandwidth model accommodates this directly. A transmission channel with fini
 
 ## Further Reading
 
-- [perception-and-conscious-experience](/topics/perception-and-conscious-experience/)
+- [dualist-perception](/topics/dualist-perception/)
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/)
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
 - [interface-friction](/concepts/interface-friction/)

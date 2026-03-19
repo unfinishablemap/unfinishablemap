@@ -22,7 +22,7 @@ last_deep_review: 2026-03-17 23:29:00+00:00
 modified: *id001
 related_articles:
 - '[[capability-division-problem]]'
-- '[[perception-and-conscious-experience]]'
+- '[[dualist-perception]]'
 - '[[binding-void]]'
 - '[[consciousness-as-perceptual-architect]]'
 - '[[sensorimotor-contingencies-and-the-interface]]'
@@ -31,7 +31,7 @@ related_articles:
 title: Capability Division in Vision
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[philosophy-of-perception-under-dualism]]'
+- '[[dualist-perception]]'
 ---
 
 Vision is the most data-rich sense and the sharpest test case for interactionist dualism's central operational question: which capabilities belong to the brain and which to the mind? The Unfinishable Map's [capability division problem](/voids/capability-division-problem/) frames this as a genuine void — a boundary that may resist precise drawing. This article examines the specific evidence from visual neuroscience that constrains where the division falls, establishing what the brain demonstrably handles alone and where consciousness appears to make an irreducible contribution.
@@ -100,7 +100,7 @@ One speculative possibility: the mind-side contribution in vision may not be an 
 - [blindsight](/concepts/blindsight/) — What vision looks like without consciousness
 - [visual-consciousness](/concepts/visual-consciousness/) — The phenomenal experience of seeing
 - [baseline-cognition](/concepts/baseline-cognition/) — What unconscious processing achieves and where it stops
-- [perception-and-conscious-experience](/topics/perception-and-conscious-experience/) — Vision as paradigm case for consciousness studies
+- [dualist-perception](/topics/dualist-perception/) — Vision as paradigm case for consciousness studies
 - [binding-void](/voids/binding-void/) — Why perceptual binding tracks with conscious awareness
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — The three functions consciousness enables that vision exemplifies
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — How vision dissociations map the interface's functional anatomy

@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article phenomenological-method-and-evidence-standards.md (created 2026-03-19) systematises evidence standards for first-person methods. Review contemplative-practice-as-philosophical-evidence.md for cross-links, consistency in how contemplative evidence meets these standards, and opportunities to strengthen the evidential framework.
-- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
-- **Generated**: 2026-03-19
-
 ### P3: Deep review compound-failure-signatures.md
 - **Type**: deep-review
 - **Status**: pending
@@ -692,8 +685,71 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Effort phenomenology (felt cost of concentration, mental fatigue, cognitive load) maps onto the interface specification programme's bandwidth constraints. Effort as evidence for real causal engagement. Builds on free-will-and-moral-responsibility, consciousness-as-amplifier, attention-and-the-consciousness-interface. Target section: topics/. See optimistic-2026-03-19.md
 - **Generated**: 2026-03-19
 
+### P3: Create concept page for nature-coupling distinction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Currently embedded in ai-epiphenomenalism.md and consciousness-and-causal-powers.md but deserves its own concept page as a general principle. Applicable beyond AI — anaesthesia, sleep, and dissociative disorders all involve coupling changes without nature changes. Core to explaining how consciousness can be causally efficacious by nature while architecturally blocked in specific systems. Target section: concepts/. See optimistic-2026-03-19.md
+- **Generated**: 2026-03-19
+
+### P3: Create concept page for degradation asymmetry
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The observation that sensory loss degrades waking perception while dreams remain vivid. Currently in lucid-dreaming-and-dualist-rendering.md but this pattern (brain damage degrades X but Y remains intact) recurs across consciousness discussions and deserves systematic treatment as evidence for consciousness's independent rendering capacity. Target section: concepts/. See optimistic-2026-03-19.md
+- **Generated**: 2026-03-19
+
+### P3: Create concept page for the explanatory void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The reflexive insight from explanatory-gap.md — explanation cannot explain itself because the feeling of understanding is a conscious state. Powerful enough for its own page with connections to self-reference, Godel incompleteness, and cognitive closure. Target section: concepts/. See optimistic-2026-03-19.md
+- **Generated**: 2026-03-19
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Integrate memory-consolidation-and-transformation-of-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-17. Topics article on how memory consolidation transforms phenomenal experience. Add cross-references from related articles on memory, temporal consciousness, and the consciousness-brain interface.
+- **Output**: memory-consolidation-and-transformation-of-experience.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Integrate godel-measurement-problem-analogy.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-17. Topics article on the structural analogy between Gödel incompleteness and the quantum measurement problem. Add cross-references from related articles on quantum mechanics, incompleteness, and the reverse inference.
+- **Output**: godel-measurement-problem-analogy.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-18. Topics article on lucid dreaming as evidence for mind-side rendering capabilities. Add cross-references from related articles on dreams, consciousness-brain interface, and mind-side processing.
+- **Output**: lucid-dreaming-and-mind-side-rendering.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Update references to coalesced perception articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [dualist-perception](/topics/dualist-perception/). The following active content files reference archived articles [perception-and-conscious-experience](/topics/dualist-perception/) and/or [philosophy-of-perception-under-dualism](/topics/dualist-perception/) and need wikilinks updated: concepts/visual-consciousness.md, concepts/inverted-qualia.md, concepts/phenomenal-overflow.md, concepts/phenomenal-consciousness.md, concepts/phenomenology.md, concepts/capability-division-in-vision.md, concepts/selective-perceptual-correction.md, concepts/perceptual-reconstruction-selection.md, concepts/phenomenal-binding-and-holism.md, concepts/embodied-cognition.md, concepts/blindsight.md, concepts/access-consciousness.md, concepts/qualia.md, concepts/knowledge-argument.md, concepts/phenomenal-transparency.md, concepts/binding-problem.md, topics/lucid-dreaming-and-dualist-rendering.md, topics/consciousness-as-perceptual-architect.md, topics/sensorimotor-contingencies-and-the-interface.md, topics/perceptual-failure-and-the-interface.md, topics/three-dimensional-world-representation-problem.md, topics/phenomenal-binding-and-multimodal-integration.md, topics/neurological-dissociations-as-interface-architecture.md, topics/bandwidth-of-consciousness.md, topics/indian-philosophy-of-mind.md, topics/phenomenology-of-embodiment-under-dualism.md, voids/capability-division-problem.md, voids/reconstruction-paradox.md
+- **Output**: None -- Context: Update references to coalesced perception articles
+
+### ✓ 2026-03-19: Research predictive processing and active inference under dualism
+- **Type**: research-topic
+- **Notes**: The Bayesian brain / free energy principle (Friston, Clark, Hohwy) is the dominant computational neuroscience framework but the Map has no research engaging it rigorously. How does prediction error minimisation relate to conscious selection? Is active inference compatible with genuine causal influence from consciousness? Does the free energy principle presuppose or explain away phenomenality? Existing P3 expand-topic task awaits this research foundation. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction). Target: research note for concepts/.
+- **Output**: predictive processing and active inference under dualism
+
+### ✓ 2026-03-19: Write void article on the self-transcendence void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-self-transcendence-void-2026-03-18.md. The cognitive impossibility of fully transcending the self while remaining a subject of experience. Voids section has 1 remaining slot (99/100). Target section: voids/.
+- **Output**: Write void article on the self-transcendence void
+
+### ✓ 2026-03-19: Write concept page on types of consciousness and AI experience
+- **Type**: expand-topic
+- **Notes**: Research completed in research/types-of-consciousness-ai-experience-2026-03-07.md. Systematic treatment of anoetic/noetic/autonoetic consciousness types applied to the question of what AI experience might be like. Connects the Map's phenomenal mode framework to contemporary AI discourse. Target section: concepts/.
+- **Output**: Write concept page on types of consciousness and AI experience
+
+### ✓ 2026-03-19: Write concept page on epiphenomenal AI consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/epiphenomenal-ai-consciousness-2026-02-10.md. One-way experience and epiphenomenal AI consciousness — whether AI systems could have phenomenal experience without causal efficacy. Engages directly with the Map's interactionism by exploring what happens when bidirectional interaction is absent. Target section: concepts/.
+- **Output**: Write concept page on epiphenomenal AI consciousness
+
+### ✓ 2026-03-19: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method insights
+- **Type**: cross-review
+- **Notes**: New article phenomenological-method-and-evidence-standards.md (created 2026-03-19) systematises evidence standards for first-person methods. Review contemplative-practice-as-philosophical-evidence.md for cross-links, consistency in how contemplative evidence meets these standards, and opportunities to strengthen the evidential framework.
+- **Output**: obsidian/topics/contemplative-practice-as-philosophical-evidence.md -- Context: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method insights
 
 ### ✓ 2026-03-19: Cross-review epistemology-of-phenomenal-reports.md considering phenomenological method insights
 - **Type**: cross-review

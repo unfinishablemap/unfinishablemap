@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-25
-**Article**: [Perception and Conscious Experience](/topics/perception-and-conscious-experience/)
+**Article**: [Perception and Conscious Experience](/topics/dualist-perception/)
 **Previous review**: [2026-02-23](/reviews/deep-review-2026-02-23-perception-and-conscious-experience/)
 
 ## Pessimistic Analysis Summary
@@ -89,7 +89,7 @@ The article had zero inbound links despite being a natural hub for perception-re
 - [visual-consciousness](/concepts/visual-consciousness/) — Added link noting the broader perception framework
 
 #### Topics (2):
-- [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/) — Added link in opening paragraph and Further Reading
+- [philosophy-of-perception-under-dualism](/topics/dualist-perception/) — Added link in opening paragraph and Further Reading
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Added link in explanatory gap section
 - [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/) — Added link in opening referencing perceptual dissociations
 

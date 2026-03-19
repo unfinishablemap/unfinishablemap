@@ -734,7 +734,7 @@ Pessimistic review found the unity argument dismisses materialist unification at
 
 ### ✓ 2026-03-12: Cross-review reconstruction paradox against related perception articles
 - **Type**: cross-review
-- **Notes**: New article [reconstruction-paradox](/voids/reconstruction-paradox/) created. Review against [perception-and-conscious-experience](/topics/perception-and-conscious-experience/), [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/), [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/), and [consciousness-only-territories](/voids/consciousness-only-territories/) for consistency and cross-linking opportunities.
+- **Notes**: New article [reconstruction-paradox](/voids/reconstruction-paradox/) created. Review against [perception-and-conscious-experience](/topics/dualist-perception/), [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/), [philosophy-of-perception-under-dualism](/topics/dualist-perception/), and [consciousness-only-territories](/voids/consciousness-only-territories/) for consistency and cross-linking opportunities.
 - **Output**: None -- Context: Cross-review reconstruction paradox against related perception articles
 
 ### ✓ 2026-03-12: Write article on the reconstruction paradox

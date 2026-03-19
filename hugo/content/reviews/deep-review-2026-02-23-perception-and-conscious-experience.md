@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-23
-**Article**: [Perception and Conscious Experience](/topics/perception-and-conscious-experience/)
+**Article**: [Perception and Conscious Experience](/topics/dualist-perception/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

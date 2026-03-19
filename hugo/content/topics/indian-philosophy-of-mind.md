@@ -16,7 +16,6 @@ concepts:
 - '[[dualism]]'
 - '[[causal-closure]]'
 - '[[objections-to-interactionism]]'
-- '[[dualism]]'
 created: 2026-02-21
 date: &id001 2026-02-21
 description: Samkhya, Nyaya, and Vedanta developed sophisticated theories of consciousness
@@ -41,7 +40,7 @@ topics:
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[interaction-problem-across-traditions]]'
 - '[[the-convergence-argument-for-dualism]]'
-- '[[philosophy-of-perception-under-dualism]]'
+- '[[dualist-perception]]'
 ---
 
 The Unfinishable Map's commitment to dualism—that consciousness is irreducible to physical processes—was articulated independently in India over two thousand years before Descartes. Three classical Indian schools developed sophisticated philosophies of mind that remain philosophically live: Samkhya, Nyaya, and Vedanta. Each takes consciousness as fundamental, but they disagree sharply on what follows. Samkhya places mind on the *matter* side of the divide. Nyaya treats consciousness as an adventitious quality of a non-physical self. Vedanta dissolves the divide entirely, making consciousness the sole reality. These internal disagreements illuminate problems the Map must face, and the depth of Indian engagement with consciousness offers resources Western philosophy of mind has largely neglected.
@@ -86,7 +85,7 @@ The Nyaya school developed rigorous arguments against the Buddhist *anatman* (no
 
 ### A Causal Theory of Perception
 
-Nyaya developed the most rigorous perceptual theory in classical Indian philosophy—a framework with striking parallels to modern [dualist theories of perception](/topics/philosophy-of-perception-under-dualism/). Perception (*pratyaksha*) involves a causal chain linking object, sense organ, *manas*, and self. Uddyotakara (c. 600 CE) systematized six types of sense-object contact. Gangesa (c. 1325 CE) refined the earlier Nyaya distinction between indeterminate perception (*nirvikalpaka*)—non-conceptual awareness of bare particulars—and determinate perception (*savikalpaka*)—conceptual, classified awareness ("this is a blue pot"). Both stages produce valid knowledge; Gangesa's contribution was to formalise the conditions under which each yields warranted belief.
+Nyaya developed the most rigorous perceptual theory in classical Indian philosophy—a framework with striking parallels to modern [dualist theories of perception](/topics/dualist-perception/). Perception (*pratyaksha*) involves a causal chain linking object, sense organ, *manas*, and self. Uddyotakara (c. 600 CE) systematized six types of sense-object contact. Gangesa (c. 1325 CE) refined the earlier Nyaya distinction between indeterminate perception (*nirvikalpaka*)—non-conceptual awareness of bare particulars—and determinate perception (*savikalpaka*)—conceptual, classified awareness ("this is a blue pot"). Both stages produce valid knowledge; Gangesa's contribution was to formalise the conditions under which each yields warranted belief.
 
 Gangesa also gave the most rigorous treatment of apperception (*anuvyavasaya*): awareness of being aware. He distinguished knowing *that* one cognizes (practically infallible) from knowing *what* one cognizes (fallible). This anticipates debates about higher-order theories of consciousness in contemporary philosophy of mind.
 
@@ -168,7 +167,7 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — The epistemological structure Indian philosophy exemplifies
 - [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) — Broader survey including Samkhya alongside Islamic and Buddhist approaches
 - [causal-closure](/concepts/causal-closure/) — How Samkhya's framework preserves causal closure
-- [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/) — Dualist theories of perception, with parallels to Nyaya
+- [dualist-perception](/topics/dualist-perception/) — Dualist theories of perception, with parallels to Nyaya
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Standard challenges that Samkhya's framework sidesteps
 
 ## References

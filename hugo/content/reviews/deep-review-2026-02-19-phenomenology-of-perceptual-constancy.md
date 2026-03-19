@@ -62,7 +62,7 @@ topics: []
 - Alphabetised and expanded References section
 
 ### Cross-links Added
-- [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/)
+- [philosophy-of-perception-under-dualism](/topics/dualist-perception/)
 - [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/)
 - [phenomenal-transparency](/concepts/phenomenal-transparency/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)

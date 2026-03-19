@@ -30,8 +30,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[attention-and-the-consciousness-interface]]'
-- '[[philosophy-of-perception-under-dualism]]'
-- '[[perception-and-conscious-experience]]'
+- '[[dualist-perception]]'
 - '[[temporal-structure-of-consciousness]]'
 - '[[consciousness-and-skilled-performance]]'
 - '[[consciousness-and-the-neuroscience-of-deliberate-practice]]'
@@ -150,8 +149,7 @@ And both face the same explanatory gap. Predictive processing frameworks describ
 
 ## Further Reading
 
-- [perception-and-conscious-experience](/topics/perception-and-conscious-experience/) — Broader treatment of perception and consciousness
-- [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/) — Systematic perceptual philosophy from the Map's perspective
+- [dualist-perception](/topics/dualist-perception/) — Perception as the paradigm case for dualism
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — How attention mediates consciousness and neural processing
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — The broader problem of phenomenal unity
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Temporal integration in experience

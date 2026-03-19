@@ -31,9 +31,8 @@ related_articles:
 - '[[epiphenomenalism]]'
 title: Selective Perceptual Correction
 topics:
-- '[[perception-and-conscious-experience]]'
+- '[[dualist-perception]]'
 - '[[predictive-processing-and-the-maps-framework]]'
-- '[[philosophy-of-perception-under-dualism]]'
 ---
 
 Selective perceptual correction is the brain's asymmetric processing of sensory signals: it silently repairs some perceptual errors before consciousness encounters them while faithfully delivering others—degraded, illusory, or false—without intervention. The brain fills the blind spot, suppresses visual smear during eye movements, and maintains colour constancy, all without conscious awareness. Yet it transmits optical blur, tinnitus, visual floaters, and persistent illusions to consciousness unchanged, even when the conscious mind knows the signal is wrong. This selectivity is not random. It follows identifiable computational principles that reveal the structure of the mind-body interface.
@@ -87,9 +86,9 @@ The Map speculates that the boundary between corrected and uncorrected signals m
 ## Further Reading
 
 - [reconstruction-paradox](/voids/reconstruction-paradox/) — the philosophical paradox this mechanism creates
-- [perception-and-conscious-experience](/topics/perception-and-conscious-experience/)
+- [dualist-perception](/topics/dualist-perception/)
 - [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/)
-- [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/)
+- [dualist-perception](/topics/dualist-perception/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [filter-theory](/concepts/filter-theory/)
 - [cognitive-closure](/concepts/cognitive-closure/)

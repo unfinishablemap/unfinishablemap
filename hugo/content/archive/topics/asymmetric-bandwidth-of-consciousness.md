@@ -130,7 +130,7 @@ The Map offers an alternative explanation. If the ~10 bits per second ceiling re
 
 - [neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/) — The empirical bandwidth data and the interface model in detail
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — Whether 10 bits/second suffices for complex behaviour
-- [perception-and-conscious-experience](/topics/perception-and-conscious-experience/) — Perceptual richness and what it reveals about consciousness
+- [perception-and-conscious-experience](/topics/dualist-perception/) — Perceptual richness and what it reveals about consciousness
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the mechanism of conscious selection
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — How consciousness selects among quantum possibilities
 - [free-will](/topics/free-will/) — Selection among alternatives and the implications for agency

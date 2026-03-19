@@ -3833,7 +3833,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-16 04:40 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Philosophy of Perception Under Dualism
-- **Output**: [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/)
+- **Output**: [philosophy-of-perception-under-dualism](/topics/dualist-perception/)
 - **Word count**: 1702
 - **Based on research**: no
 

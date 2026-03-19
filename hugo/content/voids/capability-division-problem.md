@@ -21,7 +21,7 @@ last_curated: null
 last_deep_review: 2026-03-15 16:49:00+00:00
 modified: *id001
 related_articles:
-- '[[perception-and-conscious-experience]]'
+- '[[dualist-perception]]'
 - '[[smoothness-problem]]'
 - '[[memory-as-dual-domain-capability]]'
 - '[[dream-consciousness]]'
@@ -32,7 +32,7 @@ related_articles:
 title: The Capability Division Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[philosophy-of-perception-under-dualism]]'
+- '[[dualist-perception]]'
 ---
 
 If dualism is true — if the mind is genuinely distinct from the brain — then a question follows that dualists rarely answer precisely: which capabilities belong to which domain? The brain extracts visual features, detects motion, guides reaching movements. The mind contributes phenomenal experience, perceptual ownership, flexible reasoning about what is seen. But where exactly does brain-side processing end and mind-side contribution begin? The Unfinishable Map calls this the **capability division problem**, and it may represent not merely an unsolved question but a genuine [void](/voids/) — a boundary that resists precise specification.
@@ -103,14 +103,14 @@ The Map speculates that the capability division may ultimately prove asymmetric:
 - [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) — Memory as requiring both brain-side and mind-side contributions
 - [dream-consciousness](/topics/dream-consciousness/) — How the division shifts across waking and dreaming
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — The interface's operational grammar
-- [perception-and-conscious-experience](/topics/perception-and-conscious-experience/) — Vision as the paradigm case
+- [dualist-perception](/topics/dualist-perception/) — Vision as the paradigm case
 - [blindsight](/concepts/blindsight/)
 - [visual-consciousness](/concepts/visual-consciousness/)
 - [baseline-cognition](/concepts/baseline-cognition/)
 - [interactionist-dualism](/concepts/interactionist-dualism/)
 - [epiphenomenalism](/concepts/epiphenomenalism/)
 - [capability-division-in-vision](/concepts/capability-division-in-vision/) — The vision-specific case study applying this framework
-- [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/)
+- [dualist-perception](/topics/dualist-perception/)
 - [binding-void](/voids/binding-void/) — The perceptual binding problem as a void
 - [causal-interface](/voids/causal-interface/) — The mind-brain interface itself
 - [interface-formalization-void](/voids/interface-formalization-void/) — Why formalising the interface may be impossible

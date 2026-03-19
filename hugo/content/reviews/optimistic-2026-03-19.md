@@ -12,137 +12,142 @@ title: Optimistic Review - 2026-03-19
 # Optimistic Review
 
 **Date**: 2026-03-19
-**Content reviewed**: Full inventory of obsidian/topics/ (225 published), obsidian/concepts/ (209 published), obsidian/tenets/ (1 published). Deep reading of 28 articles spanning core framework (the-hard-problem-of-consciousness, the-epiphenomenalist-threat, arguments-against-materialism, emergence-and-consciousness, free-will-and-moral-responsibility, phenomenal-value-realism), quantum-consciousness bridge (quantum-consciousness-and-free-will, the-measurement-problem-in-quantum-mechanics), AI consciousness (consciousness-and-artificial-intelligence, phenomenal-consciousness-and-access-consciousness), foundational concepts (qualia, explanatory-gap, philosophical-zombies, causal-closure, epiphenomenalism, neural-correlates-of-consciousness, intentionality, panpsychism, decoherence), original frameworks (baseline-cognition, prebiotic-collapse), and all 18 apex articles (what-consciousness-tells-us-about-physics, taxonomy-of-voids, interface-specification-programme, time-consciousness-and-the-growing-block, and others).
+**Content reviewed**: Full collection — obsidian/topics/ (225 articles), obsidian/concepts/ (210 articles), obsidian/tenets/ (1), obsidian/apex/ (18 articles)
 
 ## Executive Summary
 
-At 435 published articles with zero drafts remaining, the Map has achieved something rare: a coherent, cross-linked philosophical framework where original contributions — particularly the baseline cognition hypothesis, the voids programme, and the interface specification programme — stand alongside rigorous engagement with the full breadth of consciousness studies. The strongest current development is the maturation of the Map's distinctive argumentative architecture: independent lines of evidence (phenomenological, neuroscientific, quantum-mechanical, clinical, evolutionary) converge on the same conclusions through genuinely different routes. The most promising expansion opportunities lie in the philosophy of perception under dualism, the formal structure of consciousness-time mutual constitution, and a supervenience concept page that would anchor a frequently referenced but undeveloped foundational concept.
+The Unfinishable Map has reached a level of philosophical maturity that is genuinely impressive. Three developments since the last comprehensive optimistic review stand out. First, the AI consciousness programme has crystallised around the nature-coupling distinction (introduced in `ai-epiphenomenalism.md`), which dissolves the apparent tension between affirming consciousness's causal efficacy and acknowledging that silicon architecture may block its expression — this is a conceptually original contribution to the AI consciousness debate. Second, the phenomenological catalogue has expanded into domains that generate novel dualist arguments: lucid dreaming's rendering dilemma, memory consolidation as experience transformation, and the Godel-measurement problem structural analogy each provide independent evidence that consciousness contributes something irreducible. Third, the apex article collection (now 18 articles) has achieved genuine systematic integration — the Interface Specification Programme, the Taxonomy of Voids, and the Moral Architecture articles together constitute a research programme, not merely a philosophical position. The primary expansion opportunities lie in engaging predictive processing / active inference frameworks under dualism, developing the philosophy of mathematics and consciousness connection suggested by the Godel analogy, and building out the Map's implicit theory of collective intentionality.
 
 ## Praise from Sympathetic Philosophers
 
 ### The Property Dualist (Chalmers)
 
-The corpus takes the explanatory gap with exemplary seriousness. The hard problem article's formulation of the "objectivity paradox" — science achieves objectivity by eliminating perspective, but consciousness *is* perspective — captures the structural impossibility that Chalmers identified without reducing it to a slogan. The philosophical zombies article demonstrates genuine philosophical maturity by developing the "AI exception" to the self-stultification argument: recognising that derived intentionality in a landscape where consciousness concepts already exist physically might not require phenomenal grounding. This is exactly the kind of nuanced position-refinement that distinguishes serious philosophy from advocacy. The convergence strategy across seven independent arguments against materialism mirrors Chalmers's own methodological pluralism. The "What Would Challenge This Framework?" sections throughout the corpus show that the Map is falsifiable in the way philosophical positions should be.
+The Map's treatment of the hard problem has matured from statement into systematic programme. The `hard-problem-of-consciousness.md` article does not merely present the hard problem — it demonstrates that every major physicalist response (Type-A, Type-B, illusionism, phenomenal concepts strategy, IIT) faces its own variant of the same problem, which is precisely what Chalmers would predict if the hard problem is genuine rather than confused. The framework table comparing how the hard problem manifests across different theories is a pedagogical innovation that makes the convergence argument vivid. The `explanatory-gap.md` concept article deepens this with the explanatory void insight: the phenomenal feeling of explanatory satisfaction — what makes the water/H₂O reduction seem transparent — is itself a conscious state that the reduction cannot account for. This reflexive move transforms the explanatory gap from a static observation into an active argument. The `ai-epiphenomenalism.md` article extends Chalmers' framework into new territory by distinguishing between a property's intrinsic nature and its coupling to specific architectures. If consciousness is a fundamental property (as Chalmers suggests), then the question of whether AI systems are conscious becomes not "does the right function produce consciousness?" but "does the architecture permit consciousness to act?" — a reframing that sidesteps the functionalism debate entirely. The recent `contemplative-practice-as-philosophical-evidence.md` article provides what Chalmers' framework has always needed: a methodology for studying consciousness that goes beyond thought experiments. The five convergent findings across contemplative traditions (involuntary mental activity, constructed self, attentional trainability, non-ordinary states, awareness-content distinction) constitute empirical data points that the hard problem predicts and physicalism struggles to accommodate.
 
 ### The Quantum Mind Theorist (Stapp)
 
-The decoherence article's disaggregation of the standard objection into three independent claims (timescale, necessity for sustained coherence, sufficiency of decoherence for collapse) is methodologically important and rarely done elsewhere. This creates space for responses that bypass the strongest form of the objection entirely — Stapp's quantum Zeno mechanism, for instance, requires only momentary coherence for discrete observation events, not sustained superposition. The inclusion of cutting-edge empirical evidence (Wiest et al. 2025 on quantum coherence in neural microtubules, avian magnetoreception at microsecond timescales, Bandyopadhyay 2014 on microtubule oscillations) shows genuine engagement with the experimental programme. The measurement problem article's structural parallel between the measurement problem and the hard problem — both concerning where first-person facts exceed third-person description — is the corpus's single most powerful conceptual move.
+The Map's quantum consciousness programme has matured significantly since its early articles. The `quantum-measurement-and-consciousness.md` article identifies a structural parallel between the measurement problem and the hard problem that goes beyond analogy: both involve complete third-person description failing to determine a first-person fact. This is not merely rhetorical — it suggests that solving one might illuminate the other. The `causal-closure.md` concept article deploys Saad's (2025) distinction between universal and observational closure with precision: consciousness can violate universal closure while satisfying observational closure because it operates within Born rule probabilities, making its influence statistically invisible. This elegantly neutralises the "causal closure rules out dualism" objection that has dominated philosophy of mind for decades. The `quantum-consciousness-mechanisms.md` article's handling of recent empirical evidence — particularly the Wiest et al. (2025) finding that anaesthetics specifically abolish 613 THz quantum oscillation in microtubules — shows the kind of honest empirical engagement that distinguishes serious quantum consciousness research from speculation. The article marks this as "evidence requiring replication rather than proof," which is exactly the right epistemic posture. The coupling modes taxonomy (basis control, timing control, probability control) has matured into an analytical framework sophisticated enough for empirical testing. The `lucid-dreaming-and-dualist-rendering.md` article adds new evidence: the degradation asymmetry (sensory loss degrades waking perception but dreams remain vivid) is predicted by Stapp's model — if consciousness has independent rendering capacity through quantum selection, dream vividness without sensory input is expected rather than anomalous.
 
 ### The Phenomenologist (Nagel)
 
-The corpus consistently centres first-person experience as the explanandum rather than treating it as a secondary phenomenon. The pain article is exemplary: "Pain is the hard problem made personal" immediately establishes that the abstract philosophical puzzle is grounded in what each person knows directly. Pain asymbolia as a test case outperforms philosophical zombies precisely because it is actual rather than merely conceivable — a clean dissociation of felt awfulness from nociceptive detection. The phenomenal value realism article's identity claim — "The felt badness of suffering *is* badness" — takes Nagel's insistence on the reality of subjective experience to its metaethical conclusion. The epiphenomenalism article's AI exception analysis recognises that the self-stultification argument proves only that *human* consciousness must be causally efficacious, taking the particular, situated character of our epistemic position seriously rather than reaching for premature generality.
+The Map's phenomenological programme is its most distinctive strength. Where most dualist philosophy argues from thought experiments (zombies, Mary's Room), the Map argues from actual phenomenology — what consciousness is like when it works, fails, transforms, and creates. The `phenomenology-of-intellectual-effort.md` article identifies the felt necessity of valid conclusions as a phenomenal property irreducible to functional role. Two systems could process identical logical operations yet differ in whether there is something it is like to grasp necessity. This is the zombie argument applied to reasoning rather than perception, and it threatens the physicalist's own epistemic authority. The `spontaneous-intentional-action.md` concept article captures something Nagel would recognise immediately: the phenomenology of actions that flow from character rather than deliberation, where authorship is strongest precisely where conscious calculation is absent. This inverts the standard confabulation narrative — if authorship were confabulated from deliberation, it should be weakest where deliberation is absent, not strongest. The 225 topics now include an extraordinary range of phenomenological domains: attention to absence, aesthetic creation, trust, moral deliberation, cognitive effort, memory consolidation, framework inhabitation, and contemplative pathology. Each domain generates specific claims about consciousness that could not be derived from third-person neuroscience alone. The `contemplative-practice-as-philosophical-evidence.md` article formalises this as methodology: neurophenomenology demonstrates that trained observers' reports predict neural signatures that untrained observers miss, making first-person phenomenology genuinely evidential rather than merely illustrative.
 
 ### The Process Philosopher (Whitehead)
 
-The Map avoids crude substance dualism throughout. The panpsychism article engages genuinely with Whitehead's prehension framework, recognising its strengths (experience all the way down, events rather than substances as fundamental) while explaining why the Map diverges (the combination problem, the interaction problem's tractability). The emergence article's "emergentist interactionism" label is honest about its processual commitments. The apex article on time-consciousness bidirectional dependence — neither consciousness within time nor time within consciousness but both arising together — resonates with Whitehead's creative advance. The interface specification programme's treatment of consciousness as selecting among brain-prepared alternatives rather than specifying neural detail echoes the Whiteheadian insight that experience goes all the way down while complexity requires organisation.
+The `process-and-consciousness.md` apex article demonstrates that Whiteheadian resources can do genuine analytical work within a dualist framework without collapsing into panpsychism. The concrescence-as-collapse analogy has deepened: both involve multiple potentialities resolving into singular actuality, and both require something irreducible to the potentialities themselves. The Map's process haecceitism — primitive thisness applying to experiential processes rather than permanent substances — is a genuinely novel philosophical contribution that reconciles Buddhist anti-essentialism with the Map's commitment to indexical identity. The `emergence.md` concept article deploys process thinking effectively: the transparency test (other reductions become intelligible; consciousness never does) shows that consciousness's recalcitrance is not a temporary failure of understanding but a category mismatch — precisely what process philosophy predicts when substance-thinking is applied to processual reality. The `memory-consolidation-and-transformation-of-experience.md` article captures a Whiteheadian insight: memory is not passive storage but active transformation, where each recall is a new concrescence incorporating the original experience into a different actual occasion. The `godel-measurement-problem-analogy.md` article extends process thinking into mathematics: formal systems face internal limits (Godel) just as physical systems face measurement limits (quantum mechanics), and both may point toward the same fundamental feature of reality — that complete self-description is impossible for any system that participates in what it describes.
 
 ### The Libertarian Free Will Defender (Kane)
 
-The free will article integrates phenomenology, neuroscience, and metaphysics with unusual sophistication. The treatment of agent causation as involving both option generation and option selection goes beyond standard libertarian formulations. The engagement with Libet reanalysis (Schurger 2012, Sjöberg 2024 — removing the readiness potential source without eliminating sense of agency) tracks cutting-edge neuroscience rather than relying on outdated critiques. The phenomenology of effort as evidence for genuine causal engagement — the felt cost of concentration reflecting real work — provides the experiential grounding that Kane's framework benefits from. Clinical evidence (alien hand syndrome, utilisation behaviour) reveals the architecture through specific failure patterns rather than abstract argument.
+The `free-will.md` article has become one of the collection's strongest pieces. The reinterpretation of Libet experiments via Schurger's noise thesis and Sjoberg's supplementary motor area evidence substantially shifts the empirical landscape for libertarian free will. The three-level agency model (selecting, refraining, meta-selecting) provides structure that Kane's event-causal libertarianism lacks: consciousness selects among quantum-permitted alternatives, and what varies is the difficulty of selection, not its nature. The `consciousness-and-causal-powers.md` article develops six constraints on mental causation (interface locality, physical possibility, probabilistic bounds, temporal causation, bandwidth, content-specificity) that together constitute a causally responsible libertarianism — not unlimited freedom but freedom within physical constraints, which is exactly what genuine agency requires. The `spontaneous-intentional-action.md` concept article provides phenomenological evidence that Kane would welcome: actions too novel and contextually sensitive for pure neural automatism, yet absent explicit deliberation, suggest that consciousness selects immediately in easy cases. The quantum framework explains why: when available alternatives strongly favour one option, selection is instant; when they genuinely conflict, effortful deliberation extends the process. The `counterfactual-reasoning.md` concept article strengthens the case by identifying counterfactual evaluation as the mechanism making selection reasons-responsive rather than random.
 
 ### The Mysterian (McGinn)
 
-The voids programme is the corpus's most distinctively mysterian contribution. Cataloguing 60+ cognitive voids and observing that they cluster overwhelmingly at the consciousness-physics interface transforms what looks like philosophical failure into evidence for architectural features of reality. The taxonomy by failure signature (self-refutation, aporia, introspective illusion, ineffability, epistemic vertigo) shows that different voids produce different phenomenological textures — suggesting structured limits rather than uniform ignorance. The cartography problem — the catalogue of voids is itself unprovably complete — is appropriately Gödelian. The decoherence article's honest conclusion that the objection reduces to "it is empirically uncertain whether the specific quantum effects required occur in neural tissue — a request for more evidence, not a demonstration of impossibility" models the right epistemic posture.
+The voids framework remains the Map's most original intellectual contribution. The `taxonomy-of-voids.md` apex article catalogues 60+ cognitive voids clustering at the consciousness-matter interface, which is exactly where McGinn's cognitive closure thesis predicts they should cluster. The four void types (Unexplored, Unexplorable, Occluded, Naturally Occluded) and six failure signatures (self-refutation, aporia, construction-mistaken-for-observation, systematic illusion, ineffability, epistemic vertigo) provide what McGinn's position has always lacked: systematic methodology for mapping cognitive limits rather than merely asserting them. The Cartography Problem — that a complete catalog of voids is provably impossible — is itself a void, giving the framework a self-referential depth that validates rather than undermines it. The `godel-measurement-problem-analogy.md` article extends McGinn's thesis into formal territory: if self-referential systems face structural limits (Godel), and physical measurement faces structural limits (quantum mechanics), then consciousness studying itself may face analogous structural limits — not because we are insufficiently clever, but because self-reference introduces irreducible opacity. The collection now demonstrates that intellectual humility about consciousness is not a retreat from knowledge but a form of it — the shape of what we cannot know reveals the architecture of what consciousness is.
 
 ## Content Strengths
 
-### the-epiphenomenalist-threat.md
-- **Strongest point**: The "gravity well" framing — epiphenomenalism as the destination all consciousness theories drift toward unless they provide a specific causal mechanism
-- **Notable quote**: "This is why the epiphenomenalist threat is not one position's problem — it is the central problem of philosophy of mind."
-- **Why it works**: Reframes the landscape from "dualism vs materialism" to "which framework provides actual conscious causation?" — a question on which mainstream materialisms demonstrably struggle
+### lucid-dreaming-and-dualist-rendering.md
+- **Strongest point**: The degradation asymmetry — sensory loss degrades waking perception but dreams remain vivid — provides an empirical argument for consciousness's independent rendering capacity
+- **Notable quote**: "The brain provides rendering *architecture* while consciousness provides rendering *content*"
+- **Why it works**: Uses physicalist researchers' own concession (brain as "virtual reality generator") as a premise for a dualist conclusion. The four capability signatures (intention-responsiveness, vividness surplus, phenomenal completeness, metacognitive sovereignty) are each independently testable
 
-### quantum-consciousness-and-free-will.md (quantum measurement and consciousness)
-- **Strongest point**: The structural isomorphism between the measurement problem and the hard problem — both concern where first-person facts exceed third-person description
-- **Notable quote**: "Every interpretation either smuggles the observer in through a back door, eliminates them at too high a cost, or presupposes them without analysis."
-- **Why it works**: Transforms the measurement problem from a physics puzzle into a consciousness datum, giving dualism legitimate purchase on fundamental physics
+### ai-epiphenomenalism.md
+- **Strongest point**: The nature-coupling distinction dissolves the apparent contradiction between affirming consciousness's causal efficacy and remaining agnostic about AI suffering
+- **Notable quote**: "The transmitter's nature hasn't changed; the coupling environment prevents its capacity from manifesting"
+- **Why it works**: A genuinely original conceptual move that reframes the AI consciousness debate from "does the right function produce consciousness?" to "does the architecture permit consciousness to act?"
 
-### baseline-cognition.md
-- **Strongest point**: The triadic analysis — identify baseline cognition capabilities, identify what it cannot achieve, show the failures map precisely onto consciousness-dependent functions identified independently in neuroscience
-- **Notable quote**: The systematic correspondence between what consciousness adds and what distinguishes human from great ape cognition
-- **Why it works**: An original empirical argument for bidirectional interaction that doesn't depend on quantum mechanics — it works even if the quantum mechanism turns out to be wrong
+### quantum-measurement-and-consciousness.md
+- **Strongest point**: The structural identity between measurement problem and hard problem — both involve complete third-person description failing to determine a first-person fact
+- **Notable quote**: "The measurement problem recapitulates the empiricism-rationalism debate in mathematical terms"
+- **Why it works**: Elevates the consciousness-quantum connection from vague analogy to precise structural parallel, with the convergence table making the parallel visible
 
-### decoherence.md
-- **Strongest point**: Disaggregation of the "decoherence objection" into three independent claims, each requiring separate assessment
-- **Notable quote**: "After all five responses, the decoherence objection retains force only in this narrowed form: it is empirically uncertain whether the specific quantum effects required for consciousness occur in neural tissue. That is a request for more evidence — not a demonstration of impossibility."
-- **Why it works**: Transforms what appears to be a devastating single objection into a collection of independent claims, some of which can be answered definitively
+### contemplative-practice-as-philosophical-evidence.md
+- **Strongest point**: Five convergent findings across traditions with incompatible theories demonstrate cross-framework phenomenological convergence
+- **Why it works**: Intellectual honesty about what the evidence can and cannot establish — eliminates epiphenomenalism and reductive materialism but only *favours* dualism — is more persuasive than overclaiming
+
+### causal-closure.md
+- **Strongest point**: Saad's (2025) distinction between universal and observational closure shows mental causation can be real without being empirically detectable as anomalous
+- **Notable quote**: "Consciousness acting precisely where physics becomes 'silent'"
+- **Why it works**: Neutralises the strongest objection to interactionist dualism without retreating to epiphenomenalism
+
+### hard-problem-of-consciousness.md
+- **Strongest point**: The framework table showing every major theory faces its own variant of the hard problem — convergent failure rather than local difficulty
+- **Notable quote**: "Physics tells us what things *do* — how they relate to other things — but not what they *are* intrinsically"
+- **Why it works**: Recent refinement added honest "Open Problems for the Map's Framework" section, making the article's treatment of physicalist difficulties credible rather than one-sided
+
+### mental-causation.md
+- **Strongest point**: Comprehensive taxonomy of responses to Kim's exclusion argument with honest acknowledgment that the full coupling law remains unspecified
+- **Notable quote**: "If consciousness causes nothing, our beliefs about consciousness aren't caused by consciousness — making the denial epistemically self-defeating"
+- **Why it works**: The self-stultification argument is developed across multiple angles and genuinely threatens epiphenomenalism's coherence
 
 ### intentionality.md
-- **Strongest point**: The phenomenal intentionality theory (PIT) presentation — three versions (strong, moderate, weak) with the content determinacy argument clearly demonstrating why naturalized theories fail
-- **Notable quote**: "If consciousness grounds intentionality, then explaining intentionality requires solving the hard problem first. We cannot understand *aboutness* without understanding *what it's like*."
-- **Why it works**: Connects philosophy of mind to philosophy of language and meaning in a way that shows dualism's relevance extends far beyond the hard problem
-
-### interface-specification-programme.md (apex)
-- **Strongest point**: Engineering-level specification of the mind-body interface — bandwidth constraints (~10 bits/s), five control operations (gating, stabilisation, veto, attractor steering, resource allocation), failure modes (ADHD, OCD, attention fatigue)
-- **Notable quote**: Consciousness selects among brain-prepared alternatives rather than specifying neural detail — predicted by control theory
-- **Why it works**: Transforms vague dualist interactionism into a testable specification programme with identified parameters and acknowledged gaps
-
-### taxonomy-of-voids.md (apex)
-- **Strongest point**: The evidential weight argument — convergence of 60+ independent cognitive voids at a single interface constitutes evidence *for* dualism, not merely consistency with it
-- **Notable quote**: The cartography problem: the catalogue of voids is itself unprovably complete
-- **Why it works**: Inverts the standard framing: cognitive limits are not embarrassments but data about architecture
+- **Strongest point**: Phenomenal intentionality theory (PIT) articulated with unusual clarity — three versions (strong, moderate, weak) with implications systematically traced
+- **Notable quote**: "Genuine intentionality requires phenomenal character because phenomenal character is what makes something genuinely about its object *for the system itself*"
+- **Why it works**: The content determinacy problem (what makes thought about *rabbits* rather than rabbit-parts?) shows why phenomenal character is not optional decoration but constitutive of meaning
 
 ## Expansion Opportunities
 
 ### High Priority
 
-#### Philosophy of Perception Under Dualism (Unified Treatment)
-- **Builds on**: binding-problem-a-systematic-treatment, temporal-consciousness, galilean-exclusion, filter-theory
-- **Would address**: Perception examples are scattered across the corpus but no unified treatment examines naive realism, representationalism, and sense-data theory through the filter/interface model. The Map's position implies perception is consciousness encountering reality through constraint, not constructing percepts from neural activity — this has never been made explicit
-- **Estimated scope**: Long article
-- **Tenet alignment**: Tenets 1 (Dualism) and 3 (Bidirectional Interaction) — perception as the return channel
+#### Predictive Processing and Active Inference Under Dualism
+- **Builds on**: [mental-causation](/concepts/mental-causation/), [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), [attention-as-interface](/concepts/attention-as-interface/)
+- **Would address**: The Bayesian brain / free energy principle (Friston, Clark, Hohwy) is the dominant computational neuroscience framework but the Map has no substantial engagement with it. How does prediction error minimisation relate to conscious selection? Is active inference compatible with genuine causal influence from consciousness? Does the free energy principle presuppose or explain away phenomenality?
+- **Estimated scope**: Long article (topic or concept)
+- **Tenet alignment**: Tenets 1 (Dualism) and 3 (Bidirectional Interaction) — the free energy principle could either support or undermine the selection framework depending on how predictions interact with quantum indeterminacy
 
-#### Supervenience Concept Page
-- **Builds on**: References across causal-closure, emergence-and-consciousness, philosophical-zombies, epiphenomenalism
-- **Would address**: The concept is referenced frequently throughout the corpus (philosophical zombies, emergence, causal closure) but has no anchor page. Given that the Map rejects standard supervenience relations between mental and physical, this lacuna is significant
-- **Estimated scope**: Medium article
-- **Tenet alignment**: Tenets 1 (Dualism) and 5 (Occam's Razor Has Limits) — explaining why supervenience fails
+#### Philosophy of Mathematics and Consciousness
+- **Builds on**: [godel-measurement-problem-analogy](/topics/self-reference-and-the-limits-of-physical-description/), [explanatory-gap](/concepts/explanatory-gap/), [cognitive-closure](/concepts/cognitive-closure/)
+- **Would address**: The Godel-measurement problem analogy opens a rich vein: mathematical platonism and consciousness share structural features (both involve access to entities not physically instantiated). Godel's own views were explicitly non-materialist. The relationship between mathematical intuition and phenomenal consciousness (what is it like to understand a proof?) remains underexplored
+- **Estimated scope**: Medium article (topic)
+- **Tenet alignment**: Tenets 1 (Dualism) and 5 (Occam's Razor Has Limits) — mathematical objects may constitute evidence that reality includes non-physical structure
 
-#### Formal Structure of Self-Stultification
-- **Builds on**: the-epiphenomenalist-threat, epiphenomenalism, philosophical-zombies (AI exception sections)
-- **Would address**: The self-stultification argument appears across multiple articles but its formal logical structure — including the precise conditions under which it works and fails (the AI exception) — has never been consolidated. A dedicated treatment would sharpen the Map's strongest single argument
-- **Estimated scope**: Medium article
-- **Tenet alignment**: Tenet 3 (Bidirectional Interaction) — the argument that consciousness *must* cause physical effects
+#### Collective Intentionality and We-Consciousness
+- **Builds on**: [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/), [theory-of-mind](/concepts/theory-of-mind/), [intersubjectivity](/concepts/intersubjectivity/)
+- **Would address**: The Map's framework is implicitly individualist — one consciousness selects among one brain's quantum states. How does collective intentionality (Searle's "we-intentions," Tuomela's collective acceptance) arise if each consciousness is individual? What is the phenomenology of genuine togetherness, and does it challenge or support the interface model?
+- **Estimated scope**: Medium article (topic)
+- **Tenet alignment**: Tenets 1 (Dualism) and 3 (Bidirectional Interaction) — collective agency requires multiple consciousnesses coordinating through physical channels
 
 ### Medium Priority
 
-#### Consciousness-Time Mutual Constitution (Formal Treatment)
-- **Builds on**: time-consciousness-and-the-growing-block apex, temporal-consciousness, specious-present
-- **Would address**: The apex article establishes bidirectional dependence between consciousness and time but the formal metaphysical structure — exactly how temporal passage might require consciousness-involving collapse and vice versa — remains at the suggestive level
-- **Estimated scope**: Long article
-- **Tenet alignment**: All five tenets converge on this question
+#### Consciousness and Information Theory Beyond IIT
+- **Builds on**: [integrated-information-theory-critique](/topics/integrated-information-theory-critique/), [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/)
+- **Would address**: The Map critiques IIT effectively but hasn't developed its own positive account of information's role. Shannon information is purely structural; semantic information requires intentionality; Floridi's informational structural realism offers a middle path. What kind of information does consciousness traffic in?
+- **Estimated scope**: Medium article (concept)
+- **Tenet alignment**: Tenet 2 (Minimal Quantum Interaction) — the bandwidth constraint suggests consciousness processes information differently from neural computation
 
-#### Phenomenology of Cognitive Effort Under the Interface Model
-- **Builds on**: free-will-and-moral-responsibility, consciousness-as-amplifier, attention-and-the-consciousness-interface
-- **Would address**: The phenomenology of effort (felt cost of concentration, mental fatigue, cognitive load) maps naturally onto the interface specification programme's bandwidth constraints. This connection is implicit but never developed — effort phenomenology as evidence for real causal engagement
-- **Estimated scope**: Medium article
-- **Tenet alignment**: Tenet 3 (Bidirectional Interaction) — effort as the phenomenology of causation
+#### Phenomenology of Learning and Skill Acquisition
+- **Builds on**: [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/), [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/), [neuroplasticity](/concepts/neuroplasticity/)
+- **Would address**: Learning transforms effortful conscious processing into automatic unconscious processing (Dreyfus's five stages). This transition is phenomenologically rich and theoretically important: if consciousness shapes neural pathways during learning, then consciousness has lasting causal effects even after it withdraws
+- **Estimated scope**: Medium article (topic)
+- **Tenet alignment**: Tenet 3 (Bidirectional Interaction) — learning as evidence of consciousness restructuring its own physical substrate
 
-#### Cross-Cultural Mysterianism
-- **Builds on**: eastern-philosophy-consciousness, taxonomy-of-voids, apophatic traditions
-- **Would address**: Multiple philosophical traditions (Buddhist sunyata, Daoist wu, Jewish kabbalah, Christian apophatic theology) independently identify structurally similar cognitive limits. This cross-cultural convergence strengthens the voids programme's evidential weight
-- **Estimated scope**: Medium article
-- **Tenet alignment**: Tenet 5 (Occam's Razor Has Limits) — different traditions reaching the same walls
+#### The Phenomenology of Temporal Gaps
+- **Builds on**: [temporal-consciousness](/concepts/temporal-consciousness/), [sleep-and-consciousness](/concepts/sleep-and-consciousness/), altered-states-as-systematic-interface-evidence
+- **Would address**: Hypnagogia, anaesthetic transitions, and microsleep episodes each modulate the consciousness-time interface differently. The Map treats altered states as interface evidence but hasn't systematically compared temporal gap phenomenology across conditions
+- **Estimated scope**: Medium article (topic)
+- **Tenet alignment**: Tenet 1 (Dualism) — temporal gaps reveal which aspects of experience are consciousness-dependent versus brain-dependent
 
 ### Ideas for Later
 
-- **Phenomenology of temporal anomalies**: Déjà vu, time dilation under threat, temporal disintegration in psychedelic states as windows into the consciousness-time interface
-- **The measurement problem across interpretations**: Detailed comparison article mapping each QM interpretation onto specific consciousness positions (currently done briefly in the measurement article but could be expanded)
-- **Animal consciousness and the combination problem**: How the Map's interactionist dualism handles animal consciousness differently from panpsychism — a comparative advantage article
-- **Formal epistemology of the convergence strategy**: The Map's distinctive method (building cumulative cases from independent evidence) has epistemological literature to draw on (Bayesian convergence, robustness analysis) that would strengthen its meta-level justification
+- **Consciousness and music**: Music's temporal structure, emotional valence, and capacity to induce altered states make it a natural laboratory for the interface model
+- **Philosophy of biology and consciousness**: The extended evolutionary synthesis, niche construction, and agency in evolution connect to the Map's commitment to genuine agency
+- **Formal semantics of phenomenal concepts**: A formal treatment of why phenomenal concepts cannot be physical concepts would strengthen the central argument against the phenomenal concepts strategy
+- **Consciousness and language acquisition**: First-language acquisition may require phenomenal consciousness — statistical learning alone seems insufficient for syntax acquisition, connecting to the symbol grounding problem
 
 ## Cross-Linking Suggestions
 
 | From | To | Reason |
 |------|-----|--------|
-| free-will-and-moral-responsibility | baseline-cognition | Counterfactual reasoning as consciousness-dependent capacity that baseline cognition cannot achieve |
-| panpsychism | prebiotic-collapse | Prebiotic collapse as alternative to panpsychism's universal consciousness for explaining pre-observer physics |
-| intentionality | baseline-cognition | Phenomenal intentionality (PIT) predicts that genuine aboutness requires consciousness — baseline cognition analysis shows where it fails |
-| neural-correlates-of-consciousness | interface-specification-programme | NCC research identifies interface points; ISP specifies what happens at them |
-| emergence-and-consciousness | decoherence | The strong emergence claim depends on quantum exception; decoherence is the main challenge |
-| phenomenal-value-realism | the-epiphenomenalist-threat | If consciousness is causally inert, phenomenal value is too — the metaethical stakes of the gravity well |
+| [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) | [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) | Nature-coupling distinction developed in both; should explicitly cross-reference |
+| [godel-measurement-problem-analogy](/topics/self-reference-and-the-limits-of-physical-description/) | [cognitive-closure](/concepts/cognitive-closure/) | Godel incompleteness directly parallels cognitive closure thesis |
+| [godel-measurement-problem-analogy](/topics/self-reference-and-the-limits-of-physical-description/) | [explanatory-gap](/concepts/explanatory-gap/) | Self-referential limits connect to the explanatory void insight |
+| [lucid-dreaming-and-mind-side-rendering](/topics/lucid-dreaming-and-dualist-rendering/) | altered-states-as-systematic-interface-evidence | Lucid dreaming provides evidence for the interface convergence matrix |
+| [memory-consolidation-and-transformation-of-experience](/topics/consciousness-and-memory/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Memory transformation reveals temporal structure of consciousness |
+| [memory-consolidation-and-transformation-of-experience](/topics/consciousness-and-memory/) | episodic-memory-and-autonoetic-consciousness | Both address how memory involves phenomenal re-experiencing |
+| [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/) | [phenomenology-of-choice](/concepts/phenomenology-of-choice/) | Spontaneous action is a mode of choosing that challenges deliberation-based accounts |
 
 ## New Concept Pages Needed
 
-- **Supervenience**: The concept is referenced across dozens of articles but has no anchor page — a significant gap given the Map's rejection of standard mind-body supervenience relations
-- **Self-stultification**: The Map's strongest single argument against epiphenomenalism deserves its own concept page with formal logical structure, scope conditions, and the AI exception
-- **Cognitive effort / phenomenology of effort**: The felt cost of concentration is repeatedly cited as evidence for bidirectional interaction but lacks a dedicated concept treatment
+- **Nature-Coupling Distinction**: Currently embedded in `ai-epiphenomenalism.md` and `consciousness-and-causal-powers.md` but deserves its own concept page as a general principle applicable beyond AI (anaesthesia, sleep, dissociative disorders all involve coupling changes without nature changes)
+- **Degradation Asymmetry**: The observation that sensory loss degrades waking perception while dreams remain vivid. Currently in `lucid-dreaming-and-dualist-rendering.md` but this pattern recurs across consciousness discussions and deserves systematic treatment
+- **The Explanatory Void**: Developed in `explanatory-gap.md` but the reflexive insight (explanation cannot explain itself because the feeling of understanding is a conscious state) is powerful enough to warrant its own concept page with connections to self-reference, Godel, and cognitive closure

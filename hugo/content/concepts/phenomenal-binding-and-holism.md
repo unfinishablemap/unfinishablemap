@@ -150,7 +150,7 @@ Phenomenal binding illuminates why the Map's [tenets](/tenets/) take the positio
 - [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Extended structural argument, decoherence debate, and experimental evidence for quantum binding
 - [quantum-coherence-and-binding-evidence](/concepts/quantum-neural-mechanisms-and-coherence/) — Experimental support for quantum binding mechanisms
 - [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — Cross-modal binding as the hardest case: temporal recalibration, inverse effectiveness, and the phenomenology of place
-- [perception-and-conscious-experience](/topics/perception-and-conscious-experience/) — Perceptual experience as the paradigm case of binding, including cross-modal unity
+- [dualist-perception](/topics/dualist-perception/) — Perceptual experience as the paradigm case of binding, including cross-modal unity
 - [filter-theory](/concepts/filter-theory/) — If the brain transmits rather than generates consciousness, unity is intrinsic to what is transmitted
 - [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/) — Aesthetic creation as a demanding case of phenomenal binding across temporal development
 - [binding-problem](/concepts/binding-problem/) — The neural challenge and historical formulation

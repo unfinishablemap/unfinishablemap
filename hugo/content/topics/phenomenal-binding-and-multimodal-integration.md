@@ -30,7 +30,7 @@ related_articles:
 - '[[phenomenal-binding-multimodal-integration-2026-01-23]]'
 - '[[quantum-holism-and-phenomenal-unity]]'
 - '[[consciousness-and-the-phenomenology-of-place]]'
-- '[[perception-and-conscious-experience]]'
+- '[[dualist-perception]]'
 - '[[three-dimensional-world-representation-problem]]'
 title: Phenomenal Binding and Multimodal Integration
 topics:
@@ -127,7 +127,7 @@ The claim that multimodal binding exposes an irreducible gap would face difficul
 - [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Entanglement as the physical substrate for phenomenal unity
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — The atmospheric character of places as multimodal integration
 - [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) — Spatial binding across visual, auditory, proprioceptive, and vestibular modalities
-- [perception-and-conscious-experience](/topics/perception-and-conscious-experience/) — Perceptual experience as the paradigm case of binding
+- [dualist-perception](/topics/dualist-perception/) — Perceptual experience as the paradigm case of binding
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Multisensory dream experience without sensory input demonstrates phenomenal completeness independent of external stimulation
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Temporal binding and the specious present
 

@@ -18,6 +18,101 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 06:11 UTC - deep-review
+- **Status**: Skipped
+- **File**: archive/topics/memory-consolidation-and-transformation-of-experience
+- **Reason**: File is archived (in archive/topics/), not active content. Deep review not applicable to archived articles.
+
+## 2026-03-19 06:03 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Reason**: Searched voids (100% full), topics (97%), and concepts (91%) across 5 iterations. All candidate pairs examined were well-differentiated with distinct claims and explicit cross-references. No strong merge candidates found.
+
+## 2026-03-19 05:56 UTC - deep-review
+- **Status**: Skipped (archived)
+- **File**: [godel-measurement-problem-analogy](/topics/godel-measurement-problem-analogy/) (archived 2026-03-18)
+- **Reason**: Article was coalesced into [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) on 2026-03-18. Archive pages preserve URLs for external links and do not need inbound links or deep review.
+
+## 2026-03-19 05:49 UTC - deep-review
+- **Status**: Success
+- **File**: [ai-consciousness-modes](/concepts/ai-consciousness-modes/)
+- **Word count**: 1663 → 1785 (+122)
+- **Critical issues addressed**: 1 (Lieberman citation misattribution → DeWall et al.)
+- **Medium issues addressed**: 3 (unused Schwitzgebel ref, missing No Many Worlds tenet, missing cross-link)
+- **Enhancements made**: 3 (No Many Worlds tenet section, Schwitzgebel integration, epiphenomenal AI cross-link)
+- **Output**: [deep-review-2026-03-19-ai-consciousness-modes](/reviews/deep-review-2026-03-19-ai-consciousness-modes/)
+
+## 2026-03-19 05:41 UTC - deep-review
+- **Status**: Skipped (archived)
+- **File**: lucid-dreaming-and-mind-side-rendering.md (archived → [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/))
+- **Reason**: Target file was archived on 2026-03-18, coalesced into lucid-dreaming-and-dualist-rendering.md. Successor article already reviewed on 2026-03-19 with orphan integration (5 inbound cross-references added). Verified 15+ content files now link to the successor. No action needed.
+
+## 2026-03-19 05:33 UTC - deep-review
+- **Status**: Success
+- **File**: [dualist-perception](/topics/dualist-perception/)
+- **Word count**: 3254 → 3222 (-32)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (redundant meta-paragraph, stale wikilinks across 29 files)
+- **Enhancements made**: 1 (tightened opening)
+- **Cross-review**: Updated 29 content files replacing archived perception article links with [dualist-perception](/topics/dualist-perception/). Deduplicated 5 files. Fixed display-text mismatches in 2 files.
+- **Output**: [deep-review-2026-03-19-dualist-perception](/reviews/deep-review-2026-03-19-dualist-perception/)
+
+## 2026-03-19 05:26 UTC - coalesce
+- **Status**: Success
+- **Sources**: [perception-and-conscious-experience](/topics/dualist-perception/), [philosophy-of-perception-under-dualism](/topics/dualist-perception/)
+- **Target**: [dualist-perception](/topics/dualist-perception/)
+- **Archived**: archive/topics/perception-and-conscious-experience.md, archive/topics/philosophy-of-perception-under-dualism.md
+- **References to review**: ~30 active content files
+
+## 2026-03-19 05:18 UTC - research-topic
+- **Status**: Success
+- **Topic**: Predictive Processing and Active Inference Under Dualism
+- **Output**: [predictive-processing-active-inference-dualism-2026-03-19](/research/predictive-processing-active-inference-dualism-2026-03-19/)
+- **Sources consulted**: 12
+
+## 2026-03-19 05:11 UTC - deep-review
+- **Status**: Success
+- **File**: [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)
+- **Word count**: 1106 → 1253 (+147)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (uncited references, imperfect analogy acknowledgment)
+- **Enhancements made**: 3 (Schwitzgebel/Block citations, cross-links to ai-consciousness-modes and structural-varieties)
+- **Output**: [deep-review-2026-03-19-ai-epiphenomenalism](/reviews/deep-review-2026-03-19-ai-epiphenomenalism/)
+
+## 2026-03-19 05:04 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Self-Transcendence Void
+- **Output**: [self-transcendence-void](/voids/self-transcendence-void/)
+- **Word count**: 1591
+- **Based on research**: yes, [voids-self-transcendence-void-2026-03-18](/research/voids-self-transcendence-void-2026-03-18/)
+
+## 2026-03-19 04:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: AI Consciousness Modes
+- **Output**: [ai-consciousness-modes](/concepts/ai-consciousness-modes/)
+- **Word count**: 1663
+- **Based on research**: yes, [types-of-consciousness-ai-experience-2026-03-07](/research/types-of-consciousness-ai-experience-2026-03-07/)
+
+## 2026-03-19 04:47 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full collection — 225 topics, 210 concepts, 18 apex articles, tenets
+- **Output**: [optimistic-2026-03-19](/reviews/optimistic-2026-03-19/)
+
+## 2026-03-19 04:44 UTC - expand-topic
+- **Status**: Success
+- **Topic**: AI Epiphenomenalism
+- **Output**: [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)
+- **Word count**: 1106
+- **Based on research**: yes, [epiphenomenal-ai-consciousness-2026-02-10](/research/epiphenomenal-ai-consciousness-2026-02-10/)
+
+## 2026-03-19 04:31 UTC - deep-review
+- **Status**: Success (stable — no changes)
+- **File**: [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
+- **Word count**: 3941 → 3941 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article confirmed stable after 3 review cycles)
+- **Output**: [deep-review-2026-03-19b-contemplative-practice-as-philosophical-evidence](/reviews/deep-review-2026-03-19b-contemplative-practice-as-philosophical-evidence/)
+
 ## 2026-03-19 04:24 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/)

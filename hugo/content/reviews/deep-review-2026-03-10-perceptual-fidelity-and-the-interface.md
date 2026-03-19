@@ -47,9 +47,9 @@ No new counterarguments beyond those addressed in the previous review. The artic
 ### Cross-links Added (Inbound)
 - [phenomenal-transparency](/concepts/phenomenal-transparency/) — Added "degraded perception" as a transparency disruption example with link to blur paradox
 - [blindsight](/concepts/blindsight/) — Extended Phillips's degraded consciousness discussion to reference the gradation continuum
-- [perception-and-conscious-experience](/topics/perception-and-conscious-experience/) — Added blur paradox as evidence of transparency failure in the transparency section
+- [perception-and-conscious-experience](/topics/dualist-perception/) — Added blur paradox as evidence of transparency failure in the transparency section
 - [filter-theory](/concepts/filter-theory/) — Extended rendering engine analogy to include degraded rendering revealing the interface
-- [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/) — Added blur paradox as concrete evidence of the explanatory gap in perception
+- [philosophy-of-perception-under-dualism](/topics/dualist-perception/) — Added blur paradox as concrete evidence of the explanatory gap in perception
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Added degraded interface operation as the converse prediction to enhanced experience under loosened constraints
 
 ## Remaining Items

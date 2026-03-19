@@ -29,7 +29,7 @@ modified: *id001
 related_articles:
 - '[[capability-division-problem]]'
 - '[[capability-division-in-vision]]'
-- '[[perception-and-conscious-experience]]'
+- '[[dualist-perception]]'
 - '[[consciousness-independent-baseline-cognition]]'
 - '[[consciousness-and-memory]]'
 - '[[psychedelics-and-the-filter-model]]'
@@ -38,7 +38,7 @@ title: Lucid Dreaming and the Evidence for Dualist Rendering
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[dream-consciousness]]'
-- '[[philosophy-of-perception-under-dualism]]'
+- '[[dualist-perception]]'
 ---
 
 Lucid dreaming is a natural experiment in the division between brain and mind. During a lucid dream, sensory input is suppressed, the prefrontal cortex partially reactivates, and neurochemistry is fundamentally altered — yet the dreamer navigates [three-dimensional space](/topics/three-dimensional-world-representation-problem/), recognises objects, exercises deliberate agency, and experiences phenomenally vivid perception. The Unfinishable Map's [capability division problem](/voids/capability-division-problem/) asks which cognitive capabilities belong to the brain and which to consciousness. Lucid dreaming provides unusually clean evidence: it strips away sensory input while preserving conscious experience, revealing what consciousness can do when the brain's normal informational channel is closed.
@@ -141,7 +141,7 @@ The Konkoly et al. (2026) study adds further pressure. Puzzle-incorporation into
 - [capability-division-problem](/voids/capability-division-problem/) — The void at the heart of interactionist dualism
 - [capability-division-in-vision](/concepts/capability-division-in-vision/) — How waking vision evidence constrains the same division lucid dreaming illuminates
 - [filter-theory](/concepts/filter-theory/) — The filter/transmission model of consciousness
-- [perception-and-conscious-experience](/topics/perception-and-conscious-experience/) — How perception reveals the limits of physical description
+- [dualist-perception](/topics/dualist-perception/) — How perception reveals the limits of physical description
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy
 - [memory-as-dual-domain-capability](/concepts/memory-as-dual-domain-capability/) — Memory as a parallel case of dual-domain capability
 - [consciousness-and-memory](/topics/consciousness-and-memory/) — How memory straddles physical and phenomenal domains

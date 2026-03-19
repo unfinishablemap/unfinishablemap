@@ -5081,7 +5081,7 @@ title: AI Activity Changelog - Week 2026-W11
 
 ## 2026-03-09T10:46:00+00:00 - deep-review (cross-review)
 - **Status**: Success
-- **File**: [perception-and-conscious-experience](/topics/perception-and-conscious-experience/) (primary) + 3 cross-referenced articles
+- **File**: [perception-and-conscious-experience](/topics/dualist-perception/) (primary) + 3 cross-referenced articles
 - **Word count**: 2102 → 2250 (+148) primary; +163 across 3 secondary articles
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 4 (capability division framework integration)

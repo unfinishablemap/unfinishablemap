@@ -22,7 +22,7 @@ topics: []
 
 ## Cross-Review Context
 
-This review was conducted as a cross-review against related perception articles: [perception-and-conscious-experience](/topics/perception-and-conscious-experience/), [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/), [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/), [predictive-processing](/concepts/predictive-processing/), [illusionism](/concepts/illusionism/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), and [consciousness-only-territories](/voids/consciousness-only-territories/).
+This review was conducted as a cross-review against related perception articles: [perception-and-conscious-experience](/topics/dualist-perception/), [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/), [philosophy-of-perception-under-dualism](/topics/dualist-perception/), [predictive-processing](/concepts/predictive-processing/), [illusionism](/concepts/illusionism/), [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), and [consciousness-only-territories](/voids/consciousness-only-territories/).
 
 ## Pessimistic Analysis Summary
 
@@ -31,7 +31,7 @@ This review was conducted as a cross-review against related perception articles:
 
 ### Medium Issues Found
 - **Unsupported central claim**: "A purely physical system would have no functional need for the distinction between editing and transmission" was asserted without argument. Computational systems routinely have different processing modes. **Resolution**: Qualified the claim — acknowledged that computational systems can have different modes, but argued that the *experiential* difference between modes is what needs explanation. The phenomenological distinction (filled-in blind spot *feels* different from optical blur) is the real puzzle.
-- **Missing inline cross-links**: Related perception articles were only in Further Reading, not woven into the argument. **Resolution**: Added inline links to [perception-and-conscious-experience](/topics/perception-and-conscious-experience/) (via blindsight), [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/), [consciousness-only-territories](/voids/consciousness-only-territories/), and [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/).
+- **Missing inline cross-links**: Related perception articles were only in Further Reading, not woven into the argument. **Resolution**: Added inline links to [perception-and-conscious-experience](/topics/dualist-perception/) (via blindsight), [philosophy-of-perception-under-dualism](/topics/dualist-perception/), [consciousness-only-territories](/voids/consciousness-only-territories/), and [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/).
 - **No precision weighting engagement**: The predictive processing framework's key mechanism for the asymmetry was unmentioned. **Resolution**: Added precision weighting explanation in the "Why the Asymmetry?" section, showing how it explains the computational logic while leaving the phenomenological question open.
 
 ### Counterarguments Considered
@@ -57,9 +57,9 @@ This review was conducted as a cross-review against related perception articles:
 - Added inline cross-link to philosophy-of-perception-under-dualism in site perspective section
 
 ### Cross-links Added
-- [perception-and-conscious-experience](/topics/perception-and-conscious-experience/) (inline, via blindsight)
+- [perception-and-conscious-experience](/topics/dualist-perception/) (inline, via blindsight)
 - [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/) (inline)
-- [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/) (inline)
+- [philosophy-of-perception-under-dualism](/topics/dualist-perception/) (inline)
 - [consciousness-only-territories](/voids/consciousness-only-territories/) (inline)
 
 ## Remaining Items

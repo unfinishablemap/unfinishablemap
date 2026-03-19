@@ -89,7 +89,7 @@ The approximately 300-millisecond window for deploying voluntary attention is re
 
 ## Relation to Site Perspective
 
-The Unfinishable Map's [tenets](/tenets/) bear directly on perceptual constancy in several ways. (For a broader treatment, see [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/).)
+The Unfinishable Map's [tenets](/tenets/) bear directly on perceptual constancy in several ways. (For a broader treatment, see [philosophy-of-perception-under-dualism](/topics/dualist-perception/).)
 
 The **dualism** tenet holds that consciousness is not reducible to physical processes. Perceptual constancy supports this: the stability of experienced qualities across variable physical inputs suggests that phenomenal properties do not reduce to the sensory states that occasion them. The constancy is a feature of experience, constituted in part by the subject, not merely read off from the physical signal.
 
@@ -109,7 +109,7 @@ More broadly, perceptual constancy illustrates why **Occam's Razor has limits** 
 - [structure-of-attention](/topics/structure-of-attention/)
 - [attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/)
 - [inverted-qualia](/concepts/inverted-qualia/)
-- [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/)
+- [philosophy-of-perception-under-dualism](/topics/dualist-perception/)
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
 - [phenomenal-transparency](/concepts/phenomenal-transparency/)
 - [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/)

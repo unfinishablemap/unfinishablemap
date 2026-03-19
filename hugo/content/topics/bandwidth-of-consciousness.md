@@ -38,7 +38,7 @@ last_deep_review: 2026-03-04 21:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[perception-and-conscious-experience]]'
+- '[[dualist-perception]]'
 - '[[resolution-void]]'
 - '[[quantum-neural-timing-constraints]]'
 - '[[embodied-consciousness-and-the-interface]]'
@@ -205,7 +205,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — Timing constraints on quantum consciousness mechanisms
 - [baseline-cognition](/concepts/baseline-cognition/) — What the brain achieves without conscious involvement
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism in detail
-- [perception-and-conscious-experience](/topics/perception-and-conscious-experience/) — Perceptual richness and what it reveals about consciousness
+- [dualist-perception](/topics/dualist-perception/) — Perceptual richness and what it reveals about consciousness
 - [mental-causation](/concepts/mental-causation/) — The philosophical problem of mental-to-physical causation and the Map's quantum response
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Energy conservation and why selection without injection respects physics
 - [downward-causation](/concepts/downward-causation/) — The broader framework for consciousness influencing physical outcomes

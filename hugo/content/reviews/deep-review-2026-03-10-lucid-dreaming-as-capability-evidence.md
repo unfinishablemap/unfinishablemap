@@ -54,7 +54,7 @@ topics: []
 - [dream-consciousness](/topics/dream-consciousness/) (body text + related_articles + Further Reading)
 - [filter-theory](/concepts/filter-theory/) (body text + Further Reading)
 - [blindsight](/concepts/blindsight/) (body text)
-- [perception-and-conscious-experience](/topics/perception-and-conscious-experience/) (body text)
+- [perception-and-conscious-experience](/topics/dualist-perception/) (body text)
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) (Further Reading)
 
 ## Remaining Items

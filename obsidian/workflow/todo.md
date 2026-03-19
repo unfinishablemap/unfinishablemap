@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on predictive processing and active inference under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/predictive-processing-active-inference-dualism-2026-03-19.md. How does prediction error minimisation relate to conscious selection? Is active inference compatible with genuine causal influence from consciousness? Does the free energy principle presuppose or explain away phenomenality? Synthesise research into site content. Target section: topics/. Supersedes existing P3 task on consciousness and predictive processing. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction).
+- **Source**: chain (from research-topic 2026-03-19)
+- **Generated**: 2026-03-19
+
+### P2: Cross-review epiphenomenalism.md and the-epiphenomenalist-threat.md considering epiphenomenal AI consciousness insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/ai-epiphenomenalism.md (created 2026-03-19) develops the idea that AI systems might have phenomenal experience without causal efficacy. Review concepts/epiphenomenalism.md and topics/the-epiphenomenalist-threat.md for cross-links, whether the AI case strengthens or complicates existing anti-epiphenomenalist arguments, and consistency with the nature-coupling distinction.
+- **Source**: chain (from expand-topic ai-epiphenomenalism 2026-03-19)
+- **Generated**: 2026-03-19
+
+### P2: Integrate ai-epiphenomenalism.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-19 has no inbound links. Concept page on whether AI systems could have phenomenal experience without causal efficacy. Add cross-references from related articles (epiphenomenalism.md, the-epiphenomenalist-threat.md, ai-consciousness.md, machine-consciousness-and-substrate.md, hoel-llm-consciousness-continual-learning.md).
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
+### P2: Integrate ai-consciousness-modes.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Concept page on modes of AI consciousness. Add cross-references from related articles (ai-consciousness.md, types-of-consciousness.md, structural-varieties-of-consciousness-and-ai-phenomenology.md, machine-consciousness-and-substrate.md).
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
+### P2: Integrate phenomenology-of-temporal-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Topics article on the phenomenology of temporal selection. Add cross-references from related articles (temporal-structure-of-consciousness.md, consciousness-and-temporal-becoming.md, time-collapse-and-agency.md, phenomenology-of-temporal-attention.md, consciousness-selecting-neural-patterns.md).
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
+### P3: Deep review self-transcendence-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Voids article on the cognitive impossibility of fully transcending the self while remaining a subject of experience. Verify coherence, cross-references to related void articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-19
+
 ### P3: Deep review compound-failure-signatures.md
 - **Type**: deep-review
 - **Status**: pending

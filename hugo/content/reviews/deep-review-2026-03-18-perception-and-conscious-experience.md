@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-18
-**Article**: [Perception and Conscious Experience](/topics/perception-and-conscious-experience/)
+**Article**: [Perception and Conscious Experience](/topics/dualist-perception/)
 **Previous review**: [2026-03-09](/reviews/deep-review-2026-03-09-perception-and-conscious-experience/)
 **Context**: Cross-review considering perceptual-reconstruction-selection insights
 

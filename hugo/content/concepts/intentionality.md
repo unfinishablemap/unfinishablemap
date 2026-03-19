@@ -49,7 +49,7 @@ Franz Brentano reintroduced the concept to modern philosophy in 1874, claiming t
 
 [Phenomenology](/concepts/phenomenology/)—founded by Husserl and developed by Heidegger, Merleau-Ponty, and Sartre—provides systematic methods for investigating intentionality. Through the *epoché* (methodological suspension of assumptions about the external world), phenomenology reveals consciousness as always directed toward objects, bracketing whether intended objects exist to focus on how they appear.
 
-This shows why Brentano was right: consciousness is never empty. Every perception, thought, memory, and emotion is directed toward something. [Perception](/topics/perception-and-conscious-experience/) is the paradigm case—the most transparently intentional form of consciousness, directed outward toward objects in a way that resists reduction to causal relations between neurons.
+This shows why Brentano was right: consciousness is never empty. Every perception, thought, memory, and emotion is directed toward something. [Perception](/topics/dualist-perception/) is the paradigm case—the most transparently intentional form of consciousness, directed outward toward objects in a way that resists reduction to causal relations between neurons.
 
 Phenomenology also reveals the connection between intentionality and first-person irreducibility. Neuroscience might identify which neurons fire when you think about Paris, but it cannot capture the *aboutness*—the way Paris shows up in your experience as a meaningful object. This supports both Brentano's thesis and The Unfinishable Map's [Dualism](/tenets/#dualism) commitment.
 

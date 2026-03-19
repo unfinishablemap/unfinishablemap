@@ -31,7 +31,7 @@ title: The 3D World Representation Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[the-binding-problem-a-systematic-treatment]]'
-- '[[perception-and-conscious-experience]]'
+- '[[dualist-perception]]'
 ---
 
 The Unfinishable Map identifies a deep puzzle at the intersection of perception, consciousness, and spatial cognition: how does a brain receiving fragmented, two-dimensional sensory signals produce the unified three-dimensional world we consciously inhabit? Computational neuroscience has made remarkable progress explaining how the brain processes depth cues, integrates sensory modalities, and maintains spatial maps. Yet none of this explains why the processing is accompanied by a phenomenal 3D world—a seamless spatial arena in which objects have solidity, distance feels real, and space itself seems to stretch outward from the perceiver. This is the 3D world representation problem, and it is a specific instance of the [hard problem](/topics/hard-problem-of-consciousness/) that reveals something important about the relationship between physical processing and conscious experience.
@@ -106,7 +106,7 @@ This dual-domain reading also addresses the construction problem. The [phenomena
 
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/)
-- [perception-and-conscious-experience](/topics/perception-and-conscious-experience/)
+- [dualist-perception](/topics/dualist-perception/)
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)
 - [unity-of-consciousness](/concepts/unity-of-consciousness/)
 - [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/)

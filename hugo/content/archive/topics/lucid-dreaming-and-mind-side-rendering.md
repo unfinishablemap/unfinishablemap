@@ -116,7 +116,7 @@ The two-way communication studies create pressure on this view. Konkoly et al. (
 - [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-and-dualist-rendering/) — The capability division that lucid dreaming reveals
 - [filter-theory](/concepts/filter-theory/) — The filter/transmission model of consciousness
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy
-- [perception-and-conscious-experience](/topics/perception-and-conscious-experience/) — How perception reveals the limits of physical description
+- [perception-and-conscious-experience](/topics/dualist-perception/) — How perception reveals the limits of physical description
 - [capability-division-problem](/voids/capability-division-problem/) — Which capabilities belong to the brain and which to consciousness
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Parallel evidence from psychedelic states
 

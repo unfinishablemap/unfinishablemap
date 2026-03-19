@@ -120,7 +120,7 @@ This debate matters for consciousness studies because it concerns boundaries. If
 
 ## Enactivism
 
-The strongest version of embodied cognition is enactivism (Varela, Thompson, Rosch). Key claims: cognition arises through dynamic organism-environment interaction; the world is "enacted" through autonomous agency; [perception](/topics/perception-and-conscious-experience/) is sensorimotor skill; experience is central and irreducible.
+The strongest version of embodied cognition is enactivism (Varela, Thompson, Rosch). Key claims: cognition arises through dynamic organism-environment interaction; the world is "enacted" through autonomous agency; [perception](/topics/dualist-perception/) is sensorimotor skill; experience is central and irreducible.
 
 Crucially, enactivists don't eliminate consciousness—they treat experience as central data requiring first-person methods (hence Varela's [neurophenomenology](/concepts/neurophenomenology/)). This aligns more with the Map's framework than with eliminative materialism.
 

@@ -30,9 +30,8 @@ related_articles:
 - '[[hard-problem-of-consciousness]]'
 title: Perceptual Reconstruction Selection
 topics:
-- '[[perception-and-conscious-experience]]'
+- '[[dualist-perception]]'
 - '[[predictive-processing-and-the-maps-framework]]'
-- '[[philosophy-of-perception-under-dualism]]'
 ---
 
 Perceptual reconstruction selection is the process by which consciousness settles on one interpretation when the brain generates multiple valid reconstructions of an ambiguous stimulus. Bistable percepts — the Necker cube, Rubin's vase, binocular rivalry displays — present consciousness with two or more stable interpretations of the same sensory input. The brain does not resolve the ambiguity alone. Instead, conscious experience alternates between interpretations in a pattern that resists full explanation by neural dynamics. This makes perceptual reconstruction selection a test case for [the broader claim that consciousness selects among neural possibilities](/concepts/consciousness-selecting-neural-patterns/): if consciousness participates in resolving perceptual ambiguity, the selection mechanism is observable at the level of everyday experience, not only at quantum indeterminacies.
@@ -88,7 +87,7 @@ The Map speculates that the meditation findings are particularly revealing. If t
 - [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/) — predictive processing and interactionist dualism
 - [filter-theory](/concepts/filter-theory/) — the brain as filter rather than generator of consciousness
 - [cognitive-closure](/concepts/cognitive-closure/) — the limits of what consciousness can access about its own mechanisms
-- [perception-and-conscious-experience](/topics/perception-and-conscious-experience/)
+- [dualist-perception](/topics/dualist-perception/)
 
 ## References
 

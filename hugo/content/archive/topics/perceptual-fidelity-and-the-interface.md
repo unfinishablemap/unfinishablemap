@@ -111,7 +111,7 @@ The blur paradox engages several of the Map's [tenets](/tenets/).
 ## Further Reading
 
 - [perceptual-degradation-and-the-interface](/topics/perceptual-failure-and-the-interface/)
-- [perception-and-conscious-experience](/topics/perception-and-conscious-experience/)
+- [perception-and-conscious-experience](/topics/dualist-perception/)
 - [phenomenal-transparency](/concepts/phenomenal-transparency/)
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
 - [visual-consciousness](/concepts/visual-consciousness/)

@@ -30,7 +30,7 @@ The Map's treatment of quantum consciousness mechanisms is remarkably careful. T
 
 ### The Phenomenologist (Nagel)
 
-The Map centres first-person experience throughout. The [perception article](/topics/philosophy-of-perception-under-dualism/)'s blur paradox—that perceptual degradation generates phenomenal qualities absent from the external scene—turns everyday experience into philosophical evidence. The [qualia article](/concepts/qualia/)'s multi-dimensional treatment (sensory, cognitive, aesthetic, emotional) avoids the narrow colour-perception paradigm that plagues most discussions. The [phenomenology of consciousness doing work](/apex/phenomenology-of-consciousness-doing-work/) apex article's four-feature framework (effort, selection, holding, opacity) provides exactly what Nagel calls for: systematic attention to what it is *like* to exercise mental causation, grounded in phenomenology rather than third-person description alone. The cross-cultural universality claim—that three invariants (doing vs. undergoing, volitional opacity, temporal openness) hold across Western, Buddhist, and Daoist traditions—answers Nagel's concern that subjective experience resists objective capture by showing structural invariants beneath cultural variation.
+The Map centres first-person experience throughout. The [perception article](/topics/dualist-perception/)'s blur paradox—that perceptual degradation generates phenomenal qualities absent from the external scene—turns everyday experience into philosophical evidence. The [qualia article](/concepts/qualia/)'s multi-dimensional treatment (sensory, cognitive, aesthetic, emotional) avoids the narrow colour-perception paradigm that plagues most discussions. The [phenomenology of consciousness doing work](/apex/phenomenology-of-consciousness-doing-work/) apex article's four-feature framework (effort, selection, holding, opacity) provides exactly what Nagel calls for: systematic attention to what it is *like* to exercise mental causation, grounded in phenomenology rather than third-person description alone. The cross-cultural universality claim—that three invariants (doing vs. undergoing, volitional opacity, temporal openness) hold across Western, Buddhist, and Daoist traditions—answers Nagel's concern that subjective experience resists objective capture by showing structural invariants beneath cultural variation.
 
 ### The Process Philosopher (Whitehead)
 
@@ -102,7 +102,7 @@ The Map's void articles represent its strongest claim to epistemic humility. The
 ### Medium Priority
 
 #### Clinical Dissociation as Framework Test
-- **Builds on**: [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/) (blindsight), [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/) (flow state exception)
+- **Builds on**: [philosophy-of-perception-under-dualism](/topics/dualist-perception/) (blindsight), [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/) (flow state exception)
 - **Would address**: Anarchic hand, depersonalisation, thought insertion, and other dissociative phenomena could be systematised to show which features of the consciousness-doing-work framework dissociate in which disorders
 - **Estimated scope**: Medium article (topic)
 - **Tenet alignment**: Bidirectional Interaction (dissociation reveals components of the causal interface)
@@ -128,7 +128,7 @@ The Map's void articles represent its strongest claim to epistemic humility. The
 | [epiphenomenalism](/concepts/epiphenomenalism/) | [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/) | The empirical evidence for consciousness doing work should be cited in the epiphenomenalism refutation |
 | [interactionist-dualism](/concepts/interactionist-dualism/) | [process-and-consciousness](/apex/process-and-consciousness/) | Connection through Whitehead is strong but requires reading both to see it |
 | [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) | [time-consciousness-growing-block](/apex/time-consciousness-growing-block/) | Temporal dimension of hard problem deserves explicit cross-reference |
-| [philosophy-of-perception-under-dualism](/topics/philosophy-of-perception-under-dualism/) | [causal-interface](/voids/causal-interface/) | Perception is where the causal interface is most directly experienced |
+| [philosophy-of-perception-under-dualism](/topics/dualist-perception/) | [causal-interface](/voids/causal-interface/) | Perception is where the causal interface is most directly experienced |
 | [qualia](/concepts/qualia/) | [binding-void](/voids/binding-void/) | Qualia unity connects to binding problem at the void level |
 
 ## New Concept Pages Needed

@@ -33,7 +33,7 @@ related_articles:
 title: Neurological Dissociations as Interface Architecture
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[perception-and-conscious-experience]]'
+- '[[dualist-perception]]'
 ---
 
 The Unfinishable Map discusses neurological dissociations individually—[blindsight](/concepts/blindsight/) here, [pain-asymbolia](/concepts/pain-asymbolia/) there, [split-brain](/topics/split-brain-consciousness/) elsewhere—but the pattern they form collectively has not been drawn out. Each dissociation disconnects a specific component of the mind-brain interface. Taken together, they map the interface's functional anatomy: ascending channels that deliver sensory content to consciousness, descending channels through which consciousness acts on the body, a self-model channel that reports the system's own state, and bilateral connections that maintain unity across hemispheres. The dissociation pattern is more informative than any single case because it reveals which components are separable—and therefore which are architecturally distinct.

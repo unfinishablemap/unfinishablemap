@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-13
-**Article**: [Philosophy of Perception Under Dualism](/topics/philosophy-of-perception-under-dualism/)
+**Article**: [Philosophy of Perception Under Dualism](/topics/dualist-perception/)
 **Previous review**: [2026-02-20](/reviews/deep-review-2026-02-20-philosophy-of-perception-under-dualism/)
 
 ## Pessimistic Analysis Summary
