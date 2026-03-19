@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review mental-causation.md and mind-matter-interface.md considering delegatory dualism
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/delegatory-dualism.md (created 2026-03-19) introduces Bradford Saad's framework where consciousness delegates causal work rather than intervening directly. Review topics/mental-causation.md and topics/mind-matter-interface.md for cross-links, whether delegatory dualism challenges or complements the Map's bidirectional interaction model, and opportunities to strengthen arguments by engaging this alternative.
-- **Source**: chain (from delegatory-dualism.md)
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review hard-problem-of-consciousness.md considering non-western hard problem insights
 - **Type**: cross-review
 - **Status**: pending
@@ -779,6 +772,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review mental-causation.md and mind-matter-interface.md considering delegatory dualism
+- **Type**: cross-review
+- **Notes**: New article topics/delegatory-dualism.md (created 2026-03-19) introduces Bradford Saad's framework where consciousness delegates causal work rather than intervening directly. Review topics/mental-causation.md and topics/mind-matter-interface.md for cross-links, whether delegatory dualism challenges or complements the Map's bidirectional interaction model, and opportunities to strengthen arguments by engaging this alternative.
+- **Output**: obsidian/concepts/mental-causation.md -- Context: Cross-review mental-causation.md and mind-matter-interface.md considering delegatory dualism
 
 ### ✓ 2026-03-19: Integrate memory-consolidation-and-transformation-of-experience.md into site navigation
 - **Type**: integrate-orphan

@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-18T18:25:00+00:00
+ai_modified: 2026-03-19T10:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[bidirectional-interaction]]"
   - "[[conservation-laws-and-mental-causation]]"
+  - "[[mind-matter-interface]]"
   - "[[causal-delegation]]"
   - "[[delegatory-dualism]]"
   - "[[preemption]]"
@@ -43,7 +44,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-03-04T12:22:00+00:00
+last_deep_review: 2026-03-19T10:59:00+00:00
 ---
 
 Mental causation — one of the central problems in [[philosophy-of-mind|philosophy of mind]] — is the thesis that mental states cause physical effects. When you decide to raise your arm, your decision causes the arm to rise. When pain motivates avoidance, the pain causes the avoidance. This seems obvious from experience but faces a formidable challenge: Jaegwon Kim's exclusion argument, which concludes that mental properties are either physical or causally inert. The Unfinishable Map's quantum framework provides a response: consciousness causes physical effects at points where physics is genuinely incomplete.
@@ -101,7 +102,7 @@ The Map's response: deny causal closure at quantum indeterminacies.
 
 Quantum mechanics specifies probabilities but not which outcome actualizes. Causal closure fails at these points. If consciousness acts at these indeterminacies — selecting among outcomes physics leaves undetermined, as [[non-retrocausal-conscious-selection-models|non-retrocausal conscious selection]] frameworks propose — it causes physical events without competing with physical causes. No overdetermination occurs because physics provides necessary but not sufficient causes. The [[prebiotic-collapse|prebiotic collapse problem]] shows this framework is cosmologically consistent.
 
-This is the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness biases quantum outcomes where the physical story runs out.
+The [[mind-matter-interface|two-layer architecture]] places this quantum mechanism as Layer 2 (Interface/Control), complementing Layer 1's filter theory explanation of why brain-consciousness correlation doesn't entail production. This is the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness biases quantum outcomes where the physical story runs out.
 
 ### The Decoherence Challenge
 
@@ -211,6 +212,7 @@ Mental causation, as defended here, is falsifiable:
 - [[decoherence]] — The physics challenge and why it doesn't close the quantum opening
 - [[interface-locality]] — Why consciousness affects only its own brain
 - [[attention-as-interface]] — How attention implements the consciousness-physics interface
+- [[mind-matter-interface]] — The unified two-layer architecture integrating filter theory and quantum selection
 
 ## References
 
