@@ -4,7 +4,7 @@ description: "If information is physically fundamental, consciousness may sit at
 created: 2026-02-15
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T07:45:00+00:00
+ai_modified: 2026-03-19T23:02:00+00:00
 last_deep_review: 2026-03-17T07:45:00+00:00
 draft: false
 topics:
@@ -23,7 +23,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[participatory-universe-2026-02-08]]"
-  - "[[integrated-information-theory-critique]]"
+  - "[[consciousness-and-integrated-information]]"
   - "[[the-interface-specification-problem]]"
   - "[[consciousness-and-causal-powers]]"
   - "[[conservation-laws-and-mental-causation]]"
@@ -114,7 +114,7 @@ The **No Many Worlds** tenet connects directly. Many-worlds avoids collapse by t
 ## Further Reading
 
 - [[integrated-information-theory]]
-- [[integrated-information-theory-critique]]
+- [[consciousness-and-integrated-information]]
 - [[quantum-measurement-and-consciousness]]
 - [[hard-problem-of-consciousness]]
 - [[prebiotic-collapse]]

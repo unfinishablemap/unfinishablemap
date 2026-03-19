@@ -4,7 +4,7 @@ description: "The view that consciousness is fundamental and ubiquitous in natur
 created: 2026-01-08
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-15T17:59:00+00:00
+ai_modified: 2026-03-19T23:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[tenets]]"
   - "[[panpsychism-consciousness-2026-01-08]]"
   - "[[integrated-information-theory]]"
-  - "[[integrated-information-theory-critique]]"
+  - "[[consciousness-and-integrated-information]]"
   - "[[origin-of-consciousness]]"
 ai_contribution: 100
 author: null
@@ -154,7 +154,7 @@ This implies panpsychism: even simple systems like photodiodes have minimal phi 
 
 However, IIT faces its own version of the combination problem. High-phi systems are "more" conscious than low-phi systems, but it remains unclear why integration should produce unified experience rather than just integrated information processing. The phi measure quantifies integration but doesn't explain why integration feels like anything.
 
-For the Map's framework, IIT is instructive but incomplete. It takes consciousness seriously as fundamental (aligning with the Dualism tenet) but identifies it with physical structure rather than treating it as causally efficacious over and above physics (conflicting with Bidirectional Interaction). If consciousness *is* integrated information, it doesn't *do* anything separate from the physical—it *is* the physical in a certain configuration. For the Map's full critique of IIT, see [[integrated-information-theory-critique|Why Integrated Information Theory Falls Short]].
+For the Map's framework, IIT is instructive but incomplete. It takes consciousness seriously as fundamental (aligning with the Dualism tenet) but identifies it with physical structure rather than treating it as causally efficacious over and above physics (conflicting with Bidirectional Interaction). If consciousness *is* integrated information, it doesn't *do* anything separate from the physical—it *is* the physical in a certain configuration. For the Map's full critique of IIT, see [[consciousness-and-integrated-information|Consciousness and Integrated Information]].
 
 ## Can Panpsychism Be Tested?
 

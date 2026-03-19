@@ -4,7 +4,7 @@ description: "IIT identified integration as central to consciousness but erred i
 created: 2026-01-27
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-19T22:55:00+00:00
+ai_modified: 2026-03-19T23:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-19T23:02:00+00:00
 coalesced_from:
   - "/topics/integrated-information-theory-critique/"
   - "/topics/consciousness-and-information-integration-beyond-iit/"
@@ -57,7 +57,9 @@ This is [[concepts/epiphenomenalism]] by another name. Classical epiphenomenalis
 
 The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet exists precisely because epiphenomenalism is self-undermining. If consciousness cannot influence neurons, then our discussions *about* consciousness are caused entirely by physical processes with no input from consciousness itself—the [[causal-closure|causal closure of physics]] doing all the work. Why should these discussions be accurate? IIT inherits this problem. Our beliefs about integrated information are themselves just more integrated information—physically constituted states caused by prior physical states. The theory cannot explain why we reliably track phenomenal facts if phenomenal facts have no causal role.
 
-IIT might respond that since consciousness *is* the physical structure, the beliefs are automatically about themselves—self-representing states. But this trades explanation for assertion. We wanted to understand the connection between physical processes and experience—what Levine called the [[explanatory-gap]]. Claiming they're identical doesn't illuminate the connection; it denies there's anything to illuminate. Other identities (water = H₂O) satisfy explanatorily because we can see *why* water has its properties given molecular structure. The consciousness-integration identity offers no such transparency: we cannot see why integrated information should feel like anything.
+IIT might respond that since consciousness *is* the physical structure, beliefs about consciousness are automatically about themselves—self-representing states. More broadly, an identity theorist might argue that identity doesn't imply inertness: if consciousness *is* integration, then integration's causal powers *are* consciousness's causal powers. But this conflates having causal powers with having *autonomous* causal powers. The integrated structure's causal profile is fully determined by physics; consciousness adds nothing to what the structure would do anyway. The causal work attributed to consciousness is entirely parasitic on the physical.
+
+This trades explanation for assertion. We wanted to understand the connection between physical processes and experience—what Levine called the [[explanatory-gap]]. Claiming they're identical doesn't illuminate the connection; it denies there's anything to illuminate. Other identities (water = H₂O) satisfy explanatorily because we can see *why* water has its properties given molecular structure. The consciousness-integration identity offers no such transparency: we cannot see why integrated information should feel like anything.
 
 ### Does Quantum Selection Escape This Charge?
 
@@ -115,7 +117,7 @@ RPT identifies a *process* rather than a *property*. Recurrence is something the
 
 Bernard Baars's Global Workspace Theory and its neural implementation by Stanislas Dehaene treat integration differently from IIT. Where IIT measures how tightly a system's parts are bound together, GWT focuses on *availability*: information becomes conscious when it is broadcast from specialised processors to a global workspace accessible to multiple cognitive systems—memory, planning, language, motor control.
 
-Integration here is about *reach*, not internal structure. GWT has empirical support from studies showing that conscious perception correlates with widespread cortical ignition. The 2025 COGITATE adversarial collaboration tested GWT against IIT, with mixed results for both theories. The Map finds GWT's emphasis on broadcasting suggestive: if consciousness selects which information gets broadcast—choosing what enters the workspace—then GWT describes the downstream effect of conscious selection rather than consciousness itself.
+Integration here is about *reach*, not internal structure. The 2025 COGITATE adversarial collaboration tested GWT against IIT: both theories predicted some neural signatures correctly but failed on others, with neither clearly vindicated (COGITATE Consortium, 2025). The Map finds GWT's emphasis on broadcasting suggestive: if consciousness selects which information gets broadcast—choosing what enters the workspace—then GWT describes the downstream effect of conscious selection rather than consciousness itself.
 
 ### Predictive Integration
 
@@ -127,7 +129,7 @@ Karl Friston's free energy principle formalises this as the minimisation of surp
 
 Alfred North Whitehead's concept of *prehension*—an actual occasion's grasping together of prior data into a new unity of experience—offers a metaphysical framework that predates IIT by nearly a century. For Whitehead, every moment of experience integrates its antecedents: the just-past experience, the sensory data, the contextual history. This integration is not a computation performed on inert data. It is the fundamental act of becoming.
 
-Whitehead's framework treats integration as ontologically basic—not a property to be measured but the very process by which reality advances. This avoids IIT's passivity problem: integration is not a static property but a dynamic achievement of a subject. The limitation: Whitehead's panexperientialism attributes experience to all actual occasions, not just those in brains. The Map does not commit to universal experience but finds the core insight valuable.
+Whitehead's framework treats integration as ontologically basic—not a property to be measured but the very process by which reality advances. This avoids IIT's passivity problem: integration is not a static property but a dynamic achievement of a subject. The limitation: Whitehead's panexperientialism—the view that all actual occasions have some experiential aspect—attributes experience universally, not just to brains. The Map does not commit to universal experience but finds the core insight valuable.
 
 ## Integration as Selective Activity
 

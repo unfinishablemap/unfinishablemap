@@ -4,7 +4,7 @@ description: "Individual consciousness is required for collective intentionality
 created: 2026-02-15
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-12T06:43:00+00:00
+ai_modified: 2026-03-19T23:02:00+00:00
 draft: false
 topics:
   - "[[topics/consciousness-and-social-cognition]]"
@@ -52,7 +52,7 @@ Collective intelligence takes forms that differ dramatically in how much conscio
 
 ## Why Groups Are Not Conscious
 
-The Map finds proposals for group consciousness — from Durkheim's *conscience collective* to Hegel's *Geist* to the implication of [[integrated-information-theory-critique|IIT's]] formalism that sufficiently integrated groups could in principle have high Φ — provocative but unconvincing.
+The Map finds proposals for group consciousness — from Durkheim's *conscience collective* to Hegel's *Geist* to the implication of [[consciousness-and-integrated-information|IIT's]] formalism that sufficiently integrated groups could in principle have high Φ — provocative but unconvincing.
 
 **The [[combination-problem]] in reverse.** Individual minds are already unified centres of experience. For a group mind to exist, these would need to combine into a higher-order unity — but individuals' experiences do not dissolve when they join a deliberating jury. If group consciousness exists alongside individual consciousness, it must be a separate centre of experience layered on top of the individual ones. The question of what substrate supports it has no good answer.
 

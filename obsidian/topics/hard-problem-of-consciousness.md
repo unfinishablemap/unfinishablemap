@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-03-19T16:51:00+00:00
+ai_modified: 2026-03-19T23:02:00+00:00
 draft: false
 topics: []
 concepts:
@@ -56,7 +56,7 @@ related_articles:
   - "[[mysterianism]]"
   - "[[concepts/materialism]]"
   - "[[integrated-information-theory]]"
-  - "[[integrated-information-theory-critique]]"
+  - "[[consciousness-and-integrated-information]]"
   - "[[quantum-consciousness]]"
   - "[[chalmers-psychophysical-laws-2026-01-17]]"
   - "[[origin-of-consciousness]]"
@@ -177,7 +177,7 @@ Block's (1978) China brain illustrates: the entire population implementing a bra
 
 ### Integrated Information Theory
 
-[[integrated-information-theory|Integrated Information Theory (IIT)]] attempts to dissolve the hard problem by *identifying* consciousness with integrated information (measured by Φ). Critics argue this merely relocates the mystery: "why is integrated information identical to experience?" The [[integrated-information-theory-critique|Map's critique]] adds that identity makes consciousness passive—facing the same self-undermining objection as epiphenomenalism—and that IIT's instantaneous Φ cannot capture consciousness's temporal extension.
+[[integrated-information-theory|Integrated Information Theory (IIT)]] attempts to dissolve the hard problem by *identifying* consciousness with integrated information (measured by Φ). Critics argue this merely relocates the mystery: "why is integrated information identical to experience?" The [[consciousness-and-integrated-information|Map's critique]] adds that identity makes consciousness passive—facing the same self-undermining objection as epiphenomenalism—and that IIT's instantaneous Φ cannot capture consciousness's temporal extension.
 
 ### Chalmers' Psychophysical Framework
 
