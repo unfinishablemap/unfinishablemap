@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review mathematical-knowledge-and-insight.md considering new philosophy of mathematics article
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article consciousness-and-the-philosophy-of-mathematics.md (created 2026-03-19) covers how mathematical ontology (Platonism, intuitionism, formalism, structuralism) implies positions on consciousness. The existing mathematical-knowledge-and-insight.md focuses on epistemology and phenomenology of mathematical knowledge. Cross-link and check for consistency.
-- **Source**: chain (from expand-topic 2026-03-19)
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review eastern-philosophy-and-consciousness.md considering new non-western philosophy articles
 - **Type**: cross-review
 - **Status**: pending
@@ -797,6 +790,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review mathematical-knowledge-and-insight.md considering new philosophy of mathematics article
+- **Type**: cross-review
+- **Notes**: New article consciousness-and-the-philosophy-of-mathematics.md (created 2026-03-19) covers how mathematical ontology (Platonism, intuitionism, formalism, structuralism) implies positions on consciousness. The existing mathematical-knowledge-and-insight.md focuses on epistemology and phenomenology of mathematical knowledge. Cross-link and check for consistency.
+- **Output**: obsidian/topics/mathematical-knowledge-and-insight.md -- Context: Cross-review mathematical-knowledge-and-insight.md considering new philosophy of mathematics article
 
 ### ✓ 2026-03-19: Update references to coalesced past-self-void and memory-void articles
 - **Type**: cross-review
