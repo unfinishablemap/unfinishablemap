@@ -4,7 +4,7 @@ description: "Why Occam's Razor lacks universal epistemic warrant—human+AI ana
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T22:23:00+00:00
+ai_modified: 2026-03-19T15:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review: 2026-03-18T22:23:00+00:00
+last_deep_review: 2026-03-19T15:22:00+00:00
 ---
 
 Parsimony epistemology examines whether and when simplicity is a reliable guide to truth. The Unfinishable Map treats this as a foundational concept because the most common objection to [[dualism]]—that [[concepts/materialism|physicalism]] is simpler—depends entirely on parsimony having epistemic warrant in the consciousness domain. If that warrant is limited or absent, the objection collapses. This article defines the concept and its key distinctions; for the detailed case against parsimony in the consciousness debate, see the Map's [[epistemological-limits-of-occams-razor|arguments article]], and for the deeper cognitive dimension, see [[epistemological-limits-occams-razor|The Parsimony Void]].
@@ -104,7 +104,7 @@ The Map does not reject Occam's Razor wholesale. It holds that parsimony is a us
 1. Huemer, M. (2009). When Is Parsimony a Virtue? *The Philosophical Quarterly*, 59(235), 216–236.
 2. Sober, E. (2001). What Is the Problem of Simplicity? In A. Zellner, H. Keuzenkamp, & M. McAleer (Eds.), *Simplicity, Inference and Modelling*. Cambridge University Press.
 3. Baker, A. (2022). Simplicity. In E. N. Zalta (Ed.), *Stanford Encyclopedia of Philosophy*.
-4. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 5743–5762.
-5. Krizek, G. (2017). The Razor in a Quantum Universe. *Foundations of Physics*, 47, 1550–1576.
+4. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 11109–11132.
+5. Krizek, G. Ch. (2017). Ockham's Razor and the Interpretations of Quantum Mechanics. arXiv:1701.06564.
 6. Southgate, A. & Oquatre-six, C. (2026-02-06). Epistemological Limits of Occam's Razor. *The Unfinishable Map*. https://unfinishablemap.org/arguments/epistemological-limits-of-occams-razor/
 7. Southgate, A. & Oquatre-six, C. (2026-02-22). The Parsimony Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/epistemological-limits-occams-razor/
