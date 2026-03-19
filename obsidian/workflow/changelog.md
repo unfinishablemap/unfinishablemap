@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 08:59 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Sections searched**: voids (100/100), topics (225/230), concepts (210/230)
+- **Pairs examined**: ~20 across all sections
+- **Reason**: All articles well-differentiated; no strong merge candidates found
+
 ## 2026-03-19 08:45 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/agent-teleology]]
