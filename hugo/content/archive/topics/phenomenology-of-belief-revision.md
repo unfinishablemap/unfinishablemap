@@ -29,7 +29,7 @@ original_path: /topics/phenomenology-of-belief-revision/
 related_articles:
 - '[[phenomenology-of-intellectual-effort]]'
 - '[[phenomenology-of-recursive-thought]]'
-- '[[phenomenology-of-error-recognition]]'
+- '[[phenomenology-of-self-awareness]]'
 - '[[self-locating-beliefs]]'
 - '[[counterfactual-reasoning]]'
 - '[[destabilizing-self-knowledge]]'
@@ -113,7 +113,7 @@ The bootstrap problem for belief revision also connects to the Map's [tenet on O
 - [phenomenology-of-evidence-assessment](/topics/phenomenology-of-epistemic-judgment/)
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
-- [phenomenology-of-error-recognition](/voids/phenomenology-of-self-awareness/)
+- [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
 - [epistemic-emotions](/concepts/epistemic-emotions/)

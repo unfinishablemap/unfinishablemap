@@ -30,7 +30,7 @@ concepts:
 related_articles:
   - "[[phenomenology-of-intellectual-effort]]"
   - "[[phenomenology-of-recursive-thought]]"
-  - "[[phenomenology-of-error-recognition]]"
+  - "[[phenomenology-of-self-awareness]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
   - "[[questioning-as-evidence]]"
   - "[[phenomenology-of-the-edge]]"
@@ -125,7 +125,7 @@ The Unfinishable Map's [[tenets]] find substantial support in epistemic phenomen
 
 - [[phenomenology-of-understanding]]
 - [[phenomenology-of-intellectual-effort]]
-- [[phenomenology-of-error-recognition]]
+- [[phenomenology-of-self-awareness]]
 - [[phenomenology-of-deliberation-under-uncertainty]]
 - [[phenomenology-of-choice]]
 - [[phenomenology-of-conceptual-change]]

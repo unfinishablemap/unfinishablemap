@@ -31,7 +31,7 @@ original_path: /topics/phenomenology-of-surprise-and-prediction-error/
 related_articles:
 - '[[tenets]]'
 - '[[phenomenology-of-understanding]]'
-- '[[phenomenology-of-error-recognition]]'
+- '[[phenomenology-of-self-awareness]]'
 - '[[phenomenology-of-evidence-assessment]]'
 - '[[consciousness-as-amplifier]]'
 - '[[consciousness-as-amplifier]]'
@@ -121,7 +121,7 @@ The phenomenology of surprise and prediction error connects to The Unfinishable 
 - [predictive-processing](/concepts/predictive-processing/) — The computational framework and its limits
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) — The click of successful integration
-- [phenomenology-of-error-recognition](/voids/phenomenology-of-self-awareness/) — How minds catch their own mistakes
+- [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/) — How minds catch their own mistakes
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The "what it's like" quality presupposed by the entire prediction error spectrum
 
 ## References

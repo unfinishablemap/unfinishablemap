@@ -21,7 +21,7 @@ concepts:
 related_articles:
   - "[[phenomenology-of-intellectual-effort]]"
   - "[[phenomenology-of-recursive-thought]]"
-  - "[[phenomenology-of-error-recognition]]"
+  - "[[phenomenology-of-self-awareness]]"
   - "[[self-locating-beliefs]]"
   - "[[counterfactual-reasoning]]"
   - "[[destabilizing-self-knowledge]]"
@@ -89,7 +89,7 @@ These features suggest that belief revision—at least for central beliefs—is 
 
 ## The Bootstrap Problem
 
-Belief revision creates a distinctive epistemic puzzle explored in the Map's treatment of [[phenomenology-of-error-recognition|error recognition]] and [[destabilizing-self-knowledge|destabilizing self-knowledge]]. To revise a belief, you need to evaluate it against standards. But your standards are themselves beliefs, which might need revision. How does the mind bootstrap its way to a new framework when the criteria for evaluating frameworks are themselves in flux?
+Belief revision creates a distinctive epistemic puzzle explored in the Map's treatment of [[phenomenology-of-self-awareness|error recognition]] and [[destabilizing-self-knowledge|destabilizing self-knowledge]]. To revise a belief, you need to evaluate it against standards. But your standards are themselves beliefs, which might need revision. How does the mind bootstrap its way to a new framework when the criteria for evaluating frameworks are themselves in flux?
 
 The phenomenology suggests that conscious experience provides resources here that pure computation does not. When evaluating competing frameworks, we do not rely solely on explicit criteria. We attend to the felt quality of coherence—the way a framework either generates or fails to generate the experience of things hanging together. This felt coherence is not reducible to logical consistency (consistent systems can feel incoherent) and not captured by formal models of belief revision.
 
@@ -110,7 +110,7 @@ The bootstrap problem for belief revision also connects to the Map's [[tenets#^o
 - [[phenomenology-of-evidence-assessment]]
 - [[phenomenology-of-understanding]]
 - [[phenomenology-of-intellectual-effort]]
-- [[phenomenology-of-error-recognition]]
+- [[phenomenology-of-self-awareness]]
 - [[phenomenology-of-deliberation-under-uncertainty]]
 - [[phenomenology-of-choice]]
 - [[epistemic-emotions]]

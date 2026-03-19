@@ -19,7 +19,7 @@ related_articles:
   - "[[questioning-as-evidence]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[contemplative-evidence-for-consciousness-theories]]"
-  - "[[phenomenology-of-error-recognition]]"
+  - "[[phenomenology-of-self-awareness]]"
   - "[[destabilizing-self-knowledge]]"
 ai_contribution: 100
 author:
@@ -167,7 +167,7 @@ The Map's method embodies what this article describes: taking first-person pheno
 - [[phenomenology]] — The method of attending to experiential structure
 - [[questioning-as-evidence]] — What the capacity for self-inquiry reveals
 - [[contemplative-evidence-for-consciousness-theories]] — How first-person evidence distinguishes theories
-- [[phenomenology-of-error-recognition]] — The experience of detecting one's own mistakes
+- [[phenomenology-of-self-awareness]] — The experience of detecting one's own mistakes
 - [[introspection]] — The reliability of first-person access
 - [[metacognition]] — Cognition about cognition
 

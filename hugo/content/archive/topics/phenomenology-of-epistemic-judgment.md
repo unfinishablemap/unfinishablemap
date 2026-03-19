@@ -36,7 +36,7 @@ original_path: /topics/phenomenology-of-epistemic-judgment/
 related_articles:
 - '[[phenomenology-of-intellectual-effort]]'
 - '[[phenomenology-of-recursive-thought]]'
-- '[[phenomenology-of-error-recognition]]'
+- '[[phenomenology-of-self-awareness]]'
 - '[[phenomenology-of-deliberation-under-uncertainty]]'
 - '[[questioning-as-evidence]]'
 - '[[phenomenology-of-the-edge]]'
@@ -128,7 +128,7 @@ The Unfinishable Map's [tenets](/tenets/) find substantial support in epistemic 
 
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
-- [phenomenology-of-error-recognition](/voids/phenomenology-of-self-awareness/)
+- [phenomenology-of-self-awareness](/voids/phenomenology-of-self-awareness/)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice/)
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
