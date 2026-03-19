@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on types of consciousness and AI experience
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/types-of-consciousness-ai-experience-2026-03-07.md. Systematic treatment of anoetic/noetic/autonoetic consciousness types applied to the question of what AI experience might be like. Connects the Map's phenomenal mode framework to contemporary AI discourse. Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-19
-
 ### P2: Write void article on the self-transcendence void
 - **Type**: expand-topic
 - **Status**: pending
@@ -746,6 +739,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Write concept page on types of consciousness and AI experience
+- **Type**: expand-topic
+- **Notes**: Research completed in research/types-of-consciousness-ai-experience-2026-03-07.md. Systematic treatment of anoetic/noetic/autonoetic consciousness types applied to the question of what AI experience might be like. Connects the Map's phenomenal mode framework to contemporary AI discourse. Target section: concepts/.
+- **Output**: Write concept page on types of consciousness and AI experience
 
 ### ✓ 2026-03-19: Write concept page on epiphenomenal AI consciousness
 - **Type**: expand-topic
