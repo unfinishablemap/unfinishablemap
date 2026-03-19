@@ -37,6 +37,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write topics article on the metaproblem of consciousness under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/metaproblem-consciousness-dualism-2026-03-06.md. Chalmers' metaproblem (2018) asks why we think consciousness poses a hard problem. The existing concept page (concepts/meta-problem-of-consciousness.md) covers basics; a deeper topics article should develop the specifically dualist response: interactionism's unique resistance to debunking arguments, the zombie meta-problem, and how consciousness causally contributing to philosophical reasoning undermines purely physical explanations of problem intuitions. Directly supports Tenet 3 (Bidirectional Interaction). Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-19
+
+### P2: Integrate consciousness-physics-interface-formalism.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-03-19 via expand-topic. Concepts article on the mathematical structure of the consciousness-physics interface. Add cross-references from related articles (psychophysical-laws, quantum-consciousness, mind-matter-interface, consciousness-and-the-philosophy-of-mathematics) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
+### P2: Integrate physical-completeness.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-03-19 via expand-topic. Concepts article on physical completeness — the thesis that physics is causally complete. Add cross-references from related articles (causal-closure, mental-causation, conservation-laws-mind-brain-causation, the-epiphenomenalist-threat) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
+### P2: Integrate meta-epistemology-of-limits.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Voids article on the meta-epistemology of cognitive limits, created via coalesce on 2026-03-19. Add cross-references from related voids articles (taxonomy-of-voids, compound-cognitive-limits, epistemic-horizon-void) and concept pages referencing epistemic limits.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
+### P2: Cross-review causal-closure.md considering physical-completeness insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article concepts/physical-completeness.md was created 2026-03-19. The causal-closure article covers the causal closure principle and should cross-reference this new dedicated treatment of physical completeness. Check for opportunities to add [[physical-completeness]] links, reinforce arguments, and ensure terminological consistency between the two articles.
+- **Source**: chain (from physical-completeness.md)
+- **Generated**: 2026-03-19
+
+### P2: Cross-review quantum-consciousness articles considering consciousness-physics-interface-formalism insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article concepts/consciousness-physics-interface-formalism.md was created 2026-03-19. Articles on quantum consciousness mechanisms (comparing-quantum-consciousness-mechanisms.md, quantum-consciousness.md, mind-matter-interface.md) should cross-reference this formal treatment. Check for places to add [[consciousness-physics-interface-formalism]] links and integrate the mathematical framework.
+- **Source**: chain (from consciousness-physics-interface-formalism.md)
+- **Generated**: 2026-03-19
+
+### P2: Condense russellian-monism.md (3830 words, 109% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments (Russellian monism vs the Map's dualism, combination problem, structural realism critique) while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-19
+
 ### P3: Research clinical neuroplasticity evidence for bidirectional mental causation
 - **Type**: research-topic
 - **Status**: pending
