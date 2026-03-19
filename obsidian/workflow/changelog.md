@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 16:57 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Sections searched**: topics (225/230), concepts (210/230)
+- **Pairs evaluated**: 11 candidate pairs across both sections
+- **Reason**: All candidate pairs are well-differentiated with distinct focuses; no significant overlap found
+
 ## 2026-03-19 16:51 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/hard-problem-of-consciousness]]
