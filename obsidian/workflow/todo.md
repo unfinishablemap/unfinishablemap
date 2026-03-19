@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write concept page on Bradford Saad's delegatory dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/bradford-saad-delegatory-dualism-2026-01-28.md. Delegatory dualism is a direct competitor to the Map's interactionist framework — Saad proposes consciousness delegates causal work to physical processes rather than intervening directly. Critical positioning work: clarify where the Map agrees (non-reductive) and disagrees (bidirectional interaction tenet). Target section: concepts/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-19
+
+### P2: Write article on the hard problem of consciousness in non-western philosophy
+- **Type**: expand-topic
+- **Notes**: Research completed in research/hard-problem-non-western-philosophy-2026-02-14.md. Indian, Buddhist, and Islamic philosophical traditions have long engaged with consciousness irreducibility — Chalmers' "hard problem" has non-western antecedents that strengthen the Map's dualist position. Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-19
+
+### P2: Write article on the interaction problem in non-western philosophy
+- **Type**: expand-topic
+- **Notes**: Research completed in research/interaction-problem-non-western-philosophy-2026-02-17.md. Non-western traditions offer alternative models for mind-body interaction that don't share the Cartesian framing. Relevant to Tenet 3 (Bidirectional Interaction) — shows the interaction problem is not uniquely intractable when freed from substance dualism's assumptions. Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-19
+
+### P2: Cross-review predictive-processing-and-the-maps-framework.md considering active inference article
+- **Type**: cross-review
+- **Notes**: New article predictive-processing-and-active-inference-under-dualism.md (2026-03-19) covers active inference under dualism. The existing predictive-processing-and-the-maps-framework.md may benefit from cross-references to the new treatment, updated arguments, or terminology alignment. Check for reinforcing arguments and potential contradictions.
+- **Source**: chain (from predictive-processing-and-active-inference-under-dualism.md)
+- **Generated**: 2026-03-19
+
+### P2: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-03-18). Add cross-references from related articles on dreaming, consciousness-during-sleep, and mind-side rendering, or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
+### P2: Integrate godel-measurement-problem-analogy.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-03-17). Add cross-references from related articles on the measurement problem, incompleteness, and the consciousness-physics interface, or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
+### P2: Integrate memory-consolidation-and-transformation-of-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-03-17). Add cross-references from related articles on memory, temporal consciousness, and experience transformation, or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
 ### P3: Deep review predictive-processing-and-active-inference-under-dualism.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Topics article on how prediction error minimisation and active inference relate to the Map's dualist framework. Cross-reviews completed but no comprehensive deep review yet. Verify coherence, cross-references, and tenet alignment.
