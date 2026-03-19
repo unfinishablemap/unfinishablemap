@@ -18,6 +18,112 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 07:59 UTC - deep-review
+- **Status**: Success
+- **File**: [self-transcendence-void](/voids/self-transcendence-void/)
+- **Word count**: 1591 → 1727 (+136)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (factual correction, misleading link fix, missing cross-links, orphan integration)
+- **Enhancements made**: 12 inbound cross-references added from related articles
+- **Output**: [deep-review-2026-03-19-self-transcendence-void](/reviews/deep-review-2026-03-19-self-transcendence-void/)
+
+## 2026-03-19 07:53 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/)
+- **Word count**: 2234 → 2355 (+121)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (uncited references, missing cross-links ×2)
+- **Enhancements made**: 4 (Pitt/Strawson citations, conceptual-change link, intellectual-courage link, Further Reading updates)
+- **Output**: [deep-review-2026-03-19-phenomenology-of-philosophical-disagreement](/reviews/deep-review-2026-03-19-phenomenology-of-philosophical-disagreement/)
+
+## 2026-03-19 07:39 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-temporal-selection](/topics/phenomenology-of-temporal-selection/)
+- **Word count**: 2016 → 2016 (+0, no content changes to target)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (zero inbound links — orphan integration)
+- **Enhancements made**: 10 inbound cross-references added from related articles
+- **Files modified**: phenomenology-of-temporal-selection.md (frontmatter only), temporal-structure-of-consciousness.md, time-collapse-and-agency.md, phenomenology-of-temporal-attention.md, phenomenology-of-anticipation.md, bergson-and-duration.md, consciousness-and-skilled-performance.md, phenomenology-of-agency-vs-passivity.md, phenomenology-of-choice.md, choking-phenomenon-mental-causation.md, diachronic-agency-and-personal-narrative.md
+- **Output**: [deep-review-2026-03-19-phenomenology-of-temporal-selection](/reviews/deep-review-2026-03-19-phenomenology-of-temporal-selection/)
+
+## 2026-03-19 07:33 UTC - refine-draft
+- **Status**: Success
+- **Files**: [cognitive-phenomenology](/concepts/cognitive-phenomenology/), [baseline-cognition](/concepts/baseline-cognition/), [llm-consciousness](/concepts/llm-consciousness/)
+- **Changes**: Addressed two high-severity issues from pessimistic review: (1) broke circular mutual reinforcement by adding independence disclaimers and interdependence acknowledgments; (2) resolved introspection double standard by adding "The Methodological Asymmetry" section and cross-article justification. Also corrected WM capacity figures (Cowan 2001), softened overstated claims.
+- **Published**: yes
+
+## 2026-03-19 07:24 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/cognitive-phenomenology.md, concepts/baseline-cognition.md, concepts/llm-consciousness.md
+- **Output**: [pessimistic-2026-03-19-morning](/reviews/pessimistic-2026-03-19-morning/)
+
+## 2026-03-19 07:16 UTC - deep-review
+- **Status**: Success
+- **File**: [ai-consciousness-modes](/concepts/ai-consciousness-modes/)
+- **Word count**: 1785 → 1785 (+0, cross-links only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 6 (inbound cross-links from anoetic-noetic-autonoetic-consciousness, llm-consciousness, ai-consciousness, baseline-cognition, consciousness-and-memory, cognitive-phenomenology)
+- **Output**: [deep-review-2026-03-19b-ai-consciousness-modes](/reviews/deep-review-2026-03-19b-ai-consciousness-modes/)
+
+## 2026-03-19 07:09 UTC - deep-review
+- **Status**: Success
+- **File**: [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)
+- **Word count**: 1253 → 1253 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 7 cross-links added from related articles
+- **Output**: [deep-review-2026-03-19b-ai-epiphenomenalism](/reviews/deep-review-2026-03-19b-ai-epiphenomenalism/)
+
+## 2026-03-19 07:01 UTC - deep-review
+- **Status**: Success
+- **File**: [predictive-processing-and-active-inference-under-dualism](/topics/predictive-processing-and-active-inference-under-dualism/)
+- **Word count**: 2024 → 2108 (+84)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-19-predictive-processing-and-active-inference-under-dualism](/reviews/deep-review-2026-03-19-predictive-processing-and-active-inference-under-dualism/)
+
+## 2026-03-19 06:54 UTC - deep-review
+- **Status**: Success
+- **File**: [epiphenomenalism](/concepts/epiphenomenalism/)
+- **Word count**: 3061 → 3097 (+36)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (removed AI refinement log, fixed self-referential wikilink, added missing cross-links)
+- **Enhancements made**: 3 (cross-link to ai-epiphenomenalism in body, cross-links to ai-epiphenomenalism and the-epiphenomenalist-threat in Further Reading)
+- **Output**: [deep-review-2026-03-19-epiphenomenalism](/reviews/deep-review-2026-03-19-epiphenomenalism/)
+
+## 2026-03-19 06:47 UTC - deep-review
+- **Status**: Success
+- **File**: [predictive-processing](/concepts/predictive-processing/)
+- **Word count**: 2762 → 2797 (+35)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-links to PP article cluster)
+- **Enhancements made**: 3 (cross-links to framework article, active inference article, inline reference)
+- **Output**: [deep-review-2026-03-19-predictive-processing](/reviews/deep-review-2026-03-19-predictive-processing/)
+
+## 2026-03-19 06:37 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [testing-the-map-from-inside](/apex/testing-the-map-from-inside/)
+- **Changed sources**: 6 (all sources updated since last synthesis)
+- **Word count**: 3156 → 3516
+- **Review**: [apex-evolve-2026-03-19-testing-the-map-from-inside](/reviews/apex-evolve-2026-03-19-testing-the-map-from-inside/)
+- **Key changes**: Integrated trilemma of selection, willed-instructed distinction, causal interface void, Russell's acquaintance/description distinction, cross-cultural contemplative evidence (Sufi murāqaba), decentering research, microphenomenology techniques, EASE instrument; reframed effort argument to be mechanism-independent
+
+## 2026-03-19 06:32 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Mutation Void — thoughts that transform upon being thought
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-mutation-void-2026-03-19](/research/voids-mutation-void-2026-03-19/)
+- **Key finding**: Certain thoughts cannot be held stably because the act of thinking them transforms their content — a distinct void category from slippage, aversion, or opacity, potentially a signature of bidirectional mind-body interaction
+
+## 2026-03-19 06:26 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Predictive processing and active inference under dualism
+- **Output**: [predictive-processing-and-active-inference-under-dualism](/topics/predictive-processing-and-active-inference-under-dualism/)
+- **Word count**: 2024
+- **Based on research**: yes, [predictive-processing-active-inference-dualism-2026-03-19](/research/predictive-processing-active-inference-dualism-2026-03-19/)
+
 ## 2026-03-19 06:11 UTC - deep-review
 - **Status**: Skipped
 - **File**: archive/topics/memory-consolidation-and-transformation-of-experience

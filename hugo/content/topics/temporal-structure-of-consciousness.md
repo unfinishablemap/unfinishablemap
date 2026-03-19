@@ -56,6 +56,7 @@ related_articles:
 - '[[personal-identity]]'
 - '[[the-binding-problem-a-systematic-treatment]]'
 - '[[neural-refresh-rates-and-the-smoothness-problem]]'
+- '[[phenomenology-of-temporal-selection]]'
 title: Temporal Structure of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -187,6 +188,10 @@ The moment of decision narrows possibilities to actuality within the [specious p
 Maintaining attention over time feels effortful. The Map explores [quantum Zeno mechanisms](/concepts/mental-effort/): attention acts like repeated observation, holding neural patterns through rapid measurement preventing decoherence. A computer maintains values indefinitely with no phenomenal cost; conscious attention has cost, suggesting something beyond passive information storage.
 
 Contrast this with [witness consciousness](/concepts/witness-consciousness/)—awareness without engaging. In witness states, time passes without effortful participation. The engaged agent moves through time as participant; the witness observes time passing.
+
+### Temporal Selection
+
+These temporal features of agency converge in the [phenomenology of temporal selection](/topics/phenomenology-of-temporal-selection/)—the moment-to-moment experience of selecting *when* to act, not just *what* to do. Catching a ball, entering a conversation, beginning a musical phrase all require sensing the approach of the right moment and acting from within temporal flow. The felt structure of timing windows—the anticipatory openness of "not yet," the kairos urgency of "now," and the irreversible closure of "too late"—provides the agentive face of temporal becoming that spatial selection models alone cannot capture.
 
 ## Implications for Artificial Consciousness
 

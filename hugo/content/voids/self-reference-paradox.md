@@ -142,6 +142,7 @@ The self-reference paradox may be the prototype void: territory consciousness st
 - [Witness Consciousness](/concepts/witness-consciousness/) — The observer mode in contemplative traditions
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
 - [The Calibration Void](/voids/measurement-void/) — Why introspection cannot verify its own reliability
+- [The Self-Transcendence Void](/voids/self-transcendence-void/) — Can consciousness upgrade the architecture that constrains it?
 - [The Constitutive Exclusion](/topics/constitutive-exclusion/) — The broader structural limit of which self-reference is a special case
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — How individual cognitive limits interact superadditively
 

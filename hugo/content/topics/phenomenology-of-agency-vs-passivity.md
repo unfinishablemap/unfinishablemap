@@ -37,6 +37,7 @@ related_articles:
 - '[[choking-phenomenon-mental-causation]]'
 - '[[phenomenology-of-consciousness-doing-work]]'
 - '[[ownership-void]]'
+- '[[phenomenology-of-temporal-selection]]'
 title: Phenomenology of Agency vs Passivity
 topics:
 - '[[topics/free-will]]'
@@ -119,7 +120,7 @@ The [illusionist](/concepts/illusionism/) holds that the phenomenal contrast bet
 
 ### For the Selection Framework
 
-The agency-passivity axis maps naturally onto the Map's [selection framework](/concepts/attention-as-interface/). At the agentic pole, consciousness actively selects among options the brain presents—biasing quantum indeterminacies through the [quantum Zeno mechanism](/concepts/mental-effort/). At the passive pole, consciousness observes without selecting, allowing neural processes to unfold according to their own dynamics. The spectrum between reflects degrees of conscious engagement with the physical interface.
+The agency-passivity axis maps naturally onto the Map's [selection framework](/concepts/attention-as-interface/). At the agentic pole, consciousness actively selects among options the brain presents—biasing quantum indeterminacies through the [quantum Zeno mechanism](/concepts/mental-effort/). At the passive pole, consciousness observes without selecting, allowing neural processes to unfold according to their own dynamics. The spectrum between reflects degrees of conscious engagement with the physical interface. Agency operates not only along the spatial axis—selecting *which* action—but along the temporal axis: the [phenomenology of temporal selection](/topics/phenomenology-of-temporal-selection/) reveals that selecting *when* to act carries its own distinctive effort and authorship, from the anticipatory readiness of "not yet" through the committed urgency of the kairos moment.
 
 The [witness mode](/concepts/witness-consciousness/) in meditation demonstrates that consciousness can deliberately adopt the passive pole—observing without intervening. This is not unconsciousness but consciousness choosing not to choose. The capacity to move along the agency-passivity axis at will is itself an exercise of agency at a higher level.
 

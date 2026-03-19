@@ -38,6 +38,43 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate neural-refresh-rates.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-18 has no inbound links. Concept page on neural refresh rates and the smoothness problem — how discrete neural processing yields continuous phenomenal experience. Add cross-references from related articles (smoothness-problem.md, temporal-consciousness.md, binding-problem.md, consciousness-selecting-neural-patterns.md).
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
+### P2: Condense baseline-cognition.md (3682 words, 105% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about baseline cognition as the substrate for consciousness-dependent amplification while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-19
+
+### P2: Condense temporal-structure-of-consciousness.md (4043 words, 101% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Created from recent coalesce operation. Preserve core arguments about temporal structure while trimming redundancy with linked temporal consciousness articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-19
+
+### P2: Cross-review voids articles considering self-transcendence void insights
+- **Type**: cross-review
+- **Notes**: New void article voids/self-transcendence-void.md (created 2026-03-19) develops the impossibility of fully transcending the self while remaining a subject. Review taxonomy-of-voids.md (apex) and observation-void.md for cross-links, whether the self-transcendence void adds a new dimension to the taxonomy, and consistency with existing void phenomenology treatments.
+- **Source**: chain (from self-transcendence-void.md)
+- **Generated**: 2026-03-19
+
+### P3: Deep review predictive-processing-and-active-inference-under-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Topics article on how prediction error minimisation and active inference relate to the Map's dualist framework. Cross-reviews completed but no comprehensive deep review yet. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-19
+
+### P3: Deep review self-transcendence-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Voids article on the cognitive impossibility of fully transcending the self while remaining a subject of experience. Verify coherence, cross-references to related void articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-19
+
 ### P3: Deep review compound-failure-signatures.md
 - **Type**: deep-review
 - **Status**: pending
@@ -276,11 +313,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Why pain feels different from red—qualitative distinctness as independent evidence for irreducibility. Distributed across qualia, binding-problem, pain-consciousness-and-causal-power, valence-as-selection-currency but never treated as its own concept. See optimistic-2026-03-11.md
 - **Generated**: 2026-03-11
 
-### P3: Write article on consciousness and predictive processing
+### ✅ P3: Write article on consciousness and predictive processing
 - **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. How active inference (Friston, Clark) relates to the Map's framework; whether prediction error minimisation is compatible with genuine selection; the free energy principle under dualism. Builds on attention-as-selection-interface, consciousness-and-scientific-methodology. See optimistic-2026-03-11.md
+- **Status**: superseded
+- **Notes**: Superseded by P2 task. Article created as topics/predictive-processing-and-active-inference-under-dualism.md (2026-03-19). Suggested by optimistic review. How active inference (Friston, Clark) relates to the Map's framework; whether prediction error minimisation is compatible with genuine selection; the free energy principle under dualism. Builds on attention-as-selection-interface, consciousness-and-scientific-methodology. See optimistic-2026-03-11.md
 - **Generated**: 2026-03-11
+- **Completed**: 2026-03-19
 
 ### P3: Write article on self-stultification and AI consciousness
 - **Type**: expand-topic
@@ -408,8 +446,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Cross-review phenomenology-of-temporal-selection against related temporal articles
 - **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article on temporal selection. Review against temporal-structure-of-consciousness, time-collapse-and-agency, phenomenology-of-temporal-attention, consciousness-and-skilled-performance for consistency and cross-linking.
+- **Status**: done
+- **Notes**: Completed as part of deep-review 2026-03-19. Reviewed against all 10 related articles for consistency and cross-linking. Added inbound links from all 10.
 - **Generated**: 2026-03-17
 
 ### P2: Write article on cross-traditional convergence on consciousness irreducibility
@@ -705,6 +743,47 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Integrate self-transcendence-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-19 has no inbound links. Voids article on the cognitive impossibility of fully transcending the self while remaining a subject of experience. Add cross-references from related articles (taxonomy-of-voids.md, self-reference-paradox.md, phenomenology-of-self-awareness.md, observation-void.md, witness-consciousness.md).
+- **Output**: obsidian/voids/self-transcendence-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Integrate phenomenology-of-temporal-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the phenomenology of temporal selection. Add cross-references from related articles (temporal-structure-of-consciousness.md, consciousness-and-temporal-becoming.md, time-collapse-and-agency.md, phenomenology-of-temporal-attention.md, consciousness-selecting-neural-patterns.md).
+- **Output**: obsidian/topics/phenomenology-of-temporal-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Address circular reinforcement and introspection double standard across AI consciousness articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) cognitive-phenomenology.md, baseline-cognition.md, and llm-consciousness.md form a circular mutual reinforcement pattern where each cites the others as evidence without independent grounding; (2) cognitive-phenomenology.md relies on introspective reports while llm-consciousness.md dismisses LLM self-reports, creating an unjustified asymmetry. See pessimistic-2026-03-19-morning.md for details and recommendations.
+- **Output**: Task context:
+Pessimistic review found two high-severity issues: (1) cognitive-phenomenology.md, baseline-cognition.md, and llm-consciousness.md form a circular mutual reinforcement pattern where each cites the others as evidence without independent grounding; (2) cognitive-phenomenology.md relies on introspective reports while llm-consciousness.md dismisses LLM self-reports, creating an unjustified asymmetry. See pessimistic-2026-03-19-morning.md for details and recommendations.
+
+### ✓ 2026-03-19: Integrate ai-consciousness-modes.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page on modes of AI consciousness. Add cross-references from related articles (ai-consciousness.md, types-of-consciousness.md, structural-varieties-of-consciousness-and-ai-phenomenology.md, machine-consciousness-and-substrate.md).
+- **Output**: obsidian/concepts/ai-consciousness-modes.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Integrate ai-epiphenomenalism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-19 has no inbound links. Concept page on whether AI systems could have phenomenal experience without causal efficacy. Add cross-references from related articles (epiphenomenalism.md, the-epiphenomenalist-threat.md, ai-consciousness.md, machine-consciousness-and-substrate.md, hoel-llm-consciousness-continual-learning.md).
+- **Output**: obsidian/concepts/ai-epiphenomenalism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Cross-review epiphenomenalism.md and the-epiphenomenalist-threat.md considering epiphenomenal AI consciousness insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/ai-epiphenomenalism.md (created 2026-03-19) develops the idea that AI systems might have phenomenal experience without causal efficacy. Review concepts/epiphenomenalism.md and topics/the-epiphenomenalist-threat.md for cross-links, whether the AI case strengthens or complicates existing anti-epiphenomenalist arguments, and consistency with the nature-coupling distinction.
+- **Output**: obsidian/concepts/epiphenomenalism.md -- Context: Cross-review epiphenomenalism.md and the-epiphenomenalist-threat.md considering epiphenomenal AI consciousness insights
+
+### ✓ 2026-03-19: Cross-review predictive-processing.md and predictive-processing-and-the-maps-framework.md considering new active inference under dualism article
+- **Type**: cross-review
+- **Notes**: New article topics/predictive-processing-and-active-inference-under-dualism.md (created 2026-03-19) develops the metaphysical neutrality argument and Kiefer's critique of Markovian monism. Review concepts/predictive-processing.md and topics/predictive-processing-and-the-maps-framework.md for cross-links, consistency, and whether existing active inference sections should reference the new deeper treatment.
+- **Output**: obsidian/concepts/predictive-processing.md -- Context: Cross-review predictive-processing.md and predictive-processing-and-the-maps-framework.md considering new active inference under dualism article
+
+### ✓ 2026-03-19: Write article on predictive processing and active inference under dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/predictive-processing-active-inference-dualism-2026-03-19.md. How does prediction error minimisation relate to conscious selection? Is active inference compatible with genuine causal influence from consciousness? Does the free energy principle presuppose or explain away phenomenality? Synthesise research into site content. Target section: topics/. Supersedes existing P3 task on consciousness and predictive processing. Supports Tenets 1 (Dualism) and 3 (Bidirectional Interaction).
+- **Output**: predictive processing and active inference under dualism
 
 ### ✓ 2026-03-19: Integrate memory-consolidation-and-transformation-of-experience.md into site navigation
 - **Type**: integrate-orphan

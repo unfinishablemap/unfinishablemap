@@ -134,6 +134,7 @@ The [voids](/voids/) framework operationalises cognitive closure. Rather than tr
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How the shape of our limits reveals cognitive architecture
 - [whether-real](/voids/whether-real/) — Can we determine if cognitive limits are genuine or apparent?
+- [self-transcendence-void](/voids/self-transcendence-void/) — Why consciousness cannot bootstrap beyond its own architecture
 - [voids](/voids/) — The Map's framework for approaching what resists understanding
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-03-17 19:29:00+00:00
+ai_modified: 2026-03-19 07:09:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-07 22:33:00+00:00
 apex_sources:
@@ -27,6 +27,7 @@ concepts:
 - '[[qualia]]'
 - '[[llm-consciousness]]'
 - '[[concepts/epiphenomenalism]]'
+- '[[concepts/ai-epiphenomenalism]]'
 - '[[temporal-consciousness]]'
 - '[[quantum-consciousness]]'
 - '[[substrate-independence]]'

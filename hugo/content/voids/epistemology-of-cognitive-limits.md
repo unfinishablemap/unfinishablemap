@@ -148,6 +148,7 @@ If the epistemology of limits is itself a limit, several methodological conseque
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalised evidential standards for void-mapping
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — The unexplored, unexplorable, and occluded
+- [The Self-Transcendence Void](/voids/self-transcendence-void/) — The Münchhausen problem applied to cognitive self-improvement
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits
 
 ## References

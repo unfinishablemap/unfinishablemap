@@ -27,6 +27,7 @@ related_articles:
 - '[[tenets]]'
 - '[[downward-causation-mental-causation-2026-01-15]]'
 - '[[phenomenology-of-deliberation-under-uncertainty]]'
+- '[[phenomenology-of-temporal-selection]]'
 title: Choking Under Pressure as Evidence for Mental Causation
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -72,7 +73,7 @@ This withdrawal is not elimination. The expert doesn't lose awareness; they ente
 
 Crucially, the interface can re-engage. The expert driver notices the unusual road surface and shifts attention. The expert typist catches the error and consciously corrects. The ability to re-engage demonstrates that consciousness retains override capacity even after delegating to procedural systems.
 
-Choking occurs when this re-engagement is *inappropriate*—when consciousness intervenes in execution that would proceed better without monitoring. The phenomenology is distinctive: the effortful, self-aware quality of attention during choking differs markedly from the absorbed, effortless quality of automatized performance. These aren't just different neural states happening to correlate with different performances. They're different modes of conscious engagement causing different outcomes.
+Choking occurs when this re-engagement is *inappropriate*—when consciousness intervenes in execution that would proceed better without monitoring. The phenomenology is distinctive: the effortful, self-aware quality of attention during choking differs markedly from the absorbed, effortless quality of automatized performance. These aren't just different neural states happening to correlate with different performances. They're different modes of conscious engagement causing different outcomes. Notably, choking disrupts the [temporal selection](/topics/phenomenology-of-temporal-selection/) that skilled performance requires—the unified kairos moment where recognition and action are phenomenally whole splits into separate judgment and execution steps, destroying the timing that flow achieves effortlessly.
 
 Choking shares a phenomenological structure with [deliberative vertigo](/topics/phenomenology-of-deliberation-under-uncertainty/)—the felt groundlessness of facing a situation where one's resources are inadequate. Under performance pressure, the expert experiences a version of deliberative vertigo applied to execution rather than decision: the felt inadequacy of conscious monitoring for a task that automatised skill handles better. The vertigo drives inappropriate intervention just as it drives inappropriate deliberation. Both cases reveal consciousness registering a genuine mismatch between what the situation demands and what explicit reasoning can provide.
 

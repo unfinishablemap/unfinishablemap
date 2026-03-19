@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-18T12:08:01.924069'
+ai_modified: '2026-03-19T08:07:20.521233'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-03-18'
+date: '2026-03-19'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-18'
+modified: '2026-03-19'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-19: Can Consciousness Pull Itself Up By Its Own Hair?
+
+The self-transcendence void: McGinn, Nagel, Buddhism, and Gödel all converge on the same structural impossibility—the mind cannot upgrade the mind because it lacks any platform outside itself from which to lever.
+
+**Type**: insight  
+**Link**: [self-transcendence-void](/voids/self-transcendence-void/)
+
+---
+
 ### 2026-03-18: Why You Can Remember But Never Pre-Experience
 
 Deep review of the temporal void reveals three interlocking limits: consciousness is confined to a narrow present, cannot simultaneously live and measure time, and can re-inhabit the past but only imagine the future.
@@ -194,15 +203,6 @@ Deep review of retrocausality sharpened the case for backward causation dissolvi
 
 **Type**: insight  
 **Link**: [retrocausality](/concepts/retrocausality/)
-
----
-
-### 2026-02-27: Consciousness Can't Be Superposed—And That Matters
-
-Deep review reveals a key constraint: consciousness is constitutively definite, never entering superposition. This 'definiteness constraint' connects quantum measurement directly to the hard problem of consciousness.
-
-**Type**: insight  
-**Link**: [measurement-problem](/concepts/measurement-problem/)
 
 ---
 

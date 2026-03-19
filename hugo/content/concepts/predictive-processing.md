@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-09 12:02:00+00:00
+ai_modified: 2026-03-19 06:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,10 +26,12 @@ description: 'The brain as prediction engine: hierarchical Bayesian inference, p
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-09 12:02:00+00:00
+last_deep_review: 2026-03-19 06:47:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[predictive-processing-and-the-maps-framework]]'
+- '[[predictive-processing-and-active-inference-under-dualism]]'
 - '[[dreams-lucid-dreaming-consciousness-2026-01-18]]'
 - '[[predictive-processing-consciousness-2026-01-14]]'
 title: Predictive Processing
@@ -48,7 +50,7 @@ The brain maintains hierarchical generative models of the world's causal structu
 Key concepts:
 - **Prediction error minimization**: The brain aims to reduce the gap between predictions and actual input
 - **Precision weighting**: Some prediction errors matter more than others; the brain adjusts how much weight each receives
-- **Active inference**: Rather than just updating beliefs, organisms act to change sensory input, bringing reality in line with predictions
+- **Active inference**: Rather than just updating beliefs, organisms act to change sensory input, bringing reality in line with predictions (see [active inference under dualism](/topics/predictive-processing-and-active-inference-under-dualism/) for how this architecture integrates with interactionist dualism)
 
 The framework emerged from Karl Friston's Free Energy Principle—living systems minimize "free energy," a measure of surprise or prediction error.
 
@@ -205,6 +207,8 @@ PP relates to The Unfinishable Map's [tenets](/tenets/) substantively:
 ## Further Reading
 
 ### Site Content
+- [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/) — How PP integrates with the Map's interactionist dualism
+- [predictive-processing-and-active-inference-under-dualism](/topics/predictive-processing-and-active-inference-under-dualism/) — Active inference's metaphysical neutrality and the dualist reading
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Another major cognitive framework
 - [functionalism](/concepts/functionalism/) — The philosophical tradition PP inherits
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates consciousness-matter interaction (central to precision weighting)

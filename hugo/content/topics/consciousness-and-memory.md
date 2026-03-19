@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-03-19 03:42:00+00:00
+ai_modified: 2026-03-19 07:16:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -203,6 +203,7 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [binding-problem](/concepts/binding-problem/)
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
+- [ai-consciousness-modes](/concepts/ai-consciousness-modes/) — The Tulving hierarchy applied as diagnostic tool for AI consciousness
 - [self-and-consciousness](/concepts/self-and-consciousness/) — The minimal self as the perspectival anchor autonoetic consciousness extends across time
 - [personal-identity](/topics/personal-identity/)
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)

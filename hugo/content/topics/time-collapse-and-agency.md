@@ -30,6 +30,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-and-the-ontology-of-temporal-becoming]]'
+- '[[phenomenology-of-temporal-selection]]'
 title: Time, Collapse, and Agency
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -118,6 +119,8 @@ If consciousness is actively constituting temporal structure, the specious prese
 **The [phenomenology of effort](/concepts/mental-effort/)**: Sustaining attention feels costly. Stapp's quantum Zeno mechanism proposes that mental effort prolongs neural patterns through repeated observation. This fits: constitutive activity should be effortful; passive experience need not be.
 
 **Bergson's [durée](/concepts/temporal-consciousness/)**: Time as qualitatively flowing, with the past permeating the present and the future anticipated. If consciousness doesn't merely observe time but constitutes it, this interpenetrating quality makes sense. Each moment isn't a slice but an activity, colored by what it's selecting among.
+
+**[Temporal selection](/topics/phenomenology-of-temporal-selection/)**: The detailed phenomenology of *when* to act—the felt structure of timing windows, the anticipatory openness of "not yet," the kairos moment of "now," and the irreversible closure of "too late"—provides the agentive face of this temporal constitution. The asymmetry between "not yet" and "too late" tracks the ontological asymmetry this framework predicts: the future is open because collapse has not occurred; the past is settled because it has.
 
 **Retrocausal insensitivity**: We don't experience backward causation as strange. The Libet data doesn't feel like our choices precede our awareness. This is because the selection isn't temporal—it determines which temporal ordering becomes real. The neural activity "preceding" awareness is part of the selected transaction, not evidence against conscious causation.
 
