@@ -6,6 +6,11 @@ modified: 2026-02-20
 human_modified:
 ai_modified: 2026-03-13T09:20:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-19T05:26:00+00:00
+superseded_by: "/topics/dualist-perception/"
+archive_reason: "Coalesced into Dualist Perception"
+original_path: "/topics/philosophy-of-perception-under-dualism/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-as-perceptual-architect]]"

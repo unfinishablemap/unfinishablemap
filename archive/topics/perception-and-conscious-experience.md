@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-03-18T14:26:00+00:00
 last_deep_review: 2026-03-18T14:26:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-19T05:26:00+00:00
+superseded_by: "/topics/dualist-perception/"
+archive_reason: "Coalesced into Dualist Perception"
+original_path: "/topics/perception-and-conscious-experience/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[philosophy-of-perception-under-dualism]]"

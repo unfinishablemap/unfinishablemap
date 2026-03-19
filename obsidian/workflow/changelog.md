@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 05:26 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[perception-and-conscious-experience]], [[philosophy-of-perception-under-dualism]]
+- **Target**: [[dualist-perception]]
+- **Archived**: archive/topics/perception-and-conscious-experience.md, archive/topics/philosophy-of-perception-under-dualism.md
+- **References to review**: ~30 active content files
+
 ## 2026-03-19 05:18 UTC - research-topic
 - **Status**: Success
 - **Topic**: Predictive Processing and Active Inference Under Dualism
