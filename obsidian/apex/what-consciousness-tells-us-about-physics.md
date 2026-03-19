@@ -88,7 +88,7 @@ This rules out: Bohmian mechanics, superdeterminism, and any interpretation wher
 
 ### 3. Something Non-Physical Participates in Outcome Selection
 
-From [[tenets#^dualism|Dualism]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]]: the selection is not brute randomness. Consciousness influences which outcome is actualized—but in a way that remains statistically consistent with the Born distribution over ensembles (preserving conservation laws).
+From [[tenets#^dualism|Dualism]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]]: the selection is not brute randomness. Consciousness influences which outcome is actualized—but in a way that remains statistically consistent with the Born distribution over ensembles (preserving [[conservation-laws-and-mental-causation|conservation laws]]).
 
 This means: quantum probabilities describe the *constraint space* within which consciousness operates, not the full causal story. Physics specifies what can happen and with what weight. Something else—consciousness—contributes to what *does* happen.
 

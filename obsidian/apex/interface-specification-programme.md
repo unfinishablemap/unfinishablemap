@@ -50,7 +50,7 @@ The first constraint comes from asking what *kind* of causal powers consciousnes
 
 This power has four specific dimensions. Consciousness selects among action possibilities—biasing which neural pattern wins when multiple patterns compete. It sustains attention, holding selected patterns stable against competing alternatives. It engages in phenomenal biasing—the felt character of experience (the unpleasantness of pain, the pull of desire) contributes to which outcomes are favoured. And it modulates its own intensity—what we experience as trying harder or letting go.
 
-Equally important are the limits. Consciousness operates only at the neural interface, not at a distance. It works within probabilistic bounds, shifting distributions rather than guaranteeing outcomes. It cannot retroactively change past events. And it never injects energy—all causal influence flows through selection among energetically equivalent quantum alternatives.
+Equally important are the limits. Consciousness operates only at the neural interface, not at a distance. It works within probabilistic bounds, shifting distributions rather than guaranteeing outcomes. It cannot retroactively change past events. And it never injects energy—all causal influence flows through [[conservation-laws-and-mental-causation|selection among energetically equivalent quantum alternatives]].
 
 These constraints rule out large classes of possible interfaces and narrow the space of viable specifications. Whatever the formal control law turns out to be, it must accommodate precisely these powers and no others.
 

@@ -60,7 +60,7 @@ This means quantum probability is "second-order" in a precise mathematical sense
 
 ### The Corridor Defined
 
-Together, these three results define the mathematical corridor: consciousness can select among quantum outcomes, but must preserve squared-amplitude statistics at the ensemble level, respect the Hilbert-space inner product, and introduce no higher-order interference. This is not a philosophical preference—it is a constraint from the mathematics itself. The [[the-interface-specification-problem|interface specification problem]] asks what the consciousness-physics mapping looks like; these results constrain what mathematical form any answer can take.
+Together, these three results define the mathematical corridor: consciousness can select among quantum outcomes, but must preserve squared-amplitude statistics at the ensemble level, respect the Hilbert-space inner product, and introduce no higher-order interference. Combined with the [[conservation-laws-and-mental-causation|conservation law analysis]]—which shows that selection among equiprobable outcomes requires no energy transfer—the corridor constrains the interface to a remarkably narrow space. This is not a philosophical preference—it is a constraint from the mathematics itself. The [[the-interface-specification-problem|interface specification problem]] asks what the consciousness-physics mapping looks like; these results constrain what mathematical form any answer can take.
 
 ## Statistical Closure and Outcome-Level Openness
 

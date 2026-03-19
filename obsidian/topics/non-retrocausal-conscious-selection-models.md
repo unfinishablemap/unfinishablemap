@@ -104,7 +104,7 @@ Even granting macroscopic neural superpositions and consciousness's ability to b
 
 **The selection criterion problem.** If consciousness selects among superposed neural states, what determines its "preference"? Where does the selection criterion come from? This is the binding problem for conscious selection — it cannot be answered by the physics of collapse alone.
 
-**Causal closure tension.** Consciousness biasing collapse outcomes still challenges the causal closure of physics, even without retrocausality. The response — quantum indeterminacy leaves room for non-physical influence without violating conservation laws — is well-developed but not universally accepted.
+**Causal closure tension.** Consciousness biasing collapse outcomes still challenges the causal closure of physics, even without retrocausality. The response — quantum indeterminacy leaves room for non-physical influence [[conservation-laws-and-mental-causation|without violating conservation laws]] — is well-developed but not universally accepted.
 
 **The combination problem.** If consciousness modulates collapse in individual microtubules or localised quantum systems, how do individual modulations combine to produce unified conscious selection of macroscopic neural states? This mirrors the [[combination-problem|combination problem]] in panpsychism but arises in a different context.
 

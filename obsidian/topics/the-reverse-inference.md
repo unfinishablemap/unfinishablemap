@@ -67,7 +67,7 @@ When consciousness is taken as a datum and the Map's tenets are accepted as cons
 
 **Collapse must be real.** If consciousness selects among quantum possibilities, the selection must be genuine—one outcome actualized, the rest eliminated. Interpretations where all branches are equally real ([[many-worlds-argument|Many-Worlds]]) or where outcomes are predetermined (Bohmian mechanics) are excluded.
 
-**Physics must be genuinely open at measurement.** The Born rule gives probabilities, not outcomes. No hidden physical variable predetermines the result. The indeterminacy is ontological, not merely epistemic.
+**Physics must be genuinely open at measurement.** The Born rule gives probabilities, not outcomes. No hidden physical variable predetermines the result. The indeterminacy is ontological, not merely epistemic. And consciousness selecting among these open outcomes need not violate [[conservation-laws-and-mental-causation|conservation laws]].
 
 **The Born rule is an interface specification.** [[quantum-probability-consciousness|Born probabilities]] describe the terms on which consciousness meets quantum indeterminacy—the constraint space within which selection operates. The rule specifies the menu, not the order.
 

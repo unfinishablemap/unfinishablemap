@@ -101,7 +101,7 @@ None of these is individually decisive. The deficiency reading remains viable �
 
 **[[tenets#^dualism|Dualism]]**: The disclosure reading makes the measurement problem evidence *for* dualism rather than merely consistent with it. If physics correctly reaches a boundary beyond which lies consciousness, the boundary is an ontological feature of reality — exactly what dualism claims.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Disclosure explains why the interaction is minimal. Consciousness operates at the boundary physics discloses — within the Born probabilities, not against them. The interaction is invisible from within physics because physics ends where the interaction occurs.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Disclosure explains why the interaction is minimal. Consciousness operates at the boundary physics discloses — within the Born probabilities, [[conservation-laws-and-mental-causation|without violating conservation laws]]. The interaction is invisible from within physics because physics ends where the interaction occurs.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The disclosed boundary is the site of [[interactionist-dualism|interaction]]. Structure presents possibilities; consciousness selects actuality. The disclosure is the point where bidirectional causation occurs.
 
