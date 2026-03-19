@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on Bradford Saad's delegatory dualism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/bradford-saad-delegatory-dualism-2026-01-28.md. Delegatory dualism is a direct competitor to the Map's interactionist framework — Saad proposes consciousness delegates causal work to physical processes rather than intervening directly. Critical positioning work: clarify where the Map agrees (non-reductive) and disagrees (bidirectional interaction tenet). Target section: concepts/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-19
-
 ### P2: Write article on the hard problem of consciousness in non-western philosophy
 - **Type**: expand-topic
 - **Notes**: Research completed in research/hard-problem-non-western-philosophy-2026-02-14.md. Indian, Buddhist, and Islamic philosophical traditions have long engaged with consciousness irreducibility — Chalmers' "hard problem" has non-western antecedents that strengthen the Map's dualist position. Target section: topics/.
@@ -778,6 +772,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Write concept page on Bradford Saad's delegatory dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/bradford-saad-delegatory-dualism-2026-01-28.md. Delegatory dualism is a direct competitor to the Map's interactionist framework — Saad proposes consciousness delegates causal work to physical processes rather than intervening directly. Critical positioning work: clarify where the Map agrees (non-reductive) and disagrees (bidirectional interaction tenet). Target section: concepts/.
+- **Output**: Write concept page on Bradford Saad's delegatory dualism
 
 ### ✓ 2026-03-19: Cross-review voids articles considering self-transcendence void insights
 - **Type**: cross-review

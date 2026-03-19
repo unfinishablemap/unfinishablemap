@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 09:14 UTC - expand-topic
+- **Status**: Skipped (already covered)
+- **Topic**: Bradford Saad's delegatory dualism
+- **Reason**: Topic already exists at topics/delegatory-dualism.md (260 lines, comprehensive treatment) and concept page at concepts/causal-delegation.md (114 lines). Slug `delegatory-dualism` collides with existing topic. Task notes incorrectly characterized the theory as having "consciousness delegates causal work to physical processes" — Saad's theory is the reverse (physical states delegate to experiences). Existing articles correctly cover Map positioning and tenet alignment.
+
 ## 2026-03-19 08:59 UTC - coalesce
 - **Status**: Abandoned (no candidates)
 - **Sections searched**: voids (100/100), topics (225/230), concepts (210/230)
