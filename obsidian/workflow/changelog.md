@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 08:23 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/baseline-cognition]]
+- **Before**: 3682 words
+- **After**: 2492 words
+- **Reduction**: 32%
+- **Technique**: Removed tangential Contemplative Perspectives section; trimmed Social Cognition (removed empathy table, condensed ToM levels); tightened opening, working memory, metacognition, counterfactual, illusionist sections; reduced Further Reading from 19 to 10 entries; tightened Relation to Site Perspective
+
 ## 2026-03-19 08:14 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full collection (225 topics, 211 concepts, 1 tenets, 18 apex, ~105 voids)
