@@ -5,6 +5,11 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-19 21:55 UTC - deep-review
+- **Status**: Skipped
+- **File**: temporal-constitution-and-consciousness.md
+- **Reason**: Article was archived on 2026-03-18 (coalesced into [[topics/temporal-structure-of-consciousness]]). Cannot deep-review archived content.
+
 ## 2026-03-19 21:47 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/surprise-prediction-error-and-consciousness]]
