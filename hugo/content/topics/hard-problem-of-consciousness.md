@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-03-19 11:32:00+00:00
+ai_modified: 2026-03-19 13:53:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -55,7 +55,7 @@ description: Why is there something it is like to be conscious? Physical descrip
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 11:32:00+00:00
+last_deep_review: 2026-03-19 13:53:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -187,11 +187,11 @@ Chalmers proposes that consciousness requires new *fundamental laws*—psychophy
 
 ### Russellian Monism
 
-[Russellian monism](/concepts/russellian-monism/) proposes consciousness as the intrinsic nature behind physics' relational structure. But if electrons have micro-experiences, how do billions combine into unified consciousness? The required "grounding laws" are no simpler than dualism's psychophysical laws. See [russellian-monism](/concepts/russellian-monism/) for detailed treatment.
+[Russellian monism](/concepts/russellian-monism/) proposes consciousness as the intrinsic nature behind physics' relational structure. But if electrons have micro-experiences, how do billions combine into unified consciousness? The required "grounding laws" are no simpler than dualism's psychophysical laws.
 
 ### Analytic Idealism
 
-[Analytic idealism](/concepts/idealism/) dissolves the hard problem by making consciousness the sole ontological primitive—matter is how consciousness appears to itself. But this trades one problem for another: why does "appearance" follow regular laws? The Map maintains physical reality exists distinctly from consciousness. See [idealism](/concepts/idealism/) and [the mind-centric metaphysics survey](/topics/analytic-idealism-and-mind-centric-metaphysics/) for detailed treatment.
+[Analytic idealism](/concepts/idealism/) dissolves the hard problem by making consciousness the sole ontological primitive—matter is how consciousness appears to itself. But this trades one problem for another: why does "appearance" follow regular laws? The Map maintains physical reality exists distinctly from consciousness.
 
 ### The Combination Problem
 
@@ -214,7 +214,7 @@ This supports the Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet
 
 ## What Would Challenge This View?
 
-The claim that the hard problem is genuine would be challenged by: (1) successful reduction—deriving felt quality from neural descriptions explanatorily, not merely correlationally; (2) predictive functionalism—reliably predicting which computations yield which qualia and explaining *why*; (3) illusionism without regress—explaining the "illusion" of phenomenal consciousness without generating a new meta-level gap; (4) confirmed substrate independence—demonstrating phenomenal experience in silicon (though verification would face its own hard problem). Their persistent non-occurrence over decades provides inductive support for the gap's reality.
+The claim that the hard problem is genuine would be challenged by: (1) successful reduction—deriving felt quality from neural descriptions explanatorily, not merely correlationally; (2) predictive functionalism—reliably predicting which computations yield which qualia and explaining *why*; (3) illusionism without regress—explaining the "illusion" of phenomenal consciousness without generating a new meta-level gap; (4) confirmed substrate independence—demonstrating phenomenal experience in silicon (though verification would face its own hard problem); (5) framework-dependence—showing that the problem arises only under specific ontological assumptions, as [Chinese philosophical traditions](/topics/the-hard-problem-in-non-western-philosophy/) suggest by never generating the gap within their holistic ontology. The persistent non-occurrence of (1)–(4) over decades provides inductive support for the gap's reality, though (5) remains a live conceptual challenge.
 
 ## Why This Matters
 

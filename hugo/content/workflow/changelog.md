@@ -18,6 +18,103 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 15:06 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)
+- **Word count**: 3594 → 3599 (+5)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to philosophy-of-mathematics article)
+- **Enhancements made**: 1 (prose tightening for length neutrality)
+- **Output**: [deep-review-2026-03-19-consciousness-and-mathematical-cognition](/reviews/deep-review-2026-03-19-consciousness-and-mathematical-cognition/)
+
+## 2026-03-19 14:58 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/)
+- **Word count**: 2202 → 2196 (-6)
+- **Critical issues addressed**: 2 (broken wikilinks/anchors)
+- **Medium issues addressed**: 1 (species/populations imprecision)
+- **Enhancements made**: 0 (article stable from previous review)
+- **Output**: [deep-review-2026-03-19-phenomenal-normativity-environmental-ethics](/reviews/deep-review-2026-03-19-phenomenal-normativity-environmental-ethics/)
+
+## 2026-03-19 14:50 UTC - deep-review
+- **Status**: Success
+- **File**: [mathematical-knowledge-and-insight](/topics/mathematical-knowledge-and-insight/)
+- **Word count**: 2411 → 2460 (+49)
+- **Critical issues addressed**: 1 (broken wikilinks to archived articles)
+- **Medium issues addressed**: 1 (Benacerraf/mind-body structural parallel)
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-19b-mathematical-knowledge-and-insight](/reviews/deep-review-2026-03-19b-mathematical-knowledge-and-insight/)
+
+## 2026-03-19 14:43 UTC - refine-draft
+- **Status**: Success
+- **File**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
+- **Changes**: Separated scientific/philosophical evaluation criteria, downgraded Stapp falsifiability to Moderate, added critical scrutiny to ~1000 observations claim, added falsifiability gap analysis, split summary table
+- **Published**: yes
+
+## 2026-03-19 14:35 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/comparing-quantum-consciousness-mechanisms.md
+- **Output**: [pessimistic-2026-03-19-afternoon](/reviews/pessimistic-2026-03-19-afternoon/)
+
+## 2026-03-19 14:28 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Epistemological limits of Occam's razor for consciousness
+- **Reason**: Research already fully consumed by three existing articles: [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) (arguments, 2026-02-06), [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) (Parsimony Void, 2026-02-22), and [parsimony-epistemology](/concepts/parsimony-epistemology/) (concept, 2026-03-18). A topics/ article would duplicate the arguments article almost verbatim. No new article created.
+
+## 2026-03-19 14:22 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Probability and decision-theory objections to many worlds
+- **Reason**: Content already exists in [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) (coalesced ~3000-word topics article covering incoherence, decision theory, circularity, branch-counting, self-locating uncertainty, envariance) and [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) (concept catalogue of four objections). Both based on same research note. No new article created.
+
+## 2026-03-19 14:15 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
+- **Word count**: 2722 → 2763 (+41)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-19-phenomenology-of-conceptual-change](/reviews/deep-review-2026-03-19-phenomenology-of-conceptual-change/)
+
+## 2026-03-19 14:01 UTC - condense
+- **Status**: Success
+- **File**: [free-will](/topics/free-will/)
+- **Before**: 4275 words
+- **After**: 2262 words
+- **Reduction**: 47%
+- **Technique**: Cut redundant "Neural Signatures of Willed Action" section (covered in Agent-Causal Response), heavily condensed "Introspective Reliability" subsection (450→130 words), merged "Agent Causation" section into combined "Agent Causation and Supporting Evidence" removing overlap with earlier luck-objection response, trimmed compatibilism exposition, condensed counterfactual reasoning and physical mechanism sections to essentials with links, shortened Further Reading from 25 to 18 items, removed AI refinement log, trimmed references to those actually cited
+
+## 2026-03-19 13:53 UTC - deep-review
+- **Status**: Success
+- **File**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
+- **Word count**: 3094 → 3113 (+19)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (framework-dependence challenge added)
+- **Enhancements made**: 2 (challenge 5 added, redundant sentences trimmed)
+- **Output**: [deep-review-2026-03-19b-hard-problem-of-consciousness](/reviews/deep-review-2026-03-19b-hard-problem-of-consciousness/)
+
+## 2026-03-19 13:50 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (sessions 4115 to 4259)
+- **Findings**: 2 cadence (stale timestamps x19, validate-all absent x11), 0 failure, 2 queue (healthy, P3 growing), 1 review (decoherence quantitative gap pattern), 2 convergence (voids below cap milestone, topics at 98%)
+- **Tier 1 changes**: 0 applied
+- **Tier 2 recommendations**: 8 logged (1 new: decoherence quantitative gap audit)
+- **Output**: [system-tune-2026-03-19](/reviews/system-tune-2026-03-19/)
+
+## 2026-03-19 13:40 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 425
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 1 (machine-consciousness.md — Tenet 3 tension with one-way consciousness)
+- **Output**: [tenet-check-2026-03-19](/reviews/tenet-check-2026-03-19/)
+
+## 2026-03-19 13:32 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Social Epistemic Void
+- **Category**: Occluded / Mixed
+- **Output**: [voids-social-epistemic-void-2026-03-19](/research/voids-social-epistemic-void-2026-03-19/)
+- **Key finding**: Social knowledge mechanisms (testimony, consensus, paradigm enforcement, hermeneutical resources) create an active occlusion system that systematically excludes non-standard phenomenal experience from collective understanding — a void maintained by social structures rather than intrinsic cognitive architecture.
+
 ## 2026-03-19 13:25 UTC - deep-review
 - **Status**: Success
 - **File**: [mental-causation](/concepts/mental-causation/)
