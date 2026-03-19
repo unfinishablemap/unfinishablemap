@@ -4,7 +4,7 @@ description: "The intrinsic, subjective qualities of conscious experience—the 
 created: 2026-01-07
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-03-19T10:05:00+00:00
+ai_modified: 2026-03-19T11:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -137,11 +137,11 @@ The [[concepts/materialism|materialist]] faces a dilemma:
 
 [[illusionism|Illusionism]] argues that qualia do not actually exist—we *seem* to have experiences with intrinsic qualitative properties, but this seeming is misrepresentation. This trades the hard problem for an "illusion problem."
 
-Critics deploy a regress objection: all illusions presuppose experience—to be under an illusion, something must be experiencing it. Frankish responds that "seeming" doesn't require phenomenal properties; the misrepresentation is purely functional. But this relocates rather than dissolves the puzzle: *why* does quasi-phenomenal redness produce representations *as of* redness rather than blueness? The seeming has specific character that needs explaining.
+Frankish's positive account deserves serious engagement. He defines "seeming" in purely functional terms: to *seem* to have phenomenal properties is to be in a state that disposes one to judge, report, and react *as if* one has them. No phenomenal experience of the illusion is required—only functional states generating the relevant judgments. Introspection is just another information-processing system, and its outputs can be wrong like any representational system.
 
-Further, [[philosophical-zombies|zombies]] would have identical quasi-phenomenal properties and misrepresentations—yet we can conceive of beings with all these functional representations who lack the seeming itself. And contemplative practice deepens rather than dissolves phenomenal access, better fitting reality than illusion.
+This is a genuine theoretical option, but it faces a structural problem. If "seeming" is stripped of all experiential character, it risks changing the subject. What makes a functional disposition to judge that one is in pain *a seeming* rather than mere information processing? The word implies a perspective from which things appear a certain way. If Frankish's account retains this experiential dimension, the regress reasserts itself—all illusions presuppose experience. If it eliminates it entirely, the account explains why we produce the *reports* we do, but reports are not the phenomenon that makes the hard problem hard.
 
-Galen Strawson called illusionism "the silliest claim ever made" in philosophy. The existence of experience seems undeniable even if its *contents* might be illusory. See [[illusionism]] for detailed treatment.
+Further, the seeming has specific character that needs explaining: *why* does quasi-phenomenal redness produce representations *as of* redness rather than blueness? And [[philosophical-zombies|zombies]] would have identical quasi-phenomenal properties and misrepresentations—yet we can conceive of beings with all these functional representations who lack the seeming itself. Contemplative practice deepens rather than dissolves phenomenal access, better fitting reality than illusion. See [[illusionism]] for detailed treatment.
 
 ## The Functionalist Challenge
 
@@ -159,7 +159,7 @@ However, Chalmers's "master argument" poses a dilemma: either phenomenal concept
 
 The Map's position would face difficulty if:
 
-1. **Illusionism becomes coherent**—stated without presupposing phenomenal consciousness (currently impossible).
+1. **Illusionism resolves its structural problem**—a purely functional account of "seeming" that explains the specific character of quasi-phenomenal states without quietly presupposing phenomenal consciousness.
 2. **The explanatory gap closes**—neuroscience achieves intelligibility about *why* neural states produce specific qualitative character (not just correlation).
 3. **Inverted qualia prove incoherent**—careful analysis shows functional role necessarily determines qualitative character.
 4. **Zombies prove inconceivable**—coherent conception of physical duplication is shown to entail phenomenal duplication.
@@ -193,9 +193,11 @@ Qualia arguments don't directly establish quantum interaction, but they establis
 
 ### No Many Worlds
 
-Qualia have indexical character: *this* experience of red is mine, not another's. The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects interpretations where all quantum outcomes occur in parallel branches. But if all branches exist, the question "why am I experiencing *this* quale rather than its superposed alternative?" becomes unanswerable—or the answer (all qualia occur somewhere) makes indexical identity meaningless.
+Qualia have indexical character: *this* experience of red is mine, not another's. The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects interpretations where all quantum outcomes occur in parallel branches.
 
-The phenomenology of qualia supports single outcomes. We experience determinate qualities, not superpositions. If consciousness existed in quantum superposition (as MWI implies), we might expect phenomenology to reflect this—perhaps superposed or indefinite qualia. Instead, [[introspection]] uniformly reports singular, determinate qualities. This fits interpretations where consciousness participates in genuine selection.
+MWI with [[decoherence]] does predict definite qualia within each branch—decoherence ensures that observers in any given branch experience determinate qualities, not superpositions. The problem is not physics but identity. If all branches exist equally, then for every quale you experience, a physically identical copy of you experiences a different one. The question "why am I experiencing *this* red rather than a slightly different red?" has no answer—or rather, every answer is realised somewhere. Indexical identity—the fact that *I* am this particular experiencer and not one of my branching counterparts—becomes either meaningless or an unexplained brute fact.
+
+This matters for qualia because their indexical character is central to what makes them philosophically significant. The quale of pain is not just *a* pain occurring somewhere in the multiverse—it is *my* pain, experienced from *this* perspective. If MWI dissolves the distinction between the actualised and the merely possible, it undermines the very indexicality that makes qualia resistant to third-person description. Single-outcome interpretations, where consciousness participates in genuine quantum selection, preserve the determinacy that phenomenology demands.
 
 ### Occam's Razor Has Limits
 
@@ -244,3 +246,15 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*.
 1. Strawson, G. (2006). "Realistic Monism: Why Physicalism Entails Panpsychism." *Journal of Consciousness Studies*, 13(10-11), 3-31.
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-15). The Knowledge Argument (Mary's Room). *The Unfinishable Map*. https://unfinishablemap.org/concepts/knowledge-argument/
+
+<!-- AI REFINEMENT LOG - 2026-03-19
+Changes made:
+- Rewrote illusionism subsection: removed Strawson "silliest claim" quote as near-refutation, replaced with serious engagement with Frankish's positive functional account of "seeming" and its structural problem
+- Rewrote MWI subsection: corrected physics error (MWI with decoherence predicts definite qualia per branch, not superposed qualia), refocused argument on indexical identity
+- Updated "What Would Challenge This View?" item 1 to match new illusionism treatment
+- Driven by pessimistic review findings
+
+Key improvements: intellectual honesty in engaging opponents; physics accuracy in MWI discussion
+
+This log should be removed after human review.
+-->

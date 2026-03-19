@@ -17,6 +17,12 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 11:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [[qualia]]
+- **Changes**: Rewrote illusionism subsection to engage seriously with Frankish's positive account (removed dismissive Strawson quote); corrected MWI physics error and refocused on indexical identity argument; updated challenge conditions
+- **Published**: yes
+
 ## 2026-03-19 11:10 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/free-will]]

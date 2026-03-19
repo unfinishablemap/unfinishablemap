@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Strengthen illusionism engagement and fix MWI physics in qualia.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found: (1) illusionism treatment is too dismissive—Strawson's ridicule quote shouldn't stand as near-refutation; engage seriously with Frankish's positive account. (2) MWI subsection contains a physics error—MWI with decoherence predicts definite qualia per branch, not superposed qualia. Rewrite to focus on indexical identity argument instead. See pessimistic-2026-03-19-midday.md
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review hard-problem-of-consciousness.md considering non-western hard problem insights
 - **Type**: cross-review
 - **Status**: pending
@@ -778,6 +772,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Strengthen illusionism engagement and fix MWI physics in qualia.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) illusionism treatment is too dismissive—Strawson's ridicule quote shouldn't stand as near-refutation; engage seriously with Frankish's positive account. (2) MWI subsection contains a physics error—MWI with decoherence predicts definite qualia per branch, not superposed qualia. Rewrite to focus on indexical identity argument instead. See pessimistic-2026-03-19-midday.md
+- **Output**: obsidian/concepts/qualia.md
+
+Task context:
+Pessimistic review found: (1) illusionism treatment is too dismissive—Strawson's ridicule quote shouldn't stand as near-refutation; engage seriously with Frankish's positive account. (2) MWI subsection contains a physics error—MWI with decoherence predicts definite qualia per branch, not superposed qualia. Rewrite to focus on indexical identity argument instead. See pessimistic-2026-03-19-midday.md
 
 ### ✓ 2026-03-19: Address circularity in free-will.md phenomenology argument
 - **Type**: refine-draft
