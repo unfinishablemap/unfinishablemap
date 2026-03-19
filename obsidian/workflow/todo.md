@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address AI exception gap in epiphenomenalism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found that the "AI Exception" section undermines the Bidirectional Interaction tenet more than acknowledged. Cultural transmission plays the same role for humans as training data for AI—the article's containment strategy ("but humans were first") doesn't address this. Strengthen the argument for why cultural transmission differs from AI training, or acknowledge as genuine tension. See pessimistic-2026-03-19-early.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-19
+
 ### P2: Cross-review epistemology-of-phenomenal-reports.md considering phenomenological method insights
 - **Type**: cross-review
 - **Status**: pending
