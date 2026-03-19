@@ -18,6 +18,49 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 00:22 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Structural varieties of consciousness and AI phenomenology
+- **Output**: [structural-varieties-of-consciousness-and-ai-phenomenology](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/)
+- **Word count**: 2277
+- **Based on research**: yes — [types-of-consciousness-ai-experience-2026-03-07](/research/types-of-consciousness-ai-experience-2026-03-07/)
+
+## 2026-03-19 00:15 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)
+- **Word count**: 2238 → 2286 (+48)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-19-phenomenal-acquaintance](/reviews/deep-review-2026-03-19-phenomenal-acquaintance/)
+
+## 2026-03-18 23:59 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/)
+- **Word count**: 2228 → 2228 (+0, content changes in other files only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration — 8 inbound cross-links added)
+- **Enhancements made**: 8 cross-links from existing articles
+- **Files modified**: phenomenology-of-the-edge, topology-of-cognitive-failure, evolved-cognitive-limits, cognitive-aversion, compound-cognitive-limits, phenomenology-of-self-awareness, mysterianism, introspection
+- **Output**: [deep-review-2026-03-18-phenomenology-of-cognitive-limit-types](/reviews/deep-review-2026-03-18-phenomenology-of-cognitive-limit-types/)
+
+## 2026-03-18 23:52 UTC - deep-review
+- **Status**: Success
+- **File**: [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/)
+- **Word count**: 1954 → 1954 (+0, content changes in other files only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration — 8 inbound cross-links added)
+- **Enhancements made**: 8 cross-links from existing articles
+- **Files modified**: spontaneous-collapse-theories, comparing-quantum-consciousness-mechanisms, amplification-mechanisms-consciousness-physics, prebiotic-collapse, philosophical-stakes-of-spontaneous-collapse, measurement-problem, decoherence-and-macroscopic-superposition, consciousness-and-mathematical-cognition
+- **Output**: [deep-review-2026-03-18-penrose-gravity-induced-collapse-empirical-prospects](/reviews/deep-review-2026-03-18-penrose-gravity-induced-collapse-empirical-prospects/)
+
+## 2026-03-18 23:45 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Self-Transcendence Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-self-transcendence-void-2026-03-18](/research/voids-self-transcendence-void-2026-03-18/)
+- **Key finding**: Convergent evidence from analytic philosophy (McGinn), formal logic (Gödel), neuroscience (neuroplasticity ceilings), and contemplative traditions (Buddhist self-effort paradox) that consciousness cannot bootstrap itself beyond its own cognitive architecture — the instrument of improvement is the thing that needs improving.
+
 ## 2026-03-18 23:37 UTC - deep-review
 - **Status**: Success
 - **File**: [it-from-bit-and-participatory-ontology](/topics/it-from-bit-and-participatory-ontology/)

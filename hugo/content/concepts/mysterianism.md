@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-18 21:14:00+00:00
+ai_modified: 2026-03-18 23:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -46,6 +46,7 @@ related_articles:
 - '[[altered-states-as-void-probes]]'
 - '[[epistemology-of-cognitive-limits]]'
 - '[[epistemological-limits-occams-razor]]'
+- '[[phenomenology-of-cognitive-limit-types]]'
 title: Mysterianism and Cognitive Closure
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -123,7 +124,7 @@ The [mathematical void](/voids/mathematical-void/) illustrates this in practice:
 
 ## The Phenomenology of Cognitive Closure
 
-What does it feel like to approach a cognitive limit? The [voids article on edge-phenomenology](/voids/phenomenology-of-the-edge/) maps this territory. When consciousness approaches limits through contemplative practice, psychedelics, or philosophical inquiry, consistent features appear: ineffability combined with felt knowledge, ego dissolution paired with enhanced clarity.
+What does it feel like to approach a cognitive limit? The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) provides a diagnostic framework: different limits produce different felt qualities, from frustration (architectural limits) through satisfaction (adaptive limits) to illusory comprehension (the deepest adaptive constraints). The [voids article on edge-phenomenology](/voids/phenomenology-of-the-edge/) maps this territory at the experiential level. When consciousness approaches limits through contemplative practice, psychedelics, or philosophical inquiry, consistent features appear: ineffability combined with felt knowledge, ego dissolution paired with enhanced clarity.
 
 Cross-method convergence matters epistemically—these aren't artifacts of particular methods but features of consciousness at its limits. McGinn argues theoretically that certain properties lie beyond our conceptual reach; edge-phenomenology suggests we can *experience* that boundary. The [silence void](/voids/the-silence-void/) represents the limit case: truth accessible only through the cessation of thought constitutes territory permanently outside cognitive mapping. [Altered states research](/voids/altered-states-as-void-probes/) sharpens the question: do extraordinary states *transcend* cognitive closure or merely *approach* it? If they consistently produce the phenomenology of transcendence without yielding communicable insight, this supports McGinn. The [dissolving-insight phenomenon](/voids/thoughts-that-slip-away/) and [cognitive aversion](/voids/cognitive-aversion/) may mark further encounters with representationally closed territory. Cognitive closure has a phenomenology, and that phenomenology is data.
 

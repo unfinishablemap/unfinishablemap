@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-03-18 20:19:00+00:00
+ai_modified: 2026-03-18 23:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -41,6 +41,7 @@ related_articles:
 - '[[observation-void]]'
 - '[[cognitive-closure]]'
 - '[[phenomenology-of-the-edge]]'
+- '[[phenomenology-of-cognitive-limit-types]]'
 title: The Phenomenology of Self-Awareness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -100,7 +101,7 @@ This creates an asymmetry in phenomenal access. We have rich access to *realisin
 
 ## The Phenomenology of Error Recognition
 
-Error recognition has distinctive phenomenal features that connect it to the broader phenomenology of self-reference:
+Error recognition has distinctive phenomenal features that connect it to the broader phenomenology of self-reference. The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) classifies these as signatures of self-referential limits — characterised by epistemic vertigo and the felt inversion where consciousness attempts to take itself as referent:
 
 **Suddenness.** Insights are discrete events, not gradual dawnings—phase changes rather than continuous evolution. Like the oscillation in self-reference, error recognition involves an abrupt shift between incompatible perspectives: from "I am right" to "I was wrong."
 

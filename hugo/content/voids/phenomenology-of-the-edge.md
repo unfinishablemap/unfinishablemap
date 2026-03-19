@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-08 10:29:00+00:00
+ai_modified: 2026-03-18 23:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -31,6 +31,7 @@ related_articles:
 - '[[mind-space-void]]'
 - '[[death-void]]'
 - '[[continuity-void]]'
+- '[[phenomenology-of-cognitive-limit-types]]'
 title: The Phenomenology of the Edge
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -100,7 +101,7 @@ This connects to the distinction between what Uriah Kriegel calls "representatio
 
 The phenomenology of the edge offers several insights for understanding consciousness:
 
-**Cognitive limits have experiential signatures.** We do not simply fail to think certain thoughts. We have distinctive experiences when approaching what we cannot think. The void is not mere absence but has positive phenomenological features. [Cognitive aversion](/voids/cognitive-aversion/) maps these signatures in detail: the slide (attention deflecting), the substitution (replacement thoughts appearing), the glaze (intellectual registration without emotional connection), the discomfort (phenomenological marker of approaching defended content), and the rationalization (justification arriving after flight).
+**Cognitive limits have experiential signatures.** We do not simply fail to think certain thoughts. We have distinctive experiences when approaching what we cannot think. The void is not mere absence but has positive phenomenological features. The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) maps these signatures systematically — frustration, satisfaction, and illusory comprehension form a spectrum of decreasing phenomenological salience, with finer-grained signatures diagnosing which kind of boundary has been reached. [Cognitive aversion](/voids/cognitive-aversion/) maps one cluster of these signatures in detail: the slide (attention deflecting), the substitution (replacement thoughts appearing), the glaze (intellectual registration without emotional connection), the discomfort (phenomenological marker of approaching defended content), and the rationalization (justification arriving after flight).
 
 **Content obscures as much as it reveals.** The edge-clarity paradox suggests that ordinary conceptual processing may actively hide something. When concepts fall away, a different kind of seeing becomes possible—not better or worse, but different. The [filter theory](/concepts/filter-theory/) of consciousness—brain as receiver rather than producer—predicts exactly this: reduce the filtering, and a wider range of experience becomes accessible.
 

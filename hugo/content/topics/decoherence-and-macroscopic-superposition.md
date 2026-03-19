@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-06 10:25:00+00:00
+ai_modified: 2026-03-18 23:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -146,6 +146,7 @@ The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) ga
 - [neural-implementation-specifics](/topics/neural-implementation-specifics/) — How decoherence affects specific neural quantum mechanisms
 - [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) — What consciousness does during quantum superposition
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — Physical mechanisms for objective collapse (GRW, Penrose)
+- [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — Experimental tests of gravity-induced collapse, including nanoparticle interferometry and the MAQRO space mission
 - [free-will](/topics/free-will/) — How quantum indeterminacy relates to agent causation
 - [tenets](/tenets/) — The Map's foundational commitments
 

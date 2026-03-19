@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-17 05:58:00+00:00
+ai_modified: 2026-03-18 23:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -134,7 +134,7 @@ MWI has sophisticated responses. Wallace derives Born probabilities from decisio
 
 ### Objective Collapse Theories (GRW, CSL, Penrose)
 
-The wave function undergoes real, physical collapse according to modified dynamics. GRW and CSL introduce collapse as a random physical process; Penrose links it to gravitational self-energy. See [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) for detailed treatment.
+The wave function undergoes real, physical collapse according to modified dynamics. GRW and CSL introduce collapse as a random physical process; Penrose links it to gravitational self-energy. See [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) for detailed treatment and [Penrose's empirical prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) for the experimental programme testing gravity-induced collapse.
 
 **Relation to site tenets:** These theories solve the [prebiotic collapse problem](/concepts/prebiotic-collapse/): wave functions collapsed for billions of years before consciousness evolved. GRW/CSL provide *baseline* collapse—objective reduction happens whether or not anyone observes. Consciousness then *modulates* this existing process in neural systems rather than initiating collapse universally.
 

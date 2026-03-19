@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-05 06:39:57+00:00
+ai_modified: 2026-03-19 00:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Phenomenal acquaintance—the direct, non-inferential relation betw
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-20 00:06:00+00:00
+last_deep_review: 2026-03-19 00:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -30,6 +30,8 @@ related_articles:
 - '[[modal-structure-of-phenomenal-properties]]'
 - '[[intentionality]]'
 - '[[epistemology-of-introspection]]'
+- '[[phenomenal-transparency]]'
+- '[[acquaintance-void]]'
 title: Phenomenal Acquaintance
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -89,7 +91,7 @@ Higher-order thought theories (Rosenthal, Brown) raise a deeper challenge to the
 
 The acquaintance theorist's reply: higher-order theories face a dilemma of their own. If the higher-order representation is accurate—if it faithfully represents the first-order state's qualitative character—then the qualitative character must be present in the first-order state for the representation to get right. But then acquaintance with qualitative character occurs at the first-order level, and the higher-order representation merely notices it. If instead the higher-order representation *creates* qualitative character that is absent from the first-order state, then consciousness is constituted by a representation misrepresenting its target—an account that struggles to explain why introspective reports track genuine qualities so reliably.
 
-Representationalists raise a different challenge. If introspection is *transparent*—if attending to your experience of red just is attending to the redness of the object—then acquaintance gives access to represented properties of the world, not to intrinsic qualities of experience. The dualist response is that transparency itself presupposes acquaintance: the reason attending to the experience of red feels like attending to redness is that the qualitative character *of the experience* constitutively involves redness. Transparency describes how acquaintance operates, not evidence that it fails to reach [phenomenal qualities](/concepts/phenomenal-consciousness/).
+Representationalists raise a different challenge. If introspection is *transparent*—if attending to your experience of red just is attending to the redness of the object—then acquaintance gives access to represented properties of the world, not to intrinsic qualities of experience. [Phenomenal transparency](/concepts/phenomenal-transparency/) is real as a phenomenological datum: experience does present itself as direct contact with the world. The dualist response is that this transparency itself presupposes acquaintance: the reason attending to the experience of red feels like attending to redness is that the qualitative character *of the experience* constitutively involves redness. Transparency describes how acquaintance operates, not evidence that it fails to reach [phenomenal qualities](/concepts/phenomenal-consciousness/).
 
 A stronger concern emerges from the distinction between phenomenal acquaintance (being directly presented with a quality) and metaphysical characterisation (judging what that quality's ontological status is). Acquaintance with pain positions you to know *what pain is like*. It does not automatically position you to determine whether pain is ontologically reducible to physical processes. The step from "I am acquainted with this quality" to "this quality is non-physical" requires philosophical argument, not mere acquaintance.
 
@@ -113,6 +115,7 @@ A stronger concern emerges from the distinction between phenomenal acquaintance 
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — The structural features of the qualities acquaintance reveals
 - [introspection](/concepts/introspection/) — The reliability debate and the relation between acquaintance and introspective judgement
 - [epistemology-of-introspection](/topics/epistemology-of-introspection/) — The competing models (acquaintance, inner sense, transparency, inferentialism) and the case for sui generis introspective access
+- [acquaintance-void](/voids/acquaintance-void/) — The structural limits on what modes of acquaintance are possible
 
 ## References
 
@@ -122,19 +125,5 @@ A stronger concern emerges from the distinction between phenomenal acquaintance 
 1. Chalmers, D. J. (2006). "Phenomenal Concepts and the Explanatory Gap." In T. Alter & S. Walter (Eds.), *Phenomenal Concepts and Phenomenal Knowledge*. Oxford University Press.
 1. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
 1. Loar, B. (1997). "Phenomenal States (Second Version)." In N. Block et al. (Eds.), *The Nature of Consciousness*. MIT Press.
+1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83(4), 435-450.
 1. Rosenthal, D. M. (2005). *Consciousness and Mind*. Oxford University Press.
-
-<!-- AI REFINEMENT LOG - 2026-02-20
-Changes made:
-1. Opening paragraph now explicitly frames acquaintance's irreducibility as supporting substance dualism, not merely phenomenological realism
-1. New subsection "Loar's Recognitional Concepts and the Non-Reductive Challenge" engages Loar's version of PCS substantively and addresses non-reductive physicalism as the dominant contemporary position
-1. Explains why non-reductive physicalists' acceptance of acquaintance doesn't suffice—the Map's case requires the further ontological step
-1. New paragraphs on higher-order thought theories (Rosenthal, Brown) as challenge to directness, with dualist reply
-1. Dualism tenet section rewritten to make the two-step argument explicit: acquaintance secures the datum, philosophical arguments establish it points beyond the physical
-1. Added Rosenthal reference
-
-Based on pessimistic review (2026-02-20 morning) identifying non-reductive physicalism gap.
-Key improvements: Engages the strongest physicalist positions rather than arguing against straw reductive physicalism.
-
-This log should be removed after human review.
--->

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-05
-ai_modified: 2026-03-17 08:14:00+00:00
+ai_modified: 2026-03-18 23:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -36,6 +36,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[apophatic-cartography]]'
 - '[[phenomenal-transparency]]'
+- '[[phenomenology-of-cognitive-limit-types]]'
 title: Evolved Cognitive Limits
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -101,7 +102,7 @@ The FBT theorem addresses perception, but adaptive limits extend across the full
 
 ## The Phenomenology of Evolved Limits
 
-Adaptive and architectural limits may produce different phenomenological signatures. Architectural limits generate frustration — the experience of trying and failing to think something, documented in the Map's [topology of cognitive failure](/voids/topology-of-cognitive-failure/). Adaptive limits may generate **satisfaction** — the limit feels like completion, not obstruction, so no sense of failure arises.
+Adaptive and architectural limits may produce different phenomenological signatures. The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) maps this systematically: architectural limits generate frustration — the experience of trying and failing to think something, documented in the Map's [topology of cognitive failure](/voids/topology-of-cognitive-failure/). Adaptive limits may generate **satisfaction** — the limit feels like completion, not obstruction, so no sense of failure arises.
 
 This connects to [cognitive-aversion](/voids/cognitive-aversion/): the motivational deflection that steers thought away from certain territories. Adaptive limits produce **motivated disinterest** — the thought seems uninteresting rather than impossible. The cognitive system has learned through evolutionary deep time that this direction leads nowhere productive.
 

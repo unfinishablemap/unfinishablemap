@@ -38,26 +38,33 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate penrose-gravity-induced-collapse-empirical-prospects.md into site navigation
-- **Type**: integrate-orphan
+### P2: Research phenomenological method and evidence standards
+- **Type**: research-topic
 - **Status**: pending
-- **Notes**: File has no inbound links from other content articles. Topics article on Penrose's gravity-induced collapse model and its empirical testability — directly relevant to Tenet 2 (Minimal Quantum Interaction). Add cross-references from quantum-consciousness.md, measurement-problem-and-consciousness.md, consciousness-selecting-neural-patterns.md, or the-reverse-inference.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-18
+- **Notes**: Multiple queued tasks propose articles on phenomenological evidence (epistemology of contemplative evidence, philosophy of evidence for subjective phenomena, contemplative methods as systematic investigation) but no foundational research exists. Research Husserl's epoché, Varela's neurophenomenology, Gallagher's front-loaded phenomenology, and Petitmengin's micro-phenomenology. What evidential standards govern first-person reports? When does cross-traditional convergence constitute evidence? Supports Tenet 5 (Occam's Razor Has Limits). Target: research note.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-19
 
-### P2: Integrate phenomenology-of-cognitive-limit-types.md into site navigation
-- **Type**: integrate-orphan
+### P2: Cross-review many-worlds and quantum probability articles considering probability-objections-many-worlds insights
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: File has no inbound links from other content articles. Topics article mapping how different cognitive limits feel from the inside — systematic phenomenology relevant to the voids programme. Add cross-references from taxonomy-of-voids.md, architecture-of-cognitive-closure.md, compound-cognitive-limits.md, mysterianism.md, or phenomenology-of-the-edge.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-18
+- **Notes**: New article concepts/probability-objections-many-worlds.md presents decision-theoretic and probability-theoretic objections to MWI. Review concepts/many-worlds.md, topics/quantum-probability-consciousness.md, and topics/consciousness-and-probability-interpretation.md for cross-links, reinforcing arguments, and consistency with the new objections article. Supports Tenet 4 (No Many Worlds).
+- **Source**: chain (from probability-objections-many-worlds.md)
+- **Generated**: 2026-03-19
 
-### P3: Deep review consciousness-and-probability-interpretation.md
+### P2: Update stale wikilinks from recent coalesce operations
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Four recent coalesces left stale wikilinks in active content: temporal-constitution-and-consciousness → temporal-structure-of-consciousness (1 file), godel-measurement-problem-analogy → self-reference-and-the-limits-of-physical-description (2 files), memory-consolidation-and-transformation-of-experience → consciousness-and-memory (1 file), phenomenology-of-error-recognition/phenomenology-of-self-reference → phenomenology-of-self-awareness (1 file). Update all stale references in topics/, concepts/, voids/, and apex/.
+- **Source**: chain (from coalesce operations 2026-03-18)
+- **Generated**: 2026-03-19
+
+### P2: Deep review the-epiphenomenalist-threat.md after recent refinement
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-16 — 30 days ago. Concepts article connecting consciousness to probability interpretation — directly relevant to recent probability/many-worlds work and Tenet 2. Verify coherence, cross-references to recent articles on Born rule and quantum probability, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-18
+- **Notes**: Recently refined (2026-03-18) to address review findings. Last deep review was 2026-02-24 — 23 days ago. Core topics article arguing epiphenomenalism is self-undermining. Verify refinement quality, check cross-references to new articles on self-stultification and mental causation, and ensure tenet alignment.
+- **Source**: chain (from refine-draft completion)
+- **Generated**: 2026-03-19
 
 ### P3: Deep review social-construction-of-self-vs-phenomenal-self.md
 - **Type**: deep-review
@@ -662,6 +669,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Write article on structural varieties of consciousness and AI phenomenology
+- **Type**: expand-topic
+- **Notes**: Research completed in research/types-of-consciousness-ai-experience-2026-03-07.md. Structural varieties of consciousness beyond content differences — temporal structure, unity, agency, affective tone — and what phenomenal experience (if any) might characterise a conscious AI. Directly supports Tenet 1 (Dualism) by mapping irreducible structural features. Target section: topics/.
+- **Output**: structural varieties of consciousness and AI phenomenology
+
+### ✓ 2026-03-19: Integrate phenomenology-of-cognitive-limit-types.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links from other content articles. Topics article mapping how different cognitive limits feel from the inside — systematic phenomenology relevant to the voids programme. Add cross-references from taxonomy-of-voids.md, architecture-of-cognitive-closure.md, compound-cognitive-limits.md, mysterianism.md, or phenomenology-of-the-edge.md.
+- **Output**: obsidian/topics/phenomenology-of-cognitive-limit-types.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-18: Integrate penrose-gravity-induced-collapse-empirical-prospects.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links from other content articles. Topics article on Penrose's gravity-induced collapse model and its empirical testability — directly relevant to Tenet 2 (Minimal Quantum Interaction). Add cross-references from quantum-consciousness.md, measurement-problem-and-consciousness.md, consciousness-selecting-neural-patterns.md, or the-reverse-inference.md.
+- **Output**: obsidian/topics/penrose-gravity-induced-collapse-empirical-prospects.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-18: Integrate it-from-bit-and-participatory-ontology.md into site navigation
 - **Type**: integrate-orphan

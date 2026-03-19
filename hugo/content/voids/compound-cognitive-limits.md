@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-03-11 20:01:00+00:00
+ai_modified: 2026-03-18 23:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,6 +27,7 @@ related_articles:
 - '[[convergence-of-the-void-catalogue]]'
 - '[[causal-interface]]'
 - '[[intrinsic-nature-void]]'
+- '[[phenomenology-of-cognitive-limit-types]]'
 title: Compound Cognitive Limits
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -66,7 +67,7 @@ This is the deepest mode. Superadditive interference makes existing blind spots 
 
 ## The Phenomenology of Compound Closure
 
-Individual limits often produce crisp phenomenological signatures. The [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) catalogues these: the tip-of-the-tongue sensation, the moment introspection goes blank, the vertigo of infinite regress. Compound limits produce something different.
+Individual limits often produce crisp phenomenological signatures. The [topology-of-cognitive-failure](/voids/topology-of-cognitive-failure/) catalogues these: the tip-of-the-tongue sensation, the moment introspection goes blank, the vertigo of infinite regress. The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) systematises how each signature maps to its limit origin — frustration for architectural limits, satisfaction for adaptive ones, illusory comprehension for the deepest adaptive constraints. Compound limits produce something different.
 
 **Dissolving grip.** Where a single limit halts thought at a boundary, compound limits pull thought apart. The experience is not of hitting a wall but of the ground giving way in multiple dimensions simultaneously. Try to simultaneously think about the nature of consciousness (self-reference), articulate that thought (language boundary), and assess whether your articulation is adequate (recursion limit). The thought does not stop—it dissipates.
 

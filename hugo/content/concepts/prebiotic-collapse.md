@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-14 20:43:00+00:00
+ai_modified: 2026-03-18 23:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -89,7 +89,7 @@ The cost is the [combination problem](/concepts/combination-problem/): how do mi
 
 Penrose and Hameroff propose inverting the relationship: collapse doesn't require consciousness—consciousness requires collapse. Quantum superpositions are objectively unstable. When mass is superposed in significantly different configurations, gravitational self-energy creates a threshold beyond which the geometry must resolve. This Penrose-Diosi objective reduction happens whether or not anyone observes.
 
-GRW (Ghirardi-Rimini-Weber) theories propose spontaneous localization—random collapses at a rate of approximately 10⁻¹⁶ per second per particle. CSL (Continuous Spontaneous Localization) adds continuous noise that becomes significant for larger systems. These are objective collapse theories—no observers required. See [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) for detailed treatment.
+GRW (Ghirardi-Rimini-Weber) theories propose spontaneous localization—random collapses at a rate of approximately 10⁻¹⁶ per second per particle. CSL (Continuous Spontaneous Localization) adds continuous noise that becomes significant for larger systems. These are objective collapse theories—no observers required. See [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) for detailed treatment, and [Penrose Gravity-Induced Collapse and Empirical Prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) for the current experimental frontier testing these predictions.
 
 Under this view, consciousness doesn't cause collapse; it *emerges from* or *interfaces with* collapse processes. Hameroff suggests "primitive protoconscious feelings may have occurred via Penrose OR in pi electron resonance clouds of micelle-like structures in the prebiotic primordial soup." Collapse came first; consciousness arose in systems where collapse dynamics reached sufficient complexity.
 
@@ -227,6 +227,7 @@ The Map's commitment is to the *framework* (real collapse + consciousness modula
 - [haecceity](/concepts/haecceity/) — Why indexical identity matters for rejecting Many Worlds
 - [combination-problem](/concepts/combination-problem/) — The challenge facing panpsychist responses
 - [many-worlds](/concepts/many-worlds/) — Detailed arguments against the many-worlds interpretation
+- [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — The empirical frontier for gravity-induced collapse: partial falsification and ongoing experiments
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: prebiotic collapse as constraint on deeper theory
 
 ## References

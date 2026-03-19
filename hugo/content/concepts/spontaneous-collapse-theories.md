@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-15 06:11:00+00:00
+ai_modified: 2026-03-18 23:52:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -92,7 +92,7 @@ This model addresses **both** the measurement problem (collapse is real) and the
 
 ## Penrose Objective Reduction (OR)
 
-Roger Penrose proposes that collapse occurs when the spacetime curvature difference between superposed states reaches a threshold: **t = ħ/E_G** (Planck constant divided by gravitational self-energy). Larger mass differences → faster collapse. This grounds collapse in quantum gravity rather than phenomenological parameters.
+Roger Penrose proposes that collapse occurs when the spacetime curvature difference between superposed states reaches a threshold: **t = ħ/E_G** (Planck constant divided by gravitational self-energy). Larger mass differences → faster collapse. This grounds collapse in quantum gravity rather than phenomenological parameters. See [Penrose Gravity-Induced Collapse and Empirical Prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) for the full treatment, including the partial falsification of the parameter-free Diósi-Penrose model and current experimental programmes.
 
 Penrose suggests each OR event is a moment of "proto-conscious" experience—a form of panpsychism where consciousness is ubiquitous at the quantum level. This conflicts with the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet, which requires consciousness to be rare and localized to complex neural systems.
 
@@ -210,6 +210,7 @@ The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or sim
 - [illusionism](/concepts/illusionism/) - the eliminativist challenge this framework must address
 - [mysterianism](/concepts/mysterianism/) - cognitive limits on understanding the consciousness-collapse interface
 - [argument-from-reason](/topics/argument-from-reason/) - why consciousness must be causally efficacious
+- [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — Penrose OR's experimental programme: DP model falsification, nanoparticle interferometry, and the MAQRO space mission
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: spontaneous collapse as baseline within the reverse inference framework
 
 ## References

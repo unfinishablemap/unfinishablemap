@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-03-07 22:39:00+00:00
+ai_modified: 2026-03-18 23:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -30,6 +30,7 @@ related_articles:
 - '[[evolved-cognitive-limits]]'
 - '[[compound-cognitive-limits]]'
 - '[[convergence-of-the-void-catalogue]]'
+- '[[phenomenology-of-cognitive-limit-types]]'
 title: The Topology of Cognitive Failure
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -62,7 +63,7 @@ Different types of cognitive limits produce different phenomenological signature
 | Expressive | Ineffability | Sense of knowing something that cannot be articulated |
 | Meta-cognitive | Vertigo | Destabilizing awareness of the fragility of one's rational position |
 
-Each signature type marks a different relationship between mind and limit. Self-refutation suggests approaching a boundary that cannot be drawn from the inside. Aporia suggests encountering genuine paradox, not merely difficulty. Systematic illusion suggests butting against the pattern-matching basis of cognition itself.
+Each signature type marks a different relationship between mind and limit. The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) extends this taxonomy by mapping each signature to its characteristic felt quality — showing how the *way* failure feels diagnoses the *kind* of limit encountered. Self-refutation suggests approaching a boundary that cannot be drawn from the inside. Aporia suggests encountering genuine paradox, not merely difficulty. Systematic illusion suggests butting against the pattern-matching basis of cognition itself.
 
 These signatures do not always appear in isolation. Where multiple limits overlap, their [compound interaction](/voids/compound-cognitive-limits/) can produce qualitatively different phenomenology—not the sum of individual signatures but emergent failure modes that no single limit predicts.
 

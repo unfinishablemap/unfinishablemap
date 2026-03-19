@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-03-18 18:25:00+00:00
+ai_modified: 2026-03-18 23:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -53,7 +53,7 @@ Penrose and Hameroff propose that [quantum computations occur in microtubules](/
 
 The amplification architecture is the microtubule geometry itself. Thousands of tubulin dimers oscillate coherently, so a quantum effect at the level of individual dimers scales up through the collective dynamics of the microtubule network. Hagan, Tuszynski, and Hameroff (2002) challenged Tegmark's decoherence calculations, arguing his model used incorrect separation distances and inappropriately assumed thermal equilibrium in living systems. Their corrected estimates yielded decoherence times of 10⁻⁵ to 10⁻⁴ seconds—seven orders of magnitude longer.
 
-Anesthetic gases selectively bind tubulin and abolish consciousness, providing indirect evidence that microtubules participate in consciousness. The mechanism is physical, but the selection principle at collapse could be non-physical—fitting the Map's framework where consciousness biases outcomes without injecting energy.
+Anesthetic gases selectively bind tubulin and abolish consciousness, providing indirect evidence that microtubules participate in consciousness. The mechanism is physical, but the selection principle at collapse could be non-physical—fitting the Map's framework where consciousness biases outcomes without injecting energy. For the current experimental status of gravity-induced collapse—including the partial falsification of the parameter-free Diósi-Penrose model—see [Penrose Gravity-Induced Collapse and Empirical Prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/).
 
 ### 2. Quantum Zeno Stabilization
 
