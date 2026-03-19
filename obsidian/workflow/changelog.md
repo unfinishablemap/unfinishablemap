@@ -17,6 +17,27 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 01:16 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/the-epiphenomenalist-threat]]
+- **Word count**: 3154 → 3154 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (broken wikilink, stale comment)
+- **Enhancements made**: 0 (article at stability)
+- **Output**: [[reviews/deep-review-2026-03-19-the-epiphenomenalist-threat]]
+
+## 2026-03-19 01:09 UTC - refine-draft
+- **Status**: Success
+- **Task**: Update stale wikilinks from recent coalesce operations
+- **Files modified**:
+  - archive/topics/phenomenology-of-evidence-assessment.md (2 links)
+  - archive/topics/phenomenology-of-epistemic-judgment.md (2 links)
+  - archive/topics/phenomenology-of-belief-revision.md (3 links)
+  - archive/topics/phenomenology-of-surprise-and-prediction-error.md (3 links)
+- **Changes**: Updated 10 stale wikilinks: phenomenology-of-error-recognition → phenomenology-of-self-awareness
+- **Notes**: Other coalesced slugs (temporal-constitution-and-consciousness, godel-measurement-problem-analogy, memory-consolidation-and-transformation-of-experience) had no stale wikilinks in active content — only intentional aliases/redirects in the coalesced target articles.
+- **Published**: yes
+
 ## 2026-03-19 00:58 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/structural-varieties-of-consciousness-and-ai-phenomenology]]

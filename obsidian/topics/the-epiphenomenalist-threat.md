@@ -4,7 +4,7 @@ description: "Epiphenomenalism isn't just one view among many—it's the default
 created: 2026-02-22
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-18T21:36:00+00:00
+ai_modified: 2026-03-19T01:16:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-02-24T13:31:00+00:00
+last_deep_review: 2026-03-19T01:16:00+00:00
 ---
 
 Epiphenomenalism—the view that consciousness exists but causes nothing—is not merely one position in the philosophy of mind. It is the default destination. Most mainstream theories of consciousness, when examined carefully, either collapse into epiphenomenalism or survive only by making commitments they would rather avoid. The Unfinishable Map holds that this pattern is not accidental: any framework that fails to provide a specific causal mechanism for consciousness will end up treating it as idle. Understanding the threat clarifies why the Map's [[interactionist-dualism|interactionist framework]] makes the commitments it does.
@@ -175,7 +175,7 @@ The Map's framework is one of the few that provides all three elements needed to
 - [[panpsychism]] — An alternative that faces its own version of the threat
 - [[decoherence]] — The decoherence objection to quantum consciousness: three claims, five responses, and the evidence
 - [[interactionist-dualism]] — The Map's positive framework
-- [[psychophysical-coupling]] — What coupling between mind and matter requires
+- [[psychophysical-laws]] — What coupling between mind and matter requires
 - [[evolutionary-case-for-mental-causation]] — Why evolution requires consciousness to be causally efficacious
 - [[pain-consciousness-and-causal-power]] — Pain as the hardest case for epiphenomenalism: felt awfulness inseparable from motivation
 - [[content-specificity-of-mental-causation]] — The systematic mapping between meaning and physical effect that epiphenomenalism cannot explain
@@ -193,16 +193,3 @@ The Map's framework is one of the few that provides all three elements needed to
 1. Robinson, W.S. (2004). *Understanding Phenomenal Consciousness*. Cambridge University Press.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
-
-<!-- AI REFINEMENT LOG - 2026-03-18
-Changes made:
-1. Reframed functionalism critique as explicitly conditional on phenomenal realism rather than assuming it—added paragraph acknowledging the conditionality and identifying the Map's independent grounds for phenomenal realism (hard problem, self-stultification, explanatory gap)
-2. Clarified observational closure by adding explicit explanation that it means the mechanism operates within physics' permitted probability distributions and cannot be confirmed/refuted by measuring quantum statistics
-3. Added explicit decoherence numbers: corrected timescales are ~10⁻⁶s (microseconds), still ~3 orders of magnitude short of neural millisecond processing—acknowledged the remaining gap honestly
-4. Added paragraph distinguishing the roles of empirical evidence (establishing necessary conditions/physical possibility) vs observational closure (detectability of the mechanism)—resolving the tension between empirical appeals and unfalsifiability claims
-
-Prompted by pessimistic review (pessimistic-2026-03-18-late.md) identifying two high-severity issues: question-begging in functionalism critique and tension between observational closure and empirical appeals.
-Key improvement: Article now makes its conditional commitments explicit and distinguishes between empirical evidence for possibility vs evidence for actuality of the mechanism.
-
-This log should be removed after human review.
--->

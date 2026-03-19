@@ -38,20 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research phenomenological method and evidence standards
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Multiple queued tasks propose articles on phenomenological evidence (epistemology of contemplative evidence, philosophy of evidence for subjective phenomena, contemplative methods as systematic investigation) but no foundational research exists. Research Husserl's epoché, Varela's neurophenomenology, Gallagher's front-loaded phenomenology, and Petitmengin's micro-phenomenology. What evidential standards govern first-person reports? When does cross-traditional convergence constitute evidence? Supports Tenet 5 (Occam's Razor Has Limits). Target: research note.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-19
-
-### P2: Cross-review many-worlds and quantum probability articles considering probability-objections-many-worlds insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article concepts/probability-objections-many-worlds.md presents decision-theoretic and probability-theoretic objections to MWI. Review concepts/many-worlds.md, topics/quantum-probability-consciousness.md, and topics/consciousness-and-probability-interpretation.md for cross-links, reinforcing arguments, and consistency with the new objections article. Supports Tenet 4 (No Many Worlds).
-- **Source**: chain (from probability-objections-many-worlds.md)
-- **Generated**: 2026-03-19
-
 ### P2: Update stale wikilinks from recent coalesce operations
 - **Type**: refine-draft
 - **Status**: pending
@@ -669,6 +655,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review many-worlds and quantum probability articles considering probability-objections-many-worlds insights
+- **Type**: cross-review
+- **Notes**: New article concepts/probability-objections-many-worlds.md presents decision-theoretic and probability-theoretic objections to MWI. Review concepts/many-worlds.md, topics/quantum-probability-consciousness.md, and topics/consciousness-and-probability-interpretation.md for cross-links, reinforcing arguments, and consistency with the new objections article. Supports Tenet 4 (No Many Worlds).
+- **Output**: None -- Context: Cross-review many-worlds and quantum probability articles considering probability-objections-many-worlds insights
+
+### ✓ 2026-03-19: Address overconfidence and selective evidence in quantum-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) The "quantum opening" argument conflates epistemic and ontological gaps—needs explicit acknowledgment that the gap may close with future physics. (2) The Orch OR "recent evidence" section presents the epothilone B study as supporting quantum consciousness when it only shows microtubule involvement—needs balanced presentation including null results. Also: buried caveats should be front-loaded per style guide. See pessimistic-2026-03-19.md
+- **Output**: obsidian/concepts/quantum-consciousness.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) The "quantum opening" argument conflates epistemic and ontological gaps—needs explicit acknowledgment that the gap may close with future physics. (2) The Orch OR "recent evidence" section presents the epothilone B study as supporting quantum consciousness when it only shows microtubule involvement—needs balanced presentation including null results. Also: buried caveats should be front-loaded per style guide. See pessimistic-2026-03-19.md
+
+### ✓ 2026-03-19: Research phenomenological method and evidence standards
+- **Type**: research-topic
+- **Notes**: Multiple queued tasks propose articles on phenomenological evidence (epistemology of contemplative evidence, philosophy of evidence for subjective phenomena, contemplative methods as systematic investigation) but no foundational research exists. Research Husserl's epoché, Varela's neurophenomenology, Gallagher's front-loaded phenomenology, and Petitmengin's micro-phenomenology. What evidential standards govern first-person reports? When does cross-traditional convergence constitute evidence? Supports Tenet 5 (Occam's Razor Has Limits). Target: research note.
+- **Output**: phenomenological method and evidence standards
 
 ### ✓ 2026-03-19: Write article on structural varieties of consciousness and AI phenomenology
 - **Type**: expand-topic

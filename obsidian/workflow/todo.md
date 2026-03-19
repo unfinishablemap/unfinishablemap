@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update stale wikilinks from recent coalesce operations
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Four recent coalesces left stale wikilinks in active content: temporal-constitution-and-consciousness → temporal-structure-of-consciousness (1 file), godel-measurement-problem-analogy → self-reference-and-the-limits-of-physical-description (2 files), memory-consolidation-and-transformation-of-experience → consciousness-and-memory (1 file), phenomenology-of-error-recognition/phenomenology-of-self-reference → phenomenology-of-self-awareness (1 file). Update all stale references in topics/, concepts/, voids/, and apex/.
-- **Source**: chain (from coalesce operations 2026-03-18)
-- **Generated**: 2026-03-19
-
-### P2: Deep review the-epiphenomenalist-threat.md after recent refinement
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Recently refined (2026-03-18) to address review findings. Last deep review was 2026-02-24 — 23 days ago. Core topics article arguing epiphenomenalism is self-undermining. Verify refinement quality, check cross-references to new articles on self-stultification and mental causation, and ensure tenet alignment.
-- **Source**: chain (from refine-draft completion)
-- **Generated**: 2026-03-19
-
 ### P3: Deep review social-construction-of-self-vs-phenomenal-self.md
 - **Type**: deep-review
 - **Status**: pending
@@ -654,6 +640,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Deep review the-epiphenomenalist-threat.md after recent refinement
+- **Type**: deep-review
+- **Notes**: Recently refined (2026-03-18) to address review findings. Last deep review was 2026-02-24 — 23 days ago. Core topics article arguing epiphenomenalism is self-undermining. Verify refinement quality, check cross-references to new articles on self-stultification and mental causation, and ensure tenet alignment.
+- **Output**: obsidian/topics/the-epiphenomenalist-threat.md
+
+### ✓ 2026-03-19: Update stale wikilinks from recent coalesce operations
+- **Type**: refine-draft
+- **Notes**: Four recent coalesces left stale wikilinks in active content: temporal-constitution-and-consciousness → temporal-structure-of-consciousness (1 file), godel-measurement-problem-analogy → self-reference-and-the-limits-of-physical-description (2 files), memory-consolidation-and-transformation-of-experience → consciousness-and-memory (1 file), phenomenology-of-error-recognition/phenomenology-of-self-reference → phenomenology-of-self-awareness (1 file). Update all stale references in topics/, concepts/, voids/, and apex/.
+- **Output**: Task context:
+Four recent coalesces left stale wikilinks in active content: temporal-constitution-and-consciousness → temporal-structure-of-consciousness (1 file), godel-measurement-problem-analogy → self-reference-and-the-limits-of-physical-description (2 files), memory-consolidation-and-transformation-of-experience → consciousness-and-memory (1 file), phenomenology-of-error-recognition/phenomenology-of-self-reference → phenomenology-of-self-awareness (1 file). Update all stale references in topics/, concepts/, voids/, and apex/.
 
 ### ✓ 2026-03-19: Cross-review many-worlds and quantum probability articles considering probability-objections-many-worlds insights
 - **Type**: cross-review
