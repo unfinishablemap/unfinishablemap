@@ -4,12 +4,12 @@ description: "How we access mathematical truth and what that access feels like�
 created: 2026-02-08
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-19T12:47:00+00:00
+ai_modified: 2026-03-19T14:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
-  - "[[aesthetic-dimension-of-consciousness]]"
+  - "[[aesthetics-and-consciousness]]"
 concepts:
   - "[[cognitive-phenomenology]]"
   - "[[consciousness-and-creativity]]"
@@ -40,7 +40,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-15
 last_curated:
-last_deep_review: 2026-03-19T12:47:00+00:00
+last_deep_review: 2026-03-19T14:50:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-mathematical-knowledge/"
   - "/topics/phenomenology-of-mathematical-insight/"
@@ -70,7 +70,7 @@ Each strategy either relocates the access problem, dissolves it by abandoning ma
 
 ## What Dualism Offers
 
-Dualism does not automatically solve the access problem, but it removes the constraint that makes it so acute. If consciousness is not exhausted by physical processes, the demand that all knowledge arise through causal-physical channels is relaxed. This is one of several [[epistemic-advantages-of-dualism|epistemic advantages the dualist framework provides]].
+Dualism does not automatically solve the access problem, but it removes the constraint that makes it so acute. If consciousness is not exhausted by physical processes, the demand that all knowledge arise through causal-physical channels is relaxed. This is one of several [[epistemic-advantages-of-dualism|epistemic advantages the dualist framework provides]]. The structural parallel is instructive: Benacerraf's dilemma and the mind-body interaction problem both ask how an entity in one ontological domain contacts an apparently causally disconnected domain—a framework that addresses one has resources for the other, as the [[consciousness-and-the-philosophy-of-mathematics|philosophy of mathematics article]] develops in detail.
 
 Gödel recognised this. An explicit mathematical Platonist, he wrote in his 1964 supplement to "What is Cantor's Continuum Problem?": "Despite their remoteness from sense experience, we do have something like a perception also of the objects of set theory, as is seen from the fact that the axioms force themselves upon us as being true." Influenced by Husserl's phenomenology, Gödel treated this mathematical intuition as a *sui generis* epistemic faculty—a form of what Husserl called *categorial intuition*, the capacity to apprehend abstract entities directly without sensory mediation.
 
@@ -90,7 +90,7 @@ This felt necessity admits of degrees. Elementary arithmetic truths carry necess
 
 Mathematicians consistently report that correct results *feel* elegant before full verification. Hardy wrote that "there is no permanent place in the world for ugly mathematics." Poincaré described how the unconscious generates vast combinations but only "harmonious" ones—those satisfying the mathematician's aesthetic sensibility—surface to consciousness.
 
-The [[aesthetic-dimension-of-consciousness|aesthetic phenomenology]] of mathematics is epistemically functional. Mathematical beauty is also the strongest case of [[aesthetic-irreducibility-arguments|substrate-independent beauty]]: it exists in a domain entirely devoid of physical substrate yet produces phenomenal experiences strikingly similar to those from music or visual art.
+The [[aesthetics-and-consciousness|aesthetic phenomenology]] of mathematics is epistemically functional. Mathematical beauty is also the strongest case of [[aesthetics-and-consciousness|substrate-independent beauty]]: it exists in a domain entirely devoid of physical substrate yet produces phenomenal experiences strikingly similar to those from music or visual art.
 
 The aesthetic criterion is not infallible. The four-colour theorem's computer-assisted proof is mathematically deep but widely regarded as inelegant. Some results initially thought beautiful turn out trivial. The tracking between beauty and depth is real but domain-dependent and imperfect—which sharpens rather than weakens the philosophical puzzle. Why should felt beauty correlate with mathematical truth *at all*? If mathematical insight were purely computational, there would be no reason for it to feel like anything, let alone *beautiful*.
 
@@ -145,7 +145,7 @@ These limits are themselves informative. They suggest consciousness accesses mat
 - [[argument-from-reason]] — Why rational thought supports dualism
 - [[epistemic-advantages-of-dualism]] — Broader epistemic benefits of the dualist framework
 - [[cognitive-phenomenology]] — The case for phenomenal character in thinking
-- [[aesthetic-irreducibility-arguments]] — Mathematical beauty as substrate-independent aesthetic experience
+- [[aesthetics-and-consciousness]] — Aesthetic experience, including mathematical beauty, as evidence for irreducible consciousness
 - [[phenomenology-of-understanding-and-meaning]] — The felt difference between verification and comprehension
 - [[phenomenology-of-creative-insight]] — The general phenomenology of creative insight across domains
 - [[consciousness-as-amplifier]] — Why understanding may require phenomenal awareness
