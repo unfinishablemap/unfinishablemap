@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate self-transcendence-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-19 has no inbound links. Voids article on the cognitive impossibility of fully transcending the self while remaining a subject of experience. Add cross-references from related articles (taxonomy-of-voids.md, self-reference-paradox.md, phenomenology-of-self-awareness.md, observation-void.md, witness-consciousness.md).
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
+### P2: Integrate neural-refresh-rates.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-18 has no inbound links. Concept page on neural refresh rates and the smoothness problem — how discrete neural processing yields continuous phenomenal experience. Add cross-references from related articles (smoothness-problem.md, temporal-consciousness.md, binding-problem.md, consciousness-selecting-neural-patterns.md).
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
+### P2: Condense baseline-cognition.md (3682 words, 105% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about baseline cognition as the substrate for consciousness-dependent amplification while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-19
+
+### P2: Condense temporal-structure-of-consciousness.md (4043 words, 101% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Created from recent coalesce operation. Preserve core arguments about temporal structure while trimming redundancy with linked temporal consciousness articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-19
+
+### P2: Cross-review voids articles considering self-transcendence void insights
+- **Type**: cross-review
+- **Notes**: New void article voids/self-transcendence-void.md (created 2026-03-19) develops the impossibility of fully transcending the self while remaining a subject. Review taxonomy-of-voids.md (apex) and observation-void.md for cross-links, whether the self-transcendence void adds a new dimension to the taxonomy, and consistency with existing void phenomenology treatments.
+- **Source**: chain (from self-transcendence-void.md)
+- **Generated**: 2026-03-19
+
+### P3: Deep review predictive-processing-and-active-inference-under-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Topics article on how prediction error minimisation and active inference relate to the Map's dualist framework. Cross-reviews completed but no comprehensive deep review yet. Verify coherence, cross-references, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-19
+
 ### P3: Deep review self-transcendence-void.md
 - **Type**: deep-review
 - **Status**: pending
