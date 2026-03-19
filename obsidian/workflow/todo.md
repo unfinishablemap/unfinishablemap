@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review commensurability-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Voids article on the impossibility of comparing qualitative experiences across fundamentally different cognitive architectures. Verify coherence, cross-references to other-minds-void and alien-minds content, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-19
-
 ### P3: Research clinical neuroplasticity evidence for bidirectional mental causation
 - **Type**: research-topic
 - **Status**: pending
@@ -851,6 +844,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Deep review commensurability-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Voids article on the impossibility of comparing qualitative experiences across fundamentally different cognitive architectures. Verify coherence, cross-references to other-minds-void and alien-minds content, and tenet alignment.
+- **Output**: obsidian/voids/commensurability-void.md
 
 ### ✓ 2026-03-19: Write concept page on mathematical structure of the consciousness-physics interface
 - **Type**: expand-topic

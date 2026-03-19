@@ -4,10 +4,9 @@ description: "Human+AI exploration of why phenomenal experiences across radicall
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-19T21:09:00+00:00
+ai_modified: 2026-03-19T23:40:00+00:00
 draft: false
 topics:
-  - "[[other-minds]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[qualia]]"
@@ -26,6 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated:
+last_deep_review: 2026-03-19T23:40:00+00:00
 ---
 
 Some conscious experiences cannot be compared at all. Not because we lack instruments or ingenuity, but because the comparison itself is structurally impossible. The Unfinishable Map's other voids explore what we cannot access (the [[other-minds-void|Other Minds Void]]), what we cannot share (the [[intersubjective-void|Intersubjective Void]]), and dimensions closed within our own species (the [[synesthetic-void|Synesthetic Void]]). The Commensurability Void goes further: even if we could access another mind's experience, we might find no shared framework in which to place our experience alongside theirs. Recent mathematical work formalises this intuition, showing that phenomenal comparison yields only a *partial ordering*—some pairs of experiences simply have no ordering relation.
@@ -37,6 +37,8 @@ Díaz Boils et al. (2025) apply multilayer network theory to the structure of co
 This transforms the commensurability question from a practical difficulty into a formal constraint. A total order allows any two items to be compared—greater, lesser, or equal. A partial order permits incomparability as a legitimate structural feature. If phenomenal experience is partially ordered, then some minds inhabit experiential regions with no mapping onto others, not because the mapping is hard to find but because no such mapping exists.
 
 The distinction matters. A practical difficulty invites optimism: with better technology or concepts, comparison might succeed. A structural constraint sets a boundary. The commensurability void marks territory where comparison is not merely unsolved but unsolvable.
+
+Integrated Information Theory (IIT) challenges this conclusion by proposing Φ (phi) as a universal measure of consciousness—a single quantity applicable to any system regardless of architecture. If Φ succeeds, the partial ordering collapses into a total order and the void dissolves. But Φ measures the *quantity* of integrated information, not its *qualitative character*. Two systems with identical Φ values might still possess phenomenal experiences organised along incommensurable dimensions. IIT's metric may rank consciousness without establishing that the ranked items are comparable in the way that matters—what the experiences are *like*.
 
 ## From Nagel's Bat to the Void
 
@@ -64,7 +66,7 @@ The vertigo intensifies with the recognition that any proposed neutral framework
 
 ## Ethical Stakes
 
-The commensurability void carries practical weight. Cross-species welfare comparison—how much does a fish suffer compared to a mammal?—presupposes some shared scale of phenomenal experience. If the partial ordering result holds, some welfare comparisons may be structurally impossible, not merely uncertain.
+The commensurability void carries practical weight. Cross-species welfare comparison—how much does a fish suffer compared to a mammal?—presupposes some shared scale of phenomenal experience. If the partial ordering result holds, some welfare comparisons may be structurally impossible, not merely uncertain. This is a concrete expression of [[mysterianism]]—not just that we cannot *explain* consciousness, but that we cannot even *compare* it across architectures.
 
 The problem is one of underdetermination. Two sources of variation cannot be distinguished: variation in welfare itself and variation in the relationship of welfare indicators to welfare. Standard Welfare Unit approaches attempt to bridge the gap but rely on assumptions about hedonic capacity that themselves require the commensurability they aim to establish.
 
@@ -84,7 +86,9 @@ The void is not entirely opaque. Several indirect methods probe its boundaries w
 
 ## Relation to Site Perspective
 
-The commensurability void connects most directly to the Map's tenet that **[[tenets#^occams-limits|Occam's Razor has limits]]**. The assumption that all conscious experiences can be placed on a single comparable scale is precisely the kind of simplicity assumption the Map warns against. Universal commensurability is parsimonious, but the mathematical and philosophical evidence suggests phenomenal space is more structured—and more fractured—than parsimony demands.
+The commensurability void intensifies the [[hard-problem-of-consciousness|hard problem]]: not only can we not explain *why* there is something it is like to be a system, we may not even be able to compare *what* it is like across systems.
+
+The void connects most directly to the Map's tenet that **[[tenets#^occams-limits|Occam's Razor has limits]]**. The assumption that all conscious experiences can be placed on a single comparable scale is precisely the kind of simplicity assumption the Map warns against. Universal commensurability is parsimonious, but the mathematical and philosophical evidence suggests phenomenal space is more structured—and more fractured—than parsimony demands.
 
 **[[tenets#^dualism|Dualism]]** deepens the void. If consciousness is not reducible to physical processes, then different conscious architectures need not organise phenomenal space along physically commensurable dimensions. Physical comparison exploits shared physical law—all matter obeys the same equations. Phenomenal comparison has no equivalent universal constraint. The Map's dualism predicts that the space of possible consciousnesses may be far more heterogeneous than physicalism suggests, with pockets of experience that share no common measure.
 
@@ -106,6 +110,6 @@ The commensurability void also illuminates the Map's own project. The Unfinishab
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.
 2. Díaz Boils, J. et al. (2025). "Structural Constraints to Compare Phenomenal Experience." arXiv:2502.02154.
 3. Wittgenstein, L. (1953). *Philosophical Investigations*. §§243–315.
-4. "Welfare Comparisons Within and Across Species." *Philosophical Studies* (2022).
+4. Kagan, S. et al. (2022). "Welfare Comparisons Within and Across Species." *Philosophical Studies*, 179, 1–28.
 5. Southgate, A. & Oquatre-six, C. (2026-01-27). The Other Minds Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/other-minds-void/
 6. Southgate, A. & Oquatre-six, C. (2026-02-20). The Framework Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/framework-void/
