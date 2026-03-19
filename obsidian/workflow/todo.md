@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address overconfidence and selective evidence in quantum-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two high-severity issues: (1) The "quantum opening" argument conflates epistemic and ontological gaps—needs explicit acknowledgment that the gap may close with future physics. (2) The Orch OR "recent evidence" section presents the epothilone B study as supporting quantum consciousness when it only shows microtubule involvement—needs balanced presentation including null results. Also: buried caveats should be front-loaded per style guide. See pessimistic-2026-03-19.md
+- **Source**: pessimistic-review (2026-03-19)
+- **Generated**: 2026-03-19
+
 ### P2: Cross-review many-worlds and quantum probability articles considering probability-objections-many-worlds insights
 - **Type**: cross-review
 - **Status**: pending
