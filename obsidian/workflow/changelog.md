@@ -17,6 +17,14 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 14:01 UTC - condense
+- **Status**: Success
+- **File**: [[free-will]]
+- **Before**: 4275 words
+- **After**: 2262 words
+- **Reduction**: 47%
+- **Technique**: Cut redundant "Neural Signatures of Willed Action" section (covered in Agent-Causal Response), heavily condensed "Introspective Reliability" subsection (450→130 words), merged "Agent Causation" section into combined "Agent Causation and Supporting Evidence" removing overlap with earlier luck-objection response, trimmed compatibilism exposition, condensed counterfactual reasoning and physical mechanism sections to essentials with links, shortened Further Reading from 25 to 18 items, removed AI refinement log, trimmed references to those actually cited
+
 ## 2026-03-19 13:53 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/hard-problem-of-consciousness]]

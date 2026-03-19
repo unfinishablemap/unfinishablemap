@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense free-will.md (4275 words, 107% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Core topics article on free will under dualism. Preserve central arguments about libertarian free will, agent causation, and the quantum-selection mechanism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-19
-
 ### P3: Deep review delegatory-dualism.md
 - **Type**: deep-review
 - **Status**: pending
@@ -768,6 +761,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Condense free-will.md (4275 words, 107% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Core topics article on free will under dualism. Preserve central arguments about libertarian free will, agent causation, and the quantum-selection mechanism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/topics/free-will.md
 
 ### ✓ 2026-03-19: Cross-review hard-problem-of-consciousness.md considering non-western philosophy insights
 - **Type**: cross-review
