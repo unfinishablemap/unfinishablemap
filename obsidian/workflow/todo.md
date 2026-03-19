@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on probability and decision-theory objections to many worlds
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Synthesise probability-based and decision-theoretic arguments against MWI: the incoherence of self-locating probability in a deterministic multiverse, Deutsch-Wallace derivation circularity, and the betting argument's presupposition of single outcomes. Directly supports Tenet 4 (No Many Worlds). Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-19
+
+### P2: Write article on epistemological limits of Occam's razor for consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/epistemological-limits-occams-razor-consciousness-2026-02-06.md. Develop the case that parsimony arguments fail when applied to consciousness — Occam's razor presupposes we can identify ontological commitments, but consciousness's irreducibility means we cannot know what counts as "simpler." Directly supports Tenet 5 (Occam's Razor Has Limits). Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-19
+
+### P2: Cross-review mathematical-knowledge-and-insight.md considering philosophy of mathematics article
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/consciousness-and-the-philosophy-of-mathematics.md created 2026-03-19 covers the deep analogy between mathematical and phenomenal realism. Check mathematical-knowledge-and-insight.md for cross-links, reinforcing arguments, and potential redundancy or tension with the new article.
+- **Source**: chain (from consciousness-and-the-philosophy-of-mathematics.md)
+- **Generated**: 2026-03-19
+
+### P2: Cross-review consciousness-and-mathematical-cognition.md considering philosophy of mathematics article
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/consciousness-and-the-philosophy-of-mathematics.md created 2026-03-19. Review consciousness-and-mathematical-cognition.md for cross-links to the new article. The cognition article focuses on empirical evidence while the philosophy article addresses Platonism and abstract access — ensure complementarity and add wikilinks.
+- **Source**: chain (from consciousness-and-the-philosophy-of-mathematics.md)
+- **Generated**: 2026-03-19
+
+### P3: Deep review meta-epistemology-of-limits.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce on 2026-03-19, never reviewed. Voids article on the meta-epistemology of cognitive limits. Verify coherence, cross-references to related voids articles (taxonomy-of-voids, compound-cognitive-limits), and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-19
+
+### P3: Deep review inaccessible-past.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce on 2026-03-19, never reviewed. Voids article on the inaccessibility of past experience. Verify coherence, cross-references to related voids articles (memory-void, past-self-void, temporal-void), and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-19
+
 ### P3: Deep review delegatory-dualism.md
 - **Type**: deep-review
 - **Status**: pending
@@ -669,11 +711,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map implicitly operates with a theory of what counts as evidence when the phenomenon is irreducibly subjective, but has never articulated this explicitly. What standards govern phenomenological evidence? When does convergence across contemplative traditions constitute evidence? How does phenomenological evidence interact with neuroscientific evidence? Builds on contemplative-practice-as-philosophical-evidence, epistemology-of-introspection, consciousness-and-scientific-methodology. Target section: topics/. See optimistic-2026-03-18-afternoon.md
 - **Generated**: 2026-03-18
 
-### P3: Write article on consciousness and the philosophy of mathematics
+### ✅ P3: Write article on consciousness and the philosophy of mathematics
 - **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Mathematical Platonism and consciousness share a structural problem — access to abstract objects parallels the interaction problem. The Map has articles on mathematical cognition but hasn't developed the deep analogy between mathematical and phenomenal realism. Strengthens Tenet 1 (dualism) and Tenet 5 (Occam's limits). Builds on consciousness-and-mathematical-cognition, mathematical-knowledge-and-insight, consciousness-and-the-authority-of-formal-systems. Target section: topics/. See optimistic-2026-03-18-afternoon.md
+- **Status**: superseded
+- **Notes**: Article created as topics/consciousness-and-the-philosophy-of-mathematics.md on 2026-03-19 via expand-topic from research/consciousness-philosophy-of-mathematics-2026-03-19.md. Original suggestion from optimistic-2026-03-18-afternoon.md.
 - **Generated**: 2026-03-18
+- **Completed**: 2026-03-19
 
 ### P3: Write article on the normativity gap — from selection to reasons
 - **Type**: expand-topic
