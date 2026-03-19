@@ -4,7 +4,7 @@ description: "How attention shapes the lived experience of time—stretching, co
 created: 2026-02-15
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-03-18T22:57:00+00:00
+ai_modified: 2026-03-19T08:08:00+00:00
 draft: false
 topics:
   - "[[temporal-structure-of-consciousness]]"
@@ -55,7 +55,7 @@ Husserl's tripartite structure of temporal consciousness describes the architect
 - **Distracted attention** weakens all three components. Retention fades quickly, protention collapses to mere reactivity, and primal impression thins. The present becomes a narrow, shallow instant.
 - **Meditative attention** reveals the microstructure of all three. [[contemplative-practice-as-philosophical-evidence|Contemplative traditions]] report that sustained attention to the present moment discloses rapid arising and passing—what the Buddhist phenomenological tradition calls *khaṇika* (momentariness)—normally blurred by ordinary attention. (The Buddhist analysis also challenges the assumption of a stable attender: *khaṇika* reveals momentariness in the act of attending itself. The Map acknowledges this tension while maintaining that the experiential subject, however impermanent moment-to-moment, is irreducible to physical process.)
 
-Francisco Varela's [[neurophenomenology|neurophenomenological]] research programme proposed that trained meditators should access temporal structure at scales below ordinary threshold—a hypothesis consistent with subsequent experimental work on meditation and attentional processing (Slagter et al., 2007). The specious present is not a given but an attentional achievement—its depth and span reflect how consciousness directs itself through time.
+Francisco Varela's [[neurophenomenology|neurophenomenological]] research programme proposed that trained meditators should access temporal structure at scales below ordinary threshold—a hypothesis consistent with subsequent experimental work on meditation and attentional processing (Slagter et al., 2007). The specious present is not a given but an attentional achievement—its depth and span reflect how consciousness directs itself through time. Notably, the brain's [[neural-refresh-rates]] (alpha at ~10 Hz, theta at ~6 Hz) gate perceptual access in discrete oscillatory cycles, yet the attentionally constituted present feels seamless—a temporal mismatch that deepens the hard problem at exactly the level where attention operates.
 
 ## Temporal Attention and the Hard Problem
 
@@ -119,6 +119,7 @@ The phenomenology of temporal attention aligns with several of the Map's [[tenet
 - [[growing-block-universe-and-consciousness]]
 - [[phenomenology-of-anticipation]]
 - [[contemplative-practice-as-philosophical-evidence]]
+- [[neural-refresh-rates]] — The discrete oscillatory cycles that attention modulates
 - [[topics/free-will]]
 
 ## References

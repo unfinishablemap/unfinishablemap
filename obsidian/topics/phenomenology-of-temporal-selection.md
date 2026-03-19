@@ -4,7 +4,7 @@ description: "How consciousness selects when to act—the felt structure of timi
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-19T07:39:00+00:00
+ai_modified: 2026-03-19T08:08:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -115,6 +115,7 @@ The experience of "too late" may be one of the most direct phenomenal contacts w
 - [[motor-selection]]
 - [[bergson-and-duration]]
 - [[choking-phenomenon-mental-causation]]
+- [[neural-refresh-rates]] — The discrete oscillatory cycles within which timing windows operate
 - [[timing-gap-problem]]
 - [[diachronic-agency-and-personal-narrative]]
 

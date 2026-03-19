@@ -4,7 +4,7 @@ description: "Phenomenal experience appears smooth and homogeneous while neural 
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T17:11:00+00:00
+ai_modified: 2026-03-19T08:08:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -80,7 +80,7 @@ The Map interprets this as evidence that consciousness possesses its own non-phy
 
 The argument also reinforces [[tenets#^occams-limits|Occam's Razor Has Limits]]. The physicalist might prefer identity theory for its simplicity — one kind of stuff, one set of properties. But if the properties are structurally incompatible, simplicity purchased through identification is incoherence disguised as parsimony. The apparent simplicity of physicalism here masks a logical problem that no amount of future neuroscience can resolve, because the issue is not empirical but structural. No discovery about neural architecture can make a discrete system identical to a homogeneous one — the incompatibility is logical, not empirical, and [[causal-closure|causal closure]] assumptions cannot override it.
 
-The Map speculates that the grain mismatch may extend beyond spatial homogeneity. The [[bandwidth-problem-mental-causation|bandwidth mismatch]] between conscious intention (~10 bits/second) and neural execution (~10⁹ bits/second) suggests a similar structural incompatibility in the informational domain. Consciousness and brain may operate at fundamentally different grains across multiple dimensions — spatial, temporal, informational — and this pervasive mismatch may be the signature of two ontologically distinct systems interfacing rather than one system viewed at different levels.
+The Map speculates that the grain mismatch may extend beyond spatial homogeneity. The [[bandwidth-problem-mental-causation|bandwidth mismatch]] between conscious intention (~10 bits/second) and neural execution (~10⁹ bits/second) suggests a similar structural incompatibility in the informational domain. In the temporal dimension, [[neural-refresh-rates]] — the discrete oscillatory cycles (7–13 Hz alpha, 4–8 Hz theta, ~40 Hz gamma) through which the brain samples sensory input — present the same structural problem: experience flows continuously while the neural substrate samples periodically. Consciousness and brain may operate at fundamentally different grains across multiple dimensions — spatial, temporal, informational — and this pervasive mismatch may be the signature of two ontologically distinct systems interfacing rather than one system viewed at different levels.
 
 ## Further Reading
 
@@ -92,6 +92,7 @@ The Map speculates that the grain mismatch may extend beyond spatial homogeneity
 - [[panpsychism]] — An alternative response that accepts phenomenal properties but distributes them differently
 - [[resolution-bandwidth-interface]] — Architectural implications of the grain mismatch
 - [[bandwidth-problem-mental-causation]] — Grain mismatch in the causal domain
+- [[neural-refresh-rates]] — The temporal face of the grain mismatch: discrete oscillatory sampling versus smooth experience
 
 ## References
 
