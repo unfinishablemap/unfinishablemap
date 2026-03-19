@@ -160,6 +160,7 @@ The incompleteness void differs from other voids in being *mathematically demons
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive limits illuminate cognitive architecture
 - [[whether-real|Whether the Voids Are Real]] — Can we determine if limits are permanent?
 - [[cartography-problem|The Cartography Problem]] — Why the map of cognitive voids cannot contain itself
+- [[self-transcendence-void|The Self-Transcendence Void]] — The Münchhausen problem applied to cognitive self-improvement
 - [[compound-failure-signatures|Compound Failure Signatures]] — Different failure signatures for different limit types
 
 ## References

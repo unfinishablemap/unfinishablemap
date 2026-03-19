@@ -165,6 +165,7 @@ The hypothesis remains testable. Investigating whether AI provides genuine probe
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's analysis of structural limits
 - [[computational-cognitive-limits|Computational Cognitive Limits]] — Formal limits shared by any algorithmic mind
 - [[evolved-cognitive-limits|Evolved Cognitive Limits]] — Cross-cultural evidence for species-level constraints
+- [[self-transcendence-void|The Self-Transcendence Void]] — AI occupies a fundamentally different position on self-modification
 - [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — The method that AI triangulation serves, with criteria for interpreting AI results
 - [[machine-question|The Machine Question]] — The Map's comprehensive position on AI consciousness
 

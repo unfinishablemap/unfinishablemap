@@ -131,6 +131,7 @@ The [[voids]] framework operationalises cognitive closure. Rather than treating 
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
 - [[limits-reveal-structure]] — How the shape of our limits reveals cognitive architecture
 - [[whether-real]] — Can we determine if cognitive limits are genuine or apparent?
+- [[self-transcendence-void]] — Why consciousness cannot bootstrap beyond its own architecture
 - [[voids]] — The Map's framework for approaching what resists understanding
 
 ## References

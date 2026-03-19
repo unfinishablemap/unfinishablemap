@@ -122,6 +122,7 @@ The Map's dualist commitments reshape cognitive enhancement ethics in several wa
 - [[consciousness-and-moral-agency-under-duress]] — Parallel case: agency under constrained conditions
 - [[consciousness-interface-development]] — How the interface develops and why enhancement timing matters
 - [[altered-states-of-consciousness]] — Other modes of interface reconfiguration
+- [[self-transcendence-void|The Self-Transcendence Void]] — Why consciousness may be structurally unable to upgrade itself
 - [[consciousness-and-agency]]
 - [[psychedelics-and-the-filter-model]] — Pharmacological evidence for filter loosening
 - [[phenomenology-of-creative-insight]]

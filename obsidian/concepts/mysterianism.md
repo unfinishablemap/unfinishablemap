@@ -232,6 +232,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [[epistemology-of-cognitive-limits]] — The meta-level question: how can we know our limits?
 - [[limits-reveal-structure]] — How cognitive limits reveal cognitive architecture
 - [[whether-real]] — Can we know if the voids are genuinely permanent?
+- [[self-transcendence-void]] — The Münchhausen problem: consciousness cannot upgrade its own architecture
 - [[epistemological-limits-occams-razor]] — Why parsimony cannot settle the consciousness debate
 - [[causal-closure]] — The distinct ontological thesis about causation (not to be confused with cognitive closure)
 - [[hard-problem-of-consciousness]] — The problem mysterians think is unsolvable

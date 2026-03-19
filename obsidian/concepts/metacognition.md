@@ -209,6 +209,7 @@ The Map's framework accommodates both: consciousness provides phenomenal content
 - [[theory-of-mind]] — Levels 0-3+ and the metarepresentational threshold
 - [[minimal-consciousness]] — The baseline cognition hypothesis
 - [[witness-consciousness]] — Contemplative cultivation of metarepresentation
+- [[self-transcendence-void]] — Whether consciousness can bootstrap beyond its own cognitive architecture
 - [[working-memory]] — Why metarepresentation requires conscious workspace
 - [[epistemic-emotions]] — The phenomenology of knowing
 - [[metacognition-consciousness-2026-01-18]] — Detailed research notes

@@ -154,6 +154,7 @@ None of these conditions has been met. The recursion void persists as a stable f
 - [[concept-of-consciousness-and-social-cognition|Consciousness and Social Cognition]] — Recursive mindreading as consciousness-dependent social cognition
 - [[language-recursion-and-consciousness|Language, Recursion, and Consciousness]] — Working memory bottlenecks on recursive structure
 - [[metacognition|Metacognition and Consciousness]] — The relationship between self-monitoring and awareness
+- [[self-transcendence-void|The Self-Transcendence Void]] — The broader question: can consciousness upgrade itself at all?
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn on structural cognitive limits
 
 ## References

@@ -178,6 +178,7 @@ The claim that some concepts are permanently inaccessible would be challenged if
 - [[evolved-cognitive-limits|Evolved Cognitive Limits]] — Cross-cultural evidence for shared limits
 - [[embodiment-cognitive-limits|Embodiment and Cognitive Limits]] — How bodies constrain thought
 - [[cognitive-closure|Cognitive Closure]] — The formal analysis of architectural limits on understanding
+- [[self-transcendence-void|The Self-Transcendence Void]] — Why consciousness cannot upgrade the architecture that constrains it
 - [[natural-vs-designed-limits|Natural vs. Designed Limits]] — Whether cognitive limits are intrinsic or imposed
 - [[mind-space-void|The Mind-Space Void]] — Our unknown location in possible-minds space
 - [[llm-consciousness|LLM Consciousness]] — The question of AI experience
