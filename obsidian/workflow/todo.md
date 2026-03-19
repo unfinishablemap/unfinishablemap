@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review temporal-consciousness.md considering autonoetic-consciousness insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/autonoetic-consciousness.md (created 2026-03-19) develops Tulving's autonoetic consciousness — the capacity for mental time travel and episodic memory. Review concepts/temporal-consciousness.md for cross-links to the new autonoetic consciousness page, whether the temporal thickness discussion should reference autonoetic experience more explicitly, and consistency in how temporal phenomenology is characterised.
-- **Source**: chain (from autonoetic-consciousness.md)
-- **Generated**: 2026-03-19
-
 ### P2: Condense consciousness-philosophy-of-mathematics-2026-03-19.md (4051 words, 116% of target)
 - **Type**: condense
 - **Status**: pending
@@ -823,6 +816,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review temporal-consciousness.md considering autonoetic-consciousness insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/autonoetic-consciousness.md (created 2026-03-19) develops Tulving's autonoetic consciousness — the capacity for mental time travel and episodic memory. Review concepts/temporal-consciousness.md for cross-links to the new autonoetic consciousness page, whether the temporal thickness discussion should reference autonoetic experience more explicitly, and consistency in how temporal phenomenology is characterised.
+- **Output**: obsidian/concepts/temporal-consciousness.md -- Context: Cross-review temporal-consciousness.md considering autonoetic-consciousness insights
 
 ### ✓ 2026-03-19: Cross-review causal-closure.md considering causal-closure-debate-historical-survey insights
 - **Type**: cross-review
