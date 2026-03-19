@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the commensurability void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/voids-commensurability-void-2026-03-19.md. The impossibility of comparing qualitative experiences across fundamentally different cognitive architectures — not just the other-minds problem but a structural limit on inter-system phenomenal comparison. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review causal-closure.md considering causal-closure-debate-historical-survey insights
 - **Type**: cross-review
 - **Status**: pending
@@ -868,6 +861,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Write voids article on the commensurability void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-commensurability-void-2026-03-19.md. The impossibility of comparing qualitative experiences across fundamentally different cognitive architectures — not just the other-minds problem but a structural limit on inter-system phenomenal comparison. Target section: voids/.
+- **Output**: Write voids article on the commensurability void
 
 ### ✓ 2026-03-19: Condense wheeler-it-from-bit-2026-03-14.md (3508 words, 140% of target)
 - **Type**: condense
