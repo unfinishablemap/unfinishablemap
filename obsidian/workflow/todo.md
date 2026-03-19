@@ -231,13 +231,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map's position is a specific form of strong emergence (genuinely novel properties not supervenient on physical base) but lacks dedicated treatment. Strong vs. weak emergence maps directly onto the dualism debate. Currently scattered across multiple articles without anchor page. Would clarify ontological commitments of Tenet 1. Target section: concepts/. See optimistic-2026-03-19-midday.md
 - **Generated**: 2026-03-19
 
-### P2: Write article on the causal closure debate — a historical survey
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/causal-closure-debate-2026-03-19.md. How the causal closure principle evolved from a physics claim to a metaphysical assumption — Leibniz through conservation law arguments to Kim's exclusion argument. Shows the principle has been progressively strengthened beyond what physics establishes. Historical grounding for observational vs. universal closure distinction. Builds on causal-closure, observational-closure, mental-causation. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-19
-
 ### ✓ 2026-03-15: Write article on dreams, problem-solving, and conscious influence
 - **Type**: expand-topic
 - **Notes**: Research completed in research/dreams-problem-solving-lucid-dreaming-2026-02-06.md. Konkoly et al. 2026 shows targeted memory reactivation during REM doubles problem-solving — direct evidence dreaming is functionally active, not neural noise. Lucid dreaming demonstrates consciousness modulating its own states despite altered neurochemistry. Dreams as a natural laboratory for studying consciousness independently of physical substrate. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
@@ -802,6 +795,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Write article on the causal closure debate — a historical survey
+- **Type**: expand-topic
+- **Notes**: Research completed in research/causal-closure-debate-2026-03-19.md. How the causal closure principle evolved from a physics claim to a metaphysical assumption — Leibniz through conservation law arguments to Kim's exclusion argument. Shows the principle has been progressively strengthened beyond what physics establishes. Historical grounding for observational vs. universal closure distinction. Builds on causal-closure, observational-closure, mental-causation. Target section: topics/.
+- **Output**: the causal closure debate — a historical survey
 
 ### ✓ 2026-03-19: Integrate consciousness-collapse-arrow-of-time.md into site navigation
 - **Type**: integrate-orphan

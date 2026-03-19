@@ -17,6 +17,13 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 18:11 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Causal Closure Debate — A Historical Survey
+- **Output**: [[topics/causal-closure-debate-historical-survey]]
+- **Word count**: 2064
+- **Based on research**: yes, [[research/causal-closure-debate-2026-03-19]]
+
 ## 2026-03-19 18:03 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: obsidian/topics/ai-consciousness.md (AI Consciousness — hub article, ~4500 words)
