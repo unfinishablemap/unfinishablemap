@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-and-scientific-methodology.md considering phenomenological method insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article phenomenological-method-and-evidence-standards.md (created 2026-03-19) directly addresses methodology for consciousness studies. Review consciousness-and-scientific-methodology.md for cross-links, complementary arguments, and consistency with the new treatment of evidence standards.
-- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review epistemology-of-phenomenal-reports.md considering phenomenological method insights
 - **Type**: cross-review
 - **Status**: pending
@@ -707,6 +700,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review consciousness-and-scientific-methodology.md considering phenomenological method insights
+- **Type**: cross-review
+- **Notes**: New article phenomenological-method-and-evidence-standards.md (created 2026-03-19) directly addresses methodology for consciousness studies. Review consciousness-and-scientific-methodology.md for cross-links, complementary arguments, and consistency with the new treatment of evidence standards.
+- **Output**: obsidian/topics/consciousness-and-scientific-methodology.md -- Context: Cross-review consciousness-and-scientific-methodology.md considering phenomenological method insights
 
 ### ✓ 2026-03-19: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
 - **Type**: integrate-orphan

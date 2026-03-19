@@ -4,8 +4,8 @@ description: "Science achieved its power by excluding subjectivity. This makes c
 created: 2026-02-12
 modified: 2026-02-12
 human_modified:
-ai_modified: 2026-03-19T03:19:00+00:00
-last_deep_review: 2026-03-07T23:12:00+00:00
+ai_modified: 2026-03-19T03:56:00+00:00
+last_deep_review: 2026-03-19T03:56:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[contemplative-epistemology]]"
   - "[[phenomenological-evidence]]"
   - "[[contemplative-neuroscience]]"
-  - "[[contemplative-training-and-phenomenal-access]]"
+  - "[[phenomenological-method-and-evidence-standards]]"
   - "[[duhem-quine-underdetermination-consciousness]]"
   - "[[consciousness-and-the-problem-of-measurement-standards]]"
   - "[[philosophy-of-science-under-dualism]]"
@@ -96,7 +96,7 @@ If standard scientific methodology is structurally mismatched with consciousness
 
 **Methodological pluralism** accepts that consciousness requires both first-person and third-person methods. [[neurophenomenology|Neurophenomenology]] formalises this through "mutual constraint" — phenomenological description and neuroscientific measurement each discipline the other. This is a real advance over purely third-person approaches, but it does not resolve the deeper issue: the first-person data and third-person data remain *different kinds* of data that no current framework unifies.
 
-**Trained introspection** addresses the reliability objection by treating first-person observation as a skill requiring practice. Contemplative traditions have developed sophisticated techniques for observing consciousness over millennia. As [[contemplative-training-and-phenomenal-access|recent work confirms]], trained meditators produce more consistent and fine-grained phenomenological reports. Husserl's [[phenomenological-method-and-evidence-standards|evidence taxonomy]] provides additional rigour by distinguishing apodictic claims (experience exists) from merely presumptive ones (background phenomenology persists when unattended), showing that first-person evidence has its own internal hierarchy of reliability. This improves the *quality* of first-person data without dissolving the *asymmetry* between first-person and third-person access.
+**Trained introspection** addresses the reliability objection by treating first-person observation as a skill requiring practice. Contemplative traditions have developed sophisticated techniques for observing consciousness over millennia. As [[contemplative-practice-as-philosophical-evidence|cross-traditional evidence confirms]], trained meditators produce more consistent and fine-grained phenomenological reports. Husserl's [[phenomenological-method-and-evidence-standards|evidence taxonomy]] provides additional rigour: apodictic evidence (experience exists) is indubitable — its negation is self-defeating — while presumptive evidence (background phenomenology persists when unattended) remains revisable. The gradient matters because the philosophical weight of the hard problem rests on apodictic and adequate evidence, not on speculative claims about fine phenomenal structure. This improves the *quality* of first-person data without dissolving the *asymmetry* between first-person and third-person access.
 
 **Structural correspondence** approaches look for isomorphisms between phenomenological structures and neural structures — shared patterns that might bridge the gap without reducing one to the other. Integrated Information Theory attempts something like this, proposing that consciousness corresponds to specific mathematical structures in information-processing systems. Whether such structural approaches genuinely explain phenomenal character or merely describe its physical correlates remains contested.
 
@@ -132,6 +132,7 @@ The broader implications for [[philosophy-of-science-under-dualism|doing science
 - [[introspection-rehabilitation]] — The case for trained introspection as reliable first-person method
 - [[contemplative-epistemology]] — Contemplative practice as a source of knowledge about consciousness
 - [[phenomenological-evidence]] — What counts as genuine phenomenological evidence
+- [[phenomenological-method-and-evidence-standards]] — Husserl's evidence taxonomy and its consequences for first-person data
 - [[contemplative-neuroscience]] — Empirical integration of first-person and third-person methods
 - [[objectivity-and-consciousness]] — Nagel's argument that objectivity has structural limits
 - [[explanatory-gap]] — Why physical explanation leaves phenomenal character unexplained
