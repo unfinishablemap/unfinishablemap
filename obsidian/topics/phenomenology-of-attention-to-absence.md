@@ -4,8 +4,8 @@ description: "How consciousness attends to what isn't there—the distinctive ph
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-03-05T06:39:57+00:00
-last_deep_review: 2026-02-22T00:36:00+00:00
+ai_modified: 2026-03-19T12:54:00+00:00
+last_deep_review: 2026-03-19T12:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,7 +64,7 @@ The standard empiricist picture of perception has difficulty with absence-percep
 
 This account has empirical support. The mismatch negativity (MMN) in auditory processing occurs when an expected sound fails to appear, even without conscious attention (Näätänen et al., 2007). The brain registers the absence before consciousness does. But the account leaves open why prediction errors for absent stimuli feel *like that* — why the missing clock-tick has the phenomenal character of silence-where-sound-should-be rather than simply triggering an alert.
 
-**The Gestalt account.** Absence is perceived because perception is structured by wholes, not built up from parts. The row of books with a gap is perceived as a broken whole, not as a collection of individual books plus empty space. The gap belongs to the perceptual structure just as the books do. Absence is a structural feature of the perceived field, not a missing element.
+**The Gestalt account.** Absence is perceived because perception is structured by wholes, not built up from parts. The row of books with a gap is perceived as a broken whole, not as a collection of individual books plus empty space. The gap belongs to the perceptual structure just as the books do. Absence is a structural feature of the perceived field, not a missing element. Farennikova (2013) develops a version of this approach, arguing that seeing absence is genuinely perceptual rather than inferential — the visual system matches current input against stored templates and registers mismatches as perceived gaps. This account sits well with the Map's view that consciousness actively structures experience rather than passively receiving inputs.
 
 ## Sartre and the Négatité
 
