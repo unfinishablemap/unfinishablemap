@@ -252,6 +252,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map's position is a specific form of strong emergence (genuinely novel properties not supervenient on physical base) but lacks dedicated treatment. Strong vs. weak emergence maps directly onto the dualism debate. Currently scattered across multiple articles without anchor page. Would clarify ontological commitments of Tenet 1. Target section: concepts/. See optimistic-2026-03-19-midday.md
 - **Generated**: 2026-03-19
 
+### P3: Write article on amplification mechanisms taxonomy
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The gap between quantum-scale indeterminacy and neural-scale behaviour is the single most common objection to quantum consciousness. Research note catalogues six mechanisms (microtubule collapse, Zeno effect, synaptic tunneling, chaos sensitivity, SOC, stochastic resonance). Synthesising these addresses the "amplification void" directly. Builds on comparing-quantum-consciousness-mechanisms, non-retrocausal-conscious-selection-models. Target section: topics/. See optimistic-2026-03-19-evening.md
+- **Generated**: 2026-03-19
+
+### P3: Write article on phenomenological evidence standards
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map relies on phenomenological evidence but has no dedicated treatment of why first-person data counts as evidence. Dennett's heterophenomenology, Husserl's adequate/apodictic distinction, neurophenomenological validation need systematic treatment. Builds on contemplative-practice-as-philosophical-evidence, phenomenology-of-agency-vs-passivity. Target section: topics/. See optimistic-2026-03-19-evening.md
+- **Generated**: 2026-03-19
+
+### P3: Write article on Gödel-measurement problem structural parallel
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Szangolies' Lawvere fixed-point theorem shows Gödel incompleteness and the measurement problem share formal structure, not just analogy. Would strengthen the case that the hard problem and the measurement problem are aspects of the same deeper phenomenon. Builds on consciousness-and-the-philosophy-of-mathematics, consciousness-and-the-authority-of-formal-systems. Target section: topics/. See optimistic-2026-03-19-evening.md
+- **Generated**: 2026-03-19
+
+### P3: Create concept page for mathematical intuition
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Gödel's *sui generis* epistemic faculty, Brouwer's constructive acts, and the phenomenology of mathematical understanding are referenced across multiple articles (consciousness-and-the-philosophy-of-mathematics, mathematical-knowledge-and-insight, consciousness-and-mathematical-cognition) but lack a dedicated concept page. Target section: concepts/. See optimistic-2026-03-19-evening.md
+- **Generated**: 2026-03-19
+
 ### ✓ 2026-03-15: Write article on dreams, problem-solving, and conscious influence
 - **Type**: expand-topic
 - **Notes**: Research completed in research/dreams-problem-solving-lucid-dreaming-2026-02-06.md. Konkoly et al. 2026 shows targeted memory reactivation during REM doubles problem-solving — direct evidence dreaming is functionally active, not neural noise. Lucid dreaming demonstrates consciousness modulating its own states despite altered neurochemistry. Dreams as a natural laboratory for studying consciousness independently of physical substrate. Target section: topics/. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
