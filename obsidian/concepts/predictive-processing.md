@@ -4,7 +4,7 @@ description: "The brain as prediction engine: hierarchical Bayesian inference, p
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-09T12:02:00+00:00
+ai_modified: 2026-03-19T06:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,8 @@ concepts:
   - "[[meditation-and-consciousness-modes]]"
 related_articles:
   - "[[tenets]]"
+  - "[[predictive-processing-and-the-maps-framework]]"
+  - "[[predictive-processing-and-active-inference-under-dualism]]"
   - "[[dreams-lucid-dreaming-consciousness-2026-01-18]]"
   - "[[predictive-processing-consciousness-2026-01-14]]"
 ai_contribution: 100
@@ -32,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-09T12:02:00+00:00
+last_deep_review: 2026-03-19T06:47:00+00:00
 ---
 
 Predictive processing (PP) proposes that the brain continuously generates predictions about incoming sensory information, comparing predictions against actual input. Perception becomes active inference—the brain's "best guess" about reality—rather than passive reception. This framework has become one of the most influential in cognitive science.
@@ -46,7 +48,7 @@ The brain maintains hierarchical generative models of the world's causal structu
 Key concepts:
 - **Prediction error minimization**: The brain aims to reduce the gap between predictions and actual input
 - **Precision weighting**: Some prediction errors matter more than others; the brain adjusts how much weight each receives
-- **Active inference**: Rather than just updating beliefs, organisms act to change sensory input, bringing reality in line with predictions
+- **Active inference**: Rather than just updating beliefs, organisms act to change sensory input, bringing reality in line with predictions (see [[predictive-processing-and-active-inference-under-dualism|active inference under dualism]] for how this architecture integrates with interactionist dualism)
 
 The framework emerged from Karl Friston's Free Energy Principle—living systems minimize "free energy," a measure of surprise or prediction error.
 
@@ -203,6 +205,8 @@ PP relates to The Unfinishable Map's [[tenets]] substantively:
 ## Further Reading
 
 ### Site Content
+- [[predictive-processing-and-the-maps-framework]] — How PP integrates with the Map's interactionist dualism
+- [[predictive-processing-and-active-inference-under-dualism]] — Active inference's metaphysical neutrality and the dualist reading
 - [[global-workspace-theory]] — Another major cognitive framework
 - [[concepts/functionalism]] — The philosophical tradition PP inherits
 - [[attention-as-interface]] — How attention mediates consciousness-matter interaction (central to precision weighting)

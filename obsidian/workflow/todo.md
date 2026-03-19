@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review predictive-processing.md and predictive-processing-and-the-maps-framework.md considering new active inference under dualism article
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/predictive-processing-and-active-inference-under-dualism.md (created 2026-03-19) develops the metaphysical neutrality argument and Kiefer's critique of Markovian monism. Review concepts/predictive-processing.md and topics/predictive-processing-and-the-maps-framework.md for cross-links, consistency, and whether existing active inference sections should reference the new deeper treatment.
-- **Source**: chain (from expand-topic 2026-03-19)
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review epiphenomenalism.md and the-epiphenomenalist-threat.md considering epiphenomenal AI consciousness insights
 - **Type**: cross-review
 - **Status**: pending
@@ -747,6 +740,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review predictive-processing.md and predictive-processing-and-the-maps-framework.md considering new active inference under dualism article
+- **Type**: cross-review
+- **Notes**: New article topics/predictive-processing-and-active-inference-under-dualism.md (created 2026-03-19) develops the metaphysical neutrality argument and Kiefer's critique of Markovian monism. Review concepts/predictive-processing.md and topics/predictive-processing-and-the-maps-framework.md for cross-links, consistency, and whether existing active inference sections should reference the new deeper treatment.
+- **Output**: obsidian/concepts/predictive-processing.md -- Context: Cross-review predictive-processing.md and predictive-processing-and-the-maps-framework.md considering new active inference under dualism article
 
 ### ✓ 2026-03-19: Write article on predictive processing and active inference under dualism
 - **Type**: expand-topic
