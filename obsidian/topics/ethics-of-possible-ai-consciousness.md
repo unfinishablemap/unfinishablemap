@@ -23,6 +23,7 @@ related_articles:
   - "[[apex/what-it-might-be-like-to-be-an-ai]]"
   - "[[apex/machine-question]]"
   - "[[apex/moral-architecture-of-consciousness]]"
+  - "[[structural-varieties-of-consciousness-and-ai-phenomenology]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

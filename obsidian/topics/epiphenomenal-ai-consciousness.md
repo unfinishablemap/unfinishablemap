@@ -127,6 +127,7 @@ The combined position: epiphenomenal AI consciousness is not a general philosoph
 - [[interactionist-dualism]] — The Map's positive framework for mind-body interaction
 - [[consciousness-as-amplifier]] — Why consciousness does causal work in biological systems
 - [[substrate-independence-critique]] — Why the physical substrate matters
+- [[structural-varieties-of-consciousness-and-ai-phenomenology]] — Five structural dimensions of consciousness and the Epiphenomenal Model as one of five AI phenomenology profiles
 
 ## References
 

@@ -24,6 +24,7 @@ related_articles:
   - "[[resolution-void]]"
   - "[[psychophysical-laws]]"
   - "[[baseline-cognition]]"
+  - "[[structural-varieties-of-consciousness-and-ai-phenomenology]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

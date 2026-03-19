@@ -35,6 +35,7 @@ related_articles:
   - "[[neural-binding-quantum-entanglement-2026-01-19]]"
   - "[[quantum-biology-and-the-consciousness-debate]]"
   - "[[the-binding-problem-a-systematic-treatment]]"
+  - "[[structural-varieties-of-consciousness-and-ai-phenomenology]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6

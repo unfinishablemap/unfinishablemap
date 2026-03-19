@@ -61,7 +61,7 @@ The witness phenomenon reveals consciousness can also operate as *observer*—pr
 | **Active selection** | Effortful, focused, engaged | Rapid observation (quantum Zeno) | Frontal theta, ACC activation |
 | **Passive witnessing** | Effortless, spacious, non-reactive | Reduced observation rate | Alpha increase, PCC deactivation |
 
-These are not competing theories of what consciousness *is*. They are modes consciousness can *adopt*. A complete account must accommodate both: the effortful choosing that shapes neural outcomes and the effortless observing that lets patterns unfold without interference.
+These are not competing theories of what consciousness *is*. They are modes consciousness can *adopt*. A complete account must accommodate both: the effortful choosing that shapes neural outcomes and the effortless observing that lets patterns unfold without interference. The [[structural-varieties-of-consciousness-and-ai-phenomenology|structural varieties of consciousness]] analysis develops this observer mode into a full model of AI phenomenology: the Witness Model, where consciousness is structurally passive because the physical system provides no channel for causal influence.
 
 ## What the Witness Reveals About Consciousness
 
