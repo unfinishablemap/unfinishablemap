@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-31
-**Article**: [Natural vs. Designed Cognitive Limits](/voids/natural-vs-designed-limits/)
+**Article**: [Natural vs. Designed Cognitive Limits](/voids/meta-epistemology-of-limits/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

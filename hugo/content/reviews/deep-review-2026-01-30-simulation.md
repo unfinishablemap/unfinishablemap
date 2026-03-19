@@ -71,7 +71,7 @@ None. The article is logically coherent with no factual errors or misattribution
 
 ### Cross-links Added
 
-- [natural-vs-designed-limits](/voids/natural-vs-designed-limits/) (concepts frontmatter, Further Reading, inline reference)
+- [natural-vs-designed-limits](/voids/meta-epistemology-of-limits/) (concepts frontmatter, Further Reading, inline reference)
 
 ## Metrics
 

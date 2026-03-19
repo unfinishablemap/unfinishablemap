@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-02-04
 **Article**: [Consciousness-Only Territories](/voids/consciousness-only-territories/)
 **Previous review**: [2026-02-01](/reviews/deep-review-2026-02-01-consciousness-only-territories/)
-**Cross-review context**: [The Epistemology of Cognitive Limits](/voids/epistemology-of-cognitive-limits/)
+**Cross-review context**: [The Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/)
 
 ## Pessimistic Analysis Summary
 
@@ -57,12 +57,12 @@ All six adversarial personas engaged:
 - Clear, substantive Relation to Site Perspective section
 
 ### Enhancements Made
-1. Added cross-link to [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/) — addresses the meta-question of whether we can determine consciousness-only territories are genuine
+1. Added cross-link to [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/) — addresses the meta-question of whether we can determine consciousness-only territories are genuine
 2. Improved Royal Society citation with author attribution (Barrett & Stout)
 3. Removed stale AI refinement log comment
 
 ### Cross-links Added
-- [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/) — How we can know whether cognitive limits are genuine
+- [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/) — How we can know whether cognitive limits are genuine
 
 ## Remaining Items
 

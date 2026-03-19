@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-11 17:14:00+00:00
+ai_modified: 2026-03-19 09:27:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ description: Consciousness is fundamental; matter is derivative or appearance. T
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-20 13:36:00+00:00
+last_deep_review: 2026-03-19 09:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -71,7 +71,7 @@ Analytic idealism claims superior parsimony over both [materialism](/concepts/ma
 
 Idealism claims to avoid both problems. Consciousness doesn't emerge because it's the starting point. There's no interaction problem because there's only one kind of stuff—consciousness appearing to itself in different guises.
 
-The Map accepts the hard problem's force and avoids it via dualism—consciousness doesn't emerge from matter because it's a distinct category. The interaction problem is addressed via quantum mechanics: consciousness influences outcomes physics leaves undetermined. Parsimony is sacrificed, but the Map considers this cost worth paying to preserve causal interaction and the independent reality of physics.
+The Map accepts the hard problem's force and avoids it via dualism—consciousness doesn't emerge from matter because it's a distinct category. The interaction problem is addressed via quantum mechanics: consciousness influences outcomes physics leaves undetermined. Parsimony is sacrificed, but as the [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet argues, the Map considers this cost worth paying to preserve causal interaction and the independent reality of physics.
 
 ## The Dissociation Model
 
@@ -137,7 +137,7 @@ On idealism, these questions transform. If there is no physical substrate, what 
 
 ### Indexical Identity
 
-The [No Many Worlds](/tenets/#no-many-worlds) tenet emphasizes that indexical identity matters—*this* conscious being, *this* choice. If individual minds are dissociations of universal consciousness, individual identity is derivative, perhaps illusory. The Map maintains that *you*—this particular conscious being—genuinely choose and genuinely matter. You're not a fragment of something else; you're a conscious being who interacts with physical reality.
+The [No Many Worlds](/tenets/#no-many-worlds) tenet emphasizes that indexical identity matters—*this* conscious being, *this* choice. If individual minds are dissociations of universal consciousness, individual identity is derivative, perhaps illusory. The Map maintains that *you*—this particular conscious being—genuinely choose and genuinely matter. You're not a fragment of something else; you're a conscious being with [genuine causal power](/concepts/agent-causation/) who interacts with physical reality.
 
 This connects to [phenomenal-value-realism](/topics/phenomenal-value-realism/): if [indexical identity carries value](/topics/phenomenal-value-realism/#connection-to-indexical-identity)—if *your* experience matters distinctly from experiences-of-your-type—then idealism's subordination of individual to cosmic consciousness has ethical implications.
 

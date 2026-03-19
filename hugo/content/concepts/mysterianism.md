@@ -70,7 +70,7 @@ A type of mind M is cognitively closed with respect to a property P if M's conce
 
 McGinn argues that property P—the property linking consciousness to brain—is closed to humans because of how we access each side. **Consciousness** is accessed through introspection: we look inward and encounter experiences directly, but introspection reveals nothing about neural mechanisms. **The brain** is accessed through perception and scientific investigation: we observe neural activity and map synaptic connections, but perception reveals nothing about why this activity should feel like anything. Neither mode of access reveals the *connection* between the two. This asymmetric access shapes how [cognitive science studies consciousness](/topics/cognitive-science-of-dualism/): the field's third-person methods capture neural correlates while depending on first-person report to know what those correlates are correlates *of*.
 
-McGinn calls his position "transcendental naturalism": the solution is natural (no supernatural entities required) but transcends our cognitive capacities. Property P is presumably simple and elegant—we just cannot form the concept. Whether this assumption can even be tested is itself a [prior question](/voids/natural-vs-designed-limits/) the voids framework explores.
+McGinn calls his position "transcendental naturalism": the solution is natural (no supernatural entities required) but transcends our cognitive capacities. Property P is presumably simple and elegant—we just cannot form the concept. Whether this assumption can even be tested is itself a [prior question](/voids/meta-epistemology-of-limits/) the voids framework explores.
 
 ## Cognitive Closure Versus Causal Closure
 
@@ -136,7 +136,7 @@ This transforms mysterianism from pessimism into method. By mapping *where* thou
 
 ## Can We Know If the Limits Are Real?
 
-Can we determine if cognitive limits are genuine or merely apparent? The [voids article on this question](/voids/whether-real/) reveals a peculiar epistemic situation: the question may be undecidable from within any limited system. The [epistemology of cognitive limits](/voids/epistemology-of-cognitive-limits/) explores this meta-level problem, addressing Kriegel's challenge that formulating a problem requires conceptual resources to solve it—and Demircioglu's reply distinguishing *representational* closure (what we can frame) from *psychological* closure (what we can grasp).
+Can we determine if cognitive limits are genuine or merely apparent? The [voids article on this question](/voids/whether-real/) reveals a peculiar epistemic situation: the question may be undecidable from within any limited system. The [epistemology of cognitive limits](/voids/meta-epistemology-of-limits/) explores this meta-level problem, addressing Kriegel's challenge that formulating a problem requires conceptual resources to solve it—and Demircioglu's reply distinguishing *representational* closure (what we can frame) from *psychological* closure (what we can grasp).
 
 Three positions emerge: **The Optimist** holds that cognitive closure remains undemonstrated—past mysteries dissolved when right concepts emerged. **The Pessimist** argues that any endowment providing scope also imposes limits; the hard problem's persistence suggests permanent closure. **The Suspended** position holds the question itself may be formally undecidable—sufficiently deep cognitive closure would hide itself.
 
@@ -231,7 +231,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Complete neural mapping yet unknowable experience
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What cognitive closure feels like from the inside
 - [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) — Whether altered states can transcend cognitive closure or merely map its edges
-- [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/) — The meta-level question: how can we know our limits?
+- [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/) — The meta-level question: how can we know our limits?
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits reveal cognitive architecture
 - [whether-real](/voids/whether-real/) — Can we know if the voids are genuinely permanent?
 - [self-transcendence-void](/voids/self-transcendence-void/) — The Münchhausen problem: consciousness cannot upgrade its own architecture

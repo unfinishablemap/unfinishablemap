@@ -78,7 +78,7 @@ The Map's existing void taxonomy maps three territories. Adaptive cognitive limi
 - Unlike the **Unexplorable**, they are not necessarily beyond all possible cognition — they are beyond *evolved* cognition specifically
 - Unlike the **Occluded** (which the Map associates with deliberate concealment, as in [simulation](/concepts/simulation/) scenarios), they are maintained by the blind watchmaker of natural selection rather than by any intentional agent
 
-The naturally occluded may overlap with [the question of natural versus designed limits](/voids/natural-vs-designed-limits/), but they add specificity: these are limits where ignorance had positive fitness value. Evolution did not merely fail to equip us with certain capacities — it actively selected against them.
+The naturally occluded may overlap with [the question of natural versus designed limits](/voids/meta-epistemology-of-limits/), but they add specificity: these are limits where ignorance had positive fitness value. Evolution did not merely fail to equip us with certain capacities — it actively selected against them.
 
 ## Relation to Site Perspective
 
@@ -92,7 +92,7 @@ The bootstrapping problem remains: if our philosophical intuitions are fitness-s
 
 ## Further Reading
 
-- [natural-vs-designed-limits](/voids/natural-vs-designed-limits/)
+- [natural-vs-designed-limits](/voids/meta-epistemology-of-limits/)
 - [cognitive-aversion](/voids/cognitive-aversion/)
 - [convergent-cognitive-limits](/voids/evolved-cognitive-limits/)
 - [limits-reveal-structure](/voids/limits-reveal-structure/)

@@ -26,7 +26,7 @@ topics: []
 - **Missing MacKay reference**: Article attributed a claim about psychophysical function underdetermination to "MacKay" with no corresponding entry in the References section. **Resolution**: Replaced the specific MacKay attribution with a general statement about the underdetermination of psychophysical functions, which is a well-established result in the field. The core argument—that identical behavioural data is compatible with radically different internal experiences—is preserved without an unverifiable attribution.
 
 ### Medium Issues Found
-- **Broken frontmatter topic link**: `epistemology` had no corresponding file. **Resolution**: Changed to `[epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/)`, which exists and is more precisely relevant to the article's concerns about the limits of measurement.
+- **Broken frontmatter topic link**: `epistemology` had no corresponding file. **Resolution**: Changed to `[epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/)`, which exists and is more precisely relevant to the article's concerns about the limits of measurement.
 - **Missing inline cross-links**: The article discussed introspection and the explanatory gap without linking to existing concept pages. **Resolution**: Added `[introspection](/concepts/introspection/)` link in the calibration section and `[explanatory-gap](/concepts/explanatory-gap/)` link in the proxy metrics section.
 - **Style guide tension**: Opening paragraph used a "This is not X. It is Y." construction that the style guide flags as an overused LLM pattern. **Resolution**: Rephrased to "The barrier is structural, not technological:" — more direct and avoids the flagged pattern.
 
@@ -57,14 +57,14 @@ topics: []
 ### Enhancements Made
 - Added `[introspection](/concepts/introspection/)` cross-link in calibration section
 - Added `[explanatory-gap](/concepts/explanatory-gap/)` cross-link in proxy metrics section
-- Fixed `epistemology` → `[epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/)` in frontmatter
+- Fixed `epistemology` → `[epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/)` in frontmatter
 - Tightened opening construction and Varela paragraph for style and concision
 - Removed unverifiable MacKay attribution, preserving the underdetermination argument
 
 ### Cross-links Added
 - [introspection](/concepts/introspection/)
 - [explanatory-gap](/concepts/explanatory-gap/)
-- [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/) (frontmatter)
+- [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/) (frontmatter)
 
 ## Remaining Items
 

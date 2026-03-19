@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-03-19 02:43:00+00:00
+ai_modified: 2026-03-19 10:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -226,6 +226,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [affective-void](/voids/affective-void/) - Emotions and affects beyond human phenomenological reach
 
 **Background:**
+- [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) - Lucid dream control as evidence that qualia are causally efficacious, not epiphenomenal
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) - The broader problem qualia exemplify
 - [explanatory-gap](/concepts/explanatory-gap/) - The chasm between physical description and experience
 - [combination-problem](/concepts/combination-problem/) - How micro-experiences combine

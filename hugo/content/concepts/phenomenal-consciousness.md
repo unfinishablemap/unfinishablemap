@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-18 13:10:00+00:00
+ai_modified: 2026-03-19 10:05:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -155,6 +155,7 @@ Thomas Nagel's analysis in [objectivity-and-consciousness](/concepts/objectivity
 - [agent-causation](/concepts/agent-causation/) - Conscious agents as irreducible causes
 - [types-of-consciousness](/concepts/types-of-consciousness/) - Comprehensive taxonomy of consciousness types: phenomenal, access, monitoring, and structural variations
 - [dream-consciousness](/topics/dream-consciousness/) - Dreams as vivid phenomenal consciousness without external input, with cognitive outcomes tracking phenomenal mode
+- [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) - Lucid dreaming as evidence that consciousness renders phenomenal worlds through neural architecture rather than from it
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) - The tension between objective description and subjective experience
 
 ### Apex Synthesis

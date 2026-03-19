@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-14 14:16:00+00:00
+ai_modified: 2026-03-19 10:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -126,6 +126,7 @@ The attention-imagery interface connects to the Map's broader framework. [Attent
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view mental imagery evidence challenges
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Non-sensory phenomenal consciousness revealed by aphantasia
 - [phenomenology-of-imagination](/topics/phenomenology-of-imagination/) — The distinctive phenomenal character of imaginative experience
+- [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Lucid dreaming as the case where voluntary control emerges during involuntary imagery, disrupting the LPFC dissociation
 - [downward-causation](/concepts/downward-causation/) — Voluntary imagery as a concrete instance of top-down mental causation
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — The broader pattern of consciousness enabling unique cognitive functions
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why consciousness's role in imagery was likely selected for

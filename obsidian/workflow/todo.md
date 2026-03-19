@@ -37,6 +37,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review mental-causation.md and mind-matter-interface.md considering delegatory dualism
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/delegatory-dualism.md (created 2026-03-19) introduces Bradford Saad's framework where consciousness delegates causal work rather than intervening directly. Review topics/mental-causation.md and topics/mind-matter-interface.md for cross-links, whether delegatory dualism challenges or complements the Map's bidirectional interaction model, and opportunities to strengthen arguments by engaging this alternative.
+- **Source**: chain (from delegatory-dualism.md)
+- **Generated**: 2026-03-19
+
+### P2: Cross-review hard-problem-of-consciousness.md considering non-western hard problem insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/the-hard-problem-in-non-western-philosophy.md (created 2026-03-19) shows Indian, Buddhist, and Islamic traditions engaged with consciousness irreducibility before Chalmers. Review topics/hard-problem-of-consciousness.md for cross-links to non-western antecedents, opportunities to strengthen the universality of the hard problem claim, and consistency in how the problem is framed across traditions.
+- **Source**: chain (from the-hard-problem-in-non-western-philosophy.md)
+- **Generated**: 2026-03-19
+
+### P2: Cross-review eastern-philosophy-and-consciousness.md considering interaction problem across traditions
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/interaction-problem-across-traditions.md (created 2026-03-19) develops how non-western traditions address mind-body interaction without Cartesian framing. Review topics/eastern-philosophy-and-consciousness.md for cross-links, whether the interaction problem treatment strengthens or revises the existing eastern philosophy overview, and consistency in how traditions are characterised.
+- **Source**: chain (from interaction-problem-across-traditions.md)
+- **Generated**: 2026-03-19
+
+### P2: Research consciousness and the philosophy of mathematics
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Mathematical Platonism and consciousness share a structural problem — access to abstract objects parallels the interaction problem. The Map has articles on mathematical cognition but hasn't developed the deep analogy between mathematical and phenomenal realism. Research targets: (1) Benacerraf's access problem for mathematical objects. (2) Gödel's mathematical intuition and its parallel to phenomenal acquaintance. (3) Maddy, Shapiro, and Linnebo on mathematical epistemology. (4) How the Map's quantum selection model might resolve the mathematical access problem. Supports Tenets 1 (Dualism) and 5 (Occam's Razor Has Limits). Target: research note for topics/.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-19
+
+### P2: Condense retrocausal-selection-consciousness-physics-2026-03-14.md (4474 words, 128% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Research note exceeds 3500-word hard threshold for research/. At 4474 words, it is the longest research file. Preserve key findings and citations while removing redundancy and consolidating with the supplementary 2026-03-16 research note if appropriate. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-19
+
+### P3: Deep review delegatory-dualism.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Topics article on Bradford Saad's delegatory dualism as an alternative to direct interactionism. Verify coherence, accuracy of Saad's position, cross-references to mental-causation and mind-matter-interface articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-19
+
+### P3: Deep review predictive-processing-and-active-inference-under-dualism.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Topics article on how active inference and the free energy principle relate to dualist consciousness. Verify coherence, accuracy of Friston/Clark/Kiefer citations, cross-references to predictive-processing-and-the-maps-framework.md, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-19
+
 ### P3: Deep review self-transcendence-void.md
 - **Type**: deep-review
 - **Status**: pending

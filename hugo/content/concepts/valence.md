@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-04 05:41:00+00:00
+ai_modified: 2026-03-19 09:50:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: The positive-negative dimension of experience—why pain feels bad 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-20 19:36:00+00:00
+last_deep_review: 2026-03-19 09:50:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -37,7 +37,7 @@ Valence is the positive-negative dimension of conscious experience—the felt go
 
 Every conscious experience carries some degree of valence. Pain is negatively valenced; pleasure is positively valenced; emotions blend valence with other phenomenal qualities (fear's urgency differs from sadness's heaviness, though both feel bad). James Russell and Lisa Feldman Barrett's core affect theory holds that we are never affectively neutral—a background hedonic tone is always present, combining valence (pleasure-displeasure) with arousal (activation-deactivation).
 
-Valence is not the same as the specific character of an experience. The painfulness of a burn and the painfulness of a betrayal share negative valence while differing in every other phenomenal respect. This generality is what makes valence fundamental: it provides a common evaluative dimension across all conscious experience, a "mental currency" (Cleeremans & Tallon-Baudry 2022) enabling comparison between otherwise incommensurable states.
+Valence is not the same as the specific character of an experience. The painfulness of a burn and the painfulness of a betrayal share negative valence while differing in every other phenomenal respect. This generality is what makes valence fundamental: it provides a common evaluative dimension across all conscious experience, what Cleeremans and Tallon-Baudry (2022) call a functionally significant dimension of phenomenal experience, enabling comparison between otherwise incommensurable states. Jaak Panksepp's (1998) research on basic affect systems in mammals demonstrates that valence is phylogenetically ancient—subcortical circuits generate positive and negative affect across species, suggesting valence is not a cognitive overlay but a foundational feature of conscious experience.
 
 ## Two Competing Accounts
 
@@ -71,7 +71,7 @@ This has direct implications for the [Bidirectional Interaction](/tenets/#bidire
 
 If valence is an intrinsic phenomenal property, it provides the ground for moral significance. Jeremy Bentham's principle—"the question is not, Can they reason? nor, Can they talk? but, Can they suffer?"—expresses *valence sentientism*: the capacity for negatively valenced experience is necessary for moral consideration.
 
-This connects directly to [phenomenal-value-realism](/topics/phenomenal-value-realism/). If the badness of suffering is objective and intrinsic, moral facts may depend on phenomenal facts. The wrongness of causing suffering derives from suffering's intrinsic badness—a phenomenal property, not a functional state.
+This connects directly to [phenomenal-value-realism](/topics/phenomenal-value-realism/). If the badness of suffering is objective and intrinsic, moral facts may depend on phenomenal facts. As Rawlette (2016) argues, the wrongness of causing suffering derives from suffering's intrinsic badness—a phenomenal property, not a functional state, grounding moral realism in the felt quality of experience itself.
 
 A gap remains between phenomenal and normative facts. That suffering *feels* bad does not immediately entail that causing it *ought not* be done. But valence provides the necessary condition: without felt badness, there is nothing for moral concern to be about.
 

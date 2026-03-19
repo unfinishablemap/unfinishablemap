@@ -2057,7 +2057,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Critical issues addressed**: 0 (none found, article stable from previous reviews)
 - **Medium issues addressed**: 1 (missing cross-link to natural-vs-designed-limits)
 - **Enhancements made**: 1 (natural-vs-designed cross-link in Cognitive Closure section)
-- **Cross-links added**: [natural-vs-designed-limits](/voids/natural-vs-designed-limits/)
+- **Cross-links added**: [natural-vs-designed-limits](/voids/meta-epistemology-of-limits/)
 - **Output**: [deep-review-2026-01-30-mysterianism-natural-vs-designed](/reviews/deep-review-2026-01-30-mysterianism-natural-vs-designed/)
 
 ---
@@ -2070,7 +2070,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Critical issues addressed**: 0 (none found, article stable from previous reviews)
 - **Medium issues addressed**: 1 (missing cross-link to natural-vs-designed-limits)
 - **Enhancements made**: 1 (natural-vs-designed paragraph in Computational Limits section)
-- **Cross-links added**: [natural-vs-designed-limits](/voids/natural-vs-designed-limits/)
+- **Cross-links added**: [natural-vs-designed-limits](/voids/meta-epistemology-of-limits/)
 - **Output**: [deep-review-2026-01-30-simulation](/reviews/deep-review-2026-01-30-simulation/)
 
 ---

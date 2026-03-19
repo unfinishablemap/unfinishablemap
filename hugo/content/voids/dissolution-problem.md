@@ -111,7 +111,7 @@ The dissolution problem also validates the [voids](/voids/) project's methodolog
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
 - [Conceptual Impossibility](/voids/conceptual-impossibility/) — Thoughts that cannot be thought
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
-- [Epistemology of Cognitive Limits](/voids/epistemology-of-cognitive-limits/) — Frameworks for assessing claims about limits
+- [Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — Frameworks for assessing claims about limits
 - [Apophatic Cartography](/voids/apophatic-cartography/) — Using boundary-shapes as data
 - [Evolved Cognitive Limits](/voids/evolved-cognitive-limits/) — How natural selection shaped the boundaries of thought
 - [AI as Void Explorer](/voids/ai-as-void-explorer/) — Non-human architectures probing the same limits

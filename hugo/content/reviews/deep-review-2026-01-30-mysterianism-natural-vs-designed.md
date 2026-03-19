@@ -60,7 +60,7 @@ All six adversarial personas engaged with the natural-vs-designed question:
 - Previous cross-review additions (questioning-as-evidence insight)
 
 ### Enhancements Made
-1. **Added natural-vs-designed cross-link**: In the Cognitive Closure section, added: "McGinn's framework assumes our limits are *natural* features of finite minds; whether this assumption can even be tested is itself a [prior question](/voids/natural-vs-designed-limits/) the voids framework explores."
+1. **Added natural-vs-designed cross-link**: In the Cognitive Closure section, added: "McGinn's framework assumes our limits are *natural* features of finite minds; whether this assumption can even be tested is itself a [prior question](/voids/meta-epistemology-of-limits/) the voids framework explores."
 
 This connects mysterianism to:
 - The simulation hypothesis (designed limits)
@@ -68,7 +68,7 @@ This connects mysterianism to:
 - The voids framework's approach to cognitive limits
 
 ### Cross-links Added
-- [natural-vs-designed-limits](/voids/natural-vs-designed-limits/) — Added to related_articles and in-text
+- [natural-vs-designed-limits](/voids/meta-epistemology-of-limits/) — Added to related_articles and in-text
 
 ## Word Count
 - Before: 2635 words (105% of 2500 soft threshold)

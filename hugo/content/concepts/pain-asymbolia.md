@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-02-26 23:57:00+00:00
+ai_modified: 2026-03-19 10:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,6 +10,7 @@ concepts:
 - '[[mental-causation]]'
 - '[[phenomenal-consciousness]]'
 - '[[explanatory-gap]]'
+- '[[valence]]'
 created: 2026-02-15
 date: &id001 2026-02-15
 description: Pain asymbolia dissociates nociceptive sensation from affective suffering,
@@ -18,7 +19,7 @@ description: Pain asymbolia dissociates nociceptive sensation from affective suf
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-20 12:06:00+00:00
+last_deep_review: 2026-03-19 10:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -26,7 +27,7 @@ related_articles:
 - '[[psychophysical-laws]]'
 title: Pain Asymbolia
 topics:
-- '[[phenomenology-of-pain]]'
+- '[[why-pain-hurts]]'
 - '[[pain-consciousness-and-causal-power]]'
 ---
 
@@ -34,7 +35,7 @@ Pain asymbolia is a neurological condition in which patients detect nociceptive 
 
 ## Clinical Presentation
 
-Pain asymbolia typically results from lesions to the insular cortex, the anterior cingulate cortex, or the white-matter connections between them. Berthier, Starkstein, and Leiguarda (1988) described it as a "sensory-limbic disconnection syndrome": the somatosensory pathways that detect tissue damage remain intact, but their connection to the affective evaluation systems is severed.
+The condition was first systematically described by Rubins and Friedman (1948), and Geschwind (1965) placed it within a broader framework of disconnection syndromes—conditions where intact processing modules lose communication with each other. Pain asymbolia typically results from lesions to the insular cortex, the anterior cingulate cortex, or the white-matter connections between them. Berthier, Starkstein, and Leiguarda (1988) refined the characterisation, describing it as a "sensory-limbic disconnection syndrome": the somatosensory pathways that detect tissue damage remain intact, but their connection to the affective evaluation systems is severed.
 
 Patients with pain asymbolia can:
 - Identify that a stimulus is nociceptive ("that's a pinprick")
@@ -49,7 +50,7 @@ The condition reveals that what ordinary language calls "pain" is not a single p
 
 **Sensory-discriminative**: where the damage is, what type it is, how intense the stimulus is. This layer survives in asymbolia. It corresponds roughly to processing in the primary and secondary somatosensory cortices and the posterior insula.
 
-**Affective-motivational**: the *awfulness*—the phenomenal quality that makes pain intrinsically aversive and drives protective behaviour. This layer is abolished in asymbolia. It depends on the anterior insula, the anterior cingulate cortex, and their connections to limbic structures.
+**Affective-motivational**: the *awfulness*—the [phenomenal valence](/concepts/valence/) that makes pain intrinsically aversive and drives protective behaviour. This layer is abolished in asymbolia. It depends on the anterior insula, the anterior cingulate cortex, and their connections to limbic structures.
 
 The dissociation is not a graded reduction. Asymbolia patients do not report mild discomfort where they should feel agony. They report no affective dimension at all. The sensory information arrives; the suffering does not. This clean separation argues against accounts that treat pain's unpleasantness as an intrinsic property of nociceptive processing itself. The processing continues; the unpleasantness vanishes.
 
@@ -96,7 +97,8 @@ Together, these dissociations show that pain's dimensions can be independently m
 ## Further Reading
 
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain, suffering, and the paradigm case for mental causation
-- [phenomenology-of-pain](/topics/why-pain-hurts/) — Pain's phenomenal character and resistance to reduction
+- [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Pain's phenomenal character and resistance to reduction
+- [valence](/concepts/valence/) — The affective dimension that asymbolia abolishes
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment that asymbolia partially instantiates
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that asymbolia exposes in miniature
 - [qualia](/concepts/qualia/) — The qualitative character of experience

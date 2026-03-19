@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-02-04
 **Article**: [Mysterianism and Cognitive Closure](/concepts/mysterianism/)
 **Previous review**: [2026-02-04](/reviews/deep-review-2026-02-04-mysterianism/) (earlier today)
-**Cross-review context**: [The Epistemology of Cognitive Limits](/voids/epistemology-of-cognitive-limits/)
+**Cross-review context**: [The Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/)
 
 ## Pessimistic Analysis Summary
 
@@ -55,13 +55,13 @@ Six adversarial personas applied:
 - Integration with altered-states-as-void-probes (from earlier review)
 
 ### Enhancements Made
-1. Added integration with [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/) in "Can We Know If the Limits Are Real?" section: Kriegel's incoherence argument, Demircioglu's reply distinguishing representational from psychological closure, and Dunning-Kruger implications.
-2. Added [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/) to Further Reading section.
-3. Added [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/) to related_articles frontmatter.
+1. Added integration with [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/) in "Can We Know If the Limits Are Real?" section: Kriegel's incoherence argument, Demircioglu's reply distinguishing representational from psychological closure, and Dunning-Kruger implications.
+2. Added [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/) to Further Reading section.
+3. Added [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/) to related_articles frontmatter.
 4. Tightened prose in "Temporary Versus Permanent" and "Mysterianism's Virtues" sections to maintain length neutrality.
 
 ### Cross-links Added
-- [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/) — The meta-level question: how can we know our limits?
+- [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/) — The meta-level question: how can we know our limits?
 
 ## Remaining Items
 

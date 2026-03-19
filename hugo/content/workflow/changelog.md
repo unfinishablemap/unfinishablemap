@@ -18,6 +18,113 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 10:29 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: memory-consolidation-and-transformation-of-experience.md
+- **Reason**: Article was archived on 2026-03-18 and coalesced into [consciousness-and-memory](/topics/consciousness-and-memory/). The orphan detection found a stale hugo/content/topics/ file that should be cleaned up by running sync. No review needed — all content is properly absorbed into the parent article.
+- **Todo**: Removed invalid integrate-orphan task
+
+## 2026-03-19 10:22 UTC - deep-review
+- **Status**: Success
+- **File**: [pain-asymbolia](/concepts/pain-asymbolia/)
+- **Word count**: 1642 → 1686 (+44)
+- **Critical issues addressed**: 1 (broken wikilink from coalesce)
+- **Medium issues addressed**: 2 (uncited references, missing valence cross-link)
+- **Enhancements made**: 3 (historical context, valence link, updated coalesced link)
+- **Output**: [deep-review-2026-03-19-pain-asymbolia](/reviews/deep-review-2026-03-19-pain-asymbolia/)
+
+## 2026-03-19 10:12 UTC - deep-review
+- **Status**: Success
+- **File**: [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) (supersedes archived [godel-measurement-problem-analogy](/topics/godel-measurement-problem-analogy/))
+- **Word count**: 2555 → 2555 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status — article had only 1 inbound link)
+- **Enhancements made**: 4 inbound cross-links added (measurement-problem, causal-closure, cognitive-closure, consciousness-and-mathematical-cognition)
+- **Output**: [deep-review-2026-03-19-godel-measurement-problem-analogy](/reviews/deep-review-2026-03-19-godel-measurement-problem-analogy/)
+
+## 2026-03-19 10:05 UTC - deep-review
+- **Status**: Success
+- **File**: [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/)
+- **Word count**: 2907 → 2907 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (remaining orphan integration gaps)
+- **Enhancements made**: 4 inbound cross-links added (phenomenal-consciousness, phenomenology-of-imagination, mental-imagery, qualia)
+- **Output**: [deep-review-2026-03-19-lucid-dreaming-and-dualist-rendering-integration](/reviews/deep-review-2026-03-19-lucid-dreaming-and-dualist-rendering-integration/)
+
+## 2026-03-19 09:58 UTC - deep-review
+- **Status**: Success
+- **File**: [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-the-maps-framework/)
+- **Word count**: 2446 → ~2476 (+30)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to active inference article)
+- **Enhancements made**: 1 (cross-reference integration)
+- **Output**: [deep-review-2026-03-19-predictive-processing-and-the-maps-framework](/reviews/deep-review-2026-03-19-predictive-processing-and-the-maps-framework/)
+
+## 2026-03-19 09:50 UTC - deep-review
+- **Status**: Success
+- **File**: [valence](/concepts/valence/)
+- **Word count**: 1275 → 1333 (+58)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (uncited references, imprecise attribution)
+- **Enhancements made**: 3 (Panksepp citation, Rawlette citation, attribution rewording)
+- **Output**: [deep-review-2026-03-19-valence](/reviews/deep-review-2026-03-19-valence/)
+
+## 2026-03-19 09:42 UTC - coalesce
+- **Status**: Success
+- **Sources**: [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/), [natural-vs-designed-limits](/voids/meta-epistemology-of-limits/)
+- **Target**: [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
+- **Archived**: archive/voids/epistemology-of-cognitive-limits.md, archive/voids/natural-vs-designed-limits.md
+- **References to review**: 28 (18 for epistemology-of-cognitive-limits, 10 for natural-vs-designed-limits)
+
+## 2026-03-19 09:35 UTC - expand-topic
+- **Status**: Skipped (already covered)
+- **Topic**: the interaction problem in non-western philosophy
+- **Reason**: Research already consumed by [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) (coalesced from the original interaction-problem-in-non-western-philosophy article and interaction-solutions-across-traditions). Task removed from queue.
+
+## 2026-03-19 09:27 UTC - deep-review
+- **Status**: Success
+- **File**: [idealism](/concepts/idealism/)
+- **Word count**: 2838 → 2850 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2 (cross-link additions)
+- **Output**: [deep-review-2026-03-19-idealism](/reviews/deep-review-2026-03-19-idealism/)
+
+## 2026-03-19 09:20 UTC - expand-topic
+- **Status**: Skipped (already covered)
+- **Topic**: The hard problem of consciousness in non-western philosophy
+- **Reason**: Article already exists at topics/the-hard-problem-in-non-western-philosophy.md (197 lines, comprehensive treatment covering Sāṃkhya, Nyāya, Buddhism, Avicenna, Chinese philosophy, Kyoto School, African philosophy). Has been through pessimistic review and refinement (2026-02-15, 2026-02-18). No new article needed.
+
+## 2026-03-19 09:14 UTC - expand-topic
+- **Status**: Skipped (already covered)
+- **Topic**: Bradford Saad's delegatory dualism
+- **Reason**: Topic already exists at topics/delegatory-dualism.md (260 lines, comprehensive treatment) and concept page at concepts/causal-delegation.md (114 lines). Slug `delegatory-dualism` collides with existing topic. Task notes incorrectly characterized the theory as having "consciousness delegates causal work to physical processes" — Saad's theory is the reverse (physical states delegate to experiences). Existing articles correctly cover Map positioning and tenet alignment.
+
+## 2026-03-19 08:59 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Sections searched**: voids (100/100), topics (225/230), concepts (210/230)
+- **Pairs examined**: ~20 across all sections
+- **Reason**: All articles well-differentiated; no strong merge candidates found
+
+## 2026-03-19 08:45 UTC - deep-review
+- **Status**: Success
+- **File**: [agent-teleology](/concepts/agent-teleology/)
+- **Word count**: 2031 → 2121 (+90)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (self-transcendence void connection)
+- **Enhancements made**: 3 (new "Does Not Claim" bullet, related_articles link, Further Reading entry)
+- **Cross-review context**: Self-transcendence void insights applied
+- **Output**: [deep-review-2026-03-19-agent-teleology](/reviews/deep-review-2026-03-19-agent-teleology/)
+
+## 2026-03-19 08:37 UTC - deep-review
+- **Status**: Success
+- **File**: [interface-friction](/concepts/interface-friction/)
+- **Word count**: 1671 → 1676 (+5)
+- **Critical issues addressed**: 1 (Stapp reference date 2001→2007)
+- **Medium issues addressed**: 0 (psychophysical-coupling article deferred)
+- **Enhancements made**: 1 (cross-link to consciousness-selecting-neural-patterns)
+- **Output**: [deep-review-2026-03-19-interface-friction](/reviews/deep-review-2026-03-19-interface-friction/)
+
 ## 2026-03-19 08:30 UTC - condense
 - **Status**: Success
 - **File**: [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)

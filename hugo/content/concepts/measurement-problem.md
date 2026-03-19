@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-18 23:52:00+00:00
+ai_modified: 2026-03-19 10:12:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -49,6 +49,7 @@ related_articles:
 - '[[quantum-measurement-and-subjective-probability]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 - '[[physics-as-disclosure]]'
+- '[[self-reference-and-the-limits-of-physical-description]]'
 title: The Measurement Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -114,7 +115,7 @@ This parallel has substance beyond metaphor. Dourdent (2020) identifies *structu
 
 More rigorously, Cubitt, Perez-Garcia, and Wolf (2015) proved that the spectral gap of quantum many-body systems is formally undecidable. Landsman (2020) argued that quantum indeterminism follows from Chaitin's extension of Gödel's theorem: measurement outcome strings are algorithmically incompressible, establishing a direct connection between incompleteness and quantum randomness.
 
-**Scope limits**: Franzén (2005) rightly cautions that Gödel's theorems concern provability within axiom systems—extending them to physics risks category error when done loosely. The Map endorses the structural level: both the measurement problem and incompleteness reveal where a descriptive framework reaches a boundary it cannot cross from within, consistent with the [disclosure reading](/concepts/physics-as-disclosure/). Whether this reflects a deeper formal connection (as Landsman's and Cubitt et al.'s results suggest) remains open.
+**Scope limits**: Franzén (2005) rightly cautions that Gödel's theorems concern provability within axiom systems—extending them to physics risks category error when done loosely. The Map endorses the structural level: both the measurement problem and incompleteness reveal where a descriptive framework reaches a boundary it cannot cross from within, consistent with the [disclosure reading](/concepts/physics-as-disclosure/). Whether this reflects a deeper formal connection (as Landsman's and Cubitt et al.'s results suggest) remains open. [Self-Reference and the Limits of Physical Description](/topics/self-reference-and-the-limits-of-physical-description/) develops this connection across three tiers of rigour—from loose metaphor through structural parallel to formal unification via Lawvere's fixed-point theorem.
 
 ## Major Interpretations
 
@@ -236,6 +237,7 @@ The measurement problem is central to the Map's framework. It provides the *perm
 - [consciousness-in-non-collapsed-quantum-states](/concepts/consciousness-in-non-collapsed-quantum-states/) — The pre-collapse phase and the definiteness constraint
 - [physics-as-disclosure](/concepts/physics-as-disclosure/) — The measurement problem as boundary disclosure, not theoretical deficiency
 - [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) — The two-aspect ontology underlying the disclosure reading
+- [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — Gödel-quantum connections from metaphor through formal unification via Lawvere's theorem
 - [decoherence](/concepts/decoherence/) — What decoherence does and doesn't explain
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and consciousness-modulated collapse
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — comparative assessment of interpretations' consciousness compatibility

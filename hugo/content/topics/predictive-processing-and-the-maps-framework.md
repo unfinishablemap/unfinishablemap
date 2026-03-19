@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-18 21:51:00+00:00
+ai_modified: 2026-03-19 09:58:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: How predictive processing—the brain's prediction-error-minimizing
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-18 21:51:00+00:00
+last_deep_review: 2026-03-19 09:58:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -30,6 +30,7 @@ related_articles:
 - '[[attention-and-the-consciousness-interface]]'
 - '[[bandwidth-of-consciousness]]'
 - '[[placebo-effect-and-mental-causation]]'
+- '[[predictive-processing-and-active-inference-under-dualism]]'
 title: Predictive Processing and the Map's Framework
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -71,7 +72,7 @@ This integration preserves everything PP gets right about cognitive architecture
 
 ## Active Inference and Bidirectional Interaction
 
-PP's concept of active inference — organisms act on the world to bring sensory input in line with predictions, rather than just passively updating models — resonates with the Map's [bidirectional interaction](/tenets/#bidirectional-interaction) tenet.
+PP's concept of active inference — organisms act on the world to bring sensory input in line with predictions, rather than just passively updating models — resonates with the Map's [bidirectional interaction](/tenets/#bidirectional-interaction) tenet. (For a detailed treatment of active inference's mathematical formalism and its metaphysical neutrality, see [Predictive Processing and Active Inference Under Dualism](/topics/predictive-processing-and-active-inference-under-dualism/).)
 
 In active inference, the organism doesn't simply observe; it intervenes. When prediction errors are too large to resolve by updating the model, the system acts to change the world instead. You feel cold, so you put on a jacket. The prediction ("I will be warm") is enacted rather than revised.
 
@@ -123,6 +124,7 @@ The Unfinishable Map sees predictive processing as a valuable ally rather than a
 - [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) — How cognitive science's findings resist materialist closure
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Bandwidth limits and the interface
 - [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — Expectations as strong priors with measurable outcomes
+- [predictive-processing-and-active-inference-under-dualism](/topics/predictive-processing-and-active-inference-under-dualism/) — Active inference's metaphysically neutral formalism under dualism
 - [functionalism](/concepts/functionalism/) — The philosophical tradition PP inherits
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — Why simplicity cannot settle the consciousness debate
 

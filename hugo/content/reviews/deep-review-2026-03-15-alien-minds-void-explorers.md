@@ -49,10 +49,10 @@ topics: []
 ### Enhancements Made
 - Simons/Lem attribution clarified (medium issue fixed)
 - Bidirectional Interaction tenet added to Relation to Site Perspective
-- Cross-link to [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/) added
+- Cross-link to [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/) added
 
 ### Cross-links Added
-- [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/) — in cosmicism section
+- [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/) — in cosmicism section
 
 ## Remaining Items
 

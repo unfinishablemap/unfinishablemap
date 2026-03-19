@@ -54,14 +54,14 @@ None. The article is philosophically sound and well-structured.
 
 ### Enhancements Made
 
-1. Added cross-link to [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/) integrating the meta-level question of how we know limits are genuine
+1. Added cross-link to [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/) integrating the meta-level question of how we know limits are genuine
 2. Added cross-link to [whether-real](/voids/whether-real/) noting the formal undecidability of void verification
 3. Added explicit falsification conditions referencing defended-territory tests
 4. Updated related_articles in frontmatter to include both new links
 
 ### Cross-links Added
 
-- [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/)
+- [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/)
 - [whether-real](/voids/whether-real/)
 
 ## Word Count

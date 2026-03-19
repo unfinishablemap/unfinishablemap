@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-17 08:14:00+00:00
+ai_modified: 2026-03-19 10:12:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,6 +29,7 @@ related_articles:
 - '[[whether-real]]'
 - '[[limits-reveal-structure]]'
 - '[[intrinsic-nature-void]]'
+- '[[self-reference-and-the-limits-of-physical-description]]'
 - '[[phenomenology-of-the-edge]]'
 title: Cognitive Closure
 topics:
@@ -87,7 +88,7 @@ A third related concept—[observational-closure](/concepts/observational-closur
 
 McGinn focused on consciousness, but cognitive closure is a general thesis about mind-architecture limits. Several domains illustrate its broader reach:
 
-**Mathematics.** [Gödel's incompleteness theorems](/voids/computational-cognitive-limits/) prove that any sufficiently powerful formal system contains truths it cannot derive. If human cognition is partly formal, certain mathematical truths may be permanently beyond us—not because mathematics is hard but because our proof-generating capacities are structurally limited. The [phenomenology of mathematical understanding](/topics/consciousness-and-mathematical-cognition/) reveals a related gap: we can manipulate transfinite cardinals formally while lacking any phenomenal grasp of what "different sizes of infinity" means.
+**Mathematics.** [Gödel's incompleteness theorems](/voids/computational-cognitive-limits/) prove that any sufficiently powerful formal system contains truths it cannot derive. If human cognition is partly formal, certain mathematical truths may be permanently beyond us—not because mathematics is hard but because our proof-generating capacities are structurally limited. Category-theoretic work identifies these incompleteness results and quantum measurement limitations as instances of the [same self-referential obstruction](/topics/self-reference-and-the-limits-of-physical-description/)—suggesting that cognitive closure in mathematics and the measurement problem share a common formal root. The [phenomenology of mathematical understanding](/topics/consciousness-and-mathematical-cognition/) reveals a related gap: we can manipulate transfinite cardinals formally while lacking any phenomenal grasp of what "different sizes of infinity" means.
 
 **Perception.** [Developmental cognitive closure](/voids/architecture-of-cognitive-closure/) shows that closure is not fixed at birth. Infants discriminate phonemes from all languages; adults cannot. Infants recognise faces across species; adults cannot. Critical period closure and synaptic pruning physically dismantle the neural architecture that supported broader perceptual access.
 
@@ -129,7 +130,8 @@ The [voids](/voids/) framework operationalises cognitive closure. Rather than tr
 - [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/) — Fodor's nativist argument and how maturation creates new closures
 - [evolved-cognitive-limits](/voids/evolved-cognitive-limits/) — Cross-cultural evidence for species-level cognitive constraints
 - [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Proven mathematical limits on what algorithmic minds can know
-- [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/) — The meta-question: can we know our own limits?
+- [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — The common formal structure (Lawvere's theorem) underlying both Gödelian and quantum limits
+- [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/) — The meta-question: can we know our own limits?
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — A candidate for McGinn's property P
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How the shape of our limits reveals cognitive architecture

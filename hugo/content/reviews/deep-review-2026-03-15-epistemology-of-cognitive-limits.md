@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-15
-**Article**: [The Epistemology of Cognitive Limits](/voids/epistemology-of-cognitive-limits/)
+**Article**: [The Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/)
 **Previous review**: [2026-02-07](/reviews/deep-review-2026-02-07-epistemology-of-cognitive-limits/)
 
 ## Pessimistic Analysis Summary

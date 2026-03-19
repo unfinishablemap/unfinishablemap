@@ -193,7 +193,7 @@ The emergence void has several implications for the Map's framework:
 
 3. **The void as evidence for dualism.** The persistence of the emergence void across all domains, but its maximal opacity at consciousness, may be evidence that something genuinely different is happening when consciousness emerges. The emergence void is deeper for consciousness than for temperature—this asymmetry supports the dualist claim that consciousness involves something physics doesn't.
 
-4. **Designed vs. natural voids.** If the emergence void is architecturally built into cognition (perhaps because cognition is itself emergent and cannot fully comprehend its own emergence), this connects to the [natural-vs-designed-limits](/voids/natural-vs-designed-limits/) question. Is the void a feature of how minds necessarily work, or could it be an imposed limitation?
+4. **Designed vs. natural voids.** If the emergence void is architecturally built into cognition (perhaps because cognition is itself emergent and cannot fully comprehend its own emergence), this connects to the [natural-vs-designed-limits](/voids/meta-epistemology-of-limits/) question. Is the void a feature of how minds necessarily work, or could it be an imposed limitation?
 
 ## Potential Article Angles
 

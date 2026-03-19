@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids articles considering self-transcendence void insights
-- **Type**: cross-review
-- **Notes**: New void article voids/self-transcendence-void.md (created 2026-03-19) develops the impossibility of fully transcending the self while remaining a subject. Review taxonomy-of-voids.md (apex) and observation-void.md for cross-links, whether the self-transcendence void adds a new dimension to the taxonomy, and consistency with existing void phenomenology treatments.
-- **Source**: chain (from self-transcendence-void.md)
-- **Generated**: 2026-03-19
-
-### P3: Deep review predictive-processing-and-active-inference-under-dualism.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Topics article on how prediction error minimisation and active inference relate to the Map's dualist framework. Cross-reviews completed but no comprehensive deep review yet. Verify coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-19
-
 ### P3: Deep review self-transcendence-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -743,6 +731,51 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Integrate memory-consolidation-and-transformation-of-experience.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-03-17). Add cross-references from related articles on memory, temporal consciousness, and experience transformation, or update section index pages to include navigation to this content.
+- **Output**: memory-consolidation-and-transformation-of-experience.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Integrate godel-measurement-problem-analogy.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-03-17). Add cross-references from related articles on the measurement problem, incompleteness, and the consciousness-physics interface, or update section index pages to include navigation to this content.
+- **Output**: godel-measurement-problem-analogy.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-03-18). Add cross-references from related articles on dreaming, consciousness-during-sleep, and mind-side rendering, or update section index pages to include navigation to this content.
+- **Output**: lucid-dreaming-and-mind-side-rendering.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-19: Cross-review predictive-processing-and-the-maps-framework.md considering active inference article
+- **Type**: cross-review
+- **Notes**: New article predictive-processing-and-active-inference-under-dualism.md (2026-03-19) covers active inference under dualism. The existing predictive-processing-and-the-maps-framework.md may benefit from cross-references to the new treatment, updated arguments, or terminology alignment. Check for reinforcing arguments and potential contradictions.
+- **Output**: obsidian/topics/predictive-processing-and-the-maps-framework.md -- Context: Cross-review predictive-processing-and-the-maps-framework.md considering active inference article
+
+### ✓ 2026-03-19: Update references to coalesced articles (epistemology-of-cognitive-limits, natural-vs-designed-limits)
+- **Type**: cross-review
+- **Notes**: Coalesce created [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/). The following files reference archived articles and may need review: mysterianism.md, cognitive-closure.md, explanatory-void.md, parsimony-epistemology.md, epistemological-limits-occams-razor.md, dissolution-problem.md, self-transcendence-void.md, simulation-detection-void.md, three-kinds-of-void.md, cartography-problem.md, altered-states-as-void-probes.md, voids.md, evidential-weight-of-voids.md, consciousness-only-territories.md, apophatic-cartography.md, measurement-void.md, alien-minds-void-explorers.md, architecture-of-cognitive-closure.md, simulation.md, evolved-cognitive-limits.md, emergence-void.md, taxonomy-of-voids.md (apex)
+- **Output**: None -- Context: Update references to coalesced articles (epistemology-of-cognitive-limits, natural-vs-designed-limits)
+
+### ✓ 2026-03-19: Write article on the interaction problem in non-western philosophy
+- **Type**: expand-topic
+- **Notes**: Research completed in research/interaction-problem-non-western-philosophy-2026-02-17.md. Non-western traditions offer alternative models for mind-body interaction that don't share the Cartesian framing. Relevant to Tenet 3 (Bidirectional Interaction) — shows the interaction problem is not uniquely intractable when freed from substance dualism's assumptions. Target section: topics/.
+- **Output**: the interaction problem in non-western philosophy
+
+### ✓ 2026-03-19: Write article on the hard problem of consciousness in non-western philosophy
+- **Type**: expand-topic
+- **Notes**: Research completed in research/hard-problem-non-western-philosophy-2026-02-14.md. Indian, Buddhist, and Islamic philosophical traditions have long engaged with consciousness irreducibility — Chalmers' "hard problem" has non-western antecedents that strengthen the Map's dualist position. Target section: topics/.
+- **Output**: the hard problem of consciousness in non-western philosophy
+
+### ✓ 2026-03-19: Write concept page on Bradford Saad's delegatory dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/bradford-saad-delegatory-dualism-2026-01-28.md. Delegatory dualism is a direct competitor to the Map's interactionist framework — Saad proposes consciousness delegates causal work to physical processes rather than intervening directly. Critical positioning work: clarify where the Map agrees (non-reductive) and disagrees (bidirectional interaction tenet). Target section: concepts/.
+- **Output**: Write concept page on Bradford Saad's delegatory dualism
+
+### ✓ 2026-03-19: Cross-review voids articles considering self-transcendence void insights
+- **Type**: cross-review
+- **Notes**: New void article voids/self-transcendence-void.md (created 2026-03-19) develops the impossibility of fully transcending the self while remaining a subject. Review taxonomy-of-voids.md (apex) and observation-void.md for cross-links, whether the self-transcendence void adds a new dimension to the taxonomy, and consistency with existing void phenomenology treatments.
+- **Output**: None -- Context: Cross-review voids articles considering self-transcendence void insights
 
 ### ✓ 2026-03-19: Condense temporal-structure-of-consciousness.md (4043 words, 101% of hard threshold)
 - **Type**: condense

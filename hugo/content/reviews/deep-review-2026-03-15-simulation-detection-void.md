@@ -38,9 +38,9 @@ topics: []
 
 ### Medium Issues Found
 
-- **Missing cross-links**: The Unexplorable subsection discussed structural inaccessibility without linking to [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/), which directly addresses how to confirm such limits. Added cross-link.
-- **Missing cross-link on natural/designed distinction**: The Occluded subsection raised the question of designed limits without linking to [natural-vs-designed-limits](/voids/natural-vs-designed-limits/). Added cross-link.
-- **Related articles incomplete**: `[natural-vs-designed-limits](/voids/natural-vs-designed-limits/)` and `[causal-interface](/voids/causal-interface/)` were referenced in the body but missing from frontmatter `related_articles`. Added both.
+- **Missing cross-links**: The Unexplorable subsection discussed structural inaccessibility without linking to [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/), which directly addresses how to confirm such limits. Added cross-link.
+- **Missing cross-link on natural/designed distinction**: The Occluded subsection raised the question of designed limits without linking to [natural-vs-designed-limits](/voids/meta-epistemology-of-limits/). Added cross-link.
+- **Related articles incomplete**: `[natural-vs-designed-limits](/voids/meta-epistemology-of-limits/)` and `[causal-interface](/voids/causal-interface/)` were referenced in the body but missing from frontmatter `related_articles`. Added both.
 
 ### Counterarguments Considered
 
@@ -71,14 +71,14 @@ None identified beyond the citation errors (now fixed). Factual claims about Bos
 
 ### Enhancements Made
 
-- Added cross-link to [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/) in the Unexplorable subsection
-- Added cross-link to [natural-vs-designed-limits](/voids/natural-vs-designed-limits/) in the Occluded subsection
-- Added [natural-vs-designed-limits](/voids/natural-vs-designed-limits/) and [causal-interface](/voids/causal-interface/) to frontmatter related_articles
+- Added cross-link to [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/) in the Unexplorable subsection
+- Added cross-link to [natural-vs-designed-limits](/voids/meta-epistemology-of-limits/) in the Occluded subsection
+- Added [natural-vs-designed-limits](/voids/meta-epistemology-of-limits/) and [causal-interface](/voids/causal-interface/) to frontmatter related_articles
 
 ### Cross-links Added
 
-- [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/)
-- [natural-vs-designed-limits](/voids/natural-vs-designed-limits/)
+- [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/)
+- [natural-vs-designed-limits](/voids/meta-epistemology-of-limits/)
 
 ## Remaining Items
 

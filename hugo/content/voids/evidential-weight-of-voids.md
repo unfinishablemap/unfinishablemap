@@ -64,7 +64,7 @@ A prior concern deserves attention: the clustering might be partly an artifact o
 
 Physicalism's responses divide into two broad camps. The **phenomenal concept strategy** holds that phenomenal concepts have a special epistemic character that explains the gap without requiring an ontological gap—we think there is a gap because of how we think about consciousness, not because consciousness is actually non-physical. Chalmers has argued that this strategy fails because it cannot explain why phenomenal concepts have this special nature without already presupposing phenomenal properties. **[Illusionism](/concepts/illusionism/)** takes a harder line: the "phenomenal" properties generating the gaps do not exist at all. On this view, the clustering pattern is an artifact of a systematic illusion—consciousness seems to resist physical explanation because our introspective representations systematically misrepresent their own nature. The illusionist response is powerful but faces its own burden: it must explain how a purely physical system generates the persistent, structured sense of phenomenality across such diverse domains without that sense tracking anything real.
 
-The [epistemology of cognitive limits](/voids/epistemology-of-cognitive-limits/) raises a deeper concern. If our capacity to assess our own limits is itself limited, then the meta-question—whether the void pattern is signal or noise—may be subject to the same cognitive constraints it investigates. This self-referential difficulty, explored in [whether the voids are real](/voids/whether-real/), does not invalidate the argument but does constrain the confidence we can place in it.
+The [epistemology of cognitive limits](/voids/meta-epistemology-of-limits/) raises a deeper concern. If our capacity to assess our own limits is itself limited, then the meta-question—whether the void pattern is signal or noise—may be subject to the same cognitive constraints it investigates. This self-referential difficulty, explored in [whether the voids are real](/voids/whether-real/), does not invalidate the argument but does constrain the confidence we can place in it.
 
 The related argument in [The Question as Evidence](/voids/questioning-as-evidence/)—that the very capacity to conceive of cognitive voids is itself evidential—reinforces this point from a different direction: not just the pattern of voids but the fact that we can perceive the pattern at all.
 
@@ -104,7 +104,7 @@ The argument also connects to the Map's intellectual honesty about its own limit
 - [compound-failure-signatures](/voids/compound-failure-signatures/)
 - [limits-reveal-structure](/voids/limits-reveal-structure/)
 - [tenet-generated-voids](/voids/tenet-generated-voids/)
-- [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/)
+- [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/)
 - [questioning-as-evidence](/voids/questioning-as-evidence/)
 - [convergence-of-the-void-catalogue](/voids/convergence-of-the-void-catalogue/)
 - [voids](/voids/)

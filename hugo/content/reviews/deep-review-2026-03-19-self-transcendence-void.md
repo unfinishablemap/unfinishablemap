@@ -58,7 +58,7 @@ topics: []
 - [mysterianism](/concepts/mysterianism/) — Further Reading
 - [cognitive-closure](/concepts/cognitive-closure/) — Further Reading
 - [architecture-of-cognitive-closure](/voids/architecture-of-cognitive-closure/) — Further Reading
-- [epistemology-of-cognitive-limits](/voids/epistemology-of-cognitive-limits/) — Further Reading
+- [epistemology-of-cognitive-limits](/voids/meta-epistemology-of-limits/) — Further Reading
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — Further Reading
 - [recursion-void](/voids/recursion-void/) — Further Reading
 - [self-reference-paradox](/voids/self-reference-paradox/) — Further Reading
