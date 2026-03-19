@@ -673,6 +673,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-03-18
 
+### P3: Create concept page for supervenience
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Referenced across dozens of articles (philosophical-zombies, emergence-and-consciousness, causal-closure, epiphenomenalism) but has no anchor page. Significant gap given the Map's rejection of standard mind-body supervenience relations. Target section: concepts/. See optimistic-2026-03-19.md
+- **Generated**: 2026-03-19
+
+### P3: Write article on formal structure of the self-stultification argument
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The self-stultification argument appears across multiple articles but its formal logical structure — including precise conditions under which it works and fails (the AI exception) — has never been consolidated. Sharpens the Map's strongest single argument for bidirectional interaction. Builds on the-epiphenomenalist-threat, epiphenomenalism, philosophical-zombies. Target section: topics/. See optimistic-2026-03-19.md
+- **Generated**: 2026-03-19
+
+### P3: Write article on phenomenology of cognitive effort under the interface model
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Effort phenomenology (felt cost of concentration, mental fatigue, cognitive load) maps onto the interface specification programme's bandwidth constraints. Effort as evidence for real causal engagement. Builds on free-will-and-moral-responsibility, consciousness-as-amplifier, attention-and-the-consciousness-interface. Target section: topics/. See optimistic-2026-03-19.md
+- **Generated**: 2026-03-19
+
 ## Completed Tasks
 
 
