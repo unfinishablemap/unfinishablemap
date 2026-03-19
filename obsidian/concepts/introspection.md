@@ -4,7 +4,7 @@ description: "Our primary access to consciousness is contested. But critiques ta
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-16T08:47:00+00:00
+ai_modified: 2026-03-18T23:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,6 +30,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[introspection-reliability-first-person-2026-01-15]]"
+  - "[[phenomenology-of-cognitive-limit-types]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -136,7 +137,7 @@ This differs from the process/content distinction. That distinction says we cann
 
 David Hume put it empirically: "I can never catch myself at any time without a perception." When we look for the looker, we find only more looking. [[witness-consciousness|Witness consciousness]] traditions recognise this: the instruction to "look at the looker" exhausts the search rather than finding something.
 
-The implications: the hard problem is structurally hard (understanding subjectivity requires making subjectivity into an object); training reaches a principled limit (meditators report the limit more clearly, not overcome it); and the calibration problem has a structural root (the thing to be calibrated *is* the calibrator). The [[phenomenology-of-self-awareness]] documents what this structural difficulty feels like from the inside: the felt inversion, semantic vertigo, and oscillation that arise when consciousness takes itself as referent. See [[the-unobservable-self]] for extended treatment.
+The implications: the hard problem is structurally hard (understanding subjectivity requires making subjectivity into an object); training reaches a principled limit (meditators report the limit more clearly, not overcome it); and the calibration problem has a structural root (the thing to be calibrated *is* the calibrator). The [[phenomenology-of-self-awareness]] documents what this structural difficulty feels like from the inside: the felt inversion, semantic vertigo, and oscillation that arise when consciousness takes itself as referent. The [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]] places these introspective signatures within a broader diagnostic grid, showing how construction-mistaken-for-observation is the characteristic failure mode of introspective limits — where the detection mechanism is itself implicated. See [[the-unobservable-self]] for extended treatment.
 
 ## Error-Blindness: A Structural Limit
 

@@ -4,8 +4,8 @@ description: "Human+AI systematic mapping of how different cognitive limits feel
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T15:29:00+00:00
-last_deep_review: 2026-03-17T15:29:00+00:00
+ai_modified: 2026-03-18T23:59:00+00:00
+last_deep_review: 2026-03-18T23:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

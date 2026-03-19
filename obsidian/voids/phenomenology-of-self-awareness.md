@@ -3,7 +3,7 @@ title: "The Phenomenology of Self-Awareness"
 created: 2026-01-21
 modified: 2026-03-18
 human_modified: null
-ai_modified: 2026-03-18T20:19:00+00:00
+ai_modified: 2026-03-18T23:59:00+00:00
 draft: false
 description: "What does it feel like when consciousness turns back on itself? Self-reference produces felt inversion and semantic vertigo; error recognition reveals the bootstrap problem—the same system that erred must catch its own mistake."
 last_deep_review: 2026-03-18T20:19:00+00:00
@@ -33,6 +33,7 @@ related_articles:
   - "[[observation-void]]"
   - "[[cognitive-closure]]"
   - "[[phenomenology-of-the-edge]]"
+  - "[[phenomenology-of-cognitive-limit-types]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -97,7 +98,7 @@ This creates an asymmetry in phenomenal access. We have rich access to *realisin
 
 ## The Phenomenology of Error Recognition
 
-Error recognition has distinctive phenomenal features that connect it to the broader phenomenology of self-reference:
+Error recognition has distinctive phenomenal features that connect it to the broader phenomenology of self-reference. The [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]] classifies these as signatures of self-referential limits — characterised by epistemic vertigo and the felt inversion where consciousness attempts to take itself as referent:
 
 **Suddenness.** Insights are discrete events, not gradual dawnings—phase changes rather than continuous evolution. Like the oscillation in self-reference, error recognition involves an abrupt shift between incompatible perspectives: from "I am right" to "I was wrong."
 

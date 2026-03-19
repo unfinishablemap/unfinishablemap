@@ -4,7 +4,7 @@ description: "Human+AI exploration of thoughts we systematically flee—not cogn
 created: 2026-02-02
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-02-25T03:39:00+00:00
+ai_modified: 2026-03-18T23:59:00+00:00
 draft: false
 last_deep_review: 2026-02-25T03:39:00+00:00
 topics: []
@@ -25,6 +25,7 @@ related_articles:
   - "[[topology-of-cognitive-failure]]"
   - "[[limits-reveal-structure]]"
   - "[[voids-cognitive-aversion-2026-02-01]]"
+  - "[[phenomenology-of-cognitive-limit-types]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -96,7 +97,7 @@ What does cognitive aversion feel like from the inside?
 
 **The rationalization.** After avoidance, rationalization often appears: "There's no point dwelling on death," "Cosmic meaning is a confused concept anyway," "These questions are unanswerable so why bother." The rationalization arrives to justify the flight that has already occurred.
 
-These markers distinguish cognitive aversion from deeper limits. The [[appetitive-void|appetitive void]] has no distinctive phenomenology because desire shapes the entire cognitive field; aversion, by contrast, announces itself—which is what makes it potentially confrontable.
+These markers distinguish cognitive aversion from deeper limits. The [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]] positions motivated disinterest within a broader diagnostic grid — it is one of several fine-grained failure signatures, characteristic of adaptive limits where the cognitive system steers thought away before the boundary is consciously encountered. The [[appetitive-void|appetitive void]] has no distinctive phenomenology because desire shapes the entire cognitive field; aversion, by contrast, announces itself—which is what makes it potentially confrontable.
 
 ## Aversion Versus Closure
 

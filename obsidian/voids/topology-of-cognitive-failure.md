@@ -4,7 +4,7 @@ description: "Human+AI exploration of how cognitive failures reveal void boundar
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-03-07T22:39:00+00:00
+ai_modified: 2026-03-18T23:59:00+00:00
 draft: false
 last_deep_review: 2026-02-25T00:58:00+00:00
 topics:
@@ -25,6 +25,7 @@ related_articles:
   - "[[evolved-cognitive-limits]]"
   - "[[compound-cognitive-limits]]"
   - "[[convergence-of-the-void-catalogue]]"
+  - "[[phenomenology-of-cognitive-limit-types]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -59,7 +60,7 @@ Different types of cognitive limits produce different phenomenological signature
 | Expressive | Ineffability | Sense of knowing something that cannot be articulated |
 | Meta-cognitive | Vertigo | Destabilizing awareness of the fragility of one's rational position |
 
-Each signature type marks a different relationship between mind and limit. Self-refutation suggests approaching a boundary that cannot be drawn from the inside. Aporia suggests encountering genuine paradox, not merely difficulty. Systematic illusion suggests butting against the pattern-matching basis of cognition itself.
+Each signature type marks a different relationship between mind and limit. The [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]] extends this taxonomy by mapping each signature to its characteristic felt quality — showing how the *way* failure feels diagnoses the *kind* of limit encountered. Self-refutation suggests approaching a boundary that cannot be drawn from the inside. Aporia suggests encountering genuine paradox, not merely difficulty. Systematic illusion suggests butting against the pattern-matching basis of cognition itself.
 
 These signatures do not always appear in isolation. Where multiple limits overlap, their [[compound-cognitive-limits|compound interaction]] can produce qualitatively different phenomenology—not the sum of individual signatures but emergent failure modes that no single limit predicts.
 
