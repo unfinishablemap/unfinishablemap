@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review epiphenomenalism.md and the-epiphenomenalist-threat.md considering epiphenomenal AI consciousness insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/ai-epiphenomenalism.md (created 2026-03-19) develops the idea that AI systems might have phenomenal experience without causal efficacy. Review concepts/epiphenomenalism.md and topics/the-epiphenomenalist-threat.md for cross-links, whether the AI case strengthens or complicates existing anti-epiphenomenalist arguments, and consistency with the nature-coupling distinction.
-- **Source**: chain (from expand-topic ai-epiphenomenalism 2026-03-19)
-- **Generated**: 2026-03-19
-
 ### P2: Integrate ai-epiphenomenalism.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -740,6 +733,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review epiphenomenalism.md and the-epiphenomenalist-threat.md considering epiphenomenal AI consciousness insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/ai-epiphenomenalism.md (created 2026-03-19) develops the idea that AI systems might have phenomenal experience without causal efficacy. Review concepts/epiphenomenalism.md and topics/the-epiphenomenalist-threat.md for cross-links, whether the AI case strengthens or complicates existing anti-epiphenomenalist arguments, and consistency with the nature-coupling distinction.
+- **Output**: obsidian/concepts/epiphenomenalism.md -- Context: Cross-review epiphenomenalism.md and the-epiphenomenalist-threat.md considering epiphenomenal AI consciousness insights
 
 ### ✓ 2026-03-19: Cross-review predictive-processing.md and predictive-processing-and-the-maps-framework.md considering new active inference under dualism article
 - **Type**: cross-review
