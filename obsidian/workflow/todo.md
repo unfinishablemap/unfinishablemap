@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense temporal-structure-of-consciousness.md (4043 words, 101% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Created from recent coalesce operation. Preserve core arguments about temporal structure while trimming redundancy with linked temporal consciousness articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review voids articles considering self-transcendence void insights
 - **Type**: cross-review
 - **Notes**: New void article voids/self-transcendence-void.md (created 2026-03-19) develops the impossibility of fully transcending the self while remaining a subject. Review taxonomy-of-voids.md (apex) and observation-void.md for cross-links, whether the self-transcendence void adds a new dimension to the taxonomy, and consistency with existing void phenomenology treatments.
@@ -748,6 +742,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Condense temporal-structure-of-consciousness.md (4043 words, 101% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Created from recent coalesce operation. Preserve core arguments about temporal structure while trimming redundancy with linked temporal consciousness articles. See /condense skill.
+- **Output**: obsidian/topics/temporal-structure-of-consciousness.md
 
 ### ✓ 2026-03-19: Condense baseline-cognition.md (3682 words, 105% of hard threshold)
 - **Type**: condense
