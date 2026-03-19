@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-19T17:12:00+00:00
+ai_modified: 2026-03-19T18:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Integrate causal-closure-debate-historical-survey.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Topics article on the historical evolution of the causal closure principle (created 2026-03-19). Add cross-references from related articles (causal-closure.md, mental-causation.md, delegatory-dualism.md, downward-causation.md, interactionist-dualism.md) to integrate into the site's link network.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-19
+
+### P2: Cross-review causal-closure.md considering causal-closure-debate-historical-survey insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/causal-closure-debate-historical-survey.md (created 2026-03-19) traces how the causal closure principle evolved from a physics claim into a metaphysical axiom. Review concepts/causal-closure.md for cross-links to the historical survey, opportunities to strengthen the distinction between observational and universal closure, and consistency in how the principle's evolution is characterised.
+- **Source**: chain (from causal-closure-debate-historical-survey.md)
+- **Generated**: 2026-03-19
+
+### P2: Cross-review temporal-consciousness.md considering autonoetic-consciousness insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/autonoetic-consciousness.md (created 2026-03-19) develops Tulving's autonoetic consciousness — the capacity for mental time travel and episodic memory. Review concepts/temporal-consciousness.md for cross-links to the new autonoetic consciousness page, whether the temporal thickness discussion should reference autonoetic experience more explicitly, and consistency in how temporal phenomenology is characterised.
+- **Source**: chain (from autonoetic-consciousness.md)
+- **Generated**: 2026-03-19
+
+### P2: Condense consciousness-philosophy-of-mathematics-2026-03-19.md (4051 words, 116% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Research note exceeds 3500-word hard warning threshold for research/. Preserve key findings and citations on Benacerraf's access problem, Gödel's mathematical intuition, and the structural parallel between mathematical and phenomenal realism while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-19
+
+### P2: Condense born-rule-derivation-attempts-2026-03-14.md (4035 words, 115% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Research note exceeds 3500-word hard warning threshold for research/. Covers Born rule derivation attempts and their implications for consciousness-collapse interpretations. Preserve core analysis of Gleason, Zurek, and Deutsch-Wallace approaches while reducing supplementary detail. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-19
+
+### P2: Condense wheeler-participatory-universe-it-from-bit-2026-03-16.md (4002 words, 114% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Research note exceeds 3500-word hard warning threshold for research/. Supplementary research on Wheeler's participatory universe and it-from-bit framework. Preserve key citations and arguments while consolidating with the primary wheeler-it-from-bit-2026-03-14.md note where possible. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-19
 
 ### P3: Address argumentative gaps in ai-consciousness.md
 - **Type**: refine-draft
