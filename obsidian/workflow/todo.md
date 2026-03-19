@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review AI consciousness articles considering structural varieties insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/structural-varieties-of-consciousness-and-ai-phenomenology.md (created 2026-03-19) maps structural features of consciousness beyond content differences and applies them to AI phenomenology. Review topics/ai-consciousness.md and concepts/types-of-consciousness.md for cross-links, whether the structural varieties framework refines existing treatments, and terminology consistency. Supports Tenet 1 (Dualism).
-- **Source**: chain (from structural-varieties-of-consciousness-and-ai-phenomenology.md)
-- **Generated**: 2026-03-19
-
 ### P2: Integrate structural-varieties-of-consciousness-and-ai-phenomenology.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -686,6 +679,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Cross-review AI consciousness articles considering structural varieties insights
+- **Type**: cross-review
+- **Notes**: New article topics/structural-varieties-of-consciousness-and-ai-phenomenology.md (created 2026-03-19) maps structural features of consciousness beyond content differences and applies them to AI phenomenology. Review topics/ai-consciousness.md and concepts/types-of-consciousness.md for cross-links, whether the structural varieties framework refines existing treatments, and terminology consistency. Supports Tenet 1 (Dualism).
+- **Output**: None -- Context: Cross-review AI consciousness articles considering structural varieties insights
 
 ### ✓ 2026-03-19: Write article on phenomenological method and evidence standards
 - **Type**: expand-topic
