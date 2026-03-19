@@ -17,6 +17,11 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 14:28 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Epistemological limits of Occam's razor for consciousness
+- **Reason**: Research already fully consumed by three existing articles: [[epistemological-limits-of-occams-razor]] (arguments, 2026-02-06), [[epistemological-limits-occams-razor]] (Parsimony Void, 2026-02-22), and [[parsimony-epistemology]] (concept, 2026-03-18). A topics/ article would duplicate the arguments article almost verbatim. No new article created.
+
 ## 2026-03-19 14:22 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: Probability and decision-theory objections to many worlds

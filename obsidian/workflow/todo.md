@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on epistemological limits of Occam's razor for consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/epistemological-limits-occams-razor-consciousness-2026-02-06.md. Develop the case that parsimony arguments fail when applied to consciousness — Occam's razor presupposes we can identify ontological commitments, but consciousness's irreducibility means we cannot know what counts as "simpler." Directly supports Tenet 5 (Occam's Razor Has Limits). Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review mathematical-knowledge-and-insight.md considering philosophy of mathematics article
 - **Type**: cross-review
 - **Status**: pending
@@ -797,6 +790,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Write article on epistemological limits of Occam's razor for consciousness
+- **Type**: expand-topic
+- **Notes**: Research completed in research/epistemological-limits-occams-razor-consciousness-2026-02-06.md. Develop the case that parsimony arguments fail when applied to consciousness — Occam's razor presupposes we can identify ontological commitments, but consciousness's irreducibility means we cannot know what counts as "simpler." Directly supports Tenet 5 (Occam's Razor Has Limits). Target section: topics/.
+- **Output**: epistemological limits of Occam's razor for consciousness
 
 ### ✓ 2026-03-19: Write article on probability and decision-theory objections to many worlds
 - **Type**: expand-topic
