@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced past-self-void and memory-void articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce merged past-self-void and memory-void into inaccessible-past. The following active files reference the archived slugs and may need wikilink updates: voids/other-minds-void.md, voids/narrative-void.md, voids/counterfactual-void.md, voids/convergence-of-the-void-catalogue.md, voids/historical-consciousness-void.md, voids/transition-void.md, voids/death-void.md, voids/dreamless-sleep-void.md, voids/temporal-void.md, voids/thoughts-that-slip-away.md, concepts/episodic-memory.md, concepts/memory-as-dual-domain-capability.md, topics/phenomenology-of-memory-and-the-self.md, topics/consciousness-and-memory.md, topics/personal-identity.md, topics/social-construction-of-self-vs-phenomenal-self.md, topics/consciousness-and-the-metaphysics-of-individuation.md
-- **Source**: coalesce
-- **Generated**: 2026-03-19
-
 ### P2: Cross-review mathematical-knowledge-and-insight.md considering new philosophy of mathematics article
 - **Type**: cross-review
 - **Status**: pending
@@ -804,6 +797,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Update references to coalesced past-self-void and memory-void articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged past-self-void and memory-void into inaccessible-past. The following active files reference the archived slugs and may need wikilink updates: voids/other-minds-void.md, voids/narrative-void.md, voids/counterfactual-void.md, voids/convergence-of-the-void-catalogue.md, voids/historical-consciousness-void.md, voids/transition-void.md, voids/death-void.md, voids/dreamless-sleep-void.md, voids/temporal-void.md, voids/thoughts-that-slip-away.md, concepts/episodic-memory.md, concepts/memory-as-dual-domain-capability.md, topics/phenomenology-of-memory-and-the-self.md, topics/consciousness-and-memory.md, topics/personal-identity.md, topics/social-construction-of-self-vs-phenomenal-self.md, topics/consciousness-and-the-metaphysics-of-individuation.md
+- **Output**: None -- Context: Update references to coalesced past-self-void and memory-void articles
 
 ### ✓ 2026-03-19: Write article on consciousness and the philosophy of mathematics
 - **Type**: expand-topic
