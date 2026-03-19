@@ -7,9 +7,8 @@ human_modified:
 ai_modified: 2026-03-12T23:19:00+00:00
 draft: false
 topics:
-  - "[[perception-and-conscious-experience]]"
+  - "[[dualist-perception]]"
   - "[[predictive-processing-and-the-maps-framework]]"
-  - "[[philosophy-of-perception-under-dualism]]"
 concepts:
   - "[[predictive-processing]]"
   - "[[qualia]]"
@@ -44,7 +43,7 @@ Colour constancy, size constancy, temporal binding, and motion interpolation all
 
 ## The Transmission Layer
 
-Against this background of pervasive editing, certain perceptual degradations pass through to consciousness unaltered. Optical blur from uncorrected vision reaches awareness precisely as the retina registers it—the brain makes no attempt to sharpen the image despite having sophisticated edge-detection machinery. Tinnitus presents a persistent neural signal with no competing external source, and the brain does not suppress it even after years. Visual floaters cast real shadows on the retina, and consciousness sees them faithfully despite their irrelevance. [[perception-and-conscious-experience|Blindsight]] sharpens the contrast from the opposite direction: patients with damage to primary visual cortex process visual information accurately enough to guide behaviour—reaching, grasping, navigating obstacles—while reporting no visual experience at all. The brain processes without transmitting to consciousness, demonstrating that the transmission layer can be selectively disconnected.
+Against this background of pervasive editing, certain perceptual degradations pass through to consciousness unaltered. Optical blur from uncorrected vision reaches awareness precisely as the retina registers it—the brain makes no attempt to sharpen the image despite having sophisticated edge-detection machinery. Tinnitus presents a persistent neural signal with no competing external source, and the brain does not suppress it even after years. Visual floaters cast real shadows on the retina, and consciousness sees them faithfully despite their irrelevance. [[blindsight|Blindsight]] sharpens the contrast from the opposite direction: patients with damage to primary visual cortex process visual information accurately enough to guide behaviour—reaching, grasping, navigating obstacles—while reporting no visual experience at all. The brain processes without transmitting to consciousness, demonstrating that the transmission layer can be selectively disconnected.
 
 Most revealing are the cognitively impenetrable illusions. The Müller-Lyer illusion—lines of equal length appearing unequal due to arrow-fin orientations—persists even when the observer knows with certainty that the lines are equal. Fodor and Pylyshyn argued this demonstrates informational encapsulation: the perceptual module processes its input using only its own internal resources, deaf to corrections from central cognition. The conscious mind knows the truth and cannot make itself see it.
 
@@ -72,7 +71,7 @@ This temporal asymmetry maps onto a picture where consciousness operates on a di
 
 ## Relation to Site Perspective
 
-The Unfinishable Map's commitment to [[interactionist-dualism]] finds concrete expression in the reconstruction paradox. If consciousness is not reducible to neural processing (the Dualism tenet), then the brain's two-mode operation—editing versus faithful transmission—describes the interface between two ontologically distinct domains. The editing layer is the brain's autonomous processing; the transmission layer is where sensory reality reaches consciousness with minimal mediation. [[philosophy-of-perception-under-dualism|Dualist philosophy of perception]] frames this as perception crossing an ontological boundary—and the reconstruction paradox reveals that the crossing has different characters depending on whether the brain has edited the signal first.
+The Unfinishable Map's commitment to [[interactionist-dualism]] finds concrete expression in the reconstruction paradox. If consciousness is not reducible to neural processing (the Dualism tenet), then the brain's two-mode operation—editing versus faithful transmission—describes the interface between two ontologically distinct domains. The editing layer is the brain's autonomous processing; the transmission layer is where sensory reality reaches consciousness with minimal mediation. [[dualist-perception|Dualist perception theory]] frames this as perception crossing an ontological boundary—and the reconstruction paradox reveals that the crossing has different characters depending on whether the brain has edited the signal first.
 
 The Bidirectional Interaction tenet predicts exactly the kind of architecture the paradox reveals. Consciousness receives information from the brain (the curated feed) but cannot directly penetrate back into the brain's modular processing (cognitive impenetrability). The interaction runs through specific channels—quantum-level or otherwise—not through wholesale access to neural computation. This explains why consciousness can know the illusion is false without being able to correct the experience: its causal influence operates at a different level than the perceptual modules.
 
@@ -80,9 +79,8 @@ The cognitive impenetrability boundary functions as a void in the Map's framewor
 
 ## Further Reading
 
-- [[perception-and-conscious-experience]]
+- [[dualist-perception]]
 - [[predictive-processing-and-the-maps-framework]]
-- [[philosophy-of-perception-under-dualism]]
 - [[hard-problem-of-consciousness]]
 - [[consciousness-only-territories]]
 - [[illusionism]]

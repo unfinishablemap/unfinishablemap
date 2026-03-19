@@ -239,7 +239,7 @@ Eliminativists and illusionists invoke parsimony: why posit qualia as something 
 - [[concepts/functionalism]] — The primary target of the inverted spectrum argument
 - [[knowledge-argument]] — Another route to the same dualist conclusion
 - [[problem-of-other-minds]] — The epistemic implications of qualia's privacy
-- [[perception-and-conscious-experience]] — Perceptual qualia as the paradigm case for understanding consciousness
+- [[dualist-perception]] — Perceptual qualia as the paradigm case for understanding consciousness
 - [[explanatory-gap]] — Why structural descriptions leave phenomenal character unexplained
 - [[illusionism]] — The radical denial of phenomenal properties
 - [[concepts/epiphenomenalism]] — The view that qualia are causally inert

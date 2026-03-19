@@ -61,7 +61,7 @@ Block's 1995 paper argued philosophers conflate two distinct concepts:
 
 The distinction reveals what physicalist theories can and cannot explain. Physicalism succeeds at access: [[Global-workspace-theory|Global Workspace Theory]] and related neural models can explain how information becomes globally available. But even complete understanding of access mechanisms leaves the [[hard-problem-of-consciousness|hard problem]] untouched: why does globally broadcast information feel like anything?
 
-Block argues the two can dissociate. [[Blindsight]] patients may have degraded access without phenomenology. Sperling's iconic memory experiments suggest phenomenology exceeding access capacity—though this interpretation remains contested. If dissociations are real, functional explanations explain access but not phenomenology. These dissociations are explored in detail in [[perception-and-conscious-experience|perception and conscious experience]], where blindsight, inattentional blindness, and subliminal perception each separate processing from phenomenal awareness.
+Block argues the two can dissociate. [[Blindsight]] patients may have degraded access without phenomenology. Sperling's iconic memory experiments suggest phenomenology exceeding access capacity—though this interpretation remains contested. If dissociations are real, functional explanations explain access but not phenomenology. These dissociations are explored in detail in [[dualist-perception|perception and conscious experience]], where blindsight, inattentional blindness, and subliminal perception each separate processing from phenomenal awareness.
 
 ## The Hard Problem {#hard-problem}
 

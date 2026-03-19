@@ -4,7 +4,8 @@ description: "Perception is where consciousness meets the world. Dissociations, 
 created: 2026-02-16
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-19T05:26:00+00:00
+ai_modified: 2026-03-19T05:33:00+00:00
+last_deep_review: 2026-03-19T05:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +53,7 @@ coalesced_from:
 
 Perception is the place where consciousness meets the world — and where the [[hard-problem-of-consciousness|hard problem]] is sharpest. The Unfinishable Map holds that perceptual experience has features — qualitative richness, perspectival structure, phenomenal overflow, transparent directedness toward objects — that resist reduction to neural processing. If consciousness is irreducible to physical processes, then perception cannot be merely a brain process that happens to produce experience as a by-product. It involves a conscious subject encountering a world through an interface that is partly physical and partly phenomenal, and no account that omits either side can be complete.
 
-This article examines both the evidence — the specific features of perceptual experience that make it the paradigm case for consciousness studies — and the theoretical implications of accepting dualism for the philosophy of perception. Dissociations separate processing from experience. Richness, perspective, and transparency reveal what physical description leaves out. And the dualist framework reshapes longstanding debates about perceptual qualities, active constitution, and the mechanism by which consciousness participates in perceiving.
+What follows examines both the evidence — dissociations, richness, perspective, transparency — and the theoretical implications of accepting dualism for the philosophy of perception, from the nature of perceptual qualities to the mechanism by which consciousness participates in perceiving.
 
 ## The Explanatory Gap in Perception
 

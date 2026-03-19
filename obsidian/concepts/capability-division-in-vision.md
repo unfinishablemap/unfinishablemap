@@ -8,7 +8,7 @@ ai_modified: 2026-03-18T20:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[philosophy-of-perception-under-dualism]]"
+  - "[[dualist-perception]]"
 concepts:
   - "[[blindsight]]"
   - "[[visual-consciousness]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[epiphenomenalism]]"
 related_articles:
   - "[[capability-division-problem]]"
-  - "[[perception-and-conscious-experience]]"
+  - "[[dualist-perception]]"
   - "[[binding-void]]"
   - "[[consciousness-as-perceptual-architect]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
@@ -97,7 +97,7 @@ One speculative possibility: the mind-side contribution in vision may not be an 
 - [[blindsight]] — What vision looks like without consciousness
 - [[visual-consciousness]] — The phenomenal experience of seeing
 - [[baseline-cognition]] — What unconscious processing achieves and where it stops
-- [[perception-and-conscious-experience]] — Vision as paradigm case for consciousness studies
+- [[dualist-perception]] — Vision as paradigm case for consciousness studies
 - [[binding-void]] — Why perceptual binding tracks with conscious awareness
 - [[conscious-vs-unconscious-processing]] — The three functions consciousness enables that vision exemplifies
 - [[neurological-dissociations-as-interface-architecture]] — How vision dissociations map the interface's functional anatomy

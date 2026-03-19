@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced perception articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce created [[dualist-perception]]. The following active content files reference archived articles [[perception-and-conscious-experience]] and/or [[philosophy-of-perception-under-dualism]] and need wikilinks updated: concepts/visual-consciousness.md, concepts/inverted-qualia.md, concepts/phenomenal-overflow.md, concepts/phenomenal-consciousness.md, concepts/phenomenology.md, concepts/capability-division-in-vision.md, concepts/selective-perceptual-correction.md, concepts/perceptual-reconstruction-selection.md, concepts/phenomenal-binding-and-holism.md, concepts/embodied-cognition.md, concepts/blindsight.md, concepts/access-consciousness.md, concepts/qualia.md, concepts/knowledge-argument.md, concepts/phenomenal-transparency.md, concepts/binding-problem.md, topics/lucid-dreaming-and-dualist-rendering.md, topics/consciousness-as-perceptual-architect.md, topics/sensorimotor-contingencies-and-the-interface.md, topics/perceptual-failure-and-the-interface.md, topics/three-dimensional-world-representation-problem.md, topics/phenomenal-binding-and-multimodal-integration.md, topics/neurological-dissociations-as-interface-architecture.md, topics/bandwidth-of-consciousness.md, topics/indian-philosophy-of-mind.md, topics/phenomenology-of-embodiment-under-dualism.md, voids/capability-division-problem.md, voids/reconstruction-paradox.md
-- **Source**: coalesce
-- **Generated**: 2026-03-19
-
 ### P2: Integrate lucid-dreaming-and-mind-side-rendering.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -732,6 +725,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Update references to coalesced perception articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [[dualist-perception]]. The following active content files reference archived articles [[perception-and-conscious-experience]] and/or [[philosophy-of-perception-under-dualism]] and need wikilinks updated: concepts/visual-consciousness.md, concepts/inverted-qualia.md, concepts/phenomenal-overflow.md, concepts/phenomenal-consciousness.md, concepts/phenomenology.md, concepts/capability-division-in-vision.md, concepts/selective-perceptual-correction.md, concepts/perceptual-reconstruction-selection.md, concepts/phenomenal-binding-and-holism.md, concepts/embodied-cognition.md, concepts/blindsight.md, concepts/access-consciousness.md, concepts/qualia.md, concepts/knowledge-argument.md, concepts/phenomenal-transparency.md, concepts/binding-problem.md, topics/lucid-dreaming-and-dualist-rendering.md, topics/consciousness-as-perceptual-architect.md, topics/sensorimotor-contingencies-and-the-interface.md, topics/perceptual-failure-and-the-interface.md, topics/three-dimensional-world-representation-problem.md, topics/phenomenal-binding-and-multimodal-integration.md, topics/neurological-dissociations-as-interface-architecture.md, topics/bandwidth-of-consciousness.md, topics/indian-philosophy-of-mind.md, topics/phenomenology-of-embodiment-under-dualism.md, voids/capability-division-problem.md, voids/reconstruction-paradox.md
+- **Output**: None -- Context: Update references to coalesced perception articles
 
 ### ✓ 2026-03-19: Research predictive processing and active inference under dualism
 - **Type**: research-topic

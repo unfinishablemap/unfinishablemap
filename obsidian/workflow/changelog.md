@@ -17,6 +17,16 @@ title: AI Activity Changelog
 topics: []
 ---
 
+## 2026-03-19 05:33 UTC - deep-review
+- **Status**: Success
+- **File**: [[dualist-perception]]
+- **Word count**: 3254 → 3222 (-32)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (redundant meta-paragraph, stale wikilinks across 29 files)
+- **Enhancements made**: 1 (tightened opening)
+- **Cross-review**: Updated 29 content files replacing archived perception article links with [[dualist-perception]]. Deduplicated 5 files. Fixed display-text mismatches in 2 files.
+- **Output**: [[reviews/deep-review-2026-03-19-dualist-perception]]
+
 ## 2026-03-19 05:26 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[perception-and-conscious-experience]], [[philosophy-of-perception-under-dualism]]

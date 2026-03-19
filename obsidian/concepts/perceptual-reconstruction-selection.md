@@ -7,9 +7,8 @@ human_modified:
 ai_modified: 2026-03-18T14:55:00+00:00
 draft: false
 topics:
-  - "[[perception-and-conscious-experience]]"
+  - "[[dualist-perception]]"
   - "[[predictive-processing-and-the-maps-framework]]"
-  - "[[philosophy-of-perception-under-dualism]]"
 concepts:
   - "[[consciousness-selecting-neural-patterns]]"
   - "[[predictive-processing]]"
@@ -85,7 +84,7 @@ The Map speculates that the meditation findings are particularly revealing. If t
 - [[predictive-processing-and-the-maps-framework]] — predictive processing and interactionist dualism
 - [[filter-theory]] — the brain as filter rather than generator of consciousness
 - [[cognitive-closure]] — the limits of what consciousness can access about its own mechanisms
-- [[perception-and-conscious-experience]]
+- [[dualist-perception]]
 
 ## References
 

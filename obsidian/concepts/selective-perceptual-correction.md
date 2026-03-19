@@ -7,9 +7,8 @@ human_modified:
 ai_modified: 2026-03-18T00:40:00+00:00
 draft: false
 topics:
-  - "[[perception-and-conscious-experience]]"
+  - "[[dualist-perception]]"
   - "[[predictive-processing-and-the-maps-framework]]"
-  - "[[philosophy-of-perception-under-dualism]]"
 concepts:
   - "[[predictive-processing]]"
   - "[[interactionist-dualism]]"
@@ -84,9 +83,9 @@ The Map speculates that the boundary between corrected and uncorrected signals m
 ## Further Reading
 
 - [[reconstruction-paradox]] — the philosophical paradox this mechanism creates
-- [[perception-and-conscious-experience]]
+- [[dualist-perception]]
 - [[predictive-processing-and-the-maps-framework]]
-- [[philosophy-of-perception-under-dualism]]
+- [[dualist-perception]]
 - [[attention-as-interface]]
 - [[filter-theory]]
 - [[cognitive-closure]]

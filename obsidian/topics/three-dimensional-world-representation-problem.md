@@ -10,7 +10,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[the-binding-problem-a-systematic-treatment]]"
-  - "[[perception-and-conscious-experience]]"
+  - "[[dualist-perception]]"
 concepts:
   - "[[binding-problem]]"
   - "[[qualia]]"
@@ -103,7 +103,7 @@ This dual-domain reading also addresses the construction problem. The [[phenomen
 
 - [[hard-problem-of-consciousness]]
 - [[the-binding-problem-a-systematic-treatment]]
-- [[perception-and-conscious-experience]]
+- [[dualist-perception]]
 - [[consciousness-as-perceptual-architect]]
 - [[unity-of-consciousness]]
 - [[phenomenal-binding-and-multimodal-integration]]

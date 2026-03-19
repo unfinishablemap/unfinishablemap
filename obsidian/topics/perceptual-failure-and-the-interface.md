@@ -8,7 +8,7 @@ ai_modified: 2026-03-14T00:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[philosophy-of-perception-under-dualism]]"
+  - "[[dualist-perception]]"
 concepts:
   - "[[interface-friction]]"
   - "[[filter-theory]]"
@@ -26,7 +26,7 @@ concepts:
   - "[[causal-closure]]"
 related_articles:
   - "[[tenets]]"
-  - "[[perception-and-conscious-experience]]"
+  - "[[dualist-perception]]"
   - "[[the-interface-specification-problem]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
@@ -128,7 +128,7 @@ The bandwidth model accommodates this directly. A transmission channel with fini
 
 ## Further Reading
 
-- [[perception-and-conscious-experience]]
+- [[dualist-perception]]
 - [[the-interface-specification-problem]]
 - [[anaesthesia-and-the-consciousness-interface]]
 - [[interface-friction]]

@@ -14,7 +14,7 @@ topics:
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[interaction-problem-across-traditions]]"
   - "[[the-convergence-argument-for-dualism]]"
-  - "[[philosophy-of-perception-under-dualism]]"
+  - "[[dualist-perception]]"
 concepts:
   - "[[witness-consciousness]]"
   - "[[interactionist-dualism]]"
@@ -27,7 +27,6 @@ concepts:
   - "[[dualism]]"
   - "[[causal-closure]]"
   - "[[objections-to-interactionism]]"
-  - "[[dualism]]"
 related_articles:
   - "[[tenets]]"
   - "[[buddhism-and-dualism]]"
@@ -83,7 +82,7 @@ The Nyaya school developed rigorous arguments against the Buddhist *anatman* (no
 
 ### A Causal Theory of Perception
 
-Nyaya developed the most rigorous perceptual theory in classical Indian philosophy—a framework with striking parallels to modern [[philosophy-of-perception-under-dualism|dualist theories of perception]]. Perception (*pratyaksha*) involves a causal chain linking object, sense organ, *manas*, and self. Uddyotakara (c. 600 CE) systematized six types of sense-object contact. Gangesa (c. 1325 CE) refined the earlier Nyaya distinction between indeterminate perception (*nirvikalpaka*)—non-conceptual awareness of bare particulars—and determinate perception (*savikalpaka*)—conceptual, classified awareness ("this is a blue pot"). Both stages produce valid knowledge; Gangesa's contribution was to formalise the conditions under which each yields warranted belief.
+Nyaya developed the most rigorous perceptual theory in classical Indian philosophy—a framework with striking parallels to modern [[dualist-perception|dualist theories of perception]]. Perception (*pratyaksha*) involves a causal chain linking object, sense organ, *manas*, and self. Uddyotakara (c. 600 CE) systematized six types of sense-object contact. Gangesa (c. 1325 CE) refined the earlier Nyaya distinction between indeterminate perception (*nirvikalpaka*)—non-conceptual awareness of bare particulars—and determinate perception (*savikalpaka*)—conceptual, classified awareness ("this is a blue pot"). Both stages produce valid knowledge; Gangesa's contribution was to formalise the conditions under which each yields warranted belief.
 
 Gangesa also gave the most rigorous treatment of apperception (*anuvyavasaya*): awareness of being aware. He distinguished knowing *that* one cognizes (practically infallible) from knowing *what* one cognizes (fallible). This anticipates debates about higher-order theories of consciousness in contemporary philosophy of mind.
 
@@ -165,7 +164,7 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 - [[the-convergence-argument-for-dualism]] — The epistemological structure Indian philosophy exemplifies
 - [[interaction-problem-across-traditions]] — Broader survey including Samkhya alongside Islamic and Buddhist approaches
 - [[causal-closure]] — How Samkhya's framework preserves causal closure
-- [[philosophy-of-perception-under-dualism]] — Dualist theories of perception, with parallels to Nyaya
+- [[dualist-perception]] — Dualist theories of perception, with parallels to Nyaya
 - [[objections-to-interactionism]] — Standard challenges that Samkhya's framework sidesteps
 
 ## References

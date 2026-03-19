@@ -9,7 +9,7 @@ last_deep_review: 2026-03-10T22:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[perception-and-conscious-experience]]"
+  - "[[dualist-perception]]"
 concepts:
   - "[[attention-as-interface]]"
   - "[[interface-friction]]"

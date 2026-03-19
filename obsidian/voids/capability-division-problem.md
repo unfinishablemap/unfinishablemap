@@ -8,7 +8,7 @@ ai_modified: 2026-03-19T03:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[philosophy-of-perception-under-dualism]]"
+  - "[[dualist-perception]]"
 concepts:
   - "[[interactionist-dualism]]"
   - "[[blindsight]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[baseline-cognition]]"
   - "[[epiphenomenalism]]"
 related_articles:
-  - "[[perception-and-conscious-experience]]"
+  - "[[dualist-perception]]"
   - "[[smoothness-problem]]"
   - "[[memory-as-dual-domain-capability]]"
   - "[[dream-consciousness]]"
@@ -100,14 +100,14 @@ The Map speculates that the capability division may ultimately prove asymmetric:
 - [[memory-as-dual-domain-capability]] — Memory as requiring both brain-side and mind-side contributions
 - [[dream-consciousness]] — How the division shifts across waking and dreaming
 - [[sensorimotor-contingencies-and-the-interface]] — The interface's operational grammar
-- [[perception-and-conscious-experience]] — Vision as the paradigm case
+- [[dualist-perception]] — Vision as the paradigm case
 - [[blindsight]]
 - [[visual-consciousness]]
 - [[baseline-cognition]]
 - [[interactionist-dualism]]
 - [[epiphenomenalism]]
 - [[capability-division-in-vision]] — The vision-specific case study applying this framework
-- [[philosophy-of-perception-under-dualism]]
+- [[dualist-perception]]
 - [[binding-void]] — The perceptual binding problem as a void
 - [[causal-interface]] — The mind-brain interface itself
 - [[interface-formalization-void]] — Why formalising the interface may be impossible
