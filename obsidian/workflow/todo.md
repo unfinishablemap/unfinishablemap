@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate evolution-of-consciousness-dualist-perspective.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Add cross-references from related articles (consciousness-evolution-problem, animal-consciousness, biological-teleology-and-the-interface-framework) or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-19
-
-### P2: Deep review causal-closure-debate-historical-survey.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-19 via expand-topic, never reviewed. Topics article on the historical development of the causal closure debate. Verify accuracy of historical claims (Broad, Kim, Papineau, Lowe attributions), coherence, cross-references, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-19
-
 ### P3: Address argumentative gaps in ai-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -851,6 +837,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-19: Integrate evolution-of-consciousness-dualist-perspective.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Add cross-references from related articles (consciousness-evolution-problem, animal-consciousness, biological-teleology-and-the-interface-framework) or update section index pages to include navigation to this content.
+- **Output**: evolution-of-consciousness-dualist-perspective.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-19: Integrate conservation-laws-mind-brain-causation.md into site navigation
 - **Type**: integrate-orphan

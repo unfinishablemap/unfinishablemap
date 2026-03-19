@@ -5,6 +5,11 @@ ai_modified: 2026-02-05 01:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 ---
 
+## 2026-03-19 22:18 UTC - deep-review
+- **Status**: Skipped
+- **File**: evolution-of-consciousness-dualist-perspective.md
+- **Reason**: File is archived (coalesced into [[topics/evolution-under-dualism]] on 2026-03-14). Stale todo task removed — same integration task was already completed 2026-03-15. No live content links to old slug; no action needed.
+
 ## 2026-03-19 22:10 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: All non-draft content across topics (227), concepts (211), tenets (1), apex (20)
